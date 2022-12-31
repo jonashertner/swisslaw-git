@@ -4,13 +4,13 @@ number: "180"
 title: Gesetz über die Organisation und die Verwaltung der Gemeinden
 short: Gemeindegesetz
 language: de
-version: 2021-07-01
-valid_until: 2022-12-31
-version_adopted: 2021-01-28
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-06-30
 adopted: 1970-05-28
 in_force: 1972-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180"
-pdf: "https://bl.clex.ch/api/de/versions/2990/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2990/pdf_file"
 
 (Gemeindegesetz)
 
-Vom 28.05.1970 (Stand 01.07.2021)
+Vom 28.05.1970 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -817,7 +817,7 @@ beschliesst:[^ingress-2]
 
 **Publikation**
 
-<sup>1</sup> Die Gemeinden führen oder bezeichnen ein amtliches Publikationsorgan in Papierform. Sie publizieren darin:
+<sup>1</sup> Die Gemeinden führen oder bezeichnen ein amtliches Publikationsorgan. Sie publizieren darin:
 
 - a. die Einladungen zu den Gemeindeversammlungen oder zu den Einwohnerratssitzungen;
 - b. die Beschlüsse der Gemeindeversammlung oder des Einwohnerrats oder den Hinweis, wo die Beschlüsse eingesehen werden können;
@@ -827,6 +827,10 @@ beschliesst:[^ingress-2]
 
 - a. die Gemeindeerlasse;
 - b. die Verträge mit reglementswesentlichem Inhalt.
+
+<sup>3</sup> Die Gemeinden stellen den Bezug der Publikationen gemäss Abs. 1 in gedruckter Form sicher, wenn das amtliche Publikationsorgan ausschliesslich elektronisch veröffentlicht wird.
+
+<sup>4</sup> Der Gemeinderat kann Gebühren für den Bezug eines amtlichen Publikationsorgans der Gemeinde in gedruckter Form festlegen.
 
 ### 3.3 Die Organisation der Einwohnergemeinde
 
