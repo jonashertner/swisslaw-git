@@ -4,13 +4,13 @@ number: "131"
 title: Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Landratsgesetz
 language: de
-version: 2022-04-01
-valid_until: 2022-12-31
-version_adopted: 2022-01-13
+version: 2023-01-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-30
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131"
-pdf: "https://bl.clex.ch/api/de/versions/3296/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3452/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3296/pdf_file"
 
 (Landratsgesetz)
 
-Vom 21.11.1994 (Stand 01.04.2022)
+Vom 21.11.1994 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -738,21 +738,17 @@ beschliesst[^ingress-2]:
 
 **Publikationspflichtige Landratsbeschlüsse**
 
-<sup>1</sup> In die chronologische Gesetzessammlung (GS) und in die systematische Gesetzessammlung (SGS) sind aufzunehmen:
+<sup>1</sup> …
 
-- a. die Verfassung und die Verfassungsänderungen;
-- b. die Gesetze und die Gesetzesänderungen;
-- c. die Staatsverträge und die Staatsvertragsänderungen;
-- d. die Dekrete und die Dekretsänderungen.
-
-<sup>2</sup> Folgende Beschlüsse des Landrates sind im kantonalen Amtsblatt zu publizieren:
+<sup>2</sup> Folgende Beschlüsse des Landrats sind im kantonalen Amtsblatt zu publizieren:
 
 - a. Wahlen;
 - b. Ausgabenbeschlüsse und Planungsbeschlüsse, soweit sie der fakultativen Volksabstimmung unterstellt sind (§ 31 Abs. 1 KV);
 - c. Resolutionen;
-- d. Beschlüsse über die Gültigkeit oder Ungültigkeit von Volksinitiativen.
+- d. Beschlüsse über die Gültigkeit oder Ungültigkeit von Volksinitiativen;
+- e. Erlasse und Erlassänderungen.
 
-<sup>3</sup> Der Landrat kann die Publikation weiterer Beschlüsse von grosser Tragweite im kantonalen Amtsblatt anordnen.
+<sup>3</sup> Der Landrat kann die Publikation weiterer Beschlüsse von öffentlichem Interesse im kantonalen Amtsblatt veranlassen.
 
 ## 7 Parlamentarische Oberaufsicht
 
