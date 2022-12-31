@@ -1,0 +1,66 @@
+---
+sr: "901.022.1"
+title: Verordnung des WBF vom 10. Oktober 2022 über die Festlegung der zu den Anwendungsgebieten für Steuererleichterungen gehörenden Gemeinden
+eli: "https://fedlex.data.admin.ch/eli/cc/2022/592"
+language: de
+version: 2023-01-01
+adopted: 2022-10-10
+in_force: 2023-01-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/592/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-592-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/592/20230101/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Verordnung des WBF über die Festlegung der zu den Anwendungsgebieten für Steuererleichterungen gehörenden Gemeinden
+
+vom 10. Oktober 2022 (Stand am 1. Januar 2023)
+
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
+
+gestützt auf Artikel 3 Absatz 3 der Verordnung vom 3. Juni 2016[^ingress-1] über die Gewährung von Steuererleichterungen im Rahmen der Regionalpolitik,
+
+verordnet:
+
+[^ingress-1]: [SR 901.022](https://fedlex.data.admin.ch/eli/cc/2016/348)
+
+#### Art. 1
+
+**Anwendungsgebiete**
+
+Als Anwendungsgebiete gelten folgende Gemeinden:
+
+- a. im Kanton Aargau: Klingnau, Menziken, Reinach, Zurzach;
+- b. im Kanton Appenzell Ausserrhoden: Bühler, Wolfhalden;
+- c. im Kanton Appenzell Innerrhoden: Gonten, Oberegg, Schlatt-Haslen;
+- d. im Kanton Bern: Biglen, Corgémont, Court, Frutigen, Hasle bei Burgdorf, Huttwil, Langnau im Emmental, Loveresse, Lützelflüh, Meiringen, Moutier, Oberdiessbach, Péry-La Heutte, Reconvilier, Reichenbach im Kandertal, Rüegsau, Schwarzenburg, Sonceboz-Sombeval, Sumiswald, Tavannes, Tramelan, Worb;
+- e. im Kanton Basel-Landschaft: Oberdorf;
+- f. im Kanton Freiburg: Billens-Hennens, Mézières, Romont, Villaz;
+- g. im Kanton Glarus: Glarus, Glarus Süd;
+- h. im Kanton Graubünden: Albula/Alvra, Bregaglia, Cazis, Disentis/Mustér, Fideris, Furna, Ilanz/Glion, Jenaz, Küblis, Luzein, Poschiavo, Schiers, Schluein, Scuol, Seewis im Prättigau, Thusis, Trun, Val Müstair, Zernez;
+- i. im Kanton Jura: Alle, Cornol, Courgenay, Courrendlin, Courroux, Courtedoux, Courtételle, Delémont, Haute-Sorne, Les Bois, Porrentruy, Rossemaison, Saignelégier;
+- j. im Kanton Luzern: Schüpfheim, Willisau, Wolhusen;
+- k. im Kanton Neuenburg: La Chaux-de-Fonds, Le Landeron, Le Locle, Val-de-Travers;
+- l. im Kanton St. Gallen: Ebnat-Kappel, Flums, Goldach, Mels, Rheineck, Rorschach, Rorschacherberg, Uzwil, Wattwil;
+- m. im Kanton Schaffhausen: Hallau, Oberhallau, Siblingen, Trasadingen, Wilchingen;
+- n. im Kanton Solothurn: Balsthal, Breitenbach;
+- o. im Kanton Thurgau: Amriswil, Hefenhofen;
+- p. im Kanton Tessin: Ascona, Bellinzona, Biasca, Brione sopra Minusio, Cadenazzo, Gordola, Locarno, Losone, Lumino, Minusio, Muralto, Orselina, Tenero-Contra, Terre di Pedemonte;
+- q. im Kanton Uri: Altdorf, Bürglen, Erstfeld, Gurtnellen, Schattdorf, Seedorf, Silenen;
+- r. im Kanton Waadt: Aigle, Bex, Château-d'Oex, Cheseaux-Noréaz, Cossonay, Echallens, Grandson, Lavey-Morcles, Montagny-près-Yverdon, Moudon, Penthalaz, Rennaz, Sainte-Croix, Valeyres-sous-Montagny, Vallorbe, Yverdon-les-Bains;
+- s. im Kanton Wallis: Ardon, Bitsch, Brig-Glis, Collombey-Muraz, Conthey, Dorénaz, Fully, Gampel-Bratsch, Leuk, Martigny, Martigny-Combe, Massongex, Monthey, Naters, Niedergesteln, Raron, Riddes, Saint-Léonard, Saint-Maurice, Saxon, Sierre, Sion, St. Niklaus, Steg-Hohtenn, Turtmann-Unterems, Vernayaz, Vétroz, Vouvry;
+- t. im Kanton Zürich: Bachenbülach, Dürnten, Rüti.
+
+#### Art. 2
+
+**Aufhebung eines anderen Erlasses**
+
+Die Verordnung des WBF vom 3. Juni 2016[^2-1] über die Festlegung der zu den Anwendungsgebieten für Steuererleichterungen gehörenden Gemeinden wird aufgehoben.
+
+[^2-1]: [[AS 2016 2183](https://fedlex.data.admin.ch/eli/oc/2016/349)]
+
+#### Art. 3
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2023 in Kraft.
