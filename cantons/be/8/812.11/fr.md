@@ -4,13 +4,13 @@ number: "812.11"
 title: Loi sur les soins hospitaliers
 short: LSH
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-09
+version: 2023-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-11
 adopted: 2013-06-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2474/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3135/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2474/pdf_file"
 
 (LSH)
 
-du 13.06.2013 (état au 01.01.2022)
+du 13.06.2013 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -247,9 +247,9 @@ arrête:
 
 <sup>3</sup> Lors de la désignation du conseil d’administration d’un CHR, il tient compte de manière appropriée des intérêts régionaux en exerçant ses droits d’actionnaire. Les membres du conseil d’administration ne peuvent pas faire partie de l’administration cantonale.
 
-<sup>4</sup> La surveillance par le Contrôle des finances est régie par la loi cantonale du 1<sup>er</sup> décembre 1999 sur le Contrôle des finances (LCCF)[^22-1].
+<sup>4</sup> La surveillance par le Contrôle des finances est régie par la loi cantonale du 7 mars 2022 sur le Contrôle des finances (LCCF)[^22-1].
 
-[^22-1]: RSB 622.1
+[^22-1]: RSB [622.1](https://www.belex.sites.be.ch/data/622.1/fr)
 
 #### Art. 23
 
@@ -1030,17 +1030,55 @@ arrête:
 
 **Obligation**
 
-<sup>1</sup> Les fournisseurs de prestations du secteur hospitalier participent à la formation postgrade en médecine et en pharmacie reconnue par la loi fédérale du 23 juin 2006 sur les professions médicales universitaires (loi sur les professions médicales, LPMéd)[^104-1] s’ils emploient du personnel médical et pharmaceutique et si l’organisation responsable en vertu de la LPMéd les a reconnus comme établissements de formation.
+<sup>1</sup> Les fournisseurs de prestations du secteur hospitalier participent à la formation postgrade en médecine et en pharmacie reconnue par la loi fédérale du 23 juin 2006 sur les professions médicales universitaires (loi sur les professions médicales, LPMéd)[^104-1] s’ils emploient du personnel médical et pharmaceutique.
 
-[^104-1]: RS 811.11
+[^104-1]: RS [811.11](https://db.clex.ch/link/Bund/811.11/fr)
 
 #### Art. 105
 
+**Prestation de formation postgrade**
+
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration fixe la prestation de formation postgrade à réaliser par chaque fournisseur de prestations durant l’exercice sous forme de ratio.
+
+<sup>2</sup> Des ratios de formation postgrade distincts sont définis pour les domaines des soins aigus somatiques, de la psychiatrie et de la réadaptation ainsi que pour les soins hospitaliers universitaires.
+
+<sup>3</sup> Le ratio déterminant pour chaque domaine de soins s’obtient en divisant le total des recettes provenant de l’assurance obligatoire des soins, enregistrées durant l'exercice précédent par l’ensemble des fournisseurs de prestations, par la somme des prestations de formation postgrade effectivement réalisées en équivalents plein temps durant ledit exercice.
+
+<sup>4</sup> La prestation de formation postgrade en équivalents plein temps à réaliser durant l’exercice dans chaque domaine de soins est définie sur la base des ratios de l'avant-dernière année.
+
+#### Art. 105a
+
 **Indemnisation**
 
-<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut conclure des contrats de prestations avec les fournisseurs qui dispensent des formations postgrades en médecine et en pharmacie reconnues par la LPMéd.
+<sup>1</sup> A la fin de l’exercice, le fournisseur de prestations communique au service compétent de la Direction de la santé, des affaires sociales et de l’intégration la prestation de formation postgrade effectivement réalisée en équivalents plein temps durant ledit exercice.
 
-<sup>2</sup> Le Conseil-exécutif règle les détails du montant de l’indemnité par voie d’ordonnance. Il fixe les forfaits et tient compte en particulier de la prestation de travail des personnes en formation.
+<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration indemnise le fournisseur de prestations pour la prestation de formation postgrade réalisée durant l’exercice.
+
+<sup>3</sup> L’indemnité est versée sous la forme d’un forfait annuel par équivalent plein temps, que le Conseil-exécutif fixe par voie d’ordonnance. Ce dernier tient compte en particulier des disciplines médicales dans lesquelles l’offre est insuffisante.
+
+#### Art. 105b
+
+**Versement compensatoire**
+
+<sup>1</sup> Le fournisseur de prestations s’acquitte d’un versement compensatoire dès lors
+
+- a qu’il ne peut pas attester la prestation de formation postgrade à réaliser durant l’exercice selon le ratio défini et
+- b que la valeur de tolérance fixée par le Conseil-exécutif par voie d’ordonnance est dépassée.
+
+<sup>2</sup> Le montant du versement compensatoire correspond à la différence entre l’indemnité potentielle pour la prestation de formation postgrade à réaliser selon le ratio correspondant et celle due pour la prestation de formation postgrade effectivement réalisée durant l’exercice.
+
+<sup>3</sup> Les offres de formation spécifiques du fournisseur de prestations peuvent être prises en compte dans la détermination du versement compensatoire.
+
+<sup>4</sup> Les versements compensatoires doivent servir à
+
+- a promouvoir les disciplines médicales dans lesquelles l’offre est insuffisante ou risque de le devenir;
+- b atténuer les disparités régionales.
+
+#### Art. 105c
+
+**Délégation de compétences**
+
+<sup>1</sup> Le Conseil-exécutif peut déléguer ses compétences concernant la réglementation de la formation postgrade en médecine et en pharmacie par voie d'ordonnance à la Direction de la santé, des affaires sociales et de l'intégration.
 
 ### 4.3 Formation et perfectionnement dans les professions de la santé non universitaires
 
@@ -1577,9 +1615,15 @@ arrête:
 
 **Dissolution du fonds**
 
-<sup>1</sup> Le Conseil-exécutif dissout le Fonds d’investissements hospitaliers lorsque toutes les dépenses au sens de l’article 152 ont été comptabilisées.
+<sup>1</sup> Le Fonds est dissous par étapes à partir du 1<sup>er</sup> janvier 2023.
 
-<sup>2</sup> Les éventuels montants restants lors de la dissolution sont attribués au compte de fonctionnement du canton.
+<sup>2</sup> Le prélèvement est effectué chaque année à concurrence du montant nécessaire au financement des besoins supplémentaires en matière d'investissement. Est considéré comme supplémentaire tout investissement nécessaire dont le montant annuel est supérieur au montant ordinaire de 450 millions de francs.
+
+<sup>2a</sup> Le prélèvement ne nécessite pas d’amortissement au sens de l’article 51, alinéa 3 de la loi du 15 juin 2022 sur les finances (LFin)[^153-1].
+
+<sup>3</sup> Le 31 décembre 2030, les ressources restantes seront créditées au compte de résultats de 2031 si le Fonds n'a pas encore été intégralement dissous.
+
+[^153-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 #### Art. 154
 

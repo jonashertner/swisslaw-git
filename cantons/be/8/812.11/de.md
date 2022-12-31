@@ -4,13 +4,13 @@ number: "812.11"
 title: Spitalversorgungsgesetz
 short: SpVG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-09
+version: 2023-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-11
 adopted: 2013-06-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2474/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3135/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2474/pdf_file"
 
 (SpVG)
 
-vom 13.06.2013 (Stand 01.01.2022)
+vom 13.06.2013 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -247,9 +247,9 @@ beschliesst:
 
 <sup>3</sup> Er berücksichtigt bei der Wahl des Verwaltungsrats eines RSZ die regionalen Interessen im Rahmen der ihm zustehenden Aktionärsrechte angemessen. Die Mitglieder des Verwaltungsrats dürfen nicht der kantonalen Verwaltung angehören.
 
-<sup>4</sup> Die Aufsicht der Finanzkontrolle richtet sich nach dem Gesetz vom 1. Dezember 1999 über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG)[^22-1].
+<sup>4</sup> Die Aufsicht der Finanzkontrolle richtet sich nach dem Kantonalen Finanzkontrollgesetz vom 7. März 2022 (KFKG)[^22-1].
 
-[^22-1]: BSG 622.1
+[^22-1]: BSG [622.1](https://www.belex.sites.be.ch/data/622.1/de)
 
 #### Art. 23
 
@@ -1030,17 +1030,55 @@ beschliesst:
 
 **Pflicht**
 
-<sup>1</sup> Die in der Spitalversorgung tätigen Leistungserbringer beteiligen sich an der durch das Bundesgesetz vom 23. Juni 2006 über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG)[^104-1] anerkannten ärztlichen und pharmazeutischen Weiterbildung, wenn sie solches Personal beschäftigen und die nach MedBG zuständige Organisation sie als Weiterbildungsstätte anerkannt hat.
+<sup>1</sup> Die in der Spitalversorgung tätigen Leistungserbringer beteiligen sich an der durch das Bundesgesetz vom 23. Juni 2006 über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG)[^104-1] anerkannten ärztlichen und pharmazeutischen Weiterbildung, wenn sie solches Personal beschäftigen.
 
-[^104-1]: SR 811.11
+[^104-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
 
 #### Art. 105
 
+**Weiterbildungsleistung**
+
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion legt gegenüber jedem Leistungserbringer die in einem Rechnungsjahr zu erbringende Weiterbildungsleistung in Form eines Weiterbildungsquotienten fest.
+
+<sup>2</sup> Für die Versorgungsbereiche Akutsomatik, Psychiatrie und Rehabilitation sowie für das Universitätsspital werden je separate Weiterbildungsquotienten festgelegt.
+
+<sup>3</sup> Der für einen Versorgungsbereich massgebende Weiterbildungsquotient bestimmt sich aus den Gesamteinnahmen aller Leistungserbringer aus der obligatorischen Krankenpflegeversicherung des Vorjahres geteilt durch die Summe der in diesem Jahr effektiv erbrachten Weiterbildungsleistung in Vollzeitäquivalenten.
+
+<sup>4</sup> Die in einem Rechnungsjahr in Vollzeitäquivalenten zu erbringende Weiterbildungsleistung wird gestützt auf den Weiterbildungsquotienten des Vorvorjahres im jeweiligen Versorgungsbereich festgelegt.
+
+#### Art. 105a
+
 **Abgeltung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann Leistungsverträge mit Leistungserbringern abschliessen, die durch das MedBG anerkannte ärztliche oder pharmazeutische Weiterbildungen durchführen.
+<sup>1</sup> Der Leistungserbringer meldet der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion am Ende des Rechnungsjahres die in diesem Jahr effektiv erbrachte Weiterbildungsleistung in Vollzeitäquivalenten.
 
-<sup>2</sup> Der Regierungsrat regelt die Einzelheiten zur Höhe der Abgeltung durch Verordnung. Er legt Pauschalen fest und berücksichtigt insbesondere die Arbeitsleistung, welche die in Weiterbildung stehenden Personen erbringen.
+<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion entrichtet dem Leistungserbringer eine Abgeltung für die im Rechnungsjahr erbrachte Weiterbildungsleistung.
+
+<sup>3</sup> Die Abgeltung erfolgt in Form einer Pauschale pro Jahr und Vollzeitäquivalent, die vom Regierungsrat durch Verordnung festgelegt wird. Er berücksichtigt dabei insbesondere die ärztlichen Fachrichtungen, bei denen eine Unterversorgung besteht.
+
+#### Art. 105b
+
+**Ausgleichszahlung**
+
+<sup>1</sup> Der Leistungserbringer hat eine Ausgleichszahlung zu leisten, sofern
+
+- a er die aufgrund des Weiterbildungsquotienten im Rechnungsjahr zu erbringende Weiterbildungsleistung nicht vorweisen kann und
+- b der vom Regierungsrat durch Verordnung festgelegte Toleranzwert überschritten wird.
+
+<sup>2</sup> Die Höhe der Ausgleichszahlung entspricht der Differenz zwischen der potenziellen Abgeltung für die aufgrund des Weiterbildungsquotienten zu erbringende Weiterbildungsleistung und der effektiven Abgeltung für die im Rechnungsjahr erbrachte Weiterbildungsleistung.
+
+<sup>3</sup> Spezifische Bildungsangebote eines Leistungserbringers können bei der Festsetzung der Ausgleichszahlung angerechnet werden.
+
+<sup>4</sup> Die Ausgleichszahlungen sind zweckgebunden zu verwenden für
+
+- a die Förderung ärztlicher Fachrichtungen, in denen eine Unterversorgung droht oder besteht,
+- b den Ausgleich regionaler Unterschiede.
+
+#### Art. 105c
+
+**Delegation**
+
+<sup>1</sup> Der Regierungsrat kann seine Regelungskompetenzen im Bereich der ärztlichen und pharmazeutischen Weiterbildung durch Verordnung an die Gesundheits-, Sozial- und Integrationsdirektion übertragen.
 
 ### 4.3 Aus- und Weiterbildung in nichtuniversitären Gesundheitsberufen
 
@@ -1577,9 +1615,15 @@ beschliesst:
 
 **Auflösung des Fonds**
 
-<sup>1</sup> Der Regierungsrat löst den Fonds für Spitalinvestitionen auf, wenn sämtliche Ausgaben nach Artikel 152 abgerechnet worden sind.
+<sup>1</sup> Der Fonds wird ab dem 1. Januar 2023 gestaffelt aufgelöst.
 
-<sup>2</sup> Die bei der Auflösung allfällig noch vorhandenen Mittel werden der laufenden Rechnung des Kantons gutgeschrieben.
+<sup>2</sup> Die Entnahme erfolgt jährlich im Umfang, der zur Finanzierung des zusätzlichen Investitionsbedarfs notwendig ist. Als zusätzlich gilt der Investitionsbedarf, der den ordentlichen Bedarf von 450 Millionen Franken jährlich übersteigt.
+
+<sup>2a</sup> Die Entnahme löst keinen Abschreibungsbedarf im Sinne von Artikel 51 Absatz 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^153-1] aus.
+
+<sup>3</sup> Ist die Auflösung am 31. Dezember 2030 nicht vollständig erfolgt, werden die vorhandenen Mittel der Erfolgsrechnung 2031 gutgeschrieben.
+
+[^153-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 #### Art. 154
 
