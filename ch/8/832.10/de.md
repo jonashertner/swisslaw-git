@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20220101/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Januar 2022) (Stand am 1. Januar 2022)
+vom 18. März 1994 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -29,7 +29,7 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Ziff. I 9 des BG vom 8. Okt. 1999, in Kraft seit 1. Juni 2002 ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^ingress-3]: [BBl 1992 I 93](https://fedlex.data.admin.ch/eli/fga/1992/1_93_77_65)
 
-## 1. Titel:**** Anwendbarkeit des ATSG
+## 1. Titel: Anwendbarkeit des ATSG
 
 [^tit1-1]
 
@@ -54,7 +54,7 @@ Sie finden keine Anwendung in folgenden Bereichen:
 [^1-3]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^1-4]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3472](https://fedlex.data.admin.ch/eli/oc/2002/512); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
-## 1a*.* Titel: Allgemeine Bestimmungen****
+## 1a*.* Titel: Allgemeine Bestimmungen
 
 [^tit1a-1]
 
@@ -110,7 +110,7 @@ Er kann die Versicherungspflicht auf Personen ohne Wohnsitz in der Schweiz ausde
 [^3-2]: Fassung gemäss Anhang Ziff. II 11 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^3-3]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^3-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^3-5]: SR **83****3.1**
+[^3-5]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^3-6]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793).
 
 #### Art. 4
@@ -119,7 +119,7 @@ Er kann die Versicherungspflicht auf Personen ohne Wohnsitz in der Schweiz ausde
 
 Die versicherungspflichtigen Personen können unter den Versicherern, die nach dem KVAG[^4-2] eine Bewilligung zur Durchführung der sozialen Krankenversicherung haben, frei wählen.
 
-[^4-1]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); BBl **2****012** 1941).
+[^4-1]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^4-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 #### Art. 4a
@@ -245,7 +245,7 @@ Der Versicherer hat die versicherte Person bei ihrem Beitritt zur sozialen Krank
 
 [^1115-1]: Aufgehoben durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
-### 1*a*. Abschnitt: Risikoausgleich****
+### 1*a*. Abschnitt: Risikoausgleich
 
 [^tit2-chap2-sec1a-1]
 
@@ -388,17 +388,31 @@ Der Bundesrat regelt:
 [^20-1]: Fassung gemäss Anhang Ziff. II 10 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^20-2]: Fassung gemäss Anhang Ziff. II 10 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 
-### 4. Abschnitt: Statistiken****
+### 4. Abschnitt: Datenweitergabe und Statistiken
 
 [^tit2-chap2-sec4-1]
 
-[^tit2-chap2-sec4-1]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^tit2-chap2-sec4-1]: Fassung gemäss Ziff. I 1 des BG vom 19. März 2021 über die Datenweitergabe der Versicherer in der obligatorischen Krankenpflegeversicherung, in Kraft seit 1. Jan. 2023 ([AS 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [BBl 2019 5397](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5925](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
 
 #### Art. 21
 
-[^21-1]
+**Daten der Versicherer**[^21-1]
 
-[^21-1]: Aufgehoben durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+<sup>1</sup> Die Versicherer sind verpflichtet, dem Bundesamt regelmässig die für die Erfüllung seiner Aufgaben nach diesem Gesetz erforderlichen Daten weiterzugeben.
+
+<sup>2</sup>
+
+Die Daten sind aggregiert weiterzugeben. Der Bundesrat kann vorsehen, dass die Daten zudem pro versicherte Person weiterzugeben sind, sofern aggregierte Daten nicht zur Erfüllung der folgenden Aufgaben genügen und die Daten pro versicherte Person anderweitig nicht zu beschaffen sind:
+
+- a. zur Überwachung der Kostenentwicklung nach Leistungsart und nach Leistungserbringer sowie zur Erarbeitung von Entscheidgrundlagen für Massnahmen zur Eindämmung der Kostenentwicklung;
+- b. zur Analyse der Wirkung des Gesetzes und des Gesetzesvollzugs und zur Erarbeitung von Entscheidgrundlagen im Hinblick auf Gesetzes- und Gesetzesvollzugsänderungen;
+- c. zur Evaluation des Risikoausgleichs.
+
+<sup>3</sup> Das Bundesamt ist dafür verantwortlich, dass im Rahmen der Datenverwendung die Anonymität der Versicherten gewahrt ist.
+
+<sup>4</sup> Es stellt die erhobenen Daten den Datenlieferanten, der Forschung und Wissenschaft sowie der Öffentlichkeit zur Verfügung.
+
+[^21-1]: Fassung gemäss Ziff. I 1 des BG vom 19. März 2021 über die Datenweitergabe der Versicherer in der obligatorischen Krankenpflegeversicherung, in Kraft seit 1. Jan. 2023 ([AS 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [BBl 2019 5397](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5925](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
 
 #### Art. 21a
 
@@ -420,7 +434,7 @@ Der Bundesrat regelt:
 
 #### Art. 23
 
-**…[^23-2]**[^23-1]
+**Statistiken[^23-2]**[^23-1]
 
 <sup>1</sup> Das Bundesamt für Statistik erarbeitet die notwendigen statistischen Grundlagen zur Beurteilung von Funktions- und Wirkungsweise dieses Gesetzes. Es erhebt zu diesem Zweck bei den Versicherern, den Leistungserbringern und der Bevölkerung die notwendigen Daten.
 
@@ -429,7 +443,7 @@ Der Bundesrat regelt:
 <sup>3</sup> Das Bearbeiten von Daten zu statistischen Zwecken erfolgt nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^23-3].
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^23-2]: Aufgehoben durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^23-2]: Fassung gemäss Ziff. I 1 des BG vom 19. März 2021 über die Datenweitergabe der Versicherer in der obligatorischen Krankenpflegeversicherung, in Kraft seit 1. Jan. 2023 ([AS 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [BBl 2019 5397](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5925](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
 [^23-3]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 
 ### 3. Kapitel: Leistungen
@@ -717,7 +731,7 @@ Anstalten oder deren Abteilungen, die der stationären Behandlung akuter Krankhe
 
 <sup>2bis</sup> Im Bereich der hochspezialisierten Medizin beschliessen die Kantone gemeinsam eine gesamtschweizerische Planung. Kommen sie dieser Aufgabe nicht zeitgerecht nach, so legt der Bundesrat fest, welche Spitäler für welche Leistungen auf den kantonalen Spitallisten aufzuführen sind.[^39-4]
 
-<sup>2te</sup> <sup>r</sup> Der Bundesrat erlässt einheitliche Planungskriterien auf der Grundlage von Qualität und Wirtschaftlichkeit. Er hört zuvor die Kantone, die Leistungserbringer und die Versicherer an.[^39-5]
+<sup>2ter</sup> Der Bundesrat erlässt einheitliche Planungskriterien auf der Grundlage von Qualität und Wirtschaftlichkeit. Er hört zuvor die Kantone, die Leistungserbringer und die Versicherer an.[^39-5]
 
 <sup>3</sup> Die Voraussetzungen nach Absatz 1 gelten sinngemäss für Geburtshäuser sowie für Anstalten, Einrichtungen oder ihre Abteilungen, die der Pflege und medizinischen Betreuung sowie der Rehabilitation von Langzeitpatienten und -patientinnen dienen (Pflegeheim).[^39-6]
 
@@ -736,7 +750,7 @@ Anstalten oder deren Abteilungen, die der stationären Behandlung akuter Krankhe
 
 <sup>2</sup> Der Bundesrat legt die Anforderungen fest, welche die Heilbäder hinsichtlich ärztlicher Leitung, erforderlichem Fachpersonal, Heilanwendungen und Heilquellen erfüllen müssen.
 
-### 2. Abschnitt: Wahl des Leistungserbringers, Kostenübernahme und Aufnahmepflicht der Listenspitäler****
+### 2. Abschnitt: Wahl des Leistungserbringers, Kostenübernahme und Aufnahmepflicht der Listenspitäler
 
 [^tit2-chap4-sec2-1]
 
@@ -873,16 +887,23 @@ Der Tarif ist eine Grundlage für die Berechnung der Vergütung; er kann namentl
 
 <sup>4bis</sup> Die Tarife und Preise orientieren sich an der Entschädigung jener Leistungserbringer, welche die tarifierte obligatorisch versicherte Leistung in der notwendigen Qualität effizient und günstig erbringen.[^43-1]
 
-<sup>5</sup> Einzelleistungstarife müssen auf einer gesamtschweizerisch vereinbarten einheitlichen Tarifstruktur beruhen. Können sich die Tarifpartner nicht einigen, so legt der Bundesrat diese Tarifstruktur fest.
+<sup>5</sup> Einzelleistungstarife sowie auf ambulante Behandlungen bezogene Patientenpauschaltarife müssen je auf einer einzigen gesamtschweizerisch vereinbarten einheitlichen Tarifstruktur beruhen.[^43-2] Können sich die Tarifpartner nicht einigen, so legt der Bundesrat diese Tarifstruktur fest.
 
-<sup>5bis</sup> Der Bundesrat kann Anpassungen an der Tarifstruktur vornehmen, wenn sie sich als nicht mehr sachgerecht erweist und sich die Parteien nicht auf eine Revision einigen können.[^43-2]
+<sup>5bis</sup> Der Bundesrat kann Anpassungen an der Tarifstruktur vornehmen, wenn sie sich als nicht mehr sachgerecht erweist und sich die Parteien nicht auf eine Revision einigen können.[^43-3]
+
+<sup>5ter</sup> Gibt es in einem Bereich eine vom Bundesrat genehmigte oder festgelegte Tarifstruktur für auf ambulante Behandlungen bezogene Patientenpauschaltarife, so muss diese von allen Leistungserbringern für die entsprechenden Behandlungen angewandt werden.[^43-4]
+
+<sup>5quater</sup> Die Tarifpartner können für bestimmte ambulante Behandlungen regional geltende Patientenpauschaltarife vereinbaren, die nicht auf einer gesamtschweizerisch einheitlichen Tarifstruktur beruhen, sofern dies insbesondere regionale Gegebenheiten erfordern. Gesamtschweizerisch einheitliche Tarifstrukturen nach Absatz 5 gehen vor.[^43-5]
 
 <sup>6</sup> Die Vertragspartner und die zuständigen Behörden achten darauf, dass eine qualitativ hoch stehende und zweckmässige gesundheitliche Versorgung zu möglichst günstigen Kosten erreicht wird.
 
 <sup>7</sup> Der Bundesrat kann Grundsätze für eine wirtschaftliche Bemessung und eine sachgerechte Struktur sowie für die Anpassung der Tarife aufstellen. Er sorgt für die Koordination mit den Tarifordnungen der anderen Sozialversicherungen.
 
 [^43-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
-[^43-2]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215)[7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^43-2]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^43-3]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215)[7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^43-4]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^43-5]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 44
 
@@ -960,6 +981,21 @@ Bei einem Verstoss gegen die Pflicht zur Datenbekanntgabe nach Absatz 5 kann das
 
 [^47a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2022 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
+#### Art. 47b
+
+**Datenbekanntgabe im Tarifwesen für ambulante Behandlungen**[^47b-1]
+
+<sup>1</sup> Die Leistungserbringer und deren Verbände, die Versicherer und deren Verbände sowie die Organisation nach Artikel 47*a* sind verpflichtet, dem Bundesrat oder der zuständigen Kantonsregierung auf Verlangen kostenlos die Daten bekannt zu geben, die für die Erfüllung der Aufgaben nach den Artikeln 43 Absätze 5 und 5<sup>bis</sup>, 46 Absatz 4 und 47 notwendig sind. Der Bundesrat erlässt nähere Vorschriften zur Bearbeitung der Daten unter Wahrung des Verhältnismässigkeitsprinzips.
+
+<sup>2</sup>
+
+Bei einem Verstoss gegen die Pflicht zur Datenbekanntgabe nach Absatz 1 kann das EDI oder die zuständige Kantonsregierung gegen die Verbände der Leistungserbringer und diejenigen der Versicherer, gegen die Organisation nach Artikel 47*a* und gegen die betroffenen Leistungserbringer und Versicherer Sanktionen ergreifen. Diese umfassen:
+
+- a. die Verwarnung;
+- b. eine Busse bis zu 20 000 Franken.
+
+[^47b-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+
 #### Art. 48
 
 **Tarifverträge mit Ärzteverbänden**
@@ -997,7 +1033,7 @@ Die Vergütungen nach Absatz 1 dürfen keine Kostenanteile für gemeinwirtschaft
 
 <sup>8</sup> In Zusammenarbeit mit den Kantonen ordnet der Bundesrat schweizweit Betriebsvergleiche zwischen Spitälern an, insbesondere zu Kosten und medizinischer Ergebnisqualität. Die Spitäler und die Kantone müssen dafür die nötigen Unterlagen liefern. Der Bundesrat veröffentlicht die Betriebsvergleiche.
 
-[^49-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 (AS **2****008** 2049; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
+[^49-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^49-2]: Fassung gemäss Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
 [^49-3]: Siehe auch: die UeB Änd. 22.10.2008 der V vom 22. Juni 1995 über die Krankenversicherung ([SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)).
 
@@ -1035,7 +1071,7 @@ Die Kantone übernehmen den kantonalen Anteil für folgende Personen:
 [^49a-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2019 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 [^49a-4]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2019 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 [^49a-5]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2019 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
-[^49a-6]: Fassung gemäss Art. 25 des BG vom 19. Juni 2015 über das elektronische Patientendossier, in Kraft seit 15. April 2017 ([AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); BBl **2****013** 5321). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^49a-6]: Fassung gemäss Art. 25 des BG vom 19. Juni 2015 über das elektronische Patientendossier, in Kraft seit 15. April 2017 ([AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 50
 
@@ -1096,7 +1132,7 @@ Apotheker oder Apothekerinnen können Originalpräparate der Spezialitätenliste
 
 **Beschwerde an das Bundesverwaltungsgericht**[^53-1]
 
-<sup>1</sup> Gegen Beschlüsse der Kantonsregierungen nach den Artikeln 39, 45, 46 Absatz 4, 47, 48 Absätze 1–3, 51, 54 und 55 kann beim Bundesverwaltungsgericht Beschwerde geführt werden.[^53-2]
+<sup>1</sup> Gegen Beschlüsse der Kantonsregierungen nach den Artikeln 39, 45, 46 Absatz 4, 47, 47*b* Absatz 2, 48 Absätze 1–3, 51, 54 und 55 kann beim Bundesverwaltungsgericht Beschwerde geführt werden.[^53-2]
 
 <sup>2</sup>
 
@@ -1109,7 +1145,7 @@ Das Beschwerdeverfahren richtet sich nach dem Verwaltungsgerichtsgesetz vom 17. 
 - e. In Beschwerdeverfahren gegen Beschlüsse nach Artikel 39 ist die Rüge der Unangemessenheit unzulässig.
 
 [^53-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^53-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Jan. 2022 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^53-2]: Fassung gemäss Ziff. IV des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^53-3]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
 [^53-4]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
@@ -1440,6 +1476,38 @@ Die Leistungserbringer sind verpflichtet, den zuständigen Bundesbehörden die D
 
 [^59a-1]: Eingefügt durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
+### 4*a*. Kapitel: Pilotprojekte zur Eindämmung der Kostenentwicklung
+
+[^tit2-chap4a-1]
+
+[^tit2-chap4a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+
+#### Art. 59b
+
+<sup>1</sup> Um neue Modelle zur Eindämmung der Kostenentwicklung, zur Stärkung der Anforderungen der Qualität oder zur Förderung der Digitalisierung zu erproben, kann das EDI nach Anhören der interessierten Kreise Pilotprojekte bewilligen.
+
+<sup>2</sup>
+
+Pilotprojekte, die einen der folgenden Bereiche betreffen, dürfen von Bestimmungen dieses Gesetzes, mit Ausnahme von Artikel 1, abweichen:
+
+- a. Leistungserbringung im Auftrag der obligatorischen Krankenpflegeversicherung (Naturalleistungsprinzip) anstelle der Vergütung der Leistungen;
+- b. Übernahme von Leistungen im Ausland ausserhalb der grenzüberschreitenden Zusammenarbeit nach Artikel 34 Absatz 2;
+- c. Einschränkung der Wahl des Leistungserbringers;
+- d. einheitliche Finanzierung von ambulanten und stationären Leistungen;
+- e. Förderung der koordinierten und der integrierten Gesundheitsversorgung;
+- f. Stärkung der Anforderungen an die Qualität;
+- g. Förderung der Digitalisierung.
+
+<sup>3</sup> Der Bundesrat kann vorsehen, dass Pilotprojekte, die das Ziel nach Absatz 1 verfolgen, in anderen Bereichen bewilligt werden können, sofern sie nicht von diesem Gesetz abweichen.
+
+<sup>4</sup> Die Pilotprojekte sind inhaltlich, zeitlich und räumlich begrenzt.
+
+<sup>5</sup> Das EDI legt in einer Verordnung die Abweichungen von diesem Gesetz und von dessen Ausführungsbestimmungen sowie die Rechte und Pflichten der Teilnehmerinnen und Teilnehmer des Pilotprojekts fest.
+
+<sup>6</sup> Die Pilotprojekte müssen sicherstellen, dass die Rechte, die dieses Gesetz den Versicherten gewährt, durch die Teilnahme am Projekt nicht beeinträchtigt werden und dass die Teilnahme freiwillig ist. Der Bundesrat legt die entsprechenden Bewilligungsvoraussetzungen fest. Er legt zudem die Mindestanforderungen an die Evaluation von Pilotprojekten durch die Projektpartner fest.
+
+<sup>7</sup> Nach Abschluss des Pilotprojekts kann der Bundesrat vorsehen, dass Bestimmungen nach Absatz 5, die von diesem Gesetz abweichen oder die damit zusammenhängende Rechte und Pflichten festlegen, anwendbar bleiben, wenn die Evaluation gezeigt hat, dass mit dem erprobten Modell die Kostenentwicklung wirksam eingedämmt, die Qualität gestärkt oder die Digitalisierung gefördert werden können. Die Bestimmungen treten ein Jahr nach ihrer Verlängerung ausser Kraft, wenn der Bundesrat bis zu diesem Zeitpunkt der Bundesversammlung keinen Entwurf einer gesetzlichen Grundlage unterbreitet hat. Sie treten ausserdem ausser Kraft mit der Ablehnung des Entwurfs des Bundesrates durch die Bundesversammlung oder mit Inkrafttreten der gesetzlichen Grundlage.
+
 ### 5. Kapitel: Finanzierung
 
 ### 1. Abschnitt: …
@@ -1557,7 +1625,7 @@ Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 [^64-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. März 2014 ([AS 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [BBl 2013 2459](https://fedlex.data.admin.ch/eli/fga/2013/418)[2469](https://fedlex.data.admin.ch/eli/fga/2013/420)).
 [^64-3]: Eingefügt durch Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 
-### 3*a*. Abschnitt:**** Nichtbezahlung von Prämien und Kostenbeteiligungen
+### 3*a*. Abschnitt: Nichtbezahlung von Prämien und Kostenbeteiligungen
 
 [^tit2-chap5-sec3a-1]
 
@@ -1794,7 +1862,7 @@ Der neue Versicherer darf keine neuen Vorbehalte anbringen, wenn die versicherte
 
 Die Versicherer können in der Kollektivversicherung von der Einzelversicherung abweichende Prämien vorsehen. Diese sind so festzusetzen, dass die Kollektivversicherung mindestens selbsttragend ist.
 
-## 4. Titel:**** Besondere Bestimmungen zur Koordination, zur Haftung und zum Rückgriff
+## 4. Titel: Besondere Bestimmungen zur Koordination, zur Haftung und zum Rückgriff
 
 [^tit4-1]
 
@@ -1838,7 +1906,7 @@ Das Rückgriffsrecht nach Artikel 72 ATSG[^79a-2] gilt sinngemäss:
 [^79a-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung) ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)). Fassung gemäss Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2019 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 [^79a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## 5. Titel: Besondere Bestimmungen zum Verfahren und zur Rechtspflege, Strafbestimmungen****
+## 5. Titel: Besondere Bestimmungen zum Verfahren und zur Rechtspflege, Strafbestimmungen
 
 [^tit5-1]
 
@@ -1857,7 +1925,7 @@ Das Rückgriffsrecht nach Artikel 72 ATSG[^79a-2] gilt sinngemäss:
 [^80-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^80-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^80-3]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^80-4]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, **1****994** V 921, **1999** 4523).
+[^80-4]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 81
 
@@ -1913,7 +1981,7 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 
 [^84-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^84-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^84-3]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); BBl **2****012** 1941).
+[^84-3]: Fassung gemäss Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^84-4]: Heute: nach Art. 65 und 65*a*.
 [^84-5]: Eingefügt durch Anhang Ziff. 11 des BG vom 23 Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^84-6]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559)4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
@@ -2114,9 +2182,9 @@ Mit Geldstrafe bis zu 180 Tagessätzen, sofern nicht ein mit einer höheren Stra
 
 [^95-1]
 
-[^95-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); BBl **1****991** II 185 910, **1994** V 921, **1999** 4523).
+[^95-1]: Aufgehoben durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-## 6. Titel:**** Verhältnis zum europäischen Recht
+## 6. Titel: Verhältnis zum europäischen Recht
 
 [^tit6-1]
 
@@ -2156,7 +2224,7 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 [^95a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
 [^95a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## 7. Titel:**** Schlussbestimmungen
+## 7. Titel: Schlussbestimmungen
 
 [^tit7-1]
 
@@ -2280,7 +2348,7 @@ Der Bundesrat ist mit dem Vollzug dieses Gesetzes beauftragt. Er erlässt die Au
 
 [^106-1]
 
-[^106-1]: Fassung gemäss Ziff. I des BG vom 21. März 2014 (Prämienkorrektur), in Kraft vom 1. Jan. 2015 bis zum 31. Dez. 2017 (AS **20****14** 2463; [BBl 2012 1923](https://fedlex.data.admin.ch/eli/fga/2012/350)).
+[^106-1]: Fassung gemäss Ziff. I des BG vom 21. März 2014 (Prämienkorrektur), in Kraft vom 1. Jan. 2015 bis zum 31. Dez. 2017 ([AS 2014 2463](https://fedlex.data.admin.ch/eli/oc/2014/431); [BBl 2012 1923](https://fedlex.data.admin.ch/eli/fga/2012/350)).
 
 #### Art. 106a–106c
 
@@ -2301,7 +2369,7 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 [^107-1]: Art. 1 der V vom 12. April 1995 über die Inkraftsetzung und Einführung des BG vom 18. März 1994 über die Krankenversicherung ([AS 1995 1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)).
 [^107-2]: Art. 1 der V vom 12. April 1995 über die Inkraftsetzung und Einführung des BG vom 18. März 1994 über die Krankenversicherung ([AS 1995 1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)).
 
-## Schlussbestimmungen der Änderung vom 24. März 2000****
+## Schlussbestimmungen der Änderung vom 24. März 2000
 
 [^u1-1]
 
@@ -2311,25 +2379,25 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 
 <sup>2</sup> Die Kantone erlassen bis zum Inkrafttreten dieser Änderung die Ausführungsbestimmungen zu Artikel 65. Ist der Erlass der definitiven Regelung zu Artikel 65 nicht fristgerecht möglich, so kann die Kantonsregierung eine provisorische Regelung treffen.
 
-## Übergangsbestimmung der Änderung vom 8. Oktober 2004 (Pflegetarife)****
+## Übergangsbestimmung der Änderung vom 8. Oktober 2004 (Pflegetarife)
 
 [^u2-1]
 
 [^u2-1]: [AS 2004 4375](https://fedlex.data.admin.ch/eli/oc/2004/666); [BBl 2004 4259](https://fedlex.data.admin.ch/eli/fga/2004/706). Aufgehoben durch Ziff. I des BG vom 20. Dez. 2006 (Pflegetarife), mit Wirkung seit 21. Dez. 2006 ([AS 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [BBl 2006 7555](https://fedlex.data.admin.ch/eli/fga/2006/922)[7563](https://fedlex.data.admin.ch/eli/fga/2006/924)).
 
-## Schlussbestimmungen zur Änderung vom 18. März 2005 (Prämienverbilligung)****
+## Schlussbestimmungen zur Änderung vom 18. März 2005 (Prämienverbilligung)
 
 [^u3-1]
 
 [^u3-1]: [AS 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [BBl 2004 4327](https://fedlex.data.admin.ch/eli/fga/2004/711). Aufgehoben durch Ziff. I des BG vom 17. März 2017, mit Wirkung seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 
-## Übergangsbestimmungen der Änderung vom 20. Dezember 2006 (Pflegetarife)****
+## Übergangsbestimmungen der Änderung vom 20. Dezember 2006 (Pflegetarife)
 
 [^u4-1]
 
 [^u4-1]: [AS 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [BBl 2006 7555](https://fedlex.data.admin.ch/eli/fga/2006/922)[7563](https://fedlex.data.admin.ch/eli/fga/2006/924). In Kraft bis zum 31. Dez. 2008.
 
-## Übergangsbestimmungen zur Änderung vom 21. Dezember 2007 (Spitalfinanzierung)****
+## Übergangsbestimmungen zur Änderung vom 21. Dezember 2007 (Spitalfinanzierung)
 
 [^u5-1]
 
@@ -2350,13 +2418,13 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 - a. die Einführungsmodalitäten;
 - b. das Verfahren, nach dem die vor Inkrafttreten dieser Änderung getätigten Investitionen in die Tarifberechnung einbezogen werden.
 
-## Übergangsbestimmungen zur Änderung vom 21. Dezember 2007 (Risikoausgleich)****
+## Übergangsbestimmungen zur Änderung vom 21. Dezember 2007 (Risikoausgleich)
 
 [^u6-1]
 
 [^u6-1]: [AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024). Aufgehoben durch Ziff. I des BG vom 21. März 2014, mit Wirkung seit 1. Jan. 2017 ([AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [BBl 2013 7801](https://fedlex.data.admin.ch/eli/fga/2013/1479)[8387](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
-## Übergangsbestimmungen zur Änderung vom 13. Juni 2008 (Pflegefinanzierung)****
+## Übergangsbestimmungen zur Änderung vom 13. Juni 2008 (Pflegefinanzierung)
 
 [^u7-1]
 
@@ -2366,13 +2434,13 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 
 <sup>2</sup> Die bei Inkrafttreten dieser Änderung geltenden Tarife und Tarifverträge sind innert drei Jahren an die vom Bundesrat festgesetzten Beiträge an die Pflegeleistungen anzugleichen. Die Kantonsregierungen regeln die Angleichung.
 
-## Übergangsbestimmung zur Änderung vom 12. Juni 2009****
+## Übergangsbestimmung zur Änderung vom 12. Juni 2009
 
 [^u8-1]
 
 [^u8-1]: [AS 2009 5265](https://fedlex.data.admin.ch/eli/oc/2009/618); [BBl 2009 3413](https://fedlex.data.admin.ch/eli/fga/2009/650)[3423](https://fedlex.data.admin.ch/eli/fga/2009/652). In Kraft bis 31. Dez. 2011.
 
-## Übergangsbestimmungen zur Änderung vom 19. März 2010****
+## Übergangsbestimmungen zur Änderung vom 19. März 2010
 
 [^u9-1]
 
@@ -2387,7 +2455,7 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 - a. die ausstehenden, zum Zeitpunkt des Inkrafttretens dieser Änderung fälligen Prämien und Kostenbeteiligungen, die zur Ausstellung eines Verlustscheins oder eines gleichwertigen Rechtstitels geführt haben; und
 - b. die bis zum Zeitpunkt des Inkrafttretens dieser Änderung angefallenen Verzugszinse und Betreibungskosten.
 
-## Übergangsbestimmung zur Änderung vom 23. Dezember 2011****
+## Übergangsbestimmung zur Änderung vom 23. Dezember 2011
 
 [^u10-1]
 
@@ -2395,13 +2463,13 @@ Datum des Inkrafttretens: 1. Januar 1996[^107-1] Art. 11–14, 18, 61 Abs. 4, 76
 
 Für die Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe a legt der Bundesrat die Methode zur Kontrolle der Wirtschaftlichkeit nach Artikel 56 Absatz 6 fest, wenn Versicherer und Leistungserbringer sich nicht innert 12 Monaten nach Inkrafttreten der vorliegenden Änderung vertraglich auf eine Methode geeinigt haben.
 
-## Übergangsbestimmungen zur Änderung vom 21. Juni 2013**** (Vorübergehende Wiedereinführung der bedarfsabhängigen Zulassung)
+## Übergangsbestimmungen zur Änderung vom 21. Juni 2013 (Vorübergehende Wiedereinführung der bedarfsabhängigen Zulassung)
 
 [^u11-1]
 
 [^u11-1]: [AS 2013 2065](https://fedlex.data.admin.ch/eli/oc/2013/428); [BBl 2012 9439](https://fedlex.data.admin.ch/eli/fga/2012/1750). In Kraft bis 30. Juni 2016.
 
-## Übergangsbestimmung zur Änderung vom 19. Juni 2015 (Elektronisches Patientendossier)****
+## Übergangsbestimmung zur Änderung vom 19. Juni 2015 (Elektronisches Patientendossier)
 
 [^u12-1]
 
@@ -2411,13 +2479,13 @@ Für die Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe a legt der Bundes
 
 <sup>2</sup> Geburtshäuser, einschliesslich solcher, die Verträge nach Artikel 49*a* Absatz 4 abschliessen, sowie Pflegeheime haben Artikel 39 Absatz 1 Buchstabe f nach einer Übergangsfrist von fünf Jahren nach Inkrafttreten der Änderung vom 19. Juni 2015 zu erfüllen.
 
-## Übergangsbestimmungen zur Änderung vom 17. Juni 2016 (Verlängerung der Einschränkung der Zulassung zur Tätigkeit zulasten der Krankenversicherung)****
+## Übergangsbestimmungen zur Änderung vom 17. Juni 2016 (Verlängerung der Einschränkung der Zulassung zur Tätigkeit zulasten der Krankenversicherung)
 
 [^u13-1]
 
 [^u13-1]: [AS 2016 2265](https://fedlex.data.admin.ch/eli/oc/2016/361); [BBl 2016 3515](https://fedlex.data.admin.ch/eli/fga/2016/647)[3525](https://fedlex.data.admin.ch/eli/fga/2016/649). In Kraft bis 30. Juni 2019.
 
-## Übergangsbestimmung zur Änderung vom 17. März 2017****
+## Übergangsbestimmung zur Änderung vom 17. März 2017
 
 [^u14-1]
 
@@ -2425,13 +2493,13 @@ Für die Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe a legt der Bundes
 
 Die Kantone setzen das in Artikel 65 Absatz 1<sup>bis</sup> festgelegte System der Prämienverbilligung für Kinder innert zwei Jahren nach Inkrafttreten der Änderung vom 17. März 2017 um.
 
-## Übergangsbestimmungen zur Änderung vom 14. Dezember 2018 (Verlängerung der Einschränkung der Zulassung zur Tätigkeit zulasten der Krankenversicherung)****
+## Übergangsbestimmungen zur Änderung vom 14. Dezember 2018 (Verlängerung der Einschränkung der Zulassung zur Tätigkeit zulasten der Krankenversicherung)
 
 [^u15-1]
 
 [^u15-1]: [AS 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [BBl 2018 6357](https://fedlex.data.admin.ch/eli/fga/2018/2239)[6741](https://fedlex.data.admin.ch/eli/fga/2018/2378). In Kraft bis 30. Juni 2021.
 
-## Übergangsbestimmung zur Änderung vom 21. Juni 2019****
+## Übergangsbestimmung zur Änderung vom 21. Juni 2019
 
 [^u16-1]
 
@@ -2439,7 +2507,7 @@ Die Kantone setzen das in Artikel 65 Absatz 1<sup>bis</sup> festgelegte System d
 
 Die Verbände der Leistungserbringer und der Versicherer müssen dem Bundesrat die Verträge über die Qualitätsentwicklung erstmalig ein Jahr nach Inkrafttreten der Änderung vom 21. Juni 2019 zur Genehmigung einreichen.
 
-## Übergangsbestimmungen zur Änderung vom 19. Juni 2020****
+## Übergangsbestimmungen zur Änderung vom 19. Juni 2020
 
 [^u17-1]
 
@@ -2449,7 +2517,7 @@ Die Verbände der Leistungserbringer und der Versicherer müssen dem Bundesrat d
 
 <sup>2</sup> Leistungserbringer nach Artikel 35 Absatz 2 Buchstaben a–g, m und n, die nach bisherigem Recht zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen waren, gelten als nach Artikel 36 des neuen Rechts vom Kanton zugelassen, auf dessen Gebiet sie die Tätigkeit beim Inkrafttreten dieses Artikels ausgeübt haben.
 
-## Übergangsbestimmung zur Änderung vom 18. Dezember 2020 (Vergütung des Pflegematerials)****
+## Übergangsbestimmung zur Änderung vom 18. Dezember 2020 (Vergütung des Pflegematerials)
 
 [^u18-1]
 
@@ -2457,7 +2525,7 @@ Die Verbände der Leistungserbringer und der Versicherer müssen dem Bundesrat d
 
 Während eines Jahres ab Inkrafttreten der Änderung vom 18. Dezember 2020 erfolgt die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die nach Artikel 25*a* Absätze 1 und 2 verwendet werden und für die das Departement noch keine Bestimmung über die Leistungspflicht und den Umfang der Vergütung nach Artikel 52 Absatz 1 Buchstabe a Ziffer 3 erlassen hat, weiterhin nach dem bisherigen Recht.
 
-## Übergangsbestimmung zur Änderung vom 18. Juni 2021****
+## Übergangsbestimmung zur Änderung vom 18. Juni 2021
 
 [^u19-1]
 
