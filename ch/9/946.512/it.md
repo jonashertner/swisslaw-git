@@ -4,11 +4,11 @@ title: "Ordinanza del 17 giugno 1996 sul sistema svizzero di accreditamento e la
 short: OAccD
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904"
 language: it
-version: 2016-04-20
+version: 2023-01-01
 adopted: 1996-06-17
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20160420-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1904_1904_1904-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,20 +17,29 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it"
 
 (Ordinanza sull’accreditamento e sulla designazione, OAccD)
 
-del 17 giugno 1996 (Stato 20 aprile 2016)
+del 17 giugno 1996 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 8, 10, 15 e 16 della legge federale del 6 ottobre 1995[^ingress-1] sugli ostacoli tecnici al commercio (LOTC); in esecuzione dell’Accordo del 3 dicembre 1998[^ingress-2] sul reciproco riconoscimento di valutazioni della conformità tra la Confederazione Svizzera e il Canada; in esecuzione dell’Accordo del 21 giugno 1999[^ingress-3] tra la Comunità europea e la Confederazione Svizzera sul reciproco riconoscimento in materia di valutazione della conformità; in esecuzione dell’Accordo del 21 giugno 2001[^ingress-4] di emendamento della Convenzione del 4 gennaio 1960[^ingress-5] istitutiva dell’Associazione europea di libero scambio (AELS) e del suo allegato I,[^ingress-6]
+visti gli articoli 8, 10, 15 e 16 della legge federale del 6 ottobre 1995[^ingress-1] sugli ostacoli tecnici al commercio (LOTC);
+
+in esecuzione dell’Accordo del 3 dicembre 1998[^ingress-2] sul reciproco riconoscimento di valutazioni della conformità tra la Confederazione Svizzera e il Canada;
+
+in esecuzione dell’Accordo del 21 giugno 1999[^ingress-3] tra la Comunità europea e la Confederazione Svizzera sul reciproco riconoscimento in materia di valutazione della conformità;
+
+in esecuzione dell’Accordo del 21 giugno 2001[^ingress-4] di emendamento della Convenzione del 4 gennaio 1960[^ingress-5] istitutiva dell’Associazione europea di libero scambio (AELS) e del suo allegato I;
+
+in esecuzione dell’Accordo del 17 novembre 2022[^ingress-6] tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sul reciproco riconoscimento in materia di valutazione della conformità,[^ingress-7]
 
 ordina:
 
 [^ingress-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
 [^ingress-2]: [RS 0.946.523.21](https://fedlex.data.admin.ch/eli/cc/2001/436)
 [^ingress-3]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^ingress-4]: [FF 2001 4499](https://fedlex.data.admin.ch/eli/fga/2001/849)
+[^ingress-4]: [RU 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
 [^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-6]: Nuovo testo giusta il n. I dell’O del 29 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)).
+[^ingress-6]: [RS 0.946.536.71](https://fedlex.data.admin.ch/eli/cc/2023/11)
+[^ingress-7]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 767](https://fedlex.data.admin.ch/eli/oc/2022/767)).
 
 ## Capitolo 1: Oggetto, scopo dell’accreditamento e della designazione
 
@@ -311,7 +320,7 @@ Nella misura in cui l’accordo internazionale non disponga altrimenti:
 [^25-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 261](https://fedlex.data.admin.ch/eli/oc/2016/32)).
 [^25-2]: Introdotto dal n. I dell’O del 29 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)).
 
-### Sezione 3: Domanda di designazione e criteri applicabili all’autorità di designazione****
+### Sezione 3: Domanda di designazione e criteri applicabili all’autorità di designazione
 
 [^chap3-sec3-1]
 
@@ -375,7 +384,7 @@ Se il richiedente non adempie le condizioni dell’articolo 25, l’autorità di
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4323](https://fedlex.data.admin.ch/eli/oc/2003/644)).
 
-### Sezione 5:**** Decisione
+### Sezione 5: Decisione
 
 [^chap3-sec5-1]
 
@@ -510,7 +519,8 @@ La SECO designa e conduce la delegazione svizzera negli organi degli accordi seg
 
 - a. Accordo del 3 dicembre 1998 sul reciproco riconoscimento di valutazioni della conformità tra la Confederazione Svizzera e il Canada;
 - b. Accordo del 21 giugno 1999 tra la Comunità europea e la Confederazione Svizzera sul reciproco riconoscimento in materia di valutazione della conformità;
-- c. Allegato I dell’Accordo del 21 giugno 2001[^39-2] di emendamento della Convenzione del 4 gennaio 1960[^39-3] istitutiva dell’Associazione europea di libero scambio (AELS).
+- c. Allegato I dell’Accordo del 21 giugno 2001[^39-2] di emendamento della Convenzione del 4 gennaio 1960[^39-3] istitutiva dell’Associazione europea di libero scambio (AELS);
+- d.[^39-4] Accordo del 17 novembre 2022 tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sul reciproco riconoscimento in materia di valutazione della conformità.
 
 <sup>2</sup>
 
@@ -525,6 +535,7 @@ D’intesa con le autorità interessate la SECO può consentire alle decisioni p
 [^39-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)).
 [^39-2]: [FF 2001 4499](https://fedlex.data.admin.ch/eli/fga/2001/849)
 [^39-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^39-4]: Introdotta dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 767](https://fedlex.data.admin.ch/eli/oc/2022/767)).
 
 #### Art. 40
 
@@ -567,11 +578,11 @@ Le attuali sigle di accreditamento possono essere utilizzate fino al 31 dicembre
 
 La presente ordinanza entra in vigore il 1° luglio 1996.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 5 cpv. 2 e art. 9)
 
-## Criteri internazionali applicabili al Servizio di accreditamento svizzero****
+## Criteri internazionali applicabili al Servizio di accreditamento svizzero
 
 [^annex1-lvlu1-1]
 
@@ -580,11 +591,11 @@ Allegato 1*[^t-1]*
 
 SN EN ISO/IEC 17011, Valutazione della conformità – Requisiti generali per gli organismi di accreditamento che accreditano organismi di valutazione della conformità.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 7 cpv. 1)
 
-## Criteri internazionali applicabili agli organismi di valutazione della conformità****
+## Criteri internazionali applicabili agli organismi di valutazione della conformità
 
 [^annex2-lvlu1-1]
 
@@ -600,11 +611,11 @@ Allegato 2*[^t-2]*
 - g. SN EN ISO/IEC 17024, Valutazione della conformità – Requisiti generali per organismi che eseguono la certificazione di persone;
 - h. SN EN ISO/IEC 17065, Valutazione della conformità – Requisiti per organismi che certificano prodotti, processi e servizi.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 [^t-3]: Abrogato dal n. II cpv. 2 dell’O del 29 mag. 2002, con effetto dal 1° giu. 2002 ([RU 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)).
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 16)
 
@@ -616,43 +627,43 @@ Le seguenti sigle di accreditamento possono essere utilizzate sia in versione ro
 
 - a. Sigla dei laboratori di prova accreditati («Swiss Testing Service» [STS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image2.png)
 
 - b. Sigla dei laboratori di taratura accreditati («Swiss Calibration Service» [SCS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image3.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image4.png)
 
 - c. Sigla dei produttori di materiale di riferimento accreditati («Swiss Reference Material Service» [SRMS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image5.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image6.png)
 
 - d. Sigla dei servizi svizzeri di prove valutative interlaboratorio accreditati («Swiss Proficiency Testing Service» [SPTS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image7.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image8.png)
 
 - e. Sigla degli organismi d’ispezione accreditati («Swiss Inspection Service» [SIS])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image9.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image10.png)
 
 - f. Sigla degli organismi di certificazione di sistemi di gestione accreditati («Swiss Certification Service for Managementsystems» [SCESm])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image12.png)
 
 - g. Sigla degli organismi di certificazione di persone accreditati («Swiss Certification Service for Persons» [SCESe])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image13.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image14.png)
 
 - h. Sigla degli organismi di certificazione di prodotti, processi e servizi accreditati («Swiss Certification Service for Products, Processes and Services» [SCESp])
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20160420/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image15.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904/20230101/it/xml/image/image16.png)
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 (art. 25 cpv. 3)
 
 ## Condizioni per la designazione degli organismi di valutazione della conformità
 
-[^t-5]: Introdotto dal n. II cpv. 3 dell’O del 29 mag. 2002 ([RU 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)). Aggiornato dai n. II delle O del 9 mag. 2012 ([RU 2012 2887](https://fedlex.data.admin.ch/eli/oc/2012/343)) e del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 261](https://fedlex.data.admin.ch/eli/oc/2016/32)).
+[^t-5]: Introdotto dal n. II cpv. 3 dell’O del 29 mag. 2002 ([RU 2002 2140](https://fedlex.data.admin.ch/eli/oc/2002/322)). Aggiornato dal n. II delle O del 9 mag. 2012 ([RU 2012 2887](https://fedlex.data.admin.ch/eli/oc/2012/343)) e del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 261](https://fedlex.data.admin.ch/eli/oc/2016/32)).
 
 1
 
