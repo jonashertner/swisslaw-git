@@ -4,13 +4,13 @@ number: "141.1"
 title: Loi sur les droits politiques
 short: LDP
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2022-11-23
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2409/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2992/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2409/pdf_file"
 
 (LDP)
 
-du 05.06.2012 (état au 01.01.2022)
+du 05.06.2012 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -984,7 +984,7 @@ arrête:
 
 **Election complémentaire**
 
-<sup>1</sup> Si des sièges en surnombre doivent être pourvus ou si un siège devenu vacant ne peut être occupé par un ou une des viennentensuite, au moins 16 des signataires de la liste électorale concernée (art. 67, al. 1) ou, dans le cas d’une liste sans signataires (art. 67, al. 2), le comité du groupement politique qui a déposé la liste, peuvent présenter, dans un délai imparti par le Conseil-exécutif, respectivement des candidatures complémentaires ou une candidature de remplacement.
+<sup>1</sup> Si des sièges en surnombre doivent être pourvus ou si un siège devenu vacant ne peut être occupé par un ou une des viennent-ensuite, au moins 16 des signataires de la liste électorale concernée (art. 67, al. 1) ou, dans le cas d’une liste sans signataires (art. 67, al. 2), le comité du groupement politique qui a déposé la liste, peuvent présenter, dans un délai imparti par le Conseil-exécutif, respectivement des candidatures complémentaires ou une candidature de remplacement.
 
 <sup>2</sup> Après la mise au point des candidatures, le Conseil-exécutif déclare élues la ou les personnes proposées par les signataires de la liste électorale ou le comité du groupement politique.
 
@@ -1755,7 +1755,7 @@ arrête:
 - 4 Bremgarten bei Bern,
 - 5 …
 - 6 Deisswil bei Münchenbuchsee,
-- 7 Diemerswil,
+- 7 …
 - 8 Ferenbalm,
 - 9 Fraubrunnen,
 - 10 Frauenkappelen,
@@ -1794,7 +1794,7 @@ arrête:
 
 <sup>1</sup> Le cercle électoral du Mittelland méridional au sens de l'article 63, alinéa 1, chiffre 7 se compose des communes municipales suivantes:
 
-- 43a Thurnen
+- 43a …
 - 1 Arni (BE),
 - 2 Belp,
 - 3 Biglen,
@@ -1836,6 +1836,7 @@ arrête:
 - 40 Rüschegg,
 - 41 …
 - 42 Schwarzenburg,
+- 42a Thurnen
 - 43 …
 - 44 Toffen,
 - 45 Wald (BE),

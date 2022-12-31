@@ -4,13 +4,13 @@ number: "141.1"
 title: Gesetz über die politischen Rechte
 short: PRG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2022-11-23
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2409/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2992/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2409/pdf_file"
 
 (PRG)
 
-vom 05.06.2012 (Stand 01.01.2022)
+vom 05.06.2012 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1755,7 +1755,7 @@ beschliesst:
 - 4 Bremgarten bei Bern,
 - 5 …
 - 6 Deisswil bei Münchenbuchsee,
-- 7 Diemerswil,
+- 7 …
 - 8 Ferenbalm,
 - 9 Fraubrunnen,
 - 10 Frauenkappelen,
@@ -1794,7 +1794,7 @@ beschliesst:
 
 <sup>1</sup> Der in Artikel 63 Absatz 1 Ziffer 7 bezeichnete Wahlkreis Mittelland- Süd besteht aus den folgenden Einwohnergemeinden:
 
-- 43a Thurnen
+- 43a …
 - 1 Arni (BE),
 - 2 Belp,
 - 3 Biglen,
@@ -1836,6 +1836,7 @@ beschliesst:
 - 40 Rüschegg,
 - 41 …
 - 42 Schwarzenburg,
+- 42a Thurnen
 - 43 …
 - 44 Toffen,
 - 45 Wald (BE),
