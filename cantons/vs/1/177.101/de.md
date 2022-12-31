@@ -4,13 +4,13 @@ number: "177.101"
 title: Reglement betreffend das Gesetz über den Anwaltsberuf
 short: RAnwG
 language: de
-version: 2022-01-01
-corrected: 2021-12-03
-version_adopted: 2021-12-01
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-21
 adopted: 2002-02-20
 in_force: 2002-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/177.101"
-pdf: "https://lex.vs.ch/api/de/versions/2966/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3143/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2966/pdf_file"
 
 (RAnwG)
 
-vom 20.02.2002 (Stand 01.01.2022)
+vom 20.02.2002 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -68,7 +68,7 @@ beschliesst:
 
 <sup>1</sup> Damit die Anstellung und die Ausbildung der Praktikanten möglichst gut aufeinander abgestimmt werden können, verständigen sich die Praktikumsmeister untereinander.
 
-<sup>2</sup> Die Praktikumsmeister der Anwaltschaft müssen im kantonalen Anwaltsregister als Unabhängige, Partner oder Mitarbeiter eingetragen sein.
+<sup>2</sup> Die Praktikumsmeister der Anwaltschaft müssen im kantonalen Anwaltsregister als Unabhängige, Partner oder Mitarbeiter seit mindestens 2 aufeinanderfolgenden Jahren eingetragen sein.
 
 <sup>3</sup> Ein Praktikumsmeister darf höchstens zwei Praktikanten gleichzeitig ausbilden.
 
@@ -140,7 +140,7 @@ beschliesst:
 - a) 800 Franken für die schriftlichen Prüfungen;
 - b) 800 Franken für die mündlichen Prüfungen.
 
-<sup>4</sup> Die Erteilung des Diploms berechtigt andererseits zur Erhebung einer Gebühr von 160 Franken.
+<sup>4</sup> Für die Erteilung des Diploms wird keine zusätzliche Gebühr erhoben, diese ist in der Prüfungsgebühr gemäss Absatz 3 enthalten.
 
 #### Art. 11
 
@@ -156,8 +156,8 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder der Prüfungskommission werden wie folgt entschädigt:
 
-- a) 300 Franken für die Vorbereitung der Themen;
-- b) 150 Franken pro Kandidat, für die Korrektur der schriftlichen Prüfungsarbeiten;
+- a) 600 Franken für die Vorbereitung der Themen;
+- b) 300 Franken pro Kandidat, für die Korrektur der schriftlichen Prüfungsarbeiten;
 - c) 450 Franken pro Kandidat, für die mündlichen Prüfungen;
 - d) 150 Franken für die Aufsicht anlässlich der schriftlichen Prüfungen.
 
@@ -352,5 +352,11 @@ beschliesst:
 #### Art. T2-1
 
 <sup>1</sup> Der vorliegende Rechtserlass gilt erstmals für die Prüfungssession im Frühling 2020.
+
+## T3 Übergangsbestimmung der Änderung vom 1. Dezember 2021
+
+#### Art. T3-1
+
+<sup>1</sup> Die Praktikumsmeister, die am 1. Januar 2022 Praktikanten ausbilden, können dies bis zu deren Abschluss des Praktikums tun, auch wenn sie die in Artikel 4 Absatz 2 genannte Voraussetzung der Berufserfahrung nicht erfüllen.
 
 CSW BO/Abl. 19/2002

@@ -4,13 +4,13 @@ number: "177.101"
 title: "Règlement concernant la loi sur la profession d'avocat"
 short: RLPAv
 language: fr
-version: 2022-01-01
-corrected: 2021-12-03
-version_adopted: 2021-12-01
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-21
 adopted: 2002-02-20
 in_force: 2002-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/177.101"
-pdf: "https://lex.vs.ch/api/fr/versions/2966/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3143/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2966/pdf_file"
 
 (RLPAv)
 
-du 20.02.2002 (état 01.01.2022)
+du 20.02.2002 (état 01.01.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -68,7 +68,7 @@ arrête:
 
 <sup>1</sup> Les maîtres de stage se concertent entre eux afin de coordonner au mieux l'engagement et la formation des stagiaires.
 
-<sup>2</sup> Les avocats maîtres de stage doivent être inscrits au registre cantonal des avocats comme indépendants, associés ou collaborateurs.
+<sup>2</sup> Les avocats maîtres de stage doivent être inscrits à un registre cantonal des avocats comme indépendants, associés ou collaborateurs, depuis 2 années consécutives au moins.
 
 <sup>3</sup> Le maître de stage ne peut se charger, simultanément, que de la formation de deux stagiaires au maximum.
 
@@ -140,7 +140,7 @@ arrête:
 - a) 800 francs pour les épreuves écrites;
 - b) 800 francs pour les épreuves orales.
 
-<sup>4</sup> La délivrance du brevet donne par ailleurs droit à la perception d'un émolument de 160 francs.
+<sup>4</sup> L’émolument d’examen au sens de l’alinéa 3 comprend la délivrance du brevet.
 
 #### Art. 11
 
@@ -156,8 +156,8 @@ arrête:
 
 <sup>1</sup> Les membres de la commission d'examen perçoivent les indemnités suivantes:
 
-- a) 300 francs pour la préparation des thèmes;
-- b) 150 francs par candidat, pour la correction des épreuves écrites;
+- a) 600 francs pour la préparation des thèmes;
+- b) 300 francs par candidat, pour la correction des épreuves écrites;
 - c) 450 francs par candidat, pour les épreuves orales;
 - d) 150 francs pour la surveillance des épreuves écrites.
 
@@ -352,5 +352,11 @@ arrête:
 #### Art. T2-1
 
 <sup>1</sup> Le présent acte législatif produit ses effets la première fois pour la session d'examen du printemps 2020.
+
+## T3 Disposition transitoire de la modification du 1<sup>er</sup> décembre 2021
+
+#### Art. T3-1
+
+<sup>1</sup> Les avocats maîtres de stage qui, au 1<sup>er</sup> janvier 2022, forment des stagiaires, peuvent en achever la formation même s'ils ne remplissent pas la condition prévue par l'article 4 alinéa 2 relative à la durée de pratique.
 
 RCV BO/Abl. 19/2002
