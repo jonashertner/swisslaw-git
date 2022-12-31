@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur la production et la mise en circulatio
 short: OSALA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-772-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-772-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20220101/fr"
 
 (Ordonnance sur les aliments pour animaux, OSALA)
 
-du 26 octobre 2011 (Etat le 1<sup>er</sup> janvier 2022)
+du 26 octobre 2011 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -210,10 +210,10 @@ Lorsqu’un aliment pour animaux ne remplit pas les exigences relatives à sa mi
 
 <sup>1</sup> Le présent chapitre ne s’applique pas à l’eau, qu’elle soit ingérée directement par les animaux ou incorporée intentionnellement aux aliments pour animaux.
 
-<sup>2</sup> Il est applicable sous réserve de l’ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux[^6-1].[^6-2]
+<sup>2</sup> Il est applicable sous réserve de l’ordonnance du 25 mai 2011 concernant les sous-produits animaux[^6-1].[^6-2]
 
 [^6-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 ### Section 2 Exigences générales
 
@@ -466,8 +466,8 @@ Si les conditions définies à l’art. 148*a* LAgr sont remplies, le DEFR peut:
 
 <sup>7</sup> Il publie une liste des additifs autorisés[^22-1].[^22-2]
 
-[^22-1]: La liste des additifs autorisés pour l’alimentation animale peut être consultée gratuitement sur le site d’Agroscope à l’adresse suivante: www.agroscope.admin.ch &gt; Thèmes &gt; Animaux de rente &gt; Aliments pour animaux &gt; Contrôle des aliments pour animaux &gt; Bases légales &gt; Annexe 2 &gt; Annexe 2.4a, Annexe 2.4b, Annexe 2.4d et Annexe 2.5.
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5569](https://fedlex.data.admin.ch/eli/oc/2020/963)).
+[^22-1]: La liste des additifs autorisés pour l’alimentation animale peut être consultée gratuitement sur le site d’Agroscope à l’adresse suivante: www.agroscope.admin.ch &gt; Thèmes &gt; Animaux de rente &gt; Aliments pour animaux &gt; Contrôle des aliments pour animaux &gt; Bases légales &gt; Annexe 2 &gt; Liste 2.4a à 2.4e et Liste 2.5.
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 23
 
@@ -588,7 +588,7 @@ Doivent être présentés à l’OFAG les documents et indications suivants:
 
 <sup>5</sup> Si l’OFAG révoque une autorisation ou ne la renouvelle pas, et si les motifs de la révocation ou du non-renouvellement ne concernent pas un effet considéré comme inadmissible et potentiellement dangereux, un délai peut être accordé pour l’élimination, l’entreposage et la mise en circulation des stocks.
 
-<sup>6</sup> ...[^30-2]
+<sup>6</sup> …[^30-2]
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
 [^30-2]: Abrogé par le ch. I de l’O du 31 oct. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
@@ -747,7 +747,7 @@ Les entreprises du secteur de l’alimentation animale veillent à ce que toutes
 
 **Obligations spéciales**
 
-<sup>1</sup> Les entreprises du secteur de l’alimentation animale et les agriculteurs ne peuvent utiliser que des aliments pour animaux provenant d’établissements enregistrés conformément à l’art. 47 ou agréés conformément à l’art. 48.
+<sup>1</sup> Les entreprises du secteur de l’alimentation animale et les exploitations actives dans la production primaire ne peuvent utiliser que des aliments pour animaux provenant d’établissements enregistrés conformément à l’art. 47 ou agréés conformément à l’art. 48.[^42-1]
 
 <sup>2</sup> Quiconque produit, importe ou met en circulation des aliments pour animaux doit prendre des mesures appropriées dans le cadre de son activité pour que les aliments pour animaux satisfassent aux exigences légales, qu’ils soient de qualité irréprochable et qu’ils ne soient pas altérés en raison de conditions hygiéniques inappropriées ou d’emballages inadéquats. Les contrôles officiels ne libèrent pas du devoir d’autocontrôle.
 
@@ -757,7 +757,10 @@ Les entreprises du secteur de l’alimentation animale veillent à ce que toutes
 
 <sup>5</sup> Le DEFR fixe les obligations spéciales des entreprises du secteur de l’alimentation animale concernant les différentes opérations.
 
-<sup>6</sup> Il peut édicter des dispositions relatives à la production d’aliments pour animaux dans une exploitation agricole en vue de leur utilisation dans cette dernière.
+<sup>6</sup> Il peut édicter des dispositions relatives à la production d’aliments pour animaux dans une exploitation active dans la production primaire en vue de leur utilisation dans cette dernière.[^42-2]
+
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 43
 
@@ -773,7 +776,7 @@ Les entreprises du secteur de l’alimentation animale veillent à ce que toutes
 
 **Système d’analyse des risques et maîtrise des points critiques (HACCP)**
 
-<sup>1</sup> Les entreprises du secteur de l'alimentation animale qui produisent, importent, transportent, entreposent ou mettent en circulation des aliments pour animaux doivent appliquer et maintenir des procédures écrites permanentes fondées sur les principes HACCP. Cette exigence s'applique également aux exploitations de la production primaire qui doivent être enregistrées ou agréées, conformément à l’art. 47, al. 2.[^44-1]
+<sup>1</sup> Les entreprises du secteur de l’alimentation animale qui produisent, importent, transportent, entreposent ou mettent en circulation des aliments pour animaux doivent appliquer et maintenir des procédures écrites permanentes fondées sur les principes HACCP. Cette exigence s’applique également aux exploitations actives dans la production primaire qui doivent être enregistrées ou agréées, conformément à l’art. 47, al. 2.[^44-1]
 
 <sup>2</sup>
 
@@ -793,7 +796,7 @@ Les procédures visées à l’al. 1 sont fondées sur les principes suivants:
 
 <sup>5</sup> L’OFAG peut prévoir des allègements dans certains cas.
 
-[^44-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 45
 
@@ -823,9 +826,10 @@ Pour exercer son activité, toute entreprise du secteur de l’alimentation anim
 - a. enregistrée conformément à l’art. 47, ou
 - b. agréée, lorsque l’agrément est requis conformément à l’art. 48.
 
-<sup>2</sup> Dans le cas de personnes actives dans la production primaire d’aliments pour animaux, l’enregistrement obligatoire et la procédure de notification sont régies par les dispositions de l’art. 3 de l’ordonnance du 23 novembre 2005 sur la production primaire[^46-1].
+<sup>2</sup> Dans le cas des exploitations actives dans la production primaire d’aliments pour animaux, l’enregistrement obligatoire et la procédure de notification sont régies par les dispositions de l’art. 3 de l’ordonnance du 23 novembre 2005 sur la production primaire[^46-1].[^46-2]
 
 [^46-1]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^46-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 47
 
@@ -838,7 +842,9 @@ Les entreprises du secteur de l’alimentation animale:
 - a. annoncent à l’OFAG, aux fins d’enregistrement ou d’agrément, sous la forme demandée, tous les établissements sous leur contrôle qui interviennent à une étape quelconque de la production, de la transformation, du stockage, du transport ou de la distribution d’aliments pour animaux;
 - b. fournissent à l’OFAG des informations à jour sur tous les établissements sous leur contrôle selon la let. a, notamment en lui communiquant toute modification significative des activités et toute fermeture d’un établissement existant.
 
-<sup>2</sup> Les agriculteurs qui produisent à la ferme des aliments pour animaux en utilisant des additifs pour lesquels une valeur maximale est applicable selon l’homologation ou des prémélanges en contenant, doivent annoncer cette activité à l’OFAG aux fins d’enregistrement ou d’agrément.
+<sup>2</sup> Les exploitations actives dans la production primaire qui produisent des aliments pour animaux en utilisant des additifs, à l’exception des additifs liés aux activités d’ensilage, ou des prémélanges en contenant, doivent annoncer cette activité à l’OFAG aux fins d’enregistrement ou d’agrément.[^47-1]
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 48
 
@@ -1197,7 +1203,7 @@ Lorsqu’un lot de matière première importée présente des traces fortuites d
 
 <sup>6</sup> L’OFAG peut adapter les annexes et les dispositions transitoires y relatives de l’ordonnance du 26 octobre 2011 sur le Livre des aliments pour animaux[^70-1] au droit européen modifié, lorsque les modifications sont de portée limitée.[^70-2]
 
-<sup>7</sup> ...[^70-3]
+<sup>7</sup> …[^70-3]
 
 <sup>8</sup> En cas d’urgence touchant à la santé humaine, à la santé animale ou à l’environnement et sous réserve de dispositions relatives à la propriété intellectuelle, l’OFAG peut fournir à l’acheteur des informations dont il dispose selon l’al. 1 si, après avoir pesé les intérêts légitimes respectifs des fabricants et des acheteurs, il conclut que la fourniture des informations se justifie. Le cas échéant, l’OFAG fournit lesdites informations sous réserve de la signature par l’acheteur d’une clause de confidentialité.
 

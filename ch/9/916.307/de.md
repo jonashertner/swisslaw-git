@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Produktion und das Inverkehrbr
 short: FMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-772-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2011-772-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20220101/de"
 
 (Futtermittel-Verordnung, FMV)
 
-vom 26. Oktober 2011 (Stand am 1. Januar 2022)
+vom 26. Oktober 2011 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -210,10 +210,10 @@ Erfüllt ein Futtermittel die Anforderungen an das Inverkehrbringen nicht, so or
 
 <sup>1</sup> Dieses Kapitel gilt nicht für Wasser, das unmittelbar von den Tieren aufgenommen oder dem Futtermittel absichtlich zugesetzt wird.
 
-<sup>2</sup> Es gilt unter Vorbehalt der Verordnung vom 25. Mai 2011[^6-1] über die Entsorgung von tierischen Nebenprodukten.[^6-2]
+<sup>2</sup> Es gilt unter Vorbehalt der Verordnung vom 25. Mai 2011[^6-1] über tierische Nebenprodukte.[^6-2]
 
 [^6-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^6-2]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 ### 2. Abschnitt: Allgemeine Anforderungen
 
@@ -466,8 +466,8 @@ Sind die Voraussetzungen nach Artikel 148*a* LwG erfüllt, so kann das WBF:
 
 <sup>7</sup> Es veröffentlicht die bewilligten Futtermittelzusatzstoffe[^22-1].[^22-2]
 
-[^22-1]: Die Liste der bewilligten Futtermittelzusatzstoffe kann bei Agroscope kostenlos abgerufen werden unter www.agroscope.admin.ch &gt; Themen &gt; Nutztiere &gt; Futtermittel &gt; Futtermittelkontrolle &gt; Gesetzliche Grundlagen &gt; Anhang 2 &gt; Anhang 2.4a, Anhang 2.4b, Anhang 2.4d und Anhang 2.5.
-[^22-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5569](https://fedlex.data.admin.ch/eli/oc/2020/963)).
+[^22-1]: Die Liste der bewilligten Futtermittelzusatzstoffe kann bei Agroscope kostenlos abgerufen werden unter www.agroscope.admin.ch &gt; Themen &gt; Nutztiere &gt; Futtermittel &gt; Futtermittelkontrolle &gt; Gesetzliche Grundlagen &gt; Anhang 2 &gt; Liste 2.4a–2.4e und Liste 2.5.
+[^22-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 23
 
@@ -745,7 +745,7 @@ Die Futtermittelunternehmen stellen sicher, dass auf allen ihrer Kontrolle unter
 
 **Besondere Pflichten**
 
-<sup>1</sup> Futtermittelunternehmen und Landwirtinnen und Landwirte dürfen nur Futtermittel aus Betrieben verwenden, die gemäss Artikel 47 registriert oder gemäss Artikel 48 zugelassen sind.
+<sup>1</sup> Futtermittelunternehmen und Betriebe der Primärproduktion dürfen nur Futtermittel aus Betrieben verwenden, die gemäss Artikel 47 registriert oder gemäss Artikel 48 zugelassen sind.[^42-1]
 
 <sup>2</sup> Wer Futtermittel produziert, einführt oder in Verkehr bringt, muss im Rahmen seiner Tätigkeit geeignete Massnahmen ergreifen, damit die Futtermittel den gesetzlichen Anforderungen entsprechen, von einwandfreier Qualität sind und nicht durch ungeeignete hygienische Bedingungen oder unangemessene Verpackungen beeinträchtigt werden. Die amtlichen Kontrollen entbinden nicht von der Pflicht zur Selbstkontrolle.
 
@@ -755,7 +755,10 @@ Die Futtermittelunternehmen stellen sicher, dass auf allen ihrer Kontrolle unter
 
 <sup>5</sup> Das WBF legt die besonderen Pflichten der Futtermittelunternehmen in Bezug auf die verschiedenen Tätigkeiten fest.
 
-<sup>6</sup> Es kann Bestimmungen über die Produktion von Futtermitteln in einem Landwirtschaftsbetrieb für den Eigenbedarf erlassen.
+<sup>6</sup> Es kann Bestimmungen über die Produktion von Futtermitteln in einem Betrieb der Primärproduktion für den Eigenbedarf erlassen.[^42-2]
+
+[^42-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^42-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 43
 
@@ -771,7 +774,7 @@ Die Futtermittelunternehmen stellen sicher, dass auf allen ihrer Kontrolle unter
 
 **Gefahrenanalyse und kritische Lenkungspunkte (HACCP)**
 
-<sup>1</sup> Futtermittelunternehmen, die Futtermittel herstellen, einführen, befördern, lagern oder in Verkehr bringen, müssen ein ständiges schriftliches Verfahren gemäss den HACCP-Grundsätzen durchführen und aufrechterhalten. Dies gilt auch für die Betriebe in der Primärproduktion, die nach Artikel 47 Absatz 2 registriert oder zugelassen sind.[^44-1]
+<sup>1</sup> Futtermittelunternehmen, die Futtermittel herstellen, einführen, befördern, lagern oder in Verkehr bringen, müssen ein ständiges schriftliches Verfahren gemäss den HACCP-Grundsätzen durchführen und aufrechterhalten. Dies gilt auch für Betriebe der Primärproduktion, die nach Artikel 47 Absatz 2 registriert oder zugelassen sind.[^44-1]
 
 <sup>2</sup>
 
@@ -791,7 +794,7 @@ Die in Absatz 1 genannten Verfahren beruhen auf den folgenden Grundsätzen:
 
 <sup>5</sup> Das BLW kann in Einzelfällen Erleichterungen gewähren.
 
-[^44-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
+[^44-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 45
 
@@ -821,9 +824,10 @@ Für die Ausübung ihrer Tätigkeit müssen alle Futtermittelunternehmen:
 - a. nach Artikel 47 registriert sein; oder
 - b. nach Artikel 48 zugelassen sein, sofern eine Zulassung erforderlich ist.
 
-<sup>2</sup> Für die in der Primärproduktion von Futtermitteln tätigen Personen sind die Registrierungspflicht und das Meldeverfahren durch die Bestimmungen von Artikel 3 der Verordnung vom 23. November 2005[^46-1] über die Primärproduktion geregelt.
+<sup>2</sup> Für Betriebe der Primärproduktion von Futtermitteln sind die Registrierungspflicht und das Meldeverfahren durch die Bestimmungen von Artikel 3 der Verordnung vom 23. November 2005[^46-1] über die Primärproduktion geregelt.[^46-2]
 
 [^46-1]: [SR 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^46-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 47
 
@@ -836,7 +840,9 @@ Die Futtermittelunternehmen:
 - a. melden dem BLW alle ihrer Kontrolle unterstehenden Betriebe, die in einer der Herstellungs-, Verarbeitungs-, Lagerungs-, Transport- oder Vertriebsstufen von Futtermitteln tätig sind, in der verlangten Form zwecks Registrierung oder Zulassung;
 - b. stellen dem BLW aktuelle Informationen über alle unter ihrer Kontrolle stehenden Betriebe nach Buchstabe a zur Verfügung und melden insbesondere alle wichtigen Veränderungen bei den Tätigkeiten und Betriebsschliessungen.
 
-<sup>2</sup> Landwirtinnen und Landwirte, die auf dem landwirtschaftlichen Betrieb Futtermittel unter Verwendung von Futtermittelzusatzstoffen, für die gemäss Zulassung ein Höchstgehalt gilt, oder von Vormischungen, die solche enthalten, erzeugen, müssen diese Tätigkeit dem BLW zwecks Registrierung oder Zulassung melden.
+<sup>2</sup> Betriebe der Primärproduktion, die Futtermittel unter Verwendung von Futtermittelzusatzstoffen, mit Ausnahme von Silierzusatzstoffen, oder von Vormischungen, die solche enthalten, erzeugen, müssen diese Tätigkeit dem BLW zwecks Registrierung oder Zulassung melden.[^47-1]
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 48
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente la produzione e l'immissione s
 short: OsAlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-772-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2011-772-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20220101/it"
 
 (Ordinanza sugli alimenti per animali, OsAlA)
 
-del 26 ottobre 2011 (Stato 1° gennaio 2022)
+del 26 ottobre 2011 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -210,10 +210,10 @@ Se un alimento per animali non soddisfa i requisiti relativi all’immissione su
 
 <sup>1</sup> Il presente capitolo non si applica all’acqua, né assunta direttamente dagli animali né aggiunta intenzionalmente agli alimenti loro destinati.
 
-<sup>2</sup> Il presente capitolo si applica fatta salva l’ordinanza del 25 maggio 2011[^6-1] concernente l’eliminazione dei sottoprodotti di origine animale.[^6-2]
+<sup>2</sup> Il presente capitolo si applica fatta salva l’ordinanza del 25 maggio 2011[^6-1] concernente i sottoprodotti di origine animale.[^6-2]
 
 [^6-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^6-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 ### Sezione 2: Esigenze generali
 
@@ -466,8 +466,8 @@ Se le condizioni secondo l’articolo 148*a* LAgr sono adempiute, il DEFR può:
 
 <sup>7</sup> Pubblica l’elenco degli additivi autorizzati per alimenti per animali[^22-1].[^22-2]
 
-[^22-1]: L’elenco degli additivi autorizzati per alimenti per animali può essere consultato gratuitamente presso Agroscope all’indirizzo www.agroscope.admin.ch &gt; Temi &gt; Animali da reddito &gt; Alimenti per animali &gt; Controllo degli alimenti per animali &gt; Basi legali &gt; Allegato 2 &gt; Allegato 2.4a, Allegato 2.4b, Allegato 2.4d e Allegato 2.5.
-[^22-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5569](https://fedlex.data.admin.ch/eli/oc/2020/963)).
+[^22-1]: L’elenco degli additivi autorizzati per alimenti per animali può essere consultato gratuitamente sul sito di Agroscope all’indirizzo www.agroscope.admin.ch &gt; Temi &gt; Animali da reddito &gt; Alimenti per animali &gt; Controllo degli alimenti per animali &gt; Basi legali &gt; Allegato 2 &gt; Elenchi 2.4a–2.4e ed Elenco 2.5.
+[^22-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 23
 
@@ -747,7 +747,7 @@ Le imprese del settore dell’alimentazione animale assicurano che tutte le fasi
 
 **Obblighi specifici**
 
-<sup>1</sup> Le imprese del settore dell’alimentazione animale e gli agricoltori possono utilizzare soltanto alimenti per animali prodotti da stabilimenti registrati ai sensi dell’articolo 47 oppure omologati ai sensi dell’articolo 48.
+<sup>1</sup> Le imprese del settore dell’alimentazione animale e le aziende attive nella produzione primaria possono utilizzare soltanto alimenti per animali prodotti da stabilimenti registrati ai sensi dell’articolo 47 oppure omologati ai sensi dell’articolo 48.[^42-1]
 
 <sup>2</sup> Chiunque produce, importa o immette sul mercato alimenti per animali deve prendere, nel quadro della propria attività, misure adeguate affinché gli alimenti per animali adempiano le esigenze poste dalla legge, siano di qualità ineccepibile e non siano alterati da condizioni igieniche o imballaggi inadeguati. I controlli ufficiali non esonerano dall’obbligo del controllo autonomo.
 
@@ -757,7 +757,10 @@ Le imprese del settore dell’alimentazione animale assicurano che tutte le fasi
 
 <sup>5</sup> Il DEFR stabilisce gli obblighi specifici per le imprese del settore dell’alimentazione animale riguardo alle diverse attività.
 
-<sup>6</sup> Può emanare disposizioni sulla produzione di alimenti per animali in un’azienda agricola per il proprio fabbisogno.
+<sup>6</sup> Può emanare disposizioni sulla produzione di alimenti per animali in un’azienda attiva nella produzione primaria per il proprio fabbisogno.[^42-2]
+
+[^42-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
+[^42-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 43
 
@@ -773,7 +776,7 @@ Le imprese del settore dell’alimentazione animale assicurano che tutte le fasi
 
 **Sistema di analisi dei rischi e controllo dei punti critici (HACCP)**
 
-<sup>1</sup> Le imprese del settore dell’alimentazione animale che producono, importano, trasportano, stoccano o immettono sul mercato alimenti per animali applicano e mantengono una procedura scritta permanente secondo i principi HACCP. Questo principio si applica anche agli stabilimenti nella produzione primaria registrati o omologati conformemente all’articolo 47 capoverso 2.[^44-1]
+<sup>1</sup> Le imprese del settore dell’alimentazione animale che producono, importano, trasportano, stoccano o immettono sul mercato alimenti per animali applicano e mantengono una procedura scritta permanente secondo i principi HACCP. Questo principio si applica anche alle aziende attive nella produzione primaria registrate o omologate conformemente all’articolo 47 capoverso 2.[^44-1]
 
 <sup>2</sup>
 
@@ -793,7 +796,7 @@ Le procedure secondo il capoverso 1 si basano sui principi seguenti:
 
 <sup>5</sup> L’UFAG può, nel caso concreto, concedere agevolazioni.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1791](https://fedlex.data.admin.ch/eli/oc/2015/350)).
+[^44-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 45
 
@@ -823,9 +826,10 @@ Per l’esercizio della loro attività tutte le imprese del settore dell’alime
 - a. essere registrate secondo l’articolo 47; oppure
 - b. essere omologate secondo l’articolo 48, se è necessaria l’omologazione.
 
-<sup>2</sup> Per le persone attive nella produzione primaria di alimenti per animali l’obbligo di registrazione e la procedura di notifica sono disciplinati dalle disposizioni dell’articolo 3 dell’ordinanza del 23 novembre 2005[^46-1] concernente la produzione primaria.
+<sup>2</sup> Per le aziende attive nella produzione primaria di alimenti per animali l’obbligo di registrazione e la procedura di notifica sono disciplinati dalle disposizioni dell’articolo 3 dell’ordinanza del 23 novembre 2005[^46-1] concernente la produzione primaria.[^46-2]
 
 [^46-1]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^46-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 47
 
@@ -838,7 +842,9 @@ Le imprese del settore dell’alimentazione animale devono:
 - a. notificare all’UFAG gli stabilimenti che sottostanno al loro controllo e sono attivi in una delle fasi di produzione, trasformazione, stoccaggio, trasporto o distribuzione di alimenti per animali, nella forma richiesta ai fini della registrazione o dell’omologazione;
 - b. fornire all’UFAG informazioni aggiornate su tutti gli stabilimenti che sottostanno al loro controllo secondo la lettera a e notificare, in particolare, cambiamenti significativi nelle attività e la chiusura di stabilimenti.
 
-<sup>2</sup> Gli agricoltori che producono nell’azienda agricola alimenti per animali utilizzando additivi per alimenti per animali per i quali nell’autorizzazione è fissata una concentrazione massima o premiscele che li contengono devono notificare tale attività all’UFAG ai fini della registrazione o dell’omologazione.
+<sup>2</sup> Le aziende attive nella produzione primaria che producono alimenti per animali utilizzando additivi per alimenti per animali, fatta eccezione per gli additivi per l’insilamento, o premiscele che li contengono devono notificare tale attività all’UFAG ai fini della registrazione o dell’omologazione.[^47-1]
+
+[^47-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 757](https://fedlex.data.admin.ch/eli/oc/2022/757)).
 
 #### Art. 48
 
@@ -1292,7 +1298,7 @@ Su domanda dell’UFAG, tutte le imprese del settore dell’alimentazione animal
 
 L’ordinanza del 26 maggio 1999[^77-1] sugli alimenti per animali è abrogata.
 
-[^77-1]: [[RU 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7)[5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349)]
+[^77-1]: [[RU 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7), [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349)]
 
 #### Art. 78
 
