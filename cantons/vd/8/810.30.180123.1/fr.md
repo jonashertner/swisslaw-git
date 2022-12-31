@@ -3,7 +3,7 @@ canton: VD
 number: "810.30.180123.1"
 title: "ARRÊTÉ du 18.01.2023 édictant la liste des établissements médico-sociaux et des divisions pour malades chroniques des hôpitaux et des centres de traitement et de réadaptation (divisions C) au sens de l'article 39 alinéa 3 LAMal"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.30.180123.1?id=96ba1bd7-7c36-4f79-a778-4326776157d2"
 ---
 
@@ -114,6 +114,6 @@ Annexes [^10-1]
 
 1
 
-[Liste LAMal](https://prestations.vd.ch/pub/blv-publication/api/actes/96ba1bd7-7c36-4f79-a778-4326776157d2/annexes/1?dmev=01.01.2022)
+[Liste LAMal](https://prestations.vd.ch/pub/blv-publication/api/actes/96ba1bd7-7c36-4f79-a778-4326776157d2/annexes/1?dmev=01.01.2023)
 
 [^10-1]: Modif. 1 du 28.06.2023: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023 · Modif. 2 du 21.02.2024: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2024 · Modif. 3 du 26.03.2025: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2025 · Modif. 4 du 11.02.2026: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2026
