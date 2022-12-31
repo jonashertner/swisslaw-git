@@ -1,0 +1,72 @@
+---
+canton: NE
+number: "761.202"
+title: "Arrêté concernant la valeur d'émissions CO2 utilisée pour la calculation de la taxe des voitures de tourisme"
+language: fr
+version: 2023-01-01
+adopted: 2014-01-27
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/761.202.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Arrêté concernant la valeur d'émissions CO<sub>2</sub> utilisée pour la calculation de la taxe des voitures de tourisme
+27 janvier 2014[^t-1]
+
+Etat au 1<sup>er</sup> janvier 2023
+
+Le Conseil d’Etat de la République et Canton de Neuchâtel,
+
+vu la loi sur le service cantonal des automobiles et de la navigation, du 24 juin 2008[^t-2];
+
+vu la loi sur la taxe des véhicules automobiles, des remorques et des bateaux (LTVRB), du 6 octobre 1992[^t-3];
+
+sur la proposition du conseiller d'Etat, chef du Département du développement territorial et de l'environnement,
+
+arrête:
+
+[^t-1]: (\*) FO 2014 No 5
+[^t-2]: RSN 761.400
+[^t-3]: RSN 761.20
+
+#### Article premier
+
+Pour les voitures de tourisme réceptionnées par type en Suisse, la valeur d'émissions CO<sub>2</sub> utilisée pour la calculation de la taxe est celle qui se trouve dans la réception par type suisse ou la fiche de données suisse du véhicule.
+
+[^premier-1]: RS 641.711
+
+#### Art. 2
+
+Pour les voitures de tourisme réceptionnées par type en Suisse qui n'ont pas de valeur d'émissions CO<sub>2</sub> mentionnée dans la réception par type suisse ou la fiche de données suisse du véhicule, la valeur d'émissions CO<sub>2</sub> utilisée pour la calculation de la taxe est calculée avec les formules qui figurent dans l'annexe 4 de l'ordonnance fédérale sur la réduction des émissions de CO<sub>2,</sub> du 30 novembre 2012[^premier-1].
+
+#### Art. 3
+
+Pour les voitures de tourisme qui n'ont pas de numéro de réception par type suisse ou de numéro de fiche de données suisse, la valeur d'émissions CO<sub>2</sub> utilisée pour la calculation de la taxe est celle mentionnée dans un document officiel (certificat européen de conformité, permis de circulation étranger, réception par type étrangère, etc.) du véhicule. Si cette valeur n'est pas disponible dans un document officiel, elle est calculée avec les formules qui figurent dans l'annexe 4 de l'ordonnance fédérale sur la réduction des émissions de CO<sub>2,</sub> du 30 novembre 2012.
+
+[^3-1]: Introduit par A du 9 décembre 2020 (FO 2020 N° 50) avec effet au 1<sup>er</sup> janvier 2021
+
+#### Art. 3a
+
+[^3-1]
+
+<sup>1</sup> Pour les voitures de tourisme admises pour la première fois à la circulation en Suisse avant le 1<sup>er</sup> janvier 2021, la valeur d'émissions CO<sub>2</sub> utilisée est celle calculée selon la procédure d’essai du nouveau cycle européen de conduite (NEDC).
+
+<sup>2</sup> Pour les voitures de tourisme admises pour la première fois à la circulation en Suisse dès le 1<sup>er</sup> janvier 2021, la valeur d'émissions CO<sub>2</sub> utilisée est celle calculée selon la procédure d’essai mondiale harmonisée pour les voitures particulières et véhicules utilitaires légers (WLTP), à laquelle on soustrait 23 g/km.
+
+[^3a-1]: Introduit par A du 5 décembre 2022 (FO 2022 N° 49) avec effet au 1<sup>er</sup> janvier 2023
+
+#### Art. 3b
+
+[^3a-1]
+
+<sup>1</sup> Pour les voitures de tourisme qui bénéficient d'une fiche de données électroniques basée sur le certificat de conformité numérique européen, c'est la valeur d'émissions CO<sub>2</sub> de cette fiche qui est utilisée.
+
+<sup>2</sup> Ces fiches de données électroniques sont basées sur les informations initiales du véhicule, appelées en anglais "Initial Vehicle Information" (IVI). Elles sont individuelles et liées uniquement à un véhicule.
+
+<sup>3</sup> Les véhicules concernés ont la mention "IVI" dans le champ 24, réception par type, du permis de circulation.
+
+#### Art. 4
+
+Le Département du développement territorial et de l'environnement est chargé de l'application du présent arrêté qui entre en vigueur rétroactivement au 1<sup>er</sup> janvier 2014.
+
+<sup>2</sup> Il sera publié dans la Feuille officielle et inséré au Recueil de la législation neuchâteloise.
