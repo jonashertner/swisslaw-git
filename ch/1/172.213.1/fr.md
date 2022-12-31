@@ -4,11 +4,11 @@ title: "Ordonnance du 17 novembre 1999 sur l'organisation du Département fédé
 short: Org DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: fr
-version: 2022-06-01
+version: 2023-01-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20220601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20220601/fr"
 
 (Org DFJP)
 
-du 17 novembre 1999 (Etat le 1<sup>er</sup> juin 2022)
+du 17 novembre 1999 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -50,7 +50,7 @@ Les points principaux de l’activité du DFJP sont:
 - a. la législation: le DFJP dirige tous les projets législatifs qui ne relèvent pas du domaine d’un autre département ou de celui de la Chancellerie fédérale; il suit tous les projets législatifs de la Confédération;
 - b. la police et la sécurité: il exerce les fonctions de police préventive et judiciaire de la Confédération et s’acquitte d’autres tâches relevant de la sécurité civile;
 - c. la migration: il met en œuvre la politique suisse en matière d’étrangers et d’asile et, après entente avec les départements intéressés, en assure la coordination avec les politiques des autres États européens;
-- d.[^1-2] ...
+- d.[^1-2] …
 - e.[^1-3] l’ordre économique: il élabore, si nécessaire après entente avec le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^1-4], les bases de droit privé en matière de droit des contrats et des entreprises, et de propriété intellectuelle;
 - f.[^1-5] la métrologie: il élabore les bases métrologiques et surveille l’exécution dans les cantons.
 
@@ -77,7 +77,7 @@ Outre les principes généraux régissant l’activité administrative (art. 11 
 Le DFJP statue sur:
 
 - a. la poursuite des délits politiques; dans les cas où les relations avec l’étranger sont concernées, il prend sa décision après avoir consulté le Département fédéral des affaires étrangères (DFAE); il peut présenter au Conseil fédéral les cas d’importance particulière;
-- b.[^3-1] ...
+- b.[^3-1] …
 
 [^3-1]: Abrogée par le ch. I de l’O du 19 déc. 2003, avec effet au 1<sup>er</sup> fév. 2004 ([RO 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 
@@ -97,18 +97,20 @@ Outre les fonctions définies à l’art. 42 LOGA, le Secrétariat général exe
 - d. il assume la surveillance des offices selon les instructions du chef du DFJP;
 - e. il conçoit la politique d’information du DFJP et informe le public et les autres services fédéraux des affaires du DFJP de manière propre à répondre aux attentes des citoyens, avec promptitude et objectivité;
 - f. il organise et fournit des services logistiques efficaces au sein du DFJP et apporte des prestations informatiques au niveau du DFJP et au niveau national;
-- g. il instruit les recours interjetés contre les offices du DFJP.
+- g. il instruit les recours interjetés contre les offices du DFJP;
+- h.[^4-1] il assure la disponibilité opérationnelle du Comité national contre le terrorisme (CNAT).
 
-<sup>2</sup> ...[^4-1]
+<sup>2</sup> …[^4-2]
 
-<sup>3</sup> ...[^4-2]
+<sup>3</sup> …[^4-3]
 
-<sup>4</sup> La Commission de prévention de la torture et son secrétariat sont administrativement rattachés au Secrétariat général. Les membres de la commission ont droit au remboursement de leurs frais et à une indemnité. Leurs montants se déterminent conformément à l’ordonnance du 3 juin 1996 sur les commissions extraparlementaires, les organes de direction et les représentants de la Confédération (ordonnance sur les commissions)[^4-3].[^4-4]
+<sup>4</sup> La Commission de prévention de la torture et son secrétariat sont administrativement rattachés au Secrétariat général. Les membres de la commission ont droit au remboursement de leurs frais et à une indemnité. Leurs montants se déterminent conformément à l’ordonnance du 3 juin 1996 sur les commissions extraparlementaires, les organes de direction et les représentants de la Confédération (ordonnance sur les commissions)[^4-4].[^4-5]
 
-[^4-1]: Introduit par l’art. 125 ch. 2 de l’O du 23 fév. 2000 sur les maisons de jeu ([RO 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Abrogé par le ch. I de l’O du 27 oct. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-2]: Introduit par le ch. II 2 de l’O du 22 août 2007 ([RO 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Abrogé par le ch. I de l’O du 27 oct. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-3]: [[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)**;** **2000** 1157;[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement les art. 8*l* à 8*t* de l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
-[^4-4]: Introduit par le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
+[^4-1]: Introduite par l’annexe de l’O du 23 nov. 2022 sur le Comité national contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
+[^4-2]: Introduit par l’art. 125 ch. 2 de l’O du 23 fév. 2000 sur les maisons de jeu ([RO 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Abrogé par le ch. I de l’O du 27 oct. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^4-3]: Introduit par le ch. II 2 de l’O du 22 août 2007 ([RO 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Abrogé par le ch. I de l’O du 27 oct. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^4-4]: [[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)**;** **2000** 1157;[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement les art. 8*l* à 8*t* de l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^4-5]: Introduit par le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
 
 ### Section 2 Dispositions communes aux offices
 
@@ -225,7 +227,7 @@ L’OFJ gère entre autres:
 [^8-2]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362), [211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667), [221.411](https://fedlex.data.admin.ch/eli/cc/2007/686),**331**
 [^8-3]: Introduit par l’art. 16 ch. 2 de l’O du 26 juin 2013 sur la Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447).)
 
-### Section 4**** Office fédéral de la police
+### Section 4 Office fédéral de la police
 
 [^chap2-sec4-1]
 
@@ -249,7 +251,7 @@ L’Office fédéral de la police (fedpol) est l’autorité compétente de la C
 
 Dans ce cadre, fedpol exerce les fonctions suivantes:
 
-- a.[^9-4] ...
+- a.[^9-4] …
 - b.[^9-5] il élabore des analyses criminelles;
 - c. il est l’autorité de police judiciaire de la Confédération;
 - d. il coordonne les enquêtes intercantonales et internationales et y contribue;
@@ -279,10 +281,10 @@ Fedpol gère:
   les offices centraux suivants:
 
   - 1\.[^10-1] Armes,
-  - [tab] 2. et 3.[^10-2] ...
+  - [tab] 2. et 3.[^10-2] …
   - 4\. Explosifs et pyrotechnie;
 
-- b.[^10-3] ...
+- b.[^10-3] …
 - c. le Bureau central national INTERPOL;
 - d.[^10-4] le point de contact national pour Europol;
 - e.[^10-5] la Centrale d’alarme, qui reçoit les communications et les alarmes provenant des bâtiments civils de la Confédération, sept jours sur sept et 24 heures sur 24;
@@ -299,7 +301,7 @@ Fedpol gère:
 
 <sup>5</sup> Il établit le profil des gardes de sûreté engagés dans l’aviation, organise leur formation et est responsable de leur engagement. Il établit des analyses des risques et des menaces liés à leur engagement.[^10-13]
 
-<sup>6</sup> ...[^10-14]
+<sup>6</sup> …[^10-14]
 
 <sup>7</sup> Il veille à ce que l’état-major prévu spécialement pour les prises d’otage et le chantage puisse intervenir en tout temps et gère l’état-major central en cas d’engagement.
 
@@ -313,11 +315,15 @@ Fedpol gère:
 
 <sup>12</sup> Il est responsable, d’entente avec le DFAE, du détachement, de l’engagement et de la conduite d’attachés de police. La compétence du chef de mission d’édicter des directives est réservée.[^10-20]
 
-<sup>13</sup> ...[^10-21]
+<sup>13</sup> …[^10-21]
 
 <sup>14</sup> Il exerce une surveillance sur les laboratoires qui effectuent des analyses forensiques d’ADN et sur les laboratoires qui établissent des profils d’ADN dans les domaines civil et administratif.[^10-22]
 
 <sup>15</sup> Il dirige et coordonne, d’entente avec le DFAE et les autorités cantonales, les engagements de l’équipe suisse d’identification des victimes (Disaster Victim Identification; DVI) à l’étranger.[^10-23]
+
+<sup>16</sup> Il accomplit les tâches prévues par la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^10-24], pour autant que celle-ci n’attribue pas cette compétence à un autre service.[^10-25]
+
+<sup>17</sup> Il apporte son soutien au département dans la direction du CNAT; il dirige l’organe consultatif du CNAT et en assure la disponibilité opérationnelle.[^10-26]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-2]: Abrogés par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
@@ -342,6 +348,9 @@ Fedpol gère:
 [^10-21]: Introduit par le ch. I de l’O du 17 oct. 2007 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Abrogé par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-22]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-23]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-24]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^10-25]: Introduit par l’annexe 2 ch. 3 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^10-26]: Introduit par l’annexe de l’O du 23 nov. 2022 sur le Comité national contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765), ici al. 16).
 
 #### Art. 11
 
@@ -349,7 +358,7 @@ Fedpol gère:
 
 <sup>1</sup> Fedpol a la compétence de prononcer l’interdiction d’entrée à l’encontre d’étrangers qui mettent en danger la sécurité intérieure ou extérieure de la Suisse; il consulte préalablement le Service de renseignement de la Confédération (SRC). Après avoir entendu le DFAE et le SRC, il transmet au DFJP les cas d’importance politique et les propositions d’expulsion de Suisse en vertu de l’art. 121, al. 2, de la Constitution[^11-1]; le DFJP peut les soumettre au Conseil fédéral pour décision.[^11-2]
 
-<sup>2</sup> ...[^11-3]
+<sup>2</sup> …[^11-3]
 
 <sup>3</sup> Il est l’autorité de décision pour les documents d’identité demandés à l’étranger conformément à la loi du 22 juin 2001 sur les documents d’identité[^11-4].
 
@@ -377,7 +386,7 @@ Fedpol gère:
 [^11a-1]: Introduit par le ch. I de l’O du 2 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
 [^11a-2]: Introduit par le ch. I 6 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
-### Section 5**** Secrétariat d’État aux migrations****
+### Section 5 Secrétariat d’État aux migrations
 
 [^chap2-sec5-1][^chap2-sec5-2]
 
@@ -452,7 +461,7 @@ Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines des étra
 
 [^14-1]: Nouvelle teneur selon le ch. II 10 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-### Section 6 ...
+### Section 6 …
 
 #### Art. 15 et 16
 
@@ -460,7 +469,7 @@ Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines des étra
 
 [^1516-1]: Abrogée par le ch. II 2 de l’O du 25 juin 2003, avec effet au 1<sup>er</sup> juil. 2003 ([RO 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
 
-### Section 7 ...
+### Section 7 …
 
 #### Art. 17 et 18
 
@@ -468,7 +477,7 @@ Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines des étra
 
 [^1718-1]: Abrogée par le ch. I de l’O du 28 juin 2000, avec effet au 1<sup>er</sup> juil. 2000 ([RO 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
 
-### Section 8 ...
+### Section 8 …
 
 #### Art. 19 à 21
 
@@ -476,7 +485,7 @@ Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines des étra
 
 [^1921-1]: Abrogés par l’annexe ch. 3 de l’O du 21 nov. 2012 sur l’Institut fédéral de métrologie, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)).
 
-### Section 9 ...
+### Section 9 …
 
 #### Art. 22 à 24
 
@@ -486,7 +495,7 @@ Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines des étra
 
 ## Chapitre 3 Unités de l’administration fédérale décentralisée
 
-### Section 1**** Service chargé de la surveillance de la correspondance par poste et télécommunication
+### Section 1 Service chargé de la surveillance de la correspondance par poste et télécommunication
 
 [^chap3-sec1-1]
 
@@ -529,7 +538,7 @@ Abrogés
 [^29-2]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)à [232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475),[0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)à [0.232.163](https://fedlex.data.admin.ch/eli/cc/2008/527)
 [^29-3]: Introduit par le ch. II 10 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-### Section 4**** Autorité fédérale de surveillance en matière de révision
+### Section 4 Autorité fédérale de surveillance en matière de révision
 
 [^chap3-sec4-1]
 
@@ -544,7 +553,7 @@ Abrogés
 [^29a-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^29a-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
 
-### Section 5**** Commission fédérale des maisons de jeu
+### Section 5 Commission fédérale des maisons de jeu
 
 [^chap3-sec5-1]
 
@@ -558,7 +567,7 @@ Abrogés
 
 [^29b-1]: [[RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)ch. I 15. [RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)annexe ch. I 2]. Voir actuellement la LF du 29 sept. 2017 sur les jeux d’argent ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
 
-### Section 6**** Commission arbitrale fédérale pour la gestion de droits d’auteur et de droits voisins
+### Section 6 Commission arbitrale fédérale pour la gestion de droits d’auteur et de droits voisins
 
 [^chap3-sec6-1]
 
@@ -572,7 +581,7 @@ Abrogés
 
 [^29c-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
-### Section 7**** Institut fédéral de métrologie
+### Section 7 Institut fédéral de métrologie
 
 [^chap3-sec7-1]
 
@@ -619,7 +628,7 @@ II
 
 Les actes législatifs suivants sont modifiés comme suit:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RO 1977 1549](https://fedlex.data.admin.ch/eli/oc/1977/1549_1549_1549)]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2000 291](https://fedlex.data.admin.ch/eli/oc/2000/57).

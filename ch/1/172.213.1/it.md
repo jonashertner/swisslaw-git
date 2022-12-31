@@ -4,11 +4,11 @@ title: "Ordinanza del 17 novembre 1999 sull'organizzazione del Dipartimento fede
 short: Org-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: it
-version: 2022-06-01
+version: 2023-01-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20220601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20220601/it"
 
 (Org-DFGP)
 
-del 17 novembre 1999 (Stato 1° giugno 2022)
+del 17 novembre 1999 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -97,18 +97,20 @@ La Segreteria generale esercita le funzioni di cui all’articolo 42 LOGA e assu
 - d. esercita la vigilanza sugli uffici secondo le istruzioni del capo del Dipartimento;
 - e. elabora la politica del Dipartimento in materia di informazione e informa il pubblico e gli altri servizi federali, in modo veritiero e tempestivo e tenendo conto delle aspettative dei cittadini, circa gli affari del Dipartimento;
 - f. organizza una logistica efficiente in seno al Dipartimento, mette a disposizione servizi logistici e fornisce prestazioni informatiche a livello dipartimentale e nazionale;
-- g. istruisce i ricorsi interposti contro uffici del Dipartimento.
+- g. istruisce i ricorsi interposti contro uffici del Dipartimento;
+- h.[^4-1] assicura la prontezza d’intervento del Comitato nazionale contro il terrorismo (CNAT).
 
-<sup>2</sup> ...[^4-1]
+<sup>2</sup> ...[^4-2]
 
-<sup>3</sup> ...[^4-2]
+<sup>3</sup> ...[^4-3]
 
-<sup>4</sup> Alla Segreteria generale è aggregata amministrativamente la Commissione per la prevenzione della tortura e la sua segreteria. I membri della Commissione hanno diritto al rimborso delle spese e a un’indennità. Per il loro calcolo si applica per analogia l’ordinanza del 3 giugno 1996[^4-3] sulle commissioni extraparlamentari, nonché gli organi di direzione e i rappresentanti della Confederazione.[^4-4]
+<sup>4</sup> Alla Segreteria generale è aggregata amministrativamente la Commissione per la prevenzione della tortura e la sua segreteria. I membri della Commissione hanno diritto al rimborso delle spese e a un’indennità. Per il loro calcolo si applica per analogia l’ordinanza del 3 giugno 1996[^4-4] sulle commissioni extraparlamentari, nonché gli organi di direzione e i rappresentanti della Confederazione.[^4-5]
 
-[^4-1]: Introdotto dall’art. 125 n. 2 dell’O del 23 feb. 2000 ([RU 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Abrogato dal n. I dell’O del 27 ott. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-2]: Introdotto dal n. II 2 dell’O del 22 ago. 2007 ([RU 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Abrogato dal n. I dell’O del 27 ott. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-3]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)**,** [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188)**,** [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]. Vedi ora gli art. 8*l* – 8*t* dell’O del 25 nov. 1998 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
-[^4-4]: Introdotto dal n. I dell’O del 21 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
+[^4-1]: Introdotta dall’all. dell’O del 23 nov. 2022 sul Comitato nazionale contro il terrorismo, in vigore dal 1° gen. 2023 ([RU 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
+[^4-2]: Introdotto dall’art. 125 n. 2 dell’O del 23 feb. 2000 ([RU 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Abrogato dal n. I dell’O del 27 ott. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^4-3]: Introdotto dal n. II 2 dell’O del 22 ago. 2007 ([RU 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Abrogato dal n. I dell’O del 27 ott. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^4-4]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651),[2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188),[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]. Vedi ora gli art. 8*l* – 8*t* dell’O del 25 nov. 1998 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^4-5]: Introdotto dal n. I dell’O del 21 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
 
 ### Sezione 2: Disposizioni comuni a tutti gli uffici
 
@@ -225,7 +227,7 @@ L’UFG dirige tra l’altro:
 [^8-2]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362), [211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667), [221.411](https://fedlex.data.admin.ch/eli/cc/2007/686),**331**
 [^8-3]: Introdotto dall’art. 16 n. 2 dell’O del 26 giu. 2013 sulla commissione peritale federale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita, in vigore dal 1° gen. 2014 ([RU 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)).
 
-### Sezione 4:**** Ufficio federale di polizia
+### Sezione 4: Ufficio federale di polizia
 
 [^chap2-sec4-1]
 
@@ -319,6 +321,10 @@ Fedpol dirige:
 
 <sup>15</sup> D’intesa con il DFAE e le autorità cantonali, dirige e coordina gli interventi del Disaster Victim Identification Team (DVI) svizzero all’estero.[^10-23]
 
+<sup>16</sup> Adempie i compiti secondo la legge federale del 25 settembre 2020[^10-24] sui precursori di sostanze esplodenti, sempreché quest’ultima non designi un altro servizio competente.[^10-25]
+
+<sup>17</sup> Fornisce sostegno al Dipartimento nella conduzione del CNAT, dirige l’organo consultivo e ne assicura la prontezza d’intervento.[^10-26]
+
 [^10-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-2]: Abrogati dal n. I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-3]: Abrogata dal n. I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
@@ -342,6 +348,9 @@ Fedpol dirige:
 [^10-21]: Introdotto dal n. I dell’O del 17 ott. 2007 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Abrogato dal n. I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-22]: Introdotto dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-23]: Introdotto dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-24]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^10-25]: Introdotto dall’all. 2 n. 3 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^10-26]: Introdotto dall’all. dell’O del 23 nov. 2022 sul Comitato nazionale contro il terrorismo, in vigore dal 1° gen. 2023 ([RU 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765); qui cpv. 16).
 
 #### Art. 11
 
@@ -377,7 +386,7 @@ Fedpol dirige:
 [^11a-1]: Introdotto dal n. I dell’O del 2 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
 [^11a-2]: Introdotta dal n. I 6 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
-### Sezione 5:**** Segreteria di Stato della migrazione****
+### Sezione 5: Segreteria di Stato della migrazione
 
 [^chap2-sec5-1][^chap2-sec5-2]
 
@@ -490,7 +499,7 @@ Per conseguire gli obiettivi di cui al capoverso 1 nei settori dell’asilo e de
 
 ## Capitolo 3: Unità dell’Amministrazione federale decentralizzata
 
-### Sezione 1:**** Servizio di sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni
+### Sezione 1: Servizio di sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni
 
 [^chap3-sec1-1]
 
@@ -533,7 +542,7 @@ Abrogati
 [^29-2]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)**–232.23**, **0.231.0-0.232.163**
 [^29-3]: Introdotto dal n. II 10 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-### Sezione 4:**** Autorità federale di sorveglianza dei revisori
+### Sezione 4: Autorità federale di sorveglianza dei revisori
 
 [^chap3-sec4-1]
 
@@ -548,7 +557,7 @@ Abrogati
 [^29a-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^29a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
-### Sezione 5:**** Commissione federale delle case da gioco
+### Sezione 5: Commissione federale delle case da gioco
 
 [^chap3-sec5-1]
 
@@ -560,9 +569,9 @@ Abrogati
 
 <sup>2</sup> La Commissione federale delle case da gioco e la sua segreteria sono aggregate amministrativamente alla Segreteria generale.
 
-[^29b-1]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)I [15](https://fedlex.data.admin.ch/eli/oc/2006/6). [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)all. n. I 2 ]. Vedi ora la LF del 29 set. 2017 sui giochi in denaro ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^29b-1]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)I [15](https://fedlex.data.admin.ch/eli/oc/2006/6). [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)all. n. I 2 ]. Vedi ora la LF del 29 set. 2017 sui giochi in denaro ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
 
-### Sezione 6:**** Commissione arbitrale federale per la gestione dei diritti d’autore e dei diritti affini
+### Sezione 6: Commissione arbitrale federale per la gestione dei diritti d’autore e dei diritti affini
 
 [^chap3-sec6-1]
 
@@ -576,7 +585,7 @@ Abrogati
 
 [^29c-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
-### Sezione 7:**** Istituto federale di metrologia
+### Sezione 7: Istituto federale di metrologia
 
 [^chap3-sec7-1]
 
@@ -623,7 +632,7 @@ II
 
 Gli atti normativi seguenti sono modificati come segue:
 
-...*[^annexu1-lvlu1-2]*
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RU 1977 1549](https://fedlex.data.admin.ch/eli/oc/1977/1549_1549_1549)]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2000 291](https://fedlex.data.admin.ch/eli/oc/2000/57).

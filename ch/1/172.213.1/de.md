@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. November 1999 für das Eidgenössische Ju
 short: OV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: de
-version: 2022-06-01
+version: 2023-01-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20220601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20220601/de"
 
 (OV-EJPD)
 
-vom 17. November 1999 (Stand am 1. Juni 2022)
+vom 17. November 1999 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -98,17 +98,19 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt fo
 - e. Es konzipiert die Informationspolitik des Departements und informiert die Öffentlichkeit und die anderen Bundesstellen mit einer bürgernahen, wahrheitsgetreuen und zeitgerechten Medienarbeit über die Departementsgeschäfte.
 - f. Es organisiert eine effiziente Logistik des Departements, stellt Logistikfunktionen bereit und erbringt departementsinterne und gesamtschweizerische Informatikdienstleistungen.
 - g. Es instruiert Beschwerden gegen Ämter des Departements.
+- h.[^4-1] Es stellt die Einsatzbereitschaft des Nationalen Terrorausschusses (NATA) sicher.
 
-<sup>2</sup> …[^4-1]
+<sup>2</sup> …[^4-2]
 
-<sup>3</sup> …[^4-2]
+<sup>3</sup> …[^4-3]
 
-<sup>4</sup> Dem Generalsekretariat administrativ zugeordnet sind die Kommission zur Verhütung von Folter und deren Sekretariat. Die Kommissionsmitglieder haben Anspruch auf Ersatz ihrer Auslagen und auf eine Entschädigung. Für deren Bemessung gilt sinngemäss die Verordnung vom 3. Juni 1996[^4-3] über ausserparlamentarische Kommissionen sowie Leitungsorgane und Vertretungen des Bundes.[^4-4]
+<sup>4</sup> Dem Generalsekretariat administrativ zugeordnet sind die Kommission zur Verhütung von Folter und deren Sekretariat. Die Kommissionsmitglieder haben Anspruch auf Ersatz ihrer Auslagen und auf eine Entschädigung. Für deren Bemessung gilt sinngemäss die Verordnung vom 3. Juni 1996[^4-4] über ausserparlamentarische Kommissionen sowie Leitungsorgane und Vertretungen des Bundes.[^4-5]
 
-[^4-1]: Eingefügt durch Art. 125 Ziff. 2 der Spielbankenverordnung vom 23. Febr. 2000 ([AS 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Aufgehoben durch Ziff. I der V vom 27. Okt. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-2]: Eingefügt durch Ziff. II 2 der V vom 22. Aug. 2007 ([AS 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Aufgehoben durch Ziff. I der V vom 27. Okt. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-3]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: die Art. 8*l*–8*t* der Regierungs- und Verwaltungsorganisationsverordnung ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
-[^4-4]: Eingefügt durch Ziff. I der V vom 21. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
+[^4-1]: Eingefügt durch Anhang der NATA-Verordnung vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
+[^4-2]: Eingefügt durch Art. 125 Ziff. 2 der Spielbankenverordnung vom 23. Febr. 2000 ([AS 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Aufgehoben durch Ziff. I der V vom 27. Okt. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^4-3]: Eingefügt durch Ziff. II 2 der V vom 22. Aug. 2007 ([AS 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Aufgehoben durch Ziff. I der V vom 27. Okt. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^4-4]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: die Art. 8*l*–8*t* der Regierungs- und Verwaltungsorganisationsverordnung ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^4-5]: Eingefügt durch Ziff. I der V vom 21. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
 
 ### 2. Abschnitt: Gemeinsame Bestimmungen für die Ämter
 
@@ -226,7 +228,7 @@ Das BJ führt unter anderen:
 [^8-3]: [SR 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362), [211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667), [221.411](https://fedlex.data.admin.ch/eli/cc/2007/686),**331**
 [^8-4]: Eingefügt durch Art. 16 Ziff. 2 der V vom 26. Juni 2013 über die Eidgenössische Fachkommission zur Beurteilung der Behandlung lebenslänglich verwahrter Straftäter, in Kraft seit 1. Jan. 2014 ([AS 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)).
 
-### 4. Abschnitt:**** Bundesamt für Polizei
+### 4. Abschnitt: Bundesamt für Polizei
 
 [^chap2-sec4-1]
 
@@ -320,6 +322,10 @@ Fedpol führt:
 
 <sup>15</sup> Es leitet und koordiniert im Einvernehmen mit dem EDA und den kantonalen Behörden Einsätze des schweizerischen Disaster-Victim-Identification-Teams (DVI) im Ausland.[^10-23]
 
+<sup>16</sup> Es erfüllt die Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020[^10-24], soweit dieses nicht eine andere Stelle als zuständig bezeichnet.[^10-25]
+
+<sup>17</sup> Es unterstützt das Departement bei der Leitung des NATA, leitet das vorberatende Gremium und stellt dessen Einsatzbereitschaft sicher.[^10-26]
+
 [^10-1]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-2]: Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-3]: Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
@@ -343,6 +349,9 @@ Fedpol führt:
 [^10-21]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-22]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-23]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-24]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^10-25]: Eingefügt durch Anhang 2 Ziff. 3 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), dort Abs. 16).
+[^10-26]: Eingefügt durch Anhang der NATA-Verordnung vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
 
 #### Art. 11
 
@@ -378,7 +387,7 @@ Fedpol führt:
 [^11a-1]: Eingefügt durch Ziff. I der V vom 2. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
 [^11a-2]: Eingefügt durch Ziff. I 6 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
-### 5. Abschnitt:**** Staatssekretariat für Migration****
+### 5. Abschnitt: Staatssekretariat für Migration
 
 [^chap2-sec5-1][^chap2-sec5-2]
 
@@ -491,7 +500,7 @@ Zur Verfolgung der Ziele nach Absatz 1 im Asyl- und Flüchtlingsbereich nimmt da
 
 ## 3. Kapitel: Verwaltungseinheiten der dezentralen Bundesverwaltung
 
-### 1. Abschnitt:**** Dienst für die Überwachung des Post- und Fernmeldeverkehrs
+### 1. Abschnitt: Dienst für die Überwachung des Post- und Fernmeldeverkehrs
 
 [^chap3-sec1-1]
 
@@ -518,7 +527,7 @@ Aufgehoben
 
 <sup>2</sup> Seine Stellung, seine Aufgaben und seine Organisation richten sich nach dem Bundesgesetz vom 6. Oktober 1978[^28-1] über das Schweizerische Institut für Rechtsvergleichung.
 
-[^28-1]: [[AS 1979 56](https://fedlex.data.admin.ch/eli/oc/1979/56_56_56), [1997 896](https://fedlex.data.admin.ch/eli/oc/1997/896_896_896), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 40. [AS 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586)Art. 23 Abs. 1]. Siehe heute: das BG vom 28. September 2018 ([SR 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)).
+[^28-1]: [[AS 1979 56](https://fedlex.data.admin.ch/eli/oc/1979/56_56_56); [1997 896](https://fedlex.data.admin.ch/eli/oc/1997/896_896_896); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 40. [AS 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586)Art. 23 Abs. 1]. Siehe heute: das BG vom 28. September 2018 ([SR 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)).
 
 ### 3. Abschnitt: Eidgenössisches Institut für Geistiges Eigentum
 
@@ -534,7 +543,7 @@ Aufgehoben
 [^29-2]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)**–232.23**, **0.231.0–0.232.163**.
 [^29-3]: Eingefügt durch Ziff. II 10 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-### 4. Abschnitt:**** Eidgenössische Revisionsaufsichtsbehörde
+### 4. Abschnitt: Eidgenössische Revisionsaufsichtsbehörde
 
 [^chap3-sec4-1]
 
@@ -549,7 +558,7 @@ Aufgehoben
 [^29a-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^29a-2]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
 
-### 5. Abschnitt:**** Eidgenössische Spielbankenkommission
+### 5. Abschnitt: Eidgenössische Spielbankenkommission
 
 [^chap3-sec5-1]
 
@@ -561,9 +570,9 @@ Aufgehoben
 
 <sup>2</sup> Die Kommission und ihr Sekretariat sind dem Generalsekretariat administrativ zugeordnet.
 
-[^29b-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2] je nachdem mit Zusatz: Siehe heute: das BG über Geldspiele vom 29. September 2017 ([SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^29b-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2] je nachdem mit Zusatz: Siehe heute: das BG über Geldspiele vom 29. September 2017 ([SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
 
-### 6. Abschnitt:**** Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten
+### 6. Abschnitt: Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten
 
 [^chap3-sec6-1]
 
@@ -577,7 +586,7 @@ Aufgehoben
 
 [^29c-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
-### 7. Abschnitt:**** Eidgenössisches Institut für Metrologie
+### 7. Abschnitt: Eidgenössisches Institut für Metrologie
 
 [^chap3-sec7-1]
 
