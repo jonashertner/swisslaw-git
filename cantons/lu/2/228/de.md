@@ -4,13 +4,13 @@ number: "228"
 title: Verordnung über die Grundbuchgebühren
 short: "Grundbuchgebührentarif, GBGT"
 language: de
-version: 2016-10-01
-valid_until: 2022-12-31
-version_adopted: 2016-09-19
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-02-08
 adopted: 2015-05-18
 in_force: 2015-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/228"
-pdf: "https://srl.lu.ch/api/de/versions/2895/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4027/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2895/pdf_file"
 
 (Grundbuchgebührentarif, GBGT)
 
-vom 18.05.2015 (Stand 01.10.2016)
+vom 18.05.2015 (Stand 01.01.2023)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -188,9 +188,14 @@ beschliesst:
 
 <sup>1</sup> Es werden die folgenden Gebühren erhoben:
 
-- 1\. Für eine Auskunftserteilung und sonstige Verrichtungen, die in diesem Tarif nicht aufgeführt sind, z.B. Vorprüfungen, Abweisungen, Nachforschungen, beträgt die Gebühr je nach zeitlichem Aufwand Fr. 20.– bis Fr. 1000.–.
-- 2\. Bei Grundbuchauszügen beträgt die Gebühr inkl. Porto Fr. 45.–. Wird der Auszug für mehr als ein Grundstück ausgestellt, ist für jedes weitere Grundstück ein Zuschlag von Fr. 10.– zu entrichten. Für Teilauszüge beträgt die Gebühr inkl. Porto Fr. 25.– für das erste Grundstück. Für jedes weitere Grundstück Fr. 5.–. Für Eigentümerverzeichnisse beträgt die Gebühr inkl. Porto Fr. 15.– für das erste Grundstück. Für jedes weitere Grundstück Fr. 2.50.
-- 3\. Für Schreiben, Bescheinigungen und Kopien beträgt die Gebühr je nach Zeit- und Materialaufwand Fr. 10.– bis Fr. 500.–. Mitteilungen und Auskünfte, welche die kantonalen Amtsstellen und die Gemeinden für die Erledigung ihrer Aufgaben benötigen, sind gebührenfrei.
+- 1\. Für telefonische, mündliche, schriftliche und elektronische Auskünfte und sonstige Verrichtungen, die in diesem Tarif nicht aufgeführt sind, z.B. Vorprüfungen, Abweisungen, Nachforschungen, je nach Zeitaufwand Fr. 20.– bis Fr. 1000.–.
+- 1a. Für Zugriffe auf Informationssysteme, welche Grundbuchdaten anbieten, pro Benutzer oder Benutzerin zwischen Fr. 0.10 und Fr. 100.– für Einrichtungskosten, Lizenzen und einzelne Datenabfragen.
+- 1b. Für Zugriffe auf das Grundstückdateninformationssystem Gravis gemäss Anhang 1 dieser Verordnung.
+- 1c. Für Zugriffe auf das Grundstückdateninformationssystem Terravis gemäss Anhang 2 dieser Verordnung.
+- 2\. Für Grundbuchauszüge Fr. 45.– inkl. Porto. Wird der Auszug für mehr als ein Grundstück ausgestellt, ist für jedes weitere Grundstück ein Zuschlag von Fr. 10.– zu entrichten. Für Teilauszüge beträgt die Gebühr inkl. Porto Fr. 25.– für das erste Grundstück. Für jedes weitere Grundstück Fr. 5.–. Für Eigentümerverzeichnisse beträgt die Gebühr inkl. Porto Fr. 15.– für das erste Grundstück. Für jedes weitere Grundstück Fr. 2.50.
+- 2a. Für elektronische Datenblätter Fr. 30.–. Wird das Datenblatt für mehr als ein Grundstück ausgestellt, ist für jedes weitere Grundstück ein Zuschlag von Fr. 10.– zu entrichten. Für ein Teildatenblatt zum Eigentum beträgt die Gebühr Fr. 10.– für das erste Grundstück. Für jedes weitere Grundstück Fr. 5.–. Für alle übrigen Teildatenblätter beträgt die Gebühr Fr. 20.– für das erste Grundstück. Für jedes weitere Grundstück Fr. 5.–.
+- 2b. Für die Erstellung eines Protokollauszugs pro Auszug Fr. 35.– inkl. Porto.
+- 3\. Für Schreiben, Bescheinigungen und Kopien je nach Zeit- und Materialaufwand Fr. 10.– bis Fr. 500.–. Mitteilungen und Auskünfte, welche die kantonalen Amtsstellen und die Gemeinden für die Erledigung ihrer Aufgaben benötigen, sind gebührenfrei.
 
 #### § 15
 
