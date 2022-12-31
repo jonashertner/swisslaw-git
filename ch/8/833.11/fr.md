@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 1993 sur l'assurance militaire (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20220101/fr"
 
 (OAM)
 
-du 10 novembre 1993 (Etat le 1<sup>er</sup> janvier 2022)
+du 10 novembre 1993 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -302,7 +302,11 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 <sup>2</sup> Le délai de dénonciation des conventions sur la collaboration et les tarifs est d’au moins six mois.
 
+<sup>3</sup> Les art. 59*f*, 59*h* et 59*i* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^13b-2] sont applicables par analogie à la communication des données au sens de l’art. 26, al. 3<sup>bis</sup>, de la loi, ainsi qu’à leur transmission, leur sécurité et leur conservation.[^13b-3]
+
 [^13b-1]: Introduit par l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^13b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^13b-3]: Introduit par l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 13c
 
@@ -339,11 +343,11 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 **Gain annuel maximum assuré pris en compte pour le calcul de l’indemnité journalière ou de la rente d’invalidité**
 
-<sup>1</sup> Le montant du gain annuel maximum assuré selon l’art. 28, al. 4, de la loi, pris en compte pour le calcul de l’indemnité journalière et, selon l’art. 40, al. 3, de la loi, pour le calcul de la rente d’invalidité s’élève à 156 560 francs.[^15-1]
+<sup>1</sup> Le montant du gain annuel maximum assuré selon l’art. 28, al. 4, de la loi, pris en compte pour le calcul de l’indemnité journalière et, selon l’art. 40, al. 3, de la loi, pour le calcul de la rente d’invalidité s’élève à 159 502 francs.[^15-1]
 
 <sup>2</sup> Le gain qui dépasse le montant maximum du gain assuré n’est pas pris en compte. Est réservée la détermination du taux d’incapacité de travail selon l’art. 28, al. 3, de la loi, ou du taux d’invalidité selon l’art. 16 LPGA.[^15-2]
 
-[^15-1]: Nouvelle teneur selon l’art. 4 al. 2 de l’O AM du 25 nov. 2020 sur l’adaptation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5443](https://fedlex.data.admin.ch/eli/oc/2020/949)).
+[^15-1]: Nouvelle teneur selon l’art. 5 al. 2 de l’O AM du 16 nov. 2022 sur l’adaptation, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 
 #### Art. 16
@@ -477,11 +481,11 @@ L’assurance militaire peut faire appel aux offices régionaux ou communs de l�
 
 **Montant annuel des rentes et valeur annuelle de la rente**
 
-<sup>1</sup> Le montant annuel servant de base au calcul de la rente pour atteinte à l’intégrité s’élève à 20 940 francs.[^26-1] La rente annuelle est calculée sur la base du montant annuel de la rente, du taux de l’atteinte à l’intégrité et du taux de responsabilité de la Confédération.
+<sup>1</sup> Le montant annuel servant de base au calcul de la rente pour atteinte à l’intégrité s’élève à 21 378 francs. La rente annuelle est calculée sur la base du montant annuel de la rente, du taux de l’atteinte à l’intégrité et du taux de responsabilité de la Confédération.[^26-1]
 
 <sup>2</sup> L’adaptation du montant annuel des rentes selon l’art. 49, al. 4, de la loi a lieu en même temps que l’adaptation des rentes selon l’art. 43 de la loi.
 
-[^26-1]: Nouvelle teneur selon l’art. 7 de l’O AM du 29 oct. 2008 sur l’adaptation, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5193](https://fedlex.data.admin.ch/eli/oc/2008/730)).
+[^26-1]: Nouvelle teneur selon l’art. 5 al. 2 de l’O AM du 16 nov. 2022 sur l’adaptation, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
 
 #### Art. 27
 
@@ -499,11 +503,11 @@ La valeur capitalisée de la rente est calculée à partir de la date de la déc
 
 <sup>3</sup> Le Service sanitaire de la BLA examine la demande et détermine le genre et l’étendue de l’examen médical.[^28-3]
 
-[^28-1]: Nouvelle teneur selon le ch. 7 de l’app. 2 à l’O du 10 avr. 2002 sur le recrutement, en vigueur depuis le 1<sup>er</sup> mai 2002 ([RO 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)).
+[^28-1]: Nouvelle teneur selon l’app. 2 ch. 7 de l’O du 10 avr. 2002 sur le recrutement, en vigueur depuis le 1<sup>er</sup> mai 2002 ([RO 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)).
 [^28-2]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 [^28-3]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 
-## Section 2*a***** Primes des assurés à titre professionnel et des assurés auprès de l’assurance de base facultative
+## Section 2*a* Primes des assurés à titre professionnel et des assurés auprès de l’assurance de base facultative
 
 [^sec2a-1]
 
@@ -513,7 +517,7 @@ La valeur capitalisée de la rente est calculée à partir de la date de la déc
 
 **Primes pour les prestations en cas de maladie**
 
-<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 365 francs.[^28a-1]
+<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 380 francs.[^28a-1]
 
 <sup>2</sup>
 
@@ -527,8 +531,8 @@ La prime est réduite comme suit pour les assurés à titre professionnel dont l
 
 <sup>4</sup> La partie des primes afférente au risque de maladie des assurés à titre professionnel engagés à temps partiel est égale à celle qu’ils devraient verser s’ils avaient été engagés à plein temps.
 
-[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
-[^28a-2]: RS **172.220****.****111.3**
+[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 633](https://fedlex.data.admin.ch/eli/oc/2022/633)).
+[^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
 
@@ -636,7 +640,7 @@ En cas de cumul d’une rente de l’assurance militaire avec une rente de l’a
 [^32-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3883](https://fedlex.data.admin.ch/eli/oc/2003/564)).
 [^32-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3883](https://fedlex.data.admin.ch/eli/oc/2003/564)).
 
-## Section 4 Procédure administrative et voies de droit****
+## Section 4 Procédure administrative et voies de droit
 
 [^sec4-1]
 
@@ -685,7 +689,7 @@ Le droit à l’assistance juridique gratuite dans la procédure administrative 
 [^34-1]: Anciennement art. 35. Nouvelle teneur selon le ch. II 99 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6345](https://fedlex.data.admin.ch/eli/oc/2017/705)).
 
-## Section 4*a***** Communication de données
+## Section 4*a* Communication de données
 
 [^sec4a-1]
 
@@ -715,7 +719,7 @@ Le droit à l’assistance juridique gratuite dans la procédure administrative 
 
 [^35-1]: Abrogé par le ch. I de l’O du 22 nov. 2000, avec effet au le 1<sup>er</sup> janv. 2001 ([RO 2000 2919](https://fedlex.data.admin.ch/eli/oc/2000/514)).
 
-## Section 5**** Gestion de l’assurance militaire****
+## Section 5 Gestion de l’assurance militaire
 
 [^sec5-1][^sec5-2]
 
@@ -741,7 +745,7 @@ Le droit à l’assistance juridique gratuite dans la procédure administrative 
 
 [^35b-1]: Abrogé par le ch. I de l’O du 27 avr. 2005, avec effet au 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 
-## Section 6**** Dispositions finales
+## Section 6 Dispositions finales
 
 [^sec6-1]
 

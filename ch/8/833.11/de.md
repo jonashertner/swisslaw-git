@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 1993 über die Militärversicherung (MVV)
 short: MVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20220101/de"
 
 (MVV)
 
-vom 10. November 1993 (Stand am 1. Januar 2022)
+vom 10. November 1993 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -37,7 +37,7 @@ verordnet:
 
 <sup>1</sup> Im obligatorischen oder freiwilligen Militärdienst im Sinne von Artikel 1*a* Absatz 1 Buchstabe a des Gesetzes steht, wer die Wehrpflicht nach dem Militärgesetz vom 3. Februar 1995[^1-1] (MG) und nach der Verordnung vom 22. November 2017[^1-2] über die Militärdienstpflicht erfüllt.[^1-3]
 
-<sup>2</sup> ...[^1-4]
+<sup>2</sup> …[^1-4]
 
 <sup>3</sup> Im obligatorischen oder freiwilligen Zivilschutzdienst im Sinne von Artikel 1*a* Absatz 1 Buchstabe a des Gesetzes steht, wer nach dem Bevölkerungs- und Zivilschutzgesetz vom 20. Dezember 2019[^1-5] und nach der Zivilschutzverordnung vom 11. November 2020[^1-6] die Schutzdienstpflicht erfüllt.[^1-7]
 
@@ -239,9 +239,9 @@ Der Versicherungsunterbruch nach Artikel 3 Absatz 2 des Gesetzes beschränkt sic
 <sup>4</sup> Solange ein Angehöriger der Armee, ein Zivilschutzdienstleistender oder ein Zivildienstleistender Anspruch auf Sold, auf Taschengeld oder auf Entschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^10-3] hat, ist der Anspruch auf Taggeld der Militärversicherung aufgeschoben.[^10-4] Die bei vorzeitiger Entlassung aus dem Dienst entgehende Entschädigung nach dem Bundesgesetz über die Erwerbsersatzordnung wird nicht vergütet.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
-[^10-2]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 ([AS 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
+[^10-2]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 (AS **1996** 2685).
 [^10-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^10-4]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 ([AS 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
+[^10-4]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 (AS **1996** 2685).
 
 #### Art. 11
 
@@ -302,7 +302,11 @@ Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leist
 
 <sup>2</sup> Die Frist zur Kündigung von Zusammenarbeits- und Tarifverträgen beträgt mindestens sechs Monate.
 
+<sup>3</sup> Für die Datenbekanntgabe nach Artikel 26 Absatz 3<sup>bis</sup> des Gesetzes, die Übermittlung der Daten, die Sicherheit und die Aufbewahrung der Daten sind die Artikel 59*f*, 59*g* und 59*i* der Verordnung vom 27. Juni 1995[^13b-2] über die Krankenversicherung (KVV) sinngemäss anwendbar.[^13b-3]
+
 [^13b-1]: Eingefügt durch Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^13b-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^13b-3]: Eingefügt durch Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 13c
 
@@ -322,7 +326,7 @@ Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leist
 
 **Koordination der Tarife**
 
-<sup>1</sup> ...[^14-1]
+<sup>1</sup> …[^14-1]
 
 <sup>2</sup> Die Militärversicherung vergütet Arzneimittel, pharmazeutische Spezialitäten und Laboranalysen nach den Listen, die aufgrund von Artikel 52 Absatz 1 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^14-2] aufgestellt sind.[^14-3]
 
@@ -339,11 +343,11 @@ Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leist
 
 **Höchstbetrag des versicherten Jahresverdienstes beim Taggeld und bei der Invalidenrente**
 
-<sup>1</sup> Der Höchstbetrag des versicherten Jahresverdienstes nach Artikel 28 Absatz 4 des Gesetzes für die Ermittlung des Taggeldes und nach Artikel 40 Absatz 3 des Gesetzes für die Ermittlung der Invalidenrente beträgt 156 560 Franken.[^15-1]
+<sup>1</sup> Der Höchstbetrag des versicherten Jahresverdienstes nach Artikel 28 Absatz 4 des Gesetzes für die Ermittlung des Taggeldes und nach Artikel 40 Absatz 3 des Gesetzes für die Ermittlung der Invalidenrente beträgt 159 502 Franken.[^15-1]
 
 <sup>2</sup> Der Verdienst, der den Betrag des höchstversicherten Verdienstes übersteigt, wird nicht berücksichtigt. Vorbehalten bleibt die Ermittlung des Grades der Arbeitsunfähigkeit nach Artikel 28 Absatz 3 des Gesetzes oder des Grades der Invalidität nach Artikel 16 ATSG.[^15-2]
 
-[^15-1]: Fassung gemäss Art. 4 Abs. 2 der MV-Anpassungsverordnung vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5443](https://fedlex.data.admin.ch/eli/oc/2020/949)).
+[^15-1]: Fassung gemäss Art. 5 Abs. 2 der MV-Anpassungsverordnung vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
 [^15-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 
 #### Art. 16
@@ -475,11 +479,11 @@ Die Militärversicherung ist berechtigt, die kantonalen und die gemeinsamen Inva
 
 **Jahresrentenansatz und Rentenbetreffnis**
 
-<sup>1</sup> Der Jahresrentenansatz für die Integritätsschadenrenten beträgt 20 940 Franken.[^26-1] Die Jahresrente ergibt sich aus dem Jahresrentenansatz, dem ermittelten Prozentsatz des Integritätsschadens und dem Prozentsatz der Bundeshaftung.
+<sup>1</sup> Der Jahresrentenansatz für die Integritätsschadenrenten beträgt 21 378 Franken. Die Jahresrente ergibt sich aus dem Jahresrentenansatz, dem ermittelten Prozentsatz des Integritätsschadens und dem Prozentsatz der Bundeshaftung.[^26-1]
 
 <sup>2</sup> Die Anpassung des Jahresrentenansatzes nach Artikel 49 Absatz 4 des Gesetzes erfolgt jeweils auf den gleichen Zeitpunkt wie die Rentenanpassung nach Artikel 43 des Gesetzes.
 
-[^26-1]: Fassung gemäss Art. 7 der MV-Anpassungsverordnung vom 29. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5193](https://fedlex.data.admin.ch/eli/oc/2008/730)).
+[^26-1]: Fassung gemäss Art. 5 Abs. 2 der MV-Anpassungsverordnung vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
 
 #### Art. 27
 
@@ -502,7 +506,7 @@ Der Barwert der Rente wird auf der Basis des Jahresrentenansatzes berechnet, der
 [^28-3]: Fassung gemäss Ziff. I der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 [^28-4]: Fassung gemäss Ziff. I der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 
-## 2*a.* Abschnitt:**** Prämien der beruflich Versicherten und der bei der freiwilligen Grundversicherung Versicherten
+## 2*a.* Abschnitt: Prämien der beruflich Versicherten und der bei der freiwilligen Grundversicherung Versicherten
 
 [^sec2a-1]
 
@@ -512,7 +516,7 @@ Der Barwert der Rente wird auf der Basis des Jahresrentenansatzes berechnet, der
 
 **Prämie für Leistungen bei Krankheit**
 
-<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 365 Franken.[^28a-1]
+<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 380 Franken.[^28a-1]
 
 <sup>2</sup>
 
@@ -526,7 +530,7 @@ Bei beruflich Versicherten, deren Lohn in einer der folgenden Bandbreiten liegt,
 
 <sup>4</sup> Derjenige Teil der Prämie von teilzeitlich angestellten beruflich Versicherten, der das Risiko für Krankheit betrifft, ist gleich hoch wie für vollzeitlich angestellte.
 
-[^28a-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
+[^28a-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 633](https://fedlex.data.admin.ch/eli/oc/2022/633)).
 [^28a-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
@@ -610,7 +614,7 @@ Die kommentierte Zusammenstellung enthält zudem auch eine Schätzung in Bezug a
 
 <sup>5</sup> Besteht ein Rentenanspruch sowohl gegen die Unfallversicherung wie auch gegen die Militärversicherung, so meldet der Unfallversicherer seine Rente oder Komplementärrente der Militärversicherung. Beide Versicherer berechnen ihre Rente nach den für sie geltenden gesetzlichen Bestimmungen.
 
-<sup>6</sup> ...[^31-2]
+<sup>6</sup> …[^31-2]
 
 [^31-1]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^31-2]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
@@ -635,7 +639,7 @@ Treffen Leistungen der Militärversicherung mit solchen der Alters- und Hinterla
 [^32-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3883](https://fedlex.data.admin.ch/eli/oc/2003/564)).
 [^32-3]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3883](https://fedlex.data.admin.ch/eli/oc/2003/564)).
 
-## 4. Abschnitt: Verwaltungsverfahren und Rechtspflege****
+## 4. Abschnitt: Verwaltungsverfahren und Rechtspflege
 
 [^sec4-1]
 
@@ -667,7 +671,7 @@ Der Anspruch auf unentgeltlichen Rechtsbeistand besteht, wenn folgende Vorausset
 
 <sup>3</sup> Wird das Gesuch bewilligt, so kann der Versicherte den Rechtsbeistand frei wählen. Macht er davon keinen Gebrauch, überträgt die Militärversicherung das Mandat einem Anwalt ihrer Wahl.
 
-<sup>4</sup> ...[^33-3]
+<sup>4</sup> …[^33-3]
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 [^33-2]: Eingefügt durch Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
@@ -684,7 +688,7 @@ Der Anspruch auf unentgeltlichen Rechtsbeistand besteht, wenn folgende Vorausset
 [^34-1]: Ursprünglich Art. 35. Fassung gemäss Ziff. II 99 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 [^34-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6345](https://fedlex.data.admin.ch/eli/oc/2017/705)).
 
-## 4*a*. Abschnitt:**** Datenbekanntgabe
+## 4*a*. Abschnitt: Datenbekanntgabe
 
 [^sec4a-1]
 
@@ -714,7 +718,7 @@ Der Anspruch auf unentgeltlichen Rechtsbeistand besteht, wenn folgende Vorausset
 
 [^35-1]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2919](https://fedlex.data.admin.ch/eli/oc/2000/514)).
 
-## 5. Abschnitt:**** Führung der Militärversicherung****
+## 5. Abschnitt: Führung der Militärversicherung
 
 [^sec5-1][^sec5-2]
 
@@ -740,7 +744,7 @@ Der Anspruch auf unentgeltlichen Rechtsbeistand besteht, wenn folgende Vorausset
 
 [^35b-1]: Aufgehoben durch Ziff. I der V vom 27. April 2005, mit Wirkung seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 
-## 6. Abschnitt:**** Schlussbestimmungen
+## 6. Abschnitt: Schlussbestimmungen
 
 [^sec6-1]
 

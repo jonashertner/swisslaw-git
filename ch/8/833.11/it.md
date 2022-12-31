@@ -4,11 +4,11 @@ title: "Ordinanza del 10 novembre 1993 sull'assicurazione militare (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20220101/it"
 
 (OAM)
 
-del 10 novembre 1993 (Stato 1° gennaio 2022)
+del 10 novembre 1993 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -163,7 +163,7 @@ Sono considerati istruttori della protezione civile ai sensi dell’articolo 1*a
 [^6-1]: Nuovo testo giusta l’all. n. 4 dell’O del 17 dic. 2014, in vigore dal 1° feb. 2015 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)).
 [^6-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 [^6-3]: Nuovo testo giusta il n. I dell’O del 19 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^6-4]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645),[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^6-4]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645);[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 [^6-5]: Nuovo testo giusta l’all. n. 4 dell’O del 17 dic. 2014, in vigore dal 1° feb. 2015 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)).
 
 #### Art. 7
@@ -302,7 +302,11 @@ L’ordinanza del 3 luglio 2002[^13a-2] sul calcolo dei costi e la registrazione
 
 <sup>2</sup> Il termine per la disdetta di convezioni tariffali e di collaborazione è di almeno sei mesi.
 
+<sup>3</sup> La comunicazione dei dati secondo l’articolo 26 capoverso 3<sup>bis</sup> della legge, la trasmissione dei dati, la sicurezza e la conservazione dei dati sono retti per analogia dagli articoli 59*f*, 59*g* e 59*i* dell’ordinanza del 27 giugno 1995[^13b-2] sull’assicurazione malattie (OAMal).[^13b-3]
+
 [^13b-1]: Introdotto dall’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^13b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^13b-3]: Introdotto dall’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 13c
 
@@ -339,11 +343,11 @@ L’ordinanza del 3 luglio 2002[^13a-2] sul calcolo dei costi e la registrazione
 
 **Importo massimo del guadagno annuo assicurato in caso di indennità giornaliera e in caso di rendita di invalidità**
 
-<sup>1</sup> L’importo massimo del guadagno annuo assicurato secondo l’articolo 28 capoverso 4 della legge necessario per determinare l’indennità giornaliera e, secondo l’articolo 40 capoverso 3 della legge, per determinare la rendita d’invalidità ammonta a 156 560 franchi.[^15-1]
+<sup>1</sup> L’importo massimo del guadagno annuo assicurato secondo l’articolo 28 capoverso 4 della legge necessario per determinare l’indennità giornaliera e, secondo l’articolo 40 capoverso 3 della legge, per determinare la rendita d’invalidità ammonta a 159 502 franchi.[^15-1]
 
 <sup>2</sup> Il guadagno il cui importo supera il guadagno massimo assicurato non è preso in considerazione. È fatta salva la determinazione del grado dell’incapacità al lavoro secondo l’articolo 28 capoverso 3 della legge o del grado d’invalidità secondo l’articolo 16 LPGA.[^15-2]
 
-[^15-1]: Nuovo testo giusta l’art. 4 cpv. 2 dell’O AM del 25 nov. 2020 concernente l’adeguamento, in vigore dal 1° gen. 2021 ([RU 2020 5443](https://fedlex.data.admin.ch/eli/oc/2020/949)).
+[^15-1]: Nuovo testo giusta l’art. 5 cpv. 2 dell’O AM del 16 nov. 2022 concernente l’adeguamento, in vigore dal 1° gen. 2023 ([RU 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
 [^15-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 
 #### Art. 16
@@ -477,11 +481,11 @@ L’assicurazione militare è autorizzata a interpellare gli uffici cantonali e 
 
 **Importo annuo delle rendite e valore annuo della rendita**
 
-<sup>1</sup> L’importo annuo che serve da base per il calcolo delle rendite per menomazione dell’integrità ammonta a 20 940 franchi.[^26-1] La rendita annua risulta dall’importo annuo che serve da base per il calcolo delle rendite, dalla percentuale della menomazione dell’integrità e dalla percentuale della responsabilità della Confederazione.
+<sup>1</sup> L’importo annuo che serve da base per il calcolo delle rendite per menomazione dell’integrità ammonta a 21 378 franchi. La rendita annua risulta dall’importo annuo che serve da base per il calcolo delle rendite, dalla percentuale della menomazione dell’integrità e dalla percentuale della responsabilità della Confederazione.[^26-1]
 
 <sup>2</sup> L’adeguamento dell’importo annuo che serve da base per il calcolo delle rendite per menomazione dell’integrità secondo l’articolo 49 capoverso 4 della legge avviene ogni volta simultaneamente all’adeguamento delle rendite secondo l’articolo 43 della legge.
 
-[^26-1]: Nuovo testo giusta l’art. 7 dell’O AM del 29 ott. 2008 concernente l’adeguamento, in vigore dal 1° gen. 2009 ([RU 2008 5193](https://fedlex.data.admin.ch/eli/oc/2008/730)).
+[^26-1]: Nuovo testo giusta l’art. 5 cpv. 2 dell’O AM del 16 nov. 2022 concernente l’adeguamento, in vigore dal 1° gen. 2023 ([RU 2022 705](https://fedlex.data.admin.ch/eli/oc/2022/705)).
 
 #### Art. 27
 
@@ -503,7 +507,7 @@ Il valore attuale della rendita viene calcolato fondandosi sull’importo annuo 
 [^28-2]: Nuovo testo giusta il n. I dell’O del 27 apr. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 [^28-3]: Nuovo testo giusta il n. I dell’O del 27 apr. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 
-## Sezione 2*a*:**** Premi degli assicurati a titolo professionale e degli assicurati dell’assicurazione di base facoltativa
+## Sezione 2*a*: Premi degli assicurati a titolo professionale e degli assicurati dell’assicurazione di base facoltativa
 
 [^sec2a-1]
 
@@ -513,7 +517,7 @@ Il valore attuale della rendita viene calcolato fondandosi sull’importo annuo 
 
 **Premio per prestazioni in caso di malattia**
 
-<sup>1</sup> Il premio mensile per le prestazioni in caso di malattia ammonta a 365 franchi.[^28a-1]
+<sup>1</sup> Il premio mensile per le prestazioni in caso di malattia ammonta a 380 franchi.[^28a-1]
 
 <sup>2</sup>
 
@@ -527,7 +531,7 @@ Per gli assicurati a titolo professionale, il cui stipendio rientra in una delle
 
 <sup>4</sup> La parte dei premi relativa al rischio di malattia degli assicurati a titolo professionale impiegati a tempo parziale è uguale a quella dovuta con un impiego a tempo pieno.
 
-[^28a-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 655](https://fedlex.data.admin.ch/eli/oc/2021/655)).
+[^28a-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 633](https://fedlex.data.admin.ch/eli/oc/2022/633)).
 [^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 28b
@@ -636,7 +640,7 @@ In caso di concorso di prestazioni dell’assicurazione militare con quelle dell
 [^32-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3883](https://fedlex.data.admin.ch/eli/oc/2003/564)).
 [^32-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3883](https://fedlex.data.admin.ch/eli/oc/2003/564)).
 
-## Sezione 4: Procedura amministrativa e contenzioso****
+## Sezione 4: Procedura amministrativa e contenzioso
 
 [^sec4-1]
 
@@ -685,7 +689,7 @@ Il diritto al patrocinio gratuito sussiste se sono adempiute le seguenti condizi
 [^34-1]: Originario art. 35. Nuovo testo giusta il n. II 99 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 [^34-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6345](https://fedlex.data.admin.ch/eli/oc/2017/705)).
 
-## Sezione 4*a*:**** Comunicazione di dati
+## Sezione 4*a*: Comunicazione di dati
 
 [^sec4a-1]
 
@@ -715,7 +719,7 @@ Il diritto al patrocinio gratuito sussiste se sono adempiute le seguenti condizi
 
 [^35-1]: Abrogato dal n. I dell’O del 22 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 2919](https://fedlex.data.admin.ch/eli/oc/2000/514)).
 
-## Sezione 5:**** Gestione dell’assicurazione militare****
+## Sezione 5: Gestione dell’assicurazione militare
 
 [^sec5-1][^sec5-2]
 
@@ -741,7 +745,7 @@ Il diritto al patrocinio gratuito sussiste se sono adempiute le seguenti condizi
 
 [^35b-1]: Abrogato dal n. I dell’O del 27 apr. 2005, con effetto dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 
-## Sezione 6:**** Disposizioni finali
+## Sezione 6: Disposizioni finali
 
 [^sec6-1]
 
