@@ -3,24 +3,24 @@ sr: "414.131.7"
 title: Verordnung des ETH-Rates vom 31. Mai 1995 über die Gebühren im Bereich der Eidgenössischen Technischen Hochschulen (Gebührenverordnung ETH-Bereich)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853"
 language: de
-version: 2018-09-01
+version: 2023-01-01
 adopted: 1995-05-31
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20180901/de/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20180901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20180901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des ETH-Rates über die Gebühren im Bereich der Eidgenössischen Technischen Hochschulen
 
-(Gebührenverordnung ETH-Bereich)**[^t-1]**
+(Gebührenverordnung ETH-Bereich)[^t-1]
 
-vom 31. Mai 1995 (Stand am 1. September 2018)
+vom 31. Mai 1995 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 3. April 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
 
-Der ETH-Rat,*[^ingress-1]*
+Der ETH-Rat,[^ingress-1]
 
 gestützt auf Artikel 34*d* Absatz 3 des ETH-Gesetzes vom 4. Oktober 1991[^ingress-2],[^ingress-3]
 
@@ -288,11 +288,11 @@ Die Anstaltsleitungen können von den Gebührenpflichtigen einen Vorschuss verla
 
 ## 5. Abschnitt: …
 
-#### Art. 21
+#### Art. 21 und 22
 
-**und **Art. 22**[^21-1]**
+[^2122-1]
 
-[^21-1]: Aufgehoben durch Ziff. I der V des ETH-Rates vom 3. März 2011, mit Wirkung seit 1. Mai. 2011 ([AS 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
+[^2122-1]: Aufgehoben durch Ziff. I der V des ETH-Rates vom 3. März 2011, mit Wirkung seit 1. Mai. 2011 ([AS 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
 
 ## 6. Abschnitt: Parkplatzgebühren
 
@@ -335,7 +335,7 @@ Massgebende Kriterien für solche Abweichungen sind insbesondere:
 
 [^25-1]: [SR 172.058.41](https://fedlex.data.admin.ch/eli/cc/1992/1194_1194_1194)
 
-## 7. Abschnitt:**** Fälligkeit, Gebührenverfügung und Verjährung
+## 7. Abschnitt: Fälligkeit, Gebührenverfügung und Verjährung
 
 [^sec7-1]
 
@@ -359,7 +359,7 @@ Massgebende Kriterien für solche Abweichungen sind insbesondere:
 
 <sup>2</sup> Die Verjährung wird durch jede Verwaltungshandlung unterbrochen, mit der die Gebührenforderung bei den Pflichtigen geltend gemacht wird.
 
-## 8. Abschnitt:**** Schlussbestimmungen
+## 8. Abschnitt: Schlussbestimmungen
 
 [^sec8-1]
 
@@ -397,13 +397,13 @@ Die Höhe des Schulgeldes für die Zeit vom Herbstsemester 2018 bis und mit dem 
 
 Diese Verordnung tritt am 1. Oktober 1995 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 2 Abs. 9, 6 Abs. 2<sup>bis</sup> und 10 Abs. 2)
 
 ## Schulgeld sowie andere Benutzungs- und Verwaltungsgebühren
 
-[^t-2]: Ursprünglich: Anhang 1. Fassung gemäss Ziff. II Abs. 1 der V des ETH-Rates vom 3. März 2011 ([AS 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Bereinigt gemäss Ziff. II der V des ETH-Rates vom 8. Dez. 2016 ([AS 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)) und vom 5. Juli 2018, in Kraft seit 1. Sept. 2018 ([AS 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)).
+[^t-2]: Ursprünglich: Anhang 1. Fassung gemäss Ziff. II Abs. 1 der V des ETH-Rates vom 3. März 2011 ([AS 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Bereinigt gemäss Ziff. II der V des ETH-Rates vom 8. Dez. 2016 ([AS 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)), vom 5. Juli 2018 ([AS 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)) und Ziff. I der V des ETH-Rats vom 21. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 663](https://fedlex.data.admin.ch/eli/oc/2022/663)).
 
 ### 1. Schulgeld
 
@@ -416,7 +416,7 @@ Anhang*[^t-2]*
 <tr><td>– oder pro Einheit Kreditpunkte (EPFL) (höchstens den entsprechenden Semesterbetrag)</td><td>–</td><td>60</td></tr>
 <tr><td>1.2 Einmaliges Schulgeld</td><td></td><td></td></tr>
 <tr><td>*1.2.1* *Doktorierende* (vor der Doktorprüfung)</td><td>1500</td><td>1500</td></tr>
-<tr><td>*1.2.2* *Masterprogramm der universitären Weiterbi**l**dung*</td><td></td><td></td></tr>
+<tr><td>*1.2.2* *Masterprogramm der universitären Weiterbildung*</td><td></td><td></td></tr>
 <tr><td>– Schulgeld (je zur Hälfte im 1. und 2. Semester zu entrichten)</td><td>1460</td><td>1460</td></tr>
 <tr><td>– Kostenbeitrag individuell je nach Studiengang</td><td></td><td></td></tr>
 <tr><td>*1.2.3* *Weiterbildungszertifikat oder -diplom*</td><td></td><td></td></tr>
@@ -437,7 +437,7 @@ Anhang*[^t-2]*
 <tr><td>– oder pro Einheit Kreditpunkte (EPFL) (höchstens den entsprechenden Semesterbetrag)</td><td>–</td><td>50</td></tr>
 <tr><td>1.2 Einmaliges Schulgeld</td><td></td><td></td></tr>
 <tr><td>*1.2.1* *Doktorierende* (vor der Doktorprüfung)</td><td>1200</td><td>1200</td></tr>
-<tr><td>*1.2.2* *Masterprogramm der universitären Weiterbi**l**dung*</td><td></td><td></td></tr>
+<tr><td>*1.2.2* *Masterprogramm der universitären Weiterbildung*</td><td></td><td></td></tr>
 <tr><td>– Schulgeld (je zur Hälfte im 1. und 2. Semester zu entrichten)</td><td>1160</td><td>1160</td></tr>
 <tr><td>– Kostenbeitrag individuell je nach Studiengang</td><td></td><td></td></tr>
 <tr><td>*1.2.3* *Weiterbildungszertifikat oder -diplom*</td><td></td><td></td></tr>
@@ -496,9 +496,9 @@ Anhang*[^t-2]*
 <tr><td>– Wiederaufnahme nach einer Exmatrikulation</td><td>50</td><td>50</td></tr>
 <tr><td>– Gesuch um Erlass von Leistungskontrollen (Anrechnung von Kreditpunkten)</td><td>50</td><td>–</td></tr>
 <tr><td>– Behandlung von Wiedererwägungsgesuchen</td><td>–</td><td>100</td></tr>
-<tr><td>*2.2.5* *Gebühr für die Teilnahme am Eignungstest für das Bachelor-Studium Humanmedizin:*</td><td>200</td><td>–</td></tr>
+<tr><td>*2.2.5* *Gebühr für die* *Teilnahme* *am Eignungstest für das* *Bachelor**-Studium Humanmedizin*</td><td>300</td><td>–</td></tr>
 </table>
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 [^t-3]: Aufgehoben durch Ziff. II Abs. 2 der V des ETH-Rates vom 3. März 2011, mit Wirkung seit 1. Mai. 2011 ([AS 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).

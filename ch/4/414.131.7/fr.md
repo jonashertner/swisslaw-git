@@ -3,24 +3,24 @@ sr: "414.131.7"
 title: Ordonnance du Conseil des EPF du 31 mai 1995 sur les taxes perçues dans le domaine des Écoles polytechniques fédérales (Ordonnance sur les taxes du domaine des EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853"
 language: fr
-version: 2018-09-01
+version: 2023-01-01
 adopted: 1995-05-31
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20180901/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20180901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20180901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du Conseil des EPF sur les taxes perçues dans le domaine des Ecoles polytechniques fédérales
+# Ordonnance du Conseil des EPF sur les taxes perçues dans le domaine des Écoles polytechniques fédérales
 
-(Ordonnance sur les taxes du domaine des EPF)**[^t-1]**
+(Ordonnance sur les taxes du domaine des EPF)[^t-1]
 
-du 31 mai 1995 (Etat le 1<sup>er</sup> septembre 2018)
+du 31 mai 1995 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 3 avr. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
 
-Le Conseil des Ecoles polytechniques fédérales,
+Le Conseil des Écoles polytechniques fédérales,
 
 vu l’art. 34*d*, al. 3, de la loi du 4 octobre 1991 sur les EPF[^ingress-1],[^ingress-2]
 
@@ -35,7 +35,7 @@ arrête:
 
 La présente ordonnance régit les taxes perçues pour l’enseignement, les actes administratifs et les prestations de service fournis par les établissements du domaine des EPF ainsi que pour l’attribution des surfaces de stationnement dans le domaine des EPF.
 
-## Section 2 Taxes d’études**** et autres taxes d’utilisation
+## Section 2 Taxes d’études et autres taxes d’utilisation
 
 [^sec2-1]
 
@@ -63,7 +63,7 @@ La taxe d’étude couvre les prestations nécessaires pour:
 
 Les directions des écoles exonèrent du paiement de la taxe d’étude les étudiants d’autres hautes écoles universitaires suisses lorsqu’ils:
 
-- a. sont soumis à une taxe d’étude régulière dans leur université; et
+- a. sont soumis à une taxe d’étude régulière dans leur université, et
 - b. suivent des cours dans l’une des EPF dans le cadre d’une collaboration institutionnelle.
 
 <sup>6</sup> Pour les formations dispensées en partenariat avec d’autres hautes écoles, les partenaires déterminent à quelle école la taxe d’étude doit être versée. S’il s’agit d’une EPF, la taxe d’étude est réglée par l’al. 1.
@@ -339,7 +339,7 @@ Les critères déterminants à cet égard sont notamment les suivants:
 
 [^25-1]: [RS 172.058.41](https://fedlex.data.admin.ch/eli/cc/1992/1194_1194_1194)
 
-## Section 7**** Echéance, décision concernant la taxe et prescription
+## Section 7 Échéance, décision concernant la taxe et prescription
 
 [^sec7-1]
 
@@ -363,7 +363,7 @@ Les critères déterminants à cet égard sont notamment les suivants:
 
 <sup>2</sup> La prescription est interrompue par tout acte administratif faisant valoir la créance auprès de l’assujetti.
 
-## Section 8**** Dispositions finales
+## Section 8 Dispositions finales
 
 [^sec8-1]
 
@@ -381,8 +381,8 @@ Les directions des établissements sont chargées de l’exécution de la prése
 
 Sont abrogées:
 
-- a. l’ordonnance du 12 septembre 1984 sur les taxes d’inscription des auditeurs et des autres utilisateurs des Ecoles polytechniques fédérales[^27-1];
-- b. l’ordonnance transitoire du 31 mars 1993 sur la taxe d’inscription aux Ecoles polytechniques fédérales[^27-2].
+- a. l’ordonnance du 12 septembre 1984 sur les taxes d’inscription des auditeurs et des autres utilisateurs des Écoles polytechniques fédérales[^27-1];
+- b. l’ordonnance transitoire du 31 mars 1993 sur la taxe d’inscription aux Écoles polytechniques fédérales[^27-2].
 
 [^27-1]: [[RO 1986 734](https://fedlex.data.admin.ch/eli/oc/1986/734_734_734)]
 [^27-2]: [[RO 1993 1443](https://fedlex.data.admin.ch/eli/oc/1993/1443_1443_1443)]
@@ -401,13 +401,13 @@ Le montant des taxes d’études pour la période allant du semestre d’automne
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1995.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 2, al. 9, 6, al. 2<sup>bis</sup>, et 10, al. 2)
 
 ## Taxes d’études et autres taxes d’utilisation et d’administration
 
-[^t-2]: Anciennement annexe 1. Nouvelle teneur selon le ch. II al. 1 de l’O du Conseil des EPF du 3 mars 2011 ([RO 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Mise à jour selon le ch. II des O du Conseil des EPF du 8 déc. 2016 ([RO 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)) et du 5 juil. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)).
+[^t-2]: Anciennement annexe 1. Nouvelle teneur selon le ch. II al. 1 de l’O du Conseil des EPF du 3 mars 2011 ([RO 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Mise à jour selon le ch. II des O du Conseil des EPF du 8 déc. 2016 ([RO 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)), du 5 juil. 2018 ([RO 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)) et le ch. I de l’O du Conseil des EPF du 21 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 663](https://fedlex.data.admin.ch/eli/oc/2022/663)).
 
 ### 1. Taxes d’études
 
@@ -415,8 +415,8 @@ Annexe*[^t-2]*
 <tr><th></th><th>EPFZ (en francs)</th><th>EPFL (en francs)</th></tr>
 <tr><td>1. Taxes d’études</td><td></td><td></td></tr>
 <tr><td>1.1 Taxes d’études par semestre</td><td></td><td></td></tr>
-<tr><td>*1.1.1* *Etudiants* en formation de bachelor et de master</td><td>730</td><td>730</td></tr>
-<tr><td>*1.1.2* *Etudiants* en congé suivant des matières séparées, étudiants hôtes et auditeurs</td><td></td><td></td></tr>
+<tr><td>*1.1.1* *Étudiants* en formation de bachelor et de master</td><td>730</td><td>730</td></tr>
+<tr><td>*1.1.2* *Étudiants* en congé suivant des matières séparées, étudiants hôtes et auditeurs</td><td></td><td></td></tr>
 <tr><td>– par heure de cours hebdomadaire par semestre (EPFZ)</td><td>60</td><td>–</td></tr>
 <tr><td>– par unité de crédit ECTS (EPFL) (au maximum montant semestriel correspondant)</td><td>–</td><td>60</td></tr>
 <tr><td>1.2 Taxe d’étude unique</td><td></td><td></td></tr>
@@ -436,8 +436,8 @@ Annexe*[^t-2]*
 <tr><th></th><th>EPFZ (en francs)</th><th>EPFL (en francs)</th></tr>
 <tr><td>1. Taxes d’études</td><td></td><td></td></tr>
 <tr><td>1.1 Taxes d’études par semestre</td><td></td><td></td></tr>
-<tr><td>*1.1.1* *Etudiants* en formation de bachelor et de master</td><td>580</td><td>580</td></tr>
-<tr><td>*1.1.2* *Etudiants* en congé suivant des matières séparées, étudiants hôtes et auditeurs</td><td></td><td></td></tr>
+<tr><td>*1.1.1* *Étudiants* en formation de bachelor et de master</td><td>580</td><td>580</td></tr>
+<tr><td>*1.1.2* *Étudiants* en congé suivant des matières séparées, étudiants hôtes et auditeurs</td><td></td><td></td></tr>
 <tr><td>– par heure de cours hebdomadaire par semestre (EPFZ)</td><td>50</td><td>–</td></tr>
 <tr><td>– par unité de crédit ECTS (EPFL) (au maximum montant semestriel correspondant)</td><td>–</td><td>50</td></tr>
 <tr><td>1.2 Taxe d’études unique</td><td></td><td></td></tr>
@@ -457,8 +457,8 @@ Annexe*[^t-2]*
 <tr><th></th><th>EPFZ (en francs)</th><th>EPFL (en francs)</th></tr>
 <tr><td>1. Taxes d’études</td><td></td><td></td></tr>
 <tr><td>1.1 Taxes d’études par semestre</td><td></td><td></td></tr>
-<tr><td>*1.1.1* *Etudiants* en formation de bachelor et de master</td><td>660</td><td>660</td></tr>
-<tr><td>*1.1.2* *Etudiants* en congé suivant des matières séparées, étudiants hôtes et auditeurs</td><td></td><td></td></tr>
+<tr><td>*1.1.1* *Étudiants* en formation de bachelor et de master</td><td>660</td><td>660</td></tr>
+<tr><td>*1.1.2* *Étudiants* en congé suivant des matières séparées, étudiants hôtes et auditeurs</td><td></td><td></td></tr>
 <tr><td>– par heure de cours hebdomadaire par semestre (EPFZ)</td><td>50</td><td>–</td></tr>
 <tr><td>– par unité de crédit ECTS (EPFL) (au maximum montant semestriel correspondant)</td><td>–</td><td>50</td></tr>
 <tr><td>1.2 Taxe d’étude unique</td><td></td><td></td></tr>
@@ -501,9 +501,9 @@ Annexe*[^t-2]*
 <tr><td>– réadmission après une exmatriculation</td><td>50</td><td>50</td></tr>
 <tr><td>– demande de reconnaissance de crédits acquis, en vue d’une libération du contrôle des connaissances</td><td>50</td><td>–</td></tr>
 <tr><td>– traitement d’une demande de nouvelle appréciation d’une décision</td><td>–</td><td>100</td></tr>
-<tr><td>*2.2.5* *Taxe d’administration pour la participation au test d’aptitudes aux études de bachelor en médecine h**u**maine*</td><td>200</td><td>–</td></tr>
+<tr><td>*2.2.5* *Taxe d’administration pour la participation au test* *d’aptitudes* *aux études de bachelor en médecine humaine*</td><td>300</td><td>–</td></tr>
 </table>
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 [^t-3]: Abrogée par le ch. II al. 2 de l’O du Conseil des EPF du 3 mars 2011, avec effet au 1<sup>er</sup> mai 2011 ([RO 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).

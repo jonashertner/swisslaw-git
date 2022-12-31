@@ -3,20 +3,20 @@ sr: "414.131.7"
 title: Ordinanza del Consiglio dei PF del 31 maggio 1995 sulle tasse riscosse nel settore dei Politecnici federali (Ordinanza sulle tasse nel settore dei PF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853"
 language: it
-version: 2018-09-01
+version: 2023-01-01
 adopted: 1995-05-31
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20180901/it/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20180901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20180901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3853_3853_3853/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3853_3853_3853-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3853_3853_3853/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del Consiglio dei PF sulle tasse riscosse nel settore dei Politecnici federali
 
-(Ordinanza sulle tasse nel settore dei PF)**[^t-1]**
+(Ordinanza sulle tasse nel settore dei PF)[^t-1]
 
-del 31 maggio 1995 (Stato 1° settembre 2018) (Stato 1° settembre 2018)
+del 31 maggio 1995 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 3 apr. 2008, in vigore dal 1° ago. 2008 ([RU 2008 2263](https://fedlex.data.admin.ch/eli/oc/2008/326)).
 
@@ -336,7 +336,7 @@ I criteri determinanti per tali deroghe sono, in particolare:
 
 [^25-1]: [RS 172.058.41](https://fedlex.data.admin.ch/eli/cc/1992/1194_1194_1194)
 
-## Sezione 7:**** Scadenza, decisione sulla tassa e prescrizione
+## Sezione 7: Scadenza, decisione sulla tassa e prescrizione
 
 [^sec7-1]
 
@@ -360,7 +360,7 @@ I criteri determinanti per tali deroghe sono, in particolare:
 
 <sup>2</sup> La prescrizione è interrotta da qualsiasi atto amministrativo con cui il credito è fatto valere nei confronti della persona tenuta a pagarlo.
 
-## Sezione 8:**** Disposizioni finali
+## Sezione 8: Disposizioni finali
 
 [^sec8-1]
 
@@ -398,13 +398,13 @@ L’ammontare della tassa d’iscrizione per il periodo compreso tra il semestre
 
 La presente ordinanza entra in vigore il 1° ottobre 1995.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 2 cpv. 9, 6 cpv. 2<sup>bis</sup> e 10 cpv. 2)
 
 ## Tassa d’iscrizione e altre tasse di utilizzazione e amministrative
 
-[^t-2]: Originario all. 1. Nuovo testo giusta il n. II cpv. 1 dell’O del Consiglio dei PF del 3 mar. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Aggiornato dai n. II delle O del Consiglio dei PF dell’8 dic. 2016 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)) e del 5 lug. 2018, in vigore dal 1° set. 2018 ([RU 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)).
+[^t-2]: Originario all. 1. Nuovo testo giusta il n. II cpv. 1 dell’O del Consiglio dei PF del 3 mar. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)). Aggiornato dal n. II delle O del Consiglio dei PF dell’8 dic. 2016 ([RU 2017 479](https://fedlex.data.admin.ch/eli/oc/2017/80)), del 5 lug. 2018 ([RU 2018 2803](https://fedlex.data.admin.ch/eli/oc/2018/424)) e dal n. I dell’O del Consiglio dei PF del 21 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 663](https://fedlex.data.admin.ch/eli/oc/2022/663)).
 
 ### 1. Tassa d’iscrizione
 
@@ -418,7 +418,7 @@ Allegato*[^t-2]*
 <tr><td>– oppure per unità di crediti formativi (PFL) (al massimo l’importo corrispondente per il semestre)</td><td>–</td><td>60</td></tr>
 <tr><td>1.2 Tassa d’iscrizione unica</td><td></td><td></td></tr>
 <tr><td>*1.2.1* *Dottorandi* (prima dell’esame di dottorato)</td><td>1500</td><td>1500</td></tr>
-<tr><td>*1.2.2* *Programma* *master di formazione postuniversit**a**ria (MAS, MBA, EM)*</td><td></td><td></td></tr>
+<tr><td>*1.2.2* *Programma* *master di formazione postuniversitaria (MAS, MBA, EM)*</td><td></td><td></td></tr>
 <tr><td>– tassa d’iscrizione (da pagare metà nel primo e metà nel secondo semestre)</td><td>1460</td><td>1460</td></tr>
 <tr><td>– contributo ai costi variabile secondo il ciclo di studi</td><td></td><td></td></tr>
 <tr><td>*1.2.3* *Certificato* *o diploma di formazione continua (DAS, CAS)*</td><td></td><td></td></tr>
@@ -427,7 +427,7 @@ Allegato*[^t-2]*
 <tr><td>*1.2.4* *Programmi* *di postformazione secondo l’art. 6 cpv. 2**<sup>bis</sup>*</td><td>730</td><td>730</td></tr>
 </table>
 
-### 1<sup>bis</sup>. Tassa d’iscrizione nel semestre autunnale 2018 e nel semestre primaverile 2019
+### 1*<sup>bis</sup>*. Tassa d’iscrizione nel semestre autunnale 2018 e nel semestre primaverile 2019
 
 <table>
 <tr><th></th><th>PFZ (in CHF)</th><th>PFL (in CHF)</th></tr>
@@ -439,7 +439,7 @@ Allegato*[^t-2]*
 <tr><td>– oppure per unità di crediti formativi (PFL) (al massimo l’importo corrispondente per il semestre)</td><td>–</td><td>50</td></tr>
 <tr><td>1.2 Tassa d’iscrizione unica</td><td></td><td></td></tr>
 <tr><td>*1.2.1* *Dottorandi* (prima dell’esame di dottorato)</td><td>1200</td><td>1200</td></tr>
-<tr><td>*1.2.2* *Programma* *master di formazione postuniversit**a**ria (MAS, MBA, EM)*</td><td></td><td></td></tr>
+<tr><td>*1.2.2* *Programma* *master di formazione postuniversitaria (MAS, MBA, EM)*</td><td></td><td></td></tr>
 <tr><td>– tassa d’iscrizione (da pagare metà nel primo e metà nel secondo semestre)</td><td>1160</td><td>1160</td></tr>
 <tr><td>– contributo ai costi variabile secondo il ciclo di studi</td><td></td><td></td></tr>
 <tr><td>*1.2.3* *Certificato* *o diploma di formazione continua (DAS, CAS)*</td><td></td><td></td></tr>
@@ -448,7 +448,7 @@ Allegato*[^t-2]*
 <tr><td>*1.2.4* *Programmi* *di postformazione secondo l’art. 6 cpv. 2**<sup>bis</sup>*</td><td>580</td><td>580</td></tr>
 </table>
 
-### 1<sup>ter</sup>. Tassa d’iscrizione nel semestre autunnale 2019 e nel semestre primaverile 2020
+### 1*<sup>ter</sup>*. Tassa d’iscrizione nel semestre autunnale 2019 e nel semestre primaverile 2020
 
 <table>
 <tr><th></th><th>PFZ (in CHF)</th><th>PFL (in CHF)</th></tr>
@@ -460,7 +460,7 @@ Allegato*[^t-2]*
 <tr><td>– oppure per unità di crediti formativi (PFL) (al massimo l’importo corrispondente per il semestre)</td><td>–</td><td>50</td></tr>
 <tr><td>1.2 Tassa d’iscrizione unica</td><td></td><td></td></tr>
 <tr><td>*1.2.1* *Dottorandi* (prima dell’esame di dottorato)</td><td>1350</td><td>1350</td></tr>
-<tr><td>*1.2.2* *Programma* *master di formazione postuniversit**a**ria (MAS, MBA, EM)*</td><td></td><td></td></tr>
+<tr><td>*1.2.2* *Programma* *master di formazione postuniversitaria (MAS, MBA, EM)*</td><td></td><td></td></tr>
 <tr><td>– tassa d’iscrizione (da pagare metà nel primo e metà nel secondo semestre)</td><td>1320</td><td>1320</td></tr>
 <tr><td>– contributo ai costi variabile secondo il ciclo di studi</td><td></td><td></td></tr>
 <tr><td>*1.2.3* *Certificato* *o diploma di formazione continua (DAS, CAS)*</td><td></td><td></td></tr>
@@ -498,9 +498,9 @@ Allegato*[^t-2]*
 <tr><td>– Riammissione dopo un’exmatricolazione</td><td>50</td><td>50</td></tr>
 <tr><td>– Richiesta di esonero dalle verifiche delle prestazioni (riconoscimento di crediti formativi acquisiti)</td><td>50</td><td>–</td></tr>
 <tr><td>– Disbrigo di domande di riesame di una decisione</td><td>–</td><td>100</td></tr>
-<tr><td>*2.2.5* *Tassa per la partecipazione al test di idoneità agli studi di bachelor in medicina umana:*</td><td>200</td><td>–</td></tr>
+<tr><td>*2.2.5* *Tassa per la partecipazione al test di idoneità agli studi di bachelor in medicina umana:*</td><td>300</td><td>–</td></tr>
 </table>
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 [^t-3]: Abrogato dal n. II cpv. 2 dell’O del Consiglio dei PF del 3 mar. 2011, con effetto dal 1° mag. 2011 ([RU 2011 1201](https://fedlex.data.admin.ch/eli/oc/2011/176)).
