@@ -4,13 +4,13 @@ number: "171.1"
 title: "Loi sur l'organisation des Conseils et les rapports entre les pouvoirs"
 short: LOCRP
 language: fr
-version: 2022-04-08
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2024-08-31
 version_adopted: 2022-03-10
 adopted: 1996-03-28
 in_force: 1997-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/171.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3021/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3357/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3021/pdf_file"
 
 (LOCRP)
 
-du 28.03.1996 (état 08.04.2022)
+du 28.03.1996 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -717,13 +717,7 @@ ordonne:
 
 #### Art. 65a
 
-**Obligation de présenter un certificat COVID-19 pour accéder à la salle et à la tribune du Grand Conseil**
-
-<sup>1</sup> L’accès à la salle et à la tribune du Grand Conseil est réservé lors des sessions parlementaires aux personnes âgées de 16 ans ou plus sur présentation d’un certificat COVID-19 valide conformément à l’article 6a de la loi fédérale sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19 (Loi COVID-19). Le bureau du Grand Conseil peut suspendre cette mesure si la situation épidémiologique le permet.
-
-<sup>2</sup> Pour les personnes qui doivent avoir accès aux séances du Grand Conseil, les coûts des tests éventuellement nécessaires à l’établissement du certificat sont remboursés. Le bureau du Grand Conseil détermine les catégories de personnes ayant droit au remboursement.
-
-<sup>3</sup> Le service parlementaire règle les modalités du contrôle des certificats.
+**…**
 
 #### Art. 66
 

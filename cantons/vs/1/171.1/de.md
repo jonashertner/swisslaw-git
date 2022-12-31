@@ -4,13 +4,13 @@ number: "171.1"
 title: Gesetz über die Organisation der Räte und die Beziehungen zwischen den Gewalten
 short: GORBG
 language: de
-version: 2022-04-08
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2024-08-31
 version_adopted: 2022-03-10
 adopted: 1996-03-28
 in_force: 1997-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/171.1"
-pdf: "https://lex.vs.ch/api/de/versions/3021/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3357/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3021/pdf_file"
 
 (GORBG)
 
-vom 28.03.1996 (Stand 08.04.2022)
+vom 28.03.1996 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -717,13 +717,7 @@ verordnet:
 
 #### Art. 65a
 
-**Covid-19-Zertifikatspflicht im Saal und auf der Tribüne des Grossen Rates**
-
-<sup>1</sup> Der Zutritt zum Saal und zur Tribüne des Grossen Rates ist während der Sessionen des Parlaments Personen ab 16 Jahren vorbehalten, die ein gültiges Covid-19-Zertifikat gemäss Artikel 6a des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vorweisen können. Das Büro des Grossen Rates kann diese Massnahme aussetzen, wenn die epidemiologische Lage dies zulässt.
-
-<sup>2</sup> Für Personen, die Zutritt zu den Sitzungen des Grossen Rates haben müssen, werden die Kosten für Tests, die für die Ausstellung der Zertifikate unter Umständen erforderlich sind, erstattet. Das Büro des Grossen Rates bestimmt die Personengruppen, die Anspruch auf Erstattung haben.
-
-<sup>3</sup> Der Parlamentsdienst regelt die Modalitäten der Zertifikatskontrolle.
+**…**
 
 #### Art. 66
 
