@@ -4,13 +4,13 @@ number: "510.100"
 title: Gesetz betreffend die Kantonspolizei des Kantons Basel-Stadt
 short: "Polizeigesetz, PolG"
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-09-18
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2021-05-19
 adopted: 1996-11-13
 in_force: 1997-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/510.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5122/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5768/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Polizeigesetz | Polizei
 
 (Polizeigesetz, PolG[^ingress-1])
 
-Vom 13. November 1996 (Stand 1. Januar 2021)
+Vom 13. November 1996 (Stand 1. Januar 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -136,9 +136,7 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei informiert im öffentlichen Interesse und im Rahmen ihrer Zuständigkeit die Bevölkerung, wenn nicht überwiegende, schützenswerte private Interessen entgegenstehen.
 
-<sup>2</sup> Die Information über Strafverfahren richtet sich nach der Strafprozessordnung[^12-1] und der Bundesgesetzgebung.
-
-[^12-1]: § 12 Abs. 2: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
+<sup>2</sup> Die Information über Strafverfahren richtet sich nach der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007 und der weiteren Bundesgesetzgebung.
 
 ## III. Zusammenarbeit
 
@@ -147,6 +145,16 @@ beschliesst:
 **Zusammenarbeit aufgrund des allgemeinen Auftrages**
 
 <sup>1</sup> Die Kantonspolizei arbeitet mit der Staatsanwaltschaft, mit der Polizei anderer Kantone, den Polizei- und Sicherheitsdiensten des Bundes sowie im Rahmen des Bundesrechtes mit Stellen des Auslandes zusammen.
+
+#### § 13a
+
+**Befugnisse entsandter Angehöriger anderer Polizeidienste**
+
+<sup>1</sup> Bei vergleichbarer Aufgabenstellung oder zu Ausbildungszwecken können Angehörige anderer schweizerischer Polizeidienste befristet zur Wahrnehmung polizeilicher Aufgaben der Kantonspolizei Basel-Stadt ermächtigt werden.
+
+<sup>2</sup> Die Kantonspolizei entscheidet im Einzelfall, in welchem Umfang hoheitliche Befugnisse mit der Ermächtigung erteilt werden.
+
+<sup>3</sup> Die ermächtigten Personen dürfen nur unter der Leitung einer Polizistin oder eines Polizisten der Kantonspolizei Basel-Stadt tätig werden.
 
 #### § 14
 
@@ -158,13 +166,13 @@ beschliesst:
 
 **Vereinbarungen**
 
-<sup>1</sup> Der Regierungsrat kann – unter Vorbehalt der Rechte des Grossen Rates und der Gesamtheit der Stimmberechtigten – mit anderen Kantonen und mit dem Bund Konkordate – sowie im Rahmen von Art. 9 der Bundesverfassung – mit dem Ausland Vereinbarungen über die polizeiliche Zusammenarbeit abschliessen.
+<sup>1</sup> Der Regierungsrat kann – unter Vorbehalt der Rechte des Grossen Rates und der Gesamtheit der Stimmberechtigten – mit anderen Kantonen und mit dem Bund Konkordate – sowie im Rahmen von Art. 56 der Bundesverfassung der Schweizerischen Eidgenossenschaft (BV) vom 18. April 1999 – mit dem Ausland Vereinbarungen über die polizeiliche Zusammenarbeit abschliessen.
 
 #### § 16
 
 **Grenzüberschreitender Polizeieinsatz**
 
-<sup>1</sup> Der Regierungsrat kann – unter Vorbehalt von Art. 16 der Bundesverfassung – andere Kantone um den Einsatz von Polizeikräften im Kanton Basel-Stadt ersuchen oder auf Gesuch hin den Einsatz von Teilen der Kantonspolizei in anderen Kantonen bewilligen.
+<sup>1</sup> Der Regierungsrat kann – unter Vorbehalt der Art. 44. Abs. 2, 52 Abs. 2 und 57 Abs. 1 BV – andere Kantone um den Einsatz von Polizeikräften im Kanton Basel-Stadt ersuchen oder auf Gesuch hin den Einsatz von Teilen der Kantonspolizei in anderen Kantonen bewilligen.
 
 <sup>2</sup> Bei hoher zeitlicher und sachlicher Dringlichkeit wie etwa bei schweren Unglücksfällen ist für den Einsatz von Teilen der Kantonspolizei in anderen Kantonen sowie im angrenzenden Ausland die Kantonspolizei zuständig. Einsätze im Ausland dürfen nur mit Bewilligung der zuständigen Stellen des Einsatzortes erfolgen.
 
@@ -172,7 +180,7 @@ beschliesst:
 
 <sup>4</sup> Für das polizeiliche Handeln gilt das Recht des Einsatzortes. Vorbehalten bleiben die Bestimmungen des Konkordates über die Rechtshilfe und die interkantonale Zusammenarbeit in Strafsachen.
 
-<sup>5</sup> Haften aufgrund der am Einsatzort geltenden Bestimmungen Angehörige der Kantonspolizei für die von ihnen verursachten Schäden, so tritt der Kanton Basel-Stadt an ihre Stelle. Ein allfälliger Rückgriff richtet sich nach den Bestimmungen des Beamtengesetzes. Für die Angehörigen der Kantonspolizei gelten in jedem Fall die Bestimmungen des Dienst- und Sozialversicherungsrechts des Kantons Basel-Stadt.
+<sup>5</sup> Haften aufgrund der am Einsatzort geltenden Bestimmungen Angehörige der Kantonspolizei für die von ihnen verursachten Schäden, so tritt der Kanton Basel-Stadt an ihre Stelle. Ein allfälliger Rückgriff richtet sich nach den Bestimmungen des Gesetzes über die Haftung des Staates und seines Personals (Haftungsgesetz, HG) vom 17. November 1999. Für die Angehörigen der Kantonspolizei gelten in jedem Fall die Bestimmungen des Personalrechts des Kantons Basel-Stadt.
 
 <sup>6</sup> Der ausserkantonale Einsatz baselstädtischer Polizeikräfte darf in der Regel erst angeordnet werden, wenn der ersuchende Kanton den Ersatz der Kosten zusichert. Der Kanton Basel-Stadt ersetzt den Kantonen, die auf sein Ersuchen hin Polizeikräfte zur Verfügung stellen, die Kosten.
 
@@ -202,33 +210,36 @@ beschliesst:
 
 #### § 19
 
-**Beamtenrechtliche Bestimmungen**
+**Personalrechtliche Bestimmungen**
 
-<sup>1</sup> Für Angehörige des Polizeikorps gelten die beamtenrechtlichen Bestimmungen der kantonalen Gesetzgebung, soweit dieses Gesetz keine abweichenden Bestimmungen enthält.
+<sup>1</sup> Für Angehörige des Polizeikorps gelten die Bestimmungen des Personalgesetzes vom 17. November 1999, soweit dieses Gesetz und seine nachgeordneten Erlasse keine abweichenden Regelungen enthalten.
 
 #### § 20
 
-**Beamten- und Angestelltenkategorien**
+**Angestelltenkategorien**
 
 <sup>1</sup> Die Kantonspolizei besteht aus:
 
-- 1\. Polizeibeamtinnen und Polizeibeamten (Angehörige des Polizeikorps)
+- 1\. Polizistinnen und Polizisten (Angehörige des Polizeikorps)
 - 2\. Sicherheitsassistentinnen und Sicherheitsassistenten (Angehörige des Polizeikorps)
 - 3\. Zivilpersonal
+- 4\. Mitarbeitende in Ausbildung
 
-<sup>2</sup> Den Polizeibeamtinnen und Polizeibeamten stehen bei der Erfüllung ihrer Aufgaben die gemäss der Gesetzgebung der Kantonspolizei zugewiesenen Befugnisse zu. Sie unterliegen einer besonderen Treuepflicht gegenüber dem Staat und legen ein Gelübde ab.
+<sup>2</sup> Den Polizistinnen und Polizisten stehen bei der Erfüllung ihrer Aufgaben die gemäss der Gesetzgebung der Kantonspolizei zugewiesenen Befugnisse zu. Sie unterliegen einer besonderen Treuepflicht gegenüber dem Staat und legen ein Gelübde ab.
 
 <sup>3</sup> Die Sicherheitsassistentinnen und Sicherheitsassistenten üben polizeiliche Handlungen in einem Teilbereich aus. Sie legen ein Gelübde ab.
 
 <sup>4</sup> Zivilpersonal kann überall dort eingesetzt werden, wo keine polizeiliche Ausbildung notwendig ist bzw. keine polizeilichen Vollzugsmassnahmen anzuordnen oder auszuführen sind.
 
+<sup>5</sup> Mitarbeitende in Ausbildung üben ihre polizeilichen Befugnisse gemäss aktuellem Ausbildungsstand und unter Aufsicht einer vorgesetzten Person aus.
+
 #### § 21
 
 **Aufnahmebedingungen**
 
-<sup>1</sup> In das Polizeikorps kann aufgenommen werden, wer die erforderlichen charakterlichen, geistigen und körperlichen Voraussetzungen erfüllt, die nötige Beziehungsnähe zu unserem Gemeinwesen aufweist und eine polizeiliche Grundschulung mit Erfolg abgeschlossen hat.
+<sup>1</sup> In das Polizeikorps kann aufgenommen werden, wer die erforderlichen charakterlichen, geistigen und körperlichen Voraussetzungen erfüllt, die nötige Beziehungsnähe zum baselstädtischen Gemeinwesen aufweist und eine polizeiliche Grundschulung mit Erfolg abgeschlossen hat.
 
-<sup>2</sup> Die Vorsteherin oder der Vorsteher des zuständigen Departementes entscheidet endgültig über die Aufnahme von Bewerberinnen und Bewerbern in die Polizeischule.
+<sup>2</sup> …
 
 <sup>3</sup> Personen mit besonderen Fachkenntnissen können auch ohne Absolvierung der Polizeischule in das Polizeikorps aufgenommen werden.
 
@@ -280,33 +291,33 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei ist für die Ausbildung der Angehörigen des Polizeikorps und für die Weiterbildung aller Mitarbeiterinnen und Mitarbeiter verantwortlich, soweit sie nicht in die Zuständigkeit der Staatsanwaltschaft fällt.
 
-<sup>2</sup> Beförderungen zu und von Polizeiunteroffizierinnen und -unteroffizieren erfolgen nach Bestehen der entsprechenden Ausbildungskurse.
+<sup>2</sup> …
 
-<sup>3</sup> Die Offiziersausbildung und die fachliche Weiterbildung von Kaderangehörigen sowie Spezialistinnen und Spezialisten erfolgen in enger Zusammenarbeit mit dem Schweizerischen Polizei-Institut sowie weiteren Ausbildungsstätten des In- und Auslandes.
+<sup>3</sup> …
 
 #### § 27
 
 **Entlassung und Austritt aus der Grundausbildung**
 
-<sup>1</sup> In der Grundausbildung Stehende können bei Pflichtverletzungen oder ungenügenden Leistungen durch die Wahlbehörde auf eine Frist von einem Monat entlassen werden. Bei groben Pflichtverletzungen ist eine sofortige Entlassung möglich.
+<sup>1</sup> In der Grundausbildung Stehende können bei Pflichtverletzungen oder ungenügenden Leistungen durch die Anstellungsbehörde auf eine Frist von einem Monat entlassen werden. Bei groben Pflichtverletzungen ist eine sofortige Entlassung möglich.
 
 <sup>2</sup> Der oder die Auszubildende kann während der Probezeit jederzeit austreten.
 
 #### § 28
 
-**Erstattung der Ausbildungskosten**
-
-<sup>1</sup> Bei Übertritt in andere Polizei- oder Sicherheitsdienste innerhalb von drei Jahren nach Abschluss der Grundausbildung ist ein Anteil der Ausbildungskosten zurückzuerstatten. Der Regierungsrat bestimmt den Höchstbetrag auf dem Verordnungsweg. Die Höhe der Rückerstattung richtet sich nach der geleisteten Dienstzeit und reduziert sich jährlich um ein Drittel.
+**…**
 
 #### § 29
 
 **Uniform und Bewaffnung**
 
-<sup>1</sup> Die Beamtinnen und Beamten der Sicherheits-, Grenz- und Verkehrspolizei leisten ihren Dienst uniformiert, diejenigen aus Kriminaldiensten in Zivil. Die Kantonspolizei bestimmt die Ausnahmen.
+<sup>1</sup> Die Polizistinnen und Polizisten leisten ihren Dienst in der Regel uniformiert und bewaffnet. Die Kantonspolizei bestimmt die Ausnahmen.
 
-<sup>2</sup> Die Polizeibeamtinnen und Polizeibeamten versehen ihren Dienst bewaffnet.
+<sup>2</sup> Die Sicherheitsassistentinnen und Sicherheitsassistenten leisten den Dienst uniformiert und unbewaffnet.
 
-<sup>3</sup> Die Sicherheitsassistentinnen und Sicherheitsassistenten leisten den Dienst uniformiert und unbewaffnet. Sicherheitsassistentinnen und Sicherheitsassistenten mit besonderen Aufgaben, namentlich für Bewachung und Transport, leisten den Dienst bewaffnet.
+<sup>3</sup> Sicherheitsassistenten und Sicherheitsassistentinnen mit besonderen Aufgaben – namentlich für Sicherheit und Transport – leisten den Dienst bewaffnet und in der Regel uniformiert.
+
+<sup>4</sup> Die Vorgesetzten der Mitarbeitenden in Ausbildung entscheiden situativ über das Tragen von Uniform und der Waffe im Sinne von § 20 Abs. 5.
 
 #### § 30
 
@@ -327,9 +338,7 @@ beschliesst:
 
 <sup>1</sup> Für die Aufgabenerfüllung der Kantonspolizei gelten die nachstehenden Bestimmungen über die polizeilichen Massnahmen und den polizeilichen Zwang.
 
-<sup>2</sup> Die Voraussetzung für die Anwendung polizeilichen Zwangs im Rahmen der Strafverfolgung werden unter Vorbehalt strafprozessualer Bestimmungen des Bundesrechts in der Strafprozessordnung[^31-1] geregelt.
-
-[^31-1]: § 31 Abs. 2: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
+<sup>2</sup> Die Voraussetzung für die Anwendung polizeilichen Zwangs im Rahmen der Strafverfolgung werden in der StPO und im Gesetz über die Einführung der Schweizerischen Strafprozessordnung (EG StPO) vom 13. Oktober 2010 geregelt.
 
 #### § 32
 
@@ -384,6 +393,20 @@ beschliesst:
 
 <sup>4</sup> Die Art. 141, 151 und 286 bis 298 StPO sind sinngemäss anwendbar.
 
+#### § 33c
+
+**Verdeckte Registrierung und gezielte Kontrolle**
+
+<sup>1</sup> Daten über Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container können zur verdeckten Registrierung oder gezielten Kontrolle in Fahndungssysteme aufgenommen werden.
+
+<sup>2</sup> Eine Ausschreibung dieser Art ist zulässig zur Strafverfolgung und zur Abwehr von Gefahren für die öffentliche Sicherheit oder zur Wahrung der inneren Sicherheit, wenn
+
+- 1\. tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person eine schwere Straftat gemäss Art. 286 Abs. 2 StPO plant oder begeht;
+- 2\. die Gesamtbeurteilung einer Person, insbesondere aufgrund der bisher von ihr begangenen Straftaten, erwarten lässt, dass sie auch künftig schwere Straftaten gemäss Art. 286 Abs. 2 StPO begehen wird oder
+- 3\. tatsächliche Anhaltspunkte dafür vorliegen, dass von der betroffenen Person eine erhebliche Gefährdung für die innere Sicherheit ausgeht.
+
+<sup>3</sup> Bei der gezielten Kontrolle können zur Erreichung der in Abs. 2 genannten Zwecke die Person, das von ihr allfällig benützte Fahrzeug oder die mitgeführten Sachen durchsucht werden.
+
 #### § 34
 
 **Personen- und Fahrzeugkontrolle**
@@ -402,9 +425,7 @@ beschliesst:
 
 **Festnahme, vorläufige Festnahme**
 
-<sup>1</sup> Für die Festnahme zum Vollzug von Vorführungs- und Haftbefehlen, die vorläufige Festnahme sowie die Sicherheitshaft gelten die Bestimmungen der Strafprozessordnung[^36-1] sowie des Übertretungsstrafgesetzes.
-
-[^36-1]: § 36: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
+<sup>1</sup> Für die Festnahme zum Vollzug von Vorführungs- und Haftbefehlen, die vorläufige Festnahme sowie die Sicherheitshaft gelten die Bestimmungen der StPO, des EG StPO sowie des Übertretungsstrafgesetzes (ÜStG) vom 13. Februar 2019.
 
 #### § 37
 
@@ -609,11 +630,27 @@ beschliesst:
 
 **Notsuche vermisster Personen**
 
-<sup>1</sup> Die Kantonspolizei ist im Rahmen der Suche und Rettung vermisster Personen gemäss Art. 3a des Bundesgesetzes betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) befugt, ausserhalb eines Strafverfahrens die Überwachung des Fernmeldeverkehrs (Teilnehmeridentifikation und Verkehrsdaten) anzuordnen.
+<sup>1</sup> Die Kantonspolizei ist im Rahmen der Suche und Rettung vermisster Personen gemäss Art. 35 des Bundesgesetzes betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) vom 18. März 2016 befugt, ausserhalb eines Strafverfahrens die Überwachung des Fernmeldeverkehrs (Teilnehmeridentifikation und Verkehrsdaten) anzuordnen.
 
 <sup>2</sup> Die Kantonspolizei legt die interne Zuständigkeit fest.
 
-<sup>3</sup> Die Anordnung der Notsuche ist nachträglich durch das Zwangsmassnahmengericht zu genehmigen.
+<sup>3</sup> …
+
+#### § 43b
+
+**Fahndung nach verurteilten Personen**
+
+<sup>1</sup> Die Kantonspolizei ist im Rahmen der Suche nach verurteilten Personen gemäss Art. 36 BÜPF befugt, ausserhalb eines Strafverfahrens die Überwachung des Fernmeldeverkehrs (Teilnehmeridentifikation und Verkehrsdaten) anzuordnen.
+
+<sup>2</sup> Die Kantonspolizei legt die interne Zuständigkeit fest.
+
+#### § 43c
+
+**Genehmigung für die Notsuche nach § 43a und Fahndung nach verurteilten Personen nach § 43b und Rechtsmittel**
+
+<sup>1</sup> Das Genehmigungsverfahren richtet sich sinngemäss nach den Art. 274 – 279 StPO.
+
+<sup>2</sup> Für Beschwerden in sinngemässer Anwendung von Art. 279 Abs. 3 StPO ist das Appellationsgericht zuständig.
 
 #### § 44
 
@@ -625,9 +662,9 @@ beschliesst:
 
 **Durchsuchung der Kleidung von Personen**
 
-<sup>1</sup> Die Kantonspolizei durchsucht die Kleidung von Personen, wenn
+<sup>1</sup> Die Kantonspolizei durchsucht die Kleidung von Personen, wenn:
 
-- 1\. dies nach den Umständen zum Schutz der Polizeibeamtin oder des Polizeibeamten oder einer dritten Person erforderlich erscheint;
+- 1\. dies nach den Umständen zum Schutz der Polizistin oder des Polizisten oder einer dritten Person erforderlich erscheint;
 - 2\. Gründe für ein polizeiliches Festhalten nach diesem oder einem anderen Gesetz gegeben sind;
 - 3\. begründeter Verdacht besteht, dass sie Sachen in Gewahrsam hat, die von Gesetzes wegen sichergestellt werden dürfen;
 - 4\. dies zur Identitätsfeststellung notwendig ist;
@@ -652,6 +689,8 @@ beschliesst:
 - 1\. Menschen angreifen, Widerstand leisten oder Sachen beschädigen wird;
 - 2\. fliehen wird oder befreit werden soll;
 - 3\. sich töten oder verletzen wird.
+
+<sup>2</sup> Eine Person darf festgehalten und mit Fesseln gesichert werden, wenn dies zu Beweissicherungszwecken erforderlich ist.
 
 #### § 48
 
@@ -729,7 +768,7 @@ beschliesst:
 
 **Verwertung, Vernichtung**
 
-<sup>1</sup> Eine sichergestellte Sache darf – unter Vorbehalt der Bestimmungen der Strafprozessordnung[^54-1] – verwertet werden, wenn
+<sup>1</sup> Eine sichergestellte Sache darf – unter Vorbehalt der Bestimmungen der StPO und des EG StPO – verwertet werden, wenn:
 
 - 1\. sie von der berechtigten Person trotz Aufforderung nicht innert drei Monaten abgeholt wird. Die Verwertungsfolge ist in der Abholungsaufforderung anzudrohen;
 - 2\. niemand Anspruch auf die Sache erhebt;
@@ -739,8 +778,6 @@ beschliesst:
 <sup>2</sup> Sachen können vernichtet werden, wenn die Voraussetzungen der Verwertung vorliegen und die Aufwendungen für die Aufbewahrung und Verwertung den erzielbaren Erlös offensichtlich übersteigen.
 
 <sup>3</sup> Für gefährliche Gegenstände finden die Bestimmungen des Waffengesetzes Anwendung.
-
-[^54-1]: § 54 Abs. 1: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
 
 #### § 55
 
@@ -930,7 +967,7 @@ beschliesst:
 
 **Staatshaftung und persönliche Verantwortlichkeit**
 
-<sup>1</sup> Für Schäden, die bei einer dienstlichen Verrichtung Privaten widerrechtlich zugefügt werden, gelten die Bestimmungen des Beamtengesetzes.
+<sup>1</sup> Für Schäden, die bei einer dienstlichen Verrichtung Privaten widerrechtlich zugefügt werden, gelten die Bestimmungen des Haftungsgesetzes.
 
 <sup>2</sup> Der Kanton leistet auch für den Schaden Ersatz, den die Kantonspolizei gemäss § 11 rechtmässig verursacht hat, wenn einzelne unverhältnismässig schwer betroffen sind und ihnen nicht zugemutet werden kann, den Schaden selber zu tragen.
 
@@ -964,15 +1001,13 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erlässt die notwendigen Ausführungsbestimmungen.
 
-<sup>2</sup> Die Kantonspolizei erlässt aufgrund dieses Gesetzes und der Strafprozessordnung[^72-1] die notwendigen Dienstvorschriften.
-
-[^72-1]: § 72 Abs. 2: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
+<sup>2</sup> Die Kantonspolizei erlässt aufgrund dieses Gesetzes, der StPO und des EG StPO die notwendigen Dienstvorschriften.
 
 #### § 73
 
 **Strafbestimmungen**
 
-<sup>1</sup> Das Übertretungsstrafgesetz vom 15. Juni 1978 enthält die Strafbestimmungen zu diesem Gesetz.
+<sup>1</sup> Das ÜStG enthält die Strafbestimmungen zu diesem Gesetz.
 
 #### § 74
 
