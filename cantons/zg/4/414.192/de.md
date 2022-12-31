@@ -3,20 +3,19 @@ canton: ZG
 number: "414.192"
 title: Promotionsordnung für die Fachmittelschule
 language: de
-version: 2020-08-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-10
+version: 2023-01-01
+version_adopted: 2022-11-07
 adopted: 2005-03-16
 in_force: 2005-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.192"
-pdf: "https://bgs.zg.ch/api/de/versions/2119/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2379/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Promotionsordnung für die Fachmittelschule
 
-Vom 16. März 2005 (Stand 1. August 2020)
+Vom 16. März 2005 (Stand 1. Januar 2023)
 
 Die Schulkommission der kantonalen Mittelschulen des Kantons Zug,
 
@@ -33,6 +32,8 @@ beschliesst:
 <sup>1</sup> Die Leistungsbeurteilungen erfolgen auf einer Notenskala von 1 bis 6.
 
 <sup>2</sup> Die Fachnoten ergeben sich aus dem arithmetischen Mittel der einzelnen Beurteilungen und werden auf halbe Noten gerundet.
+
+<sup>2a</sup> Der Durchschnitt der Fachnoten wird auf die Dezimalstelle gerundet.
 
 <sup>3</sup> Die Lernenden erhalten am Ende des ersten Semesters jedes Schuljahres ein Notenzeugnis mit informativem Charakter; es ist nicht promotionswirksam. Das Zeugnis enthält Angaben über die Leistungen in den einzelnen Fächern für das abgelaufene Semester und bestätigt den Besuch des Unterrichts in weiteren Fächern.
 
@@ -58,11 +59,11 @@ beschliesst:
 
 **Promotionsfächer**
 
-<sup>1</sup> Promotionsfächer in der 1. Klasse sind Deutsch, zwei Fremdsprachen (aus Englisch, Italienisch, Französisch), das Mittel der Einzelwertungen aus Informatik/Medienkunde, Mathematik, Integrierte Naturwissenschaften, Physik, Geschichte, Gesellschaftskunde, Psychologie, Sport sowie das Mittel der Einzelwertungen aus Gestalten/Musik/Kunstgeschichte.
+<sup>1</sup> Promotionsfächer in der 1. Klasse sind Deutsch, zwei Fremdsprachen (aus Englisch, Französisch und Italienisch), Mathematik, Biologie, Physik, das Mittel der Einzelwertungen aus Informatik und Medienkunde, das Mittel der Einzelwertungen aus Geschichte, Geographie sowie Staat und Gesellschaft, Sozialwissenschaften (Psychologie), das Mittel der Einzelwertungen aus Bildnerischem Gestalten/Kunstgeschichte/Musik und Sport.
 
-<sup>2</sup> Promotionsfächer in der 2. Klasse im Berufsfeld Gesundheit sind Deutsch, zwei Fremdsprachen (aus Englisch, Italienisch, Französisch), Mathematik, Integrierte Naturwissenschaften, Geschichte, Volkswirtschaft/Betriebswirtschaft/Recht, Philosophie, das Mittel der Einzelwertungen aus Gestalten/Musik/Kunstgeschichte, Sport, sowie die folgenden berufsfeldbezogenen Fächer: Chemie, Gesellschaftskunde und Psychologie.
+<sup>2</sup> Promotionsfächer in der 2. Klasse im Berufsfeld Gesundheit sind Deutsch, zwei Fremdsprachen (aus Englisch, Französisch und Italienisch), Mathematik, das Mittel der Einzelwertungen aus Biologie und Gesundheitslehre, Chemie, das Mittel der Einzelwertungen aus Geschichte und Geographie, das Mittel der Einzelwertungen aus Psychologie und Philosophie, das Mittel der Einzelwertungen aus Wirtschaft und Recht sowie Staat und Gesellschaft, das Mittel der Einzelwertungen aus Bildnerischem Gestalten/Musik/Kunstgeschichte und Sport.
 
-<sup>3</sup> Promotionsfächer in der 2. Klasse im Berufsfeld Pädagogik und Soziale Arbeit sind Deutsch, zwei Fremdsprachen (aus Englisch, Italienisch, Französisch), Mathematik, Integrierte Naturwissenschaften, Geschichte, Volkswirtschaft/Betriebswirtschaft/Recht, Philosophie, Sport, sowie die folgenden berufsfeldbezogenen Fächer: das Mittel der Einzelwertungen Gestalten/Musik/Kunstgeschichte, Gesellschaftskunde, Psychologie, Chemie.
+<sup>3</sup> Promotionsfächer in der 2. Klasse im Berufsfeld Pädagogik und Soziale Arbeit sind Deutsch, zwei Fremdsprachen (aus Englisch, Französisch und Italienisch), Mathematik, Biologie, Chemie, das Mittel der Einzelwertungen aus Geschichte und Geografie, das Mittel der Einzelwertungen aus Psychologie und Philosophie, das Mittel der Einzelwertungen aus Wirtschaft und Recht sowie Staat und Gesellschaft, das Mittel der Einzelwertungen aus Bildnerischem Gestalten/Musik/Kunstgeschichte und Sport.
 
 #### § 4
 
@@ -83,6 +84,8 @@ beschliesst:
 <sup>1</sup> Schülerinnen und Schüler, die nicht befördert werden, haben die Möglichkeit, die 2. und 3. Klasse zu repetieren.
 
 <sup>2</sup> Die Wiederholung des ersten Schuljahres ist in der Regel nicht möglich. Die Promotionskonferenz kann aber auf Antrag und in Einzelfällen eine Wiederholung bewilligen.
+
+<sup>3</sup> Die freiwillige Repetition gilt als Nichtpromotion.
 
 #### § 6
 
@@ -108,14 +111,16 @@ beschliesst:
 
 **…**
 
+#### § 8a
+
+**Rechtsmittel**
+
+<sup>1</sup> Der Rechtsschutz gegen Entscheide gestützt auf die vorliegende Promotionsordnung richtet sich nach den Bestimmungen der Rechtspflege des Schulgesetzes vom 27. September 1990[^8a-1].
+
+[^8a-1]: BGS [412.11](https://bgs.zg.ch/data/412.11/de)
+
 #### § 9
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Promotionsordnung tritt auf den 1. August 2005 in Kraft.
-
-<sup>2</sup> Die Promotionsordnung für die Diplommittelschule vom 28. Januar 2002[^9-1] wird auf den 31. Juli 2005 aufgehoben.
-
-[^9-1]: GS 27, 505
+**…**
 
 GS 28, 401
