@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2015 über die Finanzmarktinfrastrukturen un
 short: FinfraV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: de
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20221001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/de"
 
 (Finanzmarktinfrastrukturverordnung, FinfraV)
 
-vom 25. November 2015 (Stand am 1. Oktober 2022)
+vom 25. November 2015 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -2600,13 +2600,14 @@ Die Pflicht zur Meldung an ein Transaktionsregister nach Artikel 104 FinfraG mus
 
 - a. nach 6 Monaten, gerechnet ab der ersten Bewilligung oder Anerkennung eines Transaktionsregisters durch die FINMA: für zu diesem Zeitpunkt offene Derivatgeschäfte, wenn die zur Meldung verpflichtete Person keine kleine Finanzielle Gegenpartei oder eine zentrale Gegenpartei ist;
 - b. nach 9 Monaten, gerechnet ab der ersten Bewilligung oder Anerkennung eines Transaktionsregisters durch die FINMA: für zu diesem Zeitpunkt offene Derivatgeschäfte, wenn die zur Meldung verpflichtete Person eine kleine Finanzielle Gegenpartei oder eine Nichtfinanzielle Gegenpartei ist, die nicht klein ist;
-- c. ab dem 1. Januar 2024: für zu diesem Zeitpunkt offene Derivatgeschäfte in allen übrigen Fällen.[^130-1]
+- c.[^130-1] ab dem 1. Januar 2028: für zu diesem Zeitpunkt offene Derivatgeschäfte in allen übrigen Fällen.[^130-2]
 
 <sup>2</sup> Für die Meldung von Derivatgeschäften, die über Handelsplätze oder den Betreiber eines organisierten Handelssystems gehandelt wurden, verlängern sich die Fristen nach Absatz 1 um jeweils 6 Monate.
 
 <sup>3</sup> In besonderen Fällen kann die FINMA die Fristen nach diesem Artikel erstrecken.
 
-[^130-1]: Fassung gemäss Ziff. I der V vom 14. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
+[^130-1]: Fassung gemäss Ziff. I der V vom 30. Sept. 2022, in Kraft seit 1. Jan. 2023 (AS **20****22** 576).
+[^130-2]: Fassung gemäss Ziff. I der V vom 14. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
 
 #### Art. 131
 
@@ -2673,7 +2674,7 @@ Die Pflicht nach Artikel 114 zur Prüfung durch die Revisionsstellen gilt nach 1
 [^133-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^133-3]: Fassung gemäss Ziff. I der V des EDI vom 4. Sept. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
 [^133-4]: Eingefügt durch Ziff. I der V des EDI vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
-[^133-5]: Eingefügt durch Ziff. I der V des EDI vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 (AS **202****2** 489).
+[^133-5]: Eingefügt durch Ziff. I der V des EDI vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 489](https://fedlex.data.admin.ch/eli/oc/2022/489)).
 
 #### Art. 134
 

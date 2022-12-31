@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2015 sur les infrastructures des marchés fina
 short: OIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: fr
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20221001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/fr"
 
 (Ordonnance sur l’infrastructure des marchés financiers, OIMF)
 
-du 25 novembre 2015 (État le 1<sup>er</sup> octobre 2022)
+du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -2600,13 +2600,14 @@ L’obligation de déclarer à un référentiel central au sens de l’art. 104 
 
 - a. après six mois à compter de la première autorisation ou reconnaissance d’un référentiel central par la FINMA: pour les opérations sur dérivés en cours à ce moment-là, lorsque la personne tenue à l’obligation de déclarer n’est ni une petite contrepartie financière, ni une contrepartie centrale;
 - b. après neuf mois à compter de la première autorisation ou reconnaissance d’un référentiel central par la FINMA: pour les opérations sur dérivés en cours à ce moment-là, lorsque la personne tenue à l’obligation de déclarer est une petite contrepartie financière ou une contrepartie non financière qui n’est pas petite;
-- c. le 1<sup>er</sup> janvier 2024: pour les opérations sur dérivés en cours à ce moment-là, dans tous les autres cas.[^130-1]
+- c.[^130-1] le 1<sup>er</sup> janvier 2028: pour les opérations sur dérivés en cours à ce moment-là, dans tous les autres cas.[^130-2]
 
 <sup>2</sup> Les délais énoncés à l’al. 1 sont prolongés de six mois pour la déclaration d’opérations sur dérivés négociées sur des plates-formes de négociation ou par l’intermédiaire des exploitants d’un système organisé de négociation.
 
 <sup>3</sup> Dans certains cas, la FINMA peut prolonger les délais prévus par le présent article.
 
-[^130-1]: Nouvelle teneur selon le ch. I de l’O du 14 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
+[^130-1]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 576](https://fedlex.data.admin.ch/eli/oc/2022/576)).
+[^130-2]: Nouvelle teneur selon le ch. I de l’O du 14 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
 
 #### Art. 131
 

@@ -4,11 +4,11 @@ title: "Ordinance of 25 November 2015 on Financial Market Infrastructures and Ma
 short: FinMIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: en
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20221001/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20221001-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Infrastructure Ordinance, FinMIO)
 
-of 25 November 2015 (Status as of 1 October 2022)
+of 25 November 2015 (Status as of 1 January 2023)
 
 The Swiss Federal Council
 
@@ -2602,13 +2602,14 @@ The duty to report to a trade repository under Article 104 FinMIA must be fulfil
 
 - a. within six months of the first authorisation or recognition of the trade repository by FINMA: for derivatives transactions outstanding at this point if the person obliged to report is not a small financial counterparty or a central counterparty;
 - b. within nine months of the first authorisation or recognition of the trade repository by FINMA: for derivatives transactions outstanding at this point if the person obliged to report is a small financial counterparty or a non-financial counterparty which is not small;
-- c. by 1 January 2024: for derivatives transactions outstanding at this point in all other cases.[^130-1]
+- c.[^130-1] by 1 January 2028: for derivatives transactions outstanding at this point in all other cases.[^130-2]
 
 <sup>2</sup> The deadlines set out in paragraph 1 shall be extended by six months in each case for the reporting of derivatives transactions that are traded via trading venues or via the operator of an organised trading facility.
 
 <sup>3</sup> In special cases, FINMA may extend the timeframes set out in this Article.
 
-[^130-1]: Amended by No I of the O of 14 Sept. 2018, in force since 1 Jan. 2019 ([AS 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
+[^130-1]: Amended by No I of the O of 30 Sept. 2022, in force since 1 Jan. 2023 ([AS 2022 576](https://fedlex.data.admin.ch/eli/oc/2022/576)).
+[^130-2]: Amended by No I of the O of 14 Sept. 2018, in force since 1 Jan. 2019 ([AS 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
 
 #### Art. 131
 

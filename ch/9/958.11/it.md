@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2015 sulle infrastrutture del mercato finanzia
 short: OInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: it
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20221001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/it"
 
 (Ordinanza sull’infrastruttura finanziaria, OInFi)
 
-del 25 novembre 2015 (Stato 1° ottobre 2022)
+del 25 novembre 2015 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -2600,13 +2600,14 @@ L’obbligo di comunicazione a un repertorio di dati sulle negoziazioni di cui a
 
 - a. dopo 6 mesi, a partire dalla prima autorizzazione o dal primo riconoscimento di un repertorio di dati da parte della FINMA, se la persona tenuta a effettuare la comunicazione non è una piccola controparte finanziaria o è una controparte centrale;
 - b. dopo 9 mesi, a partire dalla prima autorizzazione o dal primo riconoscimento di un repertorio di dati da parte della FINMA, se la persona tenuta a effettuare la comunicazione è una piccola controparte finanziaria o una controparte non finanziaria che non è piccola;
-- c. dal 1° gennaio 2024, per le operazioni in derivati in corso a tale data in tutti gli altri casi.[^130-1]
+- c.[^130-1] dal 1° gennaio 2028, per le operazioni in derivati in corso a tale data in tutti gli altri casi.[^130-2]
 
 <sup>2</sup> Per la comunicazione di operazioni in derivati negoziate per il tramite di sedi di negoziazione o del gestore di un sistema organizzato di negoziazione ciascun termine di cui al capoverso 1 si prolunga di sei mesi.
 
 <sup>3</sup> In casi particolari la FINMA può prorogare i termini di cui al presente articolo.
 
-[^130-1]: Nuovo testo giusta il n. I dell’O del 14 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
+[^130-1]: Nuovo testo giusta il n. I dell’O del 30 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 576](https://fedlex.data.admin.ch/eli/oc/2022/576)).
+[^130-2]: Nuovo testo giusta il n. I dell’O del 14 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3377](https://fedlex.data.admin.ch/eli/oc/2018/548)).
 
 #### Art. 131
 
