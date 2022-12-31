@@ -4,22 +4,22 @@ title: "Loi fédérale du 22 décembre 1916 sur l'utilisation des forces hydraul
 short: LFH
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur l’utilisation des forces hydrauliques
 
-(Loi sur les forces hydrauliques**[^t-1]**, LFH**[^t-2]**)
+(Loi sur les forces hydrauliques[^t-1], LFH[^t-2])
 
-du 22 décembre 1916 (Etat le 1<sup>er</sup> janvier 2021)
+du 22 décembre 1916 (État le 1<sup>er</sup> janvier 2023)
 
-[^t-1]: Introduit par le ch. I 1 de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 1019](https://fedlex.data.admin.ch/eli/fga/2009/267)[1045](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 321](https://fedlex.data.admin.ch/eli/fga/2010/91)).
+[^t-1]: Introduit par le ch. I 1 de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 1019](https://fedlex.data.admin.ch/eli/fga/2009/267), [1045](https://fedlex.data.admin.ch/eli/fga/2009/269); [2010 321](https://fedlex.data.admin.ch/eli/fga/2010/91)).
 [^t-2]: Introduite par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 L’Assemblée fédérale de la Confédération suisse,
@@ -205,9 +205,9 @@ En cas d’utilisation de la force hydraulique de sections de cours d’eau touc
 
 <sup>3</sup> Si le canton percevait, au moment de la cession, l’impôt spécial prévu à l’art. 49, al. 3, il doit également être dédommagé de cette perte.
 
-<sup>4</sup> ...[^13-1]
+<sup>4</sup> …[^13-1]
 
-[^13-1]: Abrogé par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^13-1]: Abrogé par l’annexe ch. 29 de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### c. Compensation pour perte d’impôts
 
@@ -223,12 +223,12 @@ En cas d’utilisation de la force hydraulique de sections de cours d’eau touc
 
 <sup>3</sup> Il appartient au canton de verser tout ou partie de l’indemnité aux communes, districts ou autres communautés subissant une perte d’impôts.
 
-<sup>4</sup> ...[^14-4]
+<sup>4</sup> …[^14-4]
 
 [^14-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^14-2]: Introduit par le ch. I de la LF du 21 déc. 1967, en vigueur depuis le 1<sup>er</sup> juil. 1968 ([RO 1968 841](https://fedlex.data.admin.ch/eli/oc/1968/801_841_757); [FF 1967 I 1037](https://fedlex.data.admin.ch/eli/fga/1967/1_1025_1037_701)).
 [^14-3]: Introduit par le ch. I de la LF du 21 déc. 1967, en vigueur depuis le 1<sup>er</sup> juil. 1968 ([RO 1968 841](https://fedlex.data.admin.ch/eli/oc/1968/801_841_757); [FF 1967 I 1037](https://fedlex.data.admin.ch/eli/fga/1967/1_1025_1037_701)).
-[^14-4]: Abrogé par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^14-4]: Abrogé par l’annexe ch. 29 de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### 9. Régularisation des cours d’eau
 
@@ -242,9 +242,9 @@ En cas d’utilisation de la force hydraulique de sections de cours d’eau touc
 
 <sup>3</sup> Si plusieurs cantons sont intéressés, les frais sont répartis proportionnellement à leur intérêt.
 
-<sup>4</sup> Les communes, corporations et particuliers intéressés peuvent être appelés par l’autorité cantonale à participer aux frais de l’ouvrage, en proportion des avantages qu’ils en retirent. ...[^15-1]
+<sup>4</sup> Les communes, corporations et particuliers intéressés peuvent être appelés par l’autorité cantonale à participer aux frais de l’ouvrage, en proportion des avantages qu’ils en retirent. …[^15-1]
 
-[^15-1]: Phrase abrogée par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^15-1]: Phrase abrogée par l’annexe ch. 29 de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### b. Règlement de barrage
 
@@ -320,7 +320,7 @@ Si le canton perçoit un impôt spécial sur l’énergie produite par des usine
 
 <sup>3</sup> La Confédération alloue aux collectivités concernées des montants compensatoires en vue de combler le manque à gagner résultant d’une restriction considérable de l’utilisation de forces hydrauliques en tant que celui-ci est imputable à la sauvegarde et à la protection de sites d’importance nationale dignes d’être protégés.[^22-1]
 
-<sup>4</sup> ...[^22-2]
+<sup>4</sup> …[^22-2]
 
 <sup>5</sup> Le Conseil fédéral fixe les modalités de l’indemnisation.[^22-3]
 
@@ -396,9 +396,9 @@ Dans la perspective d’aménager, pour la navigation, les cours d’eau cités 
 
 <sup>1</sup> Celui qui construit une usine est tenu d’établir et de desservir les installations nécessaires au flottage, si les frais qui en résultent sont proportionnés à l’importance du flottage.
 
-<sup>2</sup> Le propriétaire d’une usine existante ne peut être astreint à construire des installations servant au flottage et à les desservir que moyennant une indemnité équitable. ...[^28-1]
+<sup>2</sup> Le propriétaire d’une usine existante ne peut être astreint à construire des installations servant au flottage et à les desservir que moyennant une indemnité équitable. …[^28-1]
 
-[^28-1]: Phrase abrogée par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^28-1]: Phrase abrogée par l’annexe ch. 29 de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### VI. Hydrométrie
 
@@ -563,7 +563,7 @@ En statuant sur les demandes de concession, l’autorité tient compte de l’in
 
 <sup>1</sup> La concession est accordée à une personne physique ou morale nominalement désignée ou à une communauté de personnes.
 
-<sup>2</sup> à <sup>4</sup> ...[^40-1]
+<sup>2</sup> à <sup>4</sup> …[^40-1]
 
 [^40-1]: Abrogés par le ch. I de la LF du 13 déc. 1996, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -581,7 +581,7 @@ En cas de compétition, la préférence est donnée à l’entreprise qui sert l
 
 <sup>2</sup> L’agrément ne peut être refusé si l’acquéreur satisfait à toutes les exigences de la concession et si le transfert n’est pas contraire à l’intérêt public.
 
-<sup>3</sup> ...[^42-1]
+<sup>3</sup> …[^42-1]
 
 [^42-1]: Abrogé par le ch. I de la LF du 13 déc. 1996, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -595,9 +595,9 @@ En cas de compétition, la préférence est donnée à l’entreprise qui sert l
 
 <sup>2</sup> Une fois concédé, le droit d’utilisation ne peut être retiré ou restreint sauf pour cause d’utilité publique et moyennant indemnité
 
-<sup>3</sup> ...[^43-1]
+<sup>3</sup> …[^43-1]
 
-[^43-1]: Abrogé par le ch. 29 de l’annexe à la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^43-1]: Abrogé par l’annexe ch. 29 de la LF du 4 oct. 1991, avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### II. Restriction du fait de travaux publics
 
@@ -607,10 +607,10 @@ En cas de compétition, la préférence est donnée à l’entreprise qui sert l
 
 <sup>2</sup> Si la construction ou l’exploitation d’une usine sont entravées ou interrompues temporairement par des travaux de correction du cours d’eau, ou par d’autres travaux de la police des eaux, le concessionnaire n’a droit à aucune indemnité, à moins que ces travaux ne soient prolongés sans nécessité.
 
-<sup>3</sup> ...[^44-2]
+<sup>3</sup> …[^44-2]
 
-[^44-1]: Nouvelle teneur selon le ch. 29 de l’annexe à la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2 al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^44-2]: Abrogé par le ch. 29 de l’annexe à la LF du 4 oct. 1991 , avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^44-1]: Nouvelle teneur selon l’annexe ch. 29 de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2 al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^44-2]: Abrogé par l’annexe ch. 29 de la LF du 4 oct. 1991 , avec effet au 1<sup>er</sup> janv. 1994 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2, al. 1; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### III. Rapports avec les tiers
 
@@ -674,9 +674,9 @@ La procédure d’expropriation et l’indemnisation sont régies par la LEx[^47
 
 [^49-1]
 
-<sup>1</sup> La redevance hydraulique annuelle ne peut excéder 110 francs par kilowatt théorique jusqu’à fin 2024. Sur ce montant, la Confédération peut percevoir au plus 1 franc par kilowatt théorique afin de financer les montants compensatoires alloués aux cantons et aux communes en vertu de l’art. 22, al. 3 à 5.[^49-2]
+<sup>1</sup> La redevance hydraulique annuelle ne peut excéder 110 francs par kilowatt théorique jusqu’à fin 2030. Sur ce montant, la Confédération peut percevoir au plus 1 franc par kilowatt théorique afin de financer les montants compensatoires alloués aux cantons et aux communes en vertu de l’art. 22, al. 3 à 5.[^49-2]
 
-<sup>1bis</sup> En temps utile, le Conseil fédéral soumet à l’Assemblée fédérale un projet d’acte fixant le taux maximal de la redevance hydraulique applicable à partir du 1<sup>er</sup> janvier 2025.[^49-3]
+<sup>1bis</sup> En temps utile, le Conseil fédéral soumet à l’Assemblée fédérale un projet d’acte fixant le taux maximal de la redevance hydraulique applicable à partir du 1<sup>er</sup> janvier 2031.[^49-3]
 
 <sup>2</sup> Les aménagements hydro-électriques faisant l’objet d’une concession et l’énergie qu’ils produisent ne peuvent être grevés d’impôts spéciaux.[^49-4] Toutefois, si la législation cantonale fixe une redevance maximum inférieure au taux admis par les prescriptions fédérales, le canton peut percevoir un impôt spécial, pourvu que les deux taxes réunies n’excèdent pas ce taux.
 
@@ -685,8 +685,8 @@ La procédure d’expropriation et l’indemnisation sont régies par la LEx[^47
 <sup>4</sup> Les aménagements hydro-électriques dont la puissance n’excède pas 1 mégawatt sont exemptés de la redevance hydraulique annuelle. Pour ceux dont la puissance s’échelonne entre 1 et 2 mégawatts, il convient de prévoir, au plus, une augmentation linéaire allant jusqu’au maximum prévu à l’al. 1.
 
 [^49-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^49-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
-[^49-3]: Introduit par le ch. I 1 de la LF du 18 juin 2010 ([RO 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 1019](https://fedlex.data.admin.ch/eli/fga/2009/267)[1045](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 321](https://fedlex.data.admin.ch/eli/fga/2010/91)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^49-2]: Nouvelle teneur selon le ch. II de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^49-3]: Introduit par le ch. I 1 de la LF du 18 juin 2010 ([RO 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 1019](https://fedlex.data.admin.ch/eli/fga/2009/267), [1045](https://fedlex.data.admin.ch/eli/fga/2009/269); [2010 321](https://fedlex.data.admin.ch/eli/fga/2010/91)). Nouvelle teneur selon le ch. II de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^49-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 3539](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
 
 ### b. Réduction durant la période de construction
@@ -795,7 +795,7 @@ Outre les dispositions obligatoires, les concessions peuvent contenir d’autres
 - b. sur la justification du capital de construction, ainsi que sur les comptes de construction et d’exploitation;
 - c. sur la participation de la communauté concédante à l’administration et sur sa part aux bénéfices;
 - d. sur les tarifs pour la vente de l’énergie, sur la cession de l’énergie à titre gratuit ou à prix réduit, sur la réduction des prix de vente en raison du rendement financier et sur l’alimentation d’une région en énergie;
-- e.[^55-1] ...
+- e.[^55-1] …
 
 [^55-1]: Abrogée par le ch. I de la LF du 13 déc. 1996, avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -871,7 +871,7 @@ Les concessions octroyées pour trente ans au moins peuvent être immatriculées
 <sup>4</sup> Le Conseil fédéral peut édicter d’autres dispositions de procédure.
 
 [^60-1]: Introduit par le ch. I 1 de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3229](https://fedlex.data.admin.ch/eli/oc/2012/369); [FF 2011 2711](https://fedlex.data.admin.ch/eli/fga/2011/426)[3659](https://fedlex.data.admin.ch/eli/fga/2011/598)).
-[^60-2]: Introduit par le ch. II 6 de l’annexe à la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^60-2]: Introduit par l’annexe ch. II 6 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 ### II. Cours d’eau intercantonaux
 
@@ -941,12 +941,12 @@ La demande de concession doit être adressée avec les documents requis à l’o
 
 <sup>2</sup> La demande doit être publiée dans les organes officiels des cantons et des communes concernés et mise à l’enquête pendant 30 jours.
 
-<sup>3</sup> ...[^62c-2]
+<sup>3</sup> …[^62c-2]
 
 [^62c-1]: Introduit par le le ch. I 6 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^62c-2]: Abrogé par l’annexe ch. 8 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### d. ...
+### d. …
 
 #### Art. 62d
 
@@ -1027,7 +1027,7 @@ La procédure simplifiée s’applique:
 
 <sup>1</sup> Après clôture de la procédure de concession, des procédures de conciliation et d’estimation sont ouvertes, au besoin, devant la commission fédérale d’estimation (commission d’estimation), conformément à la LEx[^62i-2].[^62i-3]
 
-<sup>2</sup> ...[^62i-4]
+<sup>2</sup> …[^62i-4]
 
 <sup>3</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque la décision d’octroi de la concession est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
 
@@ -1166,7 +1166,7 @@ Les contestations entre le concessionnaire et d’autres usagers du même cours 
 <sup>2</sup> Si la concession a été accordée par plusieurs cantons, par le Conseil fédéral ou par le département, ce dernier rend une décision en cas de litige. Cette décision est sujette à recours conformément aux dispositions générales de la procédure fédérale.[^71-2]
 
 [^71-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^71-2]: Nouvelle teneur selon le ch. 67 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^71-2]: Nouvelle teneur selon l’annexe ch. 67 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Chapitre IV Dispositions d’exécution et dispositions transitoires
 
@@ -1180,9 +1180,9 @@ Les contestations entre le concessionnaire et d’autres usagers du même cours 
 
 <sup>2</sup> Il désigne par voie d’ordonnance les dispositions de la présente loi qui ne sont pas applicables aux petites usines hydrauliques.
 
-<sup>3</sup> ...[^72-1]
+<sup>3</sup> …[^72-1]
 
-[^72-1]: Abrogé par le ch. 67 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^72-1]: Abrogé par l’annexe ch. 67 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Commission d’économie des eaux
 
@@ -1192,7 +1192,7 @@ Les contestations entre le concessionnaire et d’autres usagers du même cours 
 
 Le département nomme une commission chargée d’étudier les questions d’ordre général ou particulier relatives à l’économie des eaux et de lui présenter des préavis; les attributions et l’organisation de cette commission sont déterminées par un règlement.
 
-[^73-1]: Nouvelle teneur selon le ch. II 4 de l’annexe à la LF du 22 mars 2002 sur l’adaptation des dip. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^73-1]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 22 mars 2002 sur l’adaptation des dip. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 
 ### B. Dispositions transitoires
 
@@ -1204,13 +1204,13 @@ Le département nomme une commission chargée d’étudier les questions d’ord
 
 <sup>2</sup> Sont applicables aux droits d’eau constitués antérieurement au 25 octobre 1908, les dispositions du chapitre III concernant: les travaux publics entravant l’exploitation d’une usine (art. 44), le droit d’expropriation (art. 46, 47), la fourniture d’eau pour des services publics (art. 53) et les contestations (art. 70 et 71). Toutefois si, postérieurement à cette date, un supplément de force est concédé au propriétaire d’une ancienne usine, les dispositions de la présente loi sur les prestations périodiques sont applicables à la force supplémentaire.
 
-<sup>3</sup> ...[^74-2]
+<sup>3</sup> …[^74-2]
 
 <sup>3bis</sup> L’art. 49, al. 1 est applicable dans la mesure où il ne porte pas atteinte à des droits acquis.[^74-3]
 
 <sup>4</sup> L’art. 50 n’est pas applicable aux droits d’eau accordés entre le 25 octobre 1908 et l’entrée en vigueur de la présente loi.
 
-<sup>5</sup> ...[^74-4]
+<sup>5</sup> …[^74-4]
 
 [^74-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^74-2]: Abrogé par le ch. I de la LF du 13 déc. 1996 , avec effet au 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).

@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkr
 short: WRG
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20210101/de/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20230101/de/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Nutzbarmachung der Wasserkräfte
 
-(Wasserrechtsgesetz, WRG)**[^t-1]**
+(Wasserrechtsgesetz, WRG)[^t-1]
 
-vom 22. Dezember 1916 (Stand am 1. Januar 2021)
+vom 22. Dezember 1916 (Stand am 1. Januar 2023)
 
 [^t-1]: Eingefügt durch Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -210,7 +210,7 @@ Bei der Nutzung der Wasserkraft von Gewässerstrecken, welche die Landesgrenze b
 
 <sup>3</sup> Erhebt ein Kanton im Zeitpunkt der Inanspruchnahme eine besondere Steuer im Sinne des Artikels 49 Absatz 3, so ist er für deren Wegfall schadlos zu halten.
 
-<sup>4</sup> ...[^13-1]
+<sup>4</sup> …[^13-1]
 
 [^13-1]: Aufgehoben durch Anhang Ziff. 29 der BG vom 4. Okt. 1991, mit Wirkung seit 1. Jan. 1994 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)Art. 2 Abs. 1; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
@@ -228,7 +228,7 @@ Bei der Nutzung der Wasserkraft von Gewässerstrecken, welche die Landesgrenze b
 
 <sup>3</sup> Sache des Kantons ist es, die ihm zukommende Entschädigung ganz oder teilweise den durch den Steuerausfall betroffenen Gemeinden, Bezirken oder andern Körperschaften zuzuwenden.
 
-<sup>4</sup> ...[^14-4]
+<sup>4</sup> …[^14-4]
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^14-2]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1967, in Kraft seit 1. Juli 1968 ([AS 1968 801](https://fedlex.data.admin.ch/eli/oc/1968/801_841_757); [BBl 1967 I 1025](https://fedlex.data.admin.ch/eli/fga/1967/1_1025_1037_701)).
@@ -247,7 +247,7 @@ Bei der Nutzung der Wasserkraft von Gewässerstrecken, welche die Landesgrenze b
 
 <sup>3</sup> Sind mehrere Kantone daran beteiligt, so wird der Anteil eines jeden im Verhältnis seines Interesses bestimmt.
 
-<sup>4</sup> Beteiligte Gemeinden, Körperschaften und Private können von der zuständigen kantonalen Behörde im Verhältnis der Vorteile, welche ihnen aus der Ausführung dieser Werke erwachsen, zu den Kosten herangezogen werden. ...[^15-1]
+<sup>4</sup> Beteiligte Gemeinden, Körperschaften und Private können von der zuständigen kantonalen Behörde im Verhältnis der Vorteile, welche ihnen aus der Ausführung dieser Werke erwachsen, zu den Kosten herangezogen werden. …[^15-1]
 
 [^15-1]: Zweiter Satz aufgehoben durch Anhang Ziff. 29 der BG vom 4. Okt. 1991, mit Wirkung seit 1. Jan. 1994 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)Art. 2 Abs. 1; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
@@ -333,7 +333,7 @@ Erhebt der Kanton von Wasserkraftwerken, die aufgrund eines privatrechtlichen Ve
 
 <sup>3</sup> Der Bund richtet den betroffenen Gemeinwesen Ausgleichsbeiträge zur Abgeltung erheblicher Einbussen der Wasserkraftnutzung aus, sofern diese Einbussen eine Folge der Erhaltung und Unterschutzstellung schützenswerter Landschaften von nationaler Bedeutung sind.[^22-1]
 
-<sup>4</sup> ...[^22-2]
+<sup>4</sup> …[^22-2]
 
 <sup>5</sup> Der Bundesrat regelt die Ausgestaltung der Ausgleichsbeiträge.[^22-3]
 
@@ -409,7 +409,7 @@ Für die Schiffbarmachung der Gewässer nach Artikel 24 Absatz 2 erstellt der Bu
 
 <sup>1</sup> Bei neuen Wasserwerksanlagen ist der Besitzer zum Bau der notwendigen Flössereieinrichtungen und zu deren Bedienung verpflichtet, wenn die daraus erwachsenden Kosten mit der Bedeutung der Flösserei in einem angemessenen Verhältnis stehen.
 
-<sup>2</sup> Bei schon bestehenden Wasserwerken kann der Besitzer nur gegen billige Entschädigung zum Bau und zur Bedienung neuer Anlagen für die Flösserei verhalten werden. ...[^28-1]
+<sup>2</sup> Bei schon bestehenden Wasserwerken kann der Besitzer nur gegen billige Entschädigung zum Bau und zur Bedienung neuer Anlagen für die Flösserei verhalten werden. …[^28-1]
 
 [^28-1]: Zweiter Satz aufgehoben durch Anhang Ziff. 29 der BG vom 4. Okt. 1991, mit Wirkung seit 1. Jan. 1994 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)Art. 2 Abs. 1; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
@@ -578,7 +578,7 @@ Die Behörde berücksichtigt bei ihrem Entscheide das öffentliche Wohl, die wir
 
 <sup>1</sup> Die Konzession wird einer bestimmten, natürlichen oder juristischen Person oder einer Personengemeinschaft erteilt.
 
-<sup>2–4</sup> ...[^40-2]
+<sup>2–4</sup> …[^40-2]
 
 [^40-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^40-2]: Aufgehoben durch Ziff. I des BG vom 13. Dez. 1996, mit Wirkung seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
@@ -597,7 +597,7 @@ Unter mehreren Bewerbern gebührt demjenigen der Vorzug, dessen Unternehmen dem 
 
 <sup>2</sup> Die Behörde soll ihre Zustimmung nicht verweigern, wenn der neue Erwerber allen Erfordernissen der Konzession genügt und keine Gründe des öffentlichen Wohls der Übertragung entgegenstehen.[^42-2]
 
-<sup>3</sup> ...[^42-3]
+<sup>3</sup> …[^42-3]
 
 [^42-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^42-2]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
@@ -613,7 +613,7 @@ Unter mehreren Bewerbern gebührt demjenigen der Vorzug, dessen Unternehmen dem 
 
 <sup>2</sup> Das einmal verliehene Nutzungsrecht kann nur aus Gründen des öffentlichen Wohles und gegen volle Entschädigung zurückgezogen oder geschmälert werden.
 
-<sup>3</sup> ...[^43-2]
+<sup>3</sup> …[^43-2]
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^43-2]: Aufgehoben durch Anhang Ziff. 29 der BG vom 4. Okt. 1991, mit Wirkung seit 1. Jan. 1994 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)Art. 2 Abs. 1; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
@@ -626,7 +626,7 @@ Unter mehreren Bewerbern gebührt demjenigen der Vorzug, dessen Unternehmen dem 
 
 <sup>2</sup> Wird der Bau oder Betrieb eines Wasserkraftwerkes durch Korrektionsbauten oder andere wasserpolizeiliche Arbeiten vorübergehend erschwert oder unterbrochen, so hat der Konzessionär keinen Anspruch auf Schadenersatz, es sei denn, dass die Arbeiten unnötig verzögert werden.[^44-3]
 
-<sup>3</sup> ...[^44-4]
+<sup>3</sup> …[^44-4]
 
 [^44-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^44-2]: Fassung gemäss Anhang Ziff. 29 des BG vom 4. Okt. 1991, in Kraft seit 1. Jan. 1994 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)Art. 2 Abs. 1; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
@@ -706,9 +706,9 @@ Das Enteignungsverfahren und die Entschädigungspflicht richten sich nach dem En
 
 [^49-1]
 
-<sup>1</sup> Der Wasserzins darf bis Ende 2024 jährlich 110 Franken pro Kilowatt Bruttoleistung nicht übersteigen. Davon kann der Bund höchstens 1 Franken pro Kilowatt Bruttoleistung zur Finanzierung der Ausgleichsbeiträge an Kantone und Gemeinden nach Artikel 22 Absätze 3–5 beziehen.[^49-2]
+<sup>1</sup> Der Wasserzins darf bis Ende 2030 jährlich 110 Franken pro Kilowatt Bruttoleistung nicht übersteigen. Davon kann der Bund höchstens 1 Franken pro Kilowatt Bruttoleistung zur Finanzierung der Ausgleichsbeiträge an Kantone und Gemeinden nach Artikel 22 Absätze 3–5 beziehen.[^49-2]
 
-<sup>1bis</sup> Der Bundesrat unterbreitet der Bundesversammlung rechtzeitig einen Erlassentwurf für die Festlegung der Maximalhöhe des Wasserzinses für die Zeit nach dem 1. Januar 2025.[^49-3]
+<sup>1bis</sup> Der Bundesrat unterbreitet der Bundesversammlung rechtzeitig einen Erlassentwurf für die Festlegung der Maximalhöhe des Wasserzinses für die Zeit nach dem 1. Januar 2031.[^49-3]
 
 <sup>2</sup> Die auf Konzession beruhenden Wasserkraftwerke und die von solchen Werken erzeugte elektrische Energie dürfen nicht mit besondern Steuern belegt werden. Jedoch kann in Kantonen, in denen der Maximalwasserzins gesetzlich auf weniger als den nach den eidgenössischen Vorschriften zulässigen Ansatz festgesetzt ist, eine besondere kantonale Steuer erhoben werden, die zusammen mit dem maximalen Wasserzins nicht mehr als höchstens diesen Ansatz ausmacht.
 
@@ -717,8 +717,8 @@ Das Enteignungsverfahren und die Entschädigungspflicht richten sich nach dem En
 <sup>4</sup> Wasserkraftwerke, die bis zu 1 Megawatt Bruttoleistung erbringen, sind von der Zahlung eines Wasserzinses befreit. Bei Leistungen zwischen 1 und 2 Megawatt ist höchstens ein linearer Anstieg bis zum Maximum nach Absatz 1 zulässig.
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^49-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [BBl 2018 3419](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
-[^49-3]: Eingefügt durch Ziff. I 1 des BG vom 18. Juni 2010 ([AS 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [BBl 2009 1229](https://fedlex.data.admin.ch/eli/fga/2009/267)[1255](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 351](https://fedlex.data.admin.ch/eli/fga/2010/91)). Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [BBl 2018 3419](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^49-2]: Fassung gemäss Ziff. II des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^49-3]: Eingefügt durch Ziff. I 1 des BG vom 18. Juni 2010 ([AS 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [BBl 2009 1229](https://fedlex.data.admin.ch/eli/fga/2009/267)[1255](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 351](https://fedlex.data.admin.ch/eli/fga/2010/91)). Fassung gemäss Ziff. II des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ### b. Ermässigung während der Bauperiode
 
@@ -831,7 +831,7 @@ Die Konzessionen können auch andere als die gesetzlich vorgeschriebenen Bestimm
 - b. über den Ausweis eines genügenden Baukapitals und die Bau- und die jährlichen Betriebsrechnungen des Unternehmens;
 - c. über die Beteiligung des verleihenden Gemeinwesens an der Verwaltung und am Gewinn des Unternehmens;
 - d.[^55-2] über die Tarife für die Abgabe der erzeugten elektrischen Energie, über die unentgeltlich oder zu Vorzugspreisen abzugebende elektrische Energie, über die Herabsetzung der Strompreise bei erhöhtem Gewinn, über die Versorgung einer Gegend mit elektrischer Energie;
-- e.[^55-3] ...
+- e.[^55-3] …
 
 [^55-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^55-2]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
@@ -987,12 +987,12 @@ Das Konzessionsgesuch ist mit den erforderlichen Unterlagen beim Bundesamt einzu
 
 <sup>2</sup> Das Gesuch ist in den amtlichen Publikationsorganen der betroffenen Kantone und Gemeinden zu publizieren und während 30 Tagen öffentlich aufzulegen.
 
-<sup>3</sup> ...[^62c-2]
+<sup>3</sup> …[^62c-2]
 
 [^62c-1]: Eingefügt durch Ziff. I 6 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^62c-2]: Aufgehoben durch Anhang Ziff. 8 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### d. ...
+### d. …
 
 #### Art. 62d
 
@@ -1073,7 +1073,7 @@ Das vereinfachte Verfahren wird angewendet bei:
 
 <sup>1</sup> Nach Abschluss des Konzessionsverfahrens wird, soweit erforderlich, das Einigungs- und Schätzungsverfahren vor der Eidgenössischen Schätzungskommission (Schätzungskommission) nach den Bestimmungen des EntG[^62i-2] durchgeführt.[^62i-3]
 
-<sup>2</sup> ...[^62i-4]
+<sup>2</sup> …[^62i-4]
 
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Konzessionsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
@@ -1245,7 +1245,7 @@ Entsteht zwischen dem Konzessionär und andern Nutzungsberechtigten Streit über
 
 <sup>2</sup> Er bezeichnet auf dem Wege der Verordnung die Bestimmungen des Gesetzes, die auf kleinere Wasserwerke keine Anwendung finden.
 
-<sup>3</sup> ...[^72-1]
+<sup>3</sup> …[^72-1]
 
 [^72-1]: Aufgehoben durch Anhang Ziff. 67 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -1269,13 +1269,13 @@ Das Departement ernennt zur Vorbereitung und Begutachtung von Fragen und Geschä
 
 <sup>2</sup> Vom dritten Abschnitte gelten für die vor dem 25. Oktober 1908 begründeten Wasserrechte nur die Bestimmungen über die Störung eines Wasserwerkes durch öffentliche Bauten (Art. 44), über das Enteignungsrecht (Art. 46 und 47), über die Abgabe von Wasser zu öffentlichen Zwecken (Art. 53) und über die Entscheidung von Streitigkeiten (Art. 70 und 71). Wenn jedoch dem Inhaber eines älteren Wasserwerkes nach diesem Zeitpunkt neue Wasserkräfte verliehen worden sind oder noch verliehen werden, so gilt bezüglich der für diese neuen Wasserkräfte zu entrichtenden wiederkehrenden Leistungen ebenfalls das gegenwärtige Gesetz.
 
-<sup>3</sup> ...[^74-2]
+<sup>3</sup> …[^74-2]
 
 <sup>3bis</sup> Artikel 49 Absatz 1 gilt, soweit keine wohlerworbenen Rechte verletzt werden.[^74-3]
 
 <sup>4</sup> Artikel 50 findet nicht Anwendung auf Wasserrechte, die vom 25. Oktober 1908 an bis zum Inkrafttreten dieses Gesetzes gegeben worden sind.
 
-<sup>5</sup> ...[^74-4]
+<sup>5</sup> …[^74-4]
 
 [^74-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^74-2]: Aufgehoben durch Ziff. I des BG vom 13. Dez. 1996, mit Wirkung seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).

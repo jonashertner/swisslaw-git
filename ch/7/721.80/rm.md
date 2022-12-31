@@ -4,11 +4,11 @@ title: "Lescha federala dals 22 da december 1916 davart l'utilisaziun da las for
 short: LDA
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: rm
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20230101-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20210101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-(Lescha davart il dretg da las auas, LDA)**[^t-1]**
+(Lescha davart il dretg da las auas, LDA)[^t-1]
 
-dals 22 da december 1916 (versiun dal 1. da schaner 2021)
+dals 22 da december 1916 (versiun dal 1. da schaner 2023)
 
 [^t-1]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -580,7 +580,7 @@ L’autoritad resguarda en sia decisiun il bainstar public, l’utilisaziun econ
 
 <sup>1</sup> La concessiun vegn surdada per ina tscherta persuna natirala u giuridica u per ina societad da persunas.
 
-<sup>2 a 4</sup> ...[^40-2]
+<sup>2</sup> a <sup>4</sup> ...[^40-2]
 
 [^40-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^40-2]: Abolì tras la cifra I da la LF dals 13 da dec. 1996, cun effect dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
@@ -708,9 +708,9 @@ La procedura d’expropriaziun e l’obligaziun d’indemnisaziun sa drizzan ten
 
 [^49-1]
 
-<sup>1</sup> Fin la fin da l’onn 2024 na dastga il tschains d’aua betg surpassar 110 francs per kilowatt prestaziun brutta per onn. Da quels dastga la Confederaziun retrair maximalmain 1 franc per kilowatt prestaziun brutta per finanziar las contribuziuns da cumpensaziun als chantuns ed a las vischnancas tenor l’artitgel 22 alineas 3–5.[^49-2]
+<sup>1</sup> Fin la fin da l’onn 2030 na dastga il tschains d’aua betg surpassar 110 francs per kilowatt prestaziun brutta per onn. Da quels dastga la Confederaziun retrair maximalmain 1 franc per kilowatt prestaziun brutta per finanziar las contribuziuns da cumpensaziun als chantuns ed a las vischnancas tenor l’artitgel 22 alineas 3–5.[^49-2]
 
-<sup>1bis</sup> Il Cussegl federal suttametta a l’Assamblea federala a temp in sboz d’in decret per fixar l’autezza maximala dal tschains d’aua per il temp suenter il 1. da schaner 2025.[^49-3]
+<sup>1bis</sup> Il Cussegl federal suttametta a l’Assamblea federala a temp in sboz d’in decret per fixar l’autezza maximala dal tschains d’aua per il temp suenter il 1. da schaner 2031.[^49-3]
 
 <sup>2</sup> Las ovras idraulicas che possedan ina concessiun e l’energia electrica che vegn producida da talas ovras na dastgan betg vegnir engrevgiadas da taglias spezialas. En chantuns, nua ch’il tschains d’aua maximal è fixà per lescha cun in import pli bass che l’import admess da las prescripziuns federalas, po però vegnir incassada ina taglia chantunala speziala ch’è – ensemen cun il tschains d’aua maximal – maximalmain uschè auta sco il tschains federal.
 
@@ -719,8 +719,8 @@ La procedura d’expropriaziun e l’obligaziun d’indemnisaziun sa drizzan ten
 <sup>4</sup> Ovras idraulicas che produceschan fin ad 1 megawatt prestaziun brutta èn deliberadas da pajar in tschains d’aua. En cas da prestaziuns tranter 1 e 2 megawatts è admissibel maximalmain in augment linear fin al maximum tenor l’alinea 1.
 
 [^49-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^49-2]: Versiun tenor la cifra I da la LF dals 22 da mars 2019, en vigur dapi il 1. da schan. 2020 ([AS 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [BBl 2018 3419](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
-[^49-3]: Integrà tras la cifra I 1 da la LF dals 18 da zer. 2010 ([AS 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [BBl 2009 1229](https://fedlex.data.admin.ch/eli/fga/2009/267)[1255](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 351](https://fedlex.data.admin.ch/eli/fga/2010/91)). Versiun tenor la cifra I da la LF dals 22 da mars 2019, en vigur dapi il 1. da schan. 2020 ([AS 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [BBl 2018 3419](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^49-2]: Versiun tenor la cifra II da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^49-3]: Integrà tras la cifra I 1 da la LF dals 18 da zer. 2010 ([AS 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [BBl 2009 1229](https://fedlex.data.admin.ch/eli/fga/2009/267)[1255](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 351](https://fedlex.data.admin.ch/eli/fga/2010/91)). Versiun tenor la cifra II da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ### b. Reducziun durant la perioda da construcziun
 
@@ -1157,8 +1157,6 @@ Sche la concessiun na dispona betg insatge auter, è il concessiunari, dal qual 
 
 #### Art. 67
 
-[^67-1]
-
 <sup>1</sup>
 
 En cas dal return da las ovras idraulicas ha la communitad concedenta – nun che la concessiun fixeschia insatge auter – il dretg:
@@ -1170,11 +1168,12 @@ En cas dal return da las ovras idraulicas ha la communitad concedenta – nun ch
 
 <sup>3</sup> Il concessiunari è obligà da mantegnair en funcziun ils stabiliments ed ils indrizs ch’èn suttamess al dretg da return.
 
-<sup>4</sup> Investiziuns da modernisaziun e d’engrondiment vegnan indemnisadas al concessiunari il mument dal return, sch’el ha fatg la modernisaziun u l’engrondiment en enclegientscha cun la communitad che ha dà la concessiun. L’indemnisaziun correspunda maximalmain a la valur restanta da l’investiziun, resguardond l’amortisaziun usitada en la branscha e la midada da la valur monetara.
+<sup>4</sup> Investiziuns da modernisaziun e d’engrondiment vegnan indemnisadas al concessiunari il mument dal return, sch’el ha fatg la modernisaziun u l’engrondiment en enclegientscha cun la communitad che ha dà la concessiun. L’indemnisaziun correspunda maximalmain a la valur restanta da l’investiziun, resguardond l’amortisaziun usitada en la branscha e la midada da la valur monetara.[^67-1]
 
-<sup>5</sup> La communitad che ha surdà la concessiun po apportar la valur dal dretg da return en l’interpresa existenta sco quota da participaziun, sch’il concessiunari è perencletg cun quai. Ella po duvrar il dretg da return er en in’autra moda che stat en l’interess public.
+<sup>5</sup> La communitad che ha surdà la concessiun po apportar la valur dal dretg da return en l’interpresa existenta sco quota da participaziun, sch’il concessiunari è perencletg cun quai. Ella po duvrar il dretg da return er en in’autra moda che stat en l’interess public.[^67-2]
 
-[^67-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^67-1]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^67-2]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### b. En cas d’auas situadas sin il territori da plirs chantuns
 
@@ -1233,7 +1232,7 @@ Sch’i dat dispita tranter il concessiunari ed auters giudiders davart la dimen
 <sup>2</sup> Sche la concessiun è vegnida surdada da plirs chantuns, dal Cussegl federal u dal departament, decretescha il departament ina disposiziun en cas d’ina dispita. Cunter quella poi vegnir fatg recurs tenor las disposiziuns generalas da la giurisdicziun federala.[^71-2]
 
 [^71-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^71-2]: Versiun tenor la cifra 67 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal administrativ federal, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^71-2]: Versiun tenor la cifra 67 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Quart chapitel: Disposiziuns executivas e transitoricas
 
@@ -1249,7 +1248,7 @@ Sch’i dat dispita tranter il concessiunari ed auters giudiders davart la dimen
 
 <sup>3</sup> ...[^72-1]
 
-[^72-1]: Abolì tras la cifra 67 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal administrativ federal, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^72-1]: Abolì tras la cifra 67 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### II. Cumissiun da l’economia d’aua
 

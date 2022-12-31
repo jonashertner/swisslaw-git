@@ -4,20 +4,20 @@ title: "Legge federale del 22 dicembre 1916 sull'utilizzazione delle forze idric
 short: LUFI
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20210101/it/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20230101/it/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Legge federale sull’utilizzazione delle forze idriche****
+# Legge federale sull’utilizzazione delle forze idriche
 
-(Legge sulle forze idriche, LUFI**[^t-2]**)[^t-1]
+(Legge sulle forze idriche, LUFI[^t-2])[^t-1]
 
-del 22 dicembre 1916 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 22 dicembre 1916 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo tit. giusta il n. I della LF dell’8 ott. 1976, in vigore dal 1° gen. 1977 ([RU 1977 171](https://fedlex.data.admin.ch/eli/oc/1977/171_171_171); [FF 1975 II 2083](https://fedlex.data.admin.ch/eli/fga/1975/2_2138_2140_2083)). Per questa mod. alle locuzioni «forze idrauliche» e «forza idraulica» sono sostituite le locuzioni «forze idriche» e «forza idrica».
 [^t-2]: Abbreviazione introdotta dal n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
@@ -243,7 +243,7 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 
 <sup>4</sup> I Comuni, le corporazioni e i privati interessati possono dalla autorità cantonale competente esser chiamati a concorrere nelle spese di queste opere, in ragione dei vantaggi che derivano loro dalla esecuzione delle medesime. ...[^15-1]
 
-[^15-1]: Abrogato dall’all. n. 29 della LF del 4 ott. 1991, con effetto dal 1<sup>o</sup> gen. 1994 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2 cpv. 1; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^15-1]: Secondo per. abrogato dall’all. n. 29 della LF del 4 ott. 1991, con effetto dal 1<sup>o</sup> gen. 1994 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 877](https://fedlex.data.admin.ch/eli/oc/1993/877_877_877)art. 2 cpv. 1; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
 
 ### b. Regolarizzazione del deflusso
 
@@ -673,9 +673,9 @@ La procedura di espropriazione e l’obbligo di indennizzo sono regolati dalla L
 
 [^49-1]
 
-<sup>1</sup> Il canone annuo non può superare 110 franchi per chilowatt lordo sino alla fine del 2024. Su questo importo la Confederazione può riscuotere al massimo 1 franco per chilowatt lordo per finanziare i contributi di compensazione versati ai Cantoni e ai Comuni in virtù dell’articolo 22 capoversi 3–5.[^49-2]
+<sup>1</sup> Il canone annuo non può superare 110 franchi per chilowatt lordo sino alla fine del 2030. Su questo importo la Confederazione può riscuotere al massimo 1 franco per chilowatt lordo per finanziare i contributi di compensazione versati ai Cantoni e ai Comuni in virtù dell’articolo 22 capoversi 3–5.[^49-2]
 
-<sup>1bis</sup> Il Consiglio federale sottopone tempestivamente all’Assemblea federale un disegno di atto normativo per la determinazione dell’aliquota massima del canone annuo applicabile a partire dal 1° gennaio 2025.[^49-3]
+<sup>1bis</sup> Il Consiglio federale sottopone tempestivamente all’Assemblea federale un disegno di atto normativo per la determinazione dell’aliquota massima del canone annuo applicabile a partire dal 1° gennaio 2031.[^49-3]
 
 <sup>2</sup> Gli impianti idraulici al beneficio di una concessione e la forza da essi prodotta non possono essere gravati da imposte speciali. Nei Cantoni però in cui il canone massimo è stabilito per legge in modo che sia inferiore all’aliquota ammessa dalle prescrizioni federali, potrà essere riscossa un’imposta cantonale speciale che, sommata col canone massimo, non deve essere superiore a siffatta aliquota.
 
@@ -684,8 +684,8 @@ La procedura di espropriazione e l’obbligo di indennizzo sono regolati dalla L
 <sup>4</sup> Gli impianti idraulici con una potenza sino a 1 MW sono esenti dal pagamento del canone annuo. Per quelli con una potenza tra 1 e 2 MW è ammesso tutt’al più un aumento lineare sino all’aliquota massima fissata nel capoverso 1.
 
 [^49-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^49-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
-[^49-3]: Introdotto dal n. I 1 della LF del 18 giu. 2010 ([RU 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 969](https://fedlex.data.admin.ch/eli/fga/2009/267)[995](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 305](https://fedlex.data.admin.ch/eli/fga/2010/91)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3099](https://fedlex.data.admin.ch/eli/oc/2019/569); [FF 2018 2877](https://fedlex.data.admin.ch/eli/fga/2018/1340)).
+[^49-2]: Nuovo testo giusta il n. II della LF del 21 ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^49-3]: Introdotto dal n. I 1 della LF del 18 giu. 2010 ([RU 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 969](https://fedlex.data.admin.ch/eli/fga/2009/267)[995](https://fedlex.data.admin.ch/eli/fga/2009/269), [2010 305](https://fedlex.data.admin.ch/eli/fga/2010/91)). Nuovo testo giusta il n. II della LF del 21 ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ### b*.* Riduzione durante il periodo di costruzione
 
@@ -793,7 +793,7 @@ Le concessioni possono contenere anche altre disposizioni oltre quelle prescritt
 - b. sulla giustificazione di un capitale sufficiente di costruzione, nonché sui conti di costruzione e sui conti annuali d’esercizio dell’impresa;
 - c. sulla partecipazione della comunità concedente all’amministrazione e agli utili dell’impresa;
 - d. sulle tariffe per la vendita della forza prodotta, sulla forza da cedersi gratuitamente o a prezzi di favore, sul ribasso dei prezzi della corrente in caso di aumento del reddito, sulla fornitura di forza pei bisogni di una regione;
-- e. ...[^55-1]
+- e.[^55-1] ...
 
 [^55-1]: Abrogata dal n. I della LF del 13 dic. 1996, con effetto dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
