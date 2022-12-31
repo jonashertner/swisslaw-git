@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über elektrische Niederspannungserzeugn
 short: NEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/17"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-17-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-17-20230101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20220101/de"
 
 (NEV)
 
-vom 25. November 2015 (Stand am 1. Januar 2022)
+vom 25. November 2015 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 3 und 55 Absatz 3 des Elektrizitätsgesetzes vom 24. J
 
 verordnet:
 
-[^ingress-1]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-2]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-2]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -47,7 +47,7 @@ Sie gilt auch für Niederspannungserzeugnisse:
 <sup>3</sup> Für die elektromagnetische Verträglichkeit bleiben die Bestimmungen der Verordnung vom 25. November 2015[^1-2] über die elektromagnetische Verträglichkeit vorbehalten.
 
 [^1-1]: Richtlinie 2014/35/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung elektrischer Betriebsmittel zur Verwendung innerhalb bestimmter Spannungsgrenzen auf dem Markt (Neufassung), Fassung gemäss ABl. L 96 vom 29.3.2014, S. 357.
-[^1-2]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^1-2]: [SR 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 
 #### Art. 2
 
@@ -77,7 +77,7 @@ In dieser Verordnung gelten als:
 [^2-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-5]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
-[^2-6]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-6]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^2-7]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-8]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-9]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
@@ -289,7 +289,7 @@ Der Antrag auf Bewilligung muss enthalten:
 
 <sup>3</sup> Die Kontrollstelle kann zudem die technischen Unterlagen und ein Muster des Erzeugnisses verlangen.
 
-[^16-1]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^16-1]: [SR 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 
 #### Art. 17
 
@@ -305,7 +305,7 @@ Prüf- und Konformitätsbewertungsstellen, die Berichte oder Bescheinigungen aus
 
 <sup>2</sup> Wer sich auf die Unterlagen einer anderen als der in Absatz 1 erwähnten Stellen beruft, muss glaubhaft darlegen, dass die angewandten Verfahren und die Qualifikation dieser Stelle den schweizerischen Anforderungen genügen (Art. 18 Abs. 2 THG).
 
-[^17-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^17-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 18
 
@@ -327,7 +327,7 @@ Die Bewilligung wird entzogen, wenn die Voraussetzungen für ihre Erteilung nich
 
 <sup>1</sup> Das freiwillige Sicherheitszeichen hat folgende Form:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/de/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20230101/de/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20230101/de/xml/image/image2.png)
 
 <sup>2</sup> Ist es technisch nicht möglich, das Zeichen nach Absatz 1 anzubringen, so kann die Kontrollstelle eine andere Kennzeichnung bewilligen.
 
@@ -368,9 +368,12 @@ Niederspannungserzeugnisse, welche die Voraussetzungen für die Bereitstellung a
 
 <sup>6</sup> Die Anbieterinnen von Dienstleistungen der Informationsgesellschaft sind auf Verlangen der Kontrollstelle verpflichtet, bei der Umsetzung von Massnahmen zur Vermeidung oder Minderung von Risiken im Zusammenhang mit Niederspannungserzeugnissen, die über ihre Dienste online zum Verkauf angeboten wurden oder werden, mit der Kontrollstelle zusammenzuarbeiten.[^23-3]
 
-[^23-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+<sup>7</sup> Das UVEK vereinbart mit der Kontrollstelle den Umfang der Marktüberwachungstätigkeit.[^23-4]
+
+[^23-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^23-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^23-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^23-4]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 822](https://fedlex.data.admin.ch/eli/oc/2022/822)).
 
 #### Art. 24
 
@@ -443,6 +446,14 @@ Die Kontrollstelle kann die Bevölkerung über die technische Nichtkonformität 
 [^26-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^26-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
+#### Art. 26a
+
+**Finanzierung**[^26a-1]
+
+Die Kosten des Vollzugs der Marktüberwachung durch die Kontrollstelle werden vom UVEK abgegolten, soweit sie nicht durch Gebühren gedeckt sind, die gestützt auf diese Verordnung erhoben werden.
+
+[^26a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 822](https://fedlex.data.admin.ch/eli/oc/2022/822)).
+
 ## 7. Kapitel: Gebühren und Strafbestimmungen
 
 #### Art. 27
@@ -472,7 +483,7 @@ Wer vorsätzlich oder fahrlässig das freiwillige Sicherheitszeichen ohne Bewill
 
 Die Verordnung vom 9. April 1997[^29-1] über elektrische Niederspannungserzeugnisse wird aufgehoben.
 
-[^29-1]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2]
+[^29-1]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2]
 
 #### Art. 30
 
@@ -497,7 +508,7 @@ Für die korrekte Auslegung der EU-Niederspannungsrichtlinie[^annexu1-lvlu1-1], 
 - a. Deutsche Ausdrücke
 
 <table>
-<tr><td>EU</td><td>Schweiz</td></tr>
+<tr><th>EU</th><th>Schweiz</th></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
 <tr><td>Unionsmarkt</td><td>Schweizerischer Markt</td></tr>
@@ -510,7 +521,7 @@ Für die korrekte Auslegung der EU-Niederspannungsrichtlinie[^annexu1-lvlu1-1], 
 - b. Französische Ausdrücke
 
 <table>
-<tr><td>UE</td><td>Suisse</td></tr>
+<tr><th>UE</th><th>Suisse</th></tr>
 <tr><td>état membre</td><td>Suisse</td></tr>
 <tr><td>déclaration UE de conformité</td><td>déclaration de conformité</td></tr>
 <tr><td>Marché de l’Union</td><td>Marché suisse</td></tr>
@@ -522,7 +533,7 @@ Für die korrekte Auslegung der EU-Niederspannungsrichtlinie[^annexu1-lvlu1-1], 
 - c. Italienische Ausdrücke
 
 <table>
-<tr><td>UE</td><td>Svizzera</td></tr>
+<tr><th>UE</th><th>Svizzera</th></tr>
 <tr><td>Dichiarazione di conformità UE</td><td>Dichiarazione di conformità</td></tr>
 <tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio Federale</td></tr>
 <tr><td>Mercato dell’Unione</td><td>Mercato svizzero</td></tr>

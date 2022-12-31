@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 2015 sui prodotti elettrici a bassa tensione (O
 short: OPBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/17"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-17-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-17-20230101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20220101/it"
 
 (OPBT)
 
-del 25 novembre 2015 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 25 novembre 2015 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 3 e 55 capoverso 3 della legge del 24 giugno 1902[^ingress-1]
 
 ordina:
 
-[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-2]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -47,7 +47,7 @@ Si applica anche ai prodotti a bassa tensione:
 <sup>3</sup> Per la compatibilità elettromagnetica sono fatte salve le disposizioni dell’ordinanza del 25 novembre 2015[^1-2] sulla compatibilità elettromagnetica.
 
 [^1-1]: Direttiva 2014/35/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato del materiale elettrico destinato a essere adoperato entro taluni limiti di tensione (rifusione), testo secondo GU L 96 del 29.3.2014, pag. 357.
-[^1-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^1-2]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 
 #### Art. 2
 
@@ -57,15 +57,15 @@ Si applica anche ai prodotti a bassa tensione:
 
 Nella presente ordinanza si intende per:
 
-- a. *messa a disposizione sul mercato*: la fornitura di un prodotto elettrico a bassa tensione per la distribuzione, il consumo o l’uso sul mercato svizzero nel corso di un’attività commerciale, a titolo oneroso o gratuito;
-- b. *immissione sul mercato*: la prima messa a disposizione sul mercato svizzero di un prodotto a bassa tensione;
-- b<sup>bis</sup>.[^2-1] *fabbricante*: ogni persona fisica o giuridica che produce un prodotto a bassa tensione, o lo fa progettare o produrre, e lo immette in commercio con il proprio nome o marchio;
-- b<sup>ter</sup>.[^2-2] *rappresentante autorizzato*: ogni persona fisica o giuridica domiciliata in Svizzera che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire per suo conto in relazione a determinati compiti;
-- b<sup>quater</sup>.[^2-3] *importatore*: ogni persona fisica o giuridica domiciliata in Svizzera che immette in commercio un prodotto a bassa tensione proveniente dall'estero;
-- b<sup>quinquies</sup>.[^2-4] *distributore*: ogni persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante o dall'importatore, che mette un prodotto a bassa tensione a disposizione sul mercato;
-- b<sup>sexies</sup>.[^2-5] *fornitore di servizi di logistica*: ogni persona fisica o giuridica che nel corso di un'attività commerciale fornisce almeno due dei seguenti servizi: immagazzinamento, imballaggio, indirizzamento e spedizione, senza essere proprietario dei prodotti a bassa tensione interessati; sono esclusi i servizi postali di cui all'articolo 2 lettera a della legge del 17 dicembre 2010[^2-6] sulle poste e tutti gli altri servizi di trasporto merci;
-- b<sup>septies</sup>.[^2-7] *prestatore* *di servizi della società dell'informazione*: ogni persona fisica o giuridica che, normalmente dietro retribuzione, fornisce un servizio via Internet e a richiesta individuale di un destinatario di servizi;
-- c.[^2-8] *operatore economico:* il fabbricante, il rappresentante autorizzato, l'importatore, il distributore e il fornitore di servizi di logistica;
+- a. *messa a disposizione sul mercato:* la fornitura di un prodotto elettrico a bassa tensione per la distribuzione, il consumo o l’uso sul mercato svizzero nel corso di un’attività commerciale, a titolo oneroso o gratuito;
+- b. *immissione sul mercato:* la prima messa a disposizione sul mercato svizzero di un prodotto a bassa tensione;
+- b<sup>bis</sup>.[^2-1] *fabbricante**:* ogni persona fisica o giuridica che produce un prodotto a bassa tensione, o lo fa progettare o produrre, e lo immette in commercio con il proprio nome o marchio;
+- b<sup>ter</sup>.[^2-2] *rappresentante autorizzato**:* ogni persona fisica o giuridica domiciliata in Svizzera che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire per suo conto in relazione a determinati compiti;
+- b<sup>quater</sup>.[^2-3] *importatore**:* ogni persona fisica o giuridica domiciliata in Svizzera che immette in commercio un prodotto a bassa tensione proveniente dall’estero;
+- b<sup>quinquies</sup>.[^2-4] *distributore**:* ogni persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante o dall’importatore, che mette un prodotto a bassa tensione a disposizione sul mercato;
+- b<sup>sexies</sup>.[^2-5] *fornitore di servizi di logistica**:* ogni persona fisica o giuridica che nel corso di un’attività commerciale fornisce almeno due dei seguenti servizi: immagazzinamento, imballaggio, indirizzamento e spedizione, senza essere proprietario dei prodotti a bassa tensione interessati; sono esclusi i servizi postali di cui all’articolo 2 lettera a della legge del 17 dicembre 2010[^2-6] sulle poste e tutti gli altri servizi di trasporto merci;
+- b<sup>septies</sup>.[^2-7] *prestatore* *di servizi della società dell’informazione**:* ogni persona fisica o giuridica che, normalmente dietro retribuzione, fornisce un servizio via Internet e a richiesta individuale di un destinatario di servizi;
+- c.[^2-8] *operatore economico:* il fabbricante, il rappresentante autorizzato, l’importatore, il distributore e il fornitore di servizi di logistica;
 - d. *norme armonizzate:* le norme armonizzate ai sensi della legislazione in materia di sicurezza dei prodotti.
 
 <sup>2</sup> La messa in servizio di prodotti a bassa tensione a scopi professionali nella propria impresa è equiparata alla messa a disposizione sul mercato in Svizzera se precedentemente non vi è stata alcuna messa a disposizione sul mercato.[^2-9]
@@ -77,7 +77,7 @@ Nella presente ordinanza si intende per:
 [^2-3]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-4]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-5]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
-[^2-6]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-6]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^2-7]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-8]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-9]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
@@ -135,7 +135,7 @@ Sui prodotti a bassa tensione stessi o, se ciò non dovesse essere possibile, su
 - b. nome, denominazione commerciale registrata o marchio registrato del fabbricante ed eventualmente dell’importatore;
 - c. indirizzo della persona di cui alla lettera b.
 
-<sup>2</sup> Se il fabbricante non ha designato né un domicilio in Svizzera né un rappresentante autorizzato e non vi è alcun importatore, sul prodotto a bassa tensione o, qualora ciò risulti impossibile, sul suo imballaggio o sulla documentazione allegata devono essere indicati anche il nome, la denominazione commerciale o il marchio registrato e l'indirizzo di contatto del fornitore di servizi di logistica.[^6-1]
+<sup>2</sup> Se il fabbricante non ha designato né un domicilio in Svizzera né un rappresentante autorizzato e non vi è alcun importatore, sul prodotto a bassa tensione o, qualora ciò risulti impossibile, sul suo imballaggio o sulla documentazione allegata devono essere indicati anche il nome, la denominazione commerciale o il marchio registrato e l’indirizzo di contatto del fornitore di servizi di logistica.[^6-1]
 
 [^6-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
@@ -217,7 +217,7 @@ La dichiarazione di conformità deve poter essere presentata durante dieci anni 
 
 <sup>1bis</sup>
 
-Il fornitore di servizi di logistica è soggetto all'obbligo di cui al capoverso 1 quando:
+Il fornitore di servizi di logistica è soggetto all’obbligo di cui al capoverso 1 quando:
 
 - a. il fabbricante non ha designato né un domicilio in Svizzera né un rappresentante autorizzato; e
 - b. non vi è alcun importatore.[^12-1]
@@ -289,7 +289,7 @@ La domanda d’autorizzazione deve contenere:
 
 <sup>3</sup> L’organo di controllo può inoltre richiedere la documentazione tecnica e un campione del prodotto.
 
-[^16-1]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^16-1]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 
 #### Art. 17
 
@@ -305,7 +305,7 @@ I laboratori di prova e gli organismi di valutazione della conformità che stila
 
 <sup>2</sup> Chi si riferisce alla documentazione di organismi non menzionati dal capoverso 1 deve dimostrare con verosimiglianza che le procedure applicate e le qualifiche di tale organismo soddisfano le esigenze svizzere (art. 18 cpv. 2 LOTC).
 
-[^17-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^17-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 18
 
@@ -327,7 +327,7 @@ L’autorizzazione è revocata se le condizioni necessarie per il suo rilascio n
 
 <sup>1</sup> Il contrassegno di sicurezza facoltativo ha la forma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/it/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20230101/it/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20230101/it/xml/image/image2.png)
 
 <sup>2</sup> Se tecnicamente non è possibile apporre il contrassegno di cui al capoverso 1, l’organo di controllo può autorizzare un altro contrassegno.
 
@@ -364,13 +364,16 @@ I prodotti a bassa tensione che non adempiono i requisiti per la messa a disposi
 
 <sup>4</sup> Gli operatori economici sono tenuti a mettere a disposizione dell’organo di controllo tutte le informazioni necessarie ai fini della sorveglianza del mercato e in particolare, su richiesta, a indicare gli operatori economici dai quali hanno ricevuto o ai quali hanno ceduto un prodotto. A tale riguardo l’organo di controllo fissa un termine adeguato.
 
-<sup>5</sup> Gli operatori economici sono tenuti a cooperare con l'organo di controllo nell'adozione di misure volte a eliminare o ridurre i rischi connessi ai prodotti a bassa tensione da essi messi a disposizione sul mercato. Tale obbligo vige anche per il rappresentante autorizzato per i prodotti a bassa tensione oggetto del suo mandato.[^23-2]
+<sup>5</sup> Gli operatori economici sono tenuti a cooperare con l’organo di controllo nell’adozione di misure volte a eliminare o ridurre i rischi connessi ai prodotti a bassa tensione da essi messi a disposizione sul mercato. Tale obbligo vige anche per il rappresentante autorizzato per i prodotti a bassa tensione oggetto del suo mandato.[^23-2]
 
-<sup>6</sup> Su richiesta dell'organo di controllo, i fornitori di servizi della società dell'informazione sono tenuti a cooperare con l'organo di controllo nell'adozione di misure volte a eliminare o ridurre i rischi connessi ai prodotti a bassa tensione messi in vendita online attraverso i loro servizi.[^23-3]
+<sup>6</sup> Su richiesta dell’organo di controllo, i fornitori di servizi della società dell’informazione sono tenuti a cooperare con l’organo di controllo nell’adozione di misure volte a eliminare o ridurre i rischi connessi ai prodotti a bassa tensione messi in vendita online attraverso i loro servizi.[^23-3]
 
-[^23-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+<sup>7</sup> Il DATEC concorda con l’organo di controllo l’entità delle attività di sorveglianza del mercato.[^23-4]
+
+[^23-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^23-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^23-3]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^23-4]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 822](https://fedlex.data.admin.ch/eli/oc/2022/822)).
 
 #### Art. 24
 
@@ -382,7 +385,7 @@ I prodotti a bassa tensione che non adempiono i requisiti per la messa a disposi
 
 <sup>3</sup> Se constatano che un prodotto non è conforme alle prescrizioni, adottano le misure necessarie e, se risulta necessario in considerazione dei rischi, informano senza indugio l’organo di controllo in merito alle carenze riscontrate e alle misure adottate.
 
-<sup>4</sup> Se il fabbricante non ha designato né un domicilio in Svizzera né un rappresentante autorizzato e non vi è alcun importatore, il fornitore di servizi di logistica informa senza indugio l'organo di controllo in merito alle carenze riscontrate e alle misure adottate, se ciò risulta necessario in considerazione dei rischi.[^24-1]
+<sup>4</sup> Se il fabbricante non ha designato né un domicilio in Svizzera né un rappresentante autorizzato e non vi è alcun importatore, il fornitore di servizi di logistica informa senza indugio l’organo di controllo in merito alle carenze riscontrate e alle misure adottate, se ciò risulta necessario in considerazione dei rischi.[^24-1]
 
 [^24-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
@@ -416,7 +419,7 @@ Nell’ambito della sorveglianza del mercato, l’organo di controllo può:
 
 <sup>4</sup> I costi della verifica di cui al capoverso 1 lettera c sono a carico dell’operatore economico se la documentazione non è stata presentata entro il termine o è incompleta, oppure se dalla verifica risulta che il prodotto a bassa tensione non è conforme ai requisiti.
 
-<sup>5</sup> In assenza di altri mezzi efficaci per eliminare un grave rischio, l'organo di controllo ha anche la facoltà di ordinare all'operatore economico o al prestatore di servizi della società dell'informazione di rimuovere contenuti relativi a un prodotto a bassa tensione da un'interfaccia online.[^25-1]
+<sup>5</sup> In assenza di altri mezzi efficaci per eliminare un grave rischio, l’organo di controllo ha anche la facoltà di ordinare all’operatore economico o al prestatore di servizi della società dell’informazione di rimuovere contenuti relativi a un prodotto a bassa tensione da un’interfaccia online.[^25-1]
 
 [^25-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
@@ -428,10 +431,10 @@ Nell’ambito della sorveglianza del mercato, l’organo di controllo può:
 
 <sup>1bis</sup>
 
-L'organo di controllo può informare la popolazione della non conformità tecnica di un prodotto a bassa tensione, in particolare se non è possibile identificare tutti gli operatori economici o se il numero di questi ultimi è troppo elevato. In particolare, può pubblicare le informazioni seguenti:
+L’organo di controllo può informare la popolazione della non conformità tecnica di un prodotto a bassa tensione, in particolare se non è possibile identificare tutti gli operatori economici o se il numero di questi ultimi è troppo elevato. In particolare, può pubblicare le informazioni seguenti:
 
-- a. le informazioni che ne permettono l'identificazione, in particolare il fabbricante, il marchio e il tipo;
-- b. l'utilizzo a cui è destinato il prodotto a bassa tensione;
+- a. le informazioni che ne permettono l’identificazione, in particolare il fabbricante, il marchio e il tipo;
+- b. l’utilizzo a cui è destinato il prodotto a bassa tensione;
 - c. le fotografie del prodotto a bassa tensione e del suo imballaggio;
 - d. la data della decisione di non conformità;
 - e. le misure adottate.[^26-1]
@@ -442,6 +445,14 @@ L'organo di controllo può informare la popolazione della non conformità tecnic
 
 [^26-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^26-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+
+#### Art. 26a
+
+**Finanziamento**[^26a-1]
+
+I costi per l’esecuzione della sorveglianza del mercato da parte dell’organo di controllo sono a carico del DATEC, se non coperti dagli emolumenti riscossi sulla base della presente ordinanza.
+
+[^26a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 822](https://fedlex.data.admin.ch/eli/oc/2022/822)).
 
 ## Capitolo 7: Emolumenti e disposizioni penali
 
@@ -497,7 +508,7 @@ Ai fini della corretta interpretazione della direttiva UE «bassa tensione»[^an
 - a. espressioni in tedesco
 
 <table>
-<tr><td>EU</td><td>Schweiz</td></tr>
+<tr><th>EU</th><th>Schweiz</th></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
 <tr><td>Unionsmarkt</td><td>Schweizerischer Markt</td></tr>
@@ -510,7 +521,7 @@ Ai fini della corretta interpretazione della direttiva UE «bassa tensione»[^an
 - b. espressioni in francese
 
 <table>
-<tr><td>UE</td><td>Suisse</td></tr>
+<tr><th>UE</th><th>Suisse</th></tr>
 <tr><td>état membre</td><td>Suisse</td></tr>
 <tr><td>déclaration UE de conformité</td><td>déclaration de conformité</td></tr>
 <tr><td>Marché de l’Union</td><td>Marché suisse</td></tr>
@@ -523,7 +534,7 @@ Ai fini della corretta interpretazione della direttiva UE «bassa tensione»[^an
 - c. espressioni in italiano
 
 <table>
-<tr><td>UE</td><td>Svizzera</td></tr>
+<tr><th>UE</th><th>Svizzera</th></tr>
 <tr><td>Dichiarazione di conformità UE</td><td>Dichiarazione di conformità</td></tr>
 <tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio federale</td></tr>
 <tr><td>Mercato dell’Unione</td><td>Mercato svizzero</td></tr>

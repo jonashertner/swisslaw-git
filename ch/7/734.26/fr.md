@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur les matériels électriques à basse t
 short: OMBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/17"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-17-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-17-20230101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20220101/fr"
 
 (OMBT)
 
-du 25 novembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu les art. 3 et 55, al. 3, de la loi fédérale du 24 juin 1902 concernant les 
 
 arrête:
 
-[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-2]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Chapitre 1 Dispositions générales
 
@@ -47,7 +47,7 @@ Elle s’applique également aux matériels électriques:
 <sup>3</sup> Les dispositions de l’ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique[^1-2] sont réservées.
 
 [^1-1]: Directive 2014/35/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la mise à disposition sur le marché du matériel électrique destiné à être employé dans certaines limites de tension (nouvelle version), version du JO L 96 du 29.3.2014, p. 357.
-[^1-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^1-2]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 
 #### Art. 2
 
@@ -77,7 +77,7 @@ Dans la présente ordonnance, on entend par:
 [^2-3]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-4]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-5]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
-[^2-6]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-6]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 [^2-7]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-8]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^2-9]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
@@ -285,9 +285,10 @@ La demande d’autorisation doit comporter:
 - b. la marque de fabrique, le type et les principales caractéristiques techniques;
 - c. la preuve de sa compatibilité électromagnétique au sens des dispositions de l’ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique[^16-1];
 - d. le rapport d’un organisme d’essai ou l’attestation de conformité d’un organisme d’évaluation de la conformité.
-- [tab] <sup>3</sup> L’organe de contrôle peut par ailleurs demander un échantillon du matériel et les documents techniques qui s’y rapportent.
 
-[^16-1]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+<sup>3</sup> L’organe de contrôle peut par ailleurs demander un échantillon du matériel et les documents techniques qui s’y rapportent.
+
+[^16-1]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 
 #### Art. 17
 
@@ -303,7 +304,7 @@ Les laboratoires d’essai et les organismes d’évaluation de la conformité q
 
 <sup>2</sup> Quiconque se réfère à des documents émanant d’un organisme autre que ceux visés à l’al. 1 doit démontrer que les méthodes et qualifications dudit organisme répondent aux exigences suisses (art. 18, al. 2, LETC).
 
-[^17-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^17-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 18
 
@@ -325,7 +326,7 @@ L’autorisation est retirée si les conditions d’octroi ne sont plus remplies
 
 <sup>1</sup> Le signe de sécurité facultatif a la forme suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/fr/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20230101/fr/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20230101/fr/xml/image/image2.png)
 
 <sup>2</sup> S’il est techniquement impossible d’apposer le signe dans la forme définie à l’al. 1, l’organe de contrôle peut autoriser une autre forme d’apposition.
 
@@ -366,9 +367,12 @@ Les matériels à basse tension qui ne répondent pas aux exigences requises pou
 
 <sup>6</sup> Sur demande de l’organe de contrôle, les prestataires de services de la société de l’information ont l’obligation de coopérer avec lui dans la mise en œuvre de mesures destinées à éliminer ou à réduire les risques présentés par le matériel électrique à basse tension qui est ou a été proposé à la vente en ligne par l’intermédiaire de leurs services.[^23-3]
 
-[^23-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+<sup>7</sup> Le DETEC détermine, d’entente avec l’organe de contrôle, l’étendue de l’activité de surveillance du marché.[^23-4]
+
+[^23-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^23-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^23-3]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^23-4]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 822](https://fedlex.data.admin.ch/eli/oc/2022/822)).
 
 #### Art. 24
 
@@ -441,6 +445,14 @@ L’organe de contrôle peut informer la population de la non-conformité techni
 [^26-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 [^26-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
+#### Art. 26a
+
+**Financement**[^26a-1]
+
+Les frais d’exécution de la surveillance du marché exercée par l’organe de contrôle sont pris en charge par le DETEC pour autant qu’ils ne soient pas couverts par des émoluments perçus sur la base de la présente ordonnance.
+
+[^26a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 822](https://fedlex.data.admin.ch/eli/oc/2022/822)).
+
 ## Chapitre 7 Émoluments et dispositions pénales
 
 #### Art. 27
@@ -468,7 +480,7 @@ Est puni conformément aux peines prévues à l’art. 55 LIE quiconque utilise 
 
 **Abrogation d’un autre acte**
 
-L’ordonnance du 9 avril 1997 sur les matériels électriques à basse tension est abrogée [^29-1].
+L’ordonnance du 9 avril 1997 sur les matériels électriques à basse tension est abrogée[^29-1].
 
 [^29-1]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2].
 
@@ -495,7 +507,7 @@ Pour interpréter correctement la directive UE basse tension[^annexu1-lvlu1-1], 
 - a. Termes allemands
 
 <table>
-<tr><td>EU</td><td>Schweiz</td></tr>
+<tr><th>EU</th><th>Schweiz</th></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
 <tr><td>Unionsmarkt</td><td>Schweizerischer Markt</td></tr>
@@ -508,7 +520,7 @@ Pour interpréter correctement la directive UE basse tension[^annexu1-lvlu1-1], 
 - b. Termes français
 
 <table>
-<tr><td>UE</td><td>Suisse</td></tr>
+<tr><th>UE</th><th>Suisse</th></tr>
 <tr><td>état membre</td><td>Suisse</td></tr>
 <tr><td>déclaration UE de conformité</td><td>déclaration de conformité</td></tr>
 <tr><td>Marché de l’Union</td><td>Marché suisse</td></tr>
