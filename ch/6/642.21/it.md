@@ -4,11 +4,11 @@ title: "Legge federale del 13 ottobre 1965 sull'imposta preventiva (LIP)"
 short: LIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: it
-version: 2022-09-01
+version: 2023-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220901/it/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220901/it"
 
 (LIP)[^t-1]
 
-del 13 ottobre 1965 (Stato 1° settembre 2022)
+del 13 ottobre 1965 (Stato 1° gennaio 2023)
 
 [^t-1]: Abbreviazione introdotta dal n. I 4 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
@@ -101,9 +101,9 @@ L’imposta preventiva sui redditi di capitali mobili ha per oggetto gli interes
 
 [^4a-1]
 
-<sup>1</sup> La società di capitali o la società cooperativa che acquista i propri diritti di partecipazione (azioni, quote sociali di società a garanzia limitata e di società cooperative, buoni di partecipazione di banche cooperative, buoni di partecipazione o buoni di godimento) in virtù di una decisione di riduzione del suo capitale o nell’intento di ridurlo, deve l’imposta preventiva sulla differenza tra il prezzo d’acquisto e il valore nominale liberato di questi diritti di partecipazione.[^4a-2] Quest’imposizione si applica anche quando l’acquisto dei propri diritti di partecipazione supera i limiti previsti nell’articolo 659 o 783 del Codice delle obbligazioni[^4a-3].[^4a-4]
+<sup>1</sup> La società di capitali o la società cooperativa che acquista i propri diritti di partecipazione (azioni, quote sociali di società a garanzia limitata e di società cooperative, buoni di partecipazione di banche cooperative, buoni di partecipazione o buoni di godimento) in virtù di una decisione di riduzione del suo capitale o nell’intento di ridurlo, deve l’imposta preventiva sulla differenza tra il prezzo d’acquisto e il valore nominale liberato di questi diritti di partecipazione.[^4a-2] Quest’imposizione si applica anche quando l’acquisto dei propri diritti di partecipazione supera i limiti previsti nell’articolo 659 o 783 del Codice delle obbligazioni (CO)[^4a-3].[^4a-4]
 
-<sup>2</sup> Il capoverso 1 si applica per analogia se la società di capitali o la società cooperativa che ha acquistato i propri diritti di partecipazione entro i limiti previsti nell’articolo 659 o 783 del Codice delle obbligazioni non riduce successivamente il suo capitale e non li rivende entro un termine di sei anni.[^4a-5]
+<sup>2</sup> Il capoverso 1 si applica per analogia se la società di capitali o la società cooperativa che ha acquistato i propri diritti di partecipazione entro i limiti previsti nell’articolo 659 o 783 CO non riduce successivamente il suo capitale e non li rivende entro un termine di sei anni.[^4a-5]
 
 <sup>3</sup> Se la società di capitali o la società cooperativa acquista i propri diritti di partecipazione nell’ambito di impegni fondati su un prestito convertibile o a opzione oppure su un piano di partecipazione del personale, il termine di rivendita di cui al capoverso 2 è sospeso sino all’estinzione di questi impegni, ma al massimo per sei anni nel caso di piani di partecipazione del personale.
 
@@ -112,8 +112,8 @@ L’imposta preventiva sui redditi di capitali mobili ha per oggetto gli interes
 [^4a-1]: Introdotto dal n. I 4 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669)677; [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^4a-2]: Nuovo testo giusta l’all. n. II 10 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4a-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^4a-4]: Nuovo testo giusta l’all. n. 9 del LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)4837; [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^4a-5]: Nuovo testo giusta l’all. n. 9 del LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)4837; [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^4a-4]: Nuovo testo del per. giusta l’all. n. 9 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^4a-5]: Nuovo testo giusta l’all. n. 9 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^4a-6]: Introdotto dal n. I 7 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### 2. Eccezioni
@@ -130,31 +130,24 @@ Non sono soggetti all’imposta preventiva:
 - d. gli interessi dei depositi destinati a costituire ed alimentare averi per il caso di sopravvivenza o di morte presso istituti, casse e altri enti aventi per scopo l’assicurazione per la vecchiaia, l’invalidità, i superstiti, o la previdenza sociale;
 - e.[^5-6] ...
 - f.[^5-7] le prestazioni volontarie di una società anonima, di una società a garanzia limitata o di una società cooperativa, se tali prestazioni costituiscono oneri giustificati dall’uso commerciale ai sensi dell’articolo 59 capoverso 1 lettera c LIFD[^5-8];
-- g.[^5-9]
+- g.[^5-9] gli interessi corrisposti da banche o società di gruppi finanziari per gli strumenti di capitale di terzi secondo gli articoli 11 capoverso 4 e 30*b* capoverso 6 della legge dell’8 novembre 1934[^5-10] sulle banche (LBCR) approvati dall’Autorità federale di vigilanza sui mercati finanziari (FINMA) ai fini dell’adempimento di esigenze prudenziali, sempre che lo strumento di capitale di terzi interessato sia emesso tra il 1° gennaio 2013 e il 31 dicembre 2026;
+- h.[^5-11] i pagamenti di interessi dei partecipanti a una controparte centrale ai sensi della legge del 19 giugno 2015[^5-12] sull’infrastruttura finanziaria, nonché quelli di una controparte centrale ai suoi partecipanti;
+- i.[^5-13]
 
-  gli interessi dei prestiti obbligatoriamente convertibili e dei prestiti con rinuncia al credito di cui agli articoli 11–13 della legge dell’8 novembre 1934[^5-10] sulle banche, sempre che:
+  gli interessi corrisposti da banche o società di gruppi finanziari per gli strumenti di capitale di terzi secondo l’articolo 30*b* capoverso 7 lettera b LBCR, che:
 
-  - 1\. l’Autorità federale di vigilanza sui mercati finanziari (FINMA) abbia approvato, secondo l’articolo 11 capoverso 4 della legge sulle banche, il computo del prestito nei fondi propri richiesti, e
-  - 2\.[^5-11] il prestito sia stato emesso tra il 1° gennaio 2013 e il 31 dicembre 2026;
+  - 1\.
 
-- h.[^5-12] i pagamenti di interessi dei partecipanti a una controparte centrale ai sensi della legge del 19 giugno 2015[^5-13] sull’infrastruttura finanziaria, nonché quelli di una controparte centrale ai suoi partecipanti;
-- i.[^5-14]
-
-  gli interessi dei prestiti obbligazionari di banche o società di gruppi finanziari per le quali possono essere ordinate misure ai sensi degli articoli 28–32 della legge sulle banche, sempre che:
-
-  - 1\. il prestito obbligazionario possa essere ridotto o convertito in capitale proprio nell’ambito di un piano di risanamento ai sensi dell’articolo 31 capoverso 3 della legge sulle banche,
-  - 2\.
-
-    ai fini dell’adempimento di esigenze prudenziali la FINMA abbia approvato il prestito obbligazionario:
+    la FINMA ha approvato ai fini dell’adempimento di esigenze prudenziali:
 
     - – per le banche senza rilevanza sistemica o le società di gruppi finanziari: al momento dell’emissione
-    - – per le banche di rilevanza sistemica ai sensi degli articoli 7–10*a* della legge sulle banche: al momento dell’emissione o del cambiamento da un emittente estero a uno svizzero, e
+    - – per le banche di rilevanza sistemica ai sensi dell’articolo 7 capoverso 1 LBCR: al momento dell’emissione o del cambiamento da un emittente estero a uno svizzero, e
 
-  - 3\.[^5-15] il prestito obbligazionario sia emesso tra il 1° gennaio 2017 e il 31 dicembre 2026 oppure durante questo periodo si verifichi un cambiamento di emittente secondo il numero 2.
+  - 2\. sono emessi tra il 1° gennaio 2017 e il 31 dicembre 2026 oppure per i quali si verifica durante questo periodo un cambiamento di emittente secondo il numero 1.
 
-<sup>1bis</sup> Il rimborso delle riserve da apporti di capitale fornite dai titolari dei diritti di partecipazione dopo il 31 dicembre 1996 è trattato in modo identico a quello del capitale azionario o sociale se la società di capitali o società cooperativa allibra le riserve da apporti di capitale su un conto separato del bilancio commerciale e comunica ogni modifica di questo conto all’Amministrazione federale delle contribuzioni (AFC). Il capoverso 1<sup>ter</sup> è riservato.[^5-16]
+<sup>1bis</sup> Il rimborso delle riserve da apporti di capitale fornite dai titolari dei diritti di partecipazione dopo il 31 dicembre 1996 è trattato in modo identico a quello del capitale azionario o sociale se la società di capitali o società cooperativa allibra le riserve da apporti di capitale su un conto separato del bilancio commerciale e comunica ogni modifica di questo conto all’Amministrazione federale delle contribuzioni (AFC). Il capoverso 1<sup>ter</sup> è riservato.[^5-14]
 
-<sup>1ter</sup> In occasione del rimborso di riserve da apporti di capitale di cui al capoverso 1<sup>bis</sup>, le società di capitali o società cooperative quotate in una borsa svizzera devono distribuire altre riserve per un importo almeno equivalente. Se questa condizione non è soddisfatta, il rimborso è imponibile per un importo pari alla metà della differenza tra il rimborso stesso e la distribuzione delle altre riserve, ma al massimo per un importo pari a quello delle altre riserve disponibili che possono essere distribuite in virtù del diritto commerciale. Le altre riserve che possono essere distribuite in virtù del diritto commerciale devono essere accreditate per un importo equivalente sul conto speciale delle riserve da apporti di capitale.[^5-17]
+<sup>1ter</sup> In occasione del rimborso di riserve da apporti di capitale di cui al capoverso 1<sup>bis</sup>, le società di capitali o società cooperative quotate in una borsa svizzera devono distribuire altre riserve per un importo almeno equivalente. Se questa condizione non è soddisfatta, il rimborso è imponibile per un importo pari alla metà della differenza tra il rimborso stesso e la distribuzione delle altre riserve, ma al massimo per un importo pari a quello delle altre riserve disponibili che possono essere distribuite in virtù del diritto commerciale. Le altre riserve che possono essere distribuite in virtù del diritto commerciale devono essere accreditate per un importo equivalente sul conto speciale delle riserve da apporti di capitale.[^5-15]
 
 <sup>1quater</sup>
 
@@ -163,11 +156,13 @@ Il capoverso 1<sup>ter</sup> non si applica alle riserve da apporti di capitale:
 - a. costituite, dopo il 24 febbraio 2008, mediante il conferimento di diritti di partecipazione o societari a una società di capitali o società cooperativa estera nell’ambito di concentrazioni aventi carattere di fusione ai sensi dell’articolo 61 capoverso 1 lettera c LIFD o mediante un trasferimento transfrontaliero a una filiale svizzera ai sensi dell’articolo 61 capoverso 1 lettera d LIFD;
 - b. già esistenti in una società di capitali o società cooperativa estera, dopo il 24 febbraio 2008, al momento di una fusione o ristrutturazione transfrontaliera ai sensi dell’articolo 61 capoversi 1 lettera b e 3 LIFD o del trasferimento della sede o dell’amministrazione effettiva;
 - c. rimborsate a persone giuridiche svizzere o straniere che possiedono almeno il 10 per cento del capitale azionario o sociale della società che effettua il versamento;
-- d. in caso di liquidazione o di trasferimento della sede o dell’amministrazione effettiva della società di capitali o società cooperativa all’estero.[^5-18]
+- d. in caso di liquidazione o di trasferimento della sede o dell’amministrazione effettiva della società di capitali o società cooperativa all’estero.[^5-16]
 
-<sup>1quinquies</sup> La società deve allibrare le riserve da apporti di capitale di cui al capoverso 1<sup>quater</sup> lettere a e b su un conto separato e comunicare ogni modifica di questo conto all’AFC.[^5-19]
+<sup>1quinquies</sup> La società deve allibrare le riserve da apporti di capitale di cui al capoverso 1<sup>quater</sup> lettere a e b su un conto separato e comunicare ogni modifica di questo conto all’AFC.[^5-17]
 
-<sup>1sexies</sup> I capoversi 1<sup>ter</sup>–1<sup>quinquies</sup> si applicano per analogia anche alle riserve da apporti di capitale utilizzate per l’emissione di azioni gratuite o gli aumenti gratuiti del valore nominale.[^5-20]
+<sup>1sexies</sup> I capoversi 1<sup>ter</sup>–1<sup>quinquies</sup> si applicano per analogia anche alle riserve da apporti di capitale utilizzate per l’emissione di azioni gratuite o gli aumenti gratuiti del valore nominale.[^5-18]
+
+<sup>1septies</sup> Il capoverso 1<sup>bis</sup> si applica agli apporti e all’aggio forniti durante la validità di un margine di variazione del capitale secondo gli articoli 653*s* e seguenti del CO[^5-19] per quanto eccedano le riserve rimborsate nell’ambito del suddetto margine di variazione del capitale.[^5-20]
 
 <sup>2</sup> L’ordinanza può prescrivere che siano addizionati gli interessi di diversi averi di clienti che un medesimo creditore o una medesima persona avente diritto di disporne possiede presso la stessa banca o cassa di risparmio; l’AFC può ordinare che si proceda, nel caso singolo, a tale cumulo, se vi è manifesto abuso.[^5-21]
 
@@ -179,18 +174,18 @@ Il capoverso 1<sup>ter</sup> non si applica alle riserve da apporti di capitale:
 [^5-6]: Introdotta dall’art. 25 della LF del 20 dic. 1985 sulla costituzione di riserve di crisi beneficianti di sgravi fiscali ([RU 1988 1420](https://fedlex.data.admin.ch/eli/oc/1988/1420_1420_1420); [FF 1984 I 908](https://fedlex.data.admin.ch/eli/fga/1984/1_1129_1147_908)). Abrogata dal n. I della LF del 28 set. 2018, con effetto dal 1° gen. 2019 ([RU 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [FF 2018 1951](https://fedlex.data.admin.ch/eli/fga/2018/890)).
 [^5-7]: Introdotta dall’all. n. 5 della LF dell’8 ott. 2004 (diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)4549; [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^5-8]: Nuova espr. giusta il n. I della LF del 28 set. 2018, in vigore dal 1° gen. 2019 ([RU 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [FF 2018 1951](https://fedlex.data.admin.ch/eli/fga/2018/890)).
-[^5-9]: Introdotta dal n. I della LF del 15 giu. 2012 ([RU 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [FF 2011 5885](https://fedlex.data.admin.ch/eli/fga/2011/1054)). Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
+[^5-9]: Introdotta dal n. I della LF del 15 giu. 2012 ([RU 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [FF 2011 5885](https://fedlex.data.admin.ch/eli/fga/2011/1054)). Nuovo testo giusta l’all. n. 7 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^5-10]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^5-11]: Nuovo testo giusta il n. I della LF del 18 giu. 2021 (Strumenti «Too big to fail»), in vigore dal 1° gen. 2022 ([RU 2021 719](https://fedlex.data.admin.ch/eli/oc/2021/719); [FF 2020 7607](https://fedlex.data.admin.ch/eli/fga/2020/2313)).
-[^5-12]: Introdotta dall’all. n. 7 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^5-13]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-14]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
-[^5-15]: Nuovo testo giusta il n. I della LF del 18 giu. 2021 (Strumenti «Too big to fail»), in vigore dal 1° gen. 2022 ([RU 2021 719](https://fedlex.data.admin.ch/eli/oc/2021/719); [FF 2020 7607](https://fedlex.data.admin.ch/eli/fga/2020/2313)).
-[^5-16]: Introdotto dal n. II 4 della LF del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta il n. I 7 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^5-11]: Introdotta dall’all. n. 7 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^5-12]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-13]: Introdotta dal n. I della LF del 18 mar. 2016 ([RU 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1692)). Nuovo testo giusta l’all. n. 7 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^5-14]: Introdotto dal n. II 4 della LF del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta il n. I 7 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^5-15]: Introdotto dal n. I 7 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^5-16]: Introdotto dal n. I 7 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^5-17]: Introdotto dal n. I 7 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^5-18]: Introdotto dal n. I 7 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^5-19]: Introdotto dal n. I 7 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^5-20]: Introdotto dal n. I 7 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^5-19]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-20]: Introdotto dall’all. n. 9 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [112](https://fedlex.data.admin.ch/eli/oc/2022/112); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^5-21]: Nuovo testo giusta il n. II 4 della LF del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2010 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397)2902; [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 ### II. Vincite ai giochi in denaro nonché ai giochi di destrezza e alle lotterie destinati a promuovere le vendite
@@ -686,7 +681,7 @@ I portatori, domiciliati all’estero, di quote di investimenti collettivi di ca
 <sup>5</sup> Il Consiglio federale può emanare disposizioni d’esecuzione, concernenti in particolare l’organizzazione e la gestione del sistema d’informazione, le categorie di dati da rilevare, il diritto d’accesso e di trattamento, la durata di conservazione, l’archiviazione e la distruzione dei dati.
 
 [^36a-1]: Introdotto dal n. VI 2 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^36a-2]: Per. privo di oggetto ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673)n. II; [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^36a-2]: Privo di oggetto ([RU 2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)n. II; [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### III. Obbligo del segreto
 
@@ -1046,23 +1041,24 @@ Chiunque, intenzionalmente o per negligenza, al fine di procacciare un profitto 
 
 #### Art. 62
 
-<sup>1</sup> è punito, in quanto non si applichi una disposizione penale degli articoli 14 a 16 della legge federale del 22 marzo 1974[^62-1] sul diritto penale amministrativo, con la multa fino a 20 000 franchi.[^62-2]
+<sup>1</sup>
 
 Chiunque, intenzionalmente o per negligenza, compromette l’applicazione legale dell’imposta preventiva:
 
 - a. non assolvendo, nella procedura di riscossione dell’imposta, l’obbligo di iscriversi come contribuente, di presentare le notifiche, le distinte e i rendiconti, di fornire le informazioni, di presentare i libri di commercio e i documenti giustificativi;
 - b. rilasciando, sia come contribuente, sia in sua vece, un’attestazione inesatta quanto alla deduzione dell’imposta (art. 14 cpv. 2);
 - c. fornendo dati falsi o tacendo fatti rilevanti in una distinta o in un rendiconto, in una notifica o in un affidavit (art. 11), in un’istanza di rimborso, di condono dell’imposta o di esenzione dalla stessa, o presentando a tale occasione documenti inesatti per giustificare fatti rilevanti;
-- d.[^62-3] fornendo informazioni inesatte come contribuente, istante o terza persona tenuta a dare informazioni;
+- d.[^62-1] fornendo informazioni inesatte come contribuente, istante o terza persona tenuta a dare informazioni;
 - e. facendo valere un diritto al rimborso che non gli compete o che gli è già stato soddisfatto;
 - f. contravvenendo all’obbligo di tenere regolarmente e di conservare i libri di commercio, i registri e i documenti giustificativi; oppure;
 - g. rendendo difficile, impedendo o rendendo impossibile la esecuzione normale di una verifica contabile o di altri controlli ufficiali;
+- è punito, in quanto non si applichi una disposizione penale degli articoli 14 a 16 della legge federale del 22 marzo 1974[^62-2] sul diritto penale amministrativo, con la multa fino a 20 000 franchi.[^62-3]
 
 <sup>2</sup> È riservata l’azione penale conformemente all’articolo 285 del Codice penale svizzero[^62-4] quando trattasi di un’infrazione nel senso del capoverso 1 lettera *g*.
 
-[^62-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-2]: Nuovo testo dell’ultimo comma giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^62-3]: Nuovo testo giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^62-1]: Nuovo testo giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^62-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-3]: Nuovo testo dell’ultimo comma giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^62-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### III. Violazione dell’obbligo di trasferire l’imposta

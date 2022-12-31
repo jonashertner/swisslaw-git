@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer (Verrechn
 short: VStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: de
-version: 2022-09-01
+version: 2023-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220901/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220901/de"
 
 (Verrechnungssteuergesetz, VStG)[^t-1]
 
-vom 13. Oktober 1965 (Stand am 1. September 2022)
+vom 13. Oktober 1965 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [BBl 2011 6615](https://fedlex.data.admin.ch/eli/fga/2011/1054)).
 
@@ -101,9 +101,9 @@ Gegenstand der Verrechnungssteuer auf dem Ertrag beweglichen Kapitalvermögens s
 
 [^4a-1]
 
-<sup>1</sup> Erwirbt eine Gesellschaft oder eine Genossenschaft gestützt auf einen Beschluss über die Herabsetzung des Kapitals oder im Hinblick auf eine Herabsetzung ihres Kapitals eigene Beteiligungsrechte (Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung, Anteilscheine von Genossenschaften, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine oder Genussscheine), so unterliegt die Differenz zwischen dem Erwerbspreis und dem einbezahlten Nennwert dieser Beteiligungsrechte der Verrechnungssteuer.[^4a-2] Dasselbe gilt, soweit der Erwerb eigener Beteiligungsrechte den Rahmen der Artikel 659 oder 783 des Obligationenrechts[^4a-3] überschreitet.[^4a-4]
+<sup>1</sup> Erwirbt eine Gesellschaft oder eine Genossenschaft gestützt auf einen Beschluss über die Herabsetzung des Kapitals oder im Hinblick auf eine Herabsetzung ihres Kapitals eigene Beteiligungsrechte (Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung, Anteilscheine von Genossenschaften, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine oder Genussscheine), so unterliegt die Differenz zwischen dem Erwerbspreis und dem einbezahlten Nennwert dieser Beteiligungsrechte der Verrechnungssteuer.[^4a-2] Dasselbe gilt, soweit der Erwerb eigener Beteiligungsrechte den Rahmen der Artikel 659 oder 783 des Obligationenrechts (OR)[^4a-3] überschreitet.[^4a-4]
 
-<sup>2</sup> Erwirbt eine Gesellschaft oder eine Genossenschaft im Rahmen der Artikel 659 oder 783 des Obligationenrechts eigene Beteiligungsrechte, ohne anschliessend ihr Kapital herabzusetzen, so gilt Absatz 1 sinngemäss, wenn die Gesellschaft oder die Genossenschaft diese Beteiligungsrechte nicht innerhalb von sechs Jahren wieder veräussert.[^4a-5]
+<sup>2</sup> Erwirbt eine Gesellschaft oder eine Genossenschaft im Rahmen der Artikel 659 oder 783 OR eigene Beteiligungsrechte, ohne anschliessend ihr Kapital herabzusetzen, so gilt Absatz 1 sinngemäss, wenn die Gesellschaft oder die Genossenschaft diese Beteiligungsrechte nicht innerhalb von sechs Jahren wieder veräussert.[^4a-5]
 
 <sup>3</sup> Hat eine Gesellschaft oder Genossenschaft eigene Beteiligungsrechte aus Anlass von Verpflichtungen erworben, die auf einer Wandelanleihe, einer Optionsanleihe oder einem Mitarbeiterbeteiligungsplan beruhen, so steht die Frist zur Wiederveräusserung nach Absatz 2 bis zum Erlöschen der betreffenden Verpflichtungen, im Falle des Mitarbeiterbeteiligungsplans jedoch längstens sechs Jahre, still.
 
@@ -112,8 +112,8 @@ Gegenstand der Verrechnungssteuer auf dem Ertrag beweglichen Kapitalvermögens s
 [^4a-1]: Eingefügt durch Ziff. I 4 des BG vom 10. Okt. 1997 über die Reform der Unternehmens‑ besteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^4a-2]: Fassung gemäss Anhang Ziff. II 10 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4a-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^4a-4]: Fassung gemäss Anhang Ziff. 9 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^4a-5]: Fassung gemäss Anhang Ziff. 9 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^4a-4]: Fassung des zweiten Satzes gemäss Anhang Ziff. 9 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^4a-5]: Fassung gemäss Anhang Ziff. 9 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^4a-6]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
 
 ### 2. Ausnahmen
@@ -130,31 +130,24 @@ Von der Steuer sind ausgenommen:
 - d. die Zinsen der Einlagen zur Bildung und Äufnung von auf den Erlebens- oder Todesfall gestellten Guthaben bei Anstalten, Kassen und sonstigen Einrichtungen, die der Alters‑, Invaliditäts- oder Hinterlassenenversicherung oder ‑fürsorge dienen;
 - e.[^5-6] …
 - f.[^5-7] die freiwilligen Leistungen einer Aktiengesellschaft, einer Gesellschaft mit beschränkter Haftung oder einer Genossenschaft, sofern diese Leistungen gestützt auf Artikel 59 Absatz 1 Buchstabe c DBG[^5-8] geschäftsmässig begründet sind;
-- g.[^5-9]
+- g.[^5-9] die Zinsen von Banken oder Konzerngesellschaften von Finanzgruppen für von der Eidgenössischen Finanzmarktaufsicht (FINMA) im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigte Fremdkapitalinstrumente nach den Artikeln 11 Absatz 4 und 30*b* Absatz 6 des Bankengesetzes vom 8. November 1934[^5-10] (BankG), sofern das betreffende Fremdkapitalinstrument zwischen dem 1. Januar 2013 und dem 31. Dezember 2026 ausgegeben wird;
+- h.[^5-11] Zinszahlungen von Teilnehmern an eine zentrale Gegenpartei im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^5-12] sowie von einer zentralen Gegenpartei an ihre Teilnehmer;
+- i.[^5-13]
 
-  die Zinsen von Pflichtwandelanleihen und Anleihen mit Forderungsverzicht nach den Artikeln 11–13 des Bankengesetzes vom 8. November 1934[^5-10], sofern:
+  die Zinsen von Banken oder Konzerngesellschaften von Finanzgruppen für Fremdkapitalinstrumente nach Artikel 30*b* Absatz 7 Buchstabe b BankG, die:
 
-  - 1\. die Eidgenössische Finanzmarktaufsicht (FINMA), gestützt auf Artikel 11 Absatz 4 des Bankengesetzes, die Anrechnung der Anleihe an die erforderlichen Eigenmittel genehmigt hat, und
-  - 2\.[^5-11] die Anleihe zwischen dem 1. Januar 2013 und dem 31. Dezember 2026 ausgegeben wird;
+  - 1\.
 
-- h.[^5-12] Zinszahlungen von Teilnehmern an eine zentrale Gegenpartei im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^5-13] sowie von einer zentralen Gegenpartei an ihre Teilnehmer;
-- i.[^5-14]
-
-  die Zinsen von Anleihensobligationen von Banken oder Konzerngesellschaften von Finanzgruppen, für die Massnahmen nach den Artikeln 28–32 des Bankengesetzes angeordnet werden können, sofern:
-
-  - 1\. die Anleihensobligation durch einen Sanierungsplan nach Artikel 31 Absatz 3 des Bankengesetzes reduziert oder in Eigenkapital umgewandelt werden kann,
-  - 2\.
-
-    die FINMA die Anleihensobligation im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigt hat:
+    die FINMA im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigt hat:
 
     - – bei nicht systemrelevanten Banken oder bei Konzerngesellschaften von Finanzgruppen: im Zeitpunkt der Emission
-    - – bei systemrelevanten Banken nach den Artikeln 7–10*a* des Bankengesetzes: im Zeitpunkt der Emission oder bei einem Wechsel von einem ausländischen zu einem schweizerischen Emittenten, und
+    - – bei systemrelevanten Banken nach den Artikeln 7 Absatz 1 BankG: im Zeitpunkt der Emission oder bei einem Wechsel von einem ausländischen zu einem schweizerischen Emittenten, und
 
-  - 3\.[^5-15] die Anleihensobligation zwischen dem 1. Januar 2017 und dem 31. Dezember 2026 ausgegeben wird oder während dieser Zeit ein Wechsel des Emittenten nach Ziffer 2 stattfindet.
+- 2\. zwischen dem 1. Januar 2017 und dem 31. Dezember 2026 ausgegeben werden oder deren Emittent während dieser Zeit nach Ziffer 1 wechselt.
 
-<sup>1bis</sup> Die Rückzahlung von Reserven aus Kapitaleinlagen, die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital, wenn die Reserven aus Kapitaleinlagen von der Kapitalgesellschaft oder Genossenschaft in der Handelsbilanz auf einem gesonderten Konto ausgewiesen werden und die Gesellschaft oder Genossenschaft jede Veränderung auf diesem Konto der Eidgenössischen Steuerverwaltung (ESTV) meldet. Absatz 1<sup>ter</sup> bleibt vorbehalten.[^5-16]
+<sup>1bis</sup> Die Rückzahlung von Reserven aus Kapitaleinlagen, die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital, wenn die Reserven aus Kapitaleinlagen von der Kapitalgesellschaft oder Genossenschaft in der Handelsbilanz auf einem gesonderten Konto ausgewiesen werden und die Gesellschaft oder Genossenschaft jede Veränderung auf diesem Konto der Eidgenössischen Steuerverwaltung (ESTV) meldet. Absatz 1<sup>ter</sup> bleibt vorbehalten.[^5-14]
 
-<sup>1ter</sup> Kapitalgesellschaften und Genossenschaften, die an einer schweizerischen Börse kotiert sind, haben bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 1<sup>bis</sup> mindestens im gleichen Umfang übrige Reserven auszuschütten. Ist diese Bedingung nicht erfüllt, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven. Im gleichen Umfang sind handelsrechtlich ausschüttungsfähige übrige Reserven dem gesonderten Konto für Reserven aus Kapitaleinlagen zuzuweisen.[^5-17]
+<sup>1ter</sup> Kapitalgesellschaften und Genossenschaften, die an einer schweizerischen Börse kotiert sind, haben bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 1<sup>bis</sup> mindestens im gleichen Umfang übrige Reserven auszuschütten. Ist diese Bedingung nicht erfüllt, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven. Im gleichen Umfang sind handelsrechtlich ausschüttungsfähige übrige Reserven dem gesonderten Konto für Reserven aus Kapitaleinlagen zuzuweisen.[^5-15]
 
 <sup>1quater</sup>
 
@@ -163,11 +156,13 @@ Absatz 1<sup>ter</sup> ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
 - a. die bei fusionsähnlichen Zusammenschlüssen durch Einbringen von Beteiligungs- und Mitgliedschaftsrechten an einer ausländischen Kapitalgesellschaft oder Genossenschaft nach Artikel 61 Absatz 1 Buchstabe c DBG oder durch eine grenzüberschreitende Übertragung auf eine inländische Tochtergesellschaft nach Artikel 61 Absatz 1 Buchstabe d DBG nach dem 24. Februar 2008 entstanden sind;
 - b. die im Zeitpunkt einer grenzüberschreitenden Fusion oder Umstrukturierung nach Artikel 61 Absatz 1 Buchstabe b und Absatz 3 DBG oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung nach dem 24. Februar 2008 bereits in einer ausländischen Kapitalgesellschaft oder Genossenschaft vorhanden waren;
 - c. die an in- und ausländische juristische Personen zurückgezahlt werden, die zu mindestens 10 Prozent am Grund- oder Stammkapital der leistenden Gesellschaft beteiligt sind;
-- d. im Falle der Liquidation oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung der Kapitalgesellschaft oder Genossenschaft ins Ausland.[^5-18]
+- d. im Falle der Liquidation oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung der Kapitalgesellschaft oder Genossenschaft ins Ausland.[^5-16]
 
-<sup>1quinquies</sup> Die Gesellschaft hat die Reserven aus Kapitaleinlagen nach Absatz 1<sup>quater</sup> Buchstaben a und b auf einem gesonderten Konto auszuweisen und der ESTV jede Veränderung auf diesem Konto zu melden.[^5-19]
+<sup>1quinquies</sup> Die Gesellschaft hat die Reserven aus Kapitaleinlagen nach Absatz 1<sup>quater</sup> Buchstaben a und b auf einem gesonderten Konto auszuweisen und der ESTV jede Veränderung auf diesem Konto zu melden.[^5-17]
 
-<sup>1sexies</sup> Die Absätze 1<sup>ter</sup>–1<sup>quinquies</sup> gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.[^5-20]
+<sup>1sexies</sup> Die Absätze 1<sup>ter</sup>–1<sup>quinquies</sup> gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.[^5-18]
+
+<sup>1septies</sup> Absatz 1<sup>bis</sup> gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653*s* ff. des OR[^5-19] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.[^5-20]
 
 <sup>2</sup> Die Verordnung kann vorschreiben, dass Zinsen verschiedener, von einem Gläubiger oder Verfügungsberechtigten bei der gleichen Bank oder Sparkasse unterhaltener Kundenguthaben zusammenzurechnen sind; bei offenbarem Missbrauch kann die ESTV eine solche Zusammenrechnung im Einzelfall anordnen.[^5-21]
 
@@ -179,18 +174,18 @@ Absatz 1<sup>ter</sup> ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
 [^5-6]: Eingefügt durch Art. 25 des ABRG vom 20. Dez. 1985 ([AS 1988 1420](https://fedlex.data.admin.ch/eli/oc/1988/1420_1420_1420); [BBl 1984 I 1129](https://fedlex.data.admin.ch/eli/fga/1984/1_1129_1147_908)). Aufgehoben durch Ziff. I des BG vom 28. Sept. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [BBl 2018 2325](https://fedlex.data.admin.ch/eli/fga/2018/890)).
 [^5-7]: Eingefügt durch Anhang Ziff. 5 des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^5-8]: Ausdruck gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [BBl 2018 2325](https://fedlex.data.admin.ch/eli/fga/2018/890)).
-[^5-9]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012 ([AS 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [BBl 2011 6615](https://fedlex.data.admin.ch/eli/fga/2011/1054)). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [BBl 2015 7083](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
+[^5-9]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012 ([AS 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [BBl 2011 6615](https://fedlex.data.admin.ch/eli/fga/2011/1054)). Fassung gemäss Anhang Ziff. 7 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^5-10]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^5-11]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Too-big-to-fail-Instrumente), in Kraft seit 1. Jan. 2022 ([AS 2021 719](https://fedlex.data.admin.ch/eli/oc/2021/719); [BBl 2020 8701](https://fedlex.data.admin.ch/eli/fga/2020/2313)).
-[^5-12]: Eingefügt durch Anhang Ziff. 7 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^5-13]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-14]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [BBl 2015 7083](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
-[^5-15]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Too-big-to-fail-Instrumente), in Kraft seit 1. Jan. 2022 ([AS 2021 719](https://fedlex.data.admin.ch/eli/oc/2021/719); [BBl 2020 8701](https://fedlex.data.admin.ch/eli/fga/2020/2313)).
-[^5-16]: Eingefügt durch Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)). Fassung gemäss Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^5-11]: Eingefügt durch Anhang Ziff. 7 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^5-12]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-13]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [BBl 2015 7083](https://fedlex.data.admin.ch/eli/fga/2015/1692)). Fassung gemäss Anhang Ziff. 7 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^5-14]: Eingefügt durch Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)). Fassung gemäss Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^5-15]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^5-16]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
 [^5-17]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
 [^5-18]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^5-19]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^5-20]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^5-19]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-20]: Eingefügt durch Anhang Ziff. 9 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [112](https://fedlex.data.admin.ch/eli/oc/2022/112); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^5-21]: Fassung gemäss Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2010 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 ### II. Gewinne aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung
