@@ -4,13 +4,13 @@ number: "436.811"
 title: Ordonnance sur la Haute école spécialisée bernoise
 short: OHESB
 language: fr
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-16
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.811"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1858/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2723/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,110 +19,110 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1858/pdf_file"
 
 (OHESB)
 
-du 05.05.2004 (état au 01.07.2020)
+du 16.11.2022 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 57, alinéas 2 et 3 de la loi du 19 juin 2003 sur la Haute école spécialisée bernoise (LHESB)[^ingress-1],
+vu les articles 10, alinéa 4, 18, alinéa 2, 18a, 19, alinéa 7, 20, alinéa 3, 22, alinéa 4, 23, alinéa 4, 24, alinéa 3, 25, alinéas 2 et 3, 26, alinéa 7, 26a, alinéa 2, 49, alinéa 3, 52, alinéa 7, 52a, alinéa 2, 53, alinéa 4, 57a et 61a, alinéa 1 de la loi du 19 juin 2003 sur la Haute école spécialisée bernoise (LHESB)[^ingress-1],
 
-sur proposition de la Direction de l’instruction publique,
+sur proposition de la Direction de l'instruction publique et de la culture,
 
 arrête:
 
-[^ingress-1]: RSB 435.411
+[^ingress-1]: RSB [435.411](https://www.belex.sites.be.ch/data/435.411/fr)
 
 ## 1 Bases
 
 #### Art. 1
 
-**Champ d’application**
+**Champ d'application et objet**
 
-<sup>1</sup> La présente ordonnance s’applique à la Haute école spécialisée bernoise.
+<sup>1</sup> La présente ordonnance s'applique à la Haute école spécialisée bernoise.
 
 <sup>2</sup> Elle contient notamment des dispositions sur
 
-- a les tâches de la Haute école spécialisée bernoise,
-- b les membres de la Haute école spécialisée bernoise,
-- c l’organisation,
+- a les tâches,
+- b les membres,
+- c l'organisation,
 - d le plan de développement, le pilotage et le financement,
 - e les compétences des autorités cantonales,
 - f la procédure, les voies de droit et la discipline.
 
-#### Art. 1a
+#### Art. 2
 
 **Filières de formation professionnelle supérieure**
 
-<sup>1</sup> Dans la mesure où la Haute école spécialisée bernoise propose, sur mandat du canton, des filières de formation professionnelle supérieure, les dispositions de la législation sur la formation professionnelle, la formation continue et l’orientation professionnelle régissent
+<sup>1</sup> Dans la mesure où la Haute école spécialisée bernoise propose, sur mandat du canton, des filières de formation professionnelle supérieure, les dispositions de la législation sur la formation professionnelle, la formation continue et l'orientation professionnelle s'appliquent
 
-- a la formation,
-- b l’organisation et les attributions ainsi que
-- c le financement de l’offre de prestations.
+- a à la formation,
+- b à l'organisation et aux attributions,
+- c au financement de l'offre de prestations.
 
-<sup>2</sup> Les conditions d’engagement du personnel de la formation professionnelle supérieure sont soumises à la législation sur le personnel du canton, pour autant que les dispositions particulières de la législation sur la Haute école spécialisée bernoise ne soient pas applicables.
+<sup>2</sup> Les rapports de travail du personnel de la formation professionnelle supérieure sont soumis à la législation sur le personnel du canton. L'alinéa 3 est réservé.
 
-<sup>3</sup> Les conditions d’engagement des enseignants et des enseignantes de la formation professionnelle supérieure sont régies par l’article 14b, alinéa 1 et les articles 15, 17 à 19, 22b, 24 à 38, 43 et 45.
+<sup>3</sup> Les rapports de travail des collaboratrices et des collaborateurs ci-après sont régis par les articles suivants:
 
-<sup>4</sup> L’autorité d’engagement des enseignants et des enseignantes de la formation professionnelle supérieure est le ou la responsable de département.
-
-<sup>5</sup> Les conditions d’engagement des assistants et des assistantes de la formation professionnelle supérieure sont régies par les articles 13, alinéa 1, lettre c, 39, 40 et 43 à 46.
-
-<sup>6</sup> Les conditions d’engagement des collaborateurs et des collaboratrices scientifiques de la formation professionnelle supérieure sont régies par les articles 13, alinéa 1, lettre c, 41 et 43 à 46.
-
-<sup>7</sup> Les conditions d’engagement des autres collaborateurs et collaboratrices de la formation professionnelle supérieure sont régies par les articles 13, alinéa 1, lettre c et 43 à 46.
-
-#### Art. 2
-
-**Statuts, charte**
-
-<sup>1</sup> La Haute école spécialisée bernoise se dote de statuts et d’une charte.
-
-<sup>2</sup> Les statuts concrétisent les mandats attribués par la loi et l’ordonnance.
-
-## 2 Tâches de la Haute école spécialisée bernoise
+- a Enseignantes et enseignants de la formation professionnelle supérieure: articles 14, alinéa 1, lettres a et c, 16, alinéa 1, lettres a et c, 18 à 22, 26, 27, 30 à 33, 36, 37 et 43 à 47. L'autorité d'engagement des enseignantes et des enseignants est la ou le responsable de département.
+- b Assistantes et assistants de la formation professionnelle supérieure: articles 12, alinéa 1, lettre c, 14, alinéa 1, lettres b et c, 16, alinéa 1, lettres b et c, 18 à 21, 26, 27, 30, 39, 40 et 43 à 47.
+- c Collaboratrices et collaborateurs scientifiques de la formation professionnelle supérieure: articles 12, alinéa 1, lettre c, 14, alinéa 1, lettre c, 16, alinéa 1, lettre c, 18 à 22, 26, 27, 30, 41 et 43 à 47.
+- d Autres collaboratrices et collaborateurs de la formation professionnelle supérieure: articles 12, alinéa 1, lettre c, 30 et 43 à 47.
 
 #### Art. 3
 
-**…**
+**Statuts, stratégie**
+
+<sup>1</sup> La Haute école spécialisée bernoise se dote de statuts et d'une stratégie.
+
+<sup>2</sup> Les statuts concrétisent les mandats attribués par la loi et l'ordonnance.
+
+## 2 Tâches
 
 #### Art. 4
 
-**Recherche et développement et contrats de prestation de service**
+**Contrats de recherche et développement et de prestations de service**
 
-<sup>1</sup> Les contrats de recherche, de développement et de prestations de service avec des tiers portant sur un montant total supérieur à 250'000 francs par an (frais d’investissement et d’exploitation inclus) sont soumis à l’approbation du recteur ou de la rectrice. L’approbation tient compte de la liberté académique.
+<sup>1</sup> Les contrats de recherche et développement et de prestations de service conclus avec des tiers et portant sur un montant total supérieur à 250'000 francs par an (frais d'investissement et d'exploitation inclus) sont soumis à l'approbation de la rectrice ou du recteur. L'approbation tient compte de la liberté académique.
 
-<sup>2</sup> Les autres contrats conclus avec des tiers doivent être portés à la connaissance du recteur ou de la rectrice.
+<sup>2</sup> Les contrats de recherche et développement et de prestations de service conclus avec des tiers et portant sur un montant total supérieur à 100'000 francs par an (frais d'investissement et d'exploitation inclus) sont portés à la connaissance de la rectrice ou du recteur.
 
-<sup>3</sup> …
+<sup>3</sup> Sauf convention contraire, les biens matériels et immatériels financés dans le cadre des mandats deviennent propriété de la Haute école spécialisée bernoise.
 
-<sup>4</sup> Sauf convention contraire, les biens matériels et immatériels financés dans le cadre des mandats deviennent propriété de la Haute école spécialisée bernoise.
+<sup>4</sup> Le conseil de la Haute école spécialisée
 
-<sup>5</sup> Le règlement sur les finances régit les modalités de détail, notamment les compétences et les taxes destinées à couvrir les frais administratifs.
-
-<sup>6</sup> …
+- a fixe par voie de règlement les modalités de détail, notamment les compétences et les taxes destinées à couvrir les frais administratifs;
+- b peut déléguer partiellement ou totalement à la rectrice ou au recteur la compétence visée à l'alinéa 1.
 
 #### Art. 5
 
-**Droits d’auteur ou de brevet**
+**Droits d'auteur et brevets**
 
-<sup>1</sup> Les contrats avec des tiers relatifs à l'exploitation d'un droit de brevet acquis dans le cadre du mandat de base d'un collaborateur ou d'une collaboratrice sont en règle générale conclus par le recteur ou la rectrice.
+<sup>1</sup> Les contrats avec des tiers relatifs à l'exploitation d'un brevet acquis dans le cadre du mandat de base d'une collaboratrice ou d'un collaborateur relèvent du domaine de compétences de la rectrice ou du recteur.
 
-<sup>2</sup> Le recteur ou la rectrice règle les exceptions à l'alinéa 1, l'utilisation des recettes ainsi que l'avance de frais d'acquisition de brevets ou d'autres frais en rapport direct avec l'exploitation du droit d'auteur ou de brevet. Il ou elle édicte des directives pour la conclusion de contrats avec des tiers sur les droits de brevet, les droits d'auteur et les droits de protection apparentés.
+<sup>2</sup> La rectrice ou le recteur édicte des directives pour la conclusion de contrats avec des tiers sur les brevets, les droits d'auteur et les droits de protection apparentés.
+
+<sup>3</sup> Ces directives contiennent en particulier des dispositions sur
+
+- a l'utilisation des recettes,
+- b l'avance de frais d'acquisition de brevets,
+- c l'avance de frais en rapport direct avec l'exploitation du droit d'auteur ou d'un brevet.
 
 #### Art. 6
 
 **Information sur la recherche et le développement**
 
-<sup>1</sup> Jusqu’à leur communication au public, notamment par voie de publication, les résultats des travaux de recherche et de développement sont en principe confidentiels. L’accès préalable de tiers à l’information requiert le consentement de la personne responsable du projet.
+<sup>1</sup> La Haute école spécialisée bernoise veille à communiquer au public les résultats de ses travaux de recherche et de développement, dans la mesure où aucun intérêt public ou privé prépondérant ne s'y oppose.
 
-<sup>2</sup> La Haute école spécialisée bernoise et ses départements veillent à communiquer au public les résultats de leurs travaux de recherche et de développement, dans la mesure où aucun intérêt public ou privé prépondérant ne s’y oppose.
+<sup>2</sup> Jusqu'à leur communication au public, les résultats des travaux de recherche et de développement sont en principe confidentiels.
+
+<sup>3</sup> Avec l'accord de la personne responsable du projet, des tiers peuvent consulter les résultats avant leur publication.
 
 #### Art. 7
 
-**Evaluation et développement de la qualité**
+**Évaluation et développement de la qualité**
 
-<sup>1</sup> La Haute école spécialisée bernoise applique un système de développement de la qualité pour surveiller et améliorer constamment ses performances en matière d’enseignement, de recherche et de développement, de prestations de services et de processus de direction stratégiques et opérationnels.
+<sup>1</sup> La Haute école spécialisée bernoise applique un système de développement de la qualité pour surveiller et améliorer constamment ses performances en matière d'enseignement, de recherche et développement, de formation continue, de prestations de service et de processus de direction stratégiques et opérationnels.
 
-## 3 Membres de la Haute école spécialisée bernoise
+## 3 Membres
 
 ### 3.1 Dispositions générales
 
@@ -130,699 +130,648 @@ arrête:
 
 **Définition**
 
-<sup>1</sup> Sont membres de la Haute école spécialisée bernoise les étudiants, les étudiantes et le personnel de la haute école.
+<sup>1</sup> Sont membres de la Haute école spécialisée bernoise les étudiantes, les étudiants et le personnel de la haute école.
 
 #### Art. 9
 
-**Egalité des sexes**
-
-<sup>1</sup> La Haute école spécialisée bernoise favorise dans son domaine la mise en œuvre de l’égalité de fait entre l’homme et la femme et l’égalité des chances pour les deux sexes.
-
-<sup>2</sup> Les statuts définissent les modalités de mise en œuvre de l’égalité, notamment le controlling, et décrivent les grandes lignes d’un règlement qui doit être édicté par le conseil de l’école.
-
-#### Art. 10
-
 **Service de conseil des hautes écoles bernoises**
 
-<sup>1</sup> Le Service de conseil des hautes écoles bernoises fournit conseils et informations aux personnes qui souhaitent être assistées dans l’organisation des études ou de leur carrière, améliorer leur méthode d’apprentissage ou d’enseignement, ou surmonter des difficultés personnelles.
+<sup>1</sup> Le Service de conseil des hautes écoles bernoises fournit conseils et informations aux membres de la Haute école spécialisée bernoise qui souhaitent être assistés dans l'organisation des études ou de leur carrière, améliorer leur méthode d'apprentissage ou d'enseignement, ou surmonter des difficultés personnelles.
 
-### 3.2 Personnel
+### 3.2 Collaboratrices et collaborateurs
 
 ### 3.2.1 Dispositions générales
 
-#### Art. 11
+#### Art. 10
 
 **Catégories**
 
-<sup>1</sup> Le personnel se compose
+<sup>1</sup> Il convient de distinguer les catégories suivantes de collaboratrices et de collaborateurs:
 
-- a du recteur ou de la rectrice,
-- b des responsables de département,
-- c des enseignants et des enseignantes,
-- d des assistants et des assistantes,
-- e des collaborateurs et des collaboratrices scientifiques et
-- f d’autres collaborateurs et collaboratrices tels que le personnel technique et administratif ainsi que les assistants et assistantes auxiliaires.
+- a enseignantes et enseignants,
+- b assistantes et assistants,
+- c collaboratrices et collaborateurs scientifiques,
+- d autres collaboratrices et collaborateurs.
 
-<sup>2</sup> Font également partie des enseignants et des enseignantes visés à l’alinéa 1 les chargés et chargées de cours ainsi que les enseignants et enseignantes invitées.
+<sup>2</sup> Les chargées et chargés de cours font partie de la catégorie des enseignantes et des enseignants.
 
-<sup>3</sup> Les collaborateurs et les collaboratrices dont le traitement est financé par des contributions de tiers font partie selon leur qualification et leur statut de l’une des catégories visées à l’alinéa 1.
+<sup>3</sup> Le personnel financé par des fonds de tiers au sens de l'article 10, alinéa 3 LHESB fait partie, selon ses qualifications et son statut, de l'une des catégories visées à l'alinéa 1.
+
+#### Art. 11
+
+**Gestion des postes et controlling du personnel**
+
+<sup>1</sup> La rectrice ou le recteur assume la responsabilité générale de la gestion des postes et du controlling du personnel au sein de la Haute école spécialisée bernoise.
 
 #### Art. 12
 
-**Gestion des postes**
+**Compétences en matière d'engagement**
 
-<sup>1</sup> Le recteur ou la rectrice est responsable de la gestion des postes et du controlling du personnel au sein du rectorat et des départements.
+<sup>1</sup> Sont compétents
+
+- a le conseil de la Haute école spécialisée pour l'engagement de la rectrice ou du recteur, des vice-rectrices et des vice-recteurs, de la directrice administrative ou du directeur administratif ainsi que des responsables de département;
+- b la rectrice ou le recteur pour l'engagement des enseignantes et des enseignants qui sont directement subordonnés à la ou au responsable de département ainsi que des collaboratrices et des collaborateurs du rectorat;
+- c la ou le responsable de département pour l'engagement des autres collaboratrices et collaborateurs du département;
+- d les vice-rectrices et les vice-recteurs ainsi que la directrice administrative ou le directeur administratif pour l'engagement des collaboratrices et des collaborateurs qui leur sont directement ou indirectement subordonnés.
+
+<sup>2</sup> Dans les statuts, la compétence de la rectrice ou du recteur et des responsables de département peut être déléguée aux unités administratives qui leur sont directement subordonnées.
 
 #### Art. 13
 
-**Compétences 1. Engagement**
+**Compétences en matière de fixation des traitements**
 
-<sup>1</sup> Les autorités d'engagement sont
+<sup>1</sup> Le conseil de la Haute école spécialisée fixe conformément à la législation sur le personnel le traitement initial de la rectrice ou du recteur, des vice-rectrices et des vice-recteurs, de la directrice administrative ou du directeur administratif ainsi que des responsables de département.
 
-- a le conseil de l’école pour le recteur ou la rectrice ainsi que les responsables de département,
-- b le recteur ou la rectrice pour les enseignants et les enseignantes ainsi que les collaborateurs et les collaboratrices du rectorat et
-- c le ou la responsable de département pour les collaborateurs et les collaboratrices du département.
-
-<sup>2</sup> Dans les statuts, les compétences du recteur ou de la rectrice et des responsables de département peuvent être déléguées aux unités administratives qui leur sont directement subordonnées.
+<sup>2</sup> La rectrice ou le recteur fixe le traitement initial des autres collaboratrices et collaborateurs conformément à la législation sur le personnel.
 
 #### Art. 14
 
-**2. Fixation du traitement**
+**Durée du contrat**
 
-<sup>1</sup> Le conseil de l’école fixe le traitement initial du recteur ou de la rectrice et des responsables de département conformément à la législation sur le personnel.
+<sup>1</sup> L'article 16a, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^14-1] ne s'applique pas
 
-<sup>2</sup> Le recteur ou la rectrice fixe le traitement initial des autres collaborateurs et collaboratrices sur proposition du département compétent et conformément à la législation sur le personnel.
+- a aux chargées et chargés de cours,
+- b aux assistantes et assistantes,
+- c au personnel financé par des fonds de tiers.
 
-#### Art. 14a
-
-**Engagement à durée déterminée**
-
-<sup>1</sup> L’article 16a, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^14a-1] ne s’applique pas aux chargés et chargées de cours, aux assistants et assistantes ni aux collaborateurs et collaboratrices scientifiques.
-
-<sup>2</sup> Les collaborateurs et les collaboratrices scientifiques engagés pour une durée déterminée à la Haute école spécialisée bernoise depuis plus de cinq ans sans interruption ont droit aux rentes particulières prévues à l’article 33 LPers en cas de résiliation non fautive de leurs rapports de travail. Les articles 33 à 35 LPers s’appliquent par analogie.
-
-<sup>3</sup> La durée des engagements en tant que chargé ou chargée de cours ou assistant ou assistante n’entre pas dans le calcul de la durée d’engagement visée à l’alinéa 2.
-
-<sup>4</sup> La fin de rapports de travail à durée déterminée causée par l’expiration du contrat est assimilée à une résiliation non fautive des rapports de travail au sens de l’alinéa 2.
-
-<sup>5</sup> Si aucun nouveau contrat de travail n’est conclu après la fin de rapports de travail à durée déterminée au sens de l’alinéa 2, le supérieur ou la supérieure hiérarchique doit en informer le collaborateur ou la collaboratrice scientifique concernée au moins trois mois avant la fin du contrat. En cas de manquement à cette obligation, les rapports de travail sont prolongés de trois mois.
-
-<sup>6</sup> La Haute école spécialisée bernoise indemnise l’institution de prévoyance compétente pour les prestations et la charge administrative supplémentaires ainsi que les pertes de recettes résultant des droits à des rentes particulières visés à l’alinéa 2.
-
-[^14a-1]: RSB 153.01
-
-#### Art. 14b
-
-**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps**
-
-<sup>1</sup> Les enseignants et les enseignantes ne sont pas concernés par la saisie du temps de travail, ni par la réglementation relative à l’indemnisation financière du solde de vacances telles qu’elles sont prévues par la législation sur le personnel et n’ont pas de compte épargne-temps.
-
-<sup>2</sup> Les membres de la direction de la Haute école spécialisée disposant du droit de vote ne sont pas concernés par la saisie du temps de travail, ni par la réglementation relative à l’indemnisation financière du solde de vacances et du solde horaire telles qu’elles sont prévues par la législation sur le personnel et n’ont pas de compte épargne-temps.
+[^14-1]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
 
 #### Art. 15
 
-**Activités annexes**
+**Libération des fonctions d'une collaboratrice ou d'un collaborateur engagé pour une durée déterminée**
 
-<sup>1</sup> Les activités annexes relevant du domaine de spécialité des enseignants et des enseignantes sont régies par la présente ordonnance.
+<sup>1</sup> L'autorité d'engagement peut libérer de ses fonctions avant la fin de ses rapports de travail une collaboratrice ou un collaborateur engagé pour une durée déterminée lorsque cette libération est dans l’intérêt public.
 
-<sup>2</sup> Les activités annexes extérieures au domaine de spécialité des enseignants et des enseignantes et celles des autres collaborateurs et collaboratrices sont régies par la législation sur le personnel. L’alinéa 3 est réservé.
+<sup>2</sup> Une collaboratrice ou un collaborateur peut être libéré de ses fonctions au plus tôt trois mois avant la fin des rapports de travail par expiration du contrat.
 
-<sup>3</sup> Les dispositions de la présente ordonnance relatives aux activités annexes exercées dans le domaine de spécialité (art. 30 à 36) s’appliquent aux mandats d’administrateur ou d’administratrice et aux mandats dans les conseils de fondation des membres du corps enseignant.
-
-#### Art. 15a
-
-**Titres**
-
-<sup>1</sup> Ont le droit de porter le titre de professeur ou professeure
-
-- a le recteur ou la rectrice,
-- b les responsables de département et
-- c les enseignants et les enseignantes engagés à durée indéterminée et dont le degré d’occupation est de 50 pour cent au moins.
-
-<sup>2</sup> Si un enseignant ou une enseignante ne remplit pas les critères définis à l’alinéa 1, lettre c, le recteur ou la rectrice peut, à titre exceptionnel et pour de justes motifs, octroyer le droit de porter le titre de professeur ou de professeure.
-
-<sup>3</sup> Ce droit s’éteint à la cessation de l’activité dans la Haute école spécialisée bernoise.
-
-#### Art. 15b
-
-**Lieu d’affectation**
-
-<sup>1</sup> Les collaborateurs et collaboratrices peuvent être tenus de travailler dans plusieurs lieux de la Haute école spécialisée bernoise.
-
-### 3.2.2 Enseignants et enseignantes
+<sup>3</sup> Au surplus, les dispositions de la législation sur le personnel concernant la libération des fonctions s'appliquent par analogie.
 
 #### Art. 16
 
-**…**
+**Conséquences de la fin des rapports de travail**
+
+<sup>1</sup> À la fin des rapports de travail, les personnes suivantes n'ont pas droit aux indemnités et rentes prévues aux articles 32 et 33 LPers:
+
+- a les chargées et les chargés de cours,
+- b les assistantes et les assistants,
+- c le personnel financé par des fonds de tiers.
 
 #### Art. 17
 
-**Résiliation de l’engagement**
+**Degré d'occupation**
 
-<sup>1</sup> L’autorité d'engagement ainsi que les enseignants et les enseignantes peuvent résilier l’engagement pour la fin d’un semestre, moyennant un préavis de trois mois. Les parties peuvent s’entendre sur un autre terme ou délai de préavis.
+<sup>1</sup> Le degré d'occupation des collaboratrices et des collaborateurs peut être défini par un pourcentage ou par une fourchette.
+
+<sup>2</sup> Si le degré d'occupation est défini par une fourchette, la différence entre la valeur supérieure et la valeur inférieure de cette fourchette ne peut pas dépasser 20 pour cent.
 
 #### Art. 18
 
-**Vacances**
+**Entretien d'évaluation périodique**
 
-<sup>1</sup> Les enseignants et les enseignantes prennent en règle générale leurs vacances en dehors des périodes de cours.
+<sup>1</sup> Les supérieures et les supérieurs ont à intervalles réguliers avec chacune de leurs collaboratrices et chacun de leurs collaborateurs un entretien d'évaluation périodique au cours duquel est dressé un bilan.
+
+<sup>2</sup> L'entretien d'évaluation périodique porte essentiellement sur la détermination des objectifs à atteindre, les conditions et l’ambiance de travail, l’évolution et les perspectives professionnelles ainsi que sur l’évaluation des performances et du comportement de la collaboratrice ou du collaborateur concerné.
+
+<sup>3</sup> Il est mené une fois par an, si le traitement de la collaboratrice ou du collaborateur concerné dépend de l'évaluation des performances et du comportement.
 
 #### Art. 19
 
-**Départ à la retraite**
+**Révision de l'appréciation résultant de l'entretien d'évaluation périodique**
 
-<sup>1</sup> Les enseignants et les enseignantes prennent en règle générale leur retraite au plus tard à la fin du semestre au cours duquel ils atteignent l’âge de 65 ans.
+<sup>1</sup> Si elle ou il estime que l'appréciation de ses performances et de son comportement est incorrecte ou contraire à la réalité, une collaboratrice ou un collaborateur peut s’adresser à la supérieure ou au supérieur de sa supérieure ou de son supérieur hiérarchique dans un délai de dix jours suivant la réception des résultats écrits de l'entretien d'évaluation périodique afin d’en demander la révision.
 
-<sup>2</sup> Dans des cas motivés, l’autorité d'engagement peut autoriser un enseignant ou une enseignante à prendre sa retraite à la fin du mois au cours duquel il ou elle atteint l’âge de 65 ans.
+<sup>2</sup> La révision au sens de l'alinéa 1 est réalisée dans le cadre d'un entretien dont le résultat est consigné par écrit.
+
+<sup>3</sup> Si elle ou il n'est pas d'accord avec le résultat de la révision, la collaboratrice ou le collaborateur peut remettre une déclaration écrite en ce sens pour son dossier personnel.
 
 #### Art. 20
 
-**Exigences**
+**Financement de la progression du traitement**
 
-<sup>1</sup> A titre exceptionnel, une personne ne remplissant pas les conditions énoncées à l’article 20, alinéa 1 LHESB[^20-1] peut être engagée comme enseignant ou enseignante au sens de l’article 11, alinéa 1, lettre c s’il ou si elle peut faire état de compétences avérées ou d’excellentes performances dans son domaine de spécialité.
-
-<sup>2</sup> L’enseignant ou l’enseignante qui ne dispose pas des aptitudes didactiques et méthodologiques visées à l’article 20, alinéa 2 LHESB doit en règle générale les acquérir dans les deux ans qui suivent le début de son engagement. Il ou elle peut y consacrer au plus dix pour cent de son temps de travail. La direction de la haute école spécialisée peut déclarer certaines activités de formation continue obligatoires.
-
-[^20-1]: RSB 435.411
+<sup>1</sup> La part de la ​masse salariale que le Conseil-exécutif alloue chaque année à la progression ​générale et à la ​progression individuelle des traitements s'applique par analogie à la Haute école spécialisée bernoise.
 
 #### Art. 21
 
-**Mandat**
+**Organisation de l'entretien d'évaluation périodique, de l'évaluation des performances et du comportement et de la progression individuelle du traitement**
 
-<sup>1</sup> Les enseignants et les enseignantes
-
-- a exercent une activité d’enseignement et de recherche et développement et fournissent des prestations de service;
-- b assurent, dans le cadre de leur mandat, le lien avec les milieux scientifiques, professionnels, économiques et sociaux et
-- c participent à la gestion de la Haute école spécialisée bernoise.
-
-<sup>2</sup> Les projets de recherche appliquée et de développement sont axés sur les pôles de recherche et de formation de la Haute école spécialisée bernoise.
-
-<sup>3</sup> Le mandat est adapté périodiquement. Le conseil de l’école règle les modalités de détail par voie de règlement.
+<sup>1</sup> Au surplus, le conseil de la Haute école spécialisée définit, par voie de règlement, les modalités relatives à l'entretien d'évaluation périodique, à l'évaluation des performances et du comportement ainsi qu'à la progression individuelle du traitement.
 
 #### Art. 22
 
-**…**
+**Modèle de temps de travail**
 
-#### Art. 22a
+<sup>1</sup> Le conseil de la Haute école spécialisée édicte, par voie de règlement, les dispositions dérogeant à la législation sur le personnel dans les domaines suivants pour les collaboratrices et les collaborateurs concernés par des rapports de travail spécifiques à la haute école:
 
-**Taux d’occupation d’enseignants et d’enseignantes dispensant un enseignement individuel**
+- a l’indemnisation des soldes de vacances et des soldes horaires,
+- b les comptes épargne-temps,
+- c le droit à des indemnités supplémentaires pour le travail effectué dans des conditions spéciales et leur montant,
+- d le report maximum du solde d'heures de travail annuel,
+- e la saisie du temps de travail et les vacances,
+- f les congés de courte durée,
+- g la prime de fidélité.
 
-<sup>1</sup> Les enseignants et les enseignantes dispensant un enseignement individuel peuvent être engagés à un taux d’occupation fluctuant dans une fourchette de 20 pour cent.
+<sup>2</sup> Le conseil de la Haute école spécialisée informe en temps utile les associations de personnel de toutes les dispositions dérogeant à la législation sur le personnel dans les domaines énumérés à l'alinéa 1.
 
-<sup>2</sup> L’engagement peut être adapté à l’intérieur de la fourchette au début de chaque semestre moyennant un préavis de 30 jours.
-
-<sup>3</sup> Dans la législation sur le personnel et sur la Haute école spécialisée bernoise, le taux d’occupation effectif moyen des cinq dernières années est en principe déterminant pour les dispositions relatives au taux d’occupation.
-
-<sup>4</sup> Pour le calcul du droit aux vacances, aux jours de congé et à la formation continue, c’est le taux d’occupation effectif actuel à l’intérieur de la fourchette qui est déterminant.
-
-#### Art. 22b
-
-**Indemnisation financière du solde de vacances ou du solde horaire**
-
-<sup>1</sup> Le recteur ou la rectrice peut, sur proposition du ou de la responsable de département compétente, autoriser au cas par cas l’indemnisation financière d’un solde horaire si
-
-- a celui-ci résulte d’un mandat de tiers,
-- b des raisons de service empêchent la personne de prendre ce solde et
-- c …
-- d l’indemnisation peut être financée par des fonds de tiers.
+<sup>3</sup> Il consulte les associations de personnel avant d'édicter des dérogations importantes et entretient, en fonction des besoins, un dialogue avec elles.
 
 #### Art. 23
 
-**…**
+**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps des membres de la direction de la Haute école spécialisée habilités à voter**
+
+<sup>1</sup> Les membres de la direction de la Haute école spécialisée habilités à voter ne sont ni concernés par la saisie du temps de travail, ni par la réglementation relative à l'indemnisation financière du solde de vacances et du solde horaire et n'ont pas de compte épargne-temps.
 
 #### Art. 24
 
-**Octroi d’indemnités de fonction**
+**Travail de nuit et de fin de semaine**
 
-<sup>1</sup> Les enseignants et les enseignantes qui assument des fonctions de direction dans l’enseignement, la recherche et le développement, les services ou la formation continue, peuvent être déchargés de certaines parties de leur mandat et perçoivent une indemnité de fonction annuelle de 2000 à 20'000 francs.
+<sup>1</sup> Pour fixer le cadre de l'horaire de travail de nuit et de fin de semaine, les normes minimales suivantes s'appliquent:
 
-<sup>2</sup> …
-
-<sup>3</sup> Le conseil de l’école fixe l’ampleur de l’allégement horaire et le montant de l’indemnité de fonction dans un règlement qui doit être porté à la connaissance de la Direction de l’instruction publique et de la culture et de la Direction des finances.
+- a Est considéré comme travail de nuit le travail accompli entre 23 heures et 6 heures.
+- b Est considéré comme travail de fin de semaine le travail accompli le dimanche et les jours fériés officiels entre 6 heures et 23 heures.
 
 #### Art. 25
 
-**Congés de recherche ou de formation 1. Principe**
+**Report et compensation du solde annuel d'heures de travail**
 
-<sup>1</sup> Un congé de recherche ou de formation permet à un enseignant ou à une enseignante de consacrer généralement un semestre à des travaux scientifiques ou à une formation continue dans son domaine de spécialité en étant déchargé de toute obligation d’enseignement.
+<sup>1</sup> Le conseil de la Haute école spécialisée fixe, par voie de règlement, le report et la compensation du solde annuel d'heures de travail à la fin de la période annuelle de décompte pour les collaboratrices et les collaborateurs concernés par des rapports de travail spécifiques à la haute école.
 
-<sup>2</sup> La compétence d’accorder des congés de recherche ou de formation à des enseignants ou enseignantes est dévolue au recteur ou à la rectrice.
-
-<sup>3</sup> Un enseignant ou une enseignante ne peut obtenir plus de 18 mois de congé pendant toute la durée de son engagement à la Haute école spécialisée bernoise.
+<sup>2</sup> Un solde maximal de 200 heures en plus ou en moins ne peut pas être dépassé par période de décompte. Dans des cas exceptionnels motivés, le report d'un solde horaire supérieur sur l’année suivante est possible avec l'autorisation de la rectrice ou du recteur.
 
 #### Art. 26
 
-**2. Demande, rapports**
+**Remboursement des frais**
 
-<sup>1</sup> L’enseignant ou l’enseignante doit faire parvenir sa demande de congé au recteur ou à la rectrice par la voie de service au moins six mois avant le début du congé.
+<sup>1</sup> Les frais occasionnés aux collaboratrices et aux collaborateurs par l’accomplissement de leurs tâches leur sont remboursés.
 
-<sup>2</sup> La demande de congé doit être motivée. Elle doit en particulier contenir des indications sur le projet envisagé et sur les accords passés avec le ou la responsable de département.
-
-<sup>3</sup> Une fois le congé terminé, il doit faire l’objet d’un rapport transmis par la voie de service au recteur ou à la rectrice.
+<sup>2</sup> Le conseil de la Haute école spécialisée fixe les modalités de détail par voie de règlement. Celui-ci est porté à la connaissance de la Direction de l'instruction publique et de la culture.
 
 #### Art. 27
 
-**3. Conditions**
+**Activités annexes**
 
-<sup>1</sup> Les conditions d’octroi d’un congé de recherche ou de formation sont
+<sup>1</sup> Les activités annexes sont autorisées pour autant qu'elles n'entravent ni l'accomplissement des tâches des collaboratrices et des collaborateurs, ni le fonctionnement de la Haute école spécialisée. Il y a entrave en particulier lorsque l'activité annexe est incompatible avec la fonction, qu'il y a un conflit d'intérêts ou que la capacité de travail de la collaboratrice ou du collaborateur est mise à contribution durablement et considérablement.
 
-- a un degré d’occupation d’au moins 50 pour cent,
-- b un engagement à durée indéterminée,
-- c à chaque fois l’accomplissement de six années de service révolues.
+<sup>2</sup> Le conseil de la Haute école spécialisée fixe les modalités de détail par voie de règlement, en particulier concernant l'obligation d'autoriser, de déclarer et de publier, ainsi que l'indemnisation. Le règlement est porté à la connaissance de la Direction de l'instruction publique et de la culture.
 
-<sup>2</sup> Un congé de recherche ou de formation n’est pas compté comme temps de service.
+<sup>3</sup> La rectrice ou le recteur
 
-<sup>3</sup> Le dernier congé de recherche ou de formation doit normalement être commencé au plus tard trois ans avant que la limite d’âge soit atteinte.
+- a vérifie les déclarations annuelles concernant les activités annexes et informe le conseil de la Haute école spécialisée des résultats;
+- b rédige chaque année un rapport sur les activités annexes ainsi que sur les éventuelles mesures prises et le porte à la connaissance de l'Office de l'enseignement supérieur.
 
-<sup>4</sup> A titre exceptionnel et pour de justes motifs, il peut être dérogé aux conditions énoncées à l’alinéa 1.
-
-<sup>5</sup> Le département réglemente le remplacement pendant le congé.
+<sup>4</sup> Les mandats exercés dans des conseils de fondation ou des conseils d'administration par des membres de la direction de la haute école ou par des enseignantes ou des enseignants ayant un degré d'occupation élevé sont publiés chaque année sur le site Internet de la Haute école spécialisée bernoise.
 
 #### Art. 28
 
-**4. Ajournement**
+**Désignation de la fonction de professeure ou de professeur**
 
-<sup>1</sup> Si un congé de recherche ou de formation doit être ajourné pour un juste motif, la durée d’attente avant le prochain congé peut être réduite en conséquence.
+<sup>1</sup> Le conseil de la Haute école spécialisée définit, par voie de règlement, qui a le droit d'être appelée professeure ou professeur. Ce règlement est porté à la connaissance de la Direction de l'instruction publique et de la culture.
 
-<sup>2</sup> Si un congé de recherche ou de formation doit être avancé pour un juste motif, la durée d’attente avant le prochain congé peut être prolongée en conséquence.
+<sup>2</sup> Le droit d'être appelée professeure ou professeur s'éteint à la cessation de l'activité dans la Haute école spécialisée bernoise.
 
 #### Art. 29
 
-**5. Obligation de rembourser**
+**Lieu de travail**
 
-<sup>1</sup> Si l’enseignant ou l’enseignante quitte le service du canton pendant le congé ou dans les deux ans suivant le congé, le traitement perçu pendant le congé (allocations familiales et allocations d’entretien exclues) doit être remboursé dans les proportions suivantes:
-
-- a 100 pour cent s’il ou si elle quitte le service du canton pendant le congé;
-- b 50 pour cent s’il ou si elle quitte le service du canton dans l’année qui suit le congé;
-- c 25 pour cent s’il ou si elle quitte le service du canton au cours de la deuxième année qui suit le congé.
-
-<sup>2</sup> L’obligation de rembourser ne s’applique pas en cas de décès ou d’invalidité de l’enseignant ou de l’enseignante.
-
-<sup>3</sup> Si l’obligation de rembourser constitue une situation de rigueur particulière pour l’enseignant ou l’enseignante, le recteur ou la rectrice peut renoncer totalement ou partiellement au remboursement.
+<sup>1</sup> Les collaboratrices et les collaborateurs peuvent être tenus de travailler sur plusieurs sites de la Haute école spécialisée bernoise.
 
 #### Art. 30
 
-**Activités annexes dans le domaine de spécialité 1. Définition**
+**Enregistrement d'irrégularités**
 
-<sup>1</sup> Sont considérées comme activités annexes dans le domaine de spécialité les activités qui s’inscrivent dans le cadre du mandat prévu dans le contrat de travail de l’enseignant ou de l’enseignante concernée mais qui ne sont pas directement liées à l’accomplissement de ce mandat et qui sont exercées pour l’essentiel par la personne elle-même.
+<sup>1</sup> Le Contrôle des finances enregistre les irrégularités qui lui sont signalées par les collaboratrices et les collaborateurs de la Haute école spécialisée.
 
-<sup>2</sup> Constituent des activités annexes dans le domaine de spécialité notamment
+<sup>2</sup> Le droit d'annonce en cas d'irrégularités et la protection des collaboratrices et des collaborateurs sont régis par l’article 50a LPers.
 
-- a des mandats d’enseignement pour la formation et la formation continue dans d’autres hautes écoles ou institutions,
-- b des prestations de services telles que des activités de conseil, des mandats d’administrateur ou d’administratrice, des mandats dans les conseils de fondation ou des arbitrages.
+### 3.2.2 Enseignantes et enseignants
 
 #### Art. 31
 
-**2. Activités annexes généralement autorisées**
+**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps des enseignantes et des enseignants**
 
-<sup>1</sup> Les activités annexes suivantes sont généralement autorisées:
-
-- a mandats d’enseignement dans d’autres hautes écoles suisses, s’ils ne représentent pas plus de deux leçons par semaine,
-- b mandats d’enseignement dans d’autres hautes écoles suisses, s’ils ne représentent pas plus de quatre leçons par semaine pour une année d’études maximum,
-- c mandats d’enseignement dans d’autres écoles suisses, s’ils ne représentent pas plus de deux leçons par semaine,
-- d charges d’enseignement occasionnelles pour la formation continue en dehors de la Haute école spécialisée bernoise,
-- e prestations de services fournies occasionnellement, telles que les exposés, les publications scientifiques, l’activité d’expert ou d’experte d’examen, la collaboration à des instances scientifiques, artistiques et spécialisées en dehors de la Haute école spécialisée bernoise.
+<sup>1</sup> Les enseignantes et les enseignants ne sont pas concernés par la saisie du temps de travail, ni par la réglementation relative à l'indemnisation financière du solde de vacances et n'ont pas de compte épargne-temps.
 
 #### Art. 32
 
-**3. Autorisation**
+**Résiliation des rapports de travail**
 
-<sup>1</sup> Les activités annexes non mentionnées à l’article 31 sont soumises à l’autorisation du recteur ou de la rectrice, pour autant que le degré d’occupation soit égal ou supérieur à 80 pour cent. Les demandes en ce sens doivent être présentées par la voie de service.
+<sup>1</sup> L'autorité d'engagement ainsi que les enseignantes et les enseignants peuvent résilier les rapports de travail par écrit pour la fin d’un semestre, moyennant un préavis de trois mois.
 
-<sup>2</sup> Si l’activité annexe mobilise durablement et substantiellement la personne intéressée, il y a généralement lieu de réduire son degré d’occupation en conséquence.
-
-<sup>3</sup> …
-
-<sup>4</sup> Les activités annexes ne peuvent pas être exercées au nom de la Haute école spécialisée bernoise.
+<sup>2</sup> Les parties peuvent s'entendre sur un autre terme de résiliation ou un autre délai de préavis.
 
 #### Art. 33
 
-**4. Remplacement**
+**Départ à la retraite**
 
-<sup>1</sup> II n’est en principe pas permis de se faire remplacer pour des cours en raison d’une activité annexe.
+<sup>1</sup> Les enseignantes et les enseignants prennent en règle générale leur retraite au plus tard à la fin du semestre au cours duquel ils atteignent l’âge de 65 ans.
+
+<sup>2</sup> Dans des cas motivés, l'autorité d'engagement peut autoriser une enseignante ou un enseignant à prendre sa retraite à la fin du mois au cours duquel elle ou il atteint l’âge de 65 ans.
 
 #### Art. 34
 
-**5. Déclaration personnelle**
+**Exigences**
 
-<sup>1</sup> Les enseignants et les enseignantes ayant un degré d’occupation de 80 pour cent au moins communiquent chaque année leurs activités annexes au recteur ou à la rectrice sous forme de déclaration personnelle. Ils indiquent le temps qui y a été consacré, les revenus qui en ont découlé ainsi que l’infrastructure qu’ils ont utilisée à la Haute école spécialisée bernoise.
+<sup>1</sup> À titre exceptionnel, une personne ne remplissant pas les conditions énoncées à l'article 20, alinéa 1 LHESB peut être engagée comme enseignante ou enseignant si elle peut faire état de compétences avérées ou d'excellentes performances dans son domaine de spécialité.
 
-<sup>2</sup> Le recteur ou la rectrice établit chaque année un rapport consolidé sur les activités annexes et le transmet pour information à l’Office de l’enseignement supérieur.
-
-<sup>3</sup> …
+<sup>2</sup> L'enseignante ou l'enseignant qui ne dispose pas des aptitudes didactiques et méthodologiques visées à l'article 20, alinéa 2 LHESB doit en règle générale les acquérir dans les deux ans qui suivent le début de son engagement.
 
 #### Art. 35
 
-**6. Assurance**
+**Mandat**
 
-<sup>1</sup> Il incombe à l’enseignant ou l’enseignante exerçant une activité annexe de s’assurer contre les risques inhérents à cette activité.
+<sup>1</sup> Les enseignantes et les enseignants
+
+- a exercent une activité d'enseignement et de recherche et développement et fournissent des prestations de service;
+- b assurent, dans le cadre de leur mandat, le lien avec les milieux scientifiques, professionnels, économiques et sociaux;
+- c participent à l'organisation et au fonctionnement de la Haute école spécialisée bernoise.
+
+<sup>2</sup> Les projets de recherche appliquée et de développement sont axés sur les pôles de recherche et de formation de la Haute école spécialisée bernoise.
+
+<sup>3</sup> Le mandat est adapté périodiquement. Le conseil de la Haute école spécialisée définit les modalités de détail par voie de règlement.
 
 #### Art. 36
 
-**7. Indemnité pour l’utilisation de l’infrastructure**
+**Octroi d'indemnités de fonction**
 
-<sup>1</sup> Quiconque utilise l’infrastructure de la Haute école spécialisée bernoise pour l’exercice d’activités annexes doit verser une indemnité couvrant les coûts.
+<sup>1</sup> Les enseignantes et les enseignants qui assument des fonctions de direction dans l'enseignement, la recherche et développement, les prestations de service ou la formation continue perçoivent une indemnité de fonction annuelle d'un montant maximum de 20'000 francs.
 
-<sup>2</sup> Il y a utilisation de l’infrastructure de la Haute école spécialisée bernoise notamment lorsque
-
-- a d’autres collaborateurs et collaboratrices fournissent des prestations pour les activités annexes ou effectuent des travaux supplémentaires découlant de ces activités ou
-- b des appareils ou du matériel sont utilisés ou
-- c des locaux sont occupés.
-
-<sup>3</sup> S’il est prévisible que l’exercice d’une activité annexe nécessitera une utilisation de l’infrastructure de longue durée, l’indemnité doit être fixée par contrat entre le ou la responsable du département et la personne exerçant l’activité annexe.
-
-<sup>4</sup> L’indemnité peut être calculée sur une base forfaitaire en fonction de valeurs de référence. Le ou la responsable de département fixe les valeurs de référence.
-
-### 3.2.3 Chargés et chargées de cours
+<sup>2</sup> Le conseil de la Haute école spécialisée fixe les modalités de détail par voie de règlement. Celui-ci doit être porté à la connaissance de la Direction de l'instruction publique et de la culture.
 
 #### Art. 37
 
-<sup>1</sup> Les chargés et chargées de cours ont un mandat d’enseignement à la Haute école spécialisée bernoise.
+**Congés de recherche ou de formation**
 
-<sup>2</sup> Un mandat d’enseignement est attribué pour un semestre ou une année d’études.
+<sup>1</sup> Un congé de recherche ou de formation permet à une enseignante ou à un enseignant de se consacrer à des travaux scientifiques ou à une formation continue dans son domaine de spécialité en étant déchargé de ses tâches ordinaires.
 
-<sup>3</sup> Dans des cas motivés, un mandat d’enseignement de durée indéterminée peut être donné.
+<sup>2</sup> Le conseil de la Haute école spécialisée fixe, par voie de règlement, les modalités de détail concernant l'octroi et la durée du congé de recherche ou de formation ainsi que les droits et les obligations qui y sont liés.
 
-<sup>4</sup> Un mandat d’enseignement peut être attribué par mandat de droit privé.
-
-<sup>5</sup> Le conseil de l’école fixe les modalités de détail dans un règlement.
-
-### 3.2.4 Enseignants et enseignantes invités
+### 3.2.3 Chargées et chargés de cours
 
 #### Art. 38
 
-<sup>1</sup> Les enseignants et les enseignantes invités sont des personnes qui exercent provisoirement une activité d’enseignement à la Haute école spécialisée bernoise.
+<sup>1</sup> Les chargées et les chargés de cours ont un mandat d'enseignement à la Haute école spécialisée bernoise.
 
-<sup>2</sup> Ils sont engagés pour une durée déterminée.
+<sup>2</sup> Un mandat d'enseignement est attribué pour un semestre ou une année académique.
 
-<sup>3</sup> Si leur séjour n’est pas financé par des contributions de tiers, ils sont affectés à une classe de traitement ou se voient allouer une rémunération forfaitaire.
+<sup>3</sup> Dans des cas motivés, un mandat d'enseignement de durée indéterminée peut être attribué.
 
-### 3.2.5 Assistants et assistantes
+<sup>4</sup> Un mandat d'enseignement peut être attribué par mandat de droit privé.
+
+<sup>5</sup> Le conseil de la Haute école spécialisée fixe les modalités de détail par voie de règlement.
+
+### 3.2.4 Assistantes et assistants
 
 #### Art. 39
 
 **Mandat**
 
-<sup>1</sup> Les assistants et les assistantes soutiennent les enseignants et les enseignantes dans l’exécution de leurs tâches, participent aux travaux relatifs à des projets ou s’acquittent de manière autonome de tâches dans des domaines déterminés.
+<sup>1</sup> Les assistantes et les assistants soutiennent les enseignantes et les enseignants dans l'accomplissement de leurs tâches, participent aux travaux relatifs à des projets ou s'acquittent de manière autonome de tâches dans des domaines déterminés.
 
-<sup>2</sup> Le mandat doit être conçu de manière à servir également la formation continue de l’assistant ou de l’assistante.
+<sup>2</sup> Le mandat doit être conçu de manière à servir également la formation continue académique ou orientée vers la pratique de l'assistante ou de l'assistant.
 
-<sup>3</sup> Les assistants et les assistantes peuvent également assumer des fonctions d’encadrement de l’enseignement.
+<sup>3</sup> Les assistantes et les assistants peuvent également assumer des fonctions d'encadrement de l'enseignement.
 
 #### Art. 40
 
-**Exigences, conditions d’engagement**
+**Exigences, rapports de travail**
 
-<sup>1</sup> Les assistants et les assistantes disposent en principe d’une formation en haute école sanctionnée par un titre.
+<sup>1</sup> Les assistantes et les assistants disposent en principe d'une formation en haute école sanctionnée par un titre.
 
-<sup>2</sup> Leur engagement est limité à cinq ans. L’autorité d'engagement peut, pour de justes motifs, prolonger la durée de l’engagement de deux ans au maximum.
+<sup>2</sup> Leur engagement est limité à cinq ans. L'autorité d'engagement peut, pour de justes motifs, prolonger la durée de l'engagement de deux ans au maximum.
 
-<sup>3</sup> En règle générale, les assistants et les assistantes prennent leurs vacances en dehors des périodes de cours.
+<sup>3</sup> Chacune des parties peut résilier l'engagement pour la fin d'un mois, moyennant les délais de préavis suivants:
 
-<sup>4</sup> Chacune des parties peut résilier l’engagement pour la fin d’un mois, moyennant les délais de préavis suivants:
+- a un mois pendant la première année de service,
+- b deux mois à partir de la deuxième année de service.
 
-- a un mois lorsque l’engagement a duré un an au maximum;
-- b deux mois lorsque l’engagement a duré plus d’un an.
-
-### 3.2.6 Collaborateurs et collaboratrices scientifiques
+### 3.2.5 Collaboratrices et collaborateurs scientifiques
 
 #### Art. 41
 
-<sup>1</sup> Les collaborateurs et les collaboratrices scientifiques participent à des projets s’intéressant à la recherche, au développement et aux prestations de service ainsi qu’à d’autres champs d’activité.
+<sup>1</sup> Les collaboratrices et les collaborateurs scientifiques participent à l'enseignement, à des projets ayant trait à la recherche, au développement et aux prestations de service ainsi qu'à d'autres champs d'activité.
 
-<sup>2</sup> La durée de l’engagement n’est en règle générale pas limitée.
-
-### 3.2.7 Assistants et assistantes auxiliaires
+### 3.2.6 Assistantes et assistants auxiliaires
 
 #### Art. 42
 
-<sup>1</sup> Les assistants et les assistantes auxiliaires soutiennent les enseignants et les enseignantes dans l’exécution de leurs tâches, participent aux travaux relatifs à des projets ou s’acquittent de manière autonome de tâches dans des domaines déterminés.
+<sup>1</sup> Les assistantes et les assistants auxiliaires soutiennent les enseignantes et les enseignants dans l'accomplissement de leurs tâches, participent aux travaux relatifs à des projets ou s'acquittent de manière autonome de tâches dans des domaines déterminés.
 
-<sup>2</sup> L’engagement comme assistant auxiliaire ou assistante auxiliaire présuppose
+<sup>2</sup> L'engagement comme assistante ou assistant auxiliaire présuppose
 
-- a l’immatriculation à la Haute école spécialisée bernoise,
-- b l’attestation d’avoir obtenu 60 points ECTS.
+- a l'immatriculation à la Haute école spécialisée bernoise et
+- b l'attestation d'avoir obtenu 60 crédits ECTS.
 
-<sup>3</sup> La durée de l’engagement comme assistant ou assistante auxiliaire est limitée à deux ans.
+<sup>3</sup> Il est limité à deux ans.
 
-<sup>4</sup> En règle générale, les assistants et les assistantes prennent leurs vacances en dehors des périodes de cours.
+<sup>4</sup> Chacune des parties peut résilier les rapports de travail pour la fin d'un mois, moyennant un délai de préavis d'un mois.
 
-<sup>5</sup> Chacune des parties peut résilier l’engagement pour la fin d’un mois, moyennant un délai de préavis d’un mois.
-
-### 3.2.8 Collaborateurs et collaboratrices financés par des contributions de tiers
+### 3.2.7 Personnel financé par des fonds de tiers
 
 #### Art. 43
 
-**Engagement, traitement et résiliation**
+**Traitement**
 
-<sup>1</sup> L’engagement des collaborateurs et des collaboratrices financés par des contributions de tiers est régi par les dispositions applicables aux collaborateurs et collaboratrices dont le traitement est financé par les ressources ordinaires. Les alinéas ci-après sont réservés.
-
-<sup>2</sup> Le contrat de travail porte en règle générale sur une durée déterminée et doit mentionner que le traitement est financé par des fonds de tiers.
-
-<sup>3</sup> Dans des cas motivés, le recteur ou la rectrice peut fixer un traitement particulier ou un traitement forfaitaire unique.
-
-<sup>4</sup> L’épuisement des contributions de tiers constitue en particulier un motif pertinent de résiliation des rapports de travail au sens de la législation sur le personnel.
+<sup>1</sup> Dans des cas motivés, la rectrice ou le recteur peut fixer un traitement particulier ou un traitement forfaitaire unique.
 
 #### Art. 44
 
-**…**
+**Fin des rapports de travail**
+
+<sup>1</sup> La supérieure ou le supérieur hiérarchique doit informer la collaboratrice ou le collaborateur financé par des fonds de tiers de la fin de l'engagement au moins trois mois avant l'échéance du contrat si
+
+- a aucun nouveau contrat de travail n'est conclu et si
+- b la collaboratrice ou le collaborateur financé par des fonds de tiers est engagé à durée déterminée et a travaillé plus de cinq ans sans interruption à la Haute école spécialisée bernoise.
+
+<sup>2</sup> Si la fin de l'engagement est communiquée plus tard, les rapports de travail s'achèvent à la fin du troisième mois suivant cette annonce mais au plus tard trois mois après la date de fin d'engagement convenue initialement.
 
 #### Art. 45
 
-**Prévoyance professionnelle**
+**Droits en cas de fin des rapports de travail**
 
-<sup>1</sup> Dans des cas motivés, le recteur ou la rectrice peut dispenser un collaborateur ou une collaboratrice dont le traitement est financé par des contributions de tiers d’adhérer à la Caisse de pension bernoise.
+<sup>1</sup> Une collaboratrice ou un collaborateur financé par des fonds de tiers a droit à une indemnité de départ si
 
-<sup>2</sup> En pareils cas, la prévoyance professionnelle est conforme au minimum exigé par la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^45-1]. Elle est confiée à une institution de prévoyance reconnue par la LPP.
+- a les rapports de travail ont pris fin dans le délai fixé par le contrat ou en raison de l'épuisement des fonds de tiers;
+- b elle ou il a travaillé pendant au moins dix ans sans interruption à la Haute école spécialisée bernoise et si
+- c la Haute école spécialisée bernoise ne peut lui proposer aucun poste acceptable.
 
-[^45-1]: RS 831.40
+<sup>2</sup> Le calcul de l'indemnité de départ est régi par l'article 123, alinéas 2 et 3 de l'ordonnance du 18 mai 2005 sur le personnel (OPers)[^45-1]. L'indemnité ne doit pas dépasser le montant correspondant à 18 mois de traitement de la personne concernée.
 
-#### Art. 45a–46
+<sup>3</sup> La durée d'exercice d'une fonction selon l'article 14, alinéa 1, lettres a et b n'est pas prise en compte pour l'octroi du droit à une indemnité de départ. Cette durée est considérée comme une interruption de l'engagement.
 
-**…**
+[^45-1]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
 
-### 3.3 Etudiants et étudiantes
+#### Art. 46
 
-### 3.3.1 Dispositions générales
+**Versement de l'indemnité de départ**
+
+<sup>1</sup> En cas d'octroi d'une indemnité de départ, celle-ci est versée en mensualités. Une mensualité correspond au traitement mensuel brut calculé selon l'article 45, alinéa 2, déduction faite des cotisations aux assurances sociales.
+
+<sup>2</sup> La personne concernée doit déclarer par écrit à la Haute école spécialisée bernoise, au plus tard le 10 du mois, qu'elle n’est engagée nulle part ailleurs à un poste acceptable ou qu'elle ne perçoit aucun revenu de remplacement comparable.
+
+<sup>3</sup> Si la personne concernée trouve, dans les 18 mois suivant la résiliation de ses rapports de travail, un poste acceptable au sein de la Haute école spécialisée bernoise ou chez un autre employeur, ou qu'elle perçoit un revenu de remplacement comparable, l'indemnité de départ est réduite ou supprimée.
+
+<sup>4</sup> Si le nouvel engagement à un poste acceptable est résilié durant la période probatoire ou que l'engagement auprès de la Haute école spécialisée bernoise ou d’un autre employeur s'avère ne pas être acceptable, l'ancienne collaboratrice ou l'ancien collaborateur a de nouveau droit à l'indemnité de départ comme si elle ou il n’avait pas encore trouvé de nouveau poste acceptable.
+
+<sup>5</sup> L'article 31 LPers ainsi que les dispositions de l'ordonnance du 16 septembre 2020 sur le placement de personnel (OPlac)[^46-1] sont déterminants pour juger de l'acceptabilité d'un autre poste.
+
+[^46-1]: RSB [153.011.2](https://www.belex.sites.be.ch/data/153.011.2/fr)
 
 #### Art. 47
 
-<sup>1</sup> Quiconque désire étudier et passer des examens à la Haute école spécialisée bernoise doit satisfaire aux conditions d’admission et être immatriculé.
+**Prévoyance professionnelle**
 
-### 3.3.2 Admission aux études de bachelor ou de master
+<sup>1</sup> Dans des cas motivés, la rectrice ou le recteur peut dispenser une collaboratrice ou un collaborateur financé par des fonds de tiers d'adhérer à la Caisse de pension bernoise.
+
+<sup>2</sup> En pareils cas, la prévoyance professionnelle est conforme au minimum exigé par la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^47-1]. Elle est confiée à une institution de prévoyance reconnue par la LPP.
+
+[^47-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+
+### 3.3 Étudiantes et étudiants
+
+### 3.3.1 Dispositions générales
 
 #### Art. 48
 
-**…**
+<sup>1</sup> Quiconque désire étudier et passer des examens à la Haute école spécialisée bernoise doit satisfaire aux conditions d'admission et être immatriculé.
+
+<sup>2</sup> Concernant ses offres de formation continue, la Haute école spécialisée bernoise peut renoncer à une immatriculation.
+
+### 3.3.2 Admission aux études de bachelor ou de master
 
 #### Art. 49
 
 **Admission aux études de bachelor**
 
-<sup>1</sup> L’admission aux études de bachelor est régie par la législation fédérale. L’alinéa 2 et l’article 58 sont réservés.
+<sup>1</sup> L'admission aux études de bachelor est régie par la législation fédérale. L'alinéa 2 et l'article 54 sont réservés.
 
-<sup>2</sup> Le conseil de l’école édicte un règlement d’admission aux études de bachelor qui détermine, pour chaque type d’études, les professions apparentées et les filières équivalant aux formations préalables prévues par la législation fédérale.
+<sup>2</sup> Le conseil de la Haute école spécialisée édicte un règlement d'admission aux études de bachelor qui détermine, pour chaque type d'études, les professions apparentées et les filières équivalant aux formations préalables prévues par le droit fédéral.
 
-#### Art. 50–52
+#### Art. 50
 
-**…**
+**Examen d'aptitude**
 
-#### Art. 53
+<sup>1</sup> Le conseil de la Haute école spécialisée fixe, par voie de règlement, le contenu et les modalités des examens d'aptitude prévus par le droit fédéral pour l'admission aux études de bachelor. Le règlement doit être soumis à l'approbation de la Direction de l'instruction publique et de la culture.
 
-**Examen d’admission**
+#### Art. 51
 
-<sup>1–2</sup> …
+**Reconnaissance d'études**
 
-<sup>3</sup> La Haute école spécialisée bernoise organise en français ou en allemand, avec le concours de la Commission cantonale de maturité professionnelle, les examens d’admission prévus par la législation fédérale pour l’admission aux études de bachelor.
+<sup>1</sup> La reconnaissance d'études suivies dans d'autres institutions de formation est fixée dans les règlements d'études et d'examens.
 
-<sup>4</sup> Le conseil de l’école fixe les modalités de l’examen d’admission dans un règlement soumis à l’approbation de la Direction de l’instruction publique et de la culture.
-
-#### Art. 54
-
-**…**
-
-#### Art. 55
-
-**Examen d’aptitude**
-
-<sup>1</sup> Le conseil de l’école fixe, dans un règlement soumis à l’approbation de la Direction de l’instruction publique et de la culture, le contenu et les modalités des examens d’aptitude prévus par la législation fédérale pour l’admission aux études de bachelor.
-
-#### Art. 56
-
-**Reconnaissance d’études**
-
-<sup>1</sup> La reconnaissance d’études suivies dans d’autres institutions de formation est fixée dans les règlements d’études et d’examens.
-
-#### Art. 56a
+#### Art. 52
 
 **Admission aux études de master**
 
-<sup>1</sup> L’admission aux études de master est régie par la législation fédérale.
+<sup>1</sup> L'admission aux études de master est régie par le droit fédéral.
 
-<sup>2</sup> Le conseil de l’école peut fixer des conditions d’admission supplémentaires dans les règlements soumis à l’approbation de la Direction de l’instruction publique et de la culture.
+<sup>2</sup> Le conseil de la Haute école spécialisée peut fixer des conditions d'admission supplémentaires dans des règlements soumis à l'approbation de la Direction de l'instruction publique et de la culture.
 
-#### Art. 57
+#### Art. 53
 
 **Immatriculation**
 
-<sup>1</sup> L’immatriculation s’effectue par l’intermédiaire du recteur ou de la rectrice.
+<sup>1</sup> L'immatriculation s'effectue par l'intermédiaire de la rectrice ou du recteur.
+
+#### Art. 54
+
+**Restriction d'admission**
+
+<sup>1</sup> Il y a restriction d'admission lorsque, dans un département, un domaine de spécialité ou une filière d'études, le nombre de places est fixé.
+
+<sup>2</sup> La fixation d'une restriction d'admission présuppose que
+
+- a la Haute école spécialisée bernoise a pris les dispositions propres à éviter les restrictions;
+- b les ressources dont disposent le canton et la Haute école spécialisée bernoise ne permettent pas d'améliorer la capacité d'accueil et que
+- c la formation ne peut plus être assurée autrement dans des conditions satisfaisantes.
+
+<sup>3</sup> Le Conseil-exécutif fixe le nombre de places pour le département, le domaine de spécialité ou la filière d'études concernée pour la première année d'études, sur proposition de la Direction de l'instruction publique et de la culture.
+
+<sup>4</sup> La Direction de l'instruction publique et de la culture entend au préalable la rectrice ou le recteur et le département.
+
+<sup>5</sup> La restriction d'admission est fixée pour une année d'études.
+
+#### Art. 55
+
+**Mesures pour éviter les restrictions d'admission**
+
+<sup>1</sup> Dans les départements, domaines de spécialité ou filières d'études menacés de restrictions d'admission, tous les moyens permettant aux candidates et aux candidats d'accéder aux études doivent être mis en œuvre, pour autant que le financement puisse être assuré et que la qualité de l'enseignement reste acceptable.
+
+#### Art. 56
+
+**Attribution des places d'étude en cas de restrictions d'admission**
+
+<sup>1</sup> Dans les départements, domaines de spécialité et filières d'études pour lesquels des restrictions d'admission ont été fixées, les places sont attribuées en fonction des aptitudes des candidates et des candidats.
+
+<sup>2</sup> La procédure permettant de déterminer ces aptitudes consiste en un examen organisé avant l'admission dans la branche considérée.
+
+<sup>3</sup> Elle est prescrite quant au contenu et à ses modalités par les départements. Sur proposition de ces derniers, le conseil de la Haute école spécialisée édicte un règlement, qui est approuvé par la Direction de l'instruction publique et de la culture.
+
+#### Art. 57
+
+**Admission après une exclusion définitive**
+
+<sup>1</sup> Peut être admis dans la même filière d'études après une exclusion définitive d'une haute école spécialisée telle que prévue à l'article 25, alinéa 2 LHESB, à l'expiration d'un délai de deux ans, quiconque peut attester d'une activité professionnelle de deux ans dans le domaine de spécialité de la filière de formation. Les autres conditions d'admission sont réservées.
 
 #### Art. 58
 
-**Restriction d’admission 1. Définition**
+**Non-admission ou exclusion en raison de conditions personnelles non remplies pour l'activité professionnelle**
 
-<sup>1</sup> Il y a restriction d’admission lorsque dans un département, un domaine de spécialité ou une filière d’études, le nombre de places est fixé.
+<sup>1</sup> Le conseil de la Haute école spécialisée fixe, par voie de règlement, la procédure de non-admission ou d'exclusion des personnes qui ne remplissent pas les conditions personnelles requises pour exercer une profession en respectant l’intégrité des personnes mineures ou des personnes majeures particulièrement vulnérables qui leur sont confiées.
 
-<sup>2</sup> La fixation d’une restriction d’admission présuppose que
+<sup>2</sup> La procédure doit respecter des critères objectifs et être achevée au plus tard avant l'obtention du diplôme.
 
-- a la Haute école spécialisée bernoise ait pris les dispositions propres à éviter les restrictions;
-- b les ressources du canton et de la Haute école spécialisée bernoise ne permettent pas d’améliorer la capacité d’accueil et que
-- c la formation ne puisse plus être assurée autrement dans des conditions satisfaisantes.
+<sup>3</sup> Les conditions personnelles ne sont pas remplies en particulier
 
-<sup>3</sup> Le Conseil-exécutif fixe le nombre de places pour le département, le domaine de spécialité ou la filière d’études concernés pour la première année d’études, sur proposition de la Direction de l’instruction publique et de la culture.
+- a si les étudiantes ou les étudiants ont été condamnés pour avoir commis une des infractions énumérées à l'article 67, alinéa 3 ou 4 du Code pénal suisse du 21 décembre 1937 (CP)[^58-1] ou
+- b s'il existe des handicaps psychiques ou physiques graves, attestés par un certificat médical, qui rendent impossible l'exercice de la profession visée.
 
-<sup>4</sup> La Direction de l’instruction publique et de la culture entend au préalable le recteur ou la rectrice et le département.
+[^58-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
-<sup>5</sup> La restriction d’admission est fixée pour une année d’études.
+### 3.3.3 Règlement-cadre sur les études
 
 #### Art. 59
 
-**2. Mesures**
-
-<sup>1</sup> Tous les moyens permettant aux candidats et aux candidates d’accéder à des départements, domaines de spécialité et filières d’études menacés de restrictions d’admission doivent être mis en œuvre, pour autant que le financement puisse être assuré et que la qualité de l’enseignement reste acceptable.
-
-#### Art. 60
-
-**3. Immatriculation en cas de restrictions d’admission**
-
-<sup>1</sup> Dans les départements, domaines de spécialité et filières d’études pour lesquels des restrictions d’admission ont été fixées, les places sont attribuées en fonction des aptitudes des candidats et des candidates.
-
-<sup>2</sup> La procédure permettant de déterminer ces aptitudes consiste en un examen organisé dans la branche considérée avant ou après l’admission.
-
-<sup>3</sup> Elle est prescrite sur le plan du contenu par les départements et coordonnée par la direction de la haute école spécialisée. Sur proposition de cette dernière, le conseil de l’école édicte un règlement approuvé par la Direction de l’instruction publique et de la culture.
-
-### 3.3.3
-
-#### Art. 61
-
-**Admission après exclusion définitive**
-
-<sup>1</sup> Peut être admis dans la même filière d’études après une exclusion définitive d’une haute école spécialisée telle que stipulée à l’article 25 LHESB, à l’expiration d’un délai de deux ans, quiconque peut attester d’une activité professionnelle de deux ans dans le domaine de spécialité de la filière de formation. Les autres conditions d’admission sont réservées.
-
-### 3.3.4 Règlement-cadre pour les attestations de compétence
-
-#### Art. 62
-
-<sup>1</sup> Le conseil de l’école édicte un règlement-cadre pour les attestations de compétence ainsi que les règlements d’études de la Haute école spécialisée bernoise, qui sont soumis à l’approbation de la Direction de l’instruction publique et de la culture.
+<sup>1</sup> Le conseil de la Haute école spécialisée édicte un règlement-cadre sur les études ainsi que les règlements d’études de la Haute école spécialisée bernoise, qui sont soumis à l'approbation de la Direction de l'instruction publique et de la culture.
 
 ## 4 Organisation
 
 ### 4.1 Dispositions générales
 
-#### Art. 63
+#### Art. 60
 
 **Siège**
 
 <sup>1</sup> La Haute école spécialisée bernoise a son siège à Berne.
 
-### 4.2 La Haute école spécialisée bernoise dans son ensemble
+#### Art. 61
 
-### 4.2.1 Conseil de l'école
+**Année académique**
 
-#### Art. 64
+<sup>1</sup> En règle générale, l'année académique commence le 1<sup>er</sup> août et se termine le 31 juillet de l'année suivante. Les règlements d'études peuvent prévoir que l'année académique s'étende du 1<sup>er</sup> février au 31 janvier de l'année suivante.
+
+<sup>2</sup> L'année académique se compose de deux semestres. Le semestre d'automne s'étend du 1<sup>er</sup> août au 31 janvier et le semestre de printemps du 1<sup>er</sup> février au 31 juillet.
+
+<sup>3</sup> Au sein de la Haute école spécialisée bernoise, la structure de l'année académique est en principe uniforme et tient compte des efforts de coordination interrégionale.
+
+<sup>4</sup> Les départements fixent la structure de l'année académique.
+
+### 4.2 Conseil de la Haute école spécialisée
+
+#### Art. 62
 
 **Secrétariat et règlement interne**
 
-<sup>1</sup> Le secrétariat du conseil de l’école est administré par le recteur ou la rectrice.
+<sup>1</sup> Le secrétariat du conseil de la Haute école spécialisée est administré par la rectrice ou le recteur.
 
-<sup>2</sup> Le conseil de l’école se dote d’un règlement interne.
+<sup>2</sup> Le conseil de la Haute école spécialisée se dote d'un règlement interne.
 
-#### Art. 65
+#### Art. 63
 
 **Indemnité**
 
 <sup>1</sup> Les indemnités suivantes sont versées chaque année:
 
-- a 25'000 francs pour le président ou la présidente;
-- b 20'000 francs pour le vice-président ou la vice-présidente;
-- c 15'000 francs pour les autres membres du conseil de l’école disposant du droit de vote, ayant une charge de travail supplémentaire et ne faisant pas partie du personnel de la Haute école spécialisée bernoise;
-- d 5000 francs pour les autres membres du conseil de l’école disposant du droit de vote et ne faisant pas partie du personnel de la Haute école spécialisée bernoise.
-
-### 4.3 Année d'études
-
-#### Art. 66
-
-<sup>1</sup> En règle générale, l’année d’études commence le 1<sup>er</sup> août et se termine le 31 juillet de l’année suivante. Les règlements d’études peuvent prévoir que l’année d’études s’étend du 1<sup>er</sup> février au 31 janvier de l’année suivante.
-
-<sup>2</sup> L’année d’études se compose de deux semestres. Le semestre d’automne s’étend du 1<sup>er</sup> août au 31 janvier et le semestre de printemps du 1<sup>er</sup> février au 31 juillet.
-
-<sup>3</sup> Au sein de la Haute école spécialisée bernoise, la structure de l’année d’études est en principe uniforme et tient compte des efforts de coordination interrégionale. Les besoins particuliers de chaque département peuvent être pris en considération. Le recteur ou la rectrice fixe la structure de l’année d’études.
+- a 25'000 francs pour la présidente ou le président,
+- b 20'000 francs pour la vice-présidente ou le vice-président,
+- c jusqu'à 15'000 francs pour les autres membres du conseil de la Haute école spécialisée ayant une charge de travail accrue et ne faisant pas partie du personnel de la Haute école spécialisée bernoise ou du canton,
+- d 5000 francs pour les autres membres du conseil de la Haute école spécialisée ne faisant pas partie du personnel de la Haute école spécialisée bernoise ou du canton ainsi que pour la représentante ou le représentant des étudiantes et des étudiants.
 
 ## 5 Plan de développement, pilotage et financement
 
 ### 5.1 Plan de développement
 
+#### Art. 64
+
+<sup>1</sup> Le plan de développement tient compte du programme de législature et du plan financier du canton ainsi que des objectifs et évolutions de la politique scientifique et financière dans le domaine des hautes écoles à l'échelle suisse.
+
+<sup>2</sup> Il contribue à coordonner la politique cantonale de l'enseignement supérieur et constitue la base de la participation du canton de Berne au plan de développement fédéral des hautes écoles.
+
+<sup>3</sup> La Direction de l'instruction publique et de la culture assure la participation des Directions concernées, la Haute école spécialisée bernoise celle des unités administratives concernées.
+
+### 5.2 Mandat de prestations
+
+#### Art. 65
+
+**Compétences**
+
+<sup>1</sup> Le mandat de prestations du Conseil-exécutif est en règle générale conclu pour une période de quatre ans.
+
+<sup>2</sup> La Direction de l'instruction publique et de la culture élabore le mandat de prestations en collaboration avec la Haute école spécialisée bernoise.
+
+#### Art. 66
+
+**Aspects financiers**
+
+<sup>1</sup> Les valeurs financières de référence liées à la fourniture des prestations sont définies conformément à l'article 73, alinéa 2.
+
+<sup>2</sup> Des indicateurs et des valeurs cibles permettant d'évaluer la réalisation des objectifs sont fixés dans le mandat de prestations.
+
+<sup>3</sup> Si des coupes sont pratiquées dans le cadre de mesures visant à maintenir l'équilibre des finances, le Conseil-exécutif adapte le mandat de prestations en conséquence.
+
+### 5.3 Rapports
+
+### 5.3.1 Rapport de gestion
+
 #### Art. 67
-
-<sup>1</sup> Le plan de développement de la haute école spécialisée tient compte du programme de législature et du plan financier du canton ainsi que des objectifs et évolutions de la politique scientifique et financière dans le domaine des hautes écoles à l’échelle suisse.
-
-<sup>2</sup> Il contribue à coordonner la politique cantonale de l’enseignement supérieur et constitue la base de la participation du canton de Berne au plan de développement fédéral des hautes écoles.
-
-<sup>3</sup> La Direction de l’instruction publique et de la culture assure la participation des Directions concernées, la Haute école spécialisée bernoise celle des unités administratives concernées.
-
-### 5.1a Mandat de prestations
-
-#### Art. 68
-
-<sup>1</sup> Le mandat de prestations du Conseil-exécutif est en général conclu pour une période de quatre ans.
-
-<sup>2</sup> La Direction de l’instruction publique et de la culture élabore le mandat de prestations en collaboration avec la Haute école spécialisée bernoise.
-
-<sup>3</sup> Les valeurs financières de référence liées à la fourniture des prestations sont définies conformément à l’article 69e, alinéa 2.
-
-<sup>4</sup> Des indicateurs et des valeurs cibles permettant d’évaluer la réalisation des objectifs sont fixés dans le mandat de prestations.
-
-<sup>5</sup> Si des coupes sont pratiquées dans le cadre de mesures visant à maintenir l’équilibre des finances, le Conseil-exécutif adapte le mandat de prestations en conséquence.
-
-### 5.1b Rapports
-
-### 5.1b.1 Rapport de gestion
-
-#### Art. 69
 
 **Remise**
 
-<sup>1</sup> La Haute école spécialisée bernoise présente chaque année à l’Office de l’enseignement supérieur son rapport de gestion comportant les priorités de l’exercice et l’état des comptes annuels.
+<sup>1</sup> La Haute école spécialisée bernoise présente chaque année à l'Office de l'enseignement supérieur son rapport de gestion comportant les priorités de l'exercice et les comptes annuels.
 
-<sup>2</sup> La Direction de l’instruction publique et de la culture détermine la date de la remise du rapport de gestion en tenant compte des processus cantonaux.
+<sup>2</sup> La Direction de l'instruction publique et de la culture détermine la date de la remise du rapport de gestion en tenant compte des processus cantonaux.
 
-<sup>3</sup> Le rapport de gestion est porté à la connaissance du Grand Conseil en même temps que le rapport de révision des comptes annuels élaboré par le Contrôle des finances et l’arrêté d’approbation du Conseil-exécutif.
+<sup>3</sup> Le rapport de gestion est porté à la connaissance du Grand Conseil en même temps que le rapport de révision des comptes annuels élaboré par le Contrôle des finances et l'arrêté d'approbation du Conseil-exécutif.
 
-#### Art. 69a
+#### Art. 68
 
-**Priorités de l’exercice**
+**Priorités de l'exercice**
 
-<sup>1</sup> Les priorités de l’exercice présentées dans le rapport de gestion de la Haute école spécialisée bernoise comprennent un tour d’horizon des évolutions générales et des événements qui ont marqué l’année sous revue.
+<sup>1</sup> Les priorités de l'exercice présentées dans le rapport de gestion comprennent un tour d'horizon des évolutions générales et des événements qui ont marqué l'année sous revue.
 
-#### Art. 69b
+#### Art. 69
 
 **Comptes annuels**
 
-<sup>1</sup> Les comptes annuels de la Haute école spécialisée bernoise se composent du bilan, du compte de résultat, du tableau des flux de trésorerie et d’une annexe.
+<sup>1</sup> Les comptes annuels se composent du bilan, du compte de résultats, du tableau des flux de trésorerie et d'une annexe.
 
-<sup>2</sup> L’annexe contient des informations complémentaires et explicatives conformes aux normes de présentation des comptes de la comptabilité financière visées à l’article 69g, alinéa 2.
+<sup>2</sup> L'annexe contient des informations complémentaires et explicatives conformes aux normes de présentation des comptes de la comptabilité financière visées à l'article 75, alinéa 1, lettre a.
 
-<sup>3</sup> Les comptes annuels sont révisés par le Contrôle des finances du canton dans le délai fixé par la Direction de l’instruction publique et de la culture sur la base des processus cantonaux.
+<sup>3</sup> Les comptes annuels sont révisés par le Contrôle des finances du canton dans le délai fixé par la Direction de l'instruction publique et de la culture sur la base des processus cantonaux.
 
-<sup>4</sup> La Direction de l’instruction publique et de la culture présente les comptes annuels au Conseil-exécutif pour approbation accompagnés du rapport du Contrôle des finances.
+<sup>4</sup> La Direction de l'instruction publique et de la culture présente les comptes annuels au Conseil-exécutif pour approbation, accompagnés du rapport du Contrôle des finances.
 
-### 5.1b.2 Rapport sur l’exécution des prestations et rapports intermédiaires
+### 5.3.2 Rapport sur l'exécution des prestations et rapports intermédiaires
 
-#### Art. 69c
+#### Art. 70
 
-<sup>1</sup> La Haute école spécialisée bernoise présente chaque année à la Direction de l’instruction publique et de la culture un rapport intermédiaire rendant compte du niveau d’exécution du mandat de prestations.
+<sup>1</sup> La Haute école spécialisée bernoise présente à la Direction de l'instruction publique et de la culture le rapport sur l'exécution des prestations au cours de l'année précédant la fin du mandat de prestations du Conseil-exécutif et lui présente chaque année un rapport intermédiaire rendant compte du niveau d'exécution du mandat de prestations.
 
-<sup>2</sup> En règle générale, il n’est pas nécessaire de réaliser un rapport intermédiaire durant l’année de parution du rapport sur l’exécution des prestations.
+<sup>2</sup> En règle générale, il n'est pas nécessaire de réaliser un rapport intermédiaire durant l'année de parution du rapport sur l'exécution des prestations.
 
-### 5.1c Procédure de controlling
+### 5.3.3 Procédure de controlling
 
-#### Art. 69d
+#### Art. 71
 
-<sup>1</sup> Au moins un entretien de controlling est organisé chaque année entre la Direction de l’instruction publique et de la culture et la Haute école spécialisée bernoise.
+**Entretien de controlling**
 
-<sup>2</sup> L’entretien de controlling permet d’évaluer le niveau de réalisation des objectifs contenus dans le mandat de prestations.
+<sup>1</sup> Au moins un entretien de controlling est organisé chaque année entre la Direction de l'instruction publique et de la culture et la Haute école spécialisée bernoise.
 
-<sup>3</sup> Les rapports présentés par la Haute école spécialisée bernoise constituent la base de l’entretien.
+<sup>2</sup> L'entretien de controlling permet d'évaluer le niveau de réalisation des objectifs définis dans le mandat de prestations.
 
-<sup>4</sup> Chaque année, dans le cadre de l’approbation des comptes annuels et de la lecture du rapport de gestion, la Direction de l’instruction publique et de la culture établit un rapport à l’intention du Conseil-exécutif, dans lequel elle évalue le niveau de réalisation des objectifs.
+<sup>3</sup> Les rapports présentés par la Haute école spécialisée bernoise constituent la base de l'entretien.
 
-<sup>5</sup> Le Conseil-exécutif mène en règle générale un entretien annuel avec la direction de la Haute école spécialisée bernoise à propos des enjeux et des priorités de la politique de la formation.
+#### Art. 72
 
-<sup>6</sup> La Direction de l’instruction publique et de la culture assure la collaboration des Directions concernées.
+**Controlling par le Conseil-exécutif**
 
-### 5.1d Financement
+<sup>1</sup> Chaque année, dans le cadre de l'approbation des comptes annuels et de la lecture du rapport de gestion, la Direction de l'instruction publique et de la culture établit un rapport à l'intention du Conseil-exécutif, dans lequel elle évalue le niveau de réalisation des objectifs.
 
-#### Art. 69e
+<sup>2</sup> Le Conseil-exécutif mène périodiquement un entretien avec la Haute école spécialisée bernoise à propos des enjeux et des priorités de la politique de la formation.
+
+<sup>3</sup> La Direction de l'instruction publique et de la culture assure la participation des Directions concernées.
+
+### 5.3.4 Financement
+
+#### Art. 73
 
 **Subvention cantonale annuelle**
 
@@ -830,41 +779,41 @@ arrête:
 
 <sup>2</sup> Le montant de la subvention cantonale annuelle est fixé sur la base du mandat de prestations et des critères suivants:
 
-- a nombre d’étudiants et d’étudiantes,
+- a nombre d'étudiantes et d'étudiants,
 - b coûts moyens des différents domaines à l’échelle suisse,
-- c réalisation des objectifs prescrits dans le mandat des prestations,
+- c réalisation des objectifs définis dans le mandat des prestations,
 - d prescriptions du canton en matière de droit du personnel et de politique des traitements,
 - e comptes annuels de la Haute école spécialisée bernoise.
 
-<sup>3</sup> Le remboursement d’une subvention cantonale arrêtée ou son augmentation sont exclus en cas d’excédents ou de découverts.
+<sup>3</sup> Le remboursement ou l'augmentation d'une subvention cantonale arrêtée sont exclus en cas d'excédents ou de découverts.
 
-#### Art. 69f
+#### Art. 74
 
 **Autres moyens financiers**
 
-<sup>1</sup> La Haute école spécialisée bernoise se finance au travers de la subvention cantonale annuelle ainsi que d’autres sources telles que les subventions fédérales, les contributions qui lui sont versées par étudiant ou étudiante en vertu de conventions intercantonales et les fonds de tiers.
+<sup>1</sup> Le financement de la Haute école spécialisée bernoise est assuré par la subvention cantonale annuelle ainsi que par d'autres sources de financement telles que les subventions fédérales, les contributions qui lui sont versées par étudiante ou étudiant en vertu de conventions intercantonales et les fonds de tiers.
 
-<sup>2</sup> L’ensemble des moyens financiers font partie la fortune de la Haute école spécialisée bernoise.
+<sup>2</sup> L'ensemble des moyens financiers font partie de la fortune de la Haute école spécialisée bernoise.
 
 <sup>3</sup> La Haute école spécialisée bernoise réglemente la gestion de ses moyens.
 
-#### Art. 69g
+#### Art. 75
 
 **Principes de présentation des comptes**
 
-<sup>1</sup> La Haute école spécialisée bernoise établit sa propre comptabilité. Celle-ci comprend une comptabilité financière et une comptabilité analytique d’exploitation.
+<sup>1</sup> La Haute école spécialisée bernoise établit sa propre comptabilité. Celle-ci comprend
 
-<sup>2</sup> La comptabilité financière est établie selon les normes de présentation des comptes SWISS GAAP RPC[^69g-1].
+- a une comptabilité financière établie selon les normes de présentation des comptes SWISS GAAP RPC[^75-1],
+- b une comptabilité analytique d'exploitation fondée sur le manuel de calcul des coûts dans les hautes écoles spécialisées de la Conférence suisse des hautes écoles (CSHE)[^75-2].
 
-<sup>3</sup> La comptabilité analytique d’exploitation se fonde sur le manuel de calcul des coûts dans les hautes écoles spécialisées du Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI).
+<sup>2</sup> Les comptes sont clos au 31 décembre.
 
-<sup>4</sup> Les comptes sont clos au 31 décembre.
+<sup>3</sup> La Haute école spécialisée bernoise élabore un manuel relatif à la présentation des comptes, qui doit être vérifié par le Contrôle des finances et approuvé par la Direction de l'instruction publique et de la culture.
 
-<sup>5</sup> La Haute école spécialisée bernoise élabore un manuel relatif à la présentation des comptes, qui doit être vérifié par le Contrôle des finances et approuvé par la Direction de l’instruction publique et de la culture.
+[^75-1]: Recommandations relatives à la présentation des comptes SWISS GAAP RPC
+[^75-2]: Modèle de comptabilité analytique de la Conférence suisse des hautes écoles (CSHE); accessible sous: [https://shk.ch/fr/documentation/publications/125-modeles-de-comptabilite-analytique](https://shk.ch/fr/documentation/publications/125-modeles-de-comptabilite-analytique) (-&gt;Modèle de comptabilité analytique pour les hautes écoles spécialisées)
 
-[^69g-1]: Swiss Generally Accepted Accounting Principles – Recommandations relatives à la présentation des comptes SWISS GAAP RPC, à commander sous [http://www.verlagskv.ch](http://www.verlagskv.ch) (Webshop)
-
-#### Art. 69h
+#### Art. 76
 
 **Gestion des liquidités**
 
@@ -874,332 +823,279 @@ arrête:
 
 <sup>3</sup> Le canton et la Haute école spécialisée bernoise concluent un contrat stipulant les prestations à fournir ainsi que leurs droits et obligations.
 
-#### Art. 69i
+#### Art. 77
 
 **Gestion des assurances**
 
 <sup>1</sup> Le canton assure la gestion des assurances de la Haute école spécialisée bernoise.
 
-<sup>2</sup> La gestion des assurances de la Haute école spécialisée bernoise s’effectue via la Gestion centrale des assurances du canton de Berne rattachée à la Direction des finances.
+<sup>2</sup> La gestion des assurances de la Haute école spécialisée bernoise est effectuée par le service spécialisé en gestion des assurances rattaché à la Direction des finances.
 
 <sup>3</sup> Le canton et la Haute école spécialisée bernoise concluent un contrat stipulant les prestations à fournir ainsi que leurs droits et obligations.
 
-#### Art. 69k
+#### Art. 78
 
 **Administration des traitements**
 
-<sup>1</sup> L’Office du personnel du canton assure le versement des traitements et l’affiliation de la Haute école spécialisée bernoise aux assurances sociales.
+<sup>1</sup> La Haute école spécialisée bernoise est chargée de l'administration des traitements.
 
-<sup>2</sup> L’administration des traitements s’effectue au moyen du système d’information sur le personnel du canton de Berne via la Haute école spécialisée bernoise.
+<sup>2</sup> Elle assure le versement des traitements et son affiliation aux assurances sociales.
 
-<sup>3</sup> Le canton et la Haute école spécialisée bernoise concluent un contrat stipulant les prestations à fournir ainsi que leurs droits et obligations.
+### 5.3.5 Immeubles
 
-### 5.1e Immeubles
+#### Art. 79
 
-#### Art. 69l
+<sup>1</sup> La Haute école spécialisée bernoise
 
-<sup>1</sup> La Haute école spécialisée bernoise coordonne ses besoins en locaux et établit un plan de développement immobilier périodique à l’intention de la Direction de l’instruction publique et de la culture en tenant compte du plan de développement des hautes écoles et du mandat de prestations.
+- a coordonne ses besoins en locaux et établit un plan de développement immobilier périodique à l'intention de la Direction de l’instruction publique et de la culture en tenant compte du plan de développement des hautes écoles et du mandat de prestations;
+- b rend compte, dans le cadre de la procédure de controlling, de sa consommation de surface durant la période sous revue;
+- c indique à l'Office de l'enseignement supérieur ainsi qu'à l'Office des immeubles et des constructions les immeubles dont la propriété lui a été transférée par legs ou donation.
 
-<sup>2</sup> Dans le cadre de la procédure de controlling, elle rend compte de sa consommation de surface durant la période sous revue.
+<sup>2</sup> L'Office de l'enseignement supérieur contrôle le plan de développement immobilier et demande à l'Office des immeubles et des constructions de mettre à disposition les locaux nécessaires.
 
-<sup>3</sup> L’Office de l’enseignement supérieur contrôle le plan de développement immobilier et demande à l’Office des immeubles et des constructions qu’il mette à disposition les locaux nécessaires.
+<sup>3</sup> Si, dans le cadre de l'exécution de mandats de tiers, la Haute école spécialisée bernoise loue des immeubles pour une durée limitée à la charge des moyens correspondants, le contrat de location applicable doit être porté à la connaissance de la Direction de l'instruction publique et de la culture et de la Direction des travaux publics et des transports.
 
-<sup>4</sup> La Haute école spécialisée bernoise indique à l’Office de l’enseignement supérieur ainsi qu’à l’Office des immeubles et des constructions les immeubles dont la propriété lui a été transférée par legs ou donation.
+### 5.4 Taxes
 
-<sup>5</sup> Si, dans le cadre de l’exécution de mandats de tiers, la Haute école spécialisée bernoise loue des immeubles pour une durée limitée à la charge des moyens correspondants, le contrat de location applicable doit être porté à la connaissance de la Direction de l’instruction publique et de la culture et de la Direction des travaux publics et des transports.
+### 5.4.1 Taxe d'inscription, taxe pour l'examen d'aptitude et taxe d'études
 
-### 5.2 Taxes
+#### Art. 80
 
-#### Art. 70
+**Taxe d'inscription**
 
-**Taxe d’inscription et taxe d’immatriculation**
+<sup>1</sup> La taxe d'inscription à une filière d'études s’élève à 100 francs.
 
-<sup>1</sup> La taxe d’inscription à une filière d’études s’élève à 100 francs.
+<sup>2</sup> Un remboursement de la taxe d'inscription est exclu.
 
-<sup>2</sup> La taxe d’immatriculation s’élève à 100 francs.
+#### Art. 81
 
-<sup>3</sup> Si l’inscription aboutit à l’immatriculation, la taxe d’inscription tient lieu de taxe d’immatriculation. En cas d’inscriptions multiples, les taxes d’inscriptions supplémentaires ne peuvent être remboursées.
+**Taxe pour l'examen d'aptitude**
 
-#### Art. 71
+<sup>1</sup> La taxe prélevée pour l'examen d'aptitude des candidates et des candidats qui est organisé avant l'admission s'élève
 
-**Examen d’admission**
+- a à 150 francs au Département Arts,
+- b jusqu'à 200 francs aux Départements Santé et Travail social.
 
-<sup>1</sup> La taxe d’inscription aux examens d’admission s’élève à 50 francs.
-
-<sup>2</sup> La taxe d’examen s’élève à 150 francs.
-
-<sup>3</sup> Si le candidat ou la candidate réussit l’examen, la taxe d’inscription est déduite de la taxe d’examen.
-
-#### Art. 71a
-
-**Taxe pour l’examen d’aptitude**
-
-<sup>1</sup> La taxe prélevée pour l’examen d’aptitude des candidats et candidates organisé avant l’admission s’élève à
-
-- a 150 francs au Département Arts,
-- b 200 francs au Département Gestion, santé, travail social.
-
-#### Art. 72
+#### Art. 82
 
 **Taxe pour les études de bachelor et de master**
 
 <sup>1</sup> La taxe prélevée pour les études de bachelor et de master se monte à 750 francs par semestre.
 
-<sup>1a</sup> Les étudiants étrangers et les étudiantes étrangères s'acquittent d'une taxe d'études supplémentaire de 200 francs par semestre en plus de la taxe d'études prévue à l'alinéa 1 si leur domicile civil n'était situé ni en Suisse, ni dans la Principauté du Liechtenstein au moment où ils ont obtenu le diplôme les habilitant à s'inscrire à des études de bachelor.
+<sup>2</sup> Les étudiantes étrangères et les étudiants étrangers s'acquittent d'une taxe d'études de 200 francs par semestre en plus de la taxe d'études prévue à l'alinéa 1 si leur domicile civil n'était situé ni en Suisse, ni dans la Principauté du Liechtenstein au moment où ils ont obtenu le diplôme les habilitant à s'inscrire à des études de bachelor.
 
-<sup>2</sup> Les étudiants et les étudiantes issus de cantons avec lesquels il n’existe pas de convention intercantonale acquittent une taxe au tarif de l’accord intercantonal sur les hautes écoles spécialisées[^72-1].
+<sup>3</sup> Les étudiantes et les étudiants issus de cantons avec lesquels il n’existe pas de convention intercantonale acquittent, en plus de la taxe d'études, une taxe au tarif de l'accord intercantonal sur les hautes écoles spécialisées[^82-1].
 
-<sup>3</sup> En cas d’interruption des études, la taxe n’est en règle générale pas remboursée. Les exceptions relèvent du ou de la responsable de département.
+<sup>4</sup> En cas d'interruption des études, la taxe n'est en règle générale pas remboursée. La ou le responsable de département statue sur les exceptions.
 
-[^72-1]: AGC du 23.11.2004 concernant l'adhésion du canton de Berne à l' Accord intercantonal du 12 juin 2003 sur les hautes écoles spécialisées (AHES); RSB 439.21
+[^82-1]: AGC du 23.11.2004 concernant l'adhésion du canton de Berne à l'Accord intercantonal du 12 juin 2003 sur les hautes écoles spécialisées (AHES); RSB [439.21](https://www.belex.sites.be.ch/data/439.21/fr)
 
-#### Art. 72a
+### 5.4.2 Forfait pour le matériel et taxe administrative
 
-**Forfait pour le matériel pour les études de bachelor et de master**
+#### Art. 83
 
-<sup>1</sup> Le forfait versé pour les documents écrits, notamment les supports de cours et les photocopies, qui sont remis aux étudiants et aux étudiantes des études de bachelor et de master s'élève au maximum à 150 francs par semestre.
+**Forfait pour le matériel utile aux études de bachelor et de master**
 
-<sup>2</sup> Le recteur ou la rectrice fixe par voie de directives le forfait pour le matériel par filière d’études.
+<sup>1</sup> Le forfait versé pour les ressources et documents physiques ainsi que pour garantir l'accès aux ressources et documents numériques dans les filières de bachelor et de master s'élève au maximum à 150 francs par semestre.
 
-#### Art. 72b
+<sup>2</sup> La rectrice ou le recteur fixe le forfait par filière d'études.
 
-**Taxe de mise en congé[^72b-1]**
-
-<sup>1</sup> La taxe de mise en congé s'élève à 100 francs par semestre.
-
-<sup>2</sup> Les étudiants et étudiantes mis en congé et qui font partie de l’Association des étudiants et des étudiantes de la Haute école spécialisée bernoise s’acquittent de surcroît de la taxe visée à l’article 28, alinéa 3 LHESB[^72b-2].
-
-[^72b-1]: Ancien article 72a, modifié le 6.05.2015
-[^72b-2]: RSB 435.411
-
-#### Art. 73
-
-**Dispense de taxes**
-
-<sup>1</sup> Les étudiants et les étudiantes qui sont immatriculés dans une autre haute école spécialisée ou dans une université, mais étudient provisoirement à la Haute école spécialisée bernoise en vertu d’une convention, sont dispensés de la taxe d’études et de la redevance en faveur des institutions sociales, culturelles et sportives.
-
-#### Art. 74
-
-**Taxes d’examen**
-
-<sup>1</sup> Le conseil de l’école fixe les taxes d’examen par voie de règlement.
-
-<sup>2</sup> Les taxes d’examen perçues pour une filière d’études achevée sans répétition d’examen ne doivent pas excéder un total de 500 francs.
-
-<sup>3</sup> Si un candidat ou une candidate ne se présente pas à l’examen, la taxe d’examen ne lui est généralement pas remboursée. Le ou la responsable de département statue sur les exceptions pour de justes motifs.
-
-#### Art. 75
+#### Art. 84
 
 **Taxe administrative**
 
-<sup>1</sup> Une taxe d’un montant maximal de 100 francs est prélevée pour les prestations particulières qui ne relèvent pas de la procédure ordinaire d’immatriculation ou de mise en congé, notamment pour l’établissement de duplicatas et la réalisation de traductions.
+<sup>1</sup> Une taxe d'un montant maximal de 100 francs est prélevée pour les prestations particulières qui ne relèvent pas de la procédure ordinaire d'immatriculation ou de mise en congé, notamment pour l'établissement de duplicatas et la réalisation de traductions.
 
-<sup>2</sup> Le recteur ou la rectrice fixe les émoluments par voie de directives.
+<sup>2</sup> La rectrice ou le recteur fixe la taxe.
 
-#### Art. 76
+### 5.4.3 Taxe de mise en congé et exemption de taxes
 
-**Taxes de cours**
+#### Art. 85
 
-<sup>1</sup> Les personnes désirant suivre des cours de formation continue à la Haute école spécialisée bernoise doivent acquitter une taxe de cours.
+**Taxe de mise en congé**
 
-<sup>2</sup> En règle générale, cette taxe doit s’aligner sur les tarifs du marché et couvrir la totalité des coûts, y compris les coûts indirects.
+<sup>1</sup> La taxe de mise en congé s'élève à 100 francs par semestre.
 
-<sup>3</sup> Le ou la responsable du cours de formation continue fixe le montant de la taxe avec le ou la responsable de département.
+<sup>2</sup> Les étudiantes et les étudiants mis en congé qui font partie de l'Association des étudiants et des étudiantes de la Haute école spécialisée bernoise s'acquittent de surcroît de la taxe visée à l'article 28, alinéa 3 LHESB.
 
-#### Art. 77
+#### Art. 86
 
-**Auditeurs et auditrices**
+**Exemption de taxes**
 
-<sup>1</sup> Les auditeurs et les auditrices sont des personnes qui fréquentent certains cours pour lesquels elles manifestent un intérêt. Elles s’acquittent de 150 francs par heure de cours hebdomadaire sur une base semestrielle, mais au maximum de 1200 francs par semestre.
+<sup>1</sup> Les étudiantes et les étudiants qui sont immatriculés dans une autre haute école spécialisée ou dans une université, mais qui étudient provisoirement à la Haute école spécialisée bernoise en vertu d'une convention, sont exemptés de la taxe d'études et de la redevance en faveur des institutions sociales, culturelles et sportives.
 
-#### Art. 78
+### 5.4.4 Taxes d'examen et taxes de cours prélevées pour les formations continues
+
+#### Art. 87
+
+**Taxes d'examen**
+
+<sup>1</sup> Le conseil de la Haute école spécialisée fixe les taxes d'examen par voie de règlement.
+
+<sup>2</sup> Les taxes d'examen perçues pour une filière d'études ne doivent pas excéder un total de 500 francs.
+
+<sup>3</sup> Si une candidate ou un candidat ne se présente pas à l'examen, la taxe d'examen ne lui est en règle générale pas remboursée. La ou le responsable de département statue sur les exceptions pour de justes motifs.
+
+#### Art. 88
+
+**Taxes de cours prélevées pour les formations continues**
+
+<sup>1</sup> Les personnes désirant suivre des cours de formation continue à la Haute école spécialisée bernoise doivent acquitter une taxe.
+
+<sup>2</sup> En règle générale, la taxe doit s'aligner sur les tarifs du marché et couvrir la totalité des coûts, y compris les coûts indirects.
+
+<sup>3</sup> Le conseil de la Haute école spécialisée fixe les modalités de détail par voie de règlement.
+
+### 5.4.5 Autres taxes
+
+#### Art. 89
+
+**Auditrices et auditeurs**
+
+<sup>1</sup> Les auditrices et les auditeurs sont des personnes qui fréquentent certains cours des filières de bachelor ou de master pour lesquels elles manifestent un intérêt.
+
+<sup>2</sup> Elles s'acquittent d'une taxe calculée selon le nombre de cours suivis, mais au maximum de 1200 francs par semestre.
+
+#### Art. 90
 
 **Taxes pour les prestations de service de droit public**
 
-<sup>1</sup> Le conseil de l’école fixe les taxes pour les prestations de service de droit public.
+<sup>1</sup> Le conseil de la Haute école spécialisée fixe, par voie de règlement, les taxes pour les prestations de service de droit public.
 
-### 5.3 Pour mille du salaire
+### 5.5 Pour mille du salaire
 
-#### Art. 79
+#### Art. 91
 
-<sup>1</sup> A l’exception des assistants et des assistantes auxiliaires immatriculés comme étudiants et étudiantes, les collaborateurs et les collaboratrices de la Haute école spécialisée bernoise versent une redevance annuelle correspondant à un pour mille de leur traitement annuel (13<sup>e</sup> mois compris, mais allocations familiales et allocations d’entretien exclues) pour contribuer au financement des institutions sociales, culturelles et sportives désignées dans les statuts de l’école.
+<sup>1</sup> À l'exception des assistantes et des assistants auxiliaires immatriculés comme étudiantes et étudiants, les collaboratrices et les collaborateurs de la Haute école spécialisée bernoise versent une redevance annuelle correspondant à un pour mille de leur traitement annuel (13<sup>e</sup> mois compris, mais allocations familiales et allocations d'entretien exclues) pour contribuer au financement des institutions sociales, culturelles et sportives désignées dans les statuts de l'école.
 
-<sup>2</sup> Les étudiants et les étudiantes versent une redevance de 24 francs par semestre pour les institutions sociales, culturelles et sportives désignées dans les statuts de l’école.
+<sup>2</sup> Les étudiantes et les étudiants versent une redevance de 24 francs par semestre pour les mesures sociales désignées dans les statuts de l'école.
 
-### 5.3a Legs et fondations non autonomes
+## 6 Commission de recours, droit disciplinaire et voies de droit
 
-#### Art. 79a
+### 6.1 Commission de recours
 
-<sup>1</sup> Le conseil de l’école édicte un règlement pour chaque legs et fondation non autonome au sens de l’article 55 LHESB[^79a-1], en le portant à la connaissance de la Direction de l’instruction publique et de la culture.
+#### Art. 92
 
-[^79a-1]: RSB [435.411](https://www.belex.sites.be.ch/data/435.411/fr)
+**Composition**
 
-## 6 Procédure, voies de droit et dispositions disciplinaires
-
-#### Art. 80
-
-**Composition, désignation des membres et statut**
-
-<sup>1</sup> La commission de recours de la Haute école spécialisée est composée de cinq membres disposant du droit de vote. Elle est présidée par un membre possédant une formation juridique et n’appartenant pas à la Haute école spécialisée bernoise.
+<sup>1</sup> La commission de recours de la Haute école spécialisée bernoise est composée de cinq membres disposant du droit de vote. Elle est présidée par un membre possédant une formation juridique et n'appartenant pas à la Haute école spécialisée bernoise.
 
 <sup>2</sup> Les autres membres sont
 
-- a deux enseignants ou enseignantes,
-- b un assistant ou une assistante ou un collaborateur ou une collaboratrice scientifique et
-- c un étudiant ou une étudiante.
+- a deux enseignantes ou enseignants,
+- b une assistante ou un assistant ou une collaboratrice ou un collaborateur scientifique et
+- c une étudiante ou un étudiant.
 
-<sup>3</sup> Le conseil de l’école désigne les membres et le président ou la présidente de la commission de recours pour trois ans. Leur mandat est renouvelable.
+#### Art. 93
 
-<sup>4</sup> Si nécessaire, la commission de recours peut faire appel à des spécialistes ne disposant pas du droit de vote. La direction de la haute école spécialisée propose un choix de spécialistes en tenant compte de manière appropriée des différents départements.
+**Désignation des membres**
 
-<sup>5</sup> Elle ne reçoit pas d’instructions des autres organes de la Haute école spécialisée bernoise.
+<sup>1</sup> Le conseil de la Haute école spécialisée désigne les membres et la présidente ou le président de la commission de recours pour trois ans. Leur mandat est renouvelable.
 
-#### Art. 81
+<sup>2</sup> Si nécessaire, la commission de recours peut faire appel à des spécialistes ne disposant pas du droit de vote. La direction de la Haute école spécialisée propose un choix de spécialistes en tenant compte de manière appropriée des différents départements.
+
+#### Art. 94
+
+**Statut**
+
+<sup>1</sup> La commission de recours ne reçoit pas d'instructions des autres organes de la Haute école spécialisée bernoise.
+
+#### Art. 95
 
 **Quorum et prise de décision**
 
 <sup>1</sup> Le quorum de la commission de recours est de trois membres.
 
-<sup>2</sup> La commission de recours prend ses décisions à la majorité des voix exprimées.
+<sup>2</sup> La commission de recours rend ses décisions à la majorité des voix des membres présents.
 
-<sup>3</sup> Le président ou la présidente participe au vote. En cas d’égalité des voix, la sienne est prépondérante.
+<sup>3</sup> La présidente ou le président participe au vote. En cas d'égalité des voix, sa voix est prépondérante.
 
-<sup>4</sup> Il ou elle désigne les spécialistes auxquels il faut faire appel.
+<sup>4</sup> Elle ou il désigne les spécialistes auxquels il faut faire appel.
 
-#### Art. 82
+#### Art. 96
 
 **Règlement**
 
-<sup>1</sup> Le conseil de l’école édicte un règlement concernant la commission de recours, qui est soumis à l’approbation de la Direction de l’instruction publique et de la culture. Celui-ci fixe en particulier le mode de travail de la commission ainsi que l’indemnisation du président ou de la présidente et des autres membres.
+<sup>1</sup> Le conseil de la Haute école spécialisée édicte un règlement concernant la commission de recours, lequel est soumis à l'approbation de la Direction de l'instruction publique et de la culture. Celui-ci fixe en particulier le mode de travail de la commission ainsi que l'indemnisation de la présidente ou du président et des autres membres.
 
-#### Art. 82a
+### 6.2 Droit disciplinaire
 
-**Droit disciplinaire**
+#### Art. 97
 
-<sup>1</sup> Il y a infraction au règlement disciplinaire lorsque des étudiants ou des étudiantes contreviennent aux règlements internes ou aux règlements d’études ou enfreignent, pendant leurs études, les interdictions ou prescriptions légales.
+**Infraction au règlement disciplinaire**
 
-<sup>2</sup> Il y a infraction au principe d’intégrité de la science lorsque des étudiants ou des étudiantes
+<sup>1</sup> Il y a infraction au règlement disciplinaire lorsque des étudiantes ou des étudiants contreviennent aux règlements internes ou aux règlements d'études ou enfreignent, pendant leurs études, les interdictions ou prescriptions légales ainsi que les consignes données par la rectrice ou le recteur et par les responsables de département.
 
-- a utilisent les résultats de recherche de tiers sans en citer la source et les font passer ainsi pour les leurs;
-- b falsifient des résultats de recherche en présentant intentionnellement de manière erronée le processus de recherche ou
-- c contreviennent d’une autre manière aux règles de bonne pratique scientifique.
+#### Art. 98
 
-<sup>3</sup> En cas d’infraction mineure au règlement disciplinaire ou au principe d’intégrité de la science, le ou la responsable de département compétents peut donner un avertissement à la personne fautive.
+**Infraction à l'intégrité scientifique**
 
-<sup>4</sup> En cas d’infractions graves ou répétées au règlement disciplinaire ou au principe d’intégrité de la science, le recteur ou la rectrice peut décider
+<sup>1</sup> Il y a infraction à l'intégrité scientifique lorsque des étudiantes ou des étudiants contreviennent aux règles relatives à l'intégrité scientifique et aux bonnes pratiques scientifiques qui sont fixées dans le règlement correspondant de la Haute école spécialisée bernoise.
 
-- a d’exclure de certains cours la personne fautive et lui interdire d’utiliser certaines installations de la Haute école spécialisée bernoise pour une durée d’un ou plusieurs semestres, ces deux sanctions pouvant être cumulées;
-- b d’exclure temporairement ou définitivement la personne fautive de la Haute école spécialisée bernoise.
+#### Art. 99
 
-<sup>5</sup> Si les circonstances l’exigent, le recteur ou la rectrice peut décider, en complément ou en remplacement des sanctions prévues à l’alinéa 4, de prendre d’autres mesures administratives ou organisationnelles propres à maintenir la bonne marche de la haute école.
+**Infraction grave**
 
-<sup>6</sup> D’autres mesures juridiques comme l’engagement d’une poursuite pénale ou le retrait de titres sont réservées.
+<sup>1</sup> En cas d'infraction grave ou répétée au règlement disciplinaire ou aux règles relatives à l’intégrité scientifique, la rectrice ou le recteur peut
+
+- a donner un avertissement;
+- b exclure de certains cours la personne fautive et lui interdire d'utiliser certaines installations de la Haute école spécialisée bernoise pour une durée d'un ou de plusieurs semestres, ces deux sanctions pouvant être cumulées;
+- c exclure temporairement ou définitivement la personne fautive de la Haute école spécialisée bernoise.
+
+<sup>2</sup> Si les circonstances l'exigent, la rectrice ou le recteur peut décider, en complément ou en remplacement des sanctions prévues à l'alinéa 1, de prendre d'autres mesures administratives ou organisationnelles propres à maintenir la bonne marche de la haute école.
+
+#### Art. 100
+
+**Infraction mineure**
+
+<sup>1</sup> En cas d'infraction mineure au règlement disciplinaire ou aux règles relatives à l'intégrité scientifique, la ou le responsable de département compétent peut donner un avertissement à la personne fautive.
+
+#### Art. 101
+
+**Autres mesures**
+
+<sup>1</sup> D'autres mesures juridiques comme l'engagement d'une poursuite pénale ou le retrait de titres ou d'attestations sont réservées.
 
 ## 7 Dispositions transitoires et dispositions finales
 
-#### Art. 83
+#### Art. 102
 
-<sup>1</sup> Le transfert de l’ancien au nouveau système de rémunération conformément à l’article 18 en corrélation avec l’article 66, alinéas 1 à 3 LHESB[^83-1] s’applique à tous les rapports de service au 1<sup>er</sup> décembre 2004.
+**Droit aux rentes particulières**
 
-<sup>2</sup> Ce transfert ainsi que la garantie nominale des droits acquis visée à l’article 66 LHESB interviennent dans le cadre des décisions d’engagement actuelles, sur la base du degré d’occupation déterminant le 30 novembre 2004, allégement horaire pour raison d’âge non compris.
+<sup>1</sup> Les collaboratrices et les collaborateurs dont les rapports de travail ont été résiliés ou non prolongés avant le 1<sup>er</sup> janvier 2023 et qui, au moment de la résiliation des rapports de travail, remplissent les conditions requises pour avoir droit aux rentes particulières selon l'ancien droit (art. 14a, al. 2 à 4 OHESB), conservent ce droit après l'entrée en vigueur de la présente modification.
 
-[^83-1]: RSB 435.411
+#### Art. 103
 
-#### Art. 84
+**Calcul de la durée d'engagement**
 
-**Modification d’actes législatifs**
+<sup>1</sup> La durée des engagements conclus selon l’ancien droit est imputable au calcul de la durée d’engagement visée à l’article 45, alinéa 1, lettre b.
 
-<sup>1</sup> Les actes législatifs suivants sont modifiés:
+#### Art. 104
 
-- 1\. Ordonnance du 12 mai 1993 sur les statut général de la fonction publique (Ordonnance sur le personnel, OPers)[^84-1]
-- 2\. Ordonnance du 26 juin 1996 sur les traitements (OTr)[^84-2]
-- 3\. Ordonnance du 21 décembre 1994 sur le statut du personnel enseignant (OSE)[^84-3]
+**Adaptation des rapports de travail existants**
 
-[^84-1]: RSB 153.011.1
-[^84-2]: RSB 153.311.1
-[^84-3]: Abrogée par O du 28.3.2007 sur le statut du corps enseignant (OSE); RSB 430.251.0; ROB 07–57
+<sup>1</sup> Le conseil de la Haute école spécialisée fixe, par voie de règlement, les adaptations nécessaires des rapports de travail existants de la Haute école spécialisée bernoise au nouveau droit.
 
-#### Art. 85
+#### Art. 105
 
-**Abrogation d’un acte législatif**
+**Abrogation**
 
-<sup>1</sup> L’acte législatif suivant est abrogé:
+<sup>1</sup> L'ordonnance du 5 mai 2004 sur la Haute école spécialisée bernoise (OHESB)[^105-1] est abrogée.
 
-Ordonnance du 13 janvier 1999 sur la Haute école spécialisée bernoise (RSB 435.411.11)
+[^105-1]: RSB [436.811](https://www.belex.sites.be.ch/data/436.811/fr)
 
-#### Art. 86
-
-**Abrogation d’arrêtés**
-
-<sup>1</sup> Les arrêtés suivants sont abrogés:
-
-- 1\. ACE no 0244 du 28 janvier 1998 intitulé « Berner Fachhochschule; Entschädigung des Präsidenten des Schulrates » (n’existe qu’en allemand)
-- 2\. ACE no 3018 du 20 septembre 2000 et ACE no 1944 du 2 juillet 2003 intitulés « Einstufung der Nebenfachdozentinnen und Nebenfachdozenten an der Hochschule für Musik und Theater » (n’existent qu’en allemand)
-
-<sup>2</sup> Toutes les dispositions figurant dans d’autres arrêtés contraires à la présente ordonnance sont abrogées.
-
-#### Art. 87
+#### Art. 106
 
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2004.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2023.
 
-<sup>2</sup> Les articles 22 (temps de travail) et 72, alinéa 1 (taxe d’études, études sanctionnées par un diplôme) entrent en vigueur le 1<sup>er</sup> septembre 2004. Les articles 67 et 110, alinéa 1 de l’ordonnance du 13 janvier 1999 sur la Haute école spécialisée bernoise s’appliquent jusqu’au 31 août 2004.
-
-<sup>3</sup> L’article 24, l’article 84, chiffre 2, annexe et chiffre 3 ainsi que l’article 86, alinéa 1, chiffre 2 entrent en vigueur le 1<sup>er</sup> décembre 2004.
-
-## T1 Dispositions transitoires de la modification du 12.03.2008
-
-#### Art. T1-1
-
-<sup>1</sup> La Direction de l'instruction publique statue sur les demandes d'exercer une activité annexe soumise à autorisation, déposées par des enseignants ou des enseignantes avant le 1<sup>er</sup> juin 2008.
-
-<sup>2</sup> Les soldes horaires antérieurs au 1<sup>er</sup> juin 2008 peuvent faire l'objet d'une indemnisation financière selon l'article 22b.
-
-<sup>3</sup> Le conseil de l'école exerce la compétence visée à l'article 49, alinéa 2 la première fois en prévision du début de l'année d'études 2008/2009. Les dispositions actuelles restent applicables jusqu'à la fin de l'année d'études 2007/2008.
-
-## T2 Dispositions transitoires de la modification du 9.11.2011
-
-#### Art. T2-1
-
-<sup>1</sup> Les émoluments prévus à l'article 72 sont prélevés selon le nouveau tarif à partir du semestre de printemps 2012.
-
-## T3 Dispositions transitoires de la modification du 30.10.2013
-
-#### Art. T3-1
-
-<sup>1</sup> Les mandats d'enseignement à durée déterminée ayant été conclus avant le 1<sup>er</sup> janvier 2014 prennent fin selon l'ancien droit.
-
-<sup>2</sup> La modification de l'article 70 OHESB ne s'applique qu'à partir du semestre d'automne 2014–2015.
-
-## T4 Dispositions transitoires de la modification du 6.05.2015
-
-#### Art. T4-1
-
-<sup>1</sup> Le solde du compte épargne-temps des enseignants et des enseignantes ainsi que des membres de la direction de la Haute école spécialisée disposant du droit de vote doit être compensé ou indemnisé dans les cinq ans qui suivent l’entrée en vigueur de la présente modification. Sur demande, le versement de l’indemnisation financière peut être échelonné.
-
-## T5 Dispositions transitoires de la modification du 22.06.2016
-
-#### Art. T5-1
-
-<sup>1</sup> La durée des engagements conclus selon l’ancien droit entre dans le calcul de la durée d’engagement visée à l’article 14a, alinéa 2 OHESB.
-
-## T6 Disposition transitoire de la modification du 20.12.2017
-
-#### Art. T6-1
-
-<sup>1</sup> La taxe d'études supplémentaire pour les étudiants étrangers et les étudiantes étrangères visée à l'article 72, alinéa 1a est prélevée pour la première fois pour le semestre d'automne de l'année d'études 2018-2019.
-
-## A1
-
-## A2
-
-Berne, le 5 mai 2004
+Berne, le 16 novembre 2022
 
 Au nom du Conseil-exécutif,
 
-le président: Gasche
+la présidente: Häsler
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-04-30
+22-101

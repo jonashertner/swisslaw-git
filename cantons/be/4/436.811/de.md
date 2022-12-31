@@ -4,13 +4,13 @@ number: "436.811"
 title: Verordnung über die Berner Fachhochschule
 short: "Fachhochschulverordnung, FaV"
 language: de
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-16
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.811"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1858/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2723/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,70 +19,63 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1858/pdf_file"
 
 (Fachhochschulverordnung, FaV)
 
-vom 05.05.2004 (Stand 01.07.2020)
+vom 16.11.2022 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 57 Absatz 2 und 3 des Gesetzes vom 19. Juni 2003 über die Berner Fachhochschule (FaG)[^ingress-1],
+gestützt auf Artikel 10 Absatz 4, 18 Absatz 2, 18a, 19 Absatz 7, 20 Absatz 3, 22 Absatz 4, 23 Absatz 4, 24 Absatz 3, 25 Absätze 2 und 3, 26 Absatz 7, 26a Absatz 2, 49 Absatz 3, 52 Absatz 7, 52a Absatz 2, 53 Absatz 4, 57a und 61a Absatz 1 des Gesetzes vom 19. Juni 2003 über die Berner Fachhochschule (FaG)[^ingress-1],
 
-auf Antrag der Erziehungsdirektion,
+auf Antrag der Bildungs- und Kulturdirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 435.411
+[^ingress-1]: BSG [435.411](https://www.belex.sites.be.ch/data/435.411/de)
 
 ## 1 Grundlagen
 
 #### Art. 1
 
-**Geltungsbereich**
+**Geltungsbereich und Gegenstand**
 
 <sup>1</sup> Diese Verordnung gilt für die Berner Fachhochschule.
 
 <sup>2</sup> Sie enthält insbesondere Bestimmungen über
 
-- a die Aufgaben der Berner Fachhochschule,
-- b die Angehörigen der Berner Fachhochschule,
+- a die Aufgaben,
+- b die Angehörigen,
 - c die Organisation,
 - d die Planung, Steuerung und Finanzierung,
 - e die Zuständigkeiten der kantonalen Behörden,
 - f das Verfahren, die Rechtspflege und die Disziplin.
 
-#### Art. 1a
+#### Art. 2
 
 **Ausbildungsgänge der höheren Berufsbildung**
 
 <sup>1</sup> Soweit die Berner Fachhochschule im Auftrag des Kantons Ausbildungsgänge der höheren Berufsbildung anbietet, gelten die Bestimmungen der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung für
 
 - a die Ausbildung,
-- b die Organisation und Befugnisse sowie
+- b die Organisation und Befugnisse,
 - c die Finanzierung des Leistungsangebots.
 
-<sup>2</sup> Die Anstellungsverhältnisse der höheren Berufsbildung sind der Personalgesetzgebung des Kantons unterstellt, soweit nicht die besonderen Bestimmungen der Fachhochschulgesetzgebung des Kantons Anwendung finden.
+<sup>2</sup> Die Arbeitsverhältnisse der in der höheren Berufsbildung tätigen Mitarbeiterinnen und Mitarbeiter sind der Personalgesetzgebung des Kantons unterstellt. Vorbehalten bleibt Absatz 3.
 
-<sup>3</sup> Für die Anstellungsverhältnisse der Dozentinnen und Dozenten der höheren Berufsbildung gelten die Artikel 14b Absatz 1, 15, 17 bis 19, 22b, 24 bis 38 und 43 und 45.
+<sup>3</sup> Für die Arbeitsverhältnisse folgender Mitarbeiterinnen und Mitarbeiter gelten folgende Artikel:
 
-<sup>4</sup> Anstellungsbehörde für die Dozentinnen und Dozenten der höheren Berufsbildung ist die Departementsleiterin oder der Departementsleiter.
-
-<sup>5</sup> Für die Anstellungsverhältnisse der Assistentinnen und Assistenten der höheren Berufsbildung gelten die Artikel 13 Absatz 1 Buchstabe c, Artikel 39, 40 und 43 bis 46.
-
-<sup>6</sup> Für die Anstellungsverhältnisse der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der höheren Berufsbildung gelten die Artikel 13 Absatz 1 Buchstabe c, Artikel 41 und 43 bis 46.
-
-<sup>7</sup> Für die Anstellungsverhältnisse der übrigen Mitarbeiterinnen und Mitarbeiter der höheren Berufsbildung gelten die Artikel 13 Absatz 1 Buchstabe c und Artikel 43 bis 46.
-
-#### Art. 2
-
-**Statut, Leitbild**
-
-<sup>1</sup> Die Berner Fachhochschule gibt sich ein Statut und ein Leitbild.
-
-<sup>2</sup> Das Statut setzt die Aufträge des Gesetzes und der Verordnung um.
-
-## 2 Aufgaben der Berner Fachhochschule
+- a Dozentinnen und Dozenten der höheren Berufsbildung: Artikel 14 Absatz 1 Buchstaben a und c, Artikel 16 Absatz 1 Buchstaben a und c sowie die Artikel 18 bis 22, 26, 27, 30 bis 33, 36, 37 und 43 bis 47, wobei die Departementsleiterin oder der Departementsleiter Anstellungsbehörde der Dozentinnen und Dozenten ist.
+- b Assistentinnen und Assistenten der höheren Berufsbildung: Artikel 12 Absatz 1 Buchstabe c, Artikel 14 Absatz 1 Buchstaben b und c, Artikel 16 Absatz 1 Buchstaben b und c sowie die Artikel 18 bis 21, 26, 27, 30, 39, 40 und 43 bis 47,
+- c Wissenschaftliche Mitarbeiterinnen und Mitarbeiter der höheren Berufsbildung: Artikel 12 Absatz 1 Buchstabe c, Artikel 14 Absatz 1 Buchstabe c, Artikel 16 Absatz 1 Buchstabe c sowie die Artikel 18 bis 22, 26, 27, 30, 41 und 43 bis 47,
+- d Weitere Mitarbeiterinnen und Mitarbeiter der höheren Berufsbildung: Artikel 12 Absatz 1 Buchstabe c sowie die Artikel 30 und 43 bis 47.
 
 #### Art. 3
 
-**…**
+**Statut, Strategie**
+
+<sup>1</sup> Die Berner Fachhochschule gibt sich ein Statut und eine Strategie.
+
+<sup>2</sup> Das Statut setzt die Aufträge des Gesetzes und der Verordnung um.
+
+## 2 Aufgaben
 
 #### Art. 4
 
@@ -90,39 +83,46 @@ beschliesst:
 
 <sup>1</sup> Verträge mit Dritten über Forschung, Entwicklung und Dienstleistung mit einer Gesamtsumme über 250'000 Franken pro Jahr (inkl. Investitionen und Betriebskosten) sind von der Rektorin oder dem Rektor zu genehmigen. Die Genehmigung trägt der Wissenschaftsfreiheit Rechnung.
 
-<sup>2</sup> Die übrigen Verträge mit Dritten sind der Rektorin oder dem Rektor zur Kenntnis zu bringen.
+<sup>2</sup> Verträge mit Dritten über Forschung, Entwicklung und Dienstleistung mit einer Gesamtsumme über 100'000 Franken pro Jahr (inkl. Investitionen und Betriebskosten) sind der Rektorin oder dem Rektor zur Kenntnis zu bringen.
 
-<sup>3</sup> …
+<sup>3</sup> Sofern nichts anderes vereinbart ist, gehen die durch die Aufträge finanzierten materiellen und ideellen Güter in das Eigentum der Berner Fachhochschule über.
 
-<sup>4</sup> Sofern nichts anderes vereinbart ist, gehen die durch die Aufträge finanzierten materiellen und ideellen Güter in das Eigentum der Berner Fachhochschule über.
+<sup>4</sup> Der Fachhochschulrat
 
-<sup>5</sup> Das Finanzreglement regelt die Einzelheiten, namentlich die Zuständigkeiten und die Abgaben zur Deckung der Verwaltungskosten.
-
-<sup>6</sup> …
+- a regelt die Einzelheiten durch Reglement, namentlich die Zuständigkeiten und die Abgaben zur Deckung der Verwaltungskosten,
+- b kann die Befugnis gemäss Absatz 1 ganz oder teilweise der Rektorin oder dem Rektor übertragen.
 
 #### Art. 5
 
 **Urheber- und Patentrechte**
 
-<sup>1</sup> Verträge mit Dritten über die Verwertung eines Patentrechts, das im Rahmen des Grundauftrages einer Mitarbeiterin oder eines Mitarbeiters entstanden ist, werden in der Regel durch die Rektorin oder den Rektor abgeschlossen.
+<sup>1</sup> Verträge mit Dritten über die Verwertung eines Patentrechts, das im Rahmen des Grundauftrages einer Mitarbeiterin oder eines Mitarbeiters entstanden ist, liegen im Verantwortungsbereich der Rektorin oder des Rektors.
 
-<sup>2</sup> Die Rektorin oder der Rektor regelt die Ausnahmen von Absatz 1, die Verwendung der Einnahmen sowie die Bevorschussung von Patentierungs- und anderen, direkt mit der Verwertung des Urheber- oder Patentrechts zusammenhängenden Kosten. Sie oder er erlässt Weisungen zum Abschluss von Verträgen mit Dritten über Patentrechte, Urheberrechte und verwandte Schutzrechte.
+<sup>2</sup> Sie oder er erlässt Weisungen zum Abschluss von Verträgen mit Dritten über Patentrechte, Urheberrechte und verwandte Schutzrechte.
+
+<sup>3</sup> Die Weisungen enthalten insbesondere Bestimmungen über
+
+- a die Verwendung der Einnahmen,
+- b die Bevorschussung von Patentierungskosten,
+- c die Bevorschussung von Kosten, die direkt mit der Verwertung des Urheber- oder Patentrechts zusammenhängen.
 
 #### Art. 6
 
 **Information über Forschung und Entwicklung**
 
-<sup>1</sup> Forschungs- und Entwicklungserkenntnisse bleiben bis zum Zeitpunkt, zu dem die Ergebnisse der Öffentlichkeit, namentlich durch Publikation, zugänglich gemacht werden, grundsätzlich vertraulich. Eine vorherige Einsichtnahme durch Dritte setzt die Zustimmung der oder des für das Projekt Verantwortlichen voraus.
+<sup>1</sup> Die Berner Fachhochschule sorgt dafür, dass die Ergebnisse von Forschung und Entwicklung der Öffentlichkeit zugänglich gemacht werden, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen.
 
-<sup>2</sup> Die Berner Fachhochschule und die Departemente sorgen dafür, dass die Ergebnisse von Forschung und Entwicklung der Öffentlichkeit zugänglich gemacht werden, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen.
+<sup>2</sup> Forschungs- und Entwicklungserkenntnisse sind bis zum Zeitpunkt, zu dem die Ergebnisse der Öffentlichkeit zugänglich gemacht werden, grundsätzlich vertraulich.
+
+<sup>3</sup> Mit Zustimmung der projektverantwortlichen Person können Dritte vor der Veröffentlichung Einsicht in die Ergebnisse nehmen.
 
 #### Art. 7
 
 **Evaluation und Qualitätsentwicklung**
 
-<sup>1</sup> Die Berner Fachhochschule wendet ein Qualitätsentwicklungssystem zur laufenden Überprüfung und Verbesserung ihrer Leistungen in Lehre, Forschung und Entwicklung, den Dienstleistungen sowie den strategischen und operativen Führungsprozessen an.
+<sup>1</sup> Die Berner Fachhochschule wendet ein Qualitätsentwicklungssystem zur laufenden Überprüfung und Verbesserung ihrer Leistungen in Lehre, Forschung und Entwicklung, Weiterbildung, den Dienstleistungen sowie den strategischen und operativen Führungsprozessen an.
 
-## 3 Die Angehörigen der Berner Fachhochschule
+## 3 Angehörige
 
 ### 3.1 Gemeinsame Bestimmungen
 
@@ -130,144 +130,235 @@ beschliesst:
 
 **Begriff**
 
-<sup>1</sup> Die Angehörigen der Berner Fachhochschule sind die Studierenden sowie die Mitarbeiterinnen und Mitarbeiter.
+<sup>1</sup> Angehörige der Berner Fachhochschule sind die Studierenden sowie die Mitarbeiterinnen und Mitarbeiter.
 
 #### Art. 9
 
-**Gleichstellung von Frauen und Männern**
-
-<sup>1</sup> Die Berner Fachhochschule setzt sich in ihrem Bereich für die Verwirklichung der tatsächlichen Gleichstellung und der Chancengleichheit von Frauen und Männern ein.
-
-<sup>2</sup> Das Statut regelt die Ausgestaltung der Gleichstellung, insbesondere das Controlling, und umschreibt die Grundzüge eines vom Schulrat zu erlassenden Reglements.
-
-#### Art. 10
-
 **Beratungsstelle der Berner Hochschulen**
 
-<sup>1</sup> Die Beratungsstelle der Berner Hochschulen erbringt Beratungs- und Informationsdienstleistungen zur Studiengestaltung, zu Laufbahnentscheiden, zum wirksamen Lernen und Lehren und zum Bewältigen von persönlichen Schwierigkeiten.
+<sup>1</sup> Angehörigen der Berner Fachhochschule steht die Beratungsstelle der Berner Hochschulen für Beratungs- und Informationsdienstleistungen zur Studiengestaltung, zu Laufbahnentscheiden, zum wirksamen Lernen und Lehren und bei der Bewältigung von persönlichen Schwierigkeiten zur Verfügung.
 
 ### 3.2 Mitarbeiterinnen und Mitarbeiter
 
 ### 3.2.1 Gemeinsame Bestimmungen
 
-#### Art. 11
+#### Art. 10
 
 **Kategorien**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter sind
+<sup>1</sup> Es werden folgende Kategorien von Mitarbeiterinnen und Mitarbeitern unterschieden:
 
-- a die Rektorin oder der Rektor
-- b die Departementsleiterinnen und Departementsleiter
-- c die Dozentinnen und Dozenten,
-- d die Assistentinnen und Assistenten,
-- e die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie
-- f weitere Mitarbeiterinnen und Mitarbeiter wie technisches und administratives Personal sowie Hilfsassistentinnen und Hilfsassistenten.
+- a Dozentinnen und Dozenten,
+- b Assistentinnen und Assistenten,
+- c Wissenschaftliche Mitarbeiterinnen und Mitarbeiter,
+- d Weitere Mitarbeiterinnen und Mitarbeiter.
 
-<sup>2</sup> Zu den Dozentinnen und Dozenten gemäss Absatz 1 gehören auch Lehrbeauftragte sowie Gastdozentinnen und Gastdozenten.
+<sup>2</sup> Die Kategorie Dozentinnen und Dozenten umfasst auch Lehrbeauftragte.
 
-<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, deren Gehalt durch Drittmittel finanziert wird, gehören ihrer Qualifikation und Stellung entsprechend einer der Kategorien gemäss Absatz 1 an.
+<sup>3</sup> Drittmittelangestellte gemäss Artikel 10 Absatz 3 FaG gehören ihrer Qualifikation und Stellung entsprechend einer der Kategorien gemäss Absatz 1 an.
+
+#### Art. 11
+
+**Stellenbewirtschaftung und Personalcontrolling**
+
+<sup>1</sup> Die Rektorin oder der Rektor trägt die Gesamtverantwortung für die Stellenbewirtschaftung sowie das Personalcontrolling der Berner Fachhochschule.
 
 #### Art. 12
 
-**Stellenbewirtschaftung**
+**Zuständigkeiten für die Anstellung**
 
-<sup>1</sup> Die Rektorin oder der Rektor ist für die Stellenbewirtschaftung sowie das Personalcontrolling im Rektorat und in den Departementen zuständig.
+<sup>1</sup> Zuständig sind
+
+- a der Fachhochschulrat für die Anstellung der Rektorin oder des Rektors, die Vizerektorinnen und Vizerektoren, die Verwaltungsdirektorin oder den Verwaltungsdirektor sowie die Departementsleiterinnen und Departementsleiter,
+- b die Rektorin oder der Rektor für die Anstellung der Dozentinnen und Dozenten, die der Departementsleiterin oder dem Departementsleiter direkt unterstellt sind sowie die Mitarbeiterinnen und Mitarbeiter des Rektorats,
+- c die Departementsleiterin oder der Departementsleiter für die Anstellung der weiteren Mitarbeiterinnen und Mitarbeiter des Departements,
+- d die Vizerektorinnen oder Vizerektoren sowie die Verwaltungsdirektorin oder der Verwaltungsdirektor für die Anstellung der ihnen direkt oder indirekt unterstellten Mitarbeiterinnen und Mitarbeiter.
+
+<sup>2</sup> Die Zuständigkeit der Rektorin oder des Rektors sowie der Departementsleiterinnen und Departementsleiter können im Statut an die ihnen direkt unterstellten Organisationseinheiten übertragen werden.
 
 #### Art. 13
 
-**Zuständigkeiten 1. Anstellung**
+**Zuständigkeiten für Gehaltseinstufungen**
 
-<sup>1</sup> Anstellungsbehörde sind
+<sup>1</sup> Der Fachhochschulrat legt das Anfangsgehalt der Rektorin oder des Rektors, der Vizerektorinnen und Vizerektoren, der Verwaltungsdirektorin oder des Verwaltungsdirektors sowie der Departementsleiterinnen und Departementsleiter im Rahmen der Personalgesetzgebung fest.
 
-- a der Schulrat für die Rektorin oder den Rektor sowie die Departementsleiterinnen und Departementsleiter,
-- b die Rektorin oder der Rektor für die Dozentinnen und Dozenten sowie die Mitarbeiterinnen und Mitarbeiter des Rektorats sowie
-- c die Departementsleiterin oder der Departementsleiter für die Mitarbeiterinnen und Mitarbeiter des Departements.
-
-<sup>2</sup> Die Befugnisse der Rektorin oder des Rektors sowie der Departementsleiterinnen und Departementsleiter können im Statut an die ihnen direkt unterstellten Organisationseinheiten übertragen werden.
+<sup>2</sup> Die Rektorin oder der Rektor legt das Anfangsgehalt der übrigen Mitarbeiterinnen und Mitarbeiter im Rahmen der Personalgesetzgebung fest.
 
 #### Art. 14
 
-**2. Gehaltseinstufung**
+**Vertragsdauer**
 
-<sup>1</sup> Der Schulrat legt das Anfangsgehalt der Rektorin oder des Rektors sowie der Departementsleiterinnen und Departementsleiter im Rahmen der Personalgesetzgebung fest.
+<sup>1</sup> Artikel 16a Absatz 2 des Personalgesetzes vom 16. September 2004 (PG)[^14-1] gilt nicht für
 
-<sup>2</sup> Die Rektorin oder der Rektor legt das Anfangsgehalt der übrigen Mitarbeiterinnen und Mitarbeiter auf Antrag des zuständigen Departements im Rahmen der Personalgesetzgebung fest.
+- a Lehrbeauftragte,
+- b Assistentinnen und Assistenten,
+- c Drittmittelangestellte.
 
-#### Art. 14a
-
-**Befristung**
-
-<sup>1</sup> Für Lehrbeauftragte, Assistentinnen und Assistenten sowie wissenschaftliche Mitarbeiterinnen und Mitarbeiter gilt Artikel 16a Absatz 2 des Personalgesetzes vom 16. September 2004 (PG)[^14a-1] nicht.
-
-<sup>2</sup> Befristet angestellte wissenschaftliche Mitarbeiterinnen und Mitarbeiter, die länger als fünf Jahre ohne Unterbruch an der Berner Fachhochschule angestellt sind, haben bei einer unverschuldeten Auflösung des Arbeitsverhältnisses Anspruch auf besondere Renten gemäss Artikel 33 PG. Die Artikel 33 bis 35 PG sind sinngemäss anwendbar.
-
-<sup>3</sup> Die Dauer der Anstellung als Lehrbeauftragte oder Lehrbeauftragter sowie Assistentin oder Assistent wird nicht an die Anstellungsdauer gemäss Absatz 2 angerechnet.
-
-<sup>4</sup> Einer unverschuldeten Auflösung des Arbeitsverhältnisses gemäss Absatz 2 ist die Beendigung des befristeten Arbeitsverhältnisses durch Zeitablauf gleichgestellt.
-
-<sup>5</sup> Wird nach Beendigung eines befristeten Arbeitsverhältnisses gemäss Absatz 2 kein neuer Arbeitsvertrag begründet, hat die vorgesetzte Person die betreffende wissenschaftliche Mitarbeiterin oder den betreffenden wissenschaftlichen Mitarbeiter mindestens drei Monate vor Vertragsende darüber zu informieren. Bei Verletzung dieser Pflicht wird das Arbeitsverhältnis um drei Monate verlängert.
-
-<sup>6</sup> Die Berner Fachhochschule vergütet der zuständigen Vorsorgeeinrichtung die aus den besonderen Rentenansprüchen nach Absatz 2 anfallenden Mehrleistungen und Mindereinnahmen sowie den damit verbundenen administrativen Aufwand.
-
-[^14a-1]: BSG 153.01
-
-#### Art. 14b
-
-**Arbeitszeiterfassung, Ferien- und Zeitguthaben, Langzeitkonto**
-
-<sup>1</sup> Dozentinnen und Dozenten sind von der Arbeitszeiterfassungsowie den Regelungen betreffend die finanzielle Abgeltungvon Ferienguthaben gemäss Personalgesetzgebung ausgenommen und führen kein Langzeitkonto.
-
-<sup>2</sup> Die stimmberechtigten Mitglieder der Fachhochschulleitung sind von der Arbeitszeiterfassung sowie den Regelungen betreffend die finanzielle Abgeltung von Ferien- und Zeitguthaben gemäss Personalgesetzgebung ausgenommen und führen kein Langzeitkonto.
+[^14-1]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
 
 #### Art. 15
 
-**Nebenbeschäftigungen**
+**Freistellung von befristet angestellten Mitarbeiterinnen und Mitarbeitern**
 
-<sup>1</sup> Die Nebenbeschäftigungen innerhalb des Fachgebiets von Dozentinnen und Dozenten richten sich nach dieser Verordnung.
+<sup>1</sup> Die Anstellungsbehörde kann eine befristet angestellte Mitarbeiterin oder einen befristet angestellten Mitarbeiter bis zur Beendigung des Arbeitsverhältnisses freistellen, wenn es im öffentlichen Interesse liegt.
 
-<sup>2</sup> Die Nebenbeschäftigungen ausserhalb des Fachgebiets von Dozentinnen und Dozenten sowie die Nebenbeschäftigungen der übrigen Mitarbeiterinnen und Mitarbeiter richten sich nach der Personalgesetzgebung. Vorbehalten bleibt Absatz 3.
+<sup>2</sup> Eine Freistellung kann längstens für die letzten drei Monate vor Beendigung des Arbeitsverhältnisses infolge Zeitablauf erfolgen.
 
-<sup>3</sup> Für die Verwaltungs- und Stiftungsratsmandate von Dozentinnen und Dozenten gelten die Bestimmungen dieser Verordnung über die Nebenbeschäftigungen innerhalb des Fachgebiets (Art. 30 bis 36).
-
-#### Art. 15a
-
-**Funktionsbezeichnung**
-
-<sup>1</sup> Das Recht, die Funktionsbezeichnung Professorin oder Professor zu führen, haben
-
-- a die Rektorin oder der Rektor,
-- b die Departementsleiterinnen und Departementsleiter sowie
-- c die Dozentinnen und Dozenten mit einer unbefristeten Anstellung und einem Beschäftigungsgrad von mindestens 50 Prozent.
-
-<sup>2</sup> Erfüllt eine Dozentin oder ein Dozent die Voraussetzungen gemäss Absatz 1 Buchstabe c nicht, kann die Rektorin oder der Rektor ausnahmsweise und aus wichtigen Gründen das Führen der Funktionsbezeichnung Professorin oder Professor bewilligen.
-
-<sup>3</sup> Dieses Recht erlischt bei Aufgabe der Tätigkeit an der Berner Fachhochschule.
-
-#### Art. 15b
-
-**Dienstort**
-
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter können verpflichtet werden, an mehreren Dienstorten der Berner Fachhochschule Arbeitsleistungen zu erbringen.
-
-### 3.2.2 Dozentinnen und Dozenten
+<sup>3</sup> Im Übrigen gelten die Bestimmungen der Personalgesetzgebung zur Freistellung analog.
 
 #### Art. 16
 
-**…**
+**Folgen der Beendigung des Arbeitsverhältnisses**
+
+<sup>1</sup> Bei Beendigung des Arbeitsverhältnisses entstehen keine Ansprüche gemäss Artikel 32 und 33 PG für
+
+- a Lehrbeauftragte,
+- b Assistentinnen und Assistenten,
+- c Drittmittelangestellte.
 
 #### Art. 17
 
-**Auflösung des Anstellungsverhältnisses**
+**Beschäftigungsgrad**
 
-<sup>1</sup> Die Anstellungsbehörde sowie die Dozentinnen und Dozenten können das Anstellungsverhältnis unter Einhaltung einer Kündigungsfrist von drei Monaten auf das Ende eines Semesters auflösen. Im gegenseitigen Einvernehmen kann von Termin und Frist abgewichen werden.
+<sup>1</sup> Der Beschäftigungsgrad von Mitarbeiterinnen und Mitarbeiter kann als feste Zahl oder Bandbreite festgelegt werden.
+
+<sup>2</sup> Wird der Beschäftigungsgrad als Bandbreite festgelegt, darf die Differenz zwischen dem oberen und dem unteren Wert der Bandbreite höchstens 20 Beschäftigungsgradprozente betragen.
 
 #### Art. 18
 
-**Ferien**
+**Durchführung des Mitarbeitergesprächs**
 
-<sup>1</sup> Dozentinnen und Dozenten beziehen ihre Ferien in der Regel während der unterrichtsfreien Zeit.
+<sup>1</sup> Die Vorgesetzten führen periodisch mit jeder Mitarbeiterin und jedem Mitarbeiter ein Mitarbeitergespräch im Sinne einer Standortbestimmung durch.
+
+<sup>2</sup> Kernpunkte des Mitarbeitergesprächs sind die Zielvereinbarung, die Arbeitsbedingungen, das Arbeitsklima, die berufliche Entwicklung und die beruflichen Perspektiven sowie die Leistungs- und Verhaltensbeurteilung.
+
+<sup>3</sup> Das Mitarbeitergespräch wird jährlich durchgeführt, wenn die Leistungs- und Verhaltensbeurteilung das Gehalt der betroffenen Mitarbeiterin oder des betroffenen Mitarbeiters beeinflusst.
 
 #### Art. 19
+
+**Überprüfung des Mitarbeitergesprächs**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, welche die Leistungs- und Verhaltensbeurteilung als unzutreffend oder unkorrekt erachten, können innert zehn Tagen nach Erhalt der schriftlich festgehaltenen Ergebnisse des Mitarbeitergesprächs eine Überprüfung der Beurteilung bei der oder beim nächsthöheren Vorgesetzten verlangen.
+
+<sup>2</sup> Die Überprüfung gemäss Absatz 1 erfolgt im Rahmen einer Aussprache, deren Ergebnis schriftlich festzuhalten ist.
+
+<sup>3</sup> Ist die beurteilte Person mit dem Ergebnis der Überprüfung nicht einverstanden, kann sie zuhanden des Personaldossiers eine schriftliche Erklärung abgeben.
+
+#### Art. 20
+
+**Finanzierung des Gehaltsaufstiegs**
+
+<sup>1</sup> Der durch den Regierungsrat jährlich festgelegte Anteil der Gehaltssumme, der für den generellen und individuellen Gehaltsaufstieg zur Verfügung steht, gilt für die Berner Fachhochschule analog.
+
+#### Art. 21
+
+**Ausgestaltung Mitarbeitergespräch, Leistungs- und Verhaltensbeurteilung sowie individueller Gehaltsaufstieg**
+
+<sup>1</sup> Im Übrigen regelt der Fachhochschulrat das Mitarbeitergespräch, die Leistungs- und Verhaltensbeurteilung sowie den individuellen Gehaltsaufstieg durch Reglement.
+
+#### Art. 22
+
+**Arbeitszeitmodell**
+
+<sup>1</sup> Der Fachhochschulrat erlässt für Mitarbeiterinnen und Mitarbeiter bei Vorliegen hochschulspezifischer Verhältnisse für folgende Bereiche von der Personalgesetzgebung abweichende Bestimmungen durch Reglement:
+
+- a finanzielle Abgeltung von Ferien- und Zeitguthaben,
+- b Langzeitkonti,
+- c Anspruch und Höhe einer zusätzlichen Entschädigung oder Abgeltung für Arbeit unter besonderen Verhältnissen,
+- d Höhe des maximalen Übertrags des jährlichen Arbeitszeitsaldos,
+- e Arbeitszeiterfassung und Ferienbezug,
+- f Bezug von Kurzurlaub,
+- g Bezug der Treueprämie.
+
+<sup>2</sup> Der Fachhochschulrat informiert die Personalverbände rechtzeitig über alle abweichenden Bestimmungen in den aufgeführten Bereichen.
+
+<sup>3</sup> Er hört die Personalverbände an, bevor er wesentliche Abweichungen erlässt und führt mit diesen nach Bedarf Gespräche.
+
+#### Art. 23
+
+**Arbeitszeiterfassung, Ferien- und Zeitguthaben und Langzeitkonto von stimmberechtigten Mitgliedern der Fachhochschulleitung**
+
+<sup>1</sup> Die stimmberechtigten Mitglieder der Fachhochschulleitung sind von der Arbeitszeiterfassung sowie den Regelungen betreffend die finanzielle Abgeltung von Ferien- und Zeitguthaben ausgenommen und führen kein Langzeitkonto.
+
+#### Art. 24
+
+**Nacht- und Wochenendarbeit**
+
+<sup>1</sup> Bei der Festlegung des zeitlichen Rahmens der Nacht- und Wochenendarbeit gilt folgender Minimalstandard:
+
+- a Die Arbeit von 23.00 Uhr bis 06.00 Uhr gilt als Nachtarbeit.
+- b Die Arbeit am Sonntag und an öffentlichen Feiertagen zwischen 06.00 Uhr und 23.00 Uhr gilt als Wochenendarbeit.
+
+#### Art. 25
+
+**Übertrag, Kompensation und Ausgleich jährlicher Arbeitszeitsaldo**
+
+<sup>1</sup> Der Fachhochschulrat regelt bei Vorliegen hochschulspezifischer Verhältnisse den Übertrag, die Kompensation und den Ausgleich des Arbeitszeitsaldos am Ende einer einjährigen Abrechnungsperiode durch Reglement.
+
+<sup>2</sup> Ein Höchstsaldo von 200 Plus- bzw. Minusstunden pro Abrechnungsperiode darf nicht überschritten werden. In begründeten Ausnahmefällen kann mit Bewilligung der Rektorin oder des Rektors ein höherer Übertrag des Zeitguthabens auf das Folgejahr erfolgen.
+
+#### Art. 26
+
+**Auslagenersatz**
+
+<sup>1</sup> Den Mitarbeiterinnen und Mitarbeitern werden Auslagen ersetzt, die bei der Aufgabenerfüllung entstanden sind.
+
+<sup>2</sup> Der Fachhochschulrat regelt die Einzelheiten durch Reglement. Dieses wird der Bildungs- und Kulturdirektion zur Kenntnis gebracht.
+
+#### Art. 27
+
+**Nebenbeschäftigungen**
+
+<sup>1</sup> Nebenbeschäftigungen sind zulässig, sofern sie die dienstliche Tätigkeit und den Betrieb der Berner Fachhochschule nicht beeinträchtigen. Eine Beeinträchtigung liegt insbesondere vor, wenn die Nebenbeschäftigung mit der dienstlichen Stellung unvereinbar ist, ein Interessenkonflikt besteht oder die Arbeitskraft dauernd und erheblich beansprucht wird.
+
+<sup>2</sup> Der Fachhochschulrat regelt die Einzelheiten, insbesondere zur Bewilligungs-, Deklarations- und Publikationspflicht, sowie die Abgeltung durch Reglement. Dieses wird der Bildungs- und Kulturdirektion zur Kenntnis gebracht.
+
+<sup>3</sup> Die Rektorin oder der Rektor
+
+- a prüft die jährliche Selbstdeklaration der Nebenbeschäftigungen und bringt die Ergebnisse dem Fachhochschulrat zur Kenntnis,
+- b erstellt jährlich einen Bericht über die Nebenbeschäftigungen sowie über allfällige Massnahmen und leitet diesen an das Amt für Hochschulen zur Kenntnis weiter.
+
+<sup>4</sup> Verwaltungsrats- und Stiftungsratsmandate der Mitglieder der Fachhochschulleitung sowie der Dozentinnen und Dozenten mit hohem Beschäftigungsgrad werden jährlich auf der Internetseite der Berner Fachhochschule publiziert.
+
+#### Art. 28
+
+**Funktionsbezeichnung Professorin und Professor**
+
+<sup>1</sup> Der Fachhochschulrat regelt das Recht, die Bezeichnung Professorin oder Professor zu führen, durch Reglement. Dieses wird der Bildungs- und Kulturdirektion zur Kenntnis gebracht.
+
+<sup>2</sup> Das Recht, die Bezeichnung Professorin oder Professor zu führen, erlischt bei Aufgabe der Tätigkeit an der Berner Fachhochschule.
+
+#### Art. 29
+
+**Arbeitsort**
+
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter können verpflichtet werden, an mehreren Arbeitsorten der Berner Fachhochschule Arbeitsleistungen zu erbringen.
+
+#### Art. 30
+
+**Meldestelle Missstände**
+
+<sup>1</sup> Die Finanzkontrolle ist Meldestelle für die Mitarbeiterinnen und Mitarbeiter über Missstände an der Berner Fachhochschule.
+
+<sup>2</sup> Das Melderecht bei Missständen und der Schutz von Mitarbeiterinnen und Mitarbeitern richtet sich nach Artikel 50a PG.
+
+### 3.2.2 Dozentinnen und Dozenten
+
+#### Art. 31
+
+**Arbeitszeiterfassung, Ferien- und Zeitguthaben, Langzeitkonto von Dozentinnen und Dozenten**
+
+<sup>1</sup> Dozentinnen und Dozenten sind von der Arbeitszeiterfassung sowie den Regelungen betreffend die finanzielle Abgeltung von Ferienguthaben ausgenommen und führen kein Langzeitkonto.
+
+#### Art. 32
+
+**Beendigung des Arbeitsverhältnisses**
+
+<sup>1</sup> Die Anstellungsbehörde sowie die Dozentinnen und Dozenten können das Arbeitsverhältnis schriftlich und unter Wahrung einer Frist von drei Monaten jeweils auf das Ende eines Semesters beenden.
+
+<sup>2</sup> Im gegenseitigen Einvernehmen kann von Termin und Frist abgewichen werden.
+
+#### Art. 33
 
 **Zeitpunkt des Rücktritts**
 
@@ -275,205 +366,47 @@ beschliesst:
 
 <sup>2</sup> Die Anstellungsbehörde kann in begründeten Fällen den Rücktritt auf Ende des Monats bewilligen, in dem die Dozentin oder der Dozent das 65. Altersjahr vollendet.
 
-#### Art. 20
+#### Art. 34
 
 **Anforderungen**
 
-<sup>1</sup> Ausnahmsweise kann auch als Dozentin oder Dozent im Sinne von Artikel 11 Absatz 1 Buchstabe c angestellt werden, wer die Voraussetzungen gemäss Artikel 20 Absatz 1 des Gesetzes nicht erfüllt, jedoch in ihrem oder seinem Fachbereich ausgewiesene Fähigkeiten erworben oder hervorragende Leistungen erbracht hat.
+<sup>1</sup> Ausnahmsweise kann auch als Dozentin oder Dozent angestellt werden, wer die Voraussetzungen gemäss Artikel 20 Absatz 1 FaG nicht erfüllt, jedoch in ihrem oder seinem Fachbereich ausgewiesene Fähigkeiten erworben oder hervorragende Leistungen erbracht hat.
 
-<sup>2</sup> Eine fehlende methodisch-didaktische Qualifikation gemäss Artikel 20 Absatz 2 des Gesetzes muss in der Regel innert zwei Jahren nach Anstellungsbeginn nachgeholt werden. Dafür können die Dozentinnen und Dozenten bis zu zehn Prozent ihrer Arbeitszeit einsetzen. Die Fachhochschulleitung kann einzelne Weiterbildungsveranstaltungen hiefür obligatorisch erklären.
-
-#### Art. 21
-
-**Auftrag**
-
-<sup>1</sup> Dozentinnen oder Dozenten
-
-- a sind in der Lehre, Forschung und Entwicklung sowie Dienstleistung tätig,
-- b gewährleisten im Rahmen ihres Auftrags die Verbindung zu Wissenschaft, Praxis, Wirtschaft und Gesellschaft und
-- c wirken bei der Verwaltung der Berner Fachhochschule mit.
-
-<sup>2</sup> Die anwendungsorientierten Forschungs- und Entwicklungsprojekte orientieren sich an den Forschungs- und Ausbildungsschwerpunkten der Berner Fachhochschule.
-
-<sup>3</sup> Der Auftrag wird periodisch angepasst. Der Schulrat regelt das Nähere durch Reglement.
-
-#### Art. 22
-
-**…**
-
-#### Art. 22a
-
-**Beschäftigungsgrad von Dozentinnen und Dozenten mit Tätigkeit im Einzelunterricht**
-
-<sup>1</sup> Dozentinnen und Dozenten, die im Einzelunterricht tätig sind, können mit einem Beschäftigungsgrad innerhalb einer Bandbreite von bis zu 20 Beschäftigungsgradprozenten angestellt werden.
-
-<sup>2</sup> Unter Einhaltung einer Ankündigungsfrist von 30 Tagen kann der Einsatz innerhalb der Bandbreite jeweils auf Beginn eines Semesters angepasst werden.
-
-<sup>3</sup> Massgebend für die Bestimmungen über den Beschäftigungsgrad in der Personalgesetzgebung und in der Gesetzgebung über die Berner Fachhochschule ist grundsätzlich der durchschnittliche tatsächliche Beschäftigungsgrad der letzten fünf Jahre.
-
-<sup>4</sup> Für die Berechnung des Ferienanspruchs, des Anspruchs auf arbeitsfreie Tage und auf Weiterbildung gilt der aktuelle tatsächliche Beschäftigungsgrad innerhalb der Bandbreite.
-
-#### Art. 22b
-
-**Finanzielle Abgeltung von Zeitguthaben**
-
-<sup>1</sup> Die Rektorin oder der Rektor kann auf Antrag der zuständigen Departementsleitein oder des zuständigen Departementsleiters die finanzielle Abgeltung von Zeitguthaben im Einzelfall bewilligen, wenn
-
-- a sie aufgrund von Aufträgen Dritter entstanden sind,
-- b sie aus betrieblichen Gründen nicht bezogen werden können und
-- c …
-- d die Abgeltung aus Drittmitteln finanziert werden kann.
-
-#### Art. 23
-
-**…**
-
-#### Art. 24
-
-**Gewährung von Funktionszulagen**
-
-<sup>1</sup> Dozentinnen und Dozenten, die als Leiterinnen oder Leiter in Lehre, Forschung und Entwicklung, Dienstleistung oder Weiterbildung eingesetzt sind, können von Teilen ihres Auftrags entlastet werden und erhalten eine jährliche Funktionszulage zwischen 2000 und 20'000 Franken.
-
-<sup>2</sup> …
-
-<sup>3</sup> Umfang der Entlastung und Höhe der Funktionszulage regelt der Schulrat in einem Reglement, welches der Bildungs- und Kulturdirektion und der Finanzdirektion zur Kenntnis zu bringen ist.
-
-#### Art. 25
-
-**Forschungs- und Bildungsurlaube 1. Grundsatz**
-
-<sup>1</sup> Ein Forschungs- und Bildungsurlaub erlaubt einer Dozentin oder einem Dozenten, in der Regel während der Dauer eines Semesters frei von Lehrverpflichtungen wissenschaftlich zu arbeiten bzw. sich in ihrem oder seinem Fachgebiet weiterzubilden.
-
-<sup>2</sup> Zuständig für die Gewährung von Forschungs- und Bildungsurlauben für Dozentinnen und Dozenten ist die Rektorin oder der Rektor.
-
-<sup>3</sup> Einer Dozentin oder einem Dozenten können im Verlauf ihrer oder seiner Anstellung an der Berner Fachhochschule insgesamt maximal 18 Monate Urlaub gewährt werden.
-
-#### Art. 26
-
-**2. Gesuch, Berichterstattung**
-
-<sup>1</sup> Die Dozentin oder der Dozent hat das Urlaubsgesuch mindestens sechs Monate vor Beginn des Urlaubs der Rektorin oder dem Rektor auf dem Dienstweg einzureichen.
-
-<sup>2</sup> Das Urlaubsgesuch ist zu begründen. Es hat insbesondere Auskunft über die geplanten Vorhaben und über die mit der Departementsleiterin oder dem Departementsleiter getroffenen Vereinbarungen zu geben.
-
-<sup>3</sup> Nach Ablauf eines Urlaubs ist der Rektorin oder dem Rektor auf dem Dienstweg darüber Bericht zu erstatten.
-
-#### Art. 27
-
-**3. Voraussetzungen**
-
-<sup>1</sup> Die Voraussetzungen für die Gewährung eines Forschungs- und Bildungsurlaubs sind
-
-- a ein Beschäftigungsgrad von mindestens 50 Prozent,
-- b eine unbefristete Anstellung,
-- c jeweils sechs vollendete Dienstjahre.
-
-<sup>2</sup> Ein Forschungs- und Bildungsurlaub zählt nicht als Dienstzeit.
-
-<sup>3</sup> Der letzte Forschungs- und Bildungsurlaub ist grundsätzlich spätestens drei Jahre vor Erreichen der Altersgrenze anzutreten.
-
-<sup>4</sup> Ausnahmsweise und aus wichtigen Gründen kann von den Voraussetzungen gemäss Absatz 1 abgewichen werden.
-
-<sup>5</sup> Das Departement regelt die Stellvertretung während des Urlaubs.
-
-#### Art. 28
-
-**4. Verschiebung**
-
-<sup>1</sup> Muss ein Forschungs- und Bildungsurlaub aus einem wichtigen Grund verschoben werden, kann die Zeitdauer bis zum nächstfolgenden Forschungs- oder Bildungsurlaub entsprechend verkürzt werden.
-
-<sup>2</sup> Muss ein Forschungs- und Bildungsurlaub aus einem wichtigen Grund vorverschoben werden, wird die Zeitdauer bis zum nächstfolgenden Forschungs- und Bildungsurlaub entsprechend verlängert.
-
-#### Art. 29
-
-**5. Rückzahlungsverpflichtung**
-
-<sup>1</sup> Tritt die Dozentin oder der Dozent während des Urlaubs oder innerhalb von zwei Jahren nach Bezug des Urlaubs aus dem Kantonsdienst aus, ist das während des Urlaubs bezogene Gehalt (ohne Familien- und Betreuungszulagen) wie folgt zurückzuzahlen:
-
-- a bei Austritt während des Urlaubs: 100 Prozent,
-- b bei Austritt im ersten Jahr nach dem Urlaub: 50 Prozent,
-- c bei Austritt im zweiten Jahr nach dem Urlaub: 25 Prozent.
-
-<sup>2</sup> Die Rückzahlungsverpflichtung gilt nicht bei Tod oder Invalidität der Dozentin oder des Dozenten.
-
-<sup>3</sup> Bedeutet die Rückzahlungsverpflichtung für die Dozentin oder den Dozenten eine besondere Härte, kann die Rektorin oder der Rektor teilweise oder ganz auf die Rückforderung verzichten.
-
-#### Art. 30
-
-**Nebenbeschäftigungen innerhalb des Fachgebiets 1. Begriff**
-
-<sup>1</sup> Als Nebenbeschäftigungen innerhalb des Fachgebiets gelten Tätigkeiten, die im Rahmen des Auftrages gemäss Arbeitsvertrag liegen, jedoch nicht unmittelbar mit der Erfüllung des Auftrags der Dozentin oder des Dozenten zusammenhängen und zu wesentlichen Teilen persönlich ausgeführt werden.
-
-<sup>2</sup> Nebenbeschäftigungen innerhalb des Fachgebiets sind namentlich
-
-- a Lehraufträge in der Aus- und Weiterbildung an anderen Hochschulen und Institutionen,
-- b Tätigkeiten im Dienstleistungsbereich wie Beratungen, Verwaltungsrats- und Stiftungsratsmandate oder Schiedsgerichtstätigkeit.
-
-#### Art. 31
-
-**2. Generell erlaubte Nebenbeschäftigungen**
-
-<sup>1</sup> Folgende Nebenbeschäftigungen sind generell erlaubt:
-
-- a Lehraufträge an anderen schweizerischen Hochschulen bis zu zwei Lektionen pro Woche,
-- b Lehraufträge an anderen schweizerischen Hochschulen bis zu vier Lektionen pro Woche während höchstens einem Studienjahr,
-- c Lehraufträge an anderen schweizerischen Schulen bis zu zwei Lektionen pro Woche,
-- d gelegentliche Lehrverpflichtungen in der Weiterbildung ausserhalb der Berner Fachhochschule,
-- e gelegentlich ausgeübte Tätigkeiten im Dienstleistungsbereich, wie Vorträge, wissenschaftliche Publikationen, Tätigkeit als Prüfungsexpertin oder Prüfungsexperte sowie Mitarbeit in wissenschaftlichen, künstlerischen und fachspezifischen Gremien ausserhalb der Berner Fachhochschule.
-
-#### Art. 32
-
-**3. Bewilligung**
-
-<sup>1</sup> Die nicht in Artikel 31 aufgeführten Nebenbeschäftigungen bedürfen einer Bewilligung der Rektorin oder des Rektors, sofern der Beschäftigungsgrad mindestens 80 Prozent beträgt. Entsprechende Gesuche sind auf dem Dienstweg einzureichen.
-
-<sup>2</sup> Bei dauernder, erheblicher Belastung durch die Nebenbeschäftigungstätigkeit wird die Bewilligung an die Bedingung geknüpft, den Beschäftigungsgrad herabzusetzen.
-
-<sup>3</sup> …
-
-<sup>4</sup> Nebenbeschäftigungen dürfen nicht im Namen der Berner Fachhochschule ausgeübt werden.
-
-#### Art. 33
-
-**4. Stellvertretung**
-
-<sup>1</sup> Es ist grundsätzlich nicht gestattet, sich aufgrund einer Nebenbeschäftigung für Lehrveranstaltungen vertreten zu lassen.
-
-#### Art. 34
-
-**5. Selbstdeklaration**
-
-<sup>1</sup> Dozentinnen und Dozenten mit einem Beschäftigungsgrad ab 80 Prozent melden der Rektorin oder dem Rektor jährlich in Form einer Selbstdeklaration ihre Nebenbeschäftigungen, die dafür aufgewendete Zeit, die Erträge daraus sowie die dafür beanspruchte Infrastruktur der Berner Fachhochschule.
-
-<sup>2</sup> Die Rektorin oder der Rektor erstellt jährlich einen konsolidierten Bericht über die Nebenbeschäftigungen und leitet diesen an das Amt für Hochschulen zur Kenntnis weiter.
-
-<sup>3</sup> …
+<sup>2</sup> Eine fehlende methodisch-didaktische Qualifikation gemäss Artikel 20 Absatz 2 FaG muss in der Regel innert zwei Jahren nach Anstellungsbeginn nachgeholt werden.
 
 #### Art. 35
 
-**6. Versicherung**
+**Auftrag**
 
-<sup>1</sup> Die Versicherung von Risiken aus Nebenbeschäftigungen ist Sache der Dozentinnen und Dozenten.
+<sup>1</sup> Dozentinnen und Dozenten
+
+- a sind in der Lehre, Forschung und Entwicklung sowie Dienstleistung tätig,
+- b gewährleisten im Rahmen ihres Auftrags die Verbindung zu Wissenschaft, Praxis, Wirtschaft und Gesellschaft,
+- c wirken bei Organisation und Betrieb der Berner Fachhochschule mit.
+
+<sup>2</sup> Die anwendungsorientierten Forschungs- und Entwicklungsprojekte orientieren sich an den Forschungs- und Ausbildungsschwerpunkten der Berner Fachhochschule.
+
+<sup>3</sup> Der Auftrag wird periodisch angepasst. Der Fachhochschulrat regelt das Nähere durch Reglement.
 
 #### Art. 36
 
-**7. Entschädigung und Infrastruktur**
+**Gewährung von Funktionszulagen**
 
-<sup>1</sup> Wer für die Ausübung von Nebenbeschäftigungen die Infrastruktur der Berner Fachhochschule benützt, hat dafür eine kostendeckende Entschädigung zu leisten.
+<sup>1</sup> Dozentinnen und Dozenten, die als Leiterinnen und Leiter in Lehre, Forschung und Entwicklung, Dienstleistung oder Weiterbildung eingesetzt sind, erhalten eine jährliche Funktionszulage bis höchstens 20'000 Franken.
 
-<sup>2</sup> Eine Benützung der Infrastruktur der Berner Fachhochschule liegt namentlich vor, wenn
+<sup>2</sup> Der Fachhochschulrat regelt das Nähere durch Reglement. Dieses ist der Bildungs- und Kulturdirektion zur Kenntnis zu bringen.
 
-- a weitere Mitarbeiterinnen und Mitarbeiter Arbeitsleistungen für die Nebenbeschäftigungen erbringen oder infolge der Nebenbeschäftigungen zusätzliche Arbeiten übernehmen oder
-- b Geräte und Material verwendet werden oder
-- c Diensträume beansprucht werden.
+#### Art. 37
 
-<sup>3</sup> Wird für die Ausübung der Nebenbeschäftigung eine länger dauernde Beanspruchung erwartet, ist die Entschädigung durch Vertrag zwischen der Departementsleiterin oder dem Departementsleiter und der oder dem Nebenbeschäftigten zu regeln.
+**Forschungs- und Bildungsurlaube**
 
-<sup>4</sup> Eine Pauschalierung der Entschädigung auf Grund von Richtwerten ist zulässig. Die Departementsleiterin oder der Departementsleiter legt die Richtwerte fest.
+<sup>1</sup> Ein Forschungs- und Bildungsurlaub erlaubt es einer Dozentin oder einem Dozenten, befreit von den üblichen Aufgaben wissenschaftlich zu arbeiten bzw. sich in ihrem oder seinem Fachgebiet weiterzubilden.
+
+<sup>2</sup> Der Fachhochschulrat regelt die Einzelheiten zur Gewährung und Dauer von Forschungs- und Bildungsurlauben sowie die damit zusammenhängenden Rechte und Pflichten durch Reglement.
 
 ### 3.2.3 Lehrbeauftragte
 
-#### Art. 37
+#### Art. 38
 
 <sup>1</sup> Lehrbeauftragte haben einen Lehrauftrag an der Berner Fachhochschule.
 
@@ -483,171 +416,164 @@ beschliesst:
 
 <sup>4</sup> Ein Lehrauftrag kann durch privatrechtlichen Auftrag erteilt werden.
 
-<sup>5</sup> Der Schulrat regelt die Einzelheiten in einem Reglement.
+<sup>5</sup> Der Fachhochschulrat regelt die Einzelheiten durch Reglement.
 
-### 3.2.4 Gastdozentinnen und Gastdozenten
-
-#### Art. 38
-
-<sup>1</sup> Gastdozentinnen und Gastdozenten sind Dozentinnen und Dozenten, die vorübergehend mit einem Lehrauftrag an der Berner Fachhochschule tätig sind.
-
-<sup>2</sup> Ihre Anstellung ist befristet.
-
-<sup>3</sup> Sie werden durch Einreihung in eine Gehaltsklasse oder einen Pauschalbetrag entschädigt, sofern ihr Aufenthalt nicht durch Drittmittel finanziert wird.
-
-### 3.2.5 Assistentinnen und Assistenten
+### 3.2.4 Assistentinnen und Assistenten
 
 #### Art. 39
 
 **Auftrag**
 
-<sup>1</sup> Assistentinnen und Assistenten unterstützen die Dozentinnen und Dozenten bei der Erfüllung deren Aufgaben, wirken mit in der Projektarbeit oder betreuen selbständig bestimmte Aufgabenbereiche.
+<sup>1</sup> Assistentinnen und Assistenten unterstützen die Dozentinnen und Dozenten bei der Erfüllung ihrer Aufgaben, wirken mit in der Projektarbeit oder betreuen selbstständig bestimmte Aufgabenbereiche.
 
-<sup>2</sup> Der Auftrag ist so auszugestalten, dass er auch der Weiterbildung der Assistentin oder des Assistenten dient.
+<sup>2</sup> Der Auftrag ist so auszugestalten, dass er auch der akademischen oder praxisbezogenen Weiterbildung der Assistentin oder des Assistenten dient.
 
 <sup>3</sup> Assistentinnen und Assistenten können auch unterrichtsbegleitende Funktionen wahrnehmen.
 
 #### Art. 40
 
-**Anforderungen, Anstellungsverhältnis**
+**Anforderungen, Arbeitsverhältnis**
 
 <sup>1</sup> Assistentinnen und Assistenten verfügen grundsätzlich über ein abgeschlossenes Hochschulstudium.
 
 <sup>2</sup> Ihre Anstellung ist auf höchstens fünf Jahre befristet. Aus wichtigen Gründen kann die Anstellungsbehörde eine Verlängerung der Anstellungsdauer um höchstens zwei Jahre bewilligen.
 
-<sup>3</sup> Assistentinnen und Assistenten beziehen ihre Ferien in der Regel während der unterrichtsfreien Zeit.
-
-<sup>4</sup> Das Anstellungsverhältnis kann beidseitig unter Einhaltung folgender Kündigungsfristen jeweils auf Ende eines Monats aufgelöst werden:
+<sup>3</sup> Das Arbeitsverhältnis kann beidseitig unter Einhaltung der folgenden Fristen jeweils auf das Ende eines Monats aufgelöst werden:
 
 - a bei einer Anstellungsdauer bis zu einem Jahr: ein Monat,
 - b bei einer Anstellungsdauer von mehr als einem Jahr: zwei Monate.
 
-### 3.2.6 Wissenschaftliche Mitarbeiterinnen und Mitarbeiter
+### 3.2.5 Wissenschaftliche Mitarbeiterinnen und Mitarbeiter
 
 #### Art. 41
 
-<sup>1</sup> Wissenschaftliche Mitarbeiterinnen und Mitarbeiter wirken an Forschungs-, Entwicklungs- und Dienstleistungsprojekten sowie in weiteren Arbeitsfeldern mit.
+<sup>1</sup> Wissenschaftliche Mitarbeiterinnen und Mitarbeiter wirken in der Lehre, an Forschungs-, Entwicklungs- und Dienstleistungsprojekten sowie in weiteren Arbeitsfeldern mit.
 
-<sup>2</sup> Die Dauer der Anstellung ist in der Regel nicht befristet.
-
-### 3.2.7 Hilfsassistentinnen und Hilfsassistenten
+### 3.2.6 Hilfsassistentinnen und Hilfsassistenten
 
 #### Art. 42
 
-<sup>1</sup> Hilfsassistentinnen und Hilfsassistenten unterstützen die Dozentinnen und Dozenten bei der Erfüllung deren Aufgaben, wirken mit in der Projektarbeit oder betreuen selbständig bestimmte Aufgabenbereiche.
+<sup>1</sup> Hilfsassistentinnen und Hilfsassistenten unterstützen die Dozentinnen und Dozenten bei der Erfüllung ihrer Aufgaben, wirken mit in der Projektarbeit oder betreuen selbstständig bestimmte Aufgabenbereiche.
 
-<sup>2</sup> Die Anstellung als Hilfsassistentin oder als Hilfsassistent setzt voraus
+<sup>2</sup> Die Anstellung als Hilfsassistentin oder als Hilfsassistent setzt voraus:
 
 - a Immatrikulation an der Berner Fachhochschule und
 - b Nachweis über 60 abgelegte ECTS-Punkte.
 
-<sup>3</sup> Die Dauer der Anstellung als Hilfsassistentin oder als Hilfsassistent ist auf zwei Jahre befristet.
+<sup>3</sup> Sie ist auf zwei Jahre befristet.
 
-<sup>4</sup> Hilfsassistentinnen und Hilfsassistenten beziehen ihre Ferien in der Regel während der unterrichtsfreien Zeit.
+<sup>4</sup> Das Arbeitsverhältnis kann beidseitig unter Einhaltung einer Frist von einem Monat jeweils auf das Ende eines Monats aufgelöst werden.
 
-<sup>5</sup> Das Anstellungsverhältnis kann beidseitig unter Einhaltung einer Kündigungsfrist von einem Monat jeweils auf Ende des Monats aufgelöst werden.
-
-### 3.2.8 Durch Drittmittel finanzierte Mitarbeiterinnen und Mitarbeiter
+### 3.2.7 Drittmittelangestellte
 
 #### Art. 43
 
-**Anstellung, Gehalt und Auflösung**
+**Gehalt**
 
-<sup>1</sup> Die Anstellung der durch Drittmittel finanzierten Mitarbeiterinnen und Mitarbeiter richtet sich nach den Bestimmungen, wie sie für die Mitarbeiterinnen und Mitarbeiter gelten, deren Gehalt aus ordentlichen Mitteln finanziert wird. Vorbehalten bleiben die nachfolgenden Absätze.
-
-<sup>2</sup> Der Arbeitsvertrag ist in der Regel befristet und muss den Hinweis enthalten, dass das Gehalt aus Drittmitteln finanziert wird.
-
-<sup>3</sup> Die Rektorin oder der Rektor kann in begründeten Fällen einen besonderen Gehaltsansatz oder eine einmalige Gehaltspauschale festlegen.
-
-<sup>4</sup> Für eine Auflösung des Anstellungsverhältnisses gilt insbesondere das Auslaufen der Drittmittel als triftiger Grund im Sinne der Personalgesetzgebung.
+<sup>1</sup> Die Rektorin oder der Rektor kann in begründeten Fällen einen besonderen Gehaltsansatz oder eine einmalige Gehaltspauschale festlegen.
 
 #### Art. 44
 
-**…**
+**Beendigung des Arbeitsverhältnisses**
+
+<sup>1</sup> Die vorgesetzte Person hat eine Drittmittelangestellte oder einen Drittmittelangestellten mindestens drei Monate vor Ende der Vertragsdauer über das Ende der Anstellung zu informieren, wenn
+
+- a kein neuer Arbeitsvertrag begründet wird, und
+- b die oder der Drittmittelangestellte befristet angestellt und während über fünf Jahren ununterbrochen an der Berner Fachhochschule angestellt gewesen ist.
+
+<sup>2</sup> Bei späterer Mitteilung endet das Arbeitsverhältnis am Ende des dritten Monats nach dieser Mitteilung, spätestens drei Monate nach dem ursprünglichen Vertragsende.
 
 #### Art. 45
 
+**Ansprüche bei der Beendigung des Arbeitsverhältnisses**
+
+<sup>1</sup> Ein Anspruch auf eine Abgangsentschädigung besteht für eine Drittmittelangestellte oder einen Drittmittelangestellten, wenn
+
+- a das Arbeitsverhältnis gemäss der vertraglichen Befristung oder infolge Auslaufens der Drittmittel beendet worden ist,
+- b sie oder er mindestens zehn Jahre ununterbrochen an der Berner Fachhochschule angestellt gewesen ist, und
+- c keine zumutbare Stelle an der Berner Fachhochschule angeboten werden kann.
+
+<sup>2</sup> Die Berechnung der Abgangsentschädigung richtet sich nach Artikel 123 Absätze 2 bis 3 der Personalverordnung vom 18. Mai 2005 (PV)[^45-1]. Die Entschädigung darf den Betrag nicht übersteigen, der dem Gehalt der betroffenen Person für 18 Monate entspricht.
+
+<sup>3</sup> Anstellungen gemäss Artikel 14 Absatz 1 Buchstaben a und b werden für die Begründung des Anspruchs auf Abgangsentschädigung nicht angerechnet. Die entsprechenden Anstellungen gelten als Unterbruch der Anstellung.
+
+[^45-1]: BSG [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/de)
+
+#### Art. 46
+
+**Ausrichtung der Abgangsentschädigung**
+
+<sup>1</sup> Bei Anspruch auf eine Abgangsentschädigung wird diese in monatlichen Raten ausgerichtet. Eine Rate entspricht einem gemäss Artikel 45 Absatz 2 berechneten Monatsbruttolohn abzüglich Sozialversicherungsbeiträge.
+
+<sup>2</sup> Die betroffene Person hat gegenüber der Berner Fachhochschule jeweils am 10. des jeweiligen Monats schriftlich zu erklären, nicht anderswo zumutbar angestellt zu sein oder ein vergleichbares Ersatzeinkommen zu erzielen.
+
+<sup>3</sup> Tritt die betroffene Person innert 18 Monaten seit der Auflösung des Arbeitsverhältnisses eine zumutbare Stelle an der Berner Fachhochschule oder bei einem anderen Arbeitgeber an oder erhält sie ein vergleichbares Ersatzeinkommen, wird die Abgangsentschädigung ganz oder teilweise gekürzt.
+
+<sup>4</sup> Wird die neue zumutbare Anstellung in der Probezeit aufgelöst oder erweist sich die Anstellung bei der Berner Fachhochschule oder bei einem anderen Arbeitgeber als nicht zumutbar, wird der Anspruch auf Abgangsentschädigung wieder fällig, wie wenn die ehemalige Mitarbeiterin oder der ehemalige Mitarbeiter noch keine neue zumutbare Anstellung gefunden hätte.
+
+<sup>5</sup> Für die Beurteilung der Zumutbarkeit einer anderen Stelle sind Artikel 31 PG sowie die Bestimmungen der Stellenvermittlungsverordnung vom 16. September 2020 (StvV)[^46-1] massgeblich.
+
+[^46-1]: BSG [153.011.2](https://www.belex.sites.be.ch/data/153.011.2/de)
+
+#### Art. 47
+
 **Berufliche Vorsorge**
 
-<sup>1</sup> Die Rektorin oder der Rektor kann in begründeten Fällen die durch Drittmittel finanzierten Mitarbeiterinnen und Mitarbeiter von einem Beitritt in die Bernische Pensionskasse befreien.
+<sup>1</sup> Die Rektorin oder der Rektor kann in begründeten Fällen Drittmittelangestellte von einem Beitritt in die Bernische Pensionskasse befreien.
 
-<sup>2</sup> In diesen Fällen richtet sich die berufliche Vorsorge nach dem durch das Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG[^45-1]) geforderten Minimum. Sie erfolgt in einer durch das BVG anerkannten Vorsorgeeinrichtung.
+<sup>2</sup> In diesen Fällen richtet sich die berufliche Vorsorge nach dem durch das Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^47-1] geforderten Minimum. Sie erfolgt in einer durch das BVG anerkannten Vorsorgeeinrichtung.
 
-[^45-1]: SR 831.40
-
-#### Art. 45a–46
-
-**…**
+[^47-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 ### 3.3 Studierende
 
 ### 3.3.1 Allgemeines
 
-#### Art. 47
+#### Art. 48
 
 <sup>1</sup> Wer an der Berner Fachhochschule studieren und Prüfungen ablegen will, muss die Zulassungsvoraussetzungen erfüllen und immatrikuliert sein.
 
+<sup>2</sup> Bei ihren Weiterbildungsangeboten kann die Berner Fachhochschule von einer Immatrikulation absehen.
+
 ### 3.3.2 Zulassung zum Bachelor- und Masterstudium
-
-#### Art. 48
-
-**…**
 
 #### Art. 49
 
 **Zulassung zur Bachelorstufe**
 
-<sup>1</sup> Die Zulassung zum Studium auf der Bachelorstufe richtet sich nach Bundesrecht. Absatz 2 und Artikel 58 bleiben vorbehalten.
+<sup>1</sup> Die Zulassung zum Studium auf der Bachelorstufe richtet sich nach Bundesrecht. Absatz 2 und Artikel 54 bleiben vorbehalten.
 
-<sup>2</sup> Der Schulrat erlässt für die Zulassung zum Studium auf der Bachelorstufe ein Reglement, das für jede Studienrichtung die verwandten Berufe und die Ausbildungsgänge festlegt, die gleichwertig sind mit den im Bundesrecht bezeichneten Vorbildungsausweisen.
+<sup>2</sup> Der Fachhochschulrat erlässt für die Zulassung zum Studium auf der Bachelorstufe ein Reglement, das für jede Studienrichtung die verwandten Berufe und die Ausbildungsgänge festlegt, die gleichwertig sind mit den im Bundesrecht bezeichneten Vorbildungsausweisen.
 
-#### Art. 50–52
-
-**…**
-
-#### Art. 53
-
-**Aufnahmeprüfung**
-
-<sup>1–2</sup> …
-
-<sup>3</sup> Die gemäss Bundesrecht für die Zulassung zum Studium auf der Bachelorstufe vorgesehenen Aufnahmeprüfungen werden durch die Berner Fachhochschule zusammen mit der kantonalen Berufsmaturitätskommission in deutscher oder französischer Sprache durchgeführt.
-
-<sup>4</sup> Der Schulrat regelt das Verfahren der Aufnahmeprüfung in einem Reglement, das von der Bildungs- und Kulturdirektion zu genehmigen ist.
-
-#### Art. 54
-
-**…**
-
-#### Art. 55
+#### Art. 50
 
 **Eignungsabklärung**
 
-<sup>1</sup> Der Schulrat regelt Inhalt und Verfahren der gemäss Bundesrecht für die Zulassung zum Studium auf der Bachelorstufe notwendigen Eignungsabklärungen in einem Reglement, das von der Bildungs- und Kulturdirektion zu genehmigen ist.
+<sup>1</sup> Der Fachhochschulrat regelt Inhalt und Verfahren der gemäss Bundesrecht für die Zulassung zum Studium auf der Bachelorstufe notwendigen Eignungsabklärungen durch Reglement. Dieses ist von der Bildungs- und Kulturdirektion zu genehmigen.
 
-#### Art. 56
+#### Art. 51
 
 **Anerkennung von Studienleistungen**
 
-<sup>1</sup> Die Anerkennung von Studienleistungen, die an anderen Bildungsinstitutionen erbracht worden sind, wird in den Studien- und Prüfungsreglementen geregelt.
+<sup>1</sup> Die Anerkennung von Studienleistungen, die an anderen Bildungsinstitutionen erbracht worden sind, wird durch die Studien- und Prüfungsreglemente geregelt.
 
-#### Art. 56a
+#### Art. 52
 
 **Zulassung zur Masterstufe**
 
 <sup>1</sup> Die Zulassung zum Studium auf der Masterstufe richtet sich nach Bundesrecht.
 
-<sup>2</sup> Der Schulrat kann weitere zusätzliche Zulassungsvoraussetzungen in Reglementen regeln, die von der Bildungs- und Kulturdirektion zu genehmigen sind.
+<sup>2</sup> Der Fachhochschulrat kann weitere zusätzliche Zulassungsvoraussetzungen durch Reglemente regeln, die von der Bildungs- und Kulturdirektion zu genehmigen sind.
 
-#### Art. 57
+#### Art. 53
 
 **Immatrikulation**
 
 <sup>1</sup> Die Immatrikulation erfolgt durch die Rektorin oder den Rektor.
 
-#### Art. 58
+#### Art. 54
 
-**Zulassungsbeschränkung 1. Definition**
+**Zulassungsbeschränkung**
 
 <sup>1</sup> Eine Zulassungsbeschränkung in einem Departement, Fachbereich oder Studiengang liegt vor, wenn die Anzahl Studienplätze festgelegt wird.
 
@@ -663,57 +589,82 @@ beschliesst:
 
 <sup>5</sup> Die Zulassungsbeschränkung ist für jedes Studienjahr neu anzuordnen.
 
-#### Art. 59
+#### Art. 55
 
-**2. Massnahmen**
+**Massnahmen zur Vermeidung von Zulassungsbeschränkungen**
 
-<sup>1</sup> In Departementen, Fachbereichen und Studiengängen, die von Zulassungsbeschränkungen bedroht sind, sind alle Möglichkeiten auszuschöpfen, die finanziell tragbar und für die Gewährleistung der Ausbildungsqualität verantwortbar sind, um den Bewerberinnen und Bewerbern den Zugang zum Studium zu ermöglichen.
+<sup>1</sup> Droht in einem Departement, Fachbereich oder Studiengang eine Zulassungsbeschränkung, sind alle Möglichkeiten auszuschöpfen, die finanziell tragbar und für die Gewährleistung der Ausbildungsqualität verantwortbar sind, um den Bewerberinnen und Bewerbern den Zugang zum Studium zu ermöglichen.
 
-#### Art. 60
+#### Art. 56
 
-**3. Immatrikulation bei Zulassungsbeschränkungen**
+**Vergabe der Studienplätze bei Zulassungsbeschränkungen**
 
-<sup>1</sup> In Departementen, Fachbereichen und Studiengängen, für welche Zulassungsbeschränkungen angeordnet worden sind, entscheidet die Eignung der Studienanwärterinnen und Studienanwärter über die Vergebung der Studienplätze.
+<sup>1</sup> In Departementen, Fachbereichen und Studiengängen, für die Zulassungsbeschränkungen angeordnet worden sind, entscheidet die Eignung der Studienanwärterinnen und Studienanwärter über die Vergabe der Studienplätze.
 
-<sup>2</sup> Die Eignungsabklärung erfolgt durch fachbezogene Eignungsprüfungen vor dem oder während des Studiums.
+<sup>2</sup> Die Eignungsabklärung erfolgt durch fachbezogene Eignungsprüfungen vor dem Studium.
 
-<sup>3</sup> Die Eignungsabklärung und das Verfahren werden fachlich durch die Departemente vorgegeben und durch die Fachhochschulleitung koordiniert. Auf deren Antrag erlässt der Schulrat ein Reglement, welches von der Bildungs- und Kulturdirektion genehmigt wird.
+<sup>3</sup> Die Eignungsabklärung und das Verfahren werden fachlich durch die Departemente vorgegeben. Auf deren Antrag erlässt der Fachhochschulrat ein Reglement, das von der Bildungs- und Kulturdirektion genehmigt wird.
 
-### 3.3.3
-
-#### Art. 61
+#### Art. 57
 
 **Zulassung nach endgültigem Ausschluss**
 
-<sup>1</sup> Nach dem endgültigen Ausschluss gemäss Artikel 25 FaG von einer Fachhochschule wird nach Ablauf von zwei Jahren zum gleichen Studiengang zugelassen, wer eine Berufstätigkeit von zwei Jahren auf dem Fachgebiet des Studiengangs nachweisen kann. Die Erfüllung der übrigen Zulassungsvoraussetzungen bleibt vorbehalten.
+<sup>1</sup> Nach dem endgültigen Ausschluss gemäss Artikel 25 Absatz 2 FaG von einer Fachhochschule wird nach Ablauf von zwei Jahren zum gleichen Studiengang zugelassen, wer eine Berufstätigkeit von zwei Jahren auf dem Fachgebiet des Studiengangs nachweisen kann. Die Erfüllung der übrigen Zulassungsvoraussetzungen bleibt vorbehalten.
 
-### 3.3.4 Rahmenreglement für Kompetenznachweise
+#### Art. 58
 
-#### Art. 62
+**Nichtzulassung oder Ausschluss wegen fehlender persönlicher Voraussetzungen für die berufliche Tätigkeit**
 
-<sup>1</sup> Der Schulrat erlässt ein Rahmenreglement für Kompetenznachweise sowie die Studienreglemente der Berner Fachhochschule, die von der Bildungs- und Kulturdirektion zu genehmigen sind.
+<sup>1</sup> Der Fachhochschulrat regelt durch Reglement das Verfahren für die Nichtzulassung von Personen beziehungsweise den Ausschluss von Studierenden, welche die persönlichen Voraussetzungen für die berufliche Tätigkeit mit Blick auf die Wahrung der Integrität der ihnen anvertrauten Minderjährigen oder volljährigen, besonders schutzbedürftigen Personen nicht erfüllen.
+
+<sup>2</sup> Das Verfahren muss objektiven Kriterien genügen und spätestens vor der Diplomierung abgeschlossen sein.
+
+<sup>3</sup> Die persönlichen Voraussetzungen sind insbesondere nicht gegeben, wenn
+
+- a Studierende wegen Begehung einer der in Artikel 67 Absatz 3 oder 4 des Schweizerischen Strafgesetzbuchs (StGB)[^58-1] aufgeführten Straftaten verurteilt worden sind oder
+- b schwere psychische oder körperliche Beeinträchtigungen ärztlich attestiert wurden, welche die Berufsausübung unmöglich machen.
+
+[^58-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+### 3.3.3 Rahmenreglement über das Studium
+
+#### Art. 59
+
+<sup>1</sup> Der Fachhochschulrat erlässt ein Rahmenreglement über das Studium sowie die Studienreglemente der Berner Fachhochschule, die von der Bildungs- und Kulturdirektion zu genehmigen sind.
 
 ## 4 Organisation
 
 ### 4.1 Allgemeine Bestimmungen
 
-#### Art. 63
+#### Art. 60
+
+**Sitz**
 
 <sup>1</sup> Sitz der Berner Fachhochschule ist Bern.
 
-### 4.2 Die Berner Fachhochschule als Gesamtheit
+#### Art. 61
 
-### 4.2.1 Schulrat
+**Studienjahr**
 
-#### Art. 64
+<sup>1</sup> Das Studienjahr dauert in der Regel vom 1. August bis zum 31. Juli des darauffolgenden Jahrs. Die Studienreglemente können die Dauer des Studienjahrs vom 1. Februar bis zum 31. Januar des darauffolgenden Jahrs vorsehen.
+
+<sup>2</sup> Das Studienjahr unterteilt sich in zwei Semester. Das Herbstsemester dauert vom 1. August bis zum 31. Januar, das Frühlingssemester vom 1. Februar bis zum 31. Juli.
+
+<sup>3</sup> Die weitere Gliederung des Studienjahrs ist innerhalb der Berner Fachhochschule unter Berücksichtigung überregionaler Koordinationsbestrebungen grundsätzlich einheitlich.
+
+<sup>4</sup> Die Departemente legen die weitere Gliederung des Studienjahres fest.
+
+### 4.2 Fachhochschulrat
+
+#### Art. 62
 
 **Sekretariat und Geschäftsregelment**
 
-<sup>1</sup> Das Sekretariat des Schulrats wird durch die Rektorin oder den Rektor geführt.
+<sup>1</sup> Das Sekretariat des Fachhochschulrats wird durch die Rektorin oder den Rektor geführt.
 
-<sup>2</sup> Der Schulrat gibt sich ein Geschäftsreglement.
+<sup>2</sup> Der Fachhochschulrat gibt sich ein Geschäftsreglement.
 
-#### Art. 65
+#### Art. 63
 
 **Entschädigung**
 
@@ -721,24 +672,14 @@ beschliesst:
 
 - a 25'000 Franken für die Präsidentin oder den Präsidenten,
 - b 20'000 Franken für die Vizepräsidentin oder den Vizepräsidenten,
-- c 15'000 Franken für die übrigen stimmberechtigten Mitglieder des Schulrats mit einer erhöhten zeitlichen Belastung, die nicht Mitarbeiterinnen und Mitarbeiter der Berner Fachhochschule sind,
-- d 5000 Franken für die übrigen stimmberechtigten Mitglieder des Schulrats, die nicht Mitarbeiterinnen und Mitarbeiter der Berner Fachhochschule sind.
-
-### 4.3 Studienjahr
-
-#### Art. 66
-
-<sup>1</sup> Das Studienjahr dauert in der Regel vom 1. August bis zum 31. Juli des darauffolgenden Jahres. Die Studienreglemente können die Dauer des Studienjahrs vom 1. Februar bis zum 31. Januar des darauffolgenden Jahres vorsehen.
-
-<sup>2</sup> Das Studienjahr unterteilt sich in zwei Semester. Das Herbstsemester dauert vom 1. August bis 31. Januar, das Frühlingssemester vom 1. Februar bis 31. Juli.
-
-<sup>3</sup> Die weitere Gliederung des Studienjahrs ist innerhalb der Berner Fachhochschule unter Berücksichtigung überregionaler Koordinationsbestrebungen grundsätzlich einheitlich. Den speziellen Bedürfnissen der einzelnen Departemente kann Rechnung getragen werden. Die Rektorin oder der Rektor legt die weitere Gliederung des Studienjahrs fest.
+- c bis 15'000 Franken für die übrigen Mitglieder des Fachhochschulrats mit einer erhöhten zeitlichen Belastung, die nicht Mitarbeiterinnen und Mitarbeiter der Berner Fachhochschule oder des Kantons sind,
+- d 5000 Franken für die übrigen Mitglieder des Fachhochschulrats, die nicht Mitarbeiterinnen und Mitarbeiter der Berner Fachhochschule oder des Kantons sind, sowie für die Vertreterin oder den Vertreter der Studierenden.
 
 ## 5 Planung, Steuerung und Finanzierung
 
 ### 5.1 Hochschulplanung
 
-#### Art. 67
+#### Art. 64
 
 <sup>1</sup> Die Hochschulplanung berücksichtigt die Legislatur- und Finanzplanung des Kantons sowie die wissenschafts- und finanzpolitischen Zielsetzungen und Entwicklungen im Hochschulbereich auf gesamtschweizerischer Ebene.
 
@@ -746,25 +687,31 @@ beschliesst:
 
 <sup>3</sup> Die Bildungs- und Kulturdirektion stellt die Mitwirkung der betroffenen Direktionen, die Berner Fachhochschule diejenige der betroffenen Organisationseinheiten sicher.
 
-### 5.1a Leistungsauftrag
+### 5.2 Leistungsauftrag
 
-#### Art. 68
+#### Art. 65
+
+**Zuständigkeiten**
 
 <sup>1</sup> Der Leistungsauftrag des Regierungsrates wird in der Regel für einen Zeitraum von vier Jahren beschlossen.
 
 <sup>2</sup> Die Bildungs- und Kulturdirektion erarbeitet den Leistungsauftrag in Zusammenarbeit mit der Berner Fachhochschule.
 
-<sup>3</sup> Die finanziellen Eckwerte der Leistungserbringung werden gemäss Artikel 69e Absatz 2 bestimmt.
+#### Art. 66
 
-<sup>4</sup> Zur Beurteilung der Zielerreichung werden im Leistungsauftrag Indikatoren und Sollwerte festgelegt.
+**Finanzielles**
 
-<sup>5</sup> Werden im Rahmen von Massnahmen zur Erhaltung eines ausgeglichenen Finanzhaushalts Kürzungen vorgenommen, passt der Regierungsrat den Leistungsauftrag entsprechend an.
+<sup>1</sup> Die finanziellen Eckwerte der Leistungserbringung werden gemäss Artikel 73 Absatz 2 bestimmt.
 
-### 5.1b Berichterstattung
+<sup>2</sup> Zur Beurteilung der Zielerreichung werden im Leistungsauftrag Indikatoren und Sollwerte festgelegt.
 
-### 5.1b.1 Geschäftsbericht
+<sup>3</sup> Werden im Rahmen von Massnahmen zur Erhaltung eines ausgeglichenen Finanzhaushalts Kürzungen vorgenommen, passt der Regierungsrat den Leistungsauftrag entsprechend an.
 
-#### Art. 69
+### 5.3 Berichterstattung
+
+### 5.3.1 Geschäftsbericht
+
+#### Art. 67
 
 **Abgabe**
 
@@ -774,35 +721,37 @@ beschliesst:
 
 <sup>3</sup> Der Geschäftsbericht wird dem Grossen Rat zur Kenntnis gebracht, zusammen mit dem Bericht der Finanzkontrolle zur Jahresrechnung und dem Genehmigungsbeschluss des Regierungsrates.
 
-#### Art. 69a
+#### Art. 68
 
 **Tätigkeitsschwerpunkte**
 
-<sup>1</sup> Die Tätigkeitsschwerpunkte im Geschäftsbericht der Berner Fachhochschule umfassen eine Übersicht über generelle Entwicklungen sowie über prägende Ereignisse im Berichtsjahr.
+<sup>1</sup> Die Tätigkeitsschwerpunkte im Geschäftsbericht umfassen eine Übersicht über generelle Entwicklungen sowie über prägende Ereignisse im Berichtsjahr.
 
-#### Art. 69b
+#### Art. 69
 
 **Jahresrechnung**
 
-<sup>1</sup> Die Jahresrechnung der Berner Fachhochschule besteht aus Bilanz, Erfolgsrechnung, Geldflussrechnung und einem Anhang.
+<sup>1</sup> Die Jahresrechnung besteht aus Bilanz, Erfolgsrechnung, Geldflussrechnung und einem Anhang.
 
-<sup>2</sup> Der Anhang enthält ergänzende und erläuternde Informationen nach den Vorgaben des Rechnungslegungsstandards der Finanzbuchhaltung gemäss Artikel 69g Absatz 2.
+<sup>2</sup> Der Anhang enthält ergänzende und erläuternde Informationen nach den Vorgaben des Rechnungslegungsstandards der Finanzbuchhaltung gemäss Artikel 75 Absatz 1 Buchstabe a.
 
 <sup>3</sup> Die Jahresrechnung ist durch die Finanzkontrolle des Kantons bis zu dem von der Bildungs- und Kulturdirektion nach Massgabe der gesamtstaatlichen Prozesse vorgegebenen Termin zu prüfen.
 
 <sup>4</sup> Die Bildungs- und Kulturdirektion legt die Jahresrechnung dem Regierungsrat mit dem Bericht der Finanzkontrolle zur Genehmigung vor.
 
-### 5.1b.2 Leistungsbericht und Zwischenberichte
+### 5.3.2 Leistungsbericht und Zwischenberichte
 
-#### Art. 69c
+#### Art. 70
 
-<sup>1</sup> Die Berner Fachhochschule legt der Bildungs- und Kulturdirektion jährlich einen Zwischenbericht über den jeweiligen Stand der Erfüllung des Leistungsauftrags vor.
+<sup>1</sup> Die Berner Fachhochschule legt der Bildungs- und Kulturdirektion im Jahr vor Ablauf des Leistungsauftrags des Regierungsrates den Leistungsbericht und jährlich einen Zwischenbericht über den jeweiligen Stand der Erfüllung des Leistungsauftrags vor.
 
 <sup>2</sup> Im Jahr des Leistungsberichts ist in der Regel kein Zwischenbericht zu erstellen.
 
-### 5.1c Controllingverfahren
+### 5.3.3 Controllingverfahren
 
-#### Art. 69d
+#### Art. 71
+
+**Controlling-Gespräch**
 
 <sup>1</sup> Zwischen der Bildungs- und Kulturdirektion und der Berner Fachhochschule findet jährlich mindestens ein Controlling-Gespräch statt.
 
@@ -810,15 +759,19 @@ beschliesst:
 
 <sup>3</sup> Grundlage des Gesprächs bildet die Berichterstattung der Berner Fachhochschule.
 
-<sup>4</sup> Die Bildungs- und Kulturdirektion erstattet dem Regierungsrat im Rahmen der Genehmigung der Jahresrechnung und Kenntnisnahme des Geschäftsberichts jährlich Bericht über ihre Beurteilung des Standes der Zielerreichung.
+#### Art. 72
 
-<sup>5</sup> Der Regierungsrat führt mit der Berner Fachhochschule in der Regel jährlich ein Gespräch über bildungspolitische Herausforderungen und Schwerpunkte.
+**Controlling durch den Regierungsrat**
 
-<sup>6</sup> Die Bildungs- und Kulturdirektion stellt die Mitwirkung der betroffenen Direktionen sicher.
+<sup>1</sup> Die Bildungs- und Kulturdirektion erstattet dem Regierungsrat im Rahmen der Genehmigung der Jahresrechnung und Kenntnisnahme des Geschäftsberichts jährlich Bericht über ihre Beurteilung des Standes der Zielerreichung.
 
-### 5.1d Finanzierung
+<sup>2</sup> Der Regierungsrat führt mit der Berner Fachhochschule periodisch ein Gespräch über bildungspolitische Herausforderungen und Schwerpunkte.
 
-#### Art. 69e
+<sup>3</sup> Die Bildungs- und Kulturdirektion stellt die Mitwirkung der betroffenen Direktionen sicher.
+
+### 5.3.4 Finanzierung
+
+#### Art. 73
 
 **Jährlicher Kantonsbeitrag**
 
@@ -834,7 +787,7 @@ beschliesst:
 
 <sup>3</sup> Die Rückzahlung oder Erhöhung eines beschlossenen Kantonsbeitrags bei der Erzielung von Überschüssen oder Unterdeckungen ist ausgeschlossen.
 
-#### Art. 69f
+#### Art. 74
 
 **Weitere finanzielle Mittel**
 
@@ -844,23 +797,23 @@ beschliesst:
 
 <sup>3</sup> Die Berner Fachhochschule regelt die Bewirtschaftung ihrer Mittel.
 
-#### Art. 69g
+#### Art. 75
 
 **Grundsätze der Rechnungslegung**
 
-<sup>1</sup> Die Berner Fachhochschule führt eine eigene Rechnung. Diese beinhaltet eine Finanzbuchhaltung und eine Betriebsbuchhaltung.
+<sup>1</sup> Die Berner Fachhochschule führt eine eigene Rechnung, bestehend aus
 
-<sup>2</sup> Die Finanzbuchhaltung entspricht dem Rechnungslegungsstandard SWISS GAAP FER.[^69g-1]
+- a einer Finanzbuchhaltung nach dem Rechnungslegungsstandard SWISS GAAP FER[^75-1],
+- b einer Betriebsbuchhaltung nach dem Kostenrechnungsmodell für Fachhochschulen der Schweizerischen Hochschulkonferenz SHK[^75-2].
 
-<sup>3</sup> Die Betriebsbuchhaltung entspricht dem Kostenrechnungsmodell für Fachhochschulen des Staatssekretariats für Bildung, Forschung und Innovation SBFI.
+<sup>2</sup> Stichtag des Abschlusses ist der 31. Dezember.
 
-<sup>4</sup> Stichtag des Abschlusses ist der 31. Dezember.
+<sup>3</sup> Die Berner Fachhochschule erarbeitet ein Handbuch zur Rechnungslegung, das von der Finanzkontrolle zu prüfen und von der Bildungs- und Kulturdirektion zu genehmigen ist.
 
-<sup>5</sup> Die Berner Fachhochschule erarbeitet ein Handbuch zur Rechnungslegung, das von der Finanzkontrolle zu prüfen und von der Bildungs- und Kulturdirektion zu genehmigen ist.
+[^75-1]: Fachempfehlungen zur Rechnungslegung SWISS GAAP FER.
+[^75-2]: Kostenrechnungsmodell der Schweizerischen Hochschulkonferenz; einsehbar unter: [https://shk.ch/de/dokumentation/publikationen/43-kostenrechnungsmodelle](https://shk.ch/de/dokumentation/publikationen/43-kostenrechnungsmodelle) (-&gt; Kostenrechnungsmodell für Fachhochschulen)
 
-[^69g-1]: Swiss Generally Accepted Accounting Principles Fachempfehlungen zur Rechnungslegung SWISS GAAP FER zu beziehen bei: [http://www.verlagskv.ch](http://www.verlagskv.ch) (Webshop)
-
-#### Art. 69h
+#### Art. 76
 
 **Liquiditätsmanagement**
 
@@ -870,7 +823,7 @@ beschliesst:
 
 <sup>3</sup> Der Kanton und die Berner Fachhochschule schliessen einen Vertrag über die zu erbringenden Leistungen sowie über ihre Rechte und Pflichten ab.
 
-#### Art. 69i
+#### Art. 77
 
 **Versicherungsmanagement**
 
@@ -880,160 +833,150 @@ beschliesst:
 
 <sup>3</sup> Der Kanton und die Berner Fachhochschule schliessen einen Vertrag über die zu erbringenden Leistungen sowie über ihre Rechte und Pflichten ab.
 
-#### Art. 69k
+#### Art. 78
 
 **Gehaltsadministration**
 
-<sup>1</sup> Das Personalamt des Kantons stellt die Gehaltsauszahlung und den Anschluss an die Sozialversicherungen der Berner Fachhochschule sicher.
+<sup>1</sup> Die Gehaltsadministration erfolgt durch die Berner Fachhochschule.
 
-<sup>2</sup> Die Gehaltsadministration der Berner Fachhochschule erfolgt mittels Personal- und Informationssystem des Kantons durch die Berner Fachhochschule.
+<sup>2</sup> Sie stellt die Gehaltsauszahlung und den Anschluss an die Sozialversicherungen sicher.
 
-<sup>3</sup> Der Kanton und die Berner Fachhochschule schliessen einen Vertrag über die zu erbringenden Leistungen sowie über ihre Rechte und Pflichten ab.
+### 5.3.5 Liegenschaften
 
-### 5.1e Liegenschaften
+#### Art. 79
 
-#### Art. 69l
+<sup>1</sup> Die Berner Fachhochschule
 
-<sup>1</sup> Die Berner Fachhochschule koordiniert ihren Raumbedarf und erstellt hierzu eine periodische, mit der Hochschulplanung und dem Leistungsauftrag abgestimmte Entwicklungsplanung zuhanden der Bildungs- und Kulturdirektion.
+- a koordiniert ihren Raumbedarf und erstellt hierzu eine periodische, mit der Hochschulplanung und dem Leistungsauftrag abgestimmte Entwicklungsplanung zuhanden der Bildungs- und Kulturdirektion.
+- b legt im Rahmen des Controllingverfahrens Rechenschaft über den Flächenkonsum für die vergangene Periode ab,
+- c teilt dem Amt für Hochschulen sowie dem Amt für Grundstücke und Gebäude mit, welche Liegenschaften ihr durch Legate oder Schenkungen zu Eigentum übertragen worden sind.
 
-<sup>2</sup> Sie legt im Rahmen des Controllingverfahrens Rechenschaft über den Flächenkonsum für die vergangene Periode ab.
+<sup>2</sup> Das Amt für Hochschulen prüft die Entwicklungsplanung und beantragt dem Amt für Grundstücke und Gebäude die Bereitstellung der notwendigen räumlichen Infrastruktur.
 
-<sup>3</sup> Das Amt für Hochschulen prüft die Entwicklungsplanung und beantragt dem Amt für Grundstücke und Gebäude die Bereitstellung der notwendigen räumlichen Infrastruktur.
+<sup>3</sup> Begründet die Berner Fachhochschule für die Erfüllung von Aufträgen Dritter und zu Lasten der entsprechenden Mittel ein befristetes Mietverhältnis, so ist der entsprechende Mietvertrag der Bildungs- und Kulturdirektion sowie der Bau- und Verkehrsdirektion zur Kenntnis zu bringen.
 
-<sup>4</sup> Die Berner Fachhochschule teilt dem Amt für Hochschulen sowie dem Amt für Grundstücke und Gebäude mit, welche Liegenschaften ihr durch Legate oder Schenkungen zu Eigentum übertragen worden sind.
+### 5.4 Gebühren
 
-<sup>5</sup> Begründet die Berner Fachhochschule für die Erfüllung von Aufträgen Dritter und zu Lasten der entsprechenden Mittel ein befristetes Mietverhältnis, so ist der entsprechende Mietvertrag der Bildungs- und Kulturdirektion sowie der Bau- und Verkehrsdirektion zur Kenntnis zu bringen.
+### 5.4.1 Anmelde-, Eigungsabklärungs- und Studiengebühren
 
-### 5.2 Gebühren
+#### Art. 80
 
-#### Art. 70
-
-**Anmelde- und Immatrikulationsgebühr**
+**Anmeldegebühr**
 
 <sup>1</sup> Die Gebühr für die Anmeldung zu einem Studiengang beträgt 100 Franken.
 
-<sup>2</sup> Die Immatrikulationsgebühr beträgt 100 Franken.
+<sup>2</sup> Eine Rückerstattung der Anmeldegebühr ist ausgeschlossen.
 
-<sup>3</sup> Führt die Anmeldung zur Immatrikulation, wird die Anmeldegebühr als Immatrikulationsgebühr angerechnet. Bei mehreren Anmeldungen werden die übrigen Anmeldegebühren nicht zurückerstattet.
-
-#### Art. 71
-
-**Aufnahmeprüfung**
-
-<sup>1</sup> Die Einschreibegebühr für Aufnahmeprüfungen beträgt 50 Franken.
-
-<sup>2</sup> Die Prüfungsgebühr beträgt 150 Franken.
-
-<sup>3</sup> Wird die Aufnahmeprüfung erfolgreich abgelegt, wird die Einschreibegebühr an die Prüfungsgebühr angerechnet.
-
-#### Art. 71a
+#### Art. 81
 
 **Gebühr für Eignungsabklärung**
 
 <sup>1</sup> Die Gebühr für die Eignungsabklärung vor Aufnahme des Studiums beträgt für die Studienanwärterinnen und Studienanwärter
 
 - a am Departement der Künste 150 Franken,
-- b am Departement für Wirtschaft, Gesundheit, Soziale Arbeit 200 Franken.
+- b an den Departementen Gesundheit und Soziale Arbeit jeweils bis 200 Franken.
 
-#### Art. 72
+#### Art. 82
 
 **Studiengebühren für das Bachelor- und Masterstudium**
 
 <sup>1</sup> Die Studiengebühr für das Bachelor- und Masterstudium beträgt 750 Franken pro Semester.
 
-<sup>1a</sup> Ausländische Studierende bezahlen neben der Studiengebühr gemäss Absatz 1 eine zusätzliche Studiengebühr von 200 Franken pro Semester, wenn sie zum Zeitpunkt des Erlangens des Zulassungsausweises zum Studium auf der Bachelorstufe ihren zivilrechtlichen Wohnsitz weder in der Schweiz noch im Fürstentum Liechtenstein hatten.
+<sup>2</sup> Ausländische Studierende bezahlen neben der Studiengebühr gemäss Absatz 1 eine zusätzliche Studiengebühr von 200 Franken pro Semester, wenn sie zum Zeitpunkt des Erlangens des Zulassungsausweises zum Studium auf der Bachelorstufe ihren zivilrechtlichen Wohnsitz weder in der Schweiz noch im Fürstentum Liechtenstein hatten.
 
-<sup>2</sup> Für Studierende aus Kantonen, mit denen keine interkantonale Vereinbarung besteht, richtet sich die Gebühr nach dem Tarif der Interkantonalen Fachhochschulvereinbarung[^72-1].
+<sup>3</sup> Studierende aus Kantonen, mit denen keine interkantonale Vereinbarung besteht, bezahlen nebst der Studiengebühr eine Gebühr, die sich nach dem Tarif der Interkantonalen Fachhochschulvereinbarung[^82-1] richtet.
 
-<sup>3</sup> Bei Abbruch des Studiums werden in der Regel keine Gebühren zurückerstattet. Über Ausnahmen entscheidet die Departementsleiterin oder der Departementsleiter.
+<sup>4</sup> Bei Abbruch des Studiums werden in der Regel keine Gebühren zurückerstattet. Über Ausnahmen entscheidet die Departementsleiterin oder der Departementsleiter.
 
-[^72-1]: GRB vom 23.11.2004 über den Beitritt des Kt. Bern zur interkantonalen Fachhochschulvereinbarung vom 12. 6. 2003, BSG 439.21
+[^82-1]: GRB vom 23.11.2004 über den Beitritt des Kt. Bern zur interkantonalen Fachhochschulvereinbarung vom 12. 6. 2003, BSG [439.21](https://www.belex.sites.be.ch/data/439.21/de)
 
-#### Art. 72a
+### 5.4.2 Ausstattungspauschale und Verwaltungsgebühr
 
-**Materialpauschale für das Bachelor- und Masterstudium**
+#### Art. 83
 
-<sup>1</sup> Die Materialpauschale für schriftliche Unterlagen, wie namentlich Skripte und Fotokopien, welche den Studierenden des Bachelor- und Masterstudiums abgegeben werden, beträgt höchstens 150 Franken pro Semester.
+**Ausstattungspauschale für das Bachelor- und Masterstudium**
 
-<sup>2</sup> Die Rektorin oder der Rektor legt die Materialpauschale pro Studiengang in Weisungen fest.
+<sup>1</sup> Für physische Hilfsmittel, Unterlagen und die Zugangsgewährung zu digitalen Hilfsmitteln und Dokumentationen in Bachelor- und Masterstudiengängen wird eine Pauschale von höchstens 150 Franken pro Semester erhoben.
 
-#### Art. 72b
+<sup>2</sup> Die Rektorin oder der Rektor legt die Pauschale pro Studiengang fest.
 
-**Beurlaubungsgebühr[^72b-1]**
-
-<sup>1</sup> Die Beurlaubungsgebühr beträgt 100 Franken pro Semester.
-
-<sup>2</sup> Beurlaubte Studierende, die der Vereinigung der Studierenden der Berner Fachhochschule angehören, bezahlen zudem die Gebühr gemäss Artikel 28 Absatz 3 FaG.
-
-[^72b-1]: bisheriger Artikel 72a, geändert am 6.05.2015
-
-#### Art. 73
-
-**Gebührenbefreiung**
-
-<sup>1</sup> Studierende, die an einer anderen Fachhochschule oder universitären Hochschule immatrikuliert sind und aufgrund einer Vereinbarung vorübergehend an der Berner Fachhochschule studieren, sind von der Studiengebühr sowie der Abgabe für soziale, kulturelle und Sporteinrichtungen befreit.
-
-#### Art. 74
-
-**Prüfungsgebühren**
-
-<sup>1</sup> Der Schulrat legt die Prüfungsgebühren in einem Reglement fest.
-
-<sup>2</sup> Die Prüfungsgebühren für einen Studiengang, der ohne Prüfungswiederholungen absolviert wird, dürfen den Gesamtbetrag von 500 Franken nicht übersteigen.
-
-<sup>3</sup> Bei Nichtablegen der Prüfungen werden die Prüfungsgebühren in der Regel nicht zurückerstattet. Über Ausnahmen aus wichtigen Gründen entscheidet die Departementsleiterin oder der Departementsleiter.
-
-#### Art. 75
+#### Art. 84
 
 **Verwaltungsgebühr**
 
 <sup>1</sup> Für besondere Leistungen ausserhalb des ordentlichen Immatrikulations- oder Beurlaubungsverfahrens, namentlich für das Erstellen von Duplikaten und Übersetzungen, wird eine Gebühr von höchstens 100 Franken erhoben.
 
-<sup>2</sup> Die Rektorin oder der Rektor legt die Gebühren in Weisungen fest.
+<sup>2</sup> Die Rektorin oder der Rektor legt die Gebühren fest.
 
-#### Art. 76
+### 5.4.3 Beurlaubungsgebühr und Gebührenbefreiung
 
-**Kursgebühren**
+#### Art. 85
 
-<sup>1</sup> Für den Besuch von Weiterbildungsveranstaltungen der Berner Fachhochschule sind Kursgebühren zu erheben.
+**Beurlaubungsgebühr**
 
-<sup>2</sup> Die Kursgebühren sind grundsätzlich kostendeckend und marktgerecht festzulegen, wobei auch die nicht direkt anfallenden Kosten zu berücksichtigen sind.
+<sup>1</sup> Die Beurlaubungsgebühr beträgt 100 Franken pro Semester.
 
-<sup>3</sup> Die oder der Verantwortliche der Weiterbildungsveranstaltung legt die Kursgebühren in Absprache mit der Departementsleiterin oder dem Departementsleiter fest.
+<sup>2</sup> Beurlaubte Studierende, die der Vereinigung der Studierenden der Berner Fachhochschule angehören, bezahlen zudem die Gebühr gemäss Artikel 28 Absatz 3 FaG.
 
-#### Art. 77
+#### Art. 86
+
+**Gebührenbefreiung**
+
+<sup>1</sup> Studierende, die an einer anderen Fachhochschule oder universitären Hochschule immatrikuliert sind und aufgrund einer Vereinbarung vorübergehend an der Berner Fachhochschule studieren, sind von der Studiengebühr sowie der Abgabe für soziale, kulturelle und Sporteinrichtungen befreit.
+
+### 5.4.4 Prüfungs- und Weiterbildungsgebühren
+
+#### Art. 87
+
+**Prüfungsgebühren**
+
+<sup>1</sup> Der Fachhochschulrat legt die Prüfungsgebühren durch Reglement fest.
+
+<sup>2</sup> Die Prüfungsgebühren für einen Studiengang dürfen den Gesamtbetrag von 500 Franken nicht übersteigen.
+
+<sup>3</sup> Bei Nichtablegen der Prüfungen werden die Prüfungsgebühren in der Regel nicht zurückerstattet. Über Ausnahmen aus wichtigen Gründen entscheidet die Departementsleiterin oder der Departementsleiter.
+
+#### Art. 88
+
+**Weiterbildungsgebühren**
+
+<sup>1</sup> Für das Weiterbildungsangebot der Berner Fachhochschule werden Gebühren erhoben.
+
+<sup>2</sup> Diese sind grundsätzlich kostendeckend und marktgerecht festzulegen, wobei auch die nicht direkt anfallenden Kosten zu berücksichtigen sind.
+
+<sup>3</sup> Der Fachhochschulrat regelt das Nähere durch Reglement.
+
+### 5.4.5 Weitere Gebühren
+
+#### Art. 89
 
 **Fachhörerinnen und Fachhörer**
 
-<sup>1</sup> Fachhörerinnen und Fachhörer sind interessierte Personen, die einzelne Veranstaltungen besuchen. Sie entrichten 150 Franken pro Semesterwochenstunde, jedoch höchstens 1200 Franken pro Semester.
+<sup>1</sup> Fachhörerinnen und Fachhörer sind interessierte Personen, die einzelne Veranstaltungen in Bachelor- oder Masterstudiengängen besuchen.
 
-#### Art. 78
+<sup>2</sup> Sie entrichten eine Gebühr, die vom Umfang der besuchten Veranstaltungen abhängig ist, jedoch 1200 Franken pro Semester nicht überschreitet.
+
+#### Art. 90
 
 **Gebühren für öffentlich-rechtliche Dienstleistungen**
 
-<sup>1</sup> Der Schulrat regelt die Gebühren für die öffentlich-rechtlichen Dienstleistungen.
+<sup>1</sup> Der Fachhochschulrat regelt die Gebühren für die öffentlich-rechtlichen Dienstleistungen durch Reglement.
 
-### 5.3 Lohnpromille
+### 5.5 Lohnpromille
 
-#### Art. 79
+#### Art. 91
 
 <sup>1</sup> Mit Ausnahme der als Studierende immatrikulierten Hilfsassistentinnen und Hilfsassistenten entrichten die Mitarbeiterinnen und Mitarbeiter der Berner Fachhochschule jährlich eine Abgabe von einem Promille ihres Jahresgehaltes (13 Monatsgehälter, ohne Familien- und Betreuungszulagen) zur Unterstützung der im Statut bezeichneten sozialen und kulturellen sowie Sporteinrichtungen.
 
-<sup>2</sup> Die Studentinnen und Studenten entrichten pro Semester eine Abgabe von 24 Franken für die im Statut bezeichneten sozialen, kulturellen sowie Sporteinrichtungen.
+<sup>2</sup> Die Studentinnen und Studenten entrichten pro Semester eine Abgabe von 24 Franken für die im Statut bezeichneten sozialen Massnahmen.
 
-### 5.3a Legate und unselbstständige Stiftungen
+## 6 Rekurskommission, Disziplinarrecht und Rechtspflege
 
-#### Art. 79a
+### 6.1 Rekurskommission
 
-<sup>1</sup> Der Schulrat erlässt für jedes Legat und jede unselbstständige Stiftung gemäss Artikel 55 FaG[^79a-1] ein Reglement, welches der Bildungs- und Kulturdirektion jeweils zur Kenntnis zu bringen ist.
+#### Art. 92
 
-[^79a-1]: BSG [435.411](https://www.belex.sites.be.ch/data/435.411/de)
-
-## 6 Verfahren, Rechtspflege und Disziplinarbestimmungen
-
-#### Art. 80
-
-**Zusammensetzung, Wahl, Stellung**
+**Zusammensetzung**
 
 <sup>1</sup> Die Rekurskommission der Berner Fachhochschule besteht aus fünf stimmberechtigten Mitgliedern. Sie steht unter dem Vorsitz eines Mitglieds, das über eine juristische Ausbildung verfügt und nicht der Berner Fachhochschule angehört.
 
@@ -1043,13 +986,21 @@ beschliesst:
 - b einer Assistentin, einem Assistenten, einer wissenschaftlichen Mitarbeiterin oder einem wissenschaftlichen Mitarbeiter und
 - c einer Studentin oder einem Studenten.
 
-<sup>3</sup> Der Schulrat wählt die Mitglieder und die Präsidentin oder den Präsidenten der Rekurskommission auf drei Jahre. Wiederwahl ist möglich.
+#### Art. 93
 
-<sup>4</sup> Die Rekurskommission kann bei Bedarf Fachreferentinnen oder Fachreferenten ohne Stimmrecht beiziehen. Die Fachhochschulleitung schlägt eine Auswahl von Fachreferentinnen und Fachreferenten unter angemessener Berücksichtigung der verschiedenen Departemente vor.
+**Wahl**
 
-<sup>5</sup> Sie ist gegenüber den Organen der Berner Fachhochschule nicht weisungsgebunden.
+<sup>1</sup> Der Fachhochschulrat wählt die Mitglieder und die Präsidentin oder den Präsidenten der Rekurskommission auf drei Jahre. Wiederwahl ist möglich.
 
-#### Art. 81
+<sup>2</sup> Die Rekurskommission kann bei Bedarf Fachreferentinnen und Fachreferenten ohne Stimmrecht beiziehen. Die Fachhochschulleitung schlägt eine Auswahl von Fachreferentinnen und Fachreferenten unter angemessener Berücksichtigung der verschiedenen Departemente vor.
+
+#### Art. 94
+
+**Stellung**
+
+<sup>1</sup> Sie ist gegenüber den Organen der Berner Fachhochschule nicht weisungsgebunden.
+
+#### Art. 95
 
 **Beschlussfähigkeit und -fassung**
 
@@ -1061,138 +1012,90 @@ beschliesst:
 
 <sup>4</sup> Sie oder er bezeichnet die beizuziehenden Fachreferentinnen und Fachreferenten.
 
-#### Art. 82
+#### Art. 96
 
 **Reglement**
 
-<sup>1</sup> Der Schulrat erlässt ein Reglement über die Rekurskommission, das durch die Bildungs- und Kulturdirektion zu genehmigen ist. Dieses regelt insbesondere die Arbeitsweise der Rekurskommission und die Entschädigung der Präsidentin oder des Präsidenten sowie der weiteren Mitglieder.
+<sup>1</sup> Der Fachhochschulrat erlässt ein Reglement über die Rekurskommission, das durch die Bildungs- und Kulturdirektion zu genehmigen ist. Dieses regelt insbesondere die Arbeitsweise der Rekurskommission und die Entschädigung der Präsidentin oder des Präsidenten sowie der weiteren Mitglieder.
 
-#### Art. 82a
+### 6.2 Disziplinarrecht
 
-**Disziplinarrecht**
+#### Art. 97
 
-<sup>1</sup> Ein Verstoss gegen die Disziplinarordnung liegt vor, wenn Studierende gegen die Hausordnungen, die Studienreglemente oder während ihres Studiums gegen Verbote oder Gebote der Rechtsordnung verstossen.
+**Verstoss gegen die Disziplinarordnung**
 
-<sup>2</sup> Ein Verstoss gegen den Grundsatz der Lauterkeit der Wissenschaft liegt vor, wenn Studierende
+<sup>1</sup> Ein Verstoss gegen die Disziplinarordnung liegt vor, wenn Studierende gegen die Hausordnungen, die Studienreglemente oder während ihres Studiums gegen Verbote oder Gebote der Rechtsordnung sowie gegen Anordnungen der Rektorin oder des Rektors und der Departementsleiterinnen und Departementsleiter verstossen.
 
-- a Forschungsergebnisse Dritter ohne Angabe der Quellen verwenden und damit als eigene ausgeben,
-- b Forschungsergebnisse durch bewusst tatsachenwidrige Darstellung der Forschungsabläufe fälschen oder
-- c in anderer Weise gegen die Regeln guter wissenschaftlicher Praxis verstossen.
+#### Art. 98
 
-<sup>3</sup> Bei einem leichten Verstoss gegen die Disziplinarordnung oder gegen den Grundsatz der Lauterkeit der Wissenschaft kann die Leiterin oder der Leiter des zuständigen Departements der fehlbaren Person einen Verweis erteilen.
+**Verstoss gegen die wissenschaftliche Integrität**
 
-<sup>4</sup> Bei einem schweren oder wiederholten Verstoss gegen die Disziplinarordnung oder gegen den Grundsatz der Lauterkeit der Wissenschaft kann die Rektorin oder der Rektor
+<sup>1</sup> Ein Verstoss gegen die wissenschaftliche Integrität liegt vor, wenn Studierende gegen die im entsprechenden Reglement der Berner Fachhochschule festgelegten Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis verstossen.
 
-- a den Ausschluss von einzelnen Lehrveranstaltungen sowie von der Benützung einzelner Einrichtungen der Berner Fachhochschule für die Dauer von einem oder mehreren Semestern verfügen, wobei diese Sanktionen miteinander verbunden werden können,
-- b den vorübergehenden oder dauerhaften Ausschluss vom Studium an der Berner Fachhochschule verfügen.
+#### Art. 99
 
-<sup>5</sup> Wenn die Umstände es erfordern, kann die Rektorin oder der Rektor zusätzlich oder anstelle der in Absatz 4 vorgesehenen Sanktionen weitere, im Interesse der Aufrechterhaltung des regulären Hochschulbetriebes liegende administrative oder organisatorische Massnahmen treffen.
+**Schwerer Verstoss**
 
-<sup>6</sup> Weitere rechtliche Massnahmen, namentlich die Einleitung einer Strafverfolgung oder der Entzug von Titeln, bleiben vorbehalten.
+<sup>1</sup> Bei einem schweren oder wiederholten Verstoss gegen die Disziplinarordnung oder gegen die wissenschaftliche Integrität kann die Rektorin oder der Rektor
+
+- a einen Verweis erteilen,
+- b den Ausschluss von einzelnen Lehrveranstaltungen sowie von der Benützung einzelner Einrichtungen der Berner Fachhochschule für die Dauer von einem oder mehreren Semestern verfügen, wobei diese Sanktionen miteinander verbunden werden können,
+- c den vorübergehenden oder dauerhaften Ausschluss vom Studium an der Berner Fachhochschule verfügen.
+
+<sup>2</sup> Wenn die Umstände es erfordern, kann die Rektorin oder der Rektor zusätzlich oder anstelle der in Absatz 1 vorgesehenen Sanktionen weitere, im Interesse der Aufrechterhaltung des regulären Hochschulbetriebs liegende administrative oder organisatorische Massnahmen treffen.
+
+#### Art. 100
+
+**Leichter Verstoss**
+
+<sup>1</sup> Bei einem leichten Verstoss gegen die Disziplinarordnung oder gegen die wissenschaftliche Integrität kann die Leiterin oder der Leiter des zuständigen Departements der fehlbaren Person einen Verweis erteilen.
+
+#### Art. 101
+
+**Weitere Massnahmen**
+
+<sup>1</sup> Weitere rechtliche Massnahmen, namentlich die Einleitung einer Strafverfolgung oder der Entzug von Titeln oder Bescheinigungen, bleiben vorbehalten.
 
 ## 7 Übergangs- und Schlussbestimmungen
 
-#### Art. 83
+#### Art. 102
 
-<sup>1</sup> Die Überführung vom bisherigen in das neue Gehaltssystem gemäss Artikel 18 in Verbindung mit Artikel 66 Absatz 1 bis 3 des Gesetzes erfolgt für alle Dienstverhältnisse per 1. Dezember 2004.
+**Anspruch auf besondere Rente**
 
-<sup>2</sup> Die frankenmässige Überführung und die Gewährung des nominellen Besitzstands gemäss Artikel 66 des Gesetzes erfolgen aufgrund der aktuellen Anstellungsverfügungen. Abgestellt wird dabei auf den am 30. November 2004 massgebenden Beschäftigungsgrad ohne Altersentlastung.
+<sup>1</sup> Für Mitarbeiterinnen und Mitarbeiter, deren Arbeitsverhältnis vor dem 1. Januar 2023 gekündigt oder nicht verlängert wurde und die zum Zeitpunkt der Beendigung des Arbeitsverhältnisses die Voraussetzungen für einen Anspruch auf besondere Renten nach bisherigem Recht (Art. 14a Abs. 2 bis 4 FaV) erfüllen, besteht dieser Anspruch auch nach Inkrafttreten dieser Änderung.
 
-#### Art. 84
+#### Art. 103
 
-**Änderung bestehender Erlasse**
+**Anrechnung an Anstellungsdauer**
 
-<sup>1</sup> Folgende Erlasse werden geändert:
+<sup>1</sup> Die Dauer der nach bisherigem Recht abgeschlossenen Arbeitsverhältnisse ist an die Anstellungsdauer gemäss Artikel 45 Absatz 1 Buchstabe b anrechenbar.
 
-- 1\. Verordnung vom 12. Mai 1993 über das öffentliche Dienstrecht (Personalverordnung, PV)[^84-1]:
-- 2\. Verordnung vom 26. Juni 1996 über das Gehalt (GehV)[^84-2]:
-- 3\. Verordnung vom 21. Dezember 1994 über die Anstellung der Lehrkräfte (LAV[^84-3]):
+#### Art. 104
 
-[^84-1]: Aufgehoben durch Personalgesetz vom 16.9.2004; BSG 153.01, jetzt Personalverordnung vom 18. 5. 2005; BSG 153.011.1
-[^84-2]: Aufgehoben durch Personalgesetz vom 16. 9. 2004; BSG 153.01, jetzt Personalverordnung vom 18.5.2005; BSG 153.011.1
-[^84-3]: Aufgehoben durch V vom 28.3.2007 über die Anstellung der Lehrkräfte, BSG 430.251.0
+**Anpassung bestehender Arbeitsverhältnisse**
 
-#### Art. 85
+<sup>1</sup> Der Fachhochschulrat regelt die erforderlichen Anpassungen der bestehenden Arbeitsverhältnisse der Berner Fachhochschule an das neue Recht durch Reglement.
 
-**Aufhebung eines Erlasses**
+#### Art. 105
 
-<sup>1</sup> Folgender Erlass wird aufgehoben:
+**Aufhebung**
 
-Verordnung vom 13. Januar 1999 über die Berner Fachhochschule (BSG 435.411.11)
+<sup>1</sup> Die Verordnung vom 5. Mai 2004 über die Berner Fachhochschule (FaV)[^105-1] wird aufgehoben.
 
-#### Art. 86
+[^105-1]: BSG [436.811](https://www.belex.sites.be.ch/data/436.811/de)
 
-**Aufhebung von Beschlüssen**
-
-<sup>1</sup> Folgende Beschlüsse werden aufgehoben:
-
-- 1\. RRB Nr. 0244 vom 28. Januar 1998 in Sachen Berner Fachhochschule; Entschädigung des Präsidenten des Schulrates;
-- 2\. RRB Nr. 3018 vom 20. September 2000 und RRB Nr. 1944 vom 2. Juli 2003 in Sachen Einstufung der Nebenfachdozentinnen und Nebenfachdozenten an der Hochschule für Musik und Theater.
-
-<sup>2</sup> Alle Bestimmungen in weiteren Beschlüssen, die zu dieser Verordnung in Widerspruch stehen, sind aufgehoben.
-
-#### Art. 87
+#### Art. 106
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Juli 2004 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2023 in Kraft.
 
-<sup>2</sup> Artikel 22 (Arbeitszeit) und 72 Absatz 1 (Studiengebühr Diplomstudium) treten am 1. September 2004 in Kraft. Artikel 67 und 110 Absatz 1 der Verordnung vom 13. Januar 1999 über die Berner Fachhochschule gelten bis am 31. August 2004.
-
-<sup>3</sup> Artikel 24, Artikel 84 Ziffer 2 Anhang I und Ziffer 3 sowie Artikel 86 Absatz 1 Ziffer 2 treten am 1. Dezember 2004 in Kraft.
-
-## T1 Übergangsbestimmungen der Änderung vom 12.03.2008
-
-#### Art. T1-1
-
-<sup>1</sup> Über Gesuche für die Ausübung einer bewilligungspflichtigen Nebenbeschäftigung von Dozentinnen und Dozenten, die vor dem 1. Juni 2008 eingereicht wurden, entscheidet die Erziehungsdirektion.
-
-<sup>2</sup> Zeitguthaben, die vor dem 1. Juni 2008 entstanden sind, können gemäss Artikel 22b finanziell abgegolten werden.
-
-<sup>3</sup> Der Schulrat nimmt die Befugnis gemäss Artikel 49 Absatz 2 erstmals im Hinblick auf den Beginn des Studienjahres 2008/2009 wahr. Bis und mit dem Studienjahr 2007/2008 gelten die bisherigen Bestimmungen.
-
-## T2 Übergangsbestimmungen der Änderung vom 09.11.2011
-
-#### Art. T2-1
-
-<sup>1</sup> Die Gebühren gemäss Artikel 72 werden erstmals für das Frühjahressemester 2012 nach dem neuen Tarif erhoben.
-
-## T3 Übergangsbestimmungen der Änderung vom 30.10.2013
-
-#### Art. T3-1
-
-<sup>1</sup> Befristete Lehraufträge, die vor dem 1. Januar 2014 erteilt worden sind, laufen nach bisherigem Recht aus.
-
-<sup>2</sup> Die Änderung von Artikel 70 Absatz 1 und 3 FaV findet erstmals für Anmeldungen für das Herbstsemester 2014/15 Anwendung.
-
-## T4 Übergangsbestimmungen der Änderung vom 6.05.2015
-
-#### Art. T4-1
-
-<sup>1</sup> Die bestehenden Guthaben des Langzeitkontos sind von den Dozentinnen und Dozenten sowie von den stimmberechtigten Mitgliedernder Fachhochschulleitung innert fünf Jahren seit Inkrafttreten dieser Änderung auszugleichen oder finanziell abzugelten. Die finanzielle Abgeltung kann auf Wunsch gestaffelt erfolgen.
-
-## T5 Übergangsbestimmungen der Änderung vom 22.06.2016
-
-#### Art. T5-1
-
-<sup>1</sup> Die Dauer der nach bisherigem Recht abgeschlossenen Arbeitsverhältnisse ist an die Anstellungsdauer gemäss Artikel 14a Absatz 2 FaV anrechenbar.
-
-## T6 Übergangsbestimmung der Änderung vom 20.12.2017
-
-#### Art. T6-1
-
-<sup>1</sup> Die zusätzliche Studiengebühr für ausländische Studierende gemäss Artikel 72 Absatz 1a wird erstmals für das Herbstsemester des Studienjahrs 2018/2019 erhoben.
-
-## A1
-
-## A2
-
-Bern, 5. Mai 2004
+Bern, 16. November 2022
 
 Im Namen des Regierungsrates
 
-Der Präsident: Gasche
+Die Präsidentin: Häsler
 
-Der Staatsschreiber: Nuspliger
+Der Staatsschreiber: Auer
 
-04-30
+22-101
