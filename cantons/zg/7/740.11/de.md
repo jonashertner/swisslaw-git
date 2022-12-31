@@ -4,20 +4,20 @@ number: "740.11"
 title: Verordnung zum Energiegesetz
 short: V EnG-ZG
 language: de
-version: 2022-01-25
-valid_until: 2022-12-31
-version_adopted: 2022-01-25
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2022-11-29
 adopted: 2024-01-23
 in_force: 2024-02-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/740.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2305/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2381/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Energiegesetz
 
-Vom 12. Juli 2005 (Stand 25. Januar 2022)
+Vom 12. Juli 2005 (Stand 1. Januar 2023)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -52,13 +52,25 @@ beschliesst:
 
 <sup>2</sup> Ergänzend gilt, dass bei Neubauten, Erweiterungen oder wesentlichen Umbauten von bestehenden Bauten der Anteil der nicht erneuerbaren Energie den zulässigen Wärmebedarf für Heizung und Warmwasser zu höchstens 60 % decken darf.
 
+#### § 1b
+
+**Eigenstromerzeugung bei Neubauten**
+
+<sup>1</sup> Neue Bauten erzeugen einen Teil der von ihnen benötigten Elektrizität selber.
+
+<sup>2</sup> Die Art der Eigenstromerzeugung ist bei Neubauten frei wählbar, soweit sie im, am, auf dem Gebäude oder dem dazugehörigen Grundstück erfolgt. Die zu installierende Leistung bemisst sich nach der Energiebezugsfläche.
+
+<sup>3</sup> Die im, am, auf dem Gebäude oder dem dazugehörigen Grundstück installierte Elektrizitätserzeugungsanlage bei Neubauten muss mindestens 10 W pro m² Energiebezugsfläche betragen, wobei nie 30 kW oder mehr verlangt werden.
+
+<sup>4</sup> Der Nachweis der minimal zu installierenden Leistung gemäss Abs. 3 ist im Rahmen des Baubewilligungsverfahrens mittels Formular zu erbringen.
+
 #### § 2
 
 **Heizungen im Freien**
 
 <sup>1</sup> Die Beheizung von Anlagen im Freien ist nur dann gestattet, wenn wenigstens zwei Drittel der benötigten Energie aus erneuerbaren Quellen stammen und die Energieverwendung bedarfsabhängig gesteuert ist.
 
-<sup>1a</sup> Die Branchen Gastronomie, Hotellerie, Kultur, Detailhandel und ähnliche sind befristet bis 31. März 2022 von den Vorgaben gemäss Abs. 1 befreit.
+<sup>1a</sup> …
 
 <sup>2</sup> Vorbehalten bleiben Erleichterungen aus Sicherheitsgründen.
 
