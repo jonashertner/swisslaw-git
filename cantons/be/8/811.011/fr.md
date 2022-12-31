@@ -4,13 +4,12 @@ number: "811.011"
 title: Ordonnance sur les droits et les devoirs des patients et patientes et des professionnels et professionnelles de la santé
 short: "Ordonnance sur les patients et les professionnels de la santé, OPat"
 language: fr
-version: 2021-08-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-30
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 2002-10-23
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.011"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2315/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2705/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2315/pdf_file"
 
 (Ordonnance sur les patients et les professionnels de la santé, OPat)
 
-du 23.10.2002 (état au 01.08.2021)
+du 23.10.2002 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -41,17 +40,7 @@ arrête:
 - b …
 - c les droits et devoirs des patients et des patientes dans les établissements sanitaires relevant du droit public cantonal.
 
-<sup>2</sup> Sont également applicables les dispositions de la LSP, de la loi du 2 décembre 1973 sur les hôpitaux et les écoles préparant aux professions hospitalières (loi sur les hôpitaux)[^1-1] et de la loi du 19 février 1986 sur la protection des données[^1-2].
-
-<sup>3</sup> La prescription de mesures de contrainte est régie par les dispositions du code civil suisse du 10 décembre 1907 (CCS)[^1-3] et de la loi du 1er février 2012 sur la protection de l’enfant et de l’adulte (LPEA)[^1-4].
-
-<sup>4</sup> En l'absence de dispositions particulières dans la présente ordonnance ou dans les lois citées à l'alinéa 2, les dispositions du CCS et de la loi fédérale du 30 mars 1911 complétant le code civil suisse (Livre cinquième: Droit des obligations)[^1-5] s'appliquent par analogie.
-
-[^1-1]: Abrogée, actuellement L du 13.6.2013 sur les soins hospitaliers (LSH); RSB 812.11
-[^1-2]: RSB 152.04
-[^1-3]: RS 210
-[^1-4]: RSB 213.316
-[^1-5]: RS 220
+<sup>2–4</sup> …
 
 ## 2 Dispositions générales
 
@@ -100,12 +89,9 @@ arrête:
 
 **Obligation de conserver**
 
-<sup>1</sup> Les dossiers doivent être conservés aussi longtemps qu'ils revêtent de l'importance pour la santé du patient ou de la patiente, mais au minimum pendant dix ans après la fin du traitement.
+<sup>1</sup> Les dossiers doivent être conservés aussi longtemps qu'ils revêtent de l'importance pour la santé du patient ou de la patiente, mais au minimum pendant vingt ans après la fin du traitement.
 
-<sup>2</sup> Doivent être conservés au moins vingt ans
-
-- a les dossiers d'enfants et d'adolescents jusqu'à 18 ans,
-- b les dossiers décrivant le déroulement de naissances.
+<sup>2</sup> …
 
 <sup>3</sup> Lorsque les dossiers portent sur le traitement d'une maladie dont les séquelles risquent de se manifester plusieurs années plus tard, leur durée de conservation doit être prolongée en conséquence.
 
@@ -119,7 +105,7 @@ arrête:
 
 #### Art. 11
 
-<sup>1</sup> L'ODS informe régulièrement la population des conditions régissant le prélèvement d'organes et de tissus sur des personnes décédées, notamment par le biais de publications dans les feuilles officielles d'avis.
+<sup>1</sup> L'ODS informe régulièrement la population, en particulier par le biais des organes de publication officiels des communes, des conditions régissant le prélèvement d'organes et de tissus sur des personnes décédées.
 
 ## 5 Droits et devoirs des patients et des patientes ainsi que du personnel dans les établissements sanitaires relevant du droit public cantonal
 

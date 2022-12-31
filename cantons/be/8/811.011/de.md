@@ -4,13 +4,12 @@ number: "811.011"
 title: Verordnung über die Rechte und Pflichten der Patientinnen und Patienten und der Gesundheitsfachpersonen
 short: "Patientenrechtsverordnung, PatV"
 language: de
-version: 2021-08-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-30
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 2002-10-23
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.011"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2315/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2705/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2315/pdf_file"
 
 (Patientenrechtsverordnung, PatV)
 
-vom 23.10.2002 (Stand 01.08.2021)
+vom 23.10.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -41,17 +40,7 @@ beschliesst:
 - b …
 - c die Rechte und Pflichten der Patientinnen und Patienten in den öffentlich-rechtlichen Institutionen des Gesundheitswesens des Kantons.
 
-<sup>2</sup> Anwendbar sind im Übrigen die Vorschriften des GesG und des Gesetzes vom 2. Dezember 1973 über Spitäler und Schulen für Spitalberufe (Spitalgesetz, SpG)[^1-1]sowie des Datenschutzgesetzes vom 19. Februar 1986[^1-2].
-
-<sup>3</sup> Hinsichtlich der Anordnung von Zwangsmassnahmen sind die Vorschriften des schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^1-3] und des Gesetzes vom 1. Februar 2012 über den Kindes- und Erwachsenenschutz (KESG)[^1-4] anwendbar.
-
-<sup>4</sup> Soweit dieser Verordnung oder den Erlassen gemäss Absatz 2 keine Vorschrift entnommen werden kann, gelten die einschlägigen Vorschriften des ZGB und des Bundesgesetzes vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches[^1-5] (Obligationenrecht).
-
-[^1-1]: Aufgehoben, jetzt Spitalversorgungsgesetz vom 13.6.2013; BSG 812.11
-[^1-2]: BSG 152.04
-[^1-3]: SR 210
-[^1-4]: BSG 213.316
-[^1-5]: SR 220
+<sup>2–4</sup> …
 
 ## 2 Allgemeine Bestimmungen
 
@@ -100,12 +89,9 @@ beschliesst:
 
 **Aufbewahrungspflicht**
 
-<sup>1</sup> Die Behandlungsdokumentationen sind so lange aufzubewahren, als sie für die Gesundheit der Patientin oder des Patienten von Interesse sind, mindestens aber während zehn Jahren nach Abschluss der Behandlung.
+<sup>1</sup> Die Behandlungsdokumentationen sind so lange aufzubewahren, als sie für die Gesundheit der Patientin oder des Patienten von Interesse sind, mindestens aber während zwanzig Jahren nach Abschluss der Behandlung.
 
-<sup>2</sup> Während mindestens zwanzig Jahren aufzubewahren sind:
-
-- a Behandlungsdokumentationen von Kindern und Jugendlichen bis 18 Jahren,
-- b den Geburtsverlauf betreffende Behandlungsdokumentationen.
+<sup>2</sup> …
 
 <sup>3</sup> Für Behandlungsdokumentationen, die über Behandlungen erstellt werden, deren Risiken sich nach dem gewöhnlichen Lauf der Dinge erst spät verwirklichen können, ist eine angemessen längere Aufbewahrungsfrist vorzusehen.
 
@@ -119,7 +105,7 @@ beschliesst:
 
 #### Art. 11
 
-<sup>1</sup> Das Gesundheitsamt orientiert die Bevölkerung regelmässig über die Voraussetzungen der Entnahme von Organen und Gewebe bei Verstorbenen, insbesondere durch Publikationen in den amtlichen Anzeigern.
+<sup>1</sup> Das Gesundheitsamt orientiert die Bevölkerung regelmässig über die Voraussetzungen der Entnahme von Organen und Gewebe bei Verstorbenen, insbesondere durch Publikationen in den amtlichen Publikationsorganen der Gemeinden.
 
 ## 5 Rechte und Pflichten der Patientinnen und Patienten und des Personals in öffentlich-rechtlichen Institutionen des Gesundheitswesens des Kantons
 
