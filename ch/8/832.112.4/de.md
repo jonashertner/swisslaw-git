@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2007 über den Bundesbeitrag zur Prämienverbi
 short: VPVK
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/805"
 language: de
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2007-805-20160101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/805/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-805-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/805/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/805/20160101/de"
 
 (VPVK)
 
-vom 7. November 2007 (Stand am 1. Januar 2016)
+vom 7. November 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 66 und 96 des Bundesgesetzes vom 18. März 1994[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^ingress-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 1
 
@@ -59,11 +59,11 @@ Der Versichertenbestand (V) entspricht dem durchschnittlichen Bestand der folgen
 - a. Versicherte mit Wohnsitz oder Aufenthalt in der Schweiz; und
 - b. Versicherte mit Wohnsitz oder Aufenthalt im Ausland nach den Artikeln 4 und 5 der Verordnung vom 27. Juni 1995[^2-1] über die Krankenversicherung.
 
-<sup>4</sup> In den Versichertenbestand nach Absatz 3 werden die Versicherungspflichtigen mit Wohnsitz in einem EU- oder EFTA-Staat nicht eingerechnet.
+<sup>4</sup> In den Versichertenbestand nach Absatz 3 werden die Versicherungspflichtigen mit Wohnsitz in einem Mitgliedstaat der Europäischen Union oder der Europäischen Freihandelsassoziation oder im Vereinigten Königreich nicht eingerechnet.[^2-2]
 
 <sup>5</sup> Der Versichertenbestand für das Jahr x wird geschätzt (Vestx), indem der aktuellste bekannte Versichertenbestand mit der Entwicklungsrate der zwei letzten Jahre nach folgender Formel um zwei Jahre hochgerechnet wird:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20160101/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20230101/de/xml/image/image1.png)</sub>
 
 <sup>6</sup> Das Prämiensoll (PS) entspricht der Summe der Prämien gemäss den genehmigten Prämientarifen für den Versichertenbestand.
 
@@ -75,9 +75,10 @@ Der Versichertenbestand (V) entspricht dem durchschnittlichen Bestand der folgen
 
 Jahr × – 4 Jahr × – 3 Jahr × – 2
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20160101/de/xml/image/image2.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20230101/de/xml/image/image2.png)</sub>
 
-[^2-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^2-1]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
+[^2-2]: Fassung gemäss Ziff. I 4 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 3
 
@@ -98,13 +99,13 @@ Der Anteil der einzelnen Kantone am Bundesbeitrag wird aufgrund folgender Massza
 
 <sup>4</sup> Das BAG berechnet den Anteil jedes Kantons (AK) aufgrund folgender Formel:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20160101/de/xml/image/image3.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20230101/de/xml/image/image3.png)</sub>
 
 <sup>4bis</sup> Im Fall eines Ausgleichs von zu hohen Prämieneinnahmen nach Artikel 17 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^3-1] zieht es 7,5 Prozent vom nach Absatz 4 berechneten Kantonsanteil ab. Das Eidgenössische Departement des Innern kann festlegen, wie der Abzug zu berechnen ist.[^3-2]
 
 <sup>5</sup> Es veröffentlicht jeweils im Oktober die Aufteilung des Bundesbeitrags auf die Kantone für das folgende Jahr.
 
-[^3-1]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^3-1]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^3-2]: Eingefügt durch Anhang Ziff. 5 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 4
@@ -131,7 +132,7 @@ Der Bundesbeitrag wird im laufenden Jahr in drei Raten ausbezahlt.
 
 <sup>2</sup> Das BAG prüft im Sinne von Artikel 25 des Subventionsgesetzes vom 5. Oktober 1990[^6-1] (SuG), ob der Bundesbeitrag gesetzeskonform verwendet wird.
 
-[^6-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^6-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 7
 
@@ -141,7 +142,7 @@ Der Bundesbeitrag wird im laufenden Jahr in drei Raten ausbezahlt.
 
 <sup>2</sup> Ist eine Abrechnung unvollständig oder fehlerhaft oder wurden die Vorschriften des KVG, dieser Verordnung oder der darauf gestützten Weisungen nicht beachtet, so können bis zur Behebung der Mängel Beiträge nach Artikel 28 Absatz 2 SuG gekürzt oder teilweise zurückgefordert werden.
 
-[^7-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^7-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 8
 
@@ -159,7 +160,7 @@ Der Bundesbeitrag wird im laufenden Jahr in drei Raten ausbezahlt.
 
 <sup>2</sup> …[^9-2]
 
-[^9-1]: [[AS 1995 1377](https://fedlex.data.admin.ch/eli/oc/1995/1377_1377_1377), [1996 1978](https://fedlex.data.admin.ch/eli/oc/1996/1978_1978_1978), [2001 141](https://fedlex.data.admin.ch/eli/oc/2001/33)[2314](https://fedlex.data.admin.ch/eli/oc/2001/335), [2002 927](https://fedlex.data.admin.ch/eli/oc/2002/163)[3913](https://fedlex.data.admin.ch/eli/oc/2002/606), [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 13]
+[^9-1]: [[AS 1995 1377](https://fedlex.data.admin.ch/eli/oc/1995/1377_1377_1377); [1996 1978](https://fedlex.data.admin.ch/eli/oc/1996/1978_1978_1978); [2001 141](https://fedlex.data.admin.ch/eli/oc/2001/33), [2314](https://fedlex.data.admin.ch/eli/oc/2001/335); [2002 927](https://fedlex.data.admin.ch/eli/oc/2002/163), [3913](https://fedlex.data.admin.ch/eli/oc/2002/606); [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 13]
 [^9-2]: Die Änderung kann unter [AS 2007 6071](https://fedlex.data.admin.ch/eli/oc/2007/805)konsultiert werden.
 
 #### Art. 10
@@ -172,7 +173,7 @@ Der Bundesbeitrag wird im laufenden Jahr in drei Raten ausbezahlt.
 
 <sup>3</sup> Im ersten Jahr nach dem Inkrafttreten dieser Verordnung werden die restlichen Bundesbeiträge des Vorjahres nach Artikel 6 Buchstabe b altVPVK spätestens drei Monate nach Eingang der Schlussabrechnung ausbezahlt. Gleichzeitig wird ein allfälliger Differenzbetrag nach den Absätzen 1 und 2 ausbezahlt.
 
-[^10-1]: [[AS 1995 1377](https://fedlex.data.admin.ch/eli/oc/1995/1377_1377_1377), [1996 1978](https://fedlex.data.admin.ch/eli/oc/1996/1978_1978_1978), [2001 141](https://fedlex.data.admin.ch/eli/oc/2001/33)[2314](https://fedlex.data.admin.ch/eli/oc/2001/335), [2002 927](https://fedlex.data.admin.ch/eli/oc/2002/163)[3913](https://fedlex.data.admin.ch/eli/oc/2002/606), [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 13]
+[^10-1]: [[AS 1995 1377](https://fedlex.data.admin.ch/eli/oc/1995/1377_1377_1377); [1996 1978](https://fedlex.data.admin.ch/eli/oc/1996/1978_1978_1978); [2001 141](https://fedlex.data.admin.ch/eli/oc/2001/33), [2314](https://fedlex.data.admin.ch/eli/oc/2001/335); [2002 927](https://fedlex.data.admin.ch/eli/oc/2002/163), [3913](https://fedlex.data.admin.ch/eli/oc/2002/606); [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 13]
 
 #### Art. 11
 

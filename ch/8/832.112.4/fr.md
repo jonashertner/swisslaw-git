@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2007 sur les subsides fédéraux destinés à l
 short: ORPM
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/805"
 language: fr
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-805-20160101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/805/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-805-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/805/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/805/20160101/fr"
 
 (ORPM)
 
-du 7 novembre 2007 (Etat le 1<sup>er</sup> janvier 2016)
+du 7 novembre 2007 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 66 et 96 de la loi fédérale du 18 mars 1994 sur l’assurance-mala
 
 arrête:
 
-[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 1
 
@@ -59,11 +59,11 @@ L’effectif des assurés (EA) correspond à l’effectif moyen pendant l’ann�
 - a. les assurés domiciliés ou séjournant en Suisse, et
 - b. les assurés domiciliés ou séjournant à l’étranger selon les art. 4 et 5 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^2-1].
 
-<sup>4</sup> Les personnes tenues de s’assurer, domiciliées dans un Etat membre de la Communauté européenne ou de l’Asssociation européenne de libre échange, ne sont pas comprises dans l’effectif visé à l’al. 3.
+<sup>4</sup> Les personnes tenues de s’assurer, domiciliées dans un État membre de l’Union européenne ou de l’Association européenne de libre échange ou au Royaume-Uni, ne sont pas comprises dans l’effectif visé à l’al. 3.[^2-2]
 
 <sup>5</sup> L’effectif des assurés est estimé (EAest) pour l’année x en extrapolant sur deux années le plus récent effectif connu avec le taux de développement des deux dernières années, selon la formule suivante:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20160101/fr/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20230101/fr/xml/image/image1.png)</sub>
 
 <sup>6</sup> Les primes à recevoir (PR) correspondent à la somme des primes selon les tarifs de primes approuvés pour l’effectif des assurés.
 
@@ -75,9 +75,10 @@ L’effectif des assurés (EA) correspond à l’effectif moyen pendant l’ann�
 
 Année × – 4 Année × – 3 Année × – 2
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20160101/fr/xml/image/image2.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20230101/fr/xml/image/image2.png)</sub>
 
-[^2-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^2-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
+[^2-2]: Nouvelle teneur selon le ch. I 4 de l’O du 26 oct. 2022 sur les modifications d’ordonnances en matière d’assurance-maladie concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 3
 
@@ -98,14 +99,14 @@ La part de chaque canton aux subsides fédéraux est calculée en fonction des i
 
 <sup>4</sup> L’OFSP calcule la part qui revient à chaque canton (Pcant) sur la base de la formule suivante:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20160101/fr/xml/image/image3.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/805/20230101/fr/xml/image/image3.png)</sub>
 
 <sup>4bis</sup> En cas de compensation de primes encaissées en trop au sens de l’art. 17 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^3-1], il déduit 7,5 % de la part qui revient à chaque canton au sens de l’al. 4. Le Département fédéral de l’intérieur peut définir comment la déduction est calculée.[^3-2]
 
 <sup>5</sup> Il publie, chaque année en octobre, la répartition des subsides fédéraux entre les cantons pour l’année suivante.
 
-[^3-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^3-2]: Introduit par le ch. 5 de l’annexe à l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^3-1]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^3-2]: Introduit par l’annexe ch. 5 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 4
 
@@ -131,7 +132,7 @@ Les subsides fédéraux sont versés en trois tranches durant l’année en cour
 
 <sup>2</sup> L’OFSP s’assure, au sens de l’art. 25 de la loi du 5 octobre 1990 sur les subventions (LSu)[^6-1], que les subsides fédéraux sont utilisés conformément à la loi.
 
-[^6-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^6-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 7
 
@@ -141,7 +142,7 @@ Les subsides fédéraux sont versés en trois tranches durant l’année en cour
 
 <sup>2</sup> Si un décompte est incomplet ou présente des inexactitudes, ou si les dispositions de la LAMal, de la présente ordonnance ou des instructions y relatives n’ont pas été respectées, la restitution d’une partie des subsides peut être exigée ou ceux-ci peuvent être réduits selon l’art. 28, al. 2, LSu jusqu’à ce que la situation soit régularisée.
 
-[^7-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^7-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 8
 
