@@ -3,28 +3,28 @@ canton: BE
 number: "873.111.2"
 title: "Tarif des primes de l'assurance immobilière"
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-03
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-02
 adopted: 2014-11-20
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/873.111.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2646/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2744/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Tarif des primes de l'assurance immobilière
 
-du 20.11.2014 (état au 01.01.2022)
+du 20.11.2014 (état au 01.01.2023)
 
-L’Assurance immobilière du canton de Berne (AIB),
+L’Assurance immobilière Berne (AIB),
 
 vu l’article 15 de la loi du 9 juin 2010 sur l’assurance immobilière (LAIm)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: RSB 873.11
+[^ingress-1]: RSB [873.11](https://www.belex.sites.be.ch/data/873.11/fr)
 
 ## 1 Dispositions générales
 
@@ -152,7 +152,7 @@ arrête:
 
 **lndice des coûts de construction**
 
-<sup>1</sup> Le présent Tarif se base sur un indice des coûts de construction de 194 points.
+<sup>1</sup> Le présent Tarif se base sur un indice des coûts de construction de 214 points.
 
 <sup>2</sup> L'AIB peut adapter le présent Tarif en fonction de la modification de I'indice des coûts de construction.
 

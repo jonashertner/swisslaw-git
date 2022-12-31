@@ -3,28 +3,28 @@ canton: BE
 number: "873.111.2"
 title: Prämientarif der Gebäudeversicherung
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-03
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-02
 adopted: 2014-11-20
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/873.111.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2646/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2744/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Prämientarif der Gebäudeversicherung
 
-vom 20.11.2014 (Stand 01.01.2022)
+vom 20.11.2014 (Stand 01.01.2023)
 
-Die Gebäudeversicherung des Kantons Bern (GVB),
+Die Gebäudeversicherung Bern (GVB),
 
 gestützt auf Artikel 15 des Gesetzes vom 9. Juni 2010 über die Gebäudeversicherung (GVG)[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: BSG 873.11
+[^ingress-1]: BSG [873.11](https://www.belex.sites.be.ch/data/873.11/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -76,9 +76,9 @@ beschliesst:
 
 #### Art. 5
 
-**Bauversicherung**
+**Bauzeitversicherung**
 
-<sup>1</sup> Der Prämiensatz für die Bauversicherung beträgt 2/3 des ordentlichen Satzes. Als Basis für die Prämienberechnung dient die Bausumme (Anhang 6).
+<sup>1</sup> Der Prämiensatz für die Bauzeitversicherung beträgt 2/3 des ordentlichen Satzes. Als Basis für die Prämienberechnung dient die Bausumme (Anhang 6).
 
 ## 2 Besondere Bestimmungen
 
@@ -152,7 +152,7 @@ beschliesst:
 
 **Baukostenindex**
 
-<sup>1</sup> Der vorliegende Tarif basiert auf einem Baukostenindex von 194 Punkten.
+<sup>1</sup> Der vorliegende Tarif basiert auf einem Baukostenindex von 214 Punkten.
 
 <sup>2</sup> Die GVB kann diesen Tarif der Veränderung des Baukostenindexes entsprechend anpassen.
 
