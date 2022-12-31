@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieill
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20220101/fr"
 
 (LPP)
 
-du 25 juin 1982 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 juin 1982 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -47,7 +47,7 @@ arrête:
 
 **Assurance obligatoire des salariés et des chômeurs**[^2-1]
 
-<sup>1</sup> Sont soumis à l’assurance obligatoire les salariés qui ont plus de 17 ans et reçoivent d’un même employeur un salaire annuel supérieur à 21 510 francs[^2-2] (art. 7).
+<sup>1</sup> Sont soumis à l’assurance obligatoire les salariés qui ont plus de 17 ans et reçoivent d’un même employeur un salaire annuel supérieur à 22 050 francs[^2-2] (art. 7).
 
 <sup>2</sup> Si le salarié est occupé par un employeur pendant moins d’une année, est considéré comme salaire annuel celui qu’il obtiendrait s’il était occupé toute l’année.
 
@@ -56,7 +56,7 @@ arrête:
 <sup>4</sup> Le Conseil fédéral règle l’assujettissement à l’assurance des salariés qui exercent des professions où les engagements changent fréquemment ou sont temporaires. Il définit les catégories de salariés qui, pour des motifs particuliers, ne sont pas soumis à l’assurance obligatoire.
 
 [^2-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^2-2]: Montant selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^2-2]: Montant selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 
 #### Art. 3
 
@@ -107,11 +107,11 @@ La deuxième partie de la présente loi fixe des exigences minimales.
 
 **Salaire et âge minima**
 
-<sup>1</sup> Les salariés auxquels un même employeur verse un salaire annuel supérieur à 21 510 francs[^7-1] sont soumis à l’assurance obligatoire pour les risques de décès et d’invalidité dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 17 ans et, pour la vieillesse, dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 24 ans.[^7-2]
+<sup>1</sup> Les salariés auxquels un même employeur verse un salaire annuel supérieur à 22 050 francs[^7-1] sont soumis à l’assurance obligatoire pour les risques de décès et d’invalidité dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 17 ans et, pour la vieillesse, dès le 1<sup>er</sup> janvier qui suit la date à laquelle ils ont eu 24 ans.[^7-2]
 
 <sup>2</sup> Est pris en considération le salaire déterminant au sens de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^7-3]. Le Conseil fédéral peut admettre des dérogations.
 
-[^7-1]: Montant selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^7-1]: Montant selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^7-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^7-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -119,18 +119,18 @@ La deuxième partie de la présente loi fixe des exigences minimales.
 
 **Salaire coordonné**
 
-<sup>1</sup> La partie du salaire annuel comprise entre 25 095 et 86 040 francs[^8-1] doit être assurée. Cette partie du salaire est appelée «salaire coordonné».[^8-2]
+<sup>1</sup> La partie du salaire annuel comprise entre 25 725 et 88 200 francs[^8-1] doit être assurée. Cette partie du salaire est appelée «salaire coordonné».[^8-2]
 
-<sup>2</sup> Si le salaire coordonné n’atteint pas 3585 francs[^8-3] par an, il est arrondi à ce montant.[^8-4]
+<sup>2</sup> Si le salaire coordonné n’atteint pas 3675 francs[^8-3] par an, il est arrondi à ce montant.[^8-4]
 
-<sup>3</sup> Si le salaire annuel diminue temporairement par suite de maladie, d’accident, de chômage, de maternité, de paternité ou d’autres circonstances semblables, le salaire coordonné est maintenu au moins pour la durée de l’obligation légale de l’employeur de verser le salaire selon l’art. 324*a* du code des obligations (CO)[^8-5], du congé de maternité au sens de l’art. 329*f* CO, du congé de paternité au sens de l’art. 329*g* CO ou du congé de prise en charge au sens de l’art. 329*i* CO.[^8-6] La personne assurée peut toutefois demander la réduction du salaire coordonné.[^8-7]
+<sup>3</sup> Si le salaire annuel diminue temporairement par suite de maladie, d’accident, de chômage, de maternité, de paternité, d’adoption ou d’autres circonstances semblables, le salaire coordonné est maintenu au moins pour la durée de l’obligation légale de l’employeur de verser le salaire prévue à l’art. 324*a* du code des obligations (CO)[^8-5], du congé de maternité prévu à l’art. 329*f* CO, du congé de paternité prévu à l’art. 329*g* CO, du congé de prise en charge prévu à l’art. 329*i* CO, ou du congé d’adoption prévu à l’art. 329*j* CO.[^8-6] La personne assurée peut toutefois demander la réduction du salaire coordonné.[^8-7]
 
-[^8-1]: Montants selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^8-1]: Montants selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^8-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^8-3]: Montant selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^8-3]: Montant selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^8-4]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-6]: Nouvelle teneur selon le ch. II 2 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^8-6]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^8-7]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 9
@@ -452,7 +452,7 @@ L’avoir de vieillesse déterminant pour le calcul comprend:
 <sup>4</sup> Pour un taux d’invalidité au sens de l’AI inférieur à 50 %, la quotité de la rente est la suivante:
 
 <table>
-<tr><td>Taux d’invalidité</td><td>Quotité de la rente</td></tr>
+<tr><th>Taux d’invalidité</th><th>Quotité de la rente</th></tr>
 <tr><td>49 %</td><td>47,5 %</td></tr>
 <tr><td>48 %</td><td>45 %</td></tr>
 <tr><td>47 %</td><td>42,5 %</td></tr>
@@ -527,13 +527,13 @@ Dès qu’elle a connaissance de la décision de l’office AI de suspendre à t
 [^26b-1]: Introduit par l’annexe ch. 4 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^26b-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-### Chapitre 4 Prestation de libre passage et encouragement à la propriété du logement****
+### Chapitre 4 Prestation de libre passage et encouragement à la propriété du logement
 
 [^part2-tit1-chap4-1]
 
 [^part2-tit1-chap4-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1993 sur l’encouragement à la propriété du logement au moyen de la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [FF 1992 VI 229](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 
-### Section 1**** Prestation de libre passage
+### Section 1 Prestation de libre passage
 
 [^part2-tit1-chap4-sec1-1]
 
@@ -554,7 +554,7 @@ La LFLP[^27-2] est applicable pour la prestation de libre passage.
 
 [^2830-1]: Abrogés par l’annexe ch. 3 de la L du 17 déc. 1993 sur le libre passage, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 
-### Section 2**** Encouragement à la propriété du logement
+### Section 2 Encouragement à la propriété du logement
 
 [^part2-tit1-chap4-sec2-1]
 
@@ -704,7 +704,7 @@ Font partie de la génération d’entrée les personnes qui, lors de l’entré
 
 [^33-1]: Abrogé par le ch. I de la LF du 19 mars 2010 (Réforme structurelle), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
-### Chapitre 5*a***** Participation facilitée des travailleurs âgés au marché de l’emploi
+### Chapitre 5*a* Participation facilitée des travailleurs âgés au marché de l’emploi
 
 [^part2-tit1-chap5a-1]
 
@@ -957,7 +957,7 @@ Lorsque l’assurance obligatoire couvre la vieillesse, le décès et l’invali
 
 **Activité lucrative au service de plusieurs employeurs**
 
-<sup>1</sup> Tout salarié au service de plusieurs employeurs, dont le salaire annuel total dépasse 21 510 francs[^46-1], peut, s’il n’est pas déjà obligatoirement assuré, se faire assurer à titre facultatif auprès de l’institution supplétive ou de l’institution de prévoyance à laquelle est affilié l’un de ses employeurs, si les dispositions réglementaires de celle-ci le prévoient.[^46-2]
+<sup>1</sup> Tout salarié au service de plusieurs employeurs, dont le salaire annuel total dépasse 22 050 francs[^46-1], peut, s’il n’est pas déjà obligatoirement assuré, se faire assurer à titre facultatif auprès de l’institution supplétive ou de l’institution de prévoyance à laquelle est affilié l’un de ses employeurs, si les dispositions réglementaires de celle-ci le prévoient.[^46-2]
 
 <sup>2</sup> Lorsqu’il est déjà assuré obligatoirement auprès d’une institution de prévoyance, le salarié peut contracter auprès d’elle, si les dispositions réglementaires ne s’y opposent pas, ou auprès de l’institution supplétive, une assurance complémentaire pour le salaire versé par les autres employeurs.
 
@@ -965,7 +965,7 @@ Lorsque l’assurance obligatoire couvre la vieillesse, le décès et l’invali
 
 <sup>4</sup> À la demande du salarié, l’institution de prévoyance se chargera de recouvrer les créances auprès des employeurs.
 
-[^46-1]: Montant selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^46-1]: Montant selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^46-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 47
@@ -1063,13 +1063,13 @@ Lorsqu’une institution de prévoyance étend la prévoyance au-delà des prest
 - 18\. les réserves (art. 65*b*);
 - 19\. les contrats d’assurance entre institutions de prévoyance et institutions d’assurance (art. 68, al. 3 et 4);
 - 20\. la participation aux excédents résultant des contrats d’assurance (art. 68*a*);
-- 21\. l’administration de la fortune (art. 71);
+- 21\.[^49-19] l’administration de la fortune (art. 71) et l’obligation de voter en qualité d’actionnaire (art. 71*a* et 71*b*);
 - 22\. le contentieux (art. 73 et 74);
 - 23\. les dispositions pénales (art. 75 à 79);
 - 24\. le rachat (art. 79*b*);
 - 25\. le salaire et le revenu assurable (art. 79*c*);
-- [tab] 25*a*.[^49-19] le traitement des données en vue d’attribuer ou de vérifier le numéro AVS (art. 85*a*, let. f);
-- [tab] 25*b*.[^49-20] la communication de données en vue d’attribuer ou de vérifier le numéro AVS (art. 86*a*, al. 2, let. b<sup>bis</sup>);
+- [tab] 25*a*.[^49-20] le traitement des données en vue d’attribuer ou de vérifier le numéro AVS (art. 85*a*, let. f);
+- [tab] 25*b*.[^49-21] la communication de données en vue d’attribuer ou de vérifier le numéro AVS (art. 86*a*, al. 2, let. b<sup>bis</sup>);
 - 26\. l’information des assurés (art. 86*b*).
 
 [^49-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> avr. 2004 pour l’al. 2 ch. 7 à 9, 12 à 14, 16 (à l’exception de l’art. 66, al. 4), 17, 19 à 23 et 26, depuis le 1<sup>er</sup> janv. 2005 pour les al. 1 et 2 ch. 3 à 6, 10, 11, 15, 16 (art. 66 al. 4), 18, depuis le 1<sup>er</sup> janv. 2006 pour l’al. 2 ch. 1, 24 et 25 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
@@ -1090,8 +1090,9 @@ Lorsqu’une institution de prévoyance étend la prévoyance au-delà des prest
 [^49-16]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-17]: Abrogé par le ch. I de la LF du 19 mars 2010 (Réforme structurelle), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-18]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2010 (Financement des institutions de prévoyance de corporations de droit public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7619](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^49-19]: Introduit par l’annexe ch. 9 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-19]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^49-20]: Introduit par l’annexe ch. 9 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-21]: Introduit par l’annexe ch. 9 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 50
 
@@ -1420,7 +1421,7 @@ Sont considérées comme des modifications substantielles du contrat d’affilia
 
 [^53f-1]: Introduit par le ch. I de la LF du 20 déc. 2006 (Changement d’institution de prévoyance), en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5571](https://fedlex.data.admin.ch/eli/fga/2005/954)[5583](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 
-### Titre 2**** Fondations de placement
+### Titre 2 Fondations de placement
 
 [^part3-tit2-1]
 
@@ -1491,7 +1492,7 @@ Le Conseil fédéral édicte des dispositions:
 
 [^53k-1]: Rectifiée par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
-### Titre 3 Fonds de garantie et institution supplétive****
+### Titre 3 Fonds de garantie et institution supplétive
 
 [^part3-tit3-1]
 
@@ -1691,13 +1692,13 @@ Elle est tenue:
 
 [^60b-1]: Introduit par le ch. I de la LF du 25 sept. 2020, en vigueur du 26 sept. 2020 au 25 sept. 2023 ([RO 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [FF 2020 6135](https://fedlex.data.admin.ch/eli/fga/2020/1553)).
 
-### Titre 4 Surveillance et haute surveillance****
+### Titre 4 Surveillance et haute surveillance
 
 [^part3-tit4-1]
 
 [^part3-tit4-1]: Anciennement tit. 3. Nouvelle teneur selon le ch. I de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
-### Chapitre 1 Surveillance****
+### Chapitre 1 Surveillance
 
 [^part3-tit4-chap1-1]
 
@@ -1779,7 +1780,7 @@ L’autorité de surveillance peut au besoin:
 
 [^63a-1]: Introduit par le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP; [RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)). Abrogé par le ch. I de la LF du 19 mars 2010 (Réforme structurelle), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
-### Chapitre 2 Haute surveillance****
+### Chapitre 2 Haute surveillance
 
 [^part3-tit4-chap2-1]
 
@@ -1860,7 +1861,7 @@ La taxe annuelle de surveillance est perçue:
 
 ## Partie 4 Financement des institutions de prévoyance
 
-### Titre 1 Dispositions générales****
+### Titre 1 Dispositions générales
 
 [^part4-tit1-1]
 
@@ -1901,13 +1902,14 @@ La transparence implique que:
 - c. l’organe paritaire de l’institution de prévoyance soit en mesure d’assumer ses tâches de gestion;
 - d. les obligations d’informations à l’égard des assurés puissent être exécutées.
 
-<sup>3</sup> Les institutions de prévoyance doivent être en mesure de fournir des informations sur le rendement du capital, l’évolution du risque actuariel, les frais d’administration, les principes du calcul du capital de couverture, les provisions supplémentaires et le degré de couverture.
+<sup>3</sup> Les institutions de prévoyance doivent être en mesure de fournir des informations sur le rendement du capital, l’évolution du risque actuariel, les frais d’administration, les principes du calcul du capital de couverture, les provisions supplémentaires, le degré de couverture et les principes régissant l’exercice du droit de vote de l’institution en sa qualité d’actionnaire (art. 71*a*).[^65a-2]
 
 <sup>4</sup> Le Conseil fédéral édicte des dispositions sur la manière dont cette information doit être étendue, sans dépenses excessives à la caisse de pensions affiliée.
 
 <sup>5</sup> Le Conseil fédéral édicte des dispositions concernant la manière dont la transparence doit être appliquée. Il édicte à cet effet des prescriptions comptables et définit les exigences pour la transparence des coûts et des rendements.
 
 [^65a-1]: Introduit par le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^65a-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 65b
 
@@ -2054,6 +2056,37 @@ Il ne peut être dérogé à l’al. 1 que:
 
 [^71-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
+#### Art. 71a
+
+**Obligation de voter en qualité d’actionnaire**[^71a-1]
+
+<sup>1</sup>
+
+Pour les propositions inscrites à l’ordre du jour concernant les points ci-après, les institutions de prévoyance exercent les droits de vote liés aux actions qu’elles détiennent dans des sociétés anonymes au sens des art. 620 à 762 du code des obligations[^71a-2] dont les actions sont cotées en bourse:
+
+- a. élection des membres du conseil d’administration, du président du conseil d’administration, des membres du comité de rémunération et du représentant indépendant;
+- b. dispositions statutaires selon l’art. 626, al. 2, du code des obligations;
+- c. dispositions statutaires et votes conformément aux dispositions des art. 732 à 735*d* du code des obligations.
+
+<sup>2</sup> Elles votent dans l’intérêt des assurés. L’intérêt des assurés est réputé respecté lorsque le vote assure la prospérité à long terme de l’institution de prévoyance.
+
+<sup>3</sup> Elles peuvent s’abstenir à condition que ce soit dans l’intérêt des assurés.
+
+<sup>4</sup> L’organe suprême de l’institution fixe dans un règlement les principes qui précisent l’intérêt de ses assurés en relation avec l’exercice du droit de vote.
+
+[^71a-1]: Introduit par l’annexe ch. 10 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^71a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 71b
+
+**Obligation de faire rapport et de communiquer sur l’exercice de l’obligation de voter en qualité d’actionnaire**[^71b-1]
+
+<sup>1</sup> Les institutions de prévoyance informent leurs assurés une fois par an au moins dans un rapport synthétique de la manière dont elles ont rempli leur obligation de voter.
+
+<sup>2</sup> Lorsqu’elles ne suivent pas les propositions du conseil d’administration de la société anonyme ou s’abstiennent, elles doivent le communiquer de manière détaillée.
+
+[^71b-1]: Introduit par l’annexe ch. 10 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 #### Art. 72
 
 **Financement de l’institution supplétive**
@@ -2067,7 +2100,7 @@ Il ne peut être dérogé à l’al. 1 que:
 [^72-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 [^72-2]: Introduit par l’annexe ch. 3 de la L du 17 déc. 1993 sur le libre passage ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)). Nouvelle teneur selon le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [FF 1996 I 516](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)533).
 
-### Titre 2**** Financement des institutions de prévoyance de corporations de droit public en capitalisation partielle
+### Titre 2 Financement des institutions de prévoyance de corporations de droit public en capitalisation partielle
 
 [^part4-tit2-1]
 
@@ -2189,7 +2222,7 @@ Chaque canton désigne un tribunal qui connaît, en dernière instance cantonale
 [^74-2]: Introduit par le ch. I de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^74-3]: Introduit par le ch. I de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
-### Titre 2 Dispositions pénales****
+### Titre 2 Dispositions pénales
 
 [^part5-tit2-1]
 
@@ -2214,29 +2247,25 @@ sera puni des arrêts ou d’une amende de 10 000 francs au plus, à moins qu’
 
 #### Art. 76
 
-**Délits**
+**Délits**[^76-1]
 
-Celui qui, par des indications fausses ou incomplètes, ou de toute autre manière, aura obtenu de l’institution de prévoyance ou du fonds de garantie, pour lui-même ou pour autrui, une prestation qui ne lui revient pas,
+<sup>1</sup>
 
-celui qui, par des indications fausses ou incomplètes, ou de toute autre manière, aura éludé l’obligation de payer des cotisations ou des contributions à une institution de prévoyance ou au fonds de garantie,
+À moins qu’il ne s’agisse d’un délit ou d’un crime frappé d’une peine plus lourde par le code pénal[^76-2], est puni d’une peine pécuniaire de 180 jours-amende au plus, celui qui:
 
-celui qui, en sa qualité d’employeur, aura déduit des cotisations du salaire d’un travailleur sans les affecter au but auquel elles étaient destinées,[^76-1]
+- a. par des indications fausses ou incomplètes, ou de toute autre manière, a obtenu de l’institution de prévoyance ou du fonds de garantie, pour lui-même ou pour autrui, une prestation qui ne lui revient pas;
+- b. par des indications fausses ou incomplètes, ou de toute autre manière, a éludé l’obligation de payer des cotisations ou des contributions à une institution de prévoyance ou au fonds de garantie;
+- c. en sa qualité d’employeur, a déduit des cotisations du salaire d’un travailleur sans les affecter au but auquel elles étaient destinées;
+- d. n’a pas observé l’obligation de garder le secret ou a, dans l’application de la présente loi, abusé de sa fonction en tant qu’organe, fonctionnaire ou employé, au détriment de tiers ou à son propre profit;
+- e. en tant que titulaire ou membre d’un organe de révision, ou en tant qu’expert agréé en matière de prévoyance professionnelle, a gravement enfreint les obligations légales qui lui incombent;
+- f. a mené des affaires non autorisées pour son propre compte, a contrevenu à l’obligation de déclarer en fournissant des indications inexactes ou incomplètes, ou a desservi grossièrement de toute autre manière les intérêts de l’institution de prévoyance;
+- g. n’a pas communiqué les avantages financiers ou les rétrocessions liés à l’administration de la fortune ou les a gardés pour lui, à moins qu’ils ne soient indiqués expressément à titre d’indemnité et chiffrés dans le contrat d’administration de la fortune, ou
+- h. en tant que membre de l’organe suprême ou chargé de la gestion d’une institution de prévoyance soumise aux art. 71*a* et 71*b*, a violé l’obligation de voter ou l’obligation de communiquer prévues par ces articles.
 
-celui qui n’aura pas observé l’obligation de garder le secret ou aura, dans l’application de la présente loi, abusé de sa fonction en tant qu’organe, fonctionnaire ou employé, au détriment de tiers ou à son propre profit,
+<sup>2</sup> Si l’auteur n’a fait que s’accommoder de l’éventualité de la réalisation d’une infraction selon l’al. 1, let. h, il n’est pas punissable au sens de ladite disposition.
 
-celui qui, en tant que titulaire ou membre d’un organe de contrôle, ou en tant qu’expert agréé en matière de prévoyance professionnelle, aura gravement enfreint les obligations qui lui incombent en vertu de l’art. 53,
-
-celui qui aura mené des affaires non autorisées pour son propre compte, aura contrevenu à l’obligation de déclarer en fournissant des indications inexactes ou incomplètes, ou desservi grossièrement de toute autre manière les intérêts de l’institution de prévoyance,[^76-2]
-
-celui qui n’aura pas communiqué les avantages financiers ou les rétrocessions liés à l’administration de la fortune ou les aura gardés pour lui, à moins qu’ils ne soient indiqués expressément à titre d’indemnité et chiffrés dans le contrat d’administration de la fortune,[^76-3]
-
-sera puni, à moins qu’il ne s’agisse d’un délit ou d’un crime frappé d’une peine plus lourde par le code pénal[^76-4], de l’emprisonnement pour six mois au plus ou d’une amende de 30 000 francs au plus.[^76-5]
-
-[^76-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^76-2]: Introduit par le ch. I de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^76-3]: Introduit par le ch. I de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^76-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^76-5]: Nouvelle teneur de la phrase selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^76-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^76-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 77
 
@@ -2271,13 +2300,13 @@ La poursuite et le jugement des infractions incombent aux cantons.
 [^79-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^79-2]: Nouvelle teneur selon l’annexe ch. 109 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Partie 6 Étendue des prestations, dispositions d’ordre fiscal et dispositions spéciales****
+## Partie 6 Étendue des prestations, dispositions d’ordre fiscal et dispositions spéciales
 
 [^part6-1]
 
 [^part6-1]: Nouvelle teneur selon le ch. I 10 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 
-### Titre 1 Étendue des prestations****
+### Titre 1 Étendue des prestations
 
 [^part6-tit1-1]
 
@@ -2315,7 +2344,7 @@ Le salaire assurable du salarié ou le revenu assurable de l’indépendant selo
 
 [^79c-1]: Introduit par le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
-### Titre 2 Dispositions d’ordre fiscal en matière de prévoyance****
+### Titre 2 Dispositions d’ordre fiscal en matière de prévoyance
 
 [^part6-tit2-1]
 
@@ -2355,11 +2384,22 @@ Les contributions des bénéficiaires de rente destinées à résorber un décou
 
 #### Art. 82
 
-**Traitement équivalent d’autres formes de prévoyance**
+**Traitement équivalent d’autres formes de prévoyance**[^82-1]
 
-<sup>1</sup> Les salariés et les indépendants peuvent également déduire les cotisations affectées exclusivement et irrévocablement à d’autres formes reconnues de prévoyance assimilées à la prévoyance professionnelle.
+<sup>1</sup>
 
-<sup>2</sup> Le Conseil fédéral détermine, avec la collaboration des cantons, quelles formes de prévoyance peuvent être prises en considération et décide dans quelle mesure de telles déductions seront admises pour les cotisations.
+Les salariés et les indépendants peuvent également déduire les cotisations affectées exclusivement et irrévocablement aux formes reconnues de prévoyance assimilées à la prévoyance professionnelle. Sont considérées comme telles:
+
+- a. la prévoyance individuelle liée auprès d’un établissement d’assurances;
+- b. la prévoyance individuelle liée auprès d’une fondation bancaire.
+
+<sup>2</sup> Le Conseil fédéral détermine, avec la collaboration des cantons, dans quelle mesure les déductions visées à l’al. 1 sont admises.
+
+<sup>3</sup> Il fixe les modalités des formes reconnues de prévoyance, en particulier le cercle et l’ordre des bénéficiaires. Il détermine dans quelle mesure le preneur de prévoyance peut modifier l’ordre des bénéficiaires et préciser leurs droits; les dispositions prises par le preneur de prévoyance doivent revêtir la forme écrite.
+
+<sup>4</sup> Les bénéficiaires d’une forme reconnue de prévoyance disposent d’un droit propre à la prestation que cette forme de prévoyance leur attribue. L’établissement d’assurances ou la fondation bancaire verse la prestation aux bénéficiaires.
+
+[^82-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 #### Art. 83
 
@@ -2389,7 +2429,7 @@ Les prestations fournies par des institutions de prévoyance et selon des formes
 
 Avant d’être devenues exigibles, les prétentions envers des institutions de prévoyance et d’autres formes de prévoyance visées aux art. 80 et 82 sont exonérées des impôts directs de la Confédération, des cantons et des communes.
 
-### Titre 3 Dispositions spéciales****
+### Titre 3 Dispositions spéciales
 
 [^part6-tit3-1]
 
@@ -2518,15 +2558,18 @@ L’institution de prévoyance renseigne chaque année ses assurés de manière 
 
 - a. leurs droits aux prestations, le salaire coordonné, le taux de cotisation et l’avoir de vieillesse;
 - b. l’organisation et le financement;
-- c. les membres de l’organe paritaire selon l’art. 51.
+- c. les membres de l’organe paritaire selon l’art. 51;
+- d.[^86b-2] l’exercice de l’obligation de voter en qualité d’actionnaire visée à l’art. 71*b*.
 
-<sup>2</sup> Les assurés peuvent demander la remise des comptes annuels et du rapport annuel. L’institution de prévoyance doit en outre informer les assurés qui le demandent sur le rendement du capital, l’évolution du risque actuariel, les frais d’administration, les principes de calcul du capital de couverture, les provisions supplémentaires et le degré de couverture.
+<sup>2</sup> Les assurés peuvent demander la remise des comptes annuels et du rapport annuel. L’institution de prévoyance doit en outre informer les assurés qui le demandent sur le rendement du capital, l’évolution du risque actuariel, les frais d’administration, les principes de calcul du capital de couverture, les provisions supplémentaires, le degré de couverture et les principes régissant l’exercice de l’obligation de voter incombant à l’institution en sa qualité d’actionnaire (art. 71*a*).[^86b-3]
 
 <sup>3</sup> Les institutions de prévoyance collectives ou communes doivent informer l’organe paritaire, sur demande, des cotisations non transférées par l’employeur. L’institution de prévoyance doit informer d’office l’organe paritaire lorsque les cotisations réglementaires n’ont pas été transférées dans les trois mois suivant le terme d’échéance convenu.
 
 <sup>4</sup> L’art. 75 est applicable.
 
 [^86b-1]: Introduit par le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 et depuis le 1<sup>er</sup> avr. 2004 pour l’al. 2 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^86b-2]: Introduite par l’annexe ch. 10 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^86b-3]: Nouvelle teneur de la phrase selon l’annexe ch. 10 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 87
 
@@ -2561,7 +2604,7 @@ Lorsque des institutions de prévoyance découvrent dans l’exercice de leurs f
 
 [^89-1]: Abrogé par l’annexe ch. 10 de la L du 9 oct. 1992 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> août 1993 ([RO 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [FF 1992 I 353](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
 
-## Partie 7**** Coordination internationale****
+## Partie 7 Coordination internationale
 
 [^part7-1][^part7-2]
 
@@ -2640,7 +2683,7 @@ Les art. 32, al. 3, et 75*a* à 75*c* LPGA[^89e-2] s’appliquent à la prévoya
 [^89e-1]: Introduit par l’annexe ch. 4 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^89e-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Partie 8 Dispositions finales****
+## Partie 8 Dispositions finales
 
 [^part8-1]
 
@@ -2738,13 +2781,13 @@ L’art. 83 n’est pas applicable aux rentes et prestations en capital fournies
 
 [^98-1]: Art. 1 de l’O du 29 juin 1983
 
-## Dispositions transitoires de la modification du 21 juin 1996****
+## Dispositions transitoires de la modification du 21 juin 1996
 
 [^u1-1]
 
 [^u1-1]: [RO 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067). Abrogées par le ch. II 41 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Dispositions transitoires de la modification du 3 octobre 2003 (1<sup>re</sup> révision LPP)****
+## Dispositions transitoires de la modification du 3 octobre 2003 (1<sup>re</sup> révision LPP)
 
 [^u2-1]
 
@@ -2807,7 +2850,7 @@ Le Conseil fédéral adaptera le relèvement de l’âge ordinaire de la retrait
 [^u2-lvlf-1]: [RO 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797)
 [^u2-lvlf-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
-## Dispositions transitoires de la modification du 11 décembre 2009****
+## Dispositions transitoires de la modification du 11 décembre 2009
 
 [^u3-1]
 
@@ -2822,7 +2865,7 @@ Coordination de l’âge de la retraite
 [^u3-2]: Nouvelle version, premier message, [FF 2006 1917](https://fedlex.data.admin.ch/eli/fga/2006/191)
 [^u3-3]: [FF 2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)
 
-## Disposition transitoire relative à la modification du 19 mars 2010 (Réforme structurelle)****
+## Disposition transitoire relative à la modification du 19 mars 2010 (Réforme structurelle)
 
 [^u4-1]
 
@@ -2830,7 +2873,7 @@ Coordination de l’âge de la retraite
 
 Les institutions de prévoyance qui sont soumises à la surveillance de la Confédération au moment de l’entrée en vigueur de la présente modification peuvent le rester pendant trois ans au plus à compter de ladite entrée en vigueur.
 
-## Dispositions transitoires de la modification du 17 décembre 2010 (Financement des institutions de prévoyance de corporations de droit public)****
+## Dispositions transitoires de la modification du 17 décembre 2010 (Financement des institutions de prévoyance de corporations de droit public)
 
 [^u5-1]
 
@@ -2852,7 +2895,7 @@ Les institutions de prévoyance enregistrées ayant la forme juridique d’une c
 
 <sup>2</sup> Si le taux de couverture est inférieur à 60 % à partir du 1<sup>er</sup> janvier 2020 et à 75 % à partir du 1<sup>er</sup> janvier 2030, les corporations de droit public versent à leurs institutions de prévoyance, sur la différence, les intérêts prévus à l’art. 15, al. 2.
 
-## Disposition finale de la modification du 18 mars 2011 (6<sup>e</sup> révision de l’AI, premier volet)****
+## Disposition finale de la modification du 18 mars 2011 (6<sup>e</sup> révision de l’AI, premier volet)
 
 [^u6-1]
 
@@ -2865,13 +2908,13 @@ Si l’assurance-invalidité supprime ou réduit une rente d’invalidité en ap
 [^u6-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^u6-3]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-## Disposition transitoire relative à la modification du 22 mars 2019 (art. 47*a*)****
+## Disposition transitoire relative à la modification du 22 mars 2019 (art. 47*a*)
 
 [^u7-1]
 
 [^u7-1]: [RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111)[3835](https://fedlex.data.admin.ch/eli/oc/2020/711); [FF 2020 6363](https://fedlex.data.admin.ch/eli/fga/2020/1669)(en vigueur jusqu’au 31 déc. 2021)
 
-## Dispositions transitoires de la modification du 19 juin 2020 (Développement continu de l’AI)****
+## Dispositions transitoires de la modification du 19 juin 2020 (Développement continu de l’AI)
 
 [^u8-1]
 

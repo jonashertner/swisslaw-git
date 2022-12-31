@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlasse
 short: BVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20220101/de"
 
 (BVG)
 
-vom 25. Juni 1982 (Stand am 1. Januar 2022)
+vom 25. Juni 1982 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -37,7 +37,7 @@ beschliesst:
 
 <sup>1</sup> Berufliche Vorsorge umfasst alle Massnahmen auf kollektiver Basis, die den älteren Menschen, den Hinterbliebenen und Invaliden beim Eintreten eines Versicherungsfalles (Alter, Tod oder Invalidität) zusammen mit den Leistungen der eidgenössischen Alters-, Hinterlassenen- und Invalidenversicherung (AHV/IV) die Fortsetzung der gewohnten Lebenshaltung in angemessener Weise erlauben.
 
-<sup>2</sup> Der in der beruflichen Vorsorge versicherbare Lohn oder das versicherbare Einkommen der Selbständigerwerbenden darf das AHV-beitragspflichtige Einkommen nicht übersteigen.
+<sup>2</sup> Der in der beruflichen Vorsorge versicherbare Lohn oder das versicherbare Einkommen der Selbstständigerwerbenden darf das AHV-beitragspflichtige Einkommen nicht übersteigen.
 
 <sup>3</sup> Der Bundesrat präzisiert die Grundsätze der Angemessenheit, der Kollektivität, der Gleichbehandlung, der Planmässigkeit sowie des Versicherungsprinzips. Er kann ein Mindestalter für den vorzeitigen Altersrücktritt festlegen.
 
@@ -47,7 +47,7 @@ beschliesst:
 
 **Obligatorische Versicherung der Arbeitnehmer und der Arbeitslosen**[^2-1]
 
-<sup>1</sup> Arbeitnehmer, die das 17. Altersjahr überschritten haben und bei einem Arbeitgeber einen Jahreslohn von mehr als 21 510 Franken[^2-2] beziehen (Art. 7), unterstehen der obligatorischen Versicherung.
+<sup>1</sup> Arbeitnehmer, die das 17. Altersjahr überschritten haben und bei einem Arbeitgeber einen Jahreslohn von mehr als 22 050 Franken[^2-2] beziehen (Art. 7), unterstehen der obligatorischen Versicherung.
 
 <sup>2</sup> Ist der Arbeitnehmer weniger als ein Jahr lang bei einem Arbeitgeber beschäftigt, so gilt als Jahreslohn der Lohn, den er bei ganzjähriger Beschäftigung erzielen würde.
 
@@ -56,23 +56,23 @@ beschliesst:
 <sup>4</sup> Der Bundesrat regelt die Versicherungspflicht für Arbeitnehmer in Berufen mit häufig wechselnden oder befristeten Anstellungen. Er bestimmt, welche Arbeitnehmer aus besonderen Gründen nicht der obligatorischen Versicherung unterstellt sind.
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^2-2]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^2-2]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 
 #### Art. 3
 
-**Obligatorische Versicherung von Selbständigerwerbenden**
+**Obligatorische Versicherung von Selbstständigerwerbenden**
 
-Berufsgruppen von Selbständigerwerbenden können vom Bundesrat auf Antrag ihrer Berufsverbände der obligatorischen Versicherung allgemein oder für einzelne Risiken unterstellt werden. Voraussetzung ist, dass in den entsprechenden Berufen die Mehrheit der Selbständigerwerbenden dem Verband angehören.
+Berufsgruppen von Selbstständigerwerbenden können vom Bundesrat auf Antrag ihrer Berufsverbände der obligatorischen Versicherung allgemein oder für einzelne Risiken unterstellt werden. Voraussetzung ist, dass in den entsprechenden Berufen die Mehrheit der Selbstständigerwerbenden dem Verband angehören.
 
 #### Art. 4
 
 **Freiwillige Versicherung**
 
-<sup>1</sup> Arbeitnehmer und Selbständigerwerbende, die der obligatorischen Versicherung nicht unterstellt sind, können sich nach diesem Gesetz freiwillig versichern lassen.
+<sup>1</sup> Arbeitnehmer und Selbstständigerwerbende, die der obligatorischen Versicherung nicht unterstellt sind, können sich nach diesem Gesetz freiwillig versichern lassen.
 
 <sup>2</sup> Die Bestimmungen über die obligatorische Versicherung, insbesondere die in Artikel 8 festgesetzten Einkommensgrenzen, gelten sinngemäss für die freiwillige Versicherung.
 
-<sup>3</sup> Selbständigerwerbende haben ausserdem die Möglichkeit, sich ausschliesslich bei einer Vorsorgeeinrichtung im Bereich der weiter gehenden Vorsorge, insbesondere auch bei einer Vorsorgeeinrichtung, die nicht im Register für die berufliche Vorsorge eingetragen ist, zu versichern. In diesem Fall finden die Absätze 1 und 2 keine Anwendung.[^4-1]
+<sup>3</sup> Selbstständigerwerbende haben ausserdem die Möglichkeit, sich ausschliesslich bei einer Vorsorgeeinrichtung im Bereich der weiter gehenden Vorsorge, insbesondere auch bei einer Vorsorgeeinrichtung, die nicht im Register für die berufliche Vorsorge eingetragen ist, zu versichern. In diesem Fall finden die Absätze 1 und 2 keine Anwendung.[^4-1]
 
 <sup>4</sup> Die von den Selbstständigerwerbenden geleisteten Beiträge und Einlagen in die Vorsorgeeinrichtung müssen dauernd der beruflichen Vorsorge dienen.[^4-2]
 
@@ -107,11 +107,11 @@ Der zweite Teil dieses Gesetzes enthält Mindestvorschriften.
 
 **Mindestlohn und Alter**
 
-<sup>1</sup> Arbeitnehmer, die bei einem Arbeitgeber einen Jahreslohn von mehr als 21 510 Franken[^7-1] beziehen, unterstehen ab 1. Januar nach Vollendung des 17. Altersjahres für die Risiken Tod und Invalidität, ab 1. Januar nach Vollendung des 24. Altersjahres auch für das Alter der obligatorischen Versicherung.[^7-2]
+<sup>1</sup> Arbeitnehmer, die bei einem Arbeitgeber einen Jahreslohn von mehr als 22 050 Franken[^7-1] beziehen, unterstehen ab 1. Januar nach Vollendung des 17. Altersjahres für die Risiken Tod und Invalidität, ab 1. Januar nach Vollendung des 24. Altersjahres auch für das Alter der obligatorischen Versicherung.[^7-2]
 
 <sup>2</sup> Dieser Lohn entspricht dem massgebenden Lohn nach dem Bundesgesetz vom 20. Dezember 1946[^7-3] über die Alters- und Hinterlassenenversicherung (AHVG). Der Bundesrat kann Abweichungen zulassen.
 
-[^7-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^7-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^7-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^7-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -119,18 +119,18 @@ Der zweite Teil dieses Gesetzes enthält Mindestvorschriften.
 
 **Koordinierter Lohn**
 
-<sup>1</sup> Zu versichern ist der Teil des Jahreslohnes von 25 095 bis und mit 86 040 Franken[^8-1]. Dieser Teil wird koordinierter Lohn genannt.[^8-2]
+<sup>1</sup> Zu versichern ist der Teil des Jahreslohnes von 25 725 bis und mit 88 200 Franken[^8-1]. Dieser Teil wird koordinierter Lohn genannt.[^8-2]
 
-<sup>2</sup> Beträgt der koordinierte Lohn weniger als 3585 Franken[^8-3] im Jahr, so muss er auf diesen Betrag aufgerundet werden.[^8-4]
+<sup>2</sup> Beträgt der koordinierte Lohn weniger als 3675 Franken[^8-3] im Jahr, so muss er auf diesen Betrag aufgerundet werden.[^8-4]
 
-<sup>3</sup> Sinkt der Jahreslohn vorübergehend wegen Krankheit, Unfall, Arbeitslosigkeit, Mutterschaft, Vaterschaft oder aus ähnlichen Gründen, so behält der bisherige koordinierte Lohn mindestens so lange Gültigkeit, als die Lohnfortzahlungspflicht des Arbeitgebers nach Artikel 324*a* des Obligationenrechts (OR)[^8-5] bestehen würde oder ein Mutterschaftsurlaub nach Artikel 329*f* OR, ein Vaterschaftsurlaub nach Artikel 329*g* OR oder ein Betreuungsurlaub nach Artikel 329*i* OR dauert.[^8-6] Die versicherte Person kann jedoch die Herabsetzung des koordinierten Lohnes verlangen.[^8-7]
+<sup>3</sup> Sinkt der Jahreslohn vorübergehend wegen Krankheit, Unfall, Arbeitslosigkeit, Mutterschaft, Vaterschaft, Adoption oder aus ähnlichen Gründen, so behält der bisherige koordinierte Lohn mindestens so lange Gültigkeit, als die Lohnfortzahlungspflicht des Arbeitgebers nach Artikel 324*a* des Obligationenrechts (OR)[^8-5] bestehen würde oder ein Mutterschaftsurlaub nach Artikel 329*f* OR, ein Vaterschaftsurlaub nach Artikel 329*g* OR, ein Betreuungsurlaub nach Artikel 329*i* OR oder ein Adoptionsurlaub nach Artikel 329*j* OR dauert.[^8-6] Die versicherte Person kann jedoch die Herabsetzung des koordinierten Lohnes verlangen.[^8-7]
 
-[^8-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^8-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^8-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^8-3]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^8-3]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^8-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-6]: Fassung gemäss Ziff. II 2 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^8-6]: Fassung gemäss Anhang Ziff. 2 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^8-7]: Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 9
@@ -529,13 +529,13 @@ Die Vorsorgeeinrichtung stellt ab dem Zeitpunkt, in dem sie Kenntnis darüber er
 [^26b-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^26b-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-### 4. Kapitel: Freizügigkeitsleistung und Wohneigentumsförderung****
+### 4. Kapitel: Freizügigkeitsleistung und Wohneigentumsförderung
 
 [^part2-tit1-chap4-1]
 
 [^part2-tit1-chap4-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1993 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, in Kraft seit 1. Jan. 1995 ([AS 1994 2372](https://fedlex.data.admin.ch/eli/oc/1994/2372_2372_2372); [BBl 1992 VI 237](https://fedlex.data.admin.ch/eli/fga/1992/6_237_229_209)).
 
-### 1. Abschnitt: Freizügigkeitsleistung****
+### 1. Abschnitt: Freizügigkeitsleistung
 
 [^part2-tit1-chap4-sec1-1]
 
@@ -556,7 +556,7 @@ Für die Freizügigkeitsleistung gilt das FZG[^27-2].
 
 [^2830-1]: Aufgehoben durch Anhang Ziff. 3 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 
-### 2. Abschnitt:**** Wohneigentumsförderung
+### 2. Abschnitt: Wohneigentumsförderung
 
 [^part2-tit1-chap4-sec2-1]
 
@@ -706,7 +706,7 @@ Der Eintrittsgeneration gehören die Personen an, die bei Inkrafttreten dieses G
 
 [^33-1]: Aufgehoben durch Ziff. I des BG vom 19. März 2010 (Strukturreform), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
-### 5*a*. Kapitel:**** Erleichterung der Arbeitsmarktbeteiligung älterer Arbeitnehmer
+### 5*a*. Kapitel: Erleichterung der Arbeitsmarktbeteiligung älterer Arbeitnehmer
 
 [^part2-tit1-chap5a-1]
 
@@ -880,7 +880,7 @@ Die Vorsorgeeinrichtung muss der Fachstelle den Eintritt der Fälligkeit folgend
 
 - a. Auszahlung der Leistung als einmalige Kapitalabfindung in der Höhe von mindestens 1000 Franken;
 - b. Barauszahlung nach Artikel 5 FZG[^40-3] in der Höhe von mindestens 1000 Franken;
-- c. Vorbezug zur Wohneigentumsförderung nach Artikel 30c des vorliegenden Gesetzes und nach Artikel 331e OR[^40-4].
+- c. Vorbezug zur Wohneigentumsförderung nach Artikel 30*c* des vorliegenden Gesetzes und nach Artikel 331*e* OR[^40-4].
 
 <sup>4</sup> Sie muss der Fachstelle auch die Verpfändung von Vorsorgeguthaben dieser Versicherten nach Artikel 30*b* sowie die Pfandverwertung dieses Guthabens melden.
 
@@ -917,13 +917,13 @@ Die Vorsorgeeinrichtung muss der Fachstelle den Eintritt der Fälligkeit folgend
 [^41-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^41-3]: [SR 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
 
-### Zweiter Titel: Obligatorische Versicherung der Selbständigerwerbenden
+### Zweiter Titel: Obligatorische Versicherung der Selbstständigerwerbenden
 
 #### Art. 42
 
 **Versicherung von Alter, Tod und Invalidität**
 
-Sind die Selbständigerwerbenden obligatorisch für Alter, Tod und Invalidität versichert, so sind die Bestimmungen über die obligatorische Versicherung der Arbeitnehmer sinngemäss anwendbar.
+Sind die Selbstständigerwerbenden obligatorisch für Alter, Tod und Invalidität versichert, so sind die Bestimmungen über die obligatorische Versicherung der Arbeitnehmer sinngemäss anwendbar.
 
 #### Art. 43
 
@@ -935,13 +935,13 @@ Sind die Selbständigerwerbenden obligatorisch für Alter, Tod und Invalidität 
 
 ### Dritter Titel: Freiwillige Versicherung
 
-### 1. Kapitel: Selbständigerwerbende
+### 1. Kapitel: Selbstständigerwerbende
 
 #### Art. 44
 
 **Recht auf Versicherung**
 
-<sup>1</sup> Selbständigerwerbende können sich bei der Vorsorgeeinrichtung ihres Berufes oder ihrer Arbeitnehmer versichern lassen.
+<sup>1</sup> Selbstständigerwerbende können sich bei der Vorsorgeeinrichtung ihres Berufes oder ihrer Arbeitnehmer versichern lassen.
 
 <sup>2</sup> Wer sich nicht bei einer Vorsorgeeinrichtung versichern lassen kann, ist berechtigt, sich bei der Auffangeinrichtung versichern zu lassen.
 
@@ -951,7 +951,7 @@ Sind die Selbständigerwerbenden obligatorisch für Alter, Tod und Invalidität 
 
 <sup>1</sup> Für die Risiken Tod und Invalidität darf ein Vorbehalt aus gesundheitlichen Gründen für höchstens drei Jahre gemacht werden.
 
-<sup>2</sup> Dieser Vorbehalt ist unzulässig, wenn der Selbständigerwerbende mindestens sechs Monate obligatorisch versichert war und sich innert Jahresfrist freiwillig versichert.
+<sup>2</sup> Dieser Vorbehalt ist unzulässig, wenn der Selbstständigerwerbende mindestens sechs Monate obligatorisch versichert war und sich innert Jahresfrist freiwillig versichert.
 
 ### 2. Kapitel: Arbeitnehmer
 
@@ -959,7 +959,7 @@ Sind die Selbständigerwerbenden obligatorisch für Alter, Tod und Invalidität 
 
 **Erwerbstätigkeit im Dienste mehrerer Arbeitgeber**
 
-<sup>1</sup> Der nicht obligatorisch versicherte Arbeitnehmer, der im Dienste mehrerer Arbeitgeber steht und dessen gesamter Jahreslohn 21 510 Franken[^46-1] übersteigt, kann sich entweder bei der Auffangeinrichtung oder bei der Vorsorgeeinrichtung, der einer seiner Arbeitgeber angeschlossen ist, freiwillig versichern lassen, sofern deren reglementarische Bestimmungen es vorsehen.[^46-2]
+<sup>1</sup> Der nicht obligatorisch versicherte Arbeitnehmer, der im Dienste mehrerer Arbeitgeber steht und dessen gesamter Jahreslohn 22 050 Franken[^46-1] übersteigt, kann sich entweder bei der Auffangeinrichtung oder bei der Vorsorgeeinrichtung, der einer seiner Arbeitgeber angeschlossen ist, freiwillig versichern lassen, sofern deren reglementarische Bestimmungen es vorsehen.[^46-2]
 
 <sup>2</sup> Ist der Arbeitnehmer bereits bei einer Vorsorgeeinrichtung obligatorisch versichert, kann er sich bei ihr, falls ihre reglementarischen Bestimmungen es nicht ausschliessen, oder bei der Auffangeinrichtung für den Lohn zusätzlich versichern lassen, den er von den anderen Arbeitgebern erhält.
 
@@ -967,7 +967,7 @@ Sind die Selbständigerwerbenden obligatorisch für Alter, Tod und Invalidität 
 
 <sup>4</sup> Die Vorsorgeeinrichtung übernimmt auf Begehren des Arbeitnehmers das Inkasso gegenüber den Arbeitgebern.
 
-[^46-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^46-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 [^46-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 47
@@ -1031,7 +1031,7 @@ Eine Vorsorgeeinrichtung wird aus dem Register gestrichen, wenn sie:
 
 #### Art. 49
 
-**Selbständigkeitsbereich**[^49-1]
+**Selbstständigkeitsbereich**[^49-1]
 
 <sup>1</sup> Die Vorsorgeeinrichtungen sind im Rahmen dieses Gesetzes in der Gestaltung ihrer Leistungen, in deren Finanzierung und in ihrer Organisation frei. Sie können im Reglement vorsehen, dass Leistungen, die über die gesetzlichen Mindestbestimmungen hinausgehen, nur bis zum Erreichen des Rentenalters ausgerichtet werden.
 
@@ -1065,13 +1065,13 @@ Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für
 - 18\. die Rückstellungen (Art. 65*b*);
 - 19\. die Versicherungsverträge zwischen Vorsorgeeinrichtungen und Versicherungseinrichtungen (Art. 68 Abs. 3 und 4);
 - 20\. die Überschussbeteiligungen aus Versicherungsverträgen (Art. 68*a*);
-- 21\. die Vermögensverwaltung (Art. 71);
+- 21\.[^49-19] die Vermögensverwaltung (Art. 71) und die Stimmpflicht als Aktionärin (Art. 71*a* und 71*b*);
 - 22\. die Rechtspflege (Art. 73 und 74);
 - 23\. die Strafbestimmungen (Art. 75–79);
 - 24\. den Einkauf (Art. 79*b*);
 - 25\. den versicherbaren Lohn und das versicherbare Einkommen (Art. 79*c*);
-- [tab] 25*a*.[^49-19] die Datenbearbeitung für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 85*a* Bst. f);
-- [tab] 25*b*.[^49-20] die Datenbekanntgabe für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
+- [tab] 25*a*.[^49-20] die Datenbearbeitung für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 85*a* Bst. f);
+- [tab] 25*b*.[^49-21] die Datenbekanntgabe für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
 - 26\. die Information der Versicherten (Art. 86*b*).
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), Abs. 2 Ziff. 7–9, 12–14, 16 (mit Ausnahme von Art. 66 Abs. 4), 17, 19-23 und 26 in Kraft seit 1. April 2004, Abs. 1 und 2 Ziff. 3–6, 10, 11, 15, 16 (Art. 66 Abs. 4) und 18 in Kraft seit 1. Jan. 2005, Abs. 2 Ziff. 1, 24 und 25 in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
@@ -1092,8 +1092,9 @@ Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für
 [^49-16]: Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-17]: Aufgehoben durch Ziff. I des BG vom 19. März 2010 (Strukturreform), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-18]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^49-19]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-19]: Fassung gemäss Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^49-20]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^49-21]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 50
 
@@ -1422,7 +1423,7 @@ Als wesentliche Änderung eines Anschlussvertrages oder Versicherungsvertrages n
 
 [^53f-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006 (Wechsel der Vorsorgeeinrichtung), in Kraft seit 1. Mai 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 
-### Zweiter Titel:**** Anlagestiftungen
+### Zweiter Titel: Anlagestiftungen
 
 [^part3-tit2-1]
 
@@ -1455,7 +1456,7 @@ Als wesentliche Änderung eines Anschlussvertrages oder Versicherungsvertrages n
 
 <sup>1</sup> Das Gesamtvermögen der Anlagestiftung umfasst das Stammvermögen und das Anlagevermögen. Die Anlegerversammlung erlässt Bestimmungen über die Anlagen dieser Vermögen. Die Statuten können bestimmen, dass diese Befugnis durch den Stiftungsrat ausgeübt wird.
 
-<sup>2</sup> Das Anlagevermögen besteht aus den von Anlegern zum Zwecke der gemeinsamen Vermögensanlage eingebrachten Geldern. Es bildet eine Anlagegruppe oder gliedert sich in mehrere Anlagegruppen. Die Anlagegruppen werden rechnerisch selbständig geführt und sind wirtschaftlich voneinander unabhängig.
+<sup>2</sup> Das Anlagevermögen besteht aus den von Anlegern zum Zwecke der gemeinsamen Vermögensanlage eingebrachten Geldern. Es bildet eine Anlagegruppe oder gliedert sich in mehrere Anlagegruppen. Die Anlagegruppen werden rechnerisch selbstständig geführt und sind wirtschaftlich voneinander unabhängig.
 
 <sup>3</sup> Eine Anlagegruppe besteht aus gleichen und nennwertlosen Ansprüchen eines oder mehrerer Anleger.
 
@@ -1491,7 +1492,7 @@ Der Bundesrat erlässt Bestimmungen über:
 - d. die Anlage, Buchführung, Rechnungslegung und Revision;
 - e. die Anlegerrechte.
 
-### Dritter Titel:**** Sicherheitsfonds und Auffangeinrichtung
+### Dritter Titel: Sicherheitsfonds und Auffangeinrichtung
 
 [^part3-tit3-1]
 
@@ -1606,9 +1607,9 @@ Die dem FZG[^57-2] unterstellten Vorsorgeeinrichtungen sind dem Sicherheitsfonds
 
 <sup>5</sup>
 
-Selbständigerwerbende werden für die Berechnung der Zuschüsse nur berücksichtigt, wenn sie:
+Selbstständigerwerbende werden für die Berechnung der Zuschüsse nur berücksichtigt, wenn sie:
 
-- a. sich innerhalb eines Jahres nach Inkrafttreten des Gesetzes oder Aufnahme der selbständigen Erwerbstätigkeit freiwillig versichern, oder
+- a. sich innerhalb eines Jahres nach Inkrafttreten des Gesetzes oder Aufnahme der selbstständigen Erwerbstätigkeit freiwillig versichern, oder
 - b. während mindestens sechs Monaten der obligatorischen Versicherung unterstellt waren und sich unmittelbar danach freiwillig versichern.
 
 #### Art. 59
@@ -1691,13 +1692,13 @@ Sie ist verpflichtet:
 
 [^60b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020, in Kraft vom 26. Sept. 2020 bis zum 25. Sept. 2023 ([AS 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [BBl 2020 6343](https://fedlex.data.admin.ch/eli/fga/2020/1553)).
 
-### Vierter Titel: Aufsicht und Oberaufsicht****
+### Vierter Titel: Aufsicht und Oberaufsicht
 
 [^part3-tit4-1]
 
 [^part3-tit4-1]: Ursprünglich: Dritter Titel. Fassung gemäss Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
-### 1. Kapitel: Aufsicht****
+### 1. Kapitel: Aufsicht
 
 [^part3-tit4-chap1-1]
 
@@ -1779,7 +1780,7 @@ Die Aufsichtsbehörde kann bei Bedarf:
 
 [^63a-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision) ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Aufgehoben durch Ziff. I des BG vom 19. März 2010 (Strukturreform), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
-### 2. Kapitel: Oberaufsicht****
+### 2. Kapitel: Oberaufsicht
 
 [^part3-tit4-chap2-1]
 
@@ -1860,7 +1861,7 @@ Die jährliche Aufsichtsabgabe bemisst sich:
 
 ## Vierter Teil: Finanzierung der Vorsorgeeinrichtungen
 
-### Erster Titel: Allgemeine Bestimmungen****
+### Erster Titel: Allgemeine Bestimmungen
 
 [^part4-tit1-1]
 
@@ -1901,13 +1902,14 @@ Mit der Transparenz soll sichergestellt werden, dass:
 - c. das paritätische Organ der Vorsorgeeinrichtung seine Führungsaufgabe wahrnehmen kann;
 - d. die Informationspflichten gegenüber den Versicherten erfüllt werden können.
 
-<sup>3</sup> Die Vorsorgeeinrichtungen müssen in der Lage sein, Informationen über den Kapitalertrag, den versicherungstechnischen Risikoverlauf, die Verwaltungskosten, die Deckungskapitalberechnung, die Reservebildung sowie den Deckungsgrad abgeben zu können.
+<sup>3</sup> Die Vorsorgeeinrichtungen müssen in der Lage sein, Informationen über den Kapitalertrag, den versicherungstechnischen Risikoverlauf, die Verwaltungskosten, die Deckungskapitalberechnung, die Reservebildung, den Deckungsgrad und die Grundsätze zur Ausübung der Stimmpflicht als Aktionärin (Art. 71*a*) abgeben zu können.[^65a-2]
 
 <sup>4</sup> Der Bundesrat erlässt Bestimmungen über die Art und Weise, wie diese Informationen unter Beachtung der Verhältnismässigkeit des Aufwandes bis auf Stufe der Vorsorgewerke ausgewiesen werden müssen.
 
 <sup>5</sup> Der Bundesrat erlässt Bestimmungen über die Art und Weise, wie die Transparenz gewährleistet werden muss. Er erlässt dafür Rechnungslegungsvorschriften und legt die Anforderungen an die Kosten- und Ertragstransparenz fest.
 
 [^65a-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. April 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^65a-2]: Fassung gemäss Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 65b
 
@@ -2054,6 +2056,37 @@ Von Absatz 1 kann nur abgewichen werden:
 
 [^71-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
+#### Art. 71a
+
+**Stimmpflicht als Aktionärin**[^71a-1]
+
+<sup>1</sup>
+
+Vorsorgeeinrichtungen müssen bei Aktiengesellschaften nach den Artikeln 620–762 des Obligationenrechts[^71a-2], deren Aktien an einer Börse kotiert sind, das Stimmrecht der von ihnen gehaltenen Aktien zu angekündigten Anträgen ausüben, welche die folgenden Punkte betreffen:
+
+- a. Wahl der Mitglieder des Verwaltungsrats, des Präsidenten des Verwaltungsrats, der Mitglieder des Vergütungsausschusses und des unabhängigen Stimmrechtsvertreters;
+- b. Statutenbestimmungen nach Artikel 626 Absatz 2 des Obligationenrechts;
+- c. Statutenbestimmungen und Abstimmungen gemäss den Bestimmungen der Artikel 732−735d des Obligationenrechts.
+
+<sup>2</sup> Sie müssen im Interesse ihrer Versicherten abstimmen. Das Interesse der Versicherten gilt als gewahrt, wenn das Stimmverhalten dem dauernden Gedeihen der Vorsorgeeinrichtung dient.
+
+<sup>3</sup> Sie dürfen sich der Stimme enthalten, wenn dies dem Interesse der Versicherten entspricht.
+
+<sup>4</sup> Das oberste Organ der Vorsorgeeinrichtung muss in einem Reglement die Grundsätze festlegen, die das Interesse der Versicherten bei der Ausübung des Stimmrechts näher umschreiben.
+
+[^71a-1]: Eingefügt durch Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^71a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 71b
+
+**Berichterstattung und Offenlegung betreffend die Stimmpflicht**[^71b-1]
+
+<sup>1</sup> Vorsorgeeinrichtungen müssen mindestens einmal jährlich in einem zusammenfassenden Bericht ihren Versicherten gegenüber Rechenschaft darüber ablegen, wie sie ihrer Stimmpflicht als Aktionärin nachgekommen sind.
+
+<sup>2</sup> Folgen sie den Anträgen des Verwaltungsrats der Aktiengesellschaft nicht oder enthalten sie sich der Stimme, so müssen sie ihr Stimmverhalten im Bericht detailliert offenlegen.
+
+[^71b-1]: Eingefügt durch Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 #### Art. 72
 
 **Finanzierung der Auffangeinrichtung**
@@ -2067,7 +2100,7 @@ Von Absatz 1 kann nur abgewichen werden:
 [^72-1]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 [^72-2]: Eingefügt durch Anhang Ziff. 3 des Freizügigkeitsgesetzes vom 17. Dez. 1993 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)). Fassung gemäss Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067); [BBl 1996 I 564](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)580).
 
-### Zweiter Titel:**** Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften im System der Teilkapitalisierung
+### Zweiter Titel: Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften im System der Teilkapitalisierung
 
 [^part4-tit2-1]
 
@@ -2189,7 +2222,7 @@ Jeder Kanton bezeichnet ein Gericht, das als letzte kantonale Instanz über Stre
 [^74-2]: Eingefügt durch Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^74-3]: Eingefügt durch Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
-### Zweiter Titel: Strafbestimmungen****
+### Zweiter Titel: Strafbestimmungen
 
 [^part5-tit2-1]
 
@@ -2214,29 +2247,25 @@ wird mit Haft oder mit Busse bis zu 10 000 Franken bestraft, sofern nicht ein mi
 
 #### Art. 76
 
-**Vergehen**
+**Vergehen**[^76-1]
 
-Wer durch unwahre oder unvollständige Angaben oder in anderer Weise für sich oder einen anderen eine Leistung der Vorsorgeeinrichtung oder des Sicherheitsfonds erwirkt, die ihm nicht zukommt,
+<sup>1</sup>
 
-wer sich durch unwahre oder unvollständige Angaben oder in anderer Weise der Beitragspflicht gegenüber einer Vorsorgeeinrichtung oder dem Sicherheitsfonds entzieht,
+Sofern nicht ein mit schwererer Strafe bedrohtes Vergehen oder Verbrechen des Strafgesetzbuches[^76-2] vorliegt, wird mit Geldstrafe bis zu 180 Tagessätzen bestraft, wer:
 
-wer als Arbeitgeber einem Arbeitnehmer Beiträge vom Lohn abzieht und sie dem vorgesehenen Zweck entfremdet,[^76-1]
+- a. durch unwahre oder unvollständige Angaben oder in anderer Weise für sich oder einen anderen eine Leistung der Vorsorgeeinrichtung oder des Sicherheitsfonds erwirkt, die ihm nicht zukommt;
+- b. sich durch unwahre oder unvollständige Angaben oder in anderer Weise der Beitragspflicht gegenüber einer Vorsorgeeinrichtung oder dem Sicherheitsfonds entzieht;
+- c. als Arbeitgeber einem Arbeitnehmer Beiträge vom Lohn abzieht und sie dem vorgesehenen Zweck entfremdet;
+- d. die Schweigepflicht verletzt oder bei der Durchführung dieses Gesetzes seine Stellung als Organ oder Funktionär zum Nachteil Dritter oder zum eigenen Vorteil missbraucht;
+- e. als Inhaber oder Mitglied einer Revisionsstelle oder als anerkannter Experte für berufliche Vorsorge die gesetzlichen Pflichten in grober Weise verletzt;
+- f. unzulässige Eigengeschäfte tätigt, gegen die Offenlegung verstösst, indem er unwahre oder unvollständige Angaben macht, oder sonst in grober Weise gegen die Interessen der Vorsorgeeinrichtung handelt;
+- g. Vermögensvorteile oder Retrozessionen im Zusammenhang mit der Vermögensverwaltung nicht offenlegt oder für sich einbehält, die nicht ausdrücklich im Vermögensverwaltungsauftrag als Entschädigung beziffert sind; oder
+- h. als Mitglied des obersten Organs oder als mit der Geschäftsführung betraute Person einer den Artikeln 71a und 71b unterstellten Vorsorgeeinrichtung die Stimmpflicht oder die Offenlegungspflicht nach diesen Artikeln verletzt.
 
-wer die Schweigepflicht verletzt oder bei der Durchführung dieses Gesetzes seine Stellung als Organ oder Funktionär zum Nachteil Dritter oder zum eigenen Vorteil missbraucht,
+<sup>2</sup> Nimmt der Täter die Möglichkeit der Verwirklichung einer Tat nach Absatz 1 Buchstabe h lediglich in Kauf, so macht er sich nach dieser Bestimmung nicht strafbar.
 
-wer als Inhaber oder Mitglied einer Kontrollstelle oder als anerkannter Experte für berufliche Vorsorge die Pflichten nach Artikel 53 in grober Weise verletzt,
-
-wer unzulässige Eigengeschäfte tätigt, gegen die Offenlegungspflicht verstösst, indem er unwahre oder unvollständige Angaben macht oder sonst in grober Weise gegen die Interessen der Vorsorgeeinrichtung handelt,[^76-2]
-
-wer Vermögensvorteile oder Retrozessionen im Zusammenhang mit der Verwaltung von Vorsorgevermögen nicht offenlegt oder für sich einbehält, die nicht ausdrücklich im Vermögensverwaltungsvertrag als Entschädigung beziffert sind,[^76-3]
-
-wird, sofern nicht ein mit schwererer Strafe bedrohtes Vergehen oder Verbrechen des Strafgesetzbuches[^76-4] vorliegt, mit Gefängnis bis zu sechs Monaten oder mit Busse bis zu 30 000 Franken bestraft.[^76-5]
-
-[^76-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^76-2]: Eingefügt durch Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^76-3]: Eingefügt durch Ziff. I des BG vom 19. März 2010 (Strukturreform), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^76-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^76-5]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^76-1]: Fassung gemäss Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^76-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 77
 
@@ -2271,13 +2300,13 @@ Die Verfolgung und die Beurteilung sind Sache der Kantone.
 [^79-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^79-2]: Fassung gemäss Anhang Ziff. 109 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Sechster Teil: Umfang der Leistungen, Steuerrecht und besondere Bestimmungen****
+## Sechster Teil: Umfang der Leistungen, Steuerrecht und besondere Bestimmungen
 
 [^part6-1]
 
 [^part6-1]: Fassung gemäss Ziff. I 10 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
 
-### Erster Titel: Umfang der Leistungen****
+### Erster Titel: Umfang der Leistungen
 
 [^part6-tit1-1]
 
@@ -2311,11 +2340,11 @@ Die Bestimmungen dieses Titels gelten für alle Vorsorgeverhältnisse, unabhäng
 
 **Versicherbarer Lohn und versicherbares Einkommen**[^79c-1]
 
-Der nach dem Reglement der Vorsorgeeinrichtung versicherbare Lohn der Arbeitnehmer oder das versicherbare Einkommen der Selbständigerwerbenden ist auf den zehnfachen oberen Grenzbetrag nach Artikel 8 Absatz 1 beschränkt.
+Der nach dem Reglement der Vorsorgeeinrichtung versicherbare Lohn der Arbeitnehmer oder das versicherbare Einkommen der Selbstständigerwerbenden ist auf den zehnfachen oberen Grenzbetrag nach Artikel 8 Absatz 1 beschränkt.
 
 [^79c-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
-### Zweiter Titel: Steuerrechtliche Behandlung der Vorsorge****
+### Zweiter Titel: Steuerrechtliche Behandlung der Vorsorge
 
 [^part6-tit2-1]
 
@@ -2339,7 +2368,7 @@ Der nach dem Reglement der Vorsorgeeinrichtung versicherbare Lohn der Arbeitnehm
 
 <sup>1</sup> Die Beiträge der Arbeitgeber an die Vorsorgeeinrichtung und die Einlagen in die Arbeitgeberbeitragsreserven, einschliesslich derjenigen nach Artikel 65*e,* gelten bei den direkten Steuern des Bundes, der Kantone und Gemeinden als Geschäftsaufwand.[^81-1]
 
-<sup>2</sup> Die von den Arbeitnehmern und Selbständigerwerbenden an Vorsorgeeinrichtungen nach Gesetz oder reglementarischen Bestimmungen geleisteten Beiträge sind bei den direkten Steuern des Bundes, der Kantone und Gemeinden abziehbar.
+<sup>2</sup> Die von den Arbeitnehmern und Selbstständigerwerbenden an Vorsorgeeinrichtungen nach Gesetz oder reglementarischen Bestimmungen geleisteten Beiträge sind bei den direkten Steuern des Bundes, der Kantone und Gemeinden abziehbar.
 
 <sup>3</sup> Für den versicherten Arbeitnehmer sind die vom Lohn abgezogenen Beiträge im Lohnausweis anzugeben; andere Beiträge sind durch die Vorsorgeeinrichtungen zu bescheinigen.
 
@@ -2355,11 +2384,22 @@ Der Beitrag der Rentnerinnen und Rentner zur Behebung einer Unterdeckung nach Ar
 
 #### Art. 82
 
-**Gleichstellung anderer Vorsorgeformen**
+**Gleichstellung anderer Vorsorgeformen**[^82-1]
 
-<sup>1</sup> Arbeitnehmer und Selbständigerwerbende können auch Beiträge für weitere, ausschliesslich und unwiderruflich der beruflichen Vorsorge dienende, anerkannte Vorsorgeformen abziehen.
+<sup>1</sup>
 
-<sup>2</sup> Der Bundesrat legt in Zusammenarbeit mit den Kantonen die anerkannten Vorsorgeformen und die Abzugsberechtigung für Beiträge fest.
+Arbeitnehmer und Selbstständigerwerbende können Beiträge für weitere, ausschliesslich und unwiderruflich der beruflichen Vorsorge dienende, anerkannte Vorsorgeformen abziehen. Als solche Vorsorgeformen gelten:
+
+- a. die gebundene Selbstvorsorge bei Versicherungseinrichtungen;
+- b. die gebundene Selbstvorsorge bei Bankstiftungen.
+
+<sup>2</sup> Der Bundesrat legt in Zusammenarbeit mit den Kantonen die Abzugsberechtigung für Beiträge nach Absatz 1 fest.
+
+<sup>3</sup> Er regelt die Einzelheiten der anerkannten Vorsorgeformen, insbesondere bestimmt er den Kreis und die Reihenfolge der Begünstigten. Er legt fest, inwieweit der Vorsorgenehmer die Reihenfolge der Begünstigten ändern und deren Ansprüche näher bezeichnen kann; die vom Vorsorgenehmer getroffenen Anordnungen bedürfen der Schriftform.
+
+<sup>4</sup> Die aus einer anerkannten Vorsorgeform Begünstigten haben einen eigenen Anspruch auf die ihnen daraus zugewiesene Leistung. Die Versicherungseinrichtung oder die Bankstiftung zahlt diese den Begünstigten aus.
+
+[^82-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl <sup>2018</sup> <sup>5813</sup>](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 #### Art. 83
 
@@ -2389,7 +2429,7 @@ Die Leistungen aus Vorsorgeeinrichtungen und Vorsorgeformen nach den Artikeln 80
 
 Vor ihrer Fälligkeit sind die Ansprüche aus Vorsorgeeinrichtungen und Vorsorgeformen nach den Artikeln 80 und 82 von den direkten Steuern des Bundes, der Kantone und der Gemeinden befreit.
 
-### Dritter Titel:**** Besondere Bestimmungen
+### Dritter Titel: Besondere Bestimmungen
 
 [^part6-tit3-1]
 
@@ -2518,15 +2558,18 @@ Die Vorsorgeeinrichtung muss ihre Versicherten jährlich in geeigneter Form info
 
 - a. die Leistungsansprüche, den koordinierten Lohn, den Beitragssatz und das Altersguthaben;
 - b. die Organisation und die Finanzierung;
-- c. die Mitglieder des paritätisch besetzten Organs nach Artikel 51.
+- c. die Mitglieder des paritätisch besetzten Organs nach Artikel 51;
+- d.[^86b-2] die Ausübung der Stimmpflicht als Aktionärin nach Artikel 71*b*.
 
-<sup>2</sup> Auf Anfrage hin ist den Versicherten die Jahresrechnung und der Jahresbericht auszuhändigen. Ebenso hat ihnen die Vorsorgeeinrichtung auf Anfrage hin Informationen über den Kapitalertrag, den versicherungstechnischen Risikoverlauf, die Verwaltungskosten, die Deckungskapitalberechnung, die Reservebildung sowie den Deckungsgrad abzugeben.
+<sup>2</sup> Auf Anfrage hin ist den Versicherten die Jahresrechnung und der Jahresbericht auszuhändigen. Ebenso hat ihnen die Vorsorgeeinrichtung auf Anfrage hin Informationen über den Kapitalertrag, den versicherungstechnischen Risikoverlauf, die Verwaltungskosten, die Deckungskapitalberechnung, die Reservebildung, den Deckungsgrad sowie die Grundsätze zur Ausübung der Stimmpflicht als Aktionärin (Art. 71*a*) abzugeben.[^86b-3]
 
 <sup>3</sup> Sammel- und Gemeinschaftseinrichtungen haben das paritätisch besetzte Organ auf Anfrage hin über Beitragsausstände des Arbeitgebers zu orientieren. Die Vorsorgeeinrichtung muss das paritätisch besetzte Organ von sich aus orientieren, wenn reglementarische Beiträge innert drei Monaten nach dem vereinbarten Fälligkeitstermin noch nicht überwiesen worden sind.
 
 <sup>4</sup> Artikel 75 ist anwendbar.
 
 [^86b-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), Abs. 2 in Kraft seit 1. April 2004, die übrigen Bestimmungen am 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^86b-2]: Eingefügt durch Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^86b-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 10 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 87
 
@@ -2561,7 +2604,7 @@ Vorsorgeeinrichtungen, die bei der Ausübung ihrer Aufgaben feststellen, dass ei
 
 [^89-1]: Aufgehoben durch Anhang Ziff. 10 des Bundesstatistikgesetzes vom 9. Okt. 1992, mit Wirkung seit 1. Aug. 1993 ([AS 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [BBl 1992 I 373](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
 
-## Siebenter Teil:**** Internationale Koordination****
+## Siebenter Teil: Internationale Koordination
 
 [^part7-1][^part7-2]
 
@@ -2640,7 +2683,7 @@ Die Artikel 32 Absatz 3 und 75*a–*75*c* ATSG[^89e-2] sind auf die berufliche V
 [^89e-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^89e-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Achter Teil:**** Schlussbestimmungen
+## Achter Teil: Schlussbestimmungen
 
 [^part8-1]
 
@@ -2730,13 +2773,13 @@ Artikel 83 findet keine Anwendung auf Renten und Kapitalabfindungen aus Vorsorge
 
 [^98-1]: Art. 1 der V vom 29. Juni 1983 ([AS 1983 827](https://fedlex.data.admin.ch/eli/oc/1983/827_827_827))
 
-## Übergangsbestimmungen der Änderung vom 21. Juni 1996****
+## Übergangsbestimmungen der Änderung vom 21. Juni 1996
 
 [^u1-1]
 
 [^u1-1]: [AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067). Aufgehoben durch Ziff. II 41 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Übergangsbestimmungen der Änderung vom 3. Oktober 2003 (1. BVG-Revision)****
+## Übergangsbestimmungen der Änderung vom 3. Oktober 2003 (1. BVG-Revision)
 
 [^u2-1]
 
@@ -2799,7 +2842,7 @@ Der Bundesrat nimmt bei der Erhöhung des ordentlichen Rentenalters der Frauen (
 [^u2-lvlf-1]: [AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797)
 [^u2-lvlf-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
-## Übergangsbestimmungen zur Änderung vom 11. Dezember 2009****
+## Übergangsbestimmungen zur Änderung vom 11. Dezember 2009
 
 [^u3-1]
 
@@ -2814,7 +2857,7 @@ Koordination des Rentenalters
 [^u3-2]: Neufassung, erste Botschaft [BBl 2006 1957](https://fedlex.data.admin.ch/eli/fga/2006/191)
 [^u3-3]: [BBl 2009 19](https://fedlex.data.admin.ch/eli/fga/2009/5)
 
-## Übergangsbestimmung zur Änderung vom 19. März 2010 (Strukturreform)****
+## Übergangsbestimmung zur Änderung vom 19. März 2010 (Strukturreform)
 
 [^u4-1]
 
@@ -2822,7 +2865,7 @@ Koordination des Rentenalters
 
 Vorsorgeeinrichtungen, die im Zeitpunkt des Inkrafttretens dieser Änderung unter Bundesaufsicht stehen, können für höchstens drei Jahre nach Inkrafttreten dieser Änderung unter Bundesaufsicht bleiben.
 
-## Übergangsbestimmungen zur Änderung vom 17. Dezember 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften)****
+## Übergangsbestimmungen zur Änderung vom 17. Dezember 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften)
 
 [^u5-1]
 
@@ -2844,7 +2887,7 @@ Registrierte Vorsorgeeinrichtungen, die im Zeitpunkt des Inkrafttretens dieser �
 
 <sup>2</sup> Liegt der Deckungsgrad ab dem 1. Januar 2020 unter 60 Prozent und ab dem 1. Januar 2030 unter 75 Prozent, leisten die öffentlich-rechtlichen Körperschaften ihren Vorsorgeeinrichtungen auf die Differenz den Zins nach Artikel 15 Absatz 2.
 
-## Schlussbestimmung der Änderung vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket)****
+## Schlussbestimmung der Änderung vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket)
 
 [^u6-1]
 
@@ -2857,13 +2900,13 @@ Wird in Anwendung der Schlussbestimmungen Buchstabe *a* der Änderung vom 18. M�
 [^u6-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^u6-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-## Übergangsbestimmung zur Änderung vom 22. März 2019 (Art. 47*a*)****
+## Übergangsbestimmung zur Änderung vom 22. März 2019 (Art. 47*a*)
 
 [^u7-1]
 
 [^u7-1]: [AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111)[3835](https://fedlex.data.admin.ch/eli/oc/2020/711); [BBl 2020 6563](https://fedlex.data.admin.ch/eli/fga/2020/1669)(in Kraft bis 31. Dez. 2021)
 
-## Übergangsbestimmungen zur Änderung vom 19. Juni 2020 (Weiterentwicklung der IV)****
+## Übergangsbestimmungen zur Änderung vom 19. Juni 2020 (Weiterentwicklung der IV)
 
 [^u8-1]
 
