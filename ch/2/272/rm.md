@@ -4,11 +4,11 @@ title: "Cudesch da procedura civila svizzer dals 19 da december 2008 (Cudesch da
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: rm
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220701-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Cudesch da procedura civila, CPC)
 
-dals 19 da december 2008 (versiun dal 1. da fanadur 2022)
+dals 19 da december 2008 (versiun dal 1. da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -85,24 +85,25 @@ Il dretg chantunal designescha la dretgira ch’è cumpetenta sco suletta instan
 - d. dispitas tenor la Lescha federala dals 19 da december 1986[^5-1] davart la concurrenza illoiala, sche la valur en dispita importa passa 30 000 francs u sche la Confederaziun fa diever da ses dretg da purtar plant;
 - e.[^5-2] dispitas tenor la Lescha federala dals 13 da zercladur 2008 davart la responsabladad civila per l’energia nucleara[^5-3];
 - f. plants cunter la Confederaziun;
-- g. la nominaziun d’in controllader spezial tenor l’artitgel 697*b* dal Dretg d’obligaziuns[^5-4] (DO);
-- h.[^5-5] dispitas tenor la Lescha dals 23 da zercladur 2006[^5-6] davart las investiziuns collectivas, tenor la Lescha dals 19 da zercladur 2015[^5-7] da las infrastructuras da finanzas e tenor la Lescha federala dals 15 da zercladur 2018[^5-8] davart ils instituts da finanzas;
-- i.[^5-9] dispitas tenor la Lescha dals 21 da zercladur 2013[^5-10] davart la protecziun da las vopnas, tenor la Lescha federala dals 25 da mars 1954[^5-11] davart la protecziun da l’emblem e dal num da la Crusch Cotschna e tenor la Lescha federala dals 15 da december 1961[^5-12] davart la protecziun dals nums e dals emblems da l’Organisaziun da las Naziuns Unidas e d’autras organisaziuns interguvernamentalas.
+- g.[^5-4] dispitas davart l’introducziun e la realisaziun d’ina controlla speziala tenor ils artitgels 697*c–*697*h*<sup>bis</sup> dal Dretg d’obligaziuns (DO)[^5-5];
+- h.[^5-6] dispitas tenor la Lescha dals 23 da zercladur 2006[^5-7] davart las investiziuns collectivas, tenor la Lescha dals 19 da zercladur 2015[^5-8] da las infrastructuras da finanzas e tenor la Lescha federala dals 15 da zercladur 2018[^5-9] davart ils instituts da finanzas;
+- i.[^5-10] dispitas tenor la Lescha dals 21 da zercladur 2013[^5-11] davart la protecziun da las vopnas, tenor la Lescha federala dals 25 da mars 1954[^5-12] davart la protecziun da l’emblem e dal num da la Crusch Cotschna e tenor la Lescha federala dals 15 da december 1961[^5-13] davart la protecziun dals nums e dals emblems da l’Organisaziun da las Naziuns Unidas e d’autras organisaziuns interguvernamentalas.
 
 <sup>2</sup> Questa instanza è er cumpetenta per ordinar mesiras preventivas avant l’entrada da la litispendenza d’in plant.
 
 [^5-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 [^5-2]: Versiun tenor la cifra 1 da l’agiunta 2, en vigur dapi il 1. da schan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^5-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-5]: Versiun tenor la cifra II 4 da l’agiunta da la LF dals 15 da zer. 2018 davart ils instituts da finanzas, en vigur dapi il 1. da schan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-6]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-8]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-9]: Integrà tras la cifra II 3 da l’agiunta 3 da la Lescha da las vopnas dals 21 da zer. 2013 davart la protecziun, en vigur dapi il 1. da schan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-10]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-11]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-12]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-4]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^5-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-6]: Versiun tenor la cifra II 4 da l’agiunta da la LF dals 15 da zer. 2018 davart ils instituts da finanzas, en vigur dapi il 1. da schan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-7]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^5-8]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-9]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-10]: Integrà tras la cifra II 3 da l’agiunta 3 da la Lescha da las vopnas dals 21 da zer. 2013 davart la protecziun, en vigur dapi il 1. da schan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-11]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
+[^5-12]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
+[^5-13]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
 
 #### Art. 6
 
@@ -738,7 +739,7 @@ Da represchentar professiunalmain las partidas èn autorisads:
 
 <sup>4</sup> La dretgira po ordinar ch’ina partida represchentada stoppia sa preschentar persunalmain davant dretgira.
 
-[^68-1]: SR **935****.****61**
+[^68-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
 [^68-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 69
@@ -1800,7 +1801,7 @@ Ina terza persuna po refusar la cooperaziun:
 
 - a. sch’i sa tracta da constatar fatgs ch’exponissan ella sezza u in da ses proxims en il senn da l’artitgel 165 ad ina persecuziun penala u a la responsabladad civila;
 - b. sch’ella sa faschess chastiabla pervia da la violaziun d’in secret tenor l’artitgel 321 CP[^166-1]; exceptads èn ils revisurs; cun excepziun dals advocats e dals spirituals ston terzas persunas dentant cooperar, sch’ellas èn suttamessas ad in’obligaziun d’annunzia u sch’ellas èn vegnidas liberadas da l’obligaziun da tegnair secret, nun ch’ellas fetschian valair vardaivlamain che l’interess da tegnair secret predomineschia l’interess da chattar la vardad.
-- c. sch’i sa tracta da constatar fatgs ch’èn vegnids confidads ad ella sco funcziunaria en il senn da l’artitgel 110 alinea 3[^166-2] CP u sco commembra d’ina autoritad en sia funcziun uffiziala ubain fatgs ch’ella è vegnida a savair exequind ses uffizi; ella sto dar pled e fatg, sch’ella è suttamessa ad in’obligaziun d’annunzia u sch’ella è vegnida autorisada da sia autoritad superiura da dar pled e fatg;
+- c.[^166-2] sch’i sa tracta da constatar fatgs ch’èn vegnids confidads ad ella sco funcziunaria en il senn da l’artitgel 110 alinea 3 CP u sco commembra d’ina autoritad en sia funcziun uffiziala, ubain fatgs, dals quals ella ha survegnì enconuschientscha exequind ses uffizi u exequind sia activitad auxiliara per in funcziunari u per in’autoritad; ella sto dar pled e fatg, sch’ella è suttamessa ad in’obligaziun d’annunzia u sch’ella è vegnida autorisada da sia autoritad superiura da dar pled e fatg;
 - d.[^166-3] sch’ella stuess dar pled e fatg sco mediatura publica, sco cussegliadra da lètg u da famiglia u sco mediatura extragiudiziala davart fatgs ch’ella è vegnida a savair en il rom da l’activitad respectiva;
 - e. sch’i sa tracta da constatar l’identitad da l’autur u il cuntegn e las funtaunas da sias infurmaziuns, en cas ch’ella s’occupa en moda professiunala u sco persuna auxiliara cun la publicaziun d’infurmaziuns en la part redacziunala d’in medium che cumpara periodicamain.
 
@@ -1809,7 +1810,7 @@ Ina terza persuna po refusar la cooperaziun:
 <sup>3</sup> Resalvadas restan las disposiziuns spezialas dal dretg d’assicuranza sociala davart la communicaziun da datas.
 
 [^166-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^166-2]: Rectifitgà da la cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^166-2]: Versiun tenor la cifra 5 da l’agiunta 1 da la Lescha dals 18 da dec. 2020 davart la segirezza da las infurmaziuns, en vigur dapi il 1. da schan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^166-3]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 167
@@ -2699,7 +2700,7 @@ Ella vala senza resguardar la valur en dispita en cas da dispitas:[^243-1]
 [^243-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^243-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^243-6]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^243-7]: SR **832****.****10**
+[^243-7]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 244
 
@@ -2862,14 +2863,15 @@ La procedura summarica vala en spezial per las suandantas fatschentas:
   - 4\. la vendita per in pretsch da cumpra global ed il gener da l’alienaziun da bains immobigliars (art. 585 al. 3 e 619 DO),
   - 5\. la designaziun da l’expert per controllar il quint da gudogn e da perdita sco er la bilantscha da la societad commanditara (art. 600 al. 3 DO),
   - 6\.[^250-4] la fixaziun d’in termin en cas d’in dumber nunsuffizient da commembers u en cas ch’ils organs necessaris mancan (art. 731*b*, 819, 908 e 941*a* DO),
-  - 7\.[^250-5] l’ordinaziun da dar infurmaziuns als acziunaris ed als crediturs d’ina societad anonima, als commembers d’ina societad cun responsabladad limitada ed als associads (art. 697 al. 4, 802 al. 4, 857 al. 3 e 958*e* DO),
-  - 8\. la controlla speziala tar la societad anonima (art. 697*a* fin 697*g* DO),
-  - 9\. la convocaziun da la radunanza generala d’ina societad anonima u d’ina associaziun, la tractandaziun d’in object da la tractativa e la convocaziun da la radunanza dals associads d’ina societad cun responsabladad limitada (art. 699 al. 4, 805 al. 5 cifra 2 ed 881 al. 3 DO),
-  - 10\. la designaziun d’ina represchentanza da la societad u da l’associaziun, sche conclus da la radunanza generala vegnan contestads da l’administraziun (art. 706*a* al. 2, 808*c* ed 891 al. 1 DO),
-  - 11\. la nominaziun e la revocaziun dal post da revisiun (art. 731*b* DO),
+  - 7\.[^250-5] l’ordinaziun da dar infurmaziuns als crediturs sco er als acziunaris, als commembers d’ina societad cun responsabladad limitada ed als associads (art. 697*b*, 802 al. 4, 857 al. 3 e 958*e* DO),
+  - 8\.[^250-6] la controlla speziala (art. 697*c*–697*h*<sup>bis</sup> DO),
+  - 9\.[^250-7] la convocaziun da la radunanza generala, la tractandaziun d’in object da tractativa e l’integraziun da propostas e da curtas motivaziuns en l’invitaziun a la radunanza generala (art. 699 al. 5, 699*b* al. 4, 805 al. 5 cifra 2 e 3 ed 881 al. 3 DO),
+  - 10\.[^250-8] la designaziun d’ina represchentanza da la societad u da l’associaziun, sche conclus da la radunanza generala vegnan contestads da l’administraziun (art. 706*a* al. 2, 808*c* ed 891 al. 1 DO),
+  - 11\.[^250-9] la nominaziun e la revocaziun dal post da revisiun (art. 731*b*, 819 e 908 DO),
   - 12\. il deposit d’imports pretendids en cas d’ina liquidaziun (art. 744, 770, 826 al. 2 e 913 DO),
-  - 13\.[^250-6] la revocaziun da l’administraziun e dal post da revisiun da l’associaziun (art. 890 al. 2 DO),
-  - 14\.[^250-7] la reinscripziun d’ina unitad giuridica stizzada en il register da commerzi (art. 935 DO);
+  - [tab] 13.[^250-10] la revocaziun da l’administraziun e dal post da revisiun da l’associaziun (art. 890 al. 2 DO),
+  - 14\.[^250-11] la reinscripziun d’ina unitad giuridica stizzada en il register da commerzi (art. 935 DO),
+  - 15\.[^250-12] l’ordinaziun da dissolver la societad e da liquidar la societad tenor las prescripziuns davart il concurs (art. 731*b*, 819 e 908 DO);
 
 - d.
 
@@ -2884,9 +2886,14 @@ La procedura summarica vala en spezial per las suandantas fatschentas:
 [^250-2]: Rectifitgà da la cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^250-3]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 [^250-4]: Versiun tenor la cifra II da la LF dals 25 da sett. 2015 (represchentanza professiunala en la procedura d’execuziun sfurzada), en vigur dapi il 1. da schan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-5]: Versiun tenor la cifra II da la LF dals 25 da sett. 2015 (represchentanza professiunala en la procedura d’execuziun sfurzada), en vigur dapi il 1. da schan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-6]: Versiun tenor la cifra II da la LF dals 25 da sett. 2015 (represchentanza professiunala en la procedura d’execuziun sfurzada), en vigur dapi il 1. da schan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-7]: Integrà tras la cifra 2 da l’agiunta da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-5]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-6]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-7]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-8]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-9]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-10]: Versiun tenor la cifra II da la LF dals 25 da sett. 2015 (represchentanza professiunala en la procedura d’execuziun sfurzada), en vigur dapi il 1. da schan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^250-11]: Integrà tras la cifra 2 da l’agiunta da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-12]: Integrà tras la cifra 3 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 251
 
@@ -3514,7 +3521,7 @@ Sch’i vegnan fixadas contribuziuns da mantegniment en il contract da mantegnim
 
 [^301a-1]: Integrà tras la cifra 2 da l’agiunta da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
-### 2. chapitel Procedura summarica: champ d’applicaziun****
+### 2. chapitel Procedura summarica: champ d’applicaziun
 
 [^part2-tit7-chap2-1]
 
@@ -3540,11 +3547,11 @@ La procedura summarica è en spezial applitgabla per:
 [^302-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^302-5]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
 
-### 3. chapitel Plant sin mantegniment e plant da paternitad****
+### 3. chapitel Plant sin mantegniment e plant da paternitad
 
 [^part2-tit7-chap3-1]
 
-[^part2-tit7-chap3-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2017 (AS **2****015** 4299; [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^part2-tit7-chap3-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 303
 
@@ -3603,7 +3610,7 @@ Per la procedura valan ils artitgels 272 e 273 tenor il senn.
 
 Per la procedura per schliar e per declerar sco nunvalaivel il partenadi registrà valan las disposiziuns davart la procedura da divorzi tenor il senn.
 
-### 3. chapitel**** Dumondas d’uffants en proceduras concernent il partenadi registrà
+### 3. chapitel Dumondas d’uffants en proceduras concernent il partenadi registrà
 
 [^part2-tit8-chap3-1]
 
@@ -4214,7 +4221,7 @@ In’autra dretgira u ina dretgira d’ina autra cumposiziun ch’è vegnida des
 
 [^356-1]: Integrà tras la cifra 2 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
-### 2. titel Cunvegna da cumpromiss e clausula da cumpromiss****
+### 2. titel Cunvegna da cumpromiss e clausula da cumpromiss
 
 [^part3-tit2-1]
 
@@ -4744,7 +4751,7 @@ La coordinaziun da las disposiziuns d’auters decrets cun las disposiziuns da q
 
 ### 3. titel Disposiziuns transitoricas
 
-### 1. chapitel Disposiziuns transitoricas dals 19 da december 2008****
+### 1. chapitel Disposiziuns transitoricas dals 19 da december 2008
 
 [^part4-tit3-chap1-1]
 
@@ -4784,7 +4791,7 @@ La valaivladad d’ina cunvegna davart la dretgira cumpetenta vegn definida teno
 
 <sup>4</sup> Per proceduras ch’èn pendentas il mument da l’entrada en vigur da questa lescha davant las dretgiras statalas ch’èn cumpetentas tenor l’artitgel 356 vala il dretg vertent.
 
-### 2. chapitel**** Disposiziun transitorica da la midada dals 28 da settember 2012
+### 2. chapitel Disposiziun transitorica da la midada dals 28 da settember 2012
 
 [^part4-tit3-chap2-1]
 
@@ -4794,7 +4801,7 @@ La valaivladad d’ina cunvegna davart la dretgira cumpetenta vegn definida teno
 
 En proceduras ch’èn pendentas il mument che la midada dals 28 da settember 2012 da questa lescha entra en vigur, vegnan ils acts processuals reglads tenor il dretg nov a partir dal mument da l’entrada en vigur.
 
-### 3. chapitel**** Disposiziun transitorica da la midada dals 20 da mars 2015
+### 3. chapitel Disposiziun transitorica da la midada dals 20 da mars 2015
 
 [^part4-tit3-chap3-1]
 
@@ -4806,7 +4813,7 @@ En proceduras ch’èn pendentas il mument che la midada dals 28 da settember 20
 
 <sup>2</sup> Novas pretensiuns giuridicas che vegnan iniziadas tras la midada dal dretg applitgabel èn admissiblas; las parts d’ina decisiun che na vegnan betg contestadas restan liantas, uschenavant ch’ellas n’èn betg colliadas materialmain en moda uschè stretga cun pretensiuns giuridicas che ston anc vegnir giuditgadas, ch’i sto vegnir fatg raschunaivlamain in giudicament cumplessiv.
 
-### 4. chapitel**** Disposiziun transitorica da la midada dals 19 da zercladur 2015
+### 4. chapitel Disposiziun transitorica da la midada dals 19 da zercladur 2015
 
 [^part4-tit3-chap4-1]
 
@@ -4818,7 +4825,7 @@ En proceduras ch’èn pendentas il mument che la midada dals 28 da settember 20
 
 <sup>2</sup> Novas pretensiuns giuridicas che vegnan iniziadas tras la midada dal dretg applitgabel èn admissiblas; las parts da la sentenzia che na vegnan betg contestadas restan liantas, uschenavant ch’ellas n’èn betg colliadas materialmain en moda uschè stretga cun pretensiuns giuridicas che ston anc vegnir giuditgadas, ch’i sto vegnir fatg raschunaivlamain in giudicament cumplessiv.
 
-### 5. chapitel**** Disposiziun transitorica da la midada dals 14 da december 2018
+### 5. chapitel Disposiziun transitorica da la midada dals 14 da december 2018
 
 [^part4-tit3-chap5-1]
 
@@ -4868,7 +4875,7 @@ Agiunta 2
 
 ### 1. Coordinaziun dal Cudesch da procedura civila svizzer cun la nova Lescha federala davart la responsabladad civila per l’energia nucleara
 
-*Independentamain dal fatg, sche la Lescha federala dals 13 da zercladur 2008*[^annex2-lvlu1-lvl1-1] *davart la responsabladad civila per l’energia nucleara (nova LRCN) u sch’il Cudesch* *da procedur**a civila svizzer dals 19 da december 2008 (CPC) entra en vigur sco emprim, vegn midà il CPC – tras la lescha che entra en vigur pli tard u en cas che las duas leschas entran en vigur a medem temp – sco suonda:*
+*Independentamain dal fatg, sche la Lescha federala dals 13 da zercladur 2008*[^annex2-lvlu1-lvl1-1] *davart la responsabladad civila per l’energia nucleara (nova LRCN) u sch’il Cudesch* *da procedura civila svizzer dals 19 da december 2008 (CPC) entra en vigur sco emprim, vegn midà il CPC – tras la lescha che entra en vigur pli tard u en cas che las duas leschas entran en vigur a medem temp – sco suonda:*
 
 …[^annex2-lvlu1-lvl1-2]
 
@@ -4877,13 +4884,13 @@ Agiunta 2
 
 ### 2. Coordinaziun da la cifra 19 da l’agiunta 1 cun la nova LRCN
 
-*Independentamain dal fatg, sche la nova LRCN*[^annex2-lvlu1-lvl2-1] *u sch’il CPC entra en vigur sco emprim, vegn midada la cifra 19 da l’agiunta 1 dal CPC – tras la lescha che entra en vigur pli tard u en cas che las duas leschas entran en vigur a medem tem**p – e la nova LRCN vegn midada tenor la cifra 20 da l’agiunta 1 dal CPC.*
+*Independentamain dal fatg, sche la nova LRCN*[^annex2-lvlu1-lvl2-1] *u sch’il CPC entra en vigur sco emprim, vegn midada la cifra 19 da l’agiunta 1 dal CPC – tras la lescha che entra en vigur pli tard u en cas che las duas leschas entran en vigur a medem temp – e la nova LRCN vegn midada tenor la cifra 20 da l’agiunta 1 dal CPC.*
 
 [^annex2-lvlu1-lvl2-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); en vigur dapi il 1. da schan. 2022, publitgà ils 27 da schan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
 
 ### 3. Coordinaziun cun la midada dals 19 da december 2008 dal CCS (protecziun da creschids, dretg da persunas e dretg dals uffants)
 
-*Independentamain dal fatg, sche la midada dals 19 da* *december 2008*[^annex2-lvlu1-lvl3-1] *dal CCS (protecziun da creschids, dretg da persunas e dretg dals uffants) u sch**’**il Cudesch da procedura civila svizzer (CPC) entra en vigur sco emprim, vegn midà il CPC – tras la lescha che entra en vigur pli tard u en cas che las duas lesch**as entran en vigur a medem temp – sco suonda:*
+*Independentamain dal fatg, sche la midada dals 19 da december 2008*[^annex2-lvlu1-lvl3-1] *dal CCS (protecziun da creschids, dretg da persunas e dretg dals uffants) u sch**’**il Cudesch da procedura civila svizzer (CPC) entra en vigur sco emprim, vegn midà il CPC – tras la lescha che entra en vigur pli tard u en cas che las duas leschas entran en vigur a medem temp – sco suonda:*
 
 ...[^annex2-lvlu1-lvl3-2]
 

@@ -4,11 +4,11 @@ title: "Swiss Civil Procedure Code of 19 December 2008 (Civil Procedure Code, CP
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: en
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220701-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Civil Procedure Code, CPC)
 
-of 19 December 2008 (Status as of 1 July 2022)
+of 19 December 2008 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -85,24 +85,25 @@ The cantonal law designates the court that has jurisdiction as sole cantonal ins
 - d. disputes under the Unfair Competition Act of 19 December 1986[^5-1] if the amount in dispute exceeds 30,000 francs or if the Confederation exercises its right to file an action;
 - e.[^5-2] disputes under the Nuclear Energy Public Liability Act of 13 June 2008[^5-3];
 - f. claims against the Confederation;
-- g. the designation of a special comptroller by virtue of Article 697*b* of the Code of Obligations (CO)[^5-4];
-- h.[^5-5] disputes under the Collective Investment Schemes Act of 23 June 2006[^5-6], the Financial Market Infrastructure Act of 19 June 2015[^5-7] and the Financial Institutions Act of 15 June 2018[^5-8];
-- i.[^5-9] disputes under the Coat of Arms Protection Act of 21 June 2013[^5-10], the Federal Act of 25 March 1954[^5-11] on the Protection of the Emblem and Name of the Red Cross and the Federal Act of 15 December 1961[^5-12] on the Protection of the Names and Emblems of the United Nations Organization and other Intergovernmental Organisations.
+- g.[^5-4] disputes relating to the instigation and conduct of a special investigation in accordance with Articles 697*c–*697*h*<sup>bis</sup> of the Code of Obligations (CO)[^5-5];
+- h.[^5-6] disputes under the Collective Investment Schemes Act of 23 June 2006[^5-7], the Financial Market Infrastructure Act of 19 June 2015[^5-8] and the Financial Institutions Act of 15 June 2018[^5-9];
+- i.[^5-10] disputes under the Coat of Arms Protection Act of 21 June 2013[^5-11], the Federal Act of 25 March 1954[^5-12] on the Protection of the Emblem and Name of the Red Cross and the Federal Act of 15 December 1961[^5-13] on the Protection of the Names and Emblems of the United Nations Organization and other Intergovernmental Organisations.
 
 <sup>2</sup> This court is also competent to order interim measures before an action is pending.
 
 [^5-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 [^5-2]: Amended by Annex 2 No 1, in force since 1 Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^5-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-5]: Amended by Annex No II 4 of the Financial Institutes Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-6]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-8]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-9]: Inserted by Annex 3 No II 3 of the Coat of Arms Protection Act of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-10]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-11]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-12]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-4]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^5-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-6]: Amended by Annex No II 4 of the Financial Institutes Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-7]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^5-8]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-9]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-10]: Inserted by Annex 3 No II 3 of the Coat of Arms Protection Act of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-11]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
+[^5-12]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
+[^5-13]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
 
 #### Art. 6
 
@@ -416,7 +417,7 @@ The court at the domicile or registered office of the defendant or at the place 
 
 <sup>2</sup> Actions against the Swiss National Bureau of Insurance (Art. 74 of the Road Traffic Act of 19 December 1958[^38-1]; RTA) or against the Swiss National Guarantee Fund (Art. 76 RTA) may also be brought before the court at the place of any branch of such institutions.
 
-**Art. 38**a*[^38-2]* Nuclear damage
+**Art. 38**a[^38-2] Nuclear damage
 
 <sup>1</sup> In the case of actions arising from nuclear incidents, the court in the canton where the incident took place has mandatory jurisdiction.
 
@@ -1495,14 +1496,13 @@ Service is also deemed to have been effected:
 
 <sup>1</sup> With the consent of the person concerned, summonses, rulings and decisions may be served electronically. They must bear an electronic signature in accordance with the Federal Act of 18 March 2016[^139-2] on Electronic Signatures.
 
-<sup>2</sup> The Federal Council regulates:
+<sup>2</sup>
 
-a. the signature to be used;
+The Federal Council regulates:
 
-b. the format for summonses, rulings and decisions and their attachments;
-
-c. the method of transmission;
-
+- a. the signature to be used;
+- b. the format for summonses, rulings and decisions and their attachments;
+- c. the method of transmission;
 - d. the point in time at which the summons, ruling or decision is deemed to have been served.
 
 [^139-1]: Amended by Annex No II 5 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
@@ -1651,9 +1651,9 @@ Evidence is not required in support of publicly known facts, facts known to the 
 
 #### Art. 153
 
-**Taking of evidence *ex o**f**ficio***
+**Taking of evidence *ex officio***
 
-<sup>1</sup> The court takes evidence *ex officio* whenever it must ascertain the facts *ex off**i**cio*.
+<sup>1</sup> The court takes evidence *ex officio* whenever it must ascertain the facts *ex officio*.
 
 <sup>2</sup> It may take evidence *ex officio* if serious doubts exist as to the truth of an undisputed fact.
 
@@ -1797,7 +1797,7 @@ Any third party may refuse to cooperate:
 
 - a. in establishing facts that would expose him or her or a close associate as defined in Article 165 to criminal prosecution or civil liability;
 - b. to the extent that the revelation of a secret would be an offence by virtue of Article 321 SCC[^166-1]; auditors excepted; however, with the exception of lawyers and clerics, third parties must cooperate if they are subject to a disclosure duty or if they have been released from duty of secrecy, unless they show credibly that the interest in keeping the secret takes precedence over the interest in finding the truth;
-- c. in establishing facts that have been confided in him or her in his or her official capacity as public official as defined in Article 110 paragraph 3[^166-2] SCC or as a member of a public authority, or facts that have come to his or her attention in exercising his or her office; he or she must cooperate if he or she is subject to a disclosure duty or if he or she has been authorised to testify by his or her superior authority;
+- c.[^166-2] in establishing facts that have been confided in him or her in his or her official capacity as public official as defined in Article 110 paragraph 3 SCC or as a member of a public authority, or facts that have come to his or her attention in exercising his or her office or while carrying out an auxiliary activity for a public official or an authority; he or she must cooperate if he or she is subject to a disclosure duty or if he or she has been authorised to testify by his or her superior authority;
 - d.[^166-3] when asked to testify as an ombudsperson, marriage or family counsellor or mediator on facts that have come to his or her attention in the course of his or her activities;
 - e. when asked in his or her capacity as professional or auxiliary person engaged in the publication of information in the editorial part of a periodical to reveal the identity of the author or the content or source of his or her information.
 
@@ -1806,7 +1806,7 @@ Any third party may refuse to cooperate:
 <sup>3</sup> The special provisions of social security law concerning the disclosure of data are reserved.
 
 [^166-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^166-2]: Corrected by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^166-2]: Amended by Annex 1 No 5 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^166-3]: Amended by Annex No 2 of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 167
@@ -1869,7 +1869,7 @@ Any person who is not a party may testify on matters that he or she has directly
 
 **Form of statement**
 
-<sup>1</sup> A witness shall be cautioned as to the requirement to tell the truth before being questioned; if at least 14 years of age, the witness shall also advised of the criminal consequences of perjury (Art. 307 SCC[^171-1]).
+<sup>1</sup> A witness shall be cautioned as to the requirement to tell the truth before being questioned; if at least 14 years of age, the witness shall also be advised of the criminal consequences of perjury (Art. 307 SCC[^171-1]).
 
 <sup>2</sup> The court shall question each witness individually with no other witnesses present; the foregoing is subject to the provisions on confrontation.
 
@@ -2144,7 +2144,7 @@ Conciliation proceedings are not held:
   - 8\. action for the recovery of items that are subject to the right of retention (Art. 284 DEBA);
 
 - f. in disputes for which a court of sole cantonal instance has jurisdiction pursuant to Articles 5 and 6;
-- g. for principal intervention, counterclaim and third party actions;
+- g. for principal intervention, counterclaim and third-party actions;
 - h. if the court has set a deadline for filing the action.
 
 [^198-1]: Inserted by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
@@ -2860,14 +2860,15 @@ Summary proceedings may be brought in particular in the following cases:
   - 4\. sale at an overall sale price and modalities of sale of immovable property (Art. 585 para. 3 and 619 CO),
   - 5\. appointment of an expert to verify the profit and loss account and the balance sheet of the limited partnership (Art. 600 para. 3 CO),
   - 6\.[^250-4] allowing a period of time in the case of insufficient number of members or lack of corporate bodies (Art. 731*b*, 819, 908 and 941*a* CO),
-  - 7\.[^250-5] disclosure of information to shareholders and creditors of a company limited by shares, the members of a limited liability company and members of a cooperative (Art. 697 para. 4, 802 para. 4, 857 para. 3 and 958*e* CO),
-  - 8\. special audit of a company limited by shares (Art. 697*a* to 697*g* CO),
-  - 9\. convening a general meeting of the shareholders of a company limited by shares or the members of a cooperative, putting an item on the agenda and calling the assembly of the members of a limited liability company (Art. 699 para. 4, 805 para. 5 sec. 2 and 881 para. 3 CO),
-  - 10\. designation of a representative of the company or the cooperative in the event of a resolution of the general meeting being challenged by the management (Art. 706*a* para. 2, 808*c* and 891 para. 1 CO),
-  - 11\. appointment and removal of the auditors (Art. 731*b* CO),
+  - 7\.[^250-5] ordering the disclosure of information to creditors, shareholders and members of a limited liability company and to members of a cooperative (Art. 697*b*, 802 para. 4, 857 para. 3 and 958*e* CO),
+  - 8\.[^250-6] a special investigation (Art. 697*c*–697*h*<sup>bis</sup> CO),
+  - 9\.[^250-7] convening a general meeting, putting an item on the agenda, tabling motions with short explanations in the invitation to the general meeting (Art. 699 para. 5, 699*b* para. 4, 805 para. 5 nos 2 and 3 and 881 para. 3 CO),
+  - [tab] 10.[^250-8] designation of a representative of the company or the cooperative in the event of a resolution of the general meeting being challenged by the management (Art. 706*a* para. 2, 808*c* and 891 para. 1 CO),
+  - [tab] 11.[^250-9] appointment and removal of the auditors (Art. 731*b,* 819 and 908 CO),
   - 12\. deposit of amounts of claims in case of liquidation (Art. 744, 770, 826 para. 2 and 913 CO),
-  - 13\.[^250-6] removal of the directors and auditors of a cooperative (Art. 890 para. 2 CO);
-  - 14\.[^250-7] reinstatement of a deleted legal entity in the commercial register (Art. 935 CO);
+  - [tab] 13.[^250-10] removal of the directors and auditors of a cooperative (Art. 890 para. 2 CO),
+  - [tab] 14.[^250-11] reinstatement of a deleted legal entity in the commercial register (Art. 935 CO),
+  - [tab] 15.[^250-12] ordering the dissolution of the company and its liquidation in accordance with the provisions on bankruptcy (Art. 731*b*, 819 und 908 CO);
 
 - d.
 
@@ -2882,9 +2883,14 @@ Summary proceedings may be brought in particular in the following cases:
 [^250-2]: Corrected by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^250-3]: Amended by Annex No 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 [^250-4]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-5]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-6]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-7]: Inserted by Annex No 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-5]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-6]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-7]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-8]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-9]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-10]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^250-11]: Inserted by Annex No 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-12]: Inserted by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 251
 
@@ -3512,7 +3518,7 @@ If maintenance payments are agreed in a maintenance agreement or in the decision
 
 [^301a-1]: Inserted by Annex No 2 of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
-### Chapter 2 Summary Procedure: Scope of Application****
+### Chapter 2 Summary Procedure: Scope of Application
 
 [^part2-tit7-chap2-1]
 
@@ -3527,7 +3533,7 @@ If maintenance payments are agreed in a maintenance agreement or in the decision
 Summary procedure applies in particular in the case of:
 
 - a. decisions under the Hague Convention of 25 October 1980[^302-2] on the Civil Aspects of International Child Abduction and under the European Convention of 20 May 1980[^302-3] on Recognition and Enforcement of Decisions concerning Custody of Children and on Restoration of Custody of Children;
-- b. the payment of an special financial contribution to cover unforeseen extraordinary needs of the child (Art. 286 para. 3 CC[^302-4]);
+- b. the payment of a special financial contribution to cover unforeseen extraordinary needs of the child (Art. 286 para. 3 CC[^302-4]);
 - c. notice to debtors and the provision of security for child support outside proceedings on the parents' maintenance obligations (Art. 291 and 292 CC).
 
 <sup>2</sup> The provisions of the Federal Act of 21 December 2007[^302-5] on International Child Abduction and the Hague Conventions on the Protection of Children and Adults are reserved.
@@ -3538,7 +3544,7 @@ Summary procedure applies in particular in the case of:
 [^302-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^302-5]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
 
-### Chapter 3 Maintenance and Paternity Actions****
+### Chapter 3 Maintenance and Paternity Actions
 
 [^part2-tit7-chap3-1]
 
@@ -3601,7 +3607,7 @@ Articles 272 and 273 apply by analogy to the procedure.
 
 The provisions concerning the divorce proceedings apply by analogy to the dissolution and annulment of same-sex partnerships.
 
-### Chapter 3**** Proceedings relating to Children in connection with Same-Sex Partnerships
+### Chapter 3 Proceedings relating to Children in connection with Same-Sex Partnerships
 
 [^part2-tit8-chap3-1]
 
@@ -4211,7 +4217,7 @@ The canton where the arbitral tribunal is located shall designate a different co
 
 [^356-1]: Inserted by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
-### Title 2 Arbitration Agreement and Arbitration Clause****
+### Title 2 Arbitration Agreement and Arbitration Clause
 
 [^part3-tit2-1]
 
@@ -4741,7 +4747,7 @@ The coordination of this Code with provisions of other enactments is dealt with 
 
 ### Title 3 Transitional Provisions
 
-### Chapter 1 Transitional Provisions of 19 December 2008****
+### Chapter 1 Transitional Provisions of 19 December 2008
 
 [^part4-tit3-chap1-1]
 
@@ -4781,7 +4787,7 @@ The validity of an agreement on jurisdiction is governed by the law in force at 
 
 <sup>4</sup> Judicial proceedings under Article 356 that are pending on the commencement of this Code are governed by the previous law.
 
-### Chapter 2**** Transitional Provision to the Amendment of 28 September 2012
+### Chapter 2 Transitional Provision to the Amendment of 28 September 2012
 
 [^part4-tit3-chap2-1]
 
@@ -4791,7 +4797,7 @@ The validity of an agreement on jurisdiction is governed by the law in force at 
 
 In proceedings that are pending when the Amendment of 28 September 2012 to this Code comes into force, the new law applies to procedural acts from the date on which the Amendment comes into force
 
-### Chapter 3**** Transitional Provision to the Amendment of 20 March 2015
+### Chapter 3 Transitional Provision to the Amendment of 20 March 2015
 
 [^part4-tit3-chap3-1]
 
@@ -4803,7 +4809,7 @@ In proceedings that are pending when the Amendment of 28 September 2012 to this 
 
 <sup>2</sup> New prayers for relief that are filed as a result of the change in the law applicable are permitted; uncontested parts of a decision remain binding unless they are so closely materially connected with prayers for relief that have yet to be judged that it is reasonable to judge the entire matter.
 
-### Chapter 4**** Transitional Provision to the Amendment of 19 June 2015
+### Chapter 4 Transitional Provision to the Amendment of 19 June 2015
 
 [^part4-tit3-chap4-1]
 
@@ -4815,7 +4821,7 @@ In proceedings that are pending when the Amendment of 28 September 2012 to this 
 
 <sup>2</sup> New prayers for relief that are filed as a result of the change in the law applicable are permitted; uncontested parts of a decision remain binding unless they are so closely materially connected with prayers for relief that have yet to be judged that it is reasonable to judge the entire matter.
 
-### Chapter 5**** Transitional Provision to the Amendment of 14 December 2018
+### Chapter 5 Transitional Provision to the Amendment of 14 December 2018
 
 [^part4-tit3-chap5-1]
 
@@ -4853,7 +4859,7 @@ The Civil Jurisdiction Act of 24 March 2000[^annex1-lvlu1-lvlI-1] is repealed.
 
 The federal acts below are amended as follows:
 
-...*[^annex1-lvlu1-lvlII-1]*
+...[^annex1-lvlu1-lvlII-1]
 
 [^annex1-lvlu1-lvlII-1]: The amendments may be consulted under [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).
 
@@ -4865,7 +4871,7 @@ Annex 2
 
 ### 1. Coordination of the Civil Procedure Code with the new Nuclear Energy Public Liability Act
 
-*Irrespective of whether the Nuclear Energy Public Liability Act of 13 June 2008*[^annex2-lvlu1-lvl1-1] *(new NEPLA) or the Civil Procedure Code of 19 December 2008 (CPC) comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as fo**l**lows:*
+*Irrespective of whether the Nuclear Energy Public Liability Act of 13 June 2008*[^annex2-lvlu1-lvl1-1] *(new NEPLA) or the Civil Procedure Code of 19 December 2008 (CPC) comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as follows:*
 
 …[^annex2-lvlu1-lvl1-2]
 
@@ -4874,13 +4880,13 @@ Annex 2
 
 ### 2. Coordination of Number 19 of Annex 1 with the new NEPLA
 
-*Irrespective of whether the new NEPLA*[^annex2-lvlu1-lvl2-1]*or the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, Number 19 of Annex 1 of the CPC ceases to apply and the new NEPLA shall be amended in accordance with Number 20 of A**n**nex 1 of the CPC.*
+*Irrespective of whether the new NEPLA*[^annex2-lvlu1-lvl2-1]*or the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, Number 19 of Annex 1 of the CPC ceases to apply and the new NEPLA shall be amended in accordance with Number 20 of Annex 1 of the CPC.*
 
 [^annex2-lvlu1-lvl2-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
 
 ### 3. Coordination with the Amendment of the Civil Code (CC) of 19 December 2008 (Protection of Adults, Law of Persons and Law on Children)
 
-*Irrespective of whether the amendment of the CC of 19 December 2008*[^annex2-lvlu1-lvl3-1] *(prote**c**tion of adults, law of persons and law on children) of the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as follows:*
+*Irrespective of whether the amendment of the CC of 19 December 2008*[^annex2-lvlu1-lvl3-1] *(protection of adults, law of persons and law on children) of the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as follows:*
 
 ...[^annex2-lvlu1-lvl3-2]
 

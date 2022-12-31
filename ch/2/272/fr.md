@@ -4,11 +4,11 @@ title: Code de procédure civile du 19 décembre 2008 (CPC)
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/fr"
 
 (CPC)
 
-du 19 décembre 2008 (Etat le 1<sup>er</sup> juillet 2022)
+du 19 décembre 2008 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -83,24 +83,25 @@ Le droit cantonal institue la juridiction compétente pour statuer en instance c
 - d. les litiges relevant de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^5-1] lorsque la valeur litigieuse dépasse 30 000 francs ou que la Confédération exerce son droit d’action;
 - e.[^5-2] les litiges relevant de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^5-3];
 - f. les actions contre la Confédération;
-- g. la désignation d’un contrôleur spécial en vertu de l’art. 697*b* du code des obligations (CO)[^5-4];
-- h.[^5-5] les litiges relevant de la loi du 23 juin 2006 sur les placements collectifs[^5-6], de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^5-7] et de la loi fédérale du 15 juin 2018 sur les établissements financiers[^5-8];
-- i.[^5-9] les litiges relevant de la loi du 21 juin 2013 sur la protection des armoiries[^5-10], de la loi fédérale du 25 mars 1954 concernant la protection de l’emblème et du nom de la Croix-Rouge[^5-11] et de la loi fédérale du 15 décembre 1961 concernant la protection des noms et emblèmes de l’Organisation des Nations Unies et d’autres organisations intergouvernementales[^5-12].
+- g.[^5-4] les litiges portant sur l’institution et le déroulement de l’examen spécial (art. 697*c* à 697*h*<sup>bis</sup> du code des obligations, CO[^5-5]);
+- h.[^5-6] les litiges relevant de la loi du 23 juin 2006 sur les placements collectifs[^5-7], de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^5-8] et de la loi fédérale du 15 juin 2018 sur les établissements financiers[^5-9];
+- i.[^5-10] les litiges relevant de la loi du 21 juin 2013 sur la protection des armoiries[^5-11], de la loi fédérale du 25 mars 1954 concernant la protection de l’emblème et du nom de la Croix-Rouge[^5-12] et de la loi fédérale du 15 décembre 1961 concernant la protection des noms et emblèmes de l’Organisation des Nations Unies et d’autres organisations intergouvernementales[^5-13].
 
 <sup>2</sup> Cette juridiction est également compétente pour statuer sur les mesures provisionnelles requises avant litispendance.
 
 [^5-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 [^5-2]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914); [RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^5-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-5]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-6]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-7]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-8]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-9]: Introduite par l’annexe 3 ch. II 3 de la L du 21 juin 2013 sur la protection des armoiries, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-10]: [RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-11]: [RS 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-12]: [RS 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-4]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^5-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-6]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-7]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^5-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-9]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-10]: Introduite par l’annexe 3 ch. II 3 de la L du 21 juin 2013 sur la protection des armoiries, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-11]: [RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
+[^5-12]: [RS 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
+[^5-13]: [RS 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
 
 #### Art. 6
 
@@ -1731,7 +1732,7 @@ Les parties et les tiers sont tenus de collaborer à l’administration des preu
 
 <sup>3</sup> Les tiers qui ont l’obligation de collaborer ont droit à une indemnité équitable.
 
-[^160-1]: Nouvelle teneur selon le ch. I 4 de la LF du 28 sept. 2012 sur l’adaptation de disp. de procédure relataives au secret professionnel des avocats, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7509](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
+[^160-1]: Nouvelle teneur selon le ch. I 4 de la LF du 28 sept. 2012 sur l’adaptation de disp. de procédure relatives au secret professionnel des avocats, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7509](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
 [^160-2]: [RS 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
 
 #### Art. 161
@@ -1803,7 +1804,7 @@ Tout tiers peut refuser de collaborer:
 
 - a. à l’établissement de faits qui risquerait de l’exposer ou d’exposer un de ses proches au sens de l’art. 165 à une poursuite pénale ou d’engager sa responsabilité civile ou celle de ses proches;
 - b. dans la mesure où, de ce fait, la révélation d’un secret serait punissable en vertu de l’art. 321 CP[^166-1]; les réviseurs sont exceptés; à l’exception des avocats et des ecclésiastiques, le tiers soumis à une obligation de dénoncer ou délié de l’obligation de garder le secret a le devoir de collaborer, à moins qu’il ne rende vraisemblable que l’intérêt à garder le secret l’emporte sur l’intérêt à la manifestation de la vérité;
-- c. à l’établissement de faits qui lui ont été confiés en sa qualité officielle de fonctionnaire au sens de l’art. 110, al. 3[^166-2], CP ou de membre d’une autorité, ou dont il a eu connaissance dans l’exercice de ses fonctions; il doit collaborer s’il est soumis à une obligation de dénoncer ou si l’autorité dont il relève l’y a habilité;
+- c.[^166-2] à l’établissement de faits qui lui ont été confiés en sa qualité officielle de fonctionnaire au sens de l’art. 110, al. 3, CP ou de membre d’une autorité, ou dont il a eu connaissance dans l’exercice de ses fonctions ou de son activité auxiliaire pour un fonctionnaire ou une autorité; il doit collaborer s’il est soumis à une obligation de dénoncer ou si l’autorité dont il relève l’y a habilité;
 - d.[^166-3] lorsqu’il serait amené en tant qu’ombudsman, conseiller conjugal ou familial, ou encore médiateur à révéler des faits dont il a eu connaissance dans l’exercice de ses fonctions;
 - e. lorsqu’il serait amené, en tant que collaborateur ou auxiliaire participant à la publication d’informations dans la partie rédactionnelle d’un média à caractère périodique à révéler l’identité de l’auteur ou le contenu et les sources de ses informations.
 
@@ -1812,7 +1813,7 @@ Tout tiers peut refuser de collaborer:
 <sup>3</sup> Les dispositions spéciales du droit des assurances sociales concernant la communication de données sont réservées.
 
 [^166-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^166-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^166-2]: Nouvelle teneur selon l’annexe 1 ch. 5 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^166-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 167
@@ -2863,14 +2864,15 @@ La procédure sommaire s’applique notamment dans les affaires suivantes:
   - 4\. vente en bloc et mode adopté pour l’aliénation d’immeubles (art. 585, al. 3, et 619 CO),
   - 5\. désignation d’un expert aux fins de contrôler l’exactitude du compte de pertes et profits et du bilan de la société en commandite (art. 600, al. 3, CO),
   - 6\.[^250-4] fixation d’un délai lorsque le nombre des membres est insuffisant ou que des organes requis font défaut (art. 731*b*, 819, 908 et 941*a* CO),
-  - 7\.[^250-5] obligation de renseigner les actionnaires et les créanciers d’une société anonyme, les associés de la société à responsabilité limitée et les membres de la société coopérative (art. 697, al. 4, 802, al. 4, 857, al. 3, et 958*e* CO),
-  - 8\. contrôle spécial de la société anonyme (art. 697*a* à 697*g* CO),
-  - 9\. convocation de l’assemblée générale de la société anonyme ou de la société coopérative et inscription d’un objet à l’ordre du jour et convocation de l’assemblée générale de la société à responsabilité limitée (art. 699, al. 4, 805, al. 5, ch. 2, et 881, al. 3, CO),
-  - 10\. désignation d’un représentant de la société en cas d’action en annulation d’une décision de l’assemblée générale intentée par son administration (art. 706*a*, al. 2, 808*c* et 891, al. 1, CO),
-  - 11\. désignation et révocation de l’organe de révision (art. 731*b* CO),
+  - 7\.[^250-5] obligation de renseigner les créanciers ainsi que les actionnaires, les associés d’une société à responsabilité limitée et les membres d’une société coopérative (art. 697*b*, 802, al. 4, 857, al. 3, et 958*e* CO),
+  - 8\.[^250-6] examen spécial (art. 697*c* à 697*h*<sup>bis</sup> CO),
+  - 9\.[^250-7] convocation de l’assemblée générale, inscription d’un objet à l’ordre du jour et inscription d’une proposition et d’une motivation succincte dans la convocation à l’assemblée générale (art. 699, al. 5, 699*b*, al. 4, 805, al. 5, ch. 2 et 3, et 881, al. 3, CO),
+  - 10\.[^250-8] désignation d’un représentant de la société ou de la société coopérative en cas d’action en annulation d’une décision de l’assemblée générale intentée par son administration (art. 706*a*, al. 2, 808*c* et 891, al. 1, CO),
+  - 11\.[^250-9] désignation et révocation de l’organe de révision (art. 731*b*, 819 et 908 CO),
   - 12\. consignation du montant de créances en cas de liquidation (art. 744, 770, 826, al. 2, et 913 CO),
-  - 13\.[^250-6] révocation de l’administration et de l’organe de révision de la société coopérative (art. 890, al. 2, CO),
-  - [tab] 14.[^250-7]réinscription au registre du commerce d’une entité juridique radiée (art. 935 CO);
+  - 13\.[^250-10] révocation de l’administration et de l’organe de révision de la société coopérative (art. 890, al. 2, CO),
+  - [tab] 14.[^250-11]réinscription au registre du commerce d’une entité juridique radiée (art. 935 CO),
+  - 15\.[^250-12] prononcé de la dissolution de la société et de sa liquidation selon les dispositions applicables à la faillite (art. 731*b*, 819 et 908 CO);
 
 - d.
 
@@ -2885,9 +2887,14 @@ La procédure sommaire s’applique notamment dans les affaires suivantes:
 [^250-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^250-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 mars 2017 (Droit du registre du commerce), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 3255](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 [^250-4]: Nouvelle teneur selon le ch. II de la LF du 25 sept. 2015 (Représentation professionnelle dans une procédure d’exécution forcée), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 8505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-5]: Nouvelle teneur selon le ch. II de la LF du 25 sept. 2015 (Représentation professionnelle dans une procédure d’exécution forcée), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 8505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-6]: Nouvelle teneur selon le ch. II de la LF du 25 sept. 2015 (Représentation professionnelle dans une procédure d’exécution forcée), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 8505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-7]: Introduit par l’annexe ch. 2 de la LF du 17 mars 2017 (Droit du registre du commerce), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 3255](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-5]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-6]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-7]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-8]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-9]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-10]: Nouvelle teneur selon le ch. II de la LF du 25 sept. 2015 (Représentation professionnelle dans une procédure d’exécution forcée), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 8505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^250-11]: Introduit par l’annexe ch. 2 de la LF du 17 mars 2017 (Droit du registre du commerce), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 3255](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-12]: Introduit par l’annexe ch. 3 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 251
 
@@ -3516,7 +3523,7 @@ La convention d’entretien ou la décision qui fixe les contributions d’entre
 
 [^301a-1]: Introduit par l’annexe ch. 2 de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
-### Chapitre 2 Procédure sommaire: champ d’application****
+### Chapitre 2 Procédure sommaire: champ d’application
 
 [^part2-tit7-chap2-1]
 
@@ -3542,7 +3549,7 @@ La procédure sommaire s’applique en particulier:
 [^302-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^302-5]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
 
-### Chapitre 3 Demande d’aliments et action en paternité****
+### Chapitre 3 Demande d’aliments et action en paternité
 
 [^part2-tit7-chap3-1]
 
@@ -3605,7 +3612,7 @@ Les art. 272 et 273 s’appliquent par analogie à la procédure.
 
 Les dispositions relatives à la procédure de divorce s’appliquent par analogie à la dissolution et à l’annulation du partenariat enregistré.
 
-### Chapitre 3**** Procédure applicable aux enfants dans les affaires relatives à un partenariat enregistré
+### Chapitre 3 Procédure applicable aux enfants dans les affaires relatives à un partenariat enregistré
 
 [^part2-tit8-chap3-1]
 
@@ -4217,7 +4224,7 @@ Le canton du siège du tribunal arbitral désigne un tribunal différent ou comp
 
 [^356-1]: Introduit par l’annexe ch. 2 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 7153](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
-### Titre 2 Convention et clause d’arbitrage****
+### Titre 2 Convention et clause d’arbitrage
 
 [^part3-tit2-1]
 
@@ -4749,7 +4756,7 @@ La coordination de la présente loi avec d’autres actes législatifs est régl
 
 ### Titre 3 Dispositions transitoires
 
-### Chapitre 1 Dispositions transitoires du 19 décembre 2008****
+### Chapitre 1 Dispositions transitoires du 19 décembre 2008
 
 [^part4-tit3-chap1-1]
 
@@ -4789,7 +4796,7 @@ La validité d’une clause d’élection de for est déterminée selon le droit
 
 <sup>4</sup> Les procédures judiciaires visées à l’art. 356 qui sont pendantes à l’entrée en vigueur de la présente loi sont régies par l’ancien droit.
 
-### Chapitre 2**** Disposition transitoire de la modification du 28 septembre 2012
+### Chapitre 2 Disposition transitoire de la modification du 28 septembre 2012
 
 [^part4-tit3-chap2-1]
 
@@ -4799,7 +4806,7 @@ La validité d’une clause d’élection de for est déterminée selon le droit
 
 Les actes des procédures en cours accomplis après l’entrée en vigueur de la modification du 28 septembre 2012 sont régis par le nouveau droit.
 
-### Chapitre 3**** Disposition transitoire de la modification du 20 mars 2015
+### Chapitre 3 Disposition transitoire de la modification du 20 mars 2015
 
 [^part4-tit3-chap3-1]
 
@@ -4811,7 +4818,7 @@ Les actes des procédures en cours accomplis après l’entrée en vigueur de la
 
 <sup>2</sup> Les parties peuvent présenter de nouvelles conclusions sur les questions touchées par la modification du droit applicable; les points du jugement qui ne font pas l’objet d’un recours sont définitifs, pour autant qu’ils n’aient pas de lien matériel si étroit avec des questions encore ouvertes qu’une appréciation globale se justifie.
 
-### Chapitre 4**** Disposition transitoire de la modification du 19 juin 2015
+### Chapitre 4 Disposition transitoire de la modification du 19 juin 2015
 
 [^part4-tit3-chap4-1]
 
@@ -4823,7 +4830,7 @@ Les actes des procédures en cours accomplis après l’entrée en vigueur de la
 
 <sup>2</sup> Les parties peuvent présenter de nouvelles conclusions sur les questions touchées par la modification du droit applicable; les points du jugement qui ne font pas l’objet d’un recours sont définitifs, pour autant qu’ils n’aient pas de lien matériel si étroit avec des questions encore ouvertes qu’une appréciation globale se justifie.
 
-### Chapitre 5**** Disposition transitoire de la modification du 14 décembre 2018
+### Chapitre 5 Disposition transitoire de la modification du 14 décembre 2018
 
 [^part4-tit3-chap5-1]
 
@@ -4871,22 +4878,22 @@ Annexe 2
 
 ### 1. Coordination du code de procédure civile avec la loi sur la responsabilité civile en matière nucléaire
 
-Quel que soit l’ordre dans lequel le code de procédure civile du 19 décembre 2008 (CPC) et la loi du 13 juin 2008 sur la responsabilité civile en matière nucléaire (nouvelle LRCN)*[^annex2-lvlu1-lvl1-1]* entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le CPC est modifié comme suit:
+Quel que soit l’ordre dans lequel le code de procédure civile du 19 décembre 2008 (CPC) et la loi du 13 juin 2008 sur la responsabilité civile en matière nucléaire (nouvelle LRCN)[^annex2-lvlu1-lvl1-1] entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le CPC est modifié comme suit:
 
-...[^annex2-lvlu1-lvl1-2]
+…[^annex2-lvlu1-lvl1-2]
 
 [^annex2-lvlu1-lvl1-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); en vigueur depuis le 1<sup>er</sup> janv. 2022, publié le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
 [^annex2-lvlu1-lvl1-2]: Les mod. peuvent être consultées au [RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).
 
 ### 2. Coordination du ch. 19 de l’annexe 1 avec la nouvelle LRCN
 
-Quel que soit l’ordre dans lequel le CPC et la nouvelle LRCN*[^annex2-lvlu1-lvl2-1]* entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le ch. 19 de l’annexe 1 CPC est sans objet et la nouvelle LRCN est modifiée selon le ch. 20 de l’annexe 1 CPC.
+Quel que soit l’ordre dans lequel le CPC et la nouvelle LRCN[^annex2-lvlu1-lvl2-1] entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le ch. 19 de l’annexe 1 CPC est sans objet et la nouvelle LRCN est modifiée selon le ch. 20 de l’annexe 1 CPC.
 
 [^annex2-lvlu1-lvl2-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); en vigueur depuis le 1<sup>er</sup> janv. 2022, publié le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
 
 ### 3. Coordination du code de procédure civile avec la modification du CC du 19 décembre 2008 (Protection de l’adulte, droit des personnes et droit de la filiation)
 
-Quel que soit l’ordre dans lequel le CPC et la modification du CC du 19 décembre 2008 (Protection de l’adulte, droit des personnes et droit de la filiation)*[^annex2-lvlu1-lvl3-1]* entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le CPC est modifié comme suit:
+Quel que soit l’ordre dans lequel le CPC et la modification du CC du 19 décembre 2008 (Protection de l’adulte, droit des personnes et droit de la filiation)[^annex2-lvlu1-lvl3-1] entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le CPC est modifié comme suit:
 
 …[^annex2-lvlu1-lvl3-2]
 

@@ -4,11 +4,11 @@ title: "Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessor
 short: ZPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/de"
 
 (Zivilprozessordnung, ZPO)
 
-vom 19. Dezember 2008 (Stand am 1. Juli 2022)
+vom 19. Dezember 2008 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -83,24 +83,25 @@ Das kantonale Recht bezeichnet das Gericht, welches als einzige kantonale Instan
 - d. Streitigkeiten nach dem Bundesgesetz vom 19. Dezember 1986[^5-1] gegen den unlauteren Wettbewerb, sofern der Streitwert mehr als 30 000 Franken beträgt oder sofern der Bund sein Klagerecht ausübt;
 - e.[^5-2] Streitigkeiten nach dem Kernenergiehaftpflichtgesetz vom 13. Juni 2008[^5-3];
 - f. Klagen gegen den Bund;
-- g. die Einsetzung eines Sonderprüfers nach Artikel 697*b* des Obligationenrechts (OR)[^5-4];
-- h.[^5-5] Streitigkeiten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^5-6], nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^5-7] und nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^5-8];
-- i.[^5-9] Streitigkeiten nach dem Wappenschutzgesetz vom 21. Juni 2013[^5-10], dem Bundesgesetz vom 25. März 1954[^5-11] betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes und dem Bundesgesetz vom 15. Dezember 1961[^5-12] zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen.
+- g.[^5-4] Streitigkeiten über die Einleitung und Durchführung einer Sonderuntersuchung nach den Artikeln 697*c–*697*h*<sup>bis</sup> des Obligationenrechts (OR)[^5-5];
+- h.[^5-6] Streitigkeiten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^5-7], nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^5-8] und nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^5-9];
+- i.[^5-10] Streitigkeiten nach dem Wappenschutzgesetz vom 21. Juni 2013[^5-11], dem Bundesgesetz vom 25. März 1954[^5-12] betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes und dem Bundesgesetz vom 15. Dezember 1961[^5-13] zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen.
 
 <sup>2</sup> Diese Instanz ist auch für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit einer Klage zuständig.
 
 [^5-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 [^5-2]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 1. Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^5-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-5]: Fassung gemäss Anhang Ziff. II 4 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-6]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-8]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-9]: Eingefügt durch Anhang 3 Ziff. II 3 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-10]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-11]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-12]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^5-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-6]: Fassung gemäss Anhang Ziff. II 4 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-7]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^5-8]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-9]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-10]: Eingefügt durch Anhang 3 Ziff. II 3 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-11]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
+[^5-12]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
+[^5-13]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
 
 #### Art. 6
 
@@ -1798,7 +1799,7 @@ Eine dritte Person kann die Mitwirkung verweigern:
 
 - a. zur Feststellung von Tatsachen, die sie oder eine ihr im Sinne von Artikel 165 nahestehende Person der Gefahr strafrechtlicher Verfolgung oder zivilrechtlicher Verantwortlichkeit aussetzen würde;
 - b. soweit sie sich wegen Verletzung eines Geheimnisses nach Artikel 321 StGB[^166-1] strafbar machen würde; ausgenommen sind die Revisorinnen und Revisoren; mit Ausnahme der Anwältinnen und Anwälte sowie der Geistlichen haben Dritte jedoch mitzuwirken, wenn sie einer Anzeigepflicht unterliegen oder wenn sie von der Geheimhaltungspflicht entbunden worden sind, es sei denn, sie machen glaubhaft, dass das Geheimhaltungsinteresse das Interesse an der Wahrheitsfindung überwiegt;
-- c. zur Feststellung von Tatsachen, die ihr als Beamtin oder Beamter im Sinne von Artikel 110 Absatz 3[^166-2] StGB oder als Behördenmitglied in ihrer amtlichen Eigenschaft anvertraut worden sind oder die sie bei Ausübung ihres Amtes wahrgenommen hat; sie hat auszusagen, wenn sie einer Anzeigepflicht unterliegt oder wenn sie von ihrer vorgesetzten Behörde zur Aussage ermächtigt worden ist;
+- c.[^166-2] zur Feststellung von Tatsachen, die ihr als Beamtin oder Beamter im Sinne von Artikel 110 Absatz 3 StGB oder als Behördenmitglied in ihrer amtlichen Eigenschaft anvertraut worden sind oder die sie bei Ausübung ihres Amtes oder bei Ausübung ihrer Hilfstätigkeit für eine Beamtin oder einen Beamten oder eine Behörde wahrgenommen hat; sie hat auszusagen, wenn sie einer Anzeigepflicht unterliegt oder wenn sie von ihrer vorgesetzten Behörde zur Aussage ermächtigt worden ist;
 - d.[^166-3] wenn sie als Ombudsperson, Ehe- oder Familienberaterin oder -berater, Mediatorin oder Mediator über Tatsachen aussagen müsste, die sie im Rahmen der betreffenden Tätigkeit wahrgenommen hat;
 - e. über die Identität der Autorin oder des Autors oder über Inhalt und Quellen ihrer Informationen, wenn sie sich beruflich oder als Hilfsperson mit der Veröffentlichung von Informationen im redaktionellen Teil eines periodisch erscheinenden Mediums befasst.
 
@@ -1807,7 +1808,7 @@ Eine dritte Person kann die Mitwirkung verweigern:
 <sup>3</sup> Vorbehalten bleiben die besonderen Bestimmungen des Sozialversicherungsrechts über die Datenbekanntgabe.
 
 [^166-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^166-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG ‒ [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^166-2]: Fassung gemäss Anhang 1 Ziff. 5 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^166-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 167
@@ -2861,14 +2862,15 @@ Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
   - 4\. Verkauf zu einem Gesamtübernahmepreis und Art der Veräusserung von Grundstücken (Art. 585 Abs. 3 und 619 OR),
   - 5\. Bezeichnung der sachverständigen Person zur Prüfung der Gewinn- und Verlustrechnung und der Bilanz der Kommanditgesellschaft (Art. 600 Abs. 3 OR),
   - 6\.[^250-4] Ansetzung einer Frist bei ungenügender Anzahl von Mitgliedern oder bei Fehlen von notwendigen Organen (Art. 731*b*, 819, 908 und 941*a* OR),
-  - 7\.[^250-5] Anordnung der Auskunftserteilung an Aktionäre und Gläubiger einer Aktiengesellschaft, an Mitglieder einer Gesellschaft mit beschränkter Haftung und an Genossenschafter (Art. 697 Abs. 4, 802 Abs. 4, 857 Abs. 3 und 958*e* OR),
-  - 8\. Sonderprüfung bei der Aktiengesellschaft (Art. 697*a*–697*g* OR),
-  - 9\. Einberufung der Generalversammlung einer Aktiengesellschaft oder einer Genossenschaft, Traktandierung eines Verhandlungsgegenstandes und Einberufung der Gesellschafterversammlung einer Gesellschaft mit beschränkter Haftung (Art. 699 Abs. 4, 805 Abs. 5 Ziff. 2 und 881 Abs. 3 OR),
-  - 10\. Bezeichnung einer Vertretung der Gesellschaft oder der Genossenschaft bei Anfechtung von Generalversammlungsbeschlüssen durch die Verwaltung (Art. 706*a* Abs. 2, 808*c* und 891 Abs. 1 OR),
-  - 11\. Ernennung und Abberufung der Revisionsstelle (Art. 731*b* OR),
+  - 7\.[^250-5] Anordnung der Auskunftserteilung an Gläubiger sowie an Aktionäre, Gesellschafter einer Gesellschaft mit beschränkter Haftung und Genossenschafter (Art. 697*b*, 802 Abs. 4, 857 Abs. 3 und 958*e* OR),
+  - 8\.[^250-6] Sonderuntersuchung (Art. 697*c*–697*h*<sup>bis</sup> OR),
+  - 9\.[^250-7] Einberufung der Generalversammlung, Traktandierung eines Verhandlungsgegenstandes und Aufnahme von Anträgen und kurzen Begründungen in die Einladung der Generalversammlung (Art. 699 Abs. 5, 699*b* Abs. 4, 805 Abs. 5 Ziff. 2 und 3 und 881 Abs. 3 OR),
+  - 10\.[^250-8] Bezeichnung einer Vertretung der Gesellschaft oder der Genossenschaft bei Anfechtung von Generalversammlungsbeschlüssen durch die Verwaltung (Art. 706*a* Abs. 2, 808*c* und 891 Abs. 1 OR),
+  - 11\.[^250-9] Ernennung und Abberufung der Revisionsstelle (Art. 731*b*, 819 und 908 OR),
   - 12\. Hinterlegung von Forderungsbeiträgen bei der Liquidation (Art. 744, 770, 826 Abs. 2 und 913 OR),
-  - 13\.[^250-6] Abberufung der Verwaltung und der Revisionsstelle der Genossenschaft (Art. 890 Abs. 2 OR),
-  - 14\.[^250-7] Wiedereintragung einer gelöschten Rechtseinheit ins Handelsregister (Art. 935 OR);
+  - 13\.[^250-10] Abberufung der Verwaltung und der Revisionsstelle der Genossenschaft (Art. 890 Abs. 2 OR),
+  - 14\.[^250-11] Wiedereintragung einer gelöschten Rechtseinheit ins Handelsregister (Art. 935 OR),
+  - [tab] 15.[^250-12] Anordnung zur Auflösung der Gesellschaft und zu ihrer Liquidation nach den Vorschriften über den Konkurs (Art. 731*b*, 819 und 908 OR);
 
 - d.
 
@@ -2883,9 +2885,14 @@ Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
 [^250-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^250-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 [^250-4]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-5]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-6]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-7]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-6]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-7]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-8]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-9]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-10]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^250-11]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-12]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 251
 
@@ -3513,7 +3520,7 @@ Werden im Unterhaltsvertrag oder im Entscheid Unterhaltsbeiträge festgelegt, so
 
 [^301a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
-### 2. Kapitel: Summarisches Verfahren: Geltungsbereich****
+### 2. Kapitel: Summarisches Verfahren: Geltungsbereich
 
 [^part2-tit7-chap2-1]
 
@@ -3539,7 +3546,7 @@ Das summarische Verfahren ist insbesondere anwendbar für:
 [^302-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^302-5]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
 
-### 3. Kapitel: Unterhalts- und Vaterschaftsklage****
+### 3. Kapitel: Unterhalts- und Vaterschaftsklage
 
 [^part2-tit7-chap3-1]
 
@@ -3602,7 +3609,7 @@ Für das Verfahren gelten die Artikel 272 und 273 sinngemäss.
 
 Für das Verfahren zur Auflösung und zur Ungültigerklärung der eingetragenen Partnerschaft gelten die Bestimmungen über das Scheidungsverfahren sinngemäss.
 
-### 3. Kapitel:**** Kinderbelange in Verfahren bei eingetragener Partnerschaft
+### 3. Kapitel: Kinderbelange in Verfahren bei eingetragener Partnerschaft
 
 [^part2-tit8-chap3-1]
 
@@ -4213,7 +4220,7 @@ Ein vom Sitzkanton bezeichnetes anderes oder anders zusammengesetztes Gericht is
 
 [^356-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
-### 2. Titel: Schiedsvereinbarung und Schiedsklausel****
+### 2. Titel: Schiedsvereinbarung und Schiedsklausel
 
 [^part3-tit2-1]
 
@@ -4743,7 +4750,7 @@ Die Koordination von Bestimmungen anderer Erlasse mit diesem Gesetz wird in Anha
 
 ### 3. Titel: Übergangsbestimmungen
 
-### 1. Kapitel: Übergangsbestimmungen vom 19. Dezember 2008****
+### 1. Kapitel: Übergangsbestimmungen vom 19. Dezember 2008
 
 [^part4-tit3-chap1-1]
 
@@ -4783,7 +4790,7 @@ Die Gültigkeit einer Gerichtsstandsvereinbarung bestimmt sich nach dem Recht, d
 
 <sup>4</sup> Für Verfahren vor den nach Artikel 356 zuständigen staatlichen Gerichten, die bei Inkrafttreten dieses Gesetzes rechtshängig sind, gilt das bisherige Recht.
 
-### 2. Kapitel:**** Übergangsbestimmung zur Änderung vom 28. September 2012
+### 2. Kapitel: Übergangsbestimmung zur Änderung vom 28. September 2012
 
 [^part4-tit3-chap2-1]
 
@@ -4793,7 +4800,7 @@ Die Gültigkeit einer Gerichtsstandsvereinbarung bestimmt sich nach dem Recht, d
 
 In Verfahren, die bei Inkrafttreten der Änderung vom 28. September 2012 dieses Gesetzes rechtshängig sind, gilt für Verfahrenshandlungen ab dem Zeitpunkt des Inkrafttretens das neue Recht.
 
-### 3. Kapitel:**** Übergangsbestimmung zur Änderung vom 20. März 2015
+### 3. Kapitel: Übergangsbestimmung zur Änderung vom 20. März 2015
 
 [^part4-tit3-chap3-1]
 
@@ -4805,7 +4812,7 @@ In Verfahren, die bei Inkrafttreten der Änderung vom 28. September 2012 dieses 
 
 <sup>2</sup> Neue Rechtsbegehren, die durch den Wechsel des anwendbaren Rechts veranlasst werden, sind zulässig; nicht angefochtene Teile eines Entscheids bleiben verbindlich, sofern sie sachlich nicht derart eng mit noch zu beurteilenden Rechtsbegehren zusammenhängen, dass sinnvollerweise eine Gesamtbeurteilung stattfinden muss.
 
-### 4. Kapitel:**** Übergangsbestimmung zur Änderung vom 19. Juni 2015
+### 4. Kapitel: Übergangsbestimmung zur Änderung vom 19. Juni 2015
 
 [^part4-tit3-chap4-1]
 
@@ -4817,7 +4824,7 @@ In Verfahren, die bei Inkrafttreten der Änderung vom 28. September 2012 dieses 
 
 <sup>2</sup> Neue Rechtsbegehren, die durch den Wandel des anwendbaren Rechts veranlasst werden, sind zulässig; nicht angefochtene Teile des Urteils bleiben verbindlich, sofern sie sachlich nicht derart eng mit noch zu beurteilenden Rechtsbegehren zusammenhängen, dass sinnvollerweise eine Gesamtbeurteilung stattfinden muss.
 
-### 5. Kapitel:**** Übergangsbestimmung zur Änderung vom 14. Dezember 2018
+### 5. Kapitel: Übergangsbestimmung zur Änderung vom 14. Dezember 2018
 
 [^part4-tit3-chap5-1]
 
@@ -4867,7 +4874,7 @@ Anhang 2
 
 ### 1. Koordination der Zivilprozessordnung mit dem neuen Kernenergiehaftpflichtgesetz
 
-*Unabhängig davon, ob das Kernenergiehaftpflichtgesetz vom 13. Juni 2008*[^annex2-lvlu1-lvl1-1] *(ne**u**es KHG) oder die Zivilprozessordnung vom 19. Dezember 2008 (ZPO) zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeit**i**gem Inkrafttreten die ZPO wie folgt geändert:*
+*Unabhängig davon, ob das Kernenergiehaftpflichtgesetz vom 13. Juni 2008*[^annex2-lvlu1-lvl1-1] *(neues KHG) oder die Zivilprozessordnung vom 19. Dezember 2008 (ZPO) zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die ZPO wie folgt geändert:*
 
 …[^annex2-lvlu1-lvl1-2]
 
@@ -4876,13 +4883,13 @@ Anhang 2
 
 ### 2. Koordination von Ziffer 19 des Anhangs 1 mit dem neuen KHG
 
-*Unabhängig davon, ob das neue KHG*[^annex2-lvlu1-lvl2-1] *oder die ZPO zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkraf**t**treten Ziffer 19 des Anhangs 1 der ZPO gegenstandslos und das neue KHG wird gemäss Ziffer 20 des Anhangs 1 der ZPO geändert.*
+*Unabhängig davon, ob das neue KHG*[^annex2-lvlu1-lvl2-1] *oder die ZPO zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten Ziffer 19 des Anhangs 1 der ZPO gegenstandslos und das neue KHG wird gemäss Ziffer 20 des Anhangs 1 der ZPO geändert.*
 
 [^annex2-lvlu1-lvl2-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); in Kraft seit 1. Jan. 2022, publiziert am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
 
 ### 3. Koordination mit der Änderung vom 19. Dezember 2008 des ZGB (Erwachsenenschutz, Personenrecht und Kindesrecht)
 
-*Unabhängig davon, ob die Änderung vom 19. Dezember 2008*[^annex2-lvlu1-lvl3-1] *des ZGB (Erwac**h**se**nenschutz, Persone**n**recht und Kindesrecht) oder die ZPO zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleich**zei**t**i**gem Inkrafttreten die ZPO wie folgt geändert:*
+*Unabhängig davon, ob die Änderung vom 19. Dezember 2008*[^annex2-lvlu1-lvl3-1] *des ZGB (Erwachse**nenschutz, Personenrecht und Kindesrecht) oder die ZPO zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleich**zei**tigem Inkrafttreten die ZPO wie folgt geändert:*
 
 …[^annex2-lvlu1-lvl3-2]
 

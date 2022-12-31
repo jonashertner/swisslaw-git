@@ -4,11 +4,11 @@ title: "Codice di diritto processuale civile svizzero del 19 dicembre 2008 (Codi
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/it"
 
 (Codice di procedura civile, CPC)
 
-del 19 dicembre 2008 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
+del 19 dicembre 2008 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -83,24 +83,25 @@ Il diritto cantonale designa il tribunale competente a decidere, in istanza cant
 - d. controversie secondo la legge federale del 19 dicembre 1986[^5-1] contro la concorrenza sleale, in quanto il valore litigioso ecceda 30 000 franchi o in quanto la Confederazione eserciti il suo diritto d’azione;
 - e.[^5-2] controversie secondo la legge federale del 13 giugno 2008[^5-3] sulla responsabilità civile in materia nucleare;
 - f. azioni giudiziali contro la Confederazione;
-- g. designazione di un controllore speciale secondo l’articolo 697*b* del Codice delle obbligazioni[^5-4] (CO);
-- h.[^5-5] controversie secondo la legge del 23 giugno 2006[^5-6] sugli investimenti collettivi, la legge del 19 giugno 2015[^5-7] sull’infrastruttura finanziaria e la legge del 15 giugno 2018[^5-8] sugli istituti finanziari;
-- i.[^5-9] controversie secondo la legge del 21 giugno 2013[^5-10] sulla protezione degli stemmi, la legge federale del 25 marzo 1954[^5-11] concernente la protezione dell’emblema e del nome della Croce Rossa e la legge federale del 15 dicembre 1961[^5-12] concernente la protezione dei nomi e degli emblemi dell’Organizzazione delle Nazioni Unite e d’altre organizzazioni intergovernative.
+- g.[^5-4] controversie riguardo all’istituzione e all’esecuzione di una verifica speciale secondo gli articoli 697*c–*697*h*<sup>bis</sup> del Codice delle obbligazioni (CO)[^5-5];
+- h.[^5-6] controversie secondo la legge del 23 giugno 2006[^5-7] sugli investimenti collettivi, la legge del 19 giugno 2015[^5-8] sull’infrastruttura finanziaria e la legge del 15 giugno 2018[^5-9] sugli istituti finanziari;
+- i.[^5-10] controversie secondo la legge del 21 giugno 2013[^5-11] sulla protezione degli stemmi, la legge federale del 25 marzo 1954[^5-12] concernente la protezione dell’emblema e del nome della Croce Rossa e la legge federale del 15 dicembre 1961[^5-13] concernente la protezione dei nomi e degli emblemi dell’Organizzazione delle Nazioni Unite e d’altre organizzazioni intergovernative.
 
 <sup>2</sup> Questo tribunale è parimenti competente per l’emanazione di provvedimenti cautelari prima della pendenza della causa.
 
 [^5-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 [^5-2]: Nuovo testo giusta l’all. 2 n. 1, in vigore dal 1° gen. 2022 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); FF **2007** 5397).
 [^5-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); FF **2008** 4673
-[^5-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-5]: Nuovo testo giusta l’all. n. II 4 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-6]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-7]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-8]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-9]: Introdotta dall’all. 3 n. II 3 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-10]: [RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-11]: [RS 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-12]: [RS 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-4]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^5-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-6]: Nuovo testo giusta l’all. n. II 4 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-7]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^5-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-9]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-10]: Introdotta dall’all. 3 n. II 3 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-11]: [RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
+[^5-12]: [RS 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
+[^5-13]: [RS 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
 
 #### Art. 6
 
@@ -1135,7 +1136,7 @@ Il giudice può prescindere dai principi di ripartizione e ripartire le spese gi
 - e. la causa è stralciata dal ruolo in quanto priva di oggetto e la legge non prevede altrimenti;
 - f. altre circostanze speciali fanno apparire iniqua una ripartizione secondo l’esito della procedura.
 
-<sup>1</sup> <sup>bis</sup> In caso di reiezione di un’azione in materia di diritto societario volta a ottenere una prestazione a favore della società, il giudice può ripartire le spese giudiziarie secondo equità tra la società e l’attore.[^107-1]
+<sup>1bis</sup> In caso di reiezione di un’azione in materia di diritto societario volta a ottenere una prestazione a favore della società, il giudice può ripartire le spese giudiziarie secondo equità tra la società e l’attore.[^107-1]
 
 <sup>2</sup> Per motivi d’equità, le spese processuali non causate né da una parte né da terzi possono essere poste a carico del Cantone.
 
@@ -1797,7 +1798,7 @@ Un terzo può rifiutarsi di cooperare:
 
 - a. all’accertamento di fatti che potessero esporre lui stesso oppure una persona a lui vicina ai sensi dell’articolo 165 al rischio di essere sottoposto a un procedimento penale o di dover rispondere civilmente;
 - b. nella misura in cui si rendesse colpevole della violazione di un segreto secondo l’articolo 321 CP[^166-1]; sono eccettuati i revisori; tranne gli avvocati e gli ecclesiastici, è tuttavia tenuto a cooperare il terzo che sottostà a un obbligo di denuncia o è stato liberato dal segreto, salvo che renda verosimile che l’interesse al mantenimento del segreto prevale su quello all’accertamento della verità;
-- c. all’accertamento di fatti confidatigli nella sua qualità ufficiale o di cui è venuto a conoscenza nell’esercizio della sua funzione, se è un funzionario ai sensi dell’articolo 110 capoverso 3[^166-2] CP o membro di un’autorità; egli è però tenuto a deporre se sottostà a un obbligo di denuncia o è stato autorizzato a deporre dall’autorità a lui preposta;
+- c.[^166-2] all’accertamento di fatti confidatigli nella sua qualità ufficiale o di cui è venuto a conoscenza nell’esercizio della sua funzione, se è un funzionario ai sensi dell’articolo 110 capoverso 3 CP o membro di un’autorità, oppure di cui è venuto a conoscenza nell’esercizio della sua attività ausiliaria per un funzionario o un’autorità; egli è però tenuto a deporre se sottostà a un obbligo di denuncia o è stato autorizzato a deporre dall’autorità a lui preposta;
 - d.[^166-3] quando fosse chiamato a deporre in merito a fatti di cui è venuto a conoscenza nell’ambito della sua attività di difensore civico, di consulente matrimoniale o familiare, oppure di mediatore;
 - e. all’accertamento dell’identità dell’autore o all’accertamento del contenuto e delle fonti delle sue proprie informazioni, se è una persona che si occupa professionalmente della pubblicazione di informazioni nella parte redazionale di un periodico oppure un suo ausiliare.
 
@@ -1806,7 +1807,7 @@ Un terzo può rifiutarsi di cooperare:
 <sup>3</sup> Sono fatte salve le disposizioni speciali concernenti la comunicazione di dati previste dalla legislazione in materia di assicurazioni sociali.
 
 [^166-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^166-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^166-2]: Nuovo testo giusta l’all. 1 n. 5 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2023 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^166-3]: Nuovo testo giusta l’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 167
@@ -2858,14 +2859,15 @@ La procedura sommaria si applica segnatamente nelle seguenti questioni:
   - 4\. vendita in blocco e modalità di vendita di immobili (art. 585 cpv. 3 e 619 CO),
   - 5\. designazione di un perito per l’esame del conto dei profitti e delle perdite e del bilancio di una società in accomandita (art. 600 cpv. 3 CO),
   - 6\.[^250-4] fissazione del termine in caso di numero insufficiente di membri o mancanza di organi (art. 731*b*, 819, 908 e 941*a* CO),
-  - 7\.[^250-5] fornitura di ragguagli ad azionisti e creditori di una società anonima, a soci di una società a garanzia limitata e a soci di una società cooperativa (art. 697 cpv. 4, 802 cpv. 4, 857 cpv. 3 e 958*e* CO),
-  - 8\. verifica speciale della società anonima (art. 697*a*–697*g* CO),
-  - 9\. convocazione dell’assemblea generale di una società anonima o di una società cooperativa, iscrizione di un oggetto all’ordine del giorno e convocazione dell’assemblea dei soci di una società a garanzia limitata (art. 699 cpv. 4, 805 cpv. 5 n. 2 e 881 cpv. 3 CO),
-  - 10\. designazione di un rappresentante della società in caso di contestazione delle deliberazioni assembleari da parte dell’amministrazione (art. 706*a* cpv. 2, 808*c* e 891 cpv. 1 CO),
-  - 11\. nomina e revoca dell’ufficio di revisione (art. 731*b* CO),
+  - 7\.[^250-5] ordine di fornire ragguagli a creditori e azionisti, a soci di una società a garanzia limitata e a soci di una società cooperativa (art. 697*b*, 802 cpv. 4, 857 cpv. 3 e 958*e* CO),
+  - 8\.[^250-6] verifica speciale (art. 697*c–*697*h*<sup>bis</sup> CO),
+  - 9\.[^250-7] convocazione dell’assemblea generale, iscrizione di un oggetto all’ordine del giorno e iscrizione di proposte e delle relative motivazioni nella convocazione dell’assemblea generale (art. 699 cpv. 5, 699*b* cpv. 4, 805 cpv. 5 n. 2 e 3 e 881 cpv. 3 CO),
+  - 10\.[^250-8] designazione di un rappresentante della società o della società cooperativa in caso di contestazione delle deliberazioni assembleari da parte dell’amministrazione (art. 706*a* cpv. 2, 808*c* e 891 cpv. 1 CO),
+  - 11\.[^250-9] nomina e revoca dell’ufficio di revisione (art. 731*b*, 819 e 908 CO),
   - 12\. deposito degli importi dovuti in caso di liquidazione (art. 744, 770, 826 cpv. 2 e 913 CO),
   - 13\. revoca dell’amministrazione e dell’ufficio di revisione di una società cooperativa (art. 890 cpv. 2 CO),
-  - 14\.[^250-6] la reiscrizione nel registro di commercio di un ente giuridico cancellato (art. 935 CO);
+  - 14\.[^250-10] la reiscrizione nel registro di commercio di un ente giuridico cancellato (art. 935 CO),
+  - 15\.[^250-11] pronuncia dello scioglimento della società e della sua liquidazione secondo le prescrizioni applicabili al fallimento (art. 731*b*, 819 e 908 CO);
 
 - d.
 
@@ -2880,8 +2882,13 @@ La procedura sommaria si applica segnatamente nelle seguenti questioni:
 [^250-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^250-3]: Nuovo testo giusta l’all. n. 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 [^250-4]: Nuovo testo giusta il n. II della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-5]: Nuovo testo giusta il n. II della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-6]: Introdotto dall’all. n. 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-5]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-6]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-7]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-8]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-9]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-10]: Introdotto dall’all. n. 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-11]: Introdotto dall’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 251
 
@@ -3508,7 +3515,7 @@ Il contratto di mantenimento o la decisione che fissa contributi di mantenimento
 
 [^301a-1]: Introdotto dall’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
-### Capitolo 2: Procedura sommaria: campo d’applicazione****
+### Capitolo 2: Procedura sommaria: campo d’applicazione
 
 [^part2-tit7-chap2-1]
 
@@ -3534,7 +3541,7 @@ La procedura sommaria è applicabile segnatamente per:
 [^302-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^302-5]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
 
-### Capitolo 3: Azione di mantenimento e di paternità****
+### Capitolo 3: Azione di mantenimento e di paternità
 
 [^part2-tit7-chap3-1]
 
@@ -3597,7 +3604,7 @@ Alla procedura si applicano per analogia gli articoli 272 e 273.
 
 Alla procedura di scioglimento e di annullamento dell’unione domestica registrata si applicano per analogia le disposizioni sulla procedura di divorzio.
 
-### Capitolo 3:**** Interessi dei figli nella procedura in materia di unione domestica registrata
+### Capitolo 3: Interessi dei figli nella procedura in materia di unione domestica registrata
 
 [^part2-tit8-chap3-1]
 
@@ -4208,7 +4215,7 @@ Un altro tribunale o un tribunale composto in altro modo, designato dal Cantone 
 
 [^356-1]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
-### Titolo secondo: Patto e clausole d’arbitrato****
+### Titolo secondo: Patto e clausole d’arbitrato
 
 [^part3-tit2-1]
 
@@ -4738,7 +4745,7 @@ Il coordinamento di disposizioni di altri nuovi atti normativi con il presente C
 
 ### Titolo terzo: Disposizioni transitorie
 
-### Capitolo 1: Disposizioni transitorie del 19 dicembre 2008****
+### Capitolo 1: Disposizioni transitorie del 19 dicembre 2008
 
 [^part4-tit3-chap1-1]
 
@@ -4778,7 +4785,7 @@ La validità di una proroga di foro si determina in base al diritto in vigore al
 
 <sup>4</sup> Ai procedimenti davanti al tribunale statale competente ai sensi dell’articolo 356, se già pendenti al momento dell’entrata in vigore del presente Codice, continua ad applicarsi il diritto previgente.
 
-### Capitolo 2:**** Disposizione transitoria della modifica del 28 settembre 2012
+### Capitolo 2: Disposizione transitoria della modifica del 28 settembre 2012
 
 [^part4-tit3-chap2-1]
 
@@ -4788,7 +4795,7 @@ La validità di una proroga di foro si determina in base al diritto in vigore al
 
 Nei procedimenti pendenti al momento dell’entrata in vigore della modifica del 28 settembre 2012 del presente Codice gli atti procedurali compiuti dall’entrata in vigore della stessa sono retti dal nuovo diritto.
 
-### Capitolo 3:**** Disposizione transitoria della modifica del 20 marzo 2015
+### Capitolo 3: Disposizione transitoria della modifica del 20 marzo 2015
 
 [^part4-tit3-chap3-1]
 
@@ -4800,7 +4807,7 @@ Nei procedimenti pendenti al momento dell’entrata in vigore della modifica del
 
 <sup>2</sup> Le parti possono presentare nuove conclusioni sulle questioni toccate dal cambiamento del diritto applicabile; i punti della decisione che non sono stati impugnati rimangono vincolanti, a meno che siano così strettamente connessi con le conclusioni non ancora giudicate da giustificare una decisione complessiva.
 
-### Capitolo 4:**** Disposizione transitoria della modifica del 19 giugno 2015
+### Capitolo 4: Disposizione transitoria della modifica del 19 giugno 2015
 
 [^part4-tit3-chap4-1]
 
@@ -4812,7 +4819,7 @@ Nei procedimenti pendenti al momento dell’entrata in vigore della modifica del
 
 <sup>2</sup> Le parti possono presentare nuove conclusioni sulle questioni toccate dal cambiamento del diritto applicabile; i punti della sentenza che non sono stati impugnati rimangono vincolanti, a meno che siano così strettamente connessi con le conclusioni non ancora giudicate da giustificare una decisione complessiva.
 
-### Capitolo 5:**** Disposizione transitoria della modifica del 14 dicembre 2018
+### Capitolo 5: Disposizione transitoria della modifica del 14 dicembre 2018
 
 [^part4-tit3-chap5-1]
 
@@ -4862,7 +4869,7 @@ Allegato 2
 
 ### 1. Coordinamento del Codice di procedura civile con la nuova legge federale sulla responsabilità civile in materia nucleare
 
-*Indipendentemente dal fatto che entri prima in vigore la legge federale del 13 gi**u**gno 2008*[^annex2-lvlu1-lvl1-1] *sulla responsabilità civile in materia nucleare (nuova LRCN) o il Codice di procedura civile del 19 dicembre 2008* *(CPC), alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, il CPC sarà modif**i**cato come segue:*
+*Indipendentemente dal fatto che entri prima in vigore la legge federale del 13 giugno 2008*[^annex2-lvlu1-lvl1-1] *sulla responsabilità civile in materia nucleare (nuova LRCN) o il Codice di procedura civile del 19 dicembre 2008* *(CPC), alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, il CPC sarà modificato come segue:*
 
 … [^annex2-lvlu1-lvl1-2]
 
@@ -4877,7 +4884,7 @@ Allegato 2
 
 ### 3. Coordinamento con la modifica del CC del 19 dicembre 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione)
 
-*Indipendentemente dal fatto che entri prima in vigore la modifica del CC del 19 dicembre 2008*[^annex2-lvlu1-lvl3-1] *(Protezione degli adulti, diritto delle persone e diritto della filiazi**o**ne) o il CPC, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, il CPC sarà modificato come segue:*
+*Indipendentemente dal fatto che entri prima in vigore la modifica del CC del 19 dicembre 2008*[^annex2-lvlu1-lvl3-1] *(Protezione degli adulti, diritto delle persone e diritto della filiazione) o il CPC, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, il CPC sarà modificato come segue:*
 
 … [^annex2-lvlu1-lvl3-2]
 
