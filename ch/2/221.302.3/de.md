@@ -4,11 +4,11 @@ title: "Verordnung vom 22. August 2007 über die Zulassung und Beaufsichtigung d
 short: RAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: de
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-534-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210801/de"
 
 (Revisionsaufsichtsverordnung, RAV)
 
-vom 22. August 2007 (Stand am 1. August 2021)
+vom 22. August 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -107,11 +107,22 @@ Der Nachweis der notwendigen Kenntnisse des schweizerischen Rechts ist erbracht,
 
 #### Art. 7
 
-**Beaufsichtigung der Fachpraxis[^7-1]**
+**Fachpraxis**[^7-1]
 
-Die Fachpraxis gilt als unter Beaufsichtigung erworben, wenn die Gesuchstellerin oder der Gesuchsteller einer Fachperson, welche die gesetzlichen Anforderungen erfüllt, formell unterstellt war und die Tätigkeit weisungsgebunden ausgeübt hat.
+<sup>1</sup> Die Fachpraxis gilt als vorwiegend auf den Gebieten des Rechnungswesens und der Rechnungsrevision erworben (Art. 4 Abs. 4 und Art. 5 Abs. 2 RAG), wenn mindestens drei Viertel der Fachpraxis auf diesen beiden Fachgebieten erworben worden sind.
 
-[^7-1]: Fassung gemäss Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+<sup>2</sup> Für die Zulassung als Revisionsexpertin oder Revisionsexperte muss der Anteil der Fachpraxis auf dem Gebiet der Rechnungsrevision mindestens einen Drittel der Fachpraxis nach Absatz 1 betragen. Davon muss mindestens ein Drittel im Bereich der ordentlichen Revision absolviert worden sein.
+
+<sup>3</sup> Für die Zulassung als Revisorin oder Revisor muss der Anteil der Fachpraxis auf dem Gebiet der Rechnungsrevision mindestens die Hälfte der Fachpraxis nach Absatz 1 betragen.
+
+<sup>4</sup>
+
+Die Fachpraxis gilt als unter Beaufsichtigung erworben (Art. 4 Abs. 4 und Art. 5 Abs. 2 RAG), wenn:
+
+- a. die Gesuchstellerin oder der Gesuchsteller einer Fachperson, welche die gesetzlichen Anforderungen erfüllt, formell unterstellt war und die Tätigkeit weisungsgebunden ausgeübt hat;
+- b. die Beaufsichtigung mindestens im Umfang von 50 Prozent einer Vollzeitstelle und während mindestens dreier Monate ohne wesentliche Unterbrüche erfolgt ist; bei einer Beaufsichtigung während mehr als zwei Jahren durch dieselbe Person genügt ein Beschäftigungsgrad von 20 Prozent.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
 
 #### Art. 8
 
@@ -139,7 +150,7 @@ Ein Revisionsunternehmen verfügt über eine genügende Führungsstruktur zur Ü
 - a. ein internes Qualitätssicherungssystem aufweist;
 - b. die Angemessenheit und die Wirksamkeit der Grundsätze und Massnahmen der Qualitätssicherung überwacht.
 
-<sup>2</sup> ...[^9-1]
+<sup>2</sup> …[^9-1]
 
 [^9-1]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2017, mit Wirkung seit 1. Okt. 2017 ([AS 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
 
@@ -218,9 +229,9 @@ Die Aufsichtsbehörde erteilt Zulassungen an staatlich beaufsichtigte Revisionsu
 - a<sup>bis</sup>.[^11a-7] Personen nach Artikel 1*b* BankG;
 - b. Versicherungsunternehmen gemäss Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^11a-8];
 - c.[^11a-9] Fondsleitungen und Verwalter von Kollektivvermögen gemäss FINIG, Anlagefonds, SICAV, Kommanditgesellschaften für kollektive Kapitalanlagen, SICAF, Depotbanken sowie Vertreterinnen und Vertreter ausländischer kollektiver Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^11a-10];
-- d.[^11a-11] ...
+- d.[^11a-11] …
 
-<sup>2</sup> ...[^11a-12]
+<sup>2</sup> …[^11a-12]
 
 [^11a-1]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^11a-2]: Fassung gemäss Ziff. I 2 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
@@ -429,9 +440,9 @@ Die Vorschriften zur Unabhängigkeit (Art. 11 RAG und 728 OR) sind bei der Prüf
 
 #### Art. 13
 
-<sup>1</sup> ...[^13-1]
+<sup>1</sup> …[^13-1]
 
-<sup>2</sup> ...[^13-2]
+<sup>2</sup> …[^13-2]
 
 [^13-1]: Aufgehoben durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^13-2]: Aufgehoben durch Ziff. I der V vom 1. Juli 2015, mit Wirkung seit 1. Okt. 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
@@ -527,7 +538,7 @@ Der Eintrag von Revisionsunternehmen enthält folgende Angaben:
 - g<sup>bis</sup>.[^20-6] gegebenenfalls Hinweise zur Gewährleistung der Nachvollziehbarkeit der Einträge, insbesondere bei Umstrukturierungen;
 - h. gegebenenfalls einen Hinweis auf die Mitgliedschaft in einem Berufsverband;
 - i. gegebenenfalls spezialgesetzliche Zulassungen im Schweizer Prüfwesen, einschliesslich des Namens und der Adresse der Zulassungsbehörde;
-- j.[^20-7] ...
+- j.[^20-7] …
 
 [^20-1]: Fassung gemäss Anhang Ziff. 2 der V vom 26. Jan. 2011 über die Unternehmens-Identifikationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 [^20-2]: Fassung gemäss Ziff. I der V vom 14. Nov. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
@@ -744,7 +755,7 @@ Die Aufsichtsbehörde anerkennt ein Prüfungsreglement, wenn:
 
 <sup>1</sup> Die Direktorin oder der Direktor sowie das Personal der Aufsichtsbehörde müssen von der Revisionsbranche unabhängig sein.
 
-<sup>2</sup> ...[^35-1]
+<sup>2</sup> …[^35-1]
 
 [^35-1]: Aufgehoben durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
@@ -790,7 +801,7 @@ Die Gebühr pro Zulassung beträgt für:[^38-2]
 - a. natürliche Personen: 800 Franken;
 - b. Revisionsunternehmen: 1500 Franken.
 
-<sup>3</sup> ...[^38-3]
+<sup>3</sup> …[^38-3]
 
 <sup>4</sup> Bei aussergewöhnlichem Aufwand wird die doppelte Gebühr erhoben. Auslagen werden gesondert in Rechnung gestellt.
 
@@ -798,7 +809,7 @@ Die Gebühr pro Zulassung beträgt für:[^38-2]
 
 <sup>6</sup> Stellt ein staatlich beaufsichtigtes Revisionsunternehmen mehrere Zulassungsgesuche gleichzeitig, so werden die Zulassungsgebühren nach Aufwand erhoben.[^38-4]
 
-<sup>7</sup> ...[^38-5]
+<sup>7</sup> …[^38-5]
 
 <sup>8</sup> Prüft ein staatlich beaufsichtigtes Revisionsunternehmen nur Personen nach Artikel 1*b* BankG[^38-6] (Art. 11*a* Abs. 1 Bst. a<sup>bis</sup>), so beträgt die Gebühr 1500 Franken.[^38-7]
 
@@ -824,7 +835,7 @@ Die Gebühr pro Zulassung beträgt für:[^38-2]
 
 <sup>1</sup> Für übrige Verfügungen und Dienstleistungen wird eine Gebühr nach Zeitaufwand erhoben. Der Stundenansatz beträgt 250 Franken.
 
-<sup>2</sup> ...[^40-1]
+<sup>2</sup> …[^40-1]
 
 [^40-1]: Aufgehoben durch Ziff. I der V vom 14. Nov. 2012, mit Wirkung seit 1. Dez. 2012 ([AS 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
 
@@ -842,7 +853,7 @@ Das Eidgenössische Justiz- und Polizeidepartement kann die Gebührenansätze an
 
 <sup>2</sup> Die Aufsichtsabgabe ergibt sich aus dem Verhältnis der Prüfhonorare des einzelnen Revisionsunternehmens zur Summe aller Prüfhonorare, welche die staatlich beaufsichtigten Revisionsunternehmen verbuchen. Sie beträgt mindestens 10 000 Franken.
 
-<sup>2bis</sup> ...[^42-1]
+<sup>2bis</sup> …[^42-1]
 
 <sup>2ter</sup> Die Aufsichtsabgabe für staatlich beaufsichtigte Revisionsunternehmen, die nur Personen nach Artikel 1*b* BankG[^42-2] prüfen, beträgt mindestens 2500 Franken.[^42-3]
 
@@ -986,6 +997,16 @@ In den ersten beiden Jahren nach Inkrafttreten dieser Verordnung können sich le
 
 [^51c-1]: Eingefügt durch Ziff. II 1 der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
+#### Art. 51d
+
+**Übergangsbestimmungen zur Änderung vom 23. November 2022**[^51d-1]
+
+<sup>1</sup> Personen mit einer Ausbildung nach Artikel 4 Absatz 2 Buchstabe b RAG müssen die Anforderungen nach Artikel 7 Absatz 2 spätestens drei Jahre nach Inkrafttreten der Änderung vom 23. November 2022 und Personen mit einer Ausbildung nach Artikel 4 Absatz 2 Buchstabe c RAG spätestens fünf Jahre nach Inkrafttreten der Änderung vom 23. November 2022 erfüllen.
+
+<sup>2</sup> Die Anforderungen nach Artikel 7 Absätze 3 und 4 Buchstabe b müssen spätestens ein Jahr nach Inkrafttreten der Änderung vom 23. November 2022 erfüllt werden.
+
+[^51d-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
+
 #### Art. 52
 
 **Inkrafttreten**
@@ -1001,7 +1022,7 @@ In den ersten beiden Jahren nach Inkrafttreten dieser Verordnung können sich le
 [^52-1]: [AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)
 [^52-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 46)
 
@@ -1017,68 +1038,67 @@ II
 
 Die nachfolgenden Verordnungen werden wie folgt geändert:
 
-...[^annex1-lvlu1-2]
+…[^annex1-lvlu1-2]
 
 [^annex1-lvlu1-1]: [[AS 1992 1210](https://fedlex.data.admin.ch/eli/oc/1992/1210_1210_1210)]
 [^annex1-lvlu1-2]: Änderungen können unter [AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)konsultiert werden.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 10 Abs. 2)
 
 ## Liste der anerkannten ausländischen Revisionsaufsichtsbehörden
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 1. Juli 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 331](https://fedlex.data.admin.ch/eli/oc/2021/331)).
+[^t-2]: Eingefügt durch Ziff. II der V vom 1. Juli 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
 
-- Australien Australian Securities and Investments Commission (ASIC)
-- Belgien College van Toezicht op de Bedrijfsrevisoren / Collège de Supervision des Réviseurs d’Entreprises (CTBR/CSRE)
-- Bermuda Bermuda Public Accountability Board
-- Brasilien Comissão de Valores Mobiliários (CVM)
-- Bulgarien Commission for Public Oversight of Statutory Auditors (CPOSA)
-- China China Securities Regulatory Commission (CSRC)
-- Dänemark Danish Business Authority (DBA)
-- Deutschland Abschlussprüferaufsichtsstelle (APAS)
-- Finnland Finnish Patent and Registration Office, Auditor Oversight Unit (PRH)
-- Frankreich Haut Conseil du commissariat aux comptes (H3C)
-- Griechenland Hellenic Accounting and Auditing Standards Oversight Board (ELTE)
-- Grossbritannien Financial Reporting Council (FRC)
-- Guernsey Guernsey Registry
-- Indonesien Pusat Pembinaan Profesi Keuangan (PPPK), Secretariat General, Ministry of Finance
-- Insel Man Isle of Man Financial Services Authority (IoMFSA)
-- Irland Irish Auditing & Accounting Supervisory Authority (IAASA)
-- Island Public Auditors Oversight Board (PAOB)
-- Italien Commissione Nazionale per le Società e la Borsa (CONSOB)
-- Japan Certified Public Accountants and Auditing Oversight Board (CPAAOB)
-- Jersey Jersey Financial Services Commission (JFSC)
-- Kanada Canadian Public Accountability Board (CPAB)
-- Katar Qatar Financial Centre Authority (QFC)
-- Kroatien Croatian Audit Public Oversight Committee (APOC)
-- Lettland Ministry of Finance, Department of Taxes Administration and Accounting Policy, Audit Oversight Commission
-- Liechtenstein Finanzmarktaufsicht (FMA)
-- Litauen Authority of Audit, Accounting, Property Valuation and Insolvency Management (AAAPVIM)
-- Luxemburg Commission de Surveillance du Secteur Financier (CSSF)
-- Malta Ministry of Finance, The Economy & Investment
-- Mauritius Financial Reporting Council (FRC)
-- Neuseeland Financial Markets Authority (FMA)
-- Niederlande Authority for the Financial Markets (AFM)
-- Norwegen Finanstilsynet
-- Österreich Abschlussprüferaufsichtsbehörde (APAB)
-- Polen Audit Oversight Commission (AOC)
-- Portugal Securities Market Commission
-- Rumänien Consiliul Pentru Supravegherea În Interes Public A Profesiei Contabile (CSIPPC)
-- Schweden Swedish Inspectorate of Auditors
-- Singapur Accounting and Corporate Regulatory Authority (ACRA)
-- Slowakei Auditing Oversight Authority
-- Slowenien Agency for Public Oversight of Auditing (APOA)
-- Spanien Accounting and Auditing Institute
-- Südafrika Independent Regulatory Board for Auditors (IRBA)
-- Südkorea Financial Services Commission (FSC), Securities and Futures Commission (SFC) und Financial Supervisory Service (FSS)
-- Taiwan Financial Supervisory Commission (FSC)
-
-(Chinesisches Taipei)
-
-- Thailand Securities and Exchange Commission (SEC)
-- Tschechien Public Audit Oversight Board (RVDA)
-- Türkei Public Oversight Accounting and Auditing Standards Authority (POA) und Capital Markets Board of Turkey (CMB)
-- Ungarn Auditors’ Public Oversight Authority (Ministry for National Economy)
-- Vereinigte Staaten Public Company Accounting Oversight Board (PCAOB)
+<table>
+<tr><td>[tab] Australien</td><td>[tab] Australian Securities and Investments Commission (ASIC)</td></tr>
+<tr><td>[tab] Belgien</td><td>[tab] College van Toezicht op de Bedrijfsrevisoren / Collège de Supervision des Réviseurs d’Entreprises (CTBR/CSRE)</td></tr>
+<tr><td>[tab] Brasilien</td><td>[tab] Comissão de Valores Mobiliários (CVM)</td></tr>
+<tr><td>[tab] Bulgarien</td><td>[tab] Commission for Public Oversight of Statutory Auditors (CPOSA)</td></tr>
+<tr><td>[tab] Chile</td><td>[tab] Comisión para el Mercado Financiero (CMF)</td></tr>
+<tr><td>[tab] China</td><td>[tab] China Securities Regulatory Commission (CSRC) und Ministry of Finance (MoF)</td></tr>
+<tr><td>[tab] Dänemark</td><td>[tab] Danish Business Authority (DBA)</td></tr>
+<tr><td>[tab] Deutschland</td><td>[tab] Abschlussprüferaufsichtsstelle (APAS)</td></tr>
+<tr><td>[tab] Finnland</td><td>[tab] Finnish Patent and Registration Office, Auditor Oversight Unit (PRH)</td></tr>
+<tr><td>[tab] Frankreich</td><td>[tab] Haut Conseil du commissariat aux comptes (H3C)</td></tr>
+<tr><td>[tab] Griechenland</td><td>[tab] Hellenic Accounting and Auditing Standards Oversight Board (ELTE)</td></tr>
+<tr><td>[tab] Grossbritannien</td><td>[tab] Financial Reporting Council (FRC)</td></tr>
+<tr><td>[tab] Guernsey</td><td>[tab] Guernsey Registry</td></tr>
+<tr><td>[tab] Indonesien</td><td>[tab] Pusat Pembinaan Profesi Keuangan (PPPK), Secretariat General, Ministry of Finance</td></tr>
+<tr><td>[tab] Insel Man</td><td>[tab] Isle of Man Financial Services Authority (IoMFSA)</td></tr>
+<tr><td>[tab] Irland</td><td>[tab] Irish Auditing & Accounting Supervisory Authority (IAASA)</td></tr>
+<tr><td>[tab] Island</td><td>[tab] Public Auditors Oversight Board (PAOB)</td></tr>
+<tr><td>[tab] Italien</td><td>[tab] Commissione Nazionale per le Società e la Borsa (CONSOB)</td></tr>
+<tr><td>[tab] Japan</td><td>[tab] Certified Public Accountants and Auditing Oversight Board (CPAAOB)</td></tr>
+<tr><td>[tab] Jersey</td><td>[tab] Jersey Financial Services Commission (JFSC)</td></tr>
+<tr><td>[tab] Kanada</td><td>[tab] Canadian Public Accountability Board (CPAB)</td></tr>
+<tr><td>[tab] Katar</td><td>[tab] Qatar Financial Centre Authority (QFC)</td></tr>
+<tr><td>[tab] Kroatien</td><td>[tab] Ministry of Finance (MFin)</td></tr>
+<tr><td>[tab] Lettland</td><td>[tab] Ministry of Finance, Department of Taxes Administration and Accounting Policy, Audit Oversight Commission</td></tr>
+<tr><td>[tab] Liechtenstein</td><td>[tab] Finanzmarktaufsicht (FMA)</td></tr>
+<tr><td>[tab] Litauen</td><td>[tab] Authority of Audit, Accounting, Property Valuation and Insolvency Management (AAAPVIM)</td></tr>
+<tr><td>[tab] Luxemburg</td><td>[tab] Commission de Surveillance du Secteur Financier (CSSF)</td></tr>
+<tr><td>[tab] Malta</td><td>[tab] Ministry of Finance, The Economy & Investment</td></tr>
+<tr><td>[tab] Mauritius</td><td>[tab] Financial Reporting Council (FRC)</td></tr>
+<tr><td>[tab] Neuseeland</td><td>[tab] Financial Markets Authority (FMA)</td></tr>
+<tr><td>[tab] Niederlande</td><td>[tab] Authority for the Financial Markets (AFM)</td></tr>
+<tr><td>[tab] Norwegen</td><td>[tab] Finanstilsynet</td></tr>
+<tr><td>[tab] Österreich</td><td>[tab] Abschlussprüferaufsichtsbehörde (APAB)</td></tr>
+<tr><td>[tab] Polen</td><td>[tab] Polish Agency for Audit Oversight (PANA)</td></tr>
+<tr><td>[tab] Portugal</td><td>[tab] Securities Market Commission</td></tr>
+<tr><td>[tab] Rumänien</td><td>[tab] Authority for Public Oversight of the Statutory Audit Activity (ASPAAS)</td></tr>
+<tr><td>[tab] Schweden</td><td>[tab] Swedish Inspectorate of Auditors</td></tr>
+<tr><td>[tab] Singapur</td><td>[tab] Accounting and Corporate Regulatory Authority (ACRA)</td></tr>
+<tr><td>[tab] Slowakei</td><td>[tab] Auditing Oversight Authority</td></tr>
+<tr><td>[tab] Slowenien</td><td>[tab] Agency for Public Oversight of Auditing (APOA)</td></tr>
+<tr><td>[tab] Spanien</td><td>[tab] Accounting and Auditing Institute</td></tr>
+<tr><td>[tab] Südafrika</td><td>[tab] Independent Regulatory Board for Auditors (IRBA)</td></tr>
+<tr><td>[tab] Südkorea</td><td>[tab] Financial Services Commission (FSC), Securities and Futures Commission (SFC) und Financial Supervisory Service (FSS)</td></tr>
+<tr><td>[tab] Taiwan (Chinesisches Taipei)</td><td>[tab] Financial Supervisory Commission (FSC)</td></tr>
+<tr><td>[tab] Thailand</td><td>[tab] Securities and Exchange Commission (SEC)</td></tr>
+<tr><td>[tab] Tschechien</td><td>[tab] Public Audit Oversight Board (RVDA)</td></tr>
+<tr><td>[tab] Türkei</td><td>[tab] Public Oversight Accounting and Auditing Standards Authority (POA) und Capital Markets Board of Turkey (CMB)</td></tr>
+<tr><td>[tab] Ungarn</td><td>[tab] Auditors’ Public Oversight Authority (Ministry of Finance)</td></tr>
+<tr><td>[tab] Vereinigte Staaten</td><td>[tab] Public Company Accounting Oversight Board (PCAOB)</td></tr>
+</table>

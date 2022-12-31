@@ -4,20 +4,20 @@ title: "Ordinanza del 22 agosto 2007 sull'abilitazione e la sorveglianza dei rev
 short: OSRev
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: it
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-534-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’abilitazione e la sorveglianza dei revisori
 
-(Ordinanza sui revisori, OSRev)**[^t-1]**
+(Ordinanza sui revisori, OSRev)[^t-1]
 
-del 22 agosto 2007 (Stato 1° agosto 2021)
+del 22 agosto 2007 (Stato 1° gennaio 2023)
 
 [^t-1]: [RU 2007 4419](https://fedlex.data.admin.ch/eli/oc/2007/612)
 
@@ -109,11 +109,22 @@ La prova delle conoscenze necessarie del diritto svizzero è apportata se il ric
 
 #### Art. 7
 
-**Sorveglianza dell’esperienza professionale[^7-1]**
+**Esperienza professionale**[^7-1]
 
-Si considera che l’esperienza professionale è stata acquisita sotto sorveglianza se il richiedente ha operato in base alle direttive impartitegli da uno specialista che soddisfa i requisiti legali e a cui era gerarchicamente sottoposto.
+<sup>1</sup> Si considera che l’esperienza professionale è stata acquisita prevalentemente nel campo della contabilità e della revisione dei conti (art. 4 cpv. 4 e 5 cpv. 2 LSR) se almeno tre quarti dell’esperienza professionale sono stati acquisiti in questi due settori.
 
-[^7-1]: Nuovo testo giusta l’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+<sup>2</sup> Per l’abilitazione quale perito revisore, la parte dell’esperienza professionale nel campo della revisione dei conti deve essere pari ad almeno un terzo dell’esperienza professionale secondo il capoverso 1. Almeno un terzo di questa parte deve essere stato acquisito nel campo della revisione ordinaria.
+
+<sup>3</sup> Per l’abilitazione quale revisore, la parte dell’esperienza professionale nel campo della revisione dei conti deve essere pari ad almeno la metà dell’esperienza professionale secondo il capoverso 1.
+
+<sup>4</sup>
+
+Si considera che l’esperienza professionale è stata acquisita sotto sorveglianza (art. 4 cpv. 4 e 5 cpv. 2 LSR) se:
+
+- a. il richiedente ha operato in base alle direttive impartitegli da uno specialista che soddisfa i requisiti legali e cui era gerarchicamente sottoposto;
+- b. la sorveglianza è stata esercitata per almeno il 50 per cento di un impiego a tempo pieno per la durata di almeno tre mesi senza interruzioni significative; se la sorveglianza è stata esercitata per oltre due anni dalla medesima persona, è sufficiente un tasso d’occupazione del 20 per cento.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2022 ([RU 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
 
 #### Art. 8
 
@@ -988,6 +999,16 @@ Nei due anni successivi all’entrata in vigore della presente ordinanza gli aud
 [^51c-1]: Introdotto dal n. II 1 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^51c-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
+#### Art. 51d
+
+**Disposizioni transitorie relative alla modifica del 23 novembre 2022**[^51d-1]
+
+<sup>1</sup> Le persone con una formazione secondo l’articolo 4 capoverso 2 lettera b LSR devono adempiere i requisiti di cui all’articolo 7 capoverso 2 al più tardi tre anni dopo l’entrata in vigore della modifica del 23 novembre 2022 e le persone con una formazione secondo l’articolo 4 capoverso 2 lettera c LSR al più tardi cinque anni dopo l’entrata in vigore della modifica del 23 novembre 2022.
+
+<sup>2</sup> I requisiti di cui all’articolo 7 capoversi 3 e 4 lettera b devono essere adempiuti al più tardi un anno dopo l’entrata in vigore della modifica del 23 novembre 2022.
+
+[^51d-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2022 ([RU 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
+
 #### Art. 52
 
 **Entrata in vigore**
@@ -1003,7 +1024,7 @@ Nei due anni successivi all’entrata in vigore della presente ordinanza gli aud
 [^52-1]: [RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)
 [^52-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 46)
 
@@ -1024,63 +1045,64 @@ Le seguenti ordinanze sono modificate come segue:
 [^annex1-lvlu1-1]: [[RU 1992 1210](https://fedlex.data.admin.ch/eli/oc/1992/1210_1210_1210)]
 [^annex1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534).
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 10 cpv. 2)
 
 ## Elenco delle autorità estere di sorveglianza dei revisori riconosciute
 
-[^t-3]: Introdotto dal n. II dell’O del 1° lug. 2015 ([RU 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 331](https://fedlex.data.admin.ch/eli/oc/2021/331)).
+[^t-3]: Introdotto dal n. II dell’O del 1° lug. 2015 ([RU 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
 
-- Australia Australian Securities and Investments Commission (ASIC)
-- Austria Abschlussprüferaufsichtsbehörde (APAB)
-- Belgio College van Toezicht op de Bedrijfsrevisoren / Collège de Supervision des Réviseurs d’Entreprises (CTBR/CSRE)
-- Bermuda Bermuda Public Accountability Board
-- Brasile Comissão de Valores Mobiliários (CVM)
-- Bulgaria Commission for Public Oversight of Statutory Auditors (CPOSA)
-- Canada Canadian Public Accountability Board (CPAB)
-- Cina China Securities Regulatory Commission (CSRC)
-- Croazia Croatian Audit Public Oversight Committee (APOC)
-- Corea del Sud Financial Services Commission (FSC), Securities and Futures Commission (SFC) e Financial Supervisory Service (FSS)
-- Danimarca Danish Business Authority (DBA)
-- Finlandia Finnish Patent and Registration Office, Auditor Oversight Unit (PRH)
-- Francia Haut Conseil du commissariat aux comptes (H3C)
-- Germania Abschlussprüferaufsichtsstelle (APAS)
-- Giappone Certified Public Accountants and Auditing Oversight Board (CPAAOB) e Financial Services Agency (FSA)
-- Gran Bretagna Financial Reporting Council (FRC)
-- Grecia Hellenic Accounting and Auditing Standards Oversight Board (ELTE)
-- Guernsey Guernsey Registry
-- Indonesia Pusat Pembinaan Profesi Keuangan (PPPK), Secretariat General, Ministry of Finance
-- Irlanda Irish Auditing & Accounting Supervisory Authority (IAASA)
-- Islanda Public Auditors Oversight Board (PAOB)
-- Isola di Man Isle of Man Financial Services Authority (IoMFSA)
-- Italia Commissione Nazionale per le Società e la Borsa (CONSOB)
-- Jersey Jersey Financial Services Commission (JFSC)
-- Lettonia Ministry of Finance, Department of Taxes Administration and Accounting Policy, Audit Oversight Commission
-- Liechtenstein Finanzmarktaufsicht (FMA)
-- Lituania Authority of Audit, Accounting, Property Valuation and Insolvency Management (AAAPVIM)
-- Lussemburgo Commission de Surveillance du Secteur Financier (CSSF)
-- Malta Ministry of Finance, The Economy & Investment
-- Mauritius Financial Reporting Council (FRC)
-- Norvegia Finanstilsynet
-- Nuova Zelanda Financial Markets Authority (FMA)
-- Paesi Bassi Authority for the Financial Markets (AFM)
-- Polonia Audit Oversight Commission (AOC)
-- Portogallo Securities Market Commission
-- Qatar Qatar Financial Centre Authority (QFC)
-- Repubblica Ceca Public Audit Oversight Board (RVDA)
-- Romania Consiliul Pentru Supravegherea În Interes Public A Profesiei Contabile (CSIPPC)
-- Singapore Accounting and Corporate Regulatory Authority (ACRA)
-- Slovacchia Auditing Oversight Authority
-- Slovenia Agency for Public Oversight of Auditing (APOA)
-- Spagna Accounting and Auditing Institute
-- Stati Uniti Public Company Accounting Oversight Board (PCAOB)
-- Sudafrica Independent Regulatory Board for Auditors (IRBA)
-- Svezia Swedish Inspectorate of Auditors
-- Taiwan Financial Supervisory Commission (FSC)
+<table>
+<tr><td>Australia</td><td>Australian Securities and Investments Commission (ASIC)</td></tr>
+<tr><td>Austria</td><td>Abschlussprüferaufsichtsbehörde (APAB)</td></tr>
+<tr><td>Belgio</td><td>College van Toezicht op de Bedrijfsrevisoren / Collège de Supervision des Réviseurs d’Entreprises (CTBR/CSRE)</td></tr>
+<tr><td>Brasile</td><td>Comissão de Valores Mobiliários (CVM)</td></tr>
+<tr><td>Bulgaria</td><td>Commission for Public Oversight of Statutory Auditors (CPOSA)</td></tr>
+<tr><td>Canada</td><td>Canadian Public Accountability Board (CPAB)</td></tr>
+<tr><td>Cile</td><td>Comisión para el Mercado Financiero (CMF)</td></tr>
+<tr><td>Cina</td><td>China Securities Regulatory Commission (CSRC) e Ministry of Finance (MoF)</td></tr>
+<tr><td>Corea del Sud</td><td>Financial Services Commission (FSC), Securities and Futures Commission (SFC) e Financial Supervisory Service (FSS)</td></tr>
+<tr><td>Croazia</td><td>Ministry of Finance (MFin)</td></tr>
+<tr><td>Danimarca</td><td>Danish Business Authority (DBA)</td></tr>
+<tr><td>Finlandia</td><td>Finnish Patent and Registration Office, Auditor Oversight Unit (PRH)</td></tr>
+<tr><td>Francia</td><td>Haut Conseil du commissariat aux comptes (H3C)</td></tr>
+<tr><td>Germania</td><td>Abschlussprüferaufsichtstelle (APAS)</td></tr>
+<tr><td>Giappone</td><td>Certified Public Accountants and Auditing Oversight Board (CPAAOB)</td></tr>
+<tr><td>Grecia</td><td>Hellenic Accounting and Auditing Standards Oversight Board (ELTE)</td></tr>
+<tr><td>Guernsey</td><td>Guernsey Registry</td></tr>
+<tr><td>Indonesia</td><td>Pusat Pembinaan Profesi Keuangan (PPPK), Secretariat General, Ministry of Finance</td></tr>
+<tr><td>Irlanda</td><td>Irish Auditing & Accounting Supervisory Authority (IAASA)</td></tr>
+<tr><td>Islanda</td><td>Public Auditors Oversight Board (PAOB)</td></tr>
+<tr><td>Isola di Man</td><td>Isle of Man Financial Services Authority (IoMFSA)</td></tr>
+<tr><td>Italia</td><td>Commissione Nazionale per le Società e la Borsa (CONSOB)</td></tr>
+<tr><td>Jersey</td><td>Jersey Financial Services Commission (JFSC)</td></tr>
+<tr><td>Lettonia</td><td>Ministry of Finance, Department of Taxes Administration and Accounting Policy, Audit Oversight Commission</td></tr>
+<tr><td>Liechtenstein</td><td>Finanzmarktaufsicht (FMA)</td></tr>
+<tr><td>Lituania</td><td>Authority of Audit, Accounting, Property Valuation and Insolvency Management (AAAPVIM)</td></tr>
+<tr><td>Lussemburgo</td><td>Commission de Surveillance du Secteur Financier (CSSF)</td></tr>
+<tr><td>Malta</td><td>Ministry of Finance, The Economy & Investment</td></tr>
+<tr><td>Mauritius</td><td>Financial Reporting Council (FRC)</td></tr>
+<tr><td>Norvegia</td><td>Finanstilsynet</td></tr>
+<tr><td>Nuova Zelanda</td><td>Financial Markets Authority (FMA)</td></tr>
+<tr><td>Paesi Bassi</td><td>Authority for the Financial Markets (AFM)</td></tr>
+<tr><td>Polonia</td><td>Polish Agency for Audit Oversight (PANA)</td></tr>
+<tr><td>Portogallo</td><td>Securities Market Commission</td></tr>
+<tr><td>Qatar</td><td>Qatar Financial Centre Authority (QFC)</td></tr>
+<tr><td>Regno Unito</td><td>Financial Reporting Council (FRC)</td></tr>
+<tr><td>Repubblica Ceca</td><td>Public Audit Oversight Board (RVDA)</td></tr>
+<tr><td>Romania</td><td>Authority for Public Oversight of the Statutory Audit Activity (ASPAAS)</td></tr>
+<tr><td>Singapore</td><td>Accounting and Corporate Regulatory Authority (ACRA)</td></tr>
+<tr><td>Slovacchia</td><td>Auditing Oversight Authority</td></tr>
+<tr><td>Slovenia</td><td>Agency for Public Oversight of Auditing (APOA)</td></tr>
+<tr><td>Spagna</td><td>Accounting and Auditing Institute</td></tr>
+<tr><td>Stati Uniti</td><td>Public Company Accounting Oversight Board (PCAOB)</td></tr>
+<tr><td>Sudafrica</td><td>Independent Regulatory Board for Auditors (IRBA)</td></tr>
+<tr><td>Svezia</td><td>Swedish Inspectorate of Auditors</td></tr>
+<tr><td>Taiwan (Taipei cinese)</td><td>Financial Supervisory Commission (FSC)</td></tr>
+<tr><td>Thailandia</td><td>Securities and Exchange Commission (SEC)</td></tr>
+<tr><td>Turchia</td><td>Public Oversight Accounting and Auditing Standards Authority (POA) e Capital Markets Board of Turkey (CMB)</td></tr>
+<tr><td>Ungheria</td><td>Auditors’ Public Oversight Authority (Ministry of Finance)</td></tr>
+</table>
 
-(Taipei cinese)
-
-- Tailandia Securities and Exchange Commission (SEC)
-- Turchia Public Oversight Accounting and Auditing Standards Authority (POA) e Capital Markets Board of Turkey (CMB)
-- Ungheria Auditors’ Public Oversight Authority (Ministry for National Economy)
+- [tab]

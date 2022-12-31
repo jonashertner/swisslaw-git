@@ -4,11 +4,11 @@ title: "Ordonnance du 22 août 2007 sur l'agrément et la surveillance des révi
 short: OSRev
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: fr
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-534-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210801/fr"
 
 (Ordonnance sur la surveillance de la révision, OSRev)
 
-du 22 août 2007 (Etat le 1<sup>er</sup> août 2021)
+du 22 août 2007 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral,
 
@@ -107,11 +107,22 @@ Le requérant prouve qu’il a les connaissances requises du droit suisse en pro
 
 #### Art. 7
 
-**Supervision de la pratique professionnelle[^7-1]**
+**Pratique professionnelle**[^7-1]
 
-La pratique professionnelle est considérée comme ayant été acquise sous supervision si le requérant a travaillé de manière formellement subordonnée, sous les ordres d’un spécialiste satisfaisant aux conditions légales.
+<sup>1</sup> La pratique professionnelle est considérée comme ayant été acquise principalement dans les domaines de la comptabilité et de la révision comptable (art. 4, al. 4, et art. 5, al. 2, LSR) lorsqu’au moins les trois quarts de la pratique professionnelle ont été acquis dans ces deux domaines.
 
-[^7-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+<sup>2</sup> Pour l’agrément en tant qu’expert-réviseur, la part de la pratique professionnelle dans le domaine de la révision comptable doit représenter au moins un tiers de la pratique professionnelle selon l’al. 1. Un tiers au moins de cette part doit avoir été accompli dans le domaine de la révision ordinaire.
+
+<sup>3</sup> Pour l’agrément en tant que réviseur, la part de la pratique professionnelle dans le domaine de la révision comptable doit représenter au moins la moitié de la pratique professionnelle selon l’al. 1.
+
+<sup>4</sup>
+
+La pratique professionnelle est considérée comme ayant été acquise sous supervision (art. 4, al. 4, et art. 5, al. 2, LSR) si:
+
+- a. le requérant a travaillé de manière formellement subordonnée, sous les ordres d’un spécialiste satisfaisant aux conditions légales;
+- b. la supervision a été exercée à hauteur d’au moins 50 % d’un emploi à temps plein et pendant au moins trois mois sans interruption majeure; si la surveillance a été exercée par la même personne pendant plus de deux ans, un taux d’occupation de 20 % suffit.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
 
 #### Art. 8
 
@@ -140,7 +151,7 @@ Une entreprise de révision a une structure de direction garantissant une superv
 - a. elle dispose d’un système d’assurance-qualité interne; et que
 - b. l’adéquation et l’efficacité des principes et des mesures d’assurance-qualité font l’objet d’une supervision.
 
-<sup>2</sup> ....[^9-1]
+<sup>2</sup> …[^9-1]
 
 [^9-1]: Abrogé par le ch. I de l’O du 23 août 2017, avec effet au 1<sup>er</sup> oct. 2017 ([RO 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
 
@@ -157,9 +168,9 @@ Les entreprises de révision ayant leur siège à l’étranger sont agréées e
 
 <sup>2</sup> Les entreprises de révision étrangères qui fournissent des prestations en matière de révision au sens du droit suisse à des sociétés suisses d’intérêt public sont soumises à la surveillance des autorités suisses.
 
-<sup>3</sup> Les entreprises de révision étrangères qui sont soumises, dans l'État où elles ont leur siège, à la surveillance d’une autorité étrangère reconnue par le Conseil Fédéral ou qui peuvent volontairement s’y soumettre ne sont pas agréées en Suisse en tant qu’entreprises de révision soumise à la surveillance de l’État.[^9a-2]
+<sup>3</sup> Les entreprises de révision étrangères qui sont soumises, dans l’État où elles ont leur siège, à la surveillance d’une autorité étrangère reconnue par le Conseil Fédéral ou qui peuvent volontairement s’y soumettre ne sont pas agréées en Suisse en tant qu’entreprises de révision soumise à la surveillance de l’État.[^9a-2]
 
-<sup>4</sup> Lorsque l’agrément dans l'État où elle a son siège devient possible après l’obtention d’un agrément en Suisse, l’entreprise de révision concernée l’annonce à l’autorité de surveillance suisse. L’autorité de surveillance suisse fixe à l’entreprise de révision un délai raisonnable pour l’obtention de l’agrément dans l’État de siège.[^9a-3]
+<sup>4</sup> Lorsque l’agrément dans l’État où elle a son siège devient possible après l’obtention d’un agrément en Suisse, l’entreprise de révision concernée l’annonce à l’autorité de surveillance suisse. L’autorité de surveillance suisse fixe à l’entreprise de révision un délai raisonnable pour l’obtention de l’agrément dans l’État de siège.[^9a-3]
 
 [^9a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
 [^9a-2]: Introduit par le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
@@ -219,9 +230,9 @@ L’autorité de surveillance octroie des agréments aux entreprises de révisio
 - a<sup>bis</sup>.[^11a-7] des personnes visées à l’art. 1*b* LB;
 - b. des entreprises d’assurance selon la loi du 17 décembre 2004 sur la surveillance des assurances[^11a-8];
 - c.[^11a-9] des directions de fonds et des gestionnaires de fortune collective au sens de la LEFin, des fonds de placement, des SICAV, des sociétés en commandite de placements collectifs, des SICAF, des banques dépositaires et des représentants de placements collectifs étrangers au sens de la loi du 23 juin 2006 sur les placements collectifs[^11a-10];
-- d.[^11a-11] ...
+- d.[^11a-11] …
 
-<sup>2</sup> ...[^11a-12]
+<sup>2</sup> …[^11a-12]
 
 [^11a-1]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^11a-2]: Nouvelle teneur selon le ch. I 2 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
@@ -428,9 +439,9 @@ Les dispositions relatives à l’indépendance (art. 11 LSR et 728 CO) s’appl
 
 #### Art. 13
 
-<sup>1</sup> ...[^13-1]
+<sup>1</sup> …[^13-1]
 
-<sup>2</sup> ...[^13-2]
+<sup>2</sup> …[^13-2]
 
 [^13-1]: Abrogé par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^13-2]: Abrogé par le ch. I de l’O du 1<sup>er</sup> juil. 2015, avec effet au 1<sup>er</sup> oct. 2015 ([RO 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
@@ -526,7 +537,7 @@ L’inscription d’une entreprise de révision comprend les indications suivant
 - g<sup>bis</sup>.[^20-6] le cas échéant, les références assurant la traçabilité des inscriptions, notamment lors de restructurations;
 - h. le cas échéant, la mention de l’appartenance à une association professionnelle;
 - i. le cas échéant, les agréments découlant de lois spéciales suisses et permettant de fournir des prestations en matière de révision, y compris le nom et l’adresse de l’autorité d’agrément;
-- j.[^20-7] ...
+- j.[^20-7] …
 
 [^20-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 [^20-2]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
@@ -743,7 +754,7 @@ L’autorité de surveillance reconnaît un règlement d’examen lorsque celui-
 
 <sup>1</sup> Le directeur et le personnel de l’autorité de surveillance doivent être indépendants du secteur de la révision.
 
-<sup>2</sup> ...[^35-1]
+<sup>2</sup> …[^35-1]
 
 [^35-1]: Abrogé par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
@@ -789,7 +800,7 @@ L’émolument se monte, par agrément, à:[^38-2]
 - a. 800 francs pour les personnes physiques;
 - b. 1500 francs pour les entreprises de révision.
 
-<sup>3</sup> ...[^38-3]
+<sup>3</sup> …[^38-3]
 
 <sup>4</sup> Un double émolument est perçu pour les prestations d’une ampleur extraordinaire. Les débours sont alors facturés séparément.
 
@@ -797,7 +808,7 @@ L’émolument se monte, par agrément, à:[^38-2]
 
 <sup>6</sup> Lorsqu’une entreprise de révision soumise à la surveillance de l’État dépose simultanément plusieurs demandes d’agrément, les émoluments sont calculés en fonction du temps consacré.[^38-4]
 
-<sup>7</sup> ...[^38-5]
+<sup>7</sup> …[^38-5]
 
 <sup>8</sup> Lorsqu’une entreprise de révision soumise à la surveillance de l’État n’effectue que l’audit des personnes visées à l’art. 1*b* LB[^38-6] (art. 11*a*, al. 1, let. *a*<sup>bis</sup>), les émoluments dus se montent à 1500 francs.[^38-7]
 
@@ -823,7 +834,7 @@ L’émolument se monte, par agrément, à:[^38-2]
 
 <sup>1</sup> Un émolument calculé en fonction du temps consacré est perçu pour les autres décisions et prestations. Le tarif horaire est de 250 francs.
 
-<sup>2</sup> ...[^40-1]
+<sup>2</sup> …[^40-1]
 
 [^40-1]: Abrogé par le ch. I de l’O du 14 nov. 2012, avec effet au 1<sup>er</sup> déc. 2012 ([RO 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
 
@@ -841,7 +852,7 @@ Le Département fédéral de justice et police peut adapter le tarif des émolum
 
 <sup>2</sup> La redevance de surveillance d’une entreprise de révision soumise à la surveillance de l’État est calculée en fonction des honoraires de révision qu’elle a perçus par rapport à la totalité des honoraires de révision perçus par l’ensemble des entreprises de révision soumises à la surveillance de l’État. Cette redevance est toutefois de 10 000 francs au minimum.
 
-<sup>2bis</sup> ...[^42-1]
+<sup>2bis</sup> …[^42-1]
 
 <sup>2ter</sup> La redevance est de 2500 francs au minimum pour les entreprises de révision soumises à la surveillance de l’État qui n’auditent que les personnes visées à l’art. 1*b* LB[^42-2] (art. 11*a*, al. 1, let. *a*<sup>bis</sup>).[^42-3]
 
@@ -879,7 +890,7 @@ Est puni d’une amende de 100 000 francs au plus quiconque intentionnellement:[
 
 - a. donne de fausses indications dans la demande d’agrément;
 - b.[^45-2] se prévaut d’une appellation telle que «réviseur agréé», «expert-réviseur agréé», «auditeur responsable agréé», «entreprise de révision agréée», «entreprise de révision soumise à la surveillance de l’État» ou «société d’audit agréée» (art. 12, al. 3);
-- c.[^45-3] contrevient, malgré un avertissement préalable, au devoir de coopération prévu à l'art. 14.
+- c.[^45-3] contrevient, malgré un avertissement préalable, au devoir de coopération prévu à l’art. 14.
 
 <sup>2</sup> Si l’auteur agit par négligence, l’amende est de 50 000 francs au plus.[^45-4]
 
@@ -985,6 +996,16 @@ Au cours des deux premières années suivant l’entrée en vigueur de la prése
 
 [^51c-1]: Introduit par le ch. II 1 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
+#### Art. 51d
+
+**Dispositions transitoires relatives à la modification du 23 novembre 2022**[^51d-1]
+
+<sup>1</sup> Les personnes au bénéfice d’une formation au sens de l’art. 4, al. 2, let. b, LSR doivent satisfaire aux exigences de l’art. 7, al. 2, au plus tard trois ans après l’entrée en vigueur de la modification du 23 novembre 2022 et les personnes au bénéfice d’une formation au sens de l’art. 4, al. 2, let. c, LSR, au plus tard cinq ans après l’entrée en vigueur de la modification du 23 novembre 2022.
+
+<sup>2</sup> Les exigences visées à l’art. 7, al. 3 et 4, let. b, doivent être remplies au plus tard une année après l’entrée en vigueur de la modification du 23 novembre 2022.
+
+[^51d-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
+
 #### Art. 52
 
 **Entrée en vigueur**
@@ -1000,7 +1021,7 @@ Au cours des deux premières années suivant l’entrée en vigueur de la prése
 [^52-1]: [RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)
 [^52-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 46)
 
@@ -1016,68 +1037,67 @@ II
 
 Sont modifiés comme suit:
 
-...[^annex1-lvlu1-2]
+…[^annex1-lvlu1-2]
 
 [^annex1-lvlu1-1]: [[RO 1992 1210](https://fedlex.data.admin.ch/eli/oc/1992/1210_1210_1210)]
 [^annex1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534).
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 10, al. 2)
 
 ## Liste des autorités étrangères de surveillance de la révision reconnues
 
-[^t-2]: Introduite par le ch. II de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 331](https://fedlex.data.admin.ch/eli/oc/2021/331)).
+[^t-2]: Introduite par le ch. II de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 768](https://fedlex.data.admin.ch/eli/oc/2022/768)).
 
-- Afrique du Sud Independent Regulatory Board for Auditors (IRBA)
-- Allemagne Abschlussprüferaufsichtstelle (APAS)
-- Australie Australian Securities and Investments Commission (ASIC)
-- Autriche Abschlussprüferaufsichtsbehörde (APAB)
-- Belgique College van Toezicht op de Bedrijfsrevisoren / Collège de Supervision des Réviseurs d’Entreprises (CTBR/CSRE)
-- Bermudes Bermuda Public Accountability Board (BPAB)
-- Brésil Comissão de Valores Mobiliários (CVM)
-- Bulgarie Commission for Public Oversight of Statutory Auditors (CPOSA)
-- Canada Canadian Public Accountability Board (CPAB)
-- Chine China Securities Regulatory Commission (CSRC)
-- Corée du Sud Financial Services Commission (FSC), Securities and Futures Commission (SFC) et Financial Supervisory Service (FSS)
-- Croatie Croatian Audit Public Oversight Committee (APOC)
-- Danemark Danish Business Authority (DBA)
-- Espagne Accounting and Auditing Institute
-- États-Unis Public Company Accounting Oversight Board (PCAOB)
-- Finlande Finnish Patent and Registration Office, Auditor Oversight Unit (PRH)
-- France Haut Conseil du commissariat aux comptes (H3C)
-- Grèce Hellenic Accounting and Auditing Standards Oversight Board (ELTE)
-- Guernsey Guernsey Registry
-- Hongrie Auditors’ Public Oversight Authority (Ministry for National Economy)
-- Île de Man Isle of Man Financial Services Authority (IoMFSA)
-- Indonésie Pusat Pembinaan Profesi Keuangan (PPPK), Secretariat General, Ministry of Finance
-- Irlande Irish Auditing & Accounting Supervisory Authority (IAASA)
-- Islande Public Auditors Oversight Board (PAOB)
-- Italie Commissione Nazionale per le Società e la Borsa (CONSOB)
-- Japon Certified Public Accountants and Auditing Oversight Board (CPAAOB)
-- Jersey Jersey Financial Services Commission (JFSC)
-- Lettonie Ministry of Finance, Department of Taxes Administration and Accounting Policy, Audit Oversight Commission
-- Liechtenstein Finanzmarktaufsicht (FMA)
-- Lituanie Authority of Audit, Accounting, Property Valuation and Insolvency Management (AAAPVIM)
-- Luxembourg Commission de Surveillance du Secteur Financier (CSSF)
-- Malte Ministry of Finance, The Economy & Investment
-- Maurice Financial Reporting Council (FRC)
-- Norvège Finanstilsynet
-- Nouvelle- Zélande Financial Markets Authority (FMA)
-- Pays-Bas Authority for the Financial Markets (AFM)
-- Pologne Audit Oversight Commission (AOC)
-- Portugal Securities Market Commission
-- Qatar Qatar Financial Centre Authority (QFC)
-- Roumanie Consiliul Pentru Supravegherea În Interes Public A Profesiei Contabile (CSIPPC)
-- Royaume-Uni Financial Reporting Council (FRC)
-- Singapour Accounting and Corporate Regulatory Authority (ACRA)
-- Slovaquie Auditing Oversight Authority
-- Slovénie Agency for Public Oversight of Auditing (APOA)
-- Suède Swedish Inspectorate of Auditors
-- Taïwan Financial Supervisory Commission (FSC)
-
-(Taipei chinois)
-
-- Tchéquie Public Audit Oversight Board (RVDA)
-- Thaïlande Securities and Exchange Commission (SEC)
-- Turquie Public Oversight Accounting and Auditing Standards Authority (POA) et Capital Markets Board of Turkey (CMB)
+<table>
+<tr><td>[tab] Afrique du Sud</td><td>[tab] Independent Regulatory Board for Auditors (IRBA)</td></tr>
+<tr><td>[tab] Allemagne</td><td>[tab] Abschlussprüferaufsichtstelle (APAS)</td></tr>
+<tr><td>[tab] Australie</td><td>[tab] Australian Securities and Investments Commission (ASIC)</td></tr>
+<tr><td>[tab] Autriche</td><td>[tab] Abschlussprüferaufsichtsbehörde (APAB)</td></tr>
+<tr><td>[tab] Belgique</td><td>[tab] College van Toezicht op de Bedrijfsrevisoren / Collège de Supervision des Réviseurs d’Entreprises (CTBR/CSRE)</td></tr>
+<tr><td>[tab] Brésil</td><td>[tab] Comissão de Valores Mobiliários (CVM)</td></tr>
+<tr><td>[tab] Bulgarie</td><td>[tab] Commission for Public Oversight of Statutory Auditors (CPOSA)</td></tr>
+<tr><td>[tab] Canada</td><td>[tab] Canadian Public Accountability Board (CPAB)</td></tr>
+<tr><td>[tab] Chili</td><td>[tab] Comisión para el Mercado Financiero (CMF)</td></tr>
+<tr><td>[tab] Chine</td><td>[tab] China Securities Regulatory Commission (CSRC) et Ministry of Finance (MoF)</td></tr>
+<tr><td>[tab] Corée du Sud</td><td>[tab] Financial Services Commission (FSC), Securities and Futures Commission (SFC) et Financial Supervisory Service (FSS)</td></tr>
+<tr><td>[tab] Croatie</td><td>[tab] Ministry of Finance (MFin)</td></tr>
+<tr><td>[tab] Danemark</td><td>[tab] Danish Business Authority (DBA)</td></tr>
+<tr><td>[tab] Espagne</td><td>[tab] Accounting and Auditing Institute</td></tr>
+<tr><td>[tab] États-Unis</td><td>[tab] Public Company Accounting Oversight Board (PCAOB)</td></tr>
+<tr><td>[tab] Finlande</td><td>[tab] Finnish Patent and Registration Office, Auditor Oversight Unit (PRH)</td></tr>
+<tr><td>[tab] France</td><td>[tab] Haut Conseil du commissariat aux comptes (H3C)</td></tr>
+<tr><td>[tab] Grande-Bretagne</td><td>[tab] Financial Reporting Council (FRC)</td></tr>
+<tr><td>[tab] Grèce</td><td>[tab] Hellenic Accounting and Auditing Standards Oversight Board (ELTE)</td></tr>
+<tr><td>[tab] Guernsey</td><td>[tab] Guernsey Registry</td></tr>
+<tr><td>[tab] Hongrie</td><td>[tab] Auditors’ Public Oversight Authority (Ministry of Finance)</td></tr>
+<tr><td>[tab] Île de Man</td><td>[tab] Isle of Man Financial Services Authority (IoMFSA)</td></tr>
+<tr><td>[tab] Indonésie</td><td>[tab] Pusat Pembinaan Profesi Keuangan (PPPK), Secretariat General, Ministry of Finance</td></tr>
+<tr><td>[tab] Irlande</td><td>[tab] Irish Auditing & Accounting Supervisory Authority (IAASA)</td></tr>
+<tr><td>[tab] Islande</td><td>[tab] Public Auditors Oversight Board (PAOB)</td></tr>
+<tr><td>[tab] Italie</td><td>[tab] Commissione Nazionale per le Società e la Borsa (CONSOB)</td></tr>
+<tr><td>[tab] Japon</td><td>[tab] Certified Public Accountants and Auditing Oversight Board (CPAAOB)</td></tr>
+<tr><td>[tab] Jersey</td><td>[tab] Jersey Financial Services Commission (JFSC)</td></tr>
+<tr><td>[tab] Lettonie</td><td>[tab] Ministry of Finance, Department of Taxes Administration and Accounting Policy, Audit Oversight Commission</td></tr>
+<tr><td>[tab] Liechtenstein</td><td>[tab] Finanzmarktaufsicht (FMA)</td></tr>
+<tr><td>[tab] Lituanie</td><td>[tab] Authority of Audit, Accounting, Property Valuation and Insolvency Management (AAAPVIM)</td></tr>
+<tr><td>[tab] Luxembourg</td><td>[tab] Commission de Surveillance du Secteur Financier (CSSF)</td></tr>
+<tr><td>[tab] Malte</td><td>[tab] Ministry of Finance, The Economy & Investment</td></tr>
+<tr><td>[tab] Maurice</td><td>[tab] Financial Reporting Council (FRC)</td></tr>
+<tr><td>[tab] Norvège</td><td>[tab] Finanstilsynet</td></tr>
+<tr><td>[tab] Nouvelle-Zélande</td><td>[tab] Financial Markets Authority (FMA)</td></tr>
+<tr><td>[tab] Pays-Bas</td><td>[tab] Authority for the Financial Markets (AFM)</td></tr>
+<tr><td>[tab] Pologne</td><td>[tab] Polish Agency for Audit Oversight (PANA)</td></tr>
+<tr><td>[tab] Portugal</td><td>[tab] Securities Market Commission</td></tr>
+<tr><td>[tab] Qatar</td><td>[tab] Qatar Financial Centre Authority (QFC)</td></tr>
+<tr><td>[tab] Roumanie</td><td>[tab] Authority for Public Oversight of the Statutory Audit Activity (ASPAAS)</td></tr>
+<tr><td>[tab] Singapour</td><td>[tab] Accounting and Corporate Regulatory Authority (ACRA)</td></tr>
+<tr><td>[tab] Slovaquie</td><td>[tab] Auditing Oversight Authority</td></tr>
+<tr><td>[tab] Slovénie</td><td>[tab] Agency for Public Oversight of Auditing (APOA)</td></tr>
+<tr><td>[tab] Suède</td><td>[tab] Swedish Inspectorate of Auditors</td></tr>
+<tr><td>[tab] Taïwan (Taipei chinois)</td><td>[tab] Financial Supervisory Commission (FSC)</td></tr>
+<tr><td>[tab] Tchéquie</td><td>[tab] Public Audit Oversight Board (RVDA)</td></tr>
+<tr><td>[tab] Thaïlande</td><td>[tab] Securities and Exchange Commission (SEC)</td></tr>
+<tr><td>[tab] Turquie</td><td>[tab] Public Oversight Accounting and Auditing Standards Authority (POA) et Capital Markets Board of Turkey (CMB)</td></tr>
+</table>
