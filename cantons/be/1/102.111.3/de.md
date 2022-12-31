@@ -4,13 +4,12 @@ number: "102.111.3"
 title: Gemeinsames Reglement des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne
 short: R BJR-RFB
 language: de
-version: 2018-06-01
-valid_until: 2022-12-31
-version_adopted: 2017-08-21
+version: 2023-01-01
+version_adopted: 2022-11-23
 adopted: 2007-03-28
 in_force: 2007-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.111.3"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1331/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2772/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1331/pdf_file"
 
 (R BJR-RFB)
 
-vom 28.03.2007 (Stand 01.06.2018)
+vom 28.03.2007 (Stand 01.01.2023)
 
 Der Bernjurassische Rat (BJR) und der Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB),
 
-gestützt auf Artikel 25 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsgesetz, SStG)[^ingress-1], Artikel 26 der Geschäftsordnung vom 27. September 2006 des Bernjurassischen Rats (GO BJR)[^ingress-2] sowie auf Artikel 26 der Geschäftsordnung vom 31. August 2006 des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (GO RFB)[^ingress-3],
+gestützt auf Artikel 25 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne (Sonderstatutsgesetz, SStG)[^ingress-1], Artikel 26 der Geschäftsordnung vom 27. September 2006 des Bernjurassischen Rats (GO BJR)[^ingress-2] sowie auf Artikel 26 der Geschäftsordnung vom 31. August 2006 des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (GO RFB)[^ingress-3],
 
 beschliessen:
 
@@ -42,8 +41,8 @@ beschliessen:
 - a zwischen den Generalsekretariaten,
 - b zwischen den beiden Präsidentinnen oder Präsidenten,
 - c zwischen den Ratsbüros,
-- d zwischen den Ausschüssen oder Delegationen,
-- e zwischen den beiden Räten.
+- d zwischen den Kommissionen oder Delegationen,
+- e zwischen den Plenen.
 
 #### Art. 2
 
@@ -51,7 +50,7 @@ beschliessen:
 
 <sup>1</sup> Die Generalsekretärinnen oder Generalsekretäre, ihre Stellvertreterinnen und Stellvertreter sowie ihr Personal koordinieren und treffen sich regelmässig im Hinblick auf Standortbestimmungen bei der Entwicklung gemeinsamer Dossiers; sie sorgen unter Einhaltung der jeweiligen Befugnisse für einen guten Informationsaustausch zwischen den beiden Räten.
 
-<sup>2</sup> Sie informieren ihre jeweiligen Präsidentinnen oder Präsidenten sowie ihre jeweiligen Büros über die laufenden Geschäfte und machen Vorschläge für die jeweiligen Plenarsitzungen sowie für die Vollversammlungen beider Räte.
+<sup>2</sup> Sie informieren ihre jeweiligen Präsidentinnen oder Präsidenten sowie ihr jeweiliges Büro über die laufenden Geschäfte und machen Vorschläge für die jeweiligen Plenarsitzungen sowie für die Vollversammlungen beider Räte.
 
 <sup>3</sup> Sie bereiten gemeinsam die Dossiers vor, die in den Vollversammlungen behandelt werden oder die Gegenstand eines gemeinsamen Vorgehens der beiden Räte sind.
 
@@ -73,43 +72,43 @@ beschliessen:
 
 #### Art. 5
 
-**Zusammenarbeit des BJR-Erziehungsausschusses und des RFB-Bildungsausschusses**
+**Zusammenarbeit zwischen der Bildungskommission des BJR und der Kommission Bildung, Gesundheit und Soziales des RFB**
 
-<sup>1</sup> Der Erziehungsausschuss des BJR und der Bildungsausschuss des RFB kommen bei Bedarf zu gemeinsamen Sitzungen zusammen, um die Geschäfte aus dem Zuständigkeitsbereich der Erziehungsdirektion des Kantons Bern zu prüfen und vorzubereiten.
+<sup>1</sup> Die Bildungskommission des BJR und die Kommission Bildung, Gesundheit und Soziales des RFB kommen bei Bedarf zu gemeinsamen Sitzungen zusammen, um die Geschäfte aus dem Zuständigkeitsbereich der Bildungs- und Kulturdirektion des Kantons Bern zu prüfen und vorzubereiten.
 
-<sup>2</sup> Die gemeinsamen Sitzungen werden durch die Vorsitzenden der beiden Ausschüsse einberufen.
+<sup>2</sup> Die gemeinsamen Sitzungen werden durch die Vorsitzenden der beiden Kommissionen einberufen.
 
-<sup>3</sup> Die Präsidentin oder der Präsident der FRAKO ist eingeladen, mit einer Abordnung der FRAKO, falls die Dossiers dies erfordern, an den gemeinsamen Sitzungen der beiden Ausschüsse teilzunehmen.
+<sup>3</sup> Die Präsidentin oder der Präsident der FRAKO ist eingeladen, mit einer Abordnung der FRAKO, falls die Dossiers dies erfordern, an den gemeinsamen Sitzungen der beiden Kommissionen teilzunehmen.
 
-<sup>4</sup> Die Vorsitzenden der beiden Ausschüsse leiten die gemeinsamen Sitzungen im Wechsel.
+<sup>4</sup> Die Vorsitzenden der beiden Kommissionen leiten die gemeinsamen Sitzungen im Wechsel.
 
-<sup>5</sup> Die FRAKO kann eine gemeinsame Sitzung der beiden Ausschüsse verlangen.
+<sup>5</sup> Die FRAKO kann eine gemeinsame Sitzung der beiden Kommissionen verlangen.
 
 #### Art. 6
 
-**Zusammenarbeit der Kulturausschüsse**
+**Zusammenarbeit der Kulturkommissionen**
 
-<sup>1</sup> Der Kulturausschuss des BJR und der Kulturausschuss des RFB kommen bei Bedarf zu gemeinsamen Sitzungen zusammen, um gemeinsame, namentlich kulturpolitische Dossiers aus dem Zuständigkeitsbereich des Amts für Kultur der Erziehungsdirektion des Kantons Bern zu prüfen und vorzubereiten.
+<sup>1</sup> Die Kulturkommission des BJR und die Kulturkommission des RFB kommen bei Bedarf zu gemeinsamen Sitzungen zusammen, um gemeinsame, namentlich kulturpolitische Dossiers aus dem Zuständigkeitsbereich des Amts für Kultur der Bildungs- und Kulturdirektion des Kantons Bern zu prüfen und vorzubereiten.
 
-<sup>2</sup> Die gemeinsamen Sitzungen werden durch die Vorsitzenden der beiden Kulturausschüsse einberufen.
+<sup>2</sup> Die gemeinsamen Sitzungen werden durch die Vorsitzenden der beiden Kulturkommissionen einberufen.
 
-<sup>3</sup> Die oder der Beauftragte für französisch- oder zweisprachige Angelegenheiten des Amts für Kultur des Kantons Bern ist eingeladen, mit einer Abordnung des Amts für Kultur oder mit der Präsidentin oder dem Präsidenten der FRAKO, falls die Dossiers dies erfordern, an den gemeinsamen Sitzungen der beiden Kulturausschüsse teilzunehmen.
+<sup>3</sup> Die oder der Beauftragte für französisch- oder zweisprachige Angelegenheiten des Amts für Kultur des Kantons Bern ist eingeladen, mit einer Abordnung des Amts für Kultur oder mit der Präsidentin oder dem Präsidenten der FRAKO, falls die Dossiers dies erfordern, an den gemeinsamen Sitzungen der beiden Kulturkommissionen teilzunehmen.
 
-<sup>4</sup> Die Sitzungen werden von den Vorsitzenden der beiden Kulturausschüsse im Wechsel geleitet.
+<sup>4</sup> Die Sitzungen werden von den Vorsitzenden der beiden Kulturkommissionen im Wechsel geleitet.
 
-<sup>5</sup> Die oder der Beauftragte für französisch- oder zweisprachige Angelegenheiten des Amts für Kultur kann eine gemeinsame Sitzung der beiden Kulturausschüsse verlangen.
+<sup>5</sup> Die oder der Beauftragte für französisch- oder zweisprachige Angelegenheiten des Amts für Kultur kann eine gemeinsame Sitzung der beiden Kulturkommissionen verlangen.
 
 #### Art. 7
 
-**Zusammenarbeit der anderen ständigen BJR-Ausschüsse mit dem RFB**
+**Zusammenarbeit zwischen den anderen ständigen Kommissionen der beiden Räte**
 
-<sup>1</sup> Die anderen ständigen Ausschüsse des BJR können eine Abordnung des RFB zur Teilnahme an ihren Sitzungen einladen, wenn die behandelten Dossiers auch den Verwaltungskreis Biel/Bienne betreffen.
+<sup>1</sup> Die anderen ständigen Kommissionen der beiden Räte können eine Abordnung des jeweils anderen Rats zur Teilnahme an ihren Sitzungen einladen, wenn die behandelten Dossiers sowohl den Berner Jura als auch den Verwaltungskreis Biel/Bienne betreffen.
 
 #### Art. 8
 
-**Zusammenarbeit der Ad-hoc-Ausschüsse der beiden Räte**
+**Zusammenarbeit der Ad-hoc-Kommissionen der beiden Räte**
 
-<sup>1</sup> Die Ad-hoc-Ausschüsse der beiden Räte können eine Abordnung des anderen Rats zur Teilnahme an ihren Sitzungen einladen, wenn die behandelten Dossiers sowohl den Berner Jura als auch den Verwaltungskreis Biel/Bienne betreffen.
+<sup>1</sup> Die Ad-hoc-Kommissionen der beiden Räte können eine Abordnung des jeweils anderen Rats zur Teilnahme an ihren Sitzungen einladen, wenn die behandelten Dossiers sowohl den Berner Jura als auch den Verwaltungskreis Biel/Bienne betreffen.
 
 #### Art. 9
 
@@ -187,9 +186,9 @@ beschliessen:
 
 **Schulkoordination mit der Westschweiz und mit dem Kanton Jura**
 
-<sup>1</sup> Die Ausschüsse, die den BJR und den RFB bei Geschäften vertreten, die die Schulkoordination mit der Westschweiz und dem Kanton Jura betreffen, werden auf der Grundlage eines in einer gemeinsamen Sitzung erarbeiteten Vorschlags des Erziehungsausschusses des BJR und des Bildungsausschusses des RFB von den beiden Räten in einer Vollversammlung oder in getrennten Plenarsitzungen bestimmt.
+<sup>1</sup> Die Kommissionen, die den BJR und den RFB bei Geschäften vertreten, die die Schulkoordination mit der Westschweiz und dem Kanton Jura betreffen, werden auf der Grundlage eines in einer gemeinsamen Sitzung erarbeiteten Vorschlags der Bildungskommission des BJR und der Kommission Bildung, Gesundheit und Soziales des RFB von den beiden Räten in einer Vollversammlung oder in getrennten Plenarsitzungen bestimmt.
 
-<sup>2</sup> Die Dossiers im Zusammenhang mit der Schulkoordination mit der Westschweiz und mit dem Kanton Jura werden von der FRAKO in Zusammenarbeit mit dem Erziehungsausschuss des BJR und dem Bildungsausschuss des RFB vorbereitet.
+<sup>2</sup> Die Dossiers im Zusammenhang mit der Schulkoordination mit der Westschweiz und mit dem Kanton Jura werden von der FRAKO in Zusammenarbeit mit der Bildungskommission des BJR und der Kommission Bildung, Gesundheit und Soziales des RFB vorbereitet.
 
 <sup>3</sup> Beschlüsse im Zusammenhang mit der Schulkoordination mit der Westschweiz und mit dem Kanton Jura fallen in den Zuständigkeitsbereich der Vollversammlungen; diese Befugnisse können an andere Organe der Räte delegiert werden. Die entsprechenden Einzelheiten dazu sind in Artikel 45 Absatz 2 SStG festgelegt.
 
@@ -214,14 +213,12 @@ beschliessen:
 
 <sup>1</sup> Folgende Geschäfte der politischen Mitwirkung betreffen beide Räte gemeinsam:
 
-- a die in Artikel 31 Absatz 1 Buchstabe a bis f SStG genannten Geschäfte, sofern sie die französischsprachige Bevölkerung des Verwaltungskreises Biel/Bienne besonders betreffen;
-- b die in Artikel 31 Absatz 1 Buchstabe g SStG und in Artikel 6 Absatz 1 Buchstabe d der Versuchsverordnung vom 21. Juni 2017 über die Erweiterung des Wirkungskreises des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel auf den Verwaltungskreis Biel/Bienne (RFB VV)[^18-1] bezeichneten Ernennungsbeschlüsse.
+- a die in Artikel 31 Absatz 1 Buchstabe a bis g SStG genannten Geschäfte, sofern sie die französischsprachige Bevölkerung des Verwaltungskreises Biel/Bienne besonders betreffen;
+- b die in Artikel 31 Absatz 1 Buchstabe h SStG bezeichneten Ernennungsbeschlüsse.
 
 <sup>2</sup> Die beiden Ratsbüros einigen sich darüber, ob die politische Mitwirkung gemäss Absatz 1 gemeinsam oder getrennt ausgeübt wird.
 
 <sup>3</sup> Erfolgt die Ausübung der politischen Mitwirkung gemeinsam, bedarf es für die Zustimmung der Geschäfte der Mehrheit in beiden Räten. Kommt es zu keiner doppelten Mehrheit, üben die beiden Räte die politische Mitwirkung wieder getrennt aus.
-
-[^18-1]: RSB [102.111.20](https://www.belex.sites.be.ch/data/%20102.111.20/de)
 
 #### Art. 19
 
