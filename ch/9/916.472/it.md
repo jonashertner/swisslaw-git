@@ -3,20 +3,20 @@ sr: "916.472"
 title: "Ordinanza del 30 ottobre 1985 sulle tasse dell'Ufficio federale della sicurezza alimentare e di veterinaria (Ordinanza sulle tasse dell'USAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: it
-version: 2022-02-01
+version: 2023-01-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220201/it/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle tasse dell’Ufficio federale della sicurezza alimentare e di veterinaria
 
-(Ordinanza sulle tasse dell’USAV)**[^t-1]**
+(Ordinanza sulle tasse dell’USAV)[^t-1]
 
-del 30 ottobre 1985 (Stato 1° febbraio 2022)
+del 30 ottobre 1985 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2011 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -134,7 +134,7 @@ Oltre agli esborsi di cui all’articolo 6 OgeEm[^5-2] sono fatturati:
 
 ## Capitolo 2: Tariffa delle tasse
 
-### Sezione 1:**** Controllo in caso d’importazione o transito
+### Sezione 1: Controllo in caso d’importazione o transito
 
 [^chap2-sec1-1]
 
@@ -235,7 +235,7 @@ Per le disposizioni circa il respingimento, la trasformazione o la confisca di p
 [^18-5]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
 [^18-6]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-### Sezione 2:**** Autorizzazioni e certificati di esportazione
+### Sezione 2: Autorizzazioni e certificati di esportazione
 
 [^chap2-sec2-1]
 
@@ -298,26 +298,15 @@ Oltre alle tasse sono computate le spese seguenti:
 
 [^21a-1]: Introdotto dall’art. 89 n. 6 dell’O del 20 aprile 1988 concernente l’importazione’ il transito e l’esportazione di animali e prodotti animali ([RU 1988 800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)). Abrogato dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-### Sezione 5:**** Controllo di prodotti immunologici
-
-[^chap2-sec5-1]
-
-[^chap2-sec5-1]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)).
+### Sezione 5: ...
 
 #### Art. 22
 
-<sup>1</sup> Le tasse per gli esami e i controlli di prodotti immunologici ammontano secondo la legislazione sugli agenti terapeutici e la legislazione sulle epizoozie a:
+[^22-1]
 
-<table>
-<tr><th></th><th>Fr.</th></tr>
-<tr><td>a. domande per la nuova omologazione di un prodotto</td><td>1500.– a 10 000.–</td></tr>
-<tr><td>b. domande per il rinnovo periodico dell’omologazione o per la modifica di un’omologazione esistente</td><td>200.– a 3 000.–</td></tr>
-<tr><td>c. controllo di un lotto di fabbricazione</td><td>00.– a 3 000.–</td></tr>
-</table>
+[^22-1]: Abrogato dall’all. n. 4 dell’O del 23 nov. 2022, con effetto dal 1° ge. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
-<sup>2</sup> Le spese per l’acquisto e la tenuta di animali da esperimento sono fatturate separatamente.
-
-### Sezione 6:**** Laboratori di diagnostica
+### Sezione 6: Laboratori di diagnostica
 
 [^chap2-sec6-1]
 
@@ -335,7 +324,7 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 
 [^24-1]: Abrogato dal n. I dell’O dell’8 mar. 2002, con effetto dal 1° giu. 2002 ([RU 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)).
 
-### Sezione 8:**** Perfezionamento ed esami degli organi incaricati di assumere le varie funzioni nel settore veterinario pubblico****
+### Sezione 8: Perfezionamento ed esami degli organi incaricati di assumere le varie funzioni nel settore veterinario pubblico
 
 [^chap2-sec8-1][^chap2-sec8-2]
 
@@ -374,7 +363,7 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 [^24a-4]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinariopubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 [^24a-5]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
-### Sezione 9:**** Utilizzo del sistema d’informazione animex-ch****
+### Sezione 9: Utilizzo del sistema d’informazione animex-ch
 
 [^chap2-sec9-1][^chap2-sec9-2]
 
@@ -396,7 +385,7 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 
 <sup>2</sup> Se l’USAV svolge i compiti di un Cantone che non lavora con il sistema d’informazione animex-ch, la tassa ammonta al doppio dell’importo di cui al capoverso 1.
 
-### Sezione 10:**** Omologazione di prodotti fitosanitari
+### Sezione 10: Omologazione di prodotti fitosanitari
 
 [^chap2-sec10-1]
 
@@ -450,6 +439,6 @@ La tariffa del 13 giugno 1977[^26-1] è applicabile alle prestazioni fornite pri
 
 La presente ordinanza entra in vigore il 1° gennaio 1986.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 [^t-2]: Introdotto dal n. II dell’O dell’8 mar. 2002 ([RU 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)). Abrogato dal n. I dell’O del 18 apr. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).

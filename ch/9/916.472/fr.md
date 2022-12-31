@@ -3,20 +3,20 @@ sr: "916.472"
 title: "Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l'OSAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: fr
-version: 2022-02-01
+version: 2023-01-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
-(Ordonnance sur les émoluments de l’OSAV, OEmol-OSAV)**[^t-1]**
+(Ordonnance sur les émoluments de l’OSAV, OEmol-OSAV)[^t-1]
 
-du 30 octobre 1985 (Etat le 1<sup>er</sup> février 2022)
+du 30 octobre 1985 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Tit. introduit par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -134,7 +134,7 @@ Les débours comprennent, outre les frais énumérés à l’art. 6 OGEmol[^5-2]
 
 ## Chapitre 2 Tarif des émoluments
 
-### Section 1**** Contrôle lors de l’importation et du transit
+### Section 1 Contrôle lors de l’importation et du transit
 
 [^chap2-sec1-1]
 
@@ -235,7 +235,7 @@ L’OSAV perçoit un émolument de 120 francs pour les décisions de refoulement
 [^18-5]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
 [^18-6]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-### Section 2**** Autorisations et certificats d’exportation
+### Section 2 Autorisations et certificats d’exportation
 
 [^chap2-sec2-1]
 
@@ -276,13 +276,13 @@ Les débours ci-après sont facturés en plus des émoluments:
 [^20-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 [^20-3]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
-### Section 3*a***** …
-
-[^chap2-sec3a-1]
-
-[^chap2-sec3a-1]: Introduite par l’annexe 3 ch. 5 de l’O du 1<sup>er</sup> mars 1995 sur l’hygiène des viandes ([RO 1995 1666](https://fedlex.data.admin.ch/eli/oc/1995/1666_1666_1666)). Abrogé par l’annexe ch. 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+### Section 3*a* …
 
 #### Art. 20a
+
+[^20a-1]
+
+[^20a-1]: Introduite par l’annexe 3 ch. 5 de l’O du 1<sup>er</sup> mars 1995 sur l’hygiène des viandes ([RO 1995 1666](https://fedlex.data.admin.ch/eli/oc/1995/1666_1666_1666)). Abrogé par l’annexe ch. 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 ### Section 4 …
 
@@ -298,26 +298,15 @@ Les débours ci-après sont facturés en plus des émoluments:
 
 [^21a-1]: Introduit par l’art. 89 ch. 6 de l’O du 20 avr. 1988 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux ([RO 1988 800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)). Abrogé par l’annexe ch. 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-### Section 5**** Contrôle des produits immunologiques
-
-[^chap2-sec5-1]
-
-[^chap2-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)).
+### Section 5 …
 
 #### Art. 22
 
-<sup>1</sup> Les émoluments pour l’examen et le contrôle des produits immunologiques au sens de la législation sur les produits thérapeutiques et de la législation sur les épizooties oscillent:
+[^22-1]
 
-<table>
-<tr><th></th><th>Fr.</th></tr>
-<tr><td>a. dans le cas d’une demande de nouvelle autorisation d’un produit</td><td>entre 1500.– et 10 000.–</td></tr>
-<tr><td>b. dans le cas d’une demande de renouvellement périodique de l’autorisation ou d’une demande de modification d’une autorisation existante</td><td>entre 200.– et 3000.–</td></tr>
-<tr><td>c. dans le cas du contrôle d’un lot de production</td><td>entre 400.– et 3000.–</td></tr>
-</table>
+[^22-1]: Abrogé par l’annexe ch. 4 de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
-<sup>2</sup> Les débours pour l’acquisition et la détention d’animaux d’expérience sont facturés à part.
-
-### Section 6**** Laboratoires de diagnostic
+### Section 6 Laboratoires de diagnostic
 
 [^chap2-sec6-1]
 
@@ -335,7 +324,7 @@ Pour l’agrément d’un laboratoire de diagnostic, de même que pour la révoc
 
 [^24-1]: Abrogé par le ch. I de l’O du 8 mars 2002, avec effet au 1<sup>er</sup> juin 2002 ([RO 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)).
 
-### Section 8**** Formation qualifiante et examens des organes chargés d’exercer des fonctions dans le secteur vétérinaire public****
+### Section 8 Formation qualifiante et examens des organes chargés d’exercer des fonctions dans le secteur vétérinaire public
 
 [^chap2-sec8-1][^chap2-sec8-2]
 
@@ -375,7 +364,7 @@ Pour l’agrément d’un laboratoire de diagnostic, de même que pour la révoc
 [^24a-5]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 16 nov. 2011 (Formation des personnes travaillant dans le Service vétérinaire public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 [^24a-6]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 16 nov. 2011 (Formation des personnes travaillant dans le Service vétérinaire public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
-### Section 9**** Utilisation du système informatique animex-ch****
+### Section 9 Utilisation du système informatique animex-ch
 
 [^chap2-sec9-1][^chap2-sec9-2]
 
@@ -397,7 +386,7 @@ Pour l’agrément d’un laboratoire de diagnostic, de même que pour la révoc
 
 <sup>2</sup> Si l’OSAV assume des tâches d’un canton qui ne travaille pas avec le système informatique animex-ch, l’émolument est deux fois supérieur au montant fixé à l’al. 1.
 
-### Section 10**** Homologation des produits phytosanitaires
+### Section 10 Homologation des produits phytosanitaires
 
 [^chap2-sec10-1]
 
@@ -451,6 +440,6 @@ L’ordonnance du 13 juin 1977[^26-1] reste applicable aux prestations fournies 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1986.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 [^t-2]: Introduite par le ch. II de l’O du 8 mars 2002 ([RO 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)). Abrogée par le ch. I de l’O du 18 avr. 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).

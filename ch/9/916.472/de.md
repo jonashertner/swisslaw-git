@@ -3,20 +3,20 @@ sr: "916.472"
 title: Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV)
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: de
-version: 2022-02-01
+version: 2023-01-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220201/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen
 
-(Gebührenverordnung BLV)**[^t-1]**
+(Gebührenverordnung BLV)[^t-1]
 
-vom 30. Oktober 1985 (Stand am 1. Februar 2022)
+vom 30. Oktober 1985 (Stand am 1. Januar 2023)
 
 [^t-1]: Kurztitel eingefügt gemäss Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2011 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -136,7 +136,7 @@ Das BLV[^4-2] kann für Verfügungen und Dienstleistungen von aussergewöhnliche
 
 ## 2. Kapitel: Gebührenansätze
 
-### 1. Abschnitt: Kontrolle bei der Ein- und Durchfuhr****
+### 1. Abschnitt: Kontrolle bei der Ein- und Durchfuhr
 
 [^chap2-sec1-1]
 
@@ -242,7 +242,7 @@ Für die Verfügung der Rückweisung, Verarbeitung oder Einziehung von Ein- oder
 [^18-5]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
 [^18-6]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-### 2. Abschnitt:**** Ausfuhrbewilligungen und -bescheinigungen
+### 2. Abschnitt: Ausfuhrbewilligungen und -bescheinigungen
 
 [^chap2-sec2-1]
 
@@ -305,26 +305,15 @@ Zusätzlich zu den Gebühren werden die folgenden Auslagen in Rechnung gestellt:
 
 [^21a-1]: Eingefügt durch Art. 89 Ziff. 6 der EDAV vom 20. April 1988 ([AS 1988 800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)). Aufgehoben durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-### 5. Abschnitt:**** Prüfung immunologischer Erzeugnisse
-
-[^chap2-sec5-1]
-
-[^chap2-sec5-1]: Fassung gemäss Ziff. I der V vom 8. März 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)).
+### 5. Abschnitt: …
 
 #### Art. 22
 
-<sup>1</sup> Die Gebühren für die Prüfungen und Kontrollen immunologischer Erzeugnisse nach der Heilmittel- und der Tierseuchengesetzgebung betragen für:
+[^22-1]
 
-<table>
-<tr><th></th><th>Fr.</th></tr>
-<tr><td>a. Gesuche für die Neuzulassung eines Produktes</td><td>1500.– bis 10 000.–</td></tr>
-<tr><td>b. Gesuche für die periodische Erneuerung der Zulassung oder die Änderung einer bestehenden Zulassung</td><td>200.– bis 3 000.–</td></tr>
-<tr><td>c. die Kontrolle eines Herstellungssatzes</td><td>400.– bis 3 000.–</td></tr>
-</table>
+[^22-1]: Aufgehoben durch Anhang Ziff. 4 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
-<sup>2</sup> Die Auslagen für die Anschaffung und Haltung von Versuchstieren werden gesondert in Rechnung gestellt.
-
-### 6. Abschnitt:**** Diagnostische Laboratorien
+### 6. Abschnitt: Diagnostische Laboratorien
 
 [^chap2-sec6-1]
 
@@ -342,7 +331,7 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 
 [^24-1]: Aufgehoben durch Ziff. I der V vom 8. März 2002, mit Wirkung seit 1. Juni 2002 ([AS 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)).
 
-### 8. Abschnitt:**** Weiterbildung und Prüfung für Funktionen im öffentlichen Veterinärwesen****
+### 8. Abschnitt: Weiterbildung und Prüfung für Funktionen im öffentlichen Veterinärwesen
 
 [^chap2-sec8-1][^chap2-sec8-2]
 
@@ -382,7 +371,7 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 [^24a-4]: Fassung gemäss Anhang 2 Ziff. II 8 der V vom 16. Nov. 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen, in Kraft seit 1. Jan. 2012 ([AS 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 [^24a-5]: Fassung gemäss Anhang 2 Ziff. II 8 der V vom 16. Nov. 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen, in Kraft seit 1. Jan. 2012 ([AS 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
-### 9. Abschnitt:**** Benutzung des Informationssystems Animex-ch****
+### 9. Abschnitt: Benutzung des Informationssystems Animex-ch
 
 [^chap2-sec9-1][^chap2-sec9-2]
 
@@ -405,7 +394,7 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 
 <sup>2</sup> Übernimmt das BLV die Aufgaben eines Kantons, der selbst nicht mit dem Informationssystem Animex-ch arbeitet, so beträgt die Gebühr das Zweifache des Betrages nach Absatz 1.
 
-### 10. Abschnitt:**** Zulassung von Pflanzenschutzmitteln
+### 10. Abschnitt: Zulassung von Pflanzenschutzmitteln
 
 [^chap2-sec10-1]
 
@@ -459,6 +448,6 @@ Für Dienstleistungen, die vor dem Inkrafttreten dieser Verordnung erbracht word
 
 Diese Verordnung tritt am 1. Januar 1986 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 [^t-2]: Eingefügt durch Ziff. II der V vom 8. März 2002 ([AS 2002 1422](https://fedlex.data.admin.ch/eli/oc/2002/222)). Aufgehoben durch Ziff. I der V vom 18. April 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).
