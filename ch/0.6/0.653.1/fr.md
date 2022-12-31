@@ -3,11 +3,11 @@ sr: "0.653.1"
 title: "Accord multilatéral du 29 octobre 2014 entre autorités compétentes concernant l'échange automatique de renseignements relatifs aux comptes financiers (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/759"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2014-10-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-759-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-759-20230101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 18 décembre 2015[^t-1]
 
 Entré en vigueur le 1<sup>er</sup> janvier 2017
 
-(Etat le 1<sup>er</sup> janvier 2022)
+(État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: [RO 2016 4717](https://fedlex.data.admin.ch/eli/oc/2016/758)
 
@@ -69,7 +69,7 @@ sont convenues des dispositions suivantes:
 
 \2. Tout terme en majuscule qui n’est pas défini dans le présent Accord aura le sens que lui attribue au moment considéré la législation de la Juridiction qui applique l’Accord, cette définition étant conforme à celle figurant dans la Norme commune de déclaration. Tout terme qui n’est pas définie dans le présent Accord ou dans la Norme commune de déclaration aura, sauf si le contexte exige une interprétation différente ou si les Autorités compétentes s’entendent sur une signification commune (comme le prévoit le droit national), le sens que lui attribue au moment considéré la législation de la Juridiction qui applique le présent Accord, toute définition figurant dans la législation fiscale applicable de cette Juridiction l’emportant sur une définition contenue dans une autre législation de la même Juridiction.
 
-## Section 2**** Échange de renseignements concernant des Comptes déclarables
+## Section 2 Échange de renseignements concernant des Comptes déclarables
 
 [^sec2-1]
 
@@ -605,7 +605,7 @@ A. Une juridiction doit avoir mis en place les règles et procédures administra
 - 4\. des procédures administratives destinées à faire en sorte que les Entités et les comptes définis dans la législation nationale en tant qu’Institutions financières non déclarantes et Comptes exclus continuent de présenter un faible risque d’être utilisés dans un but de fraude fiscale, et
 - 5\. des mesures coercitives appropriées pour remédier aux cas de non-respect.
 
-## Notification de la Suisse du 4 mai 2017 conforme à la Section 7 (1) (d)****
+## Notification de la Suisse du 4 mai 2017 conforme à la Section 7 (1) (d)
 
 [^annexu1-lvlu2-1]
 
@@ -656,7 +656,7 @@ Aux fins de cette déclaration:
 [^annexu1-lvlu2-2]: [RS 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
 [^annexu1-lvlu2-3]: La Suisse est au bénéfice d’une décision d’adéquation de la Commission européenne adoptée sur la base de l’art. 25, par. 6 de la directive 95/46/CE du Parlement européen et du Conseil, du 24 octobre 1995, relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
 
-Champ d’application le 1<sup>er</sup> janvier 2021**[^t-2]**
+Champ d’application le 1<sup>er</sup> janvier 2023[^t-2]
 
 La Suisse est liée par les dispositions de l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers à l’égard des États et territoires suivants en vertu de la section 7, par. 2.1, de cet accord:
 
@@ -688,58 +688,62 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Curaçao[^t-26]</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Dominique[^t-27]</td><td>1<sup>er</sup> janvier 2020</td></tr>
 <tr><td>Émirats arabes unis[^t-28]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Ghana[^t-29]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Grenade[^t-30]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Groenland[^t-31]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Guernesey[^t-32]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Îles Caïman[^t-33]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
-<tr><td>Îles Cook[^t-34]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Îles Féroé[^t-35]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Île de Man[^t-36]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Îles Marshall[^t-37]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Îles Turques-et-Caïques[^t-38]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
-<tr><td>Îles Vierges britanniques[^t-39]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
-<tr><td>Inde[^t-40]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Indonésie[^t-41]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Islande[^t-42]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Israël[^t-43]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Japon[^t-44]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Jersey[^t-45]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Kazakhstan[^t-46]</td><td>1<sup>er</sup> janvier 2022</td></tr>
-<tr><td>Koweït[^t-47]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Liban[^t-48]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Liechtenstein[^t-49]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Macao[^t-50]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Malaisie[^t-51]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Maldives[^t-52]</td><td>1<sup>er</sup> janvier 2022</td></tr>
-<tr><td>Maurice[^t-53]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Mexique[^t-54]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Monaco[^t-55]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Montserrat[^t-56]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Nauru[^t-57]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Nigéria[^t-58]</td><td>1<sup>er</sup> janvier 2021</td></tr>
-<tr><td>Norvège[^t-59]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Nouvelle-Zélande[^t-60]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Oman[^t-61]</td><td>1<sup>er</sup> janvier 2022</td></tr>
-<tr><td>Pakistan[^t-62]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Panama[^t-63]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Pays-Bas: communes d’outre-mer Bonaire, Saint Eustache, Saba[^t-64]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Pérou[^t-65]</td><td>1<sup>er</sup> janvier 2021</td></tr>
-<tr><td>Qatar[^t-66]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Russie[^t-67]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Saint-Kitts-et-Nevis[^t-68]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Sainte-Lucie[^t-69]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Saint-Vincent-et-les-Grenadines[^t-70]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Saint-Marin[^t-71]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Samoa[^t-72]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Seychelles[^t-73]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Turquie[^t-74]</td><td>1<sup>er</sup> janvier 2021</td></tr>
-<tr><td>Uruguay[^t-75]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Vanuatu[^t-76]</td><td>1<sup>er</sup> janvier 2020\*</td></tr>
+<tr><td>Équateur[^t-29]</td><td>1<sup>er</sup> janvier 2023</td></tr>
+<tr><td>Ghana[^t-30]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Grenade[^t-31]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Groenland[^t-32]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Guernesey[^t-33]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Îles Caïman[^t-34]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
+<tr><td>Îles Cook[^t-35]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Îles Féroé[^t-36]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Île de Man[^t-37]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Îles Marshall[^t-38]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Îles Turques-et-Caïques[^t-39]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
+<tr><td>Îles Vierges britanniques[^t-40]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
+<tr><td>Inde[^t-41]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Indonésie[^t-42]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Islande[^t-43]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Israël[^t-44]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Jamaïque[^t-45]</td><td>1<sup>er</sup> janvier 2023</td></tr>
+<tr><td>Japon[^t-46]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Jersey[^t-47]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Kazakhstan[^t-48]</td><td>1<sup>er</sup> janvier 2022</td></tr>
+<tr><td>Koweït[^t-49]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Liban[^t-50]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Liechtenstein[^t-51]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Macao[^t-52]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Malaisie[^t-53]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Maldives[^t-54]</td><td>1<sup>er</sup> janvier 2022</td></tr>
+<tr><td>Maurice[^t-55]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Mexique[^t-56]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Monaco[^t-57]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Montserrat[^t-58]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Nauru[^t-59]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Nigéria[^t-60]</td><td>1<sup>er</sup> janvier 2021</td></tr>
+<tr><td>Norvège[^t-61]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Nouvelle-Zélande[^t-62]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Nouvelle-Calédonie[^t-63]</td><td>1<sup>er</sup> janvier 2023\*</td></tr>
+<tr><td>Oman[^t-64]</td><td>1<sup>er</sup> janvier 2022</td></tr>
+<tr><td>Pakistan[^t-65]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Panama[^t-66]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Pays-Bas: communes d’outre-mer Bonaire, Saint Eustache, Saba[^t-67]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Pérou[^t-68]</td><td>1<sup>er</sup> janvier 2021</td></tr>
+<tr><td>Qatar[^t-69]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Russie[^t-70]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Saint-Kitts-et-Nevis[^t-71]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Sainte-Lucie[^t-72]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Saint-Vincent-et-les-Grenadines[^t-73]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Saint-Marin[^t-74]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Samoa[^t-75]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Seychelles[^t-76]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Sint Maarten[^t-77]</td><td colspan="2">1<sup>er</sup> janvier 2023</td></tr>
+<tr><td>Turquie[^t-78]</td><td>1<sup>er</sup> janvier 2021</td></tr>
+<tr><td>Uruguay[^t-79]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Vanuatu[^t-80]</td><td>1<sup>er</sup> janvier 2020\*</td></tr>
 <tr><td colspan="2">\* Ces États et territoires appliquent l’échange automatique de renseignements de manière non-réciproque permanente sur la base d’une notification selon la section 7(1)(b) de l’Accord multilatéral. Cela veut dire qu’ils ne reçoivent pas de données relatives aux comptes financiers de la part de la Suisse, mais lui transfèrent de tels renseignements.</td></tr>
 </table>
 
-[^t-2]: [RO 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+[^t-2]: [RO 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36);[2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 [^t-3]: AF du 5 déc. 2017 ([RO 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878)).
 [^t-4]: AF du 10 déc. 2019 ([RO 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764)).
 [^t-5]: AF du 5 déc. 2017 ([RO 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841)).
@@ -766,51 +770,55 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 [^t-26]: AF du 5 déc. 2017 ([RO 2017 7703](https://fedlex.data.admin.ch/eli/oc/2017/855)).
 [^t-27]: AF du 10 déc. 2019 ([RO 2020 233](https://fedlex.data.admin.ch/eli/oc/2020/33)).
 [^t-28]: AF du 5 déc. 2017 ([RO 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881)).
-[^t-29]: AF du 10 déc. 2019 ([RO 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34)).
-[^t-30]: AF du 5 déc. 2017 ([RO 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857)).
-[^t-31]: AF du 5 déc. 2017 ([RO 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858)).
-[^t-32]: AF du 12 déc. 2016 ([RO 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843)).
-[^t-33]: AF du 5 déc. 2017 ([RO 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850)).
-[^t-34]: AF du 5 déc. 2017 ([RO 2017 7699](https://fedlex.data.admin.ch/eli/oc/2017/853)).
-[^t-35]: AF du 5 déc. 2017 ([RO 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856)).
-[^t-36]: AF du 12 déc. 2016 ([RO 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844)).
-[^t-37]: AF du 5 déc. 2017 ([RO 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865)).
-[^t-38]: AF du 5 déc. 2017 ([RO 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879)).
-[^t-39]: AF du 5 déc. 2017 ([RO 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849)).
-[^t-40]: AF du 5 déc. 2017 ([RO 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859)).
-[^t-41]: AF du 5 déc. 2017 ([RO 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860)).
-[^t-42]: AF du 12 déc. 2016 ([RO 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845)).
-[^t-43]: AF du 5 déc. 2017 ([RO 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9)).
-[^t-44]: AF du 12 déc. 2016 ([RO 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846)).
-[^t-45]: AF du 12 déc. 2016 ([RO 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847)).
-[^t-46]: AF du 10 déc. 2019 ([RO 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33)).
-[^t-47]: AF du 13 déc. 2018 ([RO 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14)).
-[^t-48]: AF du 10 déc. 2019 ([RO 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35)).
-[^t-49]: AF du 5 déc. 2017 ([RO 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863)).
-[^t-50]: AF du 10 déc. 2019 ([RO 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36)).
-[^t-51]: AF du 5 déc. 2017 ([RO 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864)).
-[^t-52]: AF du 10 déc. 2019 ([RO 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34)).
-[^t-53]: AF du 5 déc. 2017 ([RO 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866)).
-[^t-54]: AF du 5 déc. 2017 ([RO 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867)).
-[^t-55]: AF du 5 déc. 2017 ([RO 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868)).
-[^t-56]: AF du 5 déc. 2017 ([RO 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869)).
-[^t-57]: AF du 13 déc. 2018 ([RO 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15)).
-[^t-58]: AF du 10 déc. 2019 ([RO 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766)).
-[^t-59]: AF du 12 déc. 2016 ([RO 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848)).
-[^t-60]: AF du 12 déc. 2017 ([RO 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870)).
-[^t-61]: AF du 10 déc. 2019 ([RO 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35)).
-[^t-62]: AF du 10 déc. 2019 ([RO 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37)).
-[^t-63]: AF du 13 déc. 2018 ([RO 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17)).
-[^t-64]: AF du 13 déc. 2018 ([RO 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16)).
-[^t-65]: AF du 10 déc. 2019 ([RO 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767)).
-[^t-66]: AF du 13 déc. 2018 ([RO 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13)).
-[^t-67]: AF du 5 déc. 2017 ([RO 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871)).
-[^t-68]: AF du 5 déc. 2017 ([RO 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872)).
-[^t-69]: AF du 5 déc. 2017 ([RO 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873)).
-[^t-70]: AF du 5 déc. 2017 ([RO 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874)).
-[^t-71]: AF du 5 déc. 2017 ([RO 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875)).
-[^t-72]: AF du 10 déc. 2019 ([RO 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38)).
-[^t-73]: AF du 5 déc. 2017 ([RO 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877)).
-[^t-74]: AF du 3 mars 2020 ([RO 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768)).
-[^t-75]: AF du 5 déc. 2017 ([RO 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880)).
-[^t-76]: AF du 10 déc. 2019 ([RO 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39)).
+[^t-29]: AF du 8 déc. 2022 ([RO 2023 103](https://fedlex.data.admin.ch/eli/oc/2023/103)).
+[^t-30]: AF du 10 déc. 2019 ([RO 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34)).
+[^t-31]: AF du 5 déc. 2017 ([RO 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857)).
+[^t-32]: AF du 5 déc. 2017 ([RO 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858)).
+[^t-33]: AF du 12 déc. 2016 ([RO 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843)).
+[^t-34]: AF du 5 déc. 2017 ([RO 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850)).
+[^t-35]: AF du 5 déc. 2017 ([RO 2017 7699](https://fedlex.data.admin.ch/eli/oc/2017/853)).
+[^t-36]: AF du 5 déc. 2017 ([RO 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856)).
+[^t-37]: AF du 12 déc. 2016 ([RO 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844)).
+[^t-38]: AF du 5 déc. 2017 ([RO 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865)).
+[^t-39]: AF du 5 déc. 2017 ([RO 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879)).
+[^t-40]: AF du 5 déc. 2017 ([RO 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849)).
+[^t-41]: AF du 5 déc. 2017 ([RO 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859)).
+[^t-42]: AF du 5 déc. 2017 ([RO 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860)).
+[^t-43]: AF du 12 déc. 2016 ([RO 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845)).
+[^t-44]: AF du 5 déc. 2017 ([RO 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9)).
+[^t-45]: AF du 8 déc. 2022 ([RO 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104)).
+[^t-46]: AF du 12 déc. 2016 ([RO 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846)).
+[^t-47]: AF du 12 déc. 2016 ([RO 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847)).
+[^t-48]: AF du 10 déc. 2019 ([RO 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33)).
+[^t-49]: AF du 13 déc. 2018 ([RO 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14)).
+[^t-50]: AF du 10 déc. 2019 ([RO 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35)).
+[^t-51]: AF du 5 déc. 2017 ([RO 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863)).
+[^t-52]: AF du 10 déc. 2019 ([RO 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36)).
+[^t-53]: AF du 5 déc. 2017 ([RO 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864)).
+[^t-54]: AF du 10 déc. 2019 ([RO 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34)).
+[^t-55]: AF du 5 déc. 2017 ([RO 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866)).
+[^t-56]: AF du 5 déc. 2017 ([RO 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867)).
+[^t-57]: AF du 5 déc. 2017 ([RO 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868)).
+[^t-58]: AF du 5 déc. 2017 ([RO 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869)).
+[^t-59]: AF du 13 déc. 2018 ([RO 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15)).
+[^t-60]: AF du 10 déc. 2019 ([RO 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766)).
+[^t-61]: AF du 12 déc. 2016 ([RO 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848)).
+[^t-62]: AF du 12 déc. 2017 ([RO 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870)).
+[^t-63]: AF du 8 déc. 2022 ([RO 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105)).
+[^t-64]: AF du 10 déc. 2019 ([RO 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35)).
+[^t-65]: AF du 10 déc. 2019 ([RO 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37)).
+[^t-66]: AF du 13 déc. 2018 ([RO 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17)).
+[^t-67]: AF du 13 déc. 2018 ([RO 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16)).
+[^t-68]: AF du 10 déc. 2019 ([RO 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767)).
+[^t-69]: AF du 13 déc. 2018 ([RO 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13)).
+[^t-70]: AF du 5 déc. 2017 ([RO 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871)).
+[^t-71]: AF du 5 déc. 2017 ([RO 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872)).
+[^t-72]: AF du 5 déc. 2017 ([RO 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873)).
+[^t-73]: AF du 5 déc. 2017 ([RO 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874)).
+[^t-74]: AF du 5 déc. 2017 ([RO 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875)).
+[^t-75]: AF du 10 déc. 2019 ([RO 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38)).
+[^t-76]: AF du 5 déc. 2017 ([RO 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877)).
+[^t-77]: AF du 10 déc. 2019 ([RO 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106)).
+[^t-78]: AF du 3 mars 2020 ([RO 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768)).
+[^t-79]: AF du 5 déc. 2017 ([RO 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880)).
+[^t-80]: AF du 10 déc. 2019 ([RO 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39)).

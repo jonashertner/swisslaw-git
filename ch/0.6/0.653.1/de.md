@@ -3,11 +3,11 @@ sr: "0.653.1"
 title: Multilaterale Vereinbarung vom 29. Oktober 2014 der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten (mit Beilage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/759"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2014-10-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-759-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-759-20230101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 18. Dezember 2015[^t-1]
 
 In Kraft getreten am 1. Januar 2017
 
-(Stand am 1. Januar 2022)
+(Stand am 1. Januar 2023)
 
 [^t-1]: [AS 2016 4717](https://fedlex.data.admin.ch/eli/oc/2016/758)
 
@@ -67,7 +67,7 @@ sind die zuständigen Behörden wie folgt übereingekommen:
 
 \2. Jeder [im englischen und im französischen Wortlaut] grossgeschriebene und in dieser Vereinbarung nicht definierte Ausdruck wird die Bedeutung haben, die ihm zum jeweiligen Zeitpunkt nach dem Recht des die Vereinbarung anwendenden Staates zukommt, wobei diese Bedeutung mit der im gemeinsamen Meldestandard festgelegten Bedeutung übereinstimmt. Jeder in dieser Vereinbarung oder im gemeinsamen Meldestandard nicht definierte Ausdruck wird, sofern der Zusammenhang nichts anderes erfordert und die zuständigen Behörden sich nicht (im Rahmen ihres innerstaatlichen Rechts) auf eine gemeinsame Bedeutung einigen, die Bedeutung haben, die ihm zum jeweiligen Zeitpunkt nach dem Recht des diese Vereinbarung anwendenden Staates zukommt, wobei die Bedeutung nach dem in diesem Staat geltenden Steuerrecht Vorrang hat vor einer Bedeutung, die dem Ausdruck nach dem sonstigen Recht dieses Staates zukommt.
 
-## Abschnitt 2:**** Austausch von Informationen in Bezug auf meldepflichtige Konten
+## Abschnitt 2: Austausch von Informationen in Bezug auf meldepflichtige Konten
 
 [^sec2-1]
 
@@ -269,12 +269,12 @@ C. Erweiterte Überprüfungsverfahren für Konten von hohem Wert. Die folgenden 
   - b) Werden bei der in Unterabschnitt C beschriebenen erweiterten Überprüfung von Konten von hohem Wert Indizien nach Unterabschnitt B Nummer 2 Buchstaben a–e festgestellt oder tritt anschliessend eine Änderung der Gegebenheiten ein, die dazu führt, dass dem Konto ein oder mehrere Indizien zugeordnet werden, so muss das meldende Finanzinstitut das Konto für jeden meldepflichtigen Staat, für den ein Indiz festgestellt wird, als meldepflichtiges Konto betrachten, es sei denn, es entscheidet sich für die Anwendung von Unterabschnitt B Nummer 6 und eine der in jenem Unterabschnitt genannten Ausnahmen trifft auf dieses Konto zu.
   - c) Werden bei der in Unterabschnitt C beschriebenen erweiterten Überprüfung von Konten von hohem Wert ein Postlagerungsauftrag oder eine c/o-Anschrift festgestellt und werden keine andere Anschrift und keine der in Unterabschnitt B Nummer 2 Buchstaben a–e aufgeführten Indizien für den Kontoinhaber festgestellt, muss das meldende Finanzinstitut vom Kontoinhaber eine Selbstauskunft oder Belege beschaffen, um die steuerliche(n) Ansässigkeit(en) des Kontoinhabers festzustellen. Kann das meldende Finanzinstitut keine Selbstauskunft oder Belege beschaffen, muss es das Konto als nicht dokumentiertes Konto melden.
 
-- 6\. Bei einem bestehenden Konto einer natürlichen Person, das zum 31. Dezember [...] kein Konto von hohem Wert ist, zum letzten Tag eines darauffolgenden Kalenderjahrs jedoch ein Konto von hohem Wert ist, muss das meldende Finanzinstitut die in diesem Unterabschnitt beschriebenen erweiterten Überprüfungsverfahren für dieses Konto innerhalb des auf das Kalenderjahr, in dem das Konto ein Konto von hohem Wert wird, folgenden Kalenderjahrs abschliessen. Wird das Konto aufgrund dieser Überprüfung als meldepflichtiges Konto identifiziert, so muss das meldende Finanzinstitut die erforderlichen kontobezogenen Informationen für das Jahr, in dem das Konto als meldepflichtiges Konto identifiziert wird, und für die Folgejahre jährlich melden, es sei denn, der Kontoinhaber ist keine meldepflichtige Person mehr.
+- 6\. Bei einem bestehenden Konto einer natürlichen Person, das zum 31. Dezember […] kein Konto von hohem Wert ist, zum letzten Tag eines darauffolgenden Kalenderjahrs jedoch ein Konto von hohem Wert ist, muss das meldende Finanzinstitut die in diesem Unterabschnitt beschriebenen erweiterten Überprüfungsverfahren für dieses Konto innerhalb des auf das Kalenderjahr, in dem das Konto ein Konto von hohem Wert wird, folgenden Kalenderjahrs abschliessen. Wird das Konto aufgrund dieser Überprüfung als meldepflichtiges Konto identifiziert, so muss das meldende Finanzinstitut die erforderlichen kontobezogenen Informationen für das Jahr, in dem das Konto als meldepflichtiges Konto identifiziert wird, und für die Folgejahre jährlich melden, es sei denn, der Kontoinhaber ist keine meldepflichtige Person mehr.
 - 7\. Führt ein meldendes Finanzinstitut die in Unterabschnitt C genannten erweiterten Überprüfungsverfahren für ein Konto von hohem Wert durch, so ist es in den Folgejahren nicht verpflichtet, für dasselbe Konto von hohem Wert diese Verfahren erneut durchzuführen, abgesehen von der Nachfrage beim Kundenbetreuer nach Nummer 4, es sei denn, es handelt sich um ein nicht dokumentiertes Konto, bei dem das meldende Finanzinstitut diese Verfahren jährlich erneut durchführen sollte, bis das Konto nicht mehr undokumentiert ist.
 - 8\. Tritt bei einem Konto von hohem Wert eine Änderung der Gegebenheiten ein, die dazu führt, dass dem Konto ein oder mehrere in Unterabschnitt B Nummer 2 beschriebene Indizien zugeordnet wird, so muss das meldende Finanzinstitut das Konto für jeden meldepflichtigen Staat, für den ein Indiz festgestellt wird, als meldepflichtiges Konto betrachten, es sei denn, es entscheidet sich für die Anwendung von Unterabschnitt B Nummer 6 und eine der in jenem Unterabschnitt genannten Ausnahmen trifft auf dieses Konto zu.
 - 9\. Ein meldendes Finanzinstitut muss Verfahren einrichten, mit denen sichergestellt wird, dass die Kundenbetreuer Änderungen der Gegebenheiten bei einem Konto erkennen. Wird ein Kundenbetreuer beispielsweise benachrichtigt, dass der Kontoinhaber eine neue Postanschrift in einem meldepflichtigen Staat hat, so muss das meldende Finanzinstitut die neue Anschrift als eine Änderung der Gegebenheiten betrachten und ist, sofern es sich für die Anwendung von Unterabschnitt B Nummer 6 entscheidet, dazu verpflichtet, die entsprechenden Unterlagen vom Kontoinhaber zu beschaffen.
 
-D. Die Überprüfung von bestehenden Konten natürlicher Personen muss bis zum [...] abgeschlossen sein.
+D. Die Überprüfung von bestehenden Konten natürlicher Personen muss bis zum […] abgeschlossen sein.
 
 E. Ein bestehendes Konto einer natürlichen Person, das nach diesem Abschnitt als meldepflichtiges Konto identifiziert wurde, gilt in allen Folgejahren als meldepflichtiges Konto, es sei denn, der Kontoinhaber ist keine meldepflichtige Person mehr.
 
@@ -292,9 +292,9 @@ C. Tritt bei einem Neukonto einer natürlichen Person eine Änderung der Gegeben
 
 Die folgenden Verfahren gelten für die Identifizierung meldepflichtiger Konten unter den bestehenden Konten von Rechtsträgern.
 
-A. Nicht überprüfungs-, identifizierungs- oder meldepflichtige Konten von Rechtsträgern. Sofern sich das meldende Finanzinstitut nicht entweder für alle bestehenden Konten von Rechtsträgern oder jeweils für eine eindeutig identifizierte Gruppe dieser Konten anderweitig entscheidet, muss ein bestehendes Konto eines Rechtsträgers, das zum 31. Dezember [...] einen Gesamtkontosaldo oder –wert von höchstens 250 000 US-Dollar aufweist, nicht als meldepflichtiges Konto überprüft, identifiziert oder gemeldet werden, bis der Gesamtkontosaldo oder -wert zum letzten Tag eines darauffolgenden Kalenderjahrs diesen Betrag übersteigt.
+A. Nicht überprüfungs-, identifizierungs- oder meldepflichtige Konten von Rechtsträgern. Sofern sich das meldende Finanzinstitut nicht entweder für alle bestehenden Konten von Rechtsträgern oder jeweils für eine eindeutig identifizierte Gruppe dieser Konten anderweitig entscheidet, muss ein bestehendes Konto eines Rechtsträgers, das zum 31. Dezember […] einen Gesamtkontosaldo oder –wert von höchstens 250 000 US-Dollar aufweist, nicht als meldepflichtiges Konto überprüft, identifiziert oder gemeldet werden, bis der Gesamtkontosaldo oder -wert zum letzten Tag eines darauffolgenden Kalenderjahrs diesen Betrag übersteigt.
 
-B. Überprüfungspflichtige Konten von Rechtsträgern. Ein bestehendes Konto eines Rechtsträgers mit einem Gesamtkontosaldo oder -wert von mehr als 250 000 US-Dollar zum 31. Dezember [...] und ein bestehendes Konto eines Rechtsträgers, dessen Gesamtkontosaldo oder ‑wert zum 31. Dezember [...] diesen Betrag nicht übersteigt, zum letzten Tag eines darauffolgenden Kalenderjahrs jedoch diesen Betrag übersteigt, muss nach den in Unterabschnitt D festgelegten Verfahren überprüft werden.
+B. Überprüfungspflichtige Konten von Rechtsträgern. Ein bestehendes Konto eines Rechtsträgers mit einem Gesamtkontosaldo oder -wert von mehr als 250 000 US-Dollar zum 31. Dezember […] und ein bestehendes Konto eines Rechtsträgers, dessen Gesamtkontosaldo oder ‑wert zum 31. Dezember […] diesen Betrag nicht übersteigt, zum letzten Tag eines darauffolgenden Kalenderjahrs jedoch diesen Betrag übersteigt, muss nach den in Unterabschnitt D festgelegten Verfahren überprüft werden.
 
 C. Meldepflichtige Konten von Rechtsträgern. Von den in Unterabschnitt B beschriebenen bestehenden Konten von Rechtsträgern gelten nur diejenigen Konten als meldepflichtige Konten, die von einem oder mehreren Rechtsträgern gehalten werden, die meldepflichtige Personen sind, oder von passiven NFEs mit einer oder mehreren beherrschenden Personen, die meldepflichtige Personen sind.
 
@@ -316,8 +316,8 @@ D. Überprüfungsverfahren für die Identifizierung meldepflichtiger Konten von 
 
 E. Überprüfungszeitraum und zusätzliche Verfahren für bestehende Konten von Rechtsträgern.
 
-- 1\. Die Überprüfung bestehender Konten von Rechtsträgern mit einem Gesamtkontosaldo oder -wert von mehr als 250 000 US-Dollar zum 31. Dezember [...] muss bis 31. Dezember [...] abgeschlossen sein.
-- 2\. Die Überprüfung bestehender Konten von Rechtsträgern, deren Gesamtkontosaldo oder -wert zum 31. Dezember [...] 250 000 US-Dollar nicht übersteigt, zum 31. Dezember eines Folgejahres jedoch diesen Betrag übersteigt, muss innerhalb des Kalenderjahrs nach dem Jahr, in dem der Gesamtkontosaldo oder -wert diesen Betrag übersteigt, abgeschlossen sein.
+- 1\. Die Überprüfung bestehender Konten von Rechtsträgern mit einem Gesamtkontosaldo oder -wert von mehr als 250 000 US-Dollar zum 31. Dezember […] muss bis 31. Dezember […] abgeschlossen sein.
+- 2\. Die Überprüfung bestehender Konten von Rechtsträgern, deren Gesamtkontosaldo oder -wert zum 31. Dezember […] 250 000 US-Dollar nicht übersteigt, zum 31. Dezember eines Folgejahres jedoch diesen Betrag übersteigt, muss innerhalb des Kalenderjahrs nach dem Jahr, in dem der Gesamtkontosaldo oder -wert diesen Betrag übersteigt, abgeschlossen sein.
 - 3\. Tritt bei einem bestehenden Konto eines Rechtsträgers eine Änderung der Gegebenheiten ein, aufgrund deren dem meldenden Finanzinstitut bekannt ist oder bekannt sein müsste, dass die Selbstauskunft oder andere kontobezogene Unterlagen nicht zutreffend oder unglaubwürdig sind, so muss es den Status des Kontos nach den in Unterabschnitt D festgelegten Verfahren neu bestimmen.
 
 ### Abschnitt VI: Sorgfaltspflichten bei Neukonten von Rechtsträgern
@@ -438,17 +438,17 @@ B. Nicht meldendes Finanzinstitut
   Der Ausdruck «qualifizierter Kreditkartenanbieter» bedeutet ein Finanzinstitut, das folgende Voraussetzungen erfüllt:
 
   - a) Das Finanzinstitut gilt nur als Finanzinstitut, weil es ein Kreditkartenanbieter ist, der Einlagen nur akzeptiert, wenn ein Kunde eine Zahlung leistet, die einen in Bezug auf die Karte fälligen Saldo übersteigt, und die Überzahlung nicht unverzüglich an den Kunden zurücküberwiesen wird; und
-  - b) spätestens ab dem [...] setzt das Finanzinstitut Massnahmen und Verfahren um, die entweder verhindern, dass ein Kunde eine Überzahlung in Höhe von mehr als 50 000 US-Dollar leistet, oder sicherstellen, dass jede Überzahlung eines Kunden, die über diesem Betrag liegt, dem Kunden innerhalb von 60 Tagen zurückerstattet wird, wobei in beiden Fällen die Vorschriften für die Zusammenfassung von Konten und die Währungsumrechnung nach Abschnitt VII Unterabschnitt C gelten. Überzahlungen von Kunden in diesem Sinne umfassen nicht Guthaben im Zusammenhang mit strittigen Abbuchungen, schliessen jedoch Guthaben infolge der Rückgabe von Waren ein.
+  - b) spätestens ab dem […] setzt das Finanzinstitut Massnahmen und Verfahren um, die entweder verhindern, dass ein Kunde eine Überzahlung in Höhe von mehr als 50 000 US-Dollar leistet, oder sicherstellen, dass jede Überzahlung eines Kunden, die über diesem Betrag liegt, dem Kunden innerhalb von 60 Tagen zurückerstattet wird, wobei in beiden Fällen die Vorschriften für die Zusammenfassung von Konten und die Währungsumrechnung nach Abschnitt VII Unterabschnitt C gelten. Überzahlungen von Kunden in diesem Sinne umfassen nicht Guthaben im Zusammenhang mit strittigen Abbuchungen, schliessen jedoch Guthaben infolge der Rückgabe von Waren ein.
 
 - 9\. Der Ausdruck «ausgenommener Organismus für gemeinsame Anlagen» bedeutet ein Investmentunternehmen, das als Organismus für gemeinsame Anlagen der Aufsicht untersteht, sofern sämtliche Beteiligungen an dem Organismus für gemeinsame Anlagen von natürlichen Personen oder Rechtsträgern, die keine meldepflichtigen Personen sind, oder über diese gehalten werden, mit Ausnahme eines passiven NFE mit beherrschenden Personen, die meldepflichtige Personen sind.
 -
 
   Ein Investmentunternehmen, das als Organismus für gemeinsame Anlagen der Aufsicht untersteht, gilt auch dann nach Unterabschnitt B Nummer 9 als ausgenommener Organismus für gemeinsame Anlagen, wenn der Organismus für gemeinsame Anlagen effektive Inhaberanteile ausgibt, sofern:
 
-  - a) der Organismus für gemeinsame Anlagen nach dem [...] keine effektiven Inhaberanteile ausgegeben hat oder ausgibt;
+  - a) der Organismus für gemeinsame Anlagen nach dem […] keine effektiven Inhaberanteile ausgegeben hat oder ausgibt;
   - b) der Organismus für gemeinsame Anlagen bei Rückkauf alle diese Anteile einzieht;
   - c) der Organismus für gemeinsame Anlagen die in den Abschnitten II–VII aufgeführten Verfahren zur Erfüllung der Sorgfaltspflichten durchführt und alle meldepflichtigen Informationen zu diesen Anteilen meldet, wenn diese zum Einlösen oder zu sonstiger Zahlung vorgelegt werden; und
-  - d) der Organismus für gemeinsame Anlagen über Massnahmen und Verfahren verfügt, um sicherzustellen, dass die betreffenden Anteile so bald wie möglich und auf jeden Fall vor dem [...] eingelöst werden oder nicht mehr verkehrsfähig sind.
+  - d) der Organismus für gemeinsame Anlagen über Massnahmen und Verfahren verfügt, um sicherzustellen, dass die betreffenden Anteile so bald wie möglich und auf jeden Fall vor dem […] eingelöst werden oder nicht mehr verkehrsfähig sind.
 
 C. Finanzkonto
 
@@ -477,13 +477,13 @@ C. Finanzkonto
   - d) in Form einer an den Versicherungsnehmer zahlbaren Dividende (nicht jedoch eines Schlussüberschussanteils), sofern die Dividende aus einem Versicherungsvertrag stammt, bei dem nur Leistungen nach Unterabschnitt C Nummer 8 Buchstabe b zu zahlen sind; oder
   - e) in Form einer Rückerstattung einer Prämienvorauszahlung oder eines Prämiendepots für einen Versicherungsvertrag mit mindestens jährlich fälliger Prämienzahlung, sofern die Höhe der Prämienvorauszahlung oder des Prämiendepots die nächste vertragsgemäss fällige Jahresprämie nicht übersteigt.
 
-- 9\. Der Ausdruck «bestehendes Konto» bedeutet ein Finanzkonto, das zum [...] von einem meldenden Finanzinstitut geführt wird.
-- 10\. Der Ausdruck «Neukonto» bedeutet ein von einem meldenden Finanzinstitut geführtes Finanzkonto, das am oder nach dem [...] eröffnet wird.
+- 9\. Der Ausdruck «bestehendes Konto» bedeutet ein Finanzkonto, das zum […] von einem meldenden Finanzinstitut geführt wird.
+- 10\. Der Ausdruck «Neukonto» bedeutet ein von einem meldenden Finanzinstitut geführtes Finanzkonto, das am oder nach dem […] eröffnet wird.
 - 11\. Der Ausdruck «bestehendes» Konto natürlicher Personen» bedeutet ein bestehendes Konto, dessen Inhaber eine oder mehrere natürliche Personen sind.
 - 12\. Der Ausdruck «Neukonto natürlicher Personen» bedeutet ein Neukonto, dessen Inhaber eine oder mehrere natürliche Personen sind.
 - 13\. Der Ausdruck «bestehendes Konto von Rechtsträgern» bedeutet ein bestehendes Konto, dessen Inhaber ein oder mehrere Rechtsträger sind.
-- 14\. Der Ausdruck «Konto von geringerem Wert» bedeutet ein bestehendes Konto natürlicher Personen mit einem Gesamtsaldo oder -wert von höchstens 1 000 000 US-Dollar zum 31. Dezember [...].
-- 15\. Der Ausdruck «Konto von hohem Wert» bedeutet ein bestehendes Konto natürlicher Personen mit einem Gesamtsaldo oder -wert von mehr als 1 000 000 US-Dollar zum 31. Dezember [...] oder 31. Dezember eines Folgejahres.
+- 14\. Der Ausdruck «Konto von geringerem Wert» bedeutet ein bestehendes Konto natürlicher Personen mit einem Gesamtsaldo oder -wert von höchstens 1 000 000 US-Dollar zum 31. Dezember […].
+- 15\. Der Ausdruck «Konto von hohem Wert» bedeutet ein bestehendes Konto natürlicher Personen mit einem Gesamtsaldo oder -wert von mehr als 1 000 000 US-Dollar zum 31. Dezember […] oder 31. Dezember eines Folgejahres.
 - 16\. Der Ausdruck «Neukonto von Rechtsträgern» bedeutet ein Neukonto, dessen Inhaber ein oder mehrere Rechtsträger sind.
 - 17\.
 
@@ -543,7 +543,7 @@ C. Finanzkonto
     Ein Einlagenkonto, das folgende Voraussetzungen erfüllt:
 
     - i. Das Konto besteht ausschliesslich, weil ein Kunde eine Zahlung leistet, die einen in Bezug auf eine Kreditkarte oder eine sonstige revolvierende Kreditfazilität fälligen Saldo übersteigt, und die Überzahlung nicht unverzüglich an den Kunden zurücküberwiesen wird.
-    - ii. Spätestens ab dem [...] setzt das Finanzinstitut Massnahmen und Verfahren um, die entweder verhindern, dass ein Kunde eine Überzahlung in Höhe von mehr als 50 000 US-Dollar leistet, oder sicherstellen, dass jede Überzahlung eines Kunden, die über diesem Betrag liegt, dem Kunden innerhalb von 60 Tagen zurückerstattet wird, wobei in beiden Fällen die Vorschriften für die Währungsumrechnung nach Abschnitt VII Unterabschnitt C gelten. Überzahlungen von Kunden in diesem Sinne umfassen nicht Guthaben im Zusammenhang mit strittigen Abbuchungen, schliessen jedoch Guthaben infolge der Rückgabe von Waren ein.
+    - ii. Spätestens ab dem […] setzt das Finanzinstitut Massnahmen und Verfahren um, die entweder verhindern, dass ein Kunde eine Überzahlung in Höhe von mehr als 50 000 US-Dollar leistet, oder sicherstellen, dass jede Überzahlung eines Kunden, die über diesem Betrag liegt, dem Kunden innerhalb von 60 Tagen zurückerstattet wird, wobei in beiden Fällen die Vorschriften für die Währungsumrechnung nach Abschnitt VII Unterabschnitt C gelten. Überzahlungen von Kunden in diesem Sinne umfassen nicht Guthaben im Zusammenhang mit strittigen Abbuchungen, schliessen jedoch Guthaben infolge der Rückgabe von Waren ein.
 
   - g) Ein sonstiges Konto, bei dem ein geringes Risiko besteht, dass es zur Steuerhinterziehung missbraucht wird, das im Wesentlichen ähnliche Eigenschaften wie die unter Unterabschnitt C Nummer 17 Buchstaben a–f beschriebenen Konten aufweist und das nach innerstaatlichem Recht als ausgenommenes Konto gilt, sofern sein Status als ausgenommenes Konto dem Zweck des gemeinsamen Meldestandards nicht entgegensteht.
 
@@ -604,7 +604,7 @@ A. Ein Staat muss über entsprechende Vorschriften und Verwaltungsverfahren verf
 - 4\. Verwaltungsverfahren zur Sicherstellung, dass bei den Rechtsträgern und Konten, die nach innerstaatlichem Recht als nicht meldende Finanzinstitute beziehungsweise ausgenommene Konten gelten, weiterhin ein geringes Risiko besteht, dass sie zur Steuerhinterziehung missbraucht werden; sowie
 - 5\. wirksamen Durchsetzungsbestimmungen bei Nichteinhaltung der Vorschriften.
 
-## Notifikation der Schweiz vom 4. Mai 2017 nach Abschnitt 7 Absatz 1 Buchstabe d****
+## Notifikation der Schweiz vom 4. Mai 2017 nach Abschnitt 7 Absatz 1 Buchstabe d
 
 [^annexu1-lvlu2-1]
 
@@ -655,7 +655,7 @@ Im Sinne dieser Erklärung:
 [^annexu1-lvlu2-2]: [SR 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
 [^annexu1-lvlu2-3]: Die Schweiz verfügt über eine Angemessenheitsentscheidung der Europäischen Kommission gemäss Artikel 25 Absatz 6 der Richtlinie 95/46/EG vom 24. Oktober 1995 des Europäischen Parlaments und des Rates zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr.
 
-Geltungsbereich am 1. Januar 2021**[^t-2]**
+Geltungsbereich am 1. Januar 2023[^t-2]
 
 Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung über den automatischen Informationsaustausch über Finanzkonten in Bezug auf die folgenden Staaten und Gebiete gebunden, gemäss Abschnitt 7 Absatz 2.1 dieser Vereinbarung:
 
@@ -683,62 +683,66 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung über den
 <tr><td>Costa Rica[^t-22]</td><td>1. Januar 2018</td></tr>
 <tr><td>Curaçao[^t-23]</td><td>1. Januar 2018</td></tr>
 <tr><td>Dominica[^t-24]</td><td>1. Januar 2020</td></tr>
-<tr><td>Färöer-Inseln[^t-25]</td><td>1. Januar 2018</td></tr>
-<tr><td>Ghana[^t-26]</td><td>1. Januar 2020</td></tr>
-<tr><td>Grenada[^t-27]</td><td>1. Januar 2019</td></tr>
-<tr><td>Grönland[^t-28]</td><td>1. Januar 2018</td></tr>
-<tr><td>Guernsey[^t-29]</td><td>1. Januar 2017</td></tr>
-<tr><td>Indien[^t-30]</td><td>1. Januar 2018</td></tr>
-<tr><td>Indonesien[^t-31]</td><td>1. Januar 2018</td></tr>
-<tr><td>Insel Man[^t-32]</td><td>1. Januar 2017</td></tr>
-<tr><td>Island[^t-33]</td><td>1. Januar 2017</td></tr>
-<tr><td>Israel[^t-34]</td><td>1. Januar 2019</td></tr>
-<tr><td>Japan[^t-35]</td><td>1. Januar 2017</td></tr>
-<tr><td>Jersey[^t-36]</td><td>1. Januar 2017</td></tr>
-<tr><td>Kaimaninseln[^t-37]</td><td>1. Januar 2018\*</td></tr>
-<tr><td>Kanada[^t-38]</td><td>1. Januar 2017</td></tr>
-<tr><td>Kasachstan[^t-39]</td><td>1. Januar 2022</td></tr>
-<tr><td>Katar[^t-40]</td><td>1. Januar 2019</td></tr>
-<tr><td>Kolumbien[^t-41]</td><td>1. Januar 2018</td></tr>
-<tr><td>Korea[^t-42]</td><td>1. Januar 2017</td></tr>
-<tr><td>Kuwait[^t-43]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Libanon[^t-44]</td><td>1. Januar 2020</td></tr>
-<tr><td>Liechtenstein[^t-45]</td><td>1. Januar 2018</td></tr>
-<tr><td>Macao[^t-46]</td><td>1. Januar 2020</td></tr>
-<tr><td>Malaysia[^t-47]</td><td>1. Januar 2018</td></tr>
-<tr><td>Malediven[^t-48]</td><td>1. Januar 2022</td></tr>
-<tr><td>Marshallinseln[^t-49]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Mauritius[^t-50]</td><td>1. Januar 2018</td></tr>
-<tr><td>Mexiko[^t-51]</td><td>1. Januar 2018</td></tr>
-<tr><td>Monaco[^t-52]</td><td>1. Januar 2018</td></tr>
-<tr><td>Montserrat[^t-53]</td><td>1. Januar 2018</td></tr>
-<tr><td>Nauru[^t-54]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Neuseeland[^t-55]</td><td>1. Januar 2018</td></tr>
-<tr><td>Niederländische Überseegemeinden Bonaire, Saint Eustatius und Saba[^t-56]</td><td>1. Januar 2019</td></tr>
-<tr><td>Nigeria[^t-57]</td><td>1. Januar 2021</td></tr>
-<tr><td>Norwegen[^t-58]</td><td>1. Januar 2017</td></tr>
-<tr><td>Oman[^t-59]</td><td>1. Januar 2022</td></tr>
-<tr><td>Pakistan[^t-60]</td><td>1. Januar 2020</td></tr>
-<tr><td>Panama[^t-61]</td><td>1. Januar 2019</td></tr>
-<tr><td>Peru[^t-62]</td><td>1. Januar 2021</td></tr>
-<tr><td>Russland[^t-63]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saint Kitts und Nevis[^t-64]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saint Lucia[^t-65]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saint Vincent und die Grenadinen[^t-66]</td><td>1. Januar 2018</td></tr>
-<tr><td>Samoa[^t-67]</td><td>1. Januar 2020</td></tr>
-<tr><td>San Marino[^t-68]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saudi-Arabien[^t-69]</td><td>1. Januar 2018</td></tr>
-<tr><td>Seychellen[^t-70]</td><td>1. Januar 2018</td></tr>
-<tr><td>Südafrika[^t-71]</td><td>1. Januar 2018</td></tr>
-<tr><td>Türkei[^t-72]</td><td>1. Januar 2021</td></tr>
-<tr><td>Turks- und Caicos-Inseln[^t-73]</td><td>1. Januar 2018\*</td></tr>
-<tr><td>Uruguay[^t-74]</td><td>1. Januar 2018</td></tr>
-<tr><td>Vanuatu[^t-75]</td><td>1. Januar 2020\*</td></tr>
-<tr><td>Vereinigte Arabische Emirate[^t-76]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Ecuador[^t-25]</td><td>1. Januar 2023</td></tr>
+<tr><td>Färöer-Inseln[^t-26]</td><td>1. Januar 2018</td></tr>
+<tr><td>Ghana[^t-27]</td><td>1. Januar 2020</td></tr>
+<tr><td>Grenada[^t-28]</td><td>1. Januar 2019</td></tr>
+<tr><td>Grönland[^t-29]</td><td>1. Januar 2018</td></tr>
+<tr><td>Guernsey[^t-30]</td><td>1. Januar 2017</td></tr>
+<tr><td>Indien[^t-31]</td><td>1. Januar 2018</td></tr>
+<tr><td>Indonesien[^t-32]</td><td>1. Januar 2018</td></tr>
+<tr><td>Insel Man[^t-33]</td><td>1. Januar 2017</td></tr>
+<tr><td>Island[^t-34]</td><td>1. Januar 2017</td></tr>
+<tr><td>Israel[^t-35]</td><td>1. Januar 2019</td></tr>
+<tr><td>Jamaica[^t-36]</td><td>1. Januar 2023</td></tr>
+<tr><td>Japan[^t-37]</td><td>1. Januar 2017</td></tr>
+<tr><td>Jersey[^t-38]</td><td>1. Januar 2017</td></tr>
+<tr><td>Kaimaninseln[^t-39]</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Kanada[^t-40]</td><td>1. Januar 2017</td></tr>
+<tr><td>Kasachstan[^t-41]</td><td>1. Januar 2022</td></tr>
+<tr><td>Katar[^t-42]</td><td>1. Januar 2019</td></tr>
+<tr><td>Kolumbien[^t-43]</td><td>1. Januar 2018</td></tr>
+<tr><td>Korea[^t-44]</td><td>1. Januar 2017</td></tr>
+<tr><td>Kuwait[^t-45]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Libanon[^t-46]</td><td>1. Januar 2020</td></tr>
+<tr><td>Liechtenstein[^t-47]</td><td>1. Januar 2018</td></tr>
+<tr><td>Macao[^t-48]</td><td>1. Januar 2020</td></tr>
+<tr><td>Malaysia[^t-49]</td><td>1. Januar 2018</td></tr>
+<tr><td>Malediven[^t-50]</td><td>1. Januar 2022</td></tr>
+<tr><td>Marshallinseln[^t-51]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Mauritius[^t-52]</td><td>1. Januar 2018</td></tr>
+<tr><td>Mexiko[^t-53]</td><td>1. Januar 2018</td></tr>
+<tr><td>Monaco[^t-54]</td><td>1. Januar 2018</td></tr>
+<tr><td>Montserrat[^t-55]</td><td>1. Januar 2018</td></tr>
+<tr><td>Nauru[^t-56]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Neukaledonien[^t-57]</td><td>1. Januar 2023\*</td></tr>
+<tr><td>Neuseeland[^t-58]</td><td>1. Januar 2018</td></tr>
+<tr><td>Niederländische Überseegemeinden Bonaire, Saint Eustatius und Saba[^t-59]</td><td>1. Januar 2019</td></tr>
+<tr><td>Nigeria[^t-60]</td><td>1. Januar 2021</td></tr>
+<tr><td>Norwegen[^t-61]</td><td>1. Januar 2017</td></tr>
+<tr><td>Oman[^t-62]</td><td>1. Januar 2022</td></tr>
+<tr><td>Pakistan[^t-63]</td><td>1. Januar 2020</td></tr>
+<tr><td>Panama[^t-64]</td><td>1. Januar 2019</td></tr>
+<tr><td>Peru[^t-65]</td><td>1. Januar 2021</td></tr>
+<tr><td>Russland[^t-66]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saint Kitts und Nevis[^t-67]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saint Lucia[^t-68]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saint Vincent und die Grenadinen[^t-69]</td><td>1. Januar 2018</td></tr>
+<tr><td>Samoa[^t-70]</td><td>1. Januar 2020</td></tr>
+<tr><td>San Marino[^t-71]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saudi-Arabien[^t-72]</td><td>1. Januar 2018</td></tr>
+<tr><td>Seychellen[^t-73]</td><td>1. Januar 2018</td></tr>
+<tr><td>Sint Maarten[^t-74]</td><td>1. Januar 2023</td></tr>
+<tr><td>Südafrika[^t-75]</td><td>1. Januar 2018</td></tr>
+<tr><td>Türkei[^t-76]</td><td>1. Januar 2021</td></tr>
+<tr><td>Turks- und Caicos-Inseln[^t-77]</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Uruguay[^t-78]</td><td>1. Januar 2018</td></tr>
+<tr><td>Vanuatu[^t-79]</td><td>1. Januar 2020\*</td></tr>
+<tr><td>Vereinigte Arabische Emirate[^t-80]</td><td>1. Januar 2019\*</td></tr>
 <tr><td colspan="2">\* Diese Staaten und Territorien wenden den automatischen Informationsaustausch gestützt auf eine Notifikation gemäss Abschnitt 7 (1)(b) der Multilateralen Vereinbarung ständig in nichtreziproker Weise an. Dies bedeutet, dass sie keine Daten über Finanzkonten von der Schweiz erhalten, der Schweiz aber solche Informationen übermitteln werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769), [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36); [2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
 [^t-3]: BB vom 10. Dez. 2019 ([AS 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764))
 [^t-4]: BB vom 5. Dez. 2017 ([AS 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841))
 [^t-5]: BB vom 13. Dez. 2018 ([AS 2019 89](https://fedlex.data.admin.ch/eli/oc/2019/10))
@@ -761,55 +765,59 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung über den
 [^t-22]: BB vom 5. Dez. 2017 ([AS 2017 7701](https://fedlex.data.admin.ch/eli/oc/2017/854))
 [^t-23]: BB vom 5. Dez. 2017 ([AS 2017 7703](https://fedlex.data.admin.ch/eli/oc/2017/855))
 [^t-24]: BB vom 10. Dez 2019 ([AS 2020 233](https://fedlex.data.admin.ch/eli/oc/2020/33))
-[^t-25]: BB vom 5. Dez. 2017 ([AS 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856))
-[^t-26]: BB vom 10. Dez 2019 ([AS 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34))
-[^t-27]: BB vom 5. Dez. 2017 ([AS 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857))
-[^t-28]: BB vom 5. Dez. 2017 ([AS 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858))
-[^t-29]: BB vom 12. Dez. 2016 ([AS 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843))
-[^t-30]: BB vom 5. Dez. 2017 ([AS 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859))
-[^t-31]: BB vom 5. Dez. 2017 ([AS 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860))
-[^t-32]: BB vom 12. Dez. 2016 ([AS 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844))
-[^t-33]: BB vom 12. Dez. 2016 ([AS 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845))
-[^t-34]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9))
-[^t-35]: BB vom 12. Dez. 2016 ([AS 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846))
-[^t-36]: BB vom 12. Dez. 2016 ([AS 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847))
-[^t-37]: BB vom 5. Dez. 2017 ([AS 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850))
-[^t-38]: BB vom 12. Dez. 2016 ([AS 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841))
-[^t-39]: BB vom 10. Dez. 2019 ([AS 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33))
-[^t-40]: BB vom 13. Dez. 2018 ([AS 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13))
-[^t-41]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861))
-[^t-42]: BB vom 12. Dez. 2016 ([AS 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842))
-[^t-43]: BB vom 13. Dez. 2018 ([AS 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14))
-[^t-44]: BB vom 10. Dez 2019 ([AS 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35))
-[^t-45]: BB vom 5. Dez. 2017 ([AS 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863))
-[^t-46]: BB vom 10. Dez 2019 ([AS 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36))
-[^t-47]: BB vom 5. Dez. 2017 ([AS 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864))
-[^t-48]: BB vom 10. Dez. 2019 ([AS 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34))
-[^t-49]: BB vom 5. Dez. 2017 ([AS 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865))
-[^t-50]: BB vom 5. Dez. 2017 ([AS 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866))
-[^t-51]: BB vom 5. Dez. 2017 ([AS 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867))
-[^t-52]: BB vom 5. Dez. 2017 ([AS 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868))
-[^t-53]: BB vom 5. Dez. 2017 ([AS 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869))
-[^t-54]: BB vom 13. Dez. 2018 ([AS 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15))
-[^t-55]: BB vom 12. Dez. 2017 ([AS 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870))
-[^t-56]: BB vom 13. Dez. 2018 ([AS 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16))
-[^t-57]: BB vom 10. Dez. 2019 ([AS 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766))
-[^t-58]: BB vom 12. Dez. 2016 ([AS 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848))
-[^t-59]: BB vom 10. Dez. 2019 ([AS 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35))
-[^t-60]: BB vom 10. Dez 2019 ([AS 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37))
-[^t-61]: BB vom 13. Dez. 2018 ([AS 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17))
-[^t-62]: BB vom 10. Dez. 2019 ([AS 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767))
-[^t-63]: BB vom 5. Dez. 2017 ([AS 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871))
-[^t-64]: BB vom 5. Dez. 2017 ([AS 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872))
-[^t-65]: BB vom 5. Dez. 2017 ([AS 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873))
-[^t-66]: BB vom 5. Dez. 2017 ([AS 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874))
-[^t-67]: BB vom 10. Dez 2019 ([AS 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38))
-[^t-68]: BB vom 5. Dez. 2017 ([AS 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875))
-[^t-69]: BB vom 6. Dez. 2017 ([AS 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876))
-[^t-70]: BB vom 5. Dez. 2017 ([AS 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877))
-[^t-71]: BB vom 5. Dez. 2017 ([AS 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878))
-[^t-72]: BB vom 3. März 2020 ([AS 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768))
-[^t-73]: BB vom 5. Dez. 2017 ([AS 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879))
-[^t-74]: BB vom 5. Dez. 2017 ([AS 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880))
-[^t-75]: BB vom 10. Dez 2019 ([AS 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39))
-[^t-76]: BB vom 5. Dez. 2017 ([AS 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881))
+[^t-25]: BB vom 8. Dez. 2022 ([AS 2023 103](https://fedlex.data.admin.ch/eli/oc/2023/103))
+[^t-26]: BB vom 5. Dez. 2017 ([AS 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856))
+[^t-27]: BB vom 10. Dez 2019 ([AS 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34))
+[^t-28]: BB vom 5. Dez. 2017 ([AS 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857))
+[^t-29]: BB vom 5. Dez. 2017 ([AS 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858))
+[^t-30]: BB vom 12. Dez. 2016 ([AS 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843))
+[^t-31]: BB vom 5. Dez. 2017 ([AS 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859))
+[^t-32]: BB vom 5. Dez. 2017 ([AS 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860))
+[^t-33]: BB vom 12. Dez. 2016 ([AS 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844))
+[^t-34]: BB vom 12. Dez. 2016 ([AS 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845))
+[^t-35]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9))
+[^t-36]: BB vom 8. Dez. 2022 ([AS 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104))
+[^t-37]: BB vom 12. Dez. 2016 ([AS 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846))
+[^t-38]: BB vom 12. Dez. 2016 ([AS 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847))
+[^t-39]: BB vom 5. Dez. 2017 ([AS 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850))
+[^t-40]: BB vom 12. Dez. 2016 ([AS 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841))
+[^t-41]: BB vom 10. Dez. 2019 ([AS 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33))
+[^t-42]: BB vom 13. Dez. 2018 ([AS 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13))
+[^t-43]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861))
+[^t-44]: BB vom 12. Dez. 2016 ([AS 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842))
+[^t-45]: BB vom 13. Dez. 2018 ([AS 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14))
+[^t-46]: BB vom 10. Dez 2019 ([AS 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35))
+[^t-47]: BB vom 5. Dez. 2017 ([AS 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863))
+[^t-48]: BB vom 10. Dez 2019 ([AS 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36))
+[^t-49]: BB vom 5. Dez. 2017 ([AS 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864))
+[^t-50]: BB vom 10. Dez. 2019 ([AS 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34))
+[^t-51]: BB vom 5. Dez. 2017 ([AS 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865))
+[^t-52]: BB vom 5. Dez. 2017 ([AS 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866))
+[^t-53]: BB vom 5. Dez. 2017 ([AS 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867))
+[^t-54]: BB vom 5. Dez. 2017 ([AS 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868))
+[^t-55]: BB vom 5. Dez. 2017 ([AS 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869))
+[^t-56]: BB vom 13. Dez. 2018 ([AS 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15))
+[^t-57]: BB vom 8. Dez. 2022 ([AS 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105))
+[^t-58]: BB vom 12. Dez. 2017 ([AS 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870))
+[^t-59]: BB vom 13. Dez. 2018 ([AS 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16))
+[^t-60]: BB vom 10. Dez. 2019 ([AS 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766))
+[^t-61]: BB vom 12. Dez. 2016 ([AS 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848))
+[^t-62]: BB vom 10. Dez. 2019 ([AS 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35))
+[^t-63]: BB vom 10. Dez 2019 ([AS 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37))
+[^t-64]: BB vom 13. Dez. 2018 ([AS 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17))
+[^t-65]: BB vom 10. Dez. 2019 ([AS 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767))
+[^t-66]: BB vom 5. Dez. 2017 ([AS 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871))
+[^t-67]: BB vom 5. Dez. 2017 ([AS 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872))
+[^t-68]: BB vom 5. Dez. 2017 ([AS 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873))
+[^t-69]: BB vom 5. Dez. 2017 ([AS 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874))
+[^t-70]: BB vom 10. Dez 2019 ([AS 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38))
+[^t-71]: BB vom 5. Dez. 2017 ([AS 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875))
+[^t-72]: BB vom 6. Dez. 2017 ([AS 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876))
+[^t-73]: BB vom 5. Dez. 2017 ([AS 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877))
+[^t-74]: BB vom 10. Dez. 2019 ([AS 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106))
+[^t-75]: BB vom 5. Dez. 2017 ([AS 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878))
+[^t-76]: BB vom 3. März 2020 ([AS 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768))
+[^t-77]: BB vom 5. Dez. 2017 ([AS 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879))
+[^t-78]: BB vom 5. Dez. 2017 ([AS 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880))
+[^t-79]: BB vom 10. Dez 2019 ([AS 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39))
+[^t-80]: BB vom 5. Dez. 2017 ([AS 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881))
