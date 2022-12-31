@@ -4,13 +4,12 @@ number: "395"
 title: Einführungsgesetz zum Bundesgesetz über die wirtschaftliche Landesversorgung
 short: Kantonales Landesversorgungsgesetz
 language: de
-version: 2005-11-01
-valid_until: 2022-12-31
-version_adopted: 2005-06-20
+version: 2023-01-01
+version_adopted: 2022-06-20
 adopted: 2005-06-20
 in_force: 2005-11-01
 url: "https://srl.lu.ch/app/de/texts_of_law/395"
-pdf: "https://srl.lu.ch/api/de/versions/2309/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3973/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://srl.lu.ch/api/de/versions/2309/pdf_file"
 
 (Kantonales Landesversorgungsgesetz)
 
-vom 20.06.2005 (Stand 01.11.2005)
+vom 20.06.2005 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
-gestützt auf Artikel 54 Absatz 1 des Bundesgesetzes über die wirtschaftliche Landesversorgung vom 8. Oktober 1982[^ingress-1],
+gestützt auf Artikel 59 Absatz 1 des Bundesgesetzes über die wirtschaftliche Landesversorgung vom 17. Juni 2016[^ingress-1],
 
 nach Einsicht in die Botschaft des Regierungsrates vom 26. November 2004[^ingress-2],
 
@@ -81,7 +80,7 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Gegen Entscheide gemäss den Artikeln 23–28 des Bundesgesetzes über die wirtschaftliche Landesversorgung vom 8. Oktober 1982 kann innert fünf Tagen Einsprache erhoben werden. Die Einsprache hat keine aufschiebende Wirkung.
+<sup>1</sup> Gegen Entscheide gemäss den Artikeln 31–33 des Bundesgesetzes über die wirtschaftliche Landesversorgung kann innert fünf Tagen Einsprache erhoben werden. Die Einsprache hat keine aufschiebende Wirkung.
 
 <sup>2</sup> Einspracheentscheide können nach den Bestimmungen des Bundesrechts angefochten werden.
 
