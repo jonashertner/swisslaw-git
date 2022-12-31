@@ -4,11 +4,11 @@ title: "Verordnung vom 14. November 1973 über die Luftfahrt (Luftfahrtverordnun
 short: LFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856"
 language: de
-version: 2022-10-01
+version: 2023-01-01
 adopted: 1973-11-14
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/de/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20221001-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20221001/de"
 
 (Luftfahrtverordnung, LFV)[^t-1]
 
-vom 14. November 1973 (Stand am 1. Oktober 2022)
+vom 14. November 1973 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I der V vom 25. Aug. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 1921](https://fedlex.data.admin.ch/eli/oc/1976/1921_1921_1921)).
 
@@ -1130,15 +1130,15 @@ Eine Betriebsbewilligung wird einem Gesuchsteller nur erteilt, wenn er:
   über die folgenden Sicherstellungen verfügt:
 
   - 1\. für Haftpflichtansprüche im Falle von Tod oder Körperverletzung: über eine minimale Sicherstellung von 250 000 Sonderziehungsrechten gemäss der Definition des Internationalen Währungsfonds je Reisenden,
-  - 2\.[^106-1] für Haftpflichtansprüche im Falle von Beschädigung von Reisegepäck: über eine minimale Sicherstellung von 1131 Sonderziehungsrechten je Reisenden,
-  - 3\.[^106-2] für Haftpflichtansprüche im Falle von Beschädigung von Gütern: über eine minimale Sicherstellung von 19 Sonderziehungsrechten je Kilogramm;und
+  - 2\.[^106-1] für Haftpflichtansprüche im Falle von Beschädigung von Reisegepäck: über eine minimale Sicherstellung von 1288 Sonderziehungsrechten je Reisenden,
+  - 3\.[^106-2] für Haftpflichtansprüche im Falle von Beschädigung von Gütern: über eine minimale Sicherstellung von 22 Sonderziehungsrechten je Kilogramm; und
 
 - b. nachweist, dass er gegen die Folgen seiner Haftpflicht bis zu den Beträgen nach Buchstabe a versichert ist.[^106-3]
 
 <sup>2</sup> In den Versicherungsvertrag ist folgende Bestimmung aufzunehmen: Endigt der Vertrag vor dem im Nachweis über die Sicherstellung angegebenen Zeitpunkt, so verpflichtet sich die Versicherungsunternehmung, gleichwohl Ersatzansprüche bis zum Entzug der Bewilligung nach den Bestimmungen des Vertrages zu decken, längstens aber während 15 Tagen, nachdem das BAZL vom Ende des Vertrags benachrichtigt worden ist. Als Zeitpunkt des Entzugs gilt der Tag, an dem die Entzugsverfügung rechtskräftig wird.
 
-[^106-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
-[^106-2]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
+[^106-1]: Fassung gemäss Ziff. II der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^106-2]: Fassung gemäss Ziff. II der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 [^106-3]: Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 #### Art. 107
@@ -1785,7 +1785,7 @@ Die Bescheinigung über die Sicherstellung gibt Auskunft über
 
 **Minimale Sicherstellung der Haftpflichtansprüche der Reisenden[^132a-1]**
 
-<sup>1</sup> B Die minimale Sicherstellung für Haftpflichtansprüche der Reisenden beträgt 250 000 Sonderziehungsrechte je Reisenden. Bei nichtgewerbsmässigen Flügen, die mit Luftfahrzeugen mit einem Abfluggewicht bis zu 2700 kg durchgeführt werden, kann die minimale Sicherstellung unter diesem Betrag liegen, muss aber mindestens 113 100 Sonderziehungsrechte je Reisenden betragen.[^132a-2]
+<sup>1</sup> Die minimale Sicherstellung für Haftpflichtansprüche der Reisenden beträgt 250 000 Sonderziehungsrechte je Reisenden. Bei nichtgewerbsmässigen Flügen, die mit Luftfahrzeugen mit einem Abfluggewicht bis zu 2700 kg durchgeführt werden, kann die minimale Sicherstellung unter diesem Betrag liegen, muss aber mindestens 128 821 Sonderziehungsrechte je Reisenden betragen.[^132a-2]
 
 <sup>2</sup> Bei nichtgewerbsmässigen Flügen ohne Reisende kann auf die Sicherstellung für Haftpflichtansprüche der Reisenden verzichtet werden.
 
@@ -1794,7 +1794,7 @@ Die Bescheinigung über die Sicherstellung gibt Auskunft über
 <sup>4</sup> Dieser Artikel gilt nicht für die Hängegleiter (Art. 132*b*).[^132a-3]
 
 [^132a-1]: Eingefügt durch Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
-[^132a-2]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
+[^132a-2]: Fassung gemäss Ziff. II der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 [^132a-3]: Eingefügt Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
 
 #### Art. 132b
@@ -1996,6 +1996,6 @@ Anhang[^t-2]
 
 (Art. 2 Abs. 1 und 23 Abs. 1)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20230101/de/xml/image/image1.png)
 
 [^t-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 1994 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)). Fassung gemäss Ziff. II der V vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).

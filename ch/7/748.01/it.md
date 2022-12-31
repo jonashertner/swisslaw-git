@@ -4,11 +4,11 @@ title: Ordinanza del 14 novembre 1973 sulla navigazione aerea (ONA)
 short: ONA
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856"
 language: it
-version: 2022-10-01
+version: 2023-01-01
 adopted: 1973-11-14
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/it/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20221001-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20221001/it"
 
 (ONA)
 
-del 14 novembre 1973 (Stato 1° ottobre 2022)
+del 14 novembre 1973 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1132,15 +1132,15 @@ L’autorizzazione è rilasciata soltanto se il richiedente:
   dispone delle seguenti garanzie:
 
   - 1\. a titolo di responsabilità civile di una copertura minima di 250 000 diritti speciali di prelievo per passeggero, definiti dal Fondo monetario internazionale in caso di morte o di lesioni personali,
-  - 2\.[^106-1] a titolo di responsabilità civile di una copertura minima di 1131 diritti speciali di prelievo per passeggero in caso di danni ai bagagli,
-  - 3\.[^106-2] a titolo di responsabilità civile di una copertura minima di 19 diritti speciali di prelievo per chilogrammo in caso di danni alle merci; e
+  - 2\.[^106-1] a titolo di responsabilità civile di una copertura minima di 1288 diritti speciali di prelievo per passeggero in caso di danni ai bagagli,
+  - 3\.[^106-2] a titolo di responsabilità civile di una copertura minima di 22 diritti speciali di prelievo per chilogrammo in caso di danni alle merci; e
 
 - b. prova che è assicurato contro i rischi legati alla sua responsabilità civile fino a concorrenza degli importi di cui alla lettera a. [^106-3]
 
 <sup>2</sup> Il contratto d’assicurazione deve contenere la disposizione seguente: se il contratto scade prima del momento indicato nel certificato di garanzia, la compagnia di assicurazione si impegna a coprire le pretese di risarcimento alle condizioni definite nel contratto, fino al momento della revoca dell’autorizzazione, ma al massimo durante 15 giorni dopo che l’UFAC è stato informato della scadenza del contratto; è considerato momento della revoca il giorno in cui la decisione di revoca passa in giudicato.
 
-[^106-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
-[^106-2]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
+[^106-1]: Nuovo testo giusta il n. II dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^106-2]: Nuovo testo giusta il n. II dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 [^106-3]: Nuovo testo giusta il n. I 1 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 #### Art. 107
@@ -1789,7 +1789,7 @@ Il certificato di garanzia indica l’importo della garanzia, la durata della st
 
 **Copertura minima a titolo di responsabilità civile verso i passeggeri[^132a-1]**
 
-<sup>1</sup> La copertura minima a titolo di responsabilità civile verso i passeggeri ammonta a 250 000 diritti speciali di prelievo per passeggero. Per l’esercizio non commerciale di un aeromobile con un peso al decollo inferiore o uguale a 2700 kg, la copertura minima può essere inferiore a questa somma ma deve ammontare almeno a 113 100 diritti speciali di prelievo per passeggero.[^132a-2]
+<sup>1</sup> La copertura minima a titolo di responsabilità civile verso i passeggeri ammonta a 250 000 diritti speciali di prelievo per passeggero. Per l’esercizio non commerciale di un aeromobile con un peso al decollo inferiore o uguale a 2700 chilogrammi, la copertura minima può essere inferiore a questa somma ma deve ammontare almeno a 128 821 diritti speciali di prelievo per passeggero.[^132a-2]
 
 <sup>2</sup> In caso di esercizio non commerciale di un aeromobile senza passeggeri si può rinunciare alla copertura a titolo di responsabilità civile verso i passeggeri.
 
@@ -1798,7 +1798,7 @@ Il certificato di garanzia indica l’importo della garanzia, la durata della st
 <sup>4</sup> Il presente articolo non si applica agli alianti da pendio (art. 132*b*).[^132a-3]
 
 [^132a-1]: Introdotta dal n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
-[^132a-2]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
+[^132a-2]: Nuovo testo giusta il n. II dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 [^132a-3]: Introdotto dal n. I dell’O del 17 feb. 2016, in vigore dal 1° gen. 2017 ([RU 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
 
 #### Art. 132b
@@ -2002,6 +2002,6 @@ Allegato[^t-1]
 
 (art. 2 cpv. 1 e 23 cpv. 1)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20230101/it/xml/image/image1.png)
 
 [^t-1]: Introdotto dall’O del 23 nov. 1994 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)). Nuovo testo giusta il n. II dell’O del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).

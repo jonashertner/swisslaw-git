@@ -4,11 +4,11 @@ title: "Ordonnance du 14 novembre 1973 sur l'aviation (OSAv)"
 short: OSAv
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856"
 language: fr
-version: 2022-10-01
+version: 2023-01-01
 adopted: 1973-11-14
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20221001-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20221001/fr"
 
 (OSAv)[^t-1]
 
-du 14 novembre 1973 (État le 1<sup>er</sup> octobre 2022)
+du 14 novembre 1973 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
@@ -1133,15 +1133,15 @@ L’autorisation d’exploitation n’est délivrée à un requérant que:
   s’il dispose des sûretés suivantes:
 
   - 1\. au titre de sa responsabilité civile en cas de mort ou de lésion corporelle: d’une couverture minimale de 250 000 droits de tirage spéciaux tels qu’ils sont définis par le Fonds monétaire international par passager,
-  - 2\.[^106-1] au titre de sa responsabilité civile en cas de dommage causé à des bagages: d’une couverture minimale de 1131 droits de tirage spéciaux par passager,
-  - 3\.[^106-2] au titre de sa responsabilité civile en cas de dommage causé à des marchandises: d’une couverture minimale de 19 droits de tirage spéciaux par kilogramme, et
+  - 2\.[^106-1] au titre de sa responsabilité civile en cas de dommage causé à des bagages: d’une couverture minimale de 1288 droits de tirage spéciaux par passager,
+  - 3\.[^106-2] au titre de sa responsabilité civile en cas de dommage causé à des marchandises: d’une couverture minimale de 22 droits de tirage spéciaux par kilogramme, et
 
 - b. s’il prouve qu’il est couvert, au titre de sa responsabilité civile, jusqu’à concurrence des montants visés à la let. a. [^106-3]
 
 <sup>2</sup> Le contrat d’assurance doit contenir la disposition suivante: Si le contrat prend fin avant l’échéance indiquée dans l’attestation d’assurance, la compagnie d’assurance s’engage à couvrir les prétentions en dommages intérêts dans les conditions définies par le contrat jusqu’au moment du retrait de l’autorisation, mais au plus pendant quinze jours après que l’OFAC a été informé de l’expiration du contrat; est réputé moment du retrait le jour où la décision de retrait entre en vigueur.
 
-[^106-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
-[^106-2]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
+[^106-1]: Nouvelle teneur selon le ch. II de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^106-2]: Nouvelle teneur selon le ch. II de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 [^106-3]: Nouvelle teneur selon le ch. I 1 de l’O du 4 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 #### Art. 107
@@ -1793,7 +1793,7 @@ L’attestation de la couverture indique le montant de la couverture, la durée 
 
 **Couverture minimale de responsabilité civile envers les passagers[^132a-1]**
 
-- [tab] <sup>1</sup> La couverture minimale au titre de la responsabilité civile de l’exploitant d’un aéronef envers les passagers est de 250 000 droits de tirage spéciaux par passager. Dans le cadre de l’exploitation non commerciale d’un aéronef dont le poids au décollage est inférieur ou égal à 2700 kg, la couverture minimale peut être inférieure à cette somme, mais elle doit être au minimum de 113 100 droits de tirage spéciaux par passager.[^132a-2]
+- [tab] <sup>1</sup> La couverture minimale au titre de la responsabilité civile de l’exploitant d’un aéronef envers les passagers est de 250 000 droits de tirage spéciaux par passager. Dans le cadre de l’exploitation non commerciale d’un aéronef dont le poids au décollage est inférieur ou égal à 2700 kg, la couverture minimale peut être inférieure à cette somme, mais elle doit être au minimum de 128 821 droits de tirage spéciaux par passager.[^132a-2]
 
 <sup>2</sup> En cas d’exploitation non commerciale d’un aéronef sans passager, on peut renoncer à la couverture au titre de la responsabilité civile envers les passagers.
 
@@ -1802,7 +1802,7 @@ L’attestation de la couverture indique le montant de la couverture, la durée 
 <sup>4</sup> Le présent article ne s’applique pas aux planeurs de pente (art. 132*b*).[^132a-3]
 
 [^132a-1]: Introduit par le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
-[^132a-2]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
+[^132a-2]: Nouvelle teneur selon le ch. II de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 [^132a-3]: Introduit par le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 739](https://fedlex.data.admin.ch/eli/oc/2016/142)).
 
 #### Art. 132b
@@ -2004,6 +2004,6 @@ Annexe[^t-2]
 
 (art. 2, al. 1, et 23, al. 1)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20230101/fr/xml/image/image1.png)
 
 [^t-2]: Introduite par le ch. I de l’O du 23 nov. 1994 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)). Nouvelle teneur selon le ch. II de l’O du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).
