@@ -4,11 +4,11 @@ title: "Ordonnance du 30 avril 2014 sur les banques et les caisses d'épargne (O
 short: OB
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: fr
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20210801/fr"
 
 (Ordonnance sur les banques, OB)
 
-du 30 avril 2014 (Etat le 1<sup>er</sup> août 2021)
+du 30 avril 2014 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -71,11 +71,17 @@ L’Autorité fédérale de surveillance des marchés financiers (FINMA) classe 
 - c. dépôts privilégiés;
 - d. fonds propres minimaux.[^2-2]
 
-<sup>3</sup> Une banque est classée dans la catégorie dont elle remplit au moins trois des critères cités.[^2-3]
+<sup>3</sup> En partant de la catégorie 5, une banque est classée dans la catégorie la plus élevée de l’annexe 3 dont elle atteint le seuil d’au moins trois critères.[^2-3]
+
+<sup>4</sup> Dans certains cas justifiés, la FINMA peut opter pour un classement qui déroge aux seuils.[^2-4]
+
+<sup>5</sup> En collaboration avec la FINMA, le Département fédéral des finances réexamine au moins tous les cinq ans les seuils retenus pour les critères énumérés à l’al. 2, let. a à c. Il s’appuie sur l’évolution à long terme de la somme des valeurs de toutes les banques en Suisse pour le critère concerné et, le cas échéant, il propose des modifications au Conseil fédéral.[^2-5]
 
 [^2-1]: Abrogé par le ch. I de l’O du 30 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^2-2]: Introduit par l’annexe ch. 1 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^2-3]: Introduit par l’annexe ch. 1 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^2-3]: Introduit par l’annexe ch. 1 de l’O du 11 mai 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^2-4]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^2-5]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 3
 
@@ -285,7 +291,7 @@ La représentation d’une banque étrangère qui fournit des services financier
 
 ## Chapitre 2 Autorisations
 
-### Section 1 Indications sur les personnes et les détenteurs de participations dans la demande d’autorisation et modification des faits****
+### Section 1 Indications sur les personnes et les détenteurs de participations dans la demande d’autorisation et modification des faits
 
 [^chap2-sec1-1]
 
@@ -337,7 +343,7 @@ Les demandes d’autorisation pour l’ouverture de nouvelles banques doivent co
 
 [^8a-1]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
-### Section 2 Organisation des banques****
+### Section 2 Organisation des banques
 
 [^chap2-sec2-1]
 
@@ -388,14 +394,14 @@ La direction effective de la banque doit se situer en Suisse. Sont réservées l
 
 <sup>2</sup> La banque fixe, dans un règlement ou dans des directives internes, les principes de gestion des risques ainsi que les compétences et la procédure en matière d’octroi de l’autorisation d’effectuer des opérations à risques. Elle doit notamment déterminer, limiter et contrôler les risques de crédit, les risques de pertes, les risques liés au marché, à l’exécution des transactions et au manque de liquidités, les risques opérationnels et juridiques, ainsi que les risques susceptibles de ternir sa réputation.
 
-<sup>2bis</sup> La banque veille, à l’échelon de chaque établissement comme à celui du groupe, à ne conclure de nouveaux contrats ou des modifications des contrats existants soumis à un droit ou à un for étranger que lorsque la contrepartie reconnaît un ajournement de la résiliation des contrats au sens de l’art. 30*a* LB.[^12-2]
+<sup>2bis</sup> La banque veille, à l’échelon de chaque établissement comme à celui du groupe, à ne conclure de nouveaux contrats ou des modifications des contrats existants soumis à un droit ou à un for étranger que lorsque la contrepartie reconnaît un ajournement de la résiliation des contrats au sens de l’art. 30*a* LB. La FINMA peut préciser les types de contrats pour lesquels un ajournement est nécessaire et pour lesquels non.[^12-2]
 
 <sup>3</sup> La documentation interne de la banque concernant les décisions et la surveillance relatives aux affaires comportant des risques doit être conçue de façon à permettre à la société d’audit d’apprécier correctement les activités.
 
 <sup>4</sup> La banque veille à mettre en place un système de contrôle interne efficace. Elle institue notamment un organe interne de révision indépendant de l’organe responsable de la gestion.[^12-3] La FINMA peut, dans des cas dûment motivés, exempter une banque de l’obligation d’instituer un organe interne de révision.
 
 [^12-1]: Nouvelle teneur du renvoi selon l’annexe 1 ch. 11 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^12-2]: Introduit par l’annexe 1 ch. 11 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^12-2]: Introduit par l’annexe 1 ch. 11 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^12-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 13
@@ -418,7 +424,7 @@ La direction effective de la banque doit se situer en Suisse. Sont réservées l
 
 Les banquiers privés sont tenus de consigner dans leur contrat de société ou dans un règlement les dispositions afférentes à l’organisation de leur établissement.
 
-### Section 2*a***** Organisation des personnes visées à l’art. 1*b* LB
+### Section 2*a* Organisation des personnes visées à l’art. 1*b* LB
 
 [^chap2-sec2a-1]
 
@@ -996,33 +1002,205 @@ La FINMA précise les dispositions en matière d’établissement des comptes de
 - b. les particularités relatives aux comptes consolidés;
 - c. la publication d’informations qui ne sont pas prévues dans le standard comptable international utilisé par la banque et reconnu par la FINMA, mais qui sont nécessaires à l’évaluation de la situation économique.
 
-## Chapitre 5 Garantie des dépôts gardés par les banques****
+## Chapitre 4*a* Dépôts et déposants privilégiés
+
+[^chap4a-1]
+
+[^chap4a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42a
+
+**Dépôts privilégiés**
+
+### (art. 37*a*, al. 1 et 7, LB)
+
+<sup>1</sup>
+
+Les prétentions suivantes des déposants visés à l’art. 42*c* sont considérées comme des dépôts privilégiés:
+
+- a.
+
+  les créances détenues sur une banque:
+
+  - 1\. qui sont comptabilisées en tant que solde sur des comptes auprès de la banque et qui sont libellées dans une monnaie émise par un État ou par une banque centrale, ou
+  - 2\. qui sont libellées en or, en argent, en platine ou en palladium et qui confèrent au déposant un droit exclusif ou un autre droit à une prestation dans une monnaie émise par un État ou par une banque centrale;
+
+- b. les obligations de caisse de la banque qui sont comptabilisées comme telles dans le bilan de la banque et qui sont déposées auprès de la banque au nom du déposant;
+- c. les paiements qui sont ordonnés par le déposant dans le cadre du trafic des paiements, mais qui n’ont pas encore quitté la banque ou le compte qu’elle détient auprès d’une chambre de compensation ou d’un correspondant au moment du prononcé d’une mesure protectrice au sens de l’art. 26, al. 1, let. e à h, LB ou de la faillite bancaire, même s’ils ont déjà été débités du compte du déposant;
+- d. les paiements du trafic des paiements en faveur d’un déposant qui sont parvenus à la banque ou sur le compte qu’elle détient auprès d’une chambre de compensation ou d’un correspondant avant le prononcé d’une mesure protectrice au sens de l’art. 26, al. 1, let. e à h, LB ou de la faillite bancaire, même si le compte du déposant n’en a pas encore été crédité.
+
+<sup>2</sup> Les dépôts à terme et l’argent au jour le jour sont également réputés comptabilisés sur des comptes au sens de l’al. 1, let. a, ch. 1.
+
+<sup>3</sup>
+
+Ne sont pas considérés comme des dépôts privilégiés, notamment:
+
+- a. les créances au porteur;
+- b. les obligations de caisse qui ne sont pas déposées auprès de la banque;
+- c. les demandes d’indemnisation contractuelles ou extracontractuelles, telles que les prétentions découlant de la non-restitution des valeurs déposées selon l’art. 16 LB;
+- d. les droits ou les prétentions découlant de produits dérivés;
+- e. les avoirs en déshérence;
+- f. les créances sur la banque qui ne proviennent pas de l’activité bancaire.
+
+#### Art. 42b
+
+**Montant privilégié**
+
+### (art. 37*a*, al. 1 et 7, et 37*b*, al. 1, LB)
+
+<sup>1</sup> Le montant privilégié au sens de l’art. 37*a*, al. 1, LB des dépôts privilégiés est déterminé par l’addition des différents soldes, intérêts courus compris, en faveur du déposant.
+
+<sup>2</sup> Les hypothèques, les prêts ou les découverts d’autres comptes ainsi que les intérêts et émoluments non comptabilisés en faveur de la banque ne doivent pas être pris en considération, que les montants correspondants soient ou non cumulés, exigibles ou échus.
+
+#### Art. 42c
+
+**Déposants privilégiés**
+
+### (art. 37*a*, al. 7, LB)
+
+<sup>1</sup> Sont considérés comme des déposants privilégiés le cocontractant ayant droit dans la relation de créance avec la banque ou le déposant d’une obligation de caisse, tels qu’ils figurent dans les livres de la banque au moment du prononcé d’une mesure protectrice visée à l’art. 26, al. 1, let. e à h, LB ou de la faillite bancaire.
+
+<sup>2</sup>
+
+Ne sont pas considérés comme des déposants privilégiés:
+
+- a. les intermédiaires financiers au sens de la LB, de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^42c-1] et de la loi du 23 juin 2006 sur les placements collectifs[^42c-2];
+- b. les entreprises d’assurance soumises à la loi du 17 décembre 2004 sur la surveillance des assurances[^42c-3];
+- c. les clients étrangers soumis à une surveillance prudentielle, comme les intermédiaires financiers ou les entreprises d’assurance visés aux let. a et b;
+- d. les banques centrales;
+- e. les fondations bancaires reconnues comme institutions de prévoyance au sens de l’art. 82 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^42c-4] (fondations du pilier 3a) ou les fondations de libre passage reconnues comme institutions de libre passage au sens de la loi du 17 décembre 1993 sur le libre passage[^42c-5] (fondations de libre passage);
+- f. les clients des maisons de titres qui ne tiennent pas elles-mêmes des comptes en vertu de l’art. 44, al. 1, let. a, LEFin.
+
+<sup>3</sup> Lorsqu’une créance a plusieurs titulaires, ceux-ci sont considérés comme un déposant propre, indépendant des différents titulaires. Les titulaires ne peuvent faire valoir qu’une seule fois, et pour l’ensemble des titulaires, le montant maximal prévu à l’art. 37*a*, al. 1, LB.
+
+<sup>4</sup> Lorsqu’un déposant détient des dépôts privilégiés auprès d’un comptoir de la banque à l’étranger, il est considéré comme le déposant propre et indépendant de ces dépôts.
+
+[^42c-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^42c-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^42c-3]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^42c-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^42c-5]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+
+#### Art. 42d
+
+**Créances privilégiées des fondations du pilier 3a et des fondations de libre passage**
+
+### (art. 37*a*, al. 5, LB)
+
+<sup>1</sup> Les banques qui détiennent des placements d’une fondation du pilier 3a ou d’une fondation de libre passage doivent demander à la fondation de lui confirmer par écrit qu’elle a documenté la répartition des dépôts privilégiés des preneurs de prévoyance et des assurés lorsqu’elle possède des placements auprès de plusieurs banques.
+
+<sup>2</sup> Les droits de prévoyance du preneur de prévoyance envers plusieurs fondations du pilier 3a ou fondations de libre passage qui possèdent des dépôts auprès de la même banque ne sont pas regroupés.
+
+## Chapitre 5 Garantie des dépôts gardés par les banques
 
 [^chap5-1]
 
 [^chap5-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
+#### Art. 42e
+
+**Adhésion à un système d’autorégulation**[^42e-1]
+
+### (art. 37*h*, al. 1, LB)
+
+La banque doit remettre la demande d’adhésion à l’organisme de garantie au moins trois mois avant d’accepter des dépôts privilégiés.
+
+[^42e-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42f
+
+**Prêt en espèces à l’organisme de garantie**[^42f-1]
+
+### (art. 37*h*, al. 3, let. c, ch. 2, LB)
+
+Les banques des catégories 4 et 5 ont la possibilité d’accorder à l’organisme de garantie un prêt en espèces pour garantir les contributions auxquelles elles sont tenues.
+
+[^42f-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42g
+
+**Préparatifs: dispositions générales**[^42g-1]
+
+### (art. 37*h*, al. 3, let. d, et 4 LB)
+
+Dans le cadre de leur activité ordinaire, les banques doivent effectuer les préparatifs suivants pour garantir conformément aux dispositions de la LB l’établissement du plan de remboursement, la prise de contact avec les déposants et le remboursement:
+
+- a. infrastructure: elles veillent à ce que soient disponibles un système informatique adapté au nombre de déposants et le personnel nécessaire; elles s’assurent que les éventuels contrats de prestations de service sont conservés dans ce cadre;
+- b. processus: elles définissent des processus standardisés garantissant notamment qu’il est possible dans les délais légaux de prendre contact avec les déposants ainsi que d’obtenir et de traiter leurs instructions de paiement;
+- c. liste des déposants: elles tiennent une liste des déposants (art. 42*i*, al. 1) qui permet au chargé d’enquête, au délégué à l’assainissement ou au liquidateur de la faillite (mandataire) de déterminer les dépôts garantis par déposant dans les 72 heures suivant le prononcé d’une mesure protectrice au sens de l’art. 26, al. 1, let. e à h, LB ou de la faillite bancaire;
+- d. aperçu sommaire: elles tiennent un aperçu sommaire des dépôts privilégiés qui ne font pas partie des dépôts garantis (art. 42*i*, al. 2); les dépôts détenus auprès de comptoirs à l’étranger y sont inscrits en tant que solde total des dépôts privilégiés dans la juridiction concernée.
+
+[^42g-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42h
+
+**Préparatifs: dispositions spéciales applicables aux banques d’importance systémique et aux petites banques**[^42h-1]
+
+<sup>1</sup> Les banques d’importance systémique ne sont pas tenues de procéder aux préparatifs prévus à l’art. 42*g*, let. a et b. Si elles ne le font pas, elles doivent établir un plan qui définit comment elles peuvent remplir les exigences visées à l’art. 42*g*, let. a et b, au cas où l’assainissement échouerait. Dans le cadre de l’assainissement, en fonction de l’évolution concrète de celui-ci, la FINMA décide au cas par cas à partir de quel moment la banque doit remplir les exigences définies dans le plan. Elle tient compte du modèle d’affaires et de l’état des liquidités de la banque, ainsi que du nombre des déposants concernés.
+
+<sup>2</sup> Les banques qui ont moins de 2500 déposants doivent uniquement tenir une liste des déposants et un aperçu sommaire.
+
+[^42h-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42i
+
+**Liste des déposants et aperçu sommaire**[^42i-1]
+
+### (art. 37*h*, al. 4, let. c et d, LB)
+
+<sup>1</sup> La liste des déposants comprend l’encours de tous les dépôts garantis des différents déposants auprès des comptoirs suisses de la banque.
+
+<sup>2</sup>
+
+L’aperçu sommaire mentionne les dépôts privilégiés qui ne sont pas garantis, à savoir:
+
+- a. les dépôts visés à l’art. 37*a*, al. 1, LB détenus auprès d’un comptoir de la banque à l’étranger;
+- b. les dépôts visés à l’art. 37*a*, al. 5, LB;
+- c. les dépôts visés à l’art. 42*a*, al. 1, let. c et d.
+
+<sup>3</sup> L’organisme de garantie prescrit le format de la liste des déposants.
+
+[^42i-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
 #### Art. 43
 
-**Plan de remboursement**
+**Plan de remboursement**[^43-1]
 
 ### (art. 37*j* LB)
 
-<sup>1</sup> Le chargé d’enquête, le chargé d’assainissement ou le liquidateur (mandataire) nommé par la FINMA dresse un plan de remboursement comprenant les créances inscrites dans les livres de la banque qui sont considérées comme des dépôts garantis au sens de l’art. 37*h*, al. 1, LB et ne sont pas remboursées selon l’art. 37*b* LB (plan de remboursement).
+<sup>1</sup> Le mandataire nommé par la FINMA n’est pas tenu de vérifier les créances à inscrire dans le plan de remboursement sur la base de la liste des déposants. Les créances manifestement injustifiées ne sont pas inscrites dans le plan de remboursement.
 
-<sup>2</sup> Aucune obligation n’incombe au mandataire de vérifier les créances à inscrire dans le plan de remboursement sur la base des livres de la banque. Les créances manifestement injustifiées ne sont pas inscrites dans le plan de remboursement.
+<sup>2</sup> Le mandataire peut demander aux déposants de justifier leurs créances lorsqu’il y a lieu de douter de la régularité de la comptabilité.
 
-<sup>3</sup> Le chargé d’enquête peut demander aux déposants de justifier leurs prétentions lorsqu’il y a lieu de douter de la régularité de la comptabilité. La FINMA règle les détails.
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 44
 
-**Remboursement des dépôts garantis**
+**Remboursement des dépôts privilégiés**[^44-1]
 
-### (art. 37*j*, al. 1, LB)
+### (art. 37*b*, al. 1, et 37*j* LB)
 
-<sup>1</sup> Le mandataire rembourse les dépôts garantis aux déposants conformément au plan de remboursement dès qu’il a reçu le montant que l’organisme de garantie lui a versé selon l’art. 37*i*, al. 2, LB.
+<sup>1</sup> Le mandataire rembourse les dépôts privilégiés aux déposants conformément au plan de remboursement.
 
-<sup>2</sup> Si ce montant ne suffit pas à rembourser l’ensemble des créances inscrites dans le plan de remboursement, le paiement de chacune d’elles est effectué de manière proportionnelle.
+<sup>2</sup> Si les fonds disponibles ne sont pas suffisants pour honorer l’ensemble des créances inscrites dans le plan de remboursement, le remboursement des dépôts privilégiés est exécuté au prorata.
+
+<sup>3</sup> Les dépôts mis en gage auprès de tiers, cédés à titre de sûreté ou placés sur des comptes de garantie de loyer sont remboursés lorsque la personne dont la prétention est garantie donne son accord ou lorsque le remboursement est légalement ou contractuellement autorisé.
+
+<sup>4</sup> Les créances des fondations du pilier 3a et des fondations de libre passage sont remboursées aux fondations concernées.
+
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 44a
+
+**Information de l’organisme de garantie**[^44a-1]
+
+### (art. 37*i* LB)
+
+<sup>1</sup> La FINMA informe l’organisme de garantie conformément à l’art. 37*i* LB, dans la mesure du possible au préalable.
+
+<sup>2</sup> L’organisme de garantie veille à protéger la confidentialité et réglemente la gestion des conflits d’intérêts.
+
+[^44a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 ## Chapitre 6 Avoirs en déshérence
 
@@ -1325,7 +1503,21 @@ Une banque d’importance systémique ne satisfait pas aux exigences en matière
 
 [^63-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
-### Section 2 Amélioration de la capacité d’assainissement et de liquidation
+#### Art. 63a
+
+**Opérations de couverture en relation avec des *bail-in bonds**[^63a-1]*
+
+### (art. 30*b*, al. 8, LB)
+
+Les engagements qui découlent des opérations de couverture en relation avec l’émission de *bail-in bonds* ne sont pas pris en compte dans le calcul du plafond de 5 % prévu à l’art. 30*b*, al. 8, LB.
+
+[^63a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+### Section 2 Capacité d’assainissement et de liquidation
+
+[^chap7-sec2-1]
+
+[^chap7-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 64
 
@@ -1341,56 +1533,114 @@ Une banque d’importance systémique ne satisfait pas aux exigences en matière
 
 <sup>4</sup> La banque d’importance systémique remet à la FINMA chaque année, avant la fin du deuxième trimestre, le plan de stabilisation et les informations nécessaires au plan de liquidation. Les mêmes documents doivent être remis si des modifications impliquent un remaniement du document ou si la FINMA le demande.
 
-<sup>5</sup> Lors de la remise des documents, elle décrit les mesures mentionnées à l’art. 66 qui visent à améliorer la capacité d’assainissement et de liquidation en Suisse et à l’étranger qu’elle a prévues ou déjà réalisées.
+<sup>5</sup> Lors de la remise des documents, une banque d’importance systémique active au niveau international au sens de l’art. 124*a* OFR[^64-1] doit documenter les mesures qu’elle a prévues de prendre ou déjà prises pour remplir les critères énumérés à l’art. 65*a*, al. 2, en vue du maintien de sa capacité d’assainissement et de liquidation en Suisse et à l’étranger.[^64-2]
+
+[^64-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^64-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 65
 
-**Remises sur les fonds supplémentaires destinés à absorber les pertes**[^65-1]
+**Maintien de la capacité d’assainissement et de liquidation en Suisse et à l’étranger des banques d’importance systémique actives au niveau international**[^65-1]
 
-### (art. 10, al. 3, LB)
+### (art. 9 et 25 à 37*k* LB)
 
-<sup>1</sup> La FINMA accorde des remises sur les fonds supplémentaires visés aux art. 132 et 133 OFR[^65-2] si la banque d’importance systémique améliore très vraisemblablement sa capacité d’assainissement et de liquidation en Suisse et à l’étranger grâce à des mesures selon l’art. 66. Pour ce faire, elle tient compte du degré d’application de ces mesures en Suisse et à l’étranger.
+Une banque d’importance systémique active au niveau international au sens de l’art. 124*a* OFR[^65-2] est tenue de maintenir sa capacité d’assainissement et de liquidation en Suisse et à l’étranger.
 
-<sup>2</sup> L’al. 1 ne s’applique pas au respect des exigences énoncées à l’art. 9, al. 2, let. d, LB[^65-3].
-
-[^65-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^65-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^65-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^65-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+
+#### Art. 65a
+
+**Évaluation de la capacité d’assainissement et de liquidation en Suisse et à l’étranger des banques d’importance systémique actives au niveau international**[^65a-1]
+
+### (art. 9 et 25 à 37*k* LB)
+
+<sup>1</sup> La FINMA évalue chaque année, sur la base de la documentation remise, la capacité d’assainissement et de liquidation en Suisse et à l’étranger de chaque banque d’importance systémique active au niveau international.
+
+<sup>2</sup>
+
+Elle effectue son évaluation en vérifiant notamment que sont remplis les critères suivants:
+
+- a. la banque dispose d’une structure organisationnelle qui facilite l’assainissement et la liquidation;
+- b. elle a défini des processus au moyen desquels elle peut compenser, par des mesures de recapitalisation, les pertes réalisées au sein des différentes unités du groupe financier;
+- c. elle est en permanence capable d’estimer le besoin de liquidités nécessaire en cas d’assainissement ou de liquidation et d’analyser les possibilités de couvrir le besoin en question, et elle garantit la gestion des sûretés disponibles dans le groupe financier;
+- d. elle garantit la continuité des opérations en cas d’assainissement;
+- e. elle garantit l’accès aux infrastructures des marchés financiers en cas d’assainissement;
+- f. elle conçoit les financements internes au groupe de manière verticale, aux conditions accordées aux tiers, et ne gère aucun financement horizontal significatif interne au groupe;
+- g. elle est en permanence capable d’effectuer immédiatement les évaluations et rapports nécessaires en cas d’assainissement;
+- h. elle garantit les conditions opérationnelles nécessaires à l’assainissement par la participation des créanciers sous la forme d’une réduction de créance ou d’une conversion de fonds de tiers en fonds propres;
+- i. elle dispose d’une stratégie qui inclut différentes solutions en vue de restructurer le modèle d’affaires.
+
+[^65a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 65b
+
+**Mesures de la FINMA en cas d’obstacles à la capacité d’assainissement et de liquidation des banques d’importance systémique actives au niveau international**[^65b-1]
+
+### (art. 9 et 25 à 37*k* LB)
+
+<sup>1</sup>
+
+Si la FINMA constate des obstacles à la capacité d’assainissement et de liquidation en Suisse et à l’étranger d’une banque d’importance systémique active au niveau international, elle fixe un délai pour les éliminer. Si la banque ne les élimine pas dans le délai imparti, la FINMA peut, pour les entités visées à l’art. 124, al. 3, let. b à d, OFR[^65b-2], imposer:
+
+- a. l’obligation de détenir des fonds supplémentaires destinés à absorber les pertes, conformément à l’art. 133 OFR;
+- b. une majoration au sens de l’art. 25, al. 1, OLiq[^65b-3], si l’obstacle concerne le critère visé à l’art. 65*a*, al. 2, let. c.
+
+<sup>2</sup> La FINMA peut consulter des autorités étrangères de surveillance et de faillite et tenir compte de leur appréciation au moment d’évaluer la capacité d’assainissement et de liquidation ainsi qu’au moment de fixer des mesures.
+
+[^65b-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^65b-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^65b-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+
+### Section 3 Information du public
+
+[^chap7-sec3-1]
+
+[^chap7-sec3-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 66
 
-**Mesures visant à améliorer la capacité d’assainissement et de liquidation**
+[^66-1]
 
-### (art. 10, al. 3, LB)
+La FINMA publie chaque année son évaluation du plan d’urgence et du plan de stabilisation des banques d’importance systémique ainsi que de la capacité d’assainissement et de liquidation en Suisse et à l’étranger des banques d’importance systémique actives au niveau international et informe sur l’état du plan de liquidation. Elle fournit des informations sur ses principales constatations.
 
-Les mesures visant à améliorer la capacité d’assainissement et de liquidation de la banque peuvent notamment comprendre les éléments suivants:
+[^66-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
-- a.
+### Section 4 Sociétés du groupe significatives des banques d’importance systémique ayant leur siège en Suisse
 
-  améliorations et décentralisations structurelles:
+[^chap7-sec4-1]
 
-  - 1\. structure juridique axée sur les unités d’affaires (*business-aligned legal entities*),
-  - 2\. création d’unités de service juridiquement indépendantes,
-  - 3\. suppression ou prévention des devoirs d’assistance de fait, notamment en créant une structure de conduite indépendante,
-  - 4\. réduction des asymétries géographiques ou bilancielles;
+[^chap7-sec4-1]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
-- b.[^66-1]
+#### Art. 66a
 
-  décentralisations financières pour limiter les risques de contagion:
+**Capital et liquidités**
 
-  - 1\. réduction des participations en capital entre entités juridiques de même niveau,
-  - 2\. limitation de l’octroi de crédits et de garanties sans sûretés entre entités juridiques de même niveau au sein du groupe financier,
-  - 3\. création d’une structure incitative en vue d’un financement interne aussi proche que possible du marché;
+### (art. 3*g*, al. 3 et 4, LB)
 
-- c.
+<sup>1</sup> Les sociétés du groupe significatives d’une banque d’importance systémique ayant leur siège en Suisse ont une dotation en capital et en liquidités appropriée.
 
-  décentralisation opérationnelle pour protéger les données et poursuivre les principales prestations d’exploitation:
+<sup>2</sup> La FINMA fixe le montant en tenant compte de la durée probable de l’assainissement ainsi que de l’étendue et du type des principales prestations de service qui devront être fournies durant l’assainissement.
 
-  - 1\. octroi d’un accès aux portefeuilles de données, aux banques de données et aux moyens informatiques et garantie de leur utilisation,
-  - 2\. séparation ou dissociation durable des fonctions essentielles,
-  - 3\. accès aux systèmes essentiels à l’exploitation et poursuite de leur utilisation.
+#### Art. 66b
 
-[^66-1]: Nouvelle teneur selon l’annexe 1 ch. 11 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+**Organisation**
+
+### (art. 3*g*, al. 3 et 4, LB)
+
+Les organes de direction des sociétés du groupe significatives d’une banque d’importance systémique ayant leur siège en Suisse sont nommés de manière à éviter autant que possible les conflits d’intérêts et à préserver les intérêts des sociétés du groupe significatives en cas de conflit d’intérêts au sein du groupe financier.
+
+#### Art. 66c
+
+**Garantie de la fourniture durable des prestations de service**
+
+### (art. 3*g*, al. 3 et 4, LB)
+
+Les sociétés du groupe significatives d’une banque d’importance systémique ayant leur siège en Suisse sont organisées de manière à pouvoir continuer de fournir leurs principales prestations de service au groupe financier en cas d’assainissement ou de liquidation. Elles doivent en particulier:
+
+- a. établir un catalogue des prestations de service visées;
+- b. conclure des contrats fixes couvrant les cas d’assainissement ou de faillite avec les prestataires externes participant à la fourniture des prestations de service visées et garantir la transmissibilité des contrats;
+- c. limiter les dépendances à des prestataires internes et externes à l’étranger au moyen de mesures appropriées.
 
 ## Chapitre 8 Dispositions finales
 
@@ -1400,7 +1650,7 @@ Les mesures visant à améliorer la capacité d’assainissement et de liquidati
 
 L’ordonnance du 17 mai 1972 sur les banques[^67-1] est abrogée.
 
-[^67-1]: [[RO 1972 832](https://fedlex.data.admin.ch/eli/oc/1972/821_832_752)[1916](https://fedlex.data.admin.ch/eli/oc/1972/_1916_), [1989 1772](https://fedlex.data.admin.ch/eli/oc/1989/1772_1772_1772), [1995 253](https://fedlex.data.admin.ch/eli/oc/1995/253_253_253), [1996 45](https://fedlex.data.admin.ch/eli/oc/1996/45_45_45)[3094](https://fedlex.data.admin.ch/eli/oc/1996/3094_3094_3094), [1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85)art. 57 ch. 1, [1998 16](https://fedlex.data.admin.ch/eli/oc/1998/16_16_16), [2003 4077](https://fedlex.data.admin.ch/eli/oc/2003/603), [2004 2777](https://fedlex.data.admin.ch/eli/oc/2004/341)[2875](https://fedlex.data.admin.ch/eli/oc/2004/355), [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656), [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)annexe 7 ch. 1, [2008 1199](https://fedlex.data.admin.ch/eli/oc/2008/215)[5363](https://fedlex.data.admin.ch/eli/oc/2008/750)annexe ch. 7, [2009 5279](https://fedlex.data.admin.ch/eli/oc/2009/623), **2011** 931, [2012 5435](https://fedlex.data.admin.ch/eli/oc/2012/628)[5441](https://fedlex.data.admin.ch/eli/oc/2012/629)annexe 6 ch. 2 [7251](https://fedlex.data.admin.ch/eli/oc/2012/883)art. 32]
+[^67-1]: [[RO 1972 832](https://fedlex.data.admin.ch/eli/oc/1972/821_832_752), [1916](https://fedlex.data.admin.ch/eli/oc/1972/_1916_); [1989 1772](https://fedlex.data.admin.ch/eli/oc/1989/1772_1772_1772); [1995 253](https://fedlex.data.admin.ch/eli/oc/1995/253_253_253); [1996 45](https://fedlex.data.admin.ch/eli/oc/1996/45_45_45), [3094](https://fedlex.data.admin.ch/eli/oc/1996/3094_3094_3094); [1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85)art. 57 ch. 1; [1998 16](https://fedlex.data.admin.ch/eli/oc/1998/16_16_16); [2003 4077](https://fedlex.data.admin.ch/eli/oc/2003/603); [2004 2777](https://fedlex.data.admin.ch/eli/oc/2004/341), [2875](https://fedlex.data.admin.ch/eli/oc/2004/355); [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656); [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)annexe 7 ch. 1; [2008 1199](https://fedlex.data.admin.ch/eli/oc/2008/215), [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)annexe ch. 7; [2009 5279](https://fedlex.data.admin.ch/eli/oc/2009/623); **2011** 931; [2012 5435](https://fedlex.data.admin.ch/eli/oc/2012/628), [5441](https://fedlex.data.admin.ch/eli/oc/2012/629)annexe 6 ch. 2, [7251](https://fedlex.data.admin.ch/eli/oc/2012/883)art. 32]
 
 #### Art. 68
 
@@ -1425,6 +1675,16 @@ La modification d’autres actes est réglée à l’annexe 2.
 [^69-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 [^69-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^69-3]: Introduit par l’annexe 1 ch. 11 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+
+#### Art. 69a
+
+**Disposition transitoire relative à la modification du 23 novembre 2022**[^69a-1]
+
+<sup>1</sup> Les banques doivent respecter l’obligation prévue à l’art. 37*h*, al. 3, let. c, LB relative au dépôt des titres ou des espèces ou au prêt en espèces dans les onze mois suivant l’entrée en vigueur de la modification du 23 novembre 2022.
+
+<sup>2</sup> L’obligation pour les banques d’importance systémique actives au niveau international de remettre la documentation visée à l’art. 64, al. 5, débute à la fin du mois de juin 2024.
+
+[^69a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 70
 
@@ -1657,7 +1917,7 @@ L’annexe doit être structurée comme suit:
 - c. Indications relatives à la gestion des risques, particulièrement au niveau du traitement du risque de variation de taux, des autres risques de marché et des risques de crédit;
 - d. Commentaire des méthodes appliquées pour l’identification des risques de défaillance et pour la détermination du besoin de corrections de valeur;
 - e. Commentaire de l’évaluation des sûretés de crédit, en particulier des critères importants appliqués à la détermination des valeurs vénales et des valeurs de nantissement;
-- f. Commentaire de la politique d’affaires lors de la mise en œuvre d’instruments financiers dérivés, y c. les commentaires en lien avec l’utilisation de la comptabilité de couverture (*hedge accou**n**ting*);
+- f. Commentaire de la politique d’affaires lors de la mise en œuvre d’instruments financiers dérivés, y c. les commentaires en lien avec l’utilisation de la comptabilité de couverture (*hedge accounting*);
 - g. Commentaire des événements significatifs survenus après la date du bilan;
 - h. Motifs qui ont conduit à une démission de l’organe de révision avant le terme de son mandat;
 - i.
@@ -1730,34 +1990,20 @@ Les ordonnances suivantes sont modifiées comme suit:
 
 [^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273).
 
-Annexe 3*[^t-1]*
+Annexe 3[^t-1]
 
 (art. 2, al. 2 et 3)
 
 ## Classification des banques
 
-[^t-1]: Introduite par l’annexe ch. 1 de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^t-1]: Introduite par l’annexe ch. 1 de l’O du 11 mai 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
-<tr><th>Catégorie</th><th colspan="3">Critères (en milliards de CHF)</th></tr>
-<tr><td>1</td><td>Total du bilan</td><td>&gt;</td><td>250</td></tr>
-<tr><td></td><td>Actifs sous gestion</td><td>&gt;</td><td>1000</td></tr>
-<tr><td></td><td>Dépôts privilégiés</td><td>&gt;</td><td>30</td></tr>
-<tr><td></td><td>Fonds propres minimaux</td><td>&gt;</td><td>20</td></tr>
-<tr><td>2</td><td>Total du bilan</td><td>&gt;</td><td>100</td></tr>
-<tr><td></td><td>Actifs sous gestion</td><td>&gt;</td><td>500</td></tr>
-<tr><td></td><td>Dépôts privilégiés</td><td>&gt;</td><td>20</td></tr>
-<tr><td></td><td>Fonds propres minimaux</td><td>&gt;</td><td>2</td></tr>
-<tr><td>3</td><td>Total du bilan</td><td>&gt;</td><td>15</td></tr>
-<tr><td></td><td>Actifs sous gestion</td><td>&gt;</td><td>20</td></tr>
-<tr><td></td><td>Dépôts privilégiés</td><td>&gt;</td><td>0,5</td></tr>
-<tr><td></td><td>Fonds propres minimaux</td><td>&gt;</td><td>0,25</td></tr>
-<tr><td>4</td><td>Total du bilan</td><td>&gt;</td><td>1</td></tr>
-<tr><td></td><td>Actifs sous gestion</td><td>&gt;</td><td>2</td></tr>
-<tr><td></td><td>Dépôts privilégiés</td><td>&gt;</td><td>0,1</td></tr>
-<tr><td></td><td>Fonds propres minimaux</td><td>&gt;</td><td>0,05</td></tr>
-<tr><td>5</td><td>Total du bilan</td><td>&lt;</td><td>1</td></tr>
-<tr><td></td><td>Actifs sous gestion</td><td>&lt;</td><td>2</td></tr>
-<tr><td></td><td>Dépôts privilégiés</td><td>&lt;</td><td>0,1</td></tr>
-<tr><td></td><td>Fonds propres minimaux</td><td>&lt;</td><td>0,05</td></tr>
+<tr><th></th><th colspan="2">Critères et seuils en milliards de francs</th><th></th><th></th><th></th></tr>
+<tr><th>Catégorie</th><th>Total du bilan</th><th colspan="2">Actifs sous gestion</th><th>Dépôts privilégiés</th><th>Fonds propres minimaux</th></tr>
+<tr><td>1</td><td>&gt; 280</td><td colspan="2">&gt; 1625</td><td>&gt; 32</td><td>&gt; 20</td></tr>
+<tr><td>2</td><td>&gt; 115</td><td colspan="2">&gt; 815</td><td>&gt; 21,5</td><td>&gt; 2</td></tr>
+<tr><td>3</td><td>&gt; 17</td><td colspan="2">&gt; 32,5</td><td>&gt; 0,53</td><td>&gt; 0,25</td></tr>
+<tr><td>4</td><td>&gt; 1,125</td><td colspan="2">&gt; 3,25</td><td>&gt; 0,105</td><td>&gt; 0,05</td></tr>
+<tr><td>5</td><td>&lt; 1,125</td><td colspan="2">&lt; 3,25</td><td>&lt; 0,105</td><td>&lt; 0,05</td></tr>
 </table>

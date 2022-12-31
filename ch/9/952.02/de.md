@@ -4,11 +4,11 @@ title: "Verordnung vom 30. April 2014 über die Banken und Sparkassen (Bankenver
 short: BankV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: de
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20210801/de"
 
 (Bankenverordnung, BankV)
 
-vom 30. April 2014 (Stand am 1. August 2021)
+vom 30. April 2014 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -60,7 +60,7 @@ Diese Verordnung regelt namentlich:
 
 ### (Art. 1 Abs. 1 BankG)
 
-<sup>1</sup> ...[^2-1]
+<sup>1</sup> …[^2-1]
 
 <sup>2</sup>
 
@@ -71,12 +71,18 @@ Die Banken werden von der Eidgenössischen Finanzmarktaufsicht (FINMA) anhand fo
 - c. privilegierte Einlagen;
 - d. Mindesteigenmittel.[^2-3]
 
-<sup>3</sup> Eine Bank wird in die Kategorie eingeteilt, in der sie mindestens drei dieser Kriterien erfüllt.[^2-4]
+<sup>3</sup> Eine Bank wird ausgehend von der Kategorie 5 in die höchste Kategorie nach Anhang 3 eingeteilt, in der sie mindestens drei Schwellenwerte erreicht.[^2-4]
+
+<sup>4</sup> Die FINMA kann in begründeten Einzelfällen von den Schwellenwerten abweichende Einteilungen vornehmen.[^2-5]
+
+<sup>5</sup> Das Eidgenössische Finanzdepartement prüft in Zusammenarbeit mit der FINMA mindestens jedes fünfte Jahr die Schwellenwerte für die Kriterien nach Absatz 2 Buchstaben a–c. Es orientiert sich dabei an der längerfristigen Entwicklung der Summe der Werte aller Banken in der Schweiz in Bezug auf das jeweilige Kriterium und beantragt dem Bundesrat allfällige Anpassungen.[^2-6]
 
 [^2-1]: Aufgehoben durch Ziff. I der V vom 30. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^2-2]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^2-3]: Eingefügt durch Beilage Ziff. 1 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^2-4]: Eingefügt durch Beilage Ziff. 1 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^2-4]: Eingefügt durch Beilage Ziff. 1 der V vom 11. Mai 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^2-5]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^2-6]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 3
 
@@ -227,7 +233,7 @@ Nicht gewerbsmässig im Sinne des BankG handelt, wer dauernd mehr als 20 Publiku
   - 1\. er von der FINMA nicht beaufsichtigt wird, und
   - 2\. die Einlage nicht von der Einlagensicherung erfasst wird.[^6-5]
 
-<sup>3</sup> ...[^6-6]
+<sup>3</sup> …[^6-6]
 
 <sup>4</sup> Wird der Schwellenwert nach Absatz 2 Buchstabe a überschritten, so muss dies innerhalb von 10 Tagen der FINMA gemeldet und ihr innerhalb von 30 Tagen ein Bewilligungsgesuch nach den Vorschriften des BankG eingereicht werden. Die FINMA kann, sofern es der Schutzzweck des BankG gebietet, der Gesuchstellerin oder dem Gesuchsteller untersagen, bis zum Entscheid über das Bewilligungsgesuch weitere Publikumseinlagen entgegenzunehmen.
 
@@ -288,7 +294,7 @@ Die Vertretung einer ausländischen Bank, die Finanzdienstleistungen nach Artike
 
 ## 2. Kapitel: Bewilligungen
 
-### 1. Abschnitt: Angaben zu Personen und Beteiligten im Bewilligungsgesuch und Änderung von Tatsachen****
+### 1. Abschnitt: Angaben zu Personen und Beteiligten im Bewilligungsgesuch und Änderung von Tatsachen
 
 [^chap2-sec1-1]
 
@@ -340,7 +346,7 @@ Das Gesuch um Bewilligung für eine neue Bank oder Person nach Artikel 1*b* Bank
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
-### 2. Abschnitt: Organisation der Banken****
+### 2. Abschnitt: Organisation der Banken
 
 [^chap2-sec2-1]
 
@@ -390,14 +396,14 @@ Die Bank muss tatsächlich von der Schweiz aus geleitet werden. Vorbehalten blei
 
 <sup>2</sup> Die Bank regelt die Grundzüge des Risikomanagements sowie die Zuständigkeit und das Verfahren für die Bewilligung von mit Risiko verbundenen Geschäften in einem Reglement oder in internen Richtlinien. Sie muss insbesondere Markt-, Kredit-, Ausfall-, Abwicklungs-, Liquiditäts- und Imagerisiken sowie operationelle und rechtliche Risiken erfassen, begrenzen und überwachen.
 
-<sup>2bis</sup> Die Bank stellt auf Stufe Einzelinstitut und Gruppe sicher, dass neue Verträge oder Änderungen an bestehenden Verträgen, die ausländischem Recht unterstehen oder einen ausländischen Gerichtsstand vorsehen, nur vereinbart werden, sofern die Gegenpartei einen Aufschub der Beendigung von Verträgen nach Artikel 30*a* BankG anerkennt.[^12-2]
+<sup>2bis</sup> Die Bank stellt auf Stufe Einzelinstitut und Gruppe sicher, dass neue Verträge oder Änderungen an bestehenden Verträgen, die ausländischem Recht unterstehen oder einen ausländischen Gerichtsstand vorsehen, nur vereinbart werden, sofern die Gegenpartei einen Aufschub der Beendigung von Verträgen nach Artikel 30*a* BankG anerkennt. Die FINMA kann regeln, für welche Arten von Verträgen ein solcher Aufschub erforderlich ist und für welche nicht.[^12-2]
 
 <sup>3</sup> Die interne Dokumentation der Bank über die Beschlussfassung und Überwachung der mit Risiko verbundenen Geschäfte ist so auszugestalten, dass sie der Prüfgesellschaft erlaubt, sich ein zuverlässiges Urteil über die Geschäftstätigkeit zu bilden.
 
 <sup>4</sup> Die Bank sorgt für ein wirksames internes Kontrollsystem. Sie bestellt insbesondere eine von der Geschäftsführung unabhängige interne Revision. Die FINMA kann in begründeten Einzelfällen eine Bank von der Pflicht, eine interne Revision zu bestellen, befreien.
 
 [^12-1]: Fassung des Klammerverweises gemäss Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^12-2]: Eingefügt durch Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^12-2]: Eingefügt durch Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 13
 
@@ -419,7 +425,7 @@ Die Bank muss tatsächlich von der Schweiz aus geleitet werden. Vorbehalten blei
 
 Die Privatbankiers haben die erforderlichen organisatorischen Bestimmungen in den Gesellschaftsvertrag oder in ein Reglement aufzunehmen.
 
-### 2*a*. Abschnitt:**** Organisation der Personen nach Artikel 1*b* BankG
+### 2*a*. Abschnitt: Organisation der Personen nach Artikel 1*b* BankG
 
 [^chap2-sec2a-1]
 
@@ -997,33 +1003,205 @@ Die FINMA führt die Bestimmungen dieser Verordnung zur Rechnungslegung näher a
 - b. den Besonderheiten der Konzernrechnung;
 - c. der Offenlegung von Angaben, die im von der Bank angewendeten und von der FINMA anerkannten internationalen Standard nicht vorgesehen, aber für die Beurteilung der wirtschaftlichen Lage nötig sind.
 
-## 5. Kapitel: Einlagensicherung von Banken****
+## 4*a*. Kapitel: Privilegierte Einlagen sowie privilegierte Einlegerinnen und Einleger
+
+[^chap4a-1]
+
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42a
+
+**Privilegierte Einlagen**
+
+### (Art. 37*a* Abs. 1 und 7 BankG)
+
+<sup>1</sup>
+
+Folgende Ansprüche von Einlegerinnen und Einlegern nach Artikel 42*c* gelten als privilegiert Einlagen:
+
+- a.
+
+  Forderungen gegenüber einer Bank, die:
+
+  - 1\. als Saldo auf Konten bei der Bank gebucht sind und auf eine staatliche oder von einer Zentralbank herausgegebene Währung lauten, oder
+  - 2\. auf Gold, Silber, Platin oder Palladium lauten und bei denen die Einlegerin oder der Einleger einen ausschliesslichen oder alternativen Anspruch auf Leistung in einer staatlichen oder von einer Zentralbank herausgegebenen Währung hat;
+
+- b. Kassenobligationen der Bank, die in der Bilanz der Bank als solche verbucht sind und auf den Namen der Einlegerin oder des Einlegers bei der Bank hinterlegt sind;
+- c. durch die Einlegerin oder den Einleger in Auftrag gegebene Zahlungen im Zahlungsverkehr, welche die Bank oder deren Konto bei einer Verrechnungs- oder Korrespondenzstelle im Zeitpunkt der Anordnung einer Schutzmassnahme nach Artikel 26 Absatz 1 Buchstaben e–h BankG oder des Bankenkonkurses noch nicht verlassen haben, auch wenn sie dem Konto der Einlegerin oder des Einlegers schon belastet wurden;
+- d. Zahlungen im Zahlungsverkehr zugunsten einer Einlegerin oder eines Einlegers, die bei einer Bank oder auf deren Konto bei einer Verrechnungs- oder Korrespondenzstelle vor der Anordnung einer Schutzmassnahme nach Artikel 26 Absatz 1 Buchstaben e–h BankG oder des Bankenkonkurses eingetroffen sind, auch wenn sie noch nicht dem Konto der Einlegerin oder des Einlegers gutgeschrieben wurden.
+
+<sup>2</sup> Als auf Konten gebucht im Sinne von Absatz 1 Buchstabe a Ziffer 1 gelten auch Termin- und Tagesgelder.
+
+<sup>3</sup>
+
+Keine privilegierten Einlagen sind insbesondere:
+
+- a. auf die Inhaberin oder den Inhaber lautende Forderungen;
+- b. Kassenobligationen, die nicht bei der Bank hinterlegt sind;
+- c. vertragliche und ausservertragliche Schadenersatzforderungen wie Ersatzforderungen für nicht vorhandene Depotwerte nach Artikel 16 BankG;
+- d. Ansprüche oder Ersatzforderungen aus Derivaten;
+- e. nachrichtenlose Vermögenswerte;
+- f. Forderungen gegenüber der Bank, die nicht aus dem Bankgeschäft stammen.
+
+#### Art. 42b
+
+**Privilegierter Betrag**
+
+### (Art. 37*a* Abs. 1 und 7 sowie 37*b* Abs. 1 BankG)
+
+<sup>1</sup> Zur Feststellung der Höhe des nach Artikel 37*a* Absatz 1 BankG privilegierten Betrags der privilegierten Einlagen werden die einzelnen Saldi einschliesslich der aufgelaufenen Zinsen zugunsten der Einlegerin oder des Einlegers addiert.
+
+<sup>2</sup> Hypotheken, Darlehen oder in anderen Konti vorliegende Überzüge sowie nicht gebuchte Zinsen und Gebühren zugunsten der Bank dürfen nicht berücksichtigt werden, unabhängig davon, ob sie aufgelaufen, fällig oder verfallen sind.
+
+#### Art. 42c
+
+**Privilegierte Einlegerinnen und Einleger**
+
+### (Art. 37*a* Abs. 7 BankG)
+
+<sup>1</sup> Als privilegierte Einlegerin oder privilegierter Einleger gelten die aus dem Forderungsverhältnis mit der Bank berechtigte Vertragspartei oder die Einlegerin oder der Einleger der Kassenobligation, wie sie im Zeitpunkt der Anordnung von einer Schutzmassnahme nach Artikel 26 Absatz 1 Buchstaben e–h BankG oder des Bankenkonkurses aus den Büchern der Bank ersichtlich sind.
+
+<sup>2</sup>
+
+Nicht als privilegierte Einlegerinnen oder Einleger gelten:
+
+- a. Finanzintermediäre nach dem BankG, dem Finanzinstitutsgesetz vom 15. Juni 2018[^42c-1] (FINIG) und dem Kollektivanlagengesetz vom 23. Juni 2006[^42c-2];
+- b. Versicherungsunternehmen nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^42c-3];
+- c. ausländische Kunden, die einer prudenziellen Aufsicht unterstehen wie die Finanzintermediäre oder Versicherungsunternehmen nach den Buchstaben a und b;
+- d. Zentralbanken;
+- e. Bankstiftungen als Vorsorgeeinrichtungen nach Artikel 82 des Bundesgesetzes vom 25. Juni 1982[^42c-4] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (Säule-3a-Stiftungen) und Freizügigkeitsstiftungen als Freizügigkeitseinrichtung nach dem Freizügigkeitsgesetz vom 17. Dezember 1993[^42c-5] (Freizügigkeitsstiftungen);
+- f. Kundinnen und Kunden von Wertpapierhäusern, die selbst keine Konten nach Artikel 44 Absatz 1 Buchstabe a FINIG führen.
+
+<sup>3</sup> Steht eine Forderung einer Personenmehrheit zu, so gilt diese als eine eigene, von den einzelnen Personen der Personenmehrheit unabhängige Einlegerin. Die Personenmehrheit kann den Höchstbetrag von Artikel 37*a* Absatz 1 BankG nur einmal für die gesamte Personenmehrheit geltend machen.
+
+<sup>4</sup> Hält eine Einlegerin oder ein Einleger privilegierte Einlagen bei einer ausländischen Geschäftsstelle der Bank, so gilt sie oder er für diese Einlagen als eigene, unabhängige Einlegerin beziehungsweise als eigener, unabhängiger Einleger.
+
+[^42c-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^42c-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^42c-3]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^42c-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^42c-5]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+
+#### Art. 42d
+
+**Privilegierte Forderungen von Säule-3a- und Freizügigkeitsstiftungen**
+
+### (Art. 37*a* Abs. 5 BankG)
+
+<sup>1</sup> Banken, die Geldanlagen einer Säule-3a- oder Freizügigkeitsstiftung halten, müssen sich von der Stiftung schriftlich bestätigen lassen, dass diese die Verteilung der privilegierten Einlagen der Vorsorgenehmerinnen und Vorsorgenehmer und der Versicherten dokumentiert, wenn sie Geldanlagen bei mehreren Banken hat.
+
+<sup>2</sup> Vorsorgerechtliche Ansprüche der Vorsorgenehmerin oder des Vorsorgenehmers gegenüber verschiedenen Säule-3a- und Freizügigkeitsstiftungen, die Einlagen bei der gleichen Bank haben, werden nicht zusammengezählt.
+
+## 5. Kapitel: Einlagensicherung von Banken
 
 [^chap5-1]
 
 [^chap5-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
+#### Art. 42e
+
+**Anschluss an die Selbstregulierung**[^42e-1]
+
+### (Art. 37*h* Abs. 1 BankG)
+
+Die Bank muss dem Träger der Einlagensicherung das Gesuch um Anschluss mindestens drei Monate vor Entgegennahme von privilegierten Einlagen einreichen.
+
+[^42e-1]: Eingefügt Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42f
+
+**Bardarlehen an den Träger der Einlagensicherung**[^42f-1]
+
+### (Art. 37*h* Abs. 3 Bst. c Ziff. 2 BankG)
+
+Die Möglichkeit, dem Träger der Einlagensicherung zur Sicherstellung der Beitragsverpflichtung Bardarlehen zu gewähren, steht den Banken der Kategorien 4 und 5 zur Verfügung.
+
+[^42f-1]: Eingefügt Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42g
+
+**Vorbereitungshandlungen: Allgemeine Bestimmungen**[^42g-1]
+
+### (Art. 37*h* Abs. 3 Bst. d und 4 BankG)
+
+Banken müssen im Rahmen ihrer ordentlichen Geschäftstätigkeit folgende Vorbereitungen treffen, um die Erstellung des Auszahlungsplans, die Kontaktierung der Einlegerinnen und Einleger und die Auszahlung nach den Vorgaben des BankG zu gewährleisten:
+
+- a. Infrastruktur: Sie stellen sicher, dass ein der Anzahl der Einlegerinnen und Einleger angemessenes Informatik-System und das nötige Personal zur Verfügung stehen. Es muss gewährleistet sein, dass allfällige Dienstleistungsverträge in diesem Rahmen aufrechterhalten bleiben.
+- b. Prozesse: Sie legen standardisierte Abläufe fest, die insbesondere gewährleisten, dass innerhalb der gesetzlichen Fristen die Einlegerinnen und Einleger kontaktiert, deren Zahlungsinstruktionen eingeholt und diese verarbeitet werden können.
+- c. Einlegerliste: Sie führen eine Einlegerliste (Art. 42*i* Abs. 1), die es der oder dem Untersuchungs- oder Sanierungsbeauftragten oder der Konkursliquidatorin oder dem Konkursliquidator (Beauftragte oder Beauftragter) ermöglicht, innert 72 Stunden nach Anordnung einer Schutzmassnahme nach Artikel 26 Absatz 1 Buchstaben e–h BankG oder des Bankenkonkurses die gesicherten Einlagen pro Einlegerin oder Einleger festzustellen.
+- d. Summarische Aufstellung: Sie führen eine summarische Aufstellung der privilegierten Einlagen, die nicht zu den gesicherten Einlagen gehören (Art. 42*i* Abs. 2). Einlagen bei ausländischen Geschäftsstellen sind als Gesamtsaldo der privilegierten Einlagen für die jeweilige Jurisdiktion auszuweisen.
+
+[^42g-1]: Eingefügt Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42h
+
+**Vorbereitungshandlungen: Besondere Bestimmungen für systemrelevante Banken und für Kleinbanken**[^42h-1]
+
+<sup>1</sup> Systemrelevante Banken müssen die Vorbereitungshandlungen nach Artikel 42*g* Buchstaben a und b nicht vornehmen. Stattdessen müssen sie ein Konzept erstellen, das darlegt, wie sie beim Scheitern einer Sanierung die Anforderungen nach Artikel 42*g* Buchstaben a und b erfüllen können. Im Rahmen der Sanierung legt die FINMA bankenspezifisch entsprechend der konkreten Entwicklung der Sanierung fest, ab welchem Zeitpunkt die Bank die Anforderungen gemäss Konzept erfüllen muss. Sie berücksichtigt dabei das Geschäftsmodell und die Liquiditätssituation der Bank sowie die Anzahl der betroffenen Einlegerinnen und Einleger.
+
+<sup>2</sup> Banken mit weniger als 2500 Einlegerinnen und Einlegern müssen nur eine Einlegerliste und eine summarische Aufstellung führen.
+
+[^42h-1]: Eingefügt Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 42i
+
+**Einlegerliste und summarische Aufstellung**[^42i-1]
+
+### (Art. 37*h* Abs. 4 Bst. c und d BankG)
+
+<sup>1</sup> Die Einlegerliste umfasst den Bestand aller gesicherten Einlagen der einzelnen Einlegerinnen und Einleger bei schweizerischen Geschäftsstellen der Bank.
+
+<sup>2</sup>
+
+In der summarischen Aufstellung werden die privilegierten Einlagen aufgeführt, die nicht zu den gesicherten Einlagen gehören; sie umfassen:
+
+- a. Einlagen nach Artikel 37*a* Absatz 1 BankG, bei einer ausländischen Geschäftsstelle der Bank;
+- b. Einlagen nach Artikel 37*a* Absatz 5 BankG;
+- c. Einlagen nach Artikel 42*a* Absatz 1 Buchstaben c und d.
+
+<sup>3</sup> Der Träger der Einlagensicherung gibt das Format der Einlegerliste vor.
+
+[^42i-1]: Eingefügt Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
 #### Art. 43
 
-**Auszahlungsplan**
+**Auszahlungsplan**[^43-1]
 
 ### (Art. 37*j* BankG)
 
-<sup>1</sup> Der von der FINMA eingesetzte Untersuchungsbeauftragte, Sanierungsbeauftragte oder Konkursliquidator (Beauftragter) erstellt einen Auszahlungsplan mit den aus den Büchern ersichtlichen Forderungen, die nach Artikel 37*h* Absatz 1 BankG als gesicherte Einlagen gelten und nicht nach Artikel 37*b* BankG ausbezahlt werden (Auszahlungsplan)
+<sup>1</sup> Die oder der von der FINMA eingesetzte Beauftragte oder Beauftragter ist nicht verpflichtet, die aufgrund der Einlegerliste in den Auszahlungsplan aufzunehmenden Forderungen zu prüfen. Offensichtlich unberechtigte Forderungen werden nicht in den Auszahlungsplan aufgenommen.
 
-<sup>2</sup> Der Beauftragte ist nicht verpflichtet, die aufgrund der Bücher in den Auszahlungsplan aufzunehmenden Forderungen zu prüfen. Offensichtlich unberechtigte Forderungen werden nicht in den Auszahlungsplan aufgenommen.
+<sup>2</sup> Bestehen Anhaltspunkte dafür, dass die Bücher nicht ordnungsgemäss geführt wurden, so kann die oder der Beauftragte die Einlegerinnen und Einleger auffordern, die Berechtigung ihrer Forderung nachzuweisen.
 
-<sup>3</sup> Bestehen Anhaltspunkte dafür, dass die Buchführung nicht ordnungsgemäss geführt wurde, so kann der Beauftragte die Einlegerinnen und Einleger auffordern, die Berechtigung ihrer Forderung nachzuweisen. Die FINMA regelt die Einzelheiten.
+[^43-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 44
 
-**Auszahlung der gesicherten Einlagen**
+**Auszahlung der privilegierten Einlagen**[^44-1]
 
-### (Art. 37*j* Abs. 1 BankG)
+### (Art. 37*b* Abs. 1 und Art. 37*j* BankG)
 
-<sup>1</sup> Der Beauftragte zahlt den Einlegerinnen und Einlegern gestützt auf den Auszahlungsplan die gesicherten Einlagen aus, sobald er den Betrag erhalten hat, den ihm der Träger der Einlagensicherung nach Artikel 37*i* Absatz 2 BankG überweist.
+<sup>1</sup> Die oder der Beauftragte zahlt den Einlegerinnen und Einlegern gestützt auf den Auszahlungsplan die privilegierten Einlagen aus.
 
-<sup>2</sup> Genügt dieser Betrag dem Beauftragten nicht zur Befriedigung sämtlicher in den Auszahlungsplan aufgenommener Forderungen, so werden die gesicherten Einlagen anteilsmässig ausgezahlt.
+<sup>2</sup> Genügen die verfügbaren Mittel nicht zur Befriedigung sämtlicher in den Auszahlungsplan aufgenommener Forderungen, so werden die privilegierten Einlagen anteilsmässig ausgezahlt.
+
+<sup>3</sup> An Dritte verpfändete oder sicherungszedierte Einlagen oder Einlagen auf Mietkautionskonten werden ausbezahlt, wenn die Person, deren Anspruch gesichert wird, zustimmt oder wenn die Auszahlung gesetzlich oder vertraglich zulässig ist.
+
+<sup>4</sup> Die Forderungen der Säule-3a- und der Freizügigkeitsstiftungen werden an die betreffenden Stiftungen ausbezahlt.
+
+[^44-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 44a
+
+**Information des Trägers der Einlagensicherung**[^44a-1]
+
+### (Art. 37*i* BankG)
+
+<sup>1</sup> Die Information nach Artikel 37*i* BankG durch die FINMA an den Träger der Einlagensicherung erfolgt soweit möglich vorab.
+
+<sup>2</sup> Der Träger der Einlagensicherung stellt den Schutz der Vertraulichkeit sicher und regelt den Umgang mit Interessenkonflikten.
+
+[^44a-1]: Eingefügt Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 ## 6. Kapitel: Nachrichtenlose Vermögenswerte
 
@@ -1326,7 +1504,21 @@ Eine systemrelevante Bank erfüllt die Eigenmittelvorschriften nach Artikel 25 A
 
 [^63-1]: Fassung gemäss Beilage Ziff. 1 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
-### 2. Abschnitt: Verbesserung der Sanier- und Liquidierbarkeit
+#### Art. 63a
+
+**Absicherungsgeschäfte im Zusammenhang mit Bail-in-Bonds**[^63a-1]
+
+### (Art. 30*b* Abs. 8 BankG)
+
+Verbindlichkeiten aus Absicherungsgeschäften im Zusammenhang mit der Ausgabe von Bail-in-Bonds sind bei der Berechnung der 5 %-Obergrenze nach Artikel 30*b* Absatz 8 BankG nicht zu berücksichtigen.
+
+[^63a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+### 2. Abschnitt: Sanier- und Liquidierbarkeit
+
+[^chap7-sec2-1]
+
+[^chap7-sec2-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 64
 
@@ -1342,56 +1534,114 @@ Eine systemrelevante Bank erfüllt die Eigenmittelvorschriften nach Artikel 25 A
 
 <sup>4</sup> Die systemrelevante Bank reicht der FINMA jährlich bis zum Ende des zweiten Quartals den Stabilisierungsplan und die für den Abwicklungsplan erforderlichen Informationen ein. Dieselben Dokumente sind auch einzureichen, wenn Veränderungen ihre Überarbeitung notwendig machen oder wenn die FINMA dies verlangt.
 
-<sup>5</sup> Sie beschreibt bei der Einreichung, welche der in Artikel 66 aufgeführten Massnahmen zur Verbesserung der Sanier- und Liquidierbarkeit im In- und Ausland sie vorbereitet oder bereits umgesetzt hat.
+<sup>5</sup> Eine nach Artikel 124*a* ERV[^64-1] international tätige systemrelevante Bank muss bei der Einreichung dokumentieren, welche Massnahmen sie vorbereitet oder umgesetzt hat, um die in Artikel 65a Absatz 2 aufgeführten Kriterien für die Sanier- und Liquidierbarkeit im In- und Ausland zu erfüllen.[^64-2]
+
+[^64-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^64-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 65
 
-**Rabatte auf den zusätzlichen verlustabsorbierenden Mitteln**[^65-1]
+**Aufrechterhaltung der Sanier- und Liquidierbarkeit von international tätigen systemrelevanten Banken im In- und Ausland**[^65-1]
 
-### (Art. 10 Abs. 3 BankG)
+### (Art. 9 und 25–37*k* BankG)
 
-<sup>1</sup> Die FINMA gewährt Rabatte auf den zusätzlichen Mitteln nach den Artikeln 132 und 133 ERV[^65-2], soweit die systemrelevante Bank mit Massnahmen nach Artikel 66 ihre Sanier- und Liquidierbarkeit im In- und Ausland mit hoher Wahrscheinlichkeit verbessert. Sie berücksichtigt dabei, wie weit diese Massnahmen im In- und Ausland umgesetzt worden sind.
+Eine nach Artikel 124*a* ERV[^65-2] international tätige systemrelevante Bank muss ihre Sanier- und Liquidierbarkeit im In- und Ausland aufrechterhalten.
 
-<sup>2</sup> Dies gilt nicht für die Erfüllung der Anforderungen von Artikel 9 Absatz 2 Buchstabe d BankG[^65-3].
-
-[^65-1]: Fassung gemäss Beilage Ziff. 1 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^65-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^65-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^65-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+
+#### Art. 65a
+
+**Beurteilung der Sanier- und Liquidierbarkeit von international tätigen systemrelevanten Banken im In- und Ausland**[^65a-1]
+
+### (Art. 9 und 25–37*k* BankG)
+
+<sup>1</sup> Die FINMA beurteilt jährlich die Sanier- und Liquidierbarkeit der international tätigen systemrelevanten Bank im In- und Ausland auf der Grundlage der eingereichten Dokumentation.
+
+<sup>2</sup>
+
+Die FINMA nimmt ihre Beurteilung insbesondere anhand folgender Kriterien vor:
+
+- a. Die Bank hat eine Organisationsstruktur, die die Sanierung und Liquidation erleichtert.
+- b. Die Bank hat Verfahren festgelegt, mit denen sie Verluste, die in den einzelnen Einheiten der Finanzgruppe entstehen, durch Rekapitalisierungsmassnahmen ausgleichen kann.
+- c. Die Bank ist ständig in der Lage, den Liquiditätsbedarf für den Fall einer Sanierung oder Liquidation abzuschätzen und die Möglichkeiten zur Deckung des entsprechenden Bedarfs zu analysieren, und sie gewährleistet die Bewirtschaftung der in der Finanzgruppe verfügbaren Sicherheiten.
+- d. Die Bank gewährleistet die operationelle Kontinuität im Fall einer Sanierung.
+- e. Die Bank gewährleistet den Zugang zu den Finanzmarktinfrastrukturen im Fall einer Sanierung.
+- f. Die Bank gestaltet vertikale gruppeninterne Finanzierungen zu Drittbedingungen aus und unterhält keine wesentlichen horizontalen gruppeninternen Finanzierungen.
+- g. Die Bank verfügt ständig über die Fähigkeit zur sofortigen Durchführung der notwendigen Bewertungen und Berichterstattungen für den Fall einer Sanierung.
+- h. Die Bank gewährleistet die operativen Voraussetzungen für die Sanierung durch eine Forderungsreduktion oder Wandlung von Fremd- in Eigenkapital unter Gläubigerbeteiligung.
+- i. Die Bank verfügt über eine Strategie mit verschiedenen Optionen zur Restrukturierung des Geschäftsmodells.
+
+[^65a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 65b
+
+**Massnahmen der FINMA bei Hindernissen für die Sanier- und Liquidierbarkeit von international tätigen systemrelevanten Banken**[^65b-1]
+
+### (Art. 9 und 25–37k BankG)
+
+<sup>1</sup>
+
+Stellt die FINMA bei einer international tätigen systemrelevanten Bank Hindernisse für die Sanier- und Liquidierbarkeit im In- und Ausland fest, so setzt sie eine Frist, innert der die Hindernisse zu beseitigen sind. Beseitigt die Bank diese nicht innert der Frist, so kann die FINMA für Einheiten nach Artikel 124 Absatz 3 Buchstaben b–d ERV[^65b-2] Folgendes festlegen:
+
+- a. ergänzende zusätzliche verlustabsorbierende Mittel nach Artikel 133 ERV;
+- b. einen Zuschlag nach Artikel 25 Absatz 1 LiqV[^65b-3], wenn das Hindernis das Kriterium nach Artikel 65*a* Absatz 2 Buchstabe c betrifft.
+
+<sup>2</sup> Die FINMA kann ausländische Aufsichts- und Insolvenzbehörden konsultieren und die Beurteilung dieser Behörden bei der Beurteilung der Sanier- und Liquidierbarkeit und bei der Festlegung von Massnahmen berücksichtigen.
+
+[^65b-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^65b-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^65b-3]: [SR 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+
+### 3. Abschnitt: Information der Öffentlichkeit
+
+[^chap7-sec3-1]
+
+[^chap7-sec3-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 66
 
-**Massnahmen zur Verbesserung der Sanier- und Liquidierbarkeit**
+[^66-1]
 
-### (Art. 10 Abs. 3 BankG)
+Die FINMA veröffentlicht jährlich ihre Beurteilung der Notfallplanung und der Stabilisierungsplanung der systemrelevanten Banken sowie der Sanier- und Liquidierbarkeit im In- und Ausland der international tätigen systemrelevanten Banken und informiert über den Stand der Abwicklungsplanung. Sie orientiert dabei über die wesentlichen Feststellungen.
 
-Massnahmen zur Verbesserung der Sanier- und Liquidierbarkeit der Bank können insbesondere umfassen:
+[^66-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
-- a.
+### 4. Abschnitt: Wesentliche Gruppengesellschaften systemrelevanter Banken mit Sitz in der Schweiz
 
-  strukturelle Verbesserungen und Entflechtungen durch:
+[^chap7-sec4-1]
 
-  - 1\. Ausrichtung der Rechtsstruktur nach Geschäftseinheiten (*bus**i**ness-aligned legal entities*),
-  - 2\. Bildung rechtlich selbstständiger Dienstleistungseinheiten,
-  - 3\. Eliminierung oder Verminderung faktischer Beistandszwänge, insbesondere durch Bildung einer unabhängigen Führungsstruktur,
-  - 4\. Reduktion geografischer oder bilanzieller Asymmetrien;
+[^chap7-sec4-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
-- b.[^66-1]
+#### Art. 66a
 
-  finanzielle Entflechtungen zur Begrenzung der Ansteckungsrisiken durch:
+**Kapital und Liquidität**
 
-  - 1\. Reduktion der Kapitalbeteiligungen unter den juristischen Einheiten auf gleicher Ebene,
-  - 2\. Beschränkung der Gewährung unbesicherter Kredite und Garantien unter juristischen Einheiten auf gleicher Ebene innerhalb der Finanzgruppe,
-  - 3\. Schaffung einer Anreizstruktur zu möglichst marktnaher konzerninterner Finanzierung;
+### (Art. 3*g* Abs. 3 und 4 BankG)
 
-- c.
+<sup>1</sup> Die wesentlichen Gruppengesellschaften einer systemrelevanten Bank, die Sitz in der Schweiz haben, sind angemessen mit Kapital und Liquidität auszustatten.
 
-  operative Entflechtung zur Sicherung von Daten und zur Weiterführung wichtiger betrieblicher Dienstleistungen durch:
+<sup>2</sup> Die FINMA setzt die Höhe fest unter Berücksichtigung der voraussichtlichen Dauer einer Sanierung und mit Blick auf Umfang und Art der wesentlichen Dienstleistungen, die während der Sanierung zu erbringen sind.
 
-  - 1\. Gewährleistung des Zugriffs auf und des Einsatzes von Datenbeständen, Datenbanken und Informatikmitteln,
-  - 2\. Separierung wesentlicher Funktionen oder deren nachhaltige Auslagerung,
-  - 3\. Zugang zu und Weiternutzung von für den Geschäftsbetrieb wesentlichen Systemen.
+#### Art. 66b
 
-[^66-1]: Fassung gemäss Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+**Organisation**
+
+### (Art. 3*g* Abs. 3 und 4 BankG)
+
+Die Leitungsorgane wesentlicher Gruppengesellschaften einer systemrelevanten Bank, die Sitz in der Schweiz haben, so zu besetzen, dass Interessenkonflikte möglichst vermieden und die Interessen der wesentlichen Gruppengesellschaft im Fall eines Interessenkonflikts innerhalb der Finanzgruppe gewahrt werden.
+
+#### Art. 66c
+
+**Gewährleistung dauerhafter Dienstleistungserbringung**
+
+### (Art. 3*g* Abs. 3 und 4 BankG)
+
+Wesentliche Gruppengesellschaften einer systemrelevanten Bank, die Sitz in der Schweiz haben, sind so zu organisieren, dass sie ihre wesentlichen Dienstleistungen zugunsten der Finanzgruppe im Fall einer Sanierung oder einer Liquidation weiterhin erbringen können. Insbesondere müssen sie:
+
+- a. diese Dienstleistungen in einem Leistungskatalog inventarisieren;
+- b. Verträge mit externen Dienstleistungserbringern, die mit der Erbringung dieser Dienstleistungen im Zusammenhang stehen, sanierungs- und konkursfest ausgestalten und die Übertragbarkeit der Verträge sicherstellen;
+- c. Abhängigkeiten von internen und externen Dienstleistungserbringern im Ausland durch geeignete Massnahmen begrenzen.
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -1401,7 +1651,7 @@ Massnahmen zur Verbesserung der Sanier- und Liquidierbarkeit der Bank können in
 
 Die Bankenverordnung vom 17. Mai 1972[^67-1] wird aufgehoben.
 
-[^67-1]: [**1972** 821, **1989** 1772, **1995** 253, **1996** 45 3094, **1997** 85 Art. 57 Ziff. 1, **1998** 16, **2003** 4077, **2004** 2777 2875, **2005** 4849, **2006** 4307 Anhang 7 Ziff. 1, **2008** 1199 5363 Anhang Ziff. 7, **2009** 5279, **2011** 3931, **2012** 5435 5441 Anhang 6 Ziff. 2 7251 Art. 32]
+[^67-1]: [**1972** 821; **1989** 1772; **1995** 253; **1996** 45, 3094; **1997** 85 Art. 57 Ziff. 1; **1998** 16; **2003** 4077; **2004** 2777, 2875; **2005** 4849; **2006** 4307 Anhang 7 Ziff. 1; **2008** 1199, 5363 Anhang Ziff. 7; **2009** 5279; **2011** 3931; **2012** 5435, 5441 Anhang 6 Ziff. 2, 7251 Art. 32]
 
 #### Art. 68
 
@@ -1426,6 +1676,16 @@ Die Änderung anderer Erlasse wird im Anhang 2 geregelt.
 [^69-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 [^69-2]: Fassung gemäss Beilage Ziff. 1 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^69-3]: Eingefügt durch Anhang 1 Ziff. 11 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+
+#### Art. 69a
+
+**Übergangsbestimmung zur Änderung vom 23. November 2022**[^69a-1]
+
+<sup>1</sup> Die Banken müssen die Pflicht nach Artikel 37*h* Absatz 3 Buchstabe c BankG zur Hinterlegung in Form von Wertschriften oder in bar oder die Gewährung des Bardarlehens innert 11 Monaten nach Inkrafttreten der Änderung vom 23. November 2022 erfüllt haben.
+
+<sup>2</sup> Die international tätigen systemrelevanten Banken müssen die Dokumentation nach Artikel 64 Absatz 5 erstmals Ende Juni 2024 einreichen.
+
+[^69a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 70
 
@@ -1652,38 +1912,24 @@ Anhang 2
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)konsultiert werden.
 
-Anhang 3*[^t-1]*
+Anhang 3[^t-1]
 
 (Art. 2 Abs. 2 und 3)
 
 ## Kategorisierung der Banken
 
-[^t-1]: Eingefügt durch Beilage Ziff. 1 der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^t-1]: Eingefügt durch Beilage Ziff. 1 der V vom 11. Mai 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
-<tr><th>Kategorie</th><th colspan="3">Kriterien (in CHF Mrd.)</th><th></th><th></th></tr>
-<tr><td>1</td><td>Bilanzsumme</td><td>&gt;</td><td colspan="3">250</td></tr>
-<tr><td></td><td>Verwaltete Vermögen</td><td>&gt;</td><td colspan="3">1000</td></tr>
-<tr><td></td><td>Privilegierte Einlagen</td><td>&gt;</td><td colspan="3">30</td></tr>
-<tr><td></td><td>Mindesteigenmittel</td><td>&gt;</td><td colspan="3">20</td></tr>
-<tr><td>2</td><td>Bilanzsumme</td><td>&gt;</td><td colspan="3">100</td></tr>
-<tr><td></td><td>Verwaltete Vermögen</td><td>&gt;</td><td colspan="3">500</td></tr>
-<tr><td></td><td>Privilegierte Einlagen</td><td>&gt;</td><td colspan="3">20</td></tr>
-<tr><td></td><td>Mindesteigenmittel</td><td>&gt;</td><td colspan="3">2</td></tr>
-<tr><td>3</td><td>Bilanzsumme</td><td>&gt;</td><td colspan="3">15</td></tr>
-<tr><td></td><td>Verwaltete Vermögen</td><td>&gt;</td><td colspan="3">20</td></tr>
-<tr><td></td><td>Privilegierte Einlagen</td><td>&gt;</td><td colspan="3">0,5</td></tr>
-<tr><td></td><td>Mindesteigenmittel</td><td>&gt;</td><td colspan="3">0,25</td></tr>
-<tr><td>4</td><td>Bilanzsumme</td><td>&gt;</td><td colspan="3">1</td></tr>
-<tr><td></td><td>Verwaltete Vermögen</td><td>&gt;</td><td colspan="3">2</td></tr>
-<tr><td></td><td>Privilegierte Einlagen</td><td>&gt;</td><td colspan="3">0.1</td></tr>
-<tr><td></td><td>Mindesteigenmittel</td><td>&gt;</td><td colspan="3">0,05</td></tr>
-<tr><td>5</td><td>Bilanzsumme</td><td>&lt;</td><td colspan="3">1</td></tr>
-<tr><td></td><td>Verwaltete Vermögen</td><td>&lt;</td><td colspan="3">2</td></tr>
-<tr><td></td><td>Privilegierte Einlagen</td><td>&lt;</td><td colspan="3">0.1</td></tr>
-<tr><td></td><td>Mindesteigenmittel</td><td>&lt;</td><td colspan="3">0,05</td></tr>
+<tr><th></th><th colspan="2">Kriterien sowie Schwellenwerte in Mrd. CHF</th><th></th><th></th><th></th></tr>
+<tr><th>Kategorie</th><th>Bilanzsumme</th><th colspan="2">Verwaltete Vermögen</th><th>Privilegierte Einlagen</th><th>Mindesteigenmittel</th></tr>
+<tr><td>1</td><td>&gt; 280</td><td colspan="2">&gt; 1625</td><td>&gt; 32</td><td>&gt; 20</td></tr>
+<tr><td>2</td><td>&gt; 115</td><td colspan="2">&gt; 815</td><td>&gt; 21,5</td><td>&gt; 2</td></tr>
+<tr><td>3</td><td>&gt; 17</td><td colspan="2">&gt; 32,5</td><td>&gt; 0,53</td><td>&gt; 0,25</td></tr>
+<tr><td>4</td><td>&gt; 1,125</td><td colspan="2">&gt; 3,25</td><td>&gt; 0,105</td><td>&gt; 0,05</td></tr>
+<tr><td>5</td><td>&lt; 1,125</td><td colspan="2">&lt; 3,25</td><td>&lt; 0,105</td><td>&lt; 0,05</td></tr>
 </table>
