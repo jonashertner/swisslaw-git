@@ -4,13 +4,13 @@ number: "773.211"
 title: Energieverordnung
 short: EnergieV
 language: de
-version: 2014-06-30
-valid_until: 2022-12-31
-version_adopted: 2014-05-14
+version: 2023-01-01
+valid_until: 2024-06-30
+version_adopted: 2022-12-21
 adopted: 2012-07-04
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3201/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3276/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3201/pdf_file"
 
 (EnergieV)
 
-Vom 04.07.2012 (Stand 30.06.2014)
+Vom 04.07.2012 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -58,7 +58,7 @@ beschliesst:
 
 **Begriffe**
 
-<sup>1</sup> Die Begriffsdefinitionen in Art. 1 der bundesrätlichen Energieverordnung (EnV) vom 7. Dezember 1998[^2-1] und in Ziff. 1 der Norm des Schweizerischen Ingenieur- und Architektenvereins (SIA) 380/1 «Thermische Energie im Hochbau» (Anhang 1) gelten ebenfalls für die in dieser Verordnung verwendeten Begriffe.
+<sup>1</sup> Die Begriffsdefinitionen in Ziff. 1 der Norm des Schweizerischen Ingenieur- und Architektenvereins (SIA) 380/1 «Heizwärmebedarf» (Anhang 1) gelten ebenfalls für die in dieser Verordnung verwendeten Begriffe.
 
 <sup>2</sup> Darüber hinaus bedeuten:
 
@@ -67,8 +67,6 @@ beschliesst:
 - c) Ausstattung und Ausrüstung, haustechnische Anlagen: energierelevante Installationen, die im Zusammenhang mit einer Baute oder Anlage stehen,
 - d) vom Umbau betroffen: ein Bauteil gilt als «vom Umbau betroffen», wenn an ihm mehr als blosse Oberflächen-Auffrischungs- oder Reparaturarbeiten vorgenommen werden,
 - e) von der Umnutzung betroffen: ein Bauteil gilt als «von der Umnutzung betroffen», wenn daran durch die Umnutzung die Temperaturdifferenz aufgrund der Standardnutzung verändert wird.
-
-[^2-1]: SR [730.01](https://db.clex.ch/link/Bund/730.01/de)
 
 #### § 3
 
@@ -86,7 +84,7 @@ beschliesst:
 
 **Raumlufthygiene**
 
-<sup>1</sup> Die Bauten müssen gemäss der Norm SIA 180 «Wärme- und Feuchteschutz im Hochbau» (Anhang 1) mit Aussenluft genügend belüftet werden, so dass eine Anreicherung von Schad- und Geruchsstoffen und Bauschäden durch zu hohe Raumfeuchte vermieden wird.
+<sup>1</sup> Die Bauten müssen gemäss der Norm SIA 180 «Wärmeschutz, Feuchteschutz und Raumklima in Gebäuden» (Anhang 1) mit Aussenluft genügend belüftet werden, so dass eine Anreicherung von Schad- und Geruchsstoffen und Bauschäden durch zu hohe Raumfeuchte vermieden wird.
 
 #### § 5
 
@@ -94,7 +92,7 @@ beschliesst:
 
 <sup>1</sup> Die Anforderungen an den Wärmeschutz von Bauten und Anlagen richten sich – ausser bei Kühlräumen, Gewächshäusern, Traglufthallen und Geflügelställen – nach den Absätzen 2–6.
 
-<sup>2</sup> Für den Nachweis eines ausreichenden Wärmeschutzes gilt die Norm SIA 380/1 «Thermische Energie im Hochbau» (Anhang 1).
+<sup>2</sup> Für den Nachweis eines ausreichenden Wärmeschutzes gilt die Norm SIA 380/1 «Heizwärmebedarf» (Anhang 1).
 
 <sup>3</sup> Der Nachweis, dass Einzelanforderungen an die Wärmedämmung der einzelnen Teile der Gebäudehülle erfüllt sind, erfolgt
 
@@ -259,7 +257,7 @@ beschliesst:
 
 **Grenzwerte für den Elektrizitätsbedarf**
 
-<sup>1</sup> Bei Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (EBF) von mehr als 1'000 m² muss nach der Norm SIA 380/4 «Elektrische Energie im Hochbau» (Anhang 1) nachgewiesen werden, dass der jährliche Elektrizitätsbedarf die Grenzwerte für die Beleuchtung E’Li und entweder für die Lüftung E’V oder für die Lüftung/Klimatisierung E’VCH nicht überschreitet. Davon ausgenommen sind Wohnbauten oder Teile davon.
+<sup>1</sup> Bei Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (EBF) von mehr als 1'000 m² muss nach der Norm SIA 387/4 «Elektrizität in Gebäuden – Beleuchtung: Berechnung und Anforderungen» (Anhang 1) nachgewiesen werden, dass der jährliche Elektrizitätsbedarf die Grenzwerte für die Beleuchtung E’Li nicht überschreitet. Der Nachweis für die Einhaltung der Grenzwerte des jährlichen Elektrizitätsbedarfs für die Lüftung E’V oder für die Lüftung/Klimatisierung E’VCH ist weiterhin entsprechend der Norm SIA 380/4 «Elektrische Energie im Hochbau», Ausgabe 2006, zu erbringen. Davon ausgenommen sind Wohnbauten oder Teile davon sowie Bauten, für die das Minergie-Label zugesichert und erteilt wurde.
 
 <sup>2</sup> Auf den Nachweis der Einhaltung des jeweiligen Grenzwerts für den jährlichen Elektrizitätsbedarf kann verzichtet werden:
 
@@ -358,6 +356,27 @@ JKfossil ≤ fU x JKnichtfossil.
 **Beheizte Freiluftbäder**
 
 <sup>1</sup> Als Freiluftbäder gelten Wasserbecken mit einem Inhalt von mehr als 8 m³.
+
+#### § 26a
+
+**Pflicht zur Nutzung der Sonnenenergie bei Gebäuden[^26a-1]**
+
+<sup>1</sup> Beim Bau neuer Gebäude, ausgenommen Traglufthallen, Gewächshäuser mit verglastem Dach und Folientunnel, ist auf den Dächern oder an den Fassaden eine Photovoltaik- oder eine Solarthermieanlage zu erstellen, wenn die anrechenbare Gebäudefläche[^26a-2] gesamthaft mehr als 300 m² beträgt.
+
+<sup>2</sup> Die Anlage muss wenigstens so gross sein, dass die Photovoltaikmodule und die verglasten, selektiv beschichteten Absorber der thermischen Solarkollektoren eine Fläche von gesamthaft 20 % der anrechenbaren Gebäudefläche ergeben.
+
+<sup>3</sup> Die Bauherrschaft wird von dieser Pflicht befreit, soweit eine Erstellung
+
+- a) gemäss fachlicher Beurteilung aus Ortsbild- oder Landschaftsschutzgründen in Zonen mit erhöhten Anforderungen an das Orts- und Landschaftsbild unzulässig ist oder
+- b) wirtschaftlich unverhältnismässig ist; sie ist dafür nachweispflichtig.
+
+<sup>4</sup> Wirtschaftlich unverhältnismässig ist die Erstellung, wenn
+
+- a) die Photovoltaikanlage gemäss der durch das Departement Bau, Verkehr und Umwelt zur Verfügung gestellten Berechnungshilfe innert 25 Jahren nicht amortisiert werden kann oder
+- b) ein jährlicher Energieertrag mit Photovoltaik von wenigstens 70 kWh/m² und mit Solarthermie von wenigstens 200 kWh/m² nicht erreicht werden kann.
+
+[^26a-1]: Gemäss dem Energiegesetz des Bundes (EnG), Änderung vom 30. September 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), ist die Vorschrift bis 31. Dezember 2025 befristet.
+[^26a-2]: Die Begriffe «Gebäude» und «anrechenbare Gebäudefläche» sind in Anhang 1 und 2 der Bauverordnung vom 25. Mai 2011 (BauV) definiert.
 
 ### 1.4. Grossverbraucher
 
