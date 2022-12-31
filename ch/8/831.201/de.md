@@ -4,20 +4,20 @@ title: Verordnung vom 17. Januar 1961 über die Invalidenversicherung (IVV)
 short: IVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Invalidenversicherung
 
-(IVV)**[^t-1]**
+(IVV)[^t-1]
 
-vom 17. Januar 1961 (Stand am 1. Januar 2022)
+vom 17. Januar 1961 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. II 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -49,34 +49,33 @@ Die Bestimmungen des ersten Abschnittes sowie die Artikel 34–43 der Verordnung
 <sup>1</sup> Im Bereich der sinkenden Skala nach den Artikeln 16 und 21 AHVV[^1bis-2] berechnen sich die Beiträge wie folgt:
 
 <table>
-<tr><th colspan="3">Jährliches Erwerbseinkommen in Franken</th><th></th><th>Beitragssatz in Prozenten des Erwerbseinkommens</th></tr>
+<tr><th colspan="3">Jährliches Erwerbseinkommen in Franken</th><th></th><th>Beitragssatz in Prozent des Erwerbseinkommens</th></tr>
 <tr><th colspan="2">von mindestens</th><th colspan="2">aber weniger als</th><th></th></tr>
-<tr><td>9 600</td><td colspan="3">17 400</td><td>0,752</td></tr>
-<tr><td>17 400</td><td colspan="3">21 400</td><td>0,769</td></tr>
-<tr><td>21 400</td><td colspan="3">23 800</td><td>0,786</td></tr>
-<tr><td>23 800</td><td colspan="3">26 200</td><td>0,804</td></tr>
-<tr><td>26 200</td><td colspan="3">28 600</td><td>0,821</td></tr>
-<tr><td>28 600</td><td colspan="3">31 000</td><td>0,838</td></tr>
-<tr><td>31 000</td><td colspan="3">33 400</td><td>0,873</td></tr>
-<tr><td>33 400</td><td colspan="3">35 800</td><td>0,907</td></tr>
-<tr><td>35 800</td><td colspan="3">38 200</td><td>0,942</td></tr>
-<tr><td>38 200</td><td colspan="3">40 600</td><td>0,977</td></tr>
-<tr><td>40 600</td><td colspan="3">43 000</td><td>1,011</td></tr>
-<tr><td>43 000</td><td colspan="3">45 400</td><td>1,046</td></tr>
-<tr><td>45 400</td><td colspan="3">47 800</td><td>1,098</td></tr>
-<tr><td>47 800</td><td colspan="3">50 200</td><td>1,149</td></tr>
-<tr><td>50 200</td><td colspan="3">52 600</td><td>1,201</td></tr>
-<tr><td>52 600</td><td colspan="3">55 000</td><td>1,253</td></tr>
-<tr><td>55 000</td><td colspan="3">57 400</td><td>1,305.[^1bis-3]</td></tr>
+<tr><td>9 800</td><td colspan="3">17 500</td><td>0,752</td></tr>
+<tr><td>17 500</td><td colspan="3">21 300</td><td>0,769</td></tr>
+<tr><td>21 300</td><td colspan="3">23 800</td><td>0,786</td></tr>
+<tr><td>23 800</td><td colspan="3">26 300</td><td>0,804</td></tr>
+<tr><td>26 300</td><td colspan="3">28 800</td><td>0,821</td></tr>
+<tr><td>28 800</td><td colspan="3">31 300</td><td>0,838</td></tr>
+<tr><td>31 300</td><td colspan="3">33 800</td><td>0,873</td></tr>
+<tr><td>33 800</td><td colspan="3">36 300</td><td>0,907</td></tr>
+<tr><td>36 300</td><td colspan="3">38 800</td><td>0,942</td></tr>
+<tr><td>38 800</td><td colspan="3">41 300</td><td>0,977</td></tr>
+<tr><td>41 300</td><td colspan="3">43 800</td><td>1,011</td></tr>
+<tr><td>43 800</td><td colspan="3">46 300</td><td>1,046</td></tr>
+<tr><td>46 300</td><td colspan="3">48 800</td><td>1,098</td></tr>
+<tr><td>48 800</td><td colspan="3">51 300</td><td>1,149</td></tr>
+<tr><td>51 300</td><td colspan="3">53 800</td><td>1,201</td></tr>
+<tr><td>53 800</td><td colspan="3">56 300</td><td>1,253</td></tr>
+<tr><td>56 300</td><td colspan="3">58 800</td><td>1,305</td></tr>
 </table>
 
-<sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 66–3300 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
+<sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 68–3400 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
 
-[^1bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 1987 ([AS 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3533](https://fedlex.data.admin.ch/eli/oc/2018/576)).
+[^1bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 1987 ([AS 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 606](https://fedlex.data.admin.ch/eli/oc/2022/606)).
 [^1bis-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^1bis-3]: Fassung gemäss Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4615](https://fedlex.data.admin.ch/eli/oc/2020/821)).
 
-## Erster Abschnitt *a*:**** Früherfassung
+## Erster Abschnitt *a*: Früherfassung
 
 [^chap1a-1]
 
@@ -106,7 +105,7 @@ Die Bestimmungen des ersten Abschnittes sowie die Artikel 34–43 der Verordnung
 
 [^1quinquies-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-## Erster Abschnitt *b*:**** Massnahmen der Frühintervention
+## Erster Abschnitt *b*: Massnahmen der Frühintervention
 
 [^chap1b-1]
 
@@ -128,9 +127,12 @@ Die Bestimmungen des ersten Abschnittes sowie die Artikel 34–43 der Verordnung
 
 Die Frühinterventionsphase wird beendet mit:
 
-- a. der Verfügung über die Durchführung von Eingliederungsmassnahmen nach Artikel 8 Absatz 3 Buchstaben a<sup>bis</sup> und b IVG;
+- a. der Verfügung über die Durchführung von Eingliederungsmassnahmen nach Artikel 8 Absatz 3 Buchstaben a<sup>ter</sup> [^1septies-1] und b IVG;
 - b. der Mitteilung, dass keine Eingliederungsmassnahmen mit Aussicht auf Erfolg durchgeführt werden können und der Anspruch auf eine Rente geprüft wird; oder
-- c. der Verfügung, dass weder Anspruch auf Eingliederungsmassnahmen nach Artikel 8 Absatz 3 Buchstaben a<sup>bis</sup> und b IVG noch auf eine Rente besteht.
+- c. der Verfügung, dass weder Anspruch auf Eingliederungsmassnahmen nach Artikel 8 Absatz 3 Buchstaben a<sup>ter</sup> [^1septies-2] und b IVG noch auf eine Rente besteht.
+
+[^1septies-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2022 angepasst.
+[^1septies-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2022 angepasst.
 
 #### Art. 1<sup>octies</sup>
 
@@ -138,13 +140,13 @@ Die Frühinterventionsphase wird beendet mit:
 
 Die Kosten für die Massnahmen der Frühintervention dürfen pro versicherte Person 20 000 Franken nicht übersteigen.
 
-## Zweiter Abschnitt: Eingliederung****
+## Zweiter Abschnitt: Eingliederung
 
 [^chap2-1]
 
 [^chap2-1]: Ursprünglich vor Art. 2. Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### A.**** Drohende Invalidität
+### A. Drohende Invalidität
 
 [^chap2-lvlA-1]
 
@@ -154,7 +156,7 @@ Die Kosten für die Massnahmen der Frühintervention dürfen pro versicherte Per
 
 Drohende Invalidität liegt vor, wenn der Eintritt einer Erwerbsunfähigkeit überwiegend wahrscheinlich ist. Der Zeitpunkt des Eintritts der Erwerbsunfähigkeit ist unerheblich.
 
-### A<sup>bis</sup>. Medizinische Massnahmen****
+### A<sup>bis</sup>. Medizinische Massnahmen
 
 [^chap2-lvlAbis-1]
 
@@ -370,7 +372,7 @@ Für Kinder im Sinne von Artikel 9 Absatz 3 Buchstabe b IVG, die im Ausland inva
 
 [^4ter-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
 
-### A<sup>ter</sup>.**** Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung
+### A<sup>ter</sup>. Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung
 
 [^chap2-lvlAter-1]
 
@@ -630,13 +632,14 @@ Der Arbeitsversuch wird vorzeitig beendet, wenn:
 
 Der Einarbeitungszuschuss ist nicht geschuldet, wenn die versicherte Person:
 
-- a. Anspruch auf eine Entschädigung nach dem Bundesgesetz vom 25. September 1952[^6ter-2] über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (EOG) hat; oder
+- a.[^6ter-2] Anspruch auf eine Entschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^6ter-3] (EOG) hat; oder
 - b. infolge einer krankheits- oder unfallbedingten Arbeitsunterbrechung Anspruch auf Taggelder eines anderen Versicherers hat.
 
 <sup>5</sup> Der Einarbeitungszuschuss wird von der Zentralen Ausgleichsstelle ausbezahlt.
 
 [^6ter-1]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^6ter-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^6ter-2]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^6ter-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 #### Art. 6<sup>quater</sup>
 
@@ -908,21 +911,28 @@ Den erwerbstätigen Versicherten gleichgestellt sind:
 
 <sup>2</sup>
 
-Bei der Ermittlung des massgebenden Einkommens im Sinne von Artikel 23 Absatz 3 IVG werden Tage nicht berücksichtigt, an denen die versicherte Person kein oder nur ein vermindertes Erwerbseinkommen erzielt hat und zwar wegen:
+Bei der Ermittlung des massgebenden Einkommens im Sinne von Artikel 23 Absatz 3 IVG werden Tage nicht berücksichtigt, an denen die versicherte Person kein oder nur ein vermindertes Erwerbseinkommen erzielt hat wegen:[^21-3]
 
 - a. Krankheit;
 - b. Unfall;
 - c. Arbeitslosigkeit;
-- d. Dienst im Sinne von Artikel 1*a* EOG[^21-3];
-- e. Mutterschaft; oder
-- f. anderen Gründen, die nicht auf ihr Verschulden zurückzuführen sind.
+- d. Dienst im Sinne von Artikel 1*a* EOG[^21-4];
+- e.[^21-5] Mutterschaft oder Vaterschaft;
+- f.[^21-6] Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
+- g.[^21-7] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
+- h.[^21-8] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
 
-<sup>3</sup> Hat die versicherte Person vor mehr als zwei Jahren zum letzten Mal eine Erwerbstätigkeit ohne gesundheitliche Einschränkung ausgeübt, so ist auf das Erwerbseinkommen abzustellen, das sie durch die gleiche Tätigkeit unmittelbar vor der Eingliederung erzielt hätte, wenn sie nicht invalid geworden wäre.[^21-4]
+<sup>3</sup> Hat die versicherte Person vor mehr als zwei Jahren zum letzten Mal eine Erwerbstätigkeit ohne gesundheitliche Einschränkung ausgeübt, so ist auf das Erwerbseinkommen abzustellen, das sie durch die gleiche Tätigkeit unmittelbar vor der Eingliederung erzielt hätte, wenn sie nicht invalid geworden wäre.[^21-9]
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21-2]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
-[^21-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^21-4]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^21-3]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-4]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^21-5]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-6]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-7]: Eingefügt durch Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-8]: Eingefügt durch Anhang Ziff. 1 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-9]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 21<sup>bis</sup>
 
@@ -1066,7 +1076,7 @@ Liegt kein Lehrvertrag nach dem BBG[^22-2] vor, so entspricht die Höhe des Tagg
 
 [^22ter-1]: Eingefügt durch Ziff. III der V vom 27. Okt. 1987 ([AS 1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397)). Aufgehoben durch Ziff. I der V vom 21. Mai 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
-### F. Verschiedene Bestimmungen****
+### F. Verschiedene Bestimmungen
 
 [^chap2-lvlF-1]
 
@@ -1134,7 +1144,7 @@ Als Betreuungskosten werden insbesondere vergütet:
 [^23ter-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2000 , in Kraft seit 1. Jan. 2001 ([AS 2001 89](https://fedlex.data.admin.ch/eli/oc/2001/16)).
 [^23ter-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
-### G. Wahlrecht, Zusammenarbeit und Tarife****
+### G. Wahlrecht, Zusammenarbeit und Tarife
 
 [^chap2-lvlG-1]
 
@@ -1168,8 +1178,12 @@ Als Betreuungskosten werden insbesondere vergütet:
 
 <sup>5</sup> Bei der Festsetzung der Tarife nach Artikel 27 Absätze 3–6 und 7 zweiter Satz IVG wendet die zuständige Behörde die Absätze 1–3 sinngemäss an.
 
+<sup>6</sup> Für die Datenbekanntgabe nach Artikel 27 Absatz 8 IVG, die Übermittlung der Daten, das Bearbeitungsreglement, die Sicherheit und die Aufbewahrung der Daten sind die Artikel 59*f*, 59*g* und 59*i* KVV[^24bis-3] sinngemäss anwendbar.[^24bis-4]
+
 [^24bis-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^24bis-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^24bis-3]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^24bis-4]: Eingefügt durch Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 24<sup>ter</sup>
 
@@ -1216,7 +1230,7 @@ Für die Vergütung der ambulanten Behandlung schliesst das BSV mit den Leistung
 
 [^24sexies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-## Dritter Abschnitt: Die Renten, die Hilflosenentschädigung und der Assistenzbeitrag****
+## Dritter Abschnitt: Die Renten, die Hilflosenentschädigung und der Assistenzbeitrag
 
 [^chap3-1]
 
@@ -1224,7 +1238,7 @@ Für die Vergütung der ambulanten Behandlung schliesst das BSV mit den Leistung
 
 ### A. Der Rentenanspruch
 
-### I. Bemessung des Invaliditätsgrades****
+### I. Bemessung des Invaliditätsgrades
 
 [^chap3-lvlA-lvlI-1]
 
@@ -1392,7 +1406,7 @@ Ein wesentlicher Unterbruch der Arbeitsunfähigkeit im Sinne von Artikel 28 Absa
 
 [^29quater-1]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-### III. Übergangsleistung****
+### III. Übergangsleistung
 
 [^chap3-lvlA-lvlIII-1]
 
@@ -1644,7 +1658,7 @@ Ein Bedarf an lebenspraktischer Begleitung im Sinne von Artikel 42 Absatz 3 IVG 
 
 [^39-1]: Aufgehoben durch Ziff. I der V vom 4. Dez. 2000 ([AS 2001 89](https://fedlex.data.admin.ch/eli/oc/2001/16)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
-### E.**** Der Assistenzbeitrag
+### E. Der Assistenzbeitrag
 
 [^chap3-lvlE-1]
 
@@ -1734,19 +1748,16 @@ Für folgende Personengruppen wird die nach Absatz 2 Buchstabe a zu berücksicht
 
 **Höhe des Assistenzbeitrages**[^39f-1]
 
-<sup>1</sup> Der Assistenzbeitrag beträgt 33.50 Franken pro Stunde.[^39f-2]
+<sup>1</sup> Der Assistenzbeitrag beträgt 34.30 Franken pro Stunde.
 
-<sup>2</sup> Muss die Assistenzperson für die benötigten Hilfeleistungen in den Bereichen nach Artikel 39*c* Buchstaben e–g über besondere Qualifikationen verfügen, so beträgt der Assistenzbeitrag 50.20 Franken pro Stunde.[^39f-3]
+<sup>2</sup> Muss die Assistenzperson für die benötigten Hilfeleistungen in den Bereichen nach Artikel 39*c* Buchstaben e–g über besondere Qualifikationen verfügen, so beträgt der Assistenzbeitrag 51.50 Franken pro Stunde.
 
-<sup>3</sup> Die IV-Stelle legt den Assistenzbeitrag für den Nachtdienst nach Intensität der zu erbringenden Hilfeleistung pauschal fest. Er beträgt höchstens 160.50 Franken pro Nacht.[^39f-4]
+<sup>3</sup> Die IV-Stelle legt den Assistenzbeitrag für den Nachtdienst nach Intensität der zu erbringenden Hilfeleistung pauschal fest. Er beträgt höchstens 164.35 Franken pro Nacht.
 
-<sup>4</sup> Für die Anpassung der Beträge nach den Absätzen 1–3 an die Lohn- und Preisentwicklung ist Artikel 33<sup>ter</sup> AHVG[^39f-5] sinngemäss anwendbar.
+<sup>4</sup> Für die Anpassung der Beträge nach den Absätzen 1–3 an die Lohn- und Preisentwicklung ist Artikel 33<sup>ter</sup> AHVG[^39f-2] sinngemäss anwendbar.
 
-[^39f-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4615](https://fedlex.data.admin.ch/eli/oc/2020/821)).
-[^39f-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^39f-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^39f-4]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^39f-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^39f-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 606](https://fedlex.data.admin.ch/eli/oc/2022/606)).
+[^39f-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 39g
 
@@ -1810,7 +1821,7 @@ Der Assistenzbeitrag pro Jahr beträgt:
 [^39j-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^39j-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-### F.**** Das Verhältnis zur Unfallversicherung und zur Militärversicherung****
+### F. Das Verhältnis zur Unfallversicherung und zur Militärversicherung
 
 [^chap3-lvlF-1][^chap3-lvlF-2]
 
@@ -1840,7 +1851,7 @@ Der Assistenzbeitrag pro Jahr beträgt:
 
 ## Vierter Abschnitt: Die Organisation
 
-### A.**** Die IV‑Stellen
+### A. Die IV‑Stellen
 
 [^chap4-lvlA-1]
 
@@ -1977,7 +1988,7 @@ Der Geldverkehr der kantonalen und der gemeinsamen IV-Stellen geht über die Aus
 
 <sup>2</sup> Das Eidgenössische Finanzdepartement erlässt im Einvernehmen mit dem EDI und dem Eidgenössischen Departement für auswärtige Angelegenheiten die erforderlichen organisatorischen Vorschriften.
 
-### B.**** Die Ausgleichskassen
+### B. Die Ausgleichskassen
 
 [^chap4-lvlB-1]
 
@@ -2009,7 +2020,7 @@ Für die Zuständigkeit der Ausgleichskassen für die Berechnung und Auszahlung 
 
 Ist die Zuständigkeit streitig, so bestimmt das BSV die zuständige Ausgleichskasse.
 
-### C. Regionale ärztliche Dienste****
+### C. Regionale ärztliche Dienste
 
 [^chap4-lvlC-1]
 
@@ -2051,7 +2062,7 @@ In den regionalen ärztlichen Diensten sind insbesondere die Fachdisziplinen Inn
 [^49-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^49-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-### D. Aufsicht****
+### D. Aufsicht
 
 [^chap4-lvlD-1]
 
@@ -2270,7 +2281,7 @@ Die IV-Stellen können mit Leistungserbringern Vereinbarungen zur Kostenvergütu
 
 [^73-1]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### C. Festsetzung der Leistungen****
+### C. Festsetzung der Leistungen
 
 [^chap5-lvlC-1]
 
@@ -2407,7 +2418,7 @@ Der Berechtigte oder sein gesetzlicher Vertreter sowie Behörden oder Dritte, de
 
 [^77-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-### D. Die Ausrichtung der Leistungen****
+### D. Die Ausrichtung der Leistungen
 
 [^chap5-lvlD-1]
 
@@ -2579,7 +2590,7 @@ Während der erstmaligen beruflichen Ausbildung werden die Taggelder, vorbehaltl
 [^81bis-2]: [SR 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
 [^81bis-3]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### III. Renten, Hilflosenentschädigung und Assistenzbeitrag****
+### III. Renten, Hilflosenentschädigung und Assistenzbeitrag
 
 [^chap5-lvlD-lvlIII-1]
 
@@ -2652,7 +2663,7 @@ Als Vorschussleistungen gelten:
 [^85bis-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^85bis-3]: Fassung gemäss Ziff. I der V vom 16. Sept. 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2581](https://fedlex.data.admin.ch/eli/oc/1998/2581_2581_2581)).
 
-### D<sup>bis</sup>. …****
+### D<sup>bis</sup>. …
 
 [^chap5-lvlDbis-1]
 
@@ -2670,7 +2681,7 @@ Als Vorschussleistungen gelten:
 
 [^86bis-1]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-### E. Die Revision der Renten, der Hilflosenentschädigung und des Assistenzbeitrages****
+### E. Die Revision der Renten, der Hilflosenentschädigung und des Assistenzbeitrages
 
 [^chap5-lvlE-1]
 
@@ -2753,7 +2764,7 @@ Die Herabsetzung oder Aufhebung der Renten, der Hilflosenentschädigungen und de
 [^88bis-5]: Fassung gemäss Ziff. I der V vom 7. Juli 1982, in Kraft seit 1. Jan. 1983 ([AS 1982 1284](https://fedlex.data.admin.ch/eli/oc/1982/1284_1284_1284)).
 [^88bis-6]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 
-## Sechster Abschnitt:**** Das Verhältnis zur Krankenversicherung
+## Sechster Abschnitt: Das Verhältnis zur Krankenversicherung
 
 [^chap6-1]
 
@@ -2781,7 +2792,7 @@ Hat ein Krankenversicherer nach dem KVAG der zuständigen IV-Stelle oder Ausglei
 
 [^88quinquies-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 
-## Sechster Abschnitt *a*:**** Das Verhältnis zur Unfallversicherung in Bezug auf Personen nach Artikel 1*a* Absatz 1 Buchstabe c UVG
+## Sechster Abschnitt *a*: Das Verhältnis zur Unfallversicherung in Bezug auf Personen nach Artikel 1*a* Absatz 1 Buchstabe c UVG
 
 [^chap6a-1]
 
@@ -2815,7 +2826,7 @@ Für die Einzelheiten und das Verfahren der Unfallversicherung von Personen nach
 
 [^88octies-1]: [SR 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
 
-## Siebenter Abschnitt:**** Verschiedene Bestimmungen
+## Siebenter Abschnitt: Verschiedene Bestimmungen
 
 [^chap7-1]
 
@@ -3076,7 +3087,7 @@ Die Zusammenarbeitsvereinbarungen enthalten mindestens Bestimmungen über:
 [^98quater-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^98quater-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-## Achter Abschnitt: Die Beiträge zur Förderung der Invalidenhilfe****
+## Achter Abschnitt: Die Beiträge zur Förderung der Invalidenhilfe
 
 [^chap8-1]
 
@@ -3229,9 +3240,7 @@ Beiträge werden an folgende in der Schweiz zweckmässig und wirtschaftlich erbr
 
 [^111114-1]: Aufgehoben durch Ziff. I 17 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Neunter Abschnitt****: Schluss- und Übergangsbestimmungen
-
-[^chap9-1]
+## Neunter Abschnitt[^chap9-1]: Schluss- und Übergangsbestimmungen
 
 [^chap9-1]: Nummerierung gemäss Ziff. II des BRB vom 15. Jan. 1968, in Kraft seit 1. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 
@@ -3262,19 +3271,19 @@ Beiträge werden an folgende in der Schweiz zweckmässig und wirtschaftlich erbr
 [^117-1]: Aufgehoben durch Ziff. I des BRB vom 15. Jan. 1968, mit Wirkung seit 1. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 [^117-2]: Eingefügt durch Ziff. I der V vom 28. Jan. 2004 ([AS 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)). Fassung gemäss Ziff. I 17 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Schlussbestimmungen der Änderung vom 21. Januar 1987****
+## Schlussbestimmungen der Änderung vom 21. Januar 1987
 
 [^u1-1]
 
 [^u1-1]: [AS 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456). Aufgehoben durch Ziff. IV 45 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633), **2008** 3452).
 
-## Schlussbestimmungen der Änderung vom 1. Juli 1987****
+## Schlussbestimmungen der Änderung vom 1. Juli 1987
 
 [^u2-1]
 
 [^u2-1]: [AS 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088). Aufgehoben durch Ziff. IV 45 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633), **2008** 3452).
 
-## Schlussbestimmung der Änderung vom 15. Juni 1992****
+## Schlussbestimmung der Änderung vom 15. Juni 1992
 
 [^u3-1]
 
@@ -3282,7 +3291,7 @@ Beiträge werden an folgende in der Schweiz zweckmässig und wirtschaftlich erbr
 
 Diese Änderung gilt, soweit sie die einzelnen IV-Stellen und die Ausgleichskassen betrifft, ab Inkrafttreten des kantonalen Einführungsgesetzes bzw. ab Einsetzung der IV-Stelle für Versicherte im Ausland.
 
-## Schlussbestimmung der Änderung vom 27. September 1993****
+## Schlussbestimmung der Änderung vom 27. September 1993
 
 [^u4-1]
 
@@ -3292,19 +3301,19 @@ Die neuen Bestimmungen von Artikel 21<sup>bis</sup> Absätze 1[^u4-2] und 4 Buch
 
 [^u4-2]: Diese Bestimmung hat heute eine neue Fassung.
 
-## Schlussbestimmung der Änderung vom 29. November 1995****
+## Schlussbestimmung der Änderung vom 29. November 1995
 
 [^u5-1]
 
 [^u5-1]: [AS 1995 5518](https://fedlex.data.admin.ch/eli/oc/1995/5518_5518_5518). Aufgehoben durch Ziff. I 17 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Schlussbestimmungen der Änderung vom 28. Februar 1996****
+## Schlussbestimmungen der Änderung vom 28. Februar 1996
 
 [^u6-1]
 
 [^u6-1]: [AS 1996 1005](https://fedlex.data.admin.ch/eli/oc/1996/1005_1005_1005). Aufgehoben durch Ziff. I 17 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Schlussbestimmungen der Änderung vom 30. Oktober 1996****
+## Schlussbestimmungen der Änderung vom 30. Oktober 1996
 
 [^u7-1]
 
@@ -3317,19 +3326,19 @@ Die neuen Bestimmungen von Artikel 21<sup>bis</sup> Absätze 1[^u4-2] und 4 Buch
 [^u7-2]: Diese Bestimmung hat heute eine neue Fassung.
 [^u7-3]: Diese Bestimmung hat heute eine neue Fassung.
 
-## Schlussbestimmung der Änderung vom 25. November 1996****
+## Schlussbestimmung der Änderung vom 25. November 1996
 
 [^u8-1]
 
 [^u8-1]: [AS 1996 3133](https://fedlex.data.admin.ch/eli/oc/1996/3133_3133_3133). Aufgehoben durch Ziff. I 17 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Schlussbestimmungen der Änderung vom 2. Februar 2000****
+## Schlussbestimmungen der Änderung vom 2. Februar 2000
 
 [^u9-1]
 
 [^u9-1]: [AS 2000 1199](https://fedlex.data.admin.ch/eli/oc/2000/193). Aufgehoben durch Ziff. II der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-## Schlussbestimmungen der Änderung vom 4. Dezember 2000****
+## Schlussbestimmungen der Änderung vom 4. Dezember 2000
 
 [^u10-1]
 
@@ -3343,19 +3352,19 @@ Die neuen Bestimmungen von Artikel 21<sup>bis</sup> Absätze 1[^u4-2] und 4 Buch
 
 [^u10-2]: [SR 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439). Heute: V über die freiwillige Alters-, Hinterlassenen- und Invalidenversicherung (VFV)
 
-## Schlussbestimmungen der Änderung vom 12. Februar 2003****
+## Schlussbestimmungen der Änderung vom 12. Februar 2003
 
 [^u11-1]
 
 [^u11-1]: [AS 2003 383](https://fedlex.data.admin.ch/eli/oc/2003/87). Aufgehoben durch Ziff. II der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-## Schlussbestimmungen der Änderung vom 2. Juli 2003****
+## Schlussbestimmungen der Änderung vom 2. Juli 2003
 
 [^u12-1]
 
 [^u12-1]: [AS 2003 2181](https://fedlex.data.admin.ch/eli/oc/2003/321). Aufgehoben durch Ziff. I 17 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Schlussbestimmungen der Änderung vom 21. Mai 2003****
+## Schlussbestimmungen der Änderung vom 21. Mai 2003
 
 [^u13-1]
 
@@ -3375,13 +3384,13 @@ Die neuen Bestimmungen von Artikel 21<sup>bis</sup> Absätze 1[^u4-2] und 4 Buch
 
 [^u13-2]: [AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)
 
-## Schlussbestimmungen zur Änderung vom 28. Januar 2004****
+## Schlussbestimmungen zur Änderung vom 28. Januar 2004
 
 [^u14-1]
 
 [^u14-1]: [AS 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74). Aufgehoben durch Ziff. II der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-## Übergangsbestimmungen zur Änderung vom 6. Oktober 2006 (5. IV-Revision)****
+## Übergangsbestimmungen zur Änderung vom 6. Oktober 2006 (5. IV-Revision)
 
 [^u15-1]
 
@@ -3400,7 +3409,7 @@ Bis zum Inkrafttreten des Bundesgesetzes vom 24. März 2006[^u15-2] über die Fa
 
 [^u15-2]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
-## Übergangsbestimmungen zur Änderung vom 16. November 2011****
+## Übergangsbestimmungen zur Änderung vom 16. November 2011
 
 [^u16-1]
 
@@ -3418,7 +3427,7 @@ Bis zum Inkrafttreten des Bundesgesetzes vom 24. März 2006[^u15-2] über die Fa
 [^u16-3]: 1. Januar 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800))
 [^u16-4]: [AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)
 
-## Übergangsbestimmungen zur Änderung vom 1. Dezember 2017****
+## Übergangsbestimmungen zur Änderung vom 1. Dezember 2017
 
 [^u17-1]
 
@@ -3428,7 +3437,7 @@ Bis zum Inkrafttreten des Bundesgesetzes vom 24. März 2006[^u15-2] über die Fa
 
 <sup>2</sup> Wurde eine Rente vor dem Inkrafttreten der Änderung vom 1. Dezember 2017 wegen eines zu geringen Invaliditätsgrads einer teilerwerbstätigen versicherten Person, die sich zusätzlich im Aufgabenbereich nach Artikel 7 Absatz 2 IVG betätigte, verweigert, so wird eine neue Anmeldung geprüft, wenn die Berechnung des Invaliditätsgrads nach Artikel 27<sup>bis</sup> Absätze 2–4 voraussichtlich zu einem Rentenanspruch führt.
 
-## Übergangsbestimmungen zur Änderung vom 3. November 2021****
+## Übergangsbestimmungen zur Änderung vom 3. November 2021
 
 [^u18-1]
 

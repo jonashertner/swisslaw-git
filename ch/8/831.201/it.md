@@ -4,20 +4,20 @@ title: "Ordinanza del 17 gennaio 1961 sull'assicurazione per l'invalidità (OAI)
 short: OAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’assicurazione per l’invalidità
 
-(OAI)**[^t-1]**
+(OAI)[^t-1]
 
-del 17 gennaio 1961 (Stato 1° gennaio 2022)
+del 17 gennaio 1961 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo tit. giusta il n. II 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Giusta detta disp., i titoli marginali sono accentrati.
 
@@ -50,32 +50,31 @@ Sono applicabili, per analogia, le disposizioni del capo primo come anche gli ar
 <table>
 <tr><th colspan="2">Reddito annuo dell’attività lucrativa</th><th></th><th>Tasso del contributo in percentuale del reddito dell’attività lucrativa</th></tr>
 <tr><th>di almeno fr.</th><th colspan="2">ma inferiore a fr.</th><th></th></tr>
-<tr><td>9 600</td><td colspan="2">17 400</td><td>0,752</td></tr>
-<tr><td>17 400</td><td colspan="2">21 400</td><td>0,769</td></tr>
-<tr><td>21 400</td><td colspan="2">23 800</td><td>0,786</td></tr>
-<tr><td>23 800</td><td colspan="2">26 200</td><td>0,804</td></tr>
-<tr><td>26 200</td><td colspan="2">28 600</td><td>0,821</td></tr>
-<tr><td>28 600</td><td colspan="2">31 000</td><td>0,838</td></tr>
-<tr><td>31 000</td><td colspan="2">33 400</td><td>0,873</td></tr>
-<tr><td>33 400</td><td colspan="2">35 800</td><td>0,907</td></tr>
-<tr><td>35 800</td><td colspan="2">38 200</td><td>0,942</td></tr>
-<tr><td>38 200</td><td colspan="2">40 600</td><td>0,977</td></tr>
-<tr><td>40 600</td><td colspan="2">43 000</td><td>1,011</td></tr>
-<tr><td>43 000</td><td colspan="2">45 400</td><td>1,046</td></tr>
-<tr><td>45 400</td><td colspan="2">47 800</td><td>1,098</td></tr>
-<tr><td>47 800</td><td colspan="2">50 200</td><td>1,149</td></tr>
-<tr><td>50 200</td><td colspan="2">52 600</td><td>1,201</td></tr>
-<tr><td>52 600</td><td colspan="2">55 000</td><td>1,253</td></tr>
-<tr><td>55 000</td><td colspan="2">57 400</td><td>1,305. [^1bis-3]</td></tr>
+<tr><td>9 800</td><td colspan="2">17 500</td><td>0,752</td></tr>
+<tr><td>17 500</td><td colspan="2">21 300</td><td>0,769</td></tr>
+<tr><td>21 300</td><td colspan="2">23 800</td><td>0,786</td></tr>
+<tr><td>23 800</td><td colspan="2">26 300</td><td>0,804</td></tr>
+<tr><td>26 300</td><td colspan="2">28 800</td><td>0,821</td></tr>
+<tr><td>28 800</td><td colspan="2">31 300</td><td>0,838</td></tr>
+<tr><td>31 300</td><td colspan="2">33 800</td><td>0,873</td></tr>
+<tr><td>33 800</td><td colspan="2">36 300</td><td>0,907</td></tr>
+<tr><td>36 300</td><td colspan="2">38 800</td><td>0,942</td></tr>
+<tr><td>38 800</td><td colspan="2">41 300</td><td>0,977</td></tr>
+<tr><td>41 300</td><td colspan="2">43 800</td><td>1,011</td></tr>
+<tr><td>43 800</td><td colspan="2">46 300</td><td>1,046</td></tr>
+<tr><td>46 300</td><td colspan="2">48 800</td><td>1,098</td></tr>
+<tr><td>48 800</td><td colspan="2">51 300</td><td>1,149</td></tr>
+<tr><td>51 300</td><td colspan="2">53 800</td><td>1,201</td></tr>
+<tr><td>53 800</td><td colspan="2">56 300</td><td>1,253</td></tr>
+<tr><td>56 300</td><td colspan="2">58 800</td><td>1,305</td></tr>
 </table>
 
-<sup>2</sup> Le persone che non esercitano un’attività lucrativa versano un contributo da 66 a 3300 franchi annui. Gli articoli 28–30 OAVS si applicano per analogia.
+<sup>2</sup> Le persone che non esercitano un’attività lucrativa versano un contributo da 68 a 3400 franchi annui. Gli articoli 28–30 OAVS si applicano per analogia.
 
-[^1bis-1]: Introdotto dal n. I dell’O del 1° lug. 1987 ([RU 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3533](https://fedlex.data.admin.ch/eli/oc/2018/576)).
+[^1bis-1]: Introdotto dal n. I dell’O del 1° lug. 1987 ([RU 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 606](https://fedlex.data.admin.ch/eli/oc/2022/606)).
 [^1bis-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^1bis-3]: Nuovo testo giusta il n. I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4615](https://fedlex.data.admin.ch/eli/oc/2020/821)).
 
-## Capo primo *a*:**** Rilevamento tempestivo
+## Capo primo *a*: Rilevamento tempestivo
 
 [^chap1a-1]
 
@@ -105,7 +104,7 @@ Sono applicabili, per analogia, le disposizioni del capo primo come anche gli ar
 
 [^1quinquies-1]: Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-## Capo primo *b*:**** Provvedimenti d’intervento tempestivo
+## Capo primo *b*: Provvedimenti d’intervento tempestivo
 
 [^chap1b-1]
 
@@ -127,9 +126,12 @@ Sono applicabili, per analogia, le disposizioni del capo primo come anche gli ar
 
 La fase d’intervento tempestivo si conclude con:
 
-- a. la decisione relativa all’esecuzione di provvedimenti d’integrazione secondo l’articolo 8 capoverso 3 lettere a<sup>bis</sup> e b LAI;
+- a. la decisione relativa all’esecuzione di provvedimenti d’integrazione secondo l’articolo 8 capoverso 3 lettere a<sup>ter</sup> [^1septies-1] e b LAI;
 - b. la comunicazione che nessun provvedimento d’integrazione può essere attuato con successo e che sarà esaminato il diritto alla rendita; oppure
-- c. la decisione secondo cui l’assicurato non ha alcun diritto né a provvedimenti d’integrazione secondo l’articolo 8 capoverso 3 lettere a<sup>bis</sup> e b LAI né a una rendita.
+- c. la decisione secondo cui l’assicurato non ha alcun diritto né a provvedimenti d’integrazione secondo l’articolo 8 capoverso 3 lettere a<sup>ter</sup> [^1septies-2] e b LAI né a una rendita.
+
+[^1septies-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2022.
+[^1septies-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2022.
 
 #### Art. 1<sup>octies</sup>
 
@@ -137,14 +139,14 @@ La fase d’intervento tempestivo si conclude con:
 
 I costi dei provvedimenti d’intervento tempestivo non devono eccedere 20 000 franchi per assicurato.
 
-## Capo secondo:**** Integrazione****
+## Capo secondo: Integrazione
 
 [^chap2-1][^chap2-2]
 
 [^chap2-1]: Originario avanti art. 2.
 [^chap2-2]: Nuovo testo giusta il n. I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### A.**** Minaccia d’invalidità
+### A. Minaccia d’invalidità
 
 [^chap2-lvlA-1]
 
@@ -154,7 +156,7 @@ I costi dei provvedimenti d’intervento tempestivo non devono eccedere 20 000 f
 
 Sussiste una minaccia d’invalidità quando la probabilità che insorga un’incapacità al guadagno è preponderante. Il momento in cui l’incapacità al guadagno è insorta non è determinante.
 
-### A<sup>bis</sup>. Provvedimenti sanitari****
+### A<sup>bis</sup>. Provvedimenti sanitari
 
 [^chap2-lvlAbis-1]
 
@@ -370,7 +372,7 @@ Per i bambini ai sensi dell’articolo 9 capoverso 3 lettera b LAI nati invalidi
 
 [^4ter-1]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 691](https://fedlex.data.admin.ch/eli/oc/1996/691_691_691)).
 
-### A<sup>ter</sup>.**** Provvedimenti di reinserimento per preparare all’integrazione professionale
+### A<sup>ter</sup>. Provvedimenti di reinserimento per preparare all’integrazione professionale
 
 [^chap2-lvlAter-1]
 
@@ -630,13 +632,14 @@ Il lavoro a titolo di prova termina prima del previsto, se:
 
 L’assegno per il periodo d’introduzione non è dovuto se l’assicurato ha diritto:
 
-- a. a un’indennità secondo la legge federale del 25 settembre 1952[^6ter-2] sulle indennità di perdita di guadagno per chi presta servizio e in caso di maternità (LIPG); o
+- a.[^6ter-2] a un’indennità secondo la legge del 25 settembre 1952[^6ter-3] sulle indennità di perdita di guadagno (LIPG); o
 - b. a indennità giornaliere di un altro assicuratore in seguito all’interruzione del lavoro dovuta a malattia o infortunio.
 
 <sup>5</sup> L’assegno per il periodo d’introduzione è versato dalla Centrale di compensazione.
 
 [^6ter-1]: Introdotto dal n. I dell’O del 28 set. 2007 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
-[^6ter-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^6ter-2]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^6ter-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 #### Art. 6<sup>quater</sup>
 
@@ -917,15 +920,21 @@ Nel calcolo del reddito determinante ai sensi dell’articolo 23 capoverso 3 LAI
 - b. di un incidente;
 - c. della disoccupazione;
 - d. del servizio ai sensi dell’articolo 1*a* della LIPG[^21-3];
-- e. di una maternità; oppure
-- f. di altri motivi indipendenti dalla sua volontà.
+- e.[^21-4] di maternità o paternità;
+- f.[^21-5] dell’assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- g.[^21-6] dell’accoglimento di un adottando di età inferiore a quattro anni;
+- h.[^21-7] di altri motivi non imputabili a colpa propria.
 
-<sup>3</sup> Se l’ultima attività lucrativa esercitata dall’assicurato senza riduzioni per motivi di salute risale a più di due anni, il reddito determinante è quello che egli avrebbe conseguito per questa attività immediatamente prima dell’integrazione, se non fosse divenuto invalido.[^21-4]
+<sup>3</sup> Se l’ultima attività lucrativa esercitata dall’assicurato senza riduzioni per motivi di salute risale a più di due anni, il reddito determinante è quello che egli avrebbe conseguito per questa attività immediatamente prima dell’integrazione, se non fosse divenuto invalido.[^21-8]
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^21-2]: Abrogato dal n. I dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^21-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^21-4]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
+[^21-4]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-5]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-6]: Introdotta dall’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-7]: Introdotta dall’all. n. 1 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^21-8]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 21<sup>bis</sup>
 
@@ -1069,7 +1078,7 @@ In assenza di un contratto di tirocinio secondo la LFPr[^22-2], l’importo mens
 
 [^22ter-1]: Introdotto dal n. III dell’O del 27 ott. 1987 ([RU 1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397)). Abrogato dal n. I dell’O del 21 mag. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
-### F. Disposizioni diverse****
+### F. Disposizioni diverse
 
 [^chap2-lvlF-1]
 
@@ -1137,7 +1146,7 @@ Sono rimborsate come spese di custodia e d’assistenza in particolare:
 [^23ter-1]: Introdotto dal n. I dell’O del 4 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 89](https://fedlex.data.admin.ch/eli/oc/2001/16)).
 [^23ter-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
-### G. Diritto di opzione, collaborazione e tariffe****
+### G. Diritto di opzione, collaborazione e tariffe
 
 [^chap2-lvlG-1]
 
@@ -1171,8 +1180,12 @@ Sono rimborsate come spese di custodia e d’assistenza in particolare:
 
 <sup>5</sup> L’autorità competente applica per analogia i capoversi 1–3 all’atto di stabilire le tariffe secondo l’articolo 27 capoversi 3–6 e 7 secondo periodo LAI.
 
+<sup>6</sup> La comunicazione dei dati secondo l’articolo 27 capoverso 8 LAI, la trasmissione dei dati, il regolamento per il trattamento dei dati, la sicurezza e la conservazione dei dati sono retti per analogia dagli articoli 59*f,* 59*g* e 59*i* OAMal[^24bis-3].[^24bis-4]
+
 [^24bis-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^24bis-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^24bis-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^24bis-4]: Introdotto dall’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 24<sup>ter</sup>
 
@@ -1219,7 +1232,7 @@ Per la rimunerazione delle cure ambulatoriali l’UFAS stipula con i fornitori d
 
 [^24sexies-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-## Capo terzo: Le rendite, l’assegno per grandi invalidi e il contributo per l’assistenza****
+## Capo terzo: Le rendite, l’assegno per grandi invalidi e il contributo per l’assistenza
 
 [^chap3-1]
 
@@ -1227,7 +1240,7 @@ Per la rimunerazione delle cure ambulatoriali l’UFAS stipula con i fornitori d
 
 ### A. Il diritto alla rendita
 
-### I. Valutazione del grado d’invalidità****
+### I. Valutazione del grado d’invalidità
 
 [^chap3-lvlA-lvlI-1]
 
@@ -1395,7 +1408,7 @@ Vi è interruzione notevole dell’incapacità al lavoro, secondo l’articolo 2
 
 [^29quater-1]: Introdotto dal n. I dell’O del 28 set. 2007 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)). Abrogato dal n. I dell’O del 16 nov. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-### III. Prestazione transitoria****
+### III. Prestazione transitoria
 
 [^chap3-lvlA-lvlIII-1]
 
@@ -1647,7 +1660,7 @@ Esiste un bisogno di accompagnamento nell’organizzazione della realtà quotidi
 
 [^39-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
-### E.**** Il contributo per l’assistenza
+### E. Il contributo per l’assistenza
 
 [^chap3-lvlE-1]
 
@@ -1737,19 +1750,16 @@ Per i seguenti gruppi di persone, il numero di atti ordinari della vita da consi
 
 **Importo del contributo per l’assistenza**[^39f-1]
 
-<sup>1</sup> Il contributo per l’assistenza ammonta a 33.50 franchi all’ora.[^39f-2]
+<sup>1</sup> Il contributo per l’assistenza ammonta a 34.30 franchi all’ora.
 
-<sup>2</sup> Se le prestazioni di aiuto necessarie negli ambiti di cui all’articolo 39*c* lettere e–g richiedono qualifiche particolari dell’assistente, il contributo per l’assistenza ammonta a 50.20 franchi all’ora.[^39f-3]
+<sup>2</sup> Se le prestazioni di aiuto necessarie negli ambiti di cui all’articolo 39*c* lettere e–g richiedono qualifiche particolari dell’assistente, il contributo per l’assistenza ammonta a 51.50 franchi all’ora.
 
-<sup>3</sup> L’ufficio AI stabilisce il contributo per l’assistenza per il servizio notturno in modo forfettario, in base all’intensità delle prestazioni di aiuto da fornire. L’importo massimo del contributo ammonta a 160.50 franchi per notte.[^39f-4]
+<sup>3</sup> L’ufficio AI stabilisce il contributo per l’assistenza per il servizio notturno in modo forfettario, in base all’intensità delle prestazioni di aiuto da fornire. L’importo massimo del contributo ammonta a 164.35 franchi per notte.
 
-<sup>4</sup> Per l’adeguamento degli importi di cui ai capoversi 1–3 all’evoluzione dei prezzi e dei salari è applicabile per analogia l’articolo 33<sup>ter</sup> LAVS[^39f-5].
+<sup>4</sup> Per l’adeguamento degli importi di cui ai capoversi 1–3 all’evoluzione dei prezzi e dei salari è applicabile per analogia l’articolo 33<sup>ter</sup> LAVS[^39f-2].
 
-[^39f-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4615](https://fedlex.data.admin.ch/eli/oc/2020/821)).
-[^39f-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^39f-3]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^39f-4]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^39f-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^39f-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 606](https://fedlex.data.admin.ch/eli/oc/2022/606)).
+[^39f-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 39g
 
@@ -1813,7 +1823,7 @@ L’importo annuo del contributo per l’assistenza ammonta a:
 [^39j-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^39j-3]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-### F.**** Rapporto con l’assicurazione contro gli infortuni e l’assicurazione militare****
+### F. Rapporto con l’assicurazione contro gli infortuni e l’assicurazione militare
 
 [^chap3-lvlF-1][^chap3-lvlF-2]
 
@@ -1842,7 +1852,7 @@ L’importo annuo del contributo per l’assistenza ammonta a:
 
 ## Capo quarto: L’organizzazione
 
-### A.**** Gli uffici AI
+### A. Gli uffici AI
 
 [^chap4-lvlA-1]
 
@@ -1978,7 +1988,7 @@ La cassa di compensazione del Cantone in cui ha sede l’ufficio AI provvede al 
 
 <sup>2</sup> Il Dipartimento federale delle finanze, d’intesa con il DFI e con il Dipartimento federale degli affari esteri, emana le prescrizioni necessarie in materia d’organizzazione.
 
-### B. Casse di compensazione****
+### B. Casse di compensazione
 
 [^chap4-lvlB-1]
 
@@ -2010,7 +2020,7 @@ Gli articoli 122–125<sup>bis</sup> OAVS[^44-2] si applicano per analogia per d
 
 In caso di conflitto di competenza l’UFAS designa la cassa di compensazione competente.
 
-### C. Servizi medici regionali****
+### C. Servizi medici regionali
 
 [^chap4-lvlC-1]
 
@@ -2052,7 +2062,7 @@ Nei servizi medici regionali sono rappresentate in particolare le discipline di 
 [^49-1]: Nuovo testo giusta il n. I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^49-2]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-### D. Vigilanza****
+### D. Vigilanza
 
 [^chap4-lvlD-1]
 
@@ -2126,7 +2136,7 @@ Nel quadro dei controlli sul rispetto dei criteri prescritti per garantire l’e
 
 <sup>2</sup> La cassa di compensazione viene risarcita per i compiti svolti a favore dell’assicurazione per l’invalidità.
 
-**Art. 56***[^55-3]* Locali per gli organi d’esecuzione
+**Art. 56**[^55-3] Locali per gli organi d’esecuzione
 
 <sup>1</sup> L’UFAS incarica il Fondo di compensazione AVS/AI/IPG (compenswiss) di acquistare, costruire o vendere, con imputazione ai conti ordinari dell’AI, i locali per gli organi d’esecuzione dell’assicurazione per l’invalidità. Questi locali fanno parte degli attivi dell’assicurazione per l’invalidità.
 
@@ -2268,7 +2278,7 @@ Gli uffici AI possono concludere con i fornitori di prestazioni convenzioni per 
 
 [^73-1]: Abrogato dal n. I dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### C. Determinazione delle prestazioni****
+### C. Determinazione delle prestazioni
 
 [^chap5-lvlC-1]
 
@@ -2405,7 +2415,7 @@ L’avente diritto, il suo rappresentante legale, le autorità o i terzi cui è 
 
 [^77-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-### D. Pagamento delle prestazioni****
+### D. Pagamento delle prestazioni
 
 [^chap5-lvlD-1]
 
@@ -2577,7 +2587,7 @@ Fatto salvo l’articolo 24<sup>quater</sup> LAI, in caso di prima formazione pr
 [^81bis-2]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
 [^81bis-3]: Introdotto dal n. I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### III. Rendite, assegno per grandi invalidi e contributo per l’assistenza****
+### III. Rendite, assegno per grandi invalidi e contributo per l’assistenza
 
 [^chap5-lvlD-lvlIII-1]
 
@@ -2649,7 +2659,7 @@ Sono considerati anticipi le prestazioni:
 [^85bis-1]: Introdotto dal n. I dell’O del 27 set. 1993, in vigore dal 1° gen. 1994 ([RU 1993 2925](https://fedlex.data.admin.ch/eli/oc/1993/2925_2925_2925)).
 [^85bis-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-### D<sup>bis</sup>. ...****
+### D<sup>bis</sup>. ...
 
 [^chap5-lvlDbis-1]
 
@@ -2667,7 +2677,7 @@ Sono considerati anticipi le prestazioni:
 
 [^86bis-1]: Introdotto dal n. I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### E. Revisione della rendita, dell’assegno per grandi invalidi e del contributo per l’assistenza****
+### E. Revisione della rendita, dell’assegno per grandi invalidi e del contributo per l’assistenza
 
 [^chap5-lvlE-1]
 
@@ -2750,7 +2760,7 @@ La riduzione o la soppressione della rendita, dell’assegno per grandi invalidi
 [^88bis-5]: Nuovo testo giusta il n. I dell’O del 7 lug. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1284](https://fedlex.data.admin.ch/eli/oc/1982/1284_1284_1284)).
 [^88bis-6]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
 
-## Capo sesto:**** Rapporti con l’assicurazione contro le malattie
+## Capo sesto: Rapporti con l’assicurazione contro le malattie
 
 [^chap6-1]
 
@@ -2778,7 +2788,7 @@ All’assicuratore-malattie ai sensi della LVAMal che ha informato l’ufficio A
 
 [^88quinquies-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 
-## Capo sesto *a*:**** Rapporti con l’assicurazione contro gli infortuni in relazione alle persone di cui all’articolo 1*a* capoverso 1 lettera c LAINF
+## Capo sesto *a*: Rapporti con l’assicurazione contro gli infortuni in relazione alle persone di cui all’articolo 1*a* capoverso 1 lettera c LAINF
 
 [^chap6a-1]
 
@@ -2812,9 +2822,7 @@ I dettagli e la procedura dell’assicurazione contro gli infortuni delle person
 
 [^88octies-1]: [RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
 
-## Capo settimo****: Disposizioni diverse
-
-[^chap7-1]
+## Capo settimo[^chap7-1]: Disposizioni diverse
 
 [^chap7-1]: Nuova numerazione giusta il n. II del DCF del 15 gen. 1968, in vigore dal 1° gen. 1968 ([RU 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 
@@ -3074,7 +3082,7 @@ Le convenzioni di collaborazione contengono come minimo disposizioni concernenti
 [^98quater-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^98quater-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-## Capo ottavo: I sussidi al promovimento dell’aiuto agli invalidi****
+## Capo ottavo: I sussidi al promovimento dell’aiuto agli invalidi
 
 [^chap8-1]
 
@@ -3225,9 +3233,7 @@ Sussidi sono versati per le prestazioni seguenti fornite in Svizzera in modo fin
 
 [^111114-1]: Abrogato dal n. I 17 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Capo nono****: Disposizioni finali e transitorie
-
-[^chap9-1]
+## Capo nono[^chap9-1]: Disposizioni finali e transitorie
 
 [^chap9-1]: Nuova numerazione giusta il n. II del DCF del 15 gen. 1968, in vigore dal 1° gen. 1968 ([RU 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 
@@ -3258,19 +3264,19 @@ Sussidi sono versati per le prestazioni seguenti fornite in Svizzera in modo fin
 [^117-1]: Abrogato dal n. I del DCF del 15 gen. 1968, con effetto dal 1° gen. 1968 ([RU 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)).
 [^117-2]: Introdotto dal n. I dell’O del 28 gen. 2004 ([RU 2004 743](https://fedlex.data.admin.ch/eli/oc/2004/74)). Nuovo testo giusta il n. I 17 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Disposizioni finali della modifica del 21 gennaio 1987****
+## Disposizioni finali della modifica del 21 gennaio 1987
 
 [^u1-1]
 
 [^u1-1]: [RU 1987 456](https://fedlex.data.admin.ch/eli/oc/1987/456_456_456). Abrogate dal n. IV 45 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633), **2008** 3453).
 
-## Disposizioni finali della modifica del 1° luglio 1987****
+## Disposizioni finali della modifica del 1° luglio 1987
 
 [^u2-1]
 
 [^u2-1]: [RU 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088). Abrogate dal n. IV 45 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633), **2008** 3453).
 
-## Disposizione finale della modifica del 15 giugno 1992****
+## Disposizione finale della modifica del 15 giugno 1992
 
 [^u3-1]
 
@@ -3278,7 +3284,7 @@ Sussidi sono versati per le prestazioni seguenti fornite in Svizzera in modo fin
 
 La presente modificazione si applica a ogni ufficio AI e alla cassa di compensazione interessata a partire dall’entrata in vigore della legge cantonale d’applicazione rispettivamente a partire dall’istituzione dell’ufficio AI per gli assicurati residenti all’estero.
 
-## Disposizione finale della modifica del 27 settembre 1993****
+## Disposizione finale della modifica del 27 settembre 1993
 
 [^u4-1]
 
@@ -3288,19 +3294,19 @@ Le nuove disposizioni dell’articolo 21<sup>bis</sup> capoversi 1[^u4-2] e 4 le
 
 [^u4-2]: Questa disp. ha attualmente un nuovo testo.
 
-## Disposizione finale della modifica del 29 novembre 1995****
+## Disposizione finale della modifica del 29 novembre 1995
 
 [^u5-1]
 
 [^u5-1]: [RU 1995 5518](https://fedlex.data.admin.ch/eli/oc/1995/5518_5518_5518). Abrogata dal n. I 17 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Disposizione finale della modifica del 28 febbraio 1996****
+## Disposizione finale della modifica del 28 febbraio 1996
 
 [^u6-1]
 
 [^u6-1]: [RU 1996 1005](https://fedlex.data.admin.ch/eli/oc/1996/1005_1005_1005). Abrogata dal n. I 17 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Disposizione finale della modifica del 30 ottobre 1996****
+## Disposizione finale della modifica del 30 ottobre 1996
 
 [^u7-1]
 
@@ -3313,19 +3319,19 @@ Le nuove disposizioni dell’articolo 21<sup>bis</sup> capoversi 1[^u4-2] e 4 le
 [^u7-2]: Questa disp. ha attualmente un nuovo testo.
 [^u7-3]: Questa disp. ha attualmente un nuovo testo.
 
-## Disposizione finale della modifica del 25 novembre 1996****
+## Disposizione finale della modifica del 25 novembre 1996
 
 [^u8-1]
 
 [^u8-1]: [RU 1996 3133](https://fedlex.data.admin.ch/eli/oc/1996/3133_3133_3133). Abrogata dal n. I 17 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Disposizione finale della modifica del 2 febbraio 2000****
+## Disposizione finale della modifica del 2 febbraio 2000
 
 [^u9-1]
 
 [^u9-1]: Abrogato dal n. II dell’O del 16 nov. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-## Disposizione finale della modifica del 4 dicembre 2000****
+## Disposizione finale della modifica del 4 dicembre 2000
 
 [^u10-1]
 
@@ -3339,19 +3345,19 @@ Le nuove disposizioni dell’articolo 21<sup>bis</sup> capoversi 1[^u4-2] e 4 le
 
 [^u10-2]: [RS 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439). Ora: O concernente l’assicurazione facoltativa per la vecchiaia, i superstiti e l’invalidità (OAF).
 
-## Disposizioni finali della modifica del 12 febbraio 2003****
+## Disposizioni finali della modifica del 12 febbraio 2003
 
 [^u11-1]
 
 [^u11-1]: Abrogato dal n. II dell’O del 16 nov. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-## Disposizioni finali della modifica del 2 luglio 2003****
+## Disposizioni finali della modifica del 2 luglio 2003
 
 [^u12-1]
 
 [^u12-1]: [RU 2003 2181](https://fedlex.data.admin.ch/eli/oc/2003/321). Abrogata dal n. I 17 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-## Disposizioni finali della modifica del 21 maggio 2003****
+## Disposizioni finali della modifica del 21 maggio 2003
 
 [^u13-1]
 
@@ -3371,13 +3377,13 @@ Le nuove disposizioni dell’articolo 21<sup>bis</sup> capoversi 1[^u4-2] e 4 le
 
 [^u13-2]: [RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)
 
-## Disposizioni finali della modifica del 28 gennaio 2004****
+## Disposizioni finali della modifica del 28 gennaio 2004
 
 [^u14-1]
 
 [^u14-1]: Abrogato dal n. II dell’O del 16 nov. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-## Disposizioni transitorie della modifica del 6 ottobre 2006 (5a revisione dell’AI)****
+## Disposizioni transitorie della modifica del 6 ottobre 2006 (5a revisione dell’AI)
 
 [^u15-1]
 
@@ -3396,7 +3402,7 @@ Fino all’entrata in vigore della legge federale del 24 marzo 2006[^u15-2] sugl
 
 [^u15-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
-## Disposizioni transitorie della modifica del 16 novembre 2011****
+## Disposizioni transitorie della modifica del 16 novembre 2011
 
 [^u16-1]
 
@@ -3414,7 +3420,7 @@ Fino all’entrata in vigore della legge federale del 24 marzo 2006[^u15-2] sugl
 [^u16-3]: [RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)
 [^u16-4]: [RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)
 
-## Disposizione transitoria della modifica del 1° dicembre 2017****
+## Disposizione transitoria della modifica del 1° dicembre 2017
 
 [^u17-1]
 
@@ -3424,7 +3430,7 @@ Fino all’entrata in vigore della legge federale del 24 marzo 2006[^u15-2] sugl
 
 <sup>2</sup> Nei casi di assicurati che esercitano un’attività lucrativa a tempo parziale e che svolgono anche mansioni consuete secondo l’articolo 7 capoverso 2 LAI a cui è stata rifiutata una rendita prima dell’entrata in vigore della modifica del 1° dicembre 2017 perché il grado d’invalidità era insufficiente, viene esaminata una nuova richiesta, se il calcolo del grado d’invalidità secondo l’articolo 27<sup>bis</sup> capoversi 2–4 determinerebbe presumibilmente il diritto a una rendita.
 
-## Disposizioni transitorie della modifica del 3 novembre 2021****
+## Disposizioni transitorie della modifica del 3 novembre 2021
 
 [^u18-1]
 
