@@ -1,26 +1,49 @@
 ---
 canton: VD
 number: "171.015"
-title: ARRÊTÉ du 01.07.2009 de mise en vigueur
+title: DÉCRET du 21.12.2022 fixant la rémunération du secrétaire général du Grand Conseil pour la législature 2023-2027 (DRSGGC)
+short: DRSGGC
 language: fr
-version: 2009-01-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.015?id=03d86413-29aa-416f-8940-4dc3bd202079"
+version: 2023-01-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.015?id=a5c1715d-bbd8-4257-8a44-5ffa92af3e97"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ARRÊTÉ de mise en vigueur
+# DÉCRET fixant la rémunération du secrétaire général du Grand Conseil pour la législature 2023-2027
 
-du 1 juillet 2009
+(DRSGGC)
 
-LE CONSEIL D'ÉTAT DU CANTON DE VAUD
+du 21 décembre 2022
 
-vu le préavis du Service juridique et législatif
+LE GRAND CONSEIL DU CANTON DE VAUD
 
-arrête
+vu l'article 31, alinéa 2 de la loi sur le Grand Conseil du 8 mai 2007 [^ingress-1]
+
+vu le projet de décret présenté par le Bureau du Grand Conseil
+
+décrète
+
+[^ingress-1]: Loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01?id=f2e96e40-e605-4a11-8df5-73896762e321))
 
 #### Art. 1
 
-<sup>1</sup> Les actes législatifs ci-après, publiés dans la "Feuille des avis officiels du Canton de Vaud" des 20 mars, 8 et 15 mai 2009, entrent en vigueur avec effet :
+<sup>1</sup> Le salaire annuel du secrétaire général du Grand Conseil correspond, pour l'année 2023, au montant prévu en classe 17, échelon 17, de l'échelle des salaires 2023 de l'Etat de Vaud.
 
-au 1er janvier 2009 : décret du 28 avril 2009 fixant la contribution-socle des communes au budget annuel de la Fondation pour l'accueil de jour des enfants (2009-2010) (RL 211.22) (FAO du 8 mai 2009) ; loi du 5 mai 2009 modifiant celle du 30 novembre 1910 d'introduction dans le Canton de Vaud du Code civil suisse (RSVM 211.01) (FAO du 15 mai 2009) ; décret du 5 mai 2009 fixant la rémunération du secrétaire général du Grand Conseil (RSV 171.015) (FAO du 15 mai 2009); au 1er mai 2009 : loi du 5 mai 2009 modifiant celle du 8 mai 2007 sur le Grand Conseil (RSVM 171.01) (FAO du 15 mai 2009); au 1er juillet 2009 : décret du 10 mars 2009 autorisant le Conseil d'Etat à adhérer à la Convention intercantonale sur l'Hôpital Riviera-Chablais Vaud-Valais (RL 810.94) (FAO du 20 mars 2009).
+<sup>2</sup> De 2024 à 2027, le salaire progressera chaque année du montant correspondant à celui d'un échelon de la classe 17, zone 3, de l'échelle des salaires de l'année correspondante.
+
+<sup>3</sup> Le salaire est adapté au renchérissement selon l'article 25 de la loi du 12 novembre 2001 sur le personnel de l'Etat de Vaud[^1-1] .
+
+<sup>4</sup> Le Bureau du Grand Conseil fait appliquer au secrétaire général d'éventuelles mesures salariales décidées par le Conseil d'Etat touchant l'ensemble du personnel de l'Etat ou les chefs de service.
+
+<sup>5</sup> Le salaire annuel est payé en treize fois, conformément aux règles applicables au personnel de l'Etat.
+
+[^1-1]: Loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
+
+#### Art. 2
+
+<sup>1</sup> Le présent décret entre en vigueur, rétroactivement si nécessaire, le 1<sup>er</sup> janvier 2023.
+
+#### Art. 3
+
+<sup>1</sup> Le Conseil d'Etat est chargé de l'exécution du présent décret. Il en publiera le texte conformément à l'article 84, alinéa 1, lettre a) de la Constitution cantonale et le mettra en vigueur, par voie d'arrêté, conformément à l'article 2 ci-dessus.
