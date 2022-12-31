@@ -3,13 +3,12 @@ canton: FR
 number: "741.16"
 title: Tarif für die Benützung der Kanalisationen der Kantonsstrassen für die Abwasserableitung
 language: de
-version: 2016-01-01
-valid_until: 2022-12-31
-version_adopted: 2015-12-07
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 1992-12-07
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/741.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7428/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7697/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,13 +17,13 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7428/pdf_file"
 
 Kantonsstrassen, Abwasserableitung - T
 
-vom 07.12.1992 (Fassung in Kraft getreten am 01.01.2016)
+vom 07.12.1992 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf den Artikel 110 des Strassengesetzes vom 15. Dezember 1967;
+gestützt auf Artikel 133 des Mobilitätsgesetzes vom 5. November 2021;
 
-gestützt auf den Artikel 72 des Ausführungsreglementes vom 7. Dezember 1992 zum Strassengesetz;
+gestützt auf das Mobilitätsreglement;
 
 auf Antrag der Baudirektion,
 

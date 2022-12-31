@@ -3,13 +3,12 @@ canton: FR
 number: "741.16"
 title: "Tarif concernant l'utilisation des canalisations des routes cantonales pour l'évacuation des eaux"
 language: fr
-version: 2016-01-01
-valid_until: 2022-12-31
-version_adopted: 2015-12-07
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 1992-12-07
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/741.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7428/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7697/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,13 +17,13 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7428/pdf_file"
 
 Routes cantonales, évacuation des eaux - T
 
-du 07.12.1992 (version entrée en vigueur le 01.01.2016)
+du 07.12.1992 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu l'article 110 de la loi du 15 décembre 1967 sur les routes;
+Vu l'article 133 de la loi du 5 novembre 2021 sur la mobilité;
 
-Vu l'article 72 du règlement du 7 décembre 1992 d'exécution de la loi sur les routes;
+Vu le règlement sur la mobilité;
 
 Sur la proposition de la Direction des travaux publics,
 
