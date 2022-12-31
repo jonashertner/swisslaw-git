@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 1. Juli 2022)
+vom 27. November 2009 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -242,7 +242,7 @@ Nicht als Telekommunikations- oder elektronische Dienstleistung gelten namentlic
 
 [^11-1]
 
-[^11-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 (AS **2****017** 6307).
+[^11-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 ### 2. Abschnitt: Gemeinwesen
 
@@ -452,7 +452,7 @@ Das Erbringen von Leistungen an eng verbundene Personen gilt als Leistungsverhä
 
 Private Organisationen im Sinn von Artikel 32*a*<sup>bis</sup> USG[^27-1] erbringen durch ihre Tätigkeiten Leistungen gegenüber den Herstellern und Importeuren. Die vorgezogenen Entsorgungsgebühren sind Entgelt für diese Leistungen.
 
-[^27-1]: SR **814****.****01**
+[^27-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 
 #### Art. 28
 
@@ -590,9 +590,9 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 - p.[^35-4] Apotheker und Apothekerinnen für die Durchführung von Covid-19-Impfungen.
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891)).
+[^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-4]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^35-4]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 31. Dez. 2023 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)Ziff. II).
 
 #### Art. 36
 
@@ -739,7 +739,7 @@ Von der Steuer sind befreit die Umsätze von:
 
 <sup>2</sup> Als Gold im Sinn von Absatz 1 Buchstaben d und e gelten auch Legierungen, die zwei oder mehr Gewichtsprozent Gold oder, wenn Platin enthalten ist, mehr Gold als Platin aufweisen.
 
-[^44-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^44-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang. Heute: 7118.9010, 9705.3100 und 9705.3900.
 [^44-2]: Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^44-3]: Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 
@@ -1085,7 +1085,7 @@ Für die Berechnung der abziehbaren Vorsteuern gilt Artikel 45 sinngemäss.
 
 Die Steuer auf den Lieferungen von Gegenständen und auf den Dienstleistungen, die für Umsätze nach Artikel 44 und Einfuhren nach Artikel 113 Buchstabe g verwendet werden, kann als Vorsteuer abgezogen werden.
 
-### 2. Abschnitt:**** Abzug fiktiver Vorsteuer
+### 2. Abschnitt: Abzug fiktiver Vorsteuer
 
 [^tit2-chap5-sec2-1]
 
@@ -2144,7 +2144,9 @@ Aus der Umsatzabstimmung muss ersichtlich sein, wie die Deklaration für die Ste
 
 Die Korrektur von Mängeln in zurückliegenden Abrechnungen muss getrennt von den ordentlichen Abrechnungen erfolgen.
 
-### 2. Kapitel: Auskunftspflicht von Drittpersonen (Art. 73 Abs. 2 Bst. c MWSTG)
+### 2. Kapitel: Auskunftspflicht von Drittpersonen
+
+### (Art. 73 Abs. 2 Bst. c MWSTG)
 
 #### Art. 130
 
@@ -2173,7 +2175,7 @@ Die Auskunftspflicht von Drittpersonen nach Artikel 73 Absatz 2 Buchstabe c MWST
 
 <sup>3</sup> Sie sorgt ausserdem dafür, dass regelmässige Kontrollen betreffend die Richtigkeit und die vollständige Übertragung der erhobenen Daten auf Datenträger stattfinden.
 
-[^131-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 (AS **20****17** 6307).
+[^131-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 132
 
@@ -2539,7 +2541,7 @@ Gegenrecht gilt als gewährt, wenn:
 
 Wird die Steuervergütung später als 180 Tage nach Eintreffen des vollständigen Antrags bei der ESTV ausgezahlt, so wird für die Zeit vom 181. Tag bis zur Auszahlung ein vom EFD festzusetzender Vergütungszins ausgerichtet, sofern der entsprechende Staat Gegenrecht gewährt.
 
-## 8. Titel: Mehrwertsteuer-Konsultativgremium****
+## 8. Titel: Mehrwertsteuer-Konsultativgremium
 
 [^tit8-1]
 
@@ -2589,7 +2591,7 @@ Das Konsultativgremium setzt sich aus vierzehn ständigen Mitgliedern zusammen.
 
 Das Konsultativgremium richtet seine Stellungnahmen und Empfehlungen an das EFD. Es kann darin die Mehrheits- und Minderheitsmeinungen kenntlich machen.
 
-[^160-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 (AS **20****17** 6307).
+[^160-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 161
 

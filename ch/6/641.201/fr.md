@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (Etat le 1<sup>er</sup> juillet 2022)
+du 27 novembre 2009 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -608,9 +608,9 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introduite par le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891)).
+[^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 30 juin 2024 ([RO 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)ch. III).
 [^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-5]: Introduite par le ch. II de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. II de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^35-5]: Introduite par le ch. II de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. II de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 31 déc. 2023 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)ch. II).
 
 #### Art. 36
 
@@ -757,7 +757,7 @@ Sont exonérées de l’impôt les opérations portant sur:
 
 <sup>2</sup> Sont également réputés être de l’or au sens de l’al. 1, let. d et e, les alliages qui contiennent en poids 2 % ou plus d’or ou qui, comprenant du platine, contiennent plus d’or que de platine.
 
-[^44-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
+[^44-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe. Actuellement: 7118.9010, 9705.3100 et 9705.3900
 [^44-2]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^44-3]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 
@@ -828,7 +828,7 @@ Elle tient en l’occurrence compte du fait que:
 - a. le fonds ne reverse pas toutes les taxes encaissées, et que
 - b. les acquéreurs assujettis ont déduit entièrement, au titre de l’impôt préalable, l’impôt qui leur a été facturé sur les prestations d’approvisionnement en eau, de traitement des eaux usées ou de gestion des déchets.
 
-### Section 1*a***** Imposition de la marge
+### Section 1*a* Imposition de la marge
 
 [^tit2-chap3-sec1a-1]
 
@@ -1103,7 +1103,7 @@ L’art. 45 s’applique par analogie au calcul du montant de l’impôt préala
 
 L’impôt grevant les livraisons de biens et les prestations de services, affectées à des opérations au sens de l’art. 44 et à des importations au sens de l’art. 113, let. g, est déductible à titre d’impôt préalable.
 
-### Section 2**** Déduction de l’impôt préalable fictif
+### Section 2 Déduction de l’impôt préalable fictif
 
 [^tit2-chap5-sec2-1]
 
@@ -1988,7 +1988,7 @@ Les art. 118 à 120 sont applicables par analogie à l’autorisation prévue à
 
 ### Chapitre 1 Droits et obligations de l’assujetti
 
-### Section 1**** Renonciation à l’inscription au registre des assujettis
+### Section 1 Renonciation à l’inscription au registre des assujettis
 
 [^tit5-chap1-sec1-1]
 
@@ -2172,7 +2172,7 @@ L’obligation des tiers de fournir des renseignements en vertu de l’art. 73, 
 
 ### Chapitre 3 Droits et obligations des autorités
 
-### Section 1 Protection des données****
+### Section 1 Protection des données
 
 [^tit5-chap3-sec1-1]
 
@@ -2556,7 +2556,7 @@ La réciprocité est réputée garantie si:
 
 Si l’impôt est remboursé plus de 180 jours après la réception par l’AFC de la demande complète, un intérêt rémunératoire à fixer par le DFF est versé depuis le 181<sup>e</sup> jour jusqu’au remboursement, à condition que l’État concerné accorde la réciprocité.
 
-## Titre 8 Organe consultatif en matière de TVA****
+## Titre 8 Organe consultatif en matière de TVA
 
 [^tit8-1]
 

@@ -4,11 +4,11 @@ title: "Ordinance of 27 November 2009 on Value Added Tax (Value Added Tax Ordina
 short: VAT Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: en
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220701-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Ordinance, VAT Ordinance)
 
-of 27 November 2009 (Status as of 1 July 2022)
+of 27 November 2009 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -592,9 +592,9 @@ Members of human medical and nursing professions within the meaning of Article 2
 - p.[^35-4] Pharmacists for administering COVID-19 vaccinations.
 
 [^35-1]: Inserted by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-2]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 till 31 Dec. 2022 ([[AS 2021 891](https://www.fedlex.admin.ch/eli/oc/2021/891/de)](https://fedlex.data.admin.ch/eli/oc/2021/891)).
+[^35-2]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 till 31 Dec. 2022, extended to 30 June 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-4]: Inserted by No II of the O of 27 Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Amended by No II of the O of 3 Dec. 2021, in force from 1 Jan. 2022 until 31 Dec. 2022 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^35-4]: Inserted by No II of the O of 27 Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Amended by No II of the O of 3 Dec. 2021, in force from 1 Jan. 2022 until 31 Dec. 2022, extended to 31 Dec. 2023 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)No II).
 
 #### Art. 36
 
@@ -812,7 +812,7 @@ It shall take into consideration that:
 - a. the fund does not pay out all the contributions received; and
 - b. the taxable customers of waste disposal services and water supplies have deducted the tax thereon invoiced to them in full as input tax.
 
-### Section 1*a***** Margin Taxation
+### Section 1*a* Margin Taxation
 
 [^tit2-chap3-sec1a-1]
 
@@ -1085,7 +1085,7 @@ Article 45 applies by analogy to the calculation of the deductible input taxes.
 
 The tax on supplies of goods and on supplies of services which are used for turnovers under Article 44 and imports under Article 113 let. g may be deducted as input tax.
 
-### Section 2**** Deduction of Notional Input Tax
+### Section 2 Deduction of Notional Input Tax
 
 [^tit2-chap5-sec2-1]
 
@@ -1972,7 +1972,7 @@ Articles 118–120 apply by analogy for authorisation under Article 63 paragraph
 
 ### Chapter 1 Rights and Obligations of the Taxable Person
 
-### Section 1**** Opting not to register as a Taxable Person
+### Section 1 Opting not to register as a Taxable Person
 
 [^tit5-chap1-sec1-1]
 
@@ -2156,7 +2156,7 @@ The obligation of third parties to provide information under Article 73 paragrap
 
 ### Chapter 3 Rights and Obligations of the Authorities
 
-### Section 1 Data Protection****
+### Section 1 Data Protection
 
 [^tit5-chap3-sec1-1]
 
@@ -2540,7 +2540,7 @@ Reciprocal right is deemed to be given if:
 
 If the tax refund is paid out later than 180 days after receipt of the complete application by the FTA, refund interest set by the FDF is paid for the period from the 181st day until payment, provided the relevant state grants reciprocal rights.
 
-## Title 8 Value Added Tax Consultative Commission****
+## Title 8 Value Added Tax Consultative Commission
 
 [^tit8-1]
 

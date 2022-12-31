@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220701/it"
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
+del 27 novembre 2009 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -600,9 +600,9 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introdotta dal n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-3]: Introdotta dal n. II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891)).
+[^35-3]: Introdotta dal n. II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogata sino al 30 giu. 2024 ([RU 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)n. III).
 [^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-5]: Introdotta dal n. II dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^35-5]: Introdotta dal n. II dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 31 dic. 2023 ([RU 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)n. II).
 
 #### Art. 36
 
@@ -749,7 +749,7 @@ Sono esenti dall’imposta le operazioni con:
 
 <sup>2</sup> È considerata oro ai sensi del capoverso 1 lettere d ed e anche qualsiasi lega contenente, in peso, 2 per cento o più di oro o, in presenza di platino, contenente più oro che platino.
 
-[^44-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), All.
+[^44-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato. Ora: 7118.9010, 9705.3100 e 9705.3900.
 [^44-2]: Nuovo testo giusta il n. I dell’O del 30 ott. 2014, in vigore dal 1° gen. 2013 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^44-3]: Nuovo testo giusta il n. I dell’O del 30 ott. 2014, in vigore dal 1° gen. 2013 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 
@@ -820,7 +820,7 @@ L’AFC tiene conto del fatto che:
 - a. il fondo non riversa tutte le tasse incassate; e
 - b. gli acquirenti contribuenti hanno dedotto interamente a titolo d’imposta precedente l’imposta loro fatturata sulle prestazioni di servizi di smaltimento e sulle forniture di acqua.
 
-### Sezione 1*a*:**** Imposizione dei margini
+### Sezione 1*a*: Imposizione dei margini
 
 [^tit2-chap3-sec1a-1]
 
@@ -1095,7 +1095,7 @@ Al calcolo delle imposte precedenti deducibili si applica per analogia l’artic
 
 L’imposta sulle forniture di beni e sulle prestazioni di servizi utilizzati per le operazioni di cui all’articolo 44 e per le importazioni di cui all’articolo 113 lettera g può essere dedotta quale imposta precedente.
 
-### Sezione 2:**** Deduzione dell’imposta precedente fittizia
+### Sezione 2: Deduzione dell’imposta precedente fittizia
 
 [^tit2-chap5-sec2-1]
 
@@ -1986,7 +1986,7 @@ All’autorizzazione di cui all’articolo 63 capoverso 2 LIVA si applicano per 
 
 ### Capitolo 1: Diritti e obblighi del contribuente
 
-### Sezione 1:**** Rinuncia all’annuncio di inizio dell’assoggettamento
+### Sezione 1: Rinuncia all’annuncio di inizio dell’assoggettamento
 
 [^tit5-chap1-sec1-1]
 
@@ -2172,7 +2172,7 @@ L’obbligo di terzi di fornire informazioni secondo l’articolo 73 capoverso 2
 
 ### Capitolo 3: Diritti e obblighi delle autorità
 
-### Sezione 1: Protezione dei dati****
+### Sezione 1: Protezione dei dati
 
 [^tit5-chap3-sec1-1]
 
@@ -2558,7 +2558,7 @@ La reciprocità è considerata garantita se:
 
 Se il rimborso dell’imposta è versato oltre 180 giorni dopo la ricezione della richiesta completa da parte dell’AFC, un interesse rimuneratorio fissato dal DFF è corrisposto a contare dal 181° giorno fino a quello del versamento, a condizione che lo Stato in questione accordi la reciprocità.
 
-## Titolo ottavo: Organo consultivo per l’IVA****
+## Titolo ottavo: Organo consultivo per l’IVA
 
 [^tit8-1]
 
