@@ -4,13 +4,13 @@ number: "351.53"
 title: Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 short: VKB
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-10-13
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-13
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/351.53"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3046/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3435/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3046/pdf_file"
 
 (VKB)
 
-vom 11.12.2007 (Stand 01.01.2021)
+vom 11.12.2007 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -270,7 +270,7 @@ als Verordnung:[^ingress-2]
   - 3\. Aufzugständer (Bettgalgen);
   - 4\. automatische Zusätze zu Sanitäreinrichtungen, wenn eine Person ohne diesen Behelf allein nicht zur betreffenden Körperhygiene fähig ist;
   - 5\. Nachtstühle.
-- c) der Anschaffungskosten für Hygienemasken, sofern im Kalenderjahr durchgehend oder teilweise infolge behördlicher Anordnungen eine Maskenpflicht besteht. Die Vergütung beträgt je betroffenes Kalenderjahr pauschal Fr. 30.– und wird auf besonderes Gesuch hin ausgerichtet.
+- c) …
 
 <sup>2</sup> Bezüger von Ergänzungsleistungen haben zudem Anspruch auf eine Vergütung in Höhe eines Drittels des Kostenbeitrags der AHV bei Hilfsmitteln:
 
