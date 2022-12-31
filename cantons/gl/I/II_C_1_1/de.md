@@ -4,13 +4,13 @@ number: II C/1/1
 title: Verordnung über die Entlöhnung der Behördenmitglieder sowie des Staats- und Lehrpersonals
 short: "Lohnverordnung, LohnV"
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-29
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2017-06-28
 in_force: 2018-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2327/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2371/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2327/pdf_file"
 
 (Lohnverordnung, LohnV)
 
-Vom 28.06.2017 (Stand 01.07.2022)
+Vom 28.06.2017 (Stand 01.01.2023)
 
 Der Landrat,
 
@@ -91,7 +91,7 @@ erlässt:
 
 <sup>3</sup> Die Differenz vom Minimum eines Lohnbands zum Minimum des nächsthöheren Lohnbands beträgt zwischen den Lohnbändern 1 und 12 je 7,3 Prozent und zwischen den Lohnbändern 12 und 16 je 6,6 Prozent.
 
-<sup>4</sup> Der minimale Jahreslohn des Lohnbands 1 beträgt mindestens 49 028 Franken.
+<sup>4</sup> Der minimale Jahreslohn des Lohnbands 1 beträgt mindestens 50 989 Franken.
 
 <sup>5</sup> Der Landrat passt das betragsmässige Minimum jedes Lohnbands mindestens alle vier Jahre und unter Mitberücksichtigung der Finanzlage des Kantons an die Arbeitsmarktentwicklung der Löhne an.
 
@@ -103,11 +103,11 @@ erlässt:
 
 <sup>1</sup> Die Lohnskala für die Lehrpersonen umfasst drei Lohnbänder.
 
-<sup>2</sup> Im ersten Lohnband beträgt der Jahreslohn mindestens 76 500 Franken und maximal 117 000 Franken.
+<sup>2</sup> Im ersten Lohnband beträgt der Jahreslohn mindestens 79 560 Franken und maximal 121 680 Franken.
 
-<sup>3</sup> Im zweiten Lohnband beträgt der Jahreslohn mindestens 88 900 Franken und maximal 142 000 Franken.
+<sup>3</sup> Im zweiten Lohnband beträgt der Jahreslohn mindestens 92 456 Franken und maximal 147 680 Franken.
 
-<sup>4</sup> Im dritten Lohnband beträgt der Jahreslohn mindestens 98 000 Franken und maximal 153 000 Franken.
+<sup>4</sup> Im dritten Lohnband beträgt der Jahreslohn mindestens 101 920 Franken und maximal 159 120 Franken.
 
 <sup>5</sup> Der Landrat passt das betragsmässige Minimum und Maximum jedes Lohnbands mindestens alle vier Jahre und unter Mitberücksichtigung der Finanzlage des Kantons an die Arbeitsmarktentwicklung der Löhne an.
 
@@ -316,7 +316,7 @@ erlässt:
 
 **Präsidium**
 
-<sup>1</sup> Der Jahreslohn für die vollamtlichen Präsidien beträgt 206 000 Franken.
+<sup>1</sup> Der Jahreslohn für die vollamtlichen Präsidien beträgt 210 120 Franken.
 
 <sup>2</sup> Das Pensum des Obergerichtspräsidiums umfasst mindestens 50 Prozent.
 
@@ -380,7 +380,7 @@ erlässt:
 
 <sup>2</sup> Die Vergütung beträgt:
 
-- a. für das Landratspräsidium: — 11 000 Franken;
+- a. für das Landratspräsidium: — 12 000 Franken;
 - b. für das Präsidium ständiger Kommissionen: — 6000 Franken.
 
 #### Art. 27
@@ -451,22 +451,22 @@ erlässt:
 
 <table>
 <tr><th>Lohnband</th><th>LB Minimum</th><th>LB Maximum</th></tr>
-<tr><td>Lohnband 1</td><td>49 028</td><td>71 091</td></tr>
-<tr><td>Lohnband 2</td><td>52 630</td><td>76 314</td></tr>
-<tr><td>Lohnband 3</td><td>56 495</td><td>81 918</td></tr>
-<tr><td>Lohnband 4</td><td>60 646</td><td>87 936</td></tr>
-<tr><td>Lohnband 5</td><td>65 100</td><td>94 395</td></tr>
-<tr><td>Lohnband 6</td><td>69 881</td><td>101 328</td></tr>
-<tr><td>Lohnband 7</td><td>75 015</td><td>108 772</td></tr>
-<tr><td>Lohnband 8</td><td>80 525</td><td>116 761</td></tr>
-<tr><td>Lohnband 9</td><td>86 439</td><td>125 337</td></tr>
-<tr><td>Lohnband 10</td><td>92 789</td><td>134 544</td></tr>
-<tr><td>Lohnband 11</td><td>99 605</td><td>144 427</td></tr>
-<tr><td>Lohnband 12</td><td>106 921</td><td>155 036</td></tr>
-<tr><td>Lohnband 13</td><td>113 950</td><td>165 227</td></tr>
-<tr><td>Lohnband 14</td><td>121 440</td><td>176 089</td></tr>
-<tr><td>Lohnband 15</td><td>129 423</td><td>187 664</td></tr>
-<tr><td>Lohnband 16</td><td>137 931</td><td>200 000</td></tr>
+<tr><td>Lohnband 1</td><td>50 989</td><td>73 934</td></tr>
+<tr><td>Lohnband 2</td><td>54 735</td><td>79 366</td></tr>
+<tr><td>Lohnband 3</td><td>58 755</td><td>85 194</td></tr>
+<tr><td>Lohnband 4</td><td>63 072</td><td>91 454</td></tr>
+<tr><td>Lohnband 5</td><td>67 704</td><td>98 171</td></tr>
+<tr><td>Lohnband 6</td><td>72 676</td><td>105 381</td></tr>
+<tr><td>Lohnband 7</td><td>78 016</td><td>113 123</td></tr>
+<tr><td>Lohnband 8</td><td>83 746</td><td>121 432</td></tr>
+<tr><td>Lohnband 9</td><td>89 897</td><td>130 350</td></tr>
+<tr><td>Lohnband 10</td><td>96 501</td><td>139 926</td></tr>
+<tr><td>Lohnband 11</td><td>103 589</td><td>150 204</td></tr>
+<tr><td>Lohnband 12</td><td>111 198</td><td>161 237</td></tr>
+<tr><td>Lohnband 13</td><td>118 508</td><td>171 837</td></tr>
+<tr><td>Lohnband 14</td><td>126 298</td><td>183 132</td></tr>
+<tr><td>Lohnband 15</td><td>134 600</td><td>195 170</td></tr>
+<tr><td>Lohnband 16</td><td>143 448</td><td>208 000</td></tr>
 </table>
 
 ## A2. Anhang 2: Einreihungsplan
