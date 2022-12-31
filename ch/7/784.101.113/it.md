@@ -3,18 +3,18 @@ sr: "784.101.113"
 title: "Ordinanza dell'UFCOM del 9 dicembre 1997 sui servizi di telecomunicazione e gli elementi d'indirizzo"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20220701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza dell’UFCOM sui servizi di telecomunicazione e gli elementi d’indirizzo****
+# Ordinanza dell’UFCOM sui servizi di telecomunicazione e gli elementi d’indirizzo
 
-del 9 dicembre 1997 (Stato 1° luglio 2022)[^t-1]
+del 9 dicembre 1997 (Stato 1° gennaio 2023)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 25 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
@@ -42,16 +42,16 @@ La lista dei piani nazionali di numerazione e delle prescrizioni tecniche e ammi
 
 La presente ordinanza entra in vigore il 1° gennaio 1998.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 1)
 
-## Prescrizioni tecniche e amministrative relative ai servizi di telecomunicazione****
+## Prescrizioni tecniche e amministrative relative ai servizi di telecomunicazione
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Aggiornato dai n. II delle O dell’UFCOM del 25 nov. 2016 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), del 12 dic. 2016 ([RU 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)), dai n. I delle O dell’UFCOM del 18 nov. 2020 ([RU 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)) e del 23 feb. 2022, in vigore dal 1° lug. 2022 ([RU 2022 135](https://fedlex.data.admin.ch/eli/oc/2022/135)).
-[^annex1-lvlu1-1]: Il testo delle prescrizioni tecniche e amministrative non è pubblicato nella RU. È ottenibile presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne o consultabile all’indirizzo Internet: www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Telecomunicazione.
+[^t-2]: Aggiornato dal n. II delle O dell’UFCOM del 25 nov. 2016 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), del 12 dic. 2016 ([RU 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)), dal n. I delle O dell’UFCOM del 18 nov. 2020 ([RU 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), del 23 feb. 2022 ([RU 2022 135](https://fedlex.data.admin.ch/eli/oc/2022/135)) e del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)).
+[^annex1-lvlu1-1]: Il contenuto delle prescrizioni tecniche e amministrative n. 1–4, 6, 7 e 9–11 non è pubblicato nella RU. È ottenibile presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne o consultabile all’indirizzo Internet: www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Telecomunicazione. Il contenuto delle prescrizioni tecniche e amministrative n. 8, 12 e 13 è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/740](https://fedlex.data.admin.ch/eli/oc/2022/740%20) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 - 1\. Prescrizioni tecniche e amministrative relative alla gestione e alla messa a disposizione dei dati elenco dei fornitori del servizio telefonico pubblico (7<sup>a</sup> edizione)
 - 2\. Prescrizioni tecniche e amministrative relative alla qualità del servizio universale (9<sup>a</sup> edizione)
@@ -61,18 +61,22 @@ Allegato 1*[^t-2]*
 - 6\. Prescrizioni tecniche e amministrative relative alle proprietà delle interfacce del servizio universale (7<sup>a</sup> edizione)
 - 7\. Prescrizioni tecniche e amministrative relative all’identificazione della linea chiamante (3<sup>a</sup> edizione)
 
-\8. Prescrizioni tecniche e amministrative relative alla segnalazione di interferenze sulle reti (1<sup>a</sup> edizione)
+\8. Prescrizioni tecniche e amministrative relative alla segnalazione di interferenze sulle reti (2<sup>a</sup> edizione)
 
 - 9\. Prescrizioni tecniche e amministrative concernenti la pubblicazione delle informazioni relative alla qualità dei servizi di telecomunicazione (1<sup>a</sup> edizione)
 - 10\. Prescrizioni tecniche e amministrative relative alla portabilità dei numeri tra fornitori di servizi di telecomunicazione (1<sup>a</sup> edizione)
 
 \11. Prescrizioni tecniche e amministrative relative alla libera scelta del fornitore di collegamenti nazionali e internazionali (1<sup>a</sup> edizione)
 
-Allegato 2*[^t-3]*
+- 12\. Prescrizioni tecniche e amministrative relative a manipolazioni non autorizzate di impianti di telecomunicazione commesse con trasmissione mediante telecomunicazione (1<sup>a</sup> edizione)
+
+\13. Prescrizioni tecniche e amministrative relative alla sicurezza delle reti e dei servizi esercitati dai concessionari di radiocomunicazione mobile (1<sup>a</sup> edizione)
+
+Allegato 2[^t-3]
 
 (art. 2)
 
-## Piani nazionali di numerazione e prescrizioni tecniche e amministrative relative agli elementi d’indirizzo****
+## Piani nazionali di numerazione e prescrizioni tecniche e amministrative relative agli elementi d’indirizzo
 
 [^annex2-lvlu1-1]
 
