@@ -4,11 +4,11 @@ title: "Ordinanza dell'Assemblea federale del 18 marzo 2016 sull'organizzazione 
 short: OEs
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/217"
 language: it
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-217-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-217-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20180101/it"
 
 (Organizzazione dell’esercito, OEs)
 
-del 18 marzo 2016 (Stato 1° gennaio 2018)
+del 18 marzo 2016 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -56,19 +56,15 @@ L’esercito si articola in:
   Comando Operazioni, comprendente:
 
   - 1\. il Servizio informazioni militare,
-  - 2\. le Forze terrestri, comprendenti tre brigate meccanizzate e il comando forze speciali,
-  - 3\. quattro divisioni territoriali,
+  - 2\.[^2-1] le Forze terrestri, comprendenti le tre brigate meccanizzate,
+  - 3\.[^2-2] le quattro divisioni territoriali,
   - 4\. il comando polizia militare,
-  - 5\. le Forze aeree, comprendenti il Comando Impiego Forze aeree e una brigata d’istruzione e d’allenamento delle Forze aeree,
-  - 6\. il Centro di competenza SWISSINT;
+  - 5\.[^2-3] le Forze aeree, comprendenti la brigata d’aviazione e la brigata DTA,
+  - 6\. il Centro di competenza SWISSINT,
+  - 7\.[^2-4] il comando forze speciali;
 
-- c.
-
-  Comando Supporto, comprendente:
-
-  - 1\. la Base logistica dell’esercito, comprendente una brigata logistica e la Sanità militare,
-  - 2\. la Base d’aiuto alla condotta, comprendente una brigata d’aiuto alla condotta;
-
+- c.[^2-5] Base logistica dell’esercito, comprendente la brigata logistica e la Sanità militare;
+- c<sup>bis</sup>.[^2-6] Comando Ciber, comprendente la brigata di aiuto alla condotta;
 - d.
 
   Comando Istruzione, comprendente:
@@ -76,6 +72,13 @@ L’esercito si articola in:
   - 1\. l’Istruzione superiore dei quadri,
   - 2\. cinque formazioni d’addestramento,
   - 3\. il personale dell’esercito.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
+[^2-2]: Nuovo testo giusta il n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
+[^2-3]: Nuovo testo giusta il n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
+[^2-4]: Introdotto dal n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
+[^2-5]: Nuovo testo giusta il n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
+[^2-6]: Introdotta dal n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
 
 #### Art. 3
 
@@ -115,13 +118,21 @@ Dopo l’entrata in vigore della presente ordinanza il Consiglio federale introd
 - b. i cambiamenti di incorporazione e le nuove incorporazioni che il passaggio rende necessari;
 - c. l’articolazione dell’esercito.
 
+#### Art. 6a
+
+**Disposizione transitoria della modifica del 18 marzo 2022**[^6a-1]
+
+Il Consiglio federale istituisce il Comando Ciber entro due anni dall’entrata in vigore della modifica del 18 marzo 2022.
+
+[^6a-1]: Introdotto dal n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
+
 #### Art. 7
 
 **Abrogazione di un altro atto normativo**
 
 L’organizzazione dell’esercito del 4 ottobre 2002[^7-1] è abrogata.
 
-[^7-1]: [[RU 2003 4027](https://fedlex.data.admin.ch/eli/oc/2003/585), [2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775)n. III, [2007 2971](https://fedlex.data.admin.ch/eli/oc/2007/399), [2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)n. III [6921](https://fedlex.data.admin.ch/eli/oc/2009/846)n. I 6]
+[^7-1]: [[RU 2003 4027](https://fedlex.data.admin.ch/eli/oc/2003/585); [2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775)n. III; [2007 2971](https://fedlex.data.admin.ch/eli/oc/2007/399); [2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)n. III, [6921](https://fedlex.data.admin.ch/eli/oc/2009/846)n. I 6]
 
 #### Art. 8
 

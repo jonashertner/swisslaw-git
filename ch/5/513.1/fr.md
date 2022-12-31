@@ -4,11 +4,11 @@ title: "Ordonnance de l'Assemblée fédérale du 18 mars 2016 sur l'organisation
 short: OOrgA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/217"
 language: fr
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-217-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-217-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20180101/fr"
 
 (Organisation de l’armée, OOrgA)
 
-du 18 mars 2016 (Etat le 1<sup>er</sup> janvier 2018)
+du 18 mars 2016 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -50,25 +50,21 @@ Ne font pas partie de l’effectif réglementaire et de l’effectif réel de l�
 
 La structure de l’armée est la suivante:
 
-- a. le chef de l’Armée, épaulé par l’Etat-major de l’armée;
+- a. le chef de l’Armée, épaulé par l’État-major de l’armée;
 - b.
 
-  le commandement des opérations, comprenant:
+  le commandement des Opérations, comprenant:
 
   - 1\. le Renseignement militaire,
-  - 2\. les Forces terrestres, incluant trois brigades mécanisées et le commandement des Forces spéciales,
-  - 3\. quatre divisions territoriales,
+  - 2\.[^2-1] les Forces terrestres, y compris les trois brigades mécanisées,
+  - 3\.[^2-2] les quatre divisions territoriales,
   - 4\. le commandement de la Police militaire,
-  - 5\. les Forces aériennes, incluant le commandement de l’Engagement des Forces aériennes et une brigade d’instruction et d’entraînement des Forces aériennes,
-  - 6\. le centre de compétence SWISSINT;
+  - 5\.[^2-3] les Forces aériennes, y compris la brigade d’aviation et la brigade de défense sol-air,
+  - 6\.[^2-4] le centre de compétence SWISSINT,
+  - 7\.[^2-5] le commandement des Forces spéciales;
 
-- c.
-
-  le commandement du Soutien, comprenant:[^2-1]
-
-  - 1\. la Base logistique de l’armée, comprenant une brigade logistique et les Affaires sanitaires,
-  - 2\. la Base d’aide au commandement, incluant une brigade d’aide au commandement;
-
+- c.[^2-6] la Base logistique de l’armée, y compris la brigade logistique et le domaine des Affaires sanitaires;
+- c<sup>bis</sup>.[^2-7] le commandement Cyber, y compris la brigade d’aide au commandement;
 - d.
 
   le commandement de l’Instruction, comprenant:
@@ -77,7 +73,13 @@ La structure de l’armée est la suivante:
   - 2\. cinq formations d’application,
   - 3\. le Personnel de l’armée.
 
-[^2-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-5]: Introduit par le ch. I de l’O de l’Ass. féd. du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-6]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-7]: Introduite par le ch. I de l’O de l’Ass. féd. du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 3
 
@@ -117,13 +119,21 @@ Le Conseil fédéral introduit par étape la nouvelle réglementation de l’arm
 - b. les changements d’incorporations et les nouvelles incorporations nécessaires dans le cadre de la transition;
 - c. la structure de l’armée.
 
+#### Art. 6a
+
+**Disposition transitoire relative à la modification du 18 mars 2022**[^6a-1]
+
+Le Conseil fédéral met en place le commandement Cyber dans un délai de deux ans à compter de l’entrée en vigueur de la modification du 18 mars 2022.
+
+[^6a-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+
 #### Art. 7
 
 **Abrogation d’un autre acte**
 
 L’organisation de l’armée du 4 octobre 2002[^7-1] est abrogée.
 
-[^7-1]: [[RO 2003 4027](https://fedlex.data.admin.ch/eli/oc/2003/585), [2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775)ch. III, [2007 2971](https://fedlex.data.admin.ch/eli/oc/2007/399), [2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)ch. III [6921](https://fedlex.data.admin.ch/eli/oc/2009/846)ch. I 6]
+[^7-1]: [[RO 2003 4027](https://fedlex.data.admin.ch/eli/oc/2003/585); [2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775)ch. III; [2007 2971](https://fedlex.data.admin.ch/eli/oc/2007/399); [2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)ch. III, [6921](https://fedlex.data.admin.ch/eli/oc/2009/846)ch. I 6]
 
 #### Art. 8
 

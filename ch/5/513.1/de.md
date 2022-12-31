@@ -4,11 +4,11 @@ title: "Verordnung der Bundesversammlung vom 18. März 2016 über die Organisati
 short: AO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/217"
 language: de
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-217-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-217-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20180101/de"
 
 (Armeeorganisation, AO)
 
-vom 18. März 2016 (Stand am 1. Januar 2018)
+vom 18. März 2016 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -56,19 +56,15 @@ Die Armee gliedert sich in:
   das Kommando Operationen, einschliesslich:
 
   - 1\. des militärischen Nachrichtendienstes,
-  - 2\. des Heeres, einschliesslich dreier mechanisierter Brigaden und des Kommandos Spezialkräfte,
-  - 3\. vier Territorialdivisionen,
+  - 2\.[^2-1] des Heeres, einschliesslich der drei mechanisierten Brigaden,
+  - 3\.[^2-2] der vier Territorialdivisionen,
   - 4\. des Kommandos Militärpolizei,
-  - 5\. der Luftwaffe, einschliesslich des Kommandos Einsatz Luftwaffe sowie einer Luftwaffenausbildungs- und –trainingsbrigade,
-  - 6\. Kompetenzzentrum SWISSINT;
+  - 5\.[^2-3] der Luftwaffe, einschliesslich der Fliegerbrigade und der Bodluv-Brigade,
+  - 6\.[^2-4] des Kompetenzzentrums SWISSINT,
+  - 7\.[^2-5] des Kommandos Spezialkräfte;
 
-- c.
-
-  das Unterstützungskommando, einschliesslich:
-
-  - 1\. der Logistikbasis der Armee, einschliesslich einer Logistikbrigade und des Bereichs Sanität,
-  - 2\. der Führungsunterstützungsbasis, einschliesslich der Führungsunterstützungsbrigade;
-
+- c.[^2-6] die Logistikbasis der Armee, einschliesslich der Logistikbrigade und des Bereichs Sanität;
+- c<sup>bis</sup>.[^2-7] das Kommando Cyber, einschliesslich der Führungsunterstützungsbrigade;
 - d.
 
   das Kommando Ausbildung, einschliesslich:
@@ -76,6 +72,14 @@ Die Armee gliedert sich in:
   - 1\. der höheren Kaderausbildung,
   - 2\. fünf Lehrverbänden,
   - 3\. des Personellen der Armee.
+
+[^2-1]: Fassung gemäss Ziff. I der V der BVers vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-2]: Fassung gemäss Ziff. I der V der BVers vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-3]: Fassung gemäss Ziff. I der V der BVers vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-4]: Fassung gemäss Ziff. I der V der BVers vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-5]: Eingefügt durch Ziff. I der V der BVers vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-6]: Fassung gemäss Ziff. I der V der BVers vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-7]: Eingefügt durch Ziff. I der V der BVers vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 3
 
@@ -115,13 +119,21 @@ Der Bundesrat führt nach Inkrafttreten dieser Verordnung die Neuordnung der Arm
 - b. die im Zusammenhang mit der Überführung notwendigen Umteilungen und Neueinteilungen;
 - c. die Gliederung der Armee.
 
+#### Art. 6a
+
+**Übergangsbestimmung zur Änderung vom 18. März 2022**[^6a-1]
+
+Der Bundesrat führt nach Inkrafttreten der Änderung vom 18. März 2022 das Kommando Cyber innerhalb von zwei Jahren ein.
+
+[^6a-1]: Eingefügt durch Ziff. I der V der BVers vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+
 #### Art. 7
 
 **Aufhebung eines anderen Erlasses**
 
 Die Armeeorganisation vom 4. Oktober 2002[^7-1] wird aufgehoben.
 
-[^7-1]: [[AS 2003 4027](https://fedlex.data.admin.ch/eli/oc/2003/585),[2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775)Ziff. III, [2007 2971](https://fedlex.data.admin.ch/eli/oc/2007/399), [2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)Ziff. III [6921](https://fedlex.data.admin.ch/eli/oc/2009/846)Ziff. I 6]
+[^7-1]: [[AS 2003 4027](https://fedlex.data.admin.ch/eli/oc/2003/585);[2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775)Ziff. III; [2007 2971](https://fedlex.data.admin.ch/eli/oc/2007/399); [2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)Ziff. III, [6921](https://fedlex.data.admin.ch/eli/oc/2009/846)Ziff. I 6]
 
 #### Art. 8
 
@@ -129,4 +141,4 @@ Die Armeeorganisation vom 4. Oktober 2002[^7-1] wird aufgehoben.
 
 Diese Verordnung tritt gleichzeitig mit der Änderung vom 18. März 2016[^8-1] des Militärgesetzes vom 3. Februar 1995 in Kraft.
 
-[^8-1]: [AS 2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215).Tritt am 1. Januar 2018 in Kraft.
+[^8-1]: [AS 2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215). Tritt am 1. Januar 2018 in Kraft.
