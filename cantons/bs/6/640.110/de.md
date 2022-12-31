@@ -4,13 +4,13 @@ number: "640.110"
 title: Verordnung zum Gesetz über die direkten Steuern
 short: "Steuerverordnung, StV"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-30
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-27
 adopted: 2000-11-14
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5742/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6131/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Steuerverordnung | Allgemeine Steuern
 
 (Steuerverordnung, StV)
 
-Vom 14. November 2000 (Stand 1. Januar 2022)
+Vom 14. November 2000 (Stand 1. Januar 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -391,7 +391,7 @@ beschliesst:
 - a) zur rationellen Energieverwendung oder zur Nutzung erneuerbarer Energien beitragen und die sich auf den Ersatz von veralteten oder auf die erstmalige Anbringung von neuen Bauteilen oder Installationen in bestehenden Gebäuden beziehen, soweit sie bei der direkten Bundessteuer[^36-1] in Abzug gebracht werden können;
 - b) der Erfüllung gesetzlicher oder behördlich veranlasster Umwelt oder Denkmalschutzvorschriften dienen.
 
-[^36-1]: § 36 lit. a: Art. 5 bis 8 der Verordnung des Schweizerischen Bundesrates vom 24. August 1992 über den Abzug der Kosten von Liegenschaften des Privatvermögens, SR [642.116](https://db.clex.ch/link/Bund/642.116/de); Verordnung des Eidgenössischen Finanzdepartementes vom 24. August 1992 über die Massnahmen zur rationellen Energieverwendung und zur Nutzung erneuerbarer Energien, SR [642.116.1](https://db.clex.ch/link/Bund/642.116.1/de).
+[^36-1]: § 36 lit. a: Art. 1 der Verordnung des Schweizerischen Bundesrates vom 9. März 2018 über den Abzug der Kosten von Liegenschaften des Privatvermögens, SR [642.116](https://db.clex.ch/link/Bund/642.116/de); Verordnung des Eidgenössischen Finanzdepartementes vom 24. August 1992 über die Massnahmen zur rationellen Energieverwendung und zur Nutzung erneuerbarer Energien, SR [642.116.1](https://db.clex.ch/link/Bund/642.116.1/de).
 
 #### § 36a
 
@@ -562,7 +562,7 @@ beschliesst:
 - c) für nicht kotierte Wertpapiere ist der Verkehrswert nach der von der Schweizerischen Steuerkonferenz und der Eidgenössischen Steuerverwaltung herausgegebenen «Wegleitung zur Bewertung von Wertpapieren ohne Kurswert für die Vermögenssteuer» zu ermitteln; ausserbörsliche Kursnotierungen sind dabei angemessen zu berücksichtigen;
 - d) für Forderungen und Guthaben gilt der Nominalwert.
 
-<sup>2</sup> Sperrfristen auf Mitarbeiterbeteiligungen gemäss § 18b Abs. 1 des Gesetzes werden mit einem Einschlag auf dem Verkehrswert von 20% berücksichtigt.
+<sup>2</sup> Sperrfristen auf Mitarbeiterbeteiligungen gemäss § 18b Abs. 1 des Gesetzes werden mit einem Einschlag auf dem Verkehrswert von 30 % berücksichtigt.
 
 #### § 49
 
