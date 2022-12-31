@@ -4,13 +4,13 @@ number: "131.1"
 title: Gesetz über die Wahlen und Abstimmungen
 short: "Wahl- und Abstimmungsgesetz, WAG"
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-03-29
+version: 2023-01-01
+valid_until: 2025-10-16
+version_adopted: 2022-08-25
 adopted: 2006-09-28
 in_force: 2006-12-16
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.1"
-pdf: "https://bgs.zg.ch/api/de/versions/1863/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1863/pdf_file"
 
 (Wahl- und Abstimmungsgesetz, WAG)
 
-Vom 28. September 2006 (Stand 1. Januar 2019)
+Vom 28. September 2006 (Stand 1. Januar 2023)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -278,19 +278,30 @@ beschliesst:
 
 **Elektronische Erfassung und Auswertung der Wahl- und Stimmzettel**
 
-<sup>1</sup> Der Kanton unterhält ein EDV-Programm, das
+<sup>1</sup> Der Kanton unterhält ein elektronisches Erfassungs- und Auswertungssystem, welches
 
-- a) die Stimmbüros der Einwohnergemeinden bei der Übertragung des Inhalts der Wahl- und Stimmzettel in elektronischer Form unterstützt;
+- a) die Stimmbüros der Gemeinden bei der Erfassung und der Übertragung des Inhalts der Wahl- und Stimmzettel in elektronischer Form unterstützt;
 - b) den so erfassten Inhalt der Wahl- und Stimmzettel auswertet;
 - c) die Ergebnisse der Wahl oder Abstimmung ermittelt;
-- d) die Daten zwischen den Stimmbüros der Einwohnergemeinden und der Staatskanzlei übermittelt;
+- d) die Daten zwischen den Stimmbüros der Gemeinden und der Staatskanzlei übermittelt;
 - e) die erforderlichen statistischen Auswertungen vornimmt.
 
-<sup>2</sup> Das EDV-Programm kann für kantonale und eidgenössische Urnenwahlen und -abstimmungen zum Einsatz kommen; über seinen Einsatz entscheidet die Staatskanzlei.
+<sup>2</sup> Die Staatskanzlei entscheidet über den Einsatz des elektronischen Erfassungs- und Auswertungssystems
 
-<sup>3</sup> Wenn die Staatskanzlei den Einsatz des EDV-Programms anordnet, sind die Einwohnergemeinden verpflichtet, dieses zu verwenden.
+- a) bei eidgenössischen und kantonalen Wahlen und Abstimmungen;
+- b) bei gemeindlichen Gesamterneuerungswahlen.
 
-<sup>4</sup> Das EDV-Programm wird den Einwohnergemeinden für kantonale und eidgenössische Urnenwahlen und -abstimmungen kostenlos zur Verfügung gestellt. Bei Gesamterneuerungswahlen steht dieses auch für gemeindliche Wahlen kostenlos zur Verfügung.
+<sup>3</sup> Die Staatskanzlei stellt das elektronische Erfassungs- und Auswertungssystem den Gemeinden auch für die übrigen gemeindlichen Wahlen und die gemeindlichen Abstimmungen zur Verfügung.
+
+<sup>4</sup> Wenn die Staatskanzlei den Einsatz des elektronischen Erfassungs- und Auswertungssystems für eidgenössische und kantonale Wahlen und Abstimmungen sowie für gemeindliche Gesamterneuerungswahlen anordnet, sind die Gemeinden verpflichtet, dieses zu verwenden.
+
+<sup>5</sup> Die Gemeinden übernehmen den Support und die Kosten des elektronischen Erfassungs- und Auswertungssystems, sofern am Abstimmungs- oder Wahltag
+
+- a) keine eidgenössische oder kantonale Abstimmung stattfindet;
+- b) keine eidgenössische oder kantonale Wahl stattfindet;
+- c) keine gemeindliche Gesamterneuerungswahl stattfindet, bei der die Staatskanzlei das elektronische Erfassungs- und Auswertungssystem angeordnet hat.
+
+<sup>6</sup> In den übrigen Fällen übernimmt der Kanton den Support und die Kosten des elektronischen Erfassungs- und Auswertungssystems.
 
 ## 2. Abstimmungen
 
@@ -392,6 +403,8 @@ beschliesst:
 
 <sup>4</sup> Jede vorgeschlagene Person muss unterschriftlich bestätigen, dass sie den Wahlvorschlag annimmt. Fehlt die Bestätigung, so wird ihr Name gestrichen.
 
+<sup>5</sup> Die Annahme des Wahlvorschlags kann nicht widerrufen werden.
+
 #### § 32a
 
 **Inhalt bei Majorzwahlen**
@@ -402,6 +415,8 @@ beschliesst:
 
 <sup>3</sup> Jede vorgeschlagene Person muss unterschriftlich bestätigen, dass sie den Wahlvorschlag annimmt. Fehlt die Bestätigung, fällt der Wahlvorschlag dahin.
 
+<sup>4</sup> Die Annahme des Wahlvorschlags kann nicht widerrufen werden.
+
 #### § 33
 
 **Unterzeichnung**
@@ -409,6 +424,8 @@ beschliesst:
 <sup>1</sup> Jeder Wahlvorschlag muss von zehn Stimmberechtigten des betreffenden Wahlkreises unterzeichnet sein. Die Unterschrift kann nicht zurückgezogen werden.
 
 <sup>2</sup> Die erstunterzeichnende Person gilt als Vertreterin des betreffenden Wahlvorschlages, sofern nicht ausdrücklich etwas anderes festgelegt wurde. Wer den Wahlvorschlag vertritt, ist berechtigt und verpflichtet, die zur Beseitigung von Mängeln erforderlichen Erklärungen rechtsverbindlich abzugeben.
+
+<sup>2a</sup> Die Vertretung des betreffenden Wahlvorschlags führt auf dem Wahlvorschlag die Erreichbarkeit auf (Telefonnummer und E-Mail-Adresse).
 
 <sup>3</sup> Hat eine Person mehr als einen Wahlvorschlag pro Wahlart unterzeichnet, werden ihre Unterschriften von allen Wahlvorschlägen für diese Wahlart gestrichen. Das ist den Vertreterinnen oder Vertretern des Wahlvorschlags mitzuteilen, damit allenfalls Ersatzunterschriften beigebracht werden können. Diese sind bis am Mittwoch nach dem Wahlanmeldeschluss, 17.00 Uhr, einzureichen.
 
@@ -428,21 +445,29 @@ beschliesst:
 
 <sup>1</sup> Die Wahlvorschläge liegen auf der Staatskanzlei bzw. auf der Gemeindekanzlei bis zum Mittwoch nach dem Wahlanmeldeschluss, 17.00 Uhr, zur Einsicht auf. Bis zu diesem Zeitpunkt können Mängel der Wahlvorschläge geltend gemacht werden.
 
-<sup>2</sup> Festgestellte Mängel sind bis spätestens am folgenden Tag der Vertreterin oder dem Vertreter des betreffenden Wahlvorschlages mitzuteilen.
+<sup>2</sup> Festgestellte Mängel sind bis spätestens am folgenden Tag, 12.00 Uhr, der Vertreterin oder dem Vertreter des betreffenden Wahlvorschlags mitzuteilen.
 
-<sup>3</sup> Wird ein Mangel nicht bis zum folgenden Montag, 17.00 Uhr, behoben, wird der Wahlvorschlag als ungültig erklärt. Betrifft der Mangel nur einzelne Vorgeschlagene, so wird nur deren Name gestrichen.
+<sup>3</sup> Wird ein Mangel nicht bis zum Freitag nach dem Wahlanmeldeschluss, 12.00 Uhr, behoben, wird der Wahlvorschlag als ungültig erklärt und die Ungültigkeit der Vertreterin oder dem Vertreter des Wahlvorschlags umgehend, jedoch spätestens bis 17.00 Uhr, mitgeteilt. Betrifft der Mangel nur einzelne Vorgeschlagene, so wird nur deren Name gestrichen.
 
 #### § 36
 
 **Ergänzung von Wahlvorschlägen**
 
-<sup>1</sup> Die Vertreterinnen oder Vertreter von Wahlvorschlägen, auf denen Vorgeschlagene amtlich gestrichen wurden, werden eingeladen, die Wahlvorschläge bis zum zweiten Mittwoch nach dem Wahlanmeldeschluss, 17.00 Uhr, zu ergänzen.
+<sup>1</sup> Die Vertreterinnen oder Vertreter von Wahlvorschlägen, auf denen Vorgeschlagene amtlich gestrichen wurden, werden eingeladen, die Wahlvorschläge bis zum Montag nach dem Wahlanmeldeschluss, 17.00 Uhr, zu ergänzen.
 
 <sup>2</sup> Bis zum gleichen Zeitpunkt können Wahlvorschläge ergänzt werden, wenn seit der Einreichung Vorgeschlagene gestorben sind oder die Wahlfähigkeit verloren haben.
 
 <sup>3</sup> Die für den Ersatz Vorgeschlagenen müssen schriftlich bestätigen, dass sie den Wahlvorschlag annehmen. Fehlt diese Bestätigung, wird der Ersatzvorschlag gestrichen.
 
 <sup>4</sup> Verlangt die Vertreterin oder der Vertreter des Wahlvorschlages nichts anderes, werden die Ersatzvorschläge am Ende des Wahlvorschlages angereiht.
+
+#### § 36a
+
+**Abschluss des Bereinigungsverfahrens**
+
+<sup>1</sup> Das Bereinigungsverfahren ist am ersten Montag nach dem Wahlanmeldeschluss, 17.00 Uhr, abgeschlossen.
+
+<sup>2</sup> Nach Abschluss des Bereinigungsverfahrens kann kein Wahlvorschlag mehr geändert werden.
 
 #### § 37
 
@@ -722,7 +747,7 @@ beschliesst:
 
 <sup>3</sup> Wahlvorschläge sind bis zum siebtletzten Montag vor dem Wahltag, 17.00 Uhr, einzureichen. Es können auch neue Kandidatinnen oder Kandidaten vorgeschlagen werden.
 
-<sup>3a</sup> Für die Wahl der Mitglieder des Ständerats setzt der Regierungsrat den Wahltag sowie die Frist für die Einreichung der Wahlvorschläge jeweils so fest, dass die Teilnahme der gewählten Ständerätinnen bzw. Ständeräte an den Gesamterneuerungswahlen des Bundesrats gewährleistet ist. Die Fristen für die Bereinigung (§ 35) sowie für die Ergänzung von Wahlvorschlägen (§ 36) können in Ausnahmefällen verkürzt werden. Es können auch neue Kandidatinnen oder Kandidaten vorgeschlagen werden.
+<sup>3a</sup> Für die Wahl der Mitglieder des Ständerats setzt der Regierungsrat den Wahltag sowie die Frist für die Einreichung der Wahlvorschläge jeweils so fest, dass die Teilnahme der gewählten Ständerätinnen bzw. Ständeräte am ersten Tag der Wintersession gewährleistet ist. Es können auch neue Kandidatinnen oder Kandidaten vorgeschlagen werden.
 
 <sup>4</sup> Beim zweiten Wahlgang entscheidet das relative Mehr. In der Reihenfolge der erhaltenen Stimmen sind so viele Kandidatinnen oder Kandidaten für gewählt zu erklären, als noch Mandate zu besetzen sind. Bei Stimmengleichheit entscheidet das Los.
 
@@ -743,6 +768,20 @@ beschliesst:
 <sup>1</sup> Der Kantonsrat stellt die Gültigkeit der Kantonsrats-, Regierungsrats-, Ständerats- und Richterwahlen fest.
 
 <sup>2</sup> Ratsmitglieder, deren Wahl bestritten ist, treten in den Ausstand.
+
+### 3.1.5 Amtsführung in speziellen Fällen
+
+#### § 58a
+
+**Amtsführung bis zur Wahl des Präsidiums**
+
+<sup>1</sup> Bis zur Wahl der Präsidentin oder des Präsidenten führt, sofern das Vizepräsidium noch nicht besetzt ist, das amtsälteste, bei gleicher Amtsdauer das ältere Mitglied der Behörde den Vorsitz.
+
+#### § 58b
+
+**Weiterführung der Amtsgeschäfte bei Beschwerden**
+
+<sup>1</sup> Wird eine Wahl kassiert, haben die bisherigen Mitglieder der Behörde die Amtsgeschäfte so lange weiterzuführen, bis eine gültige Neuwahl zustande gekommen ist.
 
 ### 3.2. Gemeindewahlen
 
@@ -843,7 +882,7 @@ beschliesst:
 - a) Verletzung des Stimmrechts;
 - b) Unregelmässigkeiten bei der Vorbereitung und Durchführung von Wahlen und Abstimmungen.
 
-<sup>2</sup> Die Beschwerde ist innert zehn Tagen seit der Entdeckung des Beschwerdegrundes, spätestens jedoch am zehnten Tag nach der amtlichen Veröffentlichung der Ergebnisse im Amtsblatt einzureichen.
+<sup>2</sup> Die Beschwerde ist innert zehn Tagen seit der Entdeckung des Beschwerdegrundes, spätestens jedoch am zehnten Tag nach der amtlichen Veröffentlichung der Ergebnisse im Amtsblatt, einzureichen. Bei einem zweiten Wahlgang für die Wahl der Mitglieder des Ständerats beträgt die Beschwerdefrist drei Tage.
 
 <sup>3</sup> Die Beschwerde hat keine aufschiebende Wirkung.
 
