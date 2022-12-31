@@ -3,20 +3,19 @@ canton: BL
 number: "211.201"
 title: Ordnung über die Stiftungsaufsicht
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2017-10-25
+version: 2023-01-01
+version_adopted: 2022-08-29
 adopted: 2012-01-23
 in_force: 2012-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.201"
-pdf: "https://bl.clex.ch/api/de/versions/2878/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordnung über die Stiftungsaufsicht
 
-Vom 23.01.2012 (Stand 01.01.2018)
+Vom 23.01.2012 (Stand 01.01.2023)
 
 Der Verwaltungsrat der BSABB (BVG- und Stiftungsaufsicht beider Basel),
 
@@ -51,7 +50,7 @@ beschliesst:
 
 **Übernahme der Aufsicht**
 
-<sup>1</sup> Bei Neugründungen erfolgt die Übernahme der Aufsicht mit Verfügung der BSABB nach Eintragung der neugegründeten Stiftung im zuständigen Handelsregister. Voraussetzung für den Erlass der Verfügung sind eine rechtsgültige Stiftungsurkunde, allfällige Reglemente und urkundengemäss bestellte Stiftungsorgane.
+<sup>1</sup> Bei Neugründungen erfolgt die Übernahme der Aufsicht mit Verfügung der BSABB grundsätzlich nach Eintragung der neugegründeten Stiftung im zuständigen Handelsregister. Voraussetzung für den Erlass der Verfügung sind eine rechtsgültige Stiftungsurkunde, allfällige Reglemente und urkundengemäss bestellte Stiftungsorgane.
 
 <sup>2</sup> Bei Sitzverlegung aus anderen Kantonen erfolgt die Übernahme der Aufsicht nach Rechtskraft der Verfügung betreffend die Genehmigung der Sitzverlegung durch die die Aufsicht übergebende Behörde. Der zuständige Stiftungsrat reicht dem zuständigen Handelsregister die Stiftungsurkunde zur Eintragung ein.
 
@@ -68,7 +67,7 @@ beschliesst:
 - c) die Anlage des Stiftungsvermögens nach den Grundsätzen einer sorgfältigen Kapitalanlage, insbesondere nach den Grundsätzen der Sicherheit, der Erzielung eines angemessenen Ertrages, der Risikoverteilung und der Liquidität
 - d) die Übereinstimmung von Reglementen und anderen Erlassen der Stiftung mit der Urkunde und dem Gesetz.
 
-<sup>2</sup> Die BSABB prüft und genehmigt Urkundenänderungen im Sinne von Art. 85, 86, und 86a und 86b ZGB.
+<sup>2</sup> Die BSABB prüft und genehmigt Urkundenänderungen im Sinne von Art. 85, 86, 86a und 86b ZGB.
 
 <sup>3</sup> Die BSABB hebt Stiftungen auf Antrag oder vom Amtes wegen auf, wenn diese ihren Zweck nachweislich nicht mehr erfüllen können, oder wenn deren Zweck widerrechtlich oder unsittlich geworden ist.
 
@@ -174,7 +173,7 @@ beschliesst:
 
 **Mitteilungspflichten**
 
-<sup>1</sup> Vom Stiftungsrat erlassene Reglemente und deren Änderungen sind der BSABB umgehend zur Kenntnis zu bringen. Dies gilt auch für geänderte Stiftungsurkunden. Die Unterlagen sind der BSABB in Papierform zuzustellen. Vorbehältlich anderer Abmachung mit der BSABB löst die Einreichung von Unterlagen in elektronische Form Gebühren zu Lasten der Stiftung aus.
+<sup>1</sup> Vom Stiftungsrat erlassene Reglemente und deren Änderungen sind der BSABB umgehend zur Kenntnis zu bringen. Dies gilt auch für geänderte Stiftungsurkunden. Die Unterlagen sind der BSABB in Papierform oder über deren Portal elektronisch zuzustellen.
 
 <sup>2</sup> Alle Mitglieder des Stiftungsrates sowie die Revisionsstelle sind im zuständigen Handelsregister einzutragen.
 
