@@ -4,11 +4,11 @@ title: "Ordonnance du 22 mai 2002 sur la libre circulation des personnes entre l
 short: OLCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-261-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20220101/fr"
 
 (Ordonnance sur la libre circulation des personnes, OLCP)[^t-1]
 
-du 22 mai 2002 (Etat le 1<sup>er</sup> janvier 2022)
+du 22 mai 2002 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. III 1 de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
@@ -62,7 +62,7 @@ arrête:
 
 <sup>2</sup> Elle s’applique aussi aux membres de leur famille qui, indépendamment de leur nationalité, ont, conformément aux dispositions sur le regroupement familial de l’accord sur la libre circulation des personnes ou de la Convention instituant l’AELE, l’autorisation de séjourner en Suisse.
 
-<sup>3</sup> Elle s’applique aux personnes qui, indépendamment de leur nationalité, sont détachées par des sociétés constituées conformément à la législation de l’un des États membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) et ayant leur siège statutaire, leur administration centrale ou leur établissement principal sur le territoire de l’UE ou de l’AELE en vue de fournir une prestation de services en Suisse et qui ont été intégrées auparavant dans le marché régulier du travail de l’un des États membres de l’UE ou de l’AELE.[^2-3]
+<sup>3</sup> Elle s’applique aux personnes qui, indépendamment de leur nationalité, sont détachées par des sociétés constituées conformément à la législation de l’un des États membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) et ayant leur siège statutaire, leur administration centrale ou leur établissement principal sur le territoire de l’UE ou de l’AELE en vue de fournir une prestation de services en Suisse et qui ont été admises auparavant de manière durable sur le marché régulier du travail de l’un des États membres de l’UE ou de l’AELE.[^2-3]
 
 <sup>4</sup> Elle s’applique aussi aux ressortissants du Royaume-Uni et aux membres de leur famille conformément à la réglementation prévue par l’accord sur les droits acquis, à l’exception des art. 4, al. 3<sup>bis</sup>, 8, 10 à 12, 14, al. 2, 21, 27 et 38.[^2-4]
 
@@ -70,7 +70,7 @@ arrête:
 
 [^2-1]: Les relations entre la Suisse et le Liechtenstein sont régies par le Prot. du 21 juin 2001 qui fait partie intégrante de l’ac. amendant la conv. instituant l’AELE.
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^2-3]: Nouvelle teneur selon le ch. I de l’O du 13 mars 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 [^2-4]: Introduit par le ch. III 1 de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^2-5]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
 
@@ -80,7 +80,7 @@ arrête:
 
 <sup>1</sup> La présente ordonnance ne s’applique ni aux ressortissants de l’UE et de l’AELE ni aux membres de leur famille qui entrent dans le champ d’application de l’art. 43, al. 1, let. a à d, 2 et 3 de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA)[^3-2].
 
-<sup>2</sup> …[^3-3]
+<sup>2</sup> Les dispositions afférentes aux nombres maximums résultant de la mise en œuvre de l’art. 10, par. 4*d*, 1<sup>re</sup> et 2<sup>e</sup> phrases, de l’accord sur la libre circulation des personnes ne s’appliquent pas aux ressortissants de la Croatie qui entrent dans le champ d’application de l’art. 43, al. 1, let. e à h, OASA.[^3-3]
 
 <sup>3</sup> …[^3-4]
 
@@ -90,7 +90,7 @@ arrête:
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^3-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^3-3]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 [^3-4]: Introduit par le ch. I de l’O du 25 avr. 2012 ([RO 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Abrogé par le ch. I de l’O du 13 avr. 2016, avec effet au 1<sup>er</sup> juin 2016 ([RO 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
 [^3-5]: Introduit par le ch. I de l’O du 22 mai 2013 ([RO 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Abrogé par le ch. I de l’O du 30 avr. 2014, avec effet au 1<sup>er</sup> juin 2014 ([RO 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 [^3-6]: Introduit par le ch. I de l’O du 10 mai 2017 ([RO 2017 3093](https://fedlex.data.admin.ch/eli/oc/2017/307)). Abrogé par le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
@@ -163,9 +163,14 @@ Les membres de la famille d’un ressortissant de l’UE ou de l’AELE et les p
 
 #### Art. 8
 
-[^8-1]
+**Assurance de l’autorisation**[^8-1]
 
-[^8-1]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+### (art. 1, par. 1, et 27, par. 2, de l’annexe I en relation avec l’art. 10, par. 4*d*, de l’ac. sur la libre circulation des personnes)
+
+Pour entrer en Suisse en vue d’y exercer une activité lucrative soumise à autorisation UE/AELE, les ressortissants de la Croatie peuvent demander une assurance de l’autorisation (art. 5 OASA[^8-2]).
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^8-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 
 #### Art. 9
 
@@ -205,30 +210,43 @@ Les membres de la famille d’un ressortissant de l’UE ou de l’AELE et les p
 
 [^sec4-1]: Nouvelle teneur selon le ch. I de l’O du 24 avr. 2013 (Maintien du contingent de permis B UE-8), en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 1247](https://fedlex.data.admin.ch/eli/oc/2013/277)).
 
-#### Art. 10 et 11
+#### Art. 10
 
-[^1011-1]
+**Imputation sur les nombres maximums**[^10-1]
 
-[^1011-1]: Abrogés par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+### (art. 10 de l’ac. sur la libre circulation des personnes)
+
+Il n’y a pas imputation sur les nombres maximums fixés conformément à l’accord sur la libre circulation des personnes pour les ressortissants de la Croatie:
+
+- a. qui ne sont pas entrés en Suisse et ont renoncé à y travailler, ou
+- b. qui ont quitté la Suisse dans les 90 jours ouvrables qui ont suivi le début de l’activité lucrative.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+
+#### Art. 11
+
+**Répartition des nombres maximums**[^11-1]
+
+Le Secrétariat d’État aux migrations (SEM) répartit pour les ressortissants de la Croatie les nombres maximums fixés conformément à l’art. 10 de l’accord sur la libre circulation des personnes.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 
 #### Art. 12
 
-**Exceptions aux nombres maximums**
+**Exceptions aux nombres maximums**[^12-1]
 
-### …
+### (art. 10, par. 4*d*, de l’ac. sur la libre circulation des personnes)
 
-[^12-1]
+<sup>1</sup> Les exceptions prévues dans la LEI et dans l’OASA[^12-2] s’appliquent par analogie aux nombres maximums fixés pour les ressortissants de la Croatie.
 
-<sup>1</sup> à <sup>3</sup> …[^12-2]
+<sup>2</sup> Les autorisations de séjour UE/AELE qui sont délivrées aux ressortissants de la Croatie en vertu de l’art. 27, par. 3, let. a, de l’annexe I de l’accord sur la libre circulation des personnes ne sont pas imputées sur les nombres maximums.
 
-<sup>4</sup> Les citoyens liechtensteinois ne sont pas imputés sur les nombres maximums.[^12-3]
+<sup>3</sup> Les ressortissants de la Croatie qui, en tant que doctorants ou postdoctorants, exercent une activité lucrative dans une haute école suisse ne sont pas imputés sur les nombres maximums même s’ils changent d’emploi ou de profession.
 
-<sup>5</sup> …[^12-4]
+<sup>4</sup> Les citoyens liechtensteinois ne sont pas imputés sur les nombres maximums.
 
-[^12-1]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^12-2]: Abrogés par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^12-3]: Introduit par le ch. II de l’O du 10 déc. 2004 ([RO 2004 5397](https://fedlex.data.admin.ch/eli/oc/2004/825)). Nouvelle teneur selon le ch. I de l’O du 2 mai 2007, en vigueur depuis le 1<sup>er</sup> juin 2007 ([RO 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
-[^12-4]: Introduit par le ch. I de l’O du 2 nov. 2005 ([RO 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)). Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^12-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 
 ## Section 5 Prestations de services transfrontaliers
 
@@ -247,12 +265,13 @@ Les personnes qui fournissent des services transfrontaliers dans le cadre d’un
 
 **Prestations de services de 90 jours ouvrables au maximum**[^14-1]
 
-<sup>1</sup> En l’absence d’accord sur les services, les ressortissants de l’UE/AELE et les prestataires de services n’ont pas besoin, pour fournir des services transfrontaliers, d’une autorisation de séjour de courte durée UE/AELE, si leur séjour n’excède pas 90 jours ouvrables par année civile.
+<sup>1</sup> En l’absence d’accord sur les services, les ressortissants de l’UE/AELE et les prestataires de services visés à l’art. 2, al. 3, n’ont pas besoin, pour fournir des services transfrontaliers, d’une autorisation de séjour de courte durée UE/AELE, si leur séjour n’excède pas 90 jours ouvrables par année civile.[^14-2]
 
-<sup>2</sup> …[^14-2]
+<sup>2</sup> …[^14-3]
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)).
-[^14-2]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^14-3]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 15
 
@@ -490,9 +509,16 @@ Le nouveau droit s’applique aux procédures pendantes au moment de l’entrée
 
 #### Art. 38
 
-[^38-1]
+**Réglementation transitoire**[^38-1]
 
-[^38-1]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+### (art. 10 de l’ac. sur la libre circulation des personnes et 26 à 34 de l’annexe I de l’ac. sur la libre circulation des personnes)
+
+En application de l’art. 10, par. 4*d*, 1<sup>re</sup> et 2<sup>e</sup> phrases, de l’accord sur la libre circulation des personnes, les nombres annuels maximums de nouvelles autorisations délivrées aux travailleurs (salariés et indépendants) de la Croatie sont provisoirement fixés comme suit:
+
+- a. 1007 autorisations de séjour de courte durée UE/AELE
+- b. 1150 autorisations de séjour UE/AELE.
+
+[^38-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 
 ## Section 17 Entrée en vigueur
 

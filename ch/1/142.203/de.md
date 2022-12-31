@@ -4,11 +4,11 @@ title: "Verordnung vom 22. Mai 2002 über den freien Personenverkehr zwischen de
 short: VFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-261-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20220101/de"
 
 (Verordnung über den freien Personenverkehr, VFP)[^t-1]
 
-vom 22. Mai 2002 (Stand am 1. Januar 2022)
+vom 22. Mai 2002 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. III 1 der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
@@ -80,7 +80,7 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung gilt nicht für EU- und EFTA-Angehörige und ihre Familienangehörigen, die unter die Regelung von Artikel 43 Absätze 1 Buchstaben a–d, 2 und 3 der Verordnung vom 24. Oktober 2007[^3-2] über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE) fallen.
 
-<sup>2</sup> …[^3-3]
+<sup>2</sup> Für kroatische Staatsangehörige, die unter die Regelung von Artikel 43 Absatz 1 Buchstaben e–h VZAE fallen, gelten die Bestimmungen über die Höchstzahlen infolge der Umsetzung von Artikel 10 Absatz 4*d* erster und zweiter Satz des Freizügigkeitsabkommens nicht.[^3-3]
 
 <sup>3</sup> …[^3-4]
 
@@ -90,7 +90,7 @@ verordnet:
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^3-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^3-3]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 [^3-4]: Eingefügt durch Ziff. I der V vom 25. April 2012 ([AS 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Aufgehoben durch Ziff. I der V vom 13. April 2016, mit Wirkung seit 1. Juni 2016 ([AS 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
 [^3-5]: Eingefügt durch Ziff. I der V vom 22. Mai 2013 ([AS 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Aufgehoben durch Ziff. I der V vom 30. April 2014, mit Wirkung seit 1. Juni 2014 ([AS 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 [^3-6]: Eingefügt durch Ziff. I der V vom 10. Mai 2017 ([AS 2017 3093](https://fedlex.data.admin.ch/eli/oc/2017/307)). Aufgehoben durch Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), mit Wirkung seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
@@ -167,9 +167,14 @@ Für Familienangehörige von Staatsangehörigen der EU oder der EFTA und Dienstl
 
 #### Art. 8
 
-[^8-1]
+**Zusicherung der Bewilligung**[^8-1]
 
-[^8-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+### (Anhang I Art. 1 Abs. 1 und 27 Abs. 2 i. V. m. Art. 10 Abs. 4*d* Freizügigkeitsabkommen)
+
+Für die Einreise in die Schweiz zur Aufnahme einer Erwerbstätigkeit, deren Ausübung einer Bewilligung EU/EFTA bedarf, können kroatische Staatsangehörige eine Zusicherung der Bewilligung (Art. 5 VZAE[^8-2]) beantragen.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^8-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 
 #### Art. 9
 
@@ -206,30 +211,43 @@ Für Familienangehörige von Staatsangehörigen der EU oder der EFTA und Dienstl
 
 [^sec4-1]: Fassung gemäss Ziff. I der V vom 24. April 2013 (Aufrechterhaltung Kontingente B-Bewilligungen EU-8), in Kraft seit 1. Mai 2013 ([AS 2013 1247](https://fedlex.data.admin.ch/eli/oc/2013/277)).
 
-#### Art. 10 und 11
+#### Art. 10
 
-[^1011-1]
+**Anrechnung an die Höchstzahlen**[^10-1]
 
-[^1011-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+### (Art. 10 Freizügigkeitsabkommen)
+
+Eine Anrechnung an die gemäss Freizügigkeitsabkommen festgelegten Höchstzahlen erfolgt nicht für kroatische Staatsangehörige, die:
+
+- a. nicht in die Schweiz eingereist sind und auf die Aufnahme der Erwerbstätigkeit verzichtet haben; oder
+- b. innerhalb von 90 Arbeitstagen nach der Aufnahme der Erwerbstätigkeit wieder ausgereist sind.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+
+#### Art. 11
+
+**Aufteilung der Höchstzahlen**[^11-1]
+
+Das Staatssekretariat für Migration (SEM) teilt die gemäss Artikel 10 des Freizügigkeitsabkommens festgelegten Höchstzahlen für kroatische Staatsangehörige auf.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 
 #### Art. 12
 
-**Ausnahmen von den Höchstzahlen**
+**Ausnahmen von den Höchstzahlen**[^12-1]
 
-### …
+### (Art. 10 Abs. 4*d* Freizügigkeitsabkommen)
 
-[^12-1]
+<sup>1</sup> Bei den Höchstzahlen für kroatische Staatsangehörige gelten die im AIG und in der VZAE[^12-2] vorgesehenen Ausnahmen sinngemäss.
 
-<sup>1–3</sup> …[^12-2]
+<sup>2</sup> Aufenthaltsbewilligungen EU/EFTA, die kroatischen Staatsangehörigen gestützt auf Anhang I Artikel 27 Absatz 3 Buchstabe a des Freizügigkeitsabkommens erteilt werden, sind von den Höchstzahlen ausgenommen.
 
-<sup>4</sup> Liechtensteinische Landesbürger sind von den Höchstzahlen ausgenommen.[^12-3]
+<sup>3</sup> Kroatische Staatsangehörige, die als Doktorandinnen und Doktoranden oder Postdoktorandinnen und Postdoktoranden an einer schweizerischen Hochschule erwerbstätig sind, bleiben auch beim Stellen- oder Berufswechsel von den Höchstzahlen ausgenommen.
 
-<sup>5</sup> …[^12-4]
+<sup>4</sup> Liechtensteinische Landesbürgerinnen und Landesbürger sind von den Höchstzahlen ausgenommen.
 
-[^12-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^12-2]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^12-3]: Eingefügt durch Ziff. II der V vom 10. Dez. 2004 ([AS 2004 5397](https://fedlex.data.admin.ch/eli/oc/2004/825)). Fassung gemäss Ziff. I der V vom 2. Mai 2007, in Kraft seit 1. Juni 2007 ([AS 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
-[^12-4]: Eingefügt durch Ziff. I der V vom 2. Nov. 2005 ([AS 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^12-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 
 ## 5. Abschnitt: Erbringung von grenzüberschreitenden Dienstleistungen
 
@@ -282,7 +300,7 @@ Personen, die grenzüberschreitende Dienstleistungen im Rahmen eines Dienstleist
 <sup>2</sup> Die finanziellen Mittel sind für rentenberechtigte EU- und EFTA-Angehörige sowie ihre Familienangehörigen ausreichend, wenn sie den Betrag übersteigen, der einen schweizerischen Antragsteller oder eine schweizerische Antragstellerin und allenfalls seine oder ihre Familienangehörigen zum Bezug von Ergänzungsleistungen nach dem Bundesgesetz vom 19. März 1965[^16-2] über Ergänzungsleistungen zur Alters‑, Hinterlassenen- und Invalidenversicherung berechtigt.
 
 [^16-1]: Zu beziehen bei der Schweizerischen Konferenz für Sozialhilfe (SKOS), Mühlenplatz 3, 3000 Bern 13.
-[^16-2]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II, [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Siehe heute: das BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^16-2]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Siehe heute: das BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
 
 #### Art. 17
 
@@ -491,9 +509,16 @@ Für Verfahren, die bei Inkrafttreten dieser Verordnung hängig sind, gilt das n
 
 #### Art. 38
 
-[^38-1]
+**Übergangsregelung**[^38-1]
 
-[^38-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+### (Art. 10 und Anhang I Art. 26–34 Freizügigkeitsabkommen)
+
+In Anwendung von Artikel 10 Absatz 4*d* erster und zweiter Satz des Freizügigkeitsabkommens werden die jährlichen Höchstzahlen der neuen Bewilligungen für Arbeitnehmerinnen und Arbeitnehmer sowie Selbstständige aus Kroatien provisorisch wie folgt festgesetzt:
+
+- a. 1007 Kurzaufenthaltsbewilligungen EU/EFTA;
+- b. 1150 Aufenthaltsbewilligungen EU/EFTA.
+
+[^38-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 
 ## 17. Abschnitt: Inkrafttreten
 

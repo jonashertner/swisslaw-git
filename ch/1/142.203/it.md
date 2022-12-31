@@ -4,11 +4,11 @@ title: "Ordinanza del 22 maggio 2002 concernente la libera circolazione delle pe
 short: OLCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-261-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-261-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20220101/it"
 
 (Ordinanza sulla libera circolazione delle persone, OLCP)[^t-1]
 
-del 22 maggio 2002 (Stato 1° gennaio 2021)
+del 22 maggio 2002 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. III 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
@@ -80,7 +80,7 @@ ordina:
 
 <sup>1</sup> La presente ordinanza non si applica ai cittadini dell’UE e dell’AELS e ai loro familiari il cui statuto è disciplinato dall’articolo 43 capoversi 1 lettere a–d, 2 e 3 dell’ordinanza del 24 ottobre 2007[^3-2] sull’ammissione, il soggiorno e l’attività lucrativa (OASA).
 
-<sup>2</sup> ...[^3-3]
+<sup>2</sup> Le disposizioni sui contingenti massimi risultanti dall’applicazione dell’articolo 10 paragrafo 4*d* primo e secondo periodo dell’Accordo sulla libera circolazione delle persone non si applicano ai cittadini della Croazia il cui statuto è disciplinato dall’articolo 43 capoverso 1 lettere e–h OASA.[^3-3]
 
 <sup>3</sup> ...[^3-4]
 
@@ -90,7 +90,7 @@ ordina:
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^3-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^3-3]: Abrogato dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^3-3]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 [^3-4]: Introdotto dal n. I dell’O del 25 apr. 2012 ([RU 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Abrogato dal n. I dell’O del 13 apr. 2016, con effetto dal 1° giu. 2016 ([RU 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
 [^3-5]: Introdotto dal n. I dell’O del 22 mag. 2013 ([RU 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Abrogato dal n. I dell’O del 30 apr. 2014, con effetto dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 [^3-6]: Introdotto dal n. I dell’O del 10 mag. 2017 ([RU 2017 3093](https://fedlex.data.admin.ch/eli/oc/2017/307)). Abrogato dal n. I dell’O del 15 mag. 2019 (Fine dei contingenti di permessi B per i lavoratori dell’UE-2), con effetto dal 1° giu. 2019 ([RU 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
@@ -165,9 +165,14 @@ Per i familiari di cittadini dell’UE o dell’AELS e per i prestatori di servi
 
 #### Art. 8
 
-[^8-1]
+**Assicurazione del permesso**[^8-1]
 
-[^8-1]: Abrogato dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+### (art. 1 par. 1 e 27 par. 2 all. I in combinato disposto con l’art. 10 par. 2*c* e 4*c* dell’Acc. sulla libera circolazione delle persone)
+
+Per l’entrata in Svizzera in vista dell’esercizio di un’attività lucrativa che necessita di un permesso UE/AELS, i cittadini della Croazia possono chiedere l’assicurazione del permesso (art. 5 OASA[^8-2]).
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^8-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 
 #### Art. 9
 
@@ -207,30 +212,43 @@ Per i familiari di cittadini dell’UE o dell’AELS e per i prestatori di servi
 
 [^sec4-1]: Nuovo testo giusta il n. I dell’O del 24 apr. 2013 (Mantenimento dei contingenti di permessi B nei confronti degli Stati dell’UE-8), in vigore dal 1° mag. 2013 ([RU 2013 1247](https://fedlex.data.admin.ch/eli/oc/2013/277)).
 
-#### Art. 10 e 11
+#### Art. 10
 
-[^1011-1]
+**Computo sui contingenti massimi**[^10-1]
 
-[^1011-1]: Abrogati dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+### (art. 10 dell’Acc. sulla libera circolazione delle persone)
+
+Il permesso non è computato sui contingenti massimi stabiliti conformemente all’Accordo sulla libera circolazione delle persone se il cittadino della Croazia:
+
+- a. non è entrato in Svizzera e ha rinunciato a svolgervi un’attività lucrativa, oppure
+- b. ha lasciato la Svizzera entro 90 giorni lavorativi dall’inizio dell’attività lucrativa.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+
+#### Art. 11
+
+**Ripartizione dei contingenti massimi**[^11-1]
+
+La Segreteria di Stato della migrazione (SEM) ripartisce per i cittadini della Croazia i contingenti massimi stabiliti conformemente all’articolo 10 dell’Accordo sulla libera circolazione delle persone.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 
 #### Art. 12
 
-**Deroghe ai contingenti massimi**
+**Deroghe ai contingenti massimi**[^12-1]
 
-### ...
+### (art. 10 par. 4*d* dell’Acc. sulla libera circolazione delle persone)
 
-[^12-1]
+<sup>1</sup> Le deroghe previste dalla LStrI e dall’OASA[^12-2] si applicano per analogia ai contingenti massimi fissati per i cittadini della Croazia.
 
-<sup>1</sup> a <sup>3</sup> ...[^12-2]
+<sup>2</sup> I permessi di dimora UE/AELS rilasciati a cittadini della Croazia in virtù dell’articolo 27 paragrafo 3 lettera a dell’allegato I dell’Accordo sulla libera circolazione delle persone sono eccettuati dai contingenti massimi.
 
-<sup>4</sup> I contingenti massimi non si applicano ai cittadini del Liechtenstein.[^12-3]
+<sup>3</sup> I contingenti massimi non si applicano ai cittadini della Croazia che svolgono un’attività lucrativa in qualità di dottorandi o postdottorandi presso scuole universitarie svizzere anche se cambiano posto o professione.
 
-<sup>5</sup> ...[^12-4]
+<sup>4</sup> I contingenti massimi non si applicano ai cittadini del Liechtenstein.
 
-[^12-1]: Abrogato dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^12-2]: Abrogati dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^12-3]: Introdotto dal n. II dell’O del 10 dic. 2004 ([RU 2004 5397](https://fedlex.data.admin.ch/eli/oc/2004/825)). Nuovo testo giusta il n. I dell’O del 2 mag. 2007, in vigore dal 1° giu. 2007 ([RU 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
-[^12-4]: Introdotto dal n. I dell’O del 2 nov. 2005 ([RU 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)). Abrogato dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^12-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
+[^12-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 
 ## Sezione 5: Prestazione transfrontaliera di servizi
 
@@ -492,9 +510,16 @@ Per le procedure pendenti al momento dell’entrata in vigore della presente ord
 
 #### Art. 38
 
-[^38-1]
+**Disciplinamento transitorio**[^38-1]
 
-[^38-1]: Abrogato dal n. I dell’O del 3 dic. 2021, con vigore effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+### (art. 10 dell’Acc. sulla libera circolazione delle persone e art. 26–34 all. I dell’Acc. sulla libera circolazione delle persone)
+
+In applicazione dell’articolo 10 paragrafo 4*d* primo e secondo periodo dell’Accordo sulla libera circolazione delle persone, i contingenti annuali massimi di nuovi permessi rilasciati ai lavoratori (salariati e indipendenti) della Croazia sono fissati provvisoriamente come segue:
+
+- a. 1007 permessi di soggiorno di breve durata UE/AELS;
+- b. 1150 permessi di dimora UE/AELS.
+
+[^38-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 
 ## Sezione 17: Entrata in vigore
 
