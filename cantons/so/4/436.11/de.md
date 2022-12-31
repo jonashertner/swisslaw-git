@@ -4,13 +4,12 @@ number: "436.11"
 title: Verordnung über den Schutz der historischen Kulturdenkmäler
 short: Kulturdenkmäler-Verordnung
 language: de
-version: 2005-08-01
-valid_until: 2022-12-31
-version_adopted: 1995-12-19
+version: 2023-01-01
+version_adopted: 2022-09-13
 adopted: 1995-12-19
 in_force: 1996-05-01
 url: "https://bgs.so.ch/app/de/texts_of_law/436.11"
-pdf: "https://bgs.so.ch/api/de/versions/3609/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5282/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/3609/pdf_file"
 
 (Kulturdenkmäler-Verordnung)
 
-Vom 19.12.1995 (Stand 01.08.2005)
+Vom 19.12.1995 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -309,13 +308,11 @@ beschliesst:
 
 #### § 32
 
-<sup>1</sup> Schutzverfügungen des Gemeinderates gemäss §§ 7 Absatz 1 litera b und 11 Absatz 1 können innert 10 Tagen seit Zustellung beim Regierungsrat angefochten werden.[^32-1]
+<sup>1</sup> Schutzverfügungen des Gemeinderates gemäss §§ 7 Absatz 1 litera b und 11 Absatz 1 können innert 10 Tagen seit Zustellung beim Regierungsrat angefochten werden.
 
 <sup>2</sup> Gegen Beschlüsse des Regierungsrates, die Schutzverfügungen betreffen, kann binnen 10 Tagen Beschwerde beim Verwaltungsgericht eingereicht werden.
 
 <sup>3</sup> Gegen Verfügungen der besonderen Fachkommissionen gemäss § 17 Absatz 2 kann innert 10 Tagen beim Departement und gegen dessen Entscheide sowie gegen dessen Verfügungen gemäss § 17 Absatz 1 innert 10 Tagen beim Verwaltungsgericht Beschwerde eingereicht werden.
-
-[^32-1]: § 199 Gemeindegesetz vom 16. Februar 1992; BGS [131.1](https://bgs.so.ch/data/131.1/de).
 
 ## 7. Vollzug
 
