@@ -4,11 +4,11 @@ title: "Verordnung vom 11. April 2018 über die Registrierung von Krebserkrankun
 short: KRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20220101/de"
 
 (Krebsregistrierungsverordnung, KRV)
 
-vom 11. April 2018 (Stand am 1. Januar 2022)
+vom 11. April 2018 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -706,7 +706,7 @@ Anhang 1[^t-1]
 
 ## Zu meldende Krebserkrankungen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 2. Febr. 2021, in Kraft seit 15. März 2021 ([AS 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 2. Febr. 2021 ([AS 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)) und vom 3. Okt. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 595).
 
 Folgende Erkrankungen gemäss der *International Classification of diseases* der WHO in der Fassung von 2010[^annex1-lvlu1-1] (ICD-10) müssen gemeldet werden; massgebend ist die mit dreistelligem Code definierte Krankheitsgruppe:
 
@@ -714,7 +714,7 @@ Folgende Erkrankungen gemäss der *International Classification of diseases* der
 <tr><th>Code</th><th>Bezeichnung</th><th colspan="3">Basisdaten zur Diagnose / Basisdaten zur Erstbehandlung</th><th></th><th>Zusatzdaten</th><th></th></tr>
 <tr><th></th><th></th><th colspan="2">Erwachsene</th><th colspan="2">Kinder und Jugendliche</th><th>Erwachsene</th><th>Kinder und Jugendliche</th></tr>
 <tr><td>C-CODES</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>C00–C97</td><td>Bösartige Neubildungen</td><td colspan="2">ja, ausser Basaliome</td><td colspan="2">ja</td><td>ja, für: Darm (C18–C20) Brust (C50) Prostata (C61)</td><td>ja</td></tr>
+<tr><td>C00–C97</td><td>Bösartige Neubildungen</td><td colspan="2">ja, ausser Basaliome (C44: 8090-8098)</td><td colspan="2">ja, ausser Basaliome (C44: 8090-8098)</td><td>ja, für: Darm (C18–C20) Brust (C50) Prostata (C61)</td><td>ja, ausser Basaliome (C44: 8090-8098)</td></tr>
 <tr><td>D-CODES</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>D00–D09</td><td>Carcinoma in situ</td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>D00</td><td>Carcinoma in situ der Mundhöhle, des Ösophagus und des Magens</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
@@ -730,7 +730,7 @@ Folgende Erkrankungen gemäss der *International Classification of diseases* der
 <tr><td>D32</td><td>Gutartige Neubildungen der Meningen</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
 <tr><td>D33</td><td>Gutartige Neubildung des Gehirns und anderer Teile des Zentralnervensystems</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
 <tr><td>D35</td><td>Gutartige Neubildung sonstiger und nicht näher bezeichneter endokriner Drüsen</td><td colspan="2">nein</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
-<tr><td>D35.2</td><td>Gutartige Neubildung der Hypophyse</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
+<tr><td>D35.2</td><td>Gutartige Neubildung der Hypophyse</td><td colspan="2">ja, ausser hormoninaktive Hypophysenmikroadenome (&lt; 10 mm)</td><td colspan="2">ja, ausser hormoninaktive Hypophysenmikroadenome (&lt; 10 mm)</td><td>nein</td><td>ja, ausser hormoninaktive Hypophysenmikroadenome (&lt; 10 mm)</td></tr>
 <tr><td>D37–D48</td><td colspan="2">**Neubildungen unsicheren oder unbekannten Verhaltens**</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>D37</td><td>Neubildung unsicheren oder unbekannten Verhaltens der Mundhöhle und der Verdauungsorgane</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
 <tr><td>D38</td><td>Neubildung unsicheren oder unbekannten Verhaltens des Mittelohrs, der Atmungsorgane und der intrathorakalen Organe</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>

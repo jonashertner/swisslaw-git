@@ -4,11 +4,11 @@ title: "Ordonnance du 11 avril 2018 sur l'enregistrement des maladies oncologiqu
 short: OEMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20220101/fr"
 
 (OEMO)
 
-du 11 avril 2018 (Etat le 1<sup>er</sup> janvier 2022)
+du 11 avril 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -191,7 +191,7 @@ Les données suivantes sont communiquées:
 - b. les coordonnées du médecin qui a constaté le décès.
 
 [^10-1]: Nouvelle teneur selon l’annexe ch. II 33 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^10-2]: La classification peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou téléchargée sur les sites suivants: www.ofsp.admin.ch &gt; Thèmes &gt; Santé humaine &gt; Maladies non transmissibles &gt; Le cancer &gt; Enregistrement du cancer et www.oms.org &gt; Thèmes de santé &gt; Classification.
+[^10-2]: La classification peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou téléchargée sur les sites suivants: [www.ofsp.admin.ch](http://www.ofsp.admin.ch/) &gt; Thèmes &gt; Santé humaine &gt; Maladies non transmissibles &gt; Le cancer &gt; Enregistrement du cancer et [www.oms.org](https://www.oms.org/) &gt; Thèmes de santé &gt; Classification.
 
 #### Art. 11
 
@@ -562,7 +562,7 @@ La demande d’aides financières doit contenir:
 - f. la preuve que les données traitées ont été collectées conformément aux dispositions légales déterminantes;
 - g. la preuve que les données traitées permettent des analyses ou des extrapolations à l’échelle nationale et qu’elles peuvent revêtir une certaine importance pour les rapports sanitaires.
 
-<sup>2</sup> S’il est prévu que le registre recense des données relatives à maladies rares particulièrement dangereuses, la demande doit contenir au surplus la preuve que les données concernées sont comparables au niveau international.
+<sup>2</sup> S’il est prévu que le registre recense des données relatives aux maladies rares particulièrement dangereuses, la demande doit contenir au surplus la preuve que les données concernées sont comparables au niveau international.
 
 <sup>3</sup> L’OFSP peut demander des informations supplémentaires.
 
@@ -699,13 +699,13 @@ Entre le 1<sup>er</sup> janvier 2020 et le 31 décembre 2022, les délais applic
 
 <sup>2</sup> Les art. 36 à 38 et 40 (annexe 2, ch. 2) entrent en vigueur le 1<sup>er</sup> juin 2018.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 5, al. 1)
 
 ## Maladies oncologiques soumises à déclaration
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFI du 2 fév. 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)).
+[^t-1]: Mise à jour par le ch. I des O du DFI du 2 fév. 2021 ([RO 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)) et du 3 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 595](https://fedlex.data.admin.ch/eli/oc/2022/595)).
 
 Les maladies ci-après, citées dans la version 2010 de la Classification internationale des maladies de l’OMS (CIM‑10)[^annex1-lvlu1-1], sont soumises à déclaration. Le groupe de maladies défini par un code à trois caractères est déterminant.
 
@@ -713,14 +713,14 @@ Les maladies ci-après, citées dans la version 2010 de la Classification intern
 <tr><th>Code</th><th>Intitulé</th><th colspan="2">Données de base relatives au diagnostic / Données de base relatives au traitement initial</th><th></th><th colspan="2">Données supplémentaires</th><th></th></tr>
 <tr><th></th><th></th><th>Patients adultes</th><th colspan="2">Enfants et adolescents</th><th>Patients adultes</th><th colspan="2">Enfants et adolescents</th></tr>
 <tr><td colspan="8">CODES C</td></tr>
-<tr><td>C00 à C97</td><td>Tumeurs malignes</td><td>oui, sauf basaliomes</td><td colspan="2">oui</td><td>oui, pour: intestin (C18 à C20) sein (C50) prostate (C61)</td><td colspan="2">oui</td></tr>
+<tr><td>C00 à C97</td><td>Tumeurs malignes</td><td>oui, sauf basaliomes (C44: 8090-8098)</td><td colspan="2">oui, sauf basaliomes (C44: 8090-8098)</td><td>oui, pour: intestin (C18 à C20) sein (C50) prostate (C61)</td><td colspan="2">oui, sauf basaliomes (C44: 8090-8098)</td></tr>
 <tr><td colspan="8">CODES D</td></tr>
 <tr><td>D00 à D09</td><td colspan="7">Tumeurs in situ</td></tr>
 <tr><td>D00</td><td>Carcinome in situ de la cavité buccale, de l’œsophage et de l’estomac</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D01</td><td>Carcinome in situ des organes digestifs, autres et non précisés</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D02</td><td>Carcinome in situ de l’oreille moyenne et de l’appareil respiratoire</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D03</td><td>Mélanome in situ</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
-<tr><td>D04</td><td>...</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>D04</td><td>…</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>D05</td><td>Carcinome in situ du sein</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D06</td><td>Carcinome in situ du col de l’utérus</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D07</td><td>Carcinome in situ d’organes génitaux, autres et non précisés</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
@@ -729,7 +729,7 @@ Les maladies ci-après, citées dans la version 2010 de la Classification intern
 <tr><td>D32</td><td>Tumeur bénigne des méninges</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D33</td><td>Tumeur bénigne de l’encéphale et d’autres parties du système nerveux central</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D35</td><td>Tumeur bénigne des glandes endocrines, autres et non précisées</td><td>non</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
-<tr><td>D35.2</td><td>Tumeur bénigne de l’hypophyse</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
+<tr><td>D35.2</td><td>Tumeur bénigne de l’hypophyse</td><td>oui, sauf microadénomes hypophysaires non sécrétants (&lt; 10 mm)</td><td colspan="2">oui, sauf microadénomes hypophysaires non sécrétants (&lt; 10 mm)</td><td>non</td><td colspan="2">oui, sauf microadénomes hypophysaires non sécrétants (&lt; 10 mm)</td></tr>
 <tr><td>D37 à D48</td><td colspan="7">Tumeurs à évolution imprévisible ou inconnue</td></tr>
 <tr><td>D37</td><td>Tumeur de la cavité buccale et des organes digestifs à évolution imprévisible ou inconnue</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D38</td><td>Tumeur de l’oreille moyenne et des organes respiratoires et intrathoraciques à évolution imprévisible ou inconnue</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
@@ -747,7 +747,7 @@ Les maladies ci-après, citées dans la version 2010 de la Classification intern
 <tr><td>D76</td><td>Autres maladies précises du tissu lymphoréticulaire et du système réticulo-histiocytaire</td><td>non</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: La classification peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou téléchargée sur les sites suivants: www.ofsp.admin.ch &gt; Thèmes &gt; Santé humaine &gt; Maladies non transmissibles &gt; Le cancer &gt; Enregistrement du cancer et www.oms.org &gt; Thèmes de santé &gt; Classification.
+[^annex1-lvlu1-1]: La classification peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou téléchargée sur les sites suivants: [www.ofsp.admin.ch](http://www.ofsp.admin.ch/) &gt; Thèmes &gt; Santé humaine &gt; Maladies non transmissibles &gt; Le cancer &gt; Enregistrement du cancer et [www.oms.org](https://www.oms.org/) &gt; Thèmes de santé &gt; Classification.
 
 Annexe 2
 

@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 aprile 2018 sulla registrazione delle malattie tumoral
 short: ORMT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20220101/it"
 
 (ORMT)
 
-dell’11 aprile 2018 (Stato 1° gennaio 2022)
+dell’11 aprile 2018 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -700,13 +700,13 @@ Tra il 1° gennaio 2020 e il 31 dicembre 2022 valgono i seguenti termini per la 
 
 <sup>2</sup> Gli articoli 36–38 e 40 (all. 2 n. 2) entrano in vigore il 1° giugno 2018.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 5 cpv. 1)
 
 ## Malattie tumorali soggette all’obbligo di notifica
 
-[^t-1]: Aggiornato dal n. I dell’O del DFI del 2 feb. 2021, in vigore dal 15 mar. 2021 ([RU 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)).
+[^t-1]: Aggiornato dai n. I delle O del DFI del 2 feb. 2021 ([RU 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)) e del 3 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 595](https://fedlex.data.admin.ch/eli/oc/2022/595)).
 
 Le seguenti malattie in conformità alla Classificazione internazionale delle malattie dell’OMS nella versione del 2010[^annex1-lvlu1-1] (ICD-10) devono essere notificate; fa stato la categoria della malattia definita con il codice a tre caratteri:
 
@@ -714,7 +714,7 @@ Le seguenti malattie in conformità alla Classificazione internazionale delle ma
 <tr><th>Codice</th><th>Denominazione</th><th colspan="2">Dati di base sulla diagnosi / sul trattamento iniziale</th><th></th><th colspan="2">Dati supplementari</th><th></th></tr>
 <tr><th></th><th></th><th>Adulti</th><th colspan="2">Bambini e adolescenti</th><th>Adulti</th><th colspan="2">Bambini e adolescenti</th></tr>
 <tr><td colspan="8">CODICI C</td></tr>
-<tr><td>C00-C97</td><td>Tumori maligni</td><td>Sì, eccetto basaliomi</td><td colspan="2">Sì</td><td>Sì, per: intestino (C18–C20) seno (C50) prostata (C61)</td><td colspan="2">Sì</td></tr>
+<tr><td>C00–C97</td><td>Tumori maligni</td><td>Sì, eccetto basaliomi (C44: 8090–8098)</td><td colspan="2">Sì, eccetto basaliomi (C44: 8090–8098)</td><td>Sì, per: intestino (C18–C20) seno (C50) prostata (C61)</td><td colspan="2">Sì, eccetto basaliomi (C44: 8090–8098)</td></tr>
 <tr><td colspan="8">CODICI D</td></tr>
 <tr><td>D00–D09</td><td colspan="7">Tumori in situ</td></tr>
 <tr><td>D00</td><td>Carcinoma in situ della cavità orale, dell’esofago e dello stomaco</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
@@ -730,7 +730,7 @@ Le seguenti malattie in conformità alla Classificazione internazionale delle ma
 <tr><td>D32</td><td>Tumori benigni delle meningi</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
 <tr><td>D33</td><td>Tumori benigni dell’encefalo e di altre parti del sistema nervoso centrale</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
 <tr><td>D35</td><td>Tumori benigni di altre e non specificate ghiandole endocrine</td><td>No</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
-<tr><td>D35.2</td><td>Tumori benigni dell’ipofisi</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
+<tr><td>D35.2</td><td>Tumori benigni dell’ipofisi</td><td>Sì, eccetto microadenomi ipofisari non secernenti (&lt; 10 mm)</td><td colspan="2">Sì, eccetto microadenomi ipofisari non secernenti (&lt; 10 mm)</td><td>no</td><td colspan="2">Sì, eccetto microadenomi ipofisari non secernenti (&lt; 10 mm)</td></tr>
 <tr><td>D37-D48</td><td colspan="7">Tumori di comportamento incerto o sconosciuto</td></tr>
 <tr><td>D37</td><td>Tumori di comportamento incerto o sconosciuto della cavità orale e degli organi dell’apparato digerente</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
 <tr><td>D38</td><td>Tumori di comportamento incerto o sconosciuto dell’orecchio medio, degli organi dell’apparato respiratorio e degli organi intratoracici</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
