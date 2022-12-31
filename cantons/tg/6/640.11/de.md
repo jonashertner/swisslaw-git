@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "640.11"
-title: Verordnung zum Gesetz über die Staats- und Gemeindesteuern
+title: Steuerverordnung
 short: StV
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-28
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-11-16
 adopted: 1992-11-10
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2532/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2583/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Gesetz über die Staats- und Gemeindesteuern
+# Steuerverordnung
 
 StV
 
 (StV)
 
-vom 10.11.1992 (Stand 01.07.2022)
+vom 10.11.1992 (Stand 01.01.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -389,7 +389,7 @@ vom 10.11.1992 (Stand 01.07.2022)
 
 <sup>1–2</sup> …
 
-<sup>3</sup> Das Gemeindesteueramt teilt dem Schuldner der steuerbaren Leistung den anwendbaren Tarif mit.
+<sup>3</sup> Die Steuerverwaltung teilt dem Schuldner der steuerbaren Leistung den anwendbaren Tarif mit.
 
 <sup>4</sup> …
 
@@ -431,9 +431,9 @@ vom 10.11.1992 (Stand 01.07.2022)
 
 **Abrechnungsperiode, Ablieferung**
 
-<sup>1</sup> Der Schuldner der steuerbaren Leistung hat in der Regel monatlich mit der Bezugsbehörde abzurechnen. Auf Antrag kann die Bezugsbehörde Schuldnern der steuerbaren Leistung mit bis zu zehn Quellensteuerpflichtigen die vierteljährliche Abrechnung gestatten.
+<sup>1</sup> Der Schuldner der steuerbaren Leistung hat in der Regel monatlich mit der Steuerverwaltung abzurechnen. Auf Antrag kann die Steuerverwaltung Schuldnern der steuerbaren Leistung mit bis zu zehn Quellensteuerpflichtigen die vierteljährliche Abrechnung gestatten.
 
-<sup>2</sup> Der Schuldner der steuerbaren Leistung hat die Quellensteuern innert 20 Tagen nach Beginn des auf die Fälligkeit folgenden Monats oder bei vierteljährlicher Abrechnung innert 20 Tagen nach Quartalsende mit der Bezugsbehörde abzurechnen.
+<sup>2</sup> Der Schuldner der steuerbaren Leistung hat die Quellensteuern innert 20 Tagen nach Beginn des auf die Fälligkeit folgenden Monats oder bei vierteljährlicher Abrechnung innert 20 Tagen nach Quartalsende mit der Steuerverwaltung abzurechnen.
 
 <sup>3</sup> Für verspätet abgelieferte Quellensteuerabrechnungen werden Ausgleichszinsen erhoben.
 
@@ -518,9 +518,9 @@ vom 10.11.1992 (Stand 01.07.2022)
 
 **Bezugsbehörde**
 
-<sup>1</sup> Die Einkommens- und Vermögenssteuer natürlicher Personen sowie die Quellensteuer werden durch die Politische Gemeinde bezogen.
+<sup>1</sup> Die Einkommens- und Vermögenssteuer werden durch die Politische Gemeinde bezogen.
 
-<sup>2</sup> Der Bezug der Gewinn- und Kapitalsteuer beziehungsweise der Minimalsteuer vom Grundeigentum juristischer Personen, der Quellensteuer auf Renten und Kapitalabfindungen, der Liegenschaftensteuer, der Grundstückgewinnsteuer sowie sämtlicher Bussen und Gebühren obliegt der Steuerverwaltung.
+<sup>2</sup> Der Bezug der Gewinn- und Kapitalsteuer beziehungsweise der Minimalsteuer vom Grundeigentum juristischer Personen, der Quellensteuer, der Liegenschaftensteuer, der Grundstückgewinnsteuer sowie sämtlicher Bussen und Gebühren obliegt der Steuerverwaltung.
 
 <sup>3</sup> Der Bezug der Handänderungssteuer erfolgt durch das Grundbuchamt.
 
@@ -761,7 +761,7 @@ vom 10.11.1992 (Stand 01.07.2022)
 
 <sup>2</sup> Bei Beginn und Ende der unbeschränkten Steuerpflicht während der Steuerperiode wird die Steuergutschrift im Verhältnis der Dauer der Steuerpflicht gewährt. Im interkantonalen Verhältnis richtet sich die Anspruchsgewährung sinngemäss nach der Einheit der Steuerperiode.
 
-<sup>3</sup> Quellensteuerpflichtige mit Wohnsitz im Thurgau haben ihren Anspruch auf Steuergutschriften bis Ende März des auf die Fälligkeit der steuerbaren Leistung folgenden Kalenderjahres, oder bei Wegzug innerhalb von 30 Tagen nach Ende der Steuerpflicht, bei der Bezugsbehörde geltend zu machen. Bei einer allfälligen nachträglichen ordentlichen Veranlagung erfolgt die Steuergutschrift auf diesem Weg.
+<sup>3</sup> Quellensteuerpflichtige mit Wohnsitz im Thurgau haben ihren Anspruch auf Steuergutschriften bis Ende März des auf die Fälligkeit der steuerbaren Leistung folgenden Kalenderjahres oder bei Wegzug innerhalb von 30 Tagen nach Ende der Steuerpflicht bei der Steuerverwaltung geltend zu machen. Bei einer allfälligen nachträglichen ordentlichen Veranlagung erfolgt die Steuergutschrift auf diesem Weg.
 
 <sup>4</sup> Bei gemeinsamer elterlicher Sorge von getrennt besteuerten Elternteilen ohne gemeinsamen Haushalt gilt § 12a Abs. 2 sinngemäss. Die Steuergutschriften werden diesfalls je hälftig beiden Elternteilen zugesprochen.
 
@@ -873,7 +873,7 @@ vom 10.11.1992 (Stand 01.07.2022)
 
 <sup>4</sup> Für das Vollscanning der Steuerakten haben die Gemeinden eine Fallentschädigung von Fr. 5 zu entrichten, welche mit der allgemeinen Mitwirkungsentschädigung nach § 201 Abs. 1 des Gesetzes verrechnet wird.
 
-<sup>5</sup> Für die Beschaffung und den Betrieb des Quellensteuerprogrammes hat jede Politische Gemeinde jährlich einen festen Betrag von Fr. 800 sowie pro quellensteuerpflichtige Person Fr. 9.50 zu entrichten, welche mit der allgemeinen Mitwirkungsentschädigung nach § 201 Abs. 1 des Gesetzes verrechnet werden.
+<sup>5</sup> …
 
 #### § 53
 
