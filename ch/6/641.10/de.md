@@ -4,11 +4,11 @@ title: Bundesgesetz vom 27. Juni 1973 über die Stempelabgaben (StG)
 short: StG
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/11_11_11"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1973-06-27
 in_force: 1974-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/11_11_11/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1974-11_11_11-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/20220101/de"
 
 (StG)
 
-vom 27. Juni 1973 (Stand am 1. Januar 2022)
+vom 27. Juni 1973 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -47,7 +47,7 @@ Der Bund erhebt Stempelabgaben:
   - 2\.[^1-2] Stammanteile von Gesellschaften mit beschränkter Haftung und Anteilscheine von Genossenschaften,
   - 2<sup>bis</sup>.[^1-3] Partizipationsscheine und Beteiligungsscheine von Genossenschaftsbanken,
   - 3\. Genussscheine,
-  - [tab] 4. und 5.[^1-4] ...
+  - [tab] 4. und 5.[^1-4] …
 
 - b.[^1-5]
 
@@ -75,7 +75,7 @@ Der Bund erhebt Stempelabgaben:
 [^1-8]: Fassung gemäss Anhang Ziff. II 4 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^1-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
-### II. ...
+### II. …
 
 #### Art. 2
 
@@ -87,13 +87,11 @@ Der Bund erhebt Stempelabgaben:
 
 #### Art. 3
 
-<sup>1</sup> Urkunden, welche dieses Gesetz als Gegenstand einer Stempelabgabe oder steuerfrei erklärt, dürfen von den Kantonen nicht mit gleichgearteten Abgaben oder Registrierungsgebühren belastet werden. Anstände, die sich auf Grund dieser Bestimmung
-
-ergeben, beurteilt das Bundesgericht als einzige Instanz (Art. 116 des Bundesrechtspflegegesetzes vom 16. Dez. 1943 –OG[^3-1]).
+<sup>1</sup> Urkunden, welche dieses Gesetz als Gegenstand einer Stempelabgabe oder steuerfrei erklärt, dürfen von den Kantonen nicht mit gleichgearteten Abgaben oder Registrierungsgebühren belastet werden. Anstände, die sich auf Grund dieser Bestimmung ergeben, beurteilt das Bundesgericht als einzige Instanz (Art. 116 des Bundesrechtspflegegesetzes vom 16. Dez. 1943 –OG[^3-1]).
 
 <sup>2</sup> Zu den steuerfreien Urkunden gehören auch die Frachturkunden im Gepäck-, Tier- und Güterverkehr der Schweizerischen Bundesbahnen und der vom Bund konzessionierten Transportunternehmen.[^3-2]
 
-[^3-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. *b* [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. *a*, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. *a* [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]. Siehe heute das Bundesgerichtsgesetz vom 17. Juni 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^3-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. *b,* [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. *a*; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. *a*, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]. Siehe heute das Bundesgerichtsgesetz vom 17. Juni 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
 [^3-2]: Eingefügt durch Ziff. I des BG vom 8. Okt. 1999 ([AS 2000 322](https://fedlex.data.admin.ch/eli/oc/2000/62); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)). Fassung gemäss Ziff. II 9 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
 ### IV. Begriffsbestimmungen
@@ -146,7 +144,7 @@ Gegenstand der Abgabe sind:
   - –[^5-3] Partizipationsscheinen inländischer Gesellschaften, Genossenschaften oder gewerblicher Unternehmen des öffentlichen Rechts;
   - –[^5-4] Beteiligungsscheinen von Genossenschaftsbanken.
 
-- b.[^5-5] ...
+- b.[^5-5] …
 
 <sup>2</sup>
 
@@ -154,7 +152,7 @@ Der Begründung von Beteiligungsrechten im Sinne von Absatz 1 Buchstabe *a* sind
 
 - a. die Zuschüsse, die die Gesellschafter oder Genossenschafter ohne entsprechende Gegenleistung an die Gesellschaft oder Genossenschaft erbringen, ohne dass das im Handelsregister eingetragene Gesellschaftskapital oder der einbezahlte Betrag der Genossenschaftsanteile erhöht wird;
 - b.[^5-6] der Handwechsel der Mehrheit der Aktien, Stammanteilen oder Genossenschaftsanteile an einer inländischen Gesellschaft oder Genossenschaft, die wirtschaftlich liquidiert oder in liquide Form gebracht worden ist;
-- c.[^5-7] ...
+- c.[^5-7] …
 
 [^5-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. April 1993 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521).
 [^5-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)4839; [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
@@ -187,8 +185,8 @@ Von der Abgabe sind ausgenommen:
 - b.[^6-2] die Begründung oder Nennwerterhöhung von Beteiligungsrechten an Genossenschaften, soweit die Leistungen der Genossenschafter im Sinne von Artikel 5 gesamthaft eine Million Franken nicht übersteigen;
 - c.[^6-3] die Beteiligungsrechte an Transportunternehmen, die aus Investitionsbeiträgen der öffentlichen Hand zu deren Gunsten begründet oder erhöht werden;
 - d. die Beteiligungsrechte, die unter Verwendung früherer Aufgelder und Zuschüsse der Gesellschafter oder Genossenschafter begründet oder erhöht werden, sofern die Gesellschaft oder Genossenschaft nachweist, dass sie auf diesen Leistungen die Abgabe entrichtet hat;
-- e.[^6-4] ...
-- f.[^6-5] ...
+- e.[^6-4] …
+- f.[^6-5] …
 - g.[^6-6] die Beteiligungsrechte, die unter Verwendung eines Partizipationskapitals oder Beteiligungskapitals einer Genossenschaftsbank begründet oder erhöht werden, sofern die Gesellschaft oder Genossenschaft nachweist, dass sie auf diesem Partizipationskapital oder Beteiligungskapital die Abgabe entrichtet hat;
 - h.[^6-7] die bei der Gründung oder Kapitalerhöhung einer Aktiengesellschaft, einer Kommanditaktiengesellschaft oder einer Gesellschaft mit beschränkter Haftung entgeltlich ausgegebenen Beteiligungsrechte, soweit die Leistungen der Gesellschafter gesamthaft eine Million Franken nicht übersteigen;
 - i.[^6-8] die Begründung von Anteilen von kollektiven Kapitalanlagen gemäss KAG[^6-9];
@@ -200,8 +198,8 @@ Von der Abgabe sind ausgenommen:
   - – bestehende Verluste beseitigt werden, und
   - – die Leistungen der Gesellschafter oder Genossenschafter gesamthaft 10 Millionen Franken nicht übersteigen;
 
-- l.[^6-12] die Beteiligungsrechte an Banken, die unter Verwendung des Wandlungskapitals gemäss Artikel 13 Absatz 1 des Bankengesetzes vom 8. November 1934[^6-13] begründet oder erhöht werden;
-- m.[^6-14] die Beteiligungsrechte an Banken oder Konzerngesellschaften von Finanzgruppen, für die Massnahmen nach den Artikeln 28–32 des Bankengesetzes angeordnet werden können, die bei der Umwandlung von Fremd- in Eigenkapital nach Artikel 31 Absatz 3 des Bankengesetzes begründet oder erhöht werden.
+- l.[^6-12] die Beteiligungsrechte an Banken oder Konzerngesellschaften von Finanzgruppen, die unter Verwendung des von der Eidgenössischen Finanzmarktaufsicht im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigten Wandlungskapitals nach den Artikeln 13 Absatz 1 oder 30*b* Absatz 7 Buchstabe b des Bankengesetzes vom 8. November 1934[^6-13] begründet oder erhöht werden;
+- [tab] m.[^6-14]…
 
 <sup>2</sup> Fallen die Voraussetzungen der Abgabebefreiung dahin, so ist auf den noch bestehenden Beteiligungsrechten die Abgabe zu entrichten.[^6-15]
 
@@ -216,10 +214,10 @@ Von der Abgabe sind ausgenommen:
 [^6-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^6-10]: Eingefügt durch Ziff. II 1 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^6-11]: Eingefügt durch Ziff. II 1 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^6-12]: Eingefügt durch Anhang Ziff. 2 des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor) ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)). Fassung gemäss Ziff. II des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [BBl 2015 7083](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
+[^6-12]: Eingefügt durch Anhang Ziff. 2 des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor) ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)). Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^6-13]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^6-14]: Eingefügt durch Ziff. II des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [BBl 2015 7083](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
-[^6-15]: Im Sinne einer Berichtigung nach Art. 33 Abs. 1 GVG ([AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)) hat die Redak-tionskommission der BVers den Passus «oder Anteilen an Anlagefonds» gestrichen.
+[^6-14]: Eingefügt durch Ziff. II des BG vom 18. März 2016 ([AS 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [BBl 2015 7083](https://fedlex.data.admin.ch/eli/fga/2015/1692)). Aufgehoben durch Anhang Ziff. 4 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), mit Wirkung seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^6-15]: Im Sinne einer Berichtigung nach Art. 33 Abs. 1 GVG ([AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)) hat die Redaktionskommission der BVers den Passus «oder Anteilen an Anlagefonds» gestrichen.
 
 ### II. Entstehung der Abgabeforderung
 
@@ -231,19 +229,20 @@ Die Abgabeforderung entsteht:
 
 - a.[^7-1] bei Aktien, Partizipationsscheinen, Stammanteilen von Gesellschaften mit beschränkter Haftung und bei Beteiligungsscheinen von Genossenschaftsbanken: im Zeitpunkt der Eintragung der Begründung oder der Erhöhung der Beteiligungsrechte ins Handelsregister;
 - [tab] a<sup>bis</sup>.[^7-2] bei Beteiligungsrechten, die im Verfahren der bedingten Kapitalerhöhung begründet werden: im Zeitpunkt ihrer Ausgabe;
-- b.[^7-3] ...
+- b.[^7-3] …
 - c. bei Genossenschaftsanteilen: im Zeitpunkt ihrer Begründung oder Erhöhung;
 - d. bei Genussscheinen: im Zeitpunkt ihrer Ausgabe oder Erhöhung;
 - e. bei Zuschüssen und bei einem Handwechsel der Mehrheit von Beteiligungsrechten: im Zeitpunkt des Zuschusses oder des Handwechsels;
-- f.[^7-4] ....
+- f.[^7-4] bei Beteiligungsrechten, die im Rahmen eines Kapitalbands nach den Artikeln 653*s* ff. des Obligationenrechts[^7-5] ausgegeben werden, am Ende des Kapitalbands.
 
-<sup>2</sup> ...[^7-5]
+<sup>2</sup> …[^7-6]
 
 [^7-1]: Fassung gemäss Anhang Ziff. II 7 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^7-2]: Eingefügt durch Ziff. III Art. 7 Ziff. 1 des BG vom 4. Okt. 1991 über die Änderung des OR (Die Aktiengesellschaft), in Kraft seit 1. Juli 1992 ([SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)am Ende, SchlB zum Tit. XXVI).
 [^7-3]: Aufgehoben durch Ziff. I 3 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, mit Wirkung seit 1. April 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^7-4]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521). Aufgehoben durch Anhang Ziff. 2 des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), mit Wirkung seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^7-5]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. April 1993 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521).
+[^7-4]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521). Fassung gemäss Anhang Ziff. 6 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^7-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-6]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. April 1993 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521).
 
 ### III. Abgabesätze und Berechnungsgrundlage
 
@@ -259,7 +258,7 @@ Die Abgabe auf Beteiligungsrechten beträgt 1 Prozent und wird berechnet:[^8-2]
 - b. auf Zuschüssen: vom Betrag des Zuschusses;
 - c. beim Handwechsel der Mehrheit von Beteiligungsrechten: vom Reinvermögen, das sich im Zeitpunkt des Handwechsels in der Gesellschaft oder Genossenschaft befindet, mindestens aber vom Nennwert aller bestehenden Beteiligungsrechte.
 
-<sup>2</sup> ...[^8-3]
+<sup>2</sup> …[^8-3]
 
 <sup>3</sup> Sachen und Rechte sind zum Verkehrswert im Zeitpunkt ihrer Einbringung zu bewerten.
 
@@ -275,19 +274,23 @@ Die Abgabe auf Beteiligungsrechten beträgt 1 Prozent und wird berechnet:[^8-2]
 
 Die Abgabe beträgt:
 
-- a.[^9-1] ...
-- b.[^9-2] ...
-- c.[^9-3] ...
+- a.[^9-1] …
+- b.[^9-2] …
+- c.[^9-3] …
 - d.[^9-4] auf unentgeltlich ausgegebenen Genussscheinen: 3 Franken je Genussschein;
 - e.[^9-5] auf Beteiligungsrechten, die in Durchführung von Beschlüssen über die Fusion, Spaltung oder Umwandlung von Einzelunternehmen, Handelsgesellschaften ohne juristische Persönlichkeit, Vereinen, Stiftungen oder Unternehmen des öffentlichen Rechts begründet oder erhöht werden, sofern der bisherige Rechtsträger während mindestens fünf Jahren bestand: 1 Prozent des Nennwerts, vorbehältlich der Ausnahmen in Artikel 6 Absatz 1 Buchstabe h. Über den Mehrwert wird nachträglich abgerechnet, soweit während den der Umstrukturierung nachfolgenden fünf Jahren die Beteiligungsrechte veräussert werden.
 
 <sup>2</sup> Von den Einzahlungen, die während eines Geschäftsjahres auf das Genossenschaftskapital gemacht werden, wird die Abgabe nur soweit erhoben, als diese Einzahlungen die Rückzahlungen auf dem Genossenschaftskapital während des gleichen Geschäftsjahres übersteigen.
+
+<sup>3</sup> Auf den Beträgen, die der Gesellschaft im Rahmen eines Kapitalbands nach den Artikeln 653*s* ff. des Obligationenrechts[^9-6] zufliessen, wird die Abgabe nur soweit erhoben, als diese Zuflüsse die Rückzahlungen im Rahmen dieses Kapitalbands übersteigen.[^9-7]
 
 [^9-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. April 1993 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521).
 [^9-2]: Aufgehoben durch Ziff. I 3 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, mit Wirkung seit 1. April 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^9-3]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. April 1993 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521).
 [^9-4]: Fassung gemäss Ziff. III Art. 7 Ziff. 1 des BG vom 4. Okt. 1991 über die Änderung des OR (Die Aktiengesellschaft), in Kraft seit 1. Juli 1992 ([SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)am Ende, SchlB zum Tit. XXVI).
 [^9-5]: Eingefügt durch Anhang Ziff. 6 des Fusionsgesetzes vom 3. Okt. 2003 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)). Fassung gemäss Anhang Ziff. 6 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)4839; [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^9-6]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-7]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521). Fassung gemäss Anhang Ziff. 6 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 9a
 
@@ -301,9 +304,9 @@ Die Abgabe beträgt:
 
 <sup>1</sup> Für Beteiligungsrechte ist die Gesellschaft oder Genossenschaft abgabepflichtig.[^10-1] Für die beim Handwechsel der Mehrheit von Beteiligungsrechten (Art. 5 Abs. 2 Bst. *b*) geschuldete Abgabe haftet der Veräusserer der Beteiligungsrechte solidarisch.
 
-<sup>2</sup> ...[^10-2]
+<sup>2</sup> …[^10-2]
 
-<sup>3</sup> und <sup>4</sup>...[^10-3]
+<sup>3</sup> und <sup>4</sup>…[^10-3]
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. April 1993 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521).
 [^10-2]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. April 1993 ([AS 1993 222](https://fedlex.data.admin.ch/eli/oc/1993/222_222_222); [BBl 1991 IV 497](https://fedlex.data.admin.ch/eli/fga/1991/4_497__)521).
@@ -362,9 +365,9 @@ Effektenhändler sind:
   - 1\. für Dritte den Handel mit steuerbaren Urkunden zu betreiben (Händler), oder
   - 2\. als Anlageberater oder Vermögensverwalter Kauf und Verkauf von steuerbaren Urkunden zu vermitteln (Vermittler);
 
-- c.[^13-9] ...
+- c.[^13-9] …
 - d.[^13-10] die nicht unter die Buchstaben a und b fallenden inländischen Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung und Genossenschaften sowie inländischen Einrichtungen der beruflichen Vorsorge und der gebundenen Vorsorge, deren Aktiven nach Massgabe der letzten Bilanz zu mehr als 10 Millionen Franken aus steuerbaren Urkunden nach Absatz 2 bestehen;
-- e.[^13-11] ...
+- e.[^13-11] …
 - f.[^13-12] der Bund, die Kantone und die politischen Gemeinden samt ihren Anstalten, sofern sie in ihrer Rechnung für mehr als 10 Millionen Franken steuerbare Urkunden nach Absatz 2 ausweisen, sowie die inländischen Einrichtungen der Sozialversicherung.[^13-13]
 
 <sup>4</sup>
@@ -408,7 +411,7 @@ Von der Abgabe sind ausgenommen:
 
 - a.[^14-1] die Ausgabe inländischer Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung und von Genossenschaften, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine, Genussscheine, Anteile an kollektiven Kapitalanlagen nach KAG[^14-2], Obligationen und Geldmarktpapiere, einschliesslich der Festübernahme durch eine Bank oder Beteiligungsgesellschaft und der Zuteilung bei einer nachfolgenden Emission;
 - b.[^14-3] die Sacheinlage von Urkunden zur Liberierung in- oder ausländischer Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung, Genossenschaftsanteile, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine und Anteile von kollektiven Kapitalanlagen nach KAG;
-- c.[^14-4] ...
+- c.[^14-4] …
 - d. der Handel mit Bezugsrechten;
 - e. die Rückgabe von Urkunden zur Tilgung;
 - f.[^14-5] die Ausgabe von Obligationen ausländischer Schuldner, die auf eine fremde Währung lauten (Euroobligationen), sowie von Beteiligungsrechten an ausländischen Gesellschaften. Als Euroobligationen gelten ausschliesslich Titel, bei denen sowohl die Vergütung des Zinses als auch die Rückzahlung des Kapitals in einer fremden Währung erfolgen;
@@ -417,7 +420,7 @@ Von der Abgabe sind ausgenommen:
 - i.[^14-8] die mit einer Umstrukturierung, insbesondere einer Fusion, Spaltung oder Umwandlung verbundene Übertragung steuerbarer Urkunden von der übernommenen, spaltenden oder umwandelnden Unternehmung auf die aufnehmende oder umgewandelte Unternehmung;
 - j.[^14-9] der Erwerb oder die Veräusserung von steuerbaren Urkunden im Rahmen von Umstrukturierungen nach den Artikeln 61 Absatz 3 und 64 Absatz 1<sup>bis</sup> des Bundesgesetzes vom 14. Dezember 1990[^14-10] über die direkte Bundessteuer sowie bei der Übertragung von Beteiligungen von mindestens 20 Prozent am Grund- oder Stammkapital anderer Gesellschaften auf eine in- oder ausländische Konzerngesellschaft.
 
-<sup>2</sup> ...[^14-11]
+<sup>2</sup> …[^14-11]
 
 <sup>3</sup> Der gewerbsmässige Effektenhändler gemäss Artikel 13 Absatz 3 Buchstabe a und b Ziffer 1 ist von dem auf ihn selbst entfallenden Teil der Abgaben befreit, soweit er Titel aus seinem Handelsbestand veräussert oder zur Äufnung dieses Bestandes erwirbt. Als Handelsbestand gelten die aus steuerbaren Urkunden zusammengesetzten Titelbestände, die sich aus der Handelstätigkeit der gewerbsmässigen Händler ergeben, nicht aber Beteiligungen und Bestände mit Anlagecharakter.[^14-12]
 
@@ -482,7 +485,7 @@ Er schuldet eine halbe Abgabe:
 - b. lediglich Gelegenheit zum Geschäftsabschluss nachweist;
 - c. die Urkunden am Tage ihres Erwerbs weiterveräussert.
 
-<sup>4</sup> ...[^17-2]
+<sup>4</sup> …[^17-2]
 
 [^17-1]: Fassung gemäss Ziff. I des BG vom 18. März 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [BBl 2004 4899](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^17-2]: Eingefügt durch Ziff. I des BB vom 19. März 1999 über dringliche Massnahmen im Bereich der Umsatzabgabe ([AS 1999 1287](https://fedlex.data.admin.ch/eli/oc/1999/171); BBl **1999** 1025). Aufgehoben durch Ziff. I des BG vom 19. März 2010, mit Wirkung seit 1. Juli 2010 ([AS 2010 3317](https://fedlex.data.admin.ch/eli/oc/2010/447); [BBl 2009 8745](https://fedlex.data.admin.ch/eli/fga/2009/1488)[8753](https://fedlex.data.admin.ch/eli/fga/2009/1490)).
@@ -536,7 +539,7 @@ Als ausländische Einrichtungen der beruflichen Vorsorge gelten Einrichtungen:
 
 <sup>1</sup> Ist beim Abschluss eines Geschäftes eine ausländische Bank, ein ausländischer Börsenagent oder eine zentrale Gegenpartei im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^19-2] Vertragspartei, so entfällt die diese Partei betreffende halbe Abgabe.[^19-3] Das Gleiche gilt für Titel, die von einer als Gegenpartei auftretenden Börse bei der Ausübung von standardisierten Derivaten übernommen oder geliefert werden.
 
-<sup>2</sup> ...[^19-4]
+<sup>2</sup> …[^19-4]
 
 [^19-1]: Fassung gemäss Ziff. I des BG vom 18. März 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 3577](https://fedlex.data.admin.ch/eli/oc/2005/520); [BBl 2004 4899](https://fedlex.data.admin.ch/eli/fga/2004/878)).
 [^19-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
@@ -642,7 +645,7 @@ Die Abgabe wird 30 Tage nach Ablauf des Vierteljahres fällig, in dem die Abgabe
 
 <sup>2</sup> Ist unter den Parteien kein bestimmter Umrechnungskurs vereinbart worden, so ist der Umrechnung das Mittel der Geld- und Briefkurse am letzten Werktage vor der Entstehung der Abgabeforderung zugrunde zu legen.
 
-### III.**** Verzugszins****
+### III. Verzugszins
 
 [^chap4-lvlIII-1][^chap4-lvlIII-2]
 
@@ -695,7 +698,7 @@ Die Eidgenössische Steuerverwaltung (ESTV) erlässt für die Erhebung der Stemp
 [^32-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 [^32-3]: Fassung gemäss Anhang Ziff. 51 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### II*a*.**** Datenbearbeitung
+### II*a*. Datenbearbeitung
 
 [^chap5-lvlA-lvlIIa-1]
 
@@ -740,7 +743,7 @@ Keine Geheimhaltungspflicht besteht:
 
 <sup>2</sup> Der Abgabepflichtige hat der ESTV bei Fälligkeit der Abgabe (Art. 11, 20, 26) unaufgefordert die vorgeschriebene Abrechnung mit den Belegen einzureichen und gleichzeitig die Abgabe zu entrichten.
 
-<sup>3</sup> ...[^34-1]
+<sup>3</sup> …[^34-1]
 
 [^34-1]: Aufgehoben durch Ziff. II 1 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, mit Wirkung seit 1. Jan. 2009 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
@@ -795,7 +798,7 @@ Die ESTV trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notw
 - b. für einen bestimmten Fall vorsorglich die amtliche Feststellung der Abgabepflicht, der Grundlagen der Abgabebemessung oder der Mithaftung beantragt wird;
 - c. der Abgabepflichtige oder Mithaftende die gemäss Abrechnung geschuldete Abgabe nicht entrichtet.
 
-### III. Einsprache****
+### III. Einsprache
 
 [^chap5-lvlB-lvlIII-1]
 
@@ -803,7 +806,7 @@ Die ESTV trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notw
 
 #### Art. 39
 
-**...[^39-1]**
+**…[^39-1]**
 
 <sup>1</sup> Verfügungen und Entscheide der ESTV können innert 30 Tagen nach der Eröffnung mit Einsprache angefochten werden.
 
@@ -837,7 +840,7 @@ Die ESTV trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notw
 
 <sup>2</sup> Ohne Rücksicht auf den Ausgang des Verfahrens können die Kosten von Untersuchungsmassnahmen demjenigen auferlegt werden, der sie schuldhaft verursacht hat.
 
-### IV*a*.**** Elektronische Verfahren
+### IV*a*. Elektronische Verfahren
 
 [^chap5-lvlB-lvlIVa-1]
 
@@ -877,7 +880,7 @@ Die ESTV trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notw
 
 <sup>4</sup> Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung.[^43-4]
 
-<sup>5</sup> ...[^43-5]
+<sup>5</sup> …[^43-5]
 
 [^43-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^43-2]: Fassung gemäss Anhang Ziff. 10 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)1307; [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -891,7 +894,7 @@ Die ESTV trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notw
 
 <sup>1</sup> Auf die Revision und die Erläuterung von Entscheiden der ESTV werden die Artikel 66–69 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^44-1] sinngemäss angewandt.
 
-<sup>2</sup> ...[^44-2]
+<sup>2</sup> …[^44-2]
 
 [^44-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^44-2]: Aufgehoben durch Anhang Ziff. 51 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -900,7 +903,7 @@ Die ESTV trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notw
 
 ### A. Widerhandlungen
 
-### I. Hinterziehung****
+### I. Hinterziehung
 
 [^chap6-lvlA-lvlI-1]
 
@@ -910,7 +913,7 @@ Die ESTV trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notw
 
 <sup>1</sup> Wer vorsätzlich oder fahrlässig, zum eigenen oder zum Vorteil eines andern, dem Bunde Stempelabgaben vorenthält oder sich oder einem andern auf andere Weise einen unrechtmässigen Abgabevorteil verschafft, wird, sofern nicht die Strafbestimmung von Artikel 14 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^45-1] zutrifft, wegen Hinterziehung mit Busse bis zu 30 000 Franken oder, sofern dies einen höheren Betrag ergibt, bis zum Dreifachen der hinterzogenen Abgabe oder des unrechtmässigen Vorteils bestraft.[^45-2]
 
-<sup>2–4</sup> ...[^45-3]
+<sup>2–4</sup> …[^45-3]
 
 [^45-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^45-2]: Fassung gemäss Ziff. 8 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
@@ -958,7 +961,7 @@ wird mit Busse bis zu 5000 Franken bestraft.
 
 [^4849-1]: Aufgehoben durch Ziff. 8 des Anhangs zum VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
-### B. Verhältnis zum Verwaltungsstrafrechtsgesetz****
+### B. Verhältnis zum Verwaltungsstrafrechtsgesetz
 
 [^chap6-lvlB-1]
 
@@ -968,7 +971,7 @@ wird mit Busse bis zu 5000 Franken bestraft.
 
 <sup>1</sup> Das Verwaltungsstrafrechtsgesetz vom 22. März 1974[^50-1] findet Anwendung; verfolgende und urteilende Verwaltungsbehörde im Sinne jenes Gesetzes ist die ESTV.[^50-2]
 
-<sup>2</sup> ...[^50-3]
+<sup>2</sup> …[^50-3]
 
 [^50-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^50-2]: Fassung gemäss Ziff. 8 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
@@ -988,7 +991,7 @@ wird mit Busse bis zu 5000 Franken bestraft.
 
 #### Art. 52
 
-...[^52-1]
+…[^52-1]
 
 [^52-1]: Die Änderungen können unter [AS 1974 11](https://fedlex.data.admin.ch/eli/oc/1974/11_11_11)konsultiert werden.
 
