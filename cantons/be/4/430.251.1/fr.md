@@ -4,13 +4,12 @@ number: "430.251.1"
 title: Ordonnance de Direction sur le statut du corps enseignant
 short: ODSE
 language: fr
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-22
+version: 2023-01-01
+version_adopted: 2022-11-23
 adopted: 2007-06-15
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2618/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2765/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2618/pdf_file"
 
 (ODSE)
 
-du 15.06.2007 (état au 01.08.2022)
+du 15.06.2007 (état au 01.01.2023)
 
 La Direction de l'instruction publique du canton de Berne,
 
@@ -164,11 +163,11 @@ arrête:
 
 <sup>1</sup> Au cours du premier mois, l'engagement des auxiliaires de classe peut être résilié par l'auxiliaire de classe ou l'autorité d'engagement du jour au lendemain. A partir du deuxième mois, le délai de préavis est de sept jours. A partir du sixième mois, l'engagement peut être résilié pour la fin d'un mois avec un préavis d'un mois.
 
-### 1.2c Part de vacances
+### 1.2c
 
 #### Art. 9l
 
-<sup>1</sup> Une part de vacances est prise en compte dans le traitement lorsqu'un engagement dépasse un mois mais n'atteint pas un semestre.
+**…**
 
 ### 1.3 Formation continue lors de la résiliation de l'engagement pour cause de réorganisation
 
@@ -253,7 +252,24 @@ arrête:
 
 ## 3 Temps de travail et degré d'occupation
 
-### 3.1 Degré d'occupation
+### 3.1 Compensation du temps non consacré à l’enseignement
+
+#### Art. 14a
+
+<sup>1</sup> Une part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne est prise en compte dans le calcul du traitement. L’alinéa 5 est réservé.
+
+<sup>2</sup> La part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne est calculée sur la base de la part moyenne de temps non consacré à l’enseignement sur une année scolaire.
+
+<sup>3</sup> En cas d’entrée en fonction en cours d’année scolaire, la part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne est prise en compte dans le premier traitement.
+
+<sup>4</sup> Si les rapports de travail d’un enseignant ou d’une enseignante sont résiliés en cours d’année scolaire, la part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne est prise en compte dans le dernier traitement.
+
+<sup>5</sup> Une part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne n’est pas prise en compte
+
+- a dans le calcul du traitement pour les rapports de travail d’une durée inférieure ou égale à un mois,
+- b dans le calcul du traitement pour les rapports de travail qui commencent le 1<sup>er</sup> août et qui prennent fin le 31 juillet.
+
+### 3.1a Degré d'occupation
 
 #### Art. 15
 
@@ -327,9 +343,18 @@ arrête:
 
 #### Art. 19
 
-<sup>1</sup> Pour les congés non payés de moins d’un semestre, le traitement est interrompu et une part équivalente de vacances est supprimée.
+<sup>1</sup> Si un enseignant ou une enseignante prend un congé non payé, une part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne est prise en compte dans le calcul du traitement. L’alinéa 5 est réservé.
 
-<sup>2</sup> Pour les congés non payés d’une semaine au plus, aucune part de vacances n’est supprimée.
+<sup>2</sup> La part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne est calculée sur la base de la part moyenne de temps non consacré à l’enseignement sur une année scolaire.
+
+<sup>3</sup> Si le congé non payé est pris en cours d’année scolaire, la part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne est prise en compte dans le dernier traitement avant le congé.
+
+<sup>4</sup> Si le congé non payé prend fin en cours d’année scolaire, la part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne est prise en compte dans le premier traitement après le congé.
+
+<sup>5</sup> Une part de temps non consacré à l’enseignement qui est supérieure ou inférieure à la moyenne n’est pas prise en compte dans le calcul du traitement
+
+- a si le congé non payé dure une semaine ou moins;
+- b si le congé non payé commence le 1<sup>er</sup> août et prend fin le 31 juillet.
 
 ## 4
 
@@ -356,6 +381,14 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance de direction entre en vigueur le 1<sup>er</sup> août 2007.
+
+## T1 Disposition transitoire de la modification du 23.11.2022
+
+#### Art. T1-1
+
+<sup>1</sup> Si, après la présente modification (art. 14a ou art. 19), la compensation du temps non consacré à l’enseignement donne droit à un traitement inférieur à celui calculé avec la prise en compte d’une part de vacances selon l’ancien droit (art. 9l ou art. 19 dans la teneur en vigueur jusqu’au 31 décembre 2022), le traitement est calculé et versé selon l’ancien droit.
+
+<sup>2</sup> La présente règlementation s’applique aux rapports de travail et aux congés non payés qui ont débuté avant le 1<sup>er</sup> janvier 2023 et qui prennent fin entre le 1<sup>er</sup> janvier 2023 et le 31 juillet 2023.
 
 ## A1
 

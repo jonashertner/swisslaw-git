@@ -4,13 +4,12 @@ number: "430.251.1"
 title: Direktionsverordnung über die Anstellung der Lehrkräfte
 short: LADV
 language: de
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-22
+version: 2023-01-01
+version_adopted: 2022-11-23
 adopted: 2007-06-15
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2618/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2765/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2618/pdf_file"
 
 (LADV)
 
-vom 15.06.2007 (Stand 01.08.2022)
+vom 15.06.2007 (Stand 01.01.2023)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -164,11 +163,11 @@ beschliesst:
 
 <sup>1</sup> Anstellungsverhältnisse von Klassenhilfen können im ersten Monat auf den nächsten Tag durch die Klassenhilfe oder durch die Anstellungsbehörde aufgelöst werden. Ab dem zweiten Monat beträgt die Kündigungsfrist sieben Tage. Ab dem sechsten Monat beträgt sie einen Monat auf das Ende eines Monats.
 
-### 1.2c Ferienanteil
+### 1.2c
 
 #### Art. 9l
 
-<sup>1</sup> Dauert ein Anstellungsverhältnis mehr als einen Monat, aber weniger als ein Semester, wird ein Ferienanteil an das Gehalt angerechnet.
+**…**
 
 ### 1.3 Weiterbildung bei Auflösung des Anstellungsverhältnisses infolge von Reorganisation
 
@@ -249,7 +248,24 @@ beschliesst:
 
 ## 3 Arbeitszeit und Beschäftigungsgrad
 
-### 3.1 Beschäftigungsgrad
+### 3.1 Ausgleich der unterrichtsfreien Zeit
+
+#### Art. 14a
+
+<sup>1</sup> Bei der Berechnung des Gehalts wird ein über- oder unterdurchschnittlicher Anteil an unterrichtsfreier Zeit berücksichtigt. Vorbehalten bleibt Absatz 5.
+
+<sup>2</sup> Der über- oder unterdurchschnittliche Anteil an unterrichtsfreier Zeit wird anhand des durchschnittlichen Anteils an unterrichtsfreier Zeit in einem Schuljahr ermittelt.
+
+<sup>3</sup> Bei einem Stellenantritt während des laufenden Schuljahres erfolgt die Berücksichtigung beim ersten Gehalt.
+
+<sup>4</sup> Bei einer Beendigung des Anstellungsverhältnisses während des laufenden Schuljahres erfolgt die Berücksichtigung beim letzten Gehalt.
+
+<sup>5</sup> Nicht berücksichtigt wird ein über- oder unterdurchschnittlicher Anteil an unterrichtsfreier Zeit
+
+- a bei der Berechnung des Gehalts für Anstellungsverhältnisse von bis zu einem Monat,
+- b bei der Berechnung des Gehalts für Anstellungsverhältnisse, die am 1. August beginnen und am 31. Juli enden.
+
+### 3.1a Beschäftigungsgrad
 
 #### Art. 15
 
@@ -323,9 +339,18 @@ beschliesst:
 
 #### Art. 19
 
-<sup>1</sup> Bei unbezahlten Urlauben mit einer Dauer von weniger als einem Semester wird das Gehalt einschliesslich eines entsprechenden Ferienanteils sistiert.
+<sup>1</sup> Wird ein unbezahlter Urlaub bezogen, so wird bei der Berechnung des Gehalts ein über- oder unterdurchschnittlicher Anteil an unterrichtsfreier Zeit berücksichtigt. Vorbehalten bleibt Absatz 5.
 
-<sup>2</sup> Bei unbezahlten Urlauben bis zu einer Woche wird kein Ferienanteil berechnet.
+<sup>2</sup> Der über- oder unterdurchschnittliche Anteil an unterrichtsfreier Zeit wird anhand des durchschnittlichen Anteils an unterrichtsfreier Zeit in einem Schuljahr ermittelt.
+
+<sup>3</sup> Bei einem Antritt des unbezahlten Urlaubs während des laufenden Schuljahrs erfolgt die Berücksichtigung beim letzten Gehalt vor dem Urlaub.
+
+<sup>4</sup> Bei einer Beendigung des unbezahlten Urlaubs während des laufenden Schuljahrs erfolgt die Berücksichtigung beim ersten Gehalt nach dem Urlaub.
+
+<sup>5</sup> Nicht berücksichtigt wird ein über- oder unterdurchschnittlicher Anteil an unterrichtsfreier Zeit bei der Berechnung des Gehalts,
+
+- a wenn der unbezahlte Urlaub eine Woche oder weniger dauert,
+- b wenn der unbezahlte Urlaub am 1. August beginnt und am 31. Juli endet.
 
 ## 4
 
@@ -352,6 +377,14 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Direktionsverordnung tritt am 1. August 2007 in Kraft.
+
+## T1 Übergangsbestimmung der Änderung vom 23.11.2022
+
+#### Art. T1-1
+
+<sup>1</sup> Führt der Ausgleich der unterrichtsfreien Zeit nach dieser Änderung (Art. 14a oder Art. 19) zu einem geringeren Gehalt als die Ferienanteilsberechnung nach dem bisherigen Recht (Art. 9l oder Art. 19 in der bis am 31. Dezember 2022 geltenden Fassung), so wird das Gehalt nach dem bisherigen Recht berechnet und ausbezahlt.
+
+<sup>2</sup> Diese Regelung gilt für Anstellungsverhältnisse und unbezahlte Urlaube, die vor dem 1. Januar 2023 begonnen haben und zwischen dem 1. Januar 2023 und dem 31. Juli 2023 enden.
 
 ## A1
 
