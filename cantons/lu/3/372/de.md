@@ -4,13 +4,12 @@ number: "372"
 title: Gesetz über den Zivilschutz
 short: ZSG
 language: de
-version: 2015-03-01
-valid_until: 2022-12-31
-version_adopted: 2014-12-01
+version: 2023-01-01
+version_adopted: 2022-06-20
 adopted: 2007-06-19
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/372"
-pdf: "https://srl.lu.ch/api/de/versions/2304/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3972/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://srl.lu.ch/api/de/versions/2304/pdf_file"
 
 (ZSG)
 
-vom 19.06.2007 (Stand 01.03.2015)
+vom 19.06.2007 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
-gestützt auf die Artikel 6, 27 Absatz 3, 38 Absatz 1, 47 und 75 Absatz 3 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz vom 4. Oktober 2002[^ingress-1] und auf Artikel 4 des Bundesgesetzes über den Schutz der Kulturgüter bei bewaffneten Konflikten vom 6. Oktober 1966[^ingress-2],
+gestützt auf die Artikel 14, 45 Absatz 1 und 46 Absatz 3 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz vom 20. Dezember 2019[^ingress-1] und Artikel 5 Absatz 1 des Bundesgesetzes über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen vom 20. Juni 2014[^ingress-2],
 
 nach Einsicht in die Botschaft des Regierungsrates vom 26. Januar 2007[^ingress-3],
 
@@ -33,23 +32,11 @@ beschliesst:
 [^ingress-2]: SR [520.3](https://db.clex.ch/link/Bund/520.3/de)
 [^ingress-3]: GR 2007 863
 
-## 1 Aufgaben
+## 1
 
 #### § 1
 
-**Aufgaben**
-
-<sup>1</sup> Dem Zivilschutz obliegen namentlich folgende Aufgaben:
-
-- a. Bereitstellung der Schutzinfrastruktur und der Mittel zur Alarmierung der Bevölkerung,
-- b. Betreuung von schutzsuchenden und von obdachlosen Personen,
-- c. Schutz von Kulturgütern,
-- d. Unterstützung der Partnerorganisationen, insbesondere bei Katastrophen und Notlagen,
-- e. Verstärkung der Führungsunterstützung und der Logistik,
-- f. Instandstellungsarbeiten,
-- g. Einsätze zu Gunsten der Gemeinschaft.
-
-<sup>2</sup> Der Regierungsrat kann dem Zivilschutz in der Verordnung weitere Aufgaben übertragen.
+**…**
 
 ## 2 Organisation
 
@@ -59,11 +46,11 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Behörde entscheidet über die Einteilung der Schutzdienstpflichtigen und führt die Kontrolle. Die Gemeinden liefern die dazu notwendigen Daten.
 
-<sup>2</sup> Schutzdienstpflichtige können in die Personalreserve eingeteilt werden, wenn
+<sup>2</sup> Nicht eingeteilte Schutzdienstpflichtige erfasst die zuständige Behörde im gesamtschweizerischen Personalpool.
 
-- a. die Bestände in der betreffenden Region oder Gemeinde gemäss den Vorgaben des Kantons erreicht sind,
-- b. sie ein bestimmtes Alter erreicht haben oder
-- c. sie den Anforderungen nicht genügen.
+- a. …
+- b. …
+- c. …
 
 #### § 3
 
@@ -81,6 +68,8 @@ beschliesst:
 <sup>4</sup> Wird eine regionale Zivilschutzorganisation gebildet, ist die Zusammenarbeit gemäss Gemeindegesetz zu regeln. Die Regelung ist vom zuständigen Departement zu genehmigen.
 
 <sup>5</sup> Das zuständige Departement kann mit Gemeinden Leistungsvereinbarungen über Zivilschutzformationen zur Erfüllung besonderer Aufgaben abschliessen.
+
+<sup>6</sup> Der Kanton kann eine kantonale Zivilschutzformation betreiben. Der Regierungsrat regelt das Nähere.
 
 ## 3 Ausbildung und Aufgebot
 
@@ -119,14 +108,17 @@ beschliesst:
 <sup>1</sup> Der Kanton ist zuständig für
 
 - a. die Einteilung der Schutzdienstpflichtigen und von Freiwilligen in die Zivilschutzorganisation,
-- b. die Kontrollführung über die Schutzdienstpflichtigen, die Einteilung in die Personalreserve, die vorzeitige Entlassung zu Gunsten der Partnerorganisationen sowie den Ausschluss,
+- b. die Kontrollführung über die Schutzdienstpflichtigen, die Erfassung von nicht eingeteilten Schutzdienstpflichtigen im gesamtschweizerischen Personalpool und die Einteilung von Personen aus diesem Pool, die vorzeitige Entlassung zu Gunsten der Partnerorganisationen sowie den Ausschluss,
 - c. die Durchführung der Grund-, der Zusatz-, der Kader- und der Weiterbildung,
-- d. das Aufgebot, die Dispensation und die Verschiebung bei kantonalen Kursen,
+- c<sup>bis</sup>. das Betreiben eines Ausbildungszentrums,
+- d. das Aufgebot, die Dispensation und die Verschiebung bei kantonalen Kursen sowie bei Kursen der kantonalen Zivilschutzformation,
 - e. die Bewilligung der Einsätze zu Gunsten der Gemeinschaft,
 - f. die Festlegung der Leistungsziele in der Ausbildung sowie deren Evaluation,
-- g. die Festlegung des minimal notwendigen Materials der Zivilschutzformationen, einschliesslich der persönlichen Ausrüstung,
-- h. die Bewilligung von Schutzräumen, die Festlegung der Ersatzbeiträge und die Schutzraumsteuerung,
-- i. die Aufsicht über die Kontrolle von Schutzanlagen und Schutzräumen,
+- g. die Festlegung des minimal notwendigen Materials der Zivilschutzformationen,
+- g<sup>bis</sup>. die persönliche Ausrüstung der Schutzdienstpflichtigen,
+- h. die Bewilligung von Schutzräumen, die Festlegung der Ersatzbeiträge und die Steuerung des Schutzraumbaus,
+- i. die Kontrolle von Schutzanlagen und Schutzräumen,
+- i<sup>bis</sup>. den Bau, die Ausrüstung, den Unterhalt, die Erneuerung und den Betrieb der kantonalen Schutzanlagen,
 - j. alle weiteren, nicht ausdrücklich den Gemeinden zugeordneten Zivilschutzaufgaben.
 
 <sup>2</sup> Er kann auf Gesuch hin Zivilschutzorganisationen zur Unterstützung anderer Kantone in der Katastrophen- und Nothilfe sowie für Einsätze zu Gunsten der Gemeinschaft aufbieten.
@@ -143,11 +135,11 @@ beschliesst:
 - b. das Aufgebot, die Dispensation und die Verschiebung bei Wiederholungskursen,
 - c. das Aufgebot für Einsätze und deren Durchführung, sofern nicht der Kanton zuständig ist,
 - d. die Beförderung der Schutzdienstpflichtigen ihrer Zivilschutzformationen,
-- e. die persönliche Ausrüstung der Schutzdienstpflichtigen,
+- e. …
 - f. die Beschaffung und die Instandhaltung des Materials sowie die Requisition,
 - g. die Erstellung der Verzeichnisse und der erforderlichen Dokumentation der Kulturgüter,
-- h. die Kontrolle der Schutzräume,
-- i. die Wartung und den Unterhalt der Schutzanlagen.
+- h. …
+- i. den Bau, die Ausrüstung, den Unterhalt, die Erneuerung und den Betrieb der kommunalen Schutzanlagen.
 
 ## 5 Schutzbauten
 
@@ -155,11 +147,11 @@ beschliesst:
 
 **Einsatzbereitschaft der Schutzbauten**
 
-<sup>1</sup> Private und öffentliche Schutzräume müssen die Schutzfunktion erfüllen. Bauliche Veränderungen sind von der zuständigen kantonalen Behörde zu bewilligen.
+<sup>1</sup> Bauliche und technische Veränderungen an Schutzbauten sind durch die zuständige kantonale Behörde zu bewilligen.
 
-<sup>2</sup> Die zivilschutzfremde Nutzung öffentlicher Schutzräume sowie von Schutzanlagen ist möglich, sofern die zivilschützerischen Bedürfnisse dies zulassen.
+<sup>2</sup> Die Eigentümerinnen und Eigentümer von sanitätsdienstlichen Schutzanlagen gewähren bei Grossereignissen, Katastrophen, Notlagen und bewaffneten Konflikten dem koordinierten Sanitätsdienst den sofortigen Zutritt.
 
-<sup>3</sup> Bauliche und technische Änderungen von Schutzanlagen sind durch die zuständige kantonale Behörde zu bewilligen.
+<sup>3</sup> …
 
 <sup>4</sup> Die zuständige kantonale Behörde legt den Grad der Betriebsbereitschaft der Schutzanlagen fest.
 
@@ -167,11 +159,11 @@ beschliesst:
 
 **Kontrolle der Schutzbauten**
 
-<sup>1</sup> Die Gemeinden kontrollieren nach den Vorgaben des Bundes und des Kantons periodisch die Betriebsbereitschaft und den Unterhalt der Schutzräume.
+<sup>1</sup> Die zuständige kantonale Behörde kontrolliert nach den Vorgaben des Bundes periodisch die Betriebsbereitschaft und den Unterhalt der Schutzbauten.
 
 <sup>2</sup> Dem Kontrollpersonal ist Zugang zu den Schutzräumen, den Einrichtungen und zur Ausrüstung zu gewähren.
 
-<sup>3</sup> Die zuständige kantonale Behörde hat die Aufsicht über die Kontrolle der Betriebsbereitschaft und den Unterhalt der Schutzanlagen.
+<sup>3</sup> …
 
 <sup>4</sup> Die Eigentümerinnen und Eigentümer beheben die bei der Kontrolle festgestellten Mängel.
 
@@ -183,7 +175,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Der Regierungsrat legt den Bedarf an Schutzanlagen fest. Die Gemeinden sorgen nach den Vorgaben des Bundes für den Bau, die Ausrüstung, den Unterhalt und die Erneuerung der Schutzanlagen.
+<sup>3</sup> Der Regierungsrat bezeichnet die kantonalen Behörden, die für die Festlegung des Bedarfs an Schutzanlagen zuständig sind.
 
 #### § 11a
 
@@ -216,9 +208,12 @@ beschliesst:
 <sup>1</sup> Der Kanton trägt die Kosten
 
 - a. für die administrativen Arbeiten, die im Zusammenhang mit seiner Zuständigkeit entstehen,
-- b. für die Grund-, Zusatz-, Kader- und Weiterausbildungskurse,
+- b. für die Grund-, Zusatz-, Kader- und Weiterbildungskurse,
+- b<sup>bis</sup>. für das Betreiben eines Ausbildungszentrums,
+- b<sup>ter</sup>. für die persönliche Ausrüstung der Schutzdienstpflichtigen,
 - c. für die von ihm gebauten Schutzräume,
-- d. für die vom Bund nicht gedeckten Ausgaben für den Unterhalt der kantonalen Schutzanlagen,
+- c<sup>bis</sup>. für die periodische Kontrolle der privaten und öffentlichen Schutzräume,
+- d. für die vom Bund nicht gedeckten Ausgaben für den Bau, die Ausrüstung, den Unterhalt, die Erneuerung und den Betrieb der kantonalen Schutzanlagen,
 - e. für die von ihm angeordneten Einsätze,
 - f. aus den Leistungsvereinbarungen mit den Zivilschutzorganisationen.
 
@@ -231,19 +226,31 @@ beschliesst:
 - a. die administrativen Arbeiten, die im Zusammenhang mit ihrer Zuständigkeit entstehen,
 - b. die Wiederholungskurse,
 - c. die Beschaffung und den Unterhalt des Materials der Zivilschutzformationen,
-- d. die von ihnen gebauten öffentlichen Schutzräume,
-- e. die vom Bund nicht gedeckten Ausgaben für die Wartung und den Unterhalt der Schutzanlagen,
+- d. die öffentlichen Schutzräume,
+- e. die vom Bund nicht gedeckten Ausgaben für den Bau, die Ausrüstung, den Unterhalt, die Erneuerung und den Betrieb der kommunalen Schutzanlagen,
 - f. die Einsatzbereitschaft der Zivilschutzformationen,
 - g. die von ihnen angeordneten Einsätze,
-- h. die periodische Kontrolle der privaten und öffentlichen Schutzräume.
+- h. …
 
-<sup>2</sup> Bei Hilfeleistungen in Katastrophen und Notlagen sowie bei Instandstellungsarbeiten ausserhalb der eigenen Zivilschutzorganisation trägt grundsätzlich die Hilfe empfangende Gemeinde die Kosten für den Transport, die Betriebsstoffe, die Unterkunft und die Verpflegung von Personen beziehungsweise Mitteln. Die restlichen Kosten gehen zu Lasten der helfenden Gemeinde.
+<sup>2</sup> Für Hilfeleistungen bei Katastrophen, Notlagen und Grossereignissen sowie für Instandstellungsarbeiten ausserhalb des Gebietes der eigenen Zivilschutzorganisation trägt grundsätzlich die Hilfe empfangende Gemeinde die Kosten für den Sold, den Transport, die Unterkunft und die Verpflegung von Personen sowie für die Betriebsstoffe und den Transport von Mitteln. Die restlichen Kosten gehen zu Lasten der helfenden Gemeinde.
+
+<sup>3</sup> Der Regierungsrat kann für die verrechenbaren Kosten nach Absatz 2 in der Verordnung eine Pauschale festlegen. Dabei berücksichtigt er die Bedürfnisse der Zivilschutzorganisationen.
+
+#### § 14a
+
+**Kostentragung bei Einsätzen für kantonale Behörden**
+
+<sup>1</sup> Bei Einsätzen einer Zivilschutzorganisation, die diese für eine kantonale Behörde leistet, gilt für die Kostentragung § 14 Absätze 2 und 3 sinngemäss.
 
 #### § 15
 
 **Kostentragung bei Einsätzen zu Gunsten der Gemeinschaft**
 
-<sup>1</sup> Bei Einsätzen zu Gunsten der Gemeinschaft sind die Kosten in der Regel durch die Verursacherinnen und Verursacher der Leistungen zu übernehmen. Die aufbietende Behörde entscheidet über die Höhe des zu bezahlenden Betrags.
+<sup>1</sup> Bei Einsätzen zu Gunsten der Gemeinschaft sind die Kosten in der Regel durch die Verursacherinnen und Verursacher der Leistungen zu übernehmen.
+
+<sup>2</sup> Der Regierungsrat legt die Höhe der Entschädigung für nationale und kantonale Einsätze zu Gunsten der Gemeinschaft fest. Dabei berücksichtigt er die Bedürfnisse der Zivilschutzorganisationen. Bei regionalen und kommunalen Einsätzen zu Gunsten der Gemeinschaft entscheidet die aufbietende Behörde über die Höhe des zu bezahlenden Betrags.
+
+<sup>3</sup> Wer um einen Einsatz des Zivilschutzes zu Gunsten der Gemeinschaft auf kantonaler, regionaler oder kommunaler Ebene ersucht, muss den Kanton oder die Gemeinden im Schadensfall für Leistungen an Dritte schadlos halten und hat gegenüber diesen Gemeinwesen keine Schadenersatzansprüche für ihm oder ihr direkt zugefügte Schäden. Vorbehalten bleiben Ansprüche aus vorsätzlicher oder grobfahrlässiger Schadenszufügung.
 
 ## 8 Datenabruf
 
