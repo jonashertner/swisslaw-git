@@ -4,20 +4,20 @@ title: "Ordonnance du 23 août 2017 sur le traitement des données personnelles 
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données personnelles dans l’Office fédéral de la douane et de la sécurité des frontières
 
-(Ordonnance sur le traitement des données dans l’OFDF, OTD-OFDF)**[^t-1]**
+(Ordonnance sur le traitement des données dans l’OFDF, OTD-OFDF)[^t-1]
 
-du 23 août 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 23 août 2017 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -194,7 +194,7 @@ L’ordonnance du 4 avril 2007 sur le traitement des données dans l’AFD[^15-1
 
 **Modification d’un autre acte**
 
-...*[^16-1]*
+...[^16-1]
 
 [^16-1]: Les mod. peuvent être consultées au [RO 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535).
 
@@ -447,11 +447,11 @@ Le système d’information peut contenir les données suivantes:
 - 2\.1 l’identité des locataires;
 - 2\.2 l’adresse, la localité et la taille de l’objet loué ainsi que les charges et les coûts de location.
 
-Annexe 7*[^t-2]*
+Annexe 7[^t-2]
 
 ## Système d’information «Perizoll»
 
-[^t-2]: Mise à jour selon le ch. II 6 de l’annexe 8 à l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^t-2]: Mise à jour selon l’annexe 8 ch. II 6 de l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 ### 1. But
 
@@ -1296,23 +1296,25 @@ Le système d’information peut contenir les données suivantes:
 
 Les collaborateurs du Bureau central du contrôle des métaux précieux et des bureaux de contrôle sont autorisés à traiter les données.
 
-Annexe 43
+Annexe 43[^t-3]
 
-## Système d’information concernant les poinçons de maître, les patentes de fondeur, les autorisations d’exercer la profession d’essayeur du commerce et les poinçons de fondeur
+## Système d’information concernant les poinçons de maître, les patentes de fondeur, les patentes d’acheteur, les autorisations d’exercer la profession d’essayeur du commerce, les autorisations supplémentaires en matière de négoce de métaux précieux bancaires et les poinçons de fondeur
+
+[^t-3]: Mise à jour par l’annexe ch. 3 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 1. But
 
 - [tab] Le système d’information est utilisé pour:
-- 1\.1 l’enregistrement des patentes de fondeur et des autorisations d’exercer la profession d’essayeur du commerce octroyées par le Bureau central du contrôle des métaux précieux;
+- 1\.1 l’enregistrement des patentes de fondeur, des patentes d’acheteur, des autorisations d’exercer la profession d’essayeur du commerce et des autorisations supplémentaires en matière de négoce de métaux précieux bancaires octroyées par le Bureau central du contrôle des métaux précieux;
 - 1\.2 l’enregistrement des poinçons de maître et des poinçons de fondeur octroyés par le Bureau central du contrôle des métaux précieux.
 
 ### 2. Contenu
 
 Le système d’information peut contenir les données suivantes:
 
-- 2\.1 l’identité des personnes physiques ou morales disposant d’un poinçon de maître, d’une patente de fondeur, d’une autorisation d’exercer la profession d’essayeur du commerce ou d’un poinçon de fondeur;
+- 2\.1 l’identité des personnes physiques ou morales disposant d’un poinçon de maître, d’une patente de fondeur, d’une patente d’acheteur, d’une autorisation d’exercer la profession d’essayeur du commerce, d’une autorisation supplémentaire en matière de négoce de métaux précieux bancaires ou d’un poinçon de fondeur;
 - 2\.2 les poinçons de maître et les poinçons de fondeur;
-- 2\.3 le numéro de la patente de fondeur et le numéro de l’autorisation d’exercer la profession d’essayeur du commerce;
+- 2\.3 le numéro de la patente de fondeur, le numéro de la patente d’acheteur, le numéro de l’autorisation d’exercer la profession d’essayeur du commerce et le numéro de l’autorisation supplémentaire en matière de négoce de métaux précieux bancaires;
 - 2\.4 la date de saisie, de modification ou de suppression.
 
 ### 3. Autorisations et publication
@@ -1332,8 +1334,8 @@ Le système d’information peut contenir les données suivantes:
   - b. le genre d’entreprise;
   - c. le numéro de contrôle;
   - d. la restitution du poinçon;
-  - e. la date à laquelle la demande de patente de fondeur, d’autorisation d’exercer la profession d’essayeur du commerce, de poinçon de maître ou de poinçon de fondeur a été présentée;
-  - f. la date à laquelle la patente de fondeur, l’autorisation d’exercer la profession d’essayeur du commerce, le poinçon de maître ou le poinçon de fondeur a été octroyé;
+  - e. la date à laquelle la demande de patente de fondeur, d’autorisation d’exercer la profession d’essayeur du commerce, d’autorisation supplémentaire en matière de négoce de métaux précieux bancaires, de poinçon de maître ou de poinçon de fondeur a été présentée;
+  - f. la date à laquelle la patente de fondeur, l’autorisation d’exercer la profession d’essayeur du commerce, l’autorisation supplémentaire en matière de négoce de métaux précieux bancaires, le poinçon de maître ou le poinçon de fondeur a été octroyé;
   - g. les modifications et les suppressions.
 
 Annexe 44
@@ -1873,11 +1875,11 @@ Les systèmes d’information peuvent contenir les données suivantes:
 - 2\.2 le numéro de l’autorisation;
 - 2\.3 la date de délivrance et la durée de validité de l’autorisation ainsi que des remarques relatives à l’autorisation.
 
-Annexe 67*[^t-3]*
+Annexe 67[^t-4]
 
 ## Système d’information concernant la redevance sur le trafic des poids lourds liée aux prestations et la redevance sur le trafic des poids lourds perçue de manière forfaitaire
 
-[^t-3]: Mise à jour selon le ch. II 6 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-4]: Mise à jour selon l’annexe 4 ch. II 6 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ### 1. But
 

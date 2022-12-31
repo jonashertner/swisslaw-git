@@ -4,20 +4,20 @@ title: "Ordinanza del 23 agosto 2017 sul trattamento dei dati personali nell’U
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati personali nell’Ufficio federale della dogana e della sicurezza dei confini
 
-(Ordinanza sul trattamento dei dati nell’UDSC, OTDD)**[^t-1]**
+(Ordinanza sul trattamento dei dati nell’UDSC, OTDD)[^t-1]
 
-del 23 agosto 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 23 agosto 2017 (Stato 1° gennaio 2023)
 
 [^t-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo
 
@@ -443,7 +443,7 @@ Il sistema d’informazione può contenere i seguenti dati:
 - 2\.1 dati personali dei locatari;
 - 2\.2 indirizzo, luogo e dimensioni degli oggetti locati nonché costi di pigione e spese accessorie.
 
-Allegato 7*[^t-2]*
+Allegato 7[^t-2]
 
 ## Sistema d’informazione «Perizoll»
 
@@ -1293,23 +1293,25 @@ Il sistema d’informazione può contenere i seguenti dati:
 
 I collaboratori dell’Ufficio centrale di controllo dei metalli preziosi e degli uffici di controllo dei metalli preziosi possono trattare i dati.
 
-Allegato 43
+Allegato 43[^t-3]
 
-## Sistema d’informazione relativo ai marchi d’artefice, alle patenti di fonditore, ai permessi per saggiatori del commercio e ai marchi di fusione
+## Sistema d’informazione relativo ai marchi d’artefice, alle patenti di fonditore, alle patenti di acquirente, alle autorizzazioni di esercitare la professione di saggiatore del commercio, alle autorizzazioni complementari per il commercio di metalli preziosi bancari e ai marchi di fusione
+
+[^t-3]: Aggiornato dall’all. n. 3 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 1. Scopo
 
 Il sistema d’informazione serve per:
 
-- 1\.1 la registrazione delle patenti di fonditore e dei permessi per saggiatori del commercio rilasciati dall’Ufficio centrale di controllo dei metalli preziosi;
+- 1\.1 la registrazione delle patenti di fonditore, delle patenti di acquirente, delle autorizzazioni di esercitare la professione di saggiatore del commercio e delle autorizzazioni complementari per il commercio di metalli preziosi bancari rilasciati dall’Ufficio centrale di controllo dei metalli preziosi;
 - 1\.2 la registrazione dei marchi d’artefice e dei marchi di fusione rilasciati dall’Ufficio centrale di controllo dei metalli preziosi.
 
 ### 2. Contenuto
 
 Il sistema d’informazione può contenere i seguenti dati:
 
-- 2\.1 dati personali delle persone fisiche e giuridiche che dispongono di marchi d’artefice, patenti di fonditore, permessi per saggiatori del commercio e marchi di fusione;
-- 2\.2 marchi d’artefice e marchi di fusione;
+- 2\.1 dati personali delle persone fisiche e giuridiche che dispongono di marchi d’artefice, patenti di fonditore, patenti di acquirente, autorizzazioni di esercitare la professione di saggiatore del commercio, autorizzazioni complementari per il commercio di metalli preziosi bancari e marchi di fusione;
+- 2\.3 numero delle patenti di fonditore, delle patenti di acquirente, delle autorizzazioni di esercitare la professione di saggiatore del commercio e delle autorizzazioni complementari per il commercio di metalli preziosi bancari,
 - 2\.3 numero delle patenti di fonditore e dei permessi per saggiatori del commercio;
 - 2\.4 data della registrazione, della modifica e della cancellazione.
 
@@ -1330,8 +1332,8 @@ Il sistema d’informazione può contenere i seguenti dati:
   - b. genere di commercio;
   - c. numero di controllo;
   - d. riproduzione del marchio;
-  - e. data in cui è stata presentata la domanda per una patente di fonditore, un permesso per saggiatori del commercio, un marchio d’artefice o un marchio di fusione;
-  - f. data in cui è stata rilasciata la patente di fonditore, il permesso per saggiatori del commercio, il marchio d’artefice o il marchio di fusione;
+  - e. data in cui è stata presentata la domanda per una patente di fonditore, un’autorizzazione di esercitare la professione di saggiatore del commercio, un’autorizzazione complementare per il commercio di metalli preziosi bancari, un marchio d’artefice o un marchio di fusione;
+  - f. data in cui è stata rilasciata la patente di fonditore, l’autorizzazione di esercitare la professione di saggiatore del commercio, l’autorizzazione complementare per il commercio di metalli preziosi bancari, il marchio d’artefice o il marchio di fusione;
   - g. modifiche e cancellazioni.
 
 Allegato 44
@@ -1876,11 +1878,11 @@ I sistemi d’informazione possono contenere i seguenti dati:
 - 2\.2 numero dell’autorizzazione;
 - 2\.3 data del rilascio e durata di validità dell’autorizzazione nonché osservazioni relative all’autorizzazione.
 
-Allegato 67*[^t-3]*
+Allegato 67[^t-4]
 
 ## Sistema d’informazione relativo alla tassa sul traffico pesante commisurata alle prestazioni e alla tassa forfettaria sul traffico pesante
 
-[^t-3]: Aggiornato dall’all. 4 n. II 6 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-4]: Aggiornato dall’all. 4 n. II 6 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ### 1. Scopo
 

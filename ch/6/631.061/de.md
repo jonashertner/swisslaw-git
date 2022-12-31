@@ -4,20 +4,20 @@ title: "Verordnung vom 23. August 2017 über die Bearbeitung von Personendaten i
 short: DBZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung von Personendaten im Bundesamt für Zoll und Grenzsicherheit
 
-(Datenbearbeitungsverordnung für das BAZG, DBZV)**[^t-1]**
+(Datenbearbeitungsverordnung für das BAZG, DBZV)[^t-1]
 
-vom 23. August 2017 (Stand am 1. Januar 2022)
+vom 23. August 2017 (Stand am 1. Januar 2023)
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
@@ -194,7 +194,7 @@ Die Datenbearbeitungsverordnung für die EZV vom 4. April 2007[^15-1] wird aufge
 
 **Änderung eines anderen Erlasses**
 
-...[^16-1]
+…[^16-1]
 
 [^16-1]: Die Änderungen können unter [AS 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)konsultiert werden.
 
@@ -447,7 +447,7 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.1 Personalien der Mieterinnen und Mieter;
 - 2\.2 Adresse, Ort und Grösse der Mietobjekte sowie Miet- und Nebenkosten.
 
-Anhang 7*[^t-2]*
+Anhang 7[^t-2]
 
 ## Informationssystem «Perizoll»
 
@@ -1301,24 +1301,26 @@ Das Informationssystem kann folgende Daten enthalten:
 
 Die Mitarbeiterinnen und Mitarbeiter des Zentralamts für Edelmetallkontrolle und der Kontrollämter können die Daten bearbeiten.
 
-Anhang 43
+Anhang 43[^t-3]
 
-## Informationssystem für Verantwortlichkeitsmarken, Schmelzbewilligungen, Handelsprüferbewilligungen und Schmelzerzeichen
+## Informationssystem für Verantwortlichkeitsmarken, Schmelzbewilligungen, Ankaufsbewilligungen, Berufsausübungsbewilligungen als Handelsprüfer, zusätzliche Bewilligungen für den Handel mit Bankedelmetallen und Schmelzerzeichen
+
+[^t-3]: Bereinigt gemäss Anhang Ziff. 3 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 1. Zweck
 
 Das Informationssystem dient den folgenden Zwecken:
 
-- 1\.1 Registrierung der Schmelzbewilligungen und Handelsprüferbewilligungen, die vom Zentralamt für Edelmetallkontrolle erteilt werden;
+- 1\.1 Registrierung der Schmelzbewilligungen, Ankaufsbewilligungen, Berufsausübungsbewilligungen als Handelsprüfer und zusätzlichen Bewilligungen für den Handel mit Bankedelmetallen, die vom Zentralamt für Edelmetallkontrolle erteilt werden;
 - 1\.2 Registrierung der Verantwortlichkeitsmarken und Schmelzerzeichen, die vom Zentralamt für Edelmetallkontrolle erteilt werden.
 
 ### 2. Inhalt
 
 Das Informationssystem kann folgende Daten enthalten:
 
-- 2\.1 Personalien der natürlichen und juristischen Personen, die über Verantwortlichkeitsmarken, Schmelzbewilligungen, Handelsprüferbewilligungen und Schmelzerzeichen verfügen;
+- 2\.1 Personalien der natürlichen und juristischen Personen, die über Verantwortlichkeitsmarken, Schmelzbewilligungen, Ankaufsbewilligungen, Berufsausübungsbewilligungen als Handelsprüfer, zusätzliche Bewilligungen für den Handel mit Bankedelmetallen und Schmelzerzeichen verfügen;
 - 2\.2 Verantwortlichkeitsmarken und Schmelzerzeichen;
-- 2\.3 Nummer der Schmelzbewilligung und der Handelsprüferbewilligung;
+- 2\.3 Nummer der Schmelzbewilligung, der Ankaufsbewilligung, der Berufsausübungsbewilligung als Handelsprüfer und der zusätzlichen Bewilligung für den Handel mit Bankedelmetallen;
 - 2\.4 Datum der Eintragung, Änderung und Löschung.
 
 ### 3. Berechtigungen und Veröffentlichung
@@ -1338,8 +1340,8 @@ Das Informationssystem kann folgende Daten enthalten:
   - b. Art des Geschäftsbetriebs;
   - c. Kontrollnummer;
   - d. Wiedergabe der Marke;
-  - e. Datum, an dem das Gesuch um eine Schmelzbewilligung, Handelsbewilligung, eine Verantwortlichkeitsmarke oder ein Schmelzerzeichen eingereicht wurde;
-  - f. Datum, an dem die Schmelzbewilligung, Handelsbewilligung, Verantwortlichkeitsmarke oder das Schmelzerzeichen erteilt wurde;
+  - e. Datum, an dem das Gesuch um eine Schmelzbewilligung, Berufsausübungsbewilligung als Handelsprüfer, zusätzliche Bewilligung für den Handel mit Bankedelmetallen, eine Verantwortlichkeitsmarke oder ein Schmelzerzeichen eingereicht wurde;
+  - f. Datum, an dem die Schmelzbewilligung, Berufsausübungsbewilligung als Handelsprüfer, zusätzliche Bewilligung für den Handel mit Bankedelmetallen, Verantwortlichkeitsmarke oder das Schmelzerzeichen erteilt wurde;
   - g. Änderungen und Löschungen.
 
 Anhang 44
@@ -1879,11 +1881,11 @@ Die Informationssysteme können folgende Daten enthalten:
 - 2\.2 Nummer der Bewilligung;
 - 2\.3 Datum der Ausstellung und Gültigkeitsdauer der Bewilligung sowie Bemerkungen zur Bewilligung.
 
-Anhang 67*[^t-3]*
+Anhang 67[^t-4]
 
 ## Informationssystem für die leistungsabhängige Schwerverkehrsabgabe und die pauschal erhobene Schwerverkehrsabgabe
 
-[^t-3]: Bereinigt gemäss Anhang 4 Ziff. II 6 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-4]: Bereinigt gemäss Anhang 4 Ziff. II 6 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ### 1. Zweck
 
