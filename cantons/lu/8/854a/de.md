@@ -3,39 +3,48 @@ canton: LU
 number: 854a
 title: Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis
 language: de
-version: 2007-01-01
-valid_until: 2022-12-31
-version_adopted: 2006-12-01
+version: 2023-01-01
+version_adopted: 2022-12-13
 adopted: 2022-12-13
 in_force: 2023-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/854a"
-pdf: "https://srl.lu.ch/api/de/versions/2390/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4009/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis
 
-vom 05.05.2000 (Stand 01.01.2007)
+vom 13.12.2022 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die Artikel 359 ff. des schweizerischen Obligationenrechts[^ingress-1] und § 93 des Kantonalen Landwirtschaftsgesetzes vom 12. September 1995[^ingress-2],
+gestützt auf Artikel 359 Absätze 1 und 2 des Schweizerischen Obligationenrechts[^ingress-1] und § 93 Absatz 1 des Kantonalen Landwirtschaftsgesetzes vom 12. September 1995[^ingress-2],
 
-auf Antrag des Volkswirtschaftsdepartementes,
+auf Antrag des Gesundheits- und Sozialdepartementes,
 
 beschliesst:
 
-[^ingress-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+[^ingress-1]: SR [220](https://db.clex.ch/link/Bund/220/de).
 [^ingress-2]: SRL Nr. [902](https://srl.lu.ch/data/902/de)
 
-## 1 Geltungsbereich und Wirkung
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieser Normalarbeitsvertrag findet Anwendung auf alle Arbeitsverhältnisse von Arbeitnehmerinnen und Arbeitnehmern, die vorwiegend in einem landwirtschaftlichen Betrieb oder einem landwirtschaftlichen Haushalt des Kantons Luzern beschäftigt sind.
+<sup>1</sup> Der Normalarbeitsvertrag gilt für alle Arbeitsverhältnisse von Arbeitnehmenden, die vorwiegend in einem landwirtschaftlichen Betrieb oder einem landwirtschaftlichen Haushalt im Kanton Luzern beschäftigt sind.
+
+<sup>2</sup> Er gilt auch für landwirtschaftliche Lehrverhältnisse, soweit er für die Lernenden im Vergleich zum Lehrvertrag günstiger ist.
+
+<sup>3</sup> Er findet keine Anwendung auf:
+
+- a. Ehegattinnen oder Ehegatten der Betriebsleiterinnen und -leiter,
+- b. eingetragene Partnerinnen und Partner der Betriebsleiterinnen und -leiter,
+- c. Verwandte in auf- und absteigender Linie der Betriebsleiterinnen und -leiter,
+- d. Schwiegersöhne oder Schwiegertöchter der Betriebsleiterinnen und -leiter, sofern diese den Betrieb voraussichtlich zur Selbstbewirtschaftung übernehmen wollen,
+- e. das Alppersonal.
 
 #### § 2
 
@@ -43,249 +52,321 @@ beschliesst:
 
 <sup>1</sup> Der Normalarbeitsvertrag gilt als Vertragswille, soweit nicht für einzelne Vertragsgegenstände schriftlich etwas anderes vereinbart wurde.
 
-<sup>2</sup> Für Personen, die einem Lehrvertrag unterstehen, gelten die nachfolgenden Bestimmungen nur so weit, als der Lehrvertrag oder das Berufsbildungsrecht keine abweichenden Regelungen vorsehen.
-
-<sup>3</sup> Vorbehalten bleiben die zwingenden Vorschriften des Bundes und des kantonalen Rechts.
-
-## 2 Dauer und Beendigung des Arbeitsverhältnisses
+<sup>2</sup> Vorbehalten bleiben die zwingenden Vorschriften des Bundes und des kantonalen Rechts.
 
 #### § 3
 
-**Probezeit**
+**Aushändigen des Normalarbeitsvertrages**
 
-<sup>1</sup> Die ersten zwei Wochen des Arbeitsverhältnisses gelten als Probezeit.
+<sup>1</sup> Die Arbeitgebenden haben den Arbeitnehmenden ein Exemplar dieses Normalarbeitsvertrages auszuhändigen. Diese Pflicht besteht auch bei einer Änderung des Normalarbeitsvertrages.
 
 #### § 4
 
-**Kündigung**
+**Schriftlicher Arbeitsvertrag**
 
-<sup>1</sup> Das Arbeitsverhältnis kann von den Vertragsparteien wie folgt gekündigt werden:
+<sup>1</sup> Wurde das Arbeitsverhältnis auf unbestimmte Zeit oder für mehr als einen Monat eingegangen, hat die arbeitgebende Person einen schriftlichen Arbeitsvertrag auszustellen und diesen der arbeitnehmenden Person spätestens bei Stellenantritt auszuhändigen.
 
-- a. während der Probezeit jederzeit mit einer Kündigungsfrist von drei Tagen,
-- b. nach Ablauf der Probezeit bis und mit fünftem Dienstjahr mit einer Kündigungsfrist von zwei Monaten auf das Ende eines Monats,
-- c. vom sechsten Dienstjahr an mit einer Kündigungsfrist von drei Monaten auf das Ende eines Monats.
+<sup>2</sup> Der Arbeitsvertrag muss mindestens Folgendes enthalten:
 
-## 3 Einsatz und Weiterbildung der Arbeitnehmerinnen und Arbeitnehmer
+- a. Name der Vertragsparteien,
+- b. Funktion der arbeitnehmenden Person,
+- c. Beginn des Arbeitsverhältnisses,
+- d. Bruttolohn, allfällige Lohnzuschläge und Abzüge für den Naturallohn,
+- e. Arbeitspensum sowie Arbeitszeiten,
+- f. Ferienanspruch,
+- g. Probezeit und Kündigungsfrist.
+
+<sup>3</sup> Bei Änderung des Arbeitsvertrages während des Arbeitsverhältnisses ist der arbeitnehmenden Person spätestens einen Monat nach Inkrafttreten der Änderung ein angepasster Arbeitsvertrag auszuhändigen.
 
 #### § 5
 
-**Einsatz der Arbeitnehmerinnen und Arbeitnehmer**
+**Gesundheitsschutz**
 
-<sup>1</sup> Die Arbeitnehmerinnen und Arbeitnehmer sind ihrer Ausbildung und ihren Fähigkeiten entsprechend einzusetzen.
-
-<sup>2</sup> Sie sind verpflichtet, in Ausnahmefällen, namentlich während der Ferien und der freien Tage anderer Mitarbeiterinnen und Mitarbeiter, die zur Aufrechterhaltung des Betriebs notwendigen Arbeiten zu übernehmen.
+<sup>1</sup> Die Arbeitgebenden sind verpflichtet, ausreichende Massnahmen für die Arbeitshygiene, die Arbeitssicherheit, die Unfall- und die allgemeine Schadensverhütung zu ergreifen, um die Gesundheit und das Leben der Arbeitnehmenden zu schützen.
 
 #### § 6
 
-**Aus- und Weiterbildung der Arbeitnehmerinnen und Arbeitnehmer**
+**Einsatz der Arbeitnehmenden**
 
-<sup>1</sup> Der Besuch von Kursen und Vorträgen zur Aus- und Weiterbildung soll im Rahmen des Möglichen grosszügig gestattet und gefördert werden.
+<sup>1</sup> Die Arbeitnehmenden sind entsprechend ihrer Ausbildung, ihren Fähigkeiten und den Bedürfnissen des Betriebes einzusetzen.
 
-<sup>2</sup> Kurse und Vorträge werden auf Ferien und Freizeit nicht angerechnet, wenn ihr Besuch von der Arbeitgeberin oder vom Arbeitgeber angeordnet wurde.
-
-## 4 Arbeitszeit, Freizeit, Ferien und Urlaub
+<sup>2</sup> Sie sind in Ausnahmefällen, namentlich während der Ferien, der freien Tage oder Krankheit und Unfall anderer Mitarbeitender, verpflichtet, die zur Aufrechterhaltung des Betriebes notwendigen Arbeiten zu übernehmen.
 
 #### § 7
 
-**Arbeitszeit**
+**Pflichten der Arbeitnehmenden**
 
-<sup>1</sup> Die tägliche Arbeitszeit darf normalerweise zehn Stunden nicht übersteigen.
+<sup>1</sup> Die Arbeitnehmenden haben die ihnen übertragenen Aufgaben sorgfältig auszuführen.
 
-<sup>2</sup> Die Vertragsparteien können eine kürzere Arbeitszeit oder besondere Sommer- und Winterarbeitszeiten vereinbaren. Bei unterschiedlichen Sommer- und Winterarbeitszeiten darf die ordentliche Arbeitszeit, bezogen auf ein ganzes Dienstjahr, nicht überschritten werden.
+<sup>2</sup> Sie tragen zur Verhütung von Berufsunfällen und -krankheiten sowie zum Gesundheitsschutz bei.
 
-<sup>3</sup> Die Arbeitszeiten sind den Kräften der Arbeitnehmerinnen und Arbeitnehmer und den übrigen Umständen anzupassen.
-
-<sup>4</sup> Die Arbeitnehmerinnen und Arbeitnehmer haben bei Bedarf die ihnen zumutbare Überzeitarbeit zu leisten. Diese wird im gegenseitigen Einverständnis mit mehr Freizeit oder längeren Ferien kompensiert oder mit einem Lohnzuschlag von 25 Prozent vergütet. Die Arbeitgeberinnen und Arbeitgeber haben eine einwandfreie Kontrolle der Überstunden zu führen. Die Überstunden sind am Ende jedes Monats festzuhalten. Werden Überstunden kompensiert, sind sie im Verlauf der nächsten drei Monate zu beziehen.
+## 2 Arbeitszeit, Freizeit, Ferien, Weiterbildung
 
 #### § 8
 
-**Freizeit**
+**Arbeitszeit**
 
-<sup>1</sup> Die Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf eineinhalb freie Tage pro Woche. Mindestens zweimal im Monat muss ein Ruhetag auf einen Sonntag fallen. Wenn dies nicht möglich ist, erhalten die Arbeitnehmerinnen und Arbeitnehmer einen Zuschlag von 25 Prozent auf ihren Lohn.
+<sup>1</sup> Als Arbeitszeit gilt die Zeit, während der sich die Arbeitnehmenden für die Arbeit zur Verfügung zu halten haben.
 
-<sup>2</sup> An Sonn- und Feiertagen sind nur die unbedingt notwendigen Arbeiten auszuführen. Sofern die Arbeitsbeanspruchung an einem Sonn- oder Feiertag drei Stunden nicht übersteigt und lediglich entweder auf den Morgen oder auf den Abend fällt, kann die verbleibende Freizeit den Arbeitnehmerinnen und Arbeitnehmern mit deren Zustimmung als freier Halbtag angerechnet werden; der restliche freie Tag kann ihnen an einem Werktag gewährt werden.
+<sup>2</sup> Die wöchentliche Arbeitszeit beträgt 52 Stunden. Darin sind die den Arbeitnehmenden zustehenden unbezahlten Arbeitspausen nicht inbegriffen.
 
-<sup>3</sup> Unter besonderen Umständen können den Arbeitnehmerinnen und Arbeitnehmern mit deren Zustimmung ausnahmsweise mehrere freie Tage zusammenhängend oder statt eines freien Tages zwei freie Halbtage eingeräumt werden.
+<sup>3</sup> Die Vertragsparteien können eine Jahresarbeitszeit vereinbaren. Diese beträgt auf der Basis der Nettoarbeitszeit je Dienstjahr 2496 Stunden für Arbeitnehmende mit vier Wochen Ferien und 2444 Stunden für Arbeitnehmende mit fünf Wochen Ferien.
 
-<sup>4</sup> Bei der Beanspruchung und der Gewährung der Freizeit ist auf die Bedürfnisse beider Vertragsparteien angemessen Rücksicht zu nehmen.
+<sup>4</sup> Die Vertragsparteien können schriftlich saisonal unterschiedliche Arbeitszeiten vereinbaren, wobei die Arbeitszeit bezogen auf die ganze Dauer des Arbeitsverhältnisses die Ansätze nach den Absätzen 2 und 3 nicht überschreiten darf.
+
+<sup>5</sup> Die Arbeitgebenden gewähren den Arbeitnehmenden folgende unbezahlte Pausen:
+
+- a. über die Mittagszeit in der Regel eine Pause von wenigstens einer halben Stunde,
+- b. je Halbtag eine Pause von jeweils einer Viertelstunde.
+
+<sup>6</sup> Die Arbeitnehmenden leisten bei Bedarf die ihnen zumutbare Überstundenarbeit. Die tägliche Arbeitszeit darf in der Regel elf Stunden nicht überschreiten.
+
+<sup>7</sup> Die Arbeitszeit wird täglich erfasst. Die Arbeitgebenden kontrollieren die Minus- oder Überstunden und halten diese jeweils am Ende jedes Monats fest. Allfällige Überstunden werden innert Jahresfrist mit zusätzlicher Freizeit oder zusätzlichen Ferien von gleicher Dauer kompensiert oder durch eine Lohnzahlung mit einem Zuschlag von 25 Prozent abgegolten.
 
 #### § 9
 
-**Ferien**
+**Arbeit an Sonn- und Feiertagen**
 
-<sup>1</sup> Die Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf folgende bezahlte Ferien:
+<sup>1</sup> An Sonn- und Feiertagen ist die Arbeit auf das betriebsnotwendige Minimum zu beschränken. Sofern die Arbeit an einem Sonntag oder Feiertag vier Stunden nicht übersteigt und lediglich auf den Morgen oder auf den Abend fällt, kann die verbleibende Freizeit der arbeitnehmenden Person als freier Halbtag angerechnet werden.
 
-- a. Jugendliche bis zum vollendeten 20. Lebensjahr: — 5 Wochen
-- b. über 50-jährige Arbeitnehmerinnen oder Arbeitnehmer: — 5 Wochen
-- c. alle übrigen Arbeitnehmerinnen und Arbeitnehmer: — 4 Wochen
-
-<sup>2</sup> Für ein angebrochenes Dienstjahr sind Ferien entsprechend der Dauer des Arbeitsverhältnisses im betreffenden Dienstjahr zu gewähren.
-
-<sup>3</sup> Die Arbeitgeberin oder der Arbeitgeber bestimmt den Zeitpunkt der Ferien und nimmt dabei auf die Wünsche der Arbeitnehmerinnen und Arbeitnehmer so weit Rücksicht, als dies mit den Interessen des Betriebs oder des Haushalts vereinbar ist. Die Ferien können in gegenseitigem Einverständnis aufgeteilt werden, wobei mindestens zwei Ferienwochen zusammenhängen müssen.
+<sup>2</sup> Die Feiertage Neujahr, Ostermontag, Bundesfeiertag, Weihnachtstag und Stefanstag gelten als bezahlte arbeitsfreie Tage. Fallen diese Feiertage in die Ferien, gelten sie nicht als Ferientage. Fallen sie auf einen Sonntag oder in die Zeit von Krankheit, Unfall oder Militärdienst, können sie nicht nachbezogen werden.
 
 #### § 10
 
-**Urlaub**
+**Freizeit**
 
-<sup>1</sup> Die Arbeitnehmerinnen und Arbeitnehmer haben bei folgenden Ereignissen Anrecht auf einen Urlaub, ohne dass ihnen diese Tage als Ruhetage oder Ferien angerechnet werden:
+<sup>1</sup> Die Arbeitnehmenden haben Anspruch auf eineinhalb freie Tage pro Woche. Mindestens zweimal im Monat muss ein freier Tag auf einen Sonntag fallen.
 
-- a. höchstens drei Tage: eigene Heirat oder Eintragung der Partnerschaft; Tod des Ehegatten oder des eingetragenen Partners sowie von Verwandten in auf- und absteigender Linie,
-- b. höchstens zwei Tage: Niederkunft der Ehegattin; Wechsel der eigenen Wohnung,
-- c. höchstens ein Tag: Taufe sowie Heirat oder Eintragung der Partnerschaft eines Kindes; Tod von Geschwistern, Schwiegereltern oder Schwägerinnen und Schwägern; Tod von Geschwistern oder Eltern des eingetragenen Partners sowie von eingetragenen Partnern der Geschwister.
+<sup>2</sup> Arbeitnehmenden können mit ihrer Zustimmung mehrere freie Tage zusammenhängend oder statt eines freien Tages zwei freie halbe Tage gewährt werden.
+
+<sup>3</sup> Beim Bezug und bei der Gewährung der freien Tage ist auf die Bedürfnisse beider Vertragsparteien angemessen Rücksicht zu nehmen.
 
 #### § 11
 
-**Ersatz für Kost und Logis**
+**Ferien**
 
-<sup>1</sup> Haben die Arbeitnehmerinnen und Arbeitnehmer Anspruch auf Kost und Logis, besteht dieser Anspruch auch während der Ferien, der Freizeit und des Urlaubs. Fällt die Leistung von Kost und Logis während der Ferien, der Freizeit und des Urlaubs aus, hat die Arbeitgeberin oder der Arbeitgeber eine Kostgeldentschädigung nach den Ansätzen der eidgenössischen Alters- und Hinterbliebenen-Versicherung zu entrichten.
+<sup>1</sup> Die Arbeitgebenden haben den Arbeitnehmenden in jedem Kalenderjahr mindestens vier Wochen Ferien zu gewähren. Bis zum vollendeten 20. Altersjahr und ab dem vollendeten 50. Altersjahr sind mindestens fünf Wochen Ferien pro Kalenderjahr zu gewähren.
 
-## 5 Lohn
+<sup>2</sup> Für ein unvollständiges Kalenderjahr wird der Ferienanspruch anteilmässig berechnet.
+
+<sup>3</sup> Die arbeitnehmende Person kann den Ferienzeitpunkt wünschen, nimmt jedoch auf die Interessen des Betriebes Rücksicht. Die Ferien werden in gegenseitigem Einverständnis aufgeteilt. Es müssen mindestens zwei Ferienwochen pro Kalenderjahr zusammenhängend bezogen werden. Einigen sich die arbeitnehmende und die arbeitgebende Person nicht über den Ferienzeitpunkt oder die Ferienaufteilung, entscheidet die arbeitgebende Person abschliessend.
 
 #### § 12
 
-**Art und Höhe des Lohns**
+**Urlaub**
 
-<sup>1</sup> Der Lohn soll dem Aufgabenbereich, dem Ausbildungsstand und den Fähigkeiten der Arbeitnehmerinnen und Arbeitnehmer entsprechen. Er ist jährlich wenigstens einmal zu überprüfen und den Leistungen und den Dienstjahren der Arbeitnehmerin oder des Arbeitnehmers sowie einer allfälligen Teuerung anzupassen.
+<sup>1</sup> Die Arbeitnehmenden haben bei folgenden Ereignissen Anspruch auf bezahlten Urlaub:
 
-<sup>2</sup> Leben die Arbeitnehmerinnen und Arbeitnehmer in Hausgemeinschaft mit den Arbeitgeberinnen und Arbeitgebern, bilden Unterkunft und Verpflegung einen Teil des Lohns.
+- a. eigene zivile oder kirchliche Trauung oder Eintragung der eigenen Partnerschaft: 3 Tage,
+- b. Taufe sowie zivile und kirchliche Trauung oder Eintragung der Partnerschaft des eigenen Kindes: 1 Tag,
+- c. Betreuung eines erkrankten eigenen Kindes: bis zu 3 Tage pro Ereignis, maximal 10 Tage im Jahr,
+- d. Tod des Ehegatten oder der Ehegattin, des eingetragenen Partners oder der eingetragenen Partnerin oder von eigenen Kindern: 3 Tage,
+- e. Tod von anderen Familienangehörigen als diejenigen gemäss Absatz 1d nach Notwendigkeit: 1 bis zu 3 Tage,
+- f. militärische Rekrutierung, Inspektion und Ausmusterung: 1 Tag,
+- g. Umzug des eigenen Haushalts, wenn damit kein Stellenwechsel verbunden ist: 1 Tag je Kalenderjahr,
+- h. Mutterschaftsurlaub: 14 Wochen,
+- i. Vaterschaftsurlaub: 2 Wochen.
 
-<sup>3</sup> Die Familien- und Kinderzulagen dürfen bei der Festsetzung des Lohns nicht berücksichtigt werden und sind ohne irgendwelche Abzüge auszurichten.
+<sup>2</sup> Die bezahlten Urlaubstage gemäss Absatz 1 dürfen nicht an die Freizeit oder an die Ferien angerechnet werden.
 
 #### § 13
 
-**Auszahlung des Lohns**
+**Religiöse Feiern, Arzt- und Zahnarztbesuche, Vorsprache bei Amtsstellen**
 
-<sup>1</sup> Der Geldlohn samt Sozialzulagen und die Vergütung für Überstundenarbeit sind spätestens am Ende jedes Monats auszuzahlen.
-
-<sup>2</sup> Spätestens bei der Auszahlung des Lohns hat die Arbeitgeberin oder der Arbeitgeber der Arbeitnehmerin oder dem Arbeitnehmer eine schriftliche Lohnabrechnung zu übergeben.
+<sup>1</sup> Die Arbeitnehmenden haben Anspruch auf die freie Zeit, die sie zur Erfüllung religiöser Pflichten ihrer Konfession, zur Erledigung von Familienangelegenheiten und dringender persönlicher Anliegen, wie der Suche nach einer neuen Arbeitsstelle, zur Vorsprache bei Amtsstellen oder für Arzt- und Zahnarztbesuche benötigen. Die arbeitnehmende Person hat auf die Interessen der arbeitgebenden Person Rücksicht zu nehmen.
 
 #### § 14
 
-**Lohnrückbehalt**
+**Aus- und Weiterbildung**
 
-<sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber kann einen Zehntel des Monatslohns (Geld- und Naturallohn) zurückbehalten. Hat die Arbeitgeberin oder der Arbeitgeber eine Vermittlungsgebühr und/oder Reisekosten entrichtet, darf sie oder er zusätzlich einen Lohnanteil in der Höhe dieser Auslagen zurückbehalten. Insgesamt darf jedoch höchstens ein Drittel des ersten Monatslohns zurückbehalten werden.
+<sup>1</sup> Der Besuch von Kursen und Vorträgen zur Aus- und Weiterbildung soll im Rahmen des Möglichen grosszügig gestattet und gefördert werden.
 
-<sup>2</sup> Soweit der Lohnrückbehalt nicht als Ersatz für Vermittlungsgebühren und Reisekosten vorgenommen wurde, gilt er als Sicherheit für die Forderungen der Arbeitgeberin oder des Arbeitgebers und ist nach den Vorschriften über die Kaution (Art. 330 OR) zu verwalten.
+<sup>2</sup> Der von den Arbeitgebenden angeordnete Besuch von Aus- und Weiterbildungsveranstaltungen und die Teilnahme an damit zusammenhängenden Prüfungen darf nicht an die Freizeit oder an die Ferien angerechnet werden.
+
+<sup>3</sup> Die Arbeitgebenden tragen die Kosten für Aus- und Weiterbildungen, die sie anordnen.
+
+## 3 Lohn
 
 #### § 15
 
-**Lohn bei Arbeitsverhinderung**
+**Grundsätze**
 
-<sup>1</sup> Werden die Arbeitnehmerinnen und Arbeitnehmer aus Gründen, die in ihrer Person liegen, wie Krankheit, Unfall, Erfüllung gesetzlicher Pflichten oder Ausübung eines öffentlichen Amtes, ohne ihr Verschulden an der Arbeitsleistung verhindert, so besteht nach beendigter Probezeit ein Anspruch auf Geld- und Naturallohn. Der Anspruch beträgt innerhalb von zwölf Monaten
+<sup>1</sup> Der Lohn entspricht dem Aufgabenbereich, dem Ausbildungsstand und den Fähigkeiten der Arbeitnehmenden. Er ist jährlich wenigstens einmal zu überprüfen und den Leistungen sowie den Dienstjahren der arbeitnehmenden Person anzupassen. Eine allfällige Teuerung soll bei der Neufestsetzung des Lohnes mitberücksichtigt werden.
 
-- a. im 1. und 2. Dienstjahr: — 1 Monat
-- b. vom 3. bis 5. Dienstjahr: — 2 Monate
-- c. vom 6. bis 10. Dienstjahr: — 3 Monate
-- d. vom 11. Dienstjahr an: — 4 Monate
+<sup>2</sup> Für die Entlöhnung der ordentlichen Arbeitszeit gemäss § 8 Absätze 2 und 3 gelten die Ansätze der jeweils aktuellen Lohnrichtlinie[^15-1] für familienfremde Arbeitnehmende in der Schweizer Landwirtschaft inklusive landwirtschaftliche Hauswirtschaft des Schweizer Bauernverbandes (SBV), des Schweizer Bäuerinnen- und Landfrauenverbandes (SBLV) und der Schweizer Arbeitsgemeinschaft der Berufsverbände landwirtschaftlicher Angestellter (ABLA).
 
-<sup>2</sup> Bei Schwangerschaft und Niederkunft der Arbeitnehmerin hat die Arbeitgeberin oder der Arbeitgeber den Lohn im gleichen Umfang zu entrichten.
+<sup>3</sup> Die Familienzulagen dürfen bei der Festsetzung des Lohnes nicht berücksichtigt werden und sind ohne Abzüge auszurichten.
 
-<sup>3</sup> Die Lohnausfallentschädigung fällt in diesen Fällen der Arbeitgeberin oder dem Arbeitgeber zu.
+[^15-1]: vgl. [Lohnrichtlinien](https://www.agrimpuls.ch/de/service/downloaden-und-bestellen/richtloehne-schweizer-landwirtschaft/)
 
 #### § 16
 
-**Dienstaltersgeschenke**
+**Naturallohn**
 
-<sup>1</sup> Die Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf folgende Dienstaltersgeschenke:
+<sup>1</sup> Leben Arbeitnehmende in Hausgemeinschaft mit den Arbeitgebenden, sind Verpflegung und Unterkunft Teil des Lohnes (Naturallohn).
 
-- a. einen Fünftel des Monatslohns nach 5 Dienstjahren,
-- b. einen Drittel des Monatslohns nach 10 Dienstjahren,
-- c. die Hälfte des Monatslohns nach 15 Dienstjahren,
-- d. drei Viertel des Monatslohns nach 20 Dienstjahren,
-- e. einen Monatslohn nach 25 Dienstjahren.
+<sup>2</sup> Die Höhe des Naturallohns bestimmt sich nach den Ansätzen von Artikel 11 der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV) vom 31. Oktober 1947[^16-1].
 
-<sup>2</sup> Will die Arbeitnehmerin oder der Arbeitnehmer das Dienstaltersgeschenk ganz oder teilweise in der Form von Ferien beziehen, teilt er dies der Arbeitgeberin oder dem Arbeitgeber rechtzeitig mit. Die Bestimmungen über die Ferien sind anzuwenden.
+<sup>3</sup> Der Anspruch auf Unterkunft und Verpflegung besteht auch während der Freizeit, der Ferien und des Urlaubes. Soweit Arbeitnehmende keine Verpflegung beanspruchen, entrichten die Arbeitgebenden ihnen eine Kostgeldentschädigung nach den Ansätzen von Artikel 11 der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV)[^16-2].
 
-<sup>3</sup> Ein Dienstaltersgeschenk von einem Monatslohn berechtigt zu einem Ferienbezug von 22 Arbeitstagen. Ein Dienstaltersgeschenk von weniger als einem Monatslohn ergibt einen entsprechend geringeren Ferienanspruch.
-
-## 6 Arbeitsbedingungen der weiblichen und der jugendlichen Arbeitnehmerschaft
+[^16-1]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
+[^16-2]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
 
 #### § 17
 
-**Rechtsverweis**
+**Lohnzahlung und Lohnabrechnung**
 
-<sup>1</sup> Für die Arbeitsbedingungen der weiblichen und der jugendlichen Arbeitnehmerschaft gelten sinngemäss die besonderen Bestimmungen des Bundesrechts über die Arbeit in Industrie, Gewerbe und Handel.
+<sup>1</sup> Die Arbeitgebenden zahlen den Arbeitnehmenden den Lohn samt allfälligen Zulagen am Ende jedes Monats aus.
 
-## 7 Unfall- und Krankenversicherung
+<sup>2</sup> Die Arbeitgebenden übergeben den Arbeitnehmenden bei der Auszahlung des Lohnes eine schriftliche Lohnabrechnung, aus der die Abzüge und die Zuschläge, die Minus- und die Überstunden, die Freizeit und der Ferienbezug klar ersichtlich sind.
 
 #### § 18
 
-**Unfallversicherung**
+**Lohnrückbehalt**
 
-<sup>1</sup> Für die Unfallversicherung gelten das Bundesgesetz über die Unfallversicherung (UVG)[^18-1] und die dazu erlassenen Vollzugsvorschriften.
+<sup>1</sup> Die Arbeitgebenden können einen Zehntel des Monatslohnes (Geld- und Naturallohn) als Sicherheit für ihre Forderungen aus dem Arbeitsverhältnis zurückbehalten. Haben die Arbeitgebenden eine Vermittlungsgebühr oder Reisekosten entrichtet, dürfen sie zusätzlich einen Lohnanteil in der Höhe dieser Auslagen zurückbehalten. Insgesamt darf jedoch höchstens ein Drittel des ersten Monatslohns zurückbehalten werden.
 
-<sup>2</sup> Die Prämien für die Versicherung der Berufsunfälle und der Berufskrankheiten trägt die Arbeitgeberin oder der Arbeitgeber, diejenigen für die Versicherung der Nichtberufsunfälle die Arbeitnehmerin oder der Arbeitnehmer.
-
-<sup>3</sup> Die Lohnausfallentschädigung für die Dauer der Lohnfortzahlung fällt der Arbeitgeberin oder dem Arbeitgeber zu.
-
-[^18-1]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
+<sup>2</sup> Wird der Lohnrückbehalt nicht als Ersatz für Vermittlungsgebühren oder Reisekosten vorgenommen, gilt er als Sicherheit für Forderungen der Arbeitgebenden und ist nach den Vorschriften über die Kaution gemäss Artikel 330 des Schweizerischen Obligationenrechts zu verwalten.
 
 #### § 19
 
-**Krankenversicherung**
+**Dienstaltersgeschenke**
 
-<sup>1</sup> Die obligatorische Grundversicherung richtet sich nach den Bestimmungen des Bundesgesetzes über die Krankenversicherung (KVG)[^19-1]. Eine allfällige Prämienverbilligung für die Grundversicherung ist von der Arbeitnehmerin oder vom Arbeitnehmer zu beantragen und fällt ihr oder ihm zu.
+<sup>1</sup> Die Arbeitnehmenden haben Anspruch auf folgende Dienstaltersgeschenke:
 
-<sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber hat dafür zu sorgen, dass die Arbeitnehmerin oder der Arbeitnehmer eine Taggeldversicherung abschliesst, welche 80 Prozent des Geld- und Naturallohnes ab 31. Krankheitstag deckt. Die Wahl des Versicherungsträgers ist Sache der direkten Verständigung zwischen der Arbeitgeberin oder dem Arbeitgeber und der Arbeitnehmerin oder dem Arbeitnehmer. Ist eine solche Verständigung nicht möglich, bestimmt die Arbeitgeberin oder der Arbeitgeber die Kasse. Die Prämien gehen je zur Hälfte zulasten der Arbeitgeberin oder des Arbeitgebers und der Arbeitnehmerin oder des Arbeitnehmers. Fehlt eine Krankentaggeldversicherung, hat die Arbeitgeberin oder der Arbeitgeber die Leistungen bei fehlendem Versicherungsschutz zu erbringen.
-
-<sup>3</sup> Das der Arbeitnehmerin oder dem Arbeitnehmer von der Versicherung bezahlte Krankentaggeld kann die Arbeitgeberin oder der Arbeitgeber vom geschuldeten Lohn abziehen.
-
-[^19-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
-
-## 8 Berufliche Vorsorge und Abgangsentschädigung
-
-#### § 20
-
-**Berufliche Vorsorge**
-
-<sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber hat die Arbeitnehmerin oder den Arbeitnehmer gemäss Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^20-1] zu versichern, sofern sie oder er der obligatorischen beruflichen Vorsorge untersteht. Der Beitrag der Arbeitgeberin oder des Arbeitgebers für die berufliche Vorsorge gemäss BVG muss mindestens gleich hoch sein wie jener der Arbeitnehmerin oder des Arbeitnehmers.
-
-[^20-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
-
-#### § 21
-
-**Abgangsentschädigung**
-
-<sup>1</sup> Endigt das Arbeitsverhältnis einer mindestens 50 Jahre alten Arbeitnehmerin oder eines mindestens 50 Jahre alten Arbeitnehmers nach 20 oder mehr Dienstjahren, hat die Arbeitgeberin oder der Arbeitgeber folgende Abgangsentschädigung auszurichten:
-
-- a. 20–25 Dienstjahre: — 2 Monatslöhne
-- b. 26–30 Dienstjahre: — 3 Monatslöhne
-- c. 31–35 Dienstjahre: — 4 Monatslöhne
-- d. 36-40 Dienstjahre: — 5 Monatslöhne
-- e. über 40 Dienstjahre: — 6 Monatslöhne
+- a. einen Fünftel eines Monatslohnes nach 5 Dienstjahren,
+- b. einen Drittel eines Monatslohnes nach 10 Dienstjahren,
+- c. die Hälfte eines Monatslohnes nach 15 Dienstjahren,
+- d. drei Viertel eines Monatslohnes nach 20 Dienstjahren,
+- e. einen Monatslohn nach 25 Dienstjahren.
 
 <sup>2</sup> Der Monatslohn umfasst den Geld- und den Naturallohn.
 
-<sup>3</sup> Im Übrigen richtet sich die Pflicht der Arbeitgeberin oder des Arbeitgebers zur Entrichtung einer Abgangsentschädigung, namentlich auch der Wegfall der Entschädigung infolge Ersatzleistungen, nach den Artikeln 339b ff. OR.
+<sup>3</sup> Wollen Arbeitnehmende das Dienstaltersgeschenk ganz oder teilweise in Form von Ferien beziehen, teilen sie dies den Arbeitgebenden rechtzeitig mit. Ein Dienstaltersgeschenk von einem Monatslohn berechtigt zu einem Ferienbezug von 22 Arbeitstagen. Ein Dienstaltersgeschenk von weniger als einem Monatslohn ergibt einen entsprechend geringeren Ferienanspruch. Im Übrigen sind die Bestimmungen über die Ferien anwendbar.
 
-## 9 Zivilrechtspflege
+## 4 Lohnfortzahlung bei Arbeitsverhinderung und Sozialversicherungen
+
+#### § 20
+
+**Lohnfortzahlung**
+
+<sup>1</sup> Wird die arbeitnehmende Person aus Gründen, die in ihrer Person liegen, wie Krankheit, Unfall, Erfüllung gesetzlicher Pflichten oder Ausübung eines öffentlichen Amtes, ohne ihr Verschulden an der Arbeitsleistung gehindert, hat sie nach Beendigung der Probezeit in folgendem Umfang Anspruch auf Lohnfortzahlung:
+
+- a. im 1. und 2. Dienstjahr während eines Monats,
+- b. ab dem 3. Dienstjahr während zweier Monate,
+- c. ab dem 6. Dienstjahr während dreier Monate,
+- d. ab dem 11. Dienstjahr während vier Monaten.
+
+<sup>2</sup> Bei Schwangerschaft und Niederkunft besteht die Lohnfortzahlungspflicht im gleichen Umfang.
+
+<sup>3</sup> Die Lohnausfallentschädigung aus einer von der arbeitgebenden Person wenigstens zur Hälfte mitfinanzierten Erwerbsausfallversicherung (einschliesslich eidgenössische Erwerbsersatzordnung) fällt im Rahmen, in dem sie zur Lohnfortzahlung verpflichtet ist, der arbeitgebenden Person zu.
+
+<sup>4</sup> Die arbeitnehmende Person hat der arbeitgebenden Person eine Arbeitsunfähigkeit unverzüglich zu melden. Dauert sie mehr als drei Arbeitstage, ist der arbeitgebenden Person bei Krankheit oder Unfall unaufgefordert ein Arztzeugnis einzureichen.
+
+#### § 21
+
+**Krankentaggeldversicherung**
+
+<sup>1</sup> Die Arbeitgebenden versichern die Arbeitnehmenden so gegen Lohnausfall bei Krankheit, dass ein Krankentaggeld von 80 Prozent des Bruttolohns ab einer Wartefrist von 30 Tagen für eine Bezugsdauer (abzüglich Wartefrist) von 720 Tagen innerhalb 900 Kalendertagen geleistet wird, wenn das Arbeitsverhältnis für mehr als einen Monat eingegangen wird. Bei Arbeitnehmenden im ordentlichen Rentenalter verkürzt sich die Krankentaggeldleistung auf 180 Tage.
+
+<sup>2</sup> Die Arbeitgebenden übernehmen wenigstens die halbe Prämie der Krankentaggeldversicherung.
+
+<sup>3</sup> Sie kontrollieren, dass sich die Arbeitnehmenden auf eigene Kosten nach dem Bundesgesetz über die Krankenversicherung vom 18. März 1994[^21-1] für die Krankenpflege versichern.
+
+[^21-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 22
 
-**Streitigkeiten**
+**Sozialversicherungen im Allgemeinen**
 
-<sup>1</sup> Die Zivilrechtspflege wird durch Artikel 343 OR geregelt.
-
-## 10 Schlussbestimmungen
+<sup>1</sup> Arbeitnehmende sind grundsätzlich der schweizerischen Sozialversicherungsgesetzgebung unterstellt und beitragspflichtig. Die von den Arbeitnehmenden und den Arbeitgebenden geschuldeten Sozialversicherungsbeiträge sind von den Arbeitgebenden zu entrichten.
 
 #### § 23
 
-**Aushändigung des Normalarbeitsvertrags**
+**Unfallversicherung**
 
-<sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber hat jeder Arbeitnehmerin und jedem Arbeitnehmer ein Exemplar dieses Normalarbeitsvertrags auszuhändigen. Dieselbe Pflicht besteht bei Änderungen dieses Normalarbeitsvertrags oder wichtiger, das landwirtschaftliche Arbeitsverhältnis betreffender Bestimmungen des schweizerischen Obligationenrechts.
+<sup>1</sup> Arbeitgebende haben Arbeitnehmende nach den Bestimmungen des Bundesgesetzes über die Unfallversicherung (UVG) vom 20. März 1981[^23-1] obligatorisch gegen Berufsunfälle, Berufskrankheiten und Nichtberufsunfälle zu versichern. Die Prämie für die obligatorische Versicherung gegen Berufsunfälle und -krankheiten gehen zulasten der Arbeitgebenden, die Prämien für die obligatorische Nichtberufsunfallversicherung zulasten der Arbeitnehmenden. Vorbehalten bleiben abweichende Vereinbarungen zugunsten der Arbeitnehmenden.
+
+[^23-1]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
 
 #### § 24
 
-**Aufhebung eines Erlasses**
+**Berufliche Vorsorge**
 
-<sup>1</sup> Der Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis vom 22. Dezember 1972[^24-1] wird aufgehoben.
+<sup>1</sup> Arbeitgebende haben Arbeitnehmende, die nach dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^24-1] der beruflichen Vorsorge unterstellt sind, bei einer registrierten Vorsorgeeinrichtung zu versichern. Über das BVG hinausgehende Vereinbarungen zugunsten der Arbeitnehmenden bleiben vorbehalten.
 
-[^24-1]: V XVIII 568 (SRL Nr. 854a)
+[^24-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+
+## 5 Arbeitsbedingungen von jugendlichen und weiblichen Arbeitnehmenden
 
 #### § 25
 
-**Inkrafttreten**
+**Rechtsverweis**
 
-<sup>1</sup> Dieser Normalarbeitsvertrag tritt am 15. Mai 2000 in Kraft. Er ist zu veröffentlichen.
+<sup>1</sup> Für jugendliche Arbeitnehmende sowie schwangere Frauen und stillende Mütter sind die Bestimmungen des Bundesgesetzes über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG) vom 13. März 1964[^25-1] und die dazugehörigen Verordnungen anwendbar.
 
-K 2000 1224 | G 2000 193
+[^25-1]: SR [822.11](https://db.clex.ch/link/Bund/822.11/de)
+
+## 6 Beendigung des Arbeitsverhältnisses
+
+#### § 26
+
+**Probezeit**
+
+<sup>1</sup> Beim befristeten und beim unbefristeten Arbeitsverhältnis gelten die ersten vier Wochen nach dem Stellenantritt als Probezeit. Diese kann schriftlich auf höchstens drei Monate verlängert werden.
+
+#### § 27
+
+**Kündigung**
+
+<sup>1</sup> Während der Probezeit kann das Arbeitsverhältnis jederzeit mit einer Kündigungsfrist von sieben Kalendertagen gekündigt werden.
+
+<sup>2</sup> Nach Ablauf der Probezeit kann das unbefristete Arbeitsverhältnis unter Einhaltung der folgenden Kündigungsfristen jeweils auf das Ende eines Monats gekündigt werden:
+
+- a. ein Monat bis zum Abschluss des ersten Dienstjahres,
+- b. zwei Monate ab dem zweiten Dienstjahr bis zum Abschluss des dritten Dienstjahres,
+- c. drei Monate ab dem vierten Dienstjahr.
+
+<sup>3</sup> Das befristete Arbeitsverhältnis ist nach Ablauf der Probezeit kündbar, wenn die Vertragsparteien dies im Arbeitsvertrag schriftlich vereinbart haben.
+
+<sup>4</sup> Der Anspruch auf Benutzung einer mit dem Arbeitsverhältnis verbundenen Unterkunft endet zur gleichen Zeit wie das Arbeitsverhältnis. Die Kündigungsschutzbestimmungen des Mietrechts nach den Artikeln 271 ff. des Schweizerischen Obligationenrechts finden keine Anwendung.
+
+<sup>5</sup> Vorbehalten bleiben die Bestimmungen über den Kündigungsschutz nach den Artikeln 336 ff. sowie über die fristlose Auflösung nach den Artikeln 337 ff. des Schweizerischen Obligationenrechts.
+
+#### § 28
+
+**Abgangsentschädigung**
+
+<sup>1</sup> Endigt das Arbeitsverhältnis einer mindestens 50 Jahre alten arbeitnehmenden Person nach 20 oder mehr Dienstjahren, hat die arbeitgebende Person folgende Abgangsentschädigung auszurichten:
+
+- a. 20–25 Dienstjahre — 2 Monatslöhne
+- b. 26–30 Dienstjahre — 3 Monatslöhne
+- c. 31–35 Dientsjahre — 4 Monatslöhne
+- d. 36–40 Dienstjahre — 5 Monatslöhne
+- e. über 40 Dienstjahre — 6 Monatslöhne
+
+<sup>2</sup> Der Monatslohn umfasst den Geld- und den Naturallohn.
+
+<sup>3</sup> Im Übrigen richtet sich die Pflicht der Arbeitgebenden zur Entrichtung einer Abgangsentschädigung, namentlich auch der Wegfall der Entschädigung infolge Ersatzleistungen, nach den Artikeln 339b ff. des Schweizerischen Obligationenrechts.
+
+#### § 29
+
+**Zeugnis**
+
+<sup>1</sup> Die Arbeitnehmenden können von den Arbeitgebenden jederzeit ein Zeugnis verlangen, das sich über die Art und Dauer des Arbeitsverhältnisses sowie über ihre Leistungen und ihr Verhalten ausspricht.
+
+<sup>2</sup> Sie können verlangen, dass sich das Zeugnis auf Angaben über die Art und Dauer des Arbeitsverhältnisses beschränkt.
+
+<sup>3</sup> Nach Beendigung des Arbeitsverhältnisses ist den Arbeitnehmenden zwingend ein schriftliches Arbeitszeugnis auszustellen.
+
+## 7 Zivilrechtspflege
+
+#### § 30
+
+**Arbeitsrechtliche Klagen**
+
+<sup>1</sup> Für arbeitsrechtliche Klagen ist das Gericht am Wohnsitz oder Sitz der beklagten Partei oder am Ort des Betriebes oder Haushaltes, an dem die arbeitnehmende Person gewöhnlich die Arbeit verrichtet, zuständig.
+
+<sup>2</sup> Für Streitigkeiten aus dem Arbeitsverhältnis bis zu einem Streitwert von 30'000 Franken gilt das vereinfachte Verfahren.
+
+G 2022-084
