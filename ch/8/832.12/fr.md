@@ -4,20 +4,20 @@ title: "Loi fédérale du 26 septembre 2014 sur la surveillance de l'assurance-m
 short: LSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: fr
-version: 2017-01-01
+version: 2023-01-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-839-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-839-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la surveillance de l’assurance-maladie sociale**<sup>∗</sup>**
+# Loi fédérale sur la surveillance de l’assurance-maladie sociale<sup>∗</sup>
 
 (Loi sur la surveillance de l’assurance-maladie, LSAMal)[^t-1]
 
-du 26 septembre 2014 (Etat le 1<sup>er</sup> janvier 2017)
+du 26 septembre 2014 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -94,7 +94,7 @@ Les assureurs doivent remplir les conditions suivantes:
 - d. disposer d’un capital initial suffisant et être en mesure de remplir leurs obligations financières en tout temps, en disposant en particulier des réserves nécessaires;
 - e. disposer d’un organe de révision externe agréé;
 - f. pratiquer l’assurance-maladie sociale selon le principe de la mutualité, garantir l’égalité de traitement des assurés et n’affecter qu’à des buts d’assurance-maladie sociale les ressources provenant de celle-ci;
-- g. offrir aux personnes tenues de s’assurer qui résident dans un Etat membre de l’Union européenne, en Islande ou en Norvège la possibilité de s’affilier à l’assurance-maladie sociale; dans des cas particuliers, l’autorité de surveillance peut exempter de cette obligation les assureurs qui en font la demande;
+- g. offrir aux personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège la possibilité de s’affilier à l’assurance-maladie sociale; dans des cas particuliers, l’autorité de surveillance peut exempter de cette obligation les assureurs qui en font la demande;
 - h. pratiquer l’assurance facultative d’indemnités journalières conformément à la LAMal[^5-1];
 - i. admettre, dans les limites de leur champ territorial d’activité, toute personne tenue de s’assurer et toute personne qui est en droit de conclure un contrat d’assurance d’indemnités journalières;
 - j. être en mesure de satisfaire aux autres exigences fixées par la présente loi et la LAMal.
@@ -143,7 +143,7 @@ Elle doit être accompagnée d’un plan d’exploitation. Celui-ci doit conteni
 - m. les tarifs des primes de l’assurance obligatoire des soins et de l’assurance facultative d’indemnités journalières;
 - n. les dispositions sur les formes particulières d’assurance obligatoire des soins prévues à l’art. 62 LAMal et sur l’assurance facultative d’indemnités journalières au sens des art. 67 à 77 LAMal, ainsi que les conditions générales d’assurance;
 - o. si la caisse-maladie prévoit de pratiquer des assurances complémentaires et d’autres branches d’assurance, la communication selon laquelle elle a déposé une requête auprès de l’Autorité fédérale de surveillance des marchés financiers (FINMA);
-- p. si l’assureur entend pratiquer l’assurance-maladie dans la Principauté de Liechtenstein, la communication selon laquelle il a déposé une requête en ce sens dans cet Etat.
+- p. si l’assureur entend pratiquer l’assurance-maladie dans la Principauté de Liechtenstein, la communication selon laquelle il a déposé une requête en ce sens dans cet État.
 
 <sup>3</sup> L’autorité de surveillance peut requérir les autres informations et documents qui lui sont nécessaires pour statuer sur la demande.
 
@@ -506,17 +506,20 @@ L’autorité de surveillance contrôle la pratique de l’assurance-maladie soc
 
 #### Art. 35
 
-**Obligation de renseigner et d’annoncer**
+**Obligation de renseigner, de transmettre des données et d’annoncer[^35-1]**
 
 <sup>1</sup> Les entreprises surveillées sont tenues de fournir à l’autorité de surveillance, à l’organe de révision externe ou aux personnes mandatées par l’autorité de surveillance tous les renseignements et documents nécessaires à l’exécution de la surveillance de l’assurance-maladie sociale.
 
-<sup>2</sup> Elles sont tenues de fournir chaque année à l’autorité de surveillance des indications sur les données liées à leur activité en matière d’assurance-maladie sociale. L’autorité de surveillance peut leur demander ces indications plusieurs fois par an.
+<sup>2</sup> Elles sont tenues de transmettre régulièrement à l’autorité de surveillance les données dont celle-ci a besoin pour accomplir les tâches de surveillance que la présente loi lui assigne. Les données doivent être transmises sous une forme agrégée. Le Conseil fédéral peut prévoir qu’elles doivent au surplus être transmises par assuré si l’accomplissement de certaines tâches de surveillance le requiert; il désigne ces tâches et les données qui doivent être transmises par assuré. L’autorité de surveillance est responsable de garantir l’anonymat des assurés dans le cadre de l’exploitation des données.[^35-2]
 
 <sup>3</sup> Les assureurs doivent au surplus annoncer sans délai à l’autorité de surveillance les faits qui sont de grande importance pour la surveillance.
 
+[^35-1]: Nouvelle teneur selon le ch. I 2 de la LF du 19 mars 2021 sur la transmission de données des assureurs dans l’assurance obligatoire des soins, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 5177](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5645](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
+[^35-2]: Nouvelle teneur selon le ch. I 2 de la LF du 19 mars 2021 sur la transmission de données des assureurs dans l’assurance obligatoire des soins, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 5177](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5645](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
+
 #### Art. 36
 
-**Echange d’informations et assistance administrative**
+**Échange d’informations et assistance administrative**
 
 <sup>1</sup> En dérogation à l’art. 33 LPGA[^36-1], l’autorité de surveillance peut, dans le domaine de l’assurance-maladie sociale, transmettre à d’autres autorités de surveillance suisses et aux cantons des informations et documents non accessibles au public dont ceux-ci ont besoin pour accomplir leurs tâches.
 

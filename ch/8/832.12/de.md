@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 26. September 2014 betreffend die Aufsicht über die so
 short: KVAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: de
-version: 2017-01-01
+version: 2023-01-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2015-839-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-839-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20170101/de"
 
 (Krankenversicherungsaufsichtsgesetz, KVAG)
 
-vom 26. September 2014 (Stand am 1. Januar 2017)
+vom 26. September 2014 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -504,13 +504,16 @@ Die Aufsichtsbehörde überwacht die Durchführung der sozialen Krankenversicher
 
 #### Art. 35
 
-**Auskunfts- und Meldepflicht**
+**Auskunfts-, Datenweitergabe- und Meldepflicht[^35-1]**
 
 <sup>1</sup> Die beaufsichtigten Unternehmen sind verpflichtet, der Aufsichtsbehörde, der externen Revisionsstelle oder der von der Aufsichtsbehörde beauftragten Person alle erforderlichen Auskünfte zu erteilen und Belege einzureichen, die für die Aufsicht über die soziale Krankenversicherung erforderlich sind.
 
-<sup>2</sup> Sie sind verpflichtet, jährlich Angaben über die Daten zu machen, die im Rahmen ihrer Tätigkeit im Bereich der sozialen Krankenversicherung anfallen. Die Aufsichtsbehörde kann diese Angaben auch häufiger verlangen.
+<sup>2</sup> Sie sind verpflichtet, der Aufsichtsbehörde regelmässig die für die Erfüllung ihrer Aufsichtsaufgaben nach diesem Gesetz erforderlichen Daten weiterzugeben. Die Daten sind aggregiert weiterzugeben. Der Bundesrat kann vorsehen, dass die Daten zudem pro versicherte Person weiterzugeben sind, falls dies zur Erfüllung bestimmter Aufsichtsaufgaben notwendig ist; er bezeichnet diese Aufgaben und die Daten, die pro versicherte Person weiterzugeben sind. Die Aufsichtsbehörde ist dafür verantwortlich, dass im Rahmen der Datenverwendung die Anonymität der Versicherten gewahrt ist.[^35-2]
 
 <sup>3</sup> Die Versicherer müssen der Aufsichtsbehörde zudem unverzüglich Vorkommnisse melden, die für die Aufsicht von wesentlicher Bedeutung sind.
+
+[^35-1]: Fassung gemäss Ziff. I 2 des BG vom 19. März 2021 über die Datenweitergabe der Versicherer in der obligatorischen Krankenpflegeversicherung, in Kraft seit 1. Jan. 2023 ([AS 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [BBl 2019 5397](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5925](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
+[^35-2]: Fassung gemäss Ziff. I 2 des BG vom 19. März 2021 über die Datenweitergabe der Versicherer in der obligatorischen Krankenpflegeversicherung, in Kraft seit 1. Jan. 2023 ([AS 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [BBl 2019 5397](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5925](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
 
 #### Art. 36
 
@@ -823,13 +826,9 @@ Sie müssen bis spätestens fünf Jahre nach Inkrafttreten dieses Gesetzes:
 
 **Koordination mit der Änderung vom 21. März 2014 des KVG**
 
-*Unabhängig davon, ob zuerst die Änderung vom 21. März 2014*[^60-1] *des KVG*[^60-2] *oder das vorliegende Gesetz in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachfolgende Besti**m**mung wie folgt:*
+…[^60-1]
 
-…[^60-3]
-
-[^60-1]: [AS 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580)
-[^60-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^60-3]: Art. 51 Abs. 1 Bst. c eingefügt hiervor.
+[^60-1]: Art. 51 Abs. 1 Bst. c eingefügt hiervor.
 
 #### Art. 61
 

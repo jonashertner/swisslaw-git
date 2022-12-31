@@ -4,11 +4,11 @@ title: "Legge federale del 26 settembre 2014 concernente la vigilanza sull'assic
 short: LVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: it
-version: 2017-01-01
+version: 2023-01-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2015-839-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-839-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20170101/it"
 
 (Legge sulla vigilanza sull’assicurazione malattie, LVAMal)
 
-del 26 settembre 2014 (Stato 1° gennaio 2017)
+del 26 settembre 2014 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -504,13 +504,16 @@ L’autorità di vigilanza sorveglia l’esercizio dell’assicurazione sociale 
 
 #### Art. 35
 
-**Obbligo d’informare e di notificare**
+**Obbligo d’informare, di trasmettere dati e di notificare[^35-1]**
 
 <sup>1</sup> Le imprese sottoposte a vigilanza sono tenute a fornire all’autorità di vigilanza, all’ufficio di revisione esterno o alle persone incaricate dall’autorità di vigilanza tutte le informazioni e i documenti giustificativi necessari all’esercizio della vigilanza sull’assicurazione sociale malattie.
 
-<sup>2</sup> Sono tenute a fornire annualmente indicazioni sui dati relativi alla loro attività nell’ambito dell’assicurazione sociale malattie. L’autorità di vigilanza può esigere queste indicazioni anche con maggiore frequenza.
+<sup>2</sup> Sono tenute a trasmettere regolarmente all’autorità di vigilanza i dati necessari per adempiere i suoi compiti secondo la presente legge. I dati devono essere trasmessi in forma aggregata. Il Consiglio federale può prevedere che debbano essere trasmessi inoltre i dati di ogni assicurato se questo è necessario per adempiere determinati compiti di vigilanza; designa questi compiti e i dati di ogni assicurato che devono essere trasmessi. L’autorità di vigilanza è responsabile affinché nell’ambito dell’utilizzazione dei dati sia garantito l’anonimato degli assicurati.[^35-2]
 
 <sup>3</sup> Gli assicuratori devono inoltre notificare senza indugio all’autorità di vigilanza gli eventi di grande importanza ai fini della vigilanza.
+
+[^35-1]: Nuovo testo giusta il n. I 2 della LF del 19 mar. 2021 sulla trasmissione di dati degli assicuratori nell’assicurazione obbligatoria delle cure medico-sanitarie, in vigore dal 1° gen. 2023 ([RU 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 4495](https://fedlex.data.admin.ch/eli/fga/2019/1903), [4883](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
+[^35-2]: Nuovo testo giusta il n. I 2 della LF del 19 mar. 2021 sulla trasmissione di dati degli assicuratori nell’assicurazione obbligatoria delle cure medico-sanitarie, in vigore dal 1° gen. 2023 ([RU 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 4495](https://fedlex.data.admin.ch/eli/fga/2019/1903), [4883](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
 
 #### Art. 36
 
@@ -825,7 +828,7 @@ Entro cinque anni dall’entrata in vigore della presente legge devono:
 
 Indipendentemente dal fatto che entri prima in vigore la modifica del 21 marzo 2014[^60-1] della LAMal[^60-2] o la presente legge, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi la disposizione qui appresso della presente modifica avrà il seguente tenore:
 
-...*[^60-3]*
+...[^60-3]
 
 [^60-1]: [RU 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580)
 [^60-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
