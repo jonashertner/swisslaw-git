@@ -1,379 +1,519 @@
 ---
 canton: VS
 number: "740.1"
-title: Loi sur les transports publics
-short: LTP
+title: Loi sur les transports publics et la mobilité douce quotidienne
+short: LTPMDQuot
 language: fr
-version: 2012-01-01
-corrected: 2017-10-06
-version_adopted: 2011-09-15
+version: 2023-01-01
+version_adopted: 2022-09-15
 adopted: 2022-09-15
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/740.1"
-pdf: "https://lex.vs.ch/api/fr/versions/283/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3199/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur les transports publics (LTP)
+# Loi sur les transports publics et la mobilité douce quotidienne
 
-du 28 septembre 1998
+(LTPMDQuot)
+
+du 15.09.2022 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 6, 31 et 69 de la Constitution cantonale;
+vu la loi fédérale sur l’aviation du 21 décembre 1948 (LA);
 
-vu la loi fédérale sur les chemins de fer du 20 décembre 1957 modifiée le 24 mars 1995 et ses ordonnances d'application;
+vu la loi fédérale sur les chemins de fer du 20 décembre 1957 (LCdF);
+
+vu la loi fédérale sur les chemins piétons et les chemins de randonnée pédestre du 4 octobre 1985 (LCPR);
+
+vu la loi fédérale concernant une redevance sur le trafic des poids lourds liée aux prestations du 19 décembre 1997 (LRPL);
+
+vu la loi fédérale sur les installations à câbles transportant des personnes du 23 juin 2006 (LICa);
+
+vu la loi fédérale sur le développement de l’infrastructure ferroviaire du 20 mars 2009 (LDIF);
+
+vu la loi fédérale sur les transports voyageurs du 20 mars 2009 (LTV);
+
+vu la loi fédérale sur le transport de marchandises par des entreprises de chemin de fer ou de navigation du 25 septembre 2015 (LTM);
+
+vu les articles 31 et 37 et suivants de la Constitution cantonale;
 
 sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
-#### Article premier
+#### Art. 1
 
-**But**
+**Champ d’application et but**
 
-<sup>1</sup> La présente loi a pour but de garantir une offre de prestations de transports publics suffisante en regard de l'économie et de la politique sociale.
+<sup>1</sup> La présente loi, dans les limites de la compétence laissée au canton par la législation fédérale, s’applique aux transports publics, à la mobilité douce quotidienne et à la mobilité d’intérêt particulier.
 
-<sup>2</sup> Elle vise le respect et la protection de l'environnement et l'utilisation rationnelle de l'énergie ainsi que l'organisation judicieuse et mesurée du territoire, en application des directives fédérales et cantonales en la matière.
+<sup>1<sup>bis</sup></sup> L’Etat veille à ce que les besoins en mobilité soient couverts de manière efficace, économique et écologique par un système de transport intermodal interconnecté et utilisé de façon optimale à travers tout le canton.
 
-<sup>3</sup> A cet effet, elle permet au canton:
+<sup>2</sup> La présente loi a pour but de garantir l’offre de prestations de transports publics performantes, la promotion et le développement de la mobilité douce quotidienne. Il est notamment tenu compte des principes de l'économie, de la sécurité, de la politique sociale et du développement durable, de l'accessibilité pour les personnes en situation de handicap, des exigences de la protection de l'environnement, de l'utilisation rationnelle et mesurée du sol et de l'énergie, de l'organisation judicieuse du territoire ainsi que de la complémentarité entre les transports publics et les transports individuels, de favoriser des solutions originales et novatrices pour la mobilité douce quotidienne, notamment en région de montagne.
 
-- a) d'encourager le transfert du trafic individuel des personnes et des marchandises sur les entreprises de transports publics (ci-après entreprises de transport);
+<sup>3</sup> La présente loi vise, en particulier:
 
-- b) de favoriser l'ouverture économique des villages de montagne et des vallées éloignées du trafic principal;
+- a) à garantir un haut niveau de desserte adapté aux différentes typologies de l’espace du territoire cantonal;
+- b) à encourager le transfert du trafic individuel motorisé des personnes et des marchandises vers les transports publics et la mobilité douce quotidienne;
+- c) à améliorer la coordination entre les acteurs dans le domaine de divers modes de transport, entre autres, les transports publics, la mobilité individuelle motorisée et la mobilité douce quotidienne, à savoir notamment:
+  - 1\. les entreprises de transport au bénéfice d’une concession pour le transport de voyageurs ou d’une autorisation cantonale (ci-après: les entreprises de transport),
+  - 2\. les commanditaires de l’offre de transports publics, notamment la Confédération, le canton et les communes,
+  - 3\. les différents acteurs en charge de la mobilité douce quotidienne;
+- d) à permettre la coopération avec les autres cantons et les pays voisins.
 
-- c) d'améliorer la coordination entre entreprises de transports publics d'une part, entre transports publics et transports individuels d'autre part;
+<sup>4</sup> La présente loi fixe les modalités et les conditions des subventions et des participations de l’Etat.
 
-- d) de coopérer activement avec les cantons et les pays voisins;
+<sup>5</sup> La présente loi fixe les modalités et les conditions de l’appel à contribution des communes.
 
-- e) de préciser les compétences du Grand Conseil, du Conseil d'Etat, du Département chargé des transports (ci-après Département), des régions socio-économiques, des communes et des entreprises en matière de transports publics.
-
-<sup>4</sup> Elle sert à l'application de la loi fédérale sur les chemins de fer et de ses ordonnances.
-
-<sup>5</sup> Elle vise aussi à soutenir et à promouvoir la réalisation et l'exploitation des infrastructures nécessaires à l'ouverture du canton en matière de transports publics et par voies aériennes.
+<sup>6</sup> La présente loi fixe les attributions et les compétences du Grand Conseil, du Conseil d'Etat, du département en charge de la mobilité (ci-après: le département), du service en charge de la mobilité (ci-après: le service), des régions de planification, des régions socioéconomiques, des agglomérations, des communes et des entreprises de transport.
 
 #### Art. 2
 
-**Principes**
+**Prérogatives cantonales**
 
-Les entreprises de transport établissent l'offre et le compte prévisionnel pour les prestations de trafic régional commandées conjointement par la Confédération et le canton. Elles participent, selon les besoins et sur demande du Département, à l'information des régions et des communes.
+<sup>1</sup> L’Etat définit, dans les lignes directrices du programme gouvernemental, les principes et les objectifs de sa politique de mobilité à court, moyen et long terme.
 
-#### Art. 3
-
-**Mesures**
-
-<sup>1</sup> Le canton définit dans les lignes directrices de la politique gouvernementale les principes et les objectifs de sa politique des transports à court, moyen et long terme.
-
-<sup>2</sup> Il octroie aux entreprises de transport, au sens de la législation fédérale, des indemnités, des prêts et des aides financières pour leurs besoins d'investissements et leurs coûts d'exploitation.
+<sup>2</sup> Il peut octroyer des subventions, telles que des indemnités et des aides financières.
 
 <sup>3</sup> Il peut prendre des participations dans les entreprises de transport.
 
-<sup>4</sup> Il peut participer, sur le plan de l'organisation et du financement, à la constitution et à l'exploitation de communautés tarifaires ainsi qu'à la mise en oeuvre d'autres mesures tarifaires.
+<sup>4</sup> Il peut prendre part à l’organisation et au financement de communautés tarifaires, ainsi qu'à la mise en œuvre d'autres mesures tarifaires visant à soutenir et promouvoir le recours aux transports publics.
 
-### Section 2: Mesures d'encouragement aux transports publics
+<sup>5</sup> L’Etat peut mener, soutenir ou coordonner des actions visant à promouvoir les transports publics, la mobilité douce quotidienne et la mobilité d’intérêt particulier.
 
-#### Art. 4
+<sup>6</sup> L’Etat est en charge de l’aménagement du réseau cantonal de mobilité cycliste quotidienne. Il gère l’aménagement, la signalisation, l’entretien et la conservation de ce réseau dans tout le canton, avec la collaboration des communes, en particulier lorsque des voies publiques communales sont concernées. Le département peut déléguer aux communes ou à des tiers certaines tâches d'entretien. La délégation fait l'objet d'une publication dans le Bulletin officiel.
 
-**Garantie de l'offre**
+<sup>7</sup> L'Etat établit le plan directeur cantonal de mobilité cycliste quotidienne et désigne notamment:
 
-<sup>1</sup> Le canton énonce en accord avec la Confédération, cas échéant avec les autres cantons concernés, les principes auxquels doit obéir l'offre de transport. Il définit les modalités d'élaboration de l'offre et des tarifs ainsi que les taux minima d'utilisation et de couverture des coûts et passe avec les entreprises de transport des conventions sur l'offre.
+- a) le réseau de mobilité cycliste quotidienne d'intérêt cantonal ou régional;
+- b) les aménagements cyclables à réaliser et leur coordination;
+- c) les points et pôles d'intermodalité devant être accessibles par la mobilité cycliste quotidienne;
+- d) les aménagements liés au stationnement deux-roues aux abords des points et pôles d'intermodalité et ceux liés à leur accessibilité;
 
-<sup>2</sup> Des communes, des particuliers ou d'autres organisations peuvent convenir de prestations supplémentaires ou de mesures d'allégements tarifaires avec les entreprises de transport à condition que les coûts supplémentaires non couverts soient pris en charge par les requérants.
-
-#### Art. 5
-
-**Contributions à l'exploitation**
-
-<sup>1</sup> Pour garantir l'offre de prestations prévue à l'article 4, alinéa 1, le canton octroie des indemnités aux entreprises de transport du trafic régional conformément au droit fédéral.
-
-<sup>2</sup> Des indemnités sont versées notamment pour:
-
-- a) les coûts non couverts planifiés;
-
-- b) les prestations commandées par le canton.
-
-<sup>3</sup> Il peut allouer des aides financières, au sens de la législation cantonale sur les subventions, pour l'exploitation du trafic d'agglomération ou pour d'autres prestations revêtant une certaine importance pour le canton ou l'une de ses régions.
-
-#### Art. 6
-
-**Contributions aux investissements**
-
-<sup>1</sup> Conformément au droit fédéral, le canton alloue des prêts et aides financières pour le financement des investissements des entreprises de transport.
-
-<sup>2</sup> Sont en particulier considérés comme des investissements, les constructions, les remplacements ou les compléments d'installations et d'équipements, les acquisitions de véhicules destinés à:
-
-- a) augmenter sensiblement la rentabilité et la capacité;
-
-- b) assurer ou améliorer la sécurité de l'exploitation;
-
-- c) prendre des mesures en faveur des handicapés.
-
-<sup>3</sup> Les véhicules et les installations doivent être conçus de façon à être accessibles aux handicapés en respectant le principe de proportionnalité.
-
-#### Art. 7
-
-**Conditions**
-
-<sup>1</sup> L'octroi des indemnités, des prêts et des aides financières à des entreprises de transport est subordonné à l'accomplissement des prestations effectuées dans le cadre des principes et mesures énoncés aux articles 2 et 3, à une gestion efficace et à l'application de tarifs adaptés et reconnus.
-
-<sup>2</sup> Le canton fait dépendre cet octroi de la présentation, par les entreprises de transport, d'offres, de comptes prévisionnels et d'une comptabilité conformes aux exigences prévues par la législation fédérale, notamment en matière de conditions d'engagement du personnel.
-
-#### Art. 8
-
-**Autres prestations**
-
-<sup>1</sup> Le canton peut, à titre exceptionnel, octroyer des aides financières au sens de la législation cantonale sur les subventions à des entreprises de transport pour d'autres prestations qu'il commande ou qu'il reconnaît, notamment pour des transports de voyageurs à caractère touristique, pour des transports de marchandises, ainsi que pour des liaisons intercantonales ou internationales non exploitées toute l'année.
-
-<sup>2</sup> Il peut faire dépendre ces aides de l'application de principes de comptabilité qu'il prescrit.
-
-<sup>3</sup> Le canton mène, soutient ou coordonne des campagnes d'information publique visant à promouvoir les transports si elles dépassent le cadre des attributions des entreprises de transport.
-
-#### Art. 9
+#### Art. 3
 
 **Autorisations de transport de personnes**
 
-<sup>1</sup> En application des dispositions fédérales sur les concessions de transport par automobile, le canton délivre les autorisations permettant à des entreprises ou à des particuliers d'effectuer des courses non soumises à concession fédérale.
+<sup>1</sup> En application des dispositions fédérales, l’Etat délivre les autorisations permettant à des entreprises ou à des particuliers d'effectuer des courses non soumises à concession fédérale.
 
-<sup>2</sup> Le Conseil d'Etat fixe la procédure de consultation et d'octroi des autorisations.
+<sup>2</sup> Le Conseil d'Etat fixe la procédure de consultation et d'octroi des autorisations ainsi que l’échelle des émoluments en lien avec ladite procédure.
 
-<sup>3</sup> Le canton perçoit, pour l'octroi d'une autorisation, un émolument compris entre 250 et 1000 francs. Les émoluments seront indexés selon l'indice suisse des prix à la consommation.
+#### Art. 4
 
-### Section 3: Le financement des transports publics régionaux
+**Subventions**
+
+<sup>1</sup> Les subventions sont octroyées par décision ou par convention de droit public.
+
+<sup>2</sup> Les subventions sont octroyées dans la limite des disponibilités budgétaires.
+
+#### Art. 5
+
+**Réserve de la loi sur les subventions**
+
+<sup>1</sup> Les dispositions de la présente loi sont applicables, dans la mesure où elles ne sont pas contraires à la législation sur les subventions. Pour le surplus, la loi sur les subventions complète la présente loi.
+
+#### Art. 6
+
+**Réserve de la loi sur la gestion et le contrôle administratifs et financiers du canton**
+
+<sup>1</sup> En matière de subventionnement accordé en vertu de la présente loi, la loi sur la gestion et le contrôle administratifs et financiers du canton est applicable.
+
+## 2 Transports publics
+
+### 2.1 Trafic régional de voyageurs
+
+#### Art. 7
+
+**Définition**
+
+<sup>1</sup> Au sens de la présente loi, on entend par trafic régional de voyageurs (ci-après: trafic régional), le transport de voyageurs à l’intérieur d’une région, y compris la desserte de base de localités, ainsi que le transport de voyageurs entre une région et des régions voisines, de même qu'entre une région et les cantons ou pays limitrophes.
+
+<sup>2</sup> Le transport régional remplit une fonction de desserte lorsqu’il assure la liaison des localités habitées toute l’année.
+
+#### Art. 8
+
+**Offre de trafic régional**
+
+<sup>1</sup> L’Etat est responsable de la planification de l’offre de trafic régional, en coordination avec la Confédération, cas échéant avec les autres cantons et/ou les partenaires concernés.
+
+<sup>2</sup> En collaboration avec les entités concernées, l’Etat peut élaborer des concepts de planification régionaux, cantonaux, intercantonaux ou internationaux, servant de base pour la définition et l’évolution de l’offre de planification régionale.
+
+<sup>3</sup> Les commanditaires de l’offre de trafic régional définissent par directives les modalités d'élaboration de l'offre, ainsi que les taux minima d'utilisation et de couverture des coûts.
+
+<sup>4</sup> L’Etat conclut avec les entreprises de transport les conventions de droit public (ci-après: la convention) permettant l’exécution de l’offre commandée.
+
+<sup>5</sup> En complément à l’offre, acceptée par l’Etat et l’Office fédéral des transports, des communes ou des tiers peuvent convenir des prestations supplémentaires ou des mesures d'allégements tarifaires avec les entreprises de transport, à condition que les coûts supplémentaires non couverts soient pris en charge exclusivement et entièrement par l'entité qui sollicite ces prestations ou mesures. Ces prestations supplémentaires ou les mesures d’allégements tarifaires figurent dans la convention.
+
+#### Art. 9
+
+**Conditions générales d’octroi de la subvention**
+
+<sup>1</sup> L’Etat peut octroyer les subventions aux entreprises de transport à la condition qu’elles effectuent une tâche d’intérêt public en matière de transports publics, qui a été commanditée par l’Etat.
+
+<sup>2</sup> Le dossier préalable à la convention doit contenir, notamment:
+
+- a) les offres, comprenant entre autres les comptes prévisionnels, les horaires et les tarifs;
+- b) les comptes réels.
+
+<sup>3</sup> Les pièces justificatives du dossier préalable à la convention doivent être conformes aux exigences fédérales en la matière.
+
+<sup>4</sup> L’entreprise de transport présente les comptes prévisionnels conformément aux délais définis dans les directives annuelles édictées par la Confédération pour la commande de l’offre du trafic régional.
+
+<sup>5</sup> Les entreprises bénéficiant d’une subvention peuvent être astreintes par l’autorité d’octroi à collaborer entre elles, à s’associer pour certains objectifs, notamment dans le domaine de la tarification ou de l’exploitation.
 
 #### Art. 10
 
-**Principes**
+**Subventions d’investissement**
 
-<sup>1</sup> La Confédération et le canton indemnisent sur la base des comptes prévisionnels les entreprises de transport pour les coûts non couverts planifiés reconnus du trafic régional, selon les modalités prévues par la loi fédérale sur les chemins de fer et ses dispositions d'application.
+<sup>1</sup> Après la déduction des subventions octroyées par la Confédération, l’Etat peut allouer des subventions à des entreprises de transport pour le financement des investissements jusqu'à 100 pour cent du solde restant.
 
-<sup>2</sup> Les communes participent aux indemnités du trafic régional et aux aides financières pour l'exploitation du trafic d'agglomération.
+<sup>2</sup> Sont, en particulier, considérés comme des investissements:
 
-<sup>3</sup> La Confédération et le canton peuvent octroyer des contributions d'investissements aux entreprises de chemin de fer, de téléphérique, de navigation et d'automobile concessionnaires.
+- a) la construction de nouvelles installations;
+- b) le remplacement ou la rénovation des installations existantes;
+- c) les compléments d'installations et d'équipements;
+- d) l’adoption d’un autre mode de transport;
+- e) la création de nouvelles entreprises, le rachat des entreprises ou la reprise de dette.
 
-<sup>4</sup> La participation du canton au déficit d'exploitation et aux investissements des aéroports d'importance cantonale est fixée à 50 pour cent.
+<sup>3</sup> L’investissement doit poursuivre une des finalités suivantes:
 
-<sup>5</sup> Le Grand Conseil alloue les crédits annuels nécessaires au paiement des parts cantonales par la voie budgétaire.
+- a) augmenter l’offre de transport public;
+- b) augmenter l’efficience;
+- c) assurer ou améliorer la sécurité de l'exploitation.
 
 #### Art. 11
 
-<sup>1,2,3</sup> Répartition entre le canton et les communes
+**Subventions d’exploitation**
 
-<sup>1</sup> La part cantonale de l’aide financière pour l’exploitation du trafic régional des lignes subventionnées par la Confédération et d’agglomération est répartie entre le canton et les communes en fonction du mode de transport et de son importance selon le tableau figurant en annexe 1 à la présente loi. Ces taux sont susceptibles d’adaptations périodiques par décision du Grand Conseil en fonction de l’évolution des taux de participation cantonale définis par la Confédération ainsi que par d’autres modifications légales ou structurelles fédérales ou cantonales.
+<sup>1</sup> Conformément au droit fédéral, l’Etat octroie des subventions à des entreprises de transport pour les coûts non couverts planifiés.
 
-<sup>1bis</sup> Pour les lignes non subventionnées par la Confédération mais reconnues par le canton, une participation cantonale en principe limitée à 60 pour cent au maximum peut être accordée en vertu de l’article 8.
+<sup>2</sup> L’Etat peut allouer des subventions à des entreprises de transport pour les coûts non couverts planifiés en lien avec les prestations non subventionnées par la Confédération, à condition qu’elles soient reconnues par l’Etat et les communes, dans les cas suivants:
 
-<sup>2</sup> Le Département est chargé de la répartition des indemnités et des aides financières entre le canton et les communes participant au financement des prestations de trafic régional et d'agglomération.
+- a) des lignes de trafic régional ne bénéficiant pas de subventionnement de la Confédération, pour raison d’épuisement du montant mis à disposition du canton par la Confédération;
+- b) des lignes de trafic régional ne remplissant pas un ou plusieurs critères de subventionnement de la Confédération, en fonction notamment du maintien des populations ainsi que du développement des activités économiques et touristiques dans les régions périphériques et de montagne.
 
-<sup>3</sup> Par trafic d'agglomération, il faut entendre celui qui dessert les agglomérations et villes au sens des définitions de l'Office fédéral de la statistique.
+<sup>3</sup> La subvention octroyée en vertu de l’alinéa 2 du présent article peut s’élever au maximum à 50 pour cent des coûts non couverts planifiés.
 
 #### Art. 12
 
-<sup>3</sup> Répartition intercommunale
+**Présentation du résultat par secteurs**
 
-<sup>1</sup> La répartition des participations communales s’effectue sur la base d’un tableau dressé annuellement par le Département et tenant compte des facteurs suivants:
-
-- a) la population dans une proportion de deux tiers;
-
-- b) abrogé
-
-- c) la desserte (nombre d’arrêts x nombre de courses) dans une proportion d’un tiers.
-
-<sup>2</sup> Les participations communales sont notifiées aux communes par le Département.
+<sup>1</sup> La présentation du résultat, en matière de subventionnement, est faite en application, par analogie, des principes prévus par la législation fédérale.
 
 #### Art. 13
 
-**Recours**
+**Appel à contribution des communes**
 
-<sup>1</sup> Les décisions relatives aux participations communales peuvent faire l'objet d'une réclamation adressée au Département.
+<sup>1</sup> Les communes, en tant que bénéficiaires des prestations du trafic régional, participent à raison de 25 pour cent à la subvention cantonale d’exploitation prévue à l’article 11 alinéa 1, et à raison de 50 pour cent au minimum à la subvention cantonale d’exploitation prévue à l’article 11 alinéas 2 et 3.
 
-<sup>2</sup> La décision sur la réclamation est prise par le Conseil d'Etat et peut faire l'objet d'un recours auprès du Tribunal cantonal dans les 30 jours dès sa notification.
-
-### Section 4: Compétences
+<sup>2</sup> L’autorité compétente établit annuellement un tableau de répartition de la subvention cantonale d’exploitation, démontrant la part incombant à l’Etat et la part incombant aux communes.
 
 #### Art. 14
 
-**Grand Conseil**
+**Procédure de répartition**
 
-Le Grand Conseil exerce les compétences suivantes:
+<sup>1</sup> L’autorité compétente fixe par une décision unique le montant de la contribution individuelle de toutes les communes.
 
-- a) Il alloue annuellement, par la voie du budget, les crédits nécessaires à l'application de la présente loi.
+<sup>2</sup> Pour les lignes du trafic régional, à l’exception de lignes de chemin de fer, la répartition du montant à charge des communes est effectuée par région socio-économique, en tenant compte de la population de chaque commune et du coefficient de la desserte, défini à l’article 16.
 
-- b) Il traite périodiquement des objectifs de la politique cantonale des transports, ainsi que des investissements en matière de transports publics.
-
-- c) Il fixe, par décision, les contributions cantonales au financement des investissements.
+<sup>3</sup> Pour les lignes de chemin de fer du trafic régional, la répartition du montant à charge des communes est effectuée en tenant compte de la population de chaque commune et du coefficient de la desserte ferroviaire, défini à l’article 17.
 
 #### Art. 15
 
-**Conseil d'Etat**
+**Chiffre de population**
 
-<sup>1</sup> Le Conseil d'Etat exerce la haute surveillance en matière de transports publics.
-
-<sup>2</sup> Il a notamment les compétences suivantes:
-
-- a) il définit, périodiquement, les objectifs de la politique cantonale ainsi que les investissements en matière de transports publics;
-
-- b) il soumet à décision du Grand Conseil les contributions financières d'investissements, lorsque celles-ci relèvent de la compétence de cette instance;
-
-- c) il donne à l'autorité fédérale le préavis du canton concernant les demandes de concessions pour la construction et l'exploitation de chemins de fer ainsi que d'aérodromes;
-
-- d) il conclut les conventions en matière de transports publics et de communautés tarifaires avec la Confédération et les autres cantons, sous réserve de ratification par le Grand Conseil dans les domaines relevant de sa compétence;
-
-- e) il désigne les délégués de l'Etat dans les organes d'administration ou de contrôle des entreprises;
-
-- f) il désigne les membres de la commission cantonale des horaires;
-
-- g) il décide des contributions financières dans les limites de sa compétence.
+<sup>1</sup> Le chiffre de population retenu pour les répartitions est celui de la population résidente permanente telle qu’arrêtée par l’autorité compétente en la matière au 31 décembre de l'année précédente.
 
 #### Art. 16
 
-**Département**
+**Coefficient de qualité de desserte du trafic régional, à l’exception de lignes de chemin de fer**
 
-Le Département a notamment les compétences suivantes:
+<sup>1</sup> Le coefficient de qualité de desserte, déterminé en fonction de l’offre de trafic régional sur le territoire de la commune concernée, est de:
 
-- a) il élabore la planification cantonale des transports et l'information y relative;
-
-- b) il décide des contributions financières dans ses limites de compétence;
-
-- c) il exerce toutes les attributions en matière de transport qui ne sont pas conférées par la loi à une autre autorité;
-
-- d) il donne, après consultation des communes, des services et des instances intéressés, le préavis du canton à l'autorité fédérale concernant:
-
-- 1\. les demandes de concession relevant de l'autorité fédérale pour les lignes de transport par automobile, par bus et par bateau, ainsi que pour les installations par câbles;
-
-- 2\. les projets de construction des entreprises de transport et de transport à câbles dont l'approbation est de la compétence fédérale;
-
-- e) il délivre, après consultation des communes, des services et des instances intéressés, les autorisations de construire et d'exploiter les téléphériques et skilifts sans concession fédérale;
-
-- f) il procède, d'entente avec la Confédération, les cantons et les régions concernés à la commande et à l'analyse de l'offre des prestations de trafic régional et signe les conventions y relatives;
-
-- g) il consulte de manière appropriée, en matière de prestations de trafic régional, les régions et les communes concernées;
-
-- h) il attribue les autorisations de transport relevant de sa compétence en vertu des dispositions fédérales sur les concessions de transport par automobile;
-
-- i) il établit annuellement la répartition des participations communales en application de l'article 12.
+- a) 1,0 lorsque la commune concernée bénéficie de l’offre de 28 paires de courses et plus par jour ouvré;
+- b) 0,8 lorsque la commune concernée bénéficie de l’offre allant de 18 à 27 paires de courses par jour ouvré;
+- c) 0,6 lorsque la commune concernée bénéficie de l’offre allant de 9 à 17 paires de courses par jour ouvré;
+- d) 0,4 lorsque la commune concernée bénéficie de l’offre de 8 paires de courses ou moins par jour ouvré et/ou par un service à la demande.
 
 #### Art. 17
 
-<sup>1</sup> Régions et communes
+**Coefficient de qualité de desserte du trafic régional ferroviaire**
 
-<sup>1</sup> Sont considérées comme régions de transports les trois régions constituées en application de la loi cantonale sur la politique régionale.
+<sup>1</sup> Le coefficient de qualité de desserte du trafic régional ferroviaire, déterminé en fonction de l’offre de desserte par train régional sur le territoire de la commune concernée, est de:
 
-<sup>2</sup> Les régions assurent la coordination entre les communes dans le cadre de l'élaboration, la rationalisation et l'harmonisation de l'offre régionale des transports publics.
+- a) 1,0 lorsque la commune concernée bénéficie sur son territoire de l’offre d’au moins un arrêt de train régional;
+- b) 0,5 lorsque la commune concernée n’est pas desservie sur son territoire.
 
-<sup>3</sup> Les communes peuvent, la région informée, s'adresser au Département pour la résolution de problèmes de transport spécifiques les concernant directement.
-
-<sup>4</sup> Chaque région désigne au maximum trois représentants à la commission cantonale des horaires.
+### 2.2 Trafic d'agglomération et trafic urbain
 
 #### Art. 18
 
-**Commission cantonale des horaires**
+**Offre de trafic d’agglomération et urbain**
 
-<sup>1</sup> La commission cantonale des horaires est un organe consultatif, constitué par le Conseil d'Etat et comprend notamment:
-
-- a) deux représentant(e)s du Département en charge des transports;
-
-- b) deux représentant(e)s du Département en charge de l'éducation;
-
-- c) un(e) représentant(e) de chacune des huit régions (art. 17, al. 4);
-
-- d) cinq représentant(e)s des milieux économiques et touristiques;
-
-- e) deux représentant(s des associations de défense des transports publics et de l'environnement;
-
-- f) un(e) représentant(e) des milieux syndicaux.
-
-<sup>2</sup> Les entreprises de transport sont invitées à participer aux travaux de la commission en fonction des besoins.
-
-<sup>3</sup> La commission a les tâches suivantes:
-
-- a) elle élabore des propositions et donne son avis en matière de politique des transports publics ainsi que sur les objectifs à atteindre;
-
-- b) elle donne son avis sur la création, la modification ou la suppression de lignes de transports publics;
-
-- c) elle donne son avis sur les propositions d'offres et d'horaires et examine les modifications et les adaptations nécessitant une coordination et une harmonisation interrégionale.
-
-### Section 5: Dispositions transitoires et finales
+<sup>1</sup> Les communes sont responsables de la planification de l’offre de trafic d’agglomération et urbain.
 
 #### Art. 19
 
-**Dispositions d'exécution**
+**Définition du trafic d’agglomération**
 
-<sup>1</sup> Le Conseil d'Etat édicte les dispositions nécessaires à l'exécution de la présente loi.
-
-<sup>2</sup> Il adopte également une ordonnance concernant la procédure et les compétences en matière de construction et d'exploitation de téléphériques et skilifts sans concession fédérale.
+<sup>1</sup> Au sens de la présente loi, on entend par trafic d’agglomération le transport de voyageurs à l’intérieur d’une agglomération.
 
 #### Art. 20
 
-**Modifications et abrogation d'actes législatifs**
+**Définition du trafic urbain**
 
-<sup>1</sup> Sont modifiés les articles 128 et 136 alinéas 1 et 2 de la loi sur les routes du 3 septembre 1965:
+<sup>1</sup> Au sens de la présente loi, on entend par trafic urbain le transport de voyageurs qui assure une desserte urbaine fine à l’intérieur d’une commune comprenant au moins 3'000 équivalents-habitants ou d’une instance de coopération intercommunale réunissant plusieurs communes.
 
-#### Art. 128
+<sup>2</sup> Au sens de la présente loi, l’équivalent-habitant correspond à la somme:
 
-Les dispositions de la loi cantonale sur les transports publics (LTP) sont applicables à la construction et à la rénovation des moyens de transports cités à l'article 127.
-
-#### Art. 136
-
-<sup>1</sup> Si un moyen de transport public a été construit en lieu et place d'une voie publique et que la construction d'une voie publique se révèle néanmoins indispensable dans l'intérêt général du trafic, l'autorité compétente, selon l'article 17, peut, la commune entendue, décider de la suppression ou du maintien du moyen de transport public. En cas de maintien du moyen de transport public, les dispositions de la loi sur les transports publics sont applicables.
-
-<sup>2</sup> Lorsqu'une voie publique cantonale existante et un moyen de transport public existant appartenant à une commune sont maintenus et que les deux moyens de liaison à la plaine s'avèrent néanmoins indispensables dans l'intérêt général du trafic, la commune concernée demeure propriétaire du moyen de transport public. Dans ce cas, l'autorité compétente selon l'article 17 peut octroyer à la commune les indemnités et les aides financières prévues par la loi sur les transports publics.
-
-<sup>2</sup> Dès l'entrée en vigueur de la présente loi, toutes les dispositions contraires à celle-ci sont abrogées, notamment:
-
-- a) la loi du 3 février 1975 sur l’encouragement des entreprises de transports publics;
-
-- b) le décret du 15 novembre 1995 concernant l'application de la loi fédérale sur les chemins de fer.
+- a) du nombre d’habitants résidents permanents, et
+- b) du nombre d’habitants en résidences secondaires, pondéré par la prise en compte d’un taux d’utilisation moyen des résidences secondaires de 30 pour cent et d’un taux d’occupation moyen de 2 personnes par résidence secondaire, et
+- c) du nombre de touristes, pondéré par la prise en compte d’un taux de remplissage moyen de 50 pour cent des lits de l’hôtellerie et de la parahôtellerie.
 
 #### Art. 21
 
-**Entrée en vigueur**
+**Financement des coûts d’exploitation non couverts planifiés**
 
-<sup>1</sup> La présente loi est soumise au référendum facultatif.
+<sup>1</sup> Les communes concernées prennent en charge les coûts non couverts planifiés des entreprises de transport.
 
-<sup>2</sup> Le Conseil d'Etat fixe la date de l'entrée en vigueur de la présente loi.
+<sup>2</sup> L’Etat peut participer au financement communal de l’alinéa 1 à raison de:
 
-Ainsi adopté en deuxièmes débats au Grand Conseil, à Sion, le 28 septembre 1998.
+- a) 30 pour cent pour le trafic d’agglomération;
+- b) 30 pour cent pour le trafic urbain.
 
-Le président du Grand Conseil: François Gay Les secrétaires: Grégoire Dayer, Hans-Peter Constantin
+<sup>3</sup> L’Etat peut participer au financement communal de l’alinéa 1 aux conditions suivantes:
 
-**Entrée en**
+- a) le détenteur de la concession doit soumettre le projet d’offre de prestations et de tarification au service;
+- b) le service doit valider les prestations du projet d’offre soumis en tenant compte des directives biannuelles pour la commande de l’offre édictées par ledit service, et
+- c) le détenteur de la concession doit présenter les comptes prévisionnels dans le délai fixé dans les directives biannuelles édictées par la Confédération pour la commande de l’offre du trafic régional.
 
-### Intitulé et modifications Publication
+<sup>4</sup> La présentation du résultat, en matière de subventionnement, est faite en application, par analogie, des principes prévus par la législation fédérale.
 
-vigueur RO/VS 1999, 6 et
+## 3 Mobilité douce quotidienne
 
-**1.06.1999**
+#### Art. 22
 
-**1.01.2010**
+**Définition**
 
-<sup>1</sup> Nouvelle teneur selon l'art. 29 de la loi sur la BO No 3/2009 politique régionale du 12.12.2008
+<sup>1</sup> Au sens de la présente loi, on entend par mobilité douce quotidienne l’ensemble des déplacements réalisés avec des moyens de transport sans moteur à combustion, notamment le trafic piéton (mobilité piétonne) et le trafic deux-roues, avec ou sans assistance électrique (mobilité cyclable).
 
-**51/2009**
+<sup>2</sup> La mobilité douce quotidienne, liée aux activités professionnelles et scolaires et au pendularisme, se distingue de la mobilité douce dite de loisirs, qui fait l’objet d’une législation spéciale.
 
-**1.01.2011**
+#### Art. 23
 
-<sup>2</sup> Nouvelle teneur selon le ch. II/9 de la loi BO No 28/2010 concernant la mise en oeuvre de la réforme de la péréquation financière et de la répartition de tâches entre la Confédération, le canton et les communes du 16.06.2010
+**Réseau cantonal de mobilité cycliste quotidienne**
 
-**1.01.2012**
+<sup>1</sup> Le service compétent développe et entretient le réseau cantonal de mobilité cycliste quotidienne.
 
-<sup>3</sup> Nouvelle teneur selon ch. II/16 de la loi BO No 38/2011 concernant la deuxième étape de la mise en oevre de la réforme de la pérequation financière et de la répartition des tâches entre la Confédération, le canton et les communes du 15.09.2011
+<sup>2</sup> Les dispositions de la loi sur les routes s’appliquent par analogie en la matière, notamment s’agissant de l’approbation, de la signalisation et de l’appel à contribution pour la route cantonale Saint-Gingolph ‒ Oberwald.
 
-## Annexe I
+<sup>3</sup> Les aménagements cyclables planifiés doivent être réalisés au plus tard lors de la réalisation de projets d'exécution routiers.
 
-### Répartition entre canton et communes de la part cantonale de l'aide
+<sup>4</sup> Le réseau de voies cyclables comprend les liaisons routières interconnectées, intercommunales et continues destinées aux cyclistes.
 
-financière pour l'exploitation des transports publics<sup>2</sup>
+<sup>5</sup> Les zones d’étranglement ou de danger peuvent bénéficier de parcours de déviation nouveaux. Ces élargissements et aménagements sont conçus de manière à permettre la cohabitation entre tous les types d’utilisateurs doux.
 
-La part cantonale à l'aide financière pour l'exploitation des transports publics se répartit en fonction du mode de transport et de son importance selon les modalités suivantes:
+#### Art. 23a
 
-- a) Chemins de fer, transports publics d’importance intercantonale et/ou transfrontalière:
+**Réseau de mobilité piétonne quotidienne**
 
-canton 86% ensemble des communes du canton 7% communes desservies 7% b) Transports publics d’importance régionale:
+<sup>1</sup> Les communes sont compétentes pour planifier, développer et entretenir un réseau de mobilité quotidienne piétonne au sens de la législation fédérale en la matière, cas échéant en collaboration avec le service.
 
-canton 86% communes de la région 7% communes desservies 7% c) Transports publics d’agglomération:
+<sup>2</sup> Les dispositions cantonales de la loi sur les routes s'appliquent par analogie en la matière, s'agissant notamment de l'approbation des plans, de la signalisation et de l'entretien.
 
-canton 15% communes de la région 15% communes desservies 70%
+<sup>3</sup> Les réseaux pour piétons homologués peuvent être réexaminés, au besoin, tous les 20 ans.
+
+#### Art. 24
+
+**Subventions d’investissement des infrastructures communales**
+
+<sup>1</sup> L’Etat peut octroyer des subventions aux communes pour l'élaboration de plan de mobilité et la réalisation des infrastructures destinées à la mobilité douce quotidienne et au stationnement.
+
+<sup>2</sup> Le montant de la subvention peut s’élever jusqu’à 50 pour cent du montant des coûts à la charge de la commune.
+
+<sup>3</sup> L’octroi de la subvention dépend de l’intérêt cantonal, de l’importance de l’itinéraire et du montant de l’investissement.
+
+#### Art. 24a
+
+**Collaboration avec des tiers**
+
+<sup>1</sup> L’Etat peut collaborer avec des organisations privées spécialisées pour assurer la planification, l’aménagement et l’entretien des réseaux de mobilité douce quotidienne et fournir des informations sur ceux-ci.
+
+#### Art. 25
+
+**Actions de promotion**
+
+<sup>1</sup> L’Etat peut, dans les limites budgétaires, mener ou coordonner des actions de promotion de la mobilité douce quotidienne.
+
+<sup>2</sup> L’Etat peut, dans les limites budgétaires, soutenir des actions de promotion des tiers qui exercent l’activité dans le domaine de mobilité douce quotidienne.
+
+<sup>3</sup> Est considérée comme action de promotion de la mobilité douce quotidienne tout encouragement à l’utilisation de la mobilité douce quotidienne ou encore les plans de mobilité quotidienne communaux ou intercommunaux.
+
+<sup>4</sup> Les actions de promotion sont évaluées selon les critères du développement durable.
+
+## 4 Mobilité d’intérêt particulier
+
+#### Art. 26
+
+**Définition de la mobilité d’intérêt particulier**
+
+<sup>1</sup> Est considéré comme de la mobilité d’intérêt particulier le transport de voyageurs, de biens et/ou de marchandises répondant aux objectifs du développement durable et reconnu comme tel par décision du Conseil d’Etat, notamment la mobilité touristique.
+
+<sup>2</sup> Le Conseil d’Etat peut déléguer la compétence précitée au service.
+
+#### Art. 27
+
+**Subventions d’investissement et d’exploitation**
+
+<sup>1</sup> L’Etat peut octroyer des subventions d’investissement, en lien avec les infrastructures d’intérêt particulier, à des institutions publiques, des entreprises de transport ou à des tiers dont la tâche est reconnue d’intérêt particulier.
+
+<sup>2</sup> L’Etat peut octroyer des subventions d’exploitation à des institutions publiques, des entreprises de transport ou à des tiers dont la tâche est reconnue d’intérêt particulier.
+
+<sup>3</sup> Ces subventions peuvent s’élever jusqu’à 75 pour cent du montant des coûts à la charge du requérant, à l’exception du transport des marchandises et du trafic intercantonal ou international qui peuvent être subventionnés jusqu’à 100 pour cent.
+
+#### Art. 27a
+
+**Synergies**
+
+<sup>1</sup> L’Etat encourage les synergies entre le trafic régional et la mobilité d’intérêt particulier.
+
+#### Art. 28
+
+**Actions de promotion**
+
+<sup>1</sup> L’Etat peut, dans les limites budgétaires, mener ou coordonner des actions de promotion de la mobilité d’intérêt particulier.
+
+<sup>2</sup> L’Etat peut, dans les limites budgétaires, soutenir des actions de promotion des tiers qui exercent l’activité dans le domaine de mobilité d’intérêt particulier.
+
+<sup>3</sup> Est considéré comme action de promotion de la mobilité d’intérêt particulier tout encouragement à l’utilisation de la mobilité considérée d’intérêt particulier, notamment les campagnes incitatives.
+
+<sup>4</sup> Ces actions sont évaluées selon les critères du développement durable.
+
+## 5 Compétences et procédure
+
+### 5.1 Compétences
+
+#### Art. 29
+
+**Grand Conseil**
+
+<sup>1</sup> Le Grand Conseil exerce les compétences suivantes:
+
+- a) il alloue annuellement, par la voie du budget ordinaire, les crédits nécessaires à l'application de la présente loi;
+- b) il traite périodiquement des objectifs de la politique cantonale des transports, ainsi que des investissements en matière de transports publics;
+- c) il fixe, par décision, les contributions cantonales au financement des investissements.
+
+#### Art. 30
+
+**Conseil d'Etat**
+
+<sup>1</sup> Le Conseil d'Etat a notamment les compétences suivantes:
+
+- a) il exerce la haute surveillance en matière de transports publics et de mobilité douce quotidienne relevant de la présente loi;
+- b) il définit les objectifs de la politique cantonale en matière de transports publics et de mobilité douce quotidienne;
+- c) il désigne les représentants de l'Etat dans la commission des transports et dans les organes d'administration ou de contrôle des entreprises de transport conformément à la loi cantonale sur les participations de l’Etat à des personnes morales et autres entités;
+- d) il édicte le règlement de mise en œuvre s’agissant de l’octroi des autorisations de transport de voyageurs permettant à des entreprises ou à des particuliers d'effectuer des courses non soumises à concession fédérale.
+
+#### Art. 31
+
+**Département**
+
+<sup>1</sup> Le département a notamment les compétences suivantes:
+
+- a) il élabore la planification cantonale des transports et l'information y relative;
+- b) il exerce toutes les attributions en matière de transport public et de mobilité douce quotidienne qui ne sont pas conférées par la loi à une autre autorité;
+- c) il conclut les conventions en matière de transports publics et de communautés tarifaires avec les entreprises de transport, la Confédération, les autres cantons et/ou les communes;
+- d) il délègue aux communes ou à des tiers certaines tâches d'entretien.
+
+#### Art. 32
+
+**Service**
+
+<sup>1</sup> Le service a notamment les compétences suivantes:
+
+- a) il donne, après consultation des communes, des services métiers concernés et des entités intéressées, le préavis du canton à l'autorité fédérale concernant:
+  - 1\. les demandes de concession relevant de l'autorité fédérale pour les lignes de transport par automobile, par bus et par bateau,
+  - 2\. les demandes de concession et d’approbation des plans relevant de l’autorité fédérale pour les installations de transport par câbles, pour la construction de chemins de fer ainsi que d’aérodromes;
+- b) il procède, d'entente avec la Confédération, les autres cantons et les régions concernés, à la commande et à l'analyse de l'offre des prestations de trafic régional;
+- c) il délivre, après consultation des communes, des services métiers concernés et des entités intéressées, les autorisations de construire et d'exploiter pour les installations qui en ont la nécessité, notamment pour les téléphériques et téléskis sans concession fédérale;
+- d) il délivre les autorisations de transport de voyageurs permettant à des entreprises ou à des particuliers d'effectuer des courses non soumises à concession fédérale;
+- e) il établit annuellement un tableau de répartition de la subvention cantonale d’exploitation en application de l’article 13 alinéa 2 et il fixe par une décision unique le montant de la contribution individuelle de toutes les communes en application de l'article 14 alinéa 1;
+- f) il édicte les directives biannuelles pour la commande de l’offre de trafic d’agglomération et urbain;
+- g) il établit et publie tous les 4 ans un tableau de la répartition du trafic global ainsi que de la part modale du trafic valaisan;
+- h) il développe et entretient le réseau cantonal de mobilité cycliste quotidienne.
+
+#### Art. 33
+
+**Régions de planification cantonales**
+
+<sup>1</sup> Les régions de planification sont définies par le Conseil d’Etat.
+
+<sup>2</sup> Chaque région de planification cantonale est représentée par deux personnes déléguées par les communes concernées, par un représentant de l’Union des transports publics Valais et par un représentant du service.
+
+<sup>3</sup> Les régions de planification se réunissent autant que cela est nécessaire, mais au moins une fois par année.
+
+<sup>4</sup> Le secrétariat de ces régions de planification est assuré par le service. Celui-ci peut être délégué sur mandat aux entités régionales.
+
+<sup>5</sup> Les régions de planification assurent la coordination entre le canton, les agglomérations et les communes dans le cadre de l'élaboration, la rationalisation et l'harmonisation de l'offre régionale des transports publics.
+
+<sup>6</sup> Les communes ou les agglomérations peuvent s'adresser au département pour la résolution de problèmes. Les régions de planification doivent en être informées au préalable.
+
+<sup>7</sup> Le service organise une séance annuelle de coordination par région linguistique.
+
+<sup>8</sup> Ces séances sont présidées par un représentant du service.
+
+#### Art. 34
+
+**Commission des transports**
+
+<sup>1</sup> La commission des transports (ci-après: la commission) est un organe consultatif, constituée par le Conseil d’Etat, qui nomme ses membres. Elle comprend notamment:
+
+- a) au maximum 2 représentants du département;
+- b) au maximum 1 représentant du département en charge de la formation;
+- c) au maximum 2 représentants des communes;
+- d) au maximum 4 représentants des milieux économiques et touristiques;
+- e) au maximum 1 représentant des associations de défense des transports publics;
+- f) au maximum 1 représentant des associations des personnes à mobilité réduite;
+- g) au maximum 1 représentant des associations de la mobilité douce;
+- h) au maximum 1 représentant des associations de protection de l'environnement;
+- i) au maximum 1 représentant des milieux syndicaux.
+
+<sup>2</sup> Les entreprises de transport sont invitées aux travaux de la commission en fonction des besoins.
+
+<sup>3</sup> La commission a les tâches suivantes:
+
+- a) elle élabore des propositions et donne son avis en matière de politique des transports publics et de mobilité douce quotidienne ainsi que sur les objectifs à atteindre;
+- b) elle donne son avis sur les propositions d'offres et d'horaires et examine les modifications et les adaptations nécessitant une coordination et une harmonisation interrégionale.
+
+<sup>4</sup> La commission se réunit au moins une fois par année.
+
+### 5.2 Procédure
+
+#### Art. 35
+
+**Voies de droit**
+
+<sup>1</sup> La loi sur la procédure et la juridiction administratives est applicable, dans la mesure où la procédure n’est pas réglée par les dispositions fédérales ou par celles des procédures décisives.
+
+## 6 Dispositions transitoires et finales
+
+#### Art. 36
+
+**Dispositions d’exécution**
+
+<sup>1</sup> Le Conseil d'Etat édicte les dispositions nécessaires à l'exécution de la présente loi.
+
+#### Art. 37
+
+**Dispositions transitoires**
+
+<sup>1</sup> Toutes les demandes pendantes n’ayant pas encore fait l’objet d’une décision de l’autorité compétente au moment de l’entrée en vigueur de la présente loi sont soumises au nouveau droit.
+
+<sup>2</sup> La participation du canton au déficit d’exploitation et aux investissements des aéroports d’importance cantonale demeure fixée à 50 pour cent, jusqu’à l’entrée en vigueur d’une loi cantonale spéciale.
+
+RCV RO/AGS 2023-034

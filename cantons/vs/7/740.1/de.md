@@ -1,381 +1,519 @@
 ---
 canton: VS
 number: "740.1"
-title: Gesetz über den öffentlichen Verkehr
-short: GöV
+title: Gesetz über den öffentlichen Verkehr und den Alltagslangsamverkehr
+short: GöVALV
 language: de
-version: 2012-01-01
-corrected: 2017-10-06
-version_adopted: 2011-09-15
+version: 2023-01-01
+version_adopted: 2022-09-15
 adopted: 2022-09-15
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/740.1"
-pdf: "https://lex.vs.ch/api/de/versions/283/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3199/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den öffentlichen Verkehr (GöV)
+# Gesetz über den öffentlichen Verkehr und den Alltagslangsamverkehr
 
-vom 28. September 1998
+(GöVALV)
+
+vom 15.09.2022 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 6, 31 und 69 der Kantonsverfassung;
+eingesehen das Bundesgesetz über die Luftfahrt vom 21. Dezember 1948 (LFG);
 
-eingesehen das Eisenbahngesetz vom 20. Dezember 1957, das am 24. März 1995 abgeändert wurde und dessen Ausführungsvorschriften;
+eingesehen das Eisenbahngesetz vom 20. Dezember 1957 (EBG);
+
+eingesehen das Bundesgesetz über Fuss- und Wanderwege vom 4. Oktober 1985 (FWG);
+
+eingesehen das Bundesgesetz über eine leistungsabhängige Schwerverkehrsabgabe vom 19. Dezember 1997 (SVAG);
+
+eingesehen das Bundesgesetz über Seilbahnen zur Personenbeförderung vom 23. Juni 2006 (SebG);
+
+eingesehen das Bundesgesetz über die zukünftige Entwicklung der Bahninfrastruktur vom 20. März 2009 (ZEBG);
+
+eingesehen das Bundesgesetz über die Personenbeförderung vom 20. März 2009 (PBG);
+
+eingesehen das Bundesgesetz über den Gütertransport durch Bahn- und Schifffahrtsunternehmen vom 25. September 2015 (GüTG);
+
+eingesehen die Artikel 31 und 37 fortfolgende der Kantonsverfassung;
 
 auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Zweck**
+**Geltungsbereich und Zweck**
 
-<sup>1</sup> Das vorliegende Gesetz soll wirtschaftlich und sozialpolitisch ein ausreichendes Angebot an Leistungen des öffentlichen Verkehrs gewährleisten.
+<sup>1</sup> Das vorliegende Gesetz ist im Rahmen der dem Kanton von der Bundesgesetzgebung überlassenen Kompetenzen auf den öffentlichen Verkehr, den Alltagslangsamverkehr und die Mobilität von besonderer Bedeutung anwendbar.
 
-<sup>2</sup> Es bezweckt die Wahrung und den Schutz der Umwelt und den rationellen Energieverbrauch sowie die angemessene und sinnvolle Raumordnung in Anwendung der einschlägigen eidgenössischen und kantonalen Weisungen.
+<sup>1<sup>bis</sup></sup> Der Kanton sorgt dafür, dass die Mobilitätsbedürfnisse im ganzen Kanton effizient, wirtschaftlich und umweltfreundlich durch ein vernetztes und optimal genutztes intermodales Verkehrssystem abgedeckt werden.
 
-<sup>3</sup> Zu diesem Zweck ermöglicht es dem Kanton:
+<sup>2</sup> Das vorliegende Gesetz hat zum Zweck, ein hochwertiges Leistungsangebot im öffentlichen Verkehr sowie die Förderung und Entwicklung des Alltagslangsamverkehrs zu gewährleisten. Dabei sind insbesondere die Prinzipien der Wirtschaftlichkeit, der Sicherheit, der Sozialpolitik und der Nachhaltigkeit, der Barrierefreiheit für Menschen mit Behinderung, die Anforderungen des Umweltschutzes, der rationellen und haushälterischen Boden- und Energienutzung, der sinnvollen Raumordnung sowie der gegenseitigen Ergänzung von öffentlichem Verkehr und Individualverkehr zu berücksichtigen sowie originelle und innovative Lösungen für den Alltagslangsamverkehr, insbesondere in Bergregionen, zu fördern.
 
-- a) Anreize zu schaffen für die Umlagerung des privaten Personen- und Güterverkehrs auf die Unternehmen des öffentlichen Verkehrs (nachstehend Transportunternehmung);
+<sup>3</sup> Insbesondere bezweckt das vorliegende Gesetz:
 
-- b) die wirtschaftliche Erschliessung der vom Hauptverkehr abgelegenen Bergdörfer und Talschaften zu unterstützen;
+- a) eine hochwertige Erschliessung zu gewährleisten, angepasst an die verschiedenen Raumtypologien des Kantonsgebiets;
+- b) die Verlagerung der Beförderung von Personen und Gütern vom motorisierten Individualverkehr auf den öffentlichen Verkehr und den Alltagslangsamverkehr zu fördern;
+- c) die Koordination zwischen den verschiedenen Akteuren im Bereich des Verkehrs, unter anderem des öffentlichen Verkehrs, des motorisierten Individualverkehrs und des Alltagslangsamverkehrs, zu verbessern und dies insbesondere bei:
+  - 1\. den Transportunternehmen, die über eine Personenbeförderungskonzession oder kantonale Bewilligung verfügen (nachstehend: Transportunternehmen),
+  - 2\. den Bestellern des Angebots im öffentlichen Verkehr, insbesondere Bund, Kanton und Gemeinden,
+  - 3\. den verschiedenen für den Alltagslangsamverkehr zuständigen Akteuren;
+- d) die Zusammenarbeit mit anderen Kantonen und benachbarten Ländern zu ermöglichen.
 
-- c) die Koordination zwischen den Transportunternehmungen einerseits und zwischen dem öffentlichen Verkehr und dem Individualverkehr andererseits zu verbessern;
+<sup>4</sup> Das vorliegende Gesetz setzt die Modalitäten und Bedingungen für kantonale Subventionen und Beteiligungen fest.
 
-- d) die aktive Zusammenarbeit mit den Nachbarkantonen und den benachbarten Ländern zu pflegen;
+<sup>5</sup> Das vorliegende Gesetz setzt die Modalitäten und Bedingungen für die Beitragserhebung bei den Gemeinden fest.
 
-- e) die Kompetenzen des Grossrates, des Staatsrates, des mit dem Verkehr betrauten Departements (nachstehend Departement), der sozioökonomischen Regionen, der Gemeinden und der Unternehmen in Sachen öffentlicher Verkehr zu präzisieren.
-
-<sup>4</sup> Es dient der Umsetzung des eidgenössischen Eisenbahngesetzes und seiner Ausführungsvorschriften.
-
-<sup>5</sup> Es will ebenfalls die Verwirklichung und Bewirtschaftung der Infrastrukturen unterstützen und fördern, die zur Erschliessung des Kantons im Bereich des öffentlichen Verkehrs und auf dem Luftweg notwendig sind.
+<sup>6</sup> Das vorliegende Gesetz setzt die Befugnisse und Zuständigkeiten des Grossen Rates, des Staatsrates, des für die Mobilität zuständigen Departements (nachstehend: Departement), der für die Mobilität zuständigen Dienststelle (nachstehend: Dienststelle), der Planungsregionen, der sozioökonomischen Regionen, der Agglomerationen, der Gemeinden und der Transportunternehmen fest.
 
 #### Art. 2
 
-**Grundsätze**
+**Dem Kanton vorbehaltene Rechte**
 
-Die Transportunternehmungen erstellen das Angebot und die Kostenplanrechnung für die gemeinsam vom Bund und Kanton bestellten Leistungen im Regionalverkehr und beteiligen sich nötigenfalls und auf Begehren des Departements an der Information der Regionen und Gemeinden.
+<sup>1</sup> Der Kanton legt in den Richtlinien des Regierungsprogramms die Grundsätze und Ziele seiner kurz-, mittel-, und langfristigen Mobilitätspolitik fest.
+
+<sup>2</sup> Er kann Subventionen, wie Abgeltungen oder Finanzhilfen, gewähren.
+
+<sup>3</sup> Er kann sich an Transportunternehmen beteiligen.
+
+<sup>4</sup> Er kann sich organisatorisch und finanziell an Tarifverbünden und an der Umsetzung anderer Tarifmassnahmen beteiligen, welche die Benutzung des öffentlichen Verkehrs unterstützen und fördern sollen.
+
+<sup>5</sup> Der Kanton kann Massnahmen zur Förderung des öffentlichen Verkehrs, des Alltagslangsamverkehrs und der Mobilität von besonderer Bedeutung durchführen, unterstützen oder koordinieren.
+
+<sup>6</sup> Der Kanton ist beauftragt, das kantonale Netz des Alltagsradverkehrs einzurichten. Er verwaltet die Einrichtung, die Signalisation, den Unterhalt und Erhalt des Netzes im ganzen Kanton in Zusammenarbeit mit den Gemeinden, insbesondere, wenn kommunale Verkehrswege betroffen sind. Bestimmte Unterhaltsaufgaben kann das Departement an die Gemeinden oder an Dritte delegieren. Die Delegation wird im Amtsblatt veröffentlicht.
+
+<sup>7</sup> Der Kanton erstellt den kantonalen Richtplan für den Alltagsradverkehr und bestimmt insbesondere:
+
+- a) das Alltagsradverkehrsnetz von kantonalem oder regionalem Interesse;
+- b) die zu erstellende Radinfrastruktur und ihre Koordination;
+- c) die intermodalen Verkehrsknotenpunkte und Hubs, die für den Alltagsradverkehr zugänglich sein müssen;
+- d) die Abstellmöglichkeiten für Zweiräder in der Nähe von intermodalen Verkehrsknotenpunkten und Hubs und die Einrichtungen im Zusammenhang mit deren Zugänglichkeit.
 
 #### Art. 3
 
-**Massnahmen**
+**Bewilligungen zur Personenbeförderung**
 
-<sup>1</sup> Der Kanton legt in den Richtlinien der Regierungspolitik auf kurze, mittlere und lange Sicht hin seine verkehrspolitischen Grundsätze und Zielsetzungen fest.
+<sup>1</sup> In Anwendung der eidgenössischen Bestimmungen erteilt der Kanton Bewilligungen, die Unternehmen oder Privatpersonen dazu ermächtigen, Fahrten durchzuführen, die nicht der eidgenössischen Konzessionspflicht unterstehen.
 
-<sup>2</sup> Er leistet den Transportunternehmungen, im Sinne der eidgenössischen Gesetzgebung, Abgeltungen, Beiträge und Darlehen für ihre Investitions- und Betriebskosten.
-
-<sup>3</sup> Er kann sich an Transportunternehmungen beteiligen.
-
-<sup>4</sup> Er kann sich organisatorisch und finanziell an Gründungen und am Betrieb von Tarifverbünden und weiteren Tarifmassnahmen beteiligen.
-
-### 2. Abschnitt: Massnahmen zur Förderung des öffentlichen Verkehrs
+<sup>2</sup> Der Staatsrat regelt das Vernehmlassungs- und Bewilligungsverfahren und setzt den Gebührentarif für dieses Verfahren fest.
 
 #### Art. 4
 
-**Gewährleistung des Angebots**
+**Subventionen**
 
-<sup>1</sup> Der Kanton umschreibt im Einvernehmen mit dem Bund, gegebenenfalls mit den anderen betroffenen Kantonen die Grundsätze, nach welchen sich das Angebot des öffentlichen Verkehrs ausrichten soll. Er legt die Angebots- und Tarifgestaltung sowie einen minimalen Auslastungs- und Kostendeckungsgrad fest und schliesst mit den Transportunternehmungen Angebotsvereinbarungen ab.
+<sup>1</sup> Subventionen werden durch Entscheid oder durch eine öffentlich-rechtliche Vereinbarung gewährt.
 
-**Leistungen oder**
-
-<sup>2</sup> Gemeinden, Private oder weitere Organisationen können mit den Transportunternehmungen zusätzliche Tariferleichterungsmassnahmen vereinbaren, sofern die ungedeckten Mehrkosten von den Antragstellern übernommen werden.
+<sup>2</sup> Subventionen werden innerhalb der Grenzen der verfügbaren Budgetmittel gewährt.
 
 #### Art. 5
 
-**Betriebsbeiträge**
+**Vorbehalt des Subventionsgesetzes**
 
-<sup>1</sup> Zur Sicherstellung des Leistungsangebotes nach Artikel 4, Absatz 1 leistet der Kanton den Transportunternehmungen des Regionalverkehrs nach Massgabe des Bundesrechts Abgeltungen.
-
-<sup>2</sup> Abgeltungen werden insbesondere geleistet für:
-
-- a) ungedeckte geplante Kosten,
-
-- b) vom Kanton bestellte Leistungen.
-
-<sup>3</sup> Er kann Finanzhilfen im Sinne der kantonalen Subventionsgesetzgebung für die Leistungen im Agglomerationsverkehr oder für weitere Leistungen gewähren, die für den Kanton oder für eine seiner Regionen eine gewisse Bedeutung haben.
+<sup>1</sup> Die Bestimmungen des vorliegenden Gesetzes gelten, soweit sie dem Subventionsgesetz nicht widersprechen. Darüber hinaus ergänzt das Subventionsgesetz das vorliegende Gesetz.
 
 #### Art. 6
 
-**Investitionsbeiträge**
+**Vorbehalt des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle**
 
-<sup>1</sup> Gemäss Bundesrecht gewährt der Kanton Darlehen und Finanzhilfen für die Finanzierung von Investitionen der Unternehmungen des öffentlichen Verkehrs.
+<sup>1</sup> Für Subventionen, die nach dem vorliegenden Gesetz gewährt werden, ist das Gesetz über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle anwendbar.
 
-<sup>2</sup> Als Investitionen gelten namentlich Bauten, Ersetzungen und Ergänzungen von Anlagen und Einrichtungen und Anschaffungen von Fahrzeugen, welche dazu bestimmt sind:
+## 2 Öffentlicher Verkehr
 
-- a) die Wirtschaftlichkeit und die Leistungsfähigkeit zu erhöhen;
-
-- b) die Sicherheit des Betriebs sicherzustellen und zu verbessern;
-
-- c) den Behinderten den Zugang zu erleichtern.
-
-<sup>3</sup> Unter der Berücksichtigung der Verhältnismässigkeit, sind die Fahrzeuge und Anlagen so zu gestalten, dass ihre Benützung auch den Behinderten offen steht.
+### 2.1 Regionaler Personenverkehr
 
 #### Art. 7
 
-**Voraussetzungen**
+**Begriff**
 
-<sup>1</sup> Abgeltungen, Darlehen und Finanzhilfen werden Transportunternehmungen nur soweit gewährt, als diese Leistungen im Rahmen der Grundsätze und Massnahmen nach Artikel 2 und 3 erbringen, eine effiziente Betriebsführung ausweisen und angemessene und anerkannte Tarife erheben.
+<sup>1</sup> Als regionaler Personenverkehr (nachstehend: Regionalverkehr) im Sinne des vorliegenden Gesetzes gilt der Personenverkehr innerhalb einer Region, einschliesslich der Grunderschliessung von Ortschaften, sowie der Personenverkehr zwischen einer Region und benachbarten Regionen sowie zwischen einer Region und Nachbarkantonen oder Nachbarländern.
 
-<sup>2</sup> Der Kanton kann diese Gewährung davon abhängig machen, dass Transportunternehmungen, Angebote, Kostenplanrechnungen und Buchhaltung vorlegen, gemäss den Anforderungen, die in der Bundesgesetzgebung vorgesehen sind, insbesondere im Bereich der Anstellungsbedingungen des Personals.
+<sup>2</sup> Der Regionalverkehr erfüllt eine Erschliessungsfunktion, wenn er die Verbindung ganzjährig bewohnter Ortschaften sicherstellt.
 
 #### Art. 8
 
-**Weitere Leistungen**
+**Angebot des Regionalverkehrs**
 
-<sup>1</sup> Der Kanton kann, ausnahmsweise, an Transportunternehmungen für weitere Leistungen, die er bestellt oder anerkennt, Finanzhilfen im Sinne der kantonalen Subventionsgesetzgebung gewähren, namentlich für touristische Transporte und/oder Gütertransporte sowie an interkantonale und internationale Verbindungen, die nicht ganzjährig betrieben werden.
+<sup>1</sup> Der Kanton ist verantwortlich für die Planung des Angebots des Regionalverkehrs. Er tut dies in Koordination mit dem Bund, gegebenenfalls mit anderen Kantonen und/oder beteiligten Partnern.
 
-<sup>2</sup> Er kann diese Hilfen von den vorgeschriebenen Buchhaltungsgrundsätzen abhängig machen.
+<sup>2</sup> In Zusammenarbeit mit den beteiligten Institutionen kann der Kanton regionale, kantonale, interkantonale oder internationale Planungskonzepte ausarbeiten, die der regionalen Angebotsplanung als Grundlage für deren Festlegung und Entwicklung dienen.
 
-<sup>3</sup> Zwecks Förderung des öffentlichen Verkehrs führt, unterstützt oder koordiniert der Kanton öffentliche Informationskampagnen, wenn sie den Aufgabenbereich der Transportunternehmungen überschreiten.
+<sup>3</sup> Die Besteller des Angebots des Regionalverkehrs definieren in Richtlinien die Modalitäten zur Ausarbeitung des Angebots sowie den Mindestgrad der Nachfrage und der Kostendeckung.
+
+<sup>4</sup> Der Kanton schliesst mit den Transportunternehmen öffentlich-rechtliche Vereinbarungen (nachstehend: Vereinbarung) ab, welche die Umsetzung des Angebots erlauben.
+
+<sup>5</sup> In Ergänzung zum vom Kanton und vom Bundesamt für Verkehr genehmigten Angebot können Gemeinden oder Dritte mit den Transportunternehmen zusätzliche Leistungen oder Tariferleichterungsmassnahmen vereinbaren, sofern die Institution, welche die Leistungen oder Massnahmen in Anspruch nimmt, die ungedeckten Mehrkosten in vollem Umfang selbst trägt. Die zusätzlichen Leistungen oder Tariferleichterungsmassnahmen sind in der Vereinbarung aufzuführen.
 
 #### Art. 9
 
-**Bewilligungen von Personenbeförderungen**
+**Allgemeine Bedingungen für die Gewährung einer Subvention**
 
-<sup>1</sup> In Anwendung der eidgenössischen Bestimmungen betreffend die Automobilkonzessionen erteilt der Kanton die Bewilligungen, welche Unternehmungen oder Privatpersonen ermächtigen, gewerbsmässige Fahrten zu unternehmen, die nicht eidgenössischen Konzessionen unterstellt sind.
+<sup>1</sup> Der Kanton kann den Transportunternehmen Subventionen gewähren, sofern diese eine Leistung von öffentlichem Interesse im Bereich des öffentlichen Verkehrs erbringen, die vom Kanton bestellt worden ist.
 
-<sup>2</sup> Der Staatsrat regelt das Vernehmlassungs- und Bewilligungsverfahren.
+<sup>2</sup> Das ursprüngliche Dossier als Basis der Vereinbarung muss insbesondere Folgendes beinhalten:
 
-<sup>3</sup> Der Kanton erhebt für die Erteilung von Bewilligungen eine Gebühr zwischen 250 und 1000 Franken. Die Gebühren werden dem Landeskostenindex angepasst.
+- a) die Angebote, unter anderem bestehend aus den Planrechnungen, den Fahrplänen und den Tarifen;
+- b) die Ist-Rechnung.
 
-### 3. Abschnitt: Die Finanzierung des regionalen öffentlichen Verkehrs
+<sup>3</sup> Die Belege im ursprünglichen Dossier der Vereinbarung müssen die einschlägigen Anforderungen des Bundes erfüllen.
+
+<sup>4</sup> Das Transportunternehmen präsentiert die Planrechnungen innert der Frist, die in den jährlich herausgegebenen Vorgaben des Bundes zur Bestellung des Angebots im Regionalverkehr festgesetzt werden.
+
+<sup>5</sup> Unternehmen, die eine Subvention erhalten, können von der Subventionsbehörde insbesondere im Bereich der Tarifgestaltung oder des Betriebs zur Zusammenarbeit verpflichtet werden.
 
 #### Art. 10
 
-**Grundsätze**
+**Investitionssubventionen**
 
-<sup>1</sup> Bund und Kanton gelten den Transportunternehmungen aufgrund der Kostenplanrechnungen die anerkannten geplanten ungedeckten Kosten im Regionalverkehr gemäss den im eidgenössischen Eisenbahngesetz und in seinen Ausführungsvorschriften vorgesehenen Bestimmungen ab.
+<sup>1</sup> Nach Abzug der vom Bund geleisteten Beiträge kann der Kanton den Transportunternehmen Subventionen für die Finanzierung von Investitionen von bis zu 100 Prozent des verbleibenden Restbetrags gewähren.
 
-<sup>2</sup> Die Gemeinden beteiligen sich an den Abgeltungen des Regionalverkehrs und an der Finanzhilfe für den Betrieb des Agglomerationsverkehrs.
+<sup>2</sup> Als Investitionen gelten insbesondere:
 
-<sup>3</sup> Bund und Kanton können den Bahn-, Luftseilbahn-, Schiffahrt- und konzessionierten Automobilunternehmungen Investitionsbeiträge gewähren.
+- a) der Bau neuer Anlagen;
+- b) der Ersatz oder die Renovation bestehender Anlagen;
+- c) die Ergänzung von Anlagen und Einrichtungen;
+- d) Betriebsumstellungen;
+- e) die Gründung neuer Unternehmen, der Kauf von Unternehmen oder die Schuldübernahme.
 
-<sup>4</sup> Die Beteiligung des Kantons am Betriebsverlust und an den Investitionskosten der Flughäfen von kantonaler Bedeutung wird auf 50 Prozent festgelegt.
+<sup>3</sup> Die Investition muss einem der folgenden Zwecke dienen:
 
-<sup>5</sup> Der Grosse Rat bewilligt die jährlich benötigten Kredite für die Bezahlung der kantonalen Anteile auf dem Wege des ordentlichen Finanzhaushaltes.
+- a) dem Ausbau des Angebots im öffentlichen Verkehr;
+- b) der Steigerung der Effizienz;
+- c) der Aufrechterhaltung oder Erhöhung der Betriebssicherheit.
 
 #### Art. 11
 
-<sup>1,2,3</sup> Aufteilung zwischen Kanton und Gemeinden
+**Betriebssubventionen**
 
-<sup>1</sup> Der kantonale Anteil der Finanzhilfe für den Betrieb des Regionalverkehrs der vom Bund subventionierten Linien sowie des Agglomerationsverkehrs wird zwischen dem Kanton und den Gemeinden entsprechend der Transportart und ihrer Bedeutung gemäss der Tabelle im Anhang 1 zum vorliegenden Gesetz aufgeteilt. Diese Ansätze erfahren periodische Anpassungen durch den Grossen Rat aufgrund der Entwicklung der vom Bund festgelegten kantonalen Beteiligungen sowie anderer gesetzlicher oder struktureller Änderungen des Bundes oder des Kantons.
+<sup>1</sup> In Übereinstimmung mit dem Bundesrecht gewährt der Kanton Transportunternehmen Subventionen für die geplanten ungedeckten Kosten.
 
-<sup>1bis</sup> Für die vom Bund nicht subventionierten, aber vom Kanton anerkannten Linien kann gestützt auf Artikel 8 eine grundsätzlich auf höchstens 60 Prozent begrenzte kantonale Beteiligung gewährt werden.
+<sup>2</sup> Der Kanton kann Transportunternehmen Subventionen für geplante ungedeckte Kosten für Leistungen gewähren, die vom Bund nicht subventioniert werden, sofern diese vom Kanton und den Gemeinden anerkannt sind, und zwar in folgenden Fällen:
 
-<sup>2</sup> Das Departement wird mit der Aufteilung der Abgeltungen und Finanzhilfen zwischen dem Kanton und den Gemeinden, die sich an der Finanzierung der Leistungen im Regional- und Agglomerationsverkehr beteiligen, beauftragt.
+- a) Linien des Regionalverkehrs, die vom Bund nicht subventioniert werden, weil der vom Bund dem Kanton zur Verfügung gestellte Betrag ausgeschöpft ist;
+- b) Linien des Regionalverkehrs, die eines oder mehrere der Subventionskriterien des Bundes nicht erfüllen, wenn sie insbesondere der Erhaltung der Bevölkerung sowie der wirtschaftlichen und touristischen Entwicklung in einer Rand- und Bergregion dienen.
 
-<sup>3</sup> Unter Agglomerationsverkehr versteht man jenen Verkehr, welcher Agglomerationen und Städte im Sinne der Definition des Bundesamtes für Statistik erschliesst.
+<sup>3</sup> Die nach Absatz 2 dieses Artikels gewährte Subvention darf sich auf maximal 50 Prozent der geplanten ungedeckten Kosten belaufen.
 
 #### Art. 12
 
-<sup>3</sup> Interkommunale Aufteilung
+**Ausweis des Spartenerfolgs**
 
-<sup>1</sup> Die Aufteilung der kommunalen Beteiligungen erfolgt nach einer jährlich vom Departement zu erstellenden Tabelle, indem folgende Faktoren zu berücksichtigen sind:
-
-- a) Bevölkerungszahl zu zwei Dritteln;
-
-- b) aufgehoben
-
-- c) Verkehrsangebot (Anzahl Haltestellen x Anzahl Fahrten) zu einem Drittel.
-
-<sup>2</sup> Die kommunalen Beteiligungen werden den Gemeinden durch das Departement eröffnet.
+<sup>1</sup> Für die Subventionierung ist der Spartenerfolg in sinngemässer Anwendung der bundesrechtlichen Prinzipien auszuweisen.
 
 #### Art. 13
 
-**Beschwerde**
+**Beitragserhebung bei den Gemeinden**
 
-<sup>1</sup> Die Verfügungen betreffend die kommunalen Beteiligungen können beim Departement beanstandet werden.
+<sup>1</sup> Die Gemeinden beteiligen sich als Nutzniesserinnen der Leistungen im Regionalverkehr zu 25 Prozent an den Betriebssubventionen des Kantons nach Artikel 11 Absatz 1 und zu mindestens 50 Prozent an den Betriebssubventionen des Kantons gemäss Artikel 11 Absätze 2 und 3.
 
-<sup>2</sup> Der Beschwerdeentscheid wird vom Staatsrat gefällt und kann innert 30 Tagen seit seiner Eröffnung bei dem Kantonsgericht angefochten werden.
-
-### 4. Abschnitt: Zuständigkeiten
+<sup>2</sup> Die zuständige Behörde erstellt jährlich eine Tabelle der Aufteilung der kantonalen Betriebssubvention, aus welcher der Anteil des Kantons und der Anteil der Gemeinden hervorgeht.
 
 #### Art. 14
 
-**Grosser Rat**
+**Aufteilungsverfahren**
 
-Der Grosse Rat hat folgende Befugnisse:
+<sup>1</sup> Die zuständige Behörde setzt in einem einzigen Entscheid für alle Gemeinden die Höhe des Beitrags der einzelnen Gemeinde fest.
 
-- a) Er bewilligt jedes Jahr auf dem Weg des ordentlichen Finanzhaushaltes die zum Vollzug des vorliegenden Gesetzes erforderlichen Kredite.
+<sup>2</sup> Für die Linien des Regionalverkehrs, mit Ausnahme der Bahnlinien, erfolgt die Aufteilung des Betrags zulasten der Gemeinden nach der jeweiligen sozioökonomischen Region unter Berücksichtigung der Bevölkerungszahl jeder einzelnen Gemeinde und des in Artikel 16 definierten Koeffizienten für die Erschliessungsgüte.
 
-- b) Er behandelt periodisch die Zielsetzungen der dargelegten Verkehrspolitik und der Investitionen im öffentlichen Verkehr.
-
-- c) Er legt durch Beschluss die Kantonsbeiträge für die Finanzierung der Investitionen fest.
+<sup>3</sup> Für die Bahnlinien des Regionalverkehrs erfolgt die Aufteilung des Betrags zulasten der Gemeinden unter Berücksichtigung der Bevölkerungszahl jeder einzelnen Gemeinde und des in Artikel 17 definierten Koeffizienten für die Erschliessungsgüte der Bahn.
 
 #### Art. 15
 
-**Staatsrat**
+**Bevölkerungszahl**
 
-<sup>1</sup> Der Staatsrat übt die Oberaufsicht im öffentlichen Verkehr aus.
-
-<sup>2</sup> Er hat namentlich folgende Befugnisse:
-
-- a) er bestimmt periodisch die Zielsetzungen der kantonalen Verkehrspolitik sowie die Investitionen im öffentlichen Verkehr;
-
-- b) er unterbreitet die finanziellen Investitionsbeiträge dem Grossen Rat zum Entscheid, wenn diese im Kompetenzbereich dieser Instanz liegen;
-
-- c) er unterbreitet der Bundesbehörde die Stellungnahme des Kantons betreffend die Konzessionsgesuche für den Bau und den Betrieb von Eisenbahnen und Flugplätzen;
-
-- d) er schliesst in seinem Zuständigkeitsbereich unter Vorbehalt der Genehmigung des Grossen Rates mit dem Bund und den übrigen Kantonen Vereinbarungen betreffend den öffentlichen Verkehr und die Tarifverbünde ab;
-
-- e) er bezeichnet die Staatsdelegierten in den Verwaltungs- oder Unternehmungskontrollorganen;
-
-- f) er bezeichnet die Mitglieder der kantonalen Fahrplankommission;
-
-- g) er entscheidet über die finanziellen Beiträge im Rahmen seiner Befugnis.
+<sup>1</sup> Die für die Aufteilung berücksichtigte Bevölkerungszahl ist die Zahl der ständigen Wohnbevölkerung, die von der dafür zuständigen Behörde für den 31. Dezember des Vorjahres festgestellt worden ist.
 
 #### Art. 16
 
-**Departement**
+**Koeffizient für die Erschliessungsgüte des Regionalverkehrs, mit Ausnahme der Bahnlinien**
 
-Das Departement hat namentlich folgende Befugnisse:
+<sup>1</sup> Der Koeffizient für die Erschliessungsgüte, der anhand des Angebots im Regionalverkehr auf dem Gebiet der betreffenden Gemeinde ermittelt wird, beträgt:
 
-- a) es erarbeitet die kantonale Verkehrsplanung und die diesbezügliche Information;
-
-- b) es entscheidet über die finanziellen Beiträge im Rahmen seiner Befugnisse;
-
-- c) es übt alle verkehrsbedingten Amtsbefugnisse aus, die aufgrund der Gesetzgebung nicht einer anderen Behörde übertragen werden;
-
-- d) es unterbreitet der Bundesbehörde nach Anhörung der betroffenen Gemeinden, Dienst- und Fachstellen die Stellungnahme des Kantons betreffend:
-
-- 1\. die Konzessionsgesuche im Zuständigkeitsbereich der Bundesbehörde für die Automobil-, Bus- und Schiffverkehrslinien sowie für die Luftseilbahnanlagen;
-
-- 2\. die Bauvorhaben der Transportunternehmungen und Seilbahnen, deren Genehmigung im Zuständigkeitsbereich des Bundes liegt.
-
-- e) es erteilt, nach Anhörung der betroffenen Gemeinden, Dienst- und Fachstellen, die Bau- und Betriebsbewilligungen für die Luftseilbahnen und Skilifte ohne Bundeskonzession;
-
-- f) es führt in Einvernehmen mit dem Bund, den Kantonen und den betroffenen Regionen die Bestellung und die Untersuchung des Leistungsangebots durch und unterzeichnet die diesbezüglichen Vereinbarungen;
-
-- g) es konsultiert auf angemessene Art und Weise die Regionen und betroffenen Gemeinden, was die Leistungen des Regionalverkehrs angeht;
-
-- h) es erteilt die Transportbewilligungen, für die es zuständig ist, nach Massgabe der eidgenössischen Bestimmungen betreffend die Automobilkonzessionen;
-
-- i) es erstellt jährlich in Anwendung von Artikel 12 die Aufteilung der Gemeindeanteile.
+- a) 1,0 wenn in der betreffenden Gemeinde 28 oder mehr Kurspaare pro Werktag angeboten werden;
+- b) 0,8 wenn in der betreffenden Gemeinde zwischen 18 und 27 Kurspaare pro Werktag angeboten werden;
+- c) 0,6 wenn in der betreffenden Gemeinde zwischen 9 und 17 Kurspaare pro Werktag angeboten werden;
+- d) 0,4 wenn in der betreffenden Gemeinde 8 oder weniger Kurspaare pro Werktag und/oder ein On-Demand-Service angeboten werden.
 
 #### Art. 17
 
-<sup>1</sup> Regionen und Gemeinden
+**Koeffizient für die Erschliessungsgüte des regionalen Bahnverkehrs**
 
-<sup>1</sup> Als Verkehrsregionen gelten die drei Regionen, welche in Anwendung des kantonalen Gesetzes über Regionalpolitik gebildet wurden.
+<sup>1</sup> Der Koeffizient für die Erschliessungsgüte des regionalen Bahnverkehrs, der anhand des Regionalbahnangebots auf dem Gebiet der betreffenden Gemeinde ermittelt wird, beträgt:
 
-<sup>2</sup> Die Verkehrsregionen gewährleisten die Koordination zwischen den Gemeinden im Rahmen der Ausgestaltung, der Rationalisierung und der Harmonisierung des regionalen Angebots im öffentlichen Verkehr.
+- a) 1,0 wenn die betreffende Gemeinde auf ihrem Gebiet über mindestens eine regionale Bahnhaltestelle verfügt;
+- b) 0,5 wenn die betreffende Gemeinde auf ihrem Gebiet über keinen Bahnanschluss verfügt.
 
-<sup>3</sup> Für die Lösung von transportspezifischen Problemen, welche sie direkt betreffen, können sich die Gemeinden nach Orientierung der Region an das Departement wenden.
-
-<sup>4</sup> Jede Region bestimmt höchstens drei Vertreter(innen) für die kantonale Fahrplankommission.
+### 2.2 Agglomerations- und Ortsverkehr
 
 #### Art. 18
 
-**Kantonale Fahrplankommission**
+**Angebot des Agglomerations- und Ortsverkehrs**
 
-<sup>1</sup> Die kantonale Fahrplankommission ist ein Konsultativorgan, welches vom Staatsrat eingesetzt wird und umfasst namentlich:
-
-- a) zwei Vertreter(innen) des mit dem Verkehr betrauten Departements;
-
-- b) zwei Vertreter(innen) des mit der Erziehung betrauten Departements;
-
-- c) einen(e) Vertreter(in) der jeweiligen acht Regionen (Art. 17, Abs. 4);
-
-- d) fünf Vertreter(innen) aus Wirtschafts- und Tourismuskreisen;
-
-- e) zwei Vertreter(innen) der Verkehrs- und Umweltschutzverbände;
-
-- f) einen(e) Vertreter(in) aus Gewerkschaftskreisen.
-
-<sup>2</sup> Die Transportunternehmungen werden nach Bedarf zu den Arbeiten der Fahrplankommission beigezogen.
-
-<sup>3</sup> Die Kommission hat folgende Aufgaben:
-
-- a) sie erarbeitet Vorschläge und nimmt Stellung zur öffentlichen Verkehrspolitik sowie zu den gesetzten Zielen;
-
-- b) sie nimmt Stellung zur Schaffung, Abänderung oder Aufhebung von Linien des öffentlichen Verkehrs;
-
-- c) sie nimmt Stellung zu den Angebots- und Fahrplanvorschlägen und prüft die Abänderungen und Anpassungen, die eine interregionale Koordination und Harmonisierung erfordern.
-
-### 5. Abschnitt: Übergangs- und Schlussbestimmungen
+<sup>1</sup> Die Gemeinden sind verantwortlich für die Planung des Angebots im Agglomerations- und Ortsverkehr.
 
 #### Art. 19
 
-**Vollzugsbestimmungen**
+**Definition des Agglomerationsverkehrs**
 
-<sup>1</sup> Der Staatsrat erlässt die zum Vollzug des Gesetzes erforderlichen weiteren Bestimmungen.
-
-<sup>2</sup> Er erlässt ebenfalls eine Verordnung betreffend das Verfahren und die Kompetenzen für den Bau und Betrieb der nicht eidgenössisch konzessionierten Luftseilbahnen und Skilifte.
+<sup>1</sup> Als Agglomerationsverkehr im Sinne des vorliegenden Gesetzes gilt die Beförderung von Personen innerhalb einer Agglomeration.
 
 #### Art. 20
 
-**Änderung und Aufhebung von Erlassen**
+**Definition des Ortsverkehrs**
 
-<sup>1</sup> Werden die Artikel 128 und 136, Absätze 1 und 2 des Strassengesetzes vom 3. September 1965 wie folgt abgeändert:
+<sup>1</sup> Als Ortsverkehr im Sinne des vorliegenden Gesetzes gilt die Beförderung von Personen, mit der in einer Gemeinde mit mindestens 3’000 Einwohnergleichwerten oder in einem Verbund mit interkommunaler Zusammenarbeit aus mehreren Gemeinden die örtliche Feinerschliessung sichergestellt wird.
 
-#### Art. 128
+<sup>2</sup> Im Sinne des vorliegenden Gesetzes gilt als Einwohnergleichwert die Summe aus:
 
-Die Bestimmungen des kantonalen Gesetzes über den öffentlichen Verkehr (GöV) sind für den Bau und die Renovation der unter Artikel 127 erwähnten Verkehrsmittel anwendbar.
-
-#### Art. 136
-
-<sup>1</sup> Wurde anstelle eines Verkehrsweges ein öffentliches Transportmittel gebaut und erweist sich jedoch der Bau einer Strasse nachträglich aus Gründen des öffentlichen Verkehrs dennoch als notwendig, so kann die gemäss Artikel 17 zuständige Behörde nach Anhören der Gemeinde die Aufhebung oder den Weiterbestand des öffentlichen Transportmittels beschliessen. Im Fall des Weiterbestehens des öffentlichen Transportmittels sind die Bestimmungen des Gesetzes über den öffentlichen Verkehr anwendbar.
-
-<sup>2</sup> Im Falle des Bestehens eines kantonalen Verkehrsweges und eines im Eigentum der Gemeinde stehenden öffentlichen Transportmittels und wenn beide Werke als Verbindung zum Tal im Interesse des öffentlichen Verkehrs jedoch notwendig sind, bleibt die Gemeinde Eigentümerin der Transportanlage. Die gemäss Artikel 17 zuständige Behörde kann diesfalls der Gemeinde die vom Gesetz über den öffentlichen Verkehr vorgesehenen Abgeltungen und Finanzhilfen gewähren.
-
-<sup>2</sup> Alle diesem Gesetz widersprechenden Vorschriften sind nach dem Inkrafttreten dieses Gesetzes aufgehoben, namentlich:
-
-- a) das Gesetz vom 3. Februar 1975 über die Förderung von Unternehmen des öffentlichen Verkehrs;
-
-- b) das Dekret vom 15. November 1995 betreffend die Anwendung des eidgenössischen Eisenbahngesetzes.
+- a) der Anzahl dauerhaft ansässiger Einwohner, und
+- b) der Anzahl Einwohner in Zweitwohnungen, gewichtet mit einer durchschnittlichen Nutzungsrate von 30 Prozent der Zweitwohnungen und einer Belegungsrate von durchschnittlich 2 Personen pro Zweitwohnung, und
+- c) der Anzahl Touristen, gewichtet durch die Berücksichtigung einer durchschnittlichen Besetzungsrate von 50 Prozent der Betten in der Hotellerie und der Parahotellerie.
 
 #### Art. 21
 
-**Inkrafttreten**
+**Finanzierung der geplanten ungedeckten Betriebskosten**
 
-<sup>1</sup> Das vorliegende Gesetz untersteht dem fakultativen Referendum.
+<sup>1</sup> Die betreffenden Gemeinden tragen die geplanten ungedeckten Kosten der Transportunternehmen.
 
-<sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
+<sup>2</sup> Der Kanton kann sich folgendermassen an der kommunalen Finanzierung nach Absatz 1 beteiligen:
 
-So angenommen in zweiter Lesung im Grossen Rate zu Sitten, den 28.
+- a) mit 30 Prozent am Agglomerationsverkehr;
+- b) mit 30 Prozent am Ortsverkehr.
 
-September 1998.
+<sup>3</sup> Die Beteiligung des Kantons an der kommunalen Finanzierung nach Absatz 1 kann unter den folgenden Voraussetzungen erfolgen:
 
-Der Präsident des Grossen Rates: François Gay Die Schriftführer: Hans-Peter Constantin, Grégoire Dayer
+- a) der Konzessionsinhaber muss der Dienststelle das Angebotskonzept mit den Leistungen und der Tarifgestaltung vorlegen;
+- b) die Dienststelle muss die Leistungen des vorgelegten Angebotskonzepts unter Berücksichtigung der alle 2 Jahre von ihr herausgegebenen Richtlinien validieren, und
+- c) der Konzessionsinhaber muss die Planrechnungen innert der Frist präsentieren, die in den alle 2 Jahre herausgegebenen Richtlinien des Bundes zur Bestellung des Angebots im Regionalverkehr festgesetzt wird.
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>4</sup> Für die Subventionierung ist das Geschäftsergebnis in sinngemässer Anwendung der bundesrechtlichen Prinzipien auszuweisen.
 
-**1.06.1999**
+## 3 Alltagslangsamverkehr
 
-GS/VS 1999, 6 und
+#### Art. 22
 
-**1.01.2010**
+**Begriff**
 
-<sup>1</sup> Fassung gemäss Art. 29 des Gesetzes über die Abl. Nr. 3/2009 Regionalpolitik vom 12.12.2008
+<sup>1</sup> Als Alltagslangsamverkehr im Sinne des vorliegenden Gesetzes gilt jede Art von Mobilität, für die Verkehrsmittel benutzt werden, die keinen Verbrennungsmotor haben. Dazu gehören insbesondere der Fussgängerverkehr (Fussgängermobilität) und der Zweiradverkehr mit oder ohne elektrische Unterstützung (Zweiradmobilität).
 
-**51/2010**
+<sup>2</sup> Der Alltagslangsamverkehr, womit Berufs-, Schul- und Pendlerverkehr gemeint ist, unterscheidet sich vom sogenannten Freizeitlangsamverkehr, der Gegenstand einer Spezialgesetzgebung ist.
 
-**1.01.2011**
+#### Art. 23
 
-<sup>2</sup> Fassung gemäss Ziff II/9 des Gesetzes über Abl. Nr. 28/2010 die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 16.06.2010
+**Kantonales Netz des Alltagsradverkehrs**
 
-**1.01.2012**
+<sup>1</sup> Die zuständige Dienststelle entwickelt und unterhält das kantonale Netz des Alltagsradverkehrs.
 
-<sup>3</sup> Fassung gemäss Ziff. II/16 des Gesetzes über Abl. Nr. 38/2011 die zweite Etappe der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 15.09.2011
+<sup>2</sup> Die Bestimmungen des Strassengesetzes, insbesondere jene bezüglich der Genehmigung, der Signalisation und der Beitragsleistungspflicht für die Kantonsstrasse Saint-Gingolph–Oberwald, sind sinngemäss anwendbar.
 
-## Anhang 1
+<sup>3</sup> Geplante Radinfrastrukturen müssen spätestens im Rahmen der Ausführung von Strassenprojekten realisiert werden.
 
-### Aufteilung des kantonalen Anteils der Finanzhilfe für den Betrieb des
+<sup>4</sup> Das Radwegnetz umfasst zusammenhängende, gemeindeübergreifende und durchgehende Strassenverbindungen für Radfahrer.
 
-öffentlichen Verkehrs zwischen Kanton und Gemeinden<sup>2</sup>
+<sup>5</sup> Engpässe oder Gefahrenzonen können mit neuen Umfahrungswegen umgangen werden. Diese Erweiterungen und Anpassungen erfolgen im Sinne eines Miteinanders aller Langsamverkehrsteilnehmenden.
 
-Der kantonale Anteil der Finanzhilfe für den Betrieb des öffentlichen Verkehrs wird entsprechend der Transportart und ihrer Bedeutung wie folgt aufgeteilt:
+#### Art. 23a
 
-- a) Eisenbahnen, öffentlicher Verkehr von interkantonaler und/oder grenzüberschreitender Bedeutung:
+**Alltagsfussverkehrsnetz**
 
-Kanton 86% sämtliche Gemeinden des Kantons 7% bediente Gemeinden 7% b) öffentlicher Verkehr von regionaler Bedeutung:
+<sup>1</sup> Die Gemeinden sind dafür zuständig, ein Alltagsfussverkehrsnetz im Sinne der einschlägigen Gesetzgebung des Bundes zu planen, zu entwickeln und zu unterhalten, gegebenenfalls in Zusammenarbeit mit der Dienststelle.
 
-Kanton 86% Gemeinden der Region 7% bediente Gemeinden 7% c) öffentlicher Agglomerationsverkehr:
+<sup>2</sup> Die einschlägigen kantonalen Bestimmungen des Strassengesetzes sind analog anwendbar, insbesondere bezüglich der Genehmigung der Pläne, der Signalisation und des Unterhalts.
 
-Kanton 15% Gemeinden der Region 15% bediente Gemeinden 70%
+<sup>3</sup> Die homologierten Fussverkehrsnetze können bei Bedarf alle 20 Jahre überprüft werden.
+
+#### Art. 24
+
+**Investitionssubventionen der kommunalen Infrastrukturen**
+
+<sup>1</sup> Der Kanton kann den Gemeinden für die Erstellung eines Mobilitätsplans und die Realisierung von Infrastrukturen, die dem Alltagslangsamverkehr und diesbezüglichen Abstellflächen dienen, Subventionen gewähren.
+
+<sup>2</sup> Die Höhe der Subvention kann sich auf bis zu 50 Prozent der Kosten der Gemeinde belaufen.
+
+<sup>3</sup> Die Gewährung der Subvention hängt vom kantonalen Interesse, von der Bedeutung der Strecke und vom Investitionsbetrag ab.
+
+#### Art. 24a
+
+**Zusammenarbeit mit Dritten**
+
+<sup>1</sup> Der Kanton kann mit spezialisierten privaten Organisationen zusammenarbeiten, um die Planung, die Entwicklung und den Unterhalt von Alltagslangsamverkehrsnetzen sicherzustellen und Informationen darüber bereitzustellen.
+
+#### Art. 25
+
+**Fördermassnahmen**
+
+<sup>1</sup> Im Rahmen des Budgets kann der Kanton Massnahmen zur Förderung des Alltagslangsamverkehrs durchführen oder koordinieren.
+
+<sup>2</sup> Im Rahmen des Budgets kann der Kanton Förderaktionen von Dritten unterstützen, die im Bereich des Alltagslangsamverkehrs aktiv sind.
+
+<sup>3</sup> Als Fördermassnahme für den Alltagslangsamverkehr gilt jede Aktion, die eine Ankurbelung der Benutzung des Alltagslangsamverkehrs bildet oder auch kommunale oder interkommunale Alltagsmobilitätspläne.
+
+<sup>4</sup> Die Fördermassnahmen werden nach den Kriterien der Nachhaltigkeit bewertet.
+
+## 4 Mobilität von besonderer Bedeutung
+
+#### Art. 26
+
+**Begriff der Mobilität von besonderer Bedeutung**
+
+<sup>1</sup> Als Mobilität von besonderer Bedeutung gilt die Beförderung von Personen, Gütern und/oder Waren, die den Nachhaltigkeitszielen entspricht und durch Entscheid des Staatsrats als solche anerkannt worden ist, unter anderem der Tourismusverkehr.
+
+<sup>2</sup> Der Staatsrat kann die oben gennannte Kompetenz an die Dienststelle delegieren.
+
+#### Art. 27
+
+**Subvention von Investitions- und Betriebskosten**
+
+<sup>1</sup> Der Kanton kann Investitionssubventionen für die als von besonderer Bedeutung anerkannten Infrastrukturen, an öffentliche Institutionen, Transportunternehmen oder an Dritte vergeben, deren Wirken als von besonderer Bedeutung anerkannt worden ist.
+
+<sup>2</sup> Der Kanton kann Betriebssubventionen an öffentliche Institutionen, Transportunternehmen oder an Dritte vergeben, deren Wirken als von besonderer Bedeutung anerkannt worden ist.
+
+<sup>3</sup> Diese Subventionen können sich auf bis zu 75 Prozent der Kosten zulasten des Antragstellers belaufen mit Ausnahme des Güterverkehrs und des interkantonalen oder internationalen Verkehrs, die bis zu 100 Prozent subventioniert werden können.
+
+#### Art. 27a
+
+**Synergien**
+
+<sup>1</sup> Der Kanton fördert Synergien zwischen dem Regionalverkehr und der Mobilität von besonderer Bedeutung.
+
+#### Art. 28
+
+**Fördermassnahmen**
+
+<sup>1</sup> Im Rahmen des Budgets kann der Kanton Massnahmen zur Förderung der Mobilität von besonderer Bedeutung durchführen oder koordinieren.
+
+<sup>2</sup> Im Rahmen des Budgets kann der Kanton Fördermassnahmen von Dritten unterstützen, die im Bereich der Mobilität von besonderer Bedeutung aktiv sind.
+
+<sup>3</sup> Als Fördermassnahme für die Mobilität von besonderer Bedeutung gilt jede Aktion, die einen Anreiz zur Benutzung der Mobilität von besonderer Bedeutung bildet, namentlich Motivationskampagnen.
+
+<sup>4</sup> Diese Massnahmen werden nach den Kriterien der Nachhaltigkeit bewertet.
+
+## 5 Zuständigkeiten und Verfahren
+
+### 5.1 Zuständigkeiten
+
+#### Art. 29
+
+**Grosser Rat**
+
+<sup>1</sup> Der Grosse Rat hat folgende Zuständigkeiten:
+
+- a) er bewilligt jedes Jahr im Rahmen des ordentlichen Budgets die für den Vollzug des vorliegenden Gesetzes erforderlichen Kredite;
+- b) er behandelt periodisch die Zielsetzungen der dargelegten kantonalen Verkehrspolitik und der Investitionen im öffentlichen Verkehr;
+- c) er legt durch Beschluss die Kantonsbeiträge für die Finanzierung der Investitionen fest.
+
+#### Art. 30
+
+**Staatsrat**
+
+<sup>1</sup> Der Staatsrat hat insbesondere folgende Zuständigkeiten:
+
+- a) er übt die Oberaufsicht über den unter das vorliegende Gesetz fallenden öffentlichen Verkehr und Alltagslangsamverkehr aus;
+- b) er legt die Zielsetzung der kantonalen Politik für den öffentlichen Verkehr und den Alltagslangsamverkehr fest;
+- c) er bezeichnet die staatlichen Vertreter in der Verkehrskommission und in den Verwaltungs- oder Kontrollorganen der Verkehrsunternehmen gemäss dem kantonalen Gesetz über die Beteiligung des Staates an juristischen Personen und anderen Einrichtungen;
+- d) er erlässt das Ausführungsreglement für die Erteilung von Bewilligungen zur Personenbeförderung, die Unternehmen oder Privatpersonen zur Durchführung von Fahrten ermächtigen, die nicht der eidgenössischen Konzessionspflicht unterstehen.
+
+#### Art. 31
+
+**Departement**
+
+<sup>1</sup> Das Departement hat insbesondere folgende Zuständigkeiten:
+
+- a) es erarbeitet die kantonale Verkehrsplanung und die diesbezügliche Information;
+- b) es übt alle Befugnisse in Bezug auf den öffentlichen Verkehr und den Alltagslangsamverkehr aus, die aufgrund der Gesetzgebung nicht einer anderen Behörde übertragen werden;
+- c) es schliesst die Vereinbarungen im öffentlichen Verkehr und über die Tarifverbünde mit den Transportunternehmen, dem Bund, den anderen Kantonen und/oder den Gemeinden ab;
+- d) es delegiert bestimmte Aufgaben des Unterhalts an die Gemeinden oder an Dritte.
+
+#### Art. 32
+
+**Dienststelle**
+
+<sup>1</sup> Die Dienststelle hat insbesondere folgende Zuständigkeiten:
+
+- a) sie unterbreitet der Bundesbehörde nach Anhörung der Gemeinden, betreffenden Fachstellen und interessierten Kreise die Stellungnahme des Kantons betreffend:
+  - 1\. die Konzessionsgesuche im Zuständigkeitsbereich der Bundesbehörde für die Automobil-, Bus- und Schiffverkehrslinien,
+  - 2\. die Konzessions- und Plangenehmigungsgesuche für die Seilbahnanlagen und für Eisenbahn- sowie Flugplatzbauten, die im Zuständigkeitsbereich der Bundesbehörde liegen;
+- b) sie führt im Einvernehmen mit dem Bund, den anderen Kantonen und den betreffenden Regionen die Bestellung und Prüfung des Leistungsangebots im Regionalverkehr aus;
+- c) sie erteilt nach Anhörung der Gemeinden, betreffenden Fachstellen und interessierten Kreise die Bau- und Betriebsbewilligungen für Anlagen, insbesondere für Gondelbahnen und Skilifte, die keine Bundeskonzession benötigen, aber bewilligungspflichtig sind;
+- d) sie erteilt die Bewilligungen zur Personenbeförderung, die Unternehmen oder Privatpersonen zur Durchführung von Fahrten ermächtigen, die nicht der eidgenössischen Konzessionspflicht unterstehen;
+- e) sie erstellt in Anwendung von Artikel 13 Absatz 2 jährlich eine Tabelle mit der Aufteilung der kantonalen Betriebssubvention und legt in Anwendung von Artikel 14 Absatz 1 in einem einzigen Entscheid die Höhe des Beitrags der einzelnen Gemeinden fest;
+- f) sie gibt alle 2 Jahre Richtlinien für die Bestellung des Angebots im Agglomerations- und Ortsverkehr heraus;
+- g) sie erstellt und veröffentlicht alle 4 Jahre eine Tabelle mit der Verteilung des Gesamtverkehrs sowie des Modalanteils des Walliser Verkehrs;
+- h) sie entwickelt und unterhält das kantonale Netz des Alltagsradverkehrs.
+
+#### Art. 33
+
+**Kantonale Planungsregionen**
+
+<sup>1</sup> Die Planungsregionen werden vom Staatsrat festgelegt.
+
+<sup>2</sup> Jede kantonale Planungsregion wird vertreten durch zwei Delegierte der betreffenden Gemeinden, einen Vertreter des Verbands öffentlicher Verkehr Wallis und einen Vertreter der Dienststelle.
+
+<sup>3</sup> Die Planungsregionen treffen sich so oft wie nötig, jedoch mindestens einmal im Jahr.
+
+<sup>4</sup> Das Sekretariat der Planungsregionen wird von der Dienststelle übernommen. Es kann im Auftrag an die regionalen Institutionen delegiert werden.
+
+<sup>5</sup> Die Planungsregionen gewährleisten die Koordination zwischen dem Kanton, den Agglomerationen und den Gemeinden bei der Ausarbeitung, der Rationalisierung und der Harmonisierung des regionalen Angebots im öffentlichen Verkehr.
+
+<sup>6</sup> Die Gemeinden oder Agglomerationen können sich für die Lösung von Problemen an das Departement wenden. Die Planungsregionen müssen vorgängig darüber informiert werden.
+
+<sup>7</sup> Die Dienststelle organisiert jährlich eine Koordinationssitzung pro Sprachregion.
+
+<sup>8</sup> Diese Sitzungen werden durch einen Vertreter der Dienststelle präsidiert.
+
+#### Art. 34
+
+**Verkehrskommission**
+
+<sup>1</sup> Die Verkehrskommission (nachstehend: Kommission) ist ein beratendes Organ, dessen Mitglieder vom Staatsrat ernannt werden. Sie besteht insbesondere aus:
+
+- a) maximal 2 Vertretern des Departements;
+- b) maximal 1 Vertreter des für Bildung zuständigen Departements;
+- c) maximal 2 Vertretern der Gemeinden;
+- d) maximal 4 Vertretern aus Wirtschafts- und Tourismuskreisen;
+- e) maximal 1 Vertreter von Interessenverbänden des öffentlichen Verkehrs;
+- f) maximal 1 Vertreter von Interessenverbänden für Personen mit eingeschränkter Mobilität;
+- g) maximal 1 Vertreter von Interessenverbänden des Langsamverkehrs;
+- h) maximal 1 Vertreter von Umweltschutzverbänden;
+- i) maximal 1 Vertreter von Gewerkschaften.
+
+<sup>2</sup> Die Transportunternehmen werden bei Bedarf zu den Beratungen der Kommission eingeladen.
+
+<sup>3</sup> Die Kommission hat folgende Aufgaben:
+
+- a) sie erarbeitet Vorschläge und nimmt Stellung zu Politik und Zielsetzungen im öffentlichen Verkehr und im Alltagslangsamverkehr;
+- b) sie nimmt Stellung zu den Angebots- und Fahrplanvorschlägen und prüft die Abänderungen und Anpassungen, die einer regionenübergreifenden Koordination und Harmonisierung bedürfen.
+
+<sup>4</sup> Die Kommission tritt mindestens einmal im Jahr zusammen.
+
+### 5.2 Verfahren
+
+#### Art. 35
+
+**Rechtsmittel**
+
+<sup>1</sup> Das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege ist anwendbar, sofern das Verfahren nicht durch die Bestimmungen des Bundesrechts oder des massgebenden Verfahrens geregelt wird.
+
+## 6 Übergangs- und Schlussbestimmungen
+
+#### Art. 36
+
+**Vollzugsbestimmungen**
+
+<sup>1</sup> Der Staatsrat erlässt die zum Vollzug des vorliegenden Gesetzes notwendigen Bestimmungen.
+
+#### Art. 37
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Alle hängigen und noch nicht von den zuständigen Behörden entschiedenen Gesuche unterliegen mit dem Inkrafttreten des vorliegenden Gesetzes den neuen Gesetzesbestimmungen.
+
+<sup>2</sup> Die Beteiligung des Kantons am Betriebsverlust und an den Investitionskosten der Flughäfen von kantonaler Bedeutung bleibt bis zum Inkrafttreten eines besonderen kantonalen Gesetzes auf 50 Prozent festgelegt.
+
+CSW RO/AGS 2023-034
