@@ -3,31 +3,38 @@ sr: "193.9"
 title: Bundesgesetz vom 19. Dezember 2003 über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-253-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2004-253-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte
 
-vom 19. Dezember 2003 (Stand am 1. Januar 2022)
+vom 19. Dezember 2003 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf Artikel 54 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 23. Oktober 2002[^ingress-2],
+gestützt auf die Artikel 54 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 23. Oktober 2002[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [<sup>SR</sup> <sup>101</sup>](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [<sup>BBl</sup> <sup>2002</sup> 7611](https://fedlex.data.admin.ch/eli/fga/2002/1222)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+[^ingress-3]: [<sup>BBl</sup> <sup>2002</sup> 7611](https://fedlex.data.admin.ch/eli/fga/2002/1222)
+
+## 1. Abschnitt: Gegenstand
+
+[^sec1-1]
+
+[^sec1-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 1
 
-**Gegenstand**
+**…[^1-1]**
 
 <sup>1</sup> Dieses Gesetz regelt aussenpolitische Massnahmen des Bundes zur zivilen Friedensförderung und zur Stärkung der Menschenrechte.
 
@@ -35,32 +42,44 @@ beschliesst:
 
 Vorbehalten bleiben Massnahmen gemäss:
 
-- a. Bundesgesetz vom 19. März 1976[^1-1] über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe;
-- b.[^1-2] Bundesgesetz vom 30. September 2016[^1-3] über die Zusammenarbeit mit den Staaten Osteuropas;
-- c. Bundesgesetz vom 3. Februar 1995[^1-4] über die Armee und die Militärverwaltung.
+- a. Bundesgesetz vom 19. März 1976[^1-2] über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe;
+- b.[^1-3] Bundesgesetz vom 30. September 2016[^1-4] über die Zusammenarbeit mit den Staaten Osteuropas;
+- c. Bundesgesetz vom 3. Februar 1995[^1-5] über die Armee und die Militärverwaltung.
 
-[^1-1]: [SR 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
-[^1-2]: Fassung gemäss Art. 19 Ziff. 1 des BG vom 30. Sept. 2016 über die Zusammenarbeit mit den Staaten Osteuropas, in Kraft vom 1. Juni 2017 bis zum 31. Dez. 2024 ([AS 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [BBl 2016 2333](https://fedlex.data.admin.ch/eli/fga/2016/516)).
-[^1-3]: [SR 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
-[^1-4]: [<sup>SR</sup> <sup>510.10</sup>](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+<sup>3</sup> Dieses Gesetz regelt weiter den Status, die Finanzierung, die Aufgaben und die Organisation der Nationalen Menschenrechtsinstitution (NMRI) der Schweiz.[^1-6]
+
+[^1-1]: Aufgehoben durch Ziff. I des BG vom 1. Okt. 2021, mit Wirkung seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+[^1-2]: [SR 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
+[^1-3]: Fassung gemäss Art. 19 Ziff. 1 des BG vom 30. Sept. 2016 über die Zusammenarbeit mit den Staaten Osteuropas, in Kraft vom 1. Juni 2017 bis zum 31. Dez. 2024 ([AS 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [BBl 2016 2333](https://fedlex.data.admin.ch/eli/fga/2016/516)).
+[^1-4]: [SR 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
+[^1-5]: [<sup>SR</sup> <sup>510.10</sup>](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^1-6]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
+## 2. Abschnitt: Zivile Friedensförderung und Stärkung der Menschenrechte im Bereich der Aussenpolitik
+
+[^sec2-1]
+
+[^sec2-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 2
 
 **Ziele**
 
-Mit den Massnahmen nach diesem Gesetz will der Bund:
+Mit den aussenpolitischen Massnahmen nach Artikel 3 will der Bund:[^2-1]
 
 - a. zur Prävention, Entschärfung oder Lösung von Gewaltkonflikten beitragen, namentlich durch Vertrauensbildung, Vermittlung und friedensbildende Aktivitäten nach Beendigung von gewaltsamen Auseinandersetzungen sowie durch die Förderung des humanitären Völkerrechts;
 - b. zur Stärkung der Menschenrechte beitragen, indem er die bürgerlichen, politischen, wirtschaftlichen, sozialen und kulturellen Rechte von Personen oder Personengruppen fördert;
 - c. demokratische Prozesse fördern.
 
+[^2-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
 #### Art. 3
 
-**Massnahmen**
+**Aussenpolitische Massnahmen[^3-1]**
 
 <sup>1</sup>
 
-Der Bund kann Finanzhilfen leisten und andere Massnahmen ergreifen, wie:
+Der Bund kann im Bereich der Aussenpolitik Finanzhilfen leisten und andere Massnahmen ergreifen, wie:[^3-2]
 
 - a. einmalige oder wiederkehrende Beiträge ausrichten;
 - b. Sachleistungen erbringen;
@@ -72,35 +91,44 @@ Der Bund kann Finanzhilfen leisten und andere Massnahmen ergreifen, wie:
 
 <sup>3</sup> Die Massnahmen können im Rahmen multilateraler oder bilateraler Bestrebungen sowie autonom durchgeführt werden.
 
+[^3-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+[^3-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
 #### Art. 4
 
-**Finanzierung**
+**Finanzierung**[^4-1]
 
-Die Mittel für die Massnahmen nach diesem Gesetz werden als Verpflichtungskredite[^4-1] für jeweils mehrere Jahre bewilligt.
+Die Mittel für die Massnahmen nach Artikel 3 werden als Verpflichtungskredit für jeweils mehrere Jahre bewilligt.
 
-[^4-1]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^4-1]: Fassung gemäss Ziff. II des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 5
 
 **Evaluation**
 
-Der Bundesrat wacht über die wirksame Verwendung der bewilligten Mittel. Er veranlasst regelmässige Evaluationen und erstattet der Bundesversammlung darüber für jede Kreditperiode Bericht.
+Der Bundesrat wacht über die wirksame Verwendung der bewilligten Mittel. Er veranlasst regelmässige Evaluationen der Massnahmen nach Artikel 3 und erstattet der Bundesversammlung darüber für jede Kreditperiode Bericht.[^5-1]
+
+[^5-1]: Fassung des zweiten Satezs gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 6
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Bundesrat entscheidet über Massnahmen nach diesem Gesetz.
+<sup>1</sup> Der Bundesrat entscheidet über die Massnahmen nach Artikel 3.[^6-1]
 
 <sup>2</sup> Er kann Ausführungsaufgaben an juristische Personen des Privatrechts oder des öffentlichen Rechts und natürliche Personen delegieren.
+
+[^6-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 7
 
 **Koordination**
 
-<sup>1</sup> Der Bund koordiniert seine Massnahmen mit den Anstrengungen seiner Partner und nach Möglichkeit mit den gleichgerichteten Massnahmen anderer schweizerischer oder ausländischer Leistungserbringer.
+<sup>1</sup> Der Bund koordiniert die Massnahmen nach Artikel 3 mit den Anstrengungen seiner Partner und nach Möglichkeit mit den gleichgerichteten Massnahmen anderer schweizerischer oder ausländischer Leistungserbringer.[^7-1]
 
 <sup>2</sup> Der Bundesrat sorgt dafür, dass die Massnahmen des Bundes im Bereich der zivilen Friedensförderung und der Stärkung der Menschenrechte den Zielen gemäss Artikel 2 entsprechen.
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 8
 
@@ -108,24 +136,87 @@ Der Bundesrat wacht über die wirksame Verwendung der bewilligten Mittel. Er ver
 
 Der Bundesrat kann völkerrechtliche Verträge abschliessen über:
 
-- a. die Verwendung der Gelder aus den Verpflichtungskrediten;
+- a. die Verwendung der Gelder aus den Verpflichtungskrediten[^8-1];
 - b. die Beteiligung an zivilen friedensfördernden Missionen;
 - c. die Entsendung von Expertinnen und Experten.
+
+[^8-1]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 9
 
 **Datenbearbeitung**[^9-1]
 
-Für die Bearbeitung von Daten im Zusammenhang mit Massnahmen nach diesem Gesetz gelten die Artikel 18–20 des Bundesgesetzes vom 18. Dezember 2020[^9-2] über die Bearbeitung von Personendaten durch das Eidgenössische Departement für auswärtige Angelegenheiten.
+Für die Bearbeitung von Daten im Zusammenhang mit den Massnahmen nach Artikel 3 gelten die Artikel 18–20 des Bundesgesetzes vom 18. Dezember 2020[^9-2] über die Bearbeitung von Personendaten durch das Eidgenössische Departement für auswärtige Angelegenheiten sinngemäss.
 
-[^9-1]: Fassung gemäss Anhang Ziff. II 1 des BG vom 18. Dez. 2020 über die Bearbeitung von Personendaten durch das EDA, in Kraft seit 1. Dez. 2021 ([AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)).
+[^9-1]: Fassung gemäss Ziff. III des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 [^9-2]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 #### Art. 10
 
-**Berichterstattung**
+**Berichterstattung**[^10-1]
 
-Der Bundesrat erstattet den zuständigen Kommissionen der eidgenössischen Räte jährlich Bericht über die getroffenen und die geplanten Massnahmen nach diesem Gesetz.
+Der Bundesrat erstattet den zuständigen Kommissionen der eidgenössischen Räte jährlich Bericht über die getroffenen und die geplanten Massnahmen nach Artikel 3.
+
+[^10-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
+## 3. Abschnitt: Nationale Menschenrechtsinstitution
+
+[^sec3-1]
+
+[^sec3-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
+#### Art. 10a
+
+**Form und Finanzierung**
+
+<sup>1</sup> Die NMRI bildet die nationale Menschenrechtsinstitution der Schweiz im Sinne der Anlage zur Resolution 48/134 der Generalversammlung der Vereinten Nationen vom 20. Dezember 1993 über Nationale Institutionen zur Förderung und zum Schutz der Menschenrechte («Pariser Prinzipien»). Sie ist eine öffentlich-rechtliche Körperschaft.
+
+<sup>2</sup> Der Bundesrat beantragt der Bundesversammlung nach Anhörung der Kantone für jeweils vier Jahre einen Zahlungsrahmen zur Finanzierung der Organisation und der Tätigkeiten der NMRI. Es wird angestrebt, dass die Kantone für die Infrastrukturkosten aufkommen und die NMRI ihren Standort an einer oder mehreren Universitäten hat.
+
+<sup>3</sup> Die NMRI veröffentlicht jährlich einen Bericht über ihre Tätigkeit. Sie stellt diesen dem Bundesrat und den eidgenössischen Räten zu.
+
+#### Art. 10b
+
+**Aufgaben**
+
+<sup>1</sup>
+
+Die NMRI nimmt zur Förderung und zum Schutz der Menschenrechte in der Schweiz folgende Aufgaben wahr:
+
+- a. Information und Dokumentation;
+- b. Forschung;
+- c. Beratung;
+- d. Förderung von Dialog und Zusammenarbeit;
+- e. Menschenrechtsbildung und Sensibilisierung;
+- f. internationaler Austausch.
+
+<sup>2</sup> Die NMRI kann Dienstleistungen für Behörden und Private erbringen; in der Regel erfolgt dies gegen ein Entgelt.
+
+<sup>3</sup> Die NMRI ist in der Erfüllung ihrer Aufgaben unabhängig. Sie nimmt keine Verwaltungsaufgaben wahr. Insbesondere nimmt die NMRI keine individuellen Klagen an und nimmt keine Aufsichts- oder Ombudsfunktion wahr. Im Rahmen ihres Aufgabenbereichs bestimmt sie selbstständig über die Verwendung ihrer Ressourcen.
+
+<sup>4</sup> Die Mitglieder der NMRI unterstehen der Schweigepflicht. Die von Dritten erhaltenen Informationen und die Quellen dürfen nicht öffentlich bekannt gegeben oder an die Behörden weitergeleitet werden, wenn die NMRI Vertraulichkeit zugesichert hat.
+
+#### Art. 10c
+
+**Organisation**
+
+<sup>1</sup> Die Organe der NMRI sind die Mitgliederversammlung, der Vorstand und die Revisionsstelle.
+
+<sup>2</sup> Die Mitgliederversammlung berät über die Ausrichtung der Aktivitäten der NMRI. Sie berücksichtigt dabei die Pariser Prinzipien.
+
+<sup>3</sup> Mitglieder können natürliche und juristische Personen sein, deren Tätigkeit einen Bezug zum Schutz und zur Förderung der Menschenrechte aufweist. Über die Aufnahme entscheidet die Mitgliederversammlung auf Empfehlung des Vorstands. Bund und Kantone können in der Mitgliederversammlung ohne Stimmrecht vertreten sein.
+
+<sup>4</sup> Die Mitgliederversammlung bestellt den Vorstand. Bei der Auswahl ist auf eine pluralistische Vertretung der am Schutz und an der Förderung der Menschenrechte beteiligten gesellschaftlichen Kräfte sowie auf eine ausgewogene Vertretung der Geschlechter sowie der Sprachgemeinschaften zu achten. Bund und Kantone können im Vorstand ohne Stimmrecht vertreten sein.
+
+<sup>5</sup> Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten für die NMRI sinngemäss die einschlägigen Bestimmungen des Zivilgesetzbuches[^10c-1], insbesondere die Artikel 60−79.
+
+[^10c-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+## 4. Abschnitt: Schlussbestimmungen
+
+[^sec4-1]
+
+[^sec4-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [BBl 2020 513](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 11
 

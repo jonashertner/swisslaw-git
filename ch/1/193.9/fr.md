@@ -3,31 +3,38 @@ sr: "193.9"
 title: "Loi fédérale du 19 décembre 2003 sur des mesures de promotion civile de la paix et de renforcement des droits de l'homme"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-253-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-253-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur des mesures de promotion civile de la paix et de renforcement des droits de l’homme
 
-du 19 décembre 2003 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 décembre 2003 (Etat le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu l’art. 54, al. 1, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 23 octobre 2002[^ingress-2],
+vu les art. 54, al. 1, et 173, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 23 octobre 2002[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [FF 2002 7063](https://fedlex.data.admin.ch/eli/fga/2002/1222)
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+[^ingress-3]: [FF 2002 7063](https://fedlex.data.admin.ch/eli/fga/2002/1222)
+
+## Section 1 Objet
+
+[^sec1-1]
+
+[^sec1-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 1
 
-**Objet**
+**…[^1-1]**
 
 <sup>1</sup> La présente loi porte sur des mesures de politique extérieure de la Confédération visant à promouvoir la paix par des moyens civils et à renforcer les droits de l’homme.
 
@@ -35,32 +42,44 @@ arrête:
 
 Sont réservées les mesures prévues par:
 
-- a. la loi fédérale du 19 mars 1976 sur la coopération au développement et l’aide humanitaire internationales[^1-1];
-- b.[^1-2] la loi fédérale du 30 septembre 2016 sur la coopération avec les États d’Europe de l’Est[^1-3];
-- c. la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^1-4].
+- a. la loi fédérale du 19 mars 1976 sur la coopération au développement et l’aide humanitaire internationales[^1-2];
+- b.[^1-3] la loi fédérale du 30 septembre 2016 sur la coopération avec les États d’Europe de l’Est[^1-4];
+- c. la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^1-5].
 
-[^1-1]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
-[^1-2]: Nouvelle teneur selon l’art. 19 ch. 1 de la LF du 30 sept. 2016 sur la coopération avec les États d’Europe de l’Est, en vigueur du 1<sup>er</sup> juin 2017 au 31 déc. 2024 ([RO 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [FF 2016 2179](https://fedlex.data.admin.ch/eli/fga/2016/516)).
-[^1-3]: [RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
-[^1-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+<sup>3</sup> La présente loi règle en outre le statut, le financement, les tâches et l’organisation de l’institution nationale des droits de l’homme (INDH) de la Suisse.[^1-6]
+
+[^1-1]: Abrogé par le ch. I de la LF du 1<sup>er</sup> oct. 2021, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+[^1-2]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
+[^1-3]: Nouvelle teneur selon l’art. 19 ch. 1 de la LF du 30 sept. 2016 sur la coopération avec les États d’Europe de l’Est, en vigueur du 1<sup>er</sup> juin 2017 au 31 déc. 2024 ([RO 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [FF 2016 2179](https://fedlex.data.admin.ch/eli/fga/2016/516)).
+[^1-4]: [RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
+[^1-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^1-6]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
+## Section 2 Promotion civile de la paix et renforcement des droits de l’homme dans le domaine de la politique extérieure
+
+[^sec2-1]
+
+[^sec2-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 2
 
 **Buts**
 
-Par la présente loi, la Confédération entend contribuer à:
+Par les mesures de politique extérieure prévues à l’art. 3, la Confédération poursuit les objectifs suivants:[^2-1]
 
 - a. prévenir, apaiser ou résoudre des conflits armés, notamment par la promotion de la confiance, la médiation et les mesures de consolidation de la paix prises au terme des hostilités et par l’engagement en faveur du droit international humanitaire;
 - b. renforcer les droits de l’homme par la promotion des droits civils, politiques, économiques, sociaux et culturels de personnes ou de groupes de personnes;
 - c. promouvoir les processus démocratiques.
 
+[^2-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
 #### Art. 3
 
-**Mesures**
+**Mesures de politique extérieure[^3-1]**
 
 <sup>1</sup>
 
-La Confédération peut accorder des aides financières et prendre d’autres mesures, telles que:
+La Confédération peut accorder des aides financières dans le domaine de la politique extérieure et adopter d’autres mesures, telles que:[^3-2]
 
 - a. accorder des contributions uniques ou périodiques;
 - b. fournir des prestations en nature;
@@ -72,35 +91,44 @@ La Confédération peut accorder des aides financières et prendre d’autres me
 
 <sup>3</sup> Ces mesures peuvent être mises en œuvre soit dans un cadre bilatéral ou multilatéral, soit de manière autonome.
 
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+[^3-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
 #### Art. 4
 
-**Financement**
+**Financement**[^4-1]
 
-Les moyens nécessaires au financement des mesures prévues par la présente loi sont accordés sous la forme de crédits d’engagement[^4-1] pluriannuels.
+Les moyens nécessaires au financement des mesures prévues à l’art. 3 sont accordés sous la forme de crédits d’engagement pluriannuels.
 
-[^4-1]: Nouvelle expression selon l’annexe ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^4-1]: Nouvelle teneur selon le ch. II de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 5
 
 **Évaluation**
 
-Le Conseil fédéral veille à une utilisation efficace des moyens accordés. Il fait procéder à des évaluations à intervalles réguliers et remet un rapport à l’Assemblée fédérale pour chaque période de crédit.
+Le Conseil fédéral veille à une utilisation efficace des moyens accordés. Il commande à intervalles réguliers des évaluations des mesures prévues à l’art. 3 et remet un rapport à l’Assemblée fédérale pour chaque période de crédit.[^5-1]
+
+[^5-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 6
 
 **Compétence**
 
-<sup>1</sup> Le Conseil fédéral détermine les mesures à prendre en vertu de la présente loi.
+<sup>1</sup> Le Conseil fédéral détermine les mesures à prendre en vertu de l’art. 3.[^6-1]
 
 <sup>2</sup> Il peut déléguer des tâches d’exécution à des personnes morales de droit privé ou public ou à des personnes physiques.
+
+[^6-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 7
 
 **Coordination**
 
-<sup>1</sup> La Confédération coordonne les mesures qu’elle prend avec les efforts de ses partenaires et, si possible, avec les mesures similaires d’autres acteurs suisses ou étrangers.
+<sup>1</sup> La Confédération coordonne les mesures prises en vertu de l’art. 3 avec les efforts de ses partenaires et, si possible, avec les mesures similaires d’autres prestataires suisses ou étrangers.[^7-1]
 
 <sup>2</sup> Le Conseil fédéral veille à ce que les mesures de la Confédération visant la promotion civile de la paix ou le renforcement des droits de l’homme soient conformes aux buts définis à l’art. 2.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 8
 
@@ -108,24 +136,87 @@ Le Conseil fédéral veille à une utilisation efficace des moyens accordés. Il
 
 Le Conseil fédéral peut conclure des traités internationaux portant sur:
 
-- a. l’utilisation des fonds prélevés sur les crédits d’engagement;
+- a. l’utilisation des fonds prélevés sur les crédits d’engagement[^8-1];
 - b. la participation à des missions civiles de promotion de la paix;
 - c. l’envoi d’experts.
+
+[^8-1]: Nouvelle expression selon l’annexe ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 9
 
 **Traitement des données**[^9-1]
 
-Les art. 18 à 20 de la loi fédérale du 18 décembre 2020 sur le traitement des données personnelles par le Département fédéral des affaires étrangères[^9-2] s’appliquent au traitement de données en rapport avec les mesures prévues par la présente loi.
+Les art. 18 à 20 de loi fédérale du 18 décembre 2020 sur le traitement des données personnelles par le Département fédéral des affaires étrangères[^9-2] s’appliquent par analogie au traitement de données en rapport avec les mesures prises en vertu de l’art. 3.
 
-[^9-1]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 18 déc. 2020 sur le traitement des données par le DFAE, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1279](https://fedlex.data.admin.ch/eli/fga/2020/333)).
+[^9-1]: Nouvelle teneur selon le ch. III de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 [^9-2]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 #### Art. 10
 
-**Rapport**
+**Rapport**[^10-1]
 
-Le Conseil fédéral présente annuellement un rapport aux commissions compétentes de l’Assemblée fédérale sur les mesures prévues par la présente loi.
+Le Conseil fédéral présente annuellement un rapport aux commissions compétentes de l’Assemblée fédérale sur les mesures prises et prévues en vertu de l’art. 3.
+
+[^10-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
+## Section 3 Institution nationale des droits de l’homme
+
+[^sec3-1]
+
+[^sec3-1]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
+
+#### Art. 10a
+
+**Forme et financement**
+
+<sup>1</sup> L’INDH constitue l’institution nationale des droits de l’homme de la Suisse au sens de l’annexe de la résolution 48/134 de l’Assemblée générale de l’Organisation des Nations Unies du 20 décembre 1993 sur les Institutions nationales pour la promotion et la protection des droits de l’homme (Principes de Paris). Elle prend la forme d’une corporation de droit public.
+
+<sup>2</sup> Le Conseil fédéral propose tous les quatre ans à l’Assemblée fédérale, après audition des cantons, un plafond de dépenses destiné au financement de l’organisation et des activités de l’INDH. L’objectif visé est que les cantons prennent en charge les coûts d’infrastructure et que l’INDH soit implantée dans une ou plusieurs universités.
+
+<sup>3</sup> L’INDH publie chaque année un rapport d’activité. Celui-ci est transmis au Conseil fédéral et à l’Assemblée fédérale.
+
+#### Art. 10b
+
+**Tâches**
+
+<sup>1</sup>
+
+Dans le but de promouvoir et de protéger les droits de l’homme en Suisse, l’INDH assume les tâches suivantes:
+
+- a. information et documentation;
+- b. recherche;
+- c. conseil;
+- d. promotion du dialogue et de la coopération;
+- e. éducation aux droits de l’homme et sensibilisation;
+- f. échanges au niveau international.
+
+<sup>2</sup> Elle peut fournir des prestations de services à des autorités et à des acteurs privés, en règle générale contre rémunération.
+
+<sup>3</sup> Elle est indépendante dans l’exécution de ses tâches. Elle n’assume aucune tâche relevant de l’administration. Elle n’enregistre notamment aucune plainte individuelle et n’exerce aucune fonction de surveillance ou de médiation. Dans le cadre de ses attributions, elle décide elle-même de l’utilisation de ses ressources.
+
+<sup>4</sup> Les membres de l’INDH sont soumis à l’obligation de garder le secret. Les informations reçues de tiers et les sources ne peuvent être divulguées publiquement ou transmises à des autorités, dans la mesure où la garantie de confidentialité a été donnée par l’INDH.
+
+#### Art. 10c
+
+**Organisation**
+
+<sup>1</sup> Les organes de l’INDH sont l’assemblée des membres, le comité et l’organe de révision.
+
+<sup>2</sup> L’assemblée des membres délibère sur l’orientation des activités de l’INDH. Ce faisant, elle tient compte des Principes de Paris.
+
+<sup>3</sup> Les membres peuvent être des personnes physiques ou morales dont les activités sont liées à la protection et à la promotion des droits de l’homme. L’assemblée des membres décide des admissions sur recommandation du comité. La Confédération et les cantons peuvent être représentés à l’assemblée des membres, sans droit de vote.
+
+<sup>4</sup> L’assemblée des membres nomme les membres du comité. Ceux-ci sont choisis de manière à garantir une représentation pluraliste des forces sociales engagées dans la protection et la promotion des droits de l’homme, et une représentation équilibrée des femmes et des hommes ainsi que des communautés linguistiques. La Confédération et les cantons peuvent être représentés au comité, sans droit de vote.
+
+<sup>5</sup> À moins que la présente loi n’en dispose autrement, les dispositions pertinentes du code civil[^10c-1], et en particulier les art. 60 à 79, s’appliquent par analogie à l’INDH.
+
+[^10c-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+## Section 4 Dispositions finales
+
+[^sec4-1]
+
+[^sec4-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 317](https://fedlex.data.admin.ch/eli/oc/2022/317); [FF 2020 493](https://fedlex.data.admin.ch/eli/fga/2020/56)).
 
 #### Art. 11
 
@@ -133,7 +224,7 @@ Le Conseil fédéral présente annuellement un rapport aux commissions compéten
 
 La loi fédérale du 15 décembre 2000 concernant la participation et l’octroi d’une aide financière de la Confédération au Centre Henry-Dunant pour le Dialogue humanitaire[^11-1] est abrogée.
 
-[^11-1]: [[RO <sup>2002</sup> 1896](https://fedlex.data.admin.ch/eli/oc/2002/280)]
+[^11-1]: [RO <sup>2002</sup> 1896]
 
 #### Art. 12
 
