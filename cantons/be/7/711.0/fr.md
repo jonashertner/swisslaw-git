@@ -4,20 +4,20 @@ number: "711.0"
 title: "Loi sur l'expropriation"
 short: LCEx
 language: fr
-version: 2011-01-01
-valid_until: 2022-12-31
-version_adopted: 2011-01-01
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-12-08
 adopted: 1965-10-03
 in_force: 1966-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/711.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/563/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3066/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Loi sur l'expropriation
 
-du 03.10.1965 (état au 01.01.2011)
+du 03.10.1965 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -145,7 +145,7 @@ décrète:
 
 <sup>2</sup> Selon les circonstances, il conviendra notamment de tenir compte pour l'estimation:
 
-- a de la situation et des possibilités effectives de réalisation et d'utilisation;.
+- a de la situation et des possibilités effectives de réalisation et d'utilisation;
 - b du rendement qu'il est possible de réaliser conformément à l'expérience;
 - c pour les biens-fonds pour lesquels la comparaison est possible, du rapport usuel à long terme entre le rendement et la valeur marchande;
 - d du degré de raccordement concernant les routes, l'écoulement des eaux usées, l'approvisionnement en eau et en énergie, ainsi que le service par les moyens de transport publics;
@@ -294,7 +294,7 @@ décrète:
 
 <sup>1</sup> Lors de l'inscription du transfert de propriété, le droit à rétrocession sera, à la demande de l'exproprié, mentionné au registre foncier comme restriction au droit de disposer. L'exproprié sera informé de la possibilité de cette annotation par le jugement fixant l'indemnité.
 
-<sup>2</sup> S’il veut aliéner le droit exproprié ou l’utiliser à une fin pour laquelle le droit d’expropriation n’est pas accordé, l’expropriant en avisera l’ayant droit à rétrocession, sous peine de dommages-intérêts. La communication sera publiée à l’intention des ayants droit inconnus dans la feuille officielle cantonale et dans la feuille officielle d’avis du lieu où est situé l’objet.
+<sup>2</sup> S’il veut aliéner le droit exproprié ou l’utiliser à une fin pour laquelle le droit d’expropriation n’est pas accordé, l’expropriant en avisera l’ayant droit à rétrocession, sous peine de dommages-intérêts. La communication paraîtra à l’intention des ayants droit inconnus dans la Feuille officielle et dans l’organe de publication officiel de la commune où est situé l’objet.
 
 #### Art. 26
 
@@ -438,7 +438,7 @@ décrète:
 
 **Publication de la demande**
 
-<sup>1</sup> Le Conseil-exécutif fixe aux personnes touchées par l’expropriation selon la liste du requérant un délai de 30 jours pour former opposition par écrit. De plus, la demande sera publiée dans la feuille officielle cantonale et dans la feuille officielle d’avis du lieu de situation de l’objet, avec mention de la possibilité de former opposition.
+<sup>1</sup> Le Conseil-exécutif fixe aux personnes touchées par l’expropriation selon la liste du requérant un délai de 30 jours pour former opposition par écrit. De plus, la demande paraîtra dans la Feuille officielle et dans l’organe de publication officiel de la commune où se situe l’objet, avec mention de la possibilité de former opposition.
 
 <sup>2</sup> Le Conseil-exécutif peut exiger du requérant qu'avant la publication il représente l'étendue de l'ouvrage par des piquetages, des profils, des maquettes et autres moyens.
 

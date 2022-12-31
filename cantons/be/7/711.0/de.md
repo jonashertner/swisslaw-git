@@ -4,20 +4,20 @@ number: "711.0"
 title: Gesetz über die Enteignung
 short: KEntG
 language: de
-version: 2011-01-01
-valid_until: 2022-12-31
-version_adopted: 2011-01-01
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-12-08
 adopted: 1965-10-03
 in_force: 1966-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/711.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/563/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3066/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Enteignung
 
-vom 03.10.1965 (Stand 01.01.2011)
+vom 03.10.1965 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -294,7 +294,7 @@ beschliesst:
 
 <sup>1</sup> Bei der Eintragung des Eigentumsüberganges in das Grundbuch ist das Rückforderungsrecht auf Begehren des Enteigneten als Verfügungsbeschränkung anzumerken. Im Entscheid über die Festsetzung der Entschädigung ist der Enteignete auf die Anmerkungsmöglichkeit aufmerksam zu machen.
 
-<sup>2</sup> Der Enteigner hat dem Rückforderungsberechtigten unter Schadenersatzfolge Anzeige zu erstatten, wenn er das enteignete Recht veräussern oder zu einem Zweck verwenden will, für den das Enteignungsrecht nicht gegeben ist. Für nicht bekannte Berechtigte erfolgt die Mitteilung durch Bekanntmachung im kantonalen Amtsblatt und im amtlichen Anzeiger der gelegenen Sache.
+<sup>2</sup> Der Enteigner hat dem Rückforderungsberechtigten unter Schadenersatzfolge Anzeige zu erstatten, wenn er das enteignete Recht veräussern oder zu einem Zweck verwenden will, für den das Enteignungsrecht nicht gegeben ist. Für nicht bekannte Berechtigte erfolgt die Mitteilung durch Bekanntmachung im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde der gelegenen Sache.
 
 #### Art. 26
 
@@ -438,7 +438,7 @@ beschliesst:
 
 **Bekanntmachung des Gesuches**
 
-<sup>1</sup> Der Regierungsrat setzt den Personen, die nach dem Verzeichnis des Gesuchstellers von der Enteignung betroffen werden, eine Frist von 30 Tagen an, innerhalb welcher schriftlich Einsprache erhoben werden kann. Ausserdem wird das Gesuch im Amtsblatt und im amtlichen Anzeiger der gelegenen Sache unter Hinweis auf die Einsprachemöglichkeit veröffentlicht.
+<sup>1</sup> Der Regierungsrat setzt den Personen, die nach dem Verzeichnis des Gesuchstellers von der Enteignung betroffen werden, eine Frist von 30 Tagen an, innerhalb welcher schriftlich Einsprache erhoben werden kann. Ausserdem wird das Gesuch im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde der gelegenen Sache unter Hinweis auf die Einsprachemöglichkeit veröffentlicht.
 
 <sup>2</sup> Der Regierungsrat kann den Gesuchsteller verhalten, vor Veröffentlichung des Gesuches den Umfang des Werkes durch Aussteckungen, Profile, Modelle und dergleichen darzustellen.
 
