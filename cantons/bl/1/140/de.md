@@ -4,13 +4,12 @@ number: "140"
 title: Gesetz über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft
 short: "Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-10
+version: 2023-01-01
+version_adopted: 2022-06-30
 adopted: 2017-09-28
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140"
-pdf: "https://bl.clex.ch/api/de/versions/3899/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3906/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3899/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL)
 
-Vom 28.09.2017 (Stand 01.01.2022)
+Vom 28.09.2017 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -151,7 +150,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Verordnungen, wichtige Beschlüsse und Wahlen, die der Regierungsrat vornimmt, sind im Amtsblatt zu veröffentlichen.
 
-<sup>2</sup> Die Verordnungen sind überdies in die chronologische Gesetzessammlung (GS) aufzunehmen.
+<sup>2</sup> …
 
 #### § 11
 
