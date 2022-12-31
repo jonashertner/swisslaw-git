@@ -3,24 +3,24 @@ canton: LU
 number: "371"
 title: Verordnung über den Bevölkerungsschutz
 language: de
-version: 2013-01-01
-valid_until: 2022-12-31
-version_adopted: 2012-09-10
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-08
 adopted: 2008-04-08
 in_force: 2008-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/371"
-pdf: "https://srl.lu.ch/api/de/versions/2303/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3986/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Bevölkerungsschutz
 
-vom 08.04.2008 (Stand 01.01.2013)
+vom 08.04.2008 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 3, 5 Absätze 1 und 3, 6, 8 Absatz 1, 10 und 13 des Gesetzes über den Bevölkerungsschutz vom 19. Juni 2007[^ingress-1],
+gestützt auf die §§ 5 Absatz 1, 6, 12a Absatz 4, 12b und 13 des Gesetzes über den Bevölkerungsschutz vom 19. Juni 2007[^ingress-1],
 
 auf Antrag des Justiz- und Sicherheitsdepartementes,
 
@@ -35,6 +35,14 @@ beschliesst:
 **Justiz- und Sicherheitsdepartement**
 
 <sup>1</sup> Das Justiz- und Sicherheitsdepartement vollzieht alle Aufgaben im Zusammenhang mit dem Gesetz und der Verordnung über den Bevölkerungsschutz, wenn nichts anderes vorgesehen ist.
+
+#### § 1a
+
+**Kantonaler Führungsstab**
+
+<sup>1</sup> Der kantonale Führungsstab ist für die Erstellung einer kantonalen Gefahren- und Risikoanalyse sowie für die in § 12a des Gesetzes über den Bevölkerungsschutz[^1a-1] genannten Aufgaben beim Schutz kritischer Infrastrukturen von kantonaler Bedeutung zuständig.
+
+[^1a-1]: SRL Nr. [370](https://srl.lu.ch/data/370/de)
 
 #### § 2
 
@@ -79,6 +87,8 @@ beschliesst:
 
 <sup>3</sup> Sie werden von einem Sekretariat unterstützt.
 
+<sup>4</sup> Der kantonale Führungsstab hat einen Kommandoposten.
+
 #### § 5
 
 **Kernstab**
@@ -87,10 +97,12 @@ beschliesst:
 
 - a. Polizei,
 - b. Feuerwehr,
-- c. koordinierter Sanitätsdienst,
+- c. Gesundheitswesen,
 - d. Zivilschutz,
 - e. Naturgefahren,
 - f. Information,
+- f. <sup>bis</sup> Informatik und Cybersicherheit,
+- f. <sup>ter</sup> Recht,
 - g. Vertretung des Justiz- und Sicherheitsdepartementes,
 - h. kantonaler Territorialverbindungsstab.
 
@@ -108,9 +120,26 @@ beschliesst:
 
 <sup>5</sup> Sie sind verantwortlich für ihre fachliche Aus- und Weiterbildung.
 
-<sup>6</sup> Als Fachpersonen werden auch die Katastropheneinsatzleiterinnen und -leiter der Gebäudeversicherung, der Polizei und des Zivilschutzes eingesetzt. Diese werden von der Gebäudeversicherung Luzern[^6-1] in Absprache mit dem Stabschef oder der Stabschefin ausgebildet.
+<sup>6</sup> Als Fachpersonen werden auch die Katastropheneinsatzleiterinnen und -leiter der Gebäudeversicherung sowie die Einsatzleiterinnen und -leiter der Polizei und des Zivilschutzes eingesetzt. Diese werden von der Gebäudeversicherung Luzern[^6-1] in Absprache mit dem Stabschef oder der Stabschefin ausgebildet.
 
 [^6-1]: Gemäss Änderung vom 10. September 2012, in Kraft seit dem 1. Januar 2013 (G 2012 247), wurde die Bezeichnung «Gebäudeversicherung des Kantons Luzern» durch «Gebäudeversicherung Luzern» ersetzt.
+
+#### § 6a
+
+**Entschädigung für Angehörige des kantonalen Führungsstabes**
+
+<sup>1</sup> Angehörigen des kantonalen Führungsstabes werden jährlich maximal folgende Pauschalen entrichtet:
+
+- a. Stabschef oder Stabschefin — 5000 Franken
+- b. Personen im Kernstab — 3000 Franken
+- c. weitere Fachpersonen — 1000 Franken
+
+<sup>2</sup> Die Höhe der Pauschale wird im Einzelnen durch den Stabschef oder die Stabschefin festgelegt. Für den Stabschef oder die Stabschefin erfolgt die Festlegung durch das Justiz- und Sicherheitsdepartement.
+
+<sup>3</sup> Kein Anspruch auf Entschädigung besteht, wenn
+
+- a. die Tätigkeit im kantonalen Führungsstab im Rahmen der beruflichen Tätigkeit für einen Arbeitgeber erbracht wird oder
+- b. diese Personen für die Tätigkeit im kantonalen Führungsstab Sold oder Entschädigungen gemäss der Erwerbsersatzordnung erhalten.
 
 #### § 7
 
@@ -134,19 +163,19 @@ beschliesst:
 
 <sup>1</sup> Jede Gemeinde bestimmt einen Chef oder eine Chefin Bevölkerungsschutz.
 
-<sup>2</sup> Der Chef oder die Chefin Bevölkerungsschutz hat die Aufgabe, die Partnerorganisationen des Bevölkerungsschutzes und die Vorbereitungen auf Katastrophen und Notlagen zu koordinieren.
+<sup>2</sup> Der Chef oder die Chefin Bevölkerungsschutz hat die Aufgabe, die Partnerorganisationen des Bevölkerungsschutzes und die Vorbereitungen auf Schadenereignisse von grosser Tragweite (Grossereignisse), Katastrophen, Notlagen und bewaffnete Konflikte zu koordinieren.
 
 <sup>3</sup> Er oder sie wird vom kantonalen Führungsstab unterstützt und arbeitet im Ereignisfall eng mit diesem zusammen.
 
-<sup>4</sup> Der Stabschef oder die Stabschefin des kantonalen Führungsstabes ist für die Ausbildung der Chefinnen und Chefs Bevölkerungsschutz der Gemeinden verantwortlich.
+<sup>4</sup> Der Stabschef oder die Stabschefin des kantonalen Führungsstabes ist für die Ausbildung der Chefinnen und Chefs Bevölkerungsschutz der Gemeinden verantwortlich. Die Teilnahme an den Ausbildungskursen ist für die Chefinnen und Chefs Bevölkerungsschutz der Gemeinden obligatorisch.
 
 #### § 9
 
 **Gemeindeführungsstab**
 
-<sup>1</sup> Bei plötzlichen Katastrophen und Notlagen (sog. Blaulichtereignissen) wird der Gemeindeführungsstab (GFS) in der Regel von einem Katastropheneinsatzleiter oder einer Katastropheneinsatzleiterin geführt und beraten.
+<sup>1</sup> Bei plötzlichen Grossereignissen, Katastrophen, Notlagen und bewaffneten Konflikten kann der Gemeindeführungsstab (GFS) von einem Katastropheneinsatzleiter oder einer Katastropheneinsatzleiterin geführt und beraten werden.
 
-<sup>2</sup> Bei schleichend sich entwickelnden Katastrophen und Notlagen (z.B. Seuchen, Wasserknappheit) wird der Gemeindeführungsstab je nach Bedarf aufgebaut. Die Gemeinde bestimmt, ob und wann sie einen Katastropheneinsatzleiter oder eine Katastropheneinsatzleiterin benötigt.
+<sup>2</sup> Bei schleichend sich entwickelnden Grossereignissen, Katastrophen, Notlagen und bewaffneten Konflikten (z.B. Seuchen, Wasserknappheit) wird der Gemeindeführungsstab je nach Bedarf aufgebaut. Die Gemeinde bestimmt, ob und wann sie einen Katastropheneinsatzleiter oder eine Katastropheneinsatzleiterin benötigt.
 
 <sup>3</sup> Im Gemeindeführungsstab sind alle notwendigen Fachpersonen vertreten.
 
@@ -168,7 +197,7 @@ beschliesst:
 
 <sup>3</sup> Das Justiz- und Sicherheitsdepartement, der Stabschef oder die Stabschefin des kantonalen Führungsstabes und deren Stellvertretung, der Gemeinderat, der Chef oder die Chefin Bevölkerungsschutz sowie der Einsatzleiter oder die Einsatzleiterin der Feuerwehr und der Polizei können den Gemeindeführungsstab aufbieten.
 
-## 4 Partnerorganisationen und Alarmierung
+## 4 Partnerorganisationen, Alarmierung und Kommunikationssysteme
 
 #### § 11
 
@@ -176,19 +205,29 @@ beschliesst:
 
 <sup>1</sup> Die Polizei bildet bei Bedarf Personen aus der Feuerwehr und dem Zivilschutz in der Verkehrsleitung, Absperrung oder Überwachung und Personen der Feuerwehr für Suchaktionen aus und setzt sie ein.
 
-<sup>2</sup> Der koordinierte Sanitätsdienst bildet Personen aus der Feuerwehr als Transporthelferinnen und -helfer für den Blauen Pool aus.
+<sup>2</sup> Der koordinierte Sanitätsdienst bildet Personen aus der Feuerwehr und dem Zivilschutz als Transporthelferinnen und -helfer für den Blauen Pool aus.
 
 #### § 12
 
 **Alarmierung der Bevölkerung**
 
-<sup>1</sup> Die Polizei ist zuständig für die Auslösung der stationären Sirenen über die Sirenenfernsteuerung.
+<sup>1</sup> Die Polizei ist zuständig für die Auslösung der stationären Sirenen über die Sirenenfernsteuerung, für die Verbreitung der Verhaltensanweisungen und die Systemtests nach den Vorgaben des Bundes.
 
-<sup>2</sup> Die Feuerwehr betreibt die nicht ferngesteuerten Sirenen und stellt die Auslösung der ferngesteuerten und der nicht ferngesteuerten Sirenen sicher.
+<sup>2</sup> Die Feuerwehr stellt bei Bedarf die lokale Auslösung der stationären Sirenen und deren Stilllegung bei einem Fehlalarm sicher.
 
-<sup>3</sup> Der Zivilschutz plant und koordiniert die Alarmierung. Er überprüft die Einsatzbereitschaft der Alarmierungsmittel und führt unter Mithilfe der Partnerorganisationen den jährlichen Test des Bundes durch.
+<sup>2<sup>bis</sup></sup> Die Feuerwehr stellt die Installation, den Unterhalt, die ständige Einsatzbereitschaft und den Einsatz der mobilen Sirenen sicher.
+
+<sup>2<sup>ter</sup></sup> Die Gemeinden stellen die telefonische Alarmierung von Personen in abgelegenen Wohnbauten sicher.
+
+<sup>3</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug plant die Alarmierung, führt das Inventar der Alarmierungsmittel, koordiniert die Partnerorganisationen und führt unter Mithilfe der Partnerorganisationen den jährlichen Test des Bundes durch.
 
 <sup>4</sup> Verhaltensanweisungen an die Bevölkerung werden vom kantonalen Führungsstab oder von der Gemeinde in der Regel nach Rücksprache mit der Polizei oder dem kantonalen Führungsstab erlassen.
+
+#### § 12a
+
+**Gemeinsame Kommunikationssysteme**
+
+<sup>1</sup> Die Polizei ist zuständig für die gemeinsamen Kommunikationssysteme von Bund, Kantonen und Dritten.
 
 ## 5 Schlussbestimmung
 
