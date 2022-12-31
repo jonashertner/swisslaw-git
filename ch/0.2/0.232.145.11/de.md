@@ -3,11 +3,11 @@ sr: "0.232.145.11"
 title: Ausführungsordnung vom 28. April 1977 zum Budapester Vertrag über die internationale Anerkennung der Hinterlegung von Mikroorganismen für die Zwecke von Patentverfahren
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1275_1275_1275"
 language: de
-version: 2002-10-02
+version: 2023-01-01
 adopted: 1977-04-28
 in_force: 1981-01-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1275_1275_1275/20021002/de/xml/fedlex-data-admin-ch-eli-cc-1981-1275_1275_1275-20021002-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1275_1275_1275/20021002/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1275_1275_1275/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1981-1275_1275_1275-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1275_1275_1275/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/1275_1275_1275/20021002/de"
 
 AS **1981** 1275; BBl **1980** III 321
 
-Amtlicher deutscher Text*[^t-1]*
+Amtlicher deutscher Text[^t-1]
 
 Abgeschlossen in Budapest am 28. April 1977 Von der Bundesversammlung genehmigt am 10. März 1981[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 19. Mai 1981 Geändert am 20. Januar 1981, in Kraft getreten am 31. Januar 1981
 
-(Stand am 9. März 2004)
+(Stand am 1. Januar 2023)
 
 [^t-1]: Amtliche deutsche Übersetzung nach Art. 18 Abs. 1 Bst. c.
 [^t-2]: [AS 1981 1261](https://fedlex.data.admin.ch/eli/oc/1981/1261_1261_1261)
@@ -39,7 +39,7 @@ In dieser Ausführungsordnung verweist die Bezeichnung «Artikel» auf den jewei
 
 In dieser Ausführungsordnung ist die Bezeichnung «Unterschrift» jeweils dahin zu verstehen, dass sie, wenn das Recht des Staates, in dessen Hoheitsgebiet eine inter-nationale Hinterlegungsstelle belegen ist, die Verwendung eines Siegels anstelle einer Unterschrift vorschreibt, für die Zwecke dieser Stelle «Siegel» bedeutet.
 
-[^lvlu1-1]: [SR 0.232.145.1](https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262)
+[^lvlu1-1]: [SR 0.232.145.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1099)
 
 ## **Regel 2**Internationale Hinterlegungsstellen
 
@@ -346,12 +346,12 @@ b) Hinsichtlich der von einem Amt für gewerbliches Eigentum erteilten und ver-�
 
 11.4 Gemeinsame Regeln
 
-a) Jeder Antrag, jede Erklärung, jede Bestätigung und jede Mitteilung nach den Regeln 11.1, 11.2 und 11.3 sind
+a)[^lvlu11-1] Jeder Antrag, jede Erklärung, jede Bestätigung und jede Mitteilung nach den Regeln 11.1, 11.2 und 11.3 sind:
 
-- i) in englischer, französischer, russischer oder spanischer Sprache abzufassen, wenn sie an eine internationale Hinterlegungsstelle gerichtet sind, deren Amtssprache Englisch, Französisch, Russisch oder Spanisch ist bzw. zu deren Amtssprachen Englisch, Französisch, Russisch oder Spanisch gehört, mit der Massgabe, dass sie, wenn sie in Russisch oder Spanisch abgefasst sein müssen, statt dessen in Englisch oder Französisch eingereicht werden können und dass das Internationale Büro, wenn sie so eingereicht werden, auf Antrag der in den erwähnten Regeln genannten beteiligten Partei oder der internationalen Hinterlegungsstelle unverzüglich und gebührenfrei eine beglaubigte Übersetzung in die russische oder spanische Sprache anzufertigen hat,
-- ii) in allen anderen Fällen in englischer oder französischer Sprache abzufassen mit der Massgabe, dass sie statt dessen in der Amtssprache oder in einer der Amtssprachen der internationalen Hinterlegungsstelle abgefasst werden können.
+- i) in englischer, französischer, arabischer, chinesischer, russischer oder spanischer Sprache abzufassen, wenn sie an eine internationale Hinterlegungsstelle gerichtet sind, deren Amtssprache Englisch, Französisch, Arabisch, Chinesisch, Spanisch oder Russisch ist bzw. zu deren Amtssprachen Englisch, Französisch, Arabisch, Chinesisch, Spanisch oder Russisch gehört, mit der Massgabe, dass sie, wenn sie in Arabisch, Chinesisch, Spanisch oder Russisch abgefasst sein müssen, stattdessen in Englisch oder Französisch eingereicht werden können und dass das Internationale Büro, wenn sie so eingereicht werden, auf Antrag der in den erwähnten Regeln genannten beteiligten Partei oder der internationalen Hinterlegungsstelle unverzüglich und gebührenfrei eine beglaubigte Übersetzung in die arabische, chinesische, spanische oder russische Sprache anzufertigen hat;
+- ii) in allen anderen Fällen in englischer oder französischer Sprache abzufassen mit der Massgabe, dass sie stattdessen in der Amtssprache oder in einer der Amtssprachen der internationalen Hinterlegungsstelle abgefasst werden können.
 
-b) Unbeschadet des Buchstaben a kann der in Regel 11. 1 genannte Antrag in russischer bzw. spanischer Sprache abgefasst werden, wenn er von einem Amt für gewerbliches Eigentum gestellt wird, dessen Amtssprache Russisch oder Spanisch ist; das Internationale Büro hat auf Antrag dieses Amtes oder der internationalen Hinterlegungsstelle, bei der der Antrag eingegangen ist, unverzüglich und gebührenfrei eine beglaubigte Übersetzung in die englische oder französische Sprache anzufertigen.
+b)[^lvlu11-2] Unbeschadet des Buchstaben a kann der in Regel 11. 1 genannte Antrag in arabischer, chinesischer, spanischer oder russischer Sprache abgefasst werden, wenn er von einem Amt für gewerbliches Eigentum gestellt wird, dessen Amtssprache Arabisch, Chinesisch, Spanisch oder Russisch ist; das Internationale Büro hat auf Antrag dieses Amtes oder der internationalen Hinterlegungsstelle, bei der der Antrag eingegangen ist, unverzüglich und gebührenfrei eine beglaubigte Übersetzung in die englische oder französische Sprache anzufertigen.
 
 c) Jeder Antrag, jede Erklärung, jede Bestätigung oder jede Mitteilung nach den Regeln 11.1, 11.2 und 11.3 bedarf der Schriftform und ist mit einer Unterschrift und dem Datum zu versehen.
 
@@ -376,6 +376,9 @@ h) Die Abgabe von Proben nach Regel 11.1 ist gebührenfrei. Erfolgt die Abgabe v
 11.5 Änderung der Regeln 11.1 und 11.3 bei Anwendung auf internationale Anmeldungen
 
 Ist eine Anmeldung als internationale Anmeldung nach dem Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens eingereicht worden, so gilt die Bezugnahme auf die Einreichung der Anmeldung bei dem Amt für gewerbliches Eigentum in Regel 11. 1 Ziffer i und Regel 11.3 Buchstabe a Ziffer i als Bezugnahme auf die in der internationalen Anmeldung vorgenommene Bestimmung des Vertragsstaats, für den das Amt für gewerbliches Eigentum «Bestimmungsamt» im Sinne des genannten Vertrags ist, und ist die nach Regel 11.3 Buchstabe a Ziffer ii erforderliche Bestätigung der Veröffentlichung nach Wahl des Amts für gewerbliches Eigentum entweder eine Bestätigung der internationalen Veröffentlichung nach dem genannten Vertrag oder die Bestätigung einer Veröffentlichung durch das Amt für gewerbliches Eigentum.
+
+[^lvlu11-1]: Fassung gemäss Beschluss der Versammlung des Verbands von Budapest vom 22. Juli 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 77](https://fedlex.data.admin.ch/eli/oc/2023/77)).
+[^lvlu11-2]: Fassung gemäss Beschluss der Versammlung des Verbands von Budapest vom 22. Juli 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 77](https://fedlex.data.admin.ch/eli/oc/2023/77)).
 
 ## **Regel 12**Gebühren
 
@@ -419,7 +422,7 @@ Ist als Frist eine Anzahl von Tagen bestimmt, wird bei der Berechnung der Frist 
 
 [^lvlu14-1]
 
-[^lvlu14-1]: Fassung gemäss der Änd. vom 1. Okt. 2002 ([AS 2004 1297](https://fedlex.data.admin.ch/eli/oc/2004/153)).
+[^lvlu14-1]: Fassung gemäss Beschluss der Versammlung des Verbands von Budapest vom 1. Okt. 2002, in Kraft seit 2. Okt. 2010 ([AS 2004 1297](https://fedlex.data.admin.ch/eli/oc/2004/153)).
 
 13.1 Form der Veröffentlichung
 
@@ -451,6 +454,6 @@ a) In dem in Artikel 10 Absatz 5 Buchstabe b vorgesehenen Fall übermittelt der 
 
 b) Erreicht bei Ablauf dieser Frist die Zahl der Vertragsstaaten, die auf diese Weise ihre Stimme oder Stimmenthaltung bekanntgegeben haben, die Zahl von Vertragsstaaten, die zur Erreichung des Quorums bei der Beschlussfassung fehlte, so werden die Beschlüsse wirksam, sofern gleichzeitig die erforderliche Stimmenmehrheit noch vorhanden ist.
 
-Geltungsbereich der Ausführungsordnung**[^t-3]**
+Geltungsbereich der Ausführungsordnung[^t-3]
 
-[^t-3]: Siehe Geltungsbereich des Budapester Vertrages ([SR 0.232.145.1](https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262)).
+[^t-3]: Siehe Geltungsbereich des Budapester Vertrages ([SR 0.232.145.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1099)).

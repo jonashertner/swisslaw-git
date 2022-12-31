@@ -3,11 +3,11 @@ sr: "0.232.145.11"
 title: "Regolamento d'esecuzione del 28 aprile 1977 del Trattato di Budapest sul riconoscimento internazionale del deposito dei microrganismi ai fini della procedura in materia di brevetti"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1275_1275_1275"
 language: it
-version: 2002-10-02
+version: 2023-01-01
 adopted: 1977-04-28
 in_force: 1981-01-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1275_1275_1275/20021002/it/xml/fedlex-data-admin-ch-eli-cc-1981-1275_1275_1275-20021002-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1275_1275_1275/20021002/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1275_1275_1275/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1981-1275_1275_1275-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1275_1275_1275/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/1275_1275_1275/20021002/it"
 
 RU **1981** 1275; FF **1980** III 293
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiuso a Budapest il 28 aprile 1977 Approvato dall’Assemblea federale il 10 marzo 1981[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 19 maggio 1981 Modificato il 20 gennaio 1981 ed entrato in vigore il 31 gennaio 1981
+Conchiuso a Budapest il 28 aprile 1977 Approvato dall’Assemblea federale il 10 marzo 1981[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 19 maggio 1981 Modificato il 20 gennaio 1981 ed entrato in vigore il 31 gennaio 1981
 
-**(Stato 2 ottobre 2002)**
+(Stato 1° gennaio 2023)
 
-[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 1981 1261](https://fedlex.data.admin.ch/eli/oc/1981/1261_1261_1261)
+[^t-1]: [RU 1981 1261](https://fedlex.data.admin.ch/eli/oc/1981/1261_1261_1261)
 
 ## **Regola 1**Espressioni abbreviate ed interpretazione della parola «firma»
 
@@ -39,7 +38,7 @@ Ai sensi del presente Regolamento d’esecuzione, si deve intendere per «artico
 
 Ai sensi del presente Regolamento d’esecuzione, quando il diritto dello Stato sul territorio del quale è situata un’autorità internazionale di deposito esige l’utilizzazione di un sigillo in luogo e vece della firma, resta inteso che ai fini di questa autorità il termine «firma» significa «sigillo».
 
-[^lvlu1-1]: [RS 0.232.145.1](https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262)
+[^lvlu1-1]: [RS 0.232.145.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1099)
 
 ## **Regola 2**Autorità internazionali di deposito
 
@@ -345,12 +344,12 @@ b) Per quanto concerne i brevetti rilasciati e pubblicati da qualsiasi ufficio d
 
 11.4 Regole comuni
 
-a) Qualsiasi richiesta, dichiarazione, certificazione o comunicazione di cui alle regole 11.1, 11.2 e 11.3:
+a)[^lvlu11-1] Qualsiasi richiesta, dichiarazione, certificazione o comunicazione di cui alle regole 11.1, 11.2 e 11.3:
 
-- i) è redatta in francese, in inglese, in russo o in spagnolo se è indirizzata ad un’autorità internazionale di deposito la cui lingua ufficiale è o le cui lingue ufficiali comprendono rispettivamente il francese, l’inglese, il russo o lo spagnolo; tuttavia, quando essa deve essere redatta in russo o in spagnolo, essa può essere presentata in francese o in inglese invece di esserlo in russo o in spagnolo e, se essa è presentata in tal modo, l’Ufficio internazionale prepara a breve scadenza e gratuitamente, a domanda della parte interessata di cui alle regole anzidette o dell’autorità internazionale di deposito, una traduzione certificata conforme in russo o in spagnolo;
+- i) è redatta in francese, in inglese, in arabo, in cinese, in spagnolo o in russo se è indirizzata ad un’autorità internazionale di deposito la cui lingua ufficiale è o le cui lingue ufficiali comprendono rispettivamente il francese, l’inglese, l’arabo, il cinese, lo spagnolo o il russo; tuttavia, quando essa deve essere redatta in arabo, in cinese, in spagnolo o in russo, essa può essere presentata in francese o in inglese invece di esserlo in arabo, in cinese, in spagnolo o in russo e, se essa è presentata in tal modo, l’Ufficio internazionale prepara a breve scadenza e gratuitamente, a domanda della parte interessata di cui alle regole anzidette o dell’autorità internazionale di deposito, una traduzione certificata conforme in arabo, in cinese, in spagnolo o in russo;
 - ii) è redatta, in tutti gli altri casi, in francese o in inglese; tuttavia, essa può essere redatta nella lingua ufficiale o in una delle lingue ufficiali dell’autorità internazionale di deposito invece di esserlo in francese o in inglese.
 
-b) Nonostante il paragrafo a), qualora la richiesta di cui alla regola 11.1 sia fatta da un ufficio di proprietà industriale la cui lingua ufficiale è il russo o lo spagnolo, tale richiesta può essere redatta rispettivamente in russo o in spagnolo, e l’Ufficio internazionale prepara a breve scadenza e gratuitamente, a domanda di questo ufficio o dell’autorità internazionale di deposito che ha ricevuto detta richiesta, una traduzione certificata conforme in francese o in inglese.
+b)[^lvlu11-2] Nonostante il paragrafo a), qualora la richiesta di cui alla regola 11.1 sia fatta da un ufficio di proprietà industriale la cui lingua ufficiale è l’arabo, il cinese, lo spagnolo o il russo, tale richiesta può essere redatta rispettivamente in arabo, in cinese, in spagnolo o in russo e l’Ufficio internazionale prepara a breve scadenza e gratuitamente, a domanda di questo ufficio o dell’autorità internazionale di deposito che ha ricevuto detta richiesta, una traduzione certificata conforme in francese o in inglese.
 
 c) Qualsiasi richiesta, dichiarazione, certificazione o comunicazione di cui alle regole 11.1, 11.2 e 11.3 è per iscritto, firmata e datata.
 
@@ -375,6 +374,9 @@ h) La consegna di campioni contemplata alla regola 11.1 è gratuita. In caso di 
 11.5 Modificazione delle regole 11.1 e 11.3 quando si applicano a domande internazionali
 
 Quando una domanda è stata depositata in quanto domanda internazionale secondo il Trattato di cooperazione in materia di brevetti, il riferimento, contenuto nelle regole 11.1 i) e 11.3 a) i), alla presentazione della domanda presso l’ufficio della proprietà industriale è considerato come un riferimento alla designazione nella domanda internazionale dello Stato contraente per il quale l’ufficio della proprietà industriale è l’«ufficio designato» ai sensi di detto Trattato, e la certificazione di una pubblicazione richiesta dalla regola 11.3 a) ii) è, a scelta dell’ufficio della proprietà industriale, sia una certificazione della pubblicazione internazionale effettuata in virtù di detto Trattato sia la certificazione di una pubblicazione effettuata dall’ufficio della proprietà industriale.
+
+[^lvlu11-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione di Budapest del 22 lug. 2022, in vigore per la Svizzera dal 1° gen. 2023 ([RU 2023 77](https://fedlex.data.admin.ch/eli/oc/2023/77)).
+[^lvlu11-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione di Budapest del 22 lug. 2022, in vigore per la Svizzera dal 1° gen. 2023 ([RU 2023 77](https://fedlex.data.admin.ch/eli/oc/2023/77)).
 
 ## **Regola 12**Tasse
 
@@ -418,7 +420,7 @@ Se un termine consta in un certo numero di giorni, esso decorre dal giorno che s
 
 [^lvlu14-1]
 
-[^lvlu14-1]: Nuovo testo giusta la modifica del 1<sup>°</sup> ott. 2002 ([RU 2004 1297](https://fedlex.data.admin.ch/eli/oc/2004/153)).
+[^lvlu14-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione di Budapest del 1° ott. 2002, in vigore per la Svizzera dal 1° ott. 2002 ([RU 2004 1297](https://fedlex.data.admin.ch/eli/oc/2004/153)).
 
 13.1 Forma della pubblicazione
 
@@ -450,6 +452,6 @@ a) Nel caso previsto all’articolo 10.5) b), il Direttore generale comunica le 
 
 b) Se, alla scadenza di questo termine, il numero degli Stati contraenti che hanno espresso in tal modo il loro voto o la loro astensione risulta uguale al numero degli Stati contraenti che mancavano per il conseguimento del quorum al momento dell’adozione della decisione, quest’ultima diventa esecutiva, purché nel contempo sia stata raggiunta la maggioranza necessaria.
 
-Campo d’applicazione del Regolamento d’esecuzione**[^t-3]**
+Campo d’applicazione del Regolamento d’esecuzione[^t-2]
 
-[^t-3]: Si veda il campo d’applicazione del Trattato di Budapest ([RS 0.232.145.1](https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262)).
+[^t-2]: Si veda il campo d’applicazione del Trattato di Budapest ([RS 0.232.145.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1099)).
