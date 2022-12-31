@@ -4,7 +4,7 @@ number: "642.11.3"
 title: RÈGLEMENT du 06.04.2011 sur l’imposition de la famille (RIFam)
 short: RIFam
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11.3?id=de049621-7ec5-4371-992d-3992263230a7"
 ---
 
@@ -33,7 +33,7 @@ arrête
 <sup>1</sup> Le présent règlement arrête les dispositions d'application relatives :
 
 - a. à l'attribution du revenu et de la fortune de l'enfant mineur à ses père et mère imposés séparément et exerçant conjointement l'autorité parentale (art. 9, al. 4 LI [^1-1] ) ;
-- b. à la déduction pour frais de garde (art. 37, al. 1, let. k LI) ;
+- b. à la déduction pour frais de garde (art. 37, al. 1, let. k LI et 277l LI) ;
 - c. à la répartition entre des père et mère imposés séparément, lorsqu'aucune contribution pour l'entretien de l'enfant n'est déductible :
 - 1\. de la part de quotient de 0,5 (art. 43, al. 2, let. d LI)
 - 2\. de la déduction d'assurances et d'intérêts de capitaux d'épargne pour enfant (art. 37, al. 1, let. g LI)
@@ -57,7 +57,7 @@ arrête
 
 [^2-1]: Modif. 3 du 07.12.2022: Modification ; entrée en vigueur au 01.01.2023 · Modif. 4 du 15.11.2023: Modification ; entrée en vigueur au 01.01.2024
 
-## Chapitre II Déduction pour frais de garde (art. 37, al. 1, let. k LI)
+## Chapitre II Déduction pour frais de garde (art. 37, al. 1, let. k et 277l LI)
 
 [^2-1]
 
@@ -65,7 +65,7 @@ arrête
 
 **Parents mariés vivant en ménage commun [^chapterChapitreII-1]**
 
-<sup>1</sup> La déduction pour frais de garde (art. 37, al. 1, let. k LI [^3-1] ) peut être requise par des parents mariés vivant en ménage commun et exerçant tous deux une activité lucrative, pour des frais de garde de l'enfant par un tiers consentis durant leur temps de travail.
+<sup>1</sup> La déduction pour frais de garde (art. 37, al. 1, let. k et 277l LI) peut être requise par des parents mariés vivant en ménage commun et exerçant tous deux une activité lucrative, pour des frais de garde de l'enfant par un tiers consentis durant leur temps de travail.
 
 <sup>2</sup> Cette déduction peut également être requise par des parents mariés vivant en ménage commun :
 
@@ -75,25 +75,24 @@ ou
 
 lorsqu'ils sont frappés d'une incapacité de gain rendant nécessaire des frais de garde de l'enfant par des tiers.
 
-<sup>3</sup> La déduction est accordée pour des enfants qui n'ont pas encore atteint leur 14ème anniversaire. Elle correspond aux frais prouvés, engendrés par la garde des enfants par un tiers, mais ne peut excéder 10100 francs par enfant.
+<sup>3</sup> La déduction est accordée pour des enfants qui n'ont pas encore atteint leur 14ème anniversaire. Elle correspond aux frais prouvés, engendrés par la garde des enfants par un tiers, mais ne peut excéder 13000 francs par enfant.
 
 [^chapterChapitreII-1]: Modif. 1 du 27.11.2019: Modification Al. 3; entrée en vigueur au 01.01.2020 · Modif. 2 du 08.12.2021: Modification Al. 3; entrée en vigueur au 01.01.2022 · Modif. 3 du 07.12.2022: Modification Al. 1,3; entrée en vigueur au 01.01.2023 · Modif. 4 du 15.11.2023: Modification Al. 1,3; entrée en vigueur au 01.01.2024
-[^3-1]: Loi du 04.07.2000 sur les impôts directs cantonaux ([BLV 642.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?id=8df99d51-8df8-49ed-9ef5-2fa4817d0004))
 
 #### Art. 4
 
-**Parent célibataire, veuf, divorcé ou parent marié imposé séparément [^3-2]**
+**Parent célibataire, veuf, divorcé ou parent marié imposé séparément [^3-1]**
 
 <sup>1</sup> Les dispositions prévues pour les parents mariés s'appliquent par analogie au parent célibataire, veuf, divorcé ou imposé séparément (art. 10 LI [^4-1] ) qui vit en ménage commun avec un enfant mineur dont il assure l'entretien complet. Les alinéas 2 et 3 demeurent réservés.
 
-<sup>2</sup> Lorsque des parents divorcés ou imposés séparément (art. 10 LI) exercent en commun l'autorité parentale sur leur enfant mineur, chacun d'eux peut faire valoir les frais de garde prouvés jusqu'à concurrence de 5050 francs au maximum, pour autant qu'ils assument la garde de l'enfant dans une mesure comparable. Le versement de contributions déductibles pour l'entretien de l'enfant est sans effet.
+<sup>2</sup> Lorsque des parents divorcés ou imposés séparément (art. 10 LI) exercent en commun l'autorité parentale sur leur enfant mineur, chacun d'eux peut faire valoir les frais de garde prouvés jusqu'à concurrence de 6500 francs au maximum, pour autant qu'ils assument la garde de l'enfant dans une mesure comparable. Le versement de contributions déductibles pour l'entretien de l'enfant est sans effet.
 
-<sup>3</sup> Les parents non mariés vivant en ménage commun peuvent chacun faire valoir les frais de garde prouvés jusqu'à concurrence de 5050 francs au maximum :
+<sup>3</sup> Les parents non mariés vivant en ménage commun peuvent chacun faire valoir les frais de garde prouvés jusqu'à concurrence de 6500 francs au maximum :
 
-- - en cas d'exercice conjoint de l'autorité parentale sur leur enfant mineur dont ils assurent l'entretien complet
+- - en cas d'exercice conjoint de l'autorité parentale sur leur enfant mineur dont ils assurent l'entretien complet;
 - - en l'absence d'autorité parentale conjointe, à condition qu'il existe des contributions déductibles versées pour l'entretien de l'enfant.
 
-[^3-2]: Modif. 1 du 27.11.2019: Modification Al. 2-3; entrée en vigueur au 01.01.2020 · Modif. 2 du 08.12.2021: Modification Al. 2-3; entrée en vigueur au 01.01.2022 · Modif. 3 du 07.12.2022: Modification Al. 2-3; entrée en vigueur au 01.01.2023; Modification Al. 3, Tiret 1; entrée en vigueur au 01.01.2023 · Modif. 4 du 15.11.2023: Modification Al. 2-3; entrée en vigueur au 01.01.2024
+[^3-1]: Modif. 1 du 27.11.2019: Modification Al. 2-3; entrée en vigueur au 01.01.2020 · Modif. 2 du 08.12.2021: Modification Al. 2-3; entrée en vigueur au 01.01.2022 · Modif. 3 du 07.12.2022: Modification Al. 2-3; entrée en vigueur au 01.01.2023; Modification Al. 3, Tiret 1; entrée en vigueur au 01.01.2023 · Modif. 4 du 15.11.2023: Modification Al. 2-3; entrée en vigueur au 01.01.2024
 [^4-1]: Loi du 04.07.2000 sur les impôts directs cantonaux ([BLV 642.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?id=8df99d51-8df8-49ed-9ef5-2fa4817d0004))
 
 ## Chapitre III Quotient familial et déductions sociales
