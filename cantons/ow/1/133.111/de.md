@@ -3,20 +3,20 @@ canton: OW
 number: "133.111"
 title: Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-21
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-08
 adopted: 2002-06-04
 in_force: 2002-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/133.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1593/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1750/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 
-vom 04.06.2002 (Stand 01.07.2022)
+vom 04.06.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -281,11 +281,8 @@ beschliesst:
 <sup>1</sup> Dem Bau- und Raumentwicklungsdepartement (BRD) sind folgende Aufgabenbereiche zugeteilt:
 
 - a. Departementssekretariat:
-- b. Hoch- und Tiefbauamt:
-  - 1\. Immobilien- und Raumbewirtschaftung,
-  - 2\. Hochbauprojekte,
-  - 3\. Energie und Klima,
-  - 3a. Nutzung der Gewässer,
+- b. Tiefbauamt:
+  - 1\.–3a. …
   - 4\. Bergregal,
   - 5\. Kantonsstrassen und kantonale Velowege,
   - 5a. Nationalstrassen,
@@ -297,9 +294,9 @@ beschliesst:
   - 7\. Natur- und Landschaftsschutz,
   - 8\. Wildtiere und Jagd,
   - 9\. Naturgefahren,
-  - 10\. Wasserbau,
+  - 10\. Wasserbau, Gewässerunterhalt, Inanspruchnahme von Gewässern und Materialentnahmen sowie Nutzung der Gewässer zu Trink- und Gebrauchszwecken,
   - 11\.–17. …
-- d. Amt für Raumentwicklung und Verkehr:
+- d. Amt für Raumentwicklung und Energie:
   - 1\. Bau- und Planungsrecht (eingeschlossen Genehmigung von Bau- und Erschliessungsreglementen),
   - 2\. Richtplanung, Nutzungs-, Quartier- und Spezialplanungen,
   - 3\. Gesamtverkehrsplanung,
@@ -307,7 +304,11 @@ beschliesst:
   - 4a. Öffentlicher Verkehr,
   - 5\. Transportanlagen (Seilbahnen und Skilifte), Leitungen, Luftfahrt,
   - 6\. Telekommunikationsanlagen,
-  - 7\. Baukoordination.
+  - 7\. Energie und Klima (eingeschlossen Ausnützung der Wasserkraft);
+- e. Hochbauamt:
+  - 1\. Baukoordination,
+  - 2\. Gebäudebewirtschaftung,
+  - 3\. Hochbauprojekte.
 
 <sup>2</sup> Dem Bau- und Raumentwicklungsdepartement ist zugewiesen:
 
@@ -393,6 +394,8 @@ geändert durch:
 
 \- AB über das Interne Kontrollsystem IKS vom 21. September 2021, in Kraft seit 1. Oktober 2021 (OGS 2021, 31),
 
-\- Nachtrag vom 21. Juni 2022, in Kraft seit 1. Juli 2022 (OGS 2022, 20)
+\- Nachtrag vom 21. Juni 2022, in Kraft seit 1. Juli 2022 (OGS 2022, 20),
+
+\- Nachtrag vom 8. November 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 25)
 
 OGS 2002, 33
