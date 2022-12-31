@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-29
+version: 2023-01-01
+valid_until: 2023-04-30
+version_adopted: 2023-01-03
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2294/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2401/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2294/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.08.2022)
+Vom 21.03.2006 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
@@ -347,13 +347,51 @@ verordnet:
 
 #### Art. 33
 
-**Nachweis der Verwaltungstätigkeit; Archivierung**
+**Nachweis der Verwaltungstätigkeit**
 
-<sup>1</sup> Die Verwaltungseinheiten führen den Nachweis über ihre Geschäftstätigkeit aufgrund einer systematischen Aktenführung. Die Staatskanzlei kann hierzu in Absprache mit dem Landesarchiv und der Fachstelle Informatik Weisungen erlassen.
+<sup>1</sup> Die Verwaltungseinheiten erbringen den Nachweis über ihre Geschäftstätigkeit aufgrund einer:
 
-<sup>2</sup> Die Aufbewahrung und Archivierung der Akten richten sich nach der Archivgesetzgebung[^33-1].
+- a. vollständigen, systematischen und nachvollziehbaren Aktenführung; und
+- b. ordnungsgemässen Geschäftsverwaltung.
 
-[^33-1]: GS [II A/7](https://gesetze.gl.ch/data/II-A.7/de)
+<sup>2</sup> …
+
+<sup>3</sup> Die ordnungsgemässe Geschäftsverwaltung besteht insbesondere aus der systematischen Aufzeichnung des Geschäftsprozesses und aus der Verwaltung der dabei entstehenden Informationen.
+
+<sup>4</sup> Die während der Laufzeit eines Geschäfts entstehenden Informationen müssen das Geschäft vollständig und nachvollziehbar dokumentieren.
+
+#### Art. 33a
+
+**Einsatz von Geschäftsverwaltungssystemen**
+
+<sup>1</sup> Für den Nachweis ihrer Verwaltungstätigkeit setzen die Verwaltungseinheiten ein standardisiertes elektronisches Geschäftsverwaltungssystem (GEVER) ein.
+
+<sup>2</sup> Sie können für spezifische Aufgaben ein nicht standardisiertes GEVER-System einsetzen, wenn:
+
+- a. das standardisierte GEVER-System die Erfüllung der Aufgaben nicht angemessen unterstützt; und
+- b. die Beschaffung, Entwicklung und der Betrieb des nicht standardisierten GEVER-Systems unter Berücksichtigung aller Kosten insgesamt günstiger ist.
+
+<sup>3</sup> Der Einsatz eines nicht standardisierten GEVER-Systems setzt eine Prüfung durch die Fachstelle Digitale Verwaltung unter Einbezug des Landesarchivs voraus.
+
+#### Art. 33b
+
+**Verbot der parallelen Bewirtschaftung**
+
+<sup>1</sup> Geschäftsrelevante Informationen dürfen nicht in mehreren GEVER-Systemen parallel bewirtschaftet werden.
+
+<sup>2</sup> Sie dürfen vorübergehend ausserhalb von GEVER-Systemen bearbeitet werden, insbesondere um die Zusammenarbeit mit externen Stellen zu ermöglichen.
+
+<sup>3</sup> Nach der externen Bearbeitung sind die geschäftsrelevanten Informationen in das GEVER-System zurückzuführen.
+
+#### Art. 33c
+
+**Grundstruktur der Ablage**
+
+<sup>1</sup> Die Verwaltungseinheiten führen in ihren GEVER-Systemen ein Ordnungssystem.
+
+<sup>2</sup> Die Informationen sind in Dossiers abzulegen. Jedes Dossier muss einer Position des Ordnungssystems eindeutig zugeordnet sein.
+
+<sup>3</sup> Nach Beendigung eines Geschäftes vervollständigen und bereinigen die Verwaltungseinheiten das Dossier und schliessen es in ihrem GEVER-System ab.
 
 ## 4. Information und Kommunikation
 
@@ -381,9 +419,9 @@ verordnet:
 
 #### Art. 36
 
-**Amtsbericht an den Landrat**
+**Tätigkeitsbericht an den Landrat**
 
-<sup>1</sup> Im jährlichen Amtsbericht legen der Regierungsrat sowie die Departemente und die Staatskanzlei gegenüber dem Landrat Rechenschaft über ihre Tätigkeit ab. Der Regierungsrat bestimmt im Rahmen der übergeordneten Vorgaben die Modalitäten.
+<sup>1</sup> Im jährlichen Tätigkeitsbericht legen der Regierungsrat sowie die Departemente und die Staatskanzlei gegenüber dem Landrat Rechenschaft über ihre Tätigkeit ab. Der Regierungsrat bestimmt im Rahmen der übergeordneten Vorgaben die Modalitäten.
 
 ## 5. Schlussbestimmungen
 
@@ -413,9 +451,9 @@ verordnet:
 - d. Parlamentsdienst,
 - e. Verbindung und Koordination zwischen Regierungsrat und Landrat,
 - f. Wahlen und Abstimmungen,
-- g. Information, Kommunikation und amtliche Publikationen,
+- g. Information und Kommunikation,
 - h. juristische Beratung der Departemente ohne eigenes juristisches Personal,
-- i. Gesetzessammlung,
+- i. Gesetzessammlung und amtliche Publikationen,
 - k. …
 - l. Koordinationsstelle Statistik,
 - m. Beglaubigungen und Apostillen,
@@ -423,7 +461,8 @@ verordnet:
 - o. Nutzung des Rathauses und des Rathausplatzes zu privaten Zwecken,
 - p. Weibeldienst, Beschaffung und Verwaltung Büromaterial sowie Vervielfältigungsgeräte, Postdienst,
 - q. Telefonie (Budget/Rechnung), Telefonzentrale,
-- r. Protokollarisches, Verbindung mit den diplomatischen und konsularischen Korps.
+- r. Protokollarisches, Verbindung mit den diplomatischen und konsularischen Korps,
+- s. Öffentlichkeitsprinzip.
 
 #### Art. A1-2
 
@@ -447,10 +486,10 @@ verordnet:
 - n. Gesundheitsversorgung einschliesslich Spitalwesen und Spitex,
 - o. Rettungswesen,
 - p. Aufsicht über die Berufe des Gesundheitswesens,
-- q. Aufsicht über die Einrichtungen der Gesundheitspflege,
+- q. Aufsicht über die Einrichtungen der Gesundheitsversorgung mit Ausnahme der spitalexternen Pflege,
 - r. Heilmittel-, Betäubungsmittel- und Giftkontrolle,
 - s. Lebensmittelkontrolle,
-- t. Vollzug Krankenversicherungsgesetz,
+- t. Vollzug Krankenversicherungsgesetz mit Ausnahme der spitalexternen Pflege,
 - u. Veterinärwesen.
 
 #### Art. A1-3
@@ -528,7 +567,7 @@ verordnet:
 - p. Arbeitnehmerschutz,
 - q. Seilbahnen und Skilifte,
 - r. Sozialwesen, Kindes- und Erwachsenenschutz,
-- s. Altersbetreuung,
+- s. spitalexterne Pflege und Betreuung,
 - t. Opferhilfe,
 - u. Sozialversicherungen und Kinderzulagen.
 
@@ -582,6 +621,7 @@ verordnet:
   - 0\.9. Datenschutz (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
   - 0\.10. …
   - 0\.11. Finanzkontrolle (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
+  - 0\.12. Digitale Verwaltung
 
 #### Art. A2-2
 
@@ -596,7 +636,7 @@ verordnet:
 - b. Hauptabteilung Personal und Organisation
   - 0\.1. Lohnwesen und Personalsysteme
   - 0\.2. Anlauf- und Meldestelle (administrativ zugewiesen)
-  - 1\. Abteilung Informatik
+  - 1\. …
 - c. Hauptabteilung Steuern
   - 1\. Abteilung natürliche Personen
   - 2\. Abteilung juristische Personen
@@ -612,7 +652,12 @@ verordnet:
   - 0\.4. …
   - 0\.5. Lebensmittelkontrolle
   - 0\.6. Kantonstierärztlicher Dienst
+  - 0\.7. Koordination Gesundheit (KOGE)
 - e. …
+- f. Hauptabteilung Informatik
+  - 0\.1. Projekte
+  - 0\.2. Infrastruktur und Betrieb
+  - 0\.3. Helpdesk und Support
 
 #### Art. A2-3
 
@@ -622,7 +667,7 @@ verordnet:
 
 - a. Departementssekretariat
   - 0\.1. Beschwerdewesen
-  - 0\.2. Ausbildungsbeiträge
+  - 0\.2. …
 - b. Hauptabteilung Volksschule und Sport
   - 0\.1. Sport
   - 0\.2. Sonderpädagogik
@@ -637,7 +682,7 @@ verordnet:
 - c. Hauptabteilung Höheres Schulwesen und Berufsbildung
   - 0\.1. Berufsbildung
   - 0\.1.1. …
-  - 0\.2. Berufsberatung
+  - 0\.2. Berufsberatung und Ausbildungsbeiträge
   - 0\.3. Fach-/Fachhochschulen, Universitäten
   - 1\. Kantonsschule mit Sportschule (gemäss Art. 25 Abs. 2 RVOG administrativ zugewiesen)
   - 2\. Berufsbildungskommission (gemäss Art. 25 Abs. 2 RVOG administrativ zugewiesen)
@@ -722,9 +767,10 @@ verordnet:
   - 4\. Abteilung Grundbuchamt
 - c. Hauptabteilung Soziales
   - 0\.1. Zentrale Dienste
-  - 0\.2. Heimfragen
+  - 0\.2. Behindertenfragen
   - 0\.3. Asylwesen
   - 0\.4. Kommission für Behindertenbauten
+  - 0\.5. Pflege und Betreuung
   - 1\. Abteilung Kindes- und Erwachsenenschutz
   - 1\.1. Kindes- und Erwachsenenschutz
   - 1\.2. Erbschaft
@@ -760,14 +806,14 @@ verordnet:
   - 2\. Abteilung Zivilschutz
   - 2\.1. Schutzbauten
 - d. Hauptabteilung Justiz
-  - 1\. Abteilung Verwaltungspolizei
-  - 1\.1. Gewerbepolizei
-  - 1\.2. Messwesen
-  - 1\.3. Justizvollzug
+  - 0\.1. Messwesen
+  - 1\. Abteilung Justizvollzug
+  - 1\.1.–1.3. …
   - 1\.4. Gefängnis
   - 2\. Abteilung Migration und Passbüro
   - 3\. Strassenverkehrs- und Schifffahrtsamt
   - 4\. Betreibungs- und Konkursamt
+  - 4\.1. Konkursamt
   - 5\. Zivilstands- und Bürgerrechtsdienst
   - 5\.1. Zivilstandsamt
 - e. Hauptabteilung Staats- und Jugendanwaltschaft (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
