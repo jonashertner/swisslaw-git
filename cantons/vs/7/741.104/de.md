@@ -4,20 +4,20 @@ number: "741.104"
 title: Reglement über den Tarif der Gebühren und Kosten im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr
 short: RTarVZV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-15
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-12-21
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/de/versions/3000/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3141/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Tarif der Gebühren und Kosten im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr
 
-vom 15.12.2021 (Stand 01.01.2022)
+vom 15.12.2021 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -61,8 +61,8 @@ beschliesst:
 - a) Bewilligung zur Prüfung oder zu einer Kontrollfahrt — Fr. 10
 - b) Ausstellen einer neuen Bewilligung nach Verlust, Diebstahl oder infolge anderer Umstände, die den Ersatz erforderlich machen — Fr. 10
 - c) theoretische Basisprüfung — Fr. 30
-- d) zusätzliche theoretische Prüfungen für die Kategorien C oder D oder die Unterkategorien C1 oder D1 — Fr. 80
-- e) Prüfung über die Zusatztheorie, welche zum Erstellen der Bewilligung für gewerbsmässige Personenbeförderung für Inhaber der Führerausweiskategorien B oder C, der Unterkategorien B1 oder C1 oder der Spezialkategorie F gefordert wird — Fr. 40
+- d) zusätzliche theoretische Prüfungen für die Kategorien C oder D oder die Unterkategorien C1 oder D1 — Fr. 30
+- e) Prüfung über die Zusatztheorie, welche zum Erstellen der Bewilligung für gewerbsmässige Personenbeförderung für Inhaber der Führerausweiskategorien B oder C, der Unterkategorien B1 oder C1 oder der Spezialkategorie F gefordert wird — Fr. 30
 - f) individuelle Theorieprüfung auf Gesuch hin — Fr. 90
 - g) praktische Prüfung:
   - 1\. Kategorie A, Unterkategorie A1 — Fr. 80
@@ -70,12 +70,12 @@ beschliesst:
   - 3\. Kategorie C, CE, Unterkategorie C1, D1 — Fr. 135
   - 4\. Kategorie D — Fr. 180
   - 5\. zusätzliche praktische Prüfung, welche zum Erstellen der Bewilligung für gewerbsmässige Transporte für Inhaber der Führerausweiskategorien B oder C, der Unterkategorien B1 oder C1 oder der Spezialkategorie F gefordert wird — Fr. 90
-- h) Theorieprüfung CZV — Fr. 80
+- h) Theorieprüfung CZV — Fr. 60
 - i) besondere Prüfungen: für nachfolgende besondere Prüfungen, die von der Behörde angeordnet werden, wird eine Gebühr zwischen Fr. 30 und Fr. 180 je nach Umfang der Leistung erhoben, wenn die Gebühr dafür nicht in diesem Reglement vorgesehen ist: erneute theoretische und/oder praktische Prüfung, Kontrollfahrt, praktische Führerprüfung mit einem an eine Behinderung angepassten Fahrzeug, Fahreignungstest, praktische Führerprüfung der Kategorien G oder M, jede andere besondere Prüfung;
 - j) theoretische, praktische oder besondere Prüfung, für die keine Abmeldung 7 Werktage vor dem vorgesehenen Datum erfolgte: für die gewünschte oder angeordnete Prüfung vorgesehene Gebühr;
 - k) fristgerechte Annullierung einer praktischen Prüfung — Fr. 20
 - l) Bewilligung für eine theoretische oder praktische Führerprüfung in einem anderen Kanton — Fr. 30
-- m) Konsultation des Resultats einer Theorieprüfung — Fr. 30
+- m) Konsultation des Resultats einer Theorieprüfung — Fr. 30 bis 250
 
 #### Art. 4
 
@@ -101,14 +101,14 @@ beschliesst:
 - a) individuelle Kontrolle vor der erstmaligen Immatrikulation eines für die Schweiz abgenommenen Fahrzeugs und nachfolgende periodische Kontrollen:
   - 1\. leichte Motorwagen mit einem Gesamtgewicht bis und mit 3,50 t, einschliesslich Fahrzeuge zur Beförderung von Personen und Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge — Fr. 60
   - 2\. Transport- und Arbeitsanhänger mit einem Gesamtgewicht bis und mit 3,50 t — Fr. 50
-  - 3\. schwere Motorwagen mit einem Gesamtgewicht grösser als 3,50 t, aber kleiner oder gleich 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren und Arbeitsmaschinen; Gesellschaftswagen mit einem Gesamtgewicht bis und mit 19,50 t; Transport- und Arbeitsanhänger mit einem Gesamtgewicht grösser als 3,50 t — Fr. 130
-  - 4\. schwere Motorwagen mit einem Gesamtgewicht grösser als 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren und Arbeitsmaschinen; Gesellschaftswagen mit einem Gesamtgewicht grösser als 19,50 t; Landwirtschaftliche Fahrzeuge mit einem Gesamtgewicht grösser als 3,50 t — Fr. 130
+  - 3\. schwere Motorwagen mit einem Gesamtgewicht grösser als 3,50 t, aber kleiner oder gleich 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren und Arbeitsmaschinen; Gesellschaftswagen mit einem Gesamtgewicht bis und mit 19,50 t; Transport- und Arbeitsanhänger mit einem Gesamtgewicht grösser als 3,50 t — Fr. 100
+  - 4\. schwere Motorwagen mit einem Gesamtgewicht grösser als 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren und Arbeitsmaschinen; Gesellschaftswagen mit einem Gesamtgewicht grösser als 19,50 t; Landwirtschaftliche Fahrzeuge mit einem Gesamtgewicht grösser als 3,50 t — Fr. 120
   - 5\. Motorräder, drei- und vierrädrige Kleinmotorfahrzeuge; Anhänger für Motorräder und drei- und vierrädrige Kleinmotorfahrzeuge — Fr. 50
 - b) individuelle Kontrolle eines nicht oder teilweise abgenommenen Fahrzeugs oder eines Fahrzeugs nach einem einzigen Umbau oder einer einzigen Änderung:
   - 1\. leichte Motorwagen mit einem Gesamtgewicht bis und mit 3,50 t, einschliesslich Fahrzeuge zur Beförderung von Personen und Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge — Fr. 120
   - 2\. Transport- und Arbeitsanhänger mit einem Gesamtgewicht bis und mit 3,50 t — Fr. 100
-  - 3\. schwere Motorwagen mit einem Gesamtgewicht grösser als 3,50 t, aber kleiner oder gleich 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge; Gesellschaftswagen mit einem Gesamtgewicht bis und mit 19,50 t; Transport- und Arbeitsanhänger mit einem Gesamtgewicht grösser als 3,50 t — Fr. 260
-  - 4\. schwere Motorwagen mit einem Gesamtgewicht grösser als 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge; Gesellschaftswagen mit einem Gesamtgewicht grösser als 19,50 t — Fr. 260
+  - 3\. schwere Motorwagen mit einem Gesamtgewicht grösser als 3,50 t, aber kleiner oder gleich 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge; Gesellschaftswagen mit einem Gesamtgewicht bis und mit 19,50 t; Transport- und Arbeitsanhänger mit einem Gesamtgewicht grösser als 3,50 t — Fr. 200
+  - 4\. schwere Motorwagen mit einem Gesamtgewicht grösser als 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge; Gesellschaftswagen mit einem Gesamtgewicht grösser als 19,50 t — Fr. 240
   - 5\. Motorräder, drei- und vierrädrige Kleinmotorfahrzeuge — Fr. 100
 - c) Kontrolle der Anhängervorrichtung:
   - 1\. leichte Motorfahrzeuge deren Gesamtgewicht 3,50 t nicht überschreitet; darunter fallen Fahrzeuge für Personenbeförderung und Warentransport, Arbeitskarren und Arbeitsmaschinen sowie landwirtschaftliche Fahrzeuge — Fr. 30
@@ -116,7 +116,7 @@ beschliesst:
   - 3\. Motorräder, drei- und vierrädrige Kleinmotorfahrzeuge — Fr. 30
 - d) Nachkontrolle für Motorfahrzeuge
   - 1\. Nachkontrolle für Motorfahrzeuge deren Gesamtgewicht kleiner oder gleich 3,50 t beträgt — Fr. 30 bis 60
-  - 2\. Nachkontrolle für Motorfahrzeuge deren Gesamtgewicht 3,50 t überschreitet — Fr. 50 bis 130
+  - 2\. Nachkontrolle für Motorfahrzeuge deren Gesamtgewicht 3,50 t überschreitet — Fr. 50 bis 120
 - e) Kontrolle von Spezialfahrzeugen und besondere Arbeiten (Studium des Dossiers, mehrere Umbauten oder Änderungen, Messungen der Lärm- und Abgasemissionen, Eichen des Zählers, Tests unter Belastung, usw.): nach Zeitaufwand;
 - f) Kontrolle, für die 3 Werktage vor dem abgemachten Datum keine Abmeldung erfolgte: Gebühr der vorgesehenen Kontrolle;
 - g) fristgemässe Annullierung einer vom Halter verlangten technischen Kontrolle — Fr. 20
@@ -284,7 +284,7 @@ beschliesst:
 - k) jedes Mal, wenn die Kosten der Dienstleistung nach Zeitaufwand berechnet werden, kostet die Arbeitsstunde Fr. 120 pro Person;
 - l) zu nach Zeitaufwand berechneten Beträgen kommen die Reisekosten, welche eine nach Buchstabe d berechnete Stundenentschädigung und eine Kilometerentschädigung von Fr. 0,70 pro tatsächlich zurückgelegtem Kilometer umfassen. Die Reisekosten werden nicht erhoben bei Führer-prüfungen und bei Kontrollen von landwirtschaftlichen Fahrzeugen, die ausserhalb der offiziellen Kontrollhallen durchgeführt werden;
 - m) Grundausbildung zur Gewährung der Befreiung der Einzelprüfung vor der erstmaligen Inverkehrsetzung von typengenehmigten leichten Motorwagen — Fr. 150
-- n) Verwaltungsgebühren für technische Kontrollen von landwirtschaftlichen Fahrzeugen durch Delegationsbetriebe — Fr. 20
+- n) Verwaltungsgebühren für technische Kontrollen von landwirtschaftlichen Fahrzeugen durch Delegationsbetriebe — Fr. 10
 - o) Expressversand — Fr. 20 bis 40
 - p) andere nicht in diesem Reglement vorgesehene Dienstleistungen: nach ihrer Wichtigkeit.
 

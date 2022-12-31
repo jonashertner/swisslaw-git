@@ -4,20 +4,20 @@ number: "741.104"
 title: "Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière"
 short: RTarOAC
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-15
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-12-21
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/fr/versions/3000/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3141/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière
 
-du 15.12.2021 (état 01.01.2022)
+du 15.12.2021 (état 01.01.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -61,8 +61,8 @@ arrête:
 - a) autorisation de se présenter à un examen ou à une course de contrôle — Fr. 10
 - b) établissement d'une nouvelle autorisation suite à perte, vol, changement d’adresse ou toute autre circonstance nécessitant son remplacement — Fr. 10
 - c) examens théoriques de base — Fr. 30
-- d) examen théorique complémentaire pour les catégories C ou D ou les sous-catégories C1 ou D1 — Fr. 80
-- e) examen portant sur la théorie complémentaire exigée pour la délivrance de l'autorisation de transporter des personnes à titre professionnel aux titulaires d'un permis de conduire des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F — Fr. 40
+- d) examen théorique complémentaire pour les catégories C ou D ou les sous-catégories C1 ou D1 — Fr. 30
+- e) examen portant sur la théorie complémentaire exigée pour la délivrance de l'autorisation de transporter des personnes à titre professionnel aux titulaires d'un permis de conduire des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F — Fr. 30
 - f) examen théorique individuel sur requête — Fr. 90
 - g) examen pratique:
   - 1\. catégorie A, sous-catégorie A1 — Fr. 80
@@ -70,12 +70,12 @@ arrête:
   - 3\. catégorie C, CE, sous-catégories C1, D1 — Fr. 135
   - 4\. catégorie D — Fr. 180
   - 5\. examen complémentaire pratique exigé pour la délivrance de l'autorisation d'effectuer des transports à titre professionnel aux titulaires d'un permis de conduire des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F — Fr. 90
-- h) examen théorique OACP — Fr. 80
+- h) examen théorique OACP — Fr. 60
 - i) examens particuliers: pour les examens particuliers suivants ordonnés par l'autorité, il sera perçu un émolument fixé entre Fr. 30 et Fr. 180 selon l'importance de la prestation, si l'émolument pour cette dernière n'est pas prévu dans le présent règlement: nouvel examen théorique et/ou pratique, course de contrôle, examen pratique de conduite d’un véhicule adapté à un handicap, test psychotechnique, examen pratique des catégories G ou M, tout autre examen particulier;
 - j) examen théorique, pratique ou particulier non décommandé 7 jours ouvrables avant le jour fixé: émolument prévu pour l'examen sollicité ou ordonné;
 - k) annulation dans le délai fixé d'un rendez-vous pour un examen pratique — Fr. 20
 - l) autorisation de subir l'examen de conduite (théorie et/ou pratique) dans un autre canton — Fr. 30
-- m) consultation du résultat d'un examen théorique — Fr. 30
+- m) consultation du résultat d'un examen théorique — de Fr. 30 à Fr. 250
 
 #### Art. 4
 
@@ -101,14 +101,14 @@ arrête:
 - a) contrôle individuel précédant la première immatriculation d'un véhicule réceptionné CH et contrôles subséquents périodiques:
   - 1\. voitures automobiles légères dont le poids total est inférieur ou égal à 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles — Fr. 60
   - 2\. remorques de transport et de travail dont le poids total est inférieur ou égal à 3,50 t — Fr. 50
-  - 3\. voitures automobiles lourdes dont le poids total est supérieur à 3,50 t mais inférieur ou égal à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail; autocars dont le poids total est inférieur ou égal à 19,50 t; remorques de transport et de travail dont le poids total est supérieur à 3,50 t — Fr. 130
-  - 4\. voitures automobiles lourdes dont le poids total est supérieur à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail; autocars dont le poids total est supérieur à 19,50 t; véhicules agricoles dont le poids total est supérieur à 3,50 t — Fr. 130
+  - 3\. voitures automobiles lourdes dont le poids total est supérieur à 3,50 t mais inférieur ou égal à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail; autocars dont le poids total est inférieur ou égal à 19,50 t; remorques de transport et de travail dont le poids total est supérieur à 3,50 t — Fr. 100
+  - 4\. voitures automobiles lourdes dont le poids total est supérieur à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail; autocars dont le poids total est supérieur à 19,50 t; véhicules agricoles dont le poids total est supérieur à 3,50 t — Fr. 120
   - 5\. motocycles, tricycles et quadricycles à moteur; remorques attelées aux motocycles, tricycles et quadricycles à moteur — Fr. 50
 - b) contrôle individuel d'un véhicule non réceptionné ou partiellement réceptionné ou ayant subi une seule transformation ou modification:
   - 1\. voitures automobiles légères dont le poids total est inférieur ou égal à 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles — Fr. 120
   - 2\. remorques de transport et de travail dont le poids total est inférieur ou égal à 3,50 t — Fr. 100
-  - 3\. voitures automobiles lourdes dont le poids total est supérieur à 3,50 t mais inférieur ou égal à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail, les véhicules agricoles; autocars dont le poids total est inférieur ou égal à 19,50 t; remorques de transport et de travail dont le poids total est supérieur à 3,50 t — Fr. 260
-  - 4\. voitures automobiles lourdes dont le poids total est supérieur à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail, les véhicules agricoles; autocars dont le poids total est supérieur à 19,50 t — Fr. 260
+  - 3\. voitures automobiles lourdes dont le poids total est supérieur à 3,50 t mais inférieur ou égal à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail, les véhicules agricoles; autocars dont le poids total est inférieur ou égal à 19,50 t; remorques de transport et de travail dont le poids total est supérieur à 3,50 t — Fr. 200
+  - 4\. voitures automobiles lourdes dont le poids total est supérieur à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail, les véhicules agricoles; autocars dont le poids total est supérieur à 19,50 t — Fr. 240
   - 5\. motocycles, tricycles et quadricycles à moteur — Fr. 100
 - c) contrôle du dispositif d’attelage:
   - 1\. voitures automobiles légères dont le poids total est inférieur ou égal 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles — Fr. 30
@@ -116,7 +116,7 @@ arrête:
   - 3\. motocycles, tricycles et quadricycles à moteur — Fr. 30
 - d) contrôle complémentaire
   - 1\. contrôle complémentaire pour les véhicules dont le poids total est inférieur ou égal à 3,50 t — Fr. 30 à Fr. 60
-  - 2\. contrôle complémentaire pour les véhicules dont le poids total est supérieur à 3,50 t — Fr. 50 à Fr.130
+  - 2\. contrôle complémentaire pour les véhicules dont le poids total est supérieur à 3,50 t — Fr. 50 à Fr.120
 - e) contrôles des véhicules spéciaux et travaux particuliers (étude du dossier, cumul de transformations ou de modifications, mesures des émissions sonores ou polluantes, étalonnage de compteur, tests en charge, etc.): selon le temps consacré;
 - f) contrôle non décommandé 4 jours ouvrables avant le jour fixé: émolument identique à celui prévu pour le contrôle;
 - g) annulation dans le délai prescrit d’un rendez-vous pour un contrôle technique demandé par le détenteur — Fr. 20
@@ -284,7 +284,7 @@ arrête:
 - k) chaque fois que le coût de la prestation doit être déterminé en fonction du temps consacré, le prix de l’heure est de Fr. 120 par personne;
 - l) aux montants facturés en fonction du temps consacré, s’ajoutent les frais de déplacement qui comprennent une indemnité horaire calculée conformément à la lettre d ci-devant et une indemnité de Fr. 0,70 par kilomètre effectif parcouru. Les frais de déplacement ne sont pas perçus pour les examens de conduite ainsi que pour les contrôles des véhicules agricoles effectués à l’extérieur des halles officielles de contrôle;
 - m) formation de base pour l'octroi de la dispense de contrôle individuel précédant la première mise en circulation pour les véhicules automobiles légers réceptionnés — Fr. 150
-- n) émoluments administratifs pour l’expertise agricole des délégataires — Fr. 20
+- n) émoluments administratifs pour l’expertise agricole des délégataires — Fr. 10
 - o) envoi EXPRESS — Fr. 20 à Fr. 40
 - p) autres prestations non prévues par le présent règlement: selon leur importance.
 
