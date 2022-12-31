@@ -4,11 +4,11 @@ title: Ordinanza del 31 ottobre 2012 concernente il trasporto di merci pericolos
 short: RSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-785-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-785-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20210101/it"
 
 (RSD)
 
-del 31 ottobre 2012 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 31 ottobre 2012 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -150,34 +150,34 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 La presente ordinanza entra in vigore il 1° gennaio 2013.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 3 cpv. 2)
 
 ## Versione applicabile del RID
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DATEC del 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6155](https://fedlex.data.admin.ch/eli/oc/2020/1017)).
+[^t-1]: Nuovo testo giusta il n. I cpv. 1 dell’O del DATEC del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 691](https://fedlex.data.admin.ch/eli/oc/2022/691)).
 
-Si applicano le prescrizioni dell’edizione 2021 del RID[^annex1-lvlu1-1].
+Si applicano le prescrizioni del RID 2023[^annex1-lvlu1-1].
 
-[^annex1-lvlu1-1]: Il RID (appendice C alla Convenzione del 9 mag. 1980 relativa ai trasporti internazionali ferroviari, COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) non è pubblicato nella RU. Il testo può essere consultato in francese, tedesco e inglese sul sito Internet dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF): www.otif.org &gt; Marchandises dangereuses.
+[^annex1-lvlu1-1]: Il contenuto del RID 2023 (allegato dell’appendice C alla Convenzione relativa ai trasporti internazionali ferroviari nel tenore del Protocollo di modifica del 3 giugno 1999, COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato sul sito Internet dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF) all’indirizzo www.otif.org &gt; Textes de référence &gt; RID 2023.
 
-Allegato 2.1*[^t-2]*
+Allegato 2.1[^t-2]
 
 (art. 5 cpv. 1)
 
 ## Deroghe a singole prescrizioni del RID per il trasporto di merci pericolose per ferrovia nel traffico nazionale
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del DATEC del 7 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del DATEC del 7 dic. 2018 ([RU 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)). Aggiornato dal n. I cpv. 2 dell’O del DATEC del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)).
 
 <table>
 <tr><th>Numeri delle prescrizioni del RID</th><th>Prescrizioni deroganti al RID per il trasporto di merci pericolose per ferrovia nel traffico nazionale</th></tr>
 <tr><td>1.1.4.4</td><td>I veicoli stradali trasportati per ferrovia (trasporto combinato) nonché il loro contenuto devono soddisfare anche i requisiti dell’allegato 3 dell’ordinanza del 29 novembre 2002[^annex21-lvlu1-1] concernente il trasporto di merci pericolose su strada (SDR).</td></tr>
 <tr><td>2.2.1.2</td><td>Gli esplosivi che sono destinati all’impiego su pendii a rischio valanga e che devono essere trasportati pronti per l’uso non soggiacciono alle prescrizioni del RID se sono soddisfatte le seguenti condizioni: – il trasporto avviene direttamente dal luogo di deposito al luogo di impiego previsto; – gli esplosivi sono imballati, caricati e scaricati dai responsabili degli esplosivi; – il trasporto è accompagnato dai responsabili degli esplosivi; – il trasporto avviene nell’ambito di una corsa di servizio al di fuori dell’orario pubblicato; – oltre ai responsabili degli esplosivi, sul mezzo di trasporto (treno, impianto a fune) è presente solo il personale necessario per l’esecuzione del trasporto stesso; – i responsabili degli esplosivi dispongono del permesso necessario secondo gli articoli 51–60 dell’ordinanza del 27 novembre 2000[^annex21-lvlu1-2] sugli esplosivi.</td></tr>
 <tr><td>4.1.4.1 P200 (9)</td><td>I recipienti destinati alle immersioni sottomarine che contengono gas dei codici di classificazione 1A e 1O devono essere sottoposti a un esame visivo ogni due anni e mezzo e a un controllo periodico completo ogni cinque anni.</td></tr>
-<tr><td>5.3.1.2 5.3.6</td><td>Al posto delle placche e del marchio «materia pericolosa per l’ambiente», le casse mobili usate esclusivamente per il trasporto di colli possono essere munite di pannelli color arancio. I pannelli color arancio devono essere apposti su entrambe le fiancate delle casse mobili e soddisfare i requisiti RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 e 5.3.2.2.5. Non è consentita alcuna segnalazione alternativa come fogli autoadesivi, pitture o mediante ogni altro procedimento equivalente. Le casse mobili che trasportano: – colli contenenti materie o oggetti della classe 1 (salvo la divisione 1.4, gruppo di compatibilità S) oppure – materiale radioattivo della classe 7 in imballaggi o grandi imballaggi (salvo i colli esonerati) devono essere munite delle apposite placche su entrambe le fiancate e a ogni estremità.</td></tr>
+<tr><td>5.3.1.2 5.3.6</td><td>Al posto delle placche e del marchio «materia pericolosa per l’ambiente», le casse mobili usate esclusivamente per il trasporto di colli possono essere munite di pannelli color arancio. I pannelli color arancio devono essere apposti su entrambe le fiancate delle casse mobili e soddisfare i requisiti RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 e 5.3.2.2.5. Non è consentita alcuna segnalazione alternativa come fogli autoadesivi, pitture o mediante ogni altro procedimento equivalente. Le casse mobili che trasportano: – colli contenenti materie o oggetti della classe 1 (salvo la divisione 1.4, gruppo di compatibilità S) oppure – materiale radioattivo della classe 7 in imballaggi o grandi imballaggi (salvo i colli esonerati) devono essere munite delle apposite placche su entrambe le fiancate e a ogni estremità. Se al posto delle placche conformi ai modelli n. 2.1, 3, 4.1, 4.2, 4.3, 5.1 o 5.2 sono apposti pannelli color arancio, rimane applicabile la distanza di protezione secondo la sezione 7.5.3 RID.</td></tr>
 <tr><td>5.3.1.3</td><td>Se alle casse mobili al posto delle placche e del marchio «materia pericolosa per l’ambiente» sono apposti pannelli color arancio e questi non sono visibili all’esterno del carro, devono essere apposti pannelli color arancio anche su entrambe le fiancate del carro. Non è consentita alcuna segnalazione alternativa come fogli autoadesivi, pitture o mediante ogni altro procedimento equivalente.</td></tr>
-<tr><td>5.3.1.5 5.3.6</td><td>Al posto delle placche e del marchio «materia pericolosa per l’ambiente», i carri usati esclusivamente per il trasporto di colli possono essere muniti di pannelli color arancio. I pannelli color arancio devono essere apposti su entrambe le fiancate dei carri e soddisfare i requisiti RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 e 5.3.2.2.5. Non è consentita alcuna segnalazione alternativa come fogli autoadesivi, pitture o mediante ogni altro procedimento equivalente. I carri che trasportano: – colli contenenti materie o oggetti della classe 1 (salvo la divisione 1.4, gruppo di compatibilità S) oppure – materiale radioattivo della classe 7 in imballaggi o grandi imballaggi (salvo i colli esonerati) devono essere muniti delle apposite placche su entrambe le fiancate.</td></tr>
+<tr><td>5.3.1.5 5.3.6</td><td>Al posto delle placche e del marchio «materia pericolosa per l’ambiente», i carri usati esclusivamente per il trasporto di colli possono essere muniti di pannelli color arancio. I pannelli color arancio devono essere apposti su entrambe le fiancate dei carri e soddisfare i requisiti RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 e 5.3.2.2.5. Non è consentita alcuna segnalazione alternativa come fogli autoadesivi, pitture o mediante ogni altro procedimento equivalente. I carri che trasportano: – colli contenenti materie o oggetti della classe 1 (salvo la divisione 1.4, gruppo di compatibilità S) oppure – materiale radioattivo della classe 7 in imballaggi o grandi imballaggi (salvo i colli esonerati) devono essere muniti delle apposite placche su entrambe le fiancate. Se al posto delle placche conformi ai modelli n. 2.1, 3, 4.1, 4.2, 4.3, 5.1 o 5.2 sono apposti pannelli color arancio, rimane applicabile la distanza di protezione secondo la sezione 7.5.3 RID.</td></tr>
 <tr><td>5.4.1.1.1</td><td>Per designare la merce nel documento di trasporto si può procedere come segue: Ad eccezione delle materie e degli oggetti della classe 7, è ammessa una rubrica collettiva a condizione che al documento di trasporto sia allegata una lista (p. es. una bolla di consegna o un «titolo per il trasporto stradale») contenente le indicazioni prescritte in 5.4.1.1.1 RID. La rubrica collettiva deve essere completata dall’abbreviazione «RSD» e dal rinvio «cfr. lista allegata» (p. es. «sostanze chimiche RSD, cfr. lista allegata»). Non è necessario riportare una croce nel documento di trasporto.</td></tr>
 <tr><td>6</td><td>I container-cisterna cubici (precedentemente denominati «contenitoricisterna») ammessi per il trasporto di determinate sostanze secondo le prescrizioni del numero 1.2.8.5 dell’appendice X RSD, in vigore fino al 31 dicembre 1987, possono essere riutilizzati come contenitori intermedi per il trasporto alla rinfusa (IBC) per il trasporto di tali sostanze a condizione che soddisfino le prescrizioni del RID: 6.5.3, 6.5.4.4, 6.5.4.5 e 6.5.5.1 (eccezion fatta per 6.5.5.1.5 e 6.5.5.1.6). Container-cisterna di cantiere: I container-cisterna di cantiere possono essere impiegati per il trasporto di carburante diesel (n. ONU 1202) se conformi alle prescrizioni dei capitoli 1.6, 4.8 e 6.14 dell’appendice 1 SDR relative alla costruzione, all’uso e ai controlli. La sezione 7.5.7 RID si applica per analogia.</td></tr>
 </table>
@@ -185,7 +185,7 @@ Allegato 2.1*[^t-2]*
 [^annex21-lvlu1-1]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
 [^annex21-lvlu1-2]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
 
-Allegato 2.2*[^t-3]*
+Allegato 2.2[^t-3]
 
 (art. 5 cpv. 1)
 

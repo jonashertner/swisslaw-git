@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuse
 short: RSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-785-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-785-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20210101/fr"
 
 (RSD)
 
-du 31 octobre 2012 (Etat le 1<sup>er</sup> janvier 2021)
+du 31 octobre 2012 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -27,7 +27,7 @@ arrête:
 
 [^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
 [^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: Nouvelle teneur selon le ch. II 6 de l’annexe à l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-3]: Nouvelle teneur selon l’annexe ch. II 6 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
 #### Art. 1
 
@@ -150,35 +150,34 @@ L’abrogation et la modification du droit en vigueur sont réglées à l’anne
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2013.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 3, al. 2)
 
 ## Version applicable du RID
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6155](https://fedlex.data.admin.ch/eli/oc/2020/1017)).
+[^t-1]: Nouvelle teneur selon le ch. I al. 1 de l’O du DETEC du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 691](https://fedlex.data.admin.ch/eli/oc/2022/691)).
 
-Sont applicables les prescriptions de l’édition 2021 du RID[^annex1-lvlu1-1].
+Sont applicables les prescriptions du RID 2023[^annex1-lvlu1-1].
 
-[^annex1-lvlu1-1]: Le texte du RID (appendice C à la Convention du 9 mai 1980 relative aux transports internationaux ferroviaires; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) n’est pas publié au RO. Il peut être consulté sur le site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), www.otif.org &gt; Marchandises dangereuses.
+[^annex1-lvlu1-1]: Le contenu du RID 2023 (annexe de l’appendice C à la Convention relative aux transports internationaux ferroviaires dans la teneur du protocole de modification du 3 juin 1999; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur le site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), www.otif.org &gt; Textes de référence &gt; RID 2023.
 
-Annexe <sup>2</sup>.1*[^t-2]*
+Annexe <sup>2</sup>.1[^t-2]
 
 (art. 5, al. 1)
 
 ## Dérogations à certaines prescriptions du RID pour le transport de marchandises dangereuses par chemin de fer en trafic national
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 7 déc. 2018 ([RO 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)). Mise à jour par le ch. I al. 2 de l’O du DETEC du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 691](https://fedlex.data.admin.ch/eli/oc/2022/691)).
 
 <table>
 <tr><th>Numéros des prescriptions RID</th><th>Prescriptions dérogatoires pour le transport de marchandises dangereuses par chemin de fer en trafic national</th></tr>
 <tr><td>1.1.4.4</td><td>Les véhicules routiers convoyés par ferroutage et leur contenu doivent satisfaire aux exigences de l’appendice 3 de l’ordonnance du 29 novembre 2002 relative au transport des marchandises dangereuses par route (SDR)[^annex21-lvlu1-1].</td></tr>
 <tr><td>2.2.1.2</td><td>Les explosifs qui sont destinés au déclenchement d’avalanches et qui doivent être transportés prêts à l’emploi ne sont pas soumis aux prescriptions du RID lorsque les conditions suivantes sont remplies: – le transport se fait par voie directe de l’entrepôt d’explosifs jusqu’à l’endroit prévu pour leur utilisation; – les explosifs sont emballés, chargés et déchargés par des responsables du minage; – le transport est accompagné par des responsables du minage; – le transport a lieu en dehors de l’horaire publié, dans le cadre d’une course de service; – seul le personnel requis pour effectuer le transport est admis à bord (chemin de fer, installation de transport à câbles) en sus des responsables du minage; – les responsables du minage sont titulaires du permis requis conformément aux art. 51 à 60 de l’ordonnance du 27 novembre 2000 sur les explosifs[^annex21-lvlu1-2].</td></tr>
 <tr><td>4.1.4.1 P200 (9)</td><td>Les récipients destinés à la plongée sous-marine contenant des gaz du code de classification 1A et 1O doivent subir tous les deux ans et demi un examen visuel et tous les cinq ans un examen périodique complet.</td></tr>
-<tr><td>5.3.1.2 5.3.6</td><td>En lieu et place des plaques-étiquettes et de la marque «matière dangereuse pour l’environnement», des panneaux orange peuvent être utilisés sur les caisses mobiles transportant uniquement des colis. Les panneaux orange doivent être apposés sur les deux côtés latéraux de la caisse mobile et satisfaire aux exigences des ch. 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 et 5.3.2.2.5 du RID. Une signalisation alternative telle que feuille autocollante, peinture ou tout autre procédé équivalent n’est pas autorisée.</td></tr>
-<tr><td></td><td>Les plaques-étiquettes adéquates doivent être apposées sur les deux côtés latéraux et à chaque extrémité des caisses mobiles qui transportent: – des colis contenant des matières ou des objets de la classe 1 (excepté ceux de la division 1.4, groupe de compatibilité S), ou – des matières radioactives de la classe 7 dans des emballages ou dans de grands emballages (sauf les colis exemptés).</td></tr>
+<tr><td>5.3.1.2 5.3.6</td><td>En lieu et place des plaques-étiquettes et de la marque «matière dangereuse pour l’environnement», des panneaux orange peuvent être utilisés sur les caisses mobiles transportant uniquement des colis. Les panneaux orange doivent être apposés sur les deux côtés latéraux de la caisse mobile et satisfaire aux exigences des ch. 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 et 5.3.2.2.5 du RID. Une signalisation alternative telle que feuille autocollante, peinture ou tout autre procédé équivalent n’est pas autorisée. Les plaques-étiquettes adéquates doivent être apposées sur les deux côtés latéraux et à chaque extrémité des caisses mobiles qui transportent: – des colis contenant des matières ou des objets de la classe 1 (excepté ceux de la division 1.4, groupe de compatibilité S), ou – des matières radioactives de la classe 7 dans des emballages ou dans de grands emballages (sauf les colis exemptés). La distance de protection selon le ch. 7.5.3 du RID reste applicable lorsque des panneaux orange sont apposés en lieu et place de plaques-étiquettes conformes aux modèles n<sup>os</sup> 2.1, 3, 4.1, 4.2, 4.3, 5.1 ou 5.2.</td></tr>
 <tr><td>5.3.1.3</td><td>Si les panneaux orange apposés sur les caisses mobiles en lieu et place des plaques-étiquettes et de la marque «matière dangereuse pour l’environnement» ne sont pas visibles de l’extérieur du wagon porteur, des panneaux orange seront apposées en outre sur les deux côtés latéraux du wagon. Une signalisation alternative telle que feuille autocollante, peinture ou tout autre procédé équivalent n’est pas autorisée.</td></tr>
-<tr><td>5.3.1.5 5.3.6</td><td>En lieu et place des plaques-étiquettes et de la marque «matière dangereuse pour l’environnement», des panneaux orange peuvent être utilisés sur les wagons transportant uniquement des colis. Les panneaux orange doivent être apposés sur les deux côtés latéraux du wagon et satisfaire aux exigences des ch. 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 et 5.3.2.2.5 du RID. Une signalisation alternative telle que feuille autocollante, peinture ou tout autre procédé équivalent n’est pas autorisée. Les plaques-étiquettes adéquates doivent être apposées sur les deux côtés latéraux des wagons qui transportent: – des colis contenant des matières ou des objets de la classe 1 (excepté ceux de la division 1.4, groupe de compatibilité S), ou – des matières radioactives de la classe 7 dans des emballages ou dans de grands emballages (sauf les colis exemptés).</td></tr>
+<tr><td>5.3.1.5 5.3.6</td><td>En lieu et place des plaques-étiquettes et de la marque «matière dangereuse pour l’environnement», des panneaux orange peuvent être utilisés sur les wagons transportant uniquement des colis. Les panneaux orange doivent être apposés sur les deux côtés latéraux du wagon et satisfaire aux exigences des ch. 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 et 5.3.2.2.5 du RID. Une signalisation alternative telle que feuille autocollante, peinture ou tout autre procédé équivalent n’est pas autorisée. Les plaques-étiquettes adéquates doivent être apposées sur les deux côtés latéraux des wagons qui transportent: – des colis contenant des matières ou des objets de la classe 1 (excepté ceux de la division 1.4, groupe de compatibilité S), ou – des matières radioactives de la classe 7 dans des emballages ou dans de grands emballages (sauf les colis exemptés). La distance de protection selon le ch. 7.5.3 du RID reste applicable lorsque des panneaux orange sont apposés en lieu et place de plaques-étiquettes conformes aux modèles n<sup>os</sup> 2.1, 3, 4.1, 4.2, 4.3, 5.1 ou 5.2.</td></tr>
 <tr><td>5.4.1.1.1</td><td>La procédure suivante est aussi admise pour désigner la marchandise dans le document de transport: À l’exception des matières et objets de la classe 7, on peut utiliser un terme collectif ad hoc, pour autant qu’une liste (p. ex. bulletin de livraison ou document de bord pour transport routier) accompagne le document de transport. Cette liste contient les indications prescrites au ch. 5.4.1.1.1 du RID. Il faut compléter le terme collectif par l’abréviation «RSD» et le renvoi «cf. liste annexée» (p. ex. «produits chimiques RSD, cf. liste annexée»). La croix n’est plus nécessaire dans le document de transport.</td></tr>
 <tr><td>6</td><td>Les conteneurs-citernes cubiques (désignés précédemment comme conteneurs-citernes) homologués selon les prescriptions du ch. 1.2.8.5 de l’annexe X RSD, valables jusqu’au 31 décembre 1987, pour transporter des substances déterminées peuvent être utilisés comme grands récipients pour vrac (GRV) pour acheminer ces substances s’ils correspondent aux prescriptions des ch. 6.5.3, 6.5.4.4, 6.5.4.5 et 6.5.5.1 du RID, à l’exception des prescriptions des ch. 6.5.5.1.5 et 6.5.5.1.6. Conteneurs-citernes de chantiers: Les conteneurs-citernes de chantier sont autorisés pour le transport de carburant diesel (n<sup>o</sup> ONU 1202) s’ils correspondent aux prescriptions relatives à la construction, à l’utilisation et aux épreuves des ch. 1.6, 4.8 et 6.14 de l’appendice 1 de la SDR. La section 7.5.7 du RID s’applique par analogie.</td></tr>
 </table>
@@ -186,7 +185,7 @@ Annexe <sup>2</sup>.1*[^t-2]*
 [^annex21-lvlu1-1]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
 [^annex21-lvlu1-2]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
 
-Annexe <sup>2.2</sup>*[^t-3]*
+Annexe <sup>2.2</sup>[^t-3]
 
 (art. 5, al. 1)
 

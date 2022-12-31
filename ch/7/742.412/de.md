@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2012 über die Beförderung gefährlicher Güt
 short: RSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2012-785-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-785-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20210101/de"
 
 (RSD)
 
-vom 31. Oktober 2012 (Stand am 1. Januar 2021)
+vom 31. Oktober 2012 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -150,34 +150,34 @@ Die Aufhebung und die Änderung bisherigen Rechts werden in Anhang 3 geregelt.
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3 Abs. 2)
 
 ## Gültige Fassung des RID
 
-[^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 4. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6155](https://fedlex.data.admin.ch/eli/oc/2020/1017)).
+[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des UVEK vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 691](https://fedlex.data.admin.ch/eli/oc/2022/691)).
 
-Es gelten die Vorschriften des RID[^annex1-lvlu1-1] der Ausgabe 2021.
+Es gelten die Vorschriften des RID 2023[^annex1-lvlu1-1].
 
-[^annex1-lvlu1-1]: Der Text des RID (Anhang C zum Übereinkommen vom 9. Mai 1980 über den internationalen Eisenbahnverkehr; COTIF; [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) wird in der AS nicht veröffentlicht. Der Text kann auf der Internetseite der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF) unter www.otif.org &gt; Gefährliche Güter abgerufen werden.
+[^annex1-lvlu1-1]: Der Inhalt des RID 2023 (Anlage von Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr in der Fassung des Änderungsprotokolls vom 3. Juni 1999; COTIF; [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann auf der Internetseite der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF) unter www.otif.org &gt; Referenztexte &gt; RID 2023 abgerufen werden.
 
-Anhang <sup>2</sup>.1*[^t-2]*
+Anhang <sup>2</sup>.1[^t-2]
 
 (Art. 5 Abs. 1)
 
 ## Abweichungen von einzelnen Vorschriften des RID für die Beförderung gefährlicher Güter mit Eisenbahnen im nationalen Verkehr
 
-[^t-2]: Fassung gemäss Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)).
+[^t-2]: Fassung gemäss Ziff. I der V des UVEK vom 7. Dez. 2018 ([AS 2018 5019](https://fedlex.data.admin.ch/eli/oc/2018/784)). Bereinigt gemäss Ziff. I Abs. 2 der V des UVEK vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 691](https://fedlex.data.admin.ch/eli/oc/2022/691)).
 
 <table>
 <tr><th>Nummern der RID‑Vorschriften</th><th>Abweichende Vorschriften für die Beförderung gefährlicher Güter mit Eisenbahnen im nationalen Verkehr</th></tr>
 <tr><td>1.1.4.4</td><td>Die zur Beförderung im Huckepackverkehr aufgegebenen Strassenfahrzeuge sowie deren Inhalt müssen zusätzlich den Anforderungen des Anhangs 3 der Verordnung vom 29. November 2002[^annex21-lvlu1-1] über die Beförderung gefährlicher Güter auf der Strasse (SDR) entsprechen.</td></tr>
 <tr><td>2.2.1.2</td><td>Sprengmittel, die für den Einsatz in Lawinenhängen vorgesehen sind und fertig konfektioniert befördert werden müssen, unterliegen den RID-Vorschriften nicht, wenn folgende Bedingungen erfüllt sind: – Die Beförderung erfolgt auf direktem Weg vom Sprengmittellager zum vorgesehenen Einsatzort. – Die Sprengmittel werden durch Sprengverantwortliche verpackt, verladen und entladen. – Die Beförderung wird durch Sprengverantwortliche begleitet. – Die Beförderung erfolgt ausserhalb des publizierten Fahrplans im Rahmen einer Dienstfahrt. – Ausser den Sprengverantwortlichen befindet sich nur das für die Durchführung der Beförderung notwendige Personal im Beförderungsmittel (Bahn, Seilbahn). – Die Sprengverantwortlichen verfügen über den notwendigen Ausweis nach den Artikeln 51–60 der Sprengstoffverordnung vom 27. November 2000[^annex21-lvlu1-2].</td></tr>
 <tr><td>4.1.4.1 P200 (9)</td><td>Zu Tauchzwecken verwendete Gefässe für Gase der Klassifizierungscode 1A und 1O müssen alle zweieinhalb Jahre einer Sichtprüfung und alle fünf Jahre einer vollständigen wiederkehrenden Prüfung unterzogen werden.</td></tr>
-<tr><td>5.3.1.2 5.3.6</td><td>An Wechselaufbauten (Wechselbehältern), in denen nur Versandstücke befördert werden, dürfen anstelle der Grosszettel und des Kennzeichens für umweltgefährdende Stoffe orangefarbene Tafeln verwendet werden. Die orangefarbenen Tafeln sind an den beiden Längsseiten des Wechselbehälters anzubringen und müssen die Anforderungen nach RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 und 5.3.2.2.5 erfüllen. Eine alternative Kennzeichnung wie Selbstklebefolie, Farbanstrich oder jedes andere gleichwertige Verfahren ist nicht zulässig. An Wechselbehältern, in denen: – Versandstücke mit Stoffen oder Gegenständen der Klasse 1 (ausgenommen Unterklasse 1.4 Verträglichkeitsgruppe S) oder – radioaktive Stoffe der Klasse 7 in Verpackungen oder Grossverpackungen (ausgenommen freigestellte Versandstücke) befördert werden, sind an den beiden Längsseiten des Wechselbehälters und an jedem Ende die entsprechenden Grosszettel anzubringen.</td></tr>
+<tr><td>5.3.1.2 5.3.6</td><td>An Wechselaufbauten (Wechselbehältern), in denen nur Versandstücke befördert werden, dürfen anstelle der Grosszettel und des Kennzeichens für umweltgefährdende Stoffe orangefarbene Tafeln verwendet werden. Die orangefarbenen Tafeln sind an den beiden Längsseiten des Wechselbehälters anzubringen und müssen die Anforderungen nach RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 und 5.3.2.2.5 erfüllen. Eine alternative Kennzeichnung wie Selbstklebefolie, Farbanstrich oder jedes andere gleichwertige Verfahren ist nicht zulässig. An Wechselbehältern, in denen: – Versandstücke mit Stoffen oder Gegenständen der Klasse 1 (ausgenommen Unterklasse 1.4 Verträglichkeitsgruppe S) oder – radioaktive Stoffe der Klasse 7 in Verpackungen oder Grossverpackungen (ausgenommen freigestellte Versandstücke) befördert werden, sind an den beiden Längsseiten des Wechselbehälters und an jedem Ende die entsprechenden Grosszettel anzubringen. Wenn orangefarbene Tafeln anstelle der Grosszettel nach Muster 2.1, 3, 4.1, 4.2, 4.3, 5.1 oder 5.2 angebracht werden, gilt der Schutzabstand nach RID 7.5.3 weiterhin.</td></tr>
 <tr><td>5.3.1.3</td><td>Wenn an Wechselbehältern orangefarbene Tafeln anstelle der Grosszettel und des Kennzeichens für umweltgefährdende Stoffe angebracht werden und diese ausserhalb des Tragwagens nicht sichtbar sind, müssen orangefarbene Tafeln auch an den beiden Längsseiten des Wagens angebracht werden. Eine alternative Kennzeichnung wie Selbstklebefolie, Farbanstrich oder jedes andere gleichwertige Verfahren ist nicht zulässig.</td></tr>
-<tr><td>5.3.1.5 5.3.6</td><td>An Wagen, in denen nur Versandstücke befördert werden, dürfen anstelle der Grosszettel und des Kennzeichens für umweltgefährdende Stoffe orangefarbene Tafeln verwendet werden. Die orangefarbenen Tafeln sind an den beiden Längsseiten der Wagen anzubringen und müssen die Anforderungen nach RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 und 5.3.2.2.5 erfüllen. Eine alternative Kennzeichnung wie Selbstklebefolie, Farbanstrich oder jedes andere gleichwertige Verfahren ist nicht zulässig. An Wagen, in denen: – Versandstücke mit Stoffen oder Gegenständen der Klasse 1 (ausgenommen Unterklasse 1.4 Verträglichkeitsgruppe S) oder – radioaktive Stoffe der Klasse 7 in Verpackungen oder Grossverpackungen (ausgenommen freigestellte Versandstücke) befördert werden, sind an den beiden Längsseiten des Wagens die entsprechenden Grosszettel anzubringen.</td></tr>
+<tr><td>5.3.1.5 5.3.6</td><td>An Wagen, in denen nur Versandstücke befördert werden, dürfen anstelle der Grosszettel und des Kennzeichens für umweltgefährdende Stoffe orangefarbene Tafeln verwendet werden. Die orangefarbenen Tafeln sind an den beiden Längsseiten der Wagen anzubringen und müssen die Anforderungen nach RID 5.3.2.1.8, 5.3.2.2.1, 5.3.2.2.4 und 5.3.2.2.5 erfüllen. Eine alternative Kennzeichnung wie Selbstklebefolie, Farbanstrich oder jedes andere gleichwertige Verfahren ist nicht zulässig. An Wagen, in denen: – Versandstücke mit Stoffen oder Gegenständen der Klasse 1 (ausgenommen Unterklasse 1.4 Verträglichkeitsgruppe S) oder – radioaktive Stoffe der Klasse 7 in Verpackungen oder Grossverpackungen (ausgenommen freigestellte Versandstücke) befördert werden, sind an den beiden Längsseiten des Wagens die entsprechenden Grosszettel anzubringen. Wenn orangefarbene Tafeln anstelle der Grosszettel nach Muster 2.1, 3, 4.1, 4.2, 4.3, 5.1 oder 5.2 angebracht werden, gilt der Schutzabstand nach RID 7.5.3 weiterhin.</td></tr>
 <tr><td>5.4.1.1.1</td><td>Für die Bezeichnung des Gutes im Beförderungspapier darf auch wie folgt vorgegangen werden: Mit Ausnahme von Stoffen und Gegenständen der Klasse 7 darf eine entsprechende Sammelbezeichnung verwendet werden, sofern dem Beförderungspapier eine Liste (z. B. Lieferschein oder Beförderungspapier für Strassentransport) beigeheftet ist, welche die in RID 5.4.1.1.1 vorgeschriebenen Angaben enthält. Die Sammelbezeichnung ist mit der Abkürzung «RSD» und dem Hinweis «siehe beil. Liste» zu ergänzen (z. B. «Chemikalien RSD, siehe beil. Liste»). Das Anbringen eines Kreuzes im Beförderungspapier entfällt.</td></tr>
 <tr><td>6</td><td>Kubische Tankcontainer KTC (früher als Tankcontainer bezeichnet), die nach den bis 31. Dezember 1987 geltenden Vorschriften von Absatz 1.2.8.5 des Anhangs X RSD für die Beförderung bestimmter Stoffe zugelassen wurden, dürfen als Grosspackmittel (IBC) für die Beförderung dieser Stoffe weiter verwendet werden, sofern sie den folgenden Vorschriften des RID entsprechen: 6.5.3, 6.5.4.4, 6.5.4.5 und 6.5.5.1 mit Ausnahme von 6.5.5.1.5 und 6.5.5.1.6. Baustellentanks: Baustellentanks sind für die Beförderung von Dieselkraftstoff (UN 1202) zugelassen, sofern sie den Vorschriften der Kapitel 1.6, 4.8 und 6.14 des Anhangs 1 SDR über Bau, Verwendung und Prüfung entsprechen. Abschnitt 7.5.7 RID ist sinngemäss anzuwenden.</td></tr>
 </table>
@@ -185,7 +185,7 @@ Anhang <sup>2</sup>.1*[^t-2]*
 [^annex21-lvlu1-1]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
 [^annex21-lvlu1-2]: [SR 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
 
-Anhang <sup>2.2</sup>*[^t-3]*
+Anhang <sup>2.2</sup>[^t-3]
 
 (Art. 5 Abs. 1)
 
@@ -226,7 +226,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex3-lvlu1-2]
+…[^annex3-lvlu1-2]
 
-[^annex3-lvlu1-1]: [[AS 1996 3436](https://fedlex.data.admin.ch/eli/oc/1996/3436_3436_3436), [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 19 [5995](https://fedlex.data.admin.ch/eli/oc/2008/828)]
+[^annex3-lvlu1-1]: [[AS 1996 3436](https://fedlex.data.admin.ch/eli/oc/1996/3436_3436_3436); [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 19, [5995](https://fedlex.data.admin.ch/eli/oc/2008/828)]
 [^annex3-lvlu1-2]: Die Änderungen können unter [AS 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)konsultiert werden.
