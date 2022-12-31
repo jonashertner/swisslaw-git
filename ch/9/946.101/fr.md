@@ -4,11 +4,11 @@ title: "Ordonnance du 25 octobre 2006 sur l'Assurance suisse contre les risques 
 short: OASRE
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/669"
 language: fr
-version: 2020-09-01
+version: 2023-01-01
 adopted: 2006-10-25
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/669/20200901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-669-20200901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/669/20200901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/669/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-669-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/669/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/669/20200901/fr"
 
 (OASRE)
 
-du 25 octobre 2006 (Etat le 1<sup>er</sup> septembre 2020)
+du 25 octobre 2006 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -63,8 +63,8 @@ L’ASRE peut accorder l’assurance même si la part de valeur ajoutée suisse 
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
 [^3-2]: [RS 946.31](https://fedlex.data.admin.ch/eli/cc/2008/271)
-[^3-3]: Nouvelle teneur selon le ch. I de l’O du 12 août 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 31 déc. 2022 ([RO 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
-[^3-4]: Nouvelle teneur selon le ch. I de l’O du 12 août 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 31 déc. 2022 ([RO 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 550](https://fedlex.data.admin.ch/eli/oc/2022/550)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 550](https://fedlex.data.admin.ch/eli/oc/2022/550)).
 
 #### Art. 4
 
@@ -72,16 +72,13 @@ L’ASRE peut accorder l’assurance même si la part de valeur ajoutée suisse 
 
 <sup>1</sup> Le taux maximal de couverture s’élève à 95 % du montant assuré.
 
-<sup>2</sup> ...[^4-2]
+<sup>2</sup> Le taux de couverture s’élève à 80 % au maximum pour l’assurance du crédit de fabrication. Dans des cas exceptionnels, l’ASRE peut, sur requête motivée, porter le taux de couverture à 95 % au plus.
 
-<sup>3</sup> Le taux maximal de couverture s’élève à 100 % du montant garanti pour la garantie de *bonds*.[^4-3]
+<sup>3</sup> Le taux de couverture s’élève à 90 % au maximum pour la garantie de *bonds*. Dans des cas exceptionnels, l’ASRE peut, sur requête motivée, élever le taux de couverture jusqu’à concurrence du montant total.
 
-<sup>4</sup> Le preneur d’assurance ne peut pas racheter de pourcentage de couverture.[^4-4]
+<sup>4</sup> Pour le reste, le preneur d’assurance ne peut pas racheter de pourcentage de couverture.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
-[^4-2]: Abrogé par le ch. I de l’O du 12 août 2020, avec effet du 1<sup>er</sup> sept. 2020 au 31 déc. 2022 ([RO 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 12 août 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 31 déc. 2022 ([RO 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
-[^4-4]: Nouvelle teneur selon le ch. I de l’O du 12 août 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 31 déc. 2022 ([RO 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
 
 #### Art. 5
 
@@ -121,9 +118,8 @@ L’ASRE peut accorder l’assurance même si la part de valeur ajoutée suisse 
 
 Le requérant s’engage:
 
-a.[^8-1] à fournir à l’ASRE toutes les informations importantes pour la conclusion du contrat d’assurance, notamment en ce qui concerne la corruption, l’environnement et les droits de l’homme;
-
-à exposer les faits de manière complète et correcte et à communiquer à l’ASRE toute modification de ceux-ci.
+- a.[^8-1] à fournir à l’ASRE toutes les informations importantes pour la conclusion du contrat d’assurance, notamment en ce qui concerne la corruption, l’environnement et les droits de l’homme;
+- b. à exposer les faits de manière complète et correcte et à communiquer à l’ASRE toute modification de ceux-ci.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
 
@@ -235,7 +231,7 @@ L’ASRE perçoit:
 
 <sup>3</sup> Il est soumis à l’approbation du Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^16-1], qui consulte préalablement le Département fédéral des finances (DFF).
 
-[^16-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^16-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 5 Sinistre
 
@@ -270,7 +266,7 @@ Pour le reste, les droits et les obligations de l’ASRE et du preneur d’assur
 
 <sup>2</sup> Lorsqu’il nomme les membres du conseil d’administration, le Conseil fédéral tient compte de ce profil et veille à la représentation appropriée des intérêts de la Confédération.
 
-<sup>3</sup> …[^18-1]
+<sup>3</sup> ...[^18-1]
 
 [^18-1]: Abrogé par le ch. I de l’O du 12 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
 

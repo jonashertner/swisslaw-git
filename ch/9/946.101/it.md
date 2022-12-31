@@ -4,20 +4,20 @@ title: "Ordinanza del 25 ottobre 2006 concernente l'Assicurazione svizzera contr
 short: OARE
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/669"
 language: it
-version: 2020-09-01
+version: 2023-01-01
 adopted: 2006-10-25
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/669/20200901/it/xml/fedlex-data-admin-ch-eli-cc-2006-669-20200901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/669/20200901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/669/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-669-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/669/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’Assicurazione svizzera contro i rischi delle esportazioni
 
-(OARE)**[^t-1]**
+(OARE)[^t-1]
 
-del 25 ottobre 2006 (Stato 1° settembre 2020) (Stato 1° settembre 2020)
+del 25 ottobre 2006 (Stato 1° gennaio 2023)
 
 [^t-1]: [RU 2007 1071](https://fedlex.data.admin.ch/eli/oc/2007/182)
 
@@ -65,8 +65,8 @@ L’ASRE può accordare l’assicurazione anche se la quota di valore aggiunto s
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
 [^3-2]: [RS 946.31](https://fedlex.data.admin.ch/eli/cc/2008/271)
-[^3-3]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
+[^3-3]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 550](https://fedlex.data.admin.ch/eli/oc/2022/550)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 550](https://fedlex.data.admin.ch/eli/oc/2022/550)).
 
 #### Art. 4
 
@@ -74,16 +74,13 @@ L’ASRE può accordare l’assicurazione anche se la quota di valore aggiunto s
 
 <sup>1</sup> Il saggio di garanzia massimo è pari al 95 per cento dell’importo assicurato.
 
-<sup>2</sup> ...[^4-2]
+<sup>2</sup> Per l’assicurazione del credito di fabbricazione il saggio di garanzia è pari al massimo all’80 per cento. In casi eccezionali e dietro richiesta motivata, l’ASRE può aumentare il saggio di garanzia fino al 95 per cento.
 
-<sup>3</sup> Per la garanzia su bond il saggio di garanzia è pari al massimo al 100 per cento dell’importo garantito.[^4-3]
+<sup>3</sup> Per la garanzia su bond il saggio di garanzia è pari al massimo al 90 per cento. In casi eccezionali e dietro richiesta motivata, l’ASRE può aumentare il saggio di garanzia fino a coprire l’importo totale.
 
-<sup>4</sup> Lo stipulante non può acquistare percentuali di garanzia.[^4-4]
+<sup>4</sup> Per il resto, lo stipulante non può acquistare percentuali di garanzia.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
-[^4-2]: Abrogato dal n. I dell’O del 12 ago. 2020, con effetto dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
 
 #### Art. 5
 
@@ -101,7 +98,7 @@ L’ASRE può accordare l’assicurazione anche se la quota di valore aggiunto s
 [^5-2]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
 [^5-3]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
 
-## Sezione 2: Procedura di proposta e di verifica****
+## Sezione 2: Procedura di proposta e di verifica
 
 [^sec2-1]
 
@@ -244,7 +241,7 @@ L’ASRE riscuote:
 
 <sup>3</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^16-1] approva la tariffa dei premi dell’ASRE dopo aver sentito il parere del Dipartimento federale delle finanze (DFF).
 
-[^16-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^16-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 5: Evento assicurato
 

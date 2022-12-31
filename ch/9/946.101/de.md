@@ -4,11 +4,11 @@ title: Verordnung vom 25. Oktober 2006 über die Schweizerische Exportrisikovers
 short: SERV-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/669"
 language: de
-version: 2020-09-01
+version: 2023-01-01
 adopted: 2006-10-25
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/669/20200901/de/xml/fedlex-data-admin-ch-eli-cc-2006-669-20200901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/669/20200901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/669/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-669-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/669/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/669/20200901/de"
 
 (SERV-V)
 
-vom 25. Oktober 2006 (Stand am 1. September 2020)
+vom 25. Oktober 2006 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -63,8 +63,8 @@ Die SERV kann die Versicherung auch gewähren, wenn der schweizerische Wertschö
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
 [^3-2]: [SR 946.31](https://fedlex.data.admin.ch/eli/cc/2008/271)
-[^3-3]: Fassung gemäss Ziff. I der V vom 12. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
-[^3-4]: Fassung gemäss Ziff. I der V vom 12. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 550](https://fedlex.data.admin.ch/eli/oc/2022/550)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 550](https://fedlex.data.admin.ch/eli/oc/2022/550)).
 
 #### Art. 4
 
@@ -72,16 +72,13 @@ Die SERV kann die Versicherung auch gewähren, wenn der schweizerische Wertschö
 
 <sup>1</sup> Der maximale Deckungssatz liegt bei 95 Prozent des versicherten Betrags.
 
-<sup>2</sup> ...[^4-2]
+<sup>2</sup> Für die Fabrikationskreditversicherung beträgt der Deckungssatz maximal 80 Prozent. In Ausnahmefällen kann die SERV den Deckungssatz auf begründeten Antrag hin auf bis zu 95 Prozent erhöhen.
 
-<sup>3</sup> Für die Bondgarantie beträgt der Deckungssatz maximal 100 Prozent des garantierten Betrags.[^4-3]
+<sup>3</sup> Für die Bondgarantie beträgt der Deckungssatz maximal 90 Prozent. In Ausnahmefällen kann die SERV den Deckungssatz auf begründeten Antrag hin bis zum vollen Garantiebetrag erhöhen.
 
-<sup>4</sup> Die Versicherungsnehmerin kann keine Deckungsprozente zukaufen.[^4-4]
+<sup>4</sup> Im Übrigen kann die Versicherungsnehmerin keine Deckungsprozente zukaufen.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2221](https://fedlex.data.admin.ch/eli/oc/2015/410)).
-[^4-2]: Aufgehoben durch Ziff. I der V vom 12. Aug. 2020, mit Wirkung vom 1. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
-[^4-3]: Fassung gemäss Ziff. I der V vom 12. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
-[^4-4]: Fassung gemäss Ziff. I der V vom 12. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 3599](https://fedlex.data.admin.ch/eli/oc/2020/646)).
 
 #### Art. 5
 
@@ -376,10 +373,10 @@ Folgende Verordnungen werden aufgehoben:
 - 5\. Verordnung des EVD vom 8. März 1999[^29-5] über die Erhebung von Gebühren für Exportrisikogarantien durch Organisationen der Wirtschaft;
 - 6\. Verordnung des EVD vom 8. März 1999[^29-6] über die Erhebung einer Mindestgebühr für Exportrisikogarantien.
 
-[^29-1]: [[AS 1998 1624](https://fedlex.data.admin.ch/eli/oc/1998/1624_1624_1624), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 10]
+[^29-1]: [[AS 1998 1624](https://fedlex.data.admin.ch/eli/oc/1998/1624_1624_1624); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 10]
 [^29-2]: [[AS 2002 4347](https://fedlex.data.admin.ch/eli/oc/2002/707)]
 [^29-3]: [[AS 1999 617](https://fedlex.data.admin.ch/eli/oc/1999/91)]
-[^29-4]: [[AS 2002 2782](https://fedlex.data.admin.ch/eli/oc/2002/409), [2004 1269](https://fedlex.data.admin.ch/eli/oc/2004/148)]
+[^29-4]: [[AS 2002 2782](https://fedlex.data.admin.ch/eli/oc/2002/409); [2004 1269](https://fedlex.data.admin.ch/eli/oc/2004/148)]
 [^29-5]: [[AS 1999 1542](https://fedlex.data.admin.ch/eli/oc/1999/231)]
 [^29-6]: [[AS 1999 1543](https://fedlex.data.admin.ch/eli/oc/1999/232)]
 
@@ -401,7 +398,7 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 <sup>2</sup> Die SERV schliesst gestützt auf Zusagen, die unter dem bisherigen Recht vorbehaltlos abgegeben worden sind und deren Befristung im Zeitpunkt des Inkrafttretens des Gesetzes noch nicht abgelaufen ist, auf Antrag einen Versicherungsvertrag im Umfang der Zusicherungen ab, sofern die Verhältnisse sich nicht wesentlich geändert haben. Sie behandelt diese Verträge gemäss dem Bundesgesetz vom 26. September 1958[^31-1] über die Exportrisikogarantie, sofern die Versicherungsnehmerin nicht den Abschluss des Vertrags nach neuem Recht beantragt.
 
-[^31-1]: [[AS 1959 391](https://fedlex.data.admin.ch/eli/oc/1959/391_409_385), [1973 1024](https://fedlex.data.admin.ch/eli/oc/1973/1024_1024_1022),[1978 1985](https://fedlex.data.admin.ch/eli/oc/1978/1985_1985_1985), [1981 56](https://fedlex.data.admin.ch/eli/oc/1981/56_56_56), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 63, [1996 2444](https://fedlex.data.admin.ch/eli/oc/1996/2444_2444_2444). [AS 2006 1801](https://fedlex.data.admin.ch/eli/oc/2006/284)Art. 37 Abs. 1]
+[^31-1]: [[AS 1959 391](https://fedlex.data.admin.ch/eli/oc/1959/391_409_385); [1973 1024](https://fedlex.data.admin.ch/eli/oc/1973/1024_1024_1022);[1978 1985](https://fedlex.data.admin.ch/eli/oc/1978/1985_1985_1985); [1981 56](https://fedlex.data.admin.ch/eli/oc/1981/56_56_56); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 63; [1996 2444](https://fedlex.data.admin.ch/eli/oc/1996/2444_2444_2444). [AS 2006 1801](https://fedlex.data.admin.ch/eli/oc/2006/284)Art. 37 Abs. 1]
 
 #### Art. 32
 
