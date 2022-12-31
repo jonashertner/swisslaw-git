@@ -4,13 +4,12 @@ number: "890"
 title: Gesetz über die Arbeitslosenversicherung und den Arbeitslosenhilfsfonds
 short: AVAHG
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-09-10
+version: 2023-01-01
+version_adopted: 2022-10-24
 adopted: 2000-01-18
 in_force: 2000-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/890"
-pdf: "https://srl.lu.ch/api/de/versions/3341/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4047/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3341/pdf_file"
 
 (AVAHG)
 
-vom 18.01.2000 (Stand 01.01.2019)
+vom 18.01.2000 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -64,11 +63,15 @@ beschliesst:
 
 <sup>1</sup> Die regionalen Arbeitsvermittlungszentren (RAV) sorgen für die Wiedereingliederung der Arbeitslosen und die Besetzung offener Stellen. Sie stehen zu diesem Zweck in engem Kontakt mit der Arbeitgeberschaft.
 
+<sup>1<sup>bis</sup></sup> Sie sind die zuständigen Behörden für die Bearbeitung der Anmeldung zur Arbeitsvermittlung gemäss Artikel 10 Absatz 3 des Bundesgesetzes. Sie prüfen die Anmeldung auf Vollständigkeit. Sie dürfen mittels Abrufverfahren auf die kantonale Einwohnerplattform gemäss § 9 des Registergesetzes vom 25. Mai 2009[^3-1] zugreifen, um den Wohnort der versicherten Personen zu überprüfen. Sie leiten die Unterlagen für die Bezugsberechtigung an die zuständige Arbeitslosenkasse weiter.
+
 <sup>2</sup> Sie führen mit den Arbeitslosen im Sinn einer Standortbestimmung Beratungs- und Vermittlungsgespräche durch und leisten Bewerbungshilfe. Sie arbeiten dabei namentlich mit der zuständigen Arbeitslosenkasse, den für die Berufsbildung und die Weiterbildung zuständigen Stellen, der Invalidenversicherung, den Sozialämtern und anderen Sozialeinrichtungen sowie Vertrauensärzten zusammen.
 
 <sup>3</sup> Als Informations- und Koordinationsstellen für die Beratung, Betreuung, Beschäftigung, Weiterbildung und Vermittlung weisen sie die Arbeitslosen nach der Standortbestimmung wenn nötig an die zuständigen Stellen und Einrichtungen oder an die privaten Stellenvermittlungen, mit denen Verträge über die Zusammenarbeit bestehen.
 
 <sup>4</sup> Die regionalen Arbeitsvermittlungszentren sind dem Geschäftsfeld Wirtschaft und Arbeit des Sozialversicherungszentrums angegliedert. Der Verwaltungsrat des Sozialversicherungszentrums kann ihnen Aufgaben im Bereich der Arbeitslosenkasse, des Arbeitsmarktes und der Gemeindearbeitsämter übertragen.
+
+[^3-1]: SRL-Nr. [25](https://srl.lu.ch/data/25/de)
 
 #### § 4
 
@@ -82,17 +85,7 @@ beschliesst:
 
 #### § 5
 
-**Arbeitsämter der Gemeinden**
-
-<sup>1</sup> Zuständige Amtsstellen im Sinn von Artikel 20 Absätze 1, 2 und 4 der Verordnung über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom 31. August 1983 (AVIV)[^5-1] sind die Arbeitsämter der Gemeinden.
-
-<sup>2</sup> Die Arbeitsämter der Gemeinden erbringen gegenüber den Versicherten administrative Hilfestellungen bei der Anmeldung zur Arbeitsvermittlung und bei der Datenerhebung für die Bezugsberechtigung. Sie leiten die erforderlichen Unterlagen nach den Anordnungen des Geschäftsfeldes Wirtschaft und Arbeit an die zuständige Arbeitslosenkasse oder das zuständige regionale Arbeitsvermittlungszentrum weiter.
-
-<sup>3</sup> Die Arbeitsämter der Gemeinden informieren im Rahmen von Artikel 125 AVIV das zuständige regionale Arbeitsvermittlungszentrum und die zuständige Arbeitslosenkasse über alle Tatsachen, die für die Beurteilung der Anspruchsberechtigung erheblich sind.
-
-<sup>4</sup> Die Arbeitsämter der Gemeinden melden ihnen bekannte offene Stellen dem zuständigen regionalen Arbeitsvermittlungszentrum zur Aufnahme in das Informationssystem für die Arbeitsvermittlung und die Arbeitsmarktstatistik.
-
-[^5-1]: SR [837.02](https://db.clex.ch/link/Bund/837.02/de). Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
+**…**
 
 #### § 6
 
@@ -100,7 +93,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat wählt die tripartite Kommission und ihren Präsidenten oder ihre Präsidentin.
 
-<sup>2</sup> Die tripartite Kommission setzt sich zu gleichen Teilen aus Vertreterinnen und Vertretern der Arbeitgeber- und der Arbeitnehmerschaft sowie der kantonalen und der kommunalen Arbeitsmarktbehörden zusammen.
+<sup>2</sup> Die tripartite Kommission setzt sich zu gleichen Teilen aus Vertreterinnen und Vertretern der Arbeitgeber- und der Arbeitnehmerschaft und der kantonalen Arbeitsmarktbehörde sowie aus Vertreterinnen und Vertretern der Gemeinden zusammen.
 
 <sup>3</sup> Die kantonale Arbeitslosenkasse ist mit beratender Stimme durch ein Mitglied vertreten.
 
@@ -110,7 +103,7 @@ beschliesst:
 
 #### § 7
 
-<sup>1</sup> Zusätzlich zu den in Artikel 19 des Bundesgesetzes genannten Feiertagen besteht ein Entschädigungsanspruch an folgenden Feiertagen: Karfreitag, Fronleichnam, Mariä Himmelfahrt, Allerheiligen und Stefanstag.
+**…**
 
 ### 1.3
 
@@ -193,7 +186,7 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Gegen alle in Anwendung dieses Gesetzes erlassenen Verfügungen kann innert 30 Tagen Einsprache erhoben werden.
+<sup>1</sup> Gegen alle in Anwendung dieses Gesetzes erlassenen Verfügungen kann innert 30 Tagen Einsprache erhoben werden. Bei Verfügungen der regionalen Arbeitsvermittlungszentren ist die Einsprache bei der kantonalen Amtsstelle gemäss § 2 zu erheben.
 
 <sup>2</sup> Die Einspracheentscheide sind innert 30 Tagen beim Kantonsgericht[^16-1] mit Verwaltungsgerichtsbeschwerde anfechtbar.
 
@@ -206,6 +199,12 @@ beschliesst:
 <sup>1</sup> Das Gesetz über die Arbeitslosenversicherung vom 15. März 1988[^17-1] wird aufgehoben.
 
 [^17-1]: G 1988 69 (SRL Nr. 890)
+
+#### § 17a
+
+**Übergangsbestimmung zur Änderung vom 24. Oktober 2022**
+
+<sup>1</sup> Die im Zeitpunkt des Inkrafttretens der Änderung dieses Gesetzes vom 24. Oktober 2022 hängigen Einsprachen gegen Verfügungen, die von den regionalen Arbeitsvermittlungszentren erlassen wurden, werden von der kantonalen Amtsstelle gemäss § 2 entschieden.
 
 #### § 18
 
