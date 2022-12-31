@@ -3,13 +3,12 @@ canton: TG
 number: "187.141"
 title: Geschäftsreglement des Evangelischen Kirchenrates des Kantons Thurgau
 language: de
-version: 2008-06-01
-valid_until: 2022-12-31
-version_adopted: 2008-03-12
+version: 2023-01-01
+version_adopted: 2022-06-29
 adopted: 2008-03-12
 in_force: 2008-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.141"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2037/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2606/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2037/pdf_file"
 
 Geschäftsreglement des Evangelischen Kirchenrates
 
-vom 12.03.2008 (Stand 01.06.2008)
+vom 12.03.2008 (Stand 01.01.2023)
 
 Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Thurgau vom 27. November 2000[^ingress-1] gibt sich der Evangelische Kirchenrat des Kantons Thurgau folgendes Geschäftsreglement:
 
@@ -40,7 +39,7 @@ Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Th
 
 **Kollegialbehörde**
 
-<sup>1</sup> Der Kirchenrat besteht aus fünf Mitgliedern. Er vertritt seine Beschlüsse als Kollegialbehörde. Die Ratsmitglieder sind grundsätzlich dem Mehrheitsbeschluss verpflichtet. Der Kirchenrat kann auf Antrag mit Mehrheitsbeschluss für einzelne Geschäfte die Aufhebung der Kollegialitätspflicht beschliessen und damit die Vertretung einer abweichenden Meinung der Minderheit nach aussen zulassen.
+<sup>1</sup> Der Kirchenrat vertritt seine Beschlüsse als Kollegialbehörde. Die Ratsmitglieder sind grundsätzlich dem Mehrheitsbeschluss verpflichtet. Der Kirchenrat kann auf Antrag mit Mehrheitsbeschluss für einzelne Geschäfte die Aufhebung der Kollegialitätspflicht beschliessen und damit die Vertretung einer abweichenden Meinung der Minderheit nach aussen zulassen.
 
 #### § 3
 
@@ -72,7 +71,7 @@ Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Th
 
 **Beschlussfassung**
 
-<sup>1</sup> Der Kirchenrat ist beschlussfähig, wenn mindestens drei Mitglieder anwesend sind. Anträge aus einem Ressort werden in der Regel nur in Anwesenheit des Ressortzuständigen behandelt. In dringenden Fällen oder nach Absprache kann auch das Kirchenratspräsidium ein Geschäft vertreten.
+<sup>1</sup> Der Kirchenrat ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Anträge aus einem Ressort werden in der Regel nur in Anwesenheit des Ressortzuständigen behandelt. In dringenden Fällen oder nach Absprache kann auch das Kirchenratspräsidium ein Geschäft vertreten.
 
 <sup>2</sup> Bei Abstimmungen entscheidet die Mehrheit der Stimmenden. Bei Stimmengleichheit gilt derjenige Antrag als angenommen, für den das Präsidium gestimmt hat. Es wird offen abgestimmt.
 
@@ -80,7 +79,7 @@ Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Th
 
 **Zirkulationsbeschlüsse**
 
-<sup>1</sup> In dringenden Fällen erfolgt die Beschlussfassung auf dem Weg der Zirkulation. Der Beschluss kommt zustande, wenn mindestens drei Mitglieder dem Antrag schriftlich zugestimmt haben.
+<sup>1</sup> In dringenden Fällen erfolgt die Beschlussfassung auf dem Weg der Zirkulation. Der Beschluss kommt zustande, wenn die Mehrheit der Mitglieder dem Antrag schriftlich zugestimmt hat.
 
 #### § 8
 
@@ -102,7 +101,7 @@ Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Th
 
 **Ausstand**
 
-<sup>1</sup> Es gilt die Ausstandsregel gemäss Verwaltungsrechtspflegegesetz[^10-1].
+<sup>1</sup> Es gilt die Ausstandsregel gemäss dem Gesetz über die Verwaltungsrechtspflege (VRG)[^10-1].
 
 <sup>2</sup> Hat ein Mitglied aus persönlichen Gründen den Ausstand zu wahren, verlässt es die Sitzung. In den übrigen Fällen bleibt es anwesend, nimmt jedoch an der Beratung oder Abstimmung nicht teil.
 
@@ -122,7 +121,7 @@ Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Th
 
 **Termine und Teilnahme**
 
-<sup>1</sup> Es finden in der Regel monatlich zwei bis vier Sitzungen statt. Eine ausserordentliche Sitzung findet statt auf Einladung des Kirchenratspräsidiums aufgrund anstehender Geschäfte oder auf Begehren von mindestens drei Mitgliedern.
+<sup>1</sup> Es finden in der Regel monatlich zwei bis vier Sitzungen statt. Eine ausserordentliche Sitzung findet statt auf Einladung des Kirchenratspräsidiums aufgrund anstehender Geschäfte oder auf Begehren der Mehrheit der Mitglieder.
 
 <sup>2</sup> Die Mitglieder sind zur Teilnahme an den Sitzungen verpflichtet. Im Verhinderungsfall ist das Präsidium rechtzeitig zu informieren.
 
@@ -188,7 +187,7 @@ Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Th
 
 **Aufteilung und Stellvertretung**
 
-<sup>1</sup> Die Aufgaben des Kirchenrates werden Ressorts zugeordnet, für die mindestens je ein Mitglied des Kirchenrates zuständig ist. Die Stellvertretung für alle Ressorts erfolgt durch das Kirchenratspräsidium.
+<sup>1</sup> Die Aufgaben des Kirchenrates werden Ressorts zugeordnet, für die mindestens je ein Mitglied des Kirchenrates zuständig ist. Es besteht eine Stellvertretungsregelung.
 
 <sup>2</sup> Die aktuelle Gliederung und Abgrenzung der Ressorts wird jeweils im Jahresbericht festgehalten.
 
@@ -198,14 +197,14 @@ Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Th
 
 <sup>1</sup> Die Zuständigkeit für ein Ressort umfasst hauptsächlich folgende Aufgaben:
 
-- 1\. Formulierung der kurz- und mittelfristigen Zielsetzungen und Aufzeigen der künftigen Aufgaben;
-- 2\. Erarbeitung eines Budgetentwurfs zuhanden des Kirchenrates in Zusammenarbeit mit dem Amt oder den Ämtern;
-- 3\. Vorbereitung von Anträgen aus dem Ressort an den Kirchenrat allenfalls in Zusammenarbeit mit den Kommissionen oder den landeskirchlichen Angestellten;
-- 4\. Vertretung des Budgets und der Anträge im Kirchenrat und gegebenenfalls gegenüber der Synode;
-- 5\. Begleitung von Projekten, die zu Kirchenratsbeschlüssen führen oder solche vollziehen;
-- 6\. Führung oder Vertretung in den zugeordneten Kommissionen;
-- 7\. Wahrnehmung von Delegationen;
-- 8\. Operative Führung des Ressorts: Überwachung der Aufgabenerfüllung und Verantwortung für den Vollzug der Beschlüsse und die Einhaltung des Budgets.
+- 1\. Formulierung der kurz- und mittelfristigen Zielsetzungen und Aufzeigen der künftigen Aufgaben
+- 2\. Erarbeitung eines Budgetentwurfs zuhanden des Kirchenrates in Zusammenarbeit mit dem Amt oder den Ämtern
+- 3\. Vorbereitung von Anträgen aus dem Ressort an den Kirchenrat allenfalls in Zusammenarbeit mit den Kommissionen oder den landeskirchlichen Angestellten
+- 4\. Vertretung des Budgets und der Anträge im Kirchenrat und gegebenenfalls gegenüber der Synode
+- 5\. Begleitung von Projekten, die zu Kirchenratsbeschlüssen führen oder solche vollziehen
+- 6\. Führung oder Vertretung in den zugeordneten Kommissionen
+- 7\. Wahrnehmung von Delegationen
+- 8\. Operative Führung des Ressorts: Überwachung der Aufgabenerfüllung und Verantwortung für den Vollzug der Beschlüsse und die Einhaltung des Budgets
 
 #### § 22
 
@@ -221,13 +220,13 @@ Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Th
 
 <sup>1</sup> Das Präsidium umfasst insbesondere folgende Aufgaben:
 
-- 1\. Kirchenratssitzungen vorbereiten und leiten;
-- 2\. Die eingehenden Geschäfte prüfen und über deren Erledigungsart entscheiden;
-- 3\. Entscheiden über Geschäfte, deren Behandlung durch Reglemente, Erlasse oder langjährige Übung gegeben sind und diese in Protokollen festhalten, die der Gesamtbehörde zur Kenntnisnahme unterbreitet werden;
-- 4\. Den Geschäftsgang überwachen und die Zusammenarbeit zwischen den Ressorts und ressortunabhängigen Sachgebieten, den Ausschüssen, der Verwaltung und den Arbeitsstellen organisieren;
-- 5\. Die Gesamtbehörde gegen aussen und gegenüber den Kirchgemeinden sowie der Verwaltung, den Dienststellen, den Inhabern gesamtkirchlicher Ämter und Kommissionen repräsentieren und vertreten, soweit diese Aufgabe nicht delegiert wird;
-- 6\. Das landeskirchliche Personal gegebenenfalls in Zusammenarbeit mit den Ressortverantwortlichen führen;
-- 7\. Die Öffentlichkeit im Namen der Gesamtbehörde informieren.
+- 1\. Kirchenratssitzungen vorbereiten und leiten
+- 2\. Die eingehenden Geschäfte prüfen und über deren Erledigungsart entscheiden
+- 3\. Entscheiden über Geschäfte, deren Behandlung durch Reglemente, Erlasse oder langjährige Übung gegeben sind und diese in Protokollen festhalten, die der Gesamtbehörde zur Kenntnisnahme unterbreitet werden
+- 4\. Den Geschäftsgang überwachen und die Zusammenarbeit zwischen den Ressorts und ressortunabhängigen Sachgebieten, den Ausschüssen, der Verwaltung und den Arbeitsstellen organisieren
+- 5\. Die Gesamtbehörde gegen aussen und gegenüber den Kirchgemeinden sowie der Verwaltung, den Dienststellen, den Inhabern gesamtkirchlicher Ämter und Kommissionen repräsentieren und vertreten, soweit diese Aufgabe nicht delegiert wird
+- 6\. Das landeskirchliche Personal gegebenenfalls in Zusammenarbeit mit den Ressortverantwortlichen führen
+- 7\. Die Öffentlichkeit im Namen der Gesamtbehörde informieren
 
 ### V. Kirchenrätliche Kommissionen
 
@@ -345,12 +344,10 @@ Gestützt auf § 71 der Verfassung der Evangelischen Landeskirche des Kantons Th
 
 <sup>2</sup> Es zeichnen zu zweien das Kirchenratspräsidium und das Quästorat für Kapitalanlagen und bei finanziellen Entscheidungen des Kirchenrates oder der Finanzkommission.
 
-## 5. Schlussbestimmungen
+## 5.
 
 #### § 35
 
-**Inkrafttreten**
-
-<sup>1</sup> Das Reglement mit Anhang 1 als Bestandteil des Reglements tritt auf den 1. Juni 2008 in Kraft.
+**…**
 
 18/2008
