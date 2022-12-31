@@ -4,13 +4,12 @@ number: "910.11"
 title: "Règlement sur l'agriculture"
 short: RAgri
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+version_adopted: 2023-01-10
 adopted: 2007-03-27
 in_force: 2007-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/910.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7094/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7720/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Agriculture – R
 
 (RAgri)
 
-du 27.03.2007 (version entrée en vigueur le 01.01.2022)
+du 27.03.2007 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -903,7 +902,8 @@ Arrête:
 - c) non-recours aux herbicides sur terres ouvertes: 200 francs par hectare et par an;
 - d) non-recours aux produits phytosanitaires de synthèse sur parcelles cultivées en vigne et parcelles de cultures fruitières de forme compacte: 1'500 francs par hectare et par an;
 - e) plantation de variétés résistantes de vignes et de cultures fruitières de forme compacte: 6'000 francs par hectare, à la plantation;
-- f) bandes herbeuses sur terres ouvertes d'une largeur de 3 mètres au minimum le long de routes et des chemins ou intra-parcellaires: 2 francs par mètre linéaire de bande herbeuse et par an.
+- f) bandes herbeuses sur terres ouvertes d'une largeur de 3 mètres au minimum le long de routes et des chemins ou intra-parcellaires: 2 francs par mètre linéaire de bande herbeuse et par an;
+- g) application sélective automatisée d'herbicides sur surfaces herbagères: 100 francs par hectare et par an.
 
 <sup>2</sup> Les surfaces bénéficiant de contributions fédérales à l'agriculture biologique ou de contributions fédérales pour le non-recours aux herbicides ou aux fongicides représentant un risque élevé sont exclues des contributions prévues à l'alinéa 1 let. d.
 

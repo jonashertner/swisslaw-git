@@ -4,13 +4,12 @@ number: "910.11"
 title: Landwirtschaftsreglement
 short: LandwR
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+version_adopted: 2023-01-10
 adopted: 2007-03-27
 in_force: 2007-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/910.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7094/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7720/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Landwirtschaftsreglement
 
 (LandwR)
 
-vom 27.03.2007 (Fassung in Kraft getreten am 01.01.2022)
+vom 27.03.2007 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -903,7 +902,8 @@ beschliesst:
 - c) Herbizidverzicht auf offenen Ackerflächen: 200 Franken pro Hektare und Jahr;
 - d) Verzicht auf synthetische Pflanzenschutzmittel auf Rebflächen und Obstkulturen in geschlossenen Anlagen: 1'500 Franken pro Hektare und Jahr;
 - e) Anpflanzung resistenter Sorten auf Rebflächen und Obstkulturen in geschlossenen Anlagen: 6'000 Franken pro Hektare, bei der Anpflanzung;
-- f) Mindestens 3 Meter breite Grünstreifen im offenen Ackerland entlang von Strassen und Wegen oder Grünstreifen zwischen Parzellen: 2 Franken pro Laufmeter Grünstreifen und Jahr.
+- f) Mindestens 3 Meter breite Grünstreifen im offenen Ackerland entlang von Strassen und Wegen oder Grünstreifen zwischen Parzellen: 2 Franken pro Laufmeter Grünstreifen und Jahr;
+- g) gezielte automatische Anwendung von Herbiziden auf Grünflächen: 100 Franken pro Hektare und Jahr.
 
 <sup>2</sup> Flächen, für die Bundesbeiträge für biologische Landwirtschaft oder Bundesbeiträge für den Herbizidverzicht oder den Verzicht auf Fungizide mit besonderem Risikopotenzial ausgerichtet werden, sind von den Beträgen nach Absatz 1 Bst. d ausgenommen.
 
