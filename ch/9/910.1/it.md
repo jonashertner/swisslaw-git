@@ -4,11 +4,11 @@ title: "Legge federale del 29 aprile 1998 sull'agricoltura (Legge sull'agricoltu
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: it
-version: 2022-03-01
+version: 2023-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220301/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220301-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/it"
 
 (Legge sull’agricoltura, LAgr)
 
-del 29 aprile 1998 (Stato 1° marzo 2022) (Stato 1° marzo 2022)
+del 29 aprile 1998 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -55,7 +55,7 @@ La Confederazione prende segnatamente i seguenti provvedimenti:
 
 - a. istituisce condizioni quadro favorevoli per la produzione e lo smercio dei prodotti agricoli;
 - b.[^2-1] indennizza, mediante pagamenti diretti, le prestazioni d’interesse generale fornite dalle aziende contadine che coltivano il suolo;
-- [tab] b<sup>bis</sup>.[^2-2] sostiene la gestione sostenibile delle risorse naturali e promuove una produzione che rispetti gli animali e l’ambiente;
+- b<sup>bis</sup>.[^2-2] sostiene la gestione sostenibile delle risorse naturali e promuove una produzione che rispetti gli animali e l’ambiente;
 - c. provvede a uno sviluppo socialmente sostenibile dell’agricoltura;
 - d. sostiene i miglioramenti strutturali;
 - e.[^2-3] promuove la ricerca e la consulenza agricole nonché la coltivazione delle piante e l’allevamento di animali;
@@ -128,6 +128,45 @@ L’agricoltura comprende:
 **Limite di spesa**
 
 I mezzi finanziari per i settori di compiti più importanti sono stanziati al massimo per quattro anni con decreto federale semplice in base a un messaggio del Consiglio federale. Il relativo involucro finanziario è deciso simultaneamente.
+
+#### Art. 6a
+
+**Perdite di sostanze nutritive**[^6a-1]
+
+<sup>1</sup> Rispetto alla media degli anni 2014–2016, le perdite di azoto e di fosforo nell’agricoltura sono adeguatamente ridotte entro il 2030.
+
+<sup>2</sup> Il Consiglio federale stabilisce gli obiettivi di riduzione e il metodo con cui è calcolato il loro raggiungimento. Considera in particolare l’obiettivo di sostituire i concimi sintetici importati mediante la promozione dell’impiego di sostanze nutritive basate su concimi aziendali e biomasse indigeni e tiene conto delle condizioni quadro ecologiche ed economiche. Per stabilire gli obiettivi di riduzione e il metodo con cui è calcolato il loro raggiungimento consulta i Cantoni, le organizzazioni di categoria e le organizzazioni di produttori nonché altre organizzazioni interessate. Disciplina come riferire[^6a-2].
+
+<sup>3</sup> Le organizzazioni di categoria e le organizzazioni di produttori nonché altre organizzazioni interessate possono prendere i provvedimenti di riduzione necessari e riferire periodicamente alla Confederazione su quanto intrapreso e sui risultati ottenuti.
+
+<sup>4</sup> Il Consiglio federale può designare le organizzazioni di cui ai capoversi 2 e 3.
+
+<sup>5</sup> Il Consiglio federale può delegare singoli compiti, come la verifica dei provvedimenti di riduzione delle perdite di azoto e di fosforo, il monitoraggio dei risultati o la consulenza, a un’agenzia dell’economia privata e sostenerne finanziariamente l’attività.
+
+[^6a-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^6a-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl).
+
+#### Art. 6b
+
+**Riduzione dei rischi associati all’impiego di prodotti fitosanitari**[^6b-1]
+
+<sup>1</sup> I rischi per gli esseri umani, gli animali e l’ambiente associati all’impiego di prodotti fitosanitari vanno ridotti e la qualità dell’acqua potabile, delle acque superficiali e delle acque sotterranee va migliorata.
+
+<sup>2</sup> Entro il 2027 i rischi per i settori acque superficiali e habitat seminaturali nonché la contaminazione delle acque sotterranee vanno ridotti del 50 per cento rispetto alla media degli anni 2012–2015. Se i rischi permangono inammissibili, il Consiglio federale può fissare lo schema di riduzione valido a partire dal 2027.
+
+<sup>3</sup> Il Consiglio federale stabilisce gli indicatori con cui è calcolato il raggiungimento degli obiettivi di riduzione secondo il capoverso 2. Gli indicatori tengono conto della tossicità e dell’impiego dei diversi prodotti fitosanitari. A questo scopo il Consiglio federale utilizza in particolare i dati del sistema d’informazione di cui all’articolo 165*f* <sup>bis</sup>.
+
+<sup>4</sup> Il Consiglio federale può definire obiettivi di riduzione dei rischi per ulteriori settori a rischio.
+
+<sup>5</sup> Le organizzazioni di categoria e le organizzazioni di produttori nonché altre organizzazioni interessate possono prendere provvedimenti di riduzione dei rischi e riferire periodicamente alla Confederazione su quanto intrapreso e sui risultati ottenuti.
+
+<sup>6</sup> Il Consiglio federale può designare le organizzazioni di cui al capoverso 5.
+
+<sup>7</sup> Il Consiglio federale può delegare singoli compiti, come la verifica dei provvedimenti di riduzione dei rischi, il monitoraggio dei risultati o la consulenza, a un’agenzia dell’economia privata e sostenerne finanziariamente l’attività.
+
+<sup>8</sup> Se si prevede che gli obiettivi di riduzione secondo il capoverso 2 non saranno raggiunti, il Consiglio federale prende i provvedimenti necessari al più tardi due anni prima della scadenza del termine, in particolare revocando l’approvazione di principi attivi che presentano un rischio particolarmente elevato.
+
+[^6b-1]: Introdotto dal n. I 3 della LF del 19 mar. 2021 sulla riduzione dei rischi associati all’impiego di pesticidi, in vigore dal 1° gen 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ## Titolo secondo: Condizioni quadro per la produzione e lo smercio
 
@@ -533,7 +572,7 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 [^26-1]: Abrogato dal n. I della LF del 22 giu. 2007, con effetto dal 1° gen. 2010 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-### Sezione 5: Monitoraggio del mercato****
+### Sezione 5: Monitoraggio del mercato
 
 [^tit2-chap1-sec5-1]
 
@@ -547,7 +586,7 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 [^27-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-### Sezione 6:**** Ingegneria genetica
+### Sezione 6: Ingegneria genetica
 
 [^tit2-chap1-sec6-1]
 
@@ -561,7 +600,7 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 [^27a-1]: Nuova espr. giusta il n. II 3 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Di detta mod. é tenuto conto in tutto il presente testo.
 
-### Sezione 7:**** Mezzi di produzione e beni d’investimento agricoli brevettati
+### Sezione 7: Mezzi di produzione e beni d’investimento agricoli brevettati
 
 [^tit2-chap1-sec7-1]
 
@@ -575,7 +614,7 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 ### Capitolo 2: Economia lattiera
 
-### Sezione 1: Campo d’applicazione****
+### Sezione 1: Campo d’applicazione
 
 [^tit2-chap2-sec1-1]
 
@@ -612,7 +651,7 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 [^36a36b-1]: Introdotti dal n. I della LF del 20 giu. 2003 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Sezione 3:**** Contratto standard nel settore lattiero
+### Sezione 3: Contratto standard nel settore lattiero
 
 [^tit2-chap2-sec3-1]
 
@@ -742,7 +781,7 @@ Il Consiglio federale può prevedere deroghe per:
 
 <sup>4</sup> Il frazionamento di aziende allo scopo di eludere le disposizioni sull’effettivo massimo non è riconosciuto.
 
-### Sezione 2: Bestiame da macello, carne, lana di pecora e uova****
+### Sezione 2: Bestiame da macello, carne, lana di pecora e uova
 
 [^tit2-chap3-sec2-1]
 
@@ -895,7 +934,7 @@ La Confederazione può versare contributi per singole colture al fine di:
 
 [^59-1]: Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Capitolo 5: Economia vitivinicola****
+### Capitolo 5: Economia vitivinicola
 
 [^tit2-chap5-1]
 
@@ -987,7 +1026,7 @@ I vini sono suddivisi nelle categorie seguenti:
 
 [^6769-1]: Abrogati dal n. I della LF del 22 giu. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-## Titolo terzo:**** Pagamenti diretti
+## Titolo terzo: Pagamenti diretti
 
 [^tit3-1]
 
@@ -1188,7 +1227,7 @@ Il Consiglio federale stabilisce:
 
 [^77-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## Titolo terzo *a*:**** Impiego sostenibile delle risorse naturali
+## Titolo terzo *a*: Impiego sostenibile delle risorse naturali
 
 [^tit3a-1]
 
@@ -1218,13 +1257,13 @@ I contributi sono concessi agli enti responsabili se:
 [^77b-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^77b-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## Titolo quarto: Misure sociali collaterali****
+## Titolo quarto: Misure sociali collaterali
 
 [^tit4-1]
 
 [^tit4-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Capitolo 1: Aiuti per la conduzione aziendale****
+### Capitolo 1: Aiuti per la conduzione aziendale
 
 [^tit4-chap1-1]
 
@@ -1343,7 +1382,7 @@ Se i rimborsi e gli interessi superano il fabbisogno del Cantone, l’UFAG può 
 
 <sup>2</sup> Le perdite e le eventuali spese procedurali derivanti dalla concessione di mutui approvati dall’UFAG secondo l’articolo 81, qualora non siano coperte dagli interessi, sono a carico della Confederazione e dei Cantoni proporzionalmente alla loro partecipazione al mutuo.
 
-### Capitolo 2:**** Aiuti per la riqualificazione
+### Capitolo 2: Aiuti per la riqualificazione
 
 [^tit4-chap2-1]
 
@@ -1796,13 +1835,13 @@ Le perdite derivanti dalla concessione di crediti d’investimento, comprese eve
 
 Le spese amministrative sono a carico dei Cantoni.
 
-## Titolo sesto: Ricerca e consulenza, promozione della coltivazione delle piante e dell’allevamento di animali****
+## Titolo sesto: Ricerca e consulenza, promozione della coltivazione delle piante e dell’allevamento di animali
 
 [^tit6-1]
 
 [^tit6-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Capitolo 1:**** Principio
+### Capitolo 1: Principio
 
 [^tit6-chap1-1]
 
@@ -1814,7 +1853,7 @@ Le spese amministrative sono a carico dei Cantoni.
 
 <sup>2</sup> I mezzi finanziari sono impiegati in misura adeguata per forme di produzione particolarmente in sintonia con la natura, rispettose dell’ambiente e degli animali.
 
-### Capitolo 1*a*:**** Ricerca
+### Capitolo 1*a*: Ricerca
 
 [^tit6-chap1a-1]
 
@@ -1882,7 +1921,7 @@ Le stazioni di ricerca agronomica hanno segnatamente i seguenti compiti:[^115-2]
 
 [^118135-1]: Abrogati dall’all. n. II 5 della LF del 13 dic. 2002 sulla formazione professionale, con effetto dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
-### Capitolo 2*a*:**** Consulenza
+### Capitolo 2*a*: Consulenza
 
 [^tit6-chap2a-1]
 
@@ -1919,7 +1958,7 @@ Le stazioni di ricerca agronomica hanno segnatamente i seguenti compiti:[^115-2]
 
 [^139-1]: Abrogato dal n. I della LF del 20 giu. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Capitolo 3: Coltivazione delle piante e allevamento di animali, risorse genetiche****
+### Capitolo 3: Coltivazione delle piante e allevamento di animali, risorse genetiche
 
 [^tit6-chap3-1]
 
@@ -2039,7 +2078,7 @@ Il Consiglio federale può emanare prescrizioni in merito all’allevamento, all
 [^147-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^147-3]: Introdotto dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogato dall’all. n. 5 della LF del 18 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
-### Sezione 3:**** Risorse genetiche per l’agricoltura e l’alimentazione
+### Sezione 3: Risorse genetiche per l’agricoltura e l’alimentazione
 
 [^tit6-chap3-sec3-1]
 
@@ -2059,13 +2098,13 @@ Il Consiglio federale può emanare prescrizioni in merito all’allevamento, all
 
 Per quanto lo esigano obblighi internazionali, il Consiglio federale disciplina l’accesso alle risorse genetiche e la ripartizione dei benefici derivanti dall’impiego di tali risorse.
 
-## Titolo settimo: Protezione dei vegetali e mezzi di produzione****
+## Titolo settimo: Protezione dei vegetali e mezzi di produzione
 
 [^tit7-1]
 
 [^tit7-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Capitolo 1: Disposizioni d’esecuzione****
+### Capitolo 1: Disposizioni d’esecuzione
 
 [^tit7-chap1-1]
 
@@ -2079,7 +2118,7 @@ Per quanto lo esigano obblighi internazionali, il Consiglio federale disciplina 
 
 [^148-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Capitolo 2:**** Misure preventive
+### Capitolo 2: Misure preventive
 
 [^tit7-chap2-1]
 
@@ -2103,7 +2142,7 @@ Quali misure preventive il Consiglio federale può in particolare:
 - a. limitare, vincolare a condizioni o vietare l’importazione, l’immissione in commercio e l’utilizzazione di mezzi di produzione;
 - a. limitare, vincolare a condizioni o vietare l’importazione e l’immissione in commercio di materiale vegetale e oggetti che possono veicolare organismi nocivi particolarmente pericolosi.
 
-### Capitolo 3: Protezione dei vegetali****
+### Capitolo 3: Protezione dei vegetali
 
 [^tit7-chap3-1]
 
@@ -2211,7 +2250,7 @@ L’indennità è fissata definitivamente secondo una procedura quanto più semp
 
 [^157-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Capitolo 4: Mezzi di produzione****
+### Capitolo 4: Mezzi di produzione
 
 [^tit7-chap4-1]
 
@@ -2323,7 +2362,7 @@ Il Consiglio federale può obbligare i produttori di mezzi di produzione e le di
 
 <sup>2</sup> I servizi federali competenti possono informare l’opinione pubblica sulle proprietà e sull’utilizzazione dei mezzi di produzione.
 
-## Titolo settimo *a*:**** Altre disposizioni
+## Titolo settimo *a*: Altre disposizioni
 
 [^tit7a-1]
 
@@ -2953,7 +2992,7 @@ Il Consiglio federale istituisce una commissione consultiva permanente di 15 mem
 
 **Disposizioni transitorie della modifica del 22 marzo 2013**[^187d-1]
 
-<sup>1</sup> Entro il 30 giugno 2016 il Consiglio federale presenta un rapporto in cui definisce una metodica per valutare l’utilità delle piante geneticamente modificate. Tale metodica dovrà permettere di valutare se, rispetto ai prodotti agricoli e ai mezzi di produzione tradizionali, le piante geneticamente modificate sono vantaggiose per la produzione, i consumatori e l’ambiente. Sulla base della metodica elaborata, il Consiglio federale presenta un bilancio costi-benefici delle piante geneticamente modificate esistenti in Svizzera al momento dell’entrata in vigore della modifica del 22 marzo 2013*[^187d-2]* della presente legge.
+<sup>1</sup> Entro il 30 giugno 2016 il Consiglio federale presenta un rapporto in cui definisce una metodica per valutare l’utilità delle piante geneticamente modificate. Tale metodica dovrà permettere di valutare se, rispetto ai prodotti agricoli e ai mezzi di produzione tradizionali, le piante geneticamente modificate sono vantaggiose per la produzione, i consumatori e l’ambiente. Sulla base della metodica elaborata, il Consiglio federale presenta un bilancio costi-benefici delle piante geneticamente modificate esistenti in Svizzera al momento dell’entrata in vigore della modifica del 22 marzo 2013[^187d-2] della presente legge.
 
 <sup>2</sup> Entro la fine del 2014 il Consiglio federale definisce, d’intesa con i Cantoni e le categorie, gli obiettivi e le strategie relativi alla diagnosi e alla sorveglianza della resistenza agli antibiotici, nonché alla riduzione del loro impiego.
 

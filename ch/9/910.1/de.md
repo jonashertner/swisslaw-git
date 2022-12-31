@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 29. April 1998 über die Landwirtschaft (Landwirtschaft
 short: LwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: de
-version: 2022-03-01
+version: 2023-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220301/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220301-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/de"
 
 (Landwirtschaftsgesetz, LwG)
 
-vom 29. April 1998 (Stand am 1. März 2022)
+vom 29. April 1998 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -130,6 +130,44 @@ Die Landwirtschaft umfasst:
 **Zahlungsrahmen**
 
 Die finanziellen Mittel für die wichtigsten Aufgabenbereiche werden gestützt auf eine Botschaft des Bundesrates mit einfachem Bundesbeschluss für höchstens vier Jahre bewilligt. Die entsprechenden Zahlungsrahmen werden gleichzeitig beschlossen.
+
+#### Art. 6a
+
+**Nährstoffverluste**[^6a-1]
+
+<sup>1</sup> Die Stickstoff- und die Phosphorverluste der Landwirtschaft werden bis 2030 im Vergleich zum Mittelwert der Jahre 2014−2016 angemessen reduziert.
+
+<sup>2</sup> Der Bundesrat legt die Reduktionsziele und die Methode zur Berechnung der Erreichung der Reduktionsziele fest. Er orientiert sich dabei auch am Ziel des Ersatzes importierter Kunstdünger durch die Förderung der Nutzung von Nährstoffen basierend auf einheimischen Hofdüngern und einheimischer Biomasse und berücksichtigt dabei die ökologischen und ökonomischen Rahmenbedingungen. Er hört bei seinen Festlegungen die Kantone, die betroffenen Branchen- und Produzentenorganisationen sowie weitere betroffene Organisationen an. Er regelt die Berichterstattung.
+
+<sup>3</sup> Die betroffenen Branchen- und Produzentenorganisationen sowie weitere betroffene Organisationen können die zur Absenkung erforderlichen Massnahmen ergreifen und dem Bund regelmässig Bericht erstatten über die Art und die Wirkung der von ihnen getroffenen Massnahmen.
+
+<sup>4</sup> Der Bundesrat kann die Organisationen nach den Absätzen 2 und 3 bestimmen.
+
+<sup>5</sup> Er kann einzelne Aufgaben wie die Überprüfung von Massnahmen zur Reduktion der Stickstoff- und der Phosphorverluste, das Monitoring der Ergebnisse oder die Beratung einer privatwirtschaftlichen Agentur übertragen und deren Tätigkeit finanziell unterstützen.
+
+[^6a-1]: Eingefügt durch Ziff. I 3 des BG vom 19. März 2021 über die Verminderung der Risiken durch den Einsatz von Pestiziden, in Kraft seit 1. Jan. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
+#### Art. 6b
+
+**Verminderung der Risiken durch den Einsatz von Pflanzenschutzmitteln**[^6b-1]
+
+<sup>1</sup> Die Risiken durch den Einsatz von Pflanzenschutzmitteln für Mensch, Tier und Umwelt sollen vermindert und die Qualität des Trinkwassers, der Oberflächengewässer und des Grundwassers soll verbessert werden.
+
+<sup>2</sup> Die Risiken für die Bereiche Oberflächengewässer und naturnahe Lebensräume sowie die Belastung im Grundwasser müssen bis 2027 im Vergleich zum Mittelwert der Jahre 2012−2015 um 50 Prozent vermindert werden. Sind die Risiken weiterhin nicht annehmbar, so kann der Bundesrat den ab 2027 geltenden Absenkpfad festlegen.
+
+<sup>3</sup> Der Bundesrat legt die Indikatoren fest, mit denen die Erreichung der Werte nach Absatz 2 berechnet wird. Diese Indikatoren tragen der Toxizität und dem Einsatz der verschiedenen Pflanzenschutzmittel Rechnung. Der Bundesrat verwendet zu diesem Zweck unter anderem die Daten des Informationssystems nach Artikel 165*f* <sup>bis</sup>.
+
+<sup>4</sup> Der Bundesrat kann für weitere Risikobereiche Werte zur Verminderung der Risiken definieren.
+
+<sup>5</sup> Die betroffenen Branchen- und Produzentenorganisationen sowie weitere betroffene Organisationen können Massnahmen zur Risikoreduktion ergreifen und dem Bund regelmässig Bericht erstatten über die Art und Wirkung der von ihnen getroffenen Massnahmen.
+
+<sup>6</sup> Der Bundesrat kann die Organisationen nach Absatz 5 bestimmen.
+
+<sup>7</sup> Er kann einzelne Aufgaben wie die Überprüfung von Massnahmen zur Risikoreduktion, das Monitoring der Ergebnisse oder die Beratung einer privatwirtschaftlichen Agentur übertragen und deren Tätigkeit finanziell unterstützen.
+
+<sup>8</sup> Ist absehbar, dass die Verminderungsziele nach Absatz 2 nicht erreicht werden, so ergreift der Bundesrat spätestens zwei Jahre vor Ablauf der Frist die erforderlichen Massnahmen, insbesondere indem er die Genehmigung besonders risikoreicher Wirkstoffe widerruft.
+
+[^6b-1]: Eingefügt durch Ziff. I 3 des BG vom 19. März 2021 über die Verminderung der Risiken durch den Einsatz von Pestiziden, in Kraft seit 1. Jan. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ## 2. Titel: Rahmenbedingungen für Produktion und Absatz
 
@@ -537,7 +575,7 @@ Absatz 2 gilt nicht für die Anwendung von Schutzklauseln in internationalen Abk
 
 [^26-1]: Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2010 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-### 5. Abschnitt: Marktbeobachtung****
+### 5. Abschnitt: Marktbeobachtung
 
 [^tit2-chap1-sec5-1]
 
@@ -551,7 +589,7 @@ Absatz 2 gilt nicht für die Anwendung von Schutzklauseln in internationalen Abk
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-### 6. Abschnitt:**** Gentechnik
+### 6. Abschnitt: Gentechnik
 
 [^tit2-chap1-sec6-1]
 
@@ -565,7 +603,7 @@ Absatz 2 gilt nicht für die Anwendung von Schutzklauseln in internationalen Abk
 
 [^27a-1]: Ausdruck gemäss Ziff. II 3 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
-### 7. Abschnitt:**** Patentgeschützte Produktionsmittel und landwirtschaftliche Investitionsgüter
+### 7. Abschnitt: Patentgeschützte Produktionsmittel und landwirtschaftliche Investitionsgüter
 
 [^tit2-chap1-sec7-1]
 
@@ -579,7 +617,7 @@ Absatz 2 gilt nicht für die Anwendung von Schutzklauseln in internationalen Abk
 
 ### 2. Kapitel: Milchwirtschaft
 
-### 1. Abschnitt: Geltungsbereich****
+### 1. Abschnitt: Geltungsbereich
 
 [^tit2-chap2-sec1-1]
 
@@ -616,7 +654,7 @@ Absatz 2 gilt nicht für die Anwendung von Schutzklauseln in internationalen Abk
 
 [^36a36b-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### 3. Abschnitt:**** Standardvertrag im Milchsektor
+### 3. Abschnitt: Standardvertrag im Milchsektor
 
 [^tit2-chap2-sec3-1]
 
@@ -746,7 +784,7 @@ Der Bundesrat kann Ausnahmen vorsehen für:
 
 <sup>4</sup> Betriebsteilungen zur Umgehung der Höchstbestandesbestimmungen werden nicht anerkannt.
 
-### 2. Abschnitt: Schlachtvieh, Fleisch, Schafwolle und Eier****
+### 2. Abschnitt: Schlachtvieh, Fleisch, Schafwolle und Eier
 
 [^tit2-chap3-sec2-1]
 
@@ -899,7 +937,7 @@ Der Bund kann Einzelkulturbeiträge ausrichten, um:
 
 [^59-1]: Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### 5. Kapitel: Weinwirtschaft****
+### 5. Kapitel: Weinwirtschaft
 
 [^tit2-chap5-1]
 
@@ -991,7 +1029,7 @@ Weine werden in folgende Klassen unterteilt:
 
 [^6769-1]: Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-## 3. Titel:**** Direktzahlungen
+## 3. Titel: Direktzahlungen
 
 [^tit3-1]
 
@@ -1192,7 +1230,7 @@ Der Bundesrat legt fest:
 
 [^77-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## Titel 3*a*:**** Nachhaltige Nutzung natürlicher Ressourcen
+## Titel 3*a*: Nachhaltige Nutzung natürlicher Ressourcen
 
 [^tit3a-1]
 
@@ -1222,13 +1260,13 @@ Beiträge werden der verantwortlichen Trägerschaft gewährt, wenn:
 [^77b-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^77b-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## 4. Titel: Soziale Begleitmassnahmen****
+## 4. Titel: Soziale Begleitmassnahmen
 
 [^tit4-1]
 
 [^tit4-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 1. Kapitel: Betriebshilfe****
+### 1. Kapitel: Betriebshilfe
 
 [^tit4-chap1-1]
 
@@ -1347,7 +1385,7 @@ Zinsen werden in der folgenden Reihenfolge verwendet für:
 
 <sup>2</sup> Verluste und allfällige Rechtskosten aus der Gewährung von Darlehen, die nach Artikel 81 durch das BLW genehmigt wurden, sind, soweit sie nicht durch Zinsen gedeckt werden, entsprechend ihrer Beteiligung am Darlehen auf Bund und Kanton aufzuteilen.
 
-### 2. Kapitel:**** Umschulungsbeihilfen
+### 2. Kapitel: Umschulungsbeihilfen
 
 [^tit4-chap2-1]
 
@@ -1799,13 +1837,13 @@ Verluste aus der Gewährung von Investitionskrediten, einschliesslich allfällig
 
 Die Kantone tragen die Verwaltungskosten.
 
-## 6. Titel: Forschung und Beratung, Förderung der Pflanzen- und Tierzucht sowie genetische Ressourcen****
+## 6. Titel: Forschung und Beratung, Förderung der Pflanzen- und Tierzucht sowie genetische Ressourcen
 
 [^tit6-1]
 
 [^tit6-1]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### 1. Kapitel:**** Grundsatz
+### 1. Kapitel: Grundsatz
 
 [^tit6-chap1-1]
 
@@ -1817,7 +1855,7 @@ Die Kantone tragen die Verwaltungskosten.
 
 <sup>2</sup> Die finanziellen Mittel werden zu einem angemessenen Anteil für Produktionsformen eingesetzt, die besonders naturnah, umwelt- und tierfreundlich sind.
 
-### 1*a*. Kapitel: Forschung****
+### 1*a*. Kapitel: Forschung
 
 [^tit6-chap1a-1]
 
@@ -1885,7 +1923,7 @@ Die landwirtschaftlichen Forschungsanstalten haben insbesondere folgende Aufgabe
 
 [^118135-1]: Aufgehoben durch Anhang Ziff. II 5 des Berufsbildungsgesetzes vom 13. Dez. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
-### 2*a*. Kapitel:**** Beratung
+### 2*a*. Kapitel: Beratung
 
 [^tit6-chap2a-1]
 
@@ -1922,7 +1960,7 @@ Die landwirtschaftlichen Forschungsanstalten haben insbesondere folgende Aufgabe
 
 [^139-1]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 3. Kapitel: Pflanzen- und Tierzucht sowie genetische Ressourcen****
+### 3. Kapitel: Pflanzen- und Tierzucht sowie genetische Ressourcen
 
 [^tit6-chap3-1]
 
@@ -2042,7 +2080,7 @@ Der Bundesrat kann Vorschriften über die Zucht, die Einfuhr oder das Inverkehrb
 [^147-2]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^147-3]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Auf-gehoben durch Anhang Ziff. 5 des BG vom 18. Juni 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
-### 3. Abschnitt:**** Genetische Ressourcen für Landwirtschaft und Ernährung
+### 3. Abschnitt: Genetische Ressourcen für Landwirtschaft und Ernährung
 
 [^tit6-chap3-sec3-1]
 
@@ -2062,13 +2100,13 @@ Der Bundesrat kann Vorschriften über die Zucht, die Einfuhr oder das Inverkehrb
 
 Soweit internationale Verpflichtungen bestehen, regelt der Bundesrat den Zugang zu den genetischen Ressourcen und die Aufteilung von Vorteilen, die aus der Nutzung solcher Ressourcen entstehen.
 
-## 7. Titel: Pflanzenschutz und Produktionsmittel****
+## 7. Titel: Pflanzenschutz und Produktionsmittel
 
 [^tit7-1]
 
 [^tit7-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 1. Kapitel: Ausführungsbestimmungen****
+### 1. Kapitel: Ausführungsbestimmungen
 
 [^tit7-chap1-1]
 
@@ -2082,7 +2120,7 @@ Soweit internationale Verpflichtungen bestehen, regelt der Bundesrat den Zugang 
 
 [^148-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 2. Kapitel:**** Vorsorgemassnahmen
+### 2. Kapitel: Vorsorgemassnahmen
 
 [^tit7-chap2-1]
 
@@ -2106,7 +2144,7 @@ Als Vorsorgemassnahmen kann der Bundesrat insbesondere:
 - a. die Einfuhr, das Inverkehrbringen und die Verwendung von Produktionsmitteln einschränken, an Bedingungen knüpfen oder verbieten;
 - b. die Einfuhr und das Inverkehrbringen von Pflanzenmaterial und Gegenständen, die Träger von besonders gefährlichen Schadorganismen sein können, einschränken, an Bedingungen knüpfen oder verbieten.
 
-### 3. Kapitel:**** Pflanzenschutz
+### 3. Kapitel: Pflanzenschutz
 
 [^tit7-chap3-1]
 
@@ -2214,7 +2252,7 @@ Die Abfindungen werden in einem möglichst einfachen und für die geschädigte P
 
 [^157-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 4. Kapitel: Produktionsmittel****
+### 4. Kapitel: Produktionsmittel
 
 [^tit7-chap4-1]
 
@@ -2328,7 +2366,7 @@ Der Bundesrat kann die Produzenten von Produktionsmitteln und die Handelsfirmen 
 
 <sup>2</sup> Die zuständigen Bundesstellen sind befugt, die Öffentlichkeit über die Eigenschaften und die Verwendbarkeit von Produktionsmitteln aufzuklären.
 
-## 7*a**.* Titel:**** Weitere Bestimmungen
+## 7*a**.* Titel: Weitere Bestimmungen
 
 [^tit7a-1]
 

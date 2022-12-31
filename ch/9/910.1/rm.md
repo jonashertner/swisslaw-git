@@ -4,11 +4,11 @@ title: "Lescha federala dals 29 d'avrigl 1998 davart l'agricultura (Lescha d'agr
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: rm
-version: 2022-03-01
+version: 2023-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220301/rm/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220301-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha d’agricultura, LAgr)
 
-dals 29 d’avrigl 1998 (versiun dal 1. da mars 2022)
+dals 29 d’avrigl 1998 (versiun dal 1. da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -132,6 +132,44 @@ L’agricultura cumpiglia:
 **Limita d’expensas**
 
 Ils meds finanzials destinads als secturs d’incumbensa principals vegnan permess per maximalmain 4 onns cun in conclus federal simpel, e quai sa basond sin ina missiva dal Cussegl federal. Las limitas d’expensas correspundentas vegnan concludidas a medem temp.
+
+#### Art. 6a
+
+**Perditas da substanzas nutritivas**[^6a-1]
+
+<sup>1</sup> Las perditas da nitrogen e da fosfor en l’agricultura vegnan reducidas adequatamain fin l’onn 2030 en cumparegliaziun cun la valur media dals onns 2014−2016.
+
+<sup>2</sup> Il Cussegl federal fixescha las finamiras da reducziun e la metoda per calcular, sche las finamiras da reducziun èn vegnidas cuntanschidas. Per quest intent s’orientescha el a la finamira da substituir il ladim artifizial importà cun promover l’utilisaziun da substanzas nutritivas sin basa da ladims natirals indigens e da biomassa indigena, e resguarda persuenter las cundiziuns generalas ecologicas ed economicas. Per far sias determinaziuns taidla el ils chantuns, las organisaziuns da las branschas e dals producents pertutgadas sco er ulteriuras organisaziuns pertutgadas. El regla la rapportaziun.
+
+<sup>3</sup> Las organisaziuns da las branschas e dals producents pertutgadas sco er ulteriuras organisaziuns pertutgadas pon prender las mesiras ch’èn necessarias per la reducziun e rapportar regularmain a la Confederaziun davart il gener e l’effect da las mesiras ch’ellas han prendì.
+
+<sup>4</sup> Il Cussegl federal po designar las organisaziuns tenor ils alineas 2 e 3.
+
+<sup>5</sup> Singulas incumbensas, sco l’examinaziun da las mesiras per reducir las perditas da nitrogen e da fosfor, il monitoring dals resultats u la cussegliaziun, po el surdar ad in’agentura da l’economia privata, ed el po sustegnair finanzialmain l’activitad da questa agentura.
+
+[^6a-1]: Integrà tras la cifra I 3 da la LF dals 19 da mars 2021 davart la reducziun da las ristgas en connex cun il diever da pesticids, en vigur dapi il 1. da schan. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
+#### Art. 6b
+
+**Reducziun da las ristgas pervia dal diever da products fitosanitars**[^6b-1]
+
+<sup>1</sup> Las ristgas che resultan per ils umans, per ils animals e per l’ambient pervia dal diever da products fitosanitars duain vegnir reducidas, e la qualitad da l’aua da baiver, da las auas da surfatscha e da l’aua sutterrana duai vegnir meglierada.
+
+<sup>2</sup> Las ristgas per ils secturs da las auas da surfatscha e dals spazis da viver natirals sco er la contaminaziun da l’aua sutterrana ston vegnir reducidas per 50 pertschient fin l’onn 2027 en cumparegliaziun cun la valur media dals onns 2012−2015. Sche las ristgas restan inacceptablas, po il Cussegl federal fixar in plan da reducziun che vala a partir da l’onn 2027.
+
+<sup>3</sup> Il Cussegl federal fixescha ils indicaturs, cun ils quals i vegn calculà, sche las valurs tenor l’alinea 2 èn vegnidas cuntanschidas. Quests indicaturs tegnan quint da la toxicitad e dal diever dals differents products fitosanitars. Per quest intent utilisescha il Cussegl federal tranter auter las datas dal sistem d’infurmaziun tenor l’artitgel 165*f* <sup>bis</sup>.
+
+<sup>4</sup> Per ulteriurs secturs da ristga po il Cussegl federal definir valurs per la reducziun da las ristgas.
+
+<sup>5</sup> Las organisaziuns da las branschas e dals producents pertutgadas sco er ulteriuras organisaziuns pertutgadas pon prender las mesiras ch’èn necessarias per la reducziun e rapportar regularmain a la Confederaziun davart il gener e l’effect da las mesiras ch’ellas han prendì.
+
+<sup>6</sup> Il Cussegl federal po designar las organisaziuns tenor l’alinea 5.
+
+<sup>7</sup> Singulas incumbensas, sco l’examinaziun da las mesiras per reducir las perditas da nitrogen e da fosfor, il monitoring dals resultats u la cussegliaziun, po el surdar ad in’agentura da l’economia privata, ed el po sustegnair finanzialmain l’activitad da questa agentura.
+
+<sup>8</sup> Sch’igl è previsibel che las finamiras da reducziun tenor l’alinea 2 na vegnan betg cuntanschidas, prenda il Cussegl federal – il pli tard 2 onns avant la scadenza dal termin – las mesiras necessarias, particularmain cun revocar l’approvaziun da substanzas activas spezialmain privlusas.
+
+[^6b-1]: Integrà tras la cifra I 3 da la LF dals 19 da mars 2021 davart la reducziun da las ristgas en connex cun il diever da pesticids, en vigur dapi il 1. da schan. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ## 2. titel Cundiziuns generalas per la producziun e per la vendita
 

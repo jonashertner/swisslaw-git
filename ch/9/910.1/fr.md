@@ -4,11 +4,11 @@ title: "Loi fédérale du 29 avril 1998 sur l'agriculture (Loi sur l'agriculture
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: fr
-version: 2022-03-01
+version: 2023-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220301-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/fr"
 
 (Loi sur l’agriculture, LAgr)
 
-du 29 avril 1998 (Etat le 1<sup>er</sup> mars 2022)
+du 29 avril 1998 (Etat le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -129,6 +129,44 @@ L’agriculture comprend:
 **Enveloppes financières**
 
 Les crédits destinés aux domaines d’application principaux sont autorisés pour quatre ans au plus par un arrêté fédéral simple, sur la base d’un message du Conseil fédéral. Les enveloppes financières correspondantes sont fixées simultanément.
+
+#### Art. 6a
+
+**Pertes d’éléments fertilisants**[^6a-1]
+
+<sup>1</sup> Les pertes d’azote et de phosphore de l’agriculture sont réduites de manière adéquate d’ici à 2030 par rapport à la moyenne des années 2014 à 2016.
+
+<sup>2</sup> Le Conseil fédéral fixe les objectifs de réduction et la méthode selon laquelle la réalisation des objectifs est calculée. Il prend en compte l’objectif du remplacement des engrais chimiques importés au moyen de l’encouragement de l’utilisation d’éléments fertilisants issus d’engrais de ferme et de biomasse indigènes ainsi que les conditions-cadre écologiques et économiques. Lors de la fixation des objectifs de réduction et de la méthode de calcul correspondante, il auditionne les cantons, les interprofessions, les organisations de producteurs ainsi que d’autres organisations concernées. Il règle les modalités relatives aux rapports.
+
+<sup>3</sup> Les interprofessions et les organisations de producteurs concernées ainsi que d’autres organisations peuvent prendre les mesures de réduction nécessaires et faire régulièrement rapport à la Confédération sur la nature et les effets des mesures qu’elles ont prises.
+
+<sup>4</sup> Le Conseil fédéral peut désigner les organisations visées aux al. 2 et 3.
+
+<sup>5</sup> Il peut déléguer certaines tâches comme l’examen de mesures de réduction des pertes d’azote et de phosphore, le monitoring des résultats et le conseil à une agence privée, dont il peut soutenir financièrement les activités.
+
+[^6a-1]: Introduit par le ch. I 3 de la LF du 19 mars 2021 sur la réduction des risques liés à l’utilisation de pesticides, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6569](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
+#### Art. 6b
+
+**Réduction des risques liés à l’utilisation de produits phytosanitaires**[^6b-1]
+
+<sup>1</sup> Les risques pour l’être humain, les animaux et l’environnement liés à l’utilisation de produits phytosanitaires doivent être réduits et la qualité de l’eau potable, des eaux de surface et des eaux souterraines doit être améliorée.
+
+<sup>2</sup> Les risques dans les domaines des eaux de surface et des habitats proches de l’état naturel ainsi que les atteintes aux eaux souterraines doivent être réduits de 50 % d’ici 2027 par rapport à la valeur moyenne des années 2012 à 2015. Si les risques restent inacceptables, le Conseil fédéral peut définir la trajectoire de réduction à appliquer à partir de 2027.
+
+<sup>3</sup> Le Conseil fédéral définit les indicateurs au moyen desquels la réalisation des objectifs au sens de l’al. 2 est calculé. Ces indicateurs tiennent compte de la toxicité des différents produits phytosanitaires et de leur utilisation. À cette fin, le Conseil fédéral utilise, entre autres, les données du système d’information défini à l’article 165*f* <sup>bis</sup>.
+
+<sup>4</sup> Le Conseil fédéral peut définir des objectifs de réduction des risques pour d’autres domaines à risque.
+
+<sup>5</sup> Les interprofessions, les organisations de producteurs ainsi que d’autres organisations peuvent prendre des mesures de réduction des risques et faire régulièrement rapport à la Confédération sur la nature et les effets des mesures qu’elles ont prises.
+
+<sup>6</sup> Le Conseil fédéral peut désigner les organisations visées à l’al. 5.
+
+<sup>7</sup> Il peut déléguer certaines tâches comme l’examen de mesures de réduction des risques, le monitoring des résultats et le conseil à une agence privée, dont il peut soutenir financièrement les activités.
+
+<sup>8</sup> S’il est prévisible que les objectifs visés à l’al. 2 ne seront pas atteints, le Conseil fédéral prend les mesures nécessaires, au plus tard deux ans avant l’échéance du délai, notamment en révoquant l’homologation des substances présentant des risques particulièrement importants.
+
+[^6b-1]: Introduit par le ch. I 3 de la LF du 19 mars 2021 sur la réduction des risques liés à l’utilisation de pesticides, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [FF 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6569](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ## Titre 2 Conditions-cadre de la production et de l’écoulement
 
@@ -534,7 +572,7 @@ L’al. 2 ne s’applique pas à l’invocation des clauses de sauvegarde prévu
 
 [^26-1]: Abrogé par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-### Section 5 Observation du marché****
+### Section 5 Observation du marché
 
 [^tit2-chap1-sec5-1]
 
@@ -548,7 +586,7 @@ L’al. 2 ne s’applique pas à l’invocation des clauses de sauvegarde prévu
 
 [^27-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Section 6**** Génie génétique
+### Section 6 Génie génétique
 
 [^tit2-chap1-sec6-1]
 
@@ -562,7 +600,7 @@ L’al. 2 ne s’applique pas à l’invocation des clauses de sauvegarde prévu
 
 [^27a-1]: Nouvelle expression selon le ch. II 3 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)). Il a été tenu compte de cette mod. dans tout le texte.
 
-### Section 7**** Moyens de production et biens d’investissement agricoles protégés par un brevet
+### Section 7 Moyens de production et biens d’investissement agricoles protégés par un brevet
 
 [^tit2-chap1-sec7-1]
 
@@ -574,9 +612,9 @@ L’al. 2 ne s’applique pas à l’invocation des clauses de sauvegarde prévu
 
 <sup>2</sup> Sont considérés comme agricoles les biens d’investissement destinés en majeure partie à une utilisation dans l’agriculture comme les tracteurs, les machines, les équipements et les installations ainsi que leurs composants.
 
-### Chapitre 2 Economie laitière
+### Chapitre 2 Économie laitière
 
-### Section 1 Champ d’application****
+### Section 1 Champ d’application
 
 [^tit2-chap2-sec1-1]
 
@@ -613,7 +651,7 @@ L’al. 2 ne s’applique pas à l’invocation des clauses de sauvegarde prévu
 
 [^36a36b-1]: Introduits par le ch. I de la LF du 20 juin 2003 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775)[6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Abrogés par le ch. I de la LF du 22 mars 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Section 3**** Contrat-type dans le secteur laitier
+### Section 3 Contrat-type dans le secteur laitier
 
 [^tit2-chap2-sec3-1]
 
@@ -743,7 +781,7 @@ Le Conseil fédéral peut prévoir des dérogations pour:
 
 <sup>4</sup> Les partages d’exploitation opérés à la seule fin de contourner les dispositions en matière d’effectifs maximaux ne sont pas reconnus.
 
-### Section 2 Bétail de boucherie, viande, laine de mouton et œufs****
+### Section 2 Bétail de boucherie, viande, laine de mouton et œufs
 
 [^tit2-chap3-sec2-1]
 
@@ -896,7 +934,7 @@ La Confédération peut allouer des contributions à des cultures particulières
 
 [^59-1]: Abrogé par le ch. I de la LF du 22 mars 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Chapitre 5 Economie viti-vinicole****
+### Chapitre 5 Économie viti-vinicole
 
 [^tit2-chap5-1]
 
@@ -988,7 +1026,7 @@ Les vins sont classés de la manière suivante:
 
 [^6769-1]: Abrogés par le ch. I de la LF du 22 juin 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-## Titre 3**** Paiements directs
+## Titre 3 Paiements directs
 
 [^tit3-1]
 
@@ -1189,7 +1227,7 @@ Le Conseil fédéral fixe:
 
 [^77-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## Titre 3*a***** Utilisation durable des ressources naturelles
+## Titre 3*a* Utilisation durable des ressources naturelles
 
 [^tit3a-1]
 
@@ -1221,7 +1259,7 @@ Les contributions sont octroyées à l’entité responsable du projet aux condi
 
 ## Titre 4 Mesures d’accompagnement social
 
-### Chapitre 1 Aide aux exploitations paysannes****
+### Chapitre 1 Aide aux exploitations paysannes
 
 [^tit4-chap1-1]
 
@@ -1341,7 +1379,7 @@ Si, dans un canton, les sommes remboursées et les intérêts excèdent les beso
 
 <sup>2</sup> La Confédération et le canton couvrent, au prorata de leurs prestations, les pertes résultant de l’octroi de prêts approuvés par l’OFAG en vertu de l’art. 81, y compris les frais de procédure éventuels, si les intérêts ne suffisent pas à cet effet.
 
-### Chapitre 2**** Aides à la reconversion professionnelle
+### Chapitre 2 Aides à la reconversion professionnelle
 
 [^tit4-chap2-1]
 
@@ -1793,13 +1831,13 @@ Les cantons couvrent les pertes consécutives à l’octroi de crédits d’inve
 
 Les cantons couvrent les frais d’administration.
 
-## Titre 6 Recherche et vulgarisation, encouragement de la sélection végétale et animale, ressources génétiques****
+## Titre 6 Recherche et vulgarisation, encouragement de la sélection végétale et animale, ressources génétiques
 
 [^tit6-1]
 
 [^tit6-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Chapitre 1**** Principe
+### Chapitre 1 Principe
 
 [^tit6-chap1-1]
 
@@ -1811,7 +1849,7 @@ Les cantons couvrent les frais d’administration.
 
 <sup>2</sup> Les moyens financiers sont, pour une part équitable, utilisés pour les modes de production particulièrement proches de la nature et respectueux de l’environnement et des animaux.
 
-### Chapitre 1*a* Recherche****
+### Chapitre 1*a* Recherche
 
 [^tit6-chap1a-1]
 
@@ -1879,7 +1917,7 @@ Les stations de recherches agronomiques ont notamment les tâches suivantes:[^11
 
 [^118135-1]: Abrogés par l’annexe ch. II 5 de la LF du 13 déc. 2002 sur la formation professionnelle, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 5256](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
-### Chapitre 2*a***** Vulgarisation
+### Chapitre 2*a* Vulgarisation
 
 [^tit6-chap2a-1]
 
@@ -1916,7 +1954,7 @@ Les stations de recherches agronomiques ont notamment les tâches suivantes:[^11
 
 [^139-1]: Abrogé par le ch. I de la LF du 20 juin 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775)[6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Chapitre 3 Sélections végétale et animale, ressources génétiques****
+### Chapitre 3 Sélections végétale et animale, ressources génétiques
 
 [^tit6-chap3-1]
 
@@ -2036,7 +2074,7 @@ Le Conseil fédéral peut édicter des dispositions sur l’élevage, l’import
 [^147-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^147-3]: Introduit par le ch. I de la LF du 22 juin 2007 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogé par l’annexe ch. 5 de la LF du 18 juin 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
-### Section 3**** Ressources génétiques pour l’agriculture et l’alimentation
+### Section 3 Ressources génétiques pour l’agriculture et l’alimentation
 
 [^tit6-chap3-sec3-1]
 
@@ -2056,13 +2094,13 @@ Le Conseil fédéral peut édicter des dispositions sur l’élevage, l’import
 
 Si des obligations internationales le prévoient, le Conseil fédéral règle l’accès aux ressources génétiques et la répartition des avantages qui découlent de l’utilisation de telles ressources.
 
-## Titre 7 Protection des végétaux et moyens de production****
+## Titre 7 Protection des végétaux et moyens de production
 
 [^tit7-1]
 
 [^tit7-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775)[6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Chapitre 1 Dispositions d’exécution****
+### Chapitre 1 Dispositions d’exécution
 
 [^tit7-chap1-1]
 
@@ -2076,7 +2114,7 @@ Si des obligations internationales le prévoient, le Conseil fédéral règle l�
 
 [^148-1]: Introduit par le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775)[6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Chapitre 2**** Mesures de précaution
+### Chapitre 2 Mesures de précaution
 
 [^tit7-chap2-1]
 
@@ -2100,7 +2138,7 @@ Le Conseil fédéral peut notamment, à titre de précaution:
 - a. restreindre, lier à des conditions particulières ou interdire l’importation, la mise en circulation et l’utilisation de moyens de production;
 - b. restreindre, lier à des conditions particulières ou interdire l’importation et la mise en circulation de matériel végétal et d’objets pouvant être porteurs d’organismes nuisibles particulièrement dangereux.
 
-### Chapitre 3**** Protection des végétaux
+### Chapitre 3 Protection des végétaux
 
 [^tit7-chap3-1]
 
@@ -2208,7 +2246,7 @@ Les indemnités sont fixées définitivement selon une procédure aussi simple q
 
 [^157-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775)[6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Chapitre 4 Moyens de production****
+### Chapitre 4 Moyens de production
 
 [^tit7-chap4-1]
 
@@ -2284,7 +2322,7 @@ Les produits phytosanitaires qui ont été mis en circulation en toute légalit�
 
 #### Art. 161
 
-**Etiquetage et emballage**
+**Étiquetage et emballage**
 
 Le Conseil fédéral édicte les dispositions relatives à l’étiquetage et à l’emballage des moyens de production.
 
@@ -2320,7 +2358,7 @@ Le Conseil fédéral peut astreindre les producteurs de moyens de production et 
 
 <sup>2</sup> Les services fédéraux compétents sont habilités à renseigner le public sur les caractéristiques et les possibilités d’utilisation des moyens de production.
 
-## Titre 7*a***** Autres dispositions
+## Titre 7*a* Autres dispositions
 
 [^tit7a-1]
 
@@ -2730,7 +2768,7 @@ Après entente avec les autres offices et services fédéraux concernés, l’OF
 - a. la reconnaissance d’organismes chargés d’examens, d’évaluations de conformité, d’accréditations, d’enregistrements et d’homologations dans le domaine agricole;
 - b. la reconnaissance de rapports d’essais, d’évaluations de conformité et d’homologations dans les domaines de la protection des végétaux, des moyens de production et des modes de production;
 - c. la coopération technique et l’échange d’informations dans le domaine de la protection des végétaux ainsi que l’homologation et la mise en circulation de moyens de production;
-- d. les charges et conditions liées à la cession ou à la prise en charge de ressources génétiques pour l’alimentation et l’agriculture provenant de banques de gènes contrôlées par l’Etat;
+- d. les charges et conditions liées à la cession ou à la prise en charge de ressources génétiques pour l’alimentation et l’agriculture provenant de banques de gènes contrôlées par l’État;
 - e. la reconnaissance d’appellations d’origine dans le domaine agricole;
 - f. les paiements directs, les mesures de soutien du marché et les contributions de mise en valeur dans des enclaves et dans la Principauté de Liechtenstein, pour autant qu’ils soient liés à l’application de la présente loi ainsi qu’aux prescriptions qui, dans les législations sur les épizooties, sur la protection des animaux, sur la protection des eaux, sur la protection de l’environnement ainsi que sur la protection de la nature et du paysage, sont applicables à l’agriculture;
 - g. des projets réalisés dans le cadre de la recherche agronomique internationale.
@@ -2897,7 +2935,7 @@ Le Conseil fédéral désigne une commission consultative permanente composée d
 
 **Dispositions transitoires concernant la loi sur l’agriculture[^187-1]**
 
-<sup>1</sup> A l’exception des dispositions relatives à la procédure, les dispositions abrogées restent applicables aux faits survenus pendant qu’elles étaient en vigueur.
+<sup>1</sup> À l’exception des dispositions relatives à la procédure, les dispositions abrogées restent applicables aux faits survenus pendant qu’elles étaient en vigueur.
 
 <sup>2</sup> à <sup>9</sup> …[^187-2]
 

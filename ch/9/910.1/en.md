@@ -4,11 +4,11 @@ title: "Federal Act of 29 April 1998 on Agriculture (Agriculture Act, AgricA)"
 short: AgricA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: en
-version: 2022-03-01
+version: 2023-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220301/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220301-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Agriculture Act, AgricA)
 
-of 29 April 1998 (Status as of 1 March 2022)
+of 29 April 1998 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -116,6 +116,44 @@ The term agriculture includes:
 <sup>3</sup> The Federal Council shall set the criteria for determining such zones.
 
 [^4-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+
+#### Art. 6a
+
+**Nutrient losses**[^6a-1]
+
+<sup>1</sup> The nitrogen and phosphorus losses from agriculture shall be reduced appropriately by 2030 relative to the mean value for the years 2014–2016.
+
+<sup>2</sup> The Federal Council shall specify the reduction targets and the method for assessing achievement of these targets. In doing so, it shall also be guided by the aim of eliminating imported artificial fertilisers by promoting the use of nutrients based on indigenous farmyard manure and indigenous biomass, taking due account of ecological and economic constraints. Before setting its requirements, it shall consult the cantons, the sectoral and producer organisations concerned and other stakeholder organisations. It shall determine the reporting requirements.
+
+<sup>3</sup> The sectoral and producer organisations concerned and other stakeholder organisations may take the necessary reduction measures and report regularly to the Confederation on the nature and effect of the measures they have taken.
+
+<sup>4</sup> The Federal Council may designate the organisations referred to in paragraphs 2 and 3.
+
+<sup>5</sup> It may appoint a private sector agency to perform certain tasks, such as assessing measures for reducing nitrogen and phosphorus losses, monitoring the results or providing advisory services, and may offer financial support for such activities.
+
+[^6a-1]: Inserted by No I 3 of the FA of 19 March 2021 on Reducing the Risks associated with Pesticide Use, in force since 1 Jan. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
+#### Art. 6b
+
+**Reduction of the risks from the use of plant protection products**[^6b-1]
+
+<sup>1</sup> The risks to humans, animals and the environment from the use of plant protection products shall be reduced and the quality of drinking water, surface waters and groundwater shall be improved.
+
+<sup>2</sup> The risks to surface waters and to semi-natural habitats and the extent of groundwater contamination must be reduced by 50 per cent by 2027 relative to the mean value for the years 2012−2015. If the risks remain unacceptable, the Federal Council may set a reduction path for the period from 2027.
+
+<sup>3</sup> The Federal Council shall specify the indicators for assessing achievement of the values referred to in paragraph 2. These indicators shall take account of the toxicity and the use of the various plant protection products. For this purpose, the Federal Council shall consider data from, among other sources, the information system referred to in Article 165*f* <sup>bis</sup>.
+
+<sup>4</sup> The Federal Council may define risk reduction values for other risk areas.
+
+<sup>5</sup> The sectoral and producer organisations concerned and other stakeholder organisations may take risk reduction measures and report regularly to the Confederation on the nature and effect of the measures they have taken.
+
+<sup>6</sup> The Federal Council may designate the organisations referred to in paragraph 5.
+
+<sup>7</sup> It may appoint a private sector agency to perform certain tasks, such as assessing risk reduction measures, monitoring the results or providing advisory services, and may offer financial support for such activities.
+
+<sup>8</sup> Should it become apparent that that the reduction targets referred to in paragraph 2 will not be achieved, the Federal Council shall take the necessary measures two years at the latest before the deadline, specifically by revoking the approval of substances posing a particularly high risk.
+
+[^6b-1]: Inserted by No I 3 of the FA of 19 March 2021 on Reducing the Risks associated with Pesticide Use, in force since 1 Jan. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 5
 
@@ -539,7 +577,7 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 [^26-1]: Repealed by No I of the FA of 22 June 2007, with effect from 1 Jan. 2010 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-### Section 5 Market Observation****
+### Section 5 Market Observation
 
 [^tit2-chap1-sec5-1]
 
@@ -553,7 +591,7 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 [^27-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-### Section 6**** Gene Technology
+### Section 6 Gene Technology
 
 [^tit2-chap1-sec6-1]
 
@@ -567,7 +605,7 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 [^27a-1]: Term in accordance with No II 3 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). This amendment has been made throughout the text.
 
-### Section 7**** Patented Aids to Production and Agricultural Capital Goods
+### Section 7 Patented Aids to Production and Agricultural Capital Goods
 
 [^tit2-chap1-sec7-1]
 
@@ -581,7 +619,7 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 ### Chapter 2 The Dairy Farming Sector
 
-### Section 1 Scope of Application****
+### Section 1 Scope of Application
 
 [^tit2-chap2-sec1-1]
 
@@ -618,7 +656,7 @@ Paragraph 2 does not apply to the application of protection clauses in internati
 
 [^36a36b-1]: Inserted by No I of the FA of 20 June 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Section 3**** Standard Contract for the Milk Sector
+### Section 3 Standard Contract for the Milk Sector
 
 [^tit2-chap2-sec3-1]
 
@@ -748,7 +786,7 @@ The Federal Council may allow exceptions for:
 
 <sup>4</sup> The division of farms to circumvent the provisions on maximum stock levels shall not be recognised.
 
-### Section 2 Slaughter Animals, Meat, Sheep’s Wool and Eggs****
+### Section 2 Slaughter Animals, Meat, Sheep’s Wool and Eggs
 
 [^tit2-chap3-sec2-1]
 
@@ -901,7 +939,7 @@ The Federal Council may pay subsidies for individual crops in order to:
 
 [^59-1]: Repealed by No I of the FA of 22 March 2013, with effect from 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Chapter 5 Wine Production****
+### Chapter 5 Wine Production
 
 [^tit2-chap5-1]
 
@@ -993,7 +1031,7 @@ Wines are divided into the following classes:
 
 [^6769-1]: Repealed by No I of the FA of 22 June 2007, with effect from 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-## Title 3**** Direct Payments
+## Title 3 Direct Payments
 
 [^tit3-1]
 
@@ -1194,7 +1232,7 @@ The Federal Council shall decide on:
 
 [^77-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## Title 3*a***** Sustainable Use of Natural Resources
+## Title 3*a* Sustainable Use of Natural Resources
 
 [^tit3a-1]
 
@@ -1224,13 +1262,13 @@ Subsidies are granted to the responsible agency provided:
 [^77b-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^77b-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## Title 4 Social Support Measures****
+## Title 4 Social Support Measures
 
 [^tit4-1]
 
 [^tit4-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Chapter 1 Support for Farmers****
+### Chapter 1 Support for Farmers
 
 [^tit4-chap1-1]
 
@@ -1349,7 +1387,7 @@ If the amounts repaid and interest accruing to the cantonal authorities exceed t
 
 <sup>2</sup> The Confederation and the cantonal authorities are liable in proportion to their share of the loan for any losses and legal costs accruing from granting loans that were approved by the FOAG under the terms of Article 81, insofar as such losses are not covered through interest.
 
-### Chapter 2**** Support for Re-Training
+### Chapter 2 Support for Re-Training
 
 [^tit4-chap2-1]
 
@@ -1801,13 +1839,13 @@ The cantonal authorities are liable for losses incurred in connection with inves
 
 The cantonal authorities are liable for administrative expenses.
 
-## Title 6 Research and Advisory Services, Promotion of Plant and Animal Breeding and Genetic Resources****
+## Title 6 Research and Advisory Services, Promotion of Plant and Animal Breeding and Genetic Resources
 
 [^tit6-1]
 
 [^tit6-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### Chapter 1**** Basic Principle
+### Chapter 1 Basic Principle
 
 [^tit6-chap1-1]
 
@@ -1821,7 +1859,7 @@ The cantonal authorities are liable for administrative expenses.
 
 <sup>2</sup> An appropriate proportion of funding is used for types of production that are particularly near-natural and environmentally and animal friendly.
 
-### Chapter 1*a* Research****
+### Chapter 1*a* Research
 
 [^tit6-chap1a-1]
 
@@ -1889,7 +1927,7 @@ The agricultural research stations have assigned the following tasks in particul
 
 [^118135-1]: Repealed in Annex No II 5 of the FA of 13 Dec. 2002 on Vocational and Professional Education and Training, with effect from 1 Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
-### Chapter 2*a***** Advisory Services
+### Chapter 2*a* Advisory Services
 
 [^tit6-chap2a-1]
 
@@ -1926,7 +1964,7 @@ The agricultural research stations have assigned the following tasks in particul
 
 [^139-1]: Repealed by No I of the FA of 20 June 2003, with effect from 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Chapter 3 Horticulture, Livestock Breeding and Genetic Resources****
+### Chapter 3 Horticulture, Livestock Breeding and Genetic Resources
 
 [^tit6-chap3-1]
 
@@ -2046,7 +2084,7 @@ The Federal Council may issue regulations concerning the breeding, importing or 
 [^147-2]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^147-3]: Inserted by No I of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Repealed by Annex No 5 of the FA of 18 June 2010, with effect from 1 Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
-### Section 3**** Genetic Resources for Agriculture and Food Production
+### Section 3 Genetic Resources for Agriculture and Food Production
 
 [^tit6-chap3-sec3-1]
 
@@ -2066,13 +2104,13 @@ The Federal Council may issue regulations concerning the breeding, importing or 
 
 Insofar as international commitments exist, the Federal Council shall regulate access to genetic resources and the allocation of advantages arising from the use of such resources.
 
-## Title 7 Plant Protection and Aids to Production****
+## Title 7 Plant Protection and Aids to Production
 
 [^tit7-1]
 
 [^tit7-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Chapter 1 Implementing Provisions****
+### Chapter 1 Implementing Provisions
 
 [^tit7-chap1-1]
 
@@ -2086,7 +2124,7 @@ Insofar as international commitments exist, the Federal Council shall regulate a
 
 [^148-1]: Inserted by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Chapter 2**** Preventive Measures
+### Chapter 2 Preventive Measures
 
 [^tit7-chap2-1]
 
@@ -2110,7 +2148,7 @@ With regard to preventive measures, the Federal Council may in particular:
 - a. restrict, issue conditions for or ban the importing, circulation and use of aids to production;
 - b. restrict, issue conditions for or ban the importing and circulation of plant material and goods that may carry particularly dangerous harmful organisms.
 
-### Chapter 3**** Plant Protection
+### Chapter 3 Plant Protection
 
 [^tit7-chap3-1]
 
@@ -2218,7 +2256,7 @@ The definitive amount of the compensation shall be set through the simplest proc
 
 [^157-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### Chapter 4 Aids to Production****
+### Chapter 4 Aids to Production
 
 [^tit7-chap4-1]
 
@@ -2332,7 +2370,7 @@ The Federal Council may require the producers of aids to production and trading 
 
 <sup>2</sup> The federal agencies responsible are authorised to inform the general public about the characteristics and intended use of aids to production.
 
-## Title 7*a***** Further Provisions
+## Title 7*a* Further Provisions
 
 [^tit7a-1]
 
@@ -3019,15 +3057,15 @@ The following are repealed:
 
 [^annexu1-lvlu1-lvlu1-1]: [BS **4** 1056]
 [^annexu1-lvlu1-lvlu1-2]: [BS **4** 1002]
-[^annexu1-lvlu1-lvlu1-3]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14; [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)Final and Transitional Provisions X. Tit. art. 6 No 7; **1974** 763; **1977** 2249 No I, 921, 942, 931; **1979** 2058; **1982** 1676 Annex No 6; **1988** 640; **1989** 504 art. 33 letter c; **1991** 362 No II 51, 857 Annex No 25, 2611; **1992** 1860 art. 75 No 5, 1986 art. 36 para. 1; **1993** 1410 art. 92 No 4, 1571, 2080 Annex No 11; **1994** 28; **1995** 1469 art. 59, 1837, 3517 No I 2; **1996** 2588 Annex No 2; **1997** 1187, 1190; **1998** 1822 art. 15 No 3]
+[^annexu1-lvlu1-lvlu1-3]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14; [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)Final and Transitional Provisions X. Tit. Art. 6 No 7; **1974** 763; **1977** 2249 No I, 921, 942, 931; **1979** 2058; **1982** 1676 Annex No 6; **1988** 640; **1989** 504 Art. 33 letter c; **1991** 362 No II 51, 857 Annex No 25, 2611; **1992** 1860 Art. 75 No 5, 1986 Art. 36 para. 1; **1993** 1410 Art. 92 No 4, 1571, 2080 Annex No 11; **1994** 28; **1995** 1469 Art. 59, 1837, 3517 No I 2; **1996** 2588 Annex No 2; **1997** 1187, 1190; **1998** 1822 Art. 15 No 3]
 [^annexu1-lvlu1-lvlu1-4]: [[AS 1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 26, [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)No II 1, [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)No II 1]
 [^annexu1-lvlu1-lvlu1-5]: [[AS 1952 561](https://fedlex.data.admin.ch/eli/oc/1952/561_581_585)]
 [^annexu1-lvlu1-lvlu1-6]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 47 [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)]
 [^annexu1-lvlu1-lvlu1-7]: [[AS 1989 1904](https://fedlex.data.admin.ch/eli/oc/1989/1904_1904_1904), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 50, [1995 1988](https://fedlex.data.admin.ch/eli/oc/1995/1988_1988_1988)]
 [^annexu1-lvlu1-lvlu1-8]: [[AS 1992 1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986), [1997 1216](https://fedlex.data.admin.ch/eli/oc/1997/1216_1216_1216)]
 [^annexu1-lvlu1-lvlu1-9]: [[AS 1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 941, [1978 1407](https://fedlex.data.admin.ch/eli/oc/1978/1407_1407_1407), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 29, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 52, [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)No 13]
-[^annexu1-lvlu1-lvlu1-10]: [[AS 1974 2063](https://fedlex.data.admin.ch/eli/oc/1974/2063_2063_2063), [1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679)art. 12, [1983 488](https://fedlex.data.admin.ch/eli/oc/1983/488_488_488), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 30, [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)No II 2, [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)No II 3]
-[^annexu1-lvlu1-lvlu1-11]: [[AS 1953 1109](https://fedlex.data.admin.ch/eli/oc/1953/1109_1132_1172), [1957 571](https://fedlex.data.admin.ch/eli/oc/1957/571_573_591)No II para. 2, **1969** 1052, [1971 1597](https://fedlex.data.admin.ch/eli/oc/1971/1597_1597_1597), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 29, [1979 1414](https://fedlex.data.admin.ch/eli/oc/1979/1414_1414_1414), [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 letter c, **1992** 288 Annex No 54, **1994** 1648, **1995** 2075]
+[^annexu1-lvlu1-lvlu1-10]: [[AS 1974 2063](https://fedlex.data.admin.ch/eli/oc/1974/2063_2063_2063), [1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679)Art. 12, [1983 488](https://fedlex.data.admin.ch/eli/oc/1983/488_488_488), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 30, [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)No II 2, [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)No II 3]
+[^annexu1-lvlu1-lvlu1-11]: [[AS 1953 1109](https://fedlex.data.admin.ch/eli/oc/1953/1109_1132_1172), [1957 571](https://fedlex.data.admin.ch/eli/oc/1957/571_573_591)No II para. 2, **1969** 1052, [1971 1597](https://fedlex.data.admin.ch/eli/oc/1971/1597_1597_1597), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 29, [1979 1414](https://fedlex.data.admin.ch/eli/oc/1979/1414_1414_1414), [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 letter c, **1992** 288 Annex No 54, **1994** 1648, **1995** 2075]
 [^annexu1-lvlu1-lvlu1-12]: [[AS 1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 31, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 55, [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)No I 14, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 4, [1995 2077](https://fedlex.data.admin.ch/eli/oc/1995/2077_2077_2077)]
 [^annexu1-lvlu1-lvlu1-13]: [[AS 1969 1046](https://fedlex.data.admin.ch/eli/oc/1969/1046_1070_1067), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 32, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Annex No 28]
 [^annexu1-lvlu1-lvlu1-14]: [[AS 1961 263](https://fedlex.data.admin.ch/eli/oc/1961/263_269_273), **1987** 2324, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Annex No 30, [1995 2097](https://fedlex.data.admin.ch/eli/oc/1995/2097_2097_2097)]
@@ -3036,4 +3074,4 @@ The following are repealed:
 
 ...[^annexu1-lvlu1-lvlu2-1]
 
-[^annexu1-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)..
+[^annexu1-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033).
