@@ -4,13 +4,13 @@ number: "551.1"
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-24
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2022-06-15
 adopted: 2019-02-10
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2231/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2722/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2231/pdf_file"
 
 (PolG)
 
-vom 10.02.2019 (Stand 01.04.2021)
+vom 10.02.2019 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1488,7 +1488,7 @@ beschliesst:
 
 **An Organisationseinheiten des Kantons**
 
-<sup>1</sup> Die Kantonspolizei kann einzelne Leistungen im Sinne von Artikel 41 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^138-1] verrechnen.
+<sup>1</sup> Die Kantonspolizei kann einzelne Leistungen im Sinne von Artikel 14 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^138-1] verrechnen.
 
 <sup>2</sup> Der Regierungsrat bezeichnet die verrechenbaren Leistungen sowie die Bemessungsgrundlagen oder die Gebührenhöhe durch Verordnung.
 

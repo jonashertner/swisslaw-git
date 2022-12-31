@@ -4,13 +4,13 @@ number: "551.1"
 title: Loi sur la police
 short: LPol
 language: fr
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-24
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2022-06-15
 adopted: 2019-02-10
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2231/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2722/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2231/pdf_file"
 
 (LPol)
 
-du 10.02.2019 (état au 01.04.2021)
+du 10.02.2019 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -1488,7 +1488,7 @@ arrête:
 
 **A des unités administratives du canton**
 
-<sup>1</sup> La Police cantonale peut facturer des prestations conformément à l'article 41 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^138-1].
+<sup>1</sup> La Police cantonale peut facturer des prestations conformément à l'article 14 de la loi du 15 juin 2022 sur les finances (LFin)[^138-1].
 
 <sup>2</sup> Le Conseil-exécutif désigne par voie d'ordonnance les prestations pouvant être facturées et les bases de calcul applicables ou le montant des émoluments.
 
