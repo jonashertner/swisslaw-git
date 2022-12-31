@@ -4,13 +4,12 @@ number: "76.1"
 title: Gesetz über die Enteignung
 short: EntG
 language: de
-version: 2011-01-01
-valid_until: 2022-12-31
-version_adopted: 2010-05-31
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1984-02-23
 in_force: 1984-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/76.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7177/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7590/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Enteignung – G
 
 (EntG)
 
-vom 23.02.1984 (Fassung in Kraft getreten am 01.01.2011)
+vom 23.02.1984 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -251,7 +250,7 @@ beschliesst:
 
 **Arten der Entschädigung – Sachleistung**
 
-<sup>1</sup> An Stelle der Geldleistung kann ganz oder teilweise eine Sachleistung treten, insbesondere dann, wenn infolge der Enteignung ein landwirtschaftliches oder industrielles Gewerbe nicht mehr fortgeführt werden kann, ferner bei Enteignung von Wasserrechten oder bei Störung von Wegverbindungen oder Leitungen.
+<sup>1</sup> An die Stelle der Geldleistung kann ganz oder teilweise eine Sachleistung treten, insbesondere dann, wenn infolge der Enteignung ein landwirtschaftliches oder industrielles Gewerbe nicht mehr fortgeführt werden kann, ferner bei Enteignung von Wasserrechten oder bei Störung von Mobilitätsinfrastrukturen oder Leitungen.
 
 <sup>2</sup> Auferlegt werden darf eine Sachleistung nur, wenn die Interessen des Enteigneten ausreichend gewahrt bleiben und die betreffende Leistung vom Enteigner vernünftigerweise verlangt werden kann.
 
@@ -399,7 +398,7 @@ beschliesst:
 
 <sup>1</sup> Vor der öffentlichen Auflage der Pläne sind die durch das zu erstellende Werk bedingten Veränderungen im Gelände durch Aussteckungen zu markieren.
 
-<sup>2</sup> Überdies sind, wenn die Einwirkungen des Werkes auf die nicht enteigneten Teile und Nachbargrundstücke sowie auf die öffentlichen Verkehrswege und Einrichtungen anders nicht leicht beurteilt werden können, Profile aufzustellen.
+<sup>2</sup> Überdies sind, wenn die Einwirkungen des Werkes auf die nicht enteigneten Parzellen und Nachbargrundstücke sowie auf die Mobilitätsinfrastrukturen und Einrichtungen anders nicht leicht beurteilt werden können, Profile aufzustellen.
 
 <sup>3</sup> Im abgekürzten Verfahren (Art. 41) und im besonderen Verfahren (Art. 51) sind Aussteckungen und Profile nur obligatorisch, wenn sie vom Präsidenten der Kommission angeordnet werden.
 

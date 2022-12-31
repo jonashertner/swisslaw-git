@@ -4,13 +4,12 @@ number: "76.1"
 title: "Loi sur l'expropriation"
 short: LEx
 language: fr
-version: 2011-01-01
-valid_until: 2022-12-31
-version_adopted: 2010-05-31
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1984-02-23
 in_force: 1984-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/76.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7177/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7590/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Expropriation – L
 
 (LEx)
 
-du 23.02.1984 (version entrée en vigueur le 01.01.2011)
+du 23.02.1984 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -251,7 +250,7 @@ Décrète:
 
 **Modes d'indemnisation – Réparation en nature**
 
-<sup>1</sup> La prestation en argent peut être remplacée en tout ou partie par une prestation en nature, notamment lorsque l'expropriation empêche de maintenir une exploitation agricole ou industrielle, qu'elle concerne les droits d'eau ou qu'elle porte atteinte à des voies de communication ou à des conduites.
+<sup>1</sup> La prestation en argent peut être remplacée en tout ou partie par une prestation en nature, notamment lorsque l'expropriation empêche de maintenir une exploitation agricole ou industrielle, qu'elle concerne les droits d'eau ou qu'elle porte atteinte à des infrastructures de mobilité ou à des conduites.
 
 <sup>2</sup> La réparation en nature ne peut être imposée que si les intérêts de l'exproprié sont suffisamment sauvegardés et que la prestation peut être raisonnablement exigée de l'expropriant.
 
@@ -399,7 +398,7 @@ Décrète:
 
 <sup>1</sup> Les modifications de l'état des lieux nécessitées par l'ouvrage sont marquées sur le terrain, avant le dépôt public des plans, par des piquetages.
 
-<sup>2</sup> Des profils sont en outre établis lorsqu'il est difficile de se rendre compte autrement des conséquences qui résulteront de l'ouvrage pour les parcelles non expropriées et les immeubles voisins, ainsi que pour les voies de communication et autres biens affectés à des fins d'utilité publique.
+<sup>2</sup> Des profils sont en outre établis lorsqu'il est difficile de se rendre compte autrement des conséquences qui résulteront de l'ouvrage pour les parcelles non expropriées et les immeubles voisins, ainsi que pour les infrastructures de mobilité et autres biens affectés à des fins d'utilité publique.
 
 <sup>3</sup> En cas de procédure abrégée (art. 41) ou de procédure spéciale (art. 51), les piquetages et les profils ne sont obligatoires que si le président de la Commission les ordonne.
 
