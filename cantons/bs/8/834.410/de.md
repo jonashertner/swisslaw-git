@@ -4,13 +4,13 @@ number: "834.410"
 title: Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 short: KVO
 language: de
-version: 2022-04-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-22
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-25
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5496/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5945/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Krankenversicherung: Verordnung | Kranken- und Unfallversicherung
 
 (KVO)
 
-Vom 25. November 2008 (Stand 1. April 2022)
+Vom 25. November 2008 (Stand 1. Januar 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -64,7 +64,7 @@ beschliesst:
 - b) die Ausrichtung und Kontrolle der Beiträge an die Krankenversicherungsprämien;
 - c) der Vollzug des Gesetzes über die Krankenversicherung im Kanton Basel-Stadt (GKV) vom 15. November 1989;
 - d) die Anwendung der §§ 5 und 6 der Verordnung zum Gesetz betreffend die öffentliche Zahnpflege (Zahnpflegeverordnung) vom 30. Oktober 2001.
-- e) die Ausrichtung undKontrolle der kantonalen Beiträge an die Spital- und Pflegeheimtaxen gemäss § 8a;
+- e) die Ausrichtung und Kontrolle der kantonalen Beiträge an die Spital- und Pflegeheimtaxen gemäss § 8a;
 - f) die Ausrichtung und Kontrolle der kantonalen Beiträge an die Kosten der ambulanten Pflege gemäss § 8c.
 
 <sup>4</sup> Das Amt für Sozialbeiträge führt im Rahmen der Vorbereitung von Tarifgeschäften gemäss Abs. 2 lit. a eine Analyse über allfällige Auswirkungen von Tarifanpassungen insbesondere auf die Höhe der Krankenversicherungsprämien, der Beiträge an die Krankenversicherungsprämien, der Sozialhilfe, der Ergänzungsleistungen und der kantonalen Beihilfen sowie auf das Versicherungsobligatorium durch. Es erhält die dafür notwendigen Unterlagen vom Gesundheitsdepartement mindestens 19 Tage vor der Regierungsratssitzung zur Stellungnahme zu Handen des Regierungsrates.
