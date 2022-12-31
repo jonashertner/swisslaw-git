@@ -4,13 +4,13 @@ number: "720.200"
 title: Gesetz über die Gemeinde- und Kirchensteuern
 short: GKStG
 language: de
-version: 2018-07-01
-corrected: 2018-06-26
-version_adopted: 2018-02-12
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-02
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2901/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3292/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2901/pdf_file"
 
 (GKStG)
 
-Vom 31.08.2006 (Stand 01.07.2018)
+Vom 31.08.2006 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -56,12 +56,13 @@ beschliesst:
 <sup>2</sup> Die Gemeinde kann nach den Bestimmungen dieses Gesetzes folgende Steuern erheben:
 
 - a) eine Handänderungssteuer;
-- b) eine Liegenschaftensteuer.
+- b) eine Liegenschaftensteuer;
+- c) eine Erbschafts- und eine Schenkungssteuer.
 
 <sup>3</sup> Die Gemeinde kann weitere Steuern erheben, wie insbesondere:
 
-- a) eine Erbanfall- und Schenkungssteuer;
-- b) eine Kurtaxe;
+- a) …
+- b) eine Gästetaxe oder eine Beherbergungsabgabe;
 - c) eine Tourismusförderungsabgabe.
 
 <sup>4</sup> Die Erhebung einer Quellensteuer und die Besteuerung der juristischen Personen für Gewinn und Kapital steht einzig dem Kanton zu.
@@ -181,7 +182,8 @@ beschliesst:
 - c) die selbständigen kantonalen Anstalten für Grundstücke, die unmittelbar öffentlichen Zwecken dienen;
 - d) die Regionen, die Gemeinden (mit deren Anstalten) und die Bürgergemeinden für Grundstücke im eigenen Gebiet;
 - e) die Landeskirchen und ihre Kirchgemeinden sowie die kirchlichen Stiftungen für Grundstücke im eigenen Gebiet, die unmittelbar kirchlichen Zwecken dienen sowie für die Pfarrhäuser;
-- f) die juristischen Personen, die gestützt auf Artikel 78 Absatz 1 Litera f Steuergesetz[^11-1] von der Steuerpflicht befreit sind, für Grundstücke, die unmittelbar, ausschliesslich und unwiderruflich dem steuerbefreienden Zweck dienen.
+- f) die juristischen Personen, die gestützt auf Artikel 78 Absatz 1 Litera f des kantonalen Steuergesetzes[^11-1] von der Steuerpflicht befreit sind, für Grundstücke, die unmittelbar, ausschliesslich und unwiderruflich dem steuerbefreienden Zweck dienen;
+- g) die Verkehrs- und Infrastrukturunternehmen im Sinne von Artikel 78 Absatz 1 Litera k des kantonalen Steuergesetzes für Liegenschaften, welche der konzessionierten Tätigkeit dienen.
 
 [^11-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
 
@@ -271,37 +273,67 @@ beschliesst:
 
 [^20-1]: BR [210.100](https://www.gr-lex.gr.ch/data/210.100/de)
 
-### 2.4. Kompetenznormen für weitere Steuern
+### 2.4. Erbschafts- und Schenkungssteuer
 
 #### Art. 21
 
 **Erbschafts- und Schenkungssteuer**
 
-<sup>1</sup> Die Gemeinde kann eine Erbanfall- und Schenkungssteuer erheben.
+<sup>1</sup> Die Gemeinde kann eine Erbschafts- und eine Schenkungssteuer erheben.
 
-<sup>2</sup> Ehegatten und direkte Nachkommen sind von der Besteuerung auszunehmen. Stief- und Pflegekinder sind den direkten Nachkommen gleichgestellt.
+<sup>2</sup> Steuersubjekt, Steuerbefreiung, Steuerobjekt, Steueranspruch und Steuerbemessung, Bezug und Haftung der Erbschafts- und der Schenkungssteuer richten sich nach den Bestimmungen des kantonalen Steuergesetzes.
 
-<sup>3</sup> Die Stellung eingetragener Partnerinnen oder Partner entspricht derjenigen von Ehegatten.
+<sup>3</sup> …
 
-<sup>4</sup> Zur Steuererhebung berechtigt ist die Gemeinde am Wohnsitz oder dauernden Aufenthalt des Erblassers beziehungsweise Schenkgebers. Für Grundstücke liegt die Steuerhoheit bei der Gemeinde am Ort der gelegenen Sache. Für Preise und Ehrengaben des Kantons liegt die Steuerhoheit bei der Wohnsitzgemeinde des Empfängers. Hat dieser seinen Wohnsitz ausserhalb des Kantons, ist die Stadt Chur zur Steuererhebung berechtigt.
+<sup>4</sup> Die Bestimmungen des kantonalen Steuergesetzes über die Steuerpflicht[^21-1] finden analoge Anwendung. Für Preise und Ehrengaben des Kantons liegt die Steuerhoheit bei der Wohnsitzgemeinde des Empfängers. Hat dieser seinen Wohnsitz ausserhalb des Kantons, fällt der Steuerertrag an die Stadt Chur.
 
-<sup>5</sup> Die Steuersätze dürfen folgende Maximalsätze nicht übersteigen
+<sup>5</sup> Die Gemeinde legt die Steuersätze in einem formellen Gesetz fest. Diese betragen maximal:
 
 - a) 5 Prozent: für den elterlichen Stamm;
-- b) 5 Prozent: für den Konkubinatspartner;
+- b) …
 - c) 25 Prozent: für die übrigen Begünstigten.
+
+<sup>6</sup> Veranlagung und Steuerbezug erfolgen zusammen mit der kantonalen Erbschaftssteuer und der kantonalen Schenkungssteuer durch die kantonale Steuerverwaltung. Gleiches gilt für Einsprache-, Rechtsmittel- und weitere Entscheide.
+
+<sup>7</sup> Über Erlassgesuche und administrative Abschreibungen entscheidet die Gemeinde.
+
+[^21-1]: Artikel 107 des kantonalen Steuergesetzes (BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de))
+
+### 2.5. Kompetenznormen für weitere Steuern
 
 #### Art. 22
 
-**Kurtaxe**
+**Gästetaxe**
 
-<sup>1</sup> Die Gemeinde kann eine Kurtaxe erheben.
+<sup>1</sup> Die Gemeinde kann eine Gästetaxe erheben.
 
 <sup>2</sup> Steuerobjekt ist die Übernachtung, Steuersubjekt der übernachtende Gast. Dem übernachtenden Gast gleichgestellt sind Personen, die in der betreffenden Gemeinde unbeschränkt steuerpflichtig sind und dort über eine selbst genutzte Ferienliegenschaft verfügen, es sei denn, die Gemeinde leistet aus den Einkommens- und Vermögenssteuern der unbeschränkt steuerpflichtigen Personen einen wesentlichen Beitrag an die Tourismusentwicklung.
 
-<sup>3</sup> Die Erträge aus der Kurtaxe müssen zur Finanzierung von touristischen Einrichtungen und Veranstaltungen verwendet werden. Sie dürfen nicht für die Finanzierung ordentlicher Gemeindeaufgaben eingesetzt werden.
+<sup>3</sup> Die Erträge aus der Gästetaxe müssen zur Finanzierung von touristischen Einrichtungen und Veranstaltungen verwendet werden. Sie dürfen nicht für die Finanzierung ordentlicher Gemeindeaufgaben eingesetzt werden.
 
-<sup>4</sup> Erhebung, Bezug und Verwendung der Kurtaxe können an eine kommunale oder regionale Tourismusorganisation delegiert werden. Für Einsprachen muss jedenfalls ein Gemeindeorgan bestimmt werden.
+<sup>4</sup> Erhebung, Bezug und Verwendung der Gästetaxe können an eine kommunale oder regionale Tourismusorganisation delegiert werden. Für Einsprachen muss jedenfalls ein Gemeindeorgan bestimmt werden.
+
+<sup>5</sup> Die Gemeinden beziehungsweise die Tourismusorganisationen sind verpflichtet, die Mittelverwendung detailliert offenzulegen.
+
+#### Art. 22a
+
+**Beherbergungsabgabe**
+
+<sup>1</sup> Die Gemeinde kann eine Beherbergungsabgabe erheben.
+
+<sup>2</sup> Steuersubjekt sind der Beherberger und der Eigennutzer. Als Eigennutzer gilt auch, wer in der betreffenden Gemeinde unbeschränkt steuerpflichtig ist und dort über eine selbst genutzte Ferienliegenschaft verfügt, es sei denn, die Gemeinde leistet aus den Einkommens- und Vermögenssteuern der unbeschränkt steuerpflichtigen Personen einen wesentlichen Beitrag an die Tourismusentwicklung. Der Dauermieter ist dem Eigennutzer gleichgestellt.
+
+<sup>3</sup> Von der Abgabe ausgenommen ist, wer in der betreffenden Gemeinde unbeschränkt steuerpflichtig ist und dort nicht über eine selbst genutzte Ferienliegenschaft verfügt.
+
+<sup>4</sup> Steuerobjekt ist der direkte oder indirekte Tourismusnutzen.
+
+<sup>5</sup> Die Bemessung erfolgt aufgrund der vorhandenen Kapazitäten.
+
+<sup>6</sup> Die Erträge aus der Beherbergungsabgabe müssen zur Finanzierung von Ausgaben im Interesse und zum Nutzen der Abgabepflichtigen verwendet werden. Sie dürfen nicht für die Finanzierung traditioneller Gemeindeaufgaben verwendet werden.
+
+<sup>7</sup> Erhebung, Bezug und Verwendung der Beherbergungsabgabe können an eine kommunale oder regionale Tourismusorganisation delegiert werden. Für Einsprachen muss jedenfalls ein Gemeindeorgan bestimmt werden.
+
+<sup>8</sup> Die Gemeinden beziehungsweise die Tourismusorganisationen sind verpflichtet, die Mittelverwendung detailliert offenzulegen.
 
 #### Art. 23
 
@@ -314,6 +346,8 @@ beschliesst:
 <sup>3</sup> Die Erträge sind im Interesse der steuerpflichtigen Personen und insbesondere für eine wirksame Marktbearbeitung sowie für Anlässe zu verwenden. Sie dürfen nicht für die Finanzierung ordentlicher Gemeindeaufgaben eingesetzt werden.
 
 <sup>4</sup> Erhebung, Bezug und Verwendung der Tourismusförderungsabgabe können an eine kommunale oder regionale Tourismusorganisation delegiert werden. Für Einsprachen muss jedenfalls ein Gemeindeorgan bestimmt werden.
+
+<sup>5</sup> Die Gemeinden beziehungsweise die Tourismusorganisationen sind verpflichtet, die Mittelverwendung detailliert offenzulegen.
 
 ## 3. Die Kirchensteuern
 
@@ -426,6 +460,16 @@ beschliesst:
 **Übergangsbestimmung**
 
 <sup>1</sup> Noch nicht besteuerte Erbvorbezüge an Ehegatten sowie an direkte Nachkommen werden per 1. Januar 2008 besteuert. Für die Besteuerung des Vorempfanges sind die Verhältnisse im Zeitpunkt der Ausrichtung massgebend.
+
+#### Art. 33a
+
+**Anpassung der kommunalen Gesetzgebung an die Änderung vom 12. Februar 2019**
+
+<sup>1</sup> Die Änderungen des Artikels 2 und des Artikels 21 finden direkt Anwendung und treten mit dem Inkrafttreten der Teilrevision des kantonalen Steuergesetzes vom 12. Februar 2019 in Kraft.
+
+<sup>2</sup> Die im Gemeindesteuergesetz normierten Steuersätze für den elterlichen und den grosselterlichen Stamm sowie für die übrigen Begünstigten finden bis zu deren Änderung Anwendung, soweit sie die neuen Maximalsätze nicht übersteigen. Andernfalls gelten die Maximalsätze nach Artikel 21 Absatz 5.
+
+<sup>3</sup> Für die zeitliche Abgrenzung dieser Gesetzesänderung ist der Zeitpunkt massgebend, in welchem der steuerbegründende Tatbestand verwirklicht wurde. Altrechtliche Steuertatbestände werden weiterhin von der Gemeinde veranlagt und bezogen.
 
 #### Art. 34
 

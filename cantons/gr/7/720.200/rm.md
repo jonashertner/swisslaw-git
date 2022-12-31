@@ -4,13 +4,13 @@ number: "720.200"
 title: Lescha davart las taglias communalas e davart las taglias da baselgia
 short: LTCTB
 language: rm
-version: 2018-07-01
-corrected: 2018-06-26
-version_adopted: 2018-02-12
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-02
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2901/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3292/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2901/pdf_file"
 
 (LTCTB)
 
-dals 31-08-2006 (versiun dals 01-07-2018)
+dals 31-08-2006 (versiun dals 01-01-2023)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -58,12 +58,13 @@ concluda:
 <sup>2</sup> La vischnanca po incassar las suandantas taglias tenor las disposiziuns da questa lescha:
 
 - a) ina taglia sin midada da maun;
-- b) ina taglia sin immobiglias.
+- b) ina taglia sin immobiglias;
+- c) ina taglia sin l'ierta ed ina taglia sin donaziuns.
 
 <sup>3</sup> La vischnanca po incassar ulteriuras taglias, sco spezialmain:
 
-- a) ina taglia sin la part d'ierta ed ina taglia sin donaziuns;
-- b) ina taxa da cura;
+- a) …
+- b) ina taxa da giasts u ina taxa d'alloschament;
 - c) ina taxa per promover il turissem.
 
 <sup>4</sup> Sulettamain il chantun ha il dretg d'incassar ina taglia a la funtauna e d'imponer a las persunas giuridicas ina taglia sin il gudogn e sin il chapital.
@@ -185,7 +186,8 @@ concluda:
 - c) ils instituts chantunals autonoms per bains immobigliars che servan directamain ad intents publics;
 - d) las regiuns, las vischnancas (cun lur instituts) e las vischnancas burgaisas per bains immobigliars sin l'agen territori;
 - e) las baselgias chantunalas e lur cumins-baselgia sco er las fundaziuns ecclesiasticas per bains immobigliars sin l'agen territori che servan directamain ad intents ecclesiastics sco er per chasas-pravenda;
-- f) las persunas giuridicas ch'èn libras da l'obligaziun da pajar taglia sin basa da l'artitgel 78 alinea 1 litera f da la lescha da taglia[^11-1], per bains immobigliars che servan directamain, unicamain ed irrevocablamain a l'intent da la liberaziun da taglia.
+- f) las persunas giuridicas ch'èn libras da l'obligaziun da pajar taglia sin basa da l'artitgel 78 alinea 1 litera f da la Lescha chantunala da taglia[^11-1], per bains immobigliars che servan directamain, unicamain ed irrevocablamain a l'intent da la liberaziun da taglia;
+- g) las interpresas da traffic e d'infrastructura en il senn da l'artitgel 78 alinea 1 litera k da la Lescha chantunala da taglia, per immobiglias che servan a l'activitad concessiunada.
 
 [^11-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
 
@@ -277,37 +279,67 @@ concluda:
 
 [^20-1]: DG [210.100](https://www.gr-lex.gr.ch/data/210.100/rm)
 
-### 2.4. Normas da cumpetenza per ulteriuras taglias
+### 2.4. Taglia sin l'ierta e taglia sin donaziuns
 
 #### Art. 21
 
 **Taglia sin l'ierta e sin donaziuns**
 
-<sup>1</sup> La vischnanca po incassar ina taglia sin la quota d'ierta e sin donaziuns.
+<sup>1</sup> La vischnanca po incassar ina taglia sin l'ierta ed ina taglia sin donaziuns.
 
-<sup>2</sup> Conjugals e persunas descendentas directas ston vegnir exclus da l'imposiziun da taglia. Uffants figliasters ed uffants confidads han il medem dretg sco las persunas descendentas directas.
+<sup>2</sup> Il subject da taglia, la liberaziun da taglia, l'object da taglia, la pretensiun fiscala e la fixaziun da la taglia, la retratga e la responsabladad da la taglia sin l'ierta e da la taglia sin donaziuns sa drizzan tenor las disposiziuns da la lescha chantunala da taglia.
 
-<sup>3</sup> La posiziun da partenarias e da partenaris registrads correspunda a quella da conjugals.
+<sup>3</sup> …
 
-<sup>4</sup> D'incassar la taglia è autorisada la vischnanca al domicil u a la dimora permanenta da la testadra u dal testader ubain da la donatura u dal donatur. Per bains immobigliars sa chatta la suveranitad fiscala en quel lieu, nua che la chaussa sa chatta. Per premis e per duns d'onur dal chantun sa chatta la suveranitad fiscala tar la vischnanca da domicil da la retschavidra u dal retschavider. Sch'ella u el ha ses domicil ordaifer il chantun, è la citad da Cuira autorisada d'incassar la taglia.
+<sup>4</sup> Las disposiziuns da la lescha chantunala da taglia davart l'obligaziun da pajar taglia[^21-1] vegnan applitgadas analogamain. Per premis e per duns d'onur dal chantun è la suveranitad fiscala tar la vischnanca da domicil dal retschavider. Sche quel ha ses domicil ordaifer il chantun, va il retgav da taglia a la citad da Cuira.
 
-<sup>5</sup> Las tariffas da taglia na dastgan betg surpassar las suandantas tariffas maximalas:
+<sup>5</sup> La vischnanca fixescha las tariffas da taglia en ina lescha formala. Quellas importan maximalmain:
 
 - a) 5 pertschient per il tschep dals geniturs;
-- b) 5 pertschient per la partenaria u per il partenari da concubinat;
+- b) …
 - c) 25 pertschient per las ulteriuras persunas benefiziadas.
+
+<sup>6</sup> La taglia vegn taxada ed incassada da l'administraziun chantunala da taglia ensemen cun la taglia chantunala sin l'ierta e cun la taglia chantunala sin donaziuns. Il medem vala per decisiuns da recurs e da meds legals sco er per autras decisiuns.
+
+<sup>7</sup> Davart dumondas da relasch e davart amortisaziuns administrativas decida la vischnanca.
+
+[^21-1]: Artitgel 107 da la lescha chantunala da taglia (DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm))
+
+### 2.5. Normas da cumpetenza per ulteriuras taglias
 
 #### Art. 22
 
-**Taxa da cura**
+**Taxa da giasts**
 
-<sup>1</sup> La vischnanca po incassar ina taxa da cura.
+<sup>1</sup> La vischnanca po incassar ina taxa da giasts.
 
 <sup>2</sup> L'object da taglia è la pernottaziun, il subject da taglia è il giast che pernottescha. Il medem status sco il giast che pernottescha han persunas ch'èn obligadas da pajar taglia illimitadamain en la vischnanca respectiva e che possedan là ina immobiglia da vacanzas ch'ellas dovran sezzas, nun che la vischnanca paja ina contribuziun essenziala al svilup turistic or da las taglias sin las entradas e sin la facultad da las persunas ch'èn obligadas da pajar taglia illimitadamain.
 
-<sup>3</sup> Ils retgavs da la taxa da cura ston vegnir utilisads per finanziar indrizs turistics ed occurrenzas turisticas. Els na dastgan betg vegnir utilisads per finanziar incumbensas communalas ordinarias.
+<sup>3</sup> Ils retgavs da la taxa da giasts ston vegnir utilisads per finanziar indrizs turistics ed occurrenzas turisticas. Els na dastgan betg vegnir utilisads per finanziar incumbensas communalas ordinarias.
 
-<sup>4</sup> L'incassament e l'utilisaziun da la taxa da cura pon vegnir delegads ad in'organisaziun turistica communala u regiunala. Per protestas sto en mintga cas vegnir nominà in organ communal.
+<sup>4</sup> L'incassament e l'utilisaziun da la taxa da giasts pon vegnir delegads ad in'organisaziun turistica communala u regiunala. Per protestas sto en mintga cas vegnir nominà in organ communal.
+
+<sup>5</sup> Las vischnancas respectivamain las organisaziuns turisticas èn obligadas da communitgar detagliadamain l'utilisaziun dals meds finanzials.
+
+#### Art. 22a
+
+**Taxa d'alloschament**
+
+<sup>1</sup> La vischnanca po incassar ina taxa d'alloschament.
+
+<sup>2</sup> Il subject da taglia èn l'alloschader e l'agen utilisader. Sco agen utilisader vala er tgi ch'è obligà da pajar taglia illimitadamain en la vischnanca respectiva e che posseda là ina immobiglia da vacanzas ch'el dovra sez, nun che la vischnanca paja ina contribuziun essenziala al svilup turistic or da las taglias sin las entradas e sin la facultad da las persunas ch'èn obligadas da pajar taglia illimitadamain. Il locatari stabel ha il medem status sco l'agen utilisader.
+
+<sup>3</sup> Exceptà da la taxa è tgi ch'è obligà da pajar taglia illimitadamain en la vischnanca respectiva e che na posseda là nagina immobiglia da vacanzas ch'el dovra sez.
+
+<sup>4</sup> L'object da taglia è il niz direct u indirect per il turissem.
+
+<sup>5</sup> La fixaziun da la taxa vegn fatga sin basa da las capacitads avant maun.
+
+<sup>6</sup> Ils retgavs da la taxa d'alloschament vegnan duvrads per finanziar expensas en l'interess e per il bain da las persunas obligadas da pajar la taxa. Els na dastgan betg vegnir utilisads per finanziar incumbensas communalas tradiziunalas.
+
+<sup>7</sup> L'incassament, la retratga e l'utilisaziun da la taxa d'alloschament pon vegnir delegads ad in'organisaziun turistica communala u regiunala. Per protestas sto en mintga cas vegnir nominà in organ communal.
+
+<sup>8</sup> Las vischnancas respectivamain las organisaziuns turisticas èn obligadas da communitgar detagliadamain l'utilisaziun dals meds finanzials.
 
 #### Art. 23
 
@@ -320,6 +352,8 @@ concluda:
 <sup>3</sup> Ils retgavs ston vegnir utilisads en l'interess da las persunas ch'èn obligadas da pajar taglia e spezialmain per in'elavuraziun effizienta dal martgà sco er per occurrenzas. Els na dastgan betg vegnir utilisads per finanziar incumbensas communalas ordinarias.
 
 <sup>4</sup> L'incassament e l'utilisaziun da la contribuziun per promover il turissem pon vegnir delegads ad in'organisaziun turistica communala u regiunala. Per protestas sto en mintga cas vegnir nominà in organ communal.
+
+<sup>5</sup> Las vischnancas respectivamain las organisaziuns turisticas èn obligadas da communitgar detagliadamain l'utilisaziun dals meds finanzials.
 
 ## 3. Las taglias da baselgia
 
@@ -432,6 +466,16 @@ concluda:
 **Disposiziun transitorica**
 
 <sup>1</sup> Las iertas anticipadas che n'èn anc betg vegnidas imponidas sco er las iertas anticipadas a las descendentas directas ed als descendents directs vegnan taxadas per il 1. da schaner 2008. Per la taxaziun da l'ierta anticipada èn decisivas las relaziuns il mument dal pajament.
+
+#### Art. 33a
+
+**Adattaziun da la legislaziun communala a la midada dals 12 da favrer 2019**
+
+<sup>1</sup> Las midadas da l'artitgel 2 e da l'artitgel 21 vegnan applitgadas directamain ed entran en vigur cun l'entrada en vigur da la revisiun parziala da la lescha chantunala da taglia dals 12 da favrer 2019.
+
+<sup>2</sup> Las tariffas da taglia normadas en la lescha communala da taglia per il tschep dals geniturs e per il tschep dals tats sco er per ils ulteriurs benefiziaris vegnan applitgadas fin a lur midada, nun ch'ellas surpassian las novas tariffas maximalas. Cas cuntrari valan las tariffas maximalas tenor l'artitgel 21 alinea 5.
+
+<sup>3</sup> Per limitar temporarmain questa midada da lescha è decisiv il mument, en il qual è vegnì realisà il causal fiscal. Causals fiscals dal dretg vegl vegnan taxads ed incassads vinavant da la vischnanca.
 
 #### Art. 34
 

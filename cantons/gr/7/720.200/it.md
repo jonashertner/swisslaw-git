@@ -4,13 +4,13 @@ number: "720.200"
 title: Legge sulle imposte comunali e di culto
 short: LImpCC
 language: it
-version: 2018-07-01
-corrected: 2018-06-26
-version_adopted: 2018-02-12
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-02
 adopted: 2006-08-31
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2901/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3292/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2901/pdf_file"
 
 (LImpCC)
 
-del 31.08.2006 (stato 01.07.2018)
+del 31.08.2006 (stato 01.01.2023)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -56,12 +56,13 @@ decide:
 <sup>2</sup> Il comune può riscuotere le seguenti imposte, secondo le disposizioni della presente legge:
 
 - a) un'imposta sul trapasso di proprietà;
-- b) un'imposta sugli immobili.
+- b) un'imposta sugli immobili;
+- c) un'imposta sull'eredità e un'imposta sulle donazioni.
 
 <sup>3</sup> Il comune può riscuotere altre imposte, come in particolare:
 
-- a) un'imposta sulle quote ereditarie e sulle donazioni;
-- b) una tassa di soggiorno;
+- a) …
+- b) una tassa per ospiti o una tassa di alloggio;
 - c) una tassa di promozione turistica.
 
 <sup>4</sup> La riscossione di un'imposta alla fonte e la tassazione degli utili e del capitale delle persone giuridiche competono unicamente al Cantone.
@@ -181,7 +182,8 @@ decide:
 - c) gli istituti autonomi cantonali per fondi destinati direttamente a scopi pubblici;
 - d) le regioni, i comuni (con i loro istituti) e i comuni patriziali per fondi nel proprio territorio;
 - e) le Chiese riconosciute dallo Stato ed i loro comuni parrocchiali, nonché le fondazioni ecclesiastiche per fondi nel proprio territorio destinati direttamente a scopi ecclesiastici e per case parrocchiali;
-- f) le persone giuridiche che in base all'articolo 78 capoverso 1 lettera f della legge sulle imposte[^11-1] sono esenti dall'assoggettamento, per fondi destinati direttamente, esclusivamente ed irrevocabilmente allo scopo che dà diritto all'esenzione.
+- f) le persone giuridiche che in base all'articolo 78 capoverso 1 lettera f della legge cantonale sulle imposte[^11-1] sono esenti dall'assoggettamento, per fondi destinati direttamente, esclusivamente ed irrevocabilmente allo scopo che dà diritto all'esenzione;
+- g) le imprese di trasporto e d'infrastruttura ai sensi dell'articolo 78 capoverso 1 lettera k della legge cantonale sulle imposte per immobili funzionali all'attività concessionata.
 
 [^11-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
 
@@ -271,37 +273,67 @@ decide:
 
 [^20-1]: CSC [210.100](https://www.gr-lex.gr.ch/data/210.100/it)
 
-### 2.4. Norme sulle competenze per ulteriori imposte
+### 2.4. Imposta sull'eredità e sulle donazioni
 
 #### Art. 21
 
 **Imposta sulle successioni e sulle donazioni**
 
-<sup>1</sup> Il comune può riscuotere un'imposta sulle quote ereditarie e sulle donazioni.
+<sup>1</sup> Il comune può riscuotere un'imposta sull'eredità e un'imposta sulle donazioni.
 
-<sup>2</sup> I coniugi e i discendenti diretti devono essere esclusi dalla tassazione. I figliastri e i figli affiliati sono equiparati ai discendenti diretti.
+<sup>2</sup> Soggetto fiscale, esenzione fiscale, oggetto fiscale, diritto all'imposta e calcolo dell'imposta, riscossione e responsabilità riguardo all'imposta sull'eredità e sulle donazioni si conformano alle disposizioni della legge cantonale sulle imposte.
 
-<sup>3</sup> La posizione dei partner registrati corrisponde a quella dei coniugi.
+<sup>3</sup> …
 
-<sup>4</sup> È autorizzato alla riscossione delle imposte il comune di domicilio o di soggiorno permanente del testatore rispettivamente del donatore. Per i fondi la sovranità fiscale spetta al comune del luogo in cui si trova l'oggetto. Per premi e doni d'onore del Cantone, la sovranità fiscale spetta al comune di domicilio del beneficiario. Se è domiciliato fuori Cantone, è autorizzata a riscuotere le imposte la Città di Coira.
+<sup>4</sup> Le disposizioni della legge cantonale sulle imposte riguardo all'obbligo fiscale[^21-1] trovano applicazione per analogia. Per premi e doni d'onore del Cantone, la sovranità fiscale spetta al comune di domicilio del beneficiario. Se questo ha il proprio domicilio fuori Cantone, il gettito dell'imposta spetta alla Città di Coira.
 
-<sup>5</sup> Le aliquote d'imposta non possono superare le seguenti aliquote massime
+<sup>5</sup> Il comune stabilisce le aliquote d'imposta in una legge formale. Queste ammontano al massimo al:
 
 - a) 5 per cento per la stirpe dei genitori;
-- b) 5 per cento per il concubino;
+- b) …
 - c) 25 per cento per gli altri beneficiari.
+
+<sup>6</sup> La tassazione e la riscossione delle imposte vengono eseguite dall'Amministrazione cantonale delle imposte insieme all'imposta cantonale sull'eredità e all'imposta cantonale sulle donazioni. Lo stesso vale per decisioni su reclamo, su impugnazione e per altre decisioni.
+
+<sup>7</sup> Il comune decide su domande di condono e su stralci amministrativi.
+
+[^21-1]: articolo 107 della legge cantonale sulle imposte (CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it))
+
+### 2.5. Norme sulle competenze per ulteriori imposte
 
 #### Art. 22
 
-**Tassa di soggiorno**
+**Tassa per ospiti**
 
-<sup>1</sup> Il comune può riscuotere una tassa di soggiorno.
+<sup>1</sup> Il comune può riscuotere una tassa per ospiti.
 
 <sup>2</sup> L'oggetto fiscale è il pernottamento e il soggetto fiscale l'ospite che pernotta. All'ospite che pernotta sono equiparate le persone assoggettate in misura illimitata all'imposizione nel relativo comune e che vi dispongono di un immobile di vacanza adibito a uso proprio, salvo che il comune fornisca un contributo sostanziale allo sviluppo del turismo attingendo alle imposte sul reddito e sulla sostanza delle persone assoggettate in misura illimitata all'imposizione.
 
-<sup>3</sup> Le entrate derivanti dalla tassa di soggiorno devono essere utilizzate per il finanziamento di infrastrutture e manifestazioni turistiche. Esse non possono venire impiegate per il finanziamento di compiti comunali ordinari.
+<sup>3</sup> Le entrate derivanti dalla tassa per ospiti devono essere utilizzate per il finanziamento di infrastrutture e manifestazioni turistiche. Esse non possono venire impiegate per il finanziamento di compiti comunali ordinari.
 
-<sup>4</sup> La riscossione, l'incasso e l'utilizzo della tassa di soggiorno possono venire delegati ad un'organizzazione turistica comunale o regionale. Per le opposizioni deve in ogni caso essere stabilito un organo comunale.
+<sup>4</sup> La riscossione, l'incasso e l'utilizzo della tassa per ospiti possono venire delegati a un'organizzazione turistica comunale o regionale. Per le opposizioni deve in ogni caso essere stabilito un organo comunale.
+
+<sup>5</sup> I comuni e le organizzazioni turistiche sono tenuti a rendere pubblico l'impiego dei fondi in maniera dettagliata.
+
+#### Art. 22a
+
+**Tassa di alloggio**
+
+<sup>1</sup> Il comune può riscuotere una tassa di alloggio.
+
+<sup>2</sup> Il soggetto fiscale è costituito dall'alloggiatore e dal proprietario occupante. È considerato alla stregua del proprietario occupante anche chi è assoggettato in misura illimitata all'imposizione nel relativo comune e in tale comune dispone di un immobile di vacanza adibito a uso proprio, salvo che il comune fornisca un contributo sostanziale allo sviluppo del turismo attingendo alle imposte sul reddito e sulla sostanza delle persone assoggettate in misura illimitata all'imposizione. L'inquilino permanente è equiparato al proprietario occupante.
+
+<sup>3</sup> Non è tenuto a versare la tassa chi è assoggettato in misura illimitata all'obbligo di imposizione nel relativo comune e non vi dispone di un immobile di vacanza adibito a uso proprio.
+
+<sup>4</sup> L'oggetto fiscale è costituito dal beneficio turistico diretto o indiretto.
+
+<sup>5</sup> Il calcolo avviene in base alle capacità disponibili.
+
+<sup>6</sup> Le entrate derivanti dalla tassa di alloggio devono essere utilizzate per finanziare spese nell'interesse e a beneficio dei contribuenti. Esse non possono essere utilizzate per il finanziamento di compiti comunali tradizionali.
+
+<sup>7</sup> La riscossione, l'incasso e l'utilizzo della tassa di alloggio possono venire delegati a un'organizzazione turistica comunale o regionale. Per le opposizioni deve in ogni caso essere stabilito un organo comunale.
+
+<sup>8</sup> I comuni e le organizzazioni turistiche sono tenuti a rendere pubblico l'impiego dei fondi in maniera dettagliata.
 
 #### Art. 23
 
@@ -314,6 +346,8 @@ decide:
 <sup>3</sup> Le entrate devono venire utilizzate nell'interesse dei contribuenti ed in particolare per un'attività di marketing efficace, nonché per eventi. Esse non possono venire impiegate per il finanziamento di compiti comunali ordinari.
 
 <sup>4</sup> La riscossione, l'incasso e l'utilizzo della tassa di promozione turistica possono venire delegati ad un'organizzazione turistica comunale o regionale. Per le opposizioni deve in ogni caso essere stabilito un organo comunale.
+
+<sup>5</sup> I comuni e le organizzazioni turistiche sono tenuti a rendere pubblico l'impiego dei fondi in maniera dettagliata.
 
 ## 3. Le imposte di culto
 
@@ -426,6 +460,16 @@ decide:
 **Disposizione transitoria**
 
 <sup>1</sup> Anticipi ereditari non ancora tassati a coniugi e a discendenti diretti vengono tassati al 1° gennaio 2008. Per la tassazione dell'anticipo sono determinanti le condizioni al momento del versamento.
+
+#### Art. 33a
+
+**Adeguamento della legislazione comunale alla modifica del 12 febbraio 2019**
+
+<sup>1</sup> Le modifiche dell'articolo 2 e dell'articolo 21 trovano applicazione direttamente ed entrano in vigore con l'entrata in vigore della revisione parziale della legge cantonale sulle imposte del 12 febbraio 2019.
+
+<sup>2</sup> Le aliquote d'imposta stabilite nella legge fiscale comunale per la stirpe dei genitori e degli avi nonché per gli altri beneficiari trovano applicazione fino alla loro modifica, per quanto non superino le nuove aliquote massime. In caso contrario valgono le aliquote massime secondo l'articolo 21 capoverso 5.
+
+<sup>3</sup> Per la delimitazione temporale di questa modifica legislativa risulta determinante il momento in cui è stata realizzata la fattispecie causante l'imposizione. Fattispecie fiscali previste dal diritto previgente continuano a essere tassate e riscosse dal comune.
 
 #### Art. 34
 
