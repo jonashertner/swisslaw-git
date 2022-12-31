@@ -4,13 +4,13 @@ number: IV B/1/3
 title: Gesetz über Schule und Bildung
 short: Bildungsgesetz
 language: de
-version: 2017-08-01
-valid_until: 2022-12-31
-version_adopted: 2016-05-01
+version: 2023-01-01
+valid_until: 2025-05-31
+version_adopted: 2022-05-01
 adopted: 2001-05-06
 in_force: 2002-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1940/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2390/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1940/pdf_file"
 
 (Bildungsgesetz)
 
-Vom 06.05.2001 (Stand 01.08.2017)
+Vom 06.05.2001 (Stand 01.01.2023)
 
 Erlassen von der Landsgemeinde am 6. Mai 2001
 
@@ -440,7 +440,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>3</sup> Sie erheben von den Erziehungsberechtigten für die Nutzung der Tagesstrukturen einen angemessenen Kostenbeitrag.
 
-<sup>4</sup> Die Aufsicht richtet sich nach den Bestimmungen des Bundes (Pflegekinderverordnung). Der Regierungsrat regelt die Übertragung der Aufsicht.
+<sup>4</sup> …
 
 ## 4. Erziehungsberechtigte
 
@@ -824,15 +824,9 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>2</sup> Der Kanton trägt die Kosten der Sonderschulung gemäss Artikel 25 sowie die Kosten der kantonalen Schulen, soweit das Gesetz nichts Abweichendes vorsieht.
 
-<sup>3</sup> Der Kanton leistet für die Tagesstrukturen gemäss Artikel 54 Absatz 2 pauschale Beiträge. Der Landrat regelt die Bemessung der Beiträge durch Verordnung und befindet über deren Höhe mit dem Budget.
+<sup>3</sup> …
 
-#### Art. 105a
-
-**Beiträge an die Betreuung vorschulpflichtiger Kinder**
-
-<sup>1</sup> Der Kanton richtet Institutionen für die Betreuung von vorschulpflichtigen Kindern Beiträge gemäss Artikel 105 Absatz 3 aus.
-
-#### Art. 106–112
+#### Art. 105a–112
 
 **…**
 
