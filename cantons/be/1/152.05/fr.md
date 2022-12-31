@@ -4,13 +4,13 @@ number: "152.05"
 title: Loi sur les fichiers centralisés de données personnelles
 short: LFDP
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-09
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-06-15
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2468/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2719/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2468/pdf_file"
 
 (LFDP)
 
-du 10.03.2020 (état au 01.01.2022)
+du 10.03.2020 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -354,8 +354,8 @@ arrête:
 <tr><td>18.</td><td>Loi sur l'octroi de subsides de formation (LSF; RSB 438.31)</td><td>d</td></tr>
 <tr><td>19.</td><td>Loi cantonale sur la protection de la population et sur la protection civile (LCPPCi; RSB 521.1)</td><td>d, f</td></tr>
 <tr><td>20.</td><td>Loi sur la police (LPol; RSB 551.1)</td><td>c, d, e, f</td></tr>
-<tr><td>21.</td><td>Loi sur le pilotage des finances et des prestations (LFP; RSB 620.0)</td><td>f</td></tr>
-<tr><td>22.</td><td>Loi cantonale sur le Contrôle des finances (LCCF; RSB 622.1)</td><td>a, b, d, e, f</td></tr>
+<tr><td>21.</td><td>...</td><td>...</td></tr>
+<tr><td>22.</td><td>...</td><td>...</td></tr>
 <tr><td>23.</td><td>Loi sur les impôts (LI; RSB 661.11)</td><td>a, c, d, e f</td></tr>
 <tr><td>24.</td><td>Loi sur les rives des lacs et des rivières (LRLR; RSB 704.1)</td><td>f</td></tr>
 <tr><td>25.</td><td>Loi sur les constructions (LC; RSB 721.0)</td><td>f</td></tr>

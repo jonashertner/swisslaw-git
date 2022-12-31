@@ -4,13 +4,13 @@ number: "152.05"
 title: Gesetz über die zentralen Personendatensammlungen
 short: "Personendatensammlungsgesetz, PDSG"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-09
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-06-15
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2468/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2719/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2468/pdf_file"
 
 (Personendatensammlungsgesetz, PDSG)
 
-vom 10.03.2020 (Stand 01.01.2022)
+vom 10.03.2020 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -354,8 +354,8 @@ beschliesst:
 <tr><td>18.</td><td>Gesetz über die Ausbildungsbeiträge (ABG; BSG 438.31)</td><td>d</td></tr>
 <tr><td>19.</td><td>Kantonales Bevölkerungsschutz- und Zivilschutzgesetz (KBZG; BSG 521.1)</td><td>d, f</td></tr>
 <tr><td>20.</td><td>Polizeigesetz (PolG; BSG 551.1)</td><td>c, d, e, f</td></tr>
-<tr><td>21.</td><td>Gesetz über die Steuerung von Finanzen und Leistungen (FLG; BSG 620.0)</td><td>f</td></tr>
-<tr><td>22.</td><td>Gesetz über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG; BSG 622.1)</td><td>a, b, d, e, f</td></tr>
+<tr><td>21.</td><td>...</td><td>...</td></tr>
+<tr><td>22.</td><td>...</td><td>...</td></tr>
 <tr><td>23.</td><td>Steuergesetz (StG; BSG 661.11)</td><td>a, c, d, e, f</td></tr>
 <tr><td>24.</td><td>Gesetz über See- und Flussufer (See- und Flussufergesetz, SFG; BSG 704.1)</td><td>f</td></tr>
 <tr><td>25.</td><td>Baugesetz (BauG; BSG 721.0)</td><td>f</td></tr>
