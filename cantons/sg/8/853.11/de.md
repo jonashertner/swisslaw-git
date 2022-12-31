@@ -4,13 +4,13 @@ number: "853.11"
 title: Jagdverordnung
 short: JV
 language: de
-version: 2021-03-16
-valid_until: 2022-12-31
-version_adopted: 2020-03-31
+version: 2023-01-01
+valid_until: 2023-07-31
+version_adopted: 2022-12-06
 adopted: 2015-05-19
 in_force: 2016-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/853.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3192/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3192/pdf_file"
 
 (JV)
 
-vom 19.05.2015 (Stand 16.03.2021)
+vom 19.05.2015 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -175,11 +175,11 @@ als Verordnung:[^ingress-3]
 
 **Organisation a) Vertretung**
 
-<sup>1</sup> Die Jagdgesellschaft ernennt eine Pächterin oder einen Pächter zum Obmann.
+<sup>1</sup> Die Jagdgesellschaft ernennt eine Pächterin oder einen Pächter zur Obfrau oder zum Obmann.
 
-<sup>2</sup> Der Obmann vertritt die Jagdgesellschaft in öffentlich-rechtlichen Jagdangelegenheiten, soweit die Jagdgesellschaft nichts anderes bestimmt.
+<sup>2</sup> Die Obfrau oder der Obmann vertritt die Jagdgesellschaft in öffentlich-rechtlichen Jagdangelegenheiten, soweit die Jagdgesellschaft nichts anderes bestimmt.
 
-<sup>3</sup> Die Jagdgesellschaft teilt die Ernennung dem Amt für Natur, Jagd und Fischerei mit. Solange dies nicht erfolgt ist, gilt die Vertreterin oder der Vertreter aus der Bewerbung als Obmann.
+<sup>3</sup> Die Jagdgesellschaft teilt die Ernennung dem Amt für Natur, Jagd und Fischerei mit. Solange dies nicht erfolgt ist, gilt die Vertreterin oder der Vertreter aus der Bewerbung als Obfrau oder Obmann.
 
 #### Art. 14
 
@@ -236,9 +236,9 @@ als Verordnung:[^ingress-3]
 
 **c) Vertretung**
 
-<sup>1</sup> Die Hegegemeinschaft ernennt eine Pächterin oder einen Pächter zum Obmann.
+<sup>1</sup> Die Hegegemeinschaft ernennt eine Pächterin oder einen Pächter zur Obfrau oder zum Obmann.
 
-<sup>2</sup> Der Obmann vertritt die Hegegemeinschaft in öffentlich-rechtlichen Jagdangelegenheiten, soweit die Hegegemeinschaft nichts anderes bestimmt.
+<sup>2</sup> Die Obfrau oder der Obmann vertritt die Hegegemeinschaft in öffentlich-rechtlichen Jagdangelegenheiten, soweit die Hegegemeinschaft nichts anderes bestimmt.
 
 ## 3. Sanktionen
 
@@ -396,9 +396,9 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Der Beitrag beträgt höchstens 80 Prozent der anrechenbaren Kosten.
 
-<sup>2</sup> Anrechenbar sind Kosten und Eigenleistungen des Projektträgers, abzüglich von Beiträgen Dritter.
+<sup>2</sup> Anrechenbar sind Kosten und Eigenleistungen der Projektträgerin oder des Projektträgers, abzüglich von Beiträgen Dritter.
 
-<sup>3</sup> Nicht anrechenbar sind Ertragsausfälle des Projektträgers oder Dritter, die durch eine Massnahme ausgelöst werden.
+<sup>3</sup> Nicht anrechenbar sind Ertragsausfälle der Projektträgerin oder des Projektträgers oder Dritter, die durch eine Massnahme ausgelöst werden.
 
 #### Art. 39
 
@@ -415,7 +415,7 @@ als Verordnung:[^ingress-3]
 - a) sie zweckwidrig verwendet werden;
 - b) die Massnahme nicht fristgerecht oder mangelhaft umgesetzt wird;
 - c) Bedingungen für den gewährten Beitrag nicht eingehalten werden;
-- d) die Massnahme durch Verschulden des Projektträgers unwirksam wird.
+- d) die Massnahme durch Verschulden der Projektträgerin oder des Projektträgers unwirksam wird.
 
 ## 3. Beeinträchtigung
 
