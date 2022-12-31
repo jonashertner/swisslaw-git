@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.815"
 title: "Studienordnung für den Masterstudiengang Business Administration (Health Economics and Healthcare Management, Innovation and Entrepreneurship, Marketing, Public Management sowie Unternehmensentwicklung) an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2022-02-01"
-nachtrag: "116"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-08-01
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_815-2009_06_04-2009_08_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_815-2009_06_04-2009_08_01-119.html"
 text: pdf
 ---
 
@@ -23,7 +23,7 @@ gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudieng�
 
 beschliesst:
 
-[^t-1]: Fassung gemäss B vom 23. September 2021 (OS 77, 17; ABl 2021-11-12. In Kraft seit 1. Februar 2022. 1. 4. 22 - 116 5
+[^t-1]: Fassung gemäss B vom 23. September 2021 (OS 77, 17; ABl 2021-11-12. In Kraft seit 1. Februar 2022.
 [^t-2]: OS 64, 428. Vom Fachhochschulrat genehmigt am 30. Juni 2009.
 [^t-3]: LS 414.252.3.
 
@@ -51,7 +51,7 @@ Einzelheiten zum Studiengang, insbesondere zu den zu belegenden Modulen, werden 
 
 [^2-1]: Fassung gemäss B vom 24. Oktober 2017 (OS 73, 52; ABl 2017-11-17). In Kraft seit 1. Februar 2018.
 [^2-2]: Fassung gemäss B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^2-3]: Fassung gemäss B vom 23. September 2021 (OS 77, 17; ABl 2021-11-12. In Kraft seit 1. Februar 2022. 1. 4. 22 - 116 5
+[^2-3]: Fassung gemäss B vom 23. September 2021 (OS 77, 17; ABl 2021-11-12. In Kraft seit 1. Februar 2022.
 [^2-4]: Eingefügt durch B vom 30. April 2015 (OS 70, 426; ABl 2015-10-09). In Kraft seit 1. November 2015.
 [^2-5]: Eingefügt durch B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01).In Kraft seit 1. April 2020.
 
@@ -69,7 +69,7 @@ Der Masterstudiengang kann in den folgenden Vertiefungen durchgeführt werden:[^
 
 **1**
 
-- 1\. 4. 22 - 116 § 5. An der ZHAW oder andernorts erworbene ECTS-Credits[^4-1] werden während sechs Jahren ab dem Semester ihres Erwerbs angerechnet. Die Studienleitung entscheidet über Ausnahmen.
+- 1\. 1. 23 - 119 § 5. An der ZHAW oder andernorts erworbene ECTS-Credits[^4-1] werden während sechs Jahren ab dem Semester ihres Erwerbs angerechnet. Die Studienleitung entscheidet über Ausnahmen.
 
 [^4-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01). In Kraft seit 1. April 2020.
 
@@ -114,7 +114,7 @@ Ein Wechsel der Vertiefung richtet sich sinngemäss nach § 18 RPO.
 [^hBZulassungzumStu-1]: Fassung gemäss B vom 8. Juli 2021 (OS 77, 15; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
 [^hBZulassungzumStu-2]: Fassung gemäss B vom 24. Oktober 2017 (OS 73, 52; ABl 2017-11-17). In Kraft seit 1. Februar 2018.
 [^hBZulassungzumStu-3]: Fassung gemäss B vom 3. November 2016 (OS 72, 115; ABl 2017-01-13). In Kraft seit 1. April 2017.
-[^hBZulassungzumStu-4]: Fassung gemäss B vom 23. September 2021 (OS 77, 17; ABl 2021-11-12. In Kraft seit 1. Februar 2022. 1. 4. 22 - 116 5
+[^hBZulassungzumStu-4]: Fassung gemäss B vom 23. September 2021 (OS 77, 17; ABl 2021-11-12. In Kraft seit 1. Februar 2022.
 [^hBZulassungzumStu-5]: Aufgehoben durch B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01). In Kraft seit 1. April 2020.
 [^hBZulassungzumStu-6]: Eingefügt durch B vom 8. Juli 2021 (OS 77, 15; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
 [^hBZulassungzumStu-7]: Eingefügt durch B vom 3. November 2016 (OS 72, 115; ABl 2017-01-13). In Kraft seit 1. April 2017.
@@ -167,7 +167,7 @@ Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,0 beträgt und b. al
 
 **3**
 
-- 1\. 4. 22 - 116 § 15.[^13-3] Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen.
+- 1\. 1. 23 - 119 § 15.[^13-3] Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen.
 
 [^13-1]: Eingefügt durch B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01).In Kraft seit 1. April 2020.
 [^13-2]: Fassung gemäss B vom 24. Oktober 2017 (OS 73, 52; ABl 2017-11-17). In Kraft seit 1. Februar 2018.
@@ -184,23 +184,21 @@ Mit der Masterarbeit kann begonnen werden, wenn 50 ECTS-Credits[^13-4] erreicht 
 
 ### E. Studienabschluss und Masterdiplom
 
-#### § 17
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Business Administration mit Vertiefung in [gewählte Vertiefung]» abgeschlossen.
+§ 17.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Business Administration mit Vertiefung in [gewählte Vertiefung]» abgeschlossen.
 
 **Abschluss des Studiums**
 
-§ 18.[^17-1] Der Mastertitel wird vergeben, wenn a. alle erforderlichen Module bestanden und b. 90 ECTS-Credits erreicht sind.
+§ 18.[^hEStudienabschluss-2] Der Mastertitel wird vergeben, wenn a. alle erforderlichen Module bestanden und b. 90 ECTS-Credits erreicht sind.
 
 **Abschlussnote**
 
-§ 19.[^17-1] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
+§ 19.[^hEStudienabschluss-2] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
 
 **Überzählige ECTS-Credits aus Wahlpflichtmodulen**
 
-§ 19 a.[^17-2] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+§ 19 a.[^hEStudienabschluss-3] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 <sup>2</sup> Die Studienleitung regelt,
 
@@ -210,8 +208,9 @@ Das Masterstudium wird mit dem Titel «Master of Science ZFH in Business Adminis
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-[^17-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^17-2]: Eingefügt durch B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01).In Kraft seit 1. April 2020.
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 517; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
+[^hEStudienabschluss-2]: Fassung gemäss B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hEStudienabschluss-3]: Eingefügt durch B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01).In Kraft seit 1. April 2020.
 
 ### F. Schlussbestimmungen
 
@@ -227,7 +226,7 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 
 Die Studienordnung für den Masterstudiengang Business Administration (Marketing) an der Zürcher Hochschule für Angewandte Wissenschaften vom 18. September 2008 wird aufgehoben.
 
-[^21-1]: Fassung gemäss B vom 23. September 2021 (OS 77, 17; ABl 2021-11-12. In Kraft seit 1. Februar 2022. 1. 4. 22 - 116 5
+[^21-1]: Fassung gemäss B vom 23. September 2021 (OS 77, 17; ABl 2021-11-12. In Kraft seit 1. Februar 2022.
 
 ### Anhang zur Studienordnung für den Masterstudiengang Business Administration (Health Economics and Healthcare Management, Innovation and Entrepreneurship, Marketing, Public and Nonprofit Management sowie Unternehmungsentwicklung) an der Zürcher Hochschule für Angewandte Wissenschaften
 
@@ -235,7 +234,7 @@ Die Studienordnung für den Masterstudiengang Business Administration (Marketing
 
 Der Anhang zur Studienordnung für den Masterstudiengang Business Administration (Health Economics and Healthcare Management, Innovation and Entrepreneurship, Marketing, Public and Nonprofit Management sowie Unternehmungsentwicklung) an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
