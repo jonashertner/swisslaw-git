@@ -4,13 +4,13 @@ number: "620"
 title: Steuergesetz
 short: StG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-09-09
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-06
 adopted: 1999-11-22
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/620"
-pdf: "https://srl.lu.ch/api/de/versions/3866/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3961/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3866/pdf_file"
 
 (StG)
 
-vom 22.11.1999 (Stand 01.01.2022)
+vom 22.11.1999 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -544,12 +544,14 @@ beschliesst:
 
 <sup>1</sup> Als Berufskosten werden abgezogen:
 
-- a. die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte bis zu einem Maximalbetrag von 6000 Franken,
+- a. die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte bis zu einem Maximalbetrag von 6300 Franken,[^33-1]
 - b. die notwendigen Mehrkosten für Verpflegung ausserhalb der Wohnstätte und bei Schichtarbeit,
 - c. die übrigen für die Ausübung des Berufs erforderlichen Kosten, § 40 Absatz 1m bleibt vorbehalten.
 - d. …
 
 <sup>2</sup> Für die Berufskosten nach den Absätzen 1b und c legt das Finanzdepartement Pauschalen fest; im Fall von Absatz 1c steht der steuerpflichtigen Person der Nachweis höherer Kosten offen.
+
+[^33-1]: Fassung gemäss Beschluss des Regierungsrates vom 6. September 2022 über die Anpassung der Tarife und Abzüge an die Teuerung auf die Steuerperiode 2023 (Ausgleich der Folgen der kalten Progression), in Kraft seit 1. Januar 2023 (K 2022 3251).
 
 #### § 34
 
@@ -621,7 +623,7 @@ beschliesst:
 
 #### § 40
 
-**Allgemeine Abzüge**
+**Allgemeine Abzüge[^40-1]**
 
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
@@ -629,27 +631,28 @@ beschliesst:
 - b. die dauernden Lasten sowie 40 Prozent der bezahlten Leibrenten,
 - c. die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennten Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge oder Obhut stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten,
 - d. die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge,
-- e. Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus an-erkannten Formen der Selbstvorsorge im Sinn und im Umfang von Artikel 82 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^40-1],
+- e. Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus an-erkannten Formen der Selbstvorsorge im Sinn und im Umfang von Artikel 82 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^40-2],
 - f. die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung,
-- g. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Absatz 1f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen bis zum Gesamtbetrag von 4900 Franken für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; 2500 Franken für die übrigen Steuerpflichtigen; die Abzüge von 4900 Franken beziehungsweise 2500 Franken erhöhen sich um 1400 Franken beziehungsweise 700 Franken für steuerpflichtige Personen ohne Beiträge gemäss Absatz 1d und 1e sowie um 700 Franken für jedes im Sinn von § 42 Absatz 1a abzugsberechtigte Kind,
-- h. die Krankheits- und Unfallkosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, soweit die steuerpflichtige Person die Kosten selber trägt und diese fünf Prozent der um die Aufwendungen nach den §§ 33–40 Absatz 1g verminderten steuerbaren Einkünfte übersteigen, sowie die behinderungsbedingten Kosten der steuerpflichtigen Person oder der von ihr unterhaltenen Personen mit Behinderungen im Sinn des Behindertengleichstellungsgesetzes[^40-2], soweit die steuerpflichtige Person die Kosten selber trägt; der Regierungsrat ist ermächtigt, ergänzende Vorschriften zu erlassen; das Finanzdepartement kann für die anrechenbaren Kosten Pauschalansätze festlegen,
+- g. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Absatz 1f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen bis zum Gesamtbetrag von 5000 Franken für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; 2600 Franken für die übrigen Steuerpflichtigen; die Abzüge von 5000 Franken beziehungsweise 2600 Franken erhöhen sich um 1400 Franken beziehungsweise 700 Franken für steuerpflichtige Personen ohne Beiträge gemäss Absatz 1d und 1e sowie um 700 Franken für jedes im Sinn von § 42 Absatz 1a abzugsberechtigte Kind,
+- h. die Krankheits- und Unfallkosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, soweit die steuerpflichtige Person die Kosten selber trägt und diese fünf Prozent der um die Aufwendungen nach den §§ 33–40 Absatz 1g verminderten steuerbaren Einkünfte übersteigen, sowie die behinderungsbedingten Kosten der steuerpflichtigen Person oder der von ihr unterhaltenen Personen mit Behinderungen im Sinn des Behindertengleichstellungsgesetzes[^40-3], soweit die steuerpflichtige Person die Kosten selber trägt; der Regierungsrat ist ermächtigt, ergänzende Vorschriften zu erlassen; das Finanzdepartement kann für die anrechenbaren Kosten Pauschalansätze festlegen,
 - i. die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (§ 70 Abs. 1h), wenn diese Leistungen in der Steuerperiode 100 Franken erreichen und insgesamt 20 Prozent der um die Aufwendungen nach den §§ 33–40 Absatz 1g verminderten steuerbaren Einkünfte nicht übersteigen; im gleichen Umfang abzugsfähig sind entsprechende freiwillige Leistungen an Bund, Kanton, Gemeinden und deren Anstalten (§ 70 Abs. 1 a–d); der Regierungsrat kann bei Vorliegen eines erheblichen öffentlichen Interesses einen höheren Abzug bewilligen für Zuwendungen an juristische Personen, die in beträchtlichem Mass durch den Kanton oder die Gemeinden unterstützt werden,
-- k. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 5300 Franken an politische Parteien, die
-  - 1\. im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte[^40-3] eingetragen sind,
+- k. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 5400 Franken an politische Parteien, die
+  - 1\. im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte[^40-4] eingetragen sind,
   - 2\. in einem kantonalen Parlament vertreten sind,
   - 3\. in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3 Prozent der Stimmen erreicht haben,
-- l. die nachgewiesenen Kosten bis 5700 Franken für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
-- m. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 12 000 Franken, sofern:
+- l. die nachgewiesenen Kosten bis 6000 Franken für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
+- m. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 12 600 Franken, sofern:
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf Sekundarstufe II handelt.
 
-<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe, werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, 4700 Franken abgezogen. Ein gleicher Abzug ist zulässig bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten. Die beiden Abzüge können nicht gleichzeitig geltend gemacht werden.
+<sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe, werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, 4800 Franken abgezogen. Ein gleicher Abzug ist zulässig bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten. Die beiden Abzüge können nicht gleichzeitig geltend gemacht werden.
 
-<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach § 31 Absätze 1k–m steuerfrei sind, werden 5 Prozent, jedoch höchstens 5000 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach § 31 Absatz 1k<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25 000 Franken abgezogen.
+<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach § 31 Absätze 1k–m steuerfrei sind, werden 5 Prozent, jedoch höchstens 5200 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach § 31 Absatz 1k<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25 900 Franken abgezogen.
 
-[^40-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
-[^40-2]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
-[^40-3]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de)
+[^40-1]: Fassung der Absätze 1g, k, l und m sowie 2 und 3 gemäss Beschluss des Regierungsrates vom 6. September 2022 über die Anpassung der Tarife und Abzüge an die Teuerung auf die Steuerperiode 2023 (Ausgleich der Folgen der kalten Progression), in Kraft seit 1. Januar 2023 (K 2022 3251).
+[^40-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^40-3]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
+[^40-4]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de)
 
 #### § 41
 
@@ -667,21 +670,23 @@ beschliesst:
 
 #### § 42
 
-<sup>1</sup> Vom Reineinkommen werden abgezogen:
+<sup>1</sup> Vom Reineinkommen werden abgezogen:[^42-1]
 
 - a. für jedes minderjährige oder in Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt,
-  - 1\. 6700 Franken, wenn das Kind das sechste Altersjahr noch nicht vollendet hat,
-  - 2\. 7200 Franken, wenn das Kind das sechste Altersjahr vollendet hat,
-  - 3\. 12 500 Franken, wenn das Kind in schulischer oder beruflicher Ausbildung steht und sich dafür ständig am auswärtigen Ausbildungsort aufhalten muss,
-- b. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 1000 Franken für die eigene Betreuung; der Abzug erhöht sich auf höchstens 5700 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit oder Ausbildung der steuerpflichtigen Person stehen,
+  - 1\. 6900 Franken, wenn das Kind das sechste Altersjahr noch nicht vollendet hat,
+  - 2\. 7400 Franken, wenn das Kind das sechste Altersjahr vollendet hat,
+  - 3\. 12 800 Franken, wenn das Kind in schulischer oder beruflicher Ausbildung steht und sich dafür ständig am auswärtigen Ausbildungsort aufhalten muss,
+- b. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 1000 Franken für die eigene Betreuung; der Abzug erhöht sich auf höchstens 6000 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit oder Ausbildung der steuerpflichtigen Person stehen,
 - c. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 1000 Franken für die eigene Betreuung; der Abzug erhöht sich um die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
-- d. für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, an deren Unterhalt die steuerpflichtige Person mindestens einen Beitrag in der Höhe des Abzugs leistet, 2600 Franken; der Abzug kann nicht beansprucht werden für den Ehegatten oder für Kinder, für die der steuerpflichtigen Person ein Abzug gemäss Absatz 1a oder § 40 Absatz 1c zusteht; verwitweten, in getrennter Ehe lebenden, geschiedenen und ledigen Steuerpflichtigen ohne Kinder, denen der Tarif nach § 57 Absatz 2 zusteht, wird der Abzug nur für unterstützungsbedürftige Personen gewährt, die nicht im Haushalt der steuerpflichtigen Person leben.
+- d. für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, an deren Unterhalt die steuerpflichtige Person mindestens einen Beitrag in der Höhe des Abzugs leistet, 2700 Franken; der Abzug kann nicht beansprucht werden für den Ehegatten oder für Kinder, für die der steuerpflichtigen Person ein Abzug gemäss Absatz 1a oder § 40 Absatz 1c zusteht; verwitweten, in getrennter Ehe lebenden, geschiedenen und ledigen Steuerpflichtigen ohne Kinder, denen der Tarif nach § 57 Absatz 2 zusteht, wird der Abzug nur für unterstützungsbedürftige Personen gewährt, die nicht im Haushalt der steuerpflichtigen Person leben.
 
 <sup>2</sup> Ehegatten in rechtlich und tatsächlich ungetrennter Ehe können die Abzüge gemäss Absatz 1a–d nur einmal beanspruchen. Werden die Eltern getrennt besteuert, wird der Abzug nach Absatz 1a, der Versicherungsabzug für Kinder nach § 40 Absatz 1g und der steuerfreie Betrag nach § 52 Absatz 1c hälftig geteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach § 40 Absatz 1c für das Kind geltend gemacht werden.
 
 <sup>3</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgesetzt.
 
 <sup>4</sup> Bei beschränkter Steuerpflicht oder wenn die Steuerpflicht nur während eines Teils der Steuerperiode besteht, werden die Sozialabzüge anteilsmässig gewährt; für die Satzbestimmung werden sie voll angerechnet.
+
+[^42-1]: Fassung von Absatz 1a, b und d gemäss Beschluss des Regierungsrates vom 6. September 2022 über die Anpassung der Tarife und Abzüge an die Teuerung auf die Steuerperiode 2023 (Ausgleich der Folgen der kalten Progression), in Kraft seit 1. Januar 2023 (K 2022 3251).
 
 ### 1.2.3 Vermögenssteuer
 
@@ -887,34 +892,34 @@ beschliesst:
 
 #### § 57
 
-**Einkommenssteuertarife**
+**Einkommenssteuertarife[^57-1]**
 
 <sup>1</sup> Die Steuer je Einheit beträgt für eine Steuerperiode
 
-- a. 0,00 Prozent der ersten: — Fr. 9 400.–
-- b. 0,50 Prozent der nächsten: — Fr. 2 300.–
-- c. 1,00 Prozent der nächsten: — Fr. 3 000.–
+- a. 0,00 Prozent der ersten: — Fr. 9 600.–
+- b. 0,50 Prozent der nächsten: — Fr. 2 400.–
+- c. 1,00 Prozent der nächsten: — Fr. 3 100.–
 - d. 2,00 Prozent der nächsten: — Fr. 1 100.–
 - e. 3,00 Prozent der nächsten: — Fr. 1 100.–
-- f. 4,00 Prozent der nächsten: — Fr. 2 700.–
-- g. 4,50 Prozent der nächsten: — Fr. 4 100.–
-- h. 5,00 Prozent der nächsten: — Fr. 80 500.–
-- i. 5,25 Prozent der nächsten: — Fr. 50 900.–
+- f. 4,00 Prozent der nächsten: — Fr. 2 800.–
+- g. 4,50 Prozent der nächsten: — Fr. 4 200.–
+- h. 5,00 Prozent der nächsten: — Fr. 82 600.–
+- i. 5,25 Prozent der nächsten: — Fr. 52 200.–
 - k. 5,50 Prozent der nächsten: — Fr. 25 000.–
-- l. 5,80 Prozent der nächsten: — Fr. 1 804 400.–
+- l. 5,80 Prozent der nächsten: — Fr. 1 849 200.–
 
 <sup>2</sup> Für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, beträgt die Steuer je Einheit für eine Steuerperiode
 
-- a. 0,00 Prozent der ersten: — Fr. 18 800.–
-- b. 0,50 Prozent der nächsten: — Fr. 3 900.–
+- a. 0,00 Prozent der ersten: — Fr. 19 300.–
+- b. 0,50 Prozent der nächsten: — Fr. 4 000.–
 - c. 1,50 Prozent der nächsten: — Fr. 1 000.–
 - d. 2,50 Prozent der nächsten: — Fr. 1 100.–
 - e. 3,00 Prozent der nächsten: — Fr. 2 000.–
-- f. 3,50 Prozent der nächsten: — Fr. 4 000.–
-- g. 4,50 Prozent der nächsten: — Fr. 63 000.–
-- h. 5,00 Prozent der nächsten: — Fr. 36 800.–
-- i. 5,50 Prozent der nächsten: — Fr. 20 000.–
-- k. 5,80 Prozent der nächsten: — Fr. 1 198 300.–
+- f. 3,50 Prozent der nächsten: — Fr. 4 100.–
+- g. 4,50 Prozent der nächsten: — Fr. 64 600.–
+- h. 5,00 Prozent der nächsten: — Fr. 37 600.–
+- i. 5,50 Prozent der nächsten: — Fr. 20 600.–
+- k. 5,80 Prozent der nächsten: — Fr. 1 227 400.–
 
 <sup>3</sup> Ein Restbetrag von weniger als 100 Franken fällt bei der Festsetzung des steuerbaren Einkommens ausser Betracht.
 
@@ -923,6 +928,8 @@ beschliesst:
 <sup>5</sup> …
 
 <sup>6</sup> ...
+
+[^57-1]: Fassung der Absätze 1 und 2 gemäss Beschluss des Regierungsrates vom 6. September 2022 über die Anpassung der Tarife und Abzüge an die Teuerung auf die Steuerperiode 2023 (Ausgleich der Folgen der kalten Progression), in Kraft seit 1. Januar 2023 (K 2022 3251).
 
 #### § 58
 
