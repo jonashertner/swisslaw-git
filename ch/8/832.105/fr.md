@@ -4,11 +4,11 @@ title: "Ordonnance du 14 février 2007 sur la carte d'assuré pour l'assurance o
 short: OCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/101"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-02-14
 in_force: 2007-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-101-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-101-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20220101/fr"
 
 (OCA)
 
-du 14 février 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 14 février 2007 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -33,9 +33,10 @@ arrête:
 
 <sup>1</sup> Les assureurs doivent délivrer une carte d’assuré à toutes les personnes tenues de s’assurer en vertu de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^1-1].
 
-<sup>2</sup> Les personnes qui sont tenues de s’assurer en vertu de l’art. 1, al. 2, let. d et e, OAMal, mais qui ne peuvent pas recevoir de prestations prises en charge par l’assurance obligatoire des soins sur le territoire suisse, excepté par le biais de l’entraide internationale, ne se voient pas délivrer de carte d’assuré.
+<sup>2</sup> Les personnes qui sont tenues de s’assurer en vertu de l’art. 1, al. 2, let. d à e<sup>bis</sup>, OAMal, mais qui ne peuvent pas recevoir de prestations prises en charge par l’assurance obligatoire des soins sur le territoire suisse, excepté par le biais de l’entraide internationale, ne se voient pas délivrer de carte d’assuré.[^1-2]
 
 [^1-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^1-2]: Nouvelle teneur selon le ch. I 2 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 ## Section 2 Exigences techniques
 

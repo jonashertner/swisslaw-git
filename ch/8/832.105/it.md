@@ -4,20 +4,20 @@ title: "Ordinanza del 14 febbraio 2007 sulla tessera d'assicurato per l'assicura
 short: OTeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/101"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-02-14
 in_force: 2007-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-101-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-101-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla tessera d’assicurato per l’assicurazione obbligatoria delle cure medico-sanitarie
 
-(OTeA)**[^t-1]**
+(OTeA)[^t-1]
 
-del 14 febbraio 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 14 febbraio 2007 (Stato 1° gennaio 2023)
 
 [^t-1]: [RU 2007 1069](https://fedlex.data.admin.ch/eli/oc/2007/181)
 
@@ -35,9 +35,10 @@ ordina:
 
 <sup>1</sup> Gli assicuratori rilasciano una tessera d’assicurato a tutte le persone tenute ad assicurarsi conformemente all’ordinanza del 27 giugno 1995[^1-1] sull’assicurazione malattie (OAMal).
 
-<sup>2</sup> La tessera d’assicurato non è rilasciata alle persone tenute ad assicurarsi secondo l’articolo 1 capoverso 2 lettere d ed e OAMal che possono fruire di prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie sul territorio svizzero unicamente per mezzo dell’assistenza reciproca internazionale in materia di prestazioni.
+<sup>2</sup> La tessera d’assicurato non è rilasciata alle persone tenute ad assicurarsi secondo l’articolo 1 capoverso 2 lettere d–e<sup>bis</sup> OAMal che possono fruire di prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie sul territorio svizzero unicamente per mezzo dell’assistenza reciproca internazionale in materia di prestazioni.[^1-2]
 
 [^1-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^1-2]: Nuovo testo giusta il n. I 2 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 ## Sezione 2: Requisiti tecnici
 

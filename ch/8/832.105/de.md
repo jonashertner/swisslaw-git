@@ -4,11 +4,11 @@ title: Verordnung vom 14. Februar 2007 über die Versichertenkarte für die obli
 short: VVK
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/101"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-02-14
 in_force: 2007-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-101-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-101-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20220101/de"
 
 (VVK)
 
-vom 14. Februar 2007 (Stand am 1. Januar 2022)
+vom 14. Februar 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -33,9 +33,10 @@ verordnet:
 
 <sup>1</sup> Die Versicherer müssen allen nach der Verordnung vom 27. Juni 1995[^1-1] über die Krankenversicherung (KVV) versicherungspflichtigen Personen eine Versichertenkarte ausstellen.
 
-<sup>2</sup> Personen, die nach Artikel 1 Absatz 2 Buchstaben d und e KVV in der Schweiz versicherungspflichtig sind, aber ausser über die internationale Leistungsaushilfe keine Leistungen zulasten der obligatorischen Krankenpflegeversicherung im Gebiet der Schweiz beziehen können, wird keine Versichertenkarte ausgestellt.
+<sup>2</sup> Personen, die nach Artikel 1 Absatz 2 Buchstaben d–e<sup>bis</sup> KVV in der Schweiz versicherungspflichtig sind, aber ausser über die internationale Leistungsaushilfe keine Leistungen zulasten der obligatorischen Krankenpflegeversicherung im Gebiet der Schweiz beziehen können, wird keine Versichertenkarte ausgestellt.[^1-2]
 
 [^1-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^1-2]: Fassung gemäss Ziff. I 2 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 ## 2. Abschnitt: Technische Anforderungen
 
