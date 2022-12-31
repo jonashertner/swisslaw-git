@@ -4,11 +4,11 @@ title: "Ordonnance du 26 novembre 2003 sur les marchés du bétail de boucherie 
 short: OBB
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-791-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-791-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20220101/fr"
 
 (Ordonnance sur le bétail de boucherie, OBB)
 
-du 26 novembre 2003 (Etat le 1<sup>er</sup> janvier 2022)
+du 26 novembre 2003 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -56,7 +56,7 @@ Ne sont pas soumis à la disposition prévue à l’al. 1:
 - c. les animaux de l’espèce porcine abattus dans des entreprises qui accueillent chaque année moins de 1200 unités d’abattage, et
 - d. les animaux des espèces bovine, chevaline, ovine et caprine abattus dans des entreprises qui accueillent chaque année moins de 1200 unités d’abattage, pour autant que le fournisseur renonce à la taxation de la qualité;
 - e.[^2-1] les abattages sur mandat des producteurs, en vue de la vente directe.
-- f.[^2-2] ...
+- f.[^2-2] …
 
 [^2-1]: Introduite par le ch. I de l’O du 26 oct. 2011 ([RO 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^2-2]: Introduite par le ch. I de l’O du 26 oct. 2011 ([RO 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Abrogé par le ch. I de l’O du 6 nov. 2013, avec effet au 1<sup>er</sup> juil. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726))
@@ -88,14 +88,17 @@ Dans les abattoirs ci-après, l’organisation mandatée procède à une taxatio
 
 <sup>3</sup> Les abattoirs inscrivent le résultat de la taxation neutre de la qualité des animaux abattus sur les bulletins de pesée et les transmettent à Identitas SA. Il n’est pas nécessaire de transmettre les résultats de la taxation de la qualité des animaux de l’espèce chevaline.[^3-2]
 
-<sup>4</sup> Le fournisseur et l’acquéreur peuvent contester le résultat de la taxation neutre de la qualité des animaux abattus auprès de l’organisation mandatée conformément à l’art. 26, al. 1, let. a. La contestation doit intervenir dans un délai de 6 heures après l’abattage pour les animaux de l’espèce porcine, et de 24 heures pour les autres espèces. Les carcasses concernées restent bloquées dans l’abattoir sans être découpées, jusqu’à ce que la procédure engagée à la suite de la contestation soit achevée.[^3-3]
+<sup>4</sup> Le fournisseur et l’acquéreur peuvent contester le résultat de la taxation neutre de la qualité des animaux abattus auprès de l’organisation mandatée. La contestation doit intervenir le jour de l’abattage à 24 heures au plus tard. Les carcasses concernées par la contestation restent bloquées dans l’abattoir sans être découpées, jusqu’à ce que la seconde taxation neutre de la qualité ait eu lieu.[^3-3]
 
-<sup>5</sup> Sur les marchés publics surveillés, l’organisation mandatée procède à une taxation neutre de la qualité des animaux sur pied des espèces bovine et ovine, conformément à l’art. 26, al. 1, let. a.[^3-4]
+<sup>4bis</sup> Si une contestation n’entraîne pas une correction du résultat de la première taxation neutre de la qualité, l’organisation mandatée peut percevoir des émoluments auprès du fournisseur ou de l’acquéreur qui a contesté le résultat, pour couvrir les frais administratifs supplémentaires.[^3-4]
+
+<sup>5</sup> Sur les marchés publics surveillés, l’organisation mandatée procède à une taxation neutre de la qualité des animaux sur pied des espèces bovine et ovine, conformément à l’art. 26, al. 1, let. a.[^3-5]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 [^3-2]: Nouvelle teneur selon l’annexe 3 ch. II 8 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^3-3]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-4]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^3-3]: Introduit par le ch. I de l’O du 14 nov. 2007 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)). Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^3-4]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^3-5]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 4
 
@@ -118,7 +121,7 @@ Dans les abattoirs ci-après, l’organisation mandatée procède à une taxatio
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 689](https://fedlex.data.admin.ch/eli/oc/2021/689)).
 
-## Chapitre 2*a***** Pesage des animaux abattus
+## Chapitre 2*a* Pesage des animaux abattus
 
 [^chap2a-1]
 
@@ -352,34 +355,45 @@ Par période d’importation, on entend:
 - b. pour la viande des animaux des espèces ovine, caprine et chevaline, pour la viande de volaille, y compris la volaille en conserve et les abats de volaille, ainsi que pour les abats des animaux des espèces bovine, porcine, chevaline, ovine et caprine: le trimestre;
 - c. pour toutes les autres catégories de viande et de produits à base de viande: l’année civile.
 
-<sup>4</sup>
+<sup>4</sup> …[^16-4]
 
-Dans des cas exceptionnels fondés, l’OFAG peut:
+<sup>4bis</sup> Les périodes d’importation ne doivent ni se chevaucher ni aller au-delà de l’année civile.[^16-5]
 
-- a. fixer une période d’importation plus courte ou plus longue;
-- b. fixer une seconde quantité de viande et d’abats selon l’al. 3, let. b, à importer.
-
-<sup>4bis</sup> Les périodes d’importation visées aux al. 3 et 4 ne doivent ni se chevaucher ni dépasser l’année civile.[^16-4]
-
-<sup>5</sup> On parle de cas exceptionnels fondés selon l’al. 4 lorsque les milieux concernés soumettent à l’OFAG des propositions décidées à une majorité de deux tiers aussi bien à l’échelon de la production qu’à celui de la transformation et du commerce.
-
-<sup>6</sup> En cas de force majeure conduisant à des problèmes logistiques, l’OFAG peut, à titre exceptionnel, prolonger raisonnablement la période d’importation prévue pour les parts de contingent attribuées et payées. Une demande dans ce sens doit être présentée à l’OFAG avant la fin de la période d’importation.
+<sup>5</sup> et <sup>6</sup> …[^16-6]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-2]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-3]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)).
-[^16-4]: Introduit par le ch. I de l’O du 9 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
+[^16-4]: Abrogé par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16-5]: Introduit par le ch. I de l’O du 9 juin 2006 ([RO 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)). Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16-6]: Abrogés par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
 
 #### Art. 16a
 
-**Report de parts de contingent non utilisées**[^16a-1]
+**Raccourcissement et prolongation des périodes d’importation ainsi qu’augmentation des quantités à importer**[^16a-1]
+
+<sup>1</sup> Les milieux intéressés peuvent demander à l’OFAG de raccourcir ou de prolonger la période d’importation. La demande doit être présentée avant le début des périodes d’importation visées à l’art. 16, al. 3.
+
+<sup>2</sup> Les milieux intéressés peuvent demander à l’OFAG d’augmenter les quantités à importer de viande, de conserves et d’abats visés à l’art. 16, al. 3, let. b. La demande doit être présentée après le début des périodes d’importation, mais avant leur fin.
+
+<sup>3</sup> En cas de force majeure conduisant à des problèmes logistiques, les milieux intéressés peuvent demander à l’OFAG de prolonger ces périodes d’importation pour les parts de contingents déjà attribuées et payées. La demande doit être présentée après le début des périodes d’importation, mais avant leur fin.
+
+<sup>4</sup> L’OFAG donne suite à une demande si celle-ci est soutenue par les milieux intéressés à une majorité des deux tiers tant des représentants à l’échelon de la production que des représentants à l’échelon de la transformation et du commerce.
+
+<sup>5</sup> Il ne peut prolonger une période d’importation que dans la mesure où elle n’empiète pas sur la période d’importation suivante ni ne va pas au-delà de l’année civile.
+
+[^16a-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+
+#### Art. 16b
+
+**Report de parts de contingent non utilisées**[^16b-1]
 
 Sur demande écrite et motivée, l’OFAG peut reporter sur la période d’importation suivante de la même année civile des quantités non utilisées de parts de contingent d’une catégorie de viande, acquises par voie d’adjudication et payées, lorsque:
 
 - a. la quantité s’élève à au moins 500 kg et représente au plus 5 % des parts de contingent attribuées et reportées pour être utilisées, et
 - b. la demande parvient à l’OFAG avant la fin de la période d’importation.
 
-[^16a-1]: Introduit par le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^16b-1]: Anciennement art. 16*a*. Introduit par le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 ### Section 2 Attribution des parts de contingent par voie de mise en adjudication
 
@@ -485,7 +499,7 @@ Par enchère, 40 % au maximum du contingent partiel total mis aux enchères peuv
 
 [^20-1]: Abrogé par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 
-### Section 3**** Attribution des parts de contingent selon le nombre d’animaux acquis aux enchères sur des marchés publics surveillés
+### Section 3 Attribution des parts de contingent selon le nombre d’animaux acquis aux enchères sur des marchés publics surveillés
 
 [^chap5-sec3-1]
 
@@ -522,7 +536,7 @@ Sont imputables:
 
 Les demandes de parts de contingent selon le nombre d’animaux acquis aux enchères doivent être envoyées à l’OFAG, au moyen du formulaire prévu à cet effet, au plus tard le 15 août précédant le début de la période contingentaire.
 
-### Section 3*a* Attribution des parts de contingent selon le nombre d’animaux abattus****
+### Section 3*a* Attribution des parts de contingent selon le nombre d’animaux abattus
 
 [^chap5-sec3a-1]
 
@@ -594,7 +608,7 @@ Les produits suivants des contingents n°05 et 06 ne sont pas soumis à une rég
 [^25-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^25-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
-### Section 5**** Viande bovine de premier choix
+### Section 5 Viande bovine de premier choix
 
 [^chap5-sec5-1]
 
@@ -647,11 +661,13 @@ L’OFAG confie à une ou plusieurs organisations privées les tâches suivantes
 
 <sup>1</sup> L’OFAG confie les tâches par le biais d’une ou de plusieurs conventions de prestations. Ces conventions règlent la portée, la procédure, les conditions et la rétribution des prestations exigées.
 
-<sup>2</sup> La durée de la convention est de quatre ans au maximum.
+<sup>2</sup> …[^27-1]
 
 <sup>3</sup> Les prestataires doivent être indépendants, sur les plans juridique, organisationnel et financier, vis-à-vis de toute organisation ou entreprise de l’économie carnée. Ils ont l’obligation de tenir une comptabilité analytique d’exploitation, comprenant une ventilation par poste de frais et par secteur d’activité de l’exploitation permettant une répartition des charges et produits par secteur de prestations.
 
 <sup>4</sup> Les prestataires sont soumis à la surveillance de l’OFAG.
+
+[^27-1]: Abrogé par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
 
 ## Chapitre 7 Dispositions finales
 
@@ -707,6 +723,6 @@ L’ordonnance du 7 décembre 1998 sur les marchés du bétail de boucherie et d
 
 <sup>3</sup> Les art. 8, 9 et 17, al. 3, entrent en vigueur le 1<sup>er</sup> janvier 2007.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 [^t-1]: Abrogée par le ch. I de l’O du 26 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).

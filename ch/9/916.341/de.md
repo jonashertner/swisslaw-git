@@ -4,11 +4,11 @@ title: "Verordnung vom 26. November 2003 über den Schlachtvieh- und Fleischmark
 short: SV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-791-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-791-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20220101/de"
 
 (Schlachtviehverordnung, SV)
 
-vom 26. November 2003 (Stand am 1. Januar 2022)
+vom 26. November 2003 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -88,14 +88,17 @@ In folgenden Schlachtbetrieben muss für geschlachtete Tiere eine neutrale Quali
 
 <sup>3</sup> Die Schlachtbetriebe halten das Ergebnis der neutralen Qualitätseinstufung von geschlachteten Tieren schriftlich auf dem Waagdokument fest und übermitteln die Ergebnisse an die Identitas AG. Nicht übermittelt werden müssen Ergebnisse der Qualitätseinstufung von Tieren der Pferdegattung.[^3-2]
 
-<sup>4</sup> Der Lieferant und der Abnehmer können das Ergebnis der neutralen Qualitätseinstufung von geschlachteten Tieren bei der beauftragten Organisation nach Artikel 26 Absatz 1 Buchstabe a beanstanden. Die Beanstandung hat bei Tieren der Schweinegattung bis spätestens sechs, bei den übrigen Tiergattungen bis spätestens 24 Stunden nach der Schlachtung zu erfolgen. Die betreffenden Schlachtkörper müssen so lange im Schlachtbetrieb unzerlegt blockiert werden, bis das Verfahren der Beanstandung abgeschlossen ist.[^3-3]
+<sup>4</sup> Der Lieferant und der Abnehmer können das Ergebnis der neutralen Qualitätseinstufung von geschlachteten Tieren bei der beauftragten Organisation beanstanden. Die Beanstandung hat spätestens bis um 24.00 Uhr des Schlachttags zu erfolgen. Die von einer Beanstandung betroffenen Schlachtkörper müssen so lange im Schlachtbetrieb unzerlegt blockiert werden, bis die zweite neutrale Qualitätseinstufung erfolgt ist.[^3-3]
 
-<sup>5</sup> Auf überwachten öffentlichen Märkten muss für lebende Tiere der Rindvieh- und Schafgattung eine neutrale Qualitätseinstufung durch die beauftragte Organisation nach Artikel 26 Absatz 1 Buchstabe a vorgenommen werden.[^3-4]
+<sup>4bis</sup> Führt eine Beanstandung nicht zu einer Korrektur des Ergebnisses der ersten neutralen Qualitätseinstufung, so kann die beauftragte Organisation beim Lieferanten oder Abnehmer, der das Ergebnis beanstandet hat, zur Deckung der administrativen Zusatzkosten Gebühren erheben. [^3-4]
+
+<sup>5</sup> Auf überwachten öffentlichen Märkten muss für lebende Tiere der Rindvieh- und Schafgattung eine neutrale Qualitätseinstufung durch die beauftragte Organisation nach Artikel 26 Absatz 1 Buchstabe a vorgenommen werden.[^3-5]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 [^3-2]: Fassung gemäss Anhang 3 Ziff. II 8 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^3-3]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-4]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)). Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^3-4]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^3-5]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 4
 
@@ -118,7 +121,7 @@ In folgenden Schlachtbetrieben muss für geschlachtete Tiere eine neutrale Quali
 [^5-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^5-2]: Fassung ge689mäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 689](https://fedlex.data.admin.ch/eli/oc/2021/689)).
 
-## 2*a*. Kapitel:**** Ermittlung des Schlachtgewichts
+## 2*a*. Kapitel: Ermittlung des Schlachtgewichts
 
 [^chap2a-1]
 
@@ -353,34 +356,45 @@ Als Einfuhrperiode gilt:
 - b. für Fleisch von Tieren der Schaf-, Ziegen- und Pferdegattung, Geflügelfleisch inkl. Geflügelkonserven und Schlachtnebenprodukte von Geflügel sowie für Schlachtnebenprodukte von Tieren der Rindvieh-, Schweine-, Pferde-, Schaf- und Ziegengattung: das Jahresquartal;
 - c. für alle anderen Fleisch- und Fleischwarenkategorien: das Kalenderjahr.
 
-<sup>4</sup>
+<sup>4</sup> …[^16-4]
 
-Das BLW kann in begründeten Ausnahmefällen:
+<sup>4bis</sup> Die Einfuhrperioden dürfen sich weder überschneiden noch über das Kalenderjahr hinausgehen.[^16-5]
 
-- a. eine kürzere oder eine längere Einfuhrperiode festlegen;
-- b. eine zweite Einfuhrmenge für Fleisch und Schlachtnebenprodukte nach Absatz 3 Buchstabe b festlegen.
-
-<sup>4bis</sup> Einfuhrperioden nach Absatz 3 und 4 dürfen sich nicht überschneiden und nicht über das Kalenderjahr hinausgehen.[^16-4]
-
-- [tab] <sup>5</sup> Begründete Ausnahmefälle nach Absatz 4 liegen vor, wenn die interessierten Kreise Anträge an das BLW mit Zweidrittelmehrheit der Stimmen sowohl auf der Stufe Produktion als auch auf der Stufe Verarbeitung und Handel beschliessen.
-
-<sup>6</sup> Führt höhere Gewalt zu logistischen Schwierigkeiten, kann das BLW ausnahmsweise die Einfuhrperiode für zugeteilte und bezahlte Kontingentsanteile angemessen verlängern. Ein entsprechendes Gesuch muss dem BLW vor Ablauf der Einfuhrperiode eingereicht werden.
+- [tab] <sup>5</sup> und <sup>6</sup> …[^16-6]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-2]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-3]: Fassung gemäss Anhang 2 Ziff. 1 der V vom 26. Aug. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)).
-[^16-4]: Eingefügt durch Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
+[^16-4]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16-5]: Eingefügt durch Ziff. I der V vom 9. Juni 2006 ([AS 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)). Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16-6]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
 
 #### Art. 16a
 
-**Übertragung nicht ausgenützter Kontingentsanteile**[^16a-1]
+**Verkürzung und Verlängerung von Einfuhrperioden sowie Erhöhung von Einfuhrmengen**[^16a-1]
+
+<sup>1</sup> Die interessierten Kreise können beim BLW beantragen, dass dieses die Einfuhrperiode verkürzt oder verlängert. Der Antrag ist vor Beginn der betreffenden Einfuhrperiode nach Artikel 16 Absatz 3 einzureichen.
+
+<sup>2</sup> Die interessierten Kreise können beim BLW beantragen, dass dieses die Einfuhrmengen für Fleisch, Konserven und Schlachtnebenprodukte nach Artikel 16 Absatz 3 Buchstabe b erhöht. Der Antrag ist nach Beginn der Einfuhrperiode, jedoch vor deren Ablauf einzureichen.
+
+<sup>3</sup> Führt höhere Gewalt zu logistischen Schwierigkeiten, so können die interessierten Kreise beim BLW beantragen, dass dieses Einfuhrperioden für bereits zugeteilte und bezahlte Kontingentsanteile verlängert. Der Antrag ist nach Beginn der Einfuhrperiode, jedoch vor deren Ablauf einzureichen.
+
+<sup>4</sup> Das BLW gibt einem Antrag statt, wenn dieser von den interessierten Kreisen mit je einer Zweidrittelmehrheit der Vertreterinnen und Vertreter auf der Stufe Produktion und der Vertreterinnen und Vertreter auf der Stufe Verarbeitung und Handel unterstützt wird.
+
+<sup>5</sup> Es darf eine Einfuhrperiode nur so weit verlängern, dass sie sich weder mit der nachfolgenden Einfuhrperiode überschneidet, noch über das Kalenderjahr hinausgeht.
+
+[^16a-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+
+#### Art. 16b
+
+**Übertragung nicht ausgenützter Kontingentsanteile**[^16b-1]
 
 Das BLW kann auf begründetes, schriftliches Gesuch hin nicht ausgenützte Mengen von ersteigerten und bezahlten Kontingentsanteilen einer Fleischkategorie auf die nächste Einfuhrperiode im selben Kalenderjahr übertragen, wenn:
 
 - a. die Menge mindestens 500 kg und höchstens 5 Prozent der zugeteilten und zur Ausnützung übertragenen Kontingentsanteile beträgt; und
 - b. das Gesuch vor Ablauf der Einfuhrperiode beim BLW eintrifft.
 
-[^16a-1]: Eingefügt durch Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^16b-1]: Ursprünglich: Art. 16*a*. Eingefügt durch Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 ### 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung
 
@@ -486,7 +500,7 @@ Je Versteigerung können einer zollkontingentanteilsberechtigten Person maximal 
 
 [^20-1]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 
-### 3. Abschnitt:**** Zuteilung der Kontingentsanteile nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere
+### 3. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere
 
 [^chap5-sec3-1]
 
@@ -523,7 +537,7 @@ Anrechenbar sind:
 
 Gesuche um Kontingentsanteile nach der Zahl der ersteigerten Tiere sind dem BLW auf dem dafür vorgesehenen Formular bis spätestens zum 15. August vor Beginn der Kontingentsperiode einzureichen.
 
-### 3*a*. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere****
+### 3*a*. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere
 
 [^chap5-sec3a-1]
 
@@ -595,7 +609,7 @@ Bei folgenden Produkten der Zollkontingente Nr. 05 und 06 wird auf eine Regelung
 [^25-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^25-3]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
-### 5. Abschnitt:**** Rindfleisch hoher Qualität
+### 5. Abschnitt: Rindfleisch hoher Qualität
 
 [^chap5-sec5-1]
 
@@ -648,11 +662,13 @@ Das BLW überträgt folgende Aufgaben an eine oder mehrere private Organisatione
 
 <sup>1</sup> Das BLW überträgt die Aufgaben mittels einer oder mehrerer Leistungsvereinbarungen. Umfang, Verfahren, Bedingungen und Vergütung der verlangten Leistungen sind im Vertrag geregelt.
 
-<sup>2</sup> Die Vertragsdauer beträgt maximal vier Jahre.
+<sup>2</sup> …[^27-1]
 
 <sup>3</sup> Die Leistungserbringerinnen müssen rechtlich, organisatorisch und finanziell unabhängig von den einzelnen Organisationen und Unternehmungen der Fleischwirtschaft sein. Sie müssen eine Betriebsbuchhaltung mit einer Kostenstellen- und Kostenträgerrechnung führen, die eine Zuteilung der Aufwände und Erträge auf die Leistungsvereinbarungen zulässt.
 
 <sup>4</sup> Die Leistungserbringerinnen unterstehen der Aufsicht des BLW.
+
+[^27-1]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
 
 ## 7. Kapitel: Schlussbestimmungen
 
@@ -708,6 +724,6 @@ Die Verordnung vom 7. Dezember 1998[^29-1] über den Schlachtvieh- und Fleischma
 
 <sup>3</sup> Artikel 8, 9 und 17 Absatz 3 treten am 1. Januar 2007 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 [^t-1]: Aufgehoben durch Ziff. I der V vom 26. Okt. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).

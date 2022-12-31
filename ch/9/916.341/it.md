@@ -4,11 +4,11 @@ title: "Ordinanza del 26 novembre 2003 concernente il mercato del bestiame da ma
 short: OBM
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-791-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-791-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20220101/it"
 
 (Ordinanza sul bestiame da macello, OBM)
 
-del 26 novembre 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 26 novembre 2003 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -88,14 +88,17 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 
 <sup>3</sup> I macelli riportano l’esito della classificazione neutrale della qualità degli animali macellati in forma scritta sul documento di pesatura e trasmettono i risultati a Identitas AG. I risultati della classificazione della qualità degli animali della specie equina non devono essere trasmessi.[^3-2]
 
-<sup>4</sup> Il fornitore e l’acquirente possono contestare l’esito della classificazione neutrale della qualità degli animali macellati presso l’organizzazione incaricata conformemente all’articolo 26 capoverso 1 lettera a. Per gli animali della specie suina la contestazione deve avvenire entro 6 ore, per gli animali delle altre specie entro 24 ore dalla macellazione. Le carcasse interessate rimangono bloccate nel macello, intere, fino a quando la procedura relativa alla contestazione non è conclusa.[^3-3]
+<sup>4</sup> Il fornitore e l’acquirente possono contestare l’esito della classificazione neutrale della qualità degli animali macellati presso l’organizzazione incaricata. La contestazione deve avvenire entro le ore 24.00 del giorno di macellazione. Le carcasse interessate da una contestazione devono rimanere bloccate nel macello, intere, finché non sarà stata effettuata la seconda classificazione neutrale della qualità.[^3-3]
 
-<sup>5</sup> Sui mercati pubblici sorvegliati l’organizzazione incaricata effettua una classificazione neutrale della qualità degli animali vivi della specie bovina e ovina conformemente all’articolo 26 capoverso 1 lettera a.[^3-4]
+<sup>4bis</sup> Se una contestazione non comporta una correzione dell’esito della prima classificazione neutrale della qualità, l’organizzazione incaricata può riscuotere tasse per coprire i costi amministrativi supplementari presso il fornitore o l’acquirente che ha contestato l’esito.[^3-4]
+
+<sup>5</sup> Sui mercati pubblici sorvegliati l’organizzazione incaricata effettua una classificazione neutrale della qualità degli animali vivi della specie bovina e ovina conformemente all’articolo 26 capoverso 1 lettera a.[^3-5]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 [^3-2]: Nuovo testo giusta l’all. 3 n. II 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^3-3]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-4]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^3-3]: Introdotto dal n. I dell’O del 14 nov. 2007 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)). Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^3-4]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^3-5]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 4
 
@@ -118,7 +121,7 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^5-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 689](https://fedlex.data.admin.ch/eli/oc/2021/689)).
 
-## Capitolo 2*a*:**** Determinazione del peso di macellazione
+## Capitolo 2*a*: Determinazione del peso di macellazione
 
 [^chap2a-1]
 
@@ -352,34 +355,45 @@ Per periodo d’importazione s’intende:
 - b. il trimestre, per la carne di animali delle specie ovina, caprina ed equina, la carne di pollame, comprese le conserve di pollame e le frattaglie di pollame, nonché per le frattaglie di animali delle specie bovina, suina, equina, ovina e caprina;
 - c. l’anno civile, per tutte le altre categorie di carne e di prodotti carnei.
 
-<sup>4</sup>
+<sup>4</sup> ...[^16-4]
 
-In casi motivati, l’UFAG può:
+<sup>4bis</sup> I periodi d’importazione non devono sovrapporsi né superare l’anno civile.[^16-5]
 
-- a. stabilire un periodo d’importazione più breve o più lungo;
-- b. stabilire un secondo quantitativo d’importazione per la carne e le frattaglie definite nel capoverso 3 lettera b.
-
-<sup>4bis</sup> I periodi d’importazione di cui ai capoversi 3 e 4 non devono sovrapporsi né superare l’anno civile.[^16-4]
-
-<sup>5</sup> Si è in presenza di casi motivati ai sensi del capoverso 4 quando le cerchie interessate sottopongono all’UFAG proposte decise con una maggioranza di due terzi tanto a livello di produzione quanto a livello di lavorazione e commercio.
-
-<sup>6</sup> In caso di difficoltà logistiche dovute a cause di forza maggiore, l’UFAG può, in via eccezionale, prorogare adeguatamente il periodo d’importazione per le quote del contingente assegnate e pagate. La domanda deve essere presentata all’UFAG prima della scadenza del periodo d’importazione.
+<sup>5</sup> e <sup>6</sup> ...[^16-6]
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-2]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-3]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 26 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)).
-[^16-4]: Introdotto dal n. I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
+[^16-4]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16-5]: Introdotto dal n. I dell’O del 9 giu. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)). Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16-6]: Abrogati dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
 
 #### Art. 16a
 
-**Trasferimento di quote del contingente non utilizzate**[^16a-1]
+**Riduzione e prolungamento dei periodi d’importazione nonché aumento dei quantitativi d’importazione**[^16a-1]
+
+<sup>1</sup> Le cerchie interessate possono chiedere all’UFAG di ridurre o prolungare il periodo d’importazione. La richiesta va presentata prima dell’inizio del periodo d’importazione in questione di cui all’articolo 16 capoverso 3.
+
+<sup>2</sup> Le cerchie interessate possono chiedere all’UFAG di aumentare i quantitativi d’importazione per carne, conserve e frattaglie di animali di cui all’articolo 16 capoverso 3 lettera b. La richiesta va presentata dopo l’inizio del periodo d’importazione, tuttavia prima della sua scadenza.
+
+<sup>3</sup> In caso di difficoltà logistiche dovute a cause di forza maggiore, le cerchie interessate possono chiedere all’UFAG di prolungare i periodi d’importazione per le quote del contingente già assegnate e pagate. La richiesta va presentata dopo l’inizio del periodo d’importazione, tuttavia prima della sua scadenza.
+
+<sup>4</sup> L’UFAG accoglie le richieste supportate dalle cerchie interessate con una maggioranza di due terzi dei rappresentanti sia a livello di produzione sia a livello di lavorazione e commercio.
+
+<sup>5</sup> L’UFAG può prolungare un periodo d’importazione soltanto nella misura in cui esso non si sovrapponga al periodo d’importazione successivo né superi l’anno civile.
+
+[^16a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+
+#### Art. 16b
+
+**Trasferimento di quote del contingente non utilizzate**[^16b-1]
 
 L’UFAG, su domanda scritta motivata, può trasferire sul successivo periodo d’importazione del medesimo anno civile quantitativi non utilizzati di quote del contingente di una categoria di carne messe all’asta e pagate, qualora:
 
 - a. il quantitativo ammonti almeno a 500 kg e costituisca al massimo il 5 per cento delle quote del contingente assegnate e trasferite per essere utilizzate; e
 - b. la domanda pervenga all’UFAG prima della scadenza del periodo d’importazione.
 
-[^16a-1]: Introdotto dal n. I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^16b-1]: Originario art. 16*a*. Introdotto dal n. I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 ### Sezione 2: Assegnazione delle quote del contingente sulla base di una vendita all’asta
 
@@ -485,7 +499,7 @@ Per ogni asta, a ciascun titolare di quote del contingente può essere assegnato
 
 [^20-1]: Abrogato dal n. I dell’O del 28 ott. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 
-### Sezione 3:**** Assegnazione delle quote del contingente in base al numero di animali acquistati all’asta su mercati pubblici sorvegliati
+### Sezione 3: Assegnazione delle quote del contingente in base al numero di animali acquistati all’asta su mercati pubblici sorvegliati
 
 [^chap5-sec3-1]
 
@@ -522,7 +536,7 @@ Sono computabili:
 
 Le domande per l’ottenimento di quote del contingente in base al numero di animali acquistati all’asta devono essere presentate all’UFAG, utilizzando l’apposito modulo, entro il 15 agosto precedente l’inizio del periodo di contingentamento.
 
-### Sezione 3*a*: Assegnazione delle quote del contingente in base al numero di animali macellati****
+### Sezione 3*a*: Assegnazione delle quote del contingente in base al numero di animali macellati
 
 [^chap5-sec3a-1]
 
@@ -592,7 +606,7 @@ La ripartizione delle quote del contingente per i seguenti prodotti dei continge
 [^25-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^25-3]: Nuovo testo del per. giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
-### Sezione 5:**** Carne bovina di alta qualità
+### Sezione 5: Carne bovina di alta qualità
 
 [^chap5-sec5-1]
 
@@ -636,7 +650,7 @@ L’UFAG delega i seguenti compiti a una o più organizzazioni private:
 
 [^26-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^26-2]: Introdotta dall’art. 62 cpv. 2 dell’O del 16 dic. 2016 concernente la macellazione e il controllo delle carni, in vigore dal 1° mag. 2017 ([RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)).
-[^26-3]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giu. 2019 sugli appalti pubblici ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
+[^26-3]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giu. 2019 sugli appalti pubblici ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 [^26-4]: Nuovo testo giusta il n. I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 #### Art. 27
@@ -645,11 +659,13 @@ L’UFAG delega i seguenti compiti a una o più organizzazioni private:
 
 <sup>1</sup> L’UFAG delega i compiti mediante uno o più accordi di prestazioni. Nel contratto sono disciplinati la portata, la procedura, le condizioni e la rimunerazione delle prestazioni pretese.
 
-<sup>2</sup> La durata contrattuale massima è di quattro anni.
+<sup>2</sup> ...[^27-1]
 
 <sup>3</sup> I fornitori di prestazioni devono essere indipendenti, sotto il profilo giuridico, organizzativo e finanziario, dalle singole organizzazioni e imprese del settore della carne. Essi tengono una contabilità aziendale che prevede una contabilità per centri di costo e per unità finali d’imputazione che permetta di attribuire univocamente i ricavi e i costi d’esercizio ai singoli accordi di prestazioni.
 
 <sup>4</sup> I fornitori di prestazioni sottostanno alla sorveglianza dell’UFAG.
+
+[^27-1]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
 
 ## Capitolo 7: Disposizioni finali
 
@@ -665,7 +681,7 @@ L’UFAG esegue la presente ordinanza, sempreché non ne siano incaricate altre 
 
 L’ordinanza del 7 dicembre 1998[^29-1] concernente il mercato del bestiame da macello e della carne è abrogata.
 
-[^29-1]: [[RU 1999 111](https://fedlex.data.admin.ch/eli/oc/1999/19), [2000 401](https://fedlex.data.admin.ch/eli/oc/2000/84), [2001 314](https://fedlex.data.admin.ch/eli/oc/2001/67)[2091](https://fedlex.data.admin.ch/eli/oc/2001/305)all. n. 18 [2880](https://fedlex.data.admin.ch/eli/oc/2001/427), [2002 3495](https://fedlex.data.admin.ch/eli/oc/2002/521)]
+[^29-1]: [[RU 1999 111](https://fedlex.data.admin.ch/eli/oc/1999/19); [2000 401](https://fedlex.data.admin.ch/eli/oc/2000/84); [2001 314](https://fedlex.data.admin.ch/eli/oc/2001/67), [2091](https://fedlex.data.admin.ch/eli/oc/2001/305)all. n. 18, [2880](https://fedlex.data.admin.ch/eli/oc/2001/427); [2002 3495](https://fedlex.data.admin.ch/eli/oc/2002/521)]
 
 #### Art. 30
 
@@ -705,6 +721,6 @@ L’ordinanza del 7 dicembre 1998[^29-1] concernente il mercato del bestiame da 
 
 <sup>3</sup> Gli articoli 8, 9 e 17 capoverso 3 entrano in vigore il 1° gennaio 2007.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 [^t-1]: Abrogato dal n. II dell’O del 26 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
