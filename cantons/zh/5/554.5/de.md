@@ -4,10 +4,11 @@ number: "554.5"
 title: Hundegesetz (HuG)
 short: HuG
 language: de
-nachtrag: "67"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2025-06-01
 adopted: 2008-04-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-554_5-2008_04_14-2010_01_01-067.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-554_5-2008_04_14-2010_01_01-119.html"
 text: pdf
 ---
 
@@ -66,11 +67,11 @@ Dieses Gesetz bezweckt den sicheren und verantwortungsbewussten Umgang mit Hunde
 
 - b. nimmt Meldungen bei Verletzungen und auffälligem Verhalten entgegen,
 
-- c. kontrolliert auf Grund von Risikobeurteilungen die Hundehaltung,
+- c. kontrolliert aufgrund von Risikobeurteilungen die Hundehaltung,
 
 **1**
 
-- 1\. 1. 10 - 67
+- 1\. 1. 23 - 119
 
 - d. nimmt die Ersatzvornahme vor, wenn sich die Halterin oder der Halter weigert, den Hund gemäss Tierseuchenverordnung[^3-1] kennzeichnen zu lassen,
 
@@ -170,7 +171,7 @@ Es ist verboten, Hunde mitzuführen oder freizulassen:
 
 **3**
 
-- 1\. 1. 10 - 67
+- 1\. 1. 23 - 119
 
 - d. auf Spiel- oder Sportfeldern,
 
@@ -188,7 +189,7 @@ Es ist verboten, Hunde mitzuführen oder freizulassen:
 
 - c. in öffentlichen Verkehrsmitteln, an Bahnhöfen und an Haltestellen,
 
-- d. an Orten, die von den zuständigen Behörden entsprechend signalisiert wurden.
+- d. an Orten, die von den zuständigen Behörden entsprechend signalisiert wurden, e.[^11-1] im Wald und am Waldrand vom 1. April bis 31. Juli, ausgenommen Jagd-, Rettungs- und Diensthunde beim Einsatz und bei der Ausbildung.
 
 <sup>2</sup> Hunde sind im öffentlich zugänglichen Raum anzuleinen, wenn a. sie läufig sind,
 
@@ -197,6 +198,8 @@ Es ist verboten, Hunde mitzuführen oder freizulassen:
 - c. sie eine ansteckende Krankheit haben,
 
 - d. die zuständige Behörde es anordnet.
+
+[^11-1]: Eingefügt durch Jagdgesetz vom 1. Februar 2021 (OS 77, 600; ABl 2018-04-20). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 9
 
 #### § 12
 
@@ -226,11 +229,11 @@ Hunde sind so zu beaufsichtigen, dass Dritte nicht durch andauerndes Gebell oder
 
 **Streunende Hunde**
 
-Die Polizei fängt streunende Hunde ein und meldet sie der Meldestelle für gefundene Tiere nach Art. 720 a Abs. 2 ZGB[^14-1].
+Die Polizei fängt streunende Hunde ein und meldet sie der Meldestelle für gefundene Tiere nach Art. 720a Abs. 2 ZGB[^14-1].
 
 ### D. Meldungen, Abklärungen und Massnahmen
 
-[^hDMeldungenAbklär-1]: SR 455.1. 1. 1. 10 - 67 9
+[^hDMeldungenAbklär-1]: SR 455.1.
 
 #### § 16
 
@@ -284,6 +287,10 @@ Die Polizei fängt streunende Hunde ein und meldet sie der Meldestelle für gefu
 
 - i. Zuchtverbot,
 
+**5**
+
+- 1\. 1. 23 - 119
+
 - j. Entzug des Hundes zur Neuplatzierung oder Rückgabe an die Zuchtstätte,
 
 - k. Beschränkung der Anzahl gehaltener Hunde,
@@ -299,10 +306,6 @@ Die Polizei fängt streunende Hunde ein und meldet sie der Meldestelle für gefu
 **Sofortmassnahmen**
 
 <sup>1</sup> Die Direktion schreitet unverzüglich ein, wenn feststeht, dass ein Hund unter den aktuellen Haltungsumständen ein erhebliches Sicherheitsrisiko für Mensch und Tier darstellt.
-
-**5**
-
-- 1\. 1. 10 - 67
 
 <sup>2</sup> Sie kann einen Hund vorsorglich beschlagnahmen und geeignet unterbringen; wenn notwendig lässt sie den Hund einschläfern.
 
@@ -380,6 +383,10 @@ Von der Abgabe befreit sind Halterinnen und Halter von:
 
 - b. Militärhunden und Diensthunden des Grenzwachtkorps, die für seinen Dienst verwendet werden,
 
+**7**
+
+- 1\. 1. 23 - 119
+
 - c. ausgebildeten Schweiss-, Sanitäts-, Lawinen- und Katastrophenhunden, soweit an ihrer Haltung ein öffentliches Interesse besteht,
 
 - d. Begleit- und Hilfshunden für motorisch Behinderte sowie von Therapiehunden, wenn der Nachweis über eine angemessene Ausbildung und den regelmässigen Einsatz erbracht wird,
@@ -387,10 +394,6 @@ Von der Abgabe befreit sind Halterinnen und Halter von:
 - e. Blindenführhunden, die aus einer von der Eidgenössischen Invalidenversicherung anerkannten Blindenführhundeschule stammen,
 
 - f. Hunden, für welche die Abgabe bereits in einer anderen Gemeinde des Kantons bezahlt wurde,
-
-**7**
-
-- 1\. 1. 10 - 67
 
 - g. Hunden, für welche die Abgabe bereits in einem anderen Kanton bezahlt wurde,
 
