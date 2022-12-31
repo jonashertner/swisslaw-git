@@ -1,138 +1,206 @@
 ---
 canton: VS
 number: "417.10"
-title: Loi fixant la localisation des écoles cantonales du degré tertiaire et la contribution des communes sièges
+title: Loi fixant la localisation des institutions cantonales de formation et de recherche du degré tertiaire et la contribution des communes sièges
 short: LCCS
 language: fr
-version: 2015-01-01
-corrected: 2017-09-06
+version: 2023-01-01
+valid_until: 2025-12-31
 version_adopted: 2012-11-16
 adopted: 1999-11-11
 in_force: 2000-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/417.10"
-pdf: "https://lex.vs.ch/api/fr/versions/485/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3043/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi fixant la localisation des écoles cantonales du degré tertiaire et la contribution des communes sièges
+# Loi fixant la localisation des institutions cantonales de formation et de recherche du degré tertiaire et la contribution des communes sièges
 
-du 11 novembre 1999
+du 11.11.1999 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
-vu l'article 27, alinéas 4 et 5 de la Constitution cantonale;
+vu l'article 27 alinéas 4 et 5 de la Constitution cantonale;
 
-vu l'article 94 de la loi du 4 juillet 1962 sur l'instruction publique;
+vu l'article 94 de la loi sur l'instruction publique du 4 juillet 1962 (LIP);
+
+vu la loi sur les subventions du 13 novembre 1995;
 
 sur la proposition du Conseil d'Etat,
 
-ordonne:
+ordonne: [^ingress-1]
+
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction, vise indifféremment l’homme ou la femme.
 
 #### Art. 1
 
-<sup>1</sup> But et objet
+**But et objet**
 
-<sup>1</sup> La présente loi fixe la localisation:[^1-1] - de la Haute Ecole pédagogique valaisanne (HEP-VS),
+<sup>1</sup> La présente loi fixe la localisation:
 
-- de la Haute Ecole spécialisée de Suisse occidentale Valais/Wallis (HES-SO Valais/Wallis) comprenant les domaines Sciences de l'ingénieur, Economie & Services, Santé et Travail social.
+- a) de la Haute école pédagogique du Valais (HEP-VS);
+- b) de la Haute Ecole spécialisée de Suisse occidentale Valais-Wallis (HES-SO Valais-Wallis);
+- c) …
+- d) …
+- e) de la Haute école de musique Vaud Valais Fribourg et du Conservatoire de Lausanne (HEMU-CL);
+- f) de la Fernfachhochschule Schweiz (FFHS);
+- g) des Ecoles supérieures ES;
+- h) des Institutions de formation et de recherche universitaires.
 
-<sup>2</sup> Elle règle la contribution des communes sièges.
+<sup>2</sup> La présente loi règle la contribution des communes sièges aux institutions cantonales de formation et de recherche du degré tertiaire sises sur le territoire du canton.
 
-[^1-1]: Modification (Loi sur la Haute Ecole BO No 50/2012; BO 01.01.2015 spécialisée de Suisse occidentale Valais/Wallis No 52/2014 (HES-SO Valais/Wallis) du 16 novembre 2012, art. 40 ch. 1)
+<sup>3</sup> Sont considérées comme institutions cantonales de formation et de recherche du degré tertiaire au sens de la présente loi (ci-après: institutions tertiaires), les institutions subventionnées par l’Etat du Valais qui relèvent de la loi fédérale sur l'encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles (LEHE), de la loi fédérale sur la formation professionnelle (LFPr) ou de la loi cantonale sur la formation et la recherche universitaires (LFRU).
 
 #### Art. 2
 
-**Localisation de la HEP-VS**
+**Localisation de la Haute école pédagogique du Valais (HEP-VS)**
 
 <sup>1</sup> L'unité germanophone de la HEP-VS est localisée à Brig-Glis.
 
 <sup>2</sup> L'unité francophone de la HEP-VS est localisée à Saint-Maurice.
 
-[^2-1]: Nouvelle teneur selon le ch. III de la loi RO/VS 2010, 155 et 1.10.2010 abrogeant la législation sur l'Ecole suisse de 428 tourisme du 17.06.2010
-
 #### Art. 3
 
-**Abrogé**[^2-1]
+**…**
 
 #### Art. 4
 
-<sup>3</sup> Localisation de la HES-SO Valais/Wallis
+**Localisation de la Haute Ecole spécialisée de Suisse occidentale Valais-Wallis (HES-SO Valais-Wallis)**
 
-<sup>1</sup> La HES-SO Valais/Wallis est localisée:
+<sup>1</sup> La HES-SO Valais-Wallis est localisée:
 
-- à Sion pour le domaine des Sciences de l'ingénieur et de la Santé (filière francophone en Soins infirmiers);
+- a) à Sion pour les domaines des Sciences de l'ingénieur et de la Santé (filière francophone en Soins infirmiers);
+- b) à Sierre pour les domaines de l'Economie et Services, du Travail social et du Design et Arts visuels;
+- c) à Loèche-les-Bains pour le domaine de la Santé (filière de Physiothérapie);
+- d) à Viège pour le domaine de la Santé (filière germanophone en Soins infirmiers).
 
-- à Sierre pour les domaines de l'Economie & Services et du Travail social;
+<sup>2</sup> …
 
-- à Loèche-les-Bains pour la filière Physiothérapie;
+<sup>3</sup> …
 
-- à Viège pour la filière germanophone en Soins infirmiers.
+#### Art. 4a
 
-<sup>2</sup> La localisation de nouveaux domaines est de la compétence du Grand Conseil.
+**Localisation de la Haute école de musique Vaud Valais Fribourg et du Conservatoire de Lausanne (HEMU-CL)**
 
-<sup>3</sup> Dans les deux régions linguistiques, un organe est chargé d'assurer la liaison entre la HES-SO Valais/Wallis et l'économie.
+<sup>1</sup> L'HEMU-CL est localisée à Sion.
+
+#### Art. 4b
+
+**Localisation de la Fernfachhochschule Schweiz (FFHS)**
+
+<sup>1</sup> La FFHS est localisée à Brig-Glis.
+
+#### Art. 4c
+
+**Localisation des Ecoles supérieures ES**
+
+<sup>1</sup> Les Ecoles supérieures ES sont localisées:
+
+- a) à Sion pour les filières ES de l’Ecole supérieure Domaine Social Valais;
+- b) à Viège pour la filière germanophone ES en Soins infirmiers de la Fondation ES Santé Valais-Wallis;
+- c) à Monthey pour la filière francophone ES en Soins infirmiers de la Fondation ES Santé Valais-Wallis.
+
+#### Art. 4d
+
+**Localisation des Institutions de formation et de recherche universitaires**
+
+<sup>1</sup> Les Institutions de formation et de recherche universitaires sont localisées:
+
+- a) à Brig-Glis et à Sierre pour FernUni Schweiz-UniDistance Suisse;
+- b) à Brig-Glis pour le Forschungsinstitut zur Geschichte des Alpensraums FGA;
+- c) à Sierre pour Icare, Institut de recherche en informatique;
+- d) à Sion pour l’Institut de recherche en réadaptation‐réinsertion IRR;
+- e) à Sion pour la Fondation Universitaire Kurt Bösch;
+- f) à Martigny pour l'Institut de recherche Idiap;
+- g) à Martigny pour le Centre de recherche Crem;
+- h) à Sembrancher pour le Centre régional d'études des populations alpines CREPA.
+
+#### Art. 4e
+
+**Localisation des institutions considérées comme les cas particuliers au sens de la présente loi**
+
+<sup>1</sup> L’antenne valaisanne de l’Université de Genève est localisée à Sion.
+
+<sup>2</sup> L’antenne valaisanne de l’Université de Lausanne est localisée à Sion.
+
+<sup>3</sup> L’EPFL Valais Wallis est localisée à Sion.
 
 #### Art. 5
 
-<sup>1,2</sup> Contribution communale aux dépenses d’investissement et de
+**Contribution des communes sièges aux dépenses d'investissement et de location**
 
-location
+<sup>1</sup> Les communes où sont érigés les bâtiments des institutions tertiaires doivent:
 
-<sup>1</sup> Les communes où sont érigés les bâtiments des institutions de formation et de recherche de niveau tertiaire financées ou subventionnées par l’Etat du Valais fournissent gratuitement les terrains nécessaires équipés.
+- a) fournir gratuitement les terrains nécessaires équipés;
+- b) participer à raison de dix pour cent aux coûts de construction, d'acquisition, d'extension, de rénovation, de transformation et d'équipement des bâtiments;
+- c) participer à raison de dix pour cent aux coûts de renouvellement des équipements et installations tels qu'appareils, moyens informatiques, instruments, machines, meubles, mobilier, véhicules;
+- d) participer à raison de dix pour cent, le cas échéant, aux frais de location des locaux.
 
-<sup>2</sup> Les communes sièges participent en outre à hauteur de dix pour cent aux dépenses d’investissement comprenant:
+<sup>2</sup> …
 
-- a) les coûts de construction, d'acquisition, d'extension, de rénovation, de transformation et d'équipement des bâtiments;
+<sup>2<sup>bis</sup></sup> L'article 6a de la ​présente loi est réservé.
 
-- b) les coûts de renouvellement des équipements et installations: appareils, moyens informatiques, instruments, machines, meubles, mobilier, véhicules;
+<sup>3</sup> Les communes de la région concernée peuvent convenir d’une répartition entre elles de la contribution communale aux dépenses d'investissement et de location.
 
-- c) le cas échéant, les frais de location des locaux.
+<sup>4</sup> La commune siège demeure débitrice envers l'Etat des dépenses d'investissement et de location, quand bien même il a été convenu d'une répartition de ces charges avec les autres communes de la région concernée.
 
-<sup>3</sup> Les communes de la région concernée peuvent convenir d’une répartition entre elles de cette contribution.
+<sup>5</sup> Un règlement du Conseil d'Etat précise les éléments de calcul portant sur la contribution des communes sièges aux dépenses d'investissement et de location.
 
 #### Art. 6
 
-<sup>1,2</sup> Contribution communale aux charges d’exploitation
+**…**
 
-<sup>1</sup> Les communes sièges participent aux charges salariales brutes, y compris les charges sociales de l’employeur, du personnel enseignant et de direction en charge de l’enseignement de base et de la recherche-développement.
+#### Art. 6a
 
-<sup>2</sup> Les établissements concernés sont les institutions de formation et de recherche de niveau tertiaire financées ou subventionnées par l’Etat du Valais.
+**Contribution des communes sièges aux dépenses d'investissement et de location pour les cas particuliers**
 
-<sup>3</sup> Les communes sièges participent à hauteur de dix pour cent de la masse salariale servie sur le site, selon l’alinéa 1.
+<sup>1</sup> Sont considérés comme cas particuliers, les institutions tertiaires réunissant de manière cumulative les caractéristiques suivantes:
 
-<sup>4</sup> Les communes de la région concernée peuvent convenir d’une répartition entre elles de cette contribution.
+- a) l'institution est un site décentralisé dont le siège principal est situé hors du canton du Valais, et
+- b) l'Etat du Valais subventionne cette institution sans pouvoir décisionnel sur le pilotage des dépenses d'investissement et de location.
+
+<sup>2</sup> Pour les cas particuliers définis à l'alinéa 1 du présent article, le Conseil d'Etat peut décider d'un aménagement de la base de calcul de la contribution communale ainsi que de modalités de versement. La méthode de calcul retenue pour la fixation de la contribution communale doit respecter le principe de l'équité de traitement entre les différentes communes sites.
+
+#### Art. 6b
+
+**Nouvelle localisation ou investissement majeur pour une institution tertiaire**
+
+<sup>1</sup> En cas de nouvelle localisation d’une institution tertiaire sur leur territoire, la ou les communes concernées doivent donner leur accord préalable à la décision du Grand Conseil relative à sa localisation.
+
+<sup>2</sup> En cas d'investissement majeur d'une institution tertiaire sur leur territoire, la ou les communes concernées donnent leur préavis.
+
+<sup>3</sup> Une rencontre de coordination est organisée régulièrement entre les communes sièges, les institutions tertiaires concernées et le département en charge de la formation.
+
+<sup>4</sup> Un règlement du Conseil d'Etat précise les notions de nouvelle localisation et d’investissement majeur des institutions tertiaires.
 
 #### Art. 7
 
-**Période de calcul et versement de la contribution**
+**Modalités de perception et redistribution des contributions des communes sièges par l'Etat**
 
-<sup>1</sup> La contribution annuelle des communes sièges aux dépenses prévues à l'article 5, alinéa 2, lettres b et c ainsi qu'aux charges d'exploitation prévues à l'article 6 est calculée et enregistrée sur les comptes de l'année civile.
+<sup>1</sup> Les contributions annuelles mentionnées aux articles 5 et ​6a de la présente loi sont proposées par les institutions tertiaires à ​l’Etat, qui les vérifie, ​les facture aux communes sièges et les redistribue aux institutions tertiaires concernées. Elles sont calculées et enregistrées sur les comptes de l'année civile des institutions tertiaires, respectivement dans ceux de la ou des communes sièges.
 
-<sup>2</sup> Leur participation aux coûts prévus à l'article 5, alinéa 2, lettre a est versée par acomptes échelonnés sur trois ans au plus à partir de l'utilisation des locaux.
+<sup>2</sup> Les contributions des communes sièges aux coûts prévus à l'article 5 alinéa 1 lettre b peuvent être versées selon des modalités financières réglées par une convention établie entre l'Etat et la commune siège.
+
+<sup>3</sup> Les modalités de perception des contributions des communes sièges et leur redistribution aux institutions concernées par l'Etat sont fixées dans un règlement du Conseil d'Etat.
 
 #### Art. 8
 
 **Clauses transitoires**
 
-Jusqu'à l'entrée en vigueur de la présente loi, les anciennes dispositions fixant la contribution des communes sièges des écoles cantonales du degré tertiaire restent applicables.
+<sup>1</sup> Jusqu'à l'entrée en vigueur de la présente loi, les anciennes dispositions fixant la contribution des communes sièges des écoles cantonales du degré tertiaire restent applicables.
 
 #### Art. 9
 
 **Clauses abrogatoires**
 
-Dès l'entrée en vigueur de la présente loi, toutes les dispositions contraires sont abrogées, notamment:
+<sup>1</sup> Dès l'entrée en vigueur de la présente loi, toutes les dispositions contraires sont abrogées, notamment:
 
-- a) l'article 6 du décret du 10 novembre 1982 concernant la création d'un centre valaisan de formation touristique;
-
-- b) l'article 25 du décret du 26 juin 1987 concernant la création de l'école d'ingénieurs ETS du canton du Valais (EIV);
-
-- c) les articles 1er et 17 du décret du 29 janvier 1988 concernant la création d'une école supérieure de cadres pour l'économie et l'administration (ESCEA) à Viège;
-
-- d) les articles 1er, 18 et 19 du décret du 29 janvier 1988 concernant la création d'une école supérieure de cadres pour l'économie et l'administration (ESCEA) et l'achat à cette fin des immeubles du collège Regina Pacis à Saint-Maurice;
-
-- e) l'article 19 du décret du 25 mars 1988 concernant la création d'une école technique cantonale en informatique (ETC) à Sierre.
+- a) l'article 6 du décret concernant la création d'un centre valaisan de formation touristique du 10 novembre 1982;
+- b) l'article 25 du décret concernant la création de l'école d'ingénieurs ETS du canton du Valais (EIV) du 26 juin 1987;
+- c) les articles 1 et 17 du décret concernant la création d'une école supérieure de cadres pour l'économie et l'administration (ESCEA) à Viège du 29 janvier 1988;
+- d) les articles 1, 18 et 19 du décret concernant la création d'une école supérieure de cadres pour l'économie et l'administration (ESCEA) et l'achat à cette fin des immeubles du collège Regina Pacis à Saint-Maurice du 29 janvier 1988;
+- e) l'article 19 du décret concernant la création d'une école technique cantonale en informatique (ETC) à Sierre du 25 mars 1988.
 
 #### Art. 10
 
@@ -142,18 +210,28 @@ Dès l'entrée en vigueur de la présente loi, toutes les dispositions contraire
 
 <sup>2</sup> Le Conseil d'Etat est chargé de son exécution; il fixe la date de son entrée en vigueur qui peut être différenciée par école et commune siège.
 
-Ainsi adopté en deuxième lecture au Grand Conseil, à Sion, le 11 novembre 1999.
+## T1 Dispositions transitoires de la modification du 16 décembre 2021
 
-La présidente du Grand Conseil: Marie-Paule Zufferey-Ravaz Les secrétaires: Madeleine Mayor, Hans-Peter Constantin
+#### Art. T1-1
 
-**Entrée en**
+**Procédures pendantes**
 
-### Intitulé et modifications Publication
+<sup>1</sup> Les procédures déjà introduites avant l’entrée en vigueur de la modification de la loi du 16 décembre 2021 sont poursuivies selon l’ancien droit.
 
-**1.04.2000**
+#### Art. T1-2
 
-vigueur RO/VS 2000, 22
+**Contributions des communes sièges aux charges d'exploitation durant une période transitoire de 3 ans**
 
-## Autres notes
+<sup>1</sup> Le calcul des contributions des communes sièges aux charges d'exploitation est aménagé comme suit pendant une période transitoire de 3 ans depuis l’entrée en vigueur de la loi révisée:
 
-- [2] Nouvelle teneur selon ch. II/7 de la loi BO No 38/2011 1.01.2012 concernant la deuxième étape de la mise en oevre de la réforme de la pérequation financière et de la répartition des tâches entre la Confédération, le canton et les communes du 15.09.2011
+- a) les contributions des communes sièges aux charges d'exploitation pour la période transitoire sont arrêtées selon les montants calculés pour l'année 2022;
+- b) elles sont diminuées de 25 pour cent pour la 1<sup>re</sup> année, de 50 pour cent pour la 2<sup>e</sup> année et de 75 pour cent pour la 3<sup>e</sup> année;
+- c) à compter de la 4<sup>e</sup> année, il n’y a plus d’obligation légale pour les communes sièges de participer aux charges d'exploitation des institutions cantonales de formation et de recherche du degré tertiaire.
+
+#### Art. T1-2bis
+
+**Conséquences sur la péréquation financière**
+
+<sup>1</sup> La modification du 16 décembre 2021 ne peut pas être prise en compte comme critère servant à mesurer l'évolution des disparités de ressources entre les communes au sens de l'article 8 alinéa 3 de la Loi sur la péréquation financière intercommunale.
+
+RCV BO/Abl. 52/1999, 14/2000
