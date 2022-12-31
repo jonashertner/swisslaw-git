@@ -4,13 +4,12 @@ number: "632.1"
 title: Gesetz über die Gemeindesteuern
 short: GStG
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-03-22
+version: 2023-01-01
+version_adopted: 2021-03-26
 adopted: 1963-05-10
 in_force: 1964-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/632.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6642/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gemeindesteuern – G
 
 (GStG)
 
-vom 10.05.1963 (Fassung in Kraft getreten am 01.01.2021)
+vom 10.05.1963 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -43,7 +42,9 @@ beschliesst:
 
 <sup>3</sup> Es gibt ordentliche und besondere Steuern.
 
-<sup>4</sup> Die allgemeinen Vorschriften des Gesetzes über die direkten Kantonssteuern sind sinngemäss anwendbar; vorbehalten bleiben die Bussenverfügungen und die besonderen Bestimmungen dieses Gesetzes.
+<sup>4</sup> Die allgemeinen Vorschriften des Gesetzes über die direkten Kantonssteuern[^1-1] sind sinngemäss anwendbar; vorbehalten bleiben die Bussenverfügungen und die besonderen Bestimmungen dieses Gesetzes.
+
+[^1-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 2
 
@@ -168,7 +169,7 @@ beschliesst:
 
 **Erbschafts- und Schenkungssteuer**
 
-<sup>1</sup> Die Gemeinden können auf der Erbschafts- und Schenkungssteuer für unentgeltliche Zuwendungen unter Lebenden oder von Todes wegen eine Zusatzabgabe erheben bis zur Höhe des Satzes nach dem Gesetz über die Erbschafts- und Schenkungssteuer.
+<sup>1</sup> Die Gemeinden können auf der Erbschafts- und Schenkungssteuer für unentgeltliche Zuwendungen unter Lebenden oder von Todes wegen eine Zusatzabgabe erheben bis zur Höhe des Satzes nach dem Gesetz über die Erbschafts- und Schenkungssteuer[^15-1].
 
 <sup>2</sup> Eine Zuweisung als Stiftungsgründungskapital wird einer unentgeltlichen Zuwendung gleichgesetzt.
 
@@ -176,11 +177,15 @@ beschliesst:
 
 <sup>4</sup> Beinhaltet eine Erbschaft, ein Vermächtnis oder eine Schenkung ein Grundstück, so werden die Zusatzabgaben verhältnismässig jener Gemeinde geschuldet, in der das Grundstück liegt.
 
+[^15-1]: SGF [635.2.1](https://bdlf.fr.ch/data/635.2.1/de)
+
 #### Art. 16
 
 **Handänderungsgebühren**
 
-<sup>1</sup> Die Gemeinden können Zusatzabgaben auf den Handänderungssteuern für Übertragungen von in ihrem Gebiet gelegenen Grundstücken erheben, und zwar bis zur Höhe des Satzes, der im Gesetz über die Handänderungs- und Grundpfandrechtssteuern festgesetzt ist.
+<sup>1</sup> Die Gemeinden können Zusatzabgaben auf den Handänderungssteuern für Übertragungen von in ihrem Gebiet gelegenen Grundstücken erheben, und zwar bis zur Höhe des Satzes, der im Gesetz über die Handänderungs- und Grundpfandrechtssteuern[^16-1] festgesetzt ist.
+
+[^16-1]: SGF [635.1.1](https://bdlf.fr.ch/data/635.1.1/de)
 
 #### Art. 17
 
@@ -202,11 +207,7 @@ beschliesst:
 
 #### Art. 21
 
-**Feuerwehrpflichtersatz**
-
-<sup>1</sup> Die Gemeinden können eine jährliche Feuerwehrpflichtersatzabgabe nach Massgabe der Bestimmungen des Gesetzes über die Feuerpolizei erheben.
-
-<sup>2</sup> Diese Abgabe kann so lange erhoben werden, als die Feuerwehrpflicht besteht.
+**…**
 
 #### Art. 22
 
@@ -238,7 +239,7 @@ beschliesst:
 
 **Zeitweilige Abgaben**
 
-<sup>1</sup> Zur Deckung der Kosten von Arbeiten für Verkehrswege, Gewässerverbauungen, Sanierungen, Wasserversorgungen können die Gemeinden eine zeitweilige Abgabe erheben.
+<sup>1</sup> Zur Deckung der Kosten von Arbeiten für Gewässerverbauungen, Sanierungen, Wasserversorgungen und von Bau und Erneuerung von Mobilitätsinfrastrukturen können die Gemeinden eine zeitweilige Abgabe erheben.
 
 <sup>2</sup> Diese Abgabe trifft die Grundeigentümer im Verhältnis zu dem von jedem einzelnen aus den ausgeführten Arbeiten erzielten Nutzen.
 
@@ -326,13 +327,15 @@ beschliesst:
 
 **Einschätzung und Bezug**
 
-<sup>1</sup> Die Gemeinden können die Einschätzung für ihre besonderen Steuern selbst vornehmen . Die Gemeinden bestimmen den Steuerwert von Liegenschaften, die in Anwendung des Gesetzes über die Kantonssteuern von den Steuern befreit, jedoch aufgrund des vorliegenden Gesetzes der Steuerpflicht unterstellt sind.
+<sup>1</sup> Die Gemeinden können die Einschätzung für ihre besonderen Steuern selbst vornehmen . Die Gemeinden bestimmen den Steuerwert von Liegenschaften, die in Anwendung des Gesetzes über die Kantonssteuern[^41-1] von den Steuern befreit, jedoch aufgrund des vorliegenden Gesetzes der Steuerpflicht unterstellt sind.
 
 <sup>2</sup> Sie erstellen alljährlich das Bezugsrodel und stellen den Steuerpflichtigen die Steuerrechnung zu.
 
 <sup>3</sup> Die Gemeindesteuern können auf Grund einer Vereinbarung mit den interessierten Gemeinden von der Kantonalen Steuerverwaltung bezogen werden.
 
 <sup>4</sup> Die Veranlagung und die Erhebung der Zusatzabgaben auf den Handänderungssteuern für Grundstückübertragungen und auf den Erbschafts- und Schenkungssteuern werden durch die Spezialgesetzgebung geregelt.
+
+[^41-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 42
 
@@ -344,9 +347,12 @@ beschliesst:
 
 <sup>2</sup> Der Einspracheentscheid ist durch Beschwerde an das Kantonsgericht anfechtbar.
 
-<sup>3</sup> Das Verfahren bestimmt sich durch die sinngemässe Anwendung der Rechtsmittelbestimmungen des Gesetzes über die Kantonssteuern und im übrigen nach dem Gesetz über die Verwaltungsrechtspflege.
+<sup>3</sup> Das Verfahren bestimmt sich durch die sinngemässe Anwendung der Rechtsmittelbestimmungen des Gesetzes über die Kantonssteuern[^42-1] und im übrigen nach dem Gesetz über die Verwaltungsrechtspflege[^42-2].
 
 <sup>4</sup> Entscheide über Einregistrierungsgebühren sind nach dem Gesetz betreffend die Einregistrierungsgebühren anfechtbar.
+
+[^42-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
+[^42-2]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 43
 

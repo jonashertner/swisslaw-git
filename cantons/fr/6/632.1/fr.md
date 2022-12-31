@@ -4,13 +4,12 @@ number: "632.1"
 title: Loi sur les impôts communaux
 short: LICo
 language: fr
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-03-22
+version: 2023-01-01
+version_adopted: 2021-03-26
 adopted: 1963-05-10
 in_force: 1964-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/632.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6642/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8653/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Impôts communaux – L
 
 (LICo)
 
-du 10.05.1963 (version entrée en vigueur le 01.01.2021)
+du 10.05.1963 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -43,7 +42,9 @@ Décrète:
 
 <sup>3</sup> Les impôts sont appelés ordinaires ou spéciaux.
 
-<sup>4</sup> Les règles générales de la loi sur les impôts cantonaux directs sont applicables par analogie, sous réserve des prononcés d'amendes et des dispositions particulières de la présente loi.
+<sup>4</sup> Les règles générales de la loi sur les impôts cantonaux directs[^1-1] sont applicables par analogie, sous réserve des prononcés d'amendes et des dispositions particulières de la présente loi.
+
+[^1-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 2
 
@@ -168,7 +169,7 @@ Décrète:
 
 **Impôt sur les successions et les donations**
 
-<sup>1</sup> Les communes peuvent décider le prélèvement de centimes additionnels à l'impôt sur les successions et les donations perçu sur les libéralités entre vifs ou pour cause de mort, jusqu'à concurrence du taux fixé par la loi sur l'impôt sur les successions et les donations.
+<sup>1</sup> Les communes peuvent décider le prélèvement de centimes additionnels à l'impôt sur les successions et les donations perçu sur les libéralités entre vifs ou pour cause de mort, jusqu'à concurrence du taux fixé par la loi sur l'impôt sur les successions et les donations[^15-1].
 
 <sup>2</sup> Une attribution faite à titre de capital constitutif de fondation est assimilable à une libéralité.
 
@@ -176,11 +177,15 @@ Décrète:
 
 <sup>4</sup> Si une succession, un legs ou une libéralité porte sur un immeuble, les centimes additionnels sont dus proportionnellement à la commune de son lieu de situation.
 
+[^15-1]: RSF [635.2.1](https://bdlf.fr.ch/data/635.2.1/fr)
+
 #### Art. 16
 
 **Droits de mutation**
 
-<sup>1</sup> Les communes peuvent décider le prélèvement de centimes additionnels aux droits de mutation pour les transferts immobiliers portant sur des immeubles situés sur leur territoire, jusqu'à concurrence du taux fixé par la loi sur les droits de mutation et les droits sur les gages immobiliers.
+<sup>1</sup> Les communes peuvent décider le prélèvement de centimes additionnels aux droits de mutation pour les transferts immobiliers portant sur des immeubles situés sur leur territoire, jusqu'à concurrence du taux fixé par la loi sur les droits de mutation et les droits sur les gages immobiliers[^16-1].
+
+[^16-1]: RSF [635.1.1](https://bdlf.fr.ch/data/635.1.1/fr)
 
 #### Art. 17
 
@@ -202,11 +207,7 @@ Décrète:
 
 #### Art. 21
 
-**Taxe d'exemption du service de sapeurs-pompiers**
-
-<sup>1</sup> Les communes peuvent prélever une taxe annuelle d'exemption du service de sapeurs-pompiers, conformément à la loi sur la police du feu.
-
-<sup>2</sup> Cette taxe peut être perçue aussi longtemps que dure l'obligation du service personnel.
+**…**
 
 #### Art. 22
 
@@ -238,7 +239,7 @@ Décrète:
 
 **Contribution temporaire**
 
-<sup>1</sup> Les communes peuvent percevoir une contribution temporaire pour couvrir les frais d'exécution de travaux, tels que voies de communication, endiguements, assainissements, adduction d'eau.
+<sup>1</sup> Les communes peuvent percevoir une contribution temporaire pour couvrir les frais d'exécution de travaux, tels qu'endiguements, assainissements, adduction d'eau, ainsi que de construction ou réaménagement d'infrastructures de mobilité.
 
 <sup>2</sup> Cette contribution atteint les propriétaires, en proportion des avantages que chacun retire des travaux exécutés.
 
@@ -326,13 +327,15 @@ Décrète:
 
 **Taxation et perception**
 
-<sup>1</sup> Les communes peuvent procéder à la taxation pour leurs impôts spéciaux. Les communes fixent la valeur fiscale des immeubles, exonérés selon la loi sur les impôts cantonaux, mais qui sont imposables en vertu de la présente loi.
+<sup>1</sup> Les communes peuvent procéder à la taxation pour leurs impôts spéciaux. Les communes fixent la valeur fiscale des immeubles, exonérés selon la loi sur les impôts cantonaux[^41-1], mais qui sont imposables en vertu de la présente loi.
 
 <sup>2</sup> Ils établissent chaque année le rôle de perception et notifient les bordereaux d'impôts.
 
 <sup>3</sup> Les impôts communaux peuvent être prélevés par le Service cantonal des contributions sur la base d'une convention passée avec les communes intéressées.
 
 <sup>4</sup> La taxation et la perception des centimes additionnels aux droits de mutation pour les transferts immobiliers et aux droits de succession et de donation sont régies par la législation spéciale.
+
+[^41-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 42
 
@@ -344,9 +347,12 @@ Décrète:
 
 <sup>2</sup> La décision sur réclamation est sujette à recours au Tribunal cantonal.
 
-<sup>3</sup> La procédure est régie par l'application analogique des dispositions de la loi sur les impôts cantonaux relatives aux voies de droit et, pour le surplus, par le code de procédure et de juridiction administrative.
+<sup>3</sup> La procédure est régie par l'application analogique des dispositions de la loi sur les impôts cantonaux[^42-1] relatives aux voies de droit et, pour le surplus, par le code de procédure et de juridiction administrative[^42-2].
 
 <sup>4</sup> Les décisions concernant les droits d'enregistrement sont attaquables conformément à la loi sur les droits d'enregistrement.
+
+[^42-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
+[^42-2]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 43
 
