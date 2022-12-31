@@ -4,13 +4,13 @@ number: "732.111.1"
 title: Strassenverordnung
 short: SV
 language: de
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-11-13
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2022-11-16
 adopted: 2008-10-29
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/732.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1744/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2738/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1744/pdf_file"
 
 (SV)
 
-vom 29.10.2008 (Stand 01.01.2020)
+vom 29.10.2008 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -405,9 +405,9 @@ beschliesst:
 
 #### Art. 36
 
-**Voranschlagskredit für den betrieblichen Unterhalt**
+**Budgetkredit für den betrieblichen Unterhalt**
 
-<sup>1</sup> Der betriebliche Unterhalt der Kantonsstrassen wird aus einem Voranschlagskredit finanziert und in der laufenden Rechnung abgerechnet.
+<sup>1</sup> Der betriebliche Unterhalt der Kantonsstrassen wird aus einem Budgetkredit finanziert und in der Laufenden Rechnung abgerechnet.
 
 <sup>2</sup> Er umfasst insbesondere die Reinigung einer Strasse, die Grünpflege und den Winterdienst, die Instandhaltung sowie Kleinreparaturen.
 

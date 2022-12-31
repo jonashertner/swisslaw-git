@@ -4,13 +4,13 @@ number: "732.111.1"
 title: Ordonnance sur les routes
 short: OR
 language: fr
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-11-13
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2022-11-16
 adopted: 2008-10-29
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/732.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1744/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2738/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1744/pdf_file"
 
 (OR)
 
-du 29.10.2008 (état au 01.01.2020)
+du 29.10.2008 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
