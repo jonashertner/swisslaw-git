@@ -4,20 +4,20 @@ title: Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversi
 short: AHVV
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20220101/de/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230101/de/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Alters- und Hinterlassenenversicherung
 
-(AHVV)**[^t-1]**
+(AHVV)[^t-1]
 
-vom 31. Oktober 1947 (Stand am 1. Januar 2022)
+vom 31. Oktober 1947 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -25,7 +25,7 @@ Der Schweizerische Bundesrat,
 
 gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) und auf Artikel 154 Absatz 2 des Bundesgesetzes vom 20. Dezember 1946[^ingress-2] über die Alters- und Hinterlassenenversicherung (AHVG),[^ingress-3]
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-4]
 
 [^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^ingress-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
@@ -34,7 +34,7 @@ verordnet:*[^ingress-4]*
 
 ## Erster Abschnitt: Die versicherten Personen
 
-### A.**** Versicherungsunterstellung
+### A. Versicherungsunterstellung
 
 [^chap1-lvlA-1]
 
@@ -61,7 +61,7 @@ Das Internationale Komitee vom Roten Kreuz ist eine internationale Organisation,
 [^1a-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^1a-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
-### B. Ausnahmen von der Versicherung****
+### B. Ausnahmen von der Versicherung
 
 [^chap1-lvlB-1]
 
@@ -112,7 +112,7 @@ Als verhältnismässig kurze Zeit nach Artikel 1*a* Absatz 2 Buchstabe c AHVG gi
 
 [^4-1]: Aufgehoben durch Ziff. I der V vom 30. Sept. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
 
-### C.**** Beitritt zur Versicherung
+### C. Beitritt zur Versicherung
 
 [^chap1-lvlC-1]
 
@@ -155,7 +155,7 @@ Zur Weiterführung der Versicherung ist der zuständigen Ausgleichskasse ein Ges
 
 [^5c-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
-### II. Personen mit Wohnsitz in der Schweiz, die auf Grund zwischenstaatlicher Vereinbarung nicht versichert sind****
+### II. Personen mit Wohnsitz in der Schweiz, die auf Grund zwischenstaatlicher Vereinbarung nicht versichert sind
 
 [^chap1-lvlC-lvlII-1]
 
@@ -187,7 +187,7 @@ Der Versicherung können Personen beitreten, die ihren Wohnsitz in der Schweiz h
 
 [^5f-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2629](https://fedlex.data.admin.ch/eli/oc/2000/423)).
 
-### III.**** Nichterwerbstätige Studierende mit Wohnsitz im Ausland
+### III. Nichterwerbstätige Studierende mit Wohnsitz im Ausland
 
 [^chap1-lvlC-lvlIII-1]
 
@@ -215,7 +215,7 @@ Der Versicherung können Personen beitreten, die ihren Wohnsitz in der Schweiz h
 
 <sup>2</sup> Versicherte, die ihren Jahresbeitrag bis zum 31. Dezember des folgenden Kalenderjahres nicht vollständig bezahlen, werden rückwirkend aus der Versicherung ausgeschlossen. Dasselbe gilt, wenn sie der Ausgleichskasse die verlangten Belege nicht bis zum 31. Dezember des Folgejahres einreichen. Vor Ablauf der Frist stellt die Ausgleichskasse den Versicherten eine eingeschriebene Mahnung mit Androhung des Ausschlusses zu.
 
-### IV.**** Nichterwerbstätige Personen, die ihren versicherten Ehegatten ins Ausland begleiten
+### IV. Nichterwerbstätige Personen, die ihren versicherten Ehegatten ins Ausland begleiten
 
 [^chap1-lvlC-lvlIV-1]
 
@@ -535,35 +535,35 @@ Vom Einkommen aus einer nebenberuflich ausgeübten selbstständigen Erwerbstäti
 
 **Sinkende Beitragsskala für Selbstständigerwerbende**[^21-1]
 
-<sup>1</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit mindestens 9600 Franken, aber weniger als 57 400 Franken im Jahr, so werden die Beiträge wie folgt berechnet:
+<sup>1</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit mindestens 9800 Franken, aber weniger als 58 800 Franken im Jahr, so werden die Beiträge wie folgt berechnet:
 
 <table>
-<tr><th colspan="2">Jährliches Erwerbseinkommen in Franken</th><th></th><th>Beitragssatz in Prozenten des Erwerbseinkommens</th></tr>
+<tr><th colspan="2">Jährliches Erwerbseinkommen in Franken</th><th></th><th>Beitragssatz in Prozent des Erwerbseinkommens</th></tr>
 <tr><th>von mindestens</th><th colspan="2">aber weniger als</th><th></th></tr>
-<tr><td>9 600</td><td colspan="2">17 400</td><td>4,35</td></tr>
-<tr><td>17 400</td><td colspan="2">21 400</td><td>4,45</td></tr>
-<tr><td>21 400</td><td colspan="2">23 800</td><td>4,55</td></tr>
-<tr><td>23 800</td><td colspan="2">26 200</td><td>4,65</td></tr>
-<tr><td>26 200</td><td colspan="2">28 600</td><td>4,75</td></tr>
-<tr><td>28 600</td><td colspan="2">31 000</td><td>4,85</td></tr>
-<tr><td>31 000</td><td colspan="2">33 400</td><td>5,05</td></tr>
-<tr><td>33 400</td><td colspan="2">35 800</td><td>5,25</td></tr>
-<tr><td>35 800</td><td colspan="2">38 200</td><td>5,45</td></tr>
-<tr><td>38 200</td><td colspan="2">40 600</td><td>5,65</td></tr>
-<tr><td>40 600</td><td colspan="2">43 000</td><td>5,85</td></tr>
-<tr><td>43 000</td><td colspan="2">45 400</td><td>6,05</td></tr>
-<tr><td>45 400</td><td colspan="2">47 800</td><td>6,35</td></tr>
-<tr><td>47 800</td><td colspan="2">50 200</td><td>6,65</td></tr>
-<tr><td>50 200</td><td colspan="2">52 600</td><td>6,95</td></tr>
-<tr><td>52 600</td><td colspan="2">55 000</td><td>7,25</td></tr>
-<tr><td>55 000</td><td colspan="2">57 400</td><td>7,55</td></tr>
+<tr><td>9 800</td><td colspan="2">17 500</td><td>4,35</td></tr>
+<tr><td>17 500</td><td colspan="2">21 300</td><td>4,45</td></tr>
+<tr><td>21 300</td><td colspan="2">23 800</td><td>4,55</td></tr>
+<tr><td>23 800</td><td colspan="2">26 300</td><td>4,65</td></tr>
+<tr><td>26 300</td><td colspan="2">28 800</td><td>4,75</td></tr>
+<tr><td>28 800</td><td colspan="2">31 300</td><td>4,85</td></tr>
+<tr><td>31 300</td><td colspan="2">33 800</td><td>5,05</td></tr>
+<tr><td>33 800</td><td colspan="2">36 300</td><td>5,25</td></tr>
+<tr><td>36 300</td><td colspan="2">38 800</td><td>5,45</td></tr>
+<tr><td>38 800</td><td colspan="2">41 300</td><td>5,65</td></tr>
+<tr><td>41 300</td><td colspan="2">43 800</td><td>5,85</td></tr>
+<tr><td>43 800</td><td colspan="2">46 300</td><td>6,05</td></tr>
+<tr><td>46 300</td><td colspan="2">48 800</td><td>6,35</td></tr>
+<tr><td>48 800</td><td colspan="2">51 300</td><td>6,65</td></tr>
+<tr><td>51 300</td><td colspan="2">53 800</td><td>6,95</td></tr>
+<tr><td>53 800</td><td colspan="2">56 300</td><td>7,25</td></tr>
+<tr><td>56 300</td><td colspan="2">58 800</td><td>7,55</td></tr>
 </table>
 
-<sup>2</sup> Beträgt das nach Artikel 6<sup>quater</sup> anrechenbare Einkommen weniger als 9600 Franken, so hat der Versicherte einen Beitrag von 4,35 Prozent zu entrichten.
+<sup>2</sup> Beträgt das nach Artikel 6<sup>quater</sup> anrechenbare Einkommen weniger als 9800 Franken, so hat die versicherte Person einen Beitrag von 4,35 Prozent zu entrichten, höchstens aber den Mindestbeitrag.
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4605](https://fedlex.data.admin.ch/eli/oc/2020/818)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 
-### 2. Festsetzung und Ermittlung der Beiträge****
+### 2. Festsetzung und Ermittlung der Beiträge
 
 [^chap2-lvlA-lvlII-lvl2-1]
 
@@ -658,7 +658,7 @@ Vom Einkommen aus einer nebenberuflich ausgeübten selbstständigen Erwerbstäti
 [^27-2]: Fassung gemäss Ziff. I der V vom 19. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
 [^27-3]: Fassung gemäss Ziff. I der V vom 24. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 
-### B. Die Beiträge der Nichterwerbstätigen****
+### B. Die Beiträge der Nichterwerbstätigen
 
 [^chap2-lvlB-1]
 
@@ -668,37 +668,39 @@ Vom Einkommen aus einer nebenberuflich ausgeübten selbstständigen Erwerbstäti
 
 **Bemessung der Beiträge**[^28-1]
 
-<sup>1</sup> Die Beiträge der Nichterwerbstätigen, für die nicht der jährliche Mindestbeitrag von 413 Franken (Art. 10 Abs. 2 AHVG) vorgesehen ist, bemessen sich aufgrund ihres Vermögens und ihres Renteneinkommens. Nicht zum Renteneinkommen gehören die Renten nach den Artikeln 36 und 39 IVG[^28-2]. Die Beiträge werden wie folgt berechnet:
+<sup>1</sup> Die Beiträge der Nichterwerbstätigen, für die nicht der jährliche Mindestbeitrag von 422 Franken (Art. 10 Abs. 2 AHVG) vorgesehen ist, bemessen sich aufgrund ihres Vermögens und ihres Renteneinkommens. Nicht zum Renteneinkommen gehören die Renten nach den Artikeln 36 und 39 IVG[^28-2]. Die Beiträge werden wie folgt berechnet:
 
 <table>
-<tr><td colspan="2">Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</td><td></td><td>Jahresbeitrag Franken</td><td>Zuschlag für je weitere 50 000 Franken Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</td></tr>
-<tr><td>weniger als</td><td colspan="2">300 000</td><td>413</td><td>–</td></tr>
-<tr><td></td><td colspan="2">300 000</td><td>435</td><td>87</td></tr>
-<tr><td></td><td colspan="2">1 750 000</td><td>2 958</td><td>130,50</td></tr>
-<tr><td></td><td colspan="2">8 550 000 und mehr</td><td>20 650</td><td>–.[^28-3]</td></tr>
+<tr><th colspan="2">Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th><th></th><th>Jahresbeitrag Franken</th><th>Zuschlag für jede weitere Stufe von 50 000 Franken Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th></tr>
+<tr><td>bis</td><td colspan="2">340 000</td><td>422</td><td>–</td></tr>
+<tr><td>ab</td><td colspan="2">340 000</td><td>504.60</td><td>87</td></tr>
+<tr><td>ab</td><td colspan="2">1 740 000</td><td>2 940.60</td><td>130.50</td></tr>
+<tr><td>ab</td><td colspan="2">8 740 000</td><td>21 100</td><td>–.[^28-3]</td></tr>
 </table>
 
-<sup>2</sup> Verfügt ein Nichterwerbstätiger gleichzeitig über Vermögen und Renteneinkommen, so wird der mit 20 multiplizierte jährliche Rentenbetrag zum Vermögen hinzugerechnet.
+<sup>2</sup> Verfügt eine nichterwerbstätige Person gleichzeitig über Vermögen und Renteneinkommen, so wird der mit 20 multiplizierte jährliche Rentenbetrag zum Vermögen hinzugerechnet.[^28-4]
 
-<sup>3</sup> Für die Berechnung des Beitrages ist das Vermögen einschliesslich des mit 20 multiplizierten jährlichen Rentenbetrages auf die nächsten 50000 Franken abzurunden.
+<sup>3</sup> Für die Berechnung des Beitrages ist das Vermögen einschliesslich des mit 20 multiplizierten jährlichen Rentenbetrages auf die nächsttiefere Vermögensstufe abzurunden.[^28-5]
 
-<sup>4</sup> Ist eine verheiratete Person als Nichterwerbstätige beitragspflichtig, so bemessen sich ihre Beiträge aufgrund der Hälfte des ehelichen Vermögens und Renteneinkommens. Dies gilt ebenfalls für das ganze Kalenderjahr der Heirat. Im ganzen Kalenderjahr der Scheidung bemessen sich die Beiträge nach Absatz 1. Dasselbe gilt für die Zeit nach der Verwitwung.[^28-4]
+<sup>4</sup> Ist eine verheiratete Person als Nichterwerbstätige beitragspflichtig, so bemessen sich ihre Beiträge aufgrund der Hälfte des ehelichen Vermögens und Renteneinkommens. Dies gilt ebenfalls für das ganze Kalenderjahr der Heirat. Im ganzen Kalenderjahr der Scheidung bemessen sich die Beiträge nach Absatz 1. Dasselbe gilt für die Zeit nach der Verwitwung.[^28-6]
 
-<sup>4bis</sup> …[^28-5]
+<sup>4bis</sup> …[^28-7]
 
-<sup>5</sup> Nichterwerbstätige Ehegatten, deren Beiträge nicht als bezahlt gelten (Art. 3 Abs. 3 AHVG), haben sich bei der zuständigen Ausgleichskasse zu melden.[^28-6]
+<sup>5</sup> Nichterwerbstätige Ehegatten, deren Beiträge nicht als bezahlt gelten (Art. 3 Abs. 3 AHVG), haben sich bei der zuständigen Ausgleichskasse zu melden.[^28-8]
 
-<sup>6</sup> Nichterwerbstätige, die Leistungen nach dem Bundesgesetz vom 6. Oktober 2006[^28-7] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung oder nach dem Bundesgesetz vom 19. Juni 2020[^28-8] über Überbrückungsleistungen für ältere Arbeitslose beziehen, bezahlen den Mindestbeitrag.[^28-9]
+<sup>6</sup> Nichterwerbstätige, die Leistungen nach dem Bundesgesetz vom 6. Oktober 2006[^28-9] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung oder nach dem Bundesgesetz vom 19. Juni 2020[^28-10] über Überbrückungsleistungen für ältere Arbeitslose beziehen, bezahlen den Mindestbeitrag.[^28-11]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 17. Juni 1985, in Kraft seit 1. Jan. 1986 ([AS 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 [^28-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^28-3]: Fassung gemäss Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4605](https://fedlex.data.admin.ch/eli/oc/2020/818)).
-[^28-4]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Fassung gemäss Ziff. I der V vom 20. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)).
-[^28-5]: Eingefügt durch Ziff. I der V vom 20. Sept. 2002 ([AS 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)). Aufgehoben durch Ziff. I der V vom 19. Okt. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
-[^28-6]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^28-7]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^28-8]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
-[^28-9]: Eingefügt durch Ziff. I der V vom 24. Sept. 2010 ([AS 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Fassung gemäss Anhang Ziff. 1 der V vom 11. Juni 2021 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
+[^28-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^28-4]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^28-5]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^28-6]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Fassung gemäss Ziff. I der V vom 20. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)).
+[^28-7]: Eingefügt durch Ziff. I der V vom 20. Sept. 2002 ([AS 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)). Aufgehoben durch Ziff. I der V vom 19. Okt. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
+[^28-8]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^28-9]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^28-10]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^28-11]: Eingefügt durch Ziff. I der V vom 24. Sept. 2010 ([AS 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Fassung gemäss Anhang Ziff. 1 der V vom 11. Juni 2021 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
 
 #### Art. 28<sup>bis</sup>
 
@@ -779,7 +781,7 @@ Der Bezug der Beiträge kann einer Lehranstalt übertragen werden, wenn sie mit 
 [^30-2]: Die Berichtigung vom 16. Juni 2020 betrifft nur den italienischen Text ([AS 2020 2185](https://fedlex.data.admin.ch/eli/oc/2020/435)).
 [^30-3]: Aufgehoben durch Ziff. I der V vom 16. Sept. 1996, mit Wirkung seit 1. Jan. 1997 ([AS 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758)).
 
-### C. Herabsetzung und Erlass der Beiträge für Selbständigerwerbende und Nichterwerbstätige****
+### C. Herabsetzung und Erlass der Beiträge für Selbständigerwerbende und Nichterwerbstätige
 
 [^chap2-lvlC-1]
 
@@ -829,13 +831,13 @@ Von der Beitragspflicht als Arbeitgeber sind ausgenommen:
 [^33-3]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^33-4]: Fassung gemäss Anhang Ziff. 14 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
-### E. Beitragsbezug****
+### E. Beitragsbezug
 
 [^chap2-lvlE-1]
 
 [^chap2-lvlE-1]: Fassung gemäss Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 
-### I. Allgemeines****
+### I. Allgemeines
 
 [^chap2-lvlE-lvlI-1]
 
@@ -897,7 +899,7 @@ Es haben der Ausgleichskasse die Beiträge zu zahlen:
 [^34c-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^34c-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2824](https://fedlex.data.admin.ch/eli/oc/2000/478)).
 
-### II. Lohnbeiträge****
+### II. Lohnbeiträge
 
 [^chap2-lvlE-lvlII-1]
 
@@ -985,7 +987,7 @@ In jedem Fall entrichtet werden müssen die Beiträge:
 [^38-2]: Fassung gemäss Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^38-3]: Fassung gemäss Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 
-### III. Nachzahlung und Rückerstattung von Beiträgen****
+### III. Nachzahlung und Rückerstattung von Beiträgen
 
 [^chap2-lvlE-lvlIII-1]
 
@@ -1023,7 +1025,7 @@ Wer nicht geschuldete Beiträge entrichtet, kann sie von der Ausgleichskasse zur
 
 [^41-1]: Fassung gemäss Ziff. I des BRB vom 30. Dez. 1953, in Kraft seit 1. Jan. 1954 ([AS 1954 219](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
 
-### IV. Zinsen****
+### IV. Zinsen
 
 [^chap2-lvlE-lvlIV-1]
 
@@ -1083,7 +1085,7 @@ Verzugszinsen haben zu entrichten:
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 1. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)). Siehe dazu die SchlB. am Ende dieses Textes.
 
-### F. Haftung der Erben****
+### F. Haftung der Erben
 
 [^chap2-lvlF-1]
 
@@ -1098,7 +1100,7 @@ Stirbt ein Beitragspflichtiger, so haften seine Erben solidarisch für die von i
 [^43-1]: Aufgehoben durch Ziff. I der V vom 1. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^43-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-## Dritter Abschnitt: Die Renten und die Hilflosenentschädigung****
+## Dritter Abschnitt: Die Renten und die Hilflosenentschädigung
 
 [^chap3-1]
 
@@ -1596,7 +1598,7 @@ Die Erhöhung des durchschnittlichen Erwerbseinkommens nach Artikel 33 Absatz 3 
 [^54bis-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^54bis-2]: Aufgehoben durch Ziff. II 2 der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### C. Ausserordentliche Renten****
+### C. Ausserordentliche Renten
 
 [^chap3-lvlC-1]
 
@@ -1610,13 +1612,13 @@ Für die Kürzung der ausserordentlichen Kinder- und Waisenrenten (Art. 43 Abs. 
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### D. Das flexible Rentenalter****
+### D. Das flexible Rentenalter
 
 [^chap3-lvlD-1]
 
 [^chap3-lvlD-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### I. Der Rentenaufschub****
+### I. Der Rentenaufschub
 
 [^chap3-lvlD-lvlI-1]
 
@@ -1674,22 +1676,23 @@ Wird eine aufgeschobene Altersrente durch Hinterlassenenrenten abgelöst, so bet
 
 **Aufschubserklärung und Abruf**[^55quater-1]
 
-<sup>1</sup> Die Aufschubsdauer beginnt vom ersten Tag an zu laufen, der dem Monat folgt, in welchem das Rentenalter nach Artikel 21 Absatz 1 AHVG erreicht wurde.[^55quater-2] Der Aufschub ist innert eines Jahres vom Beginn der Aufschubsdauer an schriftlich zu erklären. Ist innert Frist keine Aufschubserklärung erfolgt, so wird die Altersrente nach den allgemein geltenden Vorschriften festgesetzt und ausbezahlt.
+<sup>1</sup> Die Aufschubsdauer beginnt vom ersten Tag an zu laufen, der dem Monat folgt, in welchem das Rentenalter nach Artikel 21 Absatz 1 AHVG erreicht wurde. Der Aufschub ist innert eines Jahres vom Beginn der Aufschubsdauer an durch Einreichen des amtlichen Formulars zu erklären. Ist innert dieser Frist keine Aufschubserklärung erfolgt, so wird die Altersrente nach den allgemein geltenden Vorschriften festgesetzt und ausbezahlt.[^55quater-2]
 
-<sup>2</sup> Der Abruf erfolgt in schriftlicher Form.
+<sup>2</sup> Der Abruf erfolgt über das amtliche Formular.[^55quater-3]
 
 <sup>3</sup> Wird eine aufgeschobene Altersrente abgerufen, so wird sie vom folgenden Monat an ausbezahlt, eine Nachzahlung von Renten ist ausgeschlossen.
 
-<sup>4</sup> Stirbt der Rentenberechtigte, so gilt die Altersrente als abgerufen.[^55quater-3]
+<sup>4</sup> Stirbt der Rentenberechtigte, so gilt die Altersrente als abgerufen.[^55quater-4]
 
-<sup>5</sup> …[^55quater-4]
+<sup>5</sup> …[^55quater-5]
 
 [^55quater-1]: Eingefügt durch Ziff. I des BRB vom 10. Jan. 1969, in Kraft seit 1. Jan. 1969 ([AS 1969 125](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^55quater-2]: Fassung gemäss Ziff. I der V vom 14. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 199](https://fedlex.data.admin.ch/eli/oc/2002/34)).
-[^55quater-3]: Fassung gemäss Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^55quater-4]: Aufgehoben durch Ziff. I der V vom 29. Nov. 1995, mit Wirkung seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55quater-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^55quater-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^55quater-4]: Fassung gemäss Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55quater-5]: Aufgehoben durch Ziff. I der V vom 29. Nov. 1995, mit Wirkung seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### II. Der Rentenvorbezug****
+### II. Der Rentenvorbezug
 
 [^chap3-lvlD-lvlII-1]
 
@@ -1724,7 +1727,7 @@ Wird eine vorbezogene Altersrente durch eine Hinterlassenenrente abgelöst, wird
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### E. Rentenvorausberechnungen****
+### E. Rentenvorausberechnungen
 
 [^chap3-lvlE-1]
 
@@ -1773,7 +1776,7 @@ Die Vorausberechnung erfolgt durch diejenige Ausgleichskasse, die bei Einreichun
 
 [^6166-1]: Aufgehoben durch Ziff. I der V vom 29. Nov. 1995, mit Wirkung seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### F.**** Die Hilflosenentschädigung und die Hilfsmittel
+### F. Die Hilflosenentschädigung und die Hilfsmittel
 
 [^chap3-lvlF-1]
 
@@ -1807,7 +1810,7 @@ Die Vorausberechnung erfolgt durch diejenige Ausgleichskasse, die bei Einreichun
 [^66ter-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 [^66ter-3]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6483](https://fedlex.data.admin.ch/eli/oc/2008/882)).
 
-### G. Das Verhältnis zur Hilflosenentschädigung der Unfallversicherung****
+### G. Das Verhältnis zur Hilflosenentschädigung der Unfallversicherung
 
 [^chap3-lvlG-1]
 
@@ -1823,13 +1826,13 @@ Die Vorausberechnung erfolgt durch diejenige Ausgleichskasse, die bei Einreichun
 
 [^66quater-1]: Eingefügt durch Ziff. I des BRB vom 10. Jan. 1969 ([AS 1969 125](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Fassung gemäss Art. 143 der V vom 20. Dez. 1982 über die Unfallversicherung, in Kraft seit 1. Jan. 1984 ([AS 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
 
-### H. Verschiedene Bestimmungen****
+### H. Verschiedene Bestimmungen
 
 [^chap3-lvlH-1]
 
 [^chap3-lvlH-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Fassung gemäss Ziff. I der V vom 18. Sept. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2629](https://fedlex.data.admin.ch/eli/oc/2000/423)).
 
-### I. Geltendmachung des Anspruchs****
+### I. Geltendmachung des Anspruchs
 
 [^chap3-lvlH-lvlI-1]
 
@@ -2033,7 +2036,7 @@ Die Ausgleichskassen können periodische Fürsorgeleistungen, die sie aufgrund e
 
 [^76bis-1]: Eingefügt durch Ziff. I des BRB vom 10. Jan. 1969 ([AS 1969 125](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-### VI. Nachzahlung und uneinbringliche Rückerstattung****
+### VI. Nachzahlung und uneinbringliche Rückerstattung
 
 [^chap3-lvlH-lvlVI-1]
 
@@ -2694,13 +2697,13 @@ Kantone und Gründerverbände dürfen den Ausgleichskassen Aufgaben übertragen,
 [^132ter-1]: Eingefügt durch Ziff. I der V vom 7. Juli 1982, in Kraft seit 1. Jan. 1983 ([AS 1982 1279](https://fedlex.data.admin.ch/eli/oc/1982/1279_1279_1279)).
 [^132ter-2]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 
-### H. AHV-Nummer****
+### H. AHV-Nummer
 
 [^chap4-lvlH-1]
 
 [^chap4-lvlH-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2007, in Kraft seit 1. Dez. 2007 ([AS 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
-### I. Eigenschaften und Zuweisung****
+### I. Eigenschaften und Zuweisung
 
 [^chap4-lvlH-lvlI-1]
 
@@ -2769,7 +2772,7 @@ Die ZAS kann folgende Daten verlangen:
 
 [^134-1]: Aufgehoben durch Ziff. I der V vom 7. Nov. 2007, mit Wirkung seit 1. Juli 2008 ([AS 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
-### II. Systematische Verwendung der AHV-Nummer ausserhalb der AHV****
+### II. Systematische Verwendung der AHV-Nummer ausserhalb der AHV
 
 [^chap4-lvlH-lvlII-1]
 
@@ -2841,7 +2844,7 @@ Die AHV-Nummer kann automatisch in einer elektronischen Datenbank erfasst werden
 
 [^134sexies134octies-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2007 ([AS 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)). Aufgehoben durch Ziff. I der V vom 17. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
-### H<sup>bis</sup>. Versicherungsausweis und individuelles Konto****
+### H<sup>bis</sup>. Versicherungsausweis und individuelles Konto
 
 [^chap4-lvlHbis-1]
 
@@ -2950,7 +2953,7 @@ Die Eintragung umfasst:
 [^141-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^141-4]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-### H<sup>ter</sup>.**** Informationssysteme zur Durchführung von internationalen Abkommen
+### H<sup>ter</sup>. Informationssysteme zur Durchführung von internationalen Abkommen
 
 [^chap4-lvlHter-1]
 
@@ -3377,7 +3380,7 @@ Bei Befangenheit haben die Revisionsstellen bzw. die mit der Revision oder Kontr
 
 [^170-1]: Eingefügt durch Ziff. I der V vom 5. April 1978, in Kraft seit 1. Jan. 1979 ([AS 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
-### IV. Ergänzende Revisionen und Kontrollen****
+### IV. Ergänzende Revisionen und Kontrollen
 
 [^chap4-lvlL-lvlIV-1]
 
@@ -3535,11 +3538,12 @@ Wohnt ein obligatorisch versicherter Beschwerdeführer im Ausland, so ist das Ve
 
 **Beschwerdebefugnis der Behörden**[^201-1]
 
-<sup>1</sup> Das Bundesamt und die beteiligten Ausgleichskassen beziehungsweise IV-Stellen sind berechtigt, gegen Entscheide der kantonalen Versicherungsgerichte beim Bundesgericht Beschwerde zu erheben. Das Bundesamt ist auch zur Beschwerde gegen Entscheide des Bundesverwaltungsgerichts berechtigt.
+<sup>1</sup> Das Bundesamt und die beteiligten Ausgleichskassen beziehungsweise IV-Stellen sind berechtigt, gegen Entscheide der kantonalen Versicherungsgerichte beim Bundesgericht Beschwerde zu erheben. Das Bundesamt und die Schweizerische Ausgleichskasse sind auch zur Beschwerde gegen Entscheide des Bundesverwaltungsgerichts berechtigt.[^201-2]
 
 <sup>2</sup> Die Entscheide sind den beschwerdeberechtigten Behörden mit eingeschriebenem Brief zuzustellen.
 
 [^201-1]: Fassung gemäss Ziff. II 91 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^201-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 
 #### Art. 202
 
@@ -3731,7 +3735,7 @@ Das Bundesamt verfasst über jedes Geschäftsjahr der Alters- und Hinterlassenen
 
 [^214-1]: Fassung gemäss Ziff. I der V vom 17. Juni 1985, in Kraft seit 1. Jan. 1986 ([AS 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 
-## Achter Abschnitt: Die Baubeiträge an Heime und andere Einrichtungen für Betagte****
+## Achter Abschnitt: Die Baubeiträge an Heime und andere Einrichtungen für Betagte
 
 [^chap8-1]
 
@@ -3761,7 +3765,7 @@ Das Bundesamt verfasst über jedes Geschäftsjahr der Alters- und Hinterlassenen
 
 [^221-1]: Eingefügt durch Ziff. 1 der V vom 18. Okt. 1974, in Kraft seit 1. Jan. 1975 ([AS 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)).
 
-## Neunter Abschnitt:**** Die Finanzhilfen zur Förderung der Altershilfe****
+## Neunter Abschnitt: Die Finanzhilfen zur Förderung der Altershilfe
 
 [^chap9-1][^chap9-2]
 
@@ -3862,7 +3866,7 @@ Finanzhilfen nach Artikel 3 Absatz 1 des Subventionsgesetzes vom 5. Oktober 1990
 
 [^225-1]: Fassung gemäss Anhang Ziff. 2 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-## Zehnter Abschnitt: Schlussbestimmungen****
+## Zehnter Abschnitt: Schlussbestimmungen
 
 [^chap10-1]
 
@@ -3880,25 +3884,25 @@ Finanzhilfen nach Artikel 3 Absatz 1 des Subventionsgesetzes vom 5. Oktober 1990
 
 [^226-1]: Ursprünglich Art. 222.
 
-## Schlussbestimmungen der Änderung vom 17. Juni 1985****
+## Schlussbestimmungen der Änderung vom 17. Juni 1985
 
 [^u1-1]
 
 [^u1-1]: [AS 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913). Aufgehoben durch Ziff. IV 42 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 13. September 1995****
+## Schlussbestimmungen der Änderung vom 13. September 1995
 
 [^u2-1]
 
 [^u2-1]: [AS 1995 4376](https://fedlex.data.admin.ch/eli/oc/1995/4376_4376_4376). Aufgehoben durch Ziff. IV 42 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 29. November 1995****
+## Schlussbestimmungen der Änderung vom 29. November 1995
 
 [^u3-1]
 
 [^u3-1]: [AS 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)
 
-a. …**[^u3-2]**
+a. …[^u3-2]
 
 b. Überführung laufender Renten
 
@@ -3934,13 +3938,13 @@ d. Rentenauszahlungen der Arbeitgeber
 [^u3-2]: Aufgehoben durch Ziff. IV 42 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^u3-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-## Schlussbestimmung der Änderung vom 16. September 1996****
+## Schlussbestimmung der Änderung vom 16. September 1996
 
 [^u4-1]
 
 [^u4-1]: [AS 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758). Aufgehoben durch Ziff. IV 42 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 27. April 1998****
+## Schlussbestimmungen der Änderung vom 27. April 1998
 
 [^u5-1]
 
@@ -3950,19 +3954,19 @@ d. Rentenauszahlungen der Arbeitgeber
 
 <sup>2</sup> Bis zum Inkrafttreten der Leistungsverträge, längstens jedoch bis Ende 1999, erhalten Organisationen nach Artikel 222 Absatz 1 Buchstabe a Beiträge nach bisherigem Recht.
 
-## Abweichende Regelung für die Beitragsjahre 2000 und 2001****
+## Abweichende Regelung für die Beitragsjahre 2000 und 2001
 
 [^u6-1]
 
 [^u6-1]: [AS 1999 3044](https://fedlex.data.admin.ch/eli/oc/1999/465). Aufgehoben durch Anhang Ziff. II 5 der V vom 14. Aug. 2013 über die zeitliche Bemessung der direkten Bundessteuer, mit Wirkung seit 1. Jan. 2014 ([AS 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
 
-## Schlussbestimmungen der Änderung vom 1. März 2000****
+## Schlussbestimmungen der Änderung vom 1. März 2000
 
 [^u7-1]
 
 [^u7-1]: [AS 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226). Aufgehoben durch Anhang Ziff. II 5 der V vom 14. Aug. 2013 über die zeitliche Bemessung der direkten Bundessteuer, mit Wirkung seit 1. Jan. 2014 ([AS 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
 
-## Schlussbestimmung der Änderung vom 17. Oktober 2007****
+## Schlussbestimmung der Änderung vom 17. Oktober 2007
 
 [^u8-1]
 
@@ -3972,7 +3976,7 @@ d. Rentenauszahlungen der Arbeitgeber
 
 <sup>2</sup> Bei der Ermittlung des im Jahr des Inkrafttretens der Änderung von Artikel 18 Absatz 1<sup>bis</sup> erzielten Einkommens aus selbstständiger Erwerbstätigkeit können nur die in diesem und dem unmittelbar vorangegangenen Beitragsjahr eingetretenen und verbuchten Geschäftsverluste abgezogen werden.
 
-## Schlussbestimmungen zur Änderung vom 7. November 2007****
+## Schlussbestimmungen zur Änderung vom 7. November 2007
 
 [^u9-1]
 
@@ -3996,7 +4000,7 @@ d. Rentenauszahlungen der Arbeitgeber
 [^u9-5]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 [^u9-6]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
-## Schlussbestimmungen zur Änderung vom 7. November 2007****
+## Schlussbestimmungen zur Änderung vom 7. November 2007
 
 [^u10-1]
 
@@ -4004,7 +4008,7 @@ d. Rentenauszahlungen der Arbeitgeber
 
 Die Artikel 222–225 finden nur Anwendung auf die nach Inkrafttreten der Änderung vom 7. November 2007 dieser Verordnung beginnenden Aus- und Weiterbildungen.
 
-## Schlussbestimmungen der Änderung vom 24. September 2010****
+## Schlussbestimmungen der Änderung vom 24. September 2010
 
 [^u11-1]
 
@@ -4019,7 +4023,7 @@ Die Artikel 222–225 finden nur Anwendung auf die nach Inkrafttreten der Änder
 - c. für Meldungen im Jahr 2013: 5 Franken;
 - d. für Meldungen ab dem Jahr 2014: 3 Franken.
 
-## Schlussbestimmungen der Änderung vom 21. September 2012****
+## Schlussbestimmungen der Änderung vom 21. September 2012
 
 [^u12-1]
 

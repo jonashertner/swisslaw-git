@@ -4,20 +4,20 @@ title: "Règlement du 31 octobre 1947 sur l'assurance-vieillesse et survivants (
 short: RAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement sur l’assurance-vieillesse et survivants
 
-(RAVS)**[^t-1]**
+(RAVS)[^t-1]
 
-du 31 octobre 1947 (Etat le 1<sup>er</sup> janvier 2022)
+du 31 octobre 1947 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -32,13 +32,13 @@ arrête:
 [^ingress-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 27 mai 1981, en vigueur depuis le 1<sup>er</sup> juil. 1981 ([RO 1981 538](https://fedlex.data.admin.ch/eli/oc/1981/538_538_538)).
 
-## Chapitre I Personnes assurées****
+## Chapitre I Personnes assurées
 
 [^chap1-1]
 
 [^chap1-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2824](https://fedlex.data.admin.ch/eli/oc/2000/478)).
 
-### A.**** Assujettissement
+### A. Assujettissement
 
 [^chap1-lvlA-1]
 
@@ -64,7 +64,7 @@ Le Comité international de la Croix-Rouge est une organisation internationale c
 [^1a-1]: Association Suisse pour l’échange de personnes dans la coopération internationale
 [^1a-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-### B. Exemptions à l’assurance****
+### B. Exemptions à l’assurance
 
 [^chap1-lvlB-1]
 
@@ -115,13 +115,13 @@ Est considérée comme relativement courte au sens de l’art. 1*a*, al. 2, let.
 
 [^4-1]: Abrogé par le ch. I de l’O du 30 sept. 2009, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
 
-### C. Adhésion à l’assurance****
+### C. Adhésion à l’assurance
 
 [^chap1-lvlC-1]
 
 [^chap1-lvlC-1]: Anciennement let. B. Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### I.**** Personnes qui travaillent à l’étranger pour un employeur en Suisse
+### I. Personnes qui travaillent à l’étranger pour un employeur en Suisse
 
 [^chap1-lvlC-lvlI-1]
 
@@ -162,7 +162,7 @@ Pour continuer l’assurance, une requête doit être présentée à la caisse d
 
 [^5c-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
-### II. Personnes domiciliées en Suisse qui ne sont pas assurées en raison d’une convention internationale****
+### II. Personnes domiciliées en Suisse qui ne sont pas assurées en raison d’une convention internationale
 
 [^chap1-lvlC-lvlII-1]
 
@@ -194,7 +194,7 @@ Les personnes domiciliées en Suisse, qui ne sont pas assurées en raison d’un
 
 [^5f-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2629](https://fedlex.data.admin.ch/eli/oc/2000/423)).
 
-### III.**** Étudiants sans activité lucrative domiciliés à l’étranger
+### III. Étudiants sans activité lucrative domiciliés à l’étranger
 
 [^chap1-lvlC-lvlIII-1]
 
@@ -222,7 +222,7 @@ Les étudiants sans activité lucrative qui sont domiciliés à l’étranger pe
 
 <sup>2</sup> L’assuré est exclu avec effet rétroactif de l’assurance s’il n’a pas acquitté entièrement sa cotisation annuelle jusqu’au 31 décembre de l’année civile suivante. Il en va de même s’il ne remet pas à la caisse de compensation jusqu’au 31 décembre de l’année suivante les justificatifs qui lui ont été demandés. Avant l’expiration du délai d’une année, la caisse de compensation adresse à l’assuré sous pli recommandé une sommation le menaçant d’exclusion.
 
-### IV.**** Personnes sans activité lucrative accompagnant à l’étranger leur conjoint assuré
+### IV. Personnes sans activité lucrative accompagnant à l’étranger leur conjoint assuré
 
 [^chap1-lvlC-lvlIV-1]
 
@@ -545,35 +545,35 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 **Barème dégressif des cotisations des personnes exerçant une activité indépendante**[^21-1]
 
-<sup>1</sup> Si le revenu provenant d’une activité indépendante est d’au moins 9600 francs par an, mais inférieur à 57 400 francs, les cotisations sont calculées comme suit:
+<sup>1</sup> Si le revenu provenant d’une activité indépendante est d’au moins 9800 francs par an, mais inférieur à 58 800 francs, les cotisations sont calculées comme suit:
 
 <table>
 <tr><th colspan="2">Revenu annuel provenant d’une activité lucrative</th><th></th><th>Taux de la cotisation en pour-cent du revenu</th></tr>
 <tr><th>d’au moins fr.</th><th colspan="2">mais inférieur à fr.</th><th></th></tr>
-<tr><td>9 600</td><td colspan="2">17 400</td><td>4,35</td></tr>
-<tr><td>17 400</td><td colspan="2">21 400</td><td>4,45</td></tr>
-<tr><td>21 400</td><td colspan="2">23 800</td><td>4,55</td></tr>
-<tr><td>23 800</td><td colspan="2">26 200</td><td>4,65</td></tr>
-<tr><td>26 200</td><td colspan="2">28 600</td><td>4,75</td></tr>
-<tr><td>28 600</td><td colspan="2">31 000</td><td>4,85</td></tr>
-<tr><td>31 000</td><td colspan="2">33 400</td><td>5,05</td></tr>
-<tr><td>33 400</td><td colspan="2">35 800</td><td>5,25</td></tr>
-<tr><td>35 800</td><td colspan="2">38 200</td><td>5,45</td></tr>
-<tr><td>38 200</td><td colspan="2">40 600</td><td>5,65</td></tr>
-<tr><td>40 600</td><td colspan="2">43 000</td><td>5,85</td></tr>
-<tr><td>43 000</td><td colspan="2">45 400</td><td>6,05</td></tr>
-<tr><td>45 400</td><td colspan="2">47 800</td><td>6,35</td></tr>
-<tr><td>47 800</td><td colspan="2">50 200</td><td>6,65</td></tr>
-<tr><td>50 200</td><td colspan="2">52 600</td><td>6,95</td></tr>
-<tr><td>52 600</td><td colspan="2">55 000</td><td>7,25</td></tr>
-<tr><td>55 000</td><td colspan="2">57 400</td><td>7,55</td></tr>
+<tr><td>9 800</td><td colspan="2">17 500</td><td>4,35</td></tr>
+<tr><td>17 500</td><td colspan="2">21 300</td><td>4,45</td></tr>
+<tr><td>21 300</td><td colspan="2">23 800</td><td>4,55</td></tr>
+<tr><td>23 800</td><td colspan="2">26 300</td><td>4,65</td></tr>
+<tr><td>26 300</td><td colspan="2">28 800</td><td>4,75</td></tr>
+<tr><td>28 800</td><td colspan="2">31 300</td><td>4,85</td></tr>
+<tr><td>31 300</td><td colspan="2">33 800</td><td>5,05</td></tr>
+<tr><td>33 800</td><td colspan="2">36 300</td><td>5,25</td></tr>
+<tr><td>36 300</td><td colspan="2">38 800</td><td>5,45</td></tr>
+<tr><td>38 800</td><td colspan="2">41 300</td><td>5,65</td></tr>
+<tr><td>41 300</td><td colspan="2">43 800</td><td>5,85</td></tr>
+<tr><td>43 800</td><td colspan="2">46 300</td><td>6,05</td></tr>
+<tr><td>46 300</td><td colspan="2">48 800</td><td>6,35</td></tr>
+<tr><td>48 800</td><td colspan="2">51 300</td><td>6,65</td></tr>
+<tr><td>51 300</td><td colspan="2">53 800</td><td>6,95</td></tr>
+<tr><td>53 800</td><td colspan="2">56 300</td><td>7,25</td></tr>
+<tr><td>56 300</td><td colspan="2">58 800</td><td>7,55</td></tr>
 </table>
 
-<sup>2</sup> Si le revenu à prendre en compte en vertu de l’art. 6<sup>quater</sup> est inférieur à 9600 francs, l’assuré doit acquitter une cotisation de 4,35 %.
+<sup>2</sup> Si le revenu à prendre en compte en vertu de l’art. 6<sup>quater</sup> est inférieur à 9800 francs, l’assuré doit acquitter une cotisation de 4,35 %, mais au plus la cotisation minimale.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4605](https://fedlex.data.admin.ch/eli/oc/2020/818)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 
-### 2. Fixation et détermination des cotisations****
+### 2. Fixation et détermination des cotisations
 
 [^chap2-lvlA-lvlII-lvl2-1]
 
@@ -668,7 +668,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 [^27-2]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
 [^27-3]: Nouvelle teneur selon le ch. I de l’O du 24 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 
-### B. Les cotisations des personnes n’exerçant aucune activité lucrative****
+### B. Les cotisations des personnes n’exerçant aucune activité lucrative
 
 [^chap2-lvlB-1]
 
@@ -678,37 +678,38 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 **Détermination des cotisations**[^28-1]
 
-<sup>1</sup> Les cotisations des personnes sans activité lucrative, pour lesquelles la cotisation minimale de 413 francs par année (art. 10, al. 2, LAVS) n’est pas prévue, sont déterminées sur la base de leur fortune et du revenu qu’elles tirent des rentes. Les rentes versées en application des art. 36 et 39 LAI[^28-2] ne font pas partie du revenu sous forme de rente. Les cotisations se calculent comme suit:
+<sup>1</sup> Les cotisations des personnes sans activité lucrative, pour lesquelles la cotisation minimale de 422 francs par année (art. 10, al. 2, LAVS) n’est pas prévue, sont déterminées sur la base de leur fortune et du revenu qu’elles tirent des rentes. Les rentes versées en application des art. 36 et 39 LAI[^28-2] ne font pas partie du revenu sous forme de rente. Les cotisations se calculent comme suit:
 
 <table>
-<tr><td colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20 fr.</td><td></td><td>Cotisation annuelle fr.</td><td>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20 fr.</td></tr>
-<tr><td>moins de</td><td colspan="2">300 000</td><td>413</td><td>–</td></tr>
-<tr><td></td><td colspan="2">300 000</td><td>435</td><td>87</td></tr>
-<tr><td></td><td colspan="2">1 750 000</td><td>2 958</td><td>130,50</td></tr>
-<tr><td></td><td colspan="2">8 550 000 et plus</td><td>20 650</td><td>– [^28-3]</td></tr>
+<tr><th colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20 fr.</th><th></th><th>Cotisation annuelle fr.</th><th>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20 fr.</th></tr>
+<tr><td>moins de</td><td colspan="2">340 000</td><td>422</td><td>–</td></tr>
+<tr><td>dès</td><td colspan="2">340 000</td><td>504,60</td><td>87</td></tr>
+<tr><td>dès</td><td colspan="2">1740 000</td><td>2 940,60</td><td>130,50</td></tr>
+<tr><td>dès</td><td colspan="2">8740 000</td><td>21 100</td><td>– [^28-3]</td></tr>
 </table>
 
 <sup>2</sup> Si une personne n’exerçant aucune activité lucrative dispose à la fois d’une fortune et d’un revenu sous forme de rente, le montant de la rente annuelle multiplié par 20 est ajouté à la fortune.
 
-<sup>3</sup> Pour calculer la cotisation, on arrondit la fortune aux 50 000 francs inférieurs, compte tenu du revenu annuel acquis sous forme de rente multiplié par 20.
+<sup>3</sup> Pour calculer la cotisation, on arrondit la fortune à la tranche de fortune directement inférieure, compte tenu du revenu annuel acquis sous forme de rente multiplié par 20.[^28-4]
 
-<sup>4</sup> Si une personne mariée doit payer des cotisations comme personne sans activité lucrative, ses cotisations sont déterminées sur la base de la moitié de la fortune et du revenu sous forme de rente du couple. Il en va de même pour toute l’année de la conclusion du mariage. Pour toute l’année durant laquelle le divorce a été prononcé, les cotisations sont déterminées selon l’al. 1. Celui-ci s’applique également à la période postérieure au décès du conjoint.[^28-4]
+<sup>4</sup> Si une personne mariée doit payer des cotisations comme personne sans activité lucrative, ses cotisations sont déterminées sur la base de la moitié de la fortune et du revenu sous forme de rente du couple. Il en va de même pour toute l’année de la conclusion du mariage. Pour toute l’année durant laquelle le divorce a été prononcé, les cotisations sont déterminées selon l’al. 1. Celui-ci s’applique également à la période postérieure au décès du conjoint.[^28-5]
 
-<sup>4bis</sup> ...[^28-5]
+<sup>4bis</sup> ...[^28-6]
 
-<sup>5</sup> Les conjoints sans activité lucrative, dont les cotisations ne sont pas considérées comme payées (art. 3, al. 3, LAVS), doivent s’annoncer auprès de la caisse de compensation du canton de leur domicile.[^28-6]
+<sup>5</sup> Les conjoints sans activité lucrative, dont les cotisations ne sont pas considérées comme payées (art. 3, al. 3, LAVS), doivent s’annoncer auprès de la caisse de compensation du canton de leur domicile.[^28-7]
 
-<sup>6</sup> Les personnes sans activité lucrative qui perçoivent des prestations en vertu de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l’AVS et à l’AI[^28-7] ou en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^28-8] paient la cotisation minimum.[^28-9]
+<sup>6</sup> Les personnes sans activité lucrative qui perçoivent des prestations en vertu de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l’AVS et à l’AI[^28-8] ou en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^28-9] paient la cotisation minimum.[^28-10]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 17 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 [^28-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^28-3]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4605](https://fedlex.data.admin.ch/eli/oc/2020/818)).
-[^28-4]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Nouvelle teneur selon le ch. I de l’O du 20 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)).
-[^28-5]: Introduit par le ch. I de l’O du 20 sept. 2002 ([RO 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)). Abrogé par le ch. I de l’O du 19 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
-[^28-6]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^28-7]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^28-8]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
-[^28-9]: Introduit par le ch. I de l’O du 24 sept. 2010 ([RO 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 juin 2021 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
+[^28-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^28-4]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^28-5]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Nouvelle teneur selon le ch. I de l’O du 20 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)).
+[^28-6]: Introduit par le ch. I de l’O du 20 sept. 2002 ([RO 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)). Abrogé par le ch. I de l’O du 19 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
+[^28-7]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^28-8]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^28-9]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^28-10]: Introduit par le ch. I de l’O du 24 sept. 2010 ([RO 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 11 juin 2021 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
 
 #### Art. 28<sup>bis</sup>
 
@@ -787,7 +788,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 [^30-2]: Erratum du 16 juin 2020, ne concerne que le texte italien ([RO 2020 2185](https://fedlex.data.admin.ch/eli/oc/2020/435)).
 [^30-3]: Abrogé par le ch. I de l’O du 16 sept. 1996, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758)).
 
-### C. La réduction et la remise des cotisations pour les personnes exerçant une activité lucrative indépendante et les personnes n’exerçant aucune activité lucrative****
+### C. La réduction et la remise des cotisations pour les personnes exerçant une activité lucrative indépendante et les personnes n’exerçant aucune activité lucrative
 
 [^chap2-lvlC-1]
 
@@ -838,13 +839,13 @@ Ne sont pas tenus de payer des cotisations en tant qu’employeurs:
 [^33-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^33-4]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 7 décembre 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
-### E. Perception des cotisations****
+### E. Perception des cotisations
 
 [^chap2-lvlE-1]
 
 [^chap2-lvlE-1]: Nouvelle teneur du titre selon le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 
-### I. Généralités****
+### I. Généralités
 
 [^chap2-lvlE-lvlI-1]
 
@@ -906,7 +907,7 @@ Les cotisations seront payées à la caisse:
 [^34c-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^34c-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2824](https://fedlex.data.admin.ch/eli/oc/2000/478)).
 
-### II. Cotisations paritaires****
+### II. Cotisations paritaires
 
 [^chap2-lvlE-lvlII-1]
 
@@ -994,7 +995,7 @@ Doivent être versées dans tous les cas:
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^38-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 
-### III. Paiement de cotisations arriérées et restitution des cotisations****
+### III. Paiement de cotisations arriérées et restitution des cotisations
 
 [^chap2-lvlE-lvlIII-1]
 
@@ -1032,7 +1033,7 @@ Celui qui a payé des cotisations qu’il ne devait pas peut les réclamer à la
 
 [^41-1]: Nouvelle teneur selon le ch. I de l’ACF du 30 déc. 1953, en vigueur depuis le 1<sup>er</sup> janv. 1954 ([RO 1954 226](https://fedlex.data.admin.ch/eli/oc/1954/219_226_110)).
 
-### IV. Intérêts****
+### IV. Intérêts
 
 [^chap2-lvlE-lvlIV-1]
 
@@ -1092,7 +1093,7 @@ Doivent payer des intérêts moratoires:
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 
-### F. Responsabilité des héritiers****
+### F. Responsabilité des héritiers
 
 [^chap2-lvlF-1]
 
@@ -1107,7 +1108,7 @@ En cas de décès d’une personne tenue au paiement des cotisations, ses hérit
 [^43-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mars 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^43-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-## Chapitre III Les rentes et l’allocation pour impotent****
+## Chapitre III Les rentes et l’allocation pour impotent
 
 [^chap3-1]
 
@@ -1601,7 +1602,7 @@ Lorsque la personne décédée a accompli l’âge indiqué ci-dessous, l’augm
 [^54bis-1]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^54bis-2]: Abrogé par le ch. II 2 de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### C. Rentes extraordinaires****
+### C. Rentes extraordinaires
 
 [^chap3-lvlC-1]
 
@@ -1615,13 +1616,13 @@ La réduction des rentes extraordinaires pour enfants et des rentes extraordinai
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### D. L’âge flexible de la retraite****
+### D. L’âge flexible de la retraite
 
 [^chap3-lvlD-1]
 
 [^chap3-lvlD-1]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### I. L’ajournement de la rente****
+### I. L’ajournement de la rente
 
 [^chap3-lvlD-lvlI-1]
 
@@ -1679,22 +1680,23 @@ Lorsque des rentes de survivants succèdent à une rente de vieillesse ajournée
 
 **Déclaration d’ajournement et révocation**[^55quater-1]
 
-<sup>1</sup> La période d’ajournement commence le premier jour du mois qui suit celui où l’âge de la retraite selon l’art. 21, al. 1, LAVS a été atteint.[^55quater-2] La déclaration d’ajournement doit être présentée par écrit dans un délai d’un an à compter du début de la période d’ajournement. Si aucune déclaration d’ajournement n’intervient durant ce délai, la rente de vieillesse doit être fixée et versée selon les prescriptions générales en vigueur.
+<sup>1</sup> La période d’ajournement commence le premier jour du mois qui suit celui où l’âge de la retraite selon l’art. 21, al. 1, LAVS a été atteint. La déclaration d’ajournement doit être présentée au moyen de la formule officielle dans un délai d’un an à compter du début de la période d’ajournement. Si aucune déclaration d’ajournement n’intervient durant ce délai, la rente de vieillesse doit être fixée et versée selon les prescriptions générales en vigueur.[^55quater-2]
 
-<sup>2</sup> La révocation doit se faire par écrit.
+<sup>2</sup> La révocation doit se faire au moyen de la formule officielle.[^55quater-3]
 
 <sup>3</sup> Lorsque l’ajournement d’une rente de vieillesse est révoqué, la rente est versée dès le mois suivant; le paiement rétroactif des rentes est exclu.
 
-<sup>4</sup> Le décès de l’ayant droit à la rente de vieillesse entraîne la révocation de l’ajournement.[^55quater-3]
+<sup>4</sup> Le décès de l’ayant droit à la rente de vieillesse entraîne la révocation de l’ajournement.[^55quater-4]
 
-<sup>5</sup> ...[^55quater-4]
+<sup>5</sup> ...[^55quater-5]
 
 [^55quater-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^55quater-2]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2002 199](https://fedlex.data.admin.ch/eli/oc/2002/34)).
-[^55quater-3]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^55quater-4]: Abrogé par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55quater-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^55quater-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
+[^55quater-4]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^55quater-5]: Abrogé par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### II. L’anticipation de la rente****
+### II. L’anticipation de la rente
 
 [^chap3-lvlD-lvlII-1]
 
@@ -1729,7 +1731,7 @@ Lorsqu’une rente de survivants succède à une rente de vieillesse anticipée,
 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### E. Calcul anticipé de la rente****
+### E. Calcul anticipé de la rente
 
 [^chap3-lvlE-1]
 
@@ -1778,7 +1780,7 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 
 [^6166-1]: Abrogés par le ch. I de l’O du 29 nov. 1995, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### F.**** L’allocation pour impotent et les moyens auxiliaires
+### F. L’allocation pour impotent et les moyens auxiliaires
 
 [^chap3-lvlF-1]
 
@@ -1812,7 +1814,7 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 [^66ter-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 [^66ter-3]: Introduit par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6483](https://fedlex.data.admin.ch/eli/oc/2008/882)).
 
-### G.**** Le rapport avec l’allocation pour impotent de l’assurance‑accidents
+### G. Le rapport avec l’allocation pour impotent de l’assurance‑accidents
 
 [^chap3-lvlG-1]
 
@@ -1828,7 +1830,7 @@ Le calcul anticipé est effectué par la caisse de compensation qui est compéte
 
 [^66quater-1]: Nouvelle teneur selon l’art. 143 de l’O du 20 déc. 1982 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
 
-### H.**** Dispositions diverses
+### H. Dispositions diverses
 
 [^chap3-lvlH-1]
 
@@ -2034,7 +2036,7 @@ Les caisses de compensation peuvent servir, simultanément avec la rente de l’
 
 [^76bis-1]: Introduit par le ch. I de l’ACF du 10 janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-### VI. Réclamation et créances en restitution irrécouvrables****
+### VI. Réclamation et créances en restitution irrécouvrables
 
 [^chap3-lvlH-lvlVI-1]
 
@@ -2694,13 +2696,13 @@ Les cantons et les associations fondatrices peuvent confier aux caisses de compe
 [^132ter-1]: Introduit par le ch. I de l’O du 7 juil. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1279](https://fedlex.data.admin.ch/eli/oc/1982/1279_1279_1279)).
 [^132ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 
-### H. Numéro AVS****
+### H. Numéro AVS
 
 [^chap4-lvlH-1]
 
 [^chap4-lvlH-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
-### I. Caractéristiques et attribution****
+### I. Caractéristiques et attribution
 
 [^chap4-lvlH-lvlI-1]
 
@@ -2770,7 +2772,7 @@ La CdC peut demander les indications suivantes:
 
 [^134-1]: Abrogé par le ch. I de l’O du 7 nov. 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
-### II. Utilisation systématique du numéro AVS en dehors de l’AVS****
+### II. Utilisation systématique du numéro AVS en dehors de l’AVS
 
 [^chap4-lvlH-lvlII-1]
 
@@ -2842,7 +2844,7 @@ Le numéro AVS peut être saisi automatiquement dans une banque de données lors
 
 [^134sexies134octies-1]: Introduits par le ch. I de l’O du 7 nov. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)). Abrogés par le ch. I de l’O du 17 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
-### H<sup>bis</sup>. Certificat d’assurance et compte individuel****
+### H<sup>bis</sup>. Certificat d’assurance et compte individuel
 
 [^chap4-lvlHbis-1]
 
@@ -2952,7 +2954,7 @@ L’inscription contient:[^140-2]
 [^141-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^141-4]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-### H<sup>ter</sup>.**** Systèmes d’information concernant la mise en œuvre de conventions internationales
+### H<sup>ter</sup>. Systèmes d’information concernant la mise en œuvre de conventions internationales
 
 [^chap4-lvlHter-1]
 
@@ -3379,7 +3381,7 @@ Lorsque l’indépendance n’est pas garantie, les bureaux de révision ou les 
 
 [^170-1]: Introduit par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
-### IV. Révisions complémentaires et contrôles****
+### IV. Révisions complémentaires et contrôles
 
 [^chap4-lvlL-lvlIV-1]
 
@@ -3537,11 +3539,12 @@ Si un recourant qui est obligatoirement assuré est domicilié à l’étranger,
 
 **Droits de recours des autorités**[^201-1]
 
-<sup>1</sup> L’OFAS, les caisses de compensation intéressées et les offices AI ont qualité pour former un recours devant le Tribunal fédéral contre des jugements rendus par les tribunaux cantonaux des assurances. L’OFAS a également qualité pour recourir contre les jugements rendus par le Tribunal administratif fédéral.
+<sup>1</sup> L’OFAS, les caisses de compensation intéressées et les offices AI ont qualité pour former un recours devant le Tribunal fédéral contre des jugements rendus par les tribunaux cantonaux des assurances. L’OFAS et la Caisse suisse de compensation ont également qualité pour recourir contre les jugements rendus par le Tribunal administratif fédéral.[^201-2]
 
 <sup>2</sup> Les jugements doivent être notifiés par lettre recommandée aux autorités ayant qualité pour recourir.
 
 [^201-1]: Nouvelle teneur selon le ch. II 91 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^201-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 603](https://fedlex.data.admin.ch/eli/oc/2022/603)).
 
 #### Art. 202
 
@@ -3733,7 +3736,7 @@ L’OFAS présentera un rapport sur chaque exercice annuel de l’assurance-viei
 
 [^214-1]: Nouvelle teneur selon le ch. I de l’O du 17 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 
-## Chapitre VIII Les subventions pour la construction d’établissements et d’autres installations pour personnes âgées****
+## Chapitre VIII Les subventions pour la construction d’établissements et d’autres installations pour personnes âgées
 
 [^chap8-1]
 
@@ -3763,7 +3766,7 @@ L’OFAS présentera un rapport sur chaque exercice annuel de l’assurance-viei
 
 [^221-1]: Introduit par le ch. I de l’O du 18 oct. 1974, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)).
 
-## Chapitre IX**** Les aides financières pour l’encouragement de l’aide à la vieillesse****
+## Chapitre IX Les aides financières pour l’encouragement de l’aide à la vieillesse
 
 [^chap9-1][^chap9-2]
 
@@ -3863,7 +3866,7 @@ Si le montant des demandes d’aides financières dépasse le montant des ressou
 
 [^225-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
-## Chapitre X Dispositions finales****
+## Chapitre X Dispositions finales
 
 [^chap10-1]
 
@@ -3881,25 +3884,25 @@ Si le montant des demandes d’aides financières dépasse le montant des ressou
 
 [^226-1]: Anciennement art. 222.
 
-## Disposition finale de la modification du 17 juin 1985****
+## Disposition finale de la modification du 17 juin 1985
 
 [^u1-1]
 
 [^u1-1]: [RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913). Abrogées par le ch. IV 42 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 13 septembre 1995****
+## Dispositions finales de la modification du 13 septembre 1995
 
 [^u2-1]
 
 [^u2-1]: [RO 1995 4376](https://fedlex.data.admin.ch/eli/oc/1995/4376_4376_4376). Abrogées par le ch. IV 42 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 29 novembre 1995****
+## Dispositions finales de la modification du 29 novembre 1995
 
 [^u3-1]
 
 [^u3-1]: [RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)
 
-a. ...**[^u3-2]**
+a. ...[^u3-2]
 
 b. Transfert des rentes en cours
 
@@ -3935,13 +3938,13 @@ d. Versement de la rente par l’employeur
 [^u3-2]: Abrogée par le ch. IV 42 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^u3-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-## Disposition finale de la modification du 16 septembre 1996****
+## Disposition finale de la modification du 16 septembre 1996
 
 [^u4-1]
 
 [^u4-1]: [RO 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758). Abrogées par le ch. IV 42 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 27 avril 1998****
+## Dispositions finales de la modification du 27 avril 1998
 
 [^u5-1]
 
@@ -3951,19 +3954,19 @@ d. Versement de la rente par l’employeur
 
 <sup>2</sup> Jusqu’à la mise en œuvre des contrats de prestations, mais au plus tard jusqu’à fin 1999, les organisations prévues à l’art. 222, al. 1, let. a, obtiennent des subventions selon le droit jusqu’ici en vigueur.
 
-## Disposition dérogatoire pour les années de cotisation 2000 et 2001****
+## Disposition dérogatoire pour les années de cotisation 2000 et 2001
 
 [^u6-1]
 
 [^u6-1]: [RO 1999 3044](https://fedlex.data.admin.ch/eli/oc/1999/465). Abrogée par l’annexe ch. II 5 de l’O du 14 août 2013 sur le calcul dans le temps de l’impôt fédéral direct, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
 
-## Dispositions finales de la modification du 1<sup>er</sup> mars 2000****
+## Dispositions finales de la modification du 1<sup>er</sup> mars 2000
 
 [^u7-1]
 
 [^u7-1]: [RO 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226). Abrogées par l’annexe ch. II 5 de l’O du 14 août 2013 sur le calcul dans le temps de l’impôt fédéral direct, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
 
-## Dispositions finales de la modification du 17 octobre 2007****
+## Dispositions finales de la modification du 17 octobre 2007
 
 [^u8-1]
 
@@ -3973,7 +3976,7 @@ d. Versement de la rente par l’employeur
 
 <sup>2</sup> Pour déterminer le revenu d’une activité lucrative indépendante réalisé l’année de l’entrée en vigueur de la modification de l’art. 18, al. 1<sup>bis</sup>, seules les pertes commerciales effectives comptabilisées pour l’année de cotisation et pour celle immédiatement antérieure peuvent être déduites.
 
-## Dispositions finales de la modification du 7 novembre 2007****
+## Dispositions finales de la modification du 7 novembre 2007
 
 [^u9-1]
 
@@ -3997,7 +4000,7 @@ d. Versement de la rente par l’employeur
 [^u9-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 [^u9-6]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
-## Disposition finale de la modification du 7 novembre 2007****
+## Disposition finale de la modification du 7 novembre 2007
 
 [^u10-1]
 
@@ -4005,7 +4008,7 @@ d. Versement de la rente par l’employeur
 
 Les art. 222 à 225 ne s’appliquent qu’aux cours de formation et de formation continue ayant débuté après l’entrée en vigueur de la modification du 7 novembre 2007 de la présente ordonnance.
 
-## Dispositions finales de la modification du 24 septembre 2010****
+## Dispositions finales de la modification du 24 septembre 2010
 
 [^u11-1]
 
@@ -4020,7 +4023,7 @@ Les art. 222 à 225 ne s’appliquent qu’aux cours de formation et de formatio
 - c. pour les communications transmises en 2013: 5 francs;
 - d. pour les communications transmises à partir de 2014: 3 francs.
 
-## Disposition finale de la modification du 21 septembre 2012****
+## Disposition finale de la modification du 21 septembre 2012
 
 [^u12-1]
 
