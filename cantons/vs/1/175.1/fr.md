@@ -4,13 +4,12 @@ number: "175.1"
 title: Loi sur les communes
 short: LCo
 language: fr
-version: 2021-05-01
-valid_until: 2022-12-31
-version_adopted: 2011-09-15
+version: 2023-01-01
+version_adopted: 2020-12-17
 adopted: 2004-02-05
 in_force: 2004-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/175.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2863/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3103/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2863/pdf_file"
 
 (LCo)
 
-du 05.02.2004 (état 01.05.2021)
+du 05.02.2004 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -98,7 +97,7 @@ ordonne:
 - g) la protection de l'environnement;
 - h) l'enseignement dans les écoles enfantines, dans les écoles primaires et au cycle d'orientation;
 - i) la promotion du bien-être social;
-- j) l'aide sociale et la tutelle;
+- j) l'aide sociale et le service officiel de la curatelle;
 - k) l'encouragement des activités culturelles et sportives;
 - l) la promotion de l'économie locale;
 - m) l'approvisionnement en énergie;

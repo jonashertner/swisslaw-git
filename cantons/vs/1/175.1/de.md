@@ -4,13 +4,12 @@ number: "175.1"
 title: Gemeindegesetz
 short: GemG
 language: de
-version: 2021-05-01
-valid_until: 2022-12-31
-version_adopted: 2011-09-15
+version: 2023-01-01
+version_adopted: 2020-12-17
 adopted: 2004-02-05
 in_force: 2004-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/175.1"
-pdf: "https://lex.vs.ch/api/de/versions/2863/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3103/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2863/pdf_file"
 
 (GemG)
 
-vom 05.02.2004 (Stand 01.05.2021)
+vom 05.02.2004 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -98,7 +97,7 @@ verordnet:
 - g) den Umweltschutz;
 - h) den Unterricht im Kindergarten, in den Primar- und Orientierungsschulen;
 - i) die Förderung der sozialen Wohlfahrt;
-- j) das Sozialhilfe- und Vormundschaftswesen;
+- j) das Sozialhilfewesen und die Berufsbeistandschaft;
 - k) die Förderung der kulturellen und sportlichen Tätigkeiten;
 - l) die Förderung der lokalen Wirtschaft;
 - m) die Energieversorgung;
