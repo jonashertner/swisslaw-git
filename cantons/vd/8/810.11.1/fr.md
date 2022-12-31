@@ -4,7 +4,7 @@ number: "810.11.1"
 title: RÈGLEMENT du 20.05.2009 d’application de la loi du 16 novembre 1993 sur les Hospices cantonaux (RLHC)
 short: RLHC
 language: fr
-version: 2017-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.11.1?id=89c994ee-3658-4b9f-ab2c-d906607d31b8"
 ---
 
@@ -659,6 +659,16 @@ arrête
 
 <sup>1</sup> Le règlement du 22 février 1995 sur les Hospices cantonaux, ainsi que du règlement du 10 décembre 1997 sur les réserves spéciales affectées au bilan des Hospices cantonaux sont abrogés.
 
+#### Art. 56a
+
+**Taux d'intérêt pour le calcul de la part intérêt de la compensation financière [^56-1]**
+
+<sup>1</sup> En dérogation à l'article 37 alinéa 1 et pour les exercices budgétaires 2023 à 2027, le taux d'intérêt applicable au calcul de la part « intérêts » de la compensation financière versée par le CHUV se monte à 1%.
+
+<sup>2</sup> Si toutefois durant cette période le taux moyen de la dette consolidée de l'Etat dépasse 2% ou descend en-dessous de 1% pendant un exercice, le régime de l'article 37 alinéa 1 est à nouveau appliqué.
+
+[^56-1]: Modif. 4 du 24.08.2022: Introduction Art. 56a; entrée en vigueur au 01.01.2023
+
 #### Art. 57
 
 **Entrée en vigueur**
@@ -669,4 +679,4 @@ Annexes
 
 1
 
-[Annexe-catégories de fonds](https://prestations.vd.ch/pub/blv-publication/api/actes/89c994ee-3658-4b9f-ab2c-d906607d31b8/annexes/1?dmev=01.01.2017)
+[Annexe-catégories de fonds](https://prestations.vd.ch/pub/blv-publication/api/actes/89c994ee-3658-4b9f-ab2c-d906607d31b8/annexes/1?dmev=01.01.2023)
