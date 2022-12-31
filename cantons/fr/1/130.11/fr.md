@@ -4,13 +4,13 @@ number: "130.11"
 title: Règlement sur la justice
 short: RJ
 language: fr
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-18
+version: 2023-01-01
+valid_until: 2025-11-30
+version_adopted: 2022-12-06
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/130.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7246/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7664/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Justice – R
 
 (RJ)
 
-du 30.11.2010 (version entrée en vigueur le 01.02.2022)
+du 30.11.2010 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -542,29 +542,19 @@ Arrête:
 
 #### Art. 52
 
-**Frais de la médiation – En général**
-
-<sup>1</sup> Les honoraires du médiateur ou de la médiatrice, dans le cadre d'une procédure judiciaire, sont fixés par l'autorité compétente au fond, sur la base d'un tarif horaire de 150 francs.
-
-<sup>2</sup> Les débours sont facturés en sus.
+**…**
 
 #### Art. 53
 
-**Frais de la médiation – En cas d'assistance judiciaire**
-
-<sup>1</sup> En cas d'assistance judiciaire, l'indemnité horaire du médiateur ou de la médiatrice est fixée à 130 francs.
+**…**
 
 #### Art. 54
 
-**Frais de la médiation – Pour les affaires non pécuniaires relevant du droit de l'enfant et de la famille**
-
-<sup>1</sup> Pour les médiations dans les affaires non pécuniaires relevant du droit de l'enfant et de la famille (art. 127 al. 2 LJ), l'indemnité horaire est la même qu'en cas d'assistance judiciaire.
+**…**
 
 #### Art. 55
 
-**Frais de la médiation – Remboursement**
-
-<sup>1</sup> Dans les cas visés par l'article 127 al. 2 LJ, le Service de la justice est compétent pour exiger le remboursement des frais, dans un délai de dix ans, conformément aux codes de procédure.
+**…**
 
 ### 2.4 Assistance judiciaire (art. 123 et 124 LJ)
 

@@ -4,13 +4,13 @@ number: "130.11"
 title: Justizreglement
 short: JR
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-18
+version: 2023-01-01
+valid_until: 2025-11-30
+version_adopted: 2022-12-06
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/130.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7246/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7664/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Justizreglement
 
 (JR)
 
-vom 30.11.2010 (Fassung in Kraft getreten am 01.02.2022)
+vom 30.11.2010 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -542,29 +542,19 @@ beschliesst:
 
 #### Art. 52
 
-**Kosten der Mediation – Allgemeines**
-
-<sup>1</sup> Das Honorar der Mediatorin oder des Mediators im Rahmen eines gerichtlichen Verfahrens wird von der in der Sache zuständigen Behörde aufgrund eines Stundentarifs von 150 Franken festgesetzt.
-
-<sup>2</sup> Die Auslagen werden zusätzlich in Rechnung gestellt.
+**…**
 
 #### Art. 53
 
-**Kosten der Mediation – Bei unentgeltlicher Mediation**
-
-<sup>1</sup> Bei unentgeltlicher Mediation beträgt die Entschädigung der Mediatorin oder des Mediators 130 Franken pro Stunde.
+**…**
 
 #### Art. 54
 
-**Kosten der Mediation – Kindes- und familienrechtliche Angelegenheiten nicht vermögensrechtlicher Natur**
-
-<sup>1</sup> In kindes- und familienrechtlichen Angelegenheiten nicht vermögensrechtlicher Natur (Art. 127 Abs. 2 JG) entspricht die Entschädigung pro Stunde derjenigen der unentgeltlichen Rechtspflege.
+**…**
 
 #### Art. 55
 
-**Kosten der Mediation – Rückforderung**
-
-<sup>1</sup> In den Fällen nach Artikel 127 Abs. 2 JG kann das Amt für Justiz die Kosten innerhalb von zehn Jahren gemäss den Prozessordnungen zurückfordern.
+**…**
 
 ### 2.4 Unentgeltliche Rechtspflege (Art. 123 und 124)
 
