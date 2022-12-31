@@ -4,7 +4,7 @@ number: "312.01"
 title: "LOI du 19.05.2009 d'introduction du Code de procédure pénale suisse (LVCPP)"
 short: LVCPP
 language: fr
-version: 2019-03-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.01?id=2d30c3c5-8940-44d6-b00e-f0b57ff7f499"
 ---
 
@@ -268,15 +268,15 @@ décrète
 
 **Crimes ou délits commis par un membre des autorités exécutives ou judiciaires (art. 7 CPP) [^17-1]**
 
-<sup>1</sup> L'ouverture d'une poursuite pénale contre un membre du Conseil d'Etat, un juge cantonal ou le procureur général, pour des crimes ou des délits commis dans l'exercice direct de ses fonctions, est subordonnée à l'autorisation du Bureau du Grand Conseil.
+<sup>1</sup> L'ouverture d'une poursuite pénale pour des crimes ou des délits commis dans l'exercice direct des fonctions, est subordonnée à l'autorisation du Bureau du Grand Conseil pour un membre du Conseil d'Etat, et à celle du Conseil de la magistrature pour un juge cantonal, le Procureur général ou un Procureur général adjoint.
 
-<sup>2</sup> Le bureau décide souverainement de l'ouverture de la poursuite pénale sur le vu du dossier, des mémoires de chaque partie et d'un préavis du procureur général ou du procureur extraordinaire.
+<sup>2</sup> Le bureau, respectivement le Conseil de la magistrature, décide souverainement de l'ouverture de la poursuite pénale au vu du dossier, des mémoires de chaque partie et d'un préavis du Procureur général ou du procureur extraordinaire.
 
-<sup>3</sup> Le Conseil d'Etat est compétent pour autoriser l'ouverture d'une poursuite pénale à l'encontre des autres magistrats du Ministère public, pour des crimes ou délits commis dans l'exercice direct de leurs fonctions.
+<sup>3</sup> Le Collège des procureurs est compétent pour autoriser l'ouverture d'une poursuite pénale à l'encontre des autres magistrats du Ministère public, pour des crimes ou délits commis dans l'exercice direct de leurs fonctions.
 
-<sup>4</sup> En cas de poursuite pénale ouverte à l'encontre du procureur général pour une infraction qu'il est soupçonné d'avoir commise dans l'exercice de ses fonctions, le Bureau du Grand Conseil nomme un procureur extraordinaire. Pour les autres magistrats du Ministère public, le procureur extraordinaire est nommé par le Conseil d'Etat.
+<sup>4</sup> En cas de poursuite pénale ouverte à l'encontre du Procureur général ou d'un Procureur général adjoint pour une infraction qu'il est soupçonné d'avoir commise dans l'exercice de ses fonctions, le Bureau du Grand Conseil nomme un procureur extraordinaire. Pour les autres magistrats du Ministère public, le procureur extraordinaire est nommé par le Collège des procureurs.
 
-<sup>5</sup> Le Ministère public peut prendre les mesures conservatoires nécessaires sans attendre la décision du Bureau du Grand Conseil ou du Conseil d'Etat.
+<sup>5</sup> Le Ministère public peut prendre les mesures conservatoires nécessaires sans attendre la décision du Bureau du Grand Conseil , du Conseil de la magistrature ou du Collège des procureurs.
 
 [^17-1]: Modif. 6 du 24.05.2022: Modification Al. 1-5; entrée en vigueur au 01.01.2023
 
@@ -286,7 +286,7 @@ décrète
 
 <sup>1</sup> Les autorités pénales ne peuvent communiquer à d'autres autorités fédérales ou cantonales, à l'exclusion des autorités de poursuite pénale, des informations sur les procédures pénales qu'elles conduisent que si l'intérêt public à ce que ces informations soient communiquées l'emporte sur l'intérêt des parties à voir leurs droits de la personnalité respectés.
 
-<sup>2</sup> Le Ministère public avise le président du Tribunal cantonal de toute enquête pénale dirigée contre un magistrat ou un collaborateur de l'ordre judiciaire.
+<sup>2</sup> Le Ministère public avise le président du Conseil de la magistrature et le président du Tribunal cantonal, respectivement le Procureur général, de toute enquête pénale dirigée contre un magistrat ou un collaborateur de l'ordre judiciaire, respectivement du Ministère public.
 
 <sup>3</sup> Les parties sont informées de la communication, sauf si un intérêt public prépondérant exige que celle-ci demeure secrète.
 
