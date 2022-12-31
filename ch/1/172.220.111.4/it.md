@@ -4,11 +4,11 @@ title: Ordinanza del 22 novembre 2017 sulla protezione dei dati personali del pe
 short: OPDPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20220101/it"
 
 (OPDPers)
 
-del 22 novembre 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 22 novembre 2017 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 27, 27*d* capoverso 6 e 28 capoverso 1<sup>quater</sup> della legge del 24 marzo 2000[^ingress-1] sul personale federale (LPers); visto l’articolo 6 della legge federale del 24 marzo 2000[^ingress-2] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri,
+visti gli articoli 27 capoverso 5 e 27*d* capoverso 6 della legge del 24 marzo 2000[^ingress-1] sul personale federale (LPers); visto l’articolo 29 della legge federale del 18 dicembre 2020[^ingress-2] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-2]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -45,16 +46,17 @@ La presente ordinanza disciplina il trattamento dei dati personali dei candidati
 - c. delle persone in formazione che sottostanno alla legge del 13 dicembre 2002[^1-3] sulla formazione professionale;
 - d. del personale secondo l’ordinanza del 2 dicembre 2005[^1-4] sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario (OPers-PRA).
 
-<sup>2</sup> Il capitolo 4 della presente ordinanza è applicabile inoltre alle persone che hanno stipulato un mandato o sono state assunte mediante un contratto di fornitura di personale a prestito con l’Amministrazione federale nonché ai consoli onorari.
+<sup>2</sup> I capitoli 4 e 6 della presente ordinanza sono applicabili inoltre alle persone che hanno stipulato un mandato o sono state assunte mediante un contratto di fornitura di personale a prestito con l’Amministrazione federale nonché ai consoli onorari.[^1-5]
 
-<sup>3</sup> La presente ordinanza non è applicabile nei casi in cui la legge federale del 3 ottobre 2008[^1-5] sui sistemi d’informazione militari e l’ordinanza del 16 dicembre 2009[^1-6] sui sistemi d’informazione militari dispongono altrimenti sul trattamento dei dati personali di candidati o di impiegati ed ex impiegati del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS).
+<sup>3</sup> La presente ordinanza non è applicabile nei casi in cui la legge federale del 3 ottobre 2008[^1-6] sui sistemi d’informazione militari e l’ordinanza del 16 dicembre 2009[^1-7] sui sistemi d’informazione militari dispongono altrimenti sul trattamento dei dati personali di candidati o di impiegati ed ex impiegati del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS).
 
 [^1-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 [^1-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^1-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^1-4]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
-[^1-5]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^1-6]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^1-5]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^1-6]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^1-7]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 2
 
@@ -84,9 +86,11 @@ Gli impiegati possono far capo ai consulenti per la protezione dei dati della lo
 
 **Diritto d’accesso, di rettifica e di cancellazione**
 
-<sup>1</sup> Le persone interessate possono far valere il proprio diritto d’accesso alle informazioni, di rettifica e di cancellazione dei dati presso la Consulenza sociale del personale dell’Amministrazione federale (CSPers) o il servizio medico. Sono fatti salvi gli articoli 15, 27 e 60.
+<sup>1</sup> Le persone interessate possono far valere il proprio diritto d’accesso alle informazioni, di rettifica e di cancellazione dei dati presso il rispettivo servizio del personale, la Consulenza sociale del personale dell’Amministrazione federale (CSPers) o i medici designati dal Dipartimento federale delle finanze. Sono fatti salvi gli articoli 15 e 27.[^5-1]
 
 <sup>2</sup> I dati inesatti sono rettificati d’ufficio.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### Sezione 3: Comunicazione di dati
 
@@ -110,7 +114,25 @@ Gli impiegati possono far capo ai consulenti per la protezione dei dati della lo
 
 <sup>3</sup> La comunicazione dei dati si limita alle informazioni necessarie allo scopo della domanda.
 
-<sup>4</sup> Le disposizioni del presente articolo si applicano anche all’impiegato che cambia unità all’interno dell’Amministrazione federale. È fatto salvo l’articolo 35.
+<sup>4</sup> Le disposizioni del presente articolo si applicano anche all’impiegato che cambia unità all’interno dell’Amministrazione federale. Sono fatti salvi gli articoli 7*a*, 7*b*, 22 e 35.[^7-1]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 7a
+
+**Comunicazione di dati nel contesto di riorganizzazioni e di rilevamenti dell’esercizio a fini organizzativi**[^7a-1]
+
+Per la preparazione e l’attuazione di riorganizzazioni e di rilevamenti dell’esercizio a fini organizzativi, possono essere comunicati alla nuova unità amministrativa i dati necessari alla verifica del carattere ragionevolmente esigibile di un lavoro o al rilevamento di rapporti di lavoro. L’impiegato interessato dev’essere informato circa la comunicazione dei dati.
+
+[^7a-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 7b
+
+**Comunicazione di dati in caso di prestazioni finanziarie indebite**[^7b-1]
+
+La comunicazione di dati tra unità amministrative è possibile se è stata appurata una prestazione finanziaria indebita a favore di un impiegato o se ne sussiste il fondato sospetto. L’impiegato interessato dev’essere informato circa la comunicazione dei dati.
+
+[^7b-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ## Capitolo 2: Dossier di candidatura
 
@@ -120,9 +142,14 @@ Gli impiegati possono far capo ai consulenti per la protezione dei dati della lo
 
 **Candidatura**
 
-<sup>1</sup> I candidati possono presentare il loro dossier di candidatura in forma cartacea o elettronica.
+<sup>1</sup> I candidati presentano il loro dossier di candidatura in forma elettronica. In casi eccezionali possono presentare il dossier di candidatura in forma cartacea.[^8-1]
 
 <sup>2</sup> Le unità amministrative possono digitalizzare i dossier di candidatura presentati in forma cartacea.
+
+<sup>3</sup> Invece di un colloquio in sede, le unità amministrative possono svolgere una conferenza audio o video oppure utilizzare registrazioni effettuate dal candidato. Le registrazioni sono parte integrante del dossier di candidatura.[^8-2]
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^8-2]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 9
 
@@ -138,11 +165,12 @@ Gli impiegati possono far capo ai consulenti per la protezione dei dati della lo
 
 <sup>1</sup> I servizi del personale, i centri di prestazione di servizi in materia di personale e le persone responsabili della selezione dei candidati elaborano nel loro ambito i dati dei dossier di candidatura, per quanto sia necessario all’adempimento dei loro compiti.
 
-<sup>2</sup> Al termine della procedura di candidatura, i dati dei candidati assunti sono trasferiti nel dossier personale (art. 19−23) e nel sistema d’informazione per la gestione dei dati del personale (art. 30−38).
+<sup>2</sup> Al termine della procedura di candidatura, i dati dei candidati assunti sono trasferiti nel dossier personale (art. 19−23) e nel sistema d’informazione per la gestione dei dati del personale (art. 30−38). Fanno eccezione le registrazioni di cui all’articolo 8 capoverso 3.[^10-1]
 
-<sup>3</sup> I dossier di candidatura cartacei sono restituiti ai candidati non assunti. Eccezion fatta per la lettera di candidatura, gli altri dati sono distrutti entro tre mesi. Sono fatti salvi accordi particolari con i candidati. La durata di conservazione di un dossier può essere prorogata se ciò è necessario per il trattamento di un ricorso secondo l’articolo 13 capoverso 2 della legge federale del 24 marzo 1995[^10-1] sulla parità dei sessi.
+<sup>3</sup> I dossier di candidatura cartacei sono restituiti ai candidati non assunti. Eccezion fatta per la lettera di candidatura, gli altri dati sono distrutti entro tre mesi. Sono fatti salvi accordi particolari con i candidati. La durata di conservazione di un dossier può essere prorogata se ciò è necessario per il trattamento di un ricorso secondo l’articolo 13 capoverso 2 della legge federale del 24 marzo 1995[^10-2] sulla parità dei sessi.
 
-[^10-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^10-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^10-2]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 
 #### Art. 11
 
@@ -234,7 +262,7 @@ Il dossier personale può contenere le seguenti categorie di dati personali degn
 
 - a. indicazioni sulla persona, la sua famiglia e i suoi congiunti;
 - b. informazioni contenute nella documentazione di candidatura;
-- c. dati sullo stato di salute per quanto attiene al rapporto di lavoro, in particolare certificati medici nonché dati sulle assenze a seguito di malattia o infortunio, referti del servizio medico, valutazioni di idoneità e dati del case management;
+- c.[^19-1] dati sullo stato di salute per quanto attiene al rapporto di lavoro, in particolare certificati medici nonché dati sulle assenze a seguito di malattia o infortunio, perizie mediche, valutazioni di idoneità e dati del case management;
 - d. indicazioni sulle prestazioni, le competenze e il potenziale;
 - e. attestati di lavoro;
 - f. atti procedurali e decisioni delle autorità, in particolare pignoramenti del salario, decisioni del Servizio specializzato per i controlli di sicurezza relativi alle persone, estratti di sentenze giudiziarie per determinare il diritto agli assegni familiari, atti sulle controversie derivanti dal rapporto di lavoro nonché atti concernenti inchieste disciplinari;
@@ -243,11 +271,21 @@ Il dossier personale può contenere le seguenti categorie di dati personali degn
 
 <sup>2</sup> I dati contenuti nel dossier personale sono elencati nell’allegato 2.
 
+[^19-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
 #### Art. 20
 
-**Trattamento dei dati**
+**Trattamento dei dati**[^20-1]
 
-Iservizi del personale, i centri di prestazione di servizi in materia di personale e i superiori responsabili elaborano i dati del dossier personale, per quanto sia necessario all’adempimento dei loro compiti.
+I servizi e le persone seguenti trattano i dati del dossier personale, per quanto sia necessario all’adempimento dei loro compiti:
+
+- a. i servizi del personale;
+- b. i centri di prestazione di servizi in materia di personale;
+- c. i superiori;
+- d. i settori specializzati dell’UFPER;
+- e. i servizi giuridici.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 21
 
@@ -255,21 +293,23 @@ Iservizi del personale, i centri di prestazione di servizi in materia di persona
 
 Le unità amministrative sono responsabili della protezione dei dati; è fatta salva la responsabilità dei dipartimenti i cui centri di prestazione di servizi in materia di personale hanno accesso ai dossier personali.
 
-#### Art. 22
+**Art. 22**[^21-1] Trasmissione del dossier in caso di passaggio a un’altra unità amministrativa
 
-**Trasmissione del dossier in caso di passaggio a un’altra unità amministrativa**
+<sup>1</sup> Se un impiegato passa a un’altra unità amministrativa, il dossier personale non è trasmesso alla nuova unità amministrativa. Qualsiasi deroga deve essere convenuta con l’impiegato.
 
-Se un impiegato passa a un’altra unità amministrativa, il dossier personale non è trasmesso alla nuova unità amministrativa. Qualsiasi deroga deve essere convenuta con l’impiegato.
+<sup>2</sup> Se un impiegato passa a un’altra unità amministrativa a seguito del rilevamento dell’esercizio a fini organizzativi, il dossier personale è trasmesso alla nuova unità amministrativa.
 
-#### Art. 23
+<sup>3</sup> Previo consenso dell’impiegato, la nuova unità amministrativa può chiedere che la vecchia unità amministrativa le trasmetta i documenti che l’impiegato ha già presentato a quest’ultima.
 
-**Conservazione, archiviazione e distruzione**
+**Art. 23** Conservazione, archiviazione e distruzione
 
 <sup>1</sup> I dati del dossier personale sono conservati per dieci anni dopo la cessazione del rapporto di lavoro. Allo scadere del termine di conservazione, i dati sono offerti all’Archivio federale. I dati considerati senza valore archivistico dall’Archivio federale sono distrutti.
 
 <sup>2</sup> I risultati dei test della personalità e dei test di valutazione delle potenzialità sono conservati per cinque anni e poi distrutti.
 
 <sup>3</sup> Le valutazioni delle prestazioni e le decisioni basate su una valutazione sono conservate per cinque anni. Esse possono essere conservate eccezionalmente più a lungo se una controversia concernente pretese derivanti dal rapporto di lavoro lo giustifica. In un simile caso sono conservati al più tardi fino alla conclusione della procedura e poi distrutti.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### Sezione 2: Sistema d’informazione per i dossier personali
 
@@ -291,7 +331,9 @@ I dati non degni di particolare protezione possono essere ripresi dal sistema d�
 
 <sup>1</sup> Le persone responsabili in seno al dipartimento assegnano su richiesta delle unità amministrative i diritti d’accesso ai loro servizi del personale e centri di prestazione di servizi in materia di personale.
 
-<sup>2</sup> I servizi del personale e i centri di prestazione di servizi in materia di personale, se necessario, possono assegnare un diritto d’accesso ai superiori.
+<sup>2</sup> I servizi del personale e i centri di prestazione di servizi in materia di personale, se necessario, possono assegnare un diritto d’accesso ai superiori, al pertinente servizio giuridico e ai settori specializzati dell’UFPER.[^26-1]
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 27
 
@@ -357,7 +399,14 @@ Il SIGDP è costituito dai seguenti elementi:
 - d. rilevazione delle presenze del personale per la gestione del tempo di lavoro;
 - e. gestione dei costi del personale per la pianificazione e il controllo della gestione dei costi del personale;
 - f. sviluppo del personale per la pianificazione della carriera e dello sviluppo degli impiegati;
-- g. gestione dei viaggi per la rilevazione e il conteggio dei viaggi, compresi i relativi costi e spese.
+- g. gestione dei viaggi per la rilevazione e il conteggio dei viaggi, compresi i relativi costi e spese;
+- h.[^32-1] inserimento del personale per la gestione dei dati personali di nuovi impiegati;
+- i.[^32-2] dati di base per la redazione di attestati di lavoro;
+- j.[^32-3] gestione delle assenze in caso di malattia e infortunio.
+
+[^32-1]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-2]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-3]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 33
 
@@ -444,25 +493,26 @@ Il sistema d’informazione per il controllo della gestione del personale contie
 - a. dati sullo stato di salute per quanto attiene al rapporto di lavoro, in particolare dati sulle assenze a seguito di malattia o infortunio;
 - b. indicazioni sulle prestazioni e le competenze.
 
-<sup>2</sup> I dati per il sistema d’informazione per il controllo della gestione del personale vengono ripresi dal SIGDP. Non possono essere modificati.
+<sup>2</sup> I dati per il sistema d’informazione per il controllo della gestione del personale vengono ripresi dal SIGDP.[^40-1]
 
 <sup>3</sup>
 
 I dati per la rilevazione delle presenze del personale vengono inoltre ripresi:
 
-- a. dai sistemi d’informazione per l’esecuzione dei processi di supporto alle finanze e alla logistica conformemente agli articoli 42–47 dell’ordinanza del 5 aprile 2006[^40-1] sulle finanze della Confederazione;
-- b. dal sistema d’informazione per la gestione integrata delle risorse conformemente agli articoli 179*a*–179*f* della legge federale del 3 ottobre 2008[^40-2] sui sistemi d’informazione militari;
-- c. dal sistema d’informazione concernente il personale della Farmacia dell’esercito conformemente agli articoli 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> dell’ordinanza del 16 dicembre 2009[^40-3] sui sistemi d’informazione militari (OSIM);
+- a. dai sistemi d’informazione per l’esecuzione dei processi di supporto alle finanze e alla logistica conformemente agli articoli 42–47 dell’ordinanza del 5 aprile 2006[^40-2] sulle finanze della Confederazione;
+- b. dal sistema d’informazione per la gestione integrata delle risorse conformemente agli articoli 179*a*–179*f* della legge federale del 3 ottobre 2008[^40-3] sui sistemi d’informazione militari;
+- c. dal sistema d’informazione concernente il personale della Farmacia dell’esercito conformemente agli articoli 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> dell’ordinanza del 16 dicembre 2009[^40-4] sui sistemi d’informazione militari (OSIM);
 - d. dal sistema d’informazione concernente il personale delle unità amministrative del DDPS esterne all’Aggruppamento Difesa conformemente agli articoli 72*j*–72*j*<sup>sexies</sup> OSIM;
-- e. dal sistema d’informazione «Perizoll» conformemente all’allegato 7 dell’ordinanza del 23 agosto 2017[^40-4] sul trattamento dei dati personali nell’Ufficio federale della dogana e della sicurezza dei confini[^40-5].
+- e. dal sistema d’informazione «Perizoll» conformemente all’allegato 7 dell’ordinanza del 23 agosto 2017[^40-5] sul trattamento dei dati personali nell’Ufficio federale della dogana e della sicurezza dei confini[^40-6].
 
 <sup>4</sup> I dati contenuti nel sistema d’informazione per il controllo della gestione del personale sono elencati nell’allegato 4.
 
-[^40-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
-[^40-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^40-3]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
-[^40-4]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
-[^40-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^40-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^40-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^40-3]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^40-4]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^40-5]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^40-6]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 41
 
@@ -484,7 +534,28 @@ Il sistema d’informazione per il controllo della gestione del personale è cos
 
 <sup>1</sup> I servizi del personale, i centri di prestazione di servizi in materia di personale, i servizi finanziari, i settori specializzati dell’UFPER e i servizi responsabili del supporto tecnico elaborano i dati, per quanto sia necessario all’adempimento dei loro compiti.
 
+<sup>1bis</sup> Gli impiegati possono consultare i propri dati, più precisamente i dati riferiti agli orari di presenza, purché abbiano il diritto di accedervi.[^42-1]
+
+<sup>1ter</sup> I superiori possono consultare i dati dei loro collaboratori, più precisamente i dati riferiti agli orari di presenza, purché abbiano diritto di accedervi.[^42-2]
+
 <sup>2</sup> La portata delle autorizzazioni al trattamento dei dati è disciplinata nell’allegato 4.
+
+[^42-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42-2]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 42a
+
+**Comunicazione dei dati**[^42a-1]
+
+I dati contenuti nel sistema d’informazione per il controllo della gestione del personale, compresi i dati personali degni di particolare protezione, possono essere trasmessi ad altri sistemi d’informazione a condizione che:
+
+- a. l’altro sistema d’informazione sia dotato di una base legale per la comunicazione dei dati e di una base legale formale per la comunicazione di dati personali degni di particolare protezione;
+- b. l’altro sistema d’informazione sia stato notificato all’Incaricato federale della protezione dei dati e della trasparenza, a eccezione delle collezioni di dati di cui all’articolo 18 dell’ordinanza del 14 giugno 1993[^42a-2] relativa alla legge federale sulla protezione dei dati;
+- c. l’altro il sistema d’informazione sia dotato di un regolamento per il trattamento dei dati; e
+- d. non sussistano elevati requisiti di sicurezza per i dati degli impiegati.
+
+[^42a-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 43
 
@@ -548,9 +619,9 @@ I dati sono elaborati dai partecipanti ai corsi, dalle persone responsabili dell
 Gli organi competenti raccolgono i dati per la piattaforma LMS Confederazione presso:
 
 - a. i partecipanti ai corsi;
-- b. l’archivio centralizzato delle identità conformemente all’articolo 13 OIAM[^49-1].
+- b.[^49-1] il SIGDP.
 
-[^49-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^49-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 50
 
@@ -645,71 +716,17 @@ La CSPers è responsabile del sistema d’informazione della CSPers.
 
 ## Capitolo 8: Dati relativi alla salute
 
-### Sezione 1: Disposizioni generali
+[^chap8-1]
+
+[^chap8-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 59
 
-**Contenuto dei documenti medici**
+I medici incaricati di effettuare una perizia possono trasmettere i dati relativi alla salute all’unità amministrativa o a terzi soltanto se sono soddisfatti i requisiti di cui all’articolo 28 capoversi 2–4 LPers.
 
-I documenti medici possono contenere in particolare i dati elencati nell’allegato 7.
+#### Art. 60 a 66
 
-#### Art. 60
-
-**Diritto d’accesso alle informazioni**
-
-Se ritiene che le informazioni contenute nei documenti medici possano essere pregiudizievoli per l’impiegato, il servizio medico può comunicare i dati a un medico di fiducia designato dall’impiegato.
-
-#### Art. 61
-
-**Comunicazione di dati a terzi**
-
-<sup>1</sup> Soltanto le conclusioni tratte da constatazioni mediche del servizio medico sono comunicate al servizio del personale. Il contenuto dei documenti medici è comunicato al servizio del personale o a terzi soltanto se l’impiegato ha dato il suo consenso scritto.
-
-<sup>2</sup> Se l’impiegato non dà il suo consenso, il servizio giuridico dell’UFPER conformemente all’articolo 28 capoverso 3 LPers rappresenta il servizio designato ad autorizzare la comunicazione di dati relativi alla salute e di documenti medici.
-
-#### Art. 62
-
-**Conservazione, archiviazione e distruzione**
-
-<sup>1</sup> I documenti medici dei candidati e degli impiegati sono conservati presso il servizio medico.
-
-<sup>2</sup> I documenti medici degli impiegati sono conservati per 40 anni dopo la cessazione del rapporto di lavoro.
-
-<sup>3</sup> I documenti medici dei candidati che non sono stati assunti sono conservati al massimo per dieci anni.
-
-<sup>4</sup> Le unità amministrative informano il servizio medico sulla cessazione del rapporto di lavoro degli impiegati e sulla non assunzione di candidati.
-
-<sup>5</sup> Allo scadere del termine di conservazione, i dati sono offerti all’Archivio federale. I dati considerati senza valore archivistico dall’Archivio federale sono distrutti.
-
-### Sezione 2: Sistema d’informazione del servizio medico
-
-#### Art. 63
-
-**Scopo**
-
-Il sistema d’informazione del servizio medico serve ad amministrare, gestire e archiviare elettronicamente i documenti medici degli impiegati e dei candidati.
-
-#### Art. 64
-
-**Diritti d’accesso**
-
-Il servizio medico assegna nel singolo caso ai suoi collaboratori, a seconda della loro funzione e del loro ruolo nell’applicazione, un diritto d’accesso limitato a livello temporale e materiale.
-
-#### Art. 65
-
-**Verbalizzazione**
-
-<sup>1</sup> Gli accessi e le modifiche al sistema informatico del servizio medico sono costantemente verbalizzati.
-
-<sup>2</sup> I verbali sono conservati per un anno.
-
-<sup>3</sup> Al fine di verificare il rispetto delle norme in materia di protezione dei dati, i verbali possono essere esaminati dall’ufficio dell’UFPER preposto alla vigilanza su queste norme.
-
-#### Art. 66
-
-**Responsabilità**
-
-Il servizio medico è responsabile del sistema informatico del servizio medico.
+*Abrogati*
 
 ## Capitolo 9: Disposizioni finali
 
@@ -719,17 +736,27 @@ Il servizio medico è responsabile del sistema informatico del servizio medico.
 
 L’abrogazione e la modifica di altri atti normativi è disciplinata nell’allegato 8.
 
+#### Art. 67a
+
+**Disposizione transitoria della modifica del 19 ottobre 2022**[^67a-1]
+
+Dall’entrata in vigore della modifica del 19 ottobre 2022, l’UFPER conserva i documenti medici dei candidati e degli impiegati redatti prima del 1° gennaio 2021 per 10 anni.
+
+[^67a-1]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
 #### Art. 68
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° gennaio 2018.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 9 cpv. 2)
 
 ## Dati del dossier di candidatura
+
+[^t-1]: Aggiornato dal n. III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 Fotografia
 
@@ -767,13 +794,17 @@ Curriculum vitae
 
 Attestati, diplomi, referenze
 
-Altri documenti
+Altri documenti messi a disposizione del datore di lavoro dal candidato
 
-Allegato 2
+Registrazioni
+
+Allegato 2[^t-2]
 
 (art. 19 cpv. 2)
 
 ## Dati del dossier personale
+
+[^t-2]: Aggiornato dal n. III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Reclutamento del personale
 
@@ -810,11 +841,12 @@ Allegato 2
 
 ### 5 Salute
 
-- 5\.1 Attestato d’idoneità all’entrata
-- 5\.2 Valutazione dell’idoneità medica
+5.1 Valutazione dell’idoneità per funzioni rilevanti per la sicurezza all’entrata in servizio
+
+- 5\.2 Valutazione dell’idoneità per funzioni rilevanti per la sicurezza durante il rapporto di lavoro
 - 5\.3 Certificati medici
 - 5\.4 Autorizzazioni per medici e assicurazioni
-- 5\.5 Richieste / pareri del servizio medico
+- 5\.5 Incarichi a medici e perizie mediche
 - 5\.6 Durata delle assenze dovute a malattia e infortunio
 
 ### 6 Assicurazioni in generale
@@ -843,21 +875,23 @@ Allegato 2
 
 ### 9 Particolari categorie del personale
 
-Allegato 3
+Allegato 3[^t-3]
 
 (art. 31 cpv. 2 e 33 cpv. 4)
 
 ## Sistema d’informazione per la gestione dei dati del personale (SIGDP)
+
+[^t-3]: Aggiornato dal n. III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Portata dell’autorizzazione al trattamento dei dati
 
 ### 1.1 Tabella
 
 <table>
-<tr><td>Descrizione</td><td>UFIT− CCRU (supporto)</td><td>Settore UFPER</td><td>UFIT−CCSAP (supporto)</td><td>Centri di prestazione di servizi</td><td>Servizi del personale</td><td>Servizi finanziari</td><td>Collaboratori</td><td>Superiori</td></tr>
+<tr><th>Descrizione</th><th>UFPER-CCRU (supporto)</th><th>Settore UFPER</th><th>UFIT (supporto)</th><th>Centri di prestazione di servizi</th><th>Servizi del personale</th><th>Servizi finanziari</th><th>Collaboratori</th><th>Superiori</th></tr>
 <tr><td>Mutazione</td><td>M1)</td><td>S</td><td>M2)</td><td>M</td><td>M</td><td>S</td><td>S, M3)</td><td>S, G</td></tr>
 <tr><td>Scopo</td><td>4</td><td>4</td><td>5</td><td>1</td><td>1</td><td>2</td><td>1</td><td>1, 3</td></tr>
-<tr><td>Portata</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>C</td><td>D</td><td>E</td></tr>
+<tr><td>Portata</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>C</td><td>E</td><td>E</td></tr>
 </table>
 
 ### 1.2 Legenda della tabella
@@ -865,7 +899,7 @@ Allegato 3
 ### 1.2.1 Descrizione
 
 - CCRU Centro di competenza delle risorse umane
-- UFIT − CCSAP Ufficio federale dell’informatica e della telecomunicazione – soluzioni economico-aziendali (SAP)
+- UFIT Ufficio federale dell’informatica e della telecomunicazione
 
 ### 1.2.2 Mutazione
 
@@ -1076,21 +1110,23 @@ Date dei viaggi
 
 Spese di viaggio
 
-Allegato 4
+Allegato 4[^t-4]
 
 (art. 42 cpv. 2)
 
 ## Sistema d’informazione per il controllo della gestione del personale
+
+[^t-4]: Aggiornato dal n. III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Portata dell’autorizzazione al trattamento dei dati
 
 ### 1.1 Tabella
 
 <table>
-<tr><td>Descrizione</td><td>UFIT−CCRU (supporto)</td><td>Settore UFPER</td><td>UFIT−CCSAP (supporto)</td><td>Servizi del personale / Controller RU</td><td>Servizi finanziari / Controller FI</td></tr>
-<tr><td>Caricamento / visualizzazione dei dati</td><td>S</td><td>S</td><td>D/S</td><td>S</td><td>S</td></tr>
-<tr><td>Scopo</td><td>Controllo della gestione</td><td>Controllo della gestione</td><td>Controllo della gestione</td><td>Controllo della gestione</td><td>Controllo della gestione</td></tr>
-<tr><td>Portata</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td></tr>
+<tr><th>Designazione</th><th>UFPER-CCRU (supporto)</th><th>Settore UFPER</th><th>UFIT (supporto)</th><th>Servizi del personale / Controller RU</th><th>Servizi finanziari / Controller FI</th><th>Collaboratori</th><th>Superiori</th></tr>
+<tr><td>Caricamento / visualizzazione dei dati</td><td>S/SI</td><td>S / SI</td><td>L/S/SI</td><td>S / SI</td><td>S</td><td>S</td><td>S</td></tr>
+<tr><td>Scopo</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>Portata</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr>
 </table>
 
 ### 1.2 Legenda della tabella
@@ -1098,22 +1134,25 @@ Allegato 4
 ### 1.2.1 Descrizione
 
 - CCRU Centro di competenza delle risorse umane
-- UFIT − CCSAP Ufficio federale dell’informatica e della telecomunicazione – soluzioni economico-aziendali (SAP)
+- UFIT Ufficio federale dell’informatica e della telecomunicazione
 
-### 1.2.2 Caricamento / visualizzazione dei dati
+### 1.2.2 Caricamento, visualizzazione e simulazione dei dati
 
-- D Caricamento dei dati
+- L Caricamento
 - S Visualizzazione
+- SI Simulazione
 
 ### 1.2.3 Scopo
 
-- Controllo della gestione
+- 1 Controllo della gestione
 
 ### 1.2.4 Portata
 
 - A Intera Amministrazione federale
 - B Proprio settore contabile
-- C Soltanto controllo della gestione dei costi del personale nel proprio settore contabile
+- C Controllo della gestione dei costi del personale nel proprio settore contabile
+- D Dati propri
+- E Dati di collaboratori subordinati
 
 ### 2 Dati rilevati
 
@@ -1255,80 +1294,62 @@ Date dei viaggi
 
 Spese di viaggio
 
-Allegato 5
+Allegato 5[^t-5]
 
 (art. 47)
 
 ## Sistema d’informazione per la piattaforma didattica della Confederazione (LMS Confederazione)
 
+[^t-5]: Nuovo testo giusta il n. III cpv. 2 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
 ### Dati personali
 
-- 1\. Numero personale\*
-- 2\. Cognome\*
-- 3\. Nome\*
-- 4\. Sesso\*
+- 1\. Numero personale
+- 2\. Cognome
+- 3\. Nome
+- 4\. Sesso
 - 5\. Data di nascita
-- 6\. Lingua per la corrispondenza\*
-- 7\. Indirizzo e-mail dell’ufficio\*
-- 8\. Unità organizzativa\*
-- 9\. Indirizzo di servizio\*
-- 10\. Funzione\*
-- 11\. Identificativi personali locali\*
-- 12\. Numero di cellulare (facoltativo e indicato dalla persona interessata)
-- 13\. Successo nell’apprendimento («test adempiuto/non adempiuto»)
+- 6\. Lingua per la corrispondenza
+- 7\. Indirizzo e-mail dell’ufficio
+- 8\. Unità organizzativa
+- 9\. Indirizzo di servizio / indirizzo privato
+- 10\. Funzione
+- 11\. Identificativi personali locali
+- 12\. Numero di cellulare (facoltativo e inserito dalla persona interessata)
+- 13\. Successo nell’apprendimento (test adempiuto/non adempiuto)
 - 14\. Progressi nell’apprendimento (non iniziato / iniziato / concluso)
 - 15\. Corsi completati
 - 16\. Iscrizione a corsi / cancellazioni / partecipazione a corsi
 - 17\. Capacità e competenze acquisite a seguito dei corsi completati
 - 18\. Ruolo(i) nella piattaforma LMS (partecipante, docente, amministratore del corso)
-- \* dati ottenuti dall’archivio centralizzato delle identità
 
-Allegato 6
+Annexe 6
 
 (art. 53)
 
-## Dati dei fascicoli della Consulenza sociale del personale dell’Amministrazione federale (CSPers)
+## Données du dossier de la Consultation sociale du personnel de l’administration fédérale (CSPers)
 
-### 1 Dati di base
+### 1 Données de base
 
-- 1\.1 Dati personali
-- 1\.2 Relazioni
-- 1\.3 Rapporto di lavoro
-- 1\.4 Rendite
-- 1\.5 Settori della consulenza
+- 1\.1 Coordonnées
+- 1\.2 Relations
+- 1\.3 Rapports de travail
+- 1\.4 Rentes
+- 1\.5 Domaines de conseil
 
-### 2 Dati relativi ai casi concreti
+### 2 Cas concrets
 
-- 2\.1 Registro
-- 2\.2 Analisi della situazione
-- 2\.3 Dati di base del *case management*
-- 2\.4 Piano d’integrazione (compresa la valutazione nell’ambito del *case manag**e**ment* della CSPers)
-- 2\.5 Continuazione del pagamento dello stipendio / incapacità lavorativa
-- 2\.6 Attribuzione di fondi per l’integrazione professionale
-- 2\.7 Domanda al fondo di soccorso del personale federale
+- 2\.1 Journal
+- 2\.2 Analyse de la situation
+- 2\.3 Données de base de la gestion de cas
+- 2\.4 Plan d’intégration (y compris évaluation dans le cadre de la gestion de cas par la CSPers)
+- 2\.5 Versement du salaire / incapacité de travail
+- 2\.6 Allocation de moyens financiers destinés à l’intégration professionnelle
+- 2\.7 Demande au fonds de secours du personnel de la Confédération
 
-Allegato 7
+Allegato 7[^t-6]
 
-(art. 59)
-
-## Dati dei documenti medici
-
-### 1 Dati di base
-
-- 1\.1 Dati personali (cognome, nome, data di nascita, numero AVS, professione, qualifica, funzione, superiore ecc.)
-- 1\.2 Medici, ospedali
-- 1\.3 Categorie professionali
-- 1\.4 Servizi e luoghi di servizio
-- 1\.5 Assunzione dei costi
-
-### 2 Dati relativi ai casi concreti
-
-- 2\.1 Corrispondenza (servizi, rapporti medici, collaboratori o loro rappresentanti, ad es. avvocato, sindacato ecc.)
-- 2\.2 Registrazione delle prestazioni
-- 2\.3 Fissazione dei termini
-- 2\.4 Risultati delle analisi
-- 2\.5 Diagnosi
-- 2\.6 Idoneità medica
+[^t-6]: Abrogato dal n. III cpv. 3 dell’O del 19 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 Allegato 8
 
@@ -1346,5 +1367,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[RU 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786), [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378)[2209](https://fedlex.data.admin.ch/eli/oc/2013/467)n. III, [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
+[^annex8-lvlu1-1]: [[RU 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786); [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378), [2209](https://fedlex.data.admin.ch/eli/oc/2013/467)n. III; [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
 [^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793).

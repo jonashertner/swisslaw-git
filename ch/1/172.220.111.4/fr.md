@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 concernant la protection des données pers
 short: OPDC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20220101/fr"
 
 (OPDC)
 
-du 22 novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 27, 27*d*, al. 6, et 28, al. 1<sup>quater</sup>, de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^ingress-1], vu l’art. 6 de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^ingress-2],
+vu les art. 27, al. 5 et 27*d*, al. 6 de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^ingress-1], vu l’art. 29 de la loi fédérale du 18 décembre 2020 sur le traitement des données personnelles par le Département fédéral des affaires étrangères[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-2]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -45,16 +46,17 @@ La présente ordonnance règle le traitement des données personnelles des candi
 - c. des personnes en formation, régies par la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^1-3];
 - d. du personnel régi par l’ordonnance du 2 décembre 2005 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire[^1-4].
 
-<sup>2</sup> Le chap. 4 de la présente ordonnance s’applique en outre aux personnes liées à l’administration fédérale par un mandat ou un contrat de location de services et aux consuls honoraires.
+<sup>2</sup> Les chapitres 4 et 6 de la présente ordonnance s’appliquent en outre aux personnes liées à l’administration fédérale par un mandat ou un contrat de location de services et aux consuls honoraires.[^1-5]
 
-<sup>3</sup> La présente ordonnance ne s’applique pas si la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^1-5] et l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée[^1-6] contiennent des dispositions concernant le traitement des données personnelles de candidats ou d’employés et d’anciens employés du Département fédéral de la défense, de la protection de la population et des sports (DDPS).
+<sup>3</sup> La présente ordonnance ne s’applique pas si la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^1-6] et l’ordonnance du 16 décembre 2009 sur les systèmes d’information de l’armée[^1-7] contiennent des dispositions concernant le traitement des données personnelles de candidats ou d’employés et d’anciens employés du Département fédéral de la défense, de la protection de la population et des sports (DDPS).
 
 [^1-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 [^1-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^1-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^1-4]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
-[^1-5]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^1-6]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^1-6]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^1-7]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 2
 
@@ -84,9 +86,11 @@ Les employés peuvent demander conseil aux conseillers à la protection des donn
 
 **Droit d’accès, de rectification et d’effacement**
 
-<sup>1</sup> Les personnes concernées peuvent exercer leur droit d’accès, de rectification et d’effacement des données auprès du service du personnel concerné, de la Consultation sociale du personnel de l’administration fédérale (CSPers) et du service médical. Les art. 15, 27 et 60 sont réservés.
+<sup>1</sup> Les personnes concernées peuvent exercer leur droit d’accès, de rectification et d’effacement des données auprès du service du personnel concerné, de la Consultation sociale du personnel de l’administration fédérale (CSPers) et des médecins désignés par le Département fédéral des finances. Les art. 15 et 27 sont réservés.[^5-1]
 
 <sup>2</sup> Les données incorrectes doivent être corrigées d’office.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### Section 3 Communication de données
 
@@ -110,7 +114,25 @@ Les employés peuvent demander conseil aux conseillers à la protection des donn
 
 <sup>3</sup> La communication se limite aux informations nécessaires au but de la demande.
 
-<sup>4</sup> Les dispositions du présent article s’appliquent aussi aux employés qui changent d’unité administrative à l’intérieur de l’administration fédérale. L’art. 35 est réservé.
+<sup>4</sup> Les dispositions du présent article s’appliquent aussi aux employés qui changent d’unité administrative à l’intérieur de l’administration fédérale. Les art. 7*a*, 7*b*, 22 et 35 sont réservés.[^7-1]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 7a
+
+**Communication de données dans le cadre de réorganisations ou de reprises d’exploitation organisationnelle**[^7a-1]
+
+Les données nécessaires à la vérification du caractère raisonnablement exigible d’un travail ou au transfert de rapports de travail peuvent être communiquées à la nouvelle unité administrative pour la préparation et la mise en œuvre de réorganisations ou de reprises d’exploitation organisationnelle. L’employé concerné doit être informé de la communication des données.
+
+[^7a-1]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 7b
+
+**Communication de données en cas de prestations financières indues**[^7b-1]
+
+La communication de données entre unités administratives est possible si la fourniture d’une prestation financière indue à un employé a été constatée ou qu’il en existe un soupçon fondé. L’employé concerné doit être informé de la communication des données.
+
+[^7b-1]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ## Chapitre 2 Dossier de candidature
 
@@ -120,9 +142,14 @@ Les employés peuvent demander conseil aux conseillers à la protection des donn
 
 **Candidature**
 
-<sup>1</sup> Les candidats peuvent transmettre leur dossier de candidature sur papier ou par voie électronique.
+<sup>1</sup> Les candidats transmettent leur dossier de candidature par voie électronique. Exceptionnellement, ils peuvent le transmettre sur papier.[^8-1]
 
 <sup>2</sup> Les unités administratives peuvent saisir électroniquement un dossier de candidature transmis sur papier.
+
+<sup>3</sup> Au lieu de mener des entretiens de candidature sur place, les unités administratives peuvent tenir des conférences audio ou vidéo, ou encore utiliser des enregistrements réalisés par le candidat. Ces différentes sources documentaires font partie du dossier de candidature.[^8-2]
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^8-2]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 9
 
@@ -138,11 +165,12 @@ Les employés peuvent demander conseil aux conseillers à la protection des donn
 
 <sup>1</sup> Les services du personnel, les centres de services spécialisés dans la gestion du personnel et les personnes responsables du choix des candidats traitent les données des dossiers de candidature dans leur domaine pour autant que l’exécution de leurs tâches l’exige.
 
-<sup>2</sup> À l’issue de la procédure de candidature, les données des personnes engagées sont saisies dans le dossier du personnel (art. 19 à 23) et dans le système d’information pour la gestion des données du personnel (art. 30 à 38).
+<sup>2</sup> À l’issue de la procédure de candidature, les données des personnes engagées sont saisies dans le dossier du personnel (art. 19 à 23) et dans le système d’information pour la gestion des données du personnel (art. 30 à 38). Les sources documentaires visées à l’art. 8, al. 3, ne sont pas concernées.[^10-1]
 
-<sup>3</sup> Les dossiers de candidature transmis sur papier sont renvoyés aux candidats non retenus. Les autres données, à l’exception de la lettre de candidature, sont détruites au plus tard dans les trois mois suivant la clôture de la procédure de candidature. Sont réservés les accords spéciaux conclus avec les candidats. Le délai de conservation d’un dossier peut être prolongé si ce dernier est nécessaire au traitement de recours selon l’art. 13, al. 2, de la loi du 24 mars 1995 sur l’égalité[^10-1].
+<sup>3</sup> Les dossiers de candidature transmis sur papier sont renvoyés aux candidats non retenus. Les autres données, à l’exception de la lettre de candidature, sont détruites au plus tard dans les trois mois suivant la clôture de la procédure de candidature. Sont réservés les accords spéciaux conclus avec les candidats. Le délai de conservation d’un dossier peut être prolongé si ce dernier est nécessaire au traitement de recours selon l’art. 13, al. 2, de la loi du 24 mars 1995 sur l’égalité[^10-2].
 
-[^10-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^10-2]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 
 #### Art. 11
 
@@ -234,7 +262,7 @@ Les dossiers du personnel peuvent contenir les données sensibles suivantes:
 
 - a. données relatives à la personne, à sa famille et à ses proches;
 - b. informations tirées du dossier de candidature;
-- c. données relatives à la santé en lien avec les rapports de travail, notamment certificats médicaux et absences consécutives à une maladie ou un accident, rapports du service médical, évaluations de l’aptitude au travail et données de la gestion des cas;
+- c.[^19-1] données relatives à la santé en lien avec les rapports de travail, notamment certificats médicaux et absences consécutives à une maladie ou un accident, expertises médicales, évaluations de l’aptitude au travail et données de la gestion des cas;
 - d. données relatives aux prestations, aux compétences et au potentiel;
 - e. certificats de travail;
 - f. actes de procédure et décisions des autorités, notamment saisies de salaire, décisions du service chargé des contrôles de sécurité relatifs aux personnes, extraits de jugements en vue de déterminer les ayants droit aux allocations familiales, actes concernant des litiges liés aux rapports de travail et actes concernant des enquêtes disciplinaires;
@@ -243,11 +271,21 @@ Les dossiers du personnel peuvent contenir les données sensibles suivantes:
 
 <sup>2</sup> Les données contenues dans le dossier du personnel sont énumérées à l’annexe 2.
 
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
 #### Art. 20
 
-**Traitement des données**
+**Traitement des données**[^20-1]
 
-Les services du personnel, les centres de services spécialisés dans la gestion du personnel et les supérieurs hiérarchiques traitent les données des dossiers du personnel pour autant que l’exécution de leurs tâches l’exige.
+Les services suivants traitent les données des dossiers du personnel pour autant que l’exécution de leurs tâches l’exige:
+
+- a. les services du personnel;
+- b. les centres de services spécialisés dans la gestion du personnel;
+- c. les supérieurs hiérarchiques;
+- d. les domaines spécialisés de l’OFPER;
+- e. les services juridiques.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 21
 
@@ -257,9 +295,15 @@ La responsabilité de la protection des données incombe aux unités administrat
 
 #### Art. 22
 
-**Transmission du dossier en cas de transfert interne**
+**Transmission du dossier en cas de transfert interne**[^22-1]
 
-En cas de transfert dans une autre unité administrative, le dossier du personnel n’est pas transmis à celle-ci. Toute dérogation doit être convenue avec l’employé concerné.
+<sup>1</sup> En cas de transfert dans une autre unité administrative, le dossier du personnel n’est pas transmis à celle-ci. Toute dérogation doit être convenue avec l’employé concerné.
+
+<sup>2</sup> En cas de transfert dans une autre unité administrative consécutif à une reprise d’exploitation organisationnelle, le dossier du personnel est transmis à la nouvelle unité administrative.
+
+<sup>3</sup> En accord avec l’employé concerné, la nouvelle unité administrative peut demander à l’ancienne unité administrative de lui fournir les documents que l’employé a déjà remis à celle-ci.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 23
 
@@ -291,7 +335,9 @@ Les données non sensibles peuvent être reprises du système d’information po
 
 <sup>1</sup> Les personnes responsables au sein du département octroient à la demande des unités administratives les droits d’accès aux services du personnel et aux centres de services spécialisés dans la gestion du personnel.
 
-<sup>2</sup> Les services du personnel et les centres de services spécialisés dans la gestion du personnel peuvent octroyer, au besoin, un droit d’accès aux supérieurs hiérarchiques.
+<sup>2</sup> Les services du personnel et les centres de services spécialisés dans la gestion du personnel peuvent octroyer, au besoin, un droit d’accès aux supérieurs hiérarchiques, au service juridique concerné et aux domaines spécialisés de l’OFPER.[^26-1]
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 27
 
@@ -357,7 +403,14 @@ L’IGDP comprend les modules suivants:
 - d. gestion du temps, pour la gestion des données relatives au temps de travail;
 - e. gestion des coûts de personnel, pour la planification et le contrôle de gestion des coûts de personnel;
 - f. développement du personnel, pour le plan de carrière et la planification du développement des employés;
-- g. gestion des déplacements, pour la saisie et le décompte des déplacements, y compris les coûts de déplacement et les frais correspondants.
+- g. gestion des déplacements, pour la saisie et le décompte des déplacements, y compris les coûts de déplacement et les frais correspondants;
+- h.[^32-1] introduction du personnel, pour la gestion des données personnelles des nouveaux employés;
+- i.[^32-2] données de base servant à l’établissement des certificats de travail;
+- j.[^32-3] gestion des absences consécutives à une maladie ou un accident.
+
+[^32-1]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-2]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-3]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 33
 
@@ -444,25 +497,26 @@ Le système d’information pour le contrôle de gestion du personnel contient l
 - a. données relatives à la santé en lien avec les rapports de travail, notamment absences consécutives à une maladie ou un accident;
 - b. données relatives aux prestations et aux compétences.
 
-<sup>2</sup> Les données destinées au système d’information pour le contrôle de gestion du personnel sont reprises de l’IGDP. Elles ne doivent pas être modifiées.
+<sup>2</sup> Les données destinées au système d’information pour le contrôle de gestion du personnel sont reprises de l’IGDP.[^40-1]
 
 <sup>3</sup>
 
 Les données relatives à la gestion du temps dans le système d’information pour le contrôle de gestion du personnel sont reprises également des systèmes suivants:
 
-- a. systèmes d’information nécessaires aux processus de soutien dans les domaines des finances et de la logistique de l’administration fédérale, visés aux art. 42 à 47 de l’ordonnance du 5 avril 2006 sur les finances de la Confédération[^40-1];
-- b. système d’information pour la gestion intégrée des ressources, visé aux art. 179*a* à 179*f* de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^40-2];
-- c. système d’information sur le personnel de la Pharmacie de l’armée, visé aux art. 72*g*<sup>septies</sup> à 72*g*<sup>undecies</sup> de l’ordonnance du 16 décembre 2009 sur le système d’information de l’armée (OSIAr)[^40-3];
+- a. systèmes d’information nécessaires aux processus de soutien dans les domaines des finances et de la logistique de l’administration fédérale, visés aux art. 42 à 47 de l’ordonnance du 5 avril 2006 sur les finances de la Confédération[^40-2];
+- b. système d’information pour la gestion intégrée des ressources, visé aux art. 179*a* à 179*f* de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^40-3];
+- c. système d’information sur le personnel de la Pharmacie de l’armée, visé aux art. 72*g*<sup>septies</sup> à 72*g*<sup>undecies</sup> de l’ordonnance du 16 décembre 2009 sur le système d’information de l’armée (OSIAr)[^40-4];
 - d. système d’information sur le personnel des unités administratives du DDPS hors du Groupement Défense, visé aux art. 72*j* à 72*j*<sup>sexies</sup> OSIAr;
-- e. système d’information « Perizoll », visé à l’annexe 7 de l’ordonnance du 23 août 2017 sur le traitement des données dans l’Office fédéral de la douane et de la sécurité des frontières[^40-4] [^40-5].
+- e. système d’information « Perizoll », visé à l’annexe 7 de l’ordonnance du 23 août 2017 sur le traitement des données dans l’Office fédéral de la douane et de la sécurité des frontières[^40-5] [^40-6].
 
 <sup>4</sup> Les données contenues dans le système d’information pour le contrôle de gestion du personnel sont énumérées à l’annexe 4.
 
-[^40-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
-[^40-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^40-3]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
-[^40-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^40-5]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^40-2]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^40-3]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^40-4]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^40-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^40-6]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
 
 #### Art. 41
 
@@ -484,7 +538,28 @@ Le système d’information pour le contrôle de gestion du personnel comprend l
 
 <sup>1</sup> Les services du personnel, les centres de services spécialisés dans la gestion du personnel, les services financiers, les domaines spécialisés de l’OFPER et les services d’assistance technique traitent les données pour autant que l’exécution de leurs tâches l’exige.
 
+<sup>1bis</sup> Les employés peuvent consulter leurs propres données, notamment les données relatives au temps de travail, pour autant qu’ils disposent d’un droit d’accès.[^42-1]
+
+<sup>1ter</sup> Les supérieurs hiérarchiques peuvent consulter les données de leurs collaborateurs, notamment les données relatives au temps de travail, pour autant qu’ils disposent d’un droit d’accès.[^42-2]
+
 <sup>2</sup> L’étendue des droits de traitement est réglée à l’annexe 4.
+
+[^42-1]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42-2]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 42a
+
+**Communication des données**[^42a-1]
+
+Les données, y compris les données sensibles, contenues dans le système d’information pour le contrôle de gestion du personnel peuvent être communiquées à d’autres systèmes d’information:
+
+- a. si pour l’autre système d’information il existe une base légale pour la communication des données et une base légale formelle pour la communication des données sensibles;
+- b. si le système d’information a été déclaré au Préposé fédéral à la protection des données et à la transparence, à l’exception des fichiers visés à l’art. 18 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^42a-2];
+- c. si un règlement de traitement a été établi pour ce système d’information, et
+- d. s’il n’existe pas d’exigence de sécurité accrue pour les données des employés.
+
+[^42a-1]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 43
 
@@ -548,9 +623,9 @@ Les participants aux cours, les responsables de la formation et de l’encadreme
 Les services responsables collectent les données pour le LMS de la Confédération:
 
 - a. auprès des participants aux cours;
-- b. dans la base centralisée des identités visée à l’art. 13 OIAM[^49-1].
+- b.[^49-1] dans l’IGDP.
 
-[^49-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 50
 
@@ -645,71 +720,19 @@ La CSPers est responsable de son système d’information.
 
 ## Chapitre 8 Données relatives à la santé
 
-### Section 1 Dispositions générales
+[^chap8-1]
+
+[^chap8-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 59
 
 **Contenu du dossier médical**
 
-Le dossier médical peut contenir notamment les données énumérées à l’annexe 7.
+Les médecins chargés de réaliser des expertises médicales ne peuvent communiquer à l’unité administrative ou à des tiers des données relatives à la santé que si les exigences énoncées à l’art. 28, al. 2 à 4, LPers sont remplies.
 
-#### Art. 60
+#### Art. 60 à 66
 
-**Communication de données au médecin de confiance**
-
-Si le service médical estime que les renseignements contenus dans le dossier médical sont préjudiciables à l’employé, il peut communiquer les données à un médecin de confiance désigné par l’employé.
-
-#### Art. 61
-
-**Communication de données à des tiers**
-
-<sup>1</sup> Seules les conclusions des constats médicaux établis par le service médical sont communiquées au service du personnel. Le contenu du dossier médical n’est communiqué au service du personnel ou à des tiers que si l’employé a donné préalablement son consentement écrit.
-
-<sup>2</sup> Si l’employé ne donne pas son consentement, le service juridique de l’OFPER est le service compétent selon l’art. 28, al. 3, LPers pour autoriser la communication de données relatives à la santé ou de dossiers médicaux.
-
-#### Art. 62
-
-**Conservation, archivage et destruction**
-
-<sup>1</sup> Le dossier médical des employés et des candidats est conservé par le service médical.
-
-<sup>2</sup> Le dossier médical des employés est conservé pendant les 40 ans qui suivent la fin des rapports de travail.
-
-<sup>3</sup> Le dossier médical des candidats qui n’ont pas été engagés est conservé au maximum pendant dix ans.
-
-<sup>4</sup> Les unités administratives informent le service médical de la fin des rapports de travail des employés et du non-engagement de candidats.
-
-<sup>5</sup> À l’expiration du délai de conservation, les données sont proposées aux Archives fédérales. Les données jugées sans valeur archivistique par les Archives fédérales sont détruites.
-
-### Section 2 Système d’information du service médical
-
-#### Art. 63
-
-**But**
-
-Le système d’information du service médical sert à la gestion, à l’exploitation et à l’archivage électroniques des dossiers des employés et des candidats.
-
-#### Art. 64
-
-**Accès aux données**
-
-Le service médical octroie dans chaque cas d’espèce à ses collaborateurs, selon leur fonction et leur rôle dans l’application, un droit d’accès temporaire et limité à une partie du contenu.
-
-#### Art. 65
-
-**Journalisation**
-
-<sup>1</sup> Les accès au système informatique du service médical et les modifications qui y sont apportées font en permanence l’objet d’un procès-verbal.
-
-<sup>2</sup> Les procès-verbaux sont conservés pendant un an.
-
-<sup>3</sup> Ils peuvent être analysés par le service compétent de l’OFPER afin de vérifier le respect des prescriptions en matière de protection des données.
-
-#### Art. 66
-
-**Responsabilité**
-
-Le service médical est responsable de son système d’information.
+*Abrogés*
 
 ## Chapitre 9 Dispositions finales
 
@@ -719,17 +742,27 @@ Le service médical est responsable de son système d’information.
 
 L’abrogation et la modification d’autres actes sont réglées à l’annexe 8.
 
+#### Art. 67a
+
+**Disposition transitoire relative à la modification du 19 octobre 2022**[^67a-1]
+
+L’OFPER conserve le dossier médical des employés et des candidats pendant dix ans à compter de l’entrée en vigueur de la modification du 19 octobre 2022, pour autant que ce dossier ait été créé avant le 1<sup>er</sup> janvier 2021.
+
+[^67a-1]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
 #### Art. 68
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 9, al. 2)
 
 ## Données du dossier de candidature
+
+[^t-1]: Mise à jour par le ch. III al. 1 de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 Photo
 
@@ -767,13 +800,17 @@ Curriculum vitae
 
 Certificats, diplômes, références
 
-Autres documents
+Autres documents mis à la disposition de l’employeur par le candidat
 
-Annexe 2
+Sources documentaires
+
+Annexe 2[^t-2]
 
 (art. 19, al. 2)
 
 ## Données du dossier du personnel
+
+[^t-2]: Mise à jour par le ch. III al. 1 de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Recrutement du personnel
 
@@ -810,11 +847,11 @@ Annexe 2
 
 ### 5 Santé
 
-- 5\.1 Attestation médicale d’aptitude à l’entrée
-- 5\.2 Évaluation de l’aptitude médicale
+- 5\.1 Évaluation de l’aptitude au travail réalisée lors de l’entrée en service des personnes qui exercent des fonctions déterminantes pour la sécurité
+- 5\.2 Évaluation de l’aptitude au travail réalisée pendant les rapports de travail des personnes qui exercent des fonctions déterminantes pour la sécurité
 - 5\.3 Certificats médicaux
 - 5\.4 Autorisations accordées aux médecins et aux assurances
-- 5\.5 Demandes / avis du service médical
+- 5\.5 Mandats confiés aux médecins et expertises médicales des médecins
 - 5\.6 Durée des absences pour cause de maladie ou d’accident
 
 ### 6 Assurances en général
@@ -843,18 +880,20 @@ Annexe 2
 
 ### 9 Catégories de personnel déterminées
 
-Annexe 3
+Annexe 3[^t-3]
 
 (art. 31, al. 2, et 33, al. 4)
 
 ## Système d’information pour la gestion des données du personnel (IGDP)
+
+[^t-3]: Mise à jour par le ch. III al. 1 de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Étendue des droits de traitement des données
 
 ### 1.1 Tableau
 
 <table>
-<tr><td>Dénomination</td><td>OFPER- CCHR (assistance)</td><td>Domaine OFPER</td><td>OFIT- OFCL (assistance)</td><td>Centres de services spécialisés</td><td>Services du personnel</td><td>Services financiers</td><td>Collaborateurs</td><td>Supérieurs hiérarchiques</td></tr>
+<tr><th>Dénomination</th><th>OFPER-CCRH (assistance)</th><th>Domaine OFPER</th><th>OFIT (assistance)</th><th>Centres de services spécialisés</th><th>Services du personnel</th><th>Services financiers</th><th>Collaborateurs</th><th>Supérieurs hiérarchiques</th></tr>
 <tr><td>Mutation</td><td>M1)</td><td>S</td><td>M2)</td><td>M</td><td>M</td><td>S</td><td>S, M3)</td><td>S, G</td></tr>
 <tr><td>But</td><td>4</td><td>4</td><td>5</td><td>1</td><td>1</td><td>2</td><td>1</td><td>1, 3</td></tr>
 <tr><td>Étendue</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>C</td><td>D</td><td>E</td></tr>
@@ -864,8 +903,8 @@ Annexe 3
 
 ### 1.2.1 Dénomination
 
-- CCHR Competence Center Human Resources
-- OFIT-OFCL Office fédéral de l’informatique et de la télécommunication – solution d’entreprise
+- CCRH Centre de compétences Ressources humaines
+- OFIT Office fédéral de l’informatique et de la télécommunication
 
 ### 1.2.2 Mutation
 
@@ -1076,44 +1115,49 @@ Données de déplacement
 
 Frais de déplacement
 
-Annexe 4
+Annexe 4[^t-4]
 
 (art. 42, al. 2)
 
 ## Système d’information pour le contrôle de gestion du personnel
+
+[^t-4]: Mise à jour par le ch. III al. 1 de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Étendue des droits de traitement des données
 
 ### 1.1 Tableau
 
 <table>
-<tr><td>Dénomination</td><td>OFPER- CCHR (assistance)</td><td>Domaine OFPER</td><td>OFIT-OFCL (assistance)</td><td>Services du personnel / contrôleurs de gestion RH</td><td>Services financiers / contrôleurs financiers</td></tr>
-<tr><td>Téléchargement / lecture des données</td><td>S</td><td>S</td><td>D/S</td><td>S</td><td>S</td></tr>
-<tr><td>But</td><td>Contrôle de gestion</td><td>Contrôle de gestion</td><td>Contrôle de gestion</td><td>Contrôle de gestion</td><td>Contrôle de gestion</td></tr>
-<tr><td>Étendue</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td></tr>
+<tr><th>Dénomination</th><th>OFPER-CCRH (assistance)</th><th>Domaine OFPER</th><th>OFIT (assistance)</th><th>Services du personnel / contrôleurs de gestion RH</th><th>Services financiers / contrôleurs financiers</th><th>Collaborateurs</th><th>Supérieurs hiérarchiques</th></tr>
+<tr><td>Téléchargement / lecture des données</td><td>S/SI</td><td>S/SI</td><td>L/S/SI</td><td>S/SI</td><td>S</td><td>S</td><td>S</td></tr>
+<tr><td>But</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>Étendue</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr>
 </table>
 
 ### 1.2 Légende du tableau
 
 ### 1.2.1 Dénomination
 
-- CCHR Competence Center Human Resources
-- OFIT-OFCL Office fédéral de l’informatique et de la télécommunication – solution d’entreprise
+- CCRH Centre de compétences Ressources humaines
+- OFIT Office fédéral de l’informatique et de la télécommunication
 
 ### 1.2.2 Téléchargement / lecture des données
 
-- D Téléchargement des données
+- L Téléchargement
 - S Lecture
+- SI Simulation
 
 ### 1.2.3 But
 
-- Contrôle de gestion
+- 1 Contrôle de gestion
 
 ### 1.2.4 Étendue
 
 - A Toute l’administration fédérale
 - B Propre périmètre comptable
-- C Uniquement contrôle de gestion du personnel dans le propre périmètre comptable
+- C Contrôle de gestion du personnel dans le propre périmètre comptable
+- D Propres données
+- E Données des subordonnés
 
 ### 2 Données saisies
 
@@ -1255,25 +1299,27 @@ Données de déplacement
 
 Frais de déplacement
 
-Annexe 5
+Annexe 5[^t-5]
 
 (art. 47)
 
 ## Système d’information pour la plateforme d’apprentissage au sein de la Confédération (LMS de la Confédération)
 
+[^t-5]: Nouvelle teneur selon le ch. III al. 2 de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
 ### Données personnelles
 
-- 1\. Numéro personnel\*
-- 2\. Nom\*
-- 3\. Prénom\*
-- 4\. Sexe\*
+- 1\. Numéro personnel
+- 2\. Nom
+- 3\. Prénom
+- 4\. Sexe
 - 5\. Date de naissance
-- 6\. Langue de correspondance\*
-- 7\. Adresse électronique professionnelle\*
-- 8\. Unité organisationnelle\*
-- 9\. Adresse professionnelle\*
-- 10\. Fonction\*
-- 11\. Identificateurs personnels locaux\*
+- 6\. Langue de correspondance
+- 7\. Adresse électronique professionnelle
+- 8\. Unité organisationnelle
+- 9\. Adresse professionnelle / adresse privée
+- 10\. Fonction
+- 11\. Identificateurs personnels locaux
 - 12\. Numéro de téléphone mobile (communiqué volontairement et saisi par la personne elle-même)
 - 13\. Succès de la formation (tests réussis / non réussis)
 - 14\. État d’avancement de la formation (non commencée / en cours / terminée)
@@ -1281,7 +1327,6 @@ Annexe 5
 - 16\. Inscriptions à des cours / annulations de cours / participations à des cours
 - 17\. Capacités et compétences acquises dans le cadre des cours accomplis
 - 18\. Rôle dans le LMS (participant au cours, formateur, administrateur des cours)
-- \* Données provenant de la base centralisée des identités
 
 Annexe 6
 
@@ -1307,28 +1352,9 @@ Annexe 6
 - 2\.6 Allocation de moyens financiers destinés à l’intégration professionnelle
 - 2\.7 Demande au fonds de secours du personnel de la Confédération
 
-Annexe 7
+Annexe 7[^t-6]
 
-(art. 59)
-
-## Données du dossier médical
-
-### 1 Données de base
-
-- 1\.1 Coordonnées (nom, prénom, date de naissance, numéro AVS, profession, qualifications, fonction, supérieur hiérarchique, etc.)
-- 1\.2 Médecins et hôpitaux
-- 1\.3 Catégories professionnelles
-- 1\.4 Services et lieux de service
-- 1\.5 Unité d’imputation
-
-### 2 Cas concrets
-
-- 2\.1 Correspondance (services, rapports médicaux, collaborateurs ou leurs représentants, par ex. avocat, syndicat, etc.)
-- 2\.2 Saisie des prestations
-- 2\.3 Fixations de dates
-- 2\.4 Résultats des examens
-- 2\.5 Diagnostics
-- 2\.6 Aptitude médicale
+[^t-6]: Abrogée par le ch. III al. 3 de l’O du 19 oct. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 Annexe 8
 

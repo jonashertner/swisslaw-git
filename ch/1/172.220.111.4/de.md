@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über den Schutz von Personendaten des B
 short: BPDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20220101/de"
 
 (BPDV)
 
-vom 22. November 2017 (Stand am 1. Januar 2022)
+vom 22. November 2017 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 27, 27*d* Absatz 6 und 28 Absatz 1<sup>quater</sup> des Bundespersonalgesetzes vom 24. März 2000[^ingress-1] (BPG) und auf Artikel 6 des Bundesgesetzes vom 24. März 2000[^ingress-2] über die Bearbeitung von Personendaten im Eidgenössischen Departement für auswärtige Angelegenheiten,
+gestützt auf die Artikel 27 Absatz 5 und 27*d* Absatz 6 des Bundespersonalgesetzes vom 24. März 2000[^ingress-1] (BPG) und auf Artikel 29 des Bundesgesetzes vom 18. Dezember 2020[^ingress-2] über die Bearbeitung von Personendaten durch das Eidgenössische Departement für auswärtige Angelegenheiten,[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-2]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -45,16 +46,17 @@ Diese Verordnung regelt die Bearbeitung der Personendaten von Bewerberinnen und 
 - c. lernenden Personen, die dem Berufsbildungsgesetz vom 13. Dezember 2002[^1-3] unterstehen;
 - d. Personal nach der Verordnung vom 2. Dezember 2005[^1-4] über das Personal für die Friedensförderung, die Stärkung der Menschenrechte und die humanitäre Hilfe.
 
-<sup>2</sup> Das 4. Kapitel dieser Verordnung gilt zusätzlich für Personen, die mit der Bundesverwaltung in einem Auftragsverhältnis oder in einem Personalverleihverhältnis stehen, sowie für Honorarkonsulinnen und Honorarkonsule.
+<sup>2</sup> Das 4. und das 6. Kapitel dieser Verordnung gelten zusätzlich für Personen, die mit der Bundesverwaltung in einem Auftragsverhältnis oder in einem Personalverleihverhältnis stehen, sowie für Honorarkonsulinnen und Honorarkonsule.[^1-5]
 
-<sup>3</sup> Diese Verordnung gilt nicht, soweit das Bundesgesetz vom 3. Oktober 2008[^1-5] über die militärischen Informationssysteme und die Verordnung vom 16. Dezember 2009[^1-6] über die militärischen Informationssysteme Regelungen enthalten über die Bearbeitung der Personendaten von Bewerberinnen und Bewerbern oder von Angestellten und ehemaligen Angestellten des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS).
+<sup>3</sup> Diese Verordnung gilt nicht, soweit das Bundesgesetz vom 3. Oktober 2008[^1-6] über die militärischen Informationssysteme und die Verordnung vom 16. Dezember 2009[^1-7] über die militärischen Informationssysteme Regelungen enthalten über die Bearbeitung der Personendaten von Bewerberinnen und Bewerbern oder von Angestellten und ehemaligen Angestellten des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS).
 
 [^1-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 [^1-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^1-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^1-4]: [SR 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
-[^1-5]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^1-6]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^1-5]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^1-6]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^1-7]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 2
 
@@ -84,9 +86,11 @@ Die Angestellten können die Datenschutzberaterinnen und -berater ihrer Verwaltu
 
 **Auskunfts-, Berichtigungs- und Löschungsrecht**
 
-<sup>1</sup> Die betroffenen Personen können ihr Auskunfts-, Berichtigungs- und Löschungsrecht beim jeweiligen Personaldienst, bei der Personal- und Sozialberatung der Bundesverwaltung (PSB) sowie beim ärztlichen Dienst geltend machen. Vorbehalten bleiben die Artikel 15, 27 und 60.
+<sup>1</sup> Die betroffenen Personen können ihr Auskunfts-, Berichtigungs- und Löschungsrecht beim jeweiligen Personaldienst, bei der Personal- und Sozialberatung der Bundesverwaltung (PSB) sowie bei den durch das Eidgenössische Finanzdepartement bezeichneten Ärztinnen und Ärzten geltend machen. Vorbehalten bleiben die Artikel 15 und 27.[^5-1]
 
 <sup>2</sup> Unrichtige Daten sind von Amtes wegen zu berichtigen.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 3. Abschnitt: Bekanntgabe von Daten
 
@@ -110,7 +114,25 @@ Die Angestellten können die Datenschutzberaterinnen und -berater ihrer Verwaltu
 
 <sup>3</sup> Die Datenweitergabe beschränkt sich auf die für den Zweck der Anfrage notwendigen Informationen.
 
-<sup>4</sup> Die Bestimmungen dieses Artikels gelten auch für Angestellte, die innerhalb der Bundesverwaltung die Verwaltungseinheit wechseln. Artikel 35 bleibt vorbehalten.
+<sup>4</sup> Die Bestimmungen dieses Artikels gelten auch für Angestellte, die innerhalb der Bundesverwaltung die Verwaltungseinheit wechseln. Vorbehalten bleiben die Artikel 7*a*, 7*b*, 22 und 35.[^7-1]
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 7a
+
+**Datenweitergabe im Rahmen von Reorganisationen und organisatorischen Betriebsübernahmen**[^7a-1]
+
+Für die Vorbereitung und Umsetzung von Reorganisationen und organisatorischen Betriebsübernahmen können Daten an die neue Verwaltungseinheit weitergegeben werden, welche für die Überprüfung der Zumutbarkeit einer Stelle oder die Übernahme der Arbeitsverhältnisse notwendig sind. Die betroffene angestellte Person ist über die Datenweitergabe zu informieren.
+
+[^7a-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 7b
+
+**Datenweitergabe bei ungerechtfertigten finanziellen Leistungen**[^7b-1]
+
+Datenweitergaben zwischen Verwaltungseinheiten sind möglich, wenn zugunsten einer angestellten Person eine ungerechtfertigte finanzielle Leistung festgestellt wurde oder ein begründeter Verdacht auf eine solche besteht. Die betroffene angestellte Person ist über die Datenweitergabe zu informieren.
+
+[^7b-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ## 2. Kapitel: Bewerbungsdossier
 
@@ -120,9 +142,14 @@ Die Angestellten können die Datenschutzberaterinnen und -berater ihrer Verwaltu
 
 **Bewerbung**
 
-<sup>1</sup> Bewerberinnen und Bewerber können ihr Bewerbungsdossier in Papierform oder in elektronischer Form einreichen.
+<sup>1</sup> Bewerberinnen und Bewerber reichen ihr Bewerbungsdossier in elektronischer Form ein. Ausnahmsweise können sie das Bewerbungsdossier in Papierform einreichen.[^8-1]
 
 <sup>2</sup> Die Verwaltungseinheiten können in Papierform eingereichte Bewerbungsdossiers einlesen.
+
+<sup>3</sup> Die Verwaltungseinheiten können anstelle des Bewerbungsgespräches vor Ort eine Audio- oder Videokonferenz durchführen oder von der Bewerberin oder dem Bewerber erstellte Aufnahmen nutzen. Die Aufzeichnungen sind Teil des Bewerbungsdossiers.[^8-2]
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^8-2]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 9
 
@@ -138,11 +165,12 @@ Die Angestellten können die Datenschutzberaterinnen und -berater ihrer Verwaltu
 
 <sup>1</sup> Die Personaldienste, die Fachdienstleistungszentren Personal und die für die Auswahl verantwortlichen Personen bearbeiten die Daten der Bewerbungsdossiers in ihrem Bereich, soweit es für die Erfüllung ihrer Aufgaben notwendig ist.
 
-<sup>2</sup> Am Ende des Bewerbungsverfahrens werden die Daten der Bewerberinnen und Bewerber, die angestellt werden, in das Personaldossier (Art. 19–23) und in das Informationssystem für das Personaldatenmanagement (Art. 30–38) übertragen.
+<sup>2</sup> Am Ende des Bewerbungsverfahrens werden die Daten der Bewerberinnen und Bewerber, die angestellt werden, in das Personaldossier (Art. 19–23) und in das Informationssystem für das Personaldatenmanagement (Art. 30–38) übertragen. Ausgenommen davon sind die Aufzeichnungen nach Artikel 8 Absatz 3.[^10-1]
 
-<sup>3</sup> Den abgewiesenen Bewerberinnen und Bewerbern werden die in Papierform eingereichten Bewerbungsdossiers zurückgesendet. Die übrigen Daten werden, mit Ausnahme des Bewerbungsschreibens, spätestens drei Monate nach Abschluss des Bewerbungsverfahrens vernichtet. Besondere Vereinbarungen mit den Bewerberinnen und Bewerbern bleiben vorbehalten. Die Aufbewahrungsfrist eines Dossiers kann verlängert werden, wenn dieses für die Behandlung von Beschwerden nach Artikel 13 Absatz 2 des Gleichstellungsgesetzes vom 24. März 1995[^10-1] benötigt wird.
+<sup>3</sup> Den abgewiesenen Bewerberinnen und Bewerbern werden die in Papierform eingereichten Bewerbungsdossiers zurückgesendet. Die übrigen Daten werden, mit Ausnahme des Bewerbungsschreibens, spätestens drei Monate nach Abschluss des Bewerbungsverfahrens vernichtet. Besondere Vereinbarungen mit den Bewerberinnen und Bewerbern bleiben vorbehalten. Die Aufbewahrungsfrist eines Dossiers kann verlängert werden, wenn dieses für die Behandlung von Beschwerden nach Artikel 13 Absatz 2 des Gleichstellungsgesetzes vom 24. März 1995[^10-2] benötigt wird.
 
-[^10-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^10-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^10-2]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 
 #### Art. 11
 
@@ -234,7 +262,7 @@ Das Personaldossier kann folgende Kategorien besonders schützenswerter Personen
 
 - a. Angaben zur Person, ihrer Familie und ihren Angehörigen;
 - b. Informationen aus den Bewerbungsunterlagen;
-- c. Daten über die Gesundheit in Bezug auf das Arbeitsverhältnis, insbesondere Arztzeugnisse sowie Absenzen infolge von Krankheit und Unfall, Berichte des ärztlichen Dienstes, Eignungsbeurteilungen und Daten des Case Management;
+- c.[^19-1] Daten über die Gesundheit in Bezug auf das Arbeitsverhältnis, insbesondere Arztzeugnisse sowie Absenzen infolge von Krankheit und Unfall, medizinische Expertisen, Eignungsbeurteilungen und Daten des Case Management;
 - d. Angaben zu Leistungen, Kompetenzen und Potenzial;
 - e. Arbeitszeugnisse;
 - f. Verfahrensakten und Entscheide von Behörden, insbesondere Lohnpfändungen, Verfügungen der Fachstelle für Personensicherheitsprüfungen, Auszüge aus Gerichtsurteilen zwecks Festlegung der Anspruchsberechtigung für Familienzulagen, Akten betreffend Streitigkeiten aus dem Arbeitsverhältnis sowie Akten betreffend Disziplinaruntersuchungen;
@@ -243,11 +271,21 @@ Das Personaldossier kann folgende Kategorien besonders schützenswerter Personen
 
 <sup>2</sup> Die im Personaldossier enthaltenen Daten sind in Anhang 2 aufgeführt.
 
+[^19-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
 #### Art. 20
 
-**Datenbearbeitung**
+**Datenbearbeitung**[^20-1]
 
-Die Personaldienste, die Fachdienstleistungszentren Personal und die verantwortlichen Vorgesetzten bearbeiten die Daten der Personaldossiers, soweit es für die Erfüllung ihrer Aufgaben notwendig ist.
+Die folgenden Stellen bearbeiten die Daten der Personaldossiers, soweit es für die Erfüllung ihrer Aufgaben notwendig ist:
+
+- a. die Personaldienste;
+- b. die Fachdienstleistungszentren Personal;
+- c. die Vorgesetzten;
+- d. die Fachbereiche EPA;
+- e. die Rechtsdienste.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 21
 
@@ -257,9 +295,15 @@ Die Verwaltungseinheiten sind verantwortlich für den Schutz der Daten; vorbehal
 
 #### Art. 22
 
-**Dossierübergabe bei internem Übertritt**
+**Dossierübergabe bei internem Übertritt**[^22-1]
 
-Tritt eine angestellte Person in eine andere Verwaltungseinheit über, so wird das Personaldossier nicht an die neue Verwaltungseinheit übergeben. Jede Abweichung wird mit der angestellten Person vereinbart.
+<sup>1</sup> Tritt eine angestellte Person in eine andere Verwaltungseinheit über, so wird das Personaldossier nicht an die neue Verwaltungseinheit übergeben. Jede Abweichung wird mit der angestellten Person vereinbart.
+
+<sup>2</sup> Tritt eine angestellte Person infolge einer organisatorischen Betriebsübernahme in eine andere Verwaltungseinheit über, so wird das Personaldossier an die neue Verwaltungseinheit übergeben.
+
+<sup>3</sup> Im Einvernehmen mit der angestellten Person kann die neue Verwaltungseinheit von der alten Verwaltungseinheit die Unterlagen anfordern, die die angestellte Person bei der alten Verwaltungseinheit bereits eingereicht hat.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 23
 
@@ -291,7 +335,9 @@ Nicht besonders schützenswerte Daten können aus dem Informationssystem für da
 
 <sup>1</sup> Die im Departement verantwortlichen Personen erteilen auf Antrag der Verwaltungseinheiten deren Personaldiensten und den Fachdienstleistungszentren Personal die Zugriffsrechte.
 
-<sup>2</sup> Die Personaldienste und die Fachdienstleistungszentren Personal können den Vorgesetzten bei Bedarf ein Zugriffsrecht erteilen.
+<sup>2</sup> Die Personaldienste und die Fachdienstleistungszentren Personal können den Vorgesetzten, dem jeweiligen Rechtsdienst sowie den Fachbereichen EPA bei Bedarf ein Zugriffsrecht erteilen.[^26-1]
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 27
 
@@ -357,7 +403,14 @@ Das IPDM besteht aus folgenden Komponenten:
 - d. Personalzeitwirtschaft für die Verwaltung der Zeitdaten;
 - e. Personalkostenmanagement für die Planung und das Controlling der Personalkosten;
 - f. Personalentwicklung für die Laufbahnplanung und die Entwicklungsplanung der Angestellten;
-- g. Reisemanagement für die Erfassung und die Abrechnung von Reisen, einschliesslich Reisekosten und Spesen.
+- g. Reisemanagement für die Erfassung und die Abrechnung von Reisen, einschliesslich Reisekosten und Spesen;
+- h.[^32-1] Personaleinarbeitung für die Verwaltung der Personendaten von neuen Angestellten;
+- i.[^32-2] Grunddaten für die Erstellung von Arbeitszeugnissen;
+- j.[^32-3] Management der Absenzen infolge von Krankheit und Unfall.
+
+[^32-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-2]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^32-3]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 33
 
@@ -444,25 +497,26 @@ Das Informationssystem Personalcontrolling enthält folgende Kategorien besonder
 - a. Daten über die Gesundheit in Bezug auf das Arbeitsverhältnis, insbesondere Absenzen infolge von Krankheit und Unfall;
 - b. Angaben zu Leistungen und Kompetenzen.
 
-<sup>2</sup> Die Daten für das Informationssystem Personalcontrolling werden aus dem IPDM übernommen. Sie dürfen nicht geändert werden.
+<sup>2</sup> Die Daten für das Informationssystem Personalcontrolling werden aus dem IPDM übernommen.[^40-1]
 
 <sup>3</sup>
 
 Die Daten für die Personalzeitwirtschaft im Informationssystem Personalcontrolling werden zusätzlich übernommen aus:
 
-- a. den Informationssystemen für die Abwicklung der Supportprozesse Finanzen und Logistik nach den Artikeln 42–47 der Finanzhaushaltverordnung vom 5. April 2006[^40-1];
-- b. dem Informationssystem integrierte Ressourcenbewirtschaftung nach den Artikeln 179*a*–179*f* des Bundesgesetzes vom 3. Oktober 2008[^40-2] über die militärischen Informationssysteme;
-- c. dem Informationssystem über das Personal der Armeeapotheke nach den Artikeln 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> der Verordnung vom 16. Dezember 2009[^40-3] über die militärischen Informationssysteme (MIV);
+- a. den Informationssystemen für die Abwicklung der Supportprozesse Finanzen und Logistik nach den Artikeln 42–47 der Finanzhaushaltverordnung vom 5. April 2006[^40-2];
+- b. dem Informationssystem integrierte Ressourcenbewirtschaftung nach den Artikeln 179*a*–179*f* des Bundesgesetzes vom 3. Oktober 2008[^40-3] über die militärischen Informationssysteme;
+- c. dem Informationssystem über das Personal der Armeeapotheke nach den Artikeln 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> der Verordnung vom 16. Dezember 2009[^40-4] über die militärischen Informationssysteme (MIV);
 - d. dem Informationssystem über das Personal der Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung nach den Artikeln 72*j*–72*j*<sup>sexies</sup> MIV;
-- e. dem Informationssystem Perizoll nach Anhang 7 der Verordnung vom 23. August 2017[^40-4] über die Bearbeitung von Personendaten im Bundesamt für Zoll und Grenzsicherheit[^40-5].
+- e. dem Informationssystem Perizoll nach Anhang 7 der Verordnung vom 23. August 2017[^40-5] über die Bearbeitung von Personendaten im Bundesamt für Zoll und Grenzsicherheit[^40-6].
 
 <sup>4</sup> Die im Informationssystem Personalcontrolling enthaltenen Daten sind in Anhang 4 aufgeführt.
 
-[^40-1]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
-[^40-2]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^40-3]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
-[^40-4]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
-[^40-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^40-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^40-2]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^40-3]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^40-4]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^40-5]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^40-6]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 41
 
@@ -484,7 +538,28 @@ Das Informationssystem Personalcontrolling besteht aus folgenden Komponenten:
 
 <sup>1</sup> Die Personaldienste, die Fachdienstleistungszentren Personal, die Finanzdienste, die Fachbereiche EPA sowie die für den Support verantwortlichen Dienststellen bearbeiten die Daten, soweit es für die Erfüllung ihrer Aufgaben notwendig ist.
 
+<sup>1bis</sup> Die Angestellten können ihre eigenen Daten, namentlich Zeitdaten, einsehen, soweit ihnen ein Zugriffsrecht zusteht.[^42-1]
+
+<sup>1ter</sup> Die Vorgesetzten können die Daten ihrer Mitarbeiterinnen und Mitarbeiter, namentlich Zeitdaten, einsehen, soweit ihnen ein Zugriffsrecht zusteht.[^42-2]
+
 <sup>2</sup> Der Umfang der Bearbeitungsrechte ist in Anhang 4 geregelt.
+
+[^42-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42-2]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 42a
+
+**Datenbekanntgabe**[^42a-1]
+
+Daten, einschliesslich besonders schützenswerter Personendaten, aus dem Informationssystem Personalcontrolling können anderen Informationssystemen bekanntgegeben werden, sofern:
+
+- a. für das andere Informationssystem eine gesetzliche Grundlage für die Bekanntgabe der Daten und eine formell-gesetzliche Grundlage für die Bekanntgabe der besonders schützenswerten Personendaten besteht;
+- b. das Informationssystem beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten angemeldet ist, mit Ausnahme der Datensammlungen nach Artikel 18 der Verordnung vom 14. Juni 1993[^42a-2] zum Bundesgesetz über den Datenschutz;
+- c. für das Informationssystem ein Bearbeitungsreglement besteht; und
+- d. keine erhöhten Sicherheitsanforderungen an die Daten der Angestellten vorliegen.
+
+[^42a-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^42a-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 43
 
@@ -548,9 +623,9 @@ Die Kursteilnehmerinnen und Kursteilnehmer, die für die Ausbildung und die Füh
 Die zuständigen Stellen beschaffen die Daten für das LMS Bund:
 
 - a. bei den Kursteilnehmerinnen und Kursteilnehmern;
-- b. aus dem zentralen Identitätsspeicher nach Artikel 13 IAMV[^49-1].
+- b.[^49-1] aus dem IPDM.
 
-[^49-1]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^49-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 50
 
@@ -645,71 +720,17 @@ Die PSB ist für das Informationssystem der PSB verantwortlich.
 
 ## 8. Kapitel: Gesundheitsdaten
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+[^chap8-1]
+
+[^chap8-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 #### Art. 59
 
-**Inhalt der medizinischen Akten**
+Ärztinnen und Ärzte, die mit medizinischen Expertisen beauftragt worden sind, dürfen Gesundheitsdaten nur an die Verwaltungseinheit oder Dritte weitergeben, wenn die Anforderungen nach Artikel 28 Absätze 2–4 BPG erfüllt sind.
 
-Die medizinischen Akten können insbesondere die in Anhang 7 aufgeführten Daten enthalten.
+#### Art. 60–66
 
-#### Art. 60
-
-**Auskunftsrecht**
-
-Ist der ärztliche Dienst der Ansicht, die Angaben in den medizinischen Akten könnten der angestellten Person schaden, so kann er die darin enthaltenen Daten einer von ihr bezeichneten Vertrauensärztin oder einem von ihr bezeichneten Vertrauensarzt mitteilen.
-
-#### Art. 61
-
-**Weitergabe von Daten an Dritte**
-
-<sup>1</sup> Dem Personaldienst wird nur die Schlussfolgerung aus ärztlichen Feststellungen des ärztlichen Dienstes weitergegeben. Der Inhalt der medizinischen Akten wird dem Personaldienst oder Dritten nur dann weitergegeben, wenn die betroffene Person ihre schriftliche Einwilligung erteilt hat.
-
-<sup>2</sup> Erteilt die betroffene Person keine Einwilligung, so ist der Rechtsdienst des EPA die nach Artikel 28 Absatz 3 BPG für die Ermächtigung zur Weitergabe von Gesundheitsdaten und medizinischen Akten zuständige Stelle.
-
-#### Art. 62
-
-**Aufbewahrung, Archivierung und Vernichtung**
-
-<sup>1</sup> Die medizinischen Akten der Bewerberinnen und Bewerber sowie der Angestellten werden beim ärztlichen Dienst aufbewahrt.
-
-<sup>2</sup> Die medizinischen Akten der Angestellten werden nach Beendigung des Arbeitsverhältnisses während 40 Jahren aufbewahrt.
-
-<sup>3</sup> Die medizinischen Akten der Bewerberinnen und Bewerber, die nicht angestellt wurden, werden höchstens zehn Jahre aufbewahrt.
-
-<sup>4</sup> Die Verwaltungseinheiten informieren den ärztlichen Dienst über die Beendigung des Arbeitsverhältnisses der Angestellten und über die Nichtanstellung von Bewerberinnen und Bewerbern.
-
-<sup>5</sup> Nach Ablauf der Aufbewahrungsfrist werden die Daten dem Bundesarchiv zur Übernahme angeboten. Die vom Bundesarchiv als nicht archivwürdig bezeichneten Daten werden vernichtet.
-
-### 2. Abschnitt: Informationssystem des ärztlichen Dienstes
-
-#### Art. 63
-
-**Zweck**
-
-Das Informationssystem des ärztlichen Dienstes dient der elektronischen Verwaltung, Bewirtschaftung und Ablage von Akten der Angestellten sowie der Bewerberinnen und Bewerber.
-
-#### Art. 64
-
-**Zugriffsrechte**
-
-Der ärztliche Dienst erteilt im Einzelfall seinen Mitarbeiterinnen und Mitarbeitern nach ihrer Funktion und Rolle in der Applikation ein zeitlich und inhaltlich beschränktes Zugriffsrecht.
-
-#### Art. 65
-
-**Protokollierung**
-
-<sup>1</sup> Die Zugriffe und Änderungen im Informationssystem des ärztlichen Dienstes werden laufend protokolliert.
-
-<sup>2</sup> Die Protokolle werden während eines Jahres aufbewahrt.
-
-<sup>3</sup> Sie können zwecks Überprüfung, ob die Datenschutzvorschriften eingehalten werden, von der für die Überwachung dieser Vorschriften zuständigen Stelle ausgewertet werden.
-
-#### Art. 66
-
-**Verantwortlichkeit**
-
-Der ärztliche Dienst ist für das Informationssystem des ärztlichen Dienstes verantwortlich.
+Aufgehoben
 
 ## 9. Kapitel: Schlussbestimmungen
 
@@ -719,17 +740,27 @@ Der ärztliche Dienst ist für das Informationssystem des ärztlichen Dienstes v
 
 Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 8 geregelt.
 
+#### Art. 67a
+
+**Übergangsbestimmung zur Änderung vom 19. Oktober 2022**[^67a-1]
+
+Das EPA bewahrt die vor dem 1. Januar 2021 entstandenen medizinischen Akten der Bewerberinnen, Bewerber und Angestellten ab dem Zeitpunkt des Inkrafttretens der Änderung vom 19. Oktober 2022 noch zehn Jahre auf.
+
+[^67a-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
 #### Art. 68
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 9 Abs. 2)
 
 ## Daten des Bewerbungsdossiers
+
+[^t-1]: Bereinigt gemäss Ziff. III Abs. 1 der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 Foto
 
@@ -767,13 +798,17 @@ Lebenslauf
 
 Zeugnisse, Diplome, Referenzen
 
-weitere Dokumente
+weitere Dokumente, die die Bewerberin oder der Bewerber dem Arbeitgeber zur Verfügung stellt
 
-Anhang 2
+Aufzeichnungen
+
+Anhang 2[^t-2]
 
 (Art. 19 Abs. 2)
 
 ## Daten des Personaldossiers
+
+[^t-2]: Bereinigt gemäss Ziff. III Abs. 1 der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Personalgewinnung
 
@@ -810,11 +845,15 @@ Anhang 2
 
 ### 5 Gesundheit
 
-- 5\.1 Tauglichkeitsbescheinigung bei Eintritt
-- 5\.2 Beurteilung der medizinischen Tauglichkeit
+5.1 Eignungsbeurteilung für sicherheitsrelevante Funktionen bei Eintritt
+
+5.2 Eignungsbeurteilung für sicherheitsrelevante Funktionen während des Arbeitsverhältnisses
+
 - 5\.3 Arztzeugnisse
 - 5\.4 Ermächtigungen für Ärztinnen und Ärzte sowie Versicherungen
-- 5\.5 Anfragen / Stellungnahmen des ärztlichen Dienstes
+
+5.5 Aufträge an Ärztinnen und Ärzte sowie medizinische Expertisen von Ärztinnen und Ärzten
+
 - 5\.6 Dauer der Absenzen infolge Krankheit und Unfall
 
 ### 6 Versicherungen Allgemein
@@ -843,18 +882,20 @@ Anhang 2
 
 ### 9 Besondere Personalkategorien
 
-Anhang 3
+Anhang 3[^t-3]
 
 (Art. 31 Abs. 2 und 33 Abs. 4)
 
 ## Informationssystem für das Personaldatenmanagement (IPDM)
+
+[^t-3]: Bereinigt gemäss Ziff. III Abs. 1 der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Umfang der Berechtigung zur Datenbearbeitung
 
 ### 1.1 Tabelle
 
 <table>
-<tr><td>Bezeichnung</td><td>EPA-CCHR (Support)</td><td>EPA-Fach</td><td>BIT-BWL (Support)</td><td>Fachdienstleistungszentren</td><td>Personaldienste</td><td>Finanzdienste</td><td>Mitarbeiter/innen</td><td>Vorgesetzte</td></tr>
+<tr><th>Bezeichnung</th><th>EPA-CCHR (Support)</th><th>EPA-Fach</th><th>BIT (Support)</th><th>Fachdienstleistungszentren</th><th>Personaldienste</th><th>Finanzdienste</th><th>Mitarbeiter/innen</th><th>Vorgesetzte</th></tr>
 <tr><td>Mutieren</td><td>M1)</td><td>S</td><td>M2)</td><td>M</td><td>M</td><td>S</td><td>S, M3)</td><td>S, G</td></tr>
 <tr><td>Zweck</td><td>4</td><td>4</td><td>5</td><td>1</td><td>1</td><td>2</td><td>1</td><td>1, 3</td></tr>
 <tr><td>Umfang</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>C</td><td>D</td><td>E</td></tr>
@@ -865,7 +906,7 @@ Anhang 3
 ### 1.2.1 Bezeichnung
 
 - CCHR Competence Center Human Resources
-- BIT-BWL Bundesamt für Informatik und Technologie – Betriebswirtschaftliche Lösung
+- BIT Bundesamt für Informatik und Telekommunikation
 
 ### 1.2.2 Mutieren
 
@@ -1076,21 +1117,23 @@ Reisedaten
 
 Reisekosten
 
-Anhang 4
+Anhang 4[^t-4]
 
 (Art. 42 Abs. 2)
 
 ## Informationssystem Personalcontrolling
+
+[^t-4]: Bereinigt gemäss Ziff. III Abs. 1 der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### 1 Umfang der Berechtigung zur Datenbearbeitung
 
 ### 1.1 Tabelle
 
 <table>
-<tr><td>Bezeichnung</td><td>EPA-CCHR (Support)</td><td>EPA-Fach</td><td>BIT-BWL (Support)</td><td>Personaldienste / HR-Controller</td><td>Finanzdienste / FI‑Controller</td></tr>
-<tr><td>Daten laden / Sichten</td><td>S</td><td>S</td><td>D/S</td><td>S</td><td>S</td></tr>
-<tr><td>Zweck</td><td>Controlling</td><td>Controlling</td><td>Controlling</td><td>Controlling</td><td>Controlling</td></tr>
-<tr><td>Umfang</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td></tr>
+<tr><th>Bezeichnung</th><th>EPA-CCHR (Support)</th><th>EPA-Fach</th><th>BIT (Support)</th><th>Personaldienste / HR-Controller</th><th>Finanzdienste / FI‑Controller</th><th>Mitarbeiter/innen</th><th>Vorgesetzte</th></tr>
+<tr><td>Daten laden / Sichten</td><td>S/SI</td><td>S / SI</td><td>L/S/SI</td><td>S / SI</td><td>S</td><td>S</td><td>S</td></tr>
+<tr><td>Zweck</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>Umfang</td><td>A</td><td>A</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr>
 </table>
 
 ### 1.2 Erläuterungen zur Tabelle
@@ -1098,22 +1141,25 @@ Anhang 4
 ### 1.2.1 Bezeichnung
 
 - CCHR Competence Center Human Resources
-- BIT-BWL Bundesamt für Informatik und Technologie – Betriebswirtschaftliche Lösung
+- BIT Bundesamt für Informatik und Telekommunikation
 
-### 1.2.2 Daten laden / Sichten
+### 1.2.2 Laden, Sichten und Simulation von Daten
 
-- D Daten laden
+- L Laden
 - S Sichten
+- SI Simulation
 
 ### 1.2.3 Zweck
 
-- Controlling
+- 1 Controlling
 
 ### 1.2.4 Umfang
 
 - A Ganze Bundesverwaltung
 - B Eigener Buchungskreis
-- C Nur Personalkostencontrolling im eigenen Buchungskreis
+- C Personalkostencontrolling im eigenen Buchungskreis
+- D Eigene Daten
+- E Daten von unterstellten Mitarbeiterinnen und Mitarbeitern
 
 ### 2 Erfasste Daten
 
@@ -1255,25 +1301,27 @@ Reisedaten
 
 Reisekosten
 
-Anhang 5
+Anhang 5[^t-5]
 
 (Art. 47)
 
 ## Informationssystem für die Lernplattform Bund (LMS Bund)
 
+[^t-5]: Fassung gemäss Ziff. III Abs. 2 der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
 ### Personendaten
 
-- 1\. Personalnummer\*
-- 2\. Name\*
-- 3\. Vorname\*
-- 4\. Geschlecht\*
+- 1\. Personalnummer
+- 2\. Name
+- 3\. Vorname
+- 4\. Geschlecht
 - 5\. Geburtsdatum
-- 6\. Korrespondenzsprache\*
-- 7\. Mailadresse geschäftlich\*
-- 8\. Organisationseinheit\*
-- 9\. Dienstadresse\*
-- 10\. Funktion\*
-- 11\. Lokale Personenidentifikatoren\*
+- 6\. Korrespondenzsprache
+- 7\. Mailadresse geschäftlich
+- 8\. Organisationseinheit
+- 9\. Dienstadresse / Privatadresse
+- 10\. Funktion
+- 11\. Lokale Personenidentifikatoren
 - 12\. Mobiltelefonnummer (freiwillig und durch die betreffende Person selbstständig erfasst)
 - 13\. Lernerfolg bei Tests (erfüllt / nicht erfüllt)
 - 14\. Lernfortschritt (nicht gestartet / gestartet / abgeschlossen)
@@ -1281,7 +1329,6 @@ Anhang 5
 - 16\. Kursanmeldungen / Stornierungen / Kursteilnahmen
 - 17\. erlangte Fähigkeiten und Kompetenzen aus absolvierten Kursen
 - 18\. Rolle(n) im LMS (Kursteilnehmer/in, Kursleiter/in, Kursadministrator/in)
-- \* aus dem zentralen Identitätsspeicher bezogene Daten
 
 Anhang 6
 
@@ -1307,28 +1354,9 @@ Anhang 6
 - 2\.6 Mittelzuteilung berufliche Integration
 - 2\.7 Gesuch an den Unterstützungsfonds für das Bundespersonal
 
-Anhang 7
+Anhang 7[^t-6]
 
-(Art. 59)
-
-## Daten der medizinischen Akten
-
-### 1 Stammdaten
-
-- 1\.1 Personalien (Name, Vorname, Geburtsdatum, AHV-Nummer, Beruf, Qualifikation, Funktion, vorgesetzte Person usw.)
-- 1\.2 Ärztinnen und Ärzte, Spitäler
-- 1\.3 Berufskategorien
-- 1\.4 Dienststellen und -orte
-- 1\.5 Kostenträger
-
-### 2 Falldaten
-
-- 2\.1 Korrespondenz (Dienststellen, Arztberichte, Mitarbeiterinnen und Mitarbeiter oder deren Vertretung, z. B. Anwältin oder Anwalt, Gewerkschaft usw.)
-- 2\.2 Leistungserfassung
-- 2\.3 Terminierungen
-- 2\.4 Untersuchungsresultate
-- 2\.5 Diagnosen
-- 2\.6 Medizinische Eignung
+[^t-6]: Aufgehoben durch Ziff. III Abs. 3 der V vom 19. Okt. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 Anhang 8
 
@@ -1344,7 +1372,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex8-lvlu1-2]
+…[^annex8-lvlu1-2]
 
 [^annex8-lvlu1-1]: [[AS 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786); [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378), [2209](https://fedlex.data.admin.ch/eli/oc/2013/467)Ziff. III; [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
 [^annex8-lvlu1-2]: Die Änderungen können unter [AS 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)konsultiert werden.
