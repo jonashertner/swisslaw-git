@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-06
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-11-23
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2587/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2587/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.05.2022)
+vom 28.03.2007 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -599,25 +599,32 @@ geführt werden,
 
 <sup>1</sup> Die Schulleitung bewilligt bezahlte Kurzurlaube im Einzelfall wie folgt:
 
-- a bis zu vier Arbeitstagen wegen plötzlicher Erkrankung oder Todes einer oder eines nahen Familienangehörigen,
-- b bis zu zwei Arbeitstagen wegen eigener Heirat, Eintragung der Partnerschaft gleichgeschlechtlicher Paare oder Wohnungswechsels,
-- c im Rahmen der benötigten Zeit wegen dringender privater oder familiärer Verpflichtungen, die sich nicht ausserhalb der Unterrichtszeit erledigen lassen,
-- d bis zu einem Arbeitstag wegen obligatorischem Orientierungstag für Wehrpflichtige oder Abgabe des persönlichen Materials bei Entlassung aus der Wehrpflicht.
+- a bis zu drei Arbeitstage pro Ereignis wegen plötzlicher Erkrankung einer oder eines nahen Familienangehörigen, höchstens aber zehn Arbeitstage pro Schuljahr,
+- a1 bis zu vier Arbeitstage pro Ereignis wegen des Todes einer oder eines nahen Familienagehörigen,
+- b ein Arbeitstag pro Schuljahr wegen eigener Heirat oder eigenen Wohnungswechsels,
+- c im Rahmen der benötigten Zeit wegen anderer dringender privater oder familiärer Verpflichtungen, die sich nicht ausserhalb der Unterrichtszeit erledigen lassen,
+- d ein Arbeitstag pro Schuljahr wegen obligatorischer oder freiwilliger Teilnahme an der militärischen Orientierungsveranstaltung oder Abgabe des persönlichen Materials bei Entlassung aus der Militärdienstpflicht.
 
-<sup>2</sup> Bezahlte Kurzurlaube dürfen pro Schuljahr für gesamthaft nicht mehr als sechs Arbeitstage nach Massgabe des Beschäftigungsgrads bewilligt werden.
+<sup>2</sup> …
 
-<sup>3</sup> Ohne Anrechnung an die Höchstzahl gemäss Absatz 2 gewähren die Schulleitungen pro Schuljahr bezahlten Urlaub wie folgt:
+<sup>3</sup> Die Schulleitungen bewilligen pro Schuljahr bezahlten Urlaub weiter wie folgt:
 
 - a einen Arbeitstag zur Teilnahme an einem gesamtkantonalen Lehrerinnen- und Lehrertag,
 - b bis zu zehn Arbeitstagen für Leiterausbildungs- und Fortbildungskurse sowie für die Tätigkeit als hauptverantwortliche Leiterin oder hauptverantwortlicher Leiter von Kursen und Lagern im Rahmen von «Jugend und Sport»,
 - c bis zu drei Arbeitstagen für Mitglieder der Geschäftsleitung bzw. des Sektionsvorstands von Berufsorganisationen oder von Verbänden des Personals der Kantonsverwaltung,
 - d bis zu drei Arbeitstagen zur Teilnahme an Delegiertenversammlungen sowie an Versammlungen von Unter- bzw. Teilverbänden oder Sektionen von Berufsorganisationen oder Verbänden des Personals der Kantonsverwaltung und dessen Vorsorgeeinrichtungen,
 
-<sup>4</sup> Ohne Anrechnung an die Höchstzahl gemäss Absatz 2 gewähren die Schulleitungen stillenden Müttern während des ersten Lebensjahrs des Kindes bezahlten Urlaub bis zu drei Arbeitstagen pro Monat für das Stillen oder für das Abpumpen von Milch.
+<sup>4</sup> Sie gewähren stillenden Müttern während des ersten Lebensjahrs des Kindes bezahlten Urlaub bis zu drei Arbeitstagen pro Monat nach Massgabe des Beschäftigungsgrads für das Stillen oder für das Abpumpen von Milch.
 
 <sup>5</sup> Die Stellvertretung ist nach Möglichkeit schulintern zu regeln.
 
 <sup>6</sup> Das Amt für Kindergarten, Volksschule und Beratung und das Mittelschul- und Berufsbildungsamt können andere bezahlte Urlaube bewilligen, wenn diese im Interesse der Schule liegen oder wenn der Urlaub für den Abschluss einer Ausbildung benötigt wird, die im Interesse des Kantons liegt. Sie legen dabei fest, wer die Stellvertretungskosten trägt.
+
+#### Art. 49a
+
+**Bezahlter Urlaub für die Betreuung eines wegen Krankheit oder Unfalls gesundheitlich schwer beeinträchtigen Kindes**
+
+<sup>1</sup> Der Urlaub für die Betreuung eines wegen Krankheit oder Unfalls gesundheitlich schwer beeinträchtigten Kindes richtet sich nach Artikel 156a PV.
 
 #### Art. 50
 
@@ -753,7 +760,7 @@ geführt werden,
 
 **Gesprächsinhalt**
 
-<sup>1</sup> Das Mitarbeitergespräch ist ein Führungs- und Qualitätsentwicklungsinstrument.
+<sup>1</sup> Das Mitarbeitergespräch ist ein Führungs-, Qualitäts- und Personalentwicklungsinstrument.
 
 <sup>2</sup> Kernpunkte des Mitarbeitergesprächs sind insbesondere
 

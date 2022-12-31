@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-06
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-11-23
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2587/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2755/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2587/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.05.2022)
+du 28.03.2007 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -598,25 +598,32 @@ arrête:
 
 <sup>1</sup> La direction d’école accorde d’autres congés payés de courte durée dans les cas suivants:
 
-- a maladie subite ou décès d’un proche parent: quatre jours ouvrés au maximum,
-- b propre mariage, partenariat enregistré entre personnes du même sexe ou déménagement: deux jours ouvrés au maximum,
-- c obligations familiales ou personnelles urgentes dont l’enseignant ou l’enseignante ne peut s’acquitter en dehors des heures de classe: le temps jugé nécessaire,
-- d journée d’information obligatoire destinée aux personnes astreintes au service militaire ou restitution du matériel personnel lors de la libération des obligations militaires: un jour ouvré au maximum.
+- a trois jours ouvrés au plus pour chaque cas de maladie subite d'un membre de la famille proche, dans la limite de dix jours ouvrés par année scolaire;
+- a1 quatre jours ouvrés au plus pour chaque cas de décès d'un membre de la famille proche;
+- b un jour ouvré par année scolaire pour son propre mariage ou son propre déménagement;
+- c le temps jugé nécessaire pour d'autres obligations familiales ou personnelles urgentes dont l’enseignante ou l’enseignant ne peut s’acquitter en dehors des heures de classe;
+- d un jour ouvré par année scolaire pour la participation, obligatoire ou facultative, à la séance d’information des conscrits ou pour la restitution du matériel personnel lors de la libération des obligations militaires.
 
-<sup>2</sup> Des congés payés de courte durée ne peuvent être accordés au total que jusqu’à concurrence de six jours ouvrés par année scolaire en fonction du degré d’occupation.
+<sup>2</sup> …
 
-<sup>3</sup> En plus du maximum de congés payés visé à l’alinéa 2, la direction d’école accorde d’autres congés payés dans les cas suivants:
+<sup>3</sup> La direction d’école autorise d’autres congés payés par année scolaire dans les cas suivants:
 
 - a participation à une journée cantonale d’enseignants et d’enseignantes: un jour ouvré;
 - b participation à des cours de formation ou de perfectionnement de moniteur ou de monitrice ainsi que pour la prise en charge à titre principal de la direction de cours ou de camps dans le cadre de «Jeunesse et Sport»: dix jours ouvrés au maximum;
 - c membres de la direction ou du comité de section d’organisations professionnelles ou d’associations du personnel de l’administration cantonale: trois jours ouvrés au maximum;
 - d participation à l'assemblée des délégués d’associations du personnel de l’administration cantonale ou de ses institutions de prévoyance, ainsi qu’aux assemblées de leurs associations affiliées ou de leurs subdivisions telles que des sections: trois jours ouvrés au maximum.
 
-<sup>4</sup> Au cours de la première année de la vie de l’enfant, la direction d’école accorde aux mères qui allaitent un congé payé de trois jours ouvrés au plus par mois pour allaiter ou tirer leur lait, ce congé payé n’étant pas imputable au nombre maximal fixé à l’alinéa 2.
+<sup>4</sup> Au cours de la première année de la vie de l’enfant, elle accorde aux mères qui allaitent un congé payé de trois jours ouvrés au plus par mois, calculé en fonction du degré d'occupation, pour allaiter ou tirer leur lait.
 
 <sup>5</sup> La suppléance doit si possible être réglée au niveau interne de l’école.
 
 <sup>6</sup> L’Office de l’école obligatoire et du conseil et l’Office des écoles moyennes et de la formation professionnelle peuvent octroyer d’autres congés payés si ces derniers présentent un intérêt pour l’école ou si la personne concernée en a besoin pour achever une formation qui présente un intérêt pour le canton. Ils précisent alors à qui incombent les frais de remplacement.
+
+#### Art. 49a
+
+**Congé payé pour prendre en charge un enfant gravement atteint dans sa santé en raison d'une maladie ou d'un accident**
+
+<sup>1</sup> Le congé pour prendre en charge un enfant gravement atteint dans sa santé en raison d'une maladie ou d'un accident est régi par l'article 156a OPers.
 
 #### Art. 50
 
@@ -752,7 +759,7 @@ arrête:
 
 **Contenu de l’entretien**
 
-<sup>1</sup> L’entretien d’évaluation périodique est un instrument de pilotage et de promotion de la qualité.
+<sup>1</sup> L’entretien d’évaluation périodique est un instrument de pilotage, de promotion de la qualité et de développement du personnel.
 
 <sup>2</sup> Il porte notamment sur les points essentiels suivants:
 
