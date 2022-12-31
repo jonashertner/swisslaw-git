@@ -4,31 +4,30 @@ number: "160.5"
 title: Gesetz über die Unvereinbarkeiten
 short: GU
 language: de
-version: 2016-07-01
-corrected: 2017-08-31
-version_adopted: 2014-09-11
+version: 2023-01-01
+valid_until: 2023-06-30
+version_adopted: 2020-12-17
 adopted: 1998-02-11
 in_force: 1998-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/160.5"
-pdf: "https://lex.vs.ch/api/de/versions/686/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3209/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Unvereinbarkeiten
 
-vom 11. Februar 1998
+vom 11.02.1998 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 31, Absatz 1 und 90 der Kantonsverfassung;
+eingesehen die Artikel 31 Absatz 1 und 90 der Kantonsverfassung;
 
 auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -63,100 +62,92 @@ verordnet:
 <sup>1</sup> Die Auslosung erfolgt:
 
 - a) auf Gemeindeebene: durch den Präsidenten der Gemeinde, beziehungsweise den Präsidenten der Burgergemeinde;
-
 - b) auf Kantonsebene: durch den Präsidenten des Staatsrates.
 
 <sup>2</sup> Eine Auslosung erfolgt ebenfalls, wenn eine Unvereinbarkeit während der Amtsdauereintritt und eine ausdrückliche gesetzliche Bestimmung oder ein freiwilliger Verzicht fehlen.
 
 #### Art. 5
 
-<sup>1</sup>
-
-Die im vorliegenden Gesetz für die Beamten geltenden Unvereinbarkeiten sind, ausdrückliche Bestimmungen vorbehalten, nicht auf die kantonalen Lehrkräfte anwendbar.
+<sup>1</sup> Die im vorliegenden Gesetz für die Beamten geltenden Unvereinbarkeiten sind, ausdrückliche Bestimmungen vorbehalten, nicht auf die kantonalen Lehrkräfte anwendbar.
 
 #### Art. 6
 
 **Neues Amt**
 
-Schafft ein Gesetz ein neues Amt, muss es das Unvereinbarkeitsproblem lösen.
+<sup>1</sup> Schafft ein Gesetz ein neues Amt, muss es das Unvereinbarkeitsproblem lösen.
 
-### 2. Kapitel: Kantonale Behörden
+## 2 Kantonale Behörden
 
-### 1. Abschnitt: Unvereinbarkeiten aufgrund der Gewaltentrennung
+### 2.1 Unvereinbarkeiten aufgrund der Gewaltentrennung
 
 #### Art. 7
 
-<sup>1</sup> Grosser Rat
+**Grosser Rat**
 
-Es können nicht Mitglieder des Grossen Rates sein:
+<sup>1</sup> Es können nicht Mitglieder des Grossen Rates sein:
 
 - a) die Mitglieder des Staatsrates und der Staatskanzler;
-
-**Straf- und**
-
-- b) die Mitglieder des Kantonsgerichts, der Bezirksgerichte, des Zwangsmassnahmengerichts, des Massnahmenvollzugsge-richts, des Jugendgerichts sowie die Vertreter der Staatsanwaltschaft;
-
+- b) die Mitglieder des Kantonsgerichts, der Bezirksgerichte, des Zwangsmassnahmengerichts, des Straf- und Massnahmenvollzugsge-richts, des Jugendgerichts sowie die Vertreter der Staatsanwaltschaft;
 - c) unter Vorbehalt der Spezialgesetzgebung die von der Kantonsverwaltung angestellten Personen sowie das von den Gerichten und der Staatsanwaltschaft angestellte Verwaltungspersonal;
-
 - d) die kantonalen Lehrkräfte, die eine leitende Funktion ausüben. Der Staatsrat erstellt das Verzeichnis der leitenden Funktionen;
-
 - e) unter Vorbehalt der Spezialgesetzgebung die Personen, die eine leitende Funktion oder ein Verwaltungsratsmandat in selbstständigen Anstalten des öffentlichen Rechts und in Unternehmen mit einem Gesellschaftskapital, an dem der Kanton mit mindestens 50 Prozent beteiligt ist, ausüben. Der Staatsrat erstellt das Verzeichnis der leitenden Funktionen;
-
 - f) die Regierungsstatthalter und ihre Substitute.
 
 #### Art. 8
 
 **Staatsrat**
 
-Es können nicht Mitglieder des Staatsrates sein:
+<sup>1</sup> Es können nicht Mitglieder des Staatsrates sein:
 
 - a) die Mitglieder des Grossen Rates;
-
 - b) die mit einer vollamtlichen oder teilzeitlichen richterlichen Funktion betrauten Personen;
-
 - c) die Regierungsstatthalter und ihre Substitute, die Behörden, Beamten und Angestellten des Staates, der Gemeinden und der selbständigen Anstalten.
 
 #### Art. 9
 
-<sup>1</sup> Gerichte
+**Gerichte**
 
-Es können nicht voll- oder nebenamtliche Richter sein:
+<sup>1</sup> Es können nicht voll- oder nebenamtliche Richter oder Beisitzer am Kantonsgericht sein:
 
 - a) die Mitglieder des Grossen Rates;
-
 - b) die Mitglieder des Staatsrates;
-
 - c) die Mitglieder der eidgenössischen Räte;
-
 - d) die Regierungsstatthalter und ihre Substitute;
+- e) die Mitglieder einer Gemeindebehörde;
+- f) die vollamtlichen Vertreter der Staatsanwaltschaft.
 
-- e) die Mitglieder einer Gemeindebehörde.
+#### Art. 9a
 
-### 2. Abschnitt: Unvereinbarkeiten aufgrund der Unterordnung eines Amtes unter ein anderes Amt
+**Kindes- und Erwachsenenschutzbehörde**
+
+<sup>1</sup> Mit Ausnahme der Mitglieder der Ur- und Burgerversammlungen können nicht Mitglieder oder Stellvertreter der Kindes- und Erwachsenenschutzbehörde oder Schreiber der Behörde sein:
+
+- a) die Mitglieder der Legislativ-, Exekutiv-, Verwaltungs- und Gerichtsbehörden auf Gemeinde-, Burger-, Kantons- und Bundesebene;
+- b) die Beamten und Angestellten der Einwohner- und Burgergemeinden.
+
+### 2.2 Unvereinbarkeiten aufgrund der Unterordnung eines Amtes unter ein anderes Amt
 
 #### Art. 10
 
 **Grundsatz**
 
-Keine Person kann gleichzeitig zwei Ämter bekleiden, wovon eines dem anderen untergeordnet ist.
+<sup>1</sup> Keine Person kann gleichzeitig zwei Ämter bekleiden, wovon eines dem anderen untergeordnet ist.
 
 #### Art. 11
 
 **Regierungsstatthalter**
 
-Das Amt des Regierungsstatthalters und des Regierungsstatthalter-Substituten ist mit jenem eines Mitgliedes einer Gemeindebehörde unvereinbar, als auch mit jenem eines kantonalen und kommunalen Beamten und Angestellten.
+<sup>1</sup> Das Amt des Regierungsstatthalters und des Regierungsstatthalter-Substituten ist mit jenem eines Mitgliedes einer Gemeindebehörde unvereinbar, als auch mit jenem eines kantonalen und kommunalen Beamten und Angestellten.
 
-### 3. Abschnitt: Unvereinbarkeiten aufgrund der Verwandtschaft
+### 2.3 Unvereinbarkeiten aufgrund der Verwandtschaft
 
 #### Art. 12
 
-<sup>1</sup> Die Ehegatten, Verwandten in gerader und in der Seitenlinie bis zum dritten Grad sowie die Verschwägerten bis zum zweiten Grad können nicht gleichzeitig Mitglieder des Staatsrates oder des gleichen Gerichtes sein.
+<sup>1</sup> Die Ehegatten, Verwandte in gerader und in der Seitenlinie bis zum dritten Grad sowie die Verschwägerten bis zum zweiten Grad können nicht gleichzeitig Mitglieder des Staatsrates, des gleichen Gerichts, Mitglieder oder Stellvertreter der gleichen Kindes- und Erwachsenenschutzbehörde sein.
 
 <sup>2</sup> Sie können auch nicht gleichzeitig administrative oder richterliche Ämter besetzen, deren eines dem anderen unmittelbar untergeordnet ist.
 
-### 4. Abschnitt: Unvereinbarkeiten aufgrund der Ausübung
-
-einer öffentlichen Funktion
+### 2.4 Unvereinbarkeiten aufgrund der Ausübung einer öffentlichen Funktion
 
 #### Art. 13
 
@@ -172,7 +163,7 @@ einer öffentlichen Funktion
 
 <sup>1</sup> Ein einziges Mitglied des Staatsrates kann in den eidgenössischen Räte Einsitz nehmen.
 
-<sup>2</sup> Sind mehrere Mitglieder des Staatsrates nach dem gleichen Wahlsystem gewählt worden, ist Artikel 2, Absatz 2 anwendbar.
+<sup>2</sup> Sind mehrere Mitglieder des Staatsrates nach dem gleichen Wahlsystem gewählt worden, ist Artikel 2 Absatz 2 anwendbar.
 
 <sup>3</sup> Sind sie nach einem verschiedenen System gewählt worden, ist die Amtsdauer in der kantonalen Regierung entscheidend. Bei Gleichheit entscheidet das Los.
 
@@ -188,69 +179,60 @@ einer öffentlichen Funktion
 
 **Beamte**
 
-Die Ausübung jedes Berufes oder jeder Nebenbeschäftigung durch die Beamten, Angestellten und Lehrkräfte wird durch die Sondergesetzgebung betreffend ihr Dienstverhältnis geregelt.
+<sup>1</sup> Die Ausübung jedes Berufes oder jeder Nebenbeschäftigung durch die Beamten, Angestellten und Lehrkräfte wird durch die Sondergesetzgebung betreffend ihr Dienstverhältnis geregelt.
 
-### 3. Kapitel: Gemeindeordnung
+## 3 Gemeindeordnung
 
-### 1. Abschnitt: Unvereinbarkeiten aufgrund der Gewaltentrennung
+### 3.1 Unvereinbarkeiten aufgrund der Gewaltentrennung
 
 #### Art. 17
 
 **Generalrat**
 
-Es können nicht Mitglieder des Generalrates sein:
+<sup>1</sup> Es können nicht Mitglieder des Generalrates sein:
 
 - a) die Mitglieder des Gemeinderates;
-
 - b) der Richter und der Vizerichter;
-
 - c) die Beamten und Angestellten der Gemeinde und ihrer Anstalten.
 
 #### Art. 18
 
 **Gemeinderat**
 
-Es können nicht Mitglieder des Gemeinderates sein:
+<sup>1</sup> Es können nicht Mitglieder des Gemeinderates sein:
 
 - a) die Mitglieder des Burgerrates und des Generalrates;
-
 - b) der Richter und der Vizerichter;
-
 - c) die Beamten und Angestellten der Gemeinde und ihrer Anstalten.
 
 #### Art. 19
 
 **Burgerrat**
 
-Es können nicht Mitglieder des Burgerrates sein:
+<sup>1</sup> Es können nicht Mitglieder des Burgerrates sein:
 
 - a) die Mitglieder des Gemeinde- und Generalrates;
-
 - b) der Richter und der Vizerichter;
-
 - c) die Beamten und Angestellten der Burgergemeinde und ihrer Anstalten.
 
 #### Art. 20
 
 **Richter und Vizerichter**
 
-Es können nicht Richter oder Vizerichter sein:
+<sup>1</sup> Es können nicht Richter oder Vizerichter sein:
 
 - a) die Mitglieder des General-, Gemeinde- oder Burgerrates;
-
 - b) die Beamten und Angestellten der Einwohner- und Burgergemeinden.
 
-### 2. Abschnitt: Unvereinbarkeiten aufgrund der Unterordnung einer Funktion unter eine
-
-andere Funktion
+### 3.2 Unvereinbarkeiten aufgrund der Unterordnung einer Funktion unter eine andere Funktion
 
 #### Art. 21
 
 <sup>1</sup> 1 Das Amt des Präsidenten ist mit jenem des Sekretärs oder Kassiers der gleichen Körperschaft unvereinbar.
 
-<sup>2</sup> 2 Das Amt eines Rates ist mit jenem eines vollamtlichen Sekretärs oder Kassiers der gleichen Körperschaft unvereinbar.
+<sup>2</sup> 2 Das Amt eines Rates ist mit jenem eines vollamtlichen Sekretärs oder Kassiers der gleichen Körperschaft unvereinbar.
 
-### 3. Abschnitt: Unvereinbarkeiten aufgrund der Verwandtschaft
+### 3.3 Unvereinbarkeiten aufgrund der Verwandtschaft
 
 #### Art. 22
 
@@ -268,41 +250,37 @@ andere Funktion
 
 <sup>2</sup> In aussergewöhnlichen Umständen kann der Staatsrat Abweichungen bewilligen.
 
-### 4. Abschnitt: Unvereinbarkeiten aufgrund der Ausübung
-
-eines öffentlichen Amtes
+### 3.4 Unvereinbarkeiten aufgrund der Ausübung eines öffentlichen Amtes
 
 #### Art. 24
 
 **Ämterkumulation**
 
-Niemand kann Mitglied von mehr als einem Gemeinderat sein.
+<sup>1</sup> Niemand kann Mitglied von mehr als einem Gemeinderat sein.
 
 #### Art. 25
 
 **Wirtschaftliche Unvereinbarkeiten**
 
-Der vollamtliche Präsident sowie die vollamtlichen Gemeinderäte müssen ihre ganze Zeit ihrem Amte widmen. Sie können nicht eine andere berufliche Tätigkeit ausüben noch Mitglied eines Verwaltungsrates oder der Direktion einer Gesellschaft mit Erwerbszweck sein, ausser sie seien durch eine öffentliche Körperschaft delegiert.
+<sup>1</sup> Der vollamtliche Präsident sowie die vollamtlichen Gemeinderäte müssen ihre ganze Zeit ihrem Amte widmen. Sie können nicht eine andere berufliche Tätigkeit ausüben noch Mitglied eines Verwaltungsrates oder der Direktion einer Gesellschaft mit Erwerbszweck sein, ausser sie seien durch eine öffentliche Körperschaft delegiert.
 
-### 4. Kapitel: Schlussbestimmungen
+## 4 Schlussbestimmungen
 
 #### Art. 26
 
 **Aufhebungen**
 
-Mit diesem Gesetz sind aufgehoben:
+<sup>1</sup> Mit diesem Gesetz sind aufgehoben:
 
-- Artikel 46, Absatz 3 und 4, 100, Absatz 1, zweiter Satz und Absatz 2, 106 und 108 des Gesetzes vom 17. Mai 1972 über die Wahlen und Abstimmungen;
-
-- Artikel 34, Absatz 2 und 40, Absatz 2 und 4 des Gesetzes vom 13. November 1980 über die Gemeindeordnung;
-
-- Artikel 14 des Gesetzes vom 13. Mai 1960 über die Gerichtsbehörden, sowie alle anderen gegenteiligen kantonalen Gesetzesbestimmungen.
+- a) Artikel 46 Absatz 3 und 4, 100 Absatz 1 zweiter Satz und Absatz 2, 106 und 108 des Gesetzes über die Wahlen und Abstimmungen vom 17. Mai 1972;
+- b) Artikel 34 Absatz 2 und 40 Absatz 2 und 4 des Gesetzes über die Gemeindeordnung vom 13. November 1980;
+- c) Artikel 14 des Gesetzes über die Gerichtsbehörden vom 13. Mai 1960, sowie alle anderen gegenteiligen kantonalen Gesetzesbestimmungen.
 
 #### Art. 27
 
 **Übergangsbestimmungen**
 
-Die durch das neue Recht eingeführten neuen Unvereinbarkeiten haben keine Wirkung auf die bei seinem Inkrafttreten bereits gewählten oder ernannten Personen bis zum Ende der laufenden Legislatur- und Verwaltungsperiode.
+<sup>1</sup> Die durch das neue Recht eingeführten neuen Unvereinbarkeiten haben keine Wirkung auf die bei seinem Inkrafttreten bereits gewählten oder ernannten Personen bis zum Ende der laufenden Legislatur- und Verwaltungsperiode.
 
 #### Art. 28
 
@@ -312,16 +290,4 @@ Die durch das neue Recht eingeführten neuen Unvereinbarkeiten haben keine Wirku
 
 <sup>2</sup> Der Staatsrat setzt das Inkrafttreten dieses Gesetzes gleichzeitig mit jenem des Artikels 90 der Kantonsverfassung fest.
 
-So angenommen in zweiter Lesung im Grossen Rate zu Sitten, den 11.
-
-Februar 1998.
-
-Der Präsident des Grossen Rates: Daniel Perruchoud Die Schriftführer: Hans-Peter Constantin, Grégoire Dayer
-
-**01.07.1998**
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten Das Gesetz über die Unvereinbarkeiten vom 11. Februar 1998
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 11. September 2014 Abl. Nr. 40/2014; 01.07.2016 Abl. Nr. 27/2016
+CSW RO/AGS 1998 f 21, 338 | d 22, 366
