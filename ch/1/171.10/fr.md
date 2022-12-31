@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2021-12-18
+version: 2023-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211218-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (Etat le 18 décembre 2021)
+du 13 décembre 2002 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -178,7 +178,7 @@ Les députés sont tenus de participer aux séances du conseil et des commission
 
 <sup>3</sup> Les suffrages communiqués par les membres du Conseil national conformément à l’al. 1 sont saisis dans le système électronique en même temps que le vote du conseil. Le vote n’est pas répété si un député n’a pas pu, pour des raisons techniques, communiquer son suffrage.
 
-[^10a-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session) ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nouvelle teneur selon le ch. III 1 de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^10a-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session) ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nouvelle teneur selon le ch. III 1 de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)) et prolongé jusqu’au 30 juin 2024 par l’annexe ch. 1 de la LF du 16 déc. 2022 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 10b
 
@@ -373,7 +373,7 @@ La levée du secret des postes et des télécommunications au sens de l’art. 3
 
 S’il y a désaccord sur la nécessité d’obtenir l’autorisation visée aux art. 17 à 20, l’organe compétent pour l’accorder statue.
 
-### Chapitre 4**** Responsabilité découlant d’un dommage
+### Chapitre 4 Responsabilité découlant d’un dommage
 
 [^tit2-chap4-1]
 
@@ -602,7 +602,7 @@ La Conférence de coordination exerce les attributions suivantes:
 
 <sup>4</sup> Les décisions de la Conférence de coordination sont soumises à l’approbation des bureaux des deux conseils. L’élection prévue à l’al. 2, let. d, a lieu à la majorité absolue des votants.[^37-3]
 
-<sup>5</sup> ...[^37-4]
+<sup>5</sup> …[^37-4]
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^37-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
@@ -794,7 +794,7 @@ Les commissions informent le public des résultats de leurs délibérations.
 
 <sup>4</sup> Si un objet concerne plusieurs domaines de compétences, les autres commissions peuvent adresser un rapport aux commissions chargées de procéder à son examen préalable.
 
-<sup>5</sup> ...[^49-1]
+<sup>5</sup> …[^49-1]
 
 [^49-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
@@ -862,7 +862,7 @@ Les commissions informent le public des résultats de leurs délibérations.
 [^53-2]: Introduit par le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271)[2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 [^53-3]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271)[2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 
-### Section 4 Rapport au conseil****
+### Section 4 Rapport au conseil
 
 [^tit4-chap4-sec4-1]
 
@@ -876,7 +876,7 @@ Les commissions informent le public des résultats de leurs délibérations.
 
 #### Art. 55
 
-**...[^55-1]**
+**…[^55-1]**
 
 Une fois par an, les Commissions des finances et les Commissions de gestion rendent compte au conseil dont elles dépendent des principaux résultats de leurs travaux.
 
@@ -1389,7 +1389,7 @@ Si les divergences entre les conseils se rapportent à un objet dans son entier,
 - f. la clause d’urgence;
 - g.[^95-1] la décision de donner suite ou non à une initiative d’un canton;
 - h. l’approbation d’une ordonnance du Conseil fédéral;
-- i.[^95-2] ...
+- i.[^95-2] …
 - j. le maintien en délibération d’un objet qu’il a été proposé de classer.
 
 [^95-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -1510,7 +1510,7 @@ Lorsque l’Assemblée fédérale soumet au vote du peuple et des cantons une in
 
 <sup>1</sup> Si l’un des conseils a pris une décision sur un contre-projet ou un projet d’acte en rapport étroit avec l’initiative populaire, l’Assemblée fédérale peut proroger d’un an le délai imparti pour traiter l’initiative.
 
-<sup>1bis</sup> ...[^105-1]
+<sup>1bis</sup> …[^105-1]
 
 <sup>2</sup> Si les conseils ne parviennent pas à prendre de décision concordante sur la prorogation du délai, celui-ci n’est pas prorogé.
 
@@ -1712,7 +1712,7 @@ Les interventions parlementaires sont:
 
 <sup>3</sup> Le libellé d’une intervention ne peut être modifié après le dépôt de celle-ci; l’art. 121, al. 3, let. b, est réservé.[^119-1]
 
-<sup>4</sup> ...[^119-2]
+<sup>4</sup> …[^119-2]
 
 <sup>5</sup>
 
@@ -1721,7 +1721,7 @@ Une intervention déposée par un député ou un groupe parlementaire est class�
 - a. si le conseil n’a pas achevé son examen dans un délai de deux ans à compter de son dépôt;
 - b. si son auteur a quitté le conseil et qu’aucun autre député n’a repris l’intervention à son compte pendant la première semaine de la session suivante.[^119-3]
 
-<sup>6</sup> ...[^119-4]
+<sup>6</sup> …[^119-4]
 
 [^119-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^119-2]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -1837,7 +1837,7 @@ Le postulat charge le Conseil fédéral d’examiner l’opportunité, soit de d
 
 ### Chapitre 7 Procédure applicable au traitement des pétitions et des requêtes
 
-### Section 1 Pétition****
+### Section 1 Pétition
 
 [^tit5-chap7-sec1-1]
 
@@ -1886,7 +1886,7 @@ La commission propose à son conseil de ne pas donner suite à la pétition dans
 
 [^128-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Section 2 Requête****
+### Section 2 Requête
 
 [^tit5-chap7-sec2-1]
 
@@ -1896,7 +1896,7 @@ La commission propose à son conseil de ne pas donner suite à la pétition dans
 
 La requête qui se rapporte à la gestion des affaires ou à la gestion financière du Conseil fédéral, de l’administration fédérale, des tribunaux fédéraux ou d’autres organes auxquels sont confiées des tâches de la Confédération est transmise aux Commissions de gestion ou aux Commissions des finances pour qu’elles y répondent directement.
 
-### Chapitre 8**** Procédure applicable au traitement des réclamations contre les conventions passées par des cantons entre eux ou avec l’étranger
+### Chapitre 8 Procédure applicable au traitement des réclamations contre les conventions passées par des cantons entre eux ou avec l’étranger
 
 [^tit5-chap8-1]
 
@@ -1908,7 +1908,7 @@ La requête qui se rapporte à la gestion des affaires ou à la gestion financi�
 
 <sup>2</sup> Si un canton dépose une réclamation, la commission compétente du conseil prioritaire soumet à son propre conseil un projet d’arrêté fédéral simple concernant l’approbation de la convention.
 
-## Titre 6 Élections, confirmation de nominations et incapacité****
+## Titre 6 Élections, confirmation de nominations et incapacité
 
 [^tit6-1]
 
@@ -2038,7 +2038,7 @@ L’Assemblée fédérale procède aux autres élections prévues par la Constit
 
 <sup>3</sup> L’Assemblée fédérale (Chambres réunies) décide à la majorité des votants de confirmer ou non la nomination proposée; elle vote à bulletin secret. Si elle refuse de confirmer la nomination, l’organe compétent procède à une nouvelle nomination.
 
-### Chapitre 6**** Constatation de l’incapacité d’un membre du Conseil fédéral ou du chancelier de la Confédération à exercer sa fonction
+### Chapitre 6 Constatation de l’incapacité d’un membre du Conseil fédéral ou du chancelier de la Confédération à exercer sa fonction
 
 [^tit6-chap6-1]
 
@@ -2426,7 +2426,7 @@ L’autorité concernée a le droit de s’exprimer avant qu’une commission de
 
 Le chancelier de la Confédération défend devant les conseils et les commissions les objets qui relèvent de la Chancellerie fédérale.
 
-## Titre 8 Relations entre l’Assemblée fédérale, les tribunaux fédéraux et l’Autorité de surveillance du Ministère public de la Confédération****
+## Titre 8 Relations entre l’Assemblée fédérale, les tribunaux fédéraux et l’Autorité de surveillance du Ministère public de la Confédération
 
 [^tit8-1]
 
@@ -2593,7 +2593,7 @@ Les objets soumis à délibération qui sont pendants devant l’un des conseils
 
 Les art. 163 à 171 ne sont applicables qu’aux commissions instituées après l’entrée en vigueur de la présente loi.
 
-### 5.** Disposition transitoire concernant l’art. 40a (Commission judiciaire)
+### 5. Disposition transitoire concernant l’art. 40a (Commission judiciaire)
 
 [^173-subdivu5-1]
 
@@ -2603,7 +2603,7 @@ Les art. 163 à 171 ne sont applicables qu’aux commissions instituées après 
 
 <sup>2</sup> Lors de la constitution des cours, elle tient compte des compétences des juges et de la représentation des langues officielles.
 
-### 6.** Disposition transitoire concernant les art. 86, al. 4, 97, al. 2, et 101, al. 2 et 3 (Initiative populaire)
+### 6. Disposition transitoire concernant les art. 86, al. 4, 97, al. 2, et 101, al. 2 et 3 (Initiative populaire)
 
 [^173-subdivu6-1]
 
@@ -2611,7 +2611,7 @@ Les art. 163 à 171 ne sont applicables qu’aux commissions instituées après 
 
 Les modifications apportées aux art. 86, al. 4, 97, al. 2, et 101, al. 2 et 3, s’appliquent aux initiatives populaires pour lesquelles le Conseil fédéral, au moment de l’entrée en vigueur de la modification du 3 octobre 2008, n’a pas encore présenté à l’Assemblée fédérale de projet d’arrêté fédéral concernant l’initiative.
 
-### 7.** Disposition transitoire relative à la modification du 25 septembre 2009 concernant l’art. 105, al. 1<sup>bis</sup> (prorogation du délai imparti pour traiter une initiative populaire)
+### 7. Disposition transitoire relative à la modification du 25 septembre 2009 concernant l’art. 105, al. 1<sup>bis</sup> (prorogation du délai imparti pour traiter une initiative populaire)
 
 [^173-subdivu7-1]
 
@@ -2635,7 +2635,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> décembre 2003[^174-3]
 [^174-2]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^174-3]: A de la Conférence de coordination de l’Ass. féd. du 16 sept. 2002
 
-## Disposition transitoire de la modification du 5 octobre 2007****
+## Disposition transitoire de la modification du 5 octobre 2007
 
 [^u1-1]
 
@@ -2643,7 +2643,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> décembre 2003[^174-3]
 
 L’art. 122 dans sa version du 5 octobre 2007 ne s’applique qu’aux motions qui n’ont pas encore été adoptées par les deux conseils au moment de l’entrée en vigueur de la présente loi.
 
-## Disposition transitoire relative à la modification du 17 juin 2011****
+## Disposition transitoire relative à la modification du 17 juin 2011
 
 [^u2-1]
 
@@ -2651,7 +2651,7 @@ L’art. 122 dans sa version du 5 octobre 2007 ne s’applique qu’aux motions 
 
 Les requêtes visant à lever l’immunité, ainsi que les requêtes de nature analogue qui sont pendantes au moment de l’entrée en vigueur de la modification du 17 juin 2011 sont régies par l’ancien droit.
 
-## Disposition transitoire concernant les art. 109, al. 2 et 3<sup>bis</sup>, et 116, al. 3<sup>bis</sup>, selon la modification du 21 juin 2013****
+## Disposition transitoire concernant les art. 109, al. 2 et 3<sup>bis</sup>, et 116, al. 3<sup>bis</sup>, selon la modification du 21 juin 2013
 
 [^u3-1]
 
@@ -2677,7 +2677,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-4]
+…[^annexu1-lvlu1-4]
 
 [^annexu1-lvlu1-1]: [RS **1** 141; [RO 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 121, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 1 [414](https://fedlex.data.admin.ch/eli/oc/2000/91), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 3]
 [^annexu1-lvlu1-2]: [RS **1** 433]

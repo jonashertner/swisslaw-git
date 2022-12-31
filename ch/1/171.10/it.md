@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2021-12-18
+version: 2023-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211218-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 18 dicembre 2021)
+del 13 dicembre 2002 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -185,7 +185,7 @@ I parlamentari sono tenuti a partecipare alle sedute delle Camere e delle Commis
 
 <sup>3</sup> I voti trasmessi dai membri del Consiglio nazionale secondo il capoverso 1 sono registrati nel sistema elettronico di voto simultaneamente alla votazione in corso nel Consiglio nazionale. Se un membro del Consiglio nazionale non ha potuto trasmettere il proprio voto per motivi tecnici, la votazione non viene ripetuta.
 
-[^10a-1]: Introdotto dal n. I della LF del 10 dic. 2020 (COVID-19: partecipazione a votazioni nel Consiglio nazionale; interruzione o differimento della sessione) ([RU 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8113](https://fedlex.data.admin.ch/eli/fga/2020/2503)[8125](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nuovo testo giusta il n. III 1 della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 787](https://fedlex.data.admin.ch/eli/oc/2021/787); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^10a-1]: Introdotto dal n. I della LF del 10 dic. 2020 (COVID-19: partecipazione a votazioni nel Consiglio nazionale; interruzione o differimento della sessione) ([RU 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8113](https://fedlex.data.admin.ch/eli/fga/2020/2503)[8125](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nuovo testo giusta il n. III 1 della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)) e prorogato fino al 30 giu. 2024 dall’all. n. 1 della LF del 16 dic. 2022 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 10b
 
@@ -381,7 +381,7 @@ Per togliere il segreto postale o il segreto delle telecomunicazioni a tenore de
 
 Se la necessità dell’autorizzazione secondo gli articoli 17–20 è controversa, la decisione spetta all’organo competente per l’autorizzazione medesima.
 
-### Capitolo 4:**** Responsabilità per danni
+### Capitolo 4: Responsabilità per danni
 
 [^tit2-chap4-1]
 
@@ -1898,7 +1898,7 @@ La commissione propone alla Camera di non dare seguito alla petizione se:
 
 [^128-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Sezione 2: Domande concernenti la gestione****
+### Sezione 2: Domande concernenti la gestione
 
 [^tit5-chap7-sec2-1]
 
@@ -1908,7 +1908,7 @@ La commissione propone alla Camera di non dare seguito alla petizione se:
 
 Le domande concernenti la gestione generale o finanziaria del Consiglio federale, dell’Amministrazione federale, dei Tribunali federali e di altri enti incaricati di compiti federali sono trasmesse per risposta diretta alle Commissioni della gestione o delle finanze.
 
-### Capitolo 8:**** Procedura in caso di reclamo contro trattati intercantonali o contro trattati conclusi dai Cantoni con l’estero
+### Capitolo 8: Procedura in caso di reclamo contro trattati intercantonali o contro trattati conclusi dai Cantoni con l’estero
 
 [^tit5-chap8-1]
 
@@ -1920,13 +1920,13 @@ Le domande concernenti la gestione generale o finanziaria del Consiglio federale
 
 <sup>2</sup> Se un Cantone solleva reclamo, la commissione competente della Camera prioritaria presenta al plenum della Camera il progetto di decreto federale semplice concernente l’approvazione.
 
-## Titolo sesto: Elezioni, conferma di elezioni e accertamento dell’incapacità****
+## Titolo sesto: Elezioni, conferma di elezioni e accertamento dell’incapacità
 
 [^tit6-1]
 
 [^tit6-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Capitolo 1: Disposizioni generali relative alle elezioni****
+### Capitolo 1: Disposizioni generali relative alle elezioni
 
 [^tit6-chap1-1]
 
@@ -2054,7 +2054,7 @@ L’Assemblea federale procede alle altre elezioni previste dalla Costituzione o
 
 <sup>3</sup> L’Assemblea federale plenaria decide a scrutinio segreto, a maggioranza dei membri votanti, circa la conferma o non conferma dell’elezione. In caso di mancata conferma, l’organo eleggente deve procedere a una nuova elezione.
 
-### Capitolo 6:**** Accertamento dell’incapacità di un membro del Consiglio federale o del cancelliere della Confederazione di esercitare la carica
+### Capitolo 6: Accertamento dell’incapacità di un membro del Consiglio federale o del cancelliere della Confederazione di esercitare la carica
 
 [^tit6-chap6-1]
 
@@ -2442,7 +2442,7 @@ All’autorità interessata è data la possibilità di esprimersi prima che una 
 
 Il cancelliere della Confederazione difende gli affari della Cancelleria federale nelle Camere e nelle commissioni.
 
-## Titolo ottavo: Relazioni tra l’Assemblea federale e i tribunali della Confederazione nonché l’autorità di vigilanza sul Ministero pubblico della Confederazione ****
+## Titolo ottavo: Relazioni tra l’Assemblea federale e i tribunali della Confederazione nonché l’autorità di vigilanza sul Ministero pubblico della Confederazione
 
 [^tit8-1]
 
@@ -2651,7 +2651,7 @@ Data dell’entrata in vigore: 1° dicembre 2003[^174-3]
 [^174-2]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^174-3]: Dec. della Conferenza di coordinazione dell’AF del 16 set. 2002.
 
-## Disposizione transitoria della modifica del 5 ottobre 2007****
+## Disposizione transitoria della modifica del 5 ottobre 2007
 
 [^u1-1]
 
@@ -2659,7 +2659,7 @@ Data dell’entrata in vigore: 1° dicembre 2003[^174-3]
 
 Il nuovo articolo 122 si applica alle mozioni che, all’entrata in vigore della modifica del 5 ottobre 2007, non sono state ancora accolte dalle due Camere.
 
-## Disposizione transitoria della modifica del 17 giugno 2011****
+## Disposizione transitoria della modifica del 17 giugno 2011
 
 [^u2-1]
 
@@ -2667,7 +2667,7 @@ Il nuovo articolo 122 si applica alle mozioni che, all’entrata in vigore della
 
 Alla trattazione delle richieste di soppressione dell’immunità e richieste analoghe pendenti al momento dell’entrata in vigore della modifica del 17 giugno 2011 della presente legge si applica il diritto anteriore.
 
-## Disposizione transitoria degli art. 109 cpv. 2 e 3<sup>bis</sup> e 116 cpv. 3<sup>bis</sup> secondo la modifica del 21 giugno 2013****
+## Disposizione transitoria degli art. 109 cpv. 2 e 3<sup>bis</sup> e 116 cpv. 3<sup>bis</sup> secondo la modifica del 21 giugno 2013
 
 [^u3-1]
 
@@ -2695,7 +2695,7 @@ Le leggi qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [CS **1** 148; [RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 cpv. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 121, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. I 414 , [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n.3].
+[^annexu1-lvlu1-1]: [CS **1** 148; [RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 cpv. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. I, [414](https://fedlex.data.admin.ch/eli/oc/2000/91); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n.3].
 [^annexu1-lvlu1-2]: [CS **1** 431]
-[^annexu1-lvlu1-3]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831), [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363)[1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753), [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249), [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245)[1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686), [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)II n. 1, [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570)[688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2, [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66 [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679)[1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318), [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452), [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712), [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3, [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257)[260](https://fedlex.data.admin.ch/eli/oc/1989/260_260_260), [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)[1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1, [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641)[2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344), [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360)[2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147), [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1 [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868), [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)[760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1 [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4, [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646)[1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418)[2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8, [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)[2093](https://fedlex.data.admin.ch/eli/oc/2000/317), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 1, [2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1, [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. I 3].
+[^annexu1-lvlu1-3]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831); [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363), [1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753); [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249), [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245), [1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)II n. 1; [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570), [688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66, [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679), [1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [260](https://fedlex.data.admin.ch/eli/oc/1989/260_260_260); [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530), [1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1; [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641), [2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360), [2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147); [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1, [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868); [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753), [760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1, [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4; [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646), [1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418), [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8; [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54), [2093](https://fedlex.data.admin.ch/eli/oc/2000/317); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 1; [2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1; [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. I 3].
 [^annexu1-lvlu1-4]: Le mod. possono essere consultate alla [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).

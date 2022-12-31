@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2021-12-18
+version: 2023-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 18. Dezember 2021)
+vom 13. Dezember 2002 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -181,7 +181,7 @@ Die Ratsmitglieder sind verpflichtet, an den Sitzungen der Räte und Kommissione
 
 <sup>3</sup> Die von den Mitgliedern des Nationalrates gemäss Absatz 1 abgegebenen Stimmen werden im elektronischen Abstimmungssystem gleichzeitig mit der im Rat laufenden Abstimmung erfasst. Die Abstimmung wird nicht wiederholt, wenn ein Ratsmitglied seine Stimme aus technischen Gründen nicht abgeben konnte.
 
-[^10a-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Fassung gemäss Ziff. III 1 des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^10a-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Fassung gemäss Ziff. III 1 des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)), verlängert bis zum 30. Juni 2024 durch Anhang Ziff. 1 des BG vom 16. Dez. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 10b
 
@@ -1039,18 +1039,9 @@ Die Dienststellen der Parlamentsdienste verfügen über dieselben Informationsre
 
 #### Art. 69a
 
-**Covid-19-Zertifikatspflicht im Parlamentsgebäude**[^69a-1]
-
-<sup>1</sup> Personen ab 16 Jahren erhalten nur mit einem gültigen Covid-19-Zertifikat gemäss Artikel 6*a* des Covid-19-Gesetzes vom 25. September 2020[^69a-2] Zutritt zum Parlamentsgebäude. Lässt es die epidemiologische Lage zu, kann die Verwaltungsdelegation diese Massnahme aussetzen.
-
-<sup>2</sup> Personen, die zwingend Zutritt zum Parlamentsgebäude benötigen, werden die Kosten für die allenfalls notwendigen Tests für die Ausstellung des Zertifikats vergütet. Die Verwaltungsdelegation legt fest, welche Personengruppen Anspruch auf eine Vergütung der Tests haben.
-
-<sup>3</sup> Die Verwaltungsdelegation regelt die Einzelheiten der Kontrolle der Zertifikate.
-
-<sup>4</sup> Ratsmitglieder, die kein Zertifikat vorweisen, erhalten Zutritt, wenn sie im Parlamentsgebäude eine Maske tragen. Die Parlamentsdienste führen zuhanden der für die Ausübung des Hausrechts zuständigen Personen eine Liste dieser Ratsmitglieder.
+[^69a-1]
 
 [^69a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft vom 2. Okt. 2021 bis zum 31. Dez. 2022 ([AS 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [BBl 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181)[2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
-[^69a-2]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
 #### Art. 70
 
@@ -1887,7 +1878,7 @@ Die Kommission beantragt ihrem Rat, der Petition sei keine Folge zu geben, wenn 
 
 [^128-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### 2. Abschnitt: Eingaben****
+### 2. Abschnitt: Eingaben
 
 [^tit5-chap7-sec2-1]
 
@@ -1897,7 +1888,7 @@ Die Kommission beantragt ihrem Rat, der Petition sei keine Folge zu geben, wenn 
 
 Eine Eingabe zur Geschäftsführung und zum Finanzgebaren des Bundesrates, der Bundesverwaltung, der eidgenössischen Gerichte und anderer Träger von Aufgaben des Bundes wird den Geschäftsprüfungs- oder Finanzkommissionen zur direkten Beantwortung zugewiesen.
 
-### 8. Kapitel:**** Verfahren bei Einsprachen gegen Verträge der Kantone unter sich oder mit dem Ausland
+### 8. Kapitel: Verfahren bei Einsprachen gegen Verträge der Kantone unter sich oder mit dem Ausland
 
 [^tit5-chap8-1]
 
@@ -1909,7 +1900,7 @@ Eine Eingabe zur Geschäftsführung und zum Finanzgebaren des Bundesrates, der B
 
 <sup>2</sup> Erhebt ein Kanton Einsprache, so unterbreitet die zuständige Kommission des Erstrates ihrem Rat den Entwurf eines einfachen Bundesbeschlusses über die Genehmigung.
 
-## 6. Titel: Wahlen, Bestätigung von Wahlen und Feststellung der Amtsunfähigkeit****
+## 6. Titel: Wahlen, Bestätigung von Wahlen und Feststellung der Amtsunfähigkeit
 
 [^tit6-1]
 
@@ -2039,7 +2030,7 @@ Die Bundesversammlung nimmt weitere durch Verfassung oder Gesetz vorgesehene Wah
 
 <sup>3</sup> Die Vereinigte Bundesversammlung entscheidet in geheimer Abstimmung mit der Mehrheit der stimmenden Mitglieder über Bestätigung oder Nichtbestätigung der Wahl. Lehnt sie ab, so muss das Wahlorgan eine neue Wahl vornehmen.
 
-### 6. Kapitel:**** Feststellung der Amtsunfähigkeit von Mitgliedern des Bundesrates sowie der Bundeskanzlerin oder des Bundeskanzlers
+### 6. Kapitel: Feststellung der Amtsunfähigkeit von Mitgliedern des Bundesrates sowie der Bundeskanzlerin oder des Bundeskanzlers
 
 [^tit6-chap6-1]
 
@@ -2636,7 +2627,7 @@ Datum des Inkrafttretens: 1. Dezember 2003[^174-3]
 [^174-2]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^174-3]: Verfügt durch die Koordinationskonferenz der BVers vom 16. Sept. 2002
 
-## Übergangsbestimmung der Änderung vom 5. Oktober 2007****
+## Übergangsbestimmung der Änderung vom 5. Oktober 2007
 
 [^u1-1]
 
@@ -2644,7 +2635,7 @@ Datum des Inkrafttretens: 1. Dezember 2003[^174-3]
 
 Artikel 122 gilt in der neuen Fassung vom 5. Oktober 2007 für Motionen, welche zum Zeitpunkt des Inkrafttretens dieser Änderung noch nicht von beiden Räten angenommen worden sind.
 
-## Übergangsbestimmung zur Änderung vom 17. Juni 2011****
+## Übergangsbestimmung zur Änderung vom 17. Juni 2011
 
 [^u2-1]
 
@@ -2652,7 +2643,7 @@ Artikel 122 gilt in der neuen Fassung vom 5. Oktober 2007 für Motionen, welche 
 
 Für die Behandlung von Gesuchen um die Aufhebung der Immunität und von ähnlichen Gesuchen, die zum Zeitpunkt des Inkrafttretens der Änderung vom 17. Juni 2011 dieses Gesetzes hängig sind, gilt das bisherige Recht.
 
-## Übergangsbestimmung zu den Artikeln 109 Absätze 2 und 3<sup>bis</sup> und 116 Absatz 3<sup>bis</sup> gemäss der Änderung vom 21. Juni 2013****
+## Übergangsbestimmung zu den Artikeln 109 Absätze 2 und 3<sup>bis</sup> und 116 Absatz 3<sup>bis</sup> gemäss der Änderung vom 21. Juni 2013
 
 [^u3-1]
 

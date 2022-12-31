@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2021-12-18
+version: 2023-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211218/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211218-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 18 December 2021)
+of 13 December 2002 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -79,11 +79,11 @@ One quarter of the members of a council or of the Federal Council may request th
 
 <sup>4</sup> The oath is as follows:
 
-«I swear by Almighty God to uphold the Constitution and the law and to fulfil the duties of my office to the best of my abilities.»
+“I swear by Almighty God to uphold the Constitution and the law and to fulfil the duties of my office to the best of my abilities.”
 
 <sup>5</sup> The solemn promise is as follows:
 
-«I solemnly promise to uphold the Constitution and the law and to fulfil the duties of my office to the best of my abilities.»
+“I solemnly promise to uphold the Constitution and the law and to fulfil the duties of my office to the best of my abilities.”
 
 #### Art. 4
 
@@ -183,7 +183,7 @@ Assembly members are obliged to attend the meetings of the councils and committe
 
 <sup>3</sup> The votes cast by members of the National Council pursuant to paragraph 1 shall be recorded in the electronic voting system at the same time as votes are cast in the Council. The vote shall not be held again if a Council member is unable to cast his or her vote on technical grounds.
 
-[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Amended by No III 1 of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Amended by No III 1 of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)) extended until 30 June 2024 by Annex No 1 of the FA of 16 Dec. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 10b
 
@@ -378,7 +378,7 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 
 In the event of any dispute as to whether authorisation in terms of Articles 17–20 is required, the organ responsible for granting authorisation decides.
 
-### Chapter 4**** Liability
+### Chapter 4 Liability
 
 [^tit2-chap4-1]
 
@@ -864,7 +864,7 @@ The committees shall inform the general public of the results of their deliberat
 [^53-2]: Inserted by No I 2 of the FA of 17 Dec. 2010 on Safeguarding Democracy, the Rule of Law and the Capacity to Act in Extraordinary Situations, in force since 1 May 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 [^53-3]: Amended by No I 2 of the FA of 17 Dec. 2010 on Safeguarding Democracy, the Rule of Law and the Capacity to Act in Extraordinary Situations, in force since 1 May 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 
-### Section 4 Reporting to the Council****
+### Section 4 Reporting to the Council
 
 [^tit4-chap4-sec4-1]
 
@@ -1041,18 +1041,9 @@ The offices of the Parliamentary Services have the same rights to information as
 
 #### Art. 69a
 
-**COVID-19 certificate requirement in the Parliament Building**[^69a-1]
-
-<sup>1</sup> Persons aged 16 or over shall be allowed access to the Parliament Building only if they can produce a valid COVID-19 certificate in accordance with Article 6*a* of the COVID-19 Act of 25 September 2020[^69a-2]. If the epidemiological situation so permits, the Administration Delegation may suspend this measure.
-
-<sup>2</sup> Persons who must have access to the Parliament building shall be reimbursed for the costs of any tests required for the issue of the certificate. The Administrative Delegation shall determine which groups of persons are entitled to the reimbursement of the costs of tests.
-
-<sup>3</sup> The Administration Delegation shall regulate the details of checks on certificates.
-
-<sup>4</sup> Assembly members who are unable to produce a certificate shall be allowed access if they wear a face mask in the Parliament Building. The Parliamentary Services shall keep a list of such assembly members to be used by the persons responsible for supervising the use of the Assembly chambers and access to the Parliament Building.
+[^69a-1]
 
 [^69a-1]: Inserted by No I of the FA of 1 Oct. 2021, in force from 2 Oct. 2021 to 31 Dec. 2022 ([AS 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [BBl 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181), [2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
-[^69a-2]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
 #### Art. 70
 
@@ -1840,7 +1831,7 @@ A postulate mandates the Federal Council to examine and report on whether to sub
 
 ### Chapter 7 Procedure for Petitions and Submissions
 
-### Section 1 Petitions****
+### Section 1 Petitions
 
 [^tit5-chap7-sec1-1]
 
@@ -1889,7 +1880,7 @@ The committee shall request its council not to endorse the petition if it:
 
 [^128-1]: Amended by No I of the FA of 3 Oct. 2008 (Parliamentary Law. Miscellaneous Amendments), in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Section 2 Submissions****
+### Section 2 Submissions
 
 [^tit5-chap7-sec2-1]
 
@@ -1899,7 +1890,7 @@ The committee shall request its council not to endorse the petition if it:
 
 A submission on the conduct of business and on the financial policy of the Federal Council, the Federal Administration, the federal courts or of other persons entrusted with tasks by the Confederation shall be allocated to the Control or Finance Committees for a direct response.
 
-### Chapter 8**** Procedure for Objections to Treaties between Cantons or between Cantons and Foreign States
+### Chapter 8 Procedure for Objections to Treaties between Cantons or between Cantons and Foreign States
 
 [^tit5-chap8-1]
 
@@ -1911,7 +1902,7 @@ A submission on the conduct of business and on the financial policy of the Feder
 
 <sup>2</sup> If a Canton files an objection, the responsible committee of the first chamber shall submit to its chamber the draft of a simple federal decree on the approval of the treaty.
 
-## Title 6 Elections and Verification of Elections, and Declaration of Inability to Discharge the Duties of Office****
+## Title 6 Elections and Verification of Elections, and Declaration of Inability to Discharge the Duties of Office
 
 [^tit6-1]
 
@@ -1970,7 +1961,7 @@ Excluded from the election are:
 
 <sup>1</sup> Elections in respect of vacant seats are normally held in the session following receipt of the letter of resignation of the member, following a member unexpectedly vacating his or her seat or following the declaration that the member is unable to discharge his or her duties of office.[^133-1]
 
-<sup>2</sup> The newly-elected member assumes office at the latest two months after his or her election.
+<sup>2</sup> The newly elected member assumes office at the latest two months after his or her election.
 
 <sup>3</sup> If elections are held to more than one vacant seat, the order in which the elections are held is determined by the length of period in office of the previous office holder.
 
@@ -2041,7 +2032,7 @@ The Federal Assembly shall conduct other elections provided for by the Constitut
 
 <sup>3</sup> The United Federal Assembly shall decide by secret ballot and by a majority of its voting members whether the election is to be confirmed or not. If the election is rejected, the nominating authority must hold a new election.
 
-### Chapter 6**** Declaration that a Federal Councillor or the Federal Chancellor is unable to Discharge the Duties of Office
+### Chapter 6 Declaration that a Federal Councillor or the Federal Chancellor is unable to Discharge the Duties of Office
 
 [^tit6-chap6-1]
 
@@ -2429,7 +2420,7 @@ The authority concerned shall have the opportunity to express its opinion before
 
 The Federal Chancellor is responsible for matters relating to the business of the Federal Chancellery in the Assembly and in the committees.
 
-## Title 8 Procedural Relations between the Federal Assembly and the Federal Courts and Supervisory Authority for the Office of the Attorney General of Switzerland****
+## Title 8 Procedural Relations between the Federal Assembly and the Federal Courts and Supervisory Authority for the Office of the Attorney General of Switzerland
 
 [^tit8-1]
 
@@ -2630,7 +2621,7 @@ Commencement Date: 1 Dec. 2003[^174-3]
 [^174-2]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^174-3]: Ordained by the Coordination Conference of the FA of 16 Sept. 2002 (AS **2003** 3593).
 
-## Transitional Provision relating to the Amendment of 5 October 2007****
+## Transitional Provision relating to the Amendment of 5 October 2007
 
 [^u1-1]
 
@@ -2638,7 +2629,7 @@ Commencement Date: 1 Dec. 2003[^174-3]
 
 Article 122 applies in its new version of 5 October 2007 to motions that have not yet been adopted by both chambers at the time at which this amendment takes effect.
 
-## Transitional Provision relating to the Amendment of 17 June 2011****
+## Transitional Provision relating to the Amendment of 17 June 2011
 
 [^u2-1]
 
@@ -2646,7 +2637,7 @@ Article 122 applies in its new version of 5 October 2007 to motions that have no
 
 The previous law applies when dealing with applications to lift immunity and similar applications that were pending when the Amendment to this Act of 17 June 2011 came into force.
 
-## Transitional Provision relating to Articles 109 paragraphs 2 and 3<sup>bis</sup> and 116 paragraph 3<sup>bis</sup> in accordance with the Amendment of 21 June 2013****
+## Transitional Provision relating to Articles 109 paragraphs 2 and 3<sup>bis</sup> and 116 paragraph 3<sup>bis</sup> in accordance with the Amendment of 21 June 2013
 
 [^u3-1]
 

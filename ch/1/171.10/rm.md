@@ -4,22 +4,22 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2021-12-18
+version: 2023-01-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211218/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211218-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230101-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Lescha federala F davart l’Assamblea federala
+# Lescha federala davart l’Assamblea federala
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dals 18 da december 2021)
+dals 13 da december 2002 (versiun dal 1. da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -185,7 +185,7 @@ Ils parlamentaris èn obligads da sa participar a las sesidas da las chombras e 
 
 <sup>3</sup> Las vuschs consegnadas dals commembers dal Cussegl naziunal tenor l’alinea 1 vegnan registradas en il sistem da votaziun electronic il medem mument sco la votaziun currenta en la chombra. La votaziun na vegn betg repetida, sch’in commember dal Cussegl naziunal n’ha betg pudì votar per motivs tecnics.
 
-[^10a-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Versiun tenor la cifra III 1 da la LF dals 17 da dec. 2021, en vigur dals 18 da dec. 2021 fin ils 31 da dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^10a-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Versiun tenor la cifra III 1 da la LF dals 17 da dec. 2021, en vigur dals 18 da dec. 2021 fin ils 31 da dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)), prolungà fin ils 30 da zer. 2024 tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 10b
 
@@ -199,7 +199,7 @@ Ils parlamentaris èn obligads da sa participar a las sesidas da las chombras e 
 
 <sup>1</sup>
 
-Cur ch’el entra en uffizi ed al cumenzament da mintga onn infurmescha mintga parlamentari en scrit il biro davart:
+Cura ch’el entra en uffizi ed al cumenzament da mintga onn infurmescha mintga parlamentari en scrit il biro davart:
 
 - a.[^11-1] sias activitads professiunalas; sch’in parlamentari è lavurant, sto el inditgar la funcziun ed il patrun;
 - b.[^11-2] sias ulteriuras activitads en gremis directivs e da surveglianza, en cussegls consultativs ed en gremis sumegliants da corporaziuns, d’instituziuns e da fundaziuns svizras ed estras da dretg privat e public;
@@ -211,7 +211,7 @@ Cur ch’el entra en uffizi ed al cumenzament da mintga onn infurmescha mintga p
 
 <sup>2</sup> Ils Servetschs dal parlament cumpileschan in register public cun las indicaziuns dals parlamentaris.
 
-<sup>3</sup> Parlamentaris che han in interess persunal direct vi d’in object da la tractativa, rendan attent a quests interess, cur ch’els s’expriman en la chombra u en ina cumissiun.
+<sup>3</sup> Parlamentaris che han in interess persunal direct vi d’in object da la tractativa, rendan attent a quests interess, cura ch’els s’expriman en la chombra u en ina cumissiun.
 
 <sup>4</sup> Il secret professiunal en il senn dal Cudesch penal[^11-4] resta resalvà.
 
@@ -321,7 +321,7 @@ Ils parlamentaris na pon betg vegnir fatgs giuridicamain responsabels per lur re
 
 <sup>5</sup> La decisiun da las cumissiuns è definitiva.
 
-<sup>6</sup> Cur ch’ina cumissiun ha communitgà sia decisiun al parlamentari pertutgà, infurmescha ella immediatamain la publicitad. A medem temp orientescha ella ils commembers da tuttas duas chombras tras ina communicaziun en scrit.
+<sup>6</sup> Cura ch’ina cumissiun ha communitgà sia decisiun al parlamentari pertutgà, infurmescha ella immediatamain la publicitad. A medem temp orientescha ella ils commembers da tuttas duas chombras tras ina communicaziun en scrit.
 
 <sup>7</sup> Sch’il parlamentari inculpà è commember d’ina da las cumissiuns cumpetentas, prenda el recusaziun.
 
@@ -354,7 +354,7 @@ Per abolir il secret da posta e da telecommunicaziun en il senn da l’artitgel 
 
 <sup>1</sup> Ils presidis da las chombras decidan en ina tractativa cuminaivla e secreta. Per conceder l’autorisaziun tenor l’artitgel 18 dovri il consentiment d’almain tschintg commembers.
 
-<sup>2</sup> L’autorisaziun per abolir il secret da posta e da telecommunicaziun po vegnir concedida pir, cur che l’autoritad cumpetenta ha approvà l’ordinaziun da la surveglianza tenor l’artitgel 7 da la Lescha federala dals 6 d’october 2000[^19-1] davart la surveglianza da la posta e da la telecommunicaziun.
+<sup>2</sup> L’autorisaziun per abolir il secret da posta e da telecommunicaziun po vegnir concedida pir, cura che l’autoritad cumpetenta ha approvà l’ordinaziun da la surveglianza tenor l’artitgel 7 da la Lescha federala dals 6 d’october 2000[^19-1] davart la surveglianza da la posta e da la telecommunicaziun.
 
 [^19-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
 
@@ -380,7 +380,7 @@ Per abolir il secret da posta e da telecommunicaziun en il senn da l’artitgel 
 
 Sch’igl è dispitaivel, schebain in’autorisaziun tenor ils artitgels 17–20 è necessaria, decida l’organ ch’è cumpetent per l’autorisaziun.
 
-### 4. chapitel**** Responsabladad per donns
+### 4. chapitel Responsabladad per donns
 
 [^tit2-chap4-1]
 
@@ -850,7 +850,7 @@ Las cumissiuns infurmeschan la populaziun davart ils resultats da lur tractativa
 
 **Delegaziun da las Cumissiuns da gestiun**
 
-<sup>1</sup> Las Cumissiuns da gestiun elegian tranter lur commembers mintgamai trais commembers en la Delegaziun da las Cumissiuns da gestiun (DelCG). La delegaziun sa constituescha sezza.
+<sup>1</sup> Las Cumissiuns da gestiun elegian tranter lur commembers mintgamai trais commembers en la Delegaziun da las Cumissiuns da gestiun (DelCdG). La delegaziun sa constituescha sezza.
 
 <sup>2</sup> La delegaziun surveglia l’activitad en il sectur da la protecziun dal stadi e dals servetschs d’infurmaziun e controllescha l’agir statal en secturs ch’èn secrets, causa ch’i avess consequenzas gravantas per ils interess da la Svizra, sch’els vegnissan enconuschents a persunas betg autorisadas.[^53-1]
 
@@ -866,7 +866,7 @@ Las cumissiuns infurmeschan la populaziun davart ils resultats da lur tractativa
 [^53-2]: Integrà tras la cifra I 2 da la LF dals 17 da dec. 2010 davart il mantegniment da la democrazia, dal stadi da dretg e da l’abilitad d’agir en situaziuns extraordinarias, en vigur dapi il 1. da matg 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 [^53-3]: Versiun tenor la cifra I 2 da la LF dals 17 da dec. 2010 davart il mantegniment da la democrazia, dal stadi da dretg e da l’abilitad d’agir en situaziuns extraordinarias, en vigur dapi il 1. da matg 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 
-### 4. part Rapport a la chombra****
+### 4. part Rapport a la chombra
 
 [^tit4-chap4-sec4-1]
 
@@ -1043,18 +1043,9 @@ Ils posts dals Servetschs dal parlament han ils medems dretgs d’infurmaziun sc
 
 #### Art. 69a
 
-**Obligatori d’in certificat da COVID-19 en l’edifizi dal parlament**[^69a-1]
+[^69a-1]
 
-<sup>1</sup> Persunas a partir da 16 onns survegnan access a l’edifizi dal parlament mo cun in certificat COVID-19 valaivel tenor l’artitgel 6*a* da la Lescha COVID-19 dals 25 da settember 2020[^69a-2]. Sche la situaziun epidemiologica permetta quai, po la Delegaziun administrativa suspender questa mesira.
-
-<sup>2</sup> A persunas che ston en mintga cas avair access a l’edifizi dal parlament, vegnan indemnisads ils custs dals tests ch’èn eventualmain necessaris per emetter il certificat. La Delegaziun administrativa fixescha, tge gruppas da persunas che han il dretg d’ina indemnisaziun dals tests.
-
-<sup>3</sup> La Delegaziun administrativa regla ils detagls da la controlla dals certificats.
-
-<sup>4</sup> Ils parlamentaris che na preschentan nagin certificat survegnan access, sch’els portan ina mascrina en l’edifizi dal parlament. Ils Servetschs dal parlament mainan ina glista da quests parlamentaris per mauns da las persunas ch’èn cumpetentas per l’execuziun dal dretg da chasa.
-
-[^69a-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dals 2. d’oct. 2021 fin ils 31 da dec. 2022 ([AS 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [BBl 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181)[2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
-[^69a-2]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
+[^69a-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dals 2 d’oct. 2021 fin ils 31 da dec. 2022 ([AS 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [BBl 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181)[2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
 
 #### Art. 70
 
@@ -1842,7 +1833,7 @@ Il postulat incumbensescha il Cussegl federal d’examinar u da rapportar, sch�
 
 ### 7. chapitel Procedura tar petiziuns ed instanzas
 
-### 1. part Petiziuns****
+### 1. part Petiziuns
 
 [^tit5-chap7-sec1-1]
 
@@ -1854,7 +1845,7 @@ Il postulat incumbensescha il Cussegl federal d’examinar u da rapportar, sch�
 
 <sup>1</sup> La cumissiun cumpetenta da mintga chombra decida, sch’ella vul acceptar la petiziun u sch’ella propona a la chombra da refusar quella.
 
-<sup>2</sup> Sche la petiziun po vegnir preschentada en furma d’ina proposta relativa ad in object da tractativa pendent, infurmescha la cumissiun la chombra davart la petiziun cur ch’ella tracta quest object. La cumissiun fa ina proposta per l’object da tractativa u desista da far quai. La petiziun vegn annullada senza in conclus da la chombra, cur che l’object da tractativa è liquidà.
+<sup>2</sup> Sche la petiziun po vegnir preschentada en furma d’ina proposta relativa ad in object da tractativa pendent, infurmescha la cumissiun la chombra davart la petiziun cura ch’ella tracta quest object. La cumissiun fa ina proposta per l’object da tractativa u desista da far quai. La petiziun vegn annullada senza in conclus da la chombra, cura che l’object da tractativa è liquidà.
 
 <sup>3</sup> Suenter ch’il tractament d’ina petiziun è terminà infurmeschan ils Servetschs dal parlament ils petents, co ch’igl è vegnì tegnì quint da la finamira da lur petiziun.
 
@@ -1891,7 +1882,7 @@ La cumissiun incumbensescha sia chombra da refusar la petiziun, sch’ella:
 
 [^128-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2008, en vigur dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### 2. part Instanzas****
+### 2. part Instanzas
 
 [^tit5-chap7-sec2-1]
 
@@ -1901,7 +1892,7 @@ La cumissiun incumbensescha sia chombra da refusar la petiziun, sch’ella:
 
 Ina instanza davart la gestiun e davart il cumportament finanzial dal Cussegl federal, da l’administraziun federala, dals tribunals da la Confederaziun e d’auters purtaders d’incumbensas federalas vegn attribuida a las Cumissiuns da gestiun u da finanzas per ch’ella vegnia respundida directamain.
 
-### 8. chapitel**** Procedura tar protestas cunter contracts dals chantuns tranter els u cun l’exteriur
+### 8. chapitel Procedura tar protestas cunter contracts dals chantuns tranter els u cun l’exteriur
 
 [^tit5-chap8-1]
 
@@ -1913,7 +1904,7 @@ Ina instanza davart la gestiun e davart il cumportament finanzial dal Cussegl fe
 
 <sup>2</sup> Sch’in chantun protesta, suttametta la cumissiun cumpetenta da la chombra prioritara a quella il sboz per in conclus federal simpel pertutgant l’approvaziun dal contract.
 
-## 6. titel Elecziuns, conferma d’elecziuns e constataziun da l’inabilitad d’uffizi****
+## 6. titel Elecziuns, conferma d’elecziuns e constataziun da l’inabilitad d’uffizi
 
 [^tit6-1]
 
@@ -2043,7 +2034,7 @@ L’Assamblea federala fa ulteriuras elecziuns ch’èn previsas da la Constituz
 
 <sup>3</sup> En ina votaziun per scrutini decida l’Assamblea federala plenara cun la maioritad dals commembers votants da confermar u da betg confermar l’elecziun. Sch’ella refusa l’elecziun, sto l’organ electoral far ina nova elecziun.
 
-### 6. chapitel**** Constataziun da l’inabilitad d’exequir l’uffizi da commembers dal Cussegl federal u dal chancelier federal
+### 6. chapitel Constataziun da l’inabilitad d’exequir l’uffizi da commembers dal Cussegl federal u dal chancelier federal
 
 [^tit6-chap6-1]
 
@@ -2431,7 +2422,7 @@ L’autoritad pertutgada survegn la pussaivladad da prender posiziun avant ch’
 
 Il chancelier federal represchenta las fatschentas da la Chanzlia federala en las chombras ed en las cumissiuns.
 
-## 8. titel Relaziun da l’Assamblea federala cun ils tribunals da la Confederaziun e cun l’Autoritad da surveglianza da la Procura publica federala****
+## 8. titel Relaziun da l’Assamblea federala cun ils tribunals da la Confederaziun e cun l’Autoritad da surveglianza da la Procura publica federala
 
 [^tit8-1]
 
@@ -2526,7 +2517,7 @@ Per la relaziun uffiziala tranter l’Assamblea federala ed ils tribunals da la 
 
 <sup>4</sup> La Cumissiun d’inquisiziun po permetter a persunas pertutgadas sch’ellas pretendan quai da sa laschar assister d’in advocat per tut la procedura ubain per singulas sesidas, sche quai para dad esser necessari per proteger ils interess giustifitgads da las persunas pertutgadas. L’advocat po mo far propostas da cumprova e tschentar dumondas cumplementaras.
 
-<sup>5</sup> Cur che las retschertgas èn terminadas ed avant che preschentar il rapport a las chombras survegnan las persunas, cunter las qualas èn vegnidas fatgas renfatschas, invista da las parts dal sboz dal rapport che las pertutgan. Ellas survegnan l’occasiun da s’exprimer en chaussa davant la Cumissiun d’inquisiziun a bucca u en scrit entaifer in termin adequat.
+<sup>5</sup> Cura che las retschertgas èn terminadas ed avant che preschentar il rapport a las chombras survegnan las persunas, cunter las qualas èn vegnidas fatgas renfatschas, invista da las parts dal sboz dal rapport che las pertutgan. Ellas survegnan l’occasiun da s’exprimer en chaussa davant la Cumissiun d’inquisiziun a bucca u en scrit entaifer in termin adequat.
 
 <sup>6</sup> Las posiziuns exprimidas a bucca u en scrit ston vegnir integradas en il rapport tenor il senn.
 
@@ -2598,7 +2589,7 @@ Per objects da tractativa ch’èn pendents en ina chombra il mument che questa 
 
 Ils artitgels 163–171 vegnan applitgads per las Cumissiuns parlamentaras d’inquisiziun che vegnan installadas suenter l’entrada en vigur da questa lescha.
 
-### 5.** Disposiziun transitorica da l’art. 40a (Cumissiun giudiziala)
+### 5. Disposiziun transitorica da l’art. 40a (Cumissiun giudiziala)
 
 [^173-subdivu5-1]
 
@@ -2608,7 +2599,7 @@ Ils artitgels 163–171 vegnan applitgads per las Cumissiuns parlamentaras d’i
 
 <sup>2</sup> Tar la nominaziun ston vegnir resguardadas adequatamain las enconuschientschas spezialas dals derschaders sco er las linguas uffizialas.
 
-### 6.** Disposiziun transitorica dals art. 86 al. 4, 97 al. 2 e 101 al. 2 e 3 (Iniziativas dal pievel)
+### 6. Disposiziun transitorica dals art. 86 al. 4, 97 al. 2 e 101 al. 2 e 3 (Iniziativas dal pievel)
 
 [^173-subdivu6-1]
 
@@ -2616,7 +2607,7 @@ Ils artitgels 163–171 vegnan applitgads per las Cumissiuns parlamentaras d’i
 
 Las midadas dals artitgels 86 alinea 4, 97 alinea 2 e 101 alineas 2 e 3 valan per iniziativas dal pievel, per las qualas il Cussegl federal n’ha betg anc suttamess a l’Assamblea federala in sboz per in conclus federal davart l’iniziativa dal pievel il mument che la midada dals 3 d’october 2008 da questa lescha entra en vigur.
 
-### 7.** Disposiziun transitorica da l’art. 105 al. 1<sup>bis</sup> tenor la midada dals 25 da settember 2009 (Prolungaziun dal termin per tractar ina iniziativa dal pievel)
+### 7. Disposiziun transitorica da l’art. 105 al. 1<sup>bis</sup> tenor la midada dals 25 da settember 2009 (Prolungaziun dal termin per tractar ina iniziativa dal pievel)
 
 [^173-subdivu7-1]
 
@@ -2640,7 +2631,7 @@ Data da l’entrada en vigur: 1. da december 2003[^174-3]
 [^174-2]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^174-3]: Decretà da la Conferenza da coordinaziun da la AF dals 16 da sett. 2002.
 
-## Disposiziun transitorica da la midada dals 5 d’october 2007****
+## Disposiziun transitorica da la midada dals 5 d’october 2007
 
 [^u1-1]
 
@@ -2648,7 +2639,7 @@ Data da l’entrada en vigur: 1. da december 2003[^174-3]
 
 L’artitgel 122 vala en la versiun nova dals 5 d’october 2007 per moziuns che n’èn anc betg vegnidas acceptadas da las duas chombras il mument da l’entrada en vigur da questa midada.
 
-## Disposiziun transitorica da la midada dals 17 da zercladur 2011****
+## Disposiziun transitorica da la midada dals 17 da zercladur 2011
 
 [^u2-1]
 
@@ -2656,13 +2647,13 @@ L’artitgel 122 vala en la versiun nova dals 5 d’october 2007 per moziuns che
 
 Per tractar dumondas per abolir l’immunitad e dumondas sumegliantas ch’èn pendentas il mument che la midada dals 17 da zercladur 2011 da questa lescha entra en vigur, vala il dretg vertent.
 
-## Disposiziun transitorica dals artitgels 109 alineas 2 e 3<sup>bis</sup> e 116 alinea 3<sup>bis</sup> tenor la midada dals 21 da zercladur 2013****
+## Disposiziun transitorica dals artitgels 109 alineas 2 e 3<sup>bis</sup> e 116 alinea 3<sup>bis</sup> tenor la midada dals 21 da zercladur 2013
 
 [^u3-1]
 
 [^u3-1]: [AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)
 
-Iniziativas parlamentaras ed iniziativas dals chantuns ch’èn gia vegnidas attribuidas ad ina cumissiun per la predeliberaziun cur che questa midada è entrada en vigur, vegnan regladas tenor il dretg vertent.
+Iniziativas parlamentaras ed iniziativas dals chantuns ch’èn gia vegnidas attribuidas ad ina cumissiun per la predeliberaziun cura che questa midada è entrada en vigur, vegnan regladas tenor il dretg vertent.
 
 Agiunta
 
@@ -2687,4 +2678,4 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 [^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 3]
 [^annexu1-lvlu1-2]: [BS **1** 461]
 [^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 cifra 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
-[^annexu1-lvlu1-4]: Las midadas pon vegnir consultadas en la [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).
+[^annexu1-lvlu1-4]: Las midadas pon vegnir consultadas en la [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)..
