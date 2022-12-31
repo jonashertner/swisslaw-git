@@ -1,11 +1,11 @@
 ---
 canton: VD
 number: "726.91"
-title: ACCORD INTERCANTONAL du 25.11.1994 sur les marchés publics (A-IMP)
+title: ACCORD INTERCANTONAL du 15.11.2019 sur les marchés publics (A-IMP)
 short: A-IMP
 language: fr
-version: 2022-01-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.91?id=69d771fb-e158-4700-b3ad-5473adf760dc"
+version: 2023-01-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.91?id=33f91cc1-e0fd-4ede-9a24-780a5f65ec15"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
@@ -14,351 +14,995 @@ url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/726.91?id=69
 
 (A-IMP)
 
-du 25 novembre 1994
+du 15 novembre 2019
 
-Par décret du 24.06.1996 (R 1996, p. 185) le Grand Conseil a autorisé le Conseil d'Etat à adhérer au présent accord, lequel y a adhéré par arrêté du 05.11.1997 (R 1997, p. 622).
+LA CONFÉRENCE SUISSE DES DIRECTEURS CANTONAUX DES TRAVAUX PUBLICS, DE L'AMÉNAGEMENT DU TERRITOIRE ET DE L'ENVIRONNEMENT (DTAP)
 
 décrète
 
-## Section I Dispositions générales
+## Chapitre 1 Objet, but et définitions
 
 #### Art. 1
 
-**But [^sectionSectionI-1]**
+**Objet**
 
-<sup>1</sup> Le présent accord vise l'ouverture des marchés publics des cantons, des communes et des autres organes assumant des tâches cantonales ou communales. Il s'applique également aux tiers, dans la mesure où ceux-ci sont obligés par des accords internationaux.
-
-<sup>2</sup> Il vise à harmoniser les règles de passation des marchés conformément à des principes définis en commun, ainsi qu'à transposer les obligations découlant de l'Accord relatif aux marchés publics (OMC) et de l'Accord entre la Communauté européenne et la Confédération suisse sur certains aspects relatifs aux marchés publics.
-
-<sup>3</sup> Il poursuit notamment les objectifs suivants:
-
-- a. assurer une concurrence efficace entre les soumissionnaires;
-- b. garantir l'égalité de traitement à tous les soumissionnaires et assurer l'impartialité de l'adjudication;
-- c. assurer la transparence des procédures de passation des marchés;
-- d. permettre une utilisation parcimonieuse des deniers publics.
-
-[^sectionSectionI-1]: Modif. 1 du 15.03.2001: Modification Art. 1; entrée en vigueur au 01.09.2004
+<sup>1</sup> Le présent accord s'applique à la passation de marchés publics par les adjudicateurs qui lui sont assujettis, que ces marchés soient soumis ou non aux accords internationaux.
 
 #### Art. 2
 
-**Réserve d'autres accords**
+**But**
 
-<sup>1</sup> Les cantons parties conservent le droit:
+<sup>1</sup> Le présent accord vise les buts suivants:
 
-- a. de passer entre eux des accords bilatéraux ou multilatéraux en vue d'étendre le champ d'application du présent accord ou de développer leur coopération de toute autre manière;
-- b. de passer des accords analogues avec des régions frontalières ou des Etats voisins.
+- a. une utilisation des deniers publics qui soit économique et qui ait des effets économiques, écologiques et sociaux durables;
+- b. la transparence des procédures d'adjudication;
+- c. l'égalité de traitement et la non-discrimination des soumissionnaires;
+- d. une concurrence efficace et équitable entre les soumissionnaires, en particulier par des mesures contre les accords illicites affectant la concurrence et contre la corruption.
 
 #### Art. 3
 
-**Exécution**
+**Définitions**
 
-<sup>1</sup> Les autorités compétentes de chaque canton édictent des dispositions d'exécution, qui doivent être conformes au présent accord.
+<sup>1</sup> Au sens du présent accord, on entend par:
 
-## Section II
+- a. soumissionnaire: une personne physique ou morale, de droit privé ou de droit public, ou un groupe de telles personnes qui offre des prestations ou qui demande à participer à un appel d'offres public ou à se voir déléguer une tâche publique ou octroyer une concession;
+- b. entreprise publique: une entreprise sur laquelle les pouvoirs publics peuvent exercer directement ou indirectement une influence dominante du fait de la propriété, de la participation financière ou des règles qui la régissent; l'influence dominante est présumée lorsqu'une entreprise est financée en majeure partie par l'État ou par d'autres entreprises publiques, que sa gestion est soumise au contrôle de l'État ou d'autres entreprises publiques ou que son organe d'administration, de direction ou de surveillance est composé de membres dont la majorité a été désignée par l'État ou par d'autres entreprises publiques;
+- c. accords internationaux: les accords dont découlent les engagements internationaux de la Suisse en matière de marchés publics;
+- d. conditions de travail: les dispositions impératives du code des obligations[^3-1] concernant le contrat de travail, les dispositions normatives contenues dans les conventions collectives et les contrats-types de travail ou, à défaut, les conditions de travail usuelles dans la région et dans la branche;
+- e. dispositions relatives à la protection des travailleurs: les dispositions du droit public du travail, y compris les dispositions de la loi du 13 mars 1964 sur le travail[^3-2], les dispositions d'exécution y afférentes et les dispositions relatives à la prévention des accidents;
+- f. organisme de droit public: tout organisme
+- - créé pour satisfaire spécifiquement des besoins d'intérêt général ayant un caractère autre que commercial ou industriel,
+- - doté d'une personnalité juridique, et
+- - dont soit l'activité est financée majoritairement par l'Etat, les collectivités territoriales ou d'autres organismes de droit public, soit la gestion est soumise à un contrôle par ces derniers, soit l'organe d'administration, de direction ou de surveillance est composé de membres dont plus de la moitié est désignée par l'Etat, les collectivités territoriales ou d'autres organismes de droit public;
+- g. pouvoirs publics: l'Etat, les collectivités territoriales, les établissements de droit public[^3-3] et les associations formées par une ou plusieurs de ces collectivités ou un ou plusieurs de ces établissements de droit public[^3-4].
+
+[^3-1]: [Code des obligations du 30 mars 1911, RS 220](https://www.admin.ch/opc/fr/classified-compilation/19110009/index.html)
+[^3-2]: [Loi fédérale du 13.03.1964 sur le travail dans l'industrie, l'artisanat et le commerce, RS 822.11](https://www.admin.ch/opc/fr/classified-compilation/19640049/index.html)
+[^3-3]: *«* Einrichtungen des öffentlichen Rechts *»* et *«* istituzioni di diritto pubblico *»* dans les versions en allemand et en italien (selon définition de l’art. 3, let. f A-IMP)
+[^3-4]: Disposition précisée par décision de l’Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024. Le tableau synoptique des adaptations peut être consulté sous [www.bpuk.ch](https://www.bpuk.ch/fr/dtap) sous la rubrique concordats &gt; AIMP 2019.
+
+## Chapitre 2 Champ d'application
+
+### Section 1 Champ d'application subjectif
 
 #### Art. 4
 
-**Autorité intercantonale [^sectionSectionII-1]**
+**Adjudicateurs**
 
-<sup>1</sup> Les membres de la Conférence suisse des directeurs cantonaux des travaux publics, de l'aménagement du territoire et de la protection de l'environnement représentant les cantons parties au présent accord, forment l'autorité intercantonale pour les marchés publics (AiMp).
+<sup>1</sup> Pour les marchés soumis aux accords internationaux, sont soumis au présent accord les pouvoirs publics ainsi que les unités administratives centrales ou décentralisées, y compris les collectivités de droit public[^4-1], du canton, du district et de la commune au sens du droit cantonal et communal, exception faite de leurs activités à caractère commercial ou industriel[^4-2].
 
-<sup>2</sup> L'autorité intercantonale est compétente pour :
+<sup>2</sup> Pour les marchés soumis aux accords internationaux, sont en outre soumis au présent accord les pouvoirs publics et les entreprises publiques ou privées qui assurent un service public et qui bénéficient de droits exclusifs ou spéciaux pour autant qu'elles exercent des activités en Suisse dans l'un des secteurs énoncés ci-après:
 
-- a. modifier le présent accord, sous réserve de l'approbation des cantons parties ;
-- b. édicter des règles concernant les procédures d'adjudication ;
-- c. adapter les valeurs seuils mentionnées dans les annexes ;
-- cbis. prendre acte et transmettre une demande d'exemption des adjudicateurs de l'assujettissement au présent accord, lorsque d'autres entités sont libres d'offrir les mêmes services dans la même aire géographique à des conditions substantiellement identiques (clause d'exemption) ;
-- d. ...
-- e. surveiller l'exécution du présent accord par les cantons et désigner un organe de contrôle ;
-- f. adopter un règlement fixant les règles d'organisation et de procédure pour l'application du présent accord ;
-- g. agir comme organe de contact dans le cadre des traités internationaux ;
-- h. désigner les délégués cantonaux aux commissions nationales et internationales et approuver les règles de fonctionnement.
+- a. la mise à disposition ou l'exploitation de réseaux fixes destinés à fournir un service au public dans le domaine de la production, du transport ou de la distribution d'eau potable ou l'alimentation de ces réseaux en eau potable;
+- b. la mise à disposition ou l'exploitation de réseaux fixes destinés à fournir un service au public dans le domaine de la production, du transport ou de la distribution d'énergie électrique ou l'alimentation de ces réseaux en énergie électrique;
+- c. l'exploitation de réseaux destinés à fournir un service au public dans le domaine du transport par chemin de fer urbain, système automatique, tramway, trolleybus, autobus ou funiculaire;
+- d. la mise à disposition des transporteurs aériens des aéroports ou d'autres terminaux de transport;
+- e. la mise à disposition des transporteurs fluviaux des ports intérieurs ou d'autres terminaux de transport;
+- f. la mise à disposition ou l'exploitation de chemins de fer, transports par chemins de fer compris;
+- g. la mise à disposition ou l'exploitation de réseaux fixes destinés à fournir un service au public dans le domaine de la production, du transport ou de la distribution de gaz ou de chaleur ou l'alimentation de ces réseaux en gaz ou en chaleur, ou
+- h. l'exploitation d'une aire géographique dans le but de prospecter ou d'extraire du pétrole, du gaz, du charbon ou d'autres combustibles solides.
 
-<sup>3</sup> L'autorité intercantonale prend ses décisions à la majorité des trois-quarts des représentants présents, pour autant que la moitié des cantons soit représentée. Chaque canton partie à l'accord dispose d'une voix, qui est exprimée par un membre de son gouvernement.
+<sup>3</sup> Les adjudicateurs visés à l'al. 2 ne sont soumis au présent accord que si les acquisitions sont effectuées dans le domaine d'activité en question et non dans d'autres domaines d'activité.
 
-<sup>4</sup> L'autorité intercantonale collabore avec les Conférences des chefs de départements cantonaux concernées et avec la Confédération.
+<sup>4</sup> Pour les marchés non soumis aux accords internationaux, sont en outre soumis au présent accord:
 
-[^sectionSectionII-1]: Modif. 1 du 15.03.2001: Modification Al. 1,2 c,e,f,3,4; entrée en vigueur au 01.09.2004; Introduction Al. 2 cbis,g,h; entrée en vigueur au 01.09.2004; Abrogation Al. 2 d; entrée en vigueur au 01.09.2004
+- a. les autres collectivités assumant des tâches cantonales ou communales dans la mesure où elles n'ont pas d'activités à caractère commercial ou industriel[^4-3];
+- b. les projets et prestations qui sont subventionnés à plus de 50 pour cent du coût total par des fonds publics.
+
+<sup>5</sup> Si un tiers passe un marché public pour le compte d'un ou de plusieurs adjudicateurs, il est soumis au présent accord au même titre que les adjudicateurs qu'il représente.
+
+[^4-1]: *«* Einrichtungen des öffentlichen Rechts *»* et *«* istituzioni di diritto pubblico *»* dans les versions en allemand et en italien (selon définition de l’art. 3, let. f A-IMP)
+[^4-2]: Disposition précisée par décision de l’Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024. Le tableau synoptique des adaptations peut être consulté sous [www.bpuk.ch](https://www.bpuk.ch/fr/dtap) sous la rubrique concordats &gt; AIMP 2019.
+[^4-3]: Disposition précisée par décision de l’Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024. Le tableau synoptique des adaptations peut être consulté sous [www.bpuk.ch](https://www.bpuk.ch/fr/dtap) sous la rubrique concordats &gt; AIMP 2019.
 
 #### Art. 5
 
-**… [^4-1]**
+**Droit applicable**
 
-[^4-1]: Modif. 1 du 15.03.2001: Abrogation Art. 5; entrée en vigueur au 01.09.2004
+<sup>1</sup> Si plusieurs adjudicateurs soumis au droit fédéral et au présent accord participent à un marché, le droit de la collectivité qui supporte la majeure partie du financement est applicable. Si la part cantonale totale dépasse celle de la Confédération, le présent accord est applicable.
 
-## Section III Champ d'application
+<sup>2</sup> Si plusieurs adjudicateurs soumis au présent accord participent en commun à un marché public, le droit du canton qui supporte la plus grande part du financement est applicable.
 
-#### Art. 5bis
+<sup>3</sup> Si plusieurs adjudicateurs participent à un marché, ils ont la possibilité de soumettre d'un commun accord ce marché au droit de l'un des adjudicateurs en dérogeant aux principes susmentionnés.
 
-**Délimitation [^sectionSectionIII-1]**
+<sup>4</sup> Un marché dont l'exécution n'a pas lieu au siège de l'adjudicateur est soumis au droit du lieu du siège de l'adjudicateur ou au droit du lieu de l'activité principale.
 
-<sup>1</sup> Il y a lieu de faire une distinction entre les marchés publics soumis aux traités internationaux et les marchés publics non soumis aux traités internationaux.
+<sup>5</sup> Un marché lancé par une organisation commune est soumis au droit applicable au lieu du siège de cette organisation. Si celle-ci n'en possède pas, le droit applicable est celui du lieu de l'activité principale.
 
-<sup>2</sup> Les dispositions des marchés publics soumis aux traités internationaux transposent les accords internationaux dans le droit cantonal.
-
-<sup>3</sup> Les dispositions des marchés publics non soumis aux traités internationaux harmonisent les règles cantonales.
-
-[^sectionSectionIII-1]: Modif. 1 du 15.03.2001: Introduction Art. 5bis; entrée en vigueur au 01.09.2004
+<sup>6</sup> Les entreprises publiques ou privées qui bénéficient de droits exclusifs ou spéciaux octroyés par la Confédération ou qui exécutent des tâches dans l'intérêt national peuvent choisir de soumettre leurs marchés au droit applicable à leur siège ou au droit fédéral.
 
 #### Art. 6
 
-**Types de marchés [^5bis-1]**
+**Soumissionnaires**
 
-<sup>1</sup> Le présent accord s'applique à la passation des marchés soumis aux traités internationaux suivants :
+<sup>1</sup> En vertu du présent accord, sont autorisés à présenter une offre les soumissionnaires suisses ainsi que les soumissionnaires des États envers lesquels la Suisse s'est engagée contractuellement à donner accès à son marché et qui ont contracté le même engagement à son égard.
 
-- a. marchés de construction (réalisation de travaux de construction de bâtiments ou de génie civil);
-- b. marchés de fournitures (acquisition de biens mobiliers, notamment sous forme d'achat, de crédit-bail/leasing, de bail à loyer, de bail à ferme ou de location-vente);
-- c. marchés de services.
+<sup>2</sup> Les soumissionnaires étrangers sont autorisés à présenter une offre pour des marchés non soumis aux accords internationaux, à condition qu'ils proviennent d'États accordant la réciprocité ou que l'adjudicateur les y autorise.
 
-<sup>2</sup> Les dispositions des marchés publics non soumis aux traités internationaux s'appliquent à tous les marchés des adjudicateurs publics.
+<sup>3</sup> Le Conseil fédéral établit une liste des États qui se sont engagés à donner à la Suisse un accès à leur marché. Cette liste est périodiquement mise à jour.
 
-[^5bis-1]: Modif. 1 du 15.03.2001: Modification Art. 6; entrée en vigueur au 01.09.2004
+<sup>4</sup> Les cantons sont habilités à conclure des accords avec les régions frontalières et les Etats voisins.
 
 #### Art. 7
 
-**Seuils [^6-1]**
+**Exemption**
 
-<sup>1</sup> Les seuils de marchés soumis aux traités internationaux sont mentionnés dans l'annexe 1.
+<sup>1</sup> Lorsqu'un marché sectoriel mentionné à l'art. 4, al. 2, est soumis à une concurrence efficace, l'Autorité intercantonale pour les marchés publics (AiMp) peut proposer au Conseil fédéral d'exempter entièrement ou partiellement les acquisitions correspondantes du présent accord. Les adjudicateurs actifs sur le marché sectoriel concerné peuvent adresser une demande correspondante à l'AiMp.
 
-<sup>1bis</sup> Les seuils des marchés publics non soumis aux traités internationaux sont mentionnés dans l'annexe 2.
+<sup>2</sup> Une exemption s'applique aux acquisitions correspondantes de tous les adjudicateurs actifs sur le marché sectoriel concerné.
 
-<sup>1ter</sup> La taxe sur la valeur ajoutée n'est pas prise en considération pour l'estimation de la valeur du marché.
-
-<sup>2</sup> Si un adjudicateur adjuge plusieurs marchés de construction soumis aux traités internationaux pour la réalisation d'un ouvrage, la valeur totale des travaux de bâtiment et de génie civil est déterminante. Les marchés de construction soumis aux traités internationaux qui n'atteignent pas séparément la valeur de deux millions de francs et, calculés ensemble, ne dépassent pas 20 pour cent de la valeur totale de l'ouvrage, sont passés selon les dispositions applicables aux marchés publics non soumis aux traités internationaux (clause de minimis).
-
-[^6-1]: Modif. 1 du 15.03.2001: Modification Art. 7; entrée en vigueur au 01.09.2004
+### Section 2 Champ d'application objectif
 
 #### Art. 8
 
-**Adjudicateur [^7-1]**
+**Marché public**
 
-<sup>1</sup> Sont soumis aux dispositions des accords internationaux les pouvoirs adjudicateurs suivants :
+<sup>1</sup> Un marché public est un contrat conclu entre un adjudicateur et un soumissionnaire en vue de l'exécution d'une tâche publique. Il est caractérisé par sa nature onéreuse ainsi que par l'échange de prestations et contre-prestations, la prestation caractéristique étant fournie par le soumissionnaire.
 
-- a. les cantons, les communes, de même que les autres collectivités de droit public cantonal ou communales, dans la mesure où elles n'ont pas un caractère commercial ou industriel;
-- b. ...
-- c. les autorités, de même que les entreprises publiques et privées opérant au moyen d'un droit exclusif ou particulier dans les domaines de l'approvisionnement en eau, en énergie et dans celui des transports et des télécommunications. Sont seuls soumis au présent accord les marchés en relation avec l'exécution, en Suisse, de leurs tâches dans les domaines précités;
-- d. les autres adjudicateurs selon les traités internationaux en vigueur.
+<sup>2</sup> On distingue les types de prestations suivants:
 
-<sup>2</sup> Sont en outre soumis aux dispositions relatives aux marchés non soumis aux traités internationaux, lorsqu'ils adjugent d'autres marchés publics :
+- a. les travaux de construction (gros œuvre et second œuvre);
+- b. les fournitures;
+- c. les services.
 
-- a. les autres collectivités assumant des tâches cantonales ou communales dans la mesure où elles n'ont pas de caractère commercial ou industriel;
-- b. les projets et prestations qui sont subventionnés à plus de 50 % du coût total par des fonds publics.
-
-<sup>3</sup> Les marchés auxquels participent plusieurs adjudicateurs visés aux alinéas 1 et 2 sont soumis au droit applicable au lieu du siège de l'adjudicateur principal. Les marchés lancés par une organisation commune sont soumis au droit applicable au lieu du siège de cette organisation. Si celle-ci n'a pas de siège, le droit applicable est celui du lieu où l'activité principale est déployée ou au lieu d'exécution. Une convention contraire reste réservée.
-
-<sup>4</sup> Les marchés d'un adjudicateur visé aux alinéas 1 et 2, dont l'exécution n'a pas lieu au siège de l'adjudicateur, sont soumis au droit du lieu du siège de l'adjudicateur ou du lieu de l'activité principale.
-
-[^7-1]: Modif. 1 du 15.03.2001: Modification Art. 8; entrée en vigueur au 01.09.2004; Abrogation Al. 1 b; entrée en vigueur au 01.09.2004; Introduction Al. 3-4; entrée en vigueur au 01.09.2004
+<sup>3</sup> Les marchés mixtes se composent de différents types de prestations au sens de l'al. 2 et forment un marché global. La qualification de ce dernier est déterminée par le type de prestations dont la valeur est la plus importante. Des prestations ne peuvent être combinées ou regroupées avec pour intention ou effet de contourner les dispositions du présent accord.
 
 #### Art. 9
 
-**Soumissionnaires; réciprocité [^8-1]**
+**Délégation de tâches publiques et octroi de concessions**
 
-<sup>1</sup> Le présent accord s'applique aux soumissionnaires ayant leur domicile ou leur siège:
-
-- a. dans un canton partie à l'accord;
-- b. dans un Etat signataire d'un accord international sur les marchés publics;
-- c. ...
-
-[^8-1]: Modif. 1 du 15.03.2001: Modification Al. 1 b; entrée en vigueur au 01.09.2004; Abrogation Al. 1 c; entrée en vigueur au 01.09.2004
+<sup>1</sup> La délégation d'une tâche publique ou l'octroi d'une concession sont considérés comme des marchés publics lorsque le soumissionnaire se voit accorder, du fait d'une telle délégation ou d'un tel octroi, des droits exclusifs ou spéciaux qu'il exerce dans l'intérêt public en contrepartie d'une rémunération ou d'une indemnité, directe ou indirecte. Demeurent réservées les dispositions des lois spéciales du droit fédéral et cantonal.
 
 #### Art. 10
 
-**Exceptions [^9-1]**
+**Exceptions**
 
-<sup>1</sup> Le présent accord n'est pas applicable:
+<sup>1</sup> Le présent accord ne s'applique pas:
 
-- a. aux marchés passés avec des institutions pour handicapés, des oeuvres de bienfaisance ou des établissements pénitentiaires;
-- b. aux marchés passés dans le cadre de programmes agricoles ou d'aide alimentaire;
-- c. aux marchés passés sur la base d'un traité international, qui se rapportent à un objet à réaliser et à supporter en commun;
-- d. aux marchés passés avec une organisation internationale sur la base d'une procédure spéciale;
-- e. à l'acquisition d'armes, de munitions ou de matériel de guerre et à la réalisation d'infrastructures de combat et de commandement pour la défense générale et l'armée.
+- a. à l'acquisition de prestations destinées à être vendues ou revendues dans le commerce ou à servir à la production ou à la fourniture de prestations destinées à la vente ou à la revente dans le commerce;
+- b. à l'acquisition, à la location ou à l'affermage d'immeubles, de constructions ou d'installations ni aux droits y afférents;
+- c. au versement d'aides financières;
+- d. aux marchés portant sur des services financiers relatifs à l'émission, à l'achat, à la vente, au transfert ou à la gestion de titres ou d'autres instruments financiers ou sur des services fournis par des banques centrales;
+- e. aux marchés passés avec des institutions pour handicapés, des organismes d'insertion socioprofessionnelle, des œuvres de bienfaisance ou des établissements pénitentiaires;
+- f. aux contrats régis par le droit du personnel;
+- g. aux institutions de prévoyance de droit public des cantons et des communes.
 
-<sup>2</sup> L'adjudicateur n'est pas tenu d'adjuger un marché selon les dispositions du présent accord:
+<sup>2</sup> Le présent accord ne s'applique pas non plus à l'acquisition de prestations:
 
-- a. lorsque celui-ci risque de mettre en danger l'ordre ou la sécurité publics;
-- b. lorsque la protection de la santé et de la vie de personnes, d'animaux ou de plantes l'exige ou
-- c. lorsqu'il porte atteinte aux droits de la propriété intellectuelle.
+- a. de soumissionnaires qui bénéficient d'un droit exclusif pour fournir ces prestations;
+- b. d'autres adjudicateurs juridiquement indépendants et soumis au droit des marchés publics qui ne sont pas en concurrence avec des soumissionnaires privés pour la fourniture de ces prestations;
+- c. d'unités organisationnelles qui dépendent de l'adjudicateur;
+- d. de soumissionnaires sur lesquels l'adjudicateur exerce un contrôle identique à celui qu'il exerce sur ses propres services et qui fournissent l'essentiel de leurs prestations à l'adjudicateur.
 
-[^9-1]: Modif. 1 du 15.03.2001: Modification Al. 1 c,2 a; entrée en vigueur au 01.09.2004
+<sup>3</sup> Ne sont pas non plus soumis au présent accord les marchés publics:
 
-## Section IV Procédure
+- a. dont l'exemption est jugée nécessaire pour la protection et le maintien de la sécurité extérieure ou intérieure ou de l'ordre public;
+- b. dont l'exemption est jugée nécessaire pour la protection de la santé ou de la vie des personnes ou pour la protection de la faune et de la flore;
+- c. pour lesquels le lancement d'un appel d'offres porterait atteinte aux droits de la propriété intellectuelle.
+
+## Chapitre 3 Principes généraux
 
 #### Art. 11
 
-**Principes généraux**
+**Principes régissant la procédure**
 
-<sup>1</sup> Lors de la passation de marchés, les principes suivants doivent être respectés:
+<sup>1</sup> Lors de la passation des marchés publics, l'adjudicateur observe les principes suivants:
 
-- a. non-discrimination et égalité de traitement de chaque soumissionnaire;
-- b. concurrence efficace;
-- c. renonciation à des rounds de négociation;
-- d. respect des conditions de récusation des personnes concernées;
-- e. respect des dispositions relatives à la protection des travailleurs et aux conditions de travail;
-- f. égalité de traitement entre hommes et femmes;
-- g. traitement confidentiel des informations.
+- a. il agit de manière transparente, objective et impartiale;
+- b. il prend des mesures contre les conflits d'intérêts, les accords illicites affectant la concurrence et la corruption;
+- c. il veille à l'égalité de traitement des soumissionnaires dans toutes les phases de la procédure;
+- d. il n'engage pas de négociations portant sur le prix;
+- e. il s'engage à observer le caractère confidentiel des indications fournies par les soumissionnaires.
 
 #### Art. 12
 
-**Types de procédures [^11-1]**
+**Respect des dispositions relatives à la protection des travailleurs, des conditions de travail, de l'égalité salariale entre femmes et hommes et du droit de l'environnement**
 
-<sup>1</sup> Sont applicables les procédures de mise en concurrence suivantes:
+<sup>1</sup> Les marchés publics portant sur des prestations à exécuter en Suisse ne sont adjugés qu'à des soumissionnaires qui respectent les dispositions relatives à la protection des travailleurs et les conditions de travail en vigueur en Suisse, les obligations en matière d'annonce et d'autorisation mentionnées dans la loi du 17 juin 2005 sur le travail au noir (LTN)[^12-1] ainsi que les dispositions relatives à l'égalité de traitement salarial entre femmes et hommes.
 
-- a. la procédure ouverte : l'adjudicateur lance un appel d'offres public pour le marché prévu. Chaque soumissionnaire peut présenter une offre ;
-- b. la procédure sélective : l'adjudicateur lance un appel d'offres public pour le marché prévu. Chaque candidat peut présenter une demande de participation. L'adjudicateur détermine, en fonction de critères d'aptitude, les candidats qui peuvent présenter une offre. Il peut limiter le nombre de candidats invités à présenter une offre s'il n'est pas compatible avec un fonctionnement efficace du mécanisme d'adjudication des marchés. Une concurrence réelle doit cependant être garantie ;
-- bbis. la procédure sur invitation : l'adjudicateur invite des soumissionnaires à présenter une offre dans un délai donné, sans publication. L'adjudicateur doit si possible demander au moins trois offres ;
-- c. la procédure de gré à gré : l'adjudicateur adjuge le marché directement à un soumissionnaire, sans procéder à un appel d'offres.
+<sup>2</sup> Les marchés publics portant sur des prestations à exécuter à l'étranger ne sont adjugés qu'à des soumissionnaires qui respectent au moins les conventions fondamentales de l'Organisation internationale du travail (OIT) mentionnées à l'annexe 3. L'adjudicateur peut en outre exiger le respect d'autres standards de travail internationaux importants et la production des preuves correspondantes ainsi que convenir de la mise en place de contrôles.
 
-<sup>2</sup> …
+<sup>3</sup> Un marché public ne peut être adjugé qu'aux soumissionnaires qui respectent au moins les prescriptions légales relatives à la protection de l'environnement et à la préservation des ressources naturelles en vigueur au lieu de la prestation; ces prescriptions comprennent, en Suisse, les dispositions du droit suisse en matière d'environnement et, à l'étranger, les conventions internationales relatives à la protection de l'environnement déterminées par le Conseil fédéral et mentionnées à l'annexe 4.
 
-<sup>3</sup> Les concours d'études ou les concours portant sur les études et la réalisation doivent respecter les principes du présent accord. Pour le surplus, l'organisateur peut se référer aux règles établies par les organisations professionnelles concernées.
+<sup>4</sup> Les sous-traitants sont tenus de respecter les exigences définies aux al. 1 à 3. Cette obligation doit être mentionnée dans les accords que les soumissionnaires concluent avec leurs sous-traitants.
 
-[^11-1]: Modif. 1 du 15.03.2001: Introduction Al. 1 bbis,3; entrée en vigueur au 01.09.2004; Abrogation Al. 2; entrée en vigueur au 01.09.2004
+<sup>5</sup> L'adjudicateur peut contrôler le respect des exigences définies aux al. 1 à 3 ou déléguer cette compétence à des tiers, à moins que ce contrôle n'ait été confié à une autorité instituée par une loi spéciale ou à une autre instance compétente, en particulier un organe de contrôle paritaire. Pour les besoins de ces contrôles, l'adjudicateur peut fournir à l'autorité ou à l'organe de contrôle compétents les informations nécessaires et mettre des documents à leur disposition. Sur demande, le soumissionnaire doit produire les preuves exigées.
 
-#### Art. 12bis
+<sup>6</sup> L'organe de contrôle ou l'autorité chargés de contrôler le respect des exigences définies aux al. 1 à 3 informent l'adjudicateur des résultats de leurs contrôles et des éventuelles mesures prises.
 
-**Choix de la procédure [^12-1]**
-
-<sup>1</sup> Les marchés soumis aux traités internationaux peuvent, au choix, être passés selon la procédure ouverte ou la procédure sélective. Dans des cas particuliers déterminés par les traités eux-mêmes, ils peuvent être passés selon la procédure de gré à gré.
-
-<sup>2</sup> Les marchés publics non soumis aux traités internationaux peuvent en outre être passés selon la procédure sur invitation ou la procédure de gré à gré selon l'annexe 2.
-
-<sup>3</sup> Les cantons ont la faculté d'abaisser les valeurs seuils non soumis aux traités internationaux, mais ne peuvent pas invoquer la clause de réciprocité.
-
-[^12-1]: Modif. 1 du 15.03.2001: Introduction Art. 12bis; entrée en vigueur au 01.09.2004
+[^12-1]: [Loi fédérale du 17.06.2005 concernant des mesures en matière de lutte contre le travail au noir, RS 822.41](https://www.fedlex.admin.ch/eli/cc/2007/71/fr)
 
 #### Art. 13
 
-**Les dispositions d'exécution cantonales [^12bis-1]**
+**Récusation**
 
-<sup>1</sup> Les dispositions d'exécution cantonales doivent garantir:
+<sup>1</sup> Ne peuvent participer à la procédure d'adjudication, du côté de l'adjudicateur ou du jury, les personnes qui:
 
-- a. les publications obligatoires, ainsi que la publication des valeurs-seuils;
-- b. le recours à des spécifications techniques non discriminatoires;
-- c. la fixation d'un délai suffisant pour la remise des offres;
-- d. une procédure d'examen de l'aptitude des soumissionnaires selon des critères objectifs et vérifiables;
-- e. la reconnaissance mutuelle de la qualification des soumissionnaires, inscrits sur des listes permanentes tenues par les cantons parties au présent accord;
-- f. des critères d'attribution propres à adjuger le marché à l'offre économi-quement la plus avantageuse;
-- g. l'adjudication par voie de décision;
-- h. la notification et la motivation sommaire des décisions d'adjudication;
-- i. la possibilité d'interrompre et de répéter la procédure de passation en cas de justes motifs uniquement;
-- j. l'archivage.
+- a. ont un intérêt personnel dans le marché;
+- b. sont liées par les liens du mariage ou du partenariat enregistré ou mènent de fait une vie de couple avec un soumissionnaire ou un membre de l'un de ses organes;
+- c. sont parentes ou alliées, en ligne directe ou jusqu'au troisième degré en ligne collatérale, d'un soumissionnaire ou d'un membre de l'un de ses organes;
+- d. représentent un soumissionnaire ou ont agi dans la même affaire pour un soumissionnaire, ou
+- e. ne disposent pas, pour toute autre raison, de l'indépendance nécessaire pour participer à la passation de marchés publics.
 
-[^12bis-1]: Modif. 1 du 15.03.2001: Modification Al. 1 a; entrée en vigueur au 01.09.2004; Introduction Al. 1 j; entrée en vigueur au 01.09.2004
+<sup>2</sup> La demande de récusation doit être déposée immédiatement après la prise de connaissance du motif de récusation.
+
+<sup>3</sup> L'adjudicateur ou le jury statue sur les demandes de récusation en l'absence de la personne concernée.
+
+<sup>4</sup> L'adjudicateur peut prescrire dans l'appel d'offres que les soumissionnaires qui entretiennent avec un membre du jury une relation justifiant la récusation dans les concours et les mandats d'étude parallèles soient exclus de la procédure.
 
 #### Art. 14
 
-**Conclusion du contrat [^13-1]**
+**Préimplication**
 
-<sup>1</sup> Le contrat ne peut être conclu avec l'adjudicataire qu'après l'écoulement du délai de recours et, en cas de recours, que si l'autorité juridictionnelle cantonale n'a pas accordé au recours l'effet suspensif.
+<sup>1</sup> Les soumissionnaires qui ont participé à la préparation d'une procédure d'adjudication ne sont pas autorisés à présenter une offre lorsque l'avantage concurrentiel ainsi acquis ne peut être compensé par des moyens appropriés et que l'exclusion ne compromet pas la concurrence efficace entre soumissionnaires.
 
-<sup>2</sup> Si une procédure de recours est en cours sans que l'effet suspensif ait été prononcé, l'adjudicateur informe immédiatement l'autorité juridictionnelle de la conclusion du contrat.
+<sup>2</sup> Les moyens appropriés pour compenser un avantage concurrentiel sont en particulier:
 
-[^13-1]: Modif. 1 du 15.03.2001: Modification Al. 1; entrée en vigueur au 01.09.2004
+- a. la transmission de toutes les indications essentielles concernant les travaux préalables;
+- b. la communication des noms des participants à la préparation du marché;
+- c. la prolongation des délais minimaux.
 
-## Section V Voies de droit
+<sup>3</sup> Une étude de marché requise par l'adjudicateur préalablement à l'appel d'offres n'entraîne pas la préimplication des soumissionnaires mandatés. L'adjudicateur publie les résultats de l'étude de marché dans les documents d'appel d'offres.
 
 #### Art. 15
 
-**Droit et délai de recours [^sectionSectionV-1]**
+**Détermination de la valeur du marché**
 
-<sup>1</sup> Les décisions de l'adjudicateur peuvent faire l'objet d'un recours auprès d'une autorité juridictionnelle cantonale. Celle-ci statue de manière définitive.
+<sup>1</sup> L'adjudicateur estime la valeur probable du marché.
 
-<sup>1bis</sup> Sont réputées décisions sujettes à recours :
+<sup>2</sup> Un marché public ne peut être subdivisé en vue de contourner les dispositions du présent accord.
 
-- a. l'appel d'offres;
-- b. la décision concernant l'inscription des soumissionnaires sur la liste prévue à l'article 13, lettre e;
-- c. la décision concernant le choix des participants à la procédure sélective;
-- d. l'exclusion de la procédure;
-- e. l'adjudication, sa révocation ou l'interruption d'une procédure d'adjudication.
+<sup>3</sup> Pour l'estimation de la valeur d'un marché, l'ensemble des prestations à adjuger ou des rémunérations qui sont en étroite relation d'un point de vue matériel ou juridique doivent être prises en compte. Tous les éléments des rémunérations sont pris en compte, y compris ceux qui sont liés aux options de prolongation et aux options concernant des marchés complémentaires, de même que l'ensemble des primes, émoluments, commissions et intérêts attendus, à l'exclusion de la taxe sur la valeur ajoutée.
 
-<sup>2</sup> Le recours, dûment motivé, doit être déposé dans les dix jours dès la notification de la décision.
+<sup>4</sup> Pour les contrats de durée déterminée, la valeur du marché est calculée en additionnant les rémunérations à verser sur toute la durée du contrat, y compris les rémunérations liées aux éventuelles options de prolongation. La durée de ces contrats ne peut, en règle générale, pas dépasser cinq ans. Dans les cas dûment motivés, une durée plus longue peut être prévue.
 
-<sup>2bis</sup> Les féries judiciaires ne s'appliquent pas.
+<sup>5</sup> Pour les contrats de durée indéterminée, la valeur du marché est calculée en multipliant la rémunération mensuelle par 48.
 
-<sup>3</sup> En l'absence de dispositions d'exécution cantonales, le Tribunal fédéral est compétent pour connaître tous les recours concernant l'application du présent accord.
+<sup>6</sup> Pour les contrats portant sur des prestations nécessaires périodiquement, la valeur du marché est calculée sur la base de la rémunération qui a été versée pour de telles prestations durant les douze mois précédents ou sur la base d'une estimation des besoins au cours des douze mois suivant la première commande.
 
-[^sectionSectionV-1]: Modif. 1 du 15.03.2001: Introduction Al. 1bis,2bis,3; entrée en vigueur au 01.09.2004; Modification Al. 2; entrée en vigueur au 01.09.2004
+## Chapitre 4 Procédures d'adjudication
 
 #### Art. 16
 
-**Motifs du recours**
+**Valeurs seuils**
 
-<sup>1</sup> Le recours peut être formé:
+<sup>1</sup> La procédure est choisie en fonction de la valeur du marché et des valeurs seuils indiquées aux annexes 1 et 2. Après consultation du Conseil fédéral, l'AiMp adapte périodiquement les valeurs seuils selon les engagements internationaux.
 
-- a. pour violation du droit, y compris l'excès ou l'abus du pouvoir d'appréciation;
-- b. pour constatation inexacte ou incomplète de faits pertinents.
+<sup>2</sup> La Confédération garantit la participation des cantons à toute renégociation des engagements internationaux relatifs aux valeurs seuils.
 
-<sup>2</sup> Le grief d'inopportunité ne peut pas être invoqué.
+<sup>3</sup> Lorsque la valeur totale de plusieurs travaux de construction visés à l'annexe 1, ch. 1, qui sont nécessaires à la réalisation d'un même ouvrage atteint la valeur seuil déterminante pour l'application des accords internationaux, les dispositions du présent accord qui régissent les marchés soumis aux accords internationaux s'appliquent. En revanche, lorsque ces travaux de construction ont chacun une valeur inférieure à 2 millions de francs et que leur valeur cumulée ne dépasse pas 20 % de la valeur totale de l'ouvrage, ils sont soumis aux dispositions du présent accord qui régissent les marchés non soumis aux accords internationaux (clause de minimis)[^16-1].
 
-<sup>3</sup> En l'absence de dispositions d'exécution cantonales, les dispositions du présent accord peuvent être invoquées directement par les soumissionnaires.
+<sup>4</sup> Pour les travaux de construction non soumis aux accords internationaux, la procédure applicable est déterminée sur la base de la valeur de chacun des travaux.
+
+[^16-1]: Disposition précisée par décision de l’Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024. Le tableau synoptique des adaptations peut être consulté sous [www.bpuk.ch](https://www.bpuk.ch/fr/dtap) sous la rubrique concordats &gt; AIMP 2019.
 
 #### Art. 17
 
-**Effet suspensif**
+**Types de procédures**
 
-<sup>1</sup> Le recours n'a pas d'effet suspensif.
-
-<sup>2</sup> Toutefois, l'autorité de recours peut, d'office ou sur demande, accorder l'effet suspensif à un recours, pour autant que celui-ci paraisse suffisamment fondé et qu'aucun intérêt public ou privé prépondérant ne s'y oppose.
-
-<sup>3</sup> Si l'effet suspensif est ordonné sur demande du recourant et qu'il soit de nature à causer un préjudice important, le recourant peut être astreint à fournir, dans un délai convenable, des sûretés pour les frais de procédure et une éventuelle indemnité de dépens. A défaut de versement dans le délai fixé par le juge, la décision ordonnant l'effet suspensif devient caduque.
-
-<sup>4</sup> Le recourant est tenu de réparer le préjudice causé par l'effet suspensif s'il a agi par dol ou par négligence grave.
+<sup>1</sup> Suivant sa valeur et les valeurs seuils, un marché public peut, au choix de l'adjudicateur, être adjugé selon la procédure ouverte, la procédure sélective, la procédure sur invitation ou la procédure de gré à gré.
 
 #### Art. 18
 
-**Décision sur recours [^17-1]**
+**Procédure ouverte**
 
-<sup>1</sup> Si le contrat n'est pas encore conclu, l'autorité de recours peut, soit statuer au fond, soit renvoyer la cause au pouvoir adjudicateur dont elle annule la décision, au besoin avec des instructions impératives.
+<sup>1</sup> Dans la procédure ouverte, l'adjudicateur lance un appel d'offres public pour le marché.
 
-<sup>2</sup> Si le contrat est déjà conclu et que le recours est jugé bien fondé, l'autorité de recours constate le caractère illicite de la décision.
-
-[^17-1]: Modif. 1 du 15.03.2001: Modification Al. 2; entrée en vigueur au 01.09.2004
-
-## Section VI Vérification
+<sup>2</sup> Tout soumissionnaire peut présenter une offre.
 
 #### Art. 19
 
-**Vérification et sanctions**
+**Procédure sélective**
 
-<sup>1</sup> Chaque canton vérifie le respect, par les soumissionnaires et les pouvoirs adjudicateurs, des dispositions en matière de marchés publics, tant durant la procédure de passation qu'après l'adjudication.
+<sup>1</sup> Dans la procédure sélective, l'adjudicateur lance un appel d'offres public pour le marché en invitant les soumissionnaires à présenter, dans un premier temps, une demande de participation.
 
-<sup>2</sup> Chaque canton détermine les sanctions encourues en cas de violation des dispositions en matière de marchés publics.
+<sup>2</sup> L'adjudicateur choisit les soumissionnaires autorisés à présenter une offre en fonction de leur aptitude.
 
-## Section VII Dispositions finales
+<sup>3</sup> L'adjudicateur peut limiter le nombre de soumissionnaires autorisés à présenter une offre, à condition qu'une concurrence efficace reste garantie. Il autorise si possible au moins trois soumissionnaires à présenter une offre.
 
 #### Art. 20
 
-**Adhésion et dénonciation**
+**Procédure sur invitation**
 
-<sup>1</sup> Chaque canton peut adhérer à l'accord. Sa déclaration d'adhésion est remise à l'autorité intercantonale qui la communique à la Confédération.
+<sup>1</sup> La procédure sur invitation est applicable aux marchés publics qui ne sont pas soumis aux accords internationaux et qui atteignent les valeurs seuils indiquées dans l'annexe 2.
 
-<sup>2</sup> Le présent accord peut être dénoncé pour la fin d'une année civile moyennant un préavis de six mois adressé à l'autorité intercantonale. Celle-ci communique la dénonciation à la Confédération.
+<sup>2</sup> Dans la procédure sur invitation, l'adjudicateur invite les soumissionnaires de son choix à présenter une offre, sans lancer d'appel d'offres public. À cette fin, il établit des documents d'appel d'offres. Il demande si possible au moins trois offres.
 
 #### Art. 21
 
-**Entrée en vigueur [^20-1]**
+**Procédure de gré à gré**
 
-<sup>1</sup> L'accord, dès que deux cantons au moins y auront adhéré, entrera en vigueur lors de sa publication dans le Recueil officiel des lois fédérales et, pour les cantons qui y adhèrent ultérieurement, lors de la publication de leur adhésion dans ledit Recueil .
+<sup>1</sup> Dans la procédure de gré à gré, l'adjudicateur adjuge un marché public directement à un soumissionnaire, sans lancer d'appel d'offres. Il peut demander des offres à des fins de comparaison et procéder à des négociations.
 
-<sup>2</sup> Il en est de même des compléments et modifications apportés à l'accord.
+<sup>2</sup> L'adjudicateur peut adjuger un marché de gré à gré sans considération des valeurs seuils lorsqu'une des conditions suivantes est remplie:
 
-<sup>3</sup> L'accord du 25 novembre 1994 reste en vigueur dans sa version initiale pour tous les cantons qui n'auront pas adhéré à ses modifications du 15 mars 2001.
+- a. aucune offre ou demande de participation n'est présentée dans le cadre de la procédure ouverte, sélective ou sur invitation, aucune offre ne satisfait aux exigences essentielles de l'appel d'offres ou ne respecte les spécifications techniques ou aucun soumissionnaire ne répond aux critères d'aptitude;
+- b. des indices suffisants laissent penser que toutes les offres présentées dans le cadre de la procédure ouverte, sélective ou sur invitation résultent d'un accord illicite affectant la concurrence;
+- c. un seul soumissionnaire entre en considération en raison des particularités techniques ou artistiques du marché ou pour des motifs relevant de la protection de la propriété intellectuelle, et il n'existe pas de solution de rechange adéquate;
+- d. en raison d'événements imprévisibles, l'urgence du marché est telle que, même en réduisant les délais, une procédure ouverte, sélective ou sur invitation ne peut être menée à bien;
+- e. un changement de soumissionnaire pour des prestations destinées à remplacer, à compléter ou à accroître des prestations déjà fournies n'est pas possible pour des raisons économiques ou techniques ou entraînerait des difficultés importantes ou une augmentation substantielle des coûts;
+- f. l'adjudicateur achète de nouvelles marchandises (prototypes) ou des prestations d'un nouveau genre qui ont été produites ou mises au point à sa demande dans le cadre d'un marché de recherche, d'expérimentation, d'étude ou de développement original;
+- g. l'adjudicateur achète des prestations sur un marché de produits de base;
+- h. l'adjudicateur peut acheter des prestations à un prix nettement inférieur aux prix usuels à la faveur d'une offre avantageuse limitée dans le temps (notamment dans le cas de liquidations);
+- i. l'adjudicateur adjuge le marché complémentaire au lauréat d'un concours d'études ou d'un concours portant sur les études et la réalisation ou au lauréat d'une procédure de sélection liée à des mandats d'étude ou à des mandats portant sur les études et la réalisation; les conditions suivantes doivent être remplies:
+- 1\. la procédure précédente a été organisée dans le respect des principes du présent accord,
+- 2\. les propositions de solutions ont été jugées par un jury indépendant,
+- 3\. l'adjudicateur s'est réservé dans l'appel d'offres le droit d'adjuger le marché complémentaire selon une procédure de gré à gré.
 
-[^20-1]: Modif. 1 du 15.03.2001: Introduction Al. 3; entrée en vigueur au 01.09.2004
+<sup>3</sup> Pour chaque marché adjugé de gré à gré en vertu de l'al. 2, l'adjudicateur établit une documentation indiquant:
+
+- a. les noms de l'adjudicateur et du soumissionnaire retenu;
+- b. la nature et la valeur de la prestation achetée;
+- c. les circonstances et conditions justifiant le recours à la procédure de gré à gré.
 
 #### Art. 22
 
+**Concours et mandats d'étude parallèles**
+
+<sup>1</sup> L'adjudicateur qui organise un concours d'études ou un concours portant sur les études et la réalisation ou qui attribue des mandats d'étude parallèles définit la procédure au cas par cas, dans le respect des principes énoncés dans le présent accord. Il peut se référer aux règles édictées en la matière par les associations professionnelles.
+
+#### Art. 23
+
+**Enchères électroniques**
+
+<sup>1</sup> L'adjudicateur peut recourir à une enchère électronique pour acquérir des prestations standardisées dans le cadre d'une procédure régie par le présent accord. Une enchère électronique est un processus comportant éventuellement plusieurs étapes au cours duquel les offres sont remaniées après une évaluation complète puis reclassées en utilisant des moyens électroniques. L'intention de recourir à une enchère électronique doit être mentionnée dans l'appel d'offres.
+
+<sup>2</sup> L'enchère électronique porte sur: a. les prix, lorsque le marché est adjugé au soumissionnaire présentant l'offre dont le prix total est le plus bas, ou b. les prix et les valeurs des autres éléments quantifiables de l'offre (comme le poids, le degré de pureté ou la qualité), lorsque le marché est adjugé au soumissionnaire présentant l'offre la plus avantageuse.
+
+<sup>3</sup> L'adjudicateur vérifie que les soumissionnaires remplissent les critères d'aptitude et que les offres respectent les spécifications techniques. Il procède à une première évaluation des offres sur la base des critères d'adjudication et de leur pondération respective. Avant le début de l'enchère, il communique à chaque soumissionnaire:
+
+- a. la méthode d'évaluation automatique, y compris la formule mathématique, qui est fondée sur les critères d'adjudication indiqués;
+- b. le résultat de l'évaluation initiale de son offre, et
+- c. tous les autres renseignements pertinents concernant le déroulement de l'enchère.
+
+<sup>4</sup> Tous les soumissionnaires admis à participer à l'enchère sont invités simultanément, par voie électronique, à présenter une nouvelle offre ou une offre modifiée. L'adjudicateur peut limiter le nombre de soumissionnaires admis, à condition d'avoir mentionné cette intention dans l'appel d'offres ou dans les documents d'appel d'offres.
+
+<sup>5</sup> L'enchère électronique peut comporter plusieurs étapes. Au terme de chaque étape, l'adjudicateur informe les soumissionnaires de leur position dans le classement.
+
+#### Art. 24
+
+**Dialogue**
+
+<sup>1</sup> Lors d'une procédure d'adjudication ouverte ou sélective portant sur un marché complexe, sur des prestations intellectuelles ou sur des prestations innovantes, l'adjudicateur peut engager avec les soumissionnaires un dialogue visant à concrétiser l'objet du marché ainsi qu'à développer et à fixer les solutions ou les procédés applicables. L'intention de mener un dialogue doit être mentionnée dans l'appel d'offres.
+
+<sup>2</sup> Le dialogue ne peut être mené dans le but de négocier les prix et les prix totaux.
+
+<sup>3</sup> L'adjudicateur spécifie ses besoins et ses exigences dans l'appel d'offres ou dans les documents d'appel d'offres. Il indique en outre:
+
+- a. le déroulement du dialogue;
+- b. la teneur possible du dialogue;
+- c. si et, le cas échéant, comment les soumissionnaires seront indemnisés pour leur participation au dialogue et pour l'utilisation de leurs droits de propriété intellectuelle, de leurs connaissances et de leur expérience;
+- d. les délais et les modalités de remise de l'offre définitive.
+
+<sup>4</sup> L'adjudicateur peut réduire le nombre de soumissionnaires participant au dialogue en fonction de critères objectifs et transparents.
+
+<sup>5</sup> Il consigne le déroulement et la teneur du dialogue de manière appropriée et compréhensible.
+
+#### Art. 25
+
+**Contrats-cadres**
+
+<sup>1</sup> L'adjudicateur peut lancer un appel d'offres portant sur des contrats qui seront conclus avec un ou plusieurs soumissionnaires et qui ont pour objet de fixer les conditions auxquelles les prestations requises seront acquises au cours d'une période donnée, notamment en ce qui concerne le prix et, le cas échéant, les quantités envisagées. Pendant la durée d'un tel contrat-cadre, l'adjudicateur peut conclure des contrats subséquents fondés sur ce dernier.
+
+<sup>2</sup> Les contrats-cadres ne peuvent être conclus avec pour intention ou effet d'empêcher ou de supprimer la concurrence.
+
+<sup>3</sup> La durée d'un contrat-cadre ne peut excéder cinq ans. Une prolongation automatique n'est pas possible. Une durée plus longue peut être prévue dans des cas dûment motivés.
+
+<sup>4</sup> Lorsqu'un contrat-cadre est conclu avec un seul soumissionnaire, les contrats subséquents sont conclus conformément aux conditions fixées dans ce contrat-cadre. L'adjudicateur peut demander par écrit au partenaire contractuel de compléter son offre en vue de la conclusion des contrats subséquents.
+
+<sup>5</sup> Lorsque, pour des raisons suffisantes, des contrats-cadres sont conclus avec plusieurs soumissionnaires, l'adjudicateur peut conclure les contrats subséquents soit aux conditions fixées dans le contrat-cadre concerné, sans nouvelle invitation à remettre une offre, soit selon la procédure suivante:
+
+- a. avant de conclure un contrat subséquent, l'adjudicateur consulte les partenaires contractuels par écrit et leur fait part de ses besoins spécifiques;
+- b. l'adjudicateur fixe aux partenaires contractuels un délai convenable pour la remise des offres pour le contrat subséquent concerné;
+- c. les offres doivent être remises par écrit et lient le soumissionnaire pendant la durée spécifiée dans la demande d'offres;
+- d. l'adjudicateur conclut le contrat subséquent avec le partenaire contractuel qui lui présente l'offre jugée la meilleure sur la base des critères définis dans les documents d'appel d'offres ou dans le contrat-cadre.
+
+## Chapitre 5 Conditions d'adjudication
+
+#### Art. 26
+
+**Conditions de participation**
+
+<sup>1</sup> Lors de la procédure d'adjudication ainsi que lors de l'exécution du marché adjugé, l'adjudicateur s'assure que les soumissionnaires et leurs sous-traitants remplissent les conditions de participation, dont en particulier le respect des exigences définies à l'art. 12, qu'ils ont payé les impôts et les cotisations sociales exigibles et qu'ils ne concluent pas d'accords illicites affectant la concurrence.
+
+<sup>2</sup> Il peut exiger des soumissionnaires qu'ils prouvent le respect des conditions de participation au moyen notamment d'une déclaration ou de leur inscription sur une liste.
+
+<sup>3</sup> Il indique dans l'appel d'offres ou dans les documents d'appel d'offres quelles preuves doivent être remises et à quel moment.
+
+#### Art. 27
+
+**Critères d'aptitude**
+
+<sup>1</sup> L'adjudicateur définit de manière exhaustive, dans l'appel d'offres ou dans les documents d'appel d'offres, les critères d'aptitude auxquels doivent répondre les soumissionnaires. Ces critères doivent être objectivement nécessaires et vérifiables pour le marché concerné.
+
+<sup>2</sup> Les critères d'aptitude peuvent concerner en particulier les capacités professionnelles, financières, économiques, techniques et organisationnelles des soumissionnaires ainsi que leur expérience.
+
+<sup>3</sup> L'adjudicateur indique dans l'appel d'offres ou dans les documents d'appel d'offres quelles preuves les soumissionnaires doivent fournir et à quel moment.
+
+<sup>4</sup> Il ne peut poser comme condition que les soumissionnaires aient déjà obtenu un ou plusieurs marchés publics d'un adjudicateur soumis au présent accord.
+
+#### Art. 28
+
+**Listes**
+
+<sup>1</sup> L'adjudicateur ou l'autorité compétente en vertu de la loi peut tenir une liste de soumissionnaires qui ont l'aptitude requise pour pouvoir obtenir des marchés publics.
+
+<sup>2</sup> Les indications suivantes doivent être publiées sur la plateforme Internet de la Confédération et des cantons:
+
+- a. source de la liste;
+- b. informations sur les critères à remplir;
+- c. méthodes de vérification et conditions d'inscription sur la liste;
+- d. durée de validité et procédure pour le renouvellement de l'inscription.
+
+<sup>3</sup> Une procédure transparente doit garantir qu'il est en tout temps possible de déposer une demande d'inscription, d'examiner ou de vérifier l'aptitude d'un soumissionnaire ainsi que d'inscrire un soumissionnaire sur la liste ou de l'en radier.
+
+<sup>4</sup> Les soumissionnaires qui ne figurent pas sur une liste sont également admis à participer à une procédure de passation de marchés, à condition d'apporter la preuve de leur aptitude.
+
+<sup>5</sup> Si la liste est supprimée, les soumissionnaires y figurant en sont informés.
+
+#### Art. 29
+
+**Critères d'adjudication**
+
+<sup>1</sup> L'adjudicateur évalue les offres sur la base de critères d'adjudication en lien avec les prestations. Outre le prix et la qualité de la prestation, il peut notamment prendre en considération des critères tels que l'adéquation, les délais, la valeur technique, la rentabilité, les coûts du cycle de vie, l'esthétique, le développement durable, la plausibilité de l'offre, la créativité, le service après-vente, les conditions de livraison, l'infrastructure, le caractère innovant, la fonctionnalité, le service à la clientèle, les compétences techniques et l'efficacité de la méthode.
+
+<sup>2</sup> Pour les marchés non soumis aux accords internationaux, l'adjudicateur peut prendre en compte à titre complémentaire la mesure dans laquelle les soumissionnaires offrent des places de formation professionnelle initiale, des places de travail pour les travailleurs âgés ou une réinsertion pour les chômeurs de longue durée.
+
+<sup>3</sup> L'adjudicateur indique les critères d'adjudication et leur pondération dans l'appel d'offres ou dans les documents d'appel d'offres. Il peut renoncer à indiquer la pondération lorsque le marché porte sur des solutions, des propositions de solutions ou des procédés.
+
+<sup>4</sup> Les prestations standardisées peuvent être adjugées sur la base du seul critère du prix le plus bas.
+
+#### Art. 30
+
+**Spécifications techniques**
+
+<sup>1</sup> L'adjudicateur fixe les spécifications techniques nécessaires dans l'appel d'offres ou dans les documents d'appel d'offres. Celles-ci définissent les caractéristiques de l'objet du marché, telles que sa fonction, ses performances, sa qualité, sa sécurité, ses dimensions ou les procédés de production et fixent les exigences relatives au marquage ou à l'emballage.
+
+<sup>2</sup> Dans la mesure où cela est possible et approprié, l'adjudicateur fixe les spécifications techniques en se fondant sur des normes internationales ou, à défaut, sur des prescriptions techniques appliquées en Suisse, des normes nationales reconnues ou les recommandations de la branche.
+
+<sup>3</sup> Il ne peut être exigé de noms commerciaux, de marques, de brevets, de droits d'auteur, de designs, de types, d'origines ou de producteurs particuliers, à moins qu'il n'existe pas d'autre moyen suffisamment précis ou intelligible de décrire l'objet du marché et à la condition que l'adjudicateur utilise alors des termes tels que «ou équivalent» dans les documents d'appel d'offres. La preuve de l'équivalence incombe au soumissionnaire.
+
+<sup>4</sup> L'adjudicateur peut prévoir des spécifications techniques permettant de préserver les ressources naturelles ou de protéger l'environnement.
+
+#### Art. 31
+
+**Communautés de soumissionnaires et sous-traitants**
+
+<sup>1</sup> La participation de communautés de soumissionnaires et le recours à des sous-traitants sont admis, à moins que l'adjudicateur ne limite ou n'exclue ces possibilités dans l'appel d'offres ou dans les documents d'appel d'offres.
+
+<sup>2</sup> La participation multiple de sous-traitants ou la participation multiple de soumissionnaires à des communautés de soumissionnaires ne sont possibles que si elles sont expressément admises dans l'appel d'offres ou dans les documents d'appel d'offres.
+
+<sup>3</sup> La prestation caractéristique doit en principe être fournie par le soumissionnaire.
+
+#### Art. 32
+
+**Lots et prestations partielles**
+
+<sup>1</sup> Le soumissionnaire doit remettre une offre globale pour l'objet du marché.
+
+<sup>2</sup> L'adjudicateur peut diviser l'objet du marché en plusieurs lots et adjuger ceux-ci à un ou plusieurs soumissionnaires.
+
+<sup>3</sup> Lorsque l'adjudicateur a constitué des lots, les soumissionnaires peuvent présenter une offre pour plusieurs lots, à moins que l'adjudicateur n'ait prévu d'autres modalités dans l'appel d'offres. Il peut limiter le nombre de lots pouvant être adjugés à un même soumissionnaire.
+
+<sup>4</sup> L'adjudicateur qui se réserve le droit d'exiger des soumissionnaires une collaboration avec des tiers doit l'indiquer dans l'appel d'offres.
+
+<sup>5</sup> Il peut se réserver, dans l'appel d'offres, le droit d'adjuger des prestations partielles.
+
+#### Art. 33
+
+**Variantes**
+
+<sup>1</sup> Le soumissionnaire est libre de proposer, en plus de son offre pour la prestation décrite dans l'appel d'offres, des variantes. L'adjudicateur peut limiter ou exclure cette possibilité dans l'appel d'offres.
+
+<sup>2</sup> On entend par variante une offre qui permet d'atteindre le but du marché d'une manière différente de celle prévue par l'adjudicateur.
+
+#### Art. 34
+
+**Exigences de forme**
+
+<sup>1</sup> Les offres et les demandes de participation doivent être remises par écrit, de manière complète et dans les délais fixés, en respectant les indications figurant dans l'appel d'offres ou dans les documents d'appel d'offres.
+
+<sup>2</sup> Elles peuvent être remises par voie électronique lorsque cette possibilité est prévue dans l'appel d'offres ou dans les documents d'appel d'offres et que les exigences fixées par l'adjudicateur sont respectées.
+
+## Chapitre 6 Déroulement de la procédure d'adjudication
+
+#### Art. 35
+
+**Contenu de l'appel d'offres**
+
+<sup>1</sup> L'appel d'offres contient au minimum les indications suivantes:
+
+- a. a. le nom et l'adresse de l'adjudicateur;
+- b. le genre de marché, le type de procédure, le code CPV[^35-1] correspondant et en outre, pour les services, le code CPC correspondant;
+- c. la description des prestations, y compris la nature et la quantité ou, dans les cas où la quantité n'est pas connue, la quantité estimée, ainsi que les éventuelles options;
+- d. le lieu et le délai d'exécution de la prestation;
+- e. le cas échéant, la division en lots, la limitation du nombre de lots et la possibilité de présenter des offres partielles;
+- f. le cas échéant, la limitation ou l'exclusion de la participation des communautés de soumissionnaires et du recours à des sous-traitants;
+- g. le cas échéant, la limitation ou l'exclusion des variantes;
+- h. pour les prestations nécessaires périodiquement, si possible le délai de publication du prochain appel d'offres et, le cas échéant, l'indication concernant la réduction du délai de remise des offres;
+- i. le cas échéant, l'indication selon laquelle il y aura une enchère électronique;
+- j. le cas échéant, l'intention de mener un dialogue;
+- k. le délai de remise des offres ou des demandes de participation;
+- l. les exigences de forme applicables à la remise des offres ou des demandes de participation, le cas échéant l'indication selon laquelle la prestation et le prix doivent être proposés dans deux enveloppes distinctes;
+- m. la ou les langues de la procédure et des offres;
+- n. les critères d'aptitude et les preuves requises;
+- o. le cas échéant, le nombre maximal de soumissionnaires qui, dans le cadre d'une procédure sélective, seront invités à présenter une offre;
+- p. les critères d'adjudication et leur pondération, lorsque ces indications ne figurent pas dans les documents d'appel d'offres;
+- q. le cas échéant, le droit réservé d'adjuger des prestations partielles;
+- r. la durée de validité des offres;
+- s. l'adresse à laquelle les documents d'appel d'offres peuvent être obtenus et, le cas échéant, un émolument couvrant les frais;
+- t. l'indication que le marché est ou non soumis aux accords internationaux;
+- u. le cas échéant, les soumissionnaires préimpliqués et admis à la procédure;
+- v. les voies de droit.
+
+[^35-1]: CPV = «Common Procurement Vocabulary» (Vocabulaire commun pour les marchés publics de l’Union européenne).
+
+#### Art. 36
+
+**Contenu des documents d'appel d'offres**
+
+<sup>1</sup> Les documents d'appel d'offres contiennent les indications suivantes, à moins que celles-ci ne figurent déjà dans l'appel d'offres:
+
+- a. le nom et l'adresse de l'adjudicateur;
+- b. l'objet du marché, y compris les spécifications techniques et les attestations de conformité, les plans, les dessins et les instructions nécessaires ainsi que les indications relatives aux quantités exigées;
+- c. les exigences de forme, les conditions de participation à la procédure d'adjudication, y compris la liste des informations et des documents que les soumissionnaires doivent fournir en relation avec ces conditions, et l'éventuelle pondération des critères d'aptitude;
+- d. les critères d'adjudication et leur pondération;
+- e. lorsque l'adjudicateur passe le marché par voie électronique, les éventuelles exigences relatives à l'authentification et au cryptage des renseignements communiqués par voie électronique;
+- f. lorsque l'adjudicateur prévoit une enchère électronique, les règles applicables à cette dernière, y compris les éléments de l'offre qui pourront être modifiés et qui seront évalués sur la base des critères d'adjudication;
+- g. la date, l'heure et le lieu d'ouverture des offres, en cas d'ouverture publique des offres;
+- h. toutes les autres modalités et conditions nécessaires à l'établissement des offres, en particulier la monnaie dans laquelle celles-ci doivent être présentées (en règle générale le franc suisse);
+- i. les délais d'exécution des prestations.
+
+#### Art. 37
+
+**Ouverture des offres**
+
+<sup>1</sup> Dans les procédures ouvertes, sélectives ou sur invitation, toutes les offres remises dans le délai imparti sont ouvertes par au minimum deux représentants de l'adjudicateur.
+
+<sup>2</sup> Un procès-verbal est établi à l'ouverture des offres. Il doit mentionner au minimum les noms des personnes présentes, les noms des soumissionnaires, la date de remise des offres, les éventuelles variantes ainsi que le prix total de chaque offre.
+
+<sup>3</sup> Lorsque la prestation et le prix doivent être proposés dans deux enveloppes distinctes, l'ouverture des enveloppes est régie par les al. 1 et 2, mais seuls les prix totaux devront être indiqués dans le procès-verbal d'ouverture des secondes enveloppes.
+
+<sup>4</sup> Le procès-verbal est rendu accessible sur demande à tous les soumissionnaires au plus tard après l'adjudication.
+
+#### Art. 38
+
+**Examen des offres**
+
+<sup>1</sup> L'adjudicateur vérifie si les offres déposées respectent les exigences de forme. Les erreurs manifestes de calcul sont corrigées d'office.
+
+<sup>2</sup> L'adjudicateur peut demander aux soumissionnaires de donner des explications sur leurs offres. Il consigne les questions posées et les réponses obtenues.
+
+<sup>3</sup> L'adjudicateur qui reçoit une offre dont le prix est anormalement bas par rapport aux prix des autres offres doit demander les renseignements utiles au soumissionnaire afin de s'assurer que les conditions de participation sont remplies et que les autres exigences de l'appel d'offres ont été comprises.
+
+<sup>4</sup> Lorsque la prestation et le prix doivent être proposés dans deux enveloppes distinctes, l'adjudicateur établit dans un premier temps la liste des meilleures offres du point de vue qualitatif. Dans un second temps, il évalue les prix totaux.
+
+#### Art. 39
+
+**Rectification des offres**
+
+<sup>1</sup> En vue de déterminer l'offre la plus avantageuse, l'adjudicateur peut, en collaboration avec les soumissionnaires, rectifier les offres en ce qui concerne les prestations et les modalités de leur exécution.
+
+<sup>2</sup> Une rectification n'est effectuée que:
+
+- a. si elle est indispensable pour clarifier l'objet du marché ou les offres ou pour rendre les offres objectivement comparables sur la base des critères d'adjudication, ou
+- b. si des modifications des prestations sont objectivement et matériellement nécessaires; dans ce cas, l'objet du marché, les critères et les spécifications ne peuvent cependant être adaptés de manière telle que la prestation caractéristique ou le cercle des soumissionnaires potentiels s'en trouvent modifiés.
+
+<sup>3</sup> Une adaptation des prix ne peut être demandée que dans le cadre d'une rectification effectuée pour l'une des raisons mentionnées à l'al. 2.
+
+<sup>4</sup> L'adjudicateur consigne dans des procès-verbaux les résultats de la rectification des offres.
+
+#### Art. 40
+
+**Evaluation des offres**
+
+<sup>1</sup> Si les critères d'aptitude sont remplis et les spécifications techniques respectées, les offres sont examinées et évaluées sur la base des critères d'adjudication de manière objective, uniforme et traçable. L'adjudicateur établit un rapport sur l'évaluation.
+
+<sup>2</sup> Lorsque l'examen et l'évaluation approfondis des offres exigent des moyens considérables et à condition de l'avoir annoncé dans l'appel d'offres, l'adjudicateur peut soumettre toutes les offres à un premier examen sur la base des documents remis et les classer. Il choisit ensuite si possible les trois offres les mieux classées et les soumet à un examen et à une évaluation détaillés.
+
+#### Art. 41
+
+**Adjudication**
+
+<sup>1</sup> Le marché est adjugé au soumissionnaire ayant présenté l'offre la plus avantageuse.
+
+#### Art. 42
+
+**Conclusion du contrat**
+
+<sup>1</sup> Le contrat peut être conclu avec le soumissionnaire retenu après l'écoulement du délai de recours contre l'adjudication, à moins que le Tribunal administratif cantonal n'ait accordé l'effet suspensif à un recours formé contre l'adjudication.
+
+<sup>2</sup> Lorsqu'une procédure de recours contre l'adjudication est pendante sans que l'effet suspensif ait été demandé ou octroyé, l'adjudicateur informe immédiatement le tribunal de la conclusion du contrat.
+
+#### Art. 43
+
+**Interruption**
+
+<sup>1</sup> L'adjudicateur peut interrompre la procédure d'adjudication en particulier dans les cas suivants:
+
+- a. il renonce, pour des motifs suffisants, à adjuger le marché public;
+- b. aucune offre ne répond aux spécifications techniques ou aux autres exigences;
+- c. en raison de modifications des conditions-cadres, des offres plus avantageuses sont attendues;
+- d. les offres présentées ne permettent pas une acquisition économique ou dépassent nettement le budget;
+- e. il existe des indices suffisants d'un accord illicite affectant la concurrence entre les soumissionnaires;
+- f. une modification importante des prestations demandées est nécessaire.
+
+<sup>2</sup> En cas d'interruption justifiée de la procédure, les soumissionnaires n'ont pas droit à une indemnisation.
+
+#### Art. 44
+
+**Exclusion de la procédure et révocation de l'adjudication**
+
+<sup>1</sup> L'adjudicateur peut exclure un soumissionnaire de la procédure d'adjudication, le radier d'une liste ou révoquer une adjudication s'il est constaté que le soumissionnaire, un de ses organes, un tiers auquel il fait appel ou un organe de ce dernier:
+
+- a. ne remplit pas ou plus les conditions de participation à la procédure d'adjudication ou a un comportement qui compromet la conformité de cette dernière aux dispositions légales;
+- b. remet une offre ou une demande de participation qui est entachée d'importants vices de forme ou qui s'écarte de manière importante des exigences fixées dans l'appel d'offres;
+- c. a fait l'objet d'une condamnation entrée en force pour un délit commis au détriment de l'adjudicateur en cause ou pour un crime;
+- d. fait l'objet d'une procédure de saisie ou de faillite;
+- e. a enfreint les dispositions relatives à la lutte contre la corruption;
+- f. refuse de se soumettre aux contrôles qui ont été ordonnés;
+- g. ne paie pas les impôts ou les cotisations sociales exigibles;
+- h. n'a pas exécuté correctement des marchés publics antérieurs ou s'est révélé d'une autre manière ne pas être un partenaire fiable;
+- i. a participé à la préparation du marché, sans que le désavantage concurrentiel qui en découle pour les autres soumissionnaires puisse être compensé par des moyens appropriés;
+- j. a fait l'objet, en vertu de l'art. 45, al. 1, d'une exclusion des futurs marchés publics entrée en force.
+
+<sup>2</sup> L'adjudicateur peut également prendre les mesures mentionnées à l'al. 1 lorsque des indices suffisants laissent penser en particulier que le soumissionnaire, un de ses organes, un tiers auquel il fait appel ou un organe de ce dernier:
+
+- a. a fourni à l'adjudicateur des indications fausses ou trompeuses;
+- b. a conclu un accord illicite affectant la concurrence;
+- c. remet une offre anormalement basse, sans prouver, après y avoir été invité, qu'il remplit les conditions de participation, et ne donne aucune garantie que les prestations faisant l'objet du marché à adjuger seront exécutées conformément au contrat;
+- d. a enfreint les règles professionnelles reconnues ou porté atteinte à son honneur ou à son intégrité professionnels par ses agissements ou omissions;
+- e. est insolvable;
+- f. ne respecte pas les dispositions relatives à la protection des travailleurs, les conditions de travail, les dispositions relatives à l'égalité de traitement salarial entre femmes et hommes, les dispositions relatives à la confidentialité, les dispositions du droit suisse en matière d'environnement ou les conventions internationales relatives à la protection de l'environnement déterminées par le Conseil fédéral;
+- g. a violé les obligations en matière d'annonce et d'autorisation mentionnées dans la LTN[^44-1];
+- h. viole la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^44-2].
+
+[^44-1]: [Loi fédérale du 17.06.2005 concernant des mesures en matière de lutte contre le travail au noir, RS 822.41](https://www.fedlex.admin.ch/eli/cc/2007/71/fr)
+[^44-2]: [Loi fédérale du 19.12.1986 contre la concurrence déloyale, RS 241](https://www.admin.ch/opc/fr/classified-compilation/19860391/index.html)
+
+#### Art. 45
+
+**Sanctions**
+
+<sup>1</sup> Lorsqu'un soumissionnaire ou un sous-traitant se trouve, lui-même ou à travers ses organes, dans un ou plusieurs des cas énoncés à l'art. 44, al. 1, let. c et e, et 2, let. b, f et g, et que l'acte ou les actes concernés sont graves, il peut être exclu pour une durée maximale de cinq ans des futurs marchés ou se voir infliger une amende pouvant aller jusqu'à 10% du prix final de l'offre soit par l'adjudicateur, soit par l'autorité compétente en vertu de la loi. Dans les cas de peu de gravité, un avertissement peut être prononcé.
+
+<sup>2</sup> Ces sanctions peuvent être prononcées indépendamment de l'application d'autres mesures juridiques à l'encontre du soumissionnaire, du sous-traitant ou de leurs organes fautifs. Si l'adjudicateur ou l'autorité compétente en vertu de la loi soupçonne un accord illicite affectant la concurrence au sens de l'art. 44, al. 2, let. b, il ou elle en informe la Commission de la concurrence.
+
+<sup>3</sup> L'adjudicateur ou l'autorité compétente en vertu de la loi annonce à l'AiMp les exclusions entrées en force prononcées sur la base de l'al. 1. L'AiMp tient une liste non publique des soumissionnaires et sous-traitants sanctionnés, qui mentionne le motif et la durée de l'exclusion des marchés publics. Il veille à ce que tout adjudicateur puisse obtenir les données relatives à un soumissionnaire ou sous-traitant déterminé. À cet effet, il peut mettre en place une procédure de consultation en ligne des données. La Confédération et les cantons se donnent mutuellement accès à toutes les informations récoltées sur la base du présent article. À l'expiration de la sanction, l'inscription y relative est effacée de la liste[^45-1].
+
+<sup>4</sup> Lorsqu'un adjudicateur contrevient au présent accord, l'autorité compétente en vertu de la loi édicte des instructions appropriées et se charge d'en assurer le respect.
+
+<sup>5</sup> Lorsque des contributions financières sont allouées pour un marché public, elles peuvent être supprimées en tout ou en partie ou faire l'objet d'une demande de restitution en cas de violation du présent accord par l'adjudicateur.
+
+[^45-1]: Disposition précisée par décision de l’Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024. Le tableau synoptique des adaptations peut être consulté sous [www.bpuk.ch](https://www.bpuk.ch/fr/dtap) sous la rubrique concordats &gt; AIMP 2019.
+
+## Chapitre 7 Délais et publications, statistiques
+
+#### Art. 46
+
+**Délais**
+
+<sup>1</sup> L'adjudicateur fixe les délais de remise des offres ou des demandes de participation en tenant compte de la complexité du marché, du nombre probable de contrats de sous-traitance ainsi que des modes de transmission des offres ou des demandes de participation.
+
+<sup>2</sup> Pour les marchés soumis aux accords internationaux, les délais minimaux suivants sont applicables:
+
+- a. dans la procédure ouverte, 40 jours à compter de la publication de l'appel d'offres pour la remise des offres;
+- b. dans la procédure sélective, 25 jours à compter de la publication de l'appel d'offres pour la remise des demandes de participation et 40 jours à compter de l'invitation à remettre une offre pour la remise des offres.
+
+<sup>3</sup> Une prolongation de ces délais doit être annoncée en temps utile à tous les soumissionnaires ou être publiée.
+
+<sup>4</sup> Pour les marchés non soumis aux accords internationaux, le délai de remise des offres est en général d'au moins 20 jours. Dans le cas de prestations largement standardisées, il peut être réduit à 5 jours au minimum.
+
+#### Art. 47
+
+**Réduction des délais pour les marchés soumis aux accords internationaux**
+
+<sup>1</sup> En cas d'urgence dûment établie, l'adjudicateur peut réduire les délais minimaux visés à l'art. 46, al. 2, à 10 jours au minimum.
+
+<sup>2</sup> Il peut réduire le délai minimal de remise des offres de 40 jours fixé à l'art. 46, al. 2, de 5 jours par condition remplie lorsque:
+
+- a. l'appel d'offres est publié par voie électronique;
+- b. les documents d'appel d'offres sont publiés simultanément par voie électronique,
+- c. les offres transmises par voie électronique sont admises.
+
+<sup>3</sup> Il peut réduire le délai minimal de remise des offres de 40 jours fixé à l'art. 46, al. 2, à 10 jours au minimum lorsqu'il a publié, au moins 40 jours et au plus 12 mois avant la publication de l'appel d'offres, un avis préalable mentionnant:
+
+- a. l'objet du marché envisagé;
+- b. le délai approximatif de remise des offres ou des demandes de participation;
+- c. le fait que les soumissionnaires intéressés devraient faire part à l'adjudicateur de leur intérêt pour le marché;
+- d. l'adresse à laquelle les documents d'appel d'offres pourront être obtenus;
+- e. toutes les autres indications énumérées à l'art. 35 qui sont déjà disponibles à cette date.
+
+<sup>4</sup> Il peut réduire le délai minimal de remise des offres de 40 jours fixé à l'art. 46, al. 2, à 10 jours au minimum lorsqu'il acquiert des prestations nécessaires périodiquement et qu'il a annoncé cette réduction de délai dans un précédent appel d'offres.
+
+<sup>5</sup> Au surplus, lorsque l'adjudicateur achète des marchandises ou des services commerciaux ou une combinaison des deux, il peut dans tous les cas réduire le délai de remise des offres à 13 jours au minimum, à condition de publier simultanément par voie électronique l'appel d'offres et les documents d'appel d'offres. En outre, si l'adjudicateur accepte de recevoir des offres pour des marchandises ou des services commerciaux par voie électronique, il peut réduire le délai de remise des offres à 10 jours au minimum.
+
+#### Art. 48
+
+**Publications**
+
+<sup>1</sup> Dans les procédures ouvertes ou sélectives, l'adjudicateur publie l'avis préalable, l'appel d'offres, l'adjudication et l'interruption de la procédure sur une plateforme Internet pour les marchés publics exploitée conjointement par la Confédération et les cantons. Il publie également les adjudications de gré à gré des marchés soumis aux accords internationaux.
+
+<sup>2</sup> Les documents d'appel d'offres sont en général mis à disposition en même temps et par voie électronique. L'accès à ces publications est gratuit.
+
+<sup>3</sup> L'organisation chargée par la Confédération et les cantons de développer et d'exploiter la plateforme Internet peut percevoir des rémunérations ou des émoluments auprès des adjudicateurs, des soumissionnaires et d'autres personnes utilisant la plateforme ou les services associés. Les montants perçus sont déterminés par le nombre de publications ou l'étendue des prestations fournies.
+
+<sup>4</sup> Lorsque l'appel d'offres pour un marché soumis aux accords internationaux n'est pas publié dans une des langues officielles de l'Organisation mondiale du commerce (OMC), l'adjudicateur en publie simultanément un résumé dans une des langues officielles de l'OMC. Ce résumé mentionne au minimum:
+
+- a. l'objet du marché;
+- b. le délai de remise des offres ou des demandes de participation;
+- c. l'adresse à laquelle les documents d'appel d'offres peuvent être obtenus.
+
+<sup>5</sup> Pour les marchés non soumis aux accords internationaux, il convient de tenir compte de la langue du lieu où le marché sera exécuté.
+
+<sup>6</sup> Les adjudications des marchés soumis aux accords internationaux doivent en principe être publiées dans un délai de 30 jours. L'avis contient les indications suivantes:
+
+- a. le type de procédure utilisé;
+- b. l'objet et l'étendue du marché;
+- c. le nom et l'adresse de l'adjudicateur;
+- d. la date de l'adjudication;
+- e. le nom et l'adresse du soumissionnaire retenu;
+- f. le prix total de l'offre retenue, taxe sur la valeur ajoutée comprise.
+
+<sup>7</sup> Les cantons peuvent prévoir des organes de publication supplémentaires.
+
+#### Art. 49
+
+**Conservation des documents**
+
+<sup>1</sup> Les adjudicateurs conservent les documents déterminants en lien avec une procédure d'adjudication pendant au moins trois ans à compter de l'entrée en force de l'adjudication.
+
+<sup>2</sup> Font partie des documents à conserver:
+
+- a. l'appel d'offres;
+- b. les documents d'appel d'offres;
+- c. le procès-verbal d'ouverture des offres;
+- d. la correspondance relative à la procédure d'adjudication;
+- e. les procès-verbaux relatifs à la rectification des offres;
+- f. les décisions rendues dans le cadre de la procédure d'adjudication;
+- g. l'offre retenue;
+- h. les données permettant de reconstituer le déroulement d'une procédure d'adjudication menée par voie électronique;
+- i. la documentation relative aux adjudications de gré à gré de marchés publics soumis aux accords internationaux.
+
+<sup>3</sup> Pendant la durée de leur conservation, les documents doivent être traités de manière confidentielle, à moins que le présent accord ne prévoie leur divulgation. Sont réservés les devoirs légaux d'information.
+
+#### Art. 50
+
+**Statistiques**
+
+<sup>1</sup> Dans les douze mois suivant la fin de chaque année civile, les cantons établissent à l'intention du Secrétariat d'État à l'économie (SECO) une statistique électronique sur les marchés soumis aux accords internationaux qui ont été adjugés au cours de l'année précédente.
+
+<sup>2</sup> Les statistiques contiennent au minimum les indications suivantes:
+
+- a. le nombre et la valeur totale des marchés publics qui ont été adjugés par chaque adjudicateur, ventilés entre les marchés de construction, les marchés de fournitures et les marchés de services, avec indication des codes CPC ou CPV;
+- b. le nombre et la valeur totale des marchés publics adjugés de gré à gré;
+- c. des estimations pour les données requises aux let. a et b, accompagnées d'une explication de la méthode utilisée pour établir les estimations, dans les cas où il n'est pas possible de fournir les données.
+
+<sup>3</sup> La valeur totale indiquée doit comprendre la taxe sur la valeur ajoutée.
+
+<sup>4</sup> La statistique globale du SECO est accessible au public, sous réserve de la protection des données et de la préservation des secrets d'affaires.
+
+## Chapitre 8 Voies de droit
+
+#### Art. 51
+
+**Notification des décisions**
+
+<sup>1</sup> L'adjudicateur notifie ses décisions aux soumissionnaires soit par publication, soit par notification individuelle. Les soumissionnaires ne peuvent invoquer le droit d'être entendu avant la notification de la décision.
+
+<sup>2</sup> Les décisions sujettes à recours doivent être sommairement motivées et indiquer les voies de droit.
+
+<sup>3</sup> La motivation sommaire d'une adjudication comprend:
+
+- a. le type de procédure d'adjudication utilisé et le nom du soumissionnaire retenu;
+- b. le prix total de l'offre retenue;
+- c. les caractéristiques et avantages décisifs de l'offre retenue;
+- d. le cas échéant, les motifs du recours à la procédure de gré à gré.
+
+<sup>4</sup> L'adjudicateur ne peut fournir aucun renseignement dont la divulgation:
+
+- a. enfreindrait le droit en vigueur ou porterait atteinte à l'intérêt public;
+- b. porterait atteinte aux intérêts commerciaux légitimes des soumissionnaires, ou
+- c. pourrait nuire à une concurrence loyale entre les soumissionnaires.
+
+#### Art. 52
+
+**Recours**
+
+<sup>1</sup> Les décisions de l'adjudicateur peuvent faire l'objet d'un recours auprès du Tribunal administratif cantonal en tant qu'instance cantonale unique, à tout le moins, lorsque la valeur du marché atteint la valeur seuil déterminante pour la procédure sur invitation.
+
+<sup>2</sup> Les recours concernant les marchés des tribunaux supérieurs cantonaux relèvent directement de la compétence du Tribunal fédéral.
+
+<sup>3</sup> Les soumissionnaires étrangers ne peuvent faire recours contre des décisions relatives à des marchés non soumis aux accords internationaux que si l'État dans lequel ils ont leur siège accorde la réciprocité.
+
+#### Art. 53
+
+**Objets du recours**
+
+<sup>1</sup> Seules les décisions suivantes sont sujettes à recours:
+
+- a. l'appel d'offres;
+- b. la décision concernant le choix des participants à la procédure sélective;
+- c. la décision d'inscrire un soumissionnaire sur une liste ou de l'en radier;
+- d. la décision concernant les demandes de récusation;
+- e. l'adjudication;
+- f. la révocation de l'adjudication;
+- g. l'interruption de la procédure;
+- h. l'exclusion de la procédure;
+- i. le prononcé d'une sanction;
+
+<sup>2</sup> Les prescriptions contenues dans les documents d'appel d'offres dont l'importance est identifiable ne peuvent être contestées que dans le cadre d'un recours contre l'appel d'offres.
+
+<sup>3</sup> Les dispositions du présent accord relatives au droit d'être entendu dans la procédure de décision, à l'effet suspensif et à la restriction des motifs de recours ne sont pas applicables en cas de recours contre le prononcé d'une sanction.
+
+<sup>4</sup> Les décisions mentionnées à l'al. 1, let. c et i, peuvent faire l'objet d'un recours sans égard à la valeur du marché.
+
+<sup>5</sup> Pour le reste, les décisions rendues sur la base du présent accord ne sont pas sujettes à recours.
+
+<sup>6</sup> La conclusion de contrats subséquents au sens de l'art. 25, al. 4 et 5, ne peut faire l'objet d'un recours.
+
+#### Art. 54
+
+**Effet suspensif**
+
+<sup>1</sup> Le recours n'a pas effet suspensif.
+
+<sup>2</sup> Sur demande, le Tribunal administratif cantonal peut accorder l'effet suspensif au recours, lorsque celui-ci paraît suffisamment fondé et qu'aucun intérêt public prépondérant ne s'y oppose. En matière d'effet suspensif, il n'y a en règle générale qu'un échange d'écritures.
+
+<sup>3</sup> Une demande d'octroi de l'effet suspensif abusive ou contraire à la bonne foi n'est pas protégée. Les demandes en dommages-intérêts de l'adjudicateur et du soumissionnaire retenu relèvent de la compétence des tribunaux civils.
+
+#### Art. 55
+
+**Droit applicable**
+
+<sup>1</sup> Sauf disposition contraire du présent accord, les procédures de décision et de recours sont régies par les dispositions des législations cantonales sur la procédure administrative.
+
+#### Art. 56
+
+**Délai et motifs de recours, qualité pour recourir**
+
+<sup>1</sup> Les recours, dûment motivés, doivent être déposés par écrit dans un délai de 20 jours à compter de la notification de la décision.
+
+<sup>2</sup> Les féries judicaires ne s'appliquent pas.
+
+<sup>3</sup> Le recours peut être formé pour:
+
+- a. violation du droit, y compris l'excès ou l'abus du pouvoir d'appréciation ;
+- b. constatation inexacte ou incomplète des faits pertinents.
+
+<sup>4</sup> L'opportunité d'une décision ne peut être examinée dans le cadre d'une procédure de recours.
+
+<sup>5</sup> Seules les personnes qui prouvent qu'elles peuvent et veulent fournir les prestations demandées ou des prestations équivalentes peuvent faire recours contre les adjudications de gré à gré. Ne peuvent être invoqués que l'application indue de la procédure de gré à gré et le grief selon lequel l'adjudication est entachée de corruption.
+
+#### Art. 57
+
+**Consultation des pièces**
+
+<sup>1</sup> Au cours de la procédure de décision, les soumissionnaires n'ont pas le droit de consulter les pièces.
+
+<sup>2</sup> Dans la procédure de recours, le recourant peut, sur demande, consulter les pièces relatives à l'évaluation de son offre et les autres pièces de la procédure déterminantes pour la décision, à moins qu'un intérêt public ou privé prépondérant ne s'y oppose.
+
+#### Art. 58
+
+**Décision sur recours**
+
+<sup>1</sup> L'autorité de recours peut soit statuer elle-même, soit renvoyer l'affaire à l'autorité précédente ou à l'adjudicateur. En cas de renvoi, elle donne des instructions impératives.
+
+<sup>2</sup> Lorsque le recours s'avère bien fondé et que le contrat a déjà été conclu avec le soumissionnaire retenu, l'autorité de recours constate le caractère illicite de la décision.
+
+<sup>3</sup> En même temps qu'elle procède à la constatation de la violation du droit, l'autorité de recours statue sur une éventuelle demande en dommages-intérêts.
+
+<sup>4</sup> Les dommages-intérêts sont limités aux dépenses que le soumissionnaire a dû engager en relation avec la préparation et la remise de son offre.
+
+#### Art. 59
+
+**Révision**
+
+<sup>1</sup> Lorsque l'autorité de recours est appelée à statuer sur une demande de révision, l'art. 60, al. 2, est applicable par analogie[^59-1].
+
+[^59-1]: Disposition précisée par décision de l’Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024. Le tableau synoptique des adaptations peut être consulté sous [www.bpuk.ch](https://www.bpuk.ch/fr/dtap) sous la rubrique concordats &gt; AIMP 2019.
+
+## Chapitre 9 Autorités
+
+#### Art. 60
+
+**Commission des marchés publics Confédération-cantons**
+
+<sup>1</sup> La surveillance du respect des engagements internationaux de la Suisse en matière de marchés publics incombe à la Commission des marchés publics Confédération–cantons (CMCC). Celle-ci est composée à parts égales de représentants de la Confédération et de représentants des cantons. Le secrétariat est assuré par le SECO.
+
+<sup>2</sup> La CMCC assume notamment les tâches suivantes:
+
+- a. définir à l'intention du Conseil fédéral la position de la Suisse dans les organismes internationaux et conseiller les délégations suisses participant à des négociations;
+- b. promouvoir les échanges d'informations et d'expériences entre la Confédération et les cantons et élaborer des recommandations pour la transposition en droit suisse des engagements internationaux de la Suisse;
+- c. soigner les contacts avec les autorités de surveillance étrangères;
+- d. donner des conseils et, dans des cas particuliers, servir de médiateur lors de différends liés aux affaires visées aux let. a à c.
+
+<sup>3</sup> Lorsque des indices laissent penser que les engagements internationaux de la Suisse en matière de marchés publics sont violés, la CMCC peut intervenir auprès des autorités de la Confédération ou des cantons et les amener à clarifier la situation et, en cas d'irrégularités avérées, à prendre les mesures nécessaires.
+
+<sup>4</sup> La CMCC peut procéder à des expertises ou en faire effectuer par des experts.
+
+<sup>5</sup> Elle se dote d'un règlement interne. Celui-ci doit être approuvé par le Conseil fédéral et par l'AiMp.
+
+#### Art. 61
+
+**Autorité intercantonale**
+
+<sup>1</sup> Les membres de la Conférence suisse des directeurs cantonaux des travaux publics, de l'aménagement du territoire et de la protection de l'environnement représentant les cantons parties au présent accord, forment l'Autorité intercantonale pour les marchés publics (AiMp)[^61-1].
+
+<sup>2</sup> L'AiMp assume notamment les tâches suivantes:
+
+- a. édicter le présent accord;
+- b. procéder aux modifications du présent accord, sous réserve de l'approbation des cantons parties;
+- c. adapter les valeurs seuils;
+- d. proposer au Conseil fédéral une exemption au présent accord et prendre acte des demandes en ce sens des adjudicateurs selon l'art. 7, al. 1 (clause d'exemption);
+- e. surveiller la mise en œuvre du présent accord par les cantons et désigner un organe de contrôle;
+- f. tenir la liste des soumissionnaires et sous-traitants sanctionnés conformément à l'art. 45, al. 3;
+- g. adopter un règlement fixant les règles d'organisation et de procédure pour l'application du présent accord;
+- h. agir comme organe de contact dans le cadre des accords internationaux;
+- i. désigner les délégués cantonaux aux commissions nationales et internationales et approuver les règles de fonctionnement de celles-ci.
+
+<sup>3</sup> L'AiMp prend ses décisions à la majorité des trois-quarts des représentants présents, pour autant que la moitié des cantons soit représentée. Chaque canton partie à l'accord dispose d'une voix, qui est exprimée par un membre de son gouvernement.
+
+<sup>4</sup> L'AiMp collabore avec les Conférences des chefs de départements cantonaux concernées, avec les Conférences spécialisées des cantons et avec la Confédération.
+
+[^61-1]: Disposition précisée par décision de l’Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024. Le tableau synoptique des adaptations peut être consulté sous [www.bpuk.ch](https://www.bpuk.ch/fr/dtap) sous la rubrique concordats &gt; AIMP 2019.
+
+#### Art. 62
+
+**Contrôles**
+
+<sup>1</sup> Les cantons veillent au respect du présent accord.
+
+<sup>2</sup> L'AiMp traite les dénonciations de cantons concernant le respect du présent accord par les autres cantons.
+
+<sup>3</sup> Les dénonciations de particuliers concernant le respect du présent accord par les cantons sont traitées par l'AiMp. La dénonciation ne permet pas de se voir reconnaître la qualité de partie et ne donne pas droit à une décision.
+
+<sup>4</sup> L'AiMp édicte un règlement à ce sujet.
+
+## Chapitre 10 Dispositions finales
+
+#### Art. 63
+
+**Adhésion, dénonciation, modification et annulation**
+
+<sup>1</sup> Chaque canton peut adhérer au présent accord par simple déclaration adressée à l'AiMp.
+
+<sup>2</sup> Le présent accord peut être dénoncé pour la fin d'une année civile moyennant un préavis de six mois adressé à l'AiMp.
+
+<sup>3</sup> Toute adhésion ou dénonciation, ainsi que toute modification ou annulation du présent accord seront communiquées à la Chancellerie fédérale par l'AiMp.
+
+<sup>4</sup> Dans le respect des engagements internationaux de la Suisse, les cantons peuvent édicter des dispositions d'exécution, en particulier pour les art. 10, 12 et 26.
+
+#### Art. 64
+
 **Droit transitoire**
 
-<sup>1</sup> Le présent accord s'applique à la passation de marchés qui sont mis en soumission ou adjugés après son entrée en vigueur.
+<sup>1</sup> Les procédures d'adjudication qui ont été lancées avant l'entrée en vigueur du présent accord sont régies par l'ancien droit jusqu'à leur clôture.
 
-<sup>2</sup> En cas de dénonciation, le présent accord continue à s'appliquer à la passation de marchés dont l'appel d'offres ou l'invitation à déposer une demande de participation sont publiés avant la fin de l'année civile pour laquelle la dénonciation est applicable.
+<sup>2</sup> En cas de dénonciation par un canton, le présent accord s'applique à la passation des marchés publics ayant fait l'objet d'un appel d'offres avant la fin de l'année civile pour laquelle la dénonciation est effective.
 
-Annexes [^22-1]
+#### Art. 65
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent accord entre en vigueur dès que deux cantons y ont adhéré. Son entrée en vigueur est communiquée à la Chancellerie fédérale par l'AiMp.
+
+<sup>2</sup> L'accord du 15 mars 2001 reste applicable aux cantons qui n'ont pas adhéré au présent accord.
+
+Annexes
 
 1
 
-[Valeurs seuils AIMP 2022-2023](https://prestations.vd.ch/pub/blv-publication/api/actes/69d771fb-e158-4700-b3ad-5473adf760dc/annexes/1?dmev=01.01.2022)
+[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/33f91cc1-e0fd-4ede-9a24-780a5f65ec15/annexes/1?dmev=01.01.2023)
 
-[^22-1]: Modif. 1 du 15.03.2001: Introduction Ann; entrée en vigueur au 01.09.2004 · Modif. 2 du 21.11.2011: Modification Ann; entrée en vigueur au 01.01.2012 · Modif. 3 du 20.12.2013: Modification Ann; entrée en vigueur au 01.01.2014 · Modif. 4 du 05.12.2015: Modification Ann; entrée en vigueur au 01.01.2016 · Modif. 5 du 11.12.2017: Modification Ann; entrée en vigueur au 01.01.2018 · Modif. 6 du 11.12.2019: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2020 · Modif. 7 du 20.12.2021: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2022
+2
+
+[Annexe 2](https://prestations.vd.ch/pub/blv-publication/api/actes/33f91cc1-e0fd-4ede-9a24-780a5f65ec15/annexes/2?dmev=01.01.2023)
+
+3
+
+[Annexe 3](https://prestations.vd.ch/pub/blv-publication/api/actes/33f91cc1-e0fd-4ede-9a24-780a5f65ec15/annexes/3?dmev=01.01.2023)
+
+4
+
+[Annexe 4](https://prestations.vd.ch/pub/blv-publication/api/actes/33f91cc1-e0fd-4ede-9a24-780a5f65ec15/annexes/4?dmev=01.01.2023)
