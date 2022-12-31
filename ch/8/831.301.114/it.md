@@ -3,18 +3,18 @@ sr: "831.301.114"
 title: "Ordinanza del DFI del 14 giugno 2021 sulla ripartizione dei Comuni nelle tre regioni di pigione secondo la legge federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità e la legge federale sulle prestazioni transitorie per i disoccupati anziani"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-375-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-375-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulla ripartizione dei Comuni nelle tre regioni di pigione secondo la legge federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità e la legge federale sulle prestazioni transitorie per i disoccupati anziani
 
-del 14 giugno 2021 (Stato 1° gennaio 2022)
+del 14 giugno 2021 (Stato 1° gennaio 2023)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -43,7 +43,11 @@ Gli importi massimi che sono stati ridotti o aumentati in seguito a una richiest
 
 #### Art. 3
 
-Nel caso di una riduzione degli importi massimi, il mese determinante per verificare se nel Comune interessato la pigione del 90 per cento dei beneficiari di prestazioni complementari o di prestazioni transitorie è coperta (art. 10 cpv. 1<sup>sexies</sup> LPC e art. 9 cpv. 6 LPTD) è quello di maggio dell’anno precedente.
+[^3-1]
+
+Nel caso di una riduzione degli importi massimi, il mese determinante per verificare se nel Comune interessato la pigione del 90 per cento dei beneficiari di prestazioni complementari e dei beneficiari di prestazioni transitorie è coperta (art. 10 cpv. 1<sup>sexies</sup> LPC e art. 9 cpv. 6 LPTD) è quello di maggio dell’anno precedente.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del DFI del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
 
 #### Art. 4
 
@@ -67,19 +71,18 @@ L’ordinanza del DFI del 12 marzo 2020[^5-1] sulla ripartizione dei Comuni nell
 
 La presente ordinanza entra in vigore il 1° luglio 2021.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1)
 
 ## Regioni
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del DFI dell’11 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 740](https://fedlex.data.admin.ch/eli/oc/2021/740)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del DFI del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
 
 ### Zurigo
 
 <table>
 <tr><th>Comune</th><th>Regione</th></tr>
-<tr><td>Adlikon</td><td>3</td></tr>
 <tr><td>Adliswil</td><td>2</td></tr>
 <tr><td>Aesch (ZH)</td><td>3</td></tr>
 <tr><td>Aeugst am Albis</td><td>3</td></tr>
@@ -143,7 +146,6 @@ Allegato 1*[^t-1]*
 <tr><td>Hochfelden</td><td>2</td></tr>
 <tr><td>Hombrechtikon</td><td>2</td></tr>
 <tr><td>Horgen</td><td>2</td></tr>
-<tr><td>Humlikon</td><td>3</td></tr>
 <tr><td>Höri</td><td>2</td></tr>
 <tr><td>Hüntwangen</td><td>3</td></tr>
 <tr><td>Hüttikon</td><td>2</td></tr>
@@ -1201,9 +1203,8 @@ Allegato 1*[^t-1]*
 <tr><td>Appenzell</td><td>2</td></tr>
 <tr><td>Gonten</td><td>3</td></tr>
 <tr><td>Oberegg</td><td>3</td></tr>
-<tr><td>Rüte</td><td>3</td></tr>
 <tr><td>Schlatt-Haslen</td><td>3</td></tr>
-<tr><td>Schwende</td><td>3</td></tr>
+<tr><td>Schwende-Rüte</td><td>3</td></tr>
 </table>
 
 ### San Gallo
@@ -1235,7 +1236,6 @@ Allegato 1*[^t-1]*
 <tr><td>Gommiswald</td><td>3</td></tr>
 <tr><td>Gossau (SG)</td><td>2</td></tr>
 <tr><td>Grabs</td><td>2</td></tr>
-<tr><td>Hemberg</td><td>3</td></tr>
 <tr><td>Häggenschwil</td><td>3</td></tr>
 <tr><td>Jonschwil</td><td>2</td></tr>
 <tr><td>Kaltbrunn</td><td>3</td></tr>
@@ -1252,7 +1252,6 @@ Allegato 1*[^t-1]*
 <tr><td>Niederbüren</td><td>3</td></tr>
 <tr><td>Niederhelfenschwil</td><td>3</td></tr>
 <tr><td>Oberbüren</td><td>2</td></tr>
-<tr><td>Oberhelfenschwil</td><td>3</td></tr>
 <tr><td>Oberriet (SG)</td><td>2</td></tr>
 <tr><td>Oberuzwil</td><td>2</td></tr>
 <tr><td>Pfäfers</td><td>3</td></tr>
@@ -1467,7 +1466,7 @@ Allegato 1*[^t-1]*
 <tr><td>Hausen (AG)</td><td>2</td></tr>
 <tr><td>Hellikon</td><td>2</td></tr>
 <tr><td>Hendschiken</td><td>2</td></tr>
-<tr><td>Herznach</td><td>2</td></tr>
+<tr><td>Herznach-Ueken</td><td>2</td></tr>
 <tr><td>Hirschthal</td><td>2</td></tr>
 <tr><td>Holderbank (AG)</td><td>2</td></tr>
 <tr><td>Holziken</td><td>2</td></tr>
@@ -1568,7 +1567,6 @@ Allegato 1*[^t-1]*
 <tr><td>Thalheim (AG)</td><td>3</td></tr>
 <tr><td>Turgi</td><td>2</td></tr>
 <tr><td>Tägerig</td><td>2</td></tr>
-<tr><td>Ueken</td><td>2</td></tr>
 <tr><td>Uerkheim</td><td>3</td></tr>
 <tr><td>Uezwil</td><td>3</td></tr>
 <tr><td>Unterentfelden</td><td>2</td></tr>
@@ -1754,9 +1752,7 @@ Allegato 1*[^t-1]*
 <tr><td>Maggia</td><td>3</td></tr>
 <tr><td>Magliaso</td><td>2</td></tr>
 <tr><td>Manno</td><td>2</td></tr>
-<tr><td>Maroggia</td><td>2</td></tr>
 <tr><td>Massagno</td><td>2</td></tr>
-<tr><td>Melano</td><td>2</td></tr>
 <tr><td>Melide</td><td>2</td></tr>
 <tr><td>Mendrisio</td><td>2</td></tr>
 <tr><td>Mergoscia</td><td>3</td></tr>
@@ -1785,7 +1781,6 @@ Allegato 1*[^t-1]*
 <tr><td>Riva San Vitale</td><td>2</td></tr>
 <tr><td>Riviera</td><td>2</td></tr>
 <tr><td>Ronco sopra Ascona</td><td>2</td></tr>
-<tr><td>Rovio</td><td>2</td></tr>
 <tr><td>Sant’Antonino</td><td>2</td></tr>
 <tr><td>Savosa</td><td>2</td></tr>
 <tr><td>Serravalle</td><td>3</td></tr>
@@ -1796,6 +1791,7 @@ Allegato 1*[^t-1]*
 <tr><td>Torricella-Taverne</td><td>2</td></tr>
 <tr><td>Tresa</td><td>2</td></tr>
 <tr><td>Vacallo</td><td>2</td></tr>
+<tr><td>Val Mara</td><td>2</td></tr>
 <tr><td>Vernate</td><td>2</td></tr>
 <tr><td>Verzasca</td><td>3</td></tr>
 <tr><td>Vezia</td><td>2</td></tr>
@@ -1830,7 +1826,7 @@ Allegato 1*[^t-1]*
 <tr><td>Bex</td><td>2</td></tr>
 <tr><td>Bioley-Magnoux</td><td>3</td></tr>
 <tr><td>Bière</td><td>3</td></tr>
-<tr><td>Blonay</td><td>2</td></tr>
+<tr><td>Blonay-Saint-Légier</td><td>2</td></tr>
 <tr><td>Bofflens</td><td>3</td></tr>
 <tr><td>Bogis-Bossey</td><td>2</td></tr>
 <tr><td>Bonvillars</td><td>3</td></tr>
@@ -1911,7 +1907,6 @@ Allegato 1*[^t-1]*
 <tr><td>Ecublens (VD)</td><td>2</td></tr>
 <tr><td>Epalinges</td><td>2</td></tr>
 <tr><td>Ependes (VD)</td><td>3</td></tr>
-<tr><td>Essertes</td><td>3</td></tr>
 <tr><td>Essertines-sur-Rolle</td><td>3</td></tr>
 <tr><td>Essertines-sur-Yverdon</td><td>3</td></tr>
 <tr><td>Etagnières</td><td>2</td></tr>
@@ -2012,7 +2007,7 @@ Allegato 1*[^t-1]*
 <tr><td>Ormont-Dessous</td><td>3</td></tr>
 <tr><td>Ormont-Dessus</td><td>3</td></tr>
 <tr><td>Orny</td><td>3</td></tr>
-<tr><td>Oron</td><td>2</td></tr>
+<tr><td>Oron</td><td>3</td></tr>
 <tr><td>Orzens</td><td>3</td></tr>
 <tr><td>Oulens-sous-Echallens</td><td>3</td></tr>
 <tr><td>Pailly</td><td>3</td></tr>
@@ -2052,7 +2047,6 @@ Allegato 1*[^t-1]*
 <tr><td>Saint-Cergue</td><td>3</td></tr>
 <tr><td>Saint-George</td><td>3</td></tr>
 <tr><td>Saint-Livres</td><td>3</td></tr>
-<tr><td>Saint-Légier-La Chiésaz</td><td>2</td></tr>
 <tr><td>Saint-Oyens</td><td>3</td></tr>
 <tr><td>Saint-Prex</td><td>2</td></tr>
 <tr><td>Saint-Saphorin (Lavaux)</td><td>2</td></tr>
@@ -2381,28 +2375,28 @@ Allegato 1*[^t-1]*
 <tr><td>Vendlincourt</td><td>3</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2)
 
 ## Importi massimi dei Comuni
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del DFI dell’11 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 740](https://fedlex.data.admin.ch/eli/oc/2021/740)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del DFI del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
 
 ### Basilea Città
 
 <table>
 <tr><td>Comune</td><td>Importi massimi (in franchi)</td></tr>
-<tr><td>Bettingen</td><td>1 persona: 16 440 2 persone: 19 440 3 persone: 21 600 4 persone e più: 23 520</td></tr>
-<tr><td>Riehen</td><td>1 persona: 16 440 2 persone: 19 440 3 persone: 21 600 4 persone e più: 23 520</td></tr>
+<tr><td>Bettingen</td><td>1 persona: 17 580 2 persone: 20 820 3 persone: 23 100 4 persone e più: 25 200</td></tr>
+<tr><td>Riehen</td><td>1 persona: 17 580 2 persone: 20 820 3 persone: 23 100 4 persone e più: 25 200</td></tr>
 </table>
 
 ### Neuchâtel
 
 <table>
 <tr><td>Comune</td><td>Importi massimi (in franchi)</td></tr>
-<tr><td>La Chaux-de-Fonds</td><td>1 persona: 14 316 2 persone: 17 016 3 persone: 18 636 4 persone e più: 20 256</td></tr>
-<tr><td>Le Locle</td><td>1 persona: 14 316 2 persone: 17 016 3 persone: 18 636 4 persone e più: 20 256</td></tr>
-<tr><td>Val-de-Ruz</td><td>1 persona: 15 108 2 persone: 17 964 3 persone: 19 668 4 persone e più: 21 384</td></tr>
-<tr><td>Val-de-Travers</td><td>1 persona: 14 316 2 persone: 17 016 3 persone: 18 636 4 persone e più: 20 256</td></tr>
+<tr><td>La Chaux-de-Fonds</td><td>1 persona: 15 336 2 persone: 18 204 3 persone: 19 932 4 persone e più: 21 708</td></tr>
+<tr><td>Le Locle</td><td>1 persona: 15 336 2 persone: 18 204 3 persone: 19 932 4 persone e più: 21 708</td></tr>
+<tr><td>Val-de-Ruz</td><td>1 persona: 16 368 2 persone: 19 416 3 persone: 21 264 4 persone e più: 23 160</td></tr>
+<tr><td>Val-de-Travers</td><td>1 persona: 15 336 2 persone: 18 204 3 persone: 19 932 4 persone e più: 21 708</td></tr>
 </table>

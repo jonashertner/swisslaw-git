@@ -3,18 +3,18 @@ sr: "831.301.114"
 title: "Ordonnance du DFI du 14 juin 2021 concernant la répartition des communes dans les trois régions de loyer définies par la loi fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité et la loi fédérale sur les prestations transitoires pour les chômeurs âgés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-375-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-375-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI concernant la répartition des communes dans les trois régions de loyer définies par la loi fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité et la loi fédérale sur les prestations transitoires pour les chômeurs âgés
 
-du 14 juin 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 14 juin 2021 (État le 1<sup>er</sup> janvier 2023)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -43,7 +43,9 @@ Les montants maximaux qui ont été réduits ou augmentés à la suite d’une d
 
 #### Art. 3
 
-Le mois de mai de l’année précédente est déterminant pour examiner si le loyer d’au moins 90 % des bénéficiaires de prestations complémentaires ou de prestations transitoires dans la commune concernée est couvert en cas de réduction des montants maximaux (art. 10, al. 1<sup>sexies</sup>, LPC et art. 9, al. 6, LPtra).
+Le mois de mai de l’année précédente est déterminant pour examiner si le loyer d’au moins 90 % des bénéficiaires de prestations complémentaires et des bénéficiaires de prestations transitoires dans la commune concernée est couvert en cas de réduction des montants maximaux (art. 10, al. 1<sup>sexies</sup>, LPC et art. 9, al. 6, LPtra).[^3-1]
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
 
 #### Art. 4
 
@@ -67,19 +69,18 @@ L’ordonnance du DFI du 12 mars 2020 concernant la répartition des communes da
 
 Cette ordonnance entre en vigueur le 1<sup>er</sup> juillet 2021.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1)
 
 ## Régions
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 11 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 740](https://fedlex.data.admin.ch/eli/oc/2021/740)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
 
 ### Zurich
 
 <table>
 <tr><th>Commune</th><th>Région</th></tr>
-<tr><td>Adlikon</td><td>3</td></tr>
 <tr><td>Adliswil</td><td>2</td></tr>
 <tr><td>Aesch (ZH)</td><td>3</td></tr>
 <tr><td>Aeugst am Albis</td><td>3</td></tr>
@@ -143,7 +144,6 @@ Annexe 1*[^t-1]*
 <tr><td>Hochfelden</td><td>2</td></tr>
 <tr><td>Hombrechtikon</td><td>2</td></tr>
 <tr><td>Horgen</td><td>2</td></tr>
-<tr><td>Humlikon</td><td>3</td></tr>
 <tr><td>Höri</td><td>2</td></tr>
 <tr><td>Hüntwangen</td><td>3</td></tr>
 <tr><td>Hüttikon</td><td>2</td></tr>
@@ -731,7 +731,6 @@ Annexe 1*[^t-1]*
 <tr><td>Unteriberg</td><td>3</td></tr>
 <tr><td>Vorderthal</td><td>3</td></tr>
 <tr><td>Wangen (SZ)</td><td>2</td></tr>
-<tr><td>Wollerau</td><td>2</td></tr>
 </table>
 
 ### Obwald
@@ -827,7 +826,7 @@ Annexe 1*[^t-1]*
 <tr><td>Delley-Portalban</td><td>3</td></tr>
 <tr><td>Düdingen</td><td>2</td></tr>
 <tr><td>Echarlens</td><td>2</td></tr>
-<tr><td>Ecublens (FR)</td><td>3</td></tr>
+<tr><td>Écublens (FR)</td><td>3</td></tr>
 <tr><td>Estavayer</td><td>2</td></tr>
 <tr><td>Ferpicloz</td><td>2</td></tr>
 <tr><td>Fribourg</td><td>2</td></tr>
@@ -1201,9 +1200,8 @@ Annexe 1*[^t-1]*
 <tr><td>Appenzell</td><td>2</td></tr>
 <tr><td>Gonten</td><td>3</td></tr>
 <tr><td>Oberegg</td><td>3</td></tr>
-<tr><td>Rüte</td><td>3</td></tr>
 <tr><td>Schlatt-Haslen</td><td>3</td></tr>
-<tr><td>Schwende</td><td>3</td></tr>
+<tr><td>Schwende-Rüte</td><td>3</td></tr>
 </table>
 
 ### Saint-Gall
@@ -1235,7 +1233,6 @@ Annexe 1*[^t-1]*
 <tr><td>Gommiswald</td><td>3</td></tr>
 <tr><td>Gossau (SG)</td><td>2</td></tr>
 <tr><td>Grabs</td><td>2</td></tr>
-<tr><td>Hemberg</td><td>3</td></tr>
 <tr><td>Häggenschwil</td><td>3</td></tr>
 <tr><td>Jonschwil</td><td>2</td></tr>
 <tr><td>Kaltbrunn</td><td>3</td></tr>
@@ -1252,7 +1249,6 @@ Annexe 1*[^t-1]*
 <tr><td>Niederbüren</td><td>3</td></tr>
 <tr><td>Niederhelfenschwil</td><td>3</td></tr>
 <tr><td>Oberbüren</td><td>2</td></tr>
-<tr><td>Oberhelfenschwil</td><td>3</td></tr>
 <tr><td>Oberriet (SG)</td><td>2</td></tr>
 <tr><td>Oberuzwil</td><td>2</td></tr>
 <tr><td>Pfäfers</td><td>3</td></tr>
@@ -1467,7 +1463,7 @@ Annexe 1*[^t-1]*
 <tr><td>Hausen (AG)</td><td>2</td></tr>
 <tr><td>Hellikon</td><td>2</td></tr>
 <tr><td>Hendschiken</td><td>2</td></tr>
-<tr><td>Herznach</td><td>2</td></tr>
+<tr><td>Herznach-Ueken</td><td>2</td></tr>
 <tr><td>Hirschthal</td><td>2</td></tr>
 <tr><td>Holderbank (AG)</td><td>2</td></tr>
 <tr><td>Holziken</td><td>2</td></tr>
@@ -1568,7 +1564,6 @@ Annexe 1*[^t-1]*
 <tr><td>Thalheim (AG)</td><td>3</td></tr>
 <tr><td>Turgi</td><td>2</td></tr>
 <tr><td>Tägerig</td><td>2</td></tr>
-<tr><td>Ueken</td><td>2</td></tr>
 <tr><td>Uerkheim</td><td>3</td></tr>
 <tr><td>Uezwil</td><td>3</td></tr>
 <tr><td>Unterentfelden</td><td>2</td></tr>
@@ -1754,9 +1749,7 @@ Annexe 1*[^t-1]*
 <tr><td>Maggia</td><td>3</td></tr>
 <tr><td>Magliaso</td><td>2</td></tr>
 <tr><td>Manno</td><td>2</td></tr>
-<tr><td>Maroggia</td><td>2</td></tr>
 <tr><td>Massagno</td><td>2</td></tr>
-<tr><td>Melano</td><td>2</td></tr>
 <tr><td>Melide</td><td>2</td></tr>
 <tr><td>Mendrisio</td><td>2</td></tr>
 <tr><td>Mergoscia</td><td>3</td></tr>
@@ -1785,7 +1778,6 @@ Annexe 1*[^t-1]*
 <tr><td>Riva San Vitale</td><td>2</td></tr>
 <tr><td>Riviera</td><td>2</td></tr>
 <tr><td>Ronco sopra Ascona</td><td>2</td></tr>
-<tr><td>Rovio</td><td>2</td></tr>
 <tr><td>Sant’Antonino</td><td>2</td></tr>
 <tr><td>Savosa</td><td>2</td></tr>
 <tr><td>Serravalle</td><td>3</td></tr>
@@ -1796,6 +1788,7 @@ Annexe 1*[^t-1]*
 <tr><td>Torricella-Taverne</td><td>2</td></tr>
 <tr><td>Tresa</td><td>2</td></tr>
 <tr><td>Vacallo</td><td>2</td></tr>
+<tr><td>Val Mara</td><td>2</td></tr>
 <tr><td>Vernate</td><td>2</td></tr>
 <tr><td>Verzasca</td><td>3</td></tr>
 <tr><td>Vezia</td><td>2</td></tr>
@@ -1830,7 +1823,7 @@ Annexe 1*[^t-1]*
 <tr><td>Bex</td><td>2</td></tr>
 <tr><td>Bioley-Magnoux</td><td>3</td></tr>
 <tr><td>Bière</td><td>3</td></tr>
-<tr><td>Blonay</td><td>2</td></tr>
+<tr><td>Blonay-Saint-Légier</td><td>2</td></tr>
 <tr><td>Bofflens</td><td>3</td></tr>
 <tr><td>Bogis-Bossey</td><td>2</td></tr>
 <tr><td>Bonvillars</td><td>3</td></tr>
@@ -1904,18 +1897,17 @@ Annexe 1*[^t-1]*
 <tr><td>Duillier</td><td>3</td></tr>
 <tr><td>Dully</td><td>3</td></tr>
 <tr><td>Démoret</td><td>3</td></tr>
-<tr><td>Echallens</td><td>2</td></tr>
-<tr><td>Echandens</td><td>2</td></tr>
-<tr><td>Echichens</td><td>2</td></tr>
-<tr><td>Eclépens</td><td>2</td></tr>
-<tr><td>Ecublens (VD)</td><td>2</td></tr>
-<tr><td>Epalinges</td><td>2</td></tr>
-<tr><td>Ependes (VD)</td><td>3</td></tr>
-<tr><td>Essertes</td><td>3</td></tr>
+<tr><td>Échallens</td><td>2</td></tr>
+<tr><td>Échandens</td><td>2</td></tr>
+<tr><td>Échichens</td><td>2</td></tr>
+<tr><td>Éclépens</td><td>2</td></tr>
+<tr><td>Écublens (VD)</td><td>2</td></tr>
+<tr><td>Épalinges</td><td>2</td></tr>
+<tr><td>Épendes (VD)</td><td>3</td></tr>
 <tr><td>Essertines-sur-Rolle</td><td>3</td></tr>
 <tr><td>Essertines-sur-Yverdon</td><td>3</td></tr>
-<tr><td>Etagnières</td><td>2</td></tr>
-<tr><td>Etoy</td><td>2</td></tr>
+<tr><td>Étagnières</td><td>2</td></tr>
+<tr><td>Étoy</td><td>2</td></tr>
 <tr><td>Eysins</td><td>2</td></tr>
 <tr><td>Faoug</td><td>3</td></tr>
 <tr><td>Ferreyres</td><td>3</td></tr>
@@ -2012,7 +2004,7 @@ Annexe 1*[^t-1]*
 <tr><td>Ormont-Dessous</td><td>3</td></tr>
 <tr><td>Ormont-Dessus</td><td>3</td></tr>
 <tr><td>Orny</td><td>3</td></tr>
-<tr><td>Oron</td><td>2</td></tr>
+<tr><td>Oron</td><td>3</td></tr>
 <tr><td>Orzens</td><td>3</td></tr>
 <tr><td>Oulens-sous-Echallens</td><td>3</td></tr>
 <tr><td>Pailly</td><td>3</td></tr>
@@ -2052,7 +2044,6 @@ Annexe 1*[^t-1]*
 <tr><td>Saint-Cergue</td><td>3</td></tr>
 <tr><td>Saint-George</td><td>3</td></tr>
 <tr><td>Saint-Livres</td><td>3</td></tr>
-<tr><td>Saint-Légier-La Chiésaz</td><td>2</td></tr>
 <tr><td>Saint-Oyens</td><td>3</td></tr>
 <tr><td>Saint-Prex</td><td>2</td></tr>
 <tr><td>Saint-Saphorin (Lavaux)</td><td>2</td></tr>
@@ -2147,8 +2138,8 @@ Annexe 1*[^t-1]*
 <tr><td>Embd</td><td>3</td></tr>
 <tr><td>Ergisch</td><td>3</td></tr>
 <tr><td>Ernen</td><td>3</td></tr>
-<tr><td>Evionnaz</td><td>3</td></tr>
-<tr><td>Evolène</td><td>3</td></tr>
+<tr><td>Évionnaz</td><td>3</td></tr>
+<tr><td>Évolène</td><td>3</td></tr>
 <tr><td>Ferden</td><td>3</td></tr>
 <tr><td>Fiesch</td><td>3</td></tr>
 <tr><td>Fieschertal</td><td>3</td></tr>
@@ -2381,28 +2372,28 @@ Annexe 1*[^t-1]*
 <tr><td>Vendlincourt</td><td>3</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2)
 
 ## Montants maximaux des communes
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFI du 11 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 740](https://fedlex.data.admin.ch/eli/oc/2021/740)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFI du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
 
 ### Bâle-Ville
 
 <table>
 <tr><td>Commune</td><td>Montants maximaux (en francs)</td></tr>
-<tr><td>Bettingen</td><td>Personne seule: 16 440 2 personnes: 19 440 3 personnes: 21 600 4 personnes et plus: 23 520</td></tr>
-<tr><td>Riehen</td><td>Personne seule: 16 440 2 personnes: 19 440 3 personnes: 21 600 4 personnes et plus: 23 520</td></tr>
+<tr><td>Bettingen</td><td>Personne seule: 17 580 2 personnes: 20 820 3 personnes: 23 100 4 personnes et plus: 25 200</td></tr>
+<tr><td>Riehen</td><td>Personne seule: 17 580 2 personnes: 20 820 3 personnes: 23 100 4 personnes et plus: 25 200</td></tr>
 </table>
 
 ### Neuchâtel
 
 <table>
 <tr><td>Commune</td><td>Montants maximaux (en francs)</td></tr>
-<tr><td>La Chaux-de-Fonds</td><td>Personne seule: 14 316 2 personnes: 17 016 3 personnes: 18 636 4 personnes et plus: 20 256</td></tr>
-<tr><td>Le Locle</td><td>Personne seule: 14 316 2 personnes: 17 016 3 personnes: 18 636 4 personnes et plus: 20 256</td></tr>
-<tr><td>Val-de-Ruz</td><td>Personne seule: 15 108 2 personnes: 17 964 3 personnes: 19 668 4 personnes et plus: 21 384</td></tr>
-<tr><td>Val-de-Travers</td><td>Personne seule: 14 316 2 personnes: 17 016 3 personnes: 18 636 4 personnes et plus: 20 256</td></tr>
+<tr><td>La Chaux-de-Fonds</td><td>Personne seule: 15 336 2 personnes: 18 204 3 personnes: 19 932 4 personnes et plus: 21 708</td></tr>
+<tr><td>Le Locle</td><td>Personne seule: 15 336 2 personnes: 18 204 3 personnes: 19 932 4 personnes et plus: 21 708</td></tr>
+<tr><td>Val-de-Ruz</td><td>Personne seule: 16 368 2 personnes: 19 416 3 personnes: 21 264 4 personnes et plus: 23 160</td></tr>
+<tr><td>Val-de-Travers</td><td>Personne seule: 15 336 2 personnes: 18 204 3 personnes: 19 932 4 personnes et plus: 21 708</td></tr>
 </table>

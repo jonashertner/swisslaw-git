@@ -3,18 +3,18 @@ sr: "831.301.114"
 title: "Verordnung des EDI vom 14. Juni 2021 über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung und dem Bundesgesetz über Überbrückungsleistungen für ältere Arbeitslose"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-375-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-375-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung und dem Bundesgesetz über Überbrückungsleistungen für ältere Arbeitslose
 
-vom 14. Juni 2021 (Stand am 1. Januar 2022)
+vom 14. Juni 2021 (Stand am 1. Januar 2023)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -39,7 +39,11 @@ Die gestützt auf einen Antrag nach Artikel 10 Absatz 1<sup>sexies</sup> ELG ode
 
 #### Art. 3
 
-Der Monat Mai des Vorjahres ist massgebend für die Prüfung, ob in der betreffenden Gemeinde im Falle einer Senkung der Höchstbeträge der Mietzins von 90 Prozent der Bezügerinnen und Bezüger von Ergänzungsleistungen beziehungsweise von Überbrückungsleistungen gedeckt ist (Art. 10 Abs. 1<sup>sexies</sup> ELG und Art. 9 Abs. 6 ÜLG).
+[^3-1]
+
+Der Monat Mai des Vorjahres ist massgebend für die Prüfung, ob in der betreffenden Gemeinde im Falle einer Senkung der Höchstbeträge der Mietzins von 90 Prozent der Bezügerinnen und Bezüger von Ergänzungsleistungen und der Bezügerinnen und Bezüger von Überbrückungsleistungen gedeckt ist (Art. 10 Abs. 1<sup>sexies</sup> ELG und Art. 9 Abs. 6 ÜLG).
+
+[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
 
 #### Art. 4
 
@@ -63,19 +67,18 @@ Die Verordnung des EDI vom 12. März 2020[^5-1] über die Zuteilung der Gemeinde
 
 Diese Verordnung tritt am 1. Juli 2021 in Kraft.
 
-Anhang I*[^t-1]*
+Anhang I[^t-1]
 
 (Art. 1)
 
 ## Regionen
 
-[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 740](https://fedlex.data.admin.ch/eli/oc/2021/740)).
+[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
 
 ### Zürich
 
 <table>
 <tr><th>Gemeinde</th><th>Region</th></tr>
-<tr><td>Adlikon</td><td>3</td></tr>
 <tr><td>Adliswil</td><td>2</td></tr>
 <tr><td>Aesch (ZH)</td><td>3</td></tr>
 <tr><td>Aeugst am Albis</td><td>3</td></tr>
@@ -139,7 +142,6 @@ Anhang I*[^t-1]*
 <tr><td>Hochfelden</td><td>2</td></tr>
 <tr><td>Hombrechtikon</td><td>2</td></tr>
 <tr><td>Horgen</td><td>2</td></tr>
-<tr><td>Humlikon</td><td>3</td></tr>
 <tr><td>Höri</td><td>2</td></tr>
 <tr><td>Hüntwangen</td><td>3</td></tr>
 <tr><td>Hüttikon</td><td>2</td></tr>
@@ -798,7 +800,7 @@ Anhang I*[^t-1]*
 <tr><td>Belfaux</td><td>2</td></tr>
 <tr><td>Belmont-Broye</td><td>3</td></tr>
 <tr><td>Billens-Hennens</td><td>3</td></tr>
-<tr><td>Bois-d'Amont</td><td>3</td></tr>
+<tr><td>Bois-d’Amont</td><td>3</td></tr>
 <tr><td>Bossonnens</td><td>2</td></tr>
 <tr><td>Botterens</td><td>3</td></tr>
 <tr><td>Broc</td><td>2</td></tr>
@@ -1197,9 +1199,8 @@ Anhang I*[^t-1]*
 <tr><td>Appenzell</td><td>2</td></tr>
 <tr><td>Gonten</td><td>3</td></tr>
 <tr><td>Oberegg</td><td>3</td></tr>
-<tr><td>Rüte</td><td>3</td></tr>
 <tr><td>Schlatt-Haslen</td><td>3</td></tr>
-<tr><td>Schwende</td><td>3</td></tr>
+<tr><td>Schwende-Rüte</td><td>3</td></tr>
 </table>
 
 ### St. Gallen
@@ -1231,7 +1232,6 @@ Anhang I*[^t-1]*
 <tr><td>Gommiswald</td><td>3</td></tr>
 <tr><td>Gossau (SG)</td><td>2</td></tr>
 <tr><td>Grabs</td><td>2</td></tr>
-<tr><td>Hemberg</td><td>3</td></tr>
 <tr><td>Häggenschwil</td><td>3</td></tr>
 <tr><td>Jonschwil</td><td>2</td></tr>
 <tr><td>Kaltbrunn</td><td>3</td></tr>
@@ -1248,7 +1248,6 @@ Anhang I*[^t-1]*
 <tr><td>Niederbüren</td><td>3</td></tr>
 <tr><td>Niederhelfenschwil</td><td>3</td></tr>
 <tr><td>Oberbüren</td><td>2</td></tr>
-<tr><td>Oberhelfenschwil</td><td>3</td></tr>
 <tr><td>Oberriet (SG)</td><td>2</td></tr>
 <tr><td>Oberuzwil</td><td>2</td></tr>
 <tr><td>Pfäfers</td><td>3</td></tr>
@@ -1463,7 +1462,7 @@ Anhang I*[^t-1]*
 <tr><td>Hausen (AG)</td><td>2</td></tr>
 <tr><td>Hellikon</td><td>2</td></tr>
 <tr><td>Hendschiken</td><td>2</td></tr>
-<tr><td>Herznach</td><td>2</td></tr>
+<tr><td>Herznach-Ueken</td><td>2</td></tr>
 <tr><td>Hirschthal</td><td>2</td></tr>
 <tr><td>Holderbank (AG)</td><td>2</td></tr>
 <tr><td>Holziken</td><td>2</td></tr>
@@ -1564,7 +1563,6 @@ Anhang I*[^t-1]*
 <tr><td>Thalheim (AG)</td><td>3</td></tr>
 <tr><td>Turgi</td><td>2</td></tr>
 <tr><td>Tägerig</td><td>2</td></tr>
-<tr><td>Ueken</td><td>2</td></tr>
 <tr><td>Uerkheim</td><td>3</td></tr>
 <tr><td>Uezwil</td><td>3</td></tr>
 <tr><td>Unterentfelden</td><td>2</td></tr>
@@ -1750,9 +1748,7 @@ Anhang I*[^t-1]*
 <tr><td>Maggia</td><td>3</td></tr>
 <tr><td>Magliaso</td><td>2</td></tr>
 <tr><td>Manno</td><td>2</td></tr>
-<tr><td>Maroggia</td><td>2</td></tr>
 <tr><td>Massagno</td><td>2</td></tr>
-<tr><td>Melano</td><td>2</td></tr>
 <tr><td>Melide</td><td>2</td></tr>
 <tr><td>Mendrisio</td><td>2</td></tr>
 <tr><td>Mergoscia</td><td>3</td></tr>
@@ -1781,7 +1777,6 @@ Anhang I*[^t-1]*
 <tr><td>Riva San Vitale</td><td>2</td></tr>
 <tr><td>Riviera</td><td>2</td></tr>
 <tr><td>Ronco sopra Ascona</td><td>2</td></tr>
-<tr><td>Rovio</td><td>2</td></tr>
 <tr><td>Sant'Antonino</td><td>2</td></tr>
 <tr><td>Savosa</td><td>2</td></tr>
 <tr><td>Serravalle</td><td>3</td></tr>
@@ -1792,6 +1787,7 @@ Anhang I*[^t-1]*
 <tr><td>Torricella-Taverne</td><td>2</td></tr>
 <tr><td>Tresa</td><td>2</td></tr>
 <tr><td>Vacallo</td><td>2</td></tr>
+<tr><td>Val Mara</td><td>2</td></tr>
 <tr><td>Vernate</td><td>2</td></tr>
 <tr><td>Verzasca</td><td>3</td></tr>
 <tr><td>Vezia</td><td>2</td></tr>
@@ -1826,7 +1822,7 @@ Anhang I*[^t-1]*
 <tr><td>Bex</td><td>2</td></tr>
 <tr><td>Bioley-Magnoux</td><td>3</td></tr>
 <tr><td>Bière</td><td>3</td></tr>
-<tr><td>Blonay</td><td>2</td></tr>
+<tr><td>Blonay-Saint-Légier</td><td>2</td></tr>
 <tr><td>Bofflens</td><td>3</td></tr>
 <tr><td>Bogis-Bossey</td><td>2</td></tr>
 <tr><td>Bonvillars</td><td>3</td></tr>
@@ -1907,7 +1903,6 @@ Anhang I*[^t-1]*
 <tr><td>Ecublens (VD)</td><td>2</td></tr>
 <tr><td>Epalinges</td><td>2</td></tr>
 <tr><td>Ependes (VD)</td><td>3</td></tr>
-<tr><td>Essertes</td><td>3</td></tr>
 <tr><td>Essertines-sur-Rolle</td><td>3</td></tr>
 <tr><td>Essertines-sur-Yverdon</td><td>3</td></tr>
 <tr><td>Etagnières</td><td>2</td></tr>
@@ -2008,7 +2003,7 @@ Anhang I*[^t-1]*
 <tr><td>Ormont-Dessous</td><td>3</td></tr>
 <tr><td>Ormont-Dessus</td><td>3</td></tr>
 <tr><td>Orny</td><td>3</td></tr>
-<tr><td>Oron</td><td>2</td></tr>
+<tr><td>Oron</td><td>3</td></tr>
 <tr><td>Orzens</td><td>3</td></tr>
 <tr><td>Oulens-sous-Echallens</td><td>3</td></tr>
 <tr><td>Pailly</td><td>3</td></tr>
@@ -2048,7 +2043,6 @@ Anhang I*[^t-1]*
 <tr><td>Saint-Cergue</td><td>3</td></tr>
 <tr><td>Saint-George</td><td>3</td></tr>
 <tr><td>Saint-Livres</td><td>3</td></tr>
-<tr><td>Saint-Légier-La Chiésaz</td><td>2</td></tr>
 <tr><td>Saint-Oyens</td><td>3</td></tr>
 <tr><td>Saint-Prex</td><td>2</td></tr>
 <tr><td>Saint-Saphorin (Lavaux)</td><td>2</td></tr>
@@ -2377,9 +2371,9 @@ Anhang I*[^t-1]*
 <tr><td>Vendlincourt</td><td>3</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
-[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 740](https://fedlex.data.admin.ch/eli/oc/2021/740)).
+[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 612](https://fedlex.data.admin.ch/eli/oc/2022/612)).
 
 (Art. 2)
 
@@ -2389,16 +2383,16 @@ Anhang 2*[^t-2]*
 
 <table>
 <tr><td>Gemeinde</td><td>Höchstbeträge (in Franken)</td></tr>
-<tr><td>Bettingen</td><td>1 Person: 16 440 2 Personen: 19 440 3 Personen: 21 600 4 Personen und mehr: 23 520</td></tr>
-<tr><td>Riehen</td><td>1 Person: 16 440 2 Personen: 19 440 3 Personen: 21 600 4 Personen und mehr: 23 520</td></tr>
+<tr><td>Bettingen</td><td>1 Person: 17 580 2 Personen: 20 820 3 Personen: 23 100 4 Personen und mehr: 25 200</td></tr>
+<tr><td>Riehen</td><td>1 Person: 17 580 2 Personen: 20 820 3 Personen: 23 100 4 Personen und mehr: 25 200</td></tr>
 </table>
 
 ### Neuenburg
 
 <table>
 <tr><td>Gemeinde</td><td>Höchstbeträge (in Franken)</td></tr>
-<tr><td>La Chaux-de-Fonds</td><td>1 Person: 14 316 2 Personen: 17 016 3 Personen: 18 636 4 Personen und mehr: 20 256</td></tr>
-<tr><td>Le Locle</td><td>1 Person: 14 316 2 Personen: 17 016 3 Personen: 18 636 4 Personen und mehr: 20 256</td></tr>
-<tr><td>Val-de-Ruz</td><td>1 Person: 15 108 2 Personen: 17 964 3 Personen: 19 668 4 Personen: 21 384</td></tr>
-<tr><td>Val-de-Travers</td><td>1 Person: 14 316 2 Personen: 17 016 3 Personen: 18 636 4 Personen und mehr: 20 256</td></tr>
+<tr><td>La Chaux-de-Fonds</td><td>1 Person: 15 336 2 Personen: 18 204 3 Personen: 19 932 4 Personen und mehr: 21 708</td></tr>
+<tr><td>Le Locle</td><td>1 Person: 15 336 2 Personen: 18 204 3 Personen: 19 932 4 Personen und mehr: 21 708</td></tr>
+<tr><td>Val-de-Ruz</td><td>1 Person: 16 368 2 Personen: 19 416 3 Personen: 21 264 4 Personen: 23 160</td></tr>
+<tr><td>Val-de-Travers</td><td>1 Person: 15 336 2 Personen: 18 204 3 Personen: 19 932 4 Personen und mehr: 21 708</td></tr>
 </table>
