@@ -4,11 +4,11 @@ title: "Verordnung vom 31. Oktober 2018 über den Schutz von Pflanzen vor besond
 short: PGesV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/682"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-682-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-682-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20220101/de"
 
 (Pflanzengesundheitsverordnung, PGesV)
 
-vom 31. Oktober 2018 (Stand am 1. Januar 2022)
+vom 31. Oktober 2018 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -110,7 +110,7 @@ Wo diese Verordnung den Erlass von Bestimmungen an das zuständige Bundesamt del
 - a. für Massnahmen gestützt auf das Waldgesetz vom 4. Oktober 1991: das Bundesamt für Umwelt (BAFU);
 - b. für Massnahmen gestützt auf das Landwirtschaftsgesetz vom 29. April 1998: das Bundesamt für Landwirtschaft (BLW).
 
-## 2. Kapitel: Bestimmung von Quarantäneorganismen, potenziellen Quarantäneorganismen und geregelten Nicht-Quarantäneorganismen****
+## 2. Kapitel: Bestimmung von Quarantäneorganismen, potenziellen Quarantäneorganismen und geregelten Nicht-Quarantäneorganismen
 
 [^chap2-1]
 
@@ -161,7 +161,11 @@ Ein geregelter Nicht-Quarantäneorganismus ist ein besonders gefährlicher Schad
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
 
-## 3. Kapitel: Verbot des Umgangs mit Quarantäneorganismen
+## 3. Kapitel: Verbot des Umgangs mit Quarantäneorganismen und potenziellen Quarantäneorganismen
+
+[^chap3-1]
+
+[^chap3-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
 
 #### Art. 6
 
@@ -197,7 +201,30 @@ Die Bewilligung regelt insbesondere:
 - e. Auflage, dass bei der Einfuhr und beim Standortwechsel die Bewilligung der Sendung beiliegen muss;
 - f. Auflagen, um das Risiko einer Ansiedlung und Ausbreitung des Organismus zu minimieren.
 
-## 4. Kapitel: Massnahmen gegen die Einschleppung und die Ausbreitung von Quarantäneorganismen
+#### Art. 7a
+
+**Bewilligungen für den Umgang mit potenziellen Quarantäneorganismen ausserhalb geschlossener Systeme**[^7a-1]
+
+<sup>1</sup> Hat das zuständige Bundesamt gestützt auf Artikel 23 Buchstabe a ein Verbot des Umgangs mit potenziellen Quarantäneorganismen festgelegt, so kann es, sofern eine Ausbreitung ausgeschlossen werden kann, auf Gesuch hin den Umgang mit potenziellen Quarantäneorganismen ausserhalb geschlossener Systeme zu den Zwecken nach Artikel 7 Absatz 1 bewilligen.
+
+<sup>2</sup>
+
+Die Bewilligung regelt insbesondere:
+
+- a. Menge der Organismen, mit denen umgegangen werden darf;
+- b. Dauer der Bewilligung;
+- c. Ort und Bedingungen, unter denen die Organismen aufzubewahren sind;
+- d. wissenschaftliche und technische Fähigkeiten, über die das ausführende Personal verfügen muss;
+- e. Auflage, dass bei der Einfuhr und beim Standortwechsel die Bewilligung der Sendung beiliegen muss;
+- f. Auflagen, um das Risiko einer Ansiedlung und Ausbreitung des Organismus zu minimieren.
+
+[^7a-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
+
+## 4. Kapitel: Massnahmen gegen die Einschleppung und die Ausbreitung von Quarantäneorganismen und potenziellen Quarantäneorganismen
+
+[^chap4-1]
+
+[^chap4-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
 
 ### 1. Abschnitt: Meldepflicht
 
@@ -474,7 +501,7 @@ Sie heben ein Schutzgebiet nach Anhörung des betroffenen Kantons auf, wenn:
 
 In Schutzgebieten gelten die Pflichten nach den Artikeln 8–11 auch in Bezug auf die betreffenden Organismen.
 
-## 5. Kapitel:**** Massnahmen gegen geregelte Nicht-Quarantäneorganismen
+## 5. Kapitel: Massnahmen gegen geregelte Nicht-Quarantäneorganismen
 
 [^chap5-1]
 
@@ -1047,9 +1074,10 @@ Das WBF und das UVEK legen fest, welche Waren nur in Verkehr gebracht werden dü
 Kein Pflanzenpass ist erforderlich:
 
 - a. für das Inverkehrbringen von Verpackungsmaterial aus Holz, das mit einer Markierung nach Artikel 35 Absatz 1 Buchstabe b versehen ist;
-- b. für das Inverkehrbringen von Waren direkt an Endverbraucherinnen und Endverbraucher, welche die Waren nicht zu beruflichen oder gewerblichen Zwecken verwenden; ein Pflanzenpass ist hingegen erforderlich, wenn die Waren mit Fernkommunikationsmitteln bestellt worden sind.[^60-1]
+- b.[^60-1] für das Inverkehrbringen von Waren direkt an Endverbraucherinnen und Endverbraucher, welche die Waren nicht zu beruflichen oder gewerblichen Zwecken verwenden; ein Pflanzenpass ist hingegen erforderlich, wenn die Waren mit Fernkommunikationsmitteln bei einem Betrieb bestellt werden, der gewerbsmässig mit Waren umgeht, und via Post oder einen beauftragten Kurierdienst verschickt werden.[^60-2]
 
-[^60-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^60-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
+[^60-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
 
 #### Art. 61
 
@@ -1223,6 +1251,8 @@ Für zum Anpflanzen bestimmte Pflanzen, die als anerkanntes Material nach Artike
 - a. die Elemente nach Anhang 7 Ziffer 3, wenn es sich um einen Pflanzenpass für die Einfuhr von Waren aus der EU oder für das Inverkehrbringen von Waren handelt; oder
 - b. die Elemente nach Anhang 7 Ziffer 4, wenn es sich um einen Pflanzenpass für das Überführen von Waren in Schutzgebiete oder für das Inverkehrbringen von Waren in Schutzgebieten handelt.
 
+<sup>3bis</sup> Das zuständige Bundesamt kann festlegen, dass der Pflanzenpass weitere Elemente enthalten muss für Waren, die einen Befallsherd oder eine Pufferzone nach Artikel 15 oder eine Befallszone oder eine Pufferzone nach Artikel 16 nicht verlassen dürfen.[^75-2]
+
 <sup>4</sup>
 
 Der Pflanzenpass muss so ausgestaltet sein, dass er:
@@ -1236,15 +1266,16 @@ Der Pflanzenpass muss so ausgestaltet sein, dass er:
 
 Der Rückverfolgbarkeitscode nach Anhang 7 Ziffer 1.1.5 ist nicht erforderlich für zum Anpflanzen bestimmte Pflanzen, wenn:
 
-- a.[^75-2] sie für Endverbraucherinnen und Endverbraucher vorbereitet und verkaufsfertig sind, welche die Waren nicht zu beruflichen oder gewerblichen Zwecken verwenden; und
+- a.[^75-3] sie für Endverbraucherinnen und Endverbraucher vorbereitet und verkaufsfertig sind, welche die Waren nicht zu beruflichen oder gewerblichen Zwecken verwenden; und
 - b. von ihnen keine Gefahr der Ausbreitung von Quarantäneorganismen oder potenziellen Quarantäneorganismen ausgeht.
 
 <sup>7</sup> Das WBF und das UVEK legen fest, für welche Typen und Arten von Pflanzen die Ausnahme nach Absatz 6 nicht gilt.
 
 [^75-1]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^75-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^75-2]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
+[^75-3]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
 
-### 6. Abschnitt:**** Andere Atteste für die Umsetzung von Massnahmen
+### 6. Abschnitt: Andere Atteste für die Umsetzung von Massnahmen
 
 [^chap7-sec6-1]
 
@@ -1359,13 +1390,14 @@ Sie haben zudem die folgenden Pflichten:
 - d. Sie überprüfen, ob den von ihnen erworbenen Waren ein Pflanzenpass beiliegt, der den Vorschriften entspricht.
 - e.[^80-2] Sie weisen dem EPSD regelmässig nach, dass sie über die pflanzengesundheitlichen Kenntnisse nach Artikel 77 Absatz 3 Buchstaben b und c verfügen.
 
-<sup>4</sup> Betriebe, welche Waren nach Artikel 60 produzieren, in Verkehr bringen und für diese einen Pflanzenpass ausstellen, müssen dem EPSD jährlich die Produktionsparzellen und die Produktionseinheiten und die dort produzierten Waren melden.
+<sup>4</sup> Sie müssen dem EPSD jährlich die Produktionsparzellen und die Produktionseinheiten sowie die dort produzierten Waren nach Artikel 60 innerhalb der vom EPSD festgelegten Frist melden. Eine Meldung ist auch nötig, wenn ein Betrieb im betreffenden Jahr keine solchen Waren produziert oder in Verkehr bringt oder für keine Waren einen Pflanzenpass ausstellt.[^80-3]
 
-<sup>5</sup> Das WBF und das UVEK legen fest, wie häufig und in welcher Form der Nachweis nach Absatz 3 Buchstabe e zu erbringen ist. Sie können insbesondere vorsehen, dass der Nachweis durch die Teilnahme an einem Kurs oder das Bestehen einer Prüfung erbracht werden muss.[^80-3]
+<sup>5</sup> Das WBF und das UVEK legen fest, wie häufig und in welcher Form der Nachweis nach Absatz 3 Buchstabe e zu erbringen ist. Sie können insbesondere vorsehen, dass der Nachweis durch die Teilnahme an einem Kurs oder das Bestehen einer Prüfung erbracht werden muss.[^80-4]
 
 [^80-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 [^80-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
-[^80-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^80-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
+[^80-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 #### Art. 81
 
@@ -1735,7 +1767,11 @@ Die zuständigen Bundesämter können dem BAZG, den zuständigen kantonalen Dien
 
 #### Art. 107
 
-Gegen Verfügungen, die gestützt auf Artikel 10 Absatz 4, 13 Absatz 4, 51, 55 Absätze 4 und 5 oder 56 Absatz 2 erlassen werden, kann innert zehn Tagen beim zuständigen Bundesamt Einsprache erhoben werden.
+[^107-1]
+
+Gegen Verfügungen, die gestützt auf Artikel 10 Absatz 4, 13 Absatz 4, 51, 55 Absätze 4 und 5 oder 56 Absatz 2 erlassen werden, kann innert zehn Tagen beim zuständigen Bundesamt Einsprache erhoben werden. Dies gilt auch für Verfügungen, die gestützt auf Bestimmungen erlassen werden, welche vom zuständigen Bundesamt nach Artikel 23 Buchstabe e oder g festgelegt worden sind.
+
+[^107-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
 
 ## 13. Kapitel: Schlussbestimmungen
 
@@ -2085,7 +2121,7 @@ Mit dem gegenständigen Zeugnis wird seitens des ……………… (Name des Pf
 
 [\* zutreffende ◻ Kästchen ankreuzen; \*\* optionale Klausel]
 
-Anhang 6*[^t-1]*
+Anhang 6[^t-1]
 
 (Art. 72 und 73)
 
@@ -2101,12 +2137,12 @@ Anhang 6*[^t-1]*
 <tr><td colspan="2">1 Name und Adresse des Exporteurs</td><td colspan="3">2 **Pflanzengesundheitszeugnis** **Nr.**</td></tr>
 <tr><td colspan="2">3 Name und Adresse des angegebenen Empfängers</td><td colspan="3">4 **Pflanzenschutzdienst von** an den (die) Pflanzenschutzdienst(e) von</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Ursprungsort</td></tr>
-<tr><td colspan="2">6 Angegebene(s) Transportmittel</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20220101/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Angegebene(s) Transportmittel</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20230101/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Angegebene Eingangsstelle</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Unterscheidungsmerkmale: Zahl und Beschreibung der Packstücke; Art der Ware; botanischer Name der Pflanzen</td><td>9 Angegebene Menge</td></tr>
 <tr><td colspan="5">10 Hiermit wird bestätigt, dass die oben beschriebenen Pflanzen, Pflanzenerzeugnisse oder anderen geregelten Gegenstände: – nach geeigneten Verfahren amtlich untersucht und/oder getestet wurden und – für frei von Quarantäneorganismen, die von der einführenden Vertragspartei benannt wurden, befunden wurden und dass sie die geltenden phytosanitären Vorschriften der einführenden Vertragspartei, einschliesslich der Vorschriften für geregelte Nicht-Quarantäneorganismen, entsprechen. Die beschriebenen Pflanzen, Pflanzenerzeugnisse oder anderen geregelten Gegenstände gelten als praktisch frei von anderen Schadorganismen.</td></tr>
 <tr><td colspan="5">11 Zusätzliche Erklärung</td></tr>
-<tr><td colspan="3">**BEHANDLUNG ZUR ENTSEUCHUNG UND/ODER DESINFEKTION**</td><td colspan="2">18 Ausstellungsort</td></tr>
+<tr><td colspan="3">**BEHANDLUNG ZUR** **ENTSEUCHUNG UND/ODER DESINFEKTION**</td><td colspan="2">18 Ausstellungsort</td></tr>
 <tr><td>12 Datum</td><td colspan="2">13 Behandlung</td><td colspan="2"></td></tr>
 <tr><td colspan="3">14 Mittel (Wirkstoff)</td><td colspan="2">Datum Name des Kontrollorgans</td></tr>
 <tr><td>15 Dauer und Temperatur</td><td colspan="2">16 Konzentration</td><td colspan="2"></td></tr>
@@ -2120,15 +2156,15 @@ Mit dem gegenständigen Zeugnis wird seitens des Eidgenössischen Pflanzenschutz
 (gemäss Internationalem Pflanzenschutzübereinkommen vom 6. Dez. 1951)
 
 <table>
-<tr><td colspan="2">1 Name und Adresse des Exporteurs</td><td colspan="3">2 **Pflanzengesundheitszeugnis für die Wiederausfuhr** **Nr.**</td></tr>
+<tr><td colspan="2">1 Name und Adresse des Exporteurs</td><td colspan="3">2 **Pflanzengesundheitszeugnis** **für die Wiederausfuhr** **Nr.**</td></tr>
 <tr><td colspan="2">3 Name und Adresse des angegebenen Empfängers</td><td colspan="3">4 **Pflanzenschutzdienst von** an den (die) Pflanzenschutzdienst(e) von</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Ursprungsort</td></tr>
-<tr><td colspan="2">6 Angegebene(s) Transportmittel</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20220101/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Angegebene(s) Transportmittel</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20230101/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Angegebene Eingangsstelle</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Unterscheidungsmerkmale: Zahl und Beschreibung der Packstücke; Art der Ware; botanischer Name der Pflanzen</td><td>9 Angegebene Menge</td></tr>
 <tr><td colspan="5">10 Hiermit wird bestätigt, dass die oben beschriebenen Pflanzen, Pflanzenerzeugnisse oder anderen geregelten Gegenstände aus ……………… (Ursprungsvertragspartei) nach ……………… (wiederausführende Vertragspartei) eingeführt wurden und dass ihnen das Pflanzengesundheitszeugnis Nr. ……………, – dessen (\*) Original ◻ beglaubigte Kopie ◻ in der Anlage vorliegt, beigefügt war – dass sie (\*) verpackt ◻ umgepackt ◻ in den ursprünglichen ◻ neuen ◻ Behältern sind und – dass sie (\*) aufgrund des ursprünglichen Pflanzengesundheitszeugnisses ◻ und einer zusätzlichen Überprüfung ◻ als mit den derzeit geltenden phytosanitären Vorschriften der einführenden Vertragspartei konform befunden wurden und – dass die Sendung während der Lagerung in ……………… (wiederausführende Vertragspartei) nicht dem Risiko eines Befalls oder einer Infizierung ausgesetzt war. (\*) Zutreffendes ankreuzen</td></tr>
 <tr><td colspan="5">11 Zusätzliche Erklärung</td></tr>
-<tr><td colspan="3">**BEHANDLUNG ZUR ENTSEUCHUNG UND/ODER DESINFEKTION**</td><td colspan="2">18 Ausstellungsort</td></tr>
+<tr><td colspan="3">**BEHANDLUNG ZUR** **ENTSEUCHUNG UND/ODER DESINFEKTION**</td><td colspan="2">18 Ausstellungsort</td></tr>
 <tr><td>12 Datum</td><td colspan="2">13 Behandlung</td><td colspan="2"></td></tr>
 <tr><td colspan="3">14 Mittel (Wirkstoff)</td><td colspan="2">Datum Name des Kontrollorgans</td></tr>
 <tr><td>15 Dauer und Temperatur</td><td colspan="2">16 Konzentration</td><td colspan="2"></td></tr>
@@ -2140,7 +2176,7 @@ Mit dem gegenständigen Zeugnis wird seitens des Eidgenössischen Pflanzenschutz
 ### 3. Muster für das Vorausfuhrzeugnis
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20220101/de/xml/image/image1.png)1 **Vorausfuhrzeugnis** **Nr. CH / Interne individuelle Referenznummer** Dieses Dokument wird von der zuständigen Behörde der Schweiz gemäss der Pflanzengesundheitsverordnung (SR 916.20) auf Antrag eines Unternehmers ausgestellt, um den zuständigen Behörden von EU-Mitgliedstaaten mitzuteilen, dass bestimmte Pflanzenschutzverfahren angewendet wurden.</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20230101/de/xml/image/image2.png)1 **Vorausfuhrzeugnis** **Nr. CH / Interne individuelle Referenznummer** Dieses Dokument wird von der zuständigen Behörde der Schweiz gemäss der Pflanzengesundheitsverordnung (SR 916.20) auf Antrag eines Unternehmers ausgestellt, um den zuständigen Behörden von EU-Mitgliedstaaten mitzuteilen, dass bestimmte Pflanzenschutzverfahren angewendet wurden.</td></tr>
 <tr><td colspan="3">2 Name des Ursprungslands und Name der erklärenden zuständigen Behörde (und falls erwünscht, Logo der zuständigen Behörde des Ursprungslands)</td></tr>
 <tr><td colspan="3">3 Unternehmer</td></tr>
 <tr><td colspan="2">4 Beschreibung der Sendung</td><td>5 Angegebene Menge</td></tr>
