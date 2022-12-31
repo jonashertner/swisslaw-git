@@ -3,18 +3,18 @@ sr: "814.018.21"
 title: Verordnung des UVEK vom 15. Februar 2000 über die Abgeltung der Kantone für die Unterstützung des Vollzugs der Verordnung über die Lenkungsabgabe auf flüchtigen organischen Verbindungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/149"
 language: de
-version: 2015-01-01
+version: 2023-01-01
 adopted: 2000-02-15
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/149/20150101/de/xml/fedlex-data-admin-ch-eli-cc-2000-149-20150101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/149/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/149/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2000-149-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/149/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Abgeltung der Kantone für die Unterstützung des Vollzugs der Verordnung über die Lenkungsabgabe auf flüchtigen organischen Verbindungen
 
-vom 15. Februar 2000 (Stand am 1. Januar 2015)[^t-1]
+vom 15. Februar 2000 (Stand am 1. Januar 2023)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 18. März 2013, in Kraft seit 1. Jan. 2013 ([AS 2013 1027](https://fedlex.data.admin.ch/eli/oc/2013/223)).
 
@@ -66,41 +66,41 @@ Die Auszahlung erfolgt jeweils per Ende Juni.
 
 Diese Verordnung tritt am 1. März 2000 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 3 Abs. 1)
 
 ## Jährliche Abgeltung an die Kantone und an das Fürstentum Liechtenstein
 
-[^t-2]: Fassung gemäss Ziff. II der V des UVEK vom 25. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4387](https://fedlex.data.admin.ch/eli/oc/2014/722)).
+[^t-2]: Fassung gemäss Ziff. I der V des UVEK vom 17. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 727](https://fedlex.data.admin.ch/eli/oc/2022/727)).
 
 <table>
-<tr><td>Kanton</td><td>Jährliche Abgeltung in Franken</td></tr>
-<tr><td>AG</td><td>262 000</td></tr>
-<tr><td>AI</td><td>2 000</td></tr>
+<tr><th>Kanton</th><th>Jährliche Abgeltung in Franken</th></tr>
+<tr><td>AG</td><td>231 000</td></tr>
+<tr><td>AI</td><td>0</td></tr>
 <tr><td>AR</td><td>12 000</td></tr>
-<tr><td>BE</td><td>170 000</td></tr>
-<tr><td>BL</td><td>187 000</td></tr>
-<tr><td>BS</td><td>92 000</td></tr>
+<tr><td>BE</td><td>194 000</td></tr>
+<tr><td>BL</td><td>266 000</td></tr>
+<tr><td>BS</td><td>74 000</td></tr>
 <tr><td>FL</td><td>6 000</td></tr>
-<tr><td>FR</td><td>39 000</td></tr>
-<tr><td>GE</td><td>47 000</td></tr>
-<tr><td>GL</td><td>27 000</td></tr>
-<tr><td>GR</td><td>8 000</td></tr>
-<tr><td>JU</td><td>29 000</td></tr>
-<tr><td>LU</td><td>79 000</td></tr>
-<tr><td>NE</td><td>83 000</td></tr>
-<tr><td>NW</td><td>5 000</td></tr>
+<tr><td>FR</td><td>50 000</td></tr>
+<tr><td>GE</td><td>50 000</td></tr>
+<tr><td>GL</td><td>29 000</td></tr>
+<tr><td>GR</td><td>10 000</td></tr>
+<tr><td>JU</td><td>51 000</td></tr>
+<tr><td>LU</td><td>65 000</td></tr>
+<tr><td>NE</td><td>55 000</td></tr>
+<tr><td>NW</td><td>6 000</td></tr>
 <tr><td>OW</td><td>13 000</td></tr>
-<tr><td>SG</td><td>176 000</td></tr>
-<tr><td>SH</td><td>36 000</td></tr>
-<tr><td>SO</td><td>81 000</td></tr>
-<tr><td>SZ</td><td>20 000</td></tr>
-<tr><td>TG</td><td>61 000</td></tr>
-<tr><td>TI</td><td>95 000</td></tr>
-<tr><td>UR</td><td>8 000</td></tr>
-<tr><td>VD</td><td>73 000</td></tr>
-<tr><td>VS</td><td>127 000</td></tr>
-<tr><td>ZG</td><td>30 000</td></tr>
-<tr><td>ZH</td><td>158 000</td></tr>
+<tr><td>SG</td><td>133 000</td></tr>
+<tr><td>SH</td><td>30 000</td></tr>
+<tr><td>SO</td><td>83 000</td></tr>
+<tr><td>SZ</td><td>22 000</td></tr>
+<tr><td>TG</td><td>63 000</td></tr>
+<tr><td>TI</td><td>91 000</td></tr>
+<tr><td>UR</td><td>7 000</td></tr>
+<tr><td>VD</td><td>68 000</td></tr>
+<tr><td>VS</td><td>155 000</td></tr>
+<tr><td>ZG</td><td>29 000</td></tr>
+<tr><td>ZH</td><td>133 000</td></tr>
 </table>
