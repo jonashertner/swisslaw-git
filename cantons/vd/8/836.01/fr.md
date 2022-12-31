@@ -4,7 +4,7 @@ number: "836.01"
 title: "LOI du 23.09.2008 d'application de la loi fédérale sur les allocations familiales et sur des prestations cantonales en faveur de la famille (LVLAFam)"
 short: LVLAFam
 language: fr
-version: 2021-07-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/836.01?id=ad74feb1-aa81-45b5-8ab6-2ac4dfc97cfb"
 ---
 
@@ -292,7 +292,7 @@ décrète
 
 <sup>1</sup> Les femmes salariées ou indépendantes, domiciliées depuis 9 mois au moins dans le canton, ont droit durant 98 jours aux prestations dont elles sont exclues par la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain en cas de service et de maternité (ci-après : LAPG) [^20-1] :
 
-- a. soit parce qu'elles ne remplissent pas les conditions d'assurance au sens de l'article 16b LAPG ;
+- a. soit parce qu'elles ne remplissent pas les conditions d'assurance au sens des articles 16bss LAPG.
 - b. soit parce qu'elles accueillent en vue d'adoption, après autorisation, un enfant de moins de 12 ans, autre que celui du conjoint.
 - c. si la naissance se produit avant terme, la durée requise de domicile est calculée conformément à l'article 2, alinéa 3, lettre b) OAFam[^20-2] .
 
@@ -300,7 +300,7 @@ décrète
 
 <sup>3</sup> Les dispositions de l'article 16c, alinéa 3 et 4 LAPG s'appliquent par analogie en cas d'hospitalisation du nouveau-né.
 
-<sup>3bis</sup> Le montant de l'allocation est calculée selon les modalités prévues par la LAPG, applicable par analogie.
+<sup>3bis</sup> Le montant de l'allocation est calculé selon les modalités prévues par la LAPG, applicable par analogie.
 
 <sup>4</sup> Si, malgré l'obtention des allocations de maternité ou de paternité fédérales selon la LAPG ou cantonales selon l'alinéa 1, le revenu familial net est inférieur aux limites fixées par la loi sur les prestations complémentaires AVS/AI (ci-après : PC AVS/AI), il peut être accordé une allocation complémentaire durant 6 mois. Cette allocation s'élève au moins au montant de l'allocation prévue pour les femmes sans activité lucrative.
 
@@ -362,7 +362,7 @@ décrète
 - d. de l'assurance militaire ;
 - e. de l'assurance-maladie ;
 - f. aux prestations versées par les employeurs.
-- g. aux allocations au sens des articles 16b à 16s LAPG. Le Conseil d'Etat règle les modalités de la coordination.
+- g. aux allocations au sens des articles 16b à 16x LAPG. Le Conseil d'Etat règle les modalités de coordination.
 
 <sup>2</sup> Les règles de surindemnisation de la LPGA [^23-1] sont applicables par analogie.
 
