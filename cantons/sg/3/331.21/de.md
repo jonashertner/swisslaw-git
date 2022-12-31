@@ -4,12 +4,12 @@ number: "331.21"
 title: Verordnung über die Pflegefinanzierung
 language: de
 version: 2023-01-01
-valid_until: 2024-12-31
+corrected: 2022-12-29
 version_adopted: 2022-12-20
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3438/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3431/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -223,9 +223,9 @@ als Verordnung:[^ingress-2]
 
 <table>
 <tr><th>Massnahmen</th><th>Franken je Pflegestunde</th></tr>
-<tr><td>Abklärung und Beratung</td><td>107.00</td></tr>
-<tr><td>Untersuchung und Behandlung</td><td>90.00</td></tr>
-<tr><td>Grundpflege</td><td>76.00</td></tr>
+<tr><td>Abklärung und Beratung</td><td>101.10</td></tr>
+<tr><td>Untersuchung und Behandlung</td><td>82.85</td></tr>
+<tr><td>Grundpflege</td><td>69.15</td></tr>
 </table>
 
 #### Art. 12
