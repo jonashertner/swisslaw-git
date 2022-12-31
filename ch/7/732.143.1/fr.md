@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2006 sur les qualifications du personnel des install
 short: OQPN
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/377"
 language: fr
-version: 2009-01-01
+version: 2023-01-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-377-20090101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20090101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-377-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20090101/fr"
 
 (OQPN)
 
-du 9 juin 2006 (Etat le 1<sup>er</sup> janvier 2009)
+du 9 juin 2006 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -54,7 +54,7 @@ Le responsable de l’exploitation technique au sens de l’art. 30, al. 4, de l
 <sup>3</sup> L’Inspection fédérale de la sécurité nucléaire (IFSN) décide au cas par cas de l’équivalence des diplômes étrangers de fin d’études.[^2-2]
 
 [^2-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^2-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^2-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 3
 
@@ -82,8 +82,8 @@ Les responsables d’unités organisationnelles au sens de l’art. 30, al. 2, O
 <sup>3</sup> L’IFSN décide au cas par cas de l’équivalence des diplômes étrangers de fin d’études. [^3-3]
 
 [^3-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^3-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^3-3]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^3-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^3-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 4
 
@@ -109,8 +109,8 @@ Le chargé de la sûreté doit disposer des qualifications suivantes:
 
 <sup>4</sup> L’IFSN décide au cas par cas de l’équivalence des diplômes étrangers de fin d’études. [^5-2]
 
-[^5-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^5-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^5-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 6
 
@@ -135,9 +135,9 @@ Un opérateur de réacteur doit disposer des qualifications suivantes:
 <sup>5</sup> Elle est chargée de régler dans une directive le détail des exigences auxquelles doivent satisfaire la formation de base en technique nucléaire et la formation spécifique pour l’installation.[^6-4]
 
 [^6-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^6-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^6-3]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^6-4]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^6-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^6-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^6-4]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 7
 
@@ -158,8 +158,8 @@ Le chef de quart doit disposer des qualifications suivantes:
 
 <sup>4</sup> L’IFSN est chargée de régler dans une directive le détail des exigences auxquelles doit satisfaire la formation spécifique pour l’installation.[^7-2]
 
-[^7-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^7-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^7-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 8
 
@@ -183,9 +183,9 @@ L’ingénieur de piquet doit disposer des qualifications suivantes:
 
 <sup>5</sup> Elle est chargée de régler dans une directive le détail des exigences auxquelles doit satisfaire la formation spécifique pour l’installation.[^8-3]
 
-[^8-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^8-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^8-3]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^8-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^8-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 9
 
@@ -217,8 +217,8 @@ Un opérateur d’installation doit disposer des qualifications suivantes:
 <sup>5</sup> Elle est chargée de régler dans une directive les exigences auxquelles doit satisfaire la formation spécifique pour l’installation et pour la fonction.[^10-3]
 
 [^10-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^10-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^10-3]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^10-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^10-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 11
 
@@ -232,7 +232,7 @@ Un opérateur d’installation doit disposer des qualifications suivantes:
 
 <sup>4</sup> L’IFSN est chargée de régler dans une directive les exigences auxquelles doit satisfaire le personnel de maintenance.[^11-1]
 
-[^11-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^11-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 12
 
@@ -244,7 +244,7 @@ Un opérateur d’installation doit disposer des qualifications suivantes:
 
 <sup>3</sup> L’IFSN est chargée de régler dans une directive les exigences auxquelles doit satisfaire le personnel technique et scientifique.[^12-1]
 
-[^12-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^12-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 13
 
@@ -256,7 +256,7 @@ Un opérateur d’installation doit disposer des qualifications suivantes:
 
 <sup>3</sup> L’IFSN est chargée de régler dans une directive les exigences auxquelles doivent satisfaire les personnes travaillant sur mandat.[^13-1]
 
-[^13-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^13-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Chapitre 3 Personnel d’installations nucléaires autres que les centrales nucléaires
 
@@ -278,7 +278,7 @@ Le responsable de l’exploitation technique au sens de l’art. 30, al. 4, OENu
 <sup>3</sup> L’IFSN décide au cas par cas de l’équivalence des diplômes étrangers de fin d’études.[^14-2]
 
 [^14-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^14-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^14-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 15
 
@@ -302,8 +302,8 @@ Un opérateur de réacteur doit disposer des qualifications suivantes:
 <sup>5</sup> Elle est chargée de régler dans une directive le détail des exigences auxquelles doivent satisfaire la formation de base en technique nucléaire et la formation spécifique pour l’installation.[^15-3]
 
 [^15-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^15-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^15-3]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^15-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^15-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 16
 
@@ -325,7 +325,7 @@ Un technicien de réacteur doit disposer des qualifications suivantes:
 <sup>4</sup> L’IFSN est chargée de régler dans une directive le détail des exigences auxquelles doivent satisfaire la formation de base en technique nucléaire et la formation spécifique pour l’installation.[^16-2]
 
 [^16-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^16-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^16-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 17
 
@@ -347,7 +347,7 @@ Un physicien de réacteur doit disposer des qualifications suivantes:
 
 <sup>4</sup> L’IFSN décide au cas par cas de l’équivalence des diplômes étrangers de fin d’études.[^17-1]
 
-[^17-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^17-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 18
 
@@ -380,7 +380,7 @@ Le responsable de l’exploitation technique au sens de l’art. 30, al. 4, OENu
 <sup>3</sup> L’IFSN décide au cas par cas de l’équivalence des diplômes étrangers de fin d’études.[^20-2]
 
 [^20-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^20-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^20-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### Section 4 Autre personnel d’installations nucléaires autres que les centrales nucléaires
 
@@ -392,7 +392,7 @@ Le responsable de l’exploitation technique au sens de l’art. 30, al. 4, OENu
 
 <sup>2</sup> L’art. 5 s’applique par analogie au chargé de la sûreté.
 
-[^21-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^21-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 22
 
@@ -402,7 +402,7 @@ Le responsable de l’exploitation technique au sens de l’art. 30, al. 4, OENu
 
 <sup>2</sup> Une formation spécifique à l’installation doit lui être dispensée en vue de l’accomplissement de ses tâches.
 
-## Chapitre 4 Evaluation des aptitudes personnelles et de l’état de santé
+## Chapitre 4 Évaluation des aptitudes personnelles et de l’état de santé
 
 #### Art. 23
 
@@ -418,21 +418,23 @@ Le responsable de l’exploitation technique au sens de l’art. 30, al. 4, OENu
 
 <sup>5</sup> L’IFSN peut consulter lesdits documents.[^23-1]
 
-[^23-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^23-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 24
 
-**Etat de santé**
+**État de santé**[^24-1]
 
-<sup>1</sup> L’examen de santé vise à vérifier que les exigences spécifiques à la fonction, requises pour une exploitation sûre des installations nucléaires, telles qu’une faculté de perception suffisante, la capacité de travailler en horaire continu et l’absence de dépendance envers des substances psychotropes, sont remplies.
+<sup>1</sup> L’examen de santé vise à vérifier que les exigences spécifiques à la fonction, requises pour une exploitation sûre des installations nucléaires, telles qu’une faculté de perception suffisante, la capacité à travailler en horaire continu et l’absence de dépendance envers des substances psychotropes, sont remplies.
 
-<sup>2</sup> Un médecin–conseil de la CNA examine chaque année l’état de santé du personnel des installations nucléaires dans le cadre d’un examen préventif de médecine du travail. Il transmet le résultat de l’examen à la CNA.
+<sup>2</sup> Un médecin examine chaque année l’état de santé du personnel des installations nucléaires. S’il n’est pas médecin du travail, il transmet le résultat des examens à un tel spécialiste.
 
-<sup>3</sup> La CNA juge de l’état de santé du personnel et notifie par écrit le résultat de sa décision au titulaire de l’autorisation. Celui-ci intègre la notification dans ses documents au sens de l’art. 37.
+<sup>3</sup> Le médecin du travail évalue l’état de santé du personnel sur la base des examens réalisés. Il transmet l’évaluation au titulaire de l’autorisation.
 
-<sup>4</sup> L’IFSN peut consulter lesdits documents.[^24-1]
+<sup>4</sup> Le titulaire de l’autorisation intègre l’évaluation médicale dans ses documents, conformément à l’art. 37. Il juge sur cette base de l’état de santé du personnel et consigne le résultat dans ses documents.
 
-[^24-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+<sup>5</sup> L’IFSN peut consulter lesdits documents.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 799](https://fedlex.data.admin.ch/eli/oc/2022/799)).
 
 ## Chapitre 5 Agrément du personnel d’exploitation
 
@@ -457,7 +459,7 @@ L’agrément est délivré par le titulaire de l’autorisation si le candidat:
 
 <sup>2</sup> Chaque agrément doit être approuvé par écrit par l’IFSN.[^26-1]
 
-[^26-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^26-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 27
 
@@ -475,7 +477,7 @@ L’agrément est délivré par le titulaire de l’autorisation si le candidat:
 
 <sup>6</sup> L’IFSN est chargée de régler dans une directive les exigences auxquelles doivent satisfaire la procédure et la matière de l’examen.
 
-[^27-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^27-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 28
 
@@ -506,7 +508,7 @@ L’examen d’agrément pour la fonction d’ingénieur de piquet comprend:
 
 <sup>5</sup> L’IFSN est chargée de régler dans une directive les exigences auxquelles doivent satisfaire la procédure et la matière de l’examen.[^28-1]
 
-[^28-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^28-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 29
 
@@ -548,7 +550,7 @@ L’examen d’agrément pour la fonction de physicien de réacteur comprend:
 
 <sup>4</sup> L’IFSN est chargée de régler dans une directive les exigences auxquelles doivent satisfaire la procédure et la matière de l’examen.
 
-[^30-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^30-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 31
 
@@ -583,7 +585,7 @@ Le titulaire de l’autorisation révoque l’agrément:
 
 <sup>5</sup> L’IFSN est chargée de régler dans une directive les exigences auxquelles doit satisfaire la procédure.
 
-[^33-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^33-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^33-2]: [RS 732.143.3](https://fedlex.data.admin.ch/eli/cc/2006/379)
 
 #### Art. 34
@@ -622,9 +624,9 @@ La procédure de requalification pour les réacteurs de recherche comprend:
 
 <sup>10</sup> L’IFSN est chargée de régler dans une directive le détail des exigences auxquelles doit satisfaire la procédure de requalification.[^34-3]
 
-[^34-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^34-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^34-3]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^34-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^34-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^34-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Chapitre 6 Cours de révision et formation continue
 
@@ -679,7 +681,7 @@ Pour le personnel dirigeant, ces formations comprennent au minimum:
 
 <sup>7</sup> L’IFSN est chargée de régler dans une directive le détail des exigences auxquelles doivent satisfaire les cours de révision et la formation continue.[^35-1]
 
-[^35-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^35-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 36
 
@@ -697,7 +699,7 @@ Le titulaire de l’autorisation est tenu de contrôler que les objectifs de la 
 
 <sup>3</sup> L’IFSN est chargée de régler dans une directive le détail des exigences auxquelles doivent satisfaire les documents et leur conservation.[^37-1]
 
-[^37-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^37-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Chapitre 8 Obligation d’annoncer
 
@@ -720,7 +722,7 @@ Le titulaire de l’autorisation a l’obligation d’annoncer à l’IFSN:
 
 <sup>4</sup> L’IFSN est chargée de régler les modalités de l’annonce dans une directive.
 
-[^38-1]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^38-1]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^38-2]: [RS 732.143.3](https://fedlex.data.admin.ch/eli/cc/2006/379)
 
 ## Chapitre 9 Protection des données
@@ -754,7 +756,7 @@ Elles traitent les données personnelles ci-après:
 <sup>4</sup> Les données personnelles sont conservées en lieu sûr durant dix ans à compter du jour où l’intéressé quitte son poste, abandonne sa fonction ou termine son mandat. A l’issue de ce délai, elles sont détruites dans la mesure où elles ne sont pas reprises par les Archives fédérales.
 
 [^39-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^39-2]: Nouvelle teneur selon le ch. 14 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^39-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Chapitre 10 Dispositions pénale et transitoires
 

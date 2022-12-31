@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2006 über die Anforderungen an das Personal von K
 short: VAPK
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/377"
 language: de
-version: 2009-01-01
+version: 2023-01-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20090101/de/xml/fedlex-data-admin-ch-eli-cc-2006-377-20090101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20090101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-377-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20090101/de"
 
 (VAPK)
 
-vom 9. Juni 2006 (Stand am 1. Januar 2009)
+vom 9. Juni 2006 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -54,7 +54,7 @@ Der Inhaber oder die Inhaberin der Stelle für den technischen Betrieb nach Arti
 <sup>3</sup> Das Eidgenössische Nuklearsicherheitsinspektorat (ENSI) entscheidet im Einzelfall über die Gleichwertigkeit ausländischer Ausbildungsabschlüsse.[^2-2]
 
 [^2-1]: [SR 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^2-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^2-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 3
 
@@ -82,8 +82,8 @@ Leiter und Leiterinnen von Organisationseinheiten nach Artikel 30 Absatz 2 KEV[^
 <sup>3</sup> Das ENSI entscheidet im Einzelfall über die Gleichwertigkeit ausländischer Ausbildungsabschlüsse.[^3-3]
 
 [^3-1]: [SR 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^3-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^3-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^3-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^3-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 4
 
@@ -109,8 +109,8 @@ Der oder die Sicherungsbeauftragte muss über folgende Qualifikation verfügen:
 
 <sup>4</sup> Das ENSI entscheidet im Einzelfall über die Gleichwertigkeit ausländischer Ausbildungsabschlüsse.[^5-2]
 
-[^5-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^5-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^5-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^5-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 6
 
@@ -135,9 +135,9 @@ Ein Reaktoroperateur oder eine Reaktoroperateurin muss über folgende Qualifikat
 <sup>5</sup> Es wird beauftragt, detaillierte Anforderungen an die kerntechnische Grundausbildung und an die anlagenspezifische Ausbildung in einer Richtlinie zu regeln.[^6-4]
 
 [^6-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^6-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^6-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^6-4]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^6-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^6-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^6-4]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 7
 
@@ -158,8 +158,8 @@ Der Schichtchef oder die Schichtchefin muss über folgende Qualifikation verfüg
 
 <sup>4</sup> Das ENSI wird beauftragt, detaillierte Anforderungen an die anlagenspezifische Ausbildung in einer Richtlinie zu regeln.[^7-2]
 
-[^7-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^7-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^7-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^7-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 8
 
@@ -183,9 +183,9 @@ Der Pikettingenieur oder die Pikettingenieurin muss über folgende Qualifikation
 
 <sup>5</sup> Es wird beauftragt, detaillierte Anforderungen an die anlagenspezifische Ausbildung in einer Richtlinie zu regeln.[^8-3]
 
-[^8-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^8-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^8-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^8-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^8-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^8-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 9
 
@@ -217,8 +217,8 @@ Ein Anlagenoperateur oder eine Anlagenoperateurin muss über folgende Qualifikat
 <sup>5</sup> Es wird beauftragt, Anforderungen an die anlagen- und funktionsspezifische Ausbildung in einer Richtlinie zu regeln.[^10-3]
 
 [^10-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^10-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^10-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^10-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^10-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 11
 
@@ -232,7 +232,7 @@ Ein Anlagenoperateur oder eine Anlagenoperateurin muss über folgende Qualifikat
 
 <sup>4</sup> Das ENSI wird beauftragt, Anforderungen an das Instandhaltungspersonal in einer Richtlinie zu regeln.[^11-1]
 
-[^11-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^11-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 12
 
@@ -244,7 +244,7 @@ Ein Anlagenoperateur oder eine Anlagenoperateurin muss über folgende Qualifikat
 
 <sup>3</sup> Das ENSI wird beauftragt, Anforderungen an das technisch-wissenschaftliche Personal in einer Richtlinie zu regeln.[^12-1]
 
-[^12-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^12-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 13
 
@@ -256,7 +256,7 @@ Ein Anlagenoperateur oder eine Anlagenoperateurin muss über folgende Qualifikat
 
 <sup>3</sup> Das ENSI wird beauftragt, Anforderungen an im Auftragsverhältnis tätige Personen in einer Richtlinie zu regeln.[^13-1]
 
-[^13-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^13-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## 3. Kapitel: Personal anderer Kernanlagen als Kernkraftwerke
 
@@ -278,7 +278,7 @@ Der Inhaber oder die Inhaberin der Stelle für den technischen Betrieb nach Arti
 <sup>3</sup> Das ENSI entscheidet im Einzelfall über die Gleichwertigkeit ausländischer Ausbildungsabschlüsse.[^14-2]
 
 [^14-1]: [SR 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^14-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^14-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 15
 
@@ -302,8 +302,8 @@ Ein Reaktoroperateur oder eine Reaktoroperateurin muss über folgende Qualifikat
 <sup>5</sup> Es wird beauftragt, detaillierte Anforderungen an die kerntechnische Grundausbildung und an die anlagenspezifische Ausbildung in einer Richtlinie zu regeln.[^15-3]
 
 [^15-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^15-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^15-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^15-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^15-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 16
 
@@ -325,7 +325,7 @@ Ein Reaktortechniker oder eine Reaktortechnikerin muss über folgende Qualifikat
 <sup>4</sup> Das ENSI wird beauftragt, detaillierte Anforderungen an die kerntechnische Grundausbildung und an die anlagenspezifische Ausbildung in einer Richtlinie zu regeln.[^16-2]
 
 [^16-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^16-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^16-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 17
 
@@ -347,7 +347,7 @@ Ein Reaktorphysiker oder eine Reaktorphysikerin muss über folgende Qualifikatio
 
 <sup>4</sup> Das ENSI entscheidet im Einzelfall über die Gleichwertigkeit ausländischer Ausbildungsabschlüsse.[^17-1]
 
-[^17-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^17-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 18
 
@@ -380,7 +380,7 @@ Der Inhaber oder die Inhaberin der Stelle für den technischen Betrieb nach Arti
 <sup>3</sup> Das ENSI entscheidet im Einzelfall über die Gleichwertigkeit ausländischer Ausbildungsabschlüsse.[^20-2]
 
 [^20-1]: [SR 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^20-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^20-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### 4. Abschnitt: Sonstiges Personal anderer Kernanlagen als Kernkraftwerke
 
@@ -392,7 +392,7 @@ Der Inhaber oder die Inhaberin der Stelle für den technischen Betrieb nach Arti
 
 <sup>2</sup> Für die Anforderungen an den Sicherungsbeauftragten oder die Sicherungsbeauftragte gilt Artikel 5 sinngemäss.
 
-[^21-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^21-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 22
 
@@ -418,21 +418,23 @@ Der Inhaber oder die Inhaberin der Stelle für den technischen Betrieb nach Arti
 
 <sup>5</sup> Das ENSI kann in die Dokumentation Einsicht nehmen.[^23-1]
 
-[^23-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^23-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 24
 
-**Gesundheitliche Eignung**
+**Gesundheitliche Eignung**[^24-1]
 
 <sup>1</sup> Die Überprüfung der gesundheitlichen Eignung dient dem Nachweis, dass die für den sicheren Betrieb einer Kernanlage nötigen funktionsspezifischen gesundheitlichen Voraussetzungen erfüllt sind, wie ausreichendes Wahrnehmungsvermögen, Schichtdiensttauglichkeit und keine Abhängigkeit von psychotropen Substanzen.
 
-<sup>2</sup> Ein Vertrauensarzt oder eine Vertrauensärztin der Suva untersucht jährlich im Rahmen der arbeitsmedizinischen Vorsorgeuntersuchungen die gesundheitliche Eignung des Personals von Kernanlagen. Er oder sie leitet das Ergebnis der Untersuchungen an die Suva weiter.
+<sup>2</sup> Ein Arzt oder eine Ärztin untersucht jährlich die gesundheitliche Eignung des Personals von Kernanlagen. Ist er oder sie nicht Facharzt oder Fachärztin für Arbeitsmedizin, so leitet er oder sie das Ergebnis der Untersuchungen an einen Facharzt oder eine Fachärztin für Arbeitsmedizin weiter
 
-<sup>3</sup> Die Suva entscheidet über die gesundheitliche Eignung und teilt das Ergebnis ihres Entscheides dem Bewilligungsinhaber schriftlich mit. Dieser nimmt die Mitteilung in seine Dokumentation nach Artikel 37 auf.
+<sup>3</sup> Der Facharzt oder die Fachärztin für Arbeitsmedizin beurteilt aufgrund der durchgeführten Untersuchungen die gesundheitliche Eignung des Personals. Er oder sie leitet die Beurteilung dem Bewilligungsinhaber weiter.
 
-<sup>4</sup> Das ENSI kann in die Dokumentation Einsicht nehmen.[^24-1]
+<sup>4</sup> Der Bewilligungsinhaber nimmt die arbeitsmedizinische Beurteilung in seine Dokumentation nach Artikel 37 auf. Er entscheidet gestützt darauf über die gesundheitliche Eignung des Personals und hält das Ergebnis in seiner Dokumentation fest.
 
-[^24-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+<sup>5</sup> Das ENSI kann in die Dokumentation Einsicht nehmen.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 799](https://fedlex.data.admin.ch/eli/oc/2022/799)).
 
 ## 5. Kapitel: Zulassung des Betriebspersonals
 
@@ -457,7 +459,7 @@ Die Zulassung wird vom Bewilligungsinhaber erteilt, wenn der Kandidat oder die K
 
 <sup>2</sup> Jede Zulassung bedarf der schriftlichen Zustimmung des ENSI.[^26-1]
 
-[^26-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^26-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 27
 
@@ -475,7 +477,7 @@ Die Zulassung wird vom Bewilligungsinhaber erteilt, wenn der Kandidat oder die K
 
 <sup>6</sup> Das ENSI wird beauftragt, die Anforderungen an das Prüfungsverfahren und den Prüfungsinhalt in einer Richtlinie zu regeln.
 
-[^27-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^27-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 28
 
@@ -506,7 +508,7 @@ Die Pikettingenieur-Zulassungsprüfung umfasst:
 
 <sup>5</sup> Das ENSI wird beauftragt, die Anforderungen an das Prüfungsverfahren und den Prüfungsinhalt in einer Richtlinie zu regeln.[^28-1]
 
-[^28-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^28-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 29
 
@@ -548,7 +550,7 @@ Die Reaktorphysiker-Zulassungsprüfung umfasst:
 
 <sup>4</sup> Das ENSI wird beauftragt, die Anforderungen an das Prüfungsverfahren und den Prüfungsinhalt in einer Richtlinie zu regeln.
 
-[^30-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^30-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 31
 
@@ -583,7 +585,7 @@ Der Bewilligungsinhaber entzieht die Zulassung:
 
 <sup>5</sup> Das ENSI wird beauftragt, die Anforderungen an das Verfahren in einer Richtlinie zu regeln.
 
-[^33-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^33-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^33-2]: [SR 732.143.3](https://fedlex.data.admin.ch/eli/cc/2006/379)
 
 #### Art. 34
@@ -622,9 +624,9 @@ Das Requalifikationsverfahren umfasst bei Forschungsreaktoren:
 
 <sup>10</sup> Das ENSI wird beauftragt, die detaillierten Anforderungen an das Requalifikationsverfahren in einer Richtlinie zu regeln.[^34-3]
 
-[^34-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^34-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^34-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^34-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^34-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^34-3]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## 6. Kapitel: Wiederholungsschulung und Weiterbildung
 
@@ -679,7 +681,7 @@ Beim leitenden Personal umfassen sie mindestens:
 
 <sup>7</sup> Das ENSI wird beauftragt, die detaillierten Anforderungen an die Wiederholungsschulung und Weiterbildung in einer Richtlinie zu regeln.[^35-1]
 
-[^35-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^35-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 36
 
@@ -697,7 +699,7 @@ Der Bewilligungsinhaber hat bei der für die nukleare Sicherheit erforderlichen 
 
 <sup>3</sup> Das ENSI wird beauftragt, die detaillierten Anforderungen an die Dokumentation und deren Aufbewahrung in einer Richtlinie zu regeln[^37-1]
 
-[^37-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^37-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## 8. Kapitel: Meldepflicht
 
@@ -720,7 +722,7 @@ Der Bewilligungsinhaber hat dem ENSI zu melden:
 
 <sup>4</sup> Das ENSI wird beauftragt, das Vorgehen beim Melden in einer Richtlinie zu regeln.
 
-[^38-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^38-1]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^38-2]: [SR 732.143.3](https://fedlex.data.admin.ch/eli/cc/2006/379)
 
 ## 9. Kapitel: Datenschutz
@@ -754,7 +756,7 @@ Es bearbeitet folgende Personendaten:
 <sup>4</sup> Die Personendaten werden nach dem Zeitpunkt, zu dem die betroffene Person die Stelle verlässt, die Funktion aufgibt oder den Auftrag abschliesst, noch zehn Jahre sicher aufbewahrt. Nach Ablauf dieser Frist werden sie vernichtet, soweit sie nicht vom Bundesarchiv übernommen werden.
 
 [^39-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^39-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^39-2]: Fassung gemäss Anhang Ziff. 14 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## 10. Kapitel: Straf- und Schlussbestimmungen
 

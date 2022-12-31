@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2006 sulle esigenze per il personale degli impiant
 short: OEPIN
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/377"
 language: it
-version: 2009-01-01
+version: 2023-01-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20090101/it/xml/fedlex-data-admin-ch-eli-cc-2006-377-20090101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20090101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/377/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-377-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/377/20090101/it"
 
 (OEPIN)
 
-del 9 giugno 2006 (Stato 1° gennaio 2009)
+del 9 giugno 2006 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -54,7 +54,7 @@ Il responsabile dell’esercizio tecnico ai sensi dell’articolo 30 capoverso 4
 <sup>3</sup> L’Ispettorato federale della sicurezza nucleare (IFSN) decide nel singolo caso sull’equipollenza dei diplomi esteri.[^2-2]
 
 [^2-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^2-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^2-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 3
 
@@ -82,8 +82,8 @@ I responsabili di unità organizzative secondo l’articolo 30 capoverso 2 OENu[
 <sup>3</sup> L’IFSN decide nel singolo caso sull’equipollenza dei diplomi esteri.[^3-3]
 
 [^3-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^3-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^3-3]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^3-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^3-3]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 4
 
@@ -109,8 +109,8 @@ L’incaricato della sicurezza nucleare esterna deve possedere le seguenti quali
 
 <sup>4</sup> L’IFSN decide nel singolo caso sull’equipollenza dei diplomi esteri.[^5-2]
 
-[^5-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^5-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^5-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^5-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 6
 
@@ -135,9 +135,9 @@ Gli operatori dei reattori devono possedere le seguenti qualifiche:
 <sup>5</sup> L’IFSN è incaricato di disciplinare in una direttiva esigenze dettagliate poste alla formazione di base in materia di tecnica nucleare e alla formazione specifica relativa all’impianto.[^6-4]
 
 [^6-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^6-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^6-3]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^6-4]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^6-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^6-3]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^6-4]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 7
 
@@ -158,8 +158,8 @@ I capisquadra devono possedere le seguenti qualifiche:
 
 <sup>4</sup> L’IFSN è incaricato di disciplinare in una direttiva esigenze dettagliate poste alla formazione specifica relativa all’impianto.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^7-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^7-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^7-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 8
 
@@ -183,9 +183,9 @@ Gli ingegneri di picchetto devono possedere le seguenti qualifiche:
 
 <sup>5</sup> L’IFSN è incaricato di disciplinare in una direttiva esigenze dettagliate poste alla formazione specifica relativa all’impianto.[^8-3]
 
-[^8-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^8-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^8-3]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^8-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^8-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^8-3]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 9
 
@@ -217,8 +217,8 @@ Gli operatori d’impianto devono possedere le seguenti qualifiche:
 <sup>5</sup> L’IFSN è incaricato di disciplinare in una direttiva esigenze dettagliate poste alla formazione specifica relativa all’impianto e alla funzione.[^10-3]
 
 [^10-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^10-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^10-3]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^10-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^10-3]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 11
 
@@ -232,7 +232,7 @@ Gli operatori d’impianto devono possedere le seguenti qualifiche:
 
 <sup>4</sup> L’IFSN è incaricato di disciplinare in una direttiva i requisiti per il personale addetto alla manutenzione.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^11-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 12
 
@@ -244,7 +244,7 @@ Gli operatori d’impianto devono possedere le seguenti qualifiche:
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare in una direttiva esigenze per il personale tecnico-scientifico.[^12-1]
 
-[^12-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^12-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 13
 
@@ -256,7 +256,7 @@ Gli operatori d’impianto devono possedere le seguenti qualifiche:
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare in una direttiva i requisiti per le persone che esercitano un’attività in virtù di un mandato.[^13-1]
 
-[^13-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^13-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Capitolo 3: Personale di impianti nucleari diversi da centrali nucleari
 
@@ -278,7 +278,7 @@ Il responsabile dell’esercizio tecnico ai sensi dell’articolo 30 capoverso 4
 <sup>3</sup> L’IFSN decide nel singolo caso sull’equipollenza dei diplomi esteri.[^14-2]
 
 [^14-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^14-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^14-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 15
 
@@ -302,8 +302,8 @@ Gli operatori dei reattori devono possedere le seguenti qualifiche:
 <sup>5</sup> L’IFSN è incaricato di disciplinare in una direttiva esigenze dettagliate poste alla formazione di base in materia di tecnica nucleare e alla formazione specifica relativa all’impianto.[^15-3]
 
 [^15-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^15-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^15-3]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^15-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^15-3]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 16
 
@@ -325,7 +325,7 @@ I tecnici dei reattori devono possedere le seguenti qualifiche:
 <sup>4</sup> L’IFSN è incaricato di disciplinare in una direttiva esigenze dettagliate poste alla formazione di base in materia di tecnica nucleare e alla formazione specifica relativa all’impianto.[^16-2]
 
 [^16-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^16-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^16-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 17
 
@@ -347,7 +347,7 @@ I fisici dei reattori devono possedere le seguenti qualifiche:
 
 <sup>4</sup> L’IFSN decide nel singolo caso sull’equipollenza dei diplomi esteri.[^17-1]
 
-[^17-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^17-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 18
 
@@ -380,7 +380,7 @@ Il responsabile dell’esercizio tecnico ai sensi dell’articolo 30 capoverso 4
 <sup>3</sup> L’IFSN decide nel singolo caso sull’equipollenza dei diplomi esteri.[^20-2]
 
 [^20-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^20-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^20-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### Sezione 4: Altro personale di impianti nucleari diversi da centrali nucleari
 
@@ -392,7 +392,7 @@ Il responsabile dell’esercizio tecnico ai sensi dell’articolo 30 capoverso 4
 
 <sup>2</sup> Per quanto concerne le esigenze per l’incaricato della sicurezza nucleare esterna, l’articolo 5 si applica per analogia.
 
-[^21-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^21-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 22
 
@@ -418,21 +418,23 @@ Il responsabile dell’esercizio tecnico ai sensi dell’articolo 30 capoverso 4
 
 <sup>5</sup> L’IFSN può consultare la documentazione.[^23-1]
 
-[^23-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^23-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 24
 
-**Idoneità dal profilo della salute**
+**Idoneità dal profilo della salute**[^24-1]
 
 <sup>1</sup> La verifica dell’idoneità dal profilo della salute serve a provare che le esigenze specifiche di una funzione che vengono poste alla salute e sono necessarie all’esercizio sicuro di un impianto nucleare sono adempiute, quali una sufficiente percettività, idoneità al lavoro a turni e nessuna dipendenza da sostanze psicotrope.
 
-<sup>2</sup> Un medico di fiducia dell’INSAI esamina ogni anno, nel quadro delle visite profilattiche nel settore della medicina del lavoro, se il personale di impianti nucleari sia idoneo dal profilo della salute. Egli trasmette il risultato degli esami all’INSAI.
+<sup>2</sup> Un medico esamina ogni anno se il personale di impianti nucleari sia idoneo dal profilo della salute. Se non si tratta di uno specialista in medicina del lavoro, il medico trasmette il risultato dell’esame a uno specialista di tale settore.
 
-<sup>3</sup> L’INSAI decide sull’idoneità dal profilo della salute e comunica il risultato della sua decisione per scritto al titolare della licenza. Quest’ultimo integra la comunicazione nella sua documentazione secondo l’articolo 37.
+<sup>3</sup> Lo specialista in medicina del lavoro valuta, sulla base degli esami effettuati, l’idoneità del personale dal profilo della salute. Esso trasmette tale valutazione al titolare della licenza.
 
-<sup>4</sup> L’ IFSN può consultare la documentazione.[^24-1]
+<sup>4</sup> Il titolare della licenza integra la valutazione di medicina del lavoro nella documentazione di cui all’articolo 37. Fondandosi su di essa, decide in merito all’idoneità del personale dal profilo della salute e registra il risultato nella documentazione.
 
-[^24-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+<sup>5</sup> L’IFSN può consultare la documentazione.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 799](https://fedlex.data.admin.ch/eli/oc/2022/799)).
 
 ## Capitolo 5: Autorizzazione del personale d’esercizio
 
@@ -457,7 +459,7 @@ L’autorizzazione è rilasciata dal titolare della licenza se il candidato:
 
 <sup>2</sup> Ogni autorizzazione necessita del consenso scritto dell’IFSN.[^26-1]
 
-[^26-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^26-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 27
 
@@ -475,7 +477,7 @@ L’autorizzazione è rilasciata dal titolare della licenza se il candidato:
 
 <sup>6</sup> L’IFSN è incaricato di disciplinare in una direttiva le esigenze per la procedura d’esame e il contenuto dell’esame.
 
-[^27-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^27-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 28
 
@@ -506,7 +508,7 @@ L’esame per l’autorizzazione a esercitare la funzione di ingegnere di picche
 
 <sup>5</sup> L’IFSN è incaricato di disciplinare in una direttiva le esigenze per la procedura d’esame e il contenuto dell’esame.[^28-1]
 
-[^28-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^28-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 29
 
@@ -548,7 +550,7 @@ L’esame per l’autorizzazione a esercitare la funzione di fisico dei reattori
 
 <sup>4</sup> L’IFSN è incaricato di disciplinare in una direttiva le esigenze per la procedura d’esame e il contenuto dell’esame.
 
-[^30-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^30-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 31
 
@@ -583,7 +585,7 @@ Il titolare della licenza revoca l’autorizzazione:
 
 <sup>5</sup> L’IFSN è incaricato di disciplinare in una direttiva le esigenze procedurali.
 
-[^33-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^33-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^33-2]: [RS 732.143.3](https://fedlex.data.admin.ch/eli/cc/2006/379)
 
 #### Art. 34
@@ -622,9 +624,9 @@ La procedura di riqualificazione comprende nei reattori di ricerca:
 
 <sup>10</sup> L’IFSN è incaricato di disciplinare in una direttiva le esigenze dettagliate per la procedura di riqualificazione.[^34-3]
 
-[^34-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^34-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
-[^34-3]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^34-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^34-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^34-3]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Capitolo 6: Aggiornamento e perfezionamento
 
@@ -679,7 +681,7 @@ Per il personale dirigente, l’aggiornamento e il perfezionamento comprendono a
 
 <sup>7</sup> L’IFSN è incaricato di disciplinare in una direttiva le esigenze dettagliate per l’aggiornamento e il perfezionamento.[^35-1]
 
-[^35-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^35-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 36
 
@@ -697,7 +699,7 @@ Il titolare della licenza deve controllare, per ogni singola persona, il raggiun
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare in una direttiva le esigenze dettagliate per la documentazione e la relativa conservazione.[^37-1]
 
-[^37-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^37-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Capitolo 8: Obbligo di notificazione
 
@@ -720,7 +722,7 @@ Il titolare della licenza deve notificare all’IFSN:
 
 <sup>4</sup> L’IFSN è incaricato di disciplinare in una direttiva il modo di procedere relativo alle notificazioni.
 
-[^38-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^38-1]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^38-2]: [RS 732.143.3](https://fedlex.data.admin.ch/eli/cc/2006/379)
 
 ## Capitolo 9: Protezione dei dati
@@ -754,7 +756,7 @@ Le autorità di vigilanza trattano i seguenti dati personali:
 <sup>4</sup> I dati personali vengono conservati al sicuro per dieci anni a partire da quando la persona interessata lascia il posto, abbandona la funzione o conclude il mandato. Scaduto tale termine, i dati non ripresi dall’Archivio federale vengono distrutti.
 
 [^39-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^39-2]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^39-2]: Nuovo testo giusta il n. 14 dell’all. dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Capitolo 10: Disposizioni penali e disposizioni transitorie
 
