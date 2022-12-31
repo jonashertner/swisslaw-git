@@ -3,20 +3,19 @@ canton: OW
 number: "921.113"
 title: Ausführungsbestimmungen über die Förderung der Landschaftsqualität und Vernetzung
 language: de
-version: 2014-06-01
-valid_until: 2022-12-31
-version_adopted: 2014-05-06
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2014-05-06
 in_force: 2014-06-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/921.113"
-pdf: "http://gdb.ow.ch/api/de/versions/862/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1756/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Förderung der Landschaftsqualität und Vernetzung
 
-vom 06.05.2014 (Stand 01.06.2014)
+vom 06.05.2014 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -39,7 +38,7 @@ beschliesst:
 
 **Voraussetzungen**
 
-<sup>1</sup> Beiträge für die Förderung von Massnahmen zur Umsetzung von Landschaftsqualitätsprojekten sowie von Vernetzungsprojekten werden ausgerichtet, wenn diese im Kanton liegen und die Voraussetzungen von Art. 61 bis 64 der Direktzahlungsverordnung[^2-1] erfüllen.
+<sup>1</sup> Beiträge für die Förderung von Massnahmen zur Umsetzung von Landschaftsqualitätsprojekten sowie von Vernetzungsprojekten werden ausgerichtet, wenn diese die Voraussetzungen von Art. 61 bis 64 der Direktzahlungsverordnung[^2-1] erfüllen.
 
 [^2-1]: SR [910.13](https://db.clex.ch/link/Bund/910.13/de)
 
@@ -90,5 +89,9 @@ Ursprüngliche Fundstelle: OGS 2014, 19
 Ursprüngliches Inkrafttreten: 1. Juni 2014
 
 Aufgehobener Erlass: AB zur Förderung besonders umweltfreundlicher und nachhaltiger Bewirtschaftungsformen, Anlagen und Einrichtungen vom 1. Dezemeber 2009 (OGS 2009, 58)
+
+geändert durch
+
+\- Nachtrag vom 6. Dezember 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 33)
 
 OGS 2014, 19
