@@ -3,20 +3,20 @@ canton: SO
 number: "121.2"
 title: Geschäftsreglement des Kantonsrates von Solothurn
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2025-07-31
 version_adopted: 2021-12-15
 adopted: 1991-09-10
 in_force: 1992-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/121.2"
-pdf: "https://bgs.so.ch/api/de/versions/5198/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5540/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement des Kantonsrates von Solothurn
 
-Vom 10.09.1991 (Stand 01.01.2022)
+Vom 10.09.1991 (Stand 01.01.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -376,17 +376,7 @@ beschliesst:
 
 #### § 31bis
 
-**Koordination mit der Finanzkommission bei Globalbudgets**
-
-<sup>1</sup> Die zuständige Sachkommission berät die Globalbudgets als Erstkommission und stellt der Finanzkommission Antrag.
-
-<sup>2</sup> Kann sich die Finanzkommission dem Antrag der Sachkommission anschliessen, geht die Vorlage mit einem gemeinsamen Antrag an den Rat.
-
-<sup>3</sup> Kann die Finanzkommission den Anträgen der Sachkommission nicht zustimmen, weist sie die Vorlage an diese zurück und legt dar, in welcher Hinsicht sie aus finanziellen oder wirtschaftlichen Gründen zu ändern ist. Schliesst sich die Sachkommission der Finanzkommission an, geht die Vorlage mit einem gemeinsamen Antrag an den Rat.
-
-<sup>4</sup> Hält die Sachkommission nach Anhören der Finanzkommission an ihrem Antrag fest oder schafft sie eine neue Differenz, so begründet sie ihre Haltung, stellt zuhanden des Rats Antrag und überweist die Vorlage erneut der Finanzkommission.
-
-<sup>5</sup> Kann sich die Finanzkommission nach Anhören der Sachkommission deren Antrag anschliessen, geht die Vorlage mit einem gemeinsamen Antrag an den Rat. Andernfalls stellt sie einen eigenen Antrag zuhanden des Rats.
+**…**
 
 #### § 32
 
@@ -589,7 +579,7 @@ beschliesst:
 - a) geheime Beratung (§ 10);
 - b) Feststellung der Präsenz (§ 40);
 - c) Befolgung der Ausstandspflicht;
-- d) Rückweisung (§§ 43f.);
+- d) Rückweisung (§§ 43 f.);
 - e) zweite Lesung;
 - f) Schluss der Diskussion zu einem bestimmten Gegenstand (§ 55 Abs. 2);
 - g) Unterbrechung der Verhandlung;
