@@ -4,13 +4,12 @@ number: 226a
 title: Verordnung über die Führung des Grundbuchs mittels Informatik
 short: IT-Grundbuch-Verordnung
 language: de
-version: 2016-10-01
-valid_until: 2022-12-31
-version_adopted: 2016-09-19
+version: 2023-01-01
+version_adopted: 2022-02-08
 adopted: 1996-12-13
 in_force: 1997-02-16
 url: "https://srl.lu.ch/app/de/texts_of_law/226a"
-pdf: "https://srl.lu.ch/api/de/versions/2894/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4048/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2894/pdf_file"
 
 (IT-Grundbuch-Verordnung)
 
-vom 13.12.1996 (Stand 01.10.2016)
+vom 13.12.1996 (Stand 01.01.2023)
 
 Das Obergericht des Kantons Luzern,
 
@@ -72,17 +71,29 @@ beschliesst:
 
 #### § 6
 
-**Datenzugriff**
+**Öffentliche Eigentümerabfrage**
 
-<sup>1</sup> Das Kantonsgericht entscheidet über den Zugriff auf Daten des informatisierten Grundbuchs aufgrund eines von der Leitung Gruppe Grundbuch geprüften schriftlichen und begründeten Gesuchs.
+<sup>1</sup> Die ohne Interessennachweis einsehbaren Daten des Hauptbuches werden im Internet veröffentlicht.
 
-<sup>2</sup> Der Datenzugriff erfolgt in dem von der Grundbuchverordnung vorgesehenen Rahmen.
+<sup>2</sup> Für die Nutzung des öffentlichen Abfragedienstes ist eine Registrierung erforderlich.
+
+<sup>3</sup> Das Auskunftssystem wird mittels Abfragelimiten vor Serienabfragen geschützt.
 
 #### § 6a
 
-**Veröffentlichung der Grundbuchdaten im Internet**
+**Grundstückdateninformationssystem Gravis**
 
-<sup>1</sup> Das Kantonsgericht entscheidet über die Veröffentlichung von Grundbuchdaten im Internet in dem von der Grundbuchverordnung vorgesehenen Rahmen.
+<sup>1</sup> Für den erweiterten elektronischen Zugang auf die Daten des Hauptbuchs, des Tagebuchs und der Hilfsregister betreibt der Kanton ein Grundstückdateninformationssystem (Gravis). Der Zugriff auf Gravis erfolgt im elektronischen Abrufverfahren.
+
+<sup>2</sup> Die Leitung Gruppe Grundbuch bewilligt den Zugriff auf die Daten des informatisierten Grundbuchs aufgrund eines schriftlichen und begründeten Gesuchs. Sie schliesst mit den Zugriffsberechtigten eine Vereinbarung über die Modalitäten des erweiterten elektronischen Zugangs ab.
+
+<sup>3</sup> Der Datenzugriff erfolgt in dem von der Grundbuchverordnung und in der Vereinbarung vorgesehenen Rahmen. Dem Berechtigungs- und Rollenkonzept gemäss Anhang 1 zu dieser Verordnung sind die konkreten Zugriffsrechte zu entnehmen.
+
+#### § 6b
+
+**Weitere Informationssysteme**
+
+<sup>1</sup> In dem von der Grundbuchverordnung vorgesehenen Rahmen können die Grundbuchdaten an weitere Informationssysteme geliefert werden.
 
 #### § 7
 
