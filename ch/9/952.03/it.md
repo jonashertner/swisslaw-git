@@ -4,11 +4,11 @@ title: "Ordinanza del 1° giugno 2012 sui fondi propri e sulla ripartizione dei 
 short: OFoP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: it
-version: 2022-09-30
+version: 2023-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20220930/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20220930-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/it"
 
 (Ordinanza sui fondi propri, OFoP)[^t-1]
 
-del 1° giugno 2012 (Stato 30 settembre 2022)
+del 1° giugno 2012 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -279,7 +279,11 @@ Le banche possono applicare in forma semplificata singole disposizioni della pre
 
 <sup>2</sup> Le banche assicurano il rispetto di queste condizioni e documentano il tipo di semplificazione.
 
-## Titolo secondo: Fondi propri computabili
+## Titolo secondo: Fondi propri computabili e fondi supplementari in grado di assorbire le perdite
+
+[^tit2-1]
+
+[^tit2-1]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 ### Capitolo 1: In generale
 
@@ -682,6 +686,44 @@ La banca deve dedurre separatamente dai fondi propri di base di qualità primari
 <sup>1</sup> I valori di bilancio calcolati in base alla procedura di cui agli articoli 38 capoversi 2 e 3 nonché 39 inferiori al limite 2 della franchigia sono sommati e misurati in base al limite 3 della franchigia. La banca deve dedurre dai fondi propri di base di qualità primaria l’importo superiore al limite 3 della franchigia.
 
 <sup>2</sup> La banca deve ponderare al 250 per cento ognuno degli importi inferiori al limite 3 della franchigia.
+
+### Capitolo 3: Fondi supplementari in grado di assorbire le perdite per le banche cantonali
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Introdotto dall’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 40a
+
+<sup>1</sup> Le banche cantonali possono emettere, secondo l’articolo 30*b* capoverso 6 LBCR, strumenti di debito a copertura delle perdite nell’applicazione di misure in caso di insolvenza.
+
+<sup>2</sup>
+
+Questi strumenti di debito devono adempiere le esigenze dell’articolo 126*a* nonché le seguenti condizioni di emissione:
+
+- a. l’ammontare della compensazione dipende dall’importo dedotto dal credito. Al riguardo si devono considerare gli interessi maturati e ammortizzati nonché l’importo degli interessi che, fino alla scadenza finale del credito, avrebbe dovuto essere pagato;
+- b. l’obbligo di versare la compensazione è limitato nel tempo. La durata e il meccanismo per il versamento devono tenere conto del piano di risanamento e dell’ammontare della compensazione; la durata è di almeno dieci anni;
+- c.
+
+  la banca cantonale:
+
+  - 1\. può effettuare una compensazione soltanto se, dopo il relativo versamento, adempie le esigenze prudenziali,
+  - 2\.
+
+    deve effettuare una compensazione soltanto se adempie le condizioni di cui al numero 1 e:
+
+    - – dispone di un cuscinetto di capitale definito o
+    - – se versa una distribuzione al Cantone per la copertura delle spese sostenute da quest’ultimo per il finanziamento del capitale conferito per il risanamento.
+
+<sup>3</sup>
+
+Prima dell’emissione degli strumenti di debito di cui al presente articolo, la banca cantonale deve sottoporre alla FINMA, per approvazione, le condizioni d’emissione e un piano di risanamento elaborato d’intesa con il Cantone. Il piano di risanamento deve definire in particolare:
+
+- a. il meccanismo, comprese forma, modalità e attuabilità legale, per il versamento della compensazione a posteriori;
+- b. in che misura sia attuabile un ammortamento degli strumenti di debito nel quadro del risanamento e siano adempiute le esigenze legali, segnatamente quelle di cui all’articolo 30*c* capoverso 1 lettera b LBCR;
+- c. i parametri di un’eventuale partecipazione del Cantone al risanamento della banca cantonale.
+
+<sup>4</sup> Gli strumenti di debito di cui al presente articolo possono essere emessi soltanto con un valore nominale unitario di almeno 100 000 franchi.
 
 ## Titolo terzo: Fondi propri necessari
 
@@ -1156,6 +1198,7 @@ Nelle seguenti classi di posizione non possono essere applicati rating esterni:
 - c. posizioni garantite direttamente o indirettamente da pegno immobiliare;
 - d. posizioni postergate;
 - e. posizioni in sofferenza;
+
 - f.[^63-1] titoli di partecipazione;
 - f<sup>bis</sup>.[^63-2] quote di patrimoni collettivi gestiti;
 - g. altre posizioni.
@@ -2042,7 +2085,9 @@ Il capitale convertibile è computabile a titolo di componente dei fondi propri 
 
 <sup>1</sup> I «bail-in bond» che soddisfano le condizioni di cui all’articolo 126*a* possono essere computati, per l’ammontare del credito, nei fondi supplementari in grado di assorbire le perdite secondo il capitolo 4, purché la loro durata residua sia di almeno un anno.[^127a-2]
 
-<sup>2</sup> I fondi supplementari in grado di assorbire le perdite devono avere scadenze scaglionate nel tempo che consentano di soddisfare le condizioni relative all’ammontare di questi fondi anche in caso di restrizioni temporanee nell’ambito dell’acquisizione di mezzi finanziari. Le esigenze relative ai fondi supplementari in grado di assorbire le perdite possono essere adempiute al massimo per il 25 per cento con fondi la cui durata residua è compresa tra uno e due anni.[^127a-3]
+<sup>1bis</sup> Anche i «bail-in bond» emessi da banche cantonali che soddisfano le condizioni di cui all’articolo 40*a* possono essere computati conformemente al capoverso 1.[^127a-3]
+
+<sup>2</sup> I fondi supplementari in grado di assorbire le perdite devono avere scadenze scaglionate nel tempo che consentano di soddisfare le condizioni relative all’ammontare di questi fondi anche in caso di restrizioni temporanee nell’ambito dell’acquisizione di mezzi finanziari. Le esigenze relative ai fondi supplementari in grado di assorbire le perdite possono essere adempiute al massimo per il 25 per cento con fondi la cui durata residua è compresa tra uno e due anni.[^127a-4]
 
 <sup>3</sup> Se in applicazione delle disposizioni dell’articolo 30 capoverso 2 sono esclusi dal computo come fondi propri prudenziali nel periodo compreso tra cinque anni e un anno prima della scadenza finale, i fondi propri complementari possono essere computati come «bail-in bond», tenendo conto degli standard internazionali e purché sia garantito che questi strumenti sono in grado di coprire le perdite prima dei «bail-in bond».
 
@@ -2051,12 +2096,13 @@ Il capitale convertibile è computabile a titolo di componente dei fondi propri 
 Le banche di rilevanza sistemica non possono detenere a proprio rischio né strumenti di capitale con conversione o riduzione del credito di altre banche né «bail-in bond» secondo il diritto svizzero o secondo normative corrispondenti di ordinamenti giuridici esteri di altre banche svizzere o estere di rilevanza sistemica. Sono escluse:
 
 - a. le posizioni in relazione alla definizione di corsi d’acquisto e di vendita nella funzione di «market maker» nonché le posizioni detenute a corto termine in relazione con operazioni d’emissione; e
-- b. la detenzione di «bail-in bond» nell’ambito degli articoli 37 e 38 nel portafoglio di negoziazione della banca, se questi «bail-in bond» sono rivenduti entro 30 giorni operativi dalla data di acquisto.[^127a-4]
+- b. la detenzione di «bail-in bond» nell’ambito degli articoli 37 e 38 nel portafoglio di negoziazione della banca, se questi «bail-in bond» sono rivenduti entro 30 giorni operativi dalla data di acquisto.[^127a-5]
 
 [^127a-1]: Introdotto dal n. I dell’O dell’11 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^127a-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^127a-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-3]: Introdotto dall’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^127a-4]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-5]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 ### Capitolo 3: Fondi propri necessari alla continuazione dell’attività ordinaria della banca
 
@@ -2157,7 +2203,7 @@ In circostanze particolari la FINMA può esigere, nel singolo caso, fondi propri
 
 **Principio**[^132-1]
 
-<sup>1</sup> Le banche di rilevanza sistemica devono detenere durevolmente fondi supplementari per garantire un eventuale risanamento o un’eventuale liquidazione secondo i capi undicesimo e dodicesimo LBCR.
+<sup>1</sup> Le banche di rilevanza sistemica devono detenere durevolmente fondi supplementari per garantire un eventuale risanamento o un’eventuale liquidazione secondo i capi undicesimo e dodicesimo LBCR[^132-2].[^132-3]
 
 <sup>2</sup>
 
@@ -2168,70 +2214,63 @@ L’esigenza relativa a questi fondi supplementari è calcolata in base all’es
   nel caso di una banca di rilevanza sistemica attiva a livello internazionale:
 
   - 1\. per le unità che esercitano funzioni di rilevanza sistemica (art. 124 cpv. 3 lett. a): al 62 per cento dell’esigenza complessiva a livello di gruppo finanziario e di singolo istituto,
-  - 2\. a livello di unità superiore di un gruppo finanziario (art. 124 cpv. 3 lett. b) e di importanti gruppi finanziari subordinati (art. 124 cpv. 3 lett. c), se non si applica l’esigenza di cui al numero 1: al 100 per cento dell’esigenza complessiva, dedotto uno sconto secondo l’articolo 133,
+  - 2\. a livello di unità superiore di un gruppo finanziario (art. 124 cpv. 3 lett. b) e di importanti gruppi finanziari subordinati (art. 124 cpv. 3 lett. c), se non si applica l’esigenza di cui al numero 1: al 75 per cento dell’esigenza complessiva,
   - 3\.
 
     a livello di singolo istituto di una banca secondo l’articolo 124 capoverso 3 lettera c o d, alla somma:
 
-    - – degli importi nominali dei fondi supplementari in grado di assorbire le perdite ceduti a filiali
-    - – del 100 per cento dell’esigenza complessiva, dedotto uno sconto secondo l’articolo 133, ad eccezione delle partecipazioni da consolidare – compreso il capitale prudenziale considerato alla stessa stregua – e dei rischi derivanti da relazioni interne al gruppo, e
+    - – degli importi nominali dei fondi supplementari in grado di assorbire le perdite ceduti a filiali,
+    - – del 75 per cento dell’esigenza complessiva, ad eccezione delle partecipazioni da consolidare – compreso il capitale prudenziale considerato alla stessa stregua – e dei rischi derivanti da relazioni interne al gruppo, e
     - – del 30 per cento delle esigenze consolidate applicate a tale unità;
 
-- b. nel caso di una banca di rilevanza sistemica non attiva a livello internazionale: al 40 per cento dell’esigenza complessiva.[^132-2]
+- b. nel caso di una banca di rilevanza sistemica non attiva a livello internazionale: al 40 per cento dell’esigenza complessiva.[^132-4]
 
-<sup>3</sup> I fondi supplementari devono essere detenuti sotto forma di «bail-in bond» che soddisfano le esigenze di cui all’articolo 126*a*. Sono fatti salvi i capoversi 4–7 e l’articolo 132*a*.
+<sup>3</sup> I fondi supplementari devono essere detenuti sotto forma di «bail-in bond» che soddisfano le esigenze di cui all’articolo 126*a*. Sono fatti salvi i capoversi 4–7 e l’articolo 132*b*.[^132-5]
 
 <sup>4</sup> Se una banca di rilevanza sistemica detiene i fondi supplementari sotto forma di fondi propri di base di qualità primaria o sotto forma di capitale convertibile che soddisfa le esigenze relative ai fondi propri di base supplementari, le esigenze di cui al capoverso 2 sono ridotte del fattore 0,5 proporzionalmente ai fondi supplementari detenuti in questa forma. Le esigenze possono essere ridotte al massimo di un terzo.
 
-<sup>5</sup> Se una banca di rilevanza sistemica attiva a livello internazionale detiene i fondi supplementari sotto forma di capitale secondo il capoverso 4, tale capitale le viene computato in maniera privilegiata ai sensi del capoverso 4 fino a un ammontare massimo del 2 per cento per il «leverage ratio» e del 5,8 per cento per la quota di RWA. Le esigenze relative alla capacità di assorbimento delle perdite secondo le raccomandazioni del «Financial Stability Board»[^132-3] devono essere adempiute.
+<sup>5</sup> ...[^132-6]
 
 <sup>6</sup> I fondi propri che una banca detiene per adempiere le esigenze di cui al presente capitolo non possono essere impiegati contemporaneamente per adempiere le esigenze di cui agli articoli 128–131*b*.
 
 <sup>7</sup> Se in precedenza ha detenuto fondi propri per adempiere le esigenze di cui al presente capitolo, la banca può successivamente impiegare tali fondi per adempiere le esigenze di cui agli articoli 128–131*b* soltanto se le esigenze del presente articolo continuano a essere adempiute con i fondi residui.
 
 [^132-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^132-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^132-3]: *Total Loss-Absorbing Capacity Term Sheet* del 9 nov. 2015.
+[^132-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^132-3]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-4]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-5]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-6]: Abrogato dall’all. n. 2 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 132a
 
-**Banche con una garanzia dello Stato o un meccanismo analogo**[^132a-1]
+**Disposizioni particolari per banche di rilevanza sistemica attive a livello internazionale**[^132a-1]
+
+<sup>1</sup> Se una banca di rilevanza sistemica attiva a livello internazionale detiene i fondi supplementari sotto forma di fondi propri di base di qualità primaria o sotto forma di capitale convertibile che soddisfa le esigenze relative ai fondi propri di base supplementari, tale capitale le viene computato in maniera privilegiata ai sensi dell’articolo 132 capoverso 4 fino a un ammontare massimo del 2 per cento per il «leverage ratio» e del 5,8 per cento per la quota di RWA.
+
+<sup>2</sup> Per le unità di cui all’articolo 124 capoverso 3 lettere b–d, l’ammontare delle esigenze relative ai fondi supplementari, tenuto conto della riduzione delle esigenze di cui al capoverso 1, non può scendere sotto il 3,75 per cento per il «leverage ratio» e sotto il 10 per cento per la quota di RWA.
+
+[^132a-1]: Introdotto dal n. I dell’O del 21 nov. 2018 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)). Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 132b
+
+**Disposizioni particolari per banche con una garanzia dello Stato o un meccanismo analogo**[^132b-1]
 
 Se una banca di rilevanza sistemica non attiva a livello internazionale dispone di un’esplicita garanzia dello Stato rilasciata da un Cantone o di un meccanismo analogo, l’esigenza di cui all’articolo 132 capoverso 2 lettera b è considerata:
 
 - a. adempiuta nella misura dell’importo garantito fino alla metà al massimo del 40 per cento richiesto;
 - b. adempiuta interamente nella misura dell’importo garantito se, in caso di crisi, i fondi corrispondenti non gravati sono messi a disposizione della FINMA in tempi brevi e in maniera irrevocabile; la FINMA decide nel singolo caso se queste condizioni sono soddisfatte.
 
-[^132a-1]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^132b-1]: Introdotto dall’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 133
 
-**Sconti per le banche di rilevanza sistemica attive a livello internazionale[^133-1]**
+**Fondi supplementari integrativi in grado di assorbire le perdite per le banche di rilevanza sistemica attive a livello internazionale**[^133-1]
 
-<sup>1</sup>
+In caso di ostacoli alla capacità di risanamento e di liquidazione delle unità di cui all’articolo 124 capoverso 3 lettere b–d di banche di rilevanza sistemica attive a livello internazionale, in virtù dell’articolo 65*b* capoverso 1 OBCR[^133-2] la FINMA può esigere fondi supplementari integrativi in grado di assorbire le perdite. Il loro ammontare è limitato al 25 per cento dell’esigenza complessiva. L’articolo 132 capoverso 4 si applica per analogia.
 
-La FINMA stabilisce gli sconti per le misure volte a migliorare le possibilità complessive di risanamento e liquidazione del gruppo finanziario conformemente agli articoli 65 e 66 OBCR[^133-2], previa consultazione della Banca nazionale svizzera:
-
-- a. in base all’efficacia di tali misure; e
-- b. tenendo conto dell’interazione tra i diversi tipi di sconti.
-
-<sup>2</sup> Per le unità di cui all’articolo 124 capoverso 3 lettere b–d, l’ammontare dell’esigenza relativa ai fondi supplementari, tenuto conto degli sconti e della riduzione dell’esigenza a seguito del computo preferenziale di capitale convertibile secondo l’articolo 132 capoverso 4, non può scendere sotto il 3,75 per cento per il «leverage ratio» e sotto il 10 per cento per la quota di RWA.[^133-3]
-
-<sup>3</sup>
-
-La riduzione non deve:
-
-- a.[^133-4] comportare il mancato rispetto degli standard internazionali, considerando il computo dei fondi propri di base di qualità primaria o del capitale convertibile di cui all’articolo 132 capoverso 4;
-- b. compromettere l’attuabilità del piano d’emergenza.
-
-<sup>4</sup> Il fatto di provare che il piano d’emergenza garantisce il mantenimento delle funzioni di rilevanza sistemica in caso di rischio d’insolvenza secondo l’articolo 9 capoverso 2 lettera d LBCR non dà diritto a sconti.
-
-<sup>5</sup> La FINMA può consultare autorità estere in materia di vigilanza e di insolvenza in merito alle misure proposte dalla banca e tenere conto della loro opinione per valutare il grado di miglioramento delle possibilità complessive di risanamento e liquidazione del gruppo finanziario ai fini della riduzione dei fondi supplementari.
-
-[^133-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^133-1]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^133-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^133-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^133-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 
 #### Art. 134 e 135
 
@@ -2612,7 +2651,7 @@ Allegato 2[^t-3]
 
 ## Classi di posizioni secondo l’AS-BRI in caso di applicazione di rating esterni e relativa ponderazione del rischio
 
-[^t-3]: Aggiornato dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014, in vigore dal 1° gen. 2015 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^t-3]: Aggiornato dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)) e dall’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th>Numero</th><th>Classi di posizioni (AS-BRI) con possibilità di applicazione di rating esterni</th><th colspan="9">Classi di rating</th></tr>
@@ -2632,13 +2671,17 @@ Allegato 2[^t-3]
 <tr><td>4.2</td><td>Banche e società di intermediazione mobiliare; durata iniziale dei crediti &gt;3 mesi</td><td>20 %</td><td>20 %</td><td>50 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>50 %</td><td>–</td></tr>
 <tr><td>5.</td><td>Istituzioni comuni</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>5.1</td><td>Istituzioni comuni delle banche, riconosciute dalla FINMA</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
-<tr><td>5.2</td><td>Impegni di versamento nei confronti del responsabile della garanzia dei depositi</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>20 %</td></tr>
+<tr><td>5.2</td><td>Impegni di versamento nei confronti del responsabile della garanzia dei depositi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>\_</td><td>20 %</td></tr>
+<tr><td>5.3</td><td>Crediti di banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^annex2-lvlu1-1] su rimborsi di prestiti in contanti concessi al responsabile della garanzia dei depositi secondo l’articolo 37*h* capoverso 3 lettera c numero 2 LBCR</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20 %</td></tr>
+<tr><td>5.4</td><td>Richieste di rimborso nei confronti del responsabile della garanzia dei depositi dopo l’attivazione della garanzia dei depositi (art. 37*i* LBCR)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>100 %</td></tr>
 <tr><td>6.</td><td>Borse, stanze di compensazione e controparti centrali</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>6.1</td><td>Borse, stanze di compensazione e controparti centrali</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
 <tr><td>6.2</td><td>Controparti centrali, sempreché i rischi di credito siano in relazione diretta con l’adempimento della prestazione, garantito da una controparte centrale, di contratti negoziati in borsa o fuori borsa (segnatamente derivati, operazioni pronti contro termine o analoghe dove la controparte centrale garantisce l’adempimento degli obblighi per l’intera durata).</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>2 %</td></tr>
 <tr><td>6.3</td><td>Borse e stanze di compensazione sempreché i rischi di credito siano in relazione diretta con l’adempimento della prestazione, garantito da una controparte centrale, di contratti negoziati in borsa o fuori borsa di operazioni, dove la controparte centrale garantisce unicamente lo svolgimento (segnatamente operazioni di cassa).</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>0 %</td></tr>
 <tr><td>**7.**</td><td>**Imprese**</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
 </table>
+
+[^annex2-lvlu1-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
 Allegato 3[^t-4]
 

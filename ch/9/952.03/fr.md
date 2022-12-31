@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juin 2012 les fonds propres et la répartit
 short: OFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: fr
-version: 2022-09-30
+version: 2023-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20220930/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20220930-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/fr"
 
 (Ordonnance sur les fonds propres, OFR)[^t-1]
 
-du 1<sup>er</sup> juin 2012 (État le 30 septembre 2022)
+du 1<sup>er</sup> juin 2012 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -280,7 +280,11 @@ Les banques peuvent mettre en œuvre sous une forme simplifiée diverses disposi
 
 <sup>2</sup> Les banques s’assurent du respect de ces conditions et documentent les modalités de l’application simplifiée.
 
-## Titre 2 Fonds propres pris en compte
+## Titre 2 Fonds propres pris en compte et fonds supplémentaires destinés à absorber les pertes
+
+[^tit2-1]
+
+[^tit2-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 ### Chapitre 1 Généralités
 
@@ -683,6 +687,44 @@ La banque doit déduire séparément de ses fonds propres de base durs les monta
 <sup>1</sup> Les valeurs du bilan résultant de l’approche décrite aux art. 38, al. 2 et 3, et 39, qui sont inférieures au seuil 2, sont additionnées et mesurées à l’aune du seuil 3. La banque doit déduire de ses fonds propres de base durs le montant qui dépasse le seuil 3.
 
 <sup>2</sup> La banque appliquera une pondération-risque de 250 % aux montants inférieurs au seuil 3.
+
+### Chapitre 3 Fonds supplémentaires pour les banques cantonales destinés à absorber les pertes
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Introduit par l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 40a
+
+<sup>1</sup> Les banques cantonales peuvent émettre des instruments de dette au sens de l’art. 30*b*, al. 6, LB destinés à absorber les pertes en cas de mesures d’insolvabilité.
+
+<sup>2</sup>
+
+Ces instruments de dette doivent satisfaire aux exigences de l’art. 126*a* et aux conditions d’émission suivantes:
+
+- a. le montant de la compensation ultérieure des créanciers se fonde sur le montant dont la créance a été réduite; sont pris en compte les intérêts courus et amortis, et le montant des intérêts qui aurait dû être payé, jusqu’à l’échéance ultime de la créance, sur le montant en question;
+- b. l’obligation de verser la compensation est limitée dans le temps; la durée et le mécanisme de versement doivent tenir compte du plan d’assainissement et de la valeur de la compensation; cette durée est de 10 ans au moins;
+- c.
+
+  la banque cantonale:
+
+  - 1\. ne peut verser une compensation que si elle satisfait aux exigences réglementaires après le paiement de la compensation,
+  - 2\.
+
+    doit verser une compensation lorsqu’elle remplit les conditions énoncées au ch. 1, et:
+
+    - – qu’elle dispose d’un volant de fonds propres défini, ou
+    - – qu’elle effectue une distribution au canton pour couvrir les coûts incombant à ce dernier pour le refinancement du capital qu’il a injecté dans l’assainissement.
+
+<sup>3</sup>
+
+Avant d’émettre des instruments de dette au sens du présent article, la banque cantonale doit soumettre pour approbation à la FINMA les conditions d’émission et un plan d’assainissement élaboré avec le canton. Ce plan doit indiquer en particulier:
+
+- a. le mécanisme de versement de la compensation ultérieure, y compris sa forme, ses modalités et sa faisabilité sur le plan juridique;
+- b. dans quelle mesure un amortissement des instruments de dette est réalisable dans le cadre de l’assainissement et dans quelle mesure les exigences légales, notamment celles de l’art. 30*c*, al. 1, let. b, LB, sont satisfaites;
+- c. les critères d’une éventuelle participation du canton à l’assainissement de la banque cantonale.
+
+<sup>4</sup> Les instruments de dette visés dans le présent article ne peuvent être émis qu’à une valeur nominale d’au moins 100 000 francs.
 
 ## Titre 3 Fonds propres nécessaires
 
@@ -2043,7 +2085,9 @@ Le capital convertible peut être pris en compte à concurrence de la part des c
 
 <sup>1</sup> Les *bail-in bonds* qui remplissent les conditions mentionnées à l’art. 126*a* peuvent être pris en compte à hauteur du montant de la créance à titre de fonds supplémentaires destinés à absorber les pertes prévus au chapitre 4, pour autant que leur durée résiduelle soit d’au moins un an.[^127a-2]
 
-<sup>2</sup> Les fonds supplémentaires destinés à absorber les pertes doivent être échelonnés dans le temps de manière à pouvoir atteindre le montant exigé même en cas de restriction temporaire de l’activité d’emprunt. Les exigences concernant ces fonds supplémentaires ne peuvent être satisfaites qu’à hauteur de 25 % au maximum au moyen de fonds d’une durée résiduelle comprise entre un et deux ans.[^127a-3]
+<sup>1bis</sup> S’ils remplissent les conditions mentionnées à l’art. 40*a*, les *bails-in bonds* émis par les banques cantonales peuvent eux aussi être pris en compte.[^127a-3]
+
+<sup>2</sup> Les fonds supplémentaires destinés à absorber les pertes doivent être échelonnés dans le temps de manière à pouvoir atteindre le montant exigé même en cas de restriction temporaire de l’activité d’emprunt. Les exigences concernant ces fonds supplémentaires ne peuvent être satisfaites qu’à hauteur de 25 % au maximum au moyen de fonds d’une durée résiduelle comprise entre un et deux ans.[^127a-4]
 
 <sup>3</sup> Dans la mesure où, en application de l’art. 30, al. 2, les fonds propres complémentaires sont exclus de la prise en compte au titre de fonds propres réglementaires pendant le laps de temps courant de cinq à un an avant l’échéance ultime, ils peuvent être pris en compte en tant que *bail-in bonds*, dans le cadre des standards internationaux, s’il est garanti que ces instruments sont capables d’absorber les pertes avant les *bail-in bonds*.
 
@@ -2052,12 +2096,13 @@ Le capital convertible peut être pris en compte à concurrence de la part des c
 Les banques d’importance systémique ne peuvent pas détenir à leurs propres risques des instruments de capital liés à une conversion ou à une réduction de créance d’autres banques ni des *bail-in bonds* d’autres banques suisses ou étrangères d’importance systémique régis par la législation suisse ou par les dispositions correspondantes d’une législation étrangère. Font exception:
 
 - a. les positions en rapport avec la fixation de cours acheteur et vendeur en tant que teneur de marché ainsi que les positions détenues à court terme en rapport avec des opérations d’émission, et
-- b. les *bail-in bonds* détenus dans le portefeuille de négoce de la banque dans le cadre des art. 37 et 38, pour autant qu’ils soient revendus dans les 30 jours ouvrables suivant leur acquisition.[^127a-4]
+- b. les *bail-in bonds* détenus dans le portefeuille de négoce de la banque dans le cadre des art. 37 et 38, pour autant qu’ils soient revendus dans les 30 jours ouvrables suivant leur acquisition.[^127a-5]
 
 [^127a-1]: Introduit par le ch. I de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^127a-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^127a-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-3]: Introduit par l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^127a-4]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-5]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 ### Chapitre 3 Fonds propres nécessaires pour poursuivre l’exploitation ordinaire de la banque
 
@@ -2162,77 +2207,68 @@ Sur la base des critères de l’art. 45, la FINMA peut, dans des circonstances 
 
 <sup>2</sup>
 
-L’exigence de fonds supplémentaires se détermine en fonction de l’exigence totale, qui comprend les exigences de base et les suppléments selon l’art. 129. Elle s’élève:
+L’exigence de fonds supplémentaires se détermine en fonction de l’exigence totale, qui comprend l’exigence de base et les suppléments selon l’art. 129. Elle s’élève:
 
 - a.
 
   dans le cas d’une banque d’importance systémique active au niveau international:
 
   - 1\. pour les entités exerçant des fonctions d’importance systémique (art. 124, al. 3, let. a), à 62 % de l’exigence totale à l’échelon du groupe financier et à celui de chaque établissement,
-  - 2\. à l’échelon de l’entité suprême d’un groupe financier (art. 124, al. 3, let. b) et à celui des importants groupes financiers subordonnés (art. 124, al. 3, let. c), pour autant que l’exigence du ch. 1 ne s’applique pas, à 100 % de l’exigence totale moins une remise accordée selon l’art. 133,
+  - 2\. à l’échelon de l’entité suprême d’un groupe financier (art. 124, al. 3, let. b) et à celui des importants groupes financiers subordonnés (art. 124, al. 3, let. c), pour autant que l’exigence du ch. 1 ne s’applique pas, à 75 % de l’exigence totale,
   - 3\.
 
     à l’échelon de chaque établissement d’une banque visée à l’art. 124, al. 3, let. c ou d, à la somme des trois éléments suivants:
 
-    - – le montant nominal des fonds supplémentaires destinés à absorber les pertes qui sont transférés à des filiales
-    - – 100 % de l’exigence totale moins une remise accordée selon l’art. 133, à l’exception des participations à consolider (y compris les fonds propres réglementaires pris en compte de la même manière) et des risques liés aux relations intragroupe
+    - – le montant nominal des fonds supplémentaires destinés à absorber les pertes qui sont transférés à des filiales,
+    - – 75 % de l’exigence totale, à l’exception des participations à consolider (y compris les fonds propres réglementaires pris en compte de la même manière) et des risques liés aux relations intragroupe,
     - – 30 % des exigences consolidées applicables à cette entité;
 
 - b. dans le cas d’une banque d’importance systémique non active au niveau international, à 40 % de l’exigence totale.[^132-2]
 
-<sup>3</sup> Les fonds supplémentaires sont détenus sous forme de *bail-in bonds* satisfaisant aux exigences fixées à l’art. 126*a*. Les al. 4 à 7 et l’art. 132*a* sont réservés.
+<sup>3</sup> Les fonds propres supplémentaires doivent être détenus sous la forme de *bail-in bonds* satisfaisant aux exigences de l’art. 126*a*. Les al. 4 à 7 et l’art. 132*b* sont réservés.[^132-3]
 
 <sup>4</sup> Si une banque d’importance systémique détient des fonds supplémentaires sous forme de fonds propres de base durs ou de capital convertible satisfaisant aux exigences applicables aux fonds propres de base supplémentaires, les exigences de l’al. 2 sont réduites d’un facteur 0,5 à hauteur de ces fonds supplémentaires. La réduction maximale des exigences est d’un tiers.
 
-<sup>5</sup> Si une banque d’importance systémique active au niveau international détient des fonds supplémentaires sous forme de capital tel que défini à l’al. 4, ce capital est pris en compte de façon privilégiée au sens de l’al. 4, jusqu’à hauteur de 2 % pour le *leverage ratio* et de 5,8 % pour la part RWA. Les exigences concernant la capacité totale d’absorption des pertes selon les recommandations du Conseil de stabilité financière[^132-3] doivent être respectées.
+<sup>5</sup> …[^132-4]
 
 <sup>6</sup> Les fonds propres détenus par une banque pour satisfaire aux exigences fixées dans le présent chapitre ne peuvent pas être utilisés en même temps pour satisfaire aux exigences énoncées aux art. 128 à 131*b*.
 
 <sup>7</sup> Si une banque détenait auparavant des fonds propres pour satisfaire aux exigences fixées dans le présent chapitre, elle ne peut désormais les utiliser, pour satisfaire aux exigences énoncées aux art. 128 à 131*b*, que si les fonds restants permettent de satisfaire aux exigences du présent article.
 
 [^132-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^132-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^132-3]: *Total Loss-Absorbing Capacity Term Sheet* du 9 novembre 2015
+[^132-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-4]: Abrogé par l’annexe ch. 2 de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 132a
 
-**Banques disposant d’une garantie de l’État ou d’un mécanisme similaire**[^132a-1]
+**Dispositions particulières applicables aux banques d’importance systémique actives au niveau international**[^132a-1]
+
+<sup>1</sup> Si une banque d’importance systémique active au niveau international détient les fonds supplémentaires sous forme de fonds propres de base durs ou de capital convertible conformes aux exigences relatives aux fonds propres de base supplémentaires, ce capital est pris en compte de façon privilégiée au sens de l’art. 132, al. 4, jusqu’à hauteur de 2 % pour le *leverage ratio* et de 5,8 % pour la part RWA.
+
+<sup>2</sup> Pour les entités visées à l’art. 124, al. 3, let. b à d, le montant des fonds supplémentaires exigés ne doit pas être inférieur à 3,75 % pour le *leverage ratio* ni à 10 % pour la part RWA, compte tenu de la réduction de l’exigence prévue à l’al. 1.
+
+[^132a-1]: Introduit par le ch. I de l’O du 21 nov. 2018 ([RO 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 132b
+
+**Dispositions particulières applicables aux banques disposant d’une garantie de l’État ou d’un mécanisme similaire**[^132b-1]
 
 Si une banque d’importance systémique non active au niveau international dispose d’une garantie explicite du canton (garantie étatique) ou d’un mécanisme similaire, l’exigence énoncée à l’art. 132, al. 2, let. b:
 
 - a. est considérée comme satisfaite à hauteur du montant garanti jusqu’à la moitié au maximum des 40 % requis;
 - b. est considérée comme entièrement satisfaite à hauteur du montant garanti si, en cas de crise, les fonds correspondants non grevés sont mis à la disposition de la FINMA de manière irrévocable et dans les plus brefs délais; la FINMA décide au cas par cas si ces conditions sont remplies.
 
-[^132a-1]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^132b-1]: Introduit par l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 133
 
-**Remises pour les banques d’importance systémique actives au niveau international[^133-1]**
+**Autres fonds supplémentaires destinés à absorber les pertes des banques d’importance systémique actives au niveau international**[^133-1]
 
-<sup>1</sup>
+En vertu de l’art. 65*b*, al. 1, OB[^133-2], la FINMA peut exiger d’autres fonds supplémentaires destinés à absorber les pertes en cas d’obstacles à la capacité d’assainissement et de liquidation des entités visées à l’art. 124, al. 3, let. b à d, de banques d’importance systémique actives au niveau international. Le montant de ces fonds supplémentaires est limité à 25 % de l’exigence totale. L’art. 132, al. 4, s’applique par analogie.
 
-La FINMA détermine les remises accordées pour les mesures visant à améliorer la capacité globale d’assainissement et de liquidation du groupe financier conformément aux art. 65 et 66 OB[^133-2], après consultation de la Banque nationale suisse, en tenant compte:
-
-- a. de l’efficacité des mesures visant à améliorer la capacité globale d’assainissement et de liquidation du groupe financier;
-- b. des interactions entre les différents groupes de remises.
-
-<sup>2</sup> En ce qui concerne les entités visées à l’art. 124, al. 3, let. b à d, le montant des fonds supplémentaires exigés ne doit pas être inférieur à 3,75 % pour le *leverage ratio* ni à 10 % pour la part RWA, compte tenu des remises et de la réduction de l’exigence due à la prise en compte privilégiée de capital convertible selon l’art. 132, al. 4.[^133-3]
-
-<sup>3</sup>
-
-Les abaissements ne doivent pas:
-
-- a.[^133-4] en considérant la prise en compte des fonds propres de base durs ou du capital convertible visés à l’art. 132, al. 4, entraîner le non-respect des normes internationales;
-- b. compromettre la mise en œuvre du plan d’urgence.
-
-<sup>4</sup> Le fait de prouver que le plan d’urgence permet de garantir le maintien des fonctions d’importance systémique en cas de menace d’insolvabilité, conformément à l’art. 9, al. 2, let. d, LB, ne donne droit à aucune remise.
-
-<sup>5</sup> La FINMA peut consulter des autorités étrangères de surveillance et de faillite au sujet des mesures proposées par la banque et tenir compte de leur appréciation au moment d’évaluer l’amélioration de la capacité globale d’assainissement et de liquidation du groupe financier en vue de l’abaissement des fonds supplémentaires.
-
-[^133-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^133-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^133-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^133-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^133-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 
 #### Art. 134 et 135
 
@@ -2613,7 +2649,7 @@ Annexe 2[^t-3]
 
 ## Classes de positions de l’AS-BRI lors de l’utilisation des notations externes et des pondérations y relatives
 
-[^t-3]: Mise à jour par l’annexe 2 ch. 4 de l’O du 30 avr. 2014 sur les banques, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^t-3]: Mise à jour par l’annexe 2 ch. 4 de l’O du 30 avr. 2014 sur les banques ([RO 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)) et l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th>Chiffre</th><th>Classes de positions (AS-BRI) avec possibilité d’utiliser les notations externes</th><th colspan="9">Classes de notations</th></tr>
@@ -2633,13 +2669,17 @@ Annexe 2[^t-3]
 <tr><td>4.2</td><td>Banques et maisons de titres, durée initiale &gt; 3 mois</td><td>20 %</td><td>20 %</td><td>50 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>50 %</td><td>–</td></tr>
 <tr><td>5.</td><td>Établissements créés en commun</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>5.1</td><td>Établissements créés en commun par les banques, reconnus par la FINMA</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
-<tr><td>5.2</td><td>Engagements de versement envers l’Association de garantie des dépôts</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>20 %</td></tr>
+<tr><td>5.2</td><td>Engagements de versement envers l’organisme de garantie</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>20 %</td></tr>
+<tr><td>5.3</td><td>Créances de banques des catégories 4 et 5 selon l’annexe 3 OB[^annex2-lvlu1-1] sur le remboursement du prêt en espèces accordé à l’organisme de garantie conformément à l’art. 37*h*, al. 3, let. c, ch. 2, LB</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20 %</td></tr>
+<tr><td>5.4</td><td>Demande de remboursement à l’organisme de garantie après la mise en œuvre de la garantie des dépôts (art. 37*i* LB)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>100 %</td></tr>
 <tr><td>6.</td><td>Bourses, chambres de compensation et contreparties centrales</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>6.1</td><td>Bourses, chambres de compensation et contreparties centrales</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
 <tr><td>6.2</td><td>Contreparties centrales lorsque les risques de crédit découlent directement de contrats traités en bourse ou hors bourse par la contrepartie centrale qui garantit l’exécution des transactions (notamment dérivés, opérations de mise en pension et opérations similaires, où la contrepartie centrale garantit l’exécution des obligations sur toute la durée).</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>2 %</td></tr>
 <tr><td>6.3</td><td>Bourses et chambres de compensation lorsque les risques de crédit découlent directement de l’exécution de prestations garanties par une contrepartie centrale, dans le cadre de transactions où la contrepartie centrale ne garantit que le traitement (notamment opérations de caisse).</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>0 %</td></tr>
 <tr><td>7</td><td>Entreprises</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
 </table>
+
+[^annex2-lvlu1-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
 Annexe 3[^t-4]
 
@@ -2689,8 +2729,8 @@ Annexe 4[^t-5]
 <tr><td>1.1</td><td>Titres de participations détenus dans les immobilisations financières ou, lorsque la banque applique l’approche *de minimis*, dans le portefeuille de négoce.</td><td></td><td>Traités dans une bourse régulée</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>oui</td><td>100 %</td></tr>
 <tr><td></td><td></td><td></td><td>non</td><td>150 %</td></tr>
-<tr><td>1.2</td><td>...</td><td></td><td></td><td></td></tr>
-<tr><td>1.3</td><td>...</td><td colspan="2"></td><td></td></tr>
+<tr><td>1.2</td><td>…</td><td></td><td></td><td></td></tr>
+<tr><td>1.3</td><td>…</td><td colspan="2"></td><td></td></tr>
 <tr><td>1.4</td><td>Participations en-dehors du secteur bancaire, financier et des assurances</td><td colspan="2">Traitées dans une bourse régulée</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">oui</td><td>100 %</td></tr>
 <tr><td></td><td></td><td colspan="2">non</td><td>150 %</td></tr>
@@ -2730,7 +2770,7 @@ Annexe 6
 
 ## Modification du droit en vigueur
 
-...[^annex6-lvlu1-1]
+…[^annex6-lvlu1-1]
 
 [^annex6-lvlu1-1]: Les mod. peuvent être consultées au [RO 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629).
 

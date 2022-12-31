@@ -4,11 +4,11 @@ title: "Verordnung vom 1. Juni 2012 über die Eigenmittel und Risikoverteilung d
 short: ERV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: de
-version: 2022-09-30
+version: 2023-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20220930/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20220930-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/de"
 
 (Eigenmittelverordnung, ERV)[^t-1]
 
-vom 1. Juni 2012 (Stand am 30. September 2022)
+vom 1. Juni 2012 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 10 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -280,7 +280,11 @@ Die Banken können einzelne Bestimmungen dieser Verordnung und der sie präzisie
 
 <sup>2</sup> Sie stellen sicher, dass diese Voraussetzungen eingehalten werden, und dokumentieren die Art der Vereinfachung.
 
-## 2. Titel: Anrechenbare Eigenmittel
+## 2. Titel: Anrechenbare Eigenmittel sowie zusätzliche verlustabsorbierende Mittel
+
+[^tit2-1]
+
+[^tit2-1]: Fassung gemäss Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 ### 1. Kapitel: Allgemeines
 
@@ -684,6 +688,44 @@ Die Bank muss von ihrem harten Kernkapital folgende den Schwellenwert 2 überste
 <sup>1</sup> Die sich nach den Verfahren gemäss den Artikeln 38 Absätze 2 und 3 und 39 ergebenden Bilanzwerte, die unterhalb des Schwellenwerts 2 liegen, werden addiert und am Schwellenwert 3 gemessen. Die Bank muss den Betrag über dem Schwellenwert 3 von ihrem harten Kernkapital in Abzug bringen.
 
 <sup>2</sup> Beträge unter dem Schwellenwert 3 hat die Bank je mit 250 Prozent Risiko zu gewichten.
+
+### 3. Kapitel: Zusätzliche verlustabsorbierende Mittel für Kantonalbanken
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Eingefügt durch Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 40a
+
+<sup>1</sup> Kantonalbanken können Schuldinstrumente zur Verlusttragung bei Insolvenzmassnahmen nach Artikel 30*b* Absatz 6 BankG ausgeben.
+
+<sup>2</sup>
+
+Diese Schuldinstrumente müssen die Anforderungen von Artikel 126*a* erfüllen sowie zusätzlich folgende Ausgabebedingungen vorsehen:
+
+- a. Die Höhe der Kompensation richtet sich nach dem Betrag, um den die Forderung reduziert wurde. Dabei zu berücksichtigen sind die aufgelaufenen und abgeschriebenen Zinsen sowie der Zinsbetrag, der bis zur Endfälligkeit der Forderung auf dem entsprechenden Betrag zu bezahlen gewesen wäre.
+- b. Die Pflicht zur Ausrichtung der Kompensation ist zeitlich beschränkt. Die Dauer und der Mechanismus für die Ausrichtung müssen dem Sanierungskonzept sowie der Höhe der Kompensation Rechnung tragen; die Dauer beträgt mindestens zehn Jahre.
+- c.
+
+  Die Kantonalbank:
+
+  - 1\. darf eine Kompensation nur leisten, wenn sie nach deren Zahlung die regulatorischen Anforderungen erfüllt,
+  - 2\.
+
+    muss eine Kompensation leisten, wenn sie die Voraussetzungen von Ziffer 1 erfüllt und:
+
+    - – über einen definierten Kapitalpuffer verfügt oder
+    - – wenn sie eine Ausschüttung an den Kanton vornimmt zur Deckung von dessen Kosten für die Refinanzierung des von ihm in der Sanierung eingeschossenen Kapitals.
+
+<sup>3</sup>
+
+Vor der Ausgabe von Schuldinstrumenten nach diesem Artikel muss die Kantonalbank der FINMA die Ausgabebedingungen sowie ein zusammen mit dem Kanton ausgearbeitetes Sanierungskonzept zur Genehmigung vorlegen. Das Sanierungskonzept muss insbesondere darlegen:
+
+- a. den Mechanismus für die Ausrichtung der nachträglichen Kompensation einschliesslich dessen Form, Modalitäten und rechtliche Durchführbarkeit;
+- b. inwiefern eine Abschreibung der Schuldinstrumente im Rahmen der Sanierung durchführbar ist und die gesetzlichen Anforderungen, namentlich jene von Artikel 30*c* Absatz 1 Buchstabe b BankG, erfüllt;
+- c. die Eckwerte einer allfälligen Beteiligung des Kantons an der Sanierung der Kantonalbank.
+
+<sup>4</sup> Schuldinstrumente nach diesem Artikel dürfen nur mit einer Mindeststückelung von 100 000 Franken ausgegeben werden.
 
 ## 3. Titel: Erforderliche Eigenmittel
 
@@ -1267,7 +1309,7 @@ Gewichtet eine Bank die Positionen gegenüber Unternehmen unter der Verwendung v
 
 <sup>3</sup> Das Risikogewicht von 35 Prozent für ausländische Wohnliegenschaften gilt nur, sofern für diese Liegenschaften ein angemessenes und im Vergleich mit schweizerischen Wohnliegenschaften gleichwertiges Risikomanagement sichergestellt werden kann.
 
-<sup>4</sup> Verpfändete Vorsorgeguthaben und verpfändete Ansprüche auf Vorsorgeleistungen nach Artikel 30*b* des Bundesgesetzes vom 25. Juni 1982[^72-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) sowie Artikel 4 der Verordnung vom 13. November 1985[^72-2] über die steuerliche Abzugsberechtigung für Beiträge an anerkannte Vorsorgeformen werden bei der Berechnung der für die Risikogewichtung massgebenden Position nach Anhang 3 als Eigenmittel der Kreditnehmerin oder des Kreditnehmers berücksichtigt, sofern
+<sup>4</sup> Verpfändete Vorsorgeguthaben und verpfändete Ansprüche auf Vorsorgeleistungen nach Artikel 30*b* des Bundesgesetzes vom 25. Juni 1982[^72-1] über die berufliche Alters‑, Hinterlassenen- und Invalidenvorsorge (BVG) sowie Artikel 4 der Verordnung vom 13. November 1985[^72-2] über die steuerliche Abzugsberechtigung für Beiträge an anerkannte Vorsorgeformen werden bei der Berechnung der für die Risikogewichtung massgebenden Position nach Anhang 3 als Eigenmittel der Kreditnehmerin oder des Kreditnehmers berücksichtigt, sofern
 
 - a. die Verpfändung als Zusatzdeckung zu einer grundpfandgesicherten Forderung besteht;
 - b. es sich bei der Liegenschaft um eine durch die Kreditnehmerin oder den Kreditnehmer selbst genutzte Liegenschaft handelt; und
@@ -2045,7 +2087,9 @@ Wandlungskapital kann in dem Umfang auf bestimmte Eigenmittelkomponenten angerec
 
 <sup>1</sup> Bail-in-Bonds, welche die Voraussetzungen von Artikel 126*a* erfüllen, können an die zusätzlichen verlustabsorbierenden Mittel nach dem 4. Kapitel in der Höhe des Forderungsbetrags angerechnet werden, solange sie noch eine Restlaufzeit von mindestens einem Jahr aufweisen.[^127a-2]
 
-<sup>2</sup> Die zusätzlichen verlustabsorbierenden Mittel sind zeitlich so zu staffeln, dass die Voraussetzungen an die Höhe dieser Mittel auch bei einer vorübergehenden Einschränkung der Mittelaufnahme erfüllt werden können. Die Anforderungen an zusätzliche verlustabsorbierende Mittel dürfen zu höchstens 25 Prozent mit Mitteln mit einer Restlaufzeit von zwischen einem und zwei Jahren erfüllt werden.[^127a-3]
+<sup>1bis</sup> Ebenfalls nach Absatz 1 angerechnet werden können von Kantonalbanken ausgegebene Bail-in-Bonds, welche die Voraussetzungen nach Artikel 40*a* erfüllen.[^127a-3]
+
+<sup>2</sup> Die zusätzlichen verlustabsorbierenden Mittel sind zeitlich so zu staffeln, dass die Voraussetzungen an die Höhe dieser Mittel auch bei einer vorübergehenden Einschränkung der Mittelaufnahme erfüllt werden können. Die Anforderungen an zusätzliche verlustabsorbierende Mittel dürfen zu höchstens 25 Prozent mit Mitteln mit einer Restlaufzeit von zwischen einem und zwei Jahren erfüllt werden.[^127a-4]
 
 <sup>3</sup> Soweit Ergänzungskapital in Anwendung der Bestimmungen von Artikel 30 Absatz 2 im Zeitraum von fünf bis einem Jahr vor der Endfälligkeit von der Anrechnung als regulatorische Eigenmittel ausgeschlossen ist, kann es im Rahmen internationaler Standards wie Bail-in-Bonds angerechnet werden, wenn sichergestellt ist, dass diese Instrumente vor Bail-in-Bonds verlusttragend sind.
 
@@ -2054,12 +2098,13 @@ Wandlungskapital kann in dem Umfang auf bestimmte Eigenmittelkomponenten angerec
 Systemrelevante Banken dürfen weder Kapitalinstrumente mit Wandlung oder Forderungsreduktion anderer Banken noch Bail-in-Bonds nach schweizerischem Recht oder nach entsprechenden Regelungen ausländischer Rechtsordnungen, anderer schweizerischer oder ausländischer systemrelevanter Banken auf eigenes Risiko halten. Ausgenommen sind:
 
 - a. Positionen im Zusammenhang mit dem Stellen von Geld- und Briefkursen als Market-Maker sowie kurzfristig gehaltene Positionen im Zusammenhang mit Emissionsgeschäften; und
-- b. das Halten von Bail-in-Bonds im Rahmen der Artikel 37 und 38 im Handelsbuch der Bank, soweit diese Bail-in-Bonds innerhalb von 30 Geschäftstagen nach Erwerb wieder veräussert werden.[^127a-4]
+- b. das Halten von Bail-in-Bonds im Rahmen der Artikel 37 und 38 im Handelsbuch der Bank, soweit diese Bail-in-Bonds innerhalb von 30 Geschäftstagen nach Erwerb wieder veräussert werden.[^127a-5]
 
 [^127a-1]: Eingefügt durch Ziff. I der V vom 11. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^127a-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^127a-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-3]: Eingefügt durch Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^127a-4]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-5]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 ### 3. Kapitel: Eigenmittel zur ordentlichen Weiterführung der Bank
 
@@ -2160,81 +2205,74 @@ Die FINMA kann unter besonderen Umständen im Einzelfall nach den Kriterien von 
 
 **Grundsatz**[^132-1]
 
-<sup>1</sup> Systemrelevante Banken müssen dauernd zusätzliche Mittel halten, um eine allfällige Sanierung und Abwicklung nach dem Elften und Zwölften Abschnitt des Bankengesetzes sicherzustellen.
+<sup>1</sup> Systemrelevante Banken müssen dauernd zusätzliche Mittel halten, um eine allfällige Sanierung und Liquidation nach dem elften und zwölften Abschnitt BankG[^132-2] sicherzustellen.[^132-3]
 
 <sup>2</sup>
 
-Die Anforderung an diese zusätzlichen Mittel bemisst sich nach der Gesamtanforderung bestehend aus den Sockelanforderungen und den Zuschlägen nach Artikel 129. Sie beträgt bei einer:
+Die Anforderung an diese zusätzlichen Mittel bemisst sich nach der Gesamtanforderung, bestehend aus den Sockelanforderungen und den Zuschlägen nach Artikel 129. Sie beträgt bei einer:
 
 - a.
 
   international tätigen systemrelevanten Bank:
 
   - 1\. für Einheiten, die systemrelevante Funktionen ausüben (Art. 124 Abs. 3 Bst. a): 62 Prozent der Gesamtanforderung auf Stufe Finanzgruppe und auf Stufe Einzelinstitut,
-  - 2\. auf den Stufen oberste Einheit einer Finanzgruppe (Art. 124 Abs. 3 Bst. b) sowie bedeutende untergeordnete Finanzgruppen (Art. 124 Abs. 3 Bst. c), sofern nicht die Anforderung von Ziffer 1 zur Anwendung kommt: 100 Prozent der Gesamtanforderung abzüglich eines Rabatts nach Artikel 133,
+  - 2\. auf den Stufen oberste Einheit einer Finanzgruppe (Art. 124 Abs. 3 Bst. b) sowie bedeutende untergeordnete Finanzgruppen (Art. 124 Abs. 3 Bst. c), sofern nicht die Anforderung von Ziffer 1 zur Anwendung kommt: 75 Prozent der Gesamtanforderung,
   - 3\.
 
     auf Stufe Einzelinstitut einer Bank nach Artikel 124 Absatz 3 Buchstabe c oder d die Summe aus:
 
     - – den Nominalbeträgen von zusätzlichen verlustabsorbierenden Mitteln, die an Tochtergesellschaften weitergegeben werden
-    - – 100 Prozent der Gesamtanforderung abzüglich eines Rabatts nach Artikel 133, mit Ausnahme von zu konsolidierenden Beteiligungen, einschliesslich des in gleicher Weise erfassten regulatorischen Kapitals und von Risiken aus gruppeninternen Beziehungen und
+    - – 75 Prozent der Gesamtanforderung, mit Ausnahme von zu konsolidierenden Beteiligungen, einschliesslich des in gleicher Weise erfassten regulatorischen Kapitals und von Risiken aus gruppeninternen Beziehungen und
     - – 30 Prozent der für diese Einheit konsolidiert geltenden Anforderungen;
 
-- b. nicht international tätigen systemrelevanten Bank: 40 Prozent der Gesamtanforderung.[^132-2]
+- b. nicht international tätigen systemrelevanten Bank: 40 Prozent der Gesamtanforderung.[^132-4]
 
-<sup>3</sup> Die zusätzlichen Mittel sind in Form von Bail-in-Bonds zu halten, welche die Anforderungen nach Artikel 126*a* erfüllen. Vorbehalten bleiben die Absätze 4–7 und Artikel 132*a*.
+<sup>3</sup> Die zusätzlichen Mittel sind in Form von Bail-in-Bonds zu halten, welche die Anforderungen nach Artikel 126*a* erfüllen. Vorbehalten bleiben die Absätze 4–7 und Artikel 132*b*.[^132-5]
 
 <sup>4</sup> Hält eine systemrelevante Bank die zusätzlichen Mittel in Form von hartem Kernkapital oder von Wandlungskapital, das die Anforderungen an zusätzliches Kernkapital erfüllt, so werden die Anforderungen nach Absatz 2 im Ausmass der so gehaltenen zusätzlichen Mittel um den Faktor 0.5 reduziert. Die maximale Reduktion der Anforderungen beträgt ein Drittel.
 
-<sup>5</sup> Hält eine international tätige systemrelevante Bank die zusätzlichen Mittel in Form von Kapital nach Absatz 4, so wird ihr dieses bis zu einer maximalen Höhe von 2 Prozent bei der Leverage Ratio und bis zu einer maximalen Höhe von 5,8 Prozent bei der RWA-Quote im Sinne von Absatz 4 bevorzugt angerechnet. Die Anforderungen an die Verlustabsorptionsfähigkeit nach den Empfehlungen des Financial Stability Board[^132-3] sind einzuhalten.
+<sup>5</sup> …[^132-6]
 
 <sup>6</sup> Eigenmittel, die eine Bank zur Erfüllung der Anforderungen nach diesem Kapitel hält, darf sie nicht gleichzeitig zur Erfüllung der Anforderungen nach den Artikeln 128–131*b* heranziehen.
 
 <sup>7</sup> Hat die Bank zu einem früheren Zeitpunkt Eigenmittel zur Erfüllung der Anforderungen nach diesem Kapitel gehalten, so darf sie diese neu zur Erfüllung der Anforderungen nach den Artikeln 128–131*b* nur insoweit heranziehen, als die Anforderungen dieses Artikels mit den verbleibenden Mitteln weiterhin erfüllt sind.
 
 [^132-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^132-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^132-3]: Total Loss-Absorbing Capacity Term Sheet vom 9. November 2015
+[^132-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^132-3]: Fassung gemäss Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-4]: Fassung gemäss Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-5]: Fassung gemäss Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-6]: Aufgehoben durch Anhang Ziff. 2 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 132a
 
-**Banken mit Staatsgarantie oder ähnlichem Mechanismus**[^132a-1]
+**Besondere Bestimmungen für international tätige systemrelevante Banken**[^132a-1]
+
+<sup>1</sup> Hält eine international tätige systemrelevante Bank die zusätzlichen Mittel in Form von hartem Kernkapital oder von Wandlungskapital, das die Anforderungen an zusätzliches Kernkapital erfüllt, so wird ihr dieses Kapitel bis zu einer maximalen Höhe von 2 Prozent bei der Leverage Ratio und bis zu einer maximalen Höhe von 5,8 Prozent bei der RWA-Quote im Sinne von Artikel 132 Absatz 4 bevorzugt angerechnet.
+
+<sup>2</sup> Für Einheiten nach Artikel 124 Absatz 3 Buchstaben b–d darf die Höhe der Anforderungen an die zusätzlichen Mittel unter Berücksichtigung der Anforderungsreduktion nach Absatz 1 weder 3,75 Prozent bei der Leverage Ratio noch 10 Prozent bei der RWA-Quote unterschreiten.
+
+[^132a-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)). Fassung gemäss Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 132b
+
+**Besondere Bestimmungen für Banken mit Staatsgarantie oder ähnlichem Mechanismus**[^132b-1]
 
 Verfügt eine nicht international tätige systemrelevante Bank über eine ausdrückliche kantonale Staatsgarantie oder über einen ähnlichen Mechanismus, so gilt die Anforderung nach Artikel 132 Absatz 2 Buchstabe b im Umfang des garantierten Betrags:
 
 - a. bis auf maximal die Hälfte der erforderlichen 40 Prozent als erfüllt;
 - b. als vollumfänglich erfüllt, wenn der FINMA im Krisenfall die entsprechenden Mittel unwiderruflich innert kurzer Frist unbelastet zur Verfügung stehen; die FINMA entscheidet im Einzelfall, ob diese Voraussetzungen erfüllt sind.
 
-[^132a-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^132b-1]: Eingefügt durch Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 133
 
-**Rabatte für international tätige systemrelevante Banken[^133-1]**
+**Ergänzende zusätzliche verlustabsorbierende Mittel für international tätige systemrelevante Banken**[^133-1]
 
-<sup>1</sup>
+Die FINMA kann nach Artikel 65*b* Absatz 1 BankV[^133-2] bei Hindernissen für die Sanier- und Liquidierbarkeit für Einheiten nach Artikel 124 Absatz 3 Buchstaben b–d von international tätigen systemrelevanten Banken ergänzende zusätzliche verlustabsorbierende Mittel verlangen. Deren Höhe ist auf 25 Prozent der Gesamtanforderung begrenzt. Artikel 132 Absatz 4 gilt sinngemäss.
 
-Die FINMA bemisst die Rabatte für Massnahmen zur Verbesserung der globalen Sanier- und Liquidierbarkeit der Finanzgruppe gemäss den Artikeln 65 und 66 BankV[^133-2] nach Anhörung der Schweizerischen Nationalbank:
-
-- a. aufgrund der Wirksamkeit der Massnahmen zur Verbesserung der globalen Sanier- und Liquidierbarkeit der Finanzgruppe; und
-- b. unter Berücksichtigung der Wechselwirkungen unter den verschiedenen Rabattgruppen.
-
-<sup>2</sup> Für Einheiten nach Artikel 124 Absatz 3 Buchstabe b–d darf die Höhe der Anforderung an zusätzliche Mittel unter Berücksichtigung der Rabatte und der Anforderungsreduktion aufgrund präferierter Anrechnung von Wandelkapital nach Artikel 132 Absatz 4 weder 3,75 Prozent bei der Leverage Ratio noch 10 Prozent bei der RWA-Quote unterschreiten.[^133-3]
-
-<sup>3</sup>
-
-Die Herabsetzung darf nicht dazu führen, dass:
-
-- a.[^133-4] nach Berücksichtigung der Anrechnung von hartem Kernkapital oder Wandlungskapital nach Artikel 132 Absatz 4 die internationalen Standards unterschritten werden;
-- b. die Umsetzbarkeit des Notfallplans gefährdet wird.
-
-<sup>4</sup> Für den Nachweis, dass mit dem Notfallplan die Weiterführung systemrelevanter Funktionen im Fall drohender Insolvenz gemäss Artikel 9 Absatz 2 Buchstabe d BankG gewährleistet ist, werden keine Rabatte gewährt.
-
-<sup>5</sup> Die FINMA kann ausländische Aufsichts- und Insolvenzbehörden zu den von der Bank vorgeschlagenen Massnahmen konsultieren und deren Beurteilung bei der Bewertung der Verbesserung der globalen Sanier- und Liquidierbarkeit der Finanzgruppe für die Herabsetzung der zusätzlichen Mittel berücksichtigen.
-
-[^133-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^133-1]: Fassung gemäss Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^133-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^133-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^133-4]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 
 #### Art. 134 und 135
 
@@ -2615,7 +2653,7 @@ Anhang 2[^t-3]
 
 ## Positionsklassen nach SA-BIZ bei Verwendung externer Ratings und deren Risikogewichtung
 
-[^t-3]: Bereinigt gemäss Anhang 2 Ziff. 4 der Bankenverordnung vom 30. April 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^t-3]: Bereinigt gemäss Anhang 2 Ziff. 4 der Bankenverordnung vom 30. April 2014 ([AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)) und Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th>Ziffer</th><th>Positionsklassen (SA-BIZ) mit der Möglichkeit zur Verwendung externer Ratings</th><th colspan="9">Ratingklassen</th></tr>
@@ -2635,13 +2673,17 @@ Anhang 2[^t-3]
 <tr><td>4.2</td><td>Banken und Wertpapierhäuser, Ursprungslaufzeit der Forderung &gt; 3 Monate</td><td>20 %</td><td>20 %</td><td>50 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>50 %</td><td>–</td></tr>
 <tr><td>5.</td><td>Gemeinschaftseinrichtungen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>5.1</td><td>Von der FINMA anerkannte Gemeinschaftseinrichtungen der Banken</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
-<tr><td>5.2</td><td>Einzahlungsverpflichtungen gegenüber dem Träger der Einlagensicherung</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>20 %</td></tr>
+<tr><td>5.2</td><td>Einzahlungsverpflichtungen gegenüber dem Träger der Einlagensicherung</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>20%</td></tr>
+<tr><td>5.3</td><td>Forderungen von Banken der Kategorien 4 und 5 nach Anhang 3 BankV[^annex2-lvlu1-1] auf Rückzahlung von dem Träger der Einlagensicherung gewährten Bardarlehen nach Artikel 37*h* Absatz 3 Buchstabe c Ziffer 2 BankG</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20%</td></tr>
+<tr><td>5.4</td><td>Rückzahlungsforderungen gegenüber dem Träger der Einlagensicherung nach Auslösung der Einlagensicherung (Art. 37*i* BankG)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>100%</td></tr>
 <tr><td>6.</td><td>Börsen, Clearinghäuser und zentrale Gegenparteien</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>6.1</td><td>Börsen, Clearinghäuser und zentrale Gegenparteien</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
 <tr><td>6.2</td><td>Zentrale Gegenparteien, sofern Kreditrisiken in direktem Zusammenhang mit der durch die zentrale Gegenpartei garantierten Leistungserfüllung börslich oder ausserbörslich gehandelter Kontrakte stehen (insbesondere Derivate, Repo- oder repoähnliche Geschäfte, wo die zentrale Gegenpartei die Pflichterfüllung über die gesamte Laufzeit garantiert).</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>2 %</td></tr>
 <tr><td>6.3</td><td>Börsen und Clearinghäuser, sofern Kreditrisiken in direktem Zusammenhang mit der durch eine zentrale Gegenpartei garantierten Leistungserfüllung von Geschäften stehen, wo die zentrale Gegenpartei lediglich die Abwicklung garantiert (insbesondere Kassageschäfte).</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>0 %</td></tr>
 <tr><td>**7**</td><td>**Unternehmen**</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
 </table>
+
+[^annex2-lvlu1-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
 Anhang 3[^t-4]
 

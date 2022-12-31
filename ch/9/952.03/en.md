@@ -4,22 +4,22 @@ title: "Ordinance of 1 June 2012 on the Capital Adequacy and Risk Diversificatio
 short: CAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: en
-version: 2022-09-30
+version: 2023-01-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20220930/en/xml/fedlex-data-admin-ch-eli-cc-2012-629-20220930-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2012-629-20230101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Ordinance on the Capital Adequacy and Risk Diversification of Banks and Securities Firms****
+# Ordinance on the Capital Adequacy and Risk Diversification of Banks and Securities Firms
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.[^t-1]
 
 (Capital Adequacy Ordinance, CAO)
 
-of 1 June 2012 (Status as of 30 September 2022)
+of 1 June 2012 (Status as of 1 January 2023)
 
 [^t-1]: Amended by Annex 1 No II 10 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -282,7 +282,11 @@ The banks may opt for simplified application of individual provisions of this Or
 
 <sup>2</sup> They shall ensure that these requirements are met and shall document the type of simplification.
 
-## Title 2 Eligible Capital
+## Title 2 Eligible Capital and Additional Loss-Absorbing Capital
+
+[^tit2-1]
+
+[^tit2-1]: Amended by Annex No 2 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 ### Chapter 1 General
 
@@ -687,6 +691,44 @@ The bank must separately deduct from its CET1 capital the following amounts that
 
 <sup>2</sup> The bank shall apply a risk weight of 250 per cent to each amount below threshold 3.
 
+### Chapter 3 Additional Loss-Absorbing Funds for Cantonal Banks
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Inserted by Annex No 2 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 40a
+
+<sup>1</sup> Cantonal banks may issue bail-in bonds in accordance with Article 30*b* paragraph 6 of the BankA.
+
+<sup>2</sup>
+
+These bail-in bonds must meet the requirements of Article 126*a*, as well as make provision for the following issuance conditions:
+
+- a. The level of compensation is based on the amount by which the receivable is reduced. It should take account of interest accrued and written off, as well as the interest payable on the corresponding amount up to final maturity of the receivable.
+- b. The obligation to pay compensation shall apply for a limited period of time. The duration and mechanism for payment must take account of the resolution concept and the level of compensation; the duration shall be at least ten years.
+- c.
+
+  The cantonal bank:
+
+  - 1\. may pay compensation only if it meets the regulatory requirements after making the payment,
+  - 2\.
+
+    must pay compensation if it meets the criteria in paragraph 1 and:
+
+    - - has a defined capital buffer or
+    - - if it distributes funds to the canton in order to cover the latter's costs for refinancing the capital it has used in the resolution.
+
+<sup>3</sup>
+
+Before the issuance of debt instruments in accordance with this Article, the cantonal bank must submit the issuance conditions, as well as a resolution concept that has been drawn up jointly with the canton, to FINMA for approval. In particular, the resolution concept must provide details of:
+
+- a. the mechanism for paying out the subsequent compensation, including the form, terms and legal feasibility;
+- b. the extent to which a write-down of debt instruments as part of the resolution is feasible and complies with the legal requirements, in particular those of Article 30*c* paragraph 1 letter b of the BankA;
+- c. the parameters for any participation by the canton in the resolution of the cantonal bank.
+
+<sup>4</sup> Debt instruments in accordance with this Article may be issued only in minimum denominations of CHF 100,000.
+
 ## Title 3 Required Capital
 
 ### Chapter 1 General
@@ -811,7 +853,7 @@ For banks that determine their required capital using model-based approaches tha
 [^47-1]: Expected positive exposure modelling method.
 [^47-2]: Advanced measurement approach.
 
-### Chapter 1*a***** Simplifications for Particularly Liquid and Well-Capitalised Banks in Categories 4 and 5
+### Chapter 1*a* Simplifications for Particularly Liquid and Well-Capitalised Banks in Categories 4 and 5
 
 [^tit3-chap1a-1]
 
@@ -1629,7 +1671,7 @@ In a departure from Article 97 paragraph 1, as regards banks in categories 4 and
 
 [^99-1]: Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2019 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
-### Section 3**** Reporting obligations relating to risk concentrations and other large credit risk exposures
+### Section 3 Reporting obligations relating to risk concentrations and other large credit risk exposures
 
 [^tit4-chap1-sec3-1]
 
@@ -1807,7 +1849,7 @@ In special cases, it may also relax or tighten the risk diversification requirem
 [^112-1]: Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2019 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^112-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-### Chapter 2**** Calculation of Total Exposure
+### Chapter 2 Calculation of Total Exposure
 
 [^tit4-chap2-1]
 
@@ -1930,7 +1972,7 @@ The special requirements must be met by the entities listed below, at the level 
 
 [^124-1]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 [^124-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^124-3]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 (AS **201****9** 4623).
+[^124-3]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 [^124-4]: Inserted by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 #### Art. 124a
@@ -1957,7 +1999,7 @@ The special requirements must be met by the entities listed below, at the level 
 
 [^125a-1]: Inserted by No I of the O of 11 May 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Repealed by No I of the O of 22 Nov. 2017, with effect from 1 Jan. 2018 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
-### Chapter 2 Convertible Capital and Bail-In Bonds****
+### Chapter 2 Convertible Capital and Bail-In Bonds
 
 [^tit5-chap2-1]
 
@@ -2049,7 +2091,9 @@ Convertible capital may be recognised in the amount of certain capital component
 
 <sup>1</sup> Bail-in bonds meeting the criteria under Article 126*a* may be recognised as additional loss-absorbing funds under Chapter 4 in the amount of the receivable, provided they have a residual maturity of at least one year.[^127a-2]
 
-<sup>2</sup> The maturities of the loss-absorbing funds shall be staggered so as to ensure that the requirements concerning the level of these funds can be met, even in the event of temporarily impaired borrowing conditions. A maximum of 25 per cent of the requirements concerning additional loss-absorbing funds may be met with assets with a residual maturity between one and two years.[^127a-3]
+<sup>1bis</sup> Bail-in bonds that are issued by cantonal banks and which meet the criteria set out in Article 40*a* may also be recognised in accordance with paragraph 1.[^127a-3]
+
+<sup>2</sup> The maturities of the loss-absorbing funds shall be staggered so as to ensure that the requirements concerning the level of these funds can be met, even in the event of temporarily impaired borrowing conditions. A maximum of 25 per cent of the requirements concerning additional loss-absorbing funds may be met with assets with a residual maturity between one and two years.[^127a-4]
 
 <sup>3</sup> Where Tier 2 capital in accordance with Article 30 paragraph 2 is excluded as regulatory capital for a period of five years up to one year before final maturity, it can be recognised in the same way as bail-in bonds in accordance with international standards, provided it is ensured that these instruments will absorb losses ahead of bail-in bonds.
 
@@ -2058,14 +2102,15 @@ Convertible capital may be recognised in the amount of certain capital component
 Systemically important banks may not hold at their own risk convertible or debt-reducing capital instruments of other banks, nor bail-in bonds of other Swiss banks or foreign systemically important banks governed by Swiss law or corresponding regulations in foreign jurisdictions. The following are exempt:
 
 - a. exposures relating to the provision of bid and offer prices as a market maker, and short-term exposures relating to underwriting activities; and
-- b. the holding of bail-in bonds under Articles 37 and 38 in the bank's trading book, provided these bail-in bonds are resold within 30 business days of their purchase.[^127a-4]
+- b. the holding of bail-in bonds under Articles 37 and 38 in the bank's trading book, provided these bail-in bonds are resold within 30 business days of their purchase.[^127a-5]
 
 [^127a-1]: Inserted by No I of the O of 11 May 2016, in force since 1 July 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^127a-2]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 (AS **201****9** 4623).
-[^127a-3]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-2]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-3]: Inserted by Annex No 2 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^127a-4]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-5]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
-### Chapter 3**** Going-Concern Capital of the Bank
+### Chapter 3 Going-Concern Capital of the Bank
 
 [^tit5-chap3-1]
 
@@ -2154,7 +2199,7 @@ In addition to the capital requirements as a measure of risk-weighted exposures 
 
 In special circumstances, FINMA may require individual banks to hold additional capital according to the criteria under Article 45, or may set higher quality requirements.
 
-### Chapter 4**** Additional Loss-Absorbing Funds
+### Chapter 4 Additional Loss-Absorbing Funds
 
 [^tit5-chap4-1]
 
@@ -2164,7 +2209,7 @@ In special circumstances, FINMA may require individual banks to hold additional 
 
 **Principle**[^132-1]
 
-<sup>1</sup> Systemically important banks must permanently hold additional funds to ensure resolution in accordance with Sections 11 and 12 of the BankA.
+<sup>1</sup> Systemically important banks must permanently hold additional funds to ensure liquidity in accordance with Sections 11 and 12 of the BankA[^132-2].[^132-3]
 
 <sup>2</sup>
 
@@ -2174,71 +2219,64 @@ The requirement concerning these additional funds is based on the total requirem
 
   for an internationally active systemically important bank:
 
-  - 1 for entities performing systemically important functions (Art. 124 para. 3 lit. a): 62 per cent of the total requirement at the level of the financial group and the individual entity,
-  - 2 at the level of the highest entity in a financial group (Art. 124 para. 3 lit. b) and significant subordinate financial groups (Art. 124 para. 3 lit. c), unless the requirements under No. 1 apply: 100 per cent of the total requirement minus the rebate under Article 133,
-  - 3
+  - 1\. for entities performing systemically important functions (Art. 124 para. 3 lit. a): 62 per cent of the total requirement at the level of the financial group and the individual entity,
+  - 2\. at the level of the highest entity in a financial group (Art. 124 para. 3 lit. b) and significant subordinate financial groups (Art. 124 para. 3 lit. c), unless the requirements under No. 1 apply: 75 per cent of the total requirement,
+  - 3\.
 
     at the level of the individual entity under Article 124 paragraph 3 letters c or d, the sum of:
 
-    - [tab] – the nominal amounts of additional loss-absorbing funds passed on to subsidiaries
-    - [tab] – 100 per cent of the total requirement minus the rebate under Article 133, except for financial interests subject to the consolidation requirement, including similarly recorded regulatory capital, and except for exposures from intra-group relationships, and
-    - [tab] – 30 per cent of the consolidated requirements applicable to that entity;
+    - – the nominal amounts of additional loss-absorbing funds passed on to subsidiaries
+    - – 75 per cent of the total requirement, except for financial interests subject to the consolidation requirement, including similarly recorded regulatory capital, and except for exposures from intra-group relationships, and
+    - – 30 per cent of the consolidated requirements applicable to that entity;
 
-- b. for a non-internationally active systemically important bank: 40 per cent of the total requirement.[^132-2]
+- b. for a non-internationally active systemically important bank: 40 per cent of the total requirement.[^132-4]
 
-<sup>3</sup> The additional funds must be held in the form of bail-in bonds meeting the criteria under Article 126*a*. This is without prejudice to paragraphs 4 to 7 and Article 132*a*.
+<sup>3</sup> The additional funds must be held in the form of bail-in bonds meeting the criteria under Article 126*a*. This is without prejudice to paragraphs 4 to 7 and Article 132*b*.[^132-5]
 
 <sup>4</sup> If a systemically important bank holds the additional funds in the form of CET1 capital or convertible capital that meets the requirements concerning AT1 capital, the requirements under paragraph 2 shall be reduced by a factor of 0.5 for the amount of additional funds thus held. The requirements may be reduced by a maximum of one third.
 
-<sup>5</sup> If an internationally active systemically important bank holds the additional funds in the form of capital under paragraph 4, these funds shall receive preferential treatment within the meaning of paragraph 4, up to a maximum of 2 per cent for the leverage ratio and up to a maximum of 5.8 per cent for the RWA ratio. The requirements concerning loss-absorbing capacity according to Financial Stability Board recommendations[^132-3] must be complied with.
+<sup>5</sup> …[^132-6]
 
 <sup>6</sup> Capital held by a bank to meet the requirements under this chapter must not simultaneously be used to meet the requirements under Articles 128 to 131*b*.
 
 <sup>7</sup> If a bank has previously held capital to meet the requirements in this chapter, it may use now use it to meet the requirements under Articles 128 to 131*b* only insofar as the requirements of this article continue to be met with the remaining funds.
 
 [^132-1]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^132-2]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^132-3]: Total Loss-Absorbing Capacity Term Sheet of 9 November 2015.
+[^132-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^132-3]: Amended by Annex No 2 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-4]: Amended by Annex No 2 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-5]: Amended by Annex No 2 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^132-6]: Repealed by Annex No 2 of the O of 23 Nov. 2022, with effect from 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 132a
 
-**Banks with a state guarantee or similar mechanism**[^132a-1]
+**Special provisions for internationally active systemically important banks**[^132a-1]
+
+<sup>1</sup> If an internationally active systemically important bank holds the additional funds in the form of CET1 capital or convertible capital which meets the requirements for additional Tier 1 capital, this capital shall receive preferential treatment within the meaning of Article 132 paragraph 4, up to a maximum of 2 per cent for the leverage ratio and up to a maximum of 5.8 per cent for the RWA ratio.
+
+<sup>2</sup> For entities under Article 124 paragraph 3 letters b to d, the level of the additional capital requirement taking account of the reduced requirements under paragraph 1 must not fall below 3.75 per cent for the leverage ratio and 10 per cent for the RWA ratio.
+
+[^132a-1]: Inserted by No I of the O of 21 Nov. 2018 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)). Amended by Annex No 2 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 132b
+
+**Special requirements for banks with a state guarantee or similar mechanism**[^132b-1]
 
 If a non-internationally active systemically important bank benefits from an explicit state guarantee or similar mechanism, the requirement under Article 132 paragraph 2 letter b, in the amount of the guarantee:
 
 - a. shall be deemed to be met up to a maximum of half the required 40 per cent;
 - b. shall be deemed to be fully met if, in a crisis situation, the corresponding funds are available to FINMA irrevocably and rapidly; FINMA shall decide whether these criteria are met on a case-by-case basis.
 
-[^132a-1]: Inserted by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^132b-1]: Inserted by Annex No 2 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 133
 
-**Rebates for internationally active systemically important banks[^133-1]**
+**Tier 2 additional loss-absorbing funds for internationally active systemically important banks**[^133-1]
 
-<sup>1</sup>
+In accordance with Article 65*b* paragraph 1 of the Bank A[^133-2], in the event of an impediment to the resolvability of entities under Article 124 paragraph 3 letters b to d, FINMA may require internationally active systemically important banks to hold Tier 2 additional loss-absorbing funds. Their amount is limited to 25 per cent of the total requirement. Article 132 paragraph 4 applies by analogy.
 
-FINMA shall determine the rebate for measures to improve the overall resolvability of the financial group under Articles 65 and 66 of the BankO[^133-2] after consultation with the Swiss National Bank:
-
-- a. based on the effectiveness of the measures to improve the overall resolvability of the financial group; and
-- b. taking into account the interactions between the various rebate groups.
-
-<sup>2</sup> For entities under Article 124 paragraph 3 letters b to d, the level of the additional capital requirement taking account of the rebates and the reduced requirements owing to the preferential treatment of convertible capital under Article 132 paragraph 4 must not fall below 3.75 per cent for the leverage ratio and 10 per cent for the RWA ratio.[^133-3]
-
-<sup>3</sup>
-
-The reduction may not result in:
-
-- a.[^133-4] a shortfall with regard to the international standards, after the inclusion of CET1 capital or convertible capital under Article 132 paragraph 4 has been taken into account;
-- b. the implementability of the contingency plan being jeopardised.
-
-<sup>4</sup> No rebates are granted for demonstrating that the contingency plan ensures the continued operation of systemically important functions in the event of impending insolvency under Article 9 paragraph 2 letter d of the BankA.
-
-<sup>5</sup> FINMA may consult foreign supervisory and insolvency authorities regarding the bank's proposed measures and may take their evaluation into account when assessing the improvement in the financial group's overall resolvability with respect to the rebates on additional funds.
-
-[^133-1]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^133-1]: Amended by Annex No 2 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^133-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^133-3]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^133-4]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 
 ### **Arts. 134** and **135**
 
@@ -2274,7 +2312,7 @@ The upper limit under paragraph 2 must be complied with at the latest twelve mon
 
 ### Chapter 1 Transitional Provisions
 
-### Section 1 Transitional Provisions of 1 June 2012****
+### Section 1 Transitional Provisions of 1 June 2012
 
 [^tit6-chap1-sec1-1]
 
@@ -2382,7 +2420,7 @@ For the portion of exposures under paragraph 3 that is not subject to a deductio
 
 [^148a-1]: Inserted by Annex 2 No 4 of the Banking Ordinance of 30 April 2014 ([AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)). Repealed by No I of the O of 11 May 2016, with effect from 1 July 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
-### Section 2**** Transitional Provisions to the Amendment of 11 May 2016
+### Section 2 Transitional Provisions to the Amendment of 11 May 2016
 
 [^tit6-chap1-sec2-1]
 
@@ -2453,7 +2491,7 @@ Measured in terms of weighted exposures, the maximum extended countercyclical bu
 - b. in 2017: 1.25 per cent;
 - c. in 2018: 1.875 per cent.
 
-### Section 3**** Transitional Provision to the Amendment of 23 November 2016
+### Section 3 Transitional Provision to the Amendment of 23 November 2016
 
 [^tit6-chap1-sec3-1]
 
@@ -2472,7 +2510,7 @@ Measured in terms of weighted exposures, the maximum extended countercyclical bu
 [^148g-1]: Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^148g-2]: [AS 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
 
-### Section 4**** Transitional Provision to the Amendment of 22 November 2017
+### Section 4 Transitional Provision to the Amendment of 22 November 2017
 
 [^tit6-chap1-sec4-1]
 
@@ -2482,7 +2520,7 @@ Measured in terms of weighted exposures, the maximum extended countercyclical bu
 
 Banks which expect or suspect that, from 1 January 2019, they will impermissibly breach the upper limit on risk concentrations (Arts. 97 to 99) shall report this to FINMA within three months after the entry into force of the Amendment of 22 November 2017.
 
-### Section 5**** Transitional Provision to the Amendment of 21 November 2018
+### Section 5 Transitional Provision to the Amendment of 21 November 2018
 
 [^tit6-chap1-sec5-1]
 
@@ -2508,7 +2546,7 @@ The requirement under Article 132 paragraph 2 letter b shall amount to:
 - f. in 2024: 1.26 per cent for the leverage ratio and 3.84 per cent for the RWA ratio;
 - g. in 2025: 1.5 per cent for the leverage ratio and 4.5 per cent for the RWA ratio, plus half the surcharges for market share and total exposure.
 
-### Section 6**** Transitional Provisions to the Amendment of 27 November 2019
+### Section 6 Transitional Provisions to the Amendment of 27 November 2019
 
 [^tit6-chap1-sec6-1]
 
@@ -2573,7 +2611,7 @@ The amendment of existing legislation is regulated in Annex 6.
 
 [^151-1]: Approved by the FA on 18 Sept. 2012 ([BBl 2012 8395](https://fedlex.data.admin.ch/eli/fga/2012/1442)).
 
-Annex 1*[^t-2]*
+Annex 1[^t-2]
 
 (Art. 54 para. 1)
 
@@ -2614,13 +2652,13 @@ Other contingent liabilities (under No. 6.2) contain, in particular:
 
 \2. Where there is an undertaking to provide a commitment on an off-balance sheet item, banks may use the lower of the two applicable credit conversion factors [paragraph 86 of the Basel II framework].
 
-Annex 2*[^t-3]*
+Annex 2[^t-3]
 
 (Art. 66 para. 1)
 
 ## Exposure classes under the BIS SA when using external ratings and their risk weights
 
-[^t-3]: Revised by Annex 2 No 4 of the Banking Ordinance of 30 April 2014, in force since 1 Jan. 2015 ([AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
+[^t-3]: Revised by Annex 2 No 4 of the Banking Ordinance of 30 April 2014 ([AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)) and Annex No 2 of the O of 23. Nov. 2022, in force since 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th>No.</th><th>Exposure classes (BIS SA) for which external ratings can be used</th><th colspan="9">Rating category</th></tr>
@@ -2641,6 +2679,8 @@ Annex 2*[^t-3]*
 <tr><td>5.</td><td>Community bodies</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>5.1</td><td>Banks' community bodies recognised by FINMA</td><td>20%</td><td>20%</td><td>50%</td><td>100%</td><td>100%</td><td>150%</td><td>150%</td><td>100%</td><td>–</td></tr>
 <tr><td>5.2</td><td>Payment obligations to the agency of the deposit protection scheme</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>20%</td></tr>
+<tr><td>5.3</td><td>Claims of banks in categories 4 and 5 under Annex 3 of the Banking Ordinance[^annex2-lvlu1-1] to repayment of loans granted to the deposit protection entity in accordance with Article 37*h* paragraph 3 letter c number 2 of the BankA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20%</td></tr>
+<tr><td>5.4</td><td>Repayment claims vis-à-vis the deposit protection entity after deposit insurance has been triggered (Art. 37*i* of the BankA)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>100%</td></tr>
 <tr><td>6.</td><td>Stock exchanges, clearing houses and central counterparties</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>6.1</td><td>Stock exchanges, clearing houses and central counterparties</td><td>20%</td><td>20%</td><td>50%</td><td>100%</td><td>100%</td><td>150%</td><td>150%</td><td>100%</td><td>–</td></tr>
 <tr><td>6.2</td><td>Central counterparties, where credit risks are directly linked to the central counterparty's guarantee of payment performance for exchange-traded or over-the-counter contracts (especially derivatives, repos or repo-like transactions for which the central counterparty guarantees performance of the obligation over the entire maturity).</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>2%</td></tr>
@@ -2648,7 +2688,9 @@ Annex 2*[^t-3]*
 <tr><td>**7.**</td><td>**Corporates**</td><td>20%</td><td>20%</td><td>50%</td><td>100%</td><td>100%</td><td>150%</td><td>150%</td><td>100%</td><td>–</td></tr>
 </table>
 
-Annex 3*[^t-4]*
+[^annex2-lvlu1-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
+Annex 3[^t-4]
 
 (Art. 66 para. 2)
 
@@ -2682,7 +2724,7 @@ Annex 3*[^t-4]*
 <tr><td>6.3</td><td>Other exposures (incl. accruals and deferrals)</td><td>100%</td></tr>
 </table>
 
-Annex 4*[^t-5]*
+Annex 4[^t-5]
 
 (Art. 32 let. j and 66 para. 3)
 
@@ -2741,7 +2783,7 @@ Annex 6
 
 [^annex6-lvlu1-1]: The amendment may be consulted under [AS 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629).
 
-Annex 7*[^t-6]*
+Annex 7[^t-6]
 
 (Art. 44 para. 2)
 
@@ -2753,7 +2795,7 @@ Annex 7*[^t-6]*
 - 2\. The buffer amounts to 2.5 per cent of the risk-weighted credit exposures.
 - 3\. The countercyclical buffer applies from 30 September 2022 until the repeal or amendment of this Annex.
 
-Annex 8*[^t-7]*
+Annex 8[^t-7]
 
 (Art. 43 para. 1)
 
@@ -2778,7 +2820,7 @@ Annex 8*[^t-7]*
 
 [^annex8-lvlu1-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-Annex 9*[^t-8]*
+Annex 9[^t-8]
 
 (Art. 129)
 
