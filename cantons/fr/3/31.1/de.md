@@ -4,13 +4,13 @@ number: "31.1"
 title: Einführungsgesetz zum Strafgesetzbuch
 short: EGStGB
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-06
+version: 2023-01-01
+valid_until: 2026-06-30
+version_adopted: 2022-10-13
 adopted: 2006-10-06
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/31.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6941/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7658/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Strafgesetzbuch – Einführungsgesetz
 
 (EGStGB)
 
-vom 06.10.2006 (Fassung in Kraft getreten am 01.01.2022)
+vom 06.10.2006 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -99,9 +99,9 @@ beschliesst:
 
 <sup>1</sup> Das Recht der Begnadigung wird in den Fällen, die von den kantonalen Behörden in Anwendung des Strafgesetzbuches, eines anderen Bundesgesetzes oder des kantonalen Rechts abgeurteilt werden, vom Grossen Rat ausgeübt.
 
-<sup>2</sup> Das begründete Begnadigungsgesuch ist beim Staatsrat einzureichen.
+<sup>2</sup> Das begründete Begnadigungsgesuch ist beim Grossen Rat einzureichen.
 
-<sup>3</sup> Nachdem das für den Vollzug der Strafsanktionen zuständige Amt die nötigen Auskünfte eingeholt hat, übermittelt der Staatsrat das Gesuch dem Grossen Rat.
+<sup>3</sup> Die Begnadigungs-, Petitions- und Volksmotionskommission verlangt von der Behörde, die mit dem Vollzug der strafrechtlichen Sanktionen beauftragt ist, die für die Prüfung des Gesuchs nützlichen Informationen.
 
 <sup>4</sup> Das für den Vollzug der Strafsanktionen zuständige Amt kann den Vollzug der ausgefällten Strafe bis zum Entscheid über das Gesuch vorläufig aussetzen, namentlich dann, wenn die Begnadigung ohne diese Massnahme illusorisch würde.
 

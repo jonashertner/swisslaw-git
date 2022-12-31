@@ -4,13 +4,13 @@ number: "31.1"
 title: "Loi d'application du code pénal"
 short: LACP
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-06
+version: 2023-01-01
+valid_until: 2026-06-30
+version_adopted: 2022-10-13
 adopted: 2006-10-06
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/31.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6941/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7658/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Code pénal – Loi d'application
 
 (LACP)
 
-du 06.10.2006 (version entrée en vigueur le 01.01.2022)
+du 06.10.2006 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -99,9 +99,9 @@ Décrète:
 
 <sup>1</sup> Le droit de grâce est exercé par le Grand Conseil dans les causes jugées par les autorités cantonales en application du code pénal, d'une autre loi fédérale ou du droit cantonal.
 
-<sup>2</sup> Le recours en grâce, qui doit être motivé, est adressé au Conseil d'Etat.
+<sup>2</sup> Le recours en grâce, qui doit être motivé, est adressé au Grand Conseil.
 
-<sup>3</sup> Le Conseil d'Etat transmet le recours au Grand Conseil après que l'autorité chargée de l'application des sanctions pénales a pris les renseignements utiles.
+<sup>3</sup> La Commission des grâces, des pétitions et des motions populaires requiert de l'autorité chargée de l'application des sanctions pénales les renseignements utiles à l'examen du recours.
 
 <sup>4</sup> L'autorité chargée de l'application des sanctions pénales peut ordonner la suspension provisoire de la peine prononcée, jusqu'à droit connu sur le recours en grâce, notamment lorsque à défaut de cette mesure la grâce serait rendue illusoire.
 
