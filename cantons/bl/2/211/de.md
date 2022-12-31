@@ -4,13 +4,13 @@ number: "211"
 title: Gesetz über die Einführung des Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2019-05-01
-valid_until: 2022-12-31
-version_adopted: 2018-09-27
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-03-24
 adopted: 2006-11-16
 in_force: 2007-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211"
-pdf: "https://bl.clex.ch/api/de/versions/2408/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3660/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,17 @@ pdf: "https://bl.clex.ch/api/de/versions/2408/pdf_file"
 
 (EG ZGB)
 
-Vom 16.11.2006 (Stand 01.05.2019)
+Vom 16.11.2006 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
-gestützt auf Art. 52 Schlusstitel des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^ingress-1] und des Bundesgesetzes vom 18. Juni 2004[^ingress-2] über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz) und § 63 Absatz 1 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-3],
+gestützt auf Art. 52 Schlusstitel des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^ingress-1] und das Bundesgesetz vom 18. Juni 2004[^ingress-2] über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz) und § 63 Abs. 1 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-3],
 
 beschliesst:[^ingress-4]
 
-[^ingress-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
-[^ingress-2]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de)
-[^ingress-3]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art63)
+[^ingress-1]: [SR 210](https://db.clex.ch/link/Bund/210/de)
+[^ingress-2]: [SR 211.231](https://db.clex.ch/link/Bund/211.231/de)
+[^ingress-3]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
 [^ingress-4]: Vom Landrat mit 4/5-Mehr beschlossen. Referendumsfrist unbenützt abgelaufen am 18. Januar 2007.
 
 ## 1 Allgemeine Bestimmungen
@@ -42,8 +42,8 @@ beschliesst:[^ingress-4]
 
 <sup>2</sup> Es enthält die dem kantonalen Recht vorbehaltenen Bestimmungen.
 
-[^1-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
-[^1-2]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de)
+[^1-1]: [SR 210](https://db.clex.ch/link/Bund/210/de)
+[^1-2]: [SR 211.231](https://db.clex.ch/link/Bund/211.231/de)
 
 #### § 2
 
@@ -53,7 +53,7 @@ beschliesst:[^ingress-4]
 
 <sup>2</sup> Die Zuständigkeit der Gerichtsbehörden aufgrund des ZGB und des PartG richtet sich nach dem Einführungsgesetz zur Schweizerischen Zivilprozessordnung[^2-1].
 
-[^2-1]: GS 37.0256, SGS [221](https://bl.clex.ch/data/221/de)
+[^2-1]: [SGS 221](https://bl.clex.ch/data/221/de)
 
 #### § 3
 
@@ -61,7 +61,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Die durch das ZGB und dieses Gesetz vorgeschriebenen Veröffentlichungen, öffentlichen Bekanntmachungen, Aufforderungen und Auskündungen werden im kantonalen Amtsblatt publiziert.
 
-<sup>2</sup> In den Fällen der Artikel 36, 555, 558 Absatz 2, 582, 662 ZGB und Artikel 43 Schlusstitel ZGB sowie § 114 dieses Gesetzes hat die Bekanntmachung dreimal nacheinander zu erfolgen.
+<sup>2</sup> In den Fällen der Art. 36, 555, 558 Abs. 2, 582, 662 ZGB und Art. 43 Schlusstitel ZGB sowie § 114 dieses Gesetzes hat die Bekanntmachung 3-mal nacheinander zu erfolgen.
 
 #### § 4
 
@@ -116,7 +116,7 @@ beschliesst:[^ingress-4]
 
 **Zuständigkeit für Beglaubigungen**
 
-<sup>1</sup> Zuständig für die Beglaubigung von Handzeichen und Unterschriften sowie von Abschriften und Auszügen sind
+<sup>1</sup> Zuständig für die Beglaubigung von Handzeichen und Unterschriften sowie von Abschriften und Auszügen sind:
 
 - a. die Basellandschaftlichen Notarinnen und Notare;
 - b. Mitarbeitende der Zivilrechtsverwaltung, denen die Befugnis von der Sicherheitsdirektion übertragen wurde;
@@ -131,7 +131,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Notariatsgesetz vom 22. März 2012[^6d-1] regelt das Beurkundungsverfahren und die Berufsausübung der Notarinnen und Notare, die Zulassung zum Notarenberuf und deren Voraussetzungen sowie die Verantwortlichkeit, das Disziplinarwesen und die Aufsicht.
 
-[^6d-1]: GS 37.1057, SGS [217](https://bl.clex.ch/data/217/de)
+[^6d-1]: [SGS 217](https://bl.clex.ch/data/217/de)
 
 #### § § 7 - 47
 
@@ -143,20 +143,20 @@ beschliesst:[^ingress-4]
 
 **Ausweisung aus der gemeinsamen Wohnung**
 
-<sup>1</sup> Für die Ausweisung gemäss Artikel 28b Absatz 4 des Schweizerischen Zivilgesetzbuchs[^47a-1] ist die Sicherheitsdirektion zuständig.
+<sup>1</sup> Für die Ausweisung gemäss Art. 28b Abs. 4 des Schweizerischen Zivilgesetzbuchs[^47a-1] ist die Sicherheitsdirektion zuständig.
 
 <sup>2</sup> Das Verfahren richtet sich nach dem Polizeigesetz[^47a-2].
 
-[^47a-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
-[^47a-2]: GS 32.778, SGS [700](https://bl.clex.ch/data/700/de)
+[^47a-1]: [SR 210](https://db.clex.ch/link/Bund/210/de)
+[^47a-2]: [SGS 700](https://bl.clex.ch/data/700/de)
 
 #### § 48
 
 **Namensänderung**
 
-<sup>1</sup> Die Sicherheitsdirektion ist zuständig für die Bewilligung von Namensänderungen (Artikel 30 Absätze 1 und 2 ZGB).
+<sup>1</sup> Die Sicherheitsdirektion ist zuständig für die Bewilligung von Namensänderungen (Art. 30 Abs. 1 und 2 ZGB).
 
-<sup>2</sup> Die Sicherheitsdirektion kann in Namensänderungsverfahren private Sachverständige in Sozialarbeit beiziehen. Für diese findet § 71 Absatz 2 dieses Gesetzes Anwendung.
+<sup>2</sup> Die Sicherheitsdirektion kann in Namensänderungsverfahren private Sachverständige in Sozialarbeit beiziehen. Für diese findet § 71 Abs. 2 dieses Gesetzes Anwendung.
 
 #### § 49
 
@@ -168,39 +168,39 @@ beschliesst:[^ingress-4]
 
 **Zivilstandswesen**
 
-<sup>1</sup> Die Sicherheitsdirektion ist zuständig für die Aufsicht über das Zivilstandswesen (Artikel 45 Absatz 1 ZGB).
+<sup>1</sup> Die Sicherheitsdirektion ist zuständig für die Aufsicht über das Zivilstandswesen (Art. 45 Abs. 1 ZGB).
 
 <sup>2</sup> Das Dekret[^50-1] regelt die Einteilung der Zivilstandskreise, die Organisation und die Aufsicht über die Zivilstandsämter.
 
-[^50-1]: GS 33.0140, SGS [211.1](https://bl.clex.ch/data/211.1/de)
+[^50-1]: [SGS 211.1](https://bl.clex.ch/data/211.1/de)
 
 #### § 51
 
 **Vereine**
 
-<sup>1</sup> Die Sicherheitsdirektion ist zuständig für das Erheben von Klagen auf Aufhebung eines Vereins (Artikel 78 ZGB).
+<sup>1</sup> Die Sicherheitsdirektion ist zuständig für das Erheben von Klagen auf Aufhebung eines Vereins (Art. 78 ZGB).
 
 #### § 52
 
 **Aufsicht über die Stiftungen**
 
-<sup>1</sup> Der Gemeinderat am Sitz der Stiftung ist zuständig für die:
+<sup>1</sup> Der Gemeinderat am Sitz der Stiftung ist zuständig für:
 
-- a. Aufsicht über die Stiftungen der Gemeinden (Artikel 84 ZGB),
-- b. Unwesentliche Änderungen der Stiftungsurkunde (Artikel 86b ZGB).
+- a. die Aufsicht über die Stiftungen der Gemeinden (Art. 84 ZGB);
+- b. unwesentliche Änderungen der Stiftungsurkunde (Art. 86b ZGB).
 
-<sup>2</sup> Die BVG- und Stiftungsaufsicht beider Basel (BSABB) ist zuständig für die:
+<sup>2</sup> Die BVG- und Stiftungsaufsicht beider Basel (BSABB) ist zuständig für:
 
-- a. Aufsicht über die Stiftungen des Kantons (Artikel 84 ZGB),
-- b. Änderungen von deren Organisation (Artikel 85 ZGB) oder Zweck (Artikel 86 ZGB),
-- c. Änderungen von deren Zweck auf Antrag des Stifters bzw. auf Grund seiner Verfügung von Todes wegen (Artikel 86a ZGB) und unwesentliche Änderungen der Stiftungsurkunde (Artikel 86b ZGB),
-- d. Aufhebung der Stiftungen des Kantons (Artikel 88 Absatz 1 ZGB).
+- a. die Aufsicht über die Stiftungen des Kantons (Art. 84 ZGB);
+- b. die Änderungen von deren Organisation (Art. 85 ZGB) oder Zweck (Art. 86 ZGB);
+- c. die Änderungen von deren Zweck auf Antrag des Stifters bzw. aufgrund seiner Verfügung von Todes wegen (Art. 86a ZGB) und unwesentliche Änderungen der Stiftungsurkunde (Art. 86b ZGB);
+- d. die Aufhebung der Stiftungen des Kantons (Art. 88 Abs. 1 ZGB).
 
-<sup>3</sup> Der Regierungsrat ist zuständig für die:
+<sup>3</sup> Der Regierungsrat ist zuständig für:
 
-- a. Oberaufsicht über die Stiftungen der Gemeinden (Artikel 84 ZGB),
-- b. Änderungen von deren Organisation (Artikel 85 ZGB) oder Zweck (Artikel 86 und 86a ZGB),
-- c. Aufhebung der Stiftungen der Gemeinden (Artikel 88 Absatz 1 ZGB).
+- a. die Oberaufsicht über die Stiftungen der Gemeinden (Art. 84 ZGB);
+- b. die Änderungen von deren Organisation (Art. 85 ZGB) oder Zweck (Art. 86 und 86a ZGB),
+- c. die Aufhebung der Stiftungen der Gemeinden (Art. 88 Abs. 1 ZGB).
 
 <sup>4</sup> Der Gemeinderat kann die Aufsicht über die von ihm beaufsichtigten Stiftungen an die BVG- und Stiftungsaufsicht beider Basel (BSABB) übertragen.
 
@@ -210,13 +210,13 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Folgende Genossenschaften erlangen die juristische Persönlichkeit ohne Eintragung ins Handelsregister und unterstehen kantonalem Recht:
 
-- a. die Wasserversorgungsgenossenschaften gemäss § 2 Absatz 5 des Gesetzes vom 3. April 1967[^53-1] über die Wasserversorgung der basellandschaftlichen Gemeinden (Wasserversorgungsgesetz) mit der Genehmigung der Statuten durch die zuständige Direktion;
-- b. die Baulandumlegungsgenossenschaft gemäss § 61 Absatz 1 des Raumplanungs- und Baugesetzes vom 8. Januar 1998[^53-2] (RBG) durch Beschluss der Baulandumlegung;
-- c. die Genossenschaft für die Durchführung einer Bodenverbesserung sowie die Genossenschaft für den Unterhalt von in Bodenverbesserungen erstellten Objekten gemäss § 26 Absatz 2 Buchstabe a des Landwirtschaftsgesetzes Basel-Landschaft vom 8. Januar 1998[^53-3] (LG BL) mit der Genehmigung der Statuten durch den Regierungsrat.
+- a. die Wasserversorgungsgenossenschaften gemäss § 2 Abs. 5 des Gesetzes über die Wasserversorgung der basellandschaftlichen Gemeinden (Wasserversorgungsgesetz) vom 3. April 1967[^53-1] mit der Genehmigung der Statuten durch die zuständige Direktion;
+- b. die Baulandumlegungsgenossenschaft gemäss § 61 Abs. 1 des Raumplanungs- und Baugesetzes (RBG) vom 8. Januar 1998[^53-2] durch Beschluss der Baulandumlegung;
+- c. die Genossenschaft für die Durchführung einer Bodenverbesserung sowie die Genossenschaft für den Unterhalt von in Bodenverbesserungen erstellten Objekten gemäss § 26 Abs. 2 Bst. a des Landwirtschaftsgesetzes Basel-Landschaft (LG BL) vom 8. Januar 1998[^53-3] mit der Genehmigung der Statuten durch den Regierungsrat.
 
-[^53-1]: GS 23.434, SGS [455](https://bl.clex.ch/data/455/de)
-[^53-2]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
-[^53-3]: GS 33.0073, SGS [510](https://bl.clex.ch/data/510/de)
+[^53-1]: [SGS 455](https://bl.clex.ch/data/455/de)
+[^53-2]: [SGS 400](https://bl.clex.ch/data/400/de)
+[^53-3]: [SGS 510](https://bl.clex.ch/data/510/de)
 
 #### § 54
 
@@ -227,16 +227,16 @@ beschliesst:[^ingress-4]
 - a. die Basellandschaftliche Kantonalbank gemäss § 3 des Kantonalbankgesetzes vom 24. Juni 2004[^54-1];
 - b. die Basellandschaftliche Gebäudeversicherung gemäss § 2 des Gesetzes vom 12. Januar 1981[^54-2] über die Versicherung von Gebäuden und Grundstücken (Sachversicherungsgesetz);
 - c. die Basellandschaftliche Pensionskasse gemäss § 1 des Gesetzes vom 16. Mai 2013[^54-3] über die berufliche Vorsorge durch die Basellandschaftliche Pensionskasse (Pensionskassengesetz);
-- d. die Sozialversicherungsanstalt des Kantons Basel-Landschaft gemäss § 1 des Einführungsgesetzes vom 22. September 1994[^54-4] zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung (EG AHVG/IVG-BL).
-- e. das Kantonsspital Baselland gemäss § 8 Absatz 1 des Spitalgesetzes vom 17. November 2011[^54-5];
-- f. die Psychiatrie Baselland gemäss § 8 Absatz 2 des Spitalgesetzes vom 17. November 2011 [^54-6].
+- d. die Sozialversicherungsanstalt des Kantons Basel-Landschaft gemäss § 1 des Einführungsgesetzes vom 22. September 1994[^54-4] zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung (EG AHVG/IVG-BL);
+- e. das Kantonsspital Baselland gemäss § 8 Abs. 1 des Spitalgesetzes vom 17. November 2011[^54-5];
+- f. die Psychiatrie Baselland gemäss § 8 Abs. 2 des Spitalgesetzes vom 17. November 2011 [^54-6].
 
-[^54-1]: GS 35.0241, SGS [371](https://bl.clex.ch/data/371/de)
-[^54-2]: GS 27.690, SGS [350](https://bl.clex.ch/data/350/de)
-[^54-3]: GS 38.0273, SGS [834](https://bl.clex.ch/data/834/de)
-[^54-4]: GS 31.882, SGS [831](https://bl.clex.ch/data/831/de)
-[^54-5]: GS 37.0867, SGS [930](https://bl.clex.ch/data/930/de)
-[^54-6]: GS 37.0867, SGS [930](https://bl.clex.ch/data/930/de)
+[^54-1]: [SGS 371](https://bl.clex.ch/data/371/de)
+[^54-2]: [SGS 350](https://bl.clex.ch/data/350/de)
+[^54-3]: [SGS 834](https://bl.clex.ch/data/834/de)
+[^54-4]: [SGS 831](https://bl.clex.ch/data/831/de)
+[^54-5]: [SGS 930](https://bl.clex.ch/data/930/de)
+[^54-6]: [SGS 930](https://bl.clex.ch/data/930/de)
 
 #### § 55
 
@@ -254,8 +254,8 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Die Sicherheitsdirektion ist zuständig für das Erheben von:
 
-- a. Klagen auf Eheungültigkeit von Amtes wegen (Artikel 106 Absatz 1 ZGB);
-- b. Klagen auf Ungültigkeit von eingetragenen Partnerschaften von Amtes wegen (Artikel 9 Absatz 2 PartG).
+- a. Klagen auf Eheungültigkeit von Amtes wegen (Art. 106 Abs. 1 ZGB);
+- b. Klagen auf Ungültigkeit von eingetragenen Partnerschaften von Amtes wegen (Art. 9 Abs. 2 PartG).
 
 #### § 57
 
@@ -263,11 +263,11 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Die Basellandschaftlichen Notarinnen und Notare sind zuständig für die Beurkundung von:
 
-- a. Eheverträgen (Artikel 182 ZGB);
-- b. Inventaren über eheliche Vermögenswerte (Artikel 195a ZGB);
-- c. Inventaren über eigene Vermögenswerte (Artikel 20 PartG);
-- d. Vermögensverträgen (Artikel 25 PartG);
-- e. Inventaren bei Scheidung (Artikel 120 ZGB).
+- a. Eheverträgen (Art. 182 ZGB);
+- b. Inventaren über eheliche Vermögenswerte (Art. 195a ZGB);
+- c. Inventaren über eigene Vermögenswerte (Art. 20 PartG);
+- d. Vermögensverträgen (Art. 25 PartG);
+- e. Inventaren bei Scheidung (Art. 120 ZGB).
 
 #### § 58
 
@@ -275,11 +275,11 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Die Sicherheitsdirektion ist zuständig für:
 
-- a. die Bewilligung von Adoptionen (Artikel 268 Absatz 1 ZGB);
-- b. die Unterstützung bei Auskunftsersuchen von Adoptivkindern (Artikel 268c Absatz 3 ZGB);
-- c. die Bewilligung zur Aufnahme von Pflegekindern zum Zweck der späteren Adoption und Aufsicht über Adoptionspflegeverhältnisse (Artikel 316 Absatz 1<sup>bis</sup> ZGB).
+- a. die Bewilligung von Adoptionen (Art. 268 Abs. 1 ZGB);
+- b. die Unterstützung bei Auskunftsersuchen von Adoptivkindern (Art. 268c Abs. 3 ZGB);
+- c. die Bewilligung zur Aufnahme von Pflegekindern zum Zweck der späteren Adoption und Aufsicht über Adoptionspflegeverhältnisse (Art. 316 Abs. 1<sup>bis</sup> ZGB).
 
-<sup>2</sup> Die Sicherheitsdirektion kann in Adoptionsverfahren und im Bereich von Adoptionspflegeverhältnissen private Sachverständige in Sozialarbeit beiziehen. Für diese findet § 71 Absatz 2 dieses Gesetzes Anwendung.
+<sup>2</sup> Die Sicherheitsdirektion kann in Adoptionsverfahren und im Bereich von Adoptionspflegeverhältnissen private Sachverständige in Sozialarbeit beiziehen. Für diese findet § 71 Abs. 2 dieses Gesetzes Anwendung.
 
 #### § 58a
 
@@ -287,15 +287,15 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Der Gemeinderat ist zuständig für:
 
-- a. die Anfechtung der Kindesanerkennung (Artikel 259 Absatz 2 Ziffer 3, 260a Absatz 1 ZGB);
-- b. die Vaterschaftsklage (Artikel 261 Absatz 2 ZGB);
-- c. die Anfechtung der Adoption (Artikel 269a Absatz 1 ZGB).
+- a. die Anfechtung der Kindesanerkennung (Art. 259 Abs. 2 Ziff. 3, 260a Abs. 1 ZGB);
+- b. die Vaterschaftsklage (Art. 261 Abs. 2 ZGB);
+- c. die Anfechtung der Adoption (Art. 269a Abs. 1 ZGB).
 
 #### § 59
 
 **Vorkehrungen bei Hausgenossen**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde ist zuständig für Vorkehrungen bei minderjährigen oder geistig behinderten sowie unter umfassender Beistandschaft stehender oder an einer psychischen Störung leidender Hausgenossinnen und Hausgenossen (Artikel 333 ZGB).
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde ist zuständig für Vorkehrungen bei minderjährigen oder geistig behinderten sowie unter umfassender Beistandschaft stehender oder an einer psychischen Störung leidender Hausgenossinnen und Hausgenossen (Art. 333 ZGB).
 
 ## 4.2 Kindes- und Erwachsenenschutzrecht
 
@@ -311,7 +311,7 @@ beschliesst:[^ingress-4]
 
 <sup>3</sup> Sie haben auf ihre Kosten die berufsmässige Führung von Mandaten im Bereich des Kindes- und Erwachsenenschutzes bereitzustellen.
 
-[^60-1]: GS 24.293, SGS [180](https://bl.clex.ch/data/180/de)
+[^60-1]: [SGS 180](https://bl.clex.ch/data/180/de)
 
 #### § 61
 
@@ -337,53 +337,53 @@ beschliesst:[^ingress-4]
 
 **Spruchkörper, Ausgestaltung**
 
-<sup>1</sup> Jede Kindes- und Erwachsenenschutzbehörde hat mindestens einen Spruchkörper. Deren Mitglieder sind in ihren Entscheiden im Einzelfall über die Einleitung, die Durchführung und den Abschluss von Verfahren an keine Weisungen gebunden, ausgenommen bei der Rückweisung durch die Beschwerdeinstanz.
+<sup>1</sup> Jede Kindes- und Erwachsenenschutzbehörde hat mindestens 1⁠ Spruchkörper. Deren Mitglieder sind in ihren Entscheiden im Einzelfall über die Einleitung, die Durchführung und den Abschluss von Verfahren an keine Weisungen gebunden, ausgenommen bei der Rückweisung durch die Beschwerdeinstanz.
 
-<sup>2</sup> Jeder Spruchkörper
+<sup>2</sup> Jeder Spruchkörper:
 
-- a. umfasst 3 bis 5 Mitglieder, die ihre Tätigkeit im Anstellungsverhältnis mit einem Arbeitspensum ausüben, das ihrer Aufgabe angemessen ist; vorbehalten bleibt Absatz 3;
+- a. umfasst 3–5 Mitglieder, die ihre Tätigkeit im Anstellungsverhältnis mit einem Arbeitspensum ausüben, das ihrer Aufgabe angemessen ist; vorbehalten bleibt Abs. 3;
 - b. ist zwingend mit einem oder einer Sachverständigen aus dem Bereich der Rechtswissenschaft besetzt; überdies ist er mit Sachverständigen namentlich aus den Bereichen Sozialarbeit, Psychologie, Pädagogik, Medizin, Finanzwesen oder Kindes- und Erwachsenenschutzwesen besetzt;
 - c. umfasst ein Präsidium.
 
-<sup>3</sup> Die Einwohnergemeinden können vorsehen, dass eine Mitgliedschaft im Spruchkörper aus einer bzw. einem delegierten Sachverständigen (Absatz 2 Buchstabe b) besteht, die bzw. der einen engen Bezug zu ihrer Gemeinde hat. Das delegierte Mitglied nimmt in denjenigen Fällen Einsitz im Spruchkörper, in denen die betroffene Person, in deren Angelegenheit zu entscheiden ist, ihren Wohnsitz oder ihren Aufenthalt in der delegierenden Gemeinde hat, oder bei Abwesenheit der betroffenen Person, wenn deren Vermögen in seinem Hauptbestandteil in der delegierenden Gemeinde verwaltet worden oder ihr zugefallen ist.
+<sup>3</sup> Die Einwohnergemeinden können vorsehen, dass eine Mitgliedschaft im Spruchkörper aus einer bzw. einem delegierten Sachverständigen (Abs. 2 Bst. b) besteht, die bzw. der einen engen Bezug zu ihrer Gemeinde hat. Das delegierte Mitglied nimmt in denjenigen Fällen Einsitz im Spruchkörper, in denen die betroffene Person, in deren Angelegenheit zu entscheiden ist, ihren Wohnsitz oder ihren Aufenthalt in der delegierenden Gemeinde hat, oder bei Abwesenheit der betroffenen Person, wenn deren Vermögen in seinem Hauptbestandteil in der delegierenden Gemeinde verwaltet worden oder ihr zugefallen ist.
 
-<sup>3<sup>bis</sup></sup> Sachverständige im Sinne von Absatz 2 Buchstabe b und Absatz 3 dürfen gleichzeitig einem Gemeinderat sowie einer Versammlung der Gemeindedelegierten gemäss den Verträgen zur Bestellung der Kindes- und Erwachsenenschutzbehörde angehören.
+<sup>3<sup>bis</sup></sup> Sachverständige im Sinne von Abs. 2 Bst. b und Abs. 3 dürfen gleichzeitig einem Gemeinderat sowie einer Versammlung der Gemeindedelegierten gemäss den Verträgen zur Bestellung der Kindes- und Erwachsenenschutzbehörde angehören.
 
-<sup>3<sup>ter</sup></sup> Soll ein Mitglied des Gemeinderats oder ein Mitglied der Versammlung der Gemeindedelegierten gleichzeitig dem Spruchkörper angehören, hat es bei seiner Delegation gemäss Absatz 3 bzw. bei seiner Anstellung durch die Versammlung der Gemeindedelegierten in den Ausstand zu treten.
+<sup>3<sup>ter</sup></sup> Soll ein Mitglied des Gemeinderats oder ein Mitglied der Versammlung der Gemeindedelegierten gleichzeitig dem Spruchkörper angehören, hat es bei seiner Delegation gemäss Abs. 3 bzw. bei seiner Anstellung durch die Versammlung der Gemeindedelegierten in den Ausstand zu treten.
 
-<sup>4</sup> Jedes Mitglied eines Spruchkörpers, ausgenommen die von den Einwohnergemeinden delegierten Mitglieder (Absatz 3), kann die Stellvertretung und den Pikettdienst von Mitgliedern der eigenen Kindes- und Erwachsenenschutzbehörde oder von Mitgliedern anderer Kindes- und Erwachsenenschutzbehörden wahrnehmen.
+<sup>4</sup> Jedes Mitglied eines Spruchkörpers, ausgenommen die von den Einwohnergemeinden delegierten Mitglieder (Abs. 3), kann die Stellvertretung und den Pikettdienst von Mitgliedern der eigenen Kindes- und Erwachsenenschutzbehörde oder von Mitgliedern anderer Kindes- und Erwachsenenschutzbehörden wahrnehmen.
 
-<sup>5</sup> Jeder Spruchkörper erlässt eine Geschäftsordnung, die unter dem Vorbehalt der Genehmigung durch die Aufsichtsbehörde im Sinne von § 65 Absatz 1 dieses Gesetzes steht.
+<sup>5</sup> Jeder Spruchkörper erlässt eine Geschäftsordnung, die unter dem Vorbehalt der Genehmigung durch die Aufsichtsbehörde im Sinne von § 65 Abs. 1 dieses Gesetzes steht.
 
 #### § 64
 
 **Spruchkörper, Zuständigkeit**
 
-<sup>1</sup> Der Spruchkörper ist unter Vorbehalt von Absatz 2 zuständig für:
+<sup>1</sup> Der Spruchkörper ist unter Vorbehalt von Abs. 2 zuständig für:
 
-- a. Erstinstanzliche Entscheide, die das Bundesrecht und das kantonale Recht der Kindes- und Erwachsenenschutzbehörde zuweisen;
-- b. Beschwerden gegen Handlungen oder Unterlassungen der Beiständin bzw. des Beistands, einer Drittperson oder Stelle, der die Kindes- und Erwachsenenschutzbehörde einen Auftrag erteilt hat (Artikel 419 ZGB);
-- c. Beschwerden gegen Handlungen oder Unterlassungen der Beiständin bzw. des Beistandes oder der Vormundin bzw. des Vormundes von Minderjährigen.
+- a. erstinstanzliche Entscheide, die das Bundesrecht und das kantonale Recht der Kindes- und Erwachsenenschutzbehörde zuweisen;
+- b. Beschwerden gegen Handlungen oder Unterlassungen der Beiständin bzw. des Beistands, einer Drittperson oder Stelle, der die Kindes- und Erwachsenenschutzbehörde einen Auftrag erteilt hat (Art. 419 ZGB);
+- c. Beschwerden gegen Handlungen oder Unterlassungen der Beiständin bzw. des Beistands oder der Vormundin bzw. des Vormunds von Minderjährigen.
 
 <sup>2</sup> Das Präsidium des Spruchkörpers oder das von ihr delegierte Mitglied eines Spruchkörpers ist zuständig für den Erlass folgender erstinstanzlicher Entscheide:
 
-- a. Verfahrensleitende Entscheide und Zwischenentscheide;
-- b. Anordnung vorsorglicher Massnahmen (Artikel 445 Absätze 1 und 2 ZGB);
-- c. Anordnung der fürsorgerischen Unterbringung bei Gefahr im Verzuge und Aufhebung dieses Entscheids (§ 78 Absatz 2 dieses Gesetzes);
+- a. verfahrensleitende Entscheide und Zwischenentscheide;
+- b. Anordnung vorsorglicher Massnahmen (Art. 445 Abs. 1 und 2 ZGB);
+- c. Anordnung der fürsorgerischen Unterbringung bei Gefahr im Verzuge und Aufhebung dieses Entscheids (§ 78 Abs. 2 dieses Gesetzes);
 - d. Übertragung der Entlassungszuständigkeit an Einrichtung bei fürsorgerischer Unterbringung bei Gefahr im Verzuge;
-- e. Ergänzung des Vorsorgeauftrags (Artikel 364 ZGB);
-- f. Festlegung der Entschädigung beim Vorsorgeauftrag (Artikel 366 Absatz 1 ZGB);
-- g. Festlegung der Vertretungsberechtigung bei medizinischen Massnahmen (Artikel 381 Absatz 2, Artikel 382 Absatz 3 ZGB);
-- h. Anordnung der Aufnahme eines öffentlichen Inventars (Artikel 405 Absatz 3 ZGB);
-- i. Genehmigung der Rechnung und des Berichts (Artikel 415 Absatz 1, Artikel 425 Absatz 2 ZGB);
-- k. Anordnung einer Vertretung für das Verfahren (Artikel 449a ZGB);
-- l. Gewährung der Akteneinsicht und Einschränkung des Akteneinsichtsrechts (Artikel 449b ZGB);
-- m. Entscheid über Informationsberechtigung (Artikel 451 Absatz 2 ZGB);
-- n. Genehmigung des Abschlusses und der einvernehmlichen Abänderung eines Unterhaltsvertrages (Artikel 134 Absatz 3, Artikel 287 Absatz 1 ZGB);
-- o. Anordnung der Beistandschaft und Ernennung der Beiständin bzw. des Beistandes zur Feststellung sowie Anfechtung des Kindesverhältnisses (Artikel 306 Absatz 2, Artikel 309 Absätze 1 und 2 ZGB);
-- p. Anordnung der Inventaraufnahme sowie der periodischen Rechnungsstellung und Berichterstattung über das Kindesvermögen (Artikel 318 Absatz 3, Artikel 322 Absatz 2 ZGB);
-- q. Bewilligung zur Anzehrung des Kindesvermögens (Artikel 320 Absatz 2 ZGB);
-- r. Anordnung der Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Artikel 544 Absatz 1<sup>bis</sup> ZGB).
+- e. Ergänzung des Vorsorgeauftrags (Art. 364 ZGB);
+- f. Festlegung der Entschädigung beim Vorsorgeauftrag (Art. 366 Abs. 1 ZGB);
+- g. Festlegung der Vertretungsberechtigung bei medizinischen Massnahmen (Art. 381 Abs. 2, Art. 382 Abs. 3 ZGB);
+- h. Anordnung der Aufnahme eines öffentlichen Inventars (Art. 405 Abs. 3 ZGB);
+- i. Genehmigung der Rechnung und des Berichts (Art. 415 Abs. 1, Art. 425 Abs. 2 ZGB);
+- k. Anordnung einer Vertretung für das Verfahren (Art. 449a ZGB);
+- l. Gewährung der Akteneinsicht und Einschränkung des Akteneinsichtsrechts (Art. 449b ZGB);
+- m. Entscheid über Informationsberechtigung (Art. 451 Abs. 2 ZGB);
+- n. Genehmigung des Abschlusses und der einvernehmlichen Abänderung eines Unterhaltsvertrags (Art. 134 Abs. 3, Art. 287 Abs. 1 ZGB);
+- o. Anordnung der Beistandschaft und Ernennung der Beiständin bzw. des Beistands zur Feststellung sowie Anfechtung des Kindesverhältnisses (Art. 306 Abs. 2, Art. 309 Abs. 1 und 2 ZGB);
+- p. Anordnung der Inventaraufnahme sowie der periodischen Rechnungsstellung und Berichterstattung über das Kindesvermögen (Art. 318 Abs. 3, Art. 322 Abs. 2 ZGB);
+- q. Bewilligung zur Anzehrung des Kindesvermögens (Art. 320 Abs. 2 ZGB);
+- r. Anordnung der Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB).
 
 #### § 65
 
@@ -401,9 +401,9 @@ beschliesst:[^ingress-4]
 
 **Rechtsmittelinstanz**
 
-<sup>1</sup> Das Kantonsgericht, Abteilung Verfassungs- und Verwaltungsrecht, ist zuständig für die Beurteilung von Beschwerden gegen Entscheide der Kindes- und Erwachsenenschutzbehörde (Artikel 450 Absatz 1 ZGB) sowie gegen Entscheide auf dem Gebiet der fürsorgerischen Unterbringung (Artikel 439 Absatz 1 ZGB). Vorbehalten bleibt Absatz 3.
+<sup>1</sup> Das Kantonsgericht, Abteilung Verfassungs- und Verwaltungsrecht, ist zuständig für die Beurteilung von Beschwerden gegen Entscheide der Kindes- und Erwachsenenschutzbehörde (Art. 450 Abs. 1 ZGB) sowie gegen Entscheide auf dem Gebiet der fürsorgerischen Unterbringung (Art. 439 Abs. 1 ZGB). Vorbehalten bleibt Abs. 3.
 
-<sup>2</sup> Das Verfahren richtet sich nach Artikel 450 - 450e ZGB. Im Übrigen sind die Bestimmungen des kantonalen Verwaltungsprozessrechts anwendbar.
+<sup>2</sup> Das Verfahren richtet sich nach Art. 450–450e ZGB. Im Übrigen sind die Bestimmungen des kantonalen Verwaltungsprozessrechts anwendbar.
 
 <sup>3</sup> Entscheide der Kindes- und Erwachsenenschutzbehörde, die ihr aufgrund des kantonalen Rechts zugewiesen sind, unterliegen der Verwaltungsbeschwerde. Vorbehalten bleiben abweichende gesetzliche Regelungen.
 
@@ -436,17 +436,17 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Präsidium des Spruchkörpers leitet das Verfahren, beruft den Spruchköper ein und führt dessen Vorsitz. Es kann diese Aufgaben an ein Mitglied der Spruchkörper der eigenen Kindes- und Erwachsenenschutzbehörde oder anderer Kindes- und Erwachsenenschutzbehörden delegieren.
 
-<sup>2</sup> Der Spruchkörper fasst seine Entscheide in Dreierbesetzung. Vorbehalten bleibt § 64 Absatz 2.
+<sup>2</sup> Der Spruchkörper fasst seine Entscheide in Dreierbesetzung. Vorbehalten bleibt § 64 Abs. 2.
 
 <sup>3</sup> Der Spruchkörper fasst seine Entscheide aufgrund der Akten. Er kann betroffene Personen oder Drittpersonen vorladen.
 
-<sup>4</sup> Das Verfahren richtet sich nach Artikel 443 ff. sowie Artikel 314 ff. ZGB. Im Übrigen sind die Bestimmungen des kantonalen Verwaltungsverfahrensrechts anwendbar.
+<sup>4</sup> Das Verfahren richtet sich nach Art. 443 ff. sowie Art. 314 ff. ZGB. Im Übrigen sind die Bestimmungen des kantonalen Verwaltungsverfahrensrechts anwendbar.
 
 #### § 70
 
 **Anhörung**
 
-<sup>1</sup> In Verfahren auf Anordnung, Abänderung oder Aufhebung von Massnahmen sind die betroffenen Personen persönlich anzuhören, soweit dies nicht als unverhältnismässig erscheint. Vorbehalten bleibt Absatz 2.
+<sup>1</sup> In Verfahren auf Anordnung, Abänderung oder Aufhebung von Massnahmen sind die betroffenen Personen persönlich anzuhören, soweit dies nicht als unverhältnismässig erscheint. Vorbehalten bleibt Abs. 2.
 
 <sup>2</sup> In Verfahren bezüglich Massnahmen zum Schutz des Kindes oder des Kindesvermögens ist das Kind persönlich anzuhören, soweit nicht sein Alter oder andere wichtige Gründe dagegen sprechen.
 
@@ -456,7 +456,7 @@ beschliesst:[^ingress-4]
 
 <sup>5</sup> Das Protokoll kann schriftlich, akustisch, audiovisuell oder mit anderen geeigneten technischen Hilfsmitteln aufgezeichnet werden.
 
-<sup>6</sup> Im Verfahren der fürsorgerischen Unterbringung gelten im Weiteren die Bestimmungen der §§ 79 Absatz 2 und 80 Absatz 3 dieses Gesetzes.
+<sup>6</sup> Im Verfahren der fürsorgerischen Unterbringung gelten im Weiteren die Bestimmungen der §§ 79 Abs. 2 und 80 Abs. 3 dieses Gesetzes.
 
 #### § 71
 
@@ -484,7 +484,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Können die Entschädigung und der Spesenersatz für die Mandatsführung nicht aus dem Vermögen der betroffenen Person oder von allfällig unterhalts- oder unterstützungspflichtigen Personen derselben bezahlt werden, tragen die Einwohnergemeinden diese Kosten.
 
-<sup>2</sup> Kommt die betroffene Person nachträglich in günstige wirtschaftliche Verhältnisse, können die Einwohnergemeinden, die für die Kosten gemäss Absatz 1 aufgekommen sind, diese innert 10 Jahren seit Festsetzung der Entschädigung bzw. des Spesenersatzes zur Nachzahlung der Kosten verpflichten und auf zivilgerichtlichem Wege die Nachzahlung einklagen.
+<sup>2</sup> Kommt die betroffene Person nachträglich in günstige wirtschaftliche Verhältnisse, können die Einwohnergemeinden, die für die Kosten gemäss Abs. 1 aufgekommen sind, diese innert 10 Jahren seit Festsetzung der Entschädigung bzw. des Spesenersatzes zur Nachzahlung der Kosten verpflichten und auf zivilgerichtlichem Wege die Nachzahlung einklagen.
 
 #### § 74
 
@@ -508,7 +508,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Die Einwohnergemeinden kontrollieren periodisch bei den Berufsbeistandschaften die Buchhaltung und Gesamtbilanz sowie die Einhaltung der Vorschriften des Bundes über die Anlage und Aufbewahrung der Vermögen.
 
-<sup>2</sup> Der Regierungsrat regelt die Anforderungen an die Personen, welche Kontrollen im Sinne von Absatz 1 vornehmen können.
+<sup>2</sup> Der Regierungsrat regelt die Anforderungen an die Personen, welche Kontrollen im Sinne von Abs. 1 vornehmen können.
 
 ## 4.2.4 Pflegekinderwesen, Unterhaltskosten
 
@@ -524,7 +524,7 @@ beschliesst:[^ingress-4]
 
 **Unterhaltskosten**
 
-<sup>1</sup> Bei Nichtbezahlung von Kosten, die im Rahmen von Kindesschutzmassnahmen oder einer Vormundschaft anfallen und die Unterhaltskosten darstellen (Artikel 276 Absatz 1 ZGB), können die Kindes- und Erwachsenenschutzbehörde sowie die Mandatsträgerinnen und die Mandatsträger die Eltern auf zivilgerichtlichem Wege auf Bezahlung der Kosten einklagen.
+<sup>1</sup> Bei Nichtbezahlung von Kosten, die im Rahmen von Kindesschutzmassnahmen oder einer Vormundschaft anfallen und die Unterhaltskosten darstellen (Art. 276 Abs. 1 ZGB), können die Kindes- und Erwachsenenschutzbehörde sowie die Mandatsträgerinnen und die Mandatsträger die Eltern auf zivilgerichtlichem Wege auf Bezahlung der Kosten einklagen.
 
 ## 4.2.5 Fürsorgerische Unterbringung
 
@@ -534,7 +534,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Der Spruchkörper der Erwachsenenschutzbehörde als Kollegium ist zuständig für die fürsorgerische Unterbringung und deren Aufhebung, wenn keine Gefahr im Verzuge liegt.
 
-<sup>2</sup> Jedes Mitglied der Spruchkörper der Erwachsenenschutzbehörden ist zuständig für die fürsorgerische Unterbringung und deren Aufhebung, wenn Gefahr im Verzuge liegt. Vorbehalten bleibt § 63 Absatz 4 dieses Gesetzes.
+<sup>2</sup> Jedes Mitglied der Spruchkörper der Erwachsenenschutzbehörden ist zuständig für die fürsorgerische Unterbringung und deren Aufhebung, wenn Gefahr im Verzuge liegt. Vorbehalten bleibt § 63 Abs. 4 dieses Gesetzes.
 
 #### § 79
 
@@ -572,11 +572,11 @@ beschliesst:[^ingress-4]
 
 **Entlassung**
 
-<sup>1</sup> Jedes Mitglied der Spruchkörper der Erwachsenenschutzbehörden ist bei fürsorgerischer Unterbringung bei Gefahr im Verzuge zuständig für die Entlassung, ansonsten ist der Spruchkörper der Erwachsenenschutzbehörde als Kollegium zuständig. Vorbehalten bleibt § 63 Absatz 4 dieses Gesetzes.
+<sup>1</sup> Jedes Mitglied der Spruchkörper der Erwachsenenschutzbehörden ist bei fürsorgerischer Unterbringung bei Gefahr im Verzuge zuständig für die Entlassung, ansonsten ist der Spruchkörper der Erwachsenenschutzbehörde als Kollegium zuständig. Vorbehalten bleibt § 63 Abs. 4 dieses Gesetzes.
 
 <sup>2</sup> Die ärztliche Leitung der Einrichtung überprüft laufend, ob die Voraussetzungen für die fürsorgerische Unterbringung noch erfüllt sind. Ist dies nicht der Fall, so stellt sie unverzüglich der Erwachsenenschutzbehörde Antrag auf Entlassung.
 
-<sup>3</sup> Die Erwachsenenschutzbehörde überprüft spätestens 6 Monate nach Beginn der fürsorgerischen Unterbringung ohne Gefahr im Verzuge, ob die Voraussetzungen noch erfüllt sind und ob die Einrichtung weiterhin geeignet ist. Innerhalb von weiteren 6 Monaten ist eine zweite Überprüfung vorzunehmen, anschliessend so oft wie nötig, mindestens aber jährlich (Artikel 431 ZGB). § 79 dieses Gesetzes gilt sinngemäss.
+<sup>3</sup> Die Erwachsenenschutzbehörde überprüft spätestens 6 Monate nach Beginn der fürsorgerischen Unterbringung ohne Gefahr im Verzuge, ob die Voraussetzungen noch erfüllt sind und ob die Einrichtung weiterhin geeignet ist. Innerhalb von weiteren 6 Monaten ist eine 2. Überprüfung vorzunehmen, anschliessend so oft wie nötig, mindestens aber jährlich (Art. 431 ZGB). § 79 dieses Gesetzes gilt sinngemäss.
 
 <sup>4</sup> Die ärztliche Leitung der Einrichtung leitet Entlassungsgesuche von Personen, gegen die eine fürsorgerische Unterbringung angeordnet worden ist, unverzüglich an die Erwachsenenschutzbehörde weiter.
 
@@ -588,7 +588,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Die Kosten inklusive Auslagen, die im Rahmen des Verfahrens der fürsorgerischen Unterbringung anfallen, werden der betroffenen Person überbunden. Wird das Verfahren eingestellt oder erweist sich aufgrund richterlicher Feststellung, dass die Anordnung der fürsorgerischen Unterbringung von Anfang an unrechtmässig war, werden die Kosten durch die Einwohnergemeinden des Kindes- und Erwachsenenschutzkreises, deren Erwachsenenschutzbehörde die fürsorgerische Unterbringung angeordnet hat, übernommen.
 
-<sup>2</sup> Die Kosten des Aufenthaltes in der Einrichtung im Rahmen des Vollzugs der fürsorgerischen Unterbringung gehen unter Vorbehalt der Absätze 3 und 4 zulasten der betroffenen Person, sofern sie nicht durch Dritte übernommen werden.
+<sup>2</sup> Die Kosten des Aufenthalts in der Einrichtung im Rahmen des Vollzugs der fürsorgerischen Unterbringung gehen unter Vorbehalt der Abs. 3 und 4 zulasten der betroffenen Person, sofern sie nicht durch Dritte übernommen werden.
 
 <sup>3</sup> Sie werden durch die Einwohnergemeinden des Kindes- und Erwachsenenschutzkreises, deren Erwachsenenschutzbehörde die fürsorgerische Unterbringung angeordnet hat, übernommen, wenn sich aufgrund richterlicher Feststellung erweist, dass die Anordnung der fürsorgerischen Unterbringung unrechtmässig war.
 
@@ -611,7 +611,7 @@ beschliesst:[^ingress-4]
 
 <sup>3</sup> Die Beschwerde hat keine aufschiebende Wirkung, sofern die Erwachsenenschutzbehörde oder das Kantonsgericht, Abteilung Verfassungs- und Verwaltungsrecht, nichts anderes verfügt. Sobald die Beschwerde beim Kantonsgericht, Abteilung Verfassungs und Verwaltungsrecht, eingegangen ist, ist dessen Präsidium für die Erteilung der aufschiebenden Wirkung zuständig. Dieses kann andere vorsorgliche Massnahmen treffen.
 
-<sup>4</sup> Das Verfahren richtet sich nach Artikel 450 - 450e ZGB sowie nach den Bestimmungen über die verwaltungsgerichtliche Beschwerde.
+<sup>4</sup> Das Verfahren richtet sich nach Art. 450–450e ZGB sowie nach den Bestimmungen über die verwaltungsgerichtliche Beschwerde.
 
 #### § 85
 
@@ -627,7 +627,7 @@ beschliesst:[^ingress-4]
 
 **Nachbetreuung**
 
-<sup>1</sup> Vor der Aufhebung einer fürsorgerischen Unterbringung versucht die behandelnde Ärztin oder der behandelnde Arzt Massnahmen für die Nachbetreuung (§ 88 Absatz 1 dieses Gesetzes) mit der betroffenen Person zu vereinbaren.
+<sup>1</sup> Vor der Aufhebung einer fürsorgerischen Unterbringung versucht die behandelnde Ärztin oder der behandelnde Arzt, Massnahmen für die Nachbetreuung (§ 88 Abs. 1 dieses Gesetzes) mit der betroffenen Person zu vereinbaren.
 
 <sup>2</sup> Die vereinbarten Massnahmen für die Nachbetreuung oder das Nichtzustandekommen einer Vereinbarung sind schriftlich zu dokumentieren und der Erwachsenenschutzbehörde mitzuteilen.
 
@@ -645,7 +645,7 @@ beschliesst:[^ingress-4]
 
 **Massnahmen im Einzelnen**
 
-<sup>1</sup> Im Anschluss an eine fürsorgerische Unterbringung im Rahmen der Nachbetreuung (§ 86 Absatz 1 dieses Gesetzes) oder im Rahmen von ambulanten Massnahmen (§ 87 Absatz 1 dieses Gesetzes) kann die betroffene Person insbesondere verpflichtet werden:
+<sup>1</sup> Im Anschluss an eine fürsorgerische Unterbringung im Rahmen der Nachbetreuung (§ 86 Abs. 1 dieses Gesetzes) oder im Rahmen von ambulanten Massnahmen (§ 87 Abs. 1 dieses Gesetzes) kann die betroffene Person insbesondere verpflichtet werden:
 
 - a. sich einer ärztlichen oder psychologischen Untersuchung, Behandlung oder Kontrolle zu unterziehen;
 - b. bestimmte Medikamente einzunehmen;
@@ -687,7 +687,7 @@ beschliesst:[^ingress-4]
 
 **Sammelvermögen**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde ist zuständig für Massnahmen bei fehlender Verwaltung oder Verwendung von Sammelvermögen (Artikel 89b ZGB).
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde ist zuständig für Massnahmen bei fehlender Verwaltung oder Verwendung von Sammelvermögen (Art. 89b ZGB).
 
 <sup>2</sup> Gegen die Entscheide der Kindes- und Erwachsenenschutzbehörde kann beim Kantonsgericht, Abteilung Verfassungs- und Verwaltungsrecht, Beschwerde erhoben werden.
 
@@ -697,7 +697,7 @@ beschliesst:[^ingress-4]
 
 **Verantwortlichkeit**
 
-<sup>1</sup> Der Kanton haftet für widerrechtliches Handeln oder Unterlassen von Organen des Kindes- und Erwachsenenschutzes (Artikel 454 Absatz 3 ZGB).
+<sup>1</sup> Der Kanton haftet für widerrechtliches Handeln oder Unterlassen von Organen des Kindes- und Erwachsenenschutzes (Art. 454 Abs. 3 ZGB).
 
 <sup>2</sup> Der Kanton hat ein doppeltes Rückgriffsrecht:
 
@@ -712,7 +712,7 @@ beschliesst:[^ingress-4]
 
 **Hinterlegung von Vorsorgeaufträgen**
 
-<sup>1</sup> Vorsorgeaufträge von im Kanton wohnhaften Personen können bei der vom Kanton im Sinne der Artikel 504 und 505 Absatz 2 ZGB bezeichneten Amtsstelle zur Aufbewahrung hinterlegt werden.
+<sup>1</sup> Vorsorgeaufträge von im Kanton wohnhaften Personen können bei der vom Kanton im Sinne der Art. 504 und 505 Abs. 2 ZGB bezeichneten Amtsstelle zur Aufbewahrung hinterlegt werden.
 
 <sup>2</sup> Die im Sinne von Absatz 1 zuständige Amtsstelle führt über hinterlegte Vorsorgeaufträge ein Verzeichnis und bewahrt sie an einem sicheren Ort auf.
 
@@ -730,8 +730,8 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Der Gemeinderat der Wohnsitzgemeinde ist zuständig für:
 
-- a. das Erheben der Klage auf Vollziehung von Auflagen, welche die Gemeinde betreffen (Artikel 482 Absatz 1 ZGB);
-- b. die Stellung des Begehrens um Verschollenerklärung (Artikel 550 Absatz 1 ZGB).
+- a. das Erheben der Klage auf Vollziehung von Auflagen, welche die Gemeinde betreffen (Art. 482 Abs. 1 ZGB);
+- b. die Stellung des Begehrens um Verschollenerklärung (Art. 550 Abs. 1 ZGB).
 
 #### § 105
 
@@ -739,28 +739,28 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Die Zivilrechtsverwaltung ist zuständig für:
 
-- a. das Inventar bei Nacherbeneinsetzung (Artikel 490 Absatz 1 ZGB);
-- b. die Aufbewahrung von letztwilligen Verfügungen sowie Ehe- und Erbverträgen (Artikel 504, 505 und 512 ZGB) und die Führung des Testamentsregisters;
-- c. die Mitteilung der Willensvollstreckung (Artikel 517 Absatz 2 ZGB);
-- d. die amtliche Verwaltung des Vermögens der verschollenen Person (Artikel 548 Absatz 1 ZGB);
-- e. die Massregeln zur Sicherung des Erbgangs: Siegelung, Inventar, Anordnung der Erbschaftsverwaltung (Artikel 551 - 554 ZGB);
-- f. den Erbenruf (Artikel 555 Absatz 1 ZGB);
-- g. die Eröffnung von letztwilligen Verfügungen sowie von Ehe- und Erbverträgen (Artikel 556 - 558 ZGB);
-- h. die Ausstellung der Erbenbescheinigung (Artikel 559 Absatz 1 ZGB);
-- i. die Entgegennahme von Erbschaftsausschlagungen und Anordnung weiterer Massnahmen (Artikel 570, 574 - 576 ZGB);
-- j. das öffentliche Inventar (Artikel 580 - 584 ZGB);
-- k. die Bewilligung zur Fortsetzung des Geschäftes (Artikel 585 Absatz 2 ZGB);
-- l. die amtliche Liquidation (Artikel 595 Absatz 1 ZGB);
-- m. die Aufsicht über Erbschaftsverwalterin oder Erbschaftsverwalter und Willensvollstreckerin oder Willensvollstrecker (Artikel 595 Absatz 3 ZGB); vorbehalten bleibt § 106 Buchstabe d dieses Gesetzes;
-- n. die Ernennung einer Erbenvertreterin oder eines Erbenvertreters (Artikel 602 Absatz 3 ZGB);
-- o. die Mitwirkung bei der Teilung (Artikel 609 ZGB);
-- p. die Bildung von Losen (Artikel 611 Absatz 2 ZGB);
-- q. die Steigerungsanordnung (Artikel 612 Absatz 3 ZGB);
-- r. die Verfügung betreffend besondere Gegenstände bei der Verteilung (Artikel 613 Absatz 3 ZGB);
-- s. die Bestimmung des Anrechnungswertes bei Grundstücken in der Erbteilung (Artikel 618 ZGB).
-- t. die Aufbewahrung von Vermögensverträgen (Artikel 25 PartG);
-- u. die Eröffnung von Vermögensverträgen (Artikel 25 PartG).
-- v. die Fristverlängerung für die Erklärung über Erwerb einer Erbschaft (Artikel 576 und 587 ZGB).
+- a. das Inventar bei Nacherbeneinsetzung (Art. 490 Abs. 1 ZGB);
+- b. die Aufbewahrung von letztwilligen Verfügungen sowie Ehe- und Erbverträgen (Art. 504, 505 und 512 ZGB) und die Führung des Testamentsregisters;
+- c. die Mitteilung der Willensvollstreckung (Art. 517 Abs. 2 ZGB);
+- d. die amtliche Verwaltung des Vermögens der verschollenen Person (Art. 548 Abs. 1 ZGB);
+- e. die Massregeln zur Sicherung des Erbgangs: Siegelung, Inventar, Anordnung der Erbschaftsverwaltung (Art. 551–554 ZGB);
+- f. den Erbenruf (Art. 555 Abs. 1 ZGB);
+- g. die Eröffnung von letztwilligen Verfügungen sowie von Ehe- und Erbverträgen (Art. 556–558 ZGB);
+- h. die Ausstellung der Erbenbescheinigung (Art. 559 Abs. 1 ZGB);
+- i. die Entgegennahme von Erbschaftsausschlagungen und Anordnung weiterer Massnahmen (Art. 570, 574–576 ZGB);
+- j. das öffentliche Inventar (Art. 580–584 ZGB);
+- k. die Bewilligung zur Fortsetzung des Geschäfts (Art. 585 Abs. 2 ZGB);
+- l. die amtliche Liquidation (Art. 595 Abs. 1 ZGB);
+- m. die Aufsicht über Erbschaftsverwalterin oder Erbschaftsverwalter und Willensvollstreckerin oder Willensvollstrecker (Art. 595 Abs. 3 ZGB); vorbehalten bleibt § 106 Bst. d dieses Gesetzes;
+- n. die Ernennung einer Erbenvertreterin oder eines Erbenvertreters (Art. 602 Abs. 3 ZGB);
+- o. die Mitwirkung bei der Teilung (Art. 609 ZGB);
+- p. die Bildung von Losen (Art. 611 Abs. 2 ZGB);
+- q. die Steigerungsanordnung (Art. 612 Abs. 3 ZGB);
+- r. die Verfügung betreffend besondere Gegenstände bei der Verteilung (Art. 613 Abs. 3 ZGB);
+- s. die Bestimmung des Anrechnungswertes bei Grundstücken in der Erbteilung (Art. 618 ZGB);
+- t. die Aufbewahrung von Vermögensverträgen (Art. 25 PartG);
+- u. die Eröffnung von Vermögensverträgen (Art. 25 PartG);
+- v. die Fristverlängerung für die Erklärung über Erwerb einer Erbschaft (Art. 576 und 587 ZGB).
 
 #### § 106
 
@@ -768,7 +768,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Die Sicherheitsdirektion ist zuständig für:
 
-- a. das Erheben der Klage auf Vollziehung von Auflagen, die einen Bezirk oder den Kanton betreffen (Artikel 482 Absatz 1 ZGB);
+- a. das Erheben der Klage auf Vollziehung von Auflagen, die einen Bezirk oder den Kanton betreffen (Art. 482 Abs. 1 ZGB);
 - b. die Aufsicht über das Erbschaftswesen;
 - c. die Aufsicht über die durch die Zivilrechtsverwaltung durchgeführten Erbschaftsliquidationen, Erbschaftsverwaltungen, Erbschaftsvertretungen und Willensvollstreckungen.
 
@@ -786,7 +786,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Zivilstandsamt, das den Tod einer zuletzt im Kanton Basel-Landschaft wohnhaften Person verurkundet, teilt den Todesfall unverzüglich der Zivilrechtsverwaltung mit. Die gleiche Pflicht obliegt dem Zivilstandsamt, das die Verschollenerklärung einer zuletzt im Kanton Basel-Landschaft wohnhaften Person verurkundet. Das Zivilstandsamt ist zudem bei der Ermittlung der gesetzlichen Erbinnen und Erben behilflich, sofern es persönlichen Kontakt mit Angehörigen oder sonstigen Personen im Zusammenhang mit dem Todesfall hat.
 
-<sup>2</sup> Der Einwohnergemeinde des letzten Wohnsitzes einer verstorbenen Person obliegt die Meldepflicht gemäss Absatz 1, sofern der Tod von einem Zivilstandsamt ausserhalb des Kantons Basel-Landschaft verurkundet wurde.
+<sup>2</sup> Der Einwohnergemeinde des letzten Wohnsitzes einer verstorbenen Person obliegt die Meldepflicht gemäss Abs. 1, sofern der Tod von einem Zivilstandsamt ausserhalb des Kantons Basel-Landschaft verurkundet wurde.
 
 <sup>3</sup> Nimmt die Einwohnergemeinde des letzten Wohnsitzes einer verstorbenen Person die Anzeige eines Todesfalls entgegen, hat sie diesen unverzüglich der Zivilrechtsverwaltung zu melden. Sie ist zudem bei der Ermittlung der gesetzlichen Erbinnen und Erben behilflich.
 
@@ -794,11 +794,11 @@ beschliesst:[^ingress-4]
 
 **Siegelung und Vorgehen bei ausserordentlichen Todesfällen**
 
-<sup>1</sup> Eine Siegelung der Erbschaft ist ohne Verzug durch die Zivilrechtsverwaltung vorzunehmen:
+<sup>1</sup> Eine Siegelung der Erbschaft ist ohne Verzug durch die Zivilrechtsverwaltung vorzunehmen, wenn:
 
-- a. wenn eine Erbin oder ein Erbe dauernd und ohne Vertretung abwesend ist,
-- b. wenn eine Erbin oder ein Erbe die Siegelung der Erbschaft ausdrücklich verlangt,
-- c. wenn die Erbschaftsgläubigerinnen oder Erbschaftsgläubiger es zur Sicherung ihrer Forderungen verlangen und sie die Gefahr der Benachteiligung glaubhaft machen.
+- a. eine Erbin oder ein Erbe dauernd und ohne Vertretung abwesend ist;
+- b. eine Erbin oder ein Erbe die Siegelung der Erbschaft ausdrücklich verlangt;
+- c. die Erbschaftsgläubigerinnen oder Erbschaftsgläubiger es zur Sicherung ihrer Forderungen verlangen und sie die Gefahr der Benachteiligung glaubhaft machen.
 
 <sup>2</sup> Bei ausserordentlichen Todesfällen nimmt die Polizei Basel-Landschaft, die Untersuchungsrichterin oder der Untersuchungsrichter die Siegelung vor und erteilt den Auftrag, die Räumlichkeiten zu Lasten der Erbschaft zu reinigen.
 
@@ -810,19 +810,19 @@ beschliesst:[^ingress-4]
 
 <sup>2</sup> Bei geringfügigem Nachlass wird ein Inventarbericht erstellt.
 
-<sup>3</sup> Ein Nebeninventar wird aufgenommen auf Antrag
+<sup>3</sup> Ein Nebeninventar wird aufgenommen auf Antrag:
 
-- a. einer Erbin oder eines Erben,
-- b. der Steuerbehörde,
+- a. einer Erbin oder eines Erben;
+- b. der Steuerbehörde;
 - c. einer ausserkantonalen Behörde.
 
-<sup>4</sup> Die Zivilrechtsverwaltung nimmt das Inventar nach den in Artikel 581 ZGB für das öffentliche Inventar enthaltenen Vorschriften auf. Wenn nötig zieht sie weitere Sachverständige bei.
+<sup>4</sup> Die Zivilrechtsverwaltung nimmt das Inventar nach den in Art. 581 ZGB für das öffentliche Inventar enthaltenen Vorschriften auf. Wenn nötig, zieht sie weitere Sachverständige bei.
 
 <sup>5</sup> Die Inventaraufnahme ist den Erbinnen und Erben anzukündigen.
 
 <sup>6</sup> Fällt keine Erbschaftssteuer an, wird ein vereinfachtes Inventar erstellt.
 
-<sup>7</sup> Alle Personen, die über die Vermögensverhältnisse der verstorbenen Person Auskunft geben können oder die deren Vermögensstücke besitzen (z.B. Erbin oder Erbe; Hausgenossinnen oder Hausgenossen der verstorbenen Person; Personen, die Vermögensstücke der verstorbenen Person verwalten oder verwahren), sind auf Anfrage der Zivilrechtsverwaltung zur wahrheitsgemässen Auskunft und zur Ablieferung der Nachlassaktiven verpflichtet.
+<sup>7</sup> Alle Personen, die über die Vermögensverhältnisse der verstorbenen Person Auskunft geben können oder die deren Vermögensstücke besitzen (z. B. Erbin oder Erbe; Hausgenossinnen oder Hausgenossen der verstorbenen Person; Personen, die Vermögensstücke der verstorbenen Person verwalten oder verwahren), sind auf Anfrage der Zivilrechtsverwaltung zur wahrheitsgemässen Auskunft und zur Ablieferung der Nachlassaktiven verpflichtet.
 
 #### § 111
 
@@ -856,13 +856,13 @@ beschliesst:[^ingress-4]
 
 <sup>5</sup> Für die Fortsetzung des Gewerbes der Erblasserin oder des Erblassers sind die erforderlichen Anordnungen zu treffen, wenn eine Unterbrechung des Gewerbebetriebes der Erbschaft zum Nachteil gereichen könnte.
 
-<sup>6</sup> Unbekannte Erbinnen und Erben sind im Amtsblatt und nötigenfalls in weiteren Publikationsorganen aufzufordern, sich zu melden (Artikel 555 ZGB). Die Zivilrechtsverwaltung geht Hinweisen von Drittpersonen nach und nimmt weitere Abklärungen vor.
+<sup>6</sup> Unbekannte Erbinnen und Erben sind im Amtsblatt und nötigenfalls in weiteren Publikationsorganen aufzufordern, sich zu melden (Art. 555 ZGB). Die Zivilrechtsverwaltung geht Hinweisen von Drittpersonen nach und nimmt weitere Abklärungen vor.
 
 #### § 114
 
 **Rechnungsruf**
 
-<sup>1</sup> Die Zivilrechtsverwaltung macht den Rechnungsruf (Artikel 582 ZGB) im Amtsblatt und nötigenfalls in weiteren Publikationsorganen bekannt.
+<sup>1</sup> Die Zivilrechtsverwaltung macht den Rechnungsruf (Art. 582 ZGB) im Amtsblatt und nötigenfalls in weiteren Publikationsorganen bekannt.
 
 <sup>2</sup> Die Frist zur Anmeldung von Forderungen beträgt 6 Wochen seit der Publikation.
 
@@ -872,13 +872,13 @@ beschliesst:[^ingress-4]
 
 **Fristverlängerung**
 
-<sup>1</sup> Wird die Frist für die Erklärung über den Erwerb der Erbschaft gemäss Artikel 587 ZGB verlängert, kommt dies nicht den säumigen Gläubigerinnen oder Gläubigern zugute.
+<sup>1</sup> Wird die Frist für die Erklärung über den Erwerb der Erbschaft gemäss Art. 587 ZGB verlängert, kommt dies nicht den säumigen Gläubigerinnen oder Gläubigern zugute.
 
 #### § 116
 
 **Erwerb durch das Gemeinwesen**
 
-<sup>1</sup> Die Bestimmungen über das öffentliche Inventar finden sinngemäss Anwendung auf den Rechnungsruf gemäss Artikel 592 ZGB.
+<sup>1</sup> Die Bestimmungen über das öffentliche Inventar finden sinngemäss Anwendung auf den Rechnungsruf gemäss Art. 592 ZGB.
 
 ## 5.4 Erbteilung
 
@@ -886,7 +886,7 @@ beschliesst:[^ingress-4]
 
 **Mitwirkung der Behörde**
 
-<sup>1</sup> Die Zivilrechtsverwaltung hat ausser in den in Artikel 609 ZGB vorgesehenen Fällen bei der Teilung mitzuwirken wenn:
+<sup>1</sup> Die Zivilrechtsverwaltung hat ausser in den in Art. 609 ZGB vorgesehenen Fällen bei der Teilung mitzuwirken, wenn:
 
 - a. eine Erbin oder ein Erbe nicht handlungsfähig ist;
 - b. eine Erbin oder ein Erbe unbekannt abwesend ist, ohne eine Vermögensverwaltung bestellt zu haben;
@@ -902,7 +902,7 @@ beschliesst:[^ingress-4]
 
 **Schätzung von Grundstücken**
 
-<sup>1</sup> Die Zivilrechtsverwaltung stellt bei Erbteilungen in Form einer anfechtbaren Verfügung den Anrechnungswert für Grundstücke fest (Artikel 618 ff. ZGB).
+<sup>1</sup> Die Zivilrechtsverwaltung stellt bei Erbteilungen in Form einer anfechtbaren Verfügung den Anrechnungswert für Grundstücke fest (Art. 618 ff. ZGB).
 
 <sup>2</sup> Gegen diese Schätzung kann innert 10 Tagen beim Regierungsrat Beschwerde erhoben werden.
 
@@ -914,7 +914,7 @@ beschliesst:[^ingress-4]
 
 **Erbschaftsanfall an Gemeinde und Kanton**
 
-<sup>1</sup> Hinterlässt die Erblasserin oder der Erblasser im Sinne von Artikel 466 ZGB keine erbberechtigten Personen, so fällt die Erbschaft zu 50% an die Einwohnergemeinde des letzten Wohnsitzes der Erblasserin oder des Erblassers und zu 50% an den Kanton.
+<sup>1</sup> Hinterlässt die Erblasserin oder der Erblasser im Sinne von Art. 466 ZGB keine erbberechtigten Personen, so fällt die Erbschaft zu 50 % an die Einwohnergemeinde des letzten Wohnsitzes der Erblasserin oder des Erblassers und zu 50 % an den Kanton.
 
 ## 6 Sachenrecht
 
@@ -924,7 +924,7 @@ beschliesst:[^ingress-4]
 
 **Gemeinderat**
 
-<sup>1</sup> Der Gemeinderat der Wohnsitzgemeinde ist zuständig für den Erlass von Verboten betreffend Wald und Weide (Artikel 699 ZGB).
+<sup>1</sup> Der Gemeinderat der Wohnsitzgemeinde ist zuständig für den Erlass von Verboten betreffend Wald und Weide (Art. 699 ZGB).
 
 #### § 122
 
@@ -934,26 +934,26 @@ beschliesst:[^ingress-4]
 
 #### § 123
 
-**Bezirksschreiberei**
+**Zivilrechtsverwaltung**
 
 <sup>1</sup> Die Zivilrechtsverwaltung ist zuständig für:
 
 - a. ...
-- b. die Verlegung der Pfandhaft (Artikel 833 und 852 ZGB),
-- c. die Zahlung der Grundpfandschuldnerschaft (Artikel 861 Absatz 2 ZGB),
-- d. die Vornahme von Viehverpfändungen (Artikel 885 Absatz 3 ZGB).
+- b. die Verlegung der Pfandhaft (Art. 833 und 852 ZGB),
+- c. die Zahlung der Grundpfandschuldnerschaft (Art. 861 Abs. 2 ZGB),
+- d. die Vornahme von Viehverpfändungen (Art. 885 Abs. 3 ZGB).
 
 #### § 124
 
 **Sicherheitsdirektion**
 
-<sup>1</sup> Die Sicherheitsdirektion ist zuständig für die:
+<sup>1</sup> Die Sicherheitsdirektion ist zuständig für:
 
-- a. Verwahrung, Versteigerung und Verwertung von Fundgegenständen (Artikel 721 ZGB),
-- b. Bewilligung der öffentlichen Versteigerung von Fundgegenständen (Artikel 721 Absatz 2 ZGB),
-- c. die Überwachung der Auslosung von Anleihenstiteln (Artikel 882 ZGB),
-- d. die Bewilligung zur Vornahme von Viehverpfändungen (Artikel 885 ZGB),
-- e. die Bewilligung zum Betrieb eines Pfandleihgewerbes (Artikel 907 ZGB).
+- a. die Verwahrung, Versteigerung und Verwertung von Fundgegenständen (Art. 721 ZGB),
+- b. die Bewilligung der öffentlichen Versteigerung von Fundgegenständen (Art. 721 Abs. 2 ZGB),
+- c. die Überwachung der Auslosung von Anleihenstiteln (Art. 882 ZGB),
+- d. die Bewilligung zur Vornahme von Viehverpfändungen (Art. 885 ZGB),
+- e. die Bewilligung zum Betrieb eines Pfandleihgewerbes (Art. 907 ZGB).
 
 <sup>2</sup> Das Nähere über das Fundwesen regelt der Regierungsrat.
 
@@ -963,20 +963,20 @@ beschliesst:[^ingress-4]
 
 **Bestandteile**
 
-<sup>1</sup> Als Bestandteile einer unbeweglichen Sache im Sinne von Artikel 642 Absatz 2 ZGB (Ortsgebrauch) sind zu betrachten:
+<sup>1</sup> Als Bestandteile einer unbeweglichen Sache im Sinne von Art. 642 Abs. 2 ZGB (Ortsgebrauch) sind zu betrachten:
 
-- a. bei Grundstücken, die darauf wachsenden Pflanzen und deren Früchte, solange sie mit dem Grundstück verbunden bleiben;
+- a. bei Grundstücken die darauf wachsenden Pflanzen und deren Früchte, solange sie mit dem Grundstück verbunden bleiben;
 - b. bei Gebäuden, was mit denselben niet- und nagelfest verbunden ist und von denselben ohne Beschädigung nicht abgetrennt werden kann, wie eingemauerte Schränke, mit dem Gebäude verbundene Einrichtungen von Triebwerken (Wasserräder, Turbinen, Transmissionen), nicht transportable Pressen, Gewächshäuser, Frühtreibkasten, in den Boden eingebaute oder mit einer Feuermauer in feste Verbindung gebrachte Öfen und Herde, Ventilatoren, elektrische Leitungen, Gas- und Wasserleitungen, Beleuchtungseinrichtungen usw.
 
 #### § 126
 
 **Zugehör**
 
-<sup>1</sup> Als Zugehör im Sinne von Artikel 644 und 645 ZGB (Ortsgebrauch) sind zu betrachten:
+<sup>1</sup> Als Zugehör im Sinne von Art. 644 und 645 ZGB (Ortsgebrauch) sind zu betrachten:
 
-- a. bei Grundstücken, die auf denselben vorhandenen und für sie bestimmten Pfähle sowie der auf den Grundstücken und in den Düngstätten vorhandene Dünger;
-- b. bei Gebäuden, die für sie bestimmten und ihnen zu dienenden Sachen, wie Schlüssel, Leitern, Türen, Fenster, Vorfenster, Fensterläden, auch wenn sie ausgehängt sind, Hausglocken, Storen, Vorhangstangen, angepasste Bodenbeläge, bewegliche Öfen und Herde, soweit nicht in den Boden eingebaute oder mit einer Feuermauer in feste Verbindung gebrachte Öfen und Herde vorhanden sind, Waschmaschinen und Waschtröge, Fasslager und Gestelle in Kellern, vorrätige Ziegel usw.;
-- c. bei Fabriken und andern gewerblichen Betrieben, die darin befindlichen und ihrer Konstruktion nach für das Werk berechneten, wenn auch nicht damit verbundenen Vorrichtungen und die dazu gehörenden Gerätschaften und Werkzeuge.
+- a. bei Grundstücken die auf denselben vorhandenen und für sie bestimmten Pfähle sowie der auf den Grundstücken und in den Düngstätten vorhandene Dünger;
+- b. bei Gebäuden die für sie bestimmten und ihnen zu dienenden Sachen, wie Schlüssel, Leitern, Türen, Fenster, Vorfenster, Fensterläden, auch wenn sie ausgehängt sind, Hausglocken, Storen, Vorhangstangen, angepasste Bodenbeläge, bewegliche Öfen und Herde, soweit nicht in den Boden eingebaute oder mit einer Feuermauer in feste Verbindung gebrachte Öfen und Herde vorhanden sind, Waschmaschinen und Waschtröge, Fasslager und Gestelle in Kellern, vorrätige Ziegel usw.;
+- c. bei Fabriken und andern gewerblichen Betrieben die darin befindlichen und ihrer Konstruktion nach für das Werk berechneten, wenn auch nicht damit verbundenen Vorrichtungen und die dazu gehörenden Gerätschaften und Werkzeuge.
 
 <sup>2</sup> Die Verfügung über eine Sache bezieht sich, wenn keine Ausnahme gemacht wird, auch auf ihre Zugehör.
 
@@ -984,7 +984,7 @@ beschliesst:[^ingress-4]
 
 **Herrenloses Land**
 
-<sup>1</sup> Herrenloses Land fällt in das Eigentum der Einwohnergemeinde, wo es sich befindet (Artikel 664 Absatz 3 ZGB).
+<sup>1</sup> Herrenloses Land fällt in das Eigentum der Einwohnergemeinde, wo es sich befindet (Art. 664 Abs. 3 ZGB).
 
 ## 6.3 Nachbarrecht
 
@@ -994,7 +994,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> In Bezug auf Grabungen, Aufschüttungen und Bauten sind die Vorschriften des Raumplanungs- und Baugesetzes vom 8. Januar 1998[^128-1] anzuwenden.
 
-[^128-1]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
+[^128-1]: [SGS 400](https://bl.clex.ch/data/400/de)
 
 #### § 129
 
@@ -1010,11 +1010,11 @@ beschliesst:[^ingress-4]
 
 **Einfriedungen**
 
-<sup>1</sup> Grünhecken dürfen gegen den Willen der nachbarlichen Grundeigentümerschaft nicht näher als 60 cm von der Grenze und nicht höher als ihre dreifache Distanz von derselben gehalten werden.
+<sup>1</sup> Grünhecken dürfen gegen den Willen der nachbarlichen Grundeigentümerschaft nicht näher als 60 cm von der Grenze und nicht höher als ihre 3-fache Distanz von derselben gehalten werden.
 
 <sup>2</sup> Für andere Einfriedungen gelten die Bestimmungen des Raumplanungs- und Baugesetzes vom 8. Januar 1998[^130-1] (RBG).
 
-[^130-1]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
+[^130-1]: [SGS 400](https://bl.clex.ch/data/400/de)
 
 #### § 131
 
@@ -1092,13 +1092,13 @@ beschliesst:[^ingress-4]
 
 <sup>2</sup> Eine jagdberechtigte Person, welche Wild innerhalb ihres Pachtgebietes beschossen und verwundet hat, ist nicht berechtigt, es in ein angrenzendes fremdes Pachtrevier zu verfolgen und dort in Besitz zu nehmen. Vorbehalten bleiben vereinbarte Wildfolgeabkommen.
 
-<sup>3</sup> Die Befugnis zum Betreten fremden Grundeigentums erstreckt sich jedoch nicht auf Grundstücke, welche in Verbindung mit Gebäuden stehen und mit diesen eingefriedet sind, ferner nicht auf Grundstücke, welche dem Eintritt fremder Personen überhaupt durch Mauern, Gitter oder andere ständige Einfriedigungen verschlossen sind. Unter ständigen Einfriedigungen sind nur dauerhafte, speziell zur Abhaltung von Menschen bestimmte Einfriedigungen zu verstehen, nicht aber blosse Stangenzäune und einfache Drahtzäune, wie sie z.B. auf Weiden zur Zurückhaltung des Viehs dienen.
+<sup>3</sup> Die Befugnis zum Betreten fremden Grundeigentums erstreckt sich jedoch nicht auf Grundstücke, welche in Verbindung mit Gebäuden stehen und mit diesen eingefriedet sind, ferner nicht auf Grundstücke, welche dem Eintritt fremder Personen überhaupt durch Mauern, Gitter oder andere ständige Einfriedigungen verschlossen sind. Unter ständigen Einfriedigungen sind nur dauerhafte, speziell zur Abhaltung von Menschen bestimmte Einfriedigungen zu verstehen, nicht aber blosse Stangenzäune und einfache Drahtzäune, wie sie z. B. auf Weiden zur Zurückhaltung des Viehs dienen.
 
 #### § 140
 
 **Quellenrecht**
 
-<sup>1</sup> Die Fortleitung von Quell- oder Grundwasser über die Grenzen des Grundstückes hinaus, in welchem es aus dem Boden gewonnen wird, ist untersagt, wenn dadurch die öffentlichen Wasserversorgungen im Kantonsgebiet benachteiligt werden.
+<sup>1</sup> Die Fortleitung von Quell- oder Grundwasser über die Grenzen des Grundstücks hinaus, in welchem es aus dem Boden gewonnen wird, ist untersagt, wenn dadurch die öffentlichen Wasserversorgungen im Kantonsgebiet benachteiligt werden.
 
 <sup>2</sup> Zur Fortleitung von Quell- oder Grundwasser aus dem Kantonsgebiet hinaus bedarf es der Bewilligung des Regierungsrates. Diese Bewilligung ist auf längstens 20 Jahre zu erteilen, kann aber erneuert werden.
 
@@ -1108,7 +1108,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Für den Anspruch auf Abtretung von Quellen und dergleichen zu Wasserversorgungen oder anderen Unternehmungen des allgemeinen Wohls besteht zugunsten von Gemeinden und Kanton das Recht auf Enteignung. Das Verfahren richtet sich nach dem Gesetz vom 19. Juni 1950[^141-1] über die Enteignung.
 
-[^141-1]: GS 20.169, SGS [410](https://bl.clex.ch/data/410/de)
+[^141-1]: [SGS 410](https://bl.clex.ch/data/410/de)
 
 #### § 142
 
@@ -1159,7 +1159,7 @@ beschliesst:[^ingress-4]
 
 **Einseitige Ablösung**
 
-<sup>1</sup> Die Vorschriften des Zivilgesetzbuches betreffend die einseitige Ablösung von Grundpfandrechten (Artikel 828 und 829 ZGB) werden als anwendbar erklärt.
+<sup>1</sup> Die Vorschriften des Zivilgesetzbuches betreffend die einseitige Ablösung von Grundpfandrechten (Art. 828 und 829 ZGB) werden als anwendbar erklärt.
 
 #### § 148
 
@@ -1167,48 +1167,48 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Ein gesetzliches Grundpfandrecht besteht, ohne Eintragung im Grundbuch und allen anderen Pfandrechten vorgehend, für:
 
-- a. die auf die Grundstücke entfallende Vermögenssteuer zu Gunsten von Kanton und Gemeinden, für das vergangene und für das laufende Jahr;
-- b. die Immobiliensteuern gemäss § 70 des Gesetzes vom 7. Februar 1974[^148-1] über die Staats- und Gemeindesteuern (Steuergesetz);
-- c. die Erbschafts- und Schenkungssteuern gemäss § 23 des Gesetzes vom 7. Januar 1980[^148-2] über die Erbschafts- und die Schenkungssteuer;
+- a. die auf die Grundstücke entfallende Vermögenssteuer zugunsten von Kanton und Gemeinden, für das vergangene und für das laufende Jahr;
+- b. die Immobiliensteuern gemäss § 70 des Gesetzes über die Staats- und Gemeindesteuern (Steuergesetz) vom 7. Februar 1974[^148-1];
+- c. die Erbschafts- und Schenkungssteuern gemäss § 23 des Gesetzes über die Erbschafts- und die Schenkungssteuer vom 7. Januar 1980[^148-2];
 - d. die Beurkundungs- und Grundbuchgebühren für Grundstückgeschäfte sowie die Vermessungskosten für Kanton und Gemeinden;
-- e. die Versicherungsprämien, die Präventions- und Interventionsbeiträge sowie die Schätzungskosten der Gebäude- und Grundstückversicherung gemäss § 38 des Gesetzes vom 12. Januar 1981[^148-3] über die Versicherung von Gebäuden und Grundstücken (Sachversicherungsgesetz);
-- f. für Kosten, Beiträge und Gebühren zugunsten des Kantons und der Gemeinden sowie für Kosten im Zusammenhang mit Ersatzvornahmen gestützt auf die §§ 16, 19, 32 und 34 des Gesetzes vom 1. April 2004[^148-4] über den Wasserbau und die Nutzung der Gewässer;
+- e. die obligatorisch basierten Teile der Gesamtabgabe gemäss dem Gebäudeversicherungsgesetz vom 24. März 2022[^148-3];
+- f. für Kosten, Beiträge und Gebühren zugunsten des Kantons und der Gemeinden sowie für Kosten im Zusammenhang mit Ersatzvornahmen, gestützt auf die §§ 16, 19, 32 und 34 des Gesetzes über den Wasserbau und die Nutzung der Gewässer vom 1. April 2004[^148-4] ;
 - g. den Wasser- und Abwasserzins, welchen eine Gemeinde von der Grundeigentümerschaft für das vergangene und für das laufende Jahr zu fordern hat;
 - h. die an Kanton oder Gemeinden zu bezahlenden Beiträge an Wasserleitungen und Kanalisationen;
-- i. die an den Kanton und die Gemeinden zu bezahlenden Beiträge und Anschlussgebühren an öffentliche Erschliessungswerke gemäss § 94 des Gesetzes vom 19. Juni 1950[^148-5] über die Enteignung;
-- j. die Umlegungskosten und Ausgleichszahlungen gemäss § 71 und für die Kosten der Ersatzvornahme gemäss § 138 des Raumplanungs- und Baugesetzes vom 8. Januar 1998[^148-6] (RBG);
+- i. die an den Kanton und die Gemeinden zu bezahlenden Beiträge und Anschlussgebühren an öffentliche Erschliessungswerke gemäss § 94 des Gesetzes über die Enteignung vom 19. Juni 1950[^148-5] ;
+- j. die Umlegungskosten und Ausgleichszahlungen gemäss § 71 und für die Kosten der Ersatzvornahme gemäss § 138 des Raumplanungs- und Baugesetzes (RBG) vom 8. Januar 1998[^148-6];
 - k. die Restkosten bei Bodenverbesserungen zugunsten der durchführenden Körperschaft sowie für die Unterhaltsbeiträge zugunsten der Unterhaltsgenossenschaft;
-- l. die Mehrwertabgabe gemäss [§ 3](https://bl.clex.ch/data/404/de/art3) des Gesetzes vom 27. September 2018[^148-7] über die Abgeltung von Planungsmehrwerten.
+- l. die Mehrwertabgabe gemäss § 3 des Gesetzes über die Abgeltung von Planungsmehrwerten vom 27. September 2018[^148-7].
 
-[^148-1]: GS 25.427, SGS [331](https://bl.clex.ch/data/331/de)
-[^148-2]: GS 27.476, SGS [334](https://bl.clex.ch/data/334/de)
-[^148-3]: GS 27.690, SGS [350](https://bl.clex.ch/data/350/de)
-[^148-4]: GS 35.0316, SGS [445](https://bl.clex.ch/data/445/de)
-[^148-5]: GS 20.169, SGS [410](https://bl.clex.ch/data/410/de)
-[^148-6]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
-[^148-7]: GS 2019.019, SGS 404
+[^148-1]: [SGS 331](https://bl.clex.ch/data/331/de/art70)
+[^148-2]: [SGS 334](https://bl.clex.ch/data/334/de/art23)
+[^148-3]: [SGS 350](https://bl.clex.ch/data/350/de)
+[^148-4]: [SGS 445](https://bl.clex.ch/data/445/de/art16)
+[^148-5]: [SGS 410](https://bl.clex.ch/data/410/de/art94)
+[^148-6]: [SGS 400](https://bl.clex.ch/data/400/de/art71)
+[^148-7]: [SGS 404](https://bl.clex.ch/data/404/de/art3)
 
 #### § 149
 
 **Gesetzliche Grundpfandrechte, Rangordnung, Verwertung**
 
-<sup>1</sup> Die gesetzlichen Grundpfandrechte stehen unter sich alle im gleichen Rang und gehen den anderen eingetragenen Belastungen vor. Ausgenommen von dieser Rangordnung bleibt das gesetzliche Grundpfandrecht gemäss § 23 des Gesetzes vom 7. Januar 1980[^149-1] über die Erbschafts- und die Schenkungssteuer, das allen anderen auch gesetzlichen Pfandrechten vorgeht.
+<sup>1</sup> Die gesetzlichen Grundpfandrechte stehen unter sich alle im gleichen Rang und gehen den anderen eingetragenen Belastungen vor. Ausgenommen von dieser Rangordnung bleibt das gesetzliche Grundpfandrecht gemäss § 23 des Gesetzes über die Erbschafts- und die Schenkungssteuer vom 7. Januar 1980[^149-1] , das allen anderen auch gesetzlichen Pfandrechten vorgeht.
 
 <sup>2</sup> Soweit die gesetzlichen Grundpfandrechte verfallene Forderungen betreffen, werden diese gerechnet im Falle der Grundpfandverwertung von der Stellung des Verwertungsbegehrens, im Falle des Konkurses von der Konkurseröffnung.
 
-[^149-1]: GS 27.476, SGS [334](https://bl.clex.ch/data/334/de)
+[^149-1]: [SGS 334](https://bl.clex.ch/data/334/de/art23)
 
 #### § 150
 
 **Schuldbrief, amtliche Schätzung**
 
-<sup>1</sup> Für die Errichtung von Schuldbriefen im Sinne von Artikel 843 ZGB kann von der Gläubigerin oder vom Gläubiger und von der Schuldnerin oder vom Schuldner auf die amtliche Schätzung abgestellt werden.
+<sup>1</sup> Für die Errichtung von Schuldbriefen im Sinne von Art. 843 ZGB kann von der Gläubigerin oder vom Gläubiger und von der Schuldnerin oder vom Schuldner auf die amtliche Schätzung abgestellt werden.
 
 #### § 151
 
 **Schätzung durch Sachverständige**
 
-<sup>1</sup> Wird zum Zwecke der Errichtung einer Gült eine amtliche Schätzung eines Grundstückes im Sinne von Artikel 848 ZGB verlangt, so setzt der Regierungsrat nach Anhörung von 2 von ihm ernannten Sachverständigen die Schätzung fest.
+<sup>1</sup> Wird zum Zwecke der Errichtung einer Gült eine amtliche Schätzung eines Grundstückes im Sinne von Art. 848 ZGB verlangt, so setzt der Regierungsrat nach Anhörung von 2 von ihm ernannten Sachverständigen die Schätzung fest.
 
 ## 6.6 Fahrnispfandrecht
 
@@ -1226,11 +1226,11 @@ beschliesst:[^ingress-4]
 
 <sup>2</sup> Die Bewerberin oder der Bewerber muss Gewähr für eine klaglose Geschäftsführung bieten.
 
-<sup>3</sup> Die Inhaberin oder der Inhaber des Pfandleihgewerbes hat für die Einhaltung der ihr oder ihm obliegenden Verpflichtungen bei der Staatskasse eine Kaution von CHF 2000 zu hinterlegen.
+<sup>3</sup> Die Inhaberin oder der Inhaber des Pfandleihgewerbes hat für die Einhaltung der ihr oder ihm obliegenden Verpflichtungen bei der Staatskasse eine Kaution von CHF 2000.– zu hinterlegen.
 
 <sup>4</sup> Die Inhaberin oder der Inhaber eines Pfandleihgewerbes ist zur Führung von Geschäftsbüchern verpflichtet.
 
-<sup>5</sup> Es kann ein Zins bis zu 1% per Monat berechnet und für Ausstellung eines Pfandleihscheins eine Gebühr erhoben werden.
+<sup>5</sup> Es kann ein Zins bis zu 1 % per Monat berechnet und für Ausstellung eines Pfandleihscheins eine Gebühr erhoben werden.
 
 <sup>6</sup> Der Polizei ist jederzeit Zutritt zu den Geschäftslokalen und Einsicht in die Bücher und Besichtigung der Pfänder zu gestatten. Werden Gegenstände zum Versatz angeboten, welche Verdacht erregen, so hat die Inhaberin oder der Inhaber eines Pfandleihgewerbes sofort die Polizei zu benachrichtigen.
 
@@ -1254,7 +1254,7 @@ beschliesst:[^ingress-4]
 
 **Liegenschaften des Kantons und der Gemeinden**
 
-<sup>1</sup> Die im Eigentum des Kantons und der Gemeinden stehenden, dem öffentlichen Gebrauch dienenden Grundstücke werden ebenfalls in das Grundbuch aufgenommen (Artikel 944 ZGB).
+<sup>1</sup> Die im Eigentum des Kantons und der Gemeinden stehenden, dem öffentlichen Gebrauch dienenden Grundstücke werden ebenfalls in das Grundbuch aufgenommen (Art. 944 ZGB).
 
 #### § 156
 
@@ -1264,11 +1264,11 @@ beschliesst:[^ingress-4]
 
 <sup>2</sup> Von den Eigentumsübertragungen an Grundstücken erstattet die Zivilrechtsverwaltung Handänderungsanzeige an:
 
-- a. das Statistische Amt,
-- b. die Steuerverwaltung,
-- b.<sup>bis</sup> den Bereich Immobilien der Bau- und Umweltschutzdirektion,
-- c. die Basellandschaftliche Gebäudeversicherung,
-- d. die Gemeinden,
+- a. das Amt für Daten und Statistik;
+- b. die Steuerverwaltung;
+- b.<sup>bis</sup> den Bereich Immobilien der Bau- und Umweltschutzdirektion;
+- c. die Basellandschaftliche Gebäudeversicherung;
+- d. die Gemeinden;
 - e. die Betreiberinnen und Betreiber von Elektrizitätsverteilnetzen.
 
 <sup>2<sup>bis</sup></sup> Der Abteilung Enteignungsgericht des Steuer- und Enteignungsgerichts sind vom Bereich Immobilien der Bau- und Umweltschutzdirektion auf schriftliche Anfrage hin sämtliche Informationen im Zusammenhang mit Eigentumsübertragungen herauszugeben.
@@ -1295,7 +1295,7 @@ beschliesst:[^ingress-4]
 
 <sup>2</sup> Vorbehalten bleiben die Entschädigung und der Spesenersatz für die Mandatsführung im Kindes- und Erwachsenenschutzbereich.
 
-<sup>3</sup> Der Regierungsrat erlässt einen Gebührentarif sowie einen Notariatstarif und regelt die Entschädigung im Sinne von Artikel 416 ZGB.
+<sup>3</sup> Der Regierungsrat erlässt einen Gebührentarif sowie einen Notariatstarif und regelt die Entschädigung im Sinne von Art. 416 ZGB.
 
 <sup>4</sup> ...
 
@@ -1315,7 +1315,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Grundbuchamt erlässt zur Ermittlung der dinglichen Rechte eine Bekanntmachung, mit der alle ansprechenden Personen von solchen Rechten aufgefordert werden, diese innert einer Frist von 2 Monaten beim Grundbuchamt anzumelden. Ebenso soll die Eigentümerschaft selbst alle ihr bekannten Lasten angeben.
 
-<sup>2</sup> Die Aufforderung soll wenigstens zweimal je nach 14 Tagen wiederholt werden, unter Angabe der Nachteile, die bei Nichtanmeldung eintreten könnten.
+<sup>2</sup> Die Aufforderung soll wenigstens 2-mal je nach 14 Tagen wiederholt werden, unter Angabe der Nachteile, die bei Nichtanmeldung eintreten könnten.
 
 #### § 161
 
@@ -1323,7 +1323,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Die schriftliche Eingabe soll enthalten:
 
-- a. bei Dienstbarkeiten und Grundlasten: die genaue Umschreibung des Rechts, Namen und Wohnort der berechtigten Person, die Angabe des Titels, auf den sich das Recht stützt, die Angabe des berechtigten und des belasteten Grundstückes, Namen und Wohnort der Eigentümerschaft des belasteten Grundstückes;
+- a. bei Dienstbarkeiten und Grundlasten: die genaue Umschreibung des Rechts, Namen und Wohnort der berechtigten Person, die Angabe des Titels, auf den sich das Recht stützt, die Angabe des berechtigten und des belasteten Grundstücks, Namen und Wohnort der Eigentümerschaft des belasteten Grundstücks;
 - b. bei Grundpfandrechten: die Pfandsumme, die Angabe des Forderungstitels, Namen und Wohnort von Gläubigerschaft und Schuldnerschaft.
 
 <sup>2</sup> Das Grundbuchamt hat die Eingaben zu prüfen und die nötigen Ergänzungen zu verlangen oder selbst für diese besorgt zu sein. Es hat alles zu tun, um den Bestand der dinglichen Rechte so klar als möglich darzustellen.
@@ -1336,13 +1336,13 @@ beschliesst:[^ingress-4]
 
 <sup>2</sup> Mit dieser Auflage erfolgt eine nochmalige öffentliche Aufforderung, dass die beteiligten Personen Einsprache gegen die Eintragung oder Nichteintragung innert eines Monats, von der Publikation an gerechnet, geltend machen müssen, bei Gefahr der Verwirkung ihrer Ansprüche gegenüber Dritten.
 
-<sup>3</sup> Bis zum Ablauf dieser Frist können die noch nicht angemeldeten dinglichen Ansprüche immer noch angemeldet werden; geschieht dies nicht, so gelten sie nach Ablauf von 5 Jahren gemäss Artikel 44 Absatz 2 Schlusstitel ZGB gegenüber jedermann als aufgehoben.
+<sup>3</sup> Bis zum Ablauf dieser Frist können die noch nicht angemeldeten dinglichen Ansprüche immer noch angemeldet werden; geschieht dies nicht, so gelten sie nach Ablauf von 5 Jahren gemäss Art. 44 Abs. 2 Schlusstitel ZGB gegenüber jedermann als aufgehoben.
 
 #### § 163
 
 **Berücksichtigung nicht angemeldeter Rechte**
 
-<sup>1</sup> Eine Berücksichtigung der nicht angemeldeten Rechte kann gegenüber gutgläubigen Dritten nach der Anlage des Grundbuches nicht mehr stattfinden; dagegen ist es zulässig, dass eine spätere Eintragung eines früher nicht angemeldeten Rechtes immer noch erfolgt, wenn die ansprechende Person geltend machen kann, dass es ihr ohne ihr Verschulden nicht möglich gewesen sei, die Anmeldung rechtzeitig einzureichen. Dingliche Rechte, deren Bestand nach bisherigem Recht zwar nachweisbar, deren Anmeldung aber nicht erfolgt ist und deren Nichtanmeldung nicht entschuldigt werden kann, behalten also ihre Wirkung unter den Parteien noch während einer Frist von 5 Jahren, können jedoch nicht mehr in das Grundbuch eingetragen werden, es sei denn auf Grund einer neuen Begründung.
+<sup>1</sup> Eine Berücksichtigung der nicht angemeldeten Rechte kann gegenüber gutgläubigen Dritten nach der Anlage des Grundbuchs nicht mehr stattfinden; dagegen ist es zulässig, dass eine spätere Eintragung eines früher nicht angemeldeten Rechts immer noch erfolgt, wenn die ansprechende Person geltend machen kann, dass es ihr ohne ihr Verschulden nicht möglich gewesen sei, die Anmeldung rechtzeitig einzureichen. Dingliche Rechte, deren Bestand nach bisherigem Recht zwar nachweisbar, deren Anmeldung aber nicht erfolgt ist und deren Nichtanmeldung nicht entschuldigt werden kann, behalten also ihre Wirkung unter den Parteien noch während einer Frist von 5 Jahren, können jedoch nicht mehr in das Grundbuch eingetragen werden, es sei denn aufgrund einer neuen Begründung.
 
 <sup>2</sup> Nichtangemeldete Rechte dagegen, deren Nichtanmeldung entschuldigt werden kann, können nachträglich, immerhin wiederum nur innert einer Frist von 5 Jahren, eingetragen werden; ihre Wirkung besteht aber gutgläubigen Dritten gegenüber erst mit der Eintragung und sie erhalten auch nur das Datum dieser Eintragung.
 
@@ -1392,18 +1392,18 @@ beschliesst:[^ingress-4]
 
 **Kosten der Vermarkung**
 
-<sup>1</sup> Die Kosten der Vermarkung werden getragen
+<sup>1</sup> Die Kosten der Vermarkung werden getragen für:
 
-- a. für die Vermarkung der staatlichen Liegenschaften von den staatlichen Kassen;
-- b. für die Vermarkung des Gemeindeeigentums von den entsprechenden Gemeindekassen;
-- c. für die Vermarkung des Bahnareals von den Bahnverwaltungen;
-- d. für die Vermarkung der privaten Eigentumsgrenzen zu gleichen Teilen von den beteiligten Grundeigentümern.
+- a. die Vermarkung der staatlichen Liegenschaften von den staatlichen Kassen;
+- b. die Vermarkung des Gemeindeeigentums von den entsprechenden Gemeindekassen;
+- c. die Vermarkung des Bahnareals von den Bahnverwaltungen;
+- d. die Vermarkung der privaten Eigentumsgrenzen zu gleichen Teilen von den beteiligten Grundeigentümern.
 
 #### § 170
 
 **Kosten der amtlichen Vermessung**
 
-<sup>1</sup> Die nach Abzug des Bundesbeitrages verbleibenden Restkosten eines Vermessungsoperates werden zwischen Kanton, Gemeinde und in bestimmten Fällen der Grundeigentümerschaft aufgeteilt.
+<sup>1</sup> Die nach Abzug des Bundesbeitrags verbleibenden Restkosten eines Vermessungsoperats werden zwischen Kanton, Gemeinde und in bestimmten Fällen der Grundeigentümerschaft aufgeteilt.
 
 <sup>2</sup> Das Dekret regelt das Verhältnis der Beitragspflichten.
 
@@ -1478,7 +1478,7 @@ beschliesst:[^ingress-4]
 
 **Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster)**
 
-<sup>1</sup> Der Regierungsrat regelt die Organisation des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen gemäss Art. 16 des Bundesgesetzes vom 5. Oktober 2007[^177a-1] über die Geoinformation (GeoIG).
+<sup>1</sup> Der Regierungsrat regelt die Organisation des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen gemäss Art. 16 des Bundesgesetzes über die Geoinformation (GeoIG) vom 5. Oktober 2007[^177a-1].
 
 <sup>2</sup> Er erlässt Ausführungsbestimmungen insbesondere zu den Einzelheiten des Verfahrens für die Aufnahme von Daten in den Kataster, zur Beglaubigung von Auszügen und zum einfachen und unentgeltlichen Zugang zum Kataster.
 
@@ -1486,8 +1486,8 @@ beschliesst:[^ingress-4]
 
 <sup>4</sup> Das Amt für Geoinformation ist die für den Kataster verantwortliche Stelle.
 
-[^177a-1]: SR [510.62](https://db.clex.ch/link/Bund/510.62/de)
-[^177a-2]: SR [510.62](https://db.clex.ch/link/Bund/510.62/de)
+[^177a-1]: [SR 510.62](https://db.clex.ch/link/Bund/510.62/de)
+[^177a-2]: [SR 510.62](https://db.clex.ch/link/Bund/510.62/de)
 
 ## 9 Übergangs- und Schlussbestimmungen
 
@@ -1497,15 +1497,15 @@ beschliesst:[^ingress-4]
 
 **Strafbestimmung**
 
-<sup>1</sup> Private Sachverständige im Sinne der §§ 48 Absatz 2, 58 Absatz 2 und 71 Absatz 1 dieses Gesetzes, welche gegen die Verschwiegenheitspflicht gemäss § 71 Absatz 2 dieses Gesetzes verstossen, werden mit Busse bestraft.
+<sup>1</sup> Private Sachverständige im Sinne der §§ 48 Abs. 2, 58 Abs. 2 und 71 Abs. 1 dieses Gesetzes, welche gegen die Verschwiegenheitspflicht gemäss § 71 Abs. 2 dieses Gesetzes verstossen, werden mit Busse bestraft.
 
 #### § 179
 
 **Bisherige Fähigkeitsausweise der Notarinnen und Notare**
 
-<sup>1</sup> Die gemäss den §§ 18 Absatz 2, 19 und 133 des Gesetzes vom 30. Mai 1911[^179-1] betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB) erworbenen Fähigkeitsausweise berechtigen weiterhin zur Übernahme oder Ausübung eines Amtes als Notarin oder Notar.
+<sup>1</sup> Die gemäss den §§ 18 Abs. 2, 19 und 133 des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB) vom 30. Mai 1911[^179-1] erworbenen Fähigkeitsausweise berechtigen weiterhin zur Übernahme oder Ausübung eines Amtes als Notarin oder Notar.
 
-[^179-1]: SGS 211, GS 16.104
+[^179-1]: GS 16.104
 
 #### § 179a
 
@@ -1519,9 +1519,9 @@ beschliesst:[^ingress-4]
 
 **Bisherige Viehversicherungskassen und Zuchtgenossenschaften**
 
-<sup>1</sup> Die gemäss § 29 Buchstabe a des Gesetzes vom 30. Mai 1911[^180-1] betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB) entstandenen Viehversicherungskassen und Zuchtgenossenschaften bleiben weiterhin als dem kantonalen Recht unterstehende Genossenschaften bestehen.
+<sup>1</sup> Die gemäss § 29 Bst. a des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB) vom 30. Mai 1911[^180-1] entstandenen Viehversicherungskassen und Zuchtgenossenschaften bleiben weiterhin als dem kantonalen Recht unterstehende Genossenschaften bestehen.
 
-[^180-1]: SGS 211, GS 16.104
+[^180-1]: GS 16.104
 
 #### § 181
 
@@ -1539,35 +1539,35 @@ beschliesst:[^ingress-4]
 
 **Bisheriger Grenzabstand betreffend Waldbäume**
 
-<sup>1</sup> Der bisherige Grenzabstand von 3 m gemäss § 81 Absatz 2 des Gesetzes vom 30. Mai 1911[^183-1] betreffend die Einführung des Zivilgesetzbuches (EG ZGB) für bestehende Waldbäume an öffentlichen Plätzen in Ortschaften und in Gartenanlagen um Wohnhäuser richtet sich weiterhin nach dem bisherigen Recht.
+<sup>1</sup> Der bisherige Grenzabstand von 3 m gemäss § 81 Abs. 2 des Gesetzes betreffend die Einführung des Zivilgesetzbuches (EG ZGB) vom 30. Mai 1911[^183-1] für bestehende Waldbäume an öffentlichen Plätzen in Ortschaften und in Gartenanlagen um Wohnhäuser richtet sich weiterhin nach dem bisherigen Recht.
 
-[^183-1]: SGS 211, GS 16.104
+[^183-1]: GS 16.104
 
 #### § 184
 
 **Übergangsbestimmung betreffend bisherige Kreisgeometerbüros**
 
-<sup>1</sup> Die gemäss § 150 des Gesetzes vom 30. Mai 1911[^184-1] betreffend die Einführung des Zivilgesetzbuches (EG ZGB) bestehenden Kreisgeometerbüros sind für die Nachführung der ihnen verbleibenden amtlichen Vermessungen weiterhin bis spätestens 31. Dezember 2014 zuständig.
+<sup>1</sup> Die gemäss § 150 des Gesetzes betreffend die Einführung des Zivilgesetzbuches (EG ZGB) vom 30. Mai 1911[^184-1] bestehenden Kreisgeometerbüros sind für die Nachführung der ihnen verbleibenden amtlichen Vermessungen weiterhin bis spätestens 31. Dezember 2014 zuständig.
 
-[^184-1]: SGS 211, GS 16.104
+[^184-1]: GS 16.104
 
 #### § 184a
 
 **Einführung der Neuorganisation der Behörden im Kindes- und Erwachsenenschutzbereich gemäss Änderung vom ...**
 
-<sup>1</sup> Die Neuorganisation der Behörden im Kindes- und Erwachsenenschutzbereich wird auf den 1. Januar 2013 wirksam. Bis zu diesem Zeitpunkt regeln die Einwohnergemeinden die Einteilung der Kindes- und Erwachsenenschutzkreise und bestellen unter Mithilfe des Kantons die gemeinsamen Kindes- und Erwachsenenschutzbehörden. Bei Nichteinigung der Einwohnergemeinden regelt der Regierungsrat die Kreiseinteilung (§ 61 Absatz 2 zweiter Satz dieses Gesetzes) oder die Verhältnisse zur Bestellung der Kindes- und Erwachsenenschutzbehörden (§ 34b<sup>bis</sup> Absatz 3 Gemeindegesetz[^184a-1]).
+<sup>1</sup> Die Neuorganisation der Behörden im Kindes- und Erwachsenenschutzbereich wird auf den 1. Januar 2013 wirksam. Bis zu diesem Zeitpunkt regeln die Einwohnergemeinden die Einteilung der Kindes- und Erwachsenenschutzkreise und bestellen unter Mithilfe des Kantons die gemeinsamen Kindes- und Erwachsenenschutzbehörden. Bei Nichteinigung der Einwohnergemeinden regelt der Regierungsrat die Kreiseinteilung (§ 61 Abs. 2 2. Satz dieses Gesetzes) oder die Verhältnisse zur Bestellung der Kindes- und Erwachsenenschutzbehörden (§ 34b<sup>bis</sup> Abs. 3 Gemeindegesetz[^184a-1]).
 
 <sup>2</sup> Die Vormundschaftsbehörden haben ihre Akten über die hängigen Verfahren sowie die von ihnen geführten Kindes- und Erwachsenenschutzmassnahmen bis spätestens 31. Dezember 2012 den neu zuständigen Kindes- und Erwachsenenschutzbehörden zu übergeben.
 
-<sup>3</sup> Der Regierungsrat beschliesst den Zeitpunkt der Wirksamkeit der Bereitstellung der Berufsbeistandschaft (§ 60 Absatz 3 dieses Gesetzes).
+<sup>3</sup> Der Regierungsrat beschliesst den Zeitpunkt der Wirksamkeit der Bereitstellung der Berufsbeistandschaft (§ 60 Abs. 3 dieses Gesetzes).
 
-<sup>4</sup> Die Kindes- und Erwachsenenschutzbehörden haben im Laufe des Jahres 2012 oder, sofern die Bereitstellung der Berufsbeistandschaft nicht auf den 1. Januar 2013 wirksam wird, im Laufe des Jahres 2013 die Übernahme der von den Amtsvormundschaften des Kantons geführten Mandate per dem vom Regierungsrat bestimmten Zeitpunkt (Absatz 3) an Personen zu beschliessen, die berufsmässig Mandate führen (§ 60 Absatz 3 dieses Gesetzes). Vorbehalten bleibt die Übertragung von Mandaten der Amtsvormundschaften an Personen, die nicht berufsmässig Mandate führen und im Sinne von Artikel 400 Absatz 1 ZGB geeignet sind.
+<sup>4</sup> Die Kindes- und Erwachsenenschutzbehörden haben im Laufe des Jahres 2012 oder, sofern die Bereitstellung der Berufsbeistandschaft nicht auf den 1. Januar 2013 wirksam wird, im Laufe des Jahres 2013 die Übernahme der von den Amtsvormundschaften des Kantons geführten Mandate per dem vom Regierungsrat bestimmten Zeitpunkt (Abs. 3) an Personen zu beschliessen, die berufsmässig Mandate führen (§ 60 Abs. 3 dieses Gesetzes). Vorbehalten bleibt die Übertragung von Mandaten der Amtsvormundschaften an Personen, die nicht berufsmässig Mandate führen und im Sinne von Art. 400 Abs. 1 ZGB geeignet sind.
 
 <sup>5</sup> Die Amtsvormundschaften haben ihre Berichterstattung über die von ihnen geführten Mandate den neuen Mandatsträgerinnen und Mandatsträgern zu übergeben.
 
 <sup>6</sup> Die Amtsperiode der besonderen Vormundschaftsbehörden, die am 30. Juni 2012 enden würde, dauert bis zum 31. Dezember 2012.
 
-[^184a-1]: GS 24.293, SGS [180](https://bl.clex.ch/data/180/de)
+[^184a-1]: [SGS 180](https://bl.clex.ch/data/180/de/art34bbis)
 
 ## 9.2 Änderung bisherigen Rechts
 
@@ -1577,7 +1577,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Gesetz vom 25. September 1997[^185-1] über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons (Personalgesetz) wird wie folgt geändert: ...[^185-2]
 
-[^185-1]: GS 32.1008, SGS [150](https://bl.clex.ch/data/150/de)
+[^185-1]: [SGS 150](https://bl.clex.ch/data/150/de)
 [^185-2]: GS 36.203
 
 #### § 186
@@ -1586,7 +1586,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Verwaltungsverfahrensgesetz vom 13. Juni 1988[^186-1] wird wie folgt geändert: ...[^186-2]
 
-[^186-1]: GS 29.677, SGS [175](https://bl.clex.ch/data/175/de)
+[^186-1]: [SGS 175](https://bl.clex.ch/data/175/de)
 [^186-2]: GS 36.203
 
 #### § 187
@@ -1595,7 +1595,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Dekret vom 12. März 1998[^187-1] über das Zivilstandswesen wird wie folgt geändert: ...[^187-2]
 
-[^187-1]: GS 33.0140, SGS [211.1](https://bl.clex.ch/data/211.1/de)
+[^187-1]: [SGS 211.1](https://bl.clex.ch/data/211.1/de)
 [^187-2]: GS 36.204
 
 #### § 188
@@ -1604,7 +1604,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Gesetz betreffend die Zivilprozessordnung (ZPO) vom 21. September 1961[^188-1] wird wie folgt geändert: ...[^188-2]
 
-[^188-1]: SGS 221, GS 22.34
+[^188-1]: GS 22.34
 [^188-2]: GS 36.204
 
 #### § 189
@@ -1613,7 +1613,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Notariatsgesetz vom 28. September 1997[^189-1] wird wie folgt geändert: ...[^189-2]
 
-[^189-1]: SGS 217, GS 33.98
+[^189-1]: GS 33.98
 [^189-2]: GS 36.211
 
 #### § 190
@@ -1622,7 +1622,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Einführungsgesetz vom 19. September 1996[^190-1] zum Bundesgesetz über Schuldbetreibung und Konkurs (EG SchKG) wird wie folgt geändert: ...[^190-2]
 
-[^190-1]: GS 32.753, SGS [233](https://bl.clex.ch/data/233/de)
+[^190-1]: [SGS 233](https://bl.clex.ch/data/233/de)
 [^190-2]: GS 36.213
 
 #### § 191
@@ -1631,7 +1631,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Gesetz vom 3. Juni 1999[^191-1] betreffend die Strafprozessordnung (StPO) wird wie folgt geändert: ...[^191-2]
 
-[^191-1]: SGS 251, GS 33.825
+[^191-1]: GS 33.825
 [^191-2]: GS 36.213
 
 #### § 192
@@ -1640,7 +1640,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Gesetz vom 7. Februar 1974[^192-1] über die Staats- und Gemeindesteuern (Steuergesetz) wird wie folgt geändert: ...[^192-2]
 
-[^192-1]: GS 25.427, SGS [331](https://bl.clex.ch/data/331/de)
+[^192-1]: [SGS 331](https://bl.clex.ch/data/331/de)
 [^192-2]: GS 36.213
 
 #### § 193
@@ -1649,7 +1649,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Dekret vom 19. September 1974[^193-1] zum Steuer- und Finanzgesetz wird wie folgt geändert: ...[^193-2]
 
-[^193-1]: SGS 331.1, GS 25.541
+[^193-1]: GS 25.541
 [^193-2]: GS 36.213
 
 #### § 194
@@ -1658,7 +1658,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Raumplanungs- und Baugesetz vom 8. Januar 1998[^194-1] (RBG) wird wie folgt geändert: ...[^194-2]
 
-[^194-1]: GS 33.0289, SGS [400](https://bl.clex.ch/data/400/de)
+[^194-1]: [SGS 400](https://bl.clex.ch/data/400/de)
 [^194-2]: GS 36.214
 
 #### § 195
@@ -1667,7 +1667,7 @@ beschliesst:[^ingress-4]
 
 <sup>1</sup> Das Polizeigesetz vom 28. November 1996[^195-1] (PolG) wird wie folgt geändert: ...[^195-2]
 
-[^195-1]: GS 32.778, SGS [700](https://bl.clex.ch/data/700/de)
+[^195-1]: [SGS 700](https://bl.clex.ch/data/700/de)
 [^195-2]: GS 36.214
 
 ## 9.3 Aufhebung bisherigen Rechts und Inkrafttreten
@@ -1683,10 +1683,10 @@ beschliesst:[^ingress-4]
 - c. die Verordnung vom 9. Dezember 2002[^196-3] betreffend Adoption und Pflegekinderwesen,
 - d. das Dekret vom 11. November 1991[^196-4] über das Zivilstandswesen.
 
-[^196-1]: GS 16.104, SGS 211
-[^196-2]: GS 26.752, SGS 217.1
-[^196-3]: GS 34.719, SGS 853.21
-[^196-4]: GS 30.750, SGS 211.1
+[^196-1]: GS 16.104
+[^196-2]: GS 26.752
+[^196-3]: GS 34.719
+[^196-4]: GS 30.750
 
 #### § 197
 
