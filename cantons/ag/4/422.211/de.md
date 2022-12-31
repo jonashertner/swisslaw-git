@@ -4,13 +4,13 @@ number: "422.211"
 title: Verordnung über die Berufs- und Weiterbildung
 short: VBW
 language: de
-version: 2020-08-01
-valid_until: 2022-12-31
-version_adopted: 2020-03-18
+version: 2023-01-01
+valid_until: 2024-06-30
+version_adopted: 2022-09-21
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2888/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3248/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2888/pdf_file"
 
 (VBW)
 
-Vom 07.11.2007 (Stand 01.08.2020)
+Vom 07.11.2007 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -465,7 +465,7 @@ beschliesst:
 
 **Plagiate**
 
-<sup>1</sup> Die Schulleitung kann Abschlussarbeiten auf korrekte und vollständige Angabe der Quellen überprüfen. Die anonymisierten Abschlussarbeiten können dazu vervielfältigt, in einer geschlossenen Datenbank gespeichert und einer andern Schulleitung zum direkten Vergleich mit einer Arbeit ihrer Lernenden herausgegeben werden.
+<sup>1</sup> Die Schulleitung kann Abschlussarbeiten auf korrekte und vollständige Angabe der Quellen überprüfen. Die anonymisierten Abschlussarbeiten können dazu vervielfältigt, in einer geschlossenen Datenbank gespeichert und einer anderen Schulleitung zum direkten Vergleich mit einer Arbeit ihrer Lernenden herausgegeben werden.
 
 #### § 38
 
@@ -895,14 +895,56 @@ beschliesst:
 
 **Kantonale Förderung**
 
-<sup>1</sup> Der Kanton fördert Weiterbildungsangebote sowie diesbezügliche Innovationen und Projekte, wenn sie kumulativ
+<sup>1</sup> Der Kanton fördert mit Beiträgen oder Bildungsgutscheinen Weiterbildungsangebote sowie diesbezügliche Innovationen und Projekte, wenn sie kumulativ
 
 - a) der Integration in die Gesellschaft, in die Arbeitswelt oder dem Erhalt der Arbeitsmarktfähigkeit dienen, und
 - b) von längerfristigem Nutzen sind und nachhaltige Wirkung entfalten.
 
-<sup>2</sup> Das Gesuch an die Abteilung Berufsbildung und Mittelschule soll Zweck, Lernziele, Inhalt, Methoden und Organisation darstellen, die Anwendung eines Qualitätssicherungssystems nachweisen und einen Vorschlag über die Ausgaben und die Kostendeckung enthalten.
+<sup>2</sup> Namentlich fördert der Kanton Angebote zum Erwerb und den Erhalt von Grundkompetenzen Erwachsener gemäss dem Bundesgesetz über die Weiterbildung (WeBiG) vom 20. Juni 2014[^80-1].
 
-<sup>3</sup> Die Abteilung Berufsbildung und Mittelschule entscheidet über die Ausrichtung von Beiträgen.
+<sup>3</sup> …
+
+[^80-1]: SR [419.1](https://db.clex.ch/link/Bund/419.1/de)
+
+#### § 80a
+
+**Beiträge**
+
+<sup>1</sup> Beitragsgesuche sind an die Abteilung Berufsbildung und Mittelschule zu richten und sollen Zweck, Lernziele, Inhalt, Methoden und Organisation darstellen, die Anwendung eines Qualitätssicherungssystems nachweisen und einen Vorschlag über die Ausgaben und die Kostendeckung enthalten.
+
+<sup>2</sup> Die Abteilung Berufsbildung und Mittelschule entscheidet über die Ausrichtung von Beiträgen.
+
+#### § 80b
+
+**Bildungsgutscheine**
+
+<sup>1</sup> Teilnehmende an Kursen zum Erwerb und den Erhalt von Grundkompetenzen Erwachsener können bei akkreditierten Bildungsanbietenden Bildungsgutscheine einlösen, wenn sie
+
+- a) zwischen 18 und 65 Jahre alt sind,
+- b) zivilrechtlichen Wohnsitz im Kanton Aargau haben,
+- c) in Deutsch mindestens das Sprachniveau A2 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER) aufweisen,
+- d) nicht gleichzeitig eine Ausbildung auf der Sekundarstufe II absolvieren,
+- e) einen von der Abteilung Berufsbildung und Mittelschule bewilligten Grundkompetenzkurs gemäss § 80 Abs. 2 besuchen, und
+- f) mindestens 60 % des Grundkompetenzkurses besucht haben.
+
+<sup>2</sup> Pro Kalenderjahr kann ein Bildungsgutschein eingelöst werden. Nach Abschluss eines Grundkompetenzkurses kann ein zweiter Bildungsgutschein im gleichen Kalenderjahr eingelöst werden.
+
+<sup>3</sup> Die Abteilung Berufsbildung und Mittelschule kann Dritte mittels Leistungsvertrag mit der Konzeption und Umsetzung des Bildungsgutscheinsystems betrauen.
+
+#### § 80c
+
+**Akkreditierung von Bildungsanbietenden**
+
+<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule akkreditiert Bildungsanbietende, wenn sie
+
+- a) im Kanton Aargau Grundkompetenzkurse gemäss § 80 Abs. 2 anbieten und Bildungsgutscheine gemäss § 80b entgegennehmen möchten,
+- b) ihr Kursangebot politisch und konfessionell neutral durchführen,
+- c) die Anwendung eines Qualitätssicherungssystems nachweisen,
+- d) Kursleitende mit einer adäquaten Ausbildung und Unterrichtserfahrung in der Erwachsenenbildung einsetzen,
+- e) über geeignete Räumlichkeiten verfügen, die mit öffentlichen Verkehrsmitteln gut erreichbar sind, und
+- f) bereit sind, insbesondere für die Kursadministration und die Berichterstattung mit Dritten gemäss § 80b Abs. 3 zusammen zu arbeiten.
+
+<sup>2</sup> Die Gesuchsunterlagen zur Akkreditierung richten sich nach den Vorgaben der Abteilung Berufsbildung und Mittelschule.
 
 ### 4.6. Weitere Aufgaben
 
@@ -925,6 +967,8 @@ beschliesst:
 <sup>1</sup> Diese Verordnung ist in der Gesetzessammlung zu publizieren. Sie tritt mit Ausnahme von § 18 Abs. 2 am 1. Januar 2008 in Kraft.
 
 <sup>2</sup> § 18 Abs. 2 tritt am 1. August 2010 in Kraft. Bis dahin gilt das bisherige Recht.
+
+<sup>3</sup> Die §§ 80b und 80c sind befristet bis 31. Dezember 2024.
 
 Aarau, 7. November 2007
 
