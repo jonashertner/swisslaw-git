@@ -3,20 +3,20 @@ canton: BE
 number: "732.181"
 title: Verordnung über den Vollzug des Bundesgesetzes über die Nationalstrassen im Kanton Bern vom 8. März 1960
 language: de
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-02
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2022-10-19
 adopted: 1961-03-03
 in_force: 1961-04-08
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/732.181"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2548/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2699/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug des Bundesgesetzes über die Nationalstrassen im Kanton Bern vom 8. März 1960
 
-vom 03.03.1961 (Stand 01.03.2022)
+vom 03.03.1961 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -74,13 +74,13 @@ beschliesst:
 
 **Projektierungszonen: 1 Errichtung**
 
-<sup>1</sup> Nach erfolgter Festsetzung oder Aufhebung der Projektierungszonen durch das Eidgenössische Departement des Innern veröffentlicht die Bau- und Verkehrsdirektion den Beschluss im Amtsblatt und im amtlichen Anzeiger.
+<sup>1</sup> Nach erfolgter Festsetzung oder Aufhebung der Projektierungszonen durch das Eidgenössische Departement des Innern veröffentlicht die Bau- und Verkehrsdirektion den Beschluss im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde.
 
 <sup>2</sup> Gegen diese Verfügung kann beim Bundesrat Beschwerde gemäss Artikel 124 ff. des Bundesgesetzes vom 16. Dezember 1943 über die Organisation der Bundesrechtspflege[^6-1] geführt werden.
 
 <sup>3</sup> Die Projektierungszonen werden mit ihrer Publikation im Amtsblatt voll rechtswirksam. Die bereinigten Zonenpläne sind bei den Gemeindeverwaltungen zur Einsicht offenzuhalten. Mit der rechtskräftigen Festlegung der Baulinien, spätestens aber mit dem Ablauf von fünf Jahren fallen die Projektierungszonen dahin (Art. 14 und 17 BG).
 
-<sup>4</sup> Vor Abgabe der Vernehmlassung des Regierungsrates (Art. 14 BG) kann die Bau- und Verkehrsdirektion die Projektierungszonenpläne bei den zuständigen Gemeindeverwaltungen während zehn Tagen öffentlich auflegen, innerhalb welcher dort schriftliche und gestempelte Stellungnahmen eingereicht werden können. Die Bekanntgabe der Auflage hat im Amtsblatt und im amtlichen Anzeiger stattzufinden unter genauer Bezeichnung der Eingabefrist. Artikel 36 des Gesetzes über die Bauvorschriften[^6-2] ist sinngemäss anwendbar.
+<sup>4</sup> Vor Abgabe der Vernehmlassung des Regierungsrates (Art. 14 BG) kann die Bau- und Verkehrsdirektion die Projektierungszonenpläne bei den zuständigen Gemeindeverwaltungen während zehn Tagen öffentlich auflegen, innerhalb welcher dort schriftliche und gestempelte Stellungnahmen eingereicht werden können. Die Bekanntgabe der Auflage hat im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde stattzufinden unter genauer Bezeichnung der Eingabefrist. Artikel 36 des Gesetzes über die Bauvorschriften[^6-2] ist sinngemäss anwendbar.
 
 <sup>5</sup> Innert zehn Tagen nach Ablauf der Auflagefrist schickt der Gemeinderat die Pläne, versehen mit dem Auflagezeugnis, und die eingegangenen Stellungnahmen mit seinem Bericht und Antrag an die Bau- und Verkehrsdirektion, die gestützt darauf dem Regierungsrat für die Vernehmlassung zuhanden der Bundesbehörden Antrag stellt.
 
@@ -108,7 +108,7 @@ beschliesst:
 
 **Die Ausführungsprojekte**
 
-<sup>1</sup> Die Ausführungsprojekte mit Baulinien, die sich auf die Vermessungswerke stützen müssen, sind in den Gemeinden während 30 Tagen öffentlich aufzulegen. Die Bekanntgabe erfolgt im Amtsblatt und im amtlichen Anzeiger unter genauer Angabe der Auflagefrist. In der Bekanntmachung ist anzugeben, dass während der Auflagefrist schriftlich und mit Begründung Einsprachen gegen das Ausführungsprojekt oder die darin enthaltenen Baulinien erhoben werden können (Art. 27 Abs. 1 BG).
+<sup>1</sup> Die Ausführungsprojekte mit Baulinien, die sich auf die Vermessungswerke stützen müssen, sind in den Gemeinden während 30 Tagen öffentlich aufzulegen. Die Bekanntgabe erfolgt im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde unter genauer Angabe der Auflagefrist. In der Bekanntmachung ist anzugeben, dass während der Auflagefrist schriftlich und mit Begründung Einsprachen gegen das Ausführungsprojekt oder die darin enthaltenen Baulinien erhoben werden können (Art. 27 Abs. 1 BG).
 
 <sup>2</sup> Die durch den Strassenbau bedingten Veränderungen im Gelände sind vor der Planauflage durch Aussteckungen kenntlich zu machen (Art. 26 BG).
 
@@ -120,7 +120,7 @@ beschliesst:
 
 <sup>6</sup> Wesentliche Ergänzungen oder Abänderungen der Ausführungsprojekte sind zur Durchführung eines neuen Einspracheverfahrens aufzulegen. Berührt die Planbereinigung verhältnismässig wenig Einspracheberechtigte, ist sie den Betroffenen unter Einräumung einer Einsprachefrist von 30 Tagen zur Kenntnis zu bringen (Art. 28 Abs. 2 BG).
 
-<sup>7</sup> Die Bau- und Verkehrsdirektion macht die genehmigten Baulinien in den Gemeinden durch Veröffentlichung im Amtsblatt und im amtlichen Anzeiger bekannt. Vorbehalten bleibt Artikel 5. Die Baulinien werden mit ihrer Publikation im Amtsblatt rechtswirksam. Die Pläne sind auf den Gemeindeverwaltungen zur Einsicht offenzuhalten.
+<sup>7</sup> Die Bau- und Verkehrsdirektion macht die genehmigten Baulinien in den Gemeinden durch Veröffentlichung im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde bekannt. Vorbehalten bleibt Artikel 5. Die Baulinien werden mit ihrer Publikation im Amtsblatt rechtswirksam. Die Pläne sind auf den Gemeindeverwaltungen zur Einsicht offenzuhalten.
 
 #### Art. 9
 
