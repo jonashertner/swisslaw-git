@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'armonizzazione delle imposte di
 short: LAID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20220101/it"
 
 (LAID)
 
-del 14 dicembre 1990 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 14 dicembre 1990 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -232,8 +232,8 @@ Sono esenti dall’imposta soltanto:
 
 È considerato reddito imponibile della sostanza ai sensi dell’articolo 7 capoverso 1 anche:
 
-- [tab] a. il ricavo della vendita di una partecipazione del 20 per cento almeno al capitale azionario o sociale di una società di capitali o di una società cooperativa, con trasferimento dal patrimonio privato al patrimonio commerciale di un’altra persona fisica o di una persona giuridica, sempre che nei cinque anni dopo la vendita venga distribuita, con la collaborazione del venditore[^7a-2], sostanza non necessaria all’esercizio aziendale che esisteva già al momento della vendita e che già allora avrebbe potuto essere distribuita secondo il diritto commerciale; ciò vale per analogia anche quando, nell’arco di cinque anni, più partecipanti vendono in comune una tale partecipazione o vengono vendute partecipazioni per un totale di almeno il 20 per cento; la sostanza distribuita è se del caso tassata presso il venditore in procedura di recupero d’imposta secondo l’articolo 53;
-- [tab] b.[^7a-3] il ricavo del trasferimento di una partecipazione al capitale azionario o sociale di una società di capitali o di una società cooperativa, dal patrimonio privato a quello commerciale di un’impresa di persone o di una persona giuridica in cui, dopo il trasferimento, il venditore o il conferente partecipa in ragione almeno del 50 per cento al capitale, per quanto il totale della controprestazione ricevuta superi la somma del valore nominale della partecipazione trasferita e delle riserve da apporti di capitale di cui all’articolo 7*b*; questa regola si applica per analogia anche nel caso in cui diversi partecipanti attuino il trasferimento in comune.
+- a. il ricavo della vendita di una partecipazione del 20 per cento almeno al capitale azionario o sociale di una società di capitali o di una società cooperativa, con trasferimento dal patrimonio privato al patrimonio commerciale di un’altra persona fisica o di una persona giuridica, sempre che nei cinque anni dopo la vendita venga distribuita, con la collaborazione del venditore[^7a-2], sostanza non necessaria all’esercizio aziendale che esisteva già al momento della vendita e che già allora avrebbe potuto essere distribuita secondo il diritto commerciale; ciò vale per analogia anche quando, nell’arco di cinque anni, più partecipanti vendono in comune una tale partecipazione o vengono vendute partecipazioni per un totale di almeno il 20 per cento; la sostanza distribuita è se del caso tassata presso il venditore in procedura di recupero d’imposta secondo l’articolo 53;
+- b.[^7a-3] il ricavo del trasferimento di una partecipazione al capitale azionario o sociale di una società di capitali o di una società cooperativa, dal patrimonio privato a quello commerciale di un’impresa di persone o di una persona giuridica in cui, dopo il trasferimento, il venditore o il conferente partecipa in ragione almeno del 50 per cento al capitale, per quanto il totale della controprestazione ricevuta superi la somma del valore nominale della partecipazione trasferita e delle riserve da apporti di capitale di cui all’articolo 7*b*; questa regola si applica per analogia anche nel caso in cui diversi partecipanti attuino il trasferimento in comune.
 
 <sup>2</sup> Vi è collaborazione ai sensi del capoverso 1 lettera a quando il venditore sa o è tenuto a sapere che per finanziare il prezzo d’acquisto dalla società vengono prelevati mezzi a fondo perso.
 
@@ -253,15 +253,19 @@ Sono esenti dall’imposta soltanto:
 
 Il capoverso 2 non si applica alle riserve da apporti di capitale:
 
-- [tab] a. costituite, dopo il 24 febbraio 2008, mediante il conferimento di diritti di partecipazione o societari a una società di capitali o società cooperativa estera nell’ambito di concentrazioni aventi carattere di fusione ai sensi dell’articolo 24 capoverso 3 lettera c o mediante un trasferimento transfrontaliero a una filiale svizzera ai sensi dell’articolo 24 capoverso 3 lettera d;
-- [tab] b. già esistenti in una società di capitali o società cooperativa estera, dopo il 24 febbraio 2008, al momento di una fusione o ristrutturazione transfrontaliera ai sensi dell’articolo 24 capoversi 3 lettera b e 3<sup>quater</sup> o del trasferimento della sede o dell’amministrazione effettiva;
-- [tab] c. in caso di liquidazione della società di capitali o società cooperativa.
+- a. costituite, dopo il 24 febbraio 2008, mediante il conferimento di diritti di partecipazione o societari a una società di capitali o società cooperativa estera nell’ambito di concentrazioni aventi carattere di fusione ai sensi dell’articolo 24 capoverso 3 lettera c o mediante un trasferimento transfrontaliero a una filiale svizzera ai sensi dell’articolo 24 capoverso 3 lettera d;
+- b. già esistenti in una società di capitali o società cooperativa estera, dopo il 24 febbraio 2008, al momento di una fusione o ristrutturazione transfrontaliera ai sensi dell’articolo 24 capoversi 3 lettera b e 3<sup>quater</sup> o del trasferimento della sede o dell’amministrazione effettiva;
+- c. in caso di liquidazione della società di capitali o società cooperativa.
 
 <sup>4</sup> I capoversi 2 e 3 si applicano per analogia anche alle riserve da apporti di capitale utilizzate per l’emissione di azioni gratuite o gli aumenti gratuiti del valore nominale.
 
 <sup>5</sup> Se, in occasione della vendita di diritti di partecipazione a una società di capitali o società cooperativa che è quotata in una borsa svizzera e li ha emessi, il rimborso delle riserve da apporti di capitale non corrisponde almeno alla metà dell’eccedenza di liquidazione ottenuta, la parte imponibile di questa eccedenza di liquidazione è ridotta della metà della differenza tra la parte stessa e il rimborso, ma al massimo di un importo pari a quello delle riserve da apporti di capitale disponibili nella società e imputabili a tali diritti di partecipazione.
 
+<sup>6</sup> Il capoverso 1 si applica agli apporti e all’aggio forniti durante la validità di un margine di variazione del capitale secondo gli articoli 653*s* e seguenti del Codice delle obbligazioni (CO)[^7b-2] per quanto eccedano le riserve rimborsate nell’ambito del suddetto margine di variazione del capitale.[^7b-3]
+
 [^7b-1]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7b-3]: Introdotto dall’all. n. 8 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [112](https://fedlex.data.admin.ch/eli/oc/2022/112); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 7c
 
@@ -271,8 +275,8 @@ Il capoverso 2 non si applica alle riserve da apporti di capitale:
 
 Sono considerate partecipazioni vere e proprie di collaboratore:
 
-- [tab] a. le azioni, i buoni di godimento, i certificati di partecipazione, le quote di società cooperative o partecipazioni di altro genere che il datore di lavoro, la sua società madre o un’altra società del gruppo distribuisce ai collaboratori;
-- [tab] b. le opzioni per l’acquisto di partecipazioni di cui alla lettera a.
+- a. le azioni, i buoni di godimento, i certificati di partecipazione, le quote di società cooperative o partecipazioni di altro genere che il datore di lavoro, la sua società madre o un’altra società del gruppo distribuisce ai collaboratori;
+- b. le opzioni per l’acquisto di partecipazioni di cui alla lettera a.
 
 <sup>2</sup> Sono considerate partecipazioni improprie di collaboratore le aspettative di meri indennizzi in contanti.
 
@@ -1002,12 +1006,7 @@ Gli utili delle persone giuridiche che perseguono scopi ideali non sono imponibi
 
 <sup>1ter</sup> Il ricavo dell’alienazione è considerato nel calcolo della riduzione solo in quanto superi i costi d’investimento. Le rettifiche di valore e gli ammortamenti sul costo d’investimento di partecipazioni del 10 per cento almeno sono computati negli utili imponibili per quanto non siano più giustificati.[^28-4]
 
-<sup>1quater</sup>
-
-Riguardo alle società madri delle banche di rilevanza sistemica di cui all’articolo 7 capoverso 1 della legge dell’8 novembre 1934[^28-5] sulle banche (LBCR), per il calcolo del ricavo netto di cui al capoverso 1 non sono considerati né i costi di finanziamento né i crediti iscritti a bilancio derivanti dal trasferimento interno al gruppo di risorse, relativi ai prestiti seguenti:
-
-- a. prestiti obbligatoriamente convertibili e prestiti con rinuncia al credito di cui all’articolo 11 capoverso 4 LBCR; e
-- b. strumenti di debito a copertura delle perdite in caso di misure per insolvenza ai sensi degli articoli 28–32 LBCR.[^28-6]
+<sup>1quater</sup> Riguardo alle società madri delle banche di rilevanza sistemica di cui all’articolo 7 capoverso 1 della legge dell’8 novembre 1934[^28-5] sulle banche (LBCR), per il calcolo del ricavo netto di cui al capoverso 1 non sono considerati né i costi di finanziamento né i crediti iscritti a bilancio derivanti dal trasferimento interno al gruppo di risorse, relativi agli strumenti di capitale di terzi secondo l’articolo 11 capoverso 4 o 30*b* capoverso 6 o 7 lettera b LBCR approvati dall’Autorità federale di vigilanza sui mercati finanziari ai fini dell’adempimento di esigenze prudenziali.[^28-6]
 
 <sup>2</sup> a <sup>5</sup> ...[^28-7]
 
@@ -1018,7 +1017,7 @@ Riguardo alle società madri delle banche di rilevanza sistemica di cui all’ar
 [^28-3]: Introdotto dal n. I 2 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)). Nuovo testo giusta il n. 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^28-4]: Introdotto dal n. II 3 della L del 23 mar. 2007 sulla riforma II dell’imposizione delle imprese, in vigore dal 1° gen. 2009 ([RU 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4241](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^28-5]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^28-6]: Introdotto dal n. I 2 della LF del 14 dic. 2018 sul calcolo della deduzione per partecipa-zioni in caso di banche di rilevanza sistemica, in vigore dal 1° gen. 2019 ([RU 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1013](https://fedlex.data.admin.ch/eli/fga/2018/511)).
+[^28-6]: Introdotto dal n. I 2 della LF del 14 dic. 2018 sul calcolo della deduzione per partecipa-zioni in caso di banche di rilevanza sistemica ([RU 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1013](https://fedlex.data.admin.ch/eli/fga/2018/511)). Nuovo testo giusta l’all. n. 6 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^28-7]: Abrogati dal n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, con effetto dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Capitolo 3: Imposta sul capitale
@@ -1071,7 +1070,14 @@ Il capitale proprio imponibile delle società di capitali e delle società coope
 
 <sup>3</sup> L’utile netto imponibile si determina in base al risultato del periodo fiscale.
 
+<sup>3bis</sup> Se la chiusura dei conti è redatta in una moneta estera, l’utile netto imponibile va convertito in franchi. È determinante il corso medio delle divise (vendita) durante il periodo fiscale.[^31-1]
+
 <sup>4</sup> Il capitale proprio imponibile si determina in base al suo stato alla fine del periodo fiscale.
+
+<sup>5</sup> Se la chiusura dei conti è redatta in una moneta estera, il capitale proprio imponibile va convertito in franchi. È determinante il corso delle divise (vendita) alla fine del periodo fiscale.[^31-2]
+
+[^31-1]: Introdotto dall’all. n. 8 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^31-2]: Introdotto dall’all. n. 8 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ## Titolo quarto: Imposizione alla fonte delle persone fisiche e delle persone giuridiche
 
@@ -1158,7 +1164,7 @@ Le persone assoggettate all’imposta alla fonte conformemente all’articolo 32
 
 [^34-1]: Abrogato dal n. I 2 della LF del 16 dic. 2016 sulla revisione dell’imposizione alla fonte del reddito da attività lucrativa, con effetto dal 1° gen. 2021 ([RU 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 603](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### Capitolo 2: Persone fisiche senza domicilio o dimora fiscale in Svizzera e persone giuridiche senza sede o amministrazione effettiva in Svizzera****
+### Capitolo 2: Persone fisiche senza domicilio o dimora fiscale in Svizzera e persone giuridiche senza sede o amministrazione effettiva in Svizzera
 
 [^tit4-chap2-1]
 
@@ -1272,7 +1278,7 @@ Il debitore delle prestazioni imponibili (art. 32 e 35) è responsabile per il p
 [^37-2]: Nuovo testo giusta il n. I 2 della LF del 16 dic. 2016 sulla revisione dell’imposizione alla fonte del reddito da attività lucrativa, in vigore dal 1° gen. 2021 ([RU 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 603](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 [^37-3]: Nuovo testo giusta il n. I 2 della LF del 16 dic. 2016 sulla revisione dell’imposizione alla fonte del reddito da attività lucrativa, in vigore dal 1° gen. 2021 ([RU 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 603](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### Capitolo 4:**** Competenza territoriale e relazioni intercantonali
+### Capitolo 4: Competenza territoriale e relazioni intercantonali
 
 [^tit4-chap4-1]
 
@@ -1380,13 +1386,14 @@ Devono essere trasmessi tutti i dati dei contribuenti che possono servire alla t
 Le persone fisiche con reddito da attività lucrativa indipendente e le persone giuridiche devono allegare alla dichiarazione:
 
 - a. i conti annuali firmati (bilanci, conti profitti e perdite) del periodo fiscale; o
-- b. in caso di tenuta di una contabilità semplificata secondo l’articolo 957 capoverso 2 del Codice delle obbligazioni (CO)[^42-1], le distinte relative alle entrate e alle uscite, alla situazione patrimoniale e ai prelevamenti e apporti privati del periodo fiscale.[^42-2]
+- b.[^42-1] in caso di tenuta di una contabilità semplificata secondo l’articolo 957 capoverso 2 CO[^42-2], le distinte relative alle entrate e alle uscite, alla situazione patrimoniale e ai prelevamenti e apporti privati del periodo fiscale.[^42-3]
 
-<sup>4</sup> Le modalità secondo cui devono essere tenuti e conservati i documenti di cui al capoverso 3 sono disciplinate dagli articoli 957–958*f* CO.[^42-3]
+<sup>4</sup> Le modalità secondo cui devono essere tenuti e conservati i documenti di cui al capoverso 3 sono disciplinate dagli articoli 957–958*f* CO.[^42-4]
 
-[^42-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^42-2]: Nuovo testo giusta il n. I 3 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3);[FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^42-3]: Introdotto dal n. I 3 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3);[FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-1]: Nuovo testo giusta l’all. n. 8 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^42-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^42-3]: Nuovo testo giusta il n. I 3 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3);[FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-4]: Introdotto dal n. I 3 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3);[FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 
 #### Art. 43
 
@@ -1558,7 +1565,7 @@ Ogni erede ha diritto, indipendentemente dagli altri eredi, al ricupero semplifi
 
 <sup>3</sup> I fatti rilevanti per la tassazione sono accertati e annotati nell’inventario.
 
-## Titolo sesto: Disposizioni penali****
+## Titolo sesto: Disposizioni penali
 
 [^tit6-1]
 

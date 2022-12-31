@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts dire
 short: LHID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20220101/fr"
 
 (LHID)
 
-du 14 décembre 1990 (Etat le 1<sup>er</sup> janvier 2022)
+du 14 décembre 1990 (Etat le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -261,7 +261,11 @@ L’al. 2 ne s’applique pas aux réserves issues d’apports de capital:
 
 <sup>5</sup> Si, lors de la vente de droits de participation à une société de capitaux ou une société coopérative qui est cotée dans une bourse suisse et qui les a émis, le remboursement des réserves issues d’apports de capital ne correspond pas au moins à la moitié de l’excédent de liquidation obtenu, la part de cet excédent de liquidation imposable est réduite d’un montant correspondant à la moitié de la différence entre cette part et le remboursement, mais au plus du montant des réserves qui sont imputables à ces droits de participation et qui sont disponibles dans la société.
 
+<sup>6</sup> L’al. 1 ne s’applique aux apports et aux agios qui sont versés pendant la durée d’une marge de fluctuation du capital au sens des art. 653*s* ss du code des obligations (CO)[^7b-2] que dans la mesure où ils dépassent les remboursements de réserves dans le cadre de ladite marge de fluctuation du capital.[^7b-3]
+
 [^7b-1]: Introduit par le ch. II 3 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7b-3]: Introduit par l’annexe ch. 8 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [112](https://fedlex.data.admin.ch/eli/oc/2022/112); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 7c
 
@@ -1000,12 +1004,7 @@ Sont exonérés de l’impôt les bénéfices des personnes morales qui poursuiv
 
 <sup>1ter</sup> Le produit de l’aliénation n’entre en compte pour la réduction que dans la mesure où il est supérieur au coût d’investissement. Les corrections de valeur et les amortissements effectués sur le coût d’investissement des participations de 10 % au moins sont ajoutés au bénéfice imposable dans la mesure où ils ne sont plus justifiés.[^28-4]
 
-<sup>1quater</sup>
-
-En ce qui concerne les sociétés mères de banques d’importance systémique au sens de l’art. 7, al. 1, de la loi du 8 novembre 1934 sur les banques (LB)[^28-5], ne sont pas pris en compte pour le calcul du rendement net au sens de l’al. 1 les frais de financement relatifs aux emprunts suivants et la créance inscrite au bilan à la suite du transfert au sein du groupe des fonds provenant des emprunts suivants:
-
-- a. emprunts à conversion obligatoire et emprunts assortis d’un abandon de créances visés à l’art. 11, al. 4, LB, et
-- b. instruments de dette destinés à absorber les pertes en présence de mesures en cas d’insolvabilité au sens des art. 28 à 32 LB.[^28-6]
+<sup>1quater</sup> En ce qui concerne les sociétés mères de banques d’importance systémique au sens de l’art. 7, al. 1, de la loi du 8 novembre 1934 sur les banques (LB)[^28-5], ne sont pas pris en compte pour le calcul du rendement net au sens de l’al. 1 les frais de financement et la créance inscrite au bilan à la suite du transfert au sein du groupe des fonds provenant des instruments d’emprunt visés aux art. 11, al. 4, ou 30*b*, al. 6 ou 7, let. b, LB et approuvés par l’Autorité fédérale de surveillance des marchés financiers pour répondre aux exigences réglementaires.[^28-6]
 
 <sup>2</sup> à <sup>5</sup> …[^28-7]
 
@@ -1016,7 +1015,7 @@ En ce qui concerne les sociétés mères de banques d’importance systémique a
 [^28-3]: Introduit par le ch. I 2 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)). Nouvelle teneur selon le ch. II 3 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^28-4]: Introduit par le ch. II 3 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^28-5]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^28-6]: Introduit par le ch. I 2 de la LF du 14 déc. 2018 sur le calcul de la réduction pour participation pour les banques d’importance systémique, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1215](https://fedlex.data.admin.ch/eli/fga/2018/511)).
+[^28-6]: Introduit par le ch. I 2 de la LF du 14 déc. 2018 sur le calcul de la réduction pour participation pour les banques d’importance systémique ([RO 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1215](https://fedlex.data.admin.ch/eli/fga/2018/511)). Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^28-7]: Abrogés par le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Chapitre 3 Impôt sur le capital
@@ -1069,7 +1068,14 @@ Le capital propre imposable des sociétés de capitaux et des sociétés coopér
 
 <sup>3</sup> Le bénéfice net imposable est fixé sur la base du résultat de la période fiscale.
 
+<sup>3bis</sup> Si les comptes annuels sont établis dans une monnaie étrangère, le bénéfice net imposable doit être converti en francs. Le taux de change moyen (vente) de la période fiscale est déterminant.[^31-1]
+
 <sup>4</sup> Le capital propre imposable est fixé sur la base de son état à la fin de la période fiscale.
+
+<sup>5</sup> Si les comptes annuels sont établis dans une monnaie étrangère, le capital propre imposable doit être converti en francs suisses. Le taux de change (vente) à la fin de la période fiscale est déterminant.[^31-2]
+
+[^31-1]: Introduit par l’annexe ch. 8 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^31-2]: Introduit par l’annexe ch. 8 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ## Titre 4 Imposition à la source des personnes physiques et morales
 
@@ -1156,7 +1162,7 @@ Les personnes imposées à la source en vertu de l’art. 32, al. 1, sont soumis
 
 [^34-1]: Abrogé par le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### Chapitre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse****
+### Chapitre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse
 
 [^tit4-chap2-1]
 
@@ -1270,7 +1276,7 @@ Le débiteur des prestations imposables (art. 32 et 35) est responsable du paiem
 [^37-2]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 [^37-3]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### Chapitre 4**** Compétence territoriale et relations intercantonales
+### Chapitre 4 Compétence territoriale et relations intercantonales
 
 [^tit4-chap4-1]
 
@@ -1378,13 +1384,14 @@ Est obligatoire la communication de toutes les données qui peuvent servir à la
 Les personnes physiques dont le revenu provient d’une activité lucrative indépendante et les personnes morales doivent joindre à leur déclaration:
 
 - a. les comptes annuels signés (bilan, compte de résultats) concernant la période fiscale, ou
-- b. en cas de tenue d’une comptabilité simplifiée en vertu de l’art. 957, al. 2, du code des obligations (CO)[^42-1]: un relevé des recettes et des dépenses, de l’état de la fortune ainsi que des prélèvements et apports privés concernant la période fiscale.[^42-2]
+- b.[^42-1] en cas de tenue d’une comptabilité simplifiée en vertu de l’art. 957, al. 2, CO[^42-2]: un relevé des recettes et des dépenses, de l’état de la fortune ainsi que des prélèvements et apports privés concernant la période fiscale.[^42-3]
 
-<sup>4</sup> Le mode de tenue et de conservation des documents visés à l’al. 3 est régi par les art. 957 à 958*f* CO.[^42-3]
+<sup>4</sup> Le mode de tenue et de conservation des documents visés à l’al. 3 est régi par les art. 957 à 958*f* CO.[^42-4]
 
-[^42-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^42-2]: Nouvelle teneur selon le ch. I 3 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^42-3]: Introduit par le ch. I 3 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^42-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^42-3]: Nouvelle teneur selon le ch. I 3 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-4]: Introduit par le ch. I 3 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 
 #### Art. 43
 
@@ -1554,7 +1561,7 @@ Chacun des héritiers a droit, indépendamment des autres, au rappel d’impôt 
 
 <sup>3</sup> Les faits revêtant de l’importance pour la taxation sont établis et mentionnés dans l’inventaire.
 
-## Titre 6 Dispositions pénales****
+## Titre 6 Dispositions pénales
 
 [^tit6-1]
 

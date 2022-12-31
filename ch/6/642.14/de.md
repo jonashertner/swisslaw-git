@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 14. Dezember 1990 über die Harmonisierung der direkten
 short: StHG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Harmonisierung der direkten Steuern der Kantone und Gemeinden
 
-(Steuerharmonisierungsgesetz, StHG)**[^t-1]**
+(Steuerharmonisierungsgesetz, StHG)[^t-1]
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2022)
+vom 14. Dezember 1990 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
@@ -263,7 +263,11 @@ Absatz 2 ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
 
 <sup>5</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>6</sup> Absatz 1 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653*s* ff. des Obligationenrechts (OR)[^7b-2] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.[^7b-3]
+
 [^7b-1]: Eingefügt durch Ziff. II 3 des Unternehmenssteuerreformgesetzes II vom 23. März 2007 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)). Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^7b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7b-3]: Eingefügt durch Anhang Ziff. 8 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [112](https://fedlex.data.admin.ch/eli/oc/2022/112); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 7c
 
@@ -873,11 +877,12 @@ Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
 - c. Bussen;
 - d. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.[^25-5]
 
-<sup>1ter</sup> Sind Sanktionen nach Absatz 1<sup>bis</sup> Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+<sup>1ter</sup>
 
-a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+Sind Sanktionen nach Absatz 1<sup>bis</sup> Buchstaben c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
 
-b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.[^25-6]
+- a. die Sanktion gegen den schweizerischen Ordre public verstösst; oder
+- b. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.[^25-6]
 
 <sup>2</sup> Vom Reingewinn der Steuerperiode werden die Verluste aus den sieben der Steuerperiode (Art. 31 Abs. 2) vorangegangenen Geschäftsjahren abgezogen, soweit sie bei der Berechnung des steuerbaren Reingewinns dieser Jahre nicht berücksichtigt werden konnten.[^25-7]
 
@@ -1000,12 +1005,7 @@ Gewinne von juristischen Personen mit ideellen Zwecken werden nicht besteuert, s
 
 <sup>1ter</sup> Bei der Berechnung der Ermässigung wird der Veräusserungserlös nur so weit berücksichtigt, als er die Gestehungskosten übersteigt. Wertberichtigungen sowie Abschreibungen auf den Gestehungskosten von Beteiligungen von mindestens 10 Prozent werden dem steuerbaren Gewinn zugerechnet, soweit sie nicht mehr begründet sind.[^28-4]
 
-<sup>1quater</sup>
-
-Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 1 des Bankengesetzes vom 8. November 1934[^28-5] (BankG) werden für die Berechnung des Nettoertrags nach Absatz 1 der Finanzierungsaufwand und die Forderung in der Bilanz aus konzernintern weitergegebenen Mitteln folgender Anleihen nicht berücksichtigt:
-
-- a. Pflichtwandelanleihen und Anleihen mit Forderungsverzicht nach Artikel 11 Absatz 4 BankG; und
-- b. Schuldinstrumente zur Verlusttragung bei Insolvenzmassnahmen im Sinne der Artikel 28–32 BankG.[^28-6]
+<sup>1quater</sup> Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 1 des Bankengesetzes vom 8. November 1934[^28-5] (BankG) werden für die Berechnung des Nettoertrags nach Absatz 1 der Finanzierungsaufwand und die Forderung in der Bilanz aus konzernintern weitergegebenen Mitteln nicht berücksichtigt, wenn diese Mittel aus Fremdkapitalinstrumenten nach den Artikeln 11 Absatz 4 oder 30*b* Absatz 6 oder 7 Buchstabe b BankG stammen, die von der Eidgenössischen Finanzmarktaufsicht im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigt wurden.[^28-6]
 
 <sup>2–5</sup> …[^28-7]
 
@@ -1016,7 +1016,7 @@ Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 
 [^28-3]: Eingefügt durch Ziff. I 2 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)). Fassung gemäss Ziff. II 3 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^28-4]: Eingefügt durch Ziff. II 3 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^28-5]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^28-6]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Berechnung des Beteiligungsabzugs bei systemrelevanten Banken, in Kraft seit 1. Jan. 2019 ([AS 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [BBl 2018 1263](https://fedlex.data.admin.ch/eli/fga/2018/511)).
+[^28-6]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Berechnung des Beteiligungsabzugs bei systemrelevanten Banken ([AS 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [BBl 2018 1263](https://fedlex.data.admin.ch/eli/fga/2018/511)). Fassung gemäss Anhang Ziff. 6 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^28-7]: Aufgehoben durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, mit Wirkung seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### 3. Kapitel: Kapitalsteuer
@@ -1069,7 +1069,14 @@ Das steuerbare Eigenkapital von Kapitalgesellschaften und Genossenschaften wird 
 
 <sup>3</sup> Der steuerbare Reingewinn bemisst sich nach dem Ergebnis der Steuerperiode.
 
-<sup>4</sup> Das steuerbare Eigenkapital bemisst sich nach dem Stand am Ende der Steuerperiode
+<sup>3bis</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.[^31-1]
+
+<sup>4</sup> Das steuerbare Eigenkapital bemisst sich nach dem Stand am Ende der Steuerperiode.
+
+<sup>5</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.[^31-2]
+
+[^31-1]: Eingefügt durch Anhang Ziff. 8 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^31-2]: Eingefügt durch Anhang Ziff. 8 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ## Vierter Titel: Quellensteuern für natürliche und juristische Personen
 
@@ -1156,7 +1163,7 @@ Personen, die nach Artikel 32 Absatz 1 der Quellensteuer unterliegen, werden nac
 
 [^34-1]: Aufgehoben durch Ziff. I 2 des BG vom 16. Dez. 2016 über die Revision der Quellenbesteuerung des Erwerbseinkommens, mit Wirkung seit 1. Jan. 2021 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### 2. Kapitel: Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz****
+### 2. Kapitel: Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
 
 [^tit4-chap2-1]
 
@@ -1270,7 +1277,7 @@ Der Schuldner der steuerbaren Leistung (Art. 32 und 35) haftet für die Entricht
 [^37-2]: Fassung gemäss Ziff. I 2 des BG vom 16. Dez. 2016 über die Revision der Quellenbesteuerung des Erwerbseinkommens, in Kraft seit 1. Jan. 2021 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 [^37-3]: Fassung gemäss Ziff. I 2 des BG vom 16. Dez. 2016 über die Revision der Quellenbesteuerung des Erwerbseinkommens, in Kraft seit 1. Jan. 2021 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### 4. Kapitel:**** Örtliche Zuständigkeit und interkantonales Verhältnis
+### 4. Kapitel: Örtliche Zuständigkeit und interkantonales Verhältnis
 
 [^tit4-chap4-1]
 
@@ -1378,13 +1385,14 @@ Es sind alle diejenigen Daten von Steuerpflichtigen weiterzugeben, die zur Veran
 Natürliche Personen mit Einkommen aus selbständiger Erwerbstätigkeit und juristische Personen müssen der Steuererklärung beilegen:
 
 - a. die unterzeichneten Jahresrechnungen (Bilanzen, Erfolgsrechnungen) der Steuerperiode; oder
-- b. bei vereinfachter Buchführung nach Artikel 957 Absatz 2 des Obligationenrechts (OR)[^42-1]: Aufstellungen über Einnahmen und Ausgaben, über die Vermögenslage sowie über Privatentnahmen und -einlagen der Steuerperiode.[^42-2]
+- b.[^42-1] bei vereinfachter Buchführung nach Artikel 957 Absatz 2 OR[^42-2]: Aufstellungen über Einnahmen und Ausgaben, über die Vermögenslage sowie über Privatentnahmen und -einlagen der Steuerperiode.[^42-3]
 
-<sup>4</sup> Die Art und Weise der Führung und der Aufbewahrung der Dokumente nach Absatz 3 richtet sich nach den Artikeln 957–958*f* OR.[^42-3]
+<sup>4</sup> Die Art und Weise der Führung und der Aufbewahrung der Dokumente nach Absatz 3 richtet sich nach den Artikeln 957–958*f* OR.[^42-4]
 
-[^42-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^42-2]: Fassung gemäss Ziff. I 3 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^42-3]: Eingefügt durch Ziff. I 3 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^42-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^42-3]: Fassung gemäss Ziff. I 3 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^42-4]: Eingefügt durch Ziff. I 3 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 
 #### Art. 43
 
@@ -1554,7 +1562,7 @@ Alle Erben haben unabhängig voneinander Anspruch auf eine vereinfachte Nachbest
 
 <sup>3</sup> Tatsachen, die für die Steuerveranlagung von Bedeutung sind, werden festgestellt und im Inventar vorgemerkt.
 
-## Sechster Titel: Steuerstrafrecht****
+## Sechster Titel: Steuerstrafrecht
 
 [^tit6-1]
 
@@ -1989,7 +1997,7 @@ Der Bundesrat erlässt die Vollzugsbestimmungen. Er regelt insbesondere die Prob
 
 Artikel 47 Absatz 2 des Bundesgesetzes vom 20. September 1949[^76-1] über die Militärversicherung ist hinsichtlich der Renten und Kapitalleistungen, die nach Inkrafttreten dieses Gesetzes zu laufen beginnen oder fällig werden, nicht anwendbar.
 
-[^76-1]: [[AS 1949 1671](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705), [1956 759](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825), [1959 303](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293), [1964 253](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245), [1968 563](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580),[1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)Art. 15 Ziff. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 5 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art 116, **1990** 1882 Anhang Ziff. 9, **1991** 362 Ziff. II 414. [AS 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)Anhang Ziff. 1]
+[^76-1]: [[AS 1949 1671](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 759](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 303](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 253](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245); [1968 563](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580);[1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)Art. 15 Ziff. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 5, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art 116; **1990** 1882 Anhang Ziff. 9; **1991** 362 Ziff. II, 414. [AS 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)Anhang Ziff. 1]
 
 #### Art. 77
 
