@@ -4,13 +4,13 @@ number: "211.1"
 title: "Loi d'application du code civil suisse"
 short: LACC
 language: fr
-version: 2022-06-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2026-12-31
 version_adopted: 2020-12-17
 adopted: 1998-03-24
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2962/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3011/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2962/pdf_file"
 
 (LACC)
 
-du 24.03.1998 (état 01.06.2022)
+du 24.03.1998 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -139,6 +139,7 @@ ordonne:
 - e) décider d'intenter l'action en annulation du mariage (art. 106 al. 1, 1ère phrase CC);
 - f) autoriser l'adoption (art. 268 CC);
 - g) …
+- g<sup>bis</sup>) exercer la surveillance administrative et organisationnelle sur les autorités de protection de l'enfant et de l'adulte (autorité de protection);
 - h) poursuivre l'exécution de charges contenues dans des libéralités entre vifs ou à cause de mort, lorsque l'exécution de ces charges intéresse le canton ou plusieurs districts (art. 482 CC, 246 al. 2 CO);
 - i) autoriser les établissements de crédit et les sociétés coopératives à pratiquer l'hypothèque sur le bétail (art. 885 CC);
 - j) …
@@ -174,29 +175,69 @@ ordonne:
 
 #### Art. 13
 
-**Autorité communale ou intercommunale**
+**Autorités cantonales**
 
-<sup>1</sup> L'autorité de protection de l'enfant et de l'adulte (autorité de protection) est une autorité communale, indépendante de l'administration.
+<sup>1</sup> Les autorités de protection sont des autorités administratives cantonales. Elles exercent leur activité de manière indépendante.
 
-<sup>2</sup> Les communes peuvent convenir de constituer une autorité de protection intercommunale en l'une des formes prévues par la loi sur les communes.
+<sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Elles sont rattachées administrativement au Département en charge de la sécurité.
+
+<sup>2<sup>ter</sup></sup> Les charges financières y relatives sont réparties entre le canton (70%) et les communes (30%).
 
 <sup>3</sup> …
 
+#### Art. 13a
+
+**Organisation et siège**
+
+<sup>1</sup> Il y a neuf autorités de protection, découpées selon les tribunaux de district, dont le siège est fixé par voie d'ordonnance.
+
+<sup>2</sup> Le Conseil d'Etat peut constituer des antennes aux autorités de protection. Les modalités sont réglées par voie d'ordonnance.
+
 #### Art. 14
 
-**Composition de l'autorité de protection**
+**Composition**
 
-<sup>1</sup> L'autorité de protection est composée d'un président, de deux membres et de deux suppléants nommés pour quatre ans par le conseil municipal ou l'organe exécutif du groupement de communes. L'autorité de nomination veille à l'exigence de l'interdisciplinarité (art. 440 CC). L'accès à la fonction n'est pas limité aux personnes ayant leur domicile sur le territoire communal ou intercommunal.
+<sup>1</sup> L'autorité de protection est composée d'un président bénéficiant d'un titre universitaire en droit de niveau master et d'une formation complémentaire en médiation ou jugée équivalante exerçant son activité à titre principal, de deux membres et de deux suppléants, nommés par l'autorité d'engagement, au sens de la loi sur le personnel de l'Etat du Valais.
 
-<sup>2</sup> Elle a nécessairement pour membre le juge de commune ou l'un des juges de commune du groupement, désigné en conformité des principes régissant le groupement de communes.
+<sup>1<sup>bis</sup></sup> Elle est dotée d’une ou de plusieurs chambres, dont les attributions sont fixées par le règlement interne.
 
-<sup>3</sup> Elle est obligatoirement assistée d'un greffier titulaire d'un titre universitaire en droit nommé par l'autorité de protection pour la période administrative. En cas d'empêchement ou de récusation du greffier, l'autorité de protection nomme un greffier remplaçant.
+<sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Les membres et suppléants bénéficient d'un titre reconnu d’une haute école ou d’une école supérieure et d'une expérience professionnelle, notamment dans les domaines de la psychologie, de la pédagogie, du travail social, de la comptabilité ou de la gestion fiduciaire des biens.
+
+<sup>3</sup> L'autorité de protection est assistée d'un greffier titulaire d'un titre universitaire en droit de niveau master et d'un secrétariat, nommés par l'autorité d'engagement, au sens de la loi sur le personnel de l'Etat du Valais.
 
 <sup>4</sup> De manière à satisfaire à l'exigence de l'interdisciplinarité dans un cas particulier, l'autorité de protection peut faire appel à un assesseur disposant de connaissances spéciales, notamment en matière d'éducation, de pédagogie, de médecine, de psychologie ou de gestion fiduciaire des biens.
 
-<sup>5</sup> Le conseil municipal ou l'organe exécutif du groupement de communes arrête la rémunération du président, des membres, des assesseurs et des greffiers de l'autorité de protection.
+<sup>5</sup> …
 
-<sup>6</sup> La responsabilité découlant des actes ou omissions illicites liés à la mise en oeuvre des mesures de protection de l'enfant et de l'adulte (art. 454 CC) est régie par l'article 19b qui s'applique par analogie.
+<sup>6</sup> …
+
+<sup>7</sup> L'autorité d'engagement veille au suivi de la formation continue des membres de l'autorité de protection, de leurs suppléants, du greffier et de son secrétariat.
+
+#### Art. 14a
+
+**Conditions d'engagement des membres et des suppléants**
+
+<sup>1</sup> Peuvent être engagées en tant que membres ou suppléants de l'autorité de protection les personnes:
+
+- a) remplissant les réquisits spécifiques de l'article 14 alinéas 1 et 2<sup>bis</sup>;
+- b) ne faisant l'objet d'aucune mesure de curatelle;
+- c) exemptes de poursuites et d'inscription au casier judiciaire relevant.
+
+#### Art. 14b
+
+**Présidence**
+
+<sup>1</sup> Le président dirige l'autorité de protection, veille à sa bonne marche et au respect du principe de célérité.
+
+<sup>2</sup> Il représente l'autorité envers l'extérieur.
+
+<sup>3</sup> Il assume la fonction de supérieur hiérarchique du personnel de l'autorité dans les questions relevant du droit du personnel.
+
+<sup>4</sup> En cas d'empêchement ou de récusation du président, celui-ci est remplacé par un membre.
 
 #### Art. 15
 
@@ -204,7 +245,7 @@ ordonne:
 
 <sup>1</sup> Sous réserve des compétences que la présente loi attribue expressément au président ou à son remplaçant (art. 112 al. 3) et des missions déléguées par le président à un seul membre de l'autorité ou à un assesseur spécialement désigné à cet effet (art. 112 al. 4), l'autorité de protection ne peut délibérer valablement que si trois de ses membres sont présents.
 
-<sup>2</sup> Si, dans un cas particulier, l'autorité de protection ne peut se constituer, elle est complétée par des membres ad hoc désignés par le président du conseil municipal ou en conformité des principes régissant le groupement de communes.
+<sup>2</sup> Si, dans un cas particulier, l'autorité de protection ne peut se constituer, elle est complétée par des membres ad hoc désignés par l'autorité de surveillance administrative.
 
 <sup>3</sup> L'assesseur appelé dans un cas particulier siège avec voix délibérative (art. 14 al. 4); en cas d'égalité des voix, le président tranche.
 
@@ -220,7 +261,9 @@ ordonne:
 
 **Surveillance**
 
-<sup>1</sup> La surveillance de l'organisation de l'autorité de protection relève du Conseil d'Etat selon des modalités arrêtées par voie d'ordonnance.
+<sup>1</sup> La surveillance administrative et organisationnelle des autorités de protection relève du Conseil d'Etat et est déléguée au département en charge de la sécurité selon des modalités arrêtées par voie d'ordonnance.
+
+<sup>1<sup>bis</sup></sup> Dans le cadre de sa surveillance, l’autorité de surveillance a accès sous une forme non anonymisée aux dossiers des autorités de protection.
 
 <sup>2</sup> …
 
@@ -228,13 +271,19 @@ ordonne:
 
 <sup>4</sup> …
 
+#### Art. 16a
+
+**Règlement interne**
+
+<sup>1</sup> Le département édicte pour les autorités de protection un règlement interne fixant leur organisation et leur fonctionnement, en tenant compte de leurs spécificités.
+
 ### 1.2.1.3a Service officiel de la curatelle
 
 #### Art. 17
 
-**Principes**
+**Mission**
 
-<sup>1</sup> Le service officiel de la curatelle pourvoit à l'exécution des mandats d'aide et de gestion que l'autorité de protection ne peut confier à un particulier ou au service cantonal de la jeunesse.
+<sup>1</sup> Le service officiel de la curatelle pourvoit en principe à l'exécution des mandats d'aide et de gestion que l'autorité de protection ne peut confier à un particulier ou au service cantonal de la jeunesse.
 
 <sup>2</sup> Le service officiel de la curatelle compétent est celui de la commune de domicile de la personne concernée par la mesure de protection.
 
@@ -252,51 +301,113 @@ ordonne:
 
 **Statut juridique**
 
-<sup>1</sup> Le service officiel de la curatelle relève de la commune.
+<sup>1</sup> La commune ou le groupement de communes met en principe en place un ou plusieurs services officiels de la curatelle par autorité de protection.
 
 <sup>2</sup> La commune accomplit cette tâche:
 
 - a) par ses propres moyens, en constituant un service public;
-- b) par délégation à une autre commune, à une association de communes ou à un tiers;
+- b) par délégation à une entité reconnue d'utilité publique;
 - c) par une collaboration intercommunale de droit privé ou par une association de communes portant sur la gestion d'un service officiel de la curatelle.
 
 <sup>3</sup> La délégation de tâches et les conventions intercommunales au sens de l'alinéa 2 lettres b et c sont régies par la loi sur les communes.
 
 #### Art. 19
 
-**Collaboration imposée**
-
-<sup>1</sup> Lorsqu'une commune ne peut manifestement pas assurer le fonctionnement d'un service officiel de la curatelle, le Conseil d'Etat peut l'obliger à collaborer dans l'une des formes prévues à l'article 18 alinéa 2 lettres b et c.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### Art. 19a
 
-**Organisation interne**
+**Organisation**
 
-<sup>1</sup> Le service officiel de la curatelle dispose d'un ou de plusieurs curateurs exerçant la fonction à titre professionnel, à temps complet ou partiel.
+<sup>1</sup> Le service officiel de la curatelle dispose d'un ou de plusieurs curateurs et tuteurs exerçant leurs fonctions à titre professionnel, à temps complet ou partiel.
 
-<sup>2</sup> Chargé par l'autorité de protection d'un mandat dont l'ampleur ou la complexité exclut qu'il soit confié à un particulier, le curateur professionnel doit disposer des aptitudes et des connaissances spéciales requises par sa mission.
+<sup>2</sup> …
 
 <sup>3</sup> Le service officiel de la curatelle doit:
 
-- a) veiller à ce que les curateurs professionnels reçoivent les instructions, les conseils et les soutiens dont ils ont besoin pour accomplir leurs tâches;
-- b) garantir la confidentialité des données traitées.
+- a) veiller à ce que les curateurs et les tuteurs professionnels remplissent les exigences requises, reçoivent les instructions, les conseils et les soutiens dont ils ont besoin pour accomplir leurs tâches et à ce qu'ils suivent une formation continue utile à l'exercice de leurs mandats;
+- b) garantir la confidentialité des données traitées;
+- c) être doté d'un effectif en personnel suffisant;
+- d) mettre en place un système de contrôle interne;
+- e) garantir le remplacement pour suivi des dossiers d'un tuteur ou curateur absent.
+
+<sup>4</sup> Le Conseil d'Etat peut édicter des recommandations à l'égard des communes et des entités reconnues d’utilité publique concernant le système de contrôle interne.
 
 #### Art. 19b
 
-**Responsabilité civile**
+**…**
 
-<sup>1</sup> Le canton répond directement des actes et omissions illicites liés à l'exécution des mesures de protection de l'enfant et de l'adulte (art. 454 CC).
+### 1.2.1.3b Curateurs et tuteurs
 
-<sup>2</sup> Le canton dispose d'une double action récursoire:
+#### Art. 19c
 
-- a) contre la commune ou le groupement de communes responsable du service officiel de la curatelle concerné;
-- b) contre le titulaire du mandat de protection.
+**Curateurs et tuteurs du service officiel de la curatelle**
 
-<sup>3</sup> Les articles 14 ss de la loi sur la responsabilité des collectivités publiques et de leurs agents régissent les conditions de l'action récursoire contre le curateur ou le tuteur officiel. Ces dispositions s'appliquent par analogie lorsque l'autorité de protection confie l'exécution d'un mandat à un particulier.
+<sup>1</sup> Les curateurs et tuteurs du service officiel de la curatelle doivent:
+
+- a) disposer des aptitudes et des connaissances spéciales requises pour leur mission;
+- b) être titulaires:
+  - 1\. d'un titre d’une haute école ou d’une école supérieure notamment dans les domaines de la psychologie, de la pédagogie, du travail social, de la comptabilité ou de la gestion financière des biens, ou
+  - 2\. d'un titre jugé équivalent avec expérience professionnelle utile à la fonction;
+- c) produire à l'autorité d'engagement un extrait récent des poursuites et un extrait récent ordinaire et spécial du casier judiciaire. Cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité d'engagement l'estime nécessaire.
+
+<sup>2</sup> Le Conseil d'Etat peut édicter des recommandations à l'égard des communes concernant le profil, les exigences et le nombre de mandats des curateurs et tuteurs du service officiel de la curatelle.
+
+#### Art. 19d
+
+**Autres curateurs et tuteurs professionnels**
+
+<sup>1</sup> L'autorité de protection peut nommer des curateurs et des tuteurs professionnels issus d'autres entités professionnelles que ceux du service officiel de la curatelle.
+
+<sup>2</sup> Elle veille à ce que ceux-ci soient titulaires:
+
+- a) d'un titre d’une haute école ou d’une école supérieure notamment dans les domaines de la psychologie, de la pédagogie, du travail social, de la comptabilité ou de la gestion financière des biens, ou
+- b) d'un titre jugé équivalent, avec expérience professionnelle utile à la fonction.
+
+<sup>3</sup> Elle s'assure notamment, au moment de la nomination, que ceux-ci ne fassent ni l'objet d'inscription au casier judiciaire ordinaire et spécial, ni l'objet d'inscription au registre des poursuites et faillites. Cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité de protection l'estime nécessaire.
+
+<sup>4</sup> L'autorité de protection doit s'enquérir annuellement du suivi d'une formation continue.
+
+<sup>5</sup> Le Conseil d'Etat peut édicter des directives à l'égard des autorités de protection concernant le profil, les exigences et le nombre de mandats des autres curateurs et tuteurs professionnels.
+
+#### Art. 19e
+
+**Curateurs et tuteurs privés**
+
+<sup>1</sup> Les tuteurs et les curateurs privés, hormis ceux nommés pour leurs compétences particulières et ceux assumant un mandat en faveur de proches, devront suivre une formation en matière de protection de l'enfant et de l'adulte, dans les 6 mois suivant leur nomination. L'autorité de protection veillera au suivi de cette formation, dont le contenu et les modalités seront définis par voie d'ordonnance.
+
+<sup>2</sup> L'autorité de protection s'assure notamment, au moment de la nomination, que les curateurs et tuteurs privés ne fassent ni l'objet d'inscription au casier judiciaire ordinaire et spécial, ni l'objet d'inscription au registre des poursuites et faillites. Cette démarche est renouvelée tous les 2 ans ou lorsque l'autorité de protection l'estime nécessaire.
+
+<sup>3</sup> L'autorité de surveillance met sur pied des formations continues annuellement et les autorités de protections encouragent les tuteurs et les curateurs privés à y participer.
+
+<sup>4</sup> Le Conseil d'Etat peut édicter des directives à l'égard des autorités de protection concernant le profil, les exigences et le nombre de mandats des curateurs et tuteurs privés.
+
+#### Art. 19f
+
+**Fortune importante**
+
+<sup>1</sup> En cas de fortune mobilière importante d'une personne sous mesure de protection, l'autorité de protection nomme une personne aux compétences particulières en qualité de curateur privé ou de tuteur privé.
+
+<sup>1<sup>bis</sup></sup> En cas de fortune immobilière importante d'une personne sous mesure de protection, l'autorité de protection peut nommer une personne aux compétences particulières en qualité de curateur privé ou de tuteur privé.
+
+<sup>2</sup> Le Conseil d'Etat détermine par voie d’ordonnance le seuil de la fortune mobilière et les modalités d’application des alinéas 1 et 1bis.
+
+<sup>3</sup> La personne aux compétences particulières ne peut pas faire partie:
+
+- a) d'un service officiel de la curatelle;
+- b) d'une autre entité professionnelle.
+
+### 1.2.1.3c Responsabilité civile
+
+#### Art. 19g
+
+<sup>1</sup> Le canton répond directement des actes et omissions illicites liés à l'exécution des mesures de protection de l'enfant et de l'adulte.
+
+<sup>2</sup> Le canton dispose d'une action récursoire contre la commune ou le groupement de communes responsable du (des) service(s) officiel(s) de la curatelle concerné(s), avec ou sans faute de sa part.
+
+<sup>3</sup> Il dispose également d'une action récursoire contre les organes de protection de l'enfant et de l'adulte, y compris les personnes ou institutions habilitées à prendre des décisions dans le domaine du placement à des fins d'assistance et contre leurs auxiliaires. La loi sur la responsabilité des collectivités publiques et de leurs agents régit les conditions de cette action.
+
+<sup>4</sup> Les communes doivent être au bénéfice d'une assurance responsabilité civile qui offre une couverture pour les activités de protection de l'enfant et de l'adulte.
 
 ### 1.2.1.4 Notaires
 
@@ -412,7 +523,7 @@ ordonne:
 
 <sup>1</sup> La nomination du curateur est régie par les articles 400 et suivants CC.
 
-<sup>2</sup> Lorsque l'autorité de protection ne parvient pas à trouver elle-même une personne en mesure d'assumer le mandat en tant que particulier, elle confie au service officiel de la curatelle compétent le soin de lui proposer une personne jouissant des aptitudes requises.
+<sup>2</sup> Lorsque l'autorité de protection ne parvient pas à trouver elle-même une personne en mesure d'assumer le mandat en tant que particulier, elle confie en principe au service officiel de la curatelle compétent le soin de lui proposer une personne jouissant des aptitudes requises et des connaissances spéciales requises par leur mission.
 
 <sup>3</sup> …
 
@@ -1149,7 +1260,7 @@ ordonne:
 
 **Autorité ordinaire de première instance**
 
-<sup>1</sup> L'autorité ordinaire de protection est une autorité communale ou intercommunale (art. 13 et 14).
+<sup>1</sup> L'autorité ordinaire de protection est une autorité cantonale (art. 13).
 
 <sup>2</sup> …
 
@@ -1243,6 +1354,18 @@ ordonne:
 
 <sup>3</sup> Ces voies de recours s'appliquent par analogie dans le domaine de la protection de l'enfant.
 
+#### Art. 114a
+
+**Devoir de collaboration**
+
+<sup>1</sup> Le Tribunal cantonal communique à l'autorité de surveillance administrative, dès leur entrée en force et sous une forme non anonymisée, les prononcés rendus dans le domaine de la protection de l'enfant et de l'adulte.
+
+<sup>2</sup> Sont exclues de l'obligation de communiquer prévue à l'alinéa 1:
+
+- a) les décisions incidentes, y compris celles qui concernent l'assistance judiciaire;
+- b) les décisions d'irrecevabilité;
+- c) les décisions ordonnant la radiation du rôle.
+
 ### 1.3.2.2.6
 
 #### Art. 115
@@ -1275,6 +1398,12 @@ ordonne:
 <sup>1</sup> Le for du recours prévu par l'article 419 CC se trouve au siège de l'autorité de protection.
 
 <sup>2</sup> Le for des recours prévus par les articles 445 alinéa 3 et 450 alinéa 1 CC se trouve au siège du Tribunal cantonal.
+
+#### Art. 116c
+
+**Entraide administrative**
+
+<sup>1</sup> Les autorités administratives cantonales et communales et les tribunaux sont tenus de fournir gratuitement à l'autorité de protection les documents nécessaires et de communiquer les informations requises, à moins que des intérêts dignes de protection ne s'y opposent.
 
 ### 1.3.2.2.6a Procédure devant les autorités de protection de l'enfant et de l'adulte
 

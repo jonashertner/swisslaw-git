@@ -4,13 +4,13 @@ number: "211.1"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGZGB
 language: de
-version: 2022-06-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2026-12-31
 version_adopted: 2020-12-17
 adopted: 1998-03-24
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.1"
-pdf: "https://lex.vs.ch/api/de/versions/2962/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3011/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2962/pdf_file"
 
 (EGZGB)
 
-vom 24.03.1998 (Stand 01.06.2022)
+vom 24.03.1998 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -139,6 +139,7 @@ verordnet:
 - e) der Entscheid, eine Klage auf Eheungültigkeit einzureichen (Art. 106 Abs. 1, 1. Satz ZGB);
 - f) die Bewilligung zur Adoption (Art. 268 ZGB);
 - g) …
+- g<sup>bis</sup>) die administrative und organisatorische Aufsicht über die Kindes- und Erwachsenenschutzbehörden (Schutzbehörde);
 - h) die Durchsetzung der Vollziehung von Auflagen, welche in unentgeltlichen Zuwendungen unter Lebenden oder von Todes wegen enthalten sind, wenn die Vollziehung dieser Auflagen im Interesse des Kantons oder mehrerer Bezirke liegt (Art. 482 ZGB, 246 Abs. 2 OR);
 - i) die Ermächtigung an Geldinstitute und Genossenschaften zur Annahme der Viehverpfändung (Art. 885 ZGB);
 - j) …
@@ -174,29 +175,69 @@ verordnet:
 
 #### Art. 13
 
-**Kommunale oder interkommunale Behörde**
+**Kantonale Behörden**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde (Schutzbehörde) ist eine von der Verwaltung unabhängige kommunale Behörde.
+<sup>1</sup> Die Schutzbehörden sind kantonale Verwaltungsbehörden. Sie üben ihre Tätigkeit unabhängig aus.
 
-<sup>2</sup> Die Gemeinden können vereinbaren, gemeinsam eine interkommunale Schutzbehörde in einer vom Gemeindegesetz vorgesehenen Form zu ernennen.
+<sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Sie sind administrativ dem für die Sicherheit zuständigen Departement angegliedert.
+
+<sup>2<sup>ter</sup></sup> Die damit verbundenen finanziellen Aufwendungen werden zwischen Kanton (70%) und Gemeinden (30%) aufgeteilt.
 
 <sup>3</sup> …
 
+#### Art. 13a
+
+**Organisation und Sitz**
+
+<sup>1</sup> Es bestehen neun Schutzbehörden, die entsprechend den Bezirksgerichten aufgeteilt sind und deren Sitze in einer Verordnung festgelegt werden.
+
+<sup>2</sup> Der Staatsrat kann Aussenstellen der Schutzbehörden einrichten. Die Modalitäten werden in einer Verordnung geregelt.
+
 #### Art. 14
 
-**Zusammensetzung der Schutzbehörde**
+**Zusammensetzung**
 
-<sup>1</sup> Die Schutzbehörde setzt sich aus einem Präsidenten, zwei Mitgliedern und zwei Stellvertretern zusammen. Diese werden vom Gemeinderat oder vom ausführenden Organ der Gemeindevereinigung für vier Jahre ernannt. Die Ernennungsbehörde stellt die interdisziplinäre Zusammensetzung sicher (Art. 440 ZGB). Es können auch Personen ohne Wohnsitz in der Gemeinde oder im interkommunalen Gebiet Mitglied sein.
+<sup>1</sup> Die Schutzbehörde setzt sich aus einem über einen Universitätstitel der Rechtswissenschaft auf Masterstufe und eine Zusatzausbildung in Mediation oder eine gleichwertige Zusatzausbildung verfügenden und hauptamtlich tätigen Präsidenten, zwei Mitgliedern und zwei Stellvertretern, ernannt von der Anstellungsbehörde gemäss Gesetz über das Personal des Staates Wallis, zusammen.
 
-<sup>2</sup> Der Gemeinderichter oder einer der Gemeinderichter der Vereinigung, welcher gemäss den Grundsätzen der Gemeindevereinigungen bezeichnet wird, muss Mitglied der Schutzbehörde sein.
+<sup>1<sup>bis</sup></sup> Sie hat eine oder mehrere Kammern, deren Befugnisse im internen Reglement festgelegt werden.
 
-<sup>3</sup> Die Schutzbehörde wird obligatorisch von einem Schreiber unterstützt, welcher Inhaber eines Universitätstitels der Rechtswissenschaft ist und von der Schutzbehörde für die Verwaltungsperiode ernannt wird. Bei Verhinderung oder Ausstand des Schreibers ernennt die Schutzbehörde einen stellvertretenden Schreiber.
+<sup>2</sup> …
 
-<sup>4</sup> Um in einem speziellen Fall der Anforderung nach Interdisziplinarität gerecht zu werden, kann die Schutzbehörde einen Beisitzer mit den notwendigen spezifischen Kenntnissen beiziehen, namentlich in den Fachbereichen der Bildung, der Pädagogik, der Medizin, der Psychologie oder der treuhänderischen Vermögensverwaltung.
+<sup>2<sup>bis</sup></sup> Die Mitglieder und die Stellvertreter verfügen über einen anerkannten Abschluss einer Hochschule oder einer höheren Fachschule und Berufserfahrung, namentlich in den Bereichen Psychologie, Pädagogik, Sozialarbeit, Buchhaltung oder treuhänderische Vermögensverwaltung.
 
-<sup>5</sup> Der Gemeinderat oder das ausführende Organ der Gemeindevereinigung setzt die Entschädigung des Präsidenten, der Mitglieder und der Schreiber der Schutzbehörde fest.
+<sup>3</sup> Die Schutzbehörde wird von einem Schreiber, der Inhaber eines Universitätstitels der Rechtswissenschaft auf Masterstufe ist, und einem Sekretariat, ernannt von der Anstellungssbehörde gemäss Gesetz über das Personal des Staates Wallis, unterstützt.
 
-<sup>6</sup> Die Haftung aus widerrechtlichen Handlungen oder Unterlassungen in Bezug auf die unternommenen Schutzmassnahmen für ein Kind oder einen Erwachsenen (Art. 454 ZGB) wird in Artikel 19b geregelt, welcher analog angewandt wird.
+<sup>4</sup> Um in einem speziellen Fall der Anforderung nach Interdisziplinarität gerecht zu werden, kann die Schutzbehörde einen Beisitzer mit den notwendigen spezifischen Kenntnissen beiziehen, namentlich in den Fachbereichen Bildung, Pädagogik, Medizin, Psychologie oder treuhänderische Vermögensverwaltung.
+
+<sup>5</sup> …
+
+<sup>6</sup> …
+
+<sup>7</sup> Die Anstellungssbehörde achtet darauf, dass sich die Mitglieder der Schutzbehörde, ihre Stellvertreter, ihr Schreiber und ihr Sekretariat weiterbilden.
+
+#### Art. 14a
+
+**Voraussetzungen für die Anstellung der Mitglieder und der Stellvertreter**
+
+<sup>1</sup> Als Mitglieder oder Stellvertreter der Schutzbehörde können Personen angestellt werden, welche:
+
+- a) die spezifischen Anforderungen von Artikel 14 Absätze 1 und 2<sup>bis</sup> erfüllen;
+- b) nicht verbeiständet sind;
+- c) frei von Schuldbetreibungen und relevanten Einträgen im Strafregister sind.
+
+#### Art. 14b
+
+**Präsidium**
+
+<sup>1</sup> Der Präsident leitet die Schutzbehörde, sorgt für ihr reibungsloses Funktionieren und die Einhaltung des Beschleunigungsgrundsatzes.
+
+<sup>2</sup> Er vertritt die Schutzbehörde nach aussen.
+
+<sup>3</sup> Er übt gegenüber dem Personal die Vorgesetztenfunktion in personalrechtlichen Belangen aus.
+
+<sup>4</sup> Falls der Präsident verhindert ist oder in den Ausstand tritt, wird er durch ein Mitglied vertreten.
 
 #### Art. 15
 
@@ -204,7 +245,7 @@ verordnet:
 
 <sup>1</sup> Unter Vorbehalt der Kompetenzen, welche im vorliegenden Gesetz ausdrücklich dem Präsidenten oder seinem Stellvertreter zugesprochen werden (Art. 112 Abs. 3) und der Aufgaben, welche der Präsident an ein einzelnes Mitglied der Behörde oder an einen speziell zu diesem Zweck bestellten Beisitzer delegiert hat (Art. 112 Abs. 4), kann die Schutzbehörde nur gültig beraten, wenn drei ihrer Mitglieder anwesend sind.
 
-<sup>2</sup> Kann die Schutzbehörde in einem besonderen Fall nicht bestellt werden, wird sie durch Mitglieder ad hoc vervollständigt, die vom Präsidenten des Gemeinderates oder nach den Grundsätzen, die die Gemeindevereinigung regeln, bezeichnet werden.
+<sup>2</sup> Kann die Schutzbehörde in einem besonderen Fall nicht bestellt werden, wird sie durch Mitglieder ad hoc vervollständigt, die von der administrativen Aufsichtsbehörde bezeichnet werden.
 
 <sup>3</sup> Der in bestimmten Fällen bestellte Beisitzer nimmt mit Stimmrecht an der Sitzung teil (Art. 14 Abs. 4); bei Stimmengleichheit entscheidet der Präsident.
 
@@ -220,7 +261,9 @@ verordnet:
 
 **Aufsicht**
 
-<sup>1</sup> Der Staatsrat beaufsichtigt die Organisation der Schutzbehörde gemäss den durch die Verordnung festgelegten Auflagen.
+<sup>1</sup> Die administrative und organisatorische Aufsicht über die Schutzbehörden liegt beim Staatsrat und wird dem für die Sicherheit zuständigen Departement gemäss den auf dem Verordnungsweg festgelegten Modalitäten übertragen.
+
+<sup>1<sup>bis</sup></sup> Im Rahmen ihrer Aufsicht hat die Aufsichtsbehörde Zugang zu den Akten der Schutzbehörden in nicht anonymisierter Form.
 
 <sup>2</sup> …
 
@@ -228,13 +271,19 @@ verordnet:
 
 <sup>4</sup> …
 
+#### Art. 16a
+
+**Internes Reglement**
+
+<sup>1</sup> Das Departement erlässt ein internes Reglement für die Schutzbehörden, in dem ihre Organisation und Arbeitsweise unter Berücksichtigung ihrer Besonderheiten festgelegt werden.
+
 ### 1.2.1.3a Berufsbeistandschaft
 
 #### Art. 17
 
-**Grundsätze**
+**Aufgabe**
 
-<sup>1</sup> Die Berufsbeistandschaft übernimmt Betreuungs- und Verwaltungsmandate, welche die Kindes- und Erwachsenenschutzbehörde weder einer Privatperson noch dem kantonalen Jugendamt übertragen kann.
+<sup>1</sup> Die Berufsbeistandschaft übernimmt im Grundsatz Betreuungs- und Verwaltungsmandate, welche die Schutzbehörde weder einer Privatperson noch dem kantonalen Jugendamt übertragen kann.
 
 <sup>2</sup> Zuständig ist die Berufsbeistandschaft der Gemeinde, in welcher die betroffene Person ihren Wohnsitz hat.
 
@@ -252,51 +301,113 @@ verordnet:
 
 **Rechtlicher Status**
 
-<sup>1</sup> Die Berufsbeistandschaft ist eine kommunale Einrichtung.
+<sup>1</sup> Die Gemeinde oder die Gemeindevereinigung richtet im Grundsatz eine oder mehrere Berufsbeistandschaften pro Schutzbehörde ein.
 
 <sup>2</sup> Die Gemeinde erfüllt diese Aufgabe:
 
 - a) durch Errichtung einer eigenen Berufsbeistandschaft;
-- b) durch Delegation an eine andere Gemeinde, an eine Gemeindevereinigung oder an Dritte;
+- b) durch Delegation an eine anerkannte gemeinnützige Einrichtung;
 - c) durch einen interkommunalen privatrechtlichen Zusammenarbeitsvertrag oder durch eine Gemeindevereinigung als Träger einer Berufsbeistandschaft.
 
 <sup>3</sup> Die Aufgabendelegation und die interkommunalen Vereinbarungen gemäss Absatz 2 Buchstaben b und c sind durch das Gemeindegesetz geregelt.
 
 #### Art. 19
 
-**Verordnete Zusammenarbeit**
-
-<sup>1</sup> Eine Gemeinde, die offensichtlich nicht in der Lage ist, den Betrieb einer Berufsbeistandschaft zu gewährleisten, kann vom Staatsrat angewiesen werden, in einer der nach Artikel 18 Absatz 2 Buchstaben b und c vorgesehenen Form zusammenzuarbeiten.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### Art. 19a
 
-**Interne Organisation**
+**Organisation**
 
-<sup>1</sup> Die Berufsbeistandschaft verfügt über einen oder mehrere vollamtliche oder teilamtliche Berufsbeistände.
+<sup>1</sup> Die Berufsbeistandschaft verfügt über einen oder mehrere vollamtlich oder teilamtlich tätige Berufsbeistände und -vormunde.
 
-<sup>2</sup> Da die Behörde dem Berufsbeistand Mandate überträgt, die aufgrund ihres Aufwandes oder ihrer Komplexität keiner Privatperson anvertraut werden können, muss der Berufsbeistand über die erforderliche Eignung und die entsprechenden Spezialkenntnisse verfügen.
+<sup>2</sup> …
 
 <sup>3</sup> Die Berufsbeistandschaft hat:
 
-- a) sicherzustellen, dass die Berufsbeistände die Instruktion, Beratung und Unterstützung erhalten, die sie für die Erfüllung ihrer Aufgaben benötigen;
-- b) die Vertraulichkeit der bearbeiteten Daten zu garantieren.
+- a) sicherzustellen, dass die Berufsbeistände und -vormunde die an sie gestellten Anforderungen erfüllen, dass sie die Instruktion, Beratung und Unterstützung erhalten, die sie für die Erfüllung ihrer Aufgaben benötigen, und dass sie sich in zur Ausführung ihres Auftrages nützlicher Weise weiterbilden;
+- b) die Vertraulichkeit der bearbeiteten Daten zu garantieren;
+- c) über genügend Personal zu verfügen;
+- d) ein internes Kontrollsystem einzurichten;
+- e) zu gewährleisten, dass die Weiterbehandlung der Dossiers eines abwesenden Vormunds oder Beistands durch eine Vertretung übernommen wird.
+
+<sup>4</sup> Der Staatsrat kann hinsichtlich des internen Kontrollsystems Empfehlungen an die Gemeinden und die anerkannten gemeinnützigen Einrichtungen aussprechen.
 
 #### Art. 19b
 
-**Zivilrechtliche Verantwortlichkeit**
+**…**
 
-<sup>1</sup> Der Kanton haftet direkt für Schaden, der durch widerrechtliches Handeln oder Unterlassen von Organen des Kindes- und Erwachsenenschutzes entsteht (Art. 454 ZGB).
+### 1.2.1.3b Beistände und Vormunde
 
-<sup>2</sup> Der Kanton hat ein doppeltes Rückgriffsrecht:
+#### Art. 19c
 
-- a) gegenüber der Gemeinde oder dem Gemeindeverband, die bzw. der für die betroffene Berufsbeistandschaft verantwortlich ist;
-- b) gegenüber dem Mandatsträger.
+**Beistände und Vormunde der Berufsbeistandschaft**
 
-<sup>3</sup> Artikel 14 und folgende des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger regelt das Verfahren über den Rückgriff auf den Berufsbeistand oder Berufsvormund. Diese Bestimmungen finden analoge Anwendung, wenn die Behörde das Mandat einer Privatperson überträgt.
+<sup>1</sup> Die Beistände und Vormunde der Berufsbeistandschaft müssen:
+
+- a) über die zur Ausübung ihrer Tätigkeit notwendigen Fähigkeiten und spezifischen Kenntnisse verfügen;
+- b) folgende Ausbildung aufweisen:
+  - 1\. einen Abschluss einer Hochschule oder einer höheren Fachschule, namentlich in den Bereichen Psychologie, Pädagogik, Sozialarbeit, Buchhaltung oder treuhänderische Vermögensverwaltung, oder
+  - 2\. einen als gleichwertig anerkannten Abschluss mitsamt der nötigen Berufserfahrung;
+- c) der Anstellungsbehörde einen aktuellen Betreibungsregisterauszug und einen aktuellen ordentlichen und einen Sonderprivatauszug aus dem Strafregister vorlegen. Dieser Vorgang wird alle 2 Jahre oder wenn es die Anstellungssbehörde für notwendig erachtet erneuert.
+
+<sup>2</sup> Der Staatsrat kann zuhanden der Gemeinden Empfehlungen zum Profil, zu den Anforderungen und zur Anzahl Betreuungsmandate der Beistände und Vormunde der Berufsbeistandschaften erlassen.
+
+#### Art. 19d
+
+**Andere professionelle Beistände und Vormunde**
+
+<sup>1</sup> Die Schutzbehörde kann professionelle Beistände und Vormunde bezeichnen, die nicht einer Berufsbeistandschaft, sondern einer anderen professionelle Einrichtung angehören.
+
+<sup>2</sup> Sie achtet darauf, dass diese über folgende Ausbildung verfügen:
+
+- a) einen Abschluss einer Hochschule oder einer höheren Fachschule, namentlich in den Bereichen Psychologie, Pädagogik, Sozialarbeit, Buchhaltung oder treuhänderische Vermögensverwaltung, oder
+- b) einen als gleichwertig anerkannten Abschluss mit der nötigen Berufserfahrung.
+
+<sup>3</sup> Anlässlich der Ernennung verlangt sie die Vorlage eines Betreibungsregisterauszuges und eines ordentlichen und eines Sonderprivatauszuges aus dem Strafregister. Dieser Vorgang wird alle 2 Jahre oder wenn es die Schutzbehörde für notwendig erachtet erneuert.
+
+<sup>4</sup> Die Schutzbehörde erkundigt sich jährlich danach, ob eine Weiterbildung durchlaufen wurde.
+
+<sup>5</sup> Der Staatsrat kann zuhanden der Schutzbehörden Richtlinien zum Profil, zu den Anforderungen und zur Anzahl Betreuungsmandate anderer professioneller Beistände und Vormunde erlassen.
+
+#### Art. 19e
+
+**Private Beistände und Vormunde**
+
+<sup>1</sup> Private Beistände und Vormunde, die nicht aufgrund von besonderen Kompetenzen ernannt wurden und ein Mandat zugunsten von Angehörigen übernommen haben, müssen binnen 6 Monaten nach ihrer Ernennung eine Ausbildung in Kindes- und Erwachsenenschutz absolvieren. Die Schutzbehörde stellt sicher, dass diese Ausbildung, deren Inhalt und Modalitäten auf dem Verordnungsweg definiert werden, absolviert wird.
+
+<sup>2</sup> Anlässlich der Ernennung des privaten Beistandes oder Vormundes verlangt die Schutzbehörde insbesondere die Vorlage eines Betreibungsregisterauszuges und eines ordentlichen und eines Sonderprivatauszuges aus dem Strafregister. Dieser Vorgang wird alle 2 Jahre oder wenn es die Schutzbehörde für notwendig erachtet erneuert.
+
+<sup>3</sup> Die Aufsichtsbehörde organisiert jährlich Weiterbildungen. Die Schutzbehörden ermutigen private Vormunde und Beistände, an diesen teilzunehmen.
+
+<sup>4</sup> Der Staatsrat kann zuhanden der Schutzbehörden Richtlinien zum Profil, zu den Anforderungen und zur Anzahl Betreuungsmandate der privaten Beistände und Vormunde erlassen.
+
+#### Art. 19f
+
+**Erhebliche Vermögen**
+
+<sup>1</sup> Im Falle erheblicher beweglicher Vermögenswerte einer Person unter Schutzmassnahme ernennt die Schutzbehörde eine Person mit besonderen Fachkenntnissen zum privaten Beistand oder privaten Vormund.
+
+<sup>1<sup>bis</sup></sup> Im Falle erheblicher unbeweglicher Vermögenswerte einer Person unter Schutzmassnahme kann die Schutzbehörde eine Person mit besonderen Fachkenntnissen zum privaten Beistand oder privaten Vormund ernennen.
+
+<sup>2</sup> Der Staatsrat bestimmt auf dem Verordnungsweg den Vermögensgrenzwert des beweglichen Vermögens und legt die Modalitäten zur Anwendung der Absätze 1 und 1<sup>bis</sup> fest.
+
+<sup>3</sup> Die Person mit besonderen Fachkenntnissen darf nicht angehören:
+
+- a) einer Berufsbeistandschaft;
+- b) einer anderen professionellen Einrichtung.
+
+### 1.2.1.3c Zivilrechtliche Verantwortlichkeit
+
+#### Art. 19g
+
+<sup>1</sup> Der Kanton haftet direkt für widerrechtliches Handeln oder Unterlassen im Zusammenhang mit der Durchführung von Kindes- und Erwachsenenschutzmassnahmen.
+
+<sup>2</sup> Der Kanton verfügt über ein Rückgriffsrecht auf die für die Berufsbeistandschaft(en) zuständige Gemeinde oder Gemeindevereinigung, mit oder ohne deren Verschulden.
+
+<sup>3</sup> Er verfügt auch über ein Rückgriffsrecht auf die Organe des Kindes- und Erwachsenenschutzes, einschliesslich der im Bereich der fürsorgerischen Unterbringung zur Beschlussfassung berechtigten Personen oder Institutionen sowie deren Hilfspersonen. Das Gesetz über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger regelt die Voraussetzungen des Rückgriffs.
+
+<sup>4</sup> Die Gemeinden müssen für ihre Tätigkeit im Rahmen des Kindes- und Erwachsenenschutzes über eine Haftpflichtversicherung verfügen.
 
 ### 1.2.1.4 Notare
 
@@ -414,7 +525,7 @@ Die letztwilligen Verfügungen sowie die Erbverträge werden einerseits der kant
 
 <sup>1</sup> Die Ernennung des Beistands richtet sich nach Artikel 400 und folgende ZGB.
 
-<sup>2</sup> Wenn die Schutzbehörde keine geeignete Privatperson für die Führung eines Mandats findet, ersucht sie die zuständige Berufsbeistandschaft, ihr eine geeignete Person vorzuschlagen.
+<sup>2</sup> Wenn die Schutzbehörde selbst keine geeignete Privatperson für das Mandat findet, ersucht sie im Grundsatz die zuständige Berufsbeistandschaft, ihr eine Person vorzuschlagen, die über die notwendigen Fähigkeiten und spezifischen Kenntnisse zur Ausübung ihrer Tätigkeit verfügt.
 
 <sup>3</sup> …
 
@@ -1151,7 +1262,7 @@ Die letztwilligen Verfügungen sowie die Erbverträge werden einerseits der kant
 
 **Ordentliche erstinstanzliche Behörde**
 
-<sup>1</sup> Die ordentliche Schutzbehörde ist eine kommunale oder interkommunale Behörde (Art. 13 und 14).
+<sup>1</sup> Die ordentliche Schutzbehörde ist eine kantonale Behörde (Art. 13).
 
 <sup>2</sup> …
 
@@ -1245,6 +1356,18 @@ Die letztwilligen Verfügungen sowie die Erbverträge werden einerseits der kant
 
 <sup>3</sup> Diese Rechtsmittelwege gelten in analoger Weise für den Kindesschutz.
 
+#### Art. 114a
+
+**Mitwirkungspflicht**
+
+<sup>1</sup> Das Kantonsgericht meldet der administrativen Aufsichtsbehörde die rechtskräftigen Entscheide, die es im Bereich des Kindes- und Erwachsenenschutzes fällt, in nicht anonymisierter Form.
+
+<sup>2</sup> Von der Meldepflicht nach Absatz 1 sind ausgenommen:
+
+- a) Zwischenentscheide, einschliesslich solche betreffend die unentgeltliche Rechtspflege;
+- b) Nichteintretensentscheide;
+- c) Abschreibungsentscheide.
+
 ### 1.3.2.2.6
 
 #### Art. 115
@@ -1277,6 +1400,12 @@ Die letztwilligen Verfügungen sowie die Erbverträge werden einerseits der kant
 <sup>1</sup> Der Gerichtsstand für Beschwerden nach Artikel 419 ZGB befindet sich am Sitz der Schutzbehörde.
 
 <sup>2</sup> Der Gerichtsstand für Beschwerden nach Artikel 445 Absatz 3 und 450 Absatz 1 ZGB befindet sich am Sitz des Kantonsgerichts.
+
+#### Art. 116c
+
+**Amtshilfe**
+
+<sup>1</sup> Die kantonalen und kommunalen Verwaltungsbehörden und die Gerichte sind verpflichtet, der Schutzbehörde die erforderlichen Dokumente kostenlos zur Verfügung zu stellen und die notwendigen Informationen zu verschaffen, soweit nicht schutzwürdige Interessen entgegenstehen.
 
 ### 1.3.2.2.6a Verfahren vor der Kindes- und Erwachsenenschutzbehörde
 
