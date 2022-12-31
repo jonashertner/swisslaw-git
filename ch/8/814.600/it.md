@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2022-04-01
+version: 2023-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 1° aprile 2022)
+del 4 dicembre 2015 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -240,6 +240,16 @@ I rifiuti biogeni devono essere riciclati esclusivamente come materiale oppure m
 - c. il loro riciclaggio non sia vietato da altre prescrizioni del diritto federale.
 
 <sup>2</sup> I rifiuti biogeni che non devono essere riciclati secondo quanto disposto nel capoverso 1 devono essere avviati, ove possibile e opportuno, al recupero energetico o sottoposti a trattamento termico in impianti idonei. In tale contesto, ne deve essere sfruttato il contenuto energetico.
+
+#### Art. 14a
+
+**Rifiuti di legno**[^14a-1]
+
+<sup>1</sup> I rifiuti di legno che soddisfano i requisiti di cui all’allegato 7 numero 1 possono essere impiegati per essere riciclati nei materiali legnosi.
+
+<sup>2</sup> I rifiuti di legno che soddisfano i requisiti di cui all’allegato 7 numero 2 possono essere valorizzati termicamente negli impianti a combustione alimentati con legname di scarto.
+
+[^14a-1]: Introdotto dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
 
 #### Art. 15
 
@@ -845,7 +855,7 @@ Il tenore di diossine (PCDD) e furani (PCDF) nei residui prodotti dal trattament
 
 La presente ordinanza entra in vigore il 1° gennaio 2016.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 6 cpv. 1 e 27 cpv. 1)
 
@@ -855,7 +865,7 @@ Allegato 1*[^t-1]*
 
 <table>
 <tr><th>Codice</th><th>Descrizione del rifiuto</th></tr>
-<tr><td></td><td>**Categoria 1: rifiuti chimici**</td></tr>
+<tr><td></td><td>Categoria 1: rifiuti chimici</td></tr>
 <tr><td>1101</td><td>Solventi non alogenati</td></tr>
 <tr><td>1102</td><td>Solventi alogenati</td></tr>
 <tr><td>1103</td><td>Residui di reazione chimici</td></tr>
@@ -878,20 +888,20 @@ Allegato 1*[^t-1]*
 <tr><td>1120</td><td>Biocidi, prodotti per la protezione del legno e prodotti chimici analoghi</td></tr>
 <tr><td>1121</td><td>Altri rifiuti chimici speciali</td></tr>
 <tr><td>1301</td><td>Altri prodotti chimici non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Categoria 2: rifiuti sanitari**</td></tr>
+<tr><td></td><td>Categoria 2: rifiuti sanitari</td></tr>
 <tr><td>2101</td><td>Rifiuti infettivi e a rischio di contaminazione</td></tr>
 <tr><td>2102</td><td>Medicamenti scaduti e rifiuti farmaceutici solidi</td></tr>
 <tr><td>2103</td><td>Rifiuti sanitari con pericolo di lesione</td></tr>
 <tr><td>2104</td><td>Rifiuti non infettivi provenienti dal settore sanitario</td></tr>
 <tr><td>2301</td><td>Rifiuti sanitari non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Categoria 3: rifiuti metallici**</td></tr>
+<tr><td></td><td>Categoria 3: rifiuti metallici</td></tr>
 <tr><td>3101</td><td>Cavi usati contenenti sostanze pericolose</td></tr>
 <tr><td>3102</td><td>Altri rifiuti metallici speciali</td></tr>
 <tr><td>3201</td><td>Cavi usati</td></tr>
 <tr><td>3202</td><td>Residui di rottame metallico e materiale raccolto sui veicoli di trasporto</td></tr>
 <tr><td>3301</td><td>Metalli provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>3302</td><td>Rifiuti metallici non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Categoria 4: rifiuti minerali**</td></tr>
+<tr><td></td><td>Categoria 4: rifiuti minerali</td></tr>
 <tr><td>4101</td><td>Materiale di scavo inquinato da sostanze pericolose</td></tr>
 <tr><td>4102</td><td>Asfalto di demolizione con un tenore di oltre 1000 mg PAH al kg</td></tr>
 <tr><td>4103</td><td>Rifiuti edili misti contenenti sostanze pericolose</td></tr>
@@ -913,7 +923,7 @@ Allegato 1*[^t-1]*
 <tr><td>4309</td><td>Rifiuti di vetro provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>4310</td><td>Altri rifiuti di vetro non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
 <tr><td>4311</td><td>Altri rifiuti minerali non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Categoria 5: impianti, macchine, veicoli e accessori nonché apparecchiature elettriche ed elettroniche**</td></tr>
+<tr><td></td><td>Categoria 5: impianti, macchine, veicoli e accessori nonché apparecchiature elettriche ed elettroniche</td></tr>
 <tr><td>5101</td><td>Batterie al piombo e accumulatori al piombo</td></tr>
 <tr><td>5102</td><td>Altre batterie e accumulatori</td></tr>
 <tr><td>5103</td><td>Altre componenti di apparecchiature elettriche ed elettroniche contenenti PCB</td></tr>
@@ -924,7 +934,7 @@ Allegato 1*[^t-1]*
 <tr><td>5203</td><td>Apparecchiature elettriche ed elettroniche contenenti clorofluorocarburi (CFC) parzialmente o completamente alogenati</td></tr>
 <tr><td>5204</td><td>Altre apparecchiature elettriche ed elettroniche e componenti</td></tr>
 <tr><td>5301</td><td>Componenti di apparecchiature elettriche ed elettroniche non soggette all’obbligo di controllo secondo l’OTRif</td></tr>
-<tr><td></td><td>**Categoria 6: rifiuti biogeni**</td></tr>
+<tr><td></td><td>Categoria 6: rifiuti biogeni</td></tr>
 <tr><td>6101</td><td>Rifiuti di legno problematici</td></tr>
 <tr><td>6201</td><td>Oli e grassi commestibili, esclusi quelli provenienti dalle raccolte comunali</td></tr>
 <tr><td>6202</td><td>Legno usato</td></tr>
@@ -932,7 +942,7 @@ Allegato 1*[^t-1]*
 <tr><td>6302</td><td>Scarti di legno</td></tr>
 <tr><td>6303</td><td>Rifiuti biogeni provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>6304</td><td>Rifiuti biogeni provenienti dall’agricoltura, dall’industria e dall’artigianato</td></tr>
-<tr><td></td><td>**Categoria 7: fanghi e residui di trattamento**</td></tr>
+<tr><td></td><td>Categoria 7: fanghi e residui di trattamento</td></tr>
 <tr><td>7101</td><td>Scorie e ceneri</td></tr>
 <tr><td>7102</td><td>Residui prodotti dalla depurazione dei fumi</td></tr>
 <tr><td>7103</td><td>Frazione leggera combustibile proveniente dalla frantumazione di rifiuti metallici</td></tr>
@@ -946,7 +956,7 @@ Allegato 1*[^t-1]*
 <tr><td>7302</td><td>Fanghi e residui di trattamento non soggetti all’obbligo di controllo secondo l’OTRif</td></tr>
 <tr><td>7303</td><td>Fanghi combustibili e altri residui di trattamento</td></tr>
 <tr><td>7304</td><td>Materiale fine proveniente dal trattamento di rifiuti edili</td></tr>
-<tr><td></td><td>**Categoria 8: altre** **categorie di rifiuti**</td></tr>
+<tr><td></td><td>Categoria 8: altre categorie di rifiuti</td></tr>
 <tr><td>8101</td><td>Rifiuti speciali provenienti dalla raccolta comunale e da altre raccolte</td></tr>
 <tr><td>8301</td><td>Residui della pulizia stradale</td></tr>
 <tr><td>8302</td><td>Residui di incendi</td></tr>
@@ -1150,7 +1160,7 @@ Allegato 3[^t-2]
 
 - 3 Se il materiale di scavo e di sgombero contiene sostanze per le quali non sono stati fissati valori limite, l’autorità valuta i rifiuti caso per caso conformemente alle prescrizioni della legislazione sulla protezione dell’ambiente e delle acque, con l’approvazione dell’UFAM.
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 19 cpv. 3 e 24)
 
@@ -1324,7 +1334,7 @@ Allegato 4*[^t-3]*
 - 4\.1 I detentori di impianti per la fabbricazione di clinker di cemento, cemento o calcestruzzo devono provare che sono soddisfatti i requisiti di cui ai numeri 1–3. In tale contesto, previa approvazione dell’autorità, possono limitare le analisi chimiche alle sostanze per le quali non è esclusa una contaminazione a causa del tipo e della provenienza dei rifiuti.
 - 4\.2 Se i rifiuti contengono sostanze pericolose per l’ambiente per le quali i numeri 1–3 non contemplano valori limite, previa approvazione dell’UFAM l’autorità li stabilisce per il singolo caso conformemente alle prescrizioni della legislazione sulla protezione dell’ambiente e delle acque.
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 19 cpv. 3, 25 cpv. 1, 39 cpv. 2 e 40 cpv. 3)
 
@@ -1627,3 +1637,54 @@ Gli atti normativi qui appresso sono modificati come segue:
 ...[^annex6-lvlu1-1]
 
 [^annex6-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891).
+
+Allegato 7[^t-5]
+
+(art. 14*a*)
+
+## Requisiti dei rifiuti di legno destinati al riciclaggio e alla valorizzazione termica
+
+[^t-5]: Introdotto dal n. II dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+
+### 1 Riciclaggio dei rifiuti di legno
+
+I rifiuti di legno possono essere impiegati per la valorizzazione materiale in materiali legnosi se non sono superati i valori limite seguenti (tenori totali):
+
+<table>
+<tr><th>Sostanza</th><th>Valore limite in mg/kg di sostanza secca</th></tr>
+<tr><td>Arsenico</td><td>2</td></tr>
+<tr><td>Piombo</td><td>30</td></tr>
+<tr><td>Cadmio</td><td>2</td></tr>
+<tr><td>Cromo</td><td>30</td></tr>
+<tr><td>Rame</td><td>20</td></tr>
+<tr><td>Mercurio</td><td>0,4</td></tr>
+<tr><td>Cloro</td><td>600</td></tr>
+<tr><td>Fluoro</td><td>100</td></tr>
+<tr><td>Zinco</td><td>400</td></tr>
+<tr><td>Pentaclorofenolo (PCP)</td><td>3</td></tr>
+<tr><td>Bifenili policlorurati (PCB)\*</td><td>3</td></tr>
+<tr><td>Idrocarburi aromatici policiclici (PAH)\*\*</td><td>25</td></tr>
+<tr><td colspan="2">\* ∑6 congeneri × 4,3 (n. IUPAC): 28, 52, 101, 138, 153, 180</td></tr>
+<tr><td colspan="2">\*\* ∑16 PAH EPA: naftalina, acenaftene, 1,2-diidroacenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo[*a*]antracene, crisene, benzo[*a*]pirene, benzo[*b*]fluorantene, benzo[*k*]fluorantene, dibenzo[*a,h*]antracene, benzo[*g,h,i*]perilene, indeno[1,2,3-*c,d*]pirene</td></tr>
+</table>
+
+### 2 Valorizzazione termica dei rifiuti di legno
+
+I rifiuti di legno possono essere valorizzati termicamente negli impianti a combustione alimentati con legname di scarto se non sono superati i valori limite seguenti (tenori totali):
+
+<table>
+<tr><th>Sostanza</th><th>Valore limite in mg/kg di sostanza secca</th></tr>
+<tr><td>Arsenico</td><td>5</td></tr>
+<tr><td>Piombo</td><td>500</td></tr>
+<tr><td>Cadmio</td><td>5</td></tr>
+<tr><td>Cromo</td><td>100</td></tr>
+<tr><td>Rame</td><td>100</td></tr>
+<tr><td>Mercurio</td><td>1</td></tr>
+<tr><td>Cloro</td><td>5 000</td></tr>
+<tr><td>Fluoro</td><td>200</td></tr>
+<tr><td>Zinco</td><td>1 000</td></tr>
+<tr><td>Pentaclorofenolo (PCP)</td><td>5</td></tr>
+<tr><td>Bifenili policlorurati (PCB)\*</td><td>5</td></tr>
+<tr><td>Idrocarburi aromatici policiclici (PAH)\*\*</td><td>50</td></tr>
+<tr><td colspan="2">\*, \*\* Cfr. le spiegazioni al numero 1</td></tr>
+</table>

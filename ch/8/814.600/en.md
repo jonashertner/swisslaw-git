@@ -4,11 +4,11 @@ title: "Ordinance of 4 December 2015 on the Avoidance and the Disposal of Waste 
 short: ADWO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: en
-version: 2022-04-01
+version: 2023-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220401/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waste Ordinance, ADWO)
 
-of 4 December 2015 (Status as of 1 April 2022)
+of 4 December 2015 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -242,6 +242,16 @@ Biogenic waste must be recovered solely by recycling or by fermentation, provide
 - c. recovery is not prohibited by other provisions of federal law.
 
 <sup>2</sup> Biogenic waste that need not be recovered in accordance with paragraph 1 must as far as possible and reasonable simply be recovered for energy or incinerated in appropriate facilities. In doing so, its energy content must be used.
+
+#### Art. 14a
+
+**Wood waste**[^14a-1]
+
+<sup>1</sup> Wood waste that meets the requirements of Annex 7 number 1 may be used for recycling as composite wood.
+
+<sup>2</sup> Wood waste, that meets the requirements of Annex 7 number 2 may be thermally recycled in waste wood furnaces.
+
+[^14a-1]: Inserted by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
 
 #### Art. 15
 
@@ -851,7 +861,7 @@ Residues from the incineration of waste shall have as low a content of dioxins (
 
 This Ordinance comes into force on 1 January 2016.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 6 para. 1 and 27 para. 1)
 
@@ -1080,7 +1090,7 @@ Annex 2
 - 2\.5.2 Only materials that satisfy the requirements of Annex 3 number 1 may be used for the uppermost thirds of the seal and the drainage layer. The lower layers of the seal may use materials that satisfy the requirements for deposit in the corresponding type of landfill and which are suitable for use in construction terms.
 - 2\.5.3 If measures are taken to prevent the landfill from causing harm or nuisance to the environment, implementation of the measures must be delayed until after the final closure of the surface if this is necessary to ensure the stability of the closed surface. Until then, appropriate measures must be taken to prevent erosion.
 
-Annex 3*[^t-2]*
+Annex 3[^t-2]
 
 (Art. 17 para. 1 and 19)
 
@@ -1121,7 +1131,7 @@ Annex 3*[^t-2]*
 <tr><td colspan="2">\*\* ∑6 congeners × 4.3 (IUPAC No): 28, 52, 101, 138, 153, 180</td></tr>
 <tr><td colspan="2">\*\*\* ∑C<sub>5</sub>- bis C<sub>10</sub>-hydrocarbons: area of FID chromatogram between *n*-pentane and *n*-decane multiplied by the response factor of *n*-hexane, minus ∑BTEX</td></tr>
 <tr><td colspan="2">\*\*\*\* ∑6BTEX: benzene, toluene, ethyl benzene, *o*-xylene, *m*-xylene, *p*-xylene</td></tr>
-<tr><td colspan="2">\*\*\*\*\* ∑16 EPA-PAH: naphthalene, acenaphthylene, 1,2-dihydroacenaphthylene, fluorene, phenanthrenw, anthracene, fluoranthene, pyrene, benz[*a*]anthracene, chrysene, benzo[*a*]pyrene, benzo[*b*]fluoranthene, benzo[*k]*fluoranthene, dibenz[*a,h*]anthracene, benzo[*g,h,i*]perylene, and indeno[1,2,3-*c,d*]pyrene</td></tr>
+<tr><td colspan="2">\*\*\*\*\* ∑16 EPA-PAH: naphthalene, acenaphthylene, 1,2-dihydroacenaphthylene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benz[*a*]anthracene, chrysene, benzo[*a*]pyrene, benzo[*b*]fluoranthene, benzo[*k]*fluoranthene, dibenz[*a,h*]anthracene, benzo[*g,h,i*]perylene, and indeno[1,2,3-*c,d*]pyrene</td></tr>
 </table>
 
 - 2
@@ -1158,7 +1168,7 @@ Annex 3*[^t-2]*
 
 - 3 If no limit values have been set for substances detected in the excavated material, the authority shall assess the waste with the FOEN’s consent in the specific case in accordance with the regulations on environmental and waters protection legislation.
 
-Annex 4*[^t-3]*
+Annex 4[^t-3]
 
 (Art. 19 para. 3 and 24)
 
@@ -1171,7 +1181,7 @@ Annex 4*[^t-3]*
 - 1\.1 Waste may be used as a raw material in the production of cement clinker if the following limit values (total content) are not exceeded and the cement clinker produced satisfies the requirements of number 1.6:
 
 <table>
-<tr><td>Substance</td><td>limit in mg/kg of dry matter</td></tr>
+<tr><td>Substance</td><td>Limit value in mg/kg of dry matter</td></tr>
 <tr><td>Antimony</td><td>30</td></tr>
 <tr><td>Arsenic</td><td>30</td></tr>
 <tr><td>Lead</td><td>500</td></tr>
@@ -1197,7 +1207,7 @@ Annex 4*[^t-3]*
 <tr><td colspan="2">\*\* ∑6 congeners × 4.3 (IUPAC No): 28, 52, 101, 138, 153, 180</td></tr>
 <tr><td colspan="2">\*\*\* ∑C<sub>5</sub>- bis C<sub>10</sub>-hydrocarbons: area of FID chromatogram between *n*-pentane and *n*-decane multiplied by the response factor of *n*-hexane, minus ∑BTEX</td></tr>
 <tr><td colspan="2">\*\*\*\* ∑6BTEX: benzene, toluene, ethyl benzene, *o*-xylene, *m*-xylene, *p*-xylene</td></tr>
-<tr><td colspan="2">\*\*\*\*\* ∑16 EPA-PAH: naphthalene, acenaphthylene, 1,2-dihydroacenaphthylene, fluorene, phenanthrenw, anthracene, fluoranthene, pyrene, benz[*a*]anthracene, chrysene, benzo[*a*]pyrene, benzo[*b*]fluoranthene, benzo[*k]*fluoranthene, dibenz[*a,h*]anthracene, benzo[*g,h,i*]perylene, and indeno[1,2,3-*c,d*]pyrene</td></tr>
+<tr><td colspan="2">\*\*\*\*\* ∑16 EPA-PAH: naphthalene, acenaphthylene, 1,2-dihydroacenaphthylene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benz[*a*]anthracene, chrysene, benzo[*a*]pyrene, benzo[*b*]fluoranthene, benzo[*k]*fluoranthene, dibenz[*a,h*]anthracene, benzo[*g,h,i*]perylene, and indeno[1,2,3-*c,d*]pyrene</td></tr>
 </table>
 
 - 1\.2 The authority may permit higher levels of organic substances in specific cases if proof is provided that appropriate measures are being taken to satisfy the requirements of the Air Pollution Control Ordinance of 16 December 1985[^annex4-lvlu1-lvl1-1] (APCO) relating to limiting emissions of the substances concerned.
@@ -1227,7 +1237,7 @@ Annex 4*[^t-3]*
 - 1\.6 The heavy metal content of cement clinker produced using waste may not exceed the following limit values (total content), or any excess is not due to human activities:
 
 <table>
-<tr><td>Substance</td><td>Limit in mg/kg</td></tr>
+<tr><td>Substance</td><td>Limit value in mg/kg</td></tr>
 <tr><td>Antimony</td><td>15</td></tr>
 <tr><td>Arsenic</td><td>15</td></tr>
 <tr><td>Lead</td><td>250</td></tr>
@@ -1261,7 +1271,7 @@ Annex 4*[^t-3]*
   - a. does not exceed not exceed the following limit values (total content):
 
 <table>
-<tr><td>Substance</td><td>Limit in mg/kg</td></tr>
+<tr><td>Substance</td><td>Limit value in mg/kg</td></tr>
 <tr><td>Antimony</td><td>300</td></tr>
 <tr><td>Arsenic</td><td>30</td></tr>
 <tr><td>Lead</td><td>500</td></tr>
@@ -1290,7 +1300,7 @@ Annex 4*[^t-3]*
   - b. the heavy metal content of the cement clinker produced does not exceed the following limit values (total content), or any excess is not due to human activities:
 
 <table>
-<tr><th>substance</th><th>limit in mg/kg</th></tr>
+<tr><th>Substance</th><th>Limit value in mg/kg</th></tr>
 <tr><td>Antimony</td><td>7.5</td></tr>
 <tr><td>Arsenic</td><td>7.5</td></tr>
 <tr><td>Lead</td><td>125</td></tr>
@@ -1331,7 +1341,7 @@ Annex 4*[^t-3]*
 - 4\.1 Proprietors of facilities producing clinker, cement or concrete must provide proof that the requirements of numbers 1–3 are being met. In doing so, they may with the consent of the authority limit chemical analyses to those substances in the case of which a contamination of waste is likely in view of the type and origin of the waste.
 - 4\.2 If waste contains substances hazardous to the environment for which there are no limit values in numbers 1–3, the authority shall specify a limit value in each individual case with the FOEN’s consent in accordance with the regulations in the environmental and waters protection legislation.
 
-Annex 5*[^t-4]*
+Annex 5[^t-4]
 
 (Art. 19 para. 3, 25 para. 1, 39 para. 2 and 40 para. 3)
 
@@ -1378,7 +1388,7 @@ Annex 5*[^t-4]*
   - f. The heavy metal content of the vitrified residues may not exceed the following limit values (total content):
 
 <table>
-<tr><th>Substance</th><th>Limit in mg/kg</th></tr>
+<tr><th>Substance</th><th>Limit value in mg/kg</th></tr>
 <tr><td>Lead</td><td>1000</td></tr>
 <tr><td>Cadmium</td><td>10</td></tr>
 <tr><td>Chromium</td><td>4000</td></tr>
@@ -1397,7 +1407,7 @@ Annex 5*[^t-4]*
   - b. it does not exceed the following limit values (total content):
 
 <table>
-<tr><th>Substance</th><th>Limit in mg/kg dry matter</th></tr>
+<tr><th>Substance</th><th>Limit value in mg/kg dry matter</th></tr>
 <tr><td>Antimony</td><td>30</td></tr>
 <tr><td>Arsenic</td><td>30</td></tr>
 <tr><td>Lead</td><td>500</td></tr>
@@ -1428,7 +1438,7 @@ Annex 5*[^t-4]*
 - d. the limit values for the substances listed in the following tables are not exceeded in the eluate of the waste. To determine this, the waste must be submitted to a leaching test over a period of 24 hours in distilled water:
 
 <table>
-<tr><th>Substance</th><th>Limit</th></tr>
+<tr><th>Substance</th><th>Limit value</th></tr>
 <tr><td>Ammonia/Ammonium</td><td>0.5 mg N/L</td></tr>
 <tr><td>Fluoride</td><td>2.0 mg/L</td></tr>
 <tr><td>Nitrite</td><td>1.0 mg/L</td></tr>
@@ -1462,7 +1472,7 @@ Annex 5*[^t-4]*
 Test 1
 
 <table>
-<tr><td>Substance</td><td>Limit</td></tr>
+<tr><td>Substance</td><td>Limit value</td></tr>
 <tr><td>Aluminium</td><td>10.0 mg/L</td></tr>
 <tr><td>Arsenic</td><td>0.1 mg/L</td></tr>
 <tr><td>Barium</td><td>5.0 mg/L</td></tr>
@@ -1480,7 +1490,7 @@ Test 1
 Test 2
 
 <table>
-<tr><th>Substance</th><th>Limit</th></tr>
+<tr><th>Substance</th><th>Limit value</th></tr>
 <tr><td>Ammonia/Ammonium</td><td>5.0 mg N/L</td></tr>
 <tr><td>Cyanide (free)</td><td>0.1 mg CN-/L</td></tr>
 <tr><td>Chromium-(VI)</td><td>0.1 mg/L</td></tr>
@@ -1497,7 +1507,7 @@ Test 2
 - 3\.4 The content in organic substances of waste in accordance with number 3.1 letters c–e may not exceed the following limit values (total content):
 
 <table>
-<tr><th>Substance</th><th colspan="2">Limit in mg/kg dry matter</th></tr>
+<tr><th>Substance</th><th colspan="2">Limit value in mg/kg of dry matter</th></tr>
 <tr><td>Volatile chlorinated hydrocarbons (CHCs)\*</td><td colspan="2">1</td></tr>
 <tr><td>Polychlorinated biphenyls (PCB)\*\*</td><td colspan="2">1</td></tr>
 <tr><td>Aliphatic hydrocarbons C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td colspan="2">10</td></tr>
@@ -1542,7 +1552,7 @@ Test 2
   - a. they do not exceed the following limit values (total content):
 
 <table>
-<tr><th>Substance</th><th colspan="2">Limit in mg/kg in dry matter</th></tr>
+<tr><th>Substance</th><th colspan="2">Limit value in mg/kg of dry matter</th></tr>
 <tr><td>Antimony</td><td colspan="2">50</td></tr>
 <tr><td>Arsenic</td><td colspan="2">50</td></tr>
 <tr><td>Lead</td><td colspan="2">2 000</td></tr>
@@ -1590,7 +1600,7 @@ Test 2
   - a. it does not exceed the following limit values (total content):
 
 <table>
-<tr><th>Substance</th><th>Limit in mg/kg dry matter</th></tr>
+<tr><th>Substance</th><th>Limit value in mg/kg of dry matter</th></tr>
 <tr><td>Antimony</td><td>50</td></tr>
 <tr><td>Arsenic</td><td>50</td></tr>
 <tr><td>Lead</td><td>2 000</td></tr>
@@ -1635,3 +1645,54 @@ The following enactments are amended as follows:
 ...[^annex6-lvlu1-1]
 
 [^annex6-lvlu1-1]: The amendments may be consulted under [AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891).
+
+Annex 7[^t-5]
+
+(Art. 14*a*)
+
+## Requirements for the recycling and thermal recycling of wood waste
+
+[^t-5]: Inserted by No II of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+
+### 1 Recycling of wood waste
+
+Wood waste may be recycled as composite wood provided the following limit values (total content) are not exceeded:
+
+<table>
+<tr><th>Substance</th><th>Limit value in mg/kg of dry matter</th></tr>
+<tr><td>Arsenic</td><td>2</td></tr>
+<tr><td>Lead</td><td>30</td></tr>
+<tr><td>Cadmium</td><td>2</td></tr>
+<tr><td>Chromium</td><td>30</td></tr>
+<tr><td>Copper</td><td>20</td></tr>
+<tr><td>Mercury</td><td>0,4</td></tr>
+<tr><td>Chlorine</td><td>600</td></tr>
+<tr><td>Fluorine</td><td>100</td></tr>
+<tr><td>Zinc</td><td>400</td></tr>
+<tr><td>Pentachlorophenol (PCP)</td><td>3</td></tr>
+<tr><td>Polychlorinated biphenyls (PCB)\*</td><td>3</td></tr>
+<tr><td>Polycyclic aromatic hydrocarbons (PAH)\*\*</td><td>25</td></tr>
+<tr><td colspan="2">\* ∑6 congeners × 4.3 (IUPAC\_Nr.): 28, 52, 101, 138, 153, 180</td></tr>
+<tr><td colspan="2">\*\* ∑16 EPA-PAH: naphthalene, acenaphthylene, 1,2-dihydroacenaphthylene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benz[*a*]anthracene, chrysene, benzo[*a*]pyrene, benzo[*b*]fluoranthene, benzo[*k]*fluoranthene, dibenz[*a,h*]anthracene, benzo[*g,h,i*]perylene, and indeno[1,2,3-*c,d*]pyrene</td></tr>
+</table>
+
+### 2 Thermal recycling of wood waste
+
+Wood waste may be thermally recycled in waste wood furnaces provided the following limit values (total content) are not exceeded:
+
+<table>
+<tr><th>Substance</th><th>Limit value in mg/kg of dry matter</th></tr>
+<tr><td>Arsenic</td><td>5</td></tr>
+<tr><td>Lead</td><td>500</td></tr>
+<tr><td>Cadmium</td><td>5</td></tr>
+<tr><td>Chromium</td><td>100</td></tr>
+<tr><td>Copper</td><td>100</td></tr>
+<tr><td>Mercury</td><td>1</td></tr>
+<tr><td>Chlorine</td><td>5 000</td></tr>
+<tr><td>Fluorine</td><td>200</td></tr>
+<tr><td>Zinc</td><td>1 000</td></tr>
+<tr><td>Pentachlorophenol (PCP)</td><td>5</td></tr>
+<tr><td>Polychlorinated biphenyls (PCB)\*</td><td>5</td></tr>
+<tr><td>Polycyclic aromatic hydrocarbons (PAK)\*\*</td><td>50</td></tr>
+<tr><td colspan="2">\*, \*\* See the explanatory notes for number 1</td></tr>
+</table>

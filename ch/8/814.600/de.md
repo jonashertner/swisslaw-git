@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2022-04-01
+version: 2023-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 1. April 2022)
+vom 4. Dezember 2015 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -240,6 +240,16 @@ Biogene Abfälle sind rein stofflich oder durch Vergären zu verwerten, sofern:
 - c. die Verwertung nicht durch andere Vorschriften des Bundesrechts untersagt ist.
 
 <sup>2</sup> Biogene Abfälle, die nicht nach Absatz 1 verwertet werden müssen, sind so weit wie möglich und sinnvoll rein energetisch zu verwerten oder in geeigneten Anlagen thermisch zu behandeln. Dabei ist deren Energiegehalt zu nutzen.
+
+#### Art. 14a
+
+**Holzabfälle**[^14a-1]
+
+<sup>1</sup> Holzabfälle, welche die Anforderungen nach Anhang 7 Ziffer 1 erfüllen, dürfen für die stoffliche Verwertung in Holzwerkstoffen eingesetzt werden.
+
+<sup>2</sup> Holzabfälle, welche die Anforderungen nach Anhang 7 Ziffer 2 erfüllen, dürfen in Altholzfeuerungen thermisch verwertet werden.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
 
 #### Art. 15
 
@@ -810,7 +820,7 @@ Filteraschen und -stäube aus der thermischen Behandlung von Holz, welches gemä
 
 **Dioxine und Furane**[^52b-1]
 
-Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist (Anhang 5 Ziffern 3.3 und 4.2). Bis zum 31. Dezember 2026 dürfen sie höchstens 3 μg Toxizitätsäquivalente (TEQ) pro kg enthalten.
+Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist (Anhang 5 Ziffern 3.3 und 4.2). Bis zum 31. Dezember 2026 dürfen sie höchstens 3 µg Toxizitätsäquivalente (TEQ) pro kg enthalten.
 
 [^52b-1]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
@@ -848,7 +858,7 @@ Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dio
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 6 Abs. 1 und 27 Abs. 1)
 
@@ -858,7 +868,7 @@ Anhang 1*[^t-1]*
 
 <table>
 <tr><th>Code</th><th>Abfallbeschreibung</th></tr>
-<tr><td></td><td>**Kategorie 1: Chemische Abfälle**</td></tr>
+<tr><td></td><td>Kategorie 1: Chemische Abfälle</td></tr>
 <tr><td>1101</td><td>Nicht halogenierte Lösungsmittel</td></tr>
 <tr><td>1102</td><td>Halogenierte Lösungsmittel</td></tr>
 <tr><td>1103</td><td>Chemische Reaktionsrückstände</td></tr>
@@ -881,20 +891,20 @@ Anhang 1*[^t-1]*
 <tr><td>1120</td><td>Biozide, Holzschutzmittel und ähnliche Chemikalien</td></tr>
 <tr><td>1121</td><td>Andere chemische Sonderabfälle</td></tr>
 <tr><td>1301</td><td>Nach VeVA nicht kontrollpflichtige chemische Abfälle</td></tr>
-<tr><td></td><td>**Kategorie 2: Medizinische Abfälle**</td></tr>
+<tr><td></td><td>Kategorie 2: Medizinische Abfälle</td></tr>
 <tr><td>2101</td><td>Kontaminationsgefährliche und infektiöse Abfälle</td></tr>
 <tr><td>2102</td><td>Altmedikamente und feste pharmazeutische Abfälle</td></tr>
 <tr><td>2103</td><td>Medizinische Abfälle mit Verletzungsgefahr</td></tr>
 <tr><td>2104</td><td>Nicht infektiöse Abfälle aus der Medizin</td></tr>
 <tr><td>2301</td><td>Nach VeVA nicht kontrollpflichtige medizinische Abfälle</td></tr>
-<tr><td></td><td>**Kategorie 3: Metallische Abfälle**</td></tr>
+<tr><td></td><td>Kategorie 3: Metallische Abfälle</td></tr>
 <tr><td>3101</td><td>Altkabel, die gefährliche Stoffe enthalten</td></tr>
 <tr><td>3102</td><td>Andere metallische Sonderabfälle</td></tr>
 <tr><td>3201</td><td>Altkabel</td></tr>
 <tr><td>3202</td><td>Schrottschutt und Wagenwischgut</td></tr>
 <tr><td>3301</td><td>Metalle aus kommunalen und übrigen Sammlungen</td></tr>
 <tr><td>3302</td><td>Nach VeVA nicht kontrollpflichtige metallische Abfälle</td></tr>
-<tr><td></td><td>**Kategorie 4: Mineralische Abfälle**</td></tr>
+<tr><td></td><td>Kategorie 4: Mineralische Abfälle</td></tr>
 <tr><td>4101</td><td>Durch gefährliche Stoffe verschmutztes Aushubmaterial</td></tr>
 <tr><td>4102</td><td>Ausbauasphalt mit einem Gehalt von mehr als 1000 mg PAK pro kg</td></tr>
 <tr><td>4103</td><td>Gemischte Bauabfälle, die gefährliche Stoffe enthalten</td></tr>
@@ -916,7 +926,7 @@ Anhang 1*[^t-1]*
 <tr><td>4309</td><td>Glasabfälle aus kommunalen und übrigen Sammlungen</td></tr>
 <tr><td>4310</td><td>Andere nach VeVA nicht kontrollpflichtige Glasabfälle</td></tr>
 <tr><td>4311</td><td>Andere nach VeVA nicht kontrollpflichtige mineralische Abfälle</td></tr>
-<tr><td></td><td>**Kategorie 5: Anlagen, Maschinen, Fahrzeuge und Zubehör sowie Elektro- und Elektronikgeräte**</td></tr>
+<tr><td></td><td>Kategorie 5: Anlagen, Maschinen, Fahrzeuge und Zubehör sowie Elektro- und Elektronikgeräte</td></tr>
 <tr><td>5101</td><td>Bleibatterien und Bleiakkumulatoren</td></tr>
 <tr><td>5102</td><td>Andere Batterien und Akkumulatoren</td></tr>
 <tr><td>5103</td><td>PCB-haltige Bestandteile aus Elektro-/Elektronikgeräten</td></tr>
@@ -927,7 +937,7 @@ Anhang 1*[^t-1]*
 <tr><td>5203</td><td>Elektro-/Elektronikgeräte, die teil- oder vollhalogenierte Fluorchlorkohlenwasserstoffe (FCKW) enthalten</td></tr>
 <tr><td>5204</td><td>Andere Elektro-/Elektronikgeräte und Bestandteile</td></tr>
 <tr><td>5301</td><td>Nach VeVA nicht kontrollpflichtige Bestandteile aus gebrauchten Elektro-/ Elektronikgeräten</td></tr>
-<tr><td></td><td>**Kategorie 6: Biogene Abfälle**</td></tr>
+<tr><td></td><td>Kategorie 6: Biogene Abfälle</td></tr>
 <tr><td>6101</td><td>problematische Holzabfälle</td></tr>
 <tr><td>6201</td><td>Speiseöle und –fette ohne diejenigen, die aus kommunalen Sammlungen stammen</td></tr>
 <tr><td>6202</td><td>Altholz</td></tr>
@@ -935,7 +945,7 @@ Anhang 1*[^t-1]*
 <tr><td>6302</td><td>Restholz</td></tr>
 <tr><td>6303</td><td>Biogene Abfälle aus kommunalen und übrigen Sammlungen</td></tr>
 <tr><td>6304</td><td>Biogene Abfälle aus Landwirtschaft, Industrie und Gewerbe</td></tr>
-<tr><td></td><td>**Kategorie 7: Schlämme und Behandlungsrückstände**</td></tr>
+<tr><td></td><td>Kategorie 7: Schlämme und Behandlungsrückstände</td></tr>
 <tr><td>7101</td><td>Schlacken und Aschen</td></tr>
 <tr><td>7102</td><td>Rauchgasreinigungs-Rückstände</td></tr>
 <tr><td>7103</td><td>Brennbare Leichtfraktion aus der Zerkleinerung metallhaltiger Abfälle</td></tr>
@@ -949,7 +959,7 @@ Anhang 1*[^t-1]*
 <tr><td>7302</td><td>Nach VeVA nicht kontrollpflichtige Schlämme und Behandlungsrückstände</td></tr>
 <tr><td>7303</td><td>Brennbare Schlämme und Behandlungsrückstände</td></tr>
 <tr><td>7304</td><td>Feinmaterial aus der Bauschuttaufbereitung</td></tr>
-<tr><td></td><td>**Kategorie 8: Weitere Abfallkategorien**</td></tr>
+<tr><td></td><td>Kategorie 8: Weitere Abfallkategorien</td></tr>
 <tr><td>8101</td><td>Sonderabfälle aus der kommunalen Sammlung</td></tr>
 <tr><td>8301</td><td>Strassenwischgut</td></tr>
 <tr><td>8302</td><td>Brandschutt</td></tr>
@@ -1077,7 +1087,7 @@ Anhang 2
 - 2\.5.2 Für das oberste Drittel der abdichtenden Massnahmen und die Entwässerungsschicht darf nur Material verwendet werden, das die Anforderungen nach Anhang 3 Ziffer 1 einhält. Für darunterliegende Schichten von abdichtenden Massnahmen darf Material verwendet werden, das die Anforderungen zur Ablagerung auf dem entsprechenden Deponietyp erfüllt und sich für die Massnahme bautechnisch eignet.
 - 2\.5.3 Werden Massnahmen zur Verhinderung möglicher schädlicher oder lästiger Einwirkungen von Deponien auf die Umwelt getroffen, so muss für den endgültigen Oberflächenabschluss die Umsetzung der Massnahmen abgewartet werden, soweit dies für die Sicherstellung der Stabilität des Oberflächenabschlusses notwendig ist. Bis dahin muss Erosion mit geeigneten Massnahmen verhindert werden.
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 17 Abs. 1 und 19)
 
@@ -1114,11 +1124,11 @@ Anhang 3*[^t-2]*
 <tr><td>Benzol</td><td>0,1</td></tr>
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td>3</td></tr>
 <tr><td>Benzo[*a*]pyren</td><td>0,3</td></tr>
-<tr><td colspan="2">\* ∑7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, *cis*-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Perchlorethylen (Per)</td></tr>
-<tr><td colspan="2">\*\* ∑6 Kongenere × 4.3 (IUPAC-Nr.): 28, 52, 101, 138, 153, 180</td></tr>
-<tr><td colspan="2">\*\*\* ∑C<sub>5</sub>- bis C<sub>10</sub>-KW: Fläche FID-Chromatogramm zwischen *n*-Pentan und *n*-Decan, multipliziert mit dem Response Faktor von *n*-Hexan, minus ∑BTEX</td></tr>
-<tr><td colspan="2">\*\*\*\* ∑6BTEX: Benzol, Toluol, Ethylbenzol, *o*-Xylol, *m*-Xylol, *p*-Xylol</td></tr>
-<tr><td colspan="2">\*\*\*\*\* ∑16 EPA-PAK: Naphthalin, Acenaphthylen, 1,2-Dihydroacenaphthylen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[*a*]anthracen, Chrysen, Benzo[*a*]pyren, Benzo[*b*]fluoranthen, Benzo[*k]*fluoranthen, Dibenz[*a,h*]anthracen, Benzo[*g,h,i*]perylen, Indeno[1,2,3-*c,d*]pyren</td></tr>
+<tr><td colspan="2">\* Σ7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, *cis*-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Perchlorethylen (Per)</td></tr>
+<tr><td colspan="2">\*\* Σ6 Kongenere × 4.3 (IUPAC-Nr.): 28, 52, 101, 138, 153, 180</td></tr>
+<tr><td colspan="2">\*\*\* ΣC<sub>5</sub>- bis C<sub>10</sub>-KW: Fläche FID-Chromatogramm zwischen *n*-Pentan und *n*-Decan, multipliziert mit dem Response Faktor von *n*-Hexan, minus ΣBTEX</td></tr>
+<tr><td colspan="2">\*\*\*\* Σ6BTEX: Benzol, Toluol, Ethylbenzol, *o*-Xylol, *m*-Xylol, *p*-Xylol</td></tr>
+<tr><td colspan="2">\*\*\*\*\* Σ16 EPA-PAK: Naphthalin, Acenaphthylen, 1,2-Dihydroacenaphthylen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[*a*]anthracen, Chrysen, Benzo[*a*]pyren, Benzo[*b*]fluoranthen, Benzo[*k]*fluoranthen, Dibenz[*a,h*]anthracen, Benzo[*g,h,i*]perylen, Indeno[1,2,3-*c,d*]pyren</td></tr>
 </table>
 
 - 2
@@ -1155,7 +1165,7 @@ Anhang 3*[^t-2]*
 
 - 3 Sind für Stoffe, die im Aushub- und Ausbruchmaterial festgestellt werden, keine Grenzwerte festgelegt, so beurteilt die Behörde die Abfälle mit Zustimmung des BAFU im Einzelfall nach den Vorschriften der Umwelt- und Gewässerschutzgesetzgebung.
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 19 Abs. 3 und 24)
 
@@ -1190,11 +1200,11 @@ Anhang 4*[^t-3]*
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td>250</td></tr>
 <tr><td>Benzo[*a*]pyren</td><td>10</td></tr>
 <tr><td>Gesamter organischer Kohlenstoff (TOC)</td><td>50 000</td></tr>
-<tr><td colspan="2">\* ∑7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, *cis*-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Perchlorethylen (Per)</td></tr>
-<tr><td colspan="2">\*\* ∑6 Kongenere × 4.3 (IUPAC\_Nr.): 28, 52, 101, 138, 153, 180</td></tr>
-<tr><td colspan="2">\*\*\* ∑C<sub>5</sub>- bis C<sub>10</sub>-KW: Fläche FID-Chromatogramm zwischen *n*-Pentan und *n*-Decan, multipliziert mit dem Response Faktor von *n*-Hexan, minus ∑BTEX</td></tr>
-<tr><td colspan="2">\*\*\*\* ∑6BTEX: Benzol, Toluol, Ethylbenzol, *o*-Xylol, *m*-Xylol, *p*-Xylol</td></tr>
-<tr><td colspan="2">\*\*\*\*\* ∑16 EPA-PAK: Naphthalin, Acenaphthylen, 1,2-Dihydroacenaphthylen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[*a*]anthracen, Chrysen, Benzo[*a*]pyren, Benzo[*b*]fluoranthen, Benzo[*k*]fluoranthen, Dibenz[*a,h*]anthracen, Benzo[*g,h,i*]perylen, Indeno[1,2,3-*c,d*]pyren</td></tr>
+<tr><td colspan="2">\* Σ7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, *cis*-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Perchlorethylen (Per)</td></tr>
+<tr><td colspan="2">\*\* Σ6 Kongenere × 4.3 (IUPAC\_Nr.): 28, 52, 101, 138, 153, 180</td></tr>
+<tr><td colspan="2">\*\*\* ΣC<sub>5</sub>- bis C<sub>10</sub>-KW: Fläche FID-Chromatogramm zwischen *n*-Pentan und *n*-Decan, multipliziert mit dem Response Faktor von *n*-Hexan, minus ΣBTEX</td></tr>
+<tr><td colspan="2">\*\*\*\* Σ6BTEX: Benzol, Toluol, Ethylbenzol, *o*-Xylol, *m*-Xylol, *p*-Xylol</td></tr>
+<tr><td colspan="2">\*\*\*\*\* Σ16 EPA-PAK: Naphthalin, Acenaphthylen, 1,2-Dihydroacenaphthylen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[*a*]anthracen, Chrysen, Benzo[*a*]pyren, Benzo[*b*]fluoranthen, Benzo[*k*]fluoranthen, Dibenz[*a,h*]anthracen, Benzo[*g,h,i*]perylen, Indeno[1,2,3-*c,d*]pyren</td></tr>
 </table>
 
 - 1\.2 Die Behörde kann im Einzelfall höhere Gehalte an organischen Stoffen zulassen, wenn nachgewiesen ist, dass mit geeigneten Massnahmen die Anforderungen der Luftreinhalte-Verordnung vom 16. Dezember 1985[^annex4-lvlu1-lvl1-1] (LRV) an die Emissionsbegrenzung der betroffenen Stoffe eingehalten werden.
@@ -1273,7 +1283,7 @@ Anhang 4*[^t-3]*
 <tr><td>Zinn</td><td>100</td></tr>
 <tr><td>Polychlorierte Biphenyle (PCB)\*</td><td>10</td></tr>
 <tr><td>Halogenierte organische Stoffe, als Chlorid</td><td>10 000</td></tr>
-<tr><td colspan="2">\* ∑6 Kongenere × 4.3 (IUPAC\_Nr.): 28, 52, 101, 138, 153, 180</td></tr>
+<tr><td colspan="2">\* Σ6 Kongenere × 4.3 (IUPAC\_Nr.): 28, 52, 101, 138, 153, 180</td></tr>
 </table>
 
 - b. keine medizinischen Abfälle enthalten;
@@ -1328,7 +1338,7 @@ Anhang 4*[^t-3]*
 - 4\.1 Inhaberinnen und Inhaber von Anlagen zur Herstellung von Klinker, Zement oder Beton müssen nachweisen, dass die Anforderungen nach den Ziffern 1–3 eingehalten werden. Dabei können sie mit Zustimmung der Behörde die chemischen Analysen auf diejenigen Stoffe beschränken, bei denen aufgrund der Art und Herkunft der Abfälle mit einer Belastung zu rechnen ist.
 - 4\.2 Enthalten Abfälle umweltgefährdende Stoffe, für welche die Ziffern 1–3 keine Grenzwerte enthalten, legt die Behörde solche mit Zustimmung des BAFU im Einzelfall nach den Vorschriften der Umwelt- und Gewässerschutzgesetzgebung fest.
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
 (Art. 19 Abs. 3, 25 Abs. 1, 39 Abs. 2 und 40 Abs. 3)
 
@@ -1413,11 +1423,11 @@ Anhang 5*[^t-4]*
 <tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td>25</td></tr>
 <tr><td>Benzo(*a*)pyren</td><td>3</td></tr>
 <tr><td>Gesamter organischer Kohlenstoff, der bis 400 °C freigesetzt wird (TOC400)</td><td>20 000</td></tr>
-<tr><td colspan="2">\* ∑7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, *cis*-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Perchlorethylen (Per)</td></tr>
-<tr><td colspan="2">\*\* ∑6 Kongenere x 4.3 (IUPAC-Nr.): 28, 52, 101, 138, 153, 180</td></tr>
-<tr><td colspan="2">\*\*\* ∑C<sub>5</sub>- bis C<sub>10</sub>-KW: Fläche FID-Chromatogramm zwischen *n*-Pentan und *n*-Decan, multipliziert mit dem Response Faktor von *n*-Hexan, minus ∑BTEX</td></tr>
-<tr><td colspan="2">\*\*\*\* ∑6BTEX: Benzol, Toluol, Ethylbenzol, *o*-Xylol, *m*-Xylol, *p*-Xylol</td></tr>
-<tr><td colspan="2">\*\*\*\*\* ∑16 EPA-PAK: Naphthalin, 1,2 Dihydroacenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[*a*]anthracen, Chrysen, Benzo[*a*]pyren, Benzo[*b*]fluoranthen, Benzo[*k*]fluoranthen, Dibenz[*a,h*]anthracen, Benzo[*g,h,i*]perylen, Indeno[1,2,3-*c,d*]pyren</td></tr>
+<tr><td colspan="2">\* Σ7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, *cis*-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Perchlorethylen (Per)</td></tr>
+<tr><td colspan="2">\*\* Σ6 Kongenere x 4.3 (IUPAC-Nr.): 28, 52, 101, 138, 153, 180</td></tr>
+<tr><td colspan="2">\*\*\* ΣC<sub>5</sub>- bis C<sub>10</sub>-KW: Fläche FID-Chromatogramm zwischen *n*-Pentan und *n*-Decan, multipliziert mit dem Response Faktor von *n*-Hexan, minus ΣBTEX</td></tr>
+<tr><td colspan="2">\*\*\*\* Σ6BTEX: Benzol, Toluol, Ethylbenzol, *o*-Xylol, *m*-Xylol, *p*-Xylol</td></tr>
+<tr><td colspan="2">\*\*\*\*\* Σ16 EPA-PAK: Naphthalin, 1,2 Dihydroacenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[*a*]anthracen, Chrysen, Benzo[*a*]pyren, Benzo[*b*]fluoranthen, Benzo[*k*]fluoranthen, Dibenz[*a,h*]anthracen, Benzo[*g,h,i*]perylen, Indeno[1,2,3-*c,d*]pyren</td></tr>
 </table>
 
 - c. der Anteil löslicher Salze im unbehandelten Abfall 0,5 Gewichtsprozent nicht überschreitet;
@@ -1489,7 +1499,7 @@ Test 2
 <tr><td>pH-Wert</td><td>6 bis 12</td></tr>
 </table>
 
-- 3\.3 Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist, höchstens aber 1 μg Toxizitätsäquivalente (TEQ) pro kg. Die Berechnung des Gehalts erfolgt aufgrund von Toxizitätsäquivalenzfaktoren (TEF) nach dem Stand der Technik.
+- 3\.3 Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist, höchstens aber 1 µg Toxizitätsäquivalente (TEQ) pro kg. Die Berechnung des Gehalts erfolgt aufgrund von Toxizitätsäquivalenzfaktoren (TEF) nach dem Stand der Technik.
 - 3\.4 Der Organikagehalt der Abfälle nach Ziffer 3.1 Buchstaben c–e darf die folgenden Grenzwerte (Gesamtgehalte) nicht überschreiten:
 
 <table>
@@ -1523,7 +1533,7 @@ Test 2
   - g. Bett- und Rostaschen aus der thermischen Behandlung von Holz, welches gemäss Anhang 5 Ziffer 31 Absatz 2 LRV nicht als Holzbrennstoff gilt, mit einem Gehalt von höchstens 20 000 mg TOC pro kg;
   - h. nicht brennbares, mineralisches Kugelfangmaterial.
 
-- 4\.2 Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist, höchstens aber 1μg Toxizitätsäquivalente (TEQ) pro kg. Die Berechnung des Gehalts erfolgt aufgrund von Toxizitätsäquivalenzfaktoren (TEF) nach dem Stand der Technik.
+- 4\.2 Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist, höchstens aber 1µg Toxizitätsäquivalente (TEQ) pro kg. Die Berechnung des Gehalts erfolgt aufgrund von Toxizitätsäquivalenzfaktoren (TEF) nach dem Stand der Technik.
 - 4\.3
 
   Schlacke aus Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, darf auf Deponien oder Kompartimenten des Typs D abgelagert werden, wenn:
@@ -1631,3 +1641,54 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 …[^annex6-lvlu1-1]
 
 [^annex6-lvlu1-1]: Die Änderungen können unter [AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)konsultiert werden.
+
+Anhang 7[^t-5]
+
+(Art. 14*a*)
+
+## Anforderungen an Holzabfälle zur stofflichen und thermischen Verwertung
+
+[^t-5]: Eingefügt durch Ziff. II der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+
+### 1 Stoffliche Verwertung von Holzabfällen
+
+Holzabfälle dürfen zur stofflichen Verwertung in Holzwerkstoffen eingesetzt werden, wenn sie die nachfolgenden Grenzwerte (Gesamtgehalte) nicht überschreiten:
+
+<table>
+<tr><th>Stoff</th><th>Grenzwert in mg/kg Trockensubstanz</th></tr>
+<tr><td>Arsen</td><td>2</td></tr>
+<tr><td>Blei</td><td>30</td></tr>
+<tr><td>Cadmium</td><td>2</td></tr>
+<tr><td>Chrom</td><td>30</td></tr>
+<tr><td>Kupfer</td><td>20</td></tr>
+<tr><td>Quecksilber</td><td>0,4</td></tr>
+<tr><td>Chlor</td><td>600</td></tr>
+<tr><td>Fluor</td><td>100</td></tr>
+<tr><td>Zink</td><td>400</td></tr>
+<tr><td>Pentachlorphenol (PCP)</td><td>3</td></tr>
+<tr><td>Polychlorierte Biphenyle (PCB)\*</td><td>3</td></tr>
+<tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*</td><td>25</td></tr>
+<tr><td colspan="2">\* ∑6 Kongenere × 4.3 (IUPAC\_Nr.): 28, 52, 101, 138, 153, 180</td></tr>
+<tr><td colspan="2">\*\* ∑16 EPA-PAK: Naphthalin, Acenaphthylen, 1,2-Dihydroacenaphthylen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[*a*]anthracen, Chrysen, Benzo[*a*]pyren, Benzo[*b*]fluoranthen, Benzo[*k*]fluoranthen, Dibenz[*a,h*]anthracen, Benzo[*g,h,i*]perylen, Indeno[1,2,3-*c,d*]pyren</td></tr>
+</table>
+
+### 2 Thermische Verwertung von Holzabfällen
+
+Holzabfälle dürfen in Altholzfeuerungen thermisch verwertet werden, wenn sie die nachfolgenden Grenzwerte (Gesamtgehalte) nicht überschreiten:
+
+<table>
+<tr><th>Stoff</th><th>Grenzwert in mg/kg Trockensubstanz</th></tr>
+<tr><td>Arsen</td><td>5</td></tr>
+<tr><td>Blei</td><td>500</td></tr>
+<tr><td>Cadmium</td><td>5</td></tr>
+<tr><td>Chrom</td><td>100</td></tr>
+<tr><td>Kupfer</td><td>100</td></tr>
+<tr><td>Quecksilber</td><td>1</td></tr>
+<tr><td>Chlor</td><td>5 000</td></tr>
+<tr><td>Fluor</td><td>200</td></tr>
+<tr><td>Zink</td><td>1 000</td></tr>
+<tr><td>Pentachlorphenol (PCP)</td><td>5</td></tr>
+<tr><td>Polychlorierte Biphenyle (PCB)\*</td><td>5</td></tr>
+<tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*</td><td>50</td></tr>
+<tr><td colspan="2">\*, \*\* Gemäss Erläuterungen zu Ziffer 1</td></tr>
+</table>

@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2022-04-01
+version: 2023-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20220401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20220401/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (Etat le 1<sup>er</sup> avril 2022)
+du 4 décembre 2015 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -74,7 +74,7 @@ Au sens de la présente ordonnance, on entend par:
   - 3\. mercure ou composés du mercure qui ne sont plus requis dans le cadre de processus industriels;
 
 - g. *installations d’élimination des déchets**:* les installations où des déchets sont traités, valorisés ou stockés définitivement ou provisoirement; sont exceptés les sites de prélèvement de matériaux où les matériaux d’excavation et de percement sont valorisés;
-- h.[^3-5] ...
+- h.[^3-5] …
 - i. *installations de compostage:* les installations d’élimination des déchets où des biodéchets sont décomposés en milieu aérobie;
 - j. *installations de méthanisation:* les installations d’élimination des déchets où des biodéchets sont fermentés en milieu anaérobie;
 - k. *décharges:* les installations d’élimination des déchets où des déchets sont stockés définitivement et sous surveillance;
@@ -239,6 +239,16 @@ Les biodéchets doivent faire l’objet d’une valorisation matière ou d’une
 - c. que leur valorisation ne soit pas interdite par d’autres dispositions du droit fédéral.
 
 <sup>2</sup> Les biodéchets qui ne doivent pas être valorisés selon l’al. 1 doivent, dans la mesure de ce qui est possible et judicieux, faire l’objet d’une valorisation purement énergétique ou d’un traitement thermique dans des installations appropriées. Il convient ce faisant d’exploiter leur potentiel énergétique.
+
+#### Art. 14a
+
+**Déchets de bois**[^14a-1]
+
+<sup>1</sup> Les déchets de bois qui satisfont aux exigences de l’annexe 7, ch. 1, peuvent faire l’objet d’une valorisation matière sous forme de matériaux en bois.
+
+<sup>2</sup> Les déchets de bois qui satisfont aux exigences de l’annexe 7, ch. 2, peuvent faire l’objet d’une valorisation thermique dans une installation de combustion à bois usagé.
+
+[^14a-1]: Introduit par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
 
 #### Art. 15
 
@@ -470,7 +480,7 @@ Les détenteurs d’installations d’élimination des déchets doivent:
 <sup>2</sup> Dans les décharges des types C à E et les installations de traitement thermique, il est permis de stocker provisoirement des déchets fermentescibles ou putrescibles pressés en balles.[^30-2]
 
 - [tab] <sup>3</sup> L’autorité cantonale peut exiger des détenteurs d’un dépôt provisoire une garantie financière, sous forme d’une garantie bancaire ou d’une assurance, afin de couvrir les coûts en cas de dommage.[^30-3]
-- [tab] <sup>4</sup> ...[^30-4]
+- [tab] <sup>4</sup> …[^30-4]
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^30-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
@@ -846,7 +856,7 @@ Les résidus du traitement thermique des déchets doivent contenir aussi peu de 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 6, al. 1, et 27, al. 1)
 
@@ -1075,7 +1085,7 @@ Annexe 2
 - 2\.5.2 Seuls des matériaux satisfaisant aux exigences de l’annexe 3, ch. 1, sont autorisés dans le tiers supérieur des mesures d’étanchéification et dans le tapis de drainage. Dans les parties inférieures des mesures d’étanchéification, il est possible d’utiliser des matériaux qui satisfont aux exigences pour le stockage dans le type de décharge concerné et qui sont appropriés sur le plan de la construction.
 - 2\.5.3 Si des mesures sont prises pour empêcher les éventuelles atteintes nuisibles ou incommodantes de la décharge à l’environnement, la fermeture définitive en surface ne doit être autorisée qu’après la mise en œuvre de ces mesures, si cela est nécessaire pour garantir sa stabilité. Jusque-là l’érosion doit être empêchée par des mesures appropriées.
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 17, al. 1, et 19)
 
@@ -1153,7 +1163,7 @@ Annexe 3*[^t-2]*
 
 - 3 Si les matériaux d’excavation et de percement contiennent des substances pour lesquelles aucune valeur limite n’a été fixée, l’autorité évalue les déchets au cas par cas avec l’accord de l’OFEV, selon les dispositions de la législation sur la protection de l’environnement et sur la protection des eaux.
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 19, al. 3, et 24)
 
@@ -1326,7 +1336,7 @@ Annexe 4*[^t-3]*
 - 4\.1 Les détenteurs d’installations de fabrication de clinker, de ciment ou de béton doivent apporter la preuve que les exigences arrêtées aux ch. 1 à 3 sont respectées. Ils peuvent, avec l’accord de l’autorité, limiter l’analyse chimique aux substances susceptibles d’être présentes dans le produit au vu du type et de l’origine des déchets utilisés.
 - 4\.2 Si des déchets contiennent des substances dangereuses pour l’environnement pour lesquelles les ch. 1 à 3 ne prévoient aucune valeur limite, l’autorité fixe, avec l’accord de l’OFEV, des valeurs au cas par cas, selon les dispositions de la législation sur la protection de l’environnement et sur la protection des eaux.
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 (art. 19, al. 3, 25, al. 1, 35, al. 1, 39, al. 2 et 40, al. 3)
 
@@ -1626,6 +1636,57 @@ Annexe 6
 
 Les actes mentionnés ci-après sont modifiés comme suit.
 
-...[^annex6-lvlu1-1]
+…[^annex6-lvlu1-1]
 
 [^annex6-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891).
+
+Annexe 7[^t-5]
+
+(art. 14*a*)
+
+## Exigences relatives aux déchets de bois destinés à une valorisation matière ou thermique
+
+[^t-5]: Introduite par le ch. II de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+
+### 1 Valorisation matière des déchets de bois
+
+Les déchets de bois peuvent faire l’objet d’une valorisation matière sous forme de matériaux en bois s’ils ne dépassent pas les valeurs limites suivantes (teneurs totales):
+
+<table>
+<tr><th>Substance</th><th>Valeur limite en mg/kg de matière sèche</th></tr>
+<tr><td>Arsenic</td><td>2</td></tr>
+<tr><td>Plomb</td><td>30</td></tr>
+<tr><td>Cadmium</td><td>2</td></tr>
+<tr><td>Chrome</td><td>30</td></tr>
+<tr><td>Cuivre</td><td>20</td></tr>
+<tr><td>Mercure</td><td>0,4</td></tr>
+<tr><td>Chlore</td><td>600</td></tr>
+<tr><td>Fluor</td><td>100</td></tr>
+<tr><td>Zinc</td><td>400</td></tr>
+<tr><td>Pentachlorophénol (PCP)</td><td>3</td></tr>
+<tr><td>Biphényles polychlorés (PCB)\*</td><td>3</td></tr>
+<tr><td>Hydocarbures aromatiques polycycliques (HAP)\*\*</td><td>25</td></tr>
+<tr><td colspan="2">\* ∑6 congénères × 4,3 (UICPA n<sup>o</sup>): 28, 52, 101, 138, 153, 180</td></tr>
+<tr><td colspan="2">\*\* ∑16 HAP selon EPA: naphtalène, acénaphthylène, 1,2-dihydroacénaphtylène, fluorène, phénanthrène, anthracène, fluoranthène, pyrène, benzo[a]anthracène, chrysène, benzo[a]pyrène, benzo[b]fluoranthène, benzo[k]fluoranthène, dibenzo[a,h]anthracène, benzo[g,h,i]pérylène, indéno[1,2,3-c,d]pyrène</td></tr>
+</table>
+
+### 2 Valorisation thermique des déchets de bois
+
+- [tab] Les déchets de bois peuvent faire l’objet d’une valorisation thermique dans des installations de combustion alimentées avec du bois usagé s’ils ne dépassent pas les valeurs limites suivantes (teneurs totales):
+
+<table>
+<tr><th>Substance</th><th>Valeur limite en mg/kg de matière sèche</th></tr>
+<tr><td>Arsenic</td><td>5</td></tr>
+<tr><td>Plomb</td><td>500</td></tr>
+<tr><td>Cadmium</td><td>5</td></tr>
+<tr><td>Chrome</td><td>100</td></tr>
+<tr><td>Cuivre</td><td>100</td></tr>
+<tr><td>Mercure</td><td>1</td></tr>
+<tr><td>Chlore</td><td>5000</td></tr>
+<tr><td>Fluor</td><td>200</td></tr>
+<tr><td>Zinc</td><td>1000</td></tr>
+<tr><td>Pentachlorophénol (PCP)</td><td>5</td></tr>
+<tr><td>Biphényles polychlorés (PCB)\*</td><td>5</td></tr>
+<tr><td>Hydocarbures aromatiques polycycliques (HAP)\*\*</td><td>50</td></tr>
+<tr><td colspan="2">\*, \*\* selon les explications du ch. 1</td></tr>
+</table>
