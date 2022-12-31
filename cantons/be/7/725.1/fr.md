@@ -4,13 +4,13 @@ number: "725.1"
 title: "Décret concernant la procédure d'octroi du permis de construire"
 short: DPC
 language: fr
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-03
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2024-04-29
 adopted: 1994-03-22
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/725.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2385/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3026/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2385/pdf_file"
 
 (DPC)
 
-du 22.03.1994 (état au 01.03.2022)
+du 22.03.1994 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -189,7 +189,7 @@ décrète:
 - k la dérogation au sens des articles 26 ou 28 LC, de l’article 81 de la loi du 4 juin 2008 sur les routes (LR)[^9-2] ou de l’article 62, alinéa 3 de la loi cantonale du 15 mai 2011 sur l’énergie (LCEn)[^9-3],
 - l l’approbation de l’Office fédéral des routes (OFROU) concernant les réclames situées sur le domaine des routes nationales au sens de l’article 99, alinéa 1 OSR.
 
-<sup>2</sup> La compétence d'octroyer le permis de construire passe de la petite commune au préfet ou à la préfète lorsqu'un projet requiert une étude d'impact sur l'environnement ou que sa réalisation revient à plus d'un million de francs. La Direction de l’intérieur et de la justice peut adapter ce montant à l'indice des coûts de la construction.
+<sup>2</sup> La compétence d'octroyer le permis de construire passe de la petite commune au préfet ou à la préfète lorsqu'un projet requiert une étude d'impact sur l'environnement ou que sa réalisation revient à plus de 1,4 million de francs. La Direction de l’intérieur et de la justice peut adapter ce montant à l'indice des coûts de la construction.
 
 <sup>3</sup> Si elle n'est pas manifestement compétente, la petite commune annonce au préfet ou à la préfète le dépôt de la demande de permis de construire dans les sept jours ouvrables qui suivent la réception de ces documents. Si l'affaire n'est pas du ressort de la commune, le préfet ou la préfète se déclare compétent dans un délai de sept jours ouvrables.
 
@@ -423,7 +423,7 @@ décrète:
 
 <sup>1</sup> L'autorité d'octroi du permis de construire procède à la publication de la demande. L'article 27 est réservé.
 
-<sup>2</sup> La publication a lieu dans deux numéros consécutifs de la feuille officielle d'avis. La publication dans la Feuille officielle cantonale est réservée pour les cas où la législation la prévoit.
+<sup>2</sup> La parution a lieu à deux dates consécutives de l’organe de publication officiel de la commune. La publication dans la Feuille officielle est réservée pour les cas où la législation la prévoit.
 
 <sup>3</sup> La publication contiendra
 
@@ -435,7 +435,7 @@ décrète:
 - f l'indication du lieu et de la date du dépôt du dossier, de la possibilité de faire opposition et de l'autorité auprès de laquelle celle-ci doit être déposée, du délai d'opposition ainsi que
 - g la communication du délai de péremption des prétentions à compensation des charges qui ne seraient pas annoncées à l'autorité communale dans le délai d'opposition (art. 31, 4<sup>e</sup> al., lit. a LC[^26-1]),
 - h la communication, en cas d’oppositions collectives et d’oppositions multicopiées ou en grande partie identiques, de l’obligation d’indiquer le nom de la personne autorisée à représenter valablement le groupe d’opposants,
-- i la communication selon laquelle l’autorité peut publier les décisions et les décisions sur recours dans la feuille officielle d’avis ou la feuille officielle cantonale si la notification par la poste implique des frais excessifs en raison du nombre élevé d’oppositions.
+- i la communication selon laquelle l’autorité peut faire paraître les décisions et les décisions sur recours dans la Feuille officielle ou dans l'organe de publication officiel de la commune si la notification par la poste implique des frais excessifs en raison du nombre élevé d’oppositions.
 
 [^26-1]: RSB 721.0
 

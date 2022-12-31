@@ -4,13 +4,13 @@ number: "725.1"
 title: Dekret über das Baubewilligungsverfahren
 short: "Baubewilligungsdekret, BewD"
 language: de
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-03
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2024-04-29
 adopted: 1994-03-22
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/725.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2385/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3026/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2385/pdf_file"
 
 (Baubewilligungsdekret, BewD)
 
-vom 22.03.1994 (Stand 01.03.2022)
+vom 22.03.1994 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -189,7 +189,7 @@ beschliesst:
 - k die Ausnahme nach Artikel 26 oder 28 BauG, nach Artikel 81 des Strassengesetzes vom 4. Juni 2008 (SG)[^9-3] oder nach Artikel 62 Absatz 3 des Kantonalen Energiegesetzes vom 15. Mai 2011 (KEnG)[^9-4] oder
 - l die Genehmigung des Bundesamts für Strassen (ASTRA) zu Reklamestandorten im Nationalstrassenbereich nach Artikel 99 Absatz 1 SSV.
 
-<sup>2</sup> Die Baubewilligungskompetenz der kleinen Gemeinden entfällt und die Regierungsstatthalterin oder der Regierungsstatthalter ist zuständig, wenn das Vorhaben eine Umweltverträglichkeitsprüfung erfordert oder die Baukosten eine Million Franken übersteigen. Die Direktion für Inneres und Justiz kann diesen Betrag dem Baukostenindex anpassen.
+<sup>2</sup> Die Baubewilligungskompetenz der kleinen Gemeinden entfällt und die Regierungsstatthalterin oder der Regierungsstatthalter ist zuständig, wenn das Vorhaben eine Umweltverträglichkeitsprüfung erfordert oder die Baukosten 1,4 Millionen Franken übersteigen. Die Direktion für Inneres und Justiz kann diesen Betrag dem Baukostenindex anpassen.
 
 <sup>3</sup> Ist sie nicht offensichtlich selbst zuständig, meldet die kleine Gemeinde der Regierungsstatthalterin oder dem Regierungsstatthalter innert sieben Arbeitstagen den Eingang des Baugesuchs. Ist die kleine Gemeinde nicht zuständig, erklärt sich die Regierungsstatthalterin oder der Regierungsstatthalter innert sieben Arbeitstagen für zuständig.
 
@@ -426,7 +426,7 @@ beschliesst:
 
 <sup>1</sup> Die Baubewilligungsbehörde macht das Gesuch durch Veröffentlichung bekannt. Artikel 27 bleibt vorbehalten.
 
-<sup>2</sup> Die Veröffentlichung erfolgt in zwei aufeinanderfolgenden Nummern des amtlichen Anzeigers. Vorbehalten bleibt die Veröffentlichung im Amtsblatt, wenn die Gesetzgebung dies vorsieht.
+<sup>2</sup> Die Veröffentlichung erfolgt an zwei aufeinanderfolgenden Herausgabedaten im amtlichen Publikationsorgan der Gemeinde. Vorbehalten bleibt die Veröffentlichung im Amtsblatt, wenn die Gesetzgebung dies vorsieht.
 
 <sup>3</sup> Die Veröffentlichung enthält
 
@@ -438,7 +438,7 @@ beschliesst:
 - f die Bekanntgabe von Ort und Zeit der Auflage der Gesuchsakten, der Einsprachemöglichkeit, der Einsprachestelle und der Einsprachefrist,
 - g die Androhung der Verwirkung von Lastenausgleichsansprüchen, die der Gemeindebehörde nicht innert der Einsprachefrist angemeldet werden (Art. 31 Abs. 4 Bst. a BauG),
 - h den Hinweis, dass Kollektiveinsprachen und vervielfältigte oder weitgehend identische Einsprachen anzugeben haben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten,
-- i den Hinweis, dass Verfügungen und Entscheide im amtlichen Anzeiger oder im Amtsblatt veröffentlicht werden können, wenn die Postzustellung wegen der grossen Zahl der Einsprachen mit unverhältnismässigem Aufwand verbunden wäre.
+- i den Hinweis, dass Verfügungen und Entscheide im Amtsblatt oder im amtlichen Publikationsorgan der Gemeinde veröffentlicht werden können, wenn die Postzustellung wegen der grossen Zahl der Einsprachen mit unverhältnismässigem Aufwand verbunden wäre.
 
 #### Art. 27
 
