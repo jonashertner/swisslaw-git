@@ -3,11 +3,11 @@ sr: "142.318"
 title: "Ordonnance du 1<sup>er</sup> avril 2020 sur les mesures prises dans le domaine de l'asile en raison du coronavirus (Ordonnance COVID-19 asile)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/205"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2020-04-01
 in_force: 2020-04-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/205/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-205-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/205/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/205/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-205-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/205/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/205/20220101/fr"
 
 (Ordonnance COVID-19 asile)
 
-du 1<sup>er</sup> avril 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> avril 2020 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -159,7 +159,10 @@ Dans la procédure accélérée, le délai de recours, qui commence à courir d�
 
 <sup>8</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2022.[^12-4]
 
+<sup>9</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 juin 2024.[^12-5]
+
 [^12-1]: Introduit par le ch. I de l’O du 12 juin 2020, en vigueur depuis le 7 juil. 2020 ([RO 2020 2575](https://fedlex.data.admin.ch/eli/oc/2020/473)).
 [^12-2]: Introduit par le ch. I de l’O du 26 août 2020, en vigueur depuis le 2 oct. 2020 ([RO 2020 3715](https://fedlex.data.admin.ch/eli/oc/2020/676)).
 [^12-3]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 381](https://fedlex.data.admin.ch/eli/oc/2021/381)).
 [^12-4]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 897](https://fedlex.data.admin.ch/eli/oc/2021/897)).
+[^12-5]: Introduit par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 830](https://fedlex.data.admin.ch/eli/oc/2022/830)).

@@ -3,11 +3,11 @@ sr: "142.318"
 title: Verordnung vom 1. April 2020 über Massnahmen im Asylbereich im Zusammenhang mit dem Coronavirus (Covid-19-Verordnung Asyl)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/205"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2020-04-01
 in_force: 2020-04-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/205/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-205-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/205/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/205/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2020-205-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/205/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/205/20220101/de"
 
 (Covid-19-Verordnung Asyl)[^t-1]
 
-vom 1. April 2020 (Stand am 1. Januar 2022)
+vom 1. April 2020 (Stand am 1. Januar 2023)
 
 [^t-1]: Ausdruck gemäss Ziff. I 1 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -161,7 +161,10 @@ Im beschleunigten Verfahren ist die Beschwerde gegen einen Entscheid nach Artike
 
 <sup>8</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2022 verlängert.[^12-4]
 
+<sup>9</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. Juni 2024 verlängert.[^12-5]
+
 [^12-1]: Eingefügt durch Ziff. I der V vom 12. Juni 2020, in Kraft seit 7. Juli 2020 ([AS 2020 2575](https://fedlex.data.admin.ch/eli/oc/2020/473)).
 [^12-2]: Eingefügt durch Ziff. I der V vom 26. Aug. 2020, in Kraft seit 2. Okt. 2020 ([AS 2020 3715](https://fedlex.data.admin.ch/eli/oc/2020/676)).
 [^12-3]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 381](https://fedlex.data.admin.ch/eli/oc/2021/381)).
 [^12-4]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 897](https://fedlex.data.admin.ch/eli/oc/2021/897)).
+[^12-5]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 830).
