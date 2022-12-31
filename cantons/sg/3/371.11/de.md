@@ -3,20 +3,20 @@ canton: SG
 number: "371.11"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Familienzulagen
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2017-12-05
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-27
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/371.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2349/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3404/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Familienzulagen
 
-vom 05.12.2017 (Stand 01.01.2018)
+vom 05.12.2017 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -71,10 +71,12 @@ als Verordnung:[^ingress-2]
 <sup>3</sup> Der Familienausgleichskasse für das Staatspersonal gehören an:
 
 - a) der Kanton als Arbeitgeber der Mitarbeiterinnen und Mitarbeiter von Departementen und Staatskanzlei sowie von Gerichten und anderen Justizbehörden;
-- b) Arbeitgeberinnen und Arbeitgeber, soweit diese am 27. Juni 2017 die Lohnverwaltung und die Lohnauszahlung dem Kanton übertragen haben. Wird die Lohnverwaltung und die Lohnauszahlung nicht mehr durch den Kanton wahrgenommen, richtet sich die Kassenzugehörigkeit nach Art. 8 des Einführungsgesetzes zur Bundesgesetzgebung über die Familienzulagen vom 27. Juni 2017[^3-2].
+- b) weitere Arbeitgeberinnen und Arbeitgeber nach [Art. 2](https://www.gesetzessammlung.sg.ch/data/143.1/de/art2) und [Art. 9](https://www.gesetzessammlung.sg.ch/data/143.1/de/art9) des Personalgesetzes vom 25. Januar 2011[^3-2], soweit diese ihr am 27. Juni 2017 bereits angeschlossen waren.
+
+<sup>4</sup> Selbständige öffentlich-rechtliche Anstalten, die Nachfolgeorganisationen von Arbeitgeberinnen oder Arbeitgebern nach Abs. 3 Bst. b dieser Bestimmung sind, können sich der Familienausgleichskasse für das Staatspersonal anschliessen.
 
 [^3-1]: sGS [371.1](https://www.gesetzessammlung.sg.ch/data/371.1/de).
-[^3-2]: sGS [371.1](https://www.gesetzessammlung.sg.ch/data/371.1/de).
+[^3-2]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 4
 
