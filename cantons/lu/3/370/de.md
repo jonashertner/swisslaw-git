@@ -4,13 +4,12 @@ number: "370"
 title: Gesetz über den Bevölkerungsschutz
 short: BSG
 language: de
-version: 2008-01-01
-valid_until: 2022-12-31
-version_adopted: 2007-06-19
+version: 2023-01-01
+version_adopted: 2022-06-20
 adopted: 2007-06-19
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/370"
-pdf: "https://srl.lu.ch/api/de/versions/2302/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3971/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://srl.lu.ch/api/de/versions/2302/pdf_file"
 
 (BSG)
 
-vom 19.06.2007 (Stand 01.01.2008)
+vom 19.06.2007 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
-gestützt auf die Artikel 6 und 9 Absatz 1 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz vom 4. Oktober 2002[^ingress-1],
+gestützt auf die Artikel 14 und 87 Absatz 1 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz vom 20. Dezember 2019[^ingress-1],
 
 nach Einsicht in die Botschaft des Regierungsrates vom 26. Januar 2007[^ingress-2],
 
@@ -38,17 +37,11 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Das Gesetz regelt den Bevölkerungsschutz bei Katastrophen und Notlagen sowie im Fall bewaffneter Konflikte. Es regelt die Rechte und Pflichten von Kanton, Gemeinden und Privaten, insbesondere den Einsatz der Partnerorganisationen, die zeit- und lagegerechte Führung und die gemeinsame Ausbildung.
+<sup>1</sup> Das Gesetz regelt die Rechte und Pflichten von Kanton, Gemeinden und Privaten im Bevölkerungsschutz, insbesondere den Einsatz der Partnerorganisationen, die zeit- und lagegerechte Führung und die gemeinsame Ausbildung.
 
 #### § 2
 
-**Begriffe**
-
-<sup>1</sup> Der Bevölkerungsschutz ist eine modular aufgebaute Struktur für Führung, Schutz und Hilfe, welche das Leben, die Lebensgrundlagen und die Kulturgüter der Bevölkerung bei natur- und zivilisationsbedingten Katastrophen und Notlagen sowie bei machtpolitischen Bedrohungen schützt.
-
-<sup>2</sup> Als Katastrophen gelten natur- oder zivilisationsbedingte Schadenereignisse und schwere Unglücksfälle, die so viele Schäden und Ausfälle verursachen, dass die personellen und materiellen Mittel der betroffenen Gemeinschaft überfordert sind.
-
-<sup>3</sup> Als Notlagen gelten Situationen, die aus einer gesellschaftlichen Entwicklung oder einem technischen Ereignis entstehen und mit den ordentlichen Abläufen nicht bewältigt werden können, weil sie die personellen und materiellen Mittel der betroffenen Gemeinschaft überfordern.
+**…**
 
 ## 2 Verantwortlichkeiten und Alarmierung
 
@@ -104,13 +97,15 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinde trägt die Kosten für ihren Führungsstab.
 
+<sup>4</sup> Die Gemeinden können sich zu regionalen Führungsstäben zusammenschliessen. Die Regelungen für die Führungsstäbe der Gemeinden gelten sinngemäss auch für die regionalen Führungsstäbe.
+
 #### § 8
 
 **Partnerorganisationen**
 
-<sup>1</sup> Partnerorganisationen im Bereich Bevölkerungsschutz sind: Polizei, Feuerwehr, Gesundheitswesen, technische Betriebe und Zivilschutz. Der Regierungsrat regelt die Abgrenzungen zwischen den Partnerorganisationen.
+<sup>1</sup> …
 
-<sup>2</sup> Die Partnerorganisationen stimmen die Organisation, die Ausbildung und deren Leistungsziele, die Bereitschaft sowie die Materialbeschaffung aufeinander ab. Sie können insbesondere über die gemeinsame Ausbildung Zusammenarbeitsverträge abschliessen.
+<sup>2</sup> Die Partnerorganisationen im Bevölkerungsschutz stimmen die Organisation, die Ausbildung und deren Leistungsziele, die Bereitschaft sowie die Materialbeschaffung aufeinander ab. Sie können insbesondere über die gemeinsame Ausbildung Zusammenarbeitsverträge abschliessen.
 
 <sup>3</sup> Die Partnerorganisationen unterstützen sich gegenseitig, insbesondere im Einsatz und bei der Ausbildung.
 
@@ -124,9 +119,9 @@ beschliesst:
 
 <sup>3</sup> Das Gesundheitswesen, einschliesslich des sanitätsdienstlichen Rettungswesens, ist insbesondere verantwortlich für die medizinische und psychologische Versorgung der Bevölkerung sowie der Einsatzkräfte.
 
-<sup>4</sup> Die technischen Betriebe sind verantwortlich für das Funktionieren der technischen Infrastruktur, insbesondere der Elektrizitäts-, Wasser- und Gasversorgung, der Entsorgung sowie der Verkehrsverbindungen und der Telematik.
+<sup>4</sup> Die technischen Betriebe sind insbesondere verantwortlich für die Gewährleistung der Verfügbarkeit von unverzichtbaren Gütern und Dienstleistungen für die Bevölkerung.
 
-<sup>5</sup> Der Zivilschutz übernimmt insbesondere Aufgaben in der Betreuung und der Instandstellung und unterstützt die anderen Partnerorganisationen in Logistik, Führung und Kulturgüterschutz.
+<sup>5</sup> Der Zivilschutz ist insbesondere verantwortlich für den Schutz und die Rettung der Bevölkerung, für die Betreuung schutzsuchender Personen, für die Führungsunterstützung und die Unterstützung der anderen Partnerorganisationen sowie für den Schutz der Kulturgüter.
 
 #### § 10
 
@@ -153,6 +148,24 @@ beschliesst:
 <sup>2</sup> Der Regierungsrat kann mit andern Kantonen und dem Bund Vereinbarungen über die Zusammenarbeit abschliessen.
 
 <sup>3</sup> Er entscheidet über den Einsatz der Mittel und die Kostentragung.
+
+#### § 12a
+
+**Schutz kritischer Infrastrukturen**
+
+<sup>1</sup> Die zuständige kantonale Behörde erstellt ein Inventar kritischer Infrastrukturen von kantonaler Bedeutung und aktualisiert dieses periodisch.
+
+<sup>2</sup> Sie arbeitet mit den Betreiberinnen und Betreibern von kritischen Infrastrukturen zusammen und berät diese bei den Planungs- und Schutzmassnahmen.
+
+<sup>3</sup> Die Betreiberinnen und Betreiber von kritischen Infrastrukturen geben der zuständigen kantonalen Behörde die für die Erstellung des Inventars erforderlichen Informationen bekannt.
+
+<sup>4</sup> Der Regierungsrat regelt das Nähere.
+
+#### § 12b
+
+**Gemeinsame Kommunikationssysteme**
+
+<sup>1</sup> Der Regierungsrat regelt in der Verordnung die kantonalen Zuständigkeiten für die gemeinsamen Kommunikationssysteme von Bund, Kantonen und Dritten.
 
 #### § 13
 
