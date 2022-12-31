@@ -4,11 +4,11 @@ title: Regolamento di previdenza del 15 giugno 2007 per gli impiegati e i benefi
 short: RPIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20220701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20220701/it"
 
 (RPIC)
 
-del 15 giugno 2007 (Stato 1° luglio 2022)
+del 15 giugno 2007 (Stato 1° gennaio 2023)
 
 L’organo paritetico della Cassa di previdenza della Confederazione (OPC),
 
@@ -218,11 +218,21 @@ L’assicurazione termina:
 - b. [^18-2] al compimento del 65° anno di età, fatto salvo l’articolo 18*b*;
 - c.[^18-3] ...
 
-<sup>2</sup> Per quanto concerne i rischi di decesso e di invalidità l’interessato rimane assicurato presso PUBLICA per la durata di un mese dalla cessazione del rapporto di lavoro. Le prestazioni corrispondono a quelle che erano assicurate al momento della cessazione del rapporto di lavoro. Se entro questo periodo viene costituito un nuovo rapporto di previdenza, la competenza spetta al nuovo istituto di previdenza.
+<sup>2</sup>
+
+Per quanto concerne i rischi di decesso e di invalidità l’interessato rimane assicurato presso PUBLICA per la durata di:
+
+- a. un mese dalla cessazione del rapporto di lavoro;
+- b. al massimo dieci mesi dalla fine della continuazione del versamento dello stipendio conformemente alle disposizioni del diritto del lavoro se il rapporto di lavoro si protrae; in caso di scioglimento contestato del rapporto di lavoro è fatto salvo l’articolo 10 dell’ordinanza del 31 agosto 1983[^18-4] sull’assicurazione contro la disoccupazione (OADI).[^18-5]
+
+<sup>3</sup> Nei casi di cui al capoverso 2 le prestazioni corrispondono a quelle che erano assicurate al momento della cessazione del rapporto di lavoro. Se entro la scadenza prevista al capoverso 2 lettera a oppure b viene costituito un nuovo rapporto di previdenza, la competenza spetta al nuovo istituto di previdenza.[^18-6]
 
 [^18-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 [^18-2]: Nuovo testo giusta la Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, in vigore dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^18-3]: Abrogata dalla Dec. dell’OPC dell’8 set. 2010, approvata dal CF il 24 nov. 2010, con effetto dal 1° gen. 2011 ([FF 2010 8025](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^18-4]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^18-5]: Nuovo testo giusta il n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^18-6]: Introdotto dal n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 18a
 
@@ -440,9 +450,15 @@ L’obbligo del pagamento del premio insorge con l’ammissione nell’assicuraz
 - c. con il compimento del 65° anno di età della persona assicurata;
 - d. in caso di invalidità ai sensi dell’articolo 53.
 
-<sup>4</sup> È fatto salvo il pagamento del premio di rischio in caso di mantenimento dell’assicurazione di cui all’articolo 18*d*.[^26-1]
+<sup>4</sup>
 
-[^26-1]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+Il premio di rischio non è pagato dal datore di lavoro:
+
+- a. in caso di perdita di lavoro computabile secondo l’articolo 10 OADI[^26-1] in combinato disposto con l’articolo 18 capoverso 2 lettera b del presente regolamento;
+- b. in caso di mantenimento dell’assicurazione secondo l’articolo 18*d* capoverso 2.[^26-2]
+
+[^26-1]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^26-2]: Introdotto dal n. I della Dec. dell’OPC del 17 e 26 nov. 2020, approvata dal CF il 4 dic. 2020 ([RU 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)). Nuovo testo giusta il n. I della Dec. dell’OPC del 13 set. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 27
 

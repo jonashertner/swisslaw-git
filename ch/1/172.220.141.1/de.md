@@ -4,11 +4,11 @@ title: Vorsorgereglement vom 15. Juni 2007 für die Angestellten und die Rentenb
 short: VRAB
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20220701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20220701/de"
 
 (VRAB)
 
-vom 15. Juni 2007 (Stand am 1. Juli 2022)
+vom 15. Juni 2007 (Stand am 1. Januar 2023)
 
 Das paritätische Organ des Vorsorgewerks Bund (POB),
 
@@ -139,8 +139,8 @@ Versicherte Personen und Rentenbeziehende, die Anspruch auf Leistungen von PUBLI
 
 <sup>4</sup> Ansprüche gegenüber anderen Versicherungen oder Haftpflichtigen sind PUBLICA unverzüglich und unaufgefordert schriftlich zu melden.
 
-[^10-1]: Fassung gemäss Ziff. I der Änd. des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
-[^10-2]: Aufgehoben durch Ziff. I der Änd. des POB vom 13. Sept. 2022, vom BR genehmigt am 23. Nov. 2022 und mit Wirkung seit 1. Juli 2022 (AS **20****22** 748).
+[^10-1]: Fassung gemäss Ziff. I des Beschlusses des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^10-2]: Aufgehoben durch Ziff. I des Beschlusses des POB vom 13. Sept. 2022, vom BR genehmigt am 23. Nov. 2022 und mit Wirkung seit 1. Juli 2022 ([AS 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 [^10-3]: Fassung gemäss Ziff. I des Beschlusses des POB vom 15. Febr. 2018, vom BR genehmigt am 25. April 2018, in Kraft seit 1. Mai 2018 ([AS 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 #### Art. 11
@@ -188,7 +188,7 @@ Angestellte Personen werden ab dem 1. Januar nach Vollendung des 17. Altersjahre
 
 [^1516-1]
 
-[^1516-1]: Aufgehoben durch Ziff. I der Änd. des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und mit Wirkung seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^1516-1]: Aufgehoben durch Ziff. I der Beschlusses des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und mit Wirkung seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 
 #### Art. 17
 
@@ -218,11 +218,21 @@ Die Versicherung endet:
 - b.[^18-2] bei Vollendung des 65. Altersjahres, unter Vorbehalt von Artikel 18*b.*
 - c.[^18-3] …
 
-<sup>2</sup> Für die Risiken Tod und Invalidität bleibt die betreffende Person während eines Monats nach Beendigung des Arbeitsverhältnisses bei PUBLICA versichert. Die Leistungen entsprechen jenen, die bei Beendigung des Arbeitsverhältnisses versichert waren. Wird vorher ein neues Vorsorgeverhältnis begründet, so ist die neue Vorsorgeeinrichtung zuständig.
+<sup>2</sup>
+
+Für die Risiken Tod und Invalidität bleibt die Person versichert während:
+
+- a. eines Monats nach Beendigung ihres Arbeitsverhältnisses;
+- b. höchstens zehn Monaten nach Ende der Lohnfortzahlung gemäss den arbeitsrechtlichen Bestimmungen, wenn das Arbeitsverhältnis noch andauert; bei bestrittener Auflösung des Arbeitsverhältnisses ist Artikel 10 der Arbeitslosenversicherungsverordnung vom 31. August 1983[^18-4] (AVIV) vorbehalten.[^18-5]
+
+<sup>3</sup> In den Fällen nach Absatz 2 entsprechen die Leistungen jenen, die bei Beendigung des Arbeitsverhältnisses versichert waren. Wird innert der Frist nach Absatz 2 Buchstabe a oder b ein neues Vorsorgeverhältnis begründet, so ist die neue Vorsorgeeinrichtung zuständig.[^18-6]
 
 [^18-1]: Fassung gemäss Ziff. I des Beschlusses des POB vom 17. und 26. Nov. 2020, vom BR genehmigt am 4. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 [^18-2]: Fassung gemäss Beschluss des POB vom 8. Sept. 2010, vom BR genehmigt am 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([BBl 2010 9039](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^18-3]: Aufgehoben durch Beschluss des POB vom 8. Sept. 2010, vom BR genehmigt am 24. Nov. 2010, mit Wirkung seit 1. Jan. 2011 ([BBl 2010 9039](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^18-4]: [SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^18-5]: Fassung gemäss Ziff. I des Beschlusses des POB vom 13. Sept. 2022, vom BR genehmigt am 23. Nov. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^18-6]: Eingefügt durch Ziff. I des Beschlusses des POB vom 13. Sept. 2022, vom BR genehmigt am 23. Nov. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 18a
 
@@ -379,7 +389,7 @@ Für die einzelnen Vorsorgepläne gelten folgende Sparbeiträge:
 
 <sup>5</sup> …[^24-2]
 
-[^24-1]: Fassung gemäss Ziff. I der Änd. des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^24-1]: Fassung gemäss Ziff. I des Beschlusses des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 [^24-2]: Aufgehoben durch Beschluss des POB vom 8. Sept. 2010, vom BR genehmigt am 24. Nov. 2010, mit Wirkung seit 1. Jan. 2011 ([BBl 2010 9039](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 25
@@ -440,9 +450,15 @@ Die Prämienpflicht besteht ab Aufnahme in die Versicherung. Sie endet:
 - c. bei Vollendung des 65. Altersjahres der versicherten Person;
 - d. bei Invalidität gemäss Artikel 53.
 
-<sup>4</sup> Vorbehalten bleibt die Bezahlung der Risikoprämie bei einer Weiterführung der Versicherung nach Artikel 18*d*.[^26-1]
+<sup>4</sup>
 
-[^26-1]: Eingefügt durch Ziff. I des Beschlusses des POB vom 17. und 26. Nov. 2020, vom BR genehmigt am 4. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+Die Risikoprämie wird in den folgenden Fällen nicht vom Arbeitgeber bezahlt:
+
+- a. bei einem anrechenbaren Arbeitsausfall nach Artikel 10 AVIV[^26-1] in Verbindung mit Artikel 18 Absatz 2 Buchstabe b dieses Reglements;
+- b. bei einer Weiterführung der Versicherung nach Artikel 18*d* Absatz 2.[^26-2]
+
+[^26-1]: [SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^26-2]: Eingefügt durch Ziff. I des Beschlusses des POB vom 17. und 26. Nov. 2020, vom BR genehmigt am 4. Dez. 2020 ([AS 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)). Fassung gemäss Ziff. I der Änd. des POB vom 13. Sept. 2022, vom BR genehmigt am 23. Nov. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 27
 
@@ -532,7 +548,7 @@ Austrittsleistungen anderer Vorsorgeeinrichtungen und Guthaben bei Freizügigkei
 <sup>3</sup> Trifft die Zahlung für die Finanzierung der Erhöhung der Altersrente nach dem Altersrücktritt der versicherten Person bei PUBLICA ein, so wird sie zurückerstattet.
 
 [^32a-1]: Eingefügt durch Beschluss des POB vom 8. Sept. 2010, vom BR genehmigt am 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([BBl 2010 9039](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
-[^32a-2]: Fassung gemäss Ziff. I der Änd. des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^32a-2]: Fassung gemäss Ziff. I des Beschlusses des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 
 #### Art. 32b
 
@@ -553,7 +569,7 @@ Massgebend für die Berechnung der Einkaufssumme sind:
 - b. die anwendbaren Faktoren gemäss Anhang 2; und
 - c. das im Zeitpunkt des Einkaufs vorhandene Altersguthaben.
 
-[^32b-1]: Eingefügt durch Ziff. I der Änd. des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^32b-1]: Eingefügt durch Ziff. I des Beschlusses des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 
 #### Art. 33
 
@@ -2067,7 +2083,7 @@ Ist ein Anspruch auf eine Invaliden- oder Berufsinvalidenrente vor dem 1. Januar
 
 Bestehende Gesundheitsvorbehalte werden mit dem Inkrafttreten der Änderung vom 30. September 2019 hinfällig.
 
-[^108k-1]: Eingefügt durch Ziff. I der Änd. des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^108k-1]: Eingefügt durch Ziff. I des Beschlusses des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 
 #### Art. 108l
 
@@ -2154,7 +2170,7 @@ Anhang 2[^t-2]
 
 ## Einkauf
 
-[^t-2]: Fassung gemäss Ziff. II des Beschlusses des POB vom 15. Febr. 2018, vom BR genehmigt am 25. April 2018 ([AS 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)). Bereinigt gemäss Ziff. II der Änd. des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
+[^t-2]: Fassung gemäss Ziff. II des Beschlusses des POB vom 15. Febr. 2018, vom BR genehmigt am 25. April 2018 ([AS 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)). Bereinigt gemäss Ziff. II des Beschlusses des POB vom 21. März, 7. Mai und 30. Sept. 2019, vom BR genehmigt am 30. Okt. 2019 und in Kraft seit 1. Jan. 2020 ([AS 2019 3447](https://fedlex.data.admin.ch/eli/oc/2019/629)).
 
 **Max. AGH** = maximales Altersguthaben nach Artikel 36
 

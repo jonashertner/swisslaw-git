@@ -4,11 +4,11 @@ title: Règlement de prévoyance du 15 juin 2007 pour les personnes employées e
 short: RPEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20220701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20220701/fr"
 
 (RPEC)
 
-du 15 juin 2007 (État le 1<sup>er</sup> juillet 2022) (État le 1<sup>er</sup> juillet 2022)
+du 15 juin 2007 (État le 1<sup>er</sup> janvier 2023) (État le 1<sup>er</sup> janvier 2023)
 
 L’organe paritaire de la caisse de prévoyance de la Confédération (OPC),
 
@@ -222,11 +222,21 @@ L’assurance prend fin:
 - b.[^18-2] lorsque la personne assurée a 65 ans, sous réserve de l’art. 18*b*.
 - c.[^18-3] …
 
-<sup>2</sup> Durant un mois après la cessation des rapports de travail, la personne concernée demeure assurée à PUBLICA pour les risques de décès et d’invalidité. Les prestations correspondent à celles assurées à la cessation des rapports de travail. Si un nouveau rapport de prévoyance est établi avant, c’est la nouvelle institution de prévoyance qui est compétente.
+<sup>2</sup>
+
+La personne concernée demeure assurée pour les risques de décès et d’invalidité durant:
+
+- a. un mois après la cessation des rapports de travail;
+- b. dix mois au plus après la fin du versement du salaire au sens des dispositions sur le droit du travail, si les rapports de travail continuent; en cas de suspension provisoire des rapports de travail, l’art. 10 de l’ordonnance du 31 août 1983 sur l’assurance-chômage (OACI)[^18-4] est réservé.[^18-5]
+
+<sup>3</sup> Dans les cas visés à l’al. 2, les prestations correspondent à celles assurées à la cessation des rapports de travail. Si un nouveau rapport de prévoyance est établi dans le délai prévu à l’al. 2, let. a ou b, c’est la nouvelle institution de prévoyance qui est compétente.[^18-6]
 
 [^18-1]: Nouvelle teneur selon le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
 [^18-2]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 [^18-3]: Abrogée par la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^18-4]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^18-5]: Nouvelle teneur selon le ch. I de la D de l’OPC du 13 sept. 2022, approuvée par le CF le 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
+[^18-6]: Introduit par le ch. I de la D de l’OPC du 13 sept. 2022, approuvée par le CF le 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 18a
 
@@ -444,9 +454,15 @@ L’obligation de payer la prime existe dès l’admission dans l’assurance. E
 - c. lorsque la personne assurée atteint l’âge de 65 ans;
 - d. en cas d’invalidité au sens de l’art. 53.
 
-<sup>4</sup> Le paiement de la prime de risque en cas de maintien de l’assurance en vertu de l’art. 18*d* est réservé.[^26-1]
+<sup>4</sup>
 
-[^26-1]: Introduit par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)).
+La prime de risque n’est pas payée par l’employeur dans les cas suivants:
+
+- a. en cas de perte de travail à prendre en considération au sens de l’art. 10 OACI[^26-1] en relation avec l’art. 18, al. 2, let. b, du présent règlement;
+- b. en cas de maintien de l’assurance en vertu de l’art. 18*d*, al. 2.[^26-2]
+
+[^26-1]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^26-2]: Introduit par le ch. I de la D de l’OPC des 17 et 26 nov. 2020, approuvée par le CF le 4 déc. 2020 ([RO 2020 5903](https://fedlex.data.admin.ch/eli/oc/2020/991)). Nouvelle teneur selon le ch. I de la D de l’OPC du 13 sept. 2022, approuvée par le CF le 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 748](https://fedlex.data.admin.ch/eli/oc/2022/748)).
 
 #### Art. 27
 
@@ -2000,7 +2016,7 @@ Sont déterminants pour la revalorisation:
 <sup>4</sup> Le tableau suivant sert de base pour la revalorisation (interpolation linéaire mensuelle):
 
 <table>
-<tr><th>Age au 31 décembre 2018</th><th colspan="2">Revalorisation en %</th></tr>
+<tr><th>Âge au 31 décembre 2018</th><th colspan="2">Revalorisation en %</th></tr>
 <tr><th></th><th>Hommes</th><th>Femmes</th></tr>
 <tr><td>70</td><td>10,07 %</td><td>10,07 %</td></tr>
 <tr><td>69</td><td>10,24 %</td><td>10,24 %</td></tr>
@@ -2186,7 +2202,7 @@ Annexe 2[^t-2]
 
 <table>
 <tr><th colspan="2">Standard</th><th></th><th colspan="2">Standard (Variante 1)</th><th></th><th colspan="2">Standard (Variante 2)</th><th></th><th colspan="2">Cadres</th><th></th><th colspan="2">Cadres (Variante 1)</th><th></th><th colspan="2">Cadres (Variante 2)</th><th></th></tr>
-<tr><th>Age</th><th colspan="2">Avoir vieil. max. (en % du g.a.)</th><th>Age</th><th colspan="2">Avoir ES max. (en % du g.a.)</th><th>Age</th><th colspan="2">Avoir ES max. (en % du g.a.)</th><th>Age</th><th colspan="2">Avoir vieil. max. (en % du g.a.)</th><th>Age</th><th colspan="2">Avoir ES max. (en % du g.a.)</th><th>Age</th><th colspan="2">Avoir ES max. (en % du g.a.)</th></tr>
+<tr><th>Âge</th><th colspan="2">Avoir vieil. max. (en % du g.a.)</th><th>Âge</th><th colspan="2">Avoir ES max. (en % du g.a.)</th><th>Âge</th><th colspan="2">Avoir ES max. (en % du g.a.)</th><th>Âge</th><th colspan="2">Avoir vieil. max. (en % du g.a.)</th><th>Âge</th><th colspan="2">Avoir ES max. (en % du g.a.)</th><th>Âge</th><th colspan="2">Avoir ES max. (en % du g.a.)</th></tr>
 <tr><td>22</td><td colspan="2">0,00 %</td><td>22</td><td colspan="2">0,00 %</td><td>22</td><td colspan="2">0,00 %</td><td>22</td><td colspan="2">0,00 %</td><td>22</td><td colspan="2">0,00 %</td><td>22</td><td colspan="2">0,00 %</td></tr>
 <tr><td>23</td><td colspan="2">12,75 %</td><td>23</td><td colspan="2">1,00 %</td><td>23</td><td colspan="2">2,00 %</td><td>23</td><td colspan="2">12,75 %</td><td>23</td><td colspan="2">1,00 %</td><td>23</td><td colspan="2">2,00 %</td></tr>
 <tr><td>24</td><td colspan="2">25,50 %</td><td>24</td><td colspan="2">2,00 %</td><td>24</td><td colspan="2">4,00 %</td><td>24</td><td colspan="2">25,50 %</td><td>24</td><td colspan="2">2,00 %</td><td>24</td><td colspan="2">4,00 %</td></tr>
@@ -2237,7 +2253,7 @@ Annexe 2[^t-2]
 Exemple:
 
 <table>
-<tr><th>Age</th><th>Avoir de vieillesse</th><th>Gain assuré:</th><th>Standard (0 %)</th><th>Standard (var.1)</th><th>Standard (var. 2)</th></tr>
+<tr><th>Âge</th><th>Avoir de vieillesse</th><th>Gain assuré:</th><th>Standard (0 %)</th><th>Standard (var.1)</th><th>Standard (var. 2)</th></tr>
 <tr><th></th><th></th><th></th><th>**Avoir vieil. max.**</th><th>**Avoir ES max.\***</th><th>**Avoir ES max.\***</th></tr>
 <tr><td>50</td><td>Fr. 350 000,00</td><td>Fr. 100 000,00</td><td>517,69 %</td><td>37,22 %\*\*</td><td>79,65 %\*\*</td></tr>
 </table>
@@ -2291,7 +2307,7 @@ Annexe 3[^t-3]
 [^t-3]: Nouvelle teneur selon le ch. II de la D de l’OPC du 15 fév. 2018, approuvée par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2431](https://fedlex.data.admin.ch/eli/oc/2018/353)).
 
 <table>
-<tr><th>Age</th><th>Taux de conversion</th></tr>
+<tr><th>Âge</th><th>Taux de conversion</th></tr>
 <tr><td>60</td><td>4,47 %</td></tr>
 <tr><td>61</td><td>4,58 %</td></tr>
 <tr><td>62</td><td>4,70 %</td></tr>
@@ -2320,7 +2336,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><th></th><th colspan="7">Mois</th></tr>
 <tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**208,55**</td><td>205,55</td><td>202,55</td><td>199,60</td><td>196,60</td><td>193,60</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**208,55**</td><td>205,55</td><td>202,55</td><td>199,60</td><td>196,60</td><td>193,60</td></tr>
 <tr><td></td><td>**61**</td><td>**172,65**</td><td>169,45</td><td>166,25</td><td>163,05</td><td>159,85</td><td>156,65</td></tr>
 <tr><td></td><td>**62**</td><td>**134,20**</td><td>130,75</td><td>127,30</td><td>123,85</td><td>120,40</td><td>116,95</td></tr>
 <tr><td></td><td>**63**</td><td>**92,80**</td><td>89,10</td><td>85,35</td><td>81,65</td><td>77,95</td><td>74,20</td></tr>
@@ -2331,7 +2347,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><th></th><th colspan="7">Mois</th></tr>
 <tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>190,60</td><td>187,60</td><td>184,60</td><td>181,65</td><td>178,65</td><td>175,65</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>190,60</td><td>187,60</td><td>184,60</td><td>181,65</td><td>178,65</td><td>175,65</td></tr>
 <tr><td></td><td>**61**</td><td>153,45</td><td>150,20</td><td>147,00</td><td>143,80</td><td>140,60</td><td>137,40</td></tr>
 <tr><td></td><td>**62**</td><td>113,50</td><td>110,05</td><td>106,60</td><td>103,15</td><td>99,70</td><td>96,25</td></tr>
 <tr><td></td><td>**63**</td><td>70,50</td><td>66,80</td><td>63,05</td><td>59,35</td><td>55,65</td><td>51,90</td></tr>
@@ -2344,7 +2360,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><th></th><th colspan="7">Mois</th></tr>
 <tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**179,20**</td><td>175,90</td><td>172,60</td><td>169,25</td><td>165,95</td><td>162,65</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**179,20**</td><td>175,90</td><td>172,60</td><td>169,25</td><td>165,95</td><td>162,65</td></tr>
 <tr><td></td><td>**61**</td><td>**139,45**</td><td>135,90</td><td>132,30</td><td>128,75</td><td>125,15</td><td>121,60</td></tr>
 <tr><td></td><td>**62**</td><td>**96,55**</td><td>92,70</td><td>88,85</td><td>84,95</td><td>81,10</td><td>77,25</td></tr>
 <tr><td></td><td>**63**</td><td>**50,20**</td><td>46,00</td><td>41,85</td><td>37,65</td><td>33,45</td><td>29,30</td></tr>
@@ -2354,7 +2370,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><th></th><th colspan="7">Mois</th></tr>
 <tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>159,35</td><td>156,00</td><td>152,70</td><td>149,40</td><td>146,10</td><td>142,75</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>159,35</td><td>156,00</td><td>152,70</td><td>149,40</td><td>146,10</td><td>142,75</td></tr>
 <tr><td></td><td>**61**</td><td>118,00</td><td>114,45</td><td>110,85</td><td>107,30</td><td>103,70</td><td>100,15</td></tr>
 <tr><td></td><td>**62**</td><td>73,40</td><td>69,50</td><td>65,65</td><td>61,80</td><td>57,95</td><td>54,05</td></tr>
 <tr><td></td><td>**63**</td><td>25,10</td><td>20,90</td><td>16,75</td><td>12,55</td><td>8,35</td><td>4,20</td></tr>
@@ -2382,7 +2398,7 @@ Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = rédu
 
 <table>
 <tr><th colspan="3">Valeur actuelle pour le rachat de la réduction de la rente</th></tr>
-<tr><td>Age</td><td>Hommes</td><td>Femmes</td></tr>
+<tr><td>Âge</td><td>Hommes</td><td>Femmes</td></tr>
 <tr><td>60</td><td>22,571</td><td>21,346</td></tr>
 <tr><td>61</td><td>22,060</td><td>20,807</td></tr>
 <tr><td>62</td><td>21,543</td><td>20,261</td></tr>
@@ -2421,7 +2437,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><th></th><th colspan="7">Mois</th></tr>
 <tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**267,75**</td><td>263,05</td><td>258,40</td><td>253,70</td><td>249,00</td><td>244,30</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**267,75**</td><td>263,05</td><td>258,40</td><td>253,70</td><td>249,00</td><td>244,30</td></tr>
 <tr><td></td><td>**61**</td><td>**211,50**</td><td>206,95</td><td>202,35</td><td>197,80</td><td>193,20</td><td>188,65</td></tr>
 <tr><td></td><td>**62**</td><td>**156,60**</td><td>152,15</td><td>147,70</td><td>143,20</td><td>138,75</td><td>134,30</td></tr>
 <tr><td></td><td>**63**</td><td>**103,05**</td><td>98,70</td><td>94,35</td><td>90,00</td><td>85,65</td><td>81,30</td></tr>
@@ -2432,7 +2448,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><th></th><th colspan="7">Mois</th></tr>
 <tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>239,65</td><td>234,95</td><td>230,25</td><td>225,55</td><td>220,90</td><td>216,20</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>239,65</td><td>234,95</td><td>230,25</td><td>225,55</td><td>220,90</td><td>216,20</td></tr>
 <tr><td></td><td>**61**</td><td>184,05</td><td>179,50</td><td>174,90</td><td>170,35</td><td>165,75</td><td>161,20</td></tr>
 <tr><td></td><td>**62**</td><td>129,85</td><td>125,35</td><td>120,90</td><td>116,45</td><td>112,00</td><td>107,50</td></tr>
 <tr><td></td><td>**63**</td><td>76,95</td><td>72,60</td><td>68,25</td><td>63,90</td><td>59,55</td><td>55,20</td></tr>
@@ -2445,7 +2461,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><th></th><th colspan="7">Mois</th></tr>
 <tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**219,20**</td><td>214,50</td><td>209,75</td><td>205,05</td><td>200,30</td><td>195,60</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**219,20**</td><td>214,50</td><td>209,75</td><td>205,05</td><td>200,30</td><td>195,60</td></tr>
 <tr><td></td><td>**61**</td><td>**162,50**</td><td>157,90</td><td>153,25</td><td>148,65</td><td>144,00</td><td>139,40</td></tr>
 <tr><td></td><td>**62**</td><td>**107,05**</td><td>102,55</td><td>98,05</td><td>93,50</td><td>89,00</td><td>84,50</td></tr>
 <tr><td></td><td>**63**</td><td>**52,90**</td><td>48,50</td><td>44,10</td><td>39,70</td><td>35,25</td><td>30,85</td></tr>
@@ -2455,7 +2471,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><th></th><th colspan="7">Mois</th></tr>
 <tr><th></th><th></th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>190,85</td><td>186,15</td><td>181,40</td><td>176,70</td><td>171,95</td><td>167,25</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>190,85</td><td>186,15</td><td>181,40</td><td>176,70</td><td>171,95</td><td>167,25</td></tr>
 <tr><td></td><td>**61**</td><td>134,80</td><td>130,15</td><td>125,55</td><td>120,90</td><td>116,30</td><td>111,65</td></tr>
 <tr><td></td><td>**62**</td><td>80,00</td><td>75,45</td><td>70,95</td><td>66,45</td><td>61,95</td><td>57,40</td></tr>
 <tr><td></td><td>**63**</td><td>26,45</td><td>22,05</td><td>17,65</td><td>13,25</td><td>8,80</td><td>4,40</td></tr>
@@ -2483,7 +2499,7 @@ Montant selon tableaux 1 ou 2 × part du salarié × (RT mensuelle/1000) = rédu
 
 <table>
 <tr><th></th><th colspan="2">Taux d’atténuation applicable à la réduction à vie prévue dès l’âge de l’AVS, en cas de décès avant l’âge de l’AVS</th></tr>
-<tr><th>Age au début de la perception de la rente de vieillesse</th><th>a. âge AVS 65</th><th>b. âge AVS 64</th></tr>
+<tr><th>Âge au début de la perception de la rente de vieillesse</th><th>a. âge AVS 65</th><th>b. âge AVS 64</th></tr>
 <tr><th>60</th><th>4,42 %</th><th>4,56 %</th></tr>
 <tr><th>61</th><th>4,59 %</th><th>4,73 %</th></tr>
 <tr><th>62</th><th>4,77 %</th><th>4,90 %</th></tr>
@@ -2518,7 +2534,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**368,20**</td><td>361,50</td><td>354,80</td><td>348,15</td><td>341,45</td><td>334,75</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**368,20**</td><td>361,50</td><td>354,80</td><td>348,15</td><td>341,45</td><td>334,75</td></tr>
 <tr><td></td><td>**61**</td><td>**287,90**</td><td>281,50</td><td>275,05</td><td>268,65</td><td>262,20</td><td>255,80</td></tr>
 <tr><td></td><td>**62**</td><td>**210,85**</td><td>204,70</td><td>198,60</td><td>192,45</td><td>186,35</td><td>180,20</td></tr>
 <tr><td></td><td>**63**</td><td>**137,30**</td><td>131,45</td><td>125,60</td><td>119,75</td><td>113,85</td><td>108,00</td></tr>
@@ -2529,7 +2545,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>328,05</td><td>321,35</td><td>314,65</td><td>308,00</td><td>301,30</td><td>294,60</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>328,05</td><td>321,35</td><td>314,65</td><td>308,00</td><td>301,30</td><td>294,60</td></tr>
 <tr><td></td><td>**61**</td><td>249,40</td><td>242,95</td><td>236,55</td><td>230,10</td><td>223,70</td><td>217,25</td></tr>
 <tr><td></td><td>**62**</td><td>174,10</td><td>167,95</td><td>161,80</td><td>155,70</td><td>149,55</td><td>143,45</td></tr>
 <tr><td></td><td>**63**</td><td>102,15</td><td>96,30</td><td>90,45</td><td>84,60</td><td>78,70</td><td>72,85</td></tr>
@@ -2542,7 +2558,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**280,30**</td><td>274,05</td><td>267,85</td><td>261,60</td><td>255,35</td><td>249,15</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**280,30**</td><td>274,05</td><td>267,85</td><td>261,60</td><td>255,35</td><td>249,15</td></tr>
 <tr><td></td><td>**61**</td><td>**205,50**</td><td>199,55</td><td>193,55</td><td>187,60</td><td>181,60</td><td>175,65</td></tr>
 <tr><td></td><td>**62**</td><td>**133,85**</td><td>128,15</td><td>122,45</td><td>116,75</td><td>111,05</td><td>105,35</td></tr>
 <tr><td></td><td>**63**</td><td>**65,40**</td><td>59,95</td><td>54,50</td><td>49,05</td><td>43,60</td><td>38,15</td></tr>
@@ -2552,7 +2568,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>242,90</td><td>236,65</td><td>230,45</td><td>224,20</td><td>217,95</td><td>211,75</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>242,90</td><td>236,65</td><td>230,45</td><td>224,20</td><td>217,95</td><td>211,75</td></tr>
 <tr><td></td><td>**61**</td><td>169,70</td><td>163,70</td><td>157,75</td><td>151,75</td><td>145,80</td><td>139,80</td></tr>
 <tr><td></td><td>**62**</td><td>99,65</td><td>93,90</td><td>88,20</td><td>82,50</td><td>76,80</td><td>71,10</td></tr>
 <tr><td></td><td>**63**</td><td>32,70</td><td>27,25</td><td>21,80</td><td>16,35</td><td>10,90</td><td>5,45</td></tr>
@@ -2583,7 +2599,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**338,25**</td><td>332,15</td><td>326,05</td><td>319,95</td><td>313,85</td><td>307,75</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**338,25**</td><td>332,15</td><td>326,05</td><td>319,95</td><td>313,85</td><td>307,75</td></tr>
 <tr><td></td><td>**61**</td><td>**265,10**</td><td>259,25</td><td>253,40</td><td>247,50</td><td>241,65</td><td>235,80</td></tr>
 <tr><td></td><td>**62**</td><td>**194,75**</td><td>189,10</td><td>183,50</td><td>177,85</td><td>172,20</td><td>166,60</td></tr>
 <tr><td></td><td>**63**</td><td>**127,15**</td><td>121,75</td><td>116,35</td><td>110,95</td><td>105,50</td><td>100,10</td></tr>
@@ -2594,7 +2610,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>301,70</td><td>295,60</td><td>289,50</td><td>283,40</td><td>277,30</td><td>271,20</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>301,70</td><td>295,60</td><td>289,50</td><td>283,40</td><td>277,30</td><td>271,20</td></tr>
 <tr><td></td><td>**61**</td><td>229,95</td><td>224,05</td><td>218,20</td><td>212,35</td><td>206,50</td><td>200,60</td></tr>
 <tr><td></td><td>**62**</td><td>160,95</td><td>155,30</td><td>149,70</td><td>144,05</td><td>138,40</td><td>132,80</td></tr>
 <tr><td></td><td>**63**</td><td>94,70</td><td>89,30</td><td>83,90</td><td>78,50</td><td>73,05</td><td>67,65</td></tr>
@@ -2607,7 +2623,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**271,95**</td><td>265,95</td><td>259,95</td><td>254,00</td><td>248,00</td><td>242,00</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**271,95**</td><td>265,95</td><td>259,95</td><td>254,00</td><td>248,00</td><td>242,00</td></tr>
 <tr><td></td><td>**61**</td><td>**200,05**</td><td>194,30</td><td>188,50</td><td>182,75</td><td>176,95</td><td>171,20</td></tr>
 <tr><td></td><td>**62**</td><td>**130,80**</td><td>125,25</td><td>119,70</td><td>114,15</td><td>108,60</td><td>103,05</td></tr>
 <tr><td></td><td>**63**</td><td>**64,15**</td><td>58,80</td><td>53,45</td><td>48,10</td><td>42,75</td><td>37,40</td></tr>
@@ -2617,7 +2633,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>236,00</td><td>230,00</td><td>224,00</td><td>218,05</td><td>212,05</td><td>206,05</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>236,00</td><td>230,00</td><td>224,00</td><td>218,05</td><td>212,05</td><td>206,05</td></tr>
 <tr><td></td><td>**61**</td><td>165,45</td><td>159,65</td><td>153,90</td><td>148,10</td><td>142,35</td><td>136,55</td></tr>
 <tr><td></td><td>**62**</td><td>97,50</td><td>91,90</td><td>86,35</td><td>80,80</td><td>75,25</td><td>69,70</td></tr>
 <tr><td></td><td>**63**</td><td>32,10</td><td>26,75</td><td>21,40</td><td>16,05</td><td>10,70</td><td>5,35</td></tr>
@@ -2648,7 +2664,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><th></th><th colspan="7">Mois</th></tr>
 <tr><th></th><th></th><th>**0**</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**304,70**</td><td>299,30</td><td>293,85</td><td>288,45</td><td>283,05</td><td>277,60</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**304,70**</td><td>299,30</td><td>293,85</td><td>288,45</td><td>283,05</td><td>277,60</td></tr>
 <tr><td></td><td>**61**</td><td>**239,70**</td><td>234,45</td><td>229,20</td><td>223,95</td><td>218,70</td><td>213,45</td></tr>
 <tr><td></td><td>**62**</td><td>**176,75**</td><td>171,70</td><td>166,60</td><td>161,55</td><td>156,45</td><td>151,40</td></tr>
 <tr><td></td><td>**63**</td><td>**115,85**</td><td>110,95</td><td>106,05</td><td>101,15</td><td>96,20</td><td>91,30</td></tr>
@@ -2659,7 +2675,7 @@ Tableau 1: âge AVS 65
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>272,20</td><td>266,80</td><td>261,35</td><td>255,95</td><td>250,55</td><td>245,10</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>272,20</td><td>266,80</td><td>261,35</td><td>255,95</td><td>250,55</td><td>245,10</td></tr>
 <tr><td></td><td>**61**</td><td>208,25</td><td>203,00</td><td>197,75</td><td>192,50</td><td>187,25</td><td>182,00</td></tr>
 <tr><td></td><td>**62**</td><td>146,30</td><td>141,25</td><td>136,15</td><td>131,10</td><td>126,00</td><td>120,95</td></tr>
 <tr><td></td><td>**63**</td><td>86,40</td><td>81,50</td><td>76,60</td><td>71,70</td><td>66,75</td><td>61,85</td></tr>
@@ -2672,7 +2688,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>**246,95**</td><td>241,55</td><td>236,20</td><td>230,80</td><td>225,40</td><td>220,05</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>**246,95**</td><td>241,55</td><td>236,20</td><td>230,80</td><td>225,40</td><td>220,05</td></tr>
 <tr><td></td><td>**61**</td><td>**182,35**</td><td>177,15</td><td>171,90</td><td>166,70</td><td>161,45</td><td>156,25</td></tr>
 <tr><td></td><td>**62**</td><td>**119,65**</td><td>114,60</td><td>109,55</td><td>104,45</td><td>99,40</td><td>94,35</td></tr>
 <tr><td></td><td>**63**</td><td>**58,90**</td><td>54,00</td><td>49,10</td><td>44,20</td><td>39,25</td><td>34,35</td></tr>
@@ -2682,7 +2698,7 @@ Tableau 2: âge AVS 64
 <table>
 <tr><td></td><td colspan="7">Mois</td></tr>
 <tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
-<tr><td>Age au début de la perception de la rente</td><td>60</td><td>214,65</td><td>209,25</td><td>203,90</td><td>198,50</td><td>193,10</td><td>187,75</td></tr>
+<tr><td>Âge au début de la perception de la rente</td><td>60</td><td>214,65</td><td>209,25</td><td>203,90</td><td>198,50</td><td>193,10</td><td>187,75</td></tr>
 <tr><td></td><td>**61**</td><td>151,00</td><td>145,80</td><td>140,55</td><td>135,35</td><td>130,10</td><td>124,90</td></tr>
 <tr><td></td><td>**62**</td><td>89,30</td><td>84,20</td><td>79,15</td><td>74,10</td><td>69,05</td><td>63,95</td></tr>
 <tr><td></td><td>**63**</td><td>29,45</td><td>24,55</td><td>19,65</td><td>14,75</td><td>9,80</td><td>4,90</td></tr>
