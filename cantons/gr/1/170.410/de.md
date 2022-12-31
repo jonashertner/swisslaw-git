@@ -5,12 +5,12 @@ title: Personalverordnung
 short: PV
 language: de
 version: 2023-01-01
-valid_until: 2025-12-31
+corrected: 2022-12-12
 version_adopted: 2022-12-05
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.410"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3284/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3256/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -40,15 +40,13 @@ von der Regierung erlassen am 12. Dezember 2006
 
 <sup>3</sup> Erwartungen mit Bezug auf die Leistung, das Verhalten und die zu erfüllenden Ziele werden klar kommuniziert.
 
-<sup>4</sup> Der Kanton stellt sich den sich ständig wandelnden Anforderungen. Er ist sich der damit zusammenhängenden hohen Ansprüche an die Mitarbeitenden bewusst. Der Umgang mit den Mitarbeitenden ist geprägt von Respekt, sozialer Verantwortung und Achtung der persönlichen Integrität, unter anderem durch Schutz vor sexueller Belästigung, Mobbing und Diskriminierung.
+<sup>4</sup> Der Kanton stellt sich den sich ständig wandelnden Anforderungen. Er ist sich der damit zusammenhängenden hohen Ansprüche an die Mitarbeitenden bewusst. Der Umgang mit den Mitarbeitenden ist geprägt von Respekt und sozialer Verantwortung.
 
 <sup>5</sup> Auf die gezielte Förderung wird grosser Wert gelegt. Das Prinzip der Chancengleichheit ist Leitlinie für das tägliche Handeln.
 
-<sup>6</sup> Der Kanton fördert die Gleichstellung der Geschlechter. Er bietet Rahmenbedingungen, die der Lohngleichheit und der Vereinbarkeit von Arbeit und Privatleben förderlich sind, wie flexible Arbeitszeiten, Möglichkeiten für Teilzeitarbeit, Jobsharing, Homeoffice und mobiles Arbeiten oder finanzielle Unterstützung für die Drittbetreuung von Kindern.
+<sup>6</sup> Der Kanton fördert die Gleichstellung der Geschlechter. Er bietet Rahmenbedingungen, die der Lohngleichheit und der Vereinbarkeit von Arbeit und Privatleben förderlich sind, wie flexible Arbeitszeiten oder Möglichkeiten für Teilzeitarbeit, Homeoffice und mobiles Arbeiten.
 
 <sup>7</sup> Der Kanton stellt sich den Herausforderungen einer ressourcenschonenden Verwaltung, die negative Umwelteinflüsse möglichst vermeidet. Im Rahmen eines Betrieblichen Mobilitätsmanagements wird die nachhaltige und umweltverträgliche Organisation und Abwicklung des Dienst- und Arbeitswegverkehrs gefördert.
-
-<sup>8</sup> Der Kanton fördert die Gleichstellung der kantonalen Amtssprachen. Er bietet Rahmenbedingungen, die der Vertretung und Verwendung der kantonalen Amtssprachen förderlich sind.
 
 ## 2. Begründung und Beendigung der Arbeitsverhältnisse
 
@@ -72,23 +70,21 @@ von der Regierung erlassen am 12. Dezember 2006
 
 **Probezeit**
 
-<sup>1</sup> Im Arbeitsvertrag können Probezeiten von bis zu sechs Monaten vereinbart werden:
+<sup>1</sup> Die Probezeit beträgt in der Regel:
 
-- a) für die Dienststellenleitenden, deren Stellvertretende und die Generalsekretärinnen und -sekretäre;
-- b) für Funktionen, die eine spezifische, während des Arbeitsverhältnisses zu absolvierende Ausbildung voraussetzen;
-- c) für Funktionen, die aufgrund besonderer Anforderungen eine längere Einarbeitung erfordern.
+- a) für die Dienststellenleitenden, deren Stellvertretende und die Generalsekretärinnen und -sekretäre zwölf Monate;
+- b) für die übrigen Mitarbeitenden ab der Gehaltsklasse 16 sechs Monate;
+- c) für die Mitarbeitenden in den Gehaltsklassen 1 bis 15 drei Monate.
 
-<sup>2</sup> Bei Verhinderungen an der Arbeitsleistung aufgrund von Krankheit, Unfall, Mutterschaft oder Erfüllung einer gesetzlichen Pflicht während gesamthaft mehr als einem Sechstel der Probezeit verlängert sich diese um die Dauer der Abwesenheiten.
+<sup>2</sup> Beträgt die Abwesenheit während der Probezeit mehr als ein Sechstel, verlängert sich diese um die Dauer der Abwesenheit.
 
 #### Art. 4
 
-**Kündigung des Arbeitsverhältnisses**
+**Kündigung des Arbeitsverhältnisses durch Mitarbeitende**
 
-<sup>1</sup> Die Kündigung durch Mitarbeitende erfolgt durch schriftliche Mitteilung an die Dienststelle.
+<sup>1</sup> Die Kündigung des Arbeitsverhältnisses ist der Dienststelle schriftlich einzureichen.
 
-<sup>2</sup> …
-
-<sup>3</sup> Die Kündigung durch den Kanton erfolgt durch Verfügung unter Angabe der Gründe und des Rechtsmittels.
+<sup>2</sup> Mitarbeitende, die einem Regierungsmitglied direkt unterstellt sind, teilen diesem die Kündigung schriftlich mit.
 
 #### Art. 5
 
@@ -107,39 +103,25 @@ von der Regierung erlassen am 12. Dezember 2006
 
 #### Art. 6
 
-**Änderung des Arbeitsumfangs**
+**Austrittsentschädigung beim Aufhebungsvertrag**
 
-<sup>1</sup> Eine dauerhafte Änderung des Arbeitsumfangs ist im Arbeitsvertrag festzuhalten.
-
-<sup>2</sup> Im Rahmen des Arbeitsvertrags können die Dienststelle und die Mitarbeiterin oder der Mitarbeiter jederzeit eine vorübergehende Änderung des Arbeitsumfangs vereinbaren.
+<sup>1</sup> Wird eine sofortige Auflösung des Arbeitsverhältnisses vereinbart, ohne dass ein Grund für eine fristlose Kündigung vorliegt, kann im Sinne eines Vergleichs eine Austrittsentschädigung festgelegt werden. Diese darf in der Regel die Höhe des Lohnes, der bis zur Beendigung des Arbeitsverhältnisses unter Einhaltung der ordentlichen Kündigungsfristen geschuldet wäre, nicht übersteigen.
 
 #### Art. 7
 
-**Alterspensionierung, Fortführung des Arbeitsverhältnisses**
+**Erreichen der Altersgrenze**
 
-<sup>1</sup> …
+<sup>1</sup> Die Mitarbeitenden treten auf Ende des Monats, in dem sie die Altersgrenze erreichen, in den Ruhestand.
 
-<sup>2</sup> …
+<sup>2</sup> Lehrpersonen sowie Schul- und Kindergarteninspektorinnen und -inspektoren treten auf den 31. August des Jahres in den Ruhestand, in dem sie die Altersgrenze erreichen. Wenn sie die Altersgrenze bis zu diesem Zeitpunkt noch nicht erreicht haben, kann das Arbeitsverhältnis auf Gesuch hin bis 31. Januar des folgenden Jahres verlängert werden.
 
-<sup>3</sup> …
+<sup>3</sup> Die Anstellungsinstanz genehmigt die Versetzung in den Ruhestand und kann in begründeten Fällen Ausnahmen von diesen Regelungen bewilligen.
 
 <sup>4</sup> Die Anstellungsinstanz kann die vorverschobene Pensionierung gemäss Artikel 15 Absatz 2 PG[^7-1] anordnen.
 
-<sup>5</sup> …
-
-<sup>6</sup> Bei Fortführung des Arbeitsverhältnisses nach Artikel 15 Absatz 4 PG ist die Befristung im Arbeitsvertrag festzuhalten.
+<sup>5</sup> Über die vorzeitige Versetzung in den Ruhestand aus gesundheitlichen Gründen gemäss Artikel 16 PG entscheidet die Anstellungsinstanz nach Kenntnisnahme vom Entscheid der kantonalen IV-Stelle.
 
 [^7-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
-
-#### Art. 7a
-
-**Anpassung oder Beendigung aus gesundheitlichen Gründen**
-
-<sup>1</sup> Über die Anpassung oder Beendigung eines Arbeitsverhältnisses gemäss Artikel 16 Absatz 1 PG[^7a-1] entscheidet die zuständige Instanz gemäss Artikel 63 PG nach Absprache mit dem PA. Sie erfolgt nach Massgabe der Unterlagen des IV-Verfahrens, frühestens auf den letzten Tag des Folgemonats nach deren Eingang beim PA.
-
-<sup>2</sup> Über die einvernehmliche Anpassung oder die Kündigung eines Arbeitsverhältnisses gemäss Artikel 16 Absatz 2 PG entscheidet die zuständige Instanz gemäss Artikel 63 PG nach Absprache mit dem PA. Bei einer voraussichtlich fortbestehenden teilweisen Arbeitsunfähigkeit kann das Arbeitsverhältnis gekündigt werden, wenn eine Anpassung nicht möglich oder nicht sinnvoll ist.
-
-[^7a-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 #### Art. 8
 
@@ -322,20 +304,6 @@ von der Regierung erlassen am 12. Dezember 2006
 
 <sup>1</sup> Der Anspruch auf Kinderzulagen ist beim PA schriftlich geltend zu machen. Der Wegfall des Anspruchs ist rechtzeitig mitzuteilen.
 
-#### Art. 21a
-
-**Unterstützung für die Drittbetreuung von Kindern**
-
-<sup>1</sup> Für die Drittbetreuung von Kindern wird den Mitarbeitenden ein Drittel der Kosten vergütet.
-
-<sup>2</sup> Massgebend sind die Kosten für die Drittbetreuung, die gemäss der definitiven Veranlagung von der kantonalen Einkommenssteuer abgezogen werden. Für Mitarbeitende, die in einem anderen Kanton steuerpflichtig sind oder an der Quelle besteuert werden, gilt ein Höchstbetrag, der dem im betreffenden Jahr geltenden (indexierten) maximalen Abzug nach Artikel 36 Absatz 1 Litera l des Steuergesetzes für den Kanton Graubünden[^21a-1] entspricht. Mitarbeitende, die an der Quelle besteuert werden, haben die betreffenden Kosten nachzuweisen.
-
-<sup>3</sup> Beiträge für das Kalenderjahr, in dem das Arbeitsverhältnis beginnt oder endet, werden entsprechend der Anstellungsdauer gekürzt.
-
-<sup>4</sup> Beiträge nach dieser Bestimmung sind beim PA unter Angabe des Abzugs gemäss der definitiven Steuerveranlagung zu beantragen. Das PA prüft die Anträge und richtet die Beiträge aus. Das PA kann dafür die zuständigen Steuerbehörden beiziehen und die betreffenden Angaben der definitiven Steuerveranlagung abfragen.
-
-[^21a-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
-
 #### Art. 22
 
 **Besondere Sozialzulage**
@@ -365,18 +333,13 @@ von der Regierung erlassen am 12. Dezember 2006
 
 **Personalfürsorgefonds**
 
-<sup>1</sup> Mitarbeitende der kantonalen Verwaltung, die insbesondere aus gesundheitlichen, familiären oder beruflichen Gründen in eine finanzielle Notlage geraten, können zulasten des Personalfürsorgefonds finanziell unterstützt werden. Eine finanzielle Notlage liegt insbesondere vor, wenn der Existenzbedarf nicht gesichert ist.
+<sup>1</sup> Über verzinsliche und unverzinsliche Darlehen aus dem Personalfürsorgefonds bis zu 5000 Franken entscheidet das PA, über 5000 Franken das Departement für Finanzen und Gemeinden.
 
-<sup>2</sup> Finanzielle Unterstützung kann gewährt werden in Form von:
+<sup>2</sup> Das Departement für Finanzen und Gemeinden legt die Zinsbedingungen fest.
 
-- a) verzinslichen Darlehen von bis zu 10 000 Franken durch das PA und darüber hinaus durch das Departement für Finanzen und Gemeinden;
-- b) unverzinslichen Darlehen von bis zu 10 000 Franken oder A-fonds-perdu-Beiträgen von bis zu 4000 Franken durch das PA und darüber hinaus durch das Departement für Finanzen und Gemeinden, wenn es aufgrund besonderer Umstände zur Linderung der Notlage notwendig ist.
+<sup>3</sup> Unverzinsliche Darlehen werden nur in ausgewiesenen Härtefällen gewährt.
 
-<sup>3</sup> Unter Berücksichtigung des Existenzbedarfs vereinbaren die nach Absatz 2 zuständige Instanz und die Mitarbeiterin oder der Mitarbeiter, dass die Raten zur Rückzahlung eines Darlehens monatlich und mit der letzten Rate die Zinsen vom Lohn abgezogen werden.
-
-<sup>4</sup> Der Personalfürsorgefonds der kantonalen Verwaltung wird vom PA verwaltet. Anträge auf finanzielle Unterstützung sind an das PA zu richten und müssen die zur Beurteilung der finanziellen Notlage erforderlichen Angaben enthalten. Das PA leitet Anträge, über die es nicht selbst entscheiden kann, mit einem Mitbericht und einem Vorschlag hinsichtlich einer Rückzahlungsvereinbarung an das Departement für Finanzen und Gemeinden weiter.
-
-<sup>5</sup> Einmal jährlich legt das Departement für Finanzen und Gemeinden die Zinsbedingungen fest.
+<sup>4</sup> Im Ausnahmefall können Beiträge à fonds perdu gewährt werden. Bis zu 2000 Franken entscheidet das PA, über 2000 Franken das Departement für Finanzen und Gemeinden.
 
 #### Art. 24a
 
@@ -574,7 +537,7 @@ von der Regierung erlassen am 12. Dezember 2006
 
 **Meldepflicht über Krankenabsenzen, Arztzeugnis**
 
-<sup>1</sup> Krankheitsabsenzen sind unverzüglich der Dienststelle mitzuteilen.
+<sup>1</sup> Krankheitsabsenzen sind unverzüglich der Dienststelle mitzuteilen. Dies gilt auch für Krankheitsfälle während der Ferien, wenn die Mitarbeiterin oder der Mitarbeiter die betroffenen Ferientage gemäss Artikel 47 nachbeziehen will.
 
 <sup>2</sup> Krankheitsabsenzen von mehr als fünf Arbeitstagen sind mit einem Arztzeugnis zu belegen. Dieses muss den Umfang und die voraussichtliche Dauer der Arbeitsunfähigkeit enthalten. Die Dienststelle kann in begründeten Fällen ein Arztzeugnis vor Ablauf von fünf Arbeitstagen verlangen.
 
@@ -618,10 +581,6 @@ von der Regierung erlassen am 12. Dezember 2006
 
 <sup>3</sup> Ist der Unfall auf grobes Verschulden der Mitarbeiterin oder des Mitarbeiters zurückzuführen, entscheidet das Departement auf Antrag des PA über eine Lohnkürzung.
 
-<sup>4</sup> Spricht die obligatorische Unfallversicherung, die Invalidenversicherung oder die Militärversicherung nachträglich wegen Krankheit oder Unfalls eine Rente zu, kann der Kanton vom Versicherer verlangen, dass die Rente bis zur Höhe seiner Vorschussleistung beziehungsweise in dem Umfang an den Kanton ausbezahlt wird, in welchem dieser während der Zeit, für welche die Rente nachbezahlt wird, Lohn nach Artikel 36 ff. PG[^42-1] ausrichtete.
-
-[^42-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
-
 #### Art. 43
 
 **Lohnzahlung während der Schwangerschaft**
@@ -640,9 +599,9 @@ von der Regierung erlassen am 12. Dezember 2006
 
 #### Art. 44
 
-**Pensionskasse, Aufteilung der Sparbeiträge**
+**Pensionskasse, Aufteilung der Beiträge**
 
-<sup>1</sup> Die Sparbeiträge werden abhängig vom Alter zwischen den Mitarbeitenden und der kantonalen Verwaltung wie folgt aufgeteilt:
+<sup>1</sup> Die Pensionskassenbeiträge werden in Abhängigkeit zum Alter zwischen den Mitarbeitenden und der kantonalen Verwaltung wie folgt aufgeteilt:
 
 <table>
 <tr><th>BVG-Alter (Mann/Frau)</th><th>Gesamtbeitrag Prozent</th><th>Mitarbeitende Prozent</th><th>Kanton Prozent</th></tr>
@@ -665,7 +624,9 @@ von der Regierung erlassen am 12. Dezember 2006
 
 #### Art. 44b
 
-**…**
+**Todesfallkapital**
+
+<sup>1</sup> Beim Tod einer versicherten Mitarbeiterin oder eines versicherten Mitarbeiters während des Arbeitsverhältnisses erhalten die gemäss Pensionskassengesetz anspruchsberechtigten hinterbliebenen Personen ein einmaliges Todesfallkapital von 25 000 Franken. Die Prämie für diese Versicherung trägt der Kanton.
 
 #### Art. 45
 
@@ -714,21 +675,13 @@ von der Regierung erlassen am 12. Dezember 2006
 
 <sup>2</sup> Die Ferienentschädigung wird in Prozenten des Bruttolohnes festgelegt und beträgt bei einem Ferienanspruch von:
 
-- a) fünf Wochen — 10,64 Prozent;
-- b) fünfeinhalb Wochen — 11,83 Prozent;
-- c) sechs Wochen — 13,04 Prozent.
+- a) 20 Arbeitstagen — 8,33 Prozent;
+- b) 25 Arbeitstagen — 10,64 Prozent;
+- c) 30 Arbeitstagen — 13,04 Prozent.
 
 <sup>3</sup> Als Bruttolohn gelten alle Lohnbezüge mit Ausnahme des 13. Monatslohnes und der Dienstalterszulage gemäss Artikel 42 Absatz 2 PG[^46-1] .
 
 [^46-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
-
-#### Art. 46a
-
-**Erwerb zusätzlicher Ferien**
-
-<sup>1</sup> Pro Kalenderjahr können bis zu zehn zusätzliche Ferientage erworben werden.
-
-<sup>2</sup> Die Dienststelle teilt die Anzahl zusätzlicher Ferientage und die Zahlungsmodalitäten dem PA mit.
 
 #### Art. 47
 
@@ -781,21 +734,21 @@ von der Regierung erlassen am 12. Dezember 2006
 
 **Dienstaltersurlaub**
 
-<sup>1</sup> Der Anspruch auf Dienstaltersurlaub entsteht mit Vollendung des betreffenden Dienstjahres nach Artikel 42 Absatz 1 PG[^51-1] und richtet sich nach dem durchschnittlichen Arbeitsumfang der letzten fünf Jahre. Bei einem Wiedereintritt innert vier Jahren werden frühere Dienstjahre und Arbeitsumfänge angerechnet.
+<sup>1</sup> Der Anspruch richtet sich nach dem letzten Eintritt beim Kanton. Die Anstellungsinstanz berücksichtigt in besonderen Fällen frühere volle Dienstjahre beim Kanton. Die Ausbildungszeit, wie Berufslehre, Schulen des Gesundheitswesens und Praktika, wird nicht angerechnet.
 
-<sup>2</sup> Dienstaltersurlaube sind innert fünf Jahren zu beziehen.
+<sup>2</sup> Der Urlaub kann auf höchstens fünf Jahre aufgeteilt werden.
 
-<sup>3</sup> Lehrpersonen können Dienstaltersurlaube auch in Form einer Reduktion der Pflichtstundenzahl gewährt werden.
-
-[^51-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
+<sup>3</sup> Lehrpersonen kann der bezahlte Urlaub auch in Form einer Reduktion der Pflichtstundenzahl gewährt werden.
 
 #### Art. 52
 
-**Dienstaltersurlaub in Form einer Zulage**
+**Umwandlung des Dienstaltersurlaubs in eine Zulage**
 
-<sup>1</sup> Für die Umwandlung eines Dienstaltersurlaubs gemäss Artikel 51 in eine Zulage sind das Grundgehalt einschliesslich einer allfälligen Funktionszulage im Zeitpunkt der Auszahlung massgebend.
+<sup>1</sup> Für die Berechnung der Zulage gemäss Artikel 42 Absatz 2 PG[^52-1] ist in der Regel der Lohn des Auszahlungsmonats massgebend.
 
-<sup>2</sup> Den im Stundenlohn angestellten Mitarbeitenden werden Dienstaltersurlaube in Form einer Zulage gewährt, die mit 10, 15, und 20 Dienstjahren einem halben und ab dem 25. Dienstjahr einem monatlichen Grundgehalt (exklusive 13. Monatslohn, Ferien- und Feiertagsentschädigung) entspricht. Artikel 51 Absatz 1 gilt sinngemäss, wobei sich der Anspruch nach dem durchschnittlichen Lohn der letzten fünf Jahre richtet und bei einem Wiedereintritt frühere Dienstjahre und Löhne angerechnet werden. Die Zulage wird in dem Monat ausbezahlt, der auf die Entstehung des Anspruchs folgt.
+<sup>2</sup> Die Zulage an Mitarbeitende mit schwankendem Arbeitsumfang richtet sich in der Regel nach dem durchschnittlichen Monatsbezug der zwei Jahre, die dem Auszahlungsmonat vorausgegangen sind.
+
+[^52-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 #### Art. 53
 
@@ -824,7 +777,7 @@ von der Regierung erlassen am 12. Dezember 2006
 - a) wenn das Kind lebensfähig geboren wird; oder
 - b) wenn die Schwangerschaft mindestens 23 Wochen gedauert hat.
 
-<sup>3</sup> …
+<sup>3</sup> Der Mutterschaftsurlaub wird auf Antrag aufgeschoben, wenn mit einem Arztzeugnis belegt wird, dass das Kind kurz nach der Geburt mindestens drei Wochen im Krankenhaus verbleiben muss. Der Mutterschaftsurlaub beginnt, wenn das Kind zur Mutter zurückkehrt oder stirbt. Während des Aufschubs wird der volle Lohn ausgerichtet.
 
 <sup>4</sup> Bei schwankendem Arbeitsumfang ist für die Berechnung des Lohnes der in den zwölf Monaten vor der Geburt durchschnittlich bezogene Lohn massgebend.
 
@@ -840,7 +793,7 @@ von der Regierung erlassen am 12. Dezember 2006
 
 <sup>2</sup> Bei unbezahlten Urlauben bis zu zehn Arbeitstagen übernehmen die Mitarbeitenden und der Kanton die Beiträge an die Pensionskasse. Bei einem Urlaub von mehr als zehn Arbeitstagen übernimmt die beurlaubte Person die Arbeitgeber- und Arbeitnehmerbeiträge.
 
-<sup>3</sup> Unbezahlte Urlaube von bis zu sechs Monaten werden für Dienstaltersurlaube gemäss Artikel 42 PG[^55-1] als Dienstjahre angerechnet.
+<sup>3</sup> Unbezahlte Urlaube von mehr als sechs Monaten werden für die Festlegung des Dienstaltersurlaubs gemäss Artikel 42 PG[^55-1] nicht mitgerechnet.
 
 [^55-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
@@ -852,53 +805,35 @@ von der Regierung erlassen am 12. Dezember 2006
 
 - a) drei Tage für ihre Heirat;
 - b) einen Tag für die Heirat eigener Kinder, Geschwister und Eltern;
-- c) 13 Tage innerhalb von sechs Monaten nach der Geburt für die Vaterschaft;
-- c)<sup>bis</sup> 13 Tage innerhalb von einem Jahr nach Aufnahme des Kindes für die Adoption;
+- c) zehn Tage innerhalb von sechs Monaten für die Geburt eigener Kinder;
+- c)<sup>bis</sup> fünf Tage für die Adoption;
 - d) drei Tage beim Hinschied von Ehegatten, von eigenen Kindern, Eltern und Geschwistern;
-- e) einen Tag für Wohnungswechsel bei einem Anstellungsumfang von 50 Prozent und mehr, einen halben Tag bei einem darunter liegenden Anstellungsumfang;
-- f) drei Tage für die notwendige Betreuung eines Familienmitglieds mit gesundheitlicher Beeinträchtigung, jedoch höchstens zehn Tage pro Jahr;
-- g) bis zu 14 Wochen beziehungsweise, wenn beide Eltern erwerbstätig sind, bis zu 7 Wochen innerhalb von 18 Monaten ab dem ersten Urlaubstag für die notwendige Betreuung eigener minderjähriger Kinder, die infolge Krankheit oder Unfall im Sinne von Artikel 16o des Bundesgesetzes über den Erwerbsersatz[^56-1] gesundheitlich schwer beeinträchtigt sind. Der Urlaub wird pro Krankheitsfall oder Unfall und bei einem Rückfall nach einer längeren beschwerdefreien Zeit gewährt.
+- e) für Wohnungswechsel bei einem Anstellungsumfang von 50 Prozent und mehr einen Tag, bei einem darunter liegenden Anstellungsumfang einen halben Tag.
 
-<sup>2</sup> Die Mitarbeitenden erhalten für folgende Ereignisse bezahlten Urlaub, wenn diese unausweichlich mit der ordentlichen Arbeitszeit zusammenfallen und der Urlaub in unmittelbarem Zusammenhang mit dem Ereignis bezogen wird:
+<sup>2</sup> Die Mitarbeitenden erhalten für folgende Ereignisse bezahlten Urlaub, wenn diese unausweichlich mit der ordentlichen Arbeitszeit zusammen fallen und der Urlaub in unmittelbarem Zusammenhang mit dem Ereignis bezogen wird:
 
 - a) höchstens zwei Tage beim Hinschied von Schwiegereltern, Schwiegertöchtern, Schwiegersöhnen, Grosseltern und Enkelkindern;
 - b) höchstens einen Tag beim Hinschied von Verschwägerten, Tanten, Onkeln, Nichten und Neffen. Beim Hinschied von Grosseltern, Tanten, Onkeln, Nichten und Neffen der Ehegattin oder des -gatten wird derselbe Urlaub gewährt;
 - c) höchstens drei Tage für dienstlich befohlene Wohnortswechsel;
-- d) höchstens zwei Tage in öffentlichen Angelegenheiten unter Vorbehalt von Artikel 57 PG[^56-2] und Artikel 61. Anspruch auf bezahlten Urlaub für Behördenbesuche und -vorladungen besteht nur, wenn diese im öffentlichen Interesse liegen;
+- d) höchstens zwei Tage in öffentlichen Angelegenheiten unter Vorbehalt von Artikel 57 PG[^56-1] und Artikel 61. Anspruch auf bezahlten Urlaub für Behördenbesuche und -vorladungen besteht nur, wenn diese im öffentlichen Interesse liegen;
 - e) höchstens fünf Tage für die Leiterausbildung in J+S, bei den Jungschützen und bei anderen Jugendorganisationen. Bei der Teilnahme als Kursleiterin oder -leiter in diesen Organisationen wird für die Hälfte der ausfallenden Arbeitszeit ein bezahlter Urlaub gewährt, pro Kurs jedoch höchstens zweieinhalb Tage;
 - f) höchstens drei Tage für nichtamtliche Delegationen an Berufsverbandstage, sofern die Veranstaltung im öffentlichen Interesse liegt und die berufliche Weiterbildung der Mitarbeiterin oder des Mitarbeiters fördert;
 - g) für die Dauer des obligatorischen Feuerwehrdienstes;
 - h) für die Dauer der militärischen Rekrutierung und Inspektionen;
-- i) …
+- i) höchstens drei Tage pro Fall bei Krankheit eigener Kinder oder pflegebedürftiger Personen, wenn die Hilfeleistung nicht von einer anderen Person wahrgenommen werden kann;
 - j) gesamthaft einen halben Tag für die Stellensuche nach der Kündigung der Arbeitsstelle;
-- k) die für das Stillen oder Abpumpen von Milch im ersten Lebensjahr der eigenen Kinder erforderliche Zeit, maximal jedoch die Zeit gemäss Artikel 60 Absatz 2 der eidgenössischen Verordnung 1 zum Arbeitsgesetz[^56-3].
+- k) die für das Stillen oder Abpumpen von Milch im ersten Lebensjahr der eigenen Kinder erforderliche Zeit, maximal jedoch die Zeit gemäss Artikel 60 Absatz 2 der eidgenössischen Verordnung 1 zum Arbeitsgesetz[^56-2].
 
-<sup>3</sup> Die Bestimmungen gemäss Absatz 1 und Absatz 2 gelten für Mitarbeitende in eingetragener Partnerschaft oder faktischer Lebensgemeinschaft sinngemäss.
+<sup>3</sup> Die Bestimmungen gemäss den Absätzen 1 und 2 gelten sinngemäss auch für Mitarbeitende in eingetragener Partnerschaft und für Mitarbeitende in faktischer Lebensgemeinschaft.
 
 <sup>4</sup> …
 
 <sup>5</sup> Hat die Mitarbeiterin oder der Mitarbeiter in Todesfällen die Trauerfeierlichkeiten vorzubereiten oder wird für die Reise zu den Trauerfeierlichkeiten eine längere Zeit benötigt, beträgt die Urlaubsdauer höchstens drei Tage.
 
-<sup>6</sup> In besonderen Fällen kann die Dienststelle nach Anhören des PA längere bezahlte Urlaube gewähren, wenn ein Urlaubsgrund gemäss Absatz 1 oder Absatz 2 vorliegt.
+<sup>6</sup> In besonderen Fällen kann das Departement nach Anhören des PA längere bezahlte Urlaube gewähren, wenn ein Urlaubsgrund gemäss den Absätzen 1 und 2 vorliegt.
 
-[^56-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
-[^56-2]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
-[^56-3]: SR [822.111](https://db.clex.ch/link/Bund/822.111/de)
-
-#### Art. 56a
-
-**Änderung des Arbeitsumfangs nach Geburt und Adoption**
-
-<sup>1</sup> Sprechen keine schwerwiegenden betrieblichen Gründe dagegen, können Mitarbeitende den Arbeitsumfang um bis zu 20 Prozent auf wenigstens 20 Prozent reduzieren:
-
-- a) nach der Geburt eigener Kinder;
-- b) nach der Adoption eines oder mehrerer Kinder.
-
-<sup>2</sup> Die Reduktion des Arbeitsumfangs ist vor oder innerhalb von sechs Monaten nach der Geburt oder der Adoption bei der Dienststelle geltend zu machen.
-
-<sup>3</sup> Wird einvernehmlich nichts Anderes festgelegt, erfolgt die Reduktion des Arbeitsumfangs in einem Schritt auf Beginn des sechsten Monats nach der Geltendmachung.
-
-<sup>4</sup> Mitarbeitende können den reduzierten Arbeitsumfang wieder um bis zu 20 Prozent erhöhen. Die Erhöhung ist innerhalb von drei Jahren nach der Reduktion bei der Dienststelle geltend zu machen. Absatz 3 gilt sinngemäss.
+[^56-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
+[^56-2]: SR [822.111](https://db.clex.ch/link/Bund/822.111/de)
 
 #### Art. 57
 
@@ -921,21 +856,6 @@ von der Regierung erlassen am 12. Dezember 2006
 <sup>1</sup> Das Departement entscheidet über die Kostenübernahme für einen Rechtsbeistand gemäss Artikel 47 PG[^57a-1].
 
 [^57a-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
-
-#### Art. 57b
-
-**Meldung von Missständen**
-
-<sup>1</sup> Die Regierung erteilt den Auftrag zum Betrieb der Meldestelle gemäss Artikel 47a PG[^57b-1].
-
-<sup>2</sup> Ein Auftrag nach Absatz 1:
-
-- a) ist mit natürlichen oder juristischen Personen mit Wohnsitz beziehungsweise Sitz in der Schweiz abzuschliessen;
-- b) muss hinreichende Zusicherungen bezüglich Geheimhaltung, Datenschutz, fachlicher und methodischer Kompetenz, geeigneter Meldekanäle und Unabhängigkeit enthalten;
-- c) ist auf höchstens sechs Jahre befristet abzuschliessen, unter Ausschluss von Verlängerungen oder Anschlussverträgen;
-- d) darf frühestens sechs Jahre nach Ablauf eines früheren Auftrags nach Absatz 1 wieder mit derselben Person abgeschlossen werden.
-
-[^57b-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 ## 4. Pflichten der Mitarbeitenden
 
@@ -962,21 +882,6 @@ von der Regierung erlassen am 12. Dezember 2006
 <sup>2</sup> Die Aktenedition in Gerichts- und Verwaltungsverfahren richtet sich nach den einschlägigen Verfahrensbestimmungen des Bundes und des Kantons. In zivil- und verwaltungsrichterlichen Verfahren entscheidet das Departement und im Streitfalle die Regierung.
 
 <sup>3</sup> Die Mitwirkung als Partei, Zeugin oder Zeuge sowie als Sachverständige oder Sachverständiger in einem Gerichtsverfahren bedarf der Ermächtigung des Departements, sofern eine Entbindung vom Amtsgeheimnis erforderlich ist. Die Ermächtigungspflicht gilt auch nach Beendigung des Arbeitsverhältnisses.
-
-#### Art. 60bis
-
-**Verbot der Annahme von Geschenken**
-
-<sup>1</sup> Ausgenommen vom Verbot sind Geschenke und Vorteile:
-
-- a) die aus besonderem Anlass, wie zu Weihnachten, Neujahr oder einem Jubiläum, ausgerichtet beziehungsweise gewährt werden;
-- b) deren Wert 100 Franken nicht übersteigt, wobei Geschenke und Vorteile, die innerhalb eines Jahrs von derselben Person oder Institution ausgerichtet beziehungsweise gewährt werden, zusammengerechnet werden; und
-- c) deren Annahme nicht den Anschein der Befangenheit erweckt.
-
-<sup>2</sup> Geschenke oder Vorteile, die nicht angenommen werden dürfen, und entsprechende Angebote sowie Zweifelsfälle sind der Dienststelle zu melden. Die Dienststelle entscheidet:
-
-- a) ob eine Ausnahme nach Absatz 1 vorliegt;
-- b) ob die Geschenke, Vorteile oder Angebote angenommen oder zurückgewiesen, vernichtet oder anderweitig verwendet werden.
 
 ## 5. Verschiedene Bestimmungen
 
@@ -1182,12 +1087,6 @@ von der Regierung erlassen am 12. Dezember 2006
 #### Art. 69
 
 **…**
-
-#### Art. 69a
-
-**Übergangsbestimmungen**
-
-<sup>1</sup> Bezüglich Ausbildungszeiten, wie Berufslehren, Schulen des Gesundheitswesens und Praktika, sowie Wiedereintritte in der Zeit vor dem 1. Januar 2023 richtet sich die Anrechnung beziehungsweise Berücksichtigung früherer Dienstjahre und Arbeitsumfänge nach Artikel 51 Absatz 1 in der Fassung vom 12. Dezember 2006.
 
 #### Art. 70
 

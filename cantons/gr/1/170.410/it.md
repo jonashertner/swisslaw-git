@@ -5,12 +5,12 @@ title: Ordinanza sul personale
 short: OCPers
 language: it
 version: 2023-01-01
-valid_until: 2025-12-31
+corrected: 2022-12-12
 version_adopted: 2022-12-05
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.410"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3284/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3256/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -40,15 +40,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 <sup>3</sup> Le aspettative con riferimento alla prestazione, al comportamento e agli obiettivi che devono essere raggiunti vengono comunicate chiaramente.
 
-<sup>4</sup> Il Cantone affronta le sfide in continua evoluzione. È consapevole delle elevate esigenze ad esse legate poste ai collaboratori. Il rapporto con i collaboratori è caratterizzato dal rispetto, dalla responsabilità sociale e dalla salvaguardia dell'integrità personale, tra l'altro tramite la protezione da molestie sessuali, mobbing e discriminazione.
+<sup>4</sup> Il Cantone affronta le sfide in continua evoluzione. È consapevole delle elevate esigenze ad esse legate poste ai collaboratori. Il rapporto con i collaboratori è caratterizzato dal rispetto e dalla responsabilità sociale.
 
 <sup>5</sup> Alla promozione mirata viene attribuita grande importanza. Il principio delle pari opportunità è la linea guida per l'agire quotidiano.
 
-<sup>6</sup> Il Cantone promuove la parità dei sessi. Esso offre condizioni quadro favorevoli alla parità salariale e alla conciliabilità tra lavoro e vita privata, come orari di lavoro flessibili, possibilità di lavoro a tempo parziale, di job sharing, di lavoro da casa e di lavoro mobile o sostegno finanziario per l'assistenza ai figli da parte di terzi.
+<sup>6</sup> Il Cantone promuove la parità dei sessi. Esso offre condizioni favorevoli alla parità salariale e alla conciliabilità tra lavoro e vita privata, come orari di lavoro flessibili o la possibilità di lavoro a tempo parziale, di lavoro da casa e di lavoro mobile.
 
 <sup>7</sup> Il Cantone affronta le sfide di un'Amministrazione che salvaguarda le risorse e che evita per quanto possibile influssi negativi sull'ambiente. Nel quadro di una gestione della mobilità aziendale vengono promossi l'organizzazione e la realizzazione sostenibili ed ecocompatibili del traffico di servizio e del traffico per recarsi sul luogo di lavoro.
-
-<sup>8</sup> Il Cantone promuove la parità delle lingue ufficiali cantonali. Esso offre condizioni quadro che favoriscono la rappresentanza e all'uso delle lingue ufficiali cantonali.
 
 ## 2. Costituzione e cessazione dei rapporti di lavoro
 
@@ -72,23 +70,21 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 **Periodo di prova**
 
-<sup>1</sup> Nel contratto di lavoro possono essere convenuti periodi di prova fino a sei mesi:
+<sup>1</sup> Il periodo di prova dura di regola:
 
-- a) per i capi servizio, i loro supplenti e i segretari generali;
-- b) per le funzioni che presuppongono una formazione specifica che deve essere seguita durante il rapporto di lavoro;
-- c) per le funzioni che a seguito di requisiti particolari richiedono un'introduzione al lavoro prolungata.
+- a) dodici mesi per i capi servizio, i loro supplenti e i segretari generali;
+- b) sei mesi per gli altri collaboratori a partire dalla classe di stipendio 16;
+- c) tre mesi per i collaboratori nelle classi di stipendio da 1 a 15.
 
-<sup>2</sup> In caso di impedimento al lavoro a seguito di malattia, infortunio, maternità o adempimento di un obbligo previsto dalla legge per un periodo complessivo di oltre un sesto del periodo di prova, quest'ultimo si prolunga della durata delle assenze.
+<sup>2</sup> Se l'assenza durante il periodo di prova ammonta a più di un sesto, esso si prolunga della durata dell'assenza.
 
 #### Art. 4
 
-**Disdetta del rapporto di lavoro**
+**Disdetta del rapporto di lavoro da parte di collaboratori**
 
-<sup>1</sup> La disdetta da parte dei collaboratori avviene tramite comunicazione scritta al servizio.
+<sup>1</sup> La disdetta del rapporto di lavoro deve essere inoltrata per iscritto al servizio.
 
-<sup>2</sup> …
-
-<sup>3</sup> La disdetta da parte del Cantone avviene tramite decisione con indicazione dei motivi e dei rimedi giuridici.
+<sup>2</sup> I collaboratori che sono direttamente subordinati ad un membro del Governo comunicano a quest'ultimo la disdetta per iscritto.
 
 #### Art. 5
 
@@ -107,39 +103,25 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 #### Art. 6
 
-**Modifica del volume di impiego**
+**Indennità di uscita in caso di contratto di annullamento**
 
-<sup>1</sup> Una modifica duratura del volume di impiego deve essere fissata nel contratto di lavoro.
-
-<sup>2</sup> Nel quadro del contratto di lavoro il servizio e il collaboratore possono in ogni momento concordare una modifica temporanea del volume di impiego.
+<sup>1</sup> Se viene concordato uno scioglimento immediato del rapporto di lavoro senza motivo per una disdetta immediata, ai sensi di una transazione può essere stabilita un'indennità di uscita. Quest'ultima non può di regola superare l'ammontare dello stipendio dovuto fino alla cessazione del rapporto di lavoro, se fossero rispettati i termini di disdetta ordinari.
 
 #### Art. 7
 
-**Pensionamento, prosecuzione del rapporto di lavoro**
+**Raggiungimento del limite d'età**
 
-<sup>1</sup> …
+<sup>1</sup> I collaboratori vanno in pensione alla fine del mese in cui raggiungono il limite d'età.
 
-<sup>2</sup> …
+<sup>2</sup> Gli insegnanti, nonché gli ispettori scolastici e di scuola dell'infanzia vanno in pensione il 31 agosto dell'anno in cui raggiungono il limite d'età. Se a tale data non hanno ancora raggiunto il limite d'età, su domanda il rapporto di lavoro può essere prolungato fino al 31 gennaio dell'anno seguente.
 
-<sup>3</sup> …
+<sup>3</sup> L'autorità di assunzione approva il pensionamento e in casi motivati può autorizzare eccezioni a queste norme.
 
 <sup>4</sup> L'autorità di assunzione può disporre il pensionamento anticipato secondo l'articolo 15 capoverso 2 LCPers[^7-1].
 
-<sup>5</sup> …
-
-<sup>6</sup> In caso di prosecuzione del rapporto di lavoro secondo l'articolo 15 capoverso 4 LCPers, la limitazione temporale deve essere fissata nel contratto di lavoro.
+<sup>5</sup> L'autorità di assunzione decide in merito al pensionamento anticipato per motivi di salute secondo l'articolo 16 LCPers dopo aver preso atto della decisione dell'Ufficio AI cantonale.
 
 [^7-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
-
-#### Art. 7a
-
-**Adeguamento o scioglimento per motivi di salute**
-
-<sup>1</sup> La decisione in merito all'adeguamento o allo scioglimento di un rapporto di lavoro conformemente all'articolo 16 capoverso 1 LCPers[^7a-1] spetta all'autorità competente conformemente all'articolo 63 LCPers previo accordo con l'UP. L'adeguamento o lo scioglimento avviene sulla base della documentazione della procedura AI, al più presto con effetto all'ultimo giorno del mese successivo al mese in cui tale documentazione è pervenuta all'UP.
-
-<sup>2</sup> La decisione in merito all'adeguamento di comune accordo o allo scioglimento di un rapporto di lavoro conformemente all'articolo 16 capoverso 2 LCPers spetta all'autorità competente conformemente all'articolo 63 LCPers previo accordo con l'UP. In caso di inabilità parziale al lavoro che presumibilmente continuerà a sussistere il rapporto di lavoro può essere disdetto se un adeguamento non è possibile o non è sensato.
-
-[^7a-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 #### Art. 8
 
@@ -322,20 +304,6 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 <sup>1</sup> Il diritto agli assegni per i figli deve essere fatto valere per iscritto presso l'UP. La cessazione del diritto deve essere comunicata tempestivamente.
 
-#### Art. 21a
-
-**Sostegno per l'assistenza ai figli da parte di terzi**
-
-<sup>1</sup> Ai collaboratori viene versato un terzo delle spese per l'assistenza ai figli da parte di terzi.
-
-<sup>2</sup> Sono determinanti le spese per l'assistenza da parte di terzi che conformemente alla tassazione definitiva vengono dedotte dall'imposta cantonale sul reddito. Per i collaboratori assoggettati alle imposte in un altro Cantone oppure tassati alla fonte vale un importo massimo che corrisponde alla deduzione massima (indicizzata) secondo l'articolo 36 capoverso 1 lettera l della legge sulle imposte per il Cantone dei Grigioni[^21a-1] in vigore nell'anno in questione. I collaboratori tassati alla fonte devono comprovare le relative spese.
-
-<sup>3</sup> I contributi per l'anno civile in cui il rapporto di lavoro inizia o cessa vengono ridotti in proporzione alla durata dell'impiego.
-
-<sup>4</sup> I contributi previsti da questa disposizione devono essere richiesti all'UP indicando la deduzione conformemente alla tassazione fiscale definitiva. L'UP prende in esame le domande e versa i contributi. A tale scopo l'UP può fare capo alle autorità fiscali competenti e chiedere informazioni in merito alle relative indicazioni fatte nella tassazione fiscale definitiva.
-
-[^21a-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
-
 #### Art. 22
 
 **Indennità sociale speciale**
@@ -365,18 +333,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 **Fondo di previdenza per il personale**
 
-<sup>1</sup> I collaboratori dell'Amministrazione cantonale che in particolare per motivi di salute, familiari o professionali si trovano in una situazione di necessità finanziaria possono essere sostenuti finanziariamente con mezzi provenienti dal fondo di previdenza per il personale. Una situazione di necessità finanziaria sussiste in particolare quando non è garantito il fabbisogno vitale.
+<sup>1</sup> La decisione su mutui con e senza interessi dal fondo di previdenza per il personale fino a 5 000 franchi spetta all'UP, la decisione su quelli superiori a 5000 franchi spetta al Dipartimento delle finanze e dei comuni.
 
-<sup>2</sup> Il sostegno finanziario può essere concesso sotto forma di:
+<sup>2</sup> Il Dipartimento delle finanze e dei comuni stabilisce le condizioni relative agli interessi.
 
-- a) mutui con interessi fino a 10 000 franchi da parte dell'UP e, in aggiunta, da parte del Dipartimento delle finanze e dei comuni;
-- b) mutui senza interessi fino a 10 000 franchi o contributi a fondo perso fino a 4000 franchi da parte dell'UP e, in aggiunta, da parte del Dipartimento delle finanze e dei comuni, se a seguito di circostanze particolari ciò risulta necessario per attenuare la situazione di necessità.
+<sup>3</sup> I mutui senza interessi vengono concessi soltanto in casi di rigore comprovati.
 
-<sup>3</sup> Tenendo conto del fabbisogno vitale l'autorità competente secondo il capoverso 2 e il collaboratore stabiliscono in un accordo che le rate per il rimborso di un mutuo vengono dedotte mensilmente dallo stipendio e che insieme all'ultima rata vengono dedotti gli interessi.
-
-<sup>4</sup> Il fondo di previdenza per il personale dell'Amministrazione cantonale viene gestito dall'UP. Le domande di sostegno finanziario devono essere indirizzate all'UP e devono contenere le informazioni necessarie per la valutazione della situazione di necessità finanziaria. L'UP trasmette al Dipartimento delle finanze e dei comuni le domande in merito alle quali non può decidere autonomamente insieme a un corapporto e a una proposta di accordo per il rimborso.
-
-<sup>5</sup> Una volta all'anno il Dipartimento delle finanze e dei comuni stabilisce le condizioni relative agli interessi.
+<sup>4</sup> In casi eccezionali possono essere concessi contributi a fondo perso. Fino a 2000 franchi decide l'UP, oltre 2000 franchi il Dipartimento delle finanze e dei comuni.
 
 #### Art. 24a
 
@@ -574,7 +537,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 **Obbligo di comunicare le assenze per malattia, certificato medico**
 
-<sup>1</sup> Le assenze per malattia devono essere comunicate immediatamente al servizio.
+<sup>1</sup> Le assenze per malattia devono essere comunicate immediatamente al servizio. Ciò vale anche per i casi di malattia durante le vacanze, se il collaboratore vuole recuperare i giorni di vacanza interessati secondo l'articolo 47.
 
 <sup>2</sup> Le assenze per malattia che superano i cinque giorni lavorativi devono essere comprovate con un certificato medico. Quest'ultimo deve contenere il grado e la presumibile durata dell'inabilità al lavoro. In casi motivati il servizio può pretendere l'esibizione di un certificato medico prima che siano trascorsi cinque giorni lavorativi.
 
@@ -618,10 +581,6 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 <sup>3</sup> Se l'infortunio è da attribuire a una colpa grave del collaboratore, il Dipartimento decide una riduzione dello stipendio su proposta dell'UP.
 
-<sup>4</sup> Se l'assicurazione infortuni obbligatoria, l'assicurazione per l'invalidità o l'assicurazione militare concede una rendita a posteriori a seguito di malattia o infortunio, il Cantone può esigere dall'assicuratore che la rendita venga versata al Cantone fino a concorrenza dell'importo da esso anticipato o nella misura in cui esso ha versato lo stipendio secondo l'articolo 36 segg. LCPers[^42-1] durante il periodo per il quale la rendita viene versata a posteriori.
-
-[^42-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
-
 #### Art. 43
 
 **Versamento dello stipendio durante la gravidanza**
@@ -640,9 +599,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 #### Art. 44
 
-**Cassa pensione, ripartizione dei contributi di risparmio**
+**Cassa pensione, ripartizione dei contributi**
 
-<sup>1</sup> I contributi di risparmio vengono ripartiti come segue tra i collaboratori e l'Amministrazione cantonale, a seconda dell'età:
+<sup>1</sup> I contributi alla Cassa pensioni vengono ripartiti come segue tra i collaboratori e l'Amministrazione cantonale, a seconda dell'età:
 
 <table>
 <tr><th>Età LPP (uomo/donna)</th><th>Contributo totale per cento</th><th>Collaboratore per cento</th><th>Cantone per cento</th></tr>
@@ -665,7 +624,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 #### Art. 44b
 
-**…**
+**Capitale in caso di decesso**
+
+<sup>1</sup> In caso di decesso durante il rapporto di lavoro di un collaboratore assicurato, i superstiti aventi diritto secondo la legge sulla Cassa pensioni ricevono un capitale in caso di decesso una tantum di 25 000 franchi. Il premio per questa assicurazione è a carico del Cantone.
 
 #### Art. 45
 
@@ -714,21 +675,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 <sup>2</sup> L'indennità per vacanze viene fissata in per cento dello stipendio lordo e ammonta con un diritto a vacanze di:
 
-- a) cinque settimane — al 10,64 per cento;
-- b) cinque settimane e mezzo — all'11,83 per cento;
-- c) sei settimane — al 13,04 per cento.
+- a) 20 giorni lavorativi — all'8,33 per cento;
+- b) 25 giorni lavorativi — al 10,64 per cento;
+- c) 30 giorni lavorativi — al 13,04 per cento.
 
 <sup>3</sup> Sono considerati stipendio lordo tutti gli stipendi percepiti ad eccezione della tredicesima mensilità e dell'indennità per anzianità di servizio ai sensi dell'articolo 42 capoverso 2 LCPers[^46-1].
 
 [^46-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
-
-#### Art. 46a
-
-**Acquisto di vacanze supplementari**
-
-<sup>1</sup> Ogni anno civile possono essere acquistati fino a dieci giorni di vacanza supplementari.
-
-<sup>2</sup> Il servizio comunica il numero dei giorni di vacanza supplementari e le modalità di pagamento all'UP.
 
 #### Art. 47
 
@@ -781,21 +734,21 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 **Congedo per anzianità di servizio**
 
-<sup>1</sup> Il diritto al congedo per anzianità di servizio insorge nel momento in cui viene compiuto l'anno di servizio corrispondente secondo l'articolo 42 capoverso 1 LCPers[^51-1] e si conforma al volume di impiego degli ultimi cinque anni. In caso di riassunzione entro quattro anni vengono computati gli anni di servizio e i volumi di impiego precedenti.
+<sup>1</sup> Il diritto si regola secondo l'ultima entrata in servizio presso il Cantone. In casi particolari l'autorità di nomina tiene in considerazione precedenti anni di servizio interi prestati presso il Cantone. Il periodo di formazione, come l'apprendistato professionale, scuole sanitarie e periodi di pratica, non viene computato.
 
-<sup>2</sup> I congedi per anzianità di servizio devono essere fruiti entro cinque anni.
+<sup>2</sup> Il congedo può essere ripartito al massimo su cinque anni.
 
-<sup>3</sup> Agli insegnanti possono essere concessi congedi per anzianità di servizio anche sotto forma di riduzione del numero di ore obbligatorie.
-
-[^51-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
+<sup>3</sup> Agli insegnanti il congedo pagato può essere concesso anche sotto forma di riduzione del numero di ore obbligatorie.
 
 #### Art. 52
 
-**Congedo per anzianità di servizio sotto forma di indennità**
+**Conversione in indennità del congedo per anzianità di servizio**
 
-<sup>1</sup> Per la conversione di un congedo per anzianità di servizio secondo l'articolo 51 in un'indennità sono determinanti lo stipendio base inclusa un'eventuale indennità di funzione al momento del versamento.
+<sup>1</sup> Per il calcolo dell'indennità ai sensi dell'articolo 42 capoverso 2 LCPers[^52-1] è di regola determinante lo stipendio del mese in cui viene effettuato il versamento.
 
-<sup>2</sup> Ai collaboratori assunti con paga oraria vengono concessi congedi per anzianità di servizio sotto forma di un'indennità la quale con 10, 15 o 20 anni di servizio corrisponde a mezzo stipendio base mensile e a partire dal 25° anno di servizio corrisponde a un intero stipendio base mensile (escluse la tredicesima mensilità, indennità di vacanza e per i giorni festivi). L'articolo 51 capoverso 1 fa stato per analogia; il diritto si conforma allo stipendio medio percepito negli ultimi cinque anni e in caso di riassunzione vengono computati gli anni di servizio e gli stipendi precedenti. L'indennità viene versata nel mese successivo al mese in cui insorge il diritto.
+<sup>2</sup> L'indennità per i collaboratori con volume d'impiego variabile si basa di regola sullo stipendio mensile medio percepito nei due anni precedenti il mese in cui viene effettuato il versamento.
+
+[^52-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 #### Art. 53
 
@@ -824,7 +777,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 - a) se il neonato è in grado di vivere; o
 - b) se la gravidanza è durata almeno 23 settimane.
 
-<sup>3</sup> …
+<sup>3</sup> Su richiesta, il congedo maternità viene differito se con un certificato medico viene dimostrato che poco dopo il parto il bambino deve rimanere in ospedale per almeno tre settimane. Il congedo maternità inizia a decorrere dal momento in cui il bambino torna dalla madre o muore. Durante il differimento viene corrisposto l'intero stipendio.
 
 <sup>4</sup> Per il calcolo dello stipendio, in caso di volume di lavoro variabile, è determinante lo stipendio medio percepito nei dodici mesi precedenti il parto.
 
@@ -840,7 +793,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 <sup>2</sup> In caso di congedi non pagati fino a dieci giorni lavorativi i contributi alla Cassa pensione vengono assunti dai collaboratori e dal Cantone. In caso di congedo che supera i dieci giorni lavorativi il beneficiario del congedo si assume sia i contributi del collaboratore che quelli del datore di lavoro.
 
-<sup>3</sup> In riferimento ai congedi per anzianità di servizio secondo l'articolo 42 LCPers[^55-1], i congedi non pagati di una durata massima di sei mesi sono inclusi nel computo degli anni di servizio.
+<sup>3</sup> I congedi non pagati che superano i sei mesi non vengono calcolati per la determinazione del congedo per anzianità di servizio ai sensi dell'articolo 42 LCPers[^55-1].
 
 [^55-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
@@ -852,53 +805,35 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 
 - a) tre giorni per il proprio matrimonio;
 - b) un giorno per il matrimonio di propri figli, fratelli, sorelle e genitori;
-- c) 13 giorni entro sei mesi dalla nascita per la paternità;
-- c)<sup>bis</sup> 13 giorni entro un anno dall'accoglimento di un minore per l'adozione;
+- c) dieci giorni entro sei mesi per la nascita di figli propri;
+- c)<sup>bis</sup> cinque giorni per l'adozione;
 - d) tre giorni in caso di decesso del coniuge, di propri figli, genitori, fratelli e sorelle;
-- e) un giorno per il trasloco in caso di volume di impiego del 50 per cento e più, mezza giornata in caso di volume di impiego inferiore;
-- f) tre giorni per l'assistenza necessaria a un membro della famiglia con un problema di salute, ma al massimo dieci giorni all'anno;
-- g) fino a 14 settimane o, se entrambi i genitori svolgono un'attività lucrativa, fino a 7 settimane entro 18 mesi a contare dal primo giorno di congedo per l'assistenza necessaria a figli propri minorenni che a seguito di malattia o infortunio ai sensi dell'articolo 16o della legge federale sulle indennità di perdita di guadagno[^56-1] hanno gravi problemi di salute. Il congedo viene concesso per caso di malattia o di infortunio e in caso di ricaduta dopo un periodo prolungato senza problemi.
+- e) un giorno per il trasloco in caso di volume d'impiego del 50 per cento e più, mezza giornata in caso di volume d'impiego inferiore.
 
 <sup>2</sup> I collaboratori ricevono un congedo pagato per gli eventi elencati di seguito se questi si verificano inevitabilmente durante l'orario di lavoro ordinario e se il congedo è in relazione diretta con l'evento:
 
 - a) due giorni al massimo in caso di decesso di suoceri, generi, nuore, nonni e abbiatici;
 - b) un giorno al massimo in caso di decesso di affini, zii e nipoti. In caso di decesso di nonni, zii e nipoti del coniuge viene concesso il medesimo congedo;
 - c) tre giorni al massimo per cambiamento di domicilio ordinato per motivi di servizio;
-- d) due giorni al massimo per affari pubblici, fatti salvi l'articolo 57 LCPers[^56-2] e l'articolo 61. II diritto a un congedo pagato per visite alle autorità e citazioni delle stesse sussiste solo se sono nel pubblico interesse;
+- d) due giorni al massimo per affari pubblici, fatti salvi l'articolo 57 LCPers[^56-1] e l'articolo 61. II diritto a un congedo pagato per visite alle autorità e citazioni delle stesse sussiste solo se sono nel pubblico interesse;
 - e) cinque giorni al massimo per la formazione di monitore G+S, presso i giovani tiratori e presso altre organizzazioni giovanili. In caso di partecipazione quale responsabile dei corsi offerti da queste organizzazioni, per la metà del tempo di lavoro perso viene concesso un congedo pagato, ma per corso al massimo due giorni e mezzo;
 - f) tre giorni al massimo per la partecipazione quali delegati non ufficiali a convegni organizzati da associazioni professionali, se la manifestazione è nel pubblico interesse e promuove il perfezionamento professionale del collaboratore;
 - g) per la durata del servizio pompieri obbligatorio;
 - h) per la durata del reclutamento e delle ispezioni militari;
-- i) …
+- i) tre giorni al massimo per caso di malattia di propri figli o di persone bisognose di cure, se l'aiuto non può essere prestato da un'altra persona;
 - j) complessivamente una mezza giornata per la ricerca di un posto dopo la disdetta del rapporto di lavoro;
-- k) il tempo necessario all'allattamento o al tiraggio del latte per i propri figli nel primo anno di vita, al massimo tuttavia il tempo concesso dall'articolo 60 capoverso 2 dell'ordinanza federale 1 concernente la legge sul lavoro[^56-3].
+- k) il tempo necessario all'allattamento o al tiraggio del latte per i propri figli nel primo anno di vita, al massimo tuttavia il tempo concesso dall'articolo 60 capoverso 2 dell'ordinanza federale 1 concernente la legge sul lavoro[^56-2].
 
-<sup>3</sup> Le disposizioni di cui al capoverso 1 e al capoverso 2 si applicano per analogia ai collaboratori che vivono in unione domestica registrata o in una convivenza di fatto.
+<sup>3</sup> Le disposizioni dei capoversi 1 e 2 fanno per analogia stato anche per i collaboratori in unione domestica registrata e per i collaboratori in convivenza di fatto.
 
 <sup>4</sup> …
 
 <sup>5</sup> Se il collaboratore in caso di decesso deve preparare i funerali oppure affrontare un lungo viaggio, viene concesso un congedo massimo di tre giorni.
 
-<sup>6</sup> In casi particolari, dopo aver sentito l'UP il servizio può concedere congedi pagati di maggiore durata se sussiste un motivo di congedo ai sensi del capoverso 1 o del capoverso 2.
+<sup>6</sup> In casi particolari, dopo aver sentito l'UP il Dipartimento può concedere congedi pagati più lunghi, se sussiste un motivo di congedo ai sensi dei capoversi 1 e 2.
 
-[^56-1]: RS [834.1](https://db.clex.ch/link/Bund/834.1/it)
-[^56-2]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
-[^56-3]: RS [822.111](https://db.clex.ch/link/Bund/822.111/it)
-
-#### Art. 56a
-
-**Modifica del volume di impiego a seguito di una nascita o di un'adozione**
-
-<sup>1</sup> Se non vi si oppongono gravi motivi aziendali, i collaboratori possono ridurre il volume di impiego di un massimo del 20 per cento a un volume minimo del 20 per cento:
-
-- a) dopo la nascita di figli propri;
-- b) dopo l'adozione di uno o più minori.
-
-<sup>2</sup> La riduzione del volume di impiego deve essere fatta valere dinanzi al servizio prima o entro sei mesi dalla nascita o dall'adozione.
-
-<sup>3</sup> Se di comune accordo non viene stabilito diversamente, la riduzione del volume di impiego avviene in un solo passo con effetto all'inizio del sesto mese a decorrere dal momento in cui è stata fatta valere.
-
-<sup>4</sup> I collaboratori possono aumentare nuovamente il volume di impiego ridotto di un massimo del 20 per cento. L'aumento deve essere richiesto al servizio entro tre anni dalla riduzione. Il capoverso 3 fa stato per analogia.
+[^56-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
+[^56-2]: RS [822.111](https://db.clex.ch/link/Bund/822.111/it)
 
 #### Art. 57
 
@@ -921,21 +856,6 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 <sup>1</sup> Il Dipartimento decide sull'assunzione delle spese per un'assistenza giudiziaria secondo l'articolo 47 LCPers[^57a-1].
 
 [^57a-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
-
-#### Art. 57b
-
-**Segnalazione di irregolarità**
-
-<sup>1</sup> Il Governo conferisce l'incarico di gestione del servizio di segnalazione conformemente all'articolo 47a LCPers[^57b-1].
-
-<sup>2</sup> Il contratto di incarico secondo il capoverso 1:
-
-- a) deve essere stipulato con persone fisiche o giuridiche con domicilio o sede in Svizzera;
-- b) deve contenere sufficienti garanzie circa la segretezza, la protezione dei dati, competenze specifiche e metodologiche, canali di segnalazione adeguati e l'indipendenza;
-- c) deve essere stipulato a termine per un massimo di sei anni, escludendo proroghe o contratti successivi;
-- d) può essere stipulato con la stessa persona al più presto sei anni dopo la scadenza di un incarico precedente secondo il capoverso 1.
-
-[^57b-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 ## 4. Obblighi dei collaboratori
 
@@ -962,21 +882,6 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 <sup>2</sup> L'edizione di atti in procedure giudiziarie e amministrative si conforma alle disposizioni procedurali in materia della Confederazione e del Cantone. In procedure di diritto civile e amministrativo decide il Dipartimento e in caso di controversie il Governo.
 
 <sup>3</sup> La partecipazione quale parte, testimone o esperto in una procedura giudiziaria deve essere autorizzata dal Dipartimento, se è necessario uno scioglimento dal segreto d'ufficio. L'obbligo di autorizzazione sussiste anche dopo la cessazione del rapporto di lavoro.
-
-#### Art. 60bis
-
-**Divieto di accettare regali**
-
-<sup>1</sup> Sono esclusi dal divieto i regali e i vantaggi:
-
-- a) concessi in relazione a un evento particolare, come Natale, Capodanno o un anniversario;
-- b) il cui valore ammonta al massimo a 100 franchi; i regali e i vantaggi concessi entro un anno dalla stessa persona o istituzione vengono sommati; e
-- c) la cui accettazione non desta l'impressione di parzialità.
-
-<sup>2</sup> I regali o i vantaggi che non possono essere accettati e corrispondenti offerte o casi dubbi devono essere notificati al servizio. Il servizio decide:
-
-- a) se sussiste un'eccezione secondo il capoverso 1;
-- b) se i regali, i vantaggi o le offerte vengono accettati o rifiutati, distrutti o impiegati a scopo diverso.
 
 ## 5. Ulteriori disposizioni
 
@@ -1182,12 +1087,6 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul p
 #### Art. 69
 
 **…**
-
-#### Art. 69a
-
-**Disposizioni transitorie**
-
-<sup>1</sup> Per quanto riguarda i periodi di formazione come apprendistati, scuole del settore sanitario o stage, nonché le riassunzioni antecedenti il 1° gennaio 2023, il computo o la considerazione di anni di servizio e volumi di impiego precedenti si conforma all'articolo 51 capoverso 1 nella versione del 12 dicembre 2006.
 
 #### Art. 70
 
