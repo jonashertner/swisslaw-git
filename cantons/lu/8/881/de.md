@@ -3,20 +3,19 @@ canton: LU
 number: "881"
 title: Gesetz über die Ergänzungsleistungen zur AHV/IV
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-10-26
+version: 2023-01-01
+version_adopted: 2022-10-24
 adopted: 2007-09-10
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/881"
-pdf: "https://srl.lu.ch/api/de/versions/3702/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4018/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Ergänzungsleistungen zur AHV/IV
 
-vom 10.09.2007 (Stand 01.01.2021)
+vom 10.09.2007 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -116,7 +115,7 @@ beschliesst:
 
 <sup>3</sup> Der Anteil der einzelnen Gemeinden am Aufwand berechnet sich nach Massgabe der ständigen Wohnbevölkerung des Vorjahres gemäss den Erhebungen der Lustat Statistik Luzern.
 
-<sup>3<sup>bis</sup></sup> Für den Zeitraum vom 1. Januar 2021 bis zum 31. Dezember 2022 trägt in Abweichung von Absatz 3 die Wohnsitzgemeinde den Aufwand für Ergänzungsleistungen zu einer AHV-Rente für die anrechenbare Tagestaxe von Personen, die dauernd oder längere Zeit in einem Heim leben, soweit diese 165 Franken übersteigt. Massgebend ist der Durchschnitt der Kosten der betreffenden Wohnsitzgemeinde an den Stichtagen 31. März, 30. Juni, 30. September und 31. Dezember.
+<sup>3<sup>bis</sup></sup> In Abweichung von Absatz 3 trägt die Wohnsitzgemeinde den Aufwand für Ergänzungsleistungen zu einer AHV-Rente für die anrechenbare Tagestaxe von Personen, die dauernd oder längere Zeit in einem Heim leben, soweit diese 307 Prozent des allgemeinen Lebensbedarfs für Alleinstehende übersteigt. Massgebend ist der Durchschnitt der Kosten der betreffenden Wohnsitzgemeinde an den Stichtagen 31. März, 30. Juni, 30. September und 31. Dezember.
 
 <sup>4</sup> Die Ausgleichskasse Luzern stellt den Gemeinden deren Anteil am Aufwand in Rechnung.
 
