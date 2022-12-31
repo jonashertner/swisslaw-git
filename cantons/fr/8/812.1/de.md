@@ -4,13 +4,13 @@ number: "812.1"
 title: Gewässergesetz
 short: GewG
 language: de
-version: 2022-12-01
-valid_until: 2022-12-31
-version_adopted: 2022-10-14
+version: 2023-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-03-26
 adopted: 2009-12-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/812.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7649/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7651/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gewässergesetz
 
 (GewG)
 
-vom 18.12.2009 (Fassung in Kraft getreten am 01.12.2022)
+vom 18.12.2009 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -259,9 +259,11 @@ beschliesst:
 
 #### Art. 21
 
-**Schadendienst und Gewässerschutzpolizei (Art. 49 GSchG)**
+**Einsätze bei Umweltverschmutzung und Gewässerschutzpolizei (Art. 49 GSchG)**
 
-<sup>1</sup> Das Ausführungsreglement bezeichnet die Stellen, die für die Gewässerschutzpolizei sowie für die Einsätze bei einem Unfall mit Kohlenwasserstoffen oder anderen Schadstoffen verantwortlich sind. Das Ausführungsreglement legt ferner die Modalitäten des Einsatzes fest.
+<sup>1</sup> Das Ausführungsreglement bezeichnet die Stellen, die für die Gewässerschutzpolizei und für Einsätze bei einer Umweltverschmutzung verantwortlich sind. Die Gesetzgebung über die Brandbekämpfung und die Hilfeleistungen bleibt vorbehalten.
+
+<sup>2</sup> Die Einsätze umfassen die nachteiligen Einwirkungen im Sinne des Bundesgesetzes über den Schutz der Gewässer. Sie umfassen ausserdem alle Umwelteinwirkungen im Sinne des Bundesgesetzes über den Umweltschutz.
 
 ## 4 Wasserbau an Fliessgewässern und Seen
 
@@ -423,19 +425,11 @@ beschliesst:
 
 <sup>7</sup> Die Erträge aus Materialverkäufen werden nach Abzug der Abgaben und der Gewinnungskosten für die im betreffenden Richtplan des Einzugsgebiets vorgesehenen Wasserbau-, Revitalisierungs- und Unterhaltsarbeiten an Wasserläufen verwendet.
 
-### 4.3 Bauwerke für die konzessionierte Schifffahrt
+### 4.3
 
 #### Art. 37
 
-**Bau- und Erhaltungspflicht**
-
-<sup>1</sup> Die Häfen und Anlegestellen, die von Schiffen eines konzessionierten Schifffahrtsunternehmens benützt werden, werden von der Standortgemeinde gebaut, instand gestellt und unterhalten.
-
-<sup>2</sup> Die Molen, Dämme, Bauwerke und Arbeiten zur Sicherung der Schiffbarkeit der Wasserwege sind den Häfen gleichgestellt.
-
-<sup>3</sup> Die interkantonalen Vereinbarungen über die Erneuerung und die Erhaltung der Bauwerke der II. Juragewässerkorrektion bleiben vorbehalten.
-
-<sup>4</sup> Das Bundesrecht über die Binnenschifffahrt bleibt vorbehalten.
+**…**
 
 ## 5 Finanzierung
 
@@ -609,37 +603,33 @@ beschliesst:
 
 <sup>2</sup> Der Vorschuss darf den voraussichtlichen Betrag der kantonalen Subvention nicht überschreiten.
 
-### 5.3 Bauwerke für die konzessionierte Schifffahrt
+### 5.3
 
 #### Art. 53
 
-**Kosten**
-
-<sup>1</sup> Die Erstellungskosten der Bauwerke für die konzessionierte Schifffahrt (Art. 37) werden von der Gemeinde getragen.
-
-<sup>2</sup> Stellt ein Hafen oder ein Anlegeplatz für andere Gemeinden oder Dritte einen besonderen Vorteil dar, so wird eine finanzielle Beteiligung verlangt. Diese Beteiligung wird aufgrund der entstehenden Vorteile festgelegt. Der Perimeter und die anwendbaren Kriterien werden im Ausführungsreglement geregelt.
+**…**
 
 #### Art. 54
 
-**Subventionen**
-
-<sup>1</sup> Der Staat kann die Bau-, Erneuerungs- und Instandsetzungsarbeiten subventionieren. Der Beitragssatz wird durch das Ausführungsreglement festgesetzt.
+**…**
 
 ## 6 Vollzug
 
 #### Art. 55
 
-**Interventionskosten im Fall einer nachteiligen Einwirkung auf die Gewässer**
+**Einsatzkosten bei nachteiliger Einwirkung**
 
-<sup>1</sup> Die Kosten für eine Massnahme, die wegen einer nachteiligen Einwirkung nötig wurde, werden von der Verursacherin oder vom Verursacher getragen (Art. 59 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz).
+<sup>1</sup> Die Kosten von Einsätzen, die aufgrund einer nachteiligen Einwirkung erfolgen (Art. 59 des Bundesgesetzes über den Umweltschutz und Art. 54 des Bundesgesetzes über den Schutz der Gewässer), werden der Person auferlegt, die den Einsatz verursacht hat (die Störerin oder der Störer).
 
 <sup>2</sup> Bei mehreren Verursacherinnen und Verursachern werden die Kosten im Verhältnis ihrer Verantwortung aufgeteilt.
 
-<sup>3</sup> Sind die Verursacherinnen und Verursacher unbekannt oder zahlungsunfähig, so werden die Kosten je zur Hälfte vom Staat und von der Gemeinde getragen, auf deren Gebiet der Schaden verursacht wurde.
+<sup>3</sup> …
 
 <sup>4</sup> Das Vorschuss- und Inkassoverfahren wird im Ausführungsreglement näher geregelt.
 
 <sup>5</sup> Die Kosten werden auf der Basis des vom Staatsrat festgelegten Tarifs berechnet.
+
+<sup>6</sup> Die Einsatzkosten der Feuerwehr werden in der Gesetzgebung über die Brandbekämpfung und die Hilfeleistungen geregelt.
 
 #### Art. 56
 

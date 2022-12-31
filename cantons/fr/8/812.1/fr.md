@@ -4,13 +4,13 @@ number: "812.1"
 title: Loi sur les eaux
 short: LCEaux
 language: fr
-version: 2022-12-01
-valid_until: 2022-12-31
-version_adopted: 2022-10-14
+version: 2023-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-03-26
 adopted: 2009-12-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/812.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7649/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7651/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Eaux – L
 
 (LCEaux)
 
-du 18.12.2009 (version entrée en vigueur le 01.12.2022)
+du 18.12.2009 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -259,9 +259,11 @@ Décrète:
 
 #### Art. 21
 
-**Intervention en cas d'accident et police de la protection des eaux (art. 49 LEaux)**
+**Intervention en cas de pollution environnementale et police de la protection des eaux (art. 49 LEaux)**
 
-<sup>1</sup> L'intervention en cas d'accident par hydrocarbures ou autres substances polluantes et la police de la protection des eaux sont assurées par les organismes désignés par le règlement d'exécution. Celui-ci fixe les modalités d'intervention.
+<sup>1</sup> L'intervention en cas de pollution environnementale et la police de la protection des eaux sont assurées par les organismes désignés par le règlement d'exécution. La législation sur la défense incendie et les secours est réservée.
+
+<sup>2</sup> L'intervention couvre les atteintes nuisibles au sens de la loi fédérale sur la protection des eaux. Elle couvre en outre toutes les atteintes à l'environnement au sens de la loi fédérale sur la protection de l'environnement.
 
 ## 4 Aménagement des cours d'eau et des lacs
 
@@ -423,19 +425,11 @@ Décrète:
 
 <sup>7</sup> L'éventuel bénéfice de la vente des matériaux, après déduction des taxes et des frais d'extraction, est destiné aux travaux d'aménagement, de revitalisation et d'entretien des cours d'eau prévus par le plan directeur du bassin versant concerné.
 
-### 4.3 Ouvrages pour la navigation concessionnée
+### 4.3
 
 #### Art. 37
 
-**Obligation de construire et de conserver**
-
-<sup>1</sup> L'obligation de construire, de reconstruire et de conserver les ports et débarcadères utilisés par les bateaux d'une entreprise de navigation concessionnée incombe à la commune du lieu de situation du port.
-
-<sup>2</sup> Les môles, digues, ouvrages et travaux destinés à assurer le maintien de la navigabilité des voies d'eau sont assimilés aux ports.
-
-<sup>3</sup> Les conventions intercantonales concernant la reconstruction et la conservation des ouvrages de la IIe correction des eaux du Jura sont réservées.
-
-<sup>4</sup> La législation fédérale sur la navigation intérieure est réservée.
+**…**
 
 ## 5 Financement
 
@@ -609,37 +603,33 @@ Décrète:
 
 <sup>2</sup> Cette aide financière ne doit pas excéder le montant de la subvention cantonale prévisible.
 
-### 5.3 Ouvrages pour la navigation concessionnée
+### 5.3
 
 #### Art. 53
 
-**Coût**
-
-<sup>1</sup> Le coût des travaux des ouvrages pour la navigation concessionnée (art. 37) est à la charge de la commune.
-
-<sup>2</sup> Lorsqu'un port ou débarcadère représente un avantage particulier pour d'autres communes ou des tiers, une participation financière est exigée. Cette participation est fixée selon le degré d'intérêt. Le règlement d'exécution définit le périmètre et les critères applicables.
+**…**
 
 #### Art. 54
 
-**Subvention**
-
-<sup>1</sup> L'Etat peut subventionner les travaux de construction, de reconstruction et de réfection. Le taux est fixé par le règlement d'exécution.
+**…**
 
 ## 6 Exécution
 
 #### Art. 55
 
-**Frais d'intervention en cas d'atteinte nuisible aux eaux**
+**Frais d'intervention en cas d'atteinte nuisible**
 
-<sup>1</sup> Les frais d'intervention résultant d'une atteinte nuisible (art. 59 de la loi fédérale du 7 octobre 1983 sur la protection de l'environnement) sont mis à la charge de celui ou celle qui a provoqué l'intervention (le perturbateur ou la perturbatrice).
+<sup>1</sup> Les frais d'intervention résultant d'une atteinte nuisible (art. 59 de la loi fédérale sur la protection de l'environnement et art. 54 de la loi fédérale sur la protection des eaux) sont mis à la charge de celui ou celle qui a provoqué l'intervention (le perturbateur ou la perturbatrice).
 
 <sup>2</sup> Lorsqu'il y a plusieurs perturbateurs ou perturbatrices, les frais sont répartis dans une proportion correspondant à la part de responsabilité de chacun ou chacune.
 
-<sup>3</sup> Lorsque le perturbateur ou la perturbatrice est inconnu-e ou insolvable, les frais sont pris en charge à parts égales par l'Etat et par la commune sur le territoire de laquelle l'atteinte a été causée.
+<sup>3</sup> …
 
 <sup>4</sup> La procédure d'avance de frais et de recouvrement est précisée dans le règlement d'exécution.
 
 <sup>5</sup> Les frais sont calculés sur la base du tarif fixé par le Conseil d'Etat.
+
+<sup>6</sup> Les frais d'intervention des sapeurs-pompiers sont réglés dans la législation sur la défense incendie et les secours.
 
 #### Art. 56
 
