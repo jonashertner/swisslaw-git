@@ -1,22 +1,22 @@
 ---
 canton: NW
 number: "741.32"
-title: Verordnung zur Begrenzung der anrechenbaren Pflegeheimkosten im Bereich der Ergänzungsleistungen für das Jahr 2022
+title: Verordnung zur Begrenzung der anrechenbaren Pflegeheimkosten im Bereich der Ergänzungsleistungen für das Jahr 2023
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-30
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 2025-11-25
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/741.32"
-pdf: "https://gesetze.nw.ch/api/de/versions/997/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1097/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zur Begrenzung der anrechenbaren Pflegeheimkosten im Bereich der Ergänzungsleistungen für das Jahr 2022
+# Verordnung zur Begrenzung der anrechenbaren Pflegeheimkosten im Bereich der Ergänzungsleistungen für das Jahr 2023
 
-vom 30.11.2021 (Stand 01.01.2022)
+vom 06.12.2022 (Stand 01.01.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -34,20 +34,4 @@ beschliesst:
 
 [^1-1]: SR 831.30
 
-#### § 2
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Verordnung vom 1. Dezember 2020 zur Begrenzung der anrechenbaren Pflegeheimkosten im Bereich der Ergänzungsleistungen für das Jahr 2021[^2-1] wird aufgehoben.
-
-[^2-1]: A 2020, 2402
-
-#### § 3
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt unter dem Vorbehalt der Genehmigung durch den Bund[^3-1] am 1. Januar 2022 in Kraft.
-
-[^3-1]: vom Bund genehmigt am 31. Januar 2022
-
-2022-006
+2022-032
