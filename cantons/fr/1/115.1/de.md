@@ -4,13 +4,13 @@ number: "115.1"
 title: Gesetz über die Ausübung der politischen Rechte
 short: PRG
 language: de
-version: 2021-12-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-07
+version: 2023-01-01
+valid_until: 2023-05-31
+version_adopted: 2022-10-13
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6967/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7655/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Politische Rechte – G
 
 (PRG)
 
-vom 06.04.2001 (Fassung in Kraft getreten am 01.12.2021)
+vom 06.04.2001 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1479,6 +1479,8 @@ beschliesst:
 
 <sup>5</sup> Werden diese Formvorschriften nicht eingehalten, so sind die Unterschriften ungültig.
 
+<sup>6</sup> Die Absätze 2 Bst. c, 3 Bst. a und 4 gelten nicht für fakultative parlamentarische Finanzreferendumsbegehren.
+
 #### Art. 107
 
 **Einreichung der Bogen**
@@ -1507,6 +1509,14 @@ beschliesst:
 
 <sup>3</sup> Die Bestätigung muss datiert sein, die Zahl der gültigen Unterschriften für den betreffenden Gegenstand enthalten und von der für das Stimmregister verantwortlichen Person unterzeichnet sein. Es darf keine Gebühr erhoben werden.
 
+#### Art. 109a
+
+**Prüfung der Unterschriften - Fakultatives parlamentarisches Finanzreferendum**
+
+<sup>1</sup> Innerhalb von 5 Tagen nach der Einreichung eines fakultativen parlamentarischen Finanzreferendumsbegehrens leitet die Staatskanzlei die Unterschriftenbogen zur Prüfung an das Sekretariat des Grossen Rates weiter.
+
+<sup>2</sup> Das Sekretariat des Grossen Rates hat 5 Tage Zeit, um die Unterschriftenbogen zu prüfen und zu bestätigen und sie der Staatskanzlei zur Auszählung zurückzusenden.
+
 #### Art. 110
 
 **Auszählung der Unterschriften**
@@ -1516,7 +1526,7 @@ beschliesst:
 <sup>2</sup> Folgende Unterschriften sind ungültig und werden bei der Auszählung nicht berücksichtigt:
 
 - a) die Unterschriften eines Bogens, der dem Artikel 106 nicht entspricht;
-- b) die Unterschriften, die nicht von der für das Stimmregister verantwortlichen Person bestätigt wurden;
+- b) die Unterschriften, die nicht gemäss Artikel 109 oder 109a bestätigt wurden;
 - c) die Unterschriften, die nicht innerhalb der gesetzlichen Frist eingereicht wurden;
 - d) die Unterschriften, die von den Unterzeichnerinnen und Unterzeichnern nicht vollständig von Hand geschrieben wurden;
 - e) die Unterschriften, die nicht von den erforderlichen Angaben zur Person der Unterzeichnerin oder des Unterzeichners begleitet sind;
@@ -1529,7 +1539,7 @@ beschliesst:
 
 **Öffentlichkeit der Unterschriftenbogen**
 
-<sup>1</sup> Die Unterschriftenbogen sind nicht öffentlich.
+<sup>1</sup> Die Unterschriftenbogen sind nicht öffentlich. Eine Ausnahme bilden die Bogen mit Unterschriften zur Unterstützung eines fakultativen parlamentarischen Finanzreferendumsbegehrens.
 
 #### Art. 111
 

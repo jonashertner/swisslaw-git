@@ -4,13 +4,13 @@ number: "115.1"
 title: "Loi sur l'exercice des droits politiques"
 short: LEDP
 language: fr
-version: 2021-12-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-07
+version: 2023-01-01
+valid_until: 2023-05-31
+version_adopted: 2022-10-13
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6967/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7655/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Droits politiques – L
 
 (LEDP)
 
-du 06.04.2001 (version entrée en vigueur le 01.12.2021)
+du 06.04.2001 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1479,6 +1479,8 @@ Décrète:
 
 <sup>5</sup> L'inobservation de ces formalités entraîne la nullité des signatures.
 
+<sup>6</sup> Les alinéas 2 let. c, 3 let. a, et 4 ne sont pas applicables aux demandes de referendum parlementaire financier facultatif.
+
 #### Art. 107
 
 **Dépôt des listes**
@@ -1507,6 +1509,14 @@ Décrète:
 
 <sup>3</sup> L'attestation doit être datée, indiquer le nombre de signatures valables pour l'objet concerné et porter la signature de la personne responsable du registre électoral. Elle ne peut faire l'objet d'aucun émolument.
 
+#### Art. 109a
+
+**Vérification des signatures – Referendum parlementaire financier facultatif**
+
+<sup>1</sup> Dans les cinq jours dès le dépôt d'une demande de referendum parlementaire financier facultatif, la Chancellerie transmet les listes de signatures au Secrétariat du Grand Conseil pour vérification.
+
+<sup>2</sup> Le Secrétariat du Grand Conseil dispose d'un délai de cinq jours pour vérifier et attester les listes de signatures et les renvoyer à la Chancellerie en vue de leur dénombrement.
+
 #### Art. 110
 
 **Dénombrement des signatures**
@@ -1516,7 +1526,7 @@ Décrète:
 <sup>2</sup> Sont nulles et n'entrent pas en ligne de compte dans le dénombrement des signatures valables:
 
 - a) les signatures figurant sur une liste non conforme à l'article 106;
-- b) les signatures qui n'ont pas été attestées par la personne responsable du registre électoral;
+- b) les signatures qui n'ont pas été attestées conformément à l'article 109 ou 109a;
 - c) les signatures qui n'ont pas été déposées dans le délai légal;
 - d) les signatures qui n'ont pas été écrites entièrement de la main de la personne signataire;
 - e) les signatures qui ne sont pas accompagnées des indications relatives à la personne signataire;
@@ -1529,7 +1539,7 @@ Décrète:
 
 **Publicité des listes de signatures**
 
-<sup>1</sup> Les listes de signatures ne sont pas publiques.
+<sup>1</sup> Les listes de signatures ne sont pas publiques. Font exception les listes de signatures à l'appui d'une demande de referendum parlementaire financier facultatif.
 
 #### Art. 111
 
