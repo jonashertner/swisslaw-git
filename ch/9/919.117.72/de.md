@@ -4,20 +4,20 @@ title: "Verordnung vom 30. Oktober 2002 über die Ausdehnung der Selbsthilfemass
 short: VBPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/703"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2002-10-30
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-703-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-703-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Ausdehnung der Selbsthilfemassnahmen von Branchen- und Produzentenorganisationen
 
-(Verordnung über die Branchen- und Produzentenorganisationen, VBPO**[^t-1]**)
+(Verordnung über die Branchen- und Produzentenorganisationen, VBPO[^t-1])
 
-vom 30. Oktober 2002 (Stand am 1. Januar 2022)
+vom 30. Oktober 2002 (Stand am 1. Januar 2023)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5581](https://fedlex.data.admin.ch/eli/oc/2005/759)).
 
@@ -235,19 +235,19 @@ Gesuche, die zum Zeitpunkt des Inkrafttretens dieser Verordnung hängig sind, we
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 - [tab]
 
 [^t-2]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)).
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 11)
 
 ## A. Produzentenorganisation Schweizer Milchproduzenten
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2007 ([AS 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), Ziff. I der V vom 25. Febr. 2009 ([AS 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), vom 18. Nov. 2009 ([AS 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), vom 25. Mai 2011 ([AS 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), Ziff. II der V vom 26. Okt. 2011 ([AS 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), Ziff. I der V vom 23. Mai 2012 ([AS 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), vom 23. Okt. 2013 ([AS 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)), vom 11. Dez. 2015 ([AS 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)), vom 13. Nov. 2019 ([AS 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)) und vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 853](https://fedlex.data.admin.ch/eli/oc/2021/853)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2007 ([AS 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), Ziff. I der V vom 25. Febr. 2009 ([AS 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), vom 18. Nov. 2009 ([AS 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), vom 25. Mai 2011 ([AS 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), Ziff. II der V vom 26. Okt. 2011 ([AS 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), Ziff. I der V vom 23. Mai 2012 ([AS 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), vom 23. Okt. 2013 ([AS 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)), vom 11. Dez. 2015 ([AS 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)), vom 13. Nov. 2019 ([AS 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)), vom 24. Nov. 2021 ([AS 2021 853](https://fedlex.data.admin.ch/eli/oc/2021/853)) und vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 695).
 
 ### 1. Höhe des Beitrages
 
@@ -409,7 +409,7 @@ Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
 
 ### 2. Verwendung der Beiträge
 
-Der gemäss Ziffer 1 geleistete Beitrag darf nur für die jährlichen Werbekampagnen der Jahre 2020–2022 zur Förderung von Schweizer Wein eingesetzt werden. Die nach Ablauf eines Jahres nicht verwendeten Mittel können zur Finanzierung derselben Massnahmen auf die neue Rechnung vorgetragen werden.
+Der gemäss Ziffer 1 geleistete Beitrag darf nur für die jährlichen Werbekampagnen der Jahre 2023–2025 zur Förderung von Schweizer Wein eingesetzt werden. Die nach Ablauf eines Jahres nicht verwendeten Mittel können zur Finanzierung derselben Massnahmen auf die neue Rechnung vorgetragen werden.
 
 ### 3. Weitergabe von Daten
 
@@ -420,4 +420,4 @@ Die für die Weinwirtschaft und die Weinlesekontrolle zuständigen kantonalen St
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2022.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
