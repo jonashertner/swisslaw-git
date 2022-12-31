@@ -4,13 +4,13 @@ number: "850.11"
 title: Sozialhilfeverordnung
 short: SHV
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-11-24
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-11-29
 adopted: 2001-09-25
 in_force: 2002-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.11"
-pdf: "https://bl.clex.ch/api/de/versions/2805/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3458/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2805/pdf_file"
 
 (SHV)
 
-Vom 25.09.2001 (Stand 01.01.2021)
+Vom 25.09.2001 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -64,9 +64,9 @@ beschliesst:
 
 **Übertragungsverbot (§ 37 Abs. 1 [SHG](https://bl.clex.ch/data/850/de/art37))**
 
-<sup>1</sup> Die Gemeinden dürfen die Verfügungskompetenz der Sozialhilfebehörden nicht an andere Stellen übertragen. Vorbehalten bleibt § 34a des Gemeindegesetzes[^4-1].
+<sup>1</sup> Die Gemeinden dürfen die Verfügungskompetenz der Sozialhilfebehörden nicht an andere Stellen übertragen. Vorbehalten bleibt § 34b des Gemeindegesetzes[^4-1].
 
-[^4-1]: [SGS 180](https://bl.clex.ch/data/180/de/art34a)
+[^4-1]: [SGS 180](https://bl.clex.ch/data/180/de/art34b)
 
 ## 2 Unterstützung
 
@@ -102,12 +102,12 @@ beschliesst:
 
 <sup>1</sup> Das Mass der Unterstützungen an die Aufwendungen für den Grundbedarf beträgt monatlich bei einem Haushalt mit:
 
-- a. 1 Person CHF 997.–;
-- b. 2 Personen CHF 1'525.–;
-- c. 3 Personen CHF 1'854.–;
-- d. 4 Personen CHF 2'134.–;
-- e. 5 Personen CHF 2'413.–;
-- f. pro weitere Person plus CHF 202.–.
+- a. 1 Person CHF 1'031.–;
+- b. 2 Personen CHF 1'577.–;
+- c. 3 Personen CHF 1'918.–;
+- d. 4 Personen CHF 2'206.–;
+- e. 5 Personen CHF 2'495.–;
+- f. pro weitere Person plus CHF 209.–.
 - g. …
 - h. …
 
@@ -117,13 +117,13 @@ beschliesst:
 
 <sup>2<sup>ter</sup></sup> Wohnen unterstützte volljährige Kinder im Haushalt der nicht unterstützten Eltern oder umgekehrt, wird die Unterstützung für den Grundbedarf entsprechend ihrem Anteil an der Haushaltsgrösse gemäss Abs. 1 reduziert (Kopfquote) und um 20 % gekürzt.
 
-<sup>3</sup> Wohnen unterstützte Personen, die zwischen 18 und 25 Jahren alt sind, in einem 1-Personen-Haushalt, beträgt die Unterstützung an ihre Aufwendungen für den Grundbedarf in der Regel monatlich CHF 763.–.
+<sup>3</sup> Wohnen unterstützte Personen, die zwischen 18 und 25 Jahren alt sind, in einem 1-Personen-Haushalt, beträgt die Unterstützung an ihre Aufwendungen für den Grundbedarf in der Regel monatlich CHF 789.–.
 
 #### § 10
 
 **Mass des Grundbedarfs ohne Haushalt (§ 6 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art6))**
 
-<sup>1</sup> Bei Personen in einem Heim, in einer Klinik oder in einer ähnlichen Einrichtung richtet sich das Mass der Unterstützungen an die Aufwendungen für den Grundbedarf nach den aktuellen Bedürfnissen der unterstützten Person und beträgt monatlich höchstens CHF 360.–.
+<sup>1</sup> Bei Personen in einem Heim, in einer Klinik oder in einer ähnlichen Einrichtung richtet sich das Mass der Unterstützungen an die Aufwendungen für den Grundbedarf nach den aktuellen Bedürfnissen der unterstützten Person und beträgt monatlich höchstens CHF 372.–.
 
 <sup>2</sup> Bei bedürftigen Personen, die keinen Unterstützungswohnsitz und keinen Aufenthaltsort haben, sowie bei Personen, die sich gemäss § 21 [SHG](https://bl.clex.ch/data/850/de/art21) in einer stationären Therapie befinden, richtet sich das Mass der Unterstützung an die Aufwendungen für den Grundbedarf nach deren aktuellen Bedürfnissen.
 
@@ -222,7 +222,7 @@ beschliesst:
 - a. Mietzinsdepot für die Wohnung in der Niederlassungsgemeinde,
 - b. zweckmässige Wohnausstattung,
 - c. ausserordentliche Erwerbsunkosten,
-- c<sup>bis</sup>. ausserordentliche Aufwendungen für die Teilnahme an einem Förderungsprogramm oder für die Ausübung einer Beschäftigung,
+- c<sup>bis</sup>. ausserordentliche Aufwendungen für die Teilnahme an Integrationsmassnahmen;
 - d. Aufwendungen für Freizeitaktivitäten von Kindern bis maximal CHF 600.– pro Kind und Jahr,
 - d<sup>bis</sup>. Aufwendungen von Kindern für notwendige schulische Belange,
 - d<sup>ter</sup>. Aufwendungen für den Besuch von Spielgruppen,
@@ -231,9 +231,13 @@ beschliesst:
 - g. Urlaub in absoluten Ausnahmefällen,
 - h. Einlagerung der Möbel bei Heimaufenthalt oder Zwangsräumung,
 - i. angemessene Umzugskosten bei Wohnungswechsel innerhalb der Gemeinde,
-- k. bei Wegzug aus der Gemeinde angemessene Umzugskosten, ein Zehrgeld für 1 Monat in der Höhe von § 9 sowie die angemessenen Wohnungskosten der Zuzugsgemeinde für 1 Monat,
+- k. bei Wegzug aus der Gemeinde angemessene Umzugskosten,
 - l Prämien für die Haftpflicht- und Hausratversicherung,
 - m. Gebühren für Personalausweise.
+
+<sup>2</sup> Als weitere notwendige Aufwendungen gilt:
+
+- a. bei Wegzug aus der Gemeinde ein Zehrgeld für 1 Monat in der Höhe von § 9 sowie die angemessenen Wohnungskosten der Zuzugsgemeinde für 1 Monat.
 
 #### § 16
 
@@ -276,7 +280,8 @@ beschliesst:
 - f. sich um den Erhalt der Arbeitsstelle zu bemühen;
 - g. sich um eine Erwerbstätigkeit zu bemühen;
 - h. eine zumutbare Arbeitsstelle anzunehmen;
-- i. an angeordneten Förderungsprogrammen teilzunehmen oder angeordnete Beschäftigungen auszuüben;
+- i. an angeordneten Förderungsprogrammen, Sprachförderungsprogrammen und Grundkompetenzkursen teilzunehmen oder angeordnete Beschäftigungen auszuüben;
+- i<sup>bis</sup> an angeordneten Massnahmen der sozialen Integration und Massnahmen der früher Sprachförderung teilzunehmen;
 - j. ihre Einkünfte sowie die ausgerichtete Unterstützung bestimmungsgemäss zu verwenden;
 - k. die Nummernschilder des Motorfahrzeuges zu deponieren.
 
@@ -296,7 +301,7 @@ beschliesst:
 
 <sup>4</sup> Verletzen unterstützte Personen schuldhaft ihre Pflichten gemäss § 17a Bst. c, f, h und i, wird die Unterstützung nach vorgängiger Androhung direkt auf Nothilfe herabgesetzt.
 
-<sup>5</sup> Neben den Wohnungskosten und den Kosten gemäss § 13 umfasst die Nothilfe gemäss den Abs. 3 und 4 pro Person und Tag CHF 10.– für die Aufwendungen an den Lebensunterhalt.
+<sup>5</sup> Neben den Kosten für eine angemessene Unterbringung und den Kosten gemäss § 13 umfasst die Nothilfe gemäss den Abs. 3 und 4 pro Person und Tag CHF 10.30 für die Aufwendungen an den Lebensunterhalt.
 
 <sup>6</sup> Auf besondere Bedürfnisse ist Rücksicht zu nehmen.
 
@@ -306,7 +311,7 @@ beschliesst:
 
 <sup>1</sup> Die Nothilfe gemäss § 4c [SHG](https://bl.clex.ch/data/850/de/art4c) umfasst in 1. Linie die Kosten der Heimreise.
 
-<sup>2</sup> In 2. Linie umfasst die Nothilfe eine angemessene Unterbringung, medizinische Notversorgung und CHF 8.– pro Person und Tag. Diese decken pauschal alle Aufwendungen für den Lebensunterhalt ab und sind nach Möglichkeit in Form von Sachleistungen abzugeben.
+<sup>2</sup> In 2. Linie umfasst die Nothilfe eine angemessene Unterbringung, medizinische Notversorgung und CHF 8.30 pro Person und Tag. Diese decken pauschal alle Aufwendungen für den Lebensunterhalt ab und sind nach Möglichkeit in Form von Sachleistungen abzugeben.
 
 <sup>3</sup> Auf besondere Bedürfnisse ist Rücksicht zu nehmen.
 
@@ -359,7 +364,16 @@ beschliesst:
 
 <sup>1<sup>quinquies</sup></sup> Über die Verwendung des Fonds befindet der Gemeinderat auf Antrag der Sozialhilfebehörde.
 
-<sup>1<sup>sexies</sup></sup> Der Kanton entschädigt die Gemeinden zudem für die Kosten, die diesen entstanden sind durch die Eingliederungsmassnahmen.
+<sup>1<sup>sexies</sup></sup> Der Kanton entschädigt die Gemeinden zudem für die Kosten, die diesen entstanden sind durch die Integrationsmassnahmen.
+
+<sup>1<sup>septies</sup></sup> Die Höhe der Entschädigung gemäss Abs. 1<sup>sexies</sup> beträgt pro Monat für:
+
+- a. Förderungsprogramme — CHF 1'500.–;
+- b. Sprachförderungskurse — CHF 1'500.–;
+- c. Grundkompetenzkurse — CHF 800.–;
+- d. Beschäftigungsprogramme — CHF 500.–;
+- e. Massnahmen der sozialen Integration — CHF 400.–;
+- f. Massnahmen der frühen Sprachförderung — CHF 400.–.
 
 <sup>2</sup> Die Dauer der Entschädigungen richtet sich nach der Dauer der erhaltenen Bundesgelder.
 
@@ -413,11 +427,16 @@ beschliesst:
 <sup>5</sup> Anerkannte Ausgaben gemäss Abs. 2 sind:
 
 - a. allgemeiner Lebensbedarf pro Jahr:
-  - 1\. alleinstehend — CHF 19'290.–;
-  - 2\. verheiratet, eingetragene Partnerschaft, gefestigtes Konkubinat — CHF 28'935.–;
-  - 3\. erste 2 Kinder je — CHF 10'080.–;
-  - 4\. weitere 2 Kinder je — CHF 6'720.–;
-  - 5\. jedes weitere Kind — CHF 3'360.–;
+  - 1\. alleinstehend — CHF 19'610.–;
+  - 2\. verheiratet, eingetragene Partnerschaft, gefestigtes Konkubinat — CHF 29'415.–;
+  - 3\. 1. Kind (0-10 Jahre) — CHF 7'200.–;
+  - 4\. 2. Kind (0-10 Jahre) — CHF 6'000.–;
+  - 5\. 3. Kind (0-10 Jahre) — CHF 5'000.–;
+  - 6\. 4. Kind (0-10 Jahre) — CHF 4'165.–;
+  - 7\. jedes weitere Kind (0-10 Jahre) — CHF 3'470.–;
+  - 8\. erste 2 Kinder (11-25 Jahre) je — CHF 10'260.–;
+  - 9\. weitere 2 Kinder (11-25 Jahre) je — CHF 6'840.–;
+  - 10\. jedes weitere Kind (11-25 Jahre) — CHF 3'420.–;
 - b. Mietzins inkl. Nebenkosten;
 - c. Hypothekarzins;
 - d. Nebenkosten bei selbstbewohntem Eigentum im Umfang von jährlich CHF 1‘680.–;
@@ -430,8 +449,8 @@ beschliesst:
 
 <sup>6</sup> Für die Rückerstattung wird das Vermögen abzüglich der Freibeträge berücksichtigt. Als Freibeträge gelten:
 
-- a. bei alleinstehenden Personen — CHF 37'500.–;
-- b. bei Ehepaaren, eingetragener Partnerschaft, gefestigten Konkubinatspaaren — CHF 60'000.–;
+- a. bei alleinstehenden Personen — CHF 30'000.–;
+- b. bei Ehepaaren, eingetragener Partnerschaft, gefestigten Konkubinatspaaren — CHF 50'000.–;
 - c. für jedes Kind zusätzlich — CHF 15'000.–.
 
 <sup>7</sup> Im Rahmen der Rückerstattungsüberprüfung gilt die Mitwirkungspflicht der unterstützten Person gemäss § 11 Ab. 2 [SHG](https://bl.clex.ch/data/850/de/art11) sinngemäss.
@@ -454,32 +473,40 @@ beschliesst:
 
 **Meldung der Personen für Anreizbeiträge (§ 17 und § 34 Abs. 3 [SHG](https://bl.clex.ch/data/850/de/art17)))**
 
-<sup>1</sup> Die Sozialhilfebehörden teilen dem Amt die Personen, für die Anreizbeiträge ausgerichtet werden sollen, mit und reichen den Entwurf des entsprechenden Arbeitsvertrags ein.
+<sup>1</sup> Die Sozialhilfebehörden teilen dem Amt den Nachweis der Leistungsreduktion mit.
 
-<sup>2</sup> Das Amt holt die Stellungnahme der «Dachorganisationen der Sozialpartner Basel-Landschaft» ein.
+<sup>2</sup> …
 
-<sup>3</sup> Im Falle einer positiven Stellungnahme richtet der Kanton die Vergütung aus.
+<sup>3</sup> …
 
 #### § 25a
 
-**Betreuungspauschale (§ 18 Abs. 1 [SHG](https://bl.clex.ch/data/850/de/art18)))**
+**Betreuungspauschale ([§ 17 und § 34 Abs. 3 SHG](https://bl.clex.ch/data/850/de/art17))**
 
 <sup>1</sup> Die Betreuungspauschale beträgt monatlich CHF 400.–.
+
+<sup>2</sup> Die Vergütung der Betreuungspauschale an die Gemeinde setzt voraus, dass die Anreizbeiträge zur Erfüllung ihres gesetzlichen Zwecks geeignet sind und die Leistungsreduktion nachgewiesen ist.
+
+<sup>3</sup> Der Kanton entrichtet den Gemeinden die Betreuungspauschale quartalsweise. Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton inkl. der Verfügung zwischen dem Arbeitgeber und der Sozialhilfebehörde einzureichen. Bei nicht fristgerechter Einreichung verwirkt der Anspruch.
 
 #### § 25b
 
 **Kantonsvergütungen (§ 34 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art34)))**
 
-<sup>1</sup> Die Ausrichtung der Kantonsvergütungen setzt voraus, dass die Förderungsprogramme und Beschäftigungen geeignet sind, ihren gesetzlichen Zweck zu erfüllen, und dass sie in den Kosten angemessen sind.
+<sup>1</sup> Die Ausrichtung der Kantonsvergütungen setzt voraus, dass die Integrationsmassnahmen zur Erfüllung ihres gesetzlichen Zwecks geeignet und vom Kanton anerkannt sind.
 
-<sup>2</sup> Die Obergrenze der Kantonsvergütungen beträgt pro unterstützte Person und Monat:
+<sup>2</sup> Die Obergrenze der Kantonsvergütungen beträgt pro unterstützte Person und Monat bei:
 
-- a. CHF 900.– bei Förderungsprogrammen,
-- b. CHF 300.– bei Beschäftigungen.
+- a. Förderungsprogrammen — CHF 750.–;
+- b. Sprachförderungskursen — CHF 750.–;
+- c. Grundkompetenzkursen — CHF 400.–;
+- d. Beschäftigungsprogrammen — CHF 250.–;
+- e. Massnahmen der sozialen Integration — CHF 200.–;
+- f. Massnahmen der frühen Sprachförderung — CHF 200.–.
 
 <sup>3</sup> Der Kanton entrichtet den Gemeinden die Aufwendungen quartalsweise.
 
-<sup>4</sup> Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton einzureichen.
+<sup>4</sup> Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton inklusive aller notwendigen Unterlagen einzureichen. Als notwendige Unterlagen gelten die Verfügungen und die Rechnungsbelege der Leistungserbringenden. Zu vergüten sind die Leistungen, deren Rechnungsdatum in das abzurechnende Quartal fällt.
 
 <sup>5</sup> Bei nicht fristgemässer Einreichung verwirkt der Anspruch.
 
@@ -487,9 +514,11 @@ beschliesst:
 
 **Kompetenzzentrum**
 
-<sup>1</sup> Das Amt ist Kompetenzzentrum für Eingliederungen.
+<sup>1</sup> Das Amt ist Kompetenzzentrum für Eingliederungen. Es entscheidet über die Anerkennung von Integrationsprogrammen.
 
-<sup>2</sup> Es führt eine Internet-Plattform mit Informationen über geeignete Förderungsprogramme und Beschäftigungen insbesondere hinsichtlich deren Inhalte, Zielgruppen und Kosten.
+<sup>2</sup> Es führt eine Internetplattform mit Informationen über geeignete Integrationsmassnahmen insbesondere hinsichtlich deren Inhalte, Zielgruppen und Kosten.
+
+<sup>3</sup> Der Kanton kann in Einzelbereichen direkt Leistungsvereinbarungen mit Dritten abschliessen.
 
 #### § 26
 
@@ -503,6 +532,8 @@ beschliesst:
 
 <sup>1</sup> Vollumfänglich gutgeheissene Anträge gestützt auf die §§ 13, 14a, 14d und 15 können ohne Verfügung ausgerichtet werden, sofern diese nicht an andere Kantone oder an das Ausland weiterverrechenbar sind.
 
+<sup>2</sup> Die Sozialhilfebehörde kann die Entscheidbefugnis über vollumfänglich gutgeheissene Anträge gestützt auf Abs. 1 an den Sozialdienst oder das Präsidium delegieren.
+
 ## 4 Aufsicht und Fortbildung
 
 #### § 27
@@ -514,8 +545,8 @@ beschliesst:
 - a. …
 - b. …
 - c. …
-- d. Verfügungen über Förderungsprogramme und Beschäftigungen sowie über die Ausrichtung von Anreizbeiträgen;
-- e. alle Verfügungen betreffend Drogentherapien gemäss § 21 [SHG](https://bl.clex.ch/data/850/de/art21) sowie alle Verfügungen, wenn der Kanton Kostenträger ist.
+- d. …
+- e. alle Verfügungen betreffend Drogentherapien gemäss § 21 SHG sowie alle Verfügungen und/oder geeignete Belege, bei denen der Kanton Kostenträger ist.
 
 <sup>2</sup> …
 
