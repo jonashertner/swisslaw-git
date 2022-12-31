@@ -4,13 +4,12 @@ number: I C/21/2
 title: Einführungsgesetz zum Bundesgesetz über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister
 short: "Einführungsgesetz zum Registerharmonisierungsgesetz, EG RHG"
 language: de
-version: 2014-09-01
-valid_until: 2022-12-31
-version_adopted: 2014-05-04
+version: 2023-01-01
+version_adopted: 2021-09-05
 adopted: 2009-05-03
 in_force: 2009-05-03
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-C.21.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1643/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2346/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1643/pdf_file"
 
 (Einführungsgesetz zum Registerharmonisierungsgesetz, EG RHG)
 
-Vom 03.05.2009 (Stand 01.09.2014)
+Vom 03.05.2009 (Stand 01.01.2023)
 
 Die Landsgemeinde
 
@@ -55,7 +54,7 @@ beschliesst:
 
 <sup>1</sup> Das Einwohnerregister beinhaltet von jeder Person, die sich in der Gemeinde niedergelassen hat oder sich in ihr aufhält, die Daten gemäss Artikel 6 RHG.
 
-<sup>2</sup> Der Regierungsrat kann nach Anhörung der Gemeinden und unter Einbezug des Datenschutzbeauftragten des Kantons die Erfassung weiterer Daten im Einwohnerregister vorsehen, wenn dies für amtliche bzw. statistische Zwecke erforderlich ist. Er legt die Identifikatoren und Merkmale fest, soweit diese nicht durch das Bundesamt für Statistik vorgegeben sind.
+<sup>2</sup> Der Regierungsrat kann nach Anhörung der Gemeinden und unter Einbezug der Fachstelle Datenschutz die Erfassung weiterer Daten im Einwohnerregister vorsehen, wenn dies für amtliche bzw. statistische Zwecke erforderlich ist. Er legt die Identifikatoren und Merkmale fest, soweit diese nicht durch das Bundesamt für Statistik vorgegeben sind.
 
 ## 2. Meldepflichten
 
