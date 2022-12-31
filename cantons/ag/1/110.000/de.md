@@ -4,20 +4,20 @@ number: "110.000"
 title: Verfassung des Kantons Aargau
 short: "Kantonsverfassung, KV"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-12-10
+version: 2023-01-01
+valid_until: 2024-04-30
+version_adopted: 2022-01-18
 adopted: 1980-06-25
 in_force: 1982-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/110.000"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3031/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Aargau
 
-Vom 25.06.1980 (Stand 01.01.2022)
+Vom 25.06.1980 (Stand 01.01.2023)
 
 Das Aargauer Volk,
 
@@ -756,11 +756,13 @@ gibt sich nachstehende Verfassung:
 
 #### § 76
 
-**1. Stellung und Zusammensetzung**
+**1. Stellung, Zusammensetzung und Vertretung**
 
 <sup>1</sup> Der Grosse Rat ist die gesetzgebende und die oberste Aufsicht führende Behörde des Kantons.
 
 <sup>2</sup> Er besteht aus hundertvierzig Mitgliedern.
+
+<sup>3</sup> Das Gesetz regelt die Vertretung längerfristig verhinderter Mitglieder.
 
 #### § 77
 
