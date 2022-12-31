@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2023-04-30
 version_adopted: 2022-05-18
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3225/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3289/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3225/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.07.2022)
+Vom 28.08.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -53,6 +53,12 @@ beschliesst:
 <sup>1</sup> Unrechtmässig bezogene Leistungen sind ab deren Auszahlung zu einem Zinssatz von 5 % zu verzinsen.
 
 <sup>2</sup> Forderungen auf Rückzahlung unrechtmässig bezogener Leistungen können unter Beachtung der Existenzsicherung im Sinne der §§ 3 Abs. 1 und 15 Abs. 2 dieser Verordnung auch mit künftigen Leistungen verrechnet werden.
+
+#### § 2a
+
+**SKOS-Richtlinien**
+
+<sup>1</sup> Für die Sozialhilfe sind die von der Schweizerischen Konferenz für Sozialhilfe erlassenen Richtlinien (SKOS-Richtlinien) in der ab 1. Januar 2022 geltenden Fassung gemäss Anhang verbindlich. Vorbehalten bleiben die in dieser Verordnung sowie im SPG beziehungsweise dessen Ausführungserlassen enthaltenen Ausnahmen.
 
 ## 2. Sozialhilfe
 
@@ -130,9 +136,9 @@ beschliesst:
 
 #### § 10
 
-**Bemessungsrichtlinien (§ 10 SPG)**
+**Bemessung; Ausnahmen und Präzisierungen zu den SKOS-Richtlinien (§ 10 SPG)**
 
-<sup>1</sup> Für die Bemessung der materiellen Hilfe sind die von der Schweizerischen Konferenz für Sozialhilfe erlassenen Richtlinien vom April 2005 (4. überarbeitete Ausgabe) für die Ausgestaltung und Bemessung der Sozialhilfe (SKOS-Richtlinien) mit den bis zum 1. Januar 2017 ergangenen Änderungen, unter Vorbehalt der Absätze 4–5 und soweit das SPG beziehungsweise dessen Ausführungserlasse keine weiteren Abweichungen enthalten, gemäss Anhang verbindlich.
+<sup>1</sup> …
 
 <sup>2</sup> …
 
@@ -140,9 +146,9 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Die Prämien der obligatorischen Krankenpflegeversicherung sind im Rahmen der materiellen Hilfe zu übernehmen.
+<sup>4</sup> …
 
-<sup>5</sup> Es gelten folgende Abweichungen von den SKOS-Richtlinien:
+<sup>5</sup> Es gelten folgende Ausnahmen von den SKOS-Richtlinien:
 
 - a) Die Finanzierung der Kosten von Urlaubs- oder Erholungsaufenthalten erfolgt in der Regel über Fonds und Stiftungen.
 - b) Die in den SKOS-Richtlinien vorgesehene automatische Teuerungsanpassung kommt nicht zur Anwendung.
@@ -456,15 +462,26 @@ beschliesst:
 
 #### § 20
 
-**Voraussetzungen, Umfang und Ausnahmen (§ 20 SPG)**
+**Ausnahmen und Präzisierungen zu den SKOS-Richtlinien (§§ 20 und 21 SPG)**
 
 <sup>1</sup> Bessere wirtschaftliche Verhältnisse liegen vor, wenn Vermögen vorhanden ist, Vermögen gebildet wird oder Vermögen gebildet werden könnte.
 
 <sup>2</sup> Ein Vermögensfreibetrag von Fr. 5'000.– für eine Person, jedoch höchstens Fr. 15'000.– für eine Unterstützungseinheit gemäss § 32 Abs. 3 ist zu gewähren. Bei Leistungen aus Genugtuung und Integritätsentschädigungen ist eine Rückerstattung nur soweit zulässig, als die in Art. 11 Abs. 1 lit. c ELG enthaltenen Vermögensfreigrenzen überschritten werden.
 
-<sup>3</sup> Die Rückerstattung aus Einkommen erfolgt auf der Basis des sozialen Existenzminimums (Grundbedarf für den Lebensunterhalt, Wohnkosten, situationsbedingte Leistungen) zuzüglich Einkommensfreibetrag gemäss § 20a und Integrationszulage gemäss § 20b mit einem Zuschlag von 20 % und erweitert um die Auslagen für Steuern, Unterhaltsverpflichtungen und Darlehenstilgung.
+<sup>2<sup>bis</sup></sup> Ausgelöstes Guthaben der gebundenen Altersvorsorge darf nicht zur Rückerstattung herangezogen werden.
 
-<sup>4</sup> Die an Minderjährige und Volljährige in Ausbildung bis zum vollendeten 20. Altersjahr ausgerichteten Leistungen unterliegen nicht der Rückerstattungspflicht.
+<sup>3</sup> Für die Rückerstattung aus Einkommen gelten folgende Ausnahmen und Präzisierungen:
+
+- a) Als monatliche Rückerstattung aus Einkommen ist höchstens die Hälfte der ermittelten Differenz zwischen dem aktuellen Einkommen und dem anrechenbaren Bedarf einzufordern. Der anrechenbare Bedarf berechnet sich auf der Basis des doppelten Grundbedarfs für den Lebensunterhalt, der effektiven Wohnkosten und der medizinischen Grundversorgung. Er wird erweitert um die Auslagen für Steuern, Versicherungen, Unterhaltsbeiträge, Krankheitskosten, Schuldzinsen und Schuldentilgung sowie weitere begründete Auslagen nach effektivem Aufwand.
+- b) Die Rückzahlungen aus Einkommen sind auf eine zumutbare Dauer zu begrenzen.
+
+<sup>4</sup> Zu den rückerstattungspflichtigen Leistungen und Personen gelten folgende Ausnahmen und Präzisierungen:
+
+- a) Die zugunsten von Minderjährigen und Volljährigen in Erstausbildung bis zum vollendeten 25. Altersjahr ausgerichteten Leistungen unterliegen nicht der Rückerstattungspflicht.
+- b) Neben den Leistungen zur Förderung der beruflichen und sozialen Integration sind zusätzlich Einarbeitungszuschüsse sowie die für eine Arbeitsleistung ausgerichtete Sozialhilfe und allfällig damit verbundene Sozialversicherungsbeiträge von der Rückerstattungspflicht ausgenommen.
+- c) Leistungen zur Deckung der Prämien für die obligatorische Krankenversicherung, die zusätzlich zur individuellen Prämienverbilligung (IPV) geleistet wurden, sowie Leistungen, die aus Gründen einer Behinderung ergänzend zur Gesundheitsversorgung der materiellen Grundsicherung geleistet wurden, unterliegen der Rückerstattungspflicht.
+
+<sup>5</sup> Zur Förderung der freiwilligen Rückerstattung ist bei Zustandekommen einer Vereinbarung grundsätzlich ein Drittel der Schuld zu erlassen.
 
 ## 4. Massnahmen der sozialen Prävention
 
@@ -516,9 +533,19 @@ beschliesst:
 
 <sup>1</sup> Für die Berechnung der voraussichtlichen Halbjahreseinkünfte gilt § 11 sinngemäss.
 
-<sup>2</sup> Für die Berechnung des Grenzbetrags für die Halbjahreseinkünfte gelten die jeweils gültigen Ansätze gemäss Art. 10 Abs. 1 ELG. Für Kinder gilt jedoch durchwegs der Ansatz des Ergänzungsleistungsgesetzes für den Lebensbedarf ab dem dritten Kind.
+<sup>1<sup>bis</sup></sup> 18 % des Reinvermögens sind zusätzlich als halbjährliche Einkünfte hinzuzurechnen.
+
+<sup>1<sup>ter</sup></sup> Es wird ein Einkommensfreibetrag nach Massgabe des Arbeitspensums gewährt. Bei einer Vollzeitbeschäftigung beträgt dieser für den zur Hauptsache betreuenden Elternteil Fr. 150.– pro Monat und für den anderen Elternteil Fr. 300.– pro Monat.
+
+<sup>2</sup> Für die Berechnung des Grenzbetrags für die Halbjahreseinkünfte gilt die Hälfte der jeweils gültigen Ansätze gemäss Art. 10 Abs. 1 ELG. Für Kinder gilt jedoch durchwegs die Hälfte des Ansatzes des Ergänzungsleistungsgesetzes für den Lebensbedarf ab dem dritten Kind. Junge Erwachsene zwischen dem 19. und dem 25. Altersjahr werden in der Bemessung berücksichtigt, wenn eine Unterstützung durch die Eltern gemäss § 9 Abs. 3 lit. a des Gesetzes zum Bundesgesetz über die Krankenversicherung (KVGG) vom 15. Dezember 2015[^22-1] anzunehmen ist.
+
+<sup>2<sup>bis</sup></sup> Die anerkannten Ausgaben gemäss Art. 10 Abs. 3 lit. a, d und f ELG sind als Zuschlag bei der Berechnung des Grenzbetrags für die Halbjahreseinkünfte zu berücksichtigen.
+
+<sup>2<sup>ter</sup></sup> Die zu erwartenden Einkommenssteuern sind als Zuschlag bei der Berechnung des Grenzbetrags für die Halbjahreseinkünfte zu berücksichtigen.
 
 <sup>3</sup> Der Grenzbetrag für das Vermögen ist überschritten, wenn steuerbares Vermögen vorhanden ist.
+
+[^22-1]: SAR [837.200](https://gesetzessammlungen.ag.ch/data/837.200/de)
 
 #### § 23
 
@@ -572,32 +599,51 @@ beschliesst:
 
 **Anspruchsberechtigung; Grenzbeträge (§ 33 SPG)**
 
-<sup>1</sup> Anspruch auf Bevorschussung von Unterhaltsbeiträgen besteht, wenn sowohl das Reinvermögen gemäss steuerrechtlichen Vorgaben als auch die voraussichtlichen Jahreseinkünfte unter den folgenden Grenzbeträgen liegen:
+<sup>1</sup> Die Grenzbeträge gemäss Absatz 1<sup>bis</sup> beruhen auf dem Landesindex der Konsumentenpreise des Bundesamtes für Statistik (Basis Dezember 2015 = 100,0 Punkte). Massgebend für eine Änderung der Grenzbeträge ist der September-Index. Die Änderung erfolgt per 1. Januar des Folgejahrs, wenn zwischen dem September-Index des laufenden Jahres und dem für die letzte Grenzbetragsänderung massgebenden September-Index ein Unterschied von mindestens 1 % besteht. Das Departement Gesundheit und Soziales teilt den Gemeinden jeweils die massgebenden Grenzbeträge mit.[^27-1]
 
-- a) Beim nicht unterhaltsbeitragspflichtigen, allein stehenden Elternteil:
-  - 1\. Reinvermögen: Fr. 50'747.– zuzüglich Fr. 10'150.– für jedes unterhaltsberechtigte Kind
-  - 2\. Voraussichtliche Jahreseinkünfte: Fr. 39'770.– zuzüglich Fr. 10'465.– für jedes unterhaltsberechtigte Kind
+- a) …
+- b) …
+- c) …
+- d) …
+
+<sup>1<sup>bis</sup></sup> Bei der Berechnung der Grenzbeträge ist von folgenden Referenzbeträgen auszugehen (Indexstand September 2018 von 101,9 Punkten; Basis Dezember 2015 = 100,0 Punkte):
+
+- a) Beim nicht unterhaltsbeitragspflichtigen, alleinstehenden Elternteil:
+  - 1\. Reinvermögen: Fr. 34'500.– zuzüglich Fr. 6'900.– für jedes unterhaltsberechtigte Kind,
+  - 2\. Voraussichtliche Jahreseinkünfte: Fr. 38'300.– zuzüglich Fr. 10'100.– für jedes unterhaltsberechtigte Kind.
 - b) Beim nicht unterhaltsbeitragspflichtigen, verheirateten oder in einer stabilen eheähnlichen Beziehung gemäss § 12 Abs. 2 lebenden Elternteil und seinem Eheteil beziehungsweise seiner Partnerin oder seinem Partner:
-  - 1\. Reinvermögen: Fr. 101'496.– zuzüglich Fr. 10'150.– für jedes unterhaltsberechtigte Kind, Fr. 10'150.– für jedes Kind des Eheteils beziehungsweise der Partnerin oder des Partners, wenn es unter dessen oder deren Obhut steht
-  - 2\. Voraussichtliche Jahreseinkünfte: Fr. 55'468.– zuzüglich Fr. 10'465.– für jedes unterhaltsberechtigte Kind, Fr. 10'465.– für jedes Kind des Eheteils beziehungsweise der Partnerin oder des Partners, wenn es unter dessen oder deren Obhut steht, oder bei geleisteten Unterhaltszahlungen
+  - 1\. Reinvermögen: Fr. 69'000.– zuzüglich Fr. 6'900.– für jedes unterhaltsberechtigte Kind, Fr. 6'900.– für jedes Kind des Eheteils beziehungsweise der Partnerin oder des Partners, wenn es unter deren oder dessen Obhut steht,
+  - 2\. Voraussichtliche Jahreseinkünfte: Fr. 53'500.– zuzüglich Fr. 10'100.– für jedes unterhaltsberechtigte Kind, Fr. 10'100.– für jedes Kind des Eheteils beziehungsweise der Partnerin oder des Partners, wenn es unter deren oder dessen Obhut steht, oder bei geleisteten Unterhaltszahlungen.
 - c) Beim nicht unterhaltsbeitragspflichtigen, in Wohn- und Wirtschaftsgemeinschaft lebenden Elternteil:
-  - 1\. Reinvermögen: Fr. 50'747.– zuzüglich Fr. 10'150.– für jedes unterhaltsberechtigte Kind
-  - 2\. Voraussichtliche Jahreseinkünfte: Fr. 31'397.– zuzüglich Fr. 10'465.– für jedes unterhaltsberechtigte Kind
+  - 1\. Reinvermögen: Fr. 34'500.– zuzüglich Fr. 6'900.– für jedes unterhaltsberechtigte Kind,
+  - 2\. Voraussichtliche Jahreseinkünfte: Fr. 30'300.– zuzüglich Fr. 10'100.– für jedes unterhaltsberechtigte Kind.
 - d) Beim minderjährigen Kind, wenn es nicht im Haushalt des obhutsberechtigten Elternteils wohnt, sowie beim volljährigen Kind, wenn es nicht bei einem Elternteil wohnt:
-  - 1\. Reinvermögen: Fr. 20'299.–
-  - 2\. Voraussichtliche Jahreseinkünfte: Fr. 15'699.–
+  - 1\. Reinvermögen: Fr. 13'800.–,
+  - 2\. Voraussichtliche Jahreseinkünfte: Fr. 15'100.–.
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Grenzbeträge gemäss Absatz 1 beruhen auf einem Indexstand der Konsumentenpreise des Bundesamtes für Statistik von 101,8 Punkten (Stand September 2015; Basis Dezember 2005 = 100,0 Punkte). Sie verändern sich per 1. Januar des folgenden Jahres aufgrund der Veränderung des Landesindexes der Konsumentenpreise des laufenden Jahres, wenn diese mindestens 1 % beträgt. Grundlage für die Berechnung bildet der September-Index des laufenden Jahres. Das Departement Gesundheit und Soziales teilt den Gemeinden jeweils die massgebenden Grenzbeträge mit[^27-1].
+<sup>3</sup> …
 
-<sup>4</sup> Zu den Jahreseinkünften gehören namentlich das Erwerbseinkommen abzüglich geleisteter Sozialversicherungsbeiträge des Elternteils, des Eheteils und des Kindes, Kinderzulagen, Leistungen von privaten und öffentlich-rechtlichen Versicherungen des Elternteils, des Eheteils und des Kindes, Vermögenserträge sowie erhältliche familienrechtliche Unterhaltsbeiträge ohne die Kinderunterhaltsbeiträge, um deren Bevorschussung nachgesucht wird. Nicht zu berücksichtigen sind öffentliche Sozialhilfeleistungen, andere Leistungen nach dem SPG, freiwillige Zuwendungen Dritter und Stipendien.
+<sup>4</sup> Zu den Jahreseinkünften gehört das Erwerbseinkommen unter Berücksichtigung der folgenden Beträge:
 
-<sup>5</sup> Ist das Kind in einem Heim, einer Anstalt oder einer Pflegefamilie untergebracht, erfolgt die Bevorschussung innerhalb der in Absatz 1 festgelegten Grenzen nur bis zum Betrag, der zur Deckung des Kostgeldes einschliesslich der erforderlichen Nebenauslagen notwendig ist.
+- a) zuzüglich Familienzulagen,
+- b) zuzüglich Leistungen von privaten und öffentlich-rechtlichen Versicherungen des Elternteils, seines Eheteils beziehungsweise seiner Partnerin oder seinem Partner gemäss § 12 Abs. 2 und des Kindes,
+- c) zuzüglich Vermögenserträge,
+- d) zuzüglich erhältliche familienrechtliche Unterhaltsbeiträge ohne die Kinderunterhaltsbeiträge, um deren Bevorschussung nachgesucht wird,
+- e) abzüglich Berufsauslagen,
+- f) abzüglich Ausgaben für die ausgewiesene und notwendige familienergänzende Kinderbetreuung unter Anrechnung der Unterstützungsbeiträge gemäss dem Gesetz über die familienergänzende Kinderbetreuung (Kinderbetreuungsgesetz, KiBeG) vom 12. Januar 2016[^27-2],
+- g) abzüglich Einkommensfreibetrag nach Massgabe des Arbeitspensums. Bei einer Vollzeitbeschäftigung beträgt dieser Fr. 300.– pro Monat,
+- h) abzüglich geleisteter Sozialversicherungsbeiträge sowie Prämien der obligatorischen Krankenpflegeversicherung des Elternteils, seines Eheteils beziehungsweise seiner Partnerin oder seinem Partner gemäss § 12 Abs. 2 und des Kindes.
 
-<sup>6</sup> Auf volljährige Kinder bis zum vollendeten 20. Altersjahr, die im Haushalt des nicht unterhaltsbeitragspflichtigen Elternteiles leben, finden Absatz 1 lit. a, b oder c Anwendung.
+<sup>4<sup>bis</sup></sup> Nicht zu berücksichtigen sind öffentliche Sozialhilfeleistungen, andere Leistungen gemäss SPG, freiwillige Zuwendungen Dritter, Stipendien, Prämienverbilligungen und Ergänzungsleistungen.
 
-[^27-1]: Die aktuellen Grenzbeträge sind unter [https://www.ag.ch/de/dgs/gesellschaft/soziales/oeffentlichesozialhilfe/alimenteundinkassohilfe/AlimenteundInkassohilfe.jsp](https://www.ag.ch/de/dgs/gesellschaft/soziales/oeffentlichesozialhilfe/alimenteundinkassohilfe/AlimenteundInkassohilfe.jsp) einsehbar.
+<sup>5</sup> Ist das Kind in einem Heim, einer Anstalt oder einer Pflegefamilie untergebracht, erfolgt die Bevorschussung innerhalb der in den Absätzen 1 und 1<sup>bis</sup> festgelegten Grenzen nur bis zum Betrag, der zur Deckung des Kostgeldes einschliesslich der erforderlichen Nebenauslagen notwendig ist.
+
+<sup>6</sup> Auf volljährige Kinder bis zum vollendeten 20. Altersjahr, die im Haushalt des nicht unterhaltsbeitragspflichtigen Elternteils leben, finden die Absätze 1 und 1<sup>bis</sup> lit. a, b oder c Anwendung.
+
+[^27-1]: Die aktuellen Grenzbeträge sind im Handbuch Soziales einsehbar unter [https://www.ag.ch/alimentenbevorschussung/anspruchsvoraussetzungen](https://www.ag.ch/alimentenbevorschussung/anspruchsvoraussetzungen).
+[^27-2]: SAR [815.300](https://gesetzessammlungen.ag.ch/data/815.300/de)
 
 #### § 28
 
@@ -635,7 +681,7 @@ beschliesst:
 
 <sup>1</sup> Die Finanzierung der Teilnahme an einem Beschäftigungsprogramm setzt voraus, dass es die Lebensqualität durch eine geordnete Tagesstruktur verbessert und ein erwünschtes soziales Verhalten unterstützt. Soweit möglich ist eine erneute berufliche Eingliederung anzustreben.
 
-<sup>2</sup> Von der Rückerstattungspflicht sind nebst den Programmkosten auch die Sozialversicherungsbeiträge und die während der Programmdauer als Lohn ausgerichtete Sozialhilfe ausgenommen.
+<sup>2</sup> …
 
 #### § 30a
 
@@ -651,7 +697,7 @@ beschliesst:
 
 <sup>5</sup> Einarbeitungszuschüsse werden an Arbeitgebende ausbezahlt. Diese entrichten den Arbeitnehmenden von Anfang an einen branchen- und marktüblichen Lohn. Einarbeitungszuschüsse werden nur für unbefristet abgeschlossene Arbeitsverträge gewährt.
 
-<sup>6</sup> Einarbeitungszuschüsse sind nicht rückerstattungspflichtig.
+<sup>6</sup> …
 
 <sup>7</sup> …
 
@@ -683,11 +729,11 @@ beschliesst:
 
 **Definitionen (§ 47 SPG)**
 
-<sup>1</sup> Als Fall gemäss § 47 Abs. 3 SPG (kostenintensiver Sozialhilfefall) gilt die Ausrichtung von Leistungen gemäss § 47 Abs. 1 lit. a, b und e SPG an eine Person oder eine Unterstützungseinheit innerhalb eines Kalenderjahres.
+<sup>1</sup> Als Fall gemäss § 47 Abs. 3 SPG (kostenintensiver Sozialhilfefall) gilt die Ausrichtung von Leistungen gemäss § 47 Abs. 1 lit. a, b und e SPG an eine Person beziehungsweise eine Unterstützungseinheit innerhalb eines Kalenderjahres.
 
 <sup>2</sup> Als Nettokosten gemäss § 47 Abs. 3 SPG gelten die innerhalb eines Kalenderjahres ausgerichteten Leistungen gemäss § 47 Abs. 1 lit. a, b und e SPG abzüglich der im gleichen Zeitraum eingegangenen Zahlungen, insbesondere Rückerstattungen, Rückzahlungen oder Kostenersatz.
 
-<sup>3</sup> Als Unterstützungseinheit gelten Ehepaare sowie Familien im gleichen Haushalt. Nicht zur Unterstützungseinheit gehören insbesondere volljährige Kinder mit eigenem Unterstützungsbudget, Personen in einer Wohn- und Lebensgemeinschaft sowie Einzelpersonen im Haushalt einer Unterstützungseinheit.
+<sup>3</sup> Als Unterstützungseinheit gelten Einzelpersonen, Ehepaare sowie Familien im gleichen Haushalt. In Bezug auf einen kostenintensiven Sozialhilfefall gemäss Absatz 1 sind Eltern und deren fremdplatzierte minderjährige Kinder einer Unterstützungseinheit gleichgestellt, sofern deren Unterstützungswohnsitze in derselben Gemeinde liegen. Nicht zur Unterstützungseinheit gehören insbesondere volljährige Kinder mit eigenem Unterstützungsbudget, Personen in einer Wohn- und Lebensgemeinschaft sowie Einzelpersonen im Haushalt einer Unterstützungseinheit.
 
 #### § 33
 
