@@ -3,20 +3,19 @@ canton: BL
 number: "683.21"
 title: Vertrag zwischen dem Kaufmännischen Verband Baselland und dem Kanton Basel-Landschaft über die Führung der Schulen des Kaufmännischen Verbands Baselland
 language: de
-version: 2015-08-01
-valid_until: 2022-12-31
-version_adopted: 2015-06-16
+version: 2023-01-01
+version_adopted: 2022-12-22
 adopted: 2014-07-10
 in_force: 2014-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/683.21"
-pdf: "https://bl.clex.ch/api/de/versions/1317/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3505/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vertrag zwischen dem Kaufmännischen Verband Baselland und dem Kanton Basel-Landschaft über die Führung der Schulen des Kaufmännischen Verbands Baselland
 
-Vom 10.07.2014 (Stand 01.08.2015)
+Vom 10.07.2014 (Stand 01.01.2023)
 
 Der Kanton Basel-Landschaft, vertreten durch die Bildungs-, Kultur- und Sportdirektion,
 
@@ -41,13 +40,10 @@ und der Kaufmännische Verband Baselland (KV BL) vereinbaren:
 
 - a. von kaufmännischen Berufsfachschulen (Berufsfachschulunterricht in der dual und schulisch organisierten Grundbildung einschliesslich Berufsmaturitätsschule I und II sowie Nachholbildung),
 - b. einer Berufsfachschule für Berufe des Detailhandels (Berufsfachschulunterricht in der dual organisierten Grundbildung),
-- c. von Brückenangeboten einschliesslich Berufsvorbereitende Schule BVS 2,
-- d. von Angeboten der berufsorientierten Weiterbildung und der höheren Berufsbildung gemäss Bundesgesetzgebung über die Berufsbildung[^2-1] und kantonaler Bildungsgesetzgebung[^2-2] beauftragt.
+- c. von Brückenangeboten beauftragt,
+- d. …
 
 <sup>2</sup> Der KV BL untersteht dabei den bundesgesetzlichen und kantonalgesetzlichen Bestimmungen und Ausführungserlassen.
-
-[^2-1]: SR 412.10
-[^2-2]: SGS [640](https://bl.clex.ch/data/640/de), GS 34.0637
 
 #### § 3
 
@@ -67,15 +63,15 @@ und der Kaufmännische Verband Baselland (KV BL) vereinbaren:
 
 <sup>1<sup>bis</sup></sup> Lernende in beruflichen Grundbildungen im Detailhandel (EBA, EFZ) mit Lehrbetriebsort in den Bezirken Arlesheim und Laufen haben die Möglichkeit, die Berufsfachschule im Kanton Basel-Stadt zu besuchen, wenn ihr Wohnort in den Bezirken Arlesheim oder Laufen oder ausserhalb des Kantons Basel-Landschaft ist oder wenn eine EFZ-Ausbildung mit lehrbegleitender Berufsmaturität erfolgt.
 
-<sup>2</sup> Über Ausnahmen entscheidet das Amt für Berufsbildung und Berufsberatung auf Antrag einer Schule oder einer Lehrvertragspartei.
+<sup>2</sup> Über Ausnahmen entscheidet die Dienststelle Berufsbildung, Mittelschulen und Hochschulen auf Antrag einer Schule oder einer Lehrvertragspartei.
 
 <sup>3</sup> …
 
 #### § 4
 
-**Leistungsauftrag**
+**Leistungsvereinbarung**
 
-<sup>1</sup> Der zwischen der Bildungs-, Kultur- und Sportdirektion und dem KV BL abgeschlossene Leistungsauftrag bezeichnet die von den Schulen im Einzelnen zu erbringenden Leistungen und regelt deren Finanzierung.
+<sup>1</sup> Die zwischen der Bildungs-, Kultur- und Sportdirektion und dem KV BL abgeschlossene Leistungsvereinbarung bezeichnet die von den Schulen im Einzelnen zu erbringenden Leistungen und regelt deren Finanzierung.
 
 <sup>2</sup> Er enthält insbesondere:
 
@@ -87,9 +83,19 @@ und der Kaufmännische Verband Baselland (KV BL) vereinbaren:
 
 **Liegenschaften**
 
-<sup>1</sup> Den Schulen des KV BL in Muttenz und in Reinach stellt der Kanton Basel-Landschaft Liegenschaften zur Verfügung. Der laufende Betriebsaufwand ist Teil der Schulrechnung der Schulen des KV Baselland und separat auszuweisen.
+<sup>1</sup> Der Kanton Basel-Landschaft stellt an den Schulstandorten Muttenz und Reinach die zum Betrieb der Schule notwendigen Liegenschaften zur Verfügung. Am Schulstandort Liestal stellt der Kanton zudem eine Sporthalle in der Kaserne Liestal zur Verfügung. Allfällige Nutzungsansprüche des Bundes bleiben vorbehalten.
 
-<sup>2</sup> Am Schulort Liestal stellt der KV BL seine auf der Baurechtsparzelle Nr. 2669 erstellten Liegenschaften für die Dauer des Baurechtes zum Betrieb seiner Schulen zur Verfügung. Die Entschädigung für die Benützung dieser Schulliegenschaften wird vom Kanton Basel-Landschaft im Rahmen des Leistungsauftrags abgegolten.
+<sup>2</sup> Am Schulstandort Liestal stellt der KV BL Teile seiner Liegenschaften zum Betrieb der Schule zur Verfügung. Der Kanton Basel-Landschaft leistet dem KV BL hierfür eine Entschädigung auf der Basis der Verordnung über die Miete von Schulanlagen vom 5. Juli 2011[^5-1].
+
+<sup>3</sup> Die Entschädigung gemäss Abs. 2 wird in einer separaten Vereinbarung zwischen dem KV BL und dem Kanton Basel-Landschaft, vertreten durch das Hochbauamt der Bau- und Umweltschutzdirektion, geregelt.
+
+<sup>4</sup> Die Nutzung der Sporthalle in der Kaserne Liestal durch den KV BL gemäss Abs. 1 wird in einer separaten Vereinbarung zwischen dem KV BL und dem Kanton Basel-Landschaft, vertreten durch das Amt für Militär und Bevölkerungsschutz, geregelt.
+
+<sup>5</sup> Die Kostentragung für den Betriebsaufwand der Schulliegenschaften in Liestal, Muttenz und Reinach wird im Rahmen der Leistungsvereinbarung zwischen dem KV BL und dem Kanton Basel-Landschaft, vertreten durch die Bildungs-, Kultur- und Sportdirektion, geregelt.
+
+<sup>6</sup> Der Betriebsaufwand für die Schulliegenschaften in Liestal, der bereits mit der Entschädigung gemäss Abs. 2 abgegolten wird, bleibt vorbehalten.
+
+[^5-1]: [SGS 640.32](https://bl.clex.ch/data/640.32/de)
 
 #### § 6
 
