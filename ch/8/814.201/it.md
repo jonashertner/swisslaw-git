@@ -4,11 +4,11 @@ title: Ordinanza del 28 ottobre 1998 sulla protezione delle acque (OPAc)
 short: OPAc
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20210101/it"
 
 (OPAc)
 
-del 28 ottobre 1998 (Stato 1° gennaio 2021)
+del 28 ottobre 1998 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -331,7 +331,7 @@ L’autorità verifica periodicamente se:
 <sup>3</sup> Restano salve le disposizioni ulteriori dell’ordinanza del 27 febbraio 1991[^16-1] sulla protezione contro gli incidenti rilevanti e dell’ordinanza del 20 novembre 1991[^16-2] sulla garanzia dell’approvvigionamento di acqua potabile in situazioni di emergenza.
 
 [^16-1]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^16-2]: [RS 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)
+[^16-2]: [[RU 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)n. I 2: [RU 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)art. 15]. Vedi ora l’O del 19 ago. 2020 sulla garanzia dell’approvvigionamento di acqua potabile in situazioni di grave penuria ([RS 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)).
 
 #### Art. 17
 
@@ -725,13 +725,13 @@ Per i prelievi d’acqua per i quali è necessario un risanamento, il rapporto i
 
 Gli articoli 36–40 si applicano per analogia anche ai progetti di prelievo per i quali la concessione è stata rilasciata prima dell’entrata in vigore della legge sulla protezione delle acque (art. 83 LPAc).
 
-## Capitolo 7: Prevenzione e rimozione di altri effetti pregiudizievoli alle acque****
+## Capitolo 7: Prevenzione e rimozione di altri effetti pregiudizievoli alle acque
 
 [^chap7-1]
 
 [^chap7-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### Sezione 1:**** Spazio riservato alle acque e rivitalizzazione delle acque
+### Sezione 1: Spazio riservato alle acque e rivitalizzazione delle acque
 
 [^chap7-sec1-1]
 
@@ -832,7 +832,7 @@ Nello spazio riservato alle acque è consentito realizzare esclusivamente impian
 
 <sup>3</sup> Nello spazio riservato alle acque non si possono utilizzare concimi né prodotti fitosanitari. Al di fuori di una fascia larga 3 metri lungo la riva sono ammessi trattamenti pianta per pianta in caso di piante problematiche, sempre che queste non possano essere rimosse meccanicamente con un aggravio ragionevole.
 
-<sup>4</sup> Lo spazio riservato alle acque può essere utilizzato a fini agricoli se, conformemente alle esigenze definite nell’ordinanza del 23 ottobre 2013[^41c-6] sui pagamenti diretti, è utilizzato sotto forma di terreno da strame, siepe, boschetto campestre e rivierasco, prato rivierasco lungo i corsi d’acqua, prato sfruttato in modo estensivo, pascolo sfruttato in modo estensivo o pascolo boschivo. Queste esigenze si applicano anche alla corrispondente utilizzazione di superfici al di fuori della superficie agricola utile.[^41c-7]
+<sup>4</sup> Lo spazio riservato alle acque può essere utilizzato a fini agricoli se, conformemente alle esigenze definite nell’ordinanza del 23 ottobre 2013[^41c-6] sui pagamenti diretti, è utilizzato sotto forma di terreno da strame, siepe, boschetto campestre e rivierasco, prato rivierasco, prato sfruttato in modo estensivo, pascolo sfruttato in modo estensivo o pascolo boschivo. Queste esigenze si applicano anche alla corrispondente utilizzazione di superfici al di fuori della superficie agricola utile.[^41c-7]
 
 <sup>4bis</sup> Se, sul lato opposto al corso d’acqua, lo spazio riservato alle acque comprende una porzione che si estende solo per pochi metri al di là di una strada o di una via con strato portante o di una linea ferroviaria, l’autorità può concedere deroghe alle limitazioni di utilizzazione previste ai capoversi 3 e 4 per questa parte di spazio riservato alle acque, a condizione che nessun concime o prodotto fitosanitario possa finire nelle acque.[^41c-8]
 
@@ -851,7 +851,7 @@ Non si applicano:
 [^41c-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^41c-5]: Nuovo testo giusta il n. I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^41c-6]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^41c-7]: Nuovo testo giusta l’all. 9 n. 2 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^41c-7]: Nuovo testo giusta il n. IV dell’O del 3 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^41c-8]: Introdotto dal n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
 #### Art. 41c<sup>bis</sup>
@@ -891,7 +891,7 @@ Nell’ambito di una pianificazione per un periodo di 20 anni, i Cantoni definis
 
 [^41d-1]: Nuovo testo giusta il n. I 4 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
-### Sezione 2:**** Deflussi discontinui
+### Sezione 2: Deflussi discontinui
 
 [^chap7-sec2-1]
 
@@ -935,7 +935,7 @@ I detentori di centrali idroelettriche devono consentire l’accesso all’autor
 [^41g-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^41g-2]: Nuovo testo del per. giusta il n. II 2 dell’all. 7 all’O del 1° nov. 2017 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
-### Sezione 3: Spurgo e svuotamento dei bacini di accumulazione****
+### Sezione 3: Spurgo e svuotamento dei bacini di accumulazione
 
 [^chap7-sec3-1]
 
@@ -959,7 +959,7 @@ In caso di dilavamento dei sedimenti, l’autorità si assicura che il danno arr
 
 [^42-1]: Abrogata dal n. I dell’O del 4 mag. 2011, con effetto dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### Sezione 4: Bilancio in materiale detritico****
+### Sezione 4: Bilancio in materiale detritico
 
 [^chap7-sec4-1]
 
@@ -1022,7 +1022,7 @@ Per evitare che in caso di estrazione di sabbia, ghiaia e altri materiali sia pr
 
 <sup>2</sup> Le attività estrattive di cui al capoverso 1 non devono provocare intorbidimenti che possano arrecare danno alle acque ittiche.
 
-### Sezione 5: Acqua di drenaggio proveniente da opere sotterranee****
+### Sezione 5: Acqua di drenaggio proveniente da opere sotterranee
 
 [^chap7-sec5-1]
 
@@ -1163,7 +1163,7 @@ Il Dipartimento è abilitato ad approvare, con l’accordo del Dipartimento fede
 [^51-5]: [RU **1979** 96, [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323), [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [RU 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)art. 19 n. 1 lett. c]
 [^51-6]: Introdotto dal n. II 12 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
-## Capitolo 8*a*:**** Tassa federale sulle acque di scarico
+## Capitolo 8*a*: Tassa federale sulle acque di scarico
 
 [^chap8a-1]
 
@@ -1213,7 +1213,7 @@ Il termine di prescrizione s’interrompe e decorre da capo:
 
 ## Capitolo 9: Concessione di sussidi federali
 
-### Sezione 1:**** Misure
+### Sezione 1: Misure
 
 [^chap9-sec1-1]
 
@@ -1365,7 +1365,7 @@ Gli aiuti finanziari destinati all’informazione della popolazione ammontano:
 
 [^58-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### Sezione 2:**** Procedura per la concessione di indennità globali
+### Sezione 2: Procedura per la concessione di indennità globali
 
 [^chap9-sec2-1]
 
@@ -1455,7 +1455,7 @@ L’Ufficio federale competente sospende totalmente o in parte i pagamenti ratea
 
 [^61b-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### Sezione 3:**** Procedura per la concessione di indennità o aiuti finanziari nel singolo caso
+### Sezione 3: Procedura per la concessione di indennità o aiuti finanziari nel singolo caso
 
 [^chap9-sec3-1]
 
@@ -1503,7 +1503,7 @@ Per la rendicontazione e il controllo nel quadro delle indennità e degli aiuti 
 
 La presente ordinanza entra in vigore il 1° gennaio 1999.
 
-## Disposizione transitoria concernente la modifica del 18 ottobre 2006****
+## Disposizione transitoria concernente la modifica del 18 ottobre 2006
 
 [^u1-1]
 
@@ -1511,7 +1511,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1999.
 
 Gli impianti e gli elementi d’impianto costruiti conformemente alle prescrizioni prima dell’entrata in vigore della presente modifica possono essere mantenuti in esercizio se sono funzionanti e non rappresentano alcun pericolo concreto per le acque; i contenitori interrati a parete semplice adibiti al deposito di liquidi nocivi alle acque possono essere mantenuti in esercizio al più tardi fino al 31 dicembre 2014.
 
-## Disposizioni transitorie della modifica del 4 maggio 2011****
+## Disposizioni transitorie della modifica del 4 maggio 2011
 
 [^u2-1]
 
@@ -1531,7 +1531,7 @@ Gli impianti e gli elementi d’impianto costruiti conformemente alle prescrizio
 
 [^u2-2]: Nuovo testo giusta il n. I 1 dell’O del 17 apr. 2019 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2020–2024, in vigore dal 1° gen. 2020 ([RU 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
-## Disposizione transitoria relativa alla modifica del 25 maggio 2011****
+## Disposizione transitoria relativa alla modifica del 25 maggio 2011
 
 [^u3-1]
 
@@ -1539,7 +1539,7 @@ Gli impianti e gli elementi d’impianto costruiti conformemente alle prescrizio
 
 L’autorità cantonale può concedere, sino al 31 dicembre 2015, una deroga secondo l’articolo 25 capoverso 1 alle aziende che, a causa del divieto di usare sottoprodotti di macelli o di macellerie e resti alimentari a scopo foraggero, non soddisfano più le esigenze secondo l’articolo 25 capoverso 3 lettere c e d, se tali aziende dimostrano che fino ad allora hanno usato sottoprodotti di macelli e di macellerie o resti alimentari a scopo foraggero e non hanno potuto compensare questa soppressione con altri sottoprodotti.
 
-## Disposizioni transitorie della modifica del 4 novembre 2015****
+## Disposizioni transitorie della modifica del 4 novembre 2015
 
 [^u4-1]
 
@@ -1600,7 +1600,7 @@ Allegato 1
   - – siano assenti dalle acque sotterranee qualora tali sostanze non facciano parte del patrimonio naturale locale, e
   - – non abbiano effetti pregiudizievoli sull’utilizzazione delle acque sotterranee.
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 6, 8, 13 e 47)
 
@@ -1736,7 +1736,7 @@ Tabella delle esigenze per le acque sotterranee, espresse in valori numerici
 <table>
 <tr><th>N.</th><th>Parametro</th><th>Esigenze</th></tr>
 <tr><td>1</td><td>Carbonio organico disciolto *(DOC)*</td><td>2 mg/l C</td></tr>
-<tr><td>2</td><td>Ammonio *(Somma di NH**<sub>4</sub>**<sup>+</sup>* – *N e NH**<sub>3</sub>* – *N)*</td><td>In condizioni ossidanti: 0.08 mg/l N *(corrisponde a 0.1 mg/l ammonio)* In condizioni non ossidanti: 0.4 mg/l N *(corrisponde a 0.5 mg/l am**monio)*</td></tr>
+<tr><td>2</td><td>Ammonio *(Somma di NH**<sub>4</sub>**<sup>+</sup>* – *N e NH**<sub>3</sub>* – *N)*</td><td>In condizioni ossidanti: 0.08 mg/l N *(corrisponde a 0.1 mg/l ammonio)* In condizioni non ossidanti: 0.4 mg/l N *(corrisponde a 0.5 mg/l* *am**monio)*</td></tr>
 <tr><td>3</td><td>Nitrato *(NO**<sub>3</sub>**<sup>–</sup>* - *N)*</td><td>5.6 mg/l N *(corrisponde a 25 mg/l di nitrato*)</td></tr>
 <tr><td>4</td><td>Solfato *(SO**<sub>4</sub>**<sup>2</sup>**<sup>–</sup>**)*</td><td>40 mg/l SO<sub>4</sub><sup>2</sup> <sup>–</sup></td></tr>
 <tr><td>5</td><td>Cloruro *(Cl**<sup>–</sup>**)*</td><td>40 mg/l Cl*<sup>–</sup>*</td></tr>
@@ -1752,13 +1752,13 @@ Allegato 3
 
 ## Esigenze relative all’evacuazione delle acque di scarico inquinate
 
-Allegato 3.1*[^t-2]*
+Allegato 3.1[^t-2]
 
 (art. 6 cpv. 1)
 
 ## Immissione delle acque di scarico comunali in un ricettore naturale
 
-[^t-2]: Aggiornato giusta il n. I dell’O del 31 ott. 2001 ([RU 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), dal n. III dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla correzione del 7 feb. 2017 ([RU 2017 509](https://fedlex.data.admin.ch/eli/oc/2017/88)) e dal n. I dell’O del 17 apr. 2019, in vigore dal 1° gen. 2021 ([RU 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). Vedi anche le disp. trans. della mod. del 4 nov. 2015 qui avanti.
+[^t-2]: Aggiornato dal n. I dell’O del 31 ott. 2001 ([RU 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), dal n. III dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla correzione del 7 feb. 2017 ([RU 2017 509](https://fedlex.data.admin.ch/eli/oc/2017/88)) e dal n. I dell’O del 17 apr. 2019, in vigore dal 1° gen. 2021 ([RU 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). Vedi anche le disp. trans. della mod. del 4 nov. 2015 qui avanti.
 
 ### 1 Definizioni e generalità
 
@@ -1783,16 +1783,16 @@ Allegato 3.1*[^t-2]*
 <tr><td>2</td><td>Richiesta di ossigeno chimica *(COD)*</td><td>Per acque di scarico da impianti di meno di 10 000 AE: – concentrazione in uscita: 60 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 80 % Per acque di scarico da impianti di 10 000 AE e più: – concentrazione in uscita: 45 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 85 %</td></tr>
 <tr><td>3</td><td>Carbonio organico disciolto *(DOC)*</td><td>Per acque di scarico da impianti di 2000 e più AE: – concentrazione in uscita: 10 mg/l ed – efficienza depurativa: 85 %, espressa come segue:</td></tr>
 <tr><td></td><td></td><td>100 • (1 – mg DOC nelle acque di scarico depurate mg carbonio organico totale nelle acque di scarico non trattate</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/it/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/it/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>
 <tr><td>4</td><td>Trasparenza *(secondo Snellen)*</td><td>30 cm</td></tr>
-<tr><td>5</td><td>Ammonio *(Somma di NH**<sub>4</sub>**<sup>+</sup>* – *N e NH**<sub>3</sub>* – *N)*</td><td>Se le concentrazioni di ammonio nelle acque di scarico possono avere effetti pregiudizievoli sulla qualità di un corso d’acqua, per una temperatura dell’acqua superiore ai 10 °C valgono i seguenti valori: – concentrazione in uscita: 2 mg/l N ed – efficienza depurativa: 90 %, espressa come segue:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/it/xml/image/image2.png)</td></tr>
+<tr><td>5</td><td>Ammonio *(Somma di NH**<sub>4</sub>**<sup>+</sup>* – *N e* *NH**<sub>3</sub>* – *N)*</td><td>Se le concentrazioni di ammonio nelle acque di scarico possono avere effetti pregiudizievoli sulla qualità di un corso d’acqua, per una temperatura dell’acqua superiore ai 10 °C valgono i seguenti valori: – concentrazione in uscita: 2 mg/l N ed – efficienza depurativa: 90 %, espressa come segue:</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/it/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>In questi casi si deve eseguire una nitrificazione durante tutto l’anno. *Nota:* il valore dell’azoto ottenuto con il metodo di Kjeldahl corrisponde alla somma dell’azoto contenuto nei sali di ammonio, nell’ammoniaca e nei composti organici azotati.</td></tr>
 <tr><td>6</td><td>Nitrito *(NO**<sub>2</sub>*<sup>–</sup> - *N)*</td><td>0.3 mg/l N (valore indicativo)</td></tr>
 <tr><td>7</td><td>Composti organici alogenati adsorbibili *(AOX)*</td><td>0.08 mg/l X Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>
 <tr><td>8</td><td>Sostanze organiche che già a basse concentrazioni sono suscettibili di inquinare le acque *(sostanze organiche in tracce)*</td><td>L’efficienza depurativa, riferita alle acque di scarico non trattate e misurata in base a determinate sostanze, deve essere dell’80 % per le acque di scarico di: – impianti con più di 80 000 abitanti allacciati; – impianti con più di 24 000 abitanti allacciati nel bacino imbrifero di laghi; il Cantone può autorizzare deroghe se il beneficio di una depurazione è esiguo per l’ambiente e per l’approvvigionamento di acqua potabile; – impianti con più di 8000 abitanti allacciati che immettono acque di scarico inquinate in un corso d’acqua con una quota di oltre il 10 % di acque di scarico che non sono state trattate per eliminare le sostanze organiche in tracce; il Cantone designa gli impianti, che devono adottare misure, nel quadro di una pianificazione nel bacino imbrifero; – altri impianti con più di 8000 abitanti allacciati se la depurazione è necessaria a causa di particolari condizioni idrogeologiche; –[^annex31-lvlu1-lvl2-1] ... Il Dipartimento stabilisce in un’ordinanza le sostanze sulla base delle quali misurare l’efficienza depurativa e le modalità di calcolo.</td></tr>
-<tr><td>9</td><td>Richiesta di ossigeno biochimica *(**BOD**<sub>5</sub>* *con inibizione della nitrific**a**zione)*</td><td>Per acque di scarico da impianti di meno di 10 000 AE, le cui concentrazioni di BOD<sub>5</sub> nelle acque di scarico hanno effetti pregiudizievoli sulla qualità di un corso d’acqua: – concentrazione in uscita: 20 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 90 % Per acque di scarico da impianti di 10 000 AE e più, le cui concentrazioni di BOD<sub>5</sub> nelle acque di scarico hanno effetti pregiudizievoli sulla qualità di un corso d’acqua: – concentrazione in uscita: 15 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 90 %</td></tr>
+<tr><td>9</td><td>Richiesta di ossigeno biochimica *(**BOD**<sub>5</sub>* *con inibizione della nitrificazione)*</td><td>Per acque di scarico da impianti di meno di 10 000 AE, le cui concentrazioni di BOD<sub>5</sub> nelle acque di scarico hanno effetti pregiudizievoli sulla qualità di un corso d’acqua: – concentrazione in uscita: 20 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 90 % Per acque di scarico da impianti di 10 000 AE e più, le cui concentrazioni di BOD<sub>5</sub> nelle acque di scarico hanno effetti pregiudizievoli sulla qualità di un corso d’acqua: – concentrazione in uscita: 15 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 90 %</td></tr>
 </table>
 
 [^annex31-lvlu1-lvl2-1]: In vigore dal 1° gen. 2028 ([RU 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)).
@@ -1842,13 +1842,13 @@ Tabella dei superamenti ammessi
 <tr><td>4– 7 8– 16 17– 28 29– 40 41– 53 54– 67 68– 81 82– 95 96–110 111–125 126–140 141–155 156–171</td><td>1 2 3 4 5 6 7 8 9 10 11 12 13</td><td>172–187 188–203 204–219 220–235 236–251 252–268 269–284 285–300 301–317 318–334 335–350 351–365</td><td>14 15 16 17 18 19 20 21 22 23 24 25</td></tr>
 </table>
 
-Allegato 3.2*[^t-3]*
+Allegato 3.2[^t-3]
 
 (art. 6 cpv. 1 e art. 7 cpv. 1)
 
 ## Immissione delle acque di scarico industriali in un ricettore naturale o nella canalizzazione pubblica
 
-[^t-3]: Aggiornato giusta il n. I dell’O del 22 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4043](https://fedlex.data.admin.ch/eli/oc/2003/590)).
+[^t-3]: Aggiornato dal n. I dell’O del 22 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4043](https://fedlex.data.admin.ch/eli/oc/2003/590)).
 
 ### 1 Definizioni e principi
 
@@ -1882,7 +1882,7 @@ Allegato 3.2*[^t-3]*
 <tr><th>N.</th><th>Parametro</th><th>Colonna 1 : esigenze relative all’immissione in un ricettore naturale</th><th>Colonna 2 : esigenze relative all’immissione nella canalizzazione pubblica</th></tr>
 <tr><td>1</td><td>Valore pH</td><td>da 6.5 a 9.0</td><td>da 6.5 a 9.0; sono ammesse deroghe se la miscelazione nella canalizzazione è sufficiente.</td></tr>
 <tr><td>2</td><td>Temperatura</td><td>Al massimo 30°C. In estate l’autorità può autorizzare superamenti minimi e di breve durata.</td><td>Al massimo 60°C. Dopo la miscelazione, la temperatura dell’acqua nella canalizzazione non deve superare i 40°C.</td></tr>
-<tr><td>3</td><td>Trasparenza *(secondo Snel**len)*</td><td>30 cm</td><td>––</td></tr>
+<tr><td>3</td><td>Trasparenza *(secondo* *Snel**len)*</td><td>30 cm</td><td>––</td></tr>
 <tr><td>4</td><td>Sostanze totali non disciolte</td><td>20 mg/l</td><td>––</td></tr>
 <tr><td>5</td><td>Arsenico *(As)*</td><td>0.1 mg/l As (totale)</td><td>0.1 mg/l As (totale)</td></tr>
 <tr><td>6</td><td>Piombo*(Pb)*</td><td>0.5 mg/l Pb (totale)</td><td>0.5 mg/l Pb (totale)</td></tr>
@@ -2071,7 +2071,7 @@ Allegato 3.3[^t-4]
 
 L’acqua delle piscine può essere immessa in un ricettore naturale soltanto se contiene al massimo 0.05 mg/l (valore indicativo) di sostanze disinfettanti (p. es. cloro attivo).
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 (art. 29 e 31)
 
@@ -2180,7 +2180,7 @@ Le aree di protezione delle acque sotterranee devono essere delimitate in modo d
 
 Se la coltivazione del suolo nei settori di alimentazione Z<sub>u</sub> e Z<sub>o</sub> può inquinare le acque a causa del ruscellamento o del dilavamento di sostanze come i prodotti fitosanitari o i concimi, i Cantoni stabiliscono le misure necessarie alla protezione delle acque. Sono per esempio considerate tali:
 
-- a. l’introduzione di limitazioni d’impiego per prodotti fitosanitari e concimi secondo gli allegati 2.5 numero 1.1 capoverso 4 e 2.6 numero 3.3.1 capoverso 3 dell’ORRPChim[^annex4-lvlu1-lvl2-lvl21-lvl212-1];
+- a. l’introduzione di limitazioni d’impiego per prodotti fitosanitari e concimi secondo gli allegati 2.5 numero 1.1 capoverso 4 e 2.6 numero 3.3.1 capoverso 3 dell’ordinanza del 18 maggio 2005[^annex4-lvlu1-lvl2-lvl21-lvl212-1] sulla riduzione dei rischi inerenti ai prodotti chimici (ORRPChim);
 - b. la limitazione delle superfici destinate alla produzione agricola e orticola;
 - c. la limitazione nella scelta delle colture, della loro rotazione e dei metodi di coltivazione;
 - d. la rinuncia a rivoltare i prati in autunno;
@@ -2220,17 +2220,13 @@ Se la coltivazione del suolo nei settori di alimentazione Z<sub>u</sub> e Z<sub>
 - b. interventi di costruzione che hanno effetti pregiudizievoli sull’idrodinamica dell’acqua sotterranea;
 - c. infiltrazione di acque di scarico, ad eccezione dell’infiltrazione di acque di scarico non inquinate (art. 3 cpv. 3) attraverso uno strato del suolo biologicamente attivo nonché di acque di scarico comunali inquinate provenienti da piccoli impianti di depurazione, nel rispetto delle esigenze di cui all’articolo 8 capoverso 2, se l’onere per l’evacuazione delle acque di scarico comunali provenienti dalla zona di protezione è sproporzionato e una minaccia allo sfruttamento dell’acqua potabile può essere esclusa;
 - d. riduzioni pregiudizievoli della funzione protettiva del rivestimento (suolo e strato di copertura);
-- e. condotte che sottostanno alla legge del 4 ottobre 1963[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1] sugli impianti di trasporto in condotta; fanno eccezione le condotte per il gas;
+- e. condotte che sottostanno alla legge del 4 ottobre 1963 sugli impianti di trasporto in condotta; fanno eccezione le condotte per il gas;
 - f. circuiti che sottraggono o restituiscono calore al sottosuolo;
 - g. contenitori e condotte interrati contenenti liquidi nocivi alle acque;
 - h. contenitori per il deposito per liquidi nocivi alle acque, aventi un volume utile di oltre 450 l per opera di protezione; sono esclusi i contenitori accessibili da ogni parte adibiti al deposito di olio da riscaldamento o diesel per l’approvvigionamento energetico di edifici o di aziende per una durata massima di due anni; il volume utile complessivo può corrispondere a un massimo di 30 m<sup>3</sup> per opera di protezione;
-- i. impianti d’esercizio contenenti liquidi nocivi alle acque, aventi un volume utile di oltre 2000 l; fanno eccezione gli impianti autorizzati nella zona S3 conformemente all’articolo 7 capoverso 2 dell’ordinanza del 30 marzo 1994[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2] sulla corrente debole o all’articolo 7 capoverso 2 dell’ordinanza del 30 marzo 1994[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3] sulla corrente forte.
+- i. impianti d’esercizio contenenti liquidi nocivi alle acque, aventi un volume utile di oltre 2000 l; fanno eccezione gli impianti autorizzati nella zona S3 conformemente all’articolo 7 capoverso 2 dell’ordinanza del 30 marzo 1994 sulla corrente debole o all’articolo 7 capoverso 2 dell’ordinanza del 30 marzo 1994 sulla corrente forte.
 
 <sup>2</sup> Per l’impiego di prodotti per la protezione del legno, prodotti fitosanitari e concimi si applicano gli allegati 2.4 numero 1, 2.5 e 2.6 ORRPChim.
-
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
 
 ### 221<sup>ter</sup> Zona S<sub>h</sub>
 
@@ -2262,7 +2258,7 @@ Nella zona S1 sono ammessi soltanto interventi di costruzione e altre attività 
 
 <sup>2</sup> Se l’ubicazione e l’estensione delle future zone di protezione sono note, per le superfici in questione valgono le esigenze corrispondenti.
 
-Allegato 4a*[^t-6]*
+Allegato 4a[^t-6]
 
 (art. 41*f* e 42*b*)
 
@@ -2328,7 +2324,7 @@ Sono abrogati:
 [^annex5-lvlu1-lvl1-3]: [[RU 1981 1738](https://fedlex.data.admin.ch/eli/oc/1981/1738_1738_1738)]
 [^annex5-lvlu1-lvl1-4]: [RU **1972** 1708]
 
-### 2.–5. …****
+### 2.–5. …
 
 [^annex5-lvlu1-lvlu2-1]
 

@@ -4,11 +4,11 @@ title: Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)
 short: GSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20210101/de"
 
 (GSchV)
 
-vom 28. Oktober 1998 (Stand am 1. Januar 2021)
+vom 28. Oktober 1998 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -179,7 +179,7 @@ Sie verschärft oder ergänzt die Anforderungen, wenn durch die Einleitung des A
 
 - a. der Betrieb der öffentlichen Kanalisation erschwert oder gestört werden kann;
 - b. beim Abwasser der zentralen Abwasserreinigungsanlage die Anforderungen an die Einleitung in ein Gewässer nicht oder nur mit unverhältnismässigen Massnahmen eingehalten werden können oder der Betrieb der Anlage in anderer Weise erschwert oder gestört werden kann; oder
-- c.[^7-1] ...
+- c.[^7-1] …
 - d. der Betrieb der Anlage, in der Klärschlamm verbrannt wird, erschwert oder gestört werden kann.
 
 <sup>3</sup>
@@ -331,7 +331,7 @@ Die Behörde überprüft periodisch, ob:
 <sup>3</sup> Weitergehende Vorschriften der Störfallverordnung vom 27. Februar 1991[^16-1] und der Verordnung vom 20. November 1991[^16-2] über die Sicherstellung der Trinkwasserversorgung in Notlagen bleiben vorbehalten.
 
 [^16-1]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^16-2]: [SR 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)
+[^16-2]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517), [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)Ziff. I 2. [AS 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)Art. 15]. Siehe heute: die V vom 19. Aug. 2020 ([SR 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)).
 
 #### Art. 17
 
@@ -343,7 +343,7 @@ Die Behörde überprüft periodisch, ob:
 
 <sup>3</sup> Die Behörde sorgt dafür, dass die von einem ausserordentlichen Ereignis betroffenen Gemeinwesen und Privaten rechtzeitig über mögliche nachteilige Einwirkungen auf Gewässer informiert werden. Wenn erhebliche Einwirkungen über die Kantons- oder Landesgrenze hinaus erwartet werden, sorgt sie zudem dafür, dass die Alarmstelle des Bundes sowie die betroffenen Nachbarkantone und Nachbarstaaten informiert werden.
 
-<sup>4</sup> ...[^17-1]
+<sup>4</sup> …[^17-1]
 
 <sup>5</sup> Weitergehende Melde- und Informationspflichten nach der Störfallverordnung bleiben vorbehalten.
 
@@ -374,7 +374,7 @@ Der Entsorgungsplan legt mindestens fest:
 
 <sup>2</sup> Wenn der Klärschlamm einer zentralen Abwasserreinigungsanlage nicht jederzeit umweltverträglich beseitigt werden kann, muss eine Lagerkapazität von mindestens zwei Monaten vorhanden sein.[^19-1]
 
-<sup>3</sup> ...[^19-2]
+<sup>3</sup> …[^19-2]
 
 [^19-1]: Fassung gemäss Anhang Ziff. 1 der V vom 26. März 2003, in Kraft seit 1. Okt. 2006 ([AS 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
 [^19-2]: Aufgehoben durch Anhang Ziff. 1 der V vom 26. März 2003, mit Wirkung seit 1. Okt. 2006 ([AS 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
@@ -385,9 +385,9 @@ Der Entsorgungsplan legt mindestens fest:
 
 <sup>1</sup> Die Inhaber von zentralen Abwasserreinigungsanlagen müssen dafür sorgen, dass die Qualität des Klärschlammes in den fachlich gebotenen Zeitabständen untersucht wird.
 
-<sup>2</sup> ...[^20-1]
+<sup>2</sup> …[^20-1]
 
-<sup>3</sup> ...[^20-2]
+<sup>3</sup> …[^20-2]
 
 [^20-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
 [^20-2]: Aufgehoben durch Ziff. I der V vom 4. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
@@ -398,9 +398,9 @@ Der Entsorgungsplan legt mindestens fest:
 
 <sup>1</sup> Die Inhaber von zentralen Abwasserreinigungsanlagen müssen über die Abnehmer von Klärschlamm, die abgegebene Menge, die angegebene Entsorgung und den Zeitpunkt der Abgabe Buch führen, diese Angaben während mindestens zehn Jahren aufbewahren und der Behörde auf Verlangen zur Verfügung stellen.
 
-<sup>2</sup> ...[^21-1]
+<sup>2</sup> …[^21-1]
 
-<sup>3</sup> ...[^21-2]
+<sup>3</sup> …[^21-2]
 
 <sup>4</sup> Sie dürfen den Klärschlamm nur mit Zustimmung der kantonalen Behörde auf andere Weise entsorgen, als dies der kantonale Klärschlamm-Entsorgungsplan vorsieht. Soll der Klärschlamm in einem anderen Kanton entsorgt werden, hört die kantonale Behörde vorgängig die Behörde des Empfängerkantons an.
 
@@ -440,7 +440,7 @@ Für die Umrechnung der Nutztiere eines Betriebs auf DGVE (Art. 14 Abs. 4 GSchG)
 
 <sup>1</sup> Betriebe mit Geflügel oder Pferdehaltung sowie Betriebe, die Aufgaben im öffentlichen Interesse erfüllen, müssen nicht über eine eigene oder gepachtete Nutzfläche verfügen, auf der mindestens die Hälfte des im Betrieb anfallenden Hofdüngers verwertet werden kann, wenn die Verwertung des Hofdüngers durch eine Organisation oder einen anderen Betrieb sichergestellt ist.[^25-1]
 
-<sup>2</sup> ...[^25-2]
+<sup>2</sup> …[^25-2]
 
 <sup>3</sup>
 
@@ -549,7 +549,7 @@ Die Behörde sorgt dafür, dass:
 
 **Bewilligungen für Anlagen und Tätigkeiten in den besonders gefährdeten Bereichen**
 
-<sup>1</sup> ...[^32-1]
+<sup>1</sup> …[^32-1]
 
 <sup>2</sup>
 
@@ -723,13 +723,13 @@ Für Wasserentnahmen, bei denen eine Sanierung notwendig ist, enthält der Beric
 
 Die Artikel 36–40 gelten sinngemäss für geplante Wasserentnahmen, für welche die Konzession vor Inkrafttreten des Gewässerschutzgesetzes erteilt worden ist (Art. 83 GSchG).
 
-## 7. Kapitel: Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer****
+## 7. Kapitel: Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer
 
 [^chap7-1]
 
 [^chap7-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### 1. Abschnitt:**** Gewässerraum und Revitalisierung der Gewässer
+### 1. Abschnitt: Gewässerraum und Revitalisierung der Gewässer
 
 [^chap7-sec1-1]
 
@@ -830,7 +830,7 @@ Im Gewässerraum dürfen nur standortgebundene, im öffentlichen Interesse liege
 
 <sup>3</sup> Im Gewässerraum dürfen keine Dünger und Pflanzenschutzmittel ausgebracht werden. Einzelstockbehandlungen von Problempflanzen sind ausserhalb eines 3 m breiten Streifens entlang des Gewässers zulässig, sofern diese nicht mit einem angemessenen Aufwand mechanisch bekämpft werden können.
 
-<sup>4</sup> Der Gewässerraum darf landwirtschaftlich genutzt werden, sofern er gemäss den Anforderungen der Direktzahlungsverordnung vom 23. Oktober 2013[^41c-6] als Streuefläche, Hecke, Feld- und Ufergehölz, Uferwiese entlang von Fliessgewässern, extensiv genutzte Wiese, extensiv genutzte Weide oder als Waldweide bewirtschaftet wird. Diese Anforderungen gelten auch für die entsprechende Bewirtschaftung von Flächen ausserhalb der landwirtschaftlichen Nutzfläche.[^41c-7]
+<sup>4</sup> Der Gewässerraum darf landwirtschaftlich genutzt werden, sofern er gemäss den Anforderungen der Direktzahlungsverordnung vom 23. Oktober 2013[^41c-6] als Streuefläche, Hecke, Feld- und Ufergehölz, Uferwiese, extensiv genutzte Wiese, extensiv genutzte Weide oder als Waldweide bewirtschaftet wird. Diese Anforderungen gelten auch für die entsprechende Bewirtschaftung von Flächen ausserhalb der landwirtschaftlichen Nutzfläche.[^41c-7]
 
 <sup>4bis</sup> Reicht der Gewässerraum bei Strassen und Wegen mit einer Tragschicht oder bei Eisenbahnlinien entlang von Gewässern landseitig nur wenige Meter über die Verkehrsanlage hinaus, so kann die Behörde für den landseitigen Teil des Gewässerraums Ausnahmen von den Bewirtschaftungseinschränkungen nach den Absätzen 3 und 4 bewilligen, wenn keine Dünger oder Pflanzenschutzmittel ins Gewässer gelangen können.[^41c-8]
 
@@ -849,7 +849,7 @@ Es gelten nicht:
 [^41c-4]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^41c-5]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^41c-6]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^41c-7]: Fassung gemäss Anhang 9 Ziff. 2 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^41c-7]: Fassung gemäss Ziff. IV der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^41c-8]: Eingefügt durch Ziff. I der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
 #### Art. 41c<sup>bis</sup>
@@ -889,7 +889,7 @@ Sie legen in einer Planung für einen Zeitraum von 20 Jahren die zu revitalisier
 
 [^41d-1]: Fassung gemäss Ziff. I 4 der V vom 28. Jan. 2015 über Anpassungen des Verordnungsrechts im Umweltbereich, insbesondere hinsichtlich der Programmvereinbarungen für die Programmperiode 2016–2019, in Kraft seit 1. Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
-### 2. Abschnitt:**** Schwall und Sunk
+### 2. Abschnitt: Schwall und Sunk
 
 [^chap7-sec2-1]
 
@@ -933,7 +933,7 @@ Die Inhaber von Wasserkraftwerken müssen der für die Planung zuständigen Beh�
 [^41g-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^41g-2]: Fassung des zweiten Satzes gemäss Anhang 7 Ziff. II 2 der Energieverordnung vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
-### 3. Abschnitt: Spülung und Entleerung von Stauräumen****
+### 3. Abschnitt: Spülung und Entleerung von Stauräumen
 
 [^chap7-sec3-1]
 
@@ -941,7 +941,7 @@ Die Inhaber von Wasserkraftwerken müssen der für die Planung zuständigen Beh�
 
 #### Art. 42
 
-**...[^42-1]**
+**…[^42-1]**
 
 <sup>1</sup> Bevor eine Behörde eine Spülung oder Entleerung eines Stauraumes bewilligt, stellt sie sicher, dass die Sedimente anders als durch Ausschwemmung entfernt werden, wenn dies umweltverträglich und wirtschaftlich tragbar ist.
 
@@ -957,7 +957,7 @@ Bei der Ausschwemmung von Sedimenten stellt die Behörde sicher, dass Lebensgeme
 
 [^42-1]: Aufgehoben durch Ziff. I der V vom 4. Mai 2011, mit Wirkung seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### 4. Abschnitt: Geschiebehaushalt****
+### 4. Abschnitt: Geschiebehaushalt
 
 [^chap7-sec4-1]
 
@@ -1020,7 +1020,7 @@ Damit bei der Ausbeutung von Kies, Sand und anderem Material der Geschiebehausha
 
 <sup>2</sup> Ausbeutungen nach Absatz 1 dürfen nicht zu Trübungen führen, die Fischgewässer beeinträchtigen können.
 
-### 5. Abschnitt: Drainagewasser aus Untertagebauten****
+### 5. Abschnitt: Drainagewasser aus Untertagebauten
 
 [^chap7-sec5-1]
 
@@ -1028,7 +1028,7 @@ Damit bei der Ausbeutung von Kies, Sand und anderem Material der Geschiebehausha
 
 #### Art. 44
 
-**...[^44-1]**
+**…[^44-1]**
 
 <sup>1</sup> Drainagewasser aus Untertagebauten muss so gefasst und abgeleitet werden, dass es bei deren Betrieb, insbesondere durch ausserordentliche Ereignisse, nicht verunreinigt werden kann; dies gilt nicht für kleine Mengen von Drainagewasser, wenn durch Rückhaltemassnahmen verhindert wird, dass ein Gewässer verunreinigt werden kann.
 
@@ -1160,7 +1160,7 @@ Das Departement ist ermächtigt, Beschlüsse und Empfehlungen, die gestützt auf
 [^51-5]: [[AS 1979 97](https://fedlex.data.admin.ch/eli/oc/1979/97_96_97), [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323), [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 Ziff. 2]
 [^51-6]: Eingefügt durch Ziff. II 12 der V vom 2. Febr. 2000 zum BG über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
-## 8*a*. Kapitel:**** Abwasserabgabe des Bundes
+## 8*a*. Kapitel: Abwasserabgabe des Bundes
 
 [^chap8a-1]
 
@@ -1210,7 +1210,7 @@ Die Verjährung wird unterbrochen und beginnt neu zu laufen:
 
 ## 9. Kapitel: Gewährung von Bundesbeiträgen
 
-### 1. Abschnitt:**** Massnahmen
+### 1. Abschnitt: Massnahmen
 
 [^chap9-sec1-1]
 
@@ -1359,7 +1359,7 @@ Die Finanzhilfen für die Aufklärung der Bevölkerung betragen:
 
 [^58-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### 2. Abschnitt:**** Verfahren bei der Gewährung globaler Abgeltungen
+### 2. Abschnitt: Verfahren bei der Gewährung globaler Abgeltungen
 
 [^chap9-sec2-1]
 
@@ -1449,7 +1449,7 @@ Das zuständige Bundesamt hält die Tranchenzahlungen während der Programmdauer
 
 [^61b-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### 3. Abschnitt:**** Verfahren bei der Gewährung von Abgeltungen oder Finanzhilfen im Einzelfall
+### 3. Abschnitt: Verfahren bei der Gewährung von Abgeltungen oder Finanzhilfen im Einzelfall
 
 [^chap9-sec3-1]
 
@@ -1497,7 +1497,7 @@ Für die Berichterstattung und die Kontrolle bei Abgeltungen und Finanzhilfen im
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-## Übergangsbestimmung zur Änderung vom 18. Oktober 2006****
+## Übergangsbestimmung zur Änderung vom 18. Oktober 2006
 
 [^u1-1]
 
@@ -1505,7 +1505,7 @@ Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
 Anlagen und Anlageteile, die vor Inkrafttreten dieser Änderung vorschriftsgemäss erstellt worden sind, dürfen weiterbetrieben werden, wenn sie funktionstüchtig sind und die Gewässer nicht konkret gefährden; erdverlegte einwandige Lagerbehälter für wassergefährdende Flüssigkeiten können längstens bis zum 31. Dezember 2014 weiterbetrieben werden.
 
-## Übergangsbestimmungen zur Änderung vom 4. Mai 2011****
+## Übergangsbestimmungen zur Änderung vom 4. Mai 2011
 
 [^u2-1]
 
@@ -1525,7 +1525,7 @@ Anlagen und Anlageteile, die vor Inkrafttreten dieser Änderung vorschriftsgemä
 
 [^u2-2]: Fassung gemäss Ziff. I 1 der V vom 17. April 2019 über Anpassungen des Verordnungsrechts an die Weiterentwicklung der Programmvereinbarungen im Umweltbereich für die Programmperiode 2020–2024, in Kraft seit 1. Jan. 2020 ([AS 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
-## Übergangsbestimmung zur Änderung vom 25. Mai 2011****
+## Übergangsbestimmung zur Änderung vom 25. Mai 2011
 
 [^u3-1]
 
@@ -1533,7 +1533,7 @@ Anlagen und Anlageteile, die vor Inkrafttreten dieser Änderung vorschriftsgemä
 
 Die kantonale Behörde kann für Betriebe, die aufgrund des Verbots der Fütterung von Schlacht- und Metzgereinebenprodukten sowie Speiseresten die Anforderungen nach Artikel 25 Absatz 3 Buchstaben c und d nicht mehr erfüllen, längstens bis zum 31. Dezember 2015 eine Ausnahme nach Artikel 25 Absatz 1 gewähren, wenn diese Betriebe nachweisen, dass sie bisher Schlacht- und Metzgereinebenprodukte oder Speisereste verfüttert haben und diesen Wegfall nicht durch andere Nahrungsmittelnebenprodukte kompensieren können.
 
-## Übergangsbestimmungen zur Änderung vom 4. November 2015****
+## Übergangsbestimmungen zur Änderung vom 4. November 2015
 
 [^u4-1]
 
@@ -1600,7 +1600,7 @@ Anhang 1
   - – im Grundwasser nicht vorhanden sind, wenn sie dort natürlicherweise nicht vorkommen,
   - – keine nachteiligen Einwirkungen auf die Nutzung des Grundwassers haben.
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 6, 8, 13 und 47)
 
@@ -1750,7 +1750,7 @@ Anhang 3
 
 ## Anforderungen an die Ableitung von verschmutztem Abwasser
 
-Anhang 3.1*[^t-2]*
+Anhang 3.1[^t-2]
 
 (Art. 6 Abs. 1)
 
@@ -1783,13 +1783,13 @@ Anhang 3.1*[^t-2]*
 <tr><th></th><th></th><th>100 • (1 –</th><th>mg DOC im gereinigten Abwasser mg Totaler organischer Kohlenstoff im Rohabwasser</th><th colspan="6">)</th></tr>
 <tr><th></th><th></th><th colspan="4">Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</th><th></th><th colspan="3"></th></tr>
 <tr><th>4</th><th>Durchsichtigkeit *(nach Snellen)*</th><th colspan="4">30 cm</th><th></th><th colspan="3"></th></tr>
-<tr><th>5</th><th>Ammonium *(Summe von NH**<sub>4</sub>**<sup>+</sup>* *- N und NH**<sub>3</sub>* *- N)*</th><th colspan="4">Können die Ammoniumkonzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt für eine Abwassertemperatur von mehr als 10 °C: – Abflusskonzentration: 2 mg/l N und – Wirkungsgrad der Behandlung: 90 %, ausgedrückt in</th><th></th><th colspan="3"></th></tr>
+<tr><th>5</th><th>Ammonium *(Summe von* *NH**<sub>4</sub>**<sup>+</sup>* *- N und NH**<sub>3</sub>* *- N)*</th><th colspan="4">Können die Ammoniumkonzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt für eine Abwassertemperatur von mehr als 10 °C: – Abflusskonzentration: 2 mg/l N und – Wirkungsgrad der Behandlung: 90 %, ausgedrückt in</th><th></th><th colspan="3"></th></tr>
 <tr><th></th><th></th><th>100 • (1 –</th><th colspan="2">mg Ammonium - N im gereinigten Abwasser mg Kjeldahl - N im Rohabwasser</th><th colspan="5">)</th></tr>
 <tr><th></th><th></th><th colspan="4">In diesen Fällen ist die Nitrifikation ganzjährig durchzuführen. *Hinweis:* Der Kjeldahl-Stickstoff ist die Summe von Ammonium-Stickstoff, Ammoniak-Stickstoff und organischem Stickstoff.</th><th></th><th colspan="3"></th></tr>
 <tr><th>6</th><th>Nitrit *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</th><th colspan="4">0,3 mg/l N (Richtwert)</th><th></th><th colspan="3"></th></tr>
 <tr><th>7</th><th>Adsorbierbare organische Halogenverbindungen *(AOX)*</th><th colspan="4">0,08 mg/l X. Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</th><th></th><th colspan="3"></th></tr>
-<tr><td>8</td><td>Organische Stoffe, die bereits in tiefen Konzentrationen Gewässer verunreinigen können *(organ**i**sche Spurenstoffe)*</td><td colspan="6">Der Reinigungseffekt, bezogen auf Rohabwasser und gemessen anhand von ausgewählten Substanzen, muss 80 % betragen für Abwasser aus: – Anlagen ab 80 000 angeschlossenen Einwohnern; – Anlagen ab 24 000 angeschlossenen Einwohnern im Einzugsgebiet von Seen; der Kanton kann Ausnahmen bewilligen, wenn der Nutzen einer Reinigung für die Umwelt und für die Trinkwasserversorgung klein ist; – Anlagen ab 8000 angeschlossenen Einwohnern, die in ein Fliessgewässer mit einem Anteil von mehr als 10 % bezüglich organische Spurenstoffe ungereinigtem Abwasser einleiten; der Kanton bezeichnet die Anlagen, die Massnahmen treffen müssen, im Rahmen einer Planung im Einzugsgebiet; – anderen Anlagen ab 8000 angeschlossenen Einwohnern, wenn eine Reinigung aufgrund besonderer hydrogeologischer Verhältnisse erforderlich ist; –[^annex31-lvlu1-lvl2-1] ... Das Departement legt in einer Verordnung fest, anhand welcher Substanzen der Reinigungseffekt gemessen und wie er berechnet wird.</td><td></td><td></td></tr>
-<tr><td>9</td><td>Biochemischer Sauerstoffbedarf *(BSB**<sub>5</sub>**, mit Nitrifikationshemmung)*</td><td colspan="6">Für Abwasser aus Anlagen mit weniger als 10 000 EW, bei denen die BSB<sub>5</sub>- Konzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt: – Abflusskonzentration: 20 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 90 % Für Abwasser aus Anlagen ab 10 000 EW, bei denen die BSB<sub>5</sub>- Konzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt: – Abflusskonzentration: 15 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 90 %</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>8</td><td>Organische Stoffe, die bereits in tiefen Konzentrationen Gewässer verunreinigen können *(organische Spurenstoffe)*</td><td colspan="6">Der Reinigungseffekt, bezogen auf Rohabwasser und gemessen anhand von ausgewählten Substanzen, muss 80 % betragen für Abwasser aus: – Anlagen ab 80 000 angeschlossenen Einwohnern; – Anlagen ab 24 000 angeschlossenen Einwohnern im Einzugsgebiet von Seen; der Kanton kann Ausnahmen bewilligen, wenn der Nutzen einer Reinigung für die Umwelt und für die Trinkwasserversorgung klein ist; – Anlagen ab 8000 angeschlossenen Einwohnern, die in ein Fliessgewässer mit einem Anteil von mehr als 10 % bezüglich organische Spurenstoffe ungereinigtem Abwasser einleiten; der Kanton bezeichnet die Anlagen, die Massnahmen treffen müssen, im Rahmen einer Planung im Einzugsgebiet; – anderen Anlagen ab 8000 angeschlossenen Einwohnern, wenn eine Reinigung aufgrund besonderer hydrogeologischer Verhältnisse erforderlich ist; –[^annex31-lvlu1-lvl2-1] … Das Departement legt in einer Verordnung fest, anhand welcher Substanzen der Reinigungseffekt gemessen und wie er berechnet wird.</td><td></td><td></td></tr>
+<tr><td>9</td><td>Biochemischer Sauerstoffbedarf *(BSB**<sub>5</sub>**, mit* *Nitrifikationshemmung)*</td><td colspan="6">Für Abwasser aus Anlagen mit weniger als 10 000 EW, bei denen die BSB<sub>5</sub>- Konzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt: – Abflusskonzentration: 20 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 90 % Für Abwasser aus Anlagen ab 10 000 EW, bei denen die BSB<sub>5</sub>- Konzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt: – Abflusskonzentration: 15 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 90 %</td><td>[tab]</td><td>[tab]</td></tr>
 </table>
 
 [^annex31-lvlu1-lvl2-1]: In Kraft am 1. Jan. 2028 ([AS 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)).
@@ -1851,7 +1851,7 @@ Tabelle der zulässigen Abweichungen
 <tr><td>156–171</td><td>13</td><td></td><td></td></tr>
 </table>
 
-Anhang 3.2*[^t-3]*
+Anhang 3.2[^t-3]
 
 (Art. 6 Abs. 1 und 7 Abs. 1)
 
@@ -1955,12 +1955,12 @@ Für Anlagen, die vor dem 1.1.1993 in Betrieb genommen worden sind, legt die Beh
 
 <table>
 <tr><td>Nr.</td><td>Branche/Prozess</td><td>Parameter/Anforderungen an die Einleitung in Gewässer</td><td>Parameter/Anforderungen an die Einleitung in die öffentliche Kanalisation</td></tr>
-<tr><td>1</td><td>Herstellung von Papier oder Karton</td><td>Gesamte ungelöste Stoffe: – 1 Kilogramm pro Tonne Produktion an Papier oder Karton im Tagesmittel oder 50 mg/l im Tagesmittel *Chemischer Sauerstoffbedarf (CSB)/gelöster organischer Kohl**enstoff (DOC):* – je nach Papiertyp: 2,5–5 Kilogramm CSB pro Tonne Produktion an Papier oder Karton im Tagesmittel oder 1,5–2,5 Kilogramm DOC pro Tonne Produktion an Papier oder Karton im Tagesmittel *Biochemischer Sauerstoffbedarf (BSB**<sub>5</sub>**):* – je nach Papiertyp: 0,5–1 Kilogramm pro Tonne Produktion an Papier oder Karton im Tagesmittel; in begründeten Fällen kann die Behörde an Stelle der vorgenannten Anforderung einen Wert von 25 mg/l BSB<sub>5</sub> im Tagesmittel zulassen.</td><td>Die Behörde legt die Anforderungen im Einzelfall fest.</td></tr>
+<tr><td>1</td><td>Herstellung von Papier oder Karton</td><td>Gesamte ungelöste Stoffe: – 1 Kilogramm pro Tonne Produktion an Papier oder Karton im Tagesmittel oder 50 mg/l im Tagesmittel *Chemischer Sauerstoffbedarf (CSB)/gelöster organischer* *Kohl**enstoff (DOC):* – je nach Papiertyp: 2,5–5 Kilogramm CSB pro Tonne Produktion an Papier oder Karton im Tagesmittel oder 1,5–2,5 Kilogramm DOC pro Tonne Produktion an Papier oder Karton im Tagesmittel *Biochemischer Sauerstoffbedarf (BSB**<sub>5</sub>**):* – je nach Papiertyp: 0,5–1 Kilogramm pro Tonne Produktion an Papier oder Karton im Tagesmittel; in begründeten Fällen kann die Behörde an Stelle der vorgenannten Anforderung einen Wert von 25 mg/l BSB<sub>5</sub> im Tagesmittel zulassen.</td><td>Die Behörde legt die Anforderungen im Einzelfall fest.</td></tr>
 </table>
 
 <table>
 <tr><th>Nr.</th><th>Branche/Prozess</th><th>Parameter/Anforderungen an die Einleitung in Gewässer</th></tr>
-<tr><td>2</td><td>Herstellung von Sulfitzellstoff</td><td>Biochemischer Sauerstoffbedarf (BSB<sub>5</sub>): – 5 Kilogramm pro Tonne Produktion an lufttrockenem Zellstoff im Monatsmittel *Chemischer Sauerstoffbedarf (CSB):* – 35 Kilogramm pro Tonne Produktion an lufttrockenem Zellstoff im Monatsmittel – 70 Kilogramm pro Tonne Produktion an lufttrockenem Zellstoff im Monatsmittel für Anlagen, die vor dem 1.1.1997 in Betrieb genommen wurden Anstelle des CSB-Wertes kann die Überwachung anhand des TOC-Wertes (Totaler organischer Kohlenstoff) erfolgen, wenn die Korrelation zwischen CSB und TOC gegeben und nachgewiesen ist. *Gesamte ungelöste Stoffe:* – 4,5 Kilogramm pro Tonne Produktion an lufttrockenem Zellstoff im Monatsmittel 8,0 Kilogramm pro Tonne Produktion an luft- trockenem Zellstoff im Monatsmittel ab 1.1.2000 für Anlagen, die vor dem 1.1.1997 in Betrieb genommen wurden und die ihre Produktionskapazität nach dem 1.1.1997 um nicht mehr als 50 Prozent erhöhen *Adsorbierbare organische Halogenverbindungen (AOX), für Betriebe, die nicht ausschliesslich chlorfrei ge**bleichten Zellstoff herstellen:* – 0,5 Kilogramm pro Tonne Produktion an gebleichtem lufttrockenem Zellstoff im Monatsmittel *Molekulares Chlorverhältnis:* – weniger als 0,05 bis 0,1, je nach Zellstoffsorte</td></tr>
+<tr><td>2</td><td>Herstellung von Sulfitzellstoff</td><td>Biochemischer Sauerstoffbedarf (BSB<sub>5</sub>): – 5 Kilogramm pro Tonne Produktion an lufttrockenem Zellstoff im Monatsmittel *Chemischer Sauerstoffbedarf (CSB):* – 35 Kilogramm pro Tonne Produktion an lufttrockenem Zellstoff im Monatsmittel – 70 Kilogramm pro Tonne Produktion an lufttrockenem Zellstoff im Monatsmittel für Anlagen, die vor dem 1.1.1997 in Betrieb genommen wurden Anstelle des CSB-Wertes kann die Überwachung anhand des TOC-Wertes (Totaler organischer Kohlenstoff) erfolgen, wenn die Korrelation zwischen CSB und TOC gegeben und nachgewiesen ist. *Gesamte ungelöste Stoffe:* – 4,5 Kilogramm pro Tonne Produktion an lufttrockenem Zellstoff im Monatsmittel 8,0 Kilogramm pro Tonne Produktion an luft- trockenem Zellstoff im Monatsmittel ab 1.1.2000 für Anlagen, die vor dem 1.1.1997 in Betrieb genommen wurden und die ihre Produktionskapazität nach dem 1.1.1997 um nicht mehr als 50 Prozent erhöhen *Adsorbierbare organische Halogenverbindungen (AOX), für Betriebe, die nicht ausschliesslich chlorfrei* *ge**bleichten Zellstoff herstellen:* – 0,5 Kilogramm pro Tonne Produktion an gebleichtem lufttrockenem Zellstoff im Monatsmittel *Molekulares Chlorverhältnis:* – weniger als 0,05 bis 0,1, je nach Zellstoffsorte</td></tr>
 </table>
 
 ### 36 Versorgungs- und Entsorgungsbetriebe
@@ -1971,7 +1971,7 @@ Für Anlagen, die vor dem 1.1.1993 in Betrieb genommen worden sind, legt die Beh
 <tr><td>2</td><td>Kehrichtverbrennungs- anlagen</td><td>Blei (Pb): – 0,1 mg/l Pb<sup>1</sup> *Cadmium (Cd):* – 0,05 mg/l Cd<sup>1</sup> *Chrom (gesamt Cr):* – 0,1 mg/l Cr<sup>1</sup> *Kupfer (Cu):* – 0,1 mg/l Cu<sup>1</sup> *Nickel (Ni):* – 0,1 mg/l Ni<sup>1</sup> *Zink (Zn):* – 0,1 mg/l Zn<sup>1</sup> *Quecksilber (Hg):* – 0,001 mg/l Hg<sup>1</sup> *Gelöster organischer* *Kohlenstoff (DOC):* – 10 mg/l DOC<sup>1</sup></td><td>Blei (Pb): – 0,1 mg/l Pb<sup>1</sup> *Cadmium (Cd):* – 0,05 mg/l Cd<sup>1</sup> *Chrom (gesamt Cr):* – 0,1 mg/l Cr<sup>1</sup> *Kupfer (Cu):* – 0,1 mg/l Cu<sup>1</sup> *Nickel (Ni):* – 0,1 mg/l Ni<sup>1</sup> *Zink (Zn):* – 0,1 mg/l Zn<sup>1</sup> *Quecksilber (Hg):* – 0,001 mg/l Hg<sup>1</sup> *Sulfat:* Wenn Korrosionsgefahr in der öffentlichen Kanalisation besteht, legt die Behörde einen Wert für die zulässige Sulfatkonzentration im Einzelfall fest.</td></tr>
 <tr><td>3</td><td>Aufbereitung quecksilberhaltiger Abfälle</td><td>Quecksilber (Hg): – 0,05 mg/l Hg im Monatsmittel – 0,1 mg/l Hg im Tages-mittel</td><td>Quecksilber (Hg): – 0,05 mg/l Hg im Monatsmittel – 0,1 mg/l Hg im Tages-mittel</td></tr>
 <tr><td>4</td><td>Entsilberung von Fixierbädern</td><td>*Silber (Ag):* Die Behörde legt die Anforderungen im Einzelfall fest.</td><td>Silber (Ag): – 5 mg/l Ag</td></tr>
-<tr><td>5</td><td>Entsilberung von Bleichfixierbädern</td><td>Silber (Ag) und Bleichmittelkomponenten: Die Behörde legt die Anforderungen im Einzelfall fest.</td><td>Silber (Ag) und Bleichmittelkomponenten: – 5 mg/l Ag *Biologisch schwer abbau**bare Bleichmittelkompo**nenten (insbesondere Fe-EDTA-Komplex und EDTA-Überschuss):* – Die Behörde legt die Anforderungen im Einzelfall fest.</td></tr>
+<tr><td>5</td><td>Entsilberung von Bleichfixierbädern</td><td>Silber (Ag) und Bleichmittelkomponenten: Die Behörde legt die Anforderungen im Einzelfall fest.</td><td>Silber (Ag) und Bleichmittelkomponenten: – 5 mg/l Ag *Biologisch schwer abbau**bare Bleichmittelkompo**nenten (insbesondere* *Fe-EDTA-Komplex und EDTA-Überschuss):* – Die Behörde legt die Anforderungen im Einzelfall fest.</td></tr>
 <tr><td colspan="4"><sup>1</sup> Richtwert für die Festlegung der Anforderungen an die Einleitung durch die Behörde auf Grund der Verhältnisse im Einzelfall.</td></tr>
 </table>
 
@@ -1986,7 +1986,7 @@ Für Anlagen, die vor dem 1.1.1993 in Betrieb genommen worden sind, legt die Beh
 <tr><td></td><td>Zahnarztpraxen und Zahnkliniken</td><td>Amalgam: Die Behörde legt die Anforderungen im Einzel- fall fest.</td><td colspan="2">Amalgam: Behandlungseinheiten, an welchen Amalgam verarbeitet wird, sind mit einem Amalgamabscheider mit einem Wirkungsgrad von mindestens 95 % auszurüsten.</td></tr>
 </table>
 
-Anhang 3.3*[^t-4]*
+Anhang 3.3[^t-4]
 
 (Art. 6 Abs. 1 und 7 Abs. 1)
 
@@ -2083,7 +2083,7 @@ Anhang 3.3*[^t-4]*
 
 Wasser aus Schwimmbecken darf nur in ein Gewässer eingeleitet werden, wenn es höchstens 0,05 mg/l (Richtwert) desinfizierende Wirkstoffe (z. B. Aktivchlor) enthält.
 
-Anhang 4*[^t-5]*
+Anhang 4[^t-5]
 
 (Art. 29 und 31)
 
@@ -2192,7 +2192,7 @@ Die Grundwasserschutzareale werden so ausgeschieden, dass die Standorte der Grun
 
 Werden bei der Bodenbewirtschaftung in den Zuströmbereichen Z<sub>u</sub> und Z<sub>o</sub> wegen der Abschwemmung und Auswaschung von Stoffen wie Pflanzenschutzmitteln oder Düngern Gewässer verunreinigt, so legen die Kantone die zum Schutz des Wassers erforderlichen Massnahmen fest. Als solche gelten beispielsweise:
 
-- a. Verwendungseinschränkungen für Pflanzenschutzmittel und für Dünger, welche die Kantone nach den Anhängen 2.5 Ziffer 1.1 Absatz 4 und 2.6 Ziffer 3.3.1 Absatz 3 ChemRRV[^annex4-lvlu1-lvl2-lvl21-lvl212-1] festlegen;
+- a. Verwendungseinschränkungen für Pflanzenschutzmittel und für Dünger, welche die Kantone nach den Anhängen 2.5 Ziffer 1.1 Absatz 4 und 2.6 Ziffer 3.3.1 Absatz 3 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^annex4-lvlu1-lvl2-lvl21-lvl212-1] (ChemRRV) festlegen;
 - b. Einschränkung der acker- und gemüsebaulichen Produktionsflächen;
 - c. Einschränkung bei der Kulturwahl, bei der Fruchtfolge und bei Anbauverfahren;
 - d. Verzicht auf Wiesenumbruch im Herbst;
@@ -2232,17 +2232,13 @@ Werden bei der Bodenbewirtschaftung in den Zuströmbereichen Z<sub>u</sub> und Z
 - b. bauliche Eingriffe, die nachteilige Auswirkungen auf die Hydrodynamik des Grundwassers haben;
 - c. Versickerung von Abwasser, ausgenommen die Versickerung von nicht verschmutztem Abwasser (Art. 3 Abs. 3) über eine biologisch aktive Bodenschicht sowie von verschmutztem kommunalem Abwasser aus Kleinkläranlagen unter Einhaltung der Anforderungen von Artikel 8 Absatz 2, wenn der Aufwand für eine Ableitung des kommunalen Abwassers aus der Schutzzone unverhältnismässig wäre und eine Gefährdung der Trinkwassernutzung ausgeschlossen werden kann;
 - d. nachteilige Verminderungen der schützenden Überdeckung (Boden und Deckschicht);
-- e. Rohrleitungen, die dem Rohrleitungsgesetz vom 4. Oktober 1963[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1] unterstehen; ausgenommen sind Gasleitungen;
+- e. Rohrleitungen, die dem Rohrleitungsgesetz vom 4. Oktober 1963 unterstehen; ausgenommen sind Gasleitungen;
 - f. Kreisläufe, die Wärme dem Untergrund entziehen oder an den Untergrund abgeben;
 - g. erdverlegte Lagerbehälter und Rohrleitungen mit wassergefährdenden Flüssigkeiten;
 - h. Lagerbehälter mit wassergefährdenden Flüssigkeiten mit mehr als 450 l Nutzvolumen je Schutzbauwerk; ausgenommen sind freistehende Lagerbehälter mit Heiz- oder Dieselöl zur Energieversorgung von Gebäuden oder Betrieben für längstens zwei Jahre; das gesamte Nutzvolumen darf höchstens 30 m<sup>3</sup> je Schutzbauwerk betragen;
-- i. Betriebsanlagen mit wassergefährdenden Flüssigkeiten mit mehr als 2000 l Nutzvolumen; ausgenommen sind Anlagen die gemäss Artikel 7 Absatz 2 der Schwachstromverordnung vom 30. März 1994[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2] oder Artikel 7 Absatz 2 der Starkstromverordnung vom 30. März 1994[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3] in der Zone S3 zugelassen sind.
+- i. Betriebsanlagen mit wassergefährdenden Flüssigkeiten mit mehr als 2000 l Nutzvolumen; ausgenommen sind Anlagen die gemäss Artikel 7 Absatz 2 der Schwachstromverordnung vom 30. März 1994 oder Artikel 7 Absatz 2 der Starkstromverordnung vom 30. März 1994 in der Zone S3 zugelassen sind.
 
 <sup>2</sup> Für die Verwendung von Holzschutzmitteln, Pflanzenschutzmitteln und Düngern gelten die Anhänge 2.4 Ziffer 1, 2.5 und 2.6 ChemRRV.
-
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2]: [SR 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3]: [SR 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
 
 ### 221<sup>ter</sup> Zone S<sub>h</sub>
 
@@ -2274,7 +2270,7 @@ In der Zone S1 sind nur bauliche Eingriffe und andere Tätigkeiten zulässig, we
 
 <sup>2</sup> Sind Lage und Ausdehnung der künftigen Schutzzonen bekannt, so gelten für die entsprechenden Flächen die entsprechenden Anforderungen.
 
-Anhang 4a*[^t-6]*
+Anhang 4a[^t-6]
 
 (Art. 41*f* und 42*b*)
 
@@ -2335,13 +2331,13 @@ Es werden aufgehoben:
 - c. die Verordnung vom 22. Oktober 1981[^annex5-lvlu1-lvl1-3] über die Zonenkarten für den Gewässerschutz;
 - d. das Reglement vom 9. August 1972[^annex5-lvlu1-lvl1-4] für die Eidgenössische Gewässerschutzkommission.
 
-[^annex5-lvlu1-lvl1-1]: [[AS 1972 967](https://fedlex.data.admin.ch/eli/oc/1972/967_976_1138), [1980 48](https://fedlex.data.admin.ch/eli/oc/1980/48_48_48), [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)Ziff. II 2, [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 6, [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)Ziff. I, II]
-[^annex5-lvlu1-lvl1-2]: [[AS 1975 2403](https://fedlex.data.admin.ch/eli/oc/1975/2403_2403_2403), [1989 2048](https://fedlex.data.admin.ch/eli/oc/1989/2048_2048_2048), [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)Ziff. IV 5]
+[^annex5-lvlu1-lvl1-1]: [[AS 1972 967](https://fedlex.data.admin.ch/eli/oc/1972/967_976_1138); [1980 48](https://fedlex.data.admin.ch/eli/oc/1980/48_48_48); [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)Ziff. II 2; [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 6; [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)Ziff. I und II]
+[^annex5-lvlu1-lvl1-2]: [[AS 1975 2403](https://fedlex.data.admin.ch/eli/oc/1975/2403_2403_2403); [1989 2048](https://fedlex.data.admin.ch/eli/oc/1989/2048_2048_2048); [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)Ziff. IV 5]
 [^annex5-lvlu1-lvl1-3]: [[AS 1981 1738](https://fedlex.data.admin.ch/eli/oc/1981/1738_1738_1738)]
 [^annex5-lvlu1-lvl1-4]: [[AS 1972 1708](https://fedlex.data.admin.ch/eli/oc/1972/1708_1737_1913)]
 
 ### 2.–5.
 
-...[^annex5-lvlu1-lvlu2-1]
+…[^annex5-lvlu1-lvlu2-1]
 
 [^annex5-lvlu1-lvlu2-1]: Die Änderungen können unter [AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)konsultiert werden.

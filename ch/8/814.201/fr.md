@@ -4,11 +4,11 @@ title: Ordonnance du 28 octobre 1998 sur la protection des eaux (OEaux)
 short: OEaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20210101/fr"
 
 (OEaux)
 
-du 28 octobre 1998 (Etat le 1<sup>er</sup> janvier 2021)
+du 28 octobre 1998 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -36,7 +36,7 @@ arrête:
 
 <sup>1</sup> La présente ordonnance a pour but de protéger les eaux superficielles et les eaux souterraines contre les atteintes nuisibles et de permettre leur utilisation durable.
 
-<sup>2</sup> A cet effet, toutes les mesures prises en vertu de la présente ordonnance doivent tenir compte des objectifs écologiques fixés pour les eaux (annexe 1).
+<sup>2</sup> À cet effet, toutes les mesures prises en vertu de la présente ordonnance doivent tenir compte des objectifs écologiques fixés pour les eaux (annexe 1).
 
 #### Art. 2
 
@@ -60,7 +60,7 @@ La présente ordonnance régit:
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-## Chapitre 2 Evacuation des eaux
+## Chapitre 2 Évacuation des eaux
 
 ### Section 1 Notions d’eaux polluées et d’eaux non polluées
 
@@ -143,7 +143,7 @@ Au besoin, le PGEE est adapté:
 
 <sup>4</sup> Il est accessible au public.
 
-### Section 3 Evacuation des eaux polluées
+### Section 3 Évacuation des eaux polluées
 
 #### Art. 6
 
@@ -179,7 +179,7 @@ Elle renforce ou complète les exigences si, du fait du déversement de ces eaux
 
 - a. le fonctionnement des égouts publics peut être entravé ou perturbé;
 - b. les exigences relatives au déversement des eaux provenant de la station centrale d’épuration ne peuvent pas être respectées ou ne peuvent l’être qu’au prix de mesures disproportionnées, ou si le fonctionnement de la station peut être entravé ou perturbé d’une autre manière, ou si
-- c.[^7-1] ...
+- c.[^7-1] …
 - d. le fonctionnement de la station dans laquelle sont incinérées les boues d’épuration peut être entravé ou perturbé.
 
 <sup>3</sup>
@@ -318,7 +318,7 @@ L’autorité vérifie périodiquement que:
 
 <sup>2</sup> Elle tient compte à cet effet des résultats des mesures effectuées par le détenteur.
 
-<sup>3</sup> Au besoin, elle adapte les autorisations et fixe les mesures à prendre. A cet effet, elle prend en considération l’urgence des mesures requises ainsi que les engagements liés aux décisions ou accords internationaux.
+<sup>3</sup> Au besoin, elle adapte les autorisations et fixe les mesures à prendre. À cet effet, elle prend en considération l’urgence des mesures requises ainsi que les engagements liés aux décisions ou accords internationaux.
 
 #### Art. 16
 
@@ -331,7 +331,7 @@ L’autorité vérifie périodiquement que:
 <sup>3</sup> Les prescriptions plus sévères de l’ordonnance du 27 février 1991 sur les accidents majeurs[^16-1] et de l’ordonnance du 20 novembre 1991 sur la garantie de l’approvisionnement en eau potable en temps de crise[^16-2] sont réservées.
 
 [^16-1]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^16-2]: [RS 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)
+[^16-2]: [[RO 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)ch. I 2. [RO 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)art. 15]. Voir actuellement l’O du 19 août 2020 sur la garantie de l’approvisionnement en eau potable lors de pénurie ([RS 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)).
 
 #### Art. 17
 
@@ -343,13 +343,13 @@ L’autorité vérifie périodiquement que:
 
 <sup>3</sup> L’autorité veille à ce que les collectivités publiques et les particuliers soient informés à temps des risques d’atteintes nuisibles aux eaux dus à un événement extraordinaire. S’il faut s’attendre à des atteintes considérables au-delà des frontières cantonales ou nationales, elle veille en outre à en informer le Poste d’alarme de la Confédération ainsi que les cantons et les pays voisins.
 
-<sup>4</sup> ...[^17-1]
+<sup>4</sup> …[^17-1]
 
 <sup>5</sup> Les obligations supplémentaires de déclarer et d’informer prévues par l’ordonnance sur les accidents majeurs sont réservées.
 
 [^17-1]: Abrogé par le ch. I de l’O du 4 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
-## Chapitre 3 Elimination des boues d’épuration
+## Chapitre 3 Élimination des boues d’épuration
 
 #### Art. 18
 
@@ -374,7 +374,7 @@ Le plan d’élimination définit au moins:
 
 <sup>2</sup> Si les boues d’une station centrale d’épuration ne peuvent être éliminées en tout temps dans le respect des exigences de la protection de l’environnement, la station doit disposer d’une capacité de stockage suffisante pour deux mois au minimum.[^19-1]
 
-<sup>3</sup> ...[^19-2]
+<sup>3</sup> …[^19-2]
 
 [^19-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 26 mars 2003, en vigueur depuis le 1<sup>er</sup> oct. 2006 ([RO 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
 [^19-2]: Abrogé par l’annexe ch. 1 de l’O du 26 mars 2003, avec effet au 1<sup>er</sup> oct. 2006 ([RO 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
@@ -385,9 +385,9 @@ Le plan d’élimination définit au moins:
 
 <sup>1</sup> Le détenteur d’une station centrale d’épuration doit veiller à ce que la qualité des boues soit analysée périodiquement.
 
-<sup>2</sup> ...[^20-1]
+<sup>2</sup> …[^20-1]
 
-<sup>3</sup> ...[^20-2]
+<sup>3</sup> …[^20-2]
 
 [^20-1]: Abrogé par le ch. I de l’O du 18 oct. 2006, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)).
 [^20-2]: Abrogé par le ch. I de l’O du 4 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
@@ -398,9 +398,9 @@ Le plan d’élimination définit au moins:
 
 <sup>1</sup> Le détenteur d’une station centrale d’épuration doit tenir un registre indiquant les preneurs de boues, la quantité remise, la destination et le moment de la remise; ces indications sont conservées pendant dix ans au minimum et mises à la disposition de l’autorité à la demande de cette dernière.
 
-<sup>2</sup> ...[^21-1]
+<sup>2</sup> …[^21-1]
 
-<sup>3</sup> ...[^21-2]
+<sup>3</sup> …[^21-2]
 
 <sup>4</sup> Il ne peut éliminer les boues d’une manière autre que celle prévue par le plan cantonal qu’avec l’accord de l’autorité cantonale. Si les boues sont éliminées dans un autre canton, l’autorité cantonale consulte au préalable l’autorité du canton preneur.
 
@@ -440,7 +440,7 @@ Pour convertir en UGBF le nombre d’animaux de rente d’une exploitation (art.
 
 <sup>1</sup> Les exploitations qui pratiquent l’aviculture ou la garde de chevaux et les entreprises qui assument des tâches d’intérêt public ne sont pas tenues de disposer d’une surface utile en propre ou en fermage permettant l’épandage de la moitié au moins de la quantité d’engrais provenant de l’exploitation si la valorisation de leurs engrais de ferme est assurée par une organisation ou une autre exploitation.[^25-1]
 
-<sup>2</sup> ...[^25-2]
+<sup>2</sup> …[^25-2]
 
 <sup>3</sup>
 
@@ -549,7 +549,7 @@ L’autorité veille:
 
 **Autorisations pour les installations et les activités dans les secteurs particulièrement menacés**
 
-<sup>1</sup> ...[^32-1]
+<sup>1</sup> …[^32-1]
 
 <sup>2</sup>
 
@@ -721,13 +721,13 @@ Pour les prélèvements nécessitant un assainissement, le rapport fournit égal
 
 Les art. 36 à 40 sont applicables par analogie aux prélèvements en projet pour lesquels la concession a été octroyée avant l’entrée en vigueur de la loi sur la protection des eaux (art. 83 LEaux).
 
-## Chapitre 7 Prévention et réparation d’autres atteintes nuisibles aux eaux****
+## Chapitre 7 Prévention et réparation d’autres atteintes nuisibles aux eaux
 
 [^chap7-1]
 
 [^chap7-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### Section 1**** Espace réservé aux eaux et revitalisation des eaux
+### Section 1 Espace réservé aux eaux et revitalisation des eaux
 
 [^chap7-sec1-1]
 
@@ -829,7 +829,7 @@ Ne peuvent être construites dans l’espace réservé aux eaux que les installa
 
 <sup>3</sup> Tout épandage d’engrais ou de produit phytosanitaire est interdit dans l’espace réservé aux eaux. Au-delà d’une bande riveraine large de 3 m, les traitements plante par plante sont autorisés pour les plantes posant des problèmes, s’il est impossible de les combattre raisonnablement par des moyens mécaniques.
 
-<sup>4</sup> L’espace réservé aux eaux peut faire l’objet d’une exploitation agricole pour autant qu’il soit aménagé en surface à litière, en haie, en bosquet champêtre, en berge boisée, en prairie riveraine d’un cours d’eau, en prairie extensive, en pâturage extensif ou en pâturage boisé conformément à l’ordonnance du 23 octobre 2013 sur les paiements directs[^41c-6]. Ces exigences s’appliquent également à l’exploitation de surfaces situées en dehors de la surface agricole utile.[^41c-7]
+<sup>4</sup> L’espace réservé aux eaux peut faire l’objet d’une exploitation agricole pour autant qu’il soit aménagé en surface à litière, en haie, en bosquet champêtre, en berge boisée, en prairie riveraine, en prairie extensive, en pâturage extensif ou en pâturage boisé conformément à l’ordonnance du 23 octobre 2013 sur les paiements directs[^41c-6]. Ces exigences s’appliquent également à l’exploitation de surfaces situées en dehors de la surface agricole utile.[^41c-7]
 
 <sup>4bis</sup> Si l’espace réservé comprend une partie côté terre, sur une largeur de quelques mètres seulement, au-delà d’une route ou d’un chemin dotés d’une couche de base ou d’une voie ferrée qui longent un cours d’eau, l’autorité peut accorder des dérogations aux restrictions d’exploitation prévues aux al. 3 et 4 pour cette partie de l’espace réservé, à condition qu’aucun engrais ni aucun produit phytosanitaire ne puisse parvenir dans l’eau.[^41c-8]
 
@@ -848,7 +848,7 @@ Exceptions:
 [^41c-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^41c-5]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^41c-6]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^41c-7]: Nouvelle teneur selon l’annexe 9 ch. 2 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^41c-7]: Nouvelle teneur selon le ch. IV de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^41c-8]: Introduit par le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
 #### Art. 41c<sup>bis</sup>
@@ -888,7 +888,7 @@ Dans une planification établie pour une période de 20 ans, les cantons fixent 
 
 [^41d-1]: Nouvelle teneur selon le ch. I 4 de l’O du 28 janv. 2015 sur les adaptations d’O dans le domaine de l’environnement, liées en particulier aux conventions-programmes à conclure pour la période allant de 2016 à 2019, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
-### Section 2**** Eclusées
+### Section 2 Éclusées
 
 [^chap7-sec2-1]
 
@@ -932,7 +932,7 @@ Les détenteurs de centrales hydroélectriques sont tenus d’ouvrir l’accès 
 [^41g-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^41g-2]: Nouvelle teneur de la phrase selon l’annexe 7 ch. II 2 de l’O du 1<sup>er</sup> nov. 2017 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
-### Section 3 Curage et vidange des bassins de retenue****
+### Section 3 Curage et vidange des bassins de retenue
 
 [^chap7-sec3-1]
 
@@ -940,7 +940,7 @@ Les détenteurs de centrales hydroélectriques sont tenus d’ouvrir l’accès 
 
 #### Art. 42
 
-**... [^42-1]**
+**… [^42-1]**
 
 <sup>1</sup> Avant d’octroyer l’autorisation de procéder au curage ou à la vidange d’un bassin de retenue, l’autorité s’assure que les sédiments peuvent être évacués autrement que par curage, pour autant que cette méthode soit respectueuse de l’environnement et financièrement supportable.
 
@@ -956,7 +956,7 @@ Si les sédiments sont évacués par curage ou par vidange, l’autorité s’as
 
 [^42-1]: Abrogé par le ch. I de l’O du 4 mai 2011, avec effet au 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### Section 4 Régime de charriage****
+### Section 4 Régime de charriage
 
 [^chap7-sec4-1]
 
@@ -1019,7 +1019,7 @@ Afin de ne pas perturber le bilan des matériaux charriés, l’autorité doit s
 
 <sup>2</sup> Les exploitations mentionnées à l’al. 1 ne doivent pas provoquer de turbidité susceptible de porter atteinte aux eaux piscicoles.
 
-### Section 5 Eau de drainage provenant d’ouvrages souterrains****
+### Section 5 Eau de drainage provenant d’ouvrages souterrains
 
 [^chap7-sec5-1]
 
@@ -1027,7 +1027,7 @@ Afin de ne pas perturber le bilan des matériaux charriés, l’autorité doit s
 
 #### Art. 44
 
-**...[^44-1]**
+**…[^44-1]**
 
 <sup>1</sup> L’eau de drainage provenant d’ouvrages souterrains doit être captée et évacuée de manière à ne pas pouvoir être polluée par l’exploitation de ces derniers, en particulier lors d’événements extraordinaires; cette disposition ne s’applique pas à de petites quantités d’eau de drainage si des mesures de rétention empêchent que les eaux réceptrices puissent être polluées.
 
@@ -1159,7 +1159,7 @@ Le Département est habilité à approuver, avec l’accord du Département féd
 [^51-5]: [[RO 1979 96](https://fedlex.data.admin.ch/eli/oc/1979/97_96_97), [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323), [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [RO 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)art. 19 ch. 1 let. c]
 [^51-6]: Introduit par le ch. II 12 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
-## Chapitre 8*a***** Taxe fédérale sur les eaux usées
+## Chapitre 8*a* Taxe fédérale sur les eaux usées
 
 [^chap8a-1]
 
@@ -1209,7 +1209,7 @@ La prescription est interrompue et recommence à courir:
 
 ## Chapitre 9 Octroi de subventions fédérales
 
-### Section 1**** Mesures
+### Section 1 Mesures
 
 [^chap9-sec1-1]
 
@@ -1217,7 +1217,7 @@ La prescription est interrompue et recommence à courir:
 
 #### Art. 52
 
-**Elimination de l’azote dans les installations d’évacuation et d’épuration des eaux usées[^52-1]**
+**Élimination de l’azote dans les installations d’évacuation et d’épuration des eaux usées[^52-1]**
 
 <sup>1</sup> Le montant des indemnités globales pour les installations et les équipements servant à l’élimination de l’azote (art. 61, al. 1, LEaux) est fonction du nombre de tonnes d’azote éliminées chaque année.
 
@@ -1229,7 +1229,7 @@ La prescription est interrompue et recommence à courir:
 
 #### Art. 52a
 
-**Elimination des composés traces organiques dans les installations d’évacuation et d’épuration des eaux usées**[^52a-1]
+**Élimination des composés traces organiques dans les installations d’évacuation et d’épuration des eaux usées**[^52a-1]
 
 <sup>1</sup> Les indemnités pour les mesures servant à l’élimination des composés traces organiques selon l’art. 61*a*, al. 1, LEaux sont allouées aux cantons individuellement.
 
@@ -1305,7 +1305,7 @@ Des indemnités peuvent être allouées au cas par cas lorsque les mesures:
 
 #### Art. 55
 
-**Etudes de base**
+**Études de base**
 
 <sup>1</sup> Des indemnités pour des recherches portant sur les causes de l’insuffisance qualitative d’une eau importante, effectuées en vue de déterminer les mesures d’assainissement à prendre (art. 64, al. 1, LEaux), sont accordées au cas par cas à des projets, pour autant qu’ils ne portent que sur l’état de l’eau concernée et de ses affluents.
 
@@ -1360,7 +1360,7 @@ Les aides financières allouées pour l’information de la population se monten
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### Section 2**** Procédure pour l’octroi d’indemnités globales
+### Section 2 Procédure pour l’octroi d’indemnités globales
 
 [^chap9-sec2-1]
 
@@ -1450,7 +1450,7 @@ L’office fédéral compétent retient tout ou partie des paiements échelonné
 
 [^61b-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### Section 3**** Procédure pour l’octroi d’indemnités ou d’aides financières au cas par cas
+### Section 3 Procédure pour l’octroi d’indemnités ou d’aides financières au cas par cas
 
 [^chap9-sec3-1]
 
@@ -1498,7 +1498,7 @@ En matière de compte rendu et de contrôle, lors d’indemnités et d’aides f
 
 La présente modification entre en vigueur le 1<sup>er</sup> janvier 1999.
 
-## Disposition transitoire de la modification du 18 octobre 2006****
+## Disposition transitoire de la modification du 18 octobre 2006
 
 [^u1-1]
 
@@ -1506,7 +1506,7 @@ La présente modification entre en vigueur le 1<sup>er</sup> janvier 1999.
 
 Les installations et les éléments d’installation qui ont été construits conformément aux prescriptions avant l’entrée en vigueur de la présente modification peuvent continuer à être exploités s’ils sont en état de fonctionner et s’ils ne présentent pas un danger concret de pollution des eaux; les réservoirs enterrés à simple paroi contenant des liquides de nature à polluer les eaux peuvent être exploités au plus tard jusqu’au 31 décembre 2014.
 
-## Dispositions transitoires de la modification du 4 mai 2011****
+## Dispositions transitoires de la modification du 4 mai 2011
 
 [^u2-1]
 
@@ -1526,7 +1526,7 @@ Les installations et les éléments d’installation qui ont été construits co
 
 [^u2-2]: Nouvelle teneur selon le ch. I 1 de l’O du 17 avr. 2019 sur les adaptations d’ordonnances au développement des conventions-programmes dans le domaine de l’environnement pour la période 2020-2024, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
-## Disposition transitoire de la modification du 25 mai 2011****
+## Disposition transitoire de la modification du 25 mai 2011
 
 [^u3-1]
 
@@ -1534,7 +1534,7 @@ Les installations et les éléments d’installation qui ont été construits co
 
 L’autorité cantonale peut accorder, jusqu’au 31 décembre 2015, une dérogation au sens de l’art. 25, al. 1, aux exploitations qui, en raison de l’interdiction d’utiliser des sous-produits d’abattage, de boucherie, des déchets de cuisine et restes de repas pour alimenter les animaux, ne satisfont plus aux exigences visées à l’art. 25, al. 3, let. c et d, lorsque ces exploitations peuvent prouver qu’elles avaient jusqu’alors recours à des sous-produits d’abattage et de boucherie ou des déchets de cuisine et restes de repas, et qu’il leur a été impossible de les remplacer par d’autres sous-produits alimentaires.
 
-## Dispositions transitoires de la modification du 4 novembre 2015****
+## Dispositions transitoires de la modification du 4 novembre 2015
 
 [^u4-1]
 
@@ -1601,7 +1601,7 @@ Annexe 1
   - – ne se trouvent pas dans les eaux du sous-sol lorsqu’elles n’y sont pas présentes à l’état naturel;
   - – n’aient pas d’effet néfaste sur l’exploitation des eaux du sous-sol.
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 6, 8, 13 et 47)
 
@@ -1656,7 +1656,7 @@ Annexe 2*[^t-1]*
 <tr><td></td><td>Cyprodinil (n<sup>o</sup> CAS 121552-61-2)</td><td></td><td>3,3 µg/l 0,33 µg/l (continu)<sup>2</sup></td></tr>
 <tr><td></td><td>Diazinon (n<sup>o</sup> CAS 333-41-5)</td><td>0,02 µg/l 0,012 µg/l (continu)<sup>2</sup></td><td>0,02 µg/l 0,012 µg/l (continu)<sup>2</sup></td></tr>
 <tr><td></td><td>Diuron (n<sup>o</sup> CAS 330-54-1)</td><td>0,07 µg/l (continu)<sup>2</sup></td><td>0,25 µg/l 0,07 µg/l (continu)<sup>2</sup></td></tr>
-<tr><td></td><td>Epoxiconazole (n<sup>o</sup> CAS 133855-98-8)</td><td></td><td>0,24 µg/l 0,2 µg/l (continu)<sup>2</sup></td></tr>
+<tr><td></td><td>Époxiconazole (n<sup>o</sup> CAS 133855-98-8)</td><td></td><td>0,24 µg/l 0,2 µg/l (continu)<sup>2</sup></td></tr>
 <tr><td></td><td>Imidaclopride (n<sup>o</sup> CAS 138261-41-3)</td><td>0,013 µg/l (continu)<sup>2</sup></td><td>0,1 µg/l 0,013 µg/l (continu)<sup>2</sup></td></tr>
 <tr><td></td><td>Isoproturon (n<sup>o</sup> CAS 34123-59-6)</td><td></td><td>1,7 µg/l 0,64 µg/l (continu)<sup>2</sup></td></tr>
 <tr><td></td><td>MCPA (n<sup>o</sup> CAS 94-74-6)</td><td></td><td>6,4 µg/l 0,66 µg/l (continu)<sup>2</sup></td></tr>
@@ -1751,7 +1751,7 @@ Annexe 3
 
 ## Exigences relatives au déversement d’eaux polluées
 
-Annexe 3.1*[^t-2]*
+Annexe 3.1[^t-2]
 
 (art. 6, al. 1)
 
@@ -1781,16 +1781,16 @@ Annexe 3.1*[^t-2]*
 <tr><td>1</td><td>Substances non dissoutes totales</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 20 mg/l Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 15 mg/l</td></tr>
 <tr><td>2</td><td>Demande chimique en oxygène *(DCO)*</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 60 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 80 % Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 45 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 85 %</td></tr>
 <tr><td>3</td><td>Carbone organique dissous *(COD*)</td><td>Pour les installations de 2000 EH et plus: – concentration dans les eaux déversées: 10 mg/l et – taux d’épuration: 85 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/fr/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/fr/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Si les valeurs ne sont pas respectées, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>
 <tr><td>4</td><td>Transparence *(d’après la mé**thode de Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonium *(somme de N-NH**<sub>4</sub>**<sup>+</sup>* *et N-NH**<sub>3</sub>**)*</td><td>Si les concentrations d’ammonium dans les eaux polluées peuvent avoir des effets néfastes sur la qualité d’un cours d’eau, les valeurs suivantes sont applicables si la température des eaux polluées est supérieure à 10° C: – concentration dans les eaux déversées: 2 mg/l N et – taux d’efficacité du traitement: 90 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/fr/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/fr/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>Dans ces cas, on procédera à une nitrification durant toute l’année. *Remarque: l’azote obtenu par la méthode de Kjeldahl est la somme de l’azote contenu dans l’ammonium, l’ammoniac et les substances azotées organiques.*</td></tr>
 <tr><td>6</td><td>Nitrite *(N-NO**<sub>2</sub>**<sup>-</sup>**)*</td><td>0,3 mg/l N (valeur indicative)</td></tr>
 <tr><td>7</td><td>Composés organiques halogénés adsorbables *(AOX)*</td><td>0,08 mg/l X Si la valeur n’est pas respectée, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>
-<tr><td>8</td><td>Substances organiques qui peuvent polluer les eaux même en faible concentration *(comp**o**sés traces organiques)*</td><td>Le taux d’épuration par rapport aux eaux polluées brutes, mesuré à partir d’une sélection de substances doit atteindre 80 % pour les eaux usées provenant des installations suivantes: – installations auxquelles sont raccordés 80 000 habitants ou plus; – installations auxquelles sont raccordés 24 000 habitants ou plus dans le bassin versant de lacs; le canton peut accorder des dérogations si le bénéfice d’une épuration est faible pour l’environnement et pour l’approvisionnement en eau potable; – installations auxquelles sont raccordés 8000 habitants ou plus, qui déversent leur effluent dans un cours d’eau contenant plus de 10 % d’eaux usées non épurées des composés traces organiques; le canton désigne, dans le cadre d’une planification dans le bassin versant, les installations qui doivent prendre des mesures; – autres installations auxquelles sont raccordés 8000 habitants ou plus si une épuration est indispensable en raison de conditions hydrogéologiques spéciales; –[^annex31-lvlu1-lvl2-1] ... Le Département précise dans une ordonnance les substances avec lesquelles le taux d’épuration sera mesuré et le mode de calcul qui sera appliqué.</td></tr>
-<tr><td>9</td><td>Demande biochimique en oxygène *(DBO**<sub>5</sub>**, avec blocage de la nitrific**a**tion)*</td><td>Pour les installations de moins de 10 000 EH, où les concentrations de DBO<sub>5</sub> dans les eaux polluées peuvent avoir des effets néfastes sur la qualité de l’eau d’un cours d’eau, les valeurs fixées sont les suivantes: – concentration dans les eaux déversées: 20 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 90 % Pour les installations de 10 000 EH et plus, où les concentrations de DBO<sub>5</sub> dans les eaux polluées peuvent avoir des effets néfastes sur la qualité de l’eau d’un cours d’eau, les valeurs fixées sont les suivantes: – concentration dans les eaux déversées: 15 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 90 %</td></tr>
+<tr><td>8</td><td>Substances organiques qui peuvent polluer les eaux même en faible concentration *(composés traces organiques)*</td><td>Le taux d’épuration par rapport aux eaux polluées brutes, mesuré à partir d’une sélection de substances doit atteindre 80 % pour les eaux usées provenant des installations suivantes: – installations auxquelles sont raccordés 80 000 habitants ou plus; – installations auxquelles sont raccordés 24 000 habitants ou plus dans le bassin versant de lacs; le canton peut accorder des dérogations si le bénéfice d’une épuration est faible pour l’environnement et pour l’approvisionnement en eau potable; – installations auxquelles sont raccordés 8000 habitants ou plus, qui déversent leur effluent dans un cours d’eau contenant plus de 10 % d’eaux usées non épurées des composés traces organiques; le canton désigne, dans le cadre d’une planification dans le bassin versant, les installations qui doivent prendre des mesures; – autres installations auxquelles sont raccordés 8000 habitants ou plus si une épuration est indispensable en raison de conditions hydrogéologiques spéciales; –[^annex31-lvlu1-lvl2-1] ... Le Département précise dans une ordonnance les substances avec lesquelles le taux d’épuration sera mesuré et le mode de calcul qui sera appliqué.</td></tr>
+<tr><td>9</td><td>Demande biochimique en oxygène *(DBO**<sub>5</sub>**, avec blocage de la nitrification)*</td><td>Pour les installations de moins de 10 000 EH, où les concentrations de DBO<sub>5</sub> dans les eaux polluées peuvent avoir des effets néfastes sur la qualité de l’eau d’un cours d’eau, les valeurs fixées sont les suivantes: – concentration dans les eaux déversées: 20 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 90 % Pour les installations de 10 000 EH et plus, où les concentrations de DBO<sub>5</sub> dans les eaux polluées peuvent avoir des effets néfastes sur la qualité de l’eau d’un cours d’eau, les valeurs fixées sont les suivantes: – concentration dans les eaux déversées: 15 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 90 %</td></tr>
 </table>
 
 [^annex31-lvlu1-lvl2-1]: Entre en vigueur le 1<sup>er</sup> janv. 2028 ([RO 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)).
@@ -1864,7 +1864,7 @@ Tableau des dépassements admissibles
 <tr><td>351–365</td><td>25</td></tr>
 </table>
 
-Annexe 3.2*[^t-3]*
+Annexe 3.2[^t-3]
 
 (art. 6, al. 1, et 7, al. 1)
 
@@ -1952,7 +1952,7 @@ Pour les usines mises en service avant le 1.1.1993, l’autorité fixe les exige
 <tr><td>1</td><td>Utilisation de 1,2-dichloroéthane pour le dégraissage des métaux</td><td>1,2-dichloroéthane: – 0,1 mg/l (moyenne mensuelle) – 0,2 mg/l (moyenne journalière)</td></tr>
 <tr><td>2</td><td>Utilisation de trichloroéthylène pour le dégraissage des métaux</td><td>Trichloroéthylène: – 0,1 mg/l (moyenne mensuelle) – 0,2 mg/l (moyenne journalière)</td></tr>
 <tr><td>3</td><td>Utilisation de tétrachloroéthylène pour le dégraissage des métaux</td><td>Tétrachloroéthylène: – 0,1 mg/l (moyenne mensuelle) – 0,2 mg/l (moyenne journalière)</td></tr>
-<tr><td>4</td><td>Traitement de surface</td><td>Hydrocarbures halogénés volatils: – 0,1 mg/l (moyenne journalière) Cyanure (CN<sup>-</sup>): – 0,2 mg/l CN (légèrement libérable) (moyenne journalière) Mercure (Hg): – 0,05 mg/l Hg (moyenne journalière) ou – 0,03 kg/t de mercure utilisé (moyenne journalière) Cadmium (Cd): – 0,2 mg/l Cd (moyenne journalière) ou – 0,3 kg/t de cadmium utilisé (moyenne journalière) Chrome (Cr): – 0,1 mg/l Cr-VI (moyenne journalière) – 0,5 mg/l Cr (total) (moyenne journalière)<sup>a</sup> Plomb (Pb): – 0,5 mg/l Pb (moyenne journalière)<sup>a</sup> Cuivre (Cu): – 0,5 mg/l Cu (moyenne journalière)<sup>a</sup> Nickel (Ni): – 0,5 mg/l Ni (moyenne journalière)<sup>a</sup> Zinc (Zn): – 0,5 mg/l Zn (moyenne journalière); dans des cas justifiés, l’autorité peut autoriser jusqu’à 2 mg/l Zn (moyenne journalière) Argent (Ag): – 0,1 mg/l Ag (moyenne journalière) Etain (Sn): – 2 mg/l Sn (moyenne journalière)</td></tr>
+<tr><td>4</td><td>Traitement de surface</td><td>Hydrocarbures halogénés volatils: – 0,1 mg/l (moyenne journalière) Cyanure (CN<sup>-</sup>): – 0,2 mg/l CN (légèrement libérable) (moyenne journalière) Mercure (Hg): – 0,05 mg/l Hg (moyenne journalière) ou – 0,03 kg/t de mercure utilisé (moyenne journalière) Cadmium (Cd): – 0,2 mg/l Cd (moyenne journalière) ou – 0,3 kg/t de cadmium utilisé (moyenne journalière) Chrome (Cr): – 0,1 mg/l Cr-VI (moyenne journalière) – 0,5 mg/l Cr (total) (moyenne journalière)<sup>a</sup> Plomb (Pb): – 0,5 mg/l Pb (moyenne journalière)<sup>a</sup> Cuivre (Cu): – 0,5 mg/l Cu (moyenne journalière)<sup>a</sup> Nickel (Ni): – 0,5 mg/l Ni (moyenne journalière)<sup>a</sup> Zinc (Zn): – 0,5 mg/l Zn (moyenne journalière); dans des cas justifiés, l’autorité peut autoriser jusqu’à 2 mg/l Zn (moyenne journalière) Argent (Ag): – 0,1 mg/l Ag (moyenne journalière) Étain (Sn): – 2 mg/l Sn (moyenne journalière)</td></tr>
 <tr><td colspan="3"><sup>a</sup> Pour les entreprises de traitement de surface qui évacuent de petites quantités de fractions métalliques (moins de 200 g de la somme du chrome total, du plomb, du cuivre, du nickel et du zinc par jour), l’autorité peut autoriser au plus 2 mg/l (moyenne mensuelle).</td></tr>
 </table>
 
@@ -1999,7 +1999,7 @@ Pour les usines mises en service avant le 1.1.1993, l’autorité fixe les exige
 <tr><td>5</td><td>Cabinets et cliniques dentaires</td><td>Amalgames: L’autorité fixe les exigences cas par cas.</td><td colspan="2">Amalgames: Les unités de soins qui utilisent des amalgames doivent être équipées d’un séparateur d’amalgame présentant un degré d’efficacité de 95 % au moins.</td></tr>
 </table>
 
-Annexe 3.3*[^t-4]*
+Annexe 3.3[^t-4]
 
 (art. 6, al. 1, et 7, al. 1)
 
@@ -2096,7 +2096,7 @@ Annexe 3.3*[^t-4]*
 
 L’eau provenant des piscines ne peut être déversée dans les eaux que si elle contient au maximum 0,05 mg/l (valeur indicative) de substances désinfectantes (chlore actif p. ex.).
 
-Annexe 4*[^t-5]*
+Annexe 4[^t-5]
 
 (art. 29 et 31)
 
@@ -2205,7 +2205,7 @@ Les périmètres de protection des eaux souterraines sont délimités de manièr
 
 Lorsque les eaux sont polluées par l’exploitation des sols dans les aires d’alimentation Z<sub>u</sub> et Z<sub>o</sub>, du fait de l’entraînement par le ruissellement et par la lixiviation de substances telles que des produits phytosanitaires ou des engrais, les cantons définissent les mesures nécessaires pour assurer la protection des eaux. Sont par exemple considérées comme telles les mesures consistant à:
 
-- a. restreindre l’utilisation des produits phytosanitaires et des engrais que les cantons déterminent en vertu des annexes 2.5, ch. 1.1, al. 4, et 2.6, ch. 3.3.1, al. 3, ORRChim[^annex4-lvlu1-lvl2-lvl21-lvl212-1];
+- a. restreindre l’utilisation des produits phytosanitaires et des engrais que les cantons déterminent en vertu des annexes 2.5, ch. 1.1, al. 4, et 2.6, ch. 3.3.1, al. 3, de l’O du 18 mai 2005 sur la réduction des risques liés aux produits chimiques[^annex4-lvlu1-lvl2-lvl21-lvl212-1];
 - b. limiter les surfaces de grandes cultures et de cultures maraîchères;
 - c. limiter le choix des cultures, de la rotation et des techniques culturales;
 - d. renoncer à retourner les prairies à l’automne;
@@ -2244,17 +2244,13 @@ Lorsque les eaux sont polluées par l’exploitation des sols dans les aires d�
 - b. les ouvrages de construction qui altèrent l’hydrodynamique des eaux du sous-sol;
 - c. l’infiltration d’eaux à évacuer, à l’exception des eaux non polluées (art. 3, al. 3) à travers une couche de sol biologiquement active et des eaux communales polluées issues de petites stations d’épuration, à condition que les exigences de l’art. 8, al. 2, soient respectées, si l’évacuation des eaux communales de la zone de protection entraîne un coût disproportionné et que toute menace pour l’utilisation de l’eau potable peut être exclue;
 - d. la réduction préjudiciable des couches protectrices (sol et couches de couverture);
-- e. les canalisations soumises à la loi du 4 octobre 1963 sur les installations de transport par conduites[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1], à l’exception des conduites de gaz;
+- e. les canalisations soumises à la loi du 4 octobre 1963 sur les installations de transport par conduites, à l’exception des conduites de gaz;
 - f. les circuits thermiques qui prélèvent ou rejettent de la chaleur dans le sous-sol;
 - g. les réservoirs et les conduites enterrés contenant des liquides de nature à polluer les eaux;
 - h. les réservoirs contenant des liquides de nature à polluer les eaux, dont le volume utile dépasse 450 l par ouvrage de protection, à l’exception des réservoirs non enterrés pour huile de chauffage et huile diesel destinés à l’approvisionnement en énergie de bâtiments ou d’exploitation pour deux ans au maximum; le volume utile total de ces réservoirs ne doit pas dépasser 30 m<sup>3</sup> par ouvrage de protection;
-- i. les installations d’exploitation contenant des liquides de nature à polluer les eaux, dont le volume utile dépasse 2000 l, à l’exception des installations qui sont admises dans la zone S3 en vertu de l’art. 7, al. 2, de l’ordonnance du 30 mars 1994 sur le courant faible[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2] ou de l’art. 7, al. 2, de l’ordonnance du 30 mars 1994 sur le courant fort[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3].
+- i. les installations d’exploitation contenant des liquides de nature à polluer les eaux, dont le volume utile dépasse 2000 l, à l’exception des installations qui sont admises dans la zone S3 en vertu de l’art. 7, al. 2, de l’ordonnance du 30 mars 1994 sur le courant faible ou de l’art. 7, al. 2, de l’ordonnance du 30 mars 1994 sur le courant fort.
 
 <sup>2</sup> L’utilisation de produits pour la conservation du bois, de produits phytosanitaires et d’engrais est régie par les annexes 2.4, ch. 1, 2.5 et 2.6, de l’ORRChim.
-
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
 
 ### 221<sup>ter</sup> Zone S<sub>h</sub>
 
@@ -2286,7 +2282,7 @@ Dans la zone S1, seuls sont autorisés les travaux de construction et d’autres
 
 <sup>2</sup> Une fois que l’emplacement et l’étendue des futures zones de protection sont connus, les exigences correspondantes sont applicables aux surfaces en question.
 
-Annexe 4a*[^t-6]*
+Annexe 4a[^t-6]
 
 (art. 41*f* et 42*b*)
 
@@ -2301,7 +2297,7 @@ Des circonstances particulières existent en particulier, lorsque:
 - a. plusieurs installations provoquent des atteintes graves dans le même bassin versant, et que
 - b. la part des atteintes graves ne peut pas encore être attribuée aux différentes installations.
 
-### 2 Etapes de la planification visant à assainir les éclusées
+### 2 Étapes de la planification visant à assainir les éclusées
 
 <sup>1</sup> Les cantons remettent le premier rapport intermédiaire à l’OFEV le 30 juin 2013 au plus tard. Ce rapport comprend:
 
@@ -2317,7 +2313,7 @@ Des circonstances particulières existent en particulier, lorsque:
 - b. des indications sur la coordination des mesures d’assainissement prévues dans le bassin versant du cours d’eau concerné avec d’autres mesures destinées à protéger les biotopes naturels et à assurer la protection contre les crues;
 - c. pour les centrales hydroélectriques dans le cas desquelles les mesures d’assainissement à prendre ne peuvent pas encore être fixées en raison de circonstances particulières: un délai au terme duquel le canton déterminera si des mesures d’assainissement s’imposent et, le cas échéant, lesquelles et dans quel délai elles devront être planifiées et réalisées.
 
-### 3 Etapes de la planification visant à assainir le régime de charriage
+### 3 Étapes de la planification visant à assainir le régime de charriage
 
 <sup>1</sup> Les cantons remettent le premier rapport intermédiaire à l’OFEV le 31 décembre 2013 au plus tard. Ce rapport comprend:
 
@@ -2352,7 +2348,7 @@ Sont abrogés:
 [^annex5-lvlu1-lvl1-3]: [[RO 1981 1738](https://fedlex.data.admin.ch/eli/oc/1981/1738_1738_1738)]
 [^annex5-lvlu1-lvl1-4]: [[RO 1972 1737](https://fedlex.data.admin.ch/eli/oc/1972/1708_1737_1913)]
 
-### 2. à 5. ...****
+### 2. à 5. …
 
 [^annex5-lvlu1-lvlu2-1]
 

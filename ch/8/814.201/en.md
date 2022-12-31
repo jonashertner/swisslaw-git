@@ -4,11 +4,11 @@ title: Waters Protection Ordinance of 28 October 1998 (WPO)
 short: WPO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: en
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (WPO)
 
-of 28 October 1998 (Status as of 1 January 2021)
+of 28 October 1998 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -188,7 +188,7 @@ They shall set additional or stricter requirementsif by discharge of waste water
 
 They may apply less stringent requirements if:
 
-- a. by reducing the amounts of waste water discharged, fewer potential water pollutants are discharged even though the concentrations allowed are higher; or
+- a. by reducing the amounts of waste water discharged, fewer potential water pollutants are discharged even though the concentrations allowed are higher;
 - b. the environment as a whole will be less impaired by the discharge of non-recyclable substances in industrial waste water than by another disposal method**,** and in the case of waste water from the central waste water treatment plant**,** requirements on discharge into a body of water are met; or
 - c. this is appropriate for the operation of the waste water treatment plant.
 
@@ -333,7 +333,7 @@ The authorities shall examine periodically whether:
 <sup>3</sup> Regulations in the Major Accidents Ordinance of 27 February 1991[^16-1] and the Ordinance of 20 November 1991[^16-2] on the Guarantee of Drinking Water Supplies in Emergencies that go further are reserved.
 
 [^16-1]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^16-2]: [SR 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)
+[^16-2]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517), [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)No I 2. [AS 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)Art. 15]. See now: the O of 19 Aug. 2020 ([SR 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666))
 
 #### Art. 17
 
@@ -725,13 +725,13 @@ For water withdrawals where remediation is necessary, the report shall also cont
 
 Articles 36–40 apply by analogy to planned water withdrawals for which a licence was granted before the entry into force of the Waters Protection Act (Art. 83 WPA).
 
-## Chapter 7 Prevention and Remediation of Other Harmful Effects on Waters****
+## Chapter 7 Prevention and Remediation of Other Harmful Effects on Waters
 
 [^chap7-1]
 
 [^chap7-1]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### Section 1**** Space provided for Waters and Rehabilitation of Watercourses
+### Section 1 Space provided for Waters and Rehabilitation of Watercourses
 
 [^chap7-sec1-1]
 
@@ -770,6 +770,7 @@ The width of the space provided for waters calculated in accordance with paragra
 Provided protection against flooding is guaranteed, the width of the space provided for waters may be adapted:
 
 - a. to the structural conditions in densely built-up areas;
+
 - b.
 
   to the topographic conditions on stretches of waters:
@@ -830,9 +831,9 @@ In the space provided for waters, only fixed installations serving the public in
 
 <sup>2</sup> The continued existence of installations and permanent crops in terms of Article 22 paragraph 1 letters a–c, e and g–i of the Agricultural Terms Ordinance of 7 December 1998[^41c-4] in the space provided for waters that are lawfully constructed and useable as intended is in principle protected.[^41c-5]
 
-<sup>3</sup> No fertilisers and plant health products may be used in the space provided for waters. Individual treatments of problem plants are permitted outside a 3-metre wide strip along the bank where these cannot be controlled mechanically at a reasonable cost.
+<sup>3</sup> No fertilisers and plant health products may be used in the space provided for waters. Individual treatments of problem plants are permitted outside a 3-metre-wide strip along the bank where these cannot be controlled mechanically at a reasonable cost.
 
-<sup>4</sup> The space provided for waters may be used for agricultural purposes if it is used in accordance with the requirements of the Direct Payments Ordinance of 23 October 2013[^41c-6] as straw fields, hedgerows, field or riparian woodland, riparian meadow along watercourses, extensively used meadow, extensively used pasture ground or wooded pasture ground. These requirements also apply to the use of areas outside the agricultural land in use.[^41c-7]
+<sup>4</sup> The space provided for waters may be used for agricultural purposes if it is used in accordance with the requirements of the Direct Payments Ordinance of 23 October 2013[^41c-6] as straw fields, hedgerows, field or riparian woodland, riparian meadow, extensively used meadow, extensively used pasture ground or wooded pasture ground. These requirements also apply to the use of areas outside the agricultural land in use.[^41c-7]
 
 <sup>4bis</sup> If in the case of roads and paths with a base layer or railway lines that run alongside waters the space provided for waters on the land side extends only a few metres beyond the transport infrastructure, the authority may authorise exceptions from the management restrictions in paragraphs 3 and 4 for the part on the land side provided no fertilisers or plant health products can enter the water.[^41c-8]
 
@@ -851,7 +852,7 @@ The following do not apply:
 [^41c-4]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^41c-5]: Amended by No I of the O of 4 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^41c-6]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^41c-7]: Amended by Annex 9 No 2 of the Direct Payments Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^41c-7]: Amended by No IV of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^41c-8]: Inserted by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2585](https://fedlex.data.admin.ch/eli/oc/2017/245)).
 
 #### Art. 41c<sup>bis</sup>
@@ -891,7 +892,7 @@ They shall set out in a plan for a period of 20 years the stretches of water to 
 
 [^41d-1]: Amended by No I 4 of the O of 28 Jan. 2015 on Amendments to Ordinance Law on the Environment, in particular in relation to the programme agreements for the programme period 2016-2019, in force since 1 Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
-### Section 2**** Hydropeaking
+### Section 2 Hydropeaking
 
 [^chap7-sec2-1]
 
@@ -935,7 +936,7 @@ The persons responsible for hydropower plants must grant access to the authority
 [^41g-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^41g-2]: Second sentence amended by Annex 7 No II 2 of the Energy Ordinance of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)).
 
-### Section 3 Flushing out and Emptying of Impoundments****
+### Section 3 Flushing out and Emptying of Impoundments
 
 [^chap7-sec3-1]
 
@@ -959,7 +960,7 @@ When washing away sediments the authorities shall ensure that communities of pla
 
 [^42-1]: Repealed by No I of the O of 4 May 2011, with effect from 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### Section 4 Bed Load Budget****
+### Section 4 Bed Load Budget
 
 [^chap7-sec4-1]
 
@@ -1022,7 +1023,7 @@ In order that the bed load budget in a watercourse is not unfavourably influence
 
 <sup>2</sup> Extraction according to paragraph 1 should not lead to turbidity that may impair fishing waters.
 
-### Section 5 Drainage Water from Underground Buildings****
+### Section 5 Drainage Water from Underground Buildings
 
 [^chap7-sec5-1]
 
@@ -1112,7 +1113,7 @@ If the authorities establish that a body of water does not fulfil the requiremen
 
 <sup>2</sup> Insofar as this Ordinance contains no regulations on the type and frequency of sampling or the assessment of compliance with requirements, the authorities shall specify such regulations on a case-by-case basis.
 
-[^48-1]: Standards may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^48-1]: Standards may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 #### Art. 49
 
@@ -1162,7 +1163,7 @@ The Department is authorised to approve decisions and recommendations that are b
 [^51-5]: [[AS 1979 97](https://fedlex.data.admin.ch/eli/oc/1979/97_96_97), [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323), [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 No 2].
 [^51-6]: Inserted by fig. II 12 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
-## Chapter 8*a***** Federal Waste Water Charge
+## Chapter 8*a* Federal Waste Water Charge
 
 [^chap8a-1]
 
@@ -1212,7 +1213,7 @@ The time limitation period is interrupted and restarted:
 
 ## Chapter 9 Granting of Federal Subsidies
 
-### Section 1**** Measures
+### Section 1 Measures
 
 [^chap9-sec1-1]
 
@@ -1363,7 +1364,7 @@ The financial assistance for the provision of information to the public amounts 
 
 [^58-1]: Amended by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)).
 
-### Section 2**** Procedure for Granting Global Compensatory Payments
+### Section 2 Procedure for Granting Global Compensatory Payments
 
 [^chap9-sec2-1]
 
@@ -1453,7 +1454,7 @@ The competent Federal Office shall withhold all or part of the instalment paymen
 
 [^61b-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### Section 3**** Procedure for Granting Compensatory Payments or Financial Assistance in Specific Cases
+### Section 3 Procedure for Granting Compensatory Payments or Financial Assistance in Specific Cases
 
 [^chap9-sec3-1]
 
@@ -1501,7 +1502,7 @@ Reporting and controls in relation to compensatory payments and financial assist
 
 This Ordinance comes into force on 1 January 1999.
 
-## Transitional provision to the Amendment of 18 October 2006****
+## Transitional provision to the Amendment of 18 October 2006
 
 [^u1-1]
 
@@ -1509,7 +1510,7 @@ This Ordinance comes into force on 1 January 1999.
 
 Installations and parts of installation that were constructed in accordance with the regulations before this Amendment comes into force may continue to be operated if they are fit for operation and do not represent a specific risk to the waters; single wall underground storage tanks for liquids which may pollute water may continue to be used until 31 December 2014 at the latest.
 
-## Transitional Provisions to the Amendment of 4 May 2011****
+## Transitional Provisions to the Amendment of 4 May 2011
 
 [^u2-1]
 
@@ -1529,7 +1530,7 @@ Installations and parts of installation that were constructed in accordance with
 
 [^u2-2]: Amended by No I 1 of the O of 17 April 2019 on Amendments to Ordinance Law on the Environment, in particular in relation to the programme agreements for the programme period 2020-2024, in force since 1 Jan. 2020 ([AS 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
-## Transitional Provision to the Amendment of 25 May 2011****
+## Transitional Provision to the Amendment of 25 May 2011
 
 [^u3-1]
 
@@ -1537,7 +1538,7 @@ Installations and parts of installation that were constructed in accordance with
 
 The cantonal authority may grant an exception under Article 25 paragraph 1 until 31 December 2015 at the latest to farms that no longer meet the requirements of Article 25 paragraph 3 letters c and d, as a result of the ban on the feeding of slaughterhouse and butcher's by-products and left-over food, provided these farms prove that they have used slaughterhouse and butcher's by-products and left-over food as feed and cannot compensate for the loss of such feed by using other food by-products.
 
-## Transitional Provision to the Amendment of 4 November 2015****
+## Transitional Provision to the Amendment of 4 November 2015
 
 [^u4-1]
 
@@ -1571,7 +1572,10 @@ Annex 1
 
 - a. the temperature conditions are near-natural;
 - b. the water, suspended matter and sediments contain no persistent synthetic substances;
-- c. other potential water pollutants which could enter the water as a result of human activities,
+- c.
+
+  other potential water pollutants which could enter the water as a result of human activities:
+
   - – do not accumulate in the plants, animals, micro-organisms, suspended matter or sediments,
   - – do not have any harmful effects on the communities of plants, animals and micro-organisms and on the use of the water,
   - – do not cause an unnaturally high production of bio-mass,
@@ -1598,10 +1602,10 @@ Annex 1
 
   - – do not accumulate in the biotic community or in the inert matter of the aquifer,
   - – occur in concentrations that are within the range of natural concentrations where these are already present in natural state groundwater,
-  - – do not occur in groundwater where they are not present naturally
+  - – do not occur in groundwater where they are not present naturally,
   - – have no harmful effects on the use of the groundwater.
 
-Annex 2*[^t-1]*
+Annex 2[^t-1]
 
 (Art. 6, 8, 13 and 47)
 
@@ -1751,7 +1755,7 @@ Annex 3
 
 ## Requirements for the Discharge of Polluted Waste Water
 
-Annex 3.1*[^t-2]*
+Annex 3.1[^t-2]
 
 (Art. 6 para. 1)
 
@@ -1780,9 +1784,9 @@ Annex 3.1*[^t-2]*
 <tr><th>No.</th><th>Parameter</th><th>Requirements</th></tr>
 <tr><td>1</td><td>Total suspended solids</td><td>For waste water from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 20 mg/l For waste water from plants from 10 000 PE the following applies: – discharge concentration: 15 mg/l</td></tr>
 <tr><td>2</td><td>Chemical oxygen demand *(COD)*</td><td>For waste water from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 60 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw waste water: 80% For waste water from plants of 10.000 PE or over the following requirements apply: – discharge concentration: 45 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw waste water: 85%</td></tr>
-<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For waste water from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
+<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For waste water from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
 <tr><td>4</td><td>Transparency *(Snellen method)*</td><td>30 cm</td></tr>
-<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the waste water are potentially detrimental to the water quality of a watercourse, the following requirements apply if the waste water temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20210101/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
+<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the waste water are potentially detrimental to the water quality of a watercourse, the following requirements apply if the waste water temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
 <tr><td>6</td><td>Nitrite *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</td><td>0.3 mg/l N (guide value)</td></tr>
 <tr><td>7</td><td>Adsorbable organic halogen *(AOX)*</td><td>0.08 mg/l X. If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
 <tr><td>8</td><td>Organic substances that can pollute waters even in low concentrations *(organic trace substances)*</td><td>The removal efficiency with respect to raw waste water and measured using selected substances must amount to 80 % for waste water from: – plants with 80 000 or more connected residents; – plants with 24 000 or more connected residents in the catchment area of lakes; the canton may authorise exceptions if the benefit of removal for the environment and for the drinking water supply is negligible; – plants with 8000 or more connected residents that discharge into a watercourse containing more than 10 % waste water untreated for organic trace substances; the canton shall identify the plants that must take measures as part of a plan for the catchment area; – other plants with 8000 or more connected residents if removal is required due to special hydrogeological conditions; – ...[^annex31-lvlu1-lvl2-1] The Department shall specify the substances to be used to measure the removal efficiency in an ordinance, and how efficiency is calculated.</td></tr>
@@ -1848,7 +1852,7 @@ Table: admissible number of non-compliant samples
 <tr><td>156–171</td><td>13</td><td></td><td></td></tr>
 </table>
 
-Annex 3.2*[^t-3]*
+Annex 3.2[^t-3]
 
 (Art. 6 para. 1 and 7 para. 1)
 
@@ -1888,7 +1892,7 @@ Annex 3.2*[^t-3]*
 <tr><td>No.</td><td>Parameter</td><td>Column 1: requirements for discharge into waters</td><td>Column 2: requirements for discharge into public sewers</td></tr>
 <tr><td>1</td><td>pH</td><td>6.5 to 9.0</td><td>6.5 to 9.0; divergences are admissible if there is sufficient mixing with other waste waters in the sewers.</td></tr>
 <tr><td>2</td><td>Temperature</td><td>At most 30 °C. The authorities may allow minor short-term excesses in summertime.</td><td>At most 60 °C. The temperature in the sewer system must not exceed 40 °C after mixing.</td></tr>
-<tr><td>3</td><td>Transparency *(Sne**l**len method)*</td><td>30 cm</td><td>–</td></tr>
+<tr><td>3</td><td>Transparency *(Snellen method)*</td><td>30 cm</td><td>–</td></tr>
 <tr><td>4</td><td>Total suspended solids</td><td>20 mg/l</td><td>–</td></tr>
 <tr><td>5</td><td>Arsenic *(As)*</td><td>0.1 mg/l As (total)</td><td>0.1 mg/l As (total)</td></tr>
 <tr><td>6</td><td>Lead *(Pb)*</td><td>0.5 mg/l Pb (total)</td><td>0.5 mg/l Pb (total)</td></tr>
@@ -1952,7 +1956,7 @@ For plants that were commissioned before 1 January 1993, the authorities shall s
 
 <table>
 <tr><th>No.</th><th>Sector/process</th><th>Parameter/requirements on discharge into waters</th><th>Parameter/requirements on discharge into public sewers</th></tr>
-<tr><td>1</td><td>Production of paper or cardboard</td><td>Total suspended solids: – 1 kg per tonne production of paper or cardboard (daily average) or 50 mg/l (daily average) *Chemical oxygen demand (COD)/dissolved organic ca**r**bon (DOC):* – according to type of paper: 2,5–5 kg COD per tonne production of paper or cardboard (daily average) or 1,5–2,5 kg DOC per tonne production of paper or cardboard (daily average) *Biochemical oxygen demand (BOD**<sub>5</sub>**):* – according to type of paper: 0.5–1 kg per tonne production of paper or cardboard (daily average); in justified cases the authorities may instead of the above-mentioned requirement admit a value of 25 mg/l BOD<sub>5</sub> (daily average).</td><td>The authorities set the requirements from case to case</td></tr>
+<tr><td>1</td><td>Production of paper or cardboard</td><td>Total suspended solids: – 1 kg per tonne production of paper or cardboard (daily average) or 50 mg/l (daily average) *Chemical oxygen demand (COD)/dissolved organic carbon (DOC):* – according to type of paper: 2,5–5 kg COD per tonne production of paper or cardboard (daily average) or 1,5–2,5 kg DOC per tonne production of paper or cardboard (daily average) *Biochemical oxygen demand (BOD**<sub>5</sub>**):* – according to type of paper: 0.5–1 kg per tonne production of paper or cardboard (daily average); in justified cases the authorities may instead of the above-mentioned requirement admit a value of 25 mg/l BOD<sub>5</sub> (daily average).</td><td>The authorities set the requirements from case to case</td></tr>
 </table>
 
 <table>
@@ -1968,7 +1972,7 @@ For plants that were commissioned before 1 January 1993, the authorities shall s
 <tr><td>2</td><td>Waste incineration plants</td><td>Antimony (Sb): – 0.1 mg/l Sb<sup>a</sup> *Arsenic (As):* – 0.1 mg/l As<sup>a</sup> *Lead (Pb):* – 0.1 mg/l Pb<sup>a</sup> *Cadmium (Cd):* – 0.05 mg/l Cd<sup>a</sup> *Chromium (total Cr):* – 0.1 mg/l Cr<sup>a</sup> *Copper (Cu):* – 0.1 mg/l *(*Cu)<sup>a</sup> *Nickel (Ni):* – 0.1 mg/l Ni<sup>a</sup> *Zinc (Zn):* – 0.1 mg/l Zn<sup>a</sup> *Mercury (Hg):* – 0.001 mg/l Hg<sup>a</sup> Dissolved organic carbon (DOC): – 10 mg/l DOC</td><td>Antimony (Sb): – 0.1 mg/l Sb<sup>a</sup> *Arsenic (As):* – 0.1 mg/l As<sup>a</sup> *Lead (Pb):* – 0.1 mg/l Pb<sup>a</sup> *Cadmium (Cd):* – 0.05 mg/l Cd<sup>a</sup> *Chromium (total cr):* – 0.1 mg/l Cr<sup>a</sup> *Copper (Cu):* – 0.1 mg/l Cu<sup>a</sup> *Nickel (Ni):* – 0.1 mg/l Ni<sup>a</sup> *Zinc (Zn):* – 0.1 mg/l Zn<sup>a</sup> *Mercury (Hg):* – 0.001 mg/l Hg<sup>a</sup> Sulphate: If there is a risk of corrosion in the public sewers, the authorities shall specify a value for admissible sulphate concentrations in each individual case.</td></tr>
 <tr><td>3</td><td>Processing wastes containing mercury</td><td>Mercury (Hg): – 0.05 mg/l Hg in monthly average – 0.1 mg/l Hg in daily average</td><td>Mercury (Hg): – 0.05 mg/l Hg in monthly average – 0.1 mg/l Hg in daily average</td></tr>
 <tr><td>4</td><td>Desilverisation of fixative baths</td><td>Silver (Ag): The authorities set the requirements from case to case.</td><td>Silver (Ag): – 5 mg/l Ag</td></tr>
-<tr><td>5</td><td>Desilverisation of bleach- hardeners</td><td>Silver (Ag) and bleaching agents: The authorities shall apply the requirements in each individual case.</td><td>Silver (Ag) and bleaching agents: – 5 mg/l Ag *Poorly biodegradable bleaching agents (esp**e**cially Fe-EDTA -complex and EDTA-surplus):* – the authorities set the requirements from case to case.</td></tr>
+<tr><td>5</td><td>Desilverisation of bleach- hardeners</td><td>Silver (Ag) and bleaching agents: The authorities shall apply the requirements in each individual case.</td><td>Silver (Ag) and bleaching agents: – 5 mg/l Ag *Poorly biodegradable bleaching agents (especially Fe-EDTA -complex and EDTA-surplus):* – the authorities set the requirements from case to case.</td></tr>
 <tr><td colspan="4"><sup>a</sup> Guide value for requirements on discharge to be specified by the authorities on a case by case basis depending on the actual conditions.</td></tr>
 </table>
 
@@ -1983,7 +1987,7 @@ For plants that were commissioned before 1 January 1993, the authorities shall s
 <tr><td>5</td><td>Dental surgeries and clinics</td><td>Amalgam: The authorities specify the requirements on a case to case basis.</td><td>Amalgam: Treatment units in which amalgam is processed, shall be equipped with an amalgam separator with a removal efficiency of at least 95%.</td></tr>
 </table>
 
-Annex 3.3*[^t-4]*
+Annex 3.3[^t-4]
 
 (Art. 6 para. 1 and 7 para. 1)
 
@@ -2080,7 +2084,7 @@ Annex 3.3*[^t-4]*
 
 Water from swimming pools may be discharged into a body of water only if it does not contain more than 0.05 mg/l (guide value) of disinfectant (e.g. active chlorine).
 
-Annex 4*[^t-5]*
+Annex 4[^t-5]
 
 (Art. 29 and 31)
 
@@ -2189,7 +2193,7 @@ Groundwater protection areas are demarcated in such a way as to enable the locat
 
 If, due to soil use, waters are polluted in the areas of contribution Z<sub>u</sub> and Z<sub>o</sub> by runoff and leaching of substances such as plant protection products or fertilisers, the cantons shall specify the measures required for waters protection. For example:
 
-- a. restrictions of use for plant protection products and fertilisers specified by the cantons in accordance with Annexes 2.5 number 1.1 paragraph 4 and 2.6 number 3.3.1 paragraph 3 ORRChem[^annex4-lvlu1-lvl2-lvl21-lvl212-1];
+- a. restrictions of use for plant protection products and fertilisers specified by the cantons in accordance with Annexes 2.5 number 1.1 paragraph 4 and 2.6 number 3.3.1 paragraph 3 of the Chemicals Risk Reduction Ordinance of 18 May 2005[^annex4-lvlu1-lvl2-lvl21-lvl212-1] (ORRChem);
 - b. limiting the areas for production of large crops and vegetables;
 - c. limiting crop selection and rotation as well as farming techniques;
 - d. refraining from ploughing grasslands in autumn;
@@ -2229,17 +2233,13 @@ If, due to soil use, waters are polluted in the areas of contribution Z<sub>u</s
 - b. building activities that have detrimental effects on the hydrodynamics of the groundwater;
 - c. infiltration of waste water, with the exception of the infiltration of non-polluted waste water (Art. 3 para. 3) through a biologically active layer of soil and of polluted communal waste water from small treatment plants in compliance with the requirements of Article 8 paragraph 2, if the cost of discharging the communal waste water from the protection zone would disproportionate and a risk to drinking water sources can be excluded;
 - d. substantial reductions in the protective covering (soil and protective layer);
-- e. pipelines subject to the Pipelines Act of 4 October 1963[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1]; exempted therefrom are gas pipelines;
+- e. pipelines subject to the Pipelines Act of 4 October 1963; exempted therefrom are gas pipelines;
 - f. circuits that remove heat from or add heat to the subsoil;
 - g. underground storage tanks and pipes containing liquids which may pollute water;
 - h. storage tanks containing liquids which may pollute water with more than 450 l of usable volume in each protective structure; exempted therefrom are free-standing storage tanks with heating oil or diesel that supply energy to buildings or facilities for no more than two years; the total usable volume may amount to a maximum of 30 m<sup>3</sup> for each protective structure;
-- i. operating plants containing liquids which may pollute water with more than 2000 l of usable volume; exempted therefrom are plants that are permitted in Zone S3 under Article 7 paragraph 2 of the Low Current Installations Ordinance of 30 March 1994[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2] or Article 7 paragraph 2 of the Heavy Current Installations Ordinance of 30 March 1994[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3].
+- i. operating plants containing liquids which may pollute water with more than 2000 l of usable volume; exempted therefrom are plants that are permitted in Zone S3 under Article 7 paragraph 2 of the Low Current Installations Ordinance of 30 March 1994 or Article 7 paragraph 2 of the Heavy Current Installations Ordinance of 30 March 1994.
 
 <sup>2</sup> The application of plant protection substances, wood protection substances, as well as fertilisers and similar products, is governed by Annexes 2.4 numbers 1, 2.5 and 2.6 ORRChem.
-
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-1]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-2]: [SR 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^annex4-lvlu1-lvl2-lvl22-lvl221bis-3]: [SR 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
 
 ### 221<sup>ter</sup> Zone S<sub>h</sub>
 
@@ -2271,7 +2271,7 @@ In Zone S1, the only construction work and other activities permitted are those 
 
 <sup>2</sup> If the position and the extent of the future outer protection zone (Zone S3) are known, the corresponding areas must comply with the requirements set out in No 221 paragraph 1.
 
-Annex 4a*[^t-6]*
+Annex 4a[^t-6]
 
 (Art. 41*f* and 42*b*)
 
