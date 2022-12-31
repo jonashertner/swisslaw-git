@@ -3,10 +3,10 @@ canton: ZH
 number: "414.253.115"
 title: Studienordnung für den Masterstudiengang Architektur an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-nachtrag: "68"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2009-12-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_115-2009_12_17-2010_04_01-068.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_115-2009_12_17-2010_04_01-119.html"
 text: pdf
 ---
 
@@ -14,21 +14,26 @@ text: pdf
 
 # Studienordnung für den Masterstudiengang Architektur an der Zürcher Hochschule für Angewandte Wissenschaften
 
-(vom 17. Dezember 2009)<sup>1</sup>
+(vom 17. Dezember 2009)[^t-1]
 
 Die Hochschulleitung,
 
-gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom 29. Januar 2008<sup>2</sup>,
+gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom 29. Januar 2008[^t-2],
 
 beschliesst:
 
+[^t-1]: OS 65, 128. Vom Fachhochschulrat genehmigt am 2. Februar 2010.
+[^t-2]: LS 414.252.3.
+
 ### A. Allgemeine Bestimmungen
+
+[^hAAllgemeineBestim-1]: LS 414.252.3.
 
 #### § 1
 
 **Gegenstand**
 
-Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29. Januar 2008 (RPO)<sup>2</sup> den Masterstudiengang Architektur des Departements Architektur, Gestaltung und Bauingenieurwesen.
+Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29. Januar 2008 (RPO)[^hAAllgemeineBestim-1] den Masterstudiengang Architektur des Departements Architektur, Gestaltung und Bauingenieurwesen.
 
 #### § 2
 
@@ -50,7 +55,9 @@ Einzelheiten zum Studiengang, insbesondere zu den zu belegenden Modulen, den Mod
 
 <sup>1</sup> An der ZHAW oder andernorts erworbene Credits werden grundsätzlich während zehn Jahren ab dem Semester ihres Erwerbs angerechnet.
 
-<sup>2</sup> Studierenden mit einem Diplom eines vierjährigen Architekturstudiums können gestützt auf § 17 RPO<sup>2</sup> Vorkenntnisse im Umfang von höchstens 30 Credits angerechnet werden.
+<sup>2</sup> Studierenden mit einem Diplom eines vierjährigen Architekturstudiums können gestützt auf § 17 RPO[^4-1] Vorkenntnisse im Umfang von höchstens 30 Credits angerechnet werden.
+
+[^4-1]: LS 414.252.3.
 
 #### § 5
 
@@ -60,7 +67,7 @@ Die Belegung von Wahlpflicht- und Wahlmodulen kann mengenmässig beschränkt wer
 
 **1**
 
-- 1\. 4. 10 - 68 § 6. Die Anmeldefristen für Module werden semesterweise durch die Studienleitung festgelegt.
+- 1\. 1. 23 - 119 § 6. Die Anmeldefristen für Module werden semesterweise durch die Studienleitung festgelegt.
 
 **Anmeldefristen**
 
@@ -144,11 +151,11 @@ Das Masterdiplom wird erteilt, wenn a. 120 Credits gemäss Anhang erreicht wurde
 
 <sup>2</sup> Die Modulnoten werden nach Credits gewichtet.
 
-#### § 16
-
 **Titel**
 
-Der Masterstudiengang Architektur wird mit dem Titel «Master of Arts ZFH in Architektur» abgeschlossen.
+§ 16.[^15-1] Der Masterstudiengang Architektur wird mit dem Titel «Master of Arts ZHAW in Architektur» abgeschlossen.
+
+[^15-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 491; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### E. Schluss- und Übergangsbestimmungen
 
@@ -168,13 +175,8 @@ Der Masterstudiengang Architektur wird mit dem Titel «Master of Arts ZFH in Arc
 
 **3**
 
-- 1\. 4. 10 - 68
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Studierende, die bis Ende Frühlingssemester 2012 das Studium nicht abgeschlossen haben, werden für das weitere Studium dieser Studienordnung unterstellt.
 
 <sup>3</sup> Die Studienleitung regelt die Anrechnung bereits erbrachter Leistungen.
-
-## Weitere Fussnoten
-
-- [1] OS 65, 128. Vom Fachhochschulrat genehmigt am 2. Februar 2010.
-- [2] LS 414.252.3.
