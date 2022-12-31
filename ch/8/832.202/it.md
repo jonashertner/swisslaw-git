@@ -4,11 +4,11 @@ title: "Ordinanza del 20 dicembre 1982 sull'assicurazione contro gli infortuni (
 short: OAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20220101/it"
 
 (OAINF)
 
-del 20 dicembre 1982 (Stato 1° gennaio 2022)
+del 20 dicembre 1982 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -229,7 +229,7 @@ Le sostanze nocive e le malattie provocate da determinati lavori ai sensi dell�
 
 ## Titolo terzo: Prestazioni assicurative
 
-### Capitolo 1: Prestazioni sanitarie e rimborso delle spese (prestazioni in natura)****
+### Capitolo 1: Prestazioni sanitarie e rimborso delle spese (prestazioni in natura)
 
 [^tit3-chap1-1]
 
@@ -715,7 +715,7 @@ In caso di rinascita del diritto a una rendita, le indennità di rincaro corrisp
 
 <sup>3</sup> Per il calcolo di una rendita complementare in caso di reiterato infortunio, la rendita riscattata è considerata mantenuta.
 
-### Capitolo 3: Riduzione e rifiuto di prestazioni assicurative per motivi particolari****
+### Capitolo 3: Riduzione e rifiuto di prestazioni assicurative per motivi particolari
 
 [^tit3-chap3-1]
 
@@ -783,13 +783,13 @@ Le prestazioni in contanti sono ridotte di almeno la metà in caso d’infortuni
 
 [^52-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
-### Capitolo 4:**** Determinazione ed effettuazione delle prestazioni
+### Capitolo 4: Determinazione ed effettuazione delle prestazioni
 
 [^tit3-chap4-1]
 
 [^tit3-chap4-1]: Originario capitolo 5.
 
-### Sezione 1: Constatazione dell’infortunio****
+### Sezione 1: Constatazione dell’infortunio
 
 [^tit3-chap4-sec1-1]
 
@@ -932,7 +932,7 @@ In caso di compensazione, l’assicuratore deve badare a che l’assicurato o i 
 
 [^65-1]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
-### Sezione 3: Versamento di arretrati****
+### Sezione 3: Versamento di arretrati
 
 [^tit3-chap4-sec3-1]
 
@@ -944,13 +944,13 @@ In caso di compensazione, l’assicuratore deve badare a che l’assicurato o i 
 
 L’avente diritto, se non ha ricevuto le dovute prestazioni o ne ha ricevuto solo una parte, può richiedere all’assicuratore il versamento degli arretrati. L’assicuratore, se è a conoscenza che non sono state versate prestazioni, o lo sono state solo in parte, deve provvedere immediatamente al pagamento degli arretrati, anche se l’avente diritto non ne ha fatto richiesta.
 
-## Titolo quarto: Diritto sanitario e tariffe****
+## Titolo quarto: Diritto sanitario e tariffe
 
 [^tit4-1]
 
 [^tit4-1]: Originario avanti art. 68.
 
-### Capitolo 1:**** Principi delle cure
+### Capitolo 1: Principi delle cure
 
 [^tit4-chap1-1]
 
@@ -962,7 +962,7 @@ L’avente diritto, se non ha ricevuto le dovute prestazioni o ne ha ricevuto so
 
 <sup>2</sup> Le cure mediche e i mezzi ausiliari sono appropriati se sono idonei e necessari a conseguire l’obiettivo legale ragionevolmente commisurato tra costi e benefici secondo le circostanze concrete del caso specifico.
 
-### Capitolo 1*a*: Ospedali e personale sanitario****
+### Capitolo 1*a*: Ospedali e personale sanitario
 
 [^tit4-chap1a-1]
 
@@ -990,7 +990,7 @@ Gli articoli 44 e 46–54 dell’ordinanza del 27 giugno 1995[^69-2] sull’assi
 [^69-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^69-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
-### Capitolo 1*b*:**** Fatturazione****
+### Capitolo 1*b*: Fatturazione
 
 [^tit4-chap1b-1][^tit4-chap1b-2]
 
@@ -1048,7 +1048,11 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 <sup>2</sup> Il termine per la disdetta di convenzioni tariffali e di collaborazione è di almeno sei mesi.
 
+<sup>3</sup> La comunicazione dei dati secondo l’articolo 56 capoverso 3<sup>bis</sup> LAINF, la trasmissione dei dati, la sicurezza e la conservazione dei dati sono retti per analogia dagli articoli 59*f,* 59*g* e 59*i* dell’ordinanza del 27 giugno 1995[^70b-2] sull’assicurazione malattie (OAMal).[^70b-3]
+
 [^70b-1]: Introdotto dal n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^70b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^70b-3]: Introdotto dall’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 70c
 
@@ -1683,13 +1687,17 @@ I premi sono riscossi sul guadagno assicurato ai sensi dell’articolo 22 capove
 
 **Supplemento per pagamento rateale dei premi e interessi di mora**[^117-1]
 
-<sup>1</sup> Il supplemento per pagamento rateale dei premi ammonta all’1,250 per cento del premio annuo per il pagamento semestrale e all’1,875 per cento per quello trimestrale. L’assicuratore può riscuotere prorata un supplemento minimo di 10 franchi.
+<sup>1</sup> Il supplemento per pagamento rateale dei premi ammonta allo 0,25 per cento del premio annuo per il pagamento semestrale e allo 0,375 per cento per quello trimestrale. L’assicuratore può riscuotere prorata un supplemento minimo di 10 franchi.[^117-2]
+
+<sup>1bis</sup> Se il datore di lavoro o l’assicurato a titolo facoltativo è in mora riguardo a più di un pagamento rateale, l’assicuratore è autorizzato a revocare la modalità di pagamento rateale. L’assicuratore informa il datore di lavoro o l’assicurato a titolo facoltativo in merito alla revoca della modalità di pagamento dei premi. Con la revoca della modalità di pagamento, l’importo residuo del premio diventa esigibile.[^117-3]
 
 <sup>2</sup> Il termine di pagamento dei premi è di un mese a contare dalla scadenza. Scaduto questo termine, deve essere prelevato un interesse mensile di mora dello 0,5 percento.
 
 <sup>3</sup> Supplementi e interessi di mora non possono essere dedotti dal salario del lavoratore.
 
 [^117-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^117-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
+[^117-3]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
 
 #### Art. 117a
 
@@ -1843,7 +1851,7 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 [^128-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
-## Titolo ottavo: Assicurazione contro gli infortuni dei disoccupati****
+## Titolo ottavo: Assicurazione contro gli infortuni dei disoccupati
 
 [^tit8-1]
 
@@ -1897,7 +1905,7 @@ Una decisione va notificata per iscritto se concerne segnatamente:
 
 [^131-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
-## Titolo ottavo *a*: Assicurazione contro gli infortuni delle persone di cui all’articolo 1*a* capoverso 1 lettera c della legge****
+## Titolo ottavo *a*: Assicurazione contro gli infortuni delle persone di cui all’articolo 1*a* capoverso 1 lettera c della legge
 
 [^tit8a-1]
 
@@ -2046,7 +2054,7 @@ Nei limiti dell’articolo 22 capoverso 1, i premi e le prestazioni in contanti 
 
 Nell’assicurazione facoltativa sono versate indennità di rincaro solo se coperte da eccedenze d’interessi.
 
-## Titolo decimo:**** Giurisdizione
+## Titolo decimo: Giurisdizione
 
 [^tit10-1]
 
@@ -2060,13 +2068,13 @@ Nell’assicurazione facoltativa sono versate indennità di rincaro solo se cope
 
 [^140a-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Titolo undicesimo: Disposizioni finali****
+## Titolo undicesimo: Disposizioni finali
 
 [^tit11-1]
 
 [^tit11-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
-### Capitolo 1: Abrogazione di ordinanze****
+### Capitolo 1: Abrogazione di ordinanze
 
 [^tit11-chap1-1]
 
@@ -2174,7 +2182,7 @@ L’aliquota graduata di riduzione ai sensi del numero II capoverso 2 della modi
 
 Lapresente ordinanza entra in vigore il 1° gennaio 1984.
 
-## Disposizioni finali della modifica del 9 dicembre 1996****
+## Disposizioni finali della modifica del 9 dicembre 1996
 
 [^u1-1]
 
@@ -2186,7 +2194,7 @@ Lapresente ordinanza entra in vigore il 1° gennaio 1984.
 
 [^u1-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 14, 77 lett. b)
 
@@ -2461,7 +2469,7 @@ Zinco e suoi composti
 <tr><td>Anchilostomiasi, clonorchiasi, colera, febbre emorragica, filariasi, lebbra, leishmaniosi, oncocercosi, salmonellosi, schistosomiasi, shigellosi, strongiloidosi, tracoma, tripanosiomasi</td><td colspan="2">contratte durante un soggiorno in regioni tropicali e subtropicali, per ragioni di lavoro</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 25 cpv. 1)
 
@@ -2471,7 +2479,7 @@ Allegato 2*[^t-2]*
 
 L’indennità giornaliera è calcolata conformemente alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/it/xml/image/image1.png)
 
 Esempi
 
@@ -2484,7 +2492,7 @@ Esempi
 <tr><td>[tab] Tredicesima mensilità</td><td>3 650.—</td></tr>
 <tr><td>[tab] Assegni familiari: 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/it/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/it/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Numero di giorni: 13</td><td></td></tr>
 <tr><td>[tab] Totale: 13 × 113.60 = fr. 1 476.80 arrotondati a</td><td>1 477.—</td></tr>
 <tr><td>b) Salario orario</td><td></td></tr>
@@ -2496,12 +2504,12 @@ Esempi
 <tr><td>[tab] Tredicesima</td><td>3 557.30</td></tr>
 <tr><td>[tab] Assegni familiari: fr. 365.– ×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/it/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/it/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>Numero di giorni: 22</td><td></td></tr>
 <tr><td>Totale: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 36 cpv. 2)
 

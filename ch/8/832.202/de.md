@@ -4,11 +4,11 @@ title: Verordnung vom 20. Dezember 1982 über die Unfallversicherung (UVV)
 short: UVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20220101/de"
 
 (UVV)
 
-vom 20. Dezember 1982 (Stand am 1. Januar 2022)
+vom 20. Dezember 1982 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -218,7 +218,7 @@ Die schädigenden Stoffe und arbeitsbedingten Erkrankungen im Sinne von Artikel 
 
 ## Dritter Titel: Versicherungsleistungen
 
-### 1. Kapitel: Pflegeleistungen und Kostenvergütungen (Sachleistungen)****
+### 1. Kapitel: Pflegeleistungen und Kostenvergütungen (Sachleistungen)
 
 [^tit3-chap1-1]
 
@@ -693,7 +693,7 @@ Beim Wiederaufleben einer Rente sind die Teuerungszulagen gleich hoch, wie wenn 
 
 <sup>3</sup> Bei einem späteren Unfall gilt eine ausgekaufte Rente für die Berechnung einer Komplementärrente als fortbestehend.
 
-### 3. Kapitel: Kürzung und Verweigerung von Versicherungsleistungen aus besonderen Gründen****
+### 3. Kapitel: Kürzung und Verweigerung von Versicherungsleistungen aus besonderen Gründen
 
 [^tit3-chap3-1]
 
@@ -758,7 +758,7 @@ Die Geldleistungen werden mindestens um die Hälfte gekürzt für Nichtberufsunf
 
 [^52-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
-### 4. Kapitel:**** Festsetzung und Gewährung der Leistungen
+### 4. Kapitel: Festsetzung und Gewährung der Leistungen
 
 [^tit3-chap4-1]
 
@@ -895,7 +895,7 @@ Der Versicherer hat bei der Verrechnung darauf zu achten, dass dem Versicherten 
 
 [^65-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
-### 3. Abschnitt: Nachzahlung****
+### 3. Abschnitt: Nachzahlung
 
 [^tit3-chap4-sec3-1]
 
@@ -907,13 +907,13 @@ Der Versicherer hat bei der Verrechnung darauf zu achten, dass dem Versicherten 
 
 Hat ein Anspruchsberechtigter keine oder niedrigere Leistungen bezogen als ihm zustehen, so kann er sie vom Versicherer nachfordern. Erhält ein Versicherer davon Kenntnis, dass keine oder zu niedrige Leistungen bezahlt wurden, so hat er den entsprechenden Betrag nachzuzahlen, auch wenn der Anspruchsberechtigte es nicht verlangt.
 
-## Vierter Titel: Medizinalrecht und Tarifwesen****
+## Vierter Titel: Medizinalrecht und Tarifwesen
 
 [^tit4-1]
 
 [^tit4-1]: Ursprünglich: vor Art. 68.
 
-### 1. Kapitel:**** Grundsätze der Versorgung
+### 1. Kapitel: Grundsätze der Versorgung
 
 [^tit4-chap1-1]
 
@@ -925,7 +925,7 @@ Hat ein Anspruchsberechtigter keine oder niedrigere Leistungen bezogen als ihm z
 
 <sup>2</sup> Heilbehandlungen und Hilfsmittel sind zweckmässig, wenn sie aufgrund der konkreten Umstände des Einzelfalls geeignet und notwendig sind, um das gesetzliche Ziel in einem vernünftigen Verhältnis zwischen Kosten und Nutzen zu erreichen.
 
-### 1*a*. Kapitel: Spitäler und Medizinalpersonen****
+### 1*a*. Kapitel: Spitäler und Medizinalpersonen
 
 [^tit4-chap1a-1]
 
@@ -954,7 +954,7 @@ Die Artikel 44 und 46–54 der Verordnung vom 27. Juni 1995[^69-2] über die Kra
 [^69-3]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^69-4]: Ausdruck gemäss Ziff. I Abs. 2 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
-### 1*b*. Kapitel:**** Rechnungstellung****
+### 1*b*. Kapitel: Rechnungstellung
 
 [^tit4-chap1b-1][^tit4-chap1b-2]
 
@@ -1012,7 +1012,11 @@ Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leist
 
 <sup>2</sup> Die Frist zur Kündigung von Zusammenarbeits- und Tarifverträgen beträgt mindestens sechs Monate.
 
+<sup>3</sup> Für die Datenbekanntgabe nach Artikel 56 Absatz 3<sup>bis</sup> UVG, die Übermittlung der Daten, die Sicherheit und die Aufbewahrung der Daten sind die Artikel 59*f*, 59*g* und 59*i* der Verordnung vom 27. Juni 1995[^70b-2] über die Krankenversicherung (KVV) sinngemäss anwendbar.[^70b-3]
+
 [^70b-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^70b-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^70b-3]: Eingefügt durch Anhang Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 70c
 
@@ -1633,14 +1637,17 @@ Die Prämien werden auf dem versicherten Verdienst im Sinne von Artikel 22 Absä
 
 **Zuschlag für ratenweise Prämienzahlung und Verzugszinsen**
 
-<sup>1</sup> Der Zuschlag für ratenweise Prämienzahlung beträgt bei halbjährlicher Prämienzahlung 1,250 Prozent und bei vierteljährlicher Prämienzahlung 1,875 Prozent der Jahresprämie. Der Versicherer kann pro Rate einen Mindestzuschlag von 10 Franken erheben.[^117-1]
+<sup>1</sup> Der Zuschlag für ratenweise Prämienzahlung beträgt bei halbjährlicher Prämienzahlung 0,25 Prozent und bei vierteljährlicher Prämienzahlung 0,375 Prozent der Jahresprämie. Der Versicherer kann pro Rate einen Mindestzuschlag von 10 Franken erheben.[^117-1]
 
-<sup>2</sup> Die Zahlungsfrist für Prämien beträgt einen Monat nach Fälligkeit. Nach dieser Frist ist pro Monat 0,5 Prozent Verzugszins zu erheben.[^117-2]
+<sup>1bis</sup> Ist der Arbeitgeber oder der freiwillig Versicherte mit mehr als einer Ratenzahlung in Verzug, so ist der Versicherer berechtigt, den Ratenzahlungsmodus aufzuheben. Der Versicherer informiert den Arbeitgeber oder den freiwillig Versicherten über die Aufhebung des Prämienzahlungsmodus. Mit der Aufhebung des Prämienzahlungsmodus wird der Restbetrag der Prämie fällig.[^117-2]
+
+<sup>2</sup> Die Zahlungsfrist für Prämien beträgt einen Monat nach Fälligkeit. Nach dieser Frist ist pro Monat 0,5 Prozent Verzugszins zu erheben.[^117-3]
 
 <sup>3</sup> Zuschlag und Verzugszinsen dürfen dem Arbeitnehmer nicht vom Lohn abgezogen werden.
 
-[^117-1]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^117-2]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^117-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
+[^117-2]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
+[^117-3]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 117a
 
@@ -1789,7 +1796,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 
 [^128-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
-## Achter Titel: Unfallversicherung von arbeitslosen Personen****
+## Achter Titel: Unfallversicherung von arbeitslosen Personen
 
 [^tit8-1]
 
@@ -1843,7 +1850,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 
 [^131-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
-## Achter Titel *a*: Unfallversicherung von Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes****
+## Achter Titel *a*: Unfallversicherung von Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes
 
 [^tit8a-1]
 
@@ -1987,7 +1994,7 @@ Die Prämien und Geldleistungen werden im Rahmen von Artikel 22 Absatz 1 nach de
 
 In der freiwilligen Versicherung werden Teuerungszulagen nur so weit gewährt, als sie durch Zinsüberschüsse gedeckt sind.
 
-## Zehnter Titel:**** Rechtspflege
+## Zehnter Titel: Rechtspflege
 
 [^tit10-1]
 
@@ -2001,7 +2008,7 @@ In der freiwilligen Versicherung werden Teuerungszulagen nur so weit gewährt, a
 
 [^140a-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Elfter Titel: Schlussbestimmungen****
+## Elfter Titel: Schlussbestimmungen
 
 [^tit11-1]
 
@@ -2109,7 +2116,7 @@ Der abgestufte Kürzungssatz nach Ziffer II Absatz 2 der Änderung vom 25. Septe
 
 Diese Verordnung tritt am 1. Januar 1984 in Kraft.
 
-## Schlussbestimmungen der Änderung vom 9. Dezember 1996****
+## Schlussbestimmungen der Änderung vom 9. Dezember 1996
 
 [^u1-1]
 
@@ -2121,7 +2128,7 @@ Diese Verordnung tritt am 1. Januar 1984 in Kraft.
 
 [^u1-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 14 und 77 Bst. b)
 
@@ -2170,7 +2177,7 @@ Liste der schädigenden Stoffe und der arbeitsbedingten Erkrankungen nach Artike
 <tr><td>Ankylostomiasis, Cholera, Clonorchiasis, Filariasis, Hämorrhagische Fieber, Leishmaniasis, Lepra, Onchozerciasis, Salmonellosen, Shigellosen, Schistosomiasis, Strongyloidiasis, Trachom, Trypanosomiasis</td><td>Beruflich bedingter Aufenthalt in tropischen/subtropischen Gebieten</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 25 Abs. 1)
 
@@ -2181,7 +2188,7 @@ Anhang 2*[^t-2]*
 Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 
 <table>
-<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="10">Beispiele</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="5"></td></tr>
 <tr><td>a.</td><td colspan="11">Monatslohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="11">Grundlohn pro Monat</td><td colspan="3">Fr.</td><td colspan="4">3650.—</td><td colspan="2"></td></tr>
@@ -2192,7 +2199,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>51 830.—</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
 <tr><td></td><td colspan="16">Anzahl Tage: 13</td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="16">Total: 13 × 113.60 = Fr. 1476.80 gerundet auf</td><td colspan="3">Fr.</td><td>1 477.—</td></tr>
 <tr><td>b.</td><td colspan="11">Stundenlohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
@@ -2205,12 +2212,12 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>50 642.30</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
 <tr><td></td><td colspan="11">Anzahl Tage: 22</td><td colspan="5"></td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="11">Total: 22 × 111.–</td><td colspan="5"></td><td colspan="3">Fr.</td><td>2 442.—</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 36 Abs. 2)
 

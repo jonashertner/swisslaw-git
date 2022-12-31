@@ -4,11 +4,11 @@ title: "Ordonnance du 20 décembre 1982 sur l'assurance-accidents (OLAA)"
 short: OLAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20220101/fr"
 
 (OLAA)
 
-du 20 décembre 1982 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 décembre 1982 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -27,7 +27,7 @@ arrête:
 
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^ingress-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-3]: [[RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836), [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 66[733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)disp. fin. art. 7 ch. 3 2363 annexe ch. 2, **1993** 3204, **1995** 1328 annexe ch. 23517 ch. I 12 5679, **2000** 2355 annexe ch. 28, 29, **2003** 232, **2004** 1677 annexe ch. 42617 annexe ch. 12. [RO 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)annexe ch. I 3]. Voir actuellement la loi du 17 déc. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^ingress-3]: [[RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 66,[733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)disp. fin. art. 7 ch. 3, 2363 annexe ch. 2; **1993** 3204; **1995** 1328 annexe ch. 2,3517 ch. I 12, 5679; **2000** 2355 annexe ch. 28, 29; **2003** 232; **2004** 1677 annexe ch. 4,2617 annexe ch. 12. [RO 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)annexe ch. I 3]. Voir actuellement la loi du 17 déc. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ## Titre 1 Personnes assurées
@@ -81,7 +81,7 @@ Ne sont pas assurés à titre obligatoire:
 [^2-7]: Introduite par le ch. I de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogée par le ch. I de l’O du 9 nov. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^2-8]: Introduite par le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^2-9]: Introduite par le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6227](https://fedlex.data.admin.ch/eli/oc/2012/731)).
-[^2-10]: Introduit par le ch. I de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogé par le ch. 3 de l’annexe à l’O du 6 sept. 2006 sur le travail au noir, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^2-10]: Introduit par le ch. I de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogé par l’annexe ch. 3 de l’O du 6 sept. 2006 sur le travail au noir, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
 #### Art. 3
 
@@ -97,10 +97,10 @@ Ne sont pas assurés à titre obligatoire:
 
 <sup>5</sup> Les personnes bénéficiaires de privilèges, d’immunités et de facilités visées à l’art. 2, al. 2, let. a, de la loi du 22 juin 2007 sur l’État hôte[^3-3] qui sont employées par une organisation intergouvernementale, une institution internationale, un secrétariat ou autre organe créé par un traité international, un tribunal international, un tribunal arbitral ou un autre organisme international au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte ne sont pas assurées. Sont assurées les personnes qui sont occupées par une telle organisation dans la mesure où celle-ci ne leur accorde pas une protection équivalente contre les suites d’accidents et de maladies professionnelles.[^3-4]
 
-[^3-1]: Nouvelle teneur selon le ch. 16 de l’annexe à l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^3-2]: Nouvelle teneur selon le ch. 16 de l’annexe à l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^3-1]: Nouvelle teneur selon l’annexe ch. 16 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^3-2]: Nouvelle teneur selon l’annexe ch. 16 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^3-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^3-4]: Nouvelle teneur selon le ch. 16 de l’annexe à l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^3-4]: Nouvelle teneur selon l’annexe ch. 16 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 4
 
@@ -223,7 +223,7 @@ Les substances nocives et les maladies dues à certains travaux au sens de l’a
 
 ## Titre 3 Prestations d’assurance
 
-### Chapitre 1 Prestations pour soins et remboursement de frais (Prestations en nature)****
+### Chapitre 1 Prestations pour soins et remboursement de frais (Prestations en nature)
 
 [^tit3-chap1-1]
 
@@ -708,7 +708,7 @@ En cas de renaissance du droit à une rente, les allocations de renchérissement
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
-### Chapitre 3 Réduction et refus des prestations d’assurance pour des raisons particulières****
+### Chapitre 3 Réduction et refus des prestations d’assurance pour des raisons particulières
 
 [^tit3-chap3-1]
 
@@ -777,7 +777,7 @@ Les prestations en espèces sont réduites au moins de moitié en cas d’accide
 
 [^52-1]: Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
-### Chapitre 4**** Fixation et allocation des prestations
+### Chapitre 4 Fixation et allocation des prestations
 
 [^tit3-chap4-1]
 
@@ -922,7 +922,7 @@ En cas de compensation, l’assureur doit veiller à ce que l’assuré ou ses s
 
 [^65-1]: Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
-### Section 3 Arriérés****
+### Section 3 Arriérés
 
 [^tit3-chap4-sec3-1]
 
@@ -934,13 +934,13 @@ En cas de compensation, l’assureur doit veiller à ce que l’assuré ou ses s
 
 L’ayant droit peut exiger de l’assureur les prestations qu’il n’a pas reçues ou le moins-perçu lorsque les prestations qu’il a reçues sont inférieures à celles auxquelles il avait droit. Lorsque l’assureur apprend qu’un assuré n’a pas reçu de prestations ou n’a reçu que des prestations insuffisantes, il doit verser l’arriéré correspondant, même si l’ayant droit ne le réclame pas.
 
-## Titre 4 Droit régissant les activités dans le domaine médical et les tarifs****
+## Titre 4 Droit régissant les activités dans le domaine médical et les tarifs
 
 [^tit4-1]
 
 [^tit4-1]: Anciennement avant l’art. 68. Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
-### Chapitre 1**** Principes des soins
+### Chapitre 1 Principes des soins
 
 [^tit4-chap1-1]
 
@@ -952,7 +952,7 @@ L’ayant droit peut exiger de l’assureur les prestations qu’il n’a pas re
 
 <sup>2</sup> Le traitement et les moyens auxiliaires sont appropriés lorsque, en fonction des circonstances concrètes du cas d’espèce, ils sont adéquats et propres à atteindre le but légal dans un rapport coût-bénéfice raisonnable.
 
-### Chapitre 1*a* Hôpitaux et personnes exerçant une activité dans le domaine médical****
+### Chapitre 1*a* Hôpitaux et personnes exerçant une activité dans le domaine médical
 
 [^tit4-chap1a-1]
 
@@ -978,12 +978,12 @@ Les art. 44, et 46 à 54 de l’ordonnance du 27 juin 1995[^69-2] sur l’assura
 
 Le DFI[^69-4] peut désigner d’autres professions paramédicales qui, dans les limites d’une autorisation cantonale, peuvent être exercées à la charge de l’assurance-accidents.
 
-[^69-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 27 juin 1995 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^69-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 27 juin 1995 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 [^69-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^69-3]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^69-4]: Nouvelle expression selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Il a été tenu compte de cette mod. dans tout le texte.
 
-### Chapitre 1*b***** Facturation****
+### Chapitre 1*b* Facturation
 
 [^tit4-chap1b-1][^tit4-chap1b-2]
 
@@ -1041,7 +1041,11 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 <sup>2</sup> Le délai de dénonciation des conventions sur la collaboration et les tarifs est d’au moins six mois.
 
+<sup>3</sup> Les art. 59*f*, 59*h* et 59*i* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^70b-2] sont applicables par analogie à la communication des données au sens de l’art. 56, al. 3<sup>bis</sup>, LAA, ainsi qu’à leur transmission, leur sécurité et leur conservation.[^70b-3]
+
 [^70b-1]: Introduit par le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^70b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^70b-3]: Introduit par l’annexe ch. 3 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 70c
 
@@ -1069,7 +1073,7 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 [^71-1]: Abrogé par le ch. I de l’O du 9 nov. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^71-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^71-3]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 27 juin 1995 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^71-3]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 27 juin 1995 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 
 ## Titre 5 Organisation
 
@@ -1246,7 +1250,7 @@ Les entreprises de travail temporaire au sens de l’art. 66, al. 1, let. o, de 
 
 Sont également visés par l’art. 66, al. 1, let. p, LAA les membres du Conseil fédéral, le chancelier de la Confédération, les tribunaux fédéraux et les institutions affiliées à la Caisse fédérale d’assurance.
 
-[^86-1]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 29 nov. 2013 sur l’organisation du CF, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4561](https://fedlex.data.admin.ch/eli/oc/2013/812)).
+[^86-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 nov. 2013 sur l’organisation du CF, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4561](https://fedlex.data.admin.ch/eli/oc/2013/812)).
 
 #### Art. 87
 
@@ -1290,7 +1294,7 @@ La demande d’enregistrement doit être déposée par écrit et en trois exempl
 
 <sup>5</sup> Par l’enregistrement, les assureurs s’engagent à gérer l’assurance-accidents conformément à la loi. Tout changement de structure qui remet en cause l’accomplissement de cette tâche doit être communiqué sans retard à l’OFSP.
 
-[^90-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 27 juin 1995 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^90-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 27 juin 1995 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 [^90-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^90-3]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
@@ -1469,7 +1473,7 @@ Dans la mesure où la pratique de l’assurance-accidents l’exige, les assureu
 
 <sup>4</sup> Les deux offices coordonnent leur activité de surveillance.
 
-[^104-1]: Abrogé par le ch. 4 de l’annexe à l’O du 27 juin 1995 sur l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^104-1]: Abrogé par l’annexe ch. 4 de l’O du 27 juin 1995 sur l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 
 #### Art. 105
 
@@ -1664,14 +1668,17 @@ Les primes sont perçues sur le gain assuré au sens de l’art. 22, al. 1 et 2.
 
 **Majoration pour paiement échelonné des primes et intérêts moratoires**
 
-<sup>1</sup> La majoration pour paiement échelonné des primes s’élève à 1,250 % de la prime annuelle pour le paiement par semestre et à 1,875 % le paiement par trimestre. L’assureur peut appliquer une majoration minimale de 10 francs par tranche.[^117-1]
+<sup>1</sup> La majoration pour paiement échelonné des primes s’élève à 0,25 % de la prime annuelle pour le paiement par semestre et à 0,375 % pour le paiement par trimestre. L’assureur peut appliquer une majoration minimale de 10 francs par tranche.[^117-1]
 
-<sup>2</sup> Le délai de paiement des primes est d’un mois à compter de l’échéance. À l’expiration de ce délai, l’assureur prélève un intérêt moratoire de 0,5 % par mois.[^117-2]
+<sup>1bis</sup> Si l’employeur ou la personne assurée à titre facultatif a plus d’un paiement en retard, l’assureur est en droit de supprimer la possibilité de paiement échelonné. L’assureur informe l’employeur ou la personne assurée à titre facultatif de la suppression de cette possibilité. La suppression du paiement échelonné entraîne l’exigibilité immédiate du montant restant des primes.[^117-2]
+
+<sup>2</sup> Le délai de paiement des primes est d’un mois à compter de l’échéance. À l’expiration de ce délai, l’assureur prélève un intérêt moratoire de 0,5 % par mois.[^117-3]
 
 <sup>3</sup> Les majorations et les intérêts moratoires ne doivent pas être imputés sur le salaire des travailleurs.
 
-[^117-1]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^117-2]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
+[^117-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
+[^117-2]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 380](https://fedlex.data.admin.ch/eli/oc/2022/380)).
+[^117-3]: Nouvelle teneur selon le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 117a
 
@@ -1701,9 +1708,9 @@ Les primes sont perçues sur le gain assuré au sens de l’art. 22, al. 1 et 2.
 
 <sup>2</sup> Les caisses cantonales de compensation peuvent convenir avec les employeurs qui leur sont affiliés et les assureurs de prélever les primes, contre indemnisation équitable, en même temps que les cotisations de l’AVS. Les art. 131 et 132 du RAVS[^118-4] sont applicables pour les caisses de compensation professionnelles.
 
-[^118-1]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^118-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^118-2]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^118-3]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^118-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^118-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 119
@@ -1824,7 +1831,7 @@ Un émolument est perçu dans les cas visés à l’art. 97, al. 6, de la loi, l
 
 [^128-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
-## Titre 8 Assurance-accidents des personnes au chômage****
+## Titre 8 Assurance-accidents des personnes au chômage
 
 [^tit8-1]
 
@@ -1878,7 +1885,7 @@ Un émolument est perçu dans les cas visés à l’art. 97, al. 6, de la loi, l
 
 [^131-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
-## Titre 8*a* Assurance-accidents des personnes visées à l’art. 1*a*, al. 1, let. c, de la loi****
+## Titre 8*a* Assurance-accidents des personnes visées à l’art. 1*a*, al. 1, let. c, de la loi
 
 [^tit8a-1]
 
@@ -1948,7 +1955,7 @@ Les primes sont fixées en pour-mille:
 
 [^133-1]
 
-[^133-1]: Abrogé par le ch. 17 de l’annexe 3 à l’O du 3 fév. 1993 concernant l’organisation et la procédure des commissions fédérales de recours et d’arbitrage, avec effet au 1<sup>er</sup> mars 1993 ([RO 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
+[^133-1]: Abrogé par l’annexe 3 ch. 17 de l’O du 3 fév. 1993 concernant l’organisation et la procédure des commissions fédérales de recours et d’arbitrage, avec effet au 1<sup>er</sup> mars 1993 ([RO 1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)).
 
 ## Titre 9 Assurance facultative
 
@@ -2022,7 +2029,7 @@ Les primes et les prestations en espèces sont calculées dans les limites de l�
 
 Dans l’assurance facultative, des allocations de renchérissement ne sont versées que si elles sont couvertes par des excédents d’intérêts.
 
-## Titre 10**** Voies de droit
+## Titre 10 Voies de droit
 
 [^tit10-1]
 
@@ -2036,7 +2043,7 @@ Dans l’assurance facultative, des allocations de renchérissement ne sont vers
 
 [^140a-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Titre 11 Dispositions finales****
+## Titre 11 Dispositions finales
 
 [^tit11-1]
 
@@ -2066,7 +2073,7 @@ Sont abrogées:
 
 [^142-1]
 
-[^142-1]: Abrogé par le ch. 4 de l’annexe à l’O du 27 juin 1995 sur l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
+[^142-1]: Abrogé par l’annexe ch. 4 de l’O du 27 juin 1995 sur l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 
 #### Art. 143
 
@@ -2144,7 +2151,7 @@ Le taux de réduction échelonné prévu au ch. II, al. 2, de la modification du
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1984.
 
-## Dispositions transitoires de la modification du 9 décembre 1996****
+## Dispositions transitoires de la modification du 9 décembre 1996
 
 [^u1-1]
 
@@ -2156,7 +2163,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1984.
 
 [^u1-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 14 et 77, let. b)
 
@@ -2451,7 +2458,7 @@ Zinc et ses composés
 <tr><td>Anguillulose, ankylostomiase, bilharziose, choléra, clonorchiase, fièvre hémorragique, filariose, leishmaniose, lèpre, onchocercose, salmonellose, shigellose, trachome, trypanosomiase</td><td>contractées pendant un séjour professionnel dans des régions tropicales et subtropicales</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 25, al. 1)
 
@@ -2461,7 +2468,7 @@ Annexe 2*[^t-2]*
 
 L’indemnité journalière est calculée conformément à la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/fr/xml/image/image1.png)
 
 Exemples
 
@@ -2474,7 +2481,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 650.—</td></tr>
 <tr><td>[tab] Allocations familiales: Fr. 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/fr/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/fr/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 13</td><td></td></tr>
 <tr><td>[tab] Total: 13 × 113.60 = Fr. 1476.80 arrondis à</td><td>1 477.—</td></tr>
 <tr><td>b. Salaire horaire</td><td></td></tr>
@@ -2486,12 +2493,12 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 557.30</td></tr>
 <tr><td>[tab] Allocations familiales Fr. 365.–×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20220101/fr/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/fr/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 22</td><td></td></tr>
 <tr><td>[tab] Total: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 36, al. 2)
 
