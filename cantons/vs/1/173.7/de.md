@@ -4,13 +4,13 @@ number: "173.7"
 title: Gesetz über den Justizrat
 short: GJR
 language: de
-version: 2020-09-01
-corrected: 2021-03-24
-version_adopted: 2019-09-13
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-03-11
 adopted: 2019-09-13
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.7"
-pdf: "https://lex.vs.ch/api/de/versions/2859/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3123/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2859/pdf_file"
 
 (GJR)
 
-vom 13.09.2019 (Stand 01.09.2020)
+vom 13.09.2019 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -370,7 +370,7 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Nicht gewählt werden können:
 
-- a) im Kanton amtierende Richter und Staatsanwälte;
+- a) im Kanton amtierende Richter, Beisitzer und Staatsanwälte;
 - b) Angestellte der Gerichte und der Staatsanwaltschaft des Kantons;
 - c) amtierende Mitglieder des Staatsrates und des Grossen Rates des Kantons Wallis.
 
@@ -476,7 +476,7 @@ beschliesst:[^ingress-1]
 
 **Grundsatz**
 
-<sup>1</sup> Die Kantonsrichter und die Staatsanwälte, die Mitglied des Büros der Staatsanwaltschaft sind, werden auf Vorschlag Justizkommission und aufgrund eines Berichts des Justizrates vom Grossen Rat gewählt. Vom Grossen Rat wählbar sind alle form- und fristgerecht beim Justizrat eingereichten Kandidaturen.
+<sup>1</sup> Die Kantonsrichter, Beisitzer und Staatsanwälte, die Mitglied des Büros der Staatsanwaltschaft sind, werden auf Vorschlag der Justizkommission und aufgrund eines Berichts des Justizrates vom Grossen Rat gewählt. Vom Grossen Rat wählbar sind alle form- und fristgerecht beim Justizrat eingereichten Kandidaturen.
 
 #### Art. 47
 
