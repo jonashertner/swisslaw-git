@@ -4,13 +4,13 @@ number: "910.11"
 title: Landwirtschaftsverordnung
 short: LwV
 language: de
-version: 2020-12-12
-valid_until: 2022-12-31
-version_adopted: 2020-12-08
+version: 2023-01-01
+valid_until: 2023-09-08
+version_adopted: 2022-10-25
 adopted: 2001-04-10
 in_force: 2001-05-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/910.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2302/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2567/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ LwV
 
 (LwV)
 
-vom 10.04.2001 (Stand 12.12.2020)
+vom 10.04.2001 (Stand 01.01.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -31,8 +31,8 @@ vom 10.04.2001 (Stand 12.12.2020)
 
 <sup>1</sup> Diese Verordnung enthält Bestimmungen zum Vollzug folgender Erlasse:
 
-- 1\. Bundesgesetz über die Landwirtschaft[^1-1] und dazugehörige Verordnungen des Bundes;
-- 2\. kantonales Landwirtschaftsgesetz[^1-2].
+- 1\. Bundesgesetz über die Landwirtschaft[^1-1] und dazugehörige Verordnungen des Bundes
+- 2\. kantonales Landwirtschaftsgesetz[^1-2]
 
 [^1-1]: SR [910.1](https://db.clex.ch/link/Bund/910.1/de)
 [^1-2]: RB [910.1](https://www.rechtsbuch.tg.ch/data/910.1/de)
@@ -41,7 +41,7 @@ vom 10.04.2001 (Stand 12.12.2020)
 
 **Departement**
 
-<sup>1</sup> Das Departement für Inneres und Volkswirtschaft ist zuständiges Departement.
+<sup>1</sup> Das Departement für Inneres und Volkswirtschaft (DIV) ist zuständiges Departement.
 
 #### § 3
 
@@ -73,8 +73,8 @@ vom 10.04.2001 (Stand 12.12.2020)
 
 <sup>1</sup> Als Branchen- und Selbsthilfeorganisationen werden namentlich unterstützt:
 
-- 1\. Agro Marketing Thurgau AG;
-- 2\. Maschinen- und Betriebshelferringe.
+- 1\. Agro Marketing Thurgau AG
+- 2\. Maschinen- und Betriebshelferringe
 
 #### § 7
 
@@ -168,11 +168,11 @@ vom 10.04.2001 (Stand 12.12.2020)
 
 <sup>2</sup> Für die Kontrolle und für die Überwachung oder Bekämpfung der Quarantäneorganismen, geregelten Nicht-Quarantäneorganismen, potenziellen Quarantäneorganismen und weiteren Schadorganismen sowie deren Wirtspflanzen sind zuständig:
 
-- 1\. die Bewirtschaftenden für ihre Kulturen;
-- 2\. das kantonale Tiefbauamt entlang von Kantonsstrassen;
-- 3\. die Gemeinde im öffentlichen Raum des Siedlungsgebietes und entlang von Gemeindestrassen;
-- 3a. die Eigentümer und Eigentümerinnen sowie die Besitzer und Besitzerinnen für ihre Grundstücke im Siedlungsgebiet;
-- 4\. die nebenamtlichen Kontrolleure und Kontrolleurinnen für die landwirtschaftlichen und gartenbaulichen Kulturen sowie für das übrige Gebiet.
+- 1\. die Bewirtschaftenden für ihre Kulturen
+- 2\. das kantonale Tiefbauamt entlang von Kantonsstrassen
+- 3\. die Gemeinde im öffentlichen Raum des Siedlungsgebietes und entlang von Gemeindestrassen
+- 3a. die Eigentümer und Eigentümerinnen sowie die Besitzer und Besitzerinnen für ihre Grundstücke im Siedlungsgebiet
+- 4\. die nebenamtlichen Kontrolleure und Kontrolleurinnen für die landwirtschaftlichen und gartenbaulichen Kulturen sowie für das übrige Gebiet
 
 #### § 18a
 
@@ -182,7 +182,7 @@ vom 10.04.2001 (Stand 12.12.2020)
 
 <sup>2</sup> Innerhalb von Gebieten mit geringer Prävalenz sind alle Wirtspflanzen intensiv zu überwachen und es ist der Feuerbrand zu bekämpfen. Als Bekämpfungsmassnahme kann der Pflanzenschutzdienst insbesondere anordnen, dass befallene oder positiv getestete Pflanzenteile durch Rückschnitt beziehungsweise Rückriss entfernt und sachgerecht vernichtet werden.
 
-<sup>3</sup> Als Gebiete mit geringer Prävalenz gelten:
+<sup>3</sup> Als Gebiete mit geringer Prävalenz gelten,
 
 - 1\. die im Anhang 5 zu dieser Verordnung aufgeführten Politischen Gemeinden und
 - 2\. einzelne wertvolle Bestände von Wirtspflanzen des Feuerbrandes im übrigen Kantonsgebiet, die auf Gesuch des Pflanzenschutzdienstes vom Bundesamt für Landwirtschaft als Gebiete mit geringer Prävalenz anerkannt worden sind.
@@ -245,9 +245,9 @@ vom 10.04.2001 (Stand 12.12.2020)
 
 <sup>1</sup> Ein Entschädigungsanspruch ist ausgeschlossen für:
 
-- 1\. Bewirtschaftende, die ihr Land in der jährlich stattfindenden landwirtschaftlichen Betriebsstrukturerhebung nicht deklariert haben;
-- 2\. Bewirtschaftende, die beim letzten Beitragseinzug nicht beitragspflichtig waren oder keine Beiträge geleistet haben;
-- 3\. Schäden an Zier- und Wildpflanzen.
+- 1\. Bewirtschaftende, die ihr Land in der jährlich stattfindenden landwirtschaftlichen Betriebsstrukturerhebung nicht deklariert haben
+- 2\. Bewirtschaftende, die beim letzten Beitragseinzug nicht beitragspflichtig waren oder keine Beiträge geleistet haben
+- 3\. Schäden an Zier- und Wildpflanzen
 
 #### § 25
 
@@ -313,12 +313,12 @@ vom 10.04.2001 (Stand 12.12.2020)
 
 <sup>3</sup> Zusätzlich werden Pauschalbeträge von je Fr. 20 pro Jahr und Direktzahlungsart für die Kontrollen von angemeldeten Programmen für folgende Direktzahlungsarten erhoben:
 
-- 1\. Beitrag für extensive Produktion von Getreide, Sonnenblumen, Eiweisserbsen, Ackerbohnen und Raps;
-- 2\. Beitrag für graslandbasierte Milch- und Fleischproduktion;
-- 3\. Tierwohlbeitrag BTS pro Tiergattung (maximal zwei Tiergattungen pro Betrieb);
-- 4\. Tierwohlbeitrag RAUS pro Tiergattung (maximal zwei Tiergattungen pro Betrieb);
-- 5\. Beitrag für emissionsmindernde Ausbringverfahren;
-- 6\. Beitrag für schonende Bodenbearbeitung.
+- 1\. Beitrag für extensive Produktion von Getreide, Sonnenblumen, Eiweisserbsen, Ackerbohnen und Raps
+- 2\. Beitrag für graslandbasierte Milch- und Fleischproduktion
+- 3\. Tierwohlbeitrag BTS pro Tiergattung (maximal zwei Tiergattungen pro Betrieb)
+- 4\. Tierwohlbeitrag RAUS pro Tiergattung (maximal zwei Tiergattungen pro Betrieb)
+- 5\. Beitrag für emissionsmindernde Ausbringverfahren
+- 6\. Beitrag für schonende Bodenbearbeitung
 
 <sup>4</sup> Für zusätzliche Kontrollen gemäss Art. 4 Abs. 1 lit. a VKKL, die aufgrund von Mängeln bei früheren Kontrollen durchgeführt werden, wird ein Pauschalbetrag von Fr. 250 erhoben.
 
@@ -395,8 +395,8 @@ vom 10.04.2001 (Stand 12.12.2020)
 <sup>1</sup> In den Anhängen zu dieser Verordnung werden festgelegt:
 
 - 1\. …
-- 2\. Zusatzbezeichnungen zur kontrollierten Ursprungsbezeichnung Thurgau nach Gemeinden, ehemaligen Gemeinden oder Ortsteilen (Anhang 2);
-- 3\. Zusatzbezeichnungen zur kontrollierten Ursprungsbezeichnung Thurgau nach Reblagen (Anhang 3).
+- 2\. Zusatzbezeichnungen zur kontrollierten Ursprungsbezeichnung Thurgau nach Gemeinden, ehemaligen Gemeinden oder Ortsteilen (Anhang 2)
+- 3\. Zusatzbezeichnungen zur kontrollierten Ursprungsbezeichnung Thurgau nach Reblagen (Anhang 3)
 
 #### § 36abis
 
@@ -432,10 +432,10 @@ vom 10.04.2001 (Stand 12.12.2020)
 
 <sup>3</sup> Der Gehalt an flüchtiger Essigsäure darf folgende Werte nicht überschreiten, wobei 1 Milliäquivalent 0.06 Gramm pro Liter flüchtiger Säure entspricht:
 
-- 1\. 18 Milliäquivalent pro Liter bei teilweise vergorenem Traubenmost sowie bei Weisswein und Roséwein;
-- 2\. 20 Milliäquivalent pro Liter bei Rotwein;
-- 3\. 30 Milliäquivalent pro Liter bei Süsswein;
-- 4\. 35 Milliäquivalent pro Liter bei Eiswein;
+- 1\. 18 Milliäquivalent pro Liter bei teilweise vergorenem Traubenmost sowie bei Weisswein und Roséwein
+- 2\. 20 Milliäquivalent pro Liter bei Rotwein
+- 3\. 30 Milliäquivalent pro Liter bei Süsswein
+- 4\. 35 Milliäquivalent pro Liter bei Eiswein
 
 <sup>4</sup> Zur Bereitung von Weinen mit kontrollierter Ursprungsbezeichnung sind die Verfahren erlaubt, die im Anhang 9 der Verordnung des EDI über Getränke aufgelistet und in dessen Anlagen 1 bis 16 geregelt sind.
 
