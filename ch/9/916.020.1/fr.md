@@ -4,11 +4,11 @@ title: "Ordonnance du DEFR du 23 novembre 2005 concernant l'hygiène dans la pro
 short: OHyPPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/821"
 language: fr
-version: 2015-07-01
+version: 2023-01-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/821/20150701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-821-20150701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20150701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/821/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-821-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/821/20150701/fr"
 
 (OHyPPr)
 
-du 23 novembre 2005 (Etat le 1<sup>er</sup> juillet 2015)
+du 23 novembre 2005 (État le 1<sup>er</sup> janvier 2023)
 
-Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)*[^ingress-1]*,
+Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
 vu les art. 4, al. 4, et 5, al. 1, de l’ordonnance du 23 novembre 2005 sur la production primaire[^ingress-2], vu l’art. 42, al. 6, de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^ingress-3],[^ingress-4]
 
@@ -36,6 +36,8 @@ arrête:
 
 <sup>1</sup> Les installations, les équipements, les conteneurs, les caisses et les moyens de transport utilisés dans le cadre de la production végétale doivent être nettoyés régulièrement.
 
+<sup>1bis</sup> Les équipements, les conteneurs, les caisses et les moyens de transport utilisés pour la récolte, le transport ou l’entreposage de l’un des produits pouvant provoquer des allergies ou d’autres réactions indésirables visés à l’annexe 6 de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^1-1] ne peuvent pas être utilisés pour la récolte, le transport ou l’entreposage de denrées alimentaires ne contenant pas le produit en question, à moins qu’ils n’aient été nettoyés et contrôlés au moins pour vérifier l’absence de débris visibles de ce produit.[^1-2]
+
 <sup>2</sup> Les légumes et les fruits frais ne peuvent être lavés qu’à l’eau potable.
 
 <sup>3</sup> Les déchets et les substances dangereuses doivent être entreposés séparément de façon à éviter toute contamination des denrées alimentaires et des aliments pour animaux.
@@ -44,11 +46,16 @@ arrête:
 
 <sup>5</sup> On prendra toutes les mesures nécessaires contre les maladies des végétaux qui peuvent avoir des incidences négatives sur la santé humaine.
 
+[^1-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^1-2]: Introduit par le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+
 #### Art. 2
 
 **Exigences en matière de production animale**
 
 <sup>1</sup> Les installations, y compris les installations servant à entreposer et manipuler les aliments pour animaux, les locaux servant à l’élevage, les équipements, notamment ceux servant à l’alimentation des animaux, les conteneurs, les caisses et les moyens de transport doivent être nettoyés régulièrement et, au besoin, désinfectés de manière appropriée après le nettoyage.
+
+<sup>1bis</sup> Les équipements, les conteneurs, les caisses et les moyens de transport utilisés pour la récolte, le transport ou l’entreposage de l’un des produits pouvant provoquer des allergies ou d’autres réactions indésirables visés à l’annexe 6 OIDAl[^2-1] ne peuvent pas être utilisés pour le transport ou l’entreposage de denrées alimentaires ne contenant pas le produit en question, à moins qu’ils n’aient été nettoyés et contrôlés au moins pour vérifier l’absence de débris visibles de ce produit.[^2-2]
 
 <sup>2</sup> Les animaux de rente doivent être propres.
 
@@ -63,6 +70,9 @@ arrête:
 <sup>7</sup> On prendra toutes les mesures nécessaires concernant la santé des animaux, notamment celles qui ont une incidence sur les zoonoses.
 
 <sup>8</sup> Les aliments pour animaux et l’eau d’abreuvement ne doivent altérer ni la santé des animaux, ni la qualité des denrées alimentaires qui en sont issues. On ne distribuera que des aliments pour animaux propres, irréprochables du point de vue l’hygiène et non avariés.
+
+[^2-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^2-2]: Introduit par le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
 
 #### Art. 3
 
@@ -81,11 +91,11 @@ Les œufs doivent être conservés dans l’exploitation, au propre, au sec et �
 
 #### Art. 5
 
-**Registre**
+**Traçabilité et registre dans la production végétale[^5-1]**
 
 <sup>1</sup>
 
-Les exploitations actives dans la production primaire tiennent à la disposition de l’autorité compétente un registre concernant:
+Les exploitations actives dans la production végétale tiennent à la disposition de l’autorité compétente un registre concernant:[^5-2]
 
 - a. l’utilisation des produits phytosanitaires et des biocides;
 - b. l’utilisation de semences génétiquement modifiées.
@@ -94,17 +104,21 @@ Les exploitations actives dans la production primaire tiennent à la disposition
 
 <sup>3</sup> Elles conservent les résultats des analyses d’échantillons sur des végétaux qui revêtent une importance pour la santé humaine et que les exploitations reçoivent dans le cadre d’autres dispositions.
 
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+
 #### Art. 6
 
-**Traçabilité et registre**
+**Traçabilité et registre dans la production animale[^6-1]**
 
 <sup>1</sup> Les exploitations actives dans la production animale doivent à tout moment être en mesure de renseigner, par des documents écrits, sur le type et la provenance des aliments pour animaux utilisés.
 
-<sup>2</sup> Lors de l’utilisation de médicaments vétérinaires, les dispositions de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^6-1] sont applicables.
+<sup>2</sup> Lors de l’utilisation de médicaments vétérinaires, les dispositions de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^6-2] sont applicables.
 
 <sup>3</sup> Les exploitations tiennent à la disposition de l’autorité compétente les résultats des analyses d’échantillons et les rapports d’examen sur des animaux ou des produits d’origine animale qui revêtent une importance pour la santé humaine et que les exploitations reçoivent dans le cadre d’autres dispositions.
 
-[^6-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 744](https://fedlex.data.admin.ch/eli/oc/2022/744)).
+[^6-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
 #### Art. 7
 
