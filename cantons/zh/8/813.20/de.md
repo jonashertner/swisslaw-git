@@ -4,11 +4,10 @@ number: "813.20"
 title: Spitalplanungs- und -finanzierungsgesetz (SPFG)
 short: SPFG
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2011-05-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_20-2011_05_02-2012_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_20-2011_05_02-2012_01_01-119.html"
 text: pdf
 ---
 
@@ -59,7 +58,7 @@ trags des Listenspitals erfüllt,
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 - g. Leistungs- Zusammenzug von Diagnosen und Behandlungruppen: gen nach medizinischen und ökonomischen Kriterien zur Vergabe von Leistungsaufträgen,
 
@@ -78,51 +77,55 @@ trags des Listenspitals erfüllt,
 
 ### B. Planung der stationären Spitalversorgung
 
-#### § 4
+**Stationäre KVG-Pflichtleistungen a. Planungsbereiche und Planungsziel**
 
-**Stationäre KVG-Pflichtleistungen a. Planungsbereiche und -ziele**
-
-<sup>1</sup> Die Direktion plant die stationäre Spitalversorgung nach den Vorgaben des KVG.
+§ 4.[^hBPlanungderstati-1] <sup>1</sup> Die Direktion plant die stationäre Spitalversorgung nach den Vorgaben des KVG.
 
 <sup>2</sup> Die Spitalplanung umfasst die Bereiche Untersuchung, Behandlung und Pflege von Patientinnen und Patienten einschliesslich Rehabilitation und eine auch Sterbebegleitung umfassende Palliation.
 
-<sup>3</sup> Die Spitalplanung hat insbesondere folgende Zielsetzungen:
+<sup>3</sup> Ziel der Spitalplanung ist die bedarfsgerechte, qualitativ hochstehende, gut zugängliche, wirtschaftlich tragbare und langfristige Versorgung der Bevölkerung mit stationären und damit verbundenen ambulanten Spitalleistungen.
+
+<sup>4</sup> Das Ziel soll insbesondere mit folgenden Massnahmen erreicht werden:
 
 - a. Zusammenzug von Leistungsgruppen zu übersichtlichen Angeboten, um eine medizinisch oder ökonomisch unzweckmässige Fragmentierung von Leistungen zu verhindern,
 
 - b. Sicherstellung der zeitgerecht zugänglichen Notfallversorgung für Patientinnen und Patienten aus dem gesamten Kantonsgebiet,
 
-- c. Koordination oder Konzentration von seltenen oder komplexen Leistungen, die eine aufwendige Infrastruktur oder spezialisierte Kenntnisse und Fähigkeiten bedingen,
+- c. Koordination und Konzentration von seltenen oder komplexen Leistungen, die eine aufwendige Infrastruktur oder spezialisierte Kenntnisse und Fähigkeiten bedingen,
 
-- d. Koordination oder Konzentration von Leistungen, die in Zusammenhang mit einem universitären Lehr- und Forschungsauftrag stehen.
-
-#### § 5
+- d. Koordination oder Konzentration von Leistungen, die in Zusammenhang mit einem universitären Lehr- und Forschungsauftrag stehen. § 5.[^hBPlanungderstati-1] <sup>1</sup> Leistungsaufträge können Spitälern und Geburtshäusern erteilt werden, die
 
 **b. Anforderungen an die Leistungserbringer**
 
-<sup>1</sup> Leistungsaufträge können Spitälern und Geburtshäusern erteilt werden, die a. eine Infrastruktur aufweisen, welche die Erfüllung des Leistungsauftrags sicherstellt,
+- a. eine Infrastruktur und ausgebildetes Personal aufweisen, welche die Erfüllung des Leistungsauftrags sicherstellen,
 
 - b. über genügende Untersuchungs- und Behandlungskapazitäten verfügen,
 
-- c. ein den Bundesvorgaben genügendes Qualitätssicherungskonzept nachweisen,
+- c. die bundesrechtlichen Anforderungen an Qualität und Wirtschaftlichkeit der Leistungserbringung erfüllen,
 
 - d. die Aufnahmebereitschaft nach den Vorgaben des KVG für Zürcher Patientinnen und Patienten gewährleisten, unabhängig von der voraussichtlichen Kostendeckung im konkreten Fall,
 
-- e. über ein auf die Schnittstellen zu vor- und nachgelagerten Leistungserbringern ausgerichtetes Patientenversorgungskonzept verfügen,
+- e. über ein auf die Schnittstellen zu vor- und nachgelagerten Leistungserbringern ausgerichtetes Patientenversorgungskonzept einschliesslich einer den anerkannten Regeln des eigenen Berufs verpflichteten, allgemein verfügbaren Sozialberatung verfügen,
 
 - f. die Aus- und Weiterbildung einer im Verhältnis zum gesamtkantonalen Bedarf angemessenen Zahl von Angehörigen der Berufe des Gesundheitswesens sicherstellen,
 
-- g. eine Kostenrechnung führen, die eine sachgerechte Abgrenzung der Kosten der Leistungserbringung für die verschiedenen Versicherungsbereiche und weiterer Dienstleistungen ermöglicht.
+- g. eine Kostenrechnung führen, die eine sachgerechte Abgrenzung der Kosten der Leistungserbringung für die verschiedenen Versicherungsbereiche und weiterer Dienstleistungen ermöglicht,
+
+- h. nachweisen, dass die wirtschaftliche Stabilität des Spitals oder Geburtshauses für die Dauer des Leistungsauftrags sichergestellt ist,
+
+- i. über ein Vergütungssystem für angestellte Ärztinnen und Ärzte verfügen, das keine Anreize für eine unwirksame, unzweckmässige oder nicht wirtschaftliche Leistungserbringung setzt und bei dem sich insbesondere Menge und Art der Behandlungen sowie der erzeugte Umsatz nicht wesentlich auf die Vergütung auswirken,
+
+- j. sicherstellen, dass Belegärztinnen und Belegärzte nur wirksame, zweckmässige und wirtschaftliche Leistungen erbringen, insbesondere keine medizinisch nicht indizierten Behandlungen durchführen.
 
 <sup>2</sup> Die Direktion kann die Anforderungen gemäss Abs. 1 in Richtlinien präzisieren oder Verbandsrichtlinien für verbindlich erklären.
 
 <sup>3</sup> Ausnahmsweise können Leistungsaufträge auch Spitälern und Geburtshäusern erteilt werden, die nicht sämtliche Anforderungen nach Abs. 1 erfüllen. Ergeben sich daraus für das Spital oder das Geburtshaus finanzielle oder andere Vorteile, legt die Direktion angemessene Ausgleichsleistungen fest.
 
-#### § 6
+**3**
+
+- 1\. 1. 23 - 119 § 6. <sup>1</sup> Die Leistungsaufträge werden unter den sich dafür bewerbenden Spitälern und Geburtshäusern denjenigen erteilt,
 
 **c. Auswahlkriterien**
-
-<sup>1</sup> Die Leistungsaufträge werden unter den sich dafür bewerbenden Spitälern und Geburtshäusern denjenigen erteilt,
 
 - a. die für eine bedarfsgerechte Spitalversorgung erforderlich sind,
 
@@ -130,45 +133,63 @@ trags des Listenspitals erfüllt,
 
 - c. welche die Anforderungen gemäss § 5 bestmöglich erfüllen.
 
-<sup>2</sup> . . .[^6-1]
+<sup>2</sup> . . .[^hBPlanungderstati-2]
 
-**d. Spitalliste**
+**d. Leistungsaufträge und Spitalliste**
 
-§ 7. <sup>1</sup> Der Regierungsrat genehmigt die Spitalplanung und beschliesst die Spitalliste, mit der den Spitälern und Geburtshäusern die Leistungsaufträge, gegliedert in Leistungsgruppen, zugesprochen werden. Bei verändertem Bedarf passt er die Spitalliste an.
+§ 7.[^hBPlanungderstati-1] <sup>1</sup> Der Regierungsrat a. erteilt den Spitälern und Geburtshäusern Leistungsaufträge und setzt die in Leistungsgruppen gegliederte Spitalliste fest,
 
-<sup>2</sup> Leistungserbringer dürfen die ihnen erteilten Aufträge nicht übertragen.
+- b. umschreibt den Inhalt der Leistungsgruppen,
 
-<sup>3</sup> Im Anhang zur Spitalliste werden festgelegt:
+- c. legt die mit den Leistungsaufträgen verbundenen Anforderungen insbesondere betreffend Infrastruktur, Personal, Qualität, Indikationsqualität, Mindestfallzahlen, Vorsorge für ausserordentliche Lagen, Datenlieferung, Datenschutz und Informationssicherheit fest.
 
-- a. die den Leistungsgruppen zugrunde liegenden medizinischen Leistungseinheiten,
+<sup>2</sup> Die Direktion a. weist die Codes der anerkannten Diagnose- und Behandlungskataloge den Leistungsgruppen zu, wobei sie bei Bedarf medizinische Fachexpertinnen und -experten zuzieht,
 
-- b. die mit den Leistungsaufträgen verbundenen generellen Anforderungen insbesondere an Infrastruktur und Personal.
+- b. kann die vom Regierungsrat festgelegten Anforderungen weiter ausführen.
 
-<sup>4</sup> Die Direktion kann mit den Spitälern und Geburtshäusern das Nähere zu den Leistungsaufträgen vereinbaren. Kommt keine Einigung zustande, entscheidet der Regierungsrat.
+<sup>3</sup> Die Direktion kann mit den Spitälern und Geburtshäusern das Nähere zu den Leistungsaufträgen vereinbaren. Kommt keine Einigung zustande, entscheidet der Regierungsrat.
 
-**3**
+<sup>4</sup> Die Publikation der Spitalliste im Amtsblatt kann sich auf die Verteilung der Leistungsgruppen auf die Spitäler und Geburtshäuser beschränken.
 
-- 1\. 1. 22 - 115
+**e. Geltungsdauer**
 
-<sup>5</sup> Die Publikation der Spitalliste im Amtsblatt kann sich auf die Verteilung der Leistungsgruppen auf die Spitäler und Geburtshäuser beschränken.
+§ 8.[^hBPlanungderstati-1] <sup>1</sup> Leistungsaufträge sind auf die Geltungsdauer der Spitalliste befristet.
 
-<sup>6</sup> Die Direktion passt den Anhang der Spitalliste soweit notwendig an Änderungen der eidgenössischen Tarifstrukturen und die medizinische Entwicklung an.
+<sup>2</sup> Sie können mit einer kürzeren Geltungsdauer erteilt werden.
 
-[^6-1]: Aufgehoben durch G vom 30. September 2019 (OS 75, 326; ABl 2018-11-02). In Kraft seit 1. Juli 2020.
+<sup>3</sup> Sie können mit einer dreijährigen Kündigungsfrist auf das Jahresende ganz oder teilweise gekündigt werden:
 
-#### § 8
+- a. von den Spitälern,
 
-**e. Dauer der Leistungsaufträge**
+- b. vom Regierungsrat, wenn dadurch das Planungsziel gemäss § 4 besser erreicht werden kann.
 
-Die Leistungsaufträge werden grundsätzlich unbefristet erteilt. Kündigungsmodalitäten und allfällige Befristungen können im Anhang zur Spitalliste geregelt werden. Fehlen solche, wird Leistungserbringern, die bei Änderungen der Spitalliste Leistungsaufträge verlieren, eine angemessene Frist gewährt.
+**Anpassung der Spitalliste während der Geltungsdauer**
 
-[^8-1]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
+§ 8 a.[^hBPlanungderstati-3] <sup>1</sup> Der Regierungsrat kann die Spitalliste während ihrer Geltungsdauer insbesondere in folgenden Fällen anpassen, ohne eine umfassende Versorgungsplanung durchzuführen:
+
+- a. zur Abwendung einer Unterversorgung,
+
+- b. zur Abrundung des Leistungsauftrags eines Spitals,
+
+- c. bei Nichteinhaltung der Voraussetzungen für die Erfüllung des Leistungsauftrags,
+
+- d. zur Förderung der Erreichung des Planungsziels gemäss § 4 bei insgesamt unverändertem Leistungsangebot gemäss Spitalliste.
+
+<sup>2</sup> Sind andere Kantone von einer Anpassung betroffen, ist die Spitalplanung gemäss Art. 39 Abs. 2 KVG[^hBPlanungderstati-4] zu koordinieren.
+
+<sup>3</sup> Bei Anpassungen gemäss Abs. 1 lit. a ist die Gleichbehandlung der Spitäler zu wahren.
+
+[^hBPlanungderstati-1]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
+[^hBPlanungderstati-2]: Aufgehoben durch G vom 30. September 2019 (OS 75, 326; ABl 2018-11-02). In Kraft seit 1. Juli 2020.
+[^hBPlanungderstati-3]: Eingefügt durch G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
+[^hBPlanungderstati-4]: SR 832.10.
+[^hBPlanungderstati-5]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
 
 #### § 9
 
 **Weitere Leistungsbereiche**
 
-<sup>1</sup> Listenspitäler können weitere Leistungen anbieten, sofern dadurch die Erfüllung der kantonalen Leistungsaufträge nicht beeinträchtigt wird. Ausgeschlossen sind stationäre Leistungen des Leistungskatalogs der Zürcher Spitalliste, für die sie keinen Leistungsauftrag haben.[^8-1]
+<sup>1</sup> Listenspitäler können weitere Leistungen anbieten, sofern dadurch die Erfüllung der kantonalen Leistungsaufträge nicht beeinträchtigt wird. Ausgeschlossen sind stationäre Leistungen des Leistungskatalogs der Zürcher Spitalliste, für die sie keinen Leistungsauftrag haben.[^hBPlanungderstati-5]
 
 <sup>2</sup> Die Direktion kann weitere Versorgungsleistungen im Bereich der Unfall-, Invaliden- und Militärversicherung in die Planung einbeziehen.
 
@@ -189,6 +210,10 @@ Die Leistungsaufträge werden grundsätzlich unbefristet erteilt. Kündigungsmod
 **Erfüllungsort**
 
 § 9 b.[^hCErfüllungdesLei-1] <sup>1</sup> Ein Listenspital erfüllt den Leistungsauftrag am zugelassenen Standort gemäss gesundheitspolizeilicher Bewilligung.
+
+**5**
+
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Direktion kann einem Listenspital bewilligen, einen Teil der Leistungen ausschliesslich an einem Nebenstandort zu erbringen, sofern die einwandfreie Erfüllung des Leistungsauftrags gewährleistet bleibt und das Ziel der Spitalplanung sowie die Erfüllung der Anforderungen gemäss § 5 und gemäss den Anhängen zur Spitalliste nicht beeinträchtigt werden.
 
@@ -229,11 +254,13 @@ Die Leistungsaufträge werden grundsätzlich unbefristet erteilt. Kündigungsmod
 
 <sup>5</sup> Der Kanton entschädigt Spitäler für angeordnete Vorhalteleistungen in ausserordentlichen Lagen.
 
-**5**
+[^10-1]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
 
-- 1\. 1. 22 - 115 § 12. <sup>1</sup> Der Regierungsrat kann den Listenspitälern Darlehen bis zu 100% der Mittel gewähren, die für die Erstellung oder Beschaffung von für die Spitalversorgung notwendigen Anlagen erforderlich sind.
+#### § 12
 
 **Finanzierung von Anlagen a. Leistungen**
+
+<sup>1</sup> Der Regierungsrat kann den Listenspitälern Darlehen bis zu 100% der Mittel gewähren, die für die Erstellung oder Beschaffung von für die Spitalversorgung notwendigen Anlagen erforderlich sind.
 
 <sup>2</sup> Darlehen werden nur gewährt, wenn sie für einen Betriebsstandort im Kanton benötigt werden und wenn der Betrag 1 Mio. Franken übersteigt.
 
@@ -241,13 +268,13 @@ Die Leistungsaufträge werden grundsätzlich unbefristet erteilt. Kündigungsmod
 
 <sup>4</sup> Anstelle der Gewährung von Darlehen kann der Regierungsrat die Aufnahme von Fremdkapital bei privaten Geldgebern durch die Gewährung von Sicherheiten erleichtern. Abs. 2 und 3 gelten sinngemäss.
 
-[^10-1]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
+[^12-1]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
 
 #### § 13
 
 **b. Modalitäten**
 
-<sup>1</sup> Darlehen sind angemessen zu sichern, zu verzinsen und zu amortisieren.
+<sup>1</sup> Darlehen sind zu sichern, risikobezogen zu verzinsen und innert angemessener Frist zu amortisieren.[^12-1]
 
 <sup>2</sup> Kann ein Darlehen nicht gesichert werden, kann der Regierungsrat Anteile des Kantons am Eigentum des Listenspitals verlangen.
 
@@ -275,6 +302,10 @@ Die Direktion überprüft, ob die Voraussetzungen nach KVG für die Übernahme d
 
 Die Direktion kann einen angemessenen Beitrag bis zu 100% an die ungedeckten Kosten von Behandlungen von Zürcher Patientinnen und Patienten ausrichten, wenn diese aus medizinischen Gründen in Vertragsspitälern oder Spitälern ohne KVG-Bezug hospitalisiert werden müssen.
 
+**7**
+
+- 1\. 1. 23 - 119
+
 [^15-1]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
 
 ### F. Weitere Bestimmungen
@@ -283,7 +314,7 @@ Die Direktion kann einen angemessenen Beitrag bis zu 100% an die ungedeckten Kos
 
 #### § 16
 
-**Gebühren öffentlich-rechtlicher Spitäler**
+**Gebühren**
 
 <sup>1</sup> Die Leistungen der vom Kanton und den Gemeinden betriebenen öffentlich-rechtlichen Spitäler sind gebührenpflichtig.
 
@@ -299,11 +330,11 @@ Die Direktion kann einen angemessenen Beitrag bis zu 100% an die ungedeckten Kos
 
 - d. Taxgaranten und Auftraggeber für Leistungen, die in ihrem Auftrag erbracht worden sind.
 
-<sup>4</sup> Für die kantonalen Spitäler ohne eigene Rechtspersönlichkeit erlässt der Regierungsrat eine Taxordnung.
+<sup>4</sup> . . .[^16-1]
 
 **Datenbearbeitung a. Zweck und Dateninhalt**
 
-§ 17.[^16-1] <sup>1</sup> Die Direktion kann betriebs- und patientenbezogene Daten von Spitälern und Geburtshäusern sowie solche aus Registern von Behörden und Fachorganisationen bearbeiten, soweit sie für den Vollzug dieses Gesetzes und des KVG benötigt werden, insbesondere für a. die Durchführung der Spitalplanung,
+§ 17.[^16-2] <sup>1</sup> Die Direktion kann betriebs- und patientenbezogene Daten von Spitälern und Geburtshäusern sowie solche aus Registern von Behörden und Fachorganisationen bearbeiten, soweit sie für den Vollzug dieses Gesetzes und des KVG benötigt werden, insbesondere für a. die Durchführung der Spitalplanung,
 
 - b. die Überprüfung der Preis- und Kostenentwicklung sowie der Wirtschaftlichkeit, Qualität und Zweckmässigkeit der Leistungserbringung,
 
@@ -313,15 +344,14 @@ Die Direktion kann einen angemessenen Beitrag bis zu 100% an die ungedeckten Kos
 
 <sup>3</sup> Patientenbezogene Daten sind insbesondere Name, Alter, Geburts- und Todesdatum, Geschlecht, Wohnort, AHV-Nummer sowie Art und Umfang der bezogenen medizinischen Leistung. Diese Daten sind nach der Erhebung zu anonymisieren, soweit sie nicht für die Rechnungskontrolle, die Kodierrevision oder die Leistungsstatistik verwendet werden.
 
-**7**
+**b. Ausserkantonale Hospitalisation**
 
-- 1\. 1. 22 - 115 § 17 a.[^16-1] Die Direktion kann für die Bewilligung einer Hospitalisation nach §§ 14 und 15 vom Spital und von der antragstellenden Ärztin oder dem antragstellenden Arzt Auskunft über die Personalien der Patientin oder des Patienten, die gestellte Diagnose, die vorgesehene oder durchgeführte Behandlung und die Dauer des Spitalaufenthaltes verlangen.
+§ 17 a.[^16-2] Die Direktion kann für die Bewilligung einer Hospitalisation nach §§ 14 und 15 vom Spital und von der antragstellenden Ärztin oder dem antragstellenden Arzt Auskunft über die Personalien der Patientin oder des Patienten, die gestellte Diagnose, die vorgesehene oder durchgeführte Behandlung und die Dauer des Spitalaufenthaltes verlangen.
 
-[^16-1]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
+[^16-1]: Aufgehoben durch G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 13
+[^16-2]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
 
 #### § 18
-
-**b. Ausserkantonale Hospitalisation**
 
 **c. Bearbeiten und Veröffentlichen11**
 
@@ -359,6 +389,10 @@ Die Direktion kann einen angemessenen Beitrag bis zu 100% an die ungedeckten Kos
 
 <sup>3</sup> Das Spital dokumentiert die besonderen Umstände und stellt der Direktion die Dokumentationen zur Verfügung. Die Direktion kann die Spitäler für bestimmte Untersuchungen und Behandlungen von der Dokumentationspflicht ganz oder teilweise befreien.
 
+**9**
+
+- 1\. 1. 23 - 119
+
 <sup>4</sup> Die Direktion kann jederzeit umfassend Einsicht in die Patientenunterlagen nehmen.
 
 [^19-1]: LS 132.2.
@@ -394,46 +428,43 @@ Die Direktion kann einen angemessenen Beitrag bis zu 100% an die ungedeckten Kos
 
 <sup>4</sup> Bei der Rechnungsrevision eines Listenspitals gemäss Abs. 3 werden die ihm nahestehenden natürlichen oder juristischen Personen in die Prüfung miteinbezogen.
 
-[^20-1]: LS 781.
-[^20-2]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
-
-#### § 22
-
 **Sanktionen**
 
-<sup>1</sup> Sanktioniert wird a. die Verletzung kantonaler Leistungsaufträge und der damit verbundenen Anforderungen und Verpflichtungen nach §§ 5 und 7 sowie deren Beeinträchtigung durch weitere Leistungen gemäss § 9,
+§ 22.[^20-3] <sup>1</sup> Sanktioniert werden a. die Verletzung kantonaler Leistungsaufträge und der damit verbundenen Anforderungen und Verpflichtungen gemäss §§ 5 Abs. 1, 7 Abs. 1 lit. c und Abs. 2 lit. b, 9 a Abs. 1 und 2 sowie 9 b Abs. 1,
 
-- b. die Verletzung der Datenbearbeitungsbestimmungen gemäss §§ 17 und 18,
+- b. die Beeinträchtigung kantonaler Leistungsaufträge durch weitere Leistungen gemäss § 9 Abs. 1,
 
-**9**
+- c. die Verletzung der Datenbearbeitungsbestimmungen gemäss §§ 17 und 18,
 
-- 1\. 1. 22 - 115
-
-- c. die Verletzung der Pflicht gemäss § 21 Abs. 3 Satz 2.
+- d. die Verletzung der Pflicht gemäss § 21 Abs. 3 Satz 2.
 
 <sup>2</sup> Die Direktion kann je nach Schwere der Verletzung einzeln oder kumulativ folgende Sanktionen verfügen:
 
-- a. Busse von Fr. 1000 bis Fr. 20 000,
+- a. Busse von Fr. 5000 bis 1 Mio. Franken,
 
 - b. vollständige oder teilweise Rückerstattung von Finanzierungsanteilen der öffentlichen Hand,
 
-- c. vollständige oder teilweise Rückerstattung von Subventionen,
+- c. vollständige oder teilweise Nichtauszahlung oder Rückerstattung von Subventionen,
 
 - d. Abschöpfung unrechtmässig erlangter Vorteile.
 
 <sup>3</sup> Bei schweren oder wiederholten Verletzungen kann der Regierungsrat den Leistungsauftrag ganz oder teilweise entziehen.
 
-[^22-1]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
+[^20-1]: LS 781.
+[^20-2]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2022.
+[^20-3]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
 
 ### G. Schlussbestimmungen
 
-[^22-1]
+[^20-2]
+
+[^hG202Schlussbes-1]: Fassung gemäss G vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
 
 #### § 23
 
 **Fehlende Tarifstruktur**
 
-<sup>1</sup> Liegen bei Inkrafttreten dieses Gesetzes keine gesamtschweizerisch gültigen Tarifstrukturen gemäss Art. 49 KVG vor, vereinbaren die Leistungserbringer und Versicherer eine Übergangsregelung. Diese bedarf der Genehmigung des Regierungsrates.
+<sup>1</sup> Fehlen gesamtschweizerisch gültige Tarifstrukturen gemäss Art. 49 KVG, vereinbaren die Leistungserbringer und Versicherer eine Übergangsregelung. Diese bedarf der Genehmigung des Regierungsrates.[^hG202Schlussbes-1]
 
 <sup>2</sup> Können sich Leistungserbringer und Versicherer nicht einigen oder legen sie keine KVG-konforme Regelung vor, setzt der Regierungsrat das Abgeltungssystem für stationäre Grundversicherungsleistungen nach den Grundsätzen des KVG fest.
 
@@ -461,11 +492,11 @@ Der Kanton errechnet zuhanden der Gemeinden ihre finanzielle Entlastung durch di
 
 Das bisherige Recht wird gemäss Anhang geändert.
 
-#### § 28
+**11**
+
+- 1\. 1. 23 - 119 § 28. <sup>1</sup> Staatsbeiträge und Darlehen, die der Kanton vor Inkrafttreten dieses Gesetzes zur Finanzierung von Investitionen von Listenspitälern geleistet hat, werden auf das Datum der Umstellung der Spitalfinanzierung auf Pauschalen mit Investitionskostenanteilen nach KVG wie folgt behandelt:
 
 **Frühere Investitionsleistungen des Kantons a. Grundsatz**
-
-<sup>1</sup> Staatsbeiträge und Darlehen, die der Kanton vor Inkrafttreten dieses Gesetzes zur Finanzierung von Investitionen von Listenspitälern geleistet hat, werden auf das Datum der Umstellung der Spitalfinanzierung auf Pauschalen mit Investitionskostenanteilen nach KVG wie folgt behandelt:
 
 - a. Bei Gemeinde- und Zweckverbandsspitälern werden sie zu ihrem Restbuchwert separat als Guthaben des Kantons in den Gemeinde- bzw. Zweckverbandsrechnungen ausgewiesen.
 
@@ -497,11 +528,7 @@ Das bisherige Recht wird gemäss Anhang geändert.
 
 <sup>2</sup> Die Restbuchwerte gemäss Abs. 1 lit. a und lit. b können auch als unverzinsliche Beteiligungen eingebracht werden.
 
-<sup>3</sup> §§ 28 Abs. 2 und 29 gelten sinngemäss. In Fällen von § 29 Abs. 2 oder 3 entscheidet der Gemeindevorstand[^30-1] anstelle der Direktion.
-
-**11**
-
-- 1\. 1. 22 - 115 Das Gesetz wird nach Art. 37 der Kantonsverfassung[^30-2] als dringlich erklärt und tritt auf den 1. Januar 2012 in Kraft. Wird das Referendum ergriffen, die Volksabstimmung aber erst nach dem 31. Dezember 2011 durchgeführt, tritt auf den 1. Januar 2012 die Hauptvorlage in Kraft. Wird in der Volksabstimmung die Variante gemäss Teil B der Vorlage angenommen, tritt diese rückwirkend auf den 1. Januar 2012 in Kraft (ABl 2011, 1392).
+<sup>3</sup> §§ 28 Abs. 2 und 29 gelten sinngemäss. In Fällen von § 29 Abs. 2 oder 3 entscheidet der Gemeindevorstand[^30-1] anstelle der Direktion. Das Gesetz wird nach Art. 37 der Kantonsverfassung[^30-2] als dringlich erklärt und tritt auf den 1. Januar 2012 in Kraft. Wird das Referendum ergriffen, die Volksabstimmung aber erst nach dem 31. Dezember 2011 durchgeführt, tritt auf den 1. Januar 2012 die Hauptvorlage in Kraft. Wird in der Volksabstimmung die Variante gemäss Teil B der Vorlage angenommen, tritt diese rückwirkend auf den 1. Januar 2012 in Kraft (ABl 2011, 1392).
 
 [^30-1]: Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
 [^30-2]: LS 101.
@@ -523,10 +550,6 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 - f. Einführungsgesetz zum Krankenversicherungsgesetz vom 13. Juni 1999 (LS 832.01): . . .[^hAnhang-1]
 
 - g. Pflegegesetz vom 27. September 2010 (LS 855.1): . . .[^hAnhang-1]
-
-**13**
-
-- 1\. 1. 22 - 115
 
 [^hAnhang-1]: Text siehe OS 66, 513.
 
