@@ -4,13 +4,12 @@ number: "551.213"
 title: Ordonnance cantonale sur les mesures visant à promouvoir la sécurité des minorités ayant un besoin de protection particulier
 short: OCSMP
 language: fr
-version: 2020-06-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+version_adopted: 2022-11-16
 adopted: 2020-04-22
 in_force: 2020-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.213"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1845/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2733/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1845/pdf_file"
 
 (OCSMP)
 
-du 22.04.2020 (état au 01.06.2020)
+du 22.04.2020 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 

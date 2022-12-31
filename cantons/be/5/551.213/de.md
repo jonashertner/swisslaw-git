@@ -4,13 +4,12 @@ number: "551.213"
 title: Kantonale Verordnung über Massnahmen zur Unterstützung der Sicherheit von Minderheiten mit besonderen Schutzbedürfnissen
 short: SMSV
 language: de
-version: 2020-06-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+version_adopted: 2022-11-16
 adopted: 2020-04-22
 in_force: 2020-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.213"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1845/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2733/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1845/pdf_file"
 
 (SMSV)
 
-vom 22.04.2020 (Stand 01.06.2020)
+vom 22.04.2020 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -66,7 +65,7 @@ beschliesst:
 
 <sup>1</sup> Es besteht kein Anspruch auf Finanzhilfen.
 
-<sup>2</sup> Übersteigen die beantragten Finanzhilfen die gemäss Voranschlagskredit verfügbaren Mittel, so erstellt die Sicherheitsdirektion gestützt auf Artikel 16 Absatz 2 des Staatsbeitragsgesetzes vom 16. September 1992 (StBG)[^4-1] eine Prioritätenordnung nach folgenden Kriterien:
+<sup>2</sup> Übersteigen die beantragten Finanzhilfen die gemäss Budgetkredit verfügbaren Mittel, so erstellt die Sicherheitsdirektion gestützt auf Artikel 16 Absatz 2 des Staatsbeitragsgesetzes vom 16. September 1992 (StBG)[^4-1] eine Prioritätenordnung nach folgenden Kriterien:
 
 - a Dringlichkeit der Massnahme,
 - b Qualität der Massnahme,
