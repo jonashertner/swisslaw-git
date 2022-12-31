@@ -4,13 +4,13 @@ number: "867"
 title: Betreuungs- und Pflegegesetz
 short: BPG
 language: de
-version: 2017-02-01
-valid_until: 2022-12-31
-version_adopted: 2016-11-07
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-24
 adopted: 2010-09-13
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/867"
-pdf: "https://srl.lu.ch/api/de/versions/2963/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4019/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2963/pdf_file"
 
 (BPG)
 
-vom 13.09.2010 (Stand 01.02.2017)
+vom 13.09.2010 (Stand 01.01.2023)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -269,6 +269,20 @@ beschliesst:
 
 <sup>1</sup> Zur Sicherstellung eines wirtschaftlichen, zweckmässigen und wirksamen Angebots in der Akut- und Übergangspflege kann der Regierungsrat den Kreis der Leistungserbringer auf bestimmte abrechnungsberechtigte Leistungserbringer beschränken. Er hört zuvor die Gemeinden und die Krankenversicherer an.
 
+## 2a Aufenthalt und Betreuung im Pflegeheim
+
+#### § 12a
+
+**Sicherstellung der Aufenthaltstaxen**
+
+<sup>1</sup> Die Pflegeheime sind berechtigt, von der pflegebedürftigen Person beim Eintritt eine Sicherstellung für allfällige Forderungen aus Leistungen für den Aufenthalt (Hotellerie und Betreuung) zu verlangen.
+
+<sup>2</sup> Kann eine Person die Sicherstellung nachweislich nicht aus eigenen Mitteln bezahlen, kann das Pflegeheim bei ihrer Wohnsitzgemeinde eine subsidiäre Kostengutsprache für maximal ein Monatsbetreffnis der selbst zu tragenden Kosten des Aufenthalts beantragen.
+
+<sup>3</sup> Die Wohnsitzgemeinde übernimmt eine Forderung des Pflegeheimes maximal in der Höhe der Kostengutsprache, wenn diese von der pflegebedürftigen Person oder im Todesfall von deren Erben nicht einbringlich ist. Das Pflegeheim hat den entsprechenden Nachweis zu erbringen.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung.
+
 ## 3 Förderung der Ausbildung
 
 #### § 13
@@ -328,7 +342,7 @@ beschliesst:
 
 **Monitoring**
 
-<sup>1</sup> Das Gesundheits- und Sozialdepartement und die Gemeinden sorgen gemeinsam für ein Monitoring der finanziellen Auswirkungen.
+<sup>1</sup> Das Gesundheits- und Sozialdepartement und die Gemeinden sorgen gemeinsam für ein Monitoring der Entwicklung des Restfinanzierungsbeitrages der Wohnsitzgemeinden an die Pflegekosten sowie der Aufenthaltskosten (Hotellerie und Betreuung) in den Pflegeheimen.
 
 <sup>2</sup> …
 
