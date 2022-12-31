@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 mars 1981 sur l'assurance-accidents (LAA)"
 short: LAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20230101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20220101/fr"
 
 (LAA)
 
-du 20 mars 1981 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 mars 1981 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -29,7 +29,7 @@ arrête:
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^ingress-3]: [FF 1976 III 143](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)
 
-## Titre 1**** Applicabilité de la LPGA
+## Titre 1 Applicabilité de la LPGA
 
 [^tit1-1]
 
@@ -53,7 +53,7 @@ Elles ne s’appliquent pas aux domaines suivants:
 [^1-2]: Introduite par le ch. I de la LF du 25 sept. 2015 (Organisation et activités accessoires de la CNA), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^1-3]: Introduite par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
-## Titre 1*a***** Personnes assurées
+## Titre 1*a* Personnes assurées
 
 [^tit1a-1]
 
@@ -288,7 +288,7 @@ Lorsque le Conseil fédéral fixe le montant maximal du gain assuré au sens de 
 
 <sup>2</sup> Le droit à l’indemnité journalière naît le troisième jour qui suit celui de l’accident. Il s’éteint dès que l’assuré a recouvré sa pleine capacité de travail, dès qu’une rente est versée ou dès que l’assuré décède.
 
-<sup>3</sup> L’indemnité journalière de l’assurance-accidents n’est pas allouée s’il existe un droit à une indemnité journalière de l’assurance-invalidité ou à une allocation de maternité, de paternité ou de prise en charge selon la loi du 25 septembre 1952 sur les allocations pour perte de gain[^16-3].[^16-4]
+<sup>3</sup> L’indemnité journalière de l’assurance-accidents n’est pas allouée s’il existe un droit à une indemnité journalière de l’assurance-invalidité ou à une allocation de maternité, de paternité, de prise en charge ou d’adoption selon la loi du 25 septembre 1952 sur les allocations pour perte de gain[^16-3].[^16-4]
 
 <sup>4</sup> L’indemnité journalière est versée aux personnes au chômage nonobstant les délais d’attente (art. 18, al. 1, LACI[^16-5]) ou les jours de suspension (art. 30 LACI).[^16-6]
 
@@ -297,7 +297,7 @@ Lorsque le Conseil fédéral fixe le montant maximal du gain assuré au sens de 
 [^16-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^16-2]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^16-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^16-4]: Nouvelle teneur selon le ch. II 3 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^16-4]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^16-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^16-6]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^16-7]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -447,7 +447,7 @@ En dérogation à l’art. 17, al. 1, LPGA[^22-2], la rente ne peut plus être r
 
 [^26-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^26-2]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^26-3]: Abrogé par l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 (RO **2****002** 3371; [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^26-3]: Abrogé par l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 #### Art. 27
 
@@ -456,7 +456,7 @@ En dérogation à l’art. 17, al. 1, LPGA[^22-2], la rente ne peut plus être r
 L’allocation pour impotent est fixée selon le degré d’impotence. Son montant mensuel atteint au moins le double du salaire journalier assuré maximum et au plus le sextuple de celui-ci. L’art. 22 est applicable par analogie à la révision de l’allocation pour impotent (art. 17 LPGA[^27-1]).[^27-2]
 
 [^27-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^27-2]: Nouvelle teneur de la phrase selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **19****91** II 181 888, **1994** V 897, **1999** 4168).
+[^27-2]: Nouvelle teneur de la phrase selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 ### Section 6 Rentes de survivants
 
@@ -563,7 +563,7 @@ Si le droit du conjoint survivant est éteint par remariage et si cette nouvelle
 
 [^35-1]: Phrase introduite par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
-### Chapitre 3 Réduction et refus des prestations d’assurance pour des raisons particulières****
+### Chapitre 3 Réduction et refus des prestations d’assurance pour des raisons particulières
 
 [^tit3-chap3-1]
 
@@ -620,7 +620,7 @@ Le Conseil fédéral peut désigner les dangers extraordinaires et les entrepris
 
 En cas de subrogation au sens des art. 72 à 75 LPGA[^42-2], l’art. 73, al. 2, LPGA, est également applicable si la réduction est opérée conformément aux art. 37, al. 2 et 3, ou 39 de la présente loi, dans la mesure où la réduction a été opérée parce que l’accident a été causé par la faute de l’assuré.
 
-[^42-1]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **199****1** II 181 888, **1994** V 897, **1999** 4168).
+[^42-1]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^42-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 43 et 44
@@ -629,7 +629,7 @@ En cas de subrogation au sens des art. 72 à 75 LPGA[^42-2], l’art. 73, al. 2,
 
 [^4344-1]: Abrogés par l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-### Chapitre 4**** Fixation et allocation des prestations
+### Chapitre 4 Fixation et allocation des prestations
 
 [^tit3-chap4-1]
 
@@ -712,11 +712,11 @@ Les créances découlant de la présente loi et les créances en restitution de 
 
 ## Titre 4 Droit régissant les activités dans le domaine médical et les tarifs
 
-### Chapitre 1 Personnes exerçant une activité dans le domaine médical et hôpitaux****
+### Chapitre 1 Personnes exerçant une activité dans le domaine médical et hôpitaux
 
 [^tit4-chap1-1]
 
-[^tit4-chap1-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); FF **20****08** 4877, **2014** 7691).
+[^tit4-chap1-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 53
 
@@ -761,12 +761,24 @@ Si, pour des motifs graves, un assureur conteste à une personne exerçant une a
 
 <sup>3</sup> En l’absence de convention, le Conseil fédéral édicte les prescriptions nécessaires après avoir consulté les parties.
 
+<sup>3bis</sup> Les fournisseurs de prestations au sens des art. 36 à 40 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^56-5], les assureurs et leurs fédérations respectives ainsi que l’organisation visée à l’art. 47*a* LAMal sont tenus de communiquer gratuitement au Conseil fédéral, sur demande, les données nécessaires à l’exercice de la tâche visée à l’al. 3. Le Conseil fédéral édicte des dispositions détaillées sur le traitement des données, dans le respect du principe de proportionnalité.[^56-6]
+
+<sup>3ter</sup>
+
+En cas de manquement à l’obligation de communiquer les données prévue à l’al. 3<sup>bis</sup>, le DFI peut prononcer des sanctions à l’encontre des fournisseurs de prestations, des assureurs et des fédérations concernés ainsi qu’à l’encontre de l’organisation visée à l’art. 47*a* LAMal. Les sanctions sont les suivantes:
+
+- a. l’avertissement;
+- b. une amende de 20 000 francs au plus.[^56-7]
+
 <sup>4</sup> Les taxes doivent être les mêmes pour tous les assurés de l’assurance-accidents.
 
 [^56-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^56-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^56-3]: Voir aussi l’art. 1 de l’O du 17 sept. 1986 sur les tarifs des établissements hospitaliers et de cure dans l’assurance-accidents ([RO 1986 1525](https://fedlex.data.admin.ch/eli/oc/1986/1525_1525_1525)).
 [^56-4]: Nouvelle teneur de la phrase selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^56-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^56-6]: Introduit par l’annexe ch. 2 de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^56-7]: Introduit par l’annexe ch. 2 de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 ### Chapitre 3 Litiges
 
@@ -954,7 +966,7 @@ Le conseil de la CNA se constitue lui-même, et il élit son président et ses d
 
 <sup>3</sup> Les litiges concernant la responsabilité des membres des organes ou des personnes chargées de la gestion et de la révision ressortissent aux tribunaux civils.
 
-[^64c-1]: Introduit par le ch. I de la LF du 25 sept. 2015 (Organisation et activités accessoires de la CNA), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); FF **200****8** 4877, **2014** 7691).
+[^64c-1]: Introduit par le ch. I de la LF du 25 sept. 2015 (Organisation et activités accessoires de la CNA), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^64c-2]: Nouvelle teneur selon l’annexe ch. 23 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 65
@@ -992,7 +1004,7 @@ Le conseil de la CNA se constitue lui-même, et il élit son président et ses d
 
 [^65b-1]: Introduit par le ch. I de la LF du 25 sept. 2015 (Organisation et activités accessoires de la CNA), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^65b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^65b-3]: RS **172.22****0.1**
+[^65b-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 65c
 
@@ -1112,15 +1124,16 @@ Les personnes que la CNA n’a pas la compétence d’assurer doivent, conformé
 
 - a.[^68-1] entreprises d’assurance privées soumises à la loi du 17 décembre 2004 sur la surveillance des assurances (LSA);
 - b. caisses publiques d’assurance-accidents;
-- c.[^68-2] caisses-maladie au sens de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^68-3].
+- c.[^68-2] caisses-maladie au sens de l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^68-3].[^68-4]
 
-<sup>2</sup> Les assureurs qui désirent participer à la gestion de l’assurance-accidents obligatoire doivent s’inscrire dans un registre tenu par l’Office fédéral de la santé publique[^68-4]. Ce registre est public.[^68-5]
+<sup>2</sup> Les assureurs qui désirent participer à la gestion de l’assurance-accidents obligatoire doivent s’inscrire dans un registre tenu par l’Office fédéral de la santé publique[^68-5]. Ce registre est public.[^68-6]
 
 [^68-1]: Nouvelle teneur selon l’annexe ch. II 5 de la L du 17 déc. 2004 sur la surveillance des assurances, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^68-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 1994 sur l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)[1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)art. 1 al. 1; [FF 1992 I 77](https://fedlex.data.admin.ch/eli/fga/1992/1_93_77_65)).
-[^68-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^68-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^68-5]: Voir aussi l’art. 2 de l’O du 20 sept. 1982 sur la mise en vigueur et l’introduction de la L sur l’assurance-accidents ([RO 1982 1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)).
+[^68-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^68-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^68-4]: Voir aussi les disp. trans. mod. 25 sept. 2015 à la fin du texte.
+[^68-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^68-6]: Voir aussi l’art. 2 de l’O du 20 sept. 1982 sur la mise en vigueur et l’introduction de la L sur l’assurance-accidents ([RO 1982 1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)).
 
 #### Art. 69
 
@@ -1178,7 +1191,7 @@ En dérogation à l’art. 80, al. 1, LPGA[^71-2], les assureurs ne sont exonér
 
 <sup>3</sup> Le Conseil fédéral peut confier à la caisse supplétive des tâches qui ne relèvent pas du domaine d’activité des autres assureurs.
 
-[^73-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), **201****4** 7691).
+[^73-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^73-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^73-3]: Introduit par l’annexe ch. 7 de la L du 17 juin 2005 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3371](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 [^73-4]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
@@ -1302,7 +1315,7 @@ Les cantons renseignent les employeurs sur leur obligation d’assurer les trava
 
 <sup>2</sup> Le Conseil fédéral règle la formation et la reconnaissance des cours de formation après avoir consulté la Commission fédérale de coordination pour la sécurité au travail (commission de coordination).
 
-[^82a-1]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 (RO **2****016** 4375; [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^82a-1]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 83
 
@@ -1350,7 +1363,7 @@ Le Conseil fédéral nomme la commission de coordination qui comprend:
 [^85-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^85-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^85-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^85-4]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 (RO **2****016** 4375; [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^85-4]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^85-5]: Nouvelle teneur de la phrase selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^85-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^85-7]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -1363,7 +1376,7 @@ Le Conseil fédéral nomme la commission de coordination qui comprend:
 
 <sup>2</sup> Lorsque l’inobservation de prescriptions de sécurité met sérieusement en danger la vie et la santé des travailleurs, l’autorité cantonale interdit l’utilisation de locaux ou d’installations et, dans les cas particulièrement graves, ferme l’entreprise jusqu’à ce que le danger soit écarté; elle peut ordonner la saisie de substances et d’objets.
 
-### Section 4 Financement****
+### Section 4 Financement
 
 [^tit6-chap1-sec4-1]
 
@@ -1405,13 +1418,13 @@ Le Conseil fédéral nomme la commission de coordination qui comprend:
 
 <sup>3</sup> Les assureurs sont tenus d’utiliser le produit résultant des suppléments de primes pour promouvoir la prévention des accidents non professionnels.
 
-## Titre 7 Comptes et financement****
+## Titre 7 Comptes et financement
 
 [^tit7-1]
 
 [^tit7-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
-### Chapitre 1 Comptes****
+### Chapitre 1 Comptes
 
 [^tit7-chap1-1]
 
@@ -1442,11 +1455,11 @@ La CNA tient en outre un compte distinct pour:
 
 <sup>4</sup> L’exercice comptable est l’année civile.
 
-[^89-1]: Abrogé par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); FF **200****8** 4877, **2014** 7691).
+[^89-1]: Abrogé par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^89-2]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents) ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^89-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
-### Chapitre 1*a* Financement****
+### Chapitre 1*a* Financement
 
 [^tit7-chap1a-1]
 
@@ -1638,7 +1651,7 @@ En dérogation à l’art. 49 LPGA[^94-2], les assureurs désignés à l’art. 
 
 ## Titre 8 Dispositions diverses
 
-### Chapitre 1 Traitement et communication de données, assistance administrative****
+### Chapitre 1 Traitement et communication de données, assistance administrative
 
 [^tit8-chap1-1]
 
@@ -1723,7 +1736,7 @@ Dans les autres cas, des données peuvent être communiquées à des tiers, en d
 [^97-5]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
 [^97-6]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 [^97-7]: [[RO 1977 2370](https://fedlex.data.admin.ch/eli/oc/1977/2370_2370_2370), [1995 2766](https://fedlex.data.admin.ch/eli/oc/1995/2766_2766_2766), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 97. [RO 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)art. 20 al. 1]. Voir actuellement la L du 12 juin 2009 sur la sécurité des produits ([RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)).
-[^97-8]: [[RO 1972 435](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 541, **19****82** 1676 annexe ch. 10, [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 ch. 4, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 41, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 403, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 4, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 7. [RO 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. I, [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)]. Voir actuellement la L du 15 déc. 2000 sur les produits chimiques ([RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)).
+[^97-8]: [[RO 1972 435](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 541, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 10, [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 ch. 4, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 41, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 403, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 4, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 7. [RO 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. I, [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)]. Voir actuellement la L du 15 déc. 2000 sur les produits chimiques ([RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)).
 [^97-9]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^97-10]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 [^97-11]: Introduite par l’annexe ch. 12 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4473](https://fedlex.data.admin.ch/eli/fga/2007/665)[2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon l’annexe ch. II 18 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
@@ -1743,7 +1756,7 @@ Les autorités administratives et judiciaires de la Confédération, des cantons
 
 [^98-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
-### Chapitre 2 Exécution forcée et responsabilité****
+### Chapitre 2 Exécution forcée et responsabilité
 
 [^tit8-chap2-1]
 
@@ -1785,7 +1798,7 @@ Les demandes en réparation au sens de l’art. 78 LPGA[^100-2] doivent être d�
 
 [^102a-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Abrogé par le ch. I de l’O de l’Ass. féd. du 21 juin 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
-### Chapitre 3 Relations avec d’autres assurances sociales****
+### Chapitre 3 Relations avec d’autres assurances sociales
 
 [^tit8-chap3-1]
 
@@ -1812,7 +1825,7 @@ Le Conseil fédéral peut régler la coordination des indemnités journalières 
 
 ## Titre 9 Voies de droit et dispositions pénales
 
-### Chapitre 1 Dispositions spéciales relatives aux voies de droit****
+### Chapitre 1 Dispositions spéciales relatives aux voies de droit
 
 [^tit9-chap1-1]
 
@@ -1916,7 +1929,7 @@ Est puni de l’amende quiconque, intentionnellement:
 
 [^114115-1]: Abrogés par l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-## Titre 10**** Relation avec le droit européen
+## Titre 10 Relation avec le droit européen
 
 [^tit10-1]
 
@@ -1956,7 +1969,7 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 [^115a-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la Conv. AELE révisée.
 [^115a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Titre 11**** Dispositions finales
+## Titre 11 Dispositions finales
 
 [^tit11-1]
 
@@ -2030,7 +2043,7 @@ Les contrats ayant pour objet l’assurance-accidents des travailleurs sont cadu
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-## Dispositions transitoires relatives à la modification du 25 septembre 2015****
+## Dispositions transitoires relatives à la modification du 25 septembre 2015
 
 [^u1-1]
 

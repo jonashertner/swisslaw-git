@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. März 1981 über die Unfallversicherung (UVG)
 short: UVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20230101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20220101/de"
 
 (UVG)
 
-vom 20. März 1981 (Stand am 1. Januar 2022)
+vom 20. März 1981 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -29,7 +29,7 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^ingress-3]: [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)
 
-## Erster Titel:**** Anwendbarkeit des ATSG
+## Erster Titel: Anwendbarkeit des ATSG
 
 [^tit1-1]
 
@@ -53,7 +53,7 @@ Sie finden keine Anwendung in folgenden Bereichen:
 [^1-2]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Organisation und Nebentätigkeiten der Suva), in Kraft seit 1. Jan. 2017 ([AS 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^1-3]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
-## Erster Titel *a*.**** Versicherte Personen
+## Erster Titel *a*. Versicherte Personen
 
 [^tit1a-1]
 
@@ -171,7 +171,7 @@ Als Berufsunfälle gelten Unfälle (Art. 4 ATSG[^7-1]), die dem Versicherten zus
 
 <sup>3</sup> Der Bundesrat kann für Wirtschaftszweige mit besonderen Betriebsformen, namentlich für die Landwirtschaft und das Kleingewerbe, den Berufsunfall abweichend umschreiben.
 
-[^7-1]: SR **8****30.1**
+[^7-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^7-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 8
@@ -275,7 +275,7 @@ Bei der Festsetzung des Höchstbetrags des versicherten Verdienstes nach Artikel
 - d. Versicherten, die unregelmässig beschäftigt sind.
 
 [^15-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^15-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); BBl **199****1** II 185 910, **1994** V 921, **1999** 4523).
+[^15-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 ### 2. Abschnitt: Taggeld
 
@@ -287,7 +287,7 @@ Bei der Festsetzung des Höchstbetrags des versicherten Verdienstes nach Artikel
 
 <sup>2</sup> Der Anspruch auf Taggeld entsteht am dritten Tag nach dem Unfalltag. Er erlischt mit der Wiedererlangung der vollen Arbeitsfähigkeit, mit dem Beginn einer Rente oder mit dem Tod des Versicherten.
 
-<sup>3</sup> Das Taggeld der Unfallversicherung wird nicht gewährt, wenn ein Anspruch auf ein Taggeld der Invalidenversicherung oder auf eine Mutterschaftsentschädigung, eine Vaterschaftsentschädigung oder eine Betreuungsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^16-3] besteht.[^16-4]
+<sup>3</sup> Das Taggeld der Unfallversicherung wird nicht gewährt, wenn ein Anspruch auf ein Taggeld der Invalidenversicherung oder auf eine Mutterschaftsentschädigung, eine Vaterschaftsentschädigung, eine Betreuungsentschädigung oder eine Adoptionsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^16-3] besteht.[^16-4]
 
 <sup>4</sup> An arbeitslose Personen wird das Taggeld unabhängig von zu bestehenden Wartezeiten (Art. 18 Abs. 1 AVIG[^16-5]) oder Einstelltagen (Art. 30 AVIG) ausgerichtet.[^16-6]
 
@@ -296,11 +296,11 @@ Bei der Festsetzung des Höchstbetrags des versicherten Verdienstes nach Artikel
 [^16-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^16-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^16-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^16-4]: Fassung gemäss Ziff. II 3 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^16-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^16-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^16-6]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^16-7]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^16-8]: Eingefügt durch Anhang Ziff. 5 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 (AS **2****021** 705; [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^16-8]: Eingefügt durch Anhang Ziff. 5 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 17
 
@@ -495,7 +495,7 @@ Stirbt der Versicherte an den Folgen des Unfalles, so haben der überlebende Ehe
 <sup>3</sup> Der Anspruch entsteht mit dem Monat nach dem Tode des Versicherten oder des andern Elternteils. Er erlischt mit der Vollendung des 18. Altersjahres, mit dem Tod der Waise oder mit dem Auskauf der Rente.[^30-1] Der Rentenanspruch dauert bis zum Abschluss der Ausbildung, längstens aber bis zum vollendeten 25. Altersjahr. …[^30-2]
 
 [^30-1]: Fassung des zweiten Satzes gemäss Ziff. II 6 des BG vom 7. Okt. 1994, in Kraft seit 1. Jan. 1996 ([AS 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [BBl 1993 I 1169](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
-[^30-2]: Vierter Satz aufgehoben durch Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, **19****94** V 921, **1999** 4523).
+[^30-2]: Vierter Satz aufgehoben durch Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 31
 
@@ -556,7 +556,7 @@ Ist der Anspruch des überlebenden Ehegatten wegen Wiederverheiratung erloschen 
 
 <sup>2</sup> Mit dem Auskauf erlöschen die Ansprüche aus dem Unfall. Nimmt jedoch nach dem Auskauf die unfallbedingte Invalidität erheblich zu, so kann der Versicherte eine entsprechende Invalidenrente beanspruchen. Der Auskauf einer Invalidenrente berührt den Anspruch auf eine Hinterlassenenrente nicht.
 
-### 3. Kapitel: Kürzung und Verweigerung von Versicherungsleistungen aus besonderen Gründen****
+### 3. Kapitel: Kürzung und Verweigerung von Versicherungsleistungen aus besonderen Gründen
 
 [^tit3-chap3-1]
 
@@ -584,7 +584,7 @@ Ist der Anspruch des überlebenden Ehegatten wegen Wiederverheiratung erloschen 
 
 [^37-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^37-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^37-3]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, **199****4** V 921, **1999** 4523).
+[^37-3]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 38
 
@@ -613,7 +613,7 @@ Der Bundesrat kann aussergewöhnliche Gefahren und Wagnisse bezeichnen, die in d
 
 Im Falle eines Rückgriffs nach den Artikeln 72–75 ATSG[^42-2] findet Artikel 73 Absatz 2 ATSG auch dann Anwendung, wenn die Kürzung nach Artikel 37 Absätze 2 und 3 oder nach Artikel 39 dieses Gesetzes erfolgt, soweit die Kürzung auf Grund einer schuldhaften Schadensverursachung durch den Versicherten erfolgt ist.
 
-[^42-1]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, **199****4** V 921, **1999** 4523).
+[^42-1]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^42-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 43 und 44
@@ -622,7 +622,7 @@ Im Falle eines Rückgriffs nach den Artikeln 72–75 ATSG[^42-2] findet Artikel 
 
 [^4344-1]: Aufgehoben durch Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### 4. Kapitel:**** Festsetzung und Gewährung der Leistungen
+### 4. Kapitel: Festsetzung und Gewährung der Leistungen
 
 [^tit3-chap4-1]
 
@@ -705,7 +705,7 @@ Forderungen auf Grund dieses Gesetzes sowie Rückforderungen von Renten und Tagg
 
 ## Vierter Titel: Medizinalrecht und Tarifwesen
 
-### 1. Kapitel: Medizinalpersonen und Spitäler****
+### 1. Kapitel: Medizinalpersonen und Spitäler
 
 [^tit4-chap1-1]
 
@@ -754,12 +754,24 @@ Will ein Versicherer einer Medizinalperson, einem Laboratorium, einem Spital ode
 
 <sup>3</sup> Besteht kein Vertrag, so erlässt der Bundesrat nach Anhören der Parteien die erforderlichen Vorschriften.
 
+<sup>3bis</sup> Die Leistungserbringer nach den Artikel 36–40 des Bundesgesetzes vom 18. März 1994[^56-5] über die Krankenversicherung (KVG) und deren Verbände, die Versicherer und deren Verbände und die Organisation nach Artikel 47*a* KVG sind verpflichtet, dem Bundesrat auf Verlangen kostenlos die Daten bekannt zu geben, die für die Erfüllung der Aufgabe nach Absatz 3 notwendig sind. Der Bundesrat erlässt nähere Vorschriften zur Bearbeitung der Daten unter Wahrung des Verhältnismässigkeitsprinzips.[^56-6]
+
+<sup>3ter</sup>
+
+Bei einem Verstoss gegen die Pflicht zur Datenbekanntgabe nach Absatz 3<sup>bis</sup> kann das EDI gegen die Verbände der Leistungserbringer und diejenigen der Versicherer, gegen die Organisation nach Artikel 47*a* KVG und gegen die betroffenen Leistungserbringer und Versicherer Sanktionen ergreifen. Diese umfassen:
+
+- a. die Verwarnung;
+- b. eine Busse bis zu 20 000 Franken.[^56-7]
+
 <sup>4</sup> Für alle Versicherten der Unfallversicherung sind die gleichen Taxen zu berechnen.
 
 [^56-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^56-2]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^56-3]: Siehe auch Art. 1 der V vom 17. Sept. 1986 über die Tarife der Heil- und Kuranstalten in der Unfallversicherung ([SR 832.206.2](https://fedlex.data.admin.ch/eli/cc/1986/1525_1525_1525)).
 [^56-4]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^56-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^56-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^56-7]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 ### 3. Kapitel: Streitigkeiten
 
@@ -995,7 +1007,7 @@ Der Suva-Rat konstituiert sich selbst und wählt dabei den Präsidenten und zwei
 Die Suva ist unter Vorbehalt von Artikel 80 ATSG[^65c-2] für kommerzielle Leistungen steuerpflichtig.
 
 [^65c-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Organisation und Nebentätigkeiten der Suva), in Kraft seit 1. Jan. 2017 ([AS 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^65c-2]: SR **830****.****1**
+[^65c-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 66
 
@@ -1091,7 +1103,7 @@ Die Nebentätigkeiten müssen:
 <sup>4</sup> Soweit die Nebentätigkeiten von Leistungszentren wahrgenommen werden, führt die Suva für jedes Leistungszentrum eine separate Betriebsrechnung. Überschüsse oder Verluste werden einer separaten Reserve der Suva gutgeschrieben oder belastet.
 
 [^67a-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Organisation und Nebentätigkeiten der Suva), in Kraft seit 1. Jan. 2017 ([AS 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^67a-2]: SR **22****0**
+[^67a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### 3. Abschnitt: Andere Versicherer
 
@@ -1105,14 +1117,14 @@ Personen, für deren Versicherung nicht die Suva zuständig ist, werden nach die
 
 - a.[^68-1] private Versicherungsunternehmen, die dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^68-2] (VAG) unterstehen;
 - b. öffentliche Unfallversicherungskassen;
-- c.[^68-3] Krankenkassen im Sinne des Bundesgesetzes vom 18. März 1994[^68-4] über die Krankenversicherung.[^68-5]
+- c.[^68-3] Krankenkassen im Sinne von Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^68-4].[^68-5]
 
 <sup>2</sup> Die Versicherer, die sich an der Durchführung der obligatorischen Unfallversicherung beteiligen wollen, haben sich in ein vom Bundesamt für Gesundheit[^68-6] geführtes Register einzutragen. Das Register ist öffentlich.[^68-7]
 
 [^68-1]: Fassung gemäss Anhang Ziff. II 5 des Versicherungsaufsichtsgesetzes vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^68-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^68-3]: Fassung gemäss Anhang Ziff. 4 des BG über die Krankenversicherung, in Kraft seit 1. Jan. 1996 ([AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)[1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)Art. 1 Abs. 1; [BBl 1992 I 93](https://fedlex.data.admin.ch/eli/fga/1992/1_93_77_65)).
-[^68-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^68-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^68-4]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 [^68-5]: Siehe auch die UeB der Änd. 25.09.2015 am Schluss des Textes.
 [^68-6]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^68-7]: Siehe auch Art. 2 der V vom 20. Sept. 1982 über die Inkraftsetzung und Einführung des BG über die Unfallversicherung ([AS 1982 1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)).
@@ -1355,7 +1367,7 @@ Der Bundesrat bestellt die Koordinationskommission, die aus folgenden Mitglieder
 
 <sup>2</sup> Werden Leben oder Gesundheit von Arbeitnehmern durch Missachtung von Sicherheitsvorschriften schwer gefährdet, so verhindert die zuständige kantonale Behörde die Benützung von Räumen oder Einrichtungen und schliesst in besonders schweren Fällen den Betrieb bis zur Behebung des sicherheitswidrigen Zustandes; sie kann die Beschlagnahme von Stoffen und Gegenständen verfügen.
 
-### 4. Abschnitt: Finanzierung****
+### 4. Abschnitt: Finanzierung
 
 [^tit6-chap1-sec4-1]
 
@@ -1397,13 +1409,13 @@ Der Bundesrat bestellt die Koordinationskommission, die aus folgenden Mitglieder
 
 <sup>3</sup> Die Versicherer sind verpflichtet, mit dem Ertrag aus den Prämienzuschlägen die Verhütung von Nichtberufsunfällen allgemein zu fördern.
 
-## Siebter Titel: Rechnung und Finanzierung****
+## Siebter Titel: Rechnung und Finanzierung
 
 [^tit7-1]
 
 [^tit7-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
-### 1. Kapitel: Rechnung****
+### 1. Kapitel: Rechnung
 
 [^tit7-chap1-1]
 
@@ -1438,7 +1450,7 @@ Die Suva führt ausserdem je eine gesonderte Rechnung für:
 [^89-2]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung) ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Fassung gemäss Anhang Ziff. 5 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^89-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
-### 1*a*. Kapitel: Finanzierung****
+### 1*a*. Kapitel: Finanzierung
 
 [^tit7-chap1a-1]
 
@@ -1515,7 +1527,7 @@ Die gesonderten Rückstellungen werden finanziert aus:
 
 <sup>4</sup> Die Suva legt die Beiträge aus dem Ausgleichsfonds der Arbeitslosenversicherung fest. Sie konsultiert vorgängig die Aufsichtskommission für den Ausgleichsfonds der Arbeitslosenversicherung.
 
-[^90c-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); BBl **20****08** 5395, **2014** 7911).
+[^90c-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 90c<sup>bis</sup>
 
@@ -1630,7 +1642,7 @@ In Abweichung von Artikel 49 ATSG[^94-2] haben die Versicherer nach Artikel 68 f
 
 ## Achter Titel: Verschiedene Bestimmungen
 
-### 1. Kapitel: Datenbearbeitung und -bekanntgabe, Amts- und Verwaltungshilfe****
+### 1. Kapitel: Datenbearbeitung und -bekanntgabe, Amts- und Verwaltungshilfe
 
 [^tit8-chap1-1]
 
@@ -1650,7 +1662,7 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 - f. Statistiken zu führen;
 - g.[^96-3] die AHV-Nummer zuzuweisen oder zu verifizieren.
 
-[^96-1]: Ursprünglich Art. 97*a.* Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); BBl **20****00** 255).
+[^96-1]: Ursprünglich Art. 97*a.* Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^96-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^96-3]: Eingefügt durch Anhang Ziff. 12 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
@@ -1737,7 +1749,7 @@ Die Verwaltungs- und Rechtspflegebehörden des Bundes, der Kantone, Bezirke, Kre
 
 [^98-1]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
-### 2. Kapitel: Vollstreckung und Haftung****
+### 2. Kapitel: Vollstreckung und Haftung
 
 [^tit8-chap2-1]
 
@@ -1779,7 +1791,7 @@ Ersatzforderungen nach Artikel 78 ATSG[^100-2] sind beim Versicherer geltend zu 
 
 [^102a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Aufgehoben durch Ziff. I der V der BVers vom 21. Juni 2002 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
-### 3. Kapitel: Verhältnis zu anderen Sozialversicherungszweigen****
+### 3. Kapitel: Verhältnis zu anderen Sozialversicherungszweigen
 
 [^tit8-chap3-1]
 
@@ -1806,7 +1818,7 @@ Der Bundesrat kann die Koordination des Taggeldes zu den übrigen Sozialversiche
 
 ## Neunter Titel: Rechtspflege- und Strafbestimmungen
 
-### 1. Kapitel: Sonderbestimmungen zur Rechtspflege****
+### 1. Kapitel: Sonderbestimmungen zur Rechtspflege
 
 [^tit9-chap1-1]
 
@@ -1853,7 +1865,7 @@ Das Bundesverwaltungsgericht beurteilt in Abweichung von Artikel 58 Absatz 1 ATS
 - c. Anordnungen zur Verhütung von Unfällen und Berufskrankheiten.
 
 [^109-1]: Fassung gemäss Anhang Ziff. 111 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^109-2]: SR **8****30.1**
+[^109-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 110
 
@@ -1910,7 +1922,7 @@ Mit Busse wird bestraft, wer vorsätzlich:
 
 [^114115-1]: Aufgehoben durch Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-## Zehnter Titel:**** Verhältnis zum europäischen Recht
+## Zehnter Titel: Verhältnis zum europäischen Recht
 
 [^tit10-1]
 
@@ -1943,14 +1955,14 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 <sup>4</sup> Die Ausdrücke «Mitgliedstaaten der Europäischen Union», «Mitgliedstaaten der Europäischen Gemeinschaft», «Staaten der Europäischen Union» und «Staaten der Europäischen Gemeinschaft» im vorliegenden Gesetz bezeichnen die Staaten, für die das Freizügigkeitsabkommen gilt.
 
 [^115a-1]: Fassung gemäss Anhang Ziff. 7 des BB vom 17. Juni 2016 (Ausdehnung des Freizügigkeitsabkommens auf die Republik Kroatien), in Kraft seit 1. Jan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^115a-2]: SR **0.142.112****.****681**
+[^115a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^115a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^115a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
 [^115a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
 [^115a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
 [^115a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Elfter Titel:**** Schlussbestimmungen
+## Elfter Titel: Schlussbestimmungen
 
 [^tit11-1]
 
@@ -2026,7 +2038,7 @@ Verträge über die Unfallversicherung von Arbeitnehmern für Risiken, die nach 
 
 <sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
 
-## Übergangsbestimmungen zur Änderung vom 25. September 2015****
+## Übergangsbestimmungen zur Änderung vom 25. September 2015
 
 [^u1-1]
 
