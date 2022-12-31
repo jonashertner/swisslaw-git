@@ -4,11 +4,11 @@ title: "Ordinanza del DFGP del 7 novembre 2018 concernenti gli obblighi di dilig
 short: ORD-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/803"
 language: it
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-11-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/803/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-803-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/803/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/803/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-803-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/803/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/803/20190101/it"
 
 (Ordinanza del DFGP sul riciclaggio di denaro, ORD-DFGP)
 
-del 7 novembre 2018 (Stato 1° gennaio 2019)
+del 7 novembre 2018 (Stato 1° gennaio 2023)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -401,13 +401,16 @@ Nelle direttive interne l’organizzatore disciplina in particolare:
 - h. le modalità con le quali l’organizzatore registra, limita e sorveglia i rischi elevati;
 - i. gli importi massimi secondo gli articoli 12 capoverso 2 lettere d ed e nonché 14 capoverso 2 lettere a e b, sempre che non siano fissati nella presente ordinanza;
 - j. i termini di cui all’articolo 17 lettera c;
-- k. la ripartizione dei compiti e delle competenze tra il servizio di lotta contro il riciclaggio di denaro e le altre unità organizzative incaricate dell’applicazione degli obblighi di diligenza.
+- k. la ripartizione dei compiti e delle competenze tra il servizio di lotta contro il riciclaggio di denaro e le altre unità organizzative incaricate dell’applicazione degli obblighi di diligenza;
+- l.[^24-1] le condizioni quadro per l’aggiornamento dei documenti relativi ai clienti.
 
 <sup>3</sup> L’organizzatore inoltra le direttive interne all’Autorità intercantonale di vigilanza e d’esecuzione per approvazione.
 
 <sup>4</sup> Un organizzatore che impiega al massimo dieci persone non è tenuto a emanare direttive interne.
 
 <sup>5</sup> Se necessario per garantire un’organizzazione aziendale adeguata, l’Autorità intercantonale di vigilanza e d’esecuzione può esigere da un organizzatore secondo il capoverso 4 di emanare direttive interne.
+
+[^24-1]: Introdotta dal n. I dell’O del DFGP del 14 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 707](https://fedlex.data.admin.ch/eli/oc/2022/707)).
 
 #### Art. 25
 
@@ -431,42 +434,29 @@ Il servizio di lotta contro il riciclaggio di denaro ha i seguenti compiti:
 
 L’organizzatore provvede alla selezione accurata del personale e alla formazione e formazione continua regolare di tutti i collaboratori incaricati di svolgere compiti inerenti ad aspetti rilevanti della lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
 
-## Sezione 6: Comunicazioni, mantenimento o interruzione della relazione d’affari
+## Sezione 6: Documentazione, rifiuto o interruzione della relazione d’affari
 
-(art. 9–11*a* LRD)
+[^sec6-1]
+
+[^sec6-1]: Nuovo testo giusta il n. I dell’O del DFGP del 14 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 707](https://fedlex.data.admin.ch/eli/oc/2022/707)).
+
+### (art. 3–7 LRD)
 
 #### Art. 27
 
-**Comunicazioni**
+**Documentazione**
 
-<sup>1</sup> L’organizzatore esegue le comunicazioni secondo l’articolo 9 LRD conformemente alle prescrizioni dell’Ufficio di comunicazione in materia di riciclaggio di denaro.
-
-<sup>2</sup> Se, in caso di relazioni d’affari dubbie, non esercita il suo diritto di comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 CP[^27-1], ne documenta i motivi.
-
-[^27-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Se l’organizzatore non effettua alcuna comunicazione perché è riuscito a dissipare il sospetto mediante chiarimenti complementari secondo l’articolo 6 LRD, ne documenta i motivi.
 
 #### Art. 28
 
-**Obbligo di mantenere la relazione d’affari**
-
-<sup>1</sup>
-
-L’organizzatore non può interrompere la relazione d’affari se:
-
-- a. sono adempiute le condizioni per una comunicazione secondo l’articolo 9 LRD all’Ufficio di comunicazione in materia di riciclaggio di denaro;
-- b. si avvale del diritto di comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 CP[^28-1].
-
-<sup>2</sup> L’organizzatore non può interrompere una relazione d’affari dubbia né permettere il prelievo di importanti valori patrimoniali se sussistono indizi concreti dell’adozione di imminenti misure di sicurezza da parte di un’autorità.
-
-[^28-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Abrogato
 
 #### Art. 29
 
 **Rifiuto o interruzione della relazione d’affari**
 
-<sup>1</sup>
-
-L’organizzatore rifiuta di avviare una relazione d’affari o interrompe una relazione d’affari già avviata se:
+L’organizzatore rifiuta di avviare una relazione d’affari oppure, fatto salvo l’articolo 12*a* dell’ordinanza dell’11 novembre 2015[^29-1] sul riciclaggio di denaro, interrompe una relazione d’affari già avviata se:
 
 - a. non è in grado di identificare un giocatore che è tenuto a identificare;
 - b. non è in grado di determinare l’avente economicamente diritto in una relazione d’affari in cui è tenuto a determinare l’avente economicamente diritto;
@@ -474,25 +464,7 @@ L’organizzatore rifiuta di avviare una relazione d’affari o interrompe una r
 - d. anche dopo la procedura di cui all’articolo 5 capoverso 1 LRD permangono dubbi in merito all’identità del giocatore o dell’avente economicamente diritto;
 - e. ha il sospetto che gli siano state fornite intenzionalmente indicazioni false sull’identità del giocatore o sulle sue circostanze economiche oppure sull’avente economicamente diritto.
 
-<sup>2</sup>
-
-L’organizzatore decide a sua discrezione in merito al proseguimento della relazione d’affari se:
-
-- a.
-
-  entro 20 giorni lavorativi dopo una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera a LRD, l’Ufficio di comunicazione in materia di riciclaggio di denaro:
-
-  - 1\. non lo informa,
-  - 2\. lo informa che la comunicazione non viene trasmessa alle autorità di perseguimento penale,
-  - 3\. lo informa che la comunicazione è trasmessa a un’autorità di perseguimento penale e, a partire da quel momento, l’organizzatore non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi;
-
-- b. dopo una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera c LRD non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi;
-- c. dopo una comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 CP[^29-1], l’Ufficio di comunicazione in materia di riciclaggio di denaro lo informa che la sua comunicazione non è trasmessa a un’autorità di perseguimento penale; o
-- d. dopo il blocco disposto dall’autorità di perseguimento penale in base a una comunicazione ai sensi dell’articolo 9 LRD o dell’articolo 305<sup>ter</sup> capoverso 2 CP viene informato della sua revoca, con riserva di altre comunicazioni delle autorità di perseguimento penale.
-
-<sup>3</sup> L’organizzatore che intende interrompere la relazione d’affari può concedere il prelievo di importanti valori patrimoniali da parte del giocatore soltanto in una forma tale da permettere alle autorità di perseguimento penale di tracciare le transazioni.
-
-[^29-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-1]: [RS 955.01](https://fedlex.data.admin.ch/eli/cc/2015/791)
 
 ## Capitolo 3: Entrata in vigore
 

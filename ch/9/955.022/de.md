@@ -4,11 +4,11 @@ title: "Verordnung des EJPD vom 7. November 2018 über die Sorgfaltspflichten de
 short: GwV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/803"
 language: de
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-11-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/803/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-803-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/803/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/803/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-803-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/803/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/803/20190101/de"
 
 (Geldwäschereiverordnung EJPD, GwV-EJPD)
 
-vom 7. November 2018 (Stand am 1. Januar 2019)
+vom 7. November 2018 (Stand am 1. Januar 2023)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -401,13 +401,16 @@ Darin legt die Veranstalterin insbesondere fest:
 - h. die Modalitäten, nach denen die Veranstalterin die erhöhten Risiken erfasst, begrenzt und überwacht;
 - i. die Betragsgrenzen nach den Artikeln 12 Absatz 2 Buchstaben d und e sowie 14 Absatz 2 Buchstaben a und b, sofern sie nicht in dieser Verordnung festgelegt sind;
 - j. die Fristen nach Artikel 17 Buchstabe c;
-- k. die Verteilung der Aufgaben und Kompetenzen zwischen der Geldwäschereifachstelle und den anderen mit der Wahrnehmung der Sorgfaltspflichten beauftragten Organisationseinheiten.
+- k. die Verteilung der Aufgaben und Kompetenzen zwischen der Geldwäschereifachstelle und den anderen mit der Wahrnehmung der Sorgfaltspflichten beauftragten Organisationseinheiten;
+- l.[^24-1] die Rahmenbedingungen für die Aktualisierung von Kundenbelegen.
 
 <sup>3</sup> Die Veranstalterin reicht die internen Richtlinien der interkantonalen Aufsichts- und Vollzugsbehörde zur Genehmigung ein.
 
 <sup>4</sup> Eine Veranstalterin, die nicht mehr als zehn Personen beschäftigt, braucht keine internen Richtlinien zu erlassen.
 
 <sup>5</sup> Die interkantonale Aufsichts- und Vollzugsbehörde kann von einer Veranstalterin nach Absatz 4 verlangen, dass sie interne Richtlinien erlässt, wenn dies für eine angemessene betriebliche Organisation notwendig ist.
+
+[^24-1]: Eingefügt durch Ziff. I der V des EJPD vom 14. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 707](https://fedlex.data.admin.ch/eli/oc/2022/707)).
 
 #### Art. 25
 
@@ -431,42 +434,29 @@ Die Geldwäschereifachstelle hat folgende Aufgaben:
 
 Die Veranstalterin sorgt für die sorgfältige Auswahl des Personals und die Ausbildung sowie die regelmässige Weiterbildung aller mit entsprechenden Aufgaben betrauten Mitarbeiterinnen und Mitarbeiter hinsichtlich der für sie wesentlichen Aspekte der Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung.
 
-### 6. Abschnitt: Meldungen, Aufrechterhaltung oder Abbruch der Geschäftsbeziehung
+### 6. Abschnitt: Dokumentationspflicht, Ablehnung oder Abbruch der Geschäftsbeziehung
 
-### (Art. 9–11*a* GwG)
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Fassung gemäss Ziff. I der V des EJPD vom 14. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 707](https://fedlex.data.admin.ch/eli/oc/2022/707)).
+
+### (Art. 3–7 GwG)
 
 #### Art. 27
 
-**Meldungen**
+**Dokumentation**
 
-<sup>1</sup> Die Veranstalterin muss die Meldungen nach Artikel 9 GwG gemäss den Vorgaben der Meldestelle für Geldwäscherei erstatten.
-
-<sup>2</sup> Übt sie bei zweifelhaften Geschäftsbeziehungen ihr Melderecht nach Artikel 305<sup>ter</sup> Absatz 2 StGB[^27-1] nicht aus, so dokumentiert sie die Gründe.
-
-[^27-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Erstattet die Veranstalterin keine Verdachtsmeldung, weil sie den Verdacht aufgrund zusätzlicher Abklärungen gemäss Artikel 6 GwG ausräumen konnte, so dokumentiert sie die zugrundeliegenden Gründe.
 
 #### Art. 28
 
-**Pflicht zur Aufrechterhaltung der Geschäftsbeziehung**
-
-<sup>1</sup>
-
-Die Veranstalterin darf die Geschäftsbeziehung nicht abbrechen, wenn:
-
-- a. die Voraussetzungen für eine Meldung nach Artikel 9 GwG an die Meldestelle für Geldwäscherei erfüllt sind;
-- b. sie das Melderecht nach Artikel 305<sup>ter</sup> Absatz 2 StGB[^28-1] in Anspruch nimmt.
-
-<sup>2</sup> Sie darf weder eine zweifelhafte Geschäftsbeziehung abbrechen noch den Abzug bedeutender Vermögenswerte zulassen, wenn konkrete Anzeichen dafür bestehen, dass behördliche Sicherstellungsmassnahmen unmittelbar bevorstehen.
-
-[^28-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Aufgehoben
 
 #### Art. 29
 
 **Ablehnungoder Abbruch der Geschäftsbeziehung**
 
-<sup>1</sup>
-
-Die Veranstalterin lehnt die Aufnahme einer Geschäftsbeziehung ab oder bricht eine bereits eingegangene Geschäftsbeziehung ab, wenn sie:
+Die Veranstalterin lehnt die Aufnahme einer Geschäftsbeziehung ab oder bricht eine bereits eingegangene Geschäftsbeziehung unter Vorbehalt von Artikel 12*a* der Geldwäschereiverordnung vom 11. November 2015[^29-1] ab, wenn sie:
 
 - a. eine zu identifizierende Spielerin oder einen zu identifizierenden Spieler nicht identifizieren kann;
 - b. in einer Geschäftsbeziehung, in der sie zur Feststellung der wirtschaftlich berechtigten Person verpflichtet ist, die wirtschaftlich berechtigte Person nicht feststellen kann;
@@ -474,25 +464,7 @@ Die Veranstalterin lehnt die Aufnahme einer Geschäftsbeziehung ab oder bricht e
 - d. auch nach der Durchführung des Verfahrens nach Artikel 5 Absatz 1 GwG noch Zweifel betreffend die Identität der Spielerin oder des Spielers oder die wirtschaftliche Berechtigung hat;
 - e. den Verdacht hat, dass ihr gegenüber wissentlich falsche Angaben über die Identität der Spielerin oder des Spielers oder über ihren oder seinen wirtschaftlichen Hintergrund oder über die wirtschaftlich berechtigte Person gemacht wurden.
 
-<sup>2</sup>
-
-Sie entscheidet über die Weiterführung der Geschäftsbeziehung nach eigenem Ermessen, wenn:
-
-- a.
-
-  die Meldestelle für Geldwäscherei ihr nach einer Meldung nach Artikel 9 Absatz 1 Buchstabe a GwG innerhalb von zwanzig Arbeitstagen:
-
-  - 1\. keine Mitteilung macht,
-  - 2\. mitteilt, dass sie die Meldung nicht an die Strafverfolgungsbehörden weiterleitet,
-  - 3\. mitteilt, dass sie die Meldung an eine Strafverfolgungsbehörde weiterleitet, und die Veranstalterin ab dem Zeitpunkt dieser Mitteilung innerhalb von fünf Arbeitstagen keine Verfügung der Strafverfolgungsbehörde erhält;
-
-- b. sie nach einer Meldung nach Artikel 9 Absatz 1 Buchstabe c GwG nicht innerhalb von fünf Arbeitstagen eine Verfügung von der Strafverfolgungsbehörde erhält;
-- c. sie nach einer Meldung nach Artikel 305<sup>ter</sup> Absatz 2 StGB[^29-1] eine Mitteilung der Meldestelle für Geldwäscherei erhält, wonach die Meldung nicht an eine Strafverfolgungsbehörde weitergeleitet wird; oder
-- d. sie nach einer durch die Strafverfolgungsbehörde gestützt auf eine Meldung nach Artikel 9 GwG oder Artikel 305<sup>ter</sup> Absatz 2 StGB angeordneten Sperre über deren Aufhebung informiert wird, vorbehalten anderer Mitteilungen der Strafverfolgungsbehörden.
-
-<sup>3</sup> Die Veranstalterin, welche die Geschäftsbeziehung abbrechen will, darf den Rückzug bedeutender Vermögenswerte durch die Spielerin oder den Spieler nur in einer Form gestatten, die es den Strafverfolgungsbehörden erlaubt, deren Spur weiterzuverfolgen.
-
-[^29-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-1]: [SR 955.01](https://fedlex.data.admin.ch/eli/cc/2015/791)
 
 ## 3. Kapitel: Inkrafttreten
 

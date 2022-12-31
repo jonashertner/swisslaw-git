@@ -4,11 +4,11 @@ title: "Ordonnance du DFJP du 7 novembre 2018 concernant les obligations de dili
 short: OBA-DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/803"
 language: fr
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-11-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/803/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-803-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/803/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/803/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-803-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/803/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/803/20190101/fr"
 
 (Ordonnance du DFJP sur le blanchiment d’argent, OBA-DFJP)
 
-du 7 novembre 2018 (Etat le 1<sup>er</sup> janvier 2019)
+du 7 novembre 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -134,7 +134,7 @@ L’exploitant enregistre:
 
 Au lieu de procéder selon les al. 1 à 3, l’exploitant peut:
 
-- a. consulter et enregistrer sous forme électronique un moyen d’identification électronique reconnu par l’Etat;
+- a. consulter et enregistrer sous forme électronique un moyen d’identification électronique reconnu par l’État;
 - b. procéder à une identification par vidéo ou en ligne;
 - c. consulter et enregistrer sous forme électronique un extrait électronique d’une banque de données sous gestion privée digne de confiance ou d’un registre public géré par l’autorité compétente, ou
 - d. consulter et enregistrer ou classer sous forme électronique ou sous forme papier la copie d’une pièce justificative que le joueur lui a transmise physiquement ou par voie électronique servant à attester qu’il dispose d’un compte bancaire, postal ou autre libellé à son nom en Suisse.
@@ -401,13 +401,16 @@ Il y règle notamment:
 - h. les modalités selon lesquelles l’exploitant détermine, limite et surveille les risques accrus;
 - i. les montants limites visés aux art. 12, al. 2, let. d et e, et 14, al. 2, let. a et b, pour autant qu’ils ne soient pas fixés dans la présente ordonnance;
 - j. les délais visés à l’art. 17, let. c;
-- k. la répartition des tâches et compétences entre le service de lutte contre le blanchiment d’argent et les autres unités organisationnelles chargées de répondre aux obligations de diligence.
+- k. la répartition des tâches et compétences entre le service de lutte contre le blanchiment d’argent et les autres unités organisationnelles chargées de répondre aux obligations de diligence;
+- l.[^24-1] les condition-cadres pour l’actualisation des documents relatifs aux clients.
 
 <sup>3</sup> L’exploitant soumet ses directives internes à l’approbation de l’autorité intercantonale de surveillance et d’exécution.
 
 <sup>4</sup> L’exploitant qui emploie dix personnes au plus est dispensé d’édicter des directives internes.
 
 <sup>5</sup> L’autorité intercantonale de surveillance et d’exécution peut exiger d’un exploitant visé à l’al. 4 qu’il édicte des directives internes si cela se révèle nécessaire à la bonne exploitation.
+
+[^24-1]: Introduite par le ch. I de l’O du DFJP du 14 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 707](https://fedlex.data.admin.ch/eli/oc/2022/707)).
 
 #### Art. 25
 
@@ -431,42 +434,29 @@ Le service de lutte contre le blanchiment d’argent a pour tâches:
 
 L’exploitant veille à choisir avec soin les membres de son personnel et s’assure que les personnes chargées des tâches en relation avec la lutte contre le blanchiment d’argent et le financement du terrorisme suivent une formation et des formations continues régulières portant sur tous les aspects essentiels de ces domaines.
 
-### Section 6 Communications, maintien ou rupture de la relation d’affaires
+### Section 6 Documentation, refus ou rupture de la relation d’affaires
 
-### (art. 9 à 11*a* LBA)
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 14 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 707](https://fedlex.data.admin.ch/eli/oc/2022/707)).
+
+### (art. 3 à 7 LBA)
 
 #### Art. 27
 
-**Communications**
+**Documentation**
 
-<sup>1</sup> L’exploitant doit effectuer les communications visées à l’art. 9 LBA dans une forme respectant les prescriptions du Bureau de communication en matière de blanchiment d’argent.
-
-<sup>2</sup> S’il n’exerce pas son droit de communication selon l’art. 305<sup>ter</sup>, al. 2, CP[^27-1] dans le cas d’une relation d’affaires douteuse, il doit en documenter les raisons.
-
-[^27-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Si l’exploitant n’effectue pas de communication parce qu’il a pu écarter le soupçon après avoir effectué des clarifications supplémentaires au sens de l’art. 6 LBA, il doit en documenter les raisons.
 
 #### Art. 28
 
-**Obligation de maintenir la relation d’affaires**
-
-<sup>1</sup>
-
-L’exploitant ne peut pas rompre une relation d’affaires:
-
-- a. lorsque les conditions déterminant l’obligation de communiquer au sens de l’art. 9 LBA sont remplies;
-- b. lorsqu’il exerce son droit de communication selon l’art. 305<sup>ter</sup>, al. 2, CP[^28-1].
-
-<sup>2</sup> Il ne peut ni rompre une relation d’affaires, ni autoriser le retrait d’importantes valeurs patrimoniales lorsque des signes concrets montrent que des mesures de sûreté sont sur le point d’être adoptées par une autorité.
-
-[^28-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Abrogé
 
 #### Art. 29
 
 **Refus ou rupture de la relation d’affaires**
 
-<sup>1</sup>
-
-L’exploitant refuse d’établir une relation d’affaires ou rompt une relation d’affaires déjà engagée lorsqu’il:
+L’exploitant refuse d’établir une relation d’affaires ou rompt une relation d’affaires déjà engagée, sous réserve de l’art. 12*a* de l’ordonnance du 11 novembre 2015 sur le blanchiment d’argent[^29-1], lorsqu’il:
 
 - a. ne parvient pas à vérifier l’identité d’un joueur qui doit être identifié;
 - b. ne parvient pas à identifier l’ayant droit économique dans une relation d’affaires dans laquelle il devrait s’acquitter de cette obligation;
@@ -474,25 +464,7 @@ L’exploitant refuse d’établir une relation d’affaires ou rompt une relati
 - d. doute de l’identité du joueur, même après la mise en œuvre de la procédure prévue à l’art. 5, al. 1, LBA;
 - e. soupçonne qu’on lui a donné sciemment de fausses indications sur l’identité du joueur ou son arrière-plan économique, ou sur l’ayant droit économique.
 
-<sup>2</sup>
-
-Il choisit de maintenir une relation d’affaires selon sa propre appréciation si:
-
-- a.
-
-  dans un délai de 20 jours ouvrables suivant une communication selon l’art. 9, al. 1, let. a, LBA, le Bureau de communication en matière de blanchiment d’argent:
-
-  - 1\. ne lui donne pas d’informations,
-  - 2\. l’informe que la communication ne sera pas transmise aux autorités de poursuite pénale,
-  - 3\. l’informe que la communication sera transmise à une autorité de poursuite pénale et qu’il ne recevra aucune décision de l’autorité de poursuite pénale dans un délai de cinq jours ouvrables;
-
-- b. après une communication selon l’art. 9, al. 1, let. c, LBA, il ne reçoit aucune décision de l’autorité de poursuite pénale dans un délai de cinq jours ouvrables après avoir reçu cette information;
-- c. après une communication selon l’art. 305<sup>ter</sup>, al. 2, CP[^29-1], il reçoit une communication du Bureau de communication en matière de blanchiment d’argent selon laquelle la communication ne sera pas transmise aux autorités de poursuite pénale, ou
-- d. après un blocage ordonné par l’autorité de poursuite pénale sur la base d’une communication selon l’art. 9 LBA ou l’art. 305<sup>ter</sup>, al. 2, CP, il est informé de sa levée, sous réserve d’autres communications de l’autorité de poursuite pénale.
-
-<sup>3</sup> Si l’exploitant choisit de rompre une relation d’affaires, il ne peut autoriser le retrait d’importantes valeurs patrimoniales par le joueur que sous une forme permettant aux autorités de poursuite pénale de suivre la trace de ces valeurs.
-
-[^29-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-1]: [RS 955.01](https://fedlex.data.admin.ch/eli/cc/2015/791)
 
 ## Chapitre 3 Entrée en vigueur
 
