@@ -3,13 +3,12 @@ canton: FR
 number: "931.1"
 title: "Loi sur l'exploitation des mines"
 language: fr
-version: 1992-01-01
-valid_until: 2022-12-31
-version_adopted: 1991-09-25
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1850-10-04
 in_force: 1850-10-04
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/931.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5721/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7598/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5721/pdf_file"
 
 Exploitation des mines – L
 
-du 04.10.1850 (version entrée en vigueur le 01.01.1992)
+du 04.10.1850 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -200,7 +199,7 @@ Décrète:[^ingress-1]
 
 <sup>1</sup> Les concessionnaires ont droit aux passages nécessaires, selon les dispositions du code civil.
 
-<sup>2</sup> Ils contribuent proportionnellement à l'entretien des chemins, ruisseaux, canaux et aqueducs déjà existants et dont ils font usage, sans préjudice à l'indemnité extraordinaire prévue à l'article 84 de la loi sur les routes.
+<sup>2</sup> Ils contribuent proportionnellement à l'entretien des chemins, ruisseaux, canaux et aqueducs déjà existants et dont ils font usage.
 
 #### Art. 30
 

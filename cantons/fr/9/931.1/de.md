@@ -3,13 +3,12 @@ canton: FR
 number: "931.1"
 title: Gesetz über den Betrieb der Minen
 language: de
-version: 1992-01-01
-valid_until: 2022-12-31
-version_adopted: 1991-09-25
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1850-10-04
 in_force: 1850-10-04
 url: "https://bdlf.fr.ch/app/de/texts_of_law/931.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/5721/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7598/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5721/pdf_file"
 
 Betrieb der Minen – G
 
-vom 04.10.1850 (Fassung in Kraft getreten am 01.01.1992)
+vom 04.10.1850 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -200,7 +199,7 @@ dekretiert:[^ingress-1]
 
 <sup>1</sup> Die Betriebsberechtigten haben das nötige Durchgangsrecht, wie solches im Zivilgesetzbuch bestimmt ist.
 
-<sup>2</sup> Sie tragen verhältnismässig zum Unterhalte der bereits bestehenden und von ihnen benützten Wege, Flüsse, Kanäle und Wasserleitungen bei, unbeschadet des ausserordentlichen Ersatzes, wovon im Artikel 84 des Strassengesetzes die Rede ist.
+<sup>2</sup> Sie tragen verhältnismässig zum Unterhalt der bereits bestehenden und von ihnen benutzten Wege, Flüsse, Kanäle und Wasserleitungen bei.
 
 #### Art. 30
 
