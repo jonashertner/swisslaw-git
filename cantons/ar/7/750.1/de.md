@@ -4,13 +4,12 @@ number: "750.1"
 title: Energiegesetz
 short: kEnG
 language: de
-version: 2019-11-01
-valid_until: 2022-12-31
-version_adopted: 2018-10-29
+version: 2023-01-01
+version_adopted: 2022-03-28
 adopted: 2001-09-24
 in_force: 2002-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/750.1"
-pdf: "https://ar.clex.ch/api/de/versions/1279/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1443/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1279/pdf_file"
 
 (kEnG)
 
-vom 24.09.2001 (Stand 01.11.2019)
+vom 24.09.2001 (Stand 01.01.2023)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -34,40 +33,44 @@ beschliesst:
 
 #### Art. 1
 
-**Zweck und Geltungsbereich**
+**Zweck und Gegenstand**
 
-<sup>1</sup> Dieses Gesetz ordnet die kantonale Energiepolitik und dient dem Vollzug der übergeordneten Energiegesetzgebung.
+<sup>1</sup> Dieses Gesetz soll dazu beitragen, eine sichere und umweltschonende Energieversorgung langfristig zu gewährleisten und eine sparsame, rationelle und nachhaltige Energienutzung zu fördern.
 
-<sup>2</sup> Es soll zu einer ausreichenden, breit gefächerten, sicheren, wirtschaftlichen und umweltverträglichen Energieversorgung beitragen.
+<sup>2</sup> Es ordnet die kantonale Energiepolitik und schafft die erforderlichen Grundlagen für die Umsetzung der Energie- und Klimaziele des Bundes.
+
+<sup>3</sup> Es dient dem Vollzug des übergeordneten Energierechts.
 
 #### Art. 2
 
 **Grundsätze und Ziele**
 
-<sup>1</sup> Jede Energie ist sparsam und rationell zu verwenden.
+<sup>1</sup> Jede Energie ist sparsam, rationell und nachhaltig zu verwenden. Der Energieverbrauch ist nach dem jeweiligen Stand der Technik durch wirtschaftlich tragbare Effizienzmassnahmen zu reduzieren.
 
-<sup>2</sup> Die Ressourcen sind durch den Einsatz erneuerbarer Energien möglichst zu schonen. Einheimische Energien sind verstärkt zu nutzen. Eine einseitige Abhängigkeit von einzelnen Energieträgern ist zu vermeiden.
+<sup>2</sup> Kanton und Gemeinden fördern die Loslösung von fossilen Energieträgern. Sie schaffen im Rahmen ihrer Zuständigkeiten die erforderlichen Grundlagen für den Ausbau der erneuerbaren Energien und leisten einen wesentlichen Beitrag zur Erreichung der Klimaneutralität.
 
-<sup>3</sup> Die Energie ist wirtschaftlich und umweltverträglich bereitzustellen und zuverteilen.
+<sup>3</sup> Bis ins Jahr 2035 sollen mindestens 40 % des kantonalen Stromverbrauchs durch erneuerbare Energien aus dem Kanton gedeckt werden, namentlich durch die Nutzung von Sonne, Wind und Wasser.
 
 #### Art. 3
 
 **Energiepolitik a) Kanton**
 
-<sup>1</sup> Der Regierungsrat plant die kantonale Energiepolitik, koordiniert sie mit der Energiepolitik des Bundes sowie anderer Kantone und berücksichtigt die Entwicklung und Anstrengungen der Wirtschaft.
+<sup>1</sup> Der Regierungsrat plant eine mit dem Bund und anderen Kantonen koordinierte Energiepolitik und sorgt für ihre Berücksichtigung in den übrigen Planungen des Kantons.
 
-<sup>2</sup> Er erarbeitet dafür ein kantonales Energiekonzept und überprüft es periodisch.
-
-<sup>3</sup> Das Energiekonzept enthält insbesondere Angaben über:
+<sup>2</sup> Er erarbeitet dafür ein kantonales Energiekonzept, welches insbesondere Angaben enthält über:
 
 - a) die Ziele und Prioritäten der kantonalen Energiepolitik;
-- b) die Zusammenarbeit mit dem Bund und anderen Kantonen;
-- c) den sinnvollen Einsatz der verschiedenen Energieträger;
-- d) die energiepolitischen Massnahmen.
+- b) die geplanten Massnahmen zur Zielerreichung der Energiepolitik;
+- c) die Zusammenarbeit mit dem Bund und anderen Kantonen;
+- d) den sinnvollen Einsatz der verschiedenen Energieträger.
 
-<sup>4</sup> Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mitwirkung verpflichtet. Sie sind anzuhören.
+<sup>3</sup> Das Energiekonzept wird zur Beratung und Genehmigung dem Kantonsrat vorgelegt.
 
-<sup>5</sup> Das Energiekonzept bedarf der Genehmigung durch den Kantonsrat.
+<sup>4</sup> Der Regierungsrat überwacht die Zielerreichung und sorgt für die Weiterentwicklung des Energiekonzepts. Er erstattet dem Kantonsrat alle vier Jahre Bericht.
+
+<sup>5</sup> Der Kanton wirkt bei Energieversorgungsunternehmen, bei denen er beteiligt ist, darauf hin, dass die Ziele der Energiepolitik erreicht werden und die Einspeisung erneuerbarer Energie ins öffentliche Netz angemessen vergütet wird.
+
+<sup>6</sup> Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mitwirkung verpflichtet. Sie sind anzuhören.
 
 #### Art. 3a
 
@@ -94,9 +97,7 @@ beschliesst:
 
 #### Art. 3b
 
-**c) Auskunftspflicht**
-
-<sup>1</sup> Energieversorgungsunternehmen erteilen Kanton und Gemeinden die für den Vollzug dieses Gesetzes erforderlichen Auskünfte.
+**…**
 
 #### Art. 4
 
@@ -110,15 +111,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Die Gemeinden vollziehen die Vorschriften über:
-
-- a) den Wärme- und Kälteschutz von Bauten;
-- b) den Höchstanteil an nicht erneuerbaren Energien;
-- c) die verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung;
-- d) den Elektrizitätsbedarf für Beleuchtung und Belüftung;
-- e) haustechnische Anlagen;
-- f) ortsfeste elektrische Widerstandsheizungen;
-- g) Heizungen im Freien und beheizte Freiluftbäder.
+<sup>1</sup> Die Gemeinden vollziehen die Vorschriften dieses Gesetzes und der Ausführungsbestimmungen, sofern nicht ausdrücklich der Kanton als zuständig bezeichnet wird.
 
 <sup>2</sup> Das Amt für Umwelt
 
@@ -170,7 +163,7 @@ beschliesst:
 
 #### Art. 9
 
-<sup>1</sup> Bauten, Anlagen oder Teile davon sowie damit zusammenhängende Ausstattungen und Ausrüstungen (Haustechnik) sind derart zu erstellen, zu betreiben und zu unterhalten, dass eine sparsame und rationelle Energieverwendung gewährleistet ist.
+<sup>1</sup> Bauten, Anlagen oder Teile davon sowie damit zusammenhängende Ausstattungen und Ausrüstungen (Haustechnik) sind derart zu erstellen, zu betreiben und zu unterhalten, dass eine sparsame und rationelle Energieverwendung gewährleistet ist. Sofern nicht anders bestimmt, sind bestehende Bauten und Anlagen an die Minimalanforderungen anzupassen, wenn sie umgebaut oder umgenutzt werden.
 
 <sup>2</sup> Der Regierungsrat regelt die Anforderungen und deren Nachweis. Er orientiert sich dabei am Stand der Technik und der Wirtschaftlichkeit. Er kann insbesondere Energiekennzahlen vorschreiben sowie Normen, Empfehlungen und Richtlinien von Fachorganisationen verbindlich erklären.
 
@@ -182,28 +175,55 @@ beschliesst:
 
 #### Art. 10
 
-**Höchstanteil an nicht erneuerbaren Energien**
+**Deckung des Energiebedarfs**
 
-<sup>1</sup> Neubauten sowie einem Neubau gleichzustellende Umbauten und Anbauten sind so zu erstellen und auszurüsten, dass höchstens 80 Prozent des zulässigen Wärmebedarfs für Heizung und Warmwasser mit nicht erneuerbaren Energien gedeckt werden.
+<sup>1</sup> Neubauten sowie einem Neubau gleichzustellende Umbauten und Anbauten sind so zu erstellen und auszurüsten, dass ihr Energiebedarf für Heizung, Warmwasser, Lüftung und Klimatisierung dem Stand der Technik entspricht.
 
-<sup>2</sup> Der Regierungsrat regelt die Einzelheiten und die Ausnahmen, insbesondere für Um- und Anbauten mit geringer neu geschaffener Energiebezugsfläche.
+<sup>2</sup> Der Regierungsrat regelt Art und Umfang der Anforderungen an den Energieeinsatz. Er berücksichtigt dabei insbesondere die Wirtschaftlichkeit sowie besondere Verhältnisse wie Klima, Verschattung oder Quartiersituationen.
 
 <sup>3</sup> …
+
+#### Art. 10a
+
+**Eigenstromerzeugung**
+
+<sup>1</sup> Neubauten sowie einem Neubau gleichzustellende Umbauten und Anbauten sind so zu erstellen und auszurüsten, dass ein Teil des Strombedarfs durch Eigenstromerzeugung in, auf oder an der Baute gedeckt wird.
+
+<sup>2</sup> Die Vorgabe zur Eigenstromerzeugung entfällt bei Beteiligung an einer Gemeinschaftsanlage auf dem Kantonsgebiet, die mindestens 50 % mehr Strom aus erneuerbaren Energien produziert.
+
+<sup>3</sup> Der Regierungsrat regelt das Nähere.
+
+#### Art. 10b
+
+**Erneuerbare Wärme beim Ersatz des Wärmeerzeugers**
+
+<sup>1</sup> Beim Ersatz des Wärmeerzeugers sind bestehende Bauten mit Wohnnutzung so auszurüsten, dass der Anteil an nichterneuerbarer Energie 80 % des massgebenden Bedarfs nicht überschreitet. Für die Festlegung der Standardlösung gilt ein massgebender Energiebedarf für die Heizung und das Warmwasser von 100 kWh/m²a.
+
+<sup>2</sup> Der Regierungsrat regelt die Berechnungsweise, die Standardlösungen sowie die Ausnahmen, insbesondere für Bauten mit einer guten Gesamtenergieeffizienz.
 
 #### Art. 11
 
 **Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung**
 
-<sup>1</sup> Mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser sind auszurüsten:
+<sup>1</sup> Neubauten mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit Geräten auszurüsten, die den individuellen Wärmeverbrauch für das Warmwasser pro Nutzeinheit erfassen.
 
-- a) neue Bauten und Gebäudegruppen mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten;
-- b) bestehende Bauten mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten bei der Gesamterneuerung des Heizungs- und/oder Warmwassersystems.
+<sup>1<sup>bis</sup></sup> Neubauten, die Wärme von einer zentralen Wärmeversorgung für eine Gebäudegruppe beziehen, sind mit Geräten auszurüsten, die ihren individuellen Wärmeverbrauch für die Heizung erfassen.
 
-<sup>2</sup> Bestehende Gebäudegruppen mit zentraler Wärmeversorgung sind mit den nötigen Geräten zur Erfassung des Wärmeverbrauchs für Heizung pro Gebäude auszurüsten, wenn an einem oder mehreren Gebäuden die Gebäudehülle zu über 75 Prozent saniert wird.
+<sup>1<sup>ter</sup></sup> Bestehende Bauten mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind bei einer Gesamterneuerung des Heizungs- und/oder des Warmwassersystems mit Geräten auszurüsten, die den individuellen Wärmeverbrauch pro Nutzeinheit im erneuerten System erfassen.
 
-<sup>3</sup> In Bauten und Gebäudegruppen, für die eine Ausrüstungspflicht besteht, sind die Kosten für den Wärmeverbrauch (Heizenergie und evtl. Warmwasser) zum überwiegenden Teil anhand des gemessenen Verbrauchs der einzelnen Nutzeinheiten abzurechnen.
+<sup>2</sup> Bestehende Bauten, die Wärme von einer zentralen Wärmeversorgung für eine Gebäudegruppe beziehen, sind mit Geräten zur Erfassung ihres individuellen Wärmeverbrauchs für die Heizung auszurüsten, wenn an einer oder mehreren Bauten der Gruppe die Gebäudehülle zu über 75 % saniert wird.
 
-<sup>4</sup> Der Regierungsrat regelt die Einzelheiten und die Ausnahmen von der Ausrüstungs- und Abrechnungspflicht für Bauten und Gebäudegruppen mit besonders tiefem Energieverbrauch oder geringer installierter Wärmeerzeugerleistung.
+<sup>3</sup> In Bauten und Gebäudegruppen, für die eine Ausrüstungspflicht besteht, sind die Kosten für den Wärmeverbrauch (Heizenergie und/oder Warmwasser) zum überwiegenden Teil anhand des gemessenen Verbrauchs der einzelnen Nutzeinheiten abzurechnen.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten und die Ausnahmen von der Ausrüstungs- und Abrechnungspflicht für Bauten und Gebäudegruppen mit geringer installierter Wärmeerzeugerleistung.
+
+#### Art. 11a
+
+**Gebäudeautomation**
+
+<sup>1</sup> Neubauten der Kategorien III bis XII (SIA 380/1) sind im Hinblick auf einen möglichst tiefen Energieverbrauch mit Einrichtungen zur Gebäudeautomation auszurüsten, soweit es technisch möglich und wirtschaftlich tragbar ist.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten.
 
 ## IIb. Anlagen
 
@@ -219,6 +239,8 @@ beschliesst:
 
 - a) thermischen Elektrizitätserzeugungsanlagen;
 - b) ortsfesten elektrischen Widerstandsheizungen;
+- b<sup>bis</sup>) direkt-elektrischen zentralen Wassererwärmern in bestehenden Bauten mit Wohnnutzung;
+- b<sup>ter</sup>) mit fossilen Brennstoffen betriebenen Heizungen in bestehenden Bauten mit Wohnnutzung;
 - c) ortsfesten Heizungen im Freien;
 - d) beheizten Freiluftbädern mit mehr als 8 m³ Inhalt.
 
@@ -245,6 +267,17 @@ beschliesst:
 - c) den Einsatz einer ortsfesten elektrischen Widerstandsheizung als Zusatzheizung.
 
 <sup>2</sup> Der Regierungsrat regelt die Ausnahmen, insbesondere für elektrische Widerstandsheizungen ohne Wasserverteilsystem und Notheizungen.
+
+#### Art. 12cbis
+
+**Direkt-elektrische Wassererwärmer**
+
+<sup>1</sup> Ausschliesslich direkt-elektrische Wassererwärmer in Wohnbauten sind grundsätzlich verboten. Dies gilt namentlich für:
+
+- a) die Neuinstallation von ausschliesslich direkt-elektrischen Wassererwärmern;
+- b) den Ersatz von zentralen, ausschliesslich direkt-elektrischen Wassererwärmern.
+
+<sup>2</sup> Der Regierungsrat regelt die Ausnahmen, insbesondere wenn das Warmwasser während der Heizperiode mit dem Wärmeerzeuger für die Raumheizung erwärmt oder vorgewärmt wird.
 
 #### Art. 12d
 
@@ -282,7 +315,7 @@ beschliesst:
 
 **Gebäudeenergieausweis**
 
-<sup>1</sup> Der Kanton führt einen freiwilligen Gebäudeenergieausweis ein.
+<sup>1</sup> Der Kanton führt den «Gebäudeenergieausweis der Kantone (GEAK)» ein.
 
 #### Art. 13
 
@@ -292,7 +325,11 @@ beschliesst:
 
 **Vorbild der öffentlichen Hand**
 
-<sup>1</sup> Kanton und Gemeinden sehen im eigenen Bereich soweit möglich weitergehende Massnahmen für eine sparsame und rationelle Verwendung von Energie sowie den Einsatz erneuerbarer Energieträger vor.
+<sup>1</sup> Kanton, Gemeinden und selbständige öffentlich-rechtliche Anstalten des Kantons sehen im eigenen Bereich soweit möglich weitergehende Massnahmen für eine sparsame und rationelle Verwendung von Energie sowie den Einsatz erneuerbarer Energieträger vor.
+
+<sup>1<sup>bis</sup></sup> Sie verzichten bis 2050 vollständig auf fossile Brennstoffe und senken ihren Stromverbrauch bis 2030 im Vergleich zu 1990 um 20 %. Soweit sie das Senkungsziel nicht erreichen, decken sie ihren Stromverbrauch im gleichen Umfang mit zugebauten erneuerbaren Energien.
+
+<sup>1<sup>ter</sup></sup> Der Kanton installiert keine mit fossilen Brennstoffen betriebenen Heizungen mehr.
 
 <sup>2</sup> Der Regierungsrat kann für den kantonalen Bereich Weisungen und für den kommunalen Bereich Empfehlungen erlassen.
 
@@ -324,7 +361,7 @@ beschliesst:
 - d) energiebezogene Aus- und Weiterbildung, Information, Beratung und Marketing;
 - e) Forschung, Entwicklung und Demonstration neuer Energietechnologien, insbesondere im Bereich der sparsamen und rationellen Energienutzung sowie der Nutzung erneuerbarer Energien.
 
-<sup>2</sup> Das Departement Bau und Volkswirtschaft erarbeitet die Förderprogramme. Der Regierungsrat beschliesst die Förderprogramme und entscheidet über Förderleistungen im Einzelfall.
+<sup>2</sup> Der Regierungsrat erlässt die Förderprogramme und entscheidet über Förderleistungen im Einzelfall. Die Förderprogramme bedürfen der Genehmigung durch den Kantonsrat.
 
 <sup>3</sup> Auf Förderleistungen besteht kein Anspruch.
 
@@ -334,7 +371,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton errichtet einen Fonds zur Finanzierung von Massnahmen nach Art. 18 Abs. 1.
 
-<sup>2</sup> Der Fonds wird im Rahmen der verfügbaren Mittel geäufnet bis zu einer maximalen Höhe von 4,5 Millionen Franken.
+<sup>2</sup> …
 
 <sup>3</sup> Der Kantonsrat legt den Beitrag des Kantons im Voranschlag fest.
 
@@ -346,17 +383,17 @@ beschliesst:
 
 **Auskunfts- und Informationspflicht**
 
-<sup>1</sup> Der Kanton und die Gemeinden sind ermächtigt, zu statistischen Zwecken Erhebungen über den Energieverbrauch anzustellen.
+<sup>1</sup> Der Kanton und die Gemeinden sind ermächtigt, zum Zwecke der Statistik, Planung und Wirkungskontrolle Daten über den Energieverbrauch von Bauten und Anlagen zu erheben und zu bearbeiten.
 
-<sup>2</sup> Jede Person ist verpflichtet, den Behörden die für den Vollzug erforderlichen Auskünfte zu erteilen und nötigenfalls Abklärungen durchzuführen oder zu dulden.
+<sup>2</sup> Alle natürlichen und juristischen Personen, insbesondere die Energieversorgungsunternehmen, sind verpflichtet, den Behörden die für den Vollzug erforderlichen Auskünfte zu erteilen und nötigenfalls Abklärungen durchzuführen oder zu dulden.
 
-<sup>3</sup> Die Gemeinden informieren das Amt für Umwelt auf Anfrage über ihre Vollzugsmassnahmen.
+<sup>3</sup> Die Gemeinden informieren das Amt für Umwelt auf Anfrage über ihre Vollzugsmassnahmen und leisten ihm Vollzugshilfe.
 
 #### Art. 20
 
 **Rechtsschutz**
 
-<sup>1</sup> Gegen Verfügungen des Amtes für Umwelt und der Gemeinderäte kann an das Departement Bau und Volkswirtschaft rekurriert werden. Gegen Rechtsmittelentscheide des Departements Bau und Volkswirtschaft kann Beschwerde an das Obergericht erhoben werden.
+<sup>1</sup> Gegen Verfügungen des Amtes für Umwelt und der Bewilligungsbehörden in der Gemeinde kann an das Departement Bau und Volkswirtschaft rekurriert werden. Gegen Rechtsmittelentscheide des Departements Bau und Volkswirtschaft kann Beschwerde an das Obergericht erhoben werden.
 
 <sup>2</sup> Gegen erstinstanzliche Verfügungen des Departements Bau und Volkswirtschaft kann an den Regierungsrat rekurriert werden.
 
@@ -376,6 +413,14 @@ beschliesst:
 **Übergangsbestimmung**
 
 <sup>1</sup> Dieses Gesetz wird auf alle laufenden Verfahren angewendet.
+
+#### Art. 22a
+
+**Übergangsbestimmungen zur Teilrevision vom 28. März 2022**
+
+<sup>1</sup> Bestehende ortsfeste elektrische Widerstandsheizungen sind innerhalb von 15 Jahren nach Inkrafttreten der Teilrevision durch Heizungen zu ersetzen, die den Anforderungen dieses Gesetzes entsprechen. Der Regierungsrat kann Ausnahmen vorsehen, insbesondere bei Bauten mit einer geringen elektrisch beheizten Fläche.
+
+<sup>2</sup> Bestehende zentrale, ausschliesslich direkt-elektrische Wassererwärmer in Wohnbauten sind innerhalb von 15 Jahren nach Inkrafttreten der Teilrevision zu ersetzen. Der Regierungsrat kann Ausnahmen vorsehen, insbesondere wenn für die Warmwasseraufbereitung zusätzlich erneuerbare Energie genutzt wird.
 
 #### Art. 23
 
