@@ -4,13 +4,12 @@ number: "436.91"
 title: Gesetz über die deutschsprachige Pädagogische Hochschule
 short: PHG
 language: de
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+version_adopted: 2022-03-08
 adopted: 2004-09-08
 in_force: 2005-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.91"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1859/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2669/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1859/pdf_file"
 
 (PHG)
 
-vom 08.09.2004 (Stand 01.07.2020)
+vom 08.09.2004 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -27,13 +26,34 @@ auf Antrag des Regierungsrates,
 
 beschliesst:
 
-## 1 Grundlagen
+## 1 Allgemeines
 
 #### Art. 1
 
+**Gegenstand**
+
+<sup>1</sup> Dieses Gesetz regelt
+
+- a die Pädagogische Hochschule,
+- b die Übertragung von Aufgaben der Lehrerinnen- und Lehrerbildung an den Verein NMS Bern.
+
+<sup>2–4</sup> …
+
+#### Art. 1a
+
+**Begriffe**
+
+<sup>1</sup> Die in diesem Gesetz genannten Ausbildungsstufen entsprechen den Schulstufen gemäss Artikel 6 der Interkantonalen Vereinbarung vom 14. Juni 2007 über die Harmonisierung der Volksschule[^1a-1].
+
+[^1a-1]: BSG [439.60-1](https://www.belex.sites.be.ch/data/439.60-1/de)
+
+## 1a Grundlagen der Pädagogischen Hochschule
+
+#### Art. 1b
+
 **Grundsätzliches**
 
-<sup>1</sup> Der Kanton unterhält für die deutschsprachige Lehrerinnen- und Lehrerbildung eine Pädagogische Hochschule.
+<sup>1</sup> Der Kanton unterhält eine Pädagogische Hochschule für die deutschsprachige Lehrerinnen- und Lehrerbildung.
 
 <sup>2</sup> Die Pädagogische Hochschule ist eine öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit. Sie ist innerhalb der Grenzen von Verfassung und Gesetz autonom.
 
@@ -60,11 +80,11 @@ beschliesst:
 
 #### Art. 3
 
-**Bescheinigungen**
+**Titel, Diplome und Bescheinigungen**
 
-<sup>1</sup> Die Pädagogische Hochschule verleiht Bachelor- und Mastertitel, Diplome, Zertifikate sowie weitere Bescheinigungen.
+<sup>1</sup> Die Pädagogische Hochschule verleiht Bachelor- und Mastertitel gemäss den schweizerischen Koordinationsvorschriften und stellt Diplome und Bescheinigungen aus.
 
-<sup>2</sup> Sie entzieht einen Titel, ein Diplom, ein Zertifikat oder eine weitere Bescheinigung bei Erwerb durch Täuschung oder Irrtum.
+<sup>2</sup> Sie entzieht einen Titel, ein Diplom oder eine Bescheinigung bei Erwerb durch Täuschung oder Irrtum.
 
 #### Art. 4
 
@@ -78,19 +98,25 @@ beschliesst:
 
 **Kernaufgaben**
 
-<sup>1</sup> Die Pädagogische Hochschule erfüllt ihre zentrale Aufgabe in der Grundausbildung und Weiterbildung der Lehrkräfte für die Vorschulstufe, die Primarstufe, die Sekundarstufen I und II sowie in der Ausbildung der Lehrkräfte für Schulische Heilpädagogik.
+<sup>1</sup> Die Pädagogische Hochschule erfüllt ihre zentrale Aufgabe in der Grundausbildung und Weiterbildung der Lehrkräfte für die Primarstufe, die Sekundarstufen I und II sowie in der Ausbildung der Lehrkräfte für Schulische Heilpädagogik.
 
 <sup>2</sup> Sie vermittelt fachliche, pädagogische, didaktische sowie Beratungs- und Beurteilungskompetenzen. Sie fördert interdisziplinäres Wissen, kritische Urteilskraft, das Arbeiten im Team und die Entwicklung der Persönlichkeit. Sie bereitet durch praxisorientierte Studiengänge auf berufliche Tätigkeiten vor.
 
 <sup>3</sup> Sie führt anwendungsorientierte Forschungs- und Entwicklungsarbeiten durch. Sie sichert damit die Verbindung zu Wissenschaft und Praxis und integriert die Ergebnisse in die Lehre.
 
-<sup>4</sup> Sie stellt die notwendigen Vorbereitungskurse für Grundausbildungen, insbesondere Vorbereitungskurse für Grundausbildungen der Vorschulstufe, der Primarstufe sowie der Sekundarstufe I für Berufsleute sicher. Der Regierungsrat regelt das Nähere durch Verordnung.
+<sup>4</sup> Sie stellt die notwendigen Vorbereitungskurse für Grundausbildungen, insbesondere Vorbereitungskurse für Grundausbildungen der Primarstufe sowie der Sekundarstufe I für Berufsleute, sicher. Der Regierungsrat regelt das Nähere durch Verordnung.
 
 <sup>5</sup> Sie erbringt Dienstleistungen im Bereich Bildungsmedien.
 
 <sup>6</sup> Sie erbringt Dienstleistungen für Dritte und führt Weiterbildungsangebote für Dritte.
 
 <sup>7</sup> Sie leistet mit ihren Kernaufgaben in Lehre, Forschung und Entwicklung sowie Dienstleistungen einen wirkungsvollen Beitrag zur Nachhaltigen Entwicklung.
+
+#### Art. 5a
+
+**Beitrag zur Klimaneutralität**
+
+<sup>1</sup> Die Pädagogische Hochschule leistet im Rahmen ihrer Kompetenzen den erforderlichen Beitrag zur Erreichung der Klimaneutralität.
 
 #### Art. 6
 
@@ -101,6 +127,7 @@ beschliesst:
 - a der Universität Bern und der Berner Fachhochschule,
 - b Organisationen und Institutionen aus Bildung, Wissenschaft und Forschung,
 - c anderen Hochschulen im In- und Ausland,
+- c1 der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern,
 - d den vorbildenden Schulen,
 - e Organisationen des Sozial- und Gesundheitsbereichs,
 - f der Wirtschaft, Verbänden und Behörden.
@@ -151,12 +178,18 @@ beschliesst:
 
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter sind
 
-- a die Rektorin oder der Rektor,
-- b die Institutsleiterinnen und Institutsleiter,
+- a–b …
 - c die Dozentinnen und Dozenten,
 - d die Assistentinnen und Assistenten,
 - e die Praxislehrkräfte,
 - f die weiteren Mitarbeiterinnen und Mitarbeiter.
+
+<sup>3</sup> Drittmittelangestellte sind Mitarbeiterinnen und Mitarbeiter,
+
+- a deren Gehalt weder aus dem jährlichen Kantonsbeitrag, noch aus Grund- und Investitionsbeiträgen des Bundes, noch aus Studiengebühren oder Beiträgen für Studierende gemäss interkantonalen Vereinbarungen finanziert wird und
+- b deren Arbeitsvertrag diese Anstellungsart ausdrücklich festhält.
+
+<sup>4</sup> Der Regierungsrat kann weitere Kategorien von Mitarbeiterinnen und Mitarbeitern festlegen.
 
 #### Art. 12
 
@@ -225,18 +258,34 @@ beschliesst:
 
 #### Art. 19
 
-**Personalrecht, Gehalt, Anstellung**
+**Personalrecht, Allgemeines**
 
 <sup>1</sup> Soweit dieses Gesetz und seine Ausführungsbestimmungen keine besonderen Vorschriften über die Anstellung der Mitarbeiterinnen und Mitarbeiter der Pädagogischen Hochschule enthalten, gilt die Personalgesetzgebung.
 
-<sup>2</sup> Der Regierungsrat regelt das Nähere zum Gehalt und zur Anstellung sowie die Zuständigkeiten durch Verordnung. Er kann für die in der Lehre und für die in der Forschung und Entwicklung tätigen Mitarbeiterinnen und Mitarbeiter sowie für die Mitglieder der Schulleitung Regelungen vorsehen, die von der Personalgesetzgebung abweichen; dies gilt für
+<sup>2</sup> Der Regierungsrat kann durch Verordnung von der Personalgesetzgebung abweichende Bestimmungen für folgende Bereiche erlassen, um den spezifischen Rahmenbedingungen von Arbeitsverhältnissen an der Pädagogischen Hochschule oder um bestimmten Kategorien von Mitarbeiterinnen und Mitarbeitern Rechnung zu tragen:
 
-- a die Befristung des Angestelltenverhältnisses,
-- b die Bemessung des Gehalts innerhalb der gesetzlichen Höchstbeträge,
-- c die Fristen und Termine für die Beendigung des Angestelltenverhältnisses,
-- d die Folgen der Beendigung des Angestelltenverhältnisses,
-- e die Regelungen betreffend finanzielle Abgeltung von Ferien- und Zeitguthaben,
-- f die Regelungen betreffend Langzeitkonti.
+- a Vertragsdauer,
+- b Fristen, Termine und Folgen der Beendigung von Arbeitsverhältnissen,
+- c Beschäftigungsgrad als feste Zahl oder Bandbreite,
+- d Festlegung des Gehalts bei Stellenantritt und des individuellen Gehaltsaufstiegs,
+- e Arbeitszeitmodell,
+- f Auslagenersatz.
+
+<sup>3</sup> Er kann die Befugnisse gemäss Absatz 2 ganz oder teilweise dem Schulrat übertragen.
+
+#### Art. 19a
+
+**Zuständigkeiten**
+
+<sup>1</sup> Der Regierungsrat bezeichnet die zuständigen Anstellungsbehörden und regelt die weiteren Zuständigkeiten durch Verordnung, soweit dieses Gesetz nichts anderes bestimmt.
+
+<sup>2</sup> Er kann diese Befugnis ganz oder teilweise dem Schulrat übertragen.
+
+#### Art. 19b
+
+**Ausnahmen von Einvernehmen oder Zustimmung**
+
+<sup>1</sup> Wird in der Personalgesetzgebung das Einvernehmen mit einer kantonalen Stelle oder deren Zustimmung vorausgesetzt, so ist die Pädagogische Hochschule davon ausgenommen.
 
 #### Art. 20
 
@@ -244,15 +293,17 @@ beschliesst:
 
 <sup>1</sup> Nebenbeschäftigungen von Mitarbeiterinnen und Mitarbeitern dürfen die dienstliche Tätigkeit und den Betrieb der Pädagogischen Hochschule nicht beeinträchtigen.
 
-<sup>2</sup> Nebenbeschäftigungen von Mitarbeiterinnen und Mitarbeitern mit einem Beschäftigungsgrad von mindestens 80 Prozent sind bewilligungspflichtig.
+<sup>2</sup> Sie sind bewilligungspflichtig.
 
 <sup>3</sup> Bei dauernder erheblicher Belastung wird die Bewilligung an die Bedingung geknüpft, den Beschäftigungsgrad herabzusetzen.
 
-<sup>4</sup> Wird bei einer Nebenbeschäftigung die Infrastruktur der Pädagogischen Hochschule beansprucht, so sind die Kosten abzugelten.
+<sup>4</sup> Wird bei einer Nebenbeschäftigung die Infrastruktur oder das Personal der Pädagogischen Hochschule beansprucht, so sind die Kosten abzugelten. Die Abgeltung kann pauschaliert werden.
 
-<sup>5</sup> Die Nebenbeschäftigungen gemäss Absatz 2, die zeitliche Belastung und die Erträge sind jährlich in Form einer Selbstdeklaration zu melden. Zuständig für die Durchführung des Selbstdeklarationsverfahrens ist die Rektorin oder der Rektor.
+<sup>5</sup> In der Regel sind die Nebenbeschäftigungen, die zeitliche Belastung und die Erträge jährlich in Form einer Selbstdeklaration zu melden.
 
-<sup>6</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+<sup>6</sup> Der Regierungsrat kann Ausnahmen von der Bewilligungs- und Deklarationspflicht vorsehen. Er kann diese Befugnis ganz oder teilweise dem Schulrat übertragen.
+
+<sup>7</sup> Er regelt die Einzelheiten zu den zulässigen Nebenbeschäftigungen, die Zuständigkeiten und die Einzelheiten des Bewilligungs- und Deklarationsverfahrens sowie die Abgeltung durch Verordnung. Er kann diese Befugnis ganz oder teilweise dem Schulrat übertragen.
 
 ### 3.2.2 Dozentinnen und Dozenten
 
@@ -270,11 +321,9 @@ beschliesst:
 
 <sup>1</sup> Die Pädagogische Hochschule kann den Dozentinnen und Dozenten Forschungs- oder Bildungsurlaube gewähren.
 
-<sup>2</sup> Das Gehalt der Dozentin oder des Dozenten wird während des Bezugs eines Forschungs- oder Bildungsurlaubs, der mehr als drei Monate dauert, um zehn Prozent gekürzt. Der Betrag aus der Gehaltskürzung dient der Finanzierung von Stellvertretungen.
+<sup>2–3</sup> …
 
-<sup>3</sup> Wenn die Dozentin oder der Dozent während des Urlaubs oder innerhalb von zwei Jahren nach Bezug des Urlaubs aus dem Kantonsdienst austritt, hat sie oder er das während des Urlaubs bezogene Gehalt je nach Zeitpunkt des Austritts ganz oder teilweise zurückzuzahlen.
-
-<sup>4</sup> Der Regierungsrat regelt das Nähere, insbesondere die Einzelheiten zur Gewährung von Forschungs- und Bildungsurlauben sowie den Umfang der Rückzahlungspflicht, durch Verordnung.
+<sup>4</sup> Der Regierungsrat regelt die Gewährung von Forschungs- und Bildungsurlauben sowie die damit zusammenhängenden Rechte und Pflichten durch Verordnung. Er kann diese Befugnis ganz oder teilweise dem Schulrat übertragen.
 
 ### 3.2.3 Assistentinnen und Assistenten
 
@@ -296,33 +345,56 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere durch Verordnung. Er regelt insbesondere den Auftrag und die Entschädigung der Praxislehrkräfte.
 
+### 3.2.5 Drittmittelangestellte
+
+#### Art. 24a
+
+**Kündigungsgrund**
+
+<sup>1</sup> Bei Drittmittelangestellten gilt das Auslaufen der Drittmittel als Kündigungsgrund.
+
+#### Art. 24b
+
+**Privatrechtliche Anstellungen**
+
+<sup>1</sup> Drittmittelangestellte können privatrechtlich angestellt werden, wenn die Pädagogische Hochschule durch das Drittmittelprojekt
+
+- a im Wettbewerb mit privaten Anbieterinnen und Anbietern steht und
+- b keinen gesetzlichen Auftrag erfüllt.
+
+<sup>2</sup> Die personalrechtlichen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen sowie die Personalgesetzgebung finden auf die privatrechtlichen Anstellungen keine Anwendung.
+
 ### 3.3 Studierende
 
 ### 3.3.1 Zulassung
 
 #### Art. 25
 
-**Grundausbildung der Lehrkräfte für die Vorschulstufe, die Primarstufe und die Sekundarstufe I**
+**Grundausbildung der Lehrkräfte für die Primarstufe und die Sekundarstufe I**
 
-<sup>1</sup> Zum Studium wird zugelassen, wer die Voraussetzungen gemäss dem Bundesgesetz vom 30. September 2011 über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich(Hochschulförderungs- und -koordinationsgesetz, HFKG)[^25-1] und dessen Ausführungsbestimmungen erfüllt.
+<sup>1</sup> Zu den Studiengängen der Grundausbildung der Lehrkräfte für die Primarstufe und die Sekundarstufe I wird zugelassen, wer die Voraussetzungen gemäss dem Bundesgesetz vom 30. September 2011 über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (Hochschulförderungs- und -koordinationsgesetz, HFKG)[^25-1] und dessen Ausführungsbestimmungen erfüllt.
+
+<sup>1a</sup> Zu einem Studiengang der Grundausbildung der Lehrkräfte für die Primarstufe werden auch Inhaberinnen und Inhaber eines Berufsmaturitätszeugnisses ohne weitere Voraussetzung, insbesondere ohne Ergänzungsprüfung, zugelassen.
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
-[^25-1]: SR 414.20
+[^25-1]: SR [414.20](https://db.clex.ch/link/Bund/414.20/de)
 
 #### Art. 26
 
 **Grundausbildung der Lehrkräfte für die Sekundarstufe II**
 
-<sup>1</sup> Zum Studium wird zugelassen, wer an einer andern Hochschule mindestens einen Zwischenabschluss in einem auf die Grundausbildung bezogenen Fachstudium erreicht hat.
+<sup>1</sup> Zu den Studiengängen der Grundausbildung der Lehrkräfte für die Sekundarstufe II wird zugelassen, wer die Voraussetzungen gemäss dem Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) vom 28. März 2019 über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen[^26-1] erfüllt.
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+[^26-1]: |Zu beziehen beim Generalsekretariat der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren, Speichergasse 6, Postfach 660, 3000 Bern 7, oder im Internet unter [https://edudoc.ch/record/202452/files/Regl\_Lehrdiplome\_d.pdf](https://edudoc.ch/record/202452/files/Regl_Lehrdiplome_d.pdf)
 
 #### Art. 27
 
 **Ausbildung der Lehrkräfte für Schulische Heilpädagogik**
 
-<sup>1</sup> Zum Studium wird zugelassen, wer die Voraussetzungen gemäss dem Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) vom 12. Juni 2008 über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik)[^27-1] sowie den Richtlinien des Vorstands der EDK vom 11. September 2008 für den Vollzug dieses Reglements[^27-2] erfüllt.
+<sup>1</sup> Zu den Studiengängen der Ausbildung der Lehrkräfte für Schulische Heilpädagogik wird zugelassen, wer die Voraussetzungen gemäss dem Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) vom 12. Juni 2008 über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik)[^27-1] sowie den Richtlinien des Vorstands der EDK vom 11. September 2008 für den Vollzug dieses Reglements[^27-2] erfüllt.
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
@@ -331,9 +403,11 @@ beschliesst:
 
 #### Art. 27a
 
-**Nichtzulassung**
+**Nichtzulassung und Ausschluss**
 
-<sup>1</sup> Ein endgültiger Ausschluss an einer anderen Hochschule in einem Studiengang gemäss Artikel 25, 26 und 27 infolge Nichtbestehens von Leistungskontrollen schliesst eine Zulassung zum Studium im gleichen Studiengang aus. Der Regierungsrat kann Ausnahmen durch Verordnung vorsehen.
+<sup>1</sup> Ein endgültiger Ausschluss an einer Hochschule in einem Studiengang gemäss den Artikeln 25 bis 27 infolge Nichtbestehens von Leistungskontrollen schliesst eine Zulassung zum Studium im gleichen Studiengang aus. Der Regierungsrat kann Ausnahmen durch Verordnung vorsehen.
+
+<sup>2</sup> Die Pädagogische Hochschule kann Studienanwärterinnen und Studienanwärtern die Immatrikulation verweigern und Studierende vom Weiterstudium ausschliessen, wenn sie die persönlichen Voraussetzungen für den Lehrberuf mit Blick auf die Wahrung der Integrität der ihnen anvertrauten Schülerinnen und Schüler nicht erfüllen. Der Regierungsrat regelt das Nähere durch Verordnung.
 
 #### Art. 28
 
@@ -363,6 +437,8 @@ beschliesst:
 
 <sup>3</sup> Die Zulassungsbeschränkungen sind für jedes Studienjahr neu anzuordnen.
 
+<sup>3a</sup> Im Falle von Zulassungsbeschränkungen für Studiengänge der Grundausbildung von Lehrkräften der Primarstufe gilt auch Artikel 67d.
+
 <sup>4</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
 #### Art. 31
@@ -381,7 +457,7 @@ beschliesst:
 
 **Ausländische Studienanwärterinnen und Studienanwärter**
 
-<sup>1</sup> Bei Zulassungsbeschränkungen können für ausländische Studienanwärterinnen und Studienanwärter ohne Niederlassungsbewilligung besondere Zulassungsbedingungen festgelegt werden, insbesondere betreffend Wohnsitz, Ausländerstatus und Vorbildungsausweis.
+<sup>1</sup> Bei Zulassungsbeschränkungen können für ausländische Studienanwärterinnen und Studienanwärter ohne Niederlassungsbewilligung besondere Zulassungsvoraussetzungen festgelegt werden, insbesondere betreffend Wohnsitz, Ausländerstatus und Vorbildungsausweis.
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
@@ -405,7 +481,7 @@ beschliesst:
 
 <sup>3</sup> Die Pädagogische Hochschule erhebt von den Mitgliedern der Vereinigung der Studierenden eine Gebühr von höchstens 30 Franken pro Semester zur Finanzierung der Vereinigung.
 
-## 4 Organisation
+## 4 Organisation der Pädagogischen Hochschule
 
 ### 4.1 Allgemeine Bestimmungen
 
@@ -431,7 +507,7 @@ beschliesst:
 - d die Institutsleiterinnen und Institutsleiter,
 - e die Rekurskommission.
 
-<sup>2</sup> Das Statut kann weitere Organe einsetzen.
+<sup>2</sup> Das Statut kann weitere Organe, insbesondere Vizerektorinnen und Vizerektoren, einsetzen.
 
 ### 4.2 Die Pädagogische Hochschule als Gesamtheit
 
@@ -443,17 +519,23 @@ beschliesst:
 
 <sup>1</sup> Der Schulrat ist das strategische Führungsorgan der Pädagogischen Hochschule.
 
-<sup>2</sup> Er setzt sich zusammen aus
+<sup>2</sup> Er setzt sich aus folgenden Mitgliedern zusammen, die nicht der Pädagogischen Hochschule angehören:
 
-- a der Präsidentin oder dem Präsidenten, die oder der nicht der Pädagogischen Hochschule angehört,
-- b weiteren sechs Mitgliedern, die nicht der Pädagogischen Hochschule angehören,
-- c der Rektorin oder dem Rektor von Amtes wegen,
-- d einer Vertreterin oder einem Vertreter der Dozentinnen und Dozenten und
-- e einer Vertreterin oder einem Vertreter der Studierenden.
+- a der Präsidentin oder dem Präsidenten sowie
+- b weiteren sechs Mitgliedern.
+- c–e …
 
-<sup>3</sup> Der Regierungsrat wählt die Präsidentin oder den Präsidenten sowie die Mitglieder des Schulrates für eine Amtsdauer von vier Jahren. Die ausgewählten Persönlichkeiten sollen die Aufgaben- und Auftragsbereiche der Pädagogischen Hochschule angemessen abdecken. Zweimalige Wiederwahl ist möglich. Die Dozentinnen und Dozenten und die Studierenden delegieren ihre Vertreterin oder ihren Vertreter je selbstständig.
+<sup>3</sup> Der Regierungsrat wählt die Präsidentin oder den Präsidenten und die Mitglieder des Schulrates für eine Amtsdauer von vier Jahren. Die ausgewählten Persönlichkeiten sollen die Aufgaben- und Auftragsbereiche der Pädagogischen Hochschule angemessen abdecken. Zweimalige Wiederwahl ist möglich.
 
-<sup>4</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion delegiert eine Vertreterin oder einen Vertreter, die oder der mit beratender Stimme an den Sitzungen des Schulrates teilnimmt.
+<sup>4</sup> Mit beratender Stimme nehmen an den Sitzungen des Schulrates teil:
+
+- a die Rektorin oder der Rektor von Amtes wegen,
+- b eine Vertreterin oder ein Vertreter der Dozentinnen und Dozenten,
+- c eine Vertreterin oder ein Vertreter der Studierenden,
+- d eine Vertreterin oder ein Vertreter der Mitarbeiterinnen und Mitarbeiter gemäss Artikel 11 Absatz 2 Buchstaben d bis f,
+- e eine Vertreterin oder ein Vertreter der Bildungs- und Kulturdirektion.
+
+<sup>5</sup> Die Vertreterinnen und Vertreter gemäss Absatz 4 Buchstaben b bis e werden von ihren jeweiligen Organisationen selbstständig delegiert.
 
 #### Art. 37
 
@@ -473,15 +555,17 @@ beschliesst:
 - k beschliesst die weiteren Berichte gemäss Artikel 47,
 - l entscheidet über die Errichtung, Zusammenlegung und Aufhebung von Instituten,
 - m–n …
-- o stellt die Institutsleiterinnen und Institutsleiter auf Antrag der Rektorin oder des Rektors an,
-- p verabschiedet das Qualitätsentwicklungskonzept,
-- q stellt die Rektorin oder den Rektor an,
+- o stellt die Rektorin oder den Rektor an,
+- p stellt auf Antrag der Rektorin oder des Rektors die stimmberechtigten Mitglieder der Schulleitung an,
+- q verabschiedet das Qualitätsentwicklungskonzept,
 - r genehmigt die Statuten der Vereinigung der Studierenden,
 - s schliesst die Verträge über die Leistungen mit der Universität und der Berner Fachhochschule ab,
-- t schliesst die Verträge über die Leistungen mit den angegliederten Lehrerbildungsinstitutionen ab,
+- t …
 - u schliesst die Verträge über die Leistungen mit öffentlichen und privaten Bildungsinstitutionen ab.
 
 <sup>2</sup> Er erfüllt die weiteren Aufgaben, die ihm durch die Gesetzgebung über die Pädagogische Hochschule übertragen sind.
+
+<sup>3</sup> Er legt die Zuständigkeiten für die Verleihung von Bachelor- und Mastertiteln sowie die Ausstellung von Diplomen und Bescheinigungen, einschliesslich die Entscheide über die Ergebnisse von Prüfungen, durch Reglement fest.
 
 ### 4.2.2 Rektorin oder Rektor
 
@@ -506,16 +590,14 @@ beschliesst:
 - c setzt die Beschlüsse der kantonalen Behörden und des Schulrates um,
 - d beschliesst auf Antrag der Schulleitung über die Zuteilung der kantonalen Forschungsmittel,
 - e führt den Finanzhaushalt der Pädagogischen Hochschule,
-- f stellt auf Antrag der diesen jeweils vorgesetzten Stelle die Mitarbeiterinnen und Mitarbeiter mit Ausnahme der Institutsleiterinnen und Institutsleiter an,
-- g beschliesst über die Schaffung, Veränderung und Aufhebung von Stellen mit Ausnahme derjenigen der Institutsleiterinnen und Institutsleiter,
+- f …
+- g beschliesst über die Schaffung, Veränderung und Aufhebung von Stellen,
 - h genehmigt die Studienpläne,
-- i stellt Antrag für die Anstellung der Institutsleiterinnen und Institutsleiter,
-- k verleiht und entzieht Bachelor- und Mastertitel sowie Diplome der Grundausbildung,
-- l verleiht und entzieht Diplome im Bereich Weiterbildung, Zertifikate und weitere Bescheinigungen,
+- i–l …
 - m ist Zulassungsbehörde,
 - n entscheidet in allen Angelegenheiten der Pädagogischen Hochschule als Gesamtheit, soweit sie keinem andern Organ übertragen sind.
 
-<sup>2</sup> Sie oder er kann die Befugnis gemäss Absatz 1 Buchstaben f und l durch Reglement ganz oder teilweise an die jeweils zuständigen Mitglieder der Schulleitung delegieren.
+<sup>2</sup> Die Befugnisse gemäss Absatz 1 Buchstaben a, d, e, g, h, m und n können im Statut an Vizerektorinnen und Vizerektoren übertragen werden.
 
 <sup>3</sup> Das Statut regelt das Nähere.
 
@@ -525,7 +607,7 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitung der Pädagogischen Hochschule setzt sich zusammen aus der Rektorin oder dem Rektor, den Institutsleiterinnen und Institutsleitern sowie der Verwaltungsleiterin oder dem Verwaltungsleiter.
 
-<sup>2</sup> Werden der Pädagogischen Hochschule Lehrerbildungsinstitutionen mit privater Trägerschaft angegliedert, so gilt Artikel 73.
+<sup>2</sup> Der Schulrat kann weitere Mitglieder, insbesondere Vizerektorinnen und Vizerektoren, durch Statut vorsehen.
 
 <sup>3</sup> Die Schulleitung
 
@@ -577,7 +659,7 @@ beschliesst:
 
 <sup>3</sup> Das Statut regelt das Nähere.
 
-## 5 Planung, Steuerung und Finanzierung
+## 5 Planung, Steuerung und Finanzierung der Pädagogischen Hochschule
 
 #### Art. 45
 
@@ -585,7 +667,7 @@ beschliesst:
 
 <sup>1</sup> Die Planung, Steuerung und Finanzierung ist eine gemeinsame Aufgabe von Kanton und Pädagogischer Hochschule.
 
-<sup>2</sup> Allfällige Vorgaben des Bundes, Vorgaben der interkantonalen Organe sowie die Leistungen der angegliederten Lehrerbildungsinstitutionen sind zu berücksichtigen.
+<sup>2</sup> Allfällige Vorgaben des Bundes und der interkantonalen Organe sind zu berücksichtigen.
 
 <sup>3</sup> Die Steuerung erfolgt durch Leistungsauftrag des Regierungsrates.
 
@@ -608,6 +690,8 @@ beschliesst:
 <sup>4</sup> Die Bildungs- und Kulturdirektion kann für bestimmte Bereiche, insbesondere für die Bereiche Weiterbildung sowie Forschung und Entwicklung, periodisch einen Leistungsauftrag erteilen, welcher denjenigen des Regierungsrats konkretisiert.
 
 #### Art. 47
+
+**Berichterstattung**
 
 <sup>1</sup> Die Pädagogische Hochschule legt der Bildungs- und Kulturdirektion vor:
 
@@ -703,11 +787,16 @@ beschliesst:
 
 <sup>4</sup> Die Prüfungsgebühren betragen 150 bis 500 Franken.
 
-<sup>5</sup> Bei ausserkantonalen Studierenden, deren Wohnsitzkanton keine Studiengebühren gemäss der Interkantonalen Fachhochschulvereinbarung ab 2005 vom 12. Juni 2003 (FHV[^53-1]) übernimmt, kann eine erhöhte, jedoch maximal kostendeckende Studiengebühr erhoben werden.
+<sup>5</sup> Bei ausserkantonalen Studierenden, deren Wohnsitzkanton keine Studiengebühren gemäss der Interkantonalen Fachhochschulvereinbarung ab 2005 vom 23. November 2004 (FHV)[^53-1] übernimmt, kann eine erhöhte, jedoch maximal kostendeckende Studiengebühr erhoben werden.
 
-<sup>6</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+<sup>5a</sup> Für ausländische Studierende ohne Niederlassungsbewilligung sollen unter Berücksichtigung internationaler Abkommen kostendeckende Gebühren erhoben werden.
 
-[^53-1]: BSG 439.21
+<sup>6</sup> Der Regierungsrat regelt die Gebühren durch Verordnung, wobei er
+
+- a die Befugnis zur Festlegung der Gebühren gemäss den Absätzen 1 bis 3, 5 und 5a ganz oder teilweise der Bildungs- und Kulturdirektion übertragen kann,
+- b die Befugnis zur Festlegung der Gebühren gemäss Absatz 4 ganz oder teilweise der Bildungs- und Kulturdirektion oder dem Schulrat übertragen kann.
+
+[^53-1]: BSG [439.21-1](https://www.belex.sites.be.ch/data/439.21-1/de)
 
 #### Art. 54
 
@@ -733,9 +822,9 @@ beschliesst:
 
 **Auskultantengebühren**
 
-<sup>1</sup> Die Pädagogische Hochschule erhebt für Auskultantinnen und Auskultanten Gebühren. Die Gebühren betragen höchstens 150 Franken pro Semesterwochenstunde und höchstens 1200 Franken pro Semester.
+<sup>1</sup> Die Pädagogische Hochschule erhebt für Auskultantinnen und Auskultanten Gebühren. Die Gebühren betragen höchstens 1200 Franken pro Semester.
 
-<sup>2</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+<sup>2</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion oder dem Schulrat übertragen.
 
 #### Art. 56
 
@@ -763,6 +852,18 @@ beschliesst:
 
 **…**
 
+#### Art. 58a
+
+**Geistiges Eigentum**
+
+<sup>1</sup> Immaterielle Arbeitsergebnisse, welche die Mitarbeiterinnen und Mitarbeiter in Erfüllung ihrer dienstrechtlichen Verpflichtungen sowie in Ausübung der beruflichen Tätigkeit schaffen, gelten ohne Weiteres als der Pädagogischen Hochschule abgetreten.
+
+<sup>2</sup> Bei Computerprogrammen, welche die Mitarbeiterinnen und Mitarbeiter in Erfüllung ihrer dienstrechtlichen Verpflichtungen sowie in Ausübung der beruflichen Tätigkeit schaffen, liegen die ausschliesslichen Verwendungsbefugnisse bei der Pädagogischen Hochschule.
+
+<sup>3</sup> Sind immaterielle Arbeitsergebnisse im Rahmen einer Nebenbeschäftigung entstanden, so werden die Erträge aus der Verwertung wie Erträge aus Nebenbeschäftigungen behandelt.
+
+<sup>4</sup> Bei einer dienstrechtlichen Verpflichtung für verschiedene Arbeitgeberinnen und Arbeitgeber wird das Recht an den immateriellen Arbeitsergebnissen vertraglich geregelt.
+
 #### Art. 59
 
 **Legate und unselbstständige Stiftungen**
@@ -775,64 +876,13 @@ beschliesst:
 
 <sup>4</sup> Die Bildungs- und Kulturdirektion kann auf Antrag der Rektorin oder des Rektors in den Fällen von Absatz 3 die Zweckbestimmung von Legaten und unselbstständigen Stiftungen ändern oder ergänzen, wenn eine Zusammenlegung nach Absatz 3 nicht möglich ist.
 
-## 6 Kantonale Behörden
+## 6
 
-#### Art. 60
+#### Art. 60–62
 
-**Grosser Rat**
+**…**
 
-<sup>1</sup> Der Grosse Rat übt die Oberaufsicht aus.
-
-<sup>2</sup> Er nimmt Kenntnis vom Geschäftsbericht der Pädagogischen Hochschule und erfüllt die weiteren Aufgaben, die ihm durch dieses Gesetz übertragen sind.
-
-<sup>3</sup> Er entscheidet über die Angliederung von Lehrerbildungsinstitutionen mit privater Trägerschaft.
-
-#### Art. 61
-
-**Regierungsrat**
-
-<sup>1</sup> Der Regierungsrat
-
-- a …
-- b entscheidet über die Errichtung, Zusammenlegung und Aufhebung von Studiengängen der Grundausbildungen sowie Vorbereitungskursen für Grundausbildungen,
-- c …
-- d beschliesst den jährlichen Kantonsbeitrag an die Pädagogische Hochschule.
-
-<sup>2</sup> Er kann die Befugnis gemäss Absatz 1 Buchstabe d durch Verordnung an die Bildungs- und Kulturdirektion übertragen.
-
-<sup>3</sup> Er erfüllt die weiteren Aufgaben, die ihm durch die Gesetzgebung über die Pädagogische Hochschule übertragen sind.
-
-<sup>4</sup> …
-
-#### Art. 61a
-
-**Ausführungsbestimmungen**
-
-<sup>1</sup> Der Regierungsrat erlässt die Ausführungsbestimmungen.
-
-<sup>2</sup> Er erlässt insbesondere Bestimmungen über
-
-- a die Planung, Steuerung und Finanzierung,
-- b Grundzüge der Qualitätssicherung und -entwicklung,
-- c die Anstellung und die berufliche Vorsorge der Mitarbeiterinnen und Mitarbeiter,
-- d die Entschädigung der Mitglieder des Schulrats.
-
-#### Art. 62
-
-**Bildungs- und Kulturdirektion**
-
-<sup>1</sup> Die Bildungs- und Kulturdirektion übt die direkte Aufsicht über die Pädagogische Hochschule aus. Die Pädagogische Hochschule ist verpflichtet, der Bildungs- und Kulturdirektion Auskünfte zu erteilen, Einsicht in sämtliche Akten zu gewähren, Zutritt zu den Einrichtungen zu verschaffen und sie in allen Belangen zu unterstützen, soweit dies für die Wahrnehmung der Aufsicht erforderlich ist.
-
-<sup>2</sup> Die Bildungs- und Kulturdirektion
-
-- a genehmigt die Studienreglemente,
-- b übt die direkte Aufsicht über die angegliederten Lehrerbildungsinstitutionen aus, unter Vorbehalt der Befugnisse der Pädagogischen Hochschule gemäss Vertrag über die Leistungen zwischen der Pädagogischen Hochschule und den angegliederten Lehrerbildungsinstitutionen,
-- c genehmigt die Verträge über die Leistungen zwischen der Pädagogischen Hochschule und den angegliederten Lehrerbildungsinstitutionen,
-- d erfüllt die weiteren Aufgaben, die ihr durch Gesetz und Ausführungsbestimmungen übertragen sind.
-
-<sup>3</sup> Sie ist für alle Angelegenheiten zuständig, die nicht der Pädagogischen Hochschule oder einer anderen kantonalen oder eidgenössischen Behörde übertragen sind.
-
-## 7 Verfahren, Rechtspflege, Straf- und Disziplinarrecht
+## 7 Verfahren, Rechtspflege und Disziplinarrecht der Pädagogischen Hochschule
 
 #### Art. 63
 
@@ -846,9 +896,9 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen Verfügungen des Schulrates, der Schulleitung und der Rektorin oder des Rektors kann Beschwerde bei der Bildungs- und Kulturdirektion erhoben werden. Vorbehalten bleibt Absatz 4.
+<sup>1</sup> Gegen Verfügungen des Schulrates, der Schulleitung und der Rektorin oder des Rektors, ausgenommen Verfügungen betreffend die Verleihung von Bachelor- und Mastertiteln sowie die Ausstellung von Diplomen und Bescheinigungen, kann Beschwerde bei der Bildungs- und Kulturdirektion erhoben werden. Vorbehalten bleibt Absatz 4.
 
-<sup>2</sup> Gegen Verfügungen anderer Organe der Pädagogischen Hochschule, die in Anwendung dieses Gesetzes ergehen, kann Beschwerde bei der Rekurskommission der Pädagogischen Hochschule erhoben werden. Vorbehalten bleibt Absatz 4.
+<sup>2</sup> Gegen andere Verfügungen der Pädagogischen Hochschule, die in Anwendung dieses Gesetzes ergehen, kann Beschwerde bei der Rekurskommission der Pädagogischen Hochschule erhoben werden. Vorbehalten bleibt Absatz 4.
 
 <sup>3</sup> Gegen Beschwerdeentscheide der Rekurskommission kann Beschwerde beim Verwaltungsgericht geführt werden.
 
@@ -858,9 +908,7 @@ beschliesst:
 
 #### Art. 65
 
-**Strafbestimmung**
-
-<sup>1</sup> Wer behauptet, Inhaberin oder Inhaber eines Diploms, eines Zertifikats oder einer Bescheinigung nach Artikel 3 zu sein, ohne die erforderlichen Prüfungen bestanden zu haben, wird mit Busse bestraft.
+**…**
 
 #### Art. 66
 
@@ -868,85 +916,253 @@ beschliesst:
 
 <sup>1</sup> Zur Gewährleistung eines geordneten Hochschulbetriebs regelt der Regierungsrat durch Verordnung das Disziplinarrecht der Pädagogischen Hochschule.
 
-<sup>2</sup> Die Rektorin oder der Rektor kann gegen Studierende, die schwer oder wiederholt gegen die Disziplinarordnung oder gegen den Grundsatz der Lauterkeit der Wissenschaft verstossen, folgende Sanktionen ergreifen:
+<sup>2</sup> Die Rektorin oder der Rektor kann gegen Studierende, die schwer oder wiederholt gegen die Disziplinarordnung oder gegen die Regeln der wissenschaftlichen Integrität verstossen, folgende Sanktionen ergreifen:
 
 - a Ausschluss von einzelnen Lehrveranstaltungen sowie von der Benützung einzelner Einrichtungen der Pädagogischen Hochschule für die Dauer von einem oder mehreren Semestern,
 - b vorübergehender oder dauerhafter Ausschluss vom Studium an der Pädagogischen Hochschule.
 
-## 8 Lehrerbildungsinstitutionen mit privater Trägerschaft
+## 8 Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern
+
+### 8.1 Grundlagen
 
 #### Art. 67
 
-**Grundsatz**
+**Grundsätzliches**
 
-<sup>1</sup> Der Grosse Rat kann Lehrerbildungsinstitutionen mit privater Trägerschaft, deren Ausbildungsgänge zu einer gesamtschweizerischen Anerkennung der Diplome führen, der Pädagogischen Hochschule angliedern.
+<sup>1</sup> Der Verein NMS Bern ist befugt, Studiengänge der Grundausbildung von Lehrkräften der Primarstufe anzubieten und als öffentliche Aufgabe zu erfüllen.
 
-#### Art. 68
+<sup>2</sup> Die Befugnis setzt voraus, dass
 
-**Finanzhilfen**
+- a die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern gemäss HFKG institutionell akkreditiert ist und
+- b die Diplome der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern gesamtschweizerisch anerkannt sind.
 
-<sup>1</sup> Der Kanton entrichtet Finanzhilfen an angegliederte Lehrerbildungsinstitutionen.
+<sup>3</sup> Die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern pflegt die Zusammenarbeit mit der Pädagogischen Hochschule sowie den weiteren Institutionen und Organisationen gemäss Artikel 6 Absatz 1.
 
-<sup>2</sup> Die Finanzhilfen pro Studierenden entsprechen grundsätzlich den Beiträgen, die gemäss den Artikeln 8 bis 10 der Interkantonalen Fachhochschulvereinbarung vom 4. Juni 1998 (FHV[^68-1]) für Pädagogische Hochschulen festgelegt werden. Der Regierungsrat kann aus wichtigen Gründen, namentlich bei schwieriger finanzieller Lage des Kantons, davon abweichen.
-
-<sup>3</sup> Der Regierungsrat beschliesst unter Vorbehalt der Ausgabenbefugnisse der Bildungs- und Kulturdirektion abschliessend über die Finanzhilfen.
-
-[^68-1]: Nicht mehr gültig; jetzt GRB vom 12. Juni 2003 über den Beitritt des Kantons Bern zur Interkantonalen Fachhochschulvereinbarung (FHV) ;BSG 439.21
-
-#### Art. 69
-
-**Aufgaben**
-
-<sup>1</sup> Die angegliederten Lehrerbildungsinstitutionen haben mindestens eine der in Artikel 5 Absatz 1 genannten Kernaufgaben der Pädagogischen Hochschule zu erfüllen.
-
-<sup>2</sup> Artikel 5 Absätze 2 und 3 gelten für die angegliederten Lehrerbildungsinstitutionen.
-
-#### Art. 70
-
-**Vertrag über die Leistungen**
-
-<sup>1</sup> Die Leistungen der angegliederten Lehrerbildungsinstitutionen werden im Rahmen eines ein- oder mehrjährigen Vertrags geregelt.
-
-<sup>2</sup> Der Vertrag über die Leistungen wird zwischen der angegliederten Lehrerbildungsinstitution und der Pädagogischen Hochschule abgeschlossen.
-
-<sup>3</sup> Er wird von der Bildungs- und Kulturdirektion genehmigt.
-
-<sup>4</sup> Die angegliederte Lehrerbildungsinstitution erstellt zuhanden der Pädagogischen Hochschule und der Bildungs- und Kulturdirektion jährlich den Geschäftsbericht und periodisch den Bericht über die Umsetzung des Vertrags über die Leistungen sowie ihre Beurteilung des finanziellen Risikos für den Kanton.
-
-#### Art. 71
+#### Art. 67a
 
 **Anwendbare Bestimmungen**
 
-<sup>1</sup> Für die vereinbarten Leistungen der angegliederten Lehrerbildungsinstitutionen gelten die Bestimmungen der Artikel 25 bis 27a und 30 bis 31a. Die Bestimmungen der Artikel 2 bis 4, 6 bis 9, 12 bis 18, 32, 33, 63, 64 Absätze 2 bis 4 und 65 gelten sinngemäss.
+<sup>1</sup> Für die Studiengänge
 
-<sup>2</sup> Folgende Erlasse und Vorgaben des Schulrates gelten für die vereinbarten Leistungen der angegliederten Lehrerbildungsinstitutionen:
+- a sind die Artikel 2, 18, 25, 27a, 53 und 55a anwendbar,
+- b gelten die Artikel 3, 14, 29, 63 und 66 sinngemäss.
 
-- a Reglemente über Bereiche, welche die Pädagogische Hochschule als Gesamtheit betreffen, mit Ausnahme derjenigen über die Finanzen und die Organisation,
-- b Studienreglemente,
-- c Leitbild,
-- d der Leistungsauftrag des Regierungsrates, mit Ausnahme des präzisierenden Leistungsauftrags der Bildungs- und Kulturdirektion.
+#### Art. 67b
+
+**Studienreglement**
+
+<sup>1</sup> Der Verein NMS Bern erlässt für die Studiengänge jeweils ein Studienreglement.
+
+#### Art. 67c
+
+**Zulassung bei ausgeschöpfter Aufnahmekapazität**
+
+<sup>1</sup> Ist die Aufnahmekapazität der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern ausgeschöpft, kommt das Verfahren gemäss den Artikeln 30 bis 31a zur Anwendung. Der Antrag für eine Zulassungsbeschränkung erfolgt durch den Verein NMS Bern.
+
+<sup>2</sup> Übersteigt die Anzahl der die Zulassungsvoraussetzungen erfüllenden Studienanwärterinnen und Studienanwärter mit stipendienrechtlichem Wohnsitz im Kanton die Höchstzahl der im Leistungsvertrag für diese Studierenden festgelegten Studienplätze, richtet sich deren Zuteilung nach dem Zeitpunkt des Eingangs der Anmeldung.
+
+<sup>3</sup> Die Studienanwärterinnen und Studienanwärter gemäss Absatz 2, welche die Zulassungsvoraussetzungen erfüllen und keinen Studienplatz zugeteilt erhalten, sind auf Verlangen von der Pädagogischen Hochschule für deren entsprechenden Studiengang aufzunehmen.
+
+#### Art. 67d
+
+**Zulassung im Falle von Zulassungsbeschränkungen an der Pädagogischen Hochschule**
+
+<sup>1</sup> Sofern der Regierungsrat Zulassungsbeschränkungen für den entsprechenden Studiengang der Grundausbildung von Lehrkräften der Primarstufe an der Pädagogischen Hochschule festlegt, haben Studienanwärterinnen und Studienanwärter, die sich bei der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern anmelden, die gleiche Eignungsabklärung zu absolvieren wie diejenigen der Pädagogischen Hochschule.
+
+<sup>2</sup> Die Zuweisung aller Studienplätze der Pädagogischen Hochschule und der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern richtet sich nach den Ergebnissen der Eignungsabklärung aller Studienanwärterinnen und Studienanwärter.
+
+<sup>3</sup> Im Rahmen der Zuweisung gemäss Absatz 2 sind die Pädagogische Hochschule und die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern verpflichtet, Studierende auf Verlangen aufzunehmen, die sich bei der jeweils anderen Institution angemeldet haben.
+
+<sup>4</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### Art. 67e
+
+**Verfügungsbefugnis und Zuständigkeit**
+
+<sup>1</sup> Die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern ist befugt, gegenüber den Studierenden hoheitlich zu handeln.
+
+<sup>2</sup> Das Studienreglement regelt die Verfügungsbefugnis, insbesondere für
+
+- a die Zulassung zu den Studiengängen,
+- b die Verleihung von Bachelortiteln sowie die Ausstellung von Diplomen und Bescheinigungen,
+- c die Verfügung der Ergebnisse von Prüfungen,
+- d die Erhebung von Gebühren und
+- e die Anordnung von Disziplinarmassnahmen.
+
+### 8.2 Finanzierung und Leistungsvertrag
+
+#### Art. 68
+
+**Beitrag**
+
+<sup>1</sup> Der Kanton leistet dem Verein NMS Bern für die Durchführung der Studiengänge einen Beitrag.
+
+<sup>2</sup> Der Beitrag entspricht dem gemäss den Artikeln 8 bis 10 FHV für Pädagogische Hochschulen festgelegten Pauschalbeitrag pro Studierenden mit stipendienrechtlichem Wohnsitz im Kanton. Bei schlechter Finanzlage des Kantons kann der Beitrag im Rahmen des Leistungsvertrags reduziert werden.
+
+<sup>3</sup> Der Regierungsrat bewilligt die Ausgaben abschliessend.
+
+#### Art. 69–70
+
+**…**
+
+#### Art. 70a
+
+**Leistungsvertrag**
+
+<sup>1</sup> Die Leistungen der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern werden im Rahmen eines mehrjährigen Leistungsvertrags geregelt.
+
+<sup>2</sup> Der Leistungsvertrag wird seitens des Kantons vom Regierungsrat abgeschlossen.
+
+<sup>3</sup> Er regelt insbesondere
+
+- a die verfolgten Ziele und die zu erbringenden Leistungen,
+- b die Höhe und Modalitäten des Beitrags sowie die Zahl der anzubietenden Studienplätze für Studierende mit stipendienrechtlichem Wohnsitz im Kanton,
+- c die Vorgaben für die Rechnungslegung,
+- d die Folgen einer Überdeckung durch den gewährten Beitrag,
+- e die Folgen bei Leistungsstörungen,
+- f die Vertragsdauer und die Modalitäten der Kündigung und der Vertragsauflösung,
+- g die Einzelheiten zur Berichterstattung und zum Controlling,
+- h die Qualitätssicherung und -entwicklung.
+
+### 8.3 Berichterstattung und Controlling
+
+#### Art. 71
+
+**Berichterstattung**
+
+<sup>1</sup> Der Verein NMS Bern erstattet der Bildungs- und Kulturdirektion für seine Lehrerinnen- und Lehrerbildungsinstitution
+
+- a jährlich den Geschäftsbericht (Tätigkeitsschwerpunkte, Jahresrechnung, Bericht der Revisionsstelle),
+- b im Jahr vor Ablauf des Leistungsvertrags den Leistungsbericht über dessen Erfüllung.
+
+<sup>2</sup> …
 
 #### Art. 72
 
-**Rektorin oder Rektor**
+**Controlling**
 
-<sup>1</sup> Die Befugnisse der Rektorin oder des Rektors gegenüber den angegliederten Lehrerbildungsinstitutionen werden im jeweiligen Vertrag über die Leistungen geregelt.
+<sup>1</sup> Die Bildungs- und Kulturdirektion führt das Controlling durch.
+
+<sup>2</sup> Sie beurteilt die Berichterstattung gemäss Artikel 71 und bringt dem Regierungsrat die Ergebnisse der Beurteilung zur Kenntnis.
+
+<sup>3</sup> Sie erstattet dem Verein NMS Bern Bericht über das Ergebnis der Beurteilung und schlägt allfällige Massnahmen zur Verbesserung der Vertragserfüllung vor. Aufsichtsrechtliche Massnahmen bleiben vorbehalten.
+
+### 8.4 Rekurskommission
 
 #### Art. 73
 
-**Schulleitung**
+**Grundsätzliches**
 
-<sup>1</sup> Eine Vertreterin oder ein Vertreter jeder angegliederten Lehrerbildungsinstitution nimmt Einsitz in die Schulleitung der Pädagogischen Hochschule.
+<sup>1</sup> Der Verein NMS Bern setzt eine Rekurskommission ein.
 
-<sup>2</sup> Sie oder er ist stimmberechtigt in sämtlichen Angelegenheiten gemäss Artikel 40 Absatz 3.
+<sup>2</sup> Die Rekurskommission ist die interne Verwaltungsjustizbehörde des Vereins NMS Bern für seine Lehrerinnen- und Lehrerbildungsinstitution.
+
+<sup>3</sup> Sie ist gegenüber den anderen Organen des Vereins NMS Bern nicht weisungsgebunden.
+
+<sup>4</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### Art. 73a
+
+**Zusammensetzung und Wahl**
+
+<sup>1</sup> Die Rekurskommission besteht aus fünf Mitgliedern.
+
+<sup>2</sup> Der Verein NMS Bern wählt die Mitglieder sowie die Präsidentin oder den Präsidenten der Rekurskommission.
+
+<sup>3</sup> Die Amtsdauer beträgt zwei Jahre. Zweimalige Wiederwahl ist möglich.
+
+<sup>4</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+### 8.5 Rechtspflege
+
+#### Art. 73b
+
+<sup>1</sup> Gegen Verfügungen betreffend die Verleihung von Bachelortiteln, die Ausstellung von Diplomen und Bescheinigungen sowie betreffend die Ergebnisse von Prüfungen kann Beschwerde bei der Rekurskommission des Vereins NMS Bern erhoben werden.
+
+<sup>2</sup> Gegen alle anderen Verfügungen, die in Erfüllung der mit diesem Gesetz übertragenen Aufgaben ergehen, kann Beschwerde bei der Bildungs- und Kulturdirektion erhoben werden.
+
+<sup>3</sup> Gegen Beschwerdeentscheide der Rekurskommission kann Beschwerde beim Verwaltungsgericht geführt werden.
+
+<sup>4</sup> Bei Beschwerden gegen Ergebnisse von Prüfungen ist die Rüge der Unangemessenheit unzulässig.
+
+## 8a Wissenschaftliche Integrität
 
 #### Art. 74
 
-**Mitarbeiterinnen und Mitarbeiter**
+<sup>1</sup> Die Angehörigen der Pädagogischen Hochschule, die Mitarbeiterinnen und Mitarbeiter sowie Studierenden der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern und alle weiteren an diesen beiden Institutionen wissenschaftlich tätigen Personen sind verpflichtet, die Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis zu beachten.
 
-<sup>1</sup> Die Qualifikationserfordernisse für die Mitarbeiterinnen und Mitarbeiter der angegliederten Lehrerbildungsinstitutionen sind im Vertrag über die Leistungen zwischen der Pädagogischen Hochschule und den angegliederten Lehrerbildungsinstitutionen zu regeln.
+<sup>2</sup> Die Pädagogische Hochschule und der Verein NMS Bern konkretisieren diese Regeln jeweils durch Reglement.
 
-<sup>2</sup> Im Übrigen finden die für die Mitarbeiterinnen und Mitarbeiter geltenden Vorschriften dieses Gesetzes und seiner Ausführungsbestimmungen keine Anwendung auf die Mitarbeiterinnen und Mitarbeiter der angegliederten Lehrerbildungsinstitutionen.
+<sup>3</sup> Sie können zur Gewährleistung der Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis in- und ausländischen Hochschulen sowie Forschungs- und Forschungsförderungsinstitutionen im Einzelfall Auskünfte darüber erteilen,
+
+- a ob eine Verletzung oder der begründete Verdacht einer Verletzung dieser Regeln durch ihre Verpflichteten vorliegt,
+- b welche Sanktionen gegen die entsprechenden Verpflichteten verhängt worden sind.
+
+<sup>4</sup> Sie können ihrerseits bei Institutionen gemäss Absatz 3 über ihre Verpflichteten sowie über Verpflichtete anderer Institutionen, mit denen sie Forschungspartnerschaften unterhalten hat, unterhalten oder eingehen wollen, die gleichen Auskünfte einholen.
+
+<sup>5</sup> Die Befugnis zum Erteilen oder Einholen von Auskünften verjährt fünf Jahre, nachdem die Pädagogische Hochschule oder die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern vom Verdacht auf einen Regelverstoss Kenntnis erlangt haben. Diese Frist wird durch jede Untersuchungshandlung unterbrochen. Die absolute Verjährung beträgt zehn Jahre.
+
+## 8b Strafbestimmung
+
+#### Art. 74a
+
+<sup>1</sup> Wer unbefugt behauptet, Inhaberin oder Inhaber eines Titels, eines Diploms oder einer Bescheinigung nach Artikel 3 zu sein, wird mit Busse bestraft. Die strafrechtlichen Bestimmungen des Bundesrechts sowie des interkantonalen Rechts bleiben vorbehalten.
+
+## 8c Kantonale Behörden
+
+#### Art. 74b
+
+**Grosser Rat**
+
+<sup>1</sup> Der Grosse Rat übt die Oberaufsicht über die Pädagogische Hochschule aus.
+
+<sup>2</sup> Er nimmt Kenntnis vom Geschäftsbericht der Pädagogischen Hochschule und erfüllt die weiteren Aufgaben, die ihm durch dieses Gesetz übertragen sind.
+
+#### Art. 74c
+
+**Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat
+
+- a entscheidet über die Errichtung, Zusammenlegung und Aufhebung von Studiengängen der Grundausbildungen sowie von Vorbereitungskursen für Grundausbildungen der Pädagogischen Hochschule,
+- b beschliesst den jährlichen Kantonsbeitrag an die Pädagogische Hochschule,
+- c übt die Oberaufsicht über die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern aus,
+- d nimmt Kenntnis vom Geschäftsbericht des Vereins NMS Bern für seine Lehrerinnen- und Lehrerbildungsinstitution.
+
+<sup>2</sup> Er kann die Befugnis gemäss Absatz 1 Buchstabe b durch Verordnung an die Bildungs- und Kulturdirektion übertragen.
+
+<sup>3</sup> Er erfüllt die weiteren Aufgaben, die ihm durch die Gesetzgebung über die Pädagogische Hochschule übertragen sind.
+
+#### Art. 74d
+
+**Ausführungsbestimmungen für die Pädagogische Hochschule**
+
+<sup>1</sup> Der Regierungsrat erlässt die Ausführungsbestimmungen für die Pädagogische Hochschule.
+
+<sup>2</sup> Er erlässt insbesondere Bestimmungen über
+
+- a die Planung, Steuerung und Finanzierung,
+- b Grundzüge der Qualitätssicherung und -entwicklung,
+- c die berufliche Vorsorge der Mitarbeiterinnen und Mitarbeiter,
+- d die Entschädigung der Mitglieder des Schulrates.
+
+#### Art. 74e
+
+**Bildungs- und Kulturdirektion**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion übt die direkte Aufsicht über die Pädagogische Hochschule sowie die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern aus.
+
+<sup>2</sup> Die Pädagogische Hochschule sowie die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern sind verpflichtet, soweit dies für die Wahrnehmung der Aufsicht erforderlich ist,
+
+- a der Bildungs- und Kulturdirektion Auskünfte zu erteilen, Einsicht in sämtliche Akten zu gewähren und Zutritt zu den Einrichtungen zu verschaffen sowie
+- b die Bildungs- und Kulturdirektion in allen Belangen zu unterstützen.
+
+<sup>3</sup> Die Bildungs- und Kulturdirektion
+
+- a genehmigt die Studienreglemente der Pädagogischen Hochschule sowie des Vereins NMS Bern für seine Lehrerinnen- und Lehrerbildungsinstitution,
+- b erfüllt die weiteren Aufgaben, die ihr durch die Gesetzgebung über die Pädagogische Hochschule übertragen sind.
+
+<sup>4</sup> Sie ist für alle Angelegenheiten zuständig, die nicht der Pädagogischen Hochschule, dem Verein NMS Bern für seine Lehrerinnen- und Lehrerbildungsinstitution oder einer anderen kantonalen oder eidgenössischen Behörde übertragen sind.
 
 ## 9 Übergangs- und Schlussbestimmungen
 
@@ -1049,6 +1265,56 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+## T1 Übergangsbestimmungen der Änderung vom 08.03.2022
+
+#### Art. T1-1
+
+**Aufnahmen und Zulassungen an der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern für das Frühjahrssemester 2023**
+
+<sup>1</sup> Aufnahmen und Zulassungen an der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern für das Frühjahrssemester 2023 richten sich nach dieser Änderung.
+
+<sup>2</sup> Erlass und Genehmigung der Studienreglemente und der weiteren Bestimmungen für Aufnahmen und Zulassungen richten sich ebenfalls nach dieser Änderung.
+
+#### Art. T1-2
+
+**Bisherige Studierende an der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern**
+
+<sup>1</sup> Studierende, die ihr Studium an der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern vor dem Inkrafttreten dieser Änderung aufgenommen haben, schliessen dieses nach dem bisherigen Studienreglement ab.
+
+<sup>2</sup> Hinsichtlich der Zuständigkeiten gilt ab dem 1. Februar 2023 das neue Recht.
+
+#### Art. T1-3
+
+**Akkreditierung der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern**
+
+<sup>1</sup> Die erste institutionelle Akkreditierung der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern muss bis spätestens zwei Jahre nach dem Inkrafttreten dieser Änderung erfolgt sein.
+
+#### Art. T1-4
+
+**Massnahmen zur Aufgabenerfüllung durch die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern ab 1. Februar 2023**
+
+<sup>1</sup> Die direkten Kosten für das erstmalige Verfahren der institutionellen Akkreditierung der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern gemäss Artikel 3 Absatz 1 Buchstabe a der eidgenössischen Verordnung des Schweizerischen Akkreditierungsrats vom 23. März 2018 über die Gebühren für die Akkreditierungsverfahren und für Leistungen im Auftrag Dritter (Gebührenverordnung SAR, GebV-SAR)[^T14-1] werden durch den Kanton getragen.
+
+<sup>2</sup> Im Übrigen treffen der Regierungsrat und die zuständige Stelle der Bildungs- und Kulturdirektion alle Massnahmen, die für die Erfüllung der Aufgabe gemäss Artikel 67 Absatz 1 durch den Verein NMS Bern für seine Lehrerinnen- und Lehrerbildungsinstitution ab dem 1. Februar 2023 notwendig sind.
+
+[^T14-1]: SR [414.205.6](https://db.clex.ch/link/Bund/414.205.6/de)
+
+#### Art. T1-5
+
+**Leistungsvertrag zwischen Verein NMS Bern und Kanton**
+
+<sup>1</sup> Artikel 70a ist rückwirkend auf den 1. Juni 2022 anwendbar.
+
+<sup>2</sup> Der erste Leistungsvertrag gemäss Artikel 70a gilt ab dem 1. Februar 2023.
+
+#### Art. T1-6
+
+**Anpassung bestehender Arbeitsverhältnisse der Pädagogischen Hochschule**
+
+<sup>1</sup> Der Regierungsrat regelt die Anpassung der bestehenden Arbeitsverhältnisse der Pädagogischen Hochschule an das neue Recht.
+
+<sup>2</sup> Er kann diese Befugnis ganz oder teilweise dem Schulrat übertragen.
 
 Bern, 8. September 2004
 

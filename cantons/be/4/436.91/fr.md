@@ -4,13 +4,12 @@ number: "436.91"
 title: Loi sur la Haute école pédagogique germanophone
 short: LHEP
 language: fr
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+version_adopted: 2022-03-08
 adopted: 2004-09-08
 in_force: 2005-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.91"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1859/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2669/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1859/pdf_file"
 
 (LHEP)
 
-du 08.09.2004 (état au 01.07.2020)
+du 08.09.2004 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -27,21 +26,42 @@ sur proposition du Conseil-exécutif,
 
 arrête:
 
-## 1 Bases
+## 1 Généralités
 
 #### Art. 1
+
+**Objet**
+
+<sup>1</sup> La présente loi régit
+
+- a la Haute école pédagogique germanophone (ci-après Haute école pédagogique),
+- b la délégation de tâches relatives à la formation du corps enseignant à l'association NMS Bern.
+
+<sup>2–4</sup> …
+
+#### Art. 1a
+
+**Définition**
+
+<sup>1</sup> Les degrés de formation cités dans la présente loi correspondent aux degrés scolaires définis à l’article 6 de l’accord intercantonal du 14 juin 2007 sur l’harmonisation de la scolarité obligatoire[^1a-1].
+
+[^1a-1]: RSB [439.60-1](https://www.belex.sites.be.ch/data/439.60-1/fr)
+
+## 1a Fondements de la Haute école pédagogique
+
+#### Art. 1b
 
 **Principes**
 
 <sup>1</sup> Le canton entretient une Haute école pédagogique pour la formation du corps enseignant germanophone.
 
-<sup>2</sup> La Haute école pédagogique est un établissement de droit public doté de la personnalité juridique. Elle est autonome dans les limites fixées par la Constitution et la loi.
+<sup>2</sup> La Haute école pédagogique est un établissement de droit public doté de la personnalité juridique. Elle est autonome dans les limites fixées par la Constitution et par la loi.
 
-<sup>3</sup> Elle est au service de la collectivité. Elle respecte et protège la dignité de l’homme et l’intégrité de la nature.
+<sup>3</sup> Elle est au service de la collectivité. Elle respecte et protège la dignité de l'être humain et l’intégrité de la nature.
 
 <sup>4</sup> Elle peut, pour autant que cela lui serve à accomplir ses tâches,
 
-- a conclure des conventions avec des tiers,
+- a conclure des conventions avec des tiers;
 - b s’associer à des organisations et à des entreprises.
 
 #### Art. 2
@@ -60,11 +80,11 @@ arrête:
 
 #### Art. 3
 
-**Attestations**
+**Titres, diplômes et attestations**
 
-<sup>1</sup> La Haute école pédagogique délivre les titres de bachelor et de master, des diplômes, des certificats et d’autres attestations.
+<sup>1</sup> La Haute école pédagogique délivre les titres de bachelor et de master conformément aux règles de coordination nationales ainsi que des diplômes et des attestations.
 
-<sup>2</sup> Elle retire les titres, diplômes, certificats ou attestations délivrés par erreur ou acquis frauduleusement.
+<sup>2</sup> Elle retire un titre, un diplôme ou une attestation délivrée par erreur ou acquise frauduleusement.
 
 #### Art. 4
 
@@ -78,19 +98,25 @@ arrête:
 
 **Tâches fondamentales**
 
-<sup>1</sup> La Haute école pédagogique a pour tâche première d’assurer la formation de base et la formation continue du corps enseignant des degrés préscolaire, primaire et secondaires I et II ainsi que la formation à l’enseignement spécialisé.
+<sup>1</sup> La Haute école pédagogique a pour tâche première d’assurer la formation de base et la formation continue du corps enseignant des degrés primaire et secondaires I et II ainsi que la formation à l’enseignement spécialisé.
 
 <sup>2</sup> Elle inculque des compétences techniques, pédagogiques, didactiques ainsi qu’un savoir-faire en matière de conseil et d’appréciation. Elle développe les connaissances interdisciplinaires, l’esprit critique, la capacité à travailler en équipe et la personnalité. Elle prépare à l’exercice d’activités professionnelles en proposant des filières d’études orientées vers la pratique.
 
 <sup>3</sup> Elle conduit des travaux de recherche appliquée et de développement. Elle assure ainsi le lien entre les milieux scientifiques et la pratique et intègre les résultats à l’enseignement.
 
-<sup>4</sup> Elle garantit aux professionnels les cours de préparation nécessaires aux formations de base, notamment les cours de préparation aux formations de base pour l’enseignement aux degrés préscolaire, primaire et secondaire I. Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
+<sup>4</sup> Elle garantit aux professionnels les cours de préparation nécessaires aux formations de base, en particulier les cours de préparation aux formations de base pour l’enseignement aux degrés primaire et secondaire I. Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
 
 <sup>5</sup> Elle fournit des prestations de services dans le domaine des médias didactiques.
 
 <sup>6</sup> Elle fournit des prestations de services et propose des cours de formation continue à des tiers.
 
 <sup>7</sup> Elle apporte une contribution efficace au développement durable grâce à ses tâches fondamentales dans les domaines de l’enseignement, de la recherche et développement ainsi que des services.
+
+#### Art. 5a
+
+**Contribution à la neutralité climatique**
+
+<sup>1</sup> La Haute école pédagogique contribue, dans les limites de ses compétences, à la réalisation de la neutralité climatique.
 
 #### Art. 6
 
@@ -101,6 +127,7 @@ arrête:
 - a l’Université de Berne et la Haute école spécialisée bernoise,
 - b des organisations et des institutions oeuvrant dans les domaines de la formation, de la science et de la recherche,
 - c d’autres hautes écoles suisses et étrangères,
+- c1 l'institution de formation du corps enseignant de l'association NMS Bern,
 - d les écoles assurant la formation préalable de ses étudiants et étudiantes,
 - e des organisations des domaines du travail social et de la santé,
 - f les milieux économiques, les associations et les autorités.
@@ -151,12 +178,18 @@ arrête:
 
 <sup>2</sup> Le personnel de la haute école est constitué
 
-- a du recteur ou de la rectrice,
-- b des responsables d’instituts,
+- a–b …
 - c des membres du corps enseignant,
 - d des assistants et des assistantes,
 - e des formateurs et des formatrices en établissement,
 - f des autres collaborateurs et collaboratrices.
+
+<sup>3</sup> Il est entendu par personnel financé par des fonds de tiers les collaborateurs et collaboratrices
+
+- a dont le salaire n'est financé ni par la subvention annuelle allouée par le canton, ni par les subventions de base ou les subventions aux investissements allouées par la Confédération, ni par les taxes d'études ou les contributions qui sont versées par étudiant ou étudiante en vertu de conventions intercantonales et
+- b dont le contrat de travail stipule expressément ces conditions d'emploi.
+
+<sup>4</sup> Le Conseil-exécutif peut définir d'autres catégories de collaborateurs et collaboratrices.
 
 #### Art. 12
 
@@ -183,7 +216,7 @@ arrête:
 
 **Conseils**
 
-<sup>1</sup> La Haute école spécialisée bernoise fournit à ses membres conseils et informations pour les aider à organiser leurs études, à améliorer leur méthode d’apprentissage ou d’enseignement, ou à résoudre des difficultés liées à leurs études ou à leur activité d’enseignement.
+<sup>1</sup> La Haute école pédagogique fournit à ses membres conseils et informations pour les aider à organiser leurs études, à améliorer leur méthode d’apprentissage ou d’enseignement, ou à résoudre des difficultés liées à leurs études ou à leur activité d’enseignement.
 
 #### Art. 15
 
@@ -225,18 +258,34 @@ arrête:
 
 #### Art. 19
 
-**Législation sur le personnel, traitements, engagement**
+**Législation sur le personnel, généralités**
 
 <sup>1</sup> Le statut du personnel de la Haute école pédagogique est régi par la législation sur le personnel sauf dispositions contraires de la présente loi ou de ses textes d’application.
 
-<sup>2</sup> Le Conseil-exécutif règle par voie d’ordonnance les modalités de détail concernant les traitements et l’engagement ainsi que les compétences. Pour le personnel exerçant des activités d’enseignement ou de recherche et développement ainsi que pour les membres de la direction, il peut prévoir des réglementations dérogeant à la législation sur le personnel; cela vaut pour
+<sup>2</sup> Le Conseil-exécutif ​peut édicter par voie d'ordonnance des dispositions dérogeant à la législation sur le personnel afin de tenir compte des conditions spécifiques aux rapports de travail à la Haute école pédagogique ou de certaines catégories de collaborateurs et collaboratrices. Ces prescriptions régissent les domaines suivants:
 
-- a la durée des rapports de travail,
-- b le montant du traitement dans le cadre des plafonds légaux,
-- c les termes et les délais de résiliation des rapports de travail,
-- d les conséquences de la résiliation des rapports de travail,
-- e les règles applicables à l’indemnisation des soldes de vacances et soldes horaires,
-- f les règles applicables aux comptes épargne-temps.
+- a la durée du contrat,
+- b les délais, les termes et les conséquences de la fin des rapports de travail,
+- c le degré d'occupation défini par un pourcentage ou par une fourchette,
+- d la fixation du traitement à l’entrée en fonction et la progression individuelle du traitement,
+- e le modèle de temps de travail,
+- f le remboursement des frais.
+
+<sup>3</sup> Il peut déléguer partiellement ou totalement les compétences définies à l'alinéa 2 au conseil de l’école.
+
+#### Art. 19a
+
+**Compétences**
+
+<sup>1</sup> Le Conseil-exécutif désigne les autorités d'engagement compétentes et définit les autres compétences par voie d'ordonnance, sauf dispositions contraires de la présente loi .
+
+<sup>2</sup> Il peut déléguer partiellement ou totalement cette compétence au conseil de l’école.
+
+#### Art. 19b
+
+**Dérogation à l’obligation d'accord ou d’approbation**
+
+<sup>1</sup> Si l'accord ou l'approbation d'un service cantonal est requise dans la législation sur le personnel, la Haute école pédagogique ​en est exemptée.
 
 #### Art. 20
 
@@ -244,15 +293,17 @@ arrête:
 
 <sup>1</sup> Les activités annexes exercées par les collaborateurs et les collaboratrices ne doivent pas entraver l’accomplissement de leurs tâches ni le fonctionnement de la Haute école pédagogique.
 
-<sup>2</sup> Les activités annexes exercées par des collaborateurs et des collaboratrices dont le degré d’occupation est de 80 pour cent au moins sont soumises à autorisation.
+<sup>2</sup> Elles sont soumises à autorisation.
 
 <sup>3</sup> Si l’activité annexe mobilise durablement et substantiellement la personne intéressée, l’autorisation est liée à la condition que la personne réduise son degré d’occupation.
 
-<sup>4</sup> Si l’infrastructure de la Haute école pédagogique est utilisée pour les besoins de l’activité annexe, les frais qui en découlent doivent être remboursés.
+<sup>4</sup> S'il est recouru à l’infrastructure ou au personnel de la Haute école pédagogique pour les besoins de l’activité annexe, les frais qui en découlent doivent être remboursés. Le remboursement peut être réalisé sur une base forfaitaire.
 
-<sup>5</sup> Les activités annexes selon l’alinéa 2, le temps qui y a été consacré et les revenus qui en ont découlé doivent faire l’objet d’une déclaration personnelle chaque année. L’organisation de la procédure de déclaration personnelle relève de la compétence du recteur ou de la rectrice.
+<sup>5</sup> En règle générale, les activités annexes, le temps qui y a été consacré et les revenus qui en ont découlé doivent faire l’objet d’une déclaration personnelle chaque année.
 
-<sup>6</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
+<sup>6</sup> Le Conseil-exécutif peut prévoir des dérogations à l'obligation d'autorisation et de déclaration. Il peut déléguer partiellement ou totalement cette compétence au conseil de l'école.
+
+<sup>7</sup> Il règle par voie d'ordonnance les modalités de détail relatives aux activités annexes autorisées, les compétences, les modalités de détail relatives à la procédure d'autorisation et de déclaration ainsi que l'indemnisation. Il peut déléguer partiellement ou totalement cette compétence au conseil de l'école.
 
 ### 3.2.2 Membres du corps enseignant
 
@@ -270,11 +321,9 @@ arrête:
 
 <sup>1</sup> La Haute école pédagogique peut accorder des congés aux membres du corps enseignant qui souhaitent se consacrer à une activité de recherche ou de formation.
 
-<sup>2</sup> Lorsqu’un congé de recherche ou de formation dure plus de trois mois, le traitement de l’enseignant ou de l’enseignante concernée est réduit de dix pour cent. Le montant de la réduction sert à financer les remplacements.
+<sup>2–3</sup> …
 
-<sup>3</sup> Si l’enseignant ou l’enseignante quitte le service du canton pendant le congé ou dans les deux années qui suivent le congé, il ou elle doit rembourser la totalité ou une partie du traitement perçu pendant le congé; la date du départ détermine l’étendue du remboursement.
-
-<sup>4</sup> Le Conseil-exécutif règle les modalités de détail, notamment concernant l’octroi des congés de recherche ou de formation et l’étendue du remboursement, par voie d’ordonnance.
+<sup>4</sup> Le Conseil-exécutif règle par voie d'ordonnance l'octroi des congés de recherche ou de formation ainsi que les droits et les obligations qui y sont liés. Il peut déléguer partiellement ou totalement cette compétence au conseil de ​l'école.
 
 ### 3.2.3 Assistants et assistantes
 
@@ -296,33 +345,56 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif règle les modalités de détail, en particulier concernant le mandat et l’indemnisation des formateurs et formatrices en établissement, par voie d’ordonnance.
 
+### 3.2.5 Personnel financé par des fonds de tiers
+
+#### Art. 24a
+
+**Motif de résiliation des rapports de travail**
+
+<sup>1</sup> L'épuisement des fonds de tiers constitue un motif de résiliation des rapports de travail du personnel financé par des fonds de tiers.
+
+#### Art. 24b
+
+**Engagements de droit privé**
+
+<sup>1</sup> Le personnel financé par des fonds de tiers peut faire l'objet d'un contrat de droit privé si, dans le cadre du projet financé par des fonds de tiers, la Haute école pédagogique
+
+- a est en concurrence avec des prestataires privés et
+- b ne remplit aucun mandat légal.
+
+<sup>2</sup> Les dispositions et les dispositions d'exécution de la présente loi qui relèvent du droit du personnel ainsi que la législation sur le personnel ne s'appliquent pas aux engagements de droit privé.
+
 ### 3.3 Etudiants et étudiantes
 
 ### 3.3.1 Admission
 
 #### Art. 25
 
-**Formation de base du corps enseignant des degrés préscolaire et primaire et du secondaire I**
+**Formation de base du corps enseignant des degrés primaire et secondaire I**
 
-<sup>1</sup> Est admis aux études quiconque remplit les conditions prévues par la loi fédérale du 30 septembre 2011 sur l’encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles (loi sur l’encouragement et la coordination des hautesécoles, LEHE)[^25-1] ainsi que par les dispositions d’exécution de celle-ci.
+<sup>1</sup> Est admis aux filières de la formation de base du corps enseignant des degrés primaire et secondaire I quiconque remplit les conditions prévues par la loi fédérale du 30 septembre 2011 sur l’encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles (loi sur l’encouragement et la coordination des hautes écoles, LEHE)[^25-1] ainsi que par les dispositions d’exécution de celle-ci.
+
+<sup>1a</sup> Sont également admis à une filière de la formation de base du corps enseignant du degré primaire les titulaires d’un certificat de maturité professionnelle sans condition supplémentaire, en particulier sans examen complémentaire.
 
 <sup>2</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
 
-[^25-1]: RS 414.20
+[^25-1]: RS [414.20](https://db.clex.ch/link/Bund/414.20/fr)
 
 #### Art. 26
 
 **Formation de base du corps enseignant du secondaire II**
 
-<sup>1</sup> Est admis aux études quiconque a au moins obtenu un diplôme intermédiaire d’une autre haute école, sanctionnant des études propres aux disciplines enseignées et ayant trait à la formation de base.
+<sup>1</sup> Est admis aux filières de la formation de base du corps enseignant du degré secondaire II quiconque remplit les conditions prévues par le règlement de la Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP) du 28 mars 2019 concernant la reconnaissance des diplômes d’enseignement du degré primaire, du degré secondaire I et pour les écoles de maturité[^26-1].
 
 <sup>2</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
+
+[^26-1]: Disponible auprès du Secrétariat général de la Conférence suisse des directeurs cantonaux de l’instruction publique, Speichergasse 6, Case postale 660, 3000 Berne 7, ou sur Internet sous https://edudoc.ch/record/202451/files/Regl\_Lehrdiplome\_f.pdf.
 
 #### Art. 27
 
 **Formation du corps enseignant spécialisé**
 
-<sup>1</sup> Est admis aux études quiconque remplit les conditions prévues par le règlement de la Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP) du 12 juin 2008 concernant la reconnaissance des diplômes dans le domaine de la pédagogie spécialisée (orientation éducation précoce spécialisée et orientation enseignement spécialisé)[^27-1] ainsi que par les lignes directrices du Comité de la CDIP du 11 septembre 2008 pour l'application dudit règlement[^27-2].
+<sup>1</sup> Est admis aux filières de la formation du corps enseignant spécialisé quiconque remplit les conditions prévues par le règlement de la Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP) du 12 juin 2008 concernant la reconnaissance des diplômes dans le domaine de la pédagogie spécialisée (orientation éducation précoce spécialisée et orientation enseignement spécialisé)[^27-1] ainsi que par les lignes directrices du Comité de la CDIP du 11 septembre 2008 pour l'application dudit règlement[^27-2].
 
 <sup>2</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
 
@@ -331,9 +403,11 @@ arrête:
 
 #### Art. 27a
 
-**Non-admission**
+**Non-admission et exclusion**
 
-<sup>1</sup> Toute personne exclue définitivement d’une formation visée aux articles 25, 26 et 27 dans une autre haute école suite à un échec à des contrôles de connaissances n’est pas admise à cette formation à la Haute école pédagogique. Le Conseil-exécutif peut prévoir des exceptions par voie d’ordonnance.
+<sup>1</sup> Toute personne exclue définitivement d’une formation visée aux articles 25 à 27 dans une haute école suite à un échec à des contrôles de connaissances n’est pas admise à cette formation à la Haute école pédagogique. Le Conseil-exécutif peut prévoir des exceptions par voie d’ordonnance.
+
+<sup>2</sup> La Haute école pédagogique peut refuser d’immatriculer des candidats et candidates aux études et exclure des étudiants et étudiantes d’une filière d’études s'ils ne remplissent pas les conditions requises pour exercer la profession d’enseignant ou d’enseignante en respectant l’intégrité des élèves qui leur sont confiés. Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
 
 #### Art. 28
 
@@ -362,6 +436,8 @@ arrête:
 - c la formation ne puisse plus être assurée autrement dans des conditions satisfaisantes.
 
 <sup>3</sup> Les restrictions d’admission sont fixées à chaque fois pour une année d’études.
+
+<sup>3a</sup> L’article 67d s’applique également si les filières d’études de la formation de base des membres du corps enseignant du degré primaire sont soumises à des restrictions d’admission.
 
 <sup>4</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
 
@@ -405,7 +481,7 @@ arrête:
 
 <sup>3</sup> La Haute école pédagogique perçoit auprès des membres de l’Association des étudiants et des étudiantes une taxe de 30 francs au plus par semestre pour financer l’association.
 
-## 4 Organisation
+## 4 Organisation de la Haute école pédagogique
 
 ### 4.1 Dispositions générales
 
@@ -431,7 +507,7 @@ arrête:
 - d les responsables d’instituts,
 - e la commission de recours.
 
-<sup>2</sup> Les statuts peuvent instituer d’autres organes.
+<sup>2</sup> Les statuts peuvent instituer d’autres organes, en particulier des vice-recteurs et des vice-rectrices.
 
 ### 4.2 La Haute école pédagogique dans son ensemble
 
@@ -443,17 +519,23 @@ arrête:
 
 <sup>1</sup> Le conseil de l’école est l’organe de direction stratégique de la Haute école pédagogique.
 
-<sup>2</sup> Il se compose
+<sup>2</sup> Il se compose des personnes suivantes qui ne sont pas membres de la Haute école pédagogique:
 
-- a du président ou de la présidente, qui n’est pas membre de la Haute école pédagogique;
-- b de six autres membres qui ne sont pas membres de la Haute école pédagogique;
-- c du recteur ou de la rectrice, membre d’office;
-- d d’un représentant ou d’une représentante du corps enseignant et
-- e d’un représentant ou d’une représentante des étudiants et des étudiantes.
+- a le président ou la présidente et
+- b six autres membres.
+- c–e …
 
-<sup>3</sup> Le Conseil-exécutif désigne le président ou la présidente ainsi que les membres du conseil de l’école pour une période de fonction de quatre ans. Les domaines dont relèvent les tâches et les mandats de la Haute école pédagogique doivent être représentés de manière appropriée par les personnalités choisies. Le mandat peut être renouvelé deux fois. Les membres du corps enseignant ainsi que les étudiants et les étudiantes délèguent leurs représentants respectifs de manière autonome.
+<sup>3</sup> Le Conseil-exécutif désigne le président ou la présidente et les membres du conseil de l’école pour une période de fonction de quatre ans. Les domaines dont relèvent les tâches et les mandats de la Haute école pédagogique doivent être représentés de manière appropriée par les personnalités choisies. Le mandat peut être renouvelé deux fois.
 
-<sup>4</sup> Le service compétent de la Direction de l’instruction publique et de la culture délègue une personne qui participe aux séances du conseil de l’école avec voix consultative.
+<sup>4</sup> Participent aux séances du conseil de l’école avec voix consultative
+
+- a le recteur ou la rectrice, membre d’office,
+- b un représentant ou une représentante du corps enseignant,
+- c un représentant ou une représentante des étudiants et des étudiantes,
+- d un représentant ou une représentante des collaborateurs et collaboratrices visés à l’article 11, alinéa 2, lettres d à f,
+- e un représentant ou une représentante de la Direction de l’instruction publique et de la culture.
+
+<sup>5</sup> Les représentants et les représentantes visés à l’alinéa 4, lettres b à e sont délégués par leur organisation respective de manière autonome.
 
 #### Art. 37
 
@@ -473,15 +555,17 @@ arrête:
 - k arrête les autres rapports visés à l’article 47;
 - l statue sur la création, le regroupement et la suppression d'instituts;
 - m–n …
-- o engage les responsables d’instituts sur proposition du recteur ou de la rectrice;
-- p adopte le concept de développement de la qualité;
-- q engage le recteur ou la rectrice;
+- o engage le recteur ou la rectrice;
+- p engage, sur proposition du recteur ou de la rectrice, les membres de la direction de l’école disposant du droit de vote;
+- q adopte le concept de développement de la qualité;
 - r approuve les statuts de l’Association des étudiants et des étudiantes;
 - s conclut les accords sur les prestations avec l’Université et la Haute école spécialisée bernoise;
-- t conclut les accords sur les prestations avec les institutions affiliées de formation du corps enseignant;
+- t …
 - u conclut les accords sur les prestations avec des institutions de formation publiques et privées.
 
 <sup>2</sup> Il accomplit les autres tâches qui lui sont assignées par la législation sur la Haute école pédagogique.
+
+<sup>3</sup> Il fixe par voie de règlement les compétences liées à la délivrance des titres de bachelor et de master, des diplômes et des attestations ainsi que les compétences liées aux décisions concernant les résultats d'examen.
 
 ### 4.2.2 Recteur ou rectrice
 
@@ -506,16 +590,14 @@ arrête:
 - c met en oeuvre les décisions des autorités cantonales et du conseil de l’école;
 - d décide, sur proposition de la direction de l’école, de l’attribution des ressources que le canton met à disposition pour la recherche;
 - e gère les finances de la Haute école pédagogique;
-- f engage, à l’exception des responsables d’instituts, les collaborateurs et les collaboratrices sur proposition de leurs responsables respectifs;
-- g statue sur la création, la modification ou la suppression de postes, à l’exception des postes de responsable d’institut;
+- f …
+- g statue sur la création, la modification ou la suppression de postes;
 - h approuve les programmes d’études;
-- i fait des propositions pour l'engagement des responsables d’instituts;
-- k délivre et retire les titres de bachelor et de master ainsi que les diplômes de formation initiale;
-- l délivre et retire les diplômes de formation continue ainsi que les certificats et les autres attestations;
+- i–l …
 - m est l’autorité compétente en matière d’admission;
 - n statue sur toutes les affaires concernant la Haute école pédagogique dans son ensemble, pour autant qu’elles ne soient du ressort d’aucun autre organe.
 
-<sup>2</sup> Il ou elle peut, par voie de règlement, déléguer aux membres de la direction d’école compétents en la matière tout ou partie de la compétence prévue à l’alinéa 1, lettres f et l.
+<sup>2</sup> Les compétences définies à l’alinéa 1, lettres a, d, e, g, h, m et n peuvent être déléguées dans les statuts aux vice-recteurs et aux vice-rectrices.
 
 <sup>3</sup> Les statuts règlent les modalités de détail.
 
@@ -525,7 +607,7 @@ arrête:
 
 <sup>1</sup> La direction de la Haute école pédagogique se compose du recteur ou de la rectrice, des responsables d’instituts et du ou de la responsable de l’administration.
 
-<sup>2</sup> L’article 73 est applicable lorsque des institutions de formation du corps enseignant régies par le droit privé sont rattachées à la Haute école pédagogique.
+<sup>2</sup> Le conseil de l'école peut prévoir d'autres membres dans les statuts, en particulier des vice-recteurs et des vice-rectrices.
 
 <sup>3</sup> La direction de l’école
 
@@ -577,7 +659,7 @@ arrête:
 
 <sup>3</sup> Les statuts règlent les modalités de détail.
 
-## 5 Plan de développement, pilotage et financement
+## 5 Plan de développement, pilotage et financement de la Haute école pédagogique
 
 #### Art. 45
 
@@ -585,7 +667,7 @@ arrête:
 
 <sup>1</sup> Le plan de développement, le pilotage et le financement relèvent à la fois de la compétence du canton et de celle de la Haute école pédagogique.
 
-<sup>2</sup> Les éventuelles consignes de la Confédération, les consignes des organes intercantonaux ainsi que les prestations des institutions affiliées de formation du corps enseignant doivent être prises en compte.
+<sup>2</sup> Les éventuelles consignes de la Confédération et des organes intercantonaux doivent être prises en compte.
 
 <sup>3</sup> Le pilotage est effectué au moyen du mandat de prestations du Conseil-exécutif.
 
@@ -705,11 +787,16 @@ arrête:
 
 <sup>4</sup> Le montant des taxes d’examens est de 150 à 500 francs.
 
-<sup>5</sup> Des taxes d’études plus élevées, ne dépassant toutefois pas la couverture des coûts, peuvent être prélevées pour les étudiants et étudiantes extracantonaux dont le canton de domicile ne prend pas en charge les taxes d’études conformément à l’accord intercantonal du 12 juin 2003 sur les hautes écoles spécialisées à partir de 2005 (AHES)[^53-1].
+<sup>5</sup> Des taxes d’études plus élevées, ne dépassant toutefois pas la couverture des coûts, peuvent être prélevées pour les étudiants et étudiantes extracantonaux dont le canton de domicile ne prend pas en charge les taxes d’études conformément à l’accord intercantonal du 23 novembre 2004 sur les hautes écoles spécialisées à partir de 2005 (AHES)[^53-1].
 
-<sup>6</sup> Le Conseil-exécutif règle les taxes par voie d’ordonnance. Il peut déléguer partiellement ou totalement cette compétence à la Direction de l’instruction publique et de la culture.
+<sup>5a</sup> Des taxes couvrant les coûts doivent, dans le respect des accords internationaux, être prélevées pour les étudiants et étudiantes étrangers non titulaires d’un permis d’établissement.
 
-[^53-1]: RSB 439.21
+<sup>6</sup> Le Conseil-exécutif règle les taxes par voie d’ordonnance. Il peut déléguer partiellement ou totalement
+
+- a la compétence pour fixer le montant des taxes visées aux alinéas 1 à 3, 5 et 5a à la Direction de l’instruction publique et de la culture;
+- b la compétence pour fixer le montant des taxes visées à l'alinéa 4 à la Direction de l'instruction publique et de la culture ou au conseil de l'école.
+
+[^53-1]: RSB [439.21-1](https://www.belex.sites.be.ch/data/439.21-1/fr)
 
 #### Art. 54
 
@@ -735,9 +822,9 @@ arrête:
 
 **Taxes prélevées auprès des auditeurs et auditrices**
 
-<sup>1</sup> La Haute école pédagogique prélève des taxes auprès des auditeurs et auditrices. Ces taxes s’élèvent au maximum à 150 francs par heure de cours hebdomadaire sur un semestre et à 1200 francs au maximum par semestre.
+<sup>1</sup> La Haute école pédagogique prélève des taxes auprès des auditeurs et auditrices. Ces taxes s’élèvent au maximum à 1200 francs par semestre.
 
-<sup>2</sup> Le Conseil-exécutif règle les taxes par voie d’ordonnance. Il peut déléguer partiellement ou totalement cette compétence à la Direction de l’instruction publique et de la culture.
+<sup>2</sup> Le Conseil-exécutif règle les taxes par voie d’ordonnance. Il peut déléguer partiellement ou totalement cette compétence à la Direction de l’instruction publique et de la culture ou au conseil de l’école.
 
 #### Art. 56
 
@@ -765,6 +852,18 @@ arrête:
 
 **…**
 
+#### Art. 58a
+
+**Propriété intellectuelle**
+
+<sup>1</sup> Les résultats immatériels du travail que les collaborateurs et collaboratrices créent dans l’exécution de leurs obligations de service et dans l’exercice de leur fonction sont considérés comme ayant été cédés à la Haute école pédagogique sans autre formalité.
+
+<sup>2</sup> La Haute école pédagogique est titulaire des droits d’utilisation exclusifs des logiciels que les collaborateurs et collaboratrices créent dans l’exécution de leurs obligations de service et dans l’exercice de leur fonction.
+
+<sup>3</sup> Si les résultats immatériels du travail ont été créés dans l'exercice d'une activité annexe, les recettes dégagées par leur exploitation sont gérées comme des recettes d'activités annexes.
+
+<sup>4</sup> Dans le cas d’obligations de service envers plusieurs employeurs, les droits concernant les résultats immatériels du travail sont réglés contractuellement.
+
 #### Art. 59
 
 **Legs et fondations non autonomes**
@@ -777,64 +876,13 @@ arrête:
 
 <sup>4</sup> Elle peut, sur proposition du recteur ou de la rectrice, modifier ou compléter l’affectation de legs ou le but de fondations non autonomes lorsqu’il est impossible de procéder à une fusion conformément à l’alinéa 3.
 
-## 6 Autorités cantonales
+## 6
 
-#### Art. 60
+#### Art. 60–62
 
-**Grand Conseil**
+**…**
 
-<sup>1</sup> Le Grand Conseil exerce la haute surveillance.
-
-<sup>2</sup> Il prend connaissance du rapport de gestion de la Haute école pédagogique et accomplit les autres tâches qui lui sont assignées par la présente loi.
-
-<sup>3</sup> Il statue sur l’affiliation d’institutions de formation du corps enseignant régies par le droit privé.
-
-#### Art. 61
-
-**Conseil-exécutif**
-
-<sup>1</sup> Le Conseil-exécutif
-
-- a …
-- b statue sur la création, le regroupement et la suppression de filières d’études dans les formations de base ainsi que de cours préparatoires aux formations de base;
-- c …
-- d arrête la subvention cantonale annuelle accordée à la Haute école pédagogique.
-
-<sup>2</sup> Il peut déléguer par voie d’ordonnance la compétence visée à l’alinéa 1, lettre d à la Direction de l’instruction publique et de la culture.
-
-<sup>3</sup> Il accomplit les autres tâches qui lui sont assignées par la législation sur la Haute école pédagogique.
-
-<sup>4</sup> …
-
-#### Art. 61a
-
-**Dispositions d'exécution**
-
-<sup>1</sup> Le Conseil-exécutif édicte les dispositions d’exécution.
-
-<sup>2</sup> Il édicte notamment les dispositions concernant
-
-- a le plan de développement, le pilotage et le financement,
-- b les principes applicables à l’assurance et au développement de la qualité,
-- c l’engagement et la prévoyance professionnelle des collaborateurs et collaboratrices,
-- d l’indemnisation des membres du conseil de l’école.
-
-#### Art. 62
-
-**Direction de l’instruction publique et de la culture**
-
-<sup>1</sup> La Direction de l’instruction publique et de la culture exerce la surveillance directe sur la Haute école pédagogique. La Haute école pédagogique est tenue de renseigner la Direction de l’instruction publique et de la culture, de lui donner accès aux dossiers ainsi qu’aux installations et de la soutenir dans tous les domaines pour autant que ces mesures soient nécessaires à l’exercice de la surveillance.
-
-<sup>2</sup> La Direction de l’instruction publique et de la culture
-
-- a approuve les règlements d’études;
-- b exerce une surveillance directe sur les institutions affiliées de formation du corps enseignant, sous réserve des attributions de la Haute école pédagogique prévues dans le contrat de prestations conclu entre la haute école et lesdites institutions;
-- c approuve les contrats de prestations conclus entre la Haute école pédagogique et les institutions affiliées de formation du corps enseignant;
-- d accomplit les autres tâches qui lui sont assignées par la loi et par ses dispositions d’exécution.
-
-<sup>3</sup> Elle traite toutes les affaires qui ne sont du ressort ni de la Haute école pédagogique, ni d’une autre autorité cantonale ou fédérale.
-
-## 7 Procédure, voies de droit, disposition pénale et droit disciplinaire
+## 7 Procédure, voies de droit et droit disciplinaire de la Haute école pédagogique
 
 #### Art. 63
 
@@ -848,9 +896,9 @@ arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Recours peut être formé auprès de la Direction de l’instruction publique et de la culture contre les décisions émanant du conseil de l’école, de la direction de l’école ou du recteur ou de la rectrice. L’alinéa 4 est réservé.
+<sup>1</sup> Recours peut être formé auprès de la Direction de l’instruction publique et de la culture contre les décisions émanant du conseil de l’école, de la direction de l’école ou du recteur ou de la rectrice, à l’exception des décisions relatives à la délivrance des titres de bachelor et de master ainsi qu’à la délivrance de diplômes et d'attestations. L’alinéa 4 est réservé.
 
-<sup>2</sup> Recours peut être formé auprès de la commission de recours de la Haute école pédagogique contre les décisions rendues par d’autres organes de la Haute école pédagogique en vertu de la présente loi. L’alinéa 4 est réservé.
+<sup>2</sup> Recours peut être formé auprès de la commission de recours de la Haute école pédagogique contre les autres décisions rendues par la Haute école pédagogique en vertu de la présente loi. L’alinéa 4 est réservé.
 
 <sup>3</sup> Recours peut être formé auprès du Tribunal administratif contre les décisions sur recours émanant de la commission de recours.
 
@@ -860,9 +908,7 @@ arrête:
 
 #### Art. 65
 
-**Disposition pénale**
-
-<sup>1</sup> Toute personne qui prétend être titulaire d’un diplôme, d’un certificat ou d’une attestation relevant de l’article 3 sans avoir réussi les examens requis sera punie de l’amende.
+**…**
 
 #### Art. 66
 
@@ -870,85 +916,253 @@ arrête:
 
 <sup>1</sup> Afin d’assurer le bon fonctionnement de la Haute école pédagogique, le Conseil-exécutif règle le droit disciplinaire de la Haute école pédagogique par voie d’ordonnance.
 
-<sup>2</sup> Le recteur ou la rectrice peut prendre les sanctions ci-après à l’encontre des étudiants et des étudiantes qui commettent des infractions graves ou répétées au règlement disciplinaire ou qui violent le principe d’intégrité de la science:
+<sup>2</sup> Le recteur ou la rectrice peut prendre les sanctions ci-après à l’encontre des étudiants et des étudiantes qui commettent des infractions graves ou répétées au règlement disciplinaire ou qui violent les règles de l'intégrité scientifique:
 
 - a exclusion de certains cours et interdiction d’utiliser certaines installations de la Haute école pédagogique pour une durée d’un ou plusieurs semestres,
 - b exclusion temporaire ou définitive de la Haute école pédagogique.
 
-## 8 Institutions de formation du corps enseignant régies par le droit privé
+## 8 Institution de formation du corps enseignant de l’association NMS Bern
+
+### 8.1 Fondements
 
 #### Art. 67
 
-**Principe**
+**Généralités**
 
-<sup>1</sup> Le Grand Conseil peut rattacher à la Haute école pédagogique des institutions de formation du corps enseignant régies par le droit privé, dont les filières de formation conduisent à des diplômes reconnus au niveau fédéral.
+<sup>1</sup> L’association NMS Bern est habilitée à proposer des filières d’études pour la formation de base des enseignants et enseignantes du degré primaire et à accomplir cette tâche à titre de tâche publique.
 
-#### Art. 68
+<sup>2</sup> Cette compétence présuppose
 
-**Aides financières**
+- a que l’institution de formation du corps enseignant de l’association NMS Bern soit au bénéfice d’une accréditation d'institution au sens de la LEHE et
+- b que les diplômes délivrés par l’institution de formation du corps enseignant de l’association NMS Bern soient reconnus dans toute la Suisse.
 
-<sup>1</sup> Le canton accorde des aides financières aux institutions affiliées de formation du corps enseignant.
+<sup>3</sup> L’institution de formation du corps enseignant de l’association NMS Bern collabore avec la Haute école pédagogique ainsi qu’avec les autres institutions et organisations visées à l’article 6, alinéa 1.
 
-<sup>2</sup> Les aides financières accordées par étudiant ou étudiante correspondent en principe aux contributions prévues aux articles 8 à 10 de l’accord intercantonal du 4 juin 1998 sur les hautes écoles spécialisées[^68-1]. Le Conseil-exécutif peut y déroger pour de justes motifs, notamment en raison de la précarité financière du canton.
-
-<sup>3</sup> Le Conseil-exécutif est seul compétent pour décider des aides financières, sous réserve des compétences dévolues à la Direction de l’instruction publique et de la culture en matière d’autorisation de dépenses.
-
-[^68-1]: N'est plus valable; actuellement AGC du 23.11.2004 concernant l'adhésion du canton de Berne à l'Accord intercantonal du 12 juin 2003 sur les hautes écoles spécialisées (AHES); RSB 439.21
-
-#### Art. 69
-
-**Tâches**
-
-<sup>1</sup> Les institutions affiliées de formation du corps enseignant doivent accomplir au moins l’une des tâches fondamentales de la Haute école pédagogique visées à l’article 5, alinéa 1.
-
-<sup>2</sup> L’article 5, alinéas 2 et 3 est applicable aux institutions affiliées de formation du corps enseignant.
-
-#### Art. 70
-
-**Accord sur les prestations**
-
-<sup>1</sup> Les prestations des institutions affiliées de formation du corps enseignant sont réglées dans le cadre d’un accord conclu pour une ou plusieurs années.
-
-<sup>2</sup> L’accord sur les prestations est conclu entre l’institution affiliée et la Haute école pédagogique.
-
-<sup>3</sup> Il est approuvé par la Direction de l’instruction publique et de la culture.
-
-<sup>4</sup> L’institution affiliée de formation du corps enseignant élabore un rapport de gestion annuel à l’intention de la Haute école pédagogique et de la Direction de l’instruction publique et de la culture, et fait état périodiquement de la mise en oeuvre de l’accord sur les prestations et de son appréciation quant aux risques financiers pour le canton.
-
-#### Art. 71
+#### Art. 67a
 
 **Dispositions applicables**
 
-<sup>1</sup> Les dispositions des articles 25 à 27a et 30 à 31a sont applicables aux prestations convenues avec les institutions affiliées de formation du corps enseignant. Celles des articles 2 à 4, 6 à 9, 12 à 18, 32, 33, 63, 64, alinéas 2 à 4 et 65 sont applicables par analogie.
+<sup>1</sup> Les dispositions suivantes s’appliquent aux filières d’études:
 
-<sup>2</sup> Les directives et actes suivants du conseil de l’école sont applicables aux prestations convenues des institutions affiliées du corps enseignant:
+- a articles 2, 18, 25, 27a, 53 et 55a,
+- b articles 3, 14, 29, 63 et 66 par analogie.
 
-- a règlements concernant la Haute école pédagogique dans son ensemble, à l’exception de ceux concernant les domaines des finances et de l’organisation,
-- b règlements d’études,
-- c charte,
-- d mandat de prestations du Conseil-exécutif, à l’exception du mandat de prestations de la Direction de l’instruction publique et de la culture apportant des précisions.
+#### Art. 67b
+
+**Règlement d’études**
+
+<sup>1</sup> L’association NMS Bern édicte un règlement d’études pour chaque filière d’études.
+
+#### Art. 67c
+
+**Admission en cas d'épuisement de la capacité d’accueil**
+
+<sup>1</sup> Si la capacité d’accueil de l’institution de formation du corps enseignant de l’association NMS Bern est épuisée, la procédure définie aux articles 30 à 31a s’applique. La fixation de restrictions d’admission est proposée par l’association NMS Bern.
+
+<sup>2</sup> Si le nombre de candidats et candidates aux études qui ont leur domicile légal en matière de subsides de formation dans le canton et qui remplissent les conditions d’admission dépasse le nombre maximum de places d’études fixé dans le contrat de prestations pour les étudiants et étudiantes qui ont leur domicile légal en matière de subsides de formation dans le canton, l’attribution des places d’études se fait par ordre d’arrivée des inscriptions.
+
+<sup>3</sup> Les candidats et candidates aux études visés à l’alinéa 2 qui remplissent les conditions d’admission mais qui n'ont pas obtenu de place d’études doivent, sur demande, être admis à la filière d’études correspondante de la Haute école pédagogique.
+
+#### Art. 67d
+
+**Admission à la Haute école pédagogique en cas de restrictions d’admission**
+
+<sup>1</sup> Si le Conseil-exécutif fixe des restrictions d’admission pour la filière d’études correspondante de la formation de base du corps enseignant du degré primaire à la Haute école pédagogique, tous les candidats et candidates aux études qui s’inscrivent à l’institution de formation du corps enseignant de l’association NMS Bern doivent se soumettre à la même procédure d’aptitude que ceux de la Haute école pédagogique.
+
+<sup>2</sup> L’attribution de l’ensemble des places d’études de la Haute école pédagogique et de l’institution de formation du corps enseignant de l’association NMS Bern dépend des résultats de la procédure d’aptitude à laquelle sont soumis tous les candidats et candidates aux études.
+
+<sup>3</sup> Dans le cadre de l’attribution des places d’études visée à l’alinéa 2, la Haute école pédagogique et l’institution de formation du corps enseignant de l’association NMS Bern sont tenues d’admettre, sur demande, les étudiants et étudiantes qui se sont inscrits à l’autre institution.
+
+<sup>4</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
+
+#### Art. 67e
+
+**Pouvoir de décision et compétence**
+
+<sup>1</sup> L’institution de formation du corps enseignant de l’association NMS Bern est habilitée à exercer des pouvoirs relevant de la puissance publique envers les étudiants et étudiantes.
+
+<sup>2</sup> Le règlement d’études régit les pouvoirs de décision, en particulier les compétences pour statuer sur
+
+- a l’admission aux filières d’études,
+- b la délivrance des titres de bachelor, de diplômes et d'attestations,
+- c les résultats d’examen,
+- d le prélèvement de taxes et
+- e les mesures disciplinaires.
+
+### 8.2 Financement et contrat de prestations
+
+#### Art. 68
+
+**Contribution**
+
+<sup>1</sup> Le canton verse à l’association NMS Bern une contribution pour l'organisation de ses filières d’études.
+
+<sup>2</sup> Cette contribution correspond à la contribution forfaitaire par étudiant et étudiante ayant son domicile légal en matière de subsides de formation dans le canton prévue pour les hautes écoles pédagogiques aux articles 8 à 10 AHES. Si le canton se trouve dans une situation financière difficile, ce montant peut être réduit dans le cadre du contrat de prestations.
+
+<sup>3</sup> Le Conseil-exécutif est seul compétent pour arrêter les dépenses.
+
+#### Art. 69–70
+
+**…**
+
+#### Art. 70a
+
+**Contrat de prestations**
+
+<sup>1</sup> Les prestations de l’institution de formation du corps enseignant de l’association NMS Bern sont définies dans un contrat de prestations pluriannuel.
+
+<sup>2</sup> Le contrat de prestations est conclu pour le canton par le Conseil-exécutif.
+
+<sup>3</sup> Il régit en particulier
+
+- a les objectifs poursuivis et les prestations à fournir,
+- b le montant et les modalités de la contribution cantonale ainsi que le nombre de places d’études attribuées aux étudiants et étudiantes ayant leur domicile légal en matière de subsides de formation dans le canton,
+- c les prescriptions de présentation des comptes,
+- d les conséquences d’un excédent de couverture résultant de la contribution octroyée,
+- e les conséquences d’une exécution imparfaite du contrat,
+- f la durée du contrat et les modalités de sa résiliation et de sa dissolution,
+- g les dispositions de détail concernant la présentation de rapports et le controlling,
+- h l’assurance et le développement de la qualité.
+
+### 8.3 Rapports et controlling
+
+#### Art. 71
+
+**Rapports**
+
+<sup>1</sup> L’association NMS Bern rend des comptes sur son institution de formation du corps enseignant en présentant à la Direction de l’instruction publique et de la culture
+
+- a un rapport de gestion annuel (priorités de l’exercice, comptes annuels, rapport de l’organe de révision),
+- b un rapport sur l’exécution du mandat de prestations au cours de l’année précédant la fin du contrat de prestations.
+
+<sup>2</sup> …
 
 #### Art. 72
 
-**Rectrice ou recteur**
+**Controlling**
 
-<sup>1</sup> Les attributions du recteur ou de la rectrice par rapport aux institutions affiliées de formation du corps enseignant sont réglées dans les accords sur les prestations.
+<sup>1</sup> La Direction de l’instruction publique et de la culture effectue le controlling.
+
+<sup>2</sup> Elle évalue les rapports visés à l’article 71 et porte les résultats de cette évaluation à la connaissance du Conseil-exécutif.
+
+<sup>3</sup> Elle présente un rapport à l’association NMS Bern sur les résultats de son évaluation et propose si nécessaire des mesures afin d’améliorer l’exécution du mandat. Les mesures relevant du droit de la surveillance sont réservées.
+
+### 8.4 Commission de recours
 
 #### Art. 73
 
-**Direction de l’école**
+**Généralités**
 
-<sup>1</sup> Chaque institution affiliée de formation du corps enseignant délègue une personne qui la représente à la direction de la Haute école pédagogique.
+<sup>1</sup> L’association NMS Bern institue une commission de recours.
 
-<sup>2</sup> Cette personne a le droit de vote pour toutes les affaires visées à l’article 40, alinéa 3.
+<sup>2</sup> La commission de recours est l’autorité de justice administrative interne de l’institution de formation du corps enseignant de l’association NMS Bern.
+
+<sup>3</sup> Elle n’est pas liée aux instructions des autres organes de l’association NMS Bern.
+
+<sup>4</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
+
+#### Art. 73a
+
+**Composition et désignation**
+
+<sup>1</sup> La commission de recours se compose de cinq personnes.
+
+<sup>2</sup> L’association NMS Bern désigne les membres ainsi que le président ou la présidente de la commission de recours.
+
+<sup>3</sup> La période de fonction est de deux ans et le mandat peut être renouvelé deux fois.
+
+<sup>4</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
+
+### 8.5 Voies de droit
+
+#### Art. 73b
+
+<sup>1</sup> Recours peut être formé auprès de la commission de recours de l’association NMS Bern contre les décisions relatives à la délivrance de titres de bachelor, de diplômes et d’attestations ainsi que contre les décisions relatives à des résultats d’examen.
+
+<sup>2</sup> Recours peut être formé auprès de la Direction de l’instruction publique et de la culture contre les autres décisions rendues par l’association NMS Bern dans l’accomplissement des tâches qui lui ont été déléguées en vertu de la présente loi.
+
+<sup>3</sup> Recours peut être formé auprès du Tribunal administratif contre les décisions sur recours rendues par la commission de recours.
+
+<sup>4</sup> Le grief d’inopportunité n’est pas recevable dans les recours formés contre des résultats d’examen.
+
+## 8a Intégrité scientifique
 
 #### Art. 74
 
-**Personnel**
+<sup>1</sup> Les membres de la Haute école pédagogique, les collaborateurs et collaboratrices et les étudiants et les étudiantes de l’institution de formation du corps enseignant de l’association NMS Bern ainsi que toute autre personne exerçant une activité scientifique dans ces deux institutions doivent respecter les règles relatives à l’intégrité scientifique et aux bonnes pratiques scientifiques.
 
-<sup>1</sup> Les exigences requises en matière de qualifications pour le personnel des institutions affiliées de formation du corps enseignant sont réglées dans les accords sur les prestations conclus entre les institutions et la Haute école pédagogique.
+<sup>2</sup> La Haute école pédagogique et l'institution de formation du corps enseignant de l'association NMS Bern précisent ces règles par voie de règlement.
 
-<sup>2</sup> Au surplus, le personnel des institutions affiliées de formation du corps enseignant n’est pas tenu aux prescriptions relatives aux collaborateurs et collaboratrices, contenues dans la présente loi et dans ses dispositions d’exécution.
+<sup>3</sup> Afin de garantir le respect des règles relatives à l’intégrité scientifique et aux bonnes pratiques scientifiques, elles peuvent fournir des renseignements, dans des cas particuliers, aux hautes écoles suisses ou étrangères ainsi qu'aux institutions de recherche ou d’encouragement de la recherche
+
+- a sur la violation ou les soupçons fondés de violation de ces règles par les personnes soumises aux principes d’intégrité scientifique à la Haute école pédagogique et à l’institution de formation du corps enseignant de l’association NMS Bern;
+- b sur les sanctions prononcées à l’encontre des personnes concernées.
+
+<sup>4</sup> Elles peuvent elles-mêmes demander aux institutions visées à l’alinéa 3 les mêmes renseignements sur les personnes soumises aux principes d’intégrité scientifique à la Haute école pédagogique, à l’institution de formation du corps enseignant de l’association NMS Bern ou dans d'autres institutions avec lesquelles elles ont entretenu, entretiennent ou entendent conclure des partenariats de recherche.
+
+<sup>5</sup> La compétence de donner ou de demander des renseignements se prescrit cinq ans après que la Haute école pédagogique ou l'institution de formation du corps enseignant de l'association NMS Bern a pris connaissance du soupçon de violation des règles. Ce délai est interrompu par chaque activité d'instruction qui est entreprise. Le délai de prescription absolue est de dix ans.
+
+## 8b Disposition pénale
+
+#### Art. 74a
+
+<sup>1</sup> Toute personne qui prétend, sans y être autorisée, être titulaire d’un titre, d'un diplôme ou d'une attestation au sens de l’article 3 sera punie d’une amende. Les dispositions pénales du droit fédéral et du droit intercantonal sont réservées.
+
+## 8c Autorités cantonales
+
+#### Art. 74b
+
+**Grand Conseil**
+
+<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur la Haute école pédagogique.
+
+<sup>2</sup> Il prend connaissance du rapport de gestion de la Haute école pédagogique et accomplit les autres tâches qui lui sont assignées par la présente loi.
+
+#### Art. 74c
+
+**Conseil-exécutif**
+
+<sup>1</sup> Le Conseil-exécutif
+
+- a statue sur la création, le regroupement et la suppression de filières d’études dans les formations de base ainsi que de cours préparatoires aux formations de base de la Haute école pédagogique;
+- b arrête la subvention cantonale annuelle accordée à la Haute école pédagogique;
+- c exerce la haute surveillance sur l’institution de formation du corps enseignant de l’association NMS Bern;
+- d prend connaissance du rapport de gestion de l’institution de formation du corps enseignant de l’association NMS Bern.
+
+<sup>2</sup> Il peut déléguer par voie d’ordonnance la compétence visée à l’alinéa 1, lettre b à la Direction de l’instruction publique et de la culture.
+
+<sup>3</sup> Il accomplit les autres tâches qui lui sont assignées par la législation sur la Haute école pédagogique.
+
+#### Art. 74d
+
+**Dispositions d'exécution applicables à la Haute école pédagogique**
+
+<sup>1</sup> Le Conseil-exécutif édicte les dispositions d’exécution applicables à la Haute école pédagogique.
+
+<sup>2</sup> Il édicte en particulier des dispositions concernant
+
+- a le plan de développement, le pilotage et le financement,
+- b les principes applicables à l’assurance et au développement de la qualité,
+- c la prévoyance professionnelle des collaborateurs et collaboratrices,
+- d l’indemnisation des membres du conseil de l’école.
+
+#### Art. 74e
+
+**Direction de l'instruction publique et de la culture**
+
+<sup>1</sup> La Direction de l’instruction publique et de la culture exerce la surveillance directe sur la Haute école pédagogique ainsi que sur l’institution de formation du corps enseignant de l’association NMS Bern.
+
+<sup>2</sup> La Haute école pédagogique et l’institution de formation du corps enseignant de l’association NMS Bern sont tenues, pour autant que ces mesures soient nécessaires à l’exercice de la surveillance,
+
+- a de fournir des renseignements à la Direction de l’instruction publique et de la culture, de lui donner accès aux dossiers ainsi qu’aux installations et
+- b de soutenir la Direction de l’instruction publique et de la culture dans tous les domaines.
+
+<sup>3</sup> La Direction de l’instruction publique et de la culture
+
+- a approuve les règlements d’études de la Haute école pédagogique et de l’institution de formation du corps enseignant de l’association NMS Bern;
+- b accomplit les autres tâches qui lui sont assignées par la législation sur la Haute école pédagogique.
+
+<sup>4</sup> Elle traite toutes les affaires qui ne sont du ressort ni de la Haute école pédagogique, ni de l’institution de formation du corps enseignant de l’association NMS Bern, ni d’une autre autorité cantonale ou fédérale.
 
 ## 9 Dispositions transitoires et dispositions finales
 
@@ -1049,6 +1263,56 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> Le Conseil-exécutif fixe la date d’entrée en vigueur de la présente loi.
+
+## T1 Dispositions transitoires de la modification du 08.03.2022
+
+#### Art. T1-1
+
+**Admissions à l’institution de formation du corps enseignant de l’association NMS Bern au semestre de printemps 2023**
+
+<sup>1</sup> Les admissions à l’institution de formation du corps enseignant de l’association NMS Bern au semestre de printemps 2023 sont régies par la présente modification.
+
+<sup>2</sup> L’élaboration et l’adoption des règlements d’études et des autres dispositions relatives aux admissions sont également régies par la présente modification.
+
+#### Art. T1-2
+
+**Personnes qui ont commencé leurs études à l’institution de formation du corps enseignant de l’association NMS Bern avant l’entrée en vigueur de la présente modification**
+
+<sup>1</sup> Les personnes qui ont commencé leurs études à l’institution de formation du corps enseignant de l’association NMS Bern avant l’entrée en vigueur de la présente modification achèvent celles-ci conformément au règlement d’études en vigueur lorsqu'elles ont commencé leurs études.
+
+<sup>2</sup> Le nouveau droit s’applique à partir du 1<sup>er</sup> février 2023 en ce qui concerne les compétences.
+
+#### Art. T1-3
+
+**Accréditation de l’institution de formation du corps enseignant de l’association NMS Bern**
+
+<sup>1</sup> La première accréditation institutionnelle doit être délivrée à l’institution de formation du corps enseignant de l’association NMS Bern au plus tard deux ans après l’entrée en vigueur de la présente modification.
+
+#### Art. T1-4
+
+**Mesures d’accomplissement des tâches par l’institution de formation du corps enseignant de l’association NMS Bern à partir du 1<sup>er</sup> février 2023**
+
+<sup>1</sup> Les coûts directs liés à la première procédure d’accréditation institutionnelle de l’institution de formation du corps enseignant de l’association NMS Bern définis à l’article 3, alinéa 1, lettre a de l’ordonnance fédérale du Conseil suisse d’accréditation du 23 mars 2018 sur les émoluments pour les procédures d’accréditation et les prestations fournies pour le compte de tiers (ordonnance sur les émoluments du CSA, OÉmol-CSA)[^T14-1] sont assumés par le canton.
+
+<sup>2</sup> Au surplus, le Conseil-exécutif et le service compétent de la Direction de l’instruction publique et de la culture prennent toutes les mesures nécessaires à l’accomplissement de la tâche assignée à l’institution de formation du corps enseignant de l’association NMS Bern à l’article 67, alinéa 1, à partir du 1<sup>er</sup> février 2023.
+
+[^T14-1]: RS [414.205.6](https://db.clex.ch/link/Bund/414.205.6/fr)
+
+#### Art. T1-5
+
+**Contrat de prestations entre l'association NMS Bern et le canton**
+
+<sup>1</sup> L’article 70a est applicable avec effet rétroactif au 1<sup>er</sup> juin 2022.
+
+<sup>2</sup> Le premier contrat de prestations selon l’article 70a vaut à partir du 1<sup>er</sup> février 2023.
+
+#### Art. T1-6
+
+**Mise en conformité des rapports de travail existants à la Haute école pédagogique**
+
+<sup>1</sup> Le Conseil-exécutif règle la mise en conformité des rapports de travail existants à la Haute école pédagogique avec le nouveau droit.
+
+<sup>2</sup> Il peut déléguer partiellement ou totalement cette compétence au conseil de l’école.
 
 Berne, le 8 septembre 2004
 
