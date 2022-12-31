@@ -4,20 +4,22 @@ number: "165.171"
 title: "Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen"
 short: "Spesenverordnung, SpesenV"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-04-07
+version: 2023-01-01
+valid_until: 2026-03-31
+version_adopted: 2022-11-23
 adopted: 2001-01-31
 in_force: 2001-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.171"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3063/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3590/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen
 
-Vom 31.01.2001 (Stand 01.01.2022)
+(Spesenverordnung, SpesenV)
+
+Vom 31.01.2001 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -35,10 +37,10 @@ beschliesst:
 
 <sup>1</sup> Verpflegungen werden nach folgenden Ansätzen vergütet:
 
-- a) Fr. 25.– für eine Hauptmahlzeit, sofern die Abreise vor 12.30 Uhr beziehungsweise 18.30 Uhr und die Rückkehr nach 13.30 Uhr beziehungsweise 19.30 Uhr erfolgt;
+- a) Fr. 25.– für eine Hauptmahlzeit,
 - b) Fr. 20.– für acht oder mehr Stunden Nachtdienst, sofern dieser ausserhalb des Arbeitsortes geleistet wird.
 
-<sup>2</sup> Mahlzeiten am Arbeitsort werden nur vergütet, wenn damit dienstliche Verpflichtungen verbunden sind.
+<sup>2</sup> Mahlzeiten werden nur vergütet, wenn damit dienstliche Verpflichtungen verbunden sind.
 
 #### § 2
 
@@ -64,9 +66,15 @@ beschliesst:
 
 **b) Dienstfahrten mit öffentlichen Verkehrsmitteln**
 
-<sup>1</sup> Für Dienstfahrten mit öffentlichen Verkehrsmitteln werden die Auslagen für das Billett 2. Klasse vergütet.
+<sup>1</sup> Für Dienstfahrten mit öffentlichen Verkehrsmitteln innerhalb des Kantons werden die Auslagen für das Billett 2. Klasse und für Dienstfahrten über die Kantonsgrenze hinaus die Auslagen für das Billett 1. Klasse vergütet.
+
+<sup>1<sup>bis</sup></sup> Es werden die Kosten für die tatsächlich benutzte Klasse erstattet.
 
 <sup>2</sup> Bahn- und Busspesen, die im Rechnungsjahr den doppelten Betrag der Kosten eines einjährigen Halbtaxabonnementes übersteigen, werden zur Hälfte vergütet.
+
+<sup>3</sup> Den Inhaberinnen und Inhabern von privaten Halbtax- und Generalabonnementen wird der gleiche Betrag ausgerichtet.
+
+<sup>4</sup> Ausnahmsweise kann die Anstellungsbehörde die Kosten eines General-, Strecken-, Jahres- oder anderen Abonnements übernehmen, wenn dies für den Kanton günstiger ist.
 
 #### § 6
 
@@ -88,13 +96,13 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Angehörigen des Polizeikorps, Vollzugsangestellten der Justizvollzugsanstalt Lenzburg und der Bezirksgefängnisse sowie Betreuungspersonen des Jugendheims Aarburg wird auf der Kilometerentschädigung gemäss Absatz 1 lit. a ein Zuschlag von 5 Rappen entschädigt. Für dienstlich bedingte Kurzstreckenfahrten werden minimal 10 km angerechnet.
+<sup>4</sup> …
 
 #### § 7
 
 **d) Bemessung der Reisespesen**
 
-<sup>1</sup> Für die Bemessung der Reisespesen ist in der Regel der Arbeitsort massgebend.
+<sup>1</sup> Für die Bemessung der Reisespesen ist grundsätzlich der dienstliche Reiseweg massgebend.
 
 <sup>2</sup> Nimmt die Dienstreise ihren Anfang am Wohnsitz oder führt sie dorthin zurück, tritt, sofern dieser näher am Reiseziel liegt, für die Bemessung der Wohnsitz an die Stelle des Arbeitsortes.
 
@@ -108,17 +116,17 @@ beschliesst:
 
 **Spesenpauschalen**
 
-<sup>1</sup> Die für besondere Gruppen festgelegten Spesenpauschalen sind in Anhang 2 dieser Verordnung enthalten.
+<sup>1</sup> Die für besondere Gruppen festgelegten Spesenpauschalen sind in Anhang II dieser Verordnung enthalten. Anstelle der Spesenpauschalen gemäss Anhang II Absatz 1 lit. a können die Berechtigten die tatsächlichen Kosten geltend machen. Diese sind zu belegen.
 
-<sup>2</sup> Im Einzelfall kann die Anstellungsbehörde im Rahmen der Anstellungsverträge Spesenpauschalen für Mitarbeitende mit häufigen Auslagen im Zusammenhang mit dienstlicher Tätigkeit festlegen. Spesenpauschalen über Fr. 2'000.– sind vorgängig vom Regierungsrat beziehungsweise vom Leitungsorgan der Gerichte zu genehmigen.
+<sup>2</sup> Im Einzelfall kann die Anstellungsbehörde im Rahmen der Anstellungsverträge Spesenpauschalen für Mitarbeitende mit häufigen Auslagen im Zusammenhang mit dienstlicher Tätigkeit festlegen. Spesenpauschalen über Fr. 4'000.– sind vorgängig vom Regierungsrat beziehungsweise von der Justizleitung zu genehmigen.
 
 #### § 10
 
 **Auslandreisen**
 
-<sup>1</sup> Auslandreisen benötigen die Zustimmung der Departementsleitung, der Justizleitung beziehungsweise der Staatsschreiberin oder des Staatsschreibers.
+<sup>1</sup> …
 
-<sup>2</sup> Ausgenommen von der Zustimmung gemäss Absatz 1 sind Dienstreisen im grenzüberschreitenden Verkehr bis 300 km ab Landesgrenze, solche von Untersuchungsbehörden im Zusammenhang mit Ermittlungshandlungen und solche von Rechtsprechungsorganen.
+<sup>2</sup> …
 
 ## 2. Übrige Entschädigungen
 
@@ -126,13 +134,24 @@ beschliesst:
 
 **Büroentschädigung**
 
-<sup>1</sup> Für selbstgestellte Büroräumlichkeiten wird eine Entschädigung von jährlich Fr. 2'400.– ausgerichtet. Die Entschädigung wird um die Hälfte gekürzt, wenn die Tätigkeit mehrheitlich mit Aussendienst verbunden ist.
+<sup>1</sup> Stellt der Arbeitgeber keinen Arbeitsplatz zur Verfügung, wird für selbstgestellte Büroräumlichkeiten eine Entschädigung von jährlich Fr. 2'400.– ausgerichtet. Die Entschädigung wird um die Hälfte gekürzt, wenn die Tätigkeit mehrheitlich mit Aussendienst verbunden ist.
+
+#### § 11a
+
+**Entschädigung Mobilkommunikation**
+
+<sup>1</sup> Die Entschädigung für den dienstlichen Einsatz privater Geräte für die Mobilkommunikation beträgt bei einem Vollpensum pro Jahr für Mitarbeitende, die ihr Gerät in der Regel
+
+- a) während der Arbeitszeit regelmässig für das Abrufen, Bearbeiten und Beantworten von geschäftlichen Daten, E-Mails, Terminen und Telefonanrufen benötigen und zeitnah erreichbar sein müssen Fr. 120.– für das Gerät und Fr. 129.60 an das Abonnement,
+- b) gelegentlich für geschäftliche Zwecke nutzen und dem Arbeitgeber ihre Mobilenummer bekannt geben Fr. 75.– an das Abonnement.
+
+<sup>2</sup> Die Leitungen der Departemente und der Staatskanzlei und die Justizleitung legen die Zuteilung der Mitarbeitenden gemäss Absatz 1 lit. a und b fest.
 
 #### § 12
 
 **Kleiderentschädigung**
 
-<sup>1</sup> Entschädigungen für vorgeschriebene Kleider und Schutzausrüstungen bemessen sich nach den Richtlinien der jeweiligen Branche.
+<sup>1</sup> Entschädigungen für vorgeschriebene Kleider für ein einheitliches Erscheinungsbild und Schutzausrüstungen bemessen sich nach den Richtlinien der jeweiligen Branche.
 
 <sup>2</sup> Polizistinnen und Polizisten, die ihren Dienst in Zivil ausüben, erhalten eine jährliche Kleiderentschädigung von Fr. 220.–.
 
@@ -140,13 +159,18 @@ beschliesst:
 
 **Maschinen und Geräte Staatswald**
 
-<sup>1</sup> Für Maschinen, Geräte und Werkzeuge, die für die Bewirtschaftung des Staatswaldes eingesetzt und von den Mitarbeitenden gestellt werden, bemessen sich die Entschädigungen nach den Richtlinien des Schweizerischen Waldwirtschaftsverbandes bzw. des Verbandes Schweizerischer Forstunternehmungen.
+<sup>1</sup> …
 
 #### § 14
 
 **Diensthunde**
 
-<sup>1</sup> Die Entschädigung für Diensthunde beträgt pauschal Fr. 3'500.– beziehungsweise für Junghunde in Ausbildung pauschal Fr. 2'500.– pro Jahr.
+<sup>1</sup> Die jährliche Entschädigung für Diensthunde beträgt pauschal
+
+- a) für einen Junghund — Fr. 3'000.–
+- b) für einen Schutzhund ab bestandener Junghundeprüfung — Fr. 3'500.–
+- c) für einsatzfähige Spür- oder Schutzhunde — Fr. 4'000.–
+- d) für einsatzfähige Spür- und Schutzhunde (Kombihunde) — Fr. 4'500.–
 
 #### § 15
 
