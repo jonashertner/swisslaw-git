@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 juin 2004 sur le partenariat enregistré entre pers
 short: LPart
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-782-20220701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-782-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/fr"
 
 (Loi sur le partenariat, LPart)
 
-du 18 juin 2004 (Etat le 1<sup>er</sup> juillet 2022)
+du 18 juin 2004 (Etat le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
-## Chapitre 1**** Objet
+## Chapitre 1 Objet
 
 [^chap1-1]
 
@@ -256,7 +256,7 @@ Lorsqu’un bien est en copropriété, un partenaire peut, à la dissolution du 
 
 <sup>1</sup> Les partenaires peuvent convenir d’une réglementation spéciale sur les biens pour le cas de la dissolution du partenariat enregistré. Ils peuvent notamment convenir que les biens seront partagés conformément aux art. 196 à 219 CC[^25-1].[^25-2]
 
-<sup>2</sup> La convention ne peut porter atteinte à la réserve des descendants de l’un ou l’autre des partenaires.
+<sup>2</sup> ...[^25-3]
 
 <sup>3</sup> Elle est reçue en la forme authentique et elle est signée par les partenaires et, le cas échéant, par le représentant légal.
 
@@ -264,6 +264,7 @@ Lorsqu’un bien est en copropriété, un partenaire peut, à la dissolution du 
 
 [^25-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^25-2]: Nouvelle teneur de la phrase selon le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1er janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^25-3]: Abrogé par l’annexe ch. 1 de la LF du 18 déc. 2020 (Droit des successions), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### Section 3 Effets particuliers
 
@@ -336,7 +337,14 @@ Le partenaire qui a changé de nom lors de l’enregistrement du partenariat con
 
 <sup>1</sup> Les partenaires cessent d’être les héritiers légaux l’un de l’autre au moment de la dissolution du partenariat enregistré.
 
-<sup>2</sup> Ils perdent tous les avantages résultant de dispositions pour cause de mort faites avant l’ouverture de la procédure en dissolution.
+<sup>2</sup>
+
+Sauf clause contraire, les partenaires perdent tous les avantages résultant de dispositions pour cause de mort:
+
+- 1\. au moment de la dissolution du partenariat;
+- 2\. au moment du décès si une procédure de dissolution entraînant la perte de la réserve du partenaire survivant est pendante.[^31-1]
+
+[^31-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 #### Art. 32
 
@@ -369,7 +377,7 @@ Les prestations de sortie de la prévoyance professionnelle acquises pendant la 
 [^34-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^34-3]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
-## Chapitre 4*a* Conversion du partenariat enregistré en mariage****
+## Chapitre 4*a* Conversion du partenariat enregistré en mariage
 
 [^chap4a-1]
 

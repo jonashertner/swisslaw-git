@@ -4,11 +4,11 @@ title: "Legge federale del 18 giugno 2004 sull'unione domestica registrata di co
 short: LUD
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2005-782-20220701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-782-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/it"
 
 (Legge sull’unione domestica registrata, LUD)
 
-del 18 giugno 2004 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
+del 18 giugno 2004 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,7 +28,7 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
-## Capitolo 1:**** Oggetto
+## Capitolo 1: Oggetto
 
 [^chap1-1]
 
@@ -56,11 +56,9 @@ La presente legge disciplina gli effetti e lo scioglimento nonché la conversion
 
 ### Sezione 2: ...
 
-#### Art. 5 a 8
+**Art. 5** a **8**[^chap2-sec2-1]
 
-[^58-1]
-
-[^58-1]: Abrogati dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^chap2-sec2-1]: Abrogati dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Sezione 3: Annullamento
 
@@ -83,7 +81,7 @@ Qualsiasi interessato può in ogni tempo domandare al giudice l’annullamento d
 
 [^9-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 [^9-2]: Introdotta dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^9-3]: Introdotta dal n. II 5 dell’all. alla LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^9-3]: Introdotta dall’all. n. II 5 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^9-4]: Introdotta dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^9-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^9-6]: Introdotta dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
@@ -138,7 +136,7 @@ I partner si devono assistenza e rispetto reciproci.
 <sup>3</sup> Se un partner non adempie il proprio obbligo di mantenimento, il giudice può ordinare ai suoi debitori che facciano i loro pagamenti, in tutto o in parte, all’altro.
 
 [^13-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^13-2]: Per. introdotto dal n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^13-2]: Per. introdotto dall’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 14
 
@@ -195,7 +193,7 @@ Ad istanza di parte, il giudice:
 <sup>4</sup> In caso di modifica delle circostanze, il giudice, ad istanza di parte, adatta o revoca le misure prese.
 
 [^17-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^17-2]: Introdotto dal n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^17-2]: Introdotto dall’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### Sezione 2: Rapporti patrimoniali
 
@@ -257,14 +255,15 @@ Se un bene è in comproprietà dei partner, il partner che provi d’avere un in
 
 <sup>1</sup> I partner possono concordare mediante convenzione patrimoniale una regolamentazione speciale per il caso in cui l’unione domestica registrata sia sciolta. Possono segnatamente convenire che i beni siano divisi conformemente agli articoli 196–219 CC[^25-1].[^25-2]
 
-<sup>2</sup> Tali convenzioni non devono pregiudicare la porzione legittima dei discendenti di un partner.
+<sup>2</sup> ...[^25-3]
 
 <sup>3</sup> La convenzione patrimoniale è stipulata per atto pubblico firmato dai contraenti e, se del caso, dal rappresentante legale.
 
 <sup>4</sup> Gli articoli 185 e 193 CC si applicano per analogia.
 
 [^25-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^25-2]: Nuovo testo del per. giusta il n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^25-2]: Nuovo testo del per. giusta l’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^25-3]: Abrogato dall’all. n. 1 della LF del 18 dic. 2020 (Diritto successorio), con effetto dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### Sezione 3: Effetti particolari
 
@@ -290,7 +289,7 @@ Se un bene è in comproprietà dei partner, il partner che provi d’avere un in
 
 Se una persona ha adottato il figlio minorenne del partner, si applicano per analogia gli articoli 270–327*c* CC[^27a-2].
 
-[^27a-1]: Introdotto dal n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^27a-1]: Introdotto dall’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^27a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 28
@@ -299,7 +298,7 @@ Se una persona ha adottato il figlio minorenne del partner, si applicano per ana
 
 Chi è vincolato da un’unione domestica registrata non può adottare congiuntamente né valersi di tecniche di procreazione medicalmente assistita.
 
-[^28-1]: Nuovo testo giusta il n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^28-1]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ## Capitolo 4: Scioglimento giudiziale dell’unione domestica registrata
 
@@ -337,7 +336,14 @@ Il partner che ha cambiato cognome in occasione della registrazione dell’union
 
 <sup>1</sup> Dallo scioglimento dell’unione domestica registrata i partner cessano di essere eredi legittimi l’uno dell’altro.
 
-<sup>2</sup> Non possono avanzare pretese per disposizioni a causa di morte fatte prima della litispendenza della procedura di scioglimento.
+<sup>2</sup>
+
+Salvo clausola contraria, i partner non possono avanzare pretese per disposizioni a causa di morte:
+
+- 1\. dopo lo scioglimento giudiziale dell’unione domestica registrata;
+- 2\. dopo il decesso di uno di essi durante un procedimento di scioglimento dell’unione domestica registrata che implica la perdita della porzione legittima del partner superstite.[^31-1]
+
+[^31-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 dic. 2020 (Diritto successorio), in vigore 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 #### Art. 32
 
@@ -368,9 +374,9 @@ Le prestazioni di uscita della previdenza professionale acquisite durante l’un
 <sup>4</sup> Per il rimanente si applicano per analogia gli articoli 125 capoversi 2 e 3 nonché 126–134 CC[^34-2].[^34-3]
 
 [^34-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^34-3]: Nuovo testo giusta il n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^34-3]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
-## Capitolo 4*a*: Conversione dell’unione domestica registrata in matrimonio****
+## Capitolo 4*a*: Conversione dell’unione domestica registrata in matrimonio
 
 [^chap4a-1]
 

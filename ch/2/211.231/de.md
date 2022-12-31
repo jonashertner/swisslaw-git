@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft glei
 short: PartG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2005-782-20220701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-782-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/de"
 
 (Partnerschaftsgesetz, PartG)
 
-vom 18. Juni 2004 (Stand am 1. Juli 2022)
+vom 18. Juni 2004 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -28,7 +28,7 @@ beschliesst:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
-## 1. Kapitel:**** Gegenstand
+## 1. Kapitel: Gegenstand
 
 [^chap1-1]
 
@@ -256,7 +256,7 @@ Steht ein Vermögenswert im Miteigentum der beiden Partnerinnen oder Partner und
 
 <sup>1</sup> Die beiden Partnerinnen oder Partner können in einem Vermögensvertrag eine besondere Regelung vereinbaren für den Fall, dass die eingetragene Partnerschaft aufgelöst wird. Namentlich können sie vereinbaren, dass das Vermögen nach den Artikeln 196–219 ZGB[^25-1] geteilt wird.[^25-2]
 
-<sup>2</sup> Solche Vereinbarungen dürfen die Pflichtteile der Nachkommen einer Partnerin oder eines Partners nicht beeinträchtigen.
+<sup>2</sup> …[^25-3]
 
 <sup>3</sup> Der Vermögensvertrag muss öffentlich beurkundet und von den vertragsschliessenden Personen sowie gegebenenfalls vom gesetzlichen Vertreter unterzeichnet werden.
 
@@ -264,6 +264,7 @@ Steht ein Vermögenswert im Miteigentum der beiden Partnerinnen oder Partner und
 
 [^25-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^25-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 1 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^25-3]: Aufgehoben durch Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Erbrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 3. Abschnitt: Besondere Wirkungen
 
@@ -336,7 +337,14 @@ Die Person, die ihren Namen bei der Eintragung der Partnerschaft geändert hat, 
 
 <sup>1</sup> Mit der Auflösung der eingetragenen Partnerschaft entfällt das gesetzliche Erbrecht zwischen den Partnerinnen oder Partnern.
 
-<sup>2</sup> Aus Verfügungen von Todes wegen, die vor Rechtshängigkeit des Auflösungsverfahrens errichtet worden sind, können keine Ansprüche erhoben werden.
+<sup>2</sup>
+
+Unter Vorbehalt einer abweichenden Anordnung kann die Partnerin oder der Partner keine Ansprüche aus Verfügungen von Todes wegen erheben:
+
+- 1\. nach der gerichtlichen Auflösung der Partnerschaft;
+- 2\. nach dem Tod der Erblasserin oder des Erblassers während eines Auflösungsverfahrens, das den Verlust des Pflichtteilsanspruchs der überlebenden Partnerin oder des überlebenden Partners bewirkt.[^31-1]
+
+[^31-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 #### Art. 32
 
@@ -369,7 +377,7 @@ Die während der Dauer der eingetragenen Partnerschaft erworbenen Austrittsleist
 [^34-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^34-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
-## 4*a*. Kapitel: Umwandlung der eingetragenen Partnerschaft in eine Ehe****
+## 4*a*. Kapitel: Umwandlung der eingetragenen Partnerschaft in eine Ehe
 
 [^chap4a-1]
 
@@ -415,7 +423,7 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 **Koordination mit Änderungen anderer Erlasse**
 
-### …**
+### …
 
 [^37-subdiv-1]
 

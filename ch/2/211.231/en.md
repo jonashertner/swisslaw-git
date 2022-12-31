@@ -4,11 +4,11 @@ title: "Federal Act of 18 June 2004 on the Registered Partnership between Same-S
 short: SSPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: en
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2005-782-20220701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2005-782-20230101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Same-Sex Partnership Act, SSPA)
 
-of 18 June 2004 (Status as of 1 July 2022)
+of 18 June 2004 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -30,7 +30,7 @@ decrees:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
-## Chapter 1**** Subject Matter
+## Chapter 1 Subject Matter
 
 [^chap1-1]
 
@@ -58,7 +58,7 @@ This Act regulates the effects, dissolution and conversion into marriage of regi
 
 [^34-1]: Repealed by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), with effect from 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-### Section 2 …
+### Section 2 ...
 
 #### Art. 5–8
 
@@ -260,7 +260,7 @@ Where one partner proves an overriding interest in an asset in co-ownership, not
 
 <sup>1</sup> The two partners may enter into an agreement on specific arrangements for the event that the registered partnership is dissolved. In particular, they may agree that the assets be divided in accordance with Articles 196–219 of the Swiss Civil Code[^25-1].[^25-2]
 
-<sup>2</sup> Such agreements may not affect the statutory entitlements of the issue of a deceased partner.
+<sup>2</sup> …[^25-3]
 
 <sup>3</sup> The property agreement must be drawn up and certified in due legal form, and signed by the parties and, where applicable, by the legal representative.
 
@@ -268,6 +268,7 @@ Where one partner proves an overriding interest in an asset in co-ownership, not
 
 [^25-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^25-2]: Second sentence amended by Annex No 1 of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^25-3]: Repealed by Annex No 1 of the FA of 18 Dec. 2020 (Succession Law), with effect from 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### Section 3 Specific effects
 
@@ -340,7 +341,14 @@ The person who has changed their surname on the registration of the partnership 
 
 <sup>1</sup> Once the registered partnership is dissolved, the partners’ statutory right to inherit from each other no longer applies.
 
-<sup>2</sup> No rights may be claimed based on testamentary dispositions executed before the dissolution proceedings were brought.
+<sup>2</sup>
+
+Unless there is an instruction to the contrary, partners may not raise any claims based on testamentary dispositions:
+
+- 1\. following the legal dissolution of the partnership;
+- 2\. following the death of a partner if dissolution proceedings that result in the surviving partner losing his or her right to claim the statutory entitlement are ongoing at the time.[^31-1]
+
+[^31-1]: Amended by Annex No 1 of the FA of 18 Dec. 2020 (Succession Law), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 #### Art. 32
 
@@ -373,7 +381,7 @@ The withdrawal benefits acquired under the occupational pension scheme throughou
 [^34-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^34-3]: Amended by Annex No 1 of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
-## Chapter 4*a* Conversion of a Registered Partnership into a Marriage****
+## Chapter 4*a* Conversion of a Registered Partnership into a Marriage
 
 [^chap4a-1]
 
@@ -419,7 +427,7 @@ The amendment of current legislation is regulated in the Annex.
 
 **Coordination with amendments to other legislation**
 
-### ...**
+### ...
 
 [^37-subdiv-1]
 
