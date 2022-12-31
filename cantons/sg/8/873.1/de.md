@@ -4,13 +4,12 @@ number: "873.1"
 title: Gesetz über die Gebäudeversicherung
 short: GVG
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-01-28
+version: 2023-01-01
+version_adopted: 2023-01-24
 adopted: 1960-12-26
 in_force: 1961-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/873.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3023/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3023/pdf_file"
 
 (GVG)
 
-vom 26.12.1960 (Stand 01.01.2021)
+vom 26.12.1960 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -61,13 +60,11 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Gebäudeversicherung beschafft sich die erforderlichen Mittel durch die Prämien der Versicherten.
 
-<sup>2</sup> Die Mittel der Gebäudeversicherung dürfen nur zur Erfüllung ihres Zweckes verwendet werden. Vorbehalten bleiben die Vorschriften über die Kantonshilfskasse für nichtversicherbare Elementarschäden.[^2-1]
+<sup>2</sup> Die Mittel der Gebäudeversicherung dürfen nur zur Erfüllung ihres Zweckes verwendet werden.
 
 <sup>3</sup> Für die Verbindlichkeiten der Gebäudeversicherung haftet ausschliesslich ihr eigenes Vermögen.
 
 <sup>4</sup> …
-
-[^2-1]: G über die Kantonshilfskasse für nichtversicherbare Elementarschäden, sGS [383.1](https://www.gesetzessammlung.sg.ch/data/383.1/de); VV dazu, sGS [383.11](https://www.gesetzessammlung.sg.ch/data/383.11/de).
 
 #### Art. 2bis
 
@@ -105,7 +102,7 @@ als Gesetz:[^ingress-3]
 - a) die Vorsteherin oder der Vorsteher des zuständigen Departementes als Präsidentin oder Präsident;
 - b) wenigstens vier weitere, nach fachlichen Kriterien gewählte Mitglieder. Mitglieder anderer Organe der Gebäudeversicherung sind nicht wählbar.
 
-<sup>2</sup> Die Amtsdauer beträgt höchstens vier Jahre. Sie endet spätestens mit der Vollendung des 70. Al<sup>ter</sup>sjahres. Im Übrigen konstituiert sich der Verwaltungsrat selbst.
+<sup>2</sup> Die Amtsdauer beträgt höchstens vier Jahre. Sie endet spätestens mit der Vollendung des 70. Altersjahres. Im Übrigen konstituiert sich der Verwaltungsrat selbst.
 
 #### Art. 5bis
 
