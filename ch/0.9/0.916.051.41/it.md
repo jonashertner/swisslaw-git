@@ -3,11 +3,11 @@ sr: "0.916.051.41"
 title: Accordo del 28 settembre 2020 tra la Svizzera e il Liechtenstein relativo al disciplinamento della partecipazione del Liechtenstein alle misure di sostegno del mercato e dei prezzi della politica agricola svizzera (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/874"
 language: it
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2020-09-28
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2020-874-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2020-874-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,9 @@ RU **2020** 4907
 
 *Traduzione*
 
-Concluso il 28 settembre 2020
+Concluso il 28 settembre 2020 Entrato retroattivamente in vigore il 1° gennaio 2020
 
-Entrato retroattivamente in vigore il 1° gennaio 2020
-
-(Stato 1° gennaio 2020)
+(Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero e il Governo del Principato del Liechtenstein,
 
@@ -233,34 +231,43 @@ Fatto a Berna, il 28 settembre 2020, in due esemplari originali in lingua tedesc
 
 [^22-1]: [[RU 2004 905](https://fedlex.data.admin.ch/eli/oc/2004/103)[903](https://fedlex.data.admin.ch/eli/oc/2004/102), [2011 6541](https://fedlex.data.admin.ch/eli/oc/2011/909), [2019 1041](https://fedlex.data.admin.ch/eli/oc/2019/191)]
 
-Allegato 1
+Appendice[^t-1]
+
+Atti normativi federali che costituiscono la base giuridica per includere i produttori, i trasformatori e i commercianti liechtensteinensi nelle misure della politica agricola svizzera. [^t-2]
+
+[^t-1]: Aggiornata dalla dec. delle autorità competenti del 27 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)).
+[^t-2]: Il contenuto della presente appendice non è pubblicato nella RU. Può essere consultata sul sito Internet www.gesetz.li: LR-Nr. 0.631.112.3.
+
+Allegato 1[^t-3]
 
 Il presente allegato elenca le misure attuate dalla Svizzera alle quali il Liechtenstein partecipa o parteciperà finanziariamente nonché le misure attuate e finanziate dal Liechtenstein stesso.
 
 ## 1. Misure che attua la Svizzera
+
+[^t-3]: Nuovo testo giusta la mod. del 31 ott. 2023, in vigore dal 1° gen. 2023 ([RU 2023 639](https://fedlex.data.admin.ch/eli/oc/2023/639)).
 
 Tabella 1: Spese, partecipazione secondo il calcolo effettivo
 
 Per le spese elencate nella tabella seguente, la partecipazione finanziaria del Liechtenstein è calcolata secondo l’articolo 11. Ogni anno l’Ufficio federale dell’agricoltura comunica gli importi.
 
 <table>
-<tr><th>Voce di bilancio</th><th>Misura</th></tr>
+<tr><th>Voce di bilancio (C = Conto; MI = mandato interno; CC = centro di costo)</th><th>Misura</th></tr>
 <tr><td>Allevamento del bestiame</td><td></td></tr>
 <tr><td>Allevamento del bestiame; misure</td><td></td></tr>
-<tr><td>3632002000</td><td>Libro genealogico (tutte le razze riconosciute)</td></tr>
-<tr><td>3632002020</td><td>Esami funzionali</td></tr>
-<tr><td>3632002300</td><td>Conservazione delle razze svizzere</td></tr>
+<tr><td>C 3643080840</td><td>Libro genealogico (tutte le razze riconosciute)</td></tr>
+<tr><td>C 3643080841</td><td>Esami funzionali</td></tr>
+<tr><td>C 3643080842</td><td>Conservazione delle razze svizzere</td></tr>
 <tr><td>Economia lattiera</td><td></td></tr>
 <tr><td>Amministrazione latte; misure</td><td></td></tr>
-<tr><td>3119509410</td><td>Amministrazione Aiuti per il latte</td></tr>
+<tr><td>C 3119501000; MI 6200053</td><td>Amministrazione Sostegno del prezzo del latte</td></tr>
 <tr><td>Sostegno del prezzo del latte; misure</td><td></td></tr>
-<tr><td>3632003100</td><td>Supplemento per il latte trasformato in formaggio</td></tr>
-<tr><td>3632003200</td><td>Supplemento per il foraggiamento senza insilati</td></tr>
+<tr><td>C 3643080890; MI 6200400 fino MI 6200406</td><td>Supplemento per il latte trasformato in formaggio</td></tr>
+<tr><td>C 3643080890; MI 6200407</td><td>Supplemento per il foraggiamento senza insilati</td></tr>
 <tr><td>Produzione animale</td><td></td></tr>
 <tr><td>Aiuti per la produzione animale</td><td></td></tr>
 <tr><td>Produzione animale; misure</td><td></td></tr>
-<tr><td>3632004100</td><td>Aiuti all’interno del Paese per il bestiame da macello e la carne</td></tr>
-<tr><td>3632004100</td><td>Aiuti per le uova indigene</td></tr>
+<tr><td>C 3643080803; MI 6200056</td><td>Aiuti all’interno del Paese per il bestiame da macello e la carne</td></tr>
+<tr><td>C 3643080803; MI 6200272</td><td>Aiuti per le uova indigene</td></tr>
 </table>
 
 Tabella 2: Spese, partecipazione secondo il calcolo forfettario
@@ -268,31 +275,27 @@ Tabella 2: Spese, partecipazione secondo il calcolo forfettario
 Per le spese elencate nella tabella seguente, la partecipazione finanziaria del Liechtenstein è calcolata secondo l’articolo 12.
 
 <table>
-<tr><td>Voce di bilancio</td><td>Misura</td><td>Tasso di partecipazione in percentuale</td></tr>
+<tr><th>Voce di bilancio</th><th>Misura</th><th>Tasso di partecipazione in percentuale</th></tr>
 <tr><td>Produzione animale</td><td></td><td></td></tr>
 <tr><td>Organizzazione privata; misure</td><td></td><td></td></tr>
-<tr><td>3119509600</td><td>Classificazione neutrale della qualità; determinazione del peso di macellazione / CP Proviande</td><td>100</td></tr>
+<tr><td>C 3119501000; MI 6200055</td><td>Compiti esecutivi in relazione all’ordinanza sul bestiame da macello OBM</td><td>100</td></tr>
 <tr><td>Consulenza</td><td></td><td></td></tr>
 <tr><td>Consulenza; misure</td><td></td><td></td></tr>
-<tr><td>3632001100</td><td>Consulenza</td><td>25</td></tr>
+<tr><td>C 3633180810 C 3643080810</td><td>Consulenza</td><td>25</td></tr>
 <tr><td>Protezione dei vegetali</td><td></td><td></td></tr>
-<tr><td>Protezione dei vegetali; prestazioni di terzi</td><td></td><td></td></tr>
-<tr><td>3610001000</td><td>Indennità a organizzazioni private per controlli e certificazioni</td><td>100</td></tr>
-<tr><td>Protezione dei vegetali; infrastruttura</td><td></td><td></td></tr>
-<tr><td>3112009010</td><td>Manutenzione dell’infrastruttura Protezione dei vegetali</td><td>100</td></tr>
-<tr><td>Protezione dei vegetali; esercizio</td><td></td><td></td></tr>
-<tr><td>3112009020</td><td>Spese d’esercizio Protezione dei vegetali</td><td>100</td></tr>
-<tr><td>Protezione dei vegetali; altre spese; percentuale</td><td></td><td></td></tr>
-<tr><td>– Vari conti</td><td>Percentuale</td><td>10</td></tr>
 <tr><td>Protezione dei vegetali; misure di lotta</td><td></td><td></td></tr>
-<tr><td>3632001300</td><td>Misure di lotta</td><td>25</td></tr>
+<tr><td>C 3632080860 C 3643080860; escl. MI 6200291 e 6200295</td><td>Misure di lotta</td><td>25</td></tr>
+<tr><td>Protezione dei vegetali; prestazioni di terzi</td><td></td><td></td></tr>
+<tr><td>C 3643080860; MI 6200291</td><td>Controlli sulla salute dei vegetali e certificazioni</td><td>100</td></tr>
+<tr><td>Protezione dei vegetali; uscite per beni e servizi e uscite d’esercizio Servizio fitosanitario federale</td><td></td><td></td></tr>
+<tr><td>Diversi C; MI 6200415 C 3119600010 – 3119600050; CC 3115</td><td>Uscite per beni e servizi e uscite d’esercizio Servizio fitosanitario federale</td><td>100</td></tr>
 <tr><td>Promozione dello smercio</td><td></td><td></td></tr>
 <tr><td>Promozione dello smercio; misure</td><td></td><td></td></tr>
-<tr><td>3632003000</td><td>Promozione della qualità e dello smercio</td><td>25</td></tr>
+<tr><td>C 3633180850 C 3643080850</td><td>Promozione della qualità e dello smercio</td><td>25</td></tr>
 <tr><td>Valorizzazione della frutta</td><td></td><td></td></tr>
 <tr><td>Valorizzazione della frutta; misure</td><td></td><td></td></tr>
-<tr><td>3632005510</td><td>Assicurazione della qualità</td><td>6</td></tr>
-<tr><td>3632005530</td><td>Valorizzazione della frutta</td><td>6</td></tr>
+<tr><td>C 3643080870; MI 6200073</td><td>Servizio Assicurazione della qualità</td><td>6</td></tr>
+<tr><td>C 3643080870; MI 6200076, 6200078, 6200079, 6200150, 6200170, 6200230; 6200284 fino 6200288</td><td>Valorizzazione della frutta</td><td>6</td></tr>
 </table>
 
 Tabella 3: Proventi, partecipazione secondo il calcolo effettivo
@@ -321,7 +324,7 @@ Le misure elencate nella tabella seguente sono attuate e finanziate integralment
 
 <table>
 <tr><th>Voce di bilancio liechtensteinense</th><th>Misura</th></tr>
-<tr><td>Supplementi vincolati a un prodotto**[^annex1-lvl2-1]**</td><td></td></tr>
+<tr><td>Supplementi vincolati a un prodotto[^annex1-lvl2-1]</td><td></td></tr>
 <tr><td>Supplemento per il latte commerciale</td><td></td></tr>
 <tr><td>805.366.00.01</td><td>Supplemento per il latte commerciale</td></tr>
 <tr><td>Supplemento per i cereali</td><td></td></tr>
@@ -332,9 +335,7 @@ Le misure elencate nella tabella seguente sono attuate e finanziate integralment
 
 ## 3. Somma forfettaria per le spese amministrative
 
-La somma forfettaria annuale che il Liechtenstein è tenuto a versare in relazione all’esecuzione del presente Accordo ammonta a CHF 40 000 a partire dall’anno civile 2020.
-
-La prossima verifica della somma forfettaria da parte delle competenti autorità svizzere e del Liechtenstein avrà luogo nell’anno civile 2022.
+La somma forfettaria annuale che il Liechtenstein è tenuto a versare in relazione all’esecuzione del presente Accordo ai sensi dell’articolo 13 paragrafo 1 è stata fissata, in virtù dell’articolo 13 paragrafo 2, a CHF 40 000 a partire dall’anno civile 2022.
 
 Allegato 2
 
