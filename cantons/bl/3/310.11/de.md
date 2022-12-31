@@ -4,13 +4,13 @@ number: "310.11"
 title: Finanzhaushaltsverordnung
 short: Vo FHG
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-28
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-13
 adopted: 2017-11-14
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/310.11"
-pdf: "https://bl.clex.ch/api/de/versions/3357/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3662/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3357/pdf_file"
 
 (Vo FHG)
 
-Vom 14.11.2017 (Stand 01.07.2022)
+Vom 14.11.2017 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -746,10 +746,10 @@ beschliesst:
 
 <sup>2</sup> Aktiviert werden:
 
-- a. Sachanlagen, die in rechtlichem oder wirtschaftlichem Eigentum des Kantons stehen, wenn ihr Wert CHF 300‘000.– übersteigt;
-- b. Investitionen, die durch Finanzierungsleasing finanziert werden, wenn ihr Wert CHF 300'000.– übersteigt.
+- a. Sachanlagen und deren Teile, die in rechtlichem oder wirtschaftlichem Eigentum des Kantons stehen, wenn ihr Gesamtwert CHF 300‘000.– übersteigt;
+- b. Investitionen und deren Teile, die durch Finanzierungsleasing finanziert werden, wenn ihr Gesamtwert CHF 300'000.– übersteigt.
 
-<sup>3</sup> Nicht aktiviert werden Mobilien, Fahrzeuge, Maschinen, Informatikhardware und -software sowie immaterielle Anlagen, auch wenn sie durch Finanzierungsleasing angeschafft worden sind.
+<sup>3</sup> Nicht aktiviert werden Mobilien, Fahrzeuge, Maschinen, Informatikhardware und -software sowie immaterielle Anlagen, auch wenn sie durch Finanzierungsleasing angeschafft worden sind. Die Finanz- und Kirchendirektion legt die Ausnahmen im Handbuch Finanz- und Rechnungswesen fest.
 
 #### § 58
 
