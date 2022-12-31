@@ -4,7 +4,7 @@ number: "173.21"
 title: LOI du 19.05.2009 sur le Ministère public (LMPu)
 short: LMPu
 language: fr
-version: 2011-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.21?id=59558d17-e7c0-4013-ada9-cbbc5a28b5f5"
 ---
 
@@ -40,9 +40,9 @@ décrète
 
 <sup>2</sup> Il est compétent pour poursuivre les contraventions et les délits de droit cantonal.
 
-<sup>3</sup> En matière civile, il exerce les compétences que lui attribuent les lois spéciales.
+<sup>3</sup> ...
 
-[^1-1]: Modif. 2 du 31.05.2022: Abrogation Al. 3; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^1-1]: Modif. 2 du 31.05.2022: Abrogation Al. 3; entrée en vigueur au 01.01.2023
 [^2-1]: Code de procédure civile suisse du 19.12.2008 (RS 272)
 
 ## Chapitre II Organisation
@@ -51,11 +51,11 @@ décrète
 
 **Siège [^chapterChapitreII-1]**
 
-<sup>1</sup> Le Ministère public est composé du Ministère public central et de quatre ministères publics d'arrondissement, dont les sièges sont fixés par le Conseil d'Etat, sur proposition du procureur général.
+<sup>1</sup> Le Ministère public est composé du Ministère public central et de quatre Ministères publics d'arrondissement, dont les limites correspondent à celles des arrondissements judiciaires.
 
-<sup>2</sup> Sur proposition du procureur général, le Conseil d'Etat délimite les arrondissements.
+<sup>2</sup> Sur proposition du Collège des procureurs, le Conseil d'Etat fixe leur siège.
 
-[^chapterChapitreII-1]: Modif. 2 du 31.05.2022: Modification Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^chapterChapitreII-1]: Modif. 2 du 31.05.2022: Modification Al. 1-2; entrée en vigueur au 01.01.2023
 
 #### Art. 4
 
@@ -64,15 +64,18 @@ décrète
 <sup>1</sup> Les magistrats du Ministère public sont :
 
 - a. le procureur général ;
-- b. le ou les procureurs généraux adjoints ;
-- c. les premiers procureurs d'arrondissement ;
-- d. les procureurs.
+- b. les deux Procureurs généraux adjoints ;
+- c. les autres procureurs exerçant une fonction dirigeante ;
+- d. les procureurs, y compris les procureurs suppléants ;
+- e. les procureurs assistants.
 
-<sup>2</sup> Le nombre de procureurs généraux adjoints et de procureurs est fixé par arrêté.
+<sup>1bis</sup> Le procureur général et les procureurs généraux adjoints forment ensemble le Collège des procureurs.
 
-<sup>3</sup> Le Conseil d'Etat désigne, parmi les procureurs généraux adjoints, le suppléant du procureur général, sur proposition de ce dernier.
+<sup>2</sup> ...
 
-[^3-1]: Modif. 2 du 31.05.2022: Modification Al. 1, b-d; entrée en vigueur au 01.01.2023; Introduction Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Al. 1bis; entrée en vigueur au 01.01.2023; Abrogation Al. 2-3; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+<sup>3</sup> ...
+
+[^3-1]: Modif. 2 du 31.05.2022: Modification Al. 1, b-d; entrée en vigueur au 01.01.2023; Introduction Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Al. 1bis; entrée en vigueur au 01.01.2023; Abrogation Al. 2-3; entrée en vigueur au 01.01.2023
 
 #### Art. 5
 
@@ -84,42 +87,43 @@ décrète
 
 **Procureur extraordinaire [^5-1]**
 
-<sup>1</sup> Si la récusation du procureur général est prononcée, le Bureau du Grand Conseil désigne un procureur extraordinaire.
+<sup>1</sup> Si la récusation du Procureur général ou des Procureurs généraux adjoints est prononcée, le Bureau du Grand Conseil désigne un procureur extraordinaire.
 
-<sup>2</sup> Si la récusation d'un autre procureur est prononcée, le procureur général peut soit se saisir de l'affaire, soit désigner un autre procureur.
+<sup>2</sup> Si la récusation d'un autre procureur est prononcée, le Procureur général peut soit se saisir de l'affaire, soit désigner un autre magistrat du Ministère public.
 
-[^5-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Modification Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^5-1]: Modif. 2 du 31.05.2022: Modification Al. 1-2; entrée en vigueur au 01.01.2023
 
 ## Chapitre III Election et nomination
 
 #### Art. 7
 
-**Election du procureur général [^chapterChapitreIII-1]**
+**Election du Procureur général et des Procureurs généraux adjoints [^chapterChapitreIII-1]**
 
-<sup>1</sup> Sur préavis de la Commission de présentation, le procureur général est élu par le Grand Conseil pour une durée de cinq ans à compter du 1er janvier qui suit le renouvellement du Grand Conseil.
+<sup>1</sup> Le Procureur général et les Procureurs généraux adjoints sont élus par le Grand Conseil pour une durée de cinq ans à compter du 1er janvier de la troisième année suivant celle du renouvellement du Grand Conseil.
 
-<sup>2</sup> Si une vacance se produit au cours d'une période de cinq ans, le procureur général est nommé pour la fin de cette période.
+<sup>1bis</sup> Le Grand Conseil désigne, parmi les procureurs généraux adjoints, le suppléant du Procureur général.
 
-<sup>3</sup> Le procureur général est rééligible.
+<sup>2</sup> Si une vacance se produit au cours d'une période de cinq ans, le Procureur général ou les Procureurs généraux adjoints sont nommés pour la fin de cette période.
 
-<sup>4</sup> Pour le surplus, les articles 155 et 156 de la loi sur le Grand Conseil [^7-1] sont applicables par analogie à l'élection du procureur général.
+<sup>3</sup> Le Procureur général et les Procureurs généraux adjoints sont rééligibles.
 
-[^chapterChapitreIII-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Al. 1bis; entrée en vigueur au 01.01.2023; Modification Al. 2-4; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
-[^7-1]: Loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01?id=f2e96e40-e605-4a11-8df5-73896762e321))
+<sup>4</sup> Pour le surplus, les articles 155 et 156 de la loi sur le Grand Conseil sont applicables par analogie à l'élection du Procureur général et des Procureurs généraux adjoints .
+
+[^chapterChapitreIII-1]: Modif. 2 du 31.05.2022: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Al. 1bis; entrée en vigueur au 01.01.2023; Modification Al. 2-4; entrée en vigueur au 01.01.2023
 
 #### Art. 8
 
-**Nomination des autres procureurs [^7-2]**
+**Nomination des autres magistrats du Ministère public [^7-1]**
 
-<sup>1</sup> Les autres procureurs sont nommés par le Conseil d'Etat, sur proposition du procureur général, pour une durée de cinq ans à compter du 1er février de l'année qui suit le renouvellement du Conseil d'Etat.
+<sup>1</sup> Les autres magistrats du Ministère public sont nommés par le Collège des procureurs, pour une durée de cinq ans à compter du 1er avril de la troisième année suivant celle du renouvellement du Grand Conseil.
 
 <sup>2</sup> Ils sont rééligibles.
 
-<sup>3</sup> Si une vacance se produit au cours d'une période de cinq ans, le procureur est nommé pour la fin de cette période.
+<sup>3</sup> Si une vacance se produit au cours d'une période de cinq ans, le remplaçant est nommé pour la fin de cette période.
 
-<sup>4</sup> Sur proposition du procureur général, le Conseil d'Etat peut nommer des procureurs suppléants. Les procureurs suppléants n'occupent pas de poste et sont rémunérés par indemnités.
+<sup>4</sup> Les procureurs suppléants n'occupent pas de poste et sont rémunérés par indemnités.
 
-[^7-2]: Modif. 1 du 09.11.2010: Introduction Al. 4; entrée en vigueur au 01.01.2011 · Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1,3,4; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^7-1]: Modif. 1 du 09.11.2010: Introduction Al. 4; entrée en vigueur au 01.01.2011 · Modif. 2 du 31.05.2022: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1,3,4; entrée en vigueur au 01.01.2023
 
 #### Art. 9
 
@@ -127,11 +131,11 @@ décrète
 
 <sup>1</sup> En cas d'empêchement durable du procureur général, le Bureau du Grand Conseil désigne un des procureurs généraux adjoints procureur général par intérim.
 
-<sup>2</sup> En cas d'empêchement durable d'un autre procureur, le Conseil d'Etat, sur proposition du procureur général, peut désigner un procureur par intérim.
+<sup>2</sup> En cas d'empêchement durable d'un magistrat du Ministère public, le Collège des procureurs peut désigner un procureur par intérim.
 
-<sup>3</sup> Pour les empêchements d'une durée inférieure à six mois, cette compétence appartient au chef du département auquel le Ministère public est rattaché administrativement, sur proposition du procureur général.
+<sup>3</sup> ...
 
-[^8-1]: Modif. 1 du 09.11.2010: Introduction Al. 3; entrée en vigueur au 01.01.2011 · Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Modification Al. 2; entrée en vigueur au 01.01.2023; Abrogation Al. 3; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^8-1]: Modif. 1 du 09.11.2010: Introduction Al. 3; entrée en vigueur au 01.01.2011 · Modif. 2 du 31.05.2022: Modification Al. 2; entrée en vigueur au 01.01.2023; Abrogation Al. 3; entrée en vigueur au 01.01.2023
 
 #### Art. 10
 
@@ -141,9 +145,13 @@ décrète
 
 <sup>2</sup> Les magistrats du Ministère public doivent être au bénéfice d'une formation juridique complète ou jugée équivalente.
 
-<sup>3</sup> Le magistrat du Ministère public qui n'est pas domicilié dans le canton lors de sa nomination doit y prendre domicile dans le délai fixé par le Conseil d'Etat.
+<sup>3</sup> ...
 
-[^9-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Abrogation Al. 3; entrée en vigueur au 01.01.2023; Introduction Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+<sup>4</sup> Le Procureur général et les Procureurs généraux adjoints doivent être domiciliés dans le canton. Il en va de même, sauf juste motif, pour les autres magistrats du Ministère public.
+
+<sup>5</sup> Le Conseil de la magistrature fixe au procureur qui n'est pas domicilié dans le canton un délai pour y prendre domicile et statue cas échéant sur les justes motifs prévus à l'alinéa 4.
+
+[^9-1]: Modif. 2 du 31.05.2022: Abrogation Al. 3; entrée en vigueur au 01.01.2023; Introduction Al. 4-5; entrée en vigueur au 01.01.2023
 
 #### Art. 11
 
@@ -151,9 +159,11 @@ décrète
 
 *a) Parenté et alliance*
 
-<sup>1</sup> Il ne doit exister aucune parenté ni alliance en ligne directe, ni aucune parenté en ligne collatérale jusqu'au troisième degré inclusivement, ni partenariat enregistré ou vie de couple de fait entre les magistrats du Ministère public et les conseillers d'Etat et entre les magistrats d'un même office.
+<sup>1</sup> Il ne doit exister aucune parenté ni alliance en ligne directe, ni aucune parenté en ligne collatérale jusqu'au troisième degré inclusivement, ni partenariat enregistré ou vie de couple de fait entre les magistrats du Ministère public et les membres du Conseil de la magistrature et entre les magistrats d'un même office.
 
-[^10-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+<sup>1bis</sup> Celui qui donne lieu à une alliance d'un degré prohibé est réputé démissionnaire.
+
+[^10-1]: Modif. 2 du 31.05.2022: Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Al. 1bis; entrée en vigueur au 01.01.2023
 
 #### Art. 12
 
@@ -167,31 +177,35 @@ décrète
 
 #### Art. 13
 
-**c) Activités politique [^12-1]**
+**c) Activités politiques [^12-1]**
 
-<sup>1</sup> Les magistrats du Ministère public et leurs collaborateurs ne peuvent assumer aucun mandat politique.
+<sup>1</sup> Les magistrats du Ministère public ne peuvent assumer aucun mandat politique.
 
-[^12-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+<sup>2</sup> Les collaborateurs du Ministère public ne peuvent assumer aucun mandat politique cantonal ou fédéral.
+
+[^12-1]: Modif. 2 du 31.05.2022: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Al. 2; entrée en vigueur au 01.01.2023
 
 #### Art. 14
 
 **Assermentation [^13-1]**
 
-<sup>1</sup> Au moment d'entrer en charge et après chaque réélection, le procureur général est assermenté par le Grand Conseil en même temps que les juges cantonaux.
+<sup>1</sup> Au moment d'entrer en charge et après chaque réélection, le Procureur général et les Procureurs généraux adjoints sont assermentés par le Grand Conseil en même temps que les juges cantonaux.
 
-<sup>2</sup> Les autres magistrats du Ministère public sont assermentés par le Conseil d'Etat en présence d'une délégation du Tribunal cantonal.
+<sup>2</sup> Les autres magistrats du Ministère public sont assermentés par le Collège des procureurs.
+
+<sup>2bis</sup> L'assermentation quinquennale de début de législature des procureurs dirigeants et des autres magistrats du Ministère public se tient en présence d'une délégation du Tribunal cantonal et du Conseil de la magistrature.
 
 <sup>3</sup> La promesse est la même que celle prévue pour les magistrats judiciaires.
 
-[^13-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Modification Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^13-1]: Modif. 2 du 31.05.2022: Modification Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Al. 2bis; entrée en vigueur au 01.01.2023
 
 #### Art. 15
 
 **Collaborateurs [^14-1]**
 
-<sup>1</sup> Le procureur général est l'autorité d'engagement des collaborateurs du Ministère public. Il peut déléguer cette compétence.
+<sup>1</sup> Le Collège des procureurs est l'autorité d'engagement des collaborateurs du Ministère public. Il peut déléguer cette compétence.
 
-[^14-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^14-1]: Modif. 2 du 31.05.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 ## Chapitre IV Rapport de travail
 
@@ -203,16 +217,23 @@ décrète
 
 [^16-1]: Loi du 12.11.2001 sur le personnel de l’Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
 
+#### Art. 16a
+
+**Indemnités [^16-2]**
+
+<sup>1</sup> Les magistrats du Ministère public ont droit aux indemnités prévues par la Loi sur le personnel de l'Etat de Vaud.
+
+[^16-2]: Modif. 2 du 31.05.2022: Introduction Art. 16a; entrée en vigueur au 01.01.2023
+
 #### Art. 17
 
-**Rémunération [^16-2]**
+**Rémunération [^16a-1]**
 
-<sup>1</sup> Le Grand Conseil fixe par décret le salaire du procureur général [^17-1] .
+<sup>1</sup> Le Grand Conseil fixe par décret le salaire du Procureur général et des Procureurs généraux adjoints.
 
-<sup>2</sup> Le Conseil d'Etat fixe le salaire des autres procureurs.
+<sup>2</sup> Le Conseil d'Etat fixe le salaire des autres magistrats du Ministère public.
 
-[^16-2]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Modification Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
-[^17-1]: Décret du 16.03.2010 fixant le salaire du procureur général ([BLV 173.215](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.215?id=a632bfec-10b6-4b5b-bccb-fd97fa485c51))
+[^16a-1]: Modif. 2 du 31.05.2022: Modification Al. 1-2; entrée en vigueur au 01.01.2023
 
 ## Chapitre V Fin des rapports de travail
 
@@ -220,34 +241,35 @@ décrète
 
 **Démission [^chapterChapitreV-1]**
 
-<sup>1</sup> Le procureur général peut en tout temps présenter sa démission auprès du Grand Conseil en respectant un préavis de six mois ; celui-ci peut être abrégé avec l'accord du Bureau du Grand Conseil.
+<sup>1</sup> Le Procureur général et les Procureurs généraux adjoints peuvent en tout temps présenter leur démission auprès du Grand Conseil en respectant un préavis de six mois ; celui-ci peut être abrégé avec l'accord du Bureau du Grand Conseil.
 
-<sup>2</sup> Les autres procureurs peuvent en tout temps présenter leur démission moyennant respect d'un délai de six mois pour la fin d'un mois. Ce délai peut être abrégé avec l'accord de l'autorité d'engagement.
+<sup>2</sup> Les autres magistrats du Ministère public peuvent en tout temps présenter leur démission moyennant respect d'un délai de six mois pour la fin d'un mois. Ce délai peut être abrégé avec l'accord de l'autorité d'engagement.
 
-[^chapterChapitreV-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Modification Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^chapterChapitreV-1]: Modif. 2 du 31.05.2022: Modification Al. 1-2; entrée en vigueur au 01.01.2023
 
 #### Art. 19
 
-**Renvoi et discipline [^18-1]**
+**... [^18-1]**
 
-<sup>1</sup> Les articles 31 à 45 de la loi d'organisation judiciaire [^19-1] s'appliquent par analogie au renvoi pour justes motifs et à la discipline des magistrats du Ministère public.
+...
 
-[^18-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
-[^19-1]: Loi du 12.12.1979 d’organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
+[^18-1]: Modif. 2 du 31.05.2022: Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 20
 
-**Autorités compétentes [^19-2]**
+**... [^19-1]**
 
-<sup>1</sup> Les autorités compétentes pour ouvrir la procédure, renvoyer et statuer sur les sanctions disciplinaires à l'encontre du procureur général sont les mêmes que celles prévues pour les juges cantonaux.
+...
 
-<sup>2</sup> Le Conseil d'Etat est l'autorité disciplinaire des autres procureurs.
+[^19-1]: Modif. 2 du 31.05.2022: Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1-4; entrée en vigueur au 01.01.2023
 
-<sup>3</sup> Il agit d'office ou sur requête du procureur général.
+#### Art. 20a
 
-<sup>4</sup> Les décisions du Conseil d'Etat peuvent faire l'objet d'un recours auprès du Tribunal neutre.
+**Autorité disciplinaire [^20-1]**
 
-[^19-2]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1-4; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+<sup>1</sup> Le Conseil de la magistrature est l'autorité disciplinaire des magistrats du Ministère public.
+
+[^20-1]: Modif. 2 du 31.05.2022: Introduction Art. 20a; entrée en vigueur au 01.01.2023
 
 ## Chapitre VI Surveillance
 
@@ -257,71 +279,100 @@ décrète
 
 <sup>1</sup> Le secret de l'instruction et l'indépendance du Ministère public sont garantis.
 
-<sup>2</sup> Le Ministère public est soumis à la surveillance du Conseil d'Etat.
+<sup>2</sup> Le Ministère public est soumis à la surveillance du Conseil de la magistrature.
 
-<sup>3</sup> Le Conseil d'Etat peut lui donner des instructions de portée générale en matière d'administration ou de finances.
+<sup>3</sup> Le Conseil d'Etat peut lui donner des instructions de portée générale en matière de finances.
 
-<sup>4</sup> L'activité du Ministère public dans des cas d'espèce n'est pas soumise à la surveillance du Conseil d'Etat. Celui-ci ne peut pas donner d'instructions relatives à l'ouverture, au déroulement ou à la clôture de la procédure, à la représentation de l'accusation devant le tribunal ni au dépôt de recours.
+<sup>4</sup> L'activité du Ministère public dans des cas d'espèce n'est pas soumise à la surveillance du Conseil de la magistrature. Celui-ci ne peut pas donner d'instructions relatives à l'ouverture, au déroulement ou à la clôture de la procédure, à la représentation de l'accusation devant le tribunal ni au dépôt de recours.
 
-<sup>5</sup> Le Conseil d'Etat n'a pas accès aux dossiers du Ministère public.
+<sup>5</sup> ...
 
-[^chapterChapitreVI-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Modification Al. 2-4; entrée en vigueur au 01.01.2023; Abrogation Al. 5; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^chapterChapitreVI-1]: Modif. 2 du 31.05.2022: Modification Al. 2-4; entrée en vigueur au 01.01.2023; Abrogation Al. 5; entrée en vigueur au 01.01.2023
 
 #### Art. 22
 
-**Relations avec le Grand Conseil [^21-1]**
+**... [^21-1]**
 
-<sup>1</sup> Par l'intermédiaire du Conseil d'Etat, le procureur général adresse au Grand Conseil chaque année un rapport sur l'activité du Ministère public.
+...
 
-<sup>2</sup> Le Conseil d'Etat remet le rapport tel quel au Grand Conseil. Il peut y adjoindre ses remarques.
+[^21-1]: Modif. 2 du 31.05.2022: Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1-3; entrée en vigueur au 01.01.2023
 
-<sup>3</sup> Si l'indépendance du Ministère public est menacée, le procureur général peut saisir directement le Grand Conseil.
+#### Art. 22a
 
-[^21-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1-3; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+**Rapport d'activité [^22-1]**
+
+<sup>1</sup> Le Procureur général adresse chaque année au Conseil de la magistrature un rapport sur l'activité du Ministère public.
+
+<sup>2</sup> Ce rapport est transmis au Grand Conseil conformément aux dispositions de la loi sur le Conseil de la magistrature.
+
+[^22-1]: Modif. 2 du 31.05.2022: Introduction Art. 22a; entrée en vigueur au 01.01.2023
 
 ## Chapitre VII Organisation et compétence
 
 #### Art. 23
 
-**Procureur général [^chapterChapitreVII-1]**
+**Collège des procureurs [^chapterChapitreVII-1]**
 
-<sup>1</sup> Le procureur général dirige le Ministère public, veille à sa bonne marche et tient le contrôle des enquêtes en cours.
+<sup>1</sup> Le Collège des procureurs dirige le Ministère public, veille à sa bonne marche et tient le contrôle des enquêtes en cours.
 
-<sup>2</sup> Il fixe les règles relatives aux attributions des premiers procureurs d'arrondissement.
+<sup>1bis</sup> Le Collège des procureurs s'organise librement. Il peut édicter des règlements et directives, notamment pour garantir l'exercice uniforme de la poursuite pénale.
 
-<sup>3</sup> Il surveille l'activité des procureurs et peut leur donner des instructions générales. Sous réserve des refus d'approbation prévus à l'article 29 de la loi d'introduction du Code de procédure pénale suisse (ci-après : LVCPP) [^23-1] , il ne peut donner de prescription quant aux décisions à prendre en cours d'enquête, lors de la clôture de celles-ci, ou quant aux conclusions à prendre dans l'acte d'accusation, en audience, en recours ou en appel.
+<sup>1ter</sup> Le Procureur général préside le Collège des procureurs et représente le Ministère public.
 
-<sup>4</sup> Le procureur général peut en tout temps :
+<sup>2</sup> Le Collège des procureurs fixe les règles relatives aux attributions des procureurs exerçant une fonction dirigeante.
 
-- - dessaisir un autre procureur d'un dossier pour le traiter lui-même ou en saisir un autre procureur ;
-- - se dessaisir d'un dossier qu'il traite et en saisir un autre procureur.
+<sup>3</sup> Il surveille l'activité des autres magistrats du Ministère public et peut leur donner des instructions générales.
 
-<sup>5</sup> Il peut déléguer au Ministère public central ses compétences d'approbation des ordonnances de classement, de non-entrée en matière ou de suspension de la procédure, et d'opposition aux ordonnances pénales rendues par les procureurs d'arrondissement et les autorités compétentes en matière de contraventions. Il règle l'attribution des recours contre les décisions rendues en matière de contraventions.
+<sup>4</sup> ...
 
-[^chapterChapitreVII-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Modification Al. 2-3; entrée en vigueur au 01.01.2023; Abrogation Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
-[^23-1]: Loi du 19.05.2009 d'introduction du Code de procédure pénale suisse ( [BLV 312.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.01?id=2d30c3c5-8940-44d6-b00e-f0b57ff7f499))
+- - ...
+- - ...
+
+<sup>5</sup> ...
+
+[^chapterChapitreVII-1]: Modif. 2 du 31.05.2022: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Modification Al. 2-3; entrée en vigueur au 01.01.2023; Abrogation Al. 4-5; entrée en vigueur au 01.01.2023
+
+#### Art. 23a
+
+**Procureur général [^23-1]**
+
+<sup>1</sup> Le Procureur général peut en tout temps :
+
+- a. dessaisir un autre procureur d'un dossier pour le traiter lui-même ou en saisir un autre procureur ;
+- b. se dessaisir d'un dossier qu'il traite et en saisir un autre procureur.
+
+<sup>2</sup> Il peut déléguer à d'autres magistrats du Ministère public ses compétences d'approbation des ordonnances de classement, de non-entrée en matière ou de suspension de la procédure, et d'opposition aux ordonnances pénales rendues par les procureurs d'arrondissement et les autorités compétentes en matière de contraventions. Il règle l'attribution des recours contre les décisions rendues en matière de contraventions.
+
+<sup>3</sup> Sous réserve des refus d'approbation prévus à l'article 29 de la loi d'introduction du Code de procédure pénale suisse (ci-après: LVCPP), il ne peut donner de prescription quant aux décisions à prendre en cours d'enquête, lors de la clôture de celles-ci, ou quant aux conclusions à prendre dans l'acte d'accusation, en audience, en recours ou en appel.
+
+[^23-1]: Modif. 2 du 31.05.2022: Introduction tArt; entrée en vigueur au 01.01.2023; Introduction Al. 1-3; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023
 
 #### Art. 24
 
-**Ministère public central [^23-2]**
+**... [^23a-1]**
 
-<sup>1</sup> Le Ministère public central est dirigé par le procureur général. Il est composé :
+...
 
-- - du ou des procureurs généraux adjoints ;
-- - des procureurs du Ministère public central.
+[^23a-1]: Modif. 2 du 31.05.2022: Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1-2; entrée en vigueur au 01.01.2023
 
-<sup>2</sup> Le Ministère public central est compétent sur l'ensemble du canton.
+#### Art. 24a
 
-[^23-2]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+**Magistrats du Ministère public [^24-1]**
+
+<sup>1</sup> Les magistrats du Ministère public exercent la totalité des compétences attribuées par le CPP.
+
+<sup>2</sup> Les procureurs assistants ne peuvent pas engager ou soutenir l'accusation dans les affaires relevant de la compétence du tribunal correctionnel ou criminel.
+
+[^24-1]: Modif. 2 du 31.05.2022: Introduction tArt; entrée en vigueur au 01.01.2023; Introduction Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023
 
 #### Art. 25
 
-**Compétences du Ministère public central [^24-1]**
+**Compétences du Ministère public central [^24a-1]**
 
 <sup>1</sup> Le Ministère public central est compétent :
 
-- - pour mener les enquêtes entrant dans ses attributions, telles que définies par le procureur général ;
-- - pour exercer les compétences d'approbation et de contrôle déléguées par le procureur général.
+- - pour mener les enquêtes entrant dans ses attributions, telles que définies par le Collège des procureurs ;
+- - pour exercer les compétences d'approbation et de contrôle déléguées par le Procureur général.
 
 <sup>2</sup> Il est l'autorité compétente en matière d'entraide et de conflits de fors. Il a notamment la compétence :
 
@@ -335,7 +386,7 @@ décrète
 - - de recevoir une demande de délégation de poursuite pénale ;
 - - d'ordonner la suspension d'une action pénale dans le cadre de l'article 20 de la loi fédérale sur l'entraide internationale en matière pénale [^25-2] .
 
-[^24-1]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^24a-1]: Modif. 2 du 31.05.2022: Modification Al. 1, Tiret 1-2; entrée en vigueur au 01.01.2023
 [^25-1]: Code de procédure civile suisse du 19.12.2008 (RS 272)
 [^25-2]: Loi fédérale du 20.03.1981 sur l'entraide internationale en matière pénale (RS 351.1)
 
@@ -345,20 +396,20 @@ décrète
 
 <sup>1</sup> Les ministères publics d'arrondissement sont compétents selon les règles de for au sens du CPP [^26-1] , sous réserve des compétences du Ministère public central.
 
-<sup>2</sup> Le procureur général décide de l'affectation des procureurs d'arrondissement et détermine dans quelle mesure ils sont compétents hors de leur arrondissement.
+<sup>2</sup> Le Collège des procureurs décide de l'affectation des procureurs et détermine dans quelle mesure ils sont compétents hors de leur arrondissement.
 
-[^25-3]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Modification Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^25-3]: Modif. 2 du 31.05.2022: Modification Al. 2; entrée en vigueur au 01.01.2023
 [^26-1]: Code de procédure civile suisse du 19.12.2008 (RS 272)
 
 #### Art. 27
 
 **Compétences pour recourir [^26-2]**
 
-<sup>1</sup> Peut seul interjeter recours ou former appel auprès du Tribunal cantonal le Ministère public qui a mis le prévenu en accusation. Demeurent réservées les compétences du procureur général au sens de l'article 23, alinéa 4 de la présente loi.
+<sup>1</sup> Peut seul interjeter recours ou former appel auprès du Tribunal cantonal le Ministère public qui a mis le prévenu en accusation.
 
-<sup>2</sup> Le procureur général ou ses adjoints sont seuls compétents pour saisir le Tribunal fédéral.
+<sup>2</sup> Le Procureur général ou les Procureurs généraux adjoints sont seuls compétents pour saisir le Tribunal fédéral.
 
-[^26-2]: Modif. 2 du 31.05.2022: Introduction Art. 4, Al. 1, e; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 10, Al. 4-5; entrée en vigueur au 01.01.2023; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 13, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 14, Al. 2bis; entrée en vigueur au 01.01.2023; Introduction Art. 16a; entrée en vigueur au 01.01.2023; Introduction Art. 20a; entrée en vigueur au 01.01.2023; Introduction Art. 22a; entrée en vigueur au 01.01.2023; Introduction Art. 23, Al. 1bis,1ter; entrée en vigueur au 01.01.2023; Introduction Art. 23a; entrée en vigueur au 01.01.2023; Introduction Art. 24a; entrée en vigueur au 01.01.2023; Modification Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 33; entrée en vigueur au 01.01.2023
+[^26-2]: Modif. 2 du 31.05.2022: Modification Al. 1-2; entrée en vigueur au 01.01.2023
 
 #### Art. 28
 
@@ -399,3 +450,13 @@ décrète
 **Exécution**
 
 <sup>1</sup> Le Conseil d'Etat est chargé de l'exécution de la présente loi. Il en publiera le texte conformément à l'article 84, alinéa 1, lettre a) de la Constitution cantonale et la mettra en vigueur, par voie d'arrêté, conformément à l'article 31 ci-dessus.
+
+#### Art. 33
+
+**Dispositions transitoires de la loi du 31 mai 2022 [^32-1]**
+
+<sup>1</sup> La durée des fonctions des procureurs généraux adjoints est prolongée jusqu'au 31 décembre 2024.
+
+<sup>2</sup> La durée des fonctions des autres magistrats du Ministère public au sens de l'article 8 est prolongée jusqu'au 31 mars 2025.
+
+[^32-1]: Modif. 2 du 31.05.2022: Introduction Art. 33; entrée en vigueur au 01.01.2023
