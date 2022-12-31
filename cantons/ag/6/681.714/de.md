@@ -3,20 +3,19 @@ canton: AG
 number: "681.714"
 title: Reglement über die Vergütung des Bankrats der Aargauischen Kantonalbank
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-05-21
+version: 2023-01-01
+version_adopted: 2023-03-16
 adopted: 2021-05-21
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/681.714"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3100/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3311/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Vergütung des Bankrats der Aargauischen Kantonalbank
 
-Vom 21.05.2021 (Stand 01.01.2021)
+Vom 21.05.2021 (Stand 01.01.2023)
 
 Der Bankrat der Aargauischen Kantonalbank,
 
@@ -37,7 +36,7 @@ erlässt folgendes Reglement:
 
 **Präsidium**
 
-<sup>1</sup> Zwischen der Präsidentin oder dem Präsidenten und der Aargauischen Kantonalbank besteht ein Arbeitsvertrag mit einem Pensum von 60 %, einem Jahresbruttosalär von Fr. 250'000.– und den Nebenleistungen analog denjenigen der Geschäftsleitung (Pauschalspesen und Autoentschädigung prozentual zum Arbeitspensum, Mitarbeiterkonditionen bei Bankdienstleistungen und -produkten).
+<sup>1</sup> Zwischen der Präsidentin oder dem Präsidenten und der Aargauischen Kantonalbank besteht ein Arbeitsvertrag mit einem Pensum von 60 %, einem Jahresbruttosalär von Fr. 243'000.– und den Nebenleistungen analog denjenigen der Geschäftsleitung (Pauschalspesen und Autoentschädigung prozentual zum Arbeitspensum, Mitarbeiterkonditionen bei Bankdienstleistungen und -produkten).
 
 <sup>2</sup> Die Präsidentin oder der Präsident ist damit exekutives Bankorganmitglied gemäss den Börsenrichtlinien.
 
@@ -55,8 +54,9 @@ erlässt folgendes Reglement:
 - b) Vizepräsidium — Fr. 50'000.–
 - c) Prüfungs- und Risikoausschuss — Fr. 10'000.–
 - d) Je übrige Ausschüsse — Fr. 8'000.–
-- e) Vorsitz Strategieausschuss — Fr. 5'000.–
+- e) Vorsitz Strategieausschuss — Fr. 10'000.–
 - f) Vorsitz Prüfungs- und Risikoausschuss — Fr. 13'000.–
+- g) Vorsitz Personal- und Vergütungsausschuss — Fr. 7'000.–
 
 #### § 4
 
