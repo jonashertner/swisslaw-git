@@ -4,13 +4,12 @@ number: "121.1"
 title: Grossratsgesetz
 short: GRG
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-16
+version: 2023-01-01
+version_adopted: 2022-10-13
 adopted: 2006-09-06
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/121.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6752/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Grossratsgesetz
 
 (GRG)
 
-vom 06.09.2006 (Fassung in Kraft getreten am 01.01.2021)
+vom 06.09.2006 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -43,9 +42,12 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz regelt die Organisation und die Arbeitsweise des Grossen Rates.
 
-<sup>2</sup> Es legt ferner die Zuständigkeiten des Grossen Rates fest und regelt die Beziehungen zu den übrigen Behörden, soweit diese Fragen nicht in der Verfassung oder in der Spezialgesetzgebung geregelt werden.
+<sup>2</sup> Es legt ferner die Zuständigkeiten des Grossen Rates fest und regelt die Beziehungen zu den übrigen Behörden, soweit diese Fragen nicht in der Verfassung[^1-1] oder in der Spezialgesetzgebung geregelt werden.
 
-<sup>3</sup> Die Zusammensetzung und die Wahl des Grossen Rates sowie die Wählbarkeitsvoraussetzungen und die Unvereinbarkeiten werden in der Verfassung und in der Gesetzgebung über die Ausübung der politischen Rechte geregelt.
+<sup>3</sup> Die Zusammensetzung und die Wahl des Grossen Rates sowie die Wählbarkeitsvoraussetzungen und die Unvereinbarkeiten werden in der Verfassung[^1-2] und in der Gesetzgebung über die Ausübung der politischen Rechte geregelt.
+
+[^1-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
+[^1-2]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 2
 
@@ -96,6 +98,10 @@ beschliesst:
 - d) Es koordiniert die Beziehungen des Grossen Rates zu den anderen Gewalten und achtet insbesondere darauf, dass die Geschäfte, mit denen der Grosse Rat die vollziehende Gewalt beauftragt hat, ordnungsgemäss behandelt werden.
 - e) Es prüft die Gültigkeit einer Ergänzungswahl und wenn nötig, ob die Wählbarkeitsvoraussetzungen eines Mitglieds des Grossen Rates während der Legislaturperiode eingehalten werden, und unterbreitet das Ergebnis dieser Prüfung dem Grossen Rat.
 - f) Es beschliesst die Stellungnahme des Grossen Rates in Verwaltungs- und Gerichtsverfahren, an denen der Grosse Rat beteiligt ist.
+- g) Es sorgt dafür, dass die Kommissionen und das Sekretariat des Grossen Rates (das Sekretariat) die Fristen für die Behandlung der Geschäfte einhalten.
+- h) Es entscheidet über die Zusammensetzung der kantonalen Delegation, die nach Einreichung einer Standesinitiative im Bundesparlament angehört wird.
+- i) Es erlässt Richtlinien, in denen die Arbeitsweise der Stimmenzählerinnen und Stimmenzähler festgelegt wird.
+- j) Es sorgt für die Ausarbeitung der Gesetzgebung in den Bereichen, für die es zuständig ist, und trifft zu diesem Zweck die organisatorischen Massnahmen.
 
 #### Art. 5
 
@@ -103,7 +109,7 @@ beschliesst:
 
 <sup>1</sup> Das Büro tritt zusammen, sooft die Geschäfte es erfordern, auf Einberufung der Präsidentin oder des Präsidenten oder wenn drei Mitglieder des Büros oder der Staatsrat es verlangen.
 
-<sup>2</sup> Die Bestimmungen über die Arbeitsweise der Kommissionen gelten sinngemäss auch für die Arbeitsweise des Büros.
+<sup>2</sup> Die Bestimmungen über die Arbeitsweise der Kommissionen, einschliesslich der Bestimmungen über die Abhaltung von Sitzungen per Videokonferenz, gelten sinngemäss für die Arbeitsweise des Büros.
 
 <sup>3</sup> Das Büro kann die Präsidentin oder den Präsidenten oder eine Delegation der Mitglieder damit beauftragen, gewisse Befugnisse in seinem Namen auszuüben. Es kann die Vorbereitung eines Geschäfts auch einer Delegation seiner Mitglieder, einer Kommission oder dem Sekretariat delegieren.
 
@@ -167,9 +173,9 @@ beschliesst:
 
 <sup>1</sup> Die ständigen Kommissionen werden mit diesem Gesetz eingesetzt.
 
-<sup>2</sup> Die ordentlichen Kommissionen werden vom Büro zur Prüfung einer bestimmten Angelegenheit eingesetzt. Mit der Erfüllung der ihnen übertragenen Aufgabe werden sie aufgelöst.
+<sup>2</sup> Das Büro kann Ad-hoc-Kommissionen zur Prüfung eines bestimmten Geschäfts einsetzen.
 
-<sup>3</sup> Das Büro kann Fachkommissionen einsetzen, die während einer bestimmten Zeit Geschäfte mit verwandtem Inhalt behandeln.
+<sup>3</sup> Es kann Fachkommissionen einsetzen, die während einer bestimmten Zeit Geschäfte mit verwandtem Inhalt behandeln.
 
 <sup>4</sup> Wenn nötig setzt der Grosse Rat eine Redaktionskommission ein, mit dem Auftrag, nach der Beratung die Formulierung eines Erlasses zu kontrollieren (Art. 145).
 
@@ -185,6 +191,26 @@ beschliesst:
 
 <sup>3</sup> Die betreffende Kommission bezeichnet jedoch selbst die Mitglieder, die neben der Berichterstatterin oder dem Berichterstatter an der Redaktionskommission teilnehmen sollen.
 
+#### Art. 11a
+
+**Stellvertretende Mitglieder**
+
+<sup>1</sup> Ist ein Mitglied einer ständigen Kommission oder einer Fachkommission verhindert, an einer Sitzung teilzunehmen, so kann es sich von einem stellvertretenden Mitglied vertreten lassen.
+
+<sup>2</sup> Für jede Kommission, in der sie vertreten sind, haben die Fraktionen für je zwei ordentliche Mitglieder ein stellvertretendes Mitglied, mindestens jedoch ein stellvertretendes Mitglied.
+
+<sup>3</sup> Die stellvertretenden Mitglieder der ständigen Kommissionen werden vom Grossen Rat gewählt, die stellvertretenden Mitglieder der Fachkommissionen werden vom Büro ernannt.
+
+#### Art. 11b
+
+**Subkommissionen**
+
+<sup>1</sup> Jede ständige Kommission und jede Fachkommission kann eine oder mehrere Subkommissionen einsetzen.
+
+<sup>2</sup> Die Subkommissionen erarbeiten Anträge für die Kommission, die sie eingesetzt hat.
+
+<sup>3</sup> Sie können sich nur an die Kommission wenden, aus der sie hervorgegangen sind.
+
 ### 2.1.3.2 Ständige Kommissionen
 
 #### Art. 12
@@ -196,17 +222,19 @@ beschliesst:
 - a) die Finanz- und Geschäftsprüfungskommission;
 - b) die Kommission für auswärtige Angelegenheiten;
 - c) die Justizkommission;
-- d) die Begnadigungskommission;
-- e) die Einbürgerungskommission;
-- f) die Petitionskommission.
+- d) die Begnadigungs-, Petitions- und Volksmotionskommission;
+- e) die Einbürgerungskommission.
+- f) …
 
 #### Art. 13
 
 **Zusammensetzung**
 
-<sup>1</sup> Die ständigen Kommissionen setzen sich aus sieben Mitgliedern zusammen, mit Ausnahme der Finanz- und Geschäftsprüfungskommission, die höchstens dreizehn Mitglieder umfasst, und der Kommission für auswärtige Angelegenheiten, die höchstens fünfzehn Mitglieder umfasst.
+<sup>1</sup> Die ständigen Kommissionen setzen sich aus 7 Mitgliedern zusammen.
 
-<sup>2</sup> Eine Person darf nicht mehr als einer ständigen Kommission angehören. Die Zugehörigkeit zum Büro stellt keinen Hinderungsgrund dar.
+<sup>1a</sup> Die Finanz- und Geschäftsprüfungskommission und die Kommission für auswärtige Angelegenheiten dürfen jedoch höchstens 15 Mitglieder haben. Der Grosse Rat bestimmt die genaue Zahl in einer Parlamentsverordnung.
+
+<sup>2</sup> Ein Mitglied des Grossen Rates kann nicht gleichzeitig der Justizkommission und der Begnadigungs-, Petitions- und Volksmotionskommission angehören, weder als ordentliches Mitglied noch als stellvertretendes Mitglied.
 
 <sup>3</sup> Die ständigen Kommissionen bezeichnen ihre Präsidentin oder ihren Präsidenten und ihre Vizepräsidentin oder ihren Vizepräsidenten für eine halbe Legislaturperiode; Wiederwahl ist möglich.
 
@@ -224,6 +252,8 @@ beschliesst:
 - f) Sie übt die übrigen Zuständigkeiten aus, die ihr von der Gesetzgebung, insbesondere von derjenigen über den Finanzhaushalt des Staates übertragen werden.
 
 <sup>2</sup> Die Organe des Grossen Rates können die Stellungnahme der Finanz- und Geschäftsprüfungskommission zu anderen finanziellen Fragen oder zu grundlegenden Fragen der Geschäftsführung der Verwaltung verlangen.
+
+<sup>3</sup> Die Finanz- und Geschäftsprüfungskommission legt dem Grossen Rat jedes Jahr einen Bericht über ihre Tätigkeit vor.
 
 #### Art. 15
 
@@ -253,9 +283,19 @@ beschliesst:
 
 #### Art. 17
 
-**Begnadigungskommission**
+**Begnadigungs-, Petitions- und Volksmotionskommission**
 
-<sup>1</sup> Die Begnadigungskommission prüft die Begnadigungsgesuche.
+<sup>1</sup> Die Begnadigungs-, Petitions- und Volksmotionskommission hat folgende Zuständigkeiten:
+
+- a) Sie prüft die Begnadigungsgesuche.
+- b) Sie prüft die Petitionen, für die der Grosse Rat zuständig ist, mit Ausnahme derjenigen, die den Justizbereich betreffen (Art. 16 Abs. 1 Bst. e).
+- c) Sie prüft die Volksmotionen, die zustande gekommen sind, und leitet sie an das Plenum des Grossen Rates weiter.
+
+<sup>2</sup> Wird die Kommission mit einem Begnadigungsgesuch oder einer Petition befasst, so prüft sie von Amtes wegen ihre Zuständigkeit.
+
+<sup>3</sup> Erachtet sie eine andere Behörde als zuständig, so überweist sie ihr ohne Verzug die Akten und teilt dies der Person, die das Gesuch eingereicht hat, oder den Petitionärinnen und Petitionären mit.
+
+<sup>4</sup> Ist die Kommission im Zweifel über ihre Zuständigkeit, so pflegt sie darüber einen Meinungsaustausch mit der Behörde, die sie für zuständig hält.
 
 #### Art. 18
 
@@ -265,19 +305,19 @@ beschliesst:
 
 #### Art. 19
 
-**Petitionskommission**
+**…**
 
-<sup>1</sup> Die Petitionskommission prüft die Petitionen, für die der Grosse Rat zuständig ist, mit Ausnahme derjenigen, die den Justizbereich betreffen (Art. 16 Abs. 1 Bst. e).
-
-### 2.1.3.3 Ordentliche Kommissionen und Fachkommissionen
+### 2.1.3.3 Ad-hoc- und Fachkommissionen
 
 #### Art. 20
 
-<sup>1</sup> Die ordentlichen Kommissionen und die Fachkommissionen bestehen aus höchstens 11 Mitgliedern.
+<sup>1</sup> Die Ad-hoc-Kommissionen und die Fachkommissionen bestehen aus höchstens 11 Mitgliedern.
 
-<sup>2</sup> Die Verfasserinnen oder Verfasser der erheblich erklärten Motion oder parlamentarischen Initiative sind von Amtes wegen Mitglieder der ordentlichen Kommission zur Prüfung oder Ausarbeitung des Entwurfs, mit dem dem Vorstoss Folge gegeben wird. Wenn die Verfasserinnen und Verfasser derselben Fraktion angehören, geben sie dem Büro an, wer von ihnen Mitglied der Kommission wird.
+<sup>2</sup> Die Verfasserinnen oder Verfasser der erheblich erklärten Motion oder parlamentarischen Initiative sind von Amtes wegen Mitglieder der Ad-hoc-Kommission zur Prüfung oder Ausarbeitung des Entwurfs, mit welchem dem Vorstoss Folge gegeben wird. Wenn die Verfasserinnen und Verfasser derselben Fraktion angehören, geben sie dem Büro an, wer von ihnen Mitglied der Kommission wird.
 
-<sup>3</sup> Ein Mitglied einer ordentlichen Kommission kann sich von einem anderen Mitglied des Grossen Rates ersetzen lassen; es teilt dies sofort der Kommissionspräsidentin oder dem Kommissionspräsidenten und dem Sekretariat mit. Das ersetzte Mitglied scheidet endgültig aus der Kommission aus.
+<sup>3</sup> Ein Mitglied einer Ad-hoc-Kommission kann sich von einem einzigen Mitglied des Grossen Rates für eine oder mehrere Sitzungen vertreten lassen; es teilt dies sofort der Kommissionspräsidentin oder dem Kommissionspräsidenten und dem Sekretariat mit.
+
+<sup>4</sup> Die Ad-hoc-Kommission wird aufgelöst, sobald sie die ihr übertragene Aufgabe erfüllt hat.
 
 ### 2.1.3.4 Arbeitsweise der Kommissionen
 
@@ -295,15 +335,38 @@ beschliesst:
 
 <sup>5</sup> Die Präsidentin oder der Präsident beantwortet jederzeit Fragen des Büros nach dem Fortschritt der Arbeiten.
 
+<sup>6</sup> Im Übrigen kann der Grosse Rat die Organisation der Debatten in Kommissionssitzungen in einer Verordnung regeln.
+
+#### Art. 21a
+
+**Abhaltung von Sitzungen per Videokonferenz**
+
+<sup>1</sup> Grundsätzlich müssen die Kommissionsmitglieder bei den Kommissionssitzungen physisch anwesend sein.
+
+<sup>2</sup> Eine Kommission kann jedoch mit der Mehrheit der Mitglieder beschliessen, dass eine oder mehrere ihrer Sitzungen per Videokonferenz abgehalten werden.
+
 #### Art. 22
 
 **Sekretariat**
 
-<sup>1</sup> Die Sekretärin oder der Sekretär der Kommission führt über jede Sitzung ein kurzes Protokoll. Darin werden der Ort, das Datum und die Dauer der Sitzung, die Anwesenden, die verteilten Dokumente, die behandelten Geschäfte, die Anträge, über die abgestimmt wurde, die getroffenen Entscheide und die Abstimmungsergebnisse erwähnt.
+<sup>1</sup> Die Person, die das Sekretariat der Kommission führt:
 
-<sup>2</sup> Sie oder er bereitet die schriftlichen Anträge der Kommission an den Grossen Rat vor und arbeitet gegebenenfalls beim Verfassen des Berichts mit.
+- a) führt über jede Sitzung ein Protokoll;
+- b) bereitet die schriftlichen Anträge der Kommission an den Grossen Rat vor und arbeitet gegebenenfalls beim Verfassen des Berichts mit.
 
-<sup>3</sup> Sie oder er hat beratende Stimme.
+<sup>2</sup> In den Protokollen der Kommissionssitzungen werden der Ort, das Datum und die Dauer der Sitzung, die Anwesenden, die verteilten Dokumente, die behandelten Geschäfte, die Anträge, über die abgestimmt wurde, die getroffenen Entscheide und die Abstimmungsergebnisse erwähnt.
+
+<sup>3</sup> Sie werden grundsätzlich an der folgenden Sitzung oder auf dem Zirkulationsweg genehmigt.
+
+#### Art. 22a
+
+**Aufzeichnung der Sitzungen der Organe des Grossen Rates**
+
+<sup>1</sup> Um die Protokollführung der Kommissionssitzungen zu erleichtern, kann die Person, die das Sekretariat sicherstellt, die Debatten aufzeichnen.
+
+<sup>2</sup> Diese Aufzeichnungen dürfen nicht über die Genehmigung des jeweiligen Protokolls hinaus aufbewahrt werden und müssen spätestens zu diesem Zeitpunkt vernichtet werden.
+
+<sup>3</sup> Sollte das Protokoll nicht genehmigt werden, so müssen die Aufzeichnungen spätestens zum Zeitpunkt der Entscheidung des Grossen Rates zum betreffenden Geschäft vernichtet werden.
 
 #### Art. 23
 
@@ -361,6 +424,8 @@ beschliesst:
 
 <sup>2</sup> Die Präsidentin oder der Präsident bezeichnet wenn nötig die Stellvertreterin oder den Stellvertreter, die oder der zum Einsatz kommt.
 
+<sup>3</sup> Die Stimmenzählerinnen und Stimmenzähler bezeichnen ihre Präsidentin oder ihren Präsidenten und ihre Vizepräsidentin oder ihren Vizepräsidenten für eine halbe Legislaturperiode; eine Wiederwahl ist möglich.
+
 #### Art. 28
 
 **Aufgaben**
@@ -372,6 +437,12 @@ beschliesst:
 <sup>3</sup> Sie helfen der Präsidentin oder dem Präsidenten bei der Präsenzkontrolle.
 
 <sup>4</sup> Wenn nötig fordert die Präsidentin oder der Präsident die Stellvertreterinnen und Stellvertreter auf, den Stimmenzählerinnen und Stimmenzählern zu helfen.
+
+#### Art. 28a
+
+**Arbeitsweise der Stimmenzählerinnen und Stimmenzähler**
+
+<sup>1</sup> Die Arbeitsweise der Stimmenzählerinnen und Stimmenzähler und die Befugnisse ihres Präsidiums werden in einer Richtlinie des Büros festgelegt.
 
 ### 2.2 Sekretariat des Grossen Rates
 
@@ -402,6 +473,9 @@ beschliesst:
 - g) Es sorgt für die Verteilung der Unterlagen an alle Mitglieder des Grossen Rates und an die Medien.
 - h) Es zahlt die Entschädigungen an die Mitglieder und die Organe des Grossen Rates aus.
 - i) Es organisiert eine kurze Einführung für die neuen Mitglieder des Grossen Rates.
+- j) Es unterstützt das Präsidium, das Büro und die Kommissionen und berät sie in Verfahrensfragen.
+- k) Es stellt die Nachverfolgung der Dossiers sicher.
+- l) Es unterstützt das Präsidium bei seinen repräsentativen Aufgaben.
 
 #### Art. 31
 
@@ -409,7 +483,7 @@ beschliesst:
 
 <sup>1</sup> Das Sekretariat führt folgende Register:
 
-- a) das Register mit den Namen der Mitglieder des Grossen Rates und der ständigen und Fachkommissionen sowie der vom Grossen Rat gewählten, ernannten und delegierten Personen, wobei insbesondere das Datum der Wahl, der Ernennung oder der Delegation und die Amtsdauer angegeben werden;
+- a) das Register mit den Namen der Mitglieder des Grossen Rates und seiner Organe sowie der vom Grossen Rat gewählten, ernannten und delegierten Personen, wobei insbesondere das Datum der Wahl, der Ernennung oder der Delegation und die Amtsdauer angegeben werden;
 - a<sup>bis</sup>) das Register der Interessenbindungen;
 - b) das Register der Botschaften und der Gesetzes- und Dekretsentwürfe sowie der Berichte;
 - c) das Register der parlamentarischen Vorstösse mit der Folge, die ihnen gegeben wurde;
@@ -459,9 +533,15 @@ beschliesst:
 
 <sup>1</sup> Das Dienstverhältnis der Generalsekretärin oder des Generalsekretärs wird in einem Vertrag geregelt, der auf die Amtsdauer, für die sie oder er gewählt wurde, befristet ist. Für den Grossen Rat unterschreibt die Präsidentin oder der Präsident den Vertrag.
 
-<sup>2</sup> Das Dienstverhältnis kann von beiden Seiten mit einer Frist von 6 Monaten gekündigt werden. Die Artikel 38 ff. des Gesetzes vom 17. Oktober 2001 über das Staatspersonal sind anwendbar.
+<sup>2</sup> Das Dienstverhältnis kann von beiden Seiten mit einer Frist von 6 Monaten gekündigt werden. Die Artikel 38 ff. des Gesetzes vom 17. Oktober 2001 über das Staatspersonal[^35-1] sind anwendbar.
 
 <sup>3</sup> Tritt die Generalsekretärin oder der Generalsekretär zur Wiederwahl für eine neue Amtsdauer an und wird sie oder er nicht wieder gewählt, so endet das Dienstverhältnis von Rechts wegen am Ende des laufenden Monats und es wird ihr oder ihm während 6 Monaten eine Abgangsentschädigung in der Höhe des Gehalts ausbezahlt. Der während dieser Zeit erzielte Verdienst wird von der Entschädigung abgezogen, wenn er von einem Gehalt stammt, das der Staat zahlt oder subventioniert.
+
+<sup>4</sup> Die Bestimmungen der Gesetzgebung über das Staatspersonal über die jährliche Beurteilung und die Führung mit Zielvereinbarung gelten nicht für die Beurteilung der Generalsekretärin oder des Generalsekretärs.
+
+<sup>5</sup> Die periodische Beurteilung der Generalsekretärin oder des Generalsekretärs wird von der Präsidentin oder vom Präsidenten des Grossen Rates, von der Vizepräsidentin oder vom Vizepräsidenten und von der zweiten Vizepräsidentin oder vom zweiten Vizepräsidenten durchgeführt. Sie findet am Ende eines jeden Jahres statt.
+
+[^35-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 36
 
@@ -554,8 +634,8 @@ beschliesst:
 <sup>3</sup> Das Programm der zweiten Sitzung lautet wie folgt:
 
 - a) Umzug und Feier in der Kathedrale;
-- b) Festlegung der Zahl der Mitglieder der Finanz- und Geschäftsprüfungskommission und der Kommission für auswärtige Angelegenheiten;
-- c) Wahl der Mitglieder der ständigen Kommissionen.
+- b) …
+- c) Wahl der ordentlichen Mitglieder und stellvertretenden Mitglieder der ständigen Kommissionen.
 
 #### Art. 44
 
@@ -627,17 +707,22 @@ beschliesst:
 
 **Äusserungsfreiheit**
 
-<sup>1</sup> Die Äusserungsfreiheit der Mitglieder des Grossen Rates in der Ausübung ihrer parlamentarischen Tätigkeit wird im Rahmen der Verfassung und dieses Gesetzes gewährleistet.
+<sup>1</sup> Die Äusserungsfreiheit der Mitglieder des Grossen Rates in der Ausübung ihrer parlamentarischen Tätigkeit wird im Rahmen der Verfassung[^49-1] und dieses Gesetzes gewährleistet.
 
 <sup>2</sup> Die Einschränkungen im Zusammenhang mit der Organisation der Beratungen und der Sitzungsordnung bleiben vorbehalten.
 
 <sup>3</sup> Der Grosse Rat hebt die Immunität in den Fällen und gemäss dem Verfahren nach den Artikeln 172 und 173 auf.
 
+[^49-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
+
 #### Art. 50
 
 **Parlamentarisches Referendum**
 
-<sup>1</sup> Die Ausübung des Finanzreferendumsrechts durch einen Viertel der Mitglieder des Grossen Rates (Art. 99 Abs. 3 KV) richtet sich nach dem Gesetz über die Ausübung der politischen Rechte.
+<sup>1</sup> Die Ausübung des Finanzreferendumsrechts durch einen Viertel der Mitglieder des Grossen Rates (Art. 99 Abs. 3 KV[^50-1]) richtet sich nach dem Gesetz über die Ausübung der politischen Rechte[^50-2].
+
+[^50-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
+[^50-2]: SGF [115.1](https://bdlf.fr.ch/data/115.1/de)
 
 #### Art. 51
 
@@ -651,9 +736,9 @@ beschliesst:
 - d) der Parlamentsleitfaden;
 - e) die Gesetzgebung über die Politikfinanzierung.
 
-<sup>2</sup> Die Mitglieder des Grossen Rates erhalten von Amtes wegen die gedruckte Fassung des Amtlichen Tagblatts der Sitzungen des Grossen Rates. Wenn sie darauf verzichten wollen, teilen sie dies dem Sekretariat mit.
+<sup>2</sup> …
 
-<sup>3</sup> Auf Verlangen erhalten sie ein Gratisabonnement für die Amtliche Sammlung des Kantons Freiburg und das Amtsblatt des Kantons Freiburg und können die Systematische Gesetzessammlung des Kantons Freiburg und ihre Nachführungen zu einem vergünstigten Preis beziehen.
+<sup>3</sup> Auf Anfrage erhalten sie einen kostenlosen Zugang zur Online-Version des Amtsblatts des Kantons Freiburg.
 
 <sup>4</sup> Sie geben dem Sekretariat an, in welcher Amtssprache sie die Unterlagen erhalten wollen.
 
@@ -685,7 +770,7 @@ beschliesst:
 
 <sup>2</sup> Ein Mitglied kann aufgefordert werden zu bleiben, wenn sonst das Quorum nicht mehr erreicht wird, es sei denn, es habe der Präsidentin oder dem Präsidenten rechtzeitig mitgeteilt, dass es verhindert ist.
 
-<sup>3</sup> Hat ein Mitglied keine Dispens der Präsidentin oder des Präsidenten oder keine vom Büro als ausreichend anerkannte Begründung, so wird es im Sitzungsjournal oder im Protokoll als abwesend aufgeführt. Das gilt auch, wenn ein Mitglied spätestens nach einer halben Stunde nach Sitzungseröffnung nicht anwesend ist.
+<sup>3</sup> Hat ein Mitglied keine Dispens der Präsidentin oder des Präsidenten oder keine vom Büro als ausreichend anerkannte Begründung, so wird es im Sitzungsjournal oder im Protokoll als abwesend aufgeführt.
 
 <sup>4</sup> Ist ein Mitglied des Grossen Rates entschuldigt oder abwesend, oder steht sein Name bei einer Abstimmung unter Namensaufruf oder bei einer Kontrolle des Quorums nicht auf der Liste, so erhält es weder Sitzungsgeld noch Reiseentschädigungen.
 
@@ -749,7 +834,7 @@ beschliesst:
 
 **Verfasserinnen und Verfasser und Arten**
 
-<sup>1</sup> Die Mitglieder, das Büro und die ständigen Kommissionen des Grossen Rates können folgende Arten von parlamentarischen Vorstössen einreichen:
+<sup>1</sup> Die Mitglieder, das Büro, die ständigen Kommissionen und die Fachkommissionen des Grossen Rates können folgende Arten von parlamentarischen Vorstössen einreichen:
 
 - a) die Motion;
 - b) das Postulat;
@@ -769,13 +854,17 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Die parlamentarischen Vorstösse werden schriftlich eingereicht und enthalten eine kurze Begründung. Der Gegenstand muss klar bestimmt werden können, er muss die Einheit der Materie wahren. Sie können jederzeit eingereicht werden.
+<sup>1</sup> Die parlamentarischen Vorstösse werden schriftlich eingereicht und enthalten eine Begründung. Der Gegenstand muss klar bestimmt werden können, er muss die Einheit der Materie wahren. Sie können jederzeit beim Sekretariat des Grossen Rates eingereicht werden.
 
 <sup>2</sup> Die Motion, das Postulat, der Auftrag und die parlamentarische Initiative werden dem Staatsrat zur Stellungnahme vorgelegt. Anschliessend wird im Grossen Rat über die Erheblicherklärung beraten. Die Verfasserinnen und Verfasser ergreifen in der Diskussion als Erste das Wort und können den Vorstoss bis spätestens am Ende ihrer Wortmeldung ganz oder teilweise zurückziehen.
+
+<sup>2a</sup> Wenn ein parlamentarischer Vorstoss die Arbeitsweise des Grossen Rates betrifft, verfasst das Sekretariat die Stellungnahme des Büros gemäss dessen Anweisungen. In diesem Fall kann auch der Staatsrat seine eigene Stellungnahme an den Grossen Rat richten.
 
 <sup>3</sup> Resolutionen und Eingaben können zurückgezogen werden, solange die Diskussion darüber nicht geschlossen wurde.
 
 <sup>4</sup> Wird ein parlamentarischer Vorstoss von einem Mitglied des Grossen Rates allein eingereicht und gehört die Verfasserin oder der Verfasser dem Grossen Rat nicht mehr an, so wird der Vorstoss abgeschrieben, sofern er nicht spätestens vor dem Ende der auf den Rücktritt folgenden Session von einer Mitunterzeichnerin oder einem Mitunterzeichner übernommen wird. Der Staatsrat hat indessen auf jeden Fall die Möglichkeit, auf eine Anfrage, deren Verfasserin oder Verfasser dem Grossen Rat nicht mehr angehört, zu antworten.
+
+<sup>5</sup> Auf Antrag eines seiner Mitglieder, einer Fachkommission, einer ständigen Kommission, des Büros oder des Staatsrats kann der Grosse Rat einen hinfällig gewordenen oder überholten Vorstoss abschreiben.
 
 #### Art. 61
 
@@ -785,7 +874,7 @@ beschliesst:
 
 <sup>2</sup> Wenn von der Gesetzgebung eine Mindestzahl von Unterschriften vorgeschrieben wird, unterzeichnen die Verfasserinnen und Verfasser als erste, nachher werden die weiteren Unterschriften hinzugefügt, bis die Mindestzahl erreicht ist. Tritt eine der Verfasserinnen oder einer der Verfasser aus dem Grossen Rat zurück oder zieht sie oder er die Unterschrift zurück, so wird der parlamentarische Vorstoss abgeschrieben, sofern er nicht spätestens vor dem Ende der folgenden Session von einer Mitunterzeichnerin oder einem Mitunterzeichner übernommen wird.
 
-<sup>3</sup> Wenn die Echtheit und die Vollständigkeit der Daten garantiert sind, kann das Sekretariat des Grossen Rates parlamentarische Vorstösse auch in elektronischer Form entgegennehmen.
+<sup>3</sup> Parlamentarische Vorstösse werden grundsätzlich in elektronischer Form eingereicht. Falls nötig legt der Grosse Rat die Ausnahmen in einer Verordnung fest.
 
 #### Art. 62
 
@@ -793,7 +882,7 @@ beschliesst:
 
 <sup>1</sup> Den Mitgliedern des Grossen Rates werden abgegeben und sodann nach Artikel 97 der Öffentlichkeit und den Medien bekannt gegeben:
 
-- a) die parlamentarischen Vorstösse, nach ihrer Überweisung an den Staatsrat;
+- a) die parlamentarischen Vorstösse und ihre Begründung, nach ihrer Überweisung an den Staatsrat;
 - b) die Antworten auf parlamentarische Vorstösse, nachdem deren Verfasserinnen und Verfasser informiert worden sind.
 
 <sup>2</sup> Die Verfasserinnen und Verfasser der Vorstösse gelangen nicht selbst an die Medien.
@@ -846,7 +935,7 @@ beschliesst:
 
 **Jährlicher Bericht**
 
-<sup>1</sup> Der Staatsrat erstellt jedes Jahr im Rechenschaftsbericht die Liste der Vorstösse, denen er im Verlauf des Berichtsjahrs Folge gegeben hat, und macht einen kurz begründeten Bericht über den Stand der noch hängigen Motionen, Postulate und Aufträge und darüber, wie er ihnen Folge zu geben gedenkt.
+<sup>1</sup> Der Staatsrat erstellt jedes Jahr im Tätigkeitsbericht die Liste der Vorstösse, denen er im Verlauf des Berichtsjahrs Folge gegeben hat.
 
 ### 3.2.2 Motion
 
@@ -917,6 +1006,17 @@ beschliesst:
 
 <sup>4</sup> Auf begründetes Gesuch hin kann das Büro die Frist verlängern.
 
+#### Art. 75a
+
+**Verspätung bei der Umsetzung durch den Staatsrat**
+
+<sup>1</sup> Wenn der Staatsrat bis zum Ende der verlängerten Frist gemäss Artikel 75 Abs. 4 der Motion keine Folge gegeben hat, ohne dass er dafür triftige Gründe geltend machen kann:
+
+- a) gewährt das Büro dem Staatsrat eine letzte Frist oder
+- b) es beantragt, dass die Motion abgeschrieben wird.
+
+<sup>2</sup> Wenn die letzte Frist verstrichen ist, beauftragt das Büro eine Kommission, dem Grossen Rat Mittel und Wege vorzuschlagen, um das Ziel der Motion zu erreichen, oder es beantragt, dass sie abgeschrieben wird.
+
 ### 3.2.3 Postulat
 
 #### Art. 76
@@ -939,7 +1039,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Die Anfrage wird bei der Staatskanzlei eingereicht; diese übermittelt dem Sekretariat eine Kopie.
+<sup>1</sup> …
 
 <sup>2</sup> Der Staatsrat antwortet spätestens innerhalb von 2 Monaten nach der Einreichung der Anfrage.
 
@@ -949,7 +1049,7 @@ beschliesst:
 
 **Gerichtsverwaltung**
 
-<sup>1</sup> Anfragen zur Gerichtsverwaltung werden beim Justizrat eingereicht; dieser übermittelt dem Sekretariat eine Kopie.
+<sup>1</sup> Anfragen, welche die Gerichtsverwaltung betreffen, werden vom Sekretariat dem Justizrat überwiesen.
 
 <sup>2</sup> Der Justizrat antwortet spätestens innerhalb von drei Monaten nach Einreichung der Anfrage.
 
@@ -977,6 +1077,8 @@ beschliesst:
 <sup>2</sup> Das Auftragsgesuch wird von mindestens zehn Mitgliedern des Grossen Rates unterzeichnet.
 
 <sup>3</sup> Die Erheblicherklärung eines Auftrags gegen die Meinung des Staatsrats muss mit qualifiziertem Mehr (Art. 140) beschlossen werden, ausser im Fall von fehlender Konformität von Bestimmungen, die dem Veto unterstellt sind (Art. 180 Abs. 1 Bst. a).
+
+<sup>4</sup> Der Staatsrat macht spätestens 12 Monate nach der Erheblicherklärung des Auftrags einen Bericht über die Folge, die er ihm gegeben hat. Auf begründetes Gesuch hin kann das Büro diese Frist verlängern; es hört die Verfasserinnen und Verfasser des Auftrags an.
 
 ### 3.2.6 Parlamentarische Initiative
 
@@ -1035,8 +1137,9 @@ beschliesst:
 <sup>1</sup> Eine Volksmotion, die gemäss der Gesetzgebung über die Ausübung der politischen Rechte zustande gekommen ist, wird wie eine parlamentarische Motion behandelt; folgende Besonderheiten bleiben vorbehalten:
 
 - a) Das Sekretariat überweist dem Komitee der Verfasserinnen und Verfasser der Motion die Antwort des Staatsrats spätestens 8 Tage vor der Session, während der die Erheblicherklärung voraussichtlich beraten wird, und gibt die Daten dieser Session an.
+- a1) Nach Erhalt der Antwort des Staatsrats wird die Volksmotion von der Begnadigungs-, Petitions- und Volksmotionskommission geprüft, bevor das Plenum über die Erheblicherklärung debattiert.
 - b) Die Bestimmungen über die Dringlichkeit gelten nicht.
-- c) Die Verfasserinnen und Verfasser äussern sich nicht vor dem Grossen Rat oder den Kommissionen.
+- c) Die Motionärinnen und Motionäre äussern sich nicht vor dem Plenum des Grossen Rates und vor der Begnadigungs-, Petitions- und Volksmotionskommission nur auf deren Verlangen.
 
 ### 3.4 Form der Erlasse des Grossen Rates
 
@@ -1079,7 +1182,7 @@ beschliesst:
 
 **Zugang und Verbreitung**
 
-<sup>1</sup> Das Amtliche Tagblatt wird in gedruckter und in elektronischer Form erstellt. Es steht wenn möglich vor Beginn der folgenden Session zur Verfügung.
+<sup>1</sup> Das Amtliche Tagblatt wird in elektronischer Form erstellt; die Vorschriften der Gesetzgebung über die Archivierung bleiben vorbehalten. Es steht wenn möglich vor Beginn der folgenden Session zur Verfügung.
 
 <sup>2</sup> Es ist öffentlich zugänglich und wird im Internet verbreitet.
 
@@ -1107,9 +1210,11 @@ beschliesst:
 
 <sup>3</sup> Die Übermittlung und die Einsicht in Informationen, die dem Amtsgeheimnis unterliegen, kann davon abhängig gemacht werden, dass Massnahmen ergriffen werden, um die Einhaltung des Amtsgeheimnisses zu gewährleisten. Die Massnahmen können insbesondere darin bestehen, dass nur die Präsidentin oder der Präsident oder gewisse Mitglieder des Grossen Rates Zugang haben, dass anonymisierte Dokumente oder Zusammenfassungen vorgelegt werden oder dass die Zahl der Kopien begrenzt wird.
 
-<sup>4</sup> Die Präsidentin oder der Präsident des Grossen Rates kann jederzeit Dokumente des Staatsrats einsehen, die den Grossen Rat betreffen (Art. 98 Abs. 2 KV).
+<sup>4</sup> Die Präsidentin oder der Präsident des Grossen Rates kann jederzeit Dokumente des Staatsrats einsehen, die den Grossen Rat betreffen (Art. 98 Abs. 2 KV[^92-1]).
 
 <sup>5</sup> Das Recht des Staatsrats oder der betreffenden Direktion, eine nachträgliche Aufhebung des Amtsgeheimnisses zu verhindern (Art. 103 Abs. 2), bleibt vorbehalten.
+
+[^92-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 93
 
@@ -1120,6 +1225,12 @@ beschliesst:
 <sup>2</sup> Die Kantonsbehörden, die Verwaltungseinheiten und die Einrichtungen, an die öffentliche Aufgaben delegiert werden, geben die Dokumente, die für alle Mitglieder des Grossen Rates bestimmt sind, in beiden Amtssprachen ab.
 
 <sup>3</sup> Auf Verlangen einer ständigen Kommission oder des Sekretariats liefern sie auch die Übersetzung von weiteren Unterlagen, die zur Ausübung der Oberaufsicht nötig sind.
+
+#### Art. 93a
+
+**Form der Dokumente**
+
+<sup>1</sup> Die für die Mitglieder des Grossen Rates bestimmten Dokumente werden ihnen in Form von elektronischen Dateien ausgehändigt, wenn sie nicht rechtzeitig im Internet frei zugänglich sind.
 
 ### 3.5.3 Information der Öffentlichkeit und Öffentlichkeit der Sitzungen
 
@@ -1161,7 +1272,11 @@ beschliesst:
 
 <sup>1</sup> Die an alle Mitglieder des Grossen Rates verschickten Dokumente werden den akkreditierten Medien abgegeben; sie werden unverzüglich veröffentlicht, insbesondere im Internet; Artikel 90 Abs. 3 gilt sinngemäss.
 
-<sup>2</sup> Ausgenommen sind Dokumente über Begnadigungsgesuche und solche, für deren Behandlung das Büro eine geheime Beratung zu beantragen beabsichtigt; bei diesen wird der öffentliche Charakter aufgeschoben, bis der Grosse Rat über die geheime Beratung und das Ausmass der Geheimhaltung entschieden hat.
+<sup>2</sup> Ausgenommen sind:
+
+- a) Dokumente zu Begnadigungsgesuchen;
+- b) Dokumente im Zusammenhang mit einem Einbürgerungsdekret, die nicht elektronisch veröffentlicht werden;
+- c) Dokumente zu einem Geschäft, für welches das Büro beabsichtigt, die geheime Beratung zu beantragen; sie werden nicht veröffentlicht, solange der Grosse Rat nicht über die geheime Beratung und deren Umfang entschieden hat.
 
 <sup>3</sup> Im Übrigen richtet sich der Zugang der Öffentlichkeit zu den Dokumenten des Grossen Rates nach der Gesetzgebung über die Information und den Zugang zu Dokumenten.
 
@@ -1169,7 +1284,11 @@ beschliesst:
 
 **Öffentlichkeit der Beratungen – Plenarsitzungen**
 
-<sup>1</sup> Die Sitzungen des Grossen Rates sind öffentlich. Sie können über Internet und weitere Medien verbreitet werden.
+<sup>1</sup> Die Sitzungen des Grossen Rates sind öffentlich. Sie werden live über Internet verbreitet und können über weitere Medien übertragen werden.
+
+<sup>1a</sup> Die namentlichen Ergebnisse der Abstimmungen werden in die Live-Übertragung der Debatten im Internet aufgenommen; geheime Abstimmungen mit Stimmzetteln und geheime Beratungen bleiben vorbehalten. Die Einzelheiten werden falls nötig in einer Parlamentsverordnung festgelegt.
+
+<sup>1b</sup> Ist eine Internet-Übertragung aufgrund eines technischen Problems nicht möglich, so führt dies nicht zur Unterbrechung der Sitzung und beeinträchtigt die Gültigkeit der Beratungen und Beschlüsse nicht.
 
 <sup>2</sup> Die geheime Beratung, die Benützung der Tribüne durch die Öffentlichkeit und die Aufrechterhaltung von Ordnung und Sicherheit werden in den Artikeln 119 ff. geregelt.
 
@@ -1180,6 +1299,23 @@ beschliesst:
 <sup>1</sup> Die Kommissionssitzungen sind in der Regel nicht öffentlich.
 
 <sup>2</sup> Die Präsidentin oder der Präsident der Kommission oder eine dazu bezeichnete Person informiert wenn nötig über den Verlauf der Arbeiten und beantwortet die Auskunftsgesuche der Medien. Gegebenenfalls kann auch die Berichterstatterin oder der Berichterstatter der Minderheit entsprechende Informationen geben.
+
+#### Art. 99a
+
+**Einsicht in Protokolle**
+
+<sup>1</sup> Nach der Schlussabstimmung des Grossen Rates über das betreffende Geschäft, nach Ablauf der Referendumsfrist oder allenfalls nach der Volksabstimmung ist in die Kommissionsprotokolle auf Gesuch hin Einsicht zu gewähren:
+
+- a) für die Rechtsanwendung;
+- b) für wissenschaftliche Zwecke.
+
+<sup>2</sup> Für die Genehmigung der Akteneinsichtsgesuche nach Absatz 1 ist das Büro zuständig.
+
+<sup>3</sup> Wer Akteneinsicht erhält, hat die Vertraulichkeit der Akten zu wahren. Insbesondere darf aus den Protokollen nicht wörtlich zitiert und nicht bekannt gegeben werden, wie einzelne Sitzungsteilnehmerinnen und -teilnehmer Stellung genommen haben.
+
+<sup>4</sup> Die Einsichtnahme wird mit Auflagen und Bedingungen, wie die Anonymisierung von Personendaten, verknüpft.
+
+<sup>5</sup> Gegen die Verweigerung der Genehmigung der Akteneinsicht und die Auflagen und Bedingungen, an welche die genehmigte Akteneinsicht geknüpft wird, kann keine Beschwerde geführt werden.
 
 ### 3.5.4 Amtsgeheimnis
 
@@ -1244,7 +1380,7 @@ beschliesst:
 
 <sup>1</sup> Der Grosse Rat versammelt sich grundsätzlich achtmal im Jahr zu einer ordentlichen Session.
 
-<sup>2</sup> Spätestens im Juni legt das Büro die Sessionsdaten für das folgende Jahr fest; es hört vorgängig den Staatsrat an.
+<sup>2</sup> Das Büro legt die Sessionsdaten zwanzig Monate im Voraus fest; es hört vorgängig den Staatsrat an.
 
 <sup>3</sup> Im Allgemeinen dauern die Sessionen nicht länger als eine Woche, wobei jeweils von Dienstag bis Freitag täglich eine halbtätige Sitzung stattfindet.
 
@@ -1282,17 +1418,84 @@ beschliesst:
 
 <sup>4</sup> Es wird keine besondere Einladung versandt; das Sekretariat und die Fraktionspräsidentinnen und -präsidenten informieren wenn nötig die Mitglieder des Grossen Rates, die abwesend waren, als der Entscheid getroffen wurde.
 
+#### Art. 108a
+
+**Annullierung einer Session**
+
+<sup>1</sup> Wenn es aufgrund aussergewöhnlicher Umstände gerechtfertigt ist, kann das Büro eine Session annullieren:
+
+- a) auf eigene Initiative;
+- b) wenn 22 Mitglieder es beantragen;
+- c) auf Gesuch des Staatsrats.
+
+<sup>2</sup> Wenn eine Session annulliert wird, werden die Gegenstände, die in dieser Session hätten behandelt werden sollen, in der nächsten Session behandelt, es sei denn, sie sind in der Zwischenzeit gegenstandslos geworden.
+
 #### Art. 109
 
 **Konstituierende Session**
 
 <sup>1</sup> Die besonderen Bestimmungen über die konstituierende Session (Art. 39 ff.) bleiben vorbehalten.
 
+#### Art. 109a
+
+**Fernteilnahme - Grundsätze**
+
+<sup>1</sup> Grundsätzlich müssen die Mitglieder des Grossen Rates an den Sessionen physisch anwesend sein.
+
+<sup>2</sup> Der Grosse Rat kann jedoch die Fernteilnahme an einer oder mehreren ordentlichen Sessionen gestatten, wenn:
+
+- a) der Staatsrat gestützt auf Artikel 117 der Verfassung Massnahmen ergriffen hat;
+- b) die Umstände, die den Staatsrat zu diesen Massnahmen veranlasst haben, einen erheblichen Teil der Grossrätinnen und Grossräte daran hindern, physisch an den Sessionen teilzunehmen.
+
+<sup>3</sup> Nur Mitgliedern des Grossen Rates, die aufgrund der angeführten Umstände tatsächlich nicht in der Lage sind, physisch an den Sessionen teilzunehmen, und die diese Unfähigkeit nachweisen können, kann die Fernteilnahme an den Sessionen gestattet werden.
+
+#### Art. 109b
+
+**Fernteilnahme – Verfahren**
+
+<sup>1</sup> Im Falle von Massnahmen auf der Grundlage von Artikel 117 der Verfassung[^109b-1], die der Staatsrat ergreift, entscheidet das Büro, ob es dem Grossen Rat beantragen will, die Fernteilnahme zu gestatten.
+
+<sup>2</sup> Wenn das Büro beschliesst, die Fernteilnahme zu beantragen, verfasst es einen Entwurf für eine Parlamentsverordnung, in der es die Modalitäten und Voraussetzungen für die Fernteilnahme festlegt. Der Entwurf wird sofort dem Grossen Rat zur Abstimmung unterbreitet.
+
+<sup>3</sup> Das Büro entscheidet gemäss der Parlamentsverordnung über die Gesuche um Fernteilnahme der Mitglieder des Grossen Rates.
+
+[^109b-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
+
+#### Art. 109c
+
+**Fernteilnahme – Dauer der Gültigkeit**
+
+<sup>1</sup> Die Parlamentsverordnung gilt für die gesamte Dauer der ausserordentlichen Lage im Sinne von Artikel 117 der Verfassung[^109c-1], sofern die Möglichkeit einer Fernteilnahme aufgrund der Umstände weiterhin gerechtfertigt ist.
+
+<sup>2</sup> Das Büro beurteilt regelmässig die Situation und beantragt dem Grossen Rat bei Bedarf, die Parlamentsverordnung aufzuheben.
+
+[^109c-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
+
+#### Art. 109d
+
+**Fernteilnahme – Informatiksystem und Pflichten der berechtigten Mitglieder**
+
+<sup>1</sup> Das Sekretariat richtet ein Verfahren und ein System ein, mit denen die Authentifizierung der betreffenden Personen, die Sicherheit der Abstimmungen und die Vertraulichkeit der geheimen Beratungen gewährleistet werden.
+
+<sup>2</sup> Das Verfahren und das Informatiksystem müssen zuvor vom Büro bewilligt werden.
+
+<sup>3</sup> Die Mitglieder des Grossen Rates, die zur Fernteilnahme berechtigt sind, müssen alle geeigneten Massnahmen treffen, um die Sicherheit der Abstimmungen und die Vertraulichkeit der geheimen Beratungen nicht zu gefährden.
+
+#### Art. 109e
+
+**Fernteilnahme – Weitere Vorschriften**
+
+<sup>1</sup> Mitglieder des Grossen Rates, die aus der Ferne an der Sitzung teilnehmen, werden bei der Feststellung des Quorums nicht mitgezählt.
+
+<sup>2</sup> Mitglieder, die aus der Ferne teilnehmen, dürfen sich nicht beteiligen, wenn mit Sitzenbleiben und Aufstehen oder geheim mit Stimmzetteln abgestimmt wird.
+
+<sup>3</sup> Die Beratungen werden nicht unterbrochen und die Abstimmung wird nicht wiederholt, wenn ein aus der Ferne teilnehmendes Mitglied aus technischen Gründen nicht debattieren oder seine Stimme nicht abgeben kann.
+
 #### Art. 110
 
 **Vorbereitung**
 
-<sup>1</sup> Der Staatsrat informiert den Grossen Rat zweimal im Jahr darüber, welche Geschäfte er ihm im nächsten Halbjahr voraussichtlich überweisen wird; für das erste Halbjahr findet diese Information im November und für das zweite Halbjahr im Juni statt; er gibt die Session, während der er das Geschäft behandelt haben will, und die groben Linien der Planung, mit denen er dieses Ziel erreichen will, an.
+<sup>1</sup> Der Staatsrat informiert den Grossen Rat zweimal im Jahr darüber, welche Geschäfte er ihm im nächsten Halbjahr voraussichtlich überweisen wird, für das erste Halbjahr im Dezember und für das zweite Halbjahr im Juni; er gibt die Session, während der er das Geschäft behandelt haben will, an.
 
 <sup>2</sup> 13 Tage vor der Eröffnung einer Session erstellt das Sekretariat auf Grund der Anträge, Berichte und anderer Mitteilungen von den Kommissionen, vom Staatsrat und von anderen Behörden die provisorische Liste der Verhandlungsgegenstände.
 
@@ -1328,7 +1531,7 @@ beschliesst:
 
 <sup>2</sup> Für die Geschäfte, die nach dem schriftlichen Verfahren behandelt werden, wird keine Diskussion eröffnet, und die Kommission erstattet schriftlich Bericht.
 
-<sup>3</sup> Die Berichterstatterinnen und Berichterstatter und die Regierungsvertreterinnen und Regierungsvertreter können jedoch zu jedem Geschäft das Wort verlangen.
+<sup>3</sup> Die Berichterstatterinnen und Berichterstatter und die Person, welche die Regierung vertritt, können jedoch zu jedem Geschäft das Wort verlangen.
 
 #### Art. 114
 
@@ -1364,6 +1567,14 @@ beschliesst:
 
 <sup>3</sup> Das zusammenfassende Protokoll muss die wesentlichen Ideen, die in den Voten geäussert wurden, wiedergeben. Sobald es ins Reine geschrieben ist, wird es dem Büro auf dem Zirkulationsweg zur Genehmigung vorgelegt.
 
+#### Art. 116a
+
+**Protokolle der Verhandlungen – Veröffentlichung von audiovisuellen Aufzeichnungen**
+
+<sup>1</sup> Die audiovisuellen Aufzeichnungen der Sitzungen des Grossen Rates werden in Form von indexierten Dokumenten veröffentlicht und sind frei zugänglich.
+
+<sup>2</sup> Die audiovisuellen Aufzeichnungen der Sitzungen des Grossen Rates werden regelmässig dem Staatsarchiv übergeben, das für ihre dauerhafte Aufbewahrung sorgt.
+
 #### Art. 117
 
 **Sitzungsjournal**
@@ -1371,7 +1582,7 @@ beschliesst:
 <sup>1</sup> Das Sekretariat führt von jeder Sitzung ein Journal, in dem direkt oder in Form einer Beilage folgende Elemente angegeben werden:
 
 - a) der Name der Präsidentin oder des Präsidenten;
-- b) die Liste der Mitglieder, die zu Beginn der Sitzung anwesend, abwesend oder entschuldigt sind;
+- b) die Liste der zu Beginn der Sitzung anwesenden, abwesenden oder entschuldigten Mitglieder und gegebenenfalls der Mitglieder, die aus der Ferne teilnehmen;
 - c) die Verhandlungsgegenstände;
 - d) die Anträge der Kommissionen;
 - e) die Namen der Rednerinnen und Redner und gegebenenfalls ihre Anträge und Änderungsanträge;
@@ -1500,7 +1711,7 @@ beschliesst:
 
 **Änderungsantrag – Form**
 
-<sup>1</sup> Der Änderungsantrag wird schriftlich formuliert und unterzeichnet der Präsidentin oder dem Präsidenten abgegeben, bevor er begründet wird. Das Büro kann bewilligen, dass er in elektronischer Form abgegeben wird.
+<sup>1</sup> Der Änderungsantrag wird schriftlich formuliert und der Präsidentin oder dem Präsidenten grundsätzlich elektronisch übermittelt, bevor er begründet wird.
 
 <sup>2</sup> Er ist vollständig abzufassen und mit der entsprechenden Nummer des Artikels und des Absatzes zu versehen. Der Artikel oder Absatz wird vollständig wiedergegeben.
 
@@ -1536,6 +1747,8 @@ beschliesst:
 
 <sup>2</sup> Der Text des Entwurfs, der dem Grossen Rat unterbreitet wurde, wird zuletzt dem Änderungsantrag gegenübergestellt, der über alle anderen obsiegt hat.
 
+<sup>3</sup> Stimmt der Staatsrat einem neuen Änderungsantrag zu, so wird dieser dem Änderungsantrag, der gegen alle anderen obsiegt hat, gegenübergestellt.
+
 #### Art. 134
 
 **Verfahren – Grundsätze**
@@ -1545,6 +1758,8 @@ beschliesst:
 <sup>2</sup> Bei den geheimen Beratungen wird durch Sitzenbleiben und Aufstehen ohne Namensaufruf abgestimmt, wenn nicht mit einem Ordnungsantrag etwas anderes verlangt wird. Die geheime Abstimmung mit Stimmzetteln bleibt vorbehalten.
 
 <sup>3</sup> Die geheime Abstimmung wird nur in den Fällen durchgeführt, die ausdrücklich in der Gesetzgebung über den Grossen Rat vorgesehen sind.
+
+<sup>4</sup> Die namentlichen Ergebnisse der Abstimmungen im Grossen Rat werden auf geeignete Weise im Internet veröffentlicht; geheime Abstimmungen bleiben vorbehalten. Die Einzelheiten werden falls nötig in einer Parlamentsverordnung festgelegt.
 
 #### Art. 135
 
@@ -1626,9 +1841,11 @@ beschliesst:
 <sup>3</sup> Es erhalten das Wort:
 
 - a) die Berichterstatterin oder der Berichterstatter der Kommission;
-- b) die Regierungsvertreterin oder der Regierungsvertreter;
+- b) die Person, welche die Regierung vertritt;
 - c) die Fraktionssprecherinnen und -sprecher;
-- d) die Mitglieder des Grossen Rates, die einen Nichteintretens- oder einen Rückweisungsantrag eingereicht haben.
+- d) die Mitglieder des Grossen Rates, die einen Nichteintretens- oder einen Rückweisungsantrag eingereicht haben;
+- e) im Falle eines Votums nach den Buchstaben c und d wiederum die Person, welche die Regierung vertritt; diese gibt zu diesem Zeitpunkt bekannt, ob die Regierung mit dem Antrag eines Mitglieds des Grossen Rates einverstanden ist;
+- f) die Berichterstatterin oder der Berichterstatter der Kommission bei einem Votum nach den voranstehenden Buchstaben.
 
 <sup>4</sup> Wurde Eintreten beschlossen, so ist dieser Beschluss endgültig; es können keine Rückweisungs- oder Rückzugsanträge für den Entwurf als Ganzes mehr gestellt werden. Der Grosse Rat kann bei der Detailberatung indessen jederzeit einen Titel, ein Kapitel, einen Abschnitt oder einen Artikel zu nochmaliger Prüfung und neuem Antrag an die Kommission oder an den Staatsrat zurückweisen.
 
@@ -1638,11 +1855,11 @@ beschliesst:
 
 **Vorgehen bei der Beratung**
 
-<sup>1</sup> Wurde Eintreten beschlossen, so geht der Entwurf in die Detailberatung, die artikelweise erfolgt; die absatzweise Lesung gewisser Artikel kann von der Präsidentin oder vom Präsidenten beschlossen und von der Berichterstatterin oder vom Berichterstatter, von der Regierungsvertreterin oder vom Regierungsvertreter oder mit einem Ordnungsantrag verlangt werden. Auf Antrag der Präsidentin oder des Präsidenten kann der Entwurf oder ein Teil davon auch kapitelweise oder abschnittweise beraten werden.
+<sup>1</sup> Wurde Eintreten beschlossen, so geht der Entwurf in die Detailberatung, die grundsätzlich artikelweise erfolgt; die absatzweise Lesung gewisser Artikel kann von der Präsidentin oder vom Präsidenten beschlossen oder von der Berichterstatterin oder vom Berichterstatter, von der Person, welche die Regierung vertritt, oder mit einem Ordnungsantrag verlangt werden. Auf Antrag der Präsidentin oder des Präsidenten kann der Entwurf oder ein Teil davon auch kapitelweise oder abschnittweise beraten werden.
 
-<sup>2</sup> Die Beratung wird von der Berichterstatterin oder dem Berichterstatter der Kommission und von der Regierungsvertreterin oder vom Regierungsvertreter eingeleitet. Nachher verläuft die Beratung gemäss der gewählten Art der Behandlung.
+<sup>2</sup> Die Beratung wird von der Berichterstatterin oder dem Berichterstatter der Kommission und von der Person, welche die Regierung vertritt, eingeleitet. Nachher verläuft die Beratung gemäss der gewählten Art der Behandlung.
 
-<sup>3</sup> Zum Schluss der Diskussion nehmen die Berichterstatterin oder der Berichterstatter und die Regierungsvertreterin oder der Regierungsvertreter kurz zu den Voten Stellung. Ein Mitglied des Grossen Rates kann nur noch das Wort ergreifen, um eine seine Person betreffende oder eine falsche Tatsache richtig zu stellen, es hat sich dabei aber genau an diese Tatsachen zu halten.
+<sup>3</sup> Zum Schluss der Diskussion nehmen die Person, welche die Regierung vertritt, und dann die Berichterstatterin oder der Berichterstatter kurz zu den Voten Stellung. Ein Mitglied des Grossen Rates kann nur noch das Wort ergreifen, um eine seine Person betreffende oder falsche Tatsache richtig zu stellen.
 
 <sup>4</sup> Nach Abschluss der artikelweisen Beratung eröffnet die Präsidentin oder der Präsident nach den gleichen Modalitäten die Diskussion über Titel, Ingress und allfällige Erwägungen.
 
@@ -1650,13 +1867,13 @@ beschliesst:
 
 **Berichterstatterin und Berichterstatter**
 
-<sup>1</sup> Stimmen die Anträge der Kommission und des Staatsrates überein und ist die Kommission einstimmig, so verzichtet die Berichterstatterin oder der Berichterstatter darauf, diese Anträge zu kommentieren. Die Regierungsvertreterin oder Regierungsvertreter kann indessen das Wort verlangen.
+<sup>1</sup> Stimmen die Anträge der Kommission und des Staatsrates überein und ist sich die Kommission einig, so verzichtet die Berichterstatterin oder der Berichterstatter darauf, diese Anträge zu kommentieren. Die Person, welche die Regierung vertritt, kann indessen das Wort verlangen.
 
 <sup>2</sup> In den übrigen Fällen begründet die Berichterstatterin oder der Berichterstatter kurz die Anträge der Kommission. Sie oder er stellt auch die Anträge der Minderheit vor, wenn diese nicht selbst eine Person dafür bezeichnet hat.
 
 <sup>3</sup> Die Berichterstatterinnen und Berichterstatter haben das Recht, ihre persönliche Meinung zu vertreten. Vertreten sie ihre eigene Meinung, so teilen sie mit, dass sie nicht im Namen der Kommission oder der Kommissionsminderheit sprechen.
 
-### 3.7.3.3 Redaktionskommission und Schlussabstimmung
+### 3.7.3.3 Redaktionskommission, Schlussabstimmung und Bereinigung des Textes
 
 #### Art. 145
 
@@ -1664,7 +1881,7 @@ beschliesst:
 
 <sup>1</sup> Die Erlasse, die veröffentlicht werden, können vor der Schlussabstimmung einer Redaktionskommission vorgelegt werden.
 
-<sup>2</sup> Die Redaktionskommission setzt sich zusammen aus der Berichterstatterin oder dem Berichterstatter der Kommission, die das Geschäft behandelt hat, der Regierungsvertreterin oder dem Regierungsvertreter und zwei oder drei Mitgliedern der betreffenden Kommission; beide Amtssprachen sind vertreten. Sie sichert sich die Mitarbeit der betreffenden Verwaltungsstellen.
+<sup>2</sup> Die Redaktionskommission setzt sich zusammen aus der Berichterstatterin oder dem Berichterstatter der Kommission, die das Geschäft behandelt hat, der Person, welche die Regierung vertritt, und zwei oder drei Mitgliedern der betreffenden Kommission; beide Amtssprachen sind vertreten. Sie sichert sich die Mitarbeit der betreffenden Verwaltungsstellen.
 
 <sup>3</sup> Sie kann keinesfalls den Inhalt der gefassten Beschlüsse ändern.
 
@@ -1675,6 +1892,12 @@ beschliesst:
 <sup>1</sup> Der Grosse Rat stimmt über den gesamten Entwurf ab, wie er aus der Detailberatung hervorgegangen ist und der allfällige von der Redaktionskommission angebrachte Korrekturen enthält.
 
 <sup>2</sup> Der Erlass trägt das Datum der Schlussabstimmung.
+
+#### Art. 146a
+
+**Bereinigung des Texts**
+
+<sup>1</sup> Das Sekretariat bereinigt den vom Grossen Rat verabschiedeten Text und leitet ihn an das zuständige Organ weiter, damit er gemäss der einschlägigen Gesetzgebung veröffentlicht werden kann.
 
 ### 3.7.3.4 Dem Referendum unterstehende Erlasse
 
@@ -1694,11 +1917,11 @@ beschliesst:
 
 **Zusätzliche Lesungen – Abstand zwischen den Lesungen**
 
-<sup>1</sup> Die Lesungen eines Entwurfs für Verfassungsbestimmungen oder für ein neues Gesetz müssen zwingend in verschiedenen Sitzungen stattfinden.
+<sup>1</sup> Die Lesungen eines Entwurfs für Verfassungsbestimmungen müssen zwingend in verschiedenen Sitzungen stattfinden.
 
-<sup>2</sup> Die Lesungen eines neuen Gesetzes können aber unmittelbar hintereinander stattfinden, wenn es nach der ersten Lesung keine Differenzen zwischen dem Staatsrat und der Kommission gibt. Die Prüfung von dringlichen Erlassen bleibt ausserdem vorbehalten.
+<sup>2</sup> …
 
-<sup>3</sup> Für andere Bestimmungen als Verfassungsänderungen und neue Gesetze kann mit einem Ordnungsantrag ein zeitlicher Abstand zwischen den Lesungen gefordert werden.
+<sup>3</sup> Für andere Bestimmungen als Verfassungsänderungen kann mit einem Ordnungsantrag ein zeitlicher Abstand zwischen den Lesungen gefordert werden.
 
 #### Art. 149
 
@@ -1710,13 +1933,17 @@ beschliesst:
 
 **Dringliche Erlasse**
 
-<sup>1</sup> Der Entscheid, einen Erlass als dringlich zu erklären (Art. 92 KV) muss mit qualifiziertem Mehr getroffen werden (Art. 140).
+<sup>1</sup> Der Entscheid, einen Erlass als dringlich zu erklären (Art. 92 KV[^150-1]) muss mit qualifiziertem Mehr getroffen werden (Art. 140).
 
 <sup>2</sup> Dieser Entscheid wird in einem eigenen Artikel erwähnt.
 
-<sup>3</sup> Die Gültigkeitsdauer eines dringlichen Gesetzes ist gemäss der Verfassung und dem Gesetz über die Ausübung der politischen Rechte beschränkt.
+<sup>3</sup> Die Gültigkeitsdauer eines dringlichen Gesetzes ist gemäss der Verfassung[^150-2] und dem Gesetz über die Ausübung der politischen Rechte[^150-3] beschränkt.
 
 <sup>4</sup> Wenn nötig gelten ausserdem die Bestimmungen über das beschleunigte Verfahren (Art. 174 und 175).
+
+[^150-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
+[^150-2]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
+[^150-3]: SGF [115.1](https://bdlf.fr.ch/data/115.1/de)
 
 ### 3.7.4 Die übrigen Beschlüsse des Grossen Rates
 
@@ -1749,7 +1976,7 @@ beschliesst:
 - c) die Präsidentin oder der Präsident des Staatsrats;
 - d) die Präsidentin oder der Präsident des Kantonsgerichts;
 - e) …
-- f) die Richterinnen und Richter im Sinne von Artikel 4 Abs. 1 des Justizgesetzes vom 31. Mai 2010;
+- f) die Richterinnen und Richter im Sinne von Artikel 4 Abs. 1 des Justizgesetzes vom 31. Mai 2010[^153-1];
 - g) die Generalsekretärin oder der Generalsekretär des Grossen Rates;
 - h) die Mitglieder des Justizrates.
 
@@ -1757,7 +1984,11 @@ beschliesst:
 
 <sup>3</sup> In den folgenden Wahlgängen können nur Personen gewählt werden, die im zweiten Wahlgang Stimmen erhalten haben; bei jedem Wahlgang scheidet die Person mit der geringsten Stimmenzahl aus. Die Namen der Personen, die noch wählbar sind, werden vor jedem Wahlgang von der Präsidentin oder vom Präsidenten verlesen.
 
-<sup>4</sup> Nach jedem Wahlgang bietet die Präsidentin oder der Präsident den Fraktionen die Gelegenheit, sich kurz durch eine Sprecherin oder einen Sprecher zu äussern.
+<sup>4</sup> Vor jedem Wahlgang bietet die Präsidentin oder der Präsident den Fraktionen die Gelegenheit, sich kurz durch eine Sprecherin oder einen Sprecher zu äussern.
+
+<sup>5</sup> Gewählt ist die Person, die im ersten oder zweiten Wahlgang das absolute Mehr erreicht.
+
+[^153-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 154
 
@@ -1774,6 +2005,8 @@ beschliesst:
 <sup>5</sup> Nach jedem Wahlgang bietet die Präsidentin oder der Präsident allen Fraktionen die Gelegenheit, sich kurz durch eine Sprecherin oder einen Sprecher zu äussern.
 
 <sup>6</sup> Haben in einem Wahlgang mehr Kandidatinnen und Kandidaten das absolute Mehr erreicht, als Sitze zu besetzen sind, so sind nach Massgabe der zu besetzenden Sitze die Personen mit den meisten Stimmen gewählt.
+
+<sup>7</sup> Die Absätze 1-6 gelten auch, wenn nur ein Sitz zu besetzen ist.
 
 #### Art. 155
 
@@ -1801,8 +2034,8 @@ beschliesst:
 
 - a) die unleserlichen oder zweideutigen Stimmzettel;
 - b) die Stimmzettel, die einen von der Bezeichnung der Kandidatin oder des Kandidaten abweichenden Vermerk enthalten;
-- c) die zugunsten einer nicht wählbaren Person abgegebenen Stimmen;
-- d) die leeren Stimmzettel.
+- c) die zugunsten einer nicht wählbaren Person abgegebenen Stimmen.
+- d) …
 
 <sup>2</sup> Enthält ein Listenstimmzettel mehr Namen, als Personen zu wählen sind, so werden die zuunterst stehenden Namen von den Stimmenzählerinnen und Stimmenzählern gestrichen.
 
@@ -1957,10 +2190,12 @@ beschliesst:
 
 **Fälle**
 
-<sup>1</sup> Die Immunität eines Mitglieds des Grossen Rates und des Staatsrats (Art. 89 KV) kann nur aufgehoben werden, wenn dieses Mitglied:
+<sup>1</sup> Die Immunität eines Mitglieds des Grossen Rates und des Staatsrats (Art. 89 KV[^172-1]) kann nur aufgehoben werden, wenn dieses Mitglied:
 
 - a) sein Amt dazu missbraucht, eine Straftat zu begehen, oder
 - b) das Amtsgeheimnis schwer wiegend verletzt oder sich bei einer solchen Verletzung der Mithilfe schuldig macht.
+
+[^172-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 173
 
@@ -2075,11 +2310,13 @@ beschliesst:
 
 <sup>2</sup> Die Untersuchungskommission kann insbesondere Auskunftspersonen befragen, Zeugen einvernehmen und von den Behörden, Behördenmitgliedern, Verwaltungseinheiten, Mitarbeiterinnen und Mitarbeitern des Staates und Privatpersonen Auskünfte und Unterlagen verlangen sowie Expertenberichte bestellen und einen Augenschein durchführen.
 
-<sup>3</sup> Die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege über die Feststellung des Sachverhalts, die Beweiserhebung, den Ausstand und die vorsorglichen Massnahmen gelten sinngemäss, es sei denn, dieses Gesetz enthalte nähere Bestimmungen. Ausserdem gelten die Artikel 292 und 309 des Schweizerischen Strafgesetzbuches.
+<sup>3</sup> Die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege über die Feststellung des Sachverhalts, die Beweiserhebung, den Ausstand und die vorsorglichen Massnahmen gelten sinngemäss, es sei denn, dieses Gesetz enthalte nähere Bestimmungen. Ausserdem gelten die Artikel 292 und 309 des Schweizerischen Strafgesetzbuches[^183-1].
 
 <sup>4</sup> Bevor eine Person angehört wird, muss festgelegt werden, ob sie als Auskunftsperson, als Zeugin oder Zeuge oder als Expertin oder Experte befragt wird. Wenn die Untersuchung sich ausschliesslich oder hauptsächlich gegen eine bestimmte Person richtet, kann diese nur als Auskunftsperson angehört werden.
 
 <sup>5</sup> Die Mitglieder der Untersuchungskommission und alle anderen Personen, die an der Untersuchung beteiligt sind, unterstehen dem Amtsgeheimnis.
+
+[^183-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 184
 
@@ -2091,7 +2328,7 @@ beschliesst:
 
 <sup>3</sup> Die Kommission kann für die Personen, deren Interessen von der Untersuchung unmittelbar berührt werden, das Recht, an den Anhörungen teilzunehmen und die Unterlagen einzusehen, einschränken oder verweigern, wenn dies im Interesse der laufenden Untersuchung liegt. In diesem Fall darf sich die Kommission nur auf die entsprechenden Beweismittel stützen, wenn den Betroffenen der wesentliche Inhalt mitgeteilt und ihnen die Möglichkeit gegeben wurde, sich dazu zu äussern und andere Beweise vorzubringen.
 
-<sup>4</sup> Nach Abschluss der Ermittlungen und vor der Berichterstattung an den Grossen Rat haben die Personen, an die Vorwürfe gerichtet werden, das Recht, sich vor der Untersuchungskommission zu äussern. Die wesentlichen Punkte ihrer Stellungnahme müssen im Bericht enthalten sein.
+<sup>4</sup> Nach Abschluss der Ermittlungen und vor der Berichterstattung an den Grossen Rat haben die Personen, an die Vorwürfe gerichtet werden, das Recht, sich vor der Untersuchungskommission auch zu den Schlussanträgen, die sie betreffen, zu äussern. Die wesentlichen Punkte ihrer Stellungnahme müssen im Bericht enthalten sein.
 
 #### Art. 185
 
@@ -2105,7 +2342,7 @@ beschliesst:
 
 **Rechte des Staatsrats**
 
-<sup>1</sup> Der Staatsrat und seine Mitglieder verfügen über die Rechte nach Artikel 184. Sie können sich vertreten lassen.
+<sup>1</sup> Der Staatsrat und seine Mitglieder verfügen über die Rechte nach Artikel 184 Abs. 2. Sie können sich vertreten lassen.
 
 <sup>2</sup> Der Staatsrat und seine Mitglieder haben das Recht, sich zu den Ergebnissen der Untersuchung vor der Kommission und in einem Bericht an den Grossen Rat zu äussern.
 
@@ -2131,6 +2368,16 @@ beschliesst:
 
 <sup>5</sup> Auf Ersuchen der beschwerdeführenden Partei muss das Urteil des Kantonsgerichts in einer Sitzung des Grossen Rates vollständig oder teilweise öffentlich gemacht werden.
 
+### 4.5 Nachhaltigkeit
+
+#### Art. 188a
+
+**CO2-Fussabdruck**
+
+<sup>1</sup> Mindestens einmal pro Legislaturperiode wird der CO2-Fussabdruck des Grossen Rates erhoben.
+
+<sup>2</sup> Das Kantonsparlament strebt die CO2-Neutralität an.
+
 ## 5 Beziehungen zur vollziehenden Gewalt
 
 ### 5.1 Stellung des Staatsrats gegenüber dem Grossen Rat
@@ -2139,9 +2386,11 @@ beschliesst:
 
 **Im Allgemeinen**
 
-<sup>1</sup> Gemäss der Verfassung steht der Staatsrat unter der Oberaufsicht des Grossen Rates und ist ihm gegenüber verantwortlich.
+<sup>1</sup> Gemäss der Verfassung[^189-1] steht der Staatsrat unter der Oberaufsicht des Grossen Rates und ist ihm gegenüber verantwortlich.
 
 <sup>2</sup> Der Staatsrat verfügt über ein eigenes Initiativrecht und bereitet die Erlassentwürfe zuhanden des Grossen Rates vor, ausser wenn damit einer parlamentarischen Initiative Folge gegeben wird.
+
+[^189-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 190
 
@@ -2158,15 +2407,19 @@ beschliesst:
 - g) Er kann sich zur Einsetzung einer Untersuchungskommission und zu den Schlussfolgerungen der Untersuchung äussern.
 - h) Er kann in einem Zuständigkeitskonflikt mit der richterlichen Gewalt an den Grossen Rat gelangen.
 
-<sup>2</sup> Die Mitglieder des Staatsrates geniessen Immunität für ihre Äusserungen vor dem Grossen Rat oder dessen Organen (Art. 89 KV). Die Immunität kann in den Fällen und nach den Verfahren gemäss den Artikeln 172 und 173 dieses Gesetzes aufgehoben werden.
+<sup>2</sup> Die Mitglieder des Staatsrates geniessen Immunität für ihre Äusserungen vor dem Grossen Rat oder dessen Organen (Art. 89 KV[^190-1]). Die Immunität kann in den Fällen und nach den Verfahren gemäss den Artikeln 172 und 173 dieses Gesetzes aufgehoben werden.
+
+[^190-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 191
 
 **Vertretung und Unterstützung**
 
-<sup>1</sup> Mit dem Einverständnis der Kommissionspräsidentin oder des Kommissionspräsidenten kann sich die Regierungsvertreterin oder der Regierungsvertreter in den Kommissionssitzungen ausnahmsweise von der Generalsekretärin oder vom Generalsekretär der betreffenden Direktion oder einem anderen Mitglied des höheren Kaders vertreten lassen.
+<sup>1</sup> Im Allgemeinen wird die Regierung von der Direktionsvorsteherin oder vom Direktionsvorsteher, die oder der für das betreffende Geschäft zuständig ist, oder, für Angelegenheiten der Staatskanzlei, von der Staatskanzlerin oder vom Staatskanzler vertreten. Der Staatsrat kann jedoch beschliessen, sich von einem anderen seiner Mitglieder vertreten zu lassen.
 
-<sup>2</sup> Die Regierungsvertreterin oder der Regierungsvertreter kann sich an den Kommissionssitzungen von den Mitarbeiterinnen und Mitarbeitern begleiten lassen, die mit der technischen Betreuung des Entwurfs beauftragt sind.
+<sup>1a</sup> Mit dem Einverständnis der Kommissionspräsidentin oder des Kommissionspräsidenten kann sich die Person, welche die Regierung vertritt, in den Kommissionssitzungen von der Generalsekretärin oder vom Generalsekretär der betreffenden Direktion oder einem anderen Mitglied des höheren Kaders vertreten lassen.
+
+<sup>2</sup> Die Person, welche die Regierung vertritt, kann sich an den Kommissionssitzungen von den Mitarbeiterinnen und Mitarbeitern, die mit der technischen Betreuung des Entwurfs beauftragt sind, begleiten lassen.
 
 <sup>3</sup> Ausserdem bleibt die Teilnahme der Staatskanzlerin oder des Staatskanzlers an den Sitzungen des Büros (Art. 5 Abs. 5) vorbehalten.
 
@@ -2215,7 +2468,7 @@ beschliesst:
 
 **Rederecht**
 
-<sup>1</sup> Die Regierungsvertreterin oder der Regierungsvertreter spricht in der Regel unmittelbar nach der Berichterstatterin oder dem Berichterstatter der Kommission und hat ein ähnliches Rederecht.
+<sup>1</sup> Die Person, welche die Regierung vertritt, spricht unmittelbar nach der Berichterstatterin oder dem Berichterstatter der Kommission und hat ein ähnliches Rederecht.
 
 #### Art. 196
 
@@ -2251,9 +2504,11 @@ beschliesst:
 
 <sup>1</sup> Die Vorbereitung, das Unterbreiten und der Erlass der Entwürfe für den Staatsvoranschlag und die Staatsrechnung sowie die Erarbeitung und die Nachführung des Finanzplans werden in der Gesetzgebung über den Finanzhaushalt des Staates geregelt.
 
-<sup>2</sup> Sofort nach dem Erlass des jährlichen Dekrets zur Genehmigung der Staatsrechnung veröffentlicht der Staatsrat in einer Verordnung die massgebenden Beträge für die Finanzreferenden (Art. 45 und 46 KV) und für das qualifizierte Mehr in Finanzangelegenheiten (Art. 141 Abs. 2).
+<sup>2</sup> Sofort nach dem Erlass des jährlichen Dekrets zur Genehmigung der Staatsrechnung veröffentlicht der Staatsrat in einer Verordnung die massgebenden Beträge für die Finanzreferenden (Art. 45 und 46 KV[^198-1]) und für das qualifizierte Mehr in Finanzangelegenheiten (Art. 141 Abs. 2).
 
 <sup>3</sup> Der Staatsrat legt einmal jährlich eine zusammenfassende Tabelle mit den finanziellen und personellen Folgen der Beschlüsse des Grossen Rates vor.
+
+[^198-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 ## 5a Beziehungen zur Justiz
 
@@ -2271,17 +2526,31 @@ beschliesst:
 
 #### Art. 199
 
-**Übergangsrecht**
-
-<sup>1</sup> Dieses Gesetz gilt vorzeitig für die Handlungen für die Legislaturperiode 2007–2011, insbesondere für die konstituierende Session im Dezember 2006; mit Ausnahme der Bestimmungen über die Entschädigungen.
-
-<sup>2</sup> Es gilt für die laufenden Gesetzgebungsverfahren und für die Behandlung der hängigen parlamentarischen Vorstösse. Das Büro oder der Grosse Rat können aber bestimmte Geschäfte nach dem alten Recht abschliessen, wenn besondere Umstände es rechtfertigen.
+**…**
 
 #### Art. 200
 
-**Anpassung des bestehenden Rechts**
+**…**
 
-<sup>1</sup> Wenn die bestehende Gesetzgebung den Erlass eines Dekrets allgemeinverbindlicher Natur vorschreibt, nimmt der Erlass die Form eines Gesetzes an.
+#### Art. 200a
+
+**Änderung vom 13.10.2022 - Frist für die Umsetzung**
+
+<sup>1</sup> Innerhalb eines Jahres nach Inkrafttreten der Änderung vom 13.10.2022 dieses Gesetzes:
+
+- a) erlässt der Grosse Rat eine Parlamentsverordnung, in der die Zahl der Mitglieder der Finanz- und Geschäftsprüfungskommission und der Kommission für auswärtige Angelegenheiten festgelegt wird, und bildet allenfalls die beiden Kommissionen neu;
+- b) bildet der Grosse Rat die Begnadigungs-, Petitions- und Volksmotionskommission;
+- c) wählt der Grosse Rat die stellvertretenden Mitglieder für die ständigen Kommissionen.
+
+#### Art. 200b
+
+**Anwendbares Recht**
+
+<sup>1</sup> Ordentliche Kommissionen, die vor dem Inkrafttreten der Änderung vom 13.10.2022 gebildet wurden, unterliegen bis zu ihrer Auflösung weiterhin dem alten Recht.
+
+<sup>2</sup> Das alte Recht gilt auch für die ständigen Kommissionen in Bezug auf ihre Bezeichnung, ihre Aufgaben und die Ernennung ihrer Mitglieder, solange der Grosse Rat die Handlungen nach Artikel 200a Abs. 1 Bst. a und b nicht ausgeführt hat.
+
+<sup>3</sup> Die Änderung vom 13.10.2022 dieses Gesetzes gilt ab dem Zeitpunkt ihres Inkrafttretens für laufende Gesetzgebungsverfahren und für die Behandlung hängiger parlamentarischer Vorstösse. Das Büro oder der Grosse Rat können aber bestimmte Geschäfte nach dem alten Recht abschliessen, wenn besondere Umstände es rechtfertigen.
 
 ### 6.2 Aufhebung bisherigen Rechts
 
@@ -2358,6 +2627,11 @@ beschliesst:
 
 <sup>1</sup> Der Grosse Rat kann in einer Parlamentsverordnung die Einzelheiten seiner Organisation und seiner Arbeitsweise genauer regeln.
 
+<sup>2</sup> Ausserdem trifft er auf dem Wege der Parlamentsverordnung die Massnahmen, die geeignet und notwendig sind, um den Schutz der verarbeiteten Daten, die Vertraulichkeit nicht öffentlicher Sitzungen und die Informationssicherheit zu gewährleisten. In diesem Zusammenhang sorgt er insbesondere dafür, dass Folgendes gewährleistet ist:
+
+- a) die Authentifizierung der betroffenen Personen im Falle einer Fernteilnahme oder der Verwendung der elektronischen Form;
+- b) die Sicherheit der Abstimmungen.
+
 #### Art. 210
 
 **Inkrafttreten**
@@ -2405,7 +2679,7 @@ beschliesst:
 
 <sup>1</sup> Die Entschädigung, die jeder Fraktion ausgerichtet wird, wird wie folgt festgelegt:
 
-- a) Grundbetrag: Fr. 5700
+- a) Grundbeitrag: Fr. 37'700
 - b) Betrag pro Fraktionsmitglied: Fr. 260
 
 2006\_099
