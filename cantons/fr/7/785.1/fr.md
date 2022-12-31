@@ -4,13 +4,12 @@ number: "785.1"
 title: "Loi d'application de la législation fédérale sur la navigation intérieure"
 short: LALNI
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-06
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1991-02-07
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/785.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7208/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7594/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Navigation intérieure – L
 
 (LALNI)
 
-du 07.02.1991 (version entrée en vigueur le 01.01.2022)
+du 07.02.1991 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -82,7 +81,7 @@ Décrète:
 <sup>1</sup> Le Service de l'environnement a les attributions suivantes:
 
 - a) il veille au maintien de la navigabilité sur les voies d'eau (art. 5 al. 1 LNI);
-- b) il fait placer et entretient les signaux nécessaires, y compris les signaux d'avis de tempête (art. 5 al. 1 LNI; art. 36 al. 2 ONI);
+- b) …
 - c) il délivre les autorisations pour l'exploitation d'installations portuaires, d'installations de transbordement et de débarcadères (art. 8 al. 1 LNI).
 
 #### Art. 5

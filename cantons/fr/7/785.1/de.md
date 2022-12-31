@@ -4,13 +4,12 @@ number: "785.1"
 title: Ausführungsgesetz zur Bundesgesetzgebung über die Binnenschifffahrt
 short: AGBSG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-06
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1991-02-07
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/785.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7208/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7594/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Binnenschifffahrt – G
 
 (AGBSG)
 
-vom 07.02.1991 (Fassung in Kraft getreten am 01.01.2022)
+vom 07.02.1991 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -82,7 +81,7 @@ beschliesst:
 <sup>1</sup> Das Amt für Umwelt hat folgende Befugnisse:
 
 - a) Es sorgt dafür, dass die öffentlichen Gewässer schiffbar bleiben (Art. 5 Abs. 1 BSG).
-- b) Es lässt die erforderlichen Signale, einschliesslich der Sturmwarnsignale, anbringen und unterhält sie (Art. 5 Abs. 1 BSG, Art. 36 Abs. 2 BSV).
+- b) …
 - c) Es erteilt die Bewilligungen für den Betrieb von Hafen-, Umschlags- und Landungsanlagen (Art. 8 Abs. 1 BSG).
 
 #### Art. 5
