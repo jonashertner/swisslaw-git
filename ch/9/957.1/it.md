@@ -4,11 +4,11 @@ title: "Legge federale del 3 ottobre 2008 sui titoli contabili (Legge sui titoli
 short: LTCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: it
-version: 2021-02-01
+version: 2023-01-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2009-450-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-450-20230101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/it"
 
 (Legge sui titoli contabili, LTCo)
 
-del 3 ottobre 2008 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
+del 3 ottobre 2008 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 98 capoverso 1 e 122 capoverso 1 della Costituzione federale[
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)
 
 ## Capitolo 1: Scopo, campo d’applicazione e definizioni
@@ -44,7 +44,11 @@ decreta:
 
 <sup>1</sup> La presente legge si applica ai titoli contabili che un ente di custodia ha accreditato su un conto titoli.
 
+<sup>1bis</sup> L’articolo 31 capoverso 2 è applicabile, alle condizioni di cui all’articolo 31 capoverso 1, ai titoli contabili affidati a un ente di custodia in Svizzera o all’estero, anche se la loro custodia è retta dal diritto estero.[^2-1]
+
 <sup>2</sup> La presente legge lascia impregiudicate le disposizioni concernenti l’iscrizione di azioni nominative nel registro delle azioni.
+
+[^2-1]: Introdotto dall’all. n. 8 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 3
 
@@ -83,17 +87,17 @@ Sono considerati enti di custodia:
 
 <sup>3</sup> Sono considerati enti di custodia, sempre che gestiscano conti titoli nel quadro della loro attività, anche le banche estere, le società di intermediazione mobiliare estere e altri istituti finanziari esteri come pure gli enti di custodia centrali esteri.[^4-12]
 
-[^4-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^4-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^4-2]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^4-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^4-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^4-4]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4-5]: Nuovo testo giusta l’all. n. 14 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^4-6]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-6]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^4-7]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^4-8]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^4-8]: [RS 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
 [^4-9]: Introdotta dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^4-10]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^4-11]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-10]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^4-11]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^4-12]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
@@ -111,7 +115,7 @@ Nella presente legge sono considerati:
 - g.[^5-2] *diritti valori semplici*: diritti ai sensi dell’articolo 973*c* del Codice delle obbligazioni;
 - h.[^5-3] *diritti valori registrati*: diritti ai sensi dell’articolo 973*d* del Codice delle obbligazioni.
 
-[^5-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^5-2]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^5-3]: Introdotta dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -180,7 +184,7 @@ Per le società anonime senza titoli di partecipazione quotati in borsa le cui a
 - c. in caso di soppressione delle azioni al portatore, alla società.
 
 [^8a-1]: Introdotto dal n. 4 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^8a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capitolo 3: Subcustodia e disponibilità di titoli contabili
 
@@ -220,20 +224,63 @@ Sono considerati disponibili:
 
 [^11-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
+#### Art. 11a
+
+**Segregazione**[^11a-1]
+
+<sup>1</sup> L’ente di custodia è tenuto a iscrivere i portafogli propri e di terzi separatamente nei suoi libri contabili.
+
+<sup>2</sup> L’ente di custodia che detiene portafogli propri e di terzi presso un ente di subcustodia in Svizzera deve detenere questi portafogli su conti titoli distinti. Gli enti di subcustodia devono offrire agli enti di custodia la possibilità di detenere i portafogli propri e di terzi su conti titoli distinti.
+
+<sup>3</sup> In caso di custodia all’estero, l’ente di custodia svizzero concorda con il primo ente di subcustodia estero che quest’ultimo detenga i portafogli propri e di terzi su conti titoli distinti.
+
+<sup>4</sup> Se il diritto dello Stato in questione o motivi operativi non consentono di concludere un accordo ai sensi del capoverso 3, l’ente di custodia svizzero prende altri provvedimenti volti a garantire al titolare del conto un livello di protezione equivalente.
+
+<sup>5</sup>
+
+L’ente di custodia svizzero non è tenuto a prendere i provvedimenti di cui al capoverso 4 se:
+
+- a. a causa delle caratteristiche dei titoli contabili interessati o dei servizi finanziari ad essi connessi, la subcustodia può avvenire soltanto nello Stato in questione; o
+- b. il titolare del conto ha ordinato all’ente di custodia, per scritto o in un’altra forma che consente la prova per testo, di custodire i titoli contabili presso un ente di subcustodia in tale Stato.
+
+<sup>6</sup>
+
+L’ente di custodia svizzero che detiene portafogli di terzi presso un ente di subcustodia mette a disposizione del titolare del conto una prima informazione in forma standardizzata, su supporto cartaceo o elettronico. Esso indica:
+
+- a. che di norma la custodia è affidata a un ente di subcustodia;
+- b. che, a seconda dell’emittente, l’ente di subcustodia può avere sede all’estero e che in tal caso la custodia è sottoposta al diritto estero;
+- c. che la custodia all’estero comporta dei rischi per il titolare del conto e specifica di quali rischi generali si tratta;
+- d. i costi della custodia di titoli contabili.
+
+[^11a-1]: Introdotto dall’all. n. 8 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 11b
+
+**Trasmissione di dati a enti di subcustodia e ad altri enti**[^11b-1]
+
+<sup>1</sup> L’ente di custodia svizzero può trasmettere direttamente all’ente di subcustodia svizzero o estero, nonché ad altri enti e società, tutti i dati di cui questi, oppure gli enti di subcustodia, gli enti o le società che, a catena, li seguono, necessitano per adempiere gli obblighi legali connessi con la custodia.
+
+<sup>2</sup> L’ente di custodia fornisce ai titolari dei conti una prima informazione in forma standardizzata, su supporto cartaceo o elettronico, in merito alla possibilità della trasmissione dei dati di cui al capoverso 1 e al fatto che, a seconda del diritto estero applicabile, i dati dei clienti possono essere trasmessi ad autorità dello Stato in questione.
+
+[^11b-1]: Introdotto dall’all. n. 8 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
 #### Art. 12
 
 **Portafogli propri e di terzi**
 
 <sup>1</sup>
 
-Se l’ente di custodia detiene su diversi conti titoli portafogli propri e di terzi presso un ente di subcustodia, i titoli contabili dei titolari dei conti e le loro pretese di fornitura non sono pregiudicati da:
+Se l’ente di custodia detiene portafogli propri e di terzi presso un ente di subcustodia, i titoli contabili dei titolari dei conti e le loro pretese di fornitura non sono pregiudicati da:[^12-1]
 
 - a. un accordo di compensazione tra l’ente di custodia e un ente di subcustodia al quale il titolare del conto non ha aderito in qualità di parte;
-- b. diritti di pegno, di ritenzione e di realizzazione dell’ente di subcustodia o di terzi per i quali il titolare del conto non ha dato il consenso.
+- b.[^12-2] diritti di pegno, di ritenzione e di realizzazione dell’ente di subcustodia o di terzi che esulano dal diritto di ritenzione e di realizzazione dell’ente di custodia secondo l’articolo 21 e per i quali il titolare del conto non ha dato il consenso.
 
 <sup>2</sup> L’ente di custodia può disporre dei titoli contabili di un titolare del conto soltanto dopo averli trasferiti, esercitando il suo diritto di godimento, sul proprio conto titoli.
 
 <sup>3</sup> Le intese contrarie sono nulle.
+
+[^12-1]: Nuovo testo giusta l’all. n. 8 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^12-2]: Nuovo testo giusta l’all. n. 8 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ## Capitolo 4: Diritti derivanti dalla custodia di titoli contabili
 
@@ -363,7 +410,7 @@ L’ente di custodia designato da una società anonima secondo l’articolo 697*
 - b. il nome e il cognome o la ditta nonché l’indirizzo dell’avente economicamente diritto.
 
 [^23a-1]: Introdotto dal n. I 8 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capitolo 5: Facoltà di disporre dei titoli contabili ed effetti nei confronti di terzi
 
@@ -444,7 +491,7 @@ L’addebito di titoli contabili su un conto titoli deve essere stornato se:
 
 <sup>5</sup> I titolari dei conti che hanno la qualità di investitori qualificati possono prendere accordi contrari con il proprio ente di custodia.
 
-[^27-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^27-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^27-2]: Nuovo testo giusta l’all. n. 29 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 28
@@ -489,7 +536,7 @@ Chi acquista in buona fede, a titolo oneroso, titoli contabili o diritti su tito
 
 <sup>5</sup> Se le condizioni per lo storno secondo l’articolo 28 sono adempiute, l’acquirente non ha il diritto di sollevare obiezioni contro lo storno di un accredito in virtù del presente articolo.
 
-[^29-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^29-2]: Nuovo testo giusta l’all. n. 29 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 30
@@ -555,7 +602,7 @@ L’ente di custodia risponde della colpa dell’ente di subcustodia come della 
 
 <sup>5</sup> Le intese contrarie hanno effetto soltanto tra enti di custodia o se favoriscono l’investitore.
 
-[^33-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^33-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capitolo 8: Disposizioni finali
 

@@ -4,22 +4,22 @@ title: Loi fédérale du 3 octobre 2008 sur les titres intermédiés (LTI)
 short: LTI
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: fr
-version: 2021-02-01
+version: 2023-01-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-450-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-450-20230101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les titres intermédiés**∗**
+# Loi fédérale sur les titres intermédiés\*
 
 (LTI)[^t-1]
 
-du 3 octobre 2008 (Etat le 1<sup>er</sup> février 2021)
+du 3 octobre 2008 (État le 1<sup>er</sup> janvier 2023)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 98, al. 1, et 122, al. 1, de la Constitution[^ingress-1], vu le mess
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)
 
 ## Chapitre 1 But, champ d’application et définitions
@@ -46,7 +46,11 @@ arrête:
 
 <sup>1</sup> La présente loi s’applique aux titres intermédiés qu’un dépositaire a inscrits au crédit d’un compte de titres.
 
+<sup>1bis</sup> L’art. 31, al. 2, est applicable, aux conditions visées à l’art. 31, al. 1, aux titres intermédiés qui sont conservés par un dépositaire en Suisse ou à l’étranger, même si leur conservation est régie par le droit étranger.[^2-1]
+
 <sup>2</sup> Elle ne porte pas atteinte aux dispositions sur l’inscription d’actions nominatives au registre des actions.
+
+[^2-1]: Introduit par l’annexe ch. 8 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 3
 
@@ -85,17 +89,17 @@ Sont des dépositaires:
 
 <sup>3</sup> Sont également considérés comme des dépositaires, lorsqu’ils tiennent des comptes de titres dans le cadre de leur activité professionnelle, les banques étrangères, les maisons de titres étrangères et les autres établissements financiers étrangers, ainsi que les dépositaires centraux étrangers.[^4-12]
 
-[^4-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^4-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^4-2]: Nouvelle teneur selon l’annexe ch. II 17 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^4-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^4-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^4-4]: Nouvelle teneur selon l’annexe ch. II 17 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4-5]: Nouvelle teneur selon l’annexe ch. 14 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^4-6]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-6]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^4-7]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^4-8]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^4-8]: [RS 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
 [^4-9]: Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^4-10]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^4-11]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-10]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^4-11]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^4-12]: Nouvelle teneur selon l’annexe ch. II 17 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
@@ -113,7 +117,7 @@ Dans la présente loi, on entend par:
 - g.[^5-2] *droits-valeurs simples:* des droits au sens de l’art. 973*c* du code des obligations;
 - h.[^5-3] *droits-valeurs inscrits:* des droits au sens de l’art. 973*d* du code des obligations.
 
-[^5-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^5-2]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^5-3]: Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -145,7 +149,7 @@ Des titres intermédiés sont créés:
 
 **Conversion**
 
-À moins que ses statuts ou que les conditions de l’émission n’en disposent autrement, l’émetteur peut, en tout temps et sans le consentement du titulaire d’un compte, convertir en l’une des deux autres formes les titres déposés auprès d’un intermédiaire sous la forme de papiers-valeurs en dépôt collectif, de certificats globaux ou de droits-valeurs simples.[^7-1] Il en supporte les frais.
+<sup>1</sup> À moins que ses statuts ou que les conditions de l’émission n’en disposent autrement, l’émetteur peut, en tout temps et sans le consentement du titulaire d’un compte, convertir en l’une des deux autres formes les titres déposés auprès d’un intermédiaire sous la forme de papiers-valeurs en dépôt collectif, de certificats globaux ou de droits-valeurs simples.[^7-1] Il en supporte les frais.
 
 <sup>2</sup> Pour autant que les statuts de l’émetteur ou que les conditions de l’émission le prévoient, le titulaire d’un compte peut exiger en tout temps de l’émetteur qu’il établisse des papiers-valeurs dont le nombre et le genre correspondent aux titres intermédiés qui sont inscrits à son compte et qui sont fondés sur le dépôt d’un certificat global ou sur l’inscription de droits-valeurs simples au registre principal.[^7-2] Il supporte les frais de cette conversion à moins que les conditions de l’émission ou les statuts de l’émetteur n’en disposent autrement.
 
@@ -221,20 +225,63 @@ Sont des titres disponibles:
 
 [^11-1]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
+#### Art. 11a
+
+**Ségrégation**[^11a-1]
+
+<sup>1</sup> Le dépositaire est tenu de séparer dans ses comptes ses propres titres et les titres de tiers.
+
+<sup>2</sup> S’il détient ses propres titres et des titres de tiers auprès d’un sous-dépositaire en Suisse, il doit le faire sur des comptes de titres distincts. Le sous-dépositaire doit lui offrir la possibilité de détenir ses propres titres et les titres de tiers sur des comptes de titres distincts.
+
+<sup>3</sup> En cas de détention de titres intermédiés à l’étranger, le dépositaire suisse convient avec le premier sous-dépositaire étranger que celui-ci détiendra ses propres titres et les titres de tiers sur des comptes de titres distincts.
+
+<sup>4</sup> Si une convention au sens de l’al. 3 n’est pas possible en vertu du droit de l’État concerné ou pour des raisons opérationnelles, le dépositaire suisse prend d’autres mesures pour offrir un niveau de protection comparable au titulaire du compte.
+
+<sup>5</sup>
+
+Le dépositaire suisse n’est pas tenu de prendre les mesures visées à l’al. 4 si:
+
+- a. la détention de titres intermédiés auprès d’un sous-dépositaire ne peut avoir lieu que dans l’État concerné en raison des caractéristiques des titres en question ou des services financiers liés à ces titres, ou que
+- b. le titulaire du compte a donné l’instruction au dépositaire, par écrit ou sous toute autre forme permettant d’en établir la preuve par un texte, de détenir les titres intermédiés auprès d’un sous-dépositaire dans l’État concerné.
+
+<sup>6</sup>
+
+Le dépositaire suisse qui détient des titres de tiers auprès d’un sous-dépositaire met au préalable des informations à la disposition du titulaire du compte, sous une forme standardisée sur papier ou électroniquement. Il lui indique:
+
+- a. que les titres sont détenus en règle générale auprès d’un sous-dépositaire;
+- b. que le sous-dépositaire peut, selon l’émetteur, avoir son siège à l’étranger et que la détention de titres intermédiés est soumise dans ce cas au droit étranger;
+- c. que la détention de titres intermédiés à l’étranger comporte des risques et de quels risques généraux il s’agit;
+- d. les coûts liés à la détention de titres intermédiés.
+
+[^11a-1]: Introduit par l’annexe ch. 8 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 11b
+
+**Transmission de données à des sous-dépositaires et à d’autres organismes**[^11b-1]
+
+<sup>1</sup> Le dépositaire suisse peut directement transmettre au sous-dépositaire suisse ou étranger, ainsi qu’à d’autres organismes et sociétés, toutes les données dont ceux-ci ou des sous-dépositaires, des organes ou des sociétés situés en aval de la chaîne ont besoin pour remplir leurs obligations légales en matière de conservation.
+
+<sup>2</sup> Le dépositaire informe au préalable le titulaire du compte, sous une forme standardisée sur papier ou électroniquement, de la possibilité de transmettre des données conformément à l’al. 1 et du fait que les données relatives aux clients peuvent être transmises aux autorités de l’État concerné si le droit étranger applicable le prévoit.
+
+[^11b-1]: Introduit par l’annexe ch. 8 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
 #### Art. 12
 
 **Proprestitres et titres de tiers**
 
 <sup>1</sup>
 
-Si le dépositaire détient ses propres titres et des titres de tiers sur des comptes de titres distincts auprès d’un sous-dépositaire, les titres du titulaire d’un compte et ses droits à la remise de titres ne sont pas affectés par:
+Si le dépositaire détient ses propres titres et des titres de tiers auprès d’un sous-dépositaire, les titres intermédiés des titulaires d’un compte et leurs droits à la remise de titres ne sont pas affectés par:[^12-1]
 
 - a. une convention de compensation conclue entre le dépositaire et le sous-dépositaire à laquelle le titulaire du compte n’est pas partie;
-- b. tout droit de gage, de rétention ou de réalisation du sous-dépositaire ou d’un tiers auquel le titulaire du compte n’a pas consenti.
+- b.[^12-2] un droit de gage, de rétention ou de réalisation du sous-dépositaire ou de tiers qui va au-delà du droit de rétention ou de réalisation du dépositaire visé à l’art. 21 et auquel le titulaire du compte n’a pas consenti.
 
 <sup>2</sup> Le dépositaire ne peut pas disposer des titres du titulaire du compte avant de les avoir transférés à son propre compte dans l’exercice de son droit d’utilisation.
 
 <sup>3</sup> Toute convention contraire est nulle.
+
+[^12-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^12-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ## Chapitre 4 Droits résultant des titres intermédiés
 
@@ -364,7 +411,7 @@ Le dépositaire désigné par une société anonyme en vertu des art. 697*i*, al
 - b. nom, prénom et adresse de l’ayant droit économique.
 
 [^23a-1]: Introduit par le ch. I 8 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapitre 5 Actes de disposition sur les titres intermédiés et effets à l’égard des tiers
 
@@ -445,7 +492,7 @@ Le débit de titres intermédiés dans un compte de titres peut être extourné:
 
 <sup>5</sup> Les titulaires d’un compte qui sont des investisseurs qualifiés peuvent déroger au présent article par convention avec leur dépositaire.
 
-[^27-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^27-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^27-2]: Nouvelle teneur selon l’annexe ch. 29 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 28
@@ -490,7 +537,7 @@ Quiconque, de bonne foi et à titre onéreux, acquiert des titres intermédiés 
 
 <sup>5</sup> L’acquéreur ne peut invoquer le présent article pour s’opposer à l’extourne d’une bonification visée à l’art. 28.
 
-[^29-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^29-2]: Nouvelle teneur selon l’annexe ch. 29 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 30
@@ -501,7 +548,7 @@ Quiconque, de bonne foi et à titre onéreux, acquiert des titres intermédiés 
 
 <sup>2</sup> Si le dépositaire conclut avec le titulaire d’un compte une convention au sens de l’art. 25, al. 1, sans signaler expressément à l’acquéreur ses droits antérieurs, ceux-ci sont réputés subordonnés aux droits de l’acquéreur.[^30-1]
 
-<sup>3</sup> ...[^30-2]
+<sup>3</sup> …[^30-2]
 
 <sup>4</sup> Les accords modifiant le rang des droits sur des titres intermédiés sont réservés; ils ne déploient d’effets qu’entre les parties à ces accords.
 
@@ -556,7 +603,7 @@ Le dépositaire répond comme s’ils étaient siens des actes du sous-déposita
 
 <sup>5</sup> Les conventions contraires ne sont valables que si elles sont passées entre dépositaires ou en faveur des investisseurs.
 
-[^33-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^33-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapitre 8 Dispositions finales
 
@@ -596,6 +643,6 @@ Annexe
 
 Les lois mentionnées ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450).

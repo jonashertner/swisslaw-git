@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 2008 on Intermediated Securities (Federal Inter
 short: FISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: en
-version: 2021-02-01
+version: 2023-01-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2009-450-20210201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2009-450-20230101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Federal Intermediated Securities Act, FISA)
 
-of 3 October 2008 (Status as of 1 February 2021)
+of 3 October 2008 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Articles 98 paragraph 1 and 122 paragraph 1 of the Federal Constitution
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)
 
 ## Chapter 1 Purpose, Scope and Definitions
@@ -46,7 +46,11 @@ decrees:
 
 <sup>1</sup> This Act applies to intermediated securities that are credited to a securities account by a custodian.
 
+<sup>1bis</sup> According to the terms and conditions set out in Article 31 paragraph 1, Article 31 paragraph 2 is applicable to intermediated securities held with a custodian in Switzerland or abroad, even if such custody is subject to foreign law.[^2-1]
+
 <sup>2</sup> It does not affect any provision regarding the registration of registered shares in the share register.
+
+[^2-1]: Inserted by Annex No 8 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 3
 
@@ -58,7 +62,8 @@ Intermediated securities within the meaning of this Act are personal or corporat
 
 - a. are credited to a securities account; and
 - b. may be disposed of by the account holder in accordance with the provisions of this Act.
-- [tab] <sup>1bis</sup> An intermediated security within the meaning of this Act shall also be deemed to be any financial instrument held in custody in accordance with foreign law and any right to such a financial instrument, if it has a comparable function in accordance with such foreign law.[^3-2]
+
+<sup>1bis</sup> An intermediated security within the meaning of this Act shall also be deemed to be any financial instrument held in custody in accordance with foreign law and any right to such a financial instrument, if it has a comparable function in accordance with such foreign law.[^3-2]
 
 <sup>2</sup> Intermediated securities are effective against the custodian and any third party; they are beyond the reach of other creditors of the custodian.
 
@@ -85,18 +90,18 @@ The following are deemed to be custodians:
 
 <sup>3</sup> Foreign banks, foreign securities firms and other foreign financial institutions, as well as central securities depositories and other financial intermediaries that maintain securities accounts in the course of their business activity are also deemed custodians.[^4-13]
 
-[^4-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^4-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^4-2]: Amended by Annex No II 17 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^4-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^4-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^4-4]: Amended by Annex No II 17 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4-5]: Amended by Annex No 14 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^4-6]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^4-7]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^4-6]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^4-7]: [SR 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^4-8]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^4-9]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
-[^4-10]: Inserted by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 [AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^4-11]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^4-12]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-9]: [SR 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
+[^4-10]: Inserted by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-11]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^4-12]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^4-13]: Amended by Annex No II 17 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
@@ -114,7 +119,7 @@ In this Act:
 - g.[^5-2] *uncertificated securities* means rights within the meaning of Article 973*c* of the Code of Obligations;
 - h.[^5-3] *ledger-based securities* means rights within the meaning of Article 973*d* of the Code of Obligations.
 
-[^5-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^5-2]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^5-3]: Inserted by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -146,9 +151,9 @@ Intermediated securities are created:
 
 **Conversion**
 
-<sup>1</sup> Unless otherwise provided by the terms of issue or the issuer’s articles of association, an issuer may, at any time and without the account holder’s consent, convert certificated securities in collective custody, global certificates or uncertificated securities held or registered as a basis for intermediated securities into another form.[^7-1] It shall bear the conversion cost.
+<sup>1</sup> Unless otherwise provided by the terms of issue or the issuer's articles of association, an issuer may, at any time and without the account holder's consent, convert certificated securities in collective custody, global certificates or uncertificated securities held or registered as a basis for intermediated securities into another form.[^7-1] It shall bear the conversion cost.
 
-<sup>2</sup> Insofar as provided by the terms of issue or the issuer’s articles of association, an account holder may at any time require the issuer to deliver certificated securities in the quantity and of the kind corresponding to intermediated securities credited to the account holder’s securities account based on a global certificate or uncertificated securities.[^7-2] The account holder shall bear the cost of this conversion unless the terms of issue or the issuer’s articles of association provide otherwise.
+<sup>2</sup> Insofar as provided by the terms of issue or the issuer's articles of association, an account holder may at any time require the issuer to deliver certificated securities in the quantity and of the kind corresponding to intermediated securities credited to the account holder's securities account based on a global certificate or uncertificated securities.[^7-2] The account holder shall bear the cost of this conversion unless the terms of issue or the issuer's articles of association provide otherwise.
 
 <sup>3</sup> The custodian shall ensure that the conversion of the securities does not alter the total number of the personal and corporate rights issued.
 
@@ -161,14 +166,14 @@ Intermediated securities are created:
 
 <sup>1</sup>
 
-An account holder may at any time require the custodian to deliver certificated securities in the quantity and of the kind corresponding to intermediated securities credited to the account holder’s securities account provided that:
+An account holder may at any time require the custodian to deliver certificated securities in the quantity and of the kind corresponding to intermediated securities credited to the account holder's securities account provided that:
 
 - a. certificated securities are held by the custodian or a sub-custodian; or
 - b. the account holder is entitled to delivery of certificated securities under Article 7 paragraph 2.
 
 <sup>2</sup> The account holder shall be entitled to the delivery of certificated securities in accordance with the custom and usage of the market on which the securities are traded.
 
-<sup>3</sup> The custodian shall ensure that the delivery to the account holder occurs only after the corresponding securities have been debited to the latter’s securities account.
+<sup>3</sup> The custodian shall ensure that the delivery to the account holder occurs only after the corresponding securities have been debited to the latter's securities account.
 
 [^8-1]: Amended by No I 4 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
@@ -183,8 +188,8 @@ In the case of companies limited by shares without listed equity securities whos
 - c. on the destruction of the bearer shares: to the company.
 
 [^8a-1]: Inserted by No I 4 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^8a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8a-3]: Corrected by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^8a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^8a-3]: Corrected by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ## Chapter 3 Sub-Custody and Availability of Intermediated Securities
 
@@ -194,7 +199,7 @@ In the case of companies limited by shares without listed equity securities whos
 
 <sup>1</sup> A custodian may hold intermediated securities, certificated securities, uncertificated securities and ledger-based securities with a sub-custodian in Switzerland or abroad.[^9-1] The account holder's consent is not required.
 
-<sup>2</sup> The account holder’s express consent is nonetheless required where the foreign sub-custodian is not subject to adequate regulatory supervision.
+<sup>2</sup> The account holder's express consent is nonetheless required where the foreign sub-custodian is not subject to adequate regulatory supervision.
 
 [^9-1]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -224,20 +229,63 @@ The following are deemed to be available securities:
 
 [^11-1]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
+#### Art. 11a
+
+**Segregation**[^11a-1]
+
+<sup>1</sup> The custodian shall record its own and its account holders' securities separately.
+
+<sup>2</sup> If the custodian holds its own and its account holders' securities with a sub-custodian in Switzerland, it shall hold its own and its account holders' securities in separate securities accounts. Sub-custodians must offer custodians the possibility of holding their own and their account holders' securities in separate securities accounts.
+
+<sup>3</sup> If the securities are held abroad, the Swiss custodian and the first foreign sub-custodian shall agree that the latter will hold its own and the account holders' securities in separate accounts.
+
+<sup>4</sup> If an agreement in accordance with paragraph 3 is not possible under the law of the country concerned or for operational reasons, the Swiss custodian shall take other measures that provide the account holder with a comparable level of protection.
+
+<sup>5</sup>
+
+The Swiss custodian does not have to take measures in accordance with paragraph 4 if:
+
+- a. owing to the characteristics of the relevant intermediated securities or the financial services relating to them, custody can take place only in the country concerned; or
+- b. the account holder has instructed the custodian, in writing or in another form demonstrable by text, to hold the intermediated securities with a sub-custodian in that country.
+
+<sup>6</sup>
+
+The Swiss custodian that is holding its account holders' securities with a sub-custodian shall provide the account holders beforehand with information in hard copy or electronically and in a standardised manner. It shall state:
+
+- a. that the securities will be held with a sub-custodian as a general rule;
+- b. that, depending on the issuer, a sub-custodian may have its registered office abroad and that in this case the custody is subject to foreign law;
+- c. that custody abroad carries risks for account holders, and what general risks are involved;
+- d. the costs of the custody of intermediated securities.
+
+[^11a-1]: Inserted by Annex No 8 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 11b
+
+**Data transmission to sub-custodians and other entities**[^11b-1]
+
+<sup>1</sup> The Swiss custodian may directly transmit to the Swiss or foreign sub-custodian and other entities and enterprises any data which they or a sub-custodian, entity or enterprise further along the custody chain may require for the fulfilment of their statutory duties in connection with the custody.
+
+<sup>2</sup> The custodian shall inform the account holders beforehand in written hard copy or electronically and in a standardised manner about the possibility of data transmission in accordance with paragraph 1 and about the fact that, depending on the applicable foreign law, client data may be passed on to the authorities of the relevant country.
+
+[^11b-1]: Inserted by Annex No 8 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
 #### Art. 12
 
 **Segregation of own securities and account holder securities**
 
 <sup>1</sup>
 
-If a custodian holds its own intermediated securities and that of its account holders in separate securities accounts with a sub-custodian, the intermediated securities of the account holders and their claims for delivery of intermediated securities shall not be affected by:
+If a custodian holds its own intermediated securities and those of its account holders with a sub-custodian, the intermediated securities of the account holders and their claims for delivery of intermediated securities shall not be affected by:[^12-1]
 
 - a. a set-off agreement between the custodian and the sub-custodian to which the account holder is not a party;
-- b. any right of pledge, retention, or foreclosure of the sub-custodian or of another person to which the account holder has not consented.
+- b.[^12-2] any right of pledge, retention or foreclosure of the sub-custodian or of another person which goes beyond the custodian's right of retention and foreclosure in accordance with Article 21 and to which the account holder has not consented.
 
-<sup>2</sup> The custodian may dispose of an account holder’s intermediated securities only after having them transferred to its own account by exercising its right of use.
+<sup>2</sup> The custodian may dispose of an account holder's intermediated securities only after having them transferred to its own account by exercising its right of use.
 
 <sup>3</sup> Any agreement to the contrary shall be invalid.
+
+[^12-1]: Amended by Annex No 8 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^12-2]: Amended by Annex No 8 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ## Chapter 4 Rights deriving from the Custody of Intermediated Securities
 
@@ -255,7 +303,7 @@ If a custodian holds its own intermediated securities and that of its account ho
 
 **Seizure and attachment**
 
-<sup>1</sup> Where intermediated securities are seized, attached, or subjected to any other interim measure against the account holder, such measure shall be executed exclusively in the hands of the custodian maintaining the securities account to which the account holder’s intermediated securities are credited.
+<sup>1</sup> Where intermediated securities are seized, attached, or subjected to any other interim measure against the account holder, such measure shall be executed exclusively in the hands of the custodian maintaining the securities account to which the account holder's intermediated securities are credited.
 
 <sup>2</sup> Any seizure, attachment, or other interim measure executed against an account holder in the hands of a sub-custodian shall be void.
 
@@ -263,11 +311,11 @@ If a custodian holds its own intermediated securities and that of its account ho
 
 **Instructions**
 
-<sup>1</sup> A custodian shall carry out the account holder’s instructions to dispose of intermediated securities pursuant to the contract between both parties.
+<sup>1</sup> A custodian shall carry out the account holder's instructions to dispose of intermediated securities pursuant to the contract between both parties.
 
 <sup>2</sup> The custodian shall not be obliged or entitled to verify the legal grounds for the instruction.
 
-<sup>3</sup> The account holder may revoke an instruction until the point in time provided in the contract with the custodian or in the applicable rules of the securities clearing and settlement system. An instruction shall in any case become irrevocable once the custodian has debited the account holder’s securities account.
+<sup>3</sup> The account holder may revoke an instruction until the point in time provided in the contract with the custodian or in the applicable rules of the securities clearing and settlement system. An instruction shall in any case become irrevocable once the custodian has debited the account holder's securities account.
 
 #### Art. 16
 
@@ -275,27 +323,27 @@ If a custodian holds its own intermediated securities and that of its account ho
 
 An account holder may at any time require its custodian to draw up a statement of the intermediated securities credited to its securities account. This statement is not a certificated security.
 
-### Section 2 Rights of Account Holders in the event of a Custodian’s Liquidation
+### Section 2 Rights of Account Holders in the event of a Custodian's Liquidation
 
 #### Art. 17
 
-**Exclusion from custodian’s estate**
+**Exclusion from custodian's estate**
 
 <sup>1</sup>
 
-If a custodian is subject to proceedings for compulsory liquidation, the liquidator shall exclude from the custodian’s estate up to the number of intermediated securities credited to securities account maintained by the custodian for its account holders:
+If a custodian is subject to proceedings for compulsory liquidation, the liquidator shall exclude from the custodian's estate up to the number of intermediated securities credited to securities account maintained by the custodian for its account holders:
 
 - a. intermediated securities credited to a securities account that the custodian holds with a sub-custodian;
 - b.[^17-1] certificated securities, ledger-based securities or global certificates that the custodian holds directly, or uncertificated securities entered in its main register; and
 - c. readily available claims of the custodian to receive delivery of intermediated securities from third parties resulting from spot transactions, expired futures transactions, hedging transactions, or issues on behalf of account holders.
 
-<sup>2</sup> If the custodian does not hold its own securities and that of its account holders in separate securities accounts with a sub-custodian, the securities credited to those accounts shall be presumed to belong to the custodian’s account holders.
+<sup>2</sup> If the custodian does not hold its own securities and that of its account holders in separate securities accounts with a sub-custodian, the securities credited to those accounts shall be presumed to belong to the custodian's account holders.
 
 <sup>3</sup> The liquidator of a custodian shall satisfy claims of sub-custodians arising out of the custody of the intermediated securities or the financing of their acquisition.
 
 <sup>4</sup>
 
-Intermediated securities and claims for delivery of intermediated securities excluded from the custodian’s estate shall be:
+Intermediated securities and claims for delivery of intermediated securities excluded from the custodian's estate shall be:
 
 - a. transferred to the custodian designated by the account holder; or
 - b.[^17-2] delivered to the account holder in the form of certificated securities; or
@@ -309,15 +357,15 @@ Intermediated securities and claims for delivery of intermediated securities exc
 
 #### Art. 18
 
-**Exclusion from sub-custodian’s estate**
+**Exclusion from sub-custodian's estate**
 
-If a sub-custodian is subject to proceedings for compulsory liquidation, the custodian shall seek the exclusion of its account holders’ intermediated securities from the sub-custodian’s estate.
+If a sub-custodian is subject to proceedings for compulsory liquidation, the custodian shall seek the exclusion of its account holders' intermediated securities from the sub-custodian's estate.
 
 #### Art. 19
 
 **Shortfall**
 
-<sup>1</sup> If the intermediated securities excluded from the custodian’s estate are not sufficient to satisfy the account holders in full, intermediated securities of the same kind held by the custodian for its own account shall also be excluded insofar as necessary, even where such intermediated securities have been held separately from the account holders’ intermediated securities.
+<sup>1</sup> If the intermediated securities excluded from the custodian's estate are not sufficient to satisfy the account holders in full, intermediated securities of the same kind held by the custodian for its own account shall also be excluded insofar as necessary, even where such intermediated securities have been held separately from the account holders' intermediated securities.
 
 <sup>2</sup> If the account holders are still not fully satisfied, they shall bear the shortfall in proportion to the number of intermediated securities of the missing kind credited to their respective securities accounts. They shall have a corresponding claim for compensation against the custodian.
 
@@ -368,7 +416,7 @@ The custodian designated by a company limited by shares under Article 697*i* par
 - b. the first name and surname and address of the beneficial owner.
 
 [^23a-1]: Inserted by No I 8 of the Federal Act of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapter 5 Disposition of Intermediated Securities and Effectiveness against Third Parties
 
@@ -383,7 +431,7 @@ The custodian designated by a company limited by shares under Article 697*i* par
 A disposition of intermediated securities may be effected by:
 
 - a. an instruction from the account holder to its custodian to transfer the intermediated securities; and
-- b. a credit of the intermediated securities to the acquirer’s securities account.
+- b. a credit of the intermediated securities to the acquirer's securities account.
 
 <sup>2</sup> The disposition shall be complete when the necessary credit has been made and has become effective against third parties. If the full legal rights are transferred as a result of the disposition, the transferor shall lose its rights in the intermediated securities.[^24-2]
 
@@ -436,7 +484,7 @@ A debit to a securities account must be reversed if:
   it was made on the basis of an instruction that:
 
   - 1\. is void,
-  - 2\. was not issued by the account holder or the latter’s agent,
+  - 2\. was not issued by the account holder or the latter's agent,
   - 3\. was revoked in due time by the account holder, or
   - 4\. was voided on the ground of mistake, erroneous transmission, fraud or duress; Article 26 of the Code of Obligations[^27-1] is reserved;
 
@@ -450,7 +498,7 @@ A debit to a securities account must be reversed if:
 
 <sup>5</sup> An account holder who is a qualified investor may derogate from this Article by entering into an agreement with the custodian.
 
-[^27-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^27-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^27-2]: Amended by Annex No 29 of the FA of 15 June 2018 (Revision of the Law of Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 28
@@ -489,13 +537,13 @@ A person who acquires intermediated securities under Articles 24, 25 or 26 for v
 
 <sup>2</sup> An acquirer who is not so protected is under a duty to make restitution of intermediated securities in the same quantity and of the same kind pursuant to the provisions of the Code of Obligations[^29-1] on unjust enrichment. The rights of third parties are not affected. The foregoing is without prejudice to other claims based on the Code of Obligations.
 
-<sup>3</sup> Where the acquirer who is bound to make restitution of the securities becomes subject to proceedings for compulsory liquidation, the beneficiary may require intermediated securities in the same quantity and of the same kind to be excluded from the acquirer’s estate to the extent that it contains such intermediated securities.
+<sup>3</sup> Where the acquirer who is bound to make restitution of the securities becomes subject to proceedings for compulsory liquidation, the beneficiary may require intermediated securities in the same quantity and of the same kind to be excluded from the acquirer's estate to the extent that it contains such intermediated securities.
 
 <sup>4</sup> Claims based on this paragraph 2 become time barred three years after the holder of the debited account becomes aware of its rights and of the identity of its debtor, or at the latest ten years after the debit date. Article 60 paragraph 2 of the Swiss Code of Obligations is reserved.[^29-2]
 
 <sup>5</sup> Where the conditions for reversal of a credit under Article 28 are met, the acquirer may not object to the reversal on the basis of this Article.
 
-[^29-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^29-2]: Amended by Annex No 29 of the FA of 15 June 2018 (Revision of the Law of Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 30
@@ -506,7 +554,7 @@ A person who acquires intermediated securities under Articles 24, 25 or 26 for v
 
 <sup>2</sup> If the custodian has entered into an agreement with the account holder under Article 25 paragraph 1 without notifying the acquirer expressly of its rights created earlier, its right shall be deemed to be subordinated to the right of the acquirer.[^30-1]
 
-<sup>3</sup> ...[^30-2]
+<sup>3</sup> …[^30-2]
 
 <sup>4</sup> The foregoing is without prejudice to agreements to modify the priorities of rights over intermediated securities, but such agreements are effective only as between the parties bound by them.
 
@@ -550,7 +598,7 @@ The secured party may realise intermediated securities in which a security inter
 
 <sup>2</sup> A custodian which is authorised to hold intermediated securities with a sub-custodian shall be liable for any failure to exercise due care in the selection and instruction of the sub-custodian and in verifying its continued compliance with the selection criteria.
 
-<sup>3</sup> A custodian may waive its liability under paragraph 2 if the account holder has expressly designated the sub-custodian contrary to the custodian’s advice.
+<sup>3</sup> A custodian may waive its liability under paragraph 2 if the account holder has expressly designated the sub-custodian contrary to the custodian's advice.
 
 <sup>4</sup>
 
@@ -561,7 +609,7 @@ A custodian shall be liable, as if they were its own, for the acts of a sub-cust
 
 <sup>5</sup> Agreements to the contrary shall be valid only as between custodians or when made in favour of investors.
 
-[^33-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^33-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapter 8 Final Provisions
 
@@ -601,6 +649,6 @@ Annex
 
 The federal acts below are amended as follows:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450).

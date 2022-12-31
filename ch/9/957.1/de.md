@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Oktober 2008 über Bucheffekten (Bucheffektengesetz,
 short: BEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: de
-version: 2021-02-01
+version: 2023-01-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2009-450-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-450-20230101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/de"
 
 (Bucheffektengesetz, BEG)
 
-vom 3. Oktober 2008 (Stand am 1. Februar 2021)
+vom 3. Oktober 2008 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 98 Absatz 1 und 122 Absatz 1 der Bundesverfassung[^ing
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)
 
 ## 1. Kapitel: Zweck, Geltungsbereich und Begriffe
@@ -44,7 +44,11 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz findet Anwendung auf Bucheffekten, die eine Verwahrungsstelle einem Effektenkonto gutgeschrieben hat.
 
+<sup>1bis</sup> Artikel 31 Absatz 2 ist unter den Voraussetzungen nach Artikel 31 Absatz 1 auf Bucheffekten anwendbar, welche bei einer Verwahrungsstelle im In- oder Ausland verwahrt werden, auch wenn die Verwahrung ausländischem Recht untersteht.[^2-1]
+
 <sup>2</sup> Es lässt Vorschriften über die Eintragung von Namenaktien in das Aktienbuch unberührt.
+
+[^2-1]: Eingefügt durch Anhang Ziff. 8 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 3
 
@@ -84,18 +88,18 @@ Als Verwahrungsstellen gelten:
 
 <sup>3</sup> Als Verwahrungsstelle gelten, sofern sie im Rahmen ihrer Geschäftstätigkeit Effektenkonten führen, auch ausländische Banken, ausländische Wertpapierhäuser und andere ausländische Finanzinstitute sowie ausländische zentrale Verwahrungsstellen.[^4-13]
 
-[^4-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^4-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^4-2]: Fassung gemäss Anhang Ziff. II 17 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^4-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^4-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^4-4]: Fassung gemäss Anhang Ziff. II 17 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4-5]: Fassung gemäss Anhang Ziff. 14 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^4-6]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^4-7]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^4-6]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^4-7]: [SR 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^4-8]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^4-9]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^4-9]: [SR 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
 [^4-10]: Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^4-11]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^4-12]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-11]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^4-12]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^4-13]: Fassung gemäss Anhang Ziff. II 17 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
@@ -113,7 +117,7 @@ In diesem Gesetz gelten als:
 - g.[^5-2] *einfache Wertrechte*: Rechte im Sinne von Artikel 973*c* des Obligationenrechts*;*
 - h.[^5-3] *Registerwertrechte*: Rechte im Sinne von Artikel 973*d* des Obligationenrechts.
 
-[^5-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^5-2]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^5-3]: Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -182,8 +186,8 @@ Bei Aktiengesellschaften ohne börsenkotierte Beteiligungspapiere, deren Inhaber
 - c. bei Vernichtung der Inhaberaktien: an die Gesellschaft.
 
 [^8a-1]: Eingefügt durch Ziff. I 4 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^8a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8a-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^8a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^8a-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ## 3. Kapitel: Drittverwahrung und Verfügbarkeit von Bucheffekten
 
@@ -223,20 +227,63 @@ Als verfügbar gelten:
 
 [^11-1]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
+#### Art. 11a
+
+**Segregierung**[^11a-1]
+
+<sup>1</sup> Die Verwahrungsstelle ist verpflichtet, Eigen- und Drittbestände in ihren Büchern getrennt zu halten.
+
+<sup>2</sup> Hält die Verwahrungsstelle Eigen- und Drittbestände bei einer Drittverwahrungsstelle im Inland, so hat sie die Eigen- und die Drittbestände auf verschiedenen Effektenkonten zu halten. Drittverwahrungsstellen müssen den Verwahrungsstellen die Möglichkeit anbieten, Eigen- und Drittbestände auf verschiedenen Effektenkonten zu halten.
+
+<sup>3</sup> Erfolgt die Verwahrung im Ausland, so vereinbart die Schweizer Verwahrungsstelle mit der ersten ausländischen Drittverwahrungsstelle, dass diese die Eigen- und die Drittbestände auf verschiedenen Effektenkonten hält.
+
+<sup>4</sup> Ist eine Vereinbarung nach Absatz 3 nach dem Recht des betroffenen Staates oder aus operationellen Gründen nicht möglich, so trifft die Schweizer Verwahrungsstelle andere Massnahmen, die der Kontoinhaberin oder dem Kontoinhaber ein vergleichbares Mass an Schutz bieten.
+
+<sup>5</sup>
+
+Die Schweizer Verwahrungsstelle muss keine Massnahmen nach Absatz 4 treffen, wenn:
+
+- a. die Drittverwahrung wegen der Eigenschaften der betreffenden Bucheffekten oder der mit diesen verbundenen Finanzdienstleistungen nur im betroffenen Staat erfolgen kann; oder
+- b. die Kontoinhaberin oder der Kontoinhaber die Verwahrungsstelle schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, angewiesen hat, die Bucheffekten bei einer Drittverwahrungsstelle in diesem Staat zu verwahren.
+
+<sup>6</sup>
+
+Die Schweizer Verwahrungsstelle, die Drittbestände bei einer Drittverwahrungsstelle hält, stellt der Kontoinhaberin oder dem Kontoinhaber vorgängig in standardisierter Weise in Papierform oder elektronisch Informationen zur Verfügung. Sie legt dar:
+
+- a. dass die Verwahrung in der Regel bei einer Drittverwahrungsstelle erfolgt;
+- b. dass eine Drittverwahrungsstelle je nach Emittent allenfalls Sitz im Ausland hat und dass die Verwahrung in diesem Fall ausländischem Recht untersteht;
+- c. dass mit einer Verwahrung im Ausland für die Kontoinhaberin oder den Kontoinhaber Risiken verbunden sind und um welche generellen Risiken es sich handelt;
+- d. die Kosten der Verwahrung von Bucheffekten.
+
+[^11a-1]: Eingefügt durch Anhang Ziff. 8 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 11b
+
+**Datenübermittlung an Drittverwahrungsstellen und weitere Stellen**[^11b-1]
+
+<sup>1</sup> Die Schweizer Verwahrungsstelle darf der in- oder ausländischen Drittverwahrungsstelle und weiteren Stellen und Gesellschaften direkt alle Daten übermitteln, welche diese oder eine in der Verwahrungskette nachgelagerte Drittverwahrungsstelle, Stelle oder Gesellschaft zur Erfüllung ihrer mit der Verwahrung verbundenen rechtlichen Pflichten benötigen.
+
+<sup>2</sup> Die Verwahrungsstelle informiert die Kontoinhaberinnen und Kontoinhaber vorgängig in standardisierter Weise in Papierform oder elektronisch über die Möglichkeit der Datenübermittlung nach Absatz 1 und darüber, dass Kundendaten, je nach geltendem ausländischem Recht, Behörden des betroffenen Staates weitergeleitet werden können.
+
+[^11b-1]: Eingefügt durch Anhang Ziff. 8 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
 #### Art. 12
 
 **Eigen- und Drittbestände**
 
 <sup>1</sup>
 
-Hält die Verwahrungsstelle Eigen- und Drittbestände bei einer Drittverwahrungsstelle auf verschiedenen Effektenkonten, so werden die Bucheffekten der Kontoinhaberinnen und Kontoinhaber sowie deren Lieferansprüche nicht berührt durch:
+Hält die Verwahrungsstelle Eigen- und Drittbestände bei einer Drittverwahrungsstelle, so werden die Bucheffekten der Kontoinhaberinnen und Kontoinhaber sowie deren Lieferansprüche nicht berührt durch:[^12-1]
 
 - a. eine Aufrechnungsvereinbarung zwischen der Verwahrungsstelle und einer Drittverwahrungsstelle, welcher die Kontoinhaberin oder der Kontoinhaber nicht als Partei beigetreten ist;
-- b. Pfand-, Rückbehalts- und Verwertungsrechte der Drittverwahrungsstelle oder von Dritten, denen die Kontoinhaberin oder der Kontoinhaber nicht zugestimmt hat.
+- b.[^12-2] Pfand-, Rückbehalts- und Verwertungsrechte der Drittverwahrungsstelle oder von Dritten, die über das Rückbehalts- und Verwertungsrecht der Verwahrungsstelle gemäss Artikel 21 hinausgehen und denen die Kontoinhaberin oder der Kontoinhaber nicht zugestimmt hat.
 
 <sup>2</sup> Die Verwahrungsstelle kann über Bucheffekten einer Kontoinhaberin oder eines Kontoinhabers nur verfügen, nachdem sie diese in Ausübung ihres Nutzungsrechts in ihr eigenes Effektenkonto übertragen hat.
 
 <sup>3</sup> Abweichende Abreden sind nichtig.
+
+[^12-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^12-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ## 4. Kapitel: Rechte aus der Verwahrung von Bucheffekten
 
@@ -367,7 +414,7 @@ Die von einer Aktiengesellschaft nach Artikel 697*i* Absatz 4 oder Artikel 697*j
 - b. Vor- und Nachname sowie Adresse der wirtschaftlich berechtigten Person.
 
 [^23a-1]: Eingefügt durch Ziff. I 8 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 5. Kapitel: Verfügung über Bucheffekten und Wirkung gegenüber Dritten
 
@@ -449,7 +496,7 @@ Die Belastung von Bucheffekten in einem Effektenkonto ist zu stornieren, wenn:
 
 <sup>5</sup> Kontoinhaberinnen oder Kontoinhaber, die qualifizierte Anlegerinnen oder Anleger sind, können mit ihrer Verwahrungsstelle abweichende Vereinbarungen treffen.
 
-[^27-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^27-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^27-2]: Fassung gemäss Anhang Ziff. 29 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 28
@@ -494,7 +541,7 @@ Wer nach Artikel 24, 25 oder 26 Bucheffekten oder Rechte an Bucheffekten in gute
 
 <sup>5</sup> Sind die Stornierungsvoraussetzungen nach Artikel 28 erfüllt, so steht der Erwerberin oder dem Erwerber aufgrund dieses Artikels keine Einwendung gegen die Stornierung einer Gutschrift zu.
 
-[^29-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^29-2]: Fassung gemäss Anhang Ziff. 29 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 30
@@ -505,7 +552,7 @@ Wer nach Artikel 24, 25 oder 26 Bucheffekten oder Rechte an Bucheffekten in gute
 
 <sup>2</sup> Schliesst die Verwahrungsstelle mit der Kontoinhaberin oder dem Kontoinhaber eine Vereinbarung gemäss Artikel 25 Absatz 1 ab, ohne die Erwerberin oder den Erwerber ausdrücklich auf die ihr zustehenden früheren Rechte hinzuweisen, so gilt ihr Recht als dem Recht der Erwerberin oder des Erwerbers untergeordnet.[^30-1]
 
-<sup>3</sup> ...[^30-2]
+<sup>3</sup> …[^30-2]
 
 <sup>4</sup> Abweichende Abreden über die Rangfolge bleiben vorbehalten, entfalten jedoch nur unter den Parteien dieser Abrede Wirkung.
 
@@ -560,7 +607,7 @@ Die Verwahrungsstelle haftet für das Verschulden der Drittverwahrungsstelle wie
 
 <sup>5</sup> Abweichende Abreden sind nur unter Verwahrungsstellen oder zugunsten der Anlegerin oder des Anlegers wirksam.
 
-[^33-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^33-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -598,6 +645,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450)konsultiert werden.
