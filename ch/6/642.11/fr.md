@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20220101/fr"
 
 (LIFD)
 
-du 14 décembre 1990 (Etat le 1<sup>er</sup> janvier 2022)
+du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -222,7 +222,7 @@ Les personnes physiques ont le droit d’être imposées d’après la dépense 
 
 L’impôt est calculé sur la base des dépenses annuelles du contribuable et des personnes dont il a la charge effectuées durant la période de calcul en Suisse et à l’étranger pour assurer leur train de vie, mais au minimum d’après le plus élevé des montants suivants:[^14-2]
 
-- a. 400 000 francs;
+- a.[^14-3] 421 700 francs;
 - b. pour les contribuables chefs de ménage: sept fois le loyer annuel ou la valeur locative au sens de l’art. 21, al. 1, let. b;
 - c. pour les autres contribuables: trois fois le prix de la pension annuelle pour le logement et la nourriture au lieu du domicile au sens de l’art. 3;
 - d.
@@ -236,17 +236,18 @@ L’impôt est calculé sur la base des dépenses annuelles du contribuable et d
   - 5\. les retraites, rentes et pensions de sources suisses,
   - 6\. les revenus pour lesquels le contribuable requiert un dégrèvement partiel ou total d’impôts étrangers en application d’une convention contre les doubles impositions conclue par la Suisse.
 
-<sup>4</sup> L’impôt est perçu d’après le barème de l’impôt ordinaire (art. 36). La réduction prévue à l’art. 36, al. 2<sup>bis</sup>, 2<sup>e</sup> phrase, n’est pas applicable.[^14-3]
+<sup>4</sup> L’impôt est perçu d’après le barème de l’impôt ordinaire (art. 36). La réduction prévue à l’art. 36, al. 2<sup>bis</sup>, 2<sup>e</sup> phrase, n’est pas applicable.[^14-4]
 
 <sup>5</sup> Si les revenus provenant d’un État étranger y sont exonérés à la condition que la Suisse les impose, seuls ou avec d’autres revenus, au taux du revenu total, l’impôt est calculé non seulement sur la base des revenus mentionnés à l’al. 3, let. d, mais aussi de tous les éléments du revenu provenant de l’État-source qui sont attribués à la Suisse en vertu de la convention correspondante contre les doubles impositions.
 
-<sup>6</sup> Le Département fédéral des finances (DFF)[^14-4] adapte le montant fixé à l’al. 3, let. a, à l’indice suisse des prix à la consommation. L’art. 39, al. 2, s’applique par analogie.[^14-5]
+<sup>6</sup> Le Département fédéral des finances (DFF)[^14-5] adapte le montant fixé à l’al. 3, let. a, à l’indice suisse des prix à la consommation. L’art. 39, al. 2, s’applique par analogie.[^14-6]
 
 [^14-1]: Nouvelle teneur selon le ch. I 1 de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [FF 2011 5605](https://fedlex.data.admin.ch/eli/fga/2011/885)). Voir l’art. 205*d* ci-après.
 [^14-2]: Nouvelle teneur selon le ch. II de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^14-3]: Nouvelle teneur selon le ch. II de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^14-4]: Nouvelle expression selon selon le ch. I 2 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)). Il a été tenu compte de cette mod. dans tout le texte.
-[^14-5]: Nouvelle teneur selon le ch. II de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^14-3]: Nouvelle teneur selon l’art. 5 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^14-4]: Nouvelle teneur selon le ch. II de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^14-5]: Nouvelle expression selon selon le ch. I 2 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)). Il a été tenu compte de cette mod. dans tout le texte.
+[^14-6]: Nouvelle teneur selon le ch. II de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 
 ### Chapitre 4 Exemption
 
@@ -430,6 +431,8 @@ L’al. 4 ne s’applique pas aux réserves issues d’apports de capital:
 
 <sup>7</sup> Si, lors de la vente de droits de participation à une société de capitaux ou une société coopérative qui est cotée dans une bourse suisse et qui les a émis, le remboursement des réserves issues d’apports de capital ne correspond pas au moins à la moitié de l’excédent de liquidation obtenu, la part de cet excédent de liquidation imposable est réduite d’un montant correspondant à la moitié de la différence entre cette part et le remboursement, mais au plus du montant des réserves qui sont imputables à ces droits de participation et qui sont disponibles dans la société.[^20-11]
 
+<sup>8</sup> L’al. 3 ne s’applique aux apports et aux agios qui sont versés pendant la durée d’une marge de fluctuation du capital au sens des art. 653*s* ss du code des obligations (CO)[^20-12] que dans la mesure où ils dépassent les remboursements de réserves dans le cadre de ladite marge de fluctuation du capital.[^20-13]
+
 [^20-1]: Nouvelle teneur selon le ch. I 1 de la LF du 23 juin 2006 sur des mod. urgentes de l’imposition des entreprises, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4883](https://fedlex.data.admin.ch/eli/oc/2006/760); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^20-2]: Nouvelle teneur selon le ch. I 5 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 [^20-3]: Nouvelle teneur selon le ch. II 2 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
@@ -441,6 +444,8 @@ L’al. 4 ne s’applique pas aux réserves issues d’apports de capital:
 [^20-9]: Introduit par le ch. I 2 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^20-10]: Introduit par le ch. I 2 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^20-11]: Introduit par le ch. I 2 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^20-12]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^20-13]: Introduit par l’annexe ch. 7 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [112](https://fedlex.data.admin.ch/eli/oc/2022/112); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 20a
 
@@ -514,20 +519,20 @@ Sont exonérés de l’impôt:
 - d. les subsides provenant de fonds publics ou privés;
 - e. les prestations versées en exécution d’une obligation fondée sur le droit de la famille, à l’exception des pensions alimentaires et des contributions d’entretien mentionnées à l’art. 23, let. f;
 - f.[^24-1] la solde du service militaire et l’indemnité de fonction pour service de protection civile, ainsi que l’argent de poche des personnes astreintes au service civil;
-- f <sup>bis</sup>.[^24-2] la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel de 5000 francs, pour les activités liées à l’accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels); les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées;
+- f <sup>bis</sup>.[^24-2] la solde des sapeurs-pompiers de milice, jusqu’à concurrence d’un montant annuel de 5200 francs, pour les activités liées à l’accomplissement de leurs tâches essentielles (exercices, services de piquet, cours, inspections et interventions, notamment pour le sauvetage, la lutte contre le feu, la lutte contre les sinistres en général et la lutte contre les sinistres causés par les éléments naturels); les indemnités supplémentaires forfaitaires pour les cadres, les indemnités supplémentaires de fonction, les indemnités pour les travaux administratifs et les indemnités pour les prestations fournies volontairement ne sont pas exonérées;
 - g. les versements à titre de réparation du tort moral;
 - h. les revenus perçus en vertu de la législation fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité;
 - i.[^24-3] les gains provenant des jeux de casino exploités dans les maisons de jeu et autorisés par la loi fédérale du 29 septembre 2017 sur les jeux d’argents (LJAr)[^24-4], pour autant que ces gains ne soient pas issus d’une activité lucrative indépendante;
-- i<sup>bis</sup>.[^24-5] les gains unitaires jusqu’à concurrence d’un montant d’un million de francs provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
+- i<sup>bis</sup>.[^24-5] les gains unitaires jusqu’à concurrence de 1 038 300 francs provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
 - i<sup>ter</sup>.[^24-6] les gains provenant d’un jeu de petite envergure autorisé par la LJAr;
 - j.[^24-7] les gains unitaires jusqu’à concurrence de 1000 francs provenant d’un jeu d’adresse ou d’une loterie destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e de cette loi;
 - k.[^24-8] les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^24-9].
 
 [^24-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
-[^24-2]: Introduite par le ch. I 1 de la LF du 17 juin 2011 sur l’exonération de la solde allouée pour le service du feu, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2595](https://fedlex.data.admin.ch/eli/fga/2010/508)).
+[^24-2]: Introduite par le ch. I 1 de la LF du 17 juin 2011 sur l’exonération de la solde allouée pour le service du feu ([RO 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2595](https://fedlex.data.admin.ch/eli/fga/2010/508)). Nouvelle teneur selon l’art. 6 al. 1 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
 [^24-3]: Introduite par l’annexe ch. 2 de la LF du 18 déc. 1998 sur les maisons de jeu ([RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 137](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nouvelle teneur selon l’annexe ch. II 5 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-4]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^24-5]: Introduite par l’annexe ch. II 5 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^24-5]: Introduite par l’annexe ch. II 5 de la LF du 29 sept. 2017 sur les jeux d’argent ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Nouvelle teneur selon l’art. 6 al. 2 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
 [^24-6]: Introduite par l’annexe ch. II 5 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-7]: Introduite le ch. I 1 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 5 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-8]: Introduite par l’annexe ch. 2 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
@@ -553,14 +558,14 @@ Le revenu net se calcule en défalquant du total des revenus imposables les déd
 
 Les frais professionnels qui peuvent être déduits sont:
 
-- a.[^26-1] les frais de déplacement nécessaires entre le domicile et le lieu de travail jusqu’à concurrence de 3000 francs;
+- a.[^26-1] les frais de déplacement nécessaires entre le domicile et le lieu de travail jusqu’à concurrence de 3200 francs;
 - b. les frais supplémentaires résultant des repas pris hors du domicile et du travail par équipes;
 - c.[^26-2] les autres frais indispensables à l’exercice de la profession; l’art. 33, al. 1, let. j, est réservé;
 - d.[^26-3] …
 
 <sup>2</sup> Les frais professionnels mentionnés à l’al. 1, let. b et c, sont estimés forfaitairement; dans les cas visés à l’al. 1, let. c, le contribuable peut justifier des frais plus élevés.[^26-4]
 
-[^26-1]: Nouvelle teneur selon le ch. II 1 de la LF du 21 juin 2013 sur le financement et l’aménagement de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [FF 2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305)).
+[^26-1]: Nouvelle teneur selon l’art. 7 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
 [^26-2]: Nouvelle teneur selon le ch. I 1 de la LF du 27 sept. 2013 sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^26-3]: Abrogée par le ch. I 1 de la LF du 27 sept. 2013 sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^26-4]: Nouvelle teneur selon le ch. II 1 de la LF du 21 juin 2013 sur le financement et l’aménagement de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [FF 2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305)).
@@ -610,14 +615,14 @@ Si des sanctions au sens de l’al. 3, let. c et d, ont été prononcées par un
 
 **Amortissements**
 
-<sup>1</sup> Les amortissements des actifs justifiés par l’usage commercial sont autorisés, à condition qu’ils soient comptabilisés ou, en cas de tenue d’une comptabilité simplifiée en vertu de l’art. 957, al. 2, du code des obligations (CO)[^28-1], qu’ils apparaissent dans un plan spécial d’amortissements.[^28-2]
+<sup>1</sup> Les amortissements des actifs justifiés par l’usage commercial sont autorisés, à condition qu’ils soient comptabilisés ou, en cas de tenue d’une comptabilité simplifiée en vertu de l’art. 957, al. 2, CO[^28-1], qu’ils apparaissent dans un plan spécial d’amortissements.[^28-2]
 
 <sup>2</sup> En général, les amortissements sont calculés sur la base de la valeur effective des différents éléments de fortune ou doivent être répartis en fonction de la durée probable d’utilisation de chacun de ces éléments.
 
 <sup>3</sup> Les amortissements opérés sur des actifs qui ont été réévalués afin de compenser des pertes ne sont admis que si les réévaluations étaient autorisées par le droit commercial et que les pertes pouvaient être déduites conformément à l’art. 31, al. 1, au moment de l’amortissement.
 
 [^28-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^28-2]: Nouvelle teneur selon le ch. I 2 de la L du 20 juin 2014 sur la remise de l’impôt, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7549](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+[^28-2]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 29
 
@@ -693,24 +698,24 @@ Sont déduits du revenu:
 - f. les primes et cotisations versées en vertu de la réglementation sur les allocations pour perte de gain, des dispositions sur l’assurance-chômage et l’assurance-accidents obligatoire;
 - g.[^33-6]
 
-  les versements, cotisations et primes d’assurances-vie, d’assurances-maladie, d’assurances-accidents n’entrant pas dans le champ d’application de la let. f, ainsi que les intérêts des capitaux d’épargne du contribuable et des personnes à l’entretien desquelles il pourvoit, jusqu’à concurrence d’un montant global de:
+  les versements, cotisations et primes d’assurances-vie, d’assurances-maladie et ceux d’assurances-accidents qui n’entrent pas dans le champ d’application de la let. f, ainsi que les intérêts des capitaux d’épargne du contribuable et des personnes à l’entretien desquelles il pourvoit, jusqu’à concurrence du montant maximal de:
 
-  - 1\. 3500 francs pour les époux vivant en ménage commun,
-  - 2\. 1700 francs pour les autres contribuables.
+  - 1\. 3600 francs pour les couples mariés vivant en ménage commun,
+  - 2\. 1800 francs pour les autres contribuables;
 
 - h.[^33-7] les frais provoqués par la maladie et les accidents du contribuable ou d’une personne à l’entretien de laquelle il subvient, lorsque le contribuable supporte lui-même ces frais et que ceux-ci excèdent 5 % des revenus imposables diminués des déductions prévues aux art. 26 à 33;
 - h<sup>bis</sup>.[^33-8] les frais liés au handicap du contribuable ou d’une personne à l’entretien de laquelle il subvient lorsque le contribuable ou cette personne est handicapé au sens de la loi du 13 décembre 2002 sur l’égalité pour les handicapés[^33-9] et que le contribuable supporte lui-même les frais;
 - i.[^33-10]
 
-  les cotisations et les versements à concurrence d’un montant de 10 100 francs en faveur d’un parti politique, à l’une des conditions suivantes:
+  les cotisations et les versements jusqu’à concurrence de 10 300 francs en faveur d’un parti politique, à l’une des conditions suivantes:[^33-11]
 
-  - 1\. être inscrit au registre des partis conformément à l’art. 76*a* de la loi fédérale du 17 décembre 1976 sur les droits politiques[^33-11],
+  - 1\. être inscrit au registre des partis conformément à l’art. 76*a* de la loi fédérale du 17 décembre 1976 sur les droits politiques[^33-12],
   - 2\. être représenté dans un parlement cantonal,
   - 3\. avoir obtenu au moins 3 % des voix lors des dernières élections au parlement d’un canton;
 
-- j.[^33-12]
+- j.[^33-13]
 
-  les frais de formation et de formation continue à des fins professionnelles, frais de reconversion compris, jusqu’à concurrence de 12 000 francs pour autant que le contribuable remplisse l’une des conditions suivantes:
+  les frais de formation et de formation continue à des fins professionnelles, frais de reconversion compris, jusqu’à concurrence de 12 700 francs, pour autant que le contribuable remplisse l’une des conditions suivantes:[^33-14]
 
   - 1\. il est titulaire d’un diplôme du degré secondaire II,
   - 2\. il a atteint l’âge de 20 ans et suit une formation visant à l’obtention d’un diplôme autre qu’un premier diplôme du degré secondaire II.
@@ -720,31 +725,33 @@ Sont déduits du revenu:
 Les déductions prévues à l’al. 1, let. g, sont augmentées:
 
 - a. de moitié pour les contribuables qui ne versent pas de cotisations selon l’al. 1, let. d et e;
-- b. de 700 francs pour chaque enfant ou personne nécessiteuse pour lesquels le contribuable peut faire valoir la déduction prévue à l’art. 35, al. 1, let. a ou b.[^33-13]
+- b. de 700 francs pour chaque enfant ou personne nécessiteuse pour lesquels le contribuable peut faire valoir la déduction prévue à l’art. 35, al. 1, let. a ou b.[^33-15]
 
-<sup>2</sup> Lorsque les époux vivent en ménage commun et exercent chacun une activité lucrative, 50 % du produit de l’activité lucrative la moins rémunérée sont déduits, mais au moins 8100 francs et au plus 13 400 francs.[^33-14] Le revenu de l’activité lucrative est constitué du revenu imposable de l’activité lucrative salariée ou indépendante diminué des charges visées aux art. 26 à 31 et des déductions générales prévues à l’al. 1, let. d à f. La moitié du revenu global des époux est attribuée à chaque époux lorsque l’un des conjoints fournit un travail important pour seconder l’autre dans sa profession, son commerce ou son entreprise ou lorsqu’ils exercent une activité lucrative indépendante commune. Toute autre répartition doit être justifiée par les époux.[^33-15]
+<sup>2</sup> Lorsque les époux vivent en ménage commun et exercent chacun une activité lucrative, 50 % du produit de l’activité lucrative la moins rémunérée sont déduits, mais au moins 8300 francs et au plus 13 600 francs.[^33-16] Le revenu de l’activité lucrative est constitué du revenu imposable de l’activité lucrative salariée ou indépendante diminué des charges visées aux art. 26 à 31 et des déductions générales prévues à l’al. 1, let. d à f. La moitié du revenu global des époux est attribuée à chaque époux lorsque l’un des conjoints fournit un travail important pour seconder l’autre dans sa profession, son commerce ou son entreprise ou lorsqu’ils exercent une activité lucrative indépendante commune. Toute autre répartition doit être justifiée par les époux.[^33-17]
 
-<sup>3</sup> Un montant de 10 100 francs au plus par enfant dont la garde est assurée par un tiers est déduit du revenu si l’enfant a moins de 14 ans et vit dans le même ménage que le contribuable assurant son entretien et si les frais de garde documentés ont un lien de causalité direct avec l’activité lucrative, la formation ou l’incapacité de gain du contribuable.[^33-16]
+<sup>3</sup> Un montant de 25 000 francs au plus par enfant dont la garde est assurée par un tiers est déduit du revenu si l’enfant a moins de 14 ans et vit dans le même ménage que le contribuable assurant son entretien et si les frais de garde documentés ont un lien de causalité direct avec l’activité lucrative, la formation ou l’incapacité de gain du contribuable.[^33-18]
 
-<sup>4</sup> Sont déduits des gains unitaires provenant des jeux d’argent non exonérés de l’impôt selon l’art. 24, let. i<sup>bis</sup> à j, 5 % à titre de mise, mais au plus 5000 francs. Sont déduits des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l’art. 24, let. i<sup>bis</sup>, les mises prélevées du compte en ligne du joueur au cours de l’année fiscale, mais au plus 25 000 francs.[^33-17]
+<sup>4</sup> Sont déduits des gains unitaires provenant des jeux d’argent non exonérés de l’impôt selon l’art. 24, let. i<sup>bis</sup> à j, 5 % à titre de mise, mais au plus 5200 francs. Sont déduits des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l’art. 24, let. i<sup>bis</sup>, les mises prélevées du compte en ligne du joueur au cours de l’année fiscale, mais au plus 26 000 francs.[^33-19]
 
 [^33-1]: Introduit par l’annexe ch. 3 de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^33-2]: Nouvelle teneur selon le ch. I 5 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 [^33-3]: Nouvelle teneur selon le ch. II 2 de la LF du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^33-4]: Nouvelle teneur selon le ch. I 5 de la LF du 19 mars 1999 sur le programme de stabilisation 1998, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); FF **1999** 3).
 [^33-5]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5835](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^33-6]: Nouvelle teneur selon le ch. I 1 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^33-6]: Nouvelle teneur selon l’art. 3 al. 1 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
 [^33-7]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 13 déc. 2002 sur l’égalité pour les handicapés, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1605](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^33-8]: Introduite par l’annexe ch. 2 de la LF du 13 déc. 2002 sur l’égalité pour les handicapés, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1605](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^33-9]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^33-10]: Nouvelle teneur selon l’art. 6 al. 3 de l’O du DFF du 22 sept. 2011 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4503](https://fedlex.data.admin.ch/eli/oc/2011/626)).
-[^33-11]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^33-12]: Introduite par le ch. I 1 de la LF du 27 sept. 2013 sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
-[^33-13]: Introduit par le ch. I 1 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^33-14]: Nouvelle teneur selon l’art. 3 al. 1 de l’O du DFF du 2 sept. 2013 sur la compensation des effets de la progression à froid pour les personnes physiques en matière d’impôt fédéral direct, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3027](https://fedlex.data.admin.ch/eli/oc/2013/589)).
-[^33-15]: Nouvelle teneur selon le ch. I 1 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^33-16]: Introduit par le ch. I 1 de la LF du 25 sept. 2009 sur les allégements fiscaux en faveur des familles avec enfants ([RO 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4237](https://fedlex.data.admin.ch/eli/fga/2009/815)). Nouvelle teneur selon l’art. 3 al. 2 de l’O du DFF du 2 sept. 2013 sur la compensation des effets de la progression à froid pour les personnes physiques en matière d’impôt fédéral direct, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3027](https://fedlex.data.admin.ch/eli/oc/2013/589)).
-[^33-17]: Introduit le ch. I 1 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 5 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^33-11]: Nouvelle teneur selon l’art. 3 al. 2 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^33-12]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^33-13]: Introduite par le ch. I 1 de la LF du 27 sept. 2013 sur l’imposition des frais de formation et de perfectionnement à des fins professionnelles, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [FF 2011 2429](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^33-14]: Nouvelle teneur selon l’art. 3 al. 3 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^33-15]: Introduit par le ch. I 1 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^33-16]: Nouvelle teneur selon l’art. 3 al. 4 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^33-17]: Nouvelle teneur selon le ch. I 1 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^33-18]: Introduit par le ch. I 1 de la LF du 25 sept. 2009 sur les allégements fiscaux en faveur des familles avec enfants ([RO 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [FF 2009 4237](https://fedlex.data.admin.ch/eli/fga/2009/815)). Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021 (Déduction fiscale des frais de garde des enfants par des tiers), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 120](https://fedlex.data.admin.ch/eli/oc/2022/120); [FF 2021 1068](https://fedlex.data.admin.ch/eli/fga/2021/1068), [1186](https://fedlex.data.admin.ch/eli/fga/2021/1186)).
+[^33-19]: Introduit le ch. I 1 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’art. 3 al. 5 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
 
 #### Art. 33a
 
@@ -776,18 +783,19 @@ Ne peuvent être déduits les autres frais et dépenses, en particulier:
 
 Sont déduits du revenu:
 
-- a.[^35-1] 6500 francs pour chaque enfant mineur ou faisant un apprentissage ou des études, dont le contribuable assure l’entretien; lorsque les parents sont imposés séparément, cette déduction est répartie par moitié s’ils exercent l’autorité parentale en commun et ne demandent pas la déduction d’une contribution d’entretien pour l’enfant selon l’art. 33, al. 1, let. c;
-- b.[^35-2] 6500 francs pour chaque personne totalement ou partiellement incapable d’exercer une activité lucrative, à l’entretien de laquelle le contribuable pourvoit, à condition que son aide atteigne au moins le montant de la déduction; cette déduction n’est pas accordée pour l’épouse ni pour les enfants pour lesquels la déduction est accordée selon la let. a;
-- c. 2600 francs pour les époux qui vivent en ménage commun.[^35-3]
+- a.[^35-1] 6600 francs pour chaque enfant mineur ou faisant un apprentissage ou des études, dont le contribuable assure l’entretien; lorsque les parents sont imposés séparément, cette déduction est répartie par moitié s’ils exercent l’autorité parentale en commun et ne demandent pas la déduction d’une contribution d’entretien pour l’enfant selon l’art. 33, al. 1, let. c;
+- b.[^35-2] 6600 francs pour chaque personne totalement ou partiellement incapable d’exercer une activité lucrative, à l’entretien de laquelle le contribuable pourvoit, à condition que son aide atteigne au moins le montant de la déduction; cette déduction n’est pas accordée pour l’épouse ni pour les enfants pour lesquels la déduction est accordée selon la let. a;
+- c.[^35-3] 2700 francs pour les couples mariés vivant en ménage commun.[^35-4]
 
-<sup>2</sup> Les déductions sociales sont fixées en fonction de la situation du contribuable à la fin de la période fiscale (art. 40) ou de l’assujettissement.[^35-4]
+<sup>2</sup> Les déductions sociales sont fixées en fonction de la situation du contribuable à la fin de la période fiscale (art. 40) ou de l’assujettissement.[^35-5]
 
 <sup>3</sup> En cas d’assujettissement partiel, les déductions sociales sont accordées proportionnellement.
 
-[^35-1]: Nouvelle teneur selon l’art. 4 de l’O du DFF du 2 sept. 2013 sur la compensation des effets de la progression à froid pour les personnes physiques en matière d’impôt fédéral direct, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3027](https://fedlex.data.admin.ch/eli/oc/2013/589)).
-[^35-2]: Nouvelle teneur selon l’art. 4 de l’O du DFF du 2 sept. 2013 sur la compensation des effets de la progression à froid pour les personnes physiques en matière d’impôt fédéral direct, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3027](https://fedlex.data.admin.ch/eli/oc/2013/589)).
-[^35-3]: Nouvelle teneur selon le ch. I 1 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^35-1]: Nouvelle teneur selon l’art. 4 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^35-2]: Nouvelle teneur selon l’art. 4 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^35-3]: Nouvelle teneur selon l’art. 4 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
 [^35-4]: Nouvelle teneur selon le ch. I 1 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
+[^35-5]: Nouvelle teneur selon le ch. I 1 de la LF du 22 mars 2013 sur la mise à jour formelle du calcul dans le temps de l’impôt direct dû par les personnes physiques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [FF 2011 3381](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 
 ### Chapitre 5 Calcul de l’impôt
 
@@ -798,71 +806,72 @@ Sont déduits du revenu:
 <sup>1</sup> L’impôt dû pour une année fiscale s’élève:
 
 <table>
-<tr><th></th><th>Francs</th></tr>
-<tr><td>jusqu’à 14 500 francs de revenu, à</td><td>0.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>0.77;</td></tr>
-<tr><td>pour 31 600 francs de revenu, à</td><td>131.65</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>0.88 de plus;</td></tr>
-<tr><td>pour 41 400 francs de revenu, à</td><td>217.90</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>2.64 de plus;</td></tr>
-<tr><td>pour 55 200 francs de revenu, à</td><td>582.20</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>2.97 de plus;</td></tr>
-<tr><td>pour 72 500 francs de revenu, à</td><td>1096.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>5.94 de plus;</td></tr>
-<tr><td>pour 78 100 francs de revenu, à</td><td>1428.60</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>6.60 de plus;</td></tr>
-<tr><td>pour 103 600 francs de revenu, à</td><td>3111.60</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>8.80 de plus;</td></tr>
-<tr><td>pour 134 600 francs de revenu, à</td><td>5839.60</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>11.00 de plus;</td></tr>
-<tr><td>pour 176 000 francs de revenu, à</td><td>10 393.60</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>13.20 de plus;</td></tr>
-<tr><td>pour 755 200 francs de revenu, à</td><td>86 848.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>11.50 de plus .[^36-1]</td></tr>
+<tr><th></th><th></th><th>Francs</th><th></th><th></th></tr>
+<tr><td>jusqu’à</td><td>14 800 francs de revenu, à</td><td>0.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>0.77</td><td>;</td><td></td></tr>
+<tr><td>pour</td><td>32 200 francs de revenu, à</td><td>133.95</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>0.88</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>42 200 francs de revenu, à</td><td>221.95</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>2.64</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>56 200 francs de revenu, à</td><td>591.55</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>2.97</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>73 900 francs de revenu, à</td><td>1117.20</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>5.94</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>79 600 francs de revenu, à</td><td>1455.75</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>6.60</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>105 500 francs de revenu, à</td><td>3165.15</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>8.80</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>137 200 francs de revenu, à</td><td>5954.75</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>11.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>179 400 francs de revenu, à</td><td>10 596.75</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>13.20</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>769 600 francs de revenu, à</td><td>88 503.15</td><td></td><td></td></tr>
+<tr><td>pour</td><td>769 700 francs de revenu, à</td><td>88 515.50</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>11.50</td><td></td><td>de plus.[^36-1]</td></tr>
 </table>
 
 <sup>2</sup> Pour les époux vivant en ménage commun, l’impôt annuel s’élève:
 
 <table>
-<tr><th></th><th>Francs</th></tr>
-<tr><td>jusqu’à 28 300 francs de revenu, à</td><td>0.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>1.00;</td></tr>
-<tr><td>pour 50 900 francs de revenu, à</td><td>226.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>2.00 de plus;</td></tr>
-<tr><td>pour 58 400 francs de revenu, à</td><td>376.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>3.00 de plus;</td></tr>
-<tr><td>pour 75 300 francs de revenu, à</td><td>883.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>4.00 de plus;</td></tr>
-<tr><td>pour 90 300 francs de revenu, à</td><td>1483.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>5.00 de plus;</td></tr>
-<tr><td>pour 103 400 francs de revenu, à</td><td>2138.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>6.00 de plus;</td></tr>
-<tr><td>pour 114 700 francs de revenu, à</td><td>2816.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>7.00 de plus;</td></tr>
-<tr><td>pour 124 200 francs de revenu, à</td><td>3481.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>8.00 de plus;</td></tr>
-<tr><td>pour 131 700 francs de revenu, à</td><td>4081.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>9.00 de plus;</td></tr>
-<tr><td>pour 137 300 francs de revenu, à</td><td>4585.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>10.00 de plus;</td></tr>
-<tr><td>pour 141 200 francs de revenu, à</td><td>4975.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>11.00 de plus;</td></tr>
-<tr><td>pour 143 100 francs de revenu, à</td><td>5184.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>12.00 de plus;</td></tr>
-<tr><td>pour 145 000 francs de revenu, à</td><td>5412.00</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>13.00 de plus;</td></tr>
-<tr><td>pour 895 800 francs de revenu, à</td><td>103 016.00 ;</td></tr>
-<tr><td>pour 895 900 francs de revenu, à</td><td>103 028.50</td></tr>
-<tr><td>et, par 100 francs de revenu en plus, à</td><td>11.50 de plus.[^36-2]</td></tr>
+<tr><th></th><th></th><th>Francs</th><th></th><th></th></tr>
+<tr><td>jusqu’à</td><td>28 800 francs de revenu, à</td><td>0.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>1.00</td><td>;</td><td></td></tr>
+<tr><td>pour</td><td>51 800 francs de revenu, à</td><td>230.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>2.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>59 400 francs de revenu, à</td><td>382.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>3.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>76 700 francs de revenu, à</td><td>901.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>4.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>92 000 francs de revenu, à</td><td>1513.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>5.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>105 400 francs de revenu, à</td><td>2183.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>6.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>116 900 francs de revenu, à</td><td>2873.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>7.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>126 500 francs de revenu, à</td><td>3545.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>8.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>134 200 francs de revenu, à</td><td>4161.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>9.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>139 900 francs de revenu, à</td><td>4674.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>10.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>143 800 francs de revenu, à</td><td>5064.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>11.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>145 800 francs de revenu, à</td><td>5284.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>12.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>147 700 francs de revenu, à</td><td>5512.00</td><td></td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>13.00</td><td></td><td>de plus;</td></tr>
+<tr><td>pour</td><td>912 600 francs de revenu, à</td><td>104 949.00</td><td>;</td><td></td></tr>
+<tr><td></td><td>et, par 100 francs de revenu en plus, à</td><td>11.50</td><td></td><td>de plus.[^36-2]</td></tr>
 </table>
 
-<sup>2bis</sup> L’al. 2 s’applique par analogie aux époux vivant en ménage commun et aux contribuables veufs, séparés, divorcés ou célibataires qui vivent en ménage commun avec des enfants ou des personnes nécessiteuses dont ils assument pour l’essentiel l’entretien. Le montant de l’impôt ainsi fixé est réduit de 251 francs par enfant et par personne nécessiteuse.[^36-3]
+<sup>2bis</sup> L’al. 2 s’applique par analogie aux époux vivant en ménage commun et aux contribuables veufs, séparés, divorcés ou célibataires qui vivent en ménage commun avec des enfants ou des personnes nécessiteuses dont ils assument pour l’essentiel l’entretien. Le montant de l’impôt ainsi fixé est réduit de 255 francs par enfant et par personne nécessiteuse.[^36-3] [^36-4]
 
 <sup>3</sup> Les montants d’impôt inférieurs à 25 francs ne sont pas perçus.
 
-[^36-1]: Nouvelle teneur selon l’art. 2 al. 1 de l’O du DFF du 2 sept. 2013 sur la compensation des effets de la progression à froid pour les personnes physiques en matière d’impôt fédéral direct, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3027](https://fedlex.data.admin.ch/eli/oc/2013/589)).
-[^36-2]: Nouvelle teneur selon l’art. 2 al. 2 de l’O du DFF du 2 sept. 2013 sur la compensation des effets de la progression à froid pour les personnes physiques en matière d’impôt fédéral direct, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3027](https://fedlex.data.admin.ch/eli/oc/2013/589)).
-[^36-3]: Introduit par le ch. I 1 de la LF du 25 sept. 2009 sur les allégements fiscaux en faveur des familles avec enfants ([[RO 2010 455](http://www.admin.ch/ch/f/as/2010/455.pdf)](https://fedlex.data.admin.ch/eli/oc/2010/60); [[FF 2009 4237](http://www.admin.ch/ch/f/ff/2009/4237.pdf)](https://fedlex.data.admin.ch/eli/fga/2009/815)). Nouvelle teneur selon l’art. 2 al. 3 de l’O du DFF du 2 sept. 2013 sur la compensation des effets de la progression à froid pour les personnes physiques en matière d’impôt fédéral direct, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3027](https://fedlex.data.admin.ch/eli/oc/2013/589)).
+[^36-1]: Nouvelle teneur selon l’art. 2 al. 1 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^36-2]: Nouvelle teneur selon l’art. 2 al. 2 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^36-3]: Nouvelle teneur de la phrase selon l’art. 2 al. 3 de l’O du DFF du 16 sept. 2022 sur la progression à froid, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 575](https://fedlex.data.admin.ch/eli/oc/2022/575)).
+[^36-4]: Introduit par le ch. I 1 de la LF du 25 sept. 2009 sur les allégements fiscaux en faveur des familles avec enfants ([[RO 2010 455](http://www.admin.ch/ch/f/as/2010/455.pdf)](https://fedlex.data.admin.ch/eli/oc/2010/60); [[FF 2009 4237](http://www.admin.ch/ch/f/ff/2009/4237.pdf)](https://fedlex.data.admin.ch/eli/fga/2009/815)). Nouvelle teneur selon l’art. 2 al. 3 de l’O du DFF du 2 sept. 2013 sur la compensation des effets de la progression à froid pour les personnes physiques en matière d’impôt fédéral direct, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3027](https://fedlex.data.admin.ch/eli/oc/2013/589)).
 
 ### Section 2 Cas particuliers
 
@@ -931,7 +940,7 @@ Lorsque le revenu comprend des versements de capitaux remplaçant des prestation
 [^39-1]: Nouvelle teneur selon le ch. I de LF du 25 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [FF 2009 1415](https://fedlex.data.admin.ch/eli/fga/2009/362)).
 [^39-2]: Abrogé par le ch. I de LF du 25 sept. 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [FF 2009 1415](https://fedlex.data.admin.ch/eli/fga/2009/362)).
 
-### Titre 3**** Imposition dans le temps
+### Titre 3 Imposition dans le temps
 
 [^part2-tit3-1]
 
@@ -1361,12 +1370,7 @@ Les bénéfices en capital n’entrent dans le calcul de la réduction que:
 
 <sup>5</sup> Les transactions qui se traduisent au sein du groupe par une économie d’impôt injustifiée entraînent une rectification du bénéfice imposable ou une diminution de la réduction. L’économie d’impôt est injustifiée lorsque les bénéfices en capital et les pertes en capital ou les amortissements relatifs à des participations au sens des art. 62, 69 et 70 sont en relation de cause à effet.[^70-7]
 
-<sup>6</sup>
-
-En ce qui concerne les sociétés mères de banques d’importance systémique au sens de l’art. 7, al. 1, de la loi du 8 novembre 1934 sur les banques (LB)[^70-8], ne sont pas pris en compte pour le calcul du rendement net au sens de l’al. 1 les frais de financement relatifs aux emprunts suivants et la créance inscrite au bilan à la suite du transfert au sein du groupe des fonds provenant des emprunts suivants:
-
-- a. emprunts à conversion obligatoire et emprunts assortis d’un abandon de créances visés à l’art. 11, al. 4, LB, et
-- b. instruments de dette destinés à absorber les pertes en présence de mesures en cas d’insolvabilité au sens des art. 28 à 32 LB.[^70-9]
+<sup>6</sup> En ce qui concerne les sociétés mères de banques d’importance systémique au sens de l’art. 7, al. 1, de la loi du 8 novembre 1934 sur les banques (LB)[^70-8], ne sont pas pris en compte pour le calcul du rendement net au sens de l’al. 1 les frais de financement et la créance inscrite au bilan à la suite du transfert au sein du groupe des fonds provenant des instruments d’emprunt visés aux art. 11, al. 4, ou 30*b*, al. 6 ou 7, let. b, LB et approuvés par l’Autorité fédérale de surveillance des marchés financiers pour répondre aux exigences réglementaires.[^70-9]
 
 [^70-1]: Nouvelle teneur selon le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^70-2]: Abrogée par le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, avec effet au 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
@@ -1376,7 +1380,7 @@ En ce qui concerne les sociétés mères de banques d’importance systémique a
 [^70-6]: Introduit par le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^70-7]: Introduit par le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^70-8]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^70-9]: Introduit par le ch. I 1 de la LF du 14 déc. 2018 sur le calcul de la réduction pour participation pour les banques d’importance systémique, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1215](https://fedlex.data.admin.ch/eli/fga/2018/511)).
+[^70-9]: Introduit par le ch. I 1 de la LF du 14 déc. 2018 sur le calcul de la réduction pour participation pour les banques d’importance systémique ([RO 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [FF 2018 1215](https://fedlex.data.admin.ch/eli/fga/2018/511)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### Section 3 Associations, fondations et autres personnes morales
 
@@ -1388,7 +1392,7 @@ En ce qui concerne les sociétés mères de banques d’importance systémique a
 
 [^71-1]: Nouvelle teneur selon le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
-### Section 4**** Placements collectifs de capitaux
+### Section 4 Placements collectifs de capitaux
 
 [^part3-tit2-chap2-sec4-1]
 
@@ -1426,7 +1430,11 @@ L’impôt sur le bénéfice des placements collectifs de capitaux qui possèden
 
 <sup>1</sup> L’impôt sur le bénéfice net est calculé sur la base du bénéfice net réalisé pendant la période fiscale.
 
+<sup>1bis</sup> Si les comptes annuels sont établis dans une monnaie étrangère, le bénéfice net imposable doit être converti en francs. Le taux de change moyen (vente) de la période fiscale est déterminant.[^80-1]
+
 <sup>2</sup> Lors de la liquidation d’une personne morale ou du transfert à l’étranger de son siège, de son administration, d’une entreprise ou d’un établissement stable, les réserves latentes constituées au moyen de bénéfices non soumis à l’impôt sont imposées avec le bénéfice net du dernier exercice.
+
+[^80-1]: Introduit par l’annexe ch. 7 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 81
 
@@ -1562,7 +1570,7 @@ Les personnes imposées à la source en vertu de l’art. 83, al. 1, sont soumis
 
 [^90-1]: Abrogé par le ch. I 1 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### Titre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse****
+### Titre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse
 
 [^part4-tit2-1]
 
@@ -1772,7 +1780,7 @@ L’AFC peut notamment:
 
 ### Chapitre 2 Autorités cantonales
 
-### Section 1 Organisation et surveillance****
+### Section 1 Organisation et surveillance
 
 [^part5-tit1-chap2-sec1-1]
 
@@ -3255,7 +3263,7 @@ L’art. 47, al. 2, de la loi fédérale du 20 septembre 1949 sur l’assurance 
 
 **Modification de la LAVS**
 
-### …**
+### …
 
 [^203-subdiv-1]
 
@@ -3423,7 +3431,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1995[^222-2]
 [^222-1]: Abrogé par le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, avec effet au 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^222-2]: ACF du 3 juin 1991
 
-## Dispositions finales de la modification du 8 octobre 2004****
+## Dispositions finales de la modification du 8 octobre 2004
 
 [^u1-1]
 
