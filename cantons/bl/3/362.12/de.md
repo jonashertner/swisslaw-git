@@ -4,13 +4,13 @@ number: "362.12"
 title: Verordnung über die Prämienverbilligung in der Krankenpflegeversicherung
 short: "Prämienverbilligungsverordnung, PVV"
 language: de
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-04-09
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-20
 adopted: 2002-11-12
 in_force: 2003-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/362.12"
-pdf: "https://bl.clex.ch/api/de/versions/2886/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3492/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2886/pdf_file"
 
 (Prämienverbilligungsverordnung, PVV)
 
-Vom 12.11.2002 (Stand 01.01.2020)
+Vom 12.11.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -75,23 +75,15 @@ beschliesst:
 
 **Richtprämie ([§ 8a Abs. 2 EG KVG](https://bl.clex.ch/data/362/de/art8a))**
 
-<sup>1</sup> Die Richtprämie beträgt für das Jahr 2020:
+<sup>1</sup> Die Richtprämie beträgt:
 
-- a. CHF 250.– im Monat für Erwachsene,
-- b. CHF 225.– im Monat für junge Erwachsene,
-- c. CHF 115.– im Monat für Kinder.
+- a. CHF 305.– im Monat für Erwachsene;
+- b. CHF 271.– im Monat für junge Erwachsene;
+- c. CHF 142.– im Monat für Kinder.
 
-<sup>1<sup>bis</sup></sup> Sie beträgt für das Jahr 2021:
+<sup>1<sup>bis</sup></sup> …
 
-- a. CHF 260.– im Monat für Erwachsene,
-- b. CHF 235.– im Monat für junge Erwachsene,
-- c. CHF 125.– im Monat für Kinder.
-
-<sup>1<sup>ter</sup></sup> Sie beträgt ab dem Jahr 2022:
-
-- a. CHF 275.– im Monat für Erwachsene,
-- b. CHF 250.– im Monat für junge Erwachsene,
-- c. CHF 135.– für Kinder.
+<sup>1<sup>ter</sup></sup> …
 
 <sup>2</sup> Bei Änderungen der Richtprämien informiert der Regierungsrat die zuständige Kommission des Landrates.
 
