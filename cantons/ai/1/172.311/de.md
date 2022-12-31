@@ -4,13 +4,13 @@ number: "172.311"
 title: Standeskommissionsbeschluss zur Personalverordnung
 short: StKB PeV
 language: de
-version: 2022-04-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-15
+version: 2023-01-01
+valid_until: 2023-07-31
+version_adopted: 2023-01-03
 adopted: 1999-04-13
 in_force: 1999-04-13
 url: "https://ai.clex.ch/app/de/texts_of_law/172.311"
-pdf: "https://ai.clex.ch/api/de/versions/2009/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2200/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2009/pdf_file"
 
 (StKB PeV)
 
-vom 13.04.1999 (Stand 01.04.2022)
+vom 13.04.1999 (Stand 01.01.2023)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -752,9 +752,18 @@ beschliesst:
 
 **Zeiterfassung**
 
-<sup>1</sup> Für die geleistete Arbeitszeit ist eine Zeiterfassung zu führen.
+<sup>1</sup> Für die geleistete Arbeitszeit ist eine elektronische Zeiterfassung zu führen. Der Departementsvorsteher kann eine projekt- oder aufgabenbezogene Zeiterfassung anordnen.
 
 <sup>2</sup> Die Zeiterfassung ist vom Vorgesetzten zu kontrollieren.
+
+<sup>3</sup> Folgende Zeiterfassungsarten unterliegen der Visierung durch den Vorgesetzten:
+
+- a) Absenzen, namentlich wegen Ferien, Urlaub, Weiterbildung, Krankheit oder Unfall,
+- b) Anordnung und Bezug von Überstunden,
+- c) Arbeitszeiten im Stundenlohn und
+- d) angeordnete Zeiterfassung für Projekte oder bestimmte Arbeiten.
+
+<sup>4</sup> Das Finanzdepartement legt das Zeiterfassungssystem, die Modalitäten der Erfassung, das Verfahren und die Visumsregelung für die obersten Kader im Rahmen einer Weisung fest.
 
 #### Art. 53
 
@@ -792,7 +801,7 @@ beschliesst:
 
 **Vertrauensarbeitszeit**
 
-<sup>1</sup> Mitarbeitende mit Vertrauensarbeitszeit sind von der Erfassung der Arbeitszeit befreit. Sie können Überstunden und Gleitzeit weder generieren noch kompensieren.
+<sup>1</sup> Mitarbeitende mit Vertrauensarbeitszeit können Überstunden und Gleitzeit weder generieren noch kompensieren. Sie sind von der Erfassung der Arbeitszeit befreit, ausser für Absenzen und angeordnete projekt- oder aufgabenbezogene Zeiterfassungen.
 
 <sup>2</sup> Mitarbeitende der Funktionsstufen 15 und 16 haben Vertrauensarbeitszeit.
 
