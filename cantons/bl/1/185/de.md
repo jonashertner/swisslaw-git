@@ -4,13 +4,13 @@ number: "185"
 title: Finanzausgleichsgesetz
 short: FAG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-16
+version: 2023-01-01
+valid_until: 2023-09-11
+version_adopted: 2022-09-15
 adopted: 2009-06-25
 in_force: 2010-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/185"
-pdf: "https://bl.clex.ch/api/de/versions/3092/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3501/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3092/pdf_file"
 
 (FAG)
 
-Vom 25.06.2009 (Stand 01.01.2022)
+Vom 25.06.2009 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -83,11 +83,11 @@ beschliesst:[^ingress-2]
 
 **Horizontaler Ausgleich**
 
-<sup>1</sup> Einwohnergemeinden, deren Steuerkraft über einem bestimmten Ausgleichsniveau liegt (kurz: Gebergemeinden), leisten Beiträge in den horizontalen Ausgleich an Einwohnergemeinden, deren Steuerkraft darunter liegt (kurz: Empfängergemeinden).
+<sup>1</sup> Einwohnergemeinden, deren Steuerkraft über dem Ausgleichsniveau liegt («Gebergemeinden»), leisten Beiträge an Einwohnergemeinden, deren Steuerkraft darunterliegt («Empfängergemeinden»).
 
-<sup>2</sup> Der Regierungsrat legt in der Verordnung die Höhe des Ausgleichsniveaus fest. Er berücksichtigt dabei die Empfehlung der Konsultativkommission.
+<sup>2</sup> Der Regierungsrat legt das Ausgleichsniveau für das Folgejahr mittels Verfügung («Finanzausgleichsverfügung») fest. Er berücksichtigt dabei die Empfehlung der Konsultativkommission.
 
-<sup>3</sup> Das Ausgleichsniveau gilt jeweils für 3 Jahre, erstmals für die Jahre 2016–2018.
+<sup>3</sup> …
 
 #### § 6
 
@@ -103,17 +103,19 @@ beschliesst:[^ingress-2]
 
 **Empfängergemeinden**
 
-<sup>1</sup> Die Empfängergemeinden erhalten die Summe der Beiträge gemäss § 6. Vorbehalten bleibt Abs. 2.
+<sup>1</sup> Die Empfängergemeinden erhalten die Differenz zwischen ihrer Steuerkraft und dem Ausgleichsniveau multipliziert mit ihrer Einwohnerzahl.
 
-<sup>2</sup> Ist die Summe kleiner oder grösser als die Differenz der Steuerkraft der Empfängergemeinden zum Ausgleichsniveau multipliziert mit ihrer Einwohnerzahl, erhalten die Empfängergemeinden einen zusätzlichen bzw. einen reduzierten Beitrag.
+<sup>2</sup> …
 
 #### § 6b
 
-**Zusatz, Reduktion, Ausgleichsfonds**
+**Ausgleichsfonds und Anpassung des Ausgleichsniveaus**
 
-<sup>1</sup> Der zusätzliche Beitrag beträgt pro Einwohner höchstens die Differenz bis zum Ausgleichsniveau und ist zudem bei demjenigen Wert begrenzt, der einem Abschöpfungssatz von 17 % entsprechen würde. Er wird einem Fonds («Ausgleichsfonds») entnommen.
+<sup>1</sup> Leisten die Gebergemeinden höhere Beiträge als dass die Empfängergemeinden erhalten, wird die Differenz in den Ausgleichsfonds eingelegt.
 
-<sup>2</sup> Die Reduktion des Beitrags pro Einwohner entspricht der Differenz bis zum Ausgleichsniveau. Sie wird in den Ausgleichsfonds eingelegt.
+<sup>2</sup> Leisten die Gebergemeinden geringere Beiträge als dass die Empfängergemeinden erhalten, wird die Differenz dem Ausgleichsfonds entnommen.
+
+<sup>3</sup> Das Ausgleichsniveau wird im Finanzausgleichsjahr angepasst, wenn der Ausgleichsfonds ansonsten eine gewisse Grenze unter- oder überschreiten würde. Der Regierungsrat regelt die Einzelheiten in der Verordnung.
 
 #### § 7
 
@@ -220,15 +222,27 @@ beschliesst:[^ingress-2]
 
 #### § 15a
 
-**Leistung der Einwohnergemeinden**
+**Leistung der Einwohnergemeinden, vergangene Aufgabenverschiebungen**
 
-<sup>1</sup> Zur Kompensation der Aufgabenverschiebungen «Realschulbautenübernahme», «Kindes- und Erwachsenenschutzbehörde» und «Ambulante Kinder- und Jugendhilfe» leisten die Einwohnergemeinden dem Kanton jährlich CHF 8'550'000.–.
+<sup>1</sup> Zur Kompensation vergangener Aufgabenverschiebungen leisten die Einwohnergemeinden dem Kanton:
 
 - a. …
 - b. …
 - c. …
+- d. im Jahr 2023 CHF 6'650'000.–,
+- e. im Jahr 2024 CHF 4'750'000.–,
+- f. im Jahr 2025 CHF 2'850'000.–,
+- g. im Jahr 2026 CHF 950'000.–.
 
 <sup>1<sup>bis</sup></sup> …
+
+<sup>2</sup> Der einzelne Gemeindeanteil richtet sich nach der Einwohnerzahl.
+
+#### § 15abis
+
+**Leistung des Kantons, vergangene Aufgabenverschiebungen**
+
+<sup>1</sup> Zur Kompensation vergangener Aufgabenverschiebungen leistet der Kanton den Einwohnergemeinden ab dem Jahr 2027 jährlich CHF 950'000.–.
 
 <sup>2</sup> Der einzelne Gemeindeanteil richtet sich nach der Einwohnerzahl.
 
@@ -296,6 +310,8 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Dieses Gesetz tritt am 1. Januar 2010 in Kraft.
 
+## 6 Übergangsbestimmungen
+
 #### § 21
 
 **Übergangsbeiträge**
@@ -311,10 +327,29 @@ beschliesst:[^ingress-2]
 
 <sup>4</sup> In der Verordnung werden die Differenzbeträge gemäss Abs. 2 für die betroffenen Einwohnergemeinden festgeschrieben.
 
+#### § 21a
+
+**Übergangsregelung Vermögenssteuerreform I**
+
+<sup>1</sup> Zur Abfederung der Auswirkungen der Vermögenssteuerreform I leistet der Kanton den Einwohnergemeinden in Ergänzung zur reduzierten Kompensationsleistung gemäss § 15a und § 15a<sup>bis</sup>:
+
+- a. im Jahr 2023 CHF 7'600'000.–,
+- b. im Jahr 2024 CHF 5'700'000.–,
+- c. im Jahr 2025 CHF 3'800'000.–,
+- d. im Jahr 2026 CHF 1'900'000.–.
+
+<sup>2</sup> Der einzelne Gemeindeanteil richtet sich nach den Vermögenssteuererträgen von natürlichen Personen der Rechnungsjahre 2018–2020.
+
 #### § 22
 
 **Übertragung Fondsvermögen**
 
 <sup>1</sup> Auf den 1. Januar 2019 hin werden aus dem Ausgleichsfonds CHF 4 Mio. in den Härtefonds übertragen.
+
+#### § 23
+
+**Übergangsbestimmungen zur Teilrevision vom 30. Juni 2022**
+
+<sup>1</sup> Der Regierungsrat legt das Ausgleichsniveau für das Jahr 2023 in der Finanzausgleichsverfügung 2023 fest.
 
 GS 36.1176
