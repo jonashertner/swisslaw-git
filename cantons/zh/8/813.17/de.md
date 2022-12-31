@@ -4,10 +4,10 @@ number: "813.17"
 title: Gesetz über die Psychiatrische Universitätsklinik Zürich (PUKG)
 short: PUKG
 language: de
-nachtrag: "99"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2017-09-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_17-2017_09_11-2018_01_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_17-2017_09_11-2018_01_01-119.html"
 text: pdf
 ---
 
@@ -69,7 +69,7 @@ Die Eigentümerstrategie für die Psychiatrische Universitätsklinik umfasst ins
 
 **1**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Der Regierungsrat kann weitere Leistungsaufträge festlegen. Leistungsmengen, Preise und Modalitäten werden in Leistungsvereinbarungen zwischen der Psychiatrischen Universitätsklinik und den zuständigen Direktionen des Regierungsrates vereinbart.
 
@@ -167,7 +167,7 @@ Der Regierungsrat a. legt die Leistungsaufträge für die Psychiatrische Univers
 
 **3**
 
-- 1\. 1. 18 - 99 § 12. <sup>1</sup> Der Spitalrat ist das oberste Führungsorgan der Psychiatrischen Universitätsklinik.
+- 1\. 1. 23 - 119 § 12. <sup>1</sup> Der Spitalrat ist das oberste Führungsorgan der Psychiatrischen Universitätsklinik.
 
 **Aufgaben a. im Allgemeinen**
 
@@ -239,13 +239,29 @@ Der Spitalrat verabschiedet zuhanden des Regierungsrates den Geschäftsbericht, 
 
 <sup>2</sup> Für das öffentlich-rechtlich angestellte Personal gelten die für das Staatspersonal anwendbaren Bestimmungen. Das Personalreglement kann davon abweichen, soweit dies aus betrieblichen Gründen erforderlich ist.
 
-[^17-1]: LS 813.14.
+<sup>3</sup> Für das ärztliche Personal ab Stufe Oberärztin und Oberarzt (ärztliches Kader) kann das Personalreglement[^17-1] zudem abweichende Regelungen betreffend Vergütung und Beendigung des Arbeitsverhältnisses vorsehen.[^17-2]
 
-#### § 18
+**Vergütung des ärztlichen Kaders**
 
-**Ärztliche Zusatzhonorare**
+§ 18.[^17-3] <sup>1</sup> Das Personalreglement[^17-1] legt die höchstens zulässige Gesamtvergütung der Angehörigen des ärztlichen Kaders fest. Die Gesamtvergütung darf 1 Mio. Franken pro Jahr nicht übersteigen.
 
-Die Erwirtschaftung und die Verwendung von ärztlichen Zusatzhonoraren richten sich nach dem Gesetz über die ärztlichen Zusatzhonorare vom 12. Juni 2006[^17-1].
+<sup>2</sup> Die Vergütung kann einen variablen Bestandteil enthalten. Dieser beträgt höchstens 30% der Gesamtvergütung.
+
+**5**
+
+- 1\. 1. 23 - 119
+
+<sup>3</sup> Der variable Bestandteil wird durch folgende Faktoren bestimmt, die höchstens zum genannten Anteil berücksichtigt werden können:
+
+- a. Qualität des Spitals und der Klinik bis zu 60%,
+
+- b. wirtschaftlicher Erfolg des Spitals und der Klinik bis zu 60%,
+
+- c. individuelle Leistung der oder des Angestellten bis zu 60%.
+
+[^17-1]: LS 813.172.
+[^17-2]: Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
+[^17-3]: Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 9
 
 #### § 19
 
@@ -254,10 +270,6 @@ Die Erwirtschaftung und die Verwendung von ärztlichen Zusatzhonoraren richten s
 <sup>1</sup> Das Personal wird bei der Stiftung BVK Personalvorsorge des Kantons Zürich versichert.
 
 <sup>2</sup> Die Assistenz- und Oberärztinnen und Assistenz- und Oberärzte sowie die Assistentinnen und Assistenten und Oberassistentinnen und Oberassistenten werden in der Regel bei der Vorsorgestiftung Verband Schweizerischer Assistenz- und Oberärzte (VSAO) versichert.
-
-**5**
-
-- 1\. 1. 18 - 99
 
 ### F. Mittel
 
@@ -271,7 +283,14 @@ Die Erwirtschaftung und die Verwendung von ärztlichen Zusatzhonoraren richten s
 
 <sup>3</sup> Der Kanton kann der Psychiatrischen Universitätsklinik für bestimmte Zwecke weitere Mittel zur Verfügung stellen. Diese gelten als neue Ausgabe gemäss § 37 Abs. 1 des Gesetzes über Controlling und Rechnungslegung vom 9. Januar 2006[^20-1].
 
+**Erträge aus ärztlichen Zusatzleistungen**
+
+§ 20 a.[^20-2] <sup>1</sup> Erträge aus ärztlichen Zusatzleistungen für Patientinnen und Patienten fliessen in die Betriebsrechnung des Spitals.
+
+<sup>2</sup> 5% bis 10% dieser Erträge werden für Einmalzulagen des nichtärztlichen und des nicht zum ärztlichen Kader gehörenden Personals eingesetzt.
+
 [^20-1]: LS 611.
+[^20-2]: Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
 
 #### § 21
 
@@ -335,6 +354,10 @@ Die Psychiatrische Universitätsklinik koordiniert die Planung ihrer Immobilien 
 
 - b. gehen die vom Kanton auf den Namen der bisherigen Psychiatrischen Universitätsklinik begründeten Rechte und eingegangenen Pflichten sowie das Eigentum an den Bauten, Anlagen und Betriebseinrichtungen auf die selbstständige öffentlich-rechtliche Anstalt über,
 
+**7**
+
+- 1\. 1. 23 - 119
+
 - c. gehen die Rechtsverhältnisse, welche die bisherige Psychiatrische Universitätsklinik betreffen, insbesondere die Anstellungsverhältnisse mit dem Personal, auf die selbstständige öffentlich-rechtliche Anstalt über.
 
 <sup>2</sup> Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes a. legt der Regierungsrat die Eröffnungsbilanz fest,
@@ -357,11 +380,11 @@ Die zum Zeitpunkt der Einräumung der Baurechte gemäss § 22 auf den betroffene
 
 <sup>3</sup> Sie werden bis zum Erreichen der Eigenkapitalquote als Dotationskapital eingebracht oder der Reserve zugewiesen. Im übersteigenden Betrag werden sie gegen eine Darlehensforderung des Kantons übertragen. Eine zusätzliche Bareinlage ist ausgeschlossen.
 
-**7**
-
-- 1\. 1. 18 - 99 § 30. <sup>1</sup> Das Darlehen gemäss § 29 Abs. 3 wird zum internen Zinssatz des Kantons verzinst.
+#### § 30
 
 **Verzinsung und Amortisation**
+
+<sup>1</sup> Das Darlehen gemäss § 29 Abs. 3 wird zum internen Zinssatz des Kantons verzinst.
 
 <sup>2</sup> Die jährliche Amortisation des Darlehens entspricht mindestens dem Wertverlust der Bauten, Anlagen und Betriebseinrichtungen bei Anwendung branchenüblicher Abschreibungssätze. Darüber hinausgehende Amortisationen sind unter Einhaltung einer Kündigungsfrist von 30 Tagen auf Ende eines Monats zulässig.
 
@@ -370,3 +393,7 @@ Die zum Zeitpunkt der Einräumung der Baurechte gemäss § 22 auf den betroffene
 **Weitergeltung bisherigen Rechts**
 
 Bis zum Erlass neuer Regelungen gelten die bisherigen Verordnungen und Reglemente.
+
+### Übergangsbestimmung zur Änderung vom 5. Juli 2021 (OS 76, 612)
+
+Die Psychiatrische Universitätsklinik führt das neue Anstellungs- und Vergütungssystem gemäss §§ 17 Abs. 3, 18 und 20 a kostenneutral ein.
