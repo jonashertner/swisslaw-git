@@ -4,7 +4,7 @@ number: "741.15.1"
 title: RÈGLEMENT du 16.11.2016 sur les émoluments perçus par le Service des automobiles et de la navigation (RE-SAN)
 short: RE-SAN
 language: fr
-version: 2020-03-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/741.15.1?id=a98c496b-c044-447f-9229-6303629369f0"
 ---
 
@@ -61,15 +61,17 @@ arrête
 
 <sup>2</sup> Le délai de paiement des factures est de 30 jours.
 
-<sup>3</sup> Les émoluments peuvent, dans des cas particuliers, être réclamés d'avance, comptant ou contre-remboursement.
+<sup>3</sup> Les émoluments peuvent être réclamés d'avance, comptant ou contre-remboursement lorsque le compte du client ou de la cliente présente des arriérés ou que le client ou la cliente a son domicile à l'étranger.
 
-[^2-2]: Modif. 3 du 07.12.2022: Modification Al. 3; entrée en vigueur au 01.01.2023; Introduction Al. 4; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023
+<sup>4</sup> Les émoluments pour les plaques à court terme, les plaques provisoires et les plaques d'exportation sont réclamés au comptant au moment de la prestation.
+
+[^2-2]: Modif. 3 du 07.12.2022: Modification Al. 3; entrée en vigueur au 01.01.2023; Introduction Al. 4; entrée en vigueur au 01.01.2023
 
 #### Art. 4
 
 **Frais [^3-1]**
 
-<sup>1</sup> Des frais sont prélevés pour les rappels.
+<sup>1</sup> Le premier rappel, en cas de retard de paiement d'un émolument, est sans frais. Les frais de deuxième rappel sont fixés à CHF 25.00.
 
 <sup>2</sup> Les frais postaux, de publication dans la FAO ou liés à des remboursements peuvent être mis à la charge de l'administré.
 
@@ -77,7 +79,7 @@ arrête
 
 <sup>4</sup> Des frais de déplacement peuvent être facturés dans des cas particuliers.
 
-[^3-1]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023
+[^3-1]: Modif. 3 du 07.12.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 ## Chapitre II Admission des personnes
 
@@ -109,9 +111,9 @@ arrête
 - c. Délivrance d'une carte de qualification conducteur : CHF 35.00
 - d. Décision octroyant des dérogations à l'OAC : CHF 100.00
 - e. Décision refusant des dérogations à l'OAC : CHF 200.00
-- f. Examen de la demande d'échange d'un permis de conduire étranger lorsqu'une course de contrôle est prescrite : CHF 50.00
+- f. Traitement de la demande d'échange d'un permis de conduire étranger lorsqu'une course de contrôle est prescrite : CHF 50.00
 
-[^5-1]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Modification Al. 1, f; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023
+[^5-1]: Modif. 3 du 07.12.2022: Modification Al. 1, f; entrée en vigueur au 01.01.2023
 
 ### Section II Examens
 
@@ -123,11 +125,11 @@ arrête
 
 - a. Examen collectif : CHF 40.00
 - b. Examen individuel : CHF 190.00
-- c. Module complémentaire pour les catégories C et D : CHF 50.00
-- d. Module OACP pour les catégories C, D et sous-catégories C1 et D1 : CHF 60.00
+- c. Examen complémentaire pour les catégories C et D : CHF 50.00
+- d. Examen complémentaire OACP pour les catégories 95C et 95D : CHF 60.00
 - e. Examen bateaux : CHF 50.00
 
-[^sectionSectionII-1]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Modification Al. 1, c-d; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023 · Modif. 4 du 11.10.2023: Modification Al. 1, a-e; entrée en vigueur au 01.01.2024; Introduction Al. 1, f-g; entrée en vigueur au 01.01.2024
+[^sectionSectionII-1]: Modif. 3 du 07.12.2022: Modification Al. 1, c-d; entrée en vigueur au 01.01.2023 · Modif. 4 du 11.10.2023: Modification Al. 1, a-e; entrée en vigueur au 01.01.2024; Introduction Al. 1, f-g; entrée en vigueur au 01.01.2024
 
 #### Art. 8
 
@@ -264,14 +266,14 @@ arrête
 - a. Etablissement lors d'une immatriculation : CHF 35.00
 - b. Etablissement lors d'un changement sur le permis cyclomoteur : CHF 15.00
 - c. Délivrance d'une vignette suite au renouvellement annuel de l'assurance RC, à apposer sur le permis de circulation : CHF 5.00
-- d. Délivrance d'une vignette suite au renouvellement annuel de la taxe, à apposer sur la plaque de contrôle : CHF 5.00
+- d. Délivrance d'une vignette relative à la taxe annuelle, à apposer sur la plaque de contrôle : CHF 5.00
 - e. En l'absence d'assurance responsabilité civile (RC) privée, l'assurance RC pour les cyclomoteurs est facturée selon les tarifs du contrat d'assurance collectif conclut par le service. Le montant est publié.
 
 <sup>4</sup> Le duplicata d'un permis de circulation, de navigation ou de cyclomoteur est facturé : CHF 20.00
 
 <sup>5</sup> Les permis de circulation, de navigation ou de cyclomoteur établis suite à un changement d'adresse sont gratuits.
 
-[^sectionSectionI-2]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Modification Al. 3, d; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023 · Modif. 6 du 19.11.2025: Modification Al. 3, b; entrée en vigueur au 01.01.2026; Modification Al. 5; entrée en vigueur au 01.01.2026; Introduction Art. 37, Al. 3; entrée en vigueur au 01.01.2026
+[^sectionSectionI-2]: Modif. 3 du 07.12.2022: Modification Al. 3, d; entrée en vigueur au 01.01.2023 · Modif. 6 du 19.11.2025: Modification Al. 3, b; entrée en vigueur au 01.01.2026; Modification Al. 5; entrée en vigueur au 01.01.2026; Introduction Art. 37, Al. 3; entrée en vigueur au 01.01.2026
 
 #### Art. 16
 
@@ -309,12 +311,12 @@ arrête
 
 <sup>1</sup> Les émoluments pour les prestations suivantes sont :
 
-- a. Etablissement d'une autorisation individuelle pour un véhicule de remplacement, valable 30 jours : CHF 60.00
-- b. Etablissement d'une autorisation générale pour véhicule de remplacement appelé à remplacer un groupe de 10 véhicules légers ou cinq véhicules lourds, pour une période d'une année : CHF 350.00
+- a. Établissement d'un permis de circulation pour un véhicule de remplacement, valable 30 jours : CHF 60.00
+- b. Établissement d'un permis de circulation pour véhicule(s) de remplacement appelé(s) à remplacer un groupe de 10 véhicules légers ou cinq véhicules lourds, pour une période d'une année : CHF 350.00
 - c. Prolongation d'un permis pour plaques provisoires pour le même véhicule, avant l'échéance de validité, par véhicule : CHF 25.00
 - d. Autorisation de naviguer en Suisse pour les bateaux étrangers, y compris assurance RC : CHF 100.00
 
-[^17-1]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Modification Al. 1, a-b; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023
+[^17-1]: Modif. 3 du 07.12.2022: Modification Al. 1, a-b; entrée en vigueur au 01.01.2023
 
 ### Section II Plaques d'immatriculation
 
@@ -328,12 +330,13 @@ arrête
 - b. Une plaque réfléchissante, pour les véhicules munis d'une seule plaque ou en cas de vol ou de perte : CHF 30.00
 - c. Une plaque adhésive pour les bateaux : CHF 30.00
 - d. Une plaque pour cyclomoteur : CHF 20.00
+- e. Une plaque (rouge) pour porte-charges arrière : CHF 30.00
 
 <sup>2</sup> En cas de commande urgente (livraison dans les 5 à 10 jours), un émolument supplémentaire de CHF 20.00 est facturé.
 
 <sup>3</sup> Si une plaque perdue est retrouvée et renvoyée par le SAN à son détenteur, un émolument de CHF 20.00 est facturé.
 
-[^sectionSectionII-2]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Introduction Al. 1, e; entrée en vigueur au 01.01.2023
+[^sectionSectionII-2]: Modif. 3 du 07.12.2022: Introduction Al. 1, e; entrée en vigueur au 01.01.2023
 
 #### Art. 20
 
@@ -369,13 +372,13 @@ arrête
 
 **Principes [^sectionSectionIII-1]**
 
-<sup>1</sup> Les émoluments pour les contrôles techniques des véhicules routiers sont fixés dans l'Annexe I, chiffre 1, du présent règlement.
+<sup>1</sup> Les émoluments pour les contrôles techniques et pour les validations de modifications techniques des véhicules routiers sont fixés dans l'Annexe I, chiffre 1, du présent règlement.
 
-<sup>2</sup> Les émoluments pour les contrôles techniques des bateaux de plaisance et de sport sont fixés dans l'Annexe I, chiffre 2, du présent règlement.
+<sup>2</sup> Les émoluments pour les contrôles techniques et pour les validations de modifications techniques des bateaux de plaisance et de sport sont fixés dans l'Annexe I, chiffre 2, du présent règlement.
 
-<sup>3</sup> Les émoluments pour les contrôles techniques des autres types de bateaux sont fixés selon le coût horaire.
+<sup>3</sup> Les émoluments pour les contrôles techniques et pour les validations de modifications techniques des autres types de bateaux sont fixés selon le coût horaire.
 
-[^sectionSectionIII-1]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023; Modification Al. 1-3; entrée en vigueur au 01.01.2023
+[^sectionSectionIII-1]: Modif. 3 du 07.12.2022: Modification Al. 1-3; entrée en vigueur au 01.01.2023
 
 #### Art. 23
 
@@ -470,9 +473,9 @@ arrête
 - a. Autorisation unique (1 jour, 1 course) : CHF 60.00
 - b. Autorisation saisonnière : CHF 100.00
 
-<sup>3</sup> L'émolument pour l'autorisation annuelle de remorquage de containers, sur un parcours déterminé, par véhicule tracteur, est de : CHF 140.00
+<sup>3</sup> ...
 
-[^28-1]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023; Abrogation Al. 3; entrée en vigueur au 01.01.2023
+[^28-1]: Modif. 3 du 07.12.2022: Abrogation Al. 3; entrée en vigueur au 01.01.2023
 [^29-1]: Ordonnance du 20.11.1959 sur l'assurance des véhicules (RS 741.31)
 [^29-2]: Ordonnance du 13.11.1962 sur les règles de la circulation routière (RS 741.11)
 
@@ -576,13 +579,13 @@ arrête
 
 <sup>1</sup> Les émoluments en lien avec les renseignements ou l'envoi de dossier sont :
 
-- a. Renseignement sur l'identité d'un détenteur d'une plaque de contrôle ou sur son assurance : CHF 20.00
-- b. Renseignements tirés des registres du service, aux personnes autorisées : CHF 25.00
-- c. Envoi d'une copie d'un dossier en cours de procédure : CHF 30.00
+- a. Renseignement sur l'identité d'une personne détentrice d'une plaque de contrôle, si celle-ci ne s'est pas opposée à la divulgation des données, ou sur son assurance : CHF 20.00
+- b. Renseignement, tiré des registres du SAN, aux personnes autorisées : CHF 50.00
+- c. Envoi ou remise d'une copie d'un dossier en cours de procédure : CHF 20.00
 
 <sup>2</sup> Les autres renseignements qui nécessitent un travail complexe sont facturés au coût horaire.
 
-[^35-1]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023; Modification Al. 1, a-c; entrée en vigueur au 01.01.2023
+[^35-1]: Modif. 3 du 07.12.2022: Modification Al. 1, a-c; entrée en vigueur au 01.01.2023
 
 #### Art. 37
 
@@ -617,6 +620,6 @@ Annexes [^39-1]
 
 1
 
-[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.03.2020)
+[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.01.2023)
 
-[^39-1]: Modif. 3 du 07.12.2022: Introduction Art. 3, Al. 4; entrée en vigueur au 01.01.2023; Introduction Art. 19, Al. 1, e; entrée en vigueur au 01.01.2023; Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023 · Modif. 5 du 19.06.2024: Modification Annexes, Ann. 1; entrée en vigueur au 01.07.2024 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026; Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2026
+[^39-1]: Modif. 3 du 07.12.2022: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023 · Modif. 5 du 19.06.2024: Modification Annexes, Ann. 1; entrée en vigueur au 01.07.2024 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026; Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2026
