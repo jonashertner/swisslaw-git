@@ -4,13 +4,13 @@ number: "611.115"
 title: Verordnung über die Verwendung der Mittel des Swisslos-Fonds
 short: "Swisslos-Fonds-Verordnung, SLFV"
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-11-11
+version: 2023-01-01
+valid_until: 2025-07-31
+version_adopted: 2021-12-22
 adopted: 1999-09-13
 in_force: 2000-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/611.115"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2943/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3251/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2943/pdf_file"
 
 (Swisslos-Fonds-Verordnung, SLFV)
 
-Vom 13.09.1999 (Stand 01.01.2021)
+Vom 13.09.1999 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -86,13 +86,13 @@ beschliesst:
 
 **Beitragsgesuch**
 
-<sup>1</sup> Das Gesuch um einen Beitrag aus dem Swisslos-Fonds ist dem Regierungsrat oder dem zuständigen Departement einzureichen.
+<sup>1</sup> Das Gesuch um einen Beitrag aus dem Swisslos-Fonds ist dem Departement Bildung, Kultur und Sport (BKS) einzureichen.
 
 <sup>2</sup> Dem Gesuch sind alle sachdienlichen Unterlagen, mindestens aber ein Kostenvoranschlag und ein Finanzierungsplan beizulegen. Es ist anzugeben, an welche Stellen ebenfalls Beitragsgesuche gerichtet wurden.
 
-<sup>3</sup> Das zuständige Departement prüft die Unterlagen auf Vollständigkeit und kann die Vorlage weiterer Unterlagen wie Statuten, Jahresrechnungen, Pläne, Verträge usw. verlangen.
+<sup>3</sup> Das BKS prüft die Unterlagen auf Vollständigkeit und kann die Vorlage weiterer Unterlagen wie Statuten, Jahresrechnungen, Pläne, Verträge usw. verlangen.
 
-<sup>4</sup> Über Gesuche um Beiträge gemäss § 2 Abs. 2 lit. g entscheidet das Departement Bildung, Kultur und Sport.
+<sup>4</sup> Über Gesuche um Beiträge gemäss § 2 Abs. 2 lit. g entscheidet das BKS.
 
 #### § 5
 
@@ -114,7 +114,7 @@ beschliesst:
 
 <sup>2</sup> Beitragszusicherungen erfolgen unter dem Vorbehalt, dass alle notwendigen Bewilligungen und Zustimmungen des eidgenössischen, kantonalen und kommunalen Rechts eingeholt und erteilt werden.
 
-<sup>3</sup> Nach Abschluss der Arbeiten ist dem in der Beitragszusicherung genannten zuständigen Departement die detaillierte Bauabrechnung vorzulegen. Die definitive Festlegung des Beitrags erfolgt gestützt auf die Bauabrechnung und allfällige weitere Abklärungen durch das Departement.
+<sup>3</sup> Nach Abschluss der Arbeiten ist dem BKS die detaillierte Bauabrechnung vorzulegen. Die definitive Festlegung des Beitrags erfolgt gestützt auf die Bauabrechnung und allfällige weitere Abklärungen durch das BKS.
 
 <sup>4</sup> Der Beitrag kann nach Massgabe des Baufortschritts gestützt auf Teilabrechnungen in Teilbeiträgen ausgerichtet werden. In diesem Fall ist eine genügende Summe bis zur Schlussabrechnung zurückzubehalten.
 
@@ -124,19 +124,19 @@ beschliesst:
 
 <sup>1</sup> Beiträge für Veranstaltungen werden in der Form eines festen Beitrags oder einer Defizitgarantie gewährt. Unter gleichzeitiger Bestimmung eines Maximalbetrages wird die Übernahme eines prozentualen Anteils am Defizit (Beitragssatz) zugesichert.
 
-<sup>2</sup> Nach Abschluss der Veranstaltung ist dem in der Beitragszusicherung genannten zuständigen Departement eine Abrechnung vorzulegen. Die definitive Festlegung des Beitrags erfolgt gestützt auf die Abrechnung und allfällige weitere Abklärungen durch das Departement.
+<sup>2</sup> Nach Abschluss der Veranstaltung ist dem BKS eine Abrechnung vorzulegen. Die definitive Festlegung des Beitrags erfolgt gestützt auf die Abrechnung und allfällige weitere Abklärungen durch das BKS.
 
 #### § 8
 
 **Auszahlung der Beiträge**
 
-<sup>1</sup> Das zuständige Departement überprüft die Einhaltung allfälliger Bedingungen und Auflagen und beauftragt anschliessend die zuständige Zentrale Rechnungsstelle mit der Beitragsauszahlung.
+<sup>1</sup> Das BKS überprüft die Einhaltung allfälliger Bedingungen und Auflagen und beauftragt anschliessend die zuständige Zentrale Rechnungsstelle mit der Beitragsauszahlung.
 
 #### § 9
 
 **Kontrolle**
 
-<sup>1</sup> Das zuständige Departement sorgt für die Überprüfung einer zweckmässigen Verwendung der gewährten Beiträge.
+<sup>1</sup> Das BKS sorgt für die Überprüfung einer zweckmässigen Verwendung der gewährten Beiträge.
 
 <sup>2</sup> Es ist zur Überprüfung aller Vorhaben befugt und kann die Vorlage aller zweckdienlichen Unterlagen verlangen.
 
@@ -146,11 +146,11 @@ beschliesst:
 
 #### § 10
 
-**Zuständigkeiten des Regierungsrates**
+**Zuständigkeit des Regierungsrats**
 
 <sup>1</sup> Der Regierungsrat
 
-- a) befindet über alle Beitragsgesuche;
+- a) entscheidet über die Ausrichtung von Beiträgen über Fr. 20'000.– im Einzelfall;
 - b) genehmigt die Finanzplanung mit den Jahresschwerpunkten für
   - 1\. Kultur (Kultur allgemein; Kunst; Theater, Film und Musik),
   - 2\. Denkmalpflege und Archäologie,
@@ -160,31 +160,40 @@ beschliesst:
   - 6\. Sozialwesen (Soziale Wohlfahrt),
   - 7\. Gesundheit,
   - 8\. übrige gemeinnützige Vorhaben;
-- c) bestimmt das für die Federführung eines Bereichs zuständige Departement;
+- c) …
 - d) genehmigt die Jahresrechnung und orientiert den Grossen Rat zusammen mit der Vorlage des Jahresberichts mit Jahresrechnung über die Verwendung der Mittel aus dem Swisslos-Fonds.
 
 #### § 11
 
-**Zuständigkeiten der Departemente, der Staatskanzlei oder der Justizleitung**
+**Zuständigkeit des BKS**
 
-<sup>1</sup> Die Departemente, die Staatskanzlei oder die Justizleitung
+<sup>1</sup> Das BKS
 
-- a) stellen dem Regierungsrat mittels Einzelvortrag Antrag zu Gesuchen um Ausrichtung von Beiträgen über Fr. 300'000.– im Einzelfall;
-- b) können dem Regierungsrat mittels Sammelvortrag, in der Regel höchstens viermal pro Jahr, Antrag zu Gesuchen um Ausrichtung von Beiträgen bis zu Fr. 300'000.– im Einzelfall stellen;
-- c) weisen in ihren Vorlagen den Stand des Kredits der jeweiligen Bereiche aus;
-- d) prüfen die Abrechnungen, legen die definitive Beitragshöhe für Fälle gemäss Ziff. 6 Abs. 3 und Ziff. 7 Abs. 2 fest und veranlassen die Auszahlung der bewilligten Beiträge;
-- e) weisen ungenügend dokumentierte Gesuche zur Vervollständigung an die Gesuchstellenden zurück;
-- f) können offensichtlich aussichtslose Gesuche mit entsprechender Begründung zurückweisen.
+- a) entscheidet über die Ausrichtung von Beiträgen bis Fr. 20'000.– im Einzelfall;
+- b) stellt dem Regierungsrat Antrag um Ausrichtung von Beiträgen über Fr. 20'000.– im Einzelfall; bei Beiträgen bis Fr. 250'000.– im Einzelfall kann dies mittels Sammelvortrag erfolgen;
+- c) weist in seinen Vorlagen die finanzielle Auswirkung auf die Finanzplanung gemäss § 10 Abs. 1 lit. b aus;
+- d) prüft die Abrechnungen, legt die definitive Beitragshöhe für Fälle gemäss den §§ 6 Abs. 3 und 7 Abs. 2 fest und veranlasst die Auszahlung der bewilligten Beiträge;
+- e) weist ungenügend dokumentierte Gesuche zur Vervollständigung an die Gesuchstellenden zurück;
+- f) lehnt Gesuche, welche die lotterierechtlichen Vorgaben nicht erfüllen, ab;
+- g) holt bei den betroffenen Departementen oder der Staatskanzlei eine Stellungnahme ein.
+
+<sup>2</sup> In begründeten Einzelfällen, namentlich bei Differenzen in der Beurteilung zwischen dem BKS und den Departementen beziehungsweise der Staatskanzlei, bei besonderer politischer Tragweite, bei besonderer Bedeutung oder in Fällen mit grosser präjudizierender Wirkung wird die Angelegenheit dem Regierungsrat zum Entscheid unterbreitet.
 
 #### § 12
 
-**Zuständigkeiten des Departementes Finanzen und Ressourcen**
+**Zuständigkeit des Departements Finanzen und Ressourcen**
 
 <sup>1</sup> Das Departement Finanzen und Ressourcen verwaltet den Swisslos-Fonds und
 
 - a) stellt dem Regierungsrat Antrag über die Festlegung der Jahresschwerpunkte und des Rahmenbudgets;
 - b) legt jeweils zum Jahresbeginn dem Regierungsrat eine Gesamtübersicht über die geplanten Erträge und Aufwendungen sowie über die hängigen Verpflichtungen vor;
 - c) erstellt die Jahresrechnung, lässt sie durch die Finanzkontrolle prüfen und unterbreitet sie dem Regierungsrat zusammen mit dem Jahresbericht zur Genehmigung.
+
+#### § 12a
+
+**Mitberichtsverfahren**
+
+<sup>1</sup> Bei Beiträgen über Fr. 20'000.– ist ein Mitberichtsverfahren mit dem Departement Finanzen und Ressourcen sowie dem Rechtsdienst des Regierungsrats durchzuführen; bei Differenzen in der Beurteilung ist auch das jeweilige Departement beziehungsweise die Staatskanzlei in das Mitberichtsverfahren miteinzubeziehen.
 
 ## 4. Schluss- und Übergangsbestimmungen
 
@@ -205,6 +214,12 @@ beschliesst:
 **Übergangsbestimmung zur Änderung vom 22. Januar 2014**
 
 <sup>1</sup> Die im Zeitpunkt des Inkrafttretens der Rechtsänderung vom 22. Januar 2014 hängigen Gesuche werden nach neuem Recht beurteilt.
+
+#### § 14b
+
+**Übergangsbestimmung zur Änderung vom 22. Dezember 2021**
+
+<sup>1</sup> Die im Zeitpunkt des Inkrafttretens der Rechtsänderung vom 22. Dezember 2021 hängigen Gesuche werden nach bisherigem Recht beurteilt.
 
 #### § 15
 
