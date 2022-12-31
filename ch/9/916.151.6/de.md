@@ -3,11 +3,11 @@ sr: "916.151.6"
 title: Verordnung des BLW vom 12. Juni 2013 über Sortenkataloge und Sortenlisten landwirtschaftlich genutzter Pflanzenarten (Sortenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/417"
 language: de
-version: 2022-01-15
+version: 2023-01-01
 adopted: 2013-06-12
 in_force: 2013-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/417/20220115/de/xml/fedlex-data-admin-ch-eli-cc-2013-417-20220115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/417/20220115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/417/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-417-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/417/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/417/20220115/de"
 
 (Sortenverordnung)
 
-vom 12. Juni 2013 (Stand am 15. Januar 2022)
+vom 12. Juni 2013 (Stand am 1. Januar 2023)
 
 Das Bundesamt für Landwirtschaft (BLW),
 
@@ -72,13 +72,13 @@ Die Sortenkatalog-Verordnung vom 7. Dezember 1998[^2-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Juli 2013 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Bst. a)
 
 ## Sortenkatalog für Getreidearten
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 24. Juni 2016 ([AS 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) und Ziff. I der V des BLW vom 10. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-1]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 24. Juni 2016 ([AS 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)), Ziff. I der V des BLW vom 10. Dez. 2021 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) und vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 ### Liste A: Sorten, deren Saatgut produziert, anerkannt und als anerkanntes Material in Verkehr gebracht werden darf
 
@@ -99,7 +99,6 @@ Anhang 1*[^t-1]*
 <tr><td>Arpille</td><td>2021</td><td colspan="7">Sommerform</td><td>41</td></tr>
 <tr><td>Ataro</td><td colspan="3">2004</td><td colspan="5">Winterform</td><td>56</td></tr>
 <tr><td>Axen</td><td>2020</td><td colspan="7">Winterform</td><td>41</td></tr>
-<tr><td>Bardan</td><td colspan="3">2014</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Baretta</td><td colspan="3">2016</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Bimis</td><td>2021</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Bishorn</td><td>2021</td><td colspan="7">Winterform</td><td>41</td></tr>
@@ -107,9 +106,9 @@ Anhang 1*[^t-1]*
 <tr><td>Bonavau</td><td>2020</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Cadlimo</td><td colspan="3">2018</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Cambrena</td><td colspan="3">2009</td><td colspan="5">Winterform</td><td>41</td></tr>
+<tr><td>Caminada</td><td>2022</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Campanile</td><td colspan="3">2019</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Campello</td><td colspan="3">2016</td><td colspan="5">Winterform</td><td>41</td></tr>
-<tr><td>Caral</td><td colspan="3">2014</td><td colspan="5">Sommerform</td><td>41</td></tr>
 <tr><td>Carasso</td><td colspan="3">2005</td><td colspan="5">Sommerform</td><td>41</td></tr>
 <tr><td>Caroti</td><td colspan="3">2010</td><td colspan="5">Winterform</td><td>266</td></tr>
 <tr><td>Cassagno</td><td colspan="3">2019</td><td colspan="5">Sommerform</td><td>41</td></tr>
@@ -119,15 +118,15 @@ Anhang 1*[^t-1]*
 <tr><td>CH Combin</td><td colspan="3">2007</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>CH Nara</td><td colspan="3">2007</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>CH Rubli</td><td colspan="3">2007</td><td colspan="5">Sommerform</td><td>41</td></tr>
-<tr><td>Chaumont</td><td colspan="3">2012</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Chilly</td><td colspan="3">2018</td><td colspan="5">Winterform</td><td>131</td></tr>
-<tr><td>Ciavena</td><td colspan="3">2013</td><td colspan="5">Sommerform</td><td>41</td></tr>
+<tr><td>Cian</td><td>2022</td><td colspan="7">Winterform</td><td>56</td></tr>
 <tr><td>Colinta</td><td colspan="3">2021</td><td colspan="5">Winterform</td><td>41</td></tr>
-<tr><td>Colmetta</td><td colspan="3">2015</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Diavel</td><td colspan="3">2018</td><td colspan="5">Sommer- und Winterform</td><td>41</td></tr>
 <tr><td>Digana</td><td colspan="3">2011</td><td colspan="5">Sommerform</td><td>41</td></tr>
 <tr><td>Dilago</td><td colspan="3">2017</td><td colspan="5">Winterform</td><td>41</td></tr>
+<tr><td>Diribia</td><td>2022</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Falotta</td><td>2020</td><td colspan="7">Winterform</td><td>41</td></tr>
+<tr><td>Federis</td><td>2022</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Fiorina</td><td colspan="3">2001</td><td colspan="5">Sommerform</td><td>41</td></tr>
 <tr><td>Forel</td><td colspan="3">2007</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Forteresse</td><td>2020</td><td colspan="7">Winterform</td><td>41</td></tr>
@@ -136,9 +135,8 @@ Anhang 1*[^t-1]*
 <tr><td>Gibloux</td><td>2021</td><td colspan="7">Sommerform</td><td>41</td></tr>
 <tr><td>Glaruna</td><td colspan="3">2017</td><td colspan="5">Sommerform</td><td>41</td></tr>
 <tr><td>Hanswin</td><td colspan="3">2013</td><td colspan="5">Winterform</td><td>41</td></tr>
-<tr><td>Harry</td><td colspan="3">2014</td><td colspan="5">Winterform</td><td>61</td></tr>
+<tr><td>Haruki</td><td>2022</td><td colspan="7">Sommerform</td><td>56</td></tr>
 <tr><td>Lagalp</td><td colspan="3">2016</td><td colspan="5">Winterform</td><td>41</td></tr>
-<tr><td>Lambro</td><td colspan="3">2013</td><td colspan="5">Sommerform</td><td>41</td></tr>
 <tr><td>Lamotta</td><td colspan="3">2016</td><td colspan="5">Sommerform</td><td>41</td></tr>
 <tr><td>Levis</td><td colspan="3">1997</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Linard</td><td colspan="3">2017</td><td colspan="5">Winterform</td><td>41</td></tr>
@@ -146,16 +144,14 @@ Anhang 1*[^t-1]*
 <tr><td>Lorenzo</td><td colspan="3">2011</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Luteus</td><td colspan="3">2010</td><td colspan="5">Winterform</td><td>266</td></tr>
 <tr><td>Mayen</td><td colspan="3">2007</td><td colspan="5">Winterform</td><td>41</td></tr>
-<tr><td>Moiry</td><td colspan="3">2013</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Molinera</td><td colspan="3">2010</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Montalbano</td><td colspan="3">2016</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Montalto</td><td colspan="3">2014</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Montdor</td><td colspan="3">2015</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Mossette</td><td>2020</td><td colspan="7">Winterform</td><td>41</td></tr>
-<tr><td>Muveran</td><td colspan="3">2004</td><td colspan="5">Winterform</td><td>41</td></tr>
-<tr><td>Nendaz</td><td colspan="3">2014</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Nufenen</td><td colspan="3">2018</td><td colspan="5">Sommerform</td><td>41</td></tr>
 <tr><td>Paradisin</td><td colspan="3">2016</td><td colspan="5">Winterform</td><td>41</td></tr>
+<tr><td>Pilatus</td><td>2022</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Piznair</td><td colspan="3">2018</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Pizza</td><td colspan="3">2013</td><td colspan="5">Winterform</td><td>56</td></tr>
 <tr><td>Poesie</td><td colspan="3">2015</td><td colspan="5">Winterform</td><td>56</td></tr>
@@ -179,6 +175,7 @@ Anhang 1*[^t-1]*
 <tr><td>Spigolo</td><td colspan="3">2017</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Spluga</td><td colspan="3">2017</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Stanga</td><td colspan="3">2011</td><td colspan="5">Sommerform</td><td>41</td></tr>
+<tr><td>SU Hymonta</td><td>2022</td><td colspan="7">Winterform, Hybride</td><td>987</td></tr>
 <tr><td>Suretta</td><td colspan="3">2009</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Tamborello</td><td>2020</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Tenca</td><td colspan="3">2017</td><td colspan="5">Sommerform</td><td>41</td></tr>
@@ -191,7 +188,6 @@ Anhang 1*[^t-1]*
 <tr><td>Varappe</td><td colspan="3">2018</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td>Wital</td><td colspan="3">2018</td><td colspan="5">Winterform</td><td>56</td></tr>
 <tr><td>Wiwa</td><td colspan="3">2005</td><td colspan="5">Winterform</td><td>56</td></tr>
-<tr><td>Zinal</td><td colspan="3">2003</td><td colspan="5">Winterform</td><td>41</td></tr>
 <tr><td colspan="7">5. Dinkel/*Triticum aestivum* L. subsp. *spelta* (L.) Thell.</td><td></td><td></td><td></td></tr>
 <tr><td>Alkor</td><td>2002</td><td colspan="7"></td><td>56</td></tr>
 <tr><td>Copper</td><td>2018</td><td colspan="7"></td><td>56</td></tr>
@@ -211,7 +207,6 @@ Anhang 1*[^t-1]*
 <tr><td>Zürcher Oberländer Rotkorn</td><td>2012</td><td colspan="7"></td><td>56</td></tr>
 <tr><td colspan="7">6. Triticale/*X Triticosecale* Wittm.</td><td></td><td></td><td></td></tr>
 <tr><td>Balino</td><td>2018</td><td colspan="7">Winterform</td><td>41</td></tr>
-<tr><td>Bedretto</td><td>2003</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Larossa</td><td>2014</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Lerma</td><td>2021</td><td colspan="7">Winterform</td><td>41</td></tr>
 <tr><td>Prader</td><td>1997</td><td colspan="7">Winterform</td><td>41</td></tr>
@@ -225,8 +220,6 @@ Anhang 1*[^t-1]*
 <tr><th>Sortenbezeichnung</th><th colspan="2">Aufnahme</th><th>Anwendungstyp\*</th><th>Prüfungsregion\*\*</th><th>Frühreife</th><th>Verantwortliche für die Erhaltungszüchtung</th></tr>
 <tr><td colspan="2">7. Mais/*Zea mays* L.</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Delcampo</td><td colspan="2">2011</td><td>K.M.</td><td>N</td><td>mittelspät</td><td>41</td></tr>
-<tr><td>Farmgold</td><td colspan="2">2012</td><td>K.M.</td><td>N</td><td>früh</td><td>255</td></tr>
-<tr><td>Fox</td><td colspan="2">2013</td><td>S.M.</td><td>N</td><td>früh</td><td>41</td></tr>
 <tr><td>Gottardo KWS</td><td colspan="2">2014</td><td>K.M./S.M.</td><td>N</td><td>früh</td><td>78</td></tr>
 <tr><td>Poya</td><td colspan="2">2010</td><td>S.M.</td><td>N</td><td>früh</td><td>41</td></tr>
 <tr><td>Pralinia</td><td colspan="2">2008</td><td>S.M.</td><td>N</td><td>früh</td><td>41</td></tr>
@@ -257,13 +250,13 @@ Anhang 2
 <tr><td>Blaue St. Galler</td><td>2007</td><td></td><td>mittelfrüh</td><td>254</td></tr>
 </table>
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 1 Bst. c)
 
 ## Sortenkatalog für Futterpflanzenarten
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 24. Juni 2016 ([AS 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) und Ziff. I der V des BLW vom 10. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 24. Juni 2016 ([AS 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)), Ziff. I der V des BLW vom 10. Dez. 2021 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) und vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 <table>
 <tr><th>Sortenbezeichnung</th><th>Registrierung</th><th colspan="5">Bemerkungen</th><th colspan="4">Verantwortliche für die Erhaltungszüchtung</th></tr>
@@ -335,7 +328,6 @@ Anhang 3*[^t-2]*
 <tr><td>Calibra</td><td>2001</td><td colspan="5">spät</td><td colspan="4">192</td></tr>
 <tr><td>Koala</td><td>2018</td><td colspan="5">spät, diploid</td><td colspan="4">162</td></tr>
 <tr><td>Lacerta</td><td>1996</td><td colspan="5">früh</td><td colspan="4">162</td></tr>
-<tr><td>Premium</td><td>2001</td><td colspan="5">spät</td><td colspan="4">21</td></tr>
 <tr><td>Salamandra</td><td>2001</td><td colspan="5">früh</td><td colspan="4">162</td></tr>
 <tr><td>Salmo</td><td>2013</td><td colspan="5">früh</td><td colspan="4">162</td></tr>
 <tr><td>Soraya</td><td>2012</td><td colspan="5">spät</td><td colspan="4">162</td></tr>
@@ -347,6 +339,7 @@ Anhang 3*[^t-2]*
 <tr><td>Bobak</td><td>2016</td><td colspan="5"></td><td colspan="4">162</td></tr>
 <tr><td>Daboya</td><td>2010</td><td colspan="5"></td><td colspan="4">162</td></tr>
 <tr><td>Dorcas</td><td>1995</td><td colspan="5"></td><td colspan="4">162</td></tr>
+<tr><td>Galaxias</td><td>2022</td><td colspan="5"></td><td colspan="4">162</td></tr>
 <tr><td>Ibex</td><td>2000</td><td colspan="5"></td><td colspan="4">162</td></tr>
 <tr><td>Leonis</td><td>2005</td><td colspan="5"></td><td colspan="4">162</td></tr>
 <tr><td>Marmota</td><td>2001</td><td colspan="5"></td><td colspan="4">162</td></tr>
@@ -355,6 +348,7 @@ Anhang 3*[^t-2]*
 <tr><td>Palmata</td><td>2011</td><td colspan="5"></td><td colspan="4">162</td></tr>
 <tr><td>Pereneia</td><td>2017</td><td colspan="5"></td><td colspan="4">162</td></tr>
 <tr><td>Rusa</td><td>2000</td><td colspan="5"></td><td colspan="4">162</td></tr>
+<tr><td>Salaria</td><td>2022</td><td colspan="5"></td><td colspan="4">162</td></tr>
 <tr><td>Sorex</td><td>2011</td><td colspan="5"></td><td colspan="4">162</td></tr>
 <tr><td colspan="4">Timothe/*Phleum pratense* L.</td><td colspan="2"></td><td></td><td colspan="4"></td></tr>
 <tr><td>Anjo</td><td>2005</td><td colspan="5"></td><td colspan="4">263</td></tr>
@@ -417,13 +411,13 @@ Anhang 3*[^t-2]*
 <tr><td>–</td><td></td><td colspan="5"></td><td colspan="4"></td></tr>
 </table>
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 1 Bst. d)
 
 ## Sortenkatalog für Öl- und Faserpflanzenarten
 
-[^t-3]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)) und Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)).
+[^t-3]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) und Ziff. I der V des BLW vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 \1. …
 
@@ -435,7 +429,6 @@ Anhang 4*[^t-3]*
 <tr><td>Bagera</td><td colspan="3">2007</td><td>41</td></tr>
 <tr><td>Cataline</td><td colspan="3">2007</td><td>41</td></tr>
 <tr><td>Coraline</td><td colspan="3">2014</td><td>41</td></tr>
-<tr><td>Falbala</td><td colspan="3">2013</td><td>41</td></tr>
 <tr><td>Galice</td><td colspan="3">2015</td><td>41</td></tr>
 <tr><td>Gallec</td><td colspan="3">2000</td><td>41</td></tr>
 <tr><td>Kalinka</td><td colspan="3">2017</td><td>41</td></tr>
@@ -446,7 +439,7 @@ Anhang 4*[^t-3]*
 <tr><td>Paradis</td><td colspan="3">2000</td><td>41</td></tr>
 <tr><td>Pollux</td><td colspan="3">2012</td><td>41</td></tr>
 <tr><td>Protéix</td><td colspan="3">2009</td><td>41</td></tr>
-<tr><td>Protibus</td><td colspan="3">2013</td><td>41</td></tr>
+<tr><td>Tamarix</td><td colspan="3">2022</td><td>41</td></tr>
 <tr><td>Tequila</td><td colspan="3">2014</td><td>41</td></tr>
 <tr><td>Tourmaline</td><td colspan="3">2013</td><td>41</td></tr>
 <tr><td>Toutatis</td><td colspan="3">2015</td><td>41</td></tr>
@@ -458,25 +451,30 @@ Anhang 4*[^t-3]*
 <tr><td>–</td><td colspan="3"></td><td></td></tr>
 </table>
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
 (Art. 1 Bst. e)
 
 ## Sortenkatalog für Betarüben
 
-[^t-4]: Fassung gemäss Ziff. I Abs. 2 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Bereinigt gemäss Ziff. I der V des BLW vom 10. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-4]: Fassung gemäss Ziff. I Abs. 2 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Bereinigt gemäss Ziff. I der V des BLW vom 10. Dez. 2021 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) und vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 <table>
 <tr><th>Sortenbezeichnung</th><th>Registrierung</th><th>Verantwortlich für die Erhaltungszüchtung</th></tr>
 <tr><td>Agueda KWS</td><td>2020</td><td>78</td></tr>
 <tr><td>BTS 2725</td><td>2020</td><td>992</td></tr>
+<tr><td>BTS Smart 4825</td><td>2022</td><td>992</td></tr>
 <tr><td>Caroll</td><td>2020</td><td>990</td></tr>
 <tr><td>Chevrolet</td><td>2021</td><td>990</td></tr>
 <tr><td>Dunant</td><td>2021</td><td>990</td></tr>
 <tr><td>Escadia KWS</td><td>2021</td><td>78</td></tr>
+<tr><td>Interessa KWS</td><td>2022</td><td>78</td></tr>
 <tr><td>Novalina KWS</td><td>2020</td><td>78</td></tr>
+<tr><td>Smart Arosa KWS</td><td>2022</td><td>78</td></tr>
 <tr><td>Smart Belamia KWS</td><td>2020</td><td>78</td></tr>
+<tr><td>Smart Dilarta KWS</td><td>2022</td><td>78</td></tr>
 <tr><td>Smart Manja KWS</td><td>2020</td><td>78</td></tr>
+<tr><td>Smart Sunnita KWS</td><td>2022</td><td>78</td></tr>
 <tr><td>Tesla</td><td>2020</td><td>990</td></tr>
 </table>
 
@@ -491,7 +489,7 @@ Anhang 6
 <tr><td>–</td><td></td><td></td></tr>
 </table>
 
-Anhang 7*[^t-5]*
+Anhang 7[^t-5]
 
 (Art. 1 Bst. g)
 
@@ -768,13 +766,13 @@ Anhang 7*[^t-5]*
 <tr><td>Ziparte</td><td></td><td colspan="3">Zibarte, Zyberli, Ziberl, Seiberl</td></tr>
 </table>
 
-Anhang 8*[^t-6]*
+Anhang 8[^t-6]
 
 (Art. 1 Bst. h)
 
 ## Sortenliste für Reben
 
-[^t-6]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 24. Juni 2016 ([AS 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) und Ziff. I der V des BLW vom 10. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-6]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 24. Juni 2016 ([AS 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)), Ziff. I der V des BLW vom 10. Dez. 2021 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) und vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 ### Liste A: Sorten, deren Vermehrungsmaterial anerkannt und als anerkanntes Material in Verkehr gebracht werden darf
 
@@ -835,6 +833,7 @@ Anhang 8*[^t-6]*
 <tr><td colspan="2"></td><td>RAC 44</td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td>RAC 45</td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td>RAC 46</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>RAC 91</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Bondoletta N</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td>RAC 81</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Cabernello</td><td></td><td colspan="2"></td></tr>
@@ -928,6 +927,8 @@ Anhang 8*[^t-6]*
 <tr><td colspan="2">Pinot blanc B</td><td></td><td colspan="2">Weissburgunder/Weisser Burgunder/ Pinot bianco</td></tr>
 <tr><td colspan="2"></td><td>FR 70</td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td>RAC 28</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>RAC 87</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>RAC 88</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Pinot gris G</td><td></td><td colspan="2">Grauburgunder/Pinot grigio/Malvoisie/Ruländer</td></tr>
 <tr><td colspan="2"></td><td>RAC 18</td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td>RAC 56</td><td colspan="2"></td></tr>
@@ -959,6 +960,8 @@ Anhang 8*[^t-6]*
 <tr><td colspan="2"></td><td>RAC 85</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Savagnin blanc B</td><td></td><td colspan="2">Heida/Païen/Weisser Traminer</td></tr>
 <tr><td colspan="2"></td><td>RAC 34</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>RAC 89</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>RAC 90</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Solaris B</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td>FR 240-75</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Sylvaner B</td><td></td><td colspan="2">Gros Rhin/Grüner Sylvaner/ Johannisberg/Rhin/Silvaner</td></tr>
@@ -1085,47 +1088,43 @@ Nebst dem Vermehrungsmaterial der folgenden Sorten darf auch das Vermehrungsmate
 <tr><td>Zweigelt N</td><td>Zweigeltrebe</td></tr>
 </table>
 
-Anhang 9*[^t-7]*
+Anhang 9[^t-7]
 
 (Art. 1 Bst. i)
 
 ## Sorten, die aus dem entsprechenden Katalog gestrichen wurden, deren Saatgut aber noch bis zum aufgeführten Datum in Verkehr gebracht werden darf
 
-[^t-7]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 24. Juni 2016 ([AS 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) und Ziff. I der V des BLW vom 10. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-7]: Fassung gemäss Ziff. I der V des BLW vom 2. Juni 2015 ([AS 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Bereinigt gemäss Ziff. I der V des BLW vom 24. Juni 2016 ([AS 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), vom 28. Sept. 2017 ([AS 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), vom 13. Aug. 2018 ([AS 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), vom 24. Juni 2019 ([AS 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), Ziff. I Abs. 1 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)), Ziff. I der V des BLW vom 10. Dez. 2021 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) und vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 <table>
-<tr><th>Sortenbezeichnung</th><th colspan="2">Darf in Verkehr gebracht werden bis</th></tr>
-<tr><td>Alexandrinerklee*/Trifolium alexandrinum* L.</td><td colspan="2"></td></tr>
-<tr><td>Tabor</td><td colspan="2">30. Juni 2023</td></tr>
-<tr><td>Bastard-Raigras/*Lolium x hybridum* Hausskn.</td><td colspan="2"></td></tr>
-<tr><td>Delicial</td><td colspan="2">30. Juni 2022</td></tr>
-<tr><td>Englisches Raigras/*Lolium perenne* L.</td><td colspan="2"></td></tr>
-<tr><td>Lipresso</td><td colspan="2">30. Juni 2023</td></tr>
-<tr><td colspan="2">Italiensiches Raigras, Westerwoldisches Raigras/*Lolium multiflorum* Lam*.*</td><td></td></tr>
-<tr><td>Gemini</td><td colspan="2">30. Juni 2022</td></tr>
-<tr><td>Lipurus</td><td colspan="2">30. Juni 2022</td></tr>
-<tr><td>Luzerne*/Medicago sativa* L.</td><td colspan="2"></td></tr>
-<tr><td>Filla</td><td colspan="2">30. Juni 2023</td></tr>
-<tr><td>Fraver</td><td colspan="2">30. Juni 2023</td></tr>
-<tr><td>Weissklee/*Trifolium repens* L*.*</td><td colspan="2"></td></tr>
-<tr><td>Hebe</td><td colspan="2">30. Juni 2022</td></tr>
-<tr><td>Vysocan</td><td colspan="2">30. Juni 2022</td></tr>
+<tr><th>Sortenbezeichnung</th><th>Darf in Verkehr gebracht werden bis</th></tr>
+<tr><td>Alexandrinerklee*/Trifolium alexandrinum* L.</td><td></td></tr>
+<tr><td>Tabor</td><td>30. Juni 2023</td></tr>
+<tr><td>Englisches Raigras/*Lolium perenne* L.</td><td></td></tr>
+<tr><td>Lipresso</td><td>30. Juni 2023</td></tr>
+<tr><td>Premium</td><td>31. Dezember 2024</td></tr>
+<tr><td>Luzerne*/Medicago sativa* L.</td><td></td></tr>
+<tr><td>Filla</td><td>30. Juni 2023</td></tr>
+<tr><td>Fraver</td><td>30. Juni 2023</td></tr>
+<tr><td colspan="2">Mais/*Zea mays* L.</td></tr>
+<tr><td>Farmgold</td><td>31. Dezember 2024</td></tr>
+<tr><td colspan="2">Weichweizen (Weizen)/*Triticum aestivum* L.</td></tr>
+<tr><td>Chaumont</td><td>31. Dezember 2024</td></tr>
 </table>
 
-Anhang 10*[^t-8]*
+Anhang 10[^t-8]
 
 (Art. 1 Bst. j)
 
 ## Verantwortliche für die Erhaltungszüchtung der Sorten nach den Anhängen 1–6
 
-[^t-8]: Fassung gemäss Ziff. I Abs. 2 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Bereinigt gemäss Ziff. I der V des BLW vom 10. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-8]: Fassung gemäss Ziff. I Abs. 2 der V des BLW vom 17. Nov. 2020 ([AS 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Bereinigt gemäss Ziff. I der V des BLW vom 10. Dez. 2021 ([AS 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) und vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 <table>
 <tr><th>Nr.</th><th>Verantwortlich für die Erhaltungszüchtung</th></tr>
 <tr><td>21</td><td>DLF B.V., Kapelle, NL</td></tr>
 <tr><td>41</td><td>Delley Samen und Pflanzen AG, Delley, CH</td></tr>
 <tr><td>56</td><td>Getreidezüchtung Peter Kunz, Feldbach, CH</td></tr>
-<tr><td>61</td><td>Saatzucht Schmidt, Landau, DE</td></tr>
 <tr><td>78</td><td>KWS SAAT SE & Co. KGaA, Einbeck, DE</td></tr>
 <tr><td>93</td><td>Nordsaat Saatzuchtgesellschaft mbH, Böhnshausen, DE</td></tr>
 <tr><td>116</td><td>RAGT 2n, Rodez Cedex 09, FR</td></tr>
@@ -1141,6 +1140,7 @@ Anhang 10*[^t-8]*
 <tr><td>262</td><td>Barenbrug Research, Wolfheze, NL</td></tr>
 <tr><td>263</td><td>Institute for Agricultural and Fisheries Research (ILVO), Melle, BE</td></tr>
 <tr><td>266</td><td>Saaten-Zentrum Schöndorf, Weimar/Thür., DE</td></tr>
+<tr><td>987</td><td>ASUR Plant Breeding s.a.s., Estrées-Saint-Denis, FR</td></tr>
 <tr><td>990</td><td>Strube D&S GmbH, Söllingen, DE</td></tr>
 <tr><td>992</td><td>Betaseed GmbH, Frankfurt/Main, DE</td></tr>
 </table>

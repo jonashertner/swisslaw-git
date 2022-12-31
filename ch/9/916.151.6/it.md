@@ -3,11 +3,11 @@ sr: "916.151.6"
 title: "Ordinanza dell'UFAG del 12 giugno 2013 concernente i cataloghi delle varietà e gli elenchi delle varietà di specie vegetali utilizzate a scopo agricolo (Ordinanza sulle varietà)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/417"
 language: it
-version: 2022-01-15
+version: 2023-01-01
 adopted: 2013-06-12
 in_force: 2013-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/417/20220115/it/xml/fedlex-data-admin-ch-eli-cc-2013-417-20220115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/417/20220115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/417/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-417-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/417/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/417/20220115/it"
 
 (Ordinanza sulle varietà)
 
-del 12 giugno 2013 (Stato 15 gennaio 2022)
+del 12 giugno 2013 (Stato 1° gennaio 2023)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -72,13 +72,13 @@ L’ordinanza del 7 dicembre 1998[^2-1] sul catalogo delle varietà è abrogata.
 
 La presente ordinanza entra in vigore il 1° luglio 2013.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 lett. a)
 
 ## Catalogo delle varietà delle specie di cereali
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) e dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dal n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)), dal n. I delle O dell’UFAG del 10 dic. 2021 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) e del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 ### Elenco A: Varietà le cui sementi possono essere prodotte, certificate e commercializzate come materiale certificato
 
@@ -99,7 +99,6 @@ Allegato 1*[^t-1]*
 <tr><td colspan="2">Arpille</td><td>2021</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Ataro</td><td>2004</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
 <tr><td colspan="2">Axen</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Bardan</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Baretta</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Bimis</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Bishorn</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
@@ -107,9 +106,9 @@ Allegato 1*[^t-1]*
 <tr><td colspan="2">Bonavau</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Cadlimo</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Cambrena</td><td>2009</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Caminada</td><td>2022</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Campanile</td><td>2019</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Campello</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Caral</td><td>2014</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Carasso</td><td>2005</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Caroti</td><td>2010</td><td colspan="9">Forma autunnale</td><td colspan="3">266</td></tr>
 <tr><td colspan="2">Cassagno</td><td>2019</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
@@ -119,15 +118,15 @@ Allegato 1*[^t-1]*
 <tr><td colspan="2">CH Combin</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">CH Nara</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">CH Rubli</td><td>2007</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Chaumont</td><td>2012</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Chilly</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="3">131</td></tr>
-<tr><td colspan="2">Ciavena</td><td>2013</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Cian</td><td>2022</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
 <tr><td colspan="2">Colinta</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Colmetta</td><td>2015</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Diavel</td><td>2018</td><td colspan="9">Forma primaverile e autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Digana</td><td>2011</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Dilago</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Diribia</td><td>2022</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Falotta</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Federis</td><td>2022</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Fiorina</td><td>2001</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Forel</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Forteresse</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
@@ -136,9 +135,8 @@ Allegato 1*[^t-1]*
 <tr><td colspan="2">Gibloux</td><td>2021</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Glaruna</td><td>2017</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Hanswin</td><td>2013</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Harry</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="3">61</td></tr>
+<tr><td colspan="2">Haruki</td><td>2022</td><td colspan="9">Forma primaverile</td><td colspan="3">56</td></tr>
 <tr><td colspan="2">Lagalp</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Lambro</td><td>2013</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Lamotta</td><td>2016</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Levis</td><td>1997</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Linard</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
@@ -146,16 +144,14 @@ Allegato 1*[^t-1]*
 <tr><td colspan="2">Lorenzo</td><td>2011</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Luteus</td><td>2010</td><td colspan="9">Forma autunnale</td><td colspan="3">266</td></tr>
 <tr><td colspan="2">Mayen</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Moiry</td><td>2013</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Molinera</td><td>2010</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Montalbano</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Montalto</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Montdor</td><td>2015</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Mossette</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Muveran</td><td>2004</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Nendaz</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Nufenen</td><td>2018</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Paradisin</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Pilatus</td><td>2022</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Piznair</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Pizza</td><td>2013</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
 <tr><td colspan="2">Poesie</td><td>2015</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
@@ -179,6 +175,7 @@ Allegato 1*[^t-1]*
 <tr><td colspan="2">Spigolo</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Spluga</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Stanga</td><td>2011</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">SU Hymonta</td><td>2022</td><td colspan="9">Forma autunnale, ibrida</td><td colspan="3">987</td></tr>
 <tr><td colspan="2">Suretta</td><td>2009</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Tamborello</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Tenca</td><td>2017</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
@@ -191,7 +188,6 @@ Allegato 1*[^t-1]*
 <tr><td colspan="2">Varappe</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="2">41</td></tr>
 <tr><td colspan="2">Wital</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="2">56</td></tr>
 <tr><td colspan="2">Wiwa</td><td>2005</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Zinal</td><td>2003</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="5">5. Spelta/*Triticum aestivum* L. subsp. *spelta* (L.) Thell.</td><td></td><td colspan="2"></td><td colspan="6"></td></tr>
 <tr><td colspan="2">Alkor</td><td colspan="2">2002</td><td colspan="8"></td><td colspan="2">56</td></tr>
 <tr><td colspan="2">Copper</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="2">56</td></tr>
@@ -211,7 +207,6 @@ Allegato 1*[^t-1]*
 <tr><td colspan="2">Zürcher Oberländer Rotkorn</td><td colspan="2">2012</td><td colspan="8"></td><td colspan="2">56</td></tr>
 <tr><td colspan="9">6. Triticale/*X Triticosecale* Wittm.</td><td></td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td colspan="2">Balino</td><td colspan="2">2018</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Bedretto</td><td colspan="2">2003</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Larossa</td><td colspan="2">2014</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Lerma</td><td colspan="2">2021</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
 <tr><td colspan="2">Triangoli</td><td colspan="2">2021</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
@@ -225,8 +220,6 @@ Allegato 1*[^t-1]*
 <tr><th>Designazione della varietà</th><th>Ammissione</th><th colspan="3">Tipo di utilizzazione\*</th><th>Regione di prova\*\*</th><th>Precocità</th><th colspan="2">Responsabile della selezione per la conservazione delle varietà</th></tr>
 <tr><td colspan="3">7. Mais/*Zea mays L.*</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>Delcampo</td><td>2011</td><td colspan="3">M.G.</td><td>N</td><td>Semitardiva</td><td colspan="2">41</td></tr>
-<tr><td>Farmgold</td><td>2012</td><td colspan="3">M.G.</td><td>N</td><td>Precoce</td><td colspan="2">255</td></tr>
-<tr><td>Fox</td><td>2013</td><td colspan="3">M.G.</td><td>N</td><td>Precoce</td><td colspan="2">41</td></tr>
 <tr><td>Gottardo KWS</td><td>2014</td><td colspan="3">M.G./M.I.</td><td>N</td><td>Precoce</td><td colspan="2">78</td></tr>
 <tr><td>Poya</td><td>2010</td><td colspan="3">M.I.</td><td>N</td><td>Precoce</td><td colspan="2">41</td></tr>
 <tr><td>Pralinia</td><td>2008</td><td colspan="3">M.I.</td><td>N</td><td>Precoce</td><td colspan="2">41</td></tr>
@@ -257,13 +250,13 @@ Allegato 2
 <tr><td>Blaue St. Galler</td><td>2007</td><td></td><td>Semiprecoce</td><td>254</td></tr>
 </table>
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 1 lett. c)
 
 ## Catalogo delle varietà delle specie di piante foraggere
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) e dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dal n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)), dal n. I delle O dell’UFAG del 10 dic. 2021 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) e del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 <table>
 <tr><th>Designazione della varietà</th><th>Ammissione</th><th colspan="4">Osservazioni</th><th colspan="2">Responsabile della selezione per la conservazione delle varietà</th></tr>
@@ -335,7 +328,6 @@ Allegato 3*[^t-2]*
 <tr><td>Calibra</td><td colspan="2">2001</td><td colspan="3">Tardiva</td><td colspan="2">192</td></tr>
 <tr><td>Koala</td><td colspan="2">2018</td><td colspan="3">Tardiva, diploide</td><td colspan="2">162</td></tr>
 <tr><td>Lacerta</td><td colspan="2">1996</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
-<tr><td>Premium</td><td colspan="2">2001</td><td colspan="3">Tardiva</td><td colspan="2">21</td></tr>
 <tr><td>Salamandra</td><td colspan="2">2001</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
 <tr><td>Salmo</td><td colspan="2">2013</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
 <tr><td>Soraya</td><td colspan="2">2012</td><td colspan="3">Tardiva</td><td colspan="2">162</td></tr>
@@ -347,6 +339,7 @@ Allegato 3*[^t-2]*
 <tr><td>Bobak</td><td>2016</td><td colspan="4"></td><td>162</td></tr>
 <tr><td>Daboya</td><td>2010</td><td colspan="4"></td><td>162</td></tr>
 <tr><td>Dorcas</td><td>1995</td><td colspan="4"></td><td>162</td></tr>
+<tr><td>Galaxias</td><td>2022</td><td colspan="4"></td><td>162</td></tr>
 <tr><td>Ibex</td><td>2000</td><td colspan="4"></td><td>162</td></tr>
 <tr><td>Leonis</td><td>2005</td><td colspan="4"></td><td>162</td></tr>
 <tr><td>Marmota</td><td>2001</td><td colspan="4"></td><td>162</td></tr>
@@ -355,6 +348,7 @@ Allegato 3*[^t-2]*
 <tr><td>Palmata</td><td>2011</td><td colspan="4"></td><td>162</td></tr>
 <tr><td>Pereneia</td><td>2017</td><td colspan="4"></td><td>162</td></tr>
 <tr><td>Rusa</td><td>2000</td><td colspan="4"></td><td>162</td></tr>
+<tr><td>Salaria</td><td>2022</td><td colspan="4"></td><td>162</td></tr>
 <tr><td>Sorex</td><td>2011</td><td colspan="4"></td><td>162</td></tr>
 <tr><td colspan="4">Fleolo/*Phleum pratense L.*</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>Anjo</td><td>2005</td><td colspan="4"></td><td colspan="2">263</td></tr>
@@ -417,65 +411,69 @@ Allegato 3*[^t-2]*
 <tr><td>–</td><td></td><td colspan="4"></td><td colspan="2"></td></tr>
 </table>
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 1 lett. d)
 
 ## Catalogo delle varietà di piante oleose e da fibra
 
-[^t-3]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)) e dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)).
+[^t-3]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dal n. I delle O dell’UFAG del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG del 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) e dal n. I dell’O dell’UFAG del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 <table>
-<tr><th colspan="2">Designazione della varietà</th><th colspan="6">Ammissione</th><th>Responsabile della selezione per la conservazione delle varietà</th></tr>
-<tr><th colspan="8">1. ...</th><th></th></tr>
-<tr><td colspan="5">2. Soja /*Glycine max* (L.) Merr.</td><td colspan="3"></td><td></td></tr>
-<tr><td colspan="2">Amandine</td><td colspan="6">2012</td><td>41</td></tr>
-<tr><td colspan="2">Aveline</td><td colspan="6">2005</td><td>41</td></tr>
-<tr><td colspan="2">Bagera</td><td colspan="6">2007</td><td>41</td></tr>
-<tr><td colspan="2">Cataline</td><td colspan="6">2007</td><td>41</td></tr>
-<tr><td colspan="2">Coraline</td><td colspan="6">2014</td><td>41</td></tr>
-<tr><td colspan="2">Falbala</td><td colspan="6">2013</td><td>41</td></tr>
-<tr><td colspan="2">Galice</td><td colspan="6">2015</td><td>41</td></tr>
-<tr><td colspan="2">Gallec</td><td colspan="6">2000</td><td>41</td></tr>
-<tr><td colspan="2">Kalinka</td><td colspan="6">2017</td><td>41</td></tr>
-<tr><td colspan="2">Navaro</td><td colspan="5">2020</td><td colspan="2">41</td></tr>
-<tr><td colspan="2">Obélix</td><td colspan="6">2014</td><td>41</td></tr>
-<tr><td colspan="2">Opaline</td><td colspan="6">2009</td><td>41</td></tr>
-<tr><td colspan="2">Paprika</td><td colspan="5">2020</td><td colspan="2">41</td></tr>
-<tr><td colspan="2">Paradis</td><td colspan="6">2000</td><td>41</td></tr>
-<tr><td colspan="2">Pollux</td><td colspan="6">2012</td><td>41</td></tr>
-<tr><td colspan="2">Protéix</td><td colspan="6">2009</td><td>41</td></tr>
-<tr><td colspan="2">Protibus</td><td colspan="6">2013</td><td>41</td></tr>
-<tr><td colspan="2">Tequila</td><td colspan="6">2014</td><td>41</td></tr>
-<tr><td colspan="2">Tourmaline</td><td colspan="6">2013</td><td>41</td></tr>
-<tr><td colspan="2">Toutatis</td><td colspan="6">2015</td><td>41</td></tr>
-<tr><td colspan="2">Vanessa</td><td colspan="6">2005</td><td>41</td></tr>
-<tr><td colspan="2">Xena</td><td colspan="5">2018</td><td colspan="2">41</td></tr>
-<tr><td colspan="5">3. Colza/*Brassica napus* L. (partim)</td><td colspan="3"></td><td></td></tr>
-<tr><td>–</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td></tr>
-<tr><td colspan="5">4. Ravizzone/*Brassica rapa* L. var*. silvestris* (Lam.) *Briggs*</td><td colspan="3"></td><td></td></tr>
-<tr><td colspan="3">–</td><td colspan="5"></td><td></td></tr>
+<tr><th colspan="2">Designazione della varietà</th><th colspan="5">Ammissione</th><th>Responsabile della selezione per la conservazione delle varietà</th></tr>
+<tr><th colspan="7">1. ...</th><th></th></tr>
+<tr><td colspan="5">2. Soja /*Glycine max* (L.) Merr.</td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">Amandine</td><td colspan="5">2012</td><td>41</td></tr>
+<tr><td colspan="2">Aveline</td><td colspan="5">2005</td><td>41</td></tr>
+<tr><td colspan="2">Bagera</td><td colspan="5">2007</td><td>41</td></tr>
+<tr><td colspan="2">Cataline</td><td colspan="5">2007</td><td>41</td></tr>
+<tr><td colspan="2">Coraline</td><td colspan="5">2014</td><td>41</td></tr>
+<tr><td colspan="2">Galice</td><td colspan="5">2015</td><td>41</td></tr>
+<tr><td colspan="2">Gallec</td><td colspan="5">2000</td><td>41</td></tr>
+<tr><td colspan="2">Kalinka</td><td colspan="5">2017</td><td>41</td></tr>
+<tr><td colspan="2">Navaro</td><td colspan="5">2020</td><td>41</td></tr>
+<tr><td colspan="2">Obélix</td><td colspan="5">2014</td><td>41</td></tr>
+<tr><td colspan="2">Opaline</td><td colspan="5">2009</td><td>41</td></tr>
+<tr><td colspan="2">Paprika</td><td colspan="5">2020</td><td>41</td></tr>
+<tr><td colspan="2">Paradis</td><td colspan="5">2000</td><td>41</td></tr>
+<tr><td colspan="2">Pollux</td><td colspan="5">2012</td><td>41</td></tr>
+<tr><td colspan="2">Protéix</td><td colspan="5">2009</td><td>41</td></tr>
+<tr><td colspan="2">Tamarix</td><td colspan="5">2022</td><td>41</td></tr>
+<tr><td colspan="2">Tequila</td><td colspan="5">2014</td><td>41</td></tr>
+<tr><td colspan="2">Tourmaline</td><td colspan="5">2013</td><td>41</td></tr>
+<tr><td colspan="2">Toutatis</td><td colspan="5">2015</td><td>41</td></tr>
+<tr><td colspan="2">Vanessa</td><td colspan="5">2005</td><td>41</td></tr>
+<tr><td colspan="2">Xena</td><td colspan="5">2018</td><td>41</td></tr>
+<tr><td colspan="5">3. Colza/*Brassica napus* L. (partim)</td><td colspan="2"></td><td></td></tr>
+<tr><td>–</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="5">4. Ravizzone/*Brassica rapa* L. var*. silvestris* (Lam.) *Briggs*</td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="3">–</td><td colspan="4"></td><td></td></tr>
 </table>
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 1 lett. e)
 
 ## Catalogo delle varietà di barbabietole
 
-[^t-4]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Aggiornato dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-4]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Aggiornato dal n. I dell’O dell’UFAG del 10 dic. 2021 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) e del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 <table>
 <tr><th>Designazione delle varietà</th><th>Ammissione</th><th>Responsabile della selezione per la conservazione delle varietà</th></tr>
 <tr><td>Agueda KWS</td><td>2020</td><td>78</td></tr>
 <tr><td>BTS 2725</td><td>2020</td><td>992</td></tr>
+<tr><td>BTS Smart 4825</td><td>2022</td><td>992</td></tr>
 <tr><td>Caroll</td><td>2020</td><td>990</td></tr>
 <tr><td>Chevrolet</td><td>2021</td><td>990</td></tr>
 <tr><td>Dunant</td><td>2021</td><td>990</td></tr>
 <tr><td>Escadia KWS</td><td>2021</td><td>78</td></tr>
+<tr><td>Interessa KWS</td><td>2022</td><td>78</td></tr>
 <tr><td>Novalina KWS</td><td>2020</td><td>78</td></tr>
+<tr><td>Smart Arosa KWS</td><td>2022</td><td>78</td></tr>
 <tr><td>Smart Belamia KWS</td><td>2020</td><td>78</td></tr>
+<tr><td>Smart Dilarta KWS</td><td>2022</td><td>78</td></tr>
 <tr><td>Smart Manja KWS</td><td>2020</td><td>78</td></tr>
+<tr><td>Smart Sunnita KWS</td><td>2022</td><td>78</td></tr>
 <tr><td>Tesla</td><td>2020</td><td>990</td></tr>
 </table>
 
@@ -490,7 +488,7 @@ Allegato 6
 <tr><td colspan="2">–</td><td></td><td colspan="2"></td></tr>
 </table>
 
-Allegato 7*[^t-5]*
+Allegato 7[^t-5]
 
 (art. 1 lett. g)
 
@@ -530,7 +528,7 @@ Allegato 7*[^t-5]*
 <tr><td>Prunus Piku 1</td><td colspan="2"></td><td colspan="8"></td></tr>
 <tr><td>Prunus GiSelA 6</td><td colspan="2"></td><td colspan="8"></td></tr>
 <tr><td>Prunus GiSelA 5</td><td colspan="2"></td><td colspan="8"></td></tr>
-<tr><td colspan="9">1.4 Susino (*Prunus domestica*), albicocco (*Prunus armeni**a**ca*) e pesco (*Prunus persica*)</td><td></td><td></td></tr>
+<tr><td colspan="9">1.4 Susino (*Prunus domestica*), albicocco (*Prunus armeniaca*) e pesco (*Prunus persica*)</td><td></td><td></td></tr>
 <tr><td>Prunus Jaspi Fereley</td><td colspan="2"></td><td colspan="8"></td></tr>
 <tr><td>Prunus St. Julien W 61</td><td colspan="2"></td><td colspan="8"></td></tr>
 <tr><td>Prunus St. Julien GF 655-2</td><td colspan="2"></td><td colspan="8"></td></tr>
@@ -767,13 +765,13 @@ Allegato 7*[^t-5]*
 <tr><td colspan="2">Ziparte</td><td colspan="2"></td><td colspan="7">Zibarte, Zyberli, Ziberl, Seiberl</td></tr>
 </table>
 
-Allegato 8*[^t-6]*
+Allegato 8[^t-6]
 
 (art. 1 lett. h)
 
 ## Elenco delle varietà di vite
 
-[^t-6]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) e dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-6]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dal n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)), dal n. I delle O dell’UFAG del 10 dic. 2021 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) e del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 ### Elenco A: Varietà il cui materiale di moltiplicazione può essere certificato e commercializzato come materiale certificato
 
@@ -827,6 +825,7 @@ Allegato 8*[^t-6]*
 <tr><th>Designazione della varietà</th><th>Clone</th><th>Sinonimo/osservazioni</th></tr>
 <tr><td colspan="2">Amigne B</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td>RAC 32</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>RAC 91</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Arvine B</td><td></td><td colspan="2">Petite Arvine</td></tr>
 <tr><td colspan="2"></td><td>RAC 22</td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td>RAC 42</td><td colspan="2"></td></tr>
@@ -927,6 +926,8 @@ Allegato 8*[^t-6]*
 <tr><td>Pinot blanc B</td><td></td><td colspan="2">Weissburgunder/Weisser Burgunder/Pinot bianco</td></tr>
 <tr><td></td><td>FR 70</td><td colspan="2"></td></tr>
 <tr><td></td><td>RAC 28</td><td colspan="2"></td></tr>
+<tr><td></td><td>RAC 87</td><td colspan="2"></td></tr>
+<tr><td></td><td>RAC 88</td><td colspan="2"></td></tr>
 <tr><td>Pinot gris G</td><td></td><td colspan="2">Grauburgunder/Pinot grigio/Malvoisie/Ruländer</td></tr>
 <tr><td></td><td>RAC 18</td><td colspan="2"></td></tr>
 <tr><td></td><td>RAC 56</td><td colspan="2"></td></tr>
@@ -958,6 +959,8 @@ Allegato 8*[^t-6]*
 <tr><td></td><td>RAC 85</td><td colspan="2"></td></tr>
 <tr><td>Savagnin blanc B</td><td></td><td colspan="2">Heida/Païen/Weisser Traminer</td></tr>
 <tr><td></td><td>RAC 34</td><td colspan="2"></td></tr>
+<tr><td></td><td>RAC 89</td><td colspan="2"></td></tr>
+<tr><td></td><td>RAC 90</td><td colspan="2"></td></tr>
 <tr><td>Solaris B</td><td></td><td colspan="2"></td></tr>
 <tr><td></td><td>FR 240-75</td><td colspan="2"></td></tr>
 <tr><td>Sylvaner B</td><td></td><td colspan="2">Gros Rhin/Grüner Sylvaner/ Johannisberg/Rhin/Silvaner</td></tr>
@@ -1084,47 +1087,55 @@ Oltre al materiale di moltiplicazione delle seguenti varietà, anche il material
 <tr><td>Zweigelt N</td><td>Zweigeltrebe</td></tr>
 </table>
 
-Allegato 9*[^t-7]*
+Allegato 9[^t-7]
 
 (art. 1 lett. i)
 
 ## Varietà stralciate dal rispettivo catalogo, ma le cui sementi possono essere commercializzate fino alla data indicata
 
-[^t-7]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) e dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-7]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dal n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)), dal n. I delle O dell’UFAG del 10 dic. 2021 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) e del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 <table>
 <tr><th>Designazione della varietà</th><th>Commercializzabile fino al</th></tr>
+</table>
+
+<table>
+<tr><td colspan="2">Grano tenero (frumento)/*Triticum aestivum* L.</td></tr>
+<tr><td>Chaumont</td><td>31 dicembre 2024</td></tr>
+</table>
+
+<table>
 <tr><td>Erba medica/*Medicago sativa L.*</td><td></td></tr>
 <tr><td>Filla</td><td>30 giugno 2023</td></tr>
 <tr><td>Fraver</td><td>30 giugno 2023</td></tr>
-<tr><td>Loglio ibrido/*Lolium x hybridum* Hausskn.</td><td></td></tr>
-<tr><td>Delicial</td><td>30 giugno 2022</td></tr>
-<tr><td>Loglio italico/Loglio Westerwold/*Lolium multiflorum* Lam*.*</td><td></td></tr>
-<tr><td>Gemini</td><td>30 giugno 2022</td></tr>
-<tr><td>Lipurus</td><td>30 giugno 2022</td></tr>
 <tr><td>Loietto inglese/*Lolium perenne L.*</td><td></td></tr>
 <tr><td>Lipresso</td><td>30 giugno 2023</td></tr>
-<tr><td>Trifoglio alessandrino/*Trifolium alexandrinum L.*</td><td></td></tr>
-<tr><td>Tabor</td><td>30 giugno 2023</td></tr>
-<tr><td>Trifoglio bianco/*Trifolium repens* L*.*</td><td></td></tr>
-<tr><td>Hebe</td><td>30 giugno 2022</td></tr>
-<tr><td>Vysocan</td><td>30 giugno 2022</td></tr>
+<tr><td>Premium</td><td>31 dicembre 2024</td></tr>
 </table>
 
-Allegato 10*[^t-8]*
+<table>
+<tr><td colspan="2">Mais/*Zea mays* L.</td></tr>
+<tr><td>Farmgold</td><td>31 dicembre 2024</td></tr>
+</table>
+
+<table>
+<tr><td>Trifoglio alessandrino/*Trifolium alexandrinum L.*</td><td></td></tr>
+<tr><td>Tabor</td><td>30 giugno 2023</td></tr>
+</table>
+
+Allegato 10[^t-8]
 
 (art. 1 lett. j)
 
 ## Responsabili della selezione per la conservazione delle varietà delle specie riportate negli allegati 1–6
 
-[^t-8]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Aggiornato dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
+[^t-8]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Aggiornato dal n. I delle O dell’UFAG del 10 dic. 2021 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)) e del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 745](https://fedlex.data.admin.ch/eli/oc/2022/745)).
 
 <table>
 <tr><th>N.</th><th>Responsabile della selezione per la conservazione delle varietà</th></tr>
 <tr><td>21</td><td>DLF B.V., Kapelle, NL</td></tr>
 <tr><td>41</td><td>Delley Samen und Pflanzen AG, Delley, CH</td></tr>
 <tr><td>56</td><td>Getreidezüchtung Peter Kunz, Feldbach, CH</td></tr>
-<tr><td>61</td><td>Saatzucht Schmidt, Landau, DE</td></tr>
 <tr><td>78</td><td>KWS SAAT SE & Co. KGaA, Einbeck, DE</td></tr>
 <tr><td>93</td><td>Nordsaat Saatzuchtgesellschaft mbH, Böhnshausen, DE</td></tr>
 <tr><td>116</td><td>RAGT 2n, Rodez Cedex 09, FR</td></tr>
@@ -1140,6 +1151,7 @@ Allegato 10*[^t-8]*
 <tr><td>262</td><td>Barenbrug Research, Wolfheze, NL</td></tr>
 <tr><td>263</td><td>Institute for Agricultural and Fisheries Research (ILVO), Melle, BE</td></tr>
 <tr><td>266</td><td>Saaten-Zentrum Schöndorf, Weimar/Thür., DE</td></tr>
+<tr><td>987</td><td>ASUR Plant Breeding s.a.s., Estrées-Saint-Denis, FR</td></tr>
 <tr><td>990</td><td>Strube D&S GmbH, Söllingen, DE</td></tr>
 <tr><td>992</td><td>Betaseed GmbH, Frankfurt/Main, DE</td></tr>
 </table>
