@@ -4,7 +4,7 @@ number: "700.11.1"
 title: "RÈGLEMENT du 19.09.1986 d'application de la loi du 4 décembre 1985 sur l'aménagement du territoire et les constructions (RLATC)"
 short: RLATC
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11.1?id=12fdc2a6-5c95-4ad5-9433-0801702d6d2b"
 ---
 
@@ -1087,15 +1087,15 @@ Annexes [^91-1]
 
 1
 
-[700.11.1.annexeI](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/1?dmev=01.07.2022)
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/1?dmev=01.01.2023)
 
 2
 
-[700.11.1.annexeII](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/2?dmev=01.07.2022)
+[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/2?dmev=01.01.2023)
 
 3
 
-[700.11.1.annexeIII](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/3?dmev=01.07.2022)
+[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/3?dmev=01.01.2023)
 
 [^90-1]: Modif. 6 du 14.05.2001: Modification Art. 91; entrée en vigueur au 14.05.2001
 [^91-1]: Modif. 2 du 27.08.1990: Modification Ann; entrée en vigueur au 01.10.1990 · Modif. 3 du 23.12.1993: Modification Ann; entrée en vigueur au 01.02.1994 · Modif. 6 du 14.05.2001: Modification Ann; entrée en vigueur au 14.05.2001 · Modif. 7 du 16.12.2004: Modification Ann; entrée en vigueur au 01.12.2004 · Modif. 9 du 04.10.2006: Modification Ann; entrée en vigueur au 01.11.2006 · Modif. 16 du 14.12.2022: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2023 · Modif. 17 du 14.06.2023: Introduction Art. 68c; entrée en vigueur au 01.08.2023; Introduction Annexes, Ann. 4; entrée en vigueur au 01.08.2023 · Modif. 18 du 01.10.2025: Introduction Art. 69, Al. 1, 1, k-m; entrée en vigueur au 01.01.2026; Modification Annexes, Ann. 4; entrée en vigueur au 01.01.2026
