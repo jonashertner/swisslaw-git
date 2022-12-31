@@ -4,7 +4,7 @@ number: "172.215.1.1"
 title: "ARRÊTÉ du 06.07.2022 sur la composition des départements et les noms des services de l'administration (AdésA)"
 short: AdésA
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.215.1.1?id=fb9fa455-62db-4167-8351-6fc7171d6451"
 ---
 
@@ -102,7 +102,7 @@ arrête
 - c. Direction générale du numérique et des systèmes d'information.
 - d. Direction générale de la mobilité et des routes.
 - e. Service des automobiles et de la navigation.
-- f. Service du personnel de l'Etat de Vaud.
+- f. Direction générale des ressources humaines.
 
 <sup>2</sup> Ce département comprend les entités stratégiques suivantes : l'Office de l'accueil de jour des enfants et l'Unité de conseil et d'appui en management des organisations.
 
