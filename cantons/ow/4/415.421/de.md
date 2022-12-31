@@ -4,13 +4,13 @@ number: "415.421"
 title: Zentralschweizer Fachhochschul-Verordnung
 short: ZFHVo
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-19
+version: 2023-01-01
+valid_until: 2026-03-31
+version_adopted: 2022-12-22
 adopted: 2012-12-14
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/415.421"
-pdf: "http://gdb.ow.ch/api/de/versions/1516/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1803/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1516/pdf_file"
 
 (ZFHVo)
 
-vom 14.12.2012 (Stand 01.01.2021)
+vom 14.12.2012 (Stand 01.01.2023)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -120,6 +120,8 @@ beschliesst:
 
 <sup>1</sup> Mietverträge mit einer Mietzinssumme von über 200 000 Franken pro Jahr bedürfen der einstimmigen Genehmigung durch den Konkordatsrat.
 
+<sup>2</sup> Davon ausgenommen sind Mietverträge für Studierendenwohnungen, welche die Fachhochschule ohne Genehmigung durch den Konkordatsrat abschliessen kann.
+
 #### Art. 11
 
 **Infrastrukturplanung und Liegenschaftenbewirtschaftung durch die Standortkantone**
@@ -139,5 +141,15 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Die Verordnung tritt am 1. Januar 2013 in Kraft. Sie ist zu veröffentlichen.
+
+**Informationen zum Erlass:**
+
+Ursprüngliche Fundstelle: OGS 2012, 85
+
+geändert durch
+
+\- Nachtrag vom 19. März 2021, in Kraft rückwirkend seit 1. Januar 2021 (OGS 2021, 16),
+
+\- Nachtrag vom 22. Dezember 2022, in Kraft seit 1. Januar 2023 (OGS 2023, 9)
 
 OGS 2012, 85
