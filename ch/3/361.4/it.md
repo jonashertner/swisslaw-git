@@ -3,18 +3,18 @@ sr: "361.4"
 title: Ordinanza del 15 ottobre 2008 sul Registro nazionale di polizia
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: it
-version: 2021-04-01
+version: 2023-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-701-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-701-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul Registro nazionale di polizia
 
-del 15 ottobre 2008 (Stato 1° aprile 2021)
+del 15 ottobre 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -100,7 +100,8 @@ Ai dati elencati nell’articolo 4 hanno accesso, per mezzo di una procedura di 
 - j. il Comando della sicurezza militare, per l’adempimento dei suoi compiti di polizia giudiziaria e di polizia di sicurezza in ambito militare;
 - k.[^5-4] le autorità incaricate di effettuare i controlli di sicurezza conformemente all’articolo 21 capoverso 1 della legge federale del 21 marzo1997[^5-5] sulle misure per la salvaguardia della sicurezza interna (LMSI);
 - l. il consulente per la protezione dei dati di fedpol;
-- m. il responsabile di progetto e gli amministratori di sistema del fornitore di servizi informatici incaricato dal Dipartimento federale di giustizia e polizia per la manutenzione tecnica del sistema.
+- m. il responsabile di progetto e gli amministratori di sistema del fornitore di servizi informatici incaricato dal Dipartimento federale di giustizia e polizia per la manutenzione tecnica del sistema;
+- n.[^5-6] il servizio di fedpol competente per l’adempimento dei compiti secondo la legge federale del 25 settembre 2020[^5-7] sui precursori di sostanze esplodenti.
 
 <sup>2</sup>
 
@@ -116,6 +117,8 @@ Ai dati elencati nell’articolo 4 hanno inoltre accesso per mezzo di una proced
 [^5-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
 [^5-4]: Nuovo testo giusta l’all. 3 n. 5 dell’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone, in vigore dal 1° apr. 2011 ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
 [^5-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^5-6]: Introdotto dall’all. 2 n. 8 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^5-7]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
 
 #### Art. 6
 
@@ -132,7 +135,7 @@ La durata di conservazione dei dati è retta:
 [^6-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
 [^6-2]: [RS 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
 [^6-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^6-4]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)[6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^6-4]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694), [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
 
 #### Art. 7
 
@@ -146,7 +149,7 @@ La durata di conservazione dei dati è retta:
 
 [^7-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^7-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
-[^7-3]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)[6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^7-3]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694), [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
 
 ## Sezione 3: Protezione dei dati e sicurezza dei dati
 
@@ -168,7 +171,7 @@ Il diritto delle persone iscritte nel Registro all’accesso, alla rettifica e a
 [^8-1]: [RS 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
 [^8-2]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
 [^8-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^8-4]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)[6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^8-4]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325), [4943](https://fedlex.data.admin.ch/eli/oc/2008/694), [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
 
 #### Art. 9
 
@@ -248,13 +251,13 @@ L’ordinanza del 22 novembre 2006[^15-1] sulla fase pilota del Registro naziona
 
 La presente ordinanza entra in vigore il 5 dicembre 2008.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 5 cpv. 3)
 
 ## Diritti d’accesso al Registro nazionale di polizia
 
-[^t-1]: Nuovo testo giusta l’all. 4 n. II 17 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dall’all. 3 n. 5 all’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), dal n. 9 dell’all. all’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) e dal n. II dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
+[^t-1]: Nuovo testo giusta l’all. 4 n. II 17 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dall’all. 3 n. 5 all’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), dal n. 9 dell’all. all’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), dal n. II dell’O del 21 nov. 2018 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)) e dall’all. 2 n. 8 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 X = Accesso
 
@@ -320,7 +323,7 @@ vide = nessun accesso
 <table>
 <tr><th></th><th>Identificazione delle persone</th><th>Data dell’iscri-zione</th><th>Motivo dell’iscri-zione</th><th>Autorità competente</th><th>Fonte d’informa-zione</th></tr>
 <tr><td>Divisione Sistemi nazionali di polizia</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Ufficio centrale Armi Ufficio centrale Esplosivi e pirotecnica</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Uffici centrali Armi ed Esplosivi</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Settore Tifoseria violenta</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 

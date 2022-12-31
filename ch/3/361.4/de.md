@@ -3,11 +3,11 @@ sr: "361.4"
 title: Verordnung vom 15. Oktober 2008 über den Nationalen Polizeiindex (Polizeiindex-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: de
-version: 2021-04-01
+version: 2023-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20210401/de"
 
 (Polizeiindex-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. April 2021)
+vom 15. Oktober 2008 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -106,7 +106,8 @@ Zugriff auf die in Artikel 4 aufgeführten Daten mittels eines automatisierten A
 - j. das Kommando Militärische Sicherheit zur Erfüllung seiner kriminal- und sicherheitspolizeilichen Aufgaben im Armeebereich;
 - k.[^5-3] die Behörden, die nach Artikel 21 Absatz 1 des Bundesgesetzes vom 21. März 1997[^5-4] über Massnahmen zur Wahrung der inneren Sicherheit mit der Durchführung von Personensicherheitsprüfungen betraut sind;
 - l. die Datenschutzberaterin, bzw. der Datenschutzberater fedpol;
-- m die Projektleiterin, bzw. der Projektleiter und die Systemadministratoren des vom Eidgenössischen Justiz- und Polizeidepartement beauftragten Informatik-Leistungserbringers für den technischen Unterhalt des Systems.
+- m die Projektleiterin, bzw. der Projektleiter und die Systemadministratoren des vom Eidgenössischen Justiz- und Polizeidepartement beauftragten Informatik-Leistungserbringers für den technischen Unterhalt des Systems;
+- n.[^5-5] die Stelle von fedpol, die für die Erfüllung der Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020[^5-6] zuständig ist.
 
 <sup>2</sup>
 
@@ -121,6 +122,8 @@ Zugriff auf die in Artikel 4 aufgeführten Daten mittels eines automatisierten A
 [^5-2]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^5-3]: Fassung gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen, in Kraft seit 1. April 2011 ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
 [^5-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^5-5]: Eingefügt durch Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^5-6]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
 
 #### Art. 6
 
@@ -247,7 +250,7 @@ Die Kantone übernehmen:
 
 Die Verordnung vom 22. November 2006[^15-1] über den Pilotbetrieb des Nationalen Polizeiindexes wird aufgehoben.
 
-[^15-1]: [[AS 2006 4875](https://fedlex.data.admin.ch/eli/oc/2006/757), [2008 3215](https://fedlex.data.admin.ch/eli/oc/2008/431)]
+[^15-1]: [[AS 2006 4875](https://fedlex.data.admin.ch/eli/oc/2006/757); [2008 3215](https://fedlex.data.admin.ch/eli/oc/2008/431)]
 
 #### Art. 16
 
@@ -255,13 +258,13 @@ Die Verordnung vom 22. November 2006[^15-1] über den Pilotbetrieb des Nationale
 
 Diese Verordnung tritt am 5. Dezember 2008 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 5 Abs. 3)
 
 ## Zugriffsrechte auf den Nationalen Polizeiindex
 
-[^t-1]: Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Bereinigt gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), Anhang Ziff. 9 der V über den ausserprozessualen Zeugenschutz vom 7. Nov. 2012 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) und Ziff. II der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
+[^t-1]: Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Bereinigt gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), Anhang Ziff. 9 der V über den ausserprozessualen Zeugenschutz vom 7. Nov. 2012 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), Ziff. II der V vom 21. Nov. 2018 ([AS 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)) und Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 <table>
 <tr><td>X</td><td>=</td><td>Zugriff</td></tr>
@@ -328,7 +331,7 @@ Anhang*[^t-1]*
 <table>
 <tr><th></th><th>Personenidentifizierung</th><th>Eintragungsdatum</th><th>Eintragungsgrund</th><th>Zuständige Behörde</th><th>Informationsquelle</th></tr>
 <tr><td>Abteilung Nationale Polizeisysteme</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Zentralstellen Waffen/Sprengstoff und Pyrotechnik</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Zentralstellen Waffen und Explosivstoffe</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Fachbereich Hooliganismus</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 

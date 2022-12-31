@@ -3,18 +3,18 @@ sr: "361.4"
 title: "Ordonnance du 15 octobre 2008 sur l'index national de police"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: fr
-version: 2021-04-01
+version: 2023-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’index national de police
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> avril 2021)
+du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -104,7 +104,8 @@ Les unités administratives suivantes de la Confédération disposent d’un acc
 - j. le commandement de la Sécurité militaire pour l’accomplissement de ses tâches de police judiciaire et de police de sécurité dans le domaine de l’armée;
 - k. [^5-5] les autorités chargées d’effectuer les contrôles de sécurité relatifs à des personnes en vertu de l’art. 21, al. 1, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^5-6];
 - l. le conseiller à la protection des données de fedpol;
-- m. le chef de projet et les administrateurs système du fournisseur de prestations informatiques mandaté par le Département fédéral de justice et police (DFJP) pour la maintenance technique du système.
+- m. le chef de projet et les administrateurs système du fournisseur de prestations informatiques mandaté par le Département fédéral de justice et police (DFJP) pour la maintenance technique du système;
+- n.[^5-7] le service de fedpol chargé de l’accomplissement des tâches prévues par la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^5-8].
 
 <sup>2</sup>
 
@@ -121,6 +122,8 @@ L’accès en ligne aux données désignées à l’art. 4 est également accord
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
 [^5-5]: Nouvelle teneur selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
 [^5-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^5-7]: Introduite par l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^5-8]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
 
 #### Art. 6
 
@@ -254,13 +257,13 @@ L’ordonnance du 22 novembre 2006 sur l’exploitation pilote de l’index nati
 
 La présente ordonnance entre en vigueur le 5 décembre 2008.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 5, al. 3)
 
 ## Droits d’accès à l’index national de police
 
-[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), l’annexe ch. 9 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) et le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), l’annexe ch. 9 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)) et l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 X = accès
 
@@ -326,7 +329,7 @@ vide = pas d’accès
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
 <tr><td>Division nationale Systèmes de police</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Offices centraux Armes / Explosifs et Pyrotechnie</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Offices centraux des explosifs et des armes</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Domaine Hooliganisme</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
