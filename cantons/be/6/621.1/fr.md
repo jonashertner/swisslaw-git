@@ -1,2036 +1,1265 @@
 ---
 canton: BE
 number: "621.1"
-title: Ordonnance sur le pilotage des finances et des prestations
-short: OFP
+title: Ordonnance sur les finances
+short: OFin
 language: fr
-version: 2021-05-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-10
+version: 2023-01-01
+version_adopted: 2022-11-16
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/621.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2522/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2734/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur le pilotage des finances et des prestations
+# Ordonnance sur les finances
 
-(OFP)
+(OFin)
 
-du 03.12.2003 (état au 01.05.2021)
+du 16.11.2022 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 77 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^ingress-1] et l’article 50 de la loi du 20 juin 1995 sur l'organisation du Conseil-exécutif et de l'administration (loi d'organisation, LOCA)[^ingress-2],
+vu l'article 70 de la loi du 15 juin 2022 sur les finances (LFin)[^ingress-1],
 
 sur proposition de la Direction des finances,
 
 arrête:
 
-[^ingress-1]: RSB 620.0
-[^ingress-2]: RSB 152.01
+[^ingress-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
-## 1 Gestion financière
-
-### 1.1 Dispositions générales et normes applicables à la gestion financière
+## 1 Principes
 
 #### Art. 1
 
-**Champ d’application**
+**Champ d'application**
 
-<sup>1</sup> La présente ordonnance est applicable à l’ensemble du champ d’application défini à l’article 2 LFP[^1-1]. Les prescriptions concernant les comptes spéciaux sont réservées (art. 36 LFP).
+<sup>1</sup> Le champ d'application de la présente ordonnance est le même que celui de la LFin.
 
-[^1-1]: RSB 620.0
-
-#### Art. 1a
-
-**Normes applicables**
-
-<sup>1</sup> La présentation des comptes est conforme au modèle comptable harmonisé 2 (MCH2) et s'appuie sur les normes comptables internationales pour le secteur public IPSAS (International Public Sector Accounting Standards).
-
-#### Art. 1b
-
-**Dérogations aux IPSAS**
-
-<sup>1</sup> Les principales dérogations au MCH2 et aux IPSAS ainsi qu'aux principes de présentation des comptes fixés à l'article 5, alinéa 2 LFP sont
-
-- a la régularisation des recettes fiscales selon les droits constatés définie comme norme minimale [IPSAS 23],
-- b la renonciation à la consolidation globale des participations majoritaires et de la caisse de chômage, ainsi que du service de l'emploi (ORP et CCh) [IPSAS 6, MCH2 n° 13],
-- c l'évaluation des participations, non pas à leur valeur au capital propre, mais à leur coût d'acquisition ou à leur valeur vénale [IPSAS 7],
-- d l'application de Swiss GAAP RPC (Swiss Generally Accepted Accounting Principles de la Fondation pour les recommandations relatives à la présentation des comptes) pour l'évaluation d'engagements de prévoyance [IPSAS 25],
-- e la renonciation à tenir des réserves de réévaluation, sauf la réserve constituée pour la réévaluation des actifs financés par des Fonds, qui est dissoute à la valeur nette [IPSAS 9, 23],
-- f la comptabilisation en montant brut influant sur le résultat des attributions et prélèvements concernant les financements spéciaux et les Fonds des capitaux de tiers et du capital propre exclusivement via les groupes de comptes 350/450 et 351/451 (attributions aux et prélèvements sur les financements spéciaux et Fonds des capitaux de tiers et du capital propre) [IPSAS 1, MCH2 n°04, 08],
-- g la comptabilisation des attributions et des prélèvements concernant les préfinancements via les charges (compte 3893) et les revenus (compte 4893) extraordinaires du compte de résultats [IPSAS 1, MCH2 n°08], le montant du prélèvement correspondant au projet d'investissement spécifiquement désigné,
-- h après leur enregistrement, l'amortissement immédiat, et non en fonction de la durée d’utilisation, des investissements versés à partir de financements spéciaux, de Fonds ou de préfinancements (à l’exception des prêts) [IPSAS 17],
-- i la renonciation à publier des indications sur les relations avec des personnes et entités liées [IPSAS 20].
-
-<sup>2</sup> Constituent également des dérogations au MCH2 et aux IPSAS ainsi qu'aux principes fixés à l'article 5, alinéa 2 LFP
-
-- a …
-- b l'évaluation des engagements financiers non pas selon la méthode du taux d'intérêt effectif mais à la valeur nominale ou à la valeur actuelle [IPSAS 29],
-- c l'application de la méthode de la valeur réelle lors de la première évaluation des actifs pour les subventions d'investissement et les biens-fonds [IPSAS 17],
-- d l'application du principe de retraitement lors de la première estimation du terrain dans le patrimoine administratif [IPSAS 17],
-- e la renonciation à appliquer rétrospectivement les méthodes d'évaluation et d'établissement du bilan lors de la mise en place de la norme de présentation des comptes [IPSAS 3],
-- f l'inscription au bilan de la part cantonale aux routes nationales sous forme de provision et la renonciation à l'inscrire à l'actif sous forme de subvention d'investissement [IPSAS 19],
-- g la constitution et la dissolution de réserves de retraitement sans effet sur le résultat lors de fluctuations de la valeur vénale des placements du patrimoine financier, aussi longtemps qu'une dépréciation de valeur peut être couverte via la réserve de retraitement du placement correspondant [MCH2 n° 12],
-- h l'inscription au bilan d'immeubles destinés à la vente comme immobilisations corporelles et non pas comme stocks dans le patrimoine financier [IPSAS 12],
-- i l’inscription au bilan du Fonds de loterie, du Fonds du sport et du Fonds d’encouragement des activités culturelles en tant que capitaux de tiers et leur gestion séparée conformément à l‘article 126, alinéa 1 de la loi fédérale du 29 septembre 2017 sur les jeux d‘argent (LJAr)[^1b-1]. L’affectation des fonds n’est pas comptabilisée sur les postes du compte de résultats des comptes annuels [IPSAS 1, MCH2 n° 08].
-
-[^1b-1]: RS [935.51](https://db.clex.ch/link/Bund/935.51/fr)
-
-#### Art. 1c
-
-**Calcul de l'autofinancement**
-
-<sup>1</sup> L'autofinancement est obtenu en additionnant le solde du compte de résultats et les amortissements sur le patrimoine administratif.
+<sup>2</sup> Les dispositions sur les comptes spéciaux sont réservées (art. 55 LFin).
 
 #### Art. 2
 
-**Unité comptable**
+**Emploi économe des fonds et rentabilité**
 
-<sup>1</sup> Une unité comptable gère une structure comptable qui comprend une comptabilité financière, une comptabilité analytique d’exploitation, un calcul des prestations et une comptabilité des immobilisations formant un tout cohérent.
+<sup>1</sup> Tous les organes chargés de la gestion financière examinent les dépenses éventuelles en fonction de leur nécessité et des possibilités de les financer.
 
-<sup>2</sup> Une structure comptable peut être subdivisée en segments et en domaines fonctionnels dans la comptabilité financière, y compris les livres auxiliaires et les comptabilités auxiliaires.
+<sup>2</sup> Les dépenses sont effectuées par ordre d'urgence et d'importance.
+
+<sup>3</sup> Pour chaque projet, il convient de choisir la solution la plus économique.
 
 #### Art. 3
 
-**Annualité**
+**Principe de causalité**
 
-<sup>1</sup> Le budget et les comptes annuels sont établis pour une année civile.
+<sup>1</sup> Les personnes qui sont à l'origine de charges ou de coûts particuliers ou qui bénéficient de prestations particulières du canton en supportent en principe les coûts dans la limite du raisonnable, ceux-ci étant répercutés sur elles en tenant compte notamment de leur situation sociale et économique.
+
+<sup>2</sup> En contrepartie des avantages économiques particuliers tirés de mesures ou d'équipements publics, des contributions appropriées sont prélevées, dont le montant équivaut à la valeur de ces avantages, dans la limite des coûts.
+
+<sup>3</sup> Les coûts sont dus à la date d'utilisation effective d'un bien public ou d'une prestation publique.
+
+## 2 Pilotage des finances
+
+### 2.1 Controlling et planification
 
 #### Art. 4
 
-**Universalité et déclaration d'universalité**
+**Controlling**
 
-<sup>1</sup> Toutes les opérations financières et tous les faits comptables sont enregistrés dans la comptabilité conformément aux faits, de manière correcte et vérifiable, et sont attribués aux périodes qui leur correspondent.
+<sup>1</sup> Le controlling porte en règle générale sur les aspects suivants:
 
-<sup>2</sup> Les Directions, la Chancellerie d'Etat, les autorités judiciaires, le Ministère public, les unités comptables et d'autres services responsables dans le processus d'établissement des comptes annuels attestent à la Direction des finances de l'universalité de la présentation des comptes dans leur domaine de responsabilité au moyen d'une déclaration d'universalité lors de la clôture annuelle des comptes.
-
-<sup>3</sup> Les déclarations d'universalité sont signées par les responsables.
+- a prestations,
+- b effets,
+- c finances,
+- d ressources humaines.
 
 #### Art. 5
 
-**Vérité**
+**Compétences en matière de controlling**
 
-<sup>1</sup> Tous les faits économiques sont enregistrés et traités avec exactitude.
+<sup>1</sup> Chaque unité administrative est chargée du controlling dans ses domaines d'activité.
+
+<sup>2</sup> Un controlling de groupe est réalisé périodiquement pour vérifier si les consignes sont respectées; tout manquement est signalé au service concerné, auquel des recommandations sont remises pour lui indiquer comment procéder à l'avenir.
+
+<sup>3</sup> La Direction des finances règle les modalités de détail dans le Manuel sur la présentation des comptes.
 
 #### Art. 6
 
-**Produit brut**
+**Eléments de l'enveloppe budgétaire**
 
-<sup>1</sup> Les compensations entre les charges et les revenus, les dépenses et les recettes ainsi que les coûts et les rentrées financières sont interdites.
+<sup>1</sup> L'enveloppe budgétaire (art. 6, al. 2, lit. c LFin) de chaque groupe de produits englobe
+
+- a le détail des charges et des revenus d'exploitation avec les imputations internes,
+- b le résultat opérationnel et le résultat extraordinaire.
+
+<sup>2</sup> Elle ne comprend pas les coûts standard.
 
 #### Art. 7
 
-**Echéance**
+**Processus de planification**
 
-<sup>1</sup> Les charges et les revenus, les dépenses et les recettes ainsi que les coûts et les rentrées financières doivent en règle générale être comptabilisés dès qu’ils sont dus ou facturés.
+<sup>1</sup> Le Conseil-exécutif arrête les consignes relatives au contenu du plan intégré mission-financement et du budget en vue de leur élaboration.
+
+<sup>2</sup> La Direction des finances dirige le processus de planification, édicte les instructions correspondantes et vérifie que les résultats sont conformes aux consignes.
+
+<sup>3</sup> Les Directions et la Chancellerie d'Etat commentent, dans leur projet de planification, les variations de leurs finances et de leurs prestations par rapport aux valeurs de l'année précédente; elles demandent à la Direction des finances de faire apurer les écarts par le Conseil-exécutif si leurs chiffres s'écartent des consignes.
+
+<sup>4</sup> La magistrature, les services parlementaires et le Contrôle des finances soumettent à l'organe compétent les écarts par rapport à la précédente planification.
 
 #### Art. 8
 
-**Détail**
+**Adoption du budget et du plan intégré mission-financement**
 
-<sup>1</sup> Les charges et les revenus, les dépenses et les recettes, les coûts et les rentrées financières ainsi que les postes du bilan doivent être imputés au compte matériellement approprié.
+<sup>1</sup> Le Conseil-exécutif adopte le budget et le plan intégré mission-financement de façon à ce que la Commission consultative des finances et le Grand Conseil reçoivent respectivement les documents deux mois et demi et un mois au plus tard avant le début de la session.
 
 #### Art. 9
 
-**Economie et efficience**
+**Crédit supplémentaire**
 
-<sup>1</sup> Tous les organes chargés de la gestion financière examinent les dépenses éventuelles en fonction de leur nécessité et des possibilités financières existantes. La priorité est accordée aux dépenses les plus importantes et les plus urgentes.
+<sup>1</sup> Le Conseil-exécutif présente dans la mesure du possible les demandes de crédit supplémentaire au Grand Conseil suffisamment tôt pour que celui-ci puisse en délibérer avant la clôture de l'exercice.
 
-<sup>2</sup> Une fois l'objectif d'un projet déterminé, il convient de choisir la solution économiquement la plus favorable pour le réaliser.
+<sup>2</sup> Les engagements entraînant le dépassement des crédits budgétaires ne peuvent pas être pris avant que le Grand Conseil ait autorisé le crédit supplémentaire, à moins qu'il ne s'agisse d'un engagement impossible à différer au sens de l'article 10 LFin.
 
 #### Art. 10
 
-**Compétence technique pour la comptabilité et les finances**
+**Report de crédit**
 
-<sup>1</sup> La Direction des finances dirige la comptabilité et les finances du point de vue technique. Elle est chargée en particulier de l'organisation et de la coordination de la comptabilité ainsi que de l’agrégation et de la consolidation au niveau cantonal.
+<sup>1</sup> Les reports de crédit font chaque année l'objet d'une demande groupée, que les Directions et la Chancellerie d'Etat soumettent au Conseil-exécutif.
 
-<sup>2</sup> Le service compétent de la Direction des finances édicte les instructions nécessaires après consultation des Directions et de la Chancellerie d’Etat, et accorde les autorisations conformément aux dispositions de la présente ordonnance.
+<sup>2</sup> Les demandes de report de crédit sont
 
-<sup>3</sup> S’il n’est pas possible de trouver un accord au niveau de l’administration, à savoir entre la Direction des finances et une autre Direction ou la Chancellerie d’Etat, le Conseil-exécutif tranche.
+- a présentées par projet et motivées,
+- b spécifiées par compte et par groupe de produits.
+
+### 2.2 Compte rendu
 
 #### Art. 11
 
-**Compétence pour la tenue de la comptabilité**
+**Mandats pour le processus de clôture**
 
-<sup>1</sup> Les unités comptables établissent la comptabilité financière, la comptabilité analytique d’exploitation, le calcul des prestations, la comptabilité des immobilisations ainsi que le relevé des temps de travail et des prestations selon des directives uniformes.
+<sup>1</sup> Le Conseil-exécutif charge les Directions, la Chancellerie d'Etat, les autorités et la magistrature d'élaborer les parties du rapport de gestion relevant de leur domaine de compétence.
 
-<sup>2</sup> Les directives garantissent que les données définies par la Direction des finances peuvent être agrégées et consolidées.
+<sup>2</sup> Il définit en outre les informations que doivent fournir les institutions figurant dans le rapport de gestion, mais qui ne font pas partie de l'administration cantonale.
 
 #### Art. 12
 
-**Système de contrôle interne (SCI)**
+**Elaboration du rapport de gestion**
 
-<sup>1</sup> Les Directions, la Chancellerie d’Etat et leurs unités comptables adoptent dans leur domaine de compétence toutes les mesures d’organisation nécessaires pour protéger le patrimoine du canton, assurer une présentation des comptes conforme aux règles comptables et garantir le respect des prescriptions légales.
+<sup>1</sup> La Direction des finances
 
-<sup>2</sup> Après consultation des Directions, de la Chancellerie d’Etat et du Contrôle des finances, l’Administration des finances peut édicter des instructions concernant le système de contrôle interne et ses composants, notamment pour la documentation des processus ainsi que pour la conservation et la destruction des livres généraux et auxiliaires, des pièces comptables et de la correspondance.
+- a dirige le processus d'élaboration du rapport de gestion et des comptes annuels;
+- b édicte les instructions nécessaires et contrôle leur application;
+- c contrôle la plausibilité des résultats;
+- d établit les comptes annuels du canton et élabore les parties principales du rapport de gestion.
+
+<sup>2</sup> Les Directions, la Chancellerie d'Etat, les autorités et la magistrature
+
+- a établissent les comptes de clôture de leur domaine et élaborent les parties du rapport de gestion qui leur sont spécifiques;
+- b certifient que leurs comptes de clôture sont complets et exacts.
 
 #### Art. 13
 
-**Création d’unités comptables**
+**Approbation du rapport de gestion**
 
-<sup>1</sup> L’Administration des finances est compétente pour autoriser la création d’unités comptables et de leurs structures comptables. Elle peut accorder ces autorisations pour une durée déterminée et les subordonner au respect de certaines charges.
+<sup>1</sup> Le rapport de gestion est en règle générale soumis à l'approbation du Grand Conseil lors de sa session d'été de l'année suivante.
 
-<sup>2</sup> Les segments et domaines fonctionnels sont définis par les Directions et la Chancellerie d’Etat après consultation de l’Administration des finances et compte tenu des impératifs légaux.
+<sup>2</sup> Il peut exceptionnellement l'être lors d’une session ultérieure de l'année suivante, avec l'accord de la Commission des finances.
+
+### 2.3 Pilotage à l'échelon de l'administration
 
 #### Art. 14
 
-**Système d’informations financières (FIS)**
+**Prestations publiques**
 
-<sup>1</sup> L’Administration des finances crée, entretient et coordonne les instruments de travail nécessaires en amont, notamment le système d’informations financières (FIS), système directeur. Elle coordonne les systèmes auxiliaires.
+<sup>1</sup> Les prestations cantonales ainsi que leurs caractéristiques qualitatives et quantitatives sont pilotées par le biais de groupes de produits et des produits qui les composent.
 
-<sup>2</sup> Elle définit après consultation des Directions et de la Chancellerie d’Etat le volume des prestations impératif pour toutes les unités comptables et réglemente l’assurance-qualité du processus de production.
+<sup>2</sup> Elles permettent d'établir la comptabilité des coûts et des prestations.
 
 #### Art. 15
 
-**Livres auxiliaires et classes d’objets**
-
-<sup>1</sup> L’Administration des finances est compétente pour prescrire et autoriser les livres auxiliaires ainsi que les classes d’objets.
-
-#### Art. 16
-
-**Système intégré de gestion**
-
-<sup>1</sup> L’exportation de données du système d’informations financières vers un système intégré de gestion est soumise à l’autorisation de l’Administration des finances.
-
-### 1.2 Comptabilité financière
-
-### 1.2.1 Généralités
-
-#### Art. 17
-
-**Définition**
-
-<sup>1</sup> La comptabilité financière comprend
-
-- a le compte de résultats et le compte des investissements,
-- b le bilan,
-- c le tableau des flux de trésorerie,
-- d les financements spéciaux,
-- e la comptabilité des immobilisations.
-
-#### Art. 18
-
-**Plan comptable général**
-
-<sup>1</sup> Le plan comptable général (annexe 1) classe les opérations comptables selon leur nature. Il comprend:
-
-- a des classes de comptes (à un chiffre, annexe 1),
-- b des groupes de matières (à deux chiffres, annexe 1),
-- c des groupes de comptes (à trois chiffres),
-- d des comptes (à six chiffres).
-
-<sup>2</sup> L’Administration des finances peut prévoir d’autres classifications du plan comptable général.
-
-<sup>3</sup> La classification est conforme aux prescriptions du MCH2.
-
-#### Art. 19
-
-**Modifications du plan comptable général**
-
-<sup>1</sup> Sur proposition de la Direction concernée ou de la Chancellerie d'Etat, l'Administration des finances autorise les modifications des groupes de comptes et l'ouverture de nouveaux comptes pour autant qu’elles soient nécessaires du point de vue cantonal.
-
-#### Art. 20
-
-**Imputations internes et facturation des prestations**
-
-<sup>1</sup> Les imputations internes et la facturation des prestations au sens de l’article 41 LFP sont réalisées
-
-- a si elles sont prescrites par la législation;
-- b si elles sont convenues entre des unités comptables;
-- c ou si les prestations sont en totalité ou en partie refacturées à des tiers.
-
-<sup>2</sup> Les imputations internes et la facturation des prestations au sens de l’article 41 LFP reflètent toutes les opérations internes du canton. Elles doivent être comptabilisées séparément.
-
-<sup>3</sup> Les différentes opérations sont imputées aux comptes matériellement appropriés de la comptabilité financière et de la comptabilité analytique d’exploitation, facturées et comptabilisées selon la période.
-
-<sup>4</sup> Les autorisations de dépenses pour les imputations internes et la facturation des prestations sont délivrées conformément à l’article 140, alinéa 1, lettre i.
-
-<sup>5</sup> Les imputations internes et la facturation des prestations sont réalisées de manière uniforme sur la base du catalogue cantonal des prestations.
-
-<sup>6</sup> Les imputations assorties de flux monétaires ne sont pas autorisées.
-
-<sup>7</sup> L’Administration des finances peut, dans certains cas, prévoir des dérogations à cet article ou en autoriser à la demande d’une unité administrative.
-
-### 1.2.2 Compte de résultats et compte des investissements
-
-### 1.2.2.1 Compte de résultats
-
-#### Art. 21
-
-**Définitions**
-
-<sup>1</sup> …
-
-<sup>2</sup> Les charges regroupent
-
-- a les charges de personnel ainsi que les charges de biens et services et autres charges d'exploitation,
-- b les amortissements,
-- c les charges financières,
-- d les attributions aux financements spéciaux,
-- e les charges de transfert,
-- f les subventions redistribuées,
-- g les charges extraordinaires,
-- h les imputations internes.
-
-<sup>3</sup> Les revenus regroupent
-
-- a les revenus fiscaux,
-- b les régales et les concessions,
-- c les contributions,
-- d les revenus divers,
-- e les revenus financiers,
-- f les prélèvements sur les financements spéciaux,
-- g les revenus de transfert,
-- h les subventions à redistribuer,
-- i les revenus extraordinaires,
-- k les imputations internes.
-
-#### Art. 22
-
-**Provisions: principe**
-
-<sup>1</sup> Des provisions au sens de l'article 12, alinéa 7 LFP doivent être constituées uniquement lorsque l'occurrence d'un seul et même événement reposant sur les mêmes faits entraîne, du point de vue global du canton, des charges d'un montant d'au moins 100'000 francs. Elles sont constituées sur le compte de charges matériellement approprié.
-
-<sup>2</sup> Les provisions doivent être dissoutes sur le compte de charges matériellement approprié lorsqu’elles n’ont plus d’objet.
-
-<sup>3</sup> La constitution et la dissolution d’une provision nécessitent l’autorisation de l’Administration des finances et, à partir d’un million de francs par événement, l’approbation du Directeur ou de la Directrice des finances.
-
-#### Art. 23
-
-**Provisions pour charges de personnel**
-
-<sup>1</sup> Il convient dans tous les cas de constituer des provisions pour les charges de personnel. Aucune autorisation n’est nécessaire pour les constituer ou les dissoudre.
-
-#### Art. 24
-
-**…**
-
-#### Art. 25
-
-**Amortissements planifiés**
-
-<sup>1</sup> Les immobilisations du patrimoine administratif soumises à une dépréciation sont amorties linéairement sur la valeur résiduelle à partir du début de leur utilisation. Les consignes concernant la durée d'utilisation sont fixées pour chaque classe d'immobilisations par l'Administration des finances en vertu de données empiriques en matière de gestion et s'appuient sur les pourcentages d'amortissement des normes applicables selon l'article 1a.
-
-<sup>2</sup> Si la valeur résiduelle ne peut pas être déterminée, elle s'élève à un franc à l'expiration de la durée d'utilisation.
-
-<sup>3</sup> Le patrimoine administratif constitué de financements spéciaux est amorti linéairement après l'expiration de la durée d'utilisation.
-
-#### Art. 26
-
-**Dépréciation durable**
-
-<sup>1</sup> Si une dépréciation durable est à prévoir pour un élément du patrimoine administratif, la valeur au bilan est corrigée.
-
-<sup>2</sup> Le patrimoine financier est périodiquement réévalué (test de dépréciation durable).
-
-<sup>3</sup> Toute dépréciation d'actif dont le montant dépasse 100'000 francs, ou un million de francs pour les biens immobiliers, nécessite l'autorisation de l'Administration des finances.
-
-#### Art. 27
-
-**Intérêts internes**
-
-<sup>1</sup> Les intérêts internes sont les intérêts servis dans les relations financières entre divisions administratives. Ils sont enregistrés dans la comptabilité financière.
-
-<sup>2</sup> Sous réserve de l’alinéa 3, le taux des intérêts internes correspond à celui qu’accorde la Banque Cantonale Bernoise sur les comptes courants au 1<sup>er</sup> janvier et au 1<sup>er</sup> juillet de l’année en cours, augmenté d’un quart de pour cent.
-
-<sup>3</sup> Le service compétent de la Direction des finances peut convenir de rémunérer des fonds de tiers, des legs et des fondations non autonomes à des taux d'intérêt conformes au marché.
-
-### 1.2.2.2 Compte des investissements
-
-#### Art. 28
-
-**Définition**
-
-<sup>1</sup> Le compte des investissements comprend les dépenses et les recettes concernant la création ou la liquidation de biens du patrimoine administratif.
-
-#### Art. 29
-
-**Dépenses d'investissement**
-
-<sup>1</sup> Sont en particulier considérés comme dépenses d’investissement:
-
-- a l'achat, la construction et l'amélioration de biens du patrimoine administratif offrant une nouvelle utilisation de plusieurs années, ou permettant de l'étendre ou de la prolonger considérablement, que ce soit qualitativement ou quantitativement,
-- b les prestations propres pour la création de biens du patrimoine administratif,
-- c les transferts du patrimoine financier au patrimoine administratif,
-- d le versement de subventions d’investissement à la création ou à l'amélioration de biens du patrimoine administratif,
-- e l'allocation de prêts et l'achat de participations dans le cadre de l'accomplissement des tâches publiques.
-
-#### Art. 30
-
-**Recettes d’investissement**
-
-<sup>1</sup> Sont en particulier considérés comme recettes d’investissement:
-
-- a les transferts de biens du patrimoine administratif moyennant une rémunération,
-- b les transferts du patrimoine administratif au patrimoine financier,
-- c les remboursements de prêts inscrits à l’actif et les ventes de participations dans le cadre de l’accomplissement des tâches publiques,
-- d les facturations à des tiers pour des biens et pour des subventions d’investissement accordées,
-- e les subventions d’investissement acquises.
-
-#### Art. 31
-
-**Délimitation par rapport au compte de résultats**
-
-<sup>1</sup> Tous les investissements pour des immobilisations du patrimoine administratif dont la durée d'utilisation s'étend sur plusieurs années sont portés au débit du compte des investissements.
-
-#### Art. 32
-
-**Prêts et participations du patrimoine administratif**
-
-<sup>1</sup> Les prêts assortis d'une obligation de remboursement sous condition sont inscrits à l'actif comme subventions d’investissement lorsqu'ils servent à financer des biens d'investissement et que leur remboursement ultérieur est considéré comme peu probable au moment où ils sont octroyés. Dans le cas contraire, ils sont inscrits à la charge du compte de résultats comme subventions d'exploitation.
-
-<sup>2</sup> Les participations du patrimoine administratif sont inscrites à l'actif lorsqu'elles sont essentiellement destinées à accomplir des tâches publiques.
-
-<sup>3</sup> Il n'y a pas de limite d'activation.
-
-### 1.2.3 Bilan
-
-#### Art. 33
-
-**Définitions et enregistrement d'apports de biens**
-
-<sup>1</sup> Le bilan est conçu comme un bilan provisoire. Il contient les actifs et les passifs du canton.
-
-<sup>2</sup> Les actifs comprennent
-
-- a les disponibilités et les placements à court terme,
-- b les créances,
-- c les placements financiers à court terme,
-- d les actifs de régularisation,
-- e les stocks et les travaux en cours,
-- f les placements financiers,
-- g les immobilisations corporelles,
-- h les créances envers les financements spéciaux et les Fonds des capitaux de tiers,
-- i les immobilisations incorporelles,
-- k les prêts,
-- l les participations et le capital social,
-- m les subventions d’investissement.
-
-<sup>3</sup> Les passifs comprennent
-
-- a les engagements courants,
-- b les engagements financiers à court terme,
-- c les passifs de régularisation,
-- d les provisions à court terme,
-- e les engagements financiers à long terme,
-- f les provisions à long terme,
-- g les engagements envers les financements spéciaux et les Fonds des capitaux de tiers,
-- h les engagements et avances envers des financements spéciaux du capital propre,
-- i les Fonds du capital propre,
-- k les préfinancements,
-- l les réserves de réévaluation,
-- m les réserves de retraitement du patrimoine financier,
-- n les autres capitaux propres,
-- o l'excédent ou le découvert du bilan.
-
-<sup>4</sup> Dans la mesure où les critères d'activation sont remplis, un apport de biens est enregistré au patrimoine financier ou au patrimoine administratif, selon l'utilisation ou l'affectation.
-
-#### Art. 34
-
-**Immobilisations du patrimoine financier**
-
-<sup>1</sup> Les immobilisations du patrimoine financier regroupent en particulier les valeurs à revenu fixe, les prêts, les participations, les biens-fonds et le matériel que le canton a acquis pour faire fructifier ses capitaux ou pour constituer des réserves et qui peuvent être aliénés sans nuire à l'exécution des tâches publiques.
-
-#### Art. 35
-
-**Régularisations**
-
-<sup>1</sup> Seules les livraisons et prestations réalisées au cours de l’exercice comptable peuvent être débitées ou créditées sur le crédit budgétaire.
-
-<sup>2</sup> Des actifs ou des passifs de régularisation sont constitués uniquement lorsqu'une opération reposant sur les mêmes faits égale ou excède 100'000 francs.
-
-<sup>3</sup> Des actifs ou des passifs de régularisation d'un montant inférieur à 100'000 francs peuvent être constitués dans le respect du principe de la permanence.
-
-<sup>4</sup> Les régularisations liées à la période considérée doivent être portées à la connaissance de l'Administration des finances avant la clôture des comptes.
-
-### 1.2.4 Tableau des flux de trésorerie
-
-#### Art. 36
-
-**Définition**
-
-<sup>1</sup> Le tableau des flux de trésorerie renseigne sur la variation des liquidités au niveau du canton ainsi que sur ses causes.
-
-<sup>2</sup> Il représente les mouvements du Fonds «Disponibilités».
-
-<sup>3</sup> Le Fonds «Disponibilités» comprend les disponibilités et les placements financiers à court terme qui peuvent être mobilisés en l'espace de trois mois et qui ne subissent que d'infimes fluctuations.
-
-#### Art. 37
-
-**Structure**
-
-<sup>1</sup> Le tableau des flux de trésorerie présente les entrées et sorties de trésorerie relatives
-
-- a aux activités opérationnelles,
-- b aux investissements,
-- c aux activités financières.
-
-#### Art. 38
-
-**Flux de trésorerie relatifs aux activités opérationnelles**
-
-<sup>1</sup> Les flux de trésorerie relatifs aux activités opérationnelles correspondent au solde du compte de résultats corrigé des charges et des revenus n’ayant pas d’incidence sur le Fonds (méthode indirecte).
-
-#### Art. 39
-
-**…**
-
-#### Art. 40
-
-**Nouvel endettement**
-
-<sup>1</sup> Le Grand Conseil fixe le cadre du nouvel endettement conformément à l’article 76, lettre d de la Constitution cantonale[^40-1] dans des arrêtés distincts.
-
-<sup>2</sup> …
-
-<sup>3</sup> L’Administration des finances est chargée de l’exécution.
-
-[^40-1]: RSB 101.1
-
-### 1.2.5 Financements spéciaux
-
-#### Art. 41
-
-**Attribution**
-
-<sup>1</sup> Les financements spéciaux au sens de l’article 14 LFP[^41-1] font partie intégrante de la comptabilité et des finances cantonales.
-
-<sup>2</sup> Les financements spéciaux sont attribués de manière fixe à une unité comptable. Chaque financement spécial doit être présenté au moyen d’un segment propre.
-
-<sup>3</sup> Le financement spécial est attribué aux capitaux de tiers si la base légale repose sur le droit supérieur et que celui-ci ne laisse guère de marge de manœuvre en ce qui concerne la nature et le montant des émoluments ou l'emploi des fonds.
-
-<sup>4</sup> Le financement spécial est attribué au capital propre si la base légale repose sur le droit cantonal ou si une base légale repose certes sur le droit de rang supérieur, mais que celui-ci laisse au canton une marge de manœuvre importante.
-
-[^41-1]: RSB 620.0
-
-#### Art. 42
-
-**Versements et prélèvements**
-
-<sup>1</sup> Les versements et les prélèvements effectués sur les financements spéciaux sont excusivement inscrits au compte de résultats.
-
-<sup>2</sup> Les variations de solde des financements spéciaux attribués au capital propre sont comptabilisées avec incidence sur le résultat lors de la clôture annuelle des comptes.
-
-<sup>3</sup> Les variations de solde des financements spéciaux attribués aux capitaux de tiers sont comptabilisées en montants bruts dans le compte de résultats.
-
-#### Art. 43
-
-**Avances**
-
-<sup>1</sup> Les avances sur le compte de résultats prévues à l’article 14, alinéa 4 LFP doivent être remboursées à l’aide des excédents de revenus futurs des tâches faisant l’objet du financement spécial, dans un délai maximal de huit ans après leur première inscription au bilan.
-
-#### Art. 44
-
-**Frais de gestion**
-
-<sup>1</sup> Le Conseil-exécutif redéfinit au moins tous les cinq ans les montants forfaitaires pour les frais occasionnés par la gestion du financement spécial au sens de l’article 14, alinéa 5 LFP[^44-1].
-
-[^44-1]: RSB 620.0
-
-#### Art. 45
-
-**Compétence**
-
-<sup>1</sup> Les unités comptables sont responsables de la gestion des financements spéciaux qui leur sont attribués.
-
-### 1.2.6 Principes d’évaluation dans la comptabilité financière
-
-#### Art. 46
-
-**Créances**
-
-<sup>1</sup> En cas de créance douteuse, de risque lié aux opérations de crédit ou de diminution prévisible de revenus (rabais, diminutions de prix, etc.), il faut procéder à une rectification de valeur (ducroire).
-
-#### Art. 47
-
-**Stocks**
-
-<sup>1</sup> Tous les stocks sont évalués à la moins élevée de ces trois valeurs: le coût d’acquisition, le coût de production ou la valeur nette de réalisation.
-
-#### Art. 48
-
-**Biens agricoles et cheptel**
-
-<sup>1</sup> L'évaluation est effectuée conformément aux prix à la production habituels dans la branche.
-
-#### Art. 49
-
-**Titres et participations**
-
-<sup>1</sup> Lors de l'enregistrement, les titres et participations sont évalués à leur valeur d’acquisition.
-
-<sup>2</sup> ​Les évaluations ultérieures ont lieu selon le modèle du coût d'acquisition dans le patrimoine administratif et selon le modèle de la juste valeur dans le patrimoine financier.
-
-#### Art. 50
-
-**Prêts**
-
-<sup>1</sup> Les prêts sont évalués au maximum à la valeur nominale.
-
-#### Art. 51
-
-**Immobilisations corporelles**
-
-<sup>1</sup> Les immobilisations corporelles sont enregistrées à leur valeur d’acquisition ou de production.
-
-<sup>2</sup> Après son enregistrement, l'immobilisation corporelle est inscrite au bilan à son coût d'acquisition actualisé au patrimoine administratif et à sa juste valeur au patrimoine financier.
-
-#### Art. 52
-
-**…**
-
-#### Art. 53
-
-**Subventions d’investissement**
-
-<sup>1</sup> Les subventions d’investissement versées sont inscrites à l'actif.
-
-<sup>2</sup> Les subventions d'investissement reçues sont inscrites au passif.
-
-<sup>3</sup> Les subventions d'investissement promises sont inscrites, respectivement, à l'actif ou au passif au moment où la promesse définitive est donnée. Leur inscription, respectivement, à la charge ou à la décharge du compte des investissements intervient conformément à la comptabilité d'exercice.
-
-<sup>4</sup> Il n'y a pas de limite d'activation.
-
-#### Art. 54
-
-**…**
-
-#### Art. 55
-
-**Immobilisations incorporelles**
-
-<sup>1</sup> Les immobilisations incorporelles sont inscrites à l'actif à leur coût d'acquisition ou de production.
-
-<sup>2</sup> Après son enregistrement, l'immobilisation incorporelle est inscrite au bilan à son coût d'acquisition actualisé au patrimoine administratif et à sa juste valeur au patrimoine financier.
-
-<sup>3</sup> La limite inférieure d'activation est fixée à 100'000 francs.
-
-#### Art. 56
-
-**Réévaluations**
-
-<sup>1</sup> Les valeurs patrimoniales rattachées au patrimoine administratif ne sont pas réévaluées.
-
-#### Art. 57
-
-**Activation des prestations propres**
-
-<sup>1</sup> Les immobilisations corporelles créées par le canton sont inscrites à l’actif lorsqu’il est possible d’enregistrer et de mesurer individuellement leurs coûts de fabrication et lorsque leur durée d’utilisation escomptée excède une période comptable.
-
-<sup>2</sup> Les coûts de fabrication inscrits à l’actif ne dépassent pas la valeur d’usage des immobilisations corporelles et ne contiennent ni frais d’administration ou de distribution, ni d’autres charges qui ne soient directement imputables, ni participation au bénéfice.
-
-#### Art. 58
-
-**Instructions**
-
-<sup>1</sup> La Direction des finances peut édicter des instructions complémentaires sur l’évaluation des actifs.
-
-### 1.2.7 Inventaire
-
-#### Art. 59
-
-**Seuil d’inventaire**
-
-<sup>1</sup> ​Le patrimoine financier, les immobilisations financières, les parcelles de terrain et les subventions d'investissement sont toujours inventoriés.
-
-<sup>2</sup> Les patrimoines suivants doivent être portés au bilan à partir des valeurs d'acquisition suivantes:
-
-- a patrimoine des immobilisations corporelles meubles: à partir de 5000 francs;
-- b patrimoine des immobilisations corporelles immeubles: à partir de 100'000 francs;
-- c patrimoine des immobilisations incorporelles: à partir de 100'000 francs.
-
-#### Art. 60
-
-**Stocks**
-
-<sup>1</sup> Les Directions et la Chancellerie d'Etat dressent l'inventaire des stocks et des travaux en cours.
-
-<sup>2</sup> …
-
-#### Art. 61
-
-**Titres et participations**
-
-<sup>1</sup> L’Administration des finances tient l’inventaire de tous les titres et participations du canton, y compris ceux des financements spéciaux.
-
-#### Art. 62
-
-**Avoirs et engagements conditionnels**
-
-<sup>1</sup> Les Directions et la Chancellerie d'Etat doivent gérer et inventorier les avoirs et les engagements conditionnels du canton.
-
-#### Art. 63
-
-**Instructions**
-
-<sup>1</sup> La Direction des finances peut édicter des instructions complémentaires sur l’inventaire.
-
-### 1.2.8 Protection du patrimoine
-
-#### Art. 64
-
-<sup>1</sup> Les Directions et la Chancellerie d’Etat sont responsables de la protection du patrimoine.
-
-### 1.3 Comptabilité analytique d’exploitation
-
-### 1.3.1 Généralités
-
-#### Art. 65
-
-**Définition**
-
-<sup>1</sup> La comptabilité analytique d’exploitation comprend:
-
-- a le compte de résultats,
-- b le bilan d’exploitation,
-- c le calcul des coûts et des rentrées financières,
-- d le calcul des marges contributives,
-- e le calcul des coûts unitaires,
-- f les comptabilités auxiliaires.
-
-#### Art. 66
-
-**Différences d’incorporation matérielle et provisions**
-
-<sup>1</sup> L’Administration des finances peut ordonner les différences d’incorporation et provisions suivantes ou les autoriser à la demande des unités comptables, en accord avec la Direction compétente ou la Chancellerie d’Etat:
-
-- a différences d’incorporation matérielle ordinaires,
-- b opérations non nécessaires à l’exploitation,
-- c charges et revenus à caractère exceptionnel,
-- d différences d’incorporation matérielle concernant des postes du bilan,
-- e provisions dans le bilan d’exploitation.
-
-### 1.3.2 Compte de résultats
-
-#### Art. 67
-
-**Définition**
-
-<sup>1</sup> Le compte de résultats met périodiquement en parallèle les coûts et les rentrées financières d’une unité comptable.
-
-#### Art. 68
-
-**Coûts**
-
-<sup>1</sup> Les coûts représentent la valeur objective de tous les biens et services consommés ou mis en œuvre pour produire les prestations de l’exploitation.
-
-#### Art. 69
-
-**Rentrées financières**
-
-<sup>1</sup> Les rentrées financières correspondent à la valeur objective de toutes les prestations fournies et facturées dans le cadre de l’activité d’exploitation.
-
-#### Art. 70
-
-**Classification**
-
-<sup>1</sup> Le compte de résultats classe les coûts et les rentrées financières selon leur nature.
-
-#### Art. 71
-
-**Solde**
-
-<sup>1</sup> Le solde du compte de résultats modifie la fortune nette ou le découvert du bilan d’exploitation.
-
-### 1.3.3 Bilan d'exploitation
-
-#### Art. 72
-
-<sup>1</sup> Le bilan d’exploitation comprend l’actif et le passif d’exploitation.
-
-### 1.3.4 Principes d’évaluation dans la comptabilité analytique d’exploitation
-
-#### Art. 73
-
-**Evaluation**
-
-<sup>1</sup> L’actif et le passif sont évalués dans le bilan d’exploitation selon des critères de gestion, en tenant compte des normes reconnues.
-
-<sup>2</sup> Il incombe aux unités comptables de s’assurer que l’évaluation est correcte.
-
-<sup>3</sup> Il est permis de procéder à des réévaluations selon les normes reconnues dans la comptabilité analytique d’exploitation.
-
-<sup>4</sup> L’Administration des finances peut édicter des instructions en matière d’évaluation.
-
-#### Art. 74
-
-**Principes d’évaluation**
-
-<sup>1</sup> Les principes d’évaluation définis dans les dispositions relatives à la comptabilité financière (paragraphe 2.6) s’appliquent aux postes suivants dans la comptabilité analytique d’exploitation:
-
-- a stocks,
-- b biens agricoles et cheptel,
-- c prêts,
-- d immobilisations corporelles,
-- e subventions d’investissement.
-
-#### Art. 75
-
-**Débiteurs**
-
-<sup>1</sup> Les pertes probables sur débiteurs donnent lieu à une réévaluation forfaitaire (ducroire) dont le taux est défini par l’Administration des finances.
-
-#### Art. 76
-
-**Titres et participations**
-
-<sup>1</sup> Les titres et participations sont évalués au maximum au cours ou à la valeur du marché.
-
-#### Art. 77
-
-**Expropriations matérielles**
-
-<sup>1</sup> Les expropriations matérielles sont évaluées au maximum à la valeur d’acquisition ou de fabrication.
-
-#### Art. 78–79
-
-**…**
-
-### 1.3.5 Conciliation des opérations financières
-
-#### Art. 80
-
-<sup>1</sup> La conciliation des opérations financières permet d’établir les écarts d’une part entre le compte de résultats de la comptabilité financière et celui de la comptabilité analytique d'exploitation, et d’autre part entre le bilan et le bilan d'exploitation. Elle est réalisée par les unités comptables.
-
-<sup>2</sup> La conciliation des opérations financières entre le compte de résultats de la comptabilité financière et celui de la comptabilité analytique d'exploitation porte notamment sur les éléments suivants:
-
-- a les charges et les revenus non nécessaires à l’exploitation,
-- b les charges et les revenus exceptionnels,
-- c les différences d’incorporation matérielle ordinaires,
-- d les coûts standard,
-- e les facturations de prestations,
-- f les écarts résultant de la différence de traitement des financements spéciaux,
-- g les charges et les revenus des comptes spéciaux sans la comptabilité analytique d’exploitation,
-- h les éventuelles différences provenant des comptes spéciaux.
-
-<sup>3</sup> La conciliation des opérations financières entre le bilan et le bilan d’exploitation porte notamment sur les éléments suivants:
-
-- a les postes d’actifs et de passifs non nécessaires à l’exploitation,
-- b les différences provenant des provisions,
-- c les différences issues des prestations propres inscrites à l’actif,
-- d les différences d’évaluation entre comptabilité financière et comptabilité analytique d’exploitation,
-- e les différences d’amortissement entre comptabilité financière et comptabilité analytique d’exploitation,
-- f les différences d’amortissement des financements spéciaux,
-- g les postes d’actifs et de passifs des comptes spéciaux sans la comptabilité analytique d’exploitation,
-- h les éventuelles différences provenant des comptes spéciaux.
-
-### 1.3.6 Calcul des coûts et des rentrées financières
-
-#### Art. 81
-
-<sup>1</sup> Le calcul des coûts et des rentrées financières est tenu à titre de calcul en coûts complets incluant les financements spéciaux. Il sert à attribuer objectivement les coûts et les rentrées financières aux unités d’imputation. Les fonds de tiers sont présentés dans la justification statistique du calcul des marges contributives.
-
-<sup>2</sup> Le calcul des coûts et des rentrées financières comprend le calcul des charges par nature, le calcul par centre de coûts et le calcul par unité d’imputation.
-
-### 1.3.6.1 Calcul des charges par nature
-
-#### Art. 82
-
-**Définition**
-
-<sup>1</sup> Le calcul des charges par nature constitue le fondement du calcul des coûts, des prestations et des rentrées financières. Il sert à enregistrer et à structurer tous les coûts et les rentrées financières générés pendant une période de décompte.
-
-#### Art. 83
-
-**Plan comptable général**
-
-<sup>1</sup> L’Administration des finances fixe de manière impérative les coûts et les rentrées financières par nature dans le plan comptable général pour toutes les unités comptables.
-
-#### Art. 84
-
-**Coûts et rentrées financières primaires**
-
-<sup>1</sup> Les coûts et les rentrées financières primaires sont les coûts et les rentrées financières générés par les flux de valeurs de biens et de services extérieurs au champ d’application de la LFP. Ils sont alloués à des centres de coûts ou à des unités d’imputation.
-
-<sup>2</sup> Ils sont repris du compte de résultats dans le calcul des charges par nature, où la nature comptable correspond au compte. Ils font si nécessaire l’objet d’une différence d’incorporation matérielle selon les instructions de l’Administration des finances.
-
-#### Art. 85
-
-**Coûts et rentrées financières secondaires**
-
-<sup>1</sup> Les coûts et les rentrées financières secondaires sont des coûts et des rentrées financières indirects générés par la facturation intra-unité et les répartitions, ainsi que des coûts et des rentrées financières résultant de la facturation interne de prestations entre les unités comptables.
-
-<sup>2</sup> Ils ne sont présentés dans le compte de résultats que si leur origine est extérieure à l’unité comptable concernée.
-
-#### Art. 86
-
-**Charges d’intérêt standard**
-
-<sup>1</sup> Les charges d’intérêt standard sont calculées sur la base de la valeur comptable annuelle moyenne de l’actif immobilisé.
-
-<sup>2</sup> Le service compétent de la Direction des finances fixe chaque année le taux d’intérêt standard dans les instructions relatives au budget.
-
-<sup>3</sup> Pour les immobilisations en cours de construction, les charges d’intérêt standard sont imputées à compter de la date de l’inscription à l’actif.
-
-#### Art. 87
-
-**Amortissements standard**
-
-<sup>1</sup> L’amortissement standard est la dépréciation d’une immobilisation qui résulte de son usure technique ou économique sur une durée d’utilisation prévue ou usuelle.
-
-<sup>2</sup> L’amortissement standard d’une immobilisation est toujours réalisé de manière linéaire, depuis l’activation jusqu’à la fin de la durée d’utilisation prévue. L’Administration des finances fixe la durée d’utilisation pour chaque classe d’immobilisations.
-
-<sup>3</sup> L’amortissement standard des immobilisations en cours de construction ne commence qu’au début de leur utilisation.
-
-<sup>4</sup> En principe, aucun amortissement ne doit excéder la valeur d’acquisition. Exceptionnellement, l’Administration des finances peut accorder l’autorisation de réévaluer l’immobilisation à sa valeur actuelle et de réaliser l’amortissement sur la durée d’utilisation prolongée.
-
-<sup>5</sup> Les bénéfices de réévaluation doivent figurer en tant que rentrées financières ​dans le solde I (budget global) de la structure du calcul des marges contributives.
-
-#### Art. 88
-
-**Amortissements non planifiés dans la comptabilité analytique d’exploitation**
-
-<sup>1</sup> Les amortissements non planifiés dans la comptabilité analytique d’exploitation nécessitent l’autorisation de l’Administration des finances lorsque leur montant excède 100'000 francs.
-
-#### Art. 89
-
-**Coûts directs**
-
-<sup>1</sup> Les coûts directs sont directement affectés aux unités d’imputation qui les génèrent, à moins qu’ils ne doivent être comptabilisés sur un centre de coûts prédéfini pour l’ensemble du canton.
-
-<sup>2</sup> Si l’imputation des coûts aux unités qui les génèrent n’est possible que moyennant des charges disproportionnées, les coûts peuvent être imputés sur un centre de coûts.
-
-#### Art. 90
-
-**Coûts indirects**
-
-<sup>1</sup> Les coûts indirects sont imputés aux centres de coûts qui les génèrent, puis attribués avec les coûts secondaires aux centres de coûts ou aux unités d’imputation bénéficiaires des prestations au moyen d’une facturation ou d’une répartition.
-
-#### Art. 91
-
-**Affectation directe des rentrées financières aux unités d’imputation**
-
-<sup>1</sup> Les rentrées financières sont directement affectées aux unités d’imputation.
-
-<sup>2</sup> Les diminutions de coûts indirects sont allouées aux centres de coûts. Elles sont comptabilisées selon leur montant brut.
-
-### 1.3.6.2 Calcul des coûts par centre de coûts
-
-#### Art. 92
-
-**Définition**
-
-<sup>1</sup> Le calcul des coûts par centre de coûts indique quelle unité administrative a généré quels coûts.
-
-#### Art. 93
-
-**Structure des centres de coûts**
-
-<sup>1</sup> La structure des centres de coûts doit refléter la structure de l’organisation de l’unité comptable.
-
-<sup>2</sup> Les centres de coûts peuvent être fixés de manière impérative par l'Administration des finances au niveau cantonal ou par les Directions, la Chancellerie d'Etat, les autorités judiciaires et le Ministère public dans leur domaine de compétence organisationnel.
-
-#### Art. 94
-
-**Facturation interne et répartition**
-
-<sup>1</sup> Il convient de s’assurer, en opérant des facturations intra-unité et des répartitions, que tous les coûts peuvent être alloués sur les unités d’imputation qui les ont générés.
-
-#### Art. 95
-
-**Facturation intra-unité**
-
-<sup>1</sup> Lors de la facturation intra-unité des prestations, les coûts sont répartis entre les centres de coûts ou entre les centres de coûts et les unités d’imputation d’une unité comptable en fonction des prestations mesurables reçues.
-
-#### Art. 96
-
-**Tarifs de facturation interne pour la facturation intra-unité**
-
-<sup>1</sup> Des tarifs de facturation interne sont établis pour la facturation intra-unité. Ils s’appliquent pendant toute la durée d’un exercice comptable.
-
-<sup>2</sup> Les tarifs de facturation interne sont calculés sur la base des coûts par centre de coûts.
-
-#### Art. 97
-
-**Répartitions**
-
-<sup>1</sup> Si la facturation intra-unité n’est pas possible, les coûts des centres de coûts sont attribués aux centres de coûts et aux unités d’imputation qui les ont générés par le biais de répartitions au sein d’une unité comptable.
-
-<sup>2</sup> Les coûts sont ventilés à l’aide d’une clé de répartition sur les centres de coûts et les unités d’imputation bénéficiaires des prestations.
-
-<sup>3</sup> Les unités comptables vérifient chaque année la clé de répartition et l’ajustent lorsque des raisons matérielles l’exigent.
-
-#### Art. 98
-
-**Mandats activables et mandats non activables (projets)**
-
-<sup>1</sup> Les mandats activables sont décomptés au moment où ils s’achèvent dans le bilan d’exploitation, ainsi que dans le bilan si cela est pertinent pour la comptabilité financière.
-
-<sup>2</sup> Les mandats activables inachevés sont décomptés en fin de période comptable dans le bilan d’exploitation, ainsi que dans le bilan si cela est pertinent pour la comptabilité financière.
-
-<sup>3</sup> Les mandats non activables (projets) doivent être imputés en fin d’exécution ou au plus tard en fin de période comptable aux centres de coûts ou aux unités d’imputation pour lesquels ils ont été exécutés.
-
-#### Art. 99
-
-**Financements spéciaux**
-
-<sup>1</sup> Les financements spéciaux sont tenus en règle générale comme des unités d’imputation. Les unités comptables peuvent, avec l’autorisation de l’Administration des finances, les gérer comme des centres principaux dans des cas motivés.
-
-### 1.3.6.3 Calcul des coûts par unité d’imputation
-
-#### Art. 100
-
-**Définition**
-
-<sup>1</sup> Le calcul des coûts par unité d’imputation affecte aux unités d’imputation les coûts directs et indirects ainsi que les rentrées financières.
-
-#### Art. 101
-
-**Hiérarchie des unités d’imputation**
-
-<sup>1</sup> Les coûts et les rentrées financières entrant dans le calcul des coûts par unité d'imputation sont enregistrés au niveau des mandats, des sous-produits ou des produits.
-
-<sup>2</sup> L’enregistrement intervient au plus bas niveau et n’est pas possible au niveau des groupes de produits.
-
-<sup>3</sup> La structure du calcul des coûts par unité d'imputation comporte au minimum deux niveaux. Elle comprend obligatoirement les niveaux des produits et des groupes de produits, et éventuellement ceux des mandats, des sous-produits et autres niveaux de détail.
-
-<sup>4</sup> Toutes les unités d'imputation doivent être affectées de façon univoque à un groupe de produits ou à une subdivision de celui-ci.
-
-#### Art. 102
-
-**Mandats externes**
-
-<sup>1</sup> Les mandats externes représentent les tâches qui sont confiées à une unité comptable par des tiers extérieurs à l’administration. Ils doivent être affectés de façon univoque à un sous-produit.
-
-### 1.3.7 Calcul des marges contributives
-
-#### Art. 103
-
-**Définition**
-
-<sup>1</sup> Le calcul des marges contributives met périodiquement en parallèle les coûts et les rentrées financières des prestations par échelon.
-
-#### Art. 104
-
-**Structure du calcul des marges contributives**
-
-<sup>1</sup> Le calcul des marges contributives doit être établi selon la structure figurant à l’annexe 2 de la présente ordonnance.
-
-<sup>2</sup> Le solde I (budget global) de la structure du calcul des marges contributives par groupe de produits est pertinent en tant que paramètre de pilotage au sens de l’article 55, alinéa 1, lettre b LFP[^104-1].
-
-<sup>3</sup> L’Administration des finances définit l’affectation des coûts et des rentrées financières par nature aux niveaux de marges contributives.
-
-<sup>4</sup> …
-
-[^104-1]: RSB 620.0
-
-#### Art. 105
-
-**Rentrées fiscales et amendes**
-
-<sup>1</sup> Les rentrées fiscales et les amendes doivent être présentées dans le solde II de la structure du calcul des marges contributives.
-
-<sup>2</sup> Les rentrées fiscales sont
-
-- a les impôts,
-- b les régales,
-- c les taxes de monopole,
-- d les taxes d’exemption,
-- e les parts à des recettes et contributions sans affectation.
-
-#### Art. 106
-
-**Subventions cantonales**
-
-<sup>1</sup> Les subventions cantonales au sens de l’article 3 de la loi du 16 septembre 1992 sur les subventions cantonales (LCSu)[^106-1] et leur remboursement éventuel doivent être présentés dans le solde II de la structure du calcul des marges contributives.
-
-<sup>2</sup> Les valeurs cadres des subventions cantonales au sens de l’article 62, alinéa 4 LFP désignent les coûts et les rentrées financières de toutes les subventions cantonales par groupe de produits. Elles ne comprennent pas les coûts et les rentrées financières afférents à l’exploitation des subventions cantonales.
-
-[^106-1]: RSB 641.1
-
-### 1.4 Comptabilité des immobilisations
-
-#### Art. 107
-
-**Définition**
-
-<sup>1</sup> La comptabilité des immobilisations enregistre les valeurs du patrimoine des immobilisations financières, corporelles et incorporelles conformément à l’article 108.
-
-<sup>2</sup> Elle fournit les données de comptabilisation nécessaires (valeurs du bilan, amortissements, amortissements standard et charges d’intérêt standard) à la comptabilité financière et à la comptabilité analytique d’exploitation ainsi que des valeurs statistiques pour les indications complémentaires des comptes annuels et pour l’inventaire.
-
-<sup>3</sup> …
-
-#### Art. 108
-
-**Activation**
-
-<sup>1</sup> Les immobilisations corporelles et incorporelles sont en principe activées dans la comptabilité financière et dans la comptabilité analytique d’exploitation à partir de 5000 francs pour les biens meubles et à partir de 100'000 francs pour les immeubles et les immobilisations incorporelles.
-
-<sup>2</sup> Les parcelles de terrain, le patrimoine financier et les immobilisations financières sont systématiquement enregistrés et activés.
-
-#### Art. 109
-
-**Classification**
-
-<sup>1</sup> La comptabilité des immobilisations est structurée selon une classification uniforme fixée par l’Administration des finances, qui comprend les catégories d’immobilisations suivantes:
-
-- a patrimoine des immobilisations financières réalisables,
-- b patrimoine des immobilisations financières non réalisables,
-- c subventions d’investissement,
-- d expropriations matérielles,
-- e patrimoine des immobilisations corporelles meubles,
-- f patrimoine des immobilisations corporelles immeubles avec les principaux groupes du patrimoine des immobilisations corporelles réalisables et du patrimoine des immobilisations corporelles non réalisables,
-- g immobilisations incorporelles.
-
-<sup>2</sup> …
-
-<sup>3</sup> La classe d’immobilisations constitue le plus bas niveau de classification. Chaque classe d’immobilisations est affectée à un compte de bilan de la catégorie d'immobilisations correspondante conformément à l’article 18 (annexe 1).
-
-#### Art. 110
-
-**Affectation des immobilisations**
-
-<sup>1</sup> Chaque immobilisation est affectée de manière univoque à une classe d’immobilisations.
-
-<sup>2</sup> …
-
-#### Art. 111
-
-**Instructions**
-
-<sup>1</sup> L’Administration des finances édicte des instructions sur la comptabilité des immobilisations.
-
-### 1.5 Recouvrement, exécution des paiements et gestion du patrimoine
-
-#### Art. 112
-
-**Emoluments et prix**
-
-<sup>1</sup> Les émoluments sont fixés en tenant compte des coûts complets des prestations selon le calcul des coûts par unité d’imputation.
-
-<sup>2</sup> Les coûts complets des prestations selon le calcul des coûts par unité d’imputation sont déterminants pour la fixation des prix.
-
-<sup>3</sup> Les Directions et la Chancellerie d’Etat vérifient périodiquement si les tarifs applicables dans leur domaine de compétence permettent de fixer les émoluments et les prix selon les consignes des alinéas 1 et 2.
-
-#### Art. 113
-
-**Recouvrement**
-
-<sup>1</sup> Les recettes et les rentrées financières revenant au canton doivent être recouvrées en totalité dans les délais requis. La renonciation à une recette est régie par les dispositions de l’article 31 LFP[^113-1] et de la législation spéciale.
-
-<sup>2</sup> L’octroi d’un escompte est autorisé uniquement lorsque les usages commerciaux l’exigent impérativement.
-
-[^113-1]: RSB 620.0
-
-#### Art. 114
-
-**Retard**
-
-<sup>1</sup> Des émoluments allant de 20 à 100 francs sont perçus pour chaque rappel suivant le premier rappel.
-
-<sup>2</sup> Le taux de l'intérêt moratoire correspond au taux en vigueur conformément à l’ordonnance du 18 octobre 2000 sur la perception des redevances et autres créances transmises à l'encaissement, sur les facilités de paiement, sur la remise, sur les éliminations de créances irrécouvrables ainsi que sur les intérêts que portent les créances à recouvrer (ordonnance sur la perception, OPER)[^114-1].
-
-<sup>3</sup> L’article 74 LFP[^114-2] s’applique aux émoluments. Les dispositions complémentaires de la législation spéciale sont réservées.
-
-[^114-1]: RSB 661.733
-[^114-2]: RSB 620.0
-
-#### Art. 115
-
-**Instructions**
-
-<sup>1</sup> La Direction des finances édicte des instructions en matière de recouvrement.
-
-#### Art. 116
-
-**Disponibilités**
-
-<sup>1</sup> Les disponibilités du canton sont conservées et gérées par les services compétents de l’Administration des finances et de l’Intendance des impôts.
-
-<sup>2</sup> L’Administration des finances règle l’ouverture, la tenue et la suppression des caisses ainsi que des comptes postaux et bancaires.
-
-<sup>3</sup> L’exécution des paiements s’effectue dans la mesure du possible sans versement d’espèces.
-
-#### Art. 117
-
-**Monnaies étrangères**
-
-<sup>1</sup> L’Administration des finances peut tenir des comptes en monnaies étrangères ou en autoriser la tenue.
-
-<sup>2</sup> Elle fixe périodiquement les cours des monnaies étrangères pour la comptabilisation.
-
-#### Art. 118
-
-**Formes de paiement**
-
-<sup>1</sup> Les unités comptables peuvent instituer un service de banque en ligne (e-banking).
-
-#### Art. 119
-
-**Cartes de crédit ou de débit**
-
-<sup>1</sup> L'Administration des finances autorise une unité comptable à accepter les paiements par carte de crédit ou de débit, à la demande de celle-ci et avec l'accord de la Direction compétente, de la Chancellerie d'Etat, des autorités judiciaires ou du Ministère public.
-
-<sup>2</sup> Les coûts afférents à l’organisme qui gère les cartes de crédit ou de débit sont supportés par l’unité comptable.
-
-<sup>3</sup> Seule l’Administration des finances est compétente pour conclure des contrats avec des organismes gérant les cartes de crédit ou de débit.
-
-#### Art. 120
-
-**Avoir sur le compte postal ou bancaire**
-
-<sup>1</sup> Seule une double signature permet de disposer de l'avoir sur le compte postal ou bancaire, l'une d'elles au plus pouvant être celle d'une personne ayant également procédé à la vérification de la comptabilisation. Le Contrôle des finances peut autoriser des exceptions dans des cas dûment motivés.
-
-<sup>2</sup> La signature d’un membre du Conseil-exécutif ou celle du chancelier ou de la chancelière suffit à elle seule pour effectuer cette opération.
-
-<sup>3</sup> Les Directions et la Chancellerie d'Etat désignent les personnes habilitées à signer, les annoncent au Contrôle des finances et effectuent les contrôles nécessaires.
-
-#### Art. 121
-
-**Avoirs en liquide**
-
-<sup>1</sup> L’unité comptable désigne pour chaque caisse la personne qui en est responsable et celle qui est chargée d’assurer sa suppléance.
-
-#### Art. 122
-
-**Conservation et sécurité**
-
-<sup>1</sup> L'argent liquide, les titres et les autres objets de valeur sont conservés à l'abri du vol et protégés contre le feu le mieux possible. Les valeurs appartenant à des particuliers ne doivent pas être conservées au même endroit que celles du canton.
-
-#### Art. 123
-
-**Montant des avoirs**
-
-<sup>1</sup> Les avoirs en liquide et sur les comptes postaux ou bancaires doivent être maintenus au plus bas niveau possible. Les fonds qui ne sont pas indispensables sont transférés sans retard à l'Administration des finances.
-
-#### Art. 124
-
-**Gestion des titres**
-
-<sup>1</sup> L'Administration des finances est chargée de la gestion des titres, à l'exception de ceux des legs et des fondations non autonomes.
-
-<sup>2</sup> Les unités comptables compétentes sont tenues de conserver, d'inventorier et de gérer convenablement les titres et objets de valeur qu'elles administrent à titre fiduciaire.
-
-#### Art. 125
-
-**Trésorerie**
-
-<sup>1</sup> L’Administration des finances veille à ce que la capacité de paiement du canton soit constante.
-
-#### Art. 126
-
-**Instructions**
-
-<sup>1</sup> La Direction des finances édicte des instructions sur l’exécution des paiements et sur la gestion du patrimoine après consultation du Contrôle des finances.
-
-#### Art. 127
-
-**Legs et fondations non autonomes**
-
-<sup>1</sup> La prise en charge des legs et fondations non autonomes incombe
-
-- a au Conseil-exécutif ou à la Direction de la magistrature, pour autant que la libéralité soit supérieure à 200'000 francs ou que le canton doive contracter des engagements suite à la prise en charge ou à l'acceptation de telles libéralités,
-- b à la Direction compétente à raison de la matière, à la Chancellerie d'Etat, aux autorités judiciaires ou au Ministère public dans les autres cas.
-
-<sup>2</sup> La Direction compétente à raison de la matière, la Chancellerie d'Etat, les autorités judiciaires ou le Ministère public édictent un règlement pour chaque legs et fondation non autonome.
-
-<sup>3</sup> Tous les coûts occasionnés par la gestion d’un legs ou d’une fondation non autonome sont imputés à celui-ci ou celle-ci.
-
-<sup>4</sup> Les coûts qui ne peuvent pas être imputés avec précision sont acquittés à l’aide de montants forfaitaires qui sont révisés tous les cinq ans par le Conseil-exécutif.
-
-### 1.6 Comptes spéciaux
-
-#### Art. 128
-
-<sup>1</sup> La tenue d’un compte spécial est demandée au Conseil-exécutif, à l’intention du Grand Conseil, par la Chancellerie d’Etat ou la Direction dont dépend l’unité comptable concernée.
-
-<sup>2</sup> La demande au Conseil-exécutif comprend
-
-- a un exposé exhaustif des raisons matérielles motivant la tenue d’un compte spécial,
-- b le concept spécialisé et le concept du système nécessaires pour le compte spécial,
-- c un programme d’exécution permettant une mise en place impeccable,
-- d la présentation des coûts supplémentaires liés à la mise en place et à l’exploitation du compte spécial,
-- e une prise de position du Contrôle des finances et de la Direction des finances,
-- f un projet d’ordonnance conformément à l’article 36, alinéa 2 LFP.
-
-<sup>3</sup> La Direction des finances peut édicter des instructions complémentaires sur la tenue des comptes spéciaux.
-
-### 1.7 Calcul des prestations
-
-#### Art. 129
-
-**Définition**
-
-<sup>1</sup> Le calcul des prestations inclut de manière systématique l’ensemble des prestations fournies par le canton ainsi que leurs caractéristiques qualitatives et quantitatives.
-
-<sup>2</sup> Avec le calcul des coûts et des rentrées financières défini à l’article 81, il forme le calcul des coûts, des prestations et des rentrées financières (CCPR).
-
-#### Art. 130
-
 **Produit**
 
-<sup>1</sup> Un produit correspond à une prestation fournie par le canton à un client externe ou définie comme prestation transversale.
+<sup>1</sup> Un produit est une prestation précise fournie par le canton à une clientèle externe ou définie comme prestation interne au canton.
 
-<sup>2</sup> Un produit est déterminé par les éléments suivants:
+<sup>2</sup> Il est déterminé par les éléments suivants:
 
 - a son nom,
 - b sa description,
-- c ses bases juridiques,
+- c ses bases légales,
 - d les bénéficiaires de la prestation,
 - e des informations sur les prestations,
-- f les coûts, les rentrées financières et le solde,
-- g le volume des prestations (indications sur la quantité, le nombre ou le nombre de pièces d’un produit).
+- f le solde de son compte de résultats.
 
-<sup>3</sup> Les éléments d’un produit ou de son affectation à un groupe de produits qui sont définis lors du processus de planification peuvent être modifiés uniquement lors du processus de planification suivant.
+<sup>3</sup> Les éléments et l'affectation du produit à un groupe tels qu'ils ont été définis lors du processus de planification peuvent être modifiés uniquement lors du processus de planification suivant.
 
-#### Art. 131
+#### Art. 16
 
 **Sous-produit**
 
-<sup>1</sup> Les unités comptables peuvent subdiviser les produits en sous-produits.
+<sup>1</sup> Les unités administratives peuvent subdiviser des produits en sous-produits.
 
-<sup>2</sup> Les sous-produits comprennent uniquement les éléments obligatoires suivants:
+<sup>2</sup> Les sous-produits comprennent les éléments obligatoires suivants:
 
-- a nom,
-- b coûts, rentrées financières et solde.
+- a leur nom,
+- b le solde de leur compte de résultats.
 
-#### Art. 132
-
-**Prestations transversales**
-
-<sup>1</sup> Les prestations transversales au sens de l’article 38, alinéa 1 LFP sont des prestations qu’une unité comptable fournit pour plusieurs Directions.
-
-<sup>2</sup> Sont également considérées comme des prestations transversales les prestations des secrétariats généraux, des offices juridiques et des offices assumant des fonctions transversales qui sont fournies au sein d’une Direction.
-
-#### Art. 133
+#### Art. 17
 
 **Groupe de produits**
 
 <sup>1</sup> Les produits sont réunis en groupes de produits selon les critères suivants:
 
 - a effets similaires,
-- b même unité comptable,
+- b même unité administrative,
 - c adéquation des niveaux technique et politique.
 
 <sup>2</sup> Un groupe de produits est déterminé par les éléments suivants:
 
 - a son nom,
 - b sa description,
-- c ses bases juridiques,
+- c ses bases légales,
 - d les bénéficiaires de la prestation,
 - e des informations sur les prestations,
-- f …
-- g les coûts, les rentrées financières et le solde.
+- f son compte de résultats échelonné.
 
-<sup>3</sup> …
+<sup>3</sup> Les éléments d'un groupe de produits qui sont définis lors du processus de planification peuvent être modifiés uniquement lors du processus de planification suivant.
 
-<sup>4</sup> Les éléments d’un groupe de produits qui sont définis lors du processus de planification peuvent être modifiés uniquement lors du processus de planification suivant.
-
-#### Art. 134
+#### Art. 18
 
 **Contrats de prestations**
 
-<sup>1</sup> Les contrats de prestations au sens de l’article 22 LOCA[^134-1] décrivent les prestations qu’un office ou une unité comptable doit fournir sur mandat de la Direction ou de la Chancellerie d’Etat durant une période déterminée, les moyens disponibles à cet effet et les consignes à respecter.
+<sup>1</sup> Les contrats de prestations au sens de l'article 22 de la loi du 20 juin 1995 sur l'organisation du Conseil-exécutif et de l'administration (loi d'organisation, LOCA)[^18-1] décrivent
+
+- a les prestations qu'un office ou une unité administrative doit fournir sur mandat de sa Direction ou de la Chancellerie d'Etat durant une période déterminée;
+- b les moyens disponibles à cet effet;
+- c les consignes à respecter.
 
 <sup>2</sup> Ils comprennent notamment les éléments suivants:
 
-- a les parties au contrat et l’objet de celui-ci,
+- a les parties au contrat et l'objet de celui-ci,
 - b la durée de validité,
-- c les tâches incombant à l’office ou à l’unité comptable,
+- c les tâches incombant à l'office ou à l'unité administrative,
 - d les objectifs supérieurs et les priorités stratégiques pour la période du contrat,
-- e les produits et groupes de produits au sens des articles 130 et 133,
+- e les produits et groupes de produits,
 - f les consignes particulières,
-- g les procédures de rapport, d’assurance-qualité et d’évaluation.
+- g les procédures de rapport, d'assurance-qualité et d'évaluation.
 
-<sup>3</sup> Les contrats de prestations sont en principe conclus pour une durée d’un an. Ceux qui portent sur plusieurs années sont conclus sous réserve du budget et du plan intégré «mission-financement» et doivent être revus au moins une fois par législature.
+<sup>3</sup> Ces contrats sont en principe conclus pour une durée d'un an. Les contrats de prestations pluriannuels
 
-[^134-1]: RSB 152.01
+- a sont conclus sous réserve du budget et du plan intégré mission-financement;
+- b sont revus au moins une fois par législature.
 
-#### Art. 135
+[^18-1]: RSB [152.02](https://www.belex.sites.be.ch/data/152.02/fr)
 
-**Instructions**
+#### Art. 19
 
-<sup>1</sup> La Direction des finances peut édicter des instructions complémentaires sur le calcul des prestations.
+**Système de contrôle interne (SCI)**
 
-## 2 Dépenses, autorisations de dépenses
+<sup>1</sup> Les Directions, la Chancellerie d'Etat, les autorités et la magistrature ainsi que leurs unités administratives conçoivent, contrôlent et documentent leur système de contrôle interne (SCI) de sorte à
 
-### 2.1 Généralités
+- a prévenir les risques sur lesquels il est possible d'influer;
+- b garantir la régularité des comptes;
+- c assurer le respect des dispositions légales.
 
-### 2.1.1 Principes
+<sup>2</sup> Après consultation des Directions, de la Chancellerie d'Etat et de la magistrature, l'Administration des finances édicte des instructions réglementant le SCI et ses principes, notamment,
 
-#### Art. 136
+- a de transparence des processus,
+- b de séparation des fonctions,
+- c d'information minimale,
+- d de double contrôle.
+
+#### Art. 20
+
+**Principes comptables**
+
+<sup>1</sup> Toutes les opérations financières et tous les faits comptables sont enregistrés et rattachés à la période qu'ils concernent; ils ne sont pas directement décomptés de provisions, de Fonds ou d'autres postes similaires (exhaustivité).
+
+<sup>2</sup> Les écritures comptables reflètent la réalité et sont passées conformément aux instructions (véracité).
+
+<sup>3</sup> La comptabilité est à jour et les mouvements de fonds sont enregistrés au jour le jour; les opérations sont constatées par ordre chronologique (ponctualité).
+
+<sup>4</sup> Les opérations sont enregistrées de manière claire et intelligible; les corrections sont signalées comme telles et chaque écriture est justifiée par une pièce comptable (traçabilité).
+
+## 3 Dépenses et autorisations correspondantes
+
+### 3.1 Principes
+
+#### Art. 21
 
 **Engagements**
 
-<sup>1</sup> Les engagements entraînant des dépenses peuvent être pris seulement si l'organe compétent a délivré une autorisation de dépenses.
+<sup>1</sup> Les engagements entraînant des dépenses peuvent en principe être pris seulement si l'organe compétent a délivré une autorisation de dépenses.
 
-#### Art. 137
+#### Art. 22
 
-**Bases juridiques**
+**Bases légales**
 
-<sup>1</sup> Les Directions et la Chancellerie d’Etat vérifient pour tout engagement ou dépense relevant de leur domaine de compétences l'existence de bases juridiques suffisantes au sens de l'article 44 LFP[^137-1].
+<sup>1</sup> Les dépenses importantes et les dépenses nouvelles périodiques reposent dans tous les cas sur les dispositions d'une loi.
 
-<sup>2</sup> Les dépenses importantes et les dépenses nouvelles périodiques requièrent dans tous les cas une base légale dans une loi.
+#### Art. 23
 
-[^137-1]: RSB 620.0
+**Association de la Direction des finances**
 
-#### Art. 138
+<sup>1</sup> La Direction des finances est associée aux affaires suivantes:
 
-**Accord de la Direction des finances**
-
-<sup>1</sup> L’accord de la Direction des finances est requis dans les cas suivants:
-
-- a propositions au Conseil-exécutif qui concernent les finances du canton,
-- b réponses à des mandats ou motions pouvant entraîner des dépenses,
-- c …
+- a propositions au Conseil-exécutif qui concernent les finances du canton;
+- b réponses à des mandats ou motions pouvant occasionner des coûts.
 
 <sup>2</sup> Si les Directions concernées ou la Chancellerie d'Etat ne parviennent pas à s'entendre avec la Direction des finances, le Conseil-exécutif tranche.
 
-<sup>3</sup> Lors de la préparation de textes législatifs et d'affaires de crédit ayant des conséquences importantes sur les finances, la Direction des finances est consultée avant l'ouverture de la procédure de corapport proprement dite.
+<sup>3</sup> Lors de la préparation d'actes législatifs et d'affaires de crédit ayant des conséquences importantes sur les finances, la Direction des finances est consultée avant la procédure de corapport proprement dite.
 
-#### Art. 138a
+#### Art. 24
 
-**Accord de la Direction des travaux publics et des transports**
+**Association de la Direction des travaux publics et des transports**
 
-<sup>1</sup> L'accord de la Direction des travaux publics et des transports est requis pour toutes les affaires immobilières telles que l'achat, la vente, l'affermage ou la création de droits réels sur des immeubles, ainsi que la conclusion de contrats de bail à ferme ou à loyer.
+<sup>1</sup> La Direction des travaux publics et des transports est impérativement associée à toute affaire immobilière, telle que l'achat, la vente ou l'affermage d'immeubles, la constitution de droits réels sur des immeubles ou la conclusion de baux à ferme ou à loyer.
 
 <sup>2</sup> Si les Directions concernées ou la Chancellerie d'Etat ne parviennent pas à s'entendre avec la Direction des travaux publics et des transports, le Conseil-exécutif tranche.
 
-### 2.1.2 Autorisation de dépenses
+### 3.2 Types de dépenses
 
-#### Art. 139
+#### Art. 25
+
+**Dépenses périodiques**
+
+<sup>1</sup> Les dépenses périodiques sont autorisées pour un ou plusieurs exercices.
+
+#### Art. 26
+
+**Dépenses mixtes**
+
+<sup>1</sup> Si l'autorisation à délivrer porte à la fois sur des dépenses nouvelles et sur des dépenses liées, la part de chaque type de dépenses est précisée.
+
+<sup>2</sup> Le montant des dépenses nouvelles détermine l’organe compétent en matière d’autorisation de dépenses, pour autant que le montant des dépenses liées ne justifie pas la compétence d’un organe supérieur.
+
+<sup>3</sup> Si l'autorisation à délivrer porte à la fois sur des dépenses uniques et sur des dépenses périodiques, le montant des dépenses périodiques détermine l'organe compétent en matière d'autorisation de dépenses, pour autant que le montant des dépenses uniques ne justifie pas la compétence d'un organe supérieur.
+
+#### Art. 27
+
+**Crédit d'objet**
+
+<sup>1</sup> L’approbation d’un crédit d’objet autorise à la fois le projet concerné et le crédit correspondant pour engager des dépenses jusqu’à concurrence du montant demandé.
+
+#### Art. 28
+
+**Crédit-cadre**
+
+<sup>1</sup> Le crédit-cadre est débloqué par des arrêtés d'exécution.
+
+<sup>2</sup> Son déblocage incombe au service mentionné dans l'arrêté octroyant le crédit-cadre correspondant (art. 34, al. 2, lit. a LFin).
+
+<sup>3</sup> Les arrêtés d'exécution font référence au crédit-cadre qu'ils concernent et indiquent le montant du crédit restant.
+
+#### Art. 29
+
+**Coûts additionnels liés au renchérissement**
+
+<sup>1</sup> Pour la période allant du calcul du montant du crédit (niveau des prix de l’autorisation de dépenses) à l'adjudication du marché (conclusion du contrat), le renchérissement est calculé sur la base de l’indice suisse des prix à la consommation et, pour les projets de construction, sur la base de l'indice du coût de la construction.
+
+<sup>2</sup> Pour la période allant de l'adjudication du marché (conclusion du contrat) au décompte, seules sont déterminantes les dépenses additionnelles liées au renchérissement que le canton s’est engagé contractuellement à assumer.
+
+### 3.3 Autorisation de dépenses
+
+#### Art. 30
 
 **Contenu**
 
-<sup>1</sup> Une autorisation de dépenses doit contenir les éléments suivants:
+<sup>1</sup> Une autorisation de dépenses contient les éléments suivants:
 
-- a description précise de l’objet de la dépense,
-- b les bases juridiques,
-- c nature de la dépense (unique ou périodique),
-- d qualification juridique de la dépense (nouvelle ou liée),
+- a la description précise de l'objet de la dépense,
+- b les bases légales,
+- c la nature de la dépense (unique ou périodique),
+- d la qualification juridique de la dépense (nouvelle ou liée),
 - e la nature du crédit,
 - f le montant du crédit,
 - g les comptes à débiter,
 - h les exercices comptables concernés,
-- i une présentation aussi exhaustive que possible des éventuels coûts induits au sens de l’article 145.
+- i une présentation aussi exhaustive que possible des éventuels coûts induits au sens de l'article 35.
 
-<sup>2</sup> Elle doit en outre indiquer si la dépense et ses éventuels coûts induits sont couverts par un crédit budgétaire, un crédit supplémentaire ou un report de crédit, et s’ils sont inscrits dans le plan financier.
+<sup>2</sup> Elle indique en outre si la dépense et ses éventuels coûts induits
 
-<sup>3</sup> Le rapport relatif à une autorisation de dépenses du Grand Conseil obéit aux consignes prescrites à l'article 68 du règlement du 4 juin 2013 sur le Grand Conseil (RGC)[^139-1].
+- a sont couverts par un crédit budgétaire, un crédit supplémentaire ou un report de crédit;
+- b sont inscrits dans le plan financier.
 
-[^139-1]: RSB 151.211
+<sup>3</sup> Le rapport relatif à une autorisation de dépenses du Grand Conseil obéit aux consignes prescrites à l'article 68 du règlement du Grand Conseil du 4 juin 2013 (RGC)[^30-1].
 
-#### Art. 140
+[^30-1]: RSB [151.211](https://www.belex.sites.be.ch/data/151.211/fr)
 
-**Exceptions**
+#### Art. 31
 
-<sup>1</sup> La signature de la pièce comptable par la personne habilitée, au sens de l’article 162, vaut comme autorisation de dépenses dans les cas suivants:
+**Autorisation de dépenses par autorisation de débit**
 
-- a dépenses d’un montant inférieur ou égal à 10'000 francs,
-- b salaires et prestations sociales,
-- c redevances et émoluments prescrits par la législation,
-- d factures de téléphone (excepté les frais d’installations téléphoniques et les paiements d’émoluments) et d’affranchissement,
-- e émoluments et frais d'établissements financiers ainsi que coût du financement,
-- f factures d’eau et d’électricité,
-- g paiements résultant de jugements d’autorités judiciaires indépendantes de l’administration au sens de l’article 97 ConstC[^140-1],
-- h remboursements de capitaux et paiement d’intérêts,
-- i imputations internes et facturation de prestations au sens de l’article 20.
+<sup>1</sup> Dans les cas suivants, la validation financière des pièces comptables par la personne habilitée vaut autorisation de dépenses:
 
-<sup>2</sup> La Direction des finances peut édicter des instructions prévoyant d’autres exceptions.
+- a dépenses d'un montant inférieur ou égal à 30'000 francs,
+- b charges de personnel (groupe de matières 30),
+- c charges financières (groupe de matières 34),
+- d taxes et émoluments prescrits par la loi,
+- e paiements fondés sur le jugement d'une autorité de justice indépendante de l'administration au sens de l'article 97 de la Constitution cantonale (ConstC.)[^31-1],
+- f imputations internes.
 
-[^140-1]: RSB 101.1
+<sup>2</sup> La Direction des finances peut prévoir d'autres exceptions par voie d'instruction.
 
-### 2.1.3 Montant déterminant du crédit
+[^31-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
 
-#### Art. 141
+### 3.4 Montant déterminant du crédit
+
+#### Art. 32
 
 **Calcul du montant du crédit**
 
 <sup>1</sup> L’unité administrative qui dépose la demande de crédit est responsable du calcul précis du montant de celui-ci en fonction du dernier niveau des prix connu.
 
-<sup>2</sup> Une réserve clairement déclarée est incluse dans le calcul des coûts pour parer à tout imprévu.
+<sup>2</sup> En cas d'incertitude, une réserve clairement signalée comme telle est incluse dans le calcul des coûts.
 
-#### Art. 142
+#### Art. 33
 
 **Principe du montant net**
 
-<sup>1</sup> La compétence en matière d’autorisation de dépenses est déterminée d’après les montants nets lorsque des contributions de tiers sont promises de manière contraignante et qu’elles sont économiquement assurées.
-
-<sup>2</sup> Sont réputées promises de manière contraignante les contributions qui peuvent être déterminées de manière suffisante et définitive également en ce qui concerne leur montant, sur la base notamment
+<sup>1</sup> Sont réputées promises de manière contraignante au sens de l'article 26, alinéa 1 LFin les contributions qui peuvent être déterminées de manière suffisante et définitive également en ce qui concerne leur montant, sur la base notamment
 
 - a de dispositions du droit fédéral, cantonal ou communal,
-- b de décisions ou d’autres promesses écrites de la Confédération, de cantons ou de communes,
+- b de décisions ou d'autres promesses écrites de la Confédération, de cantons ou de communes,
 - c de contrats.
 
-<sup>3</sup> Sont réputées économiquement assurées, notamment, les contri-butions qui sont
+<sup>2</sup> Sont réputées économiquement assurées au sens de l'article 26, alinéa 1 LFin, notamment, les contributions qui sont
 
-- a promises par la Confédération, d’autres cantons ou des communes,
-- b mises en dépôt dans une banque,
+- a promises par la Confédération, d'autres cantons ou des communes,
+- b mises en dépôt auprès d'une banque ou
 - c assurées par une garantie bancaire.
 
-#### Art. 143
+#### Art. 34
 
 **Montant du crédit pour les projets de construction**
 
-<sup>1</sup> Pour les projets de construction, il convient de prendre en compte en particulier les dépenses suivantes:
+<sup>1</sup> Pour les projets de construction, il convient de prendre en compte en particulier les charges suivantes:
 
 - a acquisition de terrains,
-- b dépenses de construction,
-- c dépenses engagées pour les mesures provisoires,
+- b charges de construction,
+- c provisions,
 - d contributions des propriétaires fonciers,
-- e dépenses afférentes aux installations nécessaires,
-- f charges directes d’étude de projet selon l’article 45, alinéa 2 LFP[^143-1].
+- e charges afférentes aux équipements nécessaires,
+- f charges d'étude de projet selon l'article 26, alinéa 2 LFin.
 
-<sup>2</sup> Les frais directs d’étude de projet font l’objet d’une autorisation de dépenses distincte. Il faut les ajouter aux coûts d’étude de projet pour déterminer l’organe compétent financièrement pour accorder le crédit de réalisation proprement dit.
+<sup>2</sup> Les coûts de l'étude de projet
 
-<sup>3</sup> Les frais d’études préalables et de mise au concours font également l’objet d’une autorisation de dépenses distincte. Ils ne sont pas pris en compte pour déterminer l’organe compétent financièrement pour accorder le crédit de réalisation proprement dit.
+- a font l'objet d'autorisations de dépenses distinctes;
+- b sont pris en compte pour déterminer l'organe compétent pour accorder le crédit de réalisation proprement dit.
 
-[^143-1]: RSB 620.0
+<sup>3</sup> Les coûts des études préalables
 
-#### Art. 144
+- a comprennent les coûts nécessaires à la définition du projet de construction ou aux études de marché et ceux de la procédure de sélection (choix d'une équipe d'ingénieurs ou concours);
+- b font aussi l'objet d'autorisations de dépenses distinctes;
+- c ne sont pas pris en compte pour déterminer l'organe compétent pour accorder le crédit de réalisation proprement dit.
 
-**Coûts d’étude de projet**
-
-<sup>1</sup> Les charges directes d’étude des projets de construction et des autres projets comprennent en particulier les dépenses engagées pour
-
-- a élaborer le projet,
-- b établir le devis.
-
-#### Art. 145
+#### Art. 35
 
 **Coûts induits**
 
-<sup>1</sup> Les coûts induits sont les frais supplémentaires qui seront occasionnés à l’avenir par la réalisation d’un projet, en particulier les nouveaux frais ou les frais plus élevés de personnel, d'entretien ou de fonctionnement.
+<sup>1</sup> Les coûts induits sont les coûts supplémentaires qui seront occasionnés à l’avenir par la réalisation d’un projet, en particulier les nouveaux coûts ou les coûts plus élevés de personnel, d'entretien ou de fonctionnement.
 
-<sup>2</sup> Pour les projets de rénovation ou d'agrandissement, les coûts induits sont les frais supplémentaires qui résultent de la rénovation ou de l'agrandissement.
+<sup>2</sup> Pour les projets de rénovation ou d'agrandissement, les coûts induits sont les coûts supplémentaires qui résultent de la rénovation ou de l'agrandissement.
 
-<sup>3</sup> Les coûts induits font l’objet d’une autorisation distincte. Ils ne sont pas pris en compte pour déterminer la compétence en matière d’autorisation de dépenses, mais doivent figurer dans l’autorisation de dépenses.
+<sup>3</sup> Les coûts induits
 
-### 2.2 Types de dépenses et d'autorisations de dépenses
+- a peuvent faire l'objet d'une autorisation distincte;
+- b ne sont pas pris en compte pour déterminer la compétence en matière d’autorisation de dépenses;
+- c figurent dans l'autorisation de dépenses.
 
-#### Art. 146
+### 3.5 Compétences en matière d'autorisation de dépenses
 
-**Dépenses périodiques**
+#### Art. 36
 
-<sup>1</sup> Les dépenses servant à l’exécution d’une tâche permanente au sens de l’article 47 LFP[^146-1] ne sont pas clairement délimitées dans le temps. Il s’agit par exemple du financement des frais d’exploitation des unités cantonales ou des contributions régulièrement versées aux institutions subventionnées.
+**Compétences en matière d'autorisation de dépenses**
 
-<sup>2</sup> Elles sont autorisées pour un ou plusieurs exercices comptables.
-
-[^146-1]: RSB 620.0
-
-#### Art. 147
-
-**Différents types de dépenses**
-
-<sup>1</sup> Si un projet comprend à la fois des dépenses nouvelles au sens de l'article 48, alinéa 1 LFP et des dépenses liées au sens de l'article 48, alinéa 2 LFP, il faut en distinguer les montants.
-
-<sup>2</sup> Le montant des dépenses nouvelles détermine l’organe compétent en matière d’autorisation de dépenses, pour autant que le montant des dépenses liées ne justifie pas la compétence d’un organe supérieur.
-
-<sup>3</sup> Si un projet comprend à la fois des dépenses uniques au sens de l'article 46 LFP et des dépenses périodiques au sens de l'article 47 LFP, le montant des dépenses périodiques détermine l'organe compétent en matière d'autorisation de dépenses, pour autant que le montant des dépenses uniques ne justifie pas la compétence d'un organe supérieur.
-
-#### Art. 148
-
-**Crédit d’objet**
-
-<sup>1</sup> L’approbation d’un crédit d’objet autorise à la fois le projet concerné et le crédit correspondant pour engager des dépenses jusqu’à concurrence du montant demandé.
-
-#### Art. 149
-
-**Crédit-cadre**
-
-<sup>1</sup> Le crédit-cadre est libéré avec les arrêtés d’exécution.
-
-<sup>2</sup> La libération incombe au service mentionné dans le crédit-cadre correspondant (art. 53, al. 2, lit. a LFP[^149-1]).
-
-<sup>3</sup> Les arrêtés d’exécution doivent indiquer le montant du crédit restant en renvoyant au crédit-cadre concerné.
-
-[^149-1]: RSB 620.0
-
-#### Art. 150
-
-**Crédit complémentaire**
-
-<sup>1</sup> Le crédit complémentaire au sens de l’article 54 LFP[^150-1] est une autorisation de dépenses accordée pour des dépenses supplémentaires qui n’étaient pas prévisibles au moment de la demande du crédit d’engagement initial.
-
-[^150-1]: RSB 620.0
-
-#### Art. 151
-
-**Dépenses additionnelles liées au renchérissement**
-
-<sup>1</sup> Pour la période allant du calcul du montant du crédit (niveau des prix de l’autorisation de dépenses) à l'adjudication du marché (conclusion du contrat), le renchérissement est calculé sur la base de l’indice suisse des prix à la consommation et, pour les projets de construction, sur la base de l'indice du coût de la construction.
-
-<sup>2</sup> Pour la période allant de l'adjudication du marché (conclusion du contrat) à l'arrêté de compte, seules sont déterminantes les dépenses additionnelles liées au renchérissement que le canton s’est engagé contractuellement à assumer.
-
-<sup>3</sup> Si l'autorisation de dépenses contient une clause d'indexation des prix ou des taux de change, il n'est pas nécessaire d'obtenir un crédit complémentaire pour les dépenses additionnelles liées au renchérissement ou aux fluctuations des taux de change.
-
-### 2.3 Compétences en matière d'autorisation de dépenses
-
-#### Art. 152
-
-**Compétences en matière d’autorisation de dépenses**
-
-<sup>1</sup> Les Directions et la Chancellerie d’Etat autorisent les dépenses suivantes:
+<sup>1</sup> Les Directions et la Chancellerie d'Etat autorisent les dépenses suivantes (cf. annexe 1):
 
 - a dépense nouvelle unique inférieure ou égale à 500'000 francs,
 - b dépense nouvelle périodique inférieure ou égale à 100'000 francs,
-- c dépense liée unique inférieure ou égale à 1 million de francs,
+- c dépense liée unique inférieure ou égale à un million de francs,
 - d dépense liée périodique inférieure ou égale à 200'000 francs.
 
-<sup>2</sup> La Direction de la magistrature, les autorités judiciaires et le Ministère public autorisent les dépenses selon l'article 18 de la loi du 11 juin 2009 sur l'organisation des autorités judiciaires et du Ministère public (LOJM)[^152-1].
+<sup>2</sup> La Direction administrative de la magistrature, les autorités judiciaires et le Ministère public autorisent les dépenses définies à l'article 18 de la loi du 11 juin 2009 sur l'organisation des autorités judiciaires et du Ministère public (LOJM)[^36-1].
 
-<sup>3</sup> Le Contrôle des finances autorise les dépenses selon l'article 8, alinéa 2 de la loi du 1<sup>er</sup> décembre 1999 sur le Contrôle des finances (LCCF)[^152-2].
+<sup>3</sup> Le Contrôle des finances autorise les dépenses conformément à l'article 8, alinéa 2, lettre a de la loi cantonale du 7 mars 2022 sur le Contrôle des finances (LCCF)[^36-2]
 
-<sup>4</sup> L'annexe 3 fournit une vue d'ensemble des compétences en matière d'autorisation de dépenses du Grand Conseil, du Conseil-exécutif, des Directions et de la Chancellerie d'Etat.
+<sup>4</sup> Le Grand Conseil autorise les dépenses définies aux articles 118 ss RGC.
 
-[^152-1]: RSB 161.1
-[^152-2]: RSB 622.1
+[^36-1]: RSB [161.1](https://www.belex.sites.be.ch/data/161.1/fr)
+[^36-2]: RSB [622.1](https://www.belex.sites.be.ch/data/622.1/fr)
 
-#### Art. 153
+#### Art. 37
 
 **Sous-délégation**
 
-<sup>1</sup> Les Directions et la Chancellerie d'Etat peuvent déléguer aux offices, établissements, divisions qui leur sont subordonnés et à d’autres unités administratives prévues dans les ordonnances d’organisation une partie ou l'ensemble des compétences en matière d'autorisation de dépenses qui leur sont déléguées conformément à l'article 152, alinéa 1 ou aux dispositions de la législation spéciale.
+<sup>1</sup> Les Directions et la Chancellerie d'Etat peuvent déléguer aux offices, établissements, divisions et à d’autres unités administratives prévues dans les ordonnances d’organisation une partie ou l’ensemble des compétences en matière d'autorisation de dépenses qui leur sont déléguées conformément à l'article 36, alinéa 1 ou aux dispositions de la législation spéciale.
 
-<sup>2</sup> Le Contrôle des finances doit immédiatement être informé de toute délégation de compétences en matière d'autorisation de dépenses.
+<sup>2</sup> Le Contrôle des finances et l'Administration des finances sont immédiatement informés de toute délégation de compétences en matière d'autorisation de dépenses.
 
 <sup>3</sup> Le Conseil-exécutif, les Directions ou la Chancellerie d'Etat peuvent limiter les compétences en matière d'autorisation de dépenses d'un organe qui leur est subordonné ou les lui retirer.
 
-#### Art. 154
+#### Art. 38
 
-**Autorisations de dépenses au sens de l’article 48, alinéa 3 LFP**
+**Autorisations des dépenses selon l'article 30, alinéa 3 LFin**
 
-<sup>1</sup> La Chancellerie d’Etat transmet pour information à la Commission des finances du Grand Conseil, au Contrôle des finances et à la Direction des finances les autorisations de dépenses du Conseil-exécutif concernant des dépenses liées au sens de l’article 48, alinéa 3 LFP[^154-1].
+<sup>1</sup> La Chancellerie d’Etat porte les autorisations de dépenses liées du Conseil-exécutif au sens de l'article 30, alinéa 3 LFin à la connaissance de la Commission des finances et du Contrôle des finances.
 
-[^154-1]: RSB 620.0
-
-#### Art. 154a
+#### Art. 39
 
 **Durée de validité des autorisations de dépenses**
 
 <sup>1</sup> Les autorisations de dépenses concernant des dépenses périodiques sont accordées pour une durée limitée.
 
-<sup>2</sup> Pour autant que les circonstances du cas particulier n'exigent pas une durée plus longue, les autorisations de dépenses concernant des dépenses périodiques sont en général valables pour une durée de cinq ans, au maximum de dix ans.
+<sup>2</sup> Pour autant que les circonstances du cas particulier n'exigent pas une durée plus longue, les autorisations de dépenses concernant des dépenses périodiques sont en général valables pour une durée de cinq ans, au maximum dix ans.
 
-### 2.4 Contrôle des crédits d'engagement
+### 3.6 Contrôle des crédits d'engagement
 
-#### Art. 155
+#### Art. 40
 
-**Définition**
+**Définition et compétence**
 
 <sup>1</sup> Le contrôle des crédits d'engagement fournit des éclaircissements sur l'état des crédits autorisés, leur répartition prévue par année et leur utilisation par des paiements.
 
-#### Art. 156
+<sup>2</sup> L'établissement du décompte incombe à l'unité administrative qui accomplit le projet.
+
+#### Art. 41
+
+**Décompte**
+
+<sup>1</sup> Le décompte est
+
+- a effectué dès que l’exécution du projet est terminée et que toutes les factures et contributions de tiers ont été reçues;
+- b établi dans le cadre des dépenses autorisées;
+- c approuvé par la Direction compétente, la Chancellerie d'Etat ou l'autorité, par l'unité administrative qui lui est subordonnée en cas de délégation de compétences en matière d'autorisation de dépenses.
+
+<sup>2</sup> Les décomptes des crédits autorisés par le Grand Conseil ou par le peuple figurent dans le rapport de gestion conformément à l'alinéa 1, lettre b.
+
+<sup>3</sup> Les décomptes concernant des constructions subventionnées par le canton sont vérifiés
+
+- a par un organe de l'administration expert en matière de construction avant le paiement final,
+- b par la Direction des travaux publics et des transports si les unités administratives ne disposent pas de leurs propres expertes ou experts.
+
+#### Art. 42
+
+**Comptabilité des stocks**
+
+<sup>1</sup> En lien avec la comptabilité des stocks, le contrôle d'un crédit d'engagement tient compte des dépenses courantes à la date des différents paiements (flux de trésorerie) et non pas à la date de prélèvement sur les stocks.
+
+## 4 Présentation des comptes
+
+### 4.1 Dispositions générales
+
+#### Art. 43
+
+**Dérogations au MCH2**
+
+<sup>1</sup> Les dérogations au modèle comptable harmonisé 2 (MCH2) prévues à l'article 42, alinéa 2 LFin sont
+
+- a la renonciation à la consolidation globale des participations majoritaires et de la Caisse cantonale de chômage ainsi que du service de l'emploi (CCh/ORP; MCH2, recommandation 13);
+- b la comptabilisation influant sur le résultat des attributions et prélèvements concernant les Fonds des capitaux de tiers et du capital propre (MCH2, recommandations 04, 08);
+- c l'autorisation de constater des amortissements supplémentaires uniquement sur les investissements financés par des Fonds ou des préfinancements qui sont directement comptabilisés sur l'immobilisation à titre de charges extraordinaires et qui sont présentés séparément dans l'annexe aux comptes annuels (MCH2, recommandations 04, 12, 17);
+- d la renonciation à publier des indications sur les relations avec des personnes et entités liées (MCH2, recommandation 16);
+- e l'inscription du Fonds de loterie, du Fonds du sport et du Fonds d'encouragement des activités culturelles dans les capitaux de tiers, sachant qu'ils sont gérés séparément conformément à l'article 126, alinéa 1 de la loi fédérale du 29 septembre 2017 sur les jeux d'argent (LJAr)[^43-1] et que l’affectation de leurs fonds n’est pas comptabilisée dans les comptes annuels via les postes du compte de résultats (MCH2, recommandation 08).
+
+[^43-1]: RS [935.51](https://db.clex.ch/link/Bund/935.51/fr)
+
+#### Art. 44
+
+**Annualité**
+
+<sup>1</sup> Le budget et les comptes annuels sont établis pour une année civile.
+
+#### Art. 45
+
+**Principes de présentation des comptes**
+
+<sup>1</sup> Conformément à l'article 41 LFin, les comptes sont présentés selon les principes suivants:
+
+- a produit brut: les charges et les revenus, les actifs et les passifs ainsi que les dépenses et les recettes d’investissement sont présentés séparément les uns des autres, sans être compensés entre eux et à concurrence de leur montant intégral;
+- b comptabilité d'exercice: toutes les charges et tous les revenus sont enregistrés sur la période durant laquelle ils ont pris leur origine. Le bilan est dressé à la date de clôture des comptes;
+- c continuité: les comptes sont présentés dans l'optique de la continuité de l'activité de l'Etat;
+- d importance: toutes les informations nécessaires à une appréciation rapide et complète de l’état du patrimoine, des finances et des revenus sont exposées;
+- e clarté: les informations sont claires et compréhensibles;
+- f fiabilité, définie selon les critères suivants:
+  - 1\. les informations reflètent la réalité et sont dignes de foi (véracité);
+  - 2\. la présentation des comptes reflète l'importance économique (perspective économique);
+  - 3\. les informations sont présentées de manière objective et impartiale (neutralité);
+  - 4\. la présentation obéit au principe de prudence;
+  - 5\. aucune information importante n'est omise (exhaustivité).
+- g comparabilité: les comptes du canton dans son ensemble et de ses unités administratives peuvent être comparés entre eux et au fil du temps.
+
+#### Art. 46
+
+**Compétence technique en matière de finances et de comptabilité**
+
+<sup>1</sup> Les finances et la comptabilité sont placées sous la conduite technique de la Direction des finances, qui est chargée en particulier
+
+- a de l'organisation, de la coordination et du développement de la comptabilité,
+- b de l'agrégation et de la consolidation au niveau cantonal.
+
+<sup>2</sup> Le service compétent de la Direction des finances
+
+- a édicte le Manuel sur la présentation des comptes et les instructions nécessaires, après consultation des Directions, de la Chancellerie d'Etat, des autorités, de la magistrature et du Contrôle des finances, et accorde les autorisations conformément aux dispositions de la présente ordonnance;
+- b dispose d'un droit de contrôle et de coercition en matière d'application du Manuel sur la présentation des comptes.
+
+<sup>3</sup> Si aucun accord n'est trouvé à l'échelon de l'administration, à savoir entre la Direction des finances d'une part et une autre Direction, la Chancellerie d'Etat ou une autorité d'autre part, le Conseil-exécutif tranche.
+
+#### Art. 47
+
+**Comptabilité financière**
+
+<sup>1</sup> La comptabilité financière, qui comprend un grand livre et des livres auxiliaires, documente
+
+- a le compte de résultats et le compte des investissements,
+- b le bilan,
+- c le tableau des flux de trésorerie,
+- d les Fonds,
+- e les livres auxiliaires, comme la comptabilité des immobilisations ainsi que la comptabilité des créanciers et celle des débiteurs.
+
+#### Art. 48
+
+**Plan comptable général**
+
+<sup>1</sup> Le plan comptable général (annexe 2) est structuré conformément au MCH2. L'Administration des finances peut prévoir des dérogations.
+
+### 4.2 Comptes annuels
+
+#### Art. 49
+
+**Structure du compte de résultats**
+
+<sup>1</sup> La structure du compte de résultats échelonné selon l'article 44 LFin (annexe 3) est la même pour les groupes de produits et leurs produits que pour l'ensemble du canton.
+
+#### Art. 50
+
+**Tableau des flux de trésorerie**
+
+<sup>1</sup> Les flux de trésorerie résultant de l'exploitation sont établis en corrigeant le solde du compte de résultats des écritures sans incidence sur les liquidités (méthode indirecte).
+
+<sup>2</sup> Les flux de trésorerie résultant de l'activité d'investissement sont établis en corrigeant le solde du compte des investissements des transactions sans incidence sur les liquidités ainsi que des entrées et sorties de placements dans le patrimoine financier.
+
+### 4.3 Inscription au bilan et évaluation
+
+#### Art. 51
+
+**Patrimoine financier**
+
+<sup>1</sup> Les disponibilités et les placements à court terme forment les ressources disponibles et les avoirs à vue.
+
+<sup>2</sup> Les parcelles de terrain, le patrimoine financier et les immobilisations financières sont systématiquement inscrits à l'actif.
+
+<sup>3</sup> Le patrimoine financier est périodiquement réévalué.
+
+#### Art. 52
+
+**Créances**
+
+<sup>1</sup> En cas de créance douteuse, de risque lié aux opérations de crédit ou de diminution prévisible de revenus (rabais, diminutions de prix, etc.), il faut procéder à une rectification de valeur (ducroire).
+
+#### Art. 53
+
+**Stocks et travaux en cours**
+
+<sup>1</sup> Tous les stocks sont inscrits au bilan
+
+- a à leur coût d'acquisition ou de production,
+- b à leur valeur vénale (valeur nette réalisable en cas de vente) si elle est inférieure à la valeur indiquée à la lettre a.
+
+<sup>2</sup> Les unités administratives compétentes dressent l'inventaire des stocks et des travaux en cours à la date de clôture du bilan.
+
+#### Art. 54
+
+**Régularisations**
+
+<sup>1</sup> Seules les livraisons et prestations réalisées au cours de l’exercice comptable peuvent être débitées ou créditées sur le crédit budgétaire.
+
+<sup>2</sup> Des actifs ou des passifs de régularisation sont constitués uniquement lorsqu'une opération reposant sur les mêmes faits égale ou excède 100'000 francs; ils sont portés à la connaissance de l'Administration des finances avant la clôture des comptes.
+
+<sup>3</sup> Des régularisations d'un montant inférieur à 100'000 francs peuvent être enregistrées dans le respect du principe de la permanence.
+
+<sup>4</sup> Les recettes fiscales sont au minimum régularisées selon les droits constatés.
+
+#### Art. 55
+
+**Titres et participations**
+
+<sup>1</sup> Lors de l'enregistrement, les titres et participations sont évalués à leur valeur d’acquisition.
+
+<sup>2</sup> Les évaluations ultérieures ont lieu selon le modèle du coût d'acquisition dans le patrimoine administratif et à leur valeur vénale dans le patrimoine financier.
+
+<sup>3</sup> Les participations du patrimoine administratif sont inscrites à l'actif lorsqu'elles sont essentiellement destinées à accomplir des tâches publiques; il n'y a pas de limite d’activation.
+
+<sup>4</sup> L'Administration des finances tient l'inventaire de tous les titres et participations du canton, y compris de ceux des Fonds.
+
+#### Art. 56
+
+**Prêts**
+
+<sup>1</sup> Les prêts sont évalués au maximum à leur valeur nominale.
+
+<sup>2</sup> Les prêts assortis d'une obligation de remboursement sous condition sont inscrits à l'actif comme subventions d’investissement lorsqu'ils ne sont pas rémunérés, qu'ils servent à financer des biens d'investissement et que leur remboursement ultérieur est considéré comme peu probable au moment où ils sont octroyés. Dans le cas contraire, ils sont inscrits à la charge du compte de résultats comme subventions d'exploitation.
+
+<sup>3</sup> Il n'y a pas de limite d'activation pour les prêts.
+
+#### Art. 57
+
+**Immobilisations corporelles**
+
+<sup>1</sup> Les immobilisations corporelles sont enregistrées à l'actif à leur valeur d’acquisition ou de production à partir des seuils suivants:
+
+- a 5000 francs pour les biens meubles,
+- b 100'000 francs pour les biens immeubles, les actifs immobilisés et les installations en leasing.
+
+<sup>2</sup> Après son enregistrement, l'immobilisation corporelle est inscrite au bilan comme suit:
+
+- a à son coût d'acquisition ou de production actualisé au patrimoine administratif;
+- b à sa valeur vénale au patrimoine financier.
+
+<sup>3</sup> Les immeubles bâtis sont évalués en séparant terrains et constructions.
+
+<sup>4</sup> Toute immobilisation composée de différentes parties n'ayant pas la même durée d'utilisation est subdivisée selon l'approche par composants.
+
+#### Art. 58
+
+**Amortissements planifiés**
+
+<sup>1</sup> Les immobilisations du patrimoine administratif qui se déprécient sont amorties de manière linéaire sur leur valeur résiduelle à partir du début de leur utilisation.
+
+<sup>2</sup> Les consignes concernant la durée d'utilisation sont fixées pour chaque classe d'immobilisations par l'Administration des finances en vertu de données empiriques en matière de gestion; les recommandations du MCH2 sont aussi prises en compte.
+
+#### Art. 59
+
+**Dépréciations durables (amortissements non planifiés)**
+
+<sup>1</sup> Si une dépréciation durable est à prévoir pour un élément du patrimoine administratif, la valeur au bilan est corrigée.
+
+<sup>2</sup> Les dépréciations supérieures à l'un ou l'autre des montants suivants nécessitent l'autorisation de l'Administration des finances:
+
+- a 100'000 francs,
+- b un million de francs si elles concernent des biens immobiliers.
+
+#### Art. 60
+
+**Subventions d'investissement**
+
+<sup>1</sup> Les subventions d'investissement versées sont inscrites à l'actif et celles qui sont reçues, au passif, sachant qu'elles sont enregistrées respectivement dans les dépenses et dans les recettes du compte des investissements de la période où elles interviennent.
+
+<sup>2</sup> Il n'y a pas de seuil d'inscription à l'actif.
+
+<sup>3</sup> Les contributions à des subventions d'investissement accordées et les prêts sont enregistrés selon la méthode du produit brut; les contributions à des immobilisations corporelles propres sont comptabilisées à leur valeur nette.
+
+#### Art. 61
+
+**Immobilisations incorporelles**
+
+<sup>1</sup> Les immobilisations incorporelles sont inscrites à l'actif à leur coût d'acquisition ou de production.
+
+<sup>2</sup> La limite inférieure d'activation est fixée à 100'000 francs.
+
+<sup>3</sup> Après son enregistrement, l'immobilisation incorporelle est inscrite au bilan de la manière suivante:
+
+- a à son coût d'acquisition actualisé si elle est rattachée au patrimoine administratif;
+- b à sa valeur effective si elle est rattachée au patrimoine financier.
+
+#### Art. 62
+
+**Réévaluations**
+
+<sup>1</sup> Les valeurs patrimoniales rattachées au patrimoine administratif ne peuvent pas être réévaluées au-delà de leur coût d'acquisition ou de production.
+
+#### Art. 63
+
+**Engagements financiers**
+
+<sup>1</sup> Les engagements financiers sont évalués à leur valeur nominale ou à leur valeur actuelle.
+
+#### Art. 64
+
+**Provisions**
+
+<sup>1</sup> Des provisions au sens de l'article 49, alinéa 3 LFin sont constituées lorsque l'occurrence d'un seul événement entraîne, du point de vue global du canton, des charges d'un montant d'au moins 100'000 francs.
+
+<sup>2</sup> Elles sont constituées sur le compte de charges matériellement approprié; lorsqu'elles n'ont plus d'objet, elles sont dissoutes sur le même compte.
+
+<sup>3</sup> La constitution et la dissolution d’une provision nécessitent l’autorisation de l’Administration des finances et, à partir d’un million de francs par événement, l’approbation de la directrice ou du directeur des finances. Il convient dans tous les cas de constituer des provisions pour les charges de personnel. Aucune autorisation n’est nécessaire pour les constituer ou les dissoudre.
+
+<sup>4</sup> L'utilisation d'une provision est également comptabilisée sur le compte de charges matériellement approprié mais au moyen d'une contre-écriture, afin que cela n'ait pas d’impact sur le compte de résultats (principe du produit brut).
+
+#### Art. 65
+
+**Engagements de prévoyance**
+
+<sup>1</sup> Les engagements de prévoyance sont évalués selon la recommandation Swiss GAAP RPC 16 (Swiss Generally Accepted Accounting Principles de la Fondation pour les recommandations relatives à la présentation des comptes)[^65-1].
+
+[^65-1]: [https://fer.ch](https://fer.ch)
+
+#### Art. 66
+
+**Créances et engagements conditionnels**
+
+<sup>1</sup> Les Directions, la Chancellerie d'Etat et les autorités gèrent et inventorient les créances et engagements conditionnels du canton.
+
+### 4.4 Comptabilité des immobilisations
+
+#### Art. 67
+
+**But**
+
+<sup>1</sup> La comptabilité des immobilisations enregistre les valeurs des immobilisations financières, corporelles et incorporelles ainsi que les subventions d'investissement.
+
+<sup>2</sup> Elle constitue un livre auxiliaire qui documente les données de comptabilisation nécessaires à la comptabilité financière ainsi que des valeurs statistiques pour les indications complémentaires des comptes annuels et pour l'inventaire.
+
+#### Art. 68
+
+**Classification**
+
+<sup>1</sup> Conformément aux consignes de l'Administration des finances, la comptabilité des immobilisations est structurée de la manière suivante:
+
+- a immeubles,
+- b forêts,
+- c routes,
+- d aménagements des eaux,
+- e bâtiments,
+- f biens meubles,
+- g installations en construction,
+- h autres immobilisations corporelles,
+- i immobilisations incorporelles,
+- k prêts,
+- l participations et capital social,
+- m subventions d'investissement.
+
+#### Art. 69
+
+**Affectation des immobilisations corporelles**
+
+<sup>1</sup> Chaque immobilisation corporelle est affectée à une classe d'immobilisations.
+
+<sup>2</sup> Les routes et les voies de communication peuvent être enregistrées en tant qu'objets groupés dans la comptabilité des immobilisations pour autant que l'état détaillé par objet puisse être fourni ailleurs.
+
+<sup>3</sup> Toute immobilisation du patrimoine administratif est transférée dans le patrimoine financier avant d'être vendue.
+
+### 4.5 Fonds, legs, fondations non autonomes, comptes spéciaux
+
+#### Art. 70
+
+**Attribution des Fonds**
+
+<sup>1</sup> Les Fonds au sens de l'article 53 LFin
+
+- a font partie intégrante de la comptabilité et des finances cantonales;
+- b sont attribués de manière fixe à une unité administrative, chacun devant être présenté sous un objet propre.
+
+<sup>2</sup> Ils sont attribués aux capitaux de tiers dans les conditions cumulatives suivantes:
+
+- a leur base légale repose sur le droit supérieur;
+- b le droit supérieur ne laisse guère de marge en ce qui concerne la nature et le montant des émoluments ou l'emploi des fonds.
+
+<sup>3</sup> Ils sont attribués au capital propre dans l'une ou l'autre des conditions suivantes:
+
+- a ils reposent sur le droit cantonal;
+- b leur base légale repose sur le droit supérieur, mais laisse au canton une marge de manœuvre importante.
+
+#### Art. 71
+
+**Versements et prélèvements**
+
+<sup>1</sup> Les versements et les prélèvements effectués sur les Fonds sont exclusivement inscrits au compte de résultats.
+
+<sup>2</sup> Les variations de solde des Fonds attribués au capital propre sont comptabilisées avec incidence sur le résultat lors de la clôture annuelle des comptes.
+
+<sup>3</sup> Les variations de solde des Fonds attribués aux capitaux de tiers sont comptabilisées en montants bruts dans le compte de résultats.
+
+#### Art. 72
+
+**Avances**
+
+<sup>1</sup> Les avances octroyées aux Fonds sur le compte de résultats ne sont autorisées que dans l'une ou l'autre des conditions suivantes:
+
+- a les recettes affectées aux buts fixés à ces Fonds ou le solde de ces Fonds ne suffisent pas, momentanément, à couvrir leurs charges;
+- b le Grand Conseil a arrêté des mesures d'assainissement.
+
+<sup>2</sup> Les dispositions contraires de la législation spéciale sont réservées.
+
+#### Art. 73
+
+**Frais de gestion**
+
+<sup>1</sup> La totalité des frais occasionnés par la gestion d'un Fonds est imputée à ce dernier.
+
+<sup>2</sup> Pour les frais qui ne peuvent être imputés avec précision, le Conseil-exécutif peut fixer des montants forfaitaires à revoir régulièrement.
+
+#### Art. 74
 
 **Compétence**
 
-<sup>1</sup> L’établissement de l’arrêté de compte incombe à l’unité comptable qui a accompli le projet.
+<sup>1</sup> Les unités administratives sont responsables de la gestion des Fonds qui leur sont attribués.
 
-#### Art. 157
+#### Art. 75
 
-**Arrêté de compte**
+**Legs et fondations non autonomes**
 
-<sup>1</sup> L’arrêté de compte intervient dès que l’exécution du projet est terminée et que toutes les factures et contributions de tiers ont été reçues.
+<sup>1</sup> La Direction compétente à raison de la matière, la Chancellerie d'Etat, les autorités ou la magistrature édictent un règlement pour chaque legs ou fondation non autonome.
 
-<sup>2</sup> Le compte est arrêté en chiffres nets dans le cadre des dépenses autorisées.
+<sup>2</sup> Tous les coûts occasionnés par la gestion d'un legs ou d'une fondation non autonome sont imputés à celui-ci ou celle-ci.
 
-<sup>3</sup> Les arrêtés de compte concernant des crédits autorisés par le Grand Conseil ou par le peuple sont présentés en chiffres bruts dans le rapport de gestion.
+<sup>3</sup> Les coûts qui ne peuvent pas être imputés avec précision sont acquittés à l'aide de forfaits qui sont révisés tous les cinq ans par le Conseil-exécutif.
 
-<sup>4</sup> L’arrêté de compte est approuvé par la Direction compétente ou la Chancellerie d’Etat, ou par l’unité administrative compétente qui lui est subordonnée en cas de délégation de compétences en matière de dépenses au sens de l’article 153, alinéa 1.
+#### Art. 76
 
-<sup>5</sup> Les arrêtés de compte concernant des constructions subventionnées par le canton doivent être vérifiés par un organe de l’administration expert en matière de construction avant le paiement définitif. Les unités administratives qui ne disposent pas de leurs propres experts confient cette vérification à la Direction des travaux publics et des transports.
+**Comptes spéciaux**
 
-### 2.5 Crédit budgétaire, report de crédit et crédit supplémentaire
+<sup>1</sup> La tenue d'un compte spécial est demandée au Conseil-exécutif, à l'intention du Grand Conseil, par la Chancellerie d'Etat ou la Direction dont dépend l'unité administrative concernée.
 
-#### Art. 158
+<sup>2</sup> La demande au Conseil-exécutif comprend
 
-**Spécialité temporelle**
+- a un exposé exhaustif des raisons matérielles motivant la tenue d’un compte spécial;
+- b le concept spécialisé et le concept du système nécessaires pour le compte spécial;
+- c un programme d’exécution permettant une mise en place sans heurt;
+- d la présentation des coûts supplémentaires liés à la mise en place et à l’exploitation du compte spécial;
+- e une prise de position du Contrôle des finances et de la Direction des finances;
+- f un projet de réglementation conformément à l'article 55, alinéa 2 LFin.
 
-<sup>1</sup> Tout crédit budgétaire qui n'a pas été utilisé pendant l'exercice comptable est périmé à la fin de celui-ci, sauf si le report du crédit a été approuvé conformément à l'article 56 LFP[^158-1].
+<sup>3</sup> La Direction des finances peut édicter des instructions sur la tenue des comptes spéciaux.
 
-[^158-1]: RSB 620.0
+### 4.6 Indicateurs financiers
 
-#### Art. 159
+#### Art. 77
 
-**Report de crédit**
+**Calcul de l'autofinancement**
 
-<sup>1</sup> Les Directions et la Chancellerie d’Etat soumettent chaque année au Conseil-exécutif une demande groupée de reports de crédit au sens de l’article 56 LFP[^159-1]. Les reports de crédits doivent être présentés et motivés pour chaque projet.
+<sup>1</sup> L'autofinancement est obtenu en additionnant le solde du compte de résultats et les amortissements sur le patrimoine administratif.
 
-<sup>2</sup> Le report de crédit est spécifié par unité d’imputation ou par centre de coûts dans la comptabilité analytique d’exploitation, et par compte à six chiffres dans la comptabilité financière.
+#### Art. 78
 
-<sup>3</sup> Sur la base des arrêtés du Conseil-exécutif, l'Administration des finances enregistre les reports de crédit sur l'exercice suivant en augmentant les crédits budgétaires correspondants.
+**Indicateurs financiers**
 
-[^159-1]: RSB 620.0
+<sup>1</sup> La situation financière est exposée en priorité au moyen des indicateurs suivants:
 
-#### Art. 160
+- a taux d'endettement net,
+- b degré d'autofinancement,
+- c part des charges d'intérêts.
 
-**Crédit supplémentaire**
+<sup>2</sup> Les indicateurs financiers secondaires sont les suivants:
 
-<sup>1</sup> Le Conseil-exécutif présente dans la mesure du possible les demandes de crédit supplémentaire au Grand Conseil suffisamment tôt pour que celui-ci puisse les examiner avant la fin de l'exercice. Il peut lui soumettre des demandes groupées.
+- a dette brute par rapport aux revenus,
+- b proportion des investissements,
+- c part du service de la dette,
+- d dette nette par habitantes et habitants en francs,
+- e taux d'autofinancement.
 
-<sup>2</sup> Le crédit supplémentaire et l'autorisation de dépenses relèvent ensemble de la compétence du Grand Conseil. Pour les dépenses liées et les dépenses relevant du domaine de compétence du Conseil-exécutif ou des unités administratives qui lui sont subordonnées, l'autorisation de dépenses est accordée sous réserve de l'approbation du crédit supplémentaire par le Grand Conseil.
+## 5 Comptabilité
 
-<sup>3</sup> Les engagements entraînant le dépassement des crédits budgétaires ne peuvent pas être pris avant que le Grand Conseil ait autorisé le crédit supplémentaire correspondant. Les engagements impossibles à différer au sens de l’article 58 LFP[^160-1] sont réservés. Le rapport concernant le crédit supplémentaire doit indiquer les raisons pour lesquelles l'engagement était impossible à différer.
+### 5.1 Progiciel de gestion intégré (PGI)
 
-<sup>4</sup> Dans la demande de crédit supplémentaire, les indications concernant les compensations (art. 57, al. 4, lit. d LFP) exposent les motifs pour lesquels la compensation est possible et les suites de celle-ci. L'exposé contient en particulier les raisons pour lesquelles des fonds non utilisés dans un groupe de produits sont disponibles ou les prestations supprimées du fait de la compensation.
+#### Art. 79
 
-[^160-1]: RSB 620.0
+<sup>1</sup> L'Administration des finances crée, actualise et coordonne les instruments de travail cantonaux destinés à la comptabilité, en particulier le progiciel de gestion intégré (PGI) en tant que système de pilotage; elle coordonne les systèmes auxiliaires.
 
-### 2.6 Système de contrôle interne pour la vérification, la comptabilisation et le règlement des factures
+<sup>2</sup> Après consultation des Directions, de la Chancellerie d'Etat, des autorités et de la Direction administrative de la magistrature, elle définit l'étendue des prestations que doivent obligatoirement fournir toutes les unités comptables et leurs unités administratives et règle l'assurance-qualité des procédures de production.
 
-#### Art. 161
+<sup>3</sup> L'exportation de données du PGI vers un système d'information de gestion est possible uniquement pour accomplir les tâches prévues par la loi sur les finances et nécessite l'autorisation de l'Administration des finances.
 
-**Procédure**
+### 5.2 Comptabilité analytique d'exploitation
 
-<sup>1</sup> La vérification, la comptabilisation et le règlement des factures comprennent les étapes suivantes:
+#### Art. 80
 
-- a identification et enregistrement des factures,
-- b vérification des prestations,
-- c vérification des factures,
-- d vérification de la comptabilisation,
-- e libération de la proposition de règlement par l’unité comptable,
-- f libération de la proposition de règlement par la Trésorerie,
-- g libération du service de banque en ligne (e-banking) par la Trésorerie.
+**Comptabilité d'exploitation**
 
-#### Art. 162
+<sup>1</sup> La comptabilité d'exploitation consiste à enregistrer toutes les opérations par produit dans l'ordre chronologique et indique comment sont générés les coûts et rentrées financières d'une prestation déterminée.
 
-**Vérification des prestations**
+#### Art. 81
 
-<sup>1</sup> La personne chargée de contrôler l’exactitude matérielle d’une pièce comptable vérifie si la prestation qui y est facturée correspond bien à la prestation commandée et si elle a été exécutée correctement. Pour autant que ces tâches n’aient pas été expressément confiées à d’autres personnes, elle vérifie également l'exactitude des prix facturés et le bien-fondé des suppléments ou rabais éventuels.
+**Intérêts internes**
 
-<sup>2</sup> Pour les paiements ne comportant pas de contre-prestation (p. ex. les subventions), l'examen matériel est effectué à partir des bases légales ou de l'autorisation de dépenses et, le cas échéant, des arrêtés de compte.
+<sup>1</sup> Les intérêts internes sont les intérêts servis dans les relations financières entre divisions administratives; ils sont enregistrés dans la comptabilité financière.
 
-#### Art. 163
+<sup>2</sup> Sous réserve de l’alinéa 3, le taux des intérêts internes correspond à celui qu'accorde la Banque cantonale bernoise sur les comptes courants au 1<sup>er</sup> janvier et au 1<sup>er</sup> juillet de l’année en cours, augmenté d’un quart de pour cent.
 
-**Vérification des factures**
+<sup>3</sup> Le service compétent de la Direction des finances peut convenir de rémunérer des fonds de tiers, des legs et des fondations non autonomes à des taux d'intérêt conformes au marché.
 
-<sup>1</sup> La vérification de factures comprend le contrôle formel et le contrôle numérique.
+### 5.3 Imputations internes
 
-<sup>2</sup> La personne chargée de contrôler l'exactitude formelle vérifie si les pièces justificatives ont été établies conformément aux règles.
+#### Art. 82
 
-<sup>3</sup> La personne chargée de contrôler l'exactitude numérique vérifie les calculs et soustrait les éventuels rabais, escomptes ou autres.
+<sup>1</sup> Des imputations internes sont réalisées dans l'une ou l'autre des conditions suivantes:
 
-#### Art. 164
+- a elles sont prescrites par la législation;
+- b une charge ou un revenu n'est pas d'emblée comptabilisé sur l'unité administrative qui est à l'origine de la prestation fournie;
+- c les prestations sont en totalité ou en partie refacturées à des tiers.
 
-**Vérification de la comptabilisation**
+<sup>2</sup> Une imputation interne est une transaction interne au canton, ne correspondant à aucun encaissement ni décaissement, qui est enregistrée séparément.
 
-<sup>1</sup> La vérification de la comptabilisation porte en principe sur les points suivants:
+<sup>3</sup> Les différentes opérations sont imputées aux comptes matériellement appropriés, facturées et comptabilisées selon la période.
 
-- a respect des directives pour la mise en compte et des règles de comptabilisation,
-- b concordance des montants avec ceux figurant sur l’original de la pièce comptable,
-- c compétence en matière d’autorisation de dépenses,
-- d désignation du créancier avec le nom du destinataire du paiement selon la facture,
-- e exécution et visa des contrôles de l’exactitude matérielle, formelle et numérique.
+<sup>4</sup> L'Administration des finances édicte les instructions techniques de comptabilisation.
 
-<sup>2</sup> Les pièces justificatives qui concernent la personne chargée de les vérifier, telles que les indemnisations de frais, remboursements ou paiements à cette personne, doivent être visées par le supérieur ou la supérieure.
+### 5.4 Emoluments et prix
 
-<sup>3</sup> L’Administration des finances peut autoriser et arrêter pour les différentes vérifications des méthodes de contrôle par sondage, auxquelles chaque unité comptable est libre de recourir. La méthode de contrôle par sondage appliquée doit être précisée lors de la vérification comptable.
+#### Art. 83
 
-<sup>4</sup> L’Administration des finances peut exclure certaines opérations de la vérification de la comptabilisation.
+<sup>1</sup> Les émoluments et les prix sont fixés en tenant compte des coûts des prestations établis selon la méthode de calcul des coûts complets.
 
-#### Art. 165
+<sup>2</sup> Les Directions, la Chancellerie d’Etat et les autorités vérifient périodiquement si les tarifs applicables dans leur domaine de compétence permettent de fixer les émoluments et les prix selon les consignes de l'alinéa 1.
 
-**Libération de la proposition de règlement**
+### 5.5 Recouvrement, exécution des paiements et gestion du patrimoine
 
-<sup>1</sup> Une personne désignée par l’unité comptable effectue un contrôle de plausibilité des postes de la proposition de règlement et libère celle-ci afin que l’Administration des finances puisse l’exécuter.
+#### Art. 84
 
-#### Art. 166
+**Recouvrement**
 
-**Visa**
+<sup>1</sup> Les recettes et les rentrées financières revenant au canton sont recouvrées en totalité dans les délais requis.
 
-<sup>1</sup> La vérification des prestations, des factures et de la comptabilisation ainsi que la libération pour paiement sont confirmées par le visa qu’y apposent les personnes chargées de ces contrôles.
+<sup>2</sup> La renonciation à une recette est régie par l'article 25 LFin.
 
-#### Art. 167
+#### Art. 85
 
-**Compétences**
+**Retard**
 
-<sup>1</sup> Les Directions et la Chancellerie d’Etat désignent les personnes responsables de la vérification des prestations, des factures et de la comptabilisation ainsi que de la libération de la proposition de règlement.
+<sup>1</sup> Des émoluments de 100 francs au plus sont perçus pour chaque sommation consécutive à un rappel de paiement.
 
-<sup>2</sup> La vérification des factures au sens de l’article 163 peut être confiée aux personnes chargées de tenir la comptabilité financière.
+<sup>2</sup> Le taux de l'intérêt moratoire correspond au taux en vigueur conformément à l’ordonnance du 18 octobre 2000 sur la perception des redevances et autres créances transmises à l'encaissement, sur les facilités de paiement, sur la remise, sur les éliminations de créances irrécouvrables ainsi que sur les intérêts que portent les créances à recouvrer (ordonnance sur la perception, OPER)[^85-1].
 
-<sup>3</sup> La personne chargée de vérifier la comptabilisation ne peut pas traiter la pièce comptable aux autres étapes de la procédure prévue à l’article 161.
+<sup>3</sup> L'article 63 LFin s'applique aux émoluments sous réserve des dispositions complémentaires de la législation spéciale.
 
-<sup>4</sup> Après toute modification des coordonnées de règlement d'une pièce comptable validée, le système procède à une nouvelle vérification du SCI.
+[^85-1]: RSB [661.733](https://www.belex.sites.be.ch/data/661.733/fr)
 
-<sup>5</sup> Les Directions et la Chancellerie d’Etat peuvent, d’entente avec le Contrôle des finances, autoriser des exceptions lorsque l’effectif du personnel est insuffisant pour permettre la séparation des étapes de la procédure.
+#### Art. 86
 
-## 3 Instruments de pilotage et pilotage
+**Instructions**
 
-### 3.1 Généralités
+<sup>1</sup> La Direction des finances édicte des instructions en matière de recouvrement.
 
-#### Art. 168
+#### Art. 87
 
-<sup>1</sup> Les tâches et les ressources font l’objet d’un pilotage coordonné.
+**Disponibilités**
 
-<sup>2</sup> Les prestations à fournir déterminent les moyens financiers qui sont mis en œuvre.
+<sup>1</sup> Les disponibilités du canton sont gérées par l’Administration des finances.
 
-<sup>3</sup> Si les moyens sont insuffisants, il convient d’ajuster les prestations prévues dans les produits et les groupes de produits.
+<sup>2</sup> L'Administration des finances règle l'ouverture, la tenue et la suppression des caisses ainsi que des comptes postaux ou bancaires.
 
-### 3.2 Processus de planification (budget, plan intégré «mission-financement»)
+<sup>3</sup> L'exécution des paiements s'effectue autant que possible sans versement d'espèces.
 
-#### Art. 169
+#### Art. 88
 
-**Direction des procédures**
+**Monnaies étrangères**
 
-<sup>1</sup> La Direction des finances dirige les procédures d'élaboration du budget, du plan intégré «mission-financement» et du rapport de gestion.
+<sup>1</sup> L'Administration des finances fixe périodiquement les cours des monnaies étrangères pour la comptabilisation.
 
-<sup>2</sup> Elle édicte les instructions correspondantes et vérifie que les résultats sont conformes aux consignes.
+#### Art. 89
 
-#### Art. 170
+**Cartes de crédit ou de débit**
 
-**Préparation du processus de planification**
+<sup>1</sup> L'Administration des finances autorise une autorité administrative à accepter les paiements par carte de crédit ou de débit, à la demande de celle-ci et avec l'accord de la Direction compétente, de la Chancellerie d'Etat, des autorités ou de la magistrature.
 
-<sup>1</sup> Avant le début du processus de planification, la Direction des finances examine les consignes du Grand Conseil, dresse une analyse de la situation économique et financière et présente au Conseil-exécutif une proposition concernant les consignes d’élaboration du budget et du plan intégré «mission-financement».
+<sup>2</sup> L'unité administrative supporte les coûts facturés par l’organisme gérant les cartes de crédit ou de débit; les commissions de mouvement ne sont pas refacturées à la clientèle.
 
-#### Art. 171
+<sup>3</sup> Seule l'Administration des finances est compétente pour conclure des contrats avec des organismes gérant les cartes de crédit ou de débit.
 
-**Elaboration du budget et du plan intégré «mission-financement»**
+#### Art. 90
 
-<sup>1</sup> Les Directions et la Chancellerie d’Etat vérifient les prestations définies dans les produits et les groupes de produits et en déduisent le personnel et les investissements nécessaires.
+**Avoirs sur un compte postal ou bancaire**
 
-<sup>2</sup> Elles élaborent le budget et le plan intégré «mission-financement» conformément aux consignes du Conseil-exécutif.
+<sup>1</sup> Seule une double signature permet de disposer de l'avoir sur un compte postal ou bancaire, l'une d'elles au plus pouvant être celle d'une personne ayant également procédé à la vérification de la comptabilisation.
 
-<sup>3</sup> La Direction des finances contrôle la plausibilité des résultats de la planification des Directions, de la Chancellerie d'Etat, des autorités judiciaires et du Ministère public, vérifie que les consignes sont respectées et soumet au Conseil-exécutif une proposition pour corriger les écarts constatés, accompagnée des prises de position précédemment recueillies auprès des Directions, de la Chancellerie d'Etat, des autorités judiciaires et du Ministère public.
+<sup>2</sup> La signature d’un membre du Conseil-exécutif ou celle du chancelier ou de la chancelière suffit à elle seule pour effectuer cette opération.
 
-#### Art. 172
+<sup>3</sup> Les Directions, la Chancellerie d'Etat, les autorités et la magistrature désignent les personnes habilitées à signer et effectuent les contrôles nécessaires.
 
-**Structure du budget et du plan intégré «mission-financement»**
+#### Art. 91
 
-<sup>1</sup> Le budget et le plan intégré «mission-financement» comportent les subdivisions principales suivantes:
+**Avoirs en liquide**
 
-- a rapport du Conseil-exécutif,
-- b résultat de la procédure de planification et rapport sur les différents domaines.
+<sup>1</sup> L’unité administrative désigne pour chaque caisse la personne qui en est responsable et celle qui est chargée d'assurer sa suppléance.
 
-<sup>2</sup> Les autres subdivisions sont arrêtées par la Direction des finances.
+#### Art. 92
 
-#### Art. 173
+**Conservation et sécurité**
 
-**Commentaires dans le budget, le plan intégré «mission-financement» et le rapport de gestion**
+<sup>1</sup> L'argent liquide, les titres et les autres objets de valeur sont conservés à l'abri du vol et du feu.
 
-<sup>1</sup> Il convient de justifier et de commenter les modifications relatives à la définition des prestations et les écarts concernant les valeurs de référence pertinentes pour les arrêtés au sens de l’article 62, alinéa 4 LFP[^173-1] par rapport aux chiffres de l’exercice précédent et aux consignes.
+#### Art. 93
 
-<sup>2</sup> Il convient en outre de commenter les évolutions générales aux niveaux du canton ainsi que des Directions, de la Chancellerie d'Etat, des autorités judiciaires et du Ministère public, selon la structure prévue à l'article 172.
+**Montant des avoirs**
 
-<sup>3</sup> La Direction des finances détermine les valeurs à commenter et édicte les instructions nécessaires.
+<sup>1</sup> Les avoirs en liquide et sur les comptes postaux ou bancaires sont maintenus au plus bas niveau possible, les fonds qui ne sont pas indispensables étant transférés sans retard à l'Administration des finances.
 
-<sup>4</sup> Les Directions, la Chancellerie d'Etat, les autorités judiciaires et le Ministère public sont compétents pour les commentaires concernant leur domaine. Les commentaires relatifs aux domaines supérieurs incombent à la Direction des finances.
+#### Art. 94
 
-[^173-1]: RSB 620.0
+**Gestion des titres**
 
-#### Art. 174
+<sup>1</sup> L'Administration des finances est chargée de la gestion des titres, à l'exception de ceux des legs et des fondations non autonomes.
 
-**Adoption du budget et du plan intégré «mission-financement»**
+<sup>2</sup> Les unités administratives compétentes sont tenues de conserver, d'inventorier et de gérer convenablement les titres et objets de valeur qui leur sont confiés à titre fiduciaire.
 
-<sup>1</sup> Le Conseil-exécutif adopte le budget et le plan intégré «mission-financement» de façon à ce que la commission consultative et le Grand Conseil reçoivent respectivement les documents deux mois et demi et un mois au plus tard avant le début de la session.
+#### Art. 95
 
-### 3.3
+**Trésorerie**
 
-#### Art. 175–177
+<sup>1</sup> L’Administration des finances veille à ce que le canton ait toujours suffisamment de disponibilités.
 
-**…**
+#### Art. 96
 
-### 3.4 Processus de clôture (rapport de gestion)
+**Instructions**
 
-#### Art. 178
+<sup>1</sup> La Direction des finances édicte des instructions réglementant l'exécution des paiements et la gestion du patrimoine.
 
-**Préparation du processus de clôture**
+## 6 Traitement des données
 
-<sup>1</sup> Le Conseil-exécutif charge les Directions, la Chancellerie d'Etat, les autorités judiciaires et le Ministère public d'élaborer les parties du rapport de gestion relevant de leur domaine de compétence. Il définit en outre les informations que doivent fournir des institutions qui sont présentées dans le rapport de gestion mais qui ne font pas partie de l'administration cantonale.
+#### Art. 97
 
-#### Art. 179
+**Gouvernance des données maîtres (MDG)**
 
-**Elaboration du rapport de gestion**
+<sup>1</sup> Le système de gouvernance des données maîtres (Master Data Governance, MDG) est un fichier de données de référence qui est intégré au PGI.
 
-<sup>1</sup> Les Directions, la Chancellerie d'Etat, les autorités judiciaires et le Ministère public arrêtent les comptes annuels pour leur domaine d'activité et élaborent le rapport de gestion.
+<sup>2</sup> Les autorités et l'administration cantonales indiquées à l'article 2, alinéa 1 LFin utilisent ce fichier dans le cadre de l'accomplissement des tâches que leur confèrent la LFin et la présente ordonnance.
 
-<sup>2</sup> Elles attestent de l’exhaustivité des données de clôture.
+<sup>3</sup> Tous les membres du personnel cantonal qui accomplissent des tâches relevant du champ d'application de la LFin ont accès aux données dont ils ont besoin pour exécuter ces tâches.
 
-<sup>3</sup> La Direction des finances se charge de l’agrégation des comptes annuels et de la préparation des parties supérieures du rapport de gestion.
+<sup>4</sup> L'Administration des finances
 
-#### Art. 180
+- a exploite le MDG;
+- b répond de la sécurité de l'information et de la protection des données du MDG;
+- c édicte les instructions techniques nécessaires.
 
-**Structure du rapport de gestion**
+#### Art. 98
 
-<sup>1</sup> Les données financières sont présentées dans le rapport de gestion selon la même structure que dans le budget et le plan intégré «mission-financement» (art. 172).
+**Traitement et communication de données**
 
-<sup>2</sup> …
+<sup>1</sup> A condition que cela soit nécessaire à l'accomplissement des tâches prévues par la LFin et par la présente ordonnance, les données du MDG ci-dessous peuvent être traitées et communiquées:
 
-<sup>3</sup> Le rapport de gestion contient en outre une annexe aux comptes annuels.
+- a numéros d'identification: numéro des partenaires commerciaux, numéro AVS, numéro d'identification des entreprises, numéro GCP,
+- b partenaire commercial de type personne physique: prénom, nom et langue de correspondance du partenaire commercial (personne),
+- c partenaire commercial de type organisation: noms 1 et 2, langue, branche et libellé de l'organisation,
+- d adresses: type d'adresse, nom du contact postal, localité, subdivision de localité, numéro postal d'acheminement de la localité, case postale, numéro postal d'acheminement de la case postale, case postale sans numéro, rue, numéro de rue, code de pays,
+- e données de contact: adresse de messagerie, premier numéro de téléphone (indicatif et ligne), premier numéro de télécopie (indicatif et ligne),
+- f informations bancaires: IBAN, date de début de validité ou d'expiration, nom auquel est ouvert le compte si différent.
 
-#### Art. 181
+<sup>2</sup> Le délai de conservation des données du MDG est de dix ans.
 
-**Approbation du rapport de gestion**
+## 7 Compétences
 
-<sup>1</sup> Le rapport de gestion est en règle générale soumis à l'approbation du Grand Conseil lors de la session de juin de l'année suivante. Il peut exceptionnellement l'être lors de la session de septembre de l'année suivante, avec l'accord de la Commission des finances.
+#### Art. 99
 
-### 3.5 Controlling du Conseil-exécutif
+**Autres compétences de la Direction des finances**
 
-#### Art. 182
+<sup>1</sup> La Direction des finances est chargée
 
-**Principe**
+- a d'organiser les processus de planification et d'élaboration des comptes rendus;
+- b d'établir la structure du plan intégré mission-financement, y compris du budget;
+- c d'organiser le processus de clôture des comptes;
+- d d'établir la structure du rapport de gestion;
+- e de prescrire et d'autoriser les livres auxiliaires;
+- f d'autoriser des unités comptables.
 
-<sup>1</sup> Le controlling du Conseil-exécutif comprend les processus cantonaux de planification et de clôture des comptes.
+<sup>2</sup> Elle édicte des lignes directrices pour
 
-#### Art. 183
+- a l'établissement de l'inventaire,
+- b la comptabilité des immobilisations,
+- c la comptabilité des coûts et des prestations.
 
-**Mesures de pilotage**
+#### Art. 100
 
-<sup>1</sup> Le Conseil-exécutif arrête les mesures de pilotage des prestations et des moyens disponibles qui sont nécessaires.
+**Autres compétences des Directions, de la Chancellerie d'Etat et de la Direction de la magistrature**
 
-#### Art. 184
+<sup>1</sup> Les Directions, la Chancellerie d'Etat et la Direction administrative de la magistrature sont chargées
 
-**Controlling des Directions, de la Chancellerie d’Etat et des offices**
+- a de diriger les unités comptables établissant la comptabilité complète pour leur domaine, comprenant la comptabilité financière et la comptabilité des immobilisations ainsi que la comptabilité des coûts et des prestations qui s'y rapporte;
+- b de définir les unités administratives après consultation de l'Administration des finances;
+- c de veiller à la protection du patrimoine.
 
-<sup>1</sup> Les Directions, la Chancellerie d’Etat, les offices et les unités comptables ont l’obligation d’harmoniser leur controlling avec celui du Conseil-exécutif.
+#### Art. 101
 
-### 3.6 Antenne
+**Autres compétences de l'Administration des finances**
 
-#### Art. 185–186
+<sup>1</sup> L'Administration des finances est chargée
 
-**…**
+- a de l'actualisation du Manuel sur la présentation des comptes,
+- b de la comptabilité des immobilisations,
+- c des imputations internes et des répartitions,
+- d du progiciel de gestion intégré (PGI),
+- e de l'organisation fonctionnelle des processus financiers,
+- f de la coordination des systèmes annexes,
+- g de l'autorisation des unités comptables,
+- h de l'organisation du recouvrement, de l'exécution des paiements et de la gestion du patrimoine.
 
-### 3.7 Assurance-qualité
+#### Art. 102
 
-#### Art. 187
+**Autres compétences des unités administratives**
 
-**Contenu de l’assurance-qualité**
+<sup>1</sup> Chaque unité administrative est chargée
 
-<sup>1</sup> L’assurance-qualité au sens de l’article 48a LOCA[^187-1] doit suivre les principes de l’accent mis sur la direction stratégique, sur les prestations, sur les effets ainsi que sur les coûts et les rentrées financières.
+- a de la tenue de la comptabilité financière, de la comptabilité des coûts et des prestations et de la comptabilité des immobilisations ainsi que de l'enregistrement du temps de travail et des prestations,
+- b de la gestion des Fonds, des legs et des fondations non autonomes qui lui sont attribués.
 
-[^187-1]: RSB 152.01
+## 8 Dispositions finales
 
-#### Art. 188
+#### Art. 103
 
-**Cas de certification**
+**Modification d'actes législatifs**
 
-<sup>1</sup> Les cas de certification dûment motivés au sens de l’article 48a LOCA[^188-1] sont en particulier ceux où
+<sup>1</sup> Les actes législatifs suivants sont modifiés:
 
-- a le droit de rang supérieur exige la certification,
-- b la certification est usuelle et répandue dans le domaine ou la branche concernée,
-- c l’administration se trouve en concurrence avec d’autres fournisseurs certifiés.
+- 1\. ordonnance du 18 octobre 1995 sur l'organisation et les tâches de la Direction des finances (ordonnance d'organisation FIN, OO FIN)[^103-1],
+- 2\. ordonnance du 27 novembre 2002 sur l'organisation et les tâches de la Direction de l'instruction publique et de la culture (ordonnance d'organisation INC, OO INC)[^103-2]
+- 3\. ordonnance du 9 septembre 2009 sur l'organisation et le pilotage de l'administration décentralisée de la Direction de l'intérieur et de la justice (OOPAD)[^103-3],
+- 4\. ordonnance du 18 mai 2005 sur le personnel (OPers)[^103-4],
+- 5\. ordonnance du 22 février 1995 fixant les émoluments de l'administration cantonale (ordonnance sur les émoluments; OEmo)[^103-5],
+- 6\. ordonnance du 18 décembre 2002 concernant le système d'information sur les données relatives aux immeubles (ordonnance GRUDIS)[^103-6],
+- 7\. ordonnance 19 septembre 2007 régissant les mesures de pédagogie spécialisée ordinaires et les mesures de soutien relevant de l'offre ordinaire de l'école obligatoire (OMO)[^103-7],
+- 8\. ordonnance du 9 novembre 2005 sur la formation professionnelle, la formation continue et l'orientation professionnelle (OFOP)[^103-8],
+- 9\. ordonnance cantonale du 22 octobre 2014 sur la protection de la population (OCPP)[^103-9],
+- 10\. ordonnance cantonale du 22 avril 2020 sur les mesures visant à promouvoir la sécurité des minorités ayant un besoin de protection particulier (OCSMP)[^103-10],
+- 11\. ordonnance du 24 mars 2004 sur le compte spécial du Conseil-exécutif[^103-11],
+- 12\. ordonnance du 17 novembre 2021 concernant l’accord intercantonal sur les marchés publics (OAIMP)[^103-12],
+- 13\. ordonnance du 5 novembre 2014 sur l’organisation des marchés publics (OOMP)[^103-13],
+- 14\. ordonnance du 29 octobre 2008 sur les routes (OR)[^103-14],
+- 15\. ordonnance du 23 octobre 2013 sur les soins hospitaliers (OSH)[^103-15],
+- 16\. ordonnance cantonale du 29 octobre 1997 sur les forêts (OCFo)[^103-16],
+- 17\. ordonnance cantonale du 2 décembre 2020 sur les jeux d'argent (OCJAr)[^103-17].
 
-<sup>2</sup> Les Directions et la Chancellerie d’Etat tiennent une liste des unités administratives et des processus certifiés.
+[^103-1]: RSB [152.221.171](https://www.belex.sites.be.ch/data/152.221.171/fr)
+[^103-2]: RSB [152.221.181](https://www.belex.sites.be.ch/data/152.221.181/fr)
+[^103-3]: RSB [152.322.1](https://www.belex.sites.be.ch/data/152.322.1/fr)
+[^103-4]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
+[^103-5]: RSB [154.21](https://www.belex.sites.be.ch/data/154.21/fr)
+[^103-6]: RSB [215.321.5](https://www.belex.sites.be.ch/data/215.321.5/fr)
+[^103-7]: RSB [432.271.1](https://www.belex.sites.be.ch/data/432.271.1/fr)
+[^103-8]: RSB [435.111](https://www.belex.sites.be.ch/data/435.111/fr)
+[^103-9]: RSB [521.10](https://www.belex.sites.be.ch/data/521.10/fr)
+[^103-10]: RSB [551.213](https://www.belex.sites.be.ch/data/551.213/fr)
+[^103-11]: RSB [621.11](https://www.belex.sites.be.ch/data/621.11/fr)
+[^103-12]: RSB [731.21](https://www.belex.sites.be.ch/data/731.21/fr)
+[^103-13]: RSB [731.22](https://www.belex.sites.be.ch/data/731.22/fr)
+[^103-14]: RSB [732.111.1](https://www.belex.sites.be.ch/data/732.111.1/fr)
+[^103-15]: RSB [812.112](https://www.belex.sites.be.ch/data/812.112/fr)
+[^103-16]: RSB [921.111](https://www.belex.sites.be.ch/data/921.111/fr)
+[^103-17]: RSB [935.520](https://www.belex.sites.be.ch/data/935.520/fr)
 
-[^188-1]: RSB 152.01
+#### Art. 104
 
-#### Art. 189
+**Abrogation d'un acte législatif**
 
-**Sondages**
+<sup>1</sup> L'ordonnance du 3 décembre 2003 sur le pilotage des finances et des prestations (OFP)[^104-1] est abrogée.
 
-<sup>1</sup> Les sondages auprès de la population sont réalisés seulement si l’on escompte en retirer un bénéfice quant à la qualité ou à la structure des coûts, ou s’il faut recueillir des informations précises sur la réalisation des effets recherchés.
+[^104-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
-#### Art. 190
-
-**Sondages du personnel**
-
-<sup>1</sup> Les sondages d’ordre général sont réalisés auprès du personnel par l’Office du personnel ou, pour ce qui concerne le corps enseignant, par la Direction de l’instruction publique et de la culture.
-
-<sup>2</sup> Dans les différentes unités administratives, les sondages du personnel sont réalisés uniquement pour déterminer des besoins spécifiques concernant l’exploitation.
-
-#### Art. 191
-
-**Anonymat des sondages**
-
-<sup>1</sup> Les sondages sont en principe réalisés de façon anonyme.
-
-<sup>2</sup> Des exceptions au principe de l’anonymat peuvent être autorisées
-
-- a lorsqu’il existe une base légale suffisante pour permettre le traitement des données personnelles concernées et
-- b lorsqu’un sondage anonyme ne fournirait pas systématiquement les résultats souhaités.
-
-## 4 Dispositions transitoires
-
-### 4.1 Suivi des bonus et malus accumulés
-
-#### Art. 192
-
-**Utilisation d'un bonus**
-
-<sup>1</sup> Tout bonus inscrit au bilan au sens de l’article 87, alinéa 1 LFP[^192-1] peut être utilisé uniquement dans le domaine de l’organisation ou des prestations de l’ancienne exploitation-pilote NOG concernée.
-
-<sup>2</sup> Le bonus est utilisé en fonction des besoins d’exploitation.
-
-<sup>3</sup> Sous réserve des utilisations expressément interdites à l’alinéa 4, un bonus peut être utilisé aux fins suivantes:
-
-- a pour compléter le budget de produit,
-- b pour des mesures visant à renforcer l’efficience et l’efficacité de la fourniture des prestations,
-- c pour le développement du personnel, notamment pour la formation et le perfectionnement au sens de l'article 170 de l’ordonnance du 18 mai 2005 sur le personnel,
-- d pour des mesures de formation ou de perfectionnement externe d’agents ou d’agentes publics (art. 172 OPers), dans la mesure où elles servent essentiellement les intérêts de l’exploitation,
-- e pour des mesures de nature à garantir ou à renforcer la qualité,
-- f pour des mesures visant à accroître la satisfaction de la clientèle,
-- g pour l’amélioration collective de la motivation au travail et de la productivité du personnel.
-
-<sup>4</sup> L’utilisation d’un bonus aux fins suivantes est interdite:
-
-- a pour distribuer de l’argent ou des prestations pécuniaires aux agents et agentes cantonaux,
-- b pour augmenter ou étendre les subventions cantonales.
-
-[^192-1]: RSB 620.0
-
-#### Art. 193
-
-**Réduction d’un malus**
-
-<sup>1</sup> S’il existe un malus à la date du bilan au 31 décembre 2004, l’exploitation-pilote NOG concernée établit, en coopération avec le service compétent de la Direction ou de la Chancellerie d’Etat, un programme de réduction progressive visant la compensation du malus d’ici le 31 décembre 2008 au plus tard.
-
-<sup>2</sup> Les différentes tranches de la réduction du malus doivent être inscrites aux budgets des exercices 2006 à 2008.
-
-#### Art. 194
-
-**Compensation du malus**
-
-<sup>1</sup> La compensation du malus peut intervenir exclusivement dans le domaine de l’organisation ou des prestations de l’ancienne exploitation-pilote NOG concernée.
-
-### 4.2 Bilans d'ouverture
-
-#### Art. 195
-
-<sup>1</sup> Les bilans d’ouverture de la comptabilité financière et de la comptabilité analytique d’exploitation doivent être vérifiés par le Contrôle des finances et approuvés par la Direction des finances.
-
-### 4.3 Comptes rendus et évaluation
-
-#### Art. 196
-
-<sup>1</sup> Le rapport annuel prévu à l’article 90, alinéa 1 LFP[^196-1] est présenté dans le rapport de gestion, au chapitre concernant les priorités des Directions et de la Chancellerie d’Etat.
-
-<sup>2</sup> Il porte sur les objectifs concernant l’accent mis sur la direction stratégique, sur les effets, sur les prestations ainsi que sur les coûts et les rentrées financières. En outre, il contient des indications sur
-
-- a les problèmes survenus,
-- b les mesures adoptées,
-- c les coûts directement imputables.
-
-<sup>3</sup> L’évaluation et les comptes rendus au sens de l’article 90, alinéa 2 LFP sont présentés au Grand Conseil sous la forme d’un rapport spécial.
-
-<sup>4</sup> Le Conseil-exécutif forme une organisation de projet chargée d’assurer le suivi et l’évaluation de la mise en place de la réforme de l’administration et de préparer les comptes rendus.
-
-[^196-1]: RSB 620.0
-
-## 5 Dispositions finales
-
-#### Art. 197
-
-**Modification d’actes législatifs**
-
-<sup>1</sup> Les actes législatifs suivants sont modifiés: Ordonnance du 22 février 1995 fixant les émoluments de l’administration cantonale (Ordonnance sur les émoluments, OEmo)[^197-1], Ordonnance du 18 octobre 2000 sur les frais professionnels (OFrP)[^197-2].
-
-[^197-1]: RSB 154.21
-[^197-2]: RSB 661.312.56
-
-#### Art. 198
-
-**Abrogation d’un acte législatif**
-
-<sup>1</sup> L’ordonnance du 24 août 1994 sur les finances (OF) (RSB 621.1) est abrogée.
-
-#### Art. 199
+#### Art. 105
 
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur[^199-1] en même temps que la loi du 26 mars 2002 sur le pilotage des finances et des prestations[^199-2].
+<sup>1</sup> La présente ordonnance entre en vigueur à la même date que la loi du 15 juin 2022 sur les finances (LFin)[^105-1].
 
-[^199-1]: 1.1.2005
-[^199-2]: RSB 620.0
+[^105-1]: 01.01.2023
 
-Berne, le 3 décembre 2003
+Berne, le 16 novembre 2022
 
 Au nom du Conseil-exécutif,
 
-le président: Gasche
+la présidente: Häsler
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-04-33
+22-099
