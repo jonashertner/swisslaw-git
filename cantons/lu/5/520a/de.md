@@ -4,13 +4,13 @@ number: 520a
 title: Zentralschweizer Fachhochschul-Verordnung
 short: ZFHVo
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-19
+version: 2023-01-01
+valid_until: 2026-03-31
+version_adopted: 2022-12-22
 adopted: 2012-12-14
 in_force: 2013-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/520a"
-pdf: "https://srl.lu.ch/api/de/versions/4038/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4061/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4038/pdf_file"
 
 (ZFHVo)
 
-vom 14.12.2012 (Stand 01.01.2021)
+vom 14.12.2012 (Stand 01.01.2023)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -121,6 +121,8 @@ beschliesst:
 **Kompetenzen für den Abschluss von Mietverträgen**
 
 <sup>1</sup> Mietverträge mit einer Mietzinssumme von über 200 000 Franken pro Jahr bedürfen der einstimmigen Genehmigung durch den Konkordatsrat.
+
+<sup>2</sup> Davon ausgenommen sind Mietverträge für Studierendenwohnungen, welche die Fachhochschule ohne Genehmigung durch den Konkordatsrat abschliessen kann.
 
 #### Art. 11
 
