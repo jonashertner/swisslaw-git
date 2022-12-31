@@ -4,11 +4,11 @@ title: Europäisches Übereinkommen vom 26. Mai 2000 über die internationale Be
 short: ADN
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/153"
 language: de
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2000-05-26
 in_force: 2011-03-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2011-153-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2011-153-20230101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Abgeschlossen in Genf am 26. Mai 2000 Von der Bundesversammlung genehmigt am 1. 
 
 In Kraft getreten für die Schweiz am 8. März 2011
 
-(Stand am 1. Januar 2019)
+(Stand am 1. Januar 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 1. Okt. 2010 ([AS 2011 1013](https://fedlex.data.admin.ch/eli/oc/2011/152))
 
@@ -68,7 +68,7 @@ Die beigefügte Verordnung umfasst:
 - c. Allgemeine Übergangsbestimmungen;
 - d. Zusätzliche Übergangsbestimmungen, die auf besonderen Binnenwasserstrassen gelten.
 
-[^2-1]: Der Text dieser Verordnung wird nicht in der AS veröffentlicht. Er wurde zusammen mit seinen Änd. vom Generalsekretär der Vereinten Nationen in Anwendung von Artikel 20 am 2. Okt. 2012 ([AS 2012 7483](https://fedlex.data.admin.ch/eli/oc/2012/897)), am 2. Okt. 2014 ([AS 2014 4709](https://fedlex.data.admin.ch/eli/oc/2014/795)), am 7. Okt. 2016 ([AS 2016 3865](https://fedlex.data.admin.ch/eli/oc/2016/653)) und am 15. Okt. 2018 auf den 1. Jan. 2019 in Kraft gesetzt ([AS 2018 5393](https://fedlex.data.admin.ch/eli/oc/2018/812)). Die Schweiz, Deutschland und die Niederlande haben Abweichungen beschlossen, welche vom 19. Aug. 2016 bis zum 31. Dez. 2019 ([AS 2016 3097](https://fedlex.data.admin.ch/eli/oc/2016/519)) und vom 10. Nov. 2016 bis zum 31. Dez. 2021 ([AS 2016 5303](https://fedlex.data.admin.ch/eli/oc/2016/839)) anwendbar sind. Die Schweiz, Deutschland, Luxemburg und die Niederlande haben Abweichungen beschlossen, welche vom 1. Juni 2017 bis zum 31. Dez. 2018 anwendbar sind ([AS 2017 3537](https://fedlex.data.admin.ch/eli/oc/2017/389)). Der Text dieser Verordnung kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder im Internet unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen vom 26. Mai 2000 über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2019) oder www.ccr-zkr.org &gt; Dokumente &gt; Übereinkommen, Vereinbarungen und Geschäftsordnung &gt; Übereinkommen und Vereinbarungen &gt; Andere die ZKR betreffende Übereinkommen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) [2019] abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern erhältlich.
+[^2-1]: Der Text dieser Verordnung wird nicht in der AS veröffentlicht. Er wurde zusammen mit seinen Änd. vom Generalsekretär der Vereinten Nationen in Anwendung von Artikel 20 am 2. Okt. 2012 ([AS 2012 7483](https://fedlex.data.admin.ch/eli/oc/2012/897)), am 2. Okt. 2014 ([AS 2014 4709](https://fedlex.data.admin.ch/eli/oc/2014/795)), am 7. Okt. 2016 ([AS 2016 3865](https://fedlex.data.admin.ch/eli/oc/2016/653)), am 15. Okt. 2018 ([AS 2018 5393](https://fedlex.data.admin.ch/eli/oc/2018/812)) und am 7. Dez. 2022 auf den 1. Jan. 2023 in Kraft gesetzt ([AS 2024 278](https://fedlex.data.admin.ch/eli/oc/2024/278)). Die Schweiz, Deutschland und die Niederlande haben Abweichungen beschlossen, welche vom 19. Aug. 2016 bis zum 31. Dez. 2019 ([AS 2016 3097](https://fedlex.data.admin.ch/eli/oc/2016/519)) und vom 10. Nov. 2016 bis zum 31. Dez. 2021 ([AS 2016 5303](https://fedlex.data.admin.ch/eli/oc/2016/839)) anwendbar sind. Die Schweiz, Deutschland, Luxemburg und die Niederlande haben Abweichungen beschlossen, welche vom 1. Juni 2017 bis zum 31. Dez. 2018 anwendbar sind ([AS 2017 3537](https://fedlex.data.admin.ch/eli/oc/2017/389)). Der Text dieser Verordnung kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen, gratis eingesehen oder im Internet unter: [www.bav.admin.ch](http://www.bav.admin.ch) &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen vom 26. Mai 2000 über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2023) oder: [www.ccr-zkr.org](http://www.ccr-zkr.org) &gt; Dokumente &gt; Übereinkommen, Vereinbarungen und Geschäftsordnung &gt; Übereinkommen und Vereinbarungen &gt; Andere die ZKR betreffende Übereinkommen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) [2023] abgerufen werden.
 
 #### Art. 3
 
@@ -129,7 +129,7 @@ Die Vertragsparteien behalten das Recht, in folgenden Fällen die internationale
 - a. die Verwendung auf einem Schiff von anderen Werkstoffen, Einrichtungen oder Ausrüstungen oder die Anwendung von bestimmten baulichen Massnahmen oder von bestimmten anderen Anordnungen als denjenigen, die nach der beigefügten Verordnung vorgeschrieben sind;
 - b. ein Schiff mit technischen Neuerungen, die von den Bestimmungen der beigefügten Verordnung abweichen.[^7-1]
 
-[^7-1]: Der Text kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder im Internet unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2015) sowie www.unece.org &gt; Transport &gt; Dangerous Goods &gt; Legal Instruments and Recommendations (in französischer, englischer und russischer Sprache) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern (www.bundespublikationen.admin.ch) erhältlich.
+[^7-1]: Der Text kann beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen gratis eingesehen oder im Internet unter: [www.bav.admin.ch](http://www.bav.admin.ch) &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Internationale Vereinbarungen &gt; Europäisches Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN 2015) sowie: [www.unece.org](http://www.unece.org) &gt; Transport &gt; Dangerous Goods &gt; Legal Instruments and Recommendations (in französischer, englischer und russischer Sprache) abgerufen werden. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern ([www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch)) erhältlich.
 
 #### Art. 8
 
@@ -326,7 +326,7 @@ Der Generalsekretär der Vereinten Nationen ist der Verwahrer dieses Übereinkom
 
 *Zu Urkund dessen* haben die bevollmächtigten Unterzeichneten dieses Übereinkommen unterzeichnet. Geschehen zu Genf, am 26. Mai 2000, in einfacher Ausfertigung in deutscher, englischer, französischer und russischer Sprache für das eigentliche Übereinkommen und in französischer Sprache für die beigefügte Verordnung, wobei alle vier Wortlaute gleichermassen für das eigentliche Übereinkommen massgeblich sind. Der Generalsekretär der Vereinten Nationen wird aufgefordert, eine Übersetzung der beigefügten Verordnung in die englische und russische Sprache zu veranlassen. Der Generalsekretär der Zentralkommission für die Rheinschifffahrt wird aufgefordert, eine Übersetzung der beigefügten Verordnung in die deutsche Sprache zu veranlassen. (Es folgen die Unterschriften)
 
-Geltungsbereich am 12. Juli 2016**[^t-2]**
+Geltungsbereich am 12. Juli 2016[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -348,14 +348,14 @@ Geltungsbereich am 12. Juli 2016**[^t-2]**
 <tr><td>Tschechische Republik</td><td>21. September</td><td>2011</td><td>21. Oktober</td><td>2011</td></tr>
 <tr><td>Ukraine<sup>\*</sup></td><td>28. Januar</td><td>2010 B</td><td>28. Februar</td><td>2010</td></tr>
 <tr><td>Ungarn</td><td>4. Mai</td><td>2004 B</td><td>29. Februar</td><td>2008</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org)/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2011 1015](https://fedlex.data.admin.ch/eli/oc/2011/153), [2014 315](https://fedlex.data.admin.ch/eli/oc/2014/50)und [2016 2775](https://fedlex.data.admin.ch/eli/oc/2016/453). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2011 1015](https://fedlex.data.admin.ch/eli/oc/2011/153); [2014 315](https://fedlex.data.admin.ch/eli/oc/2014/50); [2016 2775](https://fedlex.data.admin.ch/eli/oc/2016/453). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)).
 
 Erklärungen
 
-Schweiz**[^t-3]**
+Schweiz[^t-3]
 
 Art. 14 Abs. 3 Bst. a
 

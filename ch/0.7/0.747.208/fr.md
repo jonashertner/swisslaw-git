@@ -4,11 +4,11 @@ title: Accord européen du 26 mai 2000 relatif au transport international des ma
 short: ADN
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/153"
 language: fr
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2000-05-26
 in_force: 2011-03-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-153-20190101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-153-20230101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument d’adhésion déposé par la Suisse le 8 février 2011
 
 Entré en vigueur pour la Suisse le 8 mars 2011
 
-(Etat le 1<sup>er</sup> janvier 2019)
+(État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 1<sup>er</sup> oct. 2010 ([RO 2011 1013](https://fedlex.data.admin.ch/eli/oc/2011/152))
 
@@ -55,7 +55,7 @@ sont convenues de ce qui suit:
 
 <sup>(2)</sup> Le présent Accord ne s’applique pas au transport de marchandises dangereuses par navires de mer sur les voies de navigation maritime comprises dans les voies de navigation intérieures.
 
-<sup>(3)</sup> Le présent Accord ne s’applique pas au transport de marchandises dangereuses effectué par des bateaux de guerre ou bateaux de guerre auxiliaires ni aux autres bateaux appartenant à un Etat ou exploités par cet Etat tant que celui-ci les utilise exclusivement à des fins gouvernementales et non commerciales. Cependant, chaque Partie doit s’assurer, en prenant des mesures appropriées qui ne compromettent pas les opérations ou la capacité opérationnelle des bateaux de ce type lui appartenant ou exploités par elle, que ceux-ci agissent d’une manière compatible avec le présent Accord, pour autant que cela soit raisonnable dans la pratique.
+<sup>(3)</sup> Le présent Accord ne s’applique pas au transport de marchandises dangereuses effectué par des bateaux de guerre ou bateaux de guerre auxiliaires ni aux autres bateaux appartenant à un État ou exploités par cet État tant que celui-ci les utilise exclusivement à des fins gouvernementales et non commerciales. Cependant, chaque Partie doit s’assurer, en prenant des mesures appropriées qui ne compromettent pas les opérations ou la capacité opérationnelle des bateaux de ce type lui appartenant ou exploités par elle, que ceux-ci agissent d’une manière compatible avec le présent Accord, pour autant que cela soit raisonnable dans la pratique.
 
 #### Art. 2
 
@@ -72,7 +72,7 @@ Le Règlement annexé comprend:
 - c) des dispositions transitoires générales;
 - d) des dispositions transitoires supplémentaires applicables sur des voies de navigation intérieures spécifiques.
 
-[^2-1]: Le texte de ce R n’est pas publié au RO. Il a été modifié par les D du Secrétaire général de l’ONU du 2 oct. 2012 ([RO 2012 7483](https://fedlex.data.admin.ch/eli/oc/2012/897)), du 2 oct. 2014 ([RO 2014 4709](https://fedlex.data.admin.ch/eli/oc/2014/795)), du 7 oct. 2016 ([RO 2016 3865](https://fedlex.data.admin.ch/eli/oc/2016/653)) et du 15 oct. 2018 en application de l’art. 20 de l’ADN, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5393](https://fedlex.data.admin.ch/eli/oc/2018/812)). La Suisse, l’Allemagne et les Pays-Bas sont convenues de dérogations applicables du 19 août 2016 au 31 déc. 2019 ([RO 2016 3097](https://fedlex.data.admin.ch/eli/oc/2016/519)) et du 10 nov. 2016 au 31 déc. 2021 ([RO 2016 5303](https://fedlex.data.admin.ch/eli/oc/2016/839)). La Suisse, l’Allemagne, le Luxembourg et les Pays-Bas sont convenues de dérogations appliquables du 1<sup>er</sup> juin 2017 au 31 déc. 2018 ([RO 2017 3537](https://fedlex.data.admin.ch/eli/oc/2017/389)). Le texte du R peut être consulté gratuitement à l’Office fédéral des transports, Mühlestrasse 6, 3063 Ittigen ou téléchargé sur le site www.oft.admin.ch &gt; Droit &gt; Autres bases légales et prescriptions &gt; Conventions internationales &gt; Navigation &gt; Accord européen du 26 mai 2000 relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN 2019) ou www.ccr-zkr.org &gt; Documents &gt; Conventions, accords et Règlement intérieur &gt; Autres conventions intéressant la CCNR &gt; Accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) [2019]. Des tirés à part peuvent être obtenus auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne.
+[^2-1]: Le texte de ce R n’est pas publié au RO. En application de l’art. 20 de l’ADN, il a été modifié par les D du Secrétaire général de l’ONU du 2 oct. 2012 ([RO 2012 7483](https://fedlex.data.admin.ch/eli/oc/2012/897)), du 2oct. 2014 ([RO 2014 4709](https://fedlex.data.admin.ch/eli/oc/2014/795)), du 7 oct. 2016 ([RO 2016 3865](https://fedlex.data.admin.ch/eli/oc/2016/653)), du 15 oct. 2018 ([RO 2018 5393](https://fedlex.data.admin.ch/eli/oc/2018/812)) et du 7 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2024 278](https://fedlex.data.admin.ch/eli/oc/2024/278)). La Suisse, l’Allemagne et les Pays-Bas sont convenues de dérogations applicables du 19 août 2016 au 31 déc. 2019 ([RO 2016 3097](https://fedlex.data.admin.ch/eli/oc/2016/519)) et du 10 nov. 2016 au 31 déc. 2021 ([RO 2016 5303](https://fedlex.data.admin.ch/eli/oc/2016/839)). La Suisse, l’Allemagne, le Luxembourg et les Pays-Bas sont convenues de dérogations appliquables du 1<sup>er</sup> juin 2017 au 31 déc. 2018 ([RO 2017 3537](https://fedlex.data.admin.ch/eli/oc/2017/389)). Le texte du présent R peut être consulté gratuitement à l’Office fédéral des transports, Mühlestrasse 6, 3063 Ittigen, ou téléchargé sur le site [www.bav.admin.ch](http://www.bav.admin.ch) &gt; Droit &gt; Autres bases légales et prescriptions &gt; Conventions internationales &gt; Accord européen du 26 mai 2000 relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN 2023) ou [www.ccr-zkr.org](http://www.ccr-zkr.org) &gt; Documents &gt; Conventions, accords et Règlement intérieur &gt; Autres conventions intéressant la CCNR &gt; Accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) [2023].
 
 #### Art. 3
 
@@ -82,7 +82,7 @@ Aux fins du présent Accord, on entend:
 
 - a) par *«**bateau»*, un bateau de navigation intérieure ou un navire de mer;
 - b) par *«**marchandises dangereuses»*, les matières et objets dont le Règlement annexé interdit le transport international ou ne l’autorise que sous certaines conditions;
-- c) par *«**transport international de marchandises dangere**u**ses**»,* tout transport de marchandises dangereuses effectué par un bateau sur des voies de navigation intérieures sur le territoire d’au moins deux Parties contractantes;
+- c) par *«**transport international de marchandises dangereuses**»,* tout transport de marchandises dangereuses effectué par un bateau sur des voies de navigation intérieures sur le territoire d’au moins deux Parties contractantes;
 - d) par *«**voies de navigation intérieures»**,* l’ensemble des voies navigables intérieures y compris les voies de navigation maritime sur le territoire d’une Partie contractante qui sont ouvertes à la navigation des bateaux en vertu du droit national;
 - e) par *«voies de navigation maritime»*, les voies de navigation intérieures reliées à la mer, servant essentiellement au trafic des navires de mer et désignées comme telles en vertu du droit national;
 - f) par *«société de classification agréée»,* une société de classification conforme aux critères fixés au Règlement annexé et agréée, conformément audit Règlement annexé, par l’autorité compétente de la Partie contractante où est délivré le certificat d’agrément;
@@ -109,7 +109,7 @@ Le présent Accord ne s’applique pas au transport de marchandises dangereuses 
 
 #### Art. 6
 
-**Droit des Etats**
+**Droit des États**
 
 Chaque Partie contractante conserve le droit de réglementer ou d’interdire l’entrée sur son territoire de marchandises dangereuses pour des raisons autres que la sécurité au cours du transport.
 
@@ -139,7 +139,7 @@ Les Parties contractantes conservent le droit d’autoriser, dans les cas suivan
 
 **Dispositions transitoires**
 
-<sup>(1)</sup> Les certificats d’agrément et autres documents établis en vertu des prescriptions du Règlement pour le transport de matières dangereuses sur le Rhin (ADNR), du Règlement pour le transport de matières dangereuses sur le Danube (ADN-D) ou de règlements nationaux reprenant les prescriptions européennes relatives au transport des marchandises dangereuses par voies de navigation intérieures, telles qu’annexées à la Résolution N<sup>o</sup> 223 du Comité des transports intérieurs de la Commission économique pour l’Europe, ou telles que modifiées, applicables à la date d’application du Règlement annexé prévue au par. 1 de l’art. 11, demeurent valables jusqu’à leur expiration, dans les mêmes conditions, notamment en ce qui concerne leur reconnaissance par d’autres Etats, que celles qui prévalaient jusqu’à cette date d’application. En outre, ces certificats demeureront valables durant une période de un an à partir de la date d’application du Règlement annexé s’ils arrivent à expiration durant cette période. Toutefois, la durée de validité ne pourra en aucun cas dépasser cinq ans au­delà de la date d’application du Règlement annexé.
+<sup>(1)</sup> Les certificats d’agrément et autres documents établis en vertu des prescriptions du Règlement pour le transport de matières dangereuses sur le Rhin (ADNR), du Règlement pour le transport de matières dangereuses sur le Danube (ADN-D) ou de règlements nationaux reprenant les prescriptions européennes relatives au transport des marchandises dangereuses par voies de navigation intérieures, telles qu’annexées à la Résolution N<sup>o</sup> 223 du Comité des transports intérieurs de la Commission économique pour l’Europe, ou telles que modifiées, applicables à la date d’application du Règlement annexé prévue au par. 1 de l’art. 11, demeurent valables jusqu’à leur expiration, dans les mêmes conditions, notamment en ce qui concerne leur reconnaissance par d’autres États, que celles qui prévalaient jusqu’à cette date d’application. En outre, ces certificats demeureront valables durant une période de un an à partir de la date d’application du Règlement annexé s’ils arrivent à expiration durant cette période. Toutefois, la durée de validité ne pourra en aucun cas dépasser cinq ans au­delà de la date d’application du Règlement annexé.
 
 <sup>(2)</sup> Les bateaux qui, à la date d’application du Règlement annexé prévue au par. 1 de l’art. 11, sont agréés pour le transport de marchandises dangereuses sur le territoire d’une Partie contractante et qui satisfont aux prescriptions du Règlement annexé, compte tenu, le cas échéant, de ses dispositions transitoires générales, peuvent obtenir un certificat d’agrément ADN suivant la procédure prévue par le Règlement annexé.
 
@@ -161,7 +161,7 @@ Les transports couverts par le présent Accord restent soumis aux prescriptions 
 
 <sup>(1)</sup>
 
-Les Etats membres de la Commission économique pour l’Europe sur le territoire desquels se trouvent des voies navigables, autres que celles formant un parcours côtier, qui font partie du réseau de voies navigables d’importance internationale tel que défini dans l’Accord européen sur les grandes voies navigables d’importance internationale (AGN)[^10-1] peuvent devenir Parties contractantes au présent Accord:
+Les États membres de la Commission économique pour l’Europe sur le territoire desquels se trouvent des voies navigables, autres que celles formant un parcours côtier, qui font partie du réseau de voies navigables d’importance internationale tel que défini dans l’Accord européen sur les grandes voies navigables d’importance internationale (AGN)[^10-1] peuvent devenir Parties contractantes au présent Accord:
 
 - a) en le signant définitivement;
 - b) en déposant un instrument de ratification, d’acceptation ou d’approbation après l’avoir signé sous réserve de ratification, d’acceptation ou d’approbation;
@@ -177,11 +177,11 @@ Les Etats membres de la Commission économique pour l’Europe sur le territoire
 
 **Entrée en vigueur**
 
-<sup>(1)</sup> Le présent Accord entrera en vigueur un mois après la date à laquelle le nombre des Etats mentionnés au par. 1 de l’art. 10 qui l’auront signé définitivement ou auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion aura été porté à sept.
+<sup>(1)</sup> Le présent Accord entrera en vigueur un mois après la date à laquelle le nombre des États mentionnés au par. 1 de l’art. 10 qui l’auront signé définitivement ou auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion aura été porté à sept.
 
 Toutefois, le Règlement annexé, sauf les dispositions relatives à l’agrément des sociétés de classification, ne s’appliquera que douze mois après l’entrée en vigueur de l’Accord.
 
-<sup>(2)</sup> Pour chaque Etat qui signera définitivement le présent Accord ou le ratifiera, l’acceptera, l’approuvera ou y adhérera après que sept des Etats mentionnés au par. 1 de l’art. 10 l’auront signé définitivement ou auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, le présent Accord entrera en vigueur un mois après la signature définitive par ledit Etat ou le dépôt de l’instrument de ratification, d’acceptation, d’approbation ou d’adhésion dudit Etat.
+<sup>(2)</sup> Pour chaque État qui signera définitivement le présent Accord ou le ratifiera, l’acceptera, l’approuvera ou y adhérera après que sept des États mentionnés au par. 1 de l’art. 10 l’auront signé définitivement ou auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, le présent Accord entrera en vigueur un mois après la signature définitive par ledit État ou le dépôt de l’instrument de ratification, d’acceptation, d’approbation ou d’adhésion dudit État.
 
 Le Règlement annexé sera applicable à cette même date. Dans le cas où le délai prévu au par. 1 pour l’application du Règlement annexé n’est pas encore écoulé, la date de son application sera celle qui est fixée au par. 1.
 
@@ -205,14 +205,14 @@ Le Règlement annexé sera applicable à cette même date. Dans le cas où le d�
 
 **Déclarations**
 
-<sup>(1)</sup> Tout Etat pourra, lorsqu’il signera définitivement le présent Accord ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion ou à tout moment ultérieur, déclarer, par une notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies, que le présent Accord sera applicable à tout ou partie des territoires qu’il représente sur le plan international. L’Accord sera applicable au territoire ou aux territoires mentionnés dans la notification un mois après la réception de cette notification par le Secrétaire général.
+<sup>(1)</sup> Tout État pourra, lorsqu’il signera définitivement le présent Accord ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion ou à tout moment ultérieur, déclarer, par une notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies, que le présent Accord sera applicable à tout ou partie des territoires qu’il représente sur le plan international. L’Accord sera applicable au territoire ou aux territoires mentionnés dans la notification un mois après la réception de cette notification par le Secrétaire général.
 
-<sup>(2)</sup> Tout Etat qui aura fait, conformément au par. 1 du présent article, une déclaration ayant pour effet de rendre le présent Accord applicable à un territoire qu’il représente sur le plan international pourra, conformément à l’art. 12, dénoncer l’Accord en ce qui concerne ledit territoire.
+<sup>(2)</sup> Tout État qui aura fait, conformément au par. 1 du présent article, une déclaration ayant pour effet de rendre le présent Accord applicable à un territoire qu’il représente sur le plan international pourra, conformément à l’art. 12, dénoncer l’Accord en ce qui concerne ledit territoire.
 
-- (3) a) En outre, tout Etat pourra, lorsqu’il signera définitivement le présent Accord ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion ou à tout moment ultérieur, déclarer, par une notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies, que le présent Accord ne sera pas applicable sur certaines voies de navigation intérieures de son territoire, à condition que les voies en question ne fassent pas partie du réseau de voies navigables d’importance internationale tel que défini dans l’AGN. Si cette déclaration est effectuée à un moment ultérieur à celui où l’Etat a signé définitivement le présent Accord ou a déposé son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, l’Accord cessera de produire ses effets sur les voies de navigation intérieures en question un mois après la réception de cette notification par le Secrétaire général.
-- b) Toutefois, tout Etat sur le territoire duquel se trouvent des voies de navigation intérieures relevant de l’AGN, soumises à la date d’adoption du présent Accord à un régime de droit international obligatoire portant sur le transport de marchandises dangereuses, pourra déclarer que l’application du présent Accord sur ces voies sera subordonnée à l’accomplissement des procédures prévues par le statut de ce régime. Une telle déclaration devra être faite lors de la signature définitive du présent Accord ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+- (3) a) En outre, tout État pourra, lorsqu’il signera définitivement le présent Accord ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion ou à tout moment ultérieur, déclarer, par une notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies, que le présent Accord ne sera pas applicable sur certaines voies de navigation intérieures de son territoire, à condition que les voies en question ne fassent pas partie du réseau de voies navigables d’importance internationale tel que défini dans l’AGN. Si cette déclaration est effectuée à un moment ultérieur à celui où l’État a signé définitivement le présent Accord ou a déposé son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, l’Accord cessera de produire ses effets sur les voies de navigation intérieures en question un mois après la réception de cette notification par le Secrétaire général.
+- b) Toutefois, tout État sur le territoire duquel se trouvent des voies de navigation intérieures relevant de l’AGN, soumises à la date d’adoption du présent Accord à un régime de droit international obligatoire portant sur le transport de marchandises dangereuses, pourra déclarer que l’application du présent Accord sur ces voies sera subordonnée à l’accomplissement des procédures prévues par le statut de ce régime. Une telle déclaration devra être faite lors de la signature définitive du présent Accord ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-<sup>(4)</sup> Tout Etat qui aura fait une déclaration conformément aux par. 3*a* ou 3*b* du présent article pourra ultérieurement déclarer par une notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies que le présent Accord sera applicable à tout ou partie des voies de navigation intérieures visées par la déclaration faite selon les par. 3*a* ou 3*b*. L’Accord sera applicable aux voies de navigation intérieures mentionnées dans la notification un mois après la réception de cette notification par le Secrétaire général.
+<sup>(4)</sup> Tout État qui aura fait une déclaration conformément aux par. 3*a* ou 3*b* du présent article pourra ultérieurement déclarer par une notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies que le présent Accord sera applicable à tout ou partie des voies de navigation intérieures visées par la déclaration faite selon les par. 3*a* ou 3*b*. L’Accord sera applicable aux voies de navigation intérieures mentionnées dans la notification un mois après la réception de cette notification par le Secrétaire général.
 
 #### Art. 15
 
@@ -230,9 +230,9 @@ Le Règlement annexé sera applicable à cette même date. Dans le cas où le d�
 
 **Réserves**
 
-<sup>(1)</sup> Tout Etat pourra, lorsqu’il signera définitivement le présent Accord ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’il ne se considère pas lié par l’art. 15. Les autres Parties contractantes ne seront pas liées par l’art. 15 envers toute Partie contractante qui aura formulé une telle réserve.
+<sup>(1)</sup> Tout État pourra, lorsqu’il signera définitivement le présent Accord ou lors du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’il ne se considère pas lié par l’art. 15. Les autres Parties contractantes ne seront pas liées par l’art. 15 envers toute Partie contractante qui aura formulé une telle réserve.
 
-<sup>(2)</sup> Tout Etat contractant qui aura formulé une réserve conformément au par. 1 du présent article pourra à tout moment lever cette réserve par une notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies.
+<sup>(2)</sup> Tout État contractant qui aura formulé une réserve conformément au par. 1 du présent article pourra à tout moment lever cette réserve par une notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies.
 
 <sup>(3)</sup> Les réserves autres que celles prévues par le présent Accord ne sont pas admises.
 
@@ -242,7 +242,7 @@ Le Règlement annexé sera applicable à cette même date. Dans le cas où le d�
 
 <sup>(1)</sup> Un Comité d’administration est créé pour examiner la mise en application du présent Accord, étudier tout amendement proposé à ce titre et étudier des mesures destinées à assurer une interprétation et une application uniformes dudit Accord.
 
-<sup>(2)</sup> Les Parties contractantes sont membres du Comité d’administration. Le Comité peut décider que les Etats visés au par. 1 de l’art. 10 du présent Accord qui ne sont pas Parties contractantes, tout autre Etat membre de la Commission économique pour l’Europe ou de l’Organisation des Nations Unies ou des représentants d’organisations internationales intergouvernementales ou non gouvernementales peuvent, pour les questions qui les intéressent, assister à ses sessions en qualité d’observateurs.
+<sup>(2)</sup> Les Parties contractantes sont membres du Comité d’administration. Le Comité peut décider que les États visés au par. 1 de l’art. 10 du présent Accord qui ne sont pas Parties contractantes, tout autre État membre de la Commission économique pour l’Europe ou de l’Organisation des Nations Unies ou des représentants d’organisations internationales intergouvernementales ou non gouvernementales peuvent, pour les questions qui les intéressent, assister à ses sessions en qualité d’observateurs.
 
 <sup>(3)</sup> Le Secrétaire général de l’Organisation des Nations Unies et le Secrétaire général de la Commission centrale pour la navigation du Rhin fournissent au Comité d’administration des services de secrétariat.
 
@@ -291,7 +291,7 @@ Le Secrétaire général de l’Organisation des Nations Unies pourra également
 
 <sup>(2)</sup> Toute proposition d’amendement au Règlement annexé sera, en principe, soumise au Comité de sécurité qui soumettra au Comité d’administration les amendements provisoires qu’il aura adoptés.
 
-<sup>(3)</sup> A la demande expresse d’une Partie contractante, ou si le secrétariat du Comité d’administration le juge approprié, les propositions d’amendement peuvent également être soumises directement au Comité d’administration. De telles propositions seront examinées à une première session et, si elles sont jugées acceptables, elles seront réexaminées à la session suivante du Comité en même temps que toute autre proposition s’y rapportant, à moins que le Comité n’en décide autrement.
+<sup>(3)</sup> À la demande expresse d’une Partie contractante, ou si le secrétariat du Comité d’administration le juge approprié, les propositions d’amendement peuvent également être soumises directement au Comité d’administration. De telles propositions seront examinées à une première session et, si elles sont jugées acceptables, elles seront réexaminées à la session suivante du Comité en même temps que toute autre proposition s’y rapportant, à moins que le Comité n’en décide autrement.
 
 <sup>(4)</sup> Les décisions relatives aux amendements provisoires et aux propositions d’amendements soumis au Comité d’administration selon les par. 2 et 3 sont prises à la majorité des membres présents et votants. Cependant, un amendement n’est pas réputé adopté si, immédiatement après le vote, cinq membres présents déclarent leur objection à cet amendement. Les amendements adoptés seront communiqués pour acceptation aux Parties contractantes par le Secrétaire général de l’Organisation des Nations Unies.
 
@@ -306,7 +306,7 @@ Tout projet d’amendement au Règlement annexé communiqué pour acceptation co
 
 **Demandes, communications et objections**
 
-Le Secrétaire général de l’Organisation des Nations Unies informera toutes les Parties contractantes et tous les Etats visés au par. 1 de l’art. 10 du présent Accord de toute demande, communication ou objection faite en vertu des art. 19 et 20 ci‑dessus, de l’acceptation et de la date d’entrée en vigueur des amendements.
+Le Secrétaire général de l’Organisation des Nations Unies informera toutes les Parties contractantes et tous les États visés au par. 1 de l’art. 10 du présent Accord de toute demande, communication ou objection faite en vertu des art. 19 et 20 ci‑dessus, de l’acceptation et de la date d’entrée en vigueur des amendements.
 
 #### Art. 22
 
@@ -314,13 +314,13 @@ Le Secrétaire général de l’Organisation des Nations Unies informera toutes 
 
 <sup>(1)</sup> Indépendamment de la procédure visée aux art. 19 et 20, une Partie contractante pourra, par notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies, demander la convocation d’une conférence à l’effet de réviser le présent Accord.
 
-Une conférence de révision, à laquelle seront invités toutes les Parties contractantes et tous les Etats visés au par. 1 de l’art. 10, sera convoquée par le Secrétaire exécutif de la Commission économique pour l’Europe si, dans un délai de six mois à compter de la date à laquelle le Secrétaire général de l’Organisation des Nations Unies aura communiqué la notification, un quart au moins des Parties contractantes lui signifient leur assentiment à la demande.
+Une conférence de révision, à laquelle seront invités toutes les Parties contractantes et tous les États visés au par. 1 de l’art. 10, sera convoquée par le Secrétaire exécutif de la Commission économique pour l’Europe si, dans un délai de six mois à compter de la date à laquelle le Secrétaire général de l’Organisation des Nations Unies aura communiqué la notification, un quart au moins des Parties contractantes lui signifient leur assentiment à la demande.
 
-<sup>(2)</sup> Indépendamment de la procédure visée aux art. 19 et 20, une conférence de révision à laquelle seront invités toutes les Parties contractantes et tous les Etats visés au par. 1 de l’art. 10 sera convoquée également par le Secrétaire exécutif de la Commission économique pour l’Europe dès notification écrite d’une requête à cet effet du Comité d’administration. Le Comité d’administration décidera s’il y a lieu de formuler une telle requête à la majorité de ses membres présents et votants dans le Comité.
+<sup>(2)</sup> Indépendamment de la procédure visée aux art. 19 et 20, une conférence de révision à laquelle seront invités toutes les Parties contractantes et tous les États visés au par. 1 de l’art. 10 sera convoquée également par le Secrétaire exécutif de la Commission économique pour l’Europe dès notification écrite d’une requête à cet effet du Comité d’administration. Le Comité d’administration décidera s’il y a lieu de formuler une telle requête à la majorité de ses membres présents et votants dans le Comité.
 
 <sup>(3)</sup> Si une conférence est convoquée en application des dispositions des par. 1 ou 2 du présent article, le Secrétaire exécutif de la Commission économique pour l’Europe invitera les Parties contractantes à soumettre, dans un délai de trois mois, les propositions qu’elles voudraient voir examinées par la conférence.
 
-<sup>(4)</sup> Le Secrétaire exécutif de la Commission économique pour l’Europe fera tenir à toutes les Parties contractantes et à tous les Etats visés au par. 1 de l’art. 10 l’ordre du jour provisoire de la conférence et les textes de ces propositions six mois au moins avant la date d’ouverture de la conférence.
+<sup>(4)</sup> Le Secrétaire exécutif de la Commission économique pour l’Europe fera tenir à toutes les Parties contractantes et à tous les États visés au par. 1 de l’art. 10 l’ordre du jour provisoire de la conférence et les textes de ces propositions six mois au moins avant la date d’ouverture de la conférence.
 
 #### Art. 23
 
@@ -330,10 +330,10 @@ Le Secrétaire général de l’Organisation des Nations Unies est le dépositai
 
 *En foi de quoi* les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le vingt-six mai deux mille, en un seul exemplaire, en langues allemande, anglaise, française et russe pour le texte de l’Accord proprement dit et en langue française pour le Règlement annexé, les quatre textes faisant également foi pour l’Accord proprement dit. Le Secrétaire général de l’Organisation des Nations Unies est invité à établir une traduction du Règlement annexé en langues anglaise et russe. Le Secrétaire général de la Commission centrale pour la navigation du Rhin est invité à établir une traduction du Règlement annexé en langue allemande. (Suivent les signatures)
 
-Champ d’application le 12 juillet 2016**[^t-2]**
+Champ d’application le 12 juillet 2016[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne<sup>\*</sup></td><td>31 janvier</td><td>2008</td><td>29 février</td><td>2008</td></tr>
 <tr><td>Autriche<sup>\*</sup></td><td>9 novembre</td><td>2004 A</td><td>29 février</td><td>2008</td></tr>
 <tr><td>Belgique<sup>\*</sup></td><td>17 juin</td><td>2014 A</td><td>17 juillet</td><td>2014</td></tr>
@@ -352,10 +352,10 @@ Champ d’application le 12 juillet 2016**[^t-2]**
 <tr><td>Slovaquie</td><td>20 octobre</td><td>2009</td><td>20 novembre</td><td>2009</td></tr>
 <tr><td>Suisse<sup>\*</sup></td><td>8 février</td><td>2011 A</td><td>8 mars</td><td>2011</td></tr>
 <tr><td>Ukraine<sup>\*</sup></td><td>28 janvier</td><td>2010 A</td><td>28 février</td><td>2010</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies : http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2011 1015](https://fedlex.data.admin.ch/eli/oc/2011/153), [2014 315](https://fedlex.data.admin.ch/eli/oc/2014/50), [2016 2775](https://fedlex.data.admin.ch/eli/oc/2016/453). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2011 1015](https://fedlex.data.admin.ch/eli/oc/2011/153), [2014 315](https://fedlex.data.admin.ch/eli/oc/2014/50), [2016 2775](https://fedlex.data.admin.ch/eli/oc/2016/453). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations
 

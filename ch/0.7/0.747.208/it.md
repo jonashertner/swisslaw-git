@@ -4,11 +4,11 @@ title: Accordo europeo del 26 maggio 2000 sul trasporto internazionale di merci 
 short: ADN
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/153"
 language: it
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2000-05-26
 in_force: 2011-03-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2011-153-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/153/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2011-153-20230101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/153/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -21,15 +21,9 @@ Traduzione
 
 (ADN)
 
-Concluso a Ginevra il 26 maggio 2000
+Concluso a Ginevra il 26 maggio 2000 Approvato dall’Assemblea federale il 1° ottobre 2010[^t-1] Ratificato dalla Svizzera con strumento depositato l’8 febbraio 2011 Entrato in vigore per la Svizzera l’8 marzo 2011
 
-Approvato dall’Assemblea federale il 1° ottobre 2010[^t-1]
-
-Ratificato dalla Svizzera con strumento depositato l’8 febbraio 2011
-
-Entrato in vigore per la Svizzera l’8 marzo 2011
-
-(Stato 1° gennaio 2019)
+(Stato 1° gennaio 2023)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 1° ott. 2010 ([RU 2011 1013](https://fedlex.data.admin.ch/eli/oc/2011/152)).
 
@@ -72,7 +66,7 @@ Il Regolamento allegato comprende:
 - c. delle disposizioni generali transitorie;
 - d. delle disposizioni generali transitorie supplementari applicabili a specifiche vie navigabili interne.
 
-[^2-1]: Il testo di questo R non é pubblicato nella RU. È stato modificato dalle Dec. del Segretario Generale delle NU del 2 ott. 2012 (RU **2012** 7483), del 2 ott. 2014 (RU **2014** 4709), del 7 ott. 2016 (RU **2016** 3865) e del 15 ott. 2018, in vigore dal 1° gen. 2019 (RU **2018** 5393) in applicazione dell’art. 20 dell’ADN. La Svizzera, la Germania ed i Paesi Bassi hanno convenuto deroghe applicabili dal 19 ago. 2016 al 31 dic. 2019 (RU **2016** 3097) e dal 10 nov. 2016 al 31 dic. 2021 (RU **2016** 5303). Svizzera, Germania, Lussemburgo ed i Paesi Bassi hanno convenuto deroghe, in vigore dal 1° giu. 2017 al 31 dic. 2018 (RU **2017** 3537). Il testo di questo R non è pubblicato nella RU. Può essere consultato gratuitamente presso l’Ufficio federale dei trasporti, Mühlestrasse 6, 3063 Ittigen, o scaricato dai siti Internet www.bav.admin.ch &gt; Diritto &gt; Altre basi giuridiche e prescrizioni &gt; Accordi internazionali &gt; Accord européen du 26 mai 2000 relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN 2019) (soltanto in tedesco o francese) o www.ccr-zkr.org &gt; Documents &gt; Conventions, accords et Règlement intérieur &gt; Autres conventions intéressant la CCNR &gt; Accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) [2019] (soltanto in tedesco o francese). Ne possono essere richieste copie all’UFCL, Vendita di pubblicazioni federali, 3003 Berna.
+[^2-1]: Il testo di questo R non é pubblicato nella RU. In applicazione dell’art. 20 è stato modificato dalle Dec. del Segretario Generale delle NU dei 2 ott. 2012 (RU **2012** 7483), 2 ott. 2014 (RU **2014** 4709), 7 ott. 2016 (RU **2016** 3865), 15 ott. 2018 (RU **2018** 5393) e del 7 dic. 2022 messo in vigore dal 1° gen. 2023 (RU **2024** 278). La Svizzera, la Germania ed i Paesi Bassi hanno convenuto deroghe applicabili dal 19 ago. 2016 al 31 dic. 2019 (RU **2016** 3097) e dal 10 nov. 2016 al 31 dic. 2021 (RU **2016** 5303). Svizzera, Germania, Lussemburgo ed i Paesi Bassi hanno convenuto deroghe, in vigore dal 1° giu. 2017 al 31 dic. 2018 (RU **2017** 3537). Il testo può essere consultato gratuitamente presso l’Ufficio federale dei trasporti, Mühlestrasse 6, 3063 Ittigen, o scaricato dai siti Internet[www min.ch](https://www.bav.admin.ch/dam/bav/it/dokumente/internationale_vereinbarungen/schiff/adn.pdf.download.pdf/adn.pdf) &gt; Diritto &gt; Altre basi giuridiche e prescrizioni &gt; Accordi internazionali &gt; Accord européen du 26 mai 2000 relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN 2023) (soltanto in tedesco o francese) o [www.ccr-zkr.org](https://www.ccr-zkr.org/files/conventions/adn/ADN_2023de.pdf) &gt; Documents &gt; Conventions, accords et Règlement intérieur &gt; Autres conventions intéressant la CCNR &gt; Accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) [2023] (soltanto in tedesco o francese).
 
 #### Art. 3
 
@@ -330,7 +324,7 @@ Il Segretario Generale delle Nazioni Unite è il depositario del presente Accord
 
 *In fede di che* i sottoscritti, essendo debitamente autorizzati a tal fine dai rispettivi governi, hanno firmato il presente Accordo. Fatto a Ginevra, il ventisei di maggio duemila, in esemplare singolo, in lingua inglese, francese, tedesca e russa per il testo dell’Accordo propriamente detto e in lingua francese per il Regolamento allegato, ogni versione essendo ugualmente valida per l’Accordo propriamente detto. Il Segretario Generale delle Nazioni Unite è invitato a predisporre una traduzione del Regolamento allegato in lingua inglese e russa. Il Segretario Generale della Commissione Centrale per la navigazione sul Reno è invitato a predisporre una traduzione del Regolamento allegato in lingua tedesca. (Seguono le firme)
 
-Campo d’applicazione il 12 luglio 2016**[^t-2]**
+Campo d’applicazione il 12 luglio 2016[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -359,7 +353,7 @@ Campo d’applicazione il 12 luglio 2016**[^t-2]**
 
 Dichiarazioni
 
-Svizzera**[^t-3]**
+Svizzera[^t-3]
 
 Art. 14 cpv. 3 lett. a
 
