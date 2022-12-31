@@ -3,24 +3,24 @@ canton: BL
 number: "681.11"
 title: Verordnung für die Berufsbildung
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2022-11-15
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.11"
-pdf: "https://bl.clex.ch/api/de/versions/3192/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3749/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Berufsbildung
 
-Vom 17.03.2009 (Stand 01.01.2022)
+Vom 17.03.2009 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 88 Abs. 1 Bst. f des Bildungsgesetzes vom 6. Juni 2002[^ingress-2],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Bildungsgesetz vom 6. Juni 2002[^ingress-2],
 
 beschliesst:
 
@@ -168,7 +168,7 @@ beschliesst:
 
 #### § 8
 
-**Auflösung des Lehrvertrages**
+**Auflösung des Lehrvertrags**
 
 <sup>1</sup> Beabsichtigt eine Vertragspartei, den Lehrvertrag einseitig aufzulösen, versucht die Hauptabteilung Berufsbildung der Dienststelle BMH zu vermitteln.
 
@@ -392,7 +392,7 @@ beschliesst:
   - 3\. Berufsattest anderer Richtung: 14;
 - c. Stützkurse und Freikurse: 12;
 - d. Brückenangebote:
-  - 1\. schulisches Profil: 18;
+  - 1\. schulisches Profil: 14;
   - 2\. kombiniertes Profil: 14;
   - 3\. integratives Profil: 14.
 
@@ -586,7 +586,7 @@ beschliesst:
 
 **Unterrichtsbesuche**
 
-<sup>1</sup> Erziehungsberechtigte können - in der Regel nach vorheriger Absprache mit der Lehrerin oder dem Lehrer - den Schulunterricht besuchen.
+<sup>1</sup> Erziehungsberechtigte können – in der Regel nach vorheriger Absprache mit der Lehrerin oder dem Lehrer – den Schulunterricht besuchen.
 
 #### § 41
 
