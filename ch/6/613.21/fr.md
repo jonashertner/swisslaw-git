@@ -4,11 +4,11 @@ title: Ordonnance du 7 novembre 2007 sur la péréquation financière et la comp
 short: OPFCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/792"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-792-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-792-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20220101/fr"
 
 (OPFCC)
 
-du 7 novembre 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 7 novembre 2007 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral,
 
@@ -761,7 +761,7 @@ Le bilan global de la RPT est égal à l’estimation de l’augmentation ou à 
 
 <sup>5</sup> Un canton perd son droit à la compensation des cas de rigueur dès l’année de référence où son indice de ressources dépasse 100 points. La somme totale consacrée à la compensation des cas de rigueur diminue en conséquence.
 
-### Section 2*a***** Mesures d’atténuation temporaires
+### Section 2*a* Mesures d’atténuation temporaires
 
 [^tit6-sec2a-1]
 
@@ -786,7 +786,7 @@ Le bilan global de la RPT est égal à l’estimation de l’augmentation ou à 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 [^57-2]: [RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)
 
-### Section 3*a***** Calcul des bénéfices déterminants des personnes morales
+### Section 3*a* Calcul des bénéfices déterminants des personnes morales
 
 [^tit6-sec3a-1]
 
@@ -817,7 +817,12 @@ Le bilan global de la RPT est égal à l’estimation de l’augmentation ou à 
 
 <sup>2</sup> En ce qui concerne le bénéfice de ces personnes morales, la part des bénéfices selon l’art. 57*b*, al. 1, qui sera multipliée par le facteur bêta correspondant est calculée sur la base de la moyenne pondérée des parts des bénéfices des trois dernières années en tant que personne morale jouissant d’un statut fiscal spécial.
 
+<sup>2bis</sup> Pour les sociétés qui n’ont pas fait l’objet d’une taxation définitive, la part des bénéfices calculée selon l’al. 2 est réputée, durant les années de calcul 2020 à 2024, de qualité équivalente à celle des données définitives après taxation visées à l’art. 19, al. 5 et 6, dans la version du 1<sup>er</sup> janvier 2016[^57c-1].[^57c-2]
+
 <sup>3</sup> Lorsqu’une personne morale au bénéfice d’un statut fiscal spécial fait l’objet d’une restructuration, la pondération selon l’art. 57*b* est prise en compte proportionnellement.
+
+[^57c-1]: [RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)
+[^57c-2]: Introduit par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 #### Art. 57d
 
@@ -845,47 +850,47 @@ Les ordonnances suivantes sont abrogées:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1 à 5)
 
 ## Potentiel de ressources et recettes fiscales standardisées
 
-[^t-1]: Nouvelle teneur selon le ch. I 1 de l’O du 5 nov. 2014 ([RO 2014 3825](https://fedlex.data.admin.ch/eli/oc/2014/658)). Mise à jour par le ch. II al. 2 de l’O du 4 nov. 2015 ([RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), le ch. II al. 4 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) et le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-1]: Nouvelle teneur selon le ch. I 1 de l’O du 5 nov. 2014 ([RO 2014 3825](https://fedlex.data.admin.ch/eli/oc/2014/658)). Mise à jour par le ch. II al. 2 des O du 4 nov. 2015 ([RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) et du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 ### 1. Potentiel de ressources
 
-Valeurs cantonales pour l’année de référence 2022
+Valeurs cantonales pour l’année de référence 2023
 
 <table>
-<tr><th>Canton</th><th>Potentiel de ressources (en milliers de francs)</th><th>Population résidante permanente et non permanente moyenne (moyenne 2016 à 2018)</th><th>Potentiel de ressources par habitant (en francs)</th><th>Indice des ressources</th></tr>
-<tr><td>Zurich</td><td>66 637 068</td><td>1 508 364</td><td>44 178</td><td>123.3</td></tr>
-<tr><td>Berne</td><td>29 477 880</td><td>1 034 573</td><td>28 493</td><td>79.5</td></tr>
-<tr><td>Lucerne</td><td>13 341 047</td><td>407 830</td><td>32 712</td><td>91.3</td></tr>
-<tr><td>Uri</td><td>941 896</td><td>36 627</td><td>25 716</td><td>71.8</td></tr>
-<tr><td>Schwyz</td><td>10 050 768</td><td>157 730</td><td>63 721</td><td>177.9</td></tr>
-<tr><td>Obwald</td><td>1 386 884</td><td>37 792</td><td>36 698</td><td>102.4</td></tr>
-<tr><td>Nidwald</td><td>2 400 687</td><td>43 083</td><td>55 722</td><td>155.5</td></tr>
-<tr><td>Glaris</td><td>1 057 535</td><td>40 599</td><td>26 048</td><td>72.7</td></tr>
-<tr><td>Zoug</td><td>11 561 954</td><td>126 362</td><td>91 499</td><td>255.4</td></tr>
-<tr><td>Fribourg</td><td>8 129 776</td><td>315 241</td><td>25 789</td><td>72.0</td></tr>
-<tr><td>Soleure</td><td>6 943 789</td><td>272 546</td><td>25 478</td><td>71.1</td></tr>
-<tr><td>Bâle-Ville</td><td>9 987 533</td><td>196 446</td><td>50 841</td><td>141.9</td></tr>
-<tr><td>Bâle-Campagne</td><td>10 026 418</td><td>287 667</td><td>34 854</td><td>97.3</td></tr>
-<tr><td>Schaffhouse</td><td>2 795 011</td><td>81 879</td><td>34 136</td><td>95.3</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>1 686 171</td><td>55 188</td><td>30 553</td><td>85.3</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>556 731</td><td>16 145</td><td>34 483</td><td>96.3</td></tr>
-<tr><td>Saint-Gall</td><td>15 059 617</td><td>506 737</td><td>29 719</td><td>83.0</td></tr>
-<tr><td>Grisons</td><td>6 093 307</td><td>205 224</td><td>29 691</td><td>82.9</td></tr>
-<tr><td>Argovie</td><td>19 639 516</td><td>672 044</td><td>29 224</td><td>81.6</td></tr>
-<tr><td>Thurgovie</td><td>7 784 005</td><td>274 007</td><td>28 408</td><td>79.3</td></tr>
-<tr><td>Tessin</td><td>12 253 302</td><td>356 336</td><td>34 387</td><td>96.0</td></tr>
-<tr><td>Vaud</td><td>28 445 252</td><td>797 472</td><td>35 669</td><td>99.6</td></tr>
-<tr><td>Valais</td><td>8 059 429</td><td>347 870</td><td>23 168</td><td>64.7</td></tr>
-<tr><td>Neuchâtel</td><td>5 144 640</td><td>179 255</td><td>28 700</td><td>80.1</td></tr>
-<tr><td>Genève</td><td>24 272 455</td><td>496 070</td><td>48 929</td><td>136.6</td></tr>
-<tr><td>Jura</td><td>1 726 161</td><td>73 452</td><td>23 500</td><td>65.6</td></tr>
-<tr><td>Tous les cantons</td><td>305 458 831</td><td>8 526 539</td><td>35 824</td><td>100.0</td></tr>
+<tr><th>Canton</th><th>Potentiel de ressources (en milliers de francs)</th><th>Population résidante permanente et non permanente moyenne (moyenne 2017 à 2019)</th><th>Potentiel de ressources par habitant (en francs)</th><th>Indice des ressources</th></tr>
+<tr><td>Zurich</td><td>69 182 707</td><td>1 525 010</td><td>45 365</td><td>123.1</td></tr>
+<tr><td>Berne</td><td>29 768 654</td><td>1 039 193</td><td>28 646</td><td>77.7</td></tr>
+<tr><td>Lucerne</td><td>14 016 079</td><td>411 013</td><td>34 101</td><td>92.5</td></tr>
+<tr><td>Uri</td><td>961 307</td><td>36 759</td><td>26 152</td><td>70.9</td></tr>
+<tr><td>Schwyz</td><td>10 158 921</td><td>159 089</td><td>63 857</td><td>173.2</td></tr>
+<tr><td>Obwald</td><td>1 500 687</td><td>38 005</td><td>39 486</td><td>107.1</td></tr>
+<tr><td>Nidwald</td><td>2 522 194</td><td>43 266</td><td>58 295</td><td>158.1</td></tr>
+<tr><td>Glaris</td><td>1 093 947</td><td>40 701</td><td>26 878</td><td>72.9</td></tr>
+<tr><td>Zoug</td><td>12 527 255</td><td>127 783</td><td>98 035</td><td>265.9</td></tr>
+<tr><td>Fribourg</td><td>8 251 171</td><td>318 643</td><td>25 895</td><td>70.2</td></tr>
+<tr><td>Soleure</td><td>7 168 242</td><td>274 582</td><td>26 106</td><td>70.8</td></tr>
+<tr><td>Bâle-Ville</td><td>11 145 764</td><td>197 452</td><td>56 448</td><td>153.1</td></tr>
+<tr><td>Bâle-Campagne</td><td>10 387 196</td><td>289 116</td><td>35 927</td><td>97.5</td></tr>
+<tr><td>Schaffhouse</td><td>3 004 225</td><td>82 402</td><td>36 458</td><td>98.9</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>1 738 787</td><td>55 338</td><td>31 421</td><td>85.2</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>603 622</td><td>16 184</td><td>37 297</td><td>101.2</td></tr>
+<tr><td>Saint-Gall</td><td>15 704 348</td><td>509 307</td><td>30 835</td><td>83.6</td></tr>
+<tr><td>Grisons</td><td>6 303 254</td><td>205 542</td><td>30 667</td><td>83.2</td></tr>
+<tr><td>Argovie</td><td>20 303 296</td><td>679 361</td><td>29 886</td><td>81.1</td></tr>
+<tr><td>Thurgovie</td><td>8 179 394</td><td>276 932</td><td>29 536</td><td>80.1</td></tr>
+<tr><td>Tessin</td><td>12 264 236</td><td>356 063</td><td>34 444</td><td>93.4</td></tr>
+<tr><td>Vaud</td><td>29 365 257</td><td>804 975</td><td>36 480</td><td>99.0</td></tr>
+<tr><td>Valais</td><td>8 238 757</td><td>350 426</td><td>23 511</td><td>63.8</td></tr>
+<tr><td>Neuchâtel</td><td>5 101 221</td><td>178 639</td><td>28 556</td><td>77.5</td></tr>
+<tr><td>Genève</td><td>25 372 555</td><td>500 784</td><td>50 666</td><td>137.4</td></tr>
+<tr><td>Jura</td><td>1 810 473</td><td>73 589</td><td>24 602</td><td>66.7</td></tr>
+<tr><td>Tous les cantons</td><td>316 673 548</td><td>8 590 152</td><td>36 865</td><td>100.0</td></tr>
 </table>
 
 ### 2. Recettes fiscales standardisées
@@ -896,58 +901,58 @@ Les recettes fiscales standardisées de la Suisse se rapportent aux recettes fis
 
 Le taux fiscal standardisé est identique pour tous les cantons et se base sur le potentiel de ressources et les recettes fiscales de l’ensemble des cantons.
 
-Valeur du taux fiscal standardisé pour l’année de référence 2022
+Valeur du taux fiscal standardisé pour l’année de référence 2023
 
-Taux fiscal standardisé pour l’année de référence 2022 = 25,8 %
+Taux fiscal standardisé pour l’année de référence 2023 = 25,5 %
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 7)
 
 ## Revenu déterminant des personnes physiques
 
-[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
-Valeurs cantonales pour l’année de référence 2022
+### Valeurs cantonales pour l’année de référence 2023
 
 <table>
 <tr><th>Canton</th><th>Revenu déterminant des personnes physiques (en milliers de francs)</th></tr>
-<tr><td>Zurich</td><td>40 524 317</td></tr>
-<tr><td>Berne</td><td>18 280 684</td></tr>
-<tr><td>Lucerne</td><td>7 939 257</td></tr>
-<tr><td>Uri</td><td>581 303</td></tr>
-<tr><td>Schwyz</td><td>6 009 034</td></tr>
-<tr><td>Obwald</td><td>844 504</td></tr>
-<tr><td>Nidwald</td><td>1 284 115</td></tr>
-<tr><td>Glaris</td><td>634 189</td></tr>
-<tr><td>Zoug</td><td>5 485 073</td></tr>
-<tr><td>Fribourg</td><td>5 482 316</td></tr>
-<tr><td>Soleure</td><td>5 136 435</td></tr>
-<tr><td>Bâle-Ville</td><td>5 220 318</td></tr>
-<tr><td>Bâle-Campagne</td><td>7 310 099</td></tr>
-<tr><td>Schaffhouse</td><td>1 457 283</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>1 065 511</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>335 479</td></tr>
-<tr><td>Saint-Gall</td><td>8 674 392</td></tr>
-<tr><td>Grisons</td><td>3 652 876</td></tr>
-<tr><td>Argovie</td><td>13 615 370</td></tr>
-<tr><td>Thurgovie</td><td>5 149 128</td></tr>
-<tr><td>Tessin</td><td>7 091 046</td></tr>
-<tr><td>Vaud</td><td>18 263 012</td></tr>
-<tr><td>Valais</td><td>5 462 917</td></tr>
-<tr><td>Neuchâtel</td><td>2 971 163</td></tr>
-<tr><td>Genève</td><td>13 226 673</td></tr>
-<tr><td>Jura</td><td>1 026 464</td></tr>
-<tr><td>Tous les cantons</td><td>186 722 956</td></tr>
+<tr><td>Zurich</td><td>41 879 649</td></tr>
+<tr><td>Berne</td><td>18 652 985</td></tr>
+<tr><td>Lucerne</td><td>8 316 781</td></tr>
+<tr><td>Uri</td><td>606 134</td></tr>
+<tr><td>Schwyz</td><td>6 289 793</td></tr>
+<tr><td>Obwald</td><td>934 750</td></tr>
+<tr><td>Nidwald</td><td>1 360 070</td></tr>
+<tr><td>Glaris</td><td>659 908</td></tr>
+<tr><td>Zoug</td><td>5 839 667</td></tr>
+<tr><td>Fribourg</td><td>5 679 614</td></tr>
+<tr><td>Soleure</td><td>5 251 403</td></tr>
+<tr><td>Bâle-Ville</td><td>5 382 247</td></tr>
+<tr><td>Bâle-Campagne</td><td>7 445 778</td></tr>
+<tr><td>Schaffhouse</td><td>1 504 128</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>1 100 122</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>360 810</td></tr>
+<tr><td>Saint-Gall</td><td>9 010 956</td></tr>
+<tr><td>Grisons</td><td>3 768 523</td></tr>
+<tr><td>Argovie</td><td>14 018 312</td></tr>
+<tr><td>Thurgovie</td><td>5 325 537</td></tr>
+<tr><td>Tessin</td><td>7 172 369</td></tr>
+<tr><td>Vaud</td><td>18 638 884</td></tr>
+<tr><td>Valais</td><td>5 580 338</td></tr>
+<tr><td>Neuchâtel</td><td>3 052 640</td></tr>
+<tr><td>Genève</td><td>13 553 044</td></tr>
+<tr><td>Jura</td><td>1 061 266</td></tr>
+<tr><td>Tous les cantons</td><td>192 445 705</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 9 et 10)
 
 ## Revenu déterminant pour l’imposition à la source
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 3 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 3 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. II al. 2 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 ### 1. Définition des variables et des paramètres
 
@@ -963,7 +968,7 @@ Annexe 3*[^t-3]*
 - TE Part de la masse salariale brute afférente aux frontaliers français assujettis de façon limitée et imposés par le canton de Genève qui est rétrocédée à la France en vertu de la Convention du 29 janvier 1973 entre le canton de Genève et la France
 - TF Part maximale (taux fiscal) de la masse salariale brute afférente aux frontaliers français assujettis de façon limitée et imposés par la France qui est rétrocédée en vertu de l’Accord du 11 avril 1983 ratifié par les cantons de Berne, Soleure, Bâle-Ville, Bâle-Campagne, Vaud, Valais et Neuchâtel
 - TG Part des recettes fiscales brutes provenant des frontaliers assujettis de façon limitée qui est rétrocédée à l’Italie en vertu de l’art. 14*a* CDI-I et de l’accord conclu par les cantons des Grisons, du Tessin et du Valais avec l’Italie
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image1.png)</sub> Dernier taux fiscal standardisé disponible pour l’année de calcul t (c.-à-d. année de calcul + 3 ans)
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image1.png)</sub> Dernier taux fiscal standardisé disponible pour l’année de calcul t (c.-à-d. année de calcul + 3 ans)
 - γ Facteur gamma: rapport arrondi à trois décimales entre le revenu déterminant des personnes physiques de Suisse et le revenu primaire des ménages privés de Suisse pour les années de calcul. Le facteur gamma est calculé annuellement.
 - δ Facteur delta: ce facteur prend en compte les charges des frontaliers par une pondération moins élevée de leurs revenus BQB, BQC, BQD, BQE, BQF et BQG.
 
@@ -975,35 +980,35 @@ Annexe 3*[^t-3]*
 - γ · δ BQB
 - (3) Revenu déterminant pour l’imposition à la source des frontaliers autrichiens assujettis de façon limitée:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image2.png)
 
 - (4) Revenu déterminant pour l’imposition à la source des frontaliers allemands assujettis de façon limitée:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image3.png)
 
 - (5) Revenu déterminant pour l’imposition à la source des frontaliers français assujettis de façon limitée et imposés par le canton de Genève:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image4.png)
 
 - (6) Revenu déterminant pour l’imposition à la source des frontaliers français assujettis de façon limitée et imposés par la France:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image5.png)
 
 - (7) Revenu déterminant pour l’imposition à la source des frontaliers italiens assujettis de façon limitée:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image6.png)
 
-### 3. Valeur des paramètres pour l’année de référence 2022
+### 3. Valeur des paramètres pour l’année de référence 2023
 
 <table>
 <tr><th>Paramètre</th><th>Valeur</th></tr>
-<tr><td>γ<sub>2016</sub></td><td>0.372</td></tr>
 <tr><td>γ<sub>2017</sub></td><td>0.379</td></tr>
 <tr><td>γ<sub>2018</sub></td><td>0.381</td></tr>
+<tr><td>γ<sub>2019</sub></td><td>0.385</td></tr>
 <tr><td>δ</td><td>0.750</td></tr>
-<tr><td>SST<sub>2019</sub></td><td>0.261</td></tr>
 <tr><td>SST<sub>2020</sub></td><td>0.261</td></tr>
 <tr><td>SST<sub>2021</sub></td><td>0.259</td></tr>
+<tr><td>SST<sub>2022</sub></td><td>0.258</td></tr>
 <tr><td>TC</td><td>0.125</td></tr>
 <tr><td>TD</td><td>0.045</td></tr>
 <tr><td>TE</td><td>0.035</td></tr>
@@ -1019,65 +1024,65 @@ Annexe 3*[^t-3]*
 - 4\.3.1 *Formule (2), frontaliers assujettis de façon illimitée:* le revenu imposable déterminant est calculé selon la formule γ ⋅ δ **<sup>.</sup>** BQB.
 - 4\.4 Les formules de calcul (3) à (7) servent à convertir les revenus de frontaliers imposables de façon limitée sur la base des conventions contre les doubles impositions correspondantes conclues avec l’Autriche, l’Allemagne, la France et l’Italie.
 - 4\.4.1 *Formule (3), frontaliers autrichiens:* les revenus bruts sont imposés par la Suisse, qui rétrocède à l’Autriche 12,5 % de ses recettes fiscales. Le revenu imposable déterminant, γ ⋅ δ **<sup>.</sup>** BQC, est corrigé à hauteur de la part revenant à l’Autriche, soit TC.
-- 4\.4.2 *Formule (4), frontaliers allemands:* les revenus bruts des frontaliers sont imposés à un taux de 4,5 % au maximum. La part du revenu imposable en Suisse s’obtient en divisant les recettes fiscales, TD ⋅ δ **<sup>.</sup>** BQD, par le taux fiscal standardisé correspondant, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image7.png)</sub>.
-- 4\.4.3 *Formule (5), frontaliers français à Genève:* l’imposition est effectuée en Suisse, avec une rétrocession à la France de 3,5 % de la masse salariale brute. La part devant être remise à la France est déduite du revenu déterminant imposé entièrement par le canton de Genève, γ ⋅ δ **<sup>.</sup>** BQE. Pour calculer cette part, on divise l’impôt devant être effectivement remis à la France, soit TE ⋅ δ **<sup>.</sup>** BQE, par le taux fiscal standardisé correspondant, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image7.png)</sub>, ce qui permet d’obtenir par extrapolation une valeur comparable au revenu imposable.
-- 4\.4.4 *Formule (6), frontaliers français (sans les frontaliers français à Genève):* l’imposition est effectuée par la France, la Suisse recevant au maximum 4,5 % du revenu brut. La part du revenu exploitée fiscalement en Suisse s’obtient en divisant les recettes fiscales, TF ⋅ δ **<sup>.</sup>** BQF, par le taux fiscal standardisé correspondant, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image7.png)</sub>.
+- 4\.4.2 *Formule (4), frontaliers allemands:* les revenus bruts des frontaliers sont imposés à un taux de 4,5 % au maximum. La part du revenu imposable en Suisse s’obtient en divisant les recettes fiscales, TD ⋅ δ **<sup>.</sup>** BQD, par le taux fiscal standardisé correspondant, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image7.png)</sub>.
+- 4\.4.3 *Formule (5), frontaliers français à Genève:* l’imposition est effectuée en Suisse, avec une rétrocession à la France de 3,5 % de la masse salariale brute. La part devant être remise à la France est déduite du revenu déterminant imposé entièrement par le canton de Genève, γ ⋅ δ **<sup>.</sup>** BQE. Pour calculer cette part, on divise l’impôt devant être effectivement remis à la France, soit TE ⋅ δ **<sup>.</sup>** BQE, par le taux fiscal standardisé correspondant, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image7.png)</sub>, ce qui permet d’obtenir par extrapolation une valeur comparable au revenu imposable.
+- 4\.4.4 *Formule (6), frontaliers français (sans les frontaliers français à Genève):* l’imposition est effectuée par la France, la Suisse recevant au maximum 4,5 % du revenu brut. La part du revenu exploitée fiscalement en Suisse s’obtient en divisant les recettes fiscales, TF ⋅ δ **<sup>.</sup>** BQF, par le taux fiscal standardisé correspondant, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image7.png)</sub>.
 - 4\.4.5 *Formule (7), frontaliers italiens:* rétrocession de 40 % des recettes fiscales à l’Italie. Le revenu imposable déterminant, γ ⋅ δ **<sup>.</sup>** BQG, est corrigé à hauteur de la part revenant à l’Italie, soit TG.
 
-### 5. Valeurs cantonales pour l’année de référence 2022
+### 5. Valeurs cantonales pour l’année de référence 2023
 
 <table>
 <tr><th>Canton</th><th>Revenu déterminant pour l’imposition à la source (en milliers de francs)</th></tr>
-<tr><td>Zurich</td><td>2 296 180</td></tr>
-<tr><td>Berne</td><td>628 644</td></tr>
-<tr><td>Lucerne</td><td>312 157</td></tr>
-<tr><td>Uri</td><td>31 252</td></tr>
-<tr><td>Schwyz</td><td>163 087</td></tr>
-<tr><td>Obwald</td><td>39 487</td></tr>
-<tr><td>Nidwald</td><td>42 953</td></tr>
-<tr><td>Glaris</td><td>45 847</td></tr>
-<tr><td>Zoug</td><td>252 261</td></tr>
-<tr><td>Fribourg</td><td>262 836</td></tr>
-<tr><td>Soleure</td><td>216 920</td></tr>
-<tr><td>Bâle-Ville</td><td>788 129</td></tr>
-<tr><td>Bâle-Campagne</td><td>425 739</td></tr>
-<tr><td>Schaffhouse</td><td>162 710</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>16 970</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>9 902</td></tr>
-<tr><td>St-Gall</td><td>481 384</td></tr>
-<tr><td>Grisons</td><td>417 509</td></tr>
-<tr><td>Argovie</td><td>740 183</td></tr>
-<tr><td>Thurgovie</td><td>308 325</td></tr>
-<tr><td>Tessin</td><td>1 158 978</td></tr>
-<tr><td>Vaud</td><td>1 369 536</td></tr>
-<tr><td>Valais</td><td>444 932</td></tr>
-<tr><td>Neuchâtel</td><td>282 209</td></tr>
-<tr><td>Genève</td><td>2 562 799</td></tr>
-<tr><td>Jura</td><td>108 906</td></tr>
-<tr><td>Tous les cantons</td><td>13 569 836</td></tr>
+<tr><td>Zurich</td><td>2 240 150</td></tr>
+<tr><td>Berne</td><td>648 672</td></tr>
+<tr><td>Lucerne</td><td>325 679</td></tr>
+<tr><td>Uri</td><td>32 605</td></tr>
+<tr><td>Schwyz</td><td>166 161</td></tr>
+<tr><td>Obwald</td><td>41 015</td></tr>
+<tr><td>Nidwald</td><td>44 873</td></tr>
+<tr><td>Glaris</td><td>46 987</td></tr>
+<tr><td>Zoug</td><td>255 480</td></tr>
+<tr><td>Fribourg</td><td>264 683</td></tr>
+<tr><td>Soleure</td><td>230 905</td></tr>
+<tr><td>Bâle-Ville</td><td>811 957</td></tr>
+<tr><td>Bâle-Campagne</td><td>431 747</td></tr>
+<tr><td>Schaffhouse</td><td>162 691</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>18 554</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>9 831</td></tr>
+<tr><td>St-Gall</td><td>503 958</td></tr>
+<tr><td>Grisons</td><td>432 239</td></tr>
+<tr><td>Argovie</td><td>764 852</td></tr>
+<tr><td>Thurgovie</td><td>324 755</td></tr>
+<tr><td>Tessin</td><td>1 173 651</td></tr>
+<tr><td>Vaud</td><td>1 377 616</td></tr>
+<tr><td>Valais</td><td>435 256</td></tr>
+<tr><td>Neuchâtel</td><td>284 132</td></tr>
+<tr><td>Genève</td><td>2 676 292</td></tr>
+<tr><td>Jura</td><td>111 223</td></tr>
+<tr><td>Tous les cantons</td><td>13 815 964</td></tr>
 </table>
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 13 et 14)
 
 ## Fortune déterminante des personnes physiques
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 3 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-4]: Nouvelle teneur selon le ch. II al. 3 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. II al. 2 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 ### 1. Définition des variables et des paramètres
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image8.png)</sub> Recettes de l’impôt sur la fortune des cantons et des communes
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image9.png)</sub> Fortune nette
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image10.png)</sub> Recettes de l’impôt sur le revenu des cantons et des communes
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image11.png)</sub> Recettes de l’impôt à la source des cantons et des communes
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image12.png)</sub> Part cantonale à l’impôt fédéral direct en vertu de l’art. 196, al. 1, LIFD[^annex4-lvlu1-lvl1-1]
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image8.png)</sub> Recettes de l’impôt sur la fortune des cantons et des communes
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image9.png)</sub> Fortune nette
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image10.png)</sub> Recettes de l’impôt sur le revenu des cantons et des communes
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image11.png)</sub> Recettes de l’impôt à la source des cantons et des communes
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image12.png)</sub> Part cantonale à l’impôt fédéral direct en vertu de l’art. 196, al. 1, LIFD[^annex4-lvlu1-lvl1-1]
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image13.png)</sub> Recettes de l’impôt fédéral direct sur le revenu
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image13.png)</sub> Recettes de l’impôt fédéral direct sur le revenu
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image14.png)</sub> Revenus déterminants des personnes physiques
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image14.png)</sub> Revenus déterminants des personnes physiques
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image15.png)</sub> Revenus déterminants des personnes physiques imposées à la source
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image15.png)</sub> Revenus déterminants des personnes physiques imposées à la source
 
 [^annex4-lvlu1-lvl1-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
@@ -1085,102 +1090,102 @@ Annexe 4*[^t-4]*
 
 - 2\.1 Le facteur alpha mentionné à l’art. 13 se calcule d’après la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image16.png)
 
 - 2\.2 Le facteur alpha est calculé annuellement et se fonde sur les six dernières années de calcul disponibles.
 
-### 3. Facteur alpha pour les années de calcul 2016 à 2018
+### 3. Facteur alpha pour les années de calcul 2017 à 2019
 
 <table>
-<tr><td></td><td>2016</td><td>2017</td><td>2018</td></tr>
-<tr><td>Facteur alpha</td><td>0.014</td><td>0.014</td><td>0.015</td></tr>
+<tr><th></th><th>2017</th><th>2018</th><th>2019</th></tr>
+<tr><td>Facteur alpha</td><td>0.014</td><td>0.015</td><td>0.015</td></tr>
 </table>
 
 ### 4. Commentaire du calcul du facteur alpha
 
 Le facteur alpha se calcule en divisant l’exploitation fiscale de la fortune par l’exploitation fiscale des revenus. L’exploitation fiscale de la fortune correspond aux recettes totales de l’impôt sur la fortune des cantons et des communes divisées par la totalité des fortunes nettes en Suisse. L’exploitation fiscale des revenus se détermine quant à elle en divisant les recettes totales de l’impôt sur le revenu et de l’impôt à la source perçues par les cantons et les communes, y compris la part cantonale à l’impôt fédéral direct sur le revenu, par les revenus déterminants des personnes physiques selon l’annexe 2 et par les revenus déterminants imposés à la source selon l’annexe 3.
 
-### 5. Valeurs cantonales pour l’année de référence 2022
+### 5. Valeurs cantonales pour l’année de référence 2023
 
 <table>
 <tr><th>Canton</th><th>Fortune déterminante des personnes physiques (en milliers de francs)</th></tr>
-<tr><td>Zurich</td><td>6 067 788</td></tr>
-<tr><td>Berne</td><td>2 543 378</td></tr>
-<tr><td>Lucerne</td><td>1 344 698</td></tr>
-<tr><td>Uri</td><td>101 926</td></tr>
-<tr><td>Schwyz</td><td>1 726 839</td></tr>
-<tr><td>Obwald</td><td>196 017</td></tr>
-<tr><td>Nidwald</td><td>505 884</td></tr>
-<tr><td>Glaris</td><td>115 639</td></tr>
-<tr><td>Zoug</td><td>1 031 130</td></tr>
-<tr><td>Fribourg</td><td>451 115</td></tr>
-<tr><td>Soleure</td><td>404 547</td></tr>
-<tr><td>Bâle-Ville</td><td>882 968</td></tr>
-<tr><td>Bâle-Campagne</td><td>657 637</td></tr>
-<tr><td>Schaffhouse</td><td>209 428</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>217 711</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>84 324</td></tr>
-<tr><td>St-Gall</td><td>1 625 145</td></tr>
-<tr><td>Grisons</td><td>930 399</td></tr>
-<tr><td>Argovie</td><td>1 772 452</td></tr>
-<tr><td>Thurgovie</td><td>861 194</td></tr>
-<tr><td>Tessin</td><td>1 053 574</td></tr>
-<tr><td>Vaud</td><td>2 190 622</td></tr>
-<tr><td>Valais</td><td>806 118</td></tr>
-<tr><td>Neuchâtel</td><td>282 250</td></tr>
-<tr><td>Genève</td><td>1 913 579</td></tr>
-<tr><td>Jura</td><td>107 877</td></tr>
-<tr><td>Total des cantons</td><td>28 084 237</td></tr>
+<tr><td>Zurich</td><td>6 459 471</td></tr>
+<tr><td>Berne</td><td>2 698 759</td></tr>
+<tr><td>Lucerne</td><td>1 473 459</td></tr>
+<tr><td>Uri</td><td>110 961</td></tr>
+<tr><td>Schwyz</td><td>1 871 038</td></tr>
+<tr><td>Obwald</td><td>216 994</td></tr>
+<tr><td>Nidwald</td><td>557 012</td></tr>
+<tr><td>Glaris</td><td>121 629</td></tr>
+<tr><td>Zoug</td><td>1 155 943</td></tr>
+<tr><td>Fribourg</td><td>480 726</td></tr>
+<tr><td>Soleure</td><td>424 631</td></tr>
+<tr><td>Bâle-Ville</td><td>955 042</td></tr>
+<tr><td>Bâle-Campagne</td><td>703 753</td></tr>
+<tr><td>Schaffhouse</td><td>225 049</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>225 759</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>95 375</td></tr>
+<tr><td>St-Gall</td><td>1 745 420</td></tr>
+<tr><td>Grisons</td><td>994 345</td></tr>
+<tr><td>Argovie</td><td>1 885 740</td></tr>
+<tr><td>Thurgovie</td><td>929 357</td></tr>
+<tr><td>Tessin</td><td>1 149 468</td></tr>
+<tr><td>Vaud</td><td>2 307 878</td></tr>
+<tr><td>Valais</td><td>856 490</td></tr>
+<tr><td>Neuchâtel</td><td>294 011</td></tr>
+<tr><td>Genève</td><td>2 104 537</td></tr>
+<tr><td>Jura</td><td>111 698</td></tr>
+<tr><td>Total des cantons</td><td>30 154 544</td></tr>
 </table>
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 16)
 
 ## Bénéfices déterminants des personnes morales sans statut fiscal spécial
 
-[^t-5]: Nouvelle teneur selon le ch. I al. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
-### Valeurs cantonales pour l’année de référence 2022
+### Valeurs cantonales pour l’année de référence 2023
 
 <table>
 <tr><th>Canton</th><th>Bénéfices déterminants des personnes morales sans statut fiscal spécial (en milliers de francs)</th></tr>
-<tr><td>Zurich</td><td>16 829 069</td></tr>
-<tr><td>Berne</td><td>7 506 769</td></tr>
-<tr><td>Lucerne</td><td>3 576 666</td></tr>
-<tr><td>Uri</td><td>219 376</td></tr>
-<tr><td>Schwyz</td><td>1 969 091</td></tr>
-<tr><td>Obwald</td><td>290 671</td></tr>
-<tr><td>Nidwald</td><td>528 508</td></tr>
-<tr><td>Glaris</td><td>221 336</td></tr>
-<tr><td>Zoug</td><td>3 327 779</td></tr>
-<tr><td>Fribourg</td><td>1 640 110</td></tr>
-<tr><td>Soleure</td><td>1 120 095</td></tr>
-<tr><td>Bâle-Ville</td><td>2 757 889</td></tr>
-<tr><td>Bâle-Campagne</td><td>1 321 501</td></tr>
-<tr><td>Schaffhouse</td><td>432 612</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>372 183</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>124 296</td></tr>
-<tr><td>Saint-Gall</td><td>3 947 171</td></tr>
-<tr><td>Grisons</td><td>874 611</td></tr>
-<tr><td>Argovie</td><td>3 326 077</td></tr>
-<tr><td>Thurgovie</td><td>1 443 928</td></tr>
-<tr><td>Tessin</td><td>2 679 719</td></tr>
-<tr><td>Vaud</td><td>4 079 170</td></tr>
-<tr><td>Valais</td><td>1 243 545</td></tr>
-<tr><td>Neuchâtel</td><td>950 720</td></tr>
-<tr><td>Genève</td><td>4 930 192</td></tr>
-<tr><td>Jura</td><td>441 466</td></tr>
-<tr><td>Tous les cantons</td><td>66 154 552</td></tr>
+<tr><td>Zurich</td><td>17 400 346</td></tr>
+<tr><td>Berne</td><td>7 304 781</td></tr>
+<tr><td>Lucerne</td><td>3 542 833</td></tr>
+<tr><td>Uri</td><td>207 465</td></tr>
+<tr><td>Schwyz</td><td>1 643 385</td></tr>
+<tr><td>Obwald</td><td>285 955</td></tr>
+<tr><td>Nidwald</td><td>516 748</td></tr>
+<tr><td>Glaris</td><td>218 145</td></tr>
+<tr><td>Zoug</td><td>3 447 976</td></tr>
+<tr><td>Fribourg</td><td>1 547 695</td></tr>
+<tr><td>Soleure</td><td>1 183 877</td></tr>
+<tr><td>Bâle-Ville</td><td>3 449 679</td></tr>
+<tr><td>Bâle-Campagne</td><td>1 362 684</td></tr>
+<tr><td>Schaffhouse</td><td>467 739</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>376 731</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>136 039</td></tr>
+<tr><td>Saint-Gall</td><td>4 086 815</td></tr>
+<tr><td>Grisons</td><td>892 055</td></tr>
+<tr><td>Argovie</td><td>3 387 100</td></tr>
+<tr><td>Thurgovie</td><td>1 577 950</td></tr>
+<tr><td>Tessin</td><td>2 558 404</td></tr>
+<tr><td>Vaud</td><td>4 399 493</td></tr>
+<tr><td>Valais</td><td>1 253 414</td></tr>
+<tr><td>Neuchâtel</td><td>1 040 130</td></tr>
+<tr><td>Genève</td><td>5 030 796</td></tr>
+<tr><td>Jura</td><td>487 548</td></tr>
+<tr><td>Tous les cantons</td><td>67 805 781</td></tr>
 </table>
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 (art. 18 à 20)
 
-## Revenu déterminant des personnes morales jouissant d’un statut fiscal spécial
+## Bénéfices déterminants des personnes morales jouissant d’un statut fiscal spécial
 
-[^t-6]: Nouvelle teneur selon le ch. II al. 3 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-6]: Nouvelle teneur selon le ch. II al. 3 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. II al. 2 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 ### Facteurs de majoration pour le calcul des facteurs bêta
 
@@ -1198,7 +1203,7 @@ Annexe 6*[^t-6]*
 
 Les facteurs de majoration selon l’art. 20, al. 2, sont calculés selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image17.png)
 
 ### 3. Valeur des paramètres à partir de l’année de référence 2020
 
@@ -1223,163 +1228,163 @@ Les facteurs de majoration selon l’art. 20, al. 2, sont calculés selon la for
 
 Les facteurs bêta sont calculés à partir d’un facteur de base β\* et d’un facteur de majoration. Le facteur de majoration est calculé de la façon suivante. Dans un premier temps, le taux de l’impôt fédéral direct prélevé sur le bénéfice, TDBG, est multiplié par la part cantonale, π (TDBG π). Une correction est ensuite effectuée à hauteur de la part déjà contenue dans le facteur de base (1–β\*). Une nouvelle correction (1–ϖ) tient compte du fait que la part cantonale à l’impôt fédéral direct équivaut, du moins en partie, à une commission de perception accordée aux cantons. Dans une dernière étape, ce taux fiscal corrigé est divisé par le taux fiscal standardisé de l’année 2019, SST<sub>2019</sub>, pour obtenir par extrapolation un facteur applicable aux bénéfices.
 
-### 6. Valeurs cantonales pour l’année de référence 2022
+### 6. Valeurs cantonales pour l’année de référence 2023
 
 <table>
 <tr><th>Canton</th><th>Bénéfices déterminants des personnes morales jouissant d’un statut spécial (en milliers de francs)</th></tr>
-<tr><td>Zurich</td><td>997 590</td></tr>
-<tr><td>Berne</td><td>747 541</td></tr>
-<tr><td>Lucerne</td><td>236 872</td></tr>
-<tr><td>Uri</td><td>896</td></tr>
-<tr><td>Schwyz</td><td>186 795</td></tr>
-<tr><td>Obwald</td><td>15 449</td></tr>
-<tr><td>Nidwald</td><td>39 020</td></tr>
-<tr><td>Glaris</td><td>32 513</td></tr>
-<tr><td>Zoug</td><td>1 495 177</td></tr>
-<tr><td>Fribourg</td><td>438 189</td></tr>
-<tr><td>Soleure</td><td>25 013</td></tr>
-<tr><td>Bâle-Ville</td><td>454 269</td></tr>
-<tr><td>Bâle-Campagne</td><td>317 545</td></tr>
-<tr><td>Schaffhouse</td><td>519 358</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>18 104</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>1 183</td></tr>
-<tr><td>Saint-Gall</td><td>330 029</td></tr>
-<tr><td>Grisons</td><td>125 493</td></tr>
-<tr><td>Argovie</td><td>59 056</td></tr>
-<tr><td>Thurgovie</td><td>11 596</td></tr>
-<tr><td>Tessin</td><td>195 760</td></tr>
-<tr><td>Vaud</td><td>2 531 846</td></tr>
-<tr><td>Valais</td><td>7 202</td></tr>
-<tr><td>Neuchâtel</td><td>568 853</td></tr>
-<tr><td>Genève</td><td>1 542 603</td></tr>
-<tr><td>Jura</td><td>20 831</td></tr>
-<tr><td>Tous les cantons</td><td>10 918 782</td></tr>
+<tr><td>Zurich</td><td>1 263 060</td></tr>
+<tr><td>Berne</td><td>792 505</td></tr>
+<tr><td>Lucerne</td><td>426 943</td></tr>
+<tr><td>Uri</td><td>874</td></tr>
+<tr><td>Schwyz</td><td>199 861</td></tr>
+<tr><td>Obwald</td><td>19 455</td></tr>
+<tr><td>Nidwald</td><td>44 441</td></tr>
+<tr><td>Glaris</td><td>40 247</td></tr>
+<tr><td>Zoug</td><td>1 863 924</td></tr>
+<tr><td>Fribourg</td><td>388 577</td></tr>
+<tr><td>Soleure</td><td>30 110</td></tr>
+<tr><td>Bâle-Ville</td><td>683 283</td></tr>
+<tr><td>Bâle-Campagne</td><td>445 667</td></tr>
+<tr><td>Schaffhouse</td><td>626 788</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>22 603</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>785</td></tr>
+<tr><td>Saint-Gall</td><td>347 162</td></tr>
+<tr><td>Grisons</td><td>109 601</td></tr>
+<tr><td>Argovie</td><td>63 311</td></tr>
+<tr><td>Thurgovie</td><td>14 320</td></tr>
+<tr><td>Tessin</td><td>138 213</td></tr>
+<tr><td>Vaud</td><td>2 592 476</td></tr>
+<tr><td>Valais</td><td>7 314</td></tr>
+<tr><td>Neuchâtel</td><td>363 272</td></tr>
+<tr><td>Genève</td><td>1 921 417</td></tr>
+<tr><td>Jura</td><td>20 108</td></tr>
+<tr><td>Tous les cantons</td><td>12 426 318</td></tr>
 </table>
 
-Annexe 7*[^t-7]*
+Annexe 7[^t-7]
 
 (art. 21)
 
 ## Répartition fiscale déterminante de l’impôt fédéral direct
 
-[^t-7]: Nouvelle teneur selon le ch. I al. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-7]: Nouvelle teneur selon le ch. II al. 1 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
-### Valeurs cantonales pour l’année de référence 2022
+### Valeurs cantonales pour l’année de référence 2023
 
 <table>
 <tr><th>Canton</th><th>Répartition fiscale déterminante de l’impôt fédéral direct (en milliers de francs)</th></tr>
-<tr><td>Zurich</td><td>–77 877</td></tr>
-<tr><td>Berne</td><td>–229 135</td></tr>
-<tr><td>Lucerne</td><td>–68 603</td></tr>
-<tr><td>Uri</td><td>7 143</td></tr>
-<tr><td>Schwyz</td><td>–4 076</td></tr>
-<tr><td>Obwald</td><td>755</td></tr>
-<tr><td>Nidwald</td><td>208</td></tr>
-<tr><td>Glaris</td><td>8 011</td></tr>
-<tr><td>Zoug</td><td>–29 466</td></tr>
-<tr><td>Fribourg</td><td>–144 791</td></tr>
-<tr><td>Soleure</td><td>40 779</td></tr>
-<tr><td>Bâle-Ville</td><td>–116 041</td></tr>
-<tr><td>Bâle-Campagne</td><td>–6 104</td></tr>
-<tr><td>Schaffhouse</td><td>13 621</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>–4 308</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>1 548</td></tr>
-<tr><td>Saint-Gall</td><td>1 496</td></tr>
-<tr><td>Grisons</td><td>92 420</td></tr>
-<tr><td>Argovie</td><td>126 378</td></tr>
-<tr><td>Thurgovie</td><td>9 834</td></tr>
-<tr><td>Tessin</td><td>74 224</td></tr>
-<tr><td>Vaud</td><td>11 065</td></tr>
-<tr><td>Valais</td><td>94 714</td></tr>
-<tr><td>Neuchâtel</td><td>89 445</td></tr>
-<tr><td>Genève</td><td>96 609</td></tr>
-<tr><td>Jura</td><td>20 616</td></tr>
-<tr><td>Tous les cantons</td><td>8 467</td></tr>
+<tr><td>Zurich</td><td>–59 968</td></tr>
+<tr><td>Berne</td><td>–329 048</td></tr>
+<tr><td>Lucerne</td><td>–69 616</td></tr>
+<tr><td>Uri</td><td>3 268</td></tr>
+<tr><td>Schwyz</td><td>–11 317</td></tr>
+<tr><td>Obwald</td><td>2 519</td></tr>
+<tr><td>Nidwald</td><td>–950</td></tr>
+<tr><td>Glaris</td><td>7 031</td></tr>
+<tr><td>Zoug</td><td>–35 735</td></tr>
+<tr><td>Fribourg</td><td>–110 125</td></tr>
+<tr><td>Soleure</td><td>47 315</td></tr>
+<tr><td>Bâle-Ville</td><td>–136 444</td></tr>
+<tr><td>Bâle-Campagne</td><td>–2 432</td></tr>
+<tr><td>Schaffhouse</td><td>17 829</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>–4 982</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>783</td></tr>
+<tr><td>Saint-Gall</td><td>10 037</td></tr>
+<tr><td>Grisons</td><td>106 491</td></tr>
+<tr><td>Argovie</td><td>183 981</td></tr>
+<tr><td>Thurgovie</td><td>7 475</td></tr>
+<tr><td>Tessin</td><td>72 131</td></tr>
+<tr><td>Vaud</td><td>48 911</td></tr>
+<tr><td>Valais</td><td>105 946</td></tr>
+<tr><td>Neuchâtel</td><td>67 036</td></tr>
+<tr><td>Genève</td><td>86 469</td></tr>
+<tr><td>Jura</td><td>18 631</td></tr>
+<tr><td>Tous les cantons</td><td>25 236</td></tr>
 </table>
 
-Annexe 7a*[^t-8]*
+Annexe 7a[^t-8]
 
 (art. 22*a*)
 
 ## Contributions reçues par les cantons à faible potentiel de ressources
 
-[^t-8]: Introduite par le ch. II al. 2 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-8]: Introduite par le ch. II al. 2 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. II al. 2 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 ### 1. Définition des variables et des paramètres
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image18.png)</sub> Contribution reçue par le canton à faible potentiel de ressources, *r*
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image19.png)</sub> Moyenne, pour les années de calcul, de la population résidante permanente et non permanente moyenne du canton à faible potentiel de ressources, *r*
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image20.png)</sub> Indice de ressources du canton à faible potentiel de ressources, *r*
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image21.png)</sub> Indice de la dotation minimale garantie
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image22.png) Recettes fiscales standardisées de la Suisse par habitant
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image18.png)</sub> Contribution reçue par le canton à faible potentiel de ressources, *r*
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image19.png)</sub> Moyenne, pour les années de calcul, de la population résidante permanente et non permanente moyenne du canton à faible potentiel de ressources, *r*
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image20.png)</sub> Indice de ressources du canton à faible potentiel de ressources, *r*
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image21.png)</sub> Indice de la dotation minimale garantie
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image22.png) Recettes fiscales standardisées de la Suisse par habitant
 
 ### 2. Calcul
 
 - 2\.1 La contribution reçue par un canton à faible potentiel de ressources, *r*, est calculée de la manière suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image23.png)
 
 - 2\.2 La valeur des paramètres *p* et *t* se calcule d’après la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image24.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image25.png)
 
-### 3. Valeur des paramètres pour l’année de référence 2022
+### 3. Valeur des paramètres pour l’année de référence 2023
 
 <table>
-<tr><td>Paramètre</td><td>Valeur</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image26.png)</td><td>9 239</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image27.png)</td><td>86.5</td></tr>
+<tr><th>Paramètre</th><th>Valeur</th></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image26.png)</sub></td><td>9 418</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image27.png)</td><td>86.5</td></tr>
 </table>
 
 ### 4. Commentaire du calcul
 
-4.1 Le calcul est fonction de la valeur de l’indice de ressources. Lorsque l’indice de ressources est inférieur à 70 points, le montant de la compensation est fixé de telle sorte que le canton affiche, après la péréquation, exactement la dotation minimale garantie, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image28.png)</sub>.
+4.1 Le calcul est fonction de la valeur de l’indice de ressources. Lorsque l’indice de ressources est inférieur à 70 points, le montant de la compensation est fixé de telle sorte que le canton affiche, après la péréquation, exactement la dotation minimale garantie, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image28.png)</sub>.
 
-4.2 Lorsque l’indice de ressources est supérieur ou égal à 70 points, l’indice résultant après la péréquation affiche une croissance progressive. Lorsque l’indice de ressources vaut exactement 70 points, une hausse d’une unité des recettes fiscales standardisées doit réduire le montant de la compensation à raison de 90 % de cette unité (taux d’écrêtage marginal). Le taux de progressivité est défini par les paramètres p et t, qui dépendent de la hauteur de la dotation minimale garantie <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image28.png)</sub>, de la limite de 70 points au-delà de laquelle la progressivité prend effet et du taux d’écrêtage marginal de 90 %.
+4.2 Lorsque l’indice de ressources est supérieur ou égal à 70 points, l’indice résultant après la péréquation affiche une croissance progressive. Lorsque l’indice de ressources vaut exactement 70 points, une hausse d’une unité des recettes fiscales standardisées doit réduire le montant de la compensation à raison de 90 % de cette unité (taux d’écrêtage marginal). Le taux de progressivité est défini par les paramètres p et t, qui dépendent de la hauteur de la dotation minimale garantie <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image28.png)</sub>, de la limite de 70 points au-delà de laquelle la progressivité prend effet et du taux d’écrêtage marginal de 90 %.
 
-### 5. Montants reçus pour l’année 2022
+### 5. Montants reçus pour l’année 2023
 
 <table>
 <tr><th>Canton</th><th>Indice des ressources</th><th></th><th colspan="3">Péréquation des ressources en francs</th><th></th></tr>
 <tr><th></th><th></th><th colspan="2">horizontale</th><th>verticale</th><th colspan="2">Total</th></tr>
-<tr><td>Zurich</td><td>123.3</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Berne</td><td>79.5</td><td colspan="2">337 404 050</td><td>506 106 075</td><td colspan="2">843 510 125</td></tr>
-<tr><td>Lucerne</td><td>91.3</td><td colspan="2">32 728 476</td><td>49 092 714</td><td colspan="2">81 821 190</td></tr>
-<tr><td>Uri</td><td>71.8</td><td colspan="2">20 204 219</td><td>30 306 329</td><td colspan="2">50 510 548</td></tr>
-<tr><td>Schwyz</td><td>177.9</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Obwald</td><td>102.4</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Nidwald</td><td>155.5</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Glaris</td><td>72.7</td><td colspan="2">21 203 692</td><td>31 805 538</td><td colspan="2">53 009 230</td></tr>
-<tr><td>Zoug</td><td>255.4</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Fribourg</td><td>72.0</td><td colspan="2">171 837 213</td><td>257 755 819</td><td colspan="2">429 593 032</td></tr>
-<tr><td>Soleure</td><td>71.1</td><td colspan="2">156 186 139</td><td>234 279 209</td><td colspan="2">390 465 348</td></tr>
-<tr><td>Bâle-Ville</td><td>141.9</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Bâle-Campagne</td><td>97.3</td><td colspan="2">3 427 905</td><td>5 141 857</td><td colspan="2">8 569 762</td></tr>
-<tr><td>Schaffhouse</td><td>95.3</td><td colspan="2">2 415 637</td><td>3 623 455</td><td colspan="2">6 039 092</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>85.3</td><td colspan="2">10 489 660</td><td>15 734 490</td><td colspan="2">26 224 150</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>96.3</td><td colspan="2">326 973</td><td>490 460</td><td colspan="2">817 433</td></tr>
-<tr><td>St-Gall</td><td>83.0</td><td colspan="2">122 497 882</td><td>183 746 823</td><td colspan="2">306 244 705</td></tr>
-<tr><td>Grisons</td><td>82.9</td><td colspan="2">49 980 457</td><td>74 970 685</td><td colspan="2">124 951 142</td></tr>
-<tr><td>Argovie</td><td>81.6</td><td colspan="2">184 573 360</td><td>276 860 040</td><td colspan="2">461 433 400</td></tr>
-<tr><td>Thurgovie</td><td>79.3</td><td colspan="2">91 057 499</td><td>136 586 249</td><td colspan="2">227 643 748</td></tr>
-<tr><td>Tessin</td><td>96.0</td><td colspan="2">8 079 888</td><td>12 119 832</td><td colspan="2">20 199 720</td></tr>
-<tr><td>Vaud</td><td>99.6</td><td colspan="2">473 584</td><td>710 376</td><td colspan="2">1 183 960</td></tr>
-<tr><td>Valais</td><td>64.7</td><td colspan="2">280 645 962</td><td>420 968 943</td><td colspan="2">701 614 905</td></tr>
-<tr><td>Neuchâtel</td><td>80.1</td><td colspan="2">55 779 487</td><td>83 669 230</td><td colspan="2">139 448 717</td></tr>
-<tr><td>Genève</td><td>136.6</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Jura</td><td>65.6</td><td colspan="2">56 738 456</td><td>85 107 684</td><td colspan="2">141 846 140</td></tr>
-<tr><td>Total des cantons</td><td>100.0</td><td colspan="2">1 606 050 539</td><td>2 409 075 808</td><td colspan="2">4 015 126 347</td></tr>
+<tr><td>Zurich</td><td>123.1</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Berne</td><td>77.7</td><td colspan="2">397 383 676</td><td>596 075 515</td><td colspan="2">993 459 191</td></tr>
+<tr><td>Lucerne</td><td>92.5</td><td colspan="2">26 410 462</td><td>39 615 692</td><td colspan="2">66 026 154</td></tr>
+<tr><td>Uri</td><td>70.9</td><td colspan="2">21 687 429</td><td>32 531 144</td><td colspan="2">54 218 573</td></tr>
+<tr><td>Schwyz</td><td>173.2</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Obwald</td><td>107.1</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Nidwald</td><td>158.1</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Glaris</td><td>72.9</td><td colspan="2">21 409 496</td><td>32 114 245</td><td colspan="2">53 523 741</td></tr>
+<tr><td>Zoug</td><td>265.9</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Fribourg</td><td>70.2</td><td colspan="2">195 440 993</td><td>293 161 490</td><td colspan="2">488 602 483</td></tr>
+<tr><td>Soleure</td><td>70.8</td><td colspan="2">163 140 263</td><td>244 710 394</td><td colspan="2">407 850 657</td></tr>
+<tr><td>Bâle-Ville</td><td>153.1</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Bâle-Campagne</td><td>97.5</td><td colspan="2">3 166 662</td><td>4 749 993</td><td colspan="2">7 916 655</td></tr>
+<tr><td>Schaffhouse</td><td>98.9</td><td colspan="2">230 019</td><td>345 029</td><td colspan="2">575 048</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>85.2</td><td colspan="2">10 782 157</td><td>16 173 235</td><td colspan="2">26 955 392</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>101.2</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>St-Gall</td><td>83.6</td><td colspan="2">117 331 224</td><td>175 996 836</td><td colspan="2">293 328 060</td></tr>
+<tr><td>Grisons</td><td>83.2</td><td colspan="2">49 532 238</td><td>74 298 356</td><td colspan="2">123 830 594</td></tr>
+<tr><td>Argovie</td><td>81.1</td><td colspan="2">198 788 930</td><td>298 183 396</td><td colspan="2">496 972 326</td></tr>
+<tr><td>Thurgovie</td><td>80.1</td><td colspan="2">87 792 071</td><td>131 688 106</td><td colspan="2">219 480 177</td></tr>
+<tr><td>Tessin</td><td>93.4</td><td colspan="2">18 423 191</td><td>27 634 786</td><td colspan="2">46 057 977</td></tr>
+<tr><td>Vaud</td><td>99.0</td><td colspan="2">2 055 893</td><td>3 083 839</td><td colspan="2">5 139 732</td></tr>
+<tr><td>Valais</td><td>63.8</td><td colspan="2">299 977 880</td><td>449 966 820</td><td colspan="2">749 944 700</td></tr>
+<tr><td>Neuchâtel</td><td>77.5</td><td colspan="2">69 538 978</td><td>104 308 467</td><td colspan="2">173 847 445</td></tr>
+<tr><td>Genève</td><td>137.4</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Jura</td><td>66.7</td><td colspan="2">54 785 220</td><td>82 177 830</td><td colspan="2">136 963 050</td></tr>
+<tr><td>Total des cantons</td><td>100.0</td><td colspan="2">1 737 876 782</td><td>2 606 815 173</td><td colspan="2">4 344 691 955</td></tr>
 </table>
 
-Annexe 8*[^t-9]*
+Annexe 8[^t-9]
 
 (art. 24)
 
 ## Contributions versées par les cantons à fort potentiel de ressources
 
-[^t-9]: Mise à jour par le ch. II al. 2 de l’O du 4 nov. 2015 ([RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), le ch. II al. 4 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) et le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-9]: Mise à jour par le ch. II al. 2 de l’O du 4 nov. 2015 ([RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), le ch. II al. 4 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) et le ch. II al. 2 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 ### 1. Définition des variables et des paramètres
 
@@ -1393,54 +1398,54 @@ Annexe 8*[^t-9]*
 
 La contribution de *q*, canton à fort potentiel de ressources, est calculée de la manière suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image29.png)
 
 ### 3. Commentaire du calcul
 
 Pour fixer la contribution de *q*, canton à fort potentiel de ressources, la part de son indice de ressources qui dépasse 100 points, soit RI<sub>q</sub>–100, est multipliée par sa population résidante permanente et non permanente moyenne, e<sub>q</sub>. Cette valeur est ensuite mise en relation avec la somme des valeurs de tous les cantons n à fort potentiel de ressources,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image30.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image30.png).
 
 Ainsi s’obtient sa part à A, la contribution totale des cantons à fort potentiel de ressources.
 
-### 4. Montants versés pour l’année 2022
+### 4. Montants versés pour l’année 2023
 
 <table>
 <tr><th>Canton</th><th>Indice des ressources</th><th>Contributions en francs</th></tr>
-<tr><td>Zurich</td><td>123.3</td><td>588 685 510</td></tr>
-<tr><td>Berne</td><td>79.5</td><td>0</td></tr>
-<tr><td>Lucerne</td><td>91.3</td><td>0</td></tr>
-<tr><td>Uri</td><td>71.8</td><td>0</td></tr>
-<tr><td>Schwyz</td><td>177.9</td><td>205 569 658</td></tr>
-<tr><td>Obwald</td><td>102.4</td><td>1 542 497</td></tr>
-<tr><td>Nidwald</td><td>155.5</td><td>40 049 604</td></tr>
-<tr><td>Glaris</td><td>72.7</td><td>0</td></tr>
-<tr><td>Zoug</td><td>255.4</td><td>328 668 752</td></tr>
-<tr><td>Fribourg</td><td>72.0</td><td>0</td></tr>
-<tr><td>Soleure</td><td>71.1</td><td>0</td></tr>
-<tr><td>Bâle-Ville</td><td>141.9</td><td>137 818 140</td></tr>
-<tr><td>Bâle-Campagne</td><td>97.3</td><td>0</td></tr>
-<tr><td>Schaffhouse</td><td>95.3</td><td>0</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>85.3</td><td>0</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>96.3</td><td>0</td></tr>
-<tr><td>Saint-Gall</td><td>83.0</td><td>0</td></tr>
-<tr><td>Grisons</td><td>82.9</td><td>0</td></tr>
-<tr><td>Argovie</td><td>81.6</td><td>0</td></tr>
-<tr><td>Thurgovie</td><td>79.3</td><td>0</td></tr>
-<tr><td>Tessin</td><td>96.0</td><td>0</td></tr>
-<tr><td>Vaud</td><td>99.6</td><td>0</td></tr>
-<tr><td>Valais</td><td>64.7</td><td>0</td></tr>
-<tr><td>Neuchâtel</td><td>80.1</td><td>0</td></tr>
-<tr><td>Genève</td><td>136.6</td><td>303 716 378</td></tr>
-<tr><td>Jura</td><td>65.6</td><td>0</td></tr>
-<tr><td>Tous les cantons</td><td>100.0</td><td>1 606 050 539</td></tr>
+<tr><td>Zurich</td><td>123.1</td><td>610 776 298</td></tr>
+<tr><td>Berne</td><td>77.7</td><td>0</td></tr>
+<tr><td>Lucerne</td><td>92.5</td><td>0</td></tr>
+<tr><td>Uri</td><td>70.9</td><td>0</td></tr>
+<tr><td>Schwyz</td><td>173.2</td><td>202 316 780</td></tr>
+<tr><td>Obwald</td><td>107.1</td><td>4 694 363</td></tr>
+<tr><td>Nidwald</td><td>158.1</td><td>43 684 545</td></tr>
+<tr><td>Glaris</td><td>72.9</td><td>0</td></tr>
+<tr><td>Zoug</td><td>265.9</td><td>368 273 367</td></tr>
+<tr><td>Fribourg</td><td>70.2</td><td>0</td></tr>
+<tr><td>Soleure</td><td>70.8</td><td>0</td></tr>
+<tr><td>Bâle-Ville</td><td>153.1</td><td>182 180 409</td></tr>
+<tr><td>Bâle-Campagne</td><td>97.5</td><td>0</td></tr>
+<tr><td>Schaffhouse</td><td>98.9</td><td>0</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>85.2</td><td>0</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>101.2</td><td>329 363</td></tr>
+<tr><td>Saint-Gall</td><td>83.6</td><td>0</td></tr>
+<tr><td>Grisons</td><td>83.2</td><td>0</td></tr>
+<tr><td>Argovie</td><td>81.1</td><td>0</td></tr>
+<tr><td>Thurgovie</td><td>80.1</td><td>0</td></tr>
+<tr><td>Tessin</td><td>93.4</td><td>0</td></tr>
+<tr><td>Vaud</td><td>99.0</td><td>0</td></tr>
+<tr><td>Valais</td><td>63.8</td><td>0</td></tr>
+<tr><td>Neuchâtel</td><td>77.5</td><td>0</td></tr>
+<tr><td>Genève</td><td>137.4</td><td>325 621 657</td></tr>
+<tr><td>Jura</td><td>66.7</td><td>0</td></tr>
+<tr><td>Tous les cantons</td><td>100.0</td><td>1 737 876 782</td></tr>
 </table>
 
-Annexe 9*[^t-10]*
+Annexe 9[^t-10]
 
 [^t-10]: Abrogée par le ch. II al. 1 de l’O du 6 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 
-Annexe 10*[^t-11]*
+Annexe 10[^t-11]
 
 (art. 29)
 
@@ -1452,59 +1457,59 @@ Annexe 10*[^t-11]*
 - 2\. La base de données pour la détermination du territoire des agglomérations principales est constituée par les données hectométriques du recensement.
 - 3\. Par ensemble de quartiers adjacents, on entend les hectares habités contigus.
 
-Annexe 11*[^t-12]*
+Annexe 11[^t-12]
 
 [^t-12]: Abrogée par le ch. II al. 3 de l’O du 4 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 
-Annexe 12*[^t-13]*
+Annexe 12[^t-13]
 
 (art. 33)
 
-## Compensation des charges dues à des facteurs géo‑topographiques: paiements effectués au titre de la péréquation pour 2022
+## Compensation des charges dues à des facteurs géo‑topographiques: paiements effectués au titre de la péréquation pour 2023
 
-[^t-13]: Nouvelle teneur selon le ch. I al. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-13]: Nouvelle teneur selon le ch. II al. 1 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 <table>
 <tr><th>Canton</th><th></th><th></th><th colspan="5">Paiements péréquatifs en francs</th><th></th><th></th></tr>
 <tr><th></th><th colspan="3">Altitude</th><th>Déclivité du terrain</th><th>Structure de l’habitat</th><th>Faible densité démographique</th><th colspan="3">Total</th></tr>
 <tr><td>Zurich</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Berne</td><td colspan="3">1 924 941</td><td>1 339 050</td><td>20 800 683</td><td>4 059 003</td><td colspan="3">28 123 677</td></tr>
-<tr><td>Lucerne</td><td colspan="3">0</td><td>0</td><td>6 007 519</td><td>0</td><td colspan="3">6 007 519</td></tr>
-<tr><td>Uri</td><td colspan="3">519 856</td><td>5 677 824</td><td>1 540 700</td><td>3 757 928</td><td colspan="3">11 496 309</td></tr>
-<tr><td>Schwyz</td><td colspan="3">2 548 391</td><td>2 101 354</td><td>1 703 350</td><td>575 235</td><td colspan="3">6 928 330</td></tr>
-<tr><td>Obwald</td><td colspan="3">494 703</td><td>2 842 374</td><td>1 489 558</td><td>1 288 190</td><td colspan="3">6 114 824</td></tr>
-<tr><td>Nidwald</td><td colspan="3">0</td><td>527 563</td><td>584 480</td><td>288 180</td><td colspan="3">1 400 223</td></tr>
-<tr><td>Glaris</td><td colspan="3">0</td><td>3 285 902</td><td>5 831</td><td>2 047 474</td><td colspan="3">5 339 206</td></tr>
+<tr><td>Berne</td><td colspan="3">1 984 196</td><td>1 168 953</td><td>21 615 176</td><td>4 242 346</td><td colspan="3">29 010 670</td></tr>
+<tr><td>Lucerne</td><td colspan="3">0</td><td>0</td><td>5 739 963</td><td>0</td><td colspan="3">5 739 963</td></tr>
+<tr><td>Uri</td><td colspan="3">556 565</td><td>5 803 205</td><td>1 533 667</td><td>3 848 326</td><td colspan="3">11 741 764</td></tr>
+<tr><td>Schwyz</td><td colspan="3">2 614 151</td><td>2 127 118</td><td>1 559 489</td><td>580 344</td><td colspan="3">6 881 102</td></tr>
+<tr><td>Obwald</td><td colspan="3">511 710</td><td>2 896 288</td><td>1 470 776</td><td>1 319 677</td><td colspan="3">6 198 452</td></tr>
+<tr><td>Nidwald</td><td colspan="3">0</td><td>532 859</td><td>587 764</td><td>292 923</td><td colspan="3">1 413 547</td></tr>
+<tr><td>Glaris</td><td colspan="3">0</td><td>3 349 311</td><td>0</td><td>2 095 833</td><td colspan="3">5 445 144</td></tr>
 <tr><td>Zoug</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Fribourg</td><td colspan="3">2 031 933</td><td>0</td><td>6 298 692</td><td>534 826</td><td colspan="3">8 865 451</td></tr>
+<tr><td>Fribourg</td><td colspan="3">2 142 545</td><td>0</td><td>6 817 046</td><td>516 270</td><td colspan="3">9 475 862</td></tr>
 <tr><td>Soleure</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
 <tr><td>Bâle-Ville</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
 <tr><td>Bâle-Campagne</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
 <tr><td>Schaffhouse</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td colspan="3">17 762 089</td><td>192 343</td><td>2 291 458</td><td>0</td><td colspan="3">20 245 890</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td colspan="3">5 236 667</td><td>372 179</td><td>2 672 513</td><td>396 920</td><td colspan="3">8 678 279</td></tr>
-<tr><td>Saint-Gall</td><td colspan="3">0</td><td>0</td><td>1 867 763</td><td>0</td><td colspan="3">1 867 763</td></tr>
-<tr><td>Grisons</td><td colspan="3">39 083 297</td><td>62 557 194</td><td>9 774 415</td><td>25 669 849</td><td colspan="3">137 084 756</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td colspan="3">18 262 879</td><td>190 744</td><td>2 287 107</td><td>0</td><td colspan="3">20 740 730</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td colspan="3">5 301 325</td><td>377 692</td><td>3 066 082</td><td>405 195</td><td colspan="3">9 150 295</td></tr>
+<tr><td>Saint-Gall</td><td colspan="3">0</td><td>0</td><td>1 867 261</td><td>0</td><td colspan="3">1 867 261</td></tr>
+<tr><td>Grisons</td><td colspan="3">40 025 227</td><td>64 609 966</td><td>9 667 858</td><td>26 268 709</td><td colspan="3">140 571 760</td></tr>
 <tr><td>Argovie</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Thurgovie</td><td colspan="3">0</td><td>0</td><td>3 159 577</td><td>0</td><td colspan="3">3 159 577</td></tr>
-<tr><td>Tessin</td><td colspan="3">0</td><td>10 015 219</td><td>0</td><td>4 701 774</td><td colspan="3">14 716 994</td></tr>
-<tr><td>Vaud</td><td colspan="3">107 042</td><td>0</td><td>0</td><td>0</td><td colspan="3">107 042</td></tr>
-<tr><td>Valais</td><td colspan="3">29 115 153</td><td>29 480 324</td><td>488 017</td><td>14 889 937</td><td colspan="3">73 973 431</td></tr>
-<tr><td>Neuchâtel</td><td colspan="3">20 694 614</td><td>2 079 472</td><td>38 216</td><td>0</td><td colspan="3">22 812 303</td></tr>
+<tr><td>Thurgovie</td><td colspan="3">0</td><td>0</td><td>3 295 617</td><td>0</td><td colspan="3">3 295 617</td></tr>
+<tr><td>Tessin</td><td colspan="3">0</td><td>10 173 334</td><td>0</td><td>4 867 556</td><td colspan="3">15 040 890</td></tr>
+<tr><td>Vaud</td><td colspan="3">142 156</td><td>0</td><td>0</td><td>0</td><td colspan="3">142 156</td></tr>
+<tr><td>Valais</td><td colspan="3">30 158 663</td><td>30 137 509</td><td>586 631</td><td>15 222 206</td><td colspan="3">76 105 009</td></tr>
+<tr><td>Neuchâtel</td><td colspan="3">20 803 475</td><td>2 115 588</td><td>75 371</td><td>0</td><td colspan="3">22 994 434</td></tr>
 <tr><td>Genève</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Jura</td><td colspan="3">952 111</td><td>0</td><td>1 512 626</td><td>2 026 083</td><td colspan="3">4 490 819</td></tr>
-<tr><td>Tous les cantons</td><td colspan="3">120 470 798</td><td>120 470 798</td><td>60 235 399</td><td>60 235 399</td><td colspan="3">361 412 393</td></tr>
+<tr><td>Jura</td><td colspan="3">979 675</td><td>0</td><td>1 571 474</td><td>2 081 899</td><td colspan="3">4 633 047</td></tr>
+<tr><td>Tous les cantons</td><td colspan="3">123 482 568</td><td>123 482 568</td><td>61 741 284</td><td>61 741 284</td><td colspan="3">370 447 703</td></tr>
 </table>
 
-Annexe 13*[^t-14]*
+Annexe 13[^t-14]
 
 (art. 35)
 
 ## Charges excessives déterminantes liées à la structure de la population
 
-[^t-14]: Mise à jour par le ch. II al. 2 de l’O du 4 nov. 2015 ([RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), le ch. II al. 4 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) et le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-14]: Mise à jour par le ch. II al. 2 des O du 4 nov. 2015 ([RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) et du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
-Calcul de l’indice des charges
+### Calcul de l’indice des charges
 
 a) Variables et paramètres:
 
@@ -1512,9 +1517,9 @@ a) Variables et paramètres:
 <tr><td>TSA<sub>k</sub></td><td>Indicateur «pauvreté» du canton *k*</td></tr>
 <tr><td>TSS<sub>k</sub></td><td>Indicateur «structure d’âge» du canton *k*</td></tr>
 <tr><td>TSI<sub>k</sub></td><td>Indicateur «intégration des étrangers» du canton *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image31.png)</td><td>Moyenne des indicateurs «pauvreté» des cantons</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image32.png)</td><td>Moyenne des indicateurs «structure d’âge» des cantons</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image33.png)</td><td>Moyenne des indicateurs «intégration des étrangers» des cantons</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image31.png)</td><td>Moyenne des indicateurs «pauvreté» des cantons</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image32.png)</td><td>Moyenne des indicateurs «structure d’âge» des cantons</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image33.png)</td><td>Moyenne des indicateurs «intégration des étrangers» des cantons</td></tr>
 <tr><td>s<sub>TSA</sub></td><td>Écart standard entre les indicateurs «pauvreté» des cantons</td></tr>
 <tr><td>s<sub>TSS</sub></td><td>Écart standard entre les indicateurs «structure d’âge» des cantons</td></tr>
 <tr><td>s<sub>TSI</sub></td><td>Écart standard entre les indicateurs «intégration des étrangers» des cantons</td></tr>
@@ -1529,21 +1534,21 @@ a) Variables et paramètres:
 
 b) Les indicateurs standardisés sont calculés de la manière suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image34.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image34.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image35.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image35.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image36.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image36.png).
 
 La standardisation est effectuée en divisant par l’écart standard les écarts entre les indicateurs et la moyenne suisse correspondante.
 
 c) L’indice des charges excessives liées à la structure de la population d’un canton *k* est calculé de la manière suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image37.png)
 
 d) Les pondérations sont calculées à l’aide d’une analyse en composantes principales. La formule suivante s’utilise par conséquent pour les diverses pondérations:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image38.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image38.png),
 
 où
 
@@ -1551,21 +1556,21 @@ où
 - λ<sub>ZS</sub> valeur propre maximale de la matrice de corrélation des indicateurs standardisés
 - x<sub>ZS</sub> vecteur propre de la valeur propre λ<sub>ZS</sub>
 
-e) Pondérations pour l’année 2022:
+e) Pondérations pour l’année 2023:
 
 <table>
 <tr><td>μ<sub>ZSA</sub></td><td>0.56</td></tr>
-<tr><td>μ<sub>ZSS</sub></td><td>0.12</td></tr>
-<tr><td>μ<sub>ZSI</sub></td><td>0.51</td></tr>
+<tr><td>μ<sub>ZSS</sub></td><td>0.04</td></tr>
+<tr><td>μ<sub>ZSI</sub></td><td>0.54</td></tr>
 </table>
 
-Annexe 14*[^t-15]*
+Annexe 14[^t-15]
 
 (art. 37)
 
 ## Charges excessives déterminantes des villes-centres
 
-[^t-15]: Mise à jour par le ch. II al. 2 de l’O du 4 nov. 2015 ([RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), le ch. II al. 4 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) et le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-15]: Mise à jour par le ch. II al. 2 des O du 4 nov. 2015 ([RO 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) et du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 ### 1. Calcul de l’indice des charges des communes
 
@@ -1575,9 +1580,9 @@ a) Variables et paramètres:
 <tr><td>TFG<sub>g</sub></td><td>Indicateur «taille de la commune» de la commune g</td></tr>
 <tr><td>TFS<sub>g</sub></td><td>Indicateur «densité de l’habitat» de la commune g</td></tr>
 <tr><td>TFB<sub>g</sub></td><td>Indicateur «taux d’emploi» de la commune g</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image39.png)</td><td>Moyenne des indicateurs «taille de la commune» des communes</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image40.png)</td><td>Moyenne des indicateurs «densité de l’habitat» des communes</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image41.png)</td><td>Moyenne des indicateurs «taux d’emploi» des communes</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image39.png)</td><td>Moyenne des indicateurs «taille de la commune» des communes</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image40.png)</td><td>Moyenne des indicateurs «densité de l’habitat» des communes</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image41.png)</td><td>Moyenne des indicateurs «taux d’emploi» des communes</td></tr>
 <tr><td>s<sub>TFG</sub></td><td>Écart standard entre les indicateurs «taille de la commune» des communes</td></tr>
 <tr><td>s<sub>TFS</sub></td><td>Écart standard entre les indicateurs «densité de l’habitat» des communes</td></tr>
 <tr><td>s<sub>TSB</sub></td><td>Écart standard entre les indicateurs «taux d’emploi» des communes</td></tr>
@@ -1592,21 +1597,21 @@ a) Variables et paramètres:
 
 b) Les indicateurs standardisés sont calculés de la manière suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image42.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image42.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image43.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image43.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image44.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image44.png).
 
 La standardisation est effectuée en divisant par l’écart standard les écarts entre les indicateurs et la moyenne suisse correspondante.
 
 c) L’indice des charges excessives liées à la problématique des villes-centres d’une commune est calculé de la manière suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image45.png)
 
 d) Les pondérations sont calculées à l’aide d’une analyse en composantes principales. La formule suivante s’utilise par conséquent pour les diverses pondérations:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image46.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image46.png),
 
 où
 
@@ -1614,11 +1619,11 @@ où
 - λ<sub>ZF</sub> valeur propre maximale de la matrice de corrélation des indicateurs standardisés
 - x<sub>ZF</sub> vecteur propre de la valeur propre λ<sub>ZF</sub>
 
-e) Pondérations pour l’année 2022:
+e) Pondérations pour l’année 2023:
 
 <table>
-<tr><td>μ<sub>ZFG</sub></td><td>0.47</td></tr>
-<tr><td>μ<sub>ZFS</sub></td><td>0.49</td></tr>
+<tr><td>μ<sub>ZFG</sub></td><td>0.48</td></tr>
+<tr><td>μ<sub>ZFS</sub></td><td>0.50</td></tr>
 <tr><td>μ<sub>ZFB</sub></td><td>0.33</td></tr>
 </table>
 
@@ -1636,20 +1641,20 @@ b) Calcul
 
 L’indice des charges d’un canton correspond à la moyenne, pondérée par la population, des indices des charges de ses communes. Il s’obtient en divisant par la population résidante permanente du canton la somme des indices des charges des communes du canton multipliés par leur population résidante permanente.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image47.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image47.png)
 
-Annexe 15*[^t-16]*
+Annexe 15[^t-16]
 
 (art. 40)
 
-## Compensation des charges dues à des facteurs socio‑démographiques: paiements effectués au titre de la péréquation pour l’année 2022
+## Compensation des charges dues à des facteurs socio‑démographiques: paiements effectués au titre de la péréquation pour l’année 2023
 
-[^t-16]: Nouvelle teneur selon le ch. I al. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-16]: Nouvelle teneur selon le ch. II al. 1 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 <table>
 <tr><th>Canton</th><th></th><th colspan="3">Paiements péréquatifs en francs</th><th></th></tr>
 <tr><th></th><th colspan="2">Charges excessives liées à la structure de la population</th><th>Charges excessives liées aux villes-centres</th><th colspan="2">Total</th></tr>
-<tr><td>Zurich</td><td colspan="2">15 494 524</td><td>93 506 943</td><td colspan="2">109 001 467</td></tr>
+<tr><td>Zurich</td><td colspan="2">29 963 948</td><td>95 479 434</td><td colspan="2">125 443 382</td></tr>
 <tr><td>Berne</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Lucerne</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Uri</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
@@ -1657,28 +1662,28 @@ Annexe 15*[^t-16]*
 <tr><td>Obwald</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Nidwald</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Glaris</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Zoug</td><td colspan="2">1 939 001</td><td>0</td><td colspan="2">1 939 001</td></tr>
-<tr><td>Fribourg</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Soleure</td><td colspan="2">8 315 748</td><td>0</td><td colspan="2">8 315 748</td></tr>
-<tr><td>Bâle-Ville</td><td colspan="2">45 924 973</td><td>24 011 773</td><td colspan="2">69 936 746</td></tr>
+<tr><td>Zoug</td><td colspan="2">3 279 987</td><td>0</td><td colspan="2">3 279 987</td></tr>
+<tr><td>Fribourg</td><td colspan="2">1 044 649</td><td>0</td><td colspan="2">1 044 649</td></tr>
+<tr><td>Soleure</td><td colspan="2">9 249 877</td><td>0</td><td colspan="2">9 249 877</td></tr>
+<tr><td>Bâle-Ville</td><td colspan="2">41 972 247</td><td>24 352 435</td><td colspan="2">66 324 682</td></tr>
 <tr><td>Bâle-Campagne</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Schaffhouse</td><td colspan="2">683 401</td><td>0</td><td colspan="2">683 401</td></tr>
+<tr><td>Schaffhouse</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Appenzell Rh.-Ext.</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Appenzell Rh.-Int.</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Saint-Gall</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Grisons</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Argovie</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Thurgovie</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Tessin</td><td colspan="2">6 364 370</td><td>0</td><td colspan="2">6 364 370</td></tr>
-<tr><td>Vaud</td><td colspan="2">115 023 986</td><td>4 868 870</td><td colspan="2">119 892 856</td></tr>
-<tr><td>Valais</td><td colspan="2">12 789 809</td><td>0</td><td colspan="2">12 789 809</td></tr>
-<tr><td>Neuchâtel</td><td colspan="2">15 001 183</td><td>0</td><td colspan="2">15 001 183</td></tr>
-<tr><td>Genève</td><td colspan="2">112 737 934</td><td>44 749 878</td><td colspan="2">157 487 812</td></tr>
+<tr><td>Tessin</td><td colspan="2">383 863</td><td>0</td><td colspan="2">383 863</td></tr>
+<tr><td>Vaud</td><td colspan="2">119 420 906</td><td>5 019 327</td><td colspan="2">124 440 233</td></tr>
+<tr><td>Valais</td><td colspan="2">9 671 626</td><td>0</td><td colspan="2">9 671 626</td></tr>
+<tr><td>Neuchâtel</td><td colspan="2">13 515 156</td><td>0</td><td colspan="2">13 515 156</td></tr>
+<tr><td>Genève</td><td colspan="2">111 796 210</td><td>45 298 038</td><td colspan="2">157 094 248</td></tr>
 <tr><td>Jura</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Tous les cantons</td><td colspan="2">334 274 929</td><td>167 137 464</td><td colspan="2">501 412 393</td></tr>
+<tr><td>Tous les cantons</td><td colspan="2">340 298 469</td><td>170 149 234</td><td colspan="2">510 447 703</td></tr>
 </table>
 
-Annexe 16*[^t-17]*
+Annexe 16[^t-17]
 
 (art. 42)
 
@@ -1698,15 +1703,15 @@ Lorsque les données manquent ou sont inexploitables, les éléments du potentie
 <tr><td>EK<sub>k,T</sub></td><td>Nombre de titulaires d’une autorisation de séjour de courte durée (de moins de douze mois ou saisonniers) du canton *k* pour l’année *T*</td></tr>
 <tr><td>ECH<sub>k,T</sub></td><td>Nombre de citoyens suisses dans la population résidante permanente du canton *k* pour l’année *T*</td></tr>
 <tr><td>EN<sub>k,T</sub></td><td>Nombre d’étrangers titulaires d’une autorisation d’établissement du canton *k* pour l’année *T*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image48.png)</td><td>Pondération du revenu brut des frontaliers en provenance de l’État voisin *X* du canton *k* pour l’année *T* selon l’annexe 3</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image49.png)</td><td>Revenu brut des frontaliers en provenance de l’État voisin *X* du canton *k* pour l’année *T* selon l’annexe 3</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image48.png)</td><td>Pondération du revenu brut des frontaliers en provenance de l’État voisin *X* du canton *k* pour l’année *T* selon l’annexe 3</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image49.png)</td><td>Revenu brut des frontaliers en provenance de l’État voisin *X* du canton *k* pour l’année *T* selon l’annexe 3</td></tr>
 <tr><td>RV<sub>k,T</sub></td><td>Fortune nette par habitant du canton *k* pour l’année *T*</td></tr>
 <tr><td>EV<sub>k,T</sub></td><td>Produit de l’impôt sur la fortune par habitant du canton *k* pour l’année *T*</td></tr>
 <tr><td>tv<sub>k,T</sub></td><td>Charge fiscale moyenne sur la fortune du canton *k* pour l’année de calcul *T*</td></tr>
 <tr><td>GK<sub>k,T</sub></td><td>Somme des bénéfices entièrement imposés des personnes morales par habitant du canton *k* pour l’année de calcul *T*</td></tr>
 <tr><td>EJP<sub>k,T</sub></td><td>Produit de l’impôt sur le bénéfice par habitant du canton *k* pour l’année de calcul *T*</td></tr>
 <tr><td>GDB<sub>k,T</sub></td><td>Bénéfices selon l’impôt fédéral direct (après déduction pour participation) par habitant du canton *k* pour l’année de calcul *T*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image50.png)</td><td>Facteur bêta du type de société mixte pour l’année de calcul *T* selon l’annexe 6</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image50.png)</td><td>Facteur bêta du type de société mixte pour l’année de calcul *T* selon l’annexe 6</td></tr>
 <tr><td>WGDB<sub>t</sub></td><td>Taux de croissance des bénéfices selon l’impôt fédéral direct de l’ensemble de la Suisse pour l’année *t*</td></tr>
 </table>
 
@@ -1721,26 +1726,26 @@ Lorsque les données manquent ou sont inexploitables, les éléments du potentie
 
 <table>
 <tr><th>Cas</th><th>Composante du potentiel de ressources</th><th colspan="3">Équation de régression servant à déterminer les coefficients</th></tr>
-<tr><td>1</td><td>Revenu déterminant des personnes physiques</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image51.png)</td></tr>
-<tr><td></td><td></td><td>pour</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image52.png)</td></tr>
-<tr><td>2</td><td>Revenus déterminants soumis à l’impôt à la source</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image53.png)</td></tr>
-<tr><td></td><td></td><td>avec</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image54.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image55.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image56.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image57.png)</td></tr>
-<tr><td>3</td><td>Fortune déterminante des personnes physiques</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image58.png)</td></tr>
-<tr><td></td><td></td><td>avec</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image59.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image60.png)</td></tr>
+<tr><td>1</td><td>Revenu déterminant des personnes physiques</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image51.png)</td></tr>
+<tr><td></td><td></td><td>pour</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image52.png)</td></tr>
+<tr><td>2</td><td>Revenus déterminants soumis à l’impôt à la source</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image53.png)</td></tr>
+<tr><td></td><td></td><td>avec</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image54.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image55.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image56.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image57.png)</td></tr>
+<tr><td>3</td><td>Fortune déterminante des personnes physiques</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image58.png)</td></tr>
+<tr><td></td><td></td><td>avec</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image59.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image60.png)</td></tr>
 <tr><td>4</td><td>Bénéfices déterminants des personnes morales</td><td colspan="3">1<sup>re</sup> étape:</td></tr>
-<tr><td></td><td></td><td colspan="3">*<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image61.png)</sub>*</td></tr>
-<tr><td></td><td></td><td>avec</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image62.png)</sub></td></tr>
+<tr><td></td><td></td><td colspan="3">*<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image61.png)</sub>*</td></tr>
+<tr><td></td><td></td><td>avec</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image62.png)</sub></td></tr>
 <tr><td></td><td></td><td colspan="3">2<sup>e</sup> étape:</td></tr>
-<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image63.png)</sub></td></tr>
-<tr><td>5</td><td>Bénéfices selon l’impôt fédéral direct</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image64.png)</td></tr>
-<tr><td></td><td></td><td>pour</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image65.png)</td></tr>
+<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image63.png)</sub></td></tr>
+<tr><td>5</td><td>Bénéfices selon l’impôt fédéral direct</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image64.png)</td></tr>
+<tr><td></td><td></td><td>pour</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image65.png)</td></tr>
 </table>
 
-Annexe 17*[^t-18]*
+Annexe 17[^t-18]
 
 (art. 46)
 
@@ -1774,25 +1779,25 @@ Annexe 17*[^t-18]*
 [^annex17-lvlu1-1]: [[RO 1996 1918](https://fedlex.data.admin.ch/eli/oc/1996/1918_1918_1918), [2001 1911](https://fedlex.data.admin.ch/eli/oc/2001/293), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 144 [4301](https://fedlex.data.admin.ch/eli/oc/2006/660), [2007 681](https://fedlex.data.admin.ch/eli/oc/2007/136)annexe ch. I 4]. Voir actuellement la LF du 6 oct. 2006 sur la politique régionale ([RS 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136)).
 [^annex17-lvlu1-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 
-Annexe 18*[^t-19]*
+Annexe 18[^t-19]
 
 (art. 56)
 
 ## Compensation des cas de rigueur
 
-[^t-19]: Mise à jour par le ch. I 2 de l’O du 15 nov. 2017 ([RO 2017 6287](https://fedlex.data.admin.ch/eli/oc/2017/694)), le ch. II al. 4 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) et le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-19]: Mise à jour par le ch. I 2 de l’O du 15 nov. 2017 ([RO 2017 6287](https://fedlex.data.admin.ch/eli/oc/2017/694)) et le ch. II al. 2 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 ### 1. Variables et paramètres
 
 <table>
 <tr><td>gw<sub>k</sub></td><td>Valeur limite que la diminution des charges d’un canton *k* devra au moins atteindre, en pourcentage de ses recettes fiscales standardisées</td></tr>
 <tr><td>ε</td><td>Facteur servant à déterminer, en fonction de l’indice de ressources, l’allégement visé à travers la compensation des cas de rigueur</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image66.png)</td><td>Recettes fiscales standardisées du canton *k* pour l’année 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image67.png)</td><td>Recettes fiscales standardisées du canton *k* pour l’année 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image68.png)</td><td>Indice de ressources du canton *k* pour l’année 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image69.png)</td><td>Indice de ressources du canton *k* pour l’année 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image70.png)</td><td>Résultat net du canton *k* dans le bilan global 2004 (valeurs positives: charge supplémentaire; valeurs négatives: allégement)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image71.png)</td><td>Résultat net du canton *k* dans le bilan global 2005 (valeurs positives: charge supplémentaire; valeurs négatives: allégement)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image66.png)</td><td>Recettes fiscales standardisées du canton *k* pour l’année 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image67.png)</td><td>Recettes fiscales standardisées du canton *k* pour l’année 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image68.png)</td><td>Indice de ressources du canton *k* pour l’année 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image69.png)</td><td>Indice de ressources du canton *k* pour l’année 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image70.png)</td><td>Résultat net du canton *k* dans le bilan global 2004 (valeurs positives: charge supplémentaire; valeurs négatives: allégement)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image71.png)</td><td>Résultat net du canton *k* dans le bilan global 2005 (valeurs positives: charge supplémentaire; valeurs négatives: allégement)</td></tr>
 <tr><td>nes<sub>k</sub></td><td>Résultat net du canton *k* en pourcentage de ses recettes fiscales standardisées (valeurs positives: charge supplémentaire; valeurs négatives: allégement)</td></tr>
 <tr><td>HA<sub>k</sub></td><td>Montant initial de la contribution allouée au canton *k* au titre de la compensation des cas de rigueur</td></tr>
 </table>
@@ -1801,7 +1806,7 @@ Annexe 18*[^t-19]*
 
 La valeur limite déterminante pour la perception de la compensation des cas de rigueur est calculée de la manière suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image72.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image72.png)
 
 La valeur limite déterminante d’un canton s’obtient en multipliant le facteur epsilon, ε, par l’écart moyen entre l’indice cantonal de ressources et la moyenne suisse des années 2004 et 2005. Les valeurs négatives indiquent un allégement, les valeurs positives une charge supplémentaire. La formule employée fait que la valeur limite sera négative, et donc qu’un allégement est visé pour les cantons affichant un potentiel de ressources plus faible que la moyenne.
 
@@ -1809,7 +1814,7 @@ La valeur limite déterminante d’un canton s’obtient en multipliant le facte
 
 Le résultat net du bilan global d’un canton, en pourcentage de ses recettes fiscales standardisées, est calculé de la manière suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image73.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image73.png)
 
 Les valeurs négatives indiquent un allégement net, les valeurs positives une charge supplémentaire.
 
@@ -1819,20 +1824,20 @@ Le montant initial de la contribution allouée à un canton *k* au titre de la c
 
 <table>
 <tr><td>Conditions (si …,)</td><td></td><td>Compensation des cas de rigueur (alors …)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image74.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image75.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image76.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image74.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image75.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image76.png)</td></tr>
 </table>
 
 *Condition 1:* Si la moyenne de l’indice de ressources pour les années 2004 et 2005 est supérieure à la moyenne suisse,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image77.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image77.png),
 
 le canton n’aura pas droit à la compensation des cas de rigueur.
 
 *Condition 2:* Si la valeur moyenne de l’indice de ressources pour les années 2004 et 2005 est inférieure à la moyenne suisse,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image78.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image78.png),
 
 deux cas sont à distinguer:
 
@@ -1840,17 +1845,17 @@ deux cas sont à distinguer:
 
 *Cas 2b:* Si le résultat net du bilan global en pourcentage des recettes fiscales standardisées est supérieur à la valeur limite (c.-à-d. si l’allégement net est inférieur à l’allégement visé ou si le canton affiche une charge supplémentaire nette), le canton aura droit à la compensation des cas de rigueur à hauteur de la différence entre le résultat net et la valeur limite, multipliée par la valeur moyenne de ses recettes fiscales standardisées pour les années 2004 et 2005:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image79.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image79.png)
 
 ### 5. Détermination du facteur epsilon
 
 Le facteur ε est déterminé de façon à ce que la somme de tous les paiements effectués au titre de la péréquation au nombre *h* de cantons *z*, ayant droit à la compensation des cas de rigueur, soit égale à *H*, le montant total à disposition pour la compensation des cas de rigueur:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image80.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image80.png).
 
 Le paramètre *z* désigne les cantons à faible potentiel de ressources qui ont droit à la compensation des cas de rigueur, soit tous les cantons *k* pour lesquels le résultat net en pourcentage des recettes fiscales standardisées affiche une valeur supérieure à la valeur limite:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/fr/xml/image/image81.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20230101/fr/xml/image/image81.png).
 
 Le facteur ε est déterminé à l’aide d’une procédure d’itération.
 
@@ -1889,84 +1894,84 @@ Le facteur ε est déterminé à l’aide d’une procédure d’itération.
 <tr><td>Tous les cantons</td><td>100.0</td><td></td><td></td><td></td><td>430 454 285</td></tr>
 </table>
 
-### 7. Contributions pour l’année 2022: actualisation du droit à l’octroi sur la base de l’indice des ressources pour 2022
+### 7. Contributions pour l’année 2023: actualisation du droit à l’octroi sur la base de l’indice des ressources pour 2023
 
 \+ = charge pour le canton; – = allégement pour le canton
 
 <table>
 <tr><th>Canton</th><th>Indice des ressources</th><th></th><th colspan="3">Compensation actualisée des cas de rigueur en francs</th><th></th></tr>
 <tr><th></th><th></th><th colspan="2">Montants reçus</th><th>Montants versés</th><th colspan="2">Solde</th></tr>
-<tr><td>Zurich</td><td>123.3</td><td colspan="2">0</td><td>12 816 983</td><td colspan="2">12 816 983</td></tr>
-<tr><td>Berne</td><td>79.5</td><td colspan="2">–33 887 529</td><td>10 000 475</td><td colspan="2">–23 887 054</td></tr>
-<tr><td>Lucerne</td><td>91.3</td><td colspan="2">–15 399 845</td><td>3 625 940</td><td colspan="2">–11 773 905</td></tr>
-<tr><td>Uri</td><td>71.8</td><td colspan="2">0</td><td>363 473</td><td colspan="2">363 473</td></tr>
-<tr><td>Schwyz</td><td>177.9</td><td colspan="2">0</td><td>1 341 842</td><td colspan="2">1 341 842</td></tr>
-<tr><td>Obwald</td><td>102.4</td><td colspan="2">0</td><td>337 683</td><td colspan="2">337 683</td></tr>
-<tr><td>Nidwald</td><td>155.5</td><td colspan="2">0</td><td>387 310</td><td colspan="2">387 310</td></tr>
-<tr><td>Glaris</td><td>72.7</td><td colspan="2">–5 309 692</td><td>402 336</td><td colspan="2">–4 907 356</td></tr>
-<tr><td>Zoug</td><td>255.4</td><td colspan="2">0</td><td>1 030 318</td><td colspan="2">1 030 318</td></tr>
-<tr><td>Fribourg</td><td>72.0</td><td colspan="2">–89 232 020</td><td>2 489 726</td><td colspan="2">–86 742 294</td></tr>
-<tr><td>Soleure</td><td>71.1</td><td colspan="2">0</td><td>2 546 825</td><td colspan="2">2 546 825</td></tr>
-<tr><td>Bâle-Ville</td><td>141.9</td><td colspan="2">0</td><td>2 020 491</td><td colspan="2">2 020 491</td></tr>
-<tr><td>Bâle-Campagne</td><td>97.3</td><td colspan="2">0</td><td>2 698 859</td><td colspan="2">2 698 859</td></tr>
-<tr><td>Schaffhouse</td><td>95.3</td><td colspan="2">0</td><td>769 293</td><td colspan="2">769 293</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>85.3</td><td colspan="2">0</td><td>560 509</td><td colspan="2">560 509</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>96.3</td><td colspan="2">0</td><td>153 623</td><td colspan="2">153 623</td></tr>
-<tr><td>Saint-Gall</td><td>83.0</td><td colspan="2">0</td><td>4 707 539</td><td colspan="2">4 707 539</td></tr>
-<tr><td>Grisons</td><td>82.9</td><td colspan="2">0</td><td>1 979 719</td><td colspan="2">1 979 719</td></tr>
-<tr><td>Argovie</td><td>81.6</td><td colspan="2">0</td><td>5 675 197</td><td colspan="2">5 675 197</td></tr>
-<tr><td>Thurgovie</td><td>79.3</td><td colspan="2">0</td><td>2 387 782</td><td colspan="2">2 387 782</td></tr>
-<tr><td>Tessin</td><td>96.0</td><td colspan="2">0</td><td>3 222 980</td><td colspan="2">3 222 980</td></tr>
-<tr><td>Vaud</td><td>99.6</td><td colspan="2">0</td><td>6 594 873</td><td colspan="2">6 594 873</td></tr>
-<tr><td>Valais</td><td>64.7</td><td colspan="2">0</td><td>2 866 357</td><td colspan="2">2 866 357</td></tr>
-<tr><td>Neuchâtel</td><td>80.1</td><td colspan="2">–70 741 272</td><td>1 749 358</td><td colspan="2">–68 991 914</td></tr>
-<tr><td>Genève</td><td>136.6</td><td colspan="2">0</td><td>4 285 788</td><td colspan="2">4 285 788</td></tr>
-<tr><td>Jura</td><td>65.6</td><td colspan="2">–12 601 910</td><td>708 810</td><td colspan="2">–11 893 100</td></tr>
-<tr><td>Tous les cantons</td><td>100.0</td><td colspan="2">–227 172 268</td><td>75 724 089</td><td colspan="2">–151 448 179</td></tr>
+<tr><td>Zurich</td><td>123.1</td><td colspan="2">0</td><td>11 831 061</td><td colspan="2">11 831 061</td></tr>
+<tr><td>Berne</td><td>77.7</td><td colspan="2">–31 280 796</td><td>9 231 208</td><td colspan="2">–22 049 588</td></tr>
+<tr><td>Lucerne</td><td>92.5</td><td colspan="2">–14 215 241</td><td>3 347 022</td><td colspan="2">–10 868 219</td></tr>
+<tr><td>Uri</td><td>70.9</td><td colspan="2">0</td><td>335 513</td><td colspan="2">335 513</td></tr>
+<tr><td>Schwyz</td><td>173.2</td><td colspan="2">0</td><td>1 238 623</td><td colspan="2">1 238 623</td></tr>
+<tr><td>Obwald</td><td>107.1</td><td colspan="2">0</td><td>311 708</td><td colspan="2">311 708</td></tr>
+<tr><td>Nidwald</td><td>158.1</td><td colspan="2">0</td><td>357 517</td><td colspan="2">357 517</td></tr>
+<tr><td>Glaris</td><td>72.9</td><td colspan="2">–4 901 254</td><td>371 387</td><td colspan="2">–4 529 867</td></tr>
+<tr><td>Zoug</td><td>265.9</td><td colspan="2">0</td><td>951 063</td><td colspan="2">951 063</td></tr>
+<tr><td>Fribourg</td><td>70.2</td><td colspan="2">–82 368 018</td><td>2 298 209</td><td colspan="2">–80 069 809</td></tr>
+<tr><td>Soleure</td><td>70.8</td><td colspan="2">0</td><td>2 350 916</td><td colspan="2">2 350 916</td></tr>
+<tr><td>Bâle-Ville</td><td>153.1</td><td colspan="2">0</td><td>1 865 068</td><td colspan="2">1 865 068</td></tr>
+<tr><td>Bâle-Campagne</td><td>97.5</td><td colspan="2">0</td><td>2 491 254</td><td colspan="2">2 491 254</td></tr>
+<tr><td>Schaffhouse</td><td>98.9</td><td colspan="2">0</td><td>710 116</td><td colspan="2">710 116</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>85.2</td><td colspan="2">0</td><td>517 393</td><td colspan="2">517 393</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>101.2</td><td colspan="2">0</td><td>141 805</td><td colspan="2">141 805</td></tr>
+<tr><td>Saint-Gall</td><td>83.6</td><td colspan="2">0</td><td>4 345 421</td><td colspan="2">4 345 421</td></tr>
+<tr><td>Grisons</td><td>83.2</td><td colspan="2">0</td><td>1 827 433</td><td colspan="2">1 827 433</td></tr>
+<tr><td>Argovie</td><td>81.1</td><td colspan="2">0</td><td>5 238 644</td><td colspan="2">5 238 644</td></tr>
+<tr><td>Thurgovie</td><td>80.1</td><td colspan="2">0</td><td>2 204 107</td><td colspan="2">2 204 107</td></tr>
+<tr><td>Tessin</td><td>93.4</td><td colspan="2">0</td><td>2 975 058</td><td colspan="2">2 975 058</td></tr>
+<tr><td>Vaud</td><td>99.0</td><td colspan="2">0</td><td>6 087 575</td><td colspan="2">6 087 575</td></tr>
+<tr><td>Valais</td><td>63.8</td><td colspan="2">0</td><td>2 645 868</td><td colspan="2">2 645 868</td></tr>
+<tr><td>Neuchâtel</td><td>77.5</td><td colspan="2">–65 299 636</td><td>1 614 792</td><td colspan="2">–63 684 844</td></tr>
+<tr><td>Genève</td><td>137.4</td><td colspan="2">0</td><td>3 956 112</td><td colspan="2">3 956 112</td></tr>
+<tr><td>Jura</td><td>66.7</td><td colspan="2">–11 632 533</td><td>654 286</td><td colspan="2">–10 978 247</td></tr>
+<tr><td>Tous les cantons</td><td>100.0</td><td colspan="2">–209 697 478</td><td>69 899 159</td><td colspan="2">–139 798 319</td></tr>
 </table>
 
-Annexe 19*[^t-20]*
+Annexe 19[^t-20]
 
 (art. 56*a*)
 
 ## Mesures d’atténuation temporaires
 
-[^t-20]: Introduite par le ch. II al. 2 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. I al. 2 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
+[^t-20]: Introduite par le ch. II al. 2 de l’O du 6 nov. 2019 ([RO 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Mise à jour par le ch. II al. 2 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)).
 
 ### 1. Calcul des paiements compensatoires
 
 - 1\.1 Ont droit aux paiements compensatoires tous les cantons dont l’indice de ressources n’a jamais atteint ≥ 100 points entre 2021 et l’année de référence actuelle.
 - 1\.2 Durant les années 2021 à 2025, tous les cantons ayant droit à ces paiements recevront une contribution uniforme en fonction de leur nombre d’habitants. Cette contribution est calculée de sorte que sa somme totale corresponde aux montants définis à l’art. 19*c*, al. 2, PFCC.
 
-### 2. Contributions pour l’année 2022
+### 2. Contributions pour l’année 2023
 
 <table>
 <tr><th>Canton</th><th>Population déterminante</th><th>Montant de la mesure d’atténuation en francs</th></tr>
 <tr><td>Zurich</td><td>0</td><td>0</td></tr>
-<tr><td>Berne</td><td>1 034 573</td><td>40 074 723</td></tr>
-<tr><td>Lucerne</td><td>407 830</td><td>15 797 518</td></tr>
-<tr><td>Uri</td><td>36 627</td><td>1 418 766</td></tr>
+<tr><td>Berne</td><td>1 039 193</td><td>32 113 468</td></tr>
+<tr><td>Lucerne</td><td>411 013</td><td>12 701 254</td></tr>
+<tr><td>Uri</td><td>36 759</td><td>1 135 923</td></tr>
 <tr><td>Schwyz</td><td>0</td><td>0</td></tr>
 <tr><td>Obwald</td><td>0</td><td>0</td></tr>
 <tr><td>Nidwald</td><td>0</td><td>0</td></tr>
-<tr><td>Glaris</td><td>40 599</td><td>1 572 636</td></tr>
+<tr><td>Glaris</td><td>40 701</td><td>1 257 756</td></tr>
 <tr><td>Zoug</td><td>0</td><td>0</td></tr>
-<tr><td>Fribourg</td><td>315 241</td><td>12 211 016</td></tr>
-<tr><td>Soleure</td><td>272 546</td><td>10 557 196</td></tr>
+<tr><td>Fribourg</td><td>318 643</td><td>9 846 800</td></tr>
+<tr><td>Soleure</td><td>274 582</td><td>8 485 213</td></tr>
 <tr><td>Bâle-Ville</td><td>0</td><td>0</td></tr>
-<tr><td>Bâle-Campagne</td><td>287 667</td><td>11 142 936</td></tr>
-<tr><td>Schaffhouse</td><td>81 879</td><td>3 171 612</td></tr>
-<tr><td>Appenzell Rh.-Ext.</td><td>55 188</td><td>2 137 735</td></tr>
-<tr><td>Appenzell Rh.-Int.</td><td>16 145</td><td>625 391</td></tr>
-<tr><td>St-Gall</td><td>506 737</td><td>19 628 712</td></tr>
-<tr><td>Grisons</td><td>205 224</td><td>7 949 451</td></tr>
-<tr><td>Argovie</td><td>672 044</td><td>26 031 963</td></tr>
-<tr><td>Thurgovie</td><td>274 007</td><td>10 613 795</td></tr>
-<tr><td>Tessin</td><td>356 336</td><td>13 802 871</td></tr>
+<tr><td>Bâle-Campagne</td><td>289 116</td><td>8 934 358</td></tr>
+<tr><td>Schaffhouse</td><td>82 402</td><td>2 546 408</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>55 338</td><td>1 710 058</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>0</td><td>0</td></tr>
+<tr><td>St-Gall</td><td>509 307</td><td>15 738 757</td></tr>
+<tr><td>Grisons</td><td>205 542</td><td>6 351 716</td></tr>
+<tr><td>Argovie</td><td>679 361</td><td>20 993 821</td></tr>
+<tr><td>Thurgovie</td><td>276 932</td><td>8 557 844</td></tr>
+<tr><td>Tessin</td><td>356 063</td><td>11 003 186</td></tr>
 <tr><td>Vaud</td><td>0</td><td>0</td></tr>
-<tr><td>Valais</td><td>347 870</td><td>13 474 930</td></tr>
-<tr><td>Neuchâtel</td><td>179 255</td><td>6 943 535</td></tr>
+<tr><td>Valais</td><td>350 426</td><td>10 828 990</td></tr>
+<tr><td>Neuchâtel</td><td>178 639</td><td>5 520 371</td></tr>
 <tr><td>Genève</td><td>0</td><td>0</td></tr>
-<tr><td>Jura</td><td>73 452</td><td>2 845 214</td></tr>
-<tr><td>Total des cantons</td><td>5 163 221</td><td>200 000 000</td></tr>
+<tr><td>Jura</td><td>73 589</td><td>2 274 077</td></tr>
+<tr><td>Total des cantons</td><td>5 177 603</td><td>160 000 000</td></tr>
 </table>
