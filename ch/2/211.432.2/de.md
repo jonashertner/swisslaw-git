@@ -4,11 +4,11 @@ title: Verordnung vom 18. November 1992 über die amtliche Vermessung (VAV)
 short: VAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: de
-version: 2008-07-01
+version: 2023-01-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20080701/de/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20080701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20080701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20080701/de"
 
 (VAV)
 
-vom 18. November 1992 (Stand am 1. Juli 2008)
+vom 18. November 1992 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 48*a* Absatz 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1], Artikel 38 Absatz 1 des Schlusstitels des Zivilgesetzbuchs[^ingress-2] (ZGB) und die Artikel 5 Absatz 2, 6 Absatz 1, 7, 9 Absatz 2, 12 Absatz 2, 14 Absatz 2, 29 Absatz 3, 31 Absatz 3, 32 Absatz 2, 33 Absatz 3 und 46 Absatz 4 des Geoinformationsgesetzes vom 5. Oktober 2007[^ingress-3] (GeoIG),[^ingress-4]
+gestützt auf Artikel 48*a* Absatz 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1], Artikel 38 Absatz 1 des Schlusstitels des Zivilgesetzbuchs (ZGB)[^ingress-2] und die Artikel 5 Absatz 2, 6 Absatz 1, 7, 9 Absatz 2, 12 Absatz 2, 14 Absatz 2, 29 Absatz 3, 31 Absatz 3, 32 Absatz 2, 33 Absatz 3, 38 Absatz 1<sup>quater</sup> und 46 Absatz 4 des Geoinformationsgesetzes vom 5. Oktober 2007[^ingress-3] (GeoIG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-3]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^ingress-4]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -46,9 +46,9 @@ verordnet:
 
 **Verhältnis zum allgemeinen Geoinformationsrecht**[^1a-1]
 
-Soweit diese Verordnung keine besonderen Vorschriften enthält, gilt für die amtliche Vermessung die Geoinformationsverordnung vom 21. Mai 2008[^1a-2].
+Soweit diese Verordnung keine besonderen Vorschriften enthält, gilt für die amtliche Vermessung die Geoinformationsverordnung vom 21. Mai 2008[^1a-2] (GeoIV).
 
-[^1a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^1a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 [^1a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 2
@@ -129,14 +129,15 @@ Der Objektkatalog umfasst die folgenden Informationsebenen:
 
 **Zuständigkeit des VBS**[^6a-1]
 
-<sup>1</sup> Das VBS bezeichnet den Objektkatalog und legt die zu erhebenden Daten, deren Genauigkeit und Zuverlässigkeit sowie die weiteren Anforderungen an sie fest. Es kann aus sachlich zwingenden Gründen von den Artikeln 3, 10 und 17 der Geoinformationsverordnung vom 21. Mai 2008[^6a-2] abweichen.
+<sup>1</sup> Das VBS bezeichnet den Objektkatalog und legt die zu erhebenden Daten, deren Genauigkeit und Zuverlässigkeit sowie die weiteren Anforderungen an sie fest. Es kann aus sachlich zwingenden Gründen von den Artikeln 3, 10 und 17 GeoIV[^6a-2] [^6a-3] abweichen.
 
 <sup>2</sup> Es legt die amtliche Vermessungsschnittstelle (AVS) fest.
 
 <sup>3</sup> Es legt Inhalt, Nachführung und Verwaltung der aus den Daten der amtlichen Vermessung zu erstellenden Auszüge sowie der zu erstellenden technischen Dokumentation fest.
 
 [^6a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^6a-2]: Ausdruck gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^6a-3]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 6<sup>bis</sup>
 
@@ -268,7 +269,11 @@ Die Kantone können weitere Ausnahmen vorsehen, so insbesondere:
 [^17-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^17-2]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
-## 4. Kapitel: Ersterhebung, Erneuerung und Nachführung
+## 4. Kapitel: Ersterhebung, Erneuerung, Nachführung und Pilotprojekte
+
+[^chap4-1]
+
+[^chap4-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -294,7 +299,7 @@ Die Eidgenössische Vermessungsdirektion[^19-1] kann Weisungen über das Verfahr
 
 **Geodätisches Bezugssystem**[^20-1]
 
-Lage- und Höhenbezug der amtlichen Vermessung richten sich nach den Artikeln 4 und 5 der Geoinformationsverordnung vom 21. Mai 2008[^20-2].
+Lage- und Höhenbezug der amtlichen Vermessung richten sich nach den Artikeln 4 und 5 GeoIV[^20-2].
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^20-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
@@ -432,7 +437,40 @@ Die Eidgenössische Vermessungsdirektion anerkennt das Vermessungswerk, wenn:
 
 [^30bis-1]: Eingefügt durch Ziff. I der V vom 7. März 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Aufgehoben durch Ziff. I der V vom 21. Mai 2008, mit Wirkung seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
-## 5. Kapitel:**** Verwaltung der amtlichen Vermessung
+### 5. Abschnitt: Pilotprojekte
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 30a
+
+<sup>1</sup>
+
+Die Eidgenössische Vermessungsdirektion kann im Bereich der amtlichen Vermessung Pilotprojekte in einzelnen Kantonen oder für beschränkte geografische Gebiete bewilligen zur Erprobung und Entwicklung:
+
+- a. neuer Abläufe und Zuständigkeiten;
+- b. neuer Technologien;
+- c. neuer Inhalte, Geodaten- und Darstellungsmodelle.
+
+<sup>2</sup>
+
+Das VBS erlässt in Abstimmung mit den betroffenen Bundesstellen für das jeweilige Pilotprojekt in einer separaten Verordnung die Bestimmungen, die abweichen von:
+
+- a. dieser Verordnung;
+- b. der GeoIV[^30a-1];
+- c. der Grundbuchverordnung vom 23. September 2011[^30a-2];
+- d. der Verordnung vom 21. Mai 2008[^30a-3] über die geografischen Namen;
+- e. der technischen Verordnung des EJPD und des VBS vom 28. Dezember 2012[^30a-4] über das Grundbuch.
+
+<sup>3</sup> Pilotprojekte sind zu befristen und zu evaluieren.
+
+[^30a-1]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^30a-2]: [SR 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
+[^30a-3]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^30a-4]: [SR 211.432.11](https://fedlex.data.admin.ch/eli/cc/2013/3)
+
+## 5. Kapitel: Verwaltung der amtlichen Vermessung
 
 [^chap5-1]
 
@@ -456,7 +494,7 @@ Die Eidgenössische Vermessungsdirektion anerkennt das Vermessungswerk, wenn:
 
 Aufgehoben
 
-## 6. Kapitel:**** Zugang und Nutzung
+## 6. Kapitel: Zugang und Nutzung
 
 [^chap6-1]
 
@@ -615,17 +653,85 @@ Arbeiten im Bereich der Informationsebenen Fixpunkte, Liegenschaften, Nomenklatu
 [^46-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^46-3]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
-## 8. Kapitel: Bundesabgeltungen und Restkosten
+## 8. Kapitel: Programmvereinbarungen, Bundesbeiträge und Restkosten
 
-### 1. Abschnitt: Bundesabgeltungen****
+[^chap8-1]
+
+[^chap8-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+### 1. Abschnitt: Programmvereinbarungen
 
 [^chap8-sec1-1]
 
-[^chap8-sec1-1]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^chap8-sec1-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 47
 
-**Anrechenbare Kosten**
+**Gegenstand und Dauer**[^47-1]
+
+<sup>1</sup>
+
+Gegenstand der Programmvereinbarungen zwischen dem Bundesamt für Landestopografie und den Kantonen sind insbesondere:
+
+- a. die Leistungen des Kantons;
+- b. die Beitragsleistungen des Bundes;
+- c. das Controlling;
+- d. die Einzelheiten der Finanzaufsicht.
+
+<sup>2</sup> Die Dauer der Programmvereinbarung beträgt vier Jahre. Es können Teilziele für eine kürzere Dauer vereinbart werden.
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47a
+
+**Berichterstattung und Kontrolle**[^47a-1]
+
+<sup>1</sup> Der Kanton erstattet dem Bundesamt für Landestopografie jährlich Bericht über die Verwendung der Beiträge.
+
+<sup>2</sup>
+
+Das Bundesamt für Landestopografie kontrolliert stichprobenweise:
+
+- a. die Ausführung einzelner Massnahmen gemäss den Programmzielen;
+- b. die Verwendung der ausgerichteten Beiträge.
+
+[^47a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47b
+
+**Mangelhafte Erfüllung**[^47b-1]
+
+<sup>1</sup>
+
+Das Bundesamt für Landestopografie hält die Tranchenzahlungen der Bundesbeiträge während der Programmdauer ganz oder teilweise zurück, wenn der Kanton:
+
+- a. seiner Berichterstattungspflicht (Art. 47*a* Abs. 1) nicht nachkommt;
+- b. eine erhebliche Störung seiner Leistung schuldhaft verursacht.
+
+<sup>2</sup> Stellt sich nach der Programmdauer heraus, dass die Leistung mangelhaft ist, so verlangt das Bundesamt für Landestopografie vom Kanton Nachbesserung; es setzt ihm dafür eine angemessene Frist.
+
+<sup>3</sup> Bleibt die Leistung auch nach Ablauf dieser Frist mangelhaft, so fordert das Bundesamt für Landestopografie Zahlungen im Umfang des Mangels samt einem Zins von 5 Prozent zurück (Art. 28 Abs. 2 des Subventionsgesetzes vom 5. Oktober 1990[^47b-2]).
+
+[^47b-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+[^47b-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+### 2. Abschnitt: Bundesbeiträge
+
+[^chap8-sec2-1]
+
+[^chap8-sec2-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47c
+
+**Bemessung des Bundesbeitrags**[^47c-1]
+
+Die Bemessung des Bundesbeitrags an die Finanzierung der amtlichen Vermessung richtet sich nach dem Anhang.
+
+[^47c-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47d
+
+**Anrechenbare Kosten**[^47d-1]
 
 <sup>1</sup> Anrechenbar sind nur die Kosten, die bei der vorschriftsgemässen und wirtschaftlichen Erfüllung der Aufgabe entstanden sind.
 
@@ -633,43 +739,44 @@ Arbeiten im Bereich der Informationsebenen Fixpunkte, Liegenschaften, Nomenklatu
 
 Nicht anrechenbar sind namentlich:
 
-- a.[^47-1] die Kosten der laufenden Nachführung und der Verwaltung;
-- b.[^47-2] die aus kantonalen Erweiterungen entstehenden Kosten;
+- a. die Kosten der laufenden Nachführung und der Verwaltung;
+- b. die aus kantonalen Erweiterungen entstehenden Kosten;
 - c. die Kosten der kantonalen Vermessungsaufsicht;
 - d. die an kantonale und kommunale Organe für deren Mitwirkung bei der Vermarkung und Vermessung geleisteten Entschädigungen;
 - e. die Kosten der kantonalen Verifikation und der öffentlichen Auflage;
 - f. die Entschädigung für die bei Vermessungsarbeiten entstandenen Kulturschäden;
 - g. die Zinsen für Vorschüsse an Vermarkungs- und Vermessungsarbeiten;
-- h. die aus vertrags- oder vorschriftswidrigem Verhalten der Vertragsparteien entstehenden Mehrkosten.
-- i.[^47-3] das Festlegen der Gebäudeadressierung;
-- j.[^47-4] die Kosten der Behebung von Widersprüchen nach Artikel 14*a*.
+- h. die aus vertrags- oder vorschriftswidrigem Verhalten der Vertragsparteien entstehenden Mehrkosten;
+- i. das Festlegen der Gebäudeadressierung;
+- j. die Kosten der Behebung von Widersprüchen nach Artikel 14*a*.
 
-[^47-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^47-2]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^47-3]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^47-4]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^47d-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 48
 
-**Berechnung der anrechenbaren Kosten**
+**Berechnung der anrechenbaren Kosten**[^48-1]
 
-<sup>1</sup> Bei Arbeiten, die im Submissionsverfahren vergeben werden, entspricht der festgelegte Preis unter Berücksichtigung von Artikel 47 den anrechenbaren Kosten.
+<sup>1</sup> Bei Arbeiten, die nach den Vorschriften des öffentlichen Beschaffungsrechts vergeben werden, entspricht der festgelegte Preis unter Berücksichtigung von Artikel 47*d* den anrechenbaren Kosten.
 
-<sup>2</sup> Für Arbeiten, die nicht im Submissionsverfahren vergeben werden, legt der Kanton die anrechenbare Entschädigung nach marktüblichen Ansätzen fest.[^48-1]
+<sup>2</sup> Für Arbeiten, die nicht nach den Vorschriften des öffentlichen Beschaffungsrechts vergeben werden, legt der Kanton die anrechenbare Entschädigung nach marktüblichen Ansätzen fest.
 
-<sup>3</sup> Die von den Kantonen festgelegten Entschädigungen im Sinne von Absatz 2 bedürfen der Genehmigung des Bundes.
+<sup>3</sup> Die von den Kantonen festgelegten Entschädigungen bedürfen der Genehmigung des Bundes.
 
-[^48-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>4</sup> In der Programmvereinbarung kann anstelle der anrechenbaren Kosten ein pauschaler Bundesbeitrag vereinbart werden.
+
+[^48-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 48a
 
-**Pauschale Abgeltungen**[^48a-1]
+[^48a-1]
 
-Bei der Vereinbarung von pauschalen Abgeltungen zwischen Bund und Kanton gelten die Grundsätze von Artikel 47 sinngemäss.
+[^48a-1]: Ursprünglich Art. 48<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 7. März 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
-[^48a-1]: Ursprünglich Art. 48<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 7. März 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+### 3. Abschnitt: Restkosten
 
-### 2. Abschnitt: Restkosten
+[^chap8-sec3-1]
+
+[^chap8-sec3-1]: Ursprünglich 2. Abschn.
 
 #### Art. 49
 
@@ -739,7 +846,7 @@ Die kantonale Vermessungsaufsicht entscheidet im Einvernehmen mit der Eidgenöss
 Für Arbeiten, die aufgrund des kantonalen Entscheides gemäss den Artikeln 52 und 53 nach alter Ordnung durch- oder weitergeführt werden, gelten die Instruktion vom 10. Juni 1919[^54-1] für die Vermarkung und die Parzellarvermessung und die Verordnung vom 12. Mai 1971[^54-2] über die Grundbuchvermessung weiter.
 
 [^54-1]: [BS **2** 592; [AS 1980 106](https://fedlex.data.admin.ch/eli/oc/1980/106_106_106)]
-[^54-2]: [[AS 1971 704](https://fedlex.data.admin.ch/eli/oc/1971/704_704_704), [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 2]
+[^54-2]: [[AS 1971 704](https://fedlex.data.admin.ch/eli/oc/1971/704_704_704); [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 2]
 
 #### Art. 55
 
@@ -783,3 +890,47 @@ Für Arbeiten, die aufgrund des kantonalen Entscheides gemäss den Artikeln 52 u
 #### Art. 58
 
 Diese Verordnung tritt am 1. Januar 1993 in Kraft.
+
+Anhang[^t-1]
+
+(Art. 47*c*)
+
+## Bemessung des Bundesbeitrags
+
+[^t-1]: Eingefügt durch Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+Für die Bemessung des Bundesbeitrags an die Finanzierung von Vorhaben der Kantone nach Artikel 47*c* sind die folgenden Prozentwerte massgeblich; diese bezeichnen den Anteil an den anrechenbaren Kosten nach den Artikeln 47*d* und 48:
+
+**1. Ersterhebung:**
+
+- a. für überbaute Gebiete und Bauzonen (Zone I): 15 Prozent;
+- b. für Landwirtschafts- und Forstwirtschaftsgebiete im Talgebiet gemäss landwirtschaftlichem Produktionskataster (Zone II): 30 Prozent;
+- c. für Landwirtschafts- und Forstwirtschaftsgebiete im Berg- und Sömmerungsgebiet gemäss landwirtschaftlichem Produktionskataster (Zone III): 45 Prozent.
+
+**2. Neuerhebung**
+
+Wird eine Vermessung ersetzt, die gemäss den vor dem 10. Juni 1919 geltenden Vorschriften erstellt worden ist, so gelten die Werte nach Ziffer 1.
+
+**3. Erneuerung:**
+
+- a. für überbaute Gebiete und Bauzonen (Zone I): 15 Prozent;
+- b. für Landwirtschafts- und Forstwirtschaftsgebiete im Talgebiet gemäss landwirtschaftlichem Produktionskataster (Zone II): 20 Prozent;
+- c. für Landwirtschafts- und Forstwirtschaftsgebiete im Berg- und Sömmerungsgebiet gemäss landwirtschaftlichem Produktionskataster (Zone III): 35 Prozent;
+- d. bei Gesamtmeliorationen und Landumlegungen in der Land- und Forstwirtschaft, sofern der Bund dafür nicht gestützt auf andere Rechtsgrundlagen Abgeltungen leistet und sofern diese Kosten nicht zulasten Dritter gehen: 25 Prozent.
+
+**4. Vermarkung**
+
+Vermarkung der Hoheits- und Eigentumsgrenzen für Landwirtschafts- und Forstwirtschaftsgebiete im Berg- und Sömmerungsgebiet gemäss landwirtschaftlichem Produktionskataster (Zone III), sofern der Kanton einen angemessenen Kostenanteil übernimmt: 25 Prozent.
+
+**5. Massnahmen infolge von Naturereignissen**
+
+Für Massnahmen, die infolge von Naturereignissen oder infolge dauernder Bodenverschiebungen vorgenommen werden und einer Ersterhebung gleichkommen, werden die Ansätze für die Ersterhebung und Vermarkung angewendet.
+
+**6. Besondere Anpassungen und periodische Nachführung:**
+
+- a. für besondere Anpassungen von aussergewöhnlich hohem nationalem Interesse, sofern der Kanton nachweist, dass die Finanzierung sichergestellt ist: 60 Prozent;
+- b. von den Kosten der periodischen Nachführung, die nicht der Verursacher trägt und deren Finanzierung laut Auskunft des Kantons nachweislich sichergestellt ist, pro Periode nach Artikel 24 Absatz 3: 60 Prozent.
+
+**7. Pilotprojekte**
+
+Innovative Pilotprojekte zur Weiterentwicklung der amtlichen Vermessung und zur Erprobung neuer Technologien: 50–90 Prozent, bemessen nach dem Innovationsgehalt und dem Interesse des Bundes.

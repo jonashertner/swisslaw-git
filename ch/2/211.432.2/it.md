@@ -4,11 +4,11 @@ title: Ordinanza del 18 novembre 1992 concernente la misurazione ufficiale (OMU)
 short: OMU
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: it
-version: 2008-07-01
+version: 2023-01-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20080701/it/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20080701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20080701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20080701/it"
 
 (OMU)
 
-del 18 novembre 1992 (Stato 1° luglio 2008)
+del 18 novembre 1992 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 48*a* capoverso 1 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA); visto l’articolo 38 capoverso 1 del titolo finale del Codice civile[^ingress-2] (CC); visti gli articoli 5 capoverso 2, 6 capoverso 1, 7, 9 capoverso 2, 12 capoverso 2, 14 capoverso 2, 29 capoverso 3, 31 capoverso 3, 32 capoverso 2, 33 capoverso 3 e 46 capoverso 4 della legge federale del 5 ottobre 2007[^ingress-3] sulla geoinformazione (LGI),[^ingress-4]
+visto l’articolo 48*a* capoverso 1 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione; visto l’articolo 38 capoverso 1 del titolo finale del Codice civile (CC)[^ingress-2]; visti gli articoli 5 capoverso 2, 6 capoverso 1, 7, 9 capoverso 2, 12 capoverso 2, 14 capoverso 2, 29 capoverso 3, 31 capoverso 3, 32 capoverso 2, 33 capoverso 3, 38 capoverso 1<sup>quater</sup> e 46 capoverso 4 della legge federale del 5 ottobre 2007[^ingress-3] sulla geoinformazione (LGI),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-3]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^ingress-4]: Nuovo testo giusta il n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -40,22 +40,22 @@ ordina:
 
 <sup>2</sup> I dati della misurazione ufficiale sono geodati di riferimento utilizzati da autorità della Confederazione, dei Cantoni e dei Comuni nonché dall’economia, dalla scienza e da terzi per ottenere geoinformazioni.
 
-[^1-1]: Nuovo testo giusta il n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 1a
 
 **Rapporto con il diritto generale in materia di geoinformazione**[^1a-1]
 
-Per quanto la presente ordinanza non preveda prescrizioni particolari, alla misurazione ufficiale si applica l’ordinanza del 21 maggio 2008[^1a-2] sulla geoinformazione.
+Per quanto la presente ordinanza non preveda prescrizioni particolari, alla misurazione ufficiale si applica l’ordinanza del 21 maggio 2008[^1a-2] sulla geoinformazione (OGI).
 
-[^1a-1]: Introdotto dal n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^1a-1]: Introdotto dal n. I dell’O del 21 mag. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 [^1a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 2
 
 [^2-1]
 
-[^2-1]: Abrogato dal n. I dell'O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^2-1]: Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 3
 
@@ -67,7 +67,7 @@ Per quanto la presente ordinanza non preveda prescrizioni particolari, alla misu
 
 <sup>3</sup> In occasione di ricomposizioni particellari e nelle regioni in cui un riordino fondiario o selvicolo necessario non è realizzabile in un prossimo avvenire, i lavori tecnici di rilevamento dei dati relativi al livello d’informazione «beni immobili» sono eseguiti secondo una procedura semplificata. Il DDPS stabilisce i requisiti tecnici.
 
-[^3-1]: Nuovo testo giusta il n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 4
 
@@ -90,9 +90,9 @@ Sono componenti della misurazione ufficiale:
 - e. le componenti e le basi della misurazione ufficiale secondo il vecchio regime;
 - f.[^5-3] il piano di base della misurazione ufficiale.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-3]: Introdotta dal n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^5-3]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 6
 
@@ -118,25 +118,26 @@ Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
 
 <sup>3</sup> Il livello d’informazione «beni immobili» comprende i fondi ai sensi dell’articolo 655 capoverso 2 CC, sempre che possano essere differenziati secondo la superficie, eccettuate le quote di comproprietà.[^6-6]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^6-2]: Nuovo testo giusta il n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-3]: Introdotta dal n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-4]: Introdotta dal n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-5]: Introdotta dal n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-6]: Nuovo testo giusta il n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-3]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-4]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-5]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-6]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 6a
 
 **Competenza del DDPS**[^6a-1]
 
-<sup>1</sup> Il DDPS definisce il catalogo degli oggetti e stabilisce i dati da rilevare, la loro precisione e attendibilità, nonché le altre esigenze ad essi relative. Per motivi imperativi di ordine materiale può derogare agli articoli 3, 10 e 17 dell’ordinanza del 21 maggio 2008[^6a-2] sulla geoinformazione.
+<sup>1</sup> Il DDPS definisce il catalogo degli oggetti e stabilisce i dati da rilevare, la loro precisione e attendibilità, nonché le altre esigenze ad essi relative. Per motivi imperativi di ordine materiale può derogare agli articoli 3, 10 e 17 OGI[^6a-2] [^6a-3].
 
 <sup>2</sup> Stabilisce l’interfaccia della misurazione ufficiale (IMU).
 
 <sup>3</sup> Stabilisce il contenuto e disciplina la tenuta a giorno e la gestione degli estratti dei dati della misurazione ufficiale e dei documenti tecnici da allestire.
 
-[^6a-1]: Introdotto dal n. I dell'O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^6a-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6a-2]: Nuova espr. giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+[^6a-3]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 6<sup>bis</sup>
 
@@ -156,7 +157,7 @@ Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
 
 <sup>4</sup> La Direzione federale delle misurazioni catastali definisce il modello di rappresentazione del piano per il registro fondiario.[^7-4]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^7-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^7-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^7-4]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
@@ -165,7 +166,7 @@ Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
 
 [^89-1]
 
-[^89-1]: Abrogati dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^89-1]: Abrogati dal n. I dell’O del 7 mar. 2003, con effetto dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 10
 
@@ -173,7 +174,7 @@ Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
 
 I Cantoni possono ampliare i contenuti della misurazione ufficiale previsti dal diritto federale nei limiti stabiliti dal DDPS[^10-2] e prescrivere esigenze supplementari in materia di misurazione.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^10-2]: Nuova espressione giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Di detta modifica è stato tenuto conto in tutto il presente testo.
 
 ## Capitolo 3: Demarcazione
@@ -209,7 +210,7 @@ I Cantoni possono disporre che l’accertamento dei confini avvenga in base a pi
 - a.[^13-1] nelle zone agricole e forestali delle regioni di montagna o di estivazione secondo il catasto della produzione agricola[^13-2] nonché in quelle non produttive;
 - b. nell’ambito della tenuta a giorno, sempreché i proprietari interessati diano il loro consenso.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^13-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^13-2]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
 
 #### Art. 14
@@ -267,10 +268,14 @@ I Cantoni possono prevedere ulteriori eccezioni, segnatamente:
 - b.[^17-1] per i beni immobili nonché diritti per sé stanti e permanenti differenziati secondo la superficie, i cui segni di terminazione sono costantemente minacciati dall’attività agricola o da altre cause;
 - c.[^17-2] in zone agricole e forestali delle regioni di montagna o di estivazione secondo il catasto della produzione agricola, nonché nelle regioni non produttive.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^17-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^17-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
-## Capitolo 4: Primo rilevamento, rinnovamento e tenuta a giorno
+## Capitolo 4: Primo rilevamento, rinnovamento, tenuta a giorno e progetti pilota
+
+[^chap4-1]
+
+[^chap4-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 ### Sezione 1: Disposizioni generali
 
@@ -296,7 +301,7 @@ La Direzione federale delle misurazioni catastali[^19-1] può emanare direttive 
 
 **Sistema di riferimento geodetico**[^20-1]
 
-Il riferimento planimetrico e altimetrico della misurazione ufficiale si fonda sugli articoli 4 e 5 dell’ordinanza del 21 maggio 2008[^20-2] sulla geoinformazione.
+Il riferimento planimetrico e altimetrico della misurazione ufficiale si fonda sugli articoli 4 e 5 OGI[^20-2].
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^20-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
@@ -375,7 +380,7 @@ Tutte le componenti della misurazione ufficiale soggiacciono all’obbligo della
 
 <sup>4</sup> La Confederazione e il Cantone possono convenire di rinunciare all’esame preliminare.[^27-2]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^27-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^27-2]: Introdotto dal n. I dell’O del 28 gen. 1998 ([RU 1998 270](https://fedlex.data.admin.ch/eli/oc/1998/270_270_270)). Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 28
@@ -414,7 +419,7 @@ Ultimata la procedura di deposito pubblico, compresa la liquidazione delle oppos
 
 <sup>2</sup> Con l’approvazione, questi elementi della misurazione assumono la forza probatoria di documenti pubblici.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^29-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^29-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 30
@@ -434,7 +439,40 @@ La Direzione federale delle misurazioni catastali riconosce i lavori di misurazi
 
 [^30bis-1]: Introdotto dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Abrogato dal n. I dell’O del 21 mag. 2008, con effetto dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
-## Capitolo 5:**** Gestione della misurazione ufficiale
+### Sezione 5: Progetti pilota
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 30a
+
+<sup>1</sup>
+
+Nell’ambito della misurazione ufficiale, la Direzione federale delle misurazioni catastali può approvare progetti pilota in singoli Cantoni o per aree geografiche limitate a scopo di sperimentazione e sviluppo:
+
+- a. di nuove procedure e competenze;
+- b. di nuove tecnologie;
+- c. di nuovi contenuti, modelli di geodati e modelli di rappresentazione.
+
+<sup>2</sup>
+
+Per ogni progetto pilota il DDPS emana in un’ordinanza separata, in accordo con gli uffici federali interessati, le disposizioni che derogano:
+
+- a. alla presente ordinanza;
+- b. all’OGI[^30a-1];
+- c. all’ordinanza del 23 settembre 2011[^30a-2] sul registro fondiario;
+- d. all’ordinanza del 21 maggio 2008[^30a-3] sui nomi geografici;
+- e. all’ordinanza tecnica del DFGP e del DDPS del 28 dicembre 2012[^30a-4] sul registro fondiario.
+
+<sup>3</sup> I progetti pilota devono essere limitati nel tempo e valutati.
+
+[^30a-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^30a-2]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
+[^30a-3]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^30a-4]: [RS 211.432.11](https://fedlex.data.admin.ch/eli/cc/2013/3)
+
+## Capitolo 5: Gestione della misurazione ufficiale
 
 [^chap5-1]
 
@@ -450,13 +488,13 @@ La Direzione federale delle misurazioni catastali riconosce i lavori di misurazi
 
 [^32-1]
 
-[^32-1]: Abrogato dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^32-1]: Abrogato dal n. I dell’O del 7 mar. 2003, con effetto dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 33
 
 Abrogato
 
-## Capitolo 6:**** Accesso e utilizzazione
+## Capitolo 6: Accesso e utilizzazione
 
 [^chap6-1]
 
@@ -533,8 +571,8 @@ Nel quadro degli accordi di programma essa stabilisce:
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^40-3]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-4]: Introdotto dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-3]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-4]: Introdotto dal n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^40-5]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 41
@@ -613,19 +651,87 @@ I lavori non eseguiti direttamente dal Cantone concernenti i livelli d’informa
 
 [^46-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^46-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^46-3]: Nuovo testo del per. giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^46-3]: Nuovo testo del per. giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
-## Capitolo 8: Sussidi federali e costi residui
+## Capitolo 8: Accordi di programma, contributi federali e costi residui
 
-### Sezione 1: Indennizzi federali****
+[^chap8-1]
+
+[^chap8-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+### Sezione 1: Accordi di programma
 
 [^chap8-sec1-1]
 
-[^chap8-sec1-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^chap8-sec1-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 47
 
-**Spese computabili**
+**Oggetto e durata**[^47-1]
+
+<sup>1</sup>
+
+Oggetto degli accordi di programma tra l’Ufficio federale di topografia e i Cantoni sono in particolare:
+
+- a. le prestazioni del Cantone;
+- b. i sussidi della Confederazione;
+- c. il controlling;
+- d. i dettagli della vigilanza finanziaria.
+
+<sup>2</sup> La durata dell’accordo di programma è di quattro anni. Possono essere concordati obiettivi parziali per una durata più breve.
+
+[^47-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47a
+
+**Rendicontazione e controllo**[^47a-1]
+
+<sup>1</sup> Il Cantone presenta ogni anno all’Ufficio federale di topografia un rapporto sull’utilizzo dei contributi.
+
+<sup>2</sup>
+
+L’Ufficio federale di topografia esegue controlli a campione su:
+
+- a. l’attuazione di singole misure in conformità con gli obiettivi del programma;
+- b. l’impiego dei contributi versati.
+
+[^47a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47b
+
+**Adempimento parziale**[^47b-1]
+
+<sup>1</sup>
+
+L’Ufficio federale di topografia trattiene i pagamenti dei contributi federali rateali in tutto o in parte per la durata del programma se il Cantone:
+
+- a. non adempie all’obbligo di rendicontazione (art. 47*a* cpv. 1);
+- b. cagiona per colpa propria una grave inadempienza nella sua prestazione.
+
+<sup>2</sup> Se, dopo la conclusione del programma, si rileva che la prestazione è lacunosa, l’Ufficio federale di topografia ne esige la corretta esecuzione da parte del Cantone, fissandogli a questo scopo un termine appropriato.
+
+<sup>3</sup> Se la prestazione rimane lacunosa anche dopo la scadenza di questo termine, l’Ufficio federale di topografia esige la restituzione dei pagamenti nella misura dell’inadempienza, incluso un interesse annuo del 5 per cento (art. 28 cpv. 2 della legge del 5 ottobre 1990[^47b-2] sui sussidi).
+
+[^47b-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+[^47b-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+### Sezione 2: Contributi federali
+
+[^chap8-sec2-1]
+
+[^chap8-sec2-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47c
+
+**Commisurazione dei contributi federali**[^47c-1]
+
+La commisurazione dei contributi federali al finanziamento della misurazione ufficiale si basa sull’allegato.
+
+[^47c-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47d
+
+**Spese computabili**[^47d-1]
 
 <sup>1</sup> Sono computabili unicamente le spese sopportate per l’adempimento dei compiti conforme alle prescrizioni e al principio dell’economicità.
 
@@ -633,43 +739,44 @@ I lavori non eseguiti direttamente dal Cantone concernenti i livelli d’informa
 
 Sono esclusi dal calcolo segnatamente:
 
-- a.[^47-1] le spese per la tenuta a giorno corrente e la gestione;
-- b.[^47-2] le spese cagionate dagli ampliamenti cantonali;
+- a. le spese per la tenuta a giorno corrente e la gestione;
+- b. le spese cagionate dagli ampliamenti cantonali;
 - c. le spese di vigilanza cantonale in materia di misurazione;
 - d. gli indennizzi pagati agli organi cantonali e comunali per la collaborazione da essi prestata in materia di terminazione e misurazione;
 - e. le spese della verifica cantonale e del deposito pubblico;
 - f. gli indennizzi per i danni cagionati alle colture durante i lavori di misurazione;
 - g. gli interessi di anticipazioni per il costo dei lavori di terminazione e misurazione;
 - h. le spese suppletive risultanti dall’inosservanza, da parte dei contraenti, delle clausole del contratto o delle prescrizioni applicabili;
-- i.[^47-3] la determinazione degli indirizzi degli edifici;
-- j.[^47-4] i costi della correzione di contraddizioni giusta l’articolo 14*a*.
+- i. la determinazione degli indirizzi degli edifici;
+- j. i costi della correzione di contraddizioni giusta l’articolo 14*a.*
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^47-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^47-3]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^47-4]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^47d-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 48
 
-**Calcolo delle spese computabili**
+**Calcolo delle spese computabili**[^48-1]
 
-<sup>1</sup> Per i lavori aggiudicati sulla base di una gara pubblica, le spese computabili corrispondono al prezzo fissato, fatto salvo l’articolo 47.
+<sup>1</sup> Per i lavori aggiudicati secondo le prescrizioni del diritto sugli appalti pubblici, le spese computabili corrispondono al prezzo fissato, fatto salvo l’articolo 47*d*.
 
-<sup>2</sup> Per i lavori non aggiudicati sulla base di una gara pubblica, il Cantone stabilisce l’indennità computabile sulla base delle tariffe usuali di mercato.[^48-1]
+<sup>2</sup> Per i lavori non aggiudicati secondo le prescrizioni del diritto sugli appalti pubblici, il Cantone stabilisce l’indennità computabile sulla base delle tariffe usuali di mercato.
 
-<sup>3</sup> Gli indennizzi la cui determinazione è di competenza dei Cantoni devono essere approvati dalla Confederazione.
+<sup>3</sup> Gli indennizzi stabiliti dai Cantoni devono essere approvati dalla Confederazione.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>4</sup> Nell’accordo di programma, al posto delle spese computabili può essere concordato un contributo federale forfettario.
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 48a
 
-**Indennizzi forfetari**[^48a-1]
+[^48a-1]
 
-I principi di cui all’articolo 47 sono applicabili per analogia alle convenzioni concluse tra la Confederazione e il Cantone in materia di indennizzi forfetari.
+[^48a-1]: Originario art. 48<sup>bis</sup>. Introdotto dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Abrogato dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
-[^48a-1]: Originario art. 48<sup>bis</sup>. Introdotto dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+### Sezione 3: Costi residui
 
-### Sezione 2: Costi residui
+[^chap8-sec3-1]
+
+[^chap8-sec3-1]: Originaria Sez. 2.
 
 #### Art. 49
 
@@ -677,7 +784,7 @@ I principi di cui all’articolo 47 sono applicabili per analogia alle convenzio
 
 I Cantoni stabiliscono chi debba sopportare i costi ancora scoperti dopo deduzione degli indennizzi federali.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^49-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 ## Capitolo 9: Disposizioni finali
 
@@ -750,7 +857,7 @@ Per i lavori eseguiti o proseguiti conformemente al vecchio regime, giusta una d
 
 <sup>3</sup> La Confederazione partecipa alle spese unicamente nella misura in cui non esista una misurazione ufficiale conformemente alle nuove disposizioni.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^55-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 56
 
@@ -765,7 +872,7 @@ Per i lavori eseguiti o proseguiti conformemente al vecchio regime, giusta una d
 <sup>4</sup> Il DDPS di giustizia e polizia stabilisce le esigenze cui deve soddisfare la numerizzazione provvisoria.
 
 [^56-1]: [[RU 1992 2461](https://fedlex.data.admin.ch/eli/oc/1992/2461_2461_2461), [1994 1612](https://fedlex.data.admin.ch/eli/oc/1994/1612_1612_1612). [RU 2007 5819](https://fedlex.data.admin.ch/eli/oc/2007/788)art. 7]. Vedi ora O dell’AF del 6 ott. 2006 sul finanziamento della misurazione ufficiale ([RS 211.432.27](https://fedlex.data.admin.ch/eli/cc/2007/788)).
-[^56-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^56-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 57
 
@@ -782,3 +889,47 @@ Per i lavori eseguiti o proseguiti conformemente al vecchio regime, giusta una d
 #### Art. 58
 
 La presente ordinanza entra in vigore il 1° gennaio 1993.
+
+Allegato[^t-1]
+
+(art. 47*c*)
+
+## Commisurazione dei contributi federali
+
+[^t-1]: Introdotto dal n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+Ai fini della commisurazione dei contributi federali al finanziamento dei progetti dei Cantoni secondo l’articolo 47*c*, fanno stato le seguenti percentuali; tali percentuali indicano la quota delle spese computabili secondo gli articoli 47*d* e 48:
+
+**1. Primo rilevamento:**
+
+- a. per le zone di costruzione e le aree edificate (zona I): 15 per cento;
+- b. per le aree agricole e forestali nelle regioni di pianura secondo il catasto della produzione agricola (zona II): 30 per cento;
+- c. per le aree agricole e forestali nelle regioni di montagna e di estivazione secondo il catasto della produzione agricola (zona III): 45 per cento.
+
+**2. Nuovo rilevamento**
+
+Se viene sostituita una misurazione effettuata secondo le norme in vigore prima del 10 giugno 1919, si applicano i valori secondo il numero 1.
+
+**3. Rinnovamento:**
+
+- a. per le zone di costruzione e le aree edificate (zona I): 15 per cento;
+- b. per le aree agricole e forestali nelle regioni di pianura secondo il catasto della produzione agricola (zona II): 20 per cento;
+- c. per le aree agricole e forestali nelle regioni di montagna e di estivazione secondo il catasto della produzione agricola (zona III): 35 per cento;
+- d. per le migliorie integrali e ricomposizioni particellari di terreni in agricoltura e selvicoltura, se la Confederazione non versa indennizzi sulla base di altre basi legali e a condizione che questi costi non siano a carico di terzi: 25 per cento.
+
+**4. Terminazione**
+
+Terminazione dei confini sovrani e di proprietà delle aree agricole e forestali nelle regioni di montagna e di estivazione secondo il catasto della produzione agricola (zona III), a condizione che il Cantone si faccia carico di una quota adeguata dei costi: 25 per cento.
+
+**5. Misure in seguito a eventi naturali:**
+
+Per le misurazioni effettuate in seguito a eventi naturali o a spostamenti permanenti del terreno e che sono equivalenti a un primo rilevamento, si applicano le quote per il primo rilevamento e la terminazione.
+
+**6. Adeguamenti particolari e tenuta a giorno periodica:**
+
+- a. per particolari adeguamenti di interesse nazionale eccezionalmente importante, a condizione che il Cantone dimostri che il finanziamento è assicurato: 60 per cento;
+- b. dei costi di tenuta a giorno periodica che non sono a carico di chi li ha cagionati e il cui finanziamento è garantito in modo dimostrabile secondo le informazioni del Cantone, per periodo secondo l’articolo 24 capoverso 3: 60 per cento.
+
+**7. Progetti pilota**
+
+Progetti pilota innovativi per l’ulteriore sviluppo della misurazione ufficiale e per testare nuove tecnologie: 50–90 per cento, commisurato al contenuto innovativo e all’interesse della Confederazione.

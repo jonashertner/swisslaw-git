@@ -3,11 +3,11 @@ sr: "211.432.2"
 title: Ordinance of 18 November 1992 on Official Cadastral Surveying
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: en
-version: 2008-07-01
+version: 2023-01-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20080701/en/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20080701-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20080701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,18 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20080701/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 18 November 1992 (Status as of 1 July 2008)
+of 18 November 1992 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
-based on Article 48*a* paragraph 1 of the Government and Administration Organisation Act of 21 March 1997[^ingress-1], Article 38 paragraph 1 of the Final Title of the Civil Code[^ingress-2] (CC), and Articles 5 paragraph 2, 6 paragraph. 1, 7, 9 paragraph 2, 12 paragraph 2, 14 paragraph 2, 29 paragraph 3, 31 paragraph 3, 32 paragraph 2, 33 paragraph 3 and 46 paragraph 4 of the Geoinformation Act of 5 October 2007[^ingress-3] (GeoIG),[^ingress-4]
+based on Article 48*a* paragraph 1 of the Government and Administration Organisation Act of 21 March 1997[^ingress-1], Article 38 paragraph 1 of the Final Title of the Civil Code (CC)[^ingress-2], and Articles 5 paragraph 2, 6 paragraph. 1, 7, 9 paragraph 2, 12 paragraph 2, 14 paragraph 2, 29 paragraph 3, 31 paragraph 3, 32 paragraph 2, 33 paragraph 3, 38 paragraph 1<sup>quater</sup> and 46 paragraph 4 of the Geoinformation Act of 5 October 2007[^ingress-3] (GeoIA),[^ingress-4]
 
 ordains:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-3]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^ingress-4]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^ingress-4]: Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 ## Chapter 1 General Provisions
 
@@ -45,9 +45,9 @@ ordains:
 
 **Relationship to general geoinformation law**[^1a-1]
 
-Official cadastral surveying is governed by the Geoinformation Ordinance of 21 May 2008[^1a-2], unless there are special provisions in this present Ordinance.
+Official cadastral surveying is governed by the Geoinformation Ordinance of 21 May 2008[^1a-2] (GeoIO), unless there are special provisions in this present Ordinance.
 
-[^1a-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^1a-1]: Inserted by No I of the O of 21 May 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 [^1a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 2
@@ -128,14 +128,15 @@ The object catalogue comprises the following information layers:
 
 **Responsibilities of the DDPS**[^6a-1]
 
-<sup>1</sup> The DDPS defines the object catalogue and specifies the data to be captured, its accuracy and reliability, together with other requirements. Where necessary it may depart from Articles 3, 10 and 17 of the Geoinformation Ordinance of 21 May 2008[^6a-2].
+<sup>1</sup> The DDPS defines the object catalogue and specifies the data to be captured, its accuracy and reliability, together with other requirements. Where necessary it may depart from Articles 3, 10 and 17 GeoIO[^6a-2] [^6a-3].
 
 <sup>2</sup> The DDPS specifies the official cadastral surveying interface.
 
 <sup>3</sup> The DDPS specifies the content, updating and management of the extracts to be prepared from official cadastral surveying data, and also the related technical documentation.
 
 [^6a-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^6a-2]: Name in accordance with No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)). This change has been made throughout the text.
+[^6a-3]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 6<sup>bis</sup>
 
@@ -269,7 +270,11 @@ The cantons may provide for further exceptions, in particular:
 [^17-1]: Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^17-2]: Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
-## Chapter 4 Initial Survey, Renovation and Updating
+## Chapter 4 Initial Survey, Renovation, Updating and pilot projects
+
+[^chap4-1]
+
+[^chap4-1]: Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 ### Section 1 General Provisions
 
@@ -295,7 +300,7 @@ The Federal Directorate of Cadastral Surveying[^19-1] may issue directives conce
 
 **Geodetic reference system**[^20-1]
 
-The planimetric and height datums for official cadastral surveying are laid down in Articles 4 and 5 of the Geoinformation Ordinance of 21 May 2008[^20-2].
+The planimetric and height datums for official cadastral surveying are laid down in Articles 4 and 5 of the GeoIO[^20-2].
 
 [^20-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^20-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
@@ -433,7 +438,40 @@ The Federal Directorate of Cadastral Surveying shall approve the cadastral surve
 
 [^30bis-1]: Inserted by No I of the O of 7 March 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Repealed by No I of the O of 21 May 2008, with effect from 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
-## Chapter 5**** Administration of Official Cadastral Surveying
+### Section 5 Pilot projects
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 30a
+
+<sup>1</sup>
+
+The Federal Directorate of Cadastral Surveying may authorise pilot projects relating to official cadastral surveying in individual cantons or in specific geographical areas in order to test and develop:
+
+- a. new processes and competences;
+- b. new technologies;
+- c. new content, and geodata and cartographic specifications.
+
+<sup>2</sup>
+
+The DDPS shall, with the agreement of the federal authorities concerned, issue in a separate ordinance for the pilot project concerned the provisions that derogate from:
+
+- a. this Ordinance;
+- b. the GeoIO[^30a-1];
+- c. the Land Register Ordinance of 23 September 2011[^30a-2];
+- d. the Ordinance of 21 May 2008[^30a-3] on Geographical Names;
+- e. the FDJP and DDPS Technical Ordinance of 28 December 2012[^30a-4] on the Land Register.
+
+<sup>3</sup> Pilot projects must be for a limited period and must be evaluated.
+
+[^30a-1]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^30a-2]: [SR 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
+[^30a-3]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^30a-4]: [SR 211.432.11](https://fedlex.data.admin.ch/eli/cc/2013/3)
+
+## Chapter 5 Administration of Official Cadastral Surveying
 
 [^chap5-1]
 
@@ -457,7 +495,7 @@ The Federal Directorate of Cadastral Surveying shall approve the cadastral surve
 
 *Repealed*
 
-## Chapter 6**** Access and Use
+## Chapter 6 Access and Use
 
 [^chap6-1]
 
@@ -467,7 +505,7 @@ The Federal Directorate of Cadastral Surveying shall approve the cadastral surve
 
 **Basic principle**
 
-<sup>1</sup> Any person may have access to the data of official cadastral surveying on demand, in accordance with the regulations in Articles 10–13 GeoIG.
+<sup>1</sup> Any person may have access to the data of official cadastral surveying on demand, in accordance with the regulations in Articles 10–13 GeoIA.
 
 <sup>2</sup> The canton shall designate the agency which is to be responsible for facilitating access and use and for the supply of extracts and derived products.
 
@@ -616,17 +654,85 @@ The cantons may delegate work on the «control points», «landownership», «lo
 [^46-2]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^46-3]: Second sentence amended by No I of the O of 7 March 2003, in force since 1 April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
-## Chapter 8 Federal Compensation and other Costs
+## Chapter 8 Programme Agreements, Federal Contributions and Other Costs
 
-### Section 1 Federal Compensation****
+[^chap8-1]
+
+[^chap8-1]: Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+### Section 1 Programme Agreements
 
 [^chap8-sec1-1]
 
-[^chap8-sec1-1]: Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^chap8-sec1-1]: Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 47
 
-**Allowable costs**
+**Subject matter and duration**[^47-1]
+
+<sup>1</sup>
+
+The subject matter of programme agreements between the Federal Office of Topography and cantons are in particular:
+
+- a. performance by the canton;
+- b. the contributions paid by the Confederation;
+- c. management controls;
+- d. the details of financial supervision.
+
+<sup>2</sup> A programme agreement shall have a duration of four years. Sub-goals may be agreed for a shorter duration.
+
+[^47-1]: Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47a
+
+**Reporting and controls**[^47a-1]
+
+<sup>1</sup> The canton shall submit a report to the Federal Office of Topography each year on the use of the contributions.
+
+<sup>2</sup>
+
+The Federal Office of Topography shall carry out random checks on:
+
+- a. the implementation of individual measures in accordance with the programme goals;
+- b. the use of the contributions paid.
+
+[^47a-1]: Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47b
+
+**Inadequate performance**[^47b-1]
+
+<sup>1</sup>
+
+The Federal Office of Topography shall withhold payment, in whole or in part, of instalments of federal contributions during the programme if the canton:
+
+- a. does not comply with the reporting requirement (Art. 47*a* para. 1);
+- b. is at fault in failing significantly to perform its part of the programme.
+
+<sup>2</sup> If it becomes apparent after the programme that performance was inadequate, the Federal Office of Topography shall request the canton to remedy the situation; it shall specify an appropriate period for doing so.
+
+<sup>3</sup> If performance is still inadequate after this period, the Federal Office of Topography shall request repayment to cover the value of inadequate performance, together with interest of 5 per cent (Art. 28 para. 2 of the Subsidies Act of 5 October 1990[^47b-2]).
+
+[^47b-1]: Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+[^47b-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+### Section 2 Federal Contributions
+
+[^chap8-sec2-1]
+
+[^chap8-sec2-1]: Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47c
+
+**Calculating of the federal contribution**[^47c-1]
+
+The rules on calculating the federal contribution to the funding for official cadastral surveying are set out in the Annex.
+
+[^47c-1]: Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47d
+
+**Allowable costs**[^47d-1]
 
 <sup>1</sup> Compensation is payable only in respect of costs that are incurred in accordance with the regulations and in the cost-effective execution of the task.
 
@@ -634,43 +740,44 @@ The cantons may delegate work on the «control points», «landownership», «lo
 
 The following costs are not allowable:
 
-- a.[^47-1] the costs of continuous updating and administration;
-- b.[^47-2] costs resulting from additional requirements of the canton;
+- a. the costs of continuous updating and administration;
+- b. costs resulting from additional requirements of the canton;
 - c. the costs of the cantonal surveying supervision service;
 - d. compensation paid to cantonal and communal bodies for their assistance in the work of demarcation and survey;
 - e. the costs of cantonal verification and public inspection procedures;
 - f. compensation for crop damage during surveying work;
 - g. interest on advance payments for demarcation and surveying work;
 - h. additional costs resulting from non-observance by the contracting parties of the relevant regulations or of the terms of the contract;
-- i.[^47-3] the determination of building addresses;
-- j.[^47-4] the costs of correcting discrepancies in accordance with Article 14*a*.
+- i. the determination of building addresses;
+- j. the costs of correcting discrepancies in accordance with Article 14*a*.
 
-[^47-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^47-2]: Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).).
-[^47-3]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^47-4]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^47d-1]: Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 48
 
-**Calculation of allowable costs**
+**Calculation of allowable costs**[^48-1]
 
-<sup>1</sup> For work that was awarded as a result of a tendering process, the allowable costs are in accordance with the stipulated price, subject to Article 47.
+<sup>1</sup> For work that was awarded in accordance with the regulations on public procurement, the allowable costs shall correspond to the stipulated price, subject to Article 47*d*.
 
-<sup>2</sup> For work that was not awarded as a result of a tendering process, the canton shall fix the allowable compensation in accordance with current market rates.[^48-1]
+<sup>2</sup> For work that was not awarded in accordance with the regulations on public procurement, the canton shall fix the allowable compensation in accordance with current market rates.
 
-<sup>3</sup> Compensation fixed by the canton in accordance with paragraph 2 requires the approval of the Confederation.
+<sup>3</sup> Compensation fixed by the canton requires the approval of the Confederation.
 
-[^48-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>4</sup> A flat-rate federal contribution may be agreed in the programme agreement instead of the allowable costs.
+
+[^48-1]: Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 48a
 
-**Lump-sum compensation**[^48a-1]
+[^48a-1]
 
-The principles of Article 47 are also applied to agreements on lump-sum compensation between the Confederation and the canton.
+[^48a-1]: Originally Art. 48<sup>bis</sup>. Inserted by No I of the O of 7 March 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Repealed by No I of the O of 23 Nov. 2022, with effect from 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
-[^48a-1]: Originally Art. 48<sup>bis</sup>. Inserted by No I of the O of 7 March 2003, in force since 1 April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+### Section 3 Other Costs
 
-### Section 2 Other Costs
+[^chap8-sec3-1]
+
+[^chap8-sec3-1]: Originally Section 2.
 
 #### Art. 49
 
@@ -784,3 +891,47 @@ For work carried out or continued in accordance with the previous regulations as
 #### Art. 58
 
 This Ordinance shall come into force on 1 January 1993.
+
+Annex[^t-1]
+
+(Art. 47*c*)
+
+## Calculating the federal contribution
+
+[^t-1]: Inserted by No II of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+When calculating the federal contribution to the funding for cantonal projects in accordance with Article 47*c*, the following percentages apply; they determine the share of allowable costs in accordance with Articles 47*d* and 48:
+
+**1. Initial survey:**
+
+- a. for built-up areas and building zones (Zone I): 15 per cent;
+- b. for agricultural and forest land in valleys according to the agricultural production register (Zone II): 30 per cent;
+- c. for agricultural and forest land in mountainous and summer pasture areas according to the agricultural production register (Zone III): 45 per cent.
+
+**2. New survey**
+
+If a survey that was carried out in accordance with the regulations that applied before 10 June 1919 is replaced, the values in Number 1 apply.
+
+**3. Renovation:**
+
+- a. for built-up areas and building zones (Zone I): 15 per cent;
+- b. for agricultural and forest land in valleys according to the agricultural production register (Zone II): 20 per cent;
+- c. for agricultural and forest land in mountainous and summer pasture areas according to the agricultural production register (Zone III): 35 per cent;
+- d. in the case of overall improvements and land reallotments in agriculture and forestry, provided the Confederation does not make payments for the same purpose under other legislation and provided these costs are not borne by third parties: 25 per cent.
+
+**4. Demarcation**
+
+Demarcation of territorial and property boundaries for agricultural and forest land in mountainous and summer pasture areas according to the agricultural production register (Zone III), provided the canton bears an appropriate share of the costs: 25 per cent.
+
+**5. Measures following natural events**
+
+For measures carried out following natural events or permanent landslip incidents and which are equivalent to an initial survey, the rates for an initial survey and demarcation apply.
+
+**6. Special adjustments and periodical updating:**
+
+- a. for special adjustments of exceptional national interest, provided the canton demonstrates that the funding is guaranteed: 60 per cent;
+- b. for the costs of periodical updates that are not borne by the person responsible and the funding of which according to information from the canton is guaranteed, for each period in accordance with Article 24 paragraph 3: 60 per cent.
+
+**7. Pilot projects**
+
+Innovative pilot projects to develop official cadastral surveying and to test new technologies: 50–90 per cent, depending on the innovative content and the federal interest.

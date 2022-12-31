@@ -4,11 +4,11 @@ title: Ordonnance du 18 novembre 1992 sur la mensuration officielle (OMO)
 short: OMO
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: fr
-version: 2008-07-01
+version: 2023-01-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20080701/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20080701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20080701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20080701/fr"
 
 (OMO)
 
-du 18 novembre 1992 (Etat le 1<sup>er</sup> juillet 2008)
+du 18 novembre 1992 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 48*a*, al. 1, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1], vu l’art. 38, al. 1, du titre final du code civil (CC)[^ingress-2], vu les art. 5, al. 2, 6, al. 1, 7, 9, al. 2, 12, al. 2, 14, al. 2, 29, al. 3, 31, al. 3, 32, al. 2, 33, al. 3, et 46, al. 4, de la loi du 5 octobre 2007 sur la géoinformation (LGéo)[^ingress-3],[^ingress-4]
+vu l’art. 48*a*, al. 1, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1], vu l’art. 38, al. 1, du titre final du code civil (CC)[^ingress-2], vu les art. 5, al. 2, 6, al. 1, 7, 9, al. 2, 12, al. 2, 14, al. 2, 29, al. 3, 31, al. 3, 32, al. 2, 33, al. 3, 38, al. 1<sup>quater</sup> et 46, al. 4, de la loi du 5 octobre 2007 sur la géoinformation (LGéo)[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-3]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -40,22 +40,22 @@ arrête:
 
 <sup>2</sup> Les données de la mensuration officielle sont des géodonnées de référence utilisées par des autorités fédérales, cantonales et communales, des milieux économiques, des milieux scientifiques et des tiers pour obtenir des géoinformations.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 1a
 
 **Relation avec le droit général de la géoinformation**[^1a-1]
 
-La mensuration officielle est régie par l’ordonnance du 21 mai 2008 sur la géoinformation[^1a-2], sauf disposition particulière de la présente ordonnance.
+La mensuration officielle est régie par l’ordonnance du 21 mai 2008 sur la géoinformation (OGéo)[^1a-2], sauf disposition particulière de la présente ordonnance.
 
-[^1a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^1a-1]: Introduit par le ch. I de l’O du 21 mai 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 [^1a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 2
 
 [^2-1]
 
-[^2-1]: Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^2-1]: Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 3
 
@@ -67,7 +67,7 @@ La mensuration officielle est régie par l’ordonnance du 21 mai 2008 sur la g�
 
 <sup>3</sup> En cas de remaniement parcellaire et dans les régions où un remaniement agricole ou sylvicole est nécessaire, mais impossible à réaliser dans un proche avenir, les travaux techniques visant à saisir les données de la couche d’information «biens-fonds» sont exécutés selon une méthode simplifiée. Le DDPS fixe les exigences techniques applicables.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 4
 
@@ -90,9 +90,9 @@ La mensuration officielle comprend:
 - e. les éléments et les documents de l’ancienne mensuration officielle;
 - f.[^5-3] le plan de base de la mensuration officielle.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-2]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-3]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^5-3]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 6
 
@@ -118,31 +118,32 @@ Le catalogue des objets comprend les couches d’information suivantes:
 
 <sup>3</sup> La couche d’information «biens-fonds» comprend les immeubles visés à l’art. 655, al. 2, CC, pour autant qu’ils puissent être différenciés par la surface, à l’exception des parts de copropriété.[^6-6]
 
-[^6-1]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-3]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-4]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-5]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6-6]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-3]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-4]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-5]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6-6]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 6a
 
 **Compétence du DDPS**[^6a-1]
 
-<sup>1</sup> Le DDPS décrit le catalogue des objets et fixe les données à saisir, leur degré de précision et de fiabilité, ainsi que les autres exigences qui s’y rapportent. Il est autorisé à déroger aux art. 3, 10 et 17 de l’ordonnance du 21 mai 2008 sur la géoinformation[^6a-2] lorsque des raisons objectives l’exigent.
+<sup>1</sup> Le DDPS décrit le catalogue des objets et fixe les données à saisir, leur degré de précision et de fiabilité, ainsi que les autres exigences qui s’y rapportent. Il est autorisé à déroger aux art. 3, 10 et 17 OGé[^6a-2] [^6a-3] lorsque des raisons objectives l’exigent.
 
 <sup>2</sup> Il fixe l’interface de la mensuration officielle (IMO).
 
 <sup>3</sup> Il définit le contenu, la mise à jour et la gestion des extraits des données de la mensuration officielle, ainsi que la documentation technique à établir.
 
-[^6a-1]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^6a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^6a-1]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6a-2]: Nouvelle expression selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6a-3]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 6<sup>bis</sup>
 
 [^6bis-1]
 
-[^6bis-1]: Introduit par le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^6bis-1]: Introduit par le ch. I de l’O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 7
 
@@ -156,16 +157,16 @@ Le catalogue des objets comprend les couches d’information suivantes:
 
 <sup>4</sup> La Direction fédérale des mensurations cadastrales définit le modèle de représentation du plan du registre foncier.[^7-4]
 
-[^7-1]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^7-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^7-4]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 8 et 9
 
 [^89-1]
 
-[^89-1]: Abrogés par le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^89-1]: Abrogés par le ch. I de l’O du 7 mars 2003, avec effet au 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 10
 
@@ -173,8 +174,8 @@ Le catalogue des objets comprend les couches d’information suivantes:
 
 Les cantons peuvent élargir le contenu de la mensuration officielle prévu par le droit fédéral dans les limites fixées par le DDPS[^10-2] et prescrire des exigences supplémentaires en matière de mensuration.
 
-[^10-1]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^10-2]: Nouvelle expression selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Il a été tenu compte de cette modification dans tout le présent texte.
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^10-2]: Nouvelle expression selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Il a été tenu compte de cette modification dans tout le présent texte.
 
 ## Chapitre 3 Abornement
 
@@ -188,7 +189,7 @@ Les cantons peuvent élargir le contenu de la mensuration officielle prévu par 
 
 <sup>2</sup> Sont abornées les limites territoriales, les limites de biens-fonds et les limites de droits distincts et permanents, pour autant qu’ils puissent être différenciés par la surface.[^11-1]
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 12
 
@@ -211,7 +212,7 @@ Les cantons peuvent prescrire que les limites soient déterminées sur la base d
 - a.[^13-1] dans les régions agricoles ou forestières en zone de montagne ou d’estivage selon le cadastre de la production agricole[^13-2] ainsi que dans les régions improductives;
 - b. lors d’une mise à jour, si les propriétaires concernés y consentent.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^13-2]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
 
 #### Art. 14
@@ -222,7 +223,7 @@ Les cantons peuvent prescrire que les limites soient déterminées sur la base d
 
 <sup>2</sup> Une simplification du tracé des limites doit être visée lors du premier relevé, du renouvellement et de la mise à jour de la couche d’information «biens-fonds». Le tracé des limites existantes doit si possible être rectifié.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 14a
 
@@ -230,7 +231,7 @@ Les cantons peuvent prescrire que les limites soient déterminées sur la base d
 
 Des contradictions relevées entre les plans de la mensuration officielle et la réalité ou entre ces plans sont corrigées d’office.
 
-[^14a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^14a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 ### Section 3 Pose des signes de démarcation
 
@@ -269,10 +270,14 @@ Les cantons peuvent prévoir d’autres exceptions, notamment:
 - b.[^17-1] pour les biens-fonds ainsi que les droits distincts et permanents différenciés par la surface pour lesquels les signes de démarcation sont constamment menacés par l’utilisation agricole ou par d’autres atteintes;
 - c.[^17-2] dans les régions agricoles et sylvicoles en zone de montagne et en zone d’estivage selon le cadastre de la production agricole, ainsi que dans les régions improductives;
 
-[^17-1]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^17-2]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
-## Chapitre 4 Premier relevé, renouvellement et mise à jour
+## Chapitre 4 Premier relevé, renouvellement, mise à jour et projets pilotes
+
+[^chap4-1]
+
+[^chap4-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 ### Section 1 Dispositions générales
 
@@ -296,9 +301,9 @@ La Direction fédérale des mensurations cadastrales peut édicter des directive
 
 **Système de référence géodésique**[^20-1]
 
-Les références planimétrique et altimétrique de la mensuration officielle sont fixées par les art. 4 et 5 de l’ordonnance du 21 mai 2008 sur la géoinformation[^20-2].
+Les références planimétrique et altimétrique de la mensuration officielle sont fixées par les art. 4 et 5 OGé[^20-2].
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^20-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 21
@@ -311,7 +316,7 @@ Les références planimétrique et altimétrique de la mensuration officielle so
 
 <sup>3</sup> Il peut prescrire l’exécution par étapes du premier relevé et du renouvellement. Chaque étape doit comprendre au moins une couche d’information complète et couvrir une région d’un seul tenant et d’une certaine ampleur; la couche d’information «points fixes» doit être saisie pendant la première étape. Si un autre mode opératoire semble techniquement opportun, il le soumet à la Direction fédérale des mensurations cadastrales pour approbation.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 ### Section 2 Mise à jour
 
@@ -329,7 +334,7 @@ Tous les éléments de la mensuration officielle sont sujets à la mise à jour.
 
 <sup>2</sup> Les cantons règlent le système d’annonces et fixent les délais de mise à jour.
 
-[^23-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 24
 
@@ -341,7 +346,7 @@ Tous les éléments de la mensuration officielle sont sujets à la mise à jour.
 
 <sup>3</sup> Le cycle de mise à jour est si possible calqué sur celui de la mensuration nationale. Il ne doit pas excéder douze ans.[^24-1]
 
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 25
 
@@ -351,7 +356,7 @@ Tous les éléments de la mensuration officielle sont sujets à la mise à jour.
 
 <sup>2</sup> Les cantons règlent au demeurant les relations entre la mensuration officielle et le registre foncier.
 
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 ### Section 3 Vérification
 
@@ -375,10 +380,10 @@ Tous les éléments de la mensuration officielle sont sujets à la mise à jour.
 
 <sup>4</sup> La Confédération et le canton peuvent convenir de renoncer à l’examen préalable.[^27-4]
 
-[^27-1]: Nouvelle expression selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^27-2]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^27-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^27-4]: Introduit par le ch. I de l’O du 28 janv. 1998 ([RO 1998 270](https://fedlex.data.admin.ch/eli/oc/1998/270_270_270)). Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^27-1]: Nouvelle expression selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^27-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^27-4]: Introduit par le ch. I de l’O du 28 janv. 1998 ([RO 1998 270](https://fedlex.data.admin.ch/eli/oc/1998/270_270_270)). Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 28
 
@@ -399,7 +404,7 @@ Les cantons règlent la procédure, en respectant les principes suivants:
 - e. la décision prise lors de la procédure d’opposition peut faire l’objet d’un recours devant une autorité cantonale; cette dernière examine librement la décision;
 - f. la décision peut faire l’objet d’un recours en dernière instance cantonale devant un tribunal au sens de l’art. 75, al. 2, de la loi du 17 juin 2005 sur le Tribunal fédéral[^28-2].
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^28-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 #### Art. 29
@@ -416,8 +421,8 @@ Au terme de l’enquête publique et après le règlement des oppositions formé
 
 <sup>2</sup> L’approbation confère à ces éléments de la mensuration le caractère de documents officiels.
 
-[^29-1]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^29-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^29-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 30
 
@@ -428,19 +433,52 @@ La Direction fédérale des mensurations cadastrales reconnaît les travaux de m
 - a. les données répondent aux exigences qualitatives et techniques prévues par le droit fédéral, et que
 - b. les travaux de mensuration ont été approuvés par le canton.
 
-[^30-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 30<sup>bis</sup>
 
 [^30bis-1]
 
-[^30bis-1]: Introduit par le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^30bis-1]: Introduit par le ch. I de l’O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
-## Chapitre 5**** Gestion de la mensuration officielle
+### Section 5 Projets pilotes
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 30a
+
+<sup>1</sup>
+
+La Direction fédérale des mensurations cadastrales peut autoriser que soient menés au niveau cantonal ou dans des zones géographiquement limitées des projets pilotes de mensuration officielle destinés à tester ou à développer:
+
+- a. de nouveaux processus et de nouvelles compétences;
+- b. de nouvelles technologies;
+- c. de nouveaux contenus et de nouveaux modèles de géodonnées et de représentation.
+
+<sup>2</sup>
+
+Pour chaque projet pilote, le DDPS arrête dans une ordonnance séparée, en accord avec les services fédéraux concernés, les dispositions dérogeant:
+
+- a. à la présente ordonnance;
+- b. à la OGéo[^30a-1];
+- c. à l’ordonnance du 23 septembre 2011 sur le registre foncier[^30a-2];
+- d. à l’ordonnance du 21 mai 2008 sur les noms géographiques[^30a-3];
+- e. à l’ordonnance technique du DFJP et du DDPS du 28 décembre 2012 concernant le registre foncier[^30a-4].
+
+<sup>3</sup> Les projets pilotes doivent être limités dans le temps et faire l’objet d’une évaluation.
+
+[^30a-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^30a-2]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
+[^30a-3]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^30a-4]: [RS 211.432.11](https://fedlex.data.admin.ch/eli/cc/2013/3)
+
+## Chapitre 5 Gestion de la mensuration officielle
 
 [^chap5-1]
 
-[^chap5-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^chap5-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 31
 
@@ -454,17 +492,17 @@ La Direction fédérale des mensurations cadastrales reconnaît les travaux de m
 
 [^32-1]
 
-[^32-1]: Abrogé par le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^32-1]: Abrogé par le ch. I de l’O du 7 mars 2003, avec effet au 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 33
 
 Abrogé
 
-## Chapitre 6**** Accès et utilisation
+## Chapitre 6 Accès et utilisation
 
 [^chap6-1]
 
-[^chap6-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^chap6-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 34
 
@@ -526,7 +564,7 @@ Le contrat visé à l’art. 14, al. 3, LGéo, doit prévoir que seuls les frais
 
 <sup>4</sup> Elle assure en outre la coordination entre la mensuration officielle et les autres projets de mensuration de la Confédération, elle conseille les services fédéraux lors de l’acquisition de données de la mensuration officielle et représente les intérêts de la Confédération vis-à-vis des cantons et des tiers.[^40-3]
 
-<sup>5</sup> En collaboration avec les organes cantonaux chargés de la surveillance de la mensuration officielle, elle est habilitée, dans les limites de sa tâche, à tenir un registre de données concernant les différents travaux de mensuration et les adjudicataires mandatés à cet effet.[^40-4]
+<sup>5</sup> En collaboration avec les organes cantonaux chargés de la surveillance de la men­suration officielle, elle est habilitée, dans les limites de sa tâche, à tenir un registre de données concernant les différents travaux de mensuration et les adjudicataires mandatés à cet effet.[^40-4]
 
 <sup>6</sup>
 
@@ -535,17 +573,17 @@ Dans le cadre des conventions-programmes, elle fixe:
 - a. les travaux de mensuration considérés comme des adaptations particulières qui présentent un intérêt national exceptionnellement élevé;
 - b. les travaux de mensuration considérés comme des mises à jour périodiques.[^40-5]
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^40-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^40-3]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-4]: Introduit par le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-5]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^40-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^40-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-4]: Introduit par le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-5]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 41
 
 [^41-1]
 
-[^41-1]: Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^41-1]: Abrogé par le ch. I de l’O du 21 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 ### Section 2 Surveillance cantonale
 
@@ -557,8 +595,8 @@ Dans le cadre des conventions-programmes, elle fixe:
 
 <sup>3</sup> Un canton qui n’est pas en mesure de remplir ses tâches de surveillance de la mensuration peut en déléguer tout ou partie à la Direction fédérale des mensurations cadastrales contre paiement des frais.
 
-[^42-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^42-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 42a
 
@@ -566,7 +604,7 @@ Dans le cadre des conventions-programmes, elle fixe:
 
 Le DDPS peut conclure avec la Principauté du Liechtenstein un traité de droit public, résiliable et à durée déterminée, relatif au transfert partiel ou total de la surveillance de la mensuration du Liechtenstein à la Direction fédérale des mensurations cadastrales.
 
-[^42a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^42a-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 ### Section 3 Exécution de la mensuration officielle
 
@@ -578,7 +616,7 @@ Le DDPS peut conclure avec la Principauté du Liechtenstein un traité de droit 
 
 <sup>2</sup> Le canton désigne le service compétent pour les données originales et en vigueur de la mensuration officielle.
 
-[^43-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 44
 
@@ -593,7 +631,7 @@ L’exécution des travaux concernant les couches d’information «points fixes
 - a. des communes ou d’autres collectivités de droit public ou personnes morales de droit public, si celles-ci disposent d’un propre service de mensuration dirigé par un ingénieur géomètre inscrit au registre des géomètres;
 - b. des ingénieurs géomètres inscrits au registre des géomètres.
 
-[^44-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 45
 
@@ -603,7 +641,7 @@ L’exécution des travaux concernant les couches d’information «points fixes
 
 <sup>2</sup> Les travaux de la mensuration officielle mis en adjudication pour une exécution exclusive dans une zone géographique donnée doivent faire l’objet d’une publication officielle.
 
-[^45-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 46
 
@@ -616,16 +654,88 @@ L’exécution des travaux concernant les couches d’information «points fixes
 <sup>3</sup> Les cantons et les entreprises ferroviaires conviennent de l’indemnisation des prestations pour les cas prévus aux al. 1 et 2.
 
 [^46-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^46-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^46-3]: Nouvelle teneur de la phrase selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^46-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^46-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
-## Chapitre 8 Indemnités de la Confédération et frais restants
+## Chapitre 8 Conventions-programmes, contributions fédérales et frais restants
 
-### Section 1 Indemnités de la Confédération
+[^chap8-1]
+
+[^chap8-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+### Section 1 Conventions-programmes
+
+[^chap8-sec1-1]
+
+[^chap8-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 47
 
-**Frais pris en compte**
+**Objet et durée**[^47-1]
+
+<sup>1</sup>
+
+Les conventions-programmes établies entre l’Office fédéral de topographie et les cantons ont notamment pour objet:
+
+- a. les prestations du canton;
+- b. les contributions versées par la Confédération;
+- c. le contrôle de gestion;
+- d. les modalités de la surveillance financière.
+
+<sup>2</sup> Elles sont conclues pour une durée de quatre ans. Les accords relatifs à des objectifs partiels peuvent porter sur une durée plus courte.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47a
+
+**Compte rendu et contrôle**[^47a-1]
+
+<sup>1</sup> Le canton rend compte annuellement à l’Office fédéral de topographie de l’utilisation des contributions.
+
+<sup>2</sup>
+
+L’Office fédéral de topographie procède à des contrôles par sondage destinés:
+
+- a. à vérifier la conformité de l’exécution de certaines mesures avec les objectifs du programme;
+- b. à vérifier l’utilisation des contributions versées.
+
+[^47a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47b
+
+**Exécution imparfaite**[^47b-1]
+
+<sup>1</sup>
+
+L’Office fédéral de topographie retient tout ou partie des paiements échelonnés des contributions fédérales pendant la durée du programme si le canton:
+
+- a. ne s’acquitte pas de son devoir de rendre compte (art. 47*a*, al. 1);
+- b. entrave considérablement et par sa propre faute l’exécution de sa prestation.
+
+<sup>2</sup> Si, après la durée du programme, il s’avère que la prestation a été fournie de manière imparfaite, l’Office fédéral de topographie en exige l’exécution correcte par le canton; il lui fixe un délai raisonnable à cet effet.
+
+<sup>3</sup> Si les manquements ne sont pas corrigés à l’expiration de ce délai, l’Office fédéral de topographie exige la restitution d’une somme permettant de les couvrir, grevée d’un intérêt annuel de 5 % (art. 28, al. 2, de la loi du 5 octobre 1990 sur les subventions[^47b-2]).
+
+[^47b-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+[^47b-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+
+### Section 2 Contributions fédérales
+
+[^chap8-sec2-1]
+
+[^chap8-sec2-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47c
+
+**Détermination de la contribution fédérale**[^47c-1]
+
+La contribution fédérale au financement de la mensuration officielle est déterminée conformément aux dispositions de l’annexe.
+
+[^47c-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+#### Art. 47d
+
+**Frais pris en compte**[^47d-1]
 
 <sup>1</sup> Ne sont pris en compte pour l’indemnisation par la Confédération que les frais résultant d’une exécution des tâches économique et conforme aux prescriptions.
 
@@ -633,44 +743,44 @@ L’exécution des travaux concernant les couches d’information «points fixes
 
 Sont notamment exclus du calcul:
 
-- a.[^47-1] les frais de mise à jour permanente et de gestion;
-- b.[^47-2] les frais occasionnés par des extensions cantonales;
+- a. les frais de mise à jour permanente et de gestion;
+- b. les frais occasionnés par des extensions cantonales;
 - c. les frais du service cantonal du cadastre;
 - d. les indemnités payées à des organes cantonaux et communaux pour leur collaboration à des travaux d’abornement et de mensuration;
-- e.[^47-3] les frais de la vérification cantonale et de l’enquête publique;
+- e. les frais de la vérification cantonale et de l’enquête publique;
 - f. les indemnités pour les dommages causés aux cultures lors de travaux de mensuration;
 - g. les intérêts pour des avances faites sur le coût des travaux d’abornement et de mensuration;
 - h. les frais supplémentaires résultant de la non-observation, par les parties contractantes, des clauses contractuelles ou des prescriptions applicables;
-- i.[^47-4] l’établissement de l’adressage des bâtiments;
-- j.[^47-5] les frais occasionnés par la correction de contradictions visée à l’art. 14*a*.
+- i. l’établissement de l’adressage des bâtiments;
+- j. les frais occasionnés par la correction de contradictions visées à l’art. 14*a*.
 
-[^47-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^47-2]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^47-3]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^47-4]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^47-5]: Introduite par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^47d-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 48
 
-**Calcul des frais pris en compte**
+**Calcul des frais pris en compte**[^48-1]
 
-<sup>1</sup> S’agissant des travaux adjugés par soumission, les frais pris en compte correspondent au prix fixé, sous réserve de l’art. 47.
+<sup>1</sup> S’agissant de travaux adjugés conformément aux prescriptions du droit des marchés publics, les frais pris en compte correspondent au prix fixé, sous réserve de l’art. 47*d*.
 
-<sup>2</sup> S’agissant des travaux qui ne sont pas adjugés par soumission, le canton fixe l’indemnité prise en compte sur la base des montants du marché.[^48-1]
+<sup>2</sup> S’agissant de travaux qui ne sont pas adjugés conformément aux prescriptions du droit des marchés publics, le canton fixe l’indemnité prise en compte sur la base des montants du marché.
 
-<sup>3</sup> Les indemnisations fixées par les cantons au sens de l’al. 2 sont soumises à l’approbation de la Confédération.
+<sup>3</sup> Les indemnités fixées par les cantons sont soumises à l’approbation de la Confédération.
 
-[^48-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+<sup>4</sup> Une contribution fédérale forfaitaire peut être fixée dans la convention-programme à la place des frais pris en compte.
+
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 #### Art. 48a
 
-**Indemnités forfaitaires**[^48a-1]
+[^48a-1]
 
-Les principes énoncés à l’art. 47 s’appliquent par analogie aux conventions passées entre la Confédération et le canton en matière d’indemnités forfaitaires.
+[^48a-1]: Anciennement art. 48<sup>bis</sup>. Introduit par ch. I de l’O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Abrogé par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
-[^48a-1]: Anciennement art. 48<sup>bis</sup>. Introduit par le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+### Section 3 Frais restants
 
-### Section 2: Frais restants
+[^chap8-sec3-1]
+
+[^chap8-sec3-1]: Anciennement sec. 2.
 
 #### Art. 49
 
@@ -678,7 +788,7 @@ Les principes énoncés à l’art. 47 s’appliquent par analogie aux conventio
 
 Les cantons fixent la répartition des frais restants après déduction de l’indemnité fédérale.
 
-[^49-1]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 ## Chapitre 9 Dispositions finales
 
@@ -716,7 +826,7 @@ Sont abrogés:
 
 <sup>5</sup> Les mensurations approuvées selon les dispositions de la présente ordonnance sont considérées comme des mensurations selon les nouvelles dispositions.[^51-1]
 
-[^51-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^51-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 52
 
@@ -751,7 +861,7 @@ Pour les travaux exécutés ou poursuivis conformément aux anciennes dispositio
 
 <sup>3</sup> La Confédération ne participe aux frais que dans la mesure où il n’existe pas de mensuration officielle selon les nouvelles dispositions.
 
-[^55-1]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 56
 
@@ -766,7 +876,7 @@ Pour les travaux exécutés ou poursuivis conformément aux anciennes dispositio
 <sup>4</sup> Le DDPS fixe les exigences relatives à la numérisation préalable.
 
 [^56-1]: [[RO 1992 2461](https://fedlex.data.admin.ch/eli/oc/1992/2461_2461_2461), [1994 1612](https://fedlex.data.admin.ch/eli/oc/1994/1612_1612_1612). [RO 2007 5819](https://fedlex.data.admin.ch/eli/oc/2007/788)art. 6]. Voir actuellement l'O de l'Ass. féd. du 6 oct. 2006 sur le financement de la mensuration officielle ([RS 211.432.27](https://fedlex.data.admin.ch/eli/cc/2007/788)).
-[^56-2]: Nouvelle teneur selon le ch. I de l'O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^56-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 57
 
@@ -776,10 +886,54 @@ Pour les travaux exécutés ou poursuivis conformément aux anciennes dispositio
 
 <sup>2</sup> Les cantons définissent, pour la période transitoire courant jusqu’au 31 décembre 2016, un système de référence planimétrique homogène et un cadre de référence planimétrique pour la mensuration officielle applicables à l’ensemble de leur territoire cantonal.
 
-[^57-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juillet 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 ### Section 3 Entrée en vigueur
 
 #### Art. 58
 
-La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1993
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1993.
+
+Annexe[^t-1]
+
+(art. 47*c*)
+
+## Détermination de la contribution fédérale
+
+[^t-1]: Introduite par le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+
+La détermination de la contribution fédérale au financement de projets des cantons visée à l’art. 47*c* s’effectue sur la base des pourcentages suivants; ceux-ci correspondent à la part des frais pris en compte selon les art. 47*d* et 48.
+
+\1. Premier relevé
+
+- a. Pour les zones construites et les zones à bâtir (zone I): 15 %
+- b. Pour les régions agricoles et les régions forestières situées dans la région de plaine selon le cadastre de la production agricole (zone II): 30 %
+- c. Pour les régions agricoles et les régions forestières situées dans la région de montagne et la région d’estivage selon le cadastre de la production agricole (zone III): 45 %
+
+\2. Nouveau relevé
+
+En cas de remplacement de mensurations établies conformément aux dispositions antérieures à celles du 10 juin 1919, les valeurs prévues au ch. 1 sont applicables.
+
+\3. Renouvellement
+
+- a. Pour les zones construites et les zones à bâtir (zone I): 15 %
+- b. Pour les régions agricoles et les régions forestières situées dans la région de plaine selon le cadastre de la production agricole (zone II): 20 %
+- c. Pour les régions agricoles et les régions forestières situées dans la région de montagne et la région d’estivage selon le cadastre de la production agricole (zone III): 35 %
+- d. Dans le cadre d’améliorations foncières intégrales et de remaniements parcellaires agricoles ou forestiers, à condition que la Confédération ne verse pas d’indemnités en vertu d’une autre base légale ou que ces frais ne soient pas à la charge de tiers: 25 %
+
+\4. Abornement
+
+Abornement des limites territoriales et des limites de la propriété pour les régions agricoles et les régions forestières situées dans la région de montagne et la région d’estivage selon le cadastre de la production agricole (zone III), dans la mesure où le canton prend à sa charge une partie raisonnable des frais: 25 %.
+
+\5. Mesures prises par suite de phénomènes naturels
+
+Lorsque, par suite de phénomènes naturels ou de territoires en mouvement permanent, des mesures sont prises et qu’elles équivalent à un premier relevé, les taux prévus pour le premier relevé et l’abornement sont applicables par analogie.
+
+\6. Adaptations particulières et mise à jour périodique
+
+- a. Pour les adaptations particulières qui présentent un intérêt national exceptionnellement élevé, à condition que le canton prouve que le financement est assuré: 60 %
+- b. Pour les frais inhérents à la mise à jour périodique qui ne sont pas à la charge de la personne qui a occasionné la mise à jour, à condition que le canton prouve que le financement est assuré, par période selon l’art. 24, al. 3: 60 %
+
+\7. Projets pilotes
+
+Projets pilotes innovants visant à poursuivre le développement de la mensuration officielle et à tester de nouvelles technologies: entre 50 et 90 %, en fonction du degré d’innovation du projet et de son intérêt pour la Confédération.
