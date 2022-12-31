@@ -4,13 +4,12 @@ number: "162.621.1"
 title: Reglement über die Organisation der Rechtsprechung der sozialversicherungsrechtlichen Abteilung des Verwaltungsgerichts des Kantons Bern
 short: OrR SVA
 language: de
-version: 2011-01-01
-valid_until: 2022-12-31
-version_adopted: 2010-10-26
+version: 2023-01-01
+version_adopted: 2022-11-01
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.621.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1650/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2745/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1650/pdf_file"
 
 (OrR SVA)
 
-vom 26.10.2010 (Stand 01.01.2011)
+vom 26.10.2010 (Stand 01.01.2023)
 
 Die Abteilungskonferenz der Sozialversicherungsrechtlichen Abteilung des Verwaltungsgerichts,
 
@@ -62,7 +61,9 @@ beschliesst:
 
 **Belastungsausgleich**
 
-<sup>1</sup> Bei Bedarf entscheidet die Abteilungskonferenz über einen Belastungsausgleich.
+<sup>1</sup> Über einen längerdauernden bzw. einen Belastungsausgleich aus organisatorischen Gründen, namentlich bei längeren Abwesenheiten, bei funktionsbedingten Zusatzbelastungen oder Neueintritten, entscheidet die Abteilungskonferenz.
+
+<sup>2</sup> Über einen Belastungsausgleich im Einzelfall entscheidet die Abteilungspräsidentin oder der Abteilungspräsident.
 
 ## 3. Geschäftsabwicklung
 
@@ -128,7 +129,7 @@ beschliesst:
 
 #### Art. 11
 
-<sup>1</sup> Die Veröffentlichung eines Urteils im Sinne von Artikel 38 Absatz 1 OrR VG im Internet bedarf eines Beschlusses der Abteilungskonferenz. Diejenige in Periodika, wie insbesondere der Bernischen Verwaltungsrechtsprechung (BVR), bedarf eines Beschlusses der erweiterten Abteilungskonferenz.
+<sup>1</sup> Die Veröffentlichung eines Urteils in der Bernischen Verwaltungsrechtsprechung (BVR) bedarf eines Beschlusses der erweiterten Abteilungskonferenz.
 
 <sup>2</sup> Jede Richterin und jeder Richter ist antragsberechtigt.
 

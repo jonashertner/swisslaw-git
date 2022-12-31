@@ -4,13 +4,12 @@ number: "162.621.1"
 title: "Règlement concernant l'organisation des compétences juridictionnelles de la Cour des assurances sociales du Tribunal administratif du canton de Berne"
 short: ROr SVA
 language: fr
-version: 2011-01-01
-valid_until: 2022-12-31
-version_adopted: 2010-10-26
+version: 2023-01-01
+version_adopted: 2022-11-01
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.621.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1650/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2745/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1650/pdf_file"
 
 (ROr SVA)
 
-du 26.10.2010 (état au 01.01.2011)
+du 26.10.2010 (état au 01.01.2023)
 
 La conférence des juges de la Cour des assurances sociales du Tribunal administratif,
 
@@ -62,7 +61,9 @@ arrête:
 
 **Compensation de la charge de travail**
 
-<sup>1</sup> En cas de besoin, la conférence des juges peut ordonner une compensation de la charge de travail.
+<sup>1</sup> La conférence des juges est compétente pour aménager une compensation de la charge de travail à plus long terme ainsi que pour des raisons d'organisation, notamment en cas d'absences prolongées, en cas de charges supplémentaires liées à la fonction ou en cas de nouveaux engagements.
+
+<sup>2</sup> La présidente ou le président de la Cour est compétent pour aménager une compensation de la charge de travail dans des cas individuels.
 
 ## 3. Déroulement des affaires
 
@@ -128,7 +129,7 @@ arrête:
 
 #### Art. 11
 
-<sup>1</sup> La publication d'un jugement sur internet au sens de l'article 38, alinéa 1 ROr TA nécessite une décision de la conférence des juges. La publication dans des revues spécialisées, telles qu'en particulier la revue "Jurisprudence administrative bernoise" (JAB), nécessite une décision de la conférence élargie des juges.
+<sup>1</sup> La publication d'un jugement dans la revue «Jurisprudence administrative bernoise» (JAB) nécessite une décision de la conférence élargie des juges.
 
 <sup>2</sup> Chaque juge peut formuler une proposition.
 
