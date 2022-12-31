@@ -4,13 +4,12 @@ number: "820.111"
 title: Verordnung über die Umweltverträglichkeitsprüfung
 short: KUVPV
 language: de
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-17
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 2009-10-14
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/820.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2172/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2700/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2172/pdf_file"
 
 (KUVPV)
 
-vom 14.10.2009 (Stand 01.04.2021)
+vom 14.10.2009 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -76,7 +75,7 @@ beschliesst:
 
 **Zugänglichkeit von Bericht und Entscheid**
 
-<sup>1</sup> Die Publikation nach Artikel 15 Absatz 3 und Artikel 20 Absatz 1 UVPV erfolgt im kantonalen Amtsblatt und im amtlichen Anzeiger.
+<sup>1</sup> Die Publikation nach Artikel 15 Absatz 3 und Artikel 20 Absatz 1 UVPV erfolgt im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde.
 
 <sup>2</sup> Die Publikation nach Artikel 15 UVPV erfolgt so früh wie möglich, spätestens zusammen mit der Publikation des Projekts im massgeblichen Verfahren.
 

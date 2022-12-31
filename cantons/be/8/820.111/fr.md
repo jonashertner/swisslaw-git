@@ -4,13 +4,12 @@ number: "820.111"
 title: "Ordonnance relative à l'étude d'impact sur l'environnement"
 short: OCEIE
 language: fr
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-17
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 2009-10-14
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/820.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2172/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2700/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2172/pdf_file"
 
 (OCEIE)
 
-du 14.10.2009 (état au 01.04.2021)
+du 14.10.2009 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -76,7 +75,7 @@ arrête:
 
 **Consultation du rapport d’impact et de la décision**
 
-<sup>1</sup> La publication au sens de l’article 15, alinéa 3, et de l’article 20, alinéa1 OEIE est assurée dans la Feuille officielle cantonale et dans la feuille officielle d’avis.
+<sup>1</sup> La publication au sens de l’article 15, alinéa 3 et de l’article 20, alinéa 1 OEIE est assurée dans la Feuille officielle cantonale et dans l'organe de publication officiel de la commune.
 
 <sup>2</sup> La publication au sens de l’article 15 OEIE est assurée dans les meilleurs délais, au plus tard lorsque le projet est publié dans le cadre de la procédure décisive.
 
