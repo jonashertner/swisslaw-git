@@ -4,13 +4,13 @@ number: "521.10"
 title: Kantonale Bevölkerungsschutzverordnung
 short: KBSV
 language: de
-version: 2021-08-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-30
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-16
 adopted: 2025-11-26
 in_force: 2026-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/521.10"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2519/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2732/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2519/pdf_file"
 
 (KBSV)
 
-vom 22.10.2014 (Stand 01.08.2021)
+vom 22.10.2014 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -832,13 +832,14 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Beim Ersatzbeitragsfonds handelt es sich um eine Spezialfinanzierung gemäss Artikel 14 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^78-1]. Die Verwaltung obliegt dem BSM.
+<sup>1</sup> Beim Ersatzbeitragsfonds handelt es sich um einen Fonds gemäss Artikel 53 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^78-1]. Die Verwaltung obliegt dem BSM.
 
-<sup>2</sup> Die Budgetierung erfolgt im Rahmen des Aufgaben- und Finanzplans sowie des Voranschlags. Die Rechnungslegung erfolgt gemäss Artikel 5 FLG. Die Spezialfinanzierung wird im Geschäftsbericht thematisiert.
+<sup>2</sup> Die Budgetierung erfolgt im Rahmen des Aufgaben- und Finanzplans sowie des Budgets. Die Rechnungslegung erfolgt gemäss Artikel 40 bis 42 FHG. Der Fonds wird im Geschäftsbericht thematisiert.
 
-<sup>3</sup> Die dem Kanton durch die Verwaltung des Ersatzbeitragsfonds entstehenden Kosten gehen zulasten des Fonds. Der Regierungsrat legt eine entsprechende Pauschalentschädigung gemäss Artikel 14 Absatz 5 FLG durch Beschluss fest.
+<sup>3</sup> Die dem Kanton durch die Verwaltung des Ersatzbeitragsfonds entstehenden Kosten gehen zulasten des Fonds. Der Regierungsrat legt eine entsprechende Pauschalentschädigung gemäss Artikel 73 Absatz 2 der Finanzhaushaltsverordnung vom 16. November 2022 (FHaV)[^78-2] durch Beschluss fest.
 
 [^78-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
+[^78-2]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 #### Art. 79
 
@@ -864,13 +865,11 @@ beschliesst:
 
 **Ausgabenbefugnisse**
 
-<sup>1</sup> Die Ausgabenbefugnisse für Entnahmen aus dem Ersatzbeitragsfonds richten sich nach Artikel 81 KBZG und Artikel 152 der Verordnung vom 3. Dezember 2003 über die Steuerung von Finanzen und Leistungen (FLV)[^81-1]. Die Ausgabenbefugnisse des Regierungsrates werden an die SID übertragen. Diese kann ihre Ausgabenbefugnisse gemäss Artikel 153 FLV an das BSM delegieren.
+<sup>1</sup> Die Ausgabenbefugnisse für Entnahmen aus dem Ersatzbeitragsfonds richten sich nach Artikel 81 KBZG und Artikel 36 FHaV. Die Ausgabenbefugnisse des Regierungsrates werden an die SID übertragen. Diese kann ihre Ausgabenbefugnisse gemäss Artikel 37 FHaV an das BSM delegieren.
 
 <sup>2</sup> Entnahmen aus dem Ersatzbeitragsfonds können nur solange erfolgen, als dass dieser über die entsprechenden Mittel verfügt. Vorschüsse aus der Laufenden Rechnung sind nicht zulässig.
 
 <sup>3</sup> …
-
-[^81-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 #### Art. 82
 

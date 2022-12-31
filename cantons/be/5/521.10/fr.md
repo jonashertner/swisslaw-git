@@ -4,13 +4,13 @@ number: "521.10"
 title: "Ordonnance cantonale sur la protection de la population *"
 short: OCPP
 language: fr
-version: 2021-08-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-30
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-16
 adopted: 2025-11-26
 in_force: 2026-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/521.10"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2519/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2732/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2519/pdf_file"
 
 (OCPP)
 
-du 22.10.2014 (état au 01.08.2021)
+du 22.10.2014 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -832,13 +832,14 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Le fonds des contributions de remplacement constitue un financement spécial au sens de l'article 14 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^78-1]. Son administration incombe à l'OSSM.
+<sup>1</sup> Le fonds des contributions de remplacement est un Fonds au sens de l'article 53 de la loi du 15 juin 2022 sur les finances (LFin)[^78-1]. Son administration incombe à l'OSSM.
 
-<sup>2</sup> La budgétisation est effectuée dans le cadre du plan intégré mission-financement et du budget. La présentation des comptes respecte les principes énumérés à l'article 5 LFP. Le financement spécial est détaillé dans le rapport de gestion.
+<sup>2</sup> La budgétisation est effectuée dans le cadre du plan intégré mission-financement et du budget. La présentation des comptes respecte les principes énumérés aux articles 40 à 42 LFin. Le fonds est détaillé dans le rapport de gestion.
 
-<sup>3</sup> Les frais occasionnés au canton par l’administration du fonds des contributions de remplacement sont imputés à ce dernier. Le Conseil-exécutif arrête un montant forfaitaire par voie d’arrêté, conformément à l’article 14, alinéa 5 LFP.
+<sup>3</sup> Les frais occasionnés au canton par l’administration du fonds des contributions de remplacement sont imputés à ce dernier. Le Conseil-exécutif arrête un montant forfaitaire par voie d’arrêté, conformément à l’article 73, alinéa 2 de l'ordonnance du 16 novembre 2022 sur les finances (OFin)[^78-2].
 
 [^78-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
+[^78-2]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 #### Art. 79
 
@@ -864,13 +865,11 @@ arrête:
 
 **Compétences en matière d’autorisation de dépenses**
 
-<sup>1</sup> Les compétences en matière d'autorisation de dépenses pour des prélèvements sur le fonds des contributions de remplacement sont régies par les articles 81 LCPPCi et 152 de l'ordonnance du 3 décembre 2003 sur le pilotage des finances et des prestations (OFP)[^81-1]. Les compétences du Conseil-exécutif sont déléguées à la DSE. Cette dernière peut les déléguer à l'OSSM, en vertu de l'article 153 OFP.
+<sup>1</sup> Les compétences en matière d'autorisation de dépenses pour des prélèvements sur le fonds des contributions de remplacement sont régies par l'article 81 LCPPCi et l'article 36 OFin. Les compétences du Conseil-exécutif sont déléguées à la DSE. Cette dernière peut les déléguer à l'OSSM, en vertu de l'article 37 OFin.
 
 <sup>2</sup> Les prélèvements sur le fonds des contributions de remplacement ne sont autorisés que lorsque le solde est suffisant. Les avances sur le compte de fonctionnement sont exclues.
 
 <sup>3</sup> …
-
-[^81-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 #### Art. 82
 
