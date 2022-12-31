@@ -4,13 +4,13 @@ number: "933.211"
 title: Verordnung zum Jagdgesetz des Kantons Aargau
 short: "Jagdverordnung des Kantons Aargau, AJSV"
 language: de
-version: 2017-09-01
-valid_until: 2022-12-31
-version_adopted: 2017-06-14
+version: 2023-01-01
+valid_until: 2024-06-30
+version_adopted: 2022-09-21
 adopted: 2009-09-23
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/933.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2449/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3246/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +19,16 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2449/pdf_file"
 
 (Jagdverordnung des Kantons Aargau, AJSV)
 
-Vom 23.09.2009 (Stand 01.09.2017)
+Vom 23.09.2009 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 4 Abs. 5, 8 Abs. 3, 10, 11 Abs. 3 und 4, 14 Abs. 2, 16 Abs. 2, 17 Abs. 2, 19 Abs. 2, 22, 25 Abs. 2, 28 Abs. 1 und 36 Abs. 4 des Einführungsgesetzes zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz des Kantons Aargau, AJSG) vom 24. Februar 2009[^ingress-1],
+gestützt auf die §§ 4 Abs. 5, 8 Abs. 3, 10, 11 Abs. 3 und 4, 14 Abs. 2, 16 Abs. 2, 17 Abs. 2, 19 Abs. 2, 22, 25 Abs. 2, 28 Abs. 1 und 36 Abs. 4 des Einführungsgesetzes zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz des Kantons Aargau, AJSG) vom 24. Februar 2009[^ingress-1] sowie § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SAR [933.200](https://gesetzessammlungen.ag.ch/data/933.200/de)
+[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -185,9 +186,9 @@ beschliesst:
 
 **Abschussplanungen (§§ 14, 15 AJSG)**
 
-<sup>1</sup> Die Jagdgesellschaften vereinbaren gestützt auf Wildbestandserhebungen mit den betroffenen Gemeinden und Forstrevieren alle zwei Jahre eine Abschussplanung beim Rehwild und stellen der Fachstelle eine Kopie der Vereinbarung zu. Kommt keine Vereinbarung zustande oder widerspricht die Vereinbarung kantonalen Richtlinien, entscheidet die Fachstelle über die Abschussplanung.
+<sup>1</sup> Die Jagdgesellschaften vereinbaren gestützt auf Wildbestandserhebungen mit den betroffenen Forstrevieren alle zwei Jahre eine Abschussplanung beim Rehwild und stellen der Fachstelle eine Kopie der Vereinbarung zu. Kommt keine Vereinbarung zustande oder widerspricht die Vereinbarung kantonalen Richtlinien, entscheidet die Fachstelle über die Abschussplanung.
 
-<sup>2</sup> Die Fachstelle legt die kantonsweit abzustimmenden Massnahmen zur Beeinflussung der Bestandesentwicklung, insbesondere für Wildschwein, Rothirsch, Gämse und Kormoran fest.
+<sup>2</sup> Die Fachstelle legt die kantonsweit abzustimmenden Massnahmen zur Beeinflussung der Bestandsentwicklung, insbesondere für Wildschwein, Rothirsch, Gämse und Kormoran, in betreffenden Massnahmenplänen fest.
 
 #### § 14
 
@@ -195,8 +196,8 @@ beschliesst:
 
 <sup>1</sup> Für das Rehwild gelten die folgenden Jagdzeiten:
 
-- a) Rehbock vom 1. Mai bis 31. Dezember,
-- b) Schmalreh und Galtgeiss vom 1. Mai bis 15. Juni sowie vom 1. September bis 31. Dezember,
+- a) Rehbock, Schmalreh und Galtgeiss vom 1. Mai bis 31. Dezember,
+- b) …
 - c) Rehgeiss und Rehkitz vom 1. September bis 31. Dezember.
 
 <sup>2</sup> Im Übrigen gelten die bundesrechtlich festgelegten Jagd- und Schonzeiten.
@@ -231,21 +232,27 @@ beschliesst:
 
 <sup>6</sup> Die Verwendung von Bleischrot für die Wasserjagd ist verboten.
 
+<sup>6<sup>bis</sup></sup> Die Fachstelle kann die Verwendung verbotener Hilfsmittel gemäss Artikel 3 der Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdverordnung, JSV) vom 29. Februar 1988[^16-1] ausnahmsweise bewilligen.
+
 <sup>7</sup> Im Übrigen gelten die bundesrechtlichen Bestimmungen bezüglich verbotener Hilfsmittel.
+
+[^16-1]: SR [922.01](https://db.clex.ch/link/Bund/922.01/de)
 
 #### § 17
 
 **Verwendung von Jagdhunden (§ 14 AJSG)**
 
-<sup>1</sup> Auf der Jagd sind zum Aufstöbern, zur Baujagd, zum Vorstehen, zur Nachsuche und zum Apportieren nur geeignete und eingeübte Hunde zu verwenden.
+<sup>1</sup> Auf der Jagd sind zum Aufstöbern, zur Baujagd, zum Vorstehen, zur Nachsuche und zum Apportieren nur geeignete Jagdhunde zu verwenden.
 
 <sup>2</sup> Als Stöberhunde sind ausser Deutschen Wachtelhunden, Spaniels, Laufhunden/Bracken nur Jagdhunde mit einer Risthöhe bis 42 cm zugelassen. Diese Einschränkung gilt nicht für die Wasserjagd.
 
-<sup>3</sup> Die Verwendung von spur- und fährtenlauten Stöberhunden ist vom 1. Oktober bis 31. Dezember erlaubt. Für die Wasserjagd können Jagdhunde vom 1. September bis Ende Februar eingesetzt werden.
+<sup>3</sup> Die Verwendung von spur- und fährtenlauten Stöberhunden ist vom 1. Oktober bis 31. Dezember erlaubt. Für die Wasserjagd und die Verlorensuche müssen geprüfte Apportierhunde eingesetzt werden.
 
-<sup>4</sup> Die Baujagd ist nur mit einem am Kunstbau eingeübten Bodenhund zulässig.
+<sup>4</sup> Die Baujagd ist nur mit einem am Kunstbau geprüften Bodenhund zulässig.
 
-<sup>5</sup> Jeder Jagdgesellschaft muss für die Nachsuche jederzeit ein nach schweizerischem Standard geprüfter Schweisshund zur Verfügung stehen.
+<sup>5</sup> Für jedes beschossene oder verunfallte Wildtier, das nicht auf Sichtdistanz verendet ist, muss eine fachgerechte Nachsuche mit einem geprüften Nachsuchehund durchgeführt werden.
+
+<sup>6</sup> Anerkannt sind Prüfungen und Nachweise gemäss schweizerischem Standard oder gemäss Reglementen mit vergleichbaren Anforderungen.
 
 #### § 18
 
@@ -275,6 +282,10 @@ beschliesst:
 - b) die Waldschnepfe.
 
 <sup>2</sup> Weibliche Wildschweine (Bachen) sind vom 1. April bis 30. September geschützt, solange sie laktierend sind. Leitbachen sind zu schonen.
+
+<sup>3</sup> Das Füttern von Wildtieren ist verboten, ausser in kleinen Mengen bei der Singvogelfütterung und der Lockjagd gemäss § 15 Abs. 3.
+
+<sup>4</sup> Die Bewilligung zur Haltung von einheimischen jagdbaren und geschützten Wildtieren wird durch die Fachstelle gemäss den Artikeln 6 und 6<sup>bis</sup> JSV erteilt.
 
 #### § 21
 
@@ -319,20 +330,19 @@ beschliesst:
 - a) Dachs, Fuchs, Steinmarder, Marderhund und Waschbär (Haarraubwild),
 - b) Rabenkrähe, Saatkrähe, Elster, Eichelhäher, Ringeltaube, Türkentaube, verwilderte Haustaube, Star und Amsel (Vögel).
 
-<sup>3</sup> [^24-3]In Wohn- und Ökonomiegebäuden und deren nächster Umgebung (50 m), nicht aber im Wald, sind Selbsthilfemassnahmen gegen Haarraubwild und Vögel zulässig.
+<sup>3</sup> In Wohn- und Ökonomiegebäuden, mobilen Freilaufställen und deren nächster Umgebung (50 m), nicht aber im Wald, sind Selbsthilfemassnahmen gegen Haarraubwild und Vögel zulässig.
 
-<sup>4</sup> [^24-4]In Friedhöfen, Baumschulen, Park- und Gartenanlagen, Anlagen des Wein-, Obst-, Gemüse- und Beerenbaus sowie Getreide- und Saatfeldern, nicht aber im Wald, sind Selbsthilfemassnahmen gegen Vögel zulässig.
+<sup>4</sup> [^24-3]In Friedhöfen, Baumschulen, Park- und Gartenanlagen, Anlagen des Wein-, Obst-, Gemüse- und Beerenbaus sowie Getreide- und Saatfeldern, nicht aber im Wald, sind Selbsthilfemassnahmen gegen Vögel zulässig.
 
-<sup>5</sup> [^24-5]Selbsthilfemassnahmen gegen Haarraubwild sowie gegen Vögel gemäss Absatz 4 sind mit der zuständigen Jagdgesellschaft abzusprechen.
+<sup>5</sup> [^24-4]Selbsthilfemassnahmen gegen Haarraubwild sowie gegen Vögel gemäss Absatz 4 sind mit der zuständigen Jagdgesellschaft abzusprechen.
 
-<sup>6</sup> [^24-6]Für Selbsthilfemassnahmen sind nur die für die Jagd erlaubten Jagdwaffen, Munition und sonstigen Hilfsmittel zulässig.
+<sup>6</sup> Für Selbsthilfemassnahmen sind nur die für die Jagd erlaubten Jagdwaffen, Munition und sonstigen Hilfsmittel zulässig. Die Schonzeiten der jeweiligen Tierarten gemäss Artikel 5 des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG) vom 20. Juni 1986[^24-5], Artikel 3<sup>bis</sup> JSV und § 20 dieser Verordnung sind dabei einzuhalten.
 
 [^24-1]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
 [^24-2]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
 [^24-3]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
 [^24-4]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
-[^24-5]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
-[^24-6]: Inkrafttreten: 1. Januar 2011 (AGS 2009 S. 337)
+[^24-5]: SR [922.0](https://db.clex.ch/link/Bund/922.0/de)
 
 #### § 25
 
@@ -370,7 +380,7 @@ beschliesst:
 - d) Unterstützung der Jagdgesellschaften bei der Kontrolle der Jagdpässe und Jagdkarten,
 - e) Melde- und Koordinationsstelle bei Fragen und Problemen im Zusammenhang mit Wildtieren, insbesondere bei Unfällen mit Wildtieren.
 
-<sup>2</sup> Jagdaufseherinnen und Jagdaufseher nehmen an den Weiterbildungskursen gemäss § 33 Abs. 1 AJSG teil.
+<sup>2</sup> Jagdaufseherinnen und Jagdaufseher nehmen an den Aus- und Weiterbildungskursen gemäss § 33 Abs. 1 AJSG teil.
 
 ## 6. Bildung und Information
 
@@ -386,17 +396,36 @@ beschliesst:
 
 <sup>1</sup> Die Jagdgesellschaften fördern Kandidierende für die Jagdprüfung und ermöglichen ihnen den Jagdlehrgang im Revier.
 
+## 6<sup>bis</sup> Gebühren
+
+#### § 29a
+
+**Wildunfälle**
+
+<sup>1</sup> Jagdaufseherinnen und Jagdaufseher erheben für ihre bei Wildunfällen im Strassenverkehr erbrachten Leistungen von den Verursachenden eine Gebühr von pauschal Fr. 200.–.
+
 ## 7. Strafbestimmungen
 
 #### § 30
 
 **Fehlabschüsse (§ 36 AJSG)**
 
-<sup>1</sup> Ein Fehlabschuss gemäss § 36 Abs. 4 AJSG liegt nur vor, wenn im Rahmen der Wildschweinbejagung vom 1. April bis 30. September versehentlich eine laktierende Bache erlegt wird.
+<sup>1</sup> Ein Fehlabschuss gemäss § 36 Abs. 4 AJSG liegt nur vor, wenn
+
+- a) im Rahmen der Wildschweinbejagung vom 1. April bis 30. September versehentlich eine laktierende Bache erlegt wird,
+- b) im Rahmen der Rehwildbejagung vom 1. Mai bis 31. August versehentlich eine laktierende Rehgeiss erlegt wird,
+- c) im Rahmen der Gams- und Rotwildbejagung versehentlich ein gemäss Massnahmenplan nicht freigegebenes Tier erlegt wird.
 
 <sup>2</sup> Die betreffende Jägerin oder der betreffende Jäger meldet Fehlabschüsse der Fachstelle innert zwei Arbeitstagen schriftlich. Die betreffende Jagdgesellschaft bestätigt mit ihrem Visum, dass sie von der Meldung Kenntnis genommen hat.
 
-<sup>3</sup> Bei einem Fehlabschuss ist dem Kanton ein Betrag von Fr. 80.– abzuliefern.
+<sup>3</sup> Bei einem Fehlabschuss zahlt die fehlbare Person dem Kanton
+
+- a) für ein Wildschwein — Fr. 80.–,
+- b) für ein Reh — Fr. 250.–,
+- c) für eine Gämse — Fr. 300.–,
+- d) für einen Rothirsch — Fr. 800.–.
+
+<sup>3<sup>bis</sup></sup> Trophäen von Fehlabschüssen gehören dem Kanton und sind diesem abzuliefern.
 
 <sup>4</sup> Das Departement kann wiederholte oder von der betreffenden Jagdgesellschaft nicht bestätigte Fehlabschüsse den kantonalen Strafverfolgungsbehörden zur Anzeige bringen.
 
