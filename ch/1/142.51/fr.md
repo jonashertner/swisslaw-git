@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 sur le système d'information commun aux 
 short: LDEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: fr
-version: 2022-11-22
+version: 2023-01-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20221122/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20221122-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20221122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230101-fr-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20221122/fr"
 
 (LDEA)
 
-du 20 juin 2003 (État le 22 novembre 2022)
+du 20 juin 2003 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -270,7 +270,23 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 - a.[^9-2] les autorités cantonales et communales chargées des questions relatives aux étrangers ainsi que les autorités cantonales et communales de police, les autorités cantonales d’aide sociale et les autorités cantonales compétentes en matière d’emploi et de nationalité, pour qu’elles puissent accomplir les tâches qui leur incombent dans le domaine des étrangers; les autorités cantonales et communales de police, pour qu’elles puissent procéder à l’identification de personnes;
 - a<sup>bis</sup>.[^9-3] les autorités chargées de l’exécution d’une expulsion prononcée conformément aux art. 66*a* ou 66*a*<sup>bis</sup> du code pénal (CP)[^9-4] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927 (CPM)[^9-5];
 - b.[^9-6] les autorités chargées par les cantons de contrôler le respect de l’obligation d’annoncer les postes vacants prévue à l’art. 21*a*, al. 3 et 4, LEI[^9-7];
-- c.[^9-8] les autorités fédérales compétentes dans le domaine de la sûreté intérieure, exclusivement pour qu’elles puissent procéder à l’identification de personnes dans le cadre de l’échange d’informations de police, des enquêtes de la police de sûreté ou de la police judiciaire, des procédures d’extradition, de l’entraide judiciaire et de l’assistance administrative, de la délégation de la poursuite et de la répression d’une infraction, du transfèrement des personnes condamnées, de la délégation de l’exécution des peines et des mesures, de la lutte contre le blanchiment d’argent, le trafic de stupéfiants et le crime organisé, du contrôle des pièces de légitimation, des recherches de personnes disparues et du contrôle des entrées dans le système de recherches informatisées de police visé à l’art. 15 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération (LSIP)[^9-9];
+- <sup>c.</sup>[^9-8]
+
+  les autorités fédérales compétentes dans le domaine de la sûreté intérieure, exclusivement pour qu’elles puissent procéder à l’identification de personnes dans le cadre:
+
+  - 1\. de l’échange d’informations de police,
+  - 2\. des enquêtes de la police de sûreté ou de la police judiciaire,
+  - 3\. des procédures d’extradition,
+  - 4\. de l’entraide judiciaire et de l’assistance administrative,
+  - 5\. de la délégation de la poursuite et de la répression d’une infraction,
+  - 5<sup>bis</sup>. du transfèrement des personnes condamnées,
+  - 5<sup>ter</sup>. de la délégation de l’exécution des peines et des mesures,
+  - 6\. de la lutte contre le blanchiment d’argent, le trafic de stupéfiants et le crime organisé,
+  - 6<sup>bis</sup>. de la lutte contre l’usage abusif de précurseurs de substances explosibles,
+  - 7\. du contrôle des pièces de légitimation,
+  - 8\. des recherches de personnes disparues,
+  - 9\. du contrôle des entrées dans le système de recherches informatisées de police visé à l’art. 15 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération (LSIP)[^9-9];
+
 - d. les instances fédérales de recours compétentes, pour qu’elles puissent instruire les recours qui leur parviennent;
 - e. le Corps des gardes-frontière et les postes frontière des polices cantonales, pour qu’ils puissent procéder aux contrôles d’identité et à l’établissement de visas exceptionnels;
 - f. les représentations et les missions suisses à l’étranger, pour qu’elles puissent procéder à l’examen des demandes de visa et accomplir les tâches qui leur incombent en vertu du droit de la nationalité;
@@ -300,7 +316,7 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 
   les autorités fédérales compétentes dans le domaine de la sûreté intérieure:[^9-26]
 
-  - 1\.[^9-27] exclusivement pour qu’elles puissent procéder à l’identification de personnes dans le cadre de l’échange d’informations de police, des enquêtes de la police de sûreté ou de la police judiciaire, des procédures d’extradition, de l’entraide judiciaire et de l’assistance administrative, de la délégation de la poursuite et de la répression d’une infraction, de la lutte contre le blanchiment d’argent, le trafic de stupéfiants et le crime organisé, du contrôle des pièces de légitimation, des recherches de personnes disparues, du contrôle des entrées dans le système de recherches informatisées de police visé à l’art. 15 LSIP et de l’examen de l’indignité au sens de l’art. 53 LAsi,
+  - 1\.[^9-27] exclusivement pour qu’elles puissent procéder à l’identification de personnes dans le cadre de l’échange d’informations de police, des enquêtes de la police de sûreté ou de la police judiciaire, des procédures d’extradition, de l’entraide judiciaire et de l’assistance administrative, de la délégation de la poursuite et de la répression d’une infraction, de la lutte contre le blanchiment d’argent, le trafic de stupéfiants et le crime organisé, de la lutte contre l’usage abusif de précurseurs de substances explosibles, du contrôle des pièces de légitimation, des recherches de personnes disparues, du contrôle des entrées dans le système de recherches informatisées de police visé à l’art. 15 LSIP et de l’examen de l’indignité au sens de l’art. 53 LAsi,
   - 2\. pour qu’elles puissent accomplir les tâches qui leur incombent en vertu de l’art. 99 LAsi;
 
 - d. les instances fédérales de recours compétentes, pour qu’elles puissent instruire les recours qui leur parviennent en application de la LAsi;
@@ -320,7 +336,7 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 [^9-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^9-6]: Nouvelle teneur selon l’art. 4 ch. 1 de la LF du 27 sept. 2019 sur la participation aux frais des cantons pour les contrôles relatifs à l’obligation d’annoncer les postes vacants, en vigueur du 1<sup>er</sup> janv. 2020 au 31 déc. 2023 ([RO 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2671](https://fedlex.data.admin.ch/eli/fga/2019/785)).
 [^9-7]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-8]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-8]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^9-9]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^9-10]: Introduite par le ch. II 1 de la LF du 12 juin 2009 (Empêcher les mariages en cas de séjour irrégulier), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2247](https://fedlex.data.admin.ch/eli/fga/2008/517)[2261](https://fedlex.data.admin.ch/eli/fga/2008/519)).
 [^9-11]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
@@ -339,7 +355,7 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 [^9-24]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^9-25]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^9-26]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-27]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-27]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^9-28]: Introduite par le ch. II 1 de la LF du 12 juin 2009 (Empêcher les mariages en cas de séjour irrégulier), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2247](https://fedlex.data.admin.ch/eli/fga/2008/517)[2261](https://fedlex.data.admin.ch/eli/fga/2008/519)).
 [^9-29]: Introduite par l’annexe ch. 2 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
 [^9-30]: Introduite par l’annexe ch. 2 de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
