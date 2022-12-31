@@ -3,11 +3,11 @@ sr: "0.916.026.81"
 title: Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen (mit Anhängen und Schlussakte)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/323"
 language: de
-version: 2020-11-01
+version: 2023-01-01
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20201101/de/xml/fedlex-data-admin-ch-eli-cc-2002-323-20201101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/323/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-323-20230101-de-xml-28.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/323/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 16. Oktober 2000
 
 In Kraft getreten am 1. Juni 2002
 
-(Stand am 1. November 2020)
+(Stand am 1. Januar 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. d des BB vom 8. Okt. 1999 ([AS 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242))
 
@@ -34,7 +34,7 @@ Die Schweizerische Eidgenossenschaft,
 
 im Folgenden «Schweiz» genannt, und
 
-die Europäische Gemeinschaft*[^ingress-1]*,
+die Europäische Gemeinschaft[^ingress-1],
 
 im Folgenden «Gemeinschaft» genannt,
 
@@ -47,7 +47,7 @@ in der Erwägung, dass sich die Parteien in Artikel 15 des Freihandelsabkommens 
 sind wie folgt übereingekommen:
 
 [^ingress-1]: Heute: Europäische Union.
-[^ingress-2]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
+[^ingress-2]: [SR 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
 
 #### Art. 1
 
@@ -59,8 +59,8 @@ sind wie folgt übereingekommen:
 
 <sup>3.</sup> Dieses Abkommen gilt nicht für Waren, die unter das Protokoll Nr. 2[^1-2] des Freihandelsabkommens fallen; ausgenommen sind die in den Anhängen 1 und 2 eingeräumten Zugeständnisse.
 
-[^1-1]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
-[^1-2]: [SR 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
+[^1-1]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
+[^1-2]: [SR 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
 #### Art. 2
 
@@ -82,7 +82,7 @@ Anhang 3 dieses Abkommens enthält die Sonderbestimmungen für den Handel mit K�
 
 Die im Rahmen dieses Abkommens für beide Seiten im Hinblick auf die Anwendung der Anhänge 1–3 dieses Abkommens geltenden Ursprungsregeln entsprechen denen des Protokolls Nr. 3[^4-1] des Freihandelsabkommens.
 
-[^4-1]: [SR 0.632.401.3](https://fedlex.data.admin.ch/eli/cc/2021/727)
+[^4-1]: [SR 0.632.401.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2427)
 
 #### Art. 5
 
@@ -246,91 +246,122 @@ Geschehen zu Luxemburg am einundzwanzigsten Juni neunzehnhundertneunundneunzig i
 <tr><td>Für die Schweizerische Eidgenossenschaft: Pascal Couchepin Joseph Deiss</td><td>Für die Europäische Gemeinschaft: Joschka Fischer Hans van den Broek</td></tr>
 </table>
 
-[^17-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^17-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^17-3]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
-[^17-4]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^17-5]: [SR 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^17-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^17-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^17-3]: [SR 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)
+[^17-4]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^17-5]: [SR 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
 [^17-6]: [[AS 2002 1998](https://fedlex.data.admin.ch/eli/oc/2002/297)]
 
-## 1. Inhalt
+## Inhalt
 
 *Anhang 1* Zugeständnisse der Schweiz
 
-*Anhang 2* Zugeständnisse der Gemeinschaft
+*Anhang 2* Zugeständnisse der Europäischen Union
 
 *Anhang 3*
 
 *Anhang 4* Pflanzenschutz
 
-- Anlage 1 Pflanzen, Pflanzenerzeugnisse und andere Gegenstände
-- Anlage 2 Rechtsvorschriften
-- Anlage 3 Behörden, bei denen eine Liste der für die Ausstellung der Pflanzenpässe zuständigen amtlichen Stellen erhältlich ist
-- Anlage 4 Gebiete gemäss Artikel 4 und für sie geltende besondere Anforderungen
-- Anlage 5 Informationsaustausch
+Anlage 1 Pflanzen, Pflanzenerzeugnisse und andere Gegenstände
+
+Anlage 2 Rechtsvorschriften
+
+Anlage 3 Behörden, bei denen eine Liste der für die Ausstellung der Pflanzenpässe zuständigen amtlichen Stellen erhältlich ist
+
+Anlage 4 Gebiete gemäss Artikel 4 und für sie geltende besondere Anforderungen
+
+Anlage 5 Informationsaustausch
 
 *Anhang* *5* Futtermittel
 
-- Anlage 1 Gemeinschaftsvorschriften
-- Anlage 2 Verzeichnis der Rechtsvorschriften gemäss Artikel 9
+Anlage 1 Gemeinschaftsvorschriften
+
+Anlage 2 Verzeichnis der Rechtsvorschriften gemäss Artikel 9
 
 *Anhang 6* Saatgutsektor
 
-- Anlage 1 Rechtsvorschriften
-- Anlage 2 In Artikel 2 Absatz 3 genannte Behörden
-- Anlage 3 Ausnahmeregelungen
-- Anlage 4 Liste der Drittländer
+Anlage 1 Rechtsvorschriften
+
+Anlage 2 In Artikel 2 Absatz 3 genannte Behörden
+
+Anlage 3 Ausnahmeregelungen
+
+Anlage 4 Liste der Drittländer
 
 *Anhang* *7* Betreffend den Handel mit Weinbauerzeugnissen
 
-- Anlage 1 Weinbauerzeugnisse gemäss Artikel 2
-- Anlage 2 In Artikel 3 Buchstaben a und b genannte besondere Bestimmungen
-- Anlage 3 Verzeichnisse der Rechtsakte und technischen Vorschriften für Weinbauerzeugnisse gemäss Artikel 4
-- Anlage 4 Geschützte Namen gemäss Artikel 5
-- Anlage 5 Bedingungen und Verfahren gemäss Artikel 8 Absatz 9 und Artikel 25 Absatz 1 Buchstabe b
+Anlage 1 Weinbauerzeugnisse gemäss Artikel 2
+
+Anlage 2 In Artikel 3 Buchstaben a und b genannte besondere Bestimmungen
+
+Anlage 3 Verzeichnisse der Rechtsakte und technischen Vorschriften für Weinbauerzeugnisse gemäss Artikel 4
+
+Anlage 4 Geschützte Namen gemäss Artikel 5
+
+Anlage 5 Bedingungen und Verfahren gemäss Artikel 8 Absatz 9 und Artikel 25 Absatz 1 Buchstabe b
 
 *Anhang* *8* Über die gegenseitige Anerkennung und den Schutz der Bezeichnungen im Sektor Spirituosen und aromatisierte weinhaltige Getränke
 
-- Anlage 1 Geografische Angaben für Spirituosen mit Ursprungin der Europäischen Union
-- Anlage 2 Geschützte Bezeichnungen für Spirituosen mit Ursprung in der Schweiz
-- Anlage 3 Geschützte Bezeichnungen für aromatisierte Getränke mit Ursprung in der Gemeinschaft
-- Anlage 4 Geschützte Bezeichnungen für aromatisierte Getränke mit Ursprung in der Schweiz
-- Anlage 5 Verzeichnis der Rechtsakte gemäss Artikel 2 betreffend Spirituosen, aromatisierte Weine und aromatisierte Getränke
+Anlage 1 Geografische Angaben für Spirituosen mit Ursprungin der Europäischen Union
+
+Anlage 2 Geschützte Bezeichnungen für Spirituosen mit Ursprung in der Schweiz
+
+Anlage 3 Geschützte Bezeichnungen für aromatisierte Getränke mit Ursprung in der Gemeinschaft
+
+Anlage 4 Geschützte Bezeichnungen für aromatisierte Getränke mit Ursprung in der Schweiz
+
+Anlage 5 Verzeichnis der Rechtsakte gemäss Artikel 2 betreffend Spirituosen, aromatisierte Weine und aromatisierte Getränke
 
 *Anhang* *9* Landwirtschaftliche Erzeugnisse und Lebensmittel aus ökologischem Landbau
 
-- Anlage 1 Verzeichnis der Rechtsvorschriften gemäss Artikel 3, die landwirtschaftliche Erzeugnisse und Lebensmittel aus öko-logischem Landbau betreffen
-- Anlage 2 Durchführungsvorschriften
+Anlage 1 Verzeichnis der Rechtsvorschriften gemäss Artikel 3, die landwirtschaftliche Erzeugnisse und Lebensmittel aus öko-logischem Landbau betreffen
+
+Anlage 2 Durchführungsvorschriften
 
 *Anhang* *10* Anerkennung der Kontrolle der Konformität mit den Vermarktungsnormen für frisches Obst und Gemüse
 
-- Anlage Schweizerische Kontrollstellen, die zur Ausstellung der in Anhang 10 Artikel 3 vorgesehenen Kontrollbescheinigung zugelassen sind
+Anlage Schweizerische Kontrollstellen, die zur Ausstellung der in Anhang 10 Artikel 3 vorgesehenen Kontrollbescheinigung zugelassen sind
 
 *Anhang* *11* Veterinärhygienische und tierzüchterische Massnahmen im Handel mit lebenden Tieren und tierischen Erzeugnissen
 
-- Anlage 1 Seuchenbekämpfung/Seuchenmeldung
-- Anlage 2 Tiergesundheit: Handel und Vermarktung
-- Anlage 3 Einfuhr lebender Tiere und deren Sperma, Eier und Embryonen
-- Anlage 4 Tierzucht, einschliesslich Einfuhr von Zuchtmaterial aus Drittländern
-- Anlage 5 Lebende Tiere und deren Sperma und Embryonen: Grenzkontrollen und Kontrollgebühren
-- Anlage 6 Tierische Erzeugnisse
-- Anlage 7 Zuständige Behörden
-- Anlage 8 Anpassung an regionale Bedingungen
-- Anlage 9 Leitlinien für die Prüfverfahren
-- Anlage 10 Tierische Erzeugnisse: Grenzkontrollen und Kontrollgebühren
-- Anlage 11 Kontaktstellen
+Anlage 1 Seuchenbekämpfung/Seuchenmeldung
+
+Anlage 2 Tiergesundheit: Handel und Vermarktung
+
+Anlage 3 Einfuhr lebender Tiere und deren Sperma, Eier und Embryonen
+
+Anlage 4 Tierzucht, einschliesslich Einfuhr von Zuchtmaterial aus Drittländern
+
+Anlage 5 Lebende Tiere und deren Sperma und Embryonen: Grenzkontrollen und Kontrollgebühren
+
+Anlage 6 Tierische Erzeugnisse
+
+Anlage 7 Zuständige Behörden
+
+Anlage 8 Anpassung an regionale Bedingungen
+
+Anlage 9 Leitlinien für die Prüfverfahren
+
+Anlage 10 Tierische Erzeugnisse: Grenzkontrollen und Kontrollgebühren
+
+Anlage 11 Kontaktstellen
 
 *Anhang 12* Zum Schutz von Ursprungsbezeichnungen und geografischen Angaben für Agrarerzeugnisse und Lebensmittel
 
-- Anlage 1 Listen der jeweiligen g.A., die von der anderen Partei geschützt sind
-- Anlage 2 Rechtsvorschriften der Parteien
+Anlage 1 Listen der jeweiligen g.A., die von der anderen Partei geschützt sind
+
+Anlage 2 Rechtsvorschriften der Parteien
 
 *Schlussakte* Gemeinsamen Erklärungen
 
-- Anlage A Pflanzen, Pflanzenerzeugnisse und andere Gegenstände, für die die beiden Parteien nach einer Lösung gemäss den Bestimmungen des Anhangs 4 suchen
-- Anlage B Rechtsvorschriften
-- Anlage C Für die Ausstellung des Pflanzenpasses zuständige amtliche Stelle
-- Anlage D Gebiete gemäss Artikel 4 und für sie geltende besondere Anforderungen
+Anlage A Pflanzen, Pflanzenerzeugnisse und andere Gegenstände, für die die beiden Parteien nach einer Lösung gemäss den Bestimmungen des Anhangs 4 suchen
+
+Anlage B Rechtsvorschriften
+
+Anlage C Für die Ausstellung des Pflanzenpasses zuständige amtliche Stelle
+
+Anlage D Gebiete gemäss Artikel 4 und für sie geltende besondere Anforderungen
 
 *Schlussakte zur Änderung vom 23. Dezember 2008 und gemeinsame Erklärung*
 
@@ -338,259 +369,283 @@ Geschehen zu Luxemburg am einundzwanzigsten Juni neunzehnhundertneunundneunzig i
 
 *Schlussakte zur Änderung vom 17. Mai 2011 und gemeinsame Erklärung*
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 ## Zugeständnisse der Schweiz
 
-[^t-2]: Fassung gemäss Art. 1 des Beschlusses Nr. 2/2008 des Gemischten Ausschusses für Landwirtschaft vom 24. Juni 2008, von der BVers genehmigt am 29. Mai 2008 und in Kraft seit 1. Jan. 2010 ([AS 2010 251](https://fedlex.data.admin.ch/eli/oc/2010/33)[249](https://fedlex.data.admin.ch/eli/oc/2010/32); [BBl 2008 1041](https://fedlex.data.admin.ch/eli/fga/2008/222)).
+[^t-2]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2022 des Gemischten Ausschusses für Landwirtschaft vom 17. Nov. 2022, in Kraft getreten für die Schweiz am 1. Jan. 2023 ([AS 2022 857](https://fedlex.data.admin.ch/eli/oc/2022/857)).
 
 Die Schweiz räumt für nachstehende Erzeugnisse aus der Gemeinschaft – gegebenenfalls im Rahmen einer festgesetzten jährlichen Menge – folgende Zollzugeständnisse ein:
 
 <table>
-<tr><th colspan="2">Nummer des schweizerischen Zolltarifs</th><th>Bezeichnung</th><th>Zollansatz in CHF/100 kg brutto</th><th colspan="2">Jahresmenge (in Tonnen Nettogewicht)</th></tr>
-<tr><td colspan="2">0101 90 95</td><td>Pferde, lebend (ausgenommen reinrassige Zuchttiere und Tiere zum Schlachten) (in Stück)</td><td>0.00</td><td colspan="2">100 Stück</td></tr>
-<tr><td colspan="2">0204 50 10</td><td>Fleisch von Ziegen, frisch, gekühlt oder gefroren</td><td>40.—</td><td colspan="2">100</td></tr>
-<tr><td colspan="2">0207 14 81</td><td>Brüste von Hühnern, gefroren</td><td>15.—</td><td colspan="2">2 100</td></tr>
-<tr><td colspan="2">0207 14 91</td><td>Stücke und geniessbare Schlachtnebenprodukte von Hühnern, einschliesslich Lebern (ausgenommen Brüste), gefroren</td><td>15.—</td><td colspan="2">1 200</td></tr>
-<tr><td colspan="2">0207 27 81</td><td>Brüste von Truthühnern, gefroren</td><td>15.—</td><td colspan="2">800</td></tr>
-<tr><td colspan="2">0207 27 91</td><td>Stücke und geniessbare Schlachtnebenprodukte von Truthühnern, einschliesslich Lebern (ausgenommen Brüste), gefroren</td><td>15.—</td><td colspan="2">600</td></tr>
-<tr><td colspan="2">0207 33 11</td><td>Enten, nicht in Stücke zerteilt, gefroren</td><td>15.—</td><td colspan="2">700</td></tr>
-<tr><td colspan="2">0207 34 00</td><td>Fettlebern von Enten, Gänsen oder Perlhühnern, frisch oder gekühlt</td><td>9.50</td><td colspan="2">20</td></tr>
-<tr><td colspan="2">0207 36 91</td><td>Stücke und geniessbare Schlachtnebenprodukte von Enten, Gänsen oder Perlhühnern, gefroren (ausgenommen Fettlebern)</td><td>15.—</td><td colspan="2">100</td></tr>
-<tr><td colspan="2">0208 10 00</td><td>Fleisch und geniessbare Schlachtnebenprodukte von Kaninchen oder Hasen, frisch, gekühlt oder gefroren</td><td>11.—</td><td colspan="2">1 700</td></tr>
-<tr><td colspan="2">0208 90 10</td><td>Fleisch und geniessbare Schlachtnebenprodukte von Wild, frisch, gekühlt oder gefroren (ausgenommen von Hasen und Wildschweinen)</td><td>0.00</td><td colspan="2">100</td></tr>
-<tr><td colspan="2">ex 0210 11 91</td><td>Schinken und Stücke davon, nicht ausgebeint, von Tieren der Schweinegattung (ausgenommen Wildschwein), gesalzen oder in Salzlake, getrocknet oder geräuchert</td><td>frei</td><td colspan="2">1 000<sup>(1)</sup></td></tr>
-<tr><td colspan="2">ex 0210 19 91</td><td>Knochenloses Kotelettstück, in Salzlake und geräuchert</td><td>frei</td><td colspan="2"></td></tr>
-<tr><td colspan="2">0210 20 10</td><td>Fleisch von Tieren der Rindviehgattung, getrocknet</td><td>frei</td><td colspan="2">200<sup>(2)</sup></td></tr>
-<tr><td colspan="2">ex 0407 00 10</td><td>Vogeleier für den Konsum, in der Schale, frisch, haltbar gemacht oder gekocht</td><td>47.—</td><td colspan="2">150</td></tr>
-<tr><td colspan="2">ex 0409 00 00</td><td>Natürlicher Honig, von Akazien</td><td>8.—</td><td colspan="2">200</td></tr>
-<tr><td colspan="2">ex 0409 00 00</td><td>Natürlicher Honig, anderer (ausgenommen von Akazien)</td><td>26.—</td><td colspan="2">50</td></tr>
-<tr><td colspan="2">0602 10 00</td><td>Stecklinge, unbewurzelt, und Propfreiser</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2"></td><td>Unterlagen von Kernobst (Sämlinge, Pflänzlinge):</td><td>frei</td><td colspan="2"><sup>(3)</sup></td></tr>
-<tr><td colspan="2">0602 20 11</td><td>– veredelt, mit nackten Wurzeln</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 19</td><td>– veredelt, mit Wurzelballen</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 21</td><td>– nicht veredelt, mit nackten Wurzeln</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 29</td><td>– nicht veredelt, mit Wurzelballen</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Unterlagen von Steinobst (Sämlinge, Pflänzlinge):</td><td>frei</td><td colspan="2"><sup>(3)</sup></td></tr>
-<tr><td colspan="2">0602 20 31</td><td>– veredelt, mit nackten Wurzeln</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 39</td><td>– veredelt, mit Wurzelballen</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 41</td><td>– nicht veredelt, mit nackten Wurzeln</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 49</td><td>– nicht veredelt, mit Wurzelballen</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab]</td><td>Pflanzen von geniessbaren Fruchtarten, ausgenommen Unterlagen von Kern- oder Steinobst (Sämlinge, Pflänzlinge):</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0602 20 51</td><td>– mit nackten Wurzeln</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 59</td><td>– andere als mit nackten Wurzeln</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab]</td><td>Bäume, Sträucher und Stauden von geniessbaren Fruchtarten, mit nackten Wurzeln:</td><td>frei</td><td colspan="2"><sup>(3)</sup></td></tr>
-<tr><td colspan="2">0602 20 71</td><td>– von Kernobst</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 72</td><td>– von Steinobst</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 79</td><td>– andere als von Kern- oder Steinobst</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td></td><td></td><td>Bäume, Sträucher und Stauden von geniessbaren Fruchtarten, mit Wurzelballen:</td><td>frei</td><td colspan="2"><sup>(3)</sup></td></tr>
-<tr><td colspan="2">0602 20 81</td><td>– von Kernobst</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 82</td><td>– von Steinobst</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 20 89</td><td>– andere als von Kern- oder Steinobst</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0602 30 00</td><td>Rhododendren und Azaleen, auch veredelt</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">[tab]</td><td>Rosen, auch veredelt:</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0602 40 10</td><td>– Rosenwildlinge und Rosenwildstämme</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] [tab] 0602 40 91</td><td>– andere als Rosenwildlinge und Rosenwildstämme: – mit nackten Wurzeln</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 40 99</td><td>– andere als mit nackten Wurzeln, mit Wurzelballen</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab]</td><td>Setzlinge (Sämlinge, Pflänzlinge) von Nutzpflanzen; Pilzmycel</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0602 90 11</td><td>– Gemüsesetzlinge und Rollrasen</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 90 12</td><td>– Pilzmycel</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 90 19</td><td>– andere als Gemüsesetzlinge, Rollrasen oder Pilzmycel</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab]</td><td>Andere lebende Pflanzen (einschliesslich ihrer Wurzeln):</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0602 90 91</td><td>– mit nackten Wurzeln</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0602 90 99</td><td>– andere als mit nackten Wurzeln, mit Wurzelballen</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0603 11 10</td><td>Rosen, geschnitten, zu Binde- oder Zier-zwecken, frisch, vom 1. Mai bis 25. Oktober</td><td>frei</td><td colspan="2">1 000</td></tr>
-<tr><td colspan="2">0603 12 10</td><td>Nelken, geschnitten, zu Binde- oder Zier-zwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0603 13 10</td><td>Orchideen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0603 14 10</td><td>Chrysanthemen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Blüten und Blütenknospen (ausser Nelken, Rosen, Orchideen und Chrysanthemen), geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober:</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0603 19 11</td><td>– verholzend</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0603 19 19</td><td>– andere als verholzend</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0603 12 30</td><td>Nelken, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0603 13 30</td><td>Orchideen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0603 14 30</td><td>Chrysanthemen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0603 19 30</td><td>Tulpen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Blüten und Blütenknospen (ausser Nelken, Rosen, Orchideen und Chrysanthemen), geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0603 19 31</td><td>– verholzend</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0603 19 39</td><td>– andere als verholzend</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tomaten, frisch oder gekühlt:</td><td>frei</td><td colspan="2">10 000</td></tr>
-<tr><td colspan="2">[tab] 0702 00 10</td><td>– Cherry-Tomaten (Kirschentomaten): – vom 21. Oktober bis 30. April</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] 0702 00 20</td><td>– Peretti-Tomaten (längliche Form): – vom 21. Oktober bis 30. April</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab]</td><td>– andere Tomaten, mit einem Durchmesser von 80 mm oder mehr (sog. Fleischtomaten):</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0702 00 30</td><td>– vom 21. Oktober bis 30. April</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] 0702 00 90</td><td>– andere: – vom 21. Oktober bis 30. April</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab]</td><td>Eisbergsalat ohne Umblatt:</td><td>frei</td><td colspan="2">2 000</td></tr>
-<tr><td colspan="2">0705 11 11</td><td>– vom 1. Januar bis Ende Februar</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Witloof-Zichorie, frisch oder gekühlt:</td><td>frei</td><td colspan="2">2 000</td></tr>
-<tr><td colspan="2">0705 21 10</td><td>– vom 21. Mai bis 30. September</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0707 00 10</td><td>Salatgurken, vom 21. Oktober bis 14. April</td><td>5.—</td><td colspan="2">200</td></tr>
-<tr><td colspan="2">0707 00 30</td><td>Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm, frisch oder gekühlt, vom 21. Oktober bis 14. April</td><td>5.—</td><td colspan="2">100</td></tr>
-<tr><td colspan="2">0707 00 31</td><td>Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm, frisch oder gekühlt, vom 15. April bis 20. Oktober</td><td>5.—</td><td colspan="2">2 100</td></tr>
-<tr><td colspan="2">0707 00 50</td><td>Cornichons, frisch oder gekühlt</td><td>3.50</td><td colspan="2">800</td></tr>
-<tr><td colspan="2"></td><td>Auberginen, frisch oder gekühlt:</td><td>frei</td><td colspan="2">1 000</td></tr>
-<tr><td colspan="2">0709 30 10</td><td>– vom 16. Oktober bis 31. Mai</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0709 51 00 0709 59 00</td><td>Pilze, frisch oder gekühlt, der Gattung *Agar**i**cus* oder andere, ausgenommen Trüffeln</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">[tab]</td><td>Peperoni, frisch oder gekühlt:</td><td>2.50</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0709 60 11</td><td>– vom 1. November bis 31. März</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0709 60 12</td><td>Peperoni, frisch oder gekühlt, vom 1. April bis 31. Oktober</td><td>5.—</td><td colspan="2">1 300</td></tr>
-<tr><td colspan="2"></td><td>Zucchetti (einschliesslich Zucchettiblüten), frisch oder gekühlt:</td><td>frei</td><td colspan="2">2 000</td></tr>
-<tr><td colspan="2">0709 90 50</td><td>– vom 31. Oktober bis 19. April</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ex 0710 80 90</td><td>Pilze, auch in Wasser oder Dampf gekocht, gefroren</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0711 90 90</td><td>Gemüse und Gemüsemischungen, vorläufig haltbar gemacht (z. B. durch Schwefeldioxid oder in Wasser mit Zusatz von Salz, Schwefeldioxid oder anderen vorläufig konservierenden Stoffen), jedoch in diesem Zustand zum unmittelbaren Genuss nicht geeignet</td><td>0.00</td><td colspan="2">150</td></tr>
-<tr><td colspan="2">0712 20 00</td><td>Speisezwiebeln, getrocknet, auch in Stücke oder Scheiben geschnitten, oder anders zerkleinert oder in Pulverform, aber nicht weiter zubereitet</td><td>0.00</td><td colspan="2">100</td></tr>
-<tr><td colspan="2">0713 10 11</td><td>Trockene Erbsen (*Pisum sativum*), ausgelöste, ganz, unbearbeitet, zu Futterzwecken</td><td>Ermässigung von 0.90 auf den Zollsatz</td><td colspan="2">1 000</td></tr>
-<tr><td colspan="2">0713 10 19</td><td>Trockene Erbsen (*Pisum sativum*), ausgelöste, ganz, unbearbeitet (weder zu Futterzwecken noch zu technischen Zwecken oder zur Herstellung von Bier)</td><td>0.00</td><td colspan="2">1 000</td></tr>
-<tr><td colspan="2"></td><td>Haselnüsse (*Corylus spp*.), frisch oder getrocknet:</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0802 21 90</td><td>– in der Schale, weder zu Futterzwecken noch zur Ölgewinnung</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0802 22 90</td><td>– ohne Schale, weder zu Futterzwecken noch zur Ölgewinnung</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0802 32 90</td><td>Nüsse</td><td>frei</td><td colspan="2">100</td></tr>
-<tr><td colspan="2">ex 0802 90 90</td><td>Pinienkerne, frisch oder getrocknet</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0805 10 00</td><td>Orangen, frisch oder getrocknet</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0805 20 00</td><td>Mandarinen (einschliesslich Tangerinen und Satsumas); Wilkings und ähnliche Kreuzungen von Zitrusfrüchten, frisch oder getrocknet</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0807 11 00</td><td>Wassermelonen, frisch</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">0807 19 00</td><td>andere Melonen als Wassermelonen, frisch</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2"></td><td>Aprikosen, frisch, in offener Packung:</td><td>frei</td><td colspan="2">2 100</td></tr>
-<tr><td colspan="2">0809 10 11</td><td>– vom 1. September bis 30. Juni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] 0809 10 91</td><td>in anderer Verpackung: – vom 1. September bis 30. Juni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0809 40 13</td><td>Pflaumen, frisch, in offener Packung, vom 1. Juli bis 30. September</td><td>0.00</td><td colspan="2">600</td></tr>
-<tr><td colspan="2">0810 10 10</td><td>Erdbeeren, frisch, vom 1. September bis 14. Mai</td><td>frei</td><td colspan="2">10 000</td></tr>
-<tr><td colspan="2">0810 10 11</td><td>Erdbeeren, frisch, vom 15. Mai bis 31. August</td><td>0.00</td><td colspan="2">200</td></tr>
-<tr><td colspan="2">0810 20 11</td><td>Himbeeren, frisch, vom 1. Juni bis 14. September</td><td>0.00</td><td colspan="2">250</td></tr>
-<tr><td colspan="2">0810 50 00</td><td>Kiwis, frisch</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">ex 0811 10 00</td><td>Erdbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, ohne Zusatz von Zucker oder anderen Süssstoffen, en gros, zur industriellen Weiterverarbeitung</td><td>10.—</td><td colspan="2">1 000</td></tr>
-<tr><td colspan="2">ex 0811 20 90</td><td>Himbeeren, Brombeeren, Maulbeeren, Loganbeeren, schwarze, weisse oder rote Johannisbeeren und Stachelbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, ohne Zusatz von Zucker oder anderen Süssstoffen, en gros, zur industriellen Weiterverarbeitung</td><td>10.—</td><td colspan="2">1 200</td></tr>
-<tr><td colspan="2">0811 90 10</td><td>Heidelbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, auch mit Zusatz von Zucker oder anderen Süssstoffen</td><td>0.00</td><td colspan="2">200</td></tr>
-<tr><td colspan="2">0811 90 90</td><td>Geniessbare Früchte, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, auch mit Zusatz von Zucker oder anderen Süssstoffen (mit Ausnahme von Erdbeeren, Himbeeren, Brombeeren, Maulbeeren, Loganbeeren, schwarzen, weissen oder roten Johannisbeeren und Stachelbeeren, Heidelbeeren und tropischen Früchten)</td><td>0.00</td><td colspan="2">1 000</td></tr>
-<tr><td colspan="2">0904 20 90</td><td>Früchte der Gattungen *Capsicum* oder *Pimenta*, getrocknet oder zerrieben oder in Pulverform, verarbeitet</td><td>0.00</td><td colspan="2">150</td></tr>
-<tr><td colspan="2">0910 20 00</td><td>Safran</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">1001 90 60</td><td>Weizen und Mengkorn (mit Ausnahme von Hartweizen), denaturiert, zu Futterzwecken</td><td>Ermässigung von 0.60 auf den Zollansatz</td><td>50 000</td></tr>
-<tr><td colspan="2">1005 90 30</td><td>Mais zu Futterzwecken</td><td>Ermässigung von 0.50 auf den Zollansatz</td><td>13 000</td></tr>
-<tr><td colspan="2"></td><td>Olivenöl, unbehandelt, nicht zu Futterzwecken:</td><td></td><td></td></tr>
-<tr><td colspan="2">1509 10 91</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von nicht mehr als 2 l</td><td>60.60<sup>(</sup><sup>4)</sup></td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">1509 10 99</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von mehr als 2 l oder in anderen Behältnissen</td><td>86.70<sup>(</sup><sup>4)</sup></td><td>unbegrenzt</td></tr>
-<tr><td colspan="2"></td><td>Olivenöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert, nicht zu Futterzwecken:</td><td></td><td></td></tr>
-<tr><td colspan="2">1509 90 91</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von nicht mehr als 2 l</td><td>60.60<sup>(</sup><sup>4)</sup></td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">1509 90 99</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von mehr als 2 l oder in anderen Behältnissen</td><td>86.70<sup>(</sup><sup>4)</sup></td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">ex 0210 19 91</td><td>Schinken, in Salzlake, ohne Knochen, umgeben von einer Blase oder einem Kunstdarm</td><td>frei</td><td>3 715</td></tr>
-<tr><td colspan="2">ex 0210 19 91</td><td>Knochenloses Kotelettstück, geräuchert</td><td></td><td></td></tr>
-<tr><td colspan="2">1601 00 11 1601 00 21</td><td>Würste und ähnliche Erzeugnisse, aus Fleisch, Schlachtnebenerzeugnissen oder Blut; Lebensmittelzubereitungen auf der Grundlage dieser Erzeugnisse von Tieren der Positionen 0101–0104, andere als Wildschweine</td><td></td><td></td></tr>
-<tr><td colspan="2">ex 0210 19 91 ex 1602 49 10</td><td>Schweinenacken, luftgetrocknet, auch gewürzt, ganz, in Stücken oder in dünnen Scheiben</td><td></td><td></td></tr>
-<tr><td colspan="2"></td><td>Tomaten, ganz oder in Stücken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht:</td><td></td><td></td></tr>
-<tr><td colspan="2">2002 10 10</td><td>– in Behältnissen von mehr als 5 kg</td><td>2.50</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">2002 10 20</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>4.50</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2"></td><td>Tomaten, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, weder ganz noch in Stücken:</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">2002 90 10</td><td>– in Behältnissen von mehr als 5 kg</td><td></td><td></td></tr>
-<tr><td colspan="2">2002 90 21</td><td>Tomatenpulpe, Tomatenpüree und Tomatenkonzentrat, in luftdicht verschlossenen Behältnissen, mit einem Gehalt an Trockensubstanz von 25 Gewichtsprozent oder mehr, aus Tomaten und Wasser bestehend, auch mit Salz oder anderen Würzzusätzen, in Behältnissen von nicht mehr als 5 kg</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">2002 90 29</td><td>Tomaten, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, weder ganz noch in Stücken, Pulpe, Püree oder Tomatenkonzentrat,</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2"></td><td>– in Behältnissen von nicht mehr als 5 kg</td><td></td><td></td></tr>
-<tr><td colspan="2">2003 10 00</td><td>Pilze der Gattung *Agaricus*, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht</td><td>0.00</td><td>1 700</td></tr>
-<tr><td colspan="2"></td><td>Artischocken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
-<tr><td colspan="2">ex 2004 90 18</td><td>– in Behältnissen von mehr als 5 kg</td><td>17.50</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">ex 2004 90 49</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>24.50</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2"></td><td>Spargel, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">2005 60 10</td><td>– in Behältnissen von mehr als 5 kg</td><td></td><td></td></tr>
-<tr><td colspan="2">2005 60 90</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td></td><td></td></tr>
-<tr><td colspan="2"></td><td>Oliven, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">2005 70 10</td><td>– in Behältnissen von mehr als 5 kg</td><td></td><td></td></tr>
-<tr><td colspan="2">2005 70 90</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td></td><td></td></tr>
-<tr><td colspan="2"></td><td>Kapern und Artischocken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
-<tr><td colspan="2">ex 2005 99 11</td><td>– in Behältnissen von mehr als 5 kg</td><td>17.50</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">ex 2005 99 41</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>24.50</td><td>unbegrenzt</td></tr>
-<tr><td colspan="2">2008 30 90</td><td>Zitrusfrüchte, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssstoffen oder von Alkohol, anderweit weder genannt noch inbegriffen</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">2008 50 10</td><td>Aprikosenpulpe, in anderer Weise zubereitet oder haltbar gemacht, ohne Zusatz von Zucker oder anderen Süssstoffen, anderweit weder genannt noch inbegriffen</td><td>10.—</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">2008 50 90</td><td>Aprikosen, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssstoffen oder von Alkohol, anderweit weder genannt noch inbegriffen</td><td>15.—</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">2008 70 10</td><td>Pfirsichpulpe, in anderer Weise zubereitet oder haltbar gemacht, ohne Zusatz von Zucker oder anderen Süssstoffen, anderweit weder genannt noch inbegriffen</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">2008 70 90</td><td>Pfirsiche, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssstoffen oder von Alkohol, anderweit weder genannt noch inbegriffen</td><td>frei</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2"></td><td>Saft von anderen Zitrusfrüchten als Orangen, Pampelmusen oder Grapefruit, nicht gegoren, ohne Zusatz von Alkohol:</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ex 2009 39 19</td><td>– ohne Zusatz von Zucker oder anderem Süssstoffen, eingedickt</td><td>6.—</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">ex 2009 39 20</td><td>– mit Zusatz von Zucker oder anderen Süssstoffen eingedickt</td><td>14.—</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2"></td><td>Süssweine, Weinspezialitäten und Mistellen in Behältnissen:</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2204 21 50</td><td>– mit einem Fassungsvermögen von nicht mehr als 2 l<sup>(</sup><sup>5)</sup></td><td>8.50</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">2204 29 50</td><td>– mit einem Fassungsvermögen von mehr als 2 l<sup>(</sup><sup>5)</sup></td><td>8.50</td><td colspan="2">unbegrenzt</td></tr>
-<tr><td colspan="2">ex 2204 21 50</td><td>Portwein, in Behältnissen mit einem Fassungsvermögen von nicht mehr als 2 l, gemäss Beschreibung<sup>(</sup><sup>6)</sup></td><td>frei</td><td colspan="2">1 000 hl</td></tr>
-<tr><td colspan="2">ex 2204 21 21</td><td>Retsina (griechischer Weisswein), in Behältnissen mit einem Fassungsvermögen von nicht mehr als 2 l, gemäss Beschreibung<sup>(</sup><sup>7)</sup></td><td>frei</td><td colspan="2">500 hl</td></tr>
-<tr><td colspan="2"></td><td>Retsina (griechischer Weisswein), in Behältnissen mit einem Fassungsvermögen von mehr als 2 l, gemäss Beschreibung<sup>(</sup><sup>7)</sup>, mit einem Alkoholgehalt:</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ex 2204 29 21</td><td>– von mehr als 13 % vol.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ex 2204 29 22</td><td>– von nicht mehr als 13 % vol.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="6"><sup>(</sup><sup>1)</sup> Einschliesslich 480 t für Parma und San-Daniele-Schinken gemäss dem Briefwechsel zwischen der Schweiz und der EG vom 25. Januar 1972. <sup>(2)</sup> Einschliesslich 170 t Bresaola gemäss dem Briefwechsel zwischen der Schweiz und der EG vom 25. Januar 1972. <sup>(</sup><sup>3)</sup> Im Rahmen eines jährlichen Gesamtkontingents von 60 000 Pflanzen. <sup>(</sup><sup>4)</sup> Einschliesslich der Garantiefondsbeiträge zur Finanzierung der Pflichtlagerhaltung. <sup>(</sup><sup>5)</sup> Gilt nur für Erzeugnisse im Sinne von Anhang 7 des Abkommens. <sup>(</sup><sup>6)</sup> Beschreibung: Als «Portwein» gilt Qualitätswein aus dem bestimmten Anbaugebiet Porto in Portugal im Sinne der Verordnung (EG) Nr. 1493/1999. <sup>(</sup><sup>7)</sup> Beschreibung: Unter «Retsina» versteht man Tafelwein im Sinne der gemeinschaftlichen Rechtsvorschriften gemäss Anhang VII Abschnitt A Nummer 2 der Verordnung (EG) Nr. 1493/1999.</td></tr>
+<tr><th>Position des schweizerischen Zolltarifs</th><th>Warenbezeichnung</th><th>Zollsatz in CHF / 100 kg brutto</th><th>Jährliche Menge in Nettogewicht (Tonnen)</th></tr>
+<tr><td>0101 29 91</td><td>Pferde, lebend (ausgenommen reinrassige Zuchttiere und Tiere zum Schlachten) (in Stück)</td><td>0.00</td><td>100 Stück</td></tr>
+<tr><td>0204 50 10</td><td>Fleisch von Ziegen, frisch, gekühlt oder gefroren</td><td>40.00</td><td>100</td></tr>
+<tr><td>0207 14 81</td><td>Brüste von Hühnern, gefroren</td><td>15.00</td><td>2 100</td></tr>
+<tr><td>0207 14 91</td><td>Stücke und geniessbare Schlachtnebenprodukte von Hühnern, einschliesslich Lebern (ausgenommen Brüste), gefroren</td><td>15.00</td><td>1 200</td></tr>
+<tr><td>0207 27 81</td><td>Brüste von Truthühnern, gefroren</td><td>15.00</td><td>800</td></tr>
+<tr><td>0207 27 91</td><td>Stücke und geniessbare Schlachtnebenprodukte von Truthühnern, einschliesslich Lebern (ausgenommen Brüste), gefroren</td><td>15.00</td><td>600</td></tr>
+<tr><td>0207 42 10</td><td>Enten, nicht in Stücke zerteilt, gefroren</td><td>15.00</td><td>700</td></tr>
+<tr><td></td><td>Fettlebern von Enten oder Gänsen, frisch oder gekühlt</td><td></td><td></td></tr>
+<tr><td>0207 43 00</td><td>– von Enten</td><td></td><td></td></tr>
+<tr><td>0207 53 00</td><td>– von Gänsen</td><td>9.50</td><td>20</td></tr>
+<tr><td></td><td>Stücke und geniessbare Schlachtnebenprodukte von Enten, Gänsen oder Perlhühnern, gefroren (ausgenommen Fettlebern)</td><td></td><td></td></tr>
+<tr><td>0207 45 91</td><td>– von Enten</td><td></td><td></td></tr>
+<tr><td>0207 55 91</td><td>– von Gänsen</td><td></td><td></td></tr>
+<tr><td>0207 60 91</td><td>– von Perlhühnern</td><td>15.00</td><td>100</td></tr>
+<tr><td>0208 10 00</td><td>Fleisch und geniessbare Schlachtnebenerzeugnisse von Kaninchen oder Hasen, frisch, gekühlt oder gefroren</td><td>11.00</td><td>1 700</td></tr>
+<tr><td>0208 90 10</td><td>Fleisch und geniessbare Schlachtnebenprodukte von Wild, frisch, gekühlt oder gefroren (ausgenommen von Hasen und Wildschweinen)</td><td>0.00</td><td>100</td></tr>
+<tr><td>ex 0210 11 91</td><td>Schinken und Stücke davon, nicht ausgebeint, von Tieren der Schweinegattung (ausgenommen Wildschwein), gesalzen oder in Salzlake, getrocknet oder geräuchert</td><td></td><td></td></tr>
+<tr><td>ex 0210 19 91</td><td>Schinken und Stücke davon, ausgebeint, von Tieren der Schweinegattung (ausgenommen Wildschwein), gesalzen oder in Salzlake, getrocknet oder geräuchert</td><td>0.00</td><td>1 000 (1)</td></tr>
+<tr><td>0210 20 10</td><td>Fleisch von Tieren der Rindviehgattung, getrocknet</td><td>0.00</td><td>200 (2)</td></tr>
+<tr><td></td><td>Vogeleier für den Konsum, in der Schale</td><td></td><td></td></tr>
+<tr><td>ex 0407 21 10</td><td>– von Hühnern (Gallus domesticus), frisch</td><td></td><td></td></tr>
+<tr><td>ex 0407 29 10</td><td>– andere, frisch</td><td></td><td></td></tr>
+<tr><td>ex 0407 90 10</td><td>– andere, haltbar gemacht oder gekocht</td><td>47.00</td><td>150</td></tr>
+<tr><td>ex 0409 00 00</td><td>Natürlicher Honig, von Akazien</td><td>8.00</td><td>200</td></tr>
+<tr><td>ex 0409 00 00</td><td>Natürlicher Honig, anderer (ausgenommen von Akazien)</td><td>26.00</td><td>50</td></tr>
+<tr><td>0602 10 00</td><td>Stecklinge, unbewurzelt, und Pfropfreiser</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Unterlagen von Kernobst (Sämlinge, Pflänzlinge):</td><td></td><td></td></tr>
+<tr><td>0602 20 11</td><td>– veredelt, mit nackten Wurzeln</td><td></td><td></td></tr>
+<tr><td>0602 20 19</td><td>– veredelt, mit Wurzelballen</td><td></td><td></td></tr>
+<tr><td>0602 20 21</td><td>– nicht veredelt, mit nackten Wurzeln</td><td></td><td></td></tr>
+<tr><td>0602 20 29</td><td>– nicht veredelt, mit Wurzelballen</td><td>0.00</td><td>(3)</td></tr>
+<tr><td></td><td>Unterlagen von Steinobst (Sämlinge, Pflänzlinge):</td><td></td><td></td></tr>
+<tr><td>0602 20 31</td><td>– veredelt, mit nackten Wurzeln</td><td></td><td></td></tr>
+<tr><td>0602 20 39</td><td>– veredelt, mit Wurzelballen</td><td></td><td></td></tr>
+<tr><td>0602 20 41</td><td>– nicht veredelt, mit nackten Wurzeln</td><td></td><td></td></tr>
+<tr><td>0602 20 49</td><td>– nicht veredelt, mit Wurzelballen</td><td>0.00</td><td>(3)</td></tr>
+<tr><td></td><td>Pflanzen von geniessbaren Fruchtarten, ausgenommen Unterlagen von Kern- oder Steinobst (Sämlinge, Pflänzlinge):</td><td></td><td></td></tr>
+<tr><td>0602 20 51</td><td>– wurzelnackt</td><td></td><td></td></tr>
+<tr><td>0602 20 59</td><td>– andere als mit nackten Wurzeln</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Bäume, Sträucher und Stauden von geniessbaren Fruchtarten, mit nackten Wurzeln:</td><td></td><td></td></tr>
+<tr><td>0602 20 71</td><td>– von Kernobst</td><td></td><td></td></tr>
+<tr><td>0602 20 72</td><td>– von Steinobst</td><td>0.00</td><td>(3)</td></tr>
+<tr><td>0602 20 79</td><td>– andere als von Kern- oder Steinobst</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Bäume, Sträucher und Stauden von geniessbaren Fruchtarten, mit Wurzelballen:</td><td></td><td></td></tr>
+<tr><td>0602 20 81</td><td>– von Kernobst</td><td></td><td></td></tr>
+<tr><td>0602 20 82</td><td>– von Steinobst</td><td>0.00</td><td>(3)</td></tr>
+<tr><td>0602 20 89</td><td>– andere als von Kern- oder Steinobst</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0602 30 00</td><td>Rhododendren und Azaleen, auch veredelt</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Rosen, auch veredelt:</td><td></td><td></td></tr>
+<tr><td>0602 40 10</td><td>– Rosenwildlinge und Rosenwildstämme</td><td></td><td></td></tr>
+<tr><td></td><td>– andere als Rosenwildlinge und Rosenwildstämme:</td><td></td><td></td></tr>
+<tr><td>0602 40 91</td><td>– wurzelnackt</td><td></td><td></td></tr>
+<tr><td>0602 40 99</td><td>– andere als mit nackten Wurzeln, mit Wurzelballen</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Setzlinge (Sämlinge, Pflänzlinge) von Nutzpflanzen; Pilzmycel</td><td></td><td></td></tr>
+<tr><td>0602 90 11</td><td>– Gemüsesetzlinge und Rollrasen</td><td></td><td></td></tr>
+<tr><td>0602 90 12</td><td>– Pilzmycel</td><td></td><td></td></tr>
+<tr><td>0602 90 19</td><td>– andere als Gemüsesetzlinge, Rollrasen oder Pilzmycel</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Andere lebende Pflanzen (einschliesslich ihrer Wurzeln):</td><td></td><td></td></tr>
+<tr><td>0602 90 91</td><td>– wurzelnackt</td><td></td><td></td></tr>
+<tr><td>0602 90 99</td><td>– andere als mit nackten Wurzeln, mit Wurzelballen</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0603 11 10</td><td>Rosen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td></td></tr>
+<tr><td>0603 12 10</td><td>Nelken, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td></td></tr>
+<tr><td>0603 13 10</td><td>Orchideen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td></td></tr>
+<tr><td>0603 14 10</td><td>Chrysanthemen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td></td></tr>
+<tr><td>0603 15 10</td><td>Lilien (Lilium spp.), geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td></td></tr>
+<tr><td></td><td>Andere Blüten und Blütenknospen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober:</td><td></td><td></td></tr>
+<tr><td>0603 19 11</td><td>– verholzend</td><td></td><td></td></tr>
+<tr><td>0603 19 18</td><td>– – andere als verholzend</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0603 12 30</td><td>Nelken, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0603 13 30</td><td>Orchideen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td></td></tr>
+<tr><td>0603 14 30</td><td>Chrysanthemen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td></td></tr>
+<tr><td>0603 15 30</td><td>Lilien (*Lilium* spp.), geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td></td></tr>
+<tr><td>0603 19 30</td><td>Tulpen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td></td></tr>
+<tr><td></td><td>Blüten und Blütenknospen (ausser Nelken, Rosen, Orchideen und Chrysanthemen), geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April:</td><td></td><td></td></tr>
+<tr><td>0603 19 31</td><td>– verholzend</td><td></td><td></td></tr>
+<tr><td>0603 19 38</td><td>– andere als verholzend</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Tomaten, frisch oder gekühlt</td><td></td><td></td></tr>
+<tr><td>0702 00 10</td><td>Cherry-Tomaten (Kirschentomaten): – vom 21. Oktober bis 30. April</td><td></td><td></td></tr>
+<tr><td>0702 00 20</td><td>Peretti-Tomaten (längliche Form): – vom 21. Oktober bis 30. April</td><td></td><td></td></tr>
+<tr><td>0702 00 30</td><td>andere Tomaten, mit einem Durchmesser von 80 mm oder mehr (sog. Fleischtomaten): vom 21. Oktober bis 30. April</td><td></td><td></td></tr>
+<tr><td>0702 00 90</td><td>andere: vom 21. Oktober bis 30. April</td><td>0.00</td><td>10 000</td></tr>
+<tr><td></td><td>Eisbergsalat ohne Umblatt:</td><td></td><td></td></tr>
+<tr><td>0705 11 11</td><td>– vom 1. Januar bis Ende Februar</td><td>0.00</td><td>2 000</td></tr>
+<tr><td></td><td>Witloof-Zichorie, frisch oder gekühlt:</td><td></td><td></td></tr>
+<tr><td>0705 21 10</td><td>– vom 21. Mai bis 30. September</td><td>0.00</td><td>2 000</td></tr>
+<tr><td>0707 00 10</td><td>Salatgurken, vom 21. Oktober bis 14. April</td><td>5.00</td><td>200</td></tr>
+<tr><td>0707 00 30</td><td>Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm, frisch oder gekühlt, vom 21. Oktober bis 14. April</td><td>5.00</td><td>100</td></tr>
+<tr><td>0707 00 31</td><td>Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm, frisch oder gekühlt, vom 15. April bis 20. Oktober</td><td>5.00</td><td>2 100</td></tr>
+<tr><td>0707 00 50</td><td>Cornichons, frisch oder gekühlt</td><td>3.50</td><td>800</td></tr>
+<tr><td></td><td>Auberginen, frisch oder gekühlt:</td><td></td><td></td></tr>
+<tr><td>0709 30 10</td><td>– vom 16. Oktober bis 31. Mai</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0709 51 00 0709 59 00</td><td>Pilze, frisch oder gekühlt, der Gattung *Agaricus* oder andere, ausgenommen Trüffeln</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Peperoni, frisch oder gekühlt:</td><td></td><td></td></tr>
+<tr><td>0709 60 11</td><td>– vom 1. November bis 31. März</td><td>2.50</td><td>unbegrenzt</td></tr>
+<tr><td>0709 60 12</td><td>Peperoni, frisch oder gekühlt, vom 1. April bis 31. Oktober</td><td>5.00</td><td>1 300</td></tr>
+<tr><td></td><td>Zucchetti (einschliesslich Zucchettiblüten), frisch oder gekühlt:</td><td></td><td></td></tr>
+<tr><td>0709 99 50</td><td>– vom 31. Oktober bis 19. April</td><td>0.00</td><td>2 000</td></tr>
+<tr><td>ex 0710 80 90</td><td>Pilze, auch in Wasser oder Dampf gekocht, gefroren</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0711 90 90</td><td>Gemüse und Gemüsemischungen, vorläufig haltbar gemacht (z. B. durch Schwefeldioxid oder in Wasser mit Zusatz von Salz, Schwefeldioxid oder anderen vorläufig konservierenden Stoffen), jedoch in diesem Zustand zum unmittelbaren Genuss nicht geeignet</td><td>0.00</td><td>150</td></tr>
+<tr><td>0712 20 00</td><td>Getrocknete Zwiebeln, ganz, in Stücke oder Scheiben geschnitten, als Pulver oder sonst zerkleinert, jedoch nicht weiter zubereitet</td><td>0.00</td><td>100</td></tr>
+<tr><td>0713 10 11</td><td>Trockene Erbsen (*Pisum sativum*), ausgelöst, ganz, unbearbeitet, zu Futterzwecken</td><td>Ermässigung von 0.90 CHF auf den Zollsatz</td><td>1 000</td></tr>
+<tr><td>0713 10 19</td><td>Trockene Erbsen (*Pisum sativum*), ausgelöst, ganz, unbearbeitet (weder zu Futterzwecken noch zu technischen Zwecken oder zur Herstellung von Bier)</td><td>0.00</td><td>1 000</td></tr>
+<tr><td></td><td>Haselnüsse (*Corylus* spp.), frisch oder getrocknet:</td><td></td><td></td></tr>
+<tr><td>0802 21 90</td><td>– in der Schale, weder zu Futterzwecken noch zur Ölgewinnung</td><td></td><td></td></tr>
+<tr><td>0802 22 90</td><td>– ohne Schale, weder zu Futterzwecken noch zur Ölgewinnung</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0802 32 90</td><td>Schalenfrüchte</td><td>0.00</td><td>100</td></tr>
+<tr><td>ex 0802 90 90</td><td>Pinienkerne, frisch oder getrocknet</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0805 10 00</td><td>Orangen, frisch oder getrocknet</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Mandarinen (einschliesslich Tangerinen und Satsumas), Wilkings und ähnliche Kreuzungen von Zitrusfrüchten, frisch oder getrocknet</td><td></td><td></td></tr>
+<tr><td>0805 21 00</td><td>Mandarinen, einschliesslich Tangerinen und Satsumas</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0805 22 00</td><td>Clementinen</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0805 29 00</td><td>andere</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0807 11 00</td><td>Wassermelonen, frisch</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0807 19 00</td><td>Melonen, frisch, andere als Wassermelonen</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Aprikosen, frisch, in offener Packung:</td><td></td><td></td></tr>
+<tr><td>0809 10 11</td><td>– vom 1. September bis 30. Juni</td><td></td><td></td></tr>
+<tr><td>0809 10 91</td><td>in anderer Verpackung: – vom 1. September bis 30. Juni</td><td>0.00</td><td>2 100</td></tr>
+<tr><td>0809 40 13</td><td>Pflaumen, frisch, in offener Packung, vom 1. Juli bis 30. September</td><td>0.00</td><td>600</td></tr>
+<tr><td>0810 10 10</td><td>Erdbeeren, frisch, vom 1. September bis 14. Mai</td><td>0.00</td><td>10 000</td></tr>
+<tr><td>0810 10 11</td><td>Erdbeeren, frisch, vom 15. Mai bis 31. August</td><td>0.00</td><td>200</td></tr>
+<tr><td>0810 20 11</td><td>Himbeeren, frisch, vom 1. Juni bis 14. September</td><td>0.00</td><td>250</td></tr>
+<tr><td>0810 50 00</td><td>Kiwis, frisch</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 0811 10 00</td><td>Erdbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, ohne Zusatz von Zucker oder anderen Süssstoffen, en gros, zur industriellen Weiterverarbeitung</td><td>10.00</td><td>1 000</td></tr>
+<tr><td>ex 0811 20 90</td><td>Himbeeren, Brombeeren, Maulbeeren, Loganbeeren, Johannisbeeren und Stachelbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, ohne Zusatz von Zucker oder anderen Süssstoffen, en gros, zur industriellen Weiterverarbeitung</td><td>10.00</td><td>1 200</td></tr>
+<tr><td>0811 90 10</td><td>Heidelbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, auch mit Zusatz von Zucker oder anderen Süssstoffen</td><td>0.00</td><td>200</td></tr>
+<tr><td>0811 90 90</td><td>Geniessbare Früchte, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, auch mit Zusatz von Zucker oder anderen Süssstoffen (mit Ausnahme von Erdbeeren, Himbeeren, Brombeeren, Maulbeeren, Loganbeeren, schwarzen, weissen oder roten Johannisbeeren und Stachelbeeren, Heidelbeeren und tropischen Früchten)</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0904 22 00</td><td>Früchte der Gattungen «Capsicum» oder «Pimenta», getrocknet oder gemahlen oder sonst zerkleinert</td><td>0.00</td><td>150</td></tr>
+<tr><td>0910 20 00</td><td>Safran</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Weizen und Mengkorn (mit Ausnahme von Hartweizen), zu Futterzwecken</td><td></td><td></td></tr>
+<tr><td>1001 99 31</td><td>– anderes Getreide des Kapitels 10 enthaltend</td><td></td><td></td></tr>
+<tr><td>1001 99 39</td><td>– andere</td><td>Ermässigung von 0.60 CHF auf den Zollsatz</td><td>50 000</td></tr>
+<tr><td></td><td>Mais zu Futterzwecken</td><td></td><td></td></tr>
+<tr><td>1005 90 31</td><td>– anderes Getreide des Kapitels 10 enthaltend</td><td></td><td></td></tr>
+<tr><td>1005 90 39</td><td>– andere</td><td>Ermässigung von 0.50 CHF auf den Zollsatz</td><td>13 000</td></tr>
+<tr><td></td><td>Olivenöl, unbehandelt, nicht zu Futterzwecken:</td><td></td><td></td></tr>
+<tr><td>1509 10 91</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von nicht mehr als 2 l</td><td>60.60 (4)</td><td>unbegrenzt</td></tr>
+<tr><td>1509 10 99</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von mehr als 2 l oder in anderen Behältnissen</td><td>86.70 (4)</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Olivenöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert, nicht zu Futterzwecken:</td><td></td><td></td></tr>
+<tr><td>1509 90 91</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von nicht mehr als 2 l</td><td>60.60 (4)</td><td>unbegrenzt</td></tr>
+<tr><td>1509 90 99</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von mehr als 2 l oder in anderen Behältnissen</td><td>86.70 (4)</td><td>unbegrenzt</td></tr>
+<tr><td>ex 0210 19 91</td><td>Schinken, in Salzlake, ohne Knochen, umgeben von einer Blase oder einem Kunstdarm («jambon en vessie»)</td><td></td><td></td></tr>
+<tr><td>ex 0210 1991</td><td>Knochenloses Kotelettstück, geräuchert («jambon saumoné»)</td><td></td><td></td></tr>
+<tr><td>ex 0210 19 91 ex 1602 49 10</td><td>Schweinenacken, luftgetrocknet, auch gewürzt, ganz, in Stücken oder in dünnen Scheiben («Coppa»)</td><td></td><td></td></tr>
+<tr><td>1601 00 11 1601 00 21</td><td>Würste und ähnliche Erzeugnisse, aus Fleisch, Schlachtnebenerzeugnissen oder Blut; Lebensmittelzubereitungen auf der Grundlage dieser Erzeugnisse von Tieren der Positionen 0101 bis 0104, andere als Wildschweine</td><td>0.00</td><td>3 715</td></tr>
+<tr><td></td><td>Tomaten, ganz oder in Stücken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht:</td><td></td><td></td></tr>
+<tr><td>2002 10 10 2002 10 20</td><td>in Behältnissen von mehr als 5 kg in Behältnissen von nicht mehr als 5 kg</td><td>2.50 4.50</td><td>unbegrenzt unbegrenzt</td></tr>
+<tr><td></td><td>Tomaten, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, weder ganz noch in Stücken:</td><td></td><td></td></tr>
+<tr><td>2002 90 10</td><td>– in Behältnissen von mehr als 5 kg</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>2002 90 21</td><td>Tomatenpulpe, Tomatenpüree und Tomatenkonzentrat, in luftdicht verschlossenen Behältnissen, mit einem Gehalt an Trockensubstanz von 25 Gewichtsprozent oder mehr, aus Tomaten und Wasser bestehend, auch mit Salz oder anderen Würzzusätzen, in Behältnissen von nicht mehr als 5 kg</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>2002 90 29</td><td>Tomaten, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, weder ganz noch in Stücken, Pulpe, Püree oder Tomatenkonzentrat,</td><td></td><td></td></tr>
+<tr><td></td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>2003 10 00</td><td>Pilze der Gattung Agaricus, anders als mit Essig oder Essigsäure zubereitet oder haltbar gemacht</td><td>0.00</td><td>1 700</td></tr>
+<tr><td></td><td>Artischocken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
+<tr><td>ex 2004 90 18</td><td>– in Behältnissen von mehr als 5 kg</td><td>17.50</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2004 90 49</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>24.50</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Spargeln, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
+<tr><td>2005 60 10</td><td>– in Behältnissen von mehr als 5 kg</td><td></td><td></td></tr>
+<tr><td>2005 60 90</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Oliven, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
+<tr><td>2005 70 10</td><td>– in Behältnissen von mehr als 5 kg</td><td></td><td></td></tr>
+<tr><td>2005 70 90</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Kapern und Artischocken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
+<tr><td>ex 2005 99 11</td><td>– in Behältnissen von mehr als 5 kg</td><td>17.50</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2005 99 41</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>24.50</td><td>unbegrenzt</td></tr>
+<tr><td>2008 30 90</td><td>Zitrusfrüchte, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssstoffen oder von Alkohol, anderweit weder genannt noch inbegriffen</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>2008 50 10</td><td>Aprikosenpulpe, in anderer Weise zubereitet oder haltbar gemacht, ohne Zusatz von Zucker oder anderen Süssstoffen, anderweit weder genannt noch inbegriffen</td><td>10.00</td><td>unbegrenzt</td></tr>
+<tr><td>2008 50 90</td><td>Aprikosen, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssstoffen oder von Alkohol, anderweit weder genannt noch inbegriffen</td><td>15.00</td><td>unbegrenzt</td></tr>
+<tr><td>2008 70 10</td><td>Pfirsichpulpe, in anderer Weise zubereitet oder haltbar gemacht, ohne Zusatz von Zucker oder anderen Süssstoffen, anderweit weder genannt noch inbegriffen</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>2008 70 90</td><td>Pfirsiche, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssstoffen oder von Alkohol, anderweit weder genannt noch inbegriffen</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Saft von anderen Zitrusfrüchten als Orangen, Pampelmusen oder Grapefruit, nicht gegoren, ohne Zusatz von Alkohol:</td><td></td><td></td></tr>
+<tr><td>ex 2009 39 19</td><td>– ohne Zusatz von Zucker oder anderen Süssstoffen, eingedickt</td><td>6.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2009 39 20</td><td>– mit Zusatz von Zucker oder anderen Süssstoffen, eingedickt</td><td>14.00</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Süssweine, Weinspezialitäten und Mistellen in Behältnissen:</td><td></td><td></td></tr>
+<tr><td>2204 21 50</td><td>– mit einem Fassungsvermögen von nicht mehr als 2 l (5)</td><td>8.50</td><td>unbegrenzt</td></tr>
+<tr><td>2204 22 50</td><td>– mehr als 2 l bis 10 l (5)</td><td>8.50</td><td>unbegrenzt</td></tr>
+<tr><td>2204 29 60</td><td>– mit einem Fassungsvermögen von mehr als 10 l (5)</td><td>8.50</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2204 21 50</td><td>Portwein, in Behältnissen mit einem Fassungsvermögen von nicht mehr als 2 l, gemäss Beschreibung (6)</td><td>0.00</td><td>1 000 hl</td></tr>
+<tr><td></td><td>Retsina (griechischer Weisswein) gemäss Beschreibung (7)</td><td></td><td></td></tr>
+<tr><td>ex 2204 21 21</td><td>– in Behältnissen mit einem Inhalt von 2 l oder weniger</td><td></td><td></td></tr>
+<tr><td></td><td>– in Behältnissen mit einem Inhalt von mehr als 2 l bis 10 l, mit einem Alkoholgehalt:</td><td></td><td></td></tr>
+<tr><td>ex 2204 22 21</td><td>– – von mehr als 13 % vol.</td><td></td><td></td></tr>
+<tr><td>ex 2204 22 22</td><td>– – von nicht mehr als 13 % vol.</td><td></td><td></td></tr>
+<tr><td></td><td>– in Behältnissen mit einem Inhalt von mehr als 10 Liter, mit einem Alkoholgehalt von:</td><td></td><td></td></tr>
+<tr><td>ex 2204 29 23</td><td>– – mehr als 13 % vol.</td><td></td><td></td></tr>
+<tr><td>ex 2204 29 24</td><td>– – nicht mehr als 13 % vol.</td><td>0.00</td><td>500 hl</td></tr>
+<tr><td></td><td>Hunde- und Katzenfutter, in Aufmachungen für den Einzelverkauf, in luftdicht verschlossenen Behältnissen;</td><td></td><td></td></tr>
+<tr><td>2309 10 21</td><td>– Milchpulver oder Molke enthaltend</td><td></td><td></td></tr>
+<tr><td>2309 10 29</td><td>– andere</td><td>0.00</td><td>6 000 (8)</td></tr>
+<tr><td colspan="4"><sup>(1)</sup> Einschliesslich 480 Tonnen für Parma- und San-Daniele-Schinken gemäss dem Briefwechsel zwischen der Schweiz und der EG vom 25. Januar 1972. <sup>(2)</sup> Einschliesslich 170 Tonnen Bresaola gemäss dem Briefwechsel zwischen der Schweiz und der EG vom 25. Januar 1972. <sup>(3)</sup> Im Rahmen eines jährlichen Gesamtkontingents von 60 000 Pflanzen. <sup>(4)</sup> Einschliesslich der Garantiefondsbeiträge zur Finanzierung der Pflichtlagerhaltung. <sup>(5)</sup> Gilt nur für Erzeugnisse im Sinne von Anhang 7 des Abkommens. <sup>(6)</sup> Beschreibung: Als «Portwein» gilt Qualitätswein aus dem bestimmten Anbaugebiet Porto in Portugal im Sinne der Verordnung (EG) Nr. 1493/1999. <sup>(7)</sup> Beschreibung: Unter «Retsina» versteht man Tafelwein im Sinne der gemeinschaftlichen Rechtsvorschriften gemäss Anhang VII Abschnitt A Nummer 2 der Verordnung (EG) Nr. 1493/1999. <sup>(8)</sup> Der Europäischen Gemeinschaft von der Schweiz gewährte Zugeständnisse gemäss dem Briefwechsel vom 30. Juni 1996.</td></tr>
 </table>
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
-## Zugeständnisse der Gemeinschaft
+## Zugeständnisse der Europäischen Union
 
-[^t-3]: Fassung gemäss Art. 1 des Beschlusses Nr. 2/2008 des Gemischten Ausschusses für Landwirtschaft vom 24. Juni 2008, von der BVers genehmigt am 29. Mai 2008 und in Kraft seit 1. Jan. 2010 ([AS 2010 251](https://fedlex.data.admin.ch/eli/oc/2010/33)[249](https://fedlex.data.admin.ch/eli/oc/2010/32); [BBl 2008 1041](https://fedlex.data.admin.ch/eli/fga/2008/222)).
+[^t-3]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2022 des Gemischten Ausschusses für Landwirtschaft vom 17. Nov. 2022, in Kraft getreten für die Schweiz am 1. Jan. 2023 ([AS 2022 857](https://fedlex.data.admin.ch/eli/oc/2022/857)).
 
-Die Gemeinschaft räumt für nachstehende Erzeugnisse aus der Schweiz – gegebenenfalls im Rahmen einer festgesetzten jährlichen Menge – folgende Zugeständnisse ein:
+Die Europäische Union räumt für nachstehende Erzeugnisse mit Ursprung in der Schweiz – gegebenenfalls im Rahmen einer festgesetzten jährlichen Menge – die folgenden:
 
 <table>
-<tr><th>KN-Code</th><th>Bezeichnung</th><th>Zollsatz in EUR/100 kg Nettogewicht</th><th>Jährliche Menge in Tonnen Nettogewicht</th></tr>
-<tr><td>0102 90 41 0102 90 49 0102 90 51 0102 90 59 0102 90 61 0102 90 69 0102 90 71 0102 90 79</td><td>Lebende Rinder mit einem Gewicht von mehr als 160 kg</td><td>0.00</td><td>4 600 Stück</td></tr>
-<tr><td>ex 0210 20 90</td><td>Fleisch von Rindern, ohne Knochen, getrocknet</td><td>frei</td><td>1 200</td></tr>
-<tr><td>ex 0401 30</td><td>Rahm, mit einem Milchfettgehalt von mehr als 6 GHT</td><td>frei</td><td>2 000</td></tr>
+<tr><th>KN-Code</th><th>Warenbezeichnung</th><th>Zollsatz in EUR/100 kg Nettogewicht</th><th>Jährliche Menge in Nettogewicht (Tonnen)</th></tr>
+<tr><td>0102 29 41 0102 29 49 0102 29 51 0102 29 59 0102 29 61 0102 29 69 0102 29 91 0102 29 99 ex 0102 39 10 ex 0102 90 91</td><td>Lebende Rinder mit einem Gewicht von mehr als 160 kg</td><td>0.00</td><td>4 600 Stück</td></tr>
+<tr><td>ex 0210 20 90</td><td>Fleisch von Rindern, ohne Knochen, getrocknet</td><td>0.00</td><td>1 200</td></tr>
+<tr><td>ex 0401 40 10 0401 40 90 0401 50 11 0401 50 19 0401 50 31 0401 50 39 0401 50 91 0401 50 99</td><td>Rahm, mit einem Milchfettgehalt von mehr als 6 GHT</td><td>0.00</td><td>2 000</td></tr>
 <tr><td>0403 10</td><td>Joghurt</td><td></td><td></td></tr>
-<tr><td>0402 29 11 ex 0404 90 83</td><td>Milch zur Ernährung von Säuglingen, in luftdicht verschlossenen Behältnissen mit einem Gewicht des Inhalts von 500 g oder weniger, mit einem Milchfettgehalt von mehr als 10 GHT<sup>(</sup><sup>1)</sup></td><td>43.80</td><td>unbegrenzt</td></tr>
-<tr><td>0602</td><td>Andere lebende Pflanzen (einschliesslich ihrer Wurzeln), Stecklinge und Pfropfreiser; Pilzmycel</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>0603 11 00 0603 12 00 0603 13 00 0603 14 00 0603 19</td><td>Blumen und Blüten sowie deren Knospen, geschnitten, zu Binde- oder Zierzwecken, frisch</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>0701 10 00</td><td>Pflanzkartoffeln/Saatkartoffeln, frisch oder gekühlt</td><td>frei</td><td>4 000</td></tr>
-<tr><td>0702 00 00</td><td>Tomaten, frisch oder gekühlt</td><td>frei<sup>(</sup><sup>2)</sup></td><td>1 000</td></tr>
-<tr><td>0703 10 19 0703 90 00</td><td>Speisezwiebeln, ausgenommen Steckzwiebeln, Porree/Lauch und andere Gemüse der Allium-Arten, frisch oder gekühlt</td><td>frei</td><td>5 000</td></tr>
-<tr><td>0704 10 00 0704 90</td><td>Kohl, Blumenkohl/Karfiol, Kohlrabi, Wirsingkohl und ähnliche geniessbare Kohlarten der Gattung Brassica, ausgenommen Rosenkohl/Kohlsprossen, frisch oder gekühlt</td><td>frei</td><td>5 500</td></tr>
-<tr><td>0705</td><td>Salate (*Lactuca sativa*) und Chicorée (*Cichor**i**um*-Arten), frisch oder gekühlt</td><td>frei</td><td>3 000</td></tr>
-<tr><td>0706 10 00</td><td>Karotten und Speisemöhren, Speiserüben, frisch oder gekühlt</td><td>frei</td><td>5 000</td></tr>
-<tr><td>0706 90 10 0706 90 90</td><td>Rote Rüben, Schwarzwurzeln, Knollensellerie, Rettiche und ähnliche geniessbare Wurzeln, ausgenommen Meerrettich (*Cochlearia arm**o**racia*), frisch oder gekühlt</td><td>frei</td><td>3 000</td></tr>
-<tr><td>0707 00 05</td><td>Gurken, frisch oder gekühlt</td><td>frei<sup>(</sup><sup>2)</sup></td><td>1 000</td></tr>
-<tr><td>0708 20 00</td><td>Bohnen (*Vigna*-Arten, *Phaseolus*-Arten), frisch oder gekühlt</td><td>frei</td><td>1 000</td></tr>
-<tr><td>0709 30 00</td><td>Auberginen, frisch oder gekühlt</td><td>frei</td><td>500</td></tr>
-<tr><td>0709 40 00</td><td>Sellerie, ausgenommen Knollensellerie, frisch oder gekühlt</td><td>frei</td><td>500</td></tr>
-<tr><td>0709 51 00 0709 59</td><td>Pilze und Trüffeln, frisch oder gekühlt</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>0709 70 00</td><td>Gartenspinat, Neuseelandspinat und Gartenmelde, frisch oder gekühlt</td><td>frei</td><td>1 000</td></tr>
-<tr><td>0709 90 10</td><td>Salate (ausgenommen solche der Art *Lactuca sativa* sowie Chicorée (*Cichor**i**um*-Arten))</td><td>frei</td><td>1 000</td></tr>
-<tr><td>0709 90 20</td><td>Mangold und Karde</td><td>frei</td><td>300</td></tr>
-<tr><td>0709 90 50</td><td>Fenchel, frisch oder gekühlt</td><td>frei</td><td>1 000</td></tr>
-<tr><td>0709 90 70</td><td>Zucchini (Courgettes), frisch oder gekühlt</td><td>Frei<sup>(2)</sup></td><td>1 000</td></tr>
-<tr><td>0709 90 90</td><td>Anderes Gemüse, frisch oder gekühlt</td><td>frei</td><td>1 000</td></tr>
-<tr><td>0710 80 61 0710 80 69</td><td>Pilze, auch in Wasser oder Dampf gekocht, gefroren</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>0712 90</td><td>Gemüse, getrocknet, auch in Stücke oder Scheiben geschnitten, als Pulver oder sonst zerkleinert, auch aus vorher gekochtem, jedoch nicht weiter zubereitetem Gemüse, ausgenommen Speisezwiebeln, Pilze und Trüffeln</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 0808 10 80</td><td>Äpfel, andere als Mostäpfel, frisch</td><td>frei<sup>(</sup><sup>2)</sup></td><td>3 000</td></tr>
-<tr><td>0808 20</td><td>Birnen und Quitten, frisch</td><td>frei<sup>(</sup><sup>2)</sup></td><td>3 000</td></tr>
-<tr><td>0809 10 00</td><td>Aprikosen/Marillen, frisch</td><td>frei<sup>(</sup><sup>2)</sup></td><td>500</td></tr>
-<tr><td>0809 20 95</td><td>Kirschen, andere als Sauerkirschen/Weichseln (*Prunus cerasus*), frisch</td><td>frei<sup>(</sup><sup>2)</sup></td><td>1 500<sup>(</sup><sup>3)</sup></td></tr>
-<tr><td>0809 40</td><td>Pflaumen und Schlehen, frisch</td><td>frei<sup>(</sup><sup>2)</sup></td><td>1 000</td></tr>
-<tr><td>0810 10 00</td><td>Erdbeeren</td><td>frei</td><td>200</td></tr>
-<tr><td>0810 20 10</td><td>Himbeeren, frisch</td><td>frei</td><td>100</td></tr>
-<tr><td>0810 20 90</td><td>Brombeeren, Maulbeeren und Loganbeeren, frisch</td><td>frei</td><td>100</td></tr>
-<tr><td>1106 30 10</td><td>Mehl, Griess und Pulver von Bananen</td><td>frei</td><td>5</td></tr>
-<tr><td>1106 30 90</td><td>Mehl, Griess und Pulver von anderen Früchten des Kapitels 8</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 0210 19 50</td><td>Schinken, in Salzlake, ohne Knochen, umgeben von einer Blase oder einem Kunstdarm</td><td>frei</td><td>1 900</td></tr>
+<tr><td>0402 29 11 ex 0404 90 83</td><td>Milch zur Ernährung von Säuglingen, in luftdicht verschlossenen Behältnissen mit einem Gewicht des Inhalts von 500 g oder weniger, mit einem Milchfettgehalt von mehr als 10 GHT (1)</td><td>43.80</td><td>unbegrenzt</td></tr>
+<tr><td>0602</td><td>Andere lebende Pflanzen (einschliesslich ihrer Wurzeln), Stecklinge und Pfropfreiser; Pilzmycel</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0603 11 00 0603 12 00 0603 13 00 0603 14 00 0603 15 00 0603 19</td><td>Blumen und Blüten sowie deren Knospen, geschnitten, zu Binde- oder Zierzwecken, frisch</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0701 10 00</td><td>Pflanzkartoffeln/Saatkartoffeln, frisch oder gekühlt</td><td>0.00</td><td>4 000</td></tr>
+<tr><td>0702 00 00</td><td>Tomaten, frisch oder gekühlt</td><td>0.00 (2)</td><td>1 000</td></tr>
+<tr><td>0703 10 19 0703 90 00</td><td>Speisezwiebeln (andere als Steckzwiebeln) Porree/Lauch und andere Gemüse der Allium-Arten, frisch oder gekühlt</td><td>0.00</td><td>5 000</td></tr>
+<tr><td>0704 10 00 0704 90</td><td>Kohl, Blumenkohl/Karfiol, Kohlrabi, Wirsingkohl und ähnliche geniessbare Kohlarten der Gattung Brassica, ausgenommen Rosenkohl/Kohlsprossen, frisch oder gekühlt</td><td>0.00</td><td>5 500</td></tr>
+<tr><td>0705</td><td>Salate (Lactuca sativa) und Chicorée (Cichorium spp.), frisch oder gekühlt</td><td>0.00</td><td>3 000</td></tr>
+<tr><td>0706 10 00</td><td>Karotten und Speisemöhren, Speiserüben, frisch oder gekühlt</td><td>0.00</td><td>5 000</td></tr>
+<tr><td>0706 90 10 0706 90 90</td><td>Rote Rüben, Schwarzwurzeln, Knollensellerie, Rettiche und ähnliche geniessbare Wurzeln, ausgenommen Meerrettich/Kren (*Cochlearia armoracia*), frisch oder gekühlt</td><td>0.00</td><td>3 000</td></tr>
+<tr><td>0707 00 05</td><td>Gurken, frisch oder gekühlt</td><td>0.00 (2)</td><td>1 000</td></tr>
+<tr><td>0708 20 00</td><td>Bohnen (*Vigna* spp., *Phaseolus* spp.), frisch oder gekühlt</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0709 30 00</td><td>Auberginen, frisch oder gekühlt</td><td>0.00</td><td>500</td></tr>
+<tr><td>0709 40 00</td><td>Sellerie, ausgenommen Knollensellerie, frisch oder gekühlt</td><td>0.00</td><td>500</td></tr>
+<tr><td>0709 51 00 0709 59</td><td>Pilze und Trüffeln, frisch oder gekühlt</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0709 70 00</td><td>Gartenspinat, Neuseelandspinat und Gartenmelde, frisch oder gekühlt</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0709 99 10</td><td>Salate (ausgenommen solche der Art *Lactuca sativa* sowie Chicorée (*Cichorium* spp.)</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0709 99 20</td><td>Mangold und Karde, frisch oder gekühlt</td><td>0.00</td><td>300</td></tr>
+<tr><td>0709 99 50</td><td>Fenchel, frisch oder gekühlt</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0709 93 10</td><td>Zucchini (Courgettes), frisch oder gekühlt</td><td>0.00 (2)</td><td>1 000</td></tr>
+<tr><td>0709 93 90 0709 99 90</td><td>Anderes Gemüse, frisch oder gekühlt</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0710 80 61 0710 80 69</td><td>Pilze, auch in Wasser oder Dampf gekocht, gefroren</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0712 90</td><td>Gemüse, getrocknet, auch in Stücke oder Scheiben geschnitten, als Pulver oder sonst zerkleinert, auch aus vorher gekochtem, jedoch nicht weiter zubereitetem Gemüse, ausgenommen Speisezwiebeln, Pilze und Trüffeln</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 0808 10 80</td><td>Äpfel, andere als Mostäpfel, frisch</td><td>0.00 (2)</td><td>3 000</td></tr>
+<tr><td>0808 30 0808 40</td><td>Birnen, frisch, und Quitten, frisch</td><td>0.00 (2)</td><td>3 000</td></tr>
+<tr><td>0809 10 00</td><td>Aprikosen/Marillen, frisch</td><td>0.00 (2)</td><td>500</td></tr>
+<tr><td>0809 29 00</td><td>Kirschen, andere als Sauerkirschen/Weichseln (*Prunus cerasus*), frisch</td><td>0.00 (2)</td><td>1 500 (3)</td></tr>
+<tr><td>0809 40</td><td>Pflaumen und Schlehen, frisch</td><td>0.00 (2)</td><td>1 000</td></tr>
+<tr><td>0810 10 00</td><td>Erdbeeren</td><td>0.00</td><td>200</td></tr>
+<tr><td>0810 20 10</td><td>Himbeeren, frisch</td><td>0.00</td><td>100</td></tr>
+<tr><td>0810 20 90</td><td>Brombeeren, Maulbeeren und Loganbeeren, frisch</td><td>0.00</td><td>100</td></tr>
+<tr><td>1106 30 10</td><td>Mehl, Griess und Pulver von Bananen</td><td>0.00</td><td>5</td></tr>
+<tr><td>1106 30 90</td><td>Mehl, Griess und Pulver von anderen Früchten des Kapitels 8</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 0210 19 50</td><td>Schinken, in Salzlake, ohne Knochen, umgeben von einer Blase oder einem Kunstdarm</td><td>0.00</td><td>1 900</td></tr>
 <tr><td>ex 0210 19 81</td><td>Knochenloses Kotelettstück, geräuchert</td><td></td><td></td></tr>
-<tr><td>ex 1601 00</td><td>Würste und ähnliche Erzeugnisse, aus Fleisch, Schlachtnebenerzeugnissen oder Blut; Lebensmittelzubereitungen auf der Grundlage dieser Erzeugnisse von Tieren der Positionen 0101–0104, andere als Wildschweine</td><td></td><td></td></tr>
 <tr><td>ex 0210 19 81 ex 1602 49 19</td><td>Schweinenacken, luftgetrocknet, auch gewürzt, ganz, in Stücken oder in dünnen Scheiben</td><td></td><td></td></tr>
-<tr><td>ex 2002 90 91 ex 2002 90 99</td><td>Pulver von Tomaten, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke<sup>(</sup><sup>4)</sup></td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>2003 90 00</td><td>Pilze, andere der Gattung *Agaricus*, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>0710 10 00</td><td>Kartoffeln, auch in Wasser oder Dampf gekocht, gefroren</td><td>frei</td><td>3 000</td></tr>
-<tr><td>2004 10 10 2004 10 99</td><td>Kartoffeln, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, gefroren, ausgenommen Erzeugnisse der Position 2006, andere als in Form von Mehl, Griess oder Flocken</td><td></td><td></td></tr>
-<tr><td>2005 20 80</td><td>Kartoffeln, ohne Essig zubereitet oder haltbar gemacht, nicht gefroren, ausgenommen Erzeugnisse der Position 2006, andere als Zubereitungen in Form von Mehl, Griess oder Flocken bzw. Zubereitungen in dünnen Scheiben, in Fett oder in Öl gebacken, auch gesalzen oder aromatisiert, in luftdicht verschlossenen Verpackungen, zum unmittelbaren Genuss geeignet</td><td></td><td></td></tr>
-<tr><td>ex 2005 91 00 ex 2005 99</td><td>Pulver aus Gemüse und Mischungen von Gemüsen, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke<sup>(</sup><sup>4)</sup></td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2008 30</td><td>Flocken und Pulver von Zitrusfrüchten, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke<sup>(</sup><sup>4</sup><sup>)</sup></td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2008 40</td><td>Flocken und Pulver von Birnen, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke<sup>(</sup><sup>4)</sup></td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2008 50</td><td>Flocken und Pulver von Aprikosen, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke<sup>(</sup><sup>4)</sup></td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>2008 60</td><td>Kirschen, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssmitteln oder Alkohol, anderweit weder genannt noch inbegriffen</td><td>frei</td><td>500</td></tr>
+<tr><td>ex 1601 00</td><td>Würste und ähnliche Erzeugnisse, aus Fleisch, Schlachtnebenerzeugnissen oder Blut; Lebensmittelzubereitungen auf der Grundlage dieser Erzeugnisse von Tieren der Positionen 0101 bis 0104, andere als Wildschweine</td><td></td><td></td></tr>
+<tr><td>ex 2002 90 91 ex 2002 90 99</td><td>Pulver von Tomaten, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke (4)</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>2003 90 90</td><td>Pilze, andere als der Gattung Agaricus, anders als mit Essig oder Essigsäure zubereitet oder haltbar gemacht</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>0710 10 00</td><td>Kartoffeln, auch in Wasser oder Dampf gekocht, gefroren</td><td></td><td></td></tr>
+<tr><td>2004 10 10 2004 10 99</td><td>Kartoffeln, anders als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, gefroren, ausgenommen Erzeugnisse der Position 2006, andere als in Form von Mehl, Griess oder Flocken</td><td></td><td></td></tr>
+<tr><td>2005 20 80</td><td>Kartoffeln, anders als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, ausgenommen Erzeugnisse der Position 2006, andere als Zubereitungen in Form von Mehl, Griess oder Flocken und Zubereitungen in dünnen Scheiben, in Fett oder in Öl gebacken, auch gesalzen oder aromatisiert, in luftdicht verschlossenen Verpackungen, zum unmittelbaren Genuss geeignet</td><td>0.00</td><td>3 000</td></tr>
+<tr><td>ex 2005 91 00 ex 2005 99</td><td>Pulver aus Gemüse und Mischungen von Gemüsen, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke (4)</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2008 30</td><td>Flocken und Pulver von Zitrusfrüchten, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke (4)</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2008 40</td><td>Flocken und Pulver von Birnen, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke (4)</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2008 50</td><td>Flocken und Pulver von Aprikosen/Marillen, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke (4)</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>2008 60</td><td>Kirschen, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssmitteln oder Alkohol, anderweit weder genannt noch inbegriffen</td><td>0.00</td><td>500</td></tr>
 <tr><td>ex 0811 90 19 ex 0811 90 39</td><td>Kirschen, auch in Wasser oder Dampf gekocht, gefroren, mit Zusatz von Zucker oder anderen Süssmitteln</td><td></td><td></td></tr>
-<tr><td>0811 90 80</td><td>Süsskirschen, auch in Wasser oder Dampf gekocht, gefroren, ohne Zusatz von Zucker oder anderen Süssmitteln</td><td></td><td></td></tr>
-<tr><td>ex 2008 70</td><td>Flocken und Pulver von Pfirsichen, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke<sup>(</sup><sup>4)</sup></td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2008 80</td><td>Flocken und Pulver von Erdbeeren, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke<sup>(</sup><sup>4)</sup></td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2008 99</td><td>Flocken und Pulver von anderen Früchten, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke<sup>(</sup><sup>4)</sup></td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2009 19</td><td>Pulver von Orangensaft, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2009 21 00 ex 2009 29</td><td>Pulver von Saft aus Pampelmusen oder Grapefruits, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2009 31 ex 2009 39</td><td>Pulver von Saft aus anderen Zitrusfrüchten, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2009 41 ex 2009 49</td><td>Pulver von Ananassaft, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2009 71 ex 2009 79</td><td>Pulver von Apfelsaft, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>ex 2009 80</td><td>Pulver von Saft aus anderen Früchten oder Gemüsen, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td colspan="4"><sup>(</sup><sup>1)</sup> Im Sinne dieser Unterposition gelten als «Milch zur Ernährung von Säuglingen» nur Erzeugnisse, die frei von pathogenen und toxikogenen Keimen sind und weniger als 10 000 lebensfähige aerobe Bakterien und weniger als 2 Colibakterien im Gramm enthalten. <sup>(2)</sup> Gegebenenfalls anstelle des Mindestsatzes der andere spezifische Zollsatz. <sup>(3)</sup> Einschliesslich der Menge von 1000 t gemäss dem Briefwechsel vom 14. Juli 1986. <sup>(</sup><sup>4)</sup> Vgl. gemeinsame Erklärung über die zolltarifliche Einreihung von Pulver von Gemüsen und Pulver von Früchten.</td></tr>
+<tr><td>0811 90 80</td><td>Kirschen, andere als Sauerkirschen/Weichseln (*Prunus cerasus*), auch in Wasser oder Dampf gekocht, gefroren, ohne Zusatz von Zucker oder anderen Süssmitteln</td><td></td><td></td></tr>
+<tr><td>ex 2008 70</td><td>Flocken und Pulver von Pfirsichen, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke (4)</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2008 80</td><td>Flocken und Pulver von Erdbeeren, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke (4)</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2008 99</td><td>Flocken und Pulver von anderen Früchten, auch mit Zusatz von Zucker, anderen Süssmitteln oder Stärke (4)</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2009 19</td><td>Pulver von Orangensaft, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2009 21 00 ex 2009 29</td><td>Pulver von Saft aus Pampelmusen oder Grapefruits, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2009 31 ex 2009 39</td><td>Pulver von Saft aus anderen Zitrusfrüchten, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2009 41 ex 2009 49</td><td>Pulver von Ananassaft, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2009 71 ex 2009 79</td><td>Pulver von Apfelsaft, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td>ex 2009 81 ex 2009 89</td><td>Pulver von Saft aus anderen Früchten oder Gemüsen, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>0.00</td><td>unbegrenzt</td></tr>
+<tr><td colspan="4"><sup>(1)</sup> Im Sinne dieser Unterposition gelten als «Milch zur Ernährung von Säuglingen» nur Erzeugnisse, die frei von pathogenen und toxikogenen Keimen sind und weniger als 10 000 lebensfähige aerobe Bakterien und weniger als 2 Colibakterien im Gramm enthalten. <sup>(2)</sup> Gegebenenfalls anstelle des Mindestsatzes der andere spezifische Zollsatz. <sup>(3)</sup> Einschliesslich der Menge von 1000 Tonnen gemäss dem Briefwechsel vom 14. Juli 1986. <sup>(4)</sup> Vgl. gemeinsame Erklärung über die zolltarifliche Einreihung von Pulver von Gemüsen und Pulver von Früchten.</td></tr>
 </table>
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 \1. Der bilaterale Handel mit allen Erzeugnissen der Position 0406 des Harmonisierten Systems wird mit Wirkung vom 1. Juni 2007 vollständig liberalisiert, indem alle Zölle und Kontingente abgeschafft werden.
 
@@ -701,7 +756,7 @@ Schutzmassnahmen werden nach den Verfahren des Artikels 10 Absatz 2 des Abkommen
 
 <sup>(2)</sup> Die Arbeitsgruppe prüft regelmässig die Entwicklung der unter diesen Anhang fallenden Rechts- und Verwaltungsvorschriften der Parteien. Insbesondere unterbreitet sie dem Ausschuss Vorschläge zur Anpassung und Aktualisierung der Anlagen dieses Anhangs.
 
-Anlage 1*[^t-6]*
+Anlage 1[^t-6]
 
 ## Pflanzen, Pflanzenerzeugnisse und andere Gegenstände
 
@@ -713,7 +768,7 @@ Anlage 1*[^t-6]*
 - 1\.1 Pflanzen der Arten *Amelanchier* Med., *Chaenomeles* Lindl., *Crataegus* L., *Cydonia* Mill., *Eriobotrya* Lindl., *Malus* Mill., Mespilus L., *Prunus* L., mit Ausnahme von *Prunus laurocerasus* L. et *Prunus lusitanica L*, *Pyracantha* Roem., Pyrus L. und Sorbus L., zum Anpflanzen bestimmt, ausgenommen Samen.
 - 1\.2 Pflanzen von *Beta vulgaris* L. und *Humulus lupulus* L., zum Anpflanzen bestimmt, ausgenommen Samen.
 - 1\.3 Pflanzen von ausläufer- oder knollenbildenden Arten von *Solanum* L. oder deren Hybriden, zum Anpflanzen bestimmt.
-- 1\.4 Pflanzen von *Fortunella* Swingle, Poncirus Raf. und ihren Hybriden, *Cas**i**miroa* La Llave, *Clausena* Burm. f., *Vepris* Comm., *Zanthoxylum* L. und Vitis L., ausgenommen Früchte und Samen.
+- 1\.4 Pflanzen von *Fortunella* Swingle, Poncirus Raf. und ihren Hybriden, *Casimiroa* La Llave, *Clausena* Burm. f., *Vepris* Comm., *Zanthoxylum* L. und Vitis L., ausgenommen Früchte und Samen.
 - 1\.5 Unbeschadet der Nummer 1.6 Pflanzen von *Citrus* L., und deren Hybriden, ausgenommen Früchte und Samen.
 - 1\.6 Früchte von *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf., und ihre Hybriden, mit Blättern und Stielen.
 - 1\.7
@@ -721,7 +776,7 @@ Anlage 1*[^t-6]*
   Holz mit Ursprung in der Union, dessen natürliche Oberflächenrundung ganz oder teilweise erhalten ist, mit oder ohne Rinde, oder in Form von Plättchen, Schnitzeln, Spänen, Holzabfall oder Holzausschuss:
 
   - a) das ganz oder teilweise aus *Platanus* L. gewonnen wurde, auch ohne seine natürliche Oberflächenrundung; und
-  - b) das einer der folgenden, in Anhang I Teil 2 der Verordnung (EWG) Nr. 2658/87 des Rates[^annexu1-lvlu1-lvlA-1] genannten Bezeichnungen entspricht:
+  - b) das einer der folgenden, in Anhang I Teil 2 der Verordnung (EWG) Nr. 2658/87 des Rates[^annex1-lvlu1-lvlA-1] genannten Bezeichnungen entspricht:
 
 <table>
 <tr><th>KN-Code</th><th>Warenbezeichnung</th></tr>
@@ -735,46 +790,46 @@ Anlage 1*[^t-6]*
 </table>
 
 - 2\. Pflanzen, Pflanzenerzeugnisse und andere Gegenstände von Erzeugern mit Genehmigung für Erzeugung und Verkauf an Personen, die sich mit gewerbsmässiger Pflanzenerzeugung befassen, ausgenommen für den Verkauf an den Endverbraucher vorbereitete und verkaufsfertige Pflanzen, Pflanzenerzeugnisse und andere Gegenstände, sofern die zuständigen Dienststellen der EU-Mitgliedstaaten und der Schweiz sicherstellen, dass ihre Erzeugung deutlich von derjenigen anderer Erzeugnisse getrennt ist.
-- 2\.1 Zum Anpflanzen bestimmte Pflanzen, ausgenommen Samen, der Gattungen *Abies* Mill. und *Apium graveolens* L., *Argyranthemum* spp., *Asparagus off**i**cinalis* L., *Aster* spp., *Brassica* spp., *Castanea* Mill., *Cucumis* spp., *Dend**r**anthema* (DC.) Des Moul., *Dianthus* L. et hybrides, *Exacum* spp., *Frag**a**ria L*, *Gerbera* Cass., *Gypsophila* L., alle Sorten von Neu-Guinea-Hybriden von *Impatiens* L., *Lactuca* spp., *Larix* Mill., *Leucanthemum* L., *Lupinus* L., *Pelargonium* l’Hérit. ex Ait., *Picea A.* Dietr., *Pinus* L., *Platanus* L., *Pop**u**lus* L., *Prunus laurocerasus* L., *Prunus lusitanica* L., *Pseudotsuga* Carr., Quercus L., *Rubus* L., *Spinacia* L., *Tanacetum* L., *Tsuga* Carr., *Verbena* L. und andere Pflanzen von krautigen Arten, ausser Pflanzen der Familie Gramineae und ausser Zwiebeln, Kormi, Rhizomen und Knollen.
+- 2\.1 Zum Anpflanzen bestimmte Pflanzen, ausgenommen Samen, der Gattungen *Abies* Mill. und *Apium graveolens* L., *Argyranthemum* spp., *Asparagus officinalis* L., *Aster* spp., *Brassica* spp., *Castanea* Mill., *Cucumis* spp., *Dendranthema* (DC.) Des Moul., *Dianthus* L. et hybrides, *Exacum* spp., *Fragaria L*, *Gerbera* Cass., *Gypsophila* L., alle Sorten von Neu-Guinea-Hybriden von *Impatiens* L., *Lactuca* spp., *Larix* Mill., *Leucanthemum* L., *Lupinus* L., *Pelargonium* l’Hérit. ex Ait., *Picea A.* Dietr., *Pinus* L., *Platanus* L., *Populus* L., *Prunus laurocerasus* L., *Prunus lusitanica* L., *Pseudotsuga* Carr., Quercus L., *Rubus* L., *Spinacia* L., *Tanacetum* L., *Tsuga* Carr., *Verbena* L. und andere Pflanzen von krautigen Arten, ausser Pflanzen der Familie Gramineae und ausser Zwiebeln, Kormi, Rhizomen und Knollen.
 - 2\.2 Pflanzen von Solanaceae, mit Ausnahme der unter Nummer 1.3 genannten, zum Anpflanzen bestimmt, ausgenommen Samen.
-- 2\.3 Pflanzen von *Araceae*, *Marantaceae*, *Musaceae*, *Persea* spp. und *Strelitz**i**aceae*, bewurzelt, auch mit anhaftendem oder beigefügtem Nährsubstrat.
-- 2\.4 Pflanzen von *Palmae*, die an der Basis des Stammes einen Durchmesser von über 5 cm aufweisen und zu folgenden Gattungen oder Arten zählen: *Brahea* Mart., *Butia* Becc., *Chamaerops* L., *Jubaea* Kunth., *Livistona* R. Br., *Pho**e**nix* L., *Sabal* Adans., *Syagrus* Mart., *Trachycarpus* H. Wendl., *Trithrinax* Mart., *Washingtonia* Raf.
+- 2\.3 Pflanzen von *Araceae*, *Marantaceae*, *Musaceae*, *Persea* spp. und *Strelitziaceae*, bewurzelt, auch mit anhaftendem oder beigefügtem Nährsubstrat.
+- 2\.4 Pflanzen von *Palmae*, die an der Basis des Stammes einen Durchmesser von über 5 cm aufweisen und zu folgenden Gattungen oder Arten zählen: *Brahea* Mart., *Butia* Becc., *Chamaerops* L., *Jubaea* Kunth., *Livistona* R. Br., *Phoenix* L., *Sabal* Adans., *Syagrus* Mart., *Trachycarpus* H. Wendl., *Trithrinax* Mart., *Washingtonia* Raf.
 - 2\.5
 
   Pflanzen, Samen und Zwiebeln:
 
   - a) Samen und Zwiebeln von *Allium ascalonicum* L., *Allium cepa* L. und *Allium schoenoprasum* L., zum Anpflanzen bestimmt, und Pflanzen von *Allium porrum* L., zum Anpflanzen bestimmt;
   - b) Samen von *Medicago sativa* L.;
-  - c) Samen von *Helianthus annuus* L., *Solanum lycopersicum* L. und *Ph**a**seolus* L.
+  - c) Samen von *Helianthus annuus* L., *Solanum lycopersicum* L. und *Phaseolus* L.
 
 - 3\. Zum Anpflanzen bestimmte Zwiebeln, Kormi, Knollen und Rhizome, die von Erzeugern mit Genehmigung für Erzeugung und Verkauf an Personen, die sich mit gewerbsmässiger Pflanzenerzeugung befassen, erzeugt werden, ausgenommen Pflanzen, Pflanzenerzeugnisse und andere Gegenstände, die für den Verkauf an den Endverbraucher vorbereitet und verkaufsfertig gemacht werden und bei denen die zuständigen amtlichen Stellen der Mitgliedstaaten gewährleisten, dass ihre Erzeugung deutlich von derjenigen anderer Erzeugnisse von *Camassia* Lindl., *Chionodoxa* Boiss., *Crocus flavus* Weston «Golden Yellow», *Dahlia* spp., *Galanthus* L., *Galtonia candicans* (Baker) Decne., Zwergformen und ihren Hybriden der Gattung *Gladiolus* Tourn. ex L., wie *Gladiolus callianthus* Marais, *Gladiolus colvillei* Sweet, *Gladiolus nanus* hort., *Gladiolus ramosus* hort. und *Gladiolus tubergenii* hort., sowie von *Hyacinthus* L., *Iris* L., *Ismene* Herbert, *Lilium* spp., *Muscari* Miller, *Narcissus* L., *Ornithogalum* L., *Puschkinia* Adams, *Scilla* L., *Tigridia* Juss. und *Tulipa* L. getrennt ist.
 
-[^annexu1-lvlu1-lvlA-1]: Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1).
+[^annex1-lvlu1-lvlA-1]: Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1).
 
 ### B. Pflanzen, pflanzliche Erzeugnisse und andere Gegenstände mit Ursprung in anderen Gebieten als demjenigen einer der beiden Parteien, bei denen die pflanzenschutzrechtlichen Vorschriften bei der Einfuhr in die beiden Parteien gleichwertige Ergebnisse bewirken und die zwischen den beiden Parteien mit einem Pflanzenpass, wenn sie in Abschnitt A dieser Anlage genannt sind, oder andernfalls frei gehandelt werden können
 
-- 1\. Unbeschadet der in Abschnitt C dieser Anlage genannten Pflanzen alle zum Anpflanzen bestimmten Pflanzen, ausgenommen Samen, jedoch einschliesslich Samen von Cruciferae, Gramineae, *Trifolium* spp., mit Ursprung in Argentinien, Australien, Bolivien, Chile, Neuseeland und Uruguay, den Gattungen Triticum, *Secale* und *X Triticosecale* aus Afghanistan, Indien, Iran, Irak, Mexiko, Nepal, Pakistan, Südafrika und den USA, von *Citrus* L., *Fo**r**tunella* Swingle und Poncirus Raf. und deren Hybriden, *Capsicum* spp., *Helianthus* *annuus* L., *Solanum lycopersicum* L., *Medicago sativa* L., *Prunus* L., Rubus L., *Oryza* spp., *Zea mais* L., *Allium ascalonicum* L., *All**i**um cepa* L., *Allium porrum* L., *Allium schoenoprasum* L. und *Phaseolus* L.
+- 1\. Unbeschadet der in Abschnitt C dieser Anlage genannten Pflanzen alle zum Anpflanzen bestimmten Pflanzen, ausgenommen Samen, jedoch einschliesslich Samen von Cruciferae, Gramineae, *Trifolium* spp., mit Ursprung in Argentinien, Australien, Bolivien, Chile, Neuseeland und Uruguay, den Gattungen Triticum, *Secale* und *X Triticosecale* aus Afghanistan, Indien, Iran, Irak, Mexiko, Nepal, Pakistan, Südafrika und den USA, von *Citrus* L., *Fortunella* Swingle und Poncirus Raf. und deren Hybriden, *Capsicum* spp., *Helianthus* *annuus* L., *Solanum lycopersicum* L., *Medicago sativa* L., *Prunus* L., Rubus L., *Oryza* spp., *Zea mais* L., *Allium ascalonicum* L., *Allium cepa* L., *Allium porrum* L., *Allium schoenoprasum* L. und *Phaseolus* L.
 - 2\.
 
   Pflanzenteile, ausgenommen Früchte und Samen, von:
 
-  - – *Castanea* Mill., *Dendranthema* (DC.) Des Moul., *Dianthus* L., *Gyps**o**phila* L., *Pelargonium* l’Hérit. ex Ait, *Phoenix* spp., *Populus* L., *Que**r**cus* L., *Solidago* L. und Schnittblumen von *Orchidaceae*;
+  - – *Castanea* Mill., *Dendranthema* (DC.) Des Moul., *Dianthus* L., *Gypsophila* L., *Pelargonium* l’Hérit. ex Ait, *Phoenix* spp., *Populus* L., *Quercus* L., *Solidago* L. und Schnittblumen von *Orchidaceae*;
   - – Nadelholz (*Coniferales*);
   - – *Acer saccharum* Marsh., mit Ursprung in den USA und Kanada;
   - – *Prunus* L., mit Ursprung in aussereuropäischen Ländern;
-  - – Schnittblumen von Aster spp., Eryngium L., *Hypericum* L., *Lisia**n**thus* L., *Rosa* L. und *Trachelium* L., mit Ursprung in aussereuropäischen Ländern;
+  - – Schnittblumen von Aster spp., Eryngium L., *Hypericum* L., *Lisianthus* L., *Rosa* L. und *Trachelium* L., mit Ursprung in aussereuropäischen Ländern;
   - – Blattgemüse von Apium *graveolens* L., *Ocimum* L., *Limnophila* L. und *Eryngium* L.;
   - – Blättern von *Manihot esculenta* Crantz;
   - – abgeschnittenen Ästen von *Betula* L., mit oder ohne Blattwerk;
-  - – abgeschnittenen Ästen von *Fraxinus* L., *Juglans ailantifolia* Carr., *Ju**g**lans mandshurica* Maxim., *Ulmus davidiana* Planch. und *Pterocarya rhoifolia* Siebold & Zucc., mit oder ohne Blattwerk, mit Ursprung in Kanada, China, der Demokratischen Volksrepublik Korea, Japan, der Mongolei, der Republik Korea, Russland, Taiwan und den USA;
+  - – abgeschnittenen Ästen von *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch. und *Pterocarya rhoifolia* Siebold & Zucc., mit oder ohne Blattwerk, mit Ursprung in Kanada, China, der Demokratischen Volksrepublik Korea, Japan, der Mongolei, der Republik Korea, Russland, Taiwan und den USA;
   - – Amiris P. Browne, *Casimiroa* La Llave, Citropsis Swingle & Kellerman, Eremocitrus Swingle, *Esenbeckia* Kunth., Glycosmis Corrêa, *Merrillia* Swingle, *Naringi* Adans., *Tetradium* Lour., *Toddalia* Juss. und *Zanthoxylum* L.
 
-- 2\.1 Pflanzenteile, ausser Früchten, aber einschliesslich Samen, von Aegle Corrêa, Aeglopsis Swingle, *Afraegle* Engl., *Atalantia* Corrêa, *Balsamocitrus* Stapf, *Burkillanthus* Swingle, *Calodendrum* Thunb., *Choisya* Kunth, *Cla**u**sena* Burm. f., *Limonia* L., *Microcitrus* Swingle, *Murraya J.* Koenig ex L., *Pamburus* Swingle, *Severinia* Ten., *Swinglea* Merr., *Triphasia* Lour und *Vepris* Comm.
+- 2\.1 Pflanzenteile, ausser Früchten, aber einschliesslich Samen, von Aegle Corrêa, Aeglopsis Swingle, *Afraegle* Engl., *Atalantia* Corrêa, *Balsamocitrus* Stapf, *Burkillanthus* Swingle, *Calodendrum* Thunb., *Choisya* Kunth, *Clausena* Burm. f., *Limonia* L., *Microcitrus* Swingle, *Murraya J.* Koenig ex L., *Pam**burus* Swingle, *Severinia* Ten., *Swinglea* Merr., *Triphasia* Lour und *Vepris* Comm.
 - 3\.
 
   Früchte von:
 
-  - – *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. und Hybriden, *Momord**i**ca* L. und *Solanum melongena* L.;
+  - – *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. und Hybriden, *Momordica* L. und *Solanum melongena* L.;
   - – *Annona* L., *Cydonia* Mill., Diospyros L., *Malus* Mill., *Mangifera* L., *Passiflora* L., *Prunus* L., *Psidium* L., *Pyrus* L., *Ribes* L., *Szygium* Gaertn. und *Vaccinium* L. mit Ursprung in aussereuropäischen Ländern;
   - – *Capsicum* L.
 
@@ -790,7 +845,7 @@ Anlage 1*[^t-6]*
 
 - 6\.
 
-  Holz im Sinne des Artikels 2 Absatz 2 Unterabsatz 1 der Richtlinie 2000/29/EG des Rates[^annexu1-lvlu1-lvlB-1]:
+  Holz im Sinne des Artikels 2 Absatz 2 Unterabsatz 1 der Richtlinie 2000/29/EG des Rates[^annex1-lvlu1-lvlB-1]:
 
   - a)
 
@@ -846,7 +901,7 @@ Anlage 1*[^t-6]*
 
 - 8\. Körner der Gattungen Triticum, *Secale* und X *Triticosecale* mit Ursprung in Afghanistan, Indien, Iran, Irak, Mexiko, Nepal, Pakistan, Südafrika und den USA.
 
-[^annexu1-lvlu1-lvlB-1]: Richtlinie 2000/29/EG des Rates vom 8. Mai 2000 über Massnahmen zum Schutz der Gemeinschaft gegen die Einschleppung und Ausbreitung von Schadorganismen der Pflanzen und Pflanzenerzeugnisse (ABl. L 169 vom 10.7.2000, S. 1).
+[^annex1-lvlu1-lvlB-1]: Richtlinie 2000/29/EG des Rates vom 8. Mai 2000 über Massnahmen zum Schutz der Gemeinschaft gegen die Einschleppung und Ausbreitung von Schadorganismen der Pflanzen und Pflanzenerzeugnisse (ABl. L 169 vom 10.7.2000, S. 1).
 
 ### C. Aus einer der beiden Parteien kommende Pflanzen, Pflanzenerzeugnisse und andere Gegenstände, für die die Parteien nicht über vergleichbare Rechtsvorschriften verfügen und den Pflanzenpass nicht anerkennen
 
@@ -890,20 +945,20 @@ Anlage 1*[^t-6]*
 
 - 4\. Pflanzen und Pflanzenerzeugnisse mit Ursprung in einem Mitgliedstaat der Union, deren Einfuhr in die Schweiz verboten ist
   - [tab] Pflanzen von:
-  - [tab] *Cotoneaster* Ehrh.[^annexu1-lvlu1-lvlC-1]
-  - [tab] *Photinia davidiana* (Dcne.) Cardot[^annexu1-lvlu1-lvlC-2]
+  - [tab] *Cotoneaster* Ehrh.[^annex1-lvlu1-lvlC-1]
+  - [tab] *Photinia davidiana* (Dcne.) Cardot[^annex1-lvlu1-lvlC-2]
 
-[^annexu1-lvlu1-lvlC-1]: Abweichend von Nummer 4 sind der Eingang solcher Pflanzen in und ihre Durchfuhr durch das schweizerische Hoheitsgebiet gestattet, ihr Inverkehrbringen sowie ihre Erzeugung und ihr Anbau in der Schweiz jedoch untersagt.
-[^annexu1-lvlu1-lvlC-2]: Abweichend von Nummer 4 sind der Eingang solcher Pflanzen in und ihre Durchfuhr durch das schweizerische Hoheitsgebiet gestattet, ihr Inverkehrbringen sowie ihre Erzeugung und ihr Anbau in der Schweiz jedoch untersagt.
+[^annex1-lvlu1-lvlC-1]: Abweichend von Nummer 4 sind der Eingang solcher Pflanzen in und ihre Durchfuhr durch das schweizerische Hoheitsgebiet gestattet, ihr Inverkehrbringen sowie ihre Erzeugung und ihr Anbau in der Schweiz jedoch untersagt.
+[^annex1-lvlu1-lvlC-2]: Abweichend von Nummer 4 sind der Eingang solcher Pflanzen in und ihre Durchfuhr durch das schweizerische Hoheitsgebiet gestattet, ihr Inverkehrbringen sowie ihre Erzeugung und ihr Anbau in der Schweiz jedoch untersagt.
 
-Anlage 2*[^t-7]*
+Anlage 2[^t-7]
 
-## Rechtsvorschriften****
+## Rechtsvorschriften
 
-[^annexu1-lvlu1-1]
+[^annex2-lvlu1-1]
 
 [^t-7]: Eingefügt durch Art. 1 des Beschlusses Nr. 1/2004 des Gemischten Ausschusses für Landwirtschaft vom 8. März 2004 ([AS 2004 2227](https://fedlex.data.admin.ch/eli/oc/2004/264)). Fassung gemäss Art. 1 des Beschlusses Nr. 1/2015 des Gemischten Ausschusses für Landwirtschaft vom 19. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2016 799](https://fedlex.data.admin.ch/eli/oc/2016/153)).
-[^annexu1-lvlu1-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nicht anders angegeben – als Verweis auf die spätestens am 1.7.2015 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex2-lvlu1-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nicht anders angegeben – als Verweis auf die spätestens am 1.7.2015 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 Bestimmungen der Union:
 
@@ -923,7 +978,7 @@ Bestimmungen der Union:
 - – Richtlinie 93/85/EWG des Rates vom 4. Oktober 1993 zur Bekämpfung der bakteriellen Ringfäule der Kartoffel
 - – Richtlinie 94/3/EG der Kommission vom 21. Januar 1994 über ein Verfahren zur Meldung der Beanstandung einer Sendung oder eines Schadorganismus, die aus einem Drittland stammen und eine unmittelbare Gefahr für die Pflanzengesundheit darstellen
 - – Richtlinie 98/22/EG der Kommission vom 15. April 1998 mit Mindestanforderungen für die Durchführung von Pflanzengesundheitskontrollen von aus Drittländern eingeführten Pflanzen, Pflanzenerzeugnissen oder anderen Gegenständen in der Gemeinschaft an anderen Kontrollstellen als denen des Bestimmungsorts
-- – Richtlinie 98/57/EG des Rates vom 20. Juli 1998 zur Bekämpfung von *Ral**s**tonia solanacearum* (Smith) Yabuuchi et al.
+- – Richtlinie 98/57/EG des Rates vom 20. Juli 1998 zur Bekämpfung von *Ralstonia solanacearum* (Smith) Yabuuchi et al.
 - – Entscheidung 98/109/EG der Kommission vom 2. Februar 1998 zur Ermächtigung der Mitgliedstaaten, vorübergehend Sofortmassnahmen gegen die Verbreitung von *Thripspalmi* Karny hinsichtlich Thailands zu treffen
 - – Richtlinie 2000/29/EG des Rates vom 8. Mai 2000 über Massnahmen zum Schutz der Gemeinschaft gegen die Einschleppung und Ausbreitung von Schadorganismen der Pflanzen und Pflanzenerzeugnisse
 - – Entscheidung 2002/757/EG der Kommission vom 19. September 2002 über vorläufige Sofortmassnahmen zur Verhinderung der Einschleppung und Ausbreitung von *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov. in die bzw. in der Gemeinschaft
@@ -936,7 +991,7 @@ Bestimmungen der Union:
 - – Entscheidung 2004/416/EG der Kommission vom 29. April 2004 über befristete Sofortmassnahmen in Bezug auf bestimmte Zitrusfrüchte mit Ursprung in Argentinien oder Brasilien
 - – Entscheidung 2005/51/EG der Kommission vom 21. Januar 2005 zur Ermächtigung der Mitgliedstaaten, für die Einfuhr von mit Pestiziden oder persistenten organischen Schadstoffen verseuchten Böden zu Dekontaminierungszwecken vorübergehend Ausnahmen von bestimmten Vorschriften der Richtlinie 2000/29/EG des Rates zu gewähren
 - – Entscheidung 2005/359/EG der Kommission vom 29. April 2005 zur Abweichung von bestimmten Vorschriften der Richtlinie 2000/29/EG des Rates hinsichtlich Eichenstämmen (*Quercus* L.) mit Rinde mit Ursprung in den Vereinigten Staaten von Amerika
-- – Entscheidung 2006/473/EG der Kommission vom 5. Juli 2006 zur Anerkennung mehrerer Drittländer und Gebiete von Drittländern als frei von *Xa**n**thomonas campestris* (für Citrus pathogene Stämme), *Cercospora angole**n**sis* Carv. et Mendes und *Guignardia citricarpa* Kiely (für Citrus pathogene Stämme)
+- – Entscheidung 2006/473/EG der Kommission vom 5. Juli 2006 zur Anerkennung mehrerer Drittländer und Gebiete von Drittländern als frei von *Xanthomonas campestris* (für Citrus pathogene Stämme), *Cercospora angolensis* Carv. et Mendes und *Guignardia citricarpa* Kiely (für Citrus pathogene Stämme)
 - – Richtlinie 2006/91/EWG des Rates vom 7. November 2006 zur Bekämpfung der San-José-Schildlaus
 - – Entscheidung 2007/365/EG der Kommission vom 25. Mai 2007 über Dringlichkeitsmassnahmen zum Schutz der Gemeinschaft gegen die Einschleppung und Ausbreitung von *Rhynchophorus ferrugineus* (Olivier)
 - – Richtlinie 2007/33/EG des Rates vom 11. Juni 2007 zur Bekämpfung von Kartoffelnematoden und zur Aufhebung der Richtlinie 69/465/EWG
@@ -945,8 +1000,8 @@ Bestimmungen der Union:
 - – Durchführungsbeschluss 2011/778/EG der Kommission vom 28. November 2011 zur zur Ermächtigung bestimmter Mitgliedstaaten, für Pflanzkartoffeln mit Ursprung in bestimmten Provinzen Kanadas befristete Ausnahmen von einigen Vorschriften der Richtlinie 2000/29/EG des Rates zuzulassen
 - – Entscheidung 2011/787/EG der Kommission vom 29. November 2011 zur befristeten Ermächtigung der Mitgliedstaaten, zum Schutz vor der Verbreitung von *Ralstonia solanacearum* (Smith) Yabuuchi *et. a*L. Sofortmassnahmen gegenüber Ägypten zu treffen
 - – Durchführungsbeschluss 2012/138/EU der Kommission vom 1. März 2012 über Dringlichkeitsmassnahmen zum Schutz der Union gegen die Einschleppung und die Ausbreitung von *Anoplophora chinensis* (Forster)
-- – Durchführungsbeschluss 2012/219/EU der Kommission vom 24. April 2012 zur Anerkennung Serbiens als frei von *Clavibacter michiganensis* ssp. s*ep**e**donicus* (Spieckermann & Kotthoff) Davis et *a*L.
-- – Durchführungsbeschluss 2012/270/EU der Kommission vom 16. Mai 2012 über Dringlichkeitsmassnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von *Epitrix cucumeris* (Harris), *Epitrix simil**a**ris* (Gentner), *Epitrix subcrinita* (Lec.) und *Epitrix tuberis* (Gentner)
+- – Durchführungsbeschluss 2012/219/EU der Kommission vom 24. April 2012 zur Anerkennung Serbiens als frei von *Clavibacter michiganensis* ssp. s*epedonicus* (Spieckermann & Kotthoff) Davis et *a*L.
+- – Durchführungsbeschluss 2012/270/EU der Kommission vom 16. Mai 2012 über Dringlichkeitsmassnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von *Epitrix cucumeris* (Harris), *Epitrix similaris* (Gentner), *Epitrix subcrinita* (Lec.) und *Epitrix tuberis* (Gentner)
 - – Durchführungsbeschluss 2012/697/EU der Kommission vom 8. November 2012 hinsichtlich Massnahmen zum Schutz vor der Einschleppung der Gattung *Pomacea* (Perry) in die EU und ihrer Ausbreitung in der EU
 - – Durchführungsbeschluss 2012/756/EU der Kommission vom 5. Dezember 2012 über Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von *Pseudomonas syringae* pv. *actinidiae* Takikawa, Serizawa, Ichikawa, Tsuyumu & Goto
 - – Durchführungsbeschluss 2013/92/EU der Kommission vom 18. Februar 2013 betreffend die Überwachung, Pflanzengesundheitskontrollen und Massnahmen, die bei Holzverpackungsmaterial zu ergreifen sind, das bereits für den Transport spezifizierter Waren mit Ursprung in China verwendet wird
@@ -974,7 +1029,7 @@ Bestimmungen der Schweiz:
 - – Richtlinie Nr. 1 des BLW vom 1. Januar 2012 zuhanden der Kantonalen Pflanzenschutzdienste und der beauftragten Kontrollorganisation über die Überwachung und Bekämpfung der Kartoffelzystennematoden (*Globodera rostochiensis* und *Globodera pallida*)
 - – Leitfaden zum Umgang mit dem Kiefernholznematoden (*Bursaphelenchus xylophilus*) des BAFU vom 30. März 2015»
 
-Anlage 3*[^t-8]*
+Anlage 3[^t-8]
 
 ## Behörden, bei denen eine Liste der für die Ausstellung der Pflanzenpässe zuständigen amtlichen Stellen erhältlich ist
 
@@ -982,7 +1037,7 @@ Anlage 3*[^t-8]*
 
 ### A. Europäische Gemeinschaft
 
-Einzige Behörde jedes Mitgliedstaats gemäss Artikel 1 Absatz 4 der Richtlinie 2000/29/EG des Rates vom 8. Mai 2000.[^annexu1-lvlu1-lvlA-2]
+Einzige Behörde jedes Mitgliedstaats gemäss Artikel 1 Absatz 4 der Richtlinie 2000/29/EG des Rates vom 8. Mai 2000.[^annex3-lvlu1-lvlA-1]
 
 Belgien:
 
@@ -1270,7 +1325,7 @@ Peasholme Green
 
 UK-York YO1 7PX
 
-[^annexu1-lvlu1-lvlA-2]: ABl. L 169 vom 10.7.2000, S. 1. Zuletzt geändert durch die Richtlinie 2007/41/EG (ABl. L 169 vom 29.6.2007, S. 51).
+[^annex3-lvlu1-lvlA-1]: ABl. L 169 vom 10.7.2000, S. 1. Zuletzt geändert durch die Richtlinie 2007/41/EG (ABl. L 169 vom 29.6.2007, S. 51).
 
 ### B. Schweiz
 
@@ -1278,14 +1333,14 @@ Bundesamt für Landwirtschaft
 
 CH-3003 BERN
 
-Anlage 4*[^t-9]*
+Anlage 4[^t-9]
 
-## Gebiete gemäss Artikel 4 und für sie geltende besondere Anforderungen****
+## Gebiete gemäss Artikel 4 und für sie geltende besondere Anforderungen
 
-[^annexu1-lvlu1-2]
+[^annex4-lvlu1-1]
 
 [^t-9]: Eingefügt durch Art. 1 des Beschlusses Nr. 1/2004 des Gemischten Ausschusses für Landwirtschaft vom 8. März 2004 ([AS 2004 2227](https://fedlex.data.admin.ch/eli/oc/2004/264)). Fassung gemäss Art. 1 des Beschlusses Nr. 1/2015 des Gemischten Ausschusses für Landwirtschaft vom 19. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2016 799](https://fedlex.data.admin.ch/eli/oc/2016/153)).
-[^annexu1-lvlu1-2]: Jeder Verweis auf einen Rechtsakt ist – sofern nicht anders angegeben – als Verweis auf die vor dem 30.4.2010 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex4-lvlu1-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nicht anders angegeben – als Verweis auf die vor dem 30.4.2010 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 Die in Artikel 4 genannten Gebiete und die für sie geltenden besonderen Anforderungen, die von beiden Parteien eingehalten werden müssen, sind in den nachstehenden Rechts- und Verwaltungsvorschriften der beiden Parteien festgelegt.
 
@@ -1298,7 +1353,7 @@ Bestimmungen der Schweiz:
 
 - – Verordnung vom 27. Oktober 2010 über Pflanzenschutz, Anhang 12 (RS *916.20*)
 
-Anlage 5*[^t-10]*
+Anlage 5[^t-10]
 
 ## Informationsaustausch
 
@@ -1455,7 +1510,7 @@ Unbeschadet von Absatz 1 können die Auskünfte für Gerichts- oder Verwaltungsv
 
 <sup>5.</sup> In ihren Protokollen, Berichten und Zeugenaussagen sowie bei gerichtlichen Verfahren und Ermittlungen können die Parteien die Auskünfte und Schriftstücke, die in Anwendung dieses Artikels eingeholt bzw. eingesehen wurden, als Beweismittel verwenden.
 
-Anlage 1*[^t-11]*
+Anlage 1[^t-11]
 
 ## Gemeinschaftsvorschriften
 
@@ -1469,19 +1524,19 @@ Bundesgesetz über die Landwirtschaft vom 29. April 1998, zuletzt geändert am 2
 
 Verordnung über die Produktion und das Inverkehrbringen von Futtermitteln vom 26. Mai 1999, zuletzt geändert am 23. November 2005 (AS *2005* 5555)
 
-Verordnung des EVD[^annexu1-lvlu2-1] über die Produktion und das Inverkehrbringen von Futtermitteln, Zusatzstoffen für die Tierernährung, Silierungszusätzen und Diätfuttermitteln vom 10. Juni 1999, zuletzt geändert am 2. November 2006 (AS *2006* 5213)
+Verordnung des EVD[^annex1-lvlu2-1] über die Produktion und das Inverkehrbringen von Futtermitteln, Zusatzstoffen für die Tierernährung, Silierungszusätzen und Diätfuttermitteln vom 10. Juni 1999, zuletzt geändert am 2. November 2006 (AS *2006* 5213)
 
 Verordnung über die Primärproduktion vom 23. November 2005 (AS *2005* 5545)
 
-Verordnung des EVD[^annexu1-lvlu2-2] über die Hygiene bei der Primärproduktion vom 23. November 2005 (AS *2005* 6651)
+Verordnung des EVD[^annex1-lvlu2-2] über die Hygiene bei der Primärproduktion vom 23. November 2005 (AS *2005* 6651)
 
-Verordnung des EVD[^annexu1-lvlu2-3] über die Hygiene bei der Milchproduktion vom 23. November 2005 (AS *2005* 6667)
+Verordnung des EVD[^annex1-lvlu2-3] über die Hygiene bei der Milchproduktion vom 23. November 2005 (AS *2005* 6667)
 
-[^annexu1-lvlu2-1]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^annexu1-lvlu2-2]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^annexu1-lvlu2-3]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu2-1]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu2-2]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu2-3]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
-Anlage 2*[^t-12]*
+Anlage 2[^t-12]
 
 ## Verzeichnis der Rechtsvorschriften gemäss Artikel 9
 
@@ -1497,9 +1552,9 @@ Richtlinie 82/471/EWG des Rates vom 30. Juni 1982 über bestimmte Erzeugnisse f�
 
 Verordnung über die Produktion und das Inverkehrbringen von Futtermitteln vom 26. Mai 1999, zuletzt geändert am 23. November 2005 (AS *2005* 5555)
 
-Verordnung des EVD[^annexu1-lvlu1-lvlu2-1] über die Produktion und das Inverkehrbringen von Futtermitteln, Zusatzstoffen für die Tierernährung, Silierungszusätzen und Diätfuttermitteln vom 10. Juni 1999, zuletzt geändert am 2. November 2006 (AS *2006* 5213)
+Verordnung des EVD[^annex2-lvlu1-lvlu2-1] über die Produktion und das Inverkehrbringen von Futtermitteln, Zusatzstoffen für die Tierernährung, Silierungszusätzen und Diätfuttermitteln vom 10. Juni 1999, zuletzt geändert am 2. November 2006 (AS *2006* 5213)
 
-[^annexu1-lvlu1-lvlu2-1]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex2-lvlu1-lvlu2-1]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 Anhang 6
 
@@ -1624,14 +1679,14 @@ Die Parteien können die Bestimmungen der Absätze 3 und 4 geltend machen:
 
 Die Parteien vereinbaren, dass die von einer Vertragspartei mit Drittländern geschlossenen Gleichstellungsabkommen für die andere Partei keinerlei Verpflichtung zur Anerkennung der Berichte, Bescheinigungen und Kennzeichen einer Konformitätsbewertungsstelle dieses Drittlandes mit sich bringen, ausgenommen in den Fällen, in denen zwischen den Parteien eine ausdrückliche Vereinbarung hierüber getroffen wurde.
 
-Anlage 1*[^t-13]*
+Anlage 1[^t-13]
 
-## Rechtsvorschriften****
+## Rechtsvorschriften
 
-[^annexu1-lvlu1-3]
+[^annex1-lvlu1-1]
 
 [^t-13]: Fassung gemäss Art. 3 des Beschlusses Nr. 2/2010 des Gemischten Ausschusses für Landwirtschaft vom 13. Dez. 2010, in Kraft für die Schweiz seit 1. Jan. 2011 ([AS 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
-[^annexu1-lvlu1-3]: Jeder Verweis auf einen Rechtsakt ist – sofern nicht anders angegeben – als Verweis auf die vor dem 31. Juli 2010 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex1-lvlu1-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nicht anders angegeben – als Verweis auf die vor dem 31. Juli 2010 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 ### Teil I (Gleichstellung der Rechtsvorschriften)
 
@@ -1663,20 +1718,20 @@ Anlage 1*[^t-13]*
 - – Richtlinie 2008/124/EG der Kommission vom 18. Dezember 2008 zur Beschränkung des Verkehrs mit Saatgut bestimmter Arten von Futter-, Öl- und Faserpflanzen auf amtlich als Basissaatgut oder zertifiziertes Saatgut anerkanntes Saatgut (ABl. L 340 vom 19.12.2008, S. 73).
 - – Verordnung (EG) Nr. 637/2009 der Kommission vom 22. Juli 2009 mit Durchführungsbestimmungen über die Eignung von Sortenbezeichnungen für landwirtschaftliche Pflanzenarten und für Gemüsearten (ABl. L 191 vom 23.7.2009, S. 10).
 
-### B. Bestimmungen der Schweiz****
+### B. Bestimmungen der Schweiz
 
-[^annexu1-lvlu1-secI-lvlB-1]
+[^annex1-lvlu1-secI-lvlB-1]
 
-[^annexu1-lvlu1-secI-lvlB-1]: Unter Ausschluss von Landsorten, die zum freien Verkehr in der Schweiz zugelassen sind.
+[^annex1-lvlu1-secI-lvlB-1]: Unter Ausschluss von Landsorten, die zum freien Verkehr in der Schweiz zugelassen sind.
 
 - – Bundesgesetz vom 29. April 1998 über die Landwirtschaft (SR *910.1*).
 - – Verordnung vom 7. Dezember 1998 über die Produktion und das Inverkehrbringen von pflanzlichem Vermehrungsmaterial (SR *916.151*).
-- – Verordnung des EVD[^annexu1-lvlu1-secI-lvlB-2] vom 7. Dezember 1998 über Saat- und Pflanzgut von Acker- und Futterpflanzen- sowie Gemüsearten (SR *916.151.1*).
+- – Verordnung des EVD[^annex1-lvlu1-secI-lvlB-2] vom 7. Dezember 1998 über Saat- und Pflanzgut von Acker- und Futterpflanzen- sowie Gemüsearten (SR *916.151.1*).
 - – Verordnung des BLW vom 7. Dezember 1998 über den Sortenkatalog für Getreide, Kartoffeln, Futterpflanzen, Öl- und Faserpflanzen sowie Betarüben (SR *916.151.6*).
-- – Verordnung des EVD[^annexu1-lvlu1-secI-lvlB-3] vom 2. November 2006 über die Produktion und das Inverkehrbringen von Vermehrungsmaterial von Reben (SR *916.151.3*).
+- – Verordnung des EVD[^annex1-lvlu1-secI-lvlB-3] vom 2. November 2006 über die Produktion und das Inverkehrbringen von Vermehrungsmaterial von Reben (SR *916.151.3*).
 
-[^annexu1-lvlu1-secI-lvlB-2]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^annexu1-lvlu1-secI-lvlB-3]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu1-secI-lvlB-2]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu1-secI-lvlB-3]: Heute: des WBF (siehe [AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 ### Teil II (gegenseitige Anerkennung der Bescheinigungen)
 
@@ -1698,7 +1753,7 @@ Anlage 1*[^t-13]*
 
 - –
 
-Anlage 2*[^t-14]*
+Anlage 2[^t-14]
 
 ## In Artikel 2 Absatz 3 genannte Behörden
 
@@ -2122,79 +2177,90 @@ Tel: (41) 31 322 25 50
 
 Fax: (41) 31 322 26 34
 
-Anlage 3*[^t-15]*
+Anlage 3[^t-15]
 
 ## Ausnahmeregelungen
 
 [^t-15]: Fassung gemäss Art. 3 des Beschlusses Nr. 2/2010 des Gemischten Ausschusses für Landwirtschaft vom 13. Dez. 2010, in Kraft für die Schweiz seit 1. Jan. 2011 ([AS 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
 
-### Von der Schweiz anerkannte Ausnahmeregelungen der Gemeinschaft****
+### Von der Schweiz anerkannte Ausnahmeregelungen der Gemeinschaft
 
-[^annexu1-lvlu1-lvlu1-1]
+[^annex3-lvlu1-lvlu1-1]
 
-[^annexu1-lvlu1-lvlu1-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nicht anders angegeben – als Verweis auf die vor dem 31. Juli 2010 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex3-lvlu1-lvlu1-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nicht anders angegeben – als Verweis auf die vor dem 31. Juli 2010 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
-(a) zur Entbindung einiger Mitgliedstaaten von der Verpflichtung, die Richtlinien 66/401/EWG, 66/402/EWG, 68/193/EWG, 2002/54/EG und 2002/57/EG des Rates über den Verkehr mit Futterpflanzen-, Getreide-, Wein-, Betarübensaatgut bzw. Saatgut von Öl- und Faserpflanzen hinsichtlich einiger Arten anzuwenden:
+- (a)
 
-- – Entscheidung 69/270/EG der Kommission (ABl. L 220 vom 1.9.1969, S. 8)
-- – Entscheidung 69/271/EG der Kommission (ABl. L 220 vom 1.9.1969, S. 9)
-- – Entscheidung 69/272/EG der Kommission (ABl. L 220 vom 1.9.1969, S. 10)
-- – Entscheidung 70/47/EG der Kommission (ABl. L 13 vom 19.1.1970, S. 26)
-- – Entscheidung 70/48/EG der Kommission (ABl. L 13 vom 19.1.1970, S. 27)
-- – Entscheidung 70/49/EG der Kommission (ABl. L 13 vom 19.1.1970, S. 28)
-- – Entscheidung 70/93/EG der Kommission (ABl. L 25 vom 2.2.1970, S. 16)
-- – Entscheidung 70/94/EG der Kommission (ABl. L 25 vom 2.2.1970, S. 17)
-- – Entscheidung 70/481/EG der Kommission (ABl. L 237 vom 28.10.1970, S. 29)
-- – Entscheidung 73/123/EG der Kommission (ABl. L 145 vom 2.6.1973, S. 43)
-- – Entscheidung 74/5/EWG der Kommission (ABl. L 12 vom 15.1.1974, S. 13)
-- – Entscheidung 74/360/EWG der Kommission (ABl. L 196 vom 19.7.1974, S. 18)
-- – Entscheidung 74/361/EWG der Kommission (ABl. L 196 vom 19.7.1974, S. 19)
-- – Entscheidung 74/362/EWG der Kommission (ABl. L 196 vom 19.7.1974, S. 20)
-- – Entscheidung 74/491/EWG der Kommission (ABl. L 267 vom 03.10.1974, S. 18)
-- – Entscheidung 74/532/EWG der Kommission (ABl. L 299 vom 7.11.1974, S. 14)
-- – Entscheidung 80/301/EWG der Kommission (ABl. L 68 vom 14.03.1980, S. 30)
-- – Entscheidung 80/512/EW der Kommission (ABl. L 126 vom 21.5.1980, S. 15)
-- – Entscheidung 86/153/EW der Kommission (ABl. L 115 vom 3.5.1986, S. 26)
-- – Entscheidung 89/101/EWG der Kommission (ABl. L 38 vom 10.2.1989, S. 37)
-- – Entscheidung 2005/325/EG der Kommission (ABl. L 109 vom 29.4.2005, S. 1)
-- – Entscheidung 2005/886/EG der Kommission (ABl. L 326 vom 13.12.2005, S. 39)
-- – Entscheidung 2005/931/EG der Kommission (ABl. L 340 vom 23.12.2005, S. 67)
-- – Entscheidung 2008/462/EG der Kommission (ABl. L 109 vom 29.4.2005, S. 33);
+  zur Entbindung einiger Mitgliedstaaten von der Verpflichtung, die Richtlinien 66/401/EWG, 66/402/EWG, 68/193/EWG, 2002/54/EG und 2002/57/EG des Rates über den Verkehr mit Futterpflanzen-, Getreide-, Wein-, Betarübensaatgut bzw. Saatgut von Öl- und Faserpflanzen hinsichtlich einiger Arten anzuwenden:
 
-(b) zur Ermächtigung einiger Mitgliedstaaten, den Verkehr mit Saat- oder Pflanzgut einiger Sorten zu beschränken (vgl. Gemeinsamer Sortenkatalog für landwirtschaftliche Pflanzenarten - 28. Gesamtausgabe, Spalte 4; ABl. C 302A vom 12.12.2009, S. 1);
+  - – Entscheidung 69/270/EG der Kommission (ABl. L 220 vom 1.9.1969, S. 8)
+  - – Entscheidung 69/271/EG der Kommission (ABl. L 220 vom 1.9.1969, S. 9)
+  - – Entscheidung 69/272/EG der Kommission (ABl. L 220 vom 1.9.1969, S. 10)
+  - – Entscheidung 70/47/EG der Kommission (ABl. L 13 vom 19.1.1970, S. 26)
+  - – Entscheidung 70/48/EG der Kommission (ABl. L 13 vom 19.1.1970, S. 27)
+  - – Entscheidung 70/49/EG der Kommission (ABl. L 13 vom 19.1.1970, S. 28)
+  - – Entscheidung 70/93/EG der Kommission (ABl. L 25 vom 2.2.1970, S. 16)
+  - – Entscheidung 70/94/EG der Kommission (ABl. L 25 vom 2.2.1970, S. 17)
+  - – Entscheidung 70/481/EG der Kommission (ABl. L 237 vom 28.10.1970, S. 29)
+  - – Entscheidung 73/123/EG der Kommission (ABl. L 145 vom 2.6.1973, S. 43)
+  - – Entscheidung 74/5/EWG der Kommission (ABl. L 12 vom 15.1.1974, S. 13)
+  - – Entscheidung 74/360/EWG der Kommission (ABl. L 196 vom 19.7.1974, S. 18)
+  - – Entscheidung 74/361/EWG der Kommission (ABl. L 196 vom 19.7.1974, S. 19)
+  - – Entscheidung 74/362/EWG der Kommission (ABl. L 196 vom 19.7.1974, S. 20)
+  - – Entscheidung 74/491/EWG der Kommission (ABl. L 267 vom 03.10.1974, S. 18)
+  - – Entscheidung 74/532/EWG der Kommission (ABl. L 299 vom 7.11.1974, S. 14)
+  - – Entscheidung 80/301/EWG der Kommission (ABl. L 68 vom 14.03.1980, S. 30)
+  - – Entscheidung 80/512/EW der Kommission (ABl. L 126 vom 21.5.1980, S. 15)
+  - – Entscheidung 86/153/EW der Kommission (ABl. L 115 vom 3.5.1986, S. 26)
+  - – Entscheidung 89/101/EWG der Kommission (ABl. L 38 vom 10.2.1989, S. 37)
+  - – Entscheidung 2005/325/EG der Kommission (ABl. L 109 vom 29.4.2005, S. 1)
+  - – Entscheidung 2005/886/EG der Kommission (ABl. L 326 vom 13.12.2005, S. 39)
+  - – Entscheidung 2005/931/EG der Kommission (ABl. L 340 vom 23.12.2005, S. 67)
+  - – Entscheidung 2008/462/EG der Kommission (ABl. L 109 vom 29.4.2005, S. 33);
 
-(c) zur Ermächtigung einiger Mitgliedstaaten, bezüglich des Vorhandenseins von *Avena fatua* in Getreidesaatgut strengere Vorschriften zu erlassen:
+- (b) zur Ermächtigung einiger Mitgliedstaaten, den Verkehr mit Saat- oder Pflanzgut einiger Sorten zu beschränken (vgl. Gemeinsamer Sortenkatalog für landwirtschaftliche Pflanzenarten - 28. Gesamtausgabe, Spalte 4; ABl. C 302A vom 12.12.2009, S. 1);
+- (c)
 
-- – Entscheidung 74/269/EWG der Kommission (ABl. L 141 vom 24.5.1974, S. 20)
-- – Entscheidung 74/531/EWG der Kommission (ABl. L 299 vom 7.11.1974, S. 13)
-- – Entscheidung 95/75/EG der Kommission (ABl. L 60 vom 18.3.1995, S. 30)
-- – Entscheidung 96/334/EG der Kommission (ABl. L 127 vom 25.5.1996, S. 39)
-- – Entscheidung 2005/200/EG der Kommission (ABl. L 70 vom 16.3.2005, S. 19);
+  zur Ermächtigung einiger Mitgliedstaaten, bezüglich des Vorhandenseins von *Avena fatua* in Getreidesaatgut strengere Vorschriften zu erlassen:
 
-(d) zur Ermächtigung bestimmter Mitgliedstaaten, für den Verkehr mit Pflanzkartoffeln auf ihrem gesamten Gebiet oder auf Teilen davon strengere als die in den Anlagen I und II der Richtlinie 2002/56/EG des Rates vorgesehenen Massnahmen gegen bestimmte Krankheitserreger anzuwenden:
+  - – Entscheidung 74/269/EWG der Kommission (ABl. L 141 vom 24.5.1974, S. 20)
+  - – Entscheidung 74/531/EWG der Kommission (ABl. L 299 vom 7.11.1974, S. 13)
+  - – Entscheidung 95/75/EG der Kommission (ABl. L 60 vom 18.3.1995, S. 30)
+  - – Entscheidung 96/334/EG der Kommission (ABl. L 127 vom 25.5.1996, S. 39)
+  - – Entscheidung 2005/200/EG der Kommission (ABl. L 70 vom 16.3.2005, S. 19);
 
-- – Entscheidung 2004/3/EG der Kommission (ABl. L 2 vom 6.1.2004, S. 47);
+- (d)
 
-(e) zur Ermächtigung, die Einhaltung der Anforderungen an die Sortenreinheit bei Saatgut von apomiktischen Einklon-Sorten von *Poa pratensis* auch auf Grundlage der Ergebnisse von Saatgut- und Sämlingsuntersuchungen zu bewerten:
+  zur Ermächtigung bestimmter Mitgliedstaaten, für den Verkehr mit Pflanzkartoffeln auf ihrem gesamten Gebiet oder auf Teilen davon strengere als die in den Anlagen I und II der Richtlinie 2002/56/EG des Rates vorgesehenen Massnahmen gegen bestimmte Krankheitserreger anzuwenden:
 
-- – Entscheidung 85/370/EW der Kommission (ABl. L 209 vom 6.8.1985, S. 41);
+  - – Entscheidung 2004/3/EG der Kommission (ABl. L 2 vom 6.1.2004, S. 47);
 
-(f) zur Ermächtigung, das Vereinigte Königreich von bestimmten Verpflichtungen zur Anwendung der Richtlinien 66/402/EWG und 2002/57/EG des Rates in Bezug auf *Avena strigosa* Schreb. freizustellen:
+- (e)
 
-- – Entscheidung 2009/786/EG der Kommission vom 26. Oktober 2009 (ABl. L 281/5 vom 28.10.2009);
+  zur Ermächtigung, die Einhaltung der Anforderungen an die Sortenreinheit bei Saatgut von apomiktischen Einklon-Sorten von *Poa pratensis* auch auf Grundlage der Ergebnisse von Saatgut- und Sämlingsuntersuchungen zu bewerten:
 
-(g) zur Ermächtigung, Lettland von bestimmten Verpflichtungen zur Anwendung der Richtlinien 66/402/EWG und 2002/57/EG des Rates in Bezug auf *Avena strigosa* Schreb., *Brassica nigra* (L.) Koch und *Helianthus annuus* L. zu entbinden:
+  - – Entscheidung 85/370/EW der Kommission (ABl. L 209 vom 6.8.1985, S. 41);
 
-- – Beschluss 2010/198/EU der Kommission vom 6. April 2010 (ABl. L 84/37 vom 7.4.2010).
+- (f)
 
-Anlage 4*[^t-16]*
+  zur Ermächtigung, das Vereinigte Königreich von bestimmten Verpflichtungen zur Anwendung der Richtlinien 66/402/EWG und 2002/57/EG des Rates in Bezug auf *Avena strigosa* Schreb. freizustellen:
 
-## Liste der Drittländer****
+  - – Entscheidung 2009/786/EG der Kommission vom 26. Oktober 2009 (ABl. L 281/5 vom 28.10.2009);
 
-[^annexu1-lvlu1-4]
+- (g)
+
+  zur Ermächtigung, Lettland von bestimmten Verpflichtungen zur Anwendung der Richtlinien 66/402/EWG und 2002/57/EG des Rates in Bezug auf *Avena strigosa* Schreb., *Brassica nigra* (L.) Koch und *Helianthus annuus* L. zu entbinden:
+
+  - – Beschluss 2010/198/EU der Kommission vom 6. April 2010 (ABl. L 84/37 vom 7.4.2010).
+
+Anlage 4[^t-16]
+
+## Liste der Drittländer
+
+[^annex4-lvlu1-2]
 
 [^t-16]: Fassung gemäss Art. 3 des Beschlusses Nr. 2/2010 des Gemischten Ausschusses für Landwirtschaft vom 13. Dez. 2010, in Kraft für die Schweiz seit 1. Jan. 2011 ([AS 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
-[^annexu1-lvlu1-4]: Die Anerkennung basiert bezüglich der Feldbesichtigung der Samenträgerbestände und der Saatgutkontrollen auf der Entscheidung 2003/17/EG des Rates (ABl. L 8 vom 14.1.2003, S. 10) sowie bezüglich der Kontrolle der Sortenerhaltungszüchtung auf der Entscheidung 2005/834/EG des Rates (ABl. L 312 vom 29.11.2005, S. 41). Für Norwegen gilt das Abkommen über den Europäischen Wirtschaftsraum.
+[^annex4-lvlu1-2]: Die Anerkennung basiert bezüglich der Feldbesichtigung der Samenträgerbestände und der Saatgutkontrollen auf der Entscheidung 2003/17/EG des Rates (ABl. L 8 vom 14.1.2003, S. 10) sowie bezüglich der Kontrolle der Sortenerhaltungszüchtung auf der Entscheidung 2005/834/EG des Rates (ABl. L 312 vom 29.11.2005, S. 41). Für Norwegen gilt das Abkommen über den Europäischen Wirtschaftsraum.
 
 Argentinien
 
@@ -2222,7 +2288,7 @@ Uruguay
 
 Vereinigte Staaten von Amerika
 
-Anhang 7*[^t-17]*
+Anhang 7[^t-17]
 
 ## Betreffend den Handel mit Weinbauerzeugnissen
 
@@ -2261,7 +2327,7 @@ Im Sinne dieses Anhangs gelten vorbehaltlich anderslautender Angaben in diesem A
 - (m) «ersuchte Stelle»: die von einer Partei bezeichnete zuständige Dienststelle oder Behörde, an die ein Amtshilfeersuchen im Regelungsbereich dieses Titels gerichtet wird;
 - (n) «Zuwiderhandlungen»: alle Verstösse oder versuchten Verstösse gegen die Vorschriften für die Erzeugung von und den Handel mit Weinbauerzeugnissen.
 
-[^annex7-lvlu1-3-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1.C
+[^annex7-lvlu1-3-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1C
 
 ### Titel I Einfuhr und Vermarktung
 
@@ -2319,7 +2385,7 @@ Zur Ermittlung der Herkunft von Weinbauerzeugnissen in der Europäischen Union s
 Der Begriff «Tafelwein» gemäss Artikel 63 des Bundesgesetzes über die Landwirtschaft ist Weinen mit Ursprung in der Schweiz vorbehalten und ausschliesslich unter Beachtung der schweizerischen Rechtsvorschriften zu verwenden.
 
 [^annex7-lvlu1-titII-7-1]: ABl. L 193 vom 24.7.2009, S. 60–139
-[^annex7-lvlu1-titII-7-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^annex7-lvlu1-titII-7-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 8
 
@@ -2884,31 +2950,30 @@ Vlaamse landwijn
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-appellation d’origine contrôlée g.U. Französisch
-
-gecontroleerde oorsprongsbenaming g.U. Niederländisch
-
-Vin de pays g.g.A Französisch
-
-Landwijn g.g.A Niederländisch
+<table>
+<tr><td>appellation d’origine contrôlée</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>gecontroleerde oorsprongsbenaming</td><td>g.U.</td><td>Niederländisch</td></tr>
+<tr><td>Vin de pays</td><td>g.g.A</td><td>Französisch</td></tr>
+<tr><td>Landwijn</td><td>g.g.A</td><td>Niederländisch</td></tr>
+</table>
 
 ### Bulgarien
 
 ### Weine mit geschützter Ursprungsbezeichnung
 
-Асеновград*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren ge**o**grafischen Einheit*
+Асеновград*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Asenovgrad
 
-Болярово*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Болярово*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Bolyarovo
 
-Брестник*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Брестник*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Brestnik
 
-Варна*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Варна*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Varna
 
@@ -2916,171 +2981,171 @@ Landwijn g.g.A Niederländisch
 
 *Gleichwertige Angabe:* Veliki Preslav
 
-Видин*, gegebenenfalls gefolgt von* *einer* *Teilregion und/oder kleineren geograf**i**schen Einheit*
+Видин*, gegebenenfalls gefolgt von* *einer* *Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Vidin
 
-Враца*,* *gegebenenfalls gefolgt von* *einer* *Teilregion und/oder kleineren geograf**i**schen Einheit*
+Враца*, gegebenenfalls gefolgt von* *einer* *Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Vratsa
 
-Върбица*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Върбица*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Varbitsa
 
-Долината на Струма*, gegebenenfalls gefolgt von einer Teilregion und/oder klein**e**ren geografischen Einheit*
+Долината на Струма*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Struma valley
 
-Драгоево*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Драгоево*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Dragoevo
 
-Евксиноград*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren ge**o**grafischen Einheit*
+Евксиноград*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Evksinograd
 
-Ивайловград*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren ge**o**grafischen Einheit*
+Ивайловград*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Ivaylovgrad
 
-Карлово*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Карлово*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Karlovo
 
-Карнобат*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Карнобат*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Karnobat
 
-Ловеч*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Ловеч*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Lovech
 
-Лозицa*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Лозицa*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Lozitsa
 
-Лом*, gegebenenfa**lls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Лом*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Lom
 
-Любимец*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Любимец*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Lyubimets
 
-Лясковец*, gegebenenfalls gefol**gt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Лясковец*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Lyaskovets
 
-Мелник*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Мелник*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Melnik
 
-Монтана*, gegebenenfalls gefolgt von* *einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Монтана*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Montana
 
-Нова Загора*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren ge**o**grafischen Einheit*
+Нова Загора*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Nova Zagora
 
-Нови Пазар*, gegebenenfalls gefolgt v**on einer Teilregion und/oder kleineren ge**o**grafischen Einheit*
+Нови Пазар*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Novi Pazar
 
-Ново село*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Ново село*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Novo Selo
 
-Оряховица*, gegebenenfalls gefolgt* *von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Оряховица*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Oryahovitsa
 
-Павликени*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Павликени*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Pavlikeni
 
-Пазарджик*, gegebenenfalls gefolg**t von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Пазарджик*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Pazardjik
 
-Перущица*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Перущица*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Perushtitsa
 
-Плевен*, gegebenenfalls gefolgt* *von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Плевен*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Pleven
 
-Пловдив*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Пловдив*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Plovdiv
 
-Поморие*, gegebenenfalls gefolgt von einer* *Teilregion und/oder kleineren geograf**i**schen Einheit*
+Поморие*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Pomorie
 
-Русе*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Русе*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Ruse
 
-Сакар*, gegebenenfalls gefolgt von einer Teilregion und/**oder kleineren geograf**i**schen Einheit*
+Сакар*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Sakar
 
-Сандански*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Сандански*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Sandanski
 
-Свищов*, gegebenenfalls gefolgt von einer Teilregion und/oder kl**eineren geograf**i**schen Einheit*
+Свищов*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Svishtov
 
-Септември*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Септември*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Septemvri
 
-Славянци*, gegebenenfalls gefolgt von einer Teilregion und/oder klei**neren geograf**i**schen Einheit*
+Славянци*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Slavyantsi
 
-Сливен*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Сливен*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Sliven
 
-Стамболово*, gegebenenfalls gefolgt von einer Teilregion und/oder kleinere**n ge**o**grafischen Einheit*
+Стамболово*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Stambolovo
 
-Стара Загора*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren ge**o**grafischen Einheit*
+Стара Загора*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Stara Zagora
 
-Сунгурларе*, gegebenenfalls gefolgt von einer Teilregion und/oder* *kleineren ge**o**grafischen Einheit*
+Сунгурларе*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Sungurlare
 
-Сухиндол*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Сухиндол*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Suhindol
 
-Търговище*, gegebenenfalls gefolgt von einer Teilregion und/oder k**leineren geogr**a**fischen Einheit*
+Търговище*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Targovishte
 
-Хан Крум*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Хан Крум*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Han Krum
 
-Хасково*, gegebenenfalls gefolgt von einer Teilregion und/oder kle**ineren geograf**i**schen Einheit*
+Хасково*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Haskovo
 
-Хисаря*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Хисаря*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Hisarya
 
-Хърсово*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren ge**ograf**i**schen Einheit*
+Хърсово*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Harsovo
 
@@ -3088,19 +3153,19 @@ Landwijn g.g.A Niederländisch
 
 *Gleichwertige Angabe:* Southern Black Sea Coast
 
-Черноморски район – Северен*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geog**rafischen Einheit*
+Черноморски район – Северен*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Northen Black Sea Region
 
-Шивачево*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geogr**a**fischen Einheit*
+Шивачево*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Shivachevo
 
-Шумен*, gegebenenfalls gefolgt von einer Teilregion und/oder kle**ineren geograf**i**schen Einheit*
+Шумен*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Shumen
 
-Ямбол*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geograf**i**schen Einheit*
+Ямбол*, gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 *Gleichwertige Angabe:* Yambol
 
@@ -3108,7 +3173,7 @@ Landwijn g.g.A Niederländisch
 
 Дунавска равнина
 
-*Gleichwertige A**ngabe*: Danube Plain
+*Gleichwertige Angabe*: Danube Plain
 
 Тракийска низина
 
@@ -3116,59 +3181,26 @@ Landwijn g.g.A Niederländisch
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Благородно сладко вино (БСВ) g.U. Bulgarisch
-
-Гарантирано и контролирано
-
-наименование за произход (ГКНП) g.U. Bulgarisch
-
-Гарантирано наименование за
-
-произход (ГНП) g.U. Bulgarisch
-
-Pегионално вино
-
-(Regional wine) g.g.A Bulgarisch
+<table>
+<tr><td>Благородно сладко вино (БСВ)</td><td>g.U.</td><td>Bulgarisch</td></tr>
+<tr><td>Гарантирано и контролирано наименование за произход (ГКНП)</td><td>g.U.</td><td>Bulgarisch</td></tr>
+<tr><td>Гарантирано наименование за произход (ГНП)</td><td>g.U.</td><td>Bulgarisch</td></tr>
+<tr><td>Pегионално вино (Regional wine)</td><td>g.g.A</td><td>Bulgarisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Колекционно
-
-(collection) g.U. Bulgarisch
-
-Ново
-
-(young) g.U./g.g.A Bulgarisch
-
-Премиум
-
-(premium) g.g.A Bulgarisch
-
-Премиум оук, или първо зареждане в
-
-бъчва
-
-(premium oak) g.U. Bulgarisch
-
-Премиум резерва
-
-(premium reserve) g.g.A Bulgarisch
-
-Резерва
-
-(reserve) g.U./g.g.A Bulgarisch
-
-Розенталер
-
-(Rosenthaler) g.U. Bulgarisch
-
-Специална селекция
-
-(special selection) g.U. Bulgarisch
-
-Специална резерва
-
-(special reserve) g.U. Bulgarisch
+<table>
+<tr><td>Колекционно (collection)</td><td>g.U.</td><td>Bulgarisch</td></tr>
+<tr><td>Ново (young)</td><td>g.U./g.g.A</td><td>Bulgarisch</td></tr>
+<tr><td>Премиум (premium)</td><td>g.g.A</td><td>Bulgarisch</td></tr>
+<tr><td>Премиум оук, или първо зареждане в бъчва (premium oak)</td><td>g.U.</td><td>Bulgarisch</td></tr>
+<tr><td>Премиум резерв (premium reserve)</td><td>g.g.A</td><td>Bulgarisch</td></tr>
+<tr><td>Резерва (reserve)</td><td>g.U./g.g.A</td><td>Bulgarisch</td></tr>
+<tr><td>Розенталер (Rosenthaler)</td><td>g.U.</td><td>Bulgarisch</td></tr>
+<tr><td>Специална селекция (special selection)</td><td>g.U.</td><td>Bulgarisch</td></tr>
+<tr><td>Специална резерва (special reserve)</td><td>g.U.</td><td>Bulgarisch</td></tr>
+</table>
 
 ### Tschechische Republik
 
@@ -3194,81 +3226,47 @@ Moravské
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-aromatické jakostní šumivé víno
-
-stanovené oblasti g.U. Tschechisch
-
-aromatický sekt s.o. g.U. Tschechisch
-
-jakostní likérové víno g.U. Tschechisch
-
-jakostní perlivé víno g.U. Tschechisch
-
-jakostní šumivé víno stanovené oblasti g.U. Tschechisch
-
-jakostní víno g.U. Tschechisch
-
-jakostní víno odrůdové g.U. Tschechisch
-
-jakostní víno s přívlastkem g.U. Tschechisch
-
-jakostní víno známkové g.U. Tschechisch
-
-V.O.C g.U. Tschechisch
-
-víno originální certifikace g.U. Tschechisch
-
-víno s přívlastkem kabinetní víno g.U. Tschechisch
-
-víno s přívlastkem ledové víno g.U. Tschechisch
-
-víno s přívlastkem pozdní sběr g.U. Tschechisch
-
-víno s přívlastkem slámové víno g.U. Tschechisch
-
-víno s přívlastkem výběr z bobulí g.U. Tschechisch
-
-víno s přívlastkem výběr z cibéb g.U. Tschechisch
-
-víno s přívlastkem výběr z hroznů g.U. Tschechisch
-
-Víno origininální certifikace (VOC
-
-*oder* V.O.C.) g.g.A Tschechisch
-
-zemské víno g.g.A Tschechisch
+<table>
+<tr><td>aromatické jakostní šumivé víno stanovené oblasti</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>aromatický sekt s.o.</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>jakostní likérové víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>jakostní perlivé víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>jakostní šumivé víno stanovené oblasti</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>jakostní víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>jakostní víno odrůdové</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>jakostní víno s přívlastkem</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>jakostní víno známkové</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>V.O.C</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>víno originální certifikace</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>víno s přívlastkem kabinetní víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>víno s přívlastkem ledové víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>víno s přívlastkem pozdní sběr</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>víno s přívlastkem slámové víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>víno s přívlastkem výběr z bobulí</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>víno s přívlastkem výběr z cibéb</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>víno s přívlastkem výběr z hroznů</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Víno origininální certifikace (VOC *oder* V.O.C.)</td><td>g.g.A</td><td>Tschechisch</td></tr>
+<tr><td>zemské víno</td><td>g.g.A</td><td>Tschechisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Archivní víno g.U. Tschechisch
-
-Burčák g.U. Tschechisch
-
-Klaret g.U. Tschechisch
-
-Košer, Košer víno g.U. Tschechisch
-
-Labín g.U. Tschechisch
-
-Mladé víno g.U. Tschechisch
-
-Mešní víno g.U. Tschechisch
-
-Panenské víno, Panenská sklizeň g.U. Tschechisch
-
-Pěstitelský sekt (\*) g.U. Tschechisch
-
-Pozdní sběr g.U. Tschechisch
-
-Premium g.U. Tschechisch
-
-Rezerva g.U. Tschechisch
-
-Růžák, Ryšák g.U. Tschechisch
-
-Zrálo na kvasnicích, Krášleno
-
-na kvasnicích, Školeno na kvasnicích g.U. Tschechisch
+<table>
+<tr><td>Archivní víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Burčák</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Klaret</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Košer, Košer víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Labín</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Mladé víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Mešní víno</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Panenské víno, Panenská sklizeň</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Pěstitelský sekt (\*)</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Pozdní sběr</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Premium</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Rezerva</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Růžák, Ryšák</td><td>g.U.</td><td>Tschechisch</td></tr>
+<tr><td>Zrálo na kvasnicích, Krášleno na kvasnicích, Školeno na kvasnicích</td><td>g.U.</td><td>Tschechisch</td></tr>
+</table>
 
 ### Deutschland
 
@@ -3280,9 +3278,9 @@ Baden*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Franken*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Hessische Bergstrasse*, gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit*
+Hessische Bergstrasse*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Mittelrhein*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Mittelrhein*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Mosel*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
@@ -3290,7 +3288,7 @@ Nahe*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Pfalz*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Rheingau*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Rheingau*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Rheinhessen, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit
 
@@ -3357,10 +3355,10 @@ Taubertäler
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
 <table>
-<tr><td>Prädikatswein (Qualitätswein mit Prädikat(\*)), *gefolgt von* – Kabinett – Spätlese – Auslese – Beerenauslese – Trockenbeerenauslese – Eiswein</td><td>g.U.</td><td>Deutsch</td></tr>
-<tr><td>Qualitätswein, *gegebenenfalls gefolgt* *von* b.A. (Qualitätswein bestimmter Anbaugebiete)</td><td>g.U.</td><td>Deutsch</td></tr>
-<tr><td>Qualitätslikörwein, *gegebenenfalls* *gefolgt von* b.A. (Qualitätslikörwein bestimmter Anbaugebiete)</td><td>g.U.</td><td>Deutsch</td></tr>
-<tr><td>Qualitätsperlwein, *gegebenenfalls* *gefolgt von* b.A. (Qualitätsperlwein bestimmter Anbaugebiete)</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Prädikatswein (Qualitätswein mit Prädikat(\*)), *gefolgt von*: – Kabinett – Spätlese – Auslese – Beerenauslese – Trockenbeerenauslese – Eiswein</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Qualitätswein, *gegebenenfalls gefolgt von* b.A. (Qualitätswein bestimmter Anbaugebiete)</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Qualitätslikörwein, *gegebenenfalls gefolgt von* b.A. (Qualitätslikörwein bestimmter Anbaugebiete)</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Qualitätsperlwein, *gegebenenfalls gefolgt von* b.A. (Qualitätsperlwein bestimmter Anbaugebiete)</td><td>g.U.</td><td>Deutsch</td></tr>
 <tr><td>Sekt b.A. (Sekt bestimmter Anbaugebiete)</td><td>g.U.</td><td>Deutsch</td></tr>
 <tr><td>Landwein</td><td>g.g.A</td><td>Deutsch</td></tr>
 <tr><td>Winzersekt</td><td>g.U.</td><td>Deutsch</td></tr>
@@ -3368,23 +3366,17 @@ Taubertäler
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Affentaler g.U. Deutsch
-
-Badisch Rotgold g.U. Deutsch
-
-Ehrentrudis g.U. Deutsch
-
-Hock g.U. Deutsch
-
-Klassik/Classic g.U. Deutsch
-
-Liebfrau(en)milch g.U. Deutsch
-
-Riesling-Hochgewächs g.U. Deutsch
-
-Schillerwein g.U. Deutsch
-
-Weissherbst g.U. Deutsch
+<table>
+<tr><td>Affentaler</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Badisch Rotgold</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Ehrentrudis</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Hock</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Klassik/Classic</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Liebfrau(en)milch</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Riesling-Hochgewächs</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Schillerwein</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Weissherbst</td><td>g.U.</td><td>Deutsch</td></tr>
+</table>
 
 ### Griechenland
 
@@ -3412,7 +3404,7 @@ Weissherbst g.U. Deutsch
 
 Ζίτσα
 
-*Gleich**wertige Angabe*: Zitsa
+*Gleichwertige Angabe*: Zitsa
 
 Λήμνος
 
@@ -3432,7 +3424,7 @@ Weissherbst g.U. Deutsch
 
 Μεσενικόλα
 
-*Gleichwertige* *Angabe*: Messenikola
+*Gleichwertige Angabe*: Messenikola
 
 Μοσχάτος Κεφαλληνίας
 
@@ -3476,7 +3468,7 @@ Weissherbst g.U. Deutsch
 
 Πλαγιές Μελίτωνα
 
-*Gleichwertige An**gabe*: Cotes de Meliton
+*Gleichwertige Angabe*: Cotes de Meliton
 
 Ραψάνη
 
@@ -3500,7 +3492,7 @@ Weissherbst g.U. Deutsch
 
 Σητεία
 
-*Gleichwertige A**ngabe*: Sitia
+*Gleichwertige Angabe*: Sitia
 
 ### Weine mit geschützter geografischer Angabe
 
@@ -3550,7 +3542,7 @@ Toπικός Οίνος Μαγνησίας
 
 Ισμαρικός Τοπικός Οίνος
 
-*Gleichwe**rtige Angabe:* Regional wine of Ismaros-Ismarikos
+*Gleichwertige Angabe:* Regional wine of Ismaros-Ismarikos
 
 Κορινθιακός Τοπικός Οίνος
 
@@ -3562,7 +3554,7 @@ Toπικός Οίνος Μαγνησίας
 
 Λακωνικός Τοπικός Οίνος
 
-*Gleichwertige Anga**be:* Regional wine of Lakonia-Lakonikos
+*Gleichwertige Angabe:* Regional wine of Lakonia-Lakonikos
 
 Μακεδονικός Τοπικός Οίνος
 
@@ -3586,7 +3578,7 @@ Toπικός Οίνος Μαγνησίας
 
 Παιανίτικος Τοπικός Οίνος
 
-*Gleichwertige An**gabe:* Regional wine of Peanea
+*Gleichwertige Angabe:* Regional wine of Peanea
 
 Παλληνιώτικος Τοπικός Οίνος
 
@@ -3596,7 +3588,7 @@ Toπικός Οίνος Μαγνησίας
 
 *Gleichwertige Angabe:* Regional wine of Peloponnese-Peloponnesiakos
 
-Ρετσίνα Αττικής, *auch ergänzt durch den* *Namen einer kleineren geografischen Ei**n**heit*
+Ρετσίνα Αττικής, *auch ergänzt durch den Namen einer kleineren geografischen Einheit*
 
 *Gleichwertige Angabe*: Retsina of Attiki
 
@@ -3606,7 +3598,7 @@ Toπικός Οίνος Μαγνησίας
 
 Ρετσίνα Γιάλτρων, *auch ergänzt durch* Evvia
 
-*Glei**chwertige Angabe*: Retsina of Gialtra
+*Gleichwertige Angabe*: Retsina of Gialtra
 
 Ρετσίνα Ευβοίας, *auch ergänzt durch den Namen einer kleineren geografischen Einheit*
 
@@ -3626,7 +3618,7 @@ Toπικός Οίνος Μαγνησίας
 
 Ρετσίνα Μαρκοπούλου, *auch ergänzt durch* Attika
 
-*Gleichwerti**ge Angabe:* Retsina of Markopoulo
+*Gleichwertige Angabe:* Retsina of Markopoulo
 
 Ρετσίνα Μεγάρων, *auch ergänzt durch* Attika
 
@@ -3636,7 +3628,7 @@ Toπικός Οίνος Μαγνησίας
 
 *Gleichwertige Angabe*: Retsina of Mesogia
 
-Ρετσίνα Παιανίας *oder* Ρετσίνα Λιοπεσίου, *auch ergänzt* *durch* Attika
+Ρετσίνα Παιανίας *oder* Ρετσίνα Λιοπεσίου, *auch ergänzt durch* Attika
 
 *Gleichwertige Angabe:* Retsina of Peania *oder* Retsina of Liopesi
 
@@ -3774,7 +3766,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Κοζάνης
 
-*Gleichwerti**ge Angabe:* Regional wine of Kozani
+*Gleichwertige Angabe:* Regional wine of Kozani
 
 Τοπικός Οίνος Κοιλάδας Αταλάντης
 
@@ -3802,7 +3794,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Λετρίνων
 
-*Gleichwertig**e Angabe:* Regional wine of Letrines
+*Gleichwertige Angabe:* Regional wine of Letrines
 
 Τοπικός Οίνος Λευκάδας
 
@@ -3906,7 +3898,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Σερρών
 
-*Gleichwerti**ge Angabe*: Regional wine of Serres
+*Gleichwertige Angabe*: Regional wine of Serres
 
 Τοπικός Οίνος Σιάτιστας
 
@@ -3950,119 +3942,39 @@ Toπικός Οίνος Μαγνησίας
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Ονομασία Προέλευσης Ανωτέρας
-
-Ποιότητας (ΟΠΑΠ)
-
-*(appellation d’origine de qualité*
-
-*supérie**u**re)* g.U. Griechisch
-
-Ονομασία Προέλευσης Ελεγχόμενη
-
-(ΟΠΕ)
-
-*(appellation d**’**origine contrô**lée)* g.U. Griechisch
-
-Οίνος γλυκός φυσικός
-
-*(vin doux naturel)* g.U. Griechisch
-
-Οίνος φυσικώς γλυκύς
-
-*(vin naturellement doux)* g.U. Griechisch
-
-ονομασία κατά παράδοση *(appellation*
-
-*traditionne**l**le)* g.g.A Griechisch
-
-τοπικός οίνος
-
-*(vin de pays*) g.g.A Griechisch
+<table>
+<tr><td>Ονομασία Προέλευσης Ανωτέρας Ποιότητας (ΟΠΑΠ) *(appellation d’origine de qualité supérieure)*</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Ονομασία Προέλευσης Ελεγχόμενη (ΟΠΕ) *(**appellation d**’**origine contrôlée**)*</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Οίνος γλυκός φυσικός *(vin doux naturel)*</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Οίνος φυσικώς γλυκύς *(vin naturellement doux)*</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>ονομασία κατά παράδοση *(appellation traditionnelle)*</td><td>g.g.A</td><td>Griechisch</td></tr>
+<tr><td>τοπικός οίνος *(vin de pays)*</td><td>g.g.A</td><td>Griechisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Αγρέπαυλη
-
-(Agrepavlis) g.U./g.g.A Griechisch
-
-Αμπέλι
-
-(Ampeli) g.U./g.g.A Griechisch
-
-Αμπελώνας(ες)
-
-(Ampelonas (-ès)) g.U./g.g.A Griechisch
-
-Αρχοντικό
-
-(Archontiko) g.U./g.g.A Griechisch
-
-Κάβα
-
-(Cava) g.g.A Griechisch
-
-Από διαλεκτούς αμπελώνες
-
-(Grand Cru) g.U. Griechisch
-
-Ειδικά Επιλεγμένος
-
-(Grande réserve) g.U. Griechisch
-
-Κάστρο
-
-(Kastro) g.U./g.g.A Griechisch
-
-Κτήμα
-
-(Ktima) g.U./g.g.A Griechisch
-
-Λιαστός
-
-(Liastos) g.U./g.g.A Griechisch
-
-Μετόχι
-
-(Metochi) g.U./g.g.A Griechisch
-
-Μοναστήρι
-
-(Monastiri) g.U./g.g.A Griechisch
-
-Νάμα
-
-(Nama) g.U./g.g.A Griechisch
-
-Νυχτέρι
-
-(Nychteri) g.U. Griechisch
-
-Ορεινό κτήμα
-
-(Orino Ktima) g.U./g.g.A Griechisch
-
-Ορεινός αμπελώνας
-
-(Orinos Ampelonas) g.U./g.g.A Griechisch
-
-Πύργος
-
-(Pyrgos) g.U./g.g.A Griechisch
-
-Επιλογή ή Επιλεγμένος
-
-(Réserve) g.U. Griechisch
-
-Παλαιωθείς επιλεγμένος
-
-(Vieille réserve) g.U. Griechisch
-
-Βερντέα
-
-(Verntea) g.g.A Griechisch
-
-Vinsanto g.U. Lateinisch
+<table>
+<tr><td>Αγρέπαυλη (Agrepavlis)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Αμπέλι (Ampeli)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Αμπελώνας(ες) (Ampelonas (-ès))</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Αρχοντικό (Archontiko)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Κάβα (Cava)</td><td>g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Από διαλεκτούς αμπελώνες (Grand Cru)</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Ειδικά Επιλεγμένος (Grande réserve)</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Κάστρο (Kastro)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Κτήμα (Ktima)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Λιαστός (Liastos)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Μετόχι (Metochi)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Μοναστήρι (Monastiri)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Νάμα (Nama)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Νυχτέρι (Nychteri)</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Ορεινό κτήμα (Orino Ktima)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Ορεινός αμπελώνας (Orinos Ampelonas)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Πύργος (Pyrgos)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Επιλογή ή Επιλεγμένος (Réserve)</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Παλαιωθείς επιλεγμένος (Vieille réserve)</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Βερντέα (Verntea)</td><td>g.g.A</td><td>Griechisch</td></tr>
+</table>
 
 ### Spanien
 
@@ -4408,89 +4320,54 @@ Villaviciosa de Córdoba
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-D.O g.U. Spanisch
-
-D.O.Ca g.U. Spanisch
-
-Denominacion de origen g.U. Spanisch
-
-Denominacion de origen calificada g.U. Spanisch
-
-vino de calidad con indicación geográfica g.U. Spanisch
-
-vino de pago g.U. Spanisch
-
-vino de pago calificado g.U. Spanisch
-
-Vino dulce natural g.U. Spanisch
-
-Vino generoso g.U. Spanisch
-
-Vino generoso de licor g.U. Spanisch
-
-Vino de la Tierra g.g.A Spanisch
+<table>
+<tr><td>D.O</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>D.O.Ca</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Denominacion de origen</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Denominacion de origen calificada</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>vino de calidad con indicación geográfica</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>vino de pago</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>vino de pago calificado</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Vino dulce natural</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Vino generoso</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Vino generoso de licor</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Vino de la Tierra</td><td>g.g.A</td><td>Spanisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Amontillado g.U. Spanisch
-
-Añejo g.U./g.g.A Spanisch
-
-Chacolí-Txakolina g.U. Spanisch
-
-Clásico g.U. Spanisch
-
-Cream g.U. Spanisch
-
-Criadera g.U. Spanisch
-
-Criaderas y Soleras g.U. Spanisch
-
-Crianza g.U. Spanisch
-
-Dorado g.U. Spanisch
-
-Fino g.U. Spanisch
-
-Fondillón g.U. Spanisch
-
-Gran reserva g.U. Spanisch
-
-Lágrima g.U. Spanisch
-
-Noble g.U./g.g.A Spanisch
-
-Oloroso g.U. Spanisch
-
-Pajarete g.U. Spanisch
-
-Pálido g.U. Spanisch
-
-Palo Cortado g.U. Spanisch
-
-Primero de Cosecha g.U. Spanisch
-
-Rancio g.U. Spanisch
-
-Raya g.U. Spanisch
-
-Reserva g.U. Spanisch
-
-Sobremadre g.U. Spanisch
-
-Solera g.U. Spanisch
-
-Superior g.U. Spanisch
-
-Trasañejo g.U. Spanisch
-
-Vino Maestro g.U. Spanisch
-
-Vendimia Inicial g.U. Spanisch
-
-Viejo g.U./g.g.A Spanisch
-
-Vino de Tea g.U. Spanisch
+<table>
+<tr><td>Amontillado</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Añejo</td><td>g.U./g.g.A</td><td>Spanisch</td></tr>
+<tr><td>Chacolí-Txakolina</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Clásico</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Cream</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Criadera</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Criaderas y Soleras</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Crianza</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Dorado</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Fino</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Fondillón</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Gran reserva</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Lágrima</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Noble</td><td>g.U./g.g.A</td><td>Spanisch</td></tr>
+<tr><td>Oloroso</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Pajarete</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Pálido</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Palo Cortado</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Primero de Cosecha</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Rancio</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Raya</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Reserva</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Sobremadre</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Solera</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Superior</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Trasañejo</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Vino Maestro</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Vendimia Inicial</td><td>g.U.</td><td>Spanisch</td></tr>
+<tr><td>Viejo</td><td>g.U./g.g.A</td><td>Spanisch</td></tr>
+<tr><td>Vino de Tea</td><td>g.U.</td><td>Spanisch</td></tr>
+</table>
 
 ### Frankreich
 
@@ -4626,7 +4503,7 @@ Bâtard-Montrachet
 
 Béarn, *gegebenenfalls gefolgt von* Bellocq
 
-Beaujolais, *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Ei**n**heit, gegebenenfalls gefolgt von* «Villages», *gegebenenfalls gefolgt von* «Supérieur»
+Beaujolais, *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Einheit, gegebenenfalls gefolgt von* «Villages», *gegebenenfalls gefolgt von* «Supérieur»
 
 Beaune
 
@@ -4698,7 +4575,7 @@ Bouzeron
 
 Brouilly
 
-Bugey, *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Ei**n**heit, gegebenenfalls unter Voranstellung von* «Vins du», «Mousseux du», «Pétillant» *oder* «Roussette du», *oder* *gegebenenfalls gefolgt von* «Mousseux» *oder* «Pétillant», *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Einheit*
+Bugey, *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Einheit, gegebenenfalls unter Voranstellung von* «Vins du», «Mousseux du», «Pétillant» *oder* «Roussette du», *oder* *gegebenenfalls gefolgt von* «Mousseux» *oder* «Pétillant», *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Einheit*
 
 Buzet
 
@@ -4742,7 +4619,7 @@ Chablis, *gegebenenfalls gefolgt von* Côte de Léchet, *gegebenenfalls gefolgt 
 
 Chablis, *gegebenenfalls gefolgt von* Côte de Savant, *gegebenenfalls gefolgt von* «premier cru»
 
-Chablis, *gegebenenfalls gefolgt von* Côte de Vaubarousse, *gegebenenfalls g**e**folgt von* «premier cru»
+Chablis, *gegebenenfalls gefolgt von* Côte de Vaubarousse, *gegebenenfalls gefolgt von* «premier cru»
 
 Chablis, *gegebenenfalls gefolgt von* Côte des Prés Girots, *gegebenenfalls gefolgt von* «premier cru»
 
@@ -4856,7 +4733,7 @@ Clairette de Bellegarde
 
 Clairette de Die
 
-Clairette de Languedoc, *gegebenenfalls gefolgt vom Namen* *einer kleineren geogr**a**fischen Einheit*
+Clairette de Languedoc, *gegebenenfalls gefolgt vom Namen* *einer kleineren geografischen Einheit*
 
 Clos de la Roche
 
@@ -4884,7 +4761,7 @@ Corse, *gegebenenfalls gefolgt von* Coteaux du Cap Corse, *gegebenenfalls unter 
 
 Corse, *gegebenenfalls gefolgt von* Figari, *gegebenenfalls unter Voranstellung von* «Vin de»
 
-Corse, *gegebenenfalls gefolgt von* Porto-Vecchio, *gegebenenfalls unter Voranste**l**lung von* «Vin de»
+Corse, *gegebenenfalls gefolgt von* Porto-Vecchio, *gegebenenfalls unter Voranstellung von* «Vin de»
 
 Corse, *gegebenenfalls gefolgt von* Sartène, *gegebenenfalls unter Voranstellung von* «Vin de»
 
@@ -4906,7 +4783,7 @@ Côte roannaise
 
 Côte Rôtie
 
-Coteaux champenois, *gegebenenfalls gefolgt vom* *Namen einer kleineren geograf**i**schen Einheit*
+Coteaux champenois, *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Einheit*
 
 Coteaux d’Aix-en-Provence
 
@@ -4942,7 +4819,7 @@ Coteaux du Languedoc, *gegebenenfalls gefolgt von* Saint-Saturnin
 
 Coteaux du Languedoc, *gegebenenfalls gefolgt von* Pic-Saint-Loup
 
-Coteaux du Layon, *gegebenenfalls gefolgt von* Val de Loire, *gegebenenfalls g**e**folgt vom* *Namen einer kleineren geografischen Einheit*
+Coteaux du Layon, *gegebenenfalls gefolgt von* Val de Loire, *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Einheit*
 
 Coteaux du Layon Chaume, *gegebenenfalls gefolgt von* Val de Loire
 
@@ -5008,7 +4885,7 @@ Côtes du Rhône
 
 Côtes du Roussillon, *gegebenenfalls gefolgt von* Les Aspres
 
-Côtes du Roussillon Villages, *gegebenenfalls gefolgt vom* *Namen einer klein**e**ren geografischen Einheit*
+Côtes du Roussillon Villages, *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Einheit*
 
 Côtes du Ventoux
 
@@ -5118,7 +4995,7 @@ Ladoix, *gegebenenfalls gefolgt von* «Côte de Beaune» *oder* «Côte de Beaun
 
 Lalande de Pomerol
 
-Languedoc, *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Ei**n**heit*
+Languedoc, *gegebenenfalls gefolgt vom* *Namen einer kleineren geografischen Einheit*
 
 Languedoc Grès de Montpellier
 
@@ -5146,7 +5023,7 @@ Loupiac
 
 Lussac-Saint-Émilion
 
-Mâcon, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit, gegebenenfalls gefolgt von* «Supérieur» *oder* «Villages»
+Mâcon, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit, gegebenenfalls gefolgt von* «Supérieur» *oder* «Villages»
 
 *Gleichwertige Angabe*: Pinot-Chardonnay-Mâcon
 
@@ -5168,7 +5045,7 @@ Maranges, *gegebenenfalls gefolgt von* Le Clos des Rois
 
 Maranges, *gegebenenfalls gefolgt von* Les Clos Roussots
 
-Maranges, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit, gegebenenfalls gefolgt von* «Côte de Beaune» *oder* «Côte de Beaune-Villages»
+Maranges, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit, gegebenenfalls gefolgt von* «Côte de Beaune» *oder* «Côte de Beaune-Villages»
 
 Marcillac
 
@@ -5184,7 +5061,7 @@ Mazoyères-Chambertin
 
 Médoc
 
-Menetou-Salon, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit, gegebenenfalls gefolgt von* Val de Loire
+Menetou-Salon, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit, gegebenenfalls gefolgt von* Val de Loire
 
 Mercurey
 
@@ -5202,7 +5079,7 @@ Montagny
 
 Monthélie, *gegebenenfalls gefolgt von* «Côte de Beaune» *oder* «Côte de Beaune-Villages»
 
-Montlouis-sur-Loire, *gegebenenfalls gefolgt von* Val de Loire, *gegebenenfalls g**e**folgt von* «mousseux» *oder* «pétillant»
+Montlouis-sur-Loire, *gegebenenfalls gefolgt von* Val de Loire, *gegebenenfalls gefolgt von* «mousseux» *oder* «pétillant»
 
 Montrachet
 
@@ -5284,7 +5161,7 @@ Pouilly-Vinzelles
 
 Premières Côtes de Blaye
 
-Premières Côtes de Bordeaux, *gegebenenfalls gefolgt vom Namen einer klein**e**ren geografischen Einheit*
+Premières Côtes de Bordeaux, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Puisseguin-Saint-Emilion
 
@@ -5302,7 +5179,7 @@ Reuilly, *gegebenenfalls gefolgt von* Val de Loire
 
 Richebourg
 
-Rivesaltes, *gegebenenfalls gefolgt von* «Rancio», *gegebenenfalls unter Voranste**l**lung von* «Muscat»
+Rivesaltes, *gegebenenfalls gefolgt von* «Rancio», *gegebenenfalls unter Voranstellung von* «Muscat»
 
 Romanée (La)
 
@@ -5318,7 +5195,7 @@ Rosé des Riceys
 
 Rosette
 
-Roussette de Savoie, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit*
+Roussette de Savoie, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Ruchottes-Chambertin
 
@@ -5754,67 +5631,40 @@ Yonne
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Appellation contrôlée g.U. Französisch
-
-Appellation d’origine contrôlée g.U. Französisch
-
-Appellation d’origine Vin Délimité
-
-de qualité supérieure g.U. Französisch
-
-Vin doux naturel g.U. Französisch
-
-Vin de pays g.g.A Französisch
+<table>
+<tr><td>Appellation contrôlée</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Appellation d’origine contrôlée</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Appellation d’origine Vin Délimité de qualité supérieure</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Vin doux naturel</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Vin de pays</td><td>g.g.A</td><td>Französisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Ambré g.U. Französisch
-
-Clairet g.U. Französisch
-
-Claret g.U. Französisch
-
-Tuilé g.U. Französisch
-
-Vin jaune g.U. Französisch
-
-Château g.U. Französisch
-
-Clos g.U. Französisch
-
-Cru artisan g.U. Französisch
-
-Cru bourgeois g.U. Französisch
-
-Cru classé, *gegebenenfalls g**e**folgt von*
-
-Grand, Premier Grand, Deuxième,
-
-Troisième, Quatrième, Cinquième g.U. Französisch
-
-Edelzwicker g.U. Französisch
-
-Grand cru g.U. Französisch
-
-Hors d’âge g.U. Französisch
-
-Passe-tout-grains g.U. Französisch
-
-Premier Cru g.U. Französisch
-
-Primeur g.U./g.g.A Französisch
-
-Rancio g.U. Französisch
-
-Sélection de grains nobles g.U. Französisch
-
-Sur lie g.U./g.g.A Französisch
-
-Vendanges tardives g.U. Französisch
-
-Villages g.U. Französisch
-
-Vin de paille g.U. Französisch
+<table>
+<tr><td>Ambré</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Clairet</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Claret</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Tuilé</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Vin jaune</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Château</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Clos</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Cru artisan</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Cru bourgeois</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Cru classé, *gegebenenfalls gefolgt von* Grand, Premier Grand, Deuxième, Troisième, Quatrième, Cinquième</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Edelzwicker</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Grand cru</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Hors d’âge</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Passe-tout-grains</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Premier Cru</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Primeur</td><td>g.U./g.g.A</td><td>Französisch</td></tr>
+<tr><td>Rancio</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Sélection de grains nobles</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Sur lie</td><td>g.U./g.g.A</td><td>Französisch</td></tr>
+<tr><td>Vendanges tardives</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Villages</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Vin de paille</td><td>g.U.</td><td>Französisch</td></tr>
+</table>
 
 ### Italien
 
@@ -6646,7 +6496,7 @@ Terracina
 
 *Gleichwertige Angabe:* Moscato di Terracina
 
-Terratico di Bibbona, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit*
+Terratico di Bibbona, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Terre dell’Alta Val d’Agri
 
@@ -7044,151 +6894,80 @@ Vigneti delle Dolomiti
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-D.O.C g.U. Italienisch
-
-D.O.C.G. g.U. Italienisch
-
-Denominazione di Origine Controllata
-
-e Garantita g.U. Italienisch
-
-Denominazione di Origine Controllata g.U. Italienisch
-
-Kontrollierte und garantierte
-
-Ursprungsbezeichnung g.U. Deutsch
-
-Kontrollierte Ursprungsbezeichnung g.U. Deutsch
-
-Vino Dolce Naturale g.U. Italienisch
-
-Inticazione geografica tipica (IGT) g.g.A Italienisch
-
-Landwein g.g.A Deutsch
-
-Vin de pays g.g.A Französisch
+<table>
+<tr><td>D.O.C</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>D.O.C.G.</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Denominazione di Origine Controllata e Garantita</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Denominazione di Origine Controllata</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Kontrollierte und garantierte Ursprungsbezeichnung</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Kontrollierte Ursprungsbezeichnung</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Vino Dolce Naturale</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Inticazione geografica tipica (IGT)</td><td>g.g.A</td><td>Italienisch</td></tr>
+<tr><td>Landwein</td><td>g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Vin de pays</td><td>g.g.A</td><td>Französisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Alberata *oder* vigneti ad alberata g.U. Italienisch
-
-Amarone g.U. Italienisch
-
-Ambra g.U. Italienisch
-
-Ambrato g.U. Italienisch
-
-Annoso g.U. Italienisch
-
-Apianum g.U. Italienisch
-
-Auslese g.U. Italienisch
-
-Buttafuoco g.U. Italienisch
-
-Cannellino g.U. Italienisch
-
-Cerasuolo g.U. Italienisch
-
-Chiaretto g.U./g.g.A Italienisch
-
-Ciaret g.U. Italienisch
-
-Château g.U. Französisch
-
-Classico g.U. Italienisch
-
-Dunkel g.U. Deutsch
-
-Fine g.U. Italienisch
-
-Fior d’Arancio g.U. Italienisch
-
-Flétri g.U. Französisch
-
-Garibaldi Dolce (*oder* GD) g.U. Italienisch
-
-Governo all’uso toscano g.U./g.g.A Italienisch
-
-Gutturnio g.U. Italienisch
-
-Italia Particolare (*oder* IP) g.U. Italienisch
-
-Klassisch/Klassisches Ursprungsgebiet g.U. Deutsch
-
-Kretzer g.U. Deutsch
-
-Lacrima g.U. Italienisch
-
-Lacryma Christi g.U. Italienisch
-
-Lambiccato g.U. Italienisch
-
-London Particolar (*oder* LP *oder*
-
-Inghilterra) g.U. Italienisch
-
-Occhio di Pernice g.U. Italienisch
-
-Oro g.U. Italienisch
-
-Passito *oder* Vino passito *oder*
-
-Vino Passito Liquoroso g.U./g.g.A Italienisch
-
-Ramie g.U. Italienisch
-
-Rebola g.U. Italienisch
-
-Recioto g.U. Italienisch
-
-Riserva g.U. Italienisch
-
-Rubino g.U. Italienisch
-
-Sangue di Giuda g.U. Italienisch
-
-Scelto g.U. Italienisch
-
-Sciacchetrà g.U. Italienisch
-
-Sciac-trà g.U. Italienisch
-
-Spätlese g.U./g.g.A Deutsch
-
-Soleras g.U. Italienisch
-
-Stravecchio g.U. Italienisch
-
-Strohwein g.U./g.g.A Deutsch
-
-Superiore g.U. Italienisch
-
-Superiore Old Marsala g.U. Italienisch
-
-Torchiato g.U. Italienisch
-
-Torcolato g.U. Italienisch
-
-Vecchio g.U. Italienisch
-
-Vendemmia Tardiva g.U./g.g.A Italienisch
-
-Verdolino g.U. Italienisch
-
-Vergine g.U. Italienisch
-
-Vermiglio g.U. Italienisch
-
-Vino Fiore g.U. Italienisch
-
-Vino Novello *oder* Novello g.U./g.g.A Italienisch
-
-Vin Santo *oder* Vino Santo *oder*
-
-Vinsanto g.U. Italienisch
-
-Vivace g.U./g.g.A Italienisch
+<table>
+<tr><td>Alberata *oder* vigneti ad alberata</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Amarone</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Ambra</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Ambrato</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Annoso</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Apianum</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Auslese</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Buttafuoco</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Cannellino</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Cerasuolo</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Chiaretto</td><td>g.U./g.g.A</td><td>Italienisch</td></tr>
+<tr><td>Ciaret</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Château</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Classico</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Dunkel</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Fine</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Fior d’Arancio</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Flétri</td><td>g.U.</td><td>Français</td></tr>
+<tr><td>Garibaldi Dolce (*oder* GD)</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Governo all’uso toscano</td><td>g.U./g.g.A</td><td>Italienisch</td></tr>
+<tr><td>Gutturnio</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Italia Particolare (*oder* IP)</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Klassisch/Klassisches Ursprungsgebiet</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Kretzer</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Lacrima</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Lacryma Christi</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Lambiccato</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>London Particolar (*oder* LP *oder* Inghilterra)</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Occhio di Pernice</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Oro</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Passito *oder* Vino passito *oder* Vino Passito Liquoroso</td><td>g.U./g.g.A</td><td>Italienisch</td></tr>
+<tr><td>Ramie</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Rebola</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Recioto</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Riserva</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Rubino</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Sangue di Giuda</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Scelto</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Sciacchetrà</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Sciac-trà</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Spätlese</td><td>g.U./g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Soleras</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Stravecchio</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Strohwein</td><td>g.U./g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Superiore</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Superiore Old Marsala</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Torchiato</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Torcolato</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Vecchio</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Vendemmia Tardiva</td><td>g.U./g.g.A</td><td>Italienisch</td></tr>
+<tr><td>Verdolino</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Vergine</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Vermiglio</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Vino Fiore</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Vino Novello *oder* Novello</td><td>g.U./g.g.A</td><td>Italienisch</td></tr>
+<tr><td>Vin Santo *oder* Vino Santo *oder* Vinsanto</td><td>g.U.</td><td>Italienisch</td></tr>
+<tr><td>Vivace</td><td>g.U./g.g.A</td><td>Italienisch</td></tr>
+</table>
 
 ### Zypern
 
@@ -7206,7 +6985,7 @@ Vivace g.U./g.g.A Italienisch
 
 *Gleichwertige Angabe:* Krasohoria Lemesou – Afames
 
-Κρασοχώρια Λεμεσού, *gegebenenfa**lls gefolgt von* Λαόνα
+Κρασοχώρια Λεμεσού, *gegebenenfalls gefolgt von* Λαόνα
 
 *Gleichwertige Angabe:* Krasohoria Lemesou – Laona
 
@@ -7226,7 +7005,7 @@ Vivace g.U./g.g.A Italienisch
 
 Λεμεσός
 
-*Gleichw**ertige* *Angabe*: Lemesos
+*Gleichwertige* *Angabe*: Lemesos
 
 Λευκωσία
 
@@ -7238,39 +7017,20 @@ Vivace g.U./g.g.A Italienisch
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Οίνος γλυκύς φυσικός g.U. Griechisch
-
-Οίνος Ελεγχόμενης Ονομασίας
-
-Προέλευσης (ΟΕΟΠ) g.U. Griechisch
-
-Τοπικός Οίνος g.g.A Griechisch
+<table>
+<tr><td>Οίνος γλυκύς φυσικός</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Οίνος Ελεγχόμενης Ονομασίας Προέλευσης (ΟΕΟΠ)</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Τοπικός Οίνος</td><td>g.g.A</td><td>Griechisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Αμπελώνας (-ες)
-
-*(Ampelonas (-es))*
-
-(Vineyard(-s)) g.U./g.g.A Griechisch
-
-Κτήμα
-
-(Ktima)
-
-(Domain) g.U./g.g.A Griechisch
-
-Μοναστήρι
-
-(Monastiri)
-
-(Monastery) g.U./g.g.A Griechisch
-
-Μονή
-
-(Moni)
-
-(Monastery) g.U./g.g.A Griechisch
+<table>
+<tr><td>Αμπελώνας (-ες) (Ampelonas (-es)) (Vineyard(-s))</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Κτήμα (Ktima) (Domain)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Μοναστήρι (Monastiri) (Monastery)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+<tr><td>Μονή (Moni) (Monastery)</td><td>g.U./g.g.A</td><td>Griechisch</td></tr>
+</table>
 
 ### Luxemburg
 
@@ -7288,27 +7048,20 @@ Moselle Luxembourgeoise, *gefolgt vom Namen der Rebsorte, gefolgt von* Appellati
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Crémant de Luxembourg g.U. Französisch
-
-Marque nationale, *gefolgt von:*
-
-– appellation contrôlée
-
-– appellation d’origine contrôlée g.U. Französisch
+<table>
+<tr><td>Crémant de Luxembourg</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Marque nationale, gefolgt von: – appellation contrôlée – appellation d’origine contrôlée</td><td>g.U.</td><td>Französisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG Nr. 1234/2007 des Rates)
 
-Château g.U. Französisch
-
-Grand premier cru
-
-Premier cru
-
-Vin classé g.U. Französisch
-
-Vendanges tardives g.U. Französisch
-
-Vin de glace g.U. Französisch
+<table>
+<tr><td>Château</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Grand premier cru Premier cru Vin classé</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Vendanges tardives</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Vin de glace</td><td>g.U.</td><td>Französisch</td></tr>
+<tr><td>Vin de paille</td><td>g.U.</td><td>Französisch</td></tr>
+</table>
 
 Vin de paille g.U. Französisch
 
@@ -7324,7 +7077,7 @@ Balaton-felvidék*, gegebenenfalls gefolgt vom Namen der Teilregion, der Gemeind
 
 Balatonboglár*, gegebenenfalls gefolgt vom Namen der Teilregion, der Gemeinde oder des Weinguts*
 
-Balatonfüred-Csopak*, gegebenenfalls gefolgt vom Namen der Teilr**egion, der G**e**meinde oder des Weinguts*
+Balatonfüred-Csopak*, gegebenenfalls gefolgt vom Namen der Teilregion, der Gemeinde oder des Weinguts*
 
 Balatoni
 
@@ -7336,7 +7089,7 @@ Debrői Hárslevelű
 
 Duna
 
-Eger*, gege**benenfalls gefolgt vom Namen der Teilregion, der Gemeinde oder des Weinguts*
+Eger*, gegebenenfalls gefolgt vom Namen der Teilregion, der Gemeinde oder des Weinguts*
 
 Egerszóláti Olaszrizling
 
@@ -7392,9 +7145,9 @@ Zala*, gegebenenfalls gefolgt vom Namen der Teilregion, der Gemeinde oder des We
 
 ### Weine mit geschützter geografischer Angabe
 
-Alföldi, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Alföldi, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Balatonmelléki, *gegebenenfal**ls gefolgt vom Namen einer kleineren geograf**i**schen Einheit*
+Balatonmelléki, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Dél-alföldi
 
@@ -7420,35 +7173,27 @@ Zempléni
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-minőségi bor g.U. Ungarisch
-
-védett eredetű bor g.U. Ungarisch
-
-Tájbor g.g.A Ungarisch
+<table>
+<tr><td>minőségi bor</td><td>g.U.</td><td>Ungarisch</td></tr>
+<tr><td>védett eredetű bor</td><td>g.U.</td><td>Ungarisch</td></tr>
+<tr><td>Tájbor</td><td>g.g.A</td><td>Ungarisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Aszú (3)(4)(5)(6) puttonyos g.U. Ungarisch
-
-Aszúeszencia g.U. Ungarisch
-
-Bikavér g.U. Ungarisch
-
-Eszencia g.U. Ungarisch
-
-Fordítás g.U. Ungarisch
-
-Máslás g.U. Ungarisch
-
-Késői szüretelésű bor g.U./g.g.A Ungarisch
-
-Válogatott szüretelésű bor g.U./g.g.A Ungarisch
-
-Muzeális bor g.U./g.g.A Ungarisch
-
-Siller g.U./g.g.A Ungarisch
-
-Szamorodni g.U. Ungarisch
+<table>
+<tr><td>Aszú (3)(4)(5)(6) puttonyos</td><td>g.U.</td><td>Ungarisch</td></tr>
+<tr><td>Aszúeszencia</td><td>g.U.</td><td>Ungarisch</td></tr>
+<tr><td>Bikavér</td><td>g.U.</td><td>Ungarisch</td></tr>
+<tr><td>Eszencia</td><td>g.U.</td><td>Ungarisch</td></tr>
+<tr><td>Fordítás</td><td>g.U.</td><td>Ungarisch</td></tr>
+<tr><td>Máslás</td><td>g.U.</td><td>Ungarisch</td></tr>
+<tr><td>Késői szüretelésű bor</td><td>g.U./g.g.A</td><td>Ungarisch</td></tr>
+<tr><td>Válogatott szüretelésű bor</td><td>g.U./g.g.A</td><td>Ungarisch</td></tr>
+<tr><td>Muzeális bor</td><td>g.U./g.g.A</td><td>Ungarisch</td></tr>
+<tr><td>Siller</td><td>g.U./g.g.A</td><td>Ungarisch</td></tr>
+<tr><td>Szamorodni</td><td>g.U.</td><td>Ungarisch</td></tr>
+</table>
 
 ### Malta
 
@@ -7464,11 +7209,10 @@ Maltese Islands
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Denominazzjoni ta’ Oriġini Kontrollata
-
-(D.O.K.) g.U. Maltesisch
-
-Indikazzjoni Ġeografika Tipika (I.Ġ.T.) g.g.A Maltesisch
+<table>
+<tr><td>Denominazzjoni ta’ Oriġini Kontrollata (D.O.K.)</td><td>g.U.</td><td>Maltesisch</td></tr>
+<tr><td>Indikazzjoni Ġeografika Tipika (I.Ġ.T.)</td><td>g.g.A</td><td>Maltesisch</td></tr>
+</table>
 
 ### Niederlande
 
@@ -7500,7 +7244,9 @@ Zuid Holland
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Landwijn g.g.A Niederländisch
+<table>
+<tr><td>Landwijn</td><td>g.g.A</td><td>Niederländisch</td></tr>
+</table>
 
 ### Österreich
 
@@ -7508,31 +7254,31 @@ Landwijn g.g.A Niederländisch
 
 Burgenland*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Carnuntum*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Carnuntum*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Kamptal*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Kärnten*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Kremstal*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Kremstal*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Leithaberg*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Leithaberg*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Mittelburgenland*, gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit*
+Mittelburgenland*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Neusiedlersee*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Neusiedlersee-Hügelland*, gegebenenfalls gefolgt vom Namen einer kleineren ge**o**grafischen Einheit*
+Neusiedlersee-Hügelland*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Niederösterreich*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Oberösterreich*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Salzburg*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Salzburg*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Steirermark*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Süd-Oststeiermark*, gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit*
+Süd-Oststeiermark*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Südburgenland*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
@@ -7542,13 +7288,13 @@ Thermenregion*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen E
 
 Tirol*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Traisental*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Traisental*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Vorarlberg*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Vorarlberg*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Wachau*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
-Wagram*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit*
+Wagram*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
 Weinviertel*, gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit*
 
@@ -7568,49 +7314,28 @@ Wien
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Prädikatswein *oder* Qualitätswein g.U. Deutsch besonderer Reife und Leseart,
-
-gegebenenfalls gefolgt von:
-
-- – Ausbruch/Ausbruchwein
-- – Auslese/Auslesewein
-- – Beerenauslese/Beerenauslesewein
-- – Kabinett/Kabinettwein
-- – Schilfwein
-- – Spätlese/Spätlesewein
-- – Strohwein
-- – Trockenbeerenauslese
-- – Eiswein
-
-DAC g.U. Lateinisch
-
-Districtus Austriae Controllatus g.U. Lateinisch
-
-Qualitätswein oder Qualitätswein mit staatlicher Prüfnummer g.U. Deutsch
-
-Landwein g.g.A Deutsch
+<table>
+<tr><td>Prädikatswein *oder* Qualitätswein besonderer Reife und Leseart, *gegebenenfalls gefolgt von*: – Ausbruch/Ausbruchwein – Auslese/Auslesewein – Beerenauslese/Beerenauslesewein – Kabinett/Kabinettwein – Schilfwein – Spätlese/Spätlesewein – Strohwein – Trockenbeerenauslese – Eiswein</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>DAC</td><td>g.U.</td><td>Lateinisch</td></tr>
+<tr><td>Districtus Austriae Controllatus</td><td>g.U.</td><td>Lateinisch</td></tr>
+<tr><td>Qualitätswein oder Qualitätswein mit staatlicher Prüfnummer</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Landwein</td><td>g.g.A</td><td>Deutsch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Ausstich g.U./g.g.A Deutsch
-
-Auswahl g.U./g.g.A Deutsch
-
-Bergwein g.U./g.g.A Deutsch
-
-Klassik/Classic g.U. Deutsch
-
-Heuriger g.U./g.g.A Deutsch
-
-Gemischter Satz g.U./g.g.A Deutsch
-
-Jubiläumswein g.U./g.g.A Deutsch
-
-Reserve g.U. Deutsch
-
-Schilcher g.U./g.g.A Deutsch
-
-Sturm g.g.A Deutsch
+<table>
+<tr><td>Ausstich</td><td>g.U./g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Auswahl</td><td>g.U./g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Bergwein</td><td>g.U./g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Klassik/Classic</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Heuriger</td><td>g.U./g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Gemischter Satz</td><td>g.U./g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Jubiläumswein</td><td>g.U./g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Reserve</td><td>g.U.</td><td>Deutsch</td></tr>
+<tr><td>Schilcher</td><td>g.U./g.g.A</td><td>Deutsch</td></tr>
+<tr><td>Sturm</td><td>g.g.A</td><td>Deutsch</td></tr>
+</table>
 
 ### Portugal
 
@@ -7816,73 +7541,48 @@ Vinho Regional Transmontano
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Denominação de origem g.U. Portugiesisch
-
-Denominação de origem controlada g.U. Portugiesisch
-
-DO g.U. Portugiesisch
-
-DOC g.U. Portugiesisch
-
-Indicação de proveniência regulamentada g.g.A Portugiesisch
-
-IPR g.g.A Portugiesisch
-
-Vinho doce natural g.U. Portugiesisch
-
-Vinho generoso g.U. Portugiesisch
-
-Vinho regional g.g.A Portugiesisch
+<table>
+<tr><td>Denominação de origem</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Denominação de origem controlada</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>DO</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>DOC</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Indicação de proveniência regulamentada</td><td>g.g.A</td><td>Portugiesisch</td></tr>
+<tr><td>IPR</td><td>g.g.A</td><td>Portugiesisch</td></tr>
+<tr><td>Vinho doce natural</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Vinho generoso</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Vinho regional</td><td>g.g.A</td><td>Portugiesisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Canteiro g.U. Portugiesisch
-
-Colheita Seleccionada g.U. Portugiesisch
-
-Crusted/Crusting g.U. Englisch
-
-Escolha g.U. Portugiesisch
-
-Escuro g.U. Portugiesisch
-
-Fino g.U. Portugiesisch
-
-Frasqueira g.U. Portugiesisch
-
-Garrafeira g.U./g.g.A Portugiesisch
-
-Lágrima g.U. Portugiesisch
-
-Leve g.U. Portugiesisch
-
-Nobre g.U. Portugiesisch
-
-Reserva g.U. Portugiesisch
-
-Velha reserva (*oder* grande reserva) g.U. Portugiesisch
-
-Ruby g.U. Englisch
-
-Solera g.U. Portugiesisch
-
-Super reserva g.U. Portugiesisch
-
-Superior g.U. Portugiesisch
-
-Tawny g.U. Englisch
-
-Vintage, *gegebenenfalls g**e**folgt von* Late
-
-Bottle (LBV) *oder* Character g.U. Englisch
-
-Vintage g.U. Englisch
+<table>
+<tr><td>Canteiro</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Colheita Seleccionada</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Crusted/Crusting</td><td>g.U.</td><td>Englisch</td></tr>
+<tr><td>Escolha</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Escuro</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Fino</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Frasqueira</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Garrafeira</td><td>g.U./g.g.A</td><td>Portugiesisch</td></tr>
+<tr><td>Lágrima</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Leve</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Nobre</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Reserva</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Velha reserva (*oder* grande reserva)</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Ruby</td><td>g.U.</td><td>Englisch</td></tr>
+<tr><td>Solera</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Super reserva</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Superior</td><td>g.U.</td><td>Portugiesisch</td></tr>
+<tr><td>Tawny</td><td>g.U.</td><td>Englisch</td></tr>
+<tr><td>Vintage, *gegebenenfalls gefolgt von* Late Bottle (LBV) *oder* Character</td><td>g.U.</td><td>Englisch</td></tr>
+<tr><td>Vintage</td><td>g.U.</td><td>Englisch</td></tr>
+</table>
 
 ### Rumänien
 
 ### Weine mit geschützter Ursprungsbezeichnung
 
-Aiud, *gegebenenfalls gefol**gt vom Namen der Teilregion*
+Aiud, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
 Alba Iulia, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
@@ -7892,7 +7592,7 @@ Banat, *gegebenenfalls gefolgt von* Dealurile Tirolului
 
 Banat, *gegebenenfalls gefolgt von* Moldova Nouă
 
-Banat, *geg**ebenenfalls gefolgt von* Silagiu
+Banat, *gegebenenfalls gefolgt von* Silagiu
 
 Banu Mărăcine, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
@@ -7900,7 +7600,7 @@ Bohotin, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
 Cernăteşti – Podgoria, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
-Coteşti, *gegebenenfalls gefolgt v**om Namen der Teilregion*
+Coteşti, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
 Cotnari
 
@@ -7912,7 +7612,7 @@ Crişana, *gegebenenfalls gefolgt von* Şimleu Silvaniei
 
 Dealu Bujorului, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
-Dealu Mare, *gegeben**enfalls gefolgt von* Boldeşti
+Dealu Mare, *gegebenenfalls gefolgt von* Boldeşti
 
 Dealu Mare, *gegebenenfalls gefolgt von* Breaza
 
@@ -7932,7 +7632,7 @@ Drăgăşani, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
 Huşi, *gegebenenfalls gefolgt von* Vutcani
 
-Iana, *gegebenenfalls gefolgt vom Namen der Teilr**egion*
+Iana, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
 Iaşi, *gegebenenfalls gefolgt von* Bucium
 
@@ -7944,7 +7644,7 @@ Lechinţa, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
 Mehedinţi, *gegebenenfalls gefolgt von* Corcova
 
-Mehedinţi, *gegebenenfalls* *gefolgt von* Golul Drâncei
+Mehedinţi, *gegebenenfalls gefolgt von* Golul Drâncei
 
 Mehedinţi, *gegebenenfalls gefolgt von* Oreviţa
 
@@ -7954,7 +7654,7 @@ Mehedinţi, *gegebenenfalls gefolgt von* Vânju Mare
 
 Miniş, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
-Murfatlar, *gegebenenfalls gefolgt* *von* Cernavodă
+Murfatlar, *gegebenenfalls gefolgt von* Cernavodă
 
 Murfatlar, *gegebenenfalls gefolgt von* Medgidia
 
@@ -7964,7 +7664,7 @@ Odobeşti, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
 Oltina, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
-Panciu, *gegebenenfalls* *gefolgt vom Namen der Teilregion*
+Panciu, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
 Pietroasa, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
@@ -7992,7 +7692,7 @@ Colinele Dobrogei, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
 Dealurile Crişanei, *gegebenenfalls gefolgt vom Namen der Teilregion*
 
-Dealurile Moldovei *oder gegebenen**falls* Dealurile Covurluiului
+Dealurile Moldovei *oder gegebenenfalls* Dealurile Covurluiului
 
 Dealurile Moldovei *oder gegebenenfalls* Dealurile Hârlăului
 
@@ -8026,21 +7726,18 @@ Viile Timişului
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Vin cu denumire de origine controlată g.U. Rumänisch (D.O.C.), gefolgt von:
-
-- – Cules la maturitate deplină – C.M.D.
-- – Cules târziu – C.T.
-- – Cules la înnobilarea boabelor – C.I.B.
-
-Vin spumant cu denumire de origine controlată – D.O.C. g.U. Rumänisch
-
-Vin cu indicaţie geografică g.g.A Rumänisch
+<table>
+<tr><td>Vin cu denumire de origine controlată (D.O.C.), *gefolgt von*: – Cules la maturitate deplină – C.M.D. – Cules târziu – C.T. – Cules la înnobilarea boabelor – C.I.B.</td><td>g.U.</td><td>Rumänisch</td></tr>
+<tr><td>Vin spumant cu denumire de origine controlată – D.O.C.</td><td>g.U.</td><td>Rumänisch</td></tr>
+<tr><td>Vin cu indicaţie geografică</td><td>g.g.A</td><td>Rumänisch</td></tr>
+</table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Rezervă g.U./g.g.A Rumänisch
-
-Vin de vinotecă g.U. Rumänisch
+<table>
+<tr><td>Rezervă</td><td>g.U./g.g.A</td><td>Rumänisch</td></tr>
+<tr><td>Vin de vinotecă</td><td>g.U.</td><td>Rumänisch</td></tr>
+</table>
 
 ### Slowenien
 
@@ -8048,17 +7745,17 @@ Vin de vinotecă g.U. Rumänisch
 
 Bela krajina, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
-Belokranjec, *gegebenenfalls gefolgt vom Namen einer kleineren g**eografischen Einheit und/oder einer Einzellage*
+Belokranjec, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
-Bizeljčan, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit und/oder einer Einzellage*
+Bizeljčan, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
-Bizeljsko-Sremič, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit und/oder ein**er Einzellage*
+Bizeljsko-Sremič, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
 *Gleichwertige Angabe*: Sremič-Bizeljsko
 
-Cviček, Dolenjska, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit und/oder einer Einzellage*
+Cviček, Dolenjska, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
-Dolenjska, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit und/o**der einer Einzellage*
+Dolenjska, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
 Goriška Brda, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
@@ -8066,19 +7763,19 @@ Goriška Brda, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen E
 
 Kras, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
-Metliška črnina, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit und/oder einer Einzellage*
+Metliška črnina, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
-Prekmurje, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Ei**n**heit und/oder einer Einzellage*
+Prekmurje, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
 *Gleichwertige Angabe*: Prekmurčan
 
-Slovenska Istra, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit und/oder einer Einzellage*
+Slovenska Istra, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
-Štajerska Slovenija, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit und/oder einer Einzellage*
+Štajerska Slovenija, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
 Teran, Kras, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
-Vipavska dolina, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**schen Einheit und/oder einer Einzellage*
+Vipavska dolina, *gegebenenfalls gefolgt vom Namen einer kleineren geografischen Einheit und/oder einer Einzellage*
 
 *Gleichwertige Angabe:* Vipava, Vipavec, Vipavčan
 
@@ -8086,25 +7783,27 @@ Vipavska dolina, *gegebenenfalls gefolgt vom Namen einer kleineren geograf**i**s
 
 Podravje, *auch gefolgt von dem Begriff «mlado vino»; die Namen können auch in Adjektivform verwendet werden*
 
-Posavje, *auch gefolgt von dem Begriff «mlado vino»; die Namen können auch in Adjektivform* *verwendet werden*
+Posavje, *auch gefolgt von dem Begriff «mlado vino»; die Namen können auch in Adjektivform verwendet werden*
 
 Primorska, *auch gefolgt von dem Begriff «mlado vino»; die Namen können auch in Adjektivform verwendet werden*
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
 <table>
-<tr><td>Kakovostno vino z zaščitenim geografskim poreklom (kakovostno vino ZGP), *gegebenenfalls g**e**folgt von* Mlado vino</td><td>g.U.</td><td>Slowenisch</td></tr>
+<tr><td>Kakovostno vino z zaščitenim geografskim poreklom (kakovostno vino ZGP), *gegebenenfalls gefolgt von* Mlado vino</td><td>g.U.</td><td>Slowenisch</td></tr>
 <tr><td>Kakovostno peneče vino z zaščitenim geografskim poreklom (Kakovostno vino ZGP)</td><td>g.U.</td><td>Slowenisch</td></tr>
 <tr><td>Penina</td><td>g.U.</td><td>Slowenisch</td></tr>
 <tr><td>Vino s priznanim tradicionalnim poimenovanjem (vino PTP)</td><td>g.U.</td><td>Slowenisch</td></tr>
 <tr><td>Renome</td><td>g.U.</td><td>Slowenisch</td></tr>
-<tr><td>Vrhunsko vino z zaščitenim geografskim poreklom (vrhunsko vino ZGP), *gegebenenfalls g**e**folgt von:* – Pozna trgatev – Izbor – Jagodni izbor – Suhi jagodni izbor – Ledeno vino – Arhivsko vino (Arhiva) – Slamnovino (vino iz sušenega grozdja)</td><td>g.U.</td><td>Slowenisch</td></tr>
+<tr><td>Vrhunsko vino z zaščitenim geografskim poreklom (vrhunsko vino ZGP), *gegebenenfalls gefolgt von*: – Pozna trgatev – Izbor – Jagodni izbor – Suhi jagodni izbor – Ledeno vino – Arhivsko vino (Arhiva) – Slamnovino (vino iz sušenega grozdja)</td><td>g.U.</td><td>Slowenisch</td></tr>
 <tr><td>Vrhunsko peneče vino z zaščitenim geografskim poreklom (Vrhunsko peneče vino ZGP)</td><td>g.g.A</td><td>Slowenisch</td></tr>
 </table>
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Mlado vino g.U./g.g.A Slowenisch
+<table>
+<tr><td>Mlado vino</td><td>g.U./g.g.A</td><td>Slowenisch</td></tr>
+</table>
 
 ### Slowakei
 
@@ -8112,7 +7811,7 @@ Mlado vino g.U./g.g.A Slowenisch
 
 Južnoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
-Južnoslovenská vinohradnícka oblasť, *gegebenenfalls gefolg**t von* Dunajskostredský vinohradnícky rajón
+Južnoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Dunajskostredský vinohradnícky rajón
 
 Južnoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Galantský vinohradnícky rajón
 
@@ -8128,7 +7827,7 @@ Južnoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Strekovsk�
 
 Južnoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Štúrovský vinohradnícky rajón
 
-Malokarpatská vinohradnícka oblasť, *gegebenenfalls gefolgt* *von* einer Teilregion und/oder kleineren geografischen Einheit
+Malokarpatská vinohradnícka oblasť, *gegebenenfalls gefolgt von* einer Teilregion und/oder kleineren geografischen Einheit
 
 Malokarpatská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Bratislavský vinohradnícky rajón
 
@@ -8144,7 +7843,7 @@ Malokarpatská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Pezinský vi
 
 Malokarpatská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Senecký vinohradnícky rajón
 
-Malokarpatská vinohradnícka oblasť, *gegebenenfalls gef**olgt von* Skalický vinohradnícky rajón
+Malokarpatská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Skalický vinohradnícky rajón
 
 Malokarpatská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Stupavský vinohradnícky rajón
 
@@ -8154,7 +7853,7 @@ Malokarpatská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Vrbovský vi
 
 Malokarpatská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Záhorský vinohradnícky rajón
 
-Nitrianska vinohradnícka oblasť, *gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografis**chen Einheit*
+Nitrianska vinohradnícka oblasť, *gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 Nitrianska vinohradnícka oblasť, *gegebenenfalls gefolgt von* Nitriansky vinohradnícky rajón
 
@@ -8166,7 +7865,7 @@ Nitrianska vinohradnícka oblasť, *gegebenenfalls gefolgt von* Šintavský vino
 
 Nitrianska vinohradnícka oblasť, *gegebenenfalls gefolgt von* Tekovský vinohradnícky rajón
 
-Nitrianska vinohradnícka oblasť, *gegebenenfalls* *gefolgt von* Vrábeľský vinohradnícky rajón
+Nitrianska vinohradnícka oblasť, *gegebenenfalls gefolgt von* Vrábeľský vinohradnícky rajón
 
 Nitrianska vinohradnícka oblasť, *gegebenenfalls gefolgt von* Želiezovský vinohradnícky rajón
 
@@ -8182,7 +7881,7 @@ Stredoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Gemerský 
 
 Stredoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Hontiansky vinohradnícky rajón
 
-Stredoslovenská vinohradnícka oblasť, *ge**gebenenfalls gefolgt von* Ipeľský vinohradnícky rajón
+Stredoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Ipeľský vinohradnícky rajón
 
 Stredoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Modrokamencký vinohradnícky rajón
 
@@ -8190,9 +7889,9 @@ Stredoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Tornaľsk�
 
 Stredoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Vinický vinohradnícky rajón
 
-Vinohradnícka oblasť Tokaj, *gegebenenfalls gefolgt vom* *Namen einer der folge**n**den kleineren geografischen Einheiten:* Bara/Čerhov/Černochov/Malá Tŕňa/ Slovenské Nové Mesto/Veľká Tŕňa/Viničky
+Vinohradnícka oblasť Tokaj, *gegebenenfalls gefolgt vom* *Namen einer der folgenden kleineren geografischen Einheiten:* Bara/Čerhov/Černochov/Malá Tŕňa/ Slovenské Nové Mesto/Veľká Tŕňa/Viničky
 
-Východoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von einer Teilreg**i**on und/oder kleineren geografischen Einheit*
+Východoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von einer Teilregion und/oder kleineren geografischen Einheit*
 
 Východoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Kráľovskochlmecký vinohradnícky rajón
 
@@ -8206,7 +7905,7 @@ Východoslovenská vinohradnícka oblasť, *gegebenenfalls gefolgt von* Sobranec
 
 Južnoslovenská vinohradnícka oblasť, *auch ergänzt durch den Begriff «**oblastné vino»*
 
-Malokarpatská vinohradnícka oblasť, *auch ergänzt durch den Begriff «**oblastné v**i**no»*
+Malokarpatská vinohradnícka oblasť, *auch ergänzt durch den Begriff «**oblastné vino»*
 
 Nitrianska vinohradnícka oblasť, *auch ergänzt durch den Begriff «**oblastné vino»*
 
@@ -8218,7 +7917,7 @@ Východoslovenská vinohradnícka oblasť, *auch ergänzt durch den Begriff «**
 
 <table>
 <tr><td>Akostné víno</td><td>g.U.</td><td>Slowakisch</td></tr>
-<tr><td>Akostné víno s prívlastkom, *e**r**gänzt durch*: – Kabinetné – Neskorý zber – Výber z hrozna – Bobuľovývýber – Hrozienkový výber – Cibébový výber – L’adový zber – Slamové víno</td><td>g.U.</td><td>Slowakisch</td></tr>
+<tr><td>Akostné víno s prívlastkom, *ergänzt durch*: – Kabinetné – Neskorý zber – Výber z hrozna – Bobuľovývýber – Hrozienkový výber – Cibébový výber – L’adový zber – Slamové víno</td><td>g.U.</td><td>Slowakisch</td></tr>
 <tr><td>Esencia</td><td>g.U.</td><td>Slowakisch</td></tr>
 <tr><td>Forditáš</td><td>g.U.</td><td>Slowakisch</td></tr>
 <tr><td>Mášláš</td><td>g.U.</td><td>Slowakisch</td></tr>
@@ -8231,11 +7930,11 @@ Východoslovenská vinohradnícka oblasť, *auch ergänzt durch den Begriff «**
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. b der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-Mladé víno g.U. Slowakisch
-
-Archívne víno g.U. Slowakisch
-
-Panenská úroda g.U. Slowakisch
+<table>
+<tr><td>Mladé víno</td><td>g.U.</td><td>Slowakisch</td></tr>
+<tr><td>Archívne víno</td><td>g.U.</td><td>Slowakisch</td></tr>
+<tr><td>Panenská úroda</td><td>g.U.</td><td>Slowakisch</td></tr>
+</table>
 
 ### Vereinigtes Königreich
 
@@ -8335,11 +8034,12 @@ Wales, *auch ersetzt durch* Wrexham
 
 ### Traditionelle Begriffe (Art. 118*u* Abs. 1 Bst. a der Verordnung (EG) Nr. 1234/2007 des Rates)
 
-quality (sparkling) wine g.U. Englisch
+<table>
+<tr><td>quality (sparkling) wine</td><td>g.U.</td><td>Englisch</td></tr>
+<tr><td>Regional wine</td><td>g.g.A</td><td>Englisch</td></tr>
+</table>
 
-Regional wine g.g.A Englisch
-
-NB: Die kursiv geschriebenen Begriffe dienen lediglich zur Information und/oder Erläuterung und unterliegen somit nicht den Schutzbestimmungen gemäss diesem Anhang.
+- NB: Die kursiv geschriebenen Begriffe dienen lediglich zur Information und/oder Erläuterung und unterliegen somit nicht den Schutzbestimmungen gemäss diesem Anhang.
 
 ### Teil B: Geschützte Namen von Weinbauerzeugnissen mit Ursprung in der Schweiz
 
@@ -8511,7 +8211,7 @@ Beerenauslese/Sélection de grains nobles
 
 Beerli/Beerliwein
 
-Château/Schloss/Castello[^annexu1-lvlu1-partB-lvlu2-1]
+Château/Schloss/Castello[^annex4-lvlu1-partB-lvlu2-1]
 
 Cru
 
@@ -8521,7 +8221,7 @@ Denominazione di origine controllata (DOC)
 
 Eiswein/vin de glace
 
-Federweiss/Weissherbst[^annexu1-lvlu1-partB-lvlu2-2]
+Federweiss/Weissherbst[^annex4-lvlu1-partB-lvlu2-2]
 
 Flétri/Flétri sur souche
 
@@ -8537,9 +8237,9 @@ La Gerle
 
 Landwein
 
-Œil-de-Perdrix[^annexu1-lvlu1-partB-lvlu2-3]
+Œil-de-Perdrix[^annex4-lvlu1-partB-lvlu2-3]
 
-Passerillé/Strohwein/Sforzato[^annexu1-lvlu1-partB-lvlu2-4]
+Passerillé/Strohwein/Sforzato[^annex4-lvlu1-partB-lvlu2-4]
 
 Premier Cru
 
@@ -8551,7 +8251,7 @@ Riserva
 
 Schiller
 
-Spätlese/Vendange tardive/Vendemmia tardiva[^annexu1-lvlu1-partB-lvlu2-5]
+Spätlese/Vendange tardive/Vendemmia tardiva[^annex4-lvlu1-partB-lvlu2-5]
 
 Sur lie(s)/auf der Hefe ausgebaut
 
@@ -8569,7 +8269,7 @@ Vin de pays
 
 Vin de table
 
-Vin doux naturel[^annexu1-lvlu1-partB-lvlu2-6]
+Vin doux naturel[^annex4-lvlu1-partB-lvlu2-6]
 
 Vinatura
 
@@ -8579,12 +8279,12 @@ VITI
 
 Winzerwy
 
-[^annexu1-lvlu1-partB-lvlu2-1]: Diese Begriffe sind nur geschützt für die Kantone, in denen sie genau definiert sind, d.h. Vaud, Valais und Genève.
-[^annexu1-lvlu1-partB-lvlu2-2]: Der Schutz dieser Begriffe gilt unbeschadet der Verwendung des traditionellen deutschen Begriffs «Federweisser» für zum Verzehr bestimmten teilweise gegorenen Traubenmost gemäss Artikel 34*c* der deutschen Weinverordnung und Artikel 40 der Verordnung (EG) Nr. 607/2009 der Kommission.
-[^annexu1-lvlu1-partB-lvlu2-3]: Dieser Begriff ist geschützt unbeschadet des Artikels 40 der Verordnung (EG) Nr. 607/2009 der Kommission.
-[^annexu1-lvlu1-partB-lvlu2-4]: Für Ausfuhren in die Union: Gesamtalkoholgehalt (vorhandener und potenzieller) 16 % vol.
-[^annexu1-lvlu1-partB-lvlu2-5]: Für Ausfuhren in die Union muss der natürliche Zuckergehalt um mindestens 1 % über dem Jahresdurchschnitt anderer Weine liegen.
-[^annexu1-lvlu1-partB-lvlu2-6]: Für Ausfuhren in die Union gilt dieser Begriff für einen Likörwein mit strikteren Merkmalen hinsichtlich des Zuckerertrags und -gehalts (ursprünglicher natürlicher Zuckergehalt 252 g/l).
+[^annex4-lvlu1-partB-lvlu2-1]: Diese Begriffe sind nur geschützt für die Kantone, in denen sie genau definiert sind, d.h. Vaud, Valais und Genève.
+[^annex4-lvlu1-partB-lvlu2-2]: Der Schutz dieser Begriffe gilt unbeschadet der Verwendung des traditionellen deutschen Begriffs «Federweisser» für zum Verzehr bestimmten teilweise gegorenen Traubenmost gemäss Artikel 34*c* der deutschen Weinverordnung und Artikel 40 der Verordnung (EG) Nr. 607/2009 der Kommission.
+[^annex4-lvlu1-partB-lvlu2-3]: Dieser Begriff ist geschützt unbeschadet des Artikels 40 der Verordnung (EG) Nr. 607/2009 der Kommission.
+[^annex4-lvlu1-partB-lvlu2-4]: Für Ausfuhren in die Union: Gesamtalkoholgehalt (vorhandener und potenzieller) 16 % vol.
+[^annex4-lvlu1-partB-lvlu2-5]: Für Ausfuhren in die Union muss der natürliche Zuckergehalt um mindestens 1 % über dem Jahresdurchschnitt anderer Weine liegen.
+[^annex4-lvlu1-partB-lvlu2-6]: Für Ausfuhren in die Union gilt dieser Begriff für einen Likörwein mit strikteren Merkmalen hinsichtlich des Zuckerertrags und -gehalts (ursprünglicher natürlicher Zuckergehalt 252 g/l).
 
 ### Traditionelle Namen
 
@@ -8692,7 +8392,7 @@ sie sind ausschliesslich den Spirituosen und aromatisierten Getränken mit Urspr
 
 4.[^annex8-lvlu1-5-2] Die Parteien verzichten darauf, die Bestimmungen von Artikel 24 Absätze 4, 6 und 7 des TRIPS-Übereinkommens in Anspruch zu nehmen, um den Schutz eines Namens der anderen Partei abzulehnen.
 
-[^annex8-lvlu1-5-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^annex8-lvlu1-5-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 [^annex8-lvlu1-5-2]: Fassung gemäss Art. 1 Ziff. 18 des Abk. vom 14. Mai 2009 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft zur Änderung des Abkommens, in Kraft seit 1. Juni 2009 ([AS 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 6
@@ -8793,7 +8493,7 @@ Werden die Rechtsvorschriften einer der Parteien geändert, um Bezeichnungen zu 
 
 <sup>2.</sup> Vorbehaltlich einer anderslautenden Entscheidung des Ausschusses dürfen Spirituosen und aromatisierte Getränke, die gemäss diesem Abkommen hergestellt, bezeichnet oder aufgemacht sind, deren Bezeichnung oder Aufmachung jedoch nach einer Änderung dieses Abkommens dessen Bestimmungen nicht mehr entspricht, bis zur Erschöpfung der Bestände in den Verkehr gebracht werden.
 
-Anlage 1*[^t-18]*
+Anlage 1[^t-18]
 
 ## Geografische Angaben für Spirituosen mit Ursprung in der Europäischen Union
 
@@ -8814,7 +8514,7 @@ Anlage 1*[^t-18]*
 <tr><td></td><td>Rum da Madeira</td><td>Portugal</td></tr>
 <tr><td colspan="3">2. Whisky/Whiskey</td></tr>
 <tr><td></td><td>Scotch Whisky</td><td>Vereinigtes Königreich (Schottland)</td></tr>
-<tr><td></td><td>Irish Whiskey/Uisce Beatha Eireannach/ Irish Whisky[^annexu1-lvlu1-5]</td><td>Irland</td></tr>
+<tr><td></td><td>Irish Whiskey/Uisce Beatha Eireannach/ Irish Whisky[^annex1-lvlu1-2]</td><td>Irland</td></tr>
 <tr><td></td><td>Whisky español</td><td>Spanien</td></tr>
 <tr><td></td><td>Whisky breton/Whisky de Bretagne</td><td>Frankreich</td></tr>
 <tr><td></td><td>Whisky alsacien/Whisky d’Alsace</td><td>Frankreich</td></tr>
@@ -8868,14 +8568,14 @@ Anlage 1*[^t-18]*
 <tr><td></td><td>Aguardente de Vinho da Região dos Vinhos Verdes</td><td>Portugal</td></tr>
 <tr><td></td><td>Aguardente de Vinho da Região dos Vinhos Verdes de Alvarinho</td><td>Portugal</td></tr>
 <tr><td></td><td>Aguardente de Vinho Lourinhã</td><td>Portugal</td></tr>
-<tr><td></td><td>*Сунгурларска гроздова ракия/Гроздова ракия от Сунгурларе/Sungurlarska grozd**o**va rakiya/Grozdova rakiya* aus Sungurlare</td><td>Bulgarien</td></tr>
-<tr><td></td><td>*Сливенска перла (Сливенска гроздова ракия/Гроздова ракия от Сливен)/ Slivenska perla (Slivenska gr**ozdova rakiya/Grozdova rakiya* aus Sliven)</td><td>Bulgarien</td></tr>
+<tr><td></td><td>*Сунгурларска гроздова ракия/Гроздова ракия от Сунгурларе/Sungurlarska grozdova rakiya/Grozdova rakiya* aus Sungurlare</td><td>Bulgarien</td></tr>
+<tr><td></td><td>*Сливенска перла (Сливенска гроздова ракия/Гроздова ракия от Сливен)/ Slivenska perla (Slivenska grozdova rakiya/Grozdova rakiya* aus Sliven)</td><td>Bulgarien</td></tr>
 <tr><td></td><td>*Стралджанска Мускатова ракия/Мускатова ракия от Стралджа/Straldjanska Muscatova rakiya/Muscatova rakiya* aus Straldja</td><td>Bulgarien</td></tr>
-<tr><td></td><td>*Поморийска гроздова ракия/Гроздова ракия от Поморие/Pomoriyska grozdova r**akiya/Grozdova rakiya* aus Pomorie</td><td>Bulgarien</td></tr>
+<tr><td></td><td>*Поморийска гроздова ракия/Гроздова ракия от Поморие/Pomoriyska grozdova rakiya/Grozdova rakiya* aus Pomorie</td><td>Bulgarien</td></tr>
 <tr><td></td><td>*Русенска бисерна гроздова ракия/Бисерна гроздова ракия от Русе/Russenska biserna grozdova rakiya/Biserna grozdova rakiya* aus Ruse</td><td>Bulgarien</td></tr>
-<tr><td></td><td>*Бургаска Мускатова ракия/Мускатова ракия от Бургас/Bourgaska Muscato**va rakiya/Muscatova rakiya* aus Burgas</td><td>Bulgarien</td></tr>
+<tr><td></td><td>*Бургаска Мускатова ракия/Мускатова ракия от Бургас/Bourgaska Muscatova rakiya/Muscatova rakiya* aus Burgas</td><td>Bulgarien</td></tr>
 <tr><td></td><td>*Добруджанска мускатова ракия/Мускатова ракия от Добруджа/ Dobrudjanska muscatova rakiya/Muscatova rakiya* aus der Dobrudja</td><td>Bulgarien</td></tr>
-<tr><td></td><td>*Сухиндолска гроздова ракия/Гроздова ракия от Сухиндол/Suhindolska grozdo**va rakiya/Grozdova rakiya* aus Suhindol</td><td>Bulgarien</td></tr>
+<tr><td></td><td>*Сухиндолска гроздова ракия/Гроздова ракия от Сухиндол/Suhindolska grozdova rakiya/Grozdova rakiya* aus Suhindol</td><td>Bulgarien</td></tr>
 <tr><td></td><td>*Карловска гроздова ракия/Гроздова Ракия от Карлово/Karlovska grozdova rakiya/Grozdova Rakiya* aus Karlovo</td><td>Bulgarien</td></tr>
 <tr><td></td><td>Vinars Târnave</td><td>Rumänien</td></tr>
 <tr><td></td><td>Vinars Vaslui</td><td>Rumänien</td></tr>
@@ -9034,7 +8734,7 @@ Anlage 1*[^t-18]*
 <tr><td></td><td>Südtiroler Enzian/Genziana dell’Alto Adige</td><td>Italien</td></tr>
 <tr><td></td><td>Genziana trentina/Genziana del Trentino</td><td>Italien</td></tr>
 <tr><td colspan="3">19. Spirituosen mit Wacholder</td></tr>
-<tr><td></td><td>Genièvre/Jenever/Genever[^annexu1-lvlu1-6]</td><td>Belgien, Niederlande, Frankreich (Departements Nord (59) und Pas-de-Calais (62)), Deutschland (Bundesländer Nordrhein-Westfalen und Niedersachsen)</td></tr>
+<tr><td></td><td>Genièvre/Jenever/Genever[^annex1-lvlu1-3]</td><td>Belgien, Niederlande, Frankreich (Departements Nord (59) und Pas-de-Calais (62)), Deutschland (Bundesländer Nordrhein-Westfalen und Niedersachsen)</td></tr>
 <tr><td></td><td>Genièvre de grains, Graanjenever, Graangenever</td><td>Belgien, Niederlande, Frankreich (Departements Nord (59) und Pas-de-Calais (62))</td></tr>
 <tr><td></td><td>Jonge jenever, jonge genever</td><td>Belgien, Niederlande</td></tr>
 <tr><td></td><td>Oude jenever, oude genever</td><td>Belgien, Niederlande</td></tr>
@@ -9157,10 +8857,10 @@ Anlage 1*[^t-18]*
 <tr><td></td><td>Trauktinė Dainava</td><td>Litauen</td></tr>
 </table>
 
-[^annexu1-lvlu1-5]: Die geografische Angabe «Irish Whiskey/Uisce Beatha Eireannach/Irish Whisky» umfasst in Irland und Nordirland hergestellten Whisky/Whiskey.
-[^annexu1-lvlu1-6]: Angesichts des Schutzes, den die geografische Angabe «Genièvre» in der Europäischen Union geniesst, und der von der Schweiz geäusserten Absicht, den Namen «Genièvre» in ihrem Hoheitsgebiet als geografische Angabe zu schützen, haben die Europäische Union und die Schweiz vereinbart, den Namen «Genièvre» in die Anlagen 1 und 2 von Anhang 8 aufzunehmen. Die Parteien verpflichten sich, unter Brücksichtigung der Entwicklung des Schutzes des Namens «Genièvre» als geografische Angabe in der Schweiz die Situation in Bezug auf diesen Namen im Jahre 2015 erneut zu überprüfen.
+[^annex1-lvlu1-2]: Die geografische Angabe «Irish Whiskey/Uisce Beatha Eireannach/Irish Whisky» umfasst in Irland und Nordirland hergestellten Whisky/Whiskey.
+[^annex1-lvlu1-3]: Angesichts des Schutzes, den die geografische Angabe «Genièvre» in der Europäischen Union geniesst, und der von der Schweiz geäusserten Absicht, den Namen «Genièvre» in ihrem Hoheitsgebiet als geografische Angabe zu schützen, haben die Europäische Union und die Schweiz vereinbart, den Namen «Genièvre» in die Anlagen 1 und 2 von Anhang 8 aufzunehmen. Die Parteien verpflichten sich, unter Brücksichtigung der Entwicklung des Schutzes des Namens «Genièvre» als geografische Angabe in der Schweiz die Situation in Bezug auf diesen Namen im Jahre 2015 erneut zu überprüfen.
 
-Anlage 2*[^t-19]*
+Anlage 2[^t-19]
 
 ## Geschützte Bezeichnungen für Spirituosen mit Ursprung in der Schweiz
 
@@ -9302,11 +9002,11 @@ Gentiane du Jura
 
 ### Spirituosen mit Wacholder
 
-Genièvre[^annexu1-lvlu1-lvlu6-1]
+Genièvre[^annex2-lvlu1-lvlu6-1]
 
 Genièvre du Jura
 
-[^annexu1-lvlu1-lvlu6-1]: Angesichts des Schutzes, den die geografische Angabe «Genièvre» in der Europäischen Union geniesst, und der von der Schweiz geäusserten Absicht, den Namen «Genièvre» in ihrem Hoheitsgebiet als geografische Angabe zu schützen, haben die Europäische Union und die Schweiz vereinbart, den Namen «Genièvre» in die Anlagen 1 und 2 von Anhang 8 aufzunehmen. Die Parteien verpflichten sich, unter Berücksichtigung der Entwicklung des Schutzes des Namens «Genièvre» als geografische Angabe in der Schweiz die Situation in Bezug auf diesen Namen im Jahre 2015 erneut zu überprüfen.
+[^annex2-lvlu1-lvlu6-1]: Angesichts des Schutzes, den die geografische Angabe «Genièvre» in der Europäischen Union geniesst, und der von der Schweiz geäusserten Absicht, den Namen «Genièvre» in ihrem Hoheitsgebiet als geografische Angabe zu schützen, haben die Europäische Union und die Schweiz vereinbart, den Namen «Genièvre» in die Anlagen 1 und 2 von Anhang 8 aufzunehmen. Die Parteien verpflichten sich, unter Berücksichtigung der Entwicklung des Schutzes des Namens «Genièvre» als geografische Angabe in der Schweiz die Situation in Bezug auf diesen Namen im Jahre 2015 erneut zu überprüfen.
 
 ### Likör
 
@@ -9374,13 +9074,13 @@ Anlage 4
 
 Keine
 
-Anlage 5*[^t-20]*
+Anlage 5[^t-20]
 
 ## Verzeichnis der Rechtsakte gemäss Artikel 2 betreffend Spirituosen, aromatisierte Weine und aromatisierte Getränke
 
 [^t-20]: Eingefügt durch Art. 1 Ziff. 21 des Abk. vom 14. Mai 2009 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft zur Änderung des Abkommens ([AS 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)). Fassung gemäss Art. 1 Ziff. 2 des Beschlusses Nr. 2/2012 des Gemischten Ausschusses für Landwirtschaft vom 3. Mai 2012, in Kraft seit 4. Mai 2012 ([AS 2012 3385](https://fedlex.data.admin.ch/eli/oc/2012/378)).
 
-a) Spirituosen der Position 2208 des Internationalen Übereinkommens über das Harmonisierte System zur Bezeichnung und Codierung der Waren[^annexu1-lvlu1-7].
+a) Spirituosen der Position 2208 des Internationalen Übereinkommens über das Harmonisierte System zur Bezeichnung und Codierung der Waren[^annex5-lvlu1-1].
 
 Für die Europäische Union:
 
@@ -9400,7 +9100,7 @@ Für die Schweiz:
 
 \2. Kapitel, 3. Abschnitt der Verordnung des EDI vom 23. November 2005 über alkoholische Getränke, zuletzt geändert am 15. Dezember 2010 (AS *2010* 6391).
 
-[^annexu1-lvlu1-7]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^annex5-lvlu1-1]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 Anhang 9
 
@@ -9498,7 +9198,7 @@ Gemäss Artikel 8 des Abkommens übermitteln die Parteien und die Mitgliedstaate
 
 <sup>2.</sup> Wird im Rahmen der Konsultation gemäss Absatz 1 keine Einigung erzielt, so kann die Partei, die um die Konsultation ersucht oder die Massnahmen gemäss Absatz 1 erlassen hat, geeignete vorläufige Massnahmen treffen, um die Anwendung dieses Anhangs zu gewährleisten.
 
-Anlage 1*[^t-21]*
+Anlage 1[^t-21]
 
 ## Für landwirtschaftliche Erzeugnisse und Lebensmittel aus ökologischem Landbau geltende Rechts- und Verwaltungsvorschriften gemäss Artikel 3
 
@@ -9522,11 +9222,11 @@ Von der Gleichwertigkeitsregelung ausgeschlossen sind:
 
 schweizerische Erzeugnisse, deren Bestandteile im Zuge der Umstellung auf den ökologischen Landbau gewonnen wurden;
 
-Erzeugnisse aus der schweizerischen Ziegenhaltung, wenn die Tiere unter die Ausnahmeregelung gemäss Artikel 39*d* der Verordnung über die biologische Landwirtschaft und die Kennzeichnung biologisch produzierter Erzeugnisse und Lebensmittel[^annexu1-lvlu1-8] fallen.
+Erzeugnisse aus der schweizerischen Ziegenhaltung, wenn die Tiere unter die Ausnahmeregelung gemäss Artikel 39*d* der Verordnung über die biologische Landwirtschaft und die Kennzeichnung biologisch produzierter Erzeugnisse und Lebensmittel[^annex1-lvlu1-4] fallen.
 
-[^annexu1-lvlu1-8]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^annex1-lvlu1-4]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 
-Anlage 2*[^t-22]*
+Anlage 2[^t-22]
 
 ## Durchführungsvorschriften
 
@@ -9534,7 +9234,7 @@ Anlage 2*[^t-22]*
 
 Entfällt.
 
-Anhang 10*[^t-23]*
+Anhang 10[^t-23]
 
 ## Anerkennung der Kontrolle der Konformität mit den Vermarktungsnormen für frisches Obst und Gemüse
 
@@ -9617,11 +9317,17 @@ Anlage 1
 
 ## Schweizerische Kontrollstellen, die zur Ausstellung der in Anhang 10 Artikel 3 vorgesehenen Bescheinigung der Konformität zugelassen sind
 
-- 1\. Qualiservice Postfach 7960 3001 Bern Schweiz
+Qualiservice
+
+Postfach 7960
+
+3001 Bern
+
+Schweiz
 
 Anlage 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20201101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20230101/de/xml/image/image1.png)
 
 Anhang 11
 
@@ -9639,7 +9345,7 @@ Anhang 11
 
 [^annex11-lvlu1-1-1]: Eingefügt durch Art. 1 Ziff. 1 des Abk. zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft vom 23. Dez. 2008 zur Änderung des Anhangs 11 dieses Abk., provisorisch angewendet seit 1. Jan. 2009, in Kraft seit 1. Dez. 2009 ([AS 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
 
-### Titel I Handel mit lebenden Tieren, ihrem Sperma, ihren Eizellen und Embryonen sowie Verbringung von Heimtieren zu anderen als Handelszwecken****
+### Titel I Handel mit lebenden Tieren, ihrem Sperma, ihren Eizellen und Embryonen sowie Verbringung von Heimtieren zu anderen als Handelszwecken
 
 [^annex11-lvlu1-titI-1]
 
@@ -9687,7 +9393,7 @@ Die Bestimmungen dieses Titels zielen darauf ab, den Handel mit tierischen Erzeu
 
 Die Bestimmungen dieses Titels berühren nicht die Rechte und Pflichten, die sich für die Parteien aus dem WTO-Übereinkommen und seinen Anhängen und insbesondere dem SPS-Übereinkommen[^annex11-lvlu1-titII-8-1] ergeben.
 
-[^annex11-lvlu1-titII-8-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1 A.4
+[^annex11-lvlu1-titII-8-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.4
 
 #### Art. 9
 
@@ -9856,7 +9562,7 @@ Im Falle der Gemeinschaft:
 
 <sup>4.</sup> Beschliesst die Schweiz, hinsichtlich eines Drittlands Schutzmassnahmen zu ergreifen, so unterrichtet sie umgehend die zuständigen Dienststellen der Kommission. Unbeschadet der Möglichkeit für die Schweiz, die geplanten Massnahmen unverzüglich in Kraft zu setzen, treten die zuständigen Dienststellen der Kommission und der Schweiz schnellstmöglich zusammen, um geeignete Lösungen zu finden. Gegebenenfalls kann auf Antrag einer der Parteien der Gemischte Ausschuss befasst werden.
 
-Anlage 1*[^t-24]*
+Anlage 1[^t-24]
 
 ## Seuchenbekämpfung/Seuchenmeldung
 
@@ -9904,11 +9610,11 @@ Anlage 1*[^t-24]*
 
 \5. Insbesondere auf der Grundlage des Artikels 21 der Richtlinie 2001/89/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-\6. Gemäss Artikel 89 Absatz 2 der Tierseuchenverordnung erlässt das Bundesamt für Lebensmittelsicherheit und Veterinärwesen erforderlichenfalls technische Vorschriften für die serologische Kontrolle von Schweinebeständen in den Schutz- und Überwachungszonen gemäss Kapitel IV des Anhangs der Entscheidung 2002/106/EG der Kommission[^annexu1-lvlu1-lvlII-lvlB-1].
+\6. Gemäss Artikel 89 Absatz 2 der Tierseuchenverordnung erlässt das Bundesamt für Lebensmittelsicherheit und Veterinärwesen erforderlichenfalls technische Vorschriften für die serologische Kontrolle von Schweinebeständen in den Schutz- und Überwachungszonen gemäss Kapitel IV des Anhangs der Entscheidung 2002/106/EG der Kommission[^annex1-lvlu1-lvlII-lvlB-1].
 
 \7. Das Institut für Virologie der Tierärztlichen Hochschule Hannover, Bünteweg 17, 30559 Hannover, Deutschland, wird zum gemeinsamen Referenzlaboratorium für Klassische Schweinepest benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang IV der Richtlinie 2001/89/EG festgelegt.
 
-[^annexu1-lvlu1-lvlII-lvlB-1]: Entscheidung 2002/106/EG der Kommission vom 1. Februar 2002 zur Genehmigung eines Diagnosehandbuchs mit Diagnosemethoden, Probenahmeverfahren und Kriterien für die Auswertung von Laboruntersuchungen zur Bestätigung der Klassischen Schweinepest (ABl. L 39 vom 9.2.2002, S. 71).
+[^annex1-lvlu1-lvlII-lvlB-1]: Entscheidung 2002/106/EG der Kommission vom 1. Februar 2002 zur Genehmigung eines Diagnosehandbuchs mit Diagnosemethoden, Probenahmeverfahren und Kriterien für die Auswertung von Laboruntersuchungen zur Bestätigung der Klassischen Schweinepest (ABl. L 39 vom 9.2.2002, S. 71).
 
 ### III. Afrikanische Schweinepest
 
@@ -9927,11 +9633,11 @@ Anlage 1*[^t-24]*
 
 \2. Gemäss Artikel 97 der Tierseuchenverordnung verfügt die Schweiz über einen Notfallplan, der auf der Website des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen veröffentlicht wird.
 
-\3. Gemäss Artikel 89 Absatz 2 der Tierseuchenverordnung erlässt das Bundesamt für Lebensmittelsicherheit und Veterinärwesen erforderlichenfalls technische Vorschriften für die Methoden zur Diagnose der Afrikanischen Schweinepest im Einklang mit der Entscheidung 2003/422/EG der Kommission[^annexu1-lvlu1-lvlIII-lvlB-1].
+\3. Gemäss Artikel 89 Absatz 2 der Tierseuchenverordnung erlässt das Bundesamt für Lebensmittelsicherheit und Veterinärwesen erforderlichenfalls technische Vorschriften für die Methoden zur Diagnose der Afrikanischen Schweinepest im Einklang mit der Entscheidung 2003/422/EG der Kommission[^annex1-lvlu1-lvlIII-lvlB-1].
 
 \4. Insbesondere auf der Grundlage des Artikels 20 der Richtlinie 2002/60/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-[^annexu1-lvlu1-lvlIII-lvlB-1]: Entscheidung 2003/422/EG der Kommission vom 26. Mai 2003 zur Genehmigung eines Diagnosehandbuchs für die Afrikanische Schweinepest (ABl. L 143 vom 11.6.2003, S. 35).
+[^annex1-lvlu1-lvlIII-lvlB-1]: Entscheidung 2003/422/EG der Kommission vom 26. Mai 2003 zur Genehmigung eines Diagnosehandbuchs für die Afrikanische Schweinepest (ABl. L 143 vom 11.6.2003, S. 35).
 
 ### IV. Pferdepest
 
@@ -10085,12 +9791,12 @@ Gemäss Artikel 179*d* der Tierseuchenverordnung und Artikel 4 der Verordnung ü
 
 Gemäss Artikel 180*c* der Tierseuchenverordnung und Artikel 4 der Verordnung über Lebensmittel tierischer Herkunft darf spezifiziertes Risikomaterial in der Schweiz nicht in die Lebens- oder Futtermittelkette gelangen. Zu bei Schafen und Ziegen entferntem spezifizierten Risikomaterial gehören insbesondere das Gehirn in der Gehirnschale, das Rückenmark mit der harten Rückenmarkhaut (*Dura mater*) sowie die Tonsillen von Tieren, die über 12 Monate alt sind oder bei denen ein bleibender Schneidezahn das Zahnfleisch durchbrochen hat, sowie die Milz und der Krummdarm (Ileum) von Tieren aller Altersklassen.
 
-\3. Mit der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates[^annexu1-lvlu1-lvlVIII-lvlC-1] und der Verordnung (EU) Nr. 142/2011 der Kommission[^annexu1-lvlu1-lvlVIII-lvlC-2] wurden die in den Mitgliedstaaten der Europäischen Union geltenden Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte festgelegt.
+\3. Mit der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates[^annex1-lvlu1-lvlVIII-lvlC-1] und der Verordnung (EU) Nr. 142/2011 der Kommission[^annex1-lvlu1-lvlVIII-lvlC-2] wurden die in den Mitgliedstaaten der Europäischen Union geltenden Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte festgelegt.
 
 Gemäss Artikel 22 der Verordnung über die Entsorgung von tierischen Nebenprodukten werden in der Schweiz tierische Nebenprodukte der Kategorie 1, einschliesslich spezifizierten Risikomaterials und im Betrieb verendeter Tiere, verbrannt.
 
-[^annexu1-lvlu1-lvlVIII-lvlC-1]: Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1).
-[^annexu1-lvlu1-lvlVIII-lvlC-2]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1).
+[^annex1-lvlu1-lvlVIII-lvlC-1]: Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1).
+[^annex1-lvlu1-lvlVIII-lvlC-2]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1).
 
 ### IX. Blauzungenkrankheit
 
@@ -10163,11 +9869,11 @@ Gemäss Artikel 22 der Verordnung über die Entsorgung von tierischen Nebenprodu
 - 1790 Kopenhagen V
 - Dänemark
 
-\2. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen ergebenden Vorgänge zuzurechnen sind. Für die Zuständigkeiten und Aufgaben dieser Laboratorien gilt die Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates[^annexu1-lvlu1-lvlX-lvlB-1].
+\2. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen ergebenden Vorgänge zuzurechnen sind. Für die Zuständigkeiten und Aufgaben dieser Laboratorien gilt die Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates[^annex1-lvlu1-lvlX-lvlB-1].
 
 \3. Die Schweiz übermittelt der Kommission jährlich Ende Mai einen Bericht über die Entwicklung und die Quellen von Zoonosen und Zoonoseerregern sowie die Resistenz gegen antimikrobielle Mittel, zusammen mit den Daten, die gemäss den Artikeln 4, 7 und 8 der Richtlinie 2003/99/EG im zurückliegenden Jahr erhoben wurden. Dieser Bericht enthält auch die Angaben gemäss Artikel 3 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 2160/2003. Der Bericht wird von der Kommission an die Europäische Behörde für Lebensmittelsicherheit zur Veröffentlichung eines zusammenfassenden Berichts über die Entwicklung und die Ursachen von Zoonosen, die Zoonoseerreger und die Antibiotikaresistenz in der Europäischen Union übermittelt.
 
-[^annexu1-lvlu1-lvlX-lvlB-1]: Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1)
+[^annex1-lvlu1-lvlX-lvlB-1]: Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1)
 
 ### XI. Andere Tierseuchen
 
@@ -10205,7 +9911,7 @@ Gemäss Artikel 22 der Verordnung über die Entsorgung von tierischen Nebenprodu
 
 In Zusammenarbeit mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen beteiligt die Kommission die Schweiz nach Massgabe der Richtlinie 82/894/EWG am Tierseuchenmeldesystem.
 
-Anlage 2*[^t-25]*
+Anlage 2[^t-25]
 
 ## Tiergesundheit: Handel und Vermarktung
 
@@ -10265,7 +9971,7 @@ Wird bei 0,2 % des nationalen Bestands enzootische Rinderleukose festgestellt, s
 - d) Bei Verdacht oder Bestätigung der Infektiösen Bovinen Rhinotracheitis wird der Status der amtlich anerkannten Seuchenfreiheit des betreffenden Bestands ausgesetzt, bis die Bestandssperre aufgehoben ist.
 - e) Die Bestandssperre wird aufgehoben, wenn die verbleibenden Tiere frühestens 30 Tage nach Eliminierung der infizierten Tiere mit Negativbefund serologisch untersucht wurden.
 
-Aufgrund der Anerkennung des Seuchenfreiheitsstatus der Schweiz gelten die Bestimmungen der Entscheidung 2004/558/EG[^annexu1-lvlu1-lvlI-lvlB-1] entsprechend.
+Aufgrund der Anerkennung des Seuchenfreiheitsstatus der Schweiz gelten die Bestimmungen der Entscheidung 2004/558/EG[^annex2-lvlu1-lvlI-lvlB-1] entsprechend.
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die Kommission unverzüglich über jede Änderung der Bedingungen, die zur Anerkennung des Status geführt haben. Der Gemischte Veterinärausschuss überprüft alsdann die Bestimmungen dieses Absatzes.
 
@@ -10276,7 +9982,7 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die K
 - c) Bei Verdacht oder Bestätigung der Aujeszky-Krankheit wird der Status der amtlich anerkannten Seuchenfreiheit des betreffenden Bestands ausgesetzt, bis die Bestandssperre aufgehoben ist.
 - d) Die Bestandssperre wird aufgehoben, wenn alle Zuchttiere und eine repräsentative Anzahl Masttiere nach Eliminierung der infizierten Tiere zweimal im Abstand von mindestens 21 Tagen mit Negativbefund serologisch untersucht wurden.
 
-Aufgrund der Anerkennung des Seuchenfreiheitsstatus der Schweiz gelten die Bestimmungen der Entscheidung 2008/185/EG der Kommission[^annexu1-lvlu1-lvlI-lvlB-2] entsprechend.
+Aufgrund der Anerkennung des Seuchenfreiheitsstatus der Schweiz gelten die Bestimmungen der Entscheidung 2008/185/EG der Kommission[^annex2-lvlu1-lvlI-lvlB-2] entsprechend.
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die Kommission unverzüglich über jede Änderung der Bedingungen, die zur Anerkennung des Status geführt haben. Der Gemischte Veterinärausschuss überprüft alsdann die Bestimmungen dieses Absatzes.
 
@@ -10320,8 +10026,8 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die K
   - – nicht aus Beständen stammen, die wegen eines BSE-Verdachtfalls untersucht werden;
   - – nach dem 1. Juni 2001 geboren wurden.›
 
-[^annexu1-lvlu1-lvlI-lvlB-1]: Entscheidung 2004/558/EG der Kommission vom 15. Juli 2004 zur Umsetzung der Richtlinie 64/432/EWG des Rates hinsichtlich ergänzender Garantien im innergemeinschaftlichen Handel mit Rindern in Bezug auf die infektiöse bovine Rhinotracheitis und der Genehmigung der von einigen Mitgliedstaaten vorgelegten Tilgungsprogramme (Bekannt gegeben unter Aktenzeichen K(2004) 2104)(Text von Bedeutung für den EWR) (ABl. L 249 vom 23.7.2004, S. 20).
-[^annexu1-lvlu1-lvlI-lvlB-2]: Entscheidung 2008/185/EG der Kommission vom 21. Februar 2008 zur Festlegung zusätzlicher Garantien für den innergemeinschaftlichen Handel mit Schweinen hinsichtlich der Aujeszky-Krankheit und der Kriterien für die Informationsübermittlung (Bekannt gegeben unter Aktenzeichen K(2008) 669) (kodifizierte Fassung) (Text von Bedeutung für den EWR) (ABl. L 59 vom 4.3.2008, S. 19).
+[^annex2-lvlu1-lvlI-lvlB-1]: Entscheidung 2004/558/EG der Kommission vom 15. Juli 2004 zur Umsetzung der Richtlinie 64/432/EWG des Rates hinsichtlich ergänzender Garantien im innergemeinschaftlichen Handel mit Rindern in Bezug auf die infektiöse bovine Rhinotracheitis und der Genehmigung der von einigen Mitgliedstaaten vorgelegten Tilgungsprogramme (Bekannt gegeben unter Aktenzeichen K(2004) 2104)(Text von Bedeutung für den EWR) (ABl. L 249 vom 23.7.2004, S. 20).
+[^annex2-lvlu1-lvlI-lvlB-2]: Entscheidung 2008/185/EG der Kommission vom 21. Februar 2008 zur Festlegung zusätzlicher Garantien für den innergemeinschaftlichen Handel mit Schweinen hinsichtlich der Aujeszky-Krankheit und der Kriterien für die Informationsübermittlung (Bekannt gegeben unter Aktenzeichen K(2008) 669) (kodifizierte Fassung) (Text von Bedeutung für den EWR) (ABl. L 59 vom 4.3.2008, S. 19).
 
 ### II. Schafe und Ziegen
 
@@ -10384,7 +10090,7 @@ Die Schweiz unterrichtet den Gemischten Veterinärausschuss über jeden Ausbruch
 
 \3. Die Haltungsbedingung gemäss Artikel 8 Absatz 1 Buchstabe a Ziffer i der Richtlinie 2009/158/EG gilt entsprechend für die Schweiz.
 
-\4. Für den Versand von Bruteiern in die Europäische Union verpflichten sich die schweizerischen Behörden, die Kennzeichnungsvorschriften der Verordnung (EG) Nr. 617/2008 der Kommission[^annexu1-lvlu1-lvlIV-lvlB-1] einzuhalten.
+\4. Für den Versand von Bruteiern in die Europäische Union verpflichten sich die schweizerischen Behörden, die Kennzeichnungsvorschriften der Verordnung (EG) Nr. 617/2008 der Kommission[^annex2-lvlu1-lvlIV-lvlB-1] einzuhalten.
 
 \5. Die Haltungsbedingung gemäss Artikel 10 Buchstabe a der Richtlinie 2009/158/EG gilt entsprechend für die Schweiz.
 
@@ -10400,7 +10106,7 @@ Die Schweiz unterrichtet den Gemischten Veterinärausschuss über jeden Ausbruch
 
 \11. Für Sendungen aus der Schweiz nach Finnland oder Schweden verpflichten sich die schweizerischen Behörden, die in den Rechtsvorschriften der Europäischen Union vorgesehenen Garantien in Bezug auf Salmonellosen beizubringen.
 
-[^annexu1-lvlu1-lvlIV-lvlB-1]: Verordnung (EG) Nr. 617/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Bruteier und Küken von Hausgeflügel (ABl. L 168 vom 28.6.2008, S. 5).
+[^annex2-lvlu1-lvlIV-lvlB-1]: Verordnung (EG) Nr. 617/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Bruteier und Küken von Hausgeflügel (ABl. L 168 vom 28.6.2008, S. 5).
 
 ### V. Tiere und Erzeugnisse der Aquakultur
 
@@ -10419,11 +10125,11 @@ Die Schweiz unterrichtet den Gemischten Veterinärausschuss über jeden Ausbruch
 
 \2. Über die etwaige Anwendung der Artikel 29, 40, 41, 43, 44 und 50 der Richtlinie 2006/88/EG entscheidet der Gemischte Veterinärausschuss.
 
-\3. Die Tiergesundheitsbedingungen für das Inverkehrbringen von Wassertieren zu Zierzwecken, von Tieren in Aquakultur, die für Zuchtbetriebe, einschliesslich Umsetzungsgebiete, Angelgewässer und offene Einrichtungen für Ziertiere sowie zur Wiederaufstockung bestimmt sind, sowie von Tieren in Aquakultur und Aquakulturerzeugnissen für den menschlichen Verzehr sind in den Artikeln 4 bis 9 der Verordnung (EG) Nr. 1251/2008 der Kommission[^annexu1-lvlu1-lvlV-lvlB-1] niedergelegt.
+\3. Die Tiergesundheitsbedingungen für das Inverkehrbringen von Wassertieren zu Zierzwecken, von Tieren in Aquakultur, die für Zuchtbetriebe, einschliesslich Umsetzungsgebiete, Angelgewässer und offene Einrichtungen für Ziertiere sowie zur Wiederaufstockung bestimmt sind, sowie von Tieren in Aquakultur und Aquakulturerzeugnissen für den menschlichen Verzehr sind in den Artikeln 4 bis 9 der Verordnung (EG) Nr. 1251/2008 der Kommission[^annex2-lvlu1-lvlV-lvlB-1] niedergelegt.
 
 \4. Insbesondere auf der Grundlage des Artikels 58 der Richtlinie 2006/88/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-[^annexu1-lvlu1-lvlV-lvlB-1]: Verordnung (EG) Nr. 1251/2008 der Kommission vom 12. Dezember 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates hinsichtlich der Bedingungen und Bescheinigungsvorschriften für das Inverkehrbringen und die Einfuhr in die Gemeinschaft von Tieren in Aquakultur und Aquakulturerzeugnissen sowie zur Festlegung einer Liste von Überträgerarten (Text von Bedeutung für den EWR) (ABl. L 337 vom 16.12.2008, S. 41).
+[^annex2-lvlu1-lvlV-lvlB-1]: Verordnung (EG) Nr. 1251/2008 der Kommission vom 12. Dezember 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates hinsichtlich der Bedingungen und Bescheinigungsvorschriften für das Inverkehrbringen und die Einfuhr in die Gemeinschaft von Tieren in Aquakultur und Aquakulturerzeugnissen sowie zur Festlegung einer Liste von Überträgerarten (Text von Bedeutung für den EWR) (ABl. L 337 vom 16.12.2008, S. 41).
 
 ### VI. Rinderembryonen
 
@@ -10509,11 +10215,11 @@ Dieser Vermerk kann von den schweizerischen Behörden geändert werden, um den A
 
 \6. Sendungen von Hunden und Katzen aus der Europäischen Union in die Schweiz unterliegen den Bestimmungen des Artikels 10 Absatz 2 der Richtlinie 92/65/EWG.
 
-Für die Kennzeichnung gilt die Verordnung (EU) Nr. 576/2013. Es ist der Ausweis gemäss Anhang II Teil 3 der Durchführungsverordnung (EU) Nr. 577/2013[^annexu1-lvlu1-lvlIX-lvlB-1] zu verwenden.
+Für die Kennzeichnung gilt die Verordnung (EU) Nr. 576/2013. Es ist der Ausweis gemäss Anhang II Teil 3 der Durchführungsverordnung (EU) Nr. 577/2013[^annex2-lvlu1-lvlIX-lvlB-1] zu verwenden.
 
 Die Gültigkeit der Tollwutimpfung bzw. der Auffrischungsimpfung ist in Anhang III der Verordnung (EU) Nr. 576/2013 festgelegt.
 
-\7. Sendungen von Sperma, Eizellen und Embryonen von Schafen und Ziegen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss der Entscheidung 2010/470/EU[^annexu1-lvlu1-lvlIX-lvlB-2] mit.
+\7. Sendungen von Sperma, Eizellen und Embryonen von Schafen und Ziegen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss der Entscheidung 2010/470/EU[^annex2-lvlu1-lvlIX-lvlB-2] mit.
 
 \8. Sendungen von Equidensperma im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss der Entscheidung 2010/470/EU mit.
 
@@ -10527,8 +10233,8 @@ Die Gültigkeit der Tollwutimpfung bzw. der Auffrischungsimpfung ist in Anhang I
 
 \13. Die Informationen gemäss Artikel 24 Absatz 2 der Richtlinie 92/65/EWG werden dem Gemischten Veterinärausschuss übermittelt.
 
-[^annexu1-lvlu1-lvlIX-lvlB-1]: Durchführungsverordnung (EU) Nr. 577/2013 der Kommission vom 28. Juni 2013 zu den Muster-Identifizierungsdokumenten für die Verbringung von Hunden, Katzen und Frettchen zu anderen als Handelszwecken, zur Erstellung der Listen der Gebiete und Drittländer sowie zur Festlegung der Anforderungen an Format, Layout und Sprache der Erklärungen zur Bestätigung der Einhaltung bestimmter Bedingungen gemäss der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates Text von Bedeutung für den EWR (ABl. L 178 vom 28.6.2013, S. 109).
-[^annexu1-lvlu1-lvlIX-lvlB-2]: 2010/470/EU: Beschluss der Kommission vom 26. August 2010 mit Muster-Veterinärbescheinigungen für den Handel innerhalb der Union mit Samen, Eizellen und Embryonen von Pferden, Schafen und Ziegen sowie mit Eizellen und Embryonen von Schweinen (ABl. L 228 vom 31.8.2010, S. 15).
+[^annex2-lvlu1-lvlIX-lvlB-1]: Durchführungsverordnung (EU) Nr. 577/2013 der Kommission vom 28. Juni 2013 zu den Muster-Identifizierungsdokumenten für die Verbringung von Hunden, Katzen und Frettchen zu anderen als Handelszwecken, zur Erstellung der Listen der Gebiete und Drittländer sowie zur Festlegung der Anforderungen an Format, Layout und Sprache der Erklärungen zur Bestätigung der Einhaltung bestimmter Bedingungen gemäss der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates Text von Bedeutung für den EWR (ABl. L 178 vom 28.6.2013, S. 109).
+[^annex2-lvlu1-lvlIX-lvlB-2]: 2010/470/EU: Beschluss der Kommission vom 26. August 2010 mit Muster-Veterinärbescheinigungen für den Handel innerhalb der Union mit Samen, Eizellen und Embryonen von Pferden, Schafen und Ziegen sowie mit Eizellen und Embryonen von Schweinen (ABl. L 228 vom 31.8.2010, S. 15).
 
 ### X. Verbringung von Heimtieren zu anderen als Handelszwecken
 
@@ -10551,7 +10257,7 @@ Die Gültigkeit der Tollwutimpfung bzw. der Auffrischungsimpfung ist in Anhang I
 
 \4. Für die Verbringung von Heimtieren zu anderen als Handelszwecken zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz im Sinne dieser Anlage gilt Kapitel II der Verordnung (EU) Nr. 576/2013 entsprechend. Für die Dokumenten- und Nämlichkeitskontrollen bei Verbringungen von Heimtieren zu anderen als Handelszwecken aus einem Mitgliedstaat der Europäischen Union in die Schweiz gelten die Bestimmungen des Artikels 33 der Verordnung (EU) Nr. 576/2013.
 
-Anlage 3*[^t-26]*
+Anlage 3[^t-26]
 
 ## Einfuhr lebender Tiere und deren Sperma, Eizellen und Embryonen aus Drittländern
 
@@ -10633,7 +10339,7 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen und die Mitgliedst
 
 Für die Zwecke dieses Anhangs werden die Namen der Einrichtungen, die für die Schweiz als zugelassene Zentren gemäss den Bestimmungen des Anhangs C der Richtlinie 92/65/EWG anerkannt sind, auf der Website des Bundesamts für Lebensmittelsicherheit und Veterinärwesen veröffentlicht.
 
-Anlage 4*[^t-27]*
+Anlage 4[^t-27]
 
 ## Tierzucht, einschliesslich Einfuhr von Zuchtmaterial aus Drittländern
 
@@ -10656,7 +10362,7 @@ Unbeschadet der in den Anlagen 5 und 6 aufgeführten Vorschriften für Tierzucht
 
 Bei Schwierigkeiten wird auf Antrag einer der beiden Parteien der Gemischte Veterinärausschuss befasst.
 
-Anlage 5*[^t-28]*
+Anlage 5[^t-28]
 
 ## Lebende Tiere, Sperma, Eizellen und Embryonen: Grenzkontrollen und Kontrollgebühren
 
@@ -10706,7 +10412,7 @@ Weidegang: das Treiben von Tieren auf einen Gebietsstreifen von 10 km diesseits 
 
 Tagesweidegang: Weidegang, bei dem die Tiere bei Tagesende wieder in ihren Herkunftsbetrieb im Mitgliedstaat der Europäischen Union oder in der Schweiz zurückgetrieben werden.
 
-\2. Für den Grenzweidegang zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gelten die Bestimmungen der Entscheidung 2001/672/EG der Kommission[^annexu1-lvlu1-chapII-lvlC-1] entsprechend. Im Rahmen dieses Anhangs gilt Artikel 1 der Entscheidung 2001/672/EG jedoch vorbehaltlich folgender Anpassungen:
+\2. Für den Grenzweidegang zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gelten die Bestimmungen der Entscheidung 2001/672/EG der Kommission[^annex5-lvlu1-chapII-lvlC-1] entsprechend. Im Rahmen dieses Anhangs gilt Artikel 1 der Entscheidung 2001/672/EG jedoch vorbehaltlich folgender Anpassungen:
 
 - – Der Zeitraum 1. Mai bis 15. Oktober wird durch «Kalenderjahr» ersetzt.
 - – Für die Schweiz sind die in Artikel 1 der Entscheidung 2001/672/EG genannten und in dem entsprechenden Anhang festgelegten Teilgebiete Folgende:
@@ -10822,15 +10528,15 @@ Muster der Gesundheitsbescheinigung für den Grenzweidegang oder den Tagesweideg
 <tr><td></td><td colspan="4">Amtlicher Tierarzt/Amtliche Tierärztin oder amtlicher Inspektor/amtliche Inspektorin Name (in Grossbuchstaben): Qualifikation und Amtsbezeichnung: Örtliches Veterinäramt: Nr. des örtlichen Veterinäramts: Datum: Unterschrift: Stempel:</td></tr>
 </table>
 
-[^annexu1-lvlu1-chapII-lvlC-1]: Entscheidung 2001/672/EG der Kommission vom 20. August 2001 mit besonderen Regeln für die Bewegungen von Rindern im Fall des Auftriebs auf die Sommerweide in Berggebieten (ABl. L 235 vom 4.9.2001, S. 23).
+[^annex5-lvlu1-chapII-lvlC-1]: Entscheidung 2001/672/EG der Kommission vom 20. August 2001 mit besonderen Regeln für die Bewegungen von Rindern im Fall des Auftriebs auf die Sommerweide in Berggebieten (ABl. L 235 vom 4.9.2001, S. 23).
 
 ### Kapitel III Bedingungen für den Handel zwischen der Europäischen Union und der Schweizerischen Eidgenossenschaft
 
 ### A. Rechtsvorschriften
 
-Für den Handel mit lebenden Tieren, ihrem Sperma, ihren Eizellen und Embryonen sowie für den Grenzweidegang von Rindern zwischen der Gemeinschaft und der Schweiz werden die im vorliegenden Anhang vorgesehenen und in TRACES verfügbaren Bescheinigungen gemäss den Bestimmungen der Verordnung (EG) Nr. 599/2004 der Kommission[^annexu1-lvlu1-chapIII-lvlA-1] verwendet.
+Für den Handel mit lebenden Tieren, ihrem Sperma, ihren Eizellen und Embryonen sowie für den Grenzweidegang von Rindern zwischen der Gemeinschaft und der Schweiz werden die im vorliegenden Anhang vorgesehenen und in TRACES verfügbaren Bescheinigungen gemäss den Bestimmungen der Verordnung (EG) Nr. 599/2004 der Kommission[^annex5-lvlu1-chapIII-lvlA-1] verwendet.
 
-[^annexu1-lvlu1-chapIII-lvlA-1]: Verordnung (EG) Nr. 599/2004 der Kommission vom 30. März 2004 zur Festlegung einheitlicher Musterbescheinigungen und Kontrollberichte für den innergemeinschaftlichen Handel mit Tieren und Erzeugnissen tierischen Ursprungs (ABl. L 94 vom 31.3.2004, S. 44).
+[^annex5-lvlu1-chapIII-lvlA-1]: Verordnung (EG) Nr. 599/2004 der Kommission vom 30. März 2004 zur Festlegung einheitlicher Musterbescheinigungen und Kontrollberichte für den innergemeinschaftlichen Handel mit Tieren und Erzeugnissen tierischen Ursprungs (ABl. L 94 vom 31.3.2004, S. 44).
 
 ### Kapitel IV: Veterinärkontrollen bei Einfuhren aus Drittländern
 
@@ -10847,7 +10553,7 @@ Die Kontrollen bei Einfuhren aus Drittländern werden nach den Bestimmungen der 
 
 ### B. Durchführungsbestimmungen
 
-\1. Für die Zwecke der Anwendung des Artikels 6 der Richtlinie 91/496/EWG sind die für Veterinärkontrollen lebender Tiere zugelassenen Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union im Anhang I der Entscheidung 2009/821/EG aufgeführt[^annexu1-lvlu1-chapIV-lvlB-1].
+\1. Für die Zwecke der Anwendung des Artikels 6 der Richtlinie 91/496/EWG sind die für Veterinärkontrollen lebender Tiere zugelassenen Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union im Anhang I der Entscheidung 2009/821/EG aufgeführt[^annex5-lvlu1-chapIV-lvlB-1].
 
 \2. Für die Zwecke der Anwendung des Artikels 6 der Richtlinie 91/496/EWG sind für die Schweiz folgende Grenzkontrollstellen zuständig:
 
@@ -10872,7 +10578,7 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen und die Mitgliedst
 
 \5. Die unter Nummer 2 genannten Grenzkontrollstellen der Schweiz führen Kontrollen der für die Mitgliedstaaten der Europäischen Union bestimmten Einfuhren aus Drittländern nach den Bestimmungen in Abschnitt A dieses Kapitels durch.
 
-[^annexu1-lvlu1-chapIV-lvlB-1]: Entscheidung 2009/821/EG der Kommission vom 28. September 2009 zur Aufstellung eines Verzeichnisses zugelassener Grenzkontrollstellen, zur Festlegung bestimmter Vorschriften für die von Veterinärsachverständigen der Kommission durchgeführten Inspektionen und zur Definition der Veterinäreinheiten in TRACES (ABl. L 296 vom 12.11.2009, S. 1).
+[^annex5-lvlu1-chapIV-lvlB-1]: Entscheidung 2009/821/EG der Kommission vom 28. September 2009 zur Aufstellung eines Verzeichnisses zugelassener Grenzkontrollstellen, zur Festlegung bestimmter Vorschriften für die von Veterinärsachverständigen der Kommission durchgeführten Inspektionen und zur Definition der Veterinäreinheiten in TRACES (ABl. L 296 vom 12.11.2009, S. 1).
 
 ### Kapitel V: Besondere Vorschriften
 
@@ -10919,7 +10625,7 @@ Die Kontrollen bei Einfuhren aus Drittländern werden nach den Bestimmungen der 
 
 \2. Die schweizerischen Behörden verpflichten sich, bei Veterinärkontrollen von Einfuhren aus Drittländern die in der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vorgesehenen Gebühren zu erheben.
 
-Anlage 6*[^t-29]*
+Anlage 6[^t-29]
 
 ## Tierische Erzeugnisse
 
@@ -10991,7 +10697,7 @@ Sonderbedingungen
 
 (4) Die zuständigen schweizerischen Behörden sichern zu, dass die Schlachtkörper und das Fleisch von Hausschweinen, die in der Europäischen Union in Verkehr gebracht werden, zuvor einer Untersuchung zur Feststellung von Trichinella unterzogen worden sind.
 
-(5) Bei der Trichinenuntersuchung verwendet die Schweiz die in Anhang I Kapitel I und II der Durchführungsverordnung (EU) Nr. 2015/1375 der Kommission[^annexu1-lvlu1-chapI-lvlu1-1] beschriebenen Nachweismethoden.
+(5) Bei der Trichinenuntersuchung verwendet die Schweiz die in Anhang I Kapitel I und II der Durchführungsverordnung (EU) Nr. 2015/1375 der Kommission[^annex6-lvlu1-chapI-lvlu1-1] beschriebenen Nachweismethoden.
 
 (6) Gemäss Artikel 8 Absatz 1 Buchstabe a und Absatz 3 der Verordnung des EDI über die Hygiene beim Schlachten (VHyS) vom 23. November 2005 (SR *817.190.1*) und Artikel 10 Absatz 8 der Verordnung des EDI über Lebensmittel tierischer Herkunft vom 16. Dezember 2016 (SR *817.022.108*) sind nicht für den Markt der Europäischen Union bestimmte(s) Schlachtkörper und Fleisch von Hausschweinen, die zur Mast und Schlachtung gehalten werden, sowie nicht für den Markt der Europäischen Union bestimmte Fleischzubereitungen, Fleischerzeugnisse und verarbeitete Fleischerzeugnisse, mit dem besonderen Genusstauglichkeitskennzeichen zu versehen, das dem Muster in Anhang 9 letzter Absatz der Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten entspricht.
 
@@ -11027,7 +10733,7 @@ Gemäss Artikel 10 der Verordnung des EDI vom 16. Dezember 2016 dürfen diese Er
 
 (11) Die Referenzlaboratorien der Europäischen Union für Rückstände von Tierarzneimitteln und Kontaminanten in Lebensmitteln tierischen Ursprungs sind folgende:
 
-- a) Für die in Anhang I Gruppe A Nummern 1, 2, 3 und 4, Gruppe B Nummer 2 Buchstabe d und Gruppe B Nummer 3 Buchstabe d der Richtlinie 96/23/EG[^annexu1-lvlu1-chapI-lvlu1-2] genannten Rückstände:
+- a) Für die in Anhang I Gruppe A Nummern 1, 2, 3 und 4, Gruppe B Nummer 2 Buchstabe d und Gruppe B Nummer 3 Buchstabe d der Richtlinie 96/23/EG[^annex6-lvlu1-chapI-lvlu1-2] genannten Rückstände:
 - RIKILT – Institute of Food Safety, im Wageningen UR
 - P.O.Box 230
 - 6700 AE Wageningen
@@ -11068,17 +10774,17 @@ Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen
 - 14\. Richtlinie 2009/32/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Extraktionslösungsmittel, die bei der Herstellung von Lebensmitteln und Lebensmittelzutaten verwendet werden (ABl. L 141 vom 6.6.2009, S. 3);
 - 15\. Verordnung (EG) Nr. 470/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die Schaffung eines Gemeinschaftsverfahrens für die Festsetzung von Höchstmengen für Rückstände pharmakologisch wirksamer Stoffe in Lebensmitteln tierischen Ursprungs, zur Aufhebung der Verordnung (EWG) Nr. 2377/90 des Rates und zur Änderung der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates (ABl. L 152 vom 16.6.2009, S. 11).
 
-[^annexu1-lvlu1-chapI-lvlu1-1]: Durchführungsverordnung (EU) 2015/1375 der Kommission vom 10. August 2015 mit spezifischen Vorschriften für die amtlichen Fleischuntersuchungen auf Trichinen (ABl. L 212 vom 11.8.2015, S. 7).
-[^annexu1-lvlu1-chapI-lvlu1-2]: Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmassnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. L 125 vom 23.5.1996, S. 10).
+[^annex6-lvlu1-chapI-lvlu1-1]: Durchführungsverordnung (EU) 2015/1375 der Kommission vom 10. August 2015 mit spezifischen Vorschriften für die amtlichen Fleischuntersuchungen auf Trichinen (ABl. L 212 vom 11.8.2015, S. 7).
+[^annex6-lvlu1-chapI-lvlu1-2]: Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmassnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. L 125 vom 23.5.1996, S. 10).
 
 ### «Nicht zum Verzehr bestimmte tierische Nebenprodukte»
 
 <table>
-<tr><th colspan="5">Ausfuhren der Europäischen Union in die Schweiz und Schweizer Ausfuhren in die Europäische Union</th></tr>
-<tr><th colspan="3">Handelsbedingungen</th><th colspan="2">Äquivalenz</th></tr>
-<tr><th>Europäische Union\*</th><th></th><th>Schweiz\*</th><th colspan="2"></th></tr>
+<tr><td colspan="5">Ausfuhren der Europäischen Union in die Schweiz und Schweizer Ausfuhren in die Europäische Union</td></tr>
+<tr><td colspan="3">Handelsbedingungen</td><td colspan="2">Äquivalenz</td></tr>
+<tr><td>Europäische Union\*</td><td></td><td>Schweiz\*</td><td colspan="2"></td></tr>
 <tr><td colspan="4">\* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.</td></tr>
-<tr><th>1. Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1) 2. Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte; ABl. L 300 vom 14.11.2009, S. 1) 3. Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1)</th><th>[tab]</th><th>1. Verordnung vom 23. November 2005 über das Schlachten und die Fleischkontrolle (VSFK; SR *817.190*) 2. Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten (VHyS; SR *817.190.1*) 3. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*) 4. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 5. Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP; SR *916.441.22*)</th><th colspan="2">Ja, mit Sonderbedingungen</th></tr>
+<tr><td>1. Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1) 2. Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte; ABl. L 300 vom 14.11.2009, S. 1) 3. Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1)</td><td></td><td>1. Verordnung vom 23. November 2005 über das Schlachten und die Fleischkontrolle (VSFK; SR *817.190*) 2. Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten (VHyS; SR *817.190.1*) 3. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*) 4. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 5. Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP; SR *916.441.22*)</td><td colspan="2">Ja, mit Sonderbedingungen</td></tr>
 </table>
 
 Sonderbedingungen
@@ -11099,7 +10805,7 @@ Diese Ausfuhren unterliegen den Vorschriften für den Handel innerhalb der Union
 
 Erforderlichenfalls werden die Bescheinigungsmuster im Gemischten Veterinärausschuss geprüft.
 
-Anlage 7*[^t-30]*
+Anlage 7[^t-30]
 
 ## Zuständige Behörden
 
@@ -11118,7 +10824,6 @@ Die Veterinärbehörden der einzelnen Mitgliedstaaten der Europäischen Union un
 
 - – Ausfuhr in die Schweiz: die Mitgliedstaaten der Europäischen Union sind zuständig für die Kontrolle der Einhaltung der Produktionsbedingungen und insbesondere für die gesetzlich vorgeschriebenen Kontrollen sowie die Veterinärbescheinigungen über die Erfüllung der einschlägigen Veterinärbedingungen;
 - – die Europäische Kommission ist zuständig für die allgemeine Koordinierung, Audits der Überwachungssysteme und die gesetzlichen Regelungen, die erforderlich sind, um die einheitliche Anwendung der Normen und Vorschriften im Europäischen Binnenmarkt zu gewährleisten.
-- [tab]
 
 Anlage 8
 
@@ -11208,7 +10913,7 @@ Zum Zwecke dieser Anlage wird «Prüfung» als Effizienzbewertung definiert.
 
 - Ein Entwurf des Prüfungsberichts wird der geprüften Stelle so bald wie möglich übermittelt. Diese wird gebeten, innerhalb eines Monats zu dem Entwurf Stellung zu nehmen; die Stellungnahmen werden in den Schlussbericht aufgenommen.
 
-Anlage 10*[^t-31]*
+Anlage 10[^t-31]
 
 ## Tierische Erzeugnisse: Grenzkontrollen und Kontrollgebühren
 
@@ -11411,7 +11116,7 @@ Für die übrigen Sektoren gelten weiterhin die in Anlage 6 Kapitel II festgeleg
 
 \2. Die schweizerischen Behörden verpflichten sich, bei Veterinärkontrollen von Einfuhren aus Drittländern die in der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1) vorgesehenen Gebühren zu erheben.
 
-Anlage 11*[^t-32]*
+Anlage 11[^t-32]
 
 ## Kontaktstellen
 
@@ -11437,11 +11142,11 @@ Bundesamt für Lebensmittelsicherheit und Veterinärwesen
 
 3003 Bern, Schweiz
 
-Anhang 12*[^t-33]*
+Anhang 12[^t-33]
 
 ## Zum Schutz von Ursprungsbezeichnungen und geografischen Angaben für Agrarerzeugnisse und Lebensmittel
 
-[^t-33]: Eingefügt durch Art. 1 Ziff. 1 des Abk. vom 17. Mai 2011 zwischen der Schweizerischen Eidgenossenschaft und der EU zum Schutz von Ursprungsbezeichnungen und geografischen Angaben für Agrarerzeugnisse und Lebensmittel, in Kraft seit 1. Dez. 2011 ( [AS 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
+[^t-33]: Eingefügt durch Art. 1 Ziff. 1 des Abk. vom 17. Mai 2011 zwischen der Schweizerischen Eidgenossenschaft und der EU zum Schutz von Ursprungsbezeichnungen und geografischen Angaben für Agrarerzeugnisse und Lebensmittel, in Kraft seit 1. Dez. 2011 ([AS 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
 
 #### Art. 1
 
@@ -11585,7 +11290,7 @@ In diesem Zusammenhang sind die Parteien insbesondere übereingekommen, dass der
 
 Dieser Anhang gilt unbeschadet der Rechte und Pflichten der Parteien nach dem Abkommen zur Errichtung der Welthandelsorganisation[^annex12-lvlu1-10-1] und allen anderen multilateralen Abkommen zum Recht des geistigen Eigentums, bei dem die Schweiz und die Union Vertragsparteien sind.
 
-[^annex12-lvlu1-10-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^annex12-lvlu1-10-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 11
 
@@ -11651,16 +11356,16 @@ Die Parteien treffen alle erforderlichen Massnahmen, damit ihre jeweiligen Zollb
 
 <sup>(3)</sup> Unbeschadet etwaiger vom Ausschuss erlassener anderslautender Vorschriften dürfen Erzeugnisse, die gemäss den Vorschriften dieses Anhangs hergestellt, bezeichnet und aufgemacht sind, deren Herstellung, Bezeichnung und Aufmachung jedoch nach einer Änderung des Anhangs diesen Bestimmungen nicht mehr entspricht, bis zur Erschöpfung der Bestände vermarktet werden.
 
-Anlage 1*[^t-34]*
+Anlage 1[^t-34]
 
-## Listen der jeweiligen g.A., die von der anderen Partei geschützt sind
+## Listen der jeweiligen g. A., die von der anderen Partei geschützt sind
 
-[^t-34]: Fassung gemäss Art. 1 der Beschlusses Nr. 1/2020 des Gemischten Ausschusses für Landwirtschaft vom 31. Juli 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4849](https://fedlex.data.admin.ch/eli/oc/2020/873)).
+[^t-34]: Fassung gemäss Art. 1 der Beschlusses Nr. 2/2022 des Gemischten Ausschusses für Landwirtschaft vom 17. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 28](https://fedlex.data.admin.ch/eli/oc/2023/28)).
 
-### 1. 1. Liste der g.A. der Schweiz
+### 1. Liste der g. A. der Schweiz
 
 <table>
-<tr><td>Erzeugnisart</td><td>Name</td><td>Schutz (1)</td></tr>
+<tr><th>Erzeugnisart</th><th>Name</th><th>Schutz (1)</th></tr>
 <tr><td>Gewürze:</td><td>Munder Safran</td><td>GUB</td></tr>
 <tr><td>Käse:</td><td>Berner Alpkäse / Berner Hobelkäse</td><td>GUB</td></tr>
 <tr><td></td><td>Formaggio d’alpe ticinese</td><td>GUB</td></tr>
@@ -11675,1332 +11380,1338 @@ Anlage 1*[^t-34]*
 <tr><td></td><td>Werdenberger Sauerkäse / Liechtensteiner Sauerkäse / Bloderkäse</td><td>GUB</td></tr>
 <tr><td>Obst:</td><td>Poire à Botzi</td><td>GUB</td></tr>
 <tr><td>Gemüse:</td><td>Cardon épineux genevois</td><td>GUB</td></tr>
-<tr><td>Fleisch- und Wurstwaren:</td><td>Glarner Kalberwurst</td><td>GGA</td></tr>
+<tr><td>Fleisch- und Wurstwaren:</td><td>Appenzeller Mostbröckli</td><td>GGA</td></tr>
+<tr><td></td><td>Appenzeller Pantli</td><td>GGA</td></tr>
+<tr><td></td><td>Appenzeller Siedwurst</td><td>GGA</td></tr>
+<tr><td></td><td>Berner Zungenwurst</td><td>GGA</td></tr>
+<tr><td></td><td>Bündnerfleisch</td><td>GGA</td></tr>
+<tr><td></td><td>Glarner Kalberwurst</td><td>GGA</td></tr>
 <tr><td></td><td>Jambon cru du Valais</td><td>GGA</td></tr>
 <tr><td></td><td>Lard sec du Valais</td><td>GGA</td></tr>
 <tr><td></td><td>Longeole</td><td>GGA</td></tr>
+<tr><td></td><td>Saucisse aux choux vaudoise</td><td>GGA</td></tr>
 <tr><td></td><td>Saucisse d’Ajoie</td><td>GGA</td></tr>
 <tr><td></td><td>Saucisson neuchâtelois / Saucisse neuchâteloise</td><td>GGA</td></tr>
 <tr><td></td><td>Saucisson vaudois</td><td>GGA</td></tr>
-<tr><td></td><td>Saucisse aux choux vaudoise</td><td>GGA</td></tr>
 <tr><td></td><td>St. Galler Bratwurst / St. Galler Kalbsbratwurst</td><td>GGA</td></tr>
-<tr><td></td><td>Bündnerfleisch</td><td>GGA</td></tr>
 <tr><td></td><td>Viande séchée du Valais</td><td>GGA</td></tr>
-<tr><td>Backwaren:</td><td>Zuger Kirschtorte[^annexu1-lvlu1-lvl1.-1]</td><td>GGA</td></tr>
-<tr><td></td><td>Pain de seigle valaisan/Walliser Roggenbrot</td><td>GUB</td></tr>
+<tr><td>Backwaren:</td><td>Cuchaule / Freiburger Safranbrot</td><td>GUB</td></tr>
+<tr><td></td><td>Zuger Kirschtorte</td><td>GGA</td></tr>
+<tr><td></td><td>Pain de seigle valaisan / Walliser Roggenbrot</td><td>GUB</td></tr>
 <tr><td>Mühlenerzeugnisse:</td><td>Rheintaler Ribel / Türggen Ribel</td><td>GUB</td></tr>
 <tr><td colspan="3">(1) Gemäss den geltenden Schweizer Rechtsvorschriften nach Anlage 2.</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1.-1]: Gemäss Art. 2 des Beschlusses Nr. 1/2020 steht der Schutz der weiteren Verwendung dieser Bezeichnung zur Benennung und Aufmachung bestimmter vergleichbarer Erzeugnisse nicht schweizerischen Ursprungs im Gebiet der Union während einer Übergangszeit von zwei Jahren nach Inkrafttreten dieses Beschlusses nicht entgegen.
+### 2. Liste der g. A. der Union
 
-### 2. 2. Liste der g.A. der Union
-
-Die Klassifizierung der Erzeugnisse ist in Anhang XI der Durchführungsverordnung (EU) Nr. 668/2014 der Kommission (ABl. L 179 vom 19.6.2014, S.36) enthalten.
+Die Klassifizierung der Erzeugnisse ist in Anhang XI der Durchführungsverordnung (EU) Nr. 668/2014 der Kommission (ABl. L 179 vom 19.6.2014, S. 36) enthalten.
 
 <table>
-<tr><th>Name</th><th>Transkription in lateinischen Buchstaben</th><th>Schutz (1)</th><th>Erzeugnisart</th></tr>
-<tr><td>Gailtaler Almkäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Gailtaler Speck</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Marchfeldspargel</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pöllauer Hirschbirne</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Steirische Käferbohne</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Steirischer Kren</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Steirisches Kürbiskernöl</td><td></td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Tiroler Almkäse / Tiroler Alpkäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Tiroler Bergkäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Tiroler Graukäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Tiroler Speck</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Vorarlberger Alpkäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Vorarlberger Bergkäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Wachauer Marille</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Waldviertler Graumohn</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Beurre d’Ardenne</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Brussels grondwitloof</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fromage de Herve</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Gentse azalea</td><td></td><td>g.g.A.</td><td>Blumen und Zierpflanzen</td></tr>
-<tr><td>Geraardsbergse Mattentaart</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Jambon d’Ardenne</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Liers vlaaike</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pâté gaumais</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Plate de Florenville</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Poperingse Hopscheuten / Poperingse Hoppescheuten</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Potjesvlees uit de Westhoek</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Vlaams – Brabantse Tafeldruif</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Vlaamse laurier</td><td></td><td>g.g.A.</td><td>Blumen und Zierpflanzen</td></tr>
-<tr><td>Bulgarsko rozovo maslo</td><td></td><td>g.g.A.</td><td>Ätherische Öle</td></tr>
-<tr><td>Горнооряховски суджук</td><td>Gornooryahovski sudzhuk</td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Γλυκό Τριαντάφυλλο Αγρού</td><td>Glyko Triantafyllo Agrou</td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Κολοκάσι Σωτήρας / Κολοκάσι-Πούλλες Σωτήρας</td><td>Kolokasi Sotiras / Kolokasi-Poulles Sotiras</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κουφέτα Αμυγδάλου Γεροσκήπου</td><td>Koufeta Amygdalou Geroskipou</td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Λουκούμι Γεροσκήπου</td><td>Loukoumi Geroskipou</td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Παφίτικο Λουκάνικο</td><td>Pafitiko Loukaniko</td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Březnický ležák</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Brněnské pivo/Starobrněnské pivo</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Budějovické pivo</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Budějovický měšťanský var</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Černá Hora</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>České pivo</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Českobudějovické pivo</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Český kmín</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Chamomilla bohemica</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Chelčicko — Lhenické ovoce</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Chodské pivo</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Hořické trubičky</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Jihočeská Niva</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Jihočeská Zlatá Niva</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Karlovarské oplatky</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Karlovarské trojhránky</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Karlovarský suchar</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Lomnické suchary</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Mariánskolázeňské oplatky</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Nošovické kysané zelí</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Olomoucké tvarůžky</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Pardubický perník</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pohořelický kapr</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Štramberské uši</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Třeboňský kapr</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>VALAŠSKÝ FRGÁL</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Všestarská cibule</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Žatecký chmel</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Znojemské pivo</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Aachener Printen</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Aachener Weihnachts-Leberwurst / Oecher Weihnachtsleberwurst</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Abensberger Spargel / Abensberger Qualitätsspargel</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Aischgründer Karpfen</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Allgäuer Bergkäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Allgäuer Sennalpkäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Altenburger Ziegenkäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Ammerländer Dielenrauchschinken / Ammerländer Katenschinken</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Ammerländer Schinken / Ammerländer Knochenschinken</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Bamberger Hörnla / Bamberger Hörnle / Bamberger Hörnchen</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Bayerische Breze / Bayerische Brezn / Bayerische Brez’n / Bayerische Brezel</td><td></td><td>g.g.A.</td><td>Backwaren, feine Back-waren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Bayerischer Meerrettich / Bayerischer Kren</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Bayerisches Bier</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Bayerisches Rindfleisch / Rindfleisch aus Bayern</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Bornheimer Spargel/Spargel aus dem Anbaugebiet Bornheim</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Bremer Bier</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Bremer Klaben</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Diepholzer Moorschnucke</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Dithmarscher Kohl</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Dortmunder Bier</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Dresdner Christstollen / Dresdner Stollen/ Dresdner Weihnachtsstollen</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Düsseldorfer Mostert / Düsseldorfer Senf Mostert / Düsseldorfer Urtyp Mostert / Aechter Düsseldorfer Mostert</td><td></td><td>g.g.A.</td><td>Senfpaste</td></tr>
-<tr><td>Elbe-Saale Hopfen</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Eichsfelder Feldgieker / Eichsfelder Feldkieker</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Feldsalat von der Insel Reichenau</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Filderkraut / Filderspitzkraut</td><td></td><td>g.g.A</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Flönz</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Frankfurter Grüne Sosse / Frankfurter Grie Soss</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fränkischer Grünkern</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fränkischer Karpfen / Frankenkarpfen / Karpfen aus Franken</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Glückstädter Matjes</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Göttinger Feldkieker</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Göttinger Stracke</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Greussener Salami</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Gurken von der Insel Reichenau</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Halberstädter Würstchen</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Hessischer Apfelwein</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Hessischer Handkäse / Hessischer Handkäs</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Hofer Bier</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Hofer Rindfleischwurst</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Holsteiner Karpfen</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Holsteiner Katenschinken / Holsteiner Schinken/ Holsteiner Katenrauchschinken/ Holsteiner Knochenschinken</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Hopfen aus der Hallertau</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Höri Bülle</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Kölsch</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Kulmbacher Bier</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Lausitzer Leinöl</td><td></td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Lübecker Marzipan</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Lüneburger Heidekartoffeln</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Lüneburger Heidschnucke</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Mainfranken Bier</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Meissner Fummel</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Münchener Bier</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Nieheimer Käse</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Nürnberger Bratwürste / Nürnberger Rostbratwürste</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Nürnberger Lebkuchen</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Obazda / Obatzter</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Oberlausitzer Biokarpfen</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Oberpfälzer Karpfen</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Odenwälder Frühstückskäse</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Oecher Puttes / Aachener Puttes</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Reuther Bier</td><td></td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Rheinisches Apfelkraut</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Rheinisches Zuckerrübenkraut / Rheinischer Zuckerrübensirup / Rheinisches Rübenkraut</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Salate von der Insel Reichenau</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Salzwedeler Baumkuchen</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Schrobenhausener Spargel / Spargel aus dem Schrobenhausener Land / Spargel aus dem Anbaugebiet Schrobenhausen</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Schwäbische Maultaschen / Schwäbische Suppenmaultaschen</td><td></td><td>g.g.A.</td><td>Teigwaren</td></tr>
-<tr><td>Schwäbische Spätzle / Schwäbische Knöpfle</td><td></td><td>g.g.A.</td><td>Teigwaren</td></tr>
-<tr><td>Schwäbisch-Hällisches Qualitätsschweinefleisch</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Schwarzwälder Schinken</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Schwarzwaldforelle</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Spalt Spalter</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Spargel aus Franken / Fränkischer Spargel / Franken-Spargel</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Spreewälder Gurken</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Spreewälder Meerrettich</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Stromberger Pflaume</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Tettnanger Hopfen</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Thüringer Leberwurst</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Thüringer Rostbratwurst</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Thüringer Rotwurst</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Tomaten von der Insel Reichenau</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Walbecker Spargel</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Weideochse vom Limpurger Rind</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Weisslacker / Allgäuer Weisslacker</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Westfälischer Knochenschinken</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Westfälischer Pumpernickel</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Danablu</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Esrom</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Lammefjordsgulerod</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Lammefjordskartofler</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Vadehavslam</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Vadehavsstude</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Άγιος Ματθαίος Κέρκυρας</td><td>Agios Mattheos Kerkyras</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Αγουρέλαιο Χαλκιδικής</td><td>Agoureleo Chalkidikis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Ακτινίδιο Πιερίας</td><td>Aktinidio Pierias</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ακτινίδιο Σπερχειού</td><td>Aktinidio Sperchiou</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ανεβατό</td><td>Anevato</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Αποκορώνας Χανίων Κρήτης</td><td>Apokoronas Chanion Kritis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Αρνάκι Ελασσόνας</td><td>Arnaki Elassonas</td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Αρχάνες Ηρακλείου Κρήτης</td><td>Arxanes Irakliou Kritis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Αυγοτάραχο Μεσολογγίου</td><td>Avgotaracho Messolongiou</td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Βιάννος Ηρακλείου Κρήτης</td><td>Viannos Irakliou Kritis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Βόρειος Μυλοπόταμος Ρεθύμνης Κρήτης</td><td>Vorios Mylopotamos Rethymnis Kritis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Γαλανό Μεταγγιτσίου Χαλκιδικής</td><td>Galano Metaggitsiou Chalkidikis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Γαλοτύρι</td><td>Galotyri</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Γραβιέρα Αγράφων</td><td>Graviera Agrafon</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Γραβιέρα Κρήτης</td><td>Graviera Kritis</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Γραβιέρα Νάξου</td><td>Graviera Naxou</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Ελιά Καλαμάτας</td><td>Elia Kalamatas</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Εξαιρετικό παρθένο ελαιόλαδο „Τροιζηνία“</td><td>Exeretiko partheno eleolado «Trizinia»</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Εξαιρετικό παρθένο ελαιόλαδο Θραψανό</td><td>Exeretiko partheno eleolado Thrapsano</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Εξαιρετικό Παρθένο Ελαιόλαδο Σέλινο Κρήτης</td><td>Exeretiko Partheno Eleolado Selino Kritis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Ζάκυνθος</td><td>Zakynthos</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Θάσος</td><td>Thassos</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Θρούμπα Αμπαδιάς Ρεθύμνης Κρήτης</td><td>Throumpa Ampadias Rethymnis Kritis</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Θρούμπα Θάσου</td><td>Throumpa Thassou</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Θρούμπα Χίου</td><td>Throumpa Chiou</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Καλαθάκι Λήμνου</td><td>Kalathaki Limnou</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Καλαμάτα</td><td>Kalamata</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Κασέρι</td><td>Kasseri</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Κατίκι Δομοκού</td><td>Katiki Domokou</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Κατσικάκι Ελασσόνας</td><td>Katsikaki Elassonas</td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Κελυφωτό φυστίκι Φθιώτιδας</td><td>Kelifoto fystiki Fthiotidas</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κεράσια τραγανά Ροδοχωρίου</td><td>Kerassia Tragana Rodochoriou</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κεφαλογραβιέρα</td><td>Kefalograviera</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Κεφαλονιά</td><td>Kefalonia</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Κολυμβάρι Χανίων Κρήτης</td><td>Kolymvari Chanion Kritis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Κονσερβολιά Αμφίσσης</td><td>Konservolia Amfissis</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κονσερβολιά Αρτας</td><td>Konservolia Artas</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κονσερβολιά Αταλάντης</td><td>Konservolia Atalantis</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κονσερβολιά Πηλίου Βόλου</td><td>Konservolia Piliou Volou</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κονσερβολιά Ροβίων</td><td>Konservolia Rovion</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κονσερβολιά Στυλίδας</td><td>Konservolia Stylidas</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κοπανιστή</td><td>Kopanisti</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Κορινθιακή Σταφίδα Βοστίτσα</td><td>Korinthiaki Stafida Vostitsa</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κουμ Κουάτ Κέρκυρας</td><td>Koum kouat Kerkyras</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Κρανίδι Αργολίδας</td><td>Kranidi Argolidas</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Κρητικό παξιμάδι</td><td>Kritiko paximadi</td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Κροκεές Λακωνίας</td><td>Krokees Lakonias</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Κρόκος Κοζάνης</td><td>Krokos Kozanis</td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Λαδοτύρι Μυτιλήνης</td><td>Ladotyri Mytilinis</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Λακωνία</td><td>Lakonia</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Λέσβος / Μυτιλήνη</td><td>Lesvos / Mytilini</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Λυγουριό Ασκληπιείου</td><td>Lygourio Asklipiiou</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Μανούρι</td><td>Manouri</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Μανταρίνι Χίου</td><td>Mandarini Chiou</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Μαστίχα Χίου</td><td>Masticha Chiou</td><td>g.U.</td><td>Natürliche Gummis und Harze</td></tr>
-<tr><td>Μαστιχέλαιο Χίου</td><td>Mastichelaio Chiou</td><td>g.U.</td><td>Ätherische Öle</td></tr>
-<tr><td>Μέλι Ελάτης Μαινάλου Βανίλια</td><td>Meli Elatis Menalou Vanilia</td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Μεσσαρά</td><td>Messara</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Μετσοβόνε</td><td>Metsovone</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Μήλα Ζαγοράς Πηλίου</td><td>Mila Zagoras Piliou</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Μήλα Ντελίσιους Πιλαφά Τριπόλεως</td><td>Mila Delicious Pilafa Tripoleos</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Μήλο Καστοριάς</td><td>Milo Kastorias</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Μπάτζος</td><td>Batzos</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Ξερά σύκα Κύμης</td><td>Xera syka Kymis</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ξύγαλο Σητείας / Ξίγαλο Σητείας</td><td>Xygalo Siteias / Xigalo Siteias</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Ξηρά Σύκα Ταξιάρχη</td><td>Xira Syka Taxiarchi</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ξυνομυζήθρα Κρήτης</td><td>Xynomyzithra Kritis</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Ολυμπία</td><td>Olympia</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Πατάτα Κάτω Νευροκοπίου</td><td>Patata Kato Nevrokopiou</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Πατάτα Νάξου</td><td>Patata Naxou</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Πεζά Ηρακλείου Κρήτης</td><td>Peza Irakliou Kritis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Πέτρινα Λακωνίας</td><td>Petrina Lakonias</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Πηχτόγαλο Χανίων</td><td>Pichtogalo Chanion</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Πορτοκάλια Μάλεμε Χανίων Κρήτης</td><td>Portokalia Maleme Chanion Kritis</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Πράσινες Ελιές Χαλκιδικής</td><td>Prasines Elies Chalkidikis</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Πρέβεζα</td><td>Preveza</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Ροδάκινα Νάουσας</td><td>Rodakina Naoussas</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ρόδος</td><td>Rodos</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Σάμος</td><td>Samos</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Σαν Μιχάλη</td><td>San Michali</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Σητεία Λασιθίου Κρήτης</td><td>Sitia Lasithiou Kritis</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Σταφίδα Ζακύνθου</td><td>Stafida Zakynthou</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Σταφίδα Ηλείας</td><td>Stafida Ilias</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Σταφίδα Σουλτανίνα Κρήτης</td><td>Stafida Soultanina Kritis</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Σύκα Βραβρώνας Μαρκοπούλου Μεσογείων</td><td>Syka Vavronas Markopoulou Messongion</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Σφέλα</td><td>Sfela</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Τοματάκι Σαντορίνης</td><td>Tomataki Santorinis</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Τσακώνικη μελιτζάνα Λεωνιδίου</td><td>Tsakoniki Melitzana Leonidiou</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Τσίχλα Χίου</td><td>Tsikla Chiou</td><td>g.U.</td><td>Natürliche Gummis und Harze</td></tr>
-<tr><td>Φάβα Σαντορίνης</td><td>Fava Santorinis</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φάβα Φενεού</td><td>Fava Feneou</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φασόλια Βανίλιες Φενεού</td><td>Fasolia Vanilies Feneou</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φασόλια (Γίγαντες Ελέφαντες) Πρεσπών Φλώρινας</td><td>Fassolia Gigantes Elefantes Prespon Florinas</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φασόλια (πλακέ μεγαλόσπερμα) Πρεσπών Φλώρινας</td><td>Fassolia (plake megalosperma) Prespon Florinas</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φασόλια γίγαντες – ελέφαντες Καστοριάς</td><td>Fassolia Gigantes Elefantes Kastorias</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φασόλια γίγαντες ελέφαντες Κάτω Νευροκοπίου</td><td>Fassolia Gigantes Elefantes Kato Nevrokopiou</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φασόλια κοινά μεσόσπερμα Κάτω Νευροκοπίου</td><td>Fassolia kina Messosperma Kato Nevrokopiou</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φέτα</td><td>Feta</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Φιρίκι Πηλίου</td><td>Firiki Piliou</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φοινίκι Λακωνίας</td><td>Finiki Lakonias</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Φορμαέλλα Αράχωβας Παρνασσού</td><td>Formaella Arachovas Parnassou</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Φυστίκι Αίγινας</td><td>Fystiki Eginas</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Φυστίκι Μεγάρων</td><td>Fystiki Megaron</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Χανιά Κρήτης</td><td>Chania Kritis</td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite Campo de Calatrava</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite Campo de Montiel</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite de La Alcarria</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite de la Rioja</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite de la Comunitat Valenciana</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite de Mallorca / Aceite mallorquín / Oli de Mallorca / Oli mallorquí</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite de Terra Alta / Oli de Terra Alta</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite del Baix Ebre-Montsià / Oli del Baix Ebre-Montsià</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite del Bajo Aragón</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite de Lucena</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite de Navarra</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite Monterrubio</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceite Sierra del Moncayo</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Aceituna Aloreña de Málaga</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Aceituna de Mallorca / Aceituna Mallorquina / Oliva de Mallorca/Oliva Mallorquina</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Afuega’l Pitu</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Ajo Morado de las Pedroñeras</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Alcachofa de Benicarló / Carxofa de Benicarló</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Alcachofa de Tudela</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Alfajor de Medina Sidonia</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Almendra de Mallorca/Almendra Mallorquina /Ametlla de Mallorca /Ametlla Mallorquina</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Alubia de La Bãneza-León</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Antequera</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Arroz de Valencia / Arròs de València</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Arroz del Delta del Ebro / Arròs del Delta de l’Ebre</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Arzùa-Ulloa</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Avellana de Reus</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Azafrán de la Mancha</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Baena</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Berenjena de Almagro</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Botillo del Bierzo</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Caballa de Andalucia</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Cabrales</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Calasparra</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Calçot de Valls</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Carne de Ávila</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne de Cantabria</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne de la Sierra de Guadarrama</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne de Morucha de Salamanca</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne de Vacuno del País Vasco / Euskal Okela</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Castaña de Galicia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cebolla Fuentes de Ebro</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cebreiro</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Cecina de León</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Cereza del Jerte</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cerezas de la Montaña de Alicante</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Chirimoya de la Costa tropical de Granada-Malaga</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Chorizo de Cantimpalos</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chorizo Riojano</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chosco de Tineo</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chufa de Valencia</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Cítricos Valencianos / Cítrics Valencians</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Clementinas de las Tierras del Ebro / Clementines de les Terres de l’Ebre</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Coliflor de Calahorra</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cordero de Extremadura</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cordero de Navarra / Nafarroako Arkumea</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cordero Manchego</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cordero Segureño</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Dehesa de Extremadura</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Ensaimada de Mallorca / Ensaimada mallorquina</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Espárrago de Huétor-Tájar</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Espárrago de Navarra</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Estepa</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Faba Asturiana</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Faba de Lourenzá</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fesols de Santa Pau</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Gall del Penedès</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Gamoneu / Gamonedo</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Garbanzo de Escacena</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Garbanzo de Fuentesaúco</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Gata-Hurdes</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Gofio Canario</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Granada Mollar de Elche / Granada de Elche</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Grelos de Galicia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Guijuelo</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Idiazabal</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Jamón de Huelva</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jamón de Serón</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jamón de Teruel/Paleta de Teruel</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jamón de Trevélez</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jijona</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Judías de El Barco de Ávila</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Kaki Ribera del Xúquer</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Lacón Gallego</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Lechazo de Castilla y León</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Lenteja de La Armuña</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Lenteja de Tierra de Campos</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Les Garrigues</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Los Pedroches</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Mahón-Menorca</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Mantecadas de Astorga</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Mantecados de Estepa</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Mantequilla de l’Alt Urgell y la Cerdanya / Mantega de l’Alt Urgell i la Cerdanya</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Mantequilla de Soria</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Manzana de Girona / Poma de Girona</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Manzana Reineta del Bierzo</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Mazapán de Toledo</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Mejillón de Galicia / Mexillón de Galicia</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Melocotón de Calanda</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Melón de la Mancha</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Melón de Torre Pacheco-Murcia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Melva de Andalucia</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Miel de Galicia / Mel de Galicia</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miel de Granada</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miel de La Alcarria</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miel de Liébana</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miel de Tenerife</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mojama de Barbate</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Mojama de Isla Cristina</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Mongeta del Ganxet</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Montes de Granada</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Montes de Toledo</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Montoro-Adamuz</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Nísperos Callosa d’En Sarriá</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Oli de l’Empordà / Aceite de L’Empordà</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Pa de Pagès Català</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pan de Alfacar</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pan de Cea</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pan de Cruz de Ciudad Real</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Papas Antiguas de Canarias</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pasas de Málaga</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pataca de Galicia / Patata de Galicia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Patatas de Prades / Patates de Prades</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pemento da Arnoia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pemento de Herbón</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pemento de Mougán</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pemento de Oímbra</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pemento do Couto</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pera de Jumilla</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pera de Lleida</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Peras de Rincón de Soto</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Picón Bejes-Tresviso</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pimentón de la Vera</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Pimentón de Murcia</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Pimiento Asado del Bierzo</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pimiento de Fresno-Benavente</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pimiento de Gernika oder Gernikako Piperra</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pimiento Riojano</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pimientos del Piquillo de Lodosa</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Plátano de Canarias</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Polvorones de Estepa</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pollo y Capón del Prat</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Poniente de Granada</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Priego de Córdoba</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Queso Camerano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso Casin</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso de Flor de Guía / Queso de Media Flor de Guía / Queso de Guía</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso de La Serena</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso de l’Alt Urgell y la Cerdanya</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso de Murcia</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso de Murcia al vino</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso de Valdeón</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Queso Ibores</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso Los Beyos</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Queso Majorero</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso Manchego</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso Nata de Cantabria</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso Palmero / Queso de la Palma</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso Tetilla / Queixo Tetilla</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queso Zamorano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Quesucos de Liébana</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Roncal</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Rosée des Pyrénées Catalanes</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Salchichón de Vic / Llonganissa de Vic</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>San Simón da Costa</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Sidra de Asturias / Sidra d’Asturies</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Sierra de Cadiz</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Sierra de Cazorla</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Sierra de Segura</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Sierra Mágina</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Siurana</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Sobao Pasiego</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Sobrasada de Mallorca</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Tarta de Santiago</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Ternasco de Aragón</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Ternera Asturiana</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Ternera de Aliste</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Ternera de Extremadura</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Ternera de los Pirineos Catalanes / Vedella dels Pirineus Catalans / Vedell des Pyrénées Catalanes</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Ternera de Navarra / Nafarroako Aratxea</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Ternera Gallega</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Tomate La Cañada</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Torta del Casar</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Turrón de Agramunt / Torró d’Agramunt</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Turrón de Alicante</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Uva de mesa embolsada «Vinalopó»</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Vinagre de Jerez</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Vinagre del Condado de Huelva</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Vinagre de Montilla-Moriles</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Kainuun rönttönen</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Kitkan viisas</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Lapin Poron kuivaliha</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Lapin Poron kylmäsavuliha</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Lapin Poron liha</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Lapin Puikula</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Puruveden muikku</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Abondance</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Abricots rouges du Roussillon</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Agneau de lait des Pyrénées</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agneau de l’Aveyron</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agneau de Lozère</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agneau de Pauillac</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agneau du Périgord</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agneau de Sisteron</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agneau du Bourbonnais</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agneau du Limousin</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agneau du Poitou-Charentes</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agneau du Quercy</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Ail blanc de Lomagne</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ail de la Drôme</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ail fumé d’Arleux</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ail rose de Lautrec</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Anchois de Collioure</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Artichaut du Rousillon</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Asperge des sables des Landes</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Asperges du Blayais</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Banon</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Barèges-Gavarnie</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Béa du Roussillon</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Beaufort</td><td>–</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Bergamote(s) de Nancy</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Beurre Charentes-Poitou / Beurre des Charentes / Beurre des Deux-Sèvres</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Beurre de Bresse</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Beurre d’Isigny</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Bleu d’Auvergne</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Bleu de Gex Haut-Jura / Bleu de Septmoncel</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Bleu des Causses</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Bleu du Vercors-Sassenage</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Bœuf charolais du Bourbonnais</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Bœuf de Bazas</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Bœuf de Chalosse</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Bœuf de Charolles</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Bœuf de Vendée</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Bœuf du Maine</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Boudin blanc de Rethel</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Brie de Meaux</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Brie de Melun</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Brioche vendéenne</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Brocciu Corse / Brocciu</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Camembert de Normandie</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Canard à foie gras du Sud-Ouest (Chalosse, Gascogne, Gers, Landes, Périgord, Quercy)</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Cantal / Fourme de Cantal / Cantalet</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Chabichou du Poitou</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Chaource</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Chapon du Périgord</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Charolais</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Chasselas de Moissac</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Châtaigne d’Ardèche</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Chevrotin</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Cidre de Bretagne / Cidre Breton</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Cidre de Normandie / Cidre Normand</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Citron de Menton</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Clémentine de Corse</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Coco de Paimpol</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Comté</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Coppa de Corse / Coppa de Corse – Coppa di Corsica</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Coquille Saint-Jacques des Côtes d’Armor</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Cornouaille</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Crème de Bresse</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Crème d’Isigny</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Crème fraîche fluide d’Alsace</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Crottin de Chavignol / Chavignol</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Dinde de Bresse</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Domfront</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Echalote d’Anjou</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Époisses</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Farine de blé noir de Bretagne / Farine de blé noir de Bretagne – Gwinizh du Breizh</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Farine de châtaigne corse / Farina castagnina corsa</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Farine de Petit Epeautre de Haute Provence</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Figue de Solliès</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fin Gras / Fin Gras du Mézenc</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Foin de Crau</td><td></td><td>g.U.</td><td>Heu</td></tr>
-<tr><td>Fourme d’Ambert</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Fourme de Montbrison</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Fraise du Périgord</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fraises de Nîmes</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Gâche vendéenne</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Génisse Fleur d’Aubrac</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Gruyère[^annexu1-lvlu1-lvl2.-1]</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Haricot tarbais</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Huile d’olive d’Aix-en-Provence</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Huile d’olive de Corse / Huile d’olive de Corse-Oliu di Corsica</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Huile d’olive de Haute-Provence</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Huile d’olive de la Vallée des Baux-de-Provence</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Huile d’olive de Nice</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Huile d’olive de Nîmes</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Huile d’olive de Nyons</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Huile essentielle de lavande de Haute-Provence / Essence de lavande de Haute-Provence</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Huîtres Marennes Oléron</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Jambon d’Auvergne</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jambon de Bayonne</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jambon sec de Corse / Jambon sec de Corse – Prisuttu</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jambon de Lacaune</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jambon de l’Ardèche</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jambon de Vendée</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Jambon sec des Ardennes/ Noix de Jambon sec des Ardennes</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Kiwi de l’Adour</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Laguiole</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Langres</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Lentille verte du Puy</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Lentilles vertes du Berry</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Lingot du Nord</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Livarot</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Lonzo de Corse / Lonzo de Corse – Lonzu</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Mâche nantaise</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Mâconnais</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Maine – Anjou</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Maroilles / Marolles</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Melon de Guadeloupe</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Melon du Haut-Poitou</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Melon du Quercy</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Miel d’Alsace</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miel de Cévennes</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miel de Corse / Mele di Corsica</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miel de Provence</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miel de sapin des Vosges</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mirabelles de Lorraine</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Mogette de Vendée</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Mont d’or / Vacherin du Haut-Doubs</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Morbier</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Moules de Bouchot de la Baie du Mont-Saint-Michel</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Moutarde de Bourgogne</td><td></td><td>g.g.A.</td><td>Senfpaste</td></tr>
-<tr><td>Munster / Munster-Géromé</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Muscat du Ventoux</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Neufchâtel</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Noisette de Cervione – Nuciola di Cervioni</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Noix de Grenoble</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Noix du Périgord</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Œufs de Loué</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Oie d’Anjou</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Oignon de Roscoff</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Oignon doux des Cévennes</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Olive de Nice</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Olive de Nîmes</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Olives cassées de la Vallée des Baux-de-Provence</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Olives noires de la Vallée des Baux de Provence</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Olives noires de Nyons</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ossau-Iraty</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pâté de Campagne Breton</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Pâtes d’Alsace</td><td></td><td>g.g.A.</td><td>Teigwaren</td></tr>
-<tr><td>Pays d’Auge / Pays d’Auge-Cambremer</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Pélardon</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Petit Épeautre de Haute-Provence</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Picodon</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Piment d’Espelette / Piment d’Espelette – Ezpeletako Biperra</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Pintadeau de la Drôme</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Pintade de l’Ardèche</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Poireaux de Créances</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pomelo de Corse</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pomme de terre de l’Île de Ré</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pomme du Limousin</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pommes des Alpes de Haute Durance</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pommes de terre de Merville</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pommes et poires de Savoie / Pommes de Savoie / Poires de Savoie</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pont-l’Évêque</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Porc d’Auvergne</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Porc de Franche-Comté</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Porc de la Sarthe</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Porc de Normandie</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Porc de Vendée</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Porc du Limousin</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Porc du Sud-Ouest</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Poularde du Périgord</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Poulet de l’Ardèche / Chapon de l’Ardèche</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Poulet des Cévennes / Chapon des Cévennes</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Poulet du Périgord</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Pouligny-Saint-Pierre</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Prés-salés de la baie de Somme</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Prés-salés du Mont-Saint-Michel</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Pruneaux d’Agen / Pruneaux d’Agen mi-cuits</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Raviole du Dauphiné</td><td></td><td>g.g.A.</td><td>Teigwaren</td></tr>
-<tr><td>Reblochon / Reblochon de Savoie</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Rigotte de Condrieu</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Rillettes de Tours</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Riz de Camargue</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Rocamadour</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Roquefort</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Sainte-Maure de Touraine</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Saint-Marcellin</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Saint-Nectaire</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Salers</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Saucisse de Montbéliard</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Saucisse de Morteau / Jésus de Morteau</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Saucisson de Lacaune / Saucisse de Lacaune</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Saucisson de l’Ardèche</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Saucisson sec d’Auvergne / Saucisse sèche d’Auvergne</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Selles-sur-Cher</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Soumaintrain</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Taureau de Camargue</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Tome des Bauges</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Tomme de Savoie</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Tomme des Pyrénées</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Valençay</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Veau d’Aveyron et du Ségala</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Veau du Limousin</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles d’Alsace</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles d’Ancenis</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles d’Auvergne</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Bourgogne</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volaille de Bresse/Poulet de Bresse/Poularde de Bresse/Chapon de Bresse</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Bretagne</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Challans</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Cholet</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Gascogne</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Houdan</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Janzé</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de la Champagne</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de la Drôme</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de l’Ain</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Licques</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de l’Orléanais</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Loué</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Normandie</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles de Vendée</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles des Landes</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Béarn</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Berry</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Charolais</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Forez</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Gatinais</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Gers</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Languedoc</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Lauragais</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Maine</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du plateau de Langres</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Val de Sèvres</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Volailles du Velay</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Baranjski kulen</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Dalmatinski pršut</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Drniški pršut</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Ekstra djevičansko maslinovo ulje Cres</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Istarski pršut / Istrski pršut</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Korčulansko maslinovo ulje</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Krčki pršut</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Krčko maslinovo ulje</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Lički krumpir</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Neretvanska mandarina</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ogulinski kiseli kupus / Ogulinsko kiselo zelje</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Paška janjetina</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Poljički soparnik / Poljički zeljanik / Poljički uljenjak</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Šoltansko maslinovo ulje</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Zagorski puran</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Alföldi kamillavirágzat</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Budapesti szalámi / Budapesti téliszalámi</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Csabai kolbász / Csabai vastagkolbász</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Gönci kajszibarack</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Gyulai kolbász / Gyulai pároskolbász</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Hajdúsági torma</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Kalocsai fűszerpaprika örlemény</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Magyar szürkemarha hús</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Makói vöröshagyma / Makói hagyma</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Szegedi fűszerpaprika-őrlemény / Szegedi paprika</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Szegedi szalámi / Szegedi téliszalámi</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Szentesi paprika</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Szőregi rózsatő</td><td></td><td>g.g.A.</td><td>Blumen und Zierpflanzen</td></tr>
-<tr><td>Clare Island Salmon</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Connemara Hill lamb / Uain Sléibhe Chonamara</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Imokilly Regato</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Timoleague Brown Pudding</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Waterford Blaa / Blaa</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Abbacchio Romano</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Acciughe Sotto Sale del Mar Ligure</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Aceto balsamico di Modena</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Aceto balsamico tradizionale di Modena</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Aceto balsamico tradizionale di Reggio Emilia</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Aglio Bianco Polesano</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Aglio di Voghiera</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Agnello del Centro Italia</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Agnello di Sardegna</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Alto Crotonese</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Amarene Brusche di Modena</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Anguria Reggiana</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Aprutino Pescarese</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Arancia del Gargano</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Arancia di Ribera</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Arancia Rossa di Sicilia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Asiago</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Asparago Bianco di Bassano</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Asparago bianco di Cimadolmo</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Asparago di Badoere</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Asparago di Cantello</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Asparago verde di Altedo</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Basilico Genovese</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Bergamotto di Reggio Calabria – Olio essenziale</td><td></td><td>g.U.</td><td>Ätherische Öle</td></tr>
-<tr><td>Bitto</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Bra</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Bresaola della Valtellina</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Brisighella</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Brovada</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Bruzio</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Burrata di Andria</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Caciocavallo Silano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Canestrato di Moliterno</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Canestrato Pugliese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Canino</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Cantuccini Toscani / Cantucci Toscani</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Cappellacci di zucca ferraresi</td><td></td><td>g.g.A.</td><td>Teigwaren</td></tr>
-<tr><td>Capocollo di Calabria</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Cappero di Pantelleria</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Carciofo Brindisino</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Carciofo di Paestum</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Carciofo Romanesco del Lazio</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Carciofo Spinoso di Sardegna</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Carota dell’Altopiano del Fucino</td><td>–</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Carota Novella di Ispica</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cartoceto</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Casatella Trevigiana</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Casciotta d’Urbino</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Castagna Cuneo</td><td>–</td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Castagna del Monte Amiata</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Castagna di Montella</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Castagna di Vallerano</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Castelmagno</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Chianti Classico</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Ciauscolo</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Cilento</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Ciliegia dell’Etna</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ciliegia di Marostica</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ciliegia di Vignola</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cinta Senese</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cipolla bianca di Margherita</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cipolla Rossa di Tropea Calabria</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cipollotto Nocerino</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Clementine del Golfo di Taranto</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Clementine di Calabria</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Collina di Brindisi</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Colline di Romagna</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Colline Pontine</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Colline Salernitane</td><td>—</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Colline Teatine</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Coppa di Parma</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Coppa Piacentina</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Coppia Ferrarese</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Cotechino Modena</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Cozza di Scardovari</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Crudo di Cuneo</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Culatello di Zibello</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Culurgionis d’Ogliastra</td><td></td><td>g.g.A.</td><td>Teigwaren</td></tr>
-<tr><td>Dauno</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Fagioli Bianchi di Rotonda</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fagiolo Cannellino di Atina</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fagiolo Cuneo</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fagiolo di Lamon della Vallata Bellunese</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fagiolo di Sarconi</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fagiolo di Sorana</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Farina di castagne della Lunigiana</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Farina di Neccio della Garfagnana</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Farro di Monteleone di Spoleto</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Farro della Garfagnana</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fichi di Cosenza</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fico Bianco del Cilento</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ficodindia dell’Etna</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ficodindia di San Cono</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Finocchiona</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Fiore Sardo</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Focaccia di Recco col formaggio</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Fontina</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Formaggella del Luinese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Formaggio di Fossa di Sogliano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Formai de Mut dell’Alta Valle Brembana</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Fungo di Borgotaro</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Garda</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Gorgonzola</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Grana Padano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Insalata di Lusia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Irpinia – Colline dell’Ufita</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Kiwi Latina</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>La Bella della Daunia</td><td>–</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Laghi Lombardi</td><td>–</td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Lametia</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Lardo di Colonnata</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Lenticchia di Castelluccio di Norcia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Limone Costa d’Amalfi</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Limone di Rocca Imperiale</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Limone di Siracusa</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Limone di Sorrento</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Limone Femminello del Gargano</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Limone Interdonato Messina</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Liquirizia di Calabria</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Lucca</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Maccheroncini di Campofilone</td><td></td><td>g.g.A.</td><td>Teigwaren</td></tr>
-<tr><td>Marrone della Valle di Susa</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Marrone del Mugello</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Marrone di Caprese Michelangelo</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Marrone di Castel del Rio</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Marrone di Combai</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Marrone di Roccadaspide</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Marrone di San Zeno</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Marroni del Monfenera</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Mela Alto Adige / Südtiroler Apfel</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Mela di Valtellina</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Mela Rossa Cuneo</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Mela Val di Non</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Melannurca Campana</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Melanzana Rossa di Rotonda</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Melone Mantovano</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Miele della Lunigiana</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miele delle Dolomiti Bellunesi</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miele Varesino</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Molise</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Montasio</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Monte Etna</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Monte Veronese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Monti Iblei</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Mortadella Bologna</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Mortadella di Prato</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Mozzarella di Bufala Campana</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Murazzano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Nocciola del Piemonte / Nocciola Piemonte</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Nocciola di Giffoni</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Nocciola Romana</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Nocellara del Belice</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Nostrano Valtrompia</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Oliva Ascolana del Piceno</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Olio di Calabria</td><td></td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Oliva di Gaeta</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pagnotta del Dittaino</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pampapato di Ferrara/Pampepato di Ferrara</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pancetta di Calabria</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Pancetta Piacentina</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Pane casareccio di Genzano</td><td>–</td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pane di Altamura</td><td>–</td><td>g.U.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pane di Matera</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pane Toscano</td><td></td><td>g.U.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Panforte di Siena</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Parmigiano Reggiano</td><td>–</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pasta di Gragnano</td><td></td><td>g.g.A.</td><td>Teigwaren</td></tr>
-<tr><td>Patata del Fucino</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Patata dell’Alto Viterbese</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Patata della Sila</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Patata di Bologna</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Patata novella di Galatina</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Patata Rossa di Colfiorito</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pecorino Crotonese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pecorino delle Balze Volterrane</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pecorino di Filiano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pecorino di Picinisco</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pecorino Romano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pecorino Sardo</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pecorino Siciliano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pecorino Toscano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Penisola Sorrentina</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Peperone di Pontecorvo</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Peperone di Senise</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pera dell’Emilia Romagna</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pera mantovana</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pescabivona</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pesca di Leonforte</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pesca di Verona</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pesca e nettarina di Romagna</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Piacentinu Ennese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Piadina Romagnola / Piada Romagnola</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Piave</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Pistacchio verde di Bronte</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pizzoccheri della Valtellina</td><td></td><td>g.g.A.</td><td>Teigwaren</td></tr>
-<tr><td>Pomodorino del Piennolo del Vesuvio</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pomodoro di Pachino</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pomodoro S. Marzano dell’Agro Sarnese-Nocerino</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Porchetta di Ariccia</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Pretuziano delle Colline Teramane</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Prosciutto Amatriciano</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Prosciutto di Carpegna</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Prosciutto di Modena</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Prosciutto di Norcia</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Prosciutto di Parma</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Prosciutto di Sauris</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Prosciutto di San Daniele</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Prosciutto Toscano</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Prosciutto Veneto Berico-Euganeo</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Provolone del Monaco</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Provolone Valpadana</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Puzzone di Moena / Spretz Tzaorì</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Quartirolo Lombardo</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Radicchio di Chioggia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Radicchio di Verona</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Radicchio Rosso di Treviso</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Radicchio Variegato di Castelfranco</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ragusano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Raschera</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Ricciarelli di Siena</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Ricotta di Bufala Campana</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Ricotta Romana</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Riso del Delta del Po</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Riso di Baraggia Biellese e Vercellese</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Riso Nano Vialone Veronese</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Riviera Ligure</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Robiola di Roccaverano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Sabina</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Salama da sugo</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salame Brianza</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salame Cremona</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salame di Varzi</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salame d’oca di Mortara</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salame Felino</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salame Piacentino</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salame Piemonte</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salame S. Angelo</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salamini italiani alla cacciatora</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salmerino del Trentino</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Salsiccia di Calabria</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salva Cremasco</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Sardegna</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Scalogno di Romagna</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Sedano Bianco di Sperlonga</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Seggiano</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Sicilia</td><td></td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Silter</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Soppressata di Calabria</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Soprèssa Vicentina</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Speck dell’Alto Adige / Südtiroler Markenspeck / Südtiroler Speck</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Spressa delle Giudicarie</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Squacquerone di Romagna</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Stelvio / Stilfser</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Strachitunt</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Susina di Dro</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Taleggio</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Tergeste</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Terra di Bari</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Terra d’Otranto</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Terre Aurunche</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Terre di Siena</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Terre Tarentine</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Tinca Gobba Dorata del Pianalto di Poirino</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Toma Piemontese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Torrone di Bagnara</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Toscano</td><td></td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Trote del Trentino</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Tuscia</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Umbria</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Uva da tavola di Canicattì</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Uva da tavola di Mazzarrone</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Uva di Puglia</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Val di Mazara</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Valdemone</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Valle d’Aosta Fromadzo</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Valle d’Aosta Jambon de Bosses</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Valle d’Aosta Lard d’Arnad</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Valle del Belice</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Valli Trapanesi</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Valtellina Casera</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Vastedda della valle del Belìce</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Veneto Valpolicella, Veneto Euganei e Berici, Veneto del Grappa</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Vitellone bianco dell’Appennino Centrale</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Vulture</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Zafferano dell’Aquila</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Zafferano di San Gimignano</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Zafferano di sardegna</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Zampone Modena</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Daujėnų naminė duona</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Lietuviškas varškės sūris</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Liliputas</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Seinų / Lazdijų krašto medus / Miód z Sejneńszczyny / Łoździejszczyzny</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Stakliškės</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Beurre rose – Marque nationale du Grand-Duché de Luxembourg</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Miel – Marque nationale du Grand-Duché de Luxembourg</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Salaisons fumées, marque nationale du Grand-Duché de Luxembourg</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Viande de porc, marque nationale du Grand-Duché de Luxembourg</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carnikavas nēģi</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Latvijas lielie pelēkie zirņi</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Boeren-Leidse met sleutels</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Brabantse Wal asperges</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>De Meerlander</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Edam Holland</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Gouda Holland</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Hollandse geitenkaas</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Kanterkaas / Kanternagelkaas / Kanterkomijnekaas</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Noord-Hollandse Edammer</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Noord-Hollandse Gouda</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Opperdoezer Ronde</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Westlandse druif</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Andruty Kaliskie</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Bryndza Podhalańska</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Cebularz lubelski</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Chleb prądnicki</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Fasola korczyńska</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fasola Piękny Jaś z Doliny Dunajca / Fasola z Doliny Dunajca</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Fasola Wrzawska</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Jabłka grójeckie</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Jabłka łąckie</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Jagnięcina podhalańska</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Karp zatorski</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Kiełbasa lisiecka</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Kołocz śląski/kołacz śląski</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Krupnioki śląskie</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Miód drahimski</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miód kurpiowski</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Miód wrzosowy z Borów Dolnośląskich</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Obwarzanek krakowski</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Oscypek</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Podkarpacki miód spadziowy</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Redykołka</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Rogal świętomarciński</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Ser koryciński swojski</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Śliwka szydłowska</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Suska sechlońska</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Truskawka kaszubska lub Kaszëbskô malëna</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Wielkopolski ser smażony</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Wiśnia nadwiślanka</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Alheira de Barroso-Montalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Alheira de Mirandela</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Alheira de Vinhais</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Ameixa d’Elvas</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Amêndoa Douro</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Ananás dos Açores/São Miguel</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Anona da Madeira</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Arroz Carolino do Baixo Mondego</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Arroz Carolino Lezírias Ribatejanas</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Azeite de Moura</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Azeite de Trás-os-Montes</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Azeite do Alentejo Interior</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Azeites da Beira Interior (Azeite da Beira Alta, Azeite da Beira Baixa)</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Azeites do Norte Alentejano</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Azeites do Ribatejo</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Azeitona de conserva Negrinha de Freixo</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Azeitonas de Conserva de Elvas e Campo Maior</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Batata de Trás-os-montes</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Batata doce de Aljezur</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Borrego da Beira</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Borrego de Montemor-o-Novo</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Borrego do Baixo Alentejo</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Borrego do Nordeste Alentejano</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Borrego Serra da Estrela</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Borrego Terrincho</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Butelo de Vinhais /Bucho de Vinhais / Chouriço de Ossos de Vinhais</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Cabrito da Beira</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cabrito da Gralheira</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cabrito das Terras Altas do Minho</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cabrito de Barroso</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cabrito do Alentejo</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cabrito Transmontano</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cacholeira Branca de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Capão de Freamunde</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carnalentejana</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne Arouquesa</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne Barrosã</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne Cachena da Peneda</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne da Charneca</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne de Bísaro Transmonano / Carne de Porco Transmontano</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne de Bovino Cruzado dos Lameiros do Barroso</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne de Bravo do Ribatejo</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne de Porco Alentejano</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne dos Açores</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne Marinhoa</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne Maronesa</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne Mertolenga</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Carne Mirandesa</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Castanha da Terra Fria</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Castanha de Padrela</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Castanha dos Soutos da Lapa</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Castanha Marvão-Portalegre</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cereja da Cova da Beira</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cereja de São Julião-Portalegre</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Chouriça de carne de Barroso-Montalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriça de carne de Melgaço</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriça de Carne de Vinhais / Linguiça de Vinhais</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriça de sangue de Melgaço</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriça doce de Vinhais</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriço azedo de Vinhais / Azedo de Vinhais / Chouriço de Pão de Vinhais</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriço de Abóbora de Barroso-Montalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriço de Carne de Estremoz e Borba</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriço de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriço grosso de Estremoz e Borba</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Chouriço Mouro de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Citrinos do Algarve</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Cordeiro Bragançano</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cordeiro de Barroso / Anho de Barroso / Cordeiro de leite de Barroso</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Cordeiro Mirandês / Canhono Mirandês</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Farinheira de Estremoz e Borba</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Farinheira de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Fogaça da Feira</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Ginja de Óbidos e Alcobaça</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Linguiça de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Linguiça do Baixo Alentejo / Chouriço de carne do Baixo Alentejo</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Lombo Branco de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Lombo Enguitado de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Maçã Bravo de Esmolfe</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Maçã da Beira Alta</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Maçã da Cova da Beira</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Maçã de Alcobaça</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Maçã de Portalegre</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Maçã Riscadinha de Palmela</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Maracujá dos Açores / S. Miguel</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Mel da Serra da Lousã</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mel da Serra de Monchique</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mel da Terra Quente</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mel das Terras Altas do Minho</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mel de Barroso</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mel do Alentejo</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mel do Parque de Montezinho</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mel do Ribatejo Norte (Serra d’Aire, Albufeira de Castelo de Bode, Bairro, Alto Nabão)</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Mel dos Açores</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Meloa de Santa Maria – Açores</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Morcela de Assar de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Morcela de Cozer de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Morcela de Estremoz e Borba</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Ovos moles de Aveiro</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Paio de Estremoz e Borba</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Paia de Lombo de Estremoz e Borba</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Paia de Toucinho de Estremoz e Borba</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Painho de Portalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Paio de Beja</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Pão de Ló de Ovar</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pastel de Chaves</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pastel de Tentúgal</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Pêra Rocha do Oeste</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Pêssego da Cova da Beira</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Presunto de Barrancos / Paleta de Barrancos</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Presunto de Barroso</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Presunto de Camp Maior e Elvas / Paleta de Campo Maior e Elvas</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Presunto de Melgaço</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Presunto de Santana da Serra / Paleta de Santana da Serra</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Presunto de Vinhais / Presunto Bísaro de Vinhais</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Presunto do Alentejo / Paleta do Alentejo</td><td></td><td>g.U.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Queijo de Azeitão</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queijo de cabra Transmontano</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queijo de Évora</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Queijo de Nisa</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queijo do Pico</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queijo mestiço de Tolosa</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Queijo Rabaçal</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queijo São Jorge</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queijo Serpa</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queijo Serra da Estrela</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queijo Terrincho</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Queijos da Beira Baixa (Queijo de Castelo Branco, Queijo Amarelo da Beira Baixa, Queijo Picante da Beira Baixa)</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Requeijão da Beira Baixa</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Requeijão Serra da Estrela</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Salpicão de Barroso-Montalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salpicão de Melgaço</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Salpicão de Vinhais</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Sangueira de Barroso-Montalegre</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Travia da Beira Baixa</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Vitela de Lafões</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Magiun de prune Topoloveni</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Salam de Sibiu</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Telemea de Ibăneşti</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Bruna bönor från Öland</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Hånnlamb</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Kalix Löjrom</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Skånsk spettkaka</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Svecia</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Upplandskubb</td><td></td><td>g.U.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Bovški sir</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Ekstra deviško oljčno olje Slovenske Istre</td><td></td><td>g.U.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Kočevski gozdni med</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Kranjska klobasa</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Kraška panceta</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Kraški med</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Kraški pršut</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Kraški zašink</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Mohant</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Nanoški sir</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Prekmurska šunka</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Prleška tünka</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Ptujski lük</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Šebreljski želodec</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Slovenski med</td><td></td><td>g.g.A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Štajersko prekmursko bučno olje</td><td></td><td>g.g.A.</td><td>Fette (Butter, Margarine, Öle usw.)</td></tr>
-<tr><td>Tolminc</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Zgornjesavinjski želodec</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Klenovecký syrec</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Levický Slad</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Oravský korbáčik</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Paprika Žitava / Žitavská paprika</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Skalický trdelnik</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Slovenská bryndza</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Slovenská parenica</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Slovenský oštiepok</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Tekovský salámový syr</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Zázrivské vojky</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Zázrivský korbáčik</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Arbroath Smokies</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Armagh Bramley Apples</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Beacon Fell traditional Lancashire cheese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Bonchester cheese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Buxton blue</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Carmarthen Ham</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Cornish Clotted Cream</td><td></td><td>g.U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td></tr>
-<tr><td>Cornish Pasty</td><td></td><td>g.g.A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td></tr>
-<tr><td>Cornish Sardines</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Conwy Mussels</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Dorset Blue Cheese</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Dovedale cheese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>East Kent Goldings</td><td></td><td>g.U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Exmoor Blue Cheese</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Fal Oyster</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Fenland Celery</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Gloucestershire cider / perry</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Herefordshire cider / perry</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Isle of Man Manx Loaghtan Lamb</td><td>–</td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Jersey Royal potatoes</td><td>–</td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Isle of Man Queenies</td><td></td><td>g.U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Kentish ale and Kentish strong ale</td><td>–</td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Lakeland Herdwick</td><td></td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Lough Neagh Eel</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Melton Mowbray Pork Pie</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Native Shetland Wool</td><td></td><td>g.U.</td><td>Wolle</td></tr>
-<tr><td>Newmarket Sausage</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>New Season Comber Potatoes / Comber Earlies</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Orkney beef</td><td>–</td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Orkney lamb</td><td>–</td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Orkney Scottish Island Cheddar</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Pembrokeshire Earlies / Pembrokeshire Early Potatoes</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Rutland Bitter</td><td>–</td><td>g.g.A.</td><td>Bier</td></tr>
-<tr><td>Scotch Beef</td><td>–</td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Scotch Lamb</td><td>–</td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Scottish Farmed Salmon</td><td>–</td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Scottish Wild Salmon</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Shetland Lamb</td><td>–</td><td>g.U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Single Gloucester</td><td>–</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Staffordshire Cheese</td><td>–</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Stornoway Black Pudding</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Swaledale cheese / Swaledale ewes’ cheese</td><td>–</td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Teviotdale Cheese</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Traditional Ayrshire Dunlop</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
-<tr><td>Traditional Cumberland Sausage</td><td></td><td>g.g.A.</td><td>Fleischerzeugnisse</td></tr>
-<tr><td>Traditional Grimsby Smoked Fish</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Vale of Evesham Asparagus</td><td></td><td>g.g.A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Welsh Beef</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>Welsh lamb</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>West Country Beef</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>West Country farmhouse Cheddar cheese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>West Country Lamb</td><td></td><td>g.g.A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td></tr>
-<tr><td>White Stilton cheese / Blue Stilton cheese</td><td></td><td>g.U.</td><td>Käse</td></tr>
-<tr><td>Whitstable oysters</td><td></td><td>g.g.A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td></tr>
-<tr><td>Worcestershire cider/perry</td><td></td><td>g.g.A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td></tr>
-<tr><td>Yorkshire Forced Rhubarb</td><td></td><td>g.U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td></tr>
-<tr><td>Yorkshire Wensleydale</td><td></td><td>g.g.A.</td><td>Käse</td></tr>
+<tr><th>Name</th><th>Transkription in lateinischen Buchstaben</th><th>Schutz (1)</th><th>Erzeugnisart</th><th>Ursprung</th></tr>
+<tr><td>Gailtaler Almkäse</td><td></td><td>g. U.</td><td>Käse</td><td>Österreich</td></tr>
+<tr><td>Gailtaler Speck</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Österreich</td></tr>
+<tr><td>Marchfeldspargel</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Österreich</td></tr>
+<tr><td>Pöllauer Hirschbirne</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Österreich</td></tr>
+<tr><td>Steirische Käferbohne</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Österreich</td></tr>
+<tr><td>Steirischer Kren</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Österreich</td></tr>
+<tr><td>Steirisches Kürbiskernöl</td><td></td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Österreich</td></tr>
+<tr><td>Tiroler Almkäse / Tiroler Alpkäse</td><td></td><td>g. U.</td><td>Käse</td><td>Österreich</td></tr>
+<tr><td>Tiroler Bergkäse</td><td></td><td>g. U.</td><td>Käse</td><td>Österreich</td></tr>
+<tr><td>Tiroler Graukäse</td><td></td><td>g. U.</td><td>Käse</td><td>Österreich</td></tr>
+<tr><td>Tiroler Speck</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Österreich</td></tr>
+<tr><td>Vorarlberger Alpkäse</td><td></td><td>g. U.</td><td>Käse</td><td>Österreich</td></tr>
+<tr><td>Vorarlberger Bergkäse</td><td></td><td>g. U.</td><td>Käse</td><td>Österreich</td></tr>
+<tr><td>Wachauer Marille</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Österreich</td></tr>
+<tr><td>Waldviertler Graumohn</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Österreich</td></tr>
+<tr><td>Beurre d’Ardenne</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Belgien</td></tr>
+<tr><td>Brussels grondwitloof</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Belgien</td></tr>
+<tr><td>Fromage de Herve</td><td></td><td>g. U.</td><td>Käse</td><td>Belgien</td></tr>
+<tr><td>Gentse azalea</td><td></td><td>g. g. A.</td><td>Blumen und Zierpflanzen</td><td>Belgien</td></tr>
+<tr><td>Geraardsbergse Mattentaart</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Belgien</td></tr>
+<tr><td>Jambon d’Ardenne</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Belgien</td></tr>
+<tr><td>Liers vlaaike</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Belgien</td></tr>
+<tr><td>Pâté gaumais</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Belgien</td></tr>
+<tr><td>Plate de Florenville</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Belgien</td></tr>
+<tr><td>Poperingse Hopscheuten / Poperingse Hoppescheuten</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Belgien</td></tr>
+<tr><td>Potjesvlees uit de Westhoek</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Belgien</td></tr>
+<tr><td>Saucisson d’Ardenne / Collier d’Ardenne / Pipe d’Ardenne</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Belgien</td></tr>
+<tr><td>Vlaams – Brabantse Tafeldruif</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Belgien</td></tr>
+<tr><td>Vlaamse laurier</td><td></td><td>g. g. A.</td><td>Blumen und Zierpflanzen</td><td>Belgien</td></tr>
+<tr><td>Vlees van het rood ras van West-Vlaanderen</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Belgien</td></tr>
+<tr><td>Българско розово масло</td><td>Bulgarsko rozovo maslo</td><td>g. g. A.</td><td>Ätherische Öle</td><td>Bulgarien</td></tr>
+<tr><td>Горнооряховски суджук</td><td>Gornooryahovski sudzhuk</td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Bulgarien</td></tr>
+<tr><td>Странджански манов мед / Maнов мед от Странджа</td><td>Strandzhanski manov med / Manov med ot Strandzha</td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Bulgarien</td></tr>
+<tr><td>Γλυκό Τριαντάφυλλο Αγρού</td><td>Glyko Triantafyllo Agrou</td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Zypern</td></tr>
+<tr><td>Κολοκάσι Σωτήρας / Κολοκάσι-Πούλλες Σωτήρας</td><td>Kolokasi Sotiras / Kolokasi-Poulles Sotiras</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Zypern</td></tr>
+<tr><td>Κουφέτα Αμυγδάλου Γεροσκήπου</td><td>Koufeta Amygdalou Geroskipou</td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Zypern</td></tr>
+<tr><td>Λουκούμι Γεροσκήπου</td><td>Loukoumi Geroskipou</td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Zypern</td></tr>
+<tr><td>Παφίτικο Λουκάνικο</td><td>Pafitiko Loukaniko</td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Zypern</td></tr>
+<tr><td>Březnický ležák</td><td></td><td>g. g. A.</td><td>Bier</td><td>Tschechische Republik</td></tr>
+<tr><td>Brněnské pivo / Starobrněnské pivo</td><td></td><td>g. g. A.</td><td>Bier</td><td>Tschechische Republik</td></tr>
+<tr><td>Budějovické pivo</td><td></td><td>g. g. A.</td><td>Bier</td><td>Tschechische Republik</td></tr>
+<tr><td>Budějovický měšťanský var</td><td></td><td>g. g. A.</td><td>Bier</td><td>Tschechische Republik</td></tr>
+<tr><td>Černá Hora</td><td></td><td>g. g. A.</td><td>Bier</td><td>Tschechische Republik</td></tr>
+<tr><td>České pivo</td><td></td><td>g. g. A.</td><td>Bier</td><td>Tschechische Republik</td></tr>
+<tr><td>Českobudějovické pivo</td><td></td><td>g. g. A.</td><td>Bier</td><td>Tschechische Republik</td></tr>
+<tr><td>Český kmín</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Tschechische Republik</td></tr>
+<tr><td>Chamomilla bohemica</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Tschechische Republik</td></tr>
+<tr><td>Chelčicko – Lhenické ovoce</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Tschechische Republik</td></tr>
+<tr><td>Chodské pivo</td><td></td><td>g. g. A.</td><td>Bier</td><td>Tschechische Republik</td></tr>
+<tr><td>Hořické trubičky</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Tschechische Republik</td></tr>
+<tr><td>Jihočeská Niva</td><td></td><td>g. g. A.</td><td>Käse</td><td>Tschechische Republik</td></tr>
+<tr><td>Jihočeská Zlatá Niva</td><td></td><td>g. g. A.</td><td>Käse</td><td>Tschechische Republik</td></tr>
+<tr><td>Karlovarské oplatky</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Tschechische Republik</td></tr>
+<tr><td>Karlovarské trojhránky</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Tschechische Republik</td></tr>
+<tr><td>Karlovarský suchar</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Tschechische Republik</td></tr>
+<tr><td>Lomnické suchary</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren nd Kleingebäck</td><td>Tschechische Republik</td></tr>
+<tr><td>Mariánskolázeňské oplatky</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Tschechische Republik</td></tr>
+<tr><td>Nošovické kysané zelí</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Tschechische Republik</td></tr>
+<tr><td>Olomoucké tvarůžky</td><td></td><td>g. g. A.</td><td>Käse</td><td>Tschechische Republik</td></tr>
+<tr><td>Pardubický perník</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Tschechische Republik</td></tr>
+<tr><td>Pohořelický kapr</td><td></td><td>g. U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Tschechische Republik</td></tr>
+<tr><td>Štramberské uši</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Tschechische Republik</td></tr>
+<tr><td>Třeboňský kapr</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Tschechische Republik</td></tr>
+<tr><td>VALAŠSKÝ FRGÁL</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Tschechische Republik</td></tr>
+<tr><td>Všestarská cibule</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Tschechische Republik</td></tr>
+<tr><td>Žatecký chmel</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Tschechische Republik</td></tr>
+<tr><td>Znojemské pivo</td><td></td><td>g. g. A.</td><td>Bier</td><td>Tschechische Republik</td></tr>
+<tr><td>Aachener Printen</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Aachener Weihnachts-Leberwurst / Oecher Weihnachtsleberwurst</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Abensberger Spargel / Abensberger Qualitätsspargel</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Aischgründer Karpfen</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Deutschland</td></tr>
+<tr><td>Allgäuer Bergkäse</td><td></td><td>g. U.</td><td>Käse</td><td>Deutschland</td></tr>
+<tr><td>Allgäuer Sennalpkäse</td><td></td><td>g. U.</td><td>Käse</td><td>Deutschland</td></tr>
+<tr><td>Altenburger Ziegenkäse</td><td></td><td>g. U.</td><td>Käse</td><td>Deutschland</td></tr>
+<tr><td>Ammerländer Dielenrauchschinken / Ammerländer Katenschinken</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Ammerländer Schinken / Ammerländer Knochenschinken</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Bamberger Hörnla / Bamberger Hörnle / Bamberger Hörnchen</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Bayerische Breze / Bayerische Brezn / Bayerische Brez’n / Bayerische Brezel</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Bayerischer Meerrettich / Bayerischer Kren</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Bayerisches Bier</td><td></td><td>g. g. A.</td><td>Bier</td><td>Deutschland</td></tr>
+<tr><td>Bayerisches Rindfleisch / Rindfleisch aus Bayern</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Deutschland</td></tr>
+<tr><td>Bayrisch Blockmalz / Bayrischer Blockmalz / Echt Bayrisch Blockmalz / Aecht Bayrischer Blockmalz</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Beelitzer Spargel</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Bornheimer Spargel / Spargel aus dem Anbaugebiet Bornheim</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Bremer Bier</td><td></td><td>g. g. A.</td><td>Bier</td><td>Deutschland</td></tr>
+<tr><td>Bremer Klaben</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Diepholzer Moorschnucke</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Deutschland</td></tr>
+<tr><td>Dithmarscher Kohl</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Dortmunder Bier</td><td></td><td>g. g. A.</td><td>Bier</td><td>Deutschland</td></tr>
+<tr><td>Dresdner Christstollen / Dresdner Stollen / Dresdner Weihnachtsstollen</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Düsseldorfer Mostert / Düsseldorfer Senf Mostert / Düsseldorfer Urtyp Mostert / Aechter Düsseldorfer Mostert</td><td></td><td>g. g. A.</td><td>Senfpaste</td><td>Deutschland</td></tr>
+<tr><td>Elbe-Saale Hopfen</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Eichsfelder Feldgieker / Eichsfelder Feldkieker</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Feldsalat von der Insel Reichenau</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Filderkraut / Filderspitzkraut</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Flönz</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Frankfurter Grüne Sosse / Frankfurter Grie Soss</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Fränkischer Grünkern</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Fränkischer Karpfen / Frankenkarpfen / Karpfen aus Franken</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Deutschland</td></tr>
+<tr><td>Glückstädter Matjes</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Deutschland</td></tr>
+<tr><td>Göttinger Feldkieker</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Göttinger Stracke</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Greussener Salami</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Gurken von der Insel Reichenau</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Halberstädter Würstchen</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Hessischer Apfelwein</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Hessischer Handkäse / Hessischer Handkäs</td><td></td><td>g. g. A.</td><td>Käse</td><td>Deutschland</td></tr>
+<tr><td>Hofer Bier</td><td></td><td>g. g. A.</td><td>Bier</td><td>Deutschland</td></tr>
+<tr><td>Hofer Rindfleischwurst</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Holsteiner Karpfen</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Deutschland</td></tr>
+<tr><td>Holsteiner Katenschinken / Holsteiner Schinken / Holsteiner Katenrauchschinken / Holsteiner Knochenschinken</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Hopfen aus der Hallertau</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Höri Bülle</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Kölsch</td><td></td><td>g. g. A.</td><td>Bier</td><td>Deutschland</td></tr>
+<tr><td>Kulmbacher Bier</td><td></td><td>g. g. A.</td><td>Bier</td><td>Deutschland</td></tr>
+<tr><td>Lausitzer Leinöl</td><td></td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Deutschland</td></tr>
+<tr><td>Lübecker Marzipan</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Lüneburger Heidekartoffeln</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Lüneburger Heidschnucke</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Deutschland</td></tr>
+<tr><td>Mainfranken Bier</td><td></td><td>g. g. A.</td><td>Bier</td><td>Deutschland</td></tr>
+<tr><td>Meissner Fummel</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Münchener Bier</td><td></td><td>g. g. A.</td><td>Bier</td><td>Deutschland</td></tr>
+<tr><td>Nieheimer Käse</td><td></td><td>g. g. A.</td><td>Käse</td><td>Deutschland</td></tr>
+<tr><td>Nürnberger Bratwürste / Nürnberger Rostbratwürste</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Nürnberger Lebkuchen</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Obazda / Obatzter</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Deutschland</td></tr>
+<tr><td>Oberlausitzer Biokarpfen</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Deutschland</td></tr>
+<tr><td>Oberpfälzer Karpfen</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Deutschland</td></tr>
+<tr><td>Odenwälder Frühstückskäse</td><td></td><td>g. U.</td><td>Käse</td><td>Deutschland</td></tr>
+<tr><td>Oecher Puttes / Aachener Puttes</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Reuther Bier</td><td></td><td>g. g. A.</td><td>Bier</td><td>Deutschland</td></tr>
+<tr><td>Rheinisches Apfelkraut</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Rheinisches Zuckerrübenkraut / Rheinischer Zuckerrübensirup / Rheinisches Rübenkraut</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Salate von der Insel Reichenau</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Salzwedeler Baumkuchen</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Schrobenhausener Spargel / Spargel aus dem Schrobenhausener Land / Spargel aus dem Anbaugebiet Schrobenhausen</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Schwäbische Maultaschen / Schwäbische Suppenmaultaschen</td><td></td><td>g. g. A.</td><td>Teigwaren</td><td>Deutschland</td></tr>
+<tr><td>Schwäbische Spätzle / Schwäbische Knöpfle</td><td></td><td>g. g. A.</td><td>Teigwaren</td><td>Deutschland</td></tr>
+<tr><td>Schwäbisch-Hällisches Qualitätsschweinefleisch</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Deutschland</td></tr>
+<tr><td>Schwarzwälder Schinken</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Schwarzwaldforelle</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Deutschland</td></tr>
+<tr><td>Spalt Spalter</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Spargel aus Franken / Fränkischer Spargel / Franken-Spargel</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Spreewälder Gurken</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Spreewälder Meerrettich</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Stromberger Pflaume</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Tettnanger Hopfen</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Thüringer Leberwurst</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Thüringer Rostbratwurst</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Thüringer Rotwurst</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Tomaten von der Insel Reichenau</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Walbecker Spargel</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Deutschland</td></tr>
+<tr><td>Weideochse vom Limpurger Rind</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Deutschland</td></tr>
+<tr><td>Weisslacker / Allgäuer Weisslacker</td><td></td><td>g. U.</td><td>Käse</td><td>Deutschland</td></tr>
+<tr><td>Westfälischer Knochenschinken</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Deutschland</td></tr>
+<tr><td>Westfälischer Pumpernickel</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Deutschland</td></tr>
+<tr><td>Danablu</td><td></td><td>g. g. A.</td><td>Käse</td><td>Dänemark</td></tr>
+<tr><td>Esrom</td><td></td><td>g. g. A.</td><td>Käse</td><td>Dänemark</td></tr>
+<tr><td>Lammefjordsgulerod</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Dänemark</td></tr>
+<tr><td>Lammefjordskartofler</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Dänemark</td></tr>
+<tr><td>Vadehavslam</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Dänemark</td></tr>
+<tr><td>Vadehavsstude</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Dänemark</td></tr>
+<tr><td>Άγιος Ματθαίος Κέρκυρας</td><td>Agios Mattheos Kerkyras</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Αγκινάρα Ιρίων</td><td>Agkinara Irion</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Αγουρέλαιο Χαλκιδικής</td><td>Agoureleo Chalkidikis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Ακτινίδιο Πιερίας</td><td>Aktinidio Pierias</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Ακτινίδιο Σπερχειού</td><td>Aktinidio Sperchiou</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Ανεβατό</td><td>Anevato</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Αποκορώνας Χανίων Κρήτης</td><td>Apokoronas Chanion Kritis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Αρνάκι Ελασσόνας</td><td>Arnaki Elassonas</td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Griechenland</td></tr>
+<tr><td>Αρχάνες Ηρακλείου Κρήτης</td><td>Arxanes Irakliou Kritis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Αυγοτάραχο Μεσολογγίου</td><td>Avgotaracho Messolongiou</td><td>g. U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Griechenland</td></tr>
+<tr><td>Βιάννος Ηρακλείου Κρήτης</td><td>Viannos Irakliou Kritis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Βόρειος Μυλοπόταμος Ρεθύμνης Κρήτης</td><td>Vorios Mylopotamos Rethymnis Kritis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Γαλανό Μεταγγιτσίου Χαλκιδικής</td><td>Galano Metaggitsiou Chalkidikis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Γαλοτύρι</td><td>Galotyri</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Γραβιέρα Αγράφων</td><td>Graviera Agrafon</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Γραβιέρα Κρήτης</td><td>Graviera Kritis</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Γραβιέρα Νάξου</td><td>Graviera Naxou</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Ελιά Καλαμάτας</td><td>Elia Kalamatas</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Εξαιρετικό παρθένο ελαιόλαδο «Τροιζηνία»</td><td>Exeretiko partheno eleolado «Trizinia»</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Εξαιρετικό παρθένο ελαιόλαδο Θραψανό</td><td>Exeretiko partheno eleolado Thrapsano</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Εξαιρετικό Παρθένο Ελαιόλαδο Σέλινο Κρήτης</td><td>Exeretiko Partheno Eleolado Selino Kritis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Ζάκυνθος</td><td>Zakynthos</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Θάσος</td><td>Thassos</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Θρούμπα Αμπαδιάς Ρεθύμνης Κρήτης</td><td>Throumpa Ampadias Rethymnis Kritis</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Θρούμπα Θάσου</td><td>Throumpa Thassou</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Θρούμπα Χίου</td><td>Throumpa Chiou</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Καλαθάκι Λήμνου</td><td>Kalathaki Limnou</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Καλαμάτα</td><td>Kalamata</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Κασέρι</td><td>Kasseri</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Κατίκι Δομοκού</td><td>Katiki Domokou</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Κατσικάκι Ελασσόνας</td><td>Katsikaki Elassonas</td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Griechenland</td></tr>
+<tr><td>Κελυφωτό φυστίκι Φθιώτιδας</td><td>Kelifoto fystiki Fthiotidas</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κεράσια τραγανά Ροδοχωρίου</td><td>Kerassia Tragana Rodochoriou</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κεφαλογραβιέρα</td><td>Kefalograviera</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Κεφαλονιά</td><td>Kefalonia</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Κολυμβάρι Χανίων Κρήτης</td><td>Kolymvari Chanion Kritis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Κονσερβολιά Αμφίσσης</td><td>Konservolia Amfissis</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κονσερβολιά Αρτας</td><td>Konservolia Artas</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κονσερβολιά Αταλάντης</td><td>Konservolia Atalantis</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κονσερβολιά Πηλίου Βόλου</td><td>Konservolia Piliou Volou</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κονσερβολιά Ροβίων</td><td>Konservolia Rovion</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κονσερβολιά Στυλίδας</td><td>Konservolia Stylidas</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κοπανιστή</td><td>Kopanisti</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Κορινθιακή Σταφίδα Βοστίτσα</td><td>Korinthiaki Stafida Vostitsa</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κουμ Κουάτ Κέρκυρας</td><td>Koum kouat Kerkyras</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Κρανίδι Αργολίδας</td><td>Kranidi Argolidas</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Κρασοτύρι Κω / Τυρί της Πόσιας</td><td>Krasotiri Ko – Tiri tis Possias</td><td>g. g. A.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Κρητικό παξιμάδι</td><td>Kritiko paximadi</td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Griechenland</td></tr>
+<tr><td>Κριτσά</td><td>Kritsa</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Κροκεές Λακωνίας</td><td>Krokees Lakonias</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Κρόκος Κοζάνης</td><td>Krokos Kozanis</td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Griechenland</td></tr>
+<tr><td>Λαδοτύρι Μυτιλήνης</td><td>Ladotyri Mytilinis</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Λακωνία</td><td>Lakonia</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Λέσβος / Μυτιλήνη</td><td>Lesvos / Mytilini</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Λυγουριό Ασκληπιείου</td><td>Lygourio Asklipiiou</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Μανούρι</td><td>Manouri</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Μανταρίνι Χίου</td><td>Mandarini Chiou</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Μαστίχα Χίου</td><td>Masticha Chiou</td><td>g. U.</td><td>Natürliche Gummis und Harze</td><td>Griechenland</td></tr>
+<tr><td>Μαστιχέλαιο Χίου</td><td>Mastichelaio Chiou</td><td>g. U.</td><td>Ätherische Öle</td><td>Griechenland</td></tr>
+<tr><td>Μελεκούνι</td><td>Melekouni</td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Griechenland</td></tr>
+<tr><td>Μέλι Ελάτης Μαινάλου Βανίλια</td><td>Meli Elatis Menalou Vanilia</td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Griechenland</td></tr>
+<tr><td>Μεσσαρά</td><td>Messara</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Μετσοβόνε</td><td>Metsovone</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Μήλα Ζαγοράς Πηλίου</td><td>Mila Zagoras Piliou</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Μήλα Ντελίσιους Πιλαφά Τριπόλεως</td><td>Mila Delicious Pila a Tripoleos</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Μήλο Καστοριάς</td><td>Milo Kastorias</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Μπάτζος</td><td>Batzos</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Ξερά σύκα Κύμης</td><td>Xera syka Kymis</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Ξύγαλο Σητείας / Ξίγαλο Σητείας</td><td>Xygalo Siteias / Xigalo Siteias</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Ξηρά Σύκα Ταξιάρχη</td><td>Xira Syka Taxiarchi</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Ξυνομυζήθρα Κρήτης</td><td>Xynomyzithra Kritis</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Ολυμπία</td><td>Olympia</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Πατάτα Κάτω Νευροκοπίου</td><td>Patata Kato Nevrokopiou</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Πατάτα Νάξου</td><td>Patata Naxou</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Πευκοθυμαρόμελο Κρήτης</td><td>Pefkothymaromelo Kritis</td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Griechenland</td></tr>
+<tr><td>Πεζά Ηρακλείου Κρήτης</td><td>Peza Irakliou Kritis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Πέτρινα Λακωνίας</td><td>Petrina Lakonias</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Πηχτόγαλο Χανίων</td><td>Pichtogalo Chanion</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Πορτοκάλια Μάλεμε Χανίων Κρήτης</td><td>Portokalia Maleme Chanion Kritis</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Πράσινες Ελιές Χαλκιδικής</td><td>Prasines Elies Chalkidikis</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Πρέβεζα</td><td>Preveza</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Ροδάκινα Νάουσας</td><td>Rodakina Naoussas</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Ρόδος</td><td>Rodos</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Σάμος</td><td>Samos</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Σαν Μιχάλη</td><td>San Michali</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Σητεία Λασιθίου Κρήτης</td><td>Sitia Lasithiou Kritis</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Σταφίδα Ζακύνθου</td><td>Stafida Zakynthou</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Σταφίδα Ηλείας</td><td>Stafida Ilias</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Σταφίδα Σουλτανίνα Κρήτης</td><td>Stafida Soultanina Kritis</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Σύκα Βραβρώνας Μαρκοπούλου Μεσογείων</td><td>Syka Vavronas Markopoulou Messongion</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Σφέλα</td><td>Sfela</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Τοματάκι Σαντορίνης</td><td>Tomataki Santorinis</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Τσακώνικη μελιτζάνα Λεωνιδίου</td><td>Tsakoniki Melitzana Leonidiou</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Τσίχλα Χίου</td><td>Tsikla Chiou</td><td>g. U.</td><td>Natürliche Gummis und Harze</td><td>Griechenland</td></tr>
+<tr><td>Φάβα Σαντορίνης</td><td>Fava Santorinis</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φάβα Φενεού</td><td>Fava Feneou</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φασόλια Βανίλιες Φενεού</td><td>Fasolia Vanilies Feneou</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φασόλια (Γίγαντες Ελέφαντες) Πρεσπών Φλώρινας</td><td>Fassolia Gigantes Elefantes Prespon Florinas</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φασόλια (πλακέ μεγαλόσπερμα) Πρεσπών Φλώρινας</td><td>Fassolia (plake megalosperma) Prespon Florinas</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φασόλια γίγαντες – ελέφαντες Καστοριάς</td><td>Fassolia Gigantes Elefantes Kastorias</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φασόλια γίγαντες ελέφαντες Κάτω Νευροκοπίου</td><td>Fassolia Gigantes Elefantes Kato Nevrokopiou</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φασόλια κοινά μεσόσπερμα Κάτω Νευροκοπίου</td><td>Fassolia kina Messosperma Kato Nevrokopiou</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φέτα</td><td>Feta</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Φιρίκι Πηλίου</td><td>Firiki Piliou</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φοινίκι Λακωνίας</td><td>Finiki Lakonias</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Φορμαέλλα Αράχωβας Παρνασσού</td><td>Formaella Arachovas Parnassou</td><td>g. U.</td><td>Käse</td><td>Griechenland</td></tr>
+<tr><td>Φυστίκι Αίγινας</td><td>Fystiki Eginas</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Φυστίκι Μεγάρων</td><td>Fystiki Megaron</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Griechenland</td></tr>
+<tr><td>Χανιά Κρήτης</td><td>Chania Kritis</td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Griechenland</td></tr>
+<tr><td>Aceite Campo de Calatrava</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite Campo de Montiel</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite de La Alcarria</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite de la Rioja</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite de la Comunitat Valenciana</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite de Mallorca / Aceite mallorquín / Oli de Mallorca / Oli mallorquí</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite de Terra Alta / Oli de Terra Alta</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite del Baix Ebre-Montsià / Oli del Baix Ebre-Montsià</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite del Bajo Aragón</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite de Lucena</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite de Navarra</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite Monterrubio</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceite Sierra del Moncayo</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Aceituna Aloreña de Málaga</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Aceituna de Mallorca / Aceituna Mallorquina / Oliva de Mallorca / Oliva Mallorquina</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Afuega’l Pitu</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Ajo Morado de las Pedroñeras</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Alcachofa de Benicarló / Carxofa de Benicarló</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Alcachofa de Tudela</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Alfajor de Medina Sidonia</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Almendra de Mallorca / Almendra Mallorquina / Ametlla de Mallorca / Ametlla Mallorquina</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Alubia de La Bãneza-León</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Antequera</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Arroz de Valencia / Arròs de València</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Arroz del Delta del Ebro / Arròs del Delta de l’Ebre</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Arzùa-Ulloa</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Avellana de Reus</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Azafrán de la Mancha</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Baena</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Berenjena de Almagro</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Botillo del Bierzo</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Caballa de Andalucia</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Spanien</td></tr>
+<tr><td>Cabrales</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Calasparra</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Calçot de Valls</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Capón de Vilalba</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Carne de Ávila</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Carne de Cantabria</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Carne de la Sierra de Guadarrama</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Carne de Salamanca</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Carne de Vacuno del País Vasco / Euskal Okela</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Castaña de Galicia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Cebolla Fuentes de Ebro</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Cebreiro</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Cecina de León</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Cereza del Jerte</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Cerezas de la Montaña de Alicante</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Chirimoya de la Costa tropical de Granada-Malaga</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Chorizo de Cantimpalos</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Chorizo Riojano</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Chosco de Tineo</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Chufa de Valencia</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Cítricos Valencianos / Cítrics Valencians</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Clementinas de las Tierras del Ebro / Clementines de les Terres de l’Ebre</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Coliflor de Calahorra</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Cordero de Extremadura</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Cordero de Navarra / Nafarroako Arkumea</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Cordero Manchego</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Cordero Segureño</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Dehesa de Extremadura</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Ensaimada de Mallorca / Ensaimada mallorquina</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Espárrago de Huétor-Tájar</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Espárrago de Navarra</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Estepa</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Faba Asturiana</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Faba de Lourenzá</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Fesols de Santa Pau</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Gall del Penedès</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Gamoneu / Gamonedo</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Garbanzo de Escacena</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Garbanzo de Fuentesaúco</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Gata-Hurdes</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Gofio Canario</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Granada Mollar de Elche / Granada de Elche</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Grelos de Galicia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Guijuelo</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Idiazabal</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Jabugo</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Jamón de Serón</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Jamón de Teruel / Paleta de Teruel</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Jamón de Trevélez</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Jijona</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Judías de El Barco de Ávila</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Kaki Ribera del Xúquer</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Lacón Gallego</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Lechazo de Castilla y León</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Lenteja de La Armuña</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Lenteja de Tierra de Campos</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Les Garrigues</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Los Pedroches</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Mahón-Menorca</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Mantecadas de Astorga</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Mantecados de Estepa</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Mantequilla de l’Alt Urgell y la Cerdanya / Mantega de l’Alt Urgell i la Cerdanya</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Mantequilla de Soria</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Manzana de Girona / Poma de Girona</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Manzana Reineta del Bierzo</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Mazapán de Toledo</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Mejillón de Galicia / Mexillón de Galicia</td><td></td><td>g. U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Spanien</td></tr>
+<tr><td>Melocotón de Calanda</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Melón de la Mancha</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Melón de Torre Pacheco-Murcia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Melva de Andalucia</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Spanien</td></tr>
+<tr><td>Miel de Galicia / Mel de Galicia</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Spanien</td></tr>
+<tr><td>Miel de Granada</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Spanien</td></tr>
+<tr><td>Miel de La Alcarria</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Spanien</td></tr>
+<tr><td>Miel de Liébana</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Spanien</td></tr>
+<tr><td>Miel de Tenerife</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Spanien</td></tr>
+<tr><td>Miel Villuercas-Ibores</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Spanien</td></tr>
+<tr><td>Mojama de Barbate</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Spanien</td></tr>
+<tr><td>Mojama de Isla Cristina</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Spanien</td></tr>
+<tr><td>Mongeta del Ganxet</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Montes de Granada</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Montes de Toledo</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Montoro-Adamuz</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Morcilla de Burgos</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Nísperos Callosa d’En Sarriá</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Oli de l’Empordà / Aceite de L’Empordà</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Pa de Pagès Català</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Pan Galego / Pan Gallego</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Pan de Alfacar</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Pan de Cea</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Pan de Cruz de Ciudad Real</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Papas Antiguas de Canarias</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pasas de Málaga</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pataca de Galicia / Patata de Galicia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Patatas de Prades / Patates de Prades</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pemento da Arnoia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pemento de Herbón</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pemento de Mougán</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pemento de Oímbra</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pemento do Couto</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pera de Jumilla</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pera de Lleida</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Peras de Rincón de Soto</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Picón Bejes-Tresviso</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Pimentón de la Vera</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Pimentón de Murcia</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Pimiento Asado del Bierzo</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pimiento de Fresno-Benavente</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pimiento de Gernika / Gernikako Piperra</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pimiento Riojano</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Pimientos del Piquillo de Lodosa</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Plátano de Canarias</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Polvorones de Estepa</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Pollo y Capón del Prat</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Poniente de Granada</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Priego de Córdoba</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Queso Camerano</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso Casin</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso de Flor de Guía / Queso de Media Flor de Guía / Queso de Guía</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso de La Serena</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso de l’Alt Urgell y la Cerdanya</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso de Murcia</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso de Murcia al vino</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso de Valdeón</td><td></td><td>g. g. A.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso Ibores</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso Los Beyos</td><td></td><td>g. g. A.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso Majorero</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso Manchego</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso Nata de Cantabria</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso Palmero / Queso de la Palma</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso Tetilla / Queixo Tetilla</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Queso Zamorano</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Quesucos de Liébana</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Roncal</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Rosée des Pyrénées Catalanes</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien, Frankreich</td></tr>
+<tr><td>Salchichón de Vic / Llonganissa de Vic</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>San Simón da Costa</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Sidra de Asturias / Sidra d’Asturies</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Sierra de Cadiz</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Sierra de Cazorla</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Sierra de Segura</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Sierra Mágina</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Siurana</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Spanien</td></tr>
+<tr><td>Sobao Pasiego</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Sobrasada de Mallorca</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Tarta de Santiago</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Ternasco de Aragón</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Ternera Asturiana</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Ternera de Aliste</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Ternera de Extremadura</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Ternera de los Pirineos Catalanes / Vedella dels Pirineus Catalans / Vedell des Pyrénées Catalanes</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien, Frankreich</td></tr>
+<tr><td>Ternera de Navarra / Nafarroako Aratxea</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Ternera Gallega</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Spanien</td></tr>
+<tr><td>Tomate La Cañada</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Torta del Casar</td><td></td><td>g. U.</td><td>Käse</td><td>Spanien</td></tr>
+<tr><td>Turrón de Agramunt / Torró d’Agramunt</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Turrón de Alicante</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Spanien</td></tr>
+<tr><td>Uva de mesa embolsada «Vinalopó»</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Spanien</td></tr>
+<tr><td>Vinagre de Jerez</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Vinagre del Condado de Huelva</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Vinagre de Montilla-Moriles</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Spanien</td></tr>
+<tr><td>Kainuun rönttönen</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Finnland</td></tr>
+<tr><td>Kitkan viisas</td><td></td><td>g. U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Finnland</td></tr>
+<tr><td>Lapin Poron kuivaliha</td><td></td><td>g. U.</td><td>Fleischerzeugniss</td><td>Finnland</td></tr>
+<tr><td>Lapin Poron kylmäsavuliha</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Finnland</td></tr>
+<tr><td>Lapin Poron liha</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Finnland</td></tr>
+<tr><td>Lapin Puikula</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Finnland</td></tr>
+<tr><td>Puruveden muikku</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Finnland</td></tr>
+<tr><td>Abondance</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Abricots rouges du Roussillon</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Agneau de lait des Pyrénées</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Agneau de l’Aveyron</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Agneau de Lozère</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Agneau de Pauillac</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Agneau du Périgord</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Agneau de Sisteron</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Agneau du Bourbonnais</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Agneau du Limousin</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Agneau du Poitou-Charentes</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Agneau du Quercy</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Ail blanc de Lomagne</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Ail de la Drôme</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Ail fumé d’Arleux</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Ail rose de Lautrec</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Ail violet de Cadours</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Anchois de Collioure</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Frankreich</td></tr>
+<tr><td>Artichaut du Rousillon</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Asperge des sables des Landes</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Asperges du Blayais</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Banon</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Barèges-Gavarnie</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Béa du Roussillon</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Beaufort</td><td>–</td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Bergamote(s) de Nancy</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Frankreich</td></tr>
+<tr><td>Beurre Charentes-Poitou / Beurre des Charentes / Beurre des Deux-Sèvres</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Beurre de Bresse</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Beurre d’Isigny</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Bleu d’Auvergne</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Bleu de Gex Haut-Jura / Bleu de Septmoncel</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Bleu des Causses</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Bleu du Vercors-Sassenage</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Bœuf charolais du Bourbonnais</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Bœuf de Bazas</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Bœuf de Chalosse</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Bœuf de Charolles</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Bœuf de Vendée</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Bœuf du Maine</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Boudin blanc de Rethel</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Brie de Meaux</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Brie de Melun</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Brillat-Savarin</td><td></td><td>g. g. A.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Brioche vendéenne</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Frankreich</td></tr>
+<tr><td>Brocciu Corse / Brocciu</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Bulot de la Baie de Granville</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Frankreich</td></tr>
+<tr><td>Camembert de Normandie</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Canard à foie gras du Sud-Ouest (Chalosse, Gascogne, Gers, Landes, Périgord, Quercy)</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Cantal / Fourme de Cantal</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Chabichou du Poitou</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Chaource</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Chapon du Périgord</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Charolais</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Charolais de Bourgogne</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Chasselas de Moissac</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Châtaigne d’Ardèche</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Chevrotin</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Choucroute d’Alsace</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Cidre Cotentin / Cotentin</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Cidre de Bretagne / Cidre breton</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Cidre de Normandie / Cidre normand</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Citron de Menton</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Clémentine de Corse</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Coco de Paimpol</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Comté</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Coppa de Corse / Coppa de Corse – Coppa di Corsica</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Coquille Saint-Jacques des Côtes d’Armor</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Frankreich</td></tr>
+<tr><td>Cornouaille</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Crème de Bresse</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Frankreich</td></tr>
+<tr><td>Crème d’Isigny / Crème fraîche d’Isigny</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Frankreich</td></tr>
+<tr><td>Crème fraîche fluide d’Alsace</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Frankreich</td></tr>
+<tr><td>Crottin de Chavignol / Chavignol</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Dinde de Bresse</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Domfront</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Echalote d’Anjou</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Époisses</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Farine de blé noir de Bretagne / Farine de blé noir de Bretagne – Gwinizh du Breizh</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Farine de châtaigne corse / Farina castagnina corsa</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Farine de Petit Epeautre de Haute Provence</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Figue de Solliès</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Fin Gras / Fin Gras du Mézenc</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Foin de Crau</td><td></td><td>g. U.</td><td>Heu</td><td>Frankreich</td></tr>
+<tr><td>Fourme d’Ambert</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Fourme de Montbrison</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Fraise du Périgord</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Fraises de Nîmes</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Gâche vendéenne</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Frankreich</td></tr>
+<tr><td>Génisse Fleur d’Aubrac</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Gruyère[^annex1-lvlu1-lvl2-1]</td><td></td><td>g. g. A.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Haricot tarbais</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Huile d’olive d’Aix-en-Provence</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Huile d’olive de Corse / Huile d’olive de Corse – Oliu di Corsica</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Huile d’olive de Haute-Provence</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Huile d’olive de la Vallée des Baux-de-Provence</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Huile d’olive de Nice</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Huile d’olive de Nîmes</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Huile d’olive de Nyons</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Huile essentielle de lavande de Haute-Provence / Essence de lavande de Haute-Provence</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Frankreich</td></tr>
+<tr><td>Huîtres Marennes Oléron</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Jambon d’Auvergne</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Jambon de Bayonne</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Jambon noir de Bigorre</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Jambon sec de Corse / Jambon sec de Corse – Prisuttu</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Jambon de Lacaune</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Jambon de l’Ardèche</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Jambon de Vendée</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Jambon sec des Ardennes / Noix de Jambon sec des Ardennes</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Jambon du Kintoa</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Kintoa</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Kiwi de l’Adour</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Laguiole</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Langres</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Lentille verte du Puy</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Lentilles vertes du Berry</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Lingot du Nord</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Livarot</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Lonzo de Corse / Lonzo de Corse – Lonzu</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Lucques de Languedoc</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Mâche nantaise</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Mâconnais</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Maine – Anjou</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Maroilles / Marolles</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Melon de Guadeloupe</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Melon du Haut-Poitou</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Melon du Quercy</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Miel d’Alsace</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Frankreich</td></tr>
+<tr><td>Miel des Cévennes</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Frankreich</td></tr>
+<tr><td>Miel de Corse – Mele di Corsica</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Frankreich</td></tr>
+<tr><td>Miel de Provence</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Frankreich</td></tr>
+<tr><td>Miel de sapin des Vosges</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Frankreich</td></tr>
+<tr><td>Mirabelles de Lorraine</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Mogette de Vendée</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Mont d’Or / Vacherin du Haut-Doubs</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Morbier</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Moules de Bouchot de la Baie du Mont-Saint- Michel</td><td></td><td>g. U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Frankreich</td></tr>
+<tr><td>Moutarde de Bourgogne</td><td></td><td>g. g. A.</td><td>Senfpaste</td><td>Frankreich</td></tr>
+<tr><td>Munster / Munster-Géromé</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Muscat du Ventoux</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Neufchâtel</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Noisette de Cervione – Nuciola di Cervioni</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Noix de Grenoble</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Noix du Périgord</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Œufs de Loué</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Frankreich</td></tr>
+<tr><td>Oie d’Anjou</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Oignon de Roscoff</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Oignon doux des Cévennes</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Olive de Nice</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Olive de Nîmes</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Olives cassées de la Vallée des Baux-de-Provence</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Olives noires de la Vallée des Baux de Provence</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Olives noires de Nyons</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Ossau-Iraty</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Pâté de Campagne Breton</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Pâtes d’Alsace</td><td></td><td>g. g. A.</td><td>Teigwaren</td><td>Frankreich</td></tr>
+<tr><td>Pays d’Auge / Pays d’Auge-Cambremer</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Pélardon</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Petit Épeautre de Haute-Provence</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Picodon</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Piment d’Espelette / Piment d’Espelette – Ezpeletako Biperra</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Pintadeau de la Drôme</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Pintade de l’Ardèche</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Poireaux de Créances</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Pomelo de Corse</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Pomme de terre de l’Île de Ré</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Pomme du Limousin</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Pommes des Alpes de Haute Durance</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Pommes de terre de Merville</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Pommes et poires de Savoie / Pommes de Savoie / Poires de Savoie</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Pont-l’Évêque</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Porc d’Auvergne</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Porc de Franche-Comté</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Porc de la Sarthe</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Porc de Normandie</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Porc de Vendée</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Porc du Limousin</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Porc du Sud-Ouest</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Porc noir de Bigorre</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Poularde du Périgord</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Poulet de l’Ardèche / Chapon de l’Ardèche</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Poulet des Cévennes / Chapon des Cévennes</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Poulet du Périgord</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Pouligny-Saint-Pierre</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Prés-salés de la baie de Somme</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Prés-salés du Mont-Saint-Michel</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Pruneaux d’Agen / Pruneaux d’Agen mi-cuits</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Raclette de Savoie</td><td></td><td>g. g. A.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Raviole du Dauphiné</td><td></td><td>g. g. A.</td><td>Teigwaren</td><td>Frankreich</td></tr>
+<tr><td>Reblochon / Reblochon de Savoie</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Rigotte de Condrieu</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Rillettes de Tours</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Riz de Camargue</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Frankreich</td></tr>
+<tr><td>Rocamadour</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Roquefort</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Sainte-Maure de Touraine</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Saint-Marcellin</td><td></td><td>g. g. A.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Saint-Nectaire</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Salers</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Saucisse de Montbéliard</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Saucisse de Morteau / Jésus de Morteau</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Saucisson de Lacaune / Saucisse de Lacaune</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Saucisson de l’Ardèche</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Saucisson sec d’Auvergne / Saucisse sèche d’Auvergne</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Selles-sur-Cher</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Soumaintrain</td><td></td><td>g. g. A.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Taureau de Camargue</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Thym de Provence</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Frankreich</td></tr>
+<tr><td>Tome des Bauges</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Tomme de Savoie</td><td></td><td>g. g. A.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Tomme des Pyrénées</td><td></td><td>g. g. A.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Valençay</td><td></td><td>g. U.</td><td>Käse</td><td>Frankreich</td></tr>
+<tr><td>Veau d’Aveyron et du Ségala</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Veau du Limousin</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles d’Alsace</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles d’Ancenis</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles d’Auvergne</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Bourgogne</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volaille de Bresse / Poulet de Bresse / Poularde de Bresse / Chapon de Bresse</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Bretagne</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Challans</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Cholet</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Gascogne</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Houdan</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Janzé</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de la Champagne</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de la Drôme</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de l’Ain</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Licques</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de l’Orléanais</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Normandie</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles de Vendée</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles des Landes</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Béarn</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Berry</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Charolais</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Forez</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Gatinais</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Gers</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Languedoc</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Lauragais</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Maine</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du plateau de Langres</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Val de Sèvres</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Volailles du Velay</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Frankreich</td></tr>
+<tr><td>Baranjski kulen</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Kroatien</td></tr>
+<tr><td>Dalmatinski pršut</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Kroatien</td></tr>
+<tr><td>Drniški pršut</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Kroatien</td></tr>
+<tr><td>Ekstra djevičansko maslinovo ulje Cres</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Kroatien</td></tr>
+<tr><td>Istarski pršut / Istrski pršut</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Kroatien, Slowenien</td></tr>
+<tr><td>Istra</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Kroatien, Slowenien</td></tr>
+<tr><td>Korčulansko maslinovo ulje</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Kroatien</td></tr>
+<tr><td>Krčki pršut</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Kroatien</td></tr>
+<tr><td>Krčko maslinovo ulje</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Kroatien</td></tr>
+<tr><td>Lička janjetina</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Kroatien</td></tr>
+<tr><td>Lički krumpir</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Kroatien</td></tr>
+<tr><td>Međimursko meso ’z tiblice</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Kroatien</td></tr>
+<tr><td>Neretvanska mandarina</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Kroatien</td></tr>
+<tr><td>Ogulinski kiseli kupus / Ogulinsko kiselo zelje</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Kroatien</td></tr>
+<tr><td>Paška janjetina</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Kroatien</td></tr>
+<tr><td>Paški sir</td><td></td><td>g. U.</td><td>Käse</td><td>Kroatien</td></tr>
+<tr><td>Poljički soparnik / Poljički zeljanik / Poljički uljenjak</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Kroatien</td></tr>
+<tr><td>Slavonski kulen / Slavonski kulin</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Kroatien</td></tr>
+<tr><td>Slavonski med</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Kroatien</td></tr>
+<tr><td>Šoltansko maslinovo ulje</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Kroatien</td></tr>
+<tr><td>Varaždinsko zelje</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Kroatien</td></tr>
+<tr><td>Zagorski mlinci</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Kroatien</td></tr>
+<tr><td>Zagorski puran</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Kroatien</td></tr>
+<tr><td>Alföldi kamillavirágzat</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Ungarn</td></tr>
+<tr><td>Budapesti szalámi / Budapesti téliszalámi</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Ungarn</td></tr>
+<tr><td>Csabai kolbász / Csabai vastagkolbász</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Ungarn</td></tr>
+<tr><td>Gönci kajszibarack</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Ungarn</td></tr>
+<tr><td>Gyulai kolbász / Gyulai pároskolbász</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Ungarn</td></tr>
+<tr><td>Hajdúsági torma</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Ungarn</td></tr>
+<tr><td>Kalocsai fűszerpaprika örlemény</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Ungarn</td></tr>
+<tr><td>Magyar szürkemarha hús</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Ungarn</td></tr>
+<tr><td>Makói petrezselyemgyökér</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Ungarn</td></tr>
+<tr><td>Makói vöröshagyma / Makói hagyma</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Ungarn</td></tr>
+<tr><td>Szegedi fűszerpaprika-őrlemény / Szegedi paprika</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Ungarn</td></tr>
+<tr><td>Szegedi szalámi / Szegedi téliszalámi</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Ungarn</td></tr>
+<tr><td>Szentesi paprika</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Ungarn</td></tr>
+<tr><td>Szőregi rózsatő</td><td></td><td>g. g. A.</td><td>Blumen und Zierpflanzen</td><td>Ungarn</td></tr>
+<tr><td>Clare Island Salmon</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Irland</td></tr>
+<tr><td>Connemara Hill lamb / Uain Sléibhe Chonamara</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Irland</td></tr>
+<tr><td>Imokilly Regato</td><td></td><td>g. U.</td><td>Käse</td><td>Irland</td></tr>
+<tr><td>Sneem Black Pudding</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Irland</td></tr>
+<tr><td>Timoleague Brown Pudding</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Irland</td></tr>
+<tr><td>Waterford Blaa / Blaa</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Irland</td></tr>
+<tr><td>Abbacchio Romano</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Italien</td></tr>
+<tr><td>Acciughe Sotto Sale del Mar Ligure</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Italien</td></tr>
+<tr><td>Aceto balsamico di Modena</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Italien</td></tr>
+<tr><td>Aceto balsamico tradizionale di Modena</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Italien</td></tr>
+<tr><td>Aceto balsamico tradizionale di Reggio Emilia</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Italien</td></tr>
+<tr><td>Aglio Bianco Polesano</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Aglio di Voghiera</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Agnello del Centro Italia</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Italien</td></tr>
+<tr><td>Agnello di Sardegna</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Italien</td></tr>
+<tr><td>Alto Crotonese</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Amarene Brusche di Modena</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Anguria Reggiana</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Aprutino Pescarese</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Arancia del Gargano</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Arancia di Ribera</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Arancia Rossa di Sicilia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Asiago</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Asparago Bianco di Bassano</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Asparago bianco di Cimadolmo</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Asparago di Badoere</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Asparago di Cantello</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Asparago verde di Altedo</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Basilico Genovese</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Bergamotto di Reggio Calabria – Olio essenziale</td><td></td><td>g. U.</td><td>Ätherische Öle</td><td>Italien</td></tr>
+<tr><td>Bitto</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Bra</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Bresaola della Valtellina</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Brisighella</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Brovada</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Bruzio</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Burrata di Andria</td><td></td><td>g. g. A.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Caciocavallo Silano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Canestrato di Moliterno</td><td></td><td>g. g. A.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Canestrato Pugliese</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Canino</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Cantuccini Toscani / Cantucci Toscani</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Cappellacci di zucca ferraresi</td><td></td><td>g. g. A.</td><td>Teigwaren</td><td>Italien</td></tr>
+<tr><td>Capocollo di Calabria</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Cappero di Pantelleria</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Carciofo Brindisino</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Carciofo di Paestum</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Carciofo Romanesco del Lazio</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Carciofo Spinoso di Sardegna</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Carota dell’Altopiano del Fucino</td><td>–</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Carota Novella di Ispica</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Cartoceto</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Casatella Trevigiana</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Casciotta d’Urbino</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Castagna Cuneo</td><td>–</td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Castagna del Monte Amiata</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Castagna di Montella</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Castagna di Vallerano</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Castelmagno</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Chianti Classico</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Ciauscolo</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Cilento</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Ciliegia dell’Etna</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Ciliegia di Marostica</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Ciliegia di Vignola</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Cinta Senese</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Italien</td></tr>
+<tr><td>Cioccolato di Modica</td><td></td><td>g. g. A.</td><td>Schokolade und Nebenprodukte</td><td>Italien</td></tr>
+<tr><td>Cipolla bianca di Margherita</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Cipolla Rossa di Tropea Calabria</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Cipollotto Nocerino</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Clementine del Golfo di Taranto</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Clementine di Calabria</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Collina di Brindisi</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Colline di Romagna</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Colline Pontine</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Colline Salernitane</td><td>–</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Colline Teatine</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Coppa di Parma</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Coppa Piacentina</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Coppia Ferrarese</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Cotechino Modena</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Cozza di Scardovari</td><td></td><td>g. U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Italien</td></tr>
+<tr><td>Crudo di Cuneo</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Culatello di Zibello</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Culurgionis d’Ogliastra</td><td></td><td>g. g. A.</td><td>Teigwaren</td><td>Italien</td></tr>
+<tr><td>Dauno</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Fagioli Bianchi di Rotonda</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Fagiolo Cannellino di Atina</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Fagiolo Cuneo</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Fagiolo di Lamon della Vallata Bellunese</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Fagiolo di Sarconi</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Fagiolo di Sorana</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Farina di castagne della Lunigiana</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Farina di Neccio della Garfagnana</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Farro di Monteleone di Spoleto</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Farro della Garfagnana</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Fichi di Cosenza</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Fico Bianco del Cilento</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Ficodindia dell’Etna</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Ficodindia di San Cono</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Finocchiona</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Fiore Sardo</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Focaccia di Recco col formaggio</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Fontina</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Formaggella del Luinese</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Formaggio di Fossa di Sogliano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Formai de Mut dell’Alta Valle Brembana</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Fungo di Borgotaro</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Garda</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Gorgonzola</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Grana Padano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Insalata di Lusia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Irpinia – Colline dell’Ufita</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Kiwi Latina</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>La Bella della Daunia</td><td>–</td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Laghi Lombardi</td><td>–</td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Lametia</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Lardo di Colonnata</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Lenticchia di Altamura</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Lenticchia di Castelluccio di Norcia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Limone Costa d’Amalfi</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Limone di Rocca Imperiale</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Limone di Siracusa</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Limone di Sorrento</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Limone Femminello del Gargano</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Limone Interdonato Messina</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Liquirizia di Calabria</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Italien</td></tr>
+<tr><td>Lucanica di Picerno</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Lucca</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Maccheroncini di Campofilone</td><td></td><td>g. g. A.</td><td>Teigwaren</td><td>Italien</td></tr>
+<tr><td>Marche</td><td></td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Marrone della Valle di Susa</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Marrone del Mugello</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Marrone di Caprese Michelangelo</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Marrone di Castel del Rio</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Marrone di Combai</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Marrone di Roccadaspide</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Marrone di San Zeno</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Marrone di Serino / Castagna di Serino</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Marroni del Monfenera</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Mela Alto Adige / Südtiroler Apfel</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Mela di Valtellina</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Mela Rossa Cuneo</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Mela Val di Non</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Melannurca Campana</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Melanzana Rossa di Rotonda</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Melone Mantovano</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Miele della Lunigiana</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Italien</td></tr>
+<tr><td>Miele delle Dolomiti Bellunesi</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Italien</td></tr>
+<tr><td>Miele Varesino</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Italien</td></tr>
+<tr><td>Molise</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Montasio</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Monte Etna</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Monte Veronese</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Monti Iblei</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Mortadella Bologna</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Mortadella di Prato</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Mozzarella di Bufala Campana</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Murazzano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Nocciola del Piemonte / Nocciola Piemonte</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Nocciola di Giffoni</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Nocciola Romana</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Nocellara del Belice</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Nostrano Valtrompia</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Oliva Ascolana del Piceno</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Olio di Calabria</td><td></td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Olio di Puglia</td><td></td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Oliva di Gaeta</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Ossolano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pagnotta del Dittaino</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pampapato di Ferrara / Pampepato di Ferrara</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Pancetta di Calabria</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Pancetta Piacentina</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Pane casareccio di Genzano</td><td>–</td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Pane di Altamura</td><td>–</td><td>g. U.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Pane di Matera</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Pane Toscano</td><td></td><td>g. U.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Panforte di Siena</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Parmigiano Reggiano</td><td>–</td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pasta di Gragnano</td><td></td><td>g. g. A.</td><td>Teigwaren</td><td>Italien</td></tr>
+<tr><td>Patata del Fucino</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Patata dell’Alto Viterbese</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Patata della Sila</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Patata di Bologna</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Patata novella di Galatina</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Patata Rossa di Colfiorito</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pecorino Crotonese</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pecorino delle Balze Volterrane</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pecorino di Filiano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pecorino di Picinisco</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pecorino Romano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pecorino Sardo</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pecorino Siciliano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pecorino Toscano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Penisola Sorrentina</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Peperone di Pontecorvo</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Peperone di Senise</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pera dell’Emilia Romagna</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pera mantovana</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pescabivona</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pesca di Leonforte</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pesca di Verona</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pesca e nettarina di Romagna</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Piacentinu Ennese</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Piadina Romagnola / Piada Romagnola</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Piave</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Pistacchio verde di Bronte</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pitina</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Pizzoccheri della Valtellina</td><td></td><td>g. g. A.</td><td>Teigwaren</td><td>Italien</td></tr>
+<tr><td>Pomodorino del Piennolo del Vesuvio</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pomodoro di Pachino</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Pomodoro S. Marzano dell’Agro Sarnese-Nocerino</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Porchetta di Ariccia</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Pretuziano delle Colline Teramane</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Prosciutto Amatriciano</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Prosciutto di Carpegna</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Prosciutto di Modena</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Prosciutto di Norcia</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Prosciutto di Parma</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Prosciutto di Sauris</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Prosciutto di San Daniele</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Italien</td></tr>
+<tr><td>Prosciutto Toscano</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Prosciutto Veneto Berico-Euganeo</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Provolone del Monaco</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Provolone Valpadana</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Puzzone di Moena / Spretz Tzaorì</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Quartirolo Lombardo</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Radicchio di Chioggia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Radicchio di Verona</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Radicchio Rosso di Treviso</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Radicchio Variegato di Castelfranco</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Ragusano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Raschera</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Ricciarelli di Siena</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Ricotta di Bufala Campana</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Italien</td></tr>
+<tr><td>Ricotta Romana</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Riso del Delta del Po</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Riso di Baraggia Biellese e Vercellese</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Riso Nano Vialone Veronese</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Riviera Ligure</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Robiola di Roccaverano</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Sabina</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Salama da sugo</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salame Brianza</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salame Cremona</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salame di Varzi</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salame d’oca di Mortara</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salame Felino</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salame Piacentino</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salame Piemonte</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salame S. Angelo</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salamini italiani alla cacciatora</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salmerino del Trentino</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Italien</td></tr>
+<tr><td>Salsiccia di Calabria</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Salva Cremasco</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Sardegna</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Scalogno di Romagna</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Sedano Bianco di Sperlonga</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Seggiano</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Sicilia</td><td></td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Silter</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Soppressata di Calabria</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Soprèssa Vicentina</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Speck dell’Alto Adige / Südtiroler Markenspeck / Südtiroler Speck</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Spressa delle Giudicarie</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Squacquerone di Romagna</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Stelvio / Stilfser</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Strachitunt</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Susina di Dro</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Taleggio</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Tergeste</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Terra di Bari</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Terra d’Otranto</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Terre Aurunche</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Terre di Siena</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Terre Tarentine</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Tinca Gobba Dorata del Pianalto di Poirino</td><td></td><td>g. U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Italien</td></tr>
+<tr><td>Toma Piemontese</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Torrone di Bagnara</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Italien</td></tr>
+<tr><td>Toscano</td><td></td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Trote del Trentino</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Italien</td></tr>
+<tr><td>Tuscia</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Umbria</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Uva da tavola di Canicattì</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Uva da tavola di Mazzarrone</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Uva di Puglia</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Italien</td></tr>
+<tr><td>Val di Mazara</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Valdemone</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Valle d’Aosta Fromadzo</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Valle d’Aosta Jambon de Bosses</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Valle d’Aosta Lard d’Arnad</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Valle del Belice</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Valli Trapanesi</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Valtellina Casera</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Vastedda della valle del Belìce</td><td></td><td>g. U.</td><td>Käse</td><td>Italien</td></tr>
+<tr><td>Veneto Valpolicella, Veneto Euganei e Berici, Veneto del Grappa</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Vitellone bianco dell’Appennino Centrale</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Italien</td></tr>
+<tr><td>Vitelloni Piemontesi della coscia</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Italien</td></tr>
+<tr><td>Vulture</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Italien</td></tr>
+<tr><td>Zafferano dell’Aquila</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Italien</td></tr>
+<tr><td>Zafferano di San Gimignano</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Italien</td></tr>
+<tr><td>Zafferano di Sardegna</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Italien</td></tr>
+<tr><td>Zampone Modena</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Italien</td></tr>
+<tr><td>Daujėnų naminė duona</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Litauen</td></tr>
+<tr><td>Džiugas</td><td></td><td>g. g. A.</td><td>Käse</td><td>Litauen</td></tr>
+<tr><td>Kaimiškas Jovarų alus</td><td></td><td>g. g. A.</td><td>Bier</td><td>Litauen</td></tr>
+<tr><td>Lietuviškas varškės sūris</td><td></td><td>g. g. A.</td><td>Käse</td><td>Litauen</td></tr>
+<tr><td>Liliputas</td><td></td><td>g. g. A.</td><td>Käse</td><td>Litauen</td></tr>
+<tr><td>Seinų / Lazdijų krašto medus / Miód z Sejneńszczyny / Łoździejszczyzny</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Litauen, Polen</td></tr>
+<tr><td>Stakliškės</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Litauen</td></tr>
+<tr><td>Beurre rose – Marque nationale du Grand-Duché de Luxembourg</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Luxemburg</td></tr>
+<tr><td>Miel – Marque nationale du Grand-Duché de Luxembourg</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Luxemburg</td></tr>
+<tr><td>Salaisons fumées, marque nationale du Grand-Duché de Luxembourg</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Luxemburg</td></tr>
+<tr><td>Viande de porc, marque nationale du Grand-Duché de Luxembourg</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Luxemburg</td></tr>
+<tr><td>Carnikavas nēģi</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Lettland</td></tr>
+<tr><td>Latvijas lielie pelēkie zirņi</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Lettland</td></tr>
+<tr><td>Rucavas baltais sviests</td><td></td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Lettland</td></tr>
+<tr><td>Boeren-Leidse met sleutels</td><td></td><td>g. U.</td><td>Käse</td><td>Niederlande</td></tr>
+<tr><td>Brabantse Wal asperges</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Niederlande</td></tr>
+<tr><td>De Meerlander</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Niederlande</td></tr>
+<tr><td>Edam Holland</td><td></td><td>g. g. A.</td><td>Käse</td><td>Niederlande</td></tr>
+<tr><td>Gouda Holland</td><td></td><td>g. g. A.</td><td>Käse</td><td>Niederlande</td></tr>
+<tr><td>Hollandse geitenkaas</td><td></td><td>g. g. A.</td><td>Käse</td><td>Niederlande</td></tr>
+<tr><td>Kanterkaas / Kanternagelkaas / Kanterkomijnekaas</td><td></td><td>g. U.</td><td>Käse</td><td>Niederlande</td></tr>
+<tr><td>Noord-Hollandse Edammer</td><td></td><td>g. U.</td><td>Käse</td><td>Niederlande</td></tr>
+<tr><td>Noord-Hollandse Gouda</td><td></td><td>g. U.</td><td>Käse</td><td>Niederlande</td></tr>
+<tr><td>Opperdoezer Ronde</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Niederlande</td></tr>
+<tr><td>Westlandse druif</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Niederlande</td></tr>
+<tr><td>Andruty Kaliskie</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Polen</td></tr>
+<tr><td>Bryndza Podhalańska</td><td></td><td>g. U.</td><td>Käse</td><td>Polen</td></tr>
+<tr><td>Cebularz lubelski</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Polen</td></tr>
+<tr><td>Chleb prądnicki</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Polen</td></tr>
+<tr><td>Czosnek galicyjski</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Fasola korczyńska</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Fasola Piękny Jaś z Doliny Dunajca / Fasola z Doliny Dunajca</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Fasola Wrzawska</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Jabłka grójeckie</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Jabłka łąckie</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Jagnięcina podhalańska</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Polen</td></tr>
+<tr><td>Karp zatorski</td><td></td><td>g. U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Polen</td></tr>
+<tr><td>Kiełbasa biała parzona wielkopolska</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Polen</td></tr>
+<tr><td>Kiełbasa lisiecka</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Polen</td></tr>
+<tr><td>Kiełbasa piaszczańska</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Polen</td></tr>
+<tr><td>Kołocz śląski / kołacz śląski</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Polen</td></tr>
+<tr><td>Krupnioki śląskie</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Polen</td></tr>
+<tr><td>Miód drahimski</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Polen</td></tr>
+<tr><td>Miód kurpiowski</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Polen</td></tr>
+<tr><td>Miód wrzosowy z Borów Dolnośląskich</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Polen</td></tr>
+<tr><td>Obwarzanek krakowski</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Polen</td></tr>
+<tr><td>Oscypek</td><td></td><td>g. U.</td><td>Käse</td><td>Polen</td></tr>
+<tr><td>Podkarpacki miód spadziowy</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Polen</td></tr>
+<tr><td>Redykołka</td><td></td><td>g. U.</td><td>Käse</td><td>Polen</td></tr>
+<tr><td>Rogal świętomarciński</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Polen</td></tr>
+<tr><td>Ser koryciński swojski</td><td></td><td>g. g. A.</td><td>Käse</td><td>Polen</td></tr>
+<tr><td>Śliwka szydłowska</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Suska sechlońska</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Truskawka kaszubska / Kaszëbskô malëna</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Wielkopolski ser smażony</td><td></td><td>g. g. A.</td><td>Käse</td><td>Polen</td></tr>
+<tr><td>Wiśnia nadwiślanka</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Polen</td></tr>
+<tr><td>Alheira de Barroso- Montalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Alheira de Mirandela</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Alheira de Vinhais</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Ameixa d’Elvas</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Amêndoa Coberta de Moncorvo</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Portugal</td></tr>
+<tr><td>Amêndoa Douro</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Ananás dos Açores / São Miguel</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Anona da Madeira</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Arroz Carolino do Baixo Mondego</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Arroz Carolino Lezírias Ribatejanas</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Azeite de Moura</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Portugal</td></tr>
+<tr><td>Azeite de Trás-os-Montes</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Portugal</td></tr>
+<tr><td>Azeite do Alentejo Interior</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Azeites da Beira Interior (Azeite da Beira Alta, Azeite da Beira Baixa)</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Portugal</td></tr>
+<tr><td>Azeites do Norte Alentejano</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Portugal</td></tr>
+<tr><td>Azeites do Ribatejo</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Portugal</td></tr>
+<tr><td>Azeitona de conserva Negrinha de Freixo</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Azeitonas de Conserva de Elvas e Campo Maior</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Batata de Trás-os-montes</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Batata doce de Aljezur</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Borrego da Beira</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Borrego de Montemor-o-Novo</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Borrego do Baixo Alentejo</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Borrego do Nordeste Alentejano</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Borrego Serra da Estrela</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Borrego Terrincho</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Butelo de Vinhais / Bucho de Vinhais / Chouriço de Ossos de Vinhais</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Cabrito da Beira</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Cabrito da Gralheira</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Cabrito das Terras Altas do Minho</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Cabrito de Barroso</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Cabrito do Alentejo</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Cabrito Transmontano</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Cacholeira Branca de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Capão de Freamunde</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carnalentejana</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne Arouquesa</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne Barrosã</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne Cachena da Peneda</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne da Charneca</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne de Bísaro Transmonano / Carne de Porco Transmontano</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne de Bovino Cruzado dos Lameiros do Barroso</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne de Bravo do Ribatejo</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne de Porco Alentejano</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne dos Açores</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne Marinhoa</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne Maronesa</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne Mertolenga</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Carne Mirandesa</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Castanha da Terra Fria</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Castanha de Padrela</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Castanha dos Soutos da Lapa</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Castanha Marvão-Portalegre</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Cereja da Cova da Beira</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Cereja de São Julião-Portalegre</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Chouriça de carne de Barroso-Montalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriça de carne de Melgaço</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriça de Carne de Vinhais / Linguiça de Vinhais</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriça de sangue de Melgaço</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriça doce de Vinhais</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriço azedo de Vinhais / Azedo de Vinhais / Chouriço de Pão de Vinhais</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriço de Abóbora de Barroso-Montalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriço de Carne de Estremoz e Borba</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriço de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriço grosso de Estremoz e Borba</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Chouriço Mouro de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Citrinos do Algarve</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Cordeiro Bragançano</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Cordeiro de Barroso / Anho de Barroso / Cordeiro de leite de Barroso</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Cordeiro Mirandês / Canhono Mirandês</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Farinheira de Estremoz e Borba</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Farinheira de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Fogaça da Feira</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Portugal</td></tr>
+<tr><td>Folar de Valpaços</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Portugal</td></tr>
+<tr><td>Ginja de Óbidos e Alcobaça</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Linguiça de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Linguiça do Baixo Alentejo / Chouriço de carne do Baixo Alentejo</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Lombo Branco de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Lombo Enguitado de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Maçã Bravo de Esmolfe</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Maçã da Beira Alta</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Maçã da Cova da Beira</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Maçã de Alcobaça</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Maçã de Portalegre</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Maçã Riscadinha de Palmela</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Maracujá dos Açores / S. Miguel</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Mel da Serra da Lousã</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Mel da Serra de Monchique</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Mel da Terra Quente</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Mel das Terras Altas do Minho</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Mel de Barroso</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Mel do Alentejo</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Mel do Parque de Montezinho</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Mel do Ribatejo Norte (Serra d’Aire, Albufeira de Castelo de Bode, Bairro, Alto Nabão)</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Mel dos Açores</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Meloa de Santa Maria – Açores</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Morcela de Assar de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Morcela de Cozer de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Morcela de Estremoz e Borba</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Ovos moles de Aveiro</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Portugal</td></tr>
+<tr><td>Paio de Estremoz e Borba</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Paia de Lombo de Estremoz e Borba</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Paia de Toucinho de Estremoz e Borba</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Painho de Portalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Paio de Beja</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Pão de Ló de Ovar</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Portugal</td></tr>
+<tr><td>Pastel de Chaves</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Portugal</td></tr>
+<tr><td>Pastel de Tentúgal</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Portugal</td></tr>
+<tr><td>Pêra Rocha do Oeste</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Pêssego da Cova da Beira</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Portugal</td></tr>
+<tr><td>Presunto de Barrancos / Paleta de Barrancos</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Presunto de Barroso</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Presunto de Camp Maior e Elvas / Paleta de Campo Maior e Elvas</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Presunto de Melgaço</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Presunto de Santana da Serra / Paleta de Santana da Serra</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Presunto de Vinhais / Presunto Bísaro de Vinhais</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Presunto do Alentejo / Paleta do Alentejo</td><td></td><td>g. U.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Queijo de Azeitão</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo de cabra Transmontano</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo de Évora</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo de Nisa</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo do Pico</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo mestiço de Tolosa</td><td></td><td>g. g. A.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo Rabaçal</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo São Jorge</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo Serpa</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo Serra da Estrela</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijo Terrincho</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Queijos da Beira Baixa (Queijo de Castelo Branco, Queijo Amarelo da Beira Baixa, Queijo Picante da Beira Baixa)</td><td></td><td>g. U.</td><td>Käse</td><td>Portugal</td></tr>
+<tr><td>Requeijão da Beira Baixa</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Requeijão Serra da Estrela</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Salpicão de Barroso-Montalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Salpicão de Melgaço</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Salpicão de Vinhais</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Sangueira de Barroso-Montalegre</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Portugal</td></tr>
+<tr><td>Travia da Beira Baixa</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Portugal</td></tr>
+<tr><td>Vitela de Lafões</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Portugal</td></tr>
+<tr><td>Cârnaţi de Pleşcoi</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Rumänien</td></tr>
+<tr><td>Magiun de prune Topoloveni</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Rumänien</td></tr>
+<tr><td>Novac afumat din Ţara Bârsei</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Rumänien</td></tr>
+<tr><td>Salam de Sibiu</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Rumänien</td></tr>
+<tr><td>Scrumbie de Dunăre afumată</td><td></td><td>g. g. A.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Rumänien</td></tr>
+<tr><td>Telemea de Ibăneşti</td><td></td><td>g. U.</td><td>Käse</td><td>Rumänien</td></tr>
+<tr><td>Telemea de Sibiu</td><td></td><td>g. g. A.</td><td>Käse</td><td>Rumänien</td></tr>
+<tr><td>Bruna bönor från Öland</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Schweden</td></tr>
+<tr><td>Hånnlamb</td><td></td><td>g. U.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Schweden</td></tr>
+<tr><td>Kalix Löjrom</td><td></td><td>g. U.</td><td>Fisch, Muscheln und Schalentiere, frisch und Erzeugnisse daraus</td><td>Schweden</td></tr>
+<tr><td>Skånsk spettkaka</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Schweden</td></tr>
+<tr><td>Svecia</td><td></td><td>g. g. A.</td><td>Käse</td><td>Schweden</td></tr>
+<tr><td>Upplandskubb</td><td></td><td>g. U.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Schweden</td></tr>
+<tr><td>Bovški sir</td><td></td><td>g. U.</td><td>Käse</td><td>Slowenien</td></tr>
+<tr><td>Ekstra deviško oljčno olje Slovenske Istre</td><td></td><td>g. U.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Slowenien</td></tr>
+<tr><td>Jajca izpod Kamniških planin</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Slowenien</td></tr>
+<tr><td>Kočevski gozdni med</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Slowenien</td></tr>
+<tr><td>Kranjska klobasa</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Slowenien</td></tr>
+<tr><td>Kraška panceta</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Slowenien</td></tr>
+<tr><td>Kraški med</td><td></td><td>g. U.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Slowenien</td></tr>
+<tr><td>Kraški pršut</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Slowenien</td></tr>
+<tr><td>Kraški zašink</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Slowenien</td></tr>
+<tr><td>Mohant</td><td></td><td>g. U.</td><td>Käse</td><td>Slowenien</td></tr>
+<tr><td>Nanoški sir</td><td></td><td>g. U.</td><td>Käse</td><td>Slowenien</td></tr>
+<tr><td>Prekmurska šunka</td><td></td><td>g. g. A.</td><td>Fleisch (und Schlachtnebenerzeugnisse), frisch</td><td>Slowenien</td></tr>
+<tr><td>Prleška tünka</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Slowenien</td></tr>
+<tr><td>Ptujski lük</td><td></td><td>g. g. A.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Slowenien</td></tr>
+<tr><td>Šebreljski želodec</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Slowenien</td></tr>
+<tr><td>Slovenski med</td><td></td><td>g. g. A.</td><td>Sonstige Erzeugnisse tierischen Ursprungs</td><td>Slowenien</td></tr>
+<tr><td>Štajerski hmelj</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Slowenien</td></tr>
+<tr><td>Štajersko prekmursko bučno olje</td><td></td><td>g. g. A.</td><td>Fette (Butter, Margarine, Öle usw.)</td><td>Slowenien</td></tr>
+<tr><td>Tolminc</td><td></td><td>g. U.</td><td>Käse</td><td>Slowenien</td></tr>
+<tr><td>Zgornjesavinjski želodec</td><td></td><td>g. g. A.</td><td>Fleischerzeugnisse</td><td>Slowenien</td></tr>
+<tr><td>Klenovecký syrec</td><td></td><td>g. g. A.</td><td>Käse</td><td>Slowakei</td></tr>
+<tr><td>Levický Slad</td><td></td><td>g. g. A.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Slowakei</td></tr>
+<tr><td>Oravský korbáčik</td><td></td><td>g. g. A.</td><td>Käse</td><td>Slowakei</td></tr>
+<tr><td>Paprika Žitava / Žitavská paprika</td><td></td><td>g. U.</td><td>Andere unter Anhang I AEUV fallende Erzeugnisse</td><td>Slowakei</td></tr>
+<tr><td>Skalický trdelnik</td><td></td><td>g. g. A.</td><td>Backwaren, feine Backwaren, Süsswaren und Kleingebäck</td><td>Slowakei</td></tr>
+<tr><td>Slovenská bryndza</td><td></td><td>g. g. A.</td><td>Käse</td><td>Slowakei</td></tr>
+<tr><td>Slovenská parenica</td><td></td><td>g. g. A.</td><td>Käse</td><td>Slowakei</td></tr>
+<tr><td>Slovenský oštiepok</td><td></td><td>g. g. A.</td><td>Käse</td><td>Slowakei</td></tr>
+<tr><td>Stupavské zelé</td><td></td><td>g. U.</td><td>Obst, Gemüse und Getreide, unverarbeitet und verarbeitet</td><td>Slowakei</td></tr>
+<tr><td>Tekovský salámový syr</td><td></td><td>g. g. A.</td><td>Käse</td><td>Slowakei</td></tr>
+<tr><td>Zázrivské vojky</td><td></td><td>g. g. A.</td><td>Käse</td><td>Slowakei</td></tr>
+<tr><td>Zázrivský korbáčik</td><td></td><td>g. g. A.</td><td>Käse</td><td>Slowakei</td></tr>
 <tr><td colspan="5">(1) Gemäss den geltenden Rechtsvorschriften der Union nach Anlage 2.</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl2.-1]: Die Modalitäten für die Verwendung der g.g.A. Gruyère sind in den Erwägungsgründen 8 und 9 der Durchführungsverordnung (EU) Nr. 110/2013 der Kommission vom 6. Februar 2013 zur Eintragung einer Bezeichnung in das Verzeichnis der geschützten Ursprungsbezeichnungen und der geschützten geografischen Angaben [Gruyère (g.g.A.] (ABl. L 36 vom 7.2.2013, S. 1) beschrieben.
+[^annex1-lvlu1-lvl2-1]: Die Modalitäten für die Verwendung der g. g. A. Gruyère sind in den Erwägungsgründen 8 und 9 der Durchführungsverordnung (EU) Nr. 110/2013 der Kommission vom 6. Februar 2013 zur Eintragung einer Bezeichnung in das Verzeichnis der geschützten Ursprungsbezeichnungen und der geschützten geografischen Angaben [Gruyère (g. g. A.] (ABl. L 36 vom 7.2.2013, S. 1) beschrieben.
 
-Anlage 2*[^t-35]*
+Anlage 2[^t-35]
 
 ## Rechtsvorschriften der Parteien
 
-[^t-35]: Fassung gemäss Art. 1 der Beschlusses Nr. 1/2020 des Gemischten Ausschusses für Landwirtschaft vom 31. Juli 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4849](https://fedlex.data.admin.ch/eli/oc/2020/873)).
+[^t-35]: Fassung gemäss Art. 1 der Beschlusses Nr. 2/2022 des Gemischten Ausschusses für Landwirtschaft vom 17. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 28](https://fedlex.data.admin.ch/eli/oc/2023/28)).
 
-### Rechtsvorschriften der Europäischen Union
+Rechtsvorschriften der Europäischen Union
 
 Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1).
 
@@ -13008,11 +12719,11 @@ Delegierte Verordnung (EU) Nr. 664/2014 der Kommission vom 18. Dezember 2013 zur
 
 Durchführungsverordnung (EU) Nr. 668/2014 der Kommission vom 13. Juni 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 179 vom 19.6.2014, S. 36).
 
-### Rechtsvorschriften der Schweizerischen Eidgenossenschaft
+Rechtsvorschriften der Schweizerischen Eidgenossenschaft
 
-Verordnung vom 28. Mai 1997 über den Schutz von Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse, verarbeitete landwirtschaftliche Erzeugnisse, waldwirtschaftliche Erzeugnisse und verarbeitete waldwirtschaftliche Erzeugnisse, zuletzt geändert am 1. Januar 2017 (AS *2016* 3281).
+Verordnung vom 28. Mai 1997 über den Schutz von Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse, verarbeitete landwirtschaftliche Erzeugnisse, waldwirtschaftliche Erzeugnisse und verarbeitete waldwirtschaftliche Erzeugnisse, zuletzt geändert am 18. Dezember 2018 (SR *910.12*, AS *2020* 5445).
 
-## 2. Schlussakte
+## Schlussakte
 
 Die Bevollmächtigten der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft,
 
@@ -13054,17 +12765,17 @@ Geschehen zu Luxemburg am einundzwanzigsten Juni neunzehnhundertneunundneunzig.
 <tr><td>Für die Schweizerische Eidgenossenschaft: Pascal Couchepin Joseph Deiss</td><td>Für die Europäische Gemeinschaft: Joschka Fischer Hans van den Broek</td></tr>
 </table>
 
-### 2.1. Gemeinsame Erklärung zu den Bilateralen Abkommen zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz
+### Gemeinsame Erklärung zu den Bilateralen Abkommen zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz
 
 Die Europäische Gemeinschaft und die Schweiz erkennen an, dass die Bestimmungen der bilateralen Abkommen zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz unbeschadet und unter Vorbehalt der Verpflichtungen aus der Mitgliedschaft der Vertragsparteien in der Europäischen Union und in der Welthandelsorganisation gelten.
 
 Im Übrigen versteht es sich, dass die Bestimmungen dieser Abkommen nur dann Geltung behalten, wenn sie mit dem Gemeinschaftsrecht, einschliesslich der von der Gemeinschaft geschlossenen internationalen Übereinkommen, vereinbar sind.
 
-### 2.2. Gemeinsame Erklärung über die zolltarifliche Einreihung von Pulver von Gemüsen und Pulver von Früchten
+### Gemeinsame Erklärung über die zolltarifliche Einreihung von Pulver von Gemüsen und Pulver von Früchten
 
 Zur Sicherstellung und Erhaltung des Wertes der von der Gemeinschaft der Schweiz eingeräumten Zollzugeständnisse für bestimmte Pulver von Gemüsen und Pulver von Früchten gemäss Anhang 2 des Abkommens über den Handel mit landwirtschaftlichen Erzeugnissen kommen die Zollbehörden der Parteien überein, die Überarbeitung der zolltariflichen Einreihung der Pulver von Gemüsen und der Pulver von Früchten unter Berücksichtigung der bei der Anwendung der Zollzugeständnisse gesammelten Erfahrungen zu prüfen.
 
-### 2.3. Gemeinsame Erklärung zum Fleischsektor
+### Gemeinsame Erklärung zum Fleischsektor
 
 Ab 1. Juli 1999 eröffnet die Gemeinschaft unter Berücksichtigung der BSE-Krise und der von bestimmten Mitgliedstaaten gegenüber Ausfuhren aus der Schweiz ergriffenen Massnahmen ausnahmsweise ein autonomes Jahreszollkontingent von 700 Tonnen/netto getrocknetem Rindfleisch zum Wertzollsatz und unter Befreiung vom spezifischen Zoll, das bis zu einem Jahr nach Inkrafttreten des Abkommens gültig ist. Die Lage wird überprüft, wenn die Einfuhrbeschränkungen bestimmter Mitgliedstaaten gegenüber der Schweiz bis zu diesem Zeitpunkt nicht aufgehoben sind.
 
@@ -13072,11 +12783,11 @@ Im Gegenzug wird die Schweiz im selben Zeitraum ihre Zugeständnisse von 480 Ton
 
 Es gelten die Ursprungsregeln der nichtpräferentiellen Regelung.
 
-### 2.4. Gemeinsame Erklärung zur Verwaltung der Zollkontingente für den Fleischsektor durch die Schweiz
+### Gemeinsame Erklärung zur Verwaltung der Zollkontingente für den Fleischsektor durch die Schweiz
 
 Die Europäische Gemeinschaft und die Schweiz erklären ihre Absicht, insbesondere unter Berücksichtigung der WTO-Bestimmungen gemeinsam das Verfahren der Schweiz zur Verwaltung ihrer Zollkontingente für den Fleischsektor zu überprüfen, um ein Verfahren zu erzielen, das weniger Handelshemmnisse mit sich bringt.
 
-### 2.5. Gemeinsame Erklärung zur Durchführung des Anhangs 4 betreffend Pflanzenschutz
+### Gemeinsame Erklärung zur Durchführung des Anhangs 4 betreffend Pflanzenschutz
 
 Die Schweiz und die Europäische Gemeinschaft, im Folgenden «die Parteien» genannt, verpflichten sich, Anhang 4 zum Bereich der Pflanzengesundheit so schnell wie möglich umzusetzen. Die Umsetzung dieses Anhangs 4 vollzieht sich für die in Anlage A dieser Erklärung genannten Pflanzen, Pflanzenerzeugnisse und anderen Gegenstände im Zuge der Angleichung der schweizerischen Rechtsvorschriften an die in Anlage B dieser Erklärung aufgeführten Rechtsvorschriften der Europäischen Gemeinschaft nach einem Verfahren, das auf die Einbeziehung der Pflanzen, Pflanzenerzeugnisse und anderen Gegenstände in die Anlage 1 des Anhangs 4 bzw. der Rechtsvorschriften der beiden Parteien in die Anlage 2 des genannten Anhangs abzielt. Dieses Verfahren dient ferner der Ergänzung der Anlagen 3 und 4 des genannten Anhangs auf der Grundlage der Anlagen C und D dieser Erklärung für die Gemeinschaft einerseits und auf der Grundlage der einschlägigen Bestimmungen für die Schweiz andererseits.
 
@@ -13100,9 +12811,9 @@ Anlage A
 
 *Humulus lupulus* L.
 
-*Prunus* L[^annexu1-lvlu1-lvlA-lvl1-lvl11-1]
+*Prunus* L[^annexA-lvlu1-lvlA-lvl1-lvl11-1]
 
-[^annexu1-lvlu1-lvlA-lvl1-lvl11-1]: Vorbehaltlich der erwogenen Sonderbestimmungen zum Schutz vor dem Sharkavirus
+[^annexA-lvlu1-lvlA-lvl1-lvl11-1]: Vorbehaltlich der erwogenen Sonderbestimmungen zum Schutz vor dem Sharkavirus
 
 ### 1.2 Teile von Pflanzen, ausgenommen Früchte und Samen, jedoch einschliesslich lebendem Blütenstaub zur Bestäubung
 
@@ -13708,15 +13419,15 @@ Der Rat kommt überein, dass die Vertreter der Schweiz für die sie betreffenden
 
 Diese Ausschüsse treten ohne die Vertreter der Schweiz zu Abstimmungen zusammen.
 
-Was die übrigen Ausschüsse betrifft, die Bereiche behandeln, die unter diese Abkommen fallen und in denen die Schweiz den gemeinschaftlichen Besitzstand übernommen hat oder gleichwertige Rechtsvorschriften anwendet, so wird die Kommission die schweizerischen Sachverständigen gemäss der Regelung des Artikels 100 des EWR-Abkommens[^annexu1-lvlu1-lvlu10-1] konsultieren.
+Was die übrigen Ausschüsse betrifft, die Bereiche behandeln, die unter diese Abkommen fallen und in denen die Schweiz den gemeinschaftlichen Besitzstand übernommen hat oder gleichwertige Rechtsvorschriften anwendet, so wird die Kommission die schweizerischen Sachverständigen gemäss der Regelung des Artikels 100 des EWR-Abkommens[^annexD-lvlu1-lvlu1-lvlu9-1] konsultieren.
 
-[^annexu1-lvlu1-lvlu10-1]: [BBl 1992 IV 668](https://fedlex.data.admin.ch/eli/fga/1992/4_668__)
+[^annexD-lvlu1-lvlu1-lvlu9-1]: [BBl 1992 IV 668](https://fedlex.data.admin.ch/eli/fga/1992/4_668__)
 
-## 3. Schlussakte zur Änderung vom 23. Dezember 2008****
+## Schlussakte zur Änderung vom 23. Dezember 2008
 
-[^annexu1-lvl3.-1]
+[^annexD-lvlu2-1]
 
-[^annexu1-lvl3.-1]: Eingefügt durch das Abk. zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft vom 23. Dez. 2008 zur Änderung des Anhangs 11 dieses Abk., provisorisch angewendet seit 1. Jan. 2009, in Kraft seit 1. Dez. 2009 ([AS 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
+[^annexD-lvlu2-1]: Eingefügt durch das Abk. zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft vom 23. Dez. 2008 zur Änderung des Anhangs 11 dieses Abk., provisorisch angewendet seit 1. Jan. 2009, in Kraft seit 1. Dez. 2009 ([AS 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
 
 Die Bevollmächtigten der Europäischen Gemeinschaft
 
@@ -13738,15 +13449,15 @@ Geschehen zu Paris am 23. Dezember zweitausendacht
 <tr><td>Für die Schweizerische Eidgenossenschaft: Hans Wyss</td><td>Für die Europäische Gemeinschaft: Paul Van Geldorp</td></tr>
 </table>
 
-### 3.1. Erklärung der Schweiz zur Einfuhr von Fleisch von Tieren, bei denen Hormone zur Leistungsförderung eingesetzt wurden
+### Erklärung der Schweiz zur Einfuhr von Fleisch von Tieren, bei denen Hormone zur Leistungsförderung eingesetzt wurden
 
 Die Schweiz erklärt, dass sie der endgültigen Entscheidung der Welthandelsorganisation (WTO) in Bezug auf die Möglichkeit, die Einfuhr von Fleisch, das unter Verwendung von Hormonen zur Leistungsförderung bei Tieren erzeugt wurde, zu verbieten, gebührend Rechnung tragen wird und dass sie daher ihre Vorschriften über die Einfuhr von Fleisch aus Ländern, in denen die Verwendung von Hormonen zur Leistungsförderung bei Tieren nicht verboten ist, erneut prüfen und sich gegebenenfalls den Gemeinschaftsregeln in diesem Bereich anschliessen wird.
 
-## 4. Schlussakte zur Änderung vom 14. Mai 2009****
+## Schlussakte zur Änderung vom 14. Mai 2009
 
-[^annexu1-lvl4.-1]
+[^annexD-lvlu3-1]
 
-[^annexu1-lvl4.-1]: Eingefügt durch das Abk. vom 14. Mai 2009 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft zur Änderung des Abkommens, in Kraft seit 1. Juni 2009 ([AS 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annexD-lvlu3-1]: Eingefügt durch das Abk. vom 14. Mai 2009 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft zur Änderung des Abkommens, in Kraft seit 1. Juni 2009 ([AS 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 Die Bevollmächtigten der Schweizerischen Eidgenossenschaft
 
@@ -13769,11 +13480,11 @@ haben die folgenden Erklärungen zur Kenntnis genommen, die dieser Schlussakte b
 <tr><td>Für die Schweizerische Eidgenossenschaft: Jacques de Watteville</td><td>Für die Europäische Gemeinschaft: Milena Vicenová</td></tr>
 </table>
 
-### 4.1. Gemeinsame Erklärung zur Aktualisierung der Anhänge 7 und 8 des Abkommens zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen
+### Gemeinsame Erklärung zur Aktualisierung der Anhänge 7 und 8 des Abkommens zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen
 
 Angesichts der Fortentwicklung der Rechtsvorschriften der Vertragsparteien seit der Ausarbeitung und Annahme des Abkommens zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft zur Änderung des Abkommens zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen verpflichten sich die Vertragsparteien, die Aktualisierung des Anhangs 7 über den Handel mit Weinbauerzeugnissen einerseits und des Anhangs 8 über die gegenseitige Anerkennung und den Schutz der Bezeichnungen im Sektor Spirituosen und aromatisierte weinhaltige Getränke andererseits nach den in dem Abkommen vorgesehenen Verfahren rasch voranzutreiben; dadurch soll insbesondere der Fortentwicklung des gemeinschaftlichen Besitzstands infolge der Annahme der Verordnung (EG) Nr. 479/2008 vom 29. April 2008 über die gemeinsame Marktorganisation für Wein (ABl. L 148 vom 6.6.2008, S. 1) und der Verordnung (EG) Nr. 110/2008 vom 15. Januar 2008 zur Begriffsbestimmung, Bezeichnung, Aufmachung und Etikettierung von Spirituosen sowie zum Schutz geografischer Angaben für Spirituosen (ABl. L 39 vom 13.2.2008, S. 16) durch das Europäische Parlament und den Rat der Europäischen Union Rechnung getragen werden.
 
-### 4.2. Erklärung der Gemeinschaft zu den Verfahren der Schweiz zur Verwaltung ihrer Zollkontingente
+### Erklärung der Gemeinschaft zu den Verfahren der Schweiz zur Verwaltung ihrer Zollkontingente
 
 Das am 1. Juni 2002 in Kraft getretene Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen (nachstehend «das Abkommen» genannt) eröffnet unter anderem Zollkontingente, um den Handel mit landwirtschaftlichen Erzeugnissen zwischen den Vertragsparteien zu erleichtern. In der «Gemeinsamen Erklärung zur Verwaltung der schweizerischen Zollkontingente für den Fleischsektor durch die Schweiz», die dem Abkommen beigefügt ist, haben die Parteien ihre Absicht erklärt, gemeinsam das Verfahren der Schweiz zur Verwaltung ihrer Zollkontingente für den Fleischsektor zu überprüfen, um ein Verfahren zu erzielen, das weniger Handelshemmnisse mit sich bringt. Eine solche Überprüfung hat seit 2002 jedoch nicht stattgefunden.
 
@@ -13781,11 +13492,11 @@ Die Frage der Verwaltung im Wege von Ausschreibungen, wie sie von der Schweiz pr
 
 Die Gemeinschaft ist erfreut über die Aufnahme bilateraler Verhandlungen im Hinblick auf die vollständige Liberalisierung des bilateralen Handels mit landwirtschaftlichen Erzeugnissen und Lebensmitteln. Die Liberalisierung des Handels wird letztendlich zu einer Lösung dieser Frage führen. Angesichts der voraussichtlichen Dauer dieser Verhandlungen und der für die Umsetzung der Ergebnisse erforderlichen Zeit beantragt die Gemeinschaft jedoch, dass die Verfahren zur Verwaltung der Zollkontingente der Schweiz einstweilen angepasst werden, um Handelshemmnisse zu begrenzen.
 
-## 5. Schlussakte zur Änderung vom 17. Mai 2011****
+## Schlussakte zur Änderung vom 17. Mai 2011
 
-[^annexu1-lvl5.-1]
+[^annexD-lvlu4-1]
 
-[^annexu1-lvl5.-1]: Eingefügt durch Art. 1 Ziff. 1 des Abk. vom 17. Mai 2011 zwischen der Schweizerischen Eidgenossenschaft und der EU zum Schutz von Ursprungsbezeichnungen und geografischen Angaben für Agrarerzeugnisse und Lebensmittel, in Kraft seit 1. Dez. 2011 ([AS 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
+[^annexD-lvlu4-1]: Eingefügt durch Art. 1 Ziff. 1 des Abk. vom 17. Mai 2011 zwischen der Schweizerischen Eidgenossenschaft und der EU zum Schutz von Ursprungsbezeichnungen und geografischen Angaben für Agrarerzeugnisse und Lebensmittel, in Kraft seit 1. Dez. 2011 ([AS 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
 
 Die Bevollmächtigten der Schweizerischen Eidgenossenschaft
 
@@ -13801,7 +13512,7 @@ die am 17. Mai 2011 in Brüssel zur Unterzeichnung des Abkommens zwischen der Eu
 <tr><td>Für die Schweizerische Eidgenossenschaft: Johann N. Schneider-Ammann</td><td>Für die Europäsche Union: Sánder Fazekas Dacian Ciolos</td></tr>
 </table>
 
-### 5.1. Gemeinsame Erklärung über gleich lautende Bezeichnungen
+### Gemeinsame Erklärung über gleich lautende Bezeichnungen
 
 Die Parteien erkennen an, dass die Verfahren im Zusammenhang mit den Anträgen auf die Eintragung von g.A., die vor der Unterzeichnung der Absichtserklärung vom 11. Dezember 2009 eingegangen sind, aufgrund der jeweiligen Rechtsvorschriften der Parteien ungeachtet der Bestimmungen dieses Abkommens, insbesondere Anhang 12 Artikel 7, weitergeführt werden können.
 

@@ -3,11 +3,11 @@ sr: "0.916.026.81"
 title: Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles (avec annexes et acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/323"
 language: fr
-version: 2020-11-01
+version: 2023-01-01
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-323-20201101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/323/20201101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-323-20230101-fr-xml-28.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/323/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,11 +26,11 @@ Instrument de ratification déposé par la Suisse le 16 octobre 2000
 
 Entré en vigueur le 1<sup>er</sup> juin 2002
 
-(Etat le 1<sup>er</sup> novembre 2020)
+(État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Art. 1 al. 1 let. d de l’AF du 8 oct. 1999 ([RO 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
 
-La Confédération suisse, ci-après dénommée «la Suisse», et la Communauté européenne*[^ingress-1]*, ci-après dénommée «la Communauté»,
+La Confédération suisse, ci-après dénommée «la Suisse», et la Communauté européenne[^ingress-1], ci-après dénommée «la Communauté»,
 
 ci-après dénommées «les Parties»,
 
@@ -41,7 +41,7 @@ considérant qu’à l’art. 15 de l’Accord de libre-échange[^ingress-2] du 
 sont convenues des dispositions qui suivent:
 
 [^ingress-1]: Actuellement: Union européenne (UE).
-[^ingress-2]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
+[^ingress-2]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
 
 #### Art. 1
 
@@ -53,8 +53,8 @@ sont convenues des dispositions qui suivent:
 
 <sup>3.</sup> Le présent Accord ne s’applique pas aux matières couvertes par le Protocole n<sup>o</sup> 2[^1-2] de l’Accord de libre-échange, à l’exception des concessions y relatives accordées dans les annexes 1 et 2.
 
-[^1-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
-[^1-2]: [RS 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
+[^1-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
+[^1-2]: [RS 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
 #### Art. 2
 
@@ -76,7 +76,7 @@ L’annexe 3 du présent Accord contient les dispositions spécifiques applicabl
 
 Les règles d’origine réciproques pour l’application des annexes 1 à 3 du présent Accord sont celles du Protocole n<sup>o</sup> 3[^4-1] de l’Accord de libre-échange.
 
-[^4-1]: [RS 0.632.401.3](https://fedlex.data.admin.ch/eli/cc/2021/727)
+[^4-1]: [RS 0.632.401.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2427)
 
 #### Art. 5
 
@@ -99,7 +99,7 @@ Les annexes 4 à 12 du présent Accord déterminent la réduction des obstacles 
 <sup>2.</sup> L’art. 1, par. 2 et 3, et les art. 6 à 8 et 10 à 13 du présent Accord ne s’appliquent pas à l’annexe 11.
 
 [^5-1]: Nouvelle teneur selon l’art. 1 par. 1 de l’Ac. du 17 mai 2011 entre la Suisse et l’UE relatif à la protection des appellations d’origine et des indications géographiques pour les produits agricoles et les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
-[^5-2]: Nouvelle teneur selon l’art. 1 par. 1 de l’Ac. du 17 mai 2011 entre la Suisse et l’UE relatif à la protection des appellations d’origine et des indications géographiques pour les produits agricoles et les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
+[^5-2]: Introduit par l’art. 1 par. 1 de l’Ac. du 17 mai 2011 entre la Suisse et l’UE relatif à la protection des appellations d’origine et des indications géographiques pour les produits agricoles et les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
 
 #### Art. 6
 
@@ -119,9 +119,9 @@ Les annexes 4 à 12 du présent Accord déterminent la réduction des obstacles 
 
 <sup>7.</sup> Le Comité constitue les groupes de travail nécessaires pour la gestion des annexes du présent Accord. Il arrête dans son règlement intérieur notamment la composition et le fonctionnement de ces groupes de travail.
 
-8.[^6-1] Le Comité est habilité à approuver des versions authentiques de l’accord dans de nouvelles langues.
+<sup>8.</sup> Le Comité est habilité à approuver des versions authentiques de l’accord dans de nouvelles langues.[^6-1]
 
-[^6-1]: Nouvelle teneur selon l’art. 1 par. 1 de l’Ac. du 17 mai 2011 entre la Suisse et l’UE relatif à la protection des appellations d’origine et des indications géographiques pour les produits agricoles et les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
+[^6-1]: Introduit par l’art. 1 par. 1 de l’Ac. du 17 mai 2011 entre la Suisse et l’UE relatif à la protection des appellations d’origine et des indications géographiques pour les produits agricoles et les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
 
 #### Art. 7
 
@@ -168,7 +168,7 @@ En cas d’application de mesures de sauvegarde prévues au par. 1 ou dans les a
 
 **Modifications**[^11-1]
 
-Le Comité peut décider de modifier les annexes, ainsi que les appendices des annexes de l'accord.
+Le Comité peut décider de modifier les annexes, ainsi que les appendices des annexes de l’accord.
 
 [^11-1]: Nouvelle teneur selon l’art. 1 par. 1 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
@@ -236,20 +236,24 @@ Le présent Accord sera ratifié ou approuvé par les parties selon les procédu
 
 <sup>4.</sup> Les sept accords mentionnés dans le par. 1 cessent d’être applicables six mois après la réception de la notification relative à la non-reconduction visée au par. 2 ou à la dénonciation visée au par. 3.
 
-[^17-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^17-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^17-3]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
-[^17-4]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^17-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+Fait à Luxembourg, le vingt et un juin de l’an mil neuf cent quatre-vingt-dix-neuf, en double exemplaire, en langues allemande, anglaise, danoise, espagnole, finnoise, française, grecque, italienne, néerlandaise, portugaise et suédoise, chacun de ces textes faisant également foi.
+
+<table>
+<tr><td>Pour la Confédération suisse: Pascal Couchepin Joseph Deiss</td><td>Pour la Communauté européenne: Joschka Fischer Hans van den Brœk</td></tr>
+</table>
+
+[^17-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^17-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^17-3]: [RS 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)
+[^17-4]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^17-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
 [^17-6]: [[RO 2002 1998](https://fedlex.data.admin.ch/eli/oc/2002/297)]
 
-Fait à Luxembourg, le vingt et un juin de l’an mil neuf cent quatre-vingt-dix-neuf, en double exemplaire, en langues allemande, anglaise, danoise, espagnole, finnoise, française, grecque, italienne, néerlandaise, portugaise et suédoise, chacun de ces textes faisant également foi. Pour la Confédération suisse: Pascal Couchepin Joseph Deiss Pour la Communauté européenne: Joschka Fischer Hans van den Brœk
-
-\1. Table des matières
+## Table des matières
 
 *Annexe 1* Concessions de la Suisse
 
-*Annexe 2* Concessions de la Communauté
+*Annexe 2* Concessions de l’Union européenne
 
 *Annexe 3*
 
@@ -275,7 +279,7 @@ Appendice 2 Liste des dispositions législatives visées à l’article 9
 
 Appendice 1 Législations
 
-Appendice 2 Liste des autorités visées à l'art. 2, par. 3
+Appendice 2 Liste des autorités visées à l’art. 2, par. 3
 
 Appendice 3 Dérogations
 
@@ -355,273 +359,290 @@ Appendice C Organismes officiels chargés d’établir le passeport phytosanitai
 
 Appendice D Zones visées à l’art. 4 et exigences particuières y relatives
 
-Acte final de la modification du 23 décembre 2008 et déclaration commune
+*Acte final de la modification du 23 décembre 2008 et déclaration commune*
 
-Acte final de la modification du 14 mai 2009 et déclaration commune ainsi que déclaration de la Communauté
+*Acte final de la modification du 14 mai 2009 et déclaration commune ainsi que déclaration de la Communauté*
 
-Acte final de la modification du 17 mai 2011 et déclaration commune
+*Acte final de la modification du 17 mai 2011 et déclaration commune*
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 ## Concessions de la Suisse
 
-[^t-2]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2008 du Comité mixte de l’agriculture du 24 juin 2008, approuvée par l’Ass. féd. le 29 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 251](https://fedlex.data.admin.ch/eli/oc/2010/33)[249](https://fedlex.data.admin.ch/eli/oc/2010/32); [FF 2008 931](https://fedlex.data.admin.ch/eli/fga/2008/222)).
+[^t-2]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2022 du Comité mixte de l’agriculture du 17 nov. 2022, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 857](https://fedlex.data.admin.ch/eli/oc/2022/857)).
 
-La Suisse accorde pour les produits originaires de la Communauté et figurant ci‑après, les concessions tarifaires suivantes; le cas échéant dans les limites d’une quantité annuelle fixée:
+La Suisse accorde pour les produits originaires de l’Union européenne et figurant ci‑après, les concessions tarifaires suivantes; le cas échéant dans les limites d’une quantité annuelle fixée:
 
 <table>
-<tr><th>Position tarifaire de la Suisse</th><th>Désignation des marchandises</th><th>Droit de douane applicable (en francs suisses/ 100 kg brut)</th><th>Quantité annuelle en poids net (tonnes)</th></tr>
-<tr><td>0101 90 95</td><td>Chevaux vivants (à l’exclusion des animaux reproducteurs de race pure et de boucherie) (en nombre de têtes)</td><td>0.00</td><td colspan="2">100 têtes</td></tr>
-<tr><td>0204 50 10</td><td>Viande de chèvre, fraîche, réfrigérée ou congelée</td><td>40.—</td><td colspan="2">100</td></tr>
-<tr><td>0207 14 81</td><td>Poitrines de coq et de poules des espèces domestiques, congelées</td><td>15.—</td><td colspan="2">2 100</td></tr>
-<tr><td>0207 14 91</td><td>Morceaux et abats comestibles de coqs et de poules des espèces domestiques, y compris les foies (à l’exclusion des poitrines), congelés</td><td>15.—</td><td colspan="2">1 200</td></tr>
-<tr><td>0207 27 81</td><td>Poitrines de dindons et de dindes des espèces domestiques, congelées</td><td>15.—</td><td colspan="2">800</td></tr>
-<tr><td>0207 27 91</td><td>Morceaux et abats comestibles de dindons et de dindes des espèces domestiques, y compris les foies (à l’exclusion des poitrines), congelés</td><td>15.—</td><td colspan="2">600</td></tr>
-<tr><td>0207 33 11</td><td>Canards des espèces domestiques, non découpés en morceaux, congelés</td><td>15.—</td><td colspan="2">700</td></tr>
-<tr><td>0207 34 00</td><td>Foies gras de canards, oies ou pintades des espèces domestiques, frais ou réfrigérés</td><td>9.50</td><td colspan="2">20</td></tr>
-<tr><td>0207 36 91</td><td>Morceaux et abats comestibles de canards, oies ou pintades des espèces domestiques, congelés (à l’exclusion des foies gras)</td><td>15.—</td><td colspan="2">100</td></tr>
-<tr><td>0208 10 00</td><td>Viandes et abats comestibles de lapins ou de lièvres, frais, réfrigérés ou congelés</td><td>11.—</td><td colspan="2">1 700</td></tr>
-<tr><td>0208 90 10</td><td>Viandes et abats comestibles de gibier, frais, réfrigérés ou congelés (à l’exclusion de ceux de lièvres et de sangliers)</td><td>0.00</td><td colspan="2">100</td></tr>
-<tr><td>ex 0210 11 91</td><td>Jambons et leurs morceaux, non désossés, de l’espèce porcine (autres que de sangliers), salés ou en saumure, séchés ou fumés</td><td>droit nul</td><td colspan="2">1 000<sup>(1)</sup></td></tr>
-<tr><td>ex 0210 19 91</td><td>Morceau de côtelette sans os, saumuré et fumé</td><td>droit nul</td><td colspan="2"></td></tr>
-<tr><td>0210 20 10</td><td>Viandes séchées de l’espèce bovine</td><td>droit nul</td><td colspan="2">200<sup>(2)</sup></td></tr>
-<tr><td>ex 0407 00 10</td><td>Œufs d’oiseaux de consommation, en coquilles, frais, conservés ou cuits</td><td>47.—</td><td colspan="2">150</td></tr>
-<tr><td>ex 0409 00 00</td><td>Miel naturel d’acacia</td><td>8.—</td><td colspan="2">200</td></tr>
-<tr><td>ex 0409 00 00</td><td>Miel naturel, autre (sauf acacia)</td><td>26.—</td><td colspan="2">50</td></tr>
-<tr><td>0602 10 00</td><td>Boutures non racinées et greffons</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td></td><td>Plants sous forme de porte-greffe de fruit à pépins (issus de semis ou de multiplication végétative):</td><td>droit nul</td><td colspan="2"><sup>(3)</sup></td></tr>
-<tr><td>0602 20 11</td><td>– greffés, à racines nues</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 19</td><td>– greffés, avec motte</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 21</td><td>– non greffés, à racines nues</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 29</td><td>– non greffés, avec motte</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Plants sous forme de porte-greffe de fruit à noyaux (issus de semis ou de multiplication végétative):</td><td>droit nul</td><td colspan="2"><sup>(3)</sup></td></tr>
-<tr><td>0602 20 31</td><td>– greffés, à racines nues</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 39</td><td>– greffés, avec motte</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 41</td><td>– non greffés, à racines nues</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 49</td><td>– non greffés, avec motte</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Plants autres que sous forme de porte-greffe de fruits à pépins ou à noyaux (issus de semis ou de multiplication végétative), à fruits comestibles:</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0602 20 51</td><td>– à racines nues</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 59</td><td>– autres qu’à racines nues</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Arbres, arbustes, arbrisseaux et buissons, à fruits comestibles, à racines nues:</td><td>droit nul</td><td colspan="2"><sup>(3)</sup></td></tr>
-<tr><td>0602 20 71</td><td>– de fruits à pépins</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 72</td><td>– de fruits à noyaux</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 79</td><td>– autres que de fruits à pépins ou à noyaux</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td></td><td>Arbres, arbustes, arbrisseaux et buissons, à fruits comestibles, avec motte:</td><td>droit nul</td><td colspan="2"><sup>(3)</sup></td></tr>
-<tr><td>0602 20 81</td><td>– de fruits à pépins</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 82</td><td>– de fruits à noyaux</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 20 89</td><td>– autres que de fruits à pépins ou à noyaux</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0602 30 00</td><td>Rhododendrons et azalées, greffées ou non</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td></td><td>Rosiers, greffés ou non:</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0602 40 10</td><td>– rosiers-sauvageons et rosiers-tiges sauvages</td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab]</td><td>– autres que rosiers-sauvageons et rosiers-tiges sauvages:</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 40 91</td><td>– à racines nues</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 40 99</td><td>– autres qu’à racines nues, avec motte</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Plants (issus de semis ou de multiplication végétative) de végétaux d’utilité; blancs de champignons:</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0602 90 11</td><td>– plants de légumes et gazon en rouleau</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 90 12</td><td>– blancs de champignons</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 90 19</td><td>– autres que plants de légumes, gazon en rouleau et blanc de champignons</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Autres plantes vivantes (y compris leurs racines):</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0602 90 91</td><td>– à racines nues</td><td></td><td colspan="2"></td></tr>
-<tr><td>0602 90 99</td><td>– autres qu’à racines nues, avec motte</td><td></td><td colspan="2"></td></tr>
-<tr><td>0603 11 10</td><td>Roses, coupées, pour bouquets ou pour ornements, fraîches, du 1<sup>er</sup> mai au 25 octobre</td><td>droit nul</td><td colspan="2">1 000</td></tr>
-<tr><td>0603 12 10</td><td>Œillets, coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td colspan="2"></td></tr>
-<tr><td>0603 13 10</td><td>Orchidées, coupées, pour bouquets ou pour ornements, fraîches, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td colspan="2"></td></tr>
-<tr><td>0603 14 10</td><td>Chrysanthèmes, coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Fleurs et boutons de fleurs (autres que les œillets, les roses, les orchidées ou les chrysanthèmes), coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre:</td><td></td><td colspan="2"></td></tr>
-<tr><td>0603 19 11</td><td>– ligneux</td><td></td><td colspan="2"></td></tr>
-<tr><td>0603 19 19</td><td>– autres que ligneux</td><td></td><td colspan="2"></td></tr>
-<tr><td>0603 12 30</td><td>Œillets, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0603 13 30</td><td>Orchidées, coupées, pour bouquets ou pour ornements, fraîches, du 26 octobre au 30 avril</td><td></td><td colspan="2"></td></tr>
-<tr><td>0603 14 30</td><td>Chrysanthèmes, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril</td><td></td><td colspan="2"></td></tr>
-<tr><td>0603 19 30</td><td>Tulipes coupées, pour bouquets ou pour ornements, fraîches, du 26 octobre au 30 avril</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Autres fleurs et boutons de fleurs, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril:</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0603 19 31</td><td>– ligneux</td><td></td><td colspan="2"></td></tr>
-<tr><td>0603 19 39</td><td>– autres que ligneux</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Tomates, à l’état frais ou réfrigéré:</td><td>droit nul</td><td colspan="2">10 000</td></tr>
-<tr><td>0702 00 10</td><td>tomates cerises (cherry): – du 21 octobre au 30 avril</td><td></td><td colspan="2"></td></tr>
-<tr><td>0702 00 20</td><td>tomates Peretti (forme allongée): – du 21 octobre au 30 avril</td><td></td><td colspan="2"></td></tr>
-<tr><td>0702 00 30</td><td>– autres tomates d’un diamètre de 80 mm ou plus (tomates charnues): – du 21 octobre au 30 avril</td><td></td><td colspan="2"></td></tr>
-<tr><td>0702 00 90</td><td>– autre: – du 21 octobre au 30 avril</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Salade iceberg sans feuille externe:</td><td>droit nul</td><td colspan="2">2 000</td></tr>
-<tr><td>0705 11 11</td><td>– du 1<sup>er</sup> janvier à la fin février</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Chicorées witloofs à l’état frais ou réfrigéré:</td><td>droit nul</td><td colspan="2">2 000</td></tr>
-<tr><td>0705 21 10</td><td>– du 21 mai au 30 septembre</td><td></td><td colspan="2"></td></tr>
-<tr><td>0707 00 10</td><td>Concombres pour la salade, du 21 octobre au 14 avril</td><td>5.—</td><td colspan="2">200</td></tr>
-<tr><td>0707 00 30</td><td>Concombres pour la conserve, d’une longueur &gt; 6 cm mais ≤ 12 cm, frais ou réfrigérés, du 21 octobre au 14 avril</td><td>5.—</td><td colspan="2">100</td></tr>
-<tr><td>0707 00 31</td><td>Concombres pour la conserve, d’une longueur &gt; 6 cm mais ≤ 12 cm, frais ou réfrigérés, du 15 avril au 20 octobre</td><td>5.—</td><td colspan="2">2 100</td></tr>
-<tr><td>0707 00 50</td><td>Cornichons frais ou réfrigérés</td><td>3.50</td><td colspan="2">800</td></tr>
-<tr><td></td><td>Aubergines, à l’état frais ou réfrigéré:</td><td>droit nul</td><td colspan="2">1 000</td></tr>
-<tr><td>0709 30 10</td><td>– du 16 octobre au 31 mai</td><td></td><td colspan="2"></td></tr>
-<tr><td>0709 51 00 0709 59 00</td><td>Champignons, à l’état frais ou réfrigéré, du genre *Agaricus* ou autres, à l’exception des truffes</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td></td><td>Poivrons, à l’état frais ou réfrigéré:</td><td>2.50</td><td colspan="2">illimitée</td></tr>
-<tr><td>0709 60 11</td><td>– du 1<sup>er</sup> novembre au 31 mars</td><td></td><td colspan="2"></td></tr>
-<tr><td>0709 60 12</td><td>Poivrons à l’état frais ou réfrigérés du 1<sup>er</sup> avril au 31 octobre</td><td>5.—</td><td colspan="2">1 300</td></tr>
-<tr><td></td><td>Courgettes (y compris les fleurs de courgettes), à l’état frais ou réfrigéré:</td><td>droit nul</td><td colspan="2">2 000</td></tr>
-<tr><td>0709 90 50</td><td>– du 31 octobre au 19 avril</td><td></td><td colspan="2"></td></tr>
-<tr><td>ex 0710 80 90</td><td>Champignons, non cuits ou cuits à l’eau ou à la vapeur, congelés</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0711 90 90</td><td>Légumes et mélanges de légumes, conservés provisoirement (par ex. au moyen de gaz sulfureux ou dans de l’eau salée, soufrée ou additionnée d’autres substances servant à assurer provisoirement leur conservation), mais impropres à l’alimentation en l’état</td><td>0.00</td><td colspan="2">150</td></tr>
-<tr><td>0712 20 00</td><td>Oignons, séchés, même coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés</td><td>0.00</td><td colspan="2">100</td></tr>
-<tr><td>0713 10 11</td><td>Pois (*Pisum sativum*), secs, écossés, en grains entiers, non travaillés, pour l’alimentation des animaux</td><td>Rabais de 0.90 sur le droit appliqué</td><td colspan="2">1 000</td></tr>
-<tr><td>0713 10 19</td><td>Pois (*Pisum sativum*), secs, écossés, en grains entiers, non travaillés (à l’exclusion de ceux pour l’alimentation des animaux, pour usages techniques ou pour la fabrication de la bière)</td><td>0.00</td><td colspan="2">1 000</td></tr>
-<tr><td></td><td>Noisettes (*Corylus* spp.), fraîches ou sèches:</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0802 21 90</td><td>– en coques, autres que pour l’alimentation des animaux ou pour l’extraction de l’huile</td><td></td><td colspan="2"></td></tr>
-<tr><td>0802 22 90</td><td>– sans coques, autres que pour l’alimentation des animaux ou pour l’extraction de l’huile</td><td></td><td colspan="2"></td></tr>
-<tr><td>0802 32 90</td><td>Fruits à coque</td><td>droit nul</td><td colspan="2">100</td></tr>
-<tr><td>ex 0802 90 90</td><td>Graines de pignons, fraîches ou sèches</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0805 10 00</td><td>Oranges, fraîches ou sèches</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0805 20 00</td><td>Mandarines (y compris tangerines et satsumas), clémentines, wilkings et hybrides similaires d’agrumes, frais ou secs</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0807 11 00</td><td>Pastèques fraîches</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>0807 19 00</td><td>Melons, frais, autres que les pastèques</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td></td><td>Abricots, frais, à découvert:</td><td>droit nul</td><td colspan="2">2 100</td></tr>
-<tr><td>0809 10 11</td><td>– du 1<sup>er</sup> septembre au 30 juin</td><td></td><td colspan="2"></td></tr>
-<tr><td>0809 10 91</td><td>[tab] autrement emballés: – du 1<sup>er</sup> septembre au 30 juin</td><td></td><td colspan="2"></td></tr>
-<tr><td>0809 40 13</td><td>Prunes, fraîches, à découvert, du 1<sup>er</sup> juillet au 30 septembre</td><td>0.00</td><td colspan="2">600</td></tr>
-<tr><td>0810 10 10</td><td>Fraises, fraîches, du 1<sup>er</sup> septembre au 14 mai</td><td>droit nul</td><td colspan="2">10 000</td></tr>
-<tr><td>0810 10 11</td><td>Fraises, fraîches, du 15 mai au 31 août</td><td>0.00</td><td colspan="2">200</td></tr>
-<tr><td>0810 20 11</td><td>Framboises, fraîches, du 1<sup>er</sup> juin au 14 septembre</td><td>0.00</td><td colspan="2">250</td></tr>
-<tr><td>0810 50 00</td><td>Kiwis, frais</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>ex 0811 10 00</td><td>Fraises, non cuites ou cuites à l’eau ou à la vapeur, congelées, sans addition de sucre ou d’autres édulcorants, non présentées en emballages pour la vente au détail, destinées à la mise en œuvre industrielle</td><td>10.—</td><td colspan="2">1 000</td></tr>
-<tr><td>ex 0811 20 90</td><td>Framboises, mûres de ronce ou de mûrier, mûres-framboises et groseilles à grappes ou à maquereaux, non cuites ou cuites à l’eau ou à la vapeur, congelées, sans addition de sucre ou d’autres édulcorants, non présentées en emballages pour la vente au détail, destinées à la mise en œuvre industrielle</td><td>10.—</td><td colspan="2">1 200</td></tr>
-<tr><td>0811 90 10</td><td>Myrtilles, non cuites ou cuites à l’eau ou à la vapeur, congelées, même additionnées de sucre ou d’autres édulcorants</td><td>0.00</td><td colspan="2">200</td></tr>
-<tr><td>0811 90 90</td><td>Fruits comestibles, non cuits ou cuits à l’eau ou à la vapeur, congelés, même additionnés de sucre ou d’autres édulcorants (à l’exclusion des fraises, des framboises, des mûres de ronce ou de mûrier, des mûres-framboises, des groseilles à grappe ou à maquereaux, des myrtilles et des fruits tropicaux)</td><td>0.00</td><td colspan="2">1 000</td></tr>
-<tr><td>0904 20 90</td><td>Piments du genre *Capsicum* ou du genre *Pimenta*, séchés ou broyés ou pulvérisés, travaillés</td><td>0.00</td><td colspan="2">150</td></tr>
-<tr><td>0910 20 00</td><td>Safran</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>1001 90 60</td><td>Froment (blé) et méteil [à l’exclusion du froment (blé) dur], dénaturés, pour l’alimentation des animaux</td><td>Rabais de 0.60 sur le droit appliqué</td><td>50 000</td></tr>
-<tr><td>1005 90 30</td><td>Maïs pour l’alimentation des animaux</td><td>Rabais de 0.50 sur le droit appliqué</td><td>13 000</td></tr>
+<tr><th>Position tarifaire de la Suisse</th><th>Désignation des marchandises</th><th>Droit de douane applicable (en francs suisses / 100 kg brut)</th><th>Quantité annuelle en poids net (tonnes)</th></tr>
+<tr><td>0101 29 91</td><td>Chevaux vivants (à l’exclusion des animaux reproducteurs de race pure et de boucherie) (en nombre de têtes)</td><td>0.00</td><td>100 têtes</td></tr>
+<tr><td>0204 50 10</td><td>Viande de chèvre, fraîche, réfrigérée ou congelée</td><td>40.00</td><td>100</td></tr>
+<tr><td>0207 14 81</td><td>Poitrines de coq et de poules des espèces domestiques, congelées</td><td>15.00</td><td>2 100</td></tr>
+<tr><td>0207 14 91</td><td>Morceaux et abats comestibles de coqs et de poules des espèces domestiques, y compris les foies (à l’exclusion des poitrines), congelés</td><td>15.00</td><td>1 200</td></tr>
+<tr><td>0207 27 81</td><td>Poitrines de dindons et de dindes des espèces domestiques, congelées</td><td>15.00</td><td>800</td></tr>
+<tr><td>0207 27 91</td><td>Morceaux et abats comestibles de dindons et de dindes des espèces domestiques, y compris les foies (à l’exclusion des poitrines), congelés</td><td>15.00</td><td>600</td></tr>
+<tr><td>0207 42 10</td><td>Canards des espèces domestiques, non découpés en morceaux, congelés</td><td>15.00</td><td>700</td></tr>
+<tr><td></td><td>Foies gras de canards ou d’oies des espèces domestiques, frais ou réfrigérés</td><td></td><td></td></tr>
+<tr><td>0207 43 00</td><td>– de canards</td><td></td><td></td></tr>
+<tr><td>0207 53 00</td><td>– d’oies</td><td>9.50</td><td>20</td></tr>
+<tr><td></td><td>Morceaux et abats comestibles de canards, d’oies ou de pintades des espèces domestiques, congelés (à l’exclusion des foies gras)</td><td></td><td></td></tr>
+<tr><td>0207 45 91</td><td>– de canards</td><td></td><td></td></tr>
+<tr><td>0207 55 91</td><td>– d’oies</td><td></td><td></td></tr>
+<tr><td>0207 60 91</td><td>– de pintades</td><td>15.00</td><td>100</td></tr>
+<tr><td>0208 10 00</td><td>Viandes et abats comestibles de lapins ou de lièvres, frais, réfrigérés ou congelés</td><td>11.00</td><td>1 700</td></tr>
+<tr><td>0208 90 10</td><td>Viandes et abats comestibles de gibier, frais, réfrigérés ou congelés (à l’exclusion de ceux de lièvres et de sangliers)</td><td>0.00</td><td>100</td></tr>
+<tr><td>ex 0210 11 91</td><td>Jambons et leurs morceaux, non désossés, de l’espèce porcine (autres que de sangliers), salés ou en saumure, séchés ou fumés</td><td></td><td></td></tr>
+<tr><td>ex 0210 19 91</td><td>Jambons et leurs morceaux, désossés, de l’espèce porcine (autres que de sangliers), salés ou en saumure, séchés ou fumés</td><td>0.00</td><td>1000<sup>(1)</sup></td></tr>
+<tr><td>0210 20 10</td><td>Viandes séchées de l’espèce bovine</td><td>0.00</td><td>200 <sup>(2)</sup></td></tr>
+<tr><td></td><td>Œufs d’oiseaux, de consommation, en coquilles</td><td></td><td></td></tr>
+<tr><td>ex 0407 21 10</td><td>– de volailles l’espèce Gallus domesticus, frais</td><td></td><td></td></tr>
+<tr><td>ex 0407 29 10</td><td>– autres, frais</td><td></td><td></td></tr>
+<tr><td>ex 0407 90 10</td><td>– autres, conservés ou cuits</td><td>47.00</td><td>150</td></tr>
+<tr><td>ex 0409 00 00</td><td>Miel naturel d’acacia</td><td>8.00</td><td>200</td></tr>
+<tr><td>ex 0409 00 00</td><td>Miel naturel, autre (sauf acacia)</td><td>26.00</td><td>50</td></tr>
+<tr><td>0602 10 00</td><td>Boutures non racinées et greffons</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Plants sous forme de porte-greffe de fruit à pépins (issus de semis ou de multiplication végétative):</td><td></td><td></td></tr>
+<tr><td>0602 20 11</td><td>– greffés, à racines nues</td><td></td><td></td></tr>
+<tr><td>0602 20 19</td><td>– greffés, avec motte</td><td></td><td></td></tr>
+<tr><td>0602 20 21</td><td>– non greffés, à racines nues</td><td></td><td></td></tr>
+<tr><td>0602 20 29</td><td>– non greffés, avec motte</td><td>0.00</td><td>(3)</td></tr>
+<tr><td></td><td>Plants sous forme de porte-greffe de fruit à noyaux (issus de semis ou de multiplication végétative):</td><td></td><td></td></tr>
+<tr><td>0602 20 31</td><td>– greffés, à racines nues</td><td></td><td></td></tr>
+<tr><td>0602 20 39</td><td>– greffés, avec motte</td><td></td><td></td></tr>
+<tr><td>0602 20 41</td><td>– non greffés, à racines nues</td><td></td><td></td></tr>
+<tr><td>0602 20 49</td><td>– non greffés, avec motte</td><td>0.00</td><td>(3)</td></tr>
+<tr><td></td><td>Plants autres que sous forme de porte-greffe de fruits à pépins ou à noyaux (issus de semis ou de multiplication végétative), à fruits comestibles:</td><td></td><td></td></tr>
+<tr><td>0602 20 51</td><td>– à racines nues</td><td></td><td></td></tr>
+<tr><td>0602 20 59</td><td>– autres qu’à racines nues</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Arbres, arbustes, arbrisseaux et buissons, à fruits comestibles, à racines nues:</td><td></td><td></td></tr>
+<tr><td>0602 20 71</td><td>– de fruits à pépins</td><td></td><td></td></tr>
+<tr><td>0602 20 72</td><td>– de fruits à noyaux</td><td>0.00</td><td>(3)</td></tr>
+<tr><td>0602 20 79</td><td>– autres que de fruits à pépins ou à noyaux</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Arbres, arbustes, arbrisseaux et buissons, à fruits comestibles, avec motte:</td><td></td><td></td></tr>
+<tr><td>0602 20 81</td><td>– de fruits à pépins</td><td></td><td></td></tr>
+<tr><td>0602 20 82</td><td>– de fruits à noyaux</td><td>0.00</td><td>(3)</td></tr>
+<tr><td>0602 20 89</td><td>– autres que de fruits à pépins ou à noyaux</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>0602 30 00</td><td>Rhododendrons et azalées, greffées ou non</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Rosiers, greffés ou non:</td><td></td><td></td></tr>
+<tr><td>0602 40 10</td><td>– rosiers-sauvageons et rosiers-tiges sauvages</td><td></td><td></td></tr>
+<tr><td></td><td>– autres que rosiers-sauvageons et rosiers-tiges sauvages:</td><td></td><td></td></tr>
+<tr><td>0602 40 91</td><td>– à racines nues</td><td></td><td></td></tr>
+<tr><td>0602 40 99</td><td>– autres qu’à racines nues, avec motte</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Plants (issus de semis ou de multiplication végétative) de végétaux d’utilité; blancs de champignons:</td><td></td><td></td></tr>
+<tr><td>0602 90 11</td><td>– plants de légumes et gazon en rouleau</td><td></td><td></td></tr>
+<tr><td>0602 90 12</td><td>– blancs de champignons</td><td></td><td></td></tr>
+<tr><td>0602 90 19</td><td>– autres que plants de légumes, gazon en rouleau et blanc de champignons</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Autres plantes vivantes (y compris leurs racines):</td><td></td><td></td></tr>
+<tr><td>0602 90 91</td><td>– à racines nues</td><td></td><td></td></tr>
+<tr><td>0602 90 99</td><td>– autres qu’à racines nues, avec motte</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>0603 11 10</td><td>Roses, coupées, pour bouquets ou pour ornements, fraîches, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td></td></tr>
+<tr><td>0603 12 10</td><td>Œillets, coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td></td></tr>
+<tr><td>0603 13 10</td><td>Orchidées, coupées, pour bouquets ou pour ornements, fraîches, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td></td></tr>
+<tr><td>0603 14 10</td><td>Chrysanthèmes, coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td></td></tr>
+<tr><td>0603 15 10</td><td>Lis (Lilium spp.), coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td></td></tr>
+<tr><td></td><td>Autres fleurs et boutons de fleurs, coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre:</td><td></td><td></td></tr>
+<tr><td>0603 19 11</td><td>– ligneux</td><td></td><td></td></tr>
+<tr><td>0603 19 18</td><td>– – autres que ligneux</td><td>0.00</td><td>1000</td></tr>
+<tr><td>0603 12 30</td><td>Œillets, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>0603 13 30</td><td>Orchidées, coupées, pour bouquets ou pour ornements, fraîches, du 26 octobre au 30 avril</td><td></td><td></td></tr>
+<tr><td>0603 14 30</td><td>Chrysanthèmes, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril</td><td></td><td></td></tr>
+<tr><td>0603 15 30</td><td>Lis (Lilium spp.), coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril</td><td></td><td></td></tr>
+<tr><td>0603 19 30</td><td>Tulipes coupées, pour bouquets ou pour ornements, fraîches, du 26 octobre au 30 avril</td><td></td><td></td></tr>
+<tr><td></td><td>Autres fleurs et boutons de fleurs, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril:</td><td></td><td></td></tr>
+<tr><td>0603 19 31</td><td>– ligneux</td><td></td><td></td></tr>
+<tr><td>0603 19 38</td><td>– autres que ligneux</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Tomates, à l’état frais ou réfrigéré:</td><td></td><td></td></tr>
+<tr><td>0702 00 10</td><td>tomates cerises (cherry): – du 21 octobre au 30 avril</td><td></td><td></td></tr>
+<tr><td>0702 00 20</td><td>tomates Peretti (forme allongée): – du 21 octobre au 30 avril</td><td></td><td></td></tr>
+<tr><td>0702 00 30</td><td>– autres tomates d’un diamètre de 80 mm ou plus (tomates charnues): – du 21 octobre au 30 avril</td><td></td><td></td></tr>
+<tr><td>0702 00 90</td><td>– autre: – du 21 octobre au 30 avril</td><td>0.00</td><td>10 000</td></tr>
+<tr><td></td><td>Salade iceberg sans feuille externe:</td><td></td><td></td></tr>
+<tr><td>0705 11 11</td><td>– du 1<sup>er</sup> janvier à la fin février</td><td>0.00</td><td>2 000</td></tr>
+<tr><td></td><td>Chicorées witloofs à l’état frais ou réfrigéré:</td><td></td><td></td></tr>
+<tr><td>0705 21 10</td><td>– du 21 mai au 30 septembre</td><td>0.00</td><td>2 000</td></tr>
+<tr><td>0707 00 10</td><td>Concombres pour la salade, du 21 octobre au 14 avril</td><td>5.00</td><td>200</td></tr>
+<tr><td>0707 00 30</td><td>Concombres pour la conserve, d’une longueur &gt; 6 cm mais ≤ 12 cm, frais ou réfrigérés, du 21 octobre au 14 avril</td><td>5.00</td><td>100</td></tr>
+<tr><td>0707 00 31</td><td>Concombres pour la conserve, d’une longueur &gt; 6 cm mais ≤ 12 cm, frais ou réfrigérés, du 15 avril au 20 octobre</td><td>5.00</td><td>2 100</td></tr>
+<tr><td>0707 00 50</td><td>Cornichons frais ou réfrigérés</td><td>3.50</td><td>800</td></tr>
+<tr><td></td><td>Aubergines, à l’état frais ou réfrigéré:</td><td></td><td></td></tr>
+<tr><td>0709 30 10</td><td>– du 16 octobre au 31 mai</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0709 51 00 0709 59 00</td><td>Champignons, à l’état frais ou réfrigéré, du genre Agaricus ou autres, à l’exception des truffes</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Poivrons, à l’état frais ou réfrigéré:</td><td></td><td></td></tr>
+<tr><td>0709 60 11</td><td>– du 1<sup>er</sup> novembre au 31 mars</td><td>2.50</td><td>illimitée</td></tr>
+<tr><td>0709 60 12</td><td>Poivrons à l’état frais ou réfrigérés du 1<sup>er</sup> avril au 31 octobre</td><td>5.00</td><td>1 300</td></tr>
+<tr><td></td><td>Courgettes (y compris les fleurs de courgettes), à l’état frais ou réfrigéré:</td><td></td><td></td></tr>
+<tr><td>0709 99 50</td><td>– du 31 octobre au 19 avril</td><td>0.00</td><td>2 000</td></tr>
+<tr><td>ex 0710 80 90</td><td>Champignons, non cuits ou cuits à l’eau ou à la vapeur, congelés</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>0711 90 90</td><td>Légumes et mélanges de légumes, conservés provisoirement (par ex. au moyen de gaz sulfureux ou dans de l’eau salée, soufrée ou additionnée d’autres substances servant à assurer provisoirement leur conservation), mais impropres à l’alimentation en l’état</td><td>0.00</td><td>150</td></tr>
+<tr><td>0712 20 00</td><td>Oignons, séchés, même coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés</td><td>0.00</td><td>100</td></tr>
+<tr><td>0713 10 11</td><td>Pois (Pisum sativum), secs, écossés, en grains entiers, non travaillés, pour l’alimentation des animaux</td><td>Rabais de 0.90 CHF sur le droit appliqué</td><td>1 000</td></tr>
+<tr><td>0713 10 19</td><td>Pois (Pisum sativum), secs, écossés, en grains entiers, non travaillés (à l’exclusion de ceux pour l’alimentation des animaux, pour usages techniques ou pour la fabrication de la bière)</td><td>0.00</td><td>1 000</td></tr>
+<tr><td></td><td>Noisettes (Corylus spp.), fraîches ou sèches:</td><td></td><td></td></tr>
+<tr><td>0802 21 90</td><td>– en coques, autres que pour l’alimentation des animaux ou pour l’extraction de l’huile</td><td></td><td></td></tr>
+<tr><td>0802 22 90</td><td>– sans coques, autres que pour l’alimentation des animaux ou pour l’extraction de l’huile</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>0802 32 90</td><td>Fruits à coque</td><td>0.00</td><td>100</td></tr>
+<tr><td>ex 0802 90 90</td><td>Graines de pignons, fraîches ou sèches</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>0805 10 00</td><td>Oranges, fraîches ou sèches</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Mandarines (y compris tangerines et satsumas), clémentines, wilkings et hybrides similaires d’agrumes, frais ou secs</td><td></td><td></td></tr>
+<tr><td>0805 21 00</td><td>mandarines (y compris tangerines et satsumas)</td><td></td><td></td></tr>
+<tr><td>0805 22 00</td><td>clémentines</td><td></td><td></td></tr>
+<tr><td>0805 29 00</td><td>autres</td><td></td><td></td></tr>
+<tr><td>0807 11 00</td><td>Pastèques fraîches</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>0807 19 00</td><td>Melons, frais, autres que les pastèques</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Abricots, frais, à découvert:</td><td></td><td></td></tr>
+<tr><td>0809 10 11</td><td>– du 1<sup>er</sup> septembre au 30 juin</td><td></td><td></td></tr>
+<tr><td>0809 10 91</td><td>[tab] autrement emballés: – du 1<sup>er</sup> septembre au 30 juin</td><td>0.00</td><td>2 100</td></tr>
+<tr><td>0809 40 13</td><td>Prunes, fraîches, à découvert, du 1<sup>er</sup> juillet au 30 septembre</td><td>0.00</td><td>600</td></tr>
+<tr><td>0810 10 10</td><td>Fraises, fraîches, du 1<sup>er</sup> septembre au 14 mai</td><td>0.00</td><td>10 000</td></tr>
+<tr><td>0810 10 11</td><td>Fraises, fraîches, du 15 mai au 31 août</td><td>0.00</td><td>200</td></tr>
+<tr><td>0810 20 11</td><td>Framboises, fraîches, du 1<sup>er</sup> juin au 14 septembre</td><td>0.00</td><td>250</td></tr>
+<tr><td>0810 50 00</td><td>Kiwis, frais</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>ex 0811 10 00</td><td>Fraises, non cuites ou cuites à l’eau ou à la vapeur, congelées, sans addition de sucre ou d’autres édulcorants, non présentées en emballages pour la vente au détail, destinées à la mise en œuvre industrielle</td><td>10.00</td><td>1 000</td></tr>
+<tr><td>ex 0811 20 90</td><td>Framboises, mûres de ronce ou de mûrier, mûres-framboises et groseilles à grappes ou à maquereaux, non cuites ou cuites à l’eau ou à la vapeur, congelées, sans addition de sucre ou d’autres édulcorants, non présentées en emballages pour la vente au détail, destinées à la mise en œuvre industrielle</td><td>10.00</td><td>1 200</td></tr>
+<tr><td>0811 90 10</td><td>Myrtilles, non cuites ou cuites à l’eau ou à la vapeur, congelées, même additionnées de sucre ou d’autres édulcorants</td><td>0.00</td><td>200</td></tr>
+<tr><td>0811 90 90</td><td>Fruits comestibles, non cuits ou cuits à l’eau ou à la vapeur, congelés, même additionnés de sucre ou d’autres édulcorants (à l’exclusion des fraises, des framboises, des mûres de ronce ou de mûrier, des mûres-framboises, des groseilles à grappe ou à maquereaux, des myrtilles et des fruits tropicaux)</td><td>0.00</td><td>1 000</td></tr>
+<tr><td>0904 22 00</td><td>Piments du genre *Capsicum* ou du genre *Pimenta*, séchés ou broyés ou pulvérisés</td><td>0.00</td><td>150</td></tr>
+<tr><td>0910 20 00</td><td>Safran</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Froment (blé) et méteil [à l’exclusion du froment (blé) dur], pour l’alimentation des animaux</td><td></td><td></td></tr>
+<tr><td>1001 99 31</td><td>– contenant d’autres céréales du chapitre 10</td><td></td><td></td></tr>
+<tr><td>1001 99 39</td><td>– autres</td><td>Rabais de CHF 0.60 sur le droit appliqué</td><td>50 000</td></tr>
+<tr><td></td><td>Maïs pour l’alimentation des animaux</td><td></td><td></td></tr>
+<tr><td>1005 90 31</td><td>– contenant d’autres céréales du chapitre 10</td><td></td><td></td></tr>
+<tr><td>1005 90 39</td><td>– autres</td><td>Rabais de CHF 0.50 sur le droit appliqué</td><td>13 000</td></tr>
 <tr><td></td><td>Huile d’olive, vierge, autre que pour l’alimentation des animaux:</td><td></td><td></td></tr>
-<tr><td>1509 10 91</td><td>– en récipients de verre d’une contenance n’excédant pas 2 l</td><td>60.60<sup>(4)</sup></td><td>illimitée</td></tr>
-<tr><td>1509 10 99</td><td>– en récipients de verre d’une contenance excédant 2 l, ou en autres récipients</td><td>86.70<sup>(4)</sup></td><td>illimitée</td></tr>
+<tr><td>1509 10 91</td><td>– en récipients de verre d’une contenance n’excédant pas 2 l</td><td>60.60 (4)</td><td>illimitée</td></tr>
+<tr><td>1509 10 99</td><td>– en récipients de verre d’une contenance excédant 2 l, ou en autres récipients</td><td>86.70 (4)</td><td>illimitée</td></tr>
 <tr><td></td><td>Huile d’olive et ses fractions, même raffinées, mais non chimiquement modifiées, autres que pour l’alimentation des animaux:</td><td></td><td></td></tr>
-<tr><td>1509 90 91</td><td>– en récipients de verre d’une contenance n’excédant pas 2 l</td><td>60.60<sup>(4)</sup></td><td>illimitée</td></tr>
-<tr><td>1509 90 99</td><td>– en récipients de verre d’une contenance excédant 2 l, ou en autres récipients</td><td>86.70<sup>(4)</sup></td><td>illimitée</td></tr>
-<tr><td>ex 0210 19 91</td><td>Jambon saumuré sans os, introduit dans une vessie ou dans un boyau artificiel</td><td>droit nul</td><td>3 715</td></tr>
-<tr><td>ex 0210 19 91</td><td>Morceau de côtelette sans os, fumé</td><td></td><td></td></tr>
-<tr><td>1601 00 11 1601 00 21</td><td>Saucisses, saucissons et produits similaires, de viande, d’abats ou de sang; préparations alimentaires à base de ces produits des animaux relevant des positions 0101 à 0104, à l’exclusion des sangliers</td><td></td><td></td></tr>
-<tr><td>ex 0210 19 91 ex 1602 49 10</td><td>Cou de porc saumuré et séché à l’air, en pièce entière, en morceaux ou en fines tranches</td><td></td><td></td></tr>
+<tr><td>1509 90 91</td><td>– en récipients de verre d’une contenance n’excédant pas 2 l</td><td>60.60 (4)</td><td>illimitée</td></tr>
+<tr><td>1509 90 99</td><td>– en récipients de verre d’une contenance excédant 2 l, ou en autres récipients</td><td>86.70 (4)</td><td>illimitée</td></tr>
+<tr><td>ex 0210 19 91</td><td>Jambon saumuré sans os, introduit dans une vessie ou dans un boyau artificiel («jambon en vessie»)</td><td></td><td></td></tr>
+<tr><td>ex 0210 19 91</td><td>Morceau de côtelette sans os, fumé («jambon saumoné»)</td><td></td><td></td></tr>
+<tr><td>ex 0210 19 91 ex 1602 49 10</td><td>Cou de porc saumuré et séché à l’air, en pièce entière, en morceaux ou en fines tranches («Coppa»)</td><td></td><td></td></tr>
+<tr><td>1601 00 11 1601 00 21</td><td>Saucisses, saucissons et produits similaires, de viande, d’abats ou de sang; préparations alimentaires à base de ces produits des animaux relevant des positions 0101 à 0104, à l’exclusion des sangliers</td><td>0.00</td><td>3715</td></tr>
 <tr><td></td><td>Tomates, entières ou en morceaux, préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique:</td><td></td><td></td></tr>
-<tr><td>2002 10 10 2002 10 20</td><td>– en récipients excédant 5 kg – en récipients n’excédant pas 5 kg</td><td>2.50 4.50</td><td>illimitée illimitée</td></tr>
-<tr><td></td><td>Tomates préparées ou conservées autrement qu’au vinaigre ou à ou à l’acide acétique, autres qu’entières ou en morceaux:</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>2002 90 10</td><td>– en récipients excédant 5 kg</td><td></td><td></td></tr>
-<tr><td>2002 90 21</td><td>Pulpes, purées et concentrés de tomates, en récipients hermétiquement fermés, dont la teneur en extrait sec est de 25 % en poids ou plus, composés de tomates et d’eau, même additionnés de sel ou d’assaisonnement, en récipients n’excédant pas 5 kg</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>2002 90 29</td><td>Tomates préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, autres qu’entières ou en morceaux, et autres que pulpes, purées et concentrés de tomates:</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td></td><td>– en récipients n’excédant pas 5 kg</td><td></td><td></td></tr>
-<tr><td>2003 10 00</td><td>Champignons du genre *Agaricus*, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique</td><td>0.00</td><td>1 700</td></tr>
+<tr><td>2002 10 10</td><td>– en récipients excédant 5 kg</td><td>2.50</td><td>illimitée</td></tr>
+<tr><td>2002 10 20</td><td>– en récipients n’excédant pas 5 kg</td><td>4.50</td><td>illimitée</td></tr>
+<tr><td></td><td>Tomates préparées ou conservées autrement qu’au vinaigre ou à ou à l’acide acétique, autres qu’entières ou en morceaux:</td><td></td><td></td></tr>
+<tr><td>2002 90 10</td><td>– en récipients excédant 5 kg</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>2002 90 21</td><td>Pulpes, purées et concentrés de tomates, en récipients hermétiquement fermés, dont la teneur en extrait sec est de 25 % en poids ou plus, composés de tomates et d’eau, même additionnés de sel ou d’assaisonnement, en récipients n’excédant pas 5 kg</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>2002 90 29</td><td>Tomates préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, autres qu’entières ou en morceaux, et autres que pulpes, purées et concentrés de tomates:</td><td></td><td></td></tr>
+<tr><td></td><td>– en récipients n’excédant pas 5 kg</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>2003 10 00</td><td>Champignons du genre Agaricus, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique</td><td>0.00</td><td>1 700</td></tr>
 <tr><td></td><td>Artichauts préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique, congelés, autres que les produits du n<sup>o</sup> 2006:</td><td></td><td></td></tr>
 <tr><td>ex 2004 90 18</td><td>– en récipients excédant 5 kg</td><td>17.50</td><td>illimitée</td></tr>
 <tr><td>ex 2004 90 49</td><td>– en récipients n’excédant pas 5 kg</td><td>24.50</td><td>illimitée</td></tr>
-<tr><td></td><td>Asperges préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que les produits du n<sup>o</sup> 2006:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Asperges préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que les produits du n<sup>o</sup> 2006:</td><td></td><td></td></tr>
 <tr><td>2005 60 10</td><td>– en récipients excédant 5 kg</td><td></td><td></td></tr>
-<tr><td>2005 60 90</td><td>– en récipients n’excédant pas 5 kg</td><td></td><td></td></tr>
-<tr><td></td><td>Olives préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que les produits du n<sup>o</sup> 2006:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td>2005 60 90</td><td>– en récipients n’excédant pas 5 kg</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Olives préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que les produits du n<sup>o</sup> 2006:</td><td></td><td></td></tr>
 <tr><td>2005 70 10</td><td>– en récipients excédant 5 kg</td><td></td><td></td></tr>
-<tr><td>2005 70 90</td><td>– en récipients n’excédant pas 5 kg</td><td></td><td></td></tr>
+<tr><td>2005 70 90</td><td>– en récipients n’excédant pas 5 kg</td><td>0.00</td><td>illimitée</td></tr>
 <tr><td></td><td>Câpres et artichauts, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique, non congelés, autres que les produits du n<sup>o</sup> 2006:</td><td></td><td></td></tr>
 <tr><td>ex 2005 99 11</td><td>– en récipients excédant 5 kg</td><td>17.50</td><td>illimitée</td></tr>
 <tr><td>ex 2005 99 41</td><td>– en récipients n’excédant pas 5 kg</td><td>24.50</td><td>illimitée</td></tr>
-<tr><td>2008 30 90</td><td>Agrumes, autrement préparés ou conservés, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommés ni compris ailleurs</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>2008 50 10</td><td>Pulpes d’abricots, autrement préparées ou conservées non additionnées de sucre ou d’autres édulcorants, non dénommées ni comprises ailleurs</td><td>10.—</td><td colspan="2">illimitée</td></tr>
-<tr><td>2008 50 90</td><td>Abricots, autrement préparés ou conservés, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommés ni compris ailleurs</td><td>15.—</td><td colspan="2">illimitée</td></tr>
-<tr><td>2008 70 10</td><td>Pulpes de pêches, autrement préparées ou conservées non additionnées de sucre ou d’autres édulcorants, non dénommées ni comprises ailleurs</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td>2008 70 90</td><td>Pêches, autrement préparées ou conservées, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommées ni comprises ailleurs</td><td>droit nul</td><td colspan="2">illimitée</td></tr>
-<tr><td></td><td>Jus de tout autre agrume que d’orange ou de pamplemousse ou de pomelo, non fermentés, sans addition d’alcool:</td><td></td><td colspan="2"></td></tr>
-<tr><td>ex 2009 39 19</td><td>– non additionnés de sucre ou d’autres édulcorants, concentrés</td><td>6.—</td><td colspan="2">illimitée</td></tr>
-<tr><td>ex 2009 39 20</td><td>– additionnés de sucre ou d’autres édulcorants, concentrés</td><td>14.—</td><td colspan="2">illimitée</td></tr>
-<tr><td></td><td>Vins doux, spécialités et mistelles en récipients d’une contenance:</td><td></td><td colspan="2"></td></tr>
-<tr><td>2204 21 50</td><td>– n’excédant pas 2 l<sup>(5)</sup></td><td>8.50</td><td colspan="2">illimitée</td></tr>
-<tr><td>2204 29 50</td><td>– excédant 2 l<sup>(5)</sup></td><td>8.50</td><td colspan="2">illimitée</td></tr>
-<tr><td>ex 2204 21 50</td><td>Porto, en récipients d’une contenance n’excédant pas 2 l, selon description<sup>(6)</sup></td><td>droit nul</td><td colspan="2">1 000 hl</td></tr>
-<tr><td>ex 2204 21 21</td><td>Retsina (vin blanc grec) en récipients d’une contenance n’excédant pas 2 l, selon description<sup>(7)</sup></td><td>droit nul</td><td colspan="2">500 hl</td></tr>
-<tr><td></td><td>Retsina (vin blanc grec) en récipients d’une contenance excédant 2 l, selon description<sup>(7)</sup>, d’un titre alcoométrique volumique:</td><td></td><td colspan="2"></td></tr>
-<tr><td>ex 2204 29 21</td><td>– excédant 13 % vol.</td><td></td><td colspan="2"></td></tr>
-<tr><td>ex 2204 29 22</td><td>– n’excédant pas 13 % vol.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="4"><sup>(1)</sup> Y compris 480 t pour les jambons de Parme et San Daniele, selon l’échange de lettres entre la Suisse et la CE du 25 janvier 1972.</td></tr>
-<tr><td colspan="4"><sup>(2)</sup> Y compris 170 t de Bresaola, selon l’échange de lettres entre la Suisse et la CE du 25 janvier 1972.</td></tr>
-<tr><td colspan="4"><sup>(3)</sup> Dans les limites d’un contingent annuel global de 60 000 plants.</td></tr>
-<tr><td colspan="4"><sup>(4)</sup> Y inclus la contribution au fonds de garantie pour le stockage obligatoire.</td></tr>
-<tr><td colspan="4"><sup>(5)</sup> Ne sont couverts que les produits au sens de l’annexe 7 de l’accord.</td></tr>
-<tr><td colspan="4"><sup>(6)</sup> Description: par vin de «Porto», on entend un vin de qualité produit dans la région déterminée portugaise portant ce nom au sens du règlement (CE) n<sup>o</sup> 1493/1999.</td></tr>
-<tr><td colspan="4"><sup>(7)</sup> Description: par vin de «Retsina», on entend un vin de table au sens des dispositions communautaires vises à l’annexe VII, point A.2 du règlement (CE) n<sup>o</sup> 1493/1999.</td></tr>
+<tr><td>2008 30 90</td><td>Agrumes, autrement préparés ou conservés, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommés ni compris ailleurs</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>2008 50 10</td><td>Pulpes d’abricots, autrement préparées ou conservées non additionnées de sucre ou d’autres édulcorants, non dénommées ni comprises ailleurs</td><td>10.00</td><td>illimitée</td></tr>
+<tr><td>2008 50 90</td><td>Abricots, autrement préparés ou conservés, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommés ni compris ailleurs</td><td>15.00</td><td>illimitée</td></tr>
+<tr><td>2008 70 10</td><td>Pulpes de pêches, autrement préparées ou conservées non additionnées de sucre ou d’autres édulcorants, non dénommées ni comprises ailleurs</td><td>0.00</td><td>illimitée</td></tr>
+<tr><td>2008 70 90</td><td>Pêches, autrement préparées ou conservées, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommées ni comprises ailleurs</td><td>00</td><td>illimitée</td></tr>
+<tr><td></td><td>Jus de tout autre agrume que d’orange ou de pamplemousse ou de pomelo, non fermentés, sans addition d’alcool:</td><td></td><td></td></tr>
+<tr><td>ex 2009 39 19</td><td>– non additionnés de sucre ou d’autres édulcorants, concentrés</td><td>6.00</td><td>illimitée</td></tr>
+<tr><td>ex 2009 39 20</td><td>– additionnés de sucre ou d’autres édulcorants, concentrés</td><td>14.00</td><td>illimitée</td></tr>
+<tr><td></td><td>Vins doux, spécialités et mistelles en récipients d’une contenance:</td><td></td><td></td></tr>
+<tr><td>2204 21 50</td><td>– n’excédant pas 2 l(5)</td><td></td><td></td></tr>
+<tr><td>2204 22 50</td><td>– excédant 2 l, mais n’excédant pas 10 l (5)</td><td></td><td></td></tr>
+<tr><td>2204 29 60</td><td>– excédant 10 l(5)</td><td>8.50</td><td>illimitée</td></tr>
+<tr><td>ex 2204 21 50</td><td>Porto, en récipients d’une contenance n’excédant pas 2 l, selon description (6)</td><td>0.00</td><td>1 000 hl</td></tr>
+<tr><td></td><td>Retsina (vin blanc grec) selon description (7)</td><td></td><td></td></tr>
+<tr><td>ex 2204 21 21</td><td>– en récipients d’une contenance n’excédant pas 2 l</td><td></td><td></td></tr>
+<tr><td></td><td>– en récipients d’une contenance excédant 2 l mais n’excédant pas 10 l, d’un titre alcoométrique volumique:</td><td></td><td></td></tr>
+<tr><td>ex 2204 22 21</td><td>– – excédant 13 % vol.</td><td></td><td></td></tr>
+<tr><td>ex 2204 22 22</td><td>– – n’excédant pas 13 % vol.</td><td></td><td></td></tr>
+<tr><td></td><td>– en récipients d’une contenance excédant 10 l, d’un titre alcoométrique volumique:</td><td></td><td></td></tr>
+<tr><td>ex 2204 29 23</td><td>– – excédant 13 % vol.</td><td></td><td></td></tr>
+<tr><td>ex 2204 29 24</td><td>– – n’excédant pas 13 % vol.</td><td>0.00</td><td>500 hl</td></tr>
+<tr><td></td><td>Aliments pour chiens et chats destinés à la vente au détail en récipients fermés hermétiquement;</td><td></td><td></td></tr>
+<tr><td>2309 10 21</td><td>– contenant de la poudre de lait ou de lactosérum</td><td></td><td></td></tr>
+<tr><td>2309 10 29</td><td>– autres</td><td>0.00</td><td>6000(8)</td></tr>
 </table>
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
-## Concessions de la Communauté
+## Concessions de l’Union européenne
 
-[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2008 du Comité mixte de l’agriculture du 24 juin 2008, approuvée par l’Ass. féd. le 29 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 251](https://fedlex.data.admin.ch/eli/oc/2010/33)[249](https://fedlex.data.admin.ch/eli/oc/2010/32); [FF 2008 931](https://fedlex.data.admin.ch/eli/fga/2008/222)).
+[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2022 du Comité mixte de l’agriculture du 17 nov. 2022, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 857](https://fedlex.data.admin.ch/eli/oc/2022/857)).
 
-La Communauté accorde, pour les produits originaires de la Suisse et figurant dans le tableau ci-après, les concessions tarifaires suivantes, le cas échéant dans les limites d’une quantité annuelle fixée:
+L’Union européenne accorde, pour les produits originaires de la Suisse et figurant dans le tableau ci-après, les concessions tarifaires suivantes, le cas échéant dans les limites d’une quantité annuelle fixée:
 
 <table>
 <tr><th>Code CN</th><th>Désignation des marchandises</th><th>Droit de douane applicable (en euros/ 100 kg net)</th><th colspan="2">Quantité annuelle en poids net (tonnes)</th></tr>
-<tr><td>0102 90 41 0102 90 49 0102 90 51 0102 90 59 0102 90 61 0102 90 69 0102 90 71 0102 90 79</td><td>Animaux vivants de l’espèce bovine d’un poids excédant 160 kg</td><td>0</td><td>4 600 têtes</td></tr>
-<tr><td>ex 0210 20 90</td><td>Viandes de l’espèce bovine, désossées, séchées</td><td>droit nul</td><td>1 200</td></tr>
-<tr><td>ex 0401 30</td><td>Crème, d’une teneur en poids de matières grasses excédant 6 %</td><td>droit nul</td><td>2 000</td></tr>
-<tr><td>0403 10</td><td>Yoghourts</td><td></td><td></td></tr>
-<tr><td>0402 29 11 ex 0404 90 83</td><td>Laits spéciaux, dits «pour nourrissons», en récipients hermétiquement fermés, d’un contenu net n’excédant pas 500 g, d’une teneur en poids de matières grasses excédant 10 %h<sup>(1)</sup></td><td>43.80</td><td>illimitée</td></tr>
-<tr><td>0602</td><td>Autres plantes vivantes (y compris leurs racines), boutures et greffons; blancs de champignons</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>0603 11 00 0603 12 00 0603 13 00 0603 14 00 0603 19</td><td>Fleurs et boutons de fleurs, coupés, pour bouquets ou pour ornements, frais</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>0701 10 00</td><td>Pommes de terre, de semence, à l’état frais ou réfrigéré</td><td>droit nul</td><td>4 000</td></tr>
-<tr><td>0702 00 00</td><td>Tomates, à l’état frais ou réfrigéré</td><td>droit nul<sup>(2)</sup></td><td>1 000</td></tr>
-<tr><td>0703 10 19 0703 90 00</td><td>Oignons, autres que de semence, poireaux et autres légumes alliacés, à l’état frais ou réfrigéré</td><td>droit nul</td><td>5 000</td></tr>
-<tr><td>0704 10 00 0704 90</td><td>Choux, choux-fleurs, choux frisés, choux raves et produits comestibles similaires du genre Brassica, à l’exception des choux de Bruxelles, à l’état frais ou réfrigéré</td><td>droit nul</td><td>5 500</td></tr>
-<tr><td>0705</td><td>Laitues (*Lactuca sativa*) et chicorées (*Cichor**i**um* spp.), à l’état frais ou réfrigéré</td><td>droit nul</td><td>3 000</td></tr>
-<tr><td>0706 10 00</td><td>Carottes et navets, à l’état frais ou réfrigéré</td><td>droit nul</td><td>5 000</td></tr>
-<tr><td>0706 90 10 0706 90 90</td><td>Betteraves à salade, salsifis, céleris-raves, radis et racines comestibles similaires, à l’exception du raifort (*Cochlearia armoracia*), à l’état frais ou réfrigéré</td><td>droit nul</td><td>3 000</td></tr>
-<tr><td>0707 00 05</td><td>Concombres, à l’état frais ou réfrigéré</td><td>droit nul<sup>(2)</sup></td><td>1 000</td></tr>
-<tr><td>0708 20 00</td><td>Haricots (*Vigna* spp., *Phaseolus* spp.), à l’état frais ou réfrigéré</td><td>droit nul</td><td>1 000</td></tr>
-<tr><td>0709 30 00</td><td>Aubergines, à l’état frais ou réfrigéré</td><td>droit nul</td><td>500</td></tr>
-<tr><td>0709 40 00</td><td>Céleris, autres que les céleris-raves, à l’état frais ou réfrigéré</td><td>droit nul</td><td>500</td></tr>
-<tr><td>0709 51 00 0709 59</td><td>Champignons et truffes, à l’état frais ou réfrigéré</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>0709 70 00</td><td>Épinards, tétragones (épinards de Nouvelle-Zélande) et arroches (épinards géants), à l’état frais ou réfrigéré</td><td>droit nul</td><td>1 000</td></tr>
-<tr><td>0709 90 10</td><td>Salades, autres que laitues (*Lactuca sativa*) et chicorées (*Cichorium* spp.), à l’état frais ou réfrigéré</td><td>droit nul</td><td>1 000</td></tr>
-<tr><td>0709 90 20</td><td>Cardes et cardons</td><td>droit nul</td><td>300</td></tr>
-<tr><td>0709 90 50</td><td>Fenouil, à l’état frais ou réfrigéré</td><td>droit nul</td><td>1 000</td></tr>
-<tr><td>0709 90 70</td><td>Courgettes, à l’état frais ou réfrigéré</td><td>droit nul<sup>(2)</sup></td><td>1 000</td></tr>
-<tr><td>0709 90 90</td><td>Autres légumes, à l’état frais ou réfrigéré</td><td>droit nul</td><td>1 000</td></tr>
-<tr><td>0710 80 61 0710 80 69</td><td>Champignons, non cuits ou cuits à l’eau ou à la vapeur, congelés</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>0712 90</td><td>Légumes secs, même coupés en morceaux ou en tranches, ou bien broyés ou pulvérisés, même obtenus à partir de légumes auparavant cuits, mais non autrement préparés, à l’exception des oignons, des champignons et des truffes</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 0808 10 80</td><td>Pommes, autres que pommes à cidre, fraîches</td><td>droit nul<sup>(2)</sup></td><td>3 000</td></tr>
-<tr><td>0808 20</td><td>Poires et coings, frais</td><td>droit nul<sup>(2)</sup></td><td>3 000</td></tr>
-<tr><td>0809 10 00</td><td>Abricots, frais</td><td>droit nul<sup>(2)</sup></td><td>500</td></tr>
-<tr><td>0809 20 95</td><td>Cerises, autres que cerises acides (*Prunus cer**a**sus*), fraîches</td><td>droit nul<sup>(2)</sup></td><td>1 500<sup>(3)</sup></td></tr>
-<tr><td>0809 40</td><td>Prunes et prunelles, fraîches</td><td>droit nul<sup>(2)</sup></td><td>1 000</td></tr>
-<tr><td>0810 10 00</td><td>Fraises</td><td>droit nul</td><td>200</td></tr>
-<tr><td>0810 20 10</td><td>Framboises, fraîches</td><td>droit nul</td><td>100</td></tr>
-<tr><td>0810 20 90</td><td>Mûres de ronce ou de mûrier et mûres-framboises, fraîches</td><td>droit nul</td><td>100</td></tr>
-<tr><td>1106 30 10</td><td>Farines, semoules et poudres de bananes</td><td>droit nul</td><td>5</td></tr>
-<tr><td>1106 30 90</td><td>Farines, semoules et poudres d’autres fruits du chapitre 8</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 0210 19 50</td><td>Jambon saumuré sans os, introduit dans une vessie ou dans un boyau artificiel</td><td>droit nul</td><td>1 900</td></tr>
-<tr><td>ex 0210 19 81</td><td>Morceau de côtelette sans os, fumé</td><td></td><td></td></tr>
-<tr><td>ex 1601 00</td><td>Saucisses, saucissons et produits similaires, de viande, d’abats ou de sang; préparations alimentaires à base de ces produits des animaux relevant des positions 0101 à 0104, à l’exclusion des sangliers</td><td></td><td></td></tr>
-<tr><td>ex 0210 19 81 ex 1602 49 19</td><td>Cou de porc saumuré et séché à l’air, en pièce entière, en morceaux ou en fines tranches</td><td></td><td></td></tr>
-<tr><td>ex 2002 90 91 ex 2002 90 99</td><td>Poudres de tomates, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>2003 90 00</td><td>Champignons, autres que ceux du genre *Agar**i**cus*, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>0710 10 00</td><td>Pommes de terre, non cuites ou cuites à l’eau ou à la vapeur, congelées</td><td>droit nul</td><td>3 000</td></tr>
-<tr><td>2004 10 10 2004 10 99</td><td>Pommes de terre préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, congelées, autres que les produits du n<sup>o</sup> 2006, à l’exception des farines, semoules ou flocons</td><td></td><td></td></tr>
-<tr><td>2005 20 80</td><td>Pommes de terre préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que celles relevant du n<sup>o</sup> 2006, à l’exception des préparations sous forme de farines, de semoules, de flocons et des préparations en fines tranches, frites, même salées ou aromatisées, en emballages hermétiquement clos, propres à la consommation en l’état</td><td></td><td></td></tr>
-<tr><td>ex 2005 91 00 ex 2005 99</td><td>Poudres préparées de légumes et de mélanges de légumes, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2008 30</td><td>Flocons et poudres d’agrumes, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2008 40</td><td>Flocons et poudres de poires, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2008 50</td><td>Flocons et poudres d’abricots, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>2008 60</td><td>Cerises, autrement préparées ou conservées, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommées ni comprises ailleurs</td><td>droit nul</td><td>500</td></tr>
-<tr><td>ex 0811 90 19 ex 0811 90 39</td><td>Cerises, non cuites ou cuites à l’eau ou à la vapeur, congelées, additionnées de sucre ou d’autres édulcorants</td><td></td><td></td></tr>
-<tr><td>0811 90 80</td><td>Cerises douces, non cuites ou cuites à l’eau ou à la vapeur, congelées, sans addition de sucre ou d’autres édulcorants</td><td></td><td></td></tr>
-<tr><td>ex 2008 70</td><td>Flocons et poudres de pêches, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2008 80</td><td>Flocons et poudres de fraises, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2008 99</td><td>Flocons et poudres d’autres fruits, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2009 19</td><td>Poudres de jus d’orange, avec ou sans addition de sucre ou d’autres édulcorants</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2009 21 00 ex 2009 29</td><td>Poudres de jus de pamplemousse, avec ou sans addition de sucre ou d’autres édulcorants</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2009 31 ex 2009 39</td><td>Poudres de jus de tout autre agrume, avec ou sans addition de sucre ou d’autres édulcorants</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2009 41 ex 2009 49</td><td>Poudres de jus d’ananas, avec ou sans addition de sucre ou d’autres édulcorants</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2009 71 ex 2009 79</td><td>Poudres de jus de pomme, avec ou sans addition de sucre ou d’autres édulcorants</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>ex 2009 80</td><td>Poudres de jus de tout autre fruit ou légume, avec ou sans addition de sucre ou d’autres édulcorants</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td colspan="5"><sup>(1)</sup> Pour l’application de cette sous-position, on entend par laits spéciaux dits «pour nourrissons», les produits exempts de germes pathogènes et toxicogènes et qui contiennent moins de 10 000 bactéries aérobies revivifiables et moins de deux bactéries coliformes par gramme.</td></tr>
-<tr><td colspan="5"><sup>(2)</sup> Le droit spécifique autre que le droit minimal est applicable, le cas échéant.</td></tr>
-<tr><td colspan="5"><sup>(3)</sup> Y compris les 1000 t au titre de l’échange de lettres du 14 juillet 1986.</td></tr>
-<tr><td colspan="5"><sup>(4)</sup> Voir déclaration commune relative au classement tarifaire des poudres de légumes et des poudres de fruits.</td></tr>
+<tr><td>0102 29 41 0102 29 49 0102 29 51 0102 29 59 0102 29 61 0102 29 69 0102 29 91 0102 29 99</td><td>Animaux vivants de l’espèce bovine d’un poids excédant 160 kg</td><td>0.00</td><td colspan="2">4 600 têtes</td></tr>
+<tr><td>ex 0102 39 10 ex 0102 90 91</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>ex 0210 20 90</td><td>Viandes de l’espèce bovine, désossées, séchées</td><td>0.00</td><td colspan="2">1 200</td></tr>
+<tr><td>ex 0401 40 10 0401 40 90 0401 50 11 0401 50 19 0401 50 31 0401 50 39 0401 50 91 0401 50 99</td><td>Crème, d’une teneur en poids de matières grasses excédant 6 %</td><td>0.00</td><td colspan="2">2 000</td></tr>
+<tr><td>0403 10</td><td>Yoghourts</td><td></td><td colspan="2"></td></tr>
+<tr><td>0402 29 11 ex 0404 90 83</td><td>Laits spéciaux, dits «pour nourrissons», en récipients hermétiquement fermés, d’un contenu net n’excédant pas 500 g, d’une teneur en poids de matières grasses excédant 10 %(1)</td><td>43.80</td><td colspan="2">illimitée</td></tr>
+<tr><td>0602</td><td>Autres plantes vivantes (y compris leurs racines), boutures et greffons; blancs de champignons</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>0603 11 00 0603 12 00 0603 13 00 0603 14 00 0603 15 00 0603 19</td><td>Fleurs et boutons de fleurs, coupés, pour bouquets ou pour ornements, frais</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>0701 10 00</td><td>Pommes de terre, de semence, à l’état frais ou refrigéré</td><td>0.00</td><td colspan="2">4 000</td></tr>
+<tr><td>0702 00 00</td><td>Tomates, à l’état frais ou réfrigéré</td><td>0.00<sup>(2)</sup></td><td colspan="2">1 000</td></tr>
+<tr><td>0703 10 19 0703 90 00</td><td>Oignons, autres que de semence Poireaux et autres légumes alliacés, à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">5 000</td></tr>
+<tr><td>0704 10 00 0704 90</td><td>Choux, choux-fleurs, choux frisés, choux raves et roduits comestibles similaires du genre Brassica, à l’exception des choux de Bruxelles, à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">5 500</td></tr>
+<tr><td>0705</td><td>Laitues (*Lactuca sativa*) et chicorées (*Cichorium* spp.), à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">3 000</td></tr>
+<tr><td>0706 10 00</td><td>Carottes et navets, à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">5 000</td></tr>
+<tr><td>0706 90 10 0706 90 90</td><td>Betteraves à salade, salsifis, céleris-raves, radis et racines comestibles similaires, à l’exception du raifort (*Cochlearia armoracia*), à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">3 000</td></tr>
+<tr><td>0707 00 05</td><td>Concombres, à l’état frais ou réfrigéré</td><td>0.00<sup>(2)</sup></td><td colspan="2">1 000</td></tr>
+<tr><td>0708 20 00</td><td>Haricots (*Vigna* spp., *Phaseolus* spp.), à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">1 000</td></tr>
+<tr><td>0709 30 00</td><td>Aubergines, à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">500</td></tr>
+<tr><td>0709 40 00</td><td>Céleris, autres que les céleris-raves, à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">500</td></tr>
+<tr><td>0709 51 00 0709 59</td><td>Champignons et truffes, à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>0709 70 00</td><td>Épinards, tétragones (épinards de Nouvelle-Zélande) et arroches (épinards géants), à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">1 000</td></tr>
+<tr><td>0709 99 10</td><td>Salades, autres que laitues (*Lactuca sativa*) et chicorées (*Cichorium* spp.), à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">1 000</td></tr>
+<tr><td>0709 99 20</td><td>Cardes et cardons, à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">300</td></tr>
+<tr><td>0709 99 50</td><td>Fenouil, à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">1 000</td></tr>
+<tr><td>0709 93 10</td><td>Courgettes, à l’état frais ou réfrigéré</td><td>0.00<sup>(2)</sup></td><td colspan="2">1 000</td></tr>
+<tr><td>0709 93 90 0709 99 90</td><td>Autres légumes, à l’état frais ou réfrigéré</td><td>0.00</td><td colspan="2">1 000</td></tr>
+<tr><td>0710 80 61 0710 80 69</td><td>Champignons, non cuits ou cuits à l’eau ou à la vapeur, congelés</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>0712 90</td><td>Légumes secs, même coupés en morceaux ou en tranches, ou bien broyés ou pulvérisés, même obtenus à partir de légumes auparavant cuits, mais non autrement préparés, à l’exception des oignons, des champignons et des truffes</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 0808 10 80</td><td>Pommes, autres que pommes à cidre, fraîches</td><td>0.00<sup>(2)</sup></td><td colspan="2">3 000</td></tr>
+<tr><td>0808 30 0808 40</td><td>Poires, frais et coings, frais</td><td>0.00<sup>(2)</sup></td><td colspan="2">3 000</td></tr>
+<tr><td>0809 10 00</td><td>Abricots, frais</td><td>0.00<sup>(2)</sup></td><td colspan="2">500</td></tr>
+<tr><td>0809 29 00</td><td>Cerises, autres que cerises acides (*Prunus cerasus*), fraîches</td><td>0.00<sup>(2)</sup></td><td colspan="2">1 500<sup>(3)</sup></td></tr>
+<tr><td>[tab] 0809 40</td><td>Prunes et prunelles, fraîches</td><td>0.00<sup>(2)</sup></td><td colspan="2">1 000</td></tr>
+<tr><td>0810 10 00</td><td>Fraises</td><td>0.00</td><td colspan="2">200</td></tr>
+<tr><td>0810 20 10</td><td>Framboises, fraîches</td><td>0.00</td><td colspan="2">100</td></tr>
+<tr><td>0810 20 90</td><td>Mûres de ronce ou de mûrier et mûres-framboises, fraîches</td><td>0.00</td><td colspan="2">100</td></tr>
+<tr><td>1106 30 10</td><td>Farines, semoules et poudres de bananes</td><td>0.00</td><td colspan="2">5</td></tr>
+<tr><td>1106 30 90</td><td>Farines, semoules et poudres d’autres fruits du chapitre 8</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 0210 19 50</td><td>Jambon saumuré sans os, introduit dans une vessie ou dans un boyau artificiel</td><td>0.00</td><td colspan="2">1 900</td></tr>
+<tr><td>ex 0210 19 81</td><td>Morceau de côtelette sans os, fumé</td><td></td><td colspan="2"></td></tr>
+<tr><td>ex 0210 19 81 ex 1602 49 19</td><td>Cou de porc saumuré et séché à l’air, en pièce entière, en morceaux ou en fines tranches</td><td></td><td colspan="2"></td></tr>
+<tr><td>ex 1601 00</td><td>Saucisses, saucissons et produits similaires, de viande, d’abats ou de sang; préparations alimentaires à base de ces produits des animaux relevant des positions 0101 à 0104, à l’exclusion des sangliers</td><td></td><td colspan="2"></td></tr>
+<tr><td>ex 2002 90 91 ex 2002 90 99</td><td>Poudres de tomates, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>2003 90 90</td><td>Champignons, autres que ceux du genre *Agaricus*, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>0710 10 00</td><td>Pommes de terre, non cuites ou cuites à l’eau ou à la vapeur, congelées</td><td></td><td colspan="2"></td></tr>
+<tr><td>2004 10 10 2004 10 99</td><td>Pommes de terre préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, congelées, autres que les produits du n<sup>o</sup> 2006, à l’exception des farines, semoules ou flocons</td><td></td><td colspan="2"></td></tr>
+<tr><td>2005 20 80</td><td>Pommes de terre préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que celles relevant du n<sup>o</sup> 2006, à l’exception des préparations sous forme de farines, de semoules, de flocons et des préparations en fines tranches, frites, même salées ou aromatisées, en emballages hermétiquement clos, propres à la consommation en l’état</td><td>0.00</td><td colspan="2">3 000</td></tr>
+<tr><td>ex 2005 91 00 ex 2005 99</td><td>Poudres préparées de légumes et de mélanges de légumes, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2008 30</td><td>Flocons et poudres d’agrumes, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2008 40</td><td>Flocons et poudres de poires, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2008 50</td><td>Flocons et poudres d’abricots, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>2008 60</td><td>Cerises, autrement préparées ou conservées, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommées ni comprises ailleurs</td><td>0.00</td><td colspan="2">500</td></tr>
+<tr><td>ex 0811 90 19 ex 0811 90 39</td><td>Cerises, non cuites ou cuites à l’eau ou à la vapeur, congelées, additionnées de sucre ou d’autres édulcorants</td><td></td><td colspan="2"></td></tr>
+<tr><td>0811 90 80</td><td>Cerises douces, non cuites ou cuites à l’eau ou à la vapeur, congelées, sans addition de sucre ou d’autres édulcorants</td><td></td><td colspan="2"></td></tr>
+<tr><td>ex 2008 70</td><td>Flocons et poudres de pêches, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2008 80</td><td>Flocons et poudres de fraises, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2008 99</td><td>Flocons et poudres d’autres fruits, avec ou sans addition de sucre, d’autres édulcorants ou d’amidon<sup>(4)</sup></td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2009 19</td><td>Poudres de jus d’orange, avec ou sans addition de sucre ou d’autres édulcorants</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2009 21 00 ex 2009 29</td><td>Poudres de jus de pamplemousse, avec ou sans addition de sucre ou d’autres édulcorants</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2009 31 ex 2009 39</td><td>Poudres de jus de tout autre agrume, avec ou sans addition de sucre ou d’autres édulcorants</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2009 41 ex 2009 49</td><td>Poudres de jus d’ananas, avec ou sans addition de sucre ou d’autres édulcorants</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2009 71 ex 2009 79</td><td>Poudres de jus de pomme, avec ou sans addition de sucre ou d’autres édulcorants</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td>ex 2009 81 ex 2009 89</td><td>Poudres de jus de tout autre fruit ou légume, avec ou sans addition de sucre ou d’autres édulcorants</td><td>0.00</td><td colspan="2">illimitée</td></tr>
+<tr><td colspan="4"><sup>(1)</sup> Pour l’application de cette sous-position, on entend par laits spéciaux dits «pour nourrissons», les produits exempts de germes pathogènes et toxicogènes et qui contiennent moins de 10 000 bactéries aérobies revivifiables et moins de deux bactéries coliformes par gramme. <sup>(2)</sup> Le droit spécifique autre que le droit minimal est applicable, le cas échéant. <sup>(3)</sup> Y compris les 1000 tonnes au titre de l’échange de lettres du 14 juillet 1986. <sup>(4)</sup> Voir déclaration commune relative au classement tarifaire des poudres de légumes et des poudres de fruits</td></tr>
 </table>
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 \1. Les échanges bilatéraux de tous les produits relevant du code tarifaire 0406 du Système Harmonisé sont entièrement libéralisés depuis le 1<sup>er</sup> juin 2007 du fait de la suppression de tous les droits de douane et quotas.
 
@@ -646,9 +667,9 @@ Annexe 4
 
 <sup>1.</sup> La présente annexe concerne la facilitation des échanges entre les Parties des végétaux, des produits végétaux et d’autres objets soumis à des mesures phytosanitaires originaires de leur territoire respectif ou importés de pays tiers, qui figurent dans un appendice 1 à établir par le Comité conformément à l’art. 11 de l’accord.
 
-2.[^annexu1-lvlu1-1-1] Par dérogation à l’art. 1 de l’accord, la présente annexe s’applique à tous les végétaux, produits végétaux et autres objets de l’appendice 1 visés au par. 1.
+<sup>2.</sup> Par dérogation à l’art. 1 de l’accord, la présente annexe s’applique à tous les végétaux, produits végétaux et autres objets de l’appendice 1 visés au par. 1.[^annex4-lvlu1-1-1]
 
-[^annexu1-lvlu1-1-1]: Introduit par l’art. 1 par. 2 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annex4-lvlu1-1-1]: Introduit par l’art. 1 par. 2 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 2
 
@@ -658,11 +679,11 @@ Annexe 4
 
 <sup>2.</sup> Les législations visées au par. 1 figurent dans un appendice 2 à établir par le Comité conformément à l’art. 11 de l’accord.
 
-3.[^annexu1-lvlu1-2-1] Les Parties reconnaissent mutuellement les passeports phytosanitaires délivrés par les organismes qui ont été agréés par les autorités respectives. Une liste de ces organismes, actualisée périodiquement, peut être obtenue auprès des autorités énumérées à l’appendice 3. Les passeports phytosanitaires attestent de la conformité à leurs législations respectives, dont les références figurent à l’appendice 2, conformément aux dispositions du par. 2, et sont considérés comme répondant aux exigences documentaires fixées dans ces législations pour la circulation sur le territoire des Parties respectives des végétaux, produits végétaux et autres objets figurant à l’appendice 1 conformément aux dispositions de l’art. 1.
+<sup>3.</sup> Les Parties reconnaissent mutuellement les passeports phytosanitaires délivrés par les organismes qui ont été agréés par les autorités respectives. Une liste de ces organismes, actualisée périodiquement, peut être obtenue auprès des autorités énumérées à l’appendice 3. Les passeports phytosanitaires attestent de la conformité à leurs législations respectives, dont les références figurent à l’appendice 2, conformément aux dispositions du par. 2, et sont considérés comme répondant aux exigences documentaires fixées dans ces législations pour la circulation sur le territoire des Parties respectives des végétaux, produits végétaux et autres objets figurant à l’appendice 1 conformément aux dispositions de l’art. 1.[^annex4-lvlu1-2-1]
 
 <sup>4.</sup> Les végétaux, produits végétaux et autres objets figurant dans l’appendice 1 visé à l’article premier et qui ne sont pas soumis au régime du passeport phytosanitaire pour les échanges à l’intérieur du territoire des deux Parties, sont échangés entre les deux Parties sans passeport phytosanitaire, sans préjudice toutefois de l’exigence d’autres documents requis en vertu des législations des Parties respectives, et notamment ceux instaurés dans un système permettant de remonter à l’origine de ces végétaux, produits végétaux et autres objets.
 
-[^annexu1-lvlu1-2-1]: Nouvelle teneur selon l’art. 1 par. 3 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annex4-lvlu1-2-1]: Nouvelle teneur selon l’art. 1 par. 3 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 3
 
@@ -732,7 +753,7 @@ Des mesures de sauvegarde sont prises conformément aux procédures prévues à 
 
 <sup>2.</sup> Le Groupe de travail examine périodiquement l’évolution des dispositions législatives et réglementaires internes des parties dans les domaines couverts par la présente annexe. Il formule notamment des propositions qu’il soumet au Comité en vue d’adapter et de mettre à jour les appendices de la présente annexe.
 
-Appendice 1*[^t-6]*
+Appendice 1[^t-6]
 
 ## Végétaux, produits végétaux et autres objets
 
@@ -752,7 +773,7 @@ Appendice 1*[^t-6]*
   Bois, originaire de l’Union, qui a gardé totalement ou partiellement sa surface ronde naturelle, avec ou sans écorce, ou qui se présente sous forme de plaquettes, de particules, de sciures, de déchets ou de débris de bois:
 
   - a) lorsqu’il a été obtenu, en tout ou en partie, à partir de *Platanus* L., y compris le bois qui n’a pas gardé sa surface ronde naturelle, et
-  - b) lorsqu’il correspond à l’une des désignations de l’annexe I, deuxième partie, du règlement (CEE) n<sup>o</sup> 2658/87 du Conseil[^annexu1-lvlu1-lvlu1-1], qui figurent au tableau ci-dessous:
+  - b) lorsqu’il correspond à l’une des désignations de l’annexe I, deuxième partie, du règlement (CEE) n<sup>o</sup> 2658/87 du Conseil[^annex1-lvlu1-lvlA-1], qui figurent au tableau ci-dessous:
 
 <table>
 <tr><th>Code NC</th><th>Désignation</th></tr>
@@ -766,7 +787,7 @@ Appendice 1*[^t-6]*
 </table>
 
 - 2\. Végétaux, produits végétaux et autres objets produits par des producteurs autorisés à produire pour vendre à des professionnels de la production végétale, autres que les végétaux, produits végétaux et autres objets qui sont préparés et prêts pour la vente au consommateur final, et pour lesquels les organismes officiels responsables des États membres de l’Union ou de la Suisse garantissent que leur production est nettement séparée de celle d’autres produits
-- 2\.1 Végétaux destinés à la plantation (à l’exception des semences) du genre *Abies* Mill. et d’*Apium graveolens* L., *Argyranthemum* spp., *Asparagus off**i**cinalis* L., *Aster* spp., *Brassica* spp., *Castanea* Mill., *Cucumis* spp., *Dend**r**anthema* (DC.) Des Moul., *Dianthus* L. et hybrides, *Exacum* spp., *Fragaria* L., *Gerbera* Cass., *Gypsophila* L., *Impatiens* L. (toutes variétés d’hybrides de Nouvelle-Guinée), *Lactuca* spp., *Larix* Mill., *Leucanthemum* L., *Lupinus* L., *Pelargonium* l’Hérit. ex Ait., *Picea* A. Dietr., *Pinus* L., *Platanus* L., *Populus* L., *Prunus laurocerasus* L., *Prunus lusitanica* L., *Pseudotsuga* Carr., *Que**r**cus* L., *Rubus* L., *Spinacia* L., *Tanacetum* L., *Tsuga* Carr., *Verbena* L. et autres végétaux d’espèces herbacées (à l’exception de ceux de la famille Gramineae) destinés à la plantation (à l’exception des bulbes, cormes, rhizomes, semences et tubercules)
+- 2\.1 Végétaux destinés à la plantation (à l’exception des semences) du genre *Abies* Mill. et d’*Apium graveolens* L., *Argyranthemum* spp., *Asparagus officinalis* L., *Aster* spp., *Brassica* spp., *Castanea* Mill., *Cucumis* spp., *Dendranthema* (DC.) Des Moul., *Dianthus* L. et hybrides, *Exacum* spp., *Fragaria* L., *Gerbera* Cass., *Gypsophila* L., *Impatiens* L. (toutes variétés d’hybrides de Nouvelle-Guinée), *Lactuca* spp., *Larix* Mill., *Leucanthemum* L., *Lupinus* L., *Pelargonium* l’Hérit. ex Ait., *Picea* A. Dietr., *Pinus* L., *Platanus* L., *Populus* L., *Prunus laurocerasus* L., *Prunus lusitanica* L., *Pseudotsuga* Carr., *Quercus* L., *Rubus* L., *Spinacia* L., *Tanacetum* L., *Tsuga* Carr., *Verbena* L. et autres végétaux d’espèces herbacées (à l’exception de ceux de la famille Gramineae) destinés à la plantation (à l’exception des bulbes, cormes, rhizomes, semences et tubercules)
 - 2\.2 Végétaux de solanacées, autres que ceux visés au point 1.3, destinés à la plantation, autres que des semences
 - 2\.3 Végétaux d’*Araceae*, *Marantaceae*, *Musaceae*, *Persea* spp. et *Strelitziaceae*, racinés ou avec un milieu de culture adhérent ou associé
 - 2\.4 Végétaux de *Palmae*, destinés à la plantation, ayant un diamètre à la base du tronc de plus de 5 cm et appartenant aux genres suivants: *Brahea* Mart., *Butia* Becc., *Chamaerops* L., *Jubaea* Kunth., *Livistona* R. Br., *Phoenix* L., *Sabal* Adans., *Syagrus* Mart., *Trachycarpus* H. Wendl., *Trithrinax* Mart., *Washingtonia* Raf.
@@ -780,16 +801,16 @@ Appendice 1*[^t-6]*
 
 - 3\. Bulbes, cormes, tubercules et rhizomes de *Camassia* Lindl., *Chionodoxa* Boiss., *Crocus flavus* Weston «Golden Yellow», *Dahlia* spp., *Galanthus* L., *Galtonia candicans* (Baker) Decne., *Gladiolus* Tourn. ex L. (cultivars miniaturisés et leurs hybrides tels que *Gladiolus callianthus* Marais, *Gladiolus colvillei* Sweet, *Gladiolus nanus* hort., *Gladiolus ramosus* hort. et *Gladiolus tubergenii* hort.), *Hyacinthus* L., *Iris* L., *Ismene* Herbert, *Lilium* spp., *Muscari* Miller, *Narcissus* L., *Ornithogalum* L., *Puschkinia* Adams, *Scilla* L., *Tigridia* Juss. et *Tulipa* L., destinés à la plantation, produits par des producteurs autorisés à produire pour vendre à des professionnels de la production végétale, à l’exception des végétaux, produits végétaux et autres objets qui sont préparés et prêts pour la vente au consommateur final, et pour lesquels les organismes officiels responsables des États membres de l’Union ou de la Suisse garantissent que leur production est nettement séparée de celle d’autres produits.
 
-[^annexu1-lvlu1-lvlu1-1]: Règlement (CEE) n<sup>o</sup> 2658/87 du Conseil du 23 juillet 1987 relatif à la nomenclature tarifaire et statistique et au tarif douanier commun (JO L 256 du 7.9.1987, p. 1).
+[^annex1-lvlu1-lvlA-1]: Règlement (CEE) n<sup>o</sup> 2658/87 du Conseil du 23 juillet 1987 relatif à la nomenclature tarifaire et statistique et au tarif douanier commun (JO L 256 du 7.9.1987, p. 1).
 
 ### B. Végétaux, produits végétaux et autres objets, originaires de territoires autres que ceux de l’une ou l’autre partie, pour lesquels les dispositions phytosanitaires à l’importation des deux parties conduisent à des résultats équivalents et qui peuvent être échanges entre les deux parties avec un passeport phytosanitaire s’ils sont mentionnés sous la lettre A du présent appendice ou librement si tel n’est pas le cas
 
-- 1\. Sans préjudice des végétaux mentionnés sous la lettre C du présent appendice, tous les végétaux destinés à la plantation, à l’exception des semences mais y compris les semences de: Cruciferae, Gramineae et *Trifolium* spp., originaires d’Argentine, d’Australie, de Bolivie, du Chili, de Nouvelle-Zélande et d’Uruguay, des genres Triticum, *Secale* et X *Triticosecale*, originaires d’Afghanistan, d’Afrique du Sud, des États-Unis d’Amérique, d’Inde, d’Iran, d’Irak, du Mexique, du Népal et du Pakistan, de *Citrus* L., *Fortunella* Swingle et Poncirus Raf., et leurs hybrides, de *Capsicum* spp., *Helianthus annuus* L., *Solanum lycopersicum* L., *Medicago sativa* L., *Prunus* L., *Rubus* L., *Oryza* spp., *Zea mais* L., *Allium ascalonicum* L., *Allium cepa* L., *Allium porrum* L., *Allium schoenoprasum* L. et *Phaseolus* L.
+- 1\. Sans préjudice des végétaux mentionnés sous la lettre C du présent appendice, tous les végétaux destinés à la plantation, à l’exception des semences mais y compris les semences de: Cruciferae, Gramineae et *Trifolium* spp., originaires d’Argentine, d’Australie, de Bolivie, du Chili, de Nouvelle-Zélande et d’Uruguay, des genres Triticum, *Secale* et X *Triticosecale*, originaires d’Afghanistan, d’Afrique du Sud, des États-Unis d’Amérique, d’Inde, d’Iran, d’Irak, du Mexique, du Népal et du Pakistan, de *Citrus* L., *Fortunella* Swingle et Poncirus Raf., et leurs hybrides, de *Capsicum* spp., *Helianthus annuus* L., *Solanum lycopersicum* L., *Medicago sativa* L., *Prunus* L., *Rubus* L., *Oryza* spp., *Zea* *mais* L., *Allium ascalonicum* L., *Allium cepa* L., *Allium porrum* L., *Allium schoenoprasum* L. et *Phaseolus* L.
 - 2\.
 
   Parties de végétaux (à l’exception des fruits et des semences) de:
 
-  - – *Castanea* Mill., *Dendranthema* (DC.) Des Moul., *Dianthus* L., *Gyps**o**phila* L., *Pelargonium* l’Hérit. ex Ait, *Phoenix* spp., *Populus* L., *Que**r**cus* L., *Solidago* L., et des fleurs coupées d’*Orchidaceae*
+  - – *Castanea* Mill., *Dendranthema* (DC.) Des Moul., *Dianthus* L., *Gypsophila* L., *Pelargonium* l’Hérit. ex Ait, *Phoenix* spp., *Populus* L., *Quercus* L., *Solidago* L., et des fleurs coupées d’*Orchidaceae*
   - – conifères (*Coniferales*)
   - – *Acer saccharum* Marsh. originaire du Canada et des États-Unis d’Amérique
   - – *Prunus* L. originaire de pays non européens
@@ -800,12 +821,12 @@ Appendice 1*[^t-6]*
   - – branches coupées de *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch. et *Pterocarya rhoifolia* Siebold & Zucc., avec ou sans feuillage, originaires du Canada, de Chine, des États-Unis d’Amérique, du Japon, de Mongolie, de la République de Corée, de la République populaire démocratique de Corée, de Russie et de Taïwan
   - – *Amiris* P. Browne, *Casimiroa* La Llave, *Citropsis* Swingle & Kellerman, *Eremocitrus* Swingle, *Esenbeckia* Kunth., *Glycosmis* Corrêa, *Merrillia* Swingle, *Naringi* Adans., *Tetradium* Lour., *Toddalia* Juss. et *Zanthoxylum* L.
 
-- 2\.1 Parties de végétaux (à l’exception des fruits, mais y compris les semences) d’*Aegle* Corrêa, *Aeglopsis* Swingle, *Afraegle* Engl., *Atalantia* Corrêa, *Ba**l**samocitrus* Stapf, *Burkillanthus* Swingle, *Calodendrum* Thunb., *Choisya* Kunth, *Clausena* Burm. f., *Limonia* L., *Microcitrus* Swingle, *Murraya* J. Koenig ex L., *Pamburus* Swingle, *Severinia* Ten., *Swinglea* Merr., *Triphasia* Lour. et *Vepris* Comm.
+- 2\.1 Parties de végétaux (à l’exception des fruits, mais y compris les semences) d’*Aegle* Corrêa, *Aeglopsis* Swingle, *Afraegle* Engl., *Atalantia* Corrêa, *Balsamocitrus* Stapf, *Burkillanthus* Swingle, *Calodendrum* Thunb., *Choisya* Kunth, *Clausena* Burm. f., *Limonia* L., *Microcitrus* Swingle, *Murraya* J. Koenig ex L., *Pamburus* Swingle, *Severinia* Ten., *Swinglea* Merr., *Triphasia* Lour. et *Vepris* Comm.
 - 3\.
 
   Fruits de:
 
-  - – *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. et leurs hybrides, *Momo**r**dica* L. et *Solanum melongena* L.
+  - – *Citrus* L., *Fortunella* Swingle, *Poncirus* Raf. et leurs hybrides, *Momordica* L. et *Solanum melongena* L.
   - – *Annona* L., *Cydonia* Mill., *Diospyros* L., *Malus* Mill., *Mangifera* L., *Passiflora* L., *Prunus* L., *Psidium* L., *Pyrus* L., *Ribes* L. *Syzygium* Gaertn., et *Vaccinium* L., originaires de pays non européens
   - – *Capsicum* L.
 
@@ -821,7 +842,7 @@ Appendice 1*[^t-6]*
 
 - 6\.
 
-  Bois au sens de l’article 2, paragraphe 2, premier alinéa de la directive 2000/29/CE du Conseil[^annexu1-lvlu1-lvlu2-1]:
+  Bois au sens de l’article 2, paragraphe 2, premier alinéa de la directive 2000/29/CE du Conseil[^annex1-lvlu1-lvlB-1]:
 
   - a)
 
@@ -877,7 +898,7 @@ Appendice 1*[^t-6]*
 
 - 8\. Céréales des genera Triticum, *Secale* et X *Triticosecale* originaires d’Afghanistan, d’Inde, d’Iran, d’Irak, du Mexique, du Népal, du Pakistan, d’Afrique du Sud et des États-Unis d’Amérique
 
-[^annexu1-lvlu1-lvlu2-1]: Directive 2000/29/CE du Conseil du 8 mai 2000 concernant les mesures de protection contre l’introduction dans la Communauté d’organismes nuisibles aux végétaux ou aux produits végétaux et contre leur propagation à l’intérieur de la Communtauté (JO L 169, 10.7.2000, p. 1).
+[^annex1-lvlu1-lvlB-1]: Directive 2000/29/CE du Conseil du 8 mai 2000 concernant les mesures de protection contre l’introduction dans la Communauté d’organismes nuisibles aux végétaux ou aux produits végétaux et contre leur propagation à l’intérieur de la Communtauté (JO L 169, 10.7.2000, p. 1).
 
 ### C. Végétaux, produits végétaux et autres objets, en provenance de l’une ou l’autre partie pour lesquels les deux parties ne disposent pas de législations similaires et ne reconnaissent pas le passeport phytosanitaire
 
@@ -921,20 +942,20 @@ Appendice 1*[^t-6]*
 
 - 4\. Végétaux et produits végétaux en provenance d’un État membre de l’Union dont l’importation en Suisse est interdite
   - [tab] Végétaux de:
-  - [tab] *Cotoneaster* Ehrh.[^annexu1-lvlu1-lvlC-1]
-  - [tab] *Photinia davidiana* (Dcne.) Cardot[^annexu1-lvlu1-lvlC-2]
+  - [tab] Cotoneaster Ehrh.[^annex1-lvlu1-lvlC-1]
+  - [tab] *Photinia davidiana* (Dcne.) Cardot[^annex1-lvlu1-lvlC-2]
 
-[^annexu1-lvlu1-lvlC-1]: Par dérogation au titre de ce point 4, l’entrée et le transit de ces végétaux par le territoire suisse sont autorisés mais leur commercialisation, production et culture sont interdites en Suisse.
-[^annexu1-lvlu1-lvlC-2]: Par dérogation au titre de ce point 4, l’entrée et le transit de ces végétaux par le territoire suisse sont autorisés mais leur commercialisation, production et culture sont interdites en Suisse.
+[^annex1-lvlu1-lvlC-1]: Par dérogation au titre de ce point 4, l’entrée et le transit de ces végétaux par le territoire suisse sont autorisés mais leur commercialisation, production et culture sont interdites en Suisse.
+[^annex1-lvlu1-lvlC-2]: Par dérogation au titre de ce point 4, l’entrée et le transit de ces végétaux par le territoire suisse sont autorisés mais leur commercialisation, production et culture sont interdites en Suisse.
 
-Appendice 2*[^t-7]*
+Appendice 2[^t-7]
 
-## Législations****
+## Législations
 
-[^annexu1-lvlu1-1]
+[^annex2-lvlu1-1]
 
 [^t-7]: Introduit par l’art. 1 de la D n<sup>o</sup> 1/2004 du Comité mixte de l’agriculture du 8 mars 2004 ([RO 2004 2227](https://fedlex.data.admin.ch/eli/oc/2004/264)). Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte de l’agriculture du 19 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2016 799](https://fedlex.data.admin.ch/eli/oc/2016/153)).
-[^annexu1-lvlu1-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié au plus tard le 1.7.2015.
+[^annex2-lvlu1-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié au plus tard le 1.7.2015.
 
 Dispositions de l’Union:
 
@@ -957,7 +978,7 @@ Dispositions de l’Union:
 - – Directive 98/57/CE du Conseil du 20 juillet 1998 concernant la lutte contre *Ralstonia solanacearum* (Smith) Yabuuchi et al.
 - – Décision 98/109/CE de la Commission du 2 février 1998 autorisant les États membres à prendre provisoirement des mesures d’urgence contre la propagation de *Thripspalmi* Karny à l’égard de la Thaïlande
 - – Directive 2000/29/CE du Conseil du 8 mai 2000 concernant les mesures de protection contre l’introduction dans la Communauté d’organismes nuisibles aux végétaux ou aux produits végétaux et contre leur propagation à l’intérieur de la Communauté
-- – Décision 2002/757/CE de la Commission du 19 septembre 2002 relative à des mesures provisoires d’urgence en matière phytosanitaire visant à empêcher l’introduction et la propagation dans la Communauté de *Phytop**h**tora ramorum* Werres, De Cock & Man in ’t Veld sp. nov.
+- – Décision 2002/757/CE de la Commission du 19 septembre 2002 relative à des mesures provisoires d’urgence en matière phytosanitaire visant à empêcher l’introduction et la propagation dans la Communauté de *Phytophtora ramorum* Werres, De Cock & Man in ’t Veld sp. nov.
 - – Décision 2002/499/CE de la Commission du 26 juin 2002 autorisant des dérogations à certaines dispositions de la directive 2000/29/CE du Conseil pour les végétaux de *Chamaecyparis* Spach, *Juniperus* L. et *Pinus* L. originaires de la République de Corée et dont la croissance est inhibée naturellement ou artificiellement
 - – Décision *2002/887/CE* de la Commission du 8 novembre 2002 autorisant des dérogations à certaines dispositions de la directive 2000/29/CE du Conseil pour les végétaux de *Chamaecyparis* Spach, *Juniperus* L. et *Pinus* L. originaires du Japon et dont la croissance est inhibée naturellement ou artificiellement
 - – Décision 2004/200/CE de la Commission du 27 février 2004 relative à des mesures visant à éviter l’introduction et la propagation dans la Communauté du virus de la mosaïque du pépino
@@ -967,14 +988,14 @@ Dispositions de l’Union:
 - – Décision de la Commission 2004/416/CE du 29 avril 2004 relative à des mesures d’urgence provisoires concernant certains agrumes originaires d’Argentine ou du Brésil
 - – Décision 2005/51/CE de la Commission du 21 j anvier 2005 autorisant les États membres à prévoir à titre temporaire des dérogations à certaines dispositions de la directive 2000/29/CE du Conseil concernant l’importation de terre contaminée par des pesticides ou des polluants organiques persistants à des fins de décontamination
 - – Décision 2005/359/CE de la Commission du 29 avril 2005 prévoyant une dérogation à certaines dispositions de la directive 2000/29/CE du Conseil en ce qui concerne les grumes de chêne (*Quercus* L.) avec écorce, originaires des États-Unis d’Amérique
-- – Décision 2006/473/CE de la Commission du 5 juillet 2006 reconnaissant certains pays tiers et certaines régions de pays tiers comme indemnes de *Xanthomonas campestris* (toutes les souches pathogènes aux Citrus), *Ce**r**cospora angolensis* Carv. et Mendes ou *Guignardia citricarpa* Kiely (toutes les souches pathogènes aux Citrus)
+- – Décision 2006/473/CE de la Commission du 5 juillet 2006 reconnaissant certains pays tiers et certaines régions de pays tiers comme indemnes de *Xanthomonas campestris* (toutes les souches pathogènes aux Citrus), *Cercospora angolensis* Carv. et Mendes ou *Guignardia citricarpa* Kiely (toutes les souches pathogènes aux Citrus)
 - – Directive 2006/91/CE du Conseil du 7 novembre 2006 concernant la lutte contre le pou de San José
 - – Décision 2007/365/CE de la Commission du 25 mai 2007 relative à des mesures d’urgence destinées à éviter l’introduction et la propagation dans la Communauté de *Rhynchophorus ferrugineus* (Olivier)
 - – Directive 2007/33/CE du Conseil du 11 juin 2007 concernant la lutte contre les nématodes à kystes de la pomme de terre et abrogeant la directive 69/465/CEE
 - – Décision 2007/433/CE de la Commission du 18 juin 2007 relative à des mesures provisoires d’urgence destinées à éviter l’introduction et la propagation dans la Communauté de *Gibberella circinata* Nirenberg & O’Donnell
 - – Directive 2008/61/CE de la Commission du 17 juin 2008 fixant les conditions dans lesquelles certains organismes nuisibles, végétaux, produits végétaux et autres objets énumérés aux annexes I à V de la directive 2000/29/CE du Conseil peuvent être introduits ou circuler dans la Communauté ou dans certaines zones protégées de la Communauté pour des travaux à des fins d’essai ou à des fins scientifiques ou pour des travaux sur les sélections variétales
 - – Décision d’exécution 2011/778/UE de la Commission du 28 novembre 2011 autorisant certains États membres à prévoir des dérogations temporaires à certaines dispositions de la directive 2000/29/CE du Conseil en ce qui concerne les plants de pommes de terre originaires de certaines provinces du Canada
-- – Décision d’exécution 2011/787/UE de la Commission du 29 novembre 2011 autorisant les États membres à prendre provisoirement des mesures d’urgence en vue de se protéger contre la propagation de *Ralstonia s**o**lanacearum* (Smith) Yabuuchi et *al.* en provenance d’Égypte
+- – Décision d’exécution 2011/787/UE de la Commission du 29 novembre 2011 autorisant les États membres à prendre provisoirement des mesures d’urgence en vue de se protéger contre la propagation de *Ralstonia solanacearum* (Smith) Yabuuchi et *al.* en provenance d’Égypte
 - – Décision d’exécution 2012/138/UE de la Commission du 1<sup>er</sup> mars 2012 relative à des mesures d’urgence destinées à éviter l’introduction et la propagation *d’Anoplophora chinensis* (Forster) dans l’Union
 - – Décision d’exécution 2012/219/UE de la Commission du 24 avril 2012 reconnaissant la Serbie comme indemne de *Clavibacter michiganensis* ssp. *sepedonicus* (Spieckerman et Kotthoff) Davis et *al.*
 - – Décision d’exécution 2012/270/UE de la Commission du 16 mai 2012 en ce qui concerne des mesures d’urgence destinées à prévenir l’introduction et la propagation dans l’Union d’Epitrix cucumeris (Harris), *ďEpitrix similaris* (Gentner), d’Epitrix *subcrinita* (Lec.) et *ďEpitrix tuberis* (Gentner)
@@ -983,10 +1004,10 @@ Dispositions de l’Union:
 - – Décision d’exécution 2013/92/UE de la Commission du 18 février 2013 relative à la surveillance, aux contrôles phytosanitaires et aux mesures à prendre en ce qui concerne le matériel d’emballage en bois utilisé pour le transport de marchandises spécifiées en provenance de Chine
 - – Décision d’exécution 2013/413/UE de la Commission du 30 juillet 2013 autorisant les États membres à prévoir des dérogations à certaines dispositions de la directive 2000/29/CE du Conseil en ce qui concerne les pommes de terre, autres que les pommes de terre destinées à la plantation, originaires des régions de l’Akkar et de la Bekaa, au Liban
 - – Décision d’exécution 2013/754/UE de la Commission du 11 décembre 2013 relative à des mesures visant à éviter l’introduction et la propagation dans l’Union de *Guignardia citricarpa* Kiely (toutes les souches étant pathogènes aux *Citrus*), en ce qui concerne l’Afrique du Sud
-- – Décision d’exécution 2013/780/UE de la Commission du 18 décembre 2013 portant dérogation à l’article 13, paragraphe 1, point ii), de la directive 2009/29/CE du Conseil concernant le bois scié écorcé de *Quercus* L., *Plat**a**nus* L. et Acer *saccharum* Marsh. originaire des États-Unis d’Amérique
+- – Décision d’exécution 2013/780/UE de la Commission du 18 décembre 2013 portant dérogation à l’article 13, paragraphe 1, point ii), de la directive 2009/29/CE du Conseil concernant le bois scié écorcé de *Quercus* L., *Platanus* L. et Acer *saccharum* Marsh. originaire des États-Unis d’Amérique
 - – Décision d’exécution 2013/782/UE de la Commission du 18 décembre 2013 modifiant la décision 2002/757/CE en ce qui concerne l’exigence d’un certificat phytosanitaire relatif à l’organisme nuisible *Phytophthora ramorum* Werres, De Cock & Man in t Veld sp. novembre pour le bois scié écorcé d’*Acer* *macrophyllum* Pursh et de *Quercus* spp. L. originaire des États-Unis d’Amérique
 - – Recommandation 2014/63/UE de la Commission du 6 février 2014 relative à des mesures de lutte contre *Diabrotica virgifera virgifera* Le Conte dans les zones de l’Union où sa présence est confirmée
-- – Décision d’exécution 2014/422/UE de la Commission du 2 juillet 2014 établissant des mesures à l’égard de certains agrumes originaires d’Afrique du Sud visant à éviter l’introduction et la propagation dans l’Union de *Phy**l**losticta citricarpa* (McAlpine) Van der Aa
+- – Décision d’exécution 2014/422/UE de la Commission du 2 juillet 2014 établissant des mesures à l’égard de certains agrumes originaires d’Afrique du Sud visant à éviter l’introduction et la propagation dans l’Union de *Phyllosticta citricarpa* (McAlpine) Van der Aa
 - – Décision d’exécution 2014/917/UE de la Commission du 15 décembre 2014 portant modalités d’application de la directive 2000/29/CE du Conseil en ce qui concerne la notification de la présence d’organismes nuisibles et des mesures prises ou envisagées par les États membres
 - – Décision d’exécution 2014/924/UE de la Commission du 16 décembre 2014 prévoyant une dérogation à certaines dispositions de la directive 2000/29/CE du Conseil en ce qui concerne le bois et l’écorce de frêne (*Fraxinus* L.) originaires du Canada et des États-Unis d’Amérique
 - – Décision d’exécution (UE) 2015/179 de la Commission du 4 février 2015 autorisant les États membres à prévoir une dérogation à certaines dispositions de la directive 2000/29/CE du Conseil en ce qui concerne des matériaux d’emballage en bois de conifères (Coniferales) sous forme de boîtes à munitions originaires des États-Unis d’Amérique et placées sous le contrôle du ministère américain de la défense
@@ -1005,7 +1026,7 @@ Dispositions de la Suisse:
 - – Directive n<sup>o</sup> 1 de l’OFAG du 1<sup>er</sup> janvier 2012 à l’intention des services phytosanitaires cantonaux et des organisations chargée des contrôles concernant la surveillance et la lutte contre les nématodes à kystes de la pomme de terre (*Globodera rostochiensis* et *Globodera pallida*)
 - – Manuel de gestion du nématode du pin (*Bursaphelenchus xylophilus*) de l’OFEV du 30 mars 2015
 
-Appendice 3*[^t-8]*
+Appendice 3[^t-8]
 
 ## Autorités devant fournir sur demande la liste des organismes officiels chargés d’établir le passeport phytosanitaire
 
@@ -1013,7 +1034,7 @@ Appendice 3*[^t-8]*
 
 ### A. Communauté européenne
 
-Autorité unique de chaque État membre visée à l’art. 1, par. 4, de la directive 2000/ 29/CE du Conseil du 8 mai 2000[^annexu1-lvlu1-lvlu1-2].
+Autorité unique de chaque État membre visée à l’art. 1, par. 4, de la directive 2000/ 29/CE du Conseil du 8 mai 2000[^annex3-lvlu1-lvlA-1].
 
 Belgique:
 
@@ -1303,7 +1324,7 @@ Peasholme Green
 
 UK-YORK YO1 7PX
 
-[^annexu1-lvlu1-lvlu1-2]: JO L 169 du 10.7.2000, p. 1. Modifiée en dernier lieu par la Directive 2007/41/CE (JO L 169 du 29.6.2007 p. 51).
+[^annex3-lvlu1-lvlA-1]: JO L 169 du 10.7.2000, p. 1. Modifiée en dernier lieu par la Directive 2007/41/CE (JO L 169 du 29.6.2007 p. 51).
 
 ### B. Suisse
 
@@ -1311,14 +1332,14 @@ Office fédéral de l’agriculture
 
 CH–3003 Berne
 
-Appendice 4*[^t-9]*
+Appendice 4[^t-9]
 
-## Zones visées à l’art. 4 et exigences particulières y relatives****
+## Zones visées à l’art. 4 et exigences particulières y relatives
 
-[^annexu1-lvlu1-2]
+[^annex4-lvlu1-1]
 
 [^t-9]: Introduit par l’art. 1 de la D n<sup>o</sup> 1/2004 du Comité mixte de l’agriculture du 8 mars 2004 ([RO 2004 2227](https://fedlex.data.admin.ch/eli/oc/2004/264)). Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte de l’agriculture du 19 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2016 799](https://fedlex.data.admin.ch/eli/oc/2016/153)).
-[^annexu1-lvlu1-2]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié au plus tard le 1.7.2015.
+[^annex4-lvlu1-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié au plus tard le 1.7.2015.
 
 Les zones visées à l’article 4 ainsi que les exigences particulières y relatives qui doivent être respectées par les deux Parties sont définies dans les dispositions législatives et administratives respectives des deux Parties, mentionnées ci-dessous.
 
@@ -1331,7 +1352,7 @@ Dispositions de la Suisse:
 
 - – Ordonnance du 27 octobre 2010 sur la protection des végétaux, annexe 12 (RS *916.20*)
 
-Appendice 5*[^t-10]*
+Appendice 5[^t-10]
 
 ## Échange d’informations
 
@@ -1354,11 +1375,11 @@ Annexe 5
 
 <sup>2.</sup> La liste des produits ou des groupes des produits pour lesquels les dispositions législatives respectives des Parties ont été jugées comme conduisant aux mêmes résultats par les Parties, et, le cas échéant, la liste des dispositions législatives respectives des Parties dont les exigences ont été jugées comme conduisant aux mêmes résultats par les Parties, sont reprises dans un appendice 1 à établir par le Comité conformément à l’art. 11 de l’accord.
 
-2<sup>bis</sup>.[^annexu1-lvlu1-1-2] Par dérogation à l’art. 1 de l’accord, la présente annexe s’applique à tous les produits couverts par les dispositions législatives figurant à l’appendice 1 visé au par. 2.
+2<sup>bis</sup>.[^annex5-lvlu1-1-1] Par dérogation à l’art. 1 de l’accord, la présente annexe s’applique à tous les produits couverts par les dispositions législatives figurant à l’appendice 1 visé au par. 2.
 
 <sup>3.</sup> Les deux Parties suppriment les contrôles à la frontière pour les produits ou groupes de produits repris à l’appendice 1 visé au par. 2.
 
-[^annexu1-lvlu1-1-2]: Introduit par l’art. 1 par. 5 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annex5-lvlu1-1-1]: Introduit par l’art. 1 par. 5 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 2
 
@@ -1488,7 +1509,7 @@ Le par. 1 ne fait pas obstacle à l’utilisation des renseignements dans le cad
 
 <sup>5.</sup> Les Parties peuvent, dans leurs procès-verbaux, rapports et témoignages ainsi qu’au cours des procédures et poursuites devant les tribunaux, invoquer à titre de preuve, des renseignements recueillis et des documents consultés conformément aux dispositions du présent article.
 
-Appendice 1*[^t-11]*
+Appendice 1[^t-11]
 
 ## Dispositions communautaires
 
@@ -1502,19 +1523,19 @@ Loi fédérale du 29 avril 1998 sur l’agriculture, modifiée en dernier lieu l
 
 Ordonnance du 26 mai 1999 concernant l’alimentation animale, modifiée en dernier lieu le 23 novembre 2005 (RO *2005* 5555)
 
-Ordonnance du DFE[^annexu1-lvlu2-1] du 10 juin 1999 concernant le livre blanc des aliments pour animaux, modifiée en dernier lieu le 2 novembre 2006 (RO *2006* 5213)
+Ordonnance du DFE[^annex1-lvlu2-1] du 10 juin 1999 concernant le livre blanc des aliments pour animaux, modifiée en dernier lieu le 2 novembre 2006 (RO *2006* 5213)
 
 Ordonnance du 23 novembre 2005 sur la production primaire (RO *2005* 5545)
 
-Ordonnance du DFE[^annexu1-lvlu2-2] du 23 novembre 2005 concernant l’hygiène dans la production primaire (RO *2005* 6651)
+Ordonnance du DFE[^annex1-lvlu2-2] du 23 novembre 2005 concernant l’hygiène dans la production primaire (RO *2005* 6651)
 
-Ordonnance du DFE[^annexu1-lvlu2-3] du 23 novembre 2005 réglant l’hygiène dans la production laitière (RO *2005* 6667)
+Ordonnance du DFE[^annex1-lvlu2-3] du 23 novembre 2005 réglant l’hygiène dans la production laitière (RO *2005* 6667)
 
-[^annexu1-lvlu2-1]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^annexu1-lvlu2-2]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^annexu1-lvlu2-3]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu2-1]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu2-2]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu2-3]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
-Appendice 2*[^t-12]*
+Appendice 2[^t-12]
 
 ## Liste des dispositions législatives visées à l’art. 9
 
@@ -1530,9 +1551,9 @@ Directive 82/471/CEE du Conseil, du 30 juin 1982, concernant certains produits u
 
 Ordonnance du 26 janvier 1994 sur la production et la mise dans le commerce des aliments pour animaux, modifiée en dernier lieu le 7 décembre 1998 (RO *1999* 312).
 
-Ordonnance du DFE[^annex6-lvlu1-lvlu2-1] du 1<sup>er</sup> mars 1995 sur la production et la mise dans le commerce des aliments pour animaux, des additifs destinés à l’alimentation animale et des agents d’ensilage, modifiée en dernier lieu le 10 janvier 1996 (RO *1996* 208).
+Ordonnance du DFE[^annex2-lvlu1-lvlu2-1] du 1<sup>er</sup> mars 1995 sur la production et la mise dans le commerce des aliments pour animaux, des additifs destinés à l’alimentation animale et des agents d’ensilage, modifiée en dernier lieu le 10 janvier 1996 (RO *1996* 208).
 
-[^annex6-lvlu1-lvlu2-1]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex2-lvlu1-lvlu2-1]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 Annexe 6
 
@@ -1554,19 +1575,19 @@ Annexe 6
 
 <sup>2.</sup> Les semences des espèces définies dans les législations visées au premier paragraphe peuvent être échangées entre les Parties et mises dans le commerce librement sur le territoire des Parties, sans préjudice des dispositions des art. 5 et 6, avec, comme unique document certifiant de la conformité à la législation respective des Parties, l’étiquette ou tout autre document exigé pour la mise dans le commerce par ces législations.
 
-3.[^annexu1-lvlu1-2-2] Une liste des autorités nationales responsables de l’application de la législation figure dans l’appendice 2. Une liste des organismes responsables des contrôles de conformité, régulièrement mise à jour, peut être obtenue auprès des autorités dont la liste figure dans l’appendice 2.
+<sup>3.</sup> Une liste des autorités nationales responsables de l’application de la législation figure dans l’appendice 2. Une liste des organismes responsables des contrôles de conformité, régulièrement mise à jour, peut être obtenue auprès des autorités dont la liste figure dans l’appendice 2.[^annex6-lvlu1-2-1]
 
-[^annexu1-lvlu1-2-2]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2010 du Comité mixte de l’agriculture du 13 déc. 2010, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
+[^annex6-lvlu1-2-1]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2010 du Comité mixte de l’agriculture du 13 déc. 2010, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
 
 #### Art. 3
 
 **Reconnaissance réciproque des certificats**
 
-1.[^annexu1-lvlu1-3-1] Chaque Partie reconnaît pour les semences des espèces visées dans les législations figurant dans l’appendice 1, deuxième section, les certificats définis au par. 2, qui ont été établis conformément à la législation de l’autre Partie par les organismes mentionnés à l’art. 2, par. 3.
+<sup>1.</sup> Chaque Partie reconnaît pour les semences des espèces visées dans les législations figurant dans l’appendice 1, deuxième section, les certificats définis au par. 2, qui ont été établis conformément à la législation de l’autre Partie par les organismes mentionnés à l’art. 2, par. 3.[^annex6-lvlu1-3-1]
 
 <sup>2.</sup> Par certificat au sens du premier paragraphe, on entend les documents exigés par la législation respective des Parties, applicables à l’importation de semences et définis à l’appendice 1, deuxième section.
 
-[^annexu1-lvlu1-3-1]: Nouvelle teneur selon l’art. 2 de la D n<sup>o</sup> 2/2010 du Comité mixte de l’agriculture du 13 déc. 2010, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
+[^annex6-lvlu1-3-1]: Nouvelle teneur selon l’art. 2 de la D n<sup>o</sup> 2/2010 du Comité mixte de l’agriculture du 13 déc. 2010, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
 
 #### Art. 4
 
@@ -1580,7 +1601,7 @@ Annexe 6
 
 #### Art. 5
 
-**Variétés**[^annexu1-lvlu1-5-1]
+**Variétés**[^annex6-lvlu1-5-1]
 
 <sup>1.</sup> Sans préjudice du par. 3, la Suisse admet la commercialisation sur son territoire des semences des variétés admises dans la Communauté pour les espèces mentionnées dans les textes législatifs visés à l’appendice 1, première section.
 
@@ -1596,11 +1617,11 @@ Annexe 6
 
 <sup>7.</sup> En vue de faciliter les échanges d’informations visés au par. 5, les Parties utilisent les systèmes informatiques d’échanges d’informations existants ou en développement.
 
-[^annexu1-lvlu1-5-1]: Nouvelle teneur selon l’art. 1 par. 6 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annex6-lvlu1-5-1]: Nouvelle teneur selon l’art. 1 par. 6 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 6
 
-**Dérogations**[^annexu1-lvlu1-6-1]
+**Dérogations**[^annex6-lvlu1-6-1]
 
 <sup>1.</sup> Les dérogations de la Communauté et de la Suisse figurant à l’appendice 3 sont admises respectivement par la Suisse et par la Communauté dans le cadre des échanges de semences des espèces couvertes par les législations figurant à l’appendice 1, première section.
 
@@ -1625,7 +1646,7 @@ Les deux Parties peuvent recourir aux dispositions des par. 3 et 4:
 
 <sup>9.</sup> Les dispositions du par. 8 ne s’appliquent pas lorsque la compétence de décision concernant les dérogations est du ressort des États membres de la Communauté en vertu des dispositions législatives figurant à l’appendice 1, première section. Les dispositions du même par. 8 ne s’appliquent pas aux dérogations adoptées par la Suisse dans des cas similaires.
 
-[^annexu1-lvlu1-6-1]: Nouvelle teneur selon l’art. 1 par. 6 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annex6-lvlu1-6-1]: Nouvelle teneur selon l’art. 1 par. 6 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 7
 
@@ -1657,14 +1678,14 @@ Les deux Parties peuvent recourir aux dispositions des par. 3 et 4:
 
 Les Parties conviennent que les accords de reconnaissance mutuelle conclus par chaque Partie avec tout pays tiers ne peuvent, en aucun cas, créer des obligations pour l’autre Partie en termes d’acceptation des rapports, certificats, autorisations et marques délivrés par des organismes d’évaluation de la conformité de ce pays tiers, sauf accord formel entre les Parties.
 
-Appendice 1*[^t-13]*
+Appendice 1[^t-13]
 
-## Législations****
+## Législations
 
-[^annexu1-lvlu1-3]
+[^annex1-lvlu1-1]
 
 [^t-13]: Nouvelle teneur selon l’ art. 3 de la D n<sup>o</sup> 2/2010 du Comité mixte de l’agriculture du 13 déc. 2010, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
-[^annexu1-lvlu1-3]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31.7.2010.
+[^annex1-lvlu1-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31.7.2010.
 
 ### Section I (reconnaissance de la conformité des législations)
 
@@ -1696,20 +1717,20 @@ Appendice 1*[^t-13]*
 - – Directive 2008/124/CE de la Commission du 18 décembre 2008 limitant la commercialisation des semences de certaines espèces de plantes fourragères et de plantes oléagineuses et à fibres aux semences qui ont été officiellement certifiées semences de base ou semences certifiées (JO L 340 du 19.12.2008, p. 73).
 - – Règlement (CE) n<sup>o</sup> 637/2009 de la Commission du 22 juillet 2009 établissant des modalités d’application concernant l’éligibilité des dénominations variétales des espèces de plantes agricoles et des espèces de légumes (JO L 191 du 23.7.2009, p. 10).
 
-### B. Dispositions de la Suisse****
+### B. Dispositions de la Suisse
 
-[^annexu1-lvlu1-lvlA-lvlB-1]
+[^annex1-lvlu1-secI-lvlB-1]
 
-[^annexu1-lvlu1-lvlA-lvlB-1]: Ne sont pas couvertes les variétés locales dont la commercialisation est autorisée en Suisse.
+[^annex1-lvlu1-secI-lvlB-1]: Ne sont pas couvertes les variétés locales dont la commercialisation est autorisée en Suisse.
 
 - – Loi fédérale du 29 avril 1998 sur l’agriculture (RS *910.1*).
 - – Ordonnance du 7 décembre 1998 sur la production et la mise en circulation du matériel végétal de multiplication (RS *916.151*).
-- – Ordonnance du DFE[^annexu1-lvlu1-lvlA-lvlB-2] du 7 décembre 1998 sur les semences et les plants des espèces de grandes cultures, de cultures fourragères et de cultures maraîchères (RS *916.151.1*).
+- – Ordonnance du DFE[^annex1-lvlu1-secI-lvlB-2] du 7 décembre 1998 sur les semences et les plants des espèces de grandes cultures, de cultures fourragères et de cultures maraîchères (RS *916.151.1*).
 - – Ordonnance de l’OFAG du 7 décembre 1998 sur le catalogue des variétés de céréales, de pommes de terre, de plantes fourragères, de plantes oléagineuses et à fibres ainsi que de betteraves (RS *916.151.6*).
-- – Ordonnance du DFE[^annexu1-lvlu1-lvlA-lvlB-3] du 2 novembre 2006 sur la production et la mise en circulation du matériel de multiplication de la vigne (RS *916.151.3*).
+- – Ordonnance du DFE[^annex1-lvlu1-secI-lvlB-3] du 2 novembre 2006 sur la production et la mise en circulation du matériel de multiplication de la vigne (RS *916.151.3*).
 
-[^annexu1-lvlu1-lvlA-lvlB-2]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^annexu1-lvlu1-lvlA-lvlB-3]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu1-secI-lvlB-2]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^annex1-lvlu1-secI-lvlB-3]: Actuellement: DEFR (voir [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 ### Section II (reconnaissance réciproque des certificats)
 
@@ -1731,7 +1752,7 @@ Appendice 1*[^t-13]*
 
 - –
 
-Appendice 2*[^t-14]*
+Appendice 2[^t-14]
 
 ## Liste des autorités visées à l’art. 2, par. 3
 
@@ -2155,17 +2176,17 @@ Tél. +41 313222550
 
 Fax +41 313222634
 
-Appendice 3*[^t-15]*
+Appendice 3[^t-15]
 
 ## Dérogations
 
 [^t-15]: Nouvelle teneur selon l’ art. 3 de la D n<sup>o</sup> 2/2010 du Comité mixte de l’agriculture du 13 déc. 2010, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
 
-### Dérogations accordées par l’Union européenne et admises par la Suisse****
+### Dérogations accordées par l’Union européenne et admises par la Suisse
 
-[^annexu1-lvlu1-lvlu1-3]
+[^annex3-lvlu1-lvlu1-1]
 
-[^annexu1-lvlu1-lvlu1-3]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31.7.2010.
+[^annex3-lvlu1-lvlu1-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31.7.2010.
 
 - a)
 
@@ -2227,18 +2248,18 @@ Appendice 3*[^t-15]*
 
 - g)
 
-  autorisant à dispenser la Lettonie de l’obligation d’appliquer certaines dispositions des directives 66/402/CEE et 2002/57/CE du Conseil en ce qui concerne les espèces *Avena strigosa* Schreb*.*, *Brassica nigra* (L.) Koch et *Hel**i**anthus annuus* L.:
+  autorisant à dispenser la Lettonie de l’obligation d’appliquer certaines dispositions des directives 66/402/CEE et 2002/57/CE du Conseil en ce qui concerne les espèces *Avena strigosa* Schreb*.*, *Brassica nigra* (L.) Koch et *Helianthus annuus* L.:
 
   - – Décision 2010/198/UE de la Commission du 6 avril 2010 (JO L 87 du 7.4.2010, p. 34).
 
-Appendice 4*[^t-16]*
+Appendice 4[^t-16]
 
-## Liste des pays tiers****
+## Liste des pays tiers
 
-[^annex7-lvlu1-1]
+[^annex4-lvlu1-2]
 
 [^t-16]: Nouvelle teneur selon l’ art. 3 de la D n<sup>o</sup> 2/2010 du Comité mixte de l’agriculture du 13 déc. 2010, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 471](https://fedlex.data.admin.ch/eli/oc/2011/65)).
-[^annex7-lvlu1-1]: La reconnaissance est fondée sur la D n<sup>o</sup> 2003/17/CE du Conseil (JO L 8 du 14.1.2003, p. 10) concernant les inspections sur pied des cultures productrices de semences et les semences produites et sur la D n<sup>o</sup> 2005/834/CE du Conseil (JO L 312 du 29.11.2005, p. 51) concernant les contrôles des sélections conservatrices. Dans le cas de la Norvège, l’Ac. sur l’EEE est applicable.
+[^annex4-lvlu1-2]: La reconnaissance est fondée sur la D n<sup>o</sup> 2003/17/CE du Conseil (JO L 8 du 14.1.2003, p. 10) concernant les inspections sur pied des cultures productrices de semences et les semences produites et sur la D n<sup>o</sup> 2005/834/CE du Conseil (JO L 312 du 29.11.2005, p. 51) concernant les contrôles des sélections conservatrices. Dans le cas de la Norvège, l’Ac. sur l’EEE est applicable.
 
 Argentine
 
@@ -2266,7 +2287,7 @@ Turquie
 
 Uruguay
 
-Annexe 7*[^t-17]*
+Annexe 7[^t-17]
 
 ## Relative au commerce de produits vitivinicoles
 
@@ -2291,7 +2312,7 @@ La présente annexe s’applique aux produits vitivinicoles définis dans les di
 Aux fins de la présente annexe et sauf disposition contraire explicite mentionnée dans l’annexe, on entend par:
 
 - (a) «produit vitivinicole originaire de», suivi du nom de l’une des Parties: un produit au sens de l’art. 2, élaboré sur le territoire de ladite Partie à partir de raisins entièrement récoltés sur ce même territoire ou sur un territoire défini à l’appendice 2, en conformité avec les dispositions de la présente annexe;
-- (b) «indication géographique»: toute indication, y compris l’appellation d’origine, au sens de l’art. 22 de l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce, annexé à l’Accord instituant l’Organisation mondiale du commerce[^annexu1-lvlu1-3-2] (ci-après dénommé «Accord sur les ADPIC»), qui est reconnue par les lois ou réglementations d’une Partie aux fins de la désignation et de la présentation d’un produit vitivinicole visé à l’art. 2 originaire de son territoire ou d’un territoire défini à l’appendice 2;
+- (b) «indication géographique»: toute indication, y compris l’appellation d’origine, au sens de l’art. 22 de l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce, annexé à l’Accord instituant l’Organisation mondiale du commerce[^annex7-lvlu1-3-1] (ci-après dénommé «Accord sur les ADPIC»), qui est reconnue par les lois ou réglementations d’une Partie aux fins de la désignation et de la présentation d’un produit vitivinicole visé à l’art. 2 originaire de son territoire ou d’un territoire défini à l’appendice 2;
 - (c) «mention traditionnelle»: une dénomination traditionnellement utilisée, qui se réfère notamment à une méthode de production ou à la qualité, la couleur ou le type d’un produit vitivinicole visé à l’art. 2, et qui est reconnue par les lois ou réglementations d’une Partie aux fins de la désignation et de la présentation dudit produit originaire du territoire de cette Partie;
 - (d) «dénomination protégée»: une indication géographique ou une mention traditionnelle visée respectivement sous b) et c) et protégée en vertu de la présente annexe;
 - (e) «désignation»: les dénominations utilisées sur l’étiquetage, sur les documents qui accompagnent un produit vitivinicole visé à l’art. 2 pendant son transport, sur les documents commerciaux, et notamment les factures et les bulletins de livraison, ainsi que dans la publicité;
@@ -2305,7 +2326,7 @@ Aux fins de la présente annexe et sauf disposition contraire explicite mentionn
 - (m) «autorité requise»: une instance ou autorité compétente désignée à cette fin par une Partie et qui reçoit une demande d’assistance dans des domaines couverts par le présent titre;
 - (n) «infraction»: toute violation de la réglementation concernant la production et le commerce de produits vitivinicoles, ainsi que toute tentative de violation de cette réglementation.
 
-[^annexu1-lvlu1-3-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Annexe 1.C
+[^annex7-lvlu1-3-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Annexe 1C
 
 ### Titre I Dispositions applicables à l’importation et à la commercialisation
 
@@ -2356,14 +2377,14 @@ Aux fins de l’identification de l’origine des vins dans l’Union européenn
 
 **Autres termes**
 
-<sup>(1)</sup> Les termes «appellation d’origine protégée», «indication géographique protégée» y compris leurs abréviations «AOP» et «IGP», les termes «Sekt» et «crémant» visés dans le règlement de la Commission (CE) no 607/2009[^annexu1-lvlu1-lvlu2-7-1] sont réservés aux vins originaires de l’État membre concerné et ne peuvent être utilisés que dans les conditions prévues par la législation et la réglementation de l’Union européenne.
+<sup>(1)</sup> Les termes «appellation d’origine protégée», «indication géographique protégée» y compris leurs abréviations «AOP» et «IGP», les termes «Sekt» et «crémant» visés dans le règlement de la Commission (CE) no 607/2009[^annex7-lvlu1-titII-7-1] sont réservés aux vins originaires de l’État membre concerné et ne peuvent être utilisés que dans les conditions prévues par la législation et la réglementation de l’Union européenne.
 
-<sup>(2)</sup> Sans préjudice de l’art. 10, les termes «appellation d’origine contrôlée», y compris son abréviation « AOC » et «vin de pays», visés à l’art. 63 de la loi fédérale sur l’Agriculture[^annexu1-lvlu1-lvlu2-7-2] sont réservés aux vins originaires de Suisse et ne peuvent être utilisés que dans les conditions prévues par la législation suisse.
+<sup>(2)</sup> Sans préjudice de l’art. 10, les termes «appellation d’origine contrôlée», y compris son abréviation «AOC» et «vin de pays», visés à l’art. 63 de la loi fédérale sur l’Agriculture[^annex7-lvlu1-titII-7-2] sont réservés aux vins originaires de Suisse et ne peuvent être utilisés que dans les conditions prévues par la législation suisse.
 
 Le terme «vin de table» visé à l’art. 63 de la loi fédérale sur l’Agriculture est réservé aux vins originaires de Suisse et ne peut être utilisé que dans les conditions prévues par la législation suisse.
 
-[^annexu1-lvlu1-lvlu2-7-1]: JO L 193 du 24.7.2009, pp. 60–139
-[^annexu1-lvlu1-lvlu2-7-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^annex7-lvlu1-titII-7-1]: JO L 193 du 24.7.2009, pp. 60–139
+[^annex7-lvlu1-titII-7-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 8
 
@@ -2704,9 +2725,9 @@ Les titres I et II ne sont pas applicables aux produits vitivinicoles visés à 
 - (a) transitent par le territoire d’une des Parties, ou
 - (b) sont originaires du territoire d’une des Parties et sont échangés entre celles-ci par petites quantités, aux conditions et selon les modalités établies à l’appendice 5 de la présente annexe.
 
-<sup>(2)</sup> L’application de l’échange de lettres entre la Communauté et la Suisse relatif à la coopération en matière de contrôle officiel des vins[^annexu1-lvlu1-titIV-25-1], signé le 15 octobre 1984 à Bruxelles, est suspendue tant que la présente annexe est en vigueur.
+<sup>(2)</sup> L’application de l’échange de lettres entre la Communauté et la Suisse relatif à la coopération en matière de contrôle officiel des vins[^annex7-lvlu1-titIV-25-1], signé le 15 octobre 1984 à Bruxelles, est suspendue tant que la présente annexe est en vigueur.
 
-[^annexu1-lvlu1-titIV-25-1]: [RO 1984 1317](https://fedlex.data.admin.ch/eli/oc/1984/1317_1317_1317)
+[^annex7-lvlu1-titIV-25-1]: [RO 1984 1317](https://fedlex.data.admin.ch/eli/oc/1984/1317_1317_1317)
 
 #### Art. 26
 
@@ -2852,7 +2873,7 @@ Par dérogation à l’art. 10 de l’ordonnance, les règles de désignation et
   Aux fins de l’application de la présente annexe, le règlement est adapté comme suit:
 
   - (a) par dérogation à l’art. 118 sexvicies, par. 1, point (a), les dénominations de catégorie sont remplacées par les dénominations spécifiques telles que prévues à l’art. 9 de l’ordonnance du DFI sur les boissons alcooliques;
-  - (b) par dérogation à l’art. 118 sexvicies, par. 1, point (b) tiret (i) les termes « appellation d’origine protégée » et « indication géographique protégée » sont respectivement remplacés par « appellation d’origine contrôlée » et « vin de pays »;
+  - (b) par dérogation à l’art. 118 sexvicies, par. 1, point (b) tiret (i) les termes «appellation d’origine protégée» et «indication géographique protégée» sont respectivement remplacés par «appellation d’origine contrôlée» et «vin de pays»;
   - (c) par dérogation à l’art. 118 sexvicies, par. 1, point (f), l’indication de l’importateur peut être remplacée par celle du producteur, de l’encaveur, du négociant ou de l’embouteilleur suisse;
 
 - 2) Règlement (CE) n<sup>o</sup> 607/2009 de la Commission, du 14 juillet 2009, fixant certaines modalités d’application du règlement (CE) n<sup>o</sup> 479/2008 du Conseil en ce qui concerne les appellations d’origine protégées et les indications géographiques protégées, les mentions traditionnelles, l’étiquetage et la présentation de certains produits du secteur vitivinicole (JO L 193 du 24.7.2009, p. 60.), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 670/2011 de la Commission du 12 juillet 2011 (JO L 183 du 13.7.2011, p.6).
@@ -2887,7 +2908,7 @@ Document d’accompagnement<sup>(1)</sup> pour le transport de produits vitivini
 <tr><td>1. Exportateur (nom et adresse)</td><td colspan="3">2. Numéro de référence</td></tr>
 <tr><td></td><td colspan="3">4. Autorité compétente suisse du lieu de départ (nom et adresse)</td></tr>
 <tr><td>3. Destinataire (nom et adresse)</td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="3">6. Date d'expédition</td></tr>
+<tr><td></td><td colspan="3">6. Date d’expédition</td></tr>
 <tr><td>5. Transporteur et autres indications se référant au transport</td><td colspan="3">7. Lieu de livraison</td></tr>
 <tr><td colspan="3">8. Désignation du produit</td><td>9. Quantité</td></tr>
 <tr><td colspan="3">10. Indications complémentaires</td><td>11. Lot (numéro)</td></tr>
@@ -2899,9 +2920,8 @@ Document d’accompagnement<sup>(1)</sup> pour le transport de produits vitivini
 <tr><td colspan="2"></td><td colspan="2">18. Signature</td></tr>
 </table>
 
-<sup>(1)</sup> Conformément à l’annexe 7, app. 1, let. B, ch. 9 de l’Ac. du 21 juin 1999 entre la CE et la Suisse relatif aux échanges de produits agricoles.
-
-<sup>(2)</sup> La zone viticole retenue pour l’établissement du présent document est le territoire de la Confédération suisse.
+- <sup>(1)</sup> Conformément à l’annexe 7, app. 1, let. B, ch. 9 de l’Ac. du 21 juin 1999 entre la CE et la Suisse relatif aux échanges de produits agricoles.
+- <sup>(2)</sup> La zone viticole retenue pour l’établissement du présent document est le territoire de la Confédération suisse.
 
 Appendice 4
 
@@ -2933,29 +2953,28 @@ Vin de pays des Jardins de Wallonie
 
 Vlaamse landwijn
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-appellation d’origine contrôlée AOP Français
-
-gecontroleerde oorsprongsbenaming AOP Néerlandais
-
-Vin de pays IGP Français
-
-Landwijn IGP Néerlandais
+<table>
+<tr><td>appellation d’origine contrôlée</td><td>AOP</td><td>Français</td></tr>
+<tr><td>gecontroleerde oorsprongsbenaming</td><td>AOP</td><td>Néerlandais</td></tr>
+<tr><td>Vin de pays</td><td>IGP</td><td>Français</td></tr>
+<tr><td>Landwijn</td><td>IGP</td><td>Néerlandais</td></tr>
+</table>
 
 ### Bulgarie
 
 ### Vins avec appellations d’origine protégées
 
-Асеновград *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Асеновград *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Asenovgrad
 
-Болярово *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Болярово *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Bolyarovo
 
-Брестник *suivie ou non d’une sous-région* *et/ou d’une plus petite unité géograph**i**que*
+Брестник *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Brestnik
 
@@ -2963,7 +2982,7 @@ Landwijn IGP Néerlandais
 
 *Terme équivalent:* Varna
 
-Велики Преслав *suivie ou non d’une sous-région et/ou d’une plus petite unité g**éographique*
+Велики Преслав *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Veliki Preslav
 
@@ -2975,7 +2994,7 @@ Landwijn IGP Néerlandais
 
 *Terme équivalent:* Vratsa
 
-Върбица *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Върбица *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Varbitsa
 
@@ -2983,23 +3002,23 @@ Landwijn IGP Néerlandais
 
 *Terme équivalent:* Struma valley
 
-Драгоево *sui**vie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Драгоево *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Dragoevo
 
-Евксиноград *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Евксиноград *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Evksinograd
 
-Ивайловград *suivie ou non d’une sous**-région et/ou d’une plus petite unité géogr**a**phique*
+Ивайловград *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Ivaylovgrad
 
-Карлово *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Карлово *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Karlovo
 
-Карнобат *suivie ou non d’une sous-région et/ou d’une plus peti**te unité géograph**i**que*
+Карнобат *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Karnobat
 
@@ -3009,129 +3028,129 @@ Landwijn IGP Néerlandais
 
 Лозицa *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
-*Terme équivale**nt:* Lozitsa
+*Terme équivalent:* Lozitsa
 
 Лом *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Lom
 
-Любимец *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Любимец *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Lyubimets
 
-Лясковец *suivie ou non d’un**e sous-région et/ou d’une plus petite unité géograph**i**que*
+Лясковец *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Lyaskovets
 
-Мелник *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Мелник *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Melnik
 
-Монтана *suivie ou non d’une sous-région et/ou d’une plus pe**tite unité géograph**i**que*
+Монтана *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Montana
 
-Нова Загора *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Нова Загора *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Nova Zagora
 
-Нови Пазар *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Нови Пазар *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Novi Pazar
 
-Ново село *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Ново село *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Novo Selo
 
-Оряховица *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Оряховица *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Oryahovitsa
 
-Павликени *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Павликени *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Pavlikeni
 
-Пазарджик *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Пазарджик *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Pazardjik
 
-Перущица *suivie ou* *non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Перущица *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Perushtitsa
 
-Плевен *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Плевен *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Pleven
 
-Пловдив *suivie ou non d’une sous-région et/ou d’u**ne plus petite unité géograph**i**que*
+Пловдив *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Plovdiv
 
-Поморие *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Поморие *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Pomorie
 
 Русе *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
-*Te**rme équivalent:* Ruse
+*Terme équivalent:* Ruse
 
 Сакар *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Sakar
 
-Сандански *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Сандански *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Sandanski
 
-Свищов *suivi**e ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Свищов *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Svishtov
 
-Септември *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Септември *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Septemvri
 
-Славянци *suivie ou non d’une sous-région e**t/ou d’une plus petite unité géograph**i**que*
+Славянци *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Slavyantsi
 
-Сливен *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Сливен *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Sliven
 
-Стамболово *suivie ou non d’une sous-région et/ou d’une plus petite unité g**éogr**a**phique*
+Стамболово *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Stambolovo
 
-Стара Загора *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Стара Загора *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Stara Zagora
 
-Сунгурларе *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Сунгурларе *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
-*Terme* *équivalent:* Sungurlare
+*Terme équivalent:* Sungurlare
 
-Сухиндол *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Сухиндол *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Suhindol
 
-Търговище *suivie ou non d’une sous-région et/ou d’une plus petite unité géogr**a**phique*
+Търговище *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Targovishte
 
-Хан Крум *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Хан Крум *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Han Krum
 
-Хасково *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Хасково *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Haskovo
 
-Хисаря *suivie ou non d’une sous-ré**gion et/ou d’une plus petite unité géograph**i**que*
+Хисаря *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Hisarya
 
-Хърсово *suivie ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Хърсово *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Harsovo
 
@@ -3143,11 +3162,11 @@ Landwijn IGP Néerlandais
 
 *Terme équivalent:* Northen Black Sea Region
 
-Шивачево suivie ou non d’une sous-région et/ou d’une plus petite unité géogra*ph**i**q**ue*
+Шивачево suivie ou non d’une sous-région et/ou d’une plus petite unité géogra*phique*
 
 *Terme équivalent:* Shivachevo
 
-Шумен suivie *ou non d’une sous-région et/ou d’une plus petite unité géograph**i**que*
+Шумен suivie *ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
 *Terme équivalent:* Shumen
 
@@ -3165,63 +3184,34 @@ Landwijn IGP Néerlandais
 
 *Terme équivalent:* Thracian Lowlands
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Благородно сладко вино (БСВ) AOP Bulgare
+<table>
+<tr><td>Благородно сладко вино (БСВ)</td><td>AOP</td><td>Bulgare</td></tr>
+<tr><td>Гарантирано и контролирано наименование за произход (ГКНП)</td><td>AOP</td><td>Bulgare</td></tr>
+<tr><td>Гарантирано наименование за произход (ГНП)</td><td>AOP</td><td>Bulgare</td></tr>
+<tr><td>Pегионално вино (Regional wine)</td><td>IGP</td><td>Bulgare</td></tr>
+</table>
 
-Гарантирано и контролирано
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-наименование за произход (ГКНП) AOP Bulgare
-
-Гарантирано наименование за произход
-
-(ГНП) AOP Bulgare
-
-Pегионално вино (Regional wine) IGP Bulgare
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Колекционно
-
-(collection) AOP Bulgare
-
-Ново
-
-(young) AOP/IGP Bulgare
-
-Премиум
-
-(premium) IGP Bulgare
-
-Премиум оук, или първо зареждане в бъчва
-
-(premium oak) AOP Bulgare
-
-Премиум резерва
-
-(premium reserve) IGP Bulgare
-
-Резерва
-
-(reserve) AOP/IGP Bulgare
-
-Розенталер
-
-(Rosenthaler) AOP Bulgare
-
-Специална селекция
-
-(special selection) AOP Bulgare
-
-Специална резерва
-
-(special reserve) AOP Bulgare
+<table>
+<tr><td>Колекционно (collection)</td><td>AOP</td><td>Bulgare</td></tr>
+<tr><td>Ново (young)</td><td>AOP/IGP</td><td>Bulgare</td></tr>
+<tr><td>Премиум (premium)</td><td>IGP</td><td>Bulgare</td></tr>
+<tr><td>Премиум оук, или първо зареждане в бъчва (premium oak)</td><td>AOP</td><td>Bulgare</td></tr>
+<tr><td>Премиум резерв (premium reserve)</td><td>IGP</td><td>Bulgare</td></tr>
+<tr><td>Резерва (reserve)</td><td>AOP/IGP</td><td>Bulgare</td></tr>
+<tr><td>Розенталер (Rosenthaler)</td><td>AOP</td><td>Bulgare</td></tr>
+<tr><td>Специална селекция (special selection)</td><td>AOP</td><td>Bulgare</td></tr>
+<tr><td>Специална резерва (special reserve)</td><td>AOP</td><td>Bulgare</td></tr>
+</table>
 
 ### République Tchèque
 
 ### Vins avec appellations d’origine protégées
 
-Čechy *suivie ou non d**e* Litoměřická
+Čechy *suivie ou non de* Litoměřická
 
 Čechy *suivie ou non de* Mělnická
 
@@ -3239,83 +3229,49 @@ Morava *suivie ou non de* Znojemská
 
 Moravské
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-aromatické jakostní šumivé víno
+<table>
+<tr><td>aromatické jakostní šumivé víno stanovené oblasti</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>aromatický sekt s.o.</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>jakostní likérové víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>jakostní perlivé víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>jakostní šumivé víno stanovené oblasti</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>jakostní víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>jakostní víno odrůdové</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>jakostní víno s přívlastkem</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>jakostní víno známkové</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>V.O.C</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>víno originální certifikace</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>víno s přívlastkem kabinetní víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>víno s přívlastkem ledové víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>víno s přívlastkem pozdní sběr</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>víno s přívlastkem slámové víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>víno s přívlastkem výběr z bobulí</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>víno s přívlastkem výběr z cibéb</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>víno s přívlastkem výběr z hroznů</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Víno origininální certifikace (VOC or V.O.C.)</td><td>IGP</td><td>Tchèque</td></tr>
+<tr><td>zemské víno</td><td>IGP</td><td>Tchèque</td></tr>
+</table>
 
-stanovené oblasti AOP Tchèque
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-aromatický sekt s.o. AOP Tchèque
-
-jakostní likérové víno AOP Tchèque
-
-jakostní perlivé víno AOP Tchèque
-
-jakostní šumivé víno stanovené oblasti AOP Tchèque
-
-jakostní víno AOP Tchèque
-
-jakostní víno odrůdové AOP Tchèque
-
-jakostní víno s přívlastkem AOP Tchèque
-
-jakostní víno známkové AOP Tchèque
-
-V.O.C AOP Tchèque
-
-víno originální certifikace AOP Tchèque
-
-víno s přívlastkem kabinetní víno AOP Tchèque
-
-víno s přívlastkem ledové víno AOP Tchèque
-
-víno s přívlastkem pozdní sběr AOP Tchèque
-
-víno s přívlastkem slámové víno AOP Tchèque
-
-víno s přívlastkem výběr z bobulí AOP Tchèque
-
-víno s přívlastkem výběr z cibéb AOP Tchèque
-
-víno s přívlastkem výběr z hroznů AOP Tchèque
-
-Víno origininální certifikace
-
-(VOC or V.O.C.) IGP Tchèque
-
-zemské víno IGP Tchèque
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Archivní víno AOP Tchèque
-
-Burčák AOP Tchèque
-
-Klaret AOP Tchèque
-
-Košer, Košer víno AOP Tchèque
-
-Labín AOP Tchèque
-
-Mladé víno AOP Tchèque
-
-Mešní víno AOP Tchèque
-
-Panenské víno, Panenská sklizeň AOP Tchèque
-
-Pěstitelský sekt (\*) AOP Tchèque
-
-Pozdní sběr AOP Tchèque
-
-Premium AOP Tchèque
-
-Rezerva AOP Tchèque
-
-Růžák, Ryšák AOP Tchèque
-
-Zrálo na kvasnicích, Krášleno na
-
-kvasnicích, Školeno na kvasnicích AOP Tchèque
+<table>
+<tr><td>Archivní víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Burčák</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Klaret</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Košer, Košer víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Labín</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Mladé víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Mešní víno</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Panenské víno, Panenská sklizeň</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Pěstitelský sekt (\*)</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Pozdní sběr</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Premium</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Rezerva</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Růžák, Ryšák</td><td>AOP</td><td>Tchèque</td></tr>
+<tr><td>Zrálo na kvasnicích, Krášleno na kvasnicích, Školeno na kvasnicích</td><td>AOP</td><td>Tchèque</td></tr>
+</table>
 
 ### Allemagne
 
@@ -3401,54 +3357,31 @@ Starkenburger
 
 Taubertäler
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Prädikatswein (Qualitätswein mit Prädikat(\*)), *suivi de*
+<table>
+<tr><td>Prädikatswein (Qualitätswein mit Prädikat(\*)), suivi de: – Kabinett – Spätlese – Auslese – Beerenauslese – Trockenbeerenauslese – Eiswein</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Qualitätswein, *suivi ou non de* b.A. (Qualitätswein bestimmter Anbaugebiete)</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Qualitätslikörwein, *suivi ou non de* b.A. (Qualitätslikörwein bestimmter Anbaugebiete)</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Qualitätsperlwein, *suivi ou non de* b.A. (Qualitätsperlwein bestimmter Anbaugebiete)</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Sekt b.A. (Sekt bestimmter Anbaugebiete)</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Landwein</td><td>IGP</td><td>Allemand</td></tr>
+<tr><td>Winzersekt</td><td>AOP</td><td>Allemand</td></tr>
+</table>
 
-- – Kabinett
-- – Spätlese
-- – Auslese
-- – Beerenauslese
-- – Trockenbeerenauslese
-- – Eiswein AOP Allemand
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-Qualitätswein, *suivi ou non de* b.A.
-
-(Qualitätswein bestimmter Anbaugebiete) AOP Allemand
-
-Qualitätslikörwein, *suivi ou non de* b.A.
-
-(Qualitätslikörwein bestimmter Anbaugebiete) AOP Allemand
-
-Qualitätsperlwein, *suivi ou non de* b.A.
-
-(Qualitätsperlwein bestimmter Anbaugebiete) AOP Allemand
-
-Sekt b.A. (Sekt bestimmter Anbaugebiete) AOP Allemand
-
-Landwein IGP Allemand
-
-Winzersekt AOP Allemand
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Affentaler AOP Allemand
-
-Badisch Rotgold AOP Allemand
-
-Ehrentrudis AOP Allemand
-
-Hock AOP Allemand
-
-Klassik/Classic AOP Allemand
-
-Liebfrau(en)milch AOP Allemand
-
-Riesling-Hochgewächs AOP Allemand
-
-Schillerwein AOP Allemand
-
-Weissherbst AOP Allemand
+<table>
+<tr><td>Affentaler</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Badisch Rotgold</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Ehrentrudis</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Hock</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Klassik/Classic</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Liebfrau(en)milch</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Riesling-Hochgewächs</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Schillerwein</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Weissherbst</td><td>AOP</td><td>Allemand</td></tr>
+</table>
 
 ### Grèce
 
@@ -3660,11 +3593,11 @@ Toπικός Οίνος Μαγνησίας
 
 *Terme équivalent:* Regional wine of Peloponnese-Peloponnesiakos
 
-Ρετσίνα Αττικής *peut être accompagné du nom d**’**une plus petite unité géograph**i**que*
+Ρετσίνα Αττικής *peut être accompagné du nom d**’**une plus petite unité géographique*
 
 *Terme équivalent:* Retsina of Attiki
 
-Ρετσίνα Βοιωτίας *peut être accompagné du nom d**’**une plus petite unité g**éograph**i**que*
+Ρετσίνα Βοιωτίας *peut être accompagné du nom d**’**une plus petite unité géographique*
 
 *Terme équivalent:* Retsina of Viotia
 
@@ -3672,7 +3605,7 @@ Toπικός Οίνος Μαγνησίας
 
 *Terme équivalent:* Retsina of Gialtra
 
-Ρετσίνα Ευβοίας *peut être accompagné du nom d**’**une plus petite unité géograph**i**que*
+Ρετσίνα Ευβοίας *peut être accompagné du nom d**’**une plus petite unité géographique*
 
 *Terme équivalent:* Retsina of Evvia
 
@@ -3746,7 +3679,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Αργολίδας
 
-*Terme équival**ent:* Regional wine of Argolida
+*Terme équivalent:* Regional wine of Argolida
 
 Τοπικός Οίνος Αρκαδίας
 
@@ -3806,7 +3739,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Ιλίου
 
-*Terme équivalen**t:* Regional wine of Ilion
+*Terme équivalent:* Regional wine of Ilion
 
 Τοπικός Οίνος Ιωαννίνων
 
@@ -3850,7 +3783,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Κρανιάς
 
-*Terme équivale**nt:* Regional wine of Krania
+*Terme équivalent:* Regional wine of Krania
 
 Τοπικός Οίνος Κραννώνος
 
@@ -3922,7 +3855,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Πλαγιές Αιγιαλείας
 
-*Terme éq**uivalent:* Regional wine of Slopes of Egialia
+*Terme équivalent:* Regional wine of Slopes of Egialia
 
 Τοπικός Οίνος Πλαγιές Αμπέλου
 
@@ -3934,7 +3867,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Πλαγίες Πάικου
 
-*Terme* *équivalent:* Regional wine of Slopes of Paiko
+*Terme équivalent:* Regional wine of Slopes of Paiko
 
 Τοπικός Οίνος Πλαγιές του Αίνου
 
@@ -3946,7 +3879,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Πλαγιών Κνημίδος
 
-*Terme* *équivalent:* Regional wine of Slopes of Knimida
+*Terme équivalent:* Regional wine of Slopes of Knimida
 
 Τοπικός Οίνος Πλαγιών Πάρνηθας
 
@@ -4002,7 +3935,7 @@ Toπικός Οίνος Μαγνησίας
 
 Τοπικός Οίνος Φλώρινας
 
-*Term**e équivalent:* Regional wine of Florina
+*Terme équivalent:* Regional wine of Florina
 
 Τοπικός Οίνος Χαλικούνας
 
@@ -4012,117 +3945,42 @@ Toπικός Οίνος Μαγνησίας
 
 *Terme équivalent:* Regional wine of Halkidiki
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Ονομασία Προέλευσης Ανωτέρας
+<table>
+<tr><td>Ονομασία Προέλευσης Ανωτέρας Ποιότητας (ΟΠΑΠ) *(appellation d’origine de qualité supérieure)*</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Ονομασία Προέλευσης Ελεγχόμενη (ΟΠΕ) *(**appellation d**’**origine contrôlée**)*</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Οίνος γλυκός φυσικός *(vin doux naturel)*</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Οίνος φυσικώς γλυκύς *(vin naturellement doux)*</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>ονομασία κατά παράδοση *(appellation traditionnelle)*</td><td>IGP</td><td>Grec</td></tr>
+<tr><td>τοπικός οίνος *(vin de pays)*</td><td>IGP</td><td>Grec</td></tr>
+</table>
 
-Ποιότητας (ΟΠΑΠ)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-*(appellation d’origine de qualité supérie**u**re)* AOP Grec
-
-Ονομασία Προέλευσης Ελεγχόμενη (ΟΠΕ)
-
-*(appellation d**’**origine contr**ô**lée)* AOP Grec
-
-Οίνος γλυκός φυσικός
-
-*(vin doux naturel)* AOP Grec
-
-Οίνος φυσικώς γλυκύς
-
-*(vin naturellement doux)* AOP Grec
-
-ονομασία κατά παράδοση *(appellation*
-
-*traditionne**l**le)* IGP Grec
-
-τοπικός οίνος
-
-*(vin de pays)* IGP Grec
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Αγρέπαυλη
-
-(Agrepavlis) AOP/IGP Grec
-
-Αμπέλι
-
-(Ampeli) AOP/IGP Grec
-
-Αμπελώνας(ες)
-
-(Ampelonas (-ès)) AOP/IGP Grec
-
-Αρχοντικό
-
-(Archontiko) AOP/IGP Grec
-
-Κάβα
-
-(Cava) IGP Grec
-
-Από διαλεκτούς αμπελώνες
-
-(Grand Cru) AOP Grec
-
-Ειδικά Επιλεγμένος
-
-(Grande réserve) AOP Grec
-
-Κάστρο
-
-(Kastro) AOP/IGP Grec
-
-Κτήμα
-
-(Ktima) AOP/IGP Grec
-
-Λιαστός
-
-(Liastos) AOP/IGP Grec
-
-Μετόχι
-
-(Metochi) AOP/IGP Grec
-
-Μοναστήρι
-
-(Monastiri) AOP/IGP Grec
-
-Νάμα
-
-(Nama) AOP/IGP Grec
-
-Νυχτέρι
-
-(Nychteri) AOP Grec
-
-Ορεινό κτήμα
-
-(Orino Ktima) AOP/IGP Grec
-
-Ορεινός αμπελώνας
-
-(Orinos Ampelonas) AOP/IGP Grec
-
-Πύργος
-
-(Pyrgos) AOP/IGP Grec
-
-Επιλογή ή Επιλεγμένος
-
-(Réserve) AOP Grec
-
-Παλαιωθείς επιλεγμένος
-
-(Vieille réserve) AOP Grec
-
-Βερντέα
-
-(Verntea) IGP Grec
-
-Vinsanto AOP Latin
+<table>
+<tr><td>Αγρέπαυλη (Agrepavlis)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Αμπέλι (Ampeli)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Αμπελώνας(ες) (Ampelonas (-ès))</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Αρχοντικό (Archontiko)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Κάβα (Cava)</td><td>IGP</td><td>Grec</td></tr>
+<tr><td>Από διαλεκτούς αμπελώνες (Grand Cru)</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Ειδικά Επιλεγμένος (Grande réserve)</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Κάστρο (Kastro)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Κτήμα (Ktima)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Λιαστός (Liastos)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Μετόχι (Metochi)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Μοναστήρι (Monastiri)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Νάμα (Nama)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Νυχτέρι (Nychteri)</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Ορεινό κτήμα (Orino Ktima)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Ορεινός αμπελώνας (Orinos Ampelonas)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Πύργος (Pyrgos)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Επιλογή ή Επιλεγμένος (Réserve)</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Παλαιωθείς επιλεγμένος (Vieille réserve)</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Βερντέα (Verntea)</td><td>IGP</td><td>Grec</td></tr>
+<tr><td>Vinsanto</td><td>AOP</td><td>Latin</td></tr>
+</table>
 
 ### Espagne
 
@@ -4466,91 +4324,56 @@ Valles de Sadacia
 
 Villaviciosa de Córdoba
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-D.O AOP Espagnol
+<table>
+<tr><td>D.O</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>D.O.Ca</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Denominacion de origen</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Denominacion de origen calificada</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>vino de calidad con indicación geográfica</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>vino de pago</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>vino de pago calificado</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Vino dulce natural</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Vino generoso</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Vino generoso de licor</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Vino de la Tierra</td><td>IGP</td><td>Espagnol</td></tr>
+</table>
 
-D.O.Ca AOP Espagnol
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-Denominacion de origen AOP Espagnol
-
-Denominacion de origen calificada AOP Espagnol
-
-vino de calidad con indicación geográfica AOP Espagnol
-
-vino de pago AOP Espagnol
-
-vino de pago calificado AOP Espagnol
-
-Vino dulce natural AOP Espagnol
-
-Vino generoso AOP Espagnol
-
-Vino generoso de licor AOP Espagnol
-
-Vino de la Tierra IGP Espagnol
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Amontillado AOP Espagnol
-
-Añejo AOP/IGP Espagnol
-
-Chacolí-Txakolina AOP Espagnol
-
-Clásico AOP Espagnol
-
-Cream AOP Espagnol
-
-Criadera AOP Espagnol
-
-Criaderas y Soleras AOP Espagnol
-
-Crianza AOP Espagnol
-
-Dorado AOP Espagnol
-
-Fino AOP Espagnol
-
-Fondillón AOP Espagnol
-
-Gran reserva AOP Espagnol
-
-Lágrima AOP Espagnol
-
-Noble AOP/IGP Espagnol
-
-Oloroso AOP Espagnol
-
-Pajarete AOP Espagnol
-
-Pálido AOP Espagnol
-
-Palo Cortado AOP Espagnol
-
-Primero de Cosecha AOP Espagnol
-
-Rancio AOP Espagnol
-
-Raya AOP Espagnol
-
-Reserva AOP Espagnol
-
-Sobremadre AOP Espagnol
-
-Solera AOP Espagnol
-
-Superior AOP Espagnol
-
-Trasañejo AOP Espagnol
-
-Vino Maestro AOP Espagnol
-
-Vendimia Inicial AOP Espagnol
-
-Viejo AOP/IGP Espagnol
-
-Vino de Tea AOP Espagnol
+<table>
+<tr><td>Amontillado</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Añejo</td><td>AOP/IGP</td><td>Espagnol</td></tr>
+<tr><td>Chacolí-Txakolina</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Clásico</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Cream</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Criadera</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Criaderas y Soleras</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Crianza</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Dorado</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Fino</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Fondillón</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Gran reserva</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Lágrima</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Noble</td><td>AOP/IGP</td><td>Espagnol</td></tr>
+<tr><td>Oloroso</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Pajarete</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Pálido</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Palo Cortado</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Primero de Cosecha</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Rancio</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Raya</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Reserva</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Sobremadre</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Solera</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Superior</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Trasañejo</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Vino Maestro</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Vendimia Inicial</td><td>AOP</td><td>Espagnol</td></tr>
+<tr><td>Viejo</td><td>AOP/IGP</td><td>Espagnol</td></tr>
+<tr><td>Vino de Tea</td><td>AOP</td><td>Espagnol</td></tr>
+</table>
 
 ### France
 
@@ -4720,31 +4543,31 @@ Bourg
 
 *Terme équivalent:* Côtes de Bourg/Bourgeais
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Chitry
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Chitry
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Côte Chalonnaise
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Côte Chalonnaise
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Côte Saint-Jacques
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Côte Saint-Jacques
 
 Bourgogne *suivie ou non de* «Clairet», «Rosé» *’ ou du nom d’une plus petite unité géographique* Côtes d’Auxerre
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Côtes du Couchois
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Côtes du Couchois
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Coulanges-la-Vineuse
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Coulanges-la-Vineuse
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Épineuil
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Épineuil
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Hautes Côtes de Beaune
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Hautes Côtes de Beaune
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Hautes Côtes de Nuits
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Hautes Côtes de Nuits
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* La Chapelle Notre-Dame
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* La Chapelle Notre-Dame
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Le Chapitre
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Le Chapitre
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Montrecul/Montre-cul/En Montre-Cul
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Montrecul/Montre-cul/En Montre-Cul
 
-Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité gé**o**graphique* Vézelay
+Bourgogne *suivie ou non de* «Clairet», «Rosé» *ou du nom d’une plus petite unité géographique* Vézelay
 
 Bourgogne *suivie ou non de* «Clairet», «Rosé»*,* «ordinaire» *ou* «grand ordinaire»
 
@@ -4758,7 +4581,7 @@ Bouzeron
 
 Brouilly
 
-Bugey *suivie ou non du nom d’une plus petite unité géographique* *précédée ou non de «Vins du&gt;, «Mousseux du», «Pétillant» ou «Roussette du», ou suivie ou non de «Mousseux» ou «Pétillant»* *suivie ou non du nom d’une plus petite unité géograph**i**que*
+Bugey *suivie ou non du nom d’une plus petite unité géographique* *précédée ou non de «Vins du&gt;, «Mousseux du», «Pétillant» ou «Roussette du», ou suivie ou non de «Mousseux» ou «Pétillant»* *suivie ou non du nom d’une plus petite unité géographique*
 
 Buzet
 
@@ -5068,7 +4891,7 @@ Côtes du Rhône
 
 Côtes du Roussillon *suivie ou non de* Les Aspres
 
-Côtes du Roussillon Villages *suivie ou non du nom d’une plus petite unité géogr**a**phique*
+Côtes du Roussillon Villages *suivie ou non du nom d’une plus petite unité géographique*
 
 Côtes du Ventoux
 
@@ -5344,7 +5167,7 @@ Pouilly-Vinzelles
 
 Premières Côtes de Blaye
 
-Premières Côtes de Bordeaux *suivie ou non du nom d’une plus petite unité géogr**a**phique*
+Premières Côtes de Bordeaux *suivie ou non du nom d’une plus petite unité géographique*
 
 Puisseguin-Saint-Emilion
 
@@ -5812,67 +5635,40 @@ Yonne
 
 ### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
 
-Appellation contrôlée AOP Français
+<table>
+<tr><td>Appellation contrôlée</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Appellation d’origine contrôlée</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Appellation d’origine Vin Délimité de qualité supérieure</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Vin doux naturel</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Vin de pays</td><td>IGP</td><td>Français</td></tr>
+</table>
 
-Appellation d’origine contrôlée AOP Français
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-Appellation d’origine
-
-Vin Délimité de qualité supérieure AOP Français
-
-Vin doux naturel AOP Français
-
-Vin de pays IGP Français
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Ambré AOP Français
-
-Clairet AOP Français
-
-Claret AOP Français
-
-Tuilé AOP Français
-
-Vin jaune AOP Français
-
-Château AOP Français
-
-Clos AOP Français
-
-Cru artisan AOP Français
-
-Cru bourgeois AOP Français
-
-Cru classé, *suivi ou non de* Grand,
-
-Premier Grand, Deuxième, Troisième,
-
-Quatrième, Cinquième AOP Français
-
-Edelzwicker AOP Français
-
-Grand cru AOP Français
-
-Hors d’âge AOP Français
-
-Passe-tout-grains AOP Français
-
-Premier Cru AOP Français
-
-Primeur AOP/IGP Français
-
-Rancio AOP Français
-
-Sélection de grains nobles AOP Français
-
-Sur lie AOP/IGP Français
-
-Vendanges tardives AOP Français
-
-Villages AOP Français
-
-Vin de paille AOP Français
+<table>
+<tr><td>Ambré</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Clairet</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Claret</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Tuilé</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Vin jaune</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Château</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Clos</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Cru artisan</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Cru bourgeois</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Cru classé, *suivi ou non de* Grand, Premier Grand, Deuxième, Troisième, Quatrième, Cinquième</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Edelzwicker</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Grand cru</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Hors d’âge</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Passe-tout-grains</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Premier Cru</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Primeur</td><td>AOP/IGP</td><td>Français</td></tr>
+<tr><td>Rancio</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Sélection de grains nobles</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Sur lie</td><td>AOP/IGP</td><td>Français</td></tr>
+<tr><td>Vendanges tardives</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Villages</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Vin de paille</td><td>AOP</td><td>Français</td></tr>
+</table>
 
 ### Italie
 
@@ -7100,145 +6896,82 @@ Vigneti delle Dolomiti
 
 *Terme équivalent:* Weinberg Dolomiten
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
-
-D.O.C AOP Italien
-
-D.O.C.G. AOP Italien
-
-Denominazione di Origine Controllata e Garantita AOP Italien
-
-Denominazione di Origine Controllata AOP Italien
-
-Kontrollierte und garantierte Ursprungsbezeichnung AOP Allemand
-
-Kontrollierte Ursprungsbezeichnung AOP Allemand
-
-Vino Dolce Naturale AOP Italien
-
-Inticazione geografica tipica (IGT) IGP Italien
-
-Landwein IGP Allemand
-
-Vin de pays IGP Français
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Alberata *ou* vigneti ad alberata AOP Italien
-
-Amarone AOP Italien
-
-Ambra AOP Italien
-
-Ambrato AOP Italien
-
-Annoso AOP Italien
-
-Apianum AOP Italien
-
-Auslese AOP Italien
-
-Buttafuoco AOP Italien
-
-Cannellino AOP Italien
-
-Cerasuolo AOP Italien
-
-Chiaretto AOP/IGP Italien
-
-Ciaret AOP Italien
-
-Château AOP Français
-
-Classico AOP Italien
-
-Dunkel AOP Allemand
-
-Fine AOP Italien
-
-Fior d’Arancio AOP Italien
-
-Flétri AOP Français
-
-Garibaldi Dolce (or GD) AOP Italien
-
-Governo all’uso toscano AOP/IGP Italien
-
-Gutturnio AOP Italien
-
-Italia Particolare (or IP) AOP Italien
-
-Klassisch/Klassisches Ursprungsgebiet AOP Allemand
-
-Kretzer AOP Allemand
-
-Lacrima AOP Italien
-
-Lacryma Christi AOP Italien
-
-Lambiccato AOP Italien
-
-London Particolar (or LP or Inghilterra) AOP Italien
-
-Occhio di Pernice AOP Italien
-
-Oro AOP Italien
-
-Passito *ou* Vino passito *ou*
-
-Vino Passito Liquoroso AOP/IGP Italien
-
-Ramie AOP Italien
-
-Rebola AOP Italien
-
-Recioto AOP Italien
-
-Riserva AOP Italien
-
-Rubino AOP Italien
-
-Sangue di Giuda AOP Italien
-
-Scelto AOP Italien
-
-Sciacchetrà AOP Italien
-
-Sciac-trà AOP Italien
-
-Spätlese AOP/IGP Allemand
-
-Soleras AOP Italien
-
-Stravecchio AOP Italien
-
-Strohwein AOP/IGP Allemand
-
-Superiore AOP Italien
-
-Superiore Old Marsala AOP Italien
-
-Torchiato AOP Italien
-
-Torcolato AOP Italien
-
-Vecchio AOP Italien
-
-Vendemmia Tardiva AOP/IGP Italien
-
-Verdolino AOP Italien
-
-Vergine AOP Italien
-
-Vermiglio AOP Italien
-
-Vino Fiore AOP Italien
-
-Vino Novello *ou* Novello AOP/IGP Italien
-
-Vin Santo *ou* Vino Santo *ou* Vinsanto AOP Italien
-
-Vivace AOP/IGP Italien
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
+
+<table>
+<tr><td>D.O.C</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>D.O.C.G.</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Denominazione di Origine Controllata e Garantita</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Denominazione di Origine Controllata</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Kontrollierte und garantierte Ursprungsbezeichnung</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Kontrollierte Ursprungsbezeichnung</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Vino Dolce Naturale</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Inticazione geografica tipica (IGT)</td><td>IGP</td><td>Italien</td></tr>
+<tr><td>Landwein</td><td>IGP</td><td>Allemand</td></tr>
+<tr><td>Vin de pays</td><td>IGP</td><td>Français</td></tr>
+</table>
+
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
+
+<table>
+<tr><td>Alberata *ou* vigneti ad alberata</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Amarone</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Ambra</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Ambrato</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Annoso</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Apianum</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Auslese</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Buttafuoco</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Cannellino</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Cerasuolo</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Chiaretto</td><td>AOP/IGP</td><td>Italien</td></tr>
+<tr><td>Ciaret</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Château</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Classico</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Dunkel</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Fine</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Fior d’Arancio</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Flétri</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Garibaldi Dolce (or GD)</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Governo all’uso toscano</td><td>AOP/IGP</td><td>Italien</td></tr>
+<tr><td>Gutturnio</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Italia Particolare (or IP)</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Klassisch/Klassisches Ursprungsgebiet</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Kretzer</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Lacrima</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Lacryma Christi</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Lambiccato</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>London Particolar (or LP or Inghilterra)</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Occhio di Pernice</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Oro</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Passito *ou* Vino passito *ou* Vino Passito Liquoroso</td><td>AOP/IGP</td><td>Italien</td></tr>
+<tr><td>Ramie</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Rebola</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Recioto</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Riserva</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Rubino</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Sangue di Giuda</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Scelto</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Sciacchetrà</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Sciac-trà</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Spätlese</td><td>AOP/IGP</td><td>Allemand</td></tr>
+<tr><td>Soleras</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Stravecchio</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Strohwein</td><td>AOP/IGP</td><td>Allemand</td></tr>
+<tr><td>Superiore</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Superiore Old Marsala</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Torchiato</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Torcolato</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Vecchio</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Vendemmia Tardiva</td><td>AOP/IGP</td><td>Italien</td></tr>
+<tr><td>Verdolino</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Vergine</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Vermiglio</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Vino Fiore</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Vino Novello *ou* Novello</td><td>AOP/IGP</td><td>Italien</td></tr>
+<tr><td>Vin Santo *ou* Vino Santo *ou* Vinsanto</td><td>AOP</td><td>Italien</td></tr>
+<tr><td>Vivace</td><td>AOP/IGP</td><td>Italien</td></tr>
+</table>
 
 ### Chypre
 
@@ -7258,7 +6991,7 @@ Vivace AOP/IGP Italien
 
 Κρασοχώρια Λεμεσού *suivie ou non de* Λαόνα
 
-*Terme* *équivalent:* Krasohoria Lemesou – Laona
+*Terme équivalent:* Krasohoria Lemesou – Laona
 
 Λαόνα Ακάμα
 
@@ -7280,45 +7013,28 @@ Vivace AOP/IGP Italien
 
 Λευκωσία
 
-*Term**e équivalent:* Lefkosia
+*Terme équivalent:* Lefkosia
 
 Πάφος
 
 *Terme équivalent:* Pafos
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Οίνος γλυκύς φυσικός AOP Grec
+<table>
+<tr><td>Οίνος γλυκύς φυσικός</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Οίνος Ελεγχόμενης Ονομασίας Προέλευσης (ΟΕΟΠ)</td><td>AOP</td><td>Grec</td></tr>
+<tr><td>Τοπικός Οίνος</td><td>IGP</td><td>Grec</td></tr>
+</table>
 
-Οίνος Ελεγχόμενης Ονομασίας Προέλευσης (ΟΕΟΠ) AOP Grec
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-Τοπικός Οίνος IGP Grec
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Αμπελώνας (-ες)
-
-(Ampelonas (-es))
-
-(Vineyard(-s)) AOP/IGP Grec
-
-Κτήμα
-
-(Ktima
-
-(Domain) AOP/IGP Grec
-
-Μοναστήρι
-
-(Monastiri)
-
-(Monastery) AOP/IGP Grec
-
-Μονή
-
-(Moni)
-
-(Monastery) AOP/IGP Grec
+<table>
+<tr><td>Αμπελώνας (-ες) (Ampelonas (-es)) (Vineyard(-s))</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Κτήμα (Ktima) (Domain)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Μοναστήρι (Monastiri) (Monastery)</td><td>AOP/IGP</td><td>Grec</td></tr>
+<tr><td>Μονή (Moni) (Monastery)</td><td>AOP/IGP</td><td>Grec</td></tr>
+</table>
 
 ### Luxembourg
 
@@ -7334,30 +7050,22 @@ Moselle Luxembourgeoise *suivie de* Remerschen/Remich/Schengen/Schwebsingen/ Sta
 
 Moselle Luxembourgeoise *suivie du nom de la variété de vigne* *suivie de* Appellation contrôlée
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Crémant de Luxembourg AOP Français
+<table>
+<tr><td>Crémant de Luxembourg</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Marque nationale, suivi de: – appellation contrôlée – appellation d’origine contrôlée</td><td>AOP</td><td>Français</td></tr>
+</table>
 
-*Marque nationale, suivi de:*
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-- – appellation contrôlée
-- – appellation d’origine contrôlée AOP Français
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Château AOP Français
-
-Grand premier cru
-
-Premier cru
-
-Vin classé AOP Français
-
-Vendanges tardives AOP Français
-
-Vin de glace AOP Français
-
-Vin de paille AOP Français
+<table>
+<tr><td>Château</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Grand premier cru Premier cru Vin classé</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Vendanges tardives</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Vin de glace</td><td>AOP</td><td>Français</td></tr>
+<tr><td>Vin de paille</td><td>AOP</td><td>Français</td></tr>
+</table>
 
 ### Hongrie
 
@@ -7377,7 +7085,7 @@ Balatoni
 
 Bükk *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
-Csongrád *suivie ou non du nom* *de la sous-région, de la commune ou du domaine*
+Csongrád *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
 Debrői Hárslevelű
 
@@ -7391,7 +7099,7 @@ Egri Bikavér
 
 Egri Bikavér Superior
 
-Etyek-Buda *suivie ou non du nom de la sous-ré**gion, de la commune ou du doma**i**ne*
+Etyek-Buda *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
 Hajós-Baja *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
@@ -7405,7 +7113,7 @@ Mátra *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
 Mór *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
-Nagy-Somló *suivie ou non du nom de la sous-région, de la commune ou du doma**i**ne*
+Nagy-Somló *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
 Neszmély *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
@@ -7429,7 +7137,7 @@ Tihany
 
 Tokaj *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
-Tolna *suivie ou non du nom de la sous-région, de* *la commune ou du domaine*
+Tolna *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
 Villány *suivie ou non du nom de la sous-région, de la commune ou du domaine*
 
@@ -7465,37 +7173,29 @@ Tisza völgyi
 
 Zempléni
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-minőségi bor AOP Hongrois
+<table>
+<tr><td>minőségi bor</td><td>AOP</td><td>Hongrois</td></tr>
+<tr><td>védett eredetű bor</td><td>AOP</td><td>Hongrois</td></tr>
+<tr><td>Tájbor</td><td>IGP</td><td>Hongrois</td></tr>
+</table>
 
-védett eredetű bor AOP Hongrois
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-Tájbor IGP Hongrois
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Aszú (3)(4)(5)(6) puttonyos AOP Hongrois
-
-Aszúeszencia AOP Hongrois
-
-Bikavér AOP Hongrois
-
-Eszencia AOP Hongrois
-
-Fordítás AOP Hongrois
-
-Máslás AOP Hongrois
-
-Késői szüretelésű bor AOP/IGP Hongrois
-
-Válogatott szüretelésű bor AOP/IGP Hongrois
-
-Muzeális bor AOP/IGP Hongrois
-
-Siller AOP/IGP Hongrois
-
-Szamorodni AOP Hongrois
+<table>
+<tr><td>Aszú (3)(4)(5)(6) puttonyos</td><td>AOP</td><td>Hongrois</td></tr>
+<tr><td>Aszúeszencia</td><td>AOP</td><td>Hongrois</td></tr>
+<tr><td>Bikavér</td><td>AOP</td><td>Hongrois</td></tr>
+<tr><td>Eszencia</td><td>AOP</td><td>Hongrois</td></tr>
+<tr><td>Fordítás</td><td>AOP</td><td>Hongrois</td></tr>
+<tr><td>Máslás</td><td>AOP</td><td>Hongrois</td></tr>
+<tr><td>Késői szüretelésű bor</td><td>AOP/IGP</td><td>Hongrois</td></tr>
+<tr><td>Válogatott szüretelésű bor</td><td>AOP/IGP</td><td>Hongrois</td></tr>
+<tr><td>Muzeális bor</td><td>AOP/IGP</td><td>Hongrois</td></tr>
+<tr><td>Siller</td><td>AOP/IGP</td><td>Hongrois</td></tr>
+<tr><td>Szamorodni</td><td>AOP</td><td>Hongrois</td></tr>
+</table>
 
 ### Malte
 
@@ -7509,11 +7209,12 @@ Malta
 
 Maltese Islands
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Denominazzjoni ta’ Oriġini Kontrollata (D.O.K.) AOP Maltais
-
-Indikazzjoni Ġeografika Tipika (I.Ġ.T.) IGP Maltais
+<table>
+<tr><td>Denominazzjoni ta’ Oriġini Kontrollata (D.O.K.)</td><td>AOP</td><td>Maltais</td></tr>
+<tr><td>Indikazzjoni Ġeografika Tipika (I.Ġ.T.)</td><td>IGP</td><td>Maltais</td></tr>
+</table>
 
 ### Pays-Bas
 
@@ -7543,9 +7244,11 @@ Zeeland
 
 Zuid Holland
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Landwijn IGP Néerlandais
+<table>
+<tr><td>Landwijn</td><td>IGP</td><td>Néerlandais</td></tr>
+</table>
 
 ### Autriche
 
@@ -7567,7 +7270,7 @@ Mittelburgenland *suivie ou non du nom d’une plus petite unité géographique*
 
 Neusiedlersee *suivie ou non du nom d’une plus petite unité géographique*
 
-Neusiedlersee-Hügelland *suivie ou non du nom d’une plus petite unité géograph**i**que*
+Neusiedlersee-Hügelland *suivie ou non du nom d’une plus petite unité géographique*
 
 Niederösterreich *suivie ou non du nom d’une plus petite unité géographique*
 
@@ -7611,55 +7314,30 @@ Weinland
 
 Wien
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Prädikatswein ou Qualitätswein AOP Allemand
+<table>
+<tr><td>Prädikatswein ou Qualitätswein besonderer Reife und Leseart, *suivi ou non de*: – Ausbruch/Ausbruchwein – Auslese/Auslesewein – Beerenauslese/Beerenauslesewein – Kabinett/Kabinettwein – Schilfwein – Spätlese/Spätlesewein – Strohwein – Trockenbeerenauslese – Eiswein</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>DAC</td><td>AOP</td><td>Latin</td></tr>
+<tr><td>Districtus Austriae Controllatus</td><td>AOP</td><td>Latin</td></tr>
+<tr><td>Qualitätswein ou Qualitätswein mit staatlicher Prüfnummer</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Landwein</td><td>IGP</td><td>Allemand</td></tr>
+</table>
 
-besonderer Reife und Leseart, *suivi*
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-*ou non de:*
-
-- – Ausbruch/Ausbruchwein
-- – Auslese/Auslesewein
-- – Beerenauslese/Beerenauslesewein
-- – Kabinett/Kabinettwein
-- – Schilfwein
-- – Spätlese/Spätlesewein
-- – Strohwein
-- – Trockenbeerenauslese
-- – Eiswein
-
-DAC AOP Latin
-
-Districtus Austriae Controllatus AOP Latin
-
-Qualitätswein ou Qualitätswein mit
-
-staatlicher Prüfnummer AOP Allemand
-
-Landwein IGP Allemand
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Ausstich AOP/IGP Allemand
-
-Auswahl AOP/IGP Allemand
-
-Bergwein AOP/IGP Allemand
-
-Klassik/Classic AOP Allemand
-
-Heuriger AOP/IGP Allemand
-
-Gemischter Satz AOP/IGP Allemand
-
-Jubiläumswein AOP/IGP Allemand
-
-Reserve AOP Allemand
-
-Schilcher AOP/IGP Allemand
-
-Sturm IGP Allemand
+<table>
+<tr><td>Ausstich</td><td>AOP/IGP</td><td>Allemand</td></tr>
+<tr><td>Auswahl</td><td>AOP/IGP</td><td>Allemand</td></tr>
+<tr><td>Bergwein</td><td>AOP/IGP</td><td>Allemand</td></tr>
+<tr><td>Klassik/Classic</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Heuriger</td><td>AOP/IGP</td><td>Allemand</td></tr>
+<tr><td>Gemischter Satz</td><td>AOP/IGP</td><td>Allemand</td></tr>
+<tr><td>Jubiläumswein</td><td>AOP/IGP</td><td>Allemand</td></tr>
+<tr><td>Reserve</td><td>AOP</td><td>Allemand</td></tr>
+<tr><td>Schilcher</td><td>AOP/IGP</td><td>Allemand</td></tr>
+<tr><td>Sturm</td><td>IGP</td><td>Allemand</td></tr>
+</table>
 
 ### Portugal
 
@@ -7863,69 +7541,44 @@ Vinho Regional Terras Madeirenses
 
 Vinho Regional Transmontano
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Denominação de origem AOP Portugais
+<table>
+<tr><td>Denominação de origem</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Denominação de origem controlada</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>DO</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>DOC</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Indicação de proveniência regulamentada</td><td>IGP</td><td>Portugais</td></tr>
+<tr><td>IPR</td><td>IGP</td><td>Portugais</td></tr>
+<tr><td>Vinho doce natural</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Vinho generoso</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Vinho regional</td><td>IGP</td><td>Portugais</td></tr>
+</table>
 
-Denominação de origem controlada AOP Portugais
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-DO AOP Portugais
-
-DOC AOP Portugais
-
-Indicação de proveniência regulamentada IGP Portugais
-
-IPR IGP Portugais
-
-Vinho doce natural AOP Portugais
-
-Vinho generoso AOP Portugais
-
-Vinho regional IGP Portugais
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Canteiro AOP Portugais
-
-Colheita Seleccionada AOP Portugais
-
-Crusted/Crusting AOP Anglais
-
-Escolha AOP Portugais
-
-Escuro AOP Portugais
-
-Fino AOP Portugais
-
-Frasqueira AOP Portugais
-
-Garrafeira AOP/IGP Portugais
-
-Lágrima AOP Portugais
-
-Leve AOP Portugais
-
-Nobre AOP Portugais
-
-Reserva AOP Portugais
-
-Velha reserva (ou grande reserva) AOP Portugais
-
-Ruby AOP Anglais
-
-Solera AOP Portugais
-
-Super reserva AOP Portugais
-
-Superior AOP Portugais
-
-Tawny AOP Anglais
-
-Vintage, *suivi ou non de* Late Bottle
-
-(LBV) *ou* Character AOP Anglais
-
-Vintage AOP Anglais
+<table>
+<tr><td>Canteiro</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Colheita Seleccionada</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Crusted/Crusting</td><td>AOP</td><td>Anglais</td></tr>
+<tr><td>Escolha</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Escuro</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Fino</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Frasqueira</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Garrafeira</td><td>AOP/IGP</td><td>Portugais</td></tr>
+<tr><td>Lágrima</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Leve</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Nobre</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Reserva</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Velha reserva (ou grande reserva)</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Ruby</td><td>AOP</td><td>Anglais</td></tr>
+<tr><td>Solera</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Super reserva</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Superior</td><td>AOP</td><td>Portugais</td></tr>
+<tr><td>Tawny</td><td>AOP</td><td>Anglais</td></tr>
+<tr><td>Vintage, *suivi ou non de* Late Bottle (LBV) *ou* Character</td><td>AOP</td><td>Anglais</td></tr>
+<tr><td>Vintage</td><td>AOP</td><td>Anglais</td></tr>
+</table>
 
 ### Roumanie
 
@@ -7949,7 +7602,7 @@ Bohotin *suivie ou non du nom de la sous-région*
 
 Cernăteşti – Podgoria *suivie ou non du nom de la sous-région*
 
-Coteşti *suivie ou non du nom de la sous-régio**n*
+Coteşti *suivie ou non du nom de la sous-région*
 
 Cotnari
 
@@ -7991,7 +7644,7 @@ Iaşi *suivie ou non de* Uricani
 
 Lechinţa *suivie ou non du nom de la sous-région*
 
-Mehedinţi *suivie ou no**n de* Corcova
+Mehedinţi *suivie ou non de* Corcova
 
 Mehedinţi *suivie ou non de* Golul Drâncei
 
@@ -8015,7 +7668,7 @@ Oltina *suivie ou non du nom de la sous-région*
 
 Panciu *suivie ou non du nom de la sous-région*
 
-Pietroasa *suivie ou non du nom* *de la sous-région*
+Pietroasa *suivie ou non du nom de la sous-région*
 
 Recaş *suivie ou non du nom de la sous-région*
 
@@ -8025,7 +7678,7 @@ Sarica Niculiţel *suivie ou non de* Tulcea
 
 Sebeş - Apold *suivie ou non du nom de la sous-région*
 
-Segarcea *suivie ou non du nom de la sous-rég**ion*
+Segarcea *suivie ou non du nom de la sous-région*
 
 Ştefăneşti *suivie ou non de* *Costeşti*
 
@@ -8047,7 +7700,7 @@ Dealurile Moldovei *ou, selon le cas*, Dealurile Hârlăului
 
 Dealurile Moldovei *ou, selon le cas*, Dealurile Huşilor
 
-Dealurile Moldovei *ou, selon le c**as*, Dealurile Iaşilor
+Dealurile Moldovei *ou, selon le cas*, Dealurile Iaşilor
 
 Dealurile Moldovei *ou, selon le cas*, Dealurile Tutovei
 
@@ -8073,27 +7726,20 @@ Viile Caraşului
 
 Viile Timişului
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Vin cu denumire de origine controlată AOP Roumain
+<table>
+<tr><td>Vin cu denumire de origine controlată (D.O.C.), *suivi de*: – Cules la maturitate deplină – C.M.D. – Cules târziu – C.T. – Cules la înnobilarea boabelor – C.I.B.</td><td>AOP</td><td>Roumain</td></tr>
+<tr><td>Vin spumant cu denumire de origine controlată – D.O.C.</td><td>AOP</td><td>Roumain</td></tr>
+<tr><td>Vin cu indicaţie geografică</td><td>IGP</td><td>Roumain</td></tr>
+</table>
 
-(D.O.C.), *suivi de:*
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-- – Cules la maturitate deplină – C.M.D.
-- – Cules târziu – C.T.
-- – Cules la înnobilarea boabelor – C.I.B.
-
-Vin spumant cu denumire de origine AOP Roumain
-
-controlată – D.O.C.
-
-Vin cu indicaţie geografică IGP Roumain
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Rezervă AOP/IGP Roumain
-
-Vin de vinotecă AOP Roumain
+<table>
+<tr><td>Rezervă</td><td>AOP/IGP</td><td>Roumain</td></tr>
+<tr><td>Vin de vinotecă</td><td>AOP</td><td>Roumain</td></tr>
+</table>
 
 ### Slovénie
 
@@ -8105,21 +7751,21 @@ Belokranjec *suivie ou non du nom d’une plus petite unité géographique et/ou
 
 Bizeljčan *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble*
 
-Bizeljsko-Sremič *suivie ou non du nom d’une plus petite unit**é géographique et/ou du nom d’un vignoble* Terme équivalent: Sremič-Bizeljsko
+Bizeljsko-Sremič *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble* Terme équivalent: Sremič-Bizeljsko
 
 Cviček, Dolenjska *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble*
 
-Dolenjska *suivie ou non du nom d’une plus petite unité géographique et/ou* *du nom d’un vignoble*
+Dolenjska *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble*
 
 Goriška Brda *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble* Terme équivalent: Brda
 
 Kras *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble*
 
-Metliška črnina *suivi**e ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble*
+Metliška črnina *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble*
 
 Prekmurje *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble* Terme équivalent: Prekmurčan
 
-Slovenska Istra *suivie ou non du nom d’une plus pe**tite unité géographique et/ou du nom d’un vignoble*
+Slovenska Istra *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble*
 
 Štajerska Slovenija *suivie ou non du nom d’une plus petite unité géographique et/ou du nom d’un vignoble*
 
@@ -8131,55 +7777,27 @@ Vipavska dolina *suivie ou non du nom d’une plus petite unité géographique e
 
 Podravje *éventuellement suivie de l’expression «mlado vino» les noms peuvent également être utilisés sous une forme adjectivale*
 
-Posavje *éventuellement suivie de l’expression «mlado vino» les* *noms peuvent ég**a**lement être utilisés sous une forme adjectivale*
+Posavje *éventuellement suivie de l’expression «mlado vino» les noms peuvent également être utilisés sous une forme adjectivale*
 
 Primorska *éventuellement suivie de l’expression «mlado vino» les noms peuvent également être utilisés sous une forme adjectivale*
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Kakovostno vino z zaščitenim AOP Slovène
+<table>
+<tr><td>Kakovostno vino z zaščitenim geografskim poreklom (kakovostno vino ZGP), *suivi ou non de* Mlado vino</td><td>AOP</td><td>Slovène</td></tr>
+<tr><td>Kakovostno peneče vino z zaščitenim geografskim poreklom (Kakovostno vino ZGP)</td><td>AOP</td><td>Slovène</td></tr>
+<tr><td>Penina</td><td>AOP</td><td>Slovène</td></tr>
+<tr><td>Vino s priznanim tradicionalnim poimenovanjem (vino PTP)</td><td>AOP</td><td>Slovène</td></tr>
+<tr><td>Renome</td><td>AOP</td><td>Slovène</td></tr>
+<tr><td>Vrhunsko vino z zaščitenim geografskim poreklom (vrhunsko vino ZGP), *suivi ou non de*: – Pozna trgatev – Izbor – Jagodni izbor – Suhi jagodni izbor – Ledeno vino – Arhivsko vino (Arhiva) – Slamnovino (vino iz sušenega grozdja)</td><td>AOP</td><td>Slovène</td></tr>
+<tr><td>Vrhunsko peneče vino z zaščitenim geografskim poreklom (Vrhunsko peneče vino ZGP)</td><td>IGP</td><td>Slovène</td></tr>
+</table>
 
-geografskim poreklom (kakovostno vino
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-ZGP), *suivi ou non de* Mlado vino
-
-Kakovostno peneče vino z zaščitenim AOP Slovène
-
-geografskim poreklom (Kakovostno
-
-vino ZGP)
-
-Penina AOP Slovène
-
-Vino s priznanim tradicionalnim AOP Slovène
-
-poimenovanjem (vino PTP)
-
-Renome AOP Slovène
-
-Vrhunsko vino z zaščitenim geografskim AOP Slovène
-
-poreklom (vrhunsko vino ZGP), *suivi ou*
-
-*non de:*
-
-- – Pozna trgatev
-- – Izbor
-- – Jagodni izbor
-- – Suhi jagodni izbor
-- – Ledeno vino
-- – Arhivsko vino (Arhiva)
-- – Slamnovino (vino iz sušenega grozdja)
-
-Vrhunsko peneče vino z zaščitenim IGP Slovène
-
-geografskim poreklom (Vrhunsko
-
-peneče vino ZGP)
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Mlado vino AOP/IGP Slovène
+<table>
+<tr><td>Mlado vino</td><td>AOP/IGP</td><td>Slovène</td></tr>
+</table>
 
 ### Slovaquie
 
@@ -8205,7 +7823,7 @@ Južnoslovenská vinohradnícka oblasť *suivie ou non de* Štúrovský vinohrad
 
 Malokarpatská vinohradnícka oblasť *suivie ou non d**’**une sous-région et/ou d**’**une plus petite unité géographique*
 
-Malokarpatská vinohradnícka oblasť *suivie ou non d**e* Bratislavský vinohradnícky rajón
+Malokarpatská vinohradnícka oblasť *suivie ou non de* Bratislavský vinohradnícky rajón
 
 Malokarpatská vinohradnícka oblasť *suivie ou non de* Doľanský vinohradnícky rajón
 
@@ -8229,7 +7847,7 @@ Malokarpatská vinohradnícka oblasť suivie ou non de Vrbovský vinohradnícky 
 
 Malokarpatská vinohradnícka oblasť *suivie ou non de* Záhorský vinohradnícky rajón
 
-Nitrianska vinohradnícka oblasť *suivie ou non d**’**une sous-région et/ou d**’**une plus p**etite unité géographique*
+Nitrianska vinohradnícka oblasť *suivie ou non d**’**une sous-région et/ou d**’**une plus petite unité géographique*
 
 Nitrianska vinohradnícka oblasť *suivie ou non de* Nitriansky vinohradnícky rajón
 
@@ -8265,11 +7883,11 @@ Stredoslovenská vinohradnícka oblasť *suivie ou non de* Tornaľský vinohradn
 
 Stredoslovenská vinohradnícka oblasť *suivie ou non de* Vinický vinohradnícky rajón
 
-Vinohradnícka oblasť Tokaj *suivie ou non d’une des unités géographiques p**lus petites suivantes:* Bara/Čerhov/Černochov/Malá Tŕňa/Slovenské Nové Mesto/Veľká Tŕňa/Viničky
+Vinohradnícka oblasť Tokaj *suivie ou non d’une des unités géographiques plus petites suivantes:* Bara/Čerhov/Černochov/Malá Tŕňa/Slovenské Nové Mesto/Veľká Tŕňa/Viničky
 
 Východoslovenská vinohradnícka oblasť *suivie ou non d’une sous-région et/ou d’une plus petite unité géographique*
 
-Východoslovenská vinohradnícka oblasť *suivie ou* *non de* Kráľovskochlmecký vinohradnícky rajón
+Východoslovenská vinohradnícka oblasť *suivie ou non de* Kráľovskochlmecký vinohradnícky rajón
 
 Východoslovenská vinohradnícka oblasť *suivie ou non de* Michalovský vinohradnícky rajón
 
@@ -8281,7 +7899,7 @@ Východoslovenská vinohradnícka oblasť *suivie ou non de* Sobranecký vinohra
 
 Južnoslovenská vinohradnícka oblasť *éventuellement accompagnée de l**’**expression* «oblastné vino»
 
-Malokarpatská vinohradnícka oblasť *éventuellement accompagnée* *de l**’**expression* «oblastné vino»
+Malokarpatská vinohradnícka oblasť *éventuellement accompagnée de l**’**expression* «oblastné vino»
 
 Nitrianska vinohradnícka oblasť *éventuellement accompagnée de l**’**expression* «oblastné vino»
 
@@ -8289,44 +7907,28 @@ Stredoslovenská vinohradnícka oblasť *éventuellement accompagnée de l’exp
 
 Východoslovenská vinohradnícka oblasť *éventuellement accompagnée de l**’**expression* «oblastné vino»
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-Akostné víno AOP Slovaque
+<table>
+<tr><td>Akostné víno</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Akostné víno s prívlastkom, *suivi de*: – Kabinetné – Neskorý zber – Výber z hrozna – Bobuľovývýber – Hrozienkový výber – Cibébový výber – L’adový zber – Slamové víno</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Esencia</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Forditáš</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Mášláš</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Pestovateľský sekt</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Samorodné</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Sekt vinohradníckej oblasti</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Výber (3)(4)(5)(6) putňový</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Výberová esencia</td><td>AOP</td><td>Slovaque</td></tr>
+</table>
 
-Akostné víno s prívlastkom, *suivi de:* AOP Slovaque
+### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) n° 1234/2007)
 
-- – Kabinetné
-- – Neskorý zber
-- – Výber z hrozna
-- – Bobuľovývýber
-- – Hrozienkový výber
-- – Cibébový výber
-- – L’adový zber
-- – Slamové víno
-
-Esencia AOP Slovaque
-
-Forditáš AOP Slovaque
-
-Mášláš AOP Slovaque
-
-Pestovateľský sekt AOP Slovaque
-
-Samorodné AOP Slovaque
-
-Sekt vinohradníckej oblasti AOP Slovaque
-
-Výber (3)(4)(5)(6) putňový AOP Slovaque
-
-Výberová esencia AOP Slovaque
-
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(b), du Règlement du Conseil (CE) no 1234/2007)
-
-Mladé víno AOP Slovaque
-
-Archívne víno AOP Slovaque
-
-Panenská úroda AOP Slovaque
+<table>
+<tr><td>Mladé víno</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Archívne víno</td><td>AOP</td><td>Slovaque</td></tr>
+<tr><td>Panenská úroda</td><td>AOP</td><td>Slovaque</td></tr>
+</table>
 
 ### Royaume-Uni
 
@@ -8424,13 +8026,14 @@ Wales *remplacée ou non par* The Vale of Glamorgan
 
 Wales *remplacée ou non par* Wrexham
 
-### Mentions traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) no 1234/2007)
+### Mentios traditionelles (Art. 118 duovicies, par. (1)(a), du Règlement du Conseil (CE) n° 1234/2007)
 
-quality (sparkling) wine AOP Anglais
+<table>
+<tr><td>quality (sparkling) wine</td><td>AOP</td><td>Anglais</td></tr>
+<tr><td>Regional vine</td><td>IGP</td><td>Anglais</td></tr>
+</table>
 
-Regional vine IGP Anglais
-
-NB: les termes en italiques sont uniquement à tittre d’information ou d’explication ou les deux et ne sont pas donc soumis aux dispositions sur la protection visées au présent Annexe.
+- NB: les termes en italiques sont uniquement à tittre d’information ou d’explication ou les deux et ne sont pas donc soumis aux dispositions sur la protection visées au présent Annexe.
 
 ### Partie B: Dénominations protégées pour les produits vitivinicoles originaires de la Suisse
 
@@ -8602,7 +8205,7 @@ Beerenauslese/Sélection de grains nobles
 
 Beerli/Beerliwein
 
-Château/Schloss/Castello[^annexu1-lvlu1-partB-lvlu2-1]
+Château/Schloss/Castello[^annex4-lvlu1-partB-lvlu2-1]
 
 Cru
 
@@ -8612,7 +8215,7 @@ Denominazione di origine controllata (DOC)
 
 Eiswein/vin de glace
 
-Federweiss/Weissherbst[^annexu1-lvlu1-partB-lvlu2-2]
+Federweiss/Weissherbst[^annex4-lvlu1-partB-lvlu2-2]
 
 Flétri/Flétri sur souche
 
@@ -8628,9 +8231,9 @@ La Gerle
 
 Landwein
 
-Œil-de-Perdrix[^annexu1-lvlu1-partB-lvlu2-3]
+Œil-de-Perdrix[^annex4-lvlu1-partB-lvlu2-3]
 
-Passerillé/Strohwein/Sforzato[^annexu1-lvlu1-partB-lvlu2-4]
+Passerillé/Strohwein/Sforzato[^annex4-lvlu1-partB-lvlu2-4]
 
 Premier Cru
 
@@ -8642,7 +8245,7 @@ Riserva
 
 Schiller
 
-Spätlese/Vendange tardive/Vendemmia tardiva[^annexu1-lvlu1-partB-lvlu2-5]
+Spätlese/Vendange tardive/Vendemmia tardiva[^annex4-lvlu1-partB-lvlu2-5]
 
 Sur lie(s)/auf der Hefe ausgebaut
 
@@ -8660,7 +8263,7 @@ Vin de pays
 
 Vin de table
 
-Vin doux naturel[^annexu1-lvlu1-partB-lvlu2-6]
+Vin doux naturel[^annex4-lvlu1-partB-lvlu2-6]
 
 Vinatura
 
@@ -8670,12 +8273,12 @@ VITI
 
 Winzerwy
 
-[^annexu1-lvlu1-partB-lvlu2-1]: Ces termes ne sont protégés que pour les cantons bénéficiant d’une définition précise, à savoir Vaud, Valais et Genève.
-[^annexu1-lvlu1-partB-lvlu2-2]: Ces termes sont protégés sans préjudice de l’utilisation de la mention traditionnelle allemande «*Federweisser*» pour des moûts partiellement fermentés destinés à la consommation humaine conformément à l’art. 3, point c), de la loi allemande sur le vin et de l’art. 40 du R (CE) n<sup>o</sup> 607/2009 de la Commission.
-[^annexu1-lvlu1-partB-lvlu2-3]: Ce terme est protégé sans préjudice des art. 40 du R (CE) n<sup>o</sup> 607/2009 de la Commission.
-[^annexu1-lvlu1-partB-lvlu2-4]: Pour l’exportation vers l’Union, titre alcoométrique total (acquis et en puissance) de 16 % vol.
-[^annexu1-lvlu1-partB-lvlu2-5]: Pour l’exportation vers l’Union, la richesse naturelle en sucre doit être supérieure d’au moins 1 % à la moyenne de l’année pour les autres vins.
-[^annexu1-lvlu1-partB-lvlu2-6]: Aux fins de l’exportation vers l’Union, ce terme désigne un vin de liqueur dont les caractéristiques sont plus strictes en matière de rendement et de teneur en sucre (richesse naturelle initiale en sucre de 252 g/l).
+[^annex4-lvlu1-partB-lvlu2-1]: Ces termes ne sont protégés que pour les cantons bénéficiant d’une définition précise, à savoir Vaud, Valais et Genève.
+[^annex4-lvlu1-partB-lvlu2-2]: Ces termes sont protégés sans préjudice de l’utilisation de la mention traditionnelle allemande «*Federweisser*» pour des moûts partiellement fermentés destinés à la consommation humaine conformément à l’art. 3, point c), de la loi allemande sur le vin et de l’art. 40 du R (CE) n<sup>o</sup> 607/2009 de la Commission.
+[^annex4-lvlu1-partB-lvlu2-3]: Ce terme est protégé sans préjudice des art. 40 du R (CE) n<sup>o</sup> 607/2009 de la Commission.
+[^annex4-lvlu1-partB-lvlu2-4]: Pour l’exportation vers l’Union, titre alcoométrique total (acquis et en puissance) de 16 % vol.
+[^annex4-lvlu1-partB-lvlu2-5]: Pour l’exportation vers l’Union, la richesse naturelle en sucre doit être supérieure d’au moins 1 % à la moyenne de l’année pour les autres vins.
+[^annex4-lvlu1-partB-lvlu2-6]: Aux fins de l’exportation vers l’Union, ce terme désigne un vin de liqueur dont les caractéristiques sont plus strictes en matière de rendement et de teneur en sucre (richesse naturelle initiale en sucre de 252 g/l).
 
 ### Dénominations traditionnelles
 
@@ -8721,7 +8324,7 @@ Appendice 5
   - e) sont destinés aux représentations diplomatiques, postes consulaires et organismes assimilés, au titre des franchises qui leur sont consenties;
   - f) font partie des provisions de bord des moyens de transport internationaux.
 
-### Déclaration de la Commission sur l’art. 7
+## Déclaration de la Commission sur l’art. 7
 
 L’Union européenne déclare qu’elle ne fera pas obstacle à l’utilisation par la Suisse des termes «appellation d’origine protégée» et «indication géographique protégée», y compris leurs abréviations «AOP» et «IGP» visées à l’art. 7, par. 1 de l’Annexe 7 de l’Accord entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles, dès lors que le système législatif suisse concernant les indications géographiques agricoles et vitivinicoles sera harmonisé avec le système de l’Union européenne.
 
@@ -8735,11 +8338,11 @@ Les Parties, sur la base des principes de non-discrimination et de réciprocité
 
 #### Art. 2
 
-[^annexu1-lvlu1-2-3]
+[^annex8-lvlu1-2-1]
 
 La présente annexe s’applique aux boissons spiritueuses et aux boissons aromatisées (vins aromatisés, boissons aromatisées à base de vin et cocktails aromatisés de produits vitivinicoles) définies dans les textes législatifs visés à l’appendice 5.
 
-[^annexu1-lvlu1-2-3]: Nouvelle teneur jour selon l’art. 1 par. 16 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annex8-lvlu1-2-1]: Nouvelle teneur jour selon l’art. 1 par. 16 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 3
 
@@ -8754,7 +8357,7 @@ Aux fins de la présente annexe, on entend par:
 
 #### Art. 4
 
-<sup>1.</sup> 2.[^annexu1-lvlu1-4-1] La dénomination «marc de raisin» ou «eau-de-vie de marc de raisin» peut être remplacée par la dénomination «Grappa» pour les boissons spiritueuses produites dans les régions suisses d’expression italienne à partir des raisins issus de ces régions et énumérées à l’appendice 2, conformément au règlement visé à l’appendice 5, point a), premier tiret.
+<sup>1.</sup>
 
 Les dénominations suivantes sont protégées:
 
@@ -8763,7 +8366,9 @@ Les dénominations suivantes sont protégées:
 - c) en ce qui concerne les boissons aromatisées originaires de la Communauté, celles figurant à l’appendice 3,
 - d) en ce qui concerne les boissons aromatisées originaires de la Suisse, celles figurant à l’appendice 4.
 
-[^annexu1-lvlu1-4-1]: Nouvelle teneur jour selon l’art. 1 par. 17 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+<sup>2.</sup> La dénomination «marc de raisin» ou «eau-de-vie de marc de raisin» peut être remplacée par la dénomination «Grappa» pour les boissons spiritueuses produites dans les régions suisses d’expression italienne à partir des raisins issus de ces régions et énumérées à l’appendice 2, conformément au règlement visé à l’appendice 5, point a), premier tiret.[^annex8-lvlu1-4-1]
+
+[^annex8-lvlu1-4-1]: Nouvelle teneur jour selon l’art. 1 par. 17 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 5
 
@@ -8781,20 +8386,20 @@ Dans la Communauté, les dénominations suisses protégées:
 - – ne peuvent pas être utilisées autrement que conformément aux conditions prévues par les lois et réglementations de la Suisse, et
 - – sont réservées exclusivement aux boissons spiritueuses et boissons aromatisées originaires de la Suisse auxquelles elles s’appliquent.
 
-<sup>3.</sup> Sans préjudice des art. 22 et 23 de l’accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce, figurant à l’annexe 1C de l’Accord instituant l’Organisation mondiale du commerce[^annexu1-lvlu1-5-2] (ci-après dénommé accord ADPIC), les Parties prennent toutes les mesures nécessaires, conformément à la présente annexe, pour assurer la protection réciproque des dénominations visées à l’art. 4 et utilisées pour désigner des boissons spiritueuses ou des boissons aromatisées originaires du territoire des Parties. Chaque Partie fournit aux Parties intéressées les moyens juridiques d’empêcher l’utilisation d’une dénomination pour désigner des boissons spiritueuses ou des boissons aromatisées non originaires du lieu désigné par ladite dénomination ou du lieu où ladite dénomination est utilisée traditionnellement.
+<sup>3.</sup> Sans préjudice des art. 22 et 23 de l’accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce, figurant à l’annexe 1C de l’Accord instituant l’Organisation mondiale du commerce[^annex8-lvlu1-5-1] (ci-après dénommé accord ADPIC), les Parties prennent toutes les mesures nécessaires, conformément à la présente annexe, pour assurer la protection réciproque des dénominations visées à l’art. 4 et utilisées pour désigner des boissons spiritueuses ou des boissons aromatisées originaires du territoire des Parties. Chaque Partie fournit aux Parties intéressées les moyens juridiques d’empêcher l’utilisation d’une dénomination pour désigner des boissons spiritueuses ou des boissons aromatisées non originaires du lieu désigné par ladite dénomination ou du lieu où ladite dénomination est utilisée traditionnellement.
 
-4.[^annexu1-lvlu1-5-3] Les Parties renoncent à se prévaloir des dispositions de l’art. 24, par. 4, 6 et 7, de l’accord ADPIC pour refuser l’octroi d’une protection à une dénomination de l’autre Partie.
+<sup>4.</sup> Les Parties renoncent à se prévaloir des dispositions de l’art. 24, par. 4, 6 et 7, de l’accord ADPIC pour refuser l’octroi d’une protection à une dénomination de l’autre Partie.[^annex8-lvlu1-5-2]
 
-[^annexu1-lvlu1-5-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^annexu1-lvlu1-5-3]: Nouvelle teneur jour selon l’art. 1 par. 18 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annex8-lvlu1-5-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^annex8-lvlu1-5-2]: Nouvelle teneur jour selon l’art. 1 par. 18 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 6
 
-[^annexu1-lvlu1-6-2]
+[^annex8-lvlu1-6-1]
 
 La protection visée à l’art. 5 s’applique même dans les cas où la véritable origine de la boisson spiritueuse ou de la boisson aromatisée est indiquée, ainsi que dans le cas où la dénomination est traduite, ou transcrite ou a fait l’objet d’une translitération, ou est accompagnée de termes tels que «genre», «type», «style», «façon», «imitation», «méthode» ou autres expressions analogues incluant des symboles graphiques qui peuvent engendrer un risque de confusion.
 
-[^annexu1-lvlu1-6-2]: Nouvelle teneur selon l’art. 1, par. 1, de la D n<sup>o</sup> 2/2012 du Comité mixte de l’agriculture du 3 mai 2012, en vigueur depuis le 4 mai 2012 ([RO 2012 3385](https://fedlex.data.admin.ch/eli/oc/2012/378)).
+[^annex8-lvlu1-6-1]: Nouvelle teneur selon l’art. 1, par. 1, de la D n<sup>o</sup> 2/2012 du Comité mixte de l’agriculture du 3 mai 2012, en vigueur depuis le 4 mai 2012 ([RO 2012 3385](https://fedlex.data.admin.ch/eli/oc/2012/378)).
 
 #### Art. 7
 
@@ -8887,7 +8492,7 @@ Dans la mesure où la législation d’une des Parties est modifiée pour proté
 
 <sup>2.</sup> Sauf décision contraire du Comité, la commercialisation des boissons spiritueuses et des boissons aromatisées produites, désignées et présentées conformément au présent Accord, mais dont la désignation et la présentation perdent leur conformité par suite d’une modification dudit accord, peut se poursuivre jusqu’à épuisement des stocks.
 
-Appendice 1*[^t-18]*
+Appendice 1[^t-18]
 
 ## Indications géographiques relatives aux boissons spiritueuses originaires de l’Union européenne
 
@@ -8908,7 +8513,7 @@ Appendice 1*[^t-18]*
 <tr><td></td><td>*Rum da Madeira*</td><td>Portugal</td></tr>
 <tr><td colspan="3">2. Whisky/Whiskey</td></tr>
 <tr><td></td><td>*Scotch Whisky*</td><td>Royaume-Uni (Écosse)</td></tr>
-<tr><td></td><td>*Irish Whiskey/Uisce Beatha Eireannach/ Irish Whisky*[^annexu1-lvlu1-4]</td><td>Irlande</td></tr>
+<tr><td></td><td>*Irish Whiskey/Uisce Beatha Eireannach/ Irish Whisky*[^annex1-lvlu1-2]</td><td>Irlande</td></tr>
 <tr><td></td><td>*Whisky español*</td><td>Espagne</td></tr>
 <tr><td></td><td>*Whisky breton/Whisky de Bretagne*</td><td>France</td></tr>
 <tr><td></td><td>*Whisky alsacien/Whisky d’Alsace*</td><td>France</td></tr>
@@ -8920,7 +8525,7 @@ Appendice 1*[^t-18]*
 <tr><td></td><td>*Bergischer Korn/Kornbrand*</td><td>Allemagne</td></tr>
 <tr><td></td><td>*Emsländer Korn/Kornbrand*</td><td>Allemagne</td></tr>
 <tr><td></td><td>*Haselünner Korn/Kornbrand*</td><td>Allemagne</td></tr>
-<tr><td></td><td>*Hasetaler Korn/Korn**brand*</td><td>Allemagne</td></tr>
+<tr><td></td><td>*Hasetaler Korn/Kornbrand*</td><td>Allemagne</td></tr>
 <tr><td></td><td>*Samanė*</td><td>Lituanie</td></tr>
 <tr><td colspan="3">4. Eau-de-vie de vin</td></tr>
 <tr><td></td><td>*Eau-de-vie de Cognac*</td><td>France</td></tr>
@@ -8984,7 +8589,7 @@ Appendice 1*[^t-18]*
 <tr><td></td><td>*Brandy Πελοποννήσου/Brandy* du Péloponnèse</td><td>Grèce</td></tr>
 <tr><td></td><td>*Brandy Κεντρικής Ελλάδας/Brandy* de Grèce centrale</td><td>Grèce</td></tr>
 <tr><td></td><td>*Deutscher Weinbrand*</td><td>Allemagne</td></tr>
-<tr><td></td><td>*Wachauer We**inbrand*</td><td>Autriche</td></tr>
+<tr><td></td><td>*Wachauer Weinbrand*</td><td>Autriche</td></tr>
 <tr><td></td><td>*Weinbrand Dürnstein*</td><td>Autriche</td></tr>
 <tr><td></td><td>*Pfälzer Weinbrand*</td><td>Allemagne</td></tr>
 <tr><td></td><td>*Karpatské brandy špeciál*</td><td>Slovaquie</td></tr>
@@ -9016,7 +8621,7 @@ Appendice 1*[^t-18]*
 <tr><td></td><td>*Grappa lombarda/Grappa di Lombardia*</td><td>Italie</td></tr>
 <tr><td></td><td>*Grappa trentina/Grappa del Trentino*</td><td>Italie</td></tr>
 <tr><td></td><td>*Grappa friulana/Grappa del Friuli*</td><td>Italie</td></tr>
-<tr><td></td><td>*Gr**appa veneta/Grappa del Veneto*</td><td>Italie</td></tr>
+<tr><td></td><td>*Grappa veneta/Grappa del Veneto*</td><td>Italie</td></tr>
 <tr><td></td><td>*Südtiroler Grappa/Grappa dell’Alto Adige*</td><td>Italie</td></tr>
 <tr><td></td><td>*Grappa siciliana/Grappa di Sicilia*</td><td>Italie</td></tr>
 <tr><td></td><td>*Grappa di Marsala*</td><td>Italie</td></tr>
@@ -9126,9 +8731,9 @@ Appendice 1*[^t-18]*
 <tr><td colspan="3">18. Gentiane</td></tr>
 <tr><td></td><td>*Bayerischer Gebirgsenzian*</td><td>Allemagne</td></tr>
 <tr><td></td><td>*Südtiroler Enzian/Genziana dell’Alto Adige*</td><td>Italie</td></tr>
-<tr><td></td><td>*Genziana trentina**/Genziana del Trentino*</td><td>Italie</td></tr>
+<tr><td></td><td>*Genziana trentina/Genziana del Trentino*</td><td>Italie</td></tr>
 <tr><td colspan="3">19. Boissons spiritueuses au genièvre</td></tr>
-<tr><td></td><td>*Genièvre/Jenever/Genever*[^annexu1-lvlu1-5]</td><td>Belgique, Pays‑Bas, France (départements du Nord (59) et du Pas-de-Calais (62)), Allemagne (Länder Nordrhein-Westfalen et Niedersachsen)</td></tr>
+<tr><td></td><td>*Genièvre/Jenever/Genever*[^annex1-lvlu1-3]</td><td>Belgique, Pays‑Bas, France (départements du Nord (59) et du Pas-de-Calais (62)), Allemagne (Länder Nordrhein-Westfalen et Niedersachsen)</td></tr>
 <tr><td></td><td>*Genièvre de grains, Graanjenever, Graangenever*</td><td>Belgique, Pays‑Bas, France (départements du Nord (59) et du Pas-de-Calais (62))</td></tr>
 <tr><td></td><td>*Jonge jenever, jonge genever*</td><td>Belgique, Pays‑Bas</td></tr>
 <tr><td></td><td>*Oude jenever, oude genever*</td><td>Belgique, Pays‑Bas</td></tr>
@@ -9196,7 +8801,7 @@ Appendice 1*[^t-18]*
 <tr><td></td><td>*Suomalainen Marjalikööri/Suomalainen Hedelmälikööri*/*Finsk Bärlikör/Finsk Fruktlikör/Finnish berry liqueur/Finnish fruit liqueur*</td><td>Finlande</td></tr>
 <tr><td></td><td>*Grossglockner Alpenbitter*</td><td>Autriche</td></tr>
 <tr><td></td><td>*Mariazeller Magenlikör*</td><td>Autriche</td></tr>
-<tr><td></td><td>*Mariazeller Ja**gasaftl*</td><td>Autriche</td></tr>
+<tr><td></td><td>*Mariazeller Jagasaftl*</td><td>Autriche</td></tr>
 <tr><td></td><td>*Puchheimer Bitter*</td><td>Autriche</td></tr>
 <tr><td></td><td>*Steinfelder Magenbitter*</td><td>Autriche</td></tr>
 <tr><td></td><td>*Wachauer Marillenlikör*</td><td>Autriche</td></tr>
@@ -9251,10 +8856,10 @@ Appendice 1*[^t-18]*
 <tr><td></td><td>*Trauktinė Dainava*</td><td>Lituanie</td></tr>
 </table>
 
-[^annexu1-lvlu1-4]: L’indication géographique *«Irish Whiskey/Uisce Beatha Eireannach/Irish Whisky»* couvre le whisky/whiskey produit en Irlande et en Irlande du Nord.
-[^annexu1-lvlu1-5]: Compte tenu de la protection de l’indication géographique *«Genièvre»* dans l’UE et de l’intention exprimée par la Suisse de protéger la dénomination *«Genièvre»* comme indication géographique sur son territoire, l’UE et la Suisse ont convenu d’inclure la dénomination *«Genièvre»* dans les app. 1 et 2 de l’annexe 8. Les Parties s’engagent à réexaminer la situation de cette dénomination en 2015 à la lumière de l’état d’avancement de la protection de la dénomination *«Genièvre»* comme indication géographique en Suisse.
+[^annex1-lvlu1-2]: L’indication géographique *«Irish Whiskey/Uisce Beatha Eireannach/Irish Whisky»* couvre le whisky/whiskey produit en Irlande et en Irlande du Nord.
+[^annex1-lvlu1-3]: Compte tenu de la protection de l’indication géographique *«Genièvre»* dans l’UE et de l’intention exprimée par la Suisse de protéger la dénomination *«Genièvre»* comme indication géographique sur son territoire, l’UE et la Suisse ont convenu d’inclure la dénomination *«Genièvre»* dans les app. 1 et 2 de l’annexe 8. Les Parties s’engagent à réexaminer la situation de cette dénomination en 2015 à la lumière de l’état d’avancement de la protection de la dénomination *«Genièvre»* comme indication géographique en Suisse.
 
-Appendice 2*[^t-19]*
+Appendice 2[^t-19]
 
 ## Dénominations protégées pour les boissons spiritueuses originaires de la Suisse
 
@@ -9396,11 +9001,11 @@ Gentiane du Jura
 
 ### Boissons spiritueuses au genièvre
 
-Genièvre[^annexu1-lvlu1-lvlu6-1]
+Genièvre[^annex2-lvlu1-lvlu6-1]
 
 Genièvre du Jura
 
-[^annexu1-lvlu1-lvlu6-1]: Compte tenu de la protection de l’indication géographique *«Genièvre»* dans l’UE et de l’intention exprimée par la Suisse de protéger la dénomination *«Geni**èvre»* comme indication géographique sur son territoire, l’UE et la Suisse ont convenu d’inclure la dénomination *«Genièvre»* dans les appe. 1 et 2 de l’annexe 8. Les Parties s’engagent à réexaminer la situation de cette dénomination en 2015 à la lumière de l’état d’avancement de la protection de la dénomination *«Genièvre»* comme indication géographique en Suisse.
+[^annex2-lvlu1-lvlu6-1]: Compte tenu de la protection de l’indication géographique *«Genièvre»* dans l’UE et de l’intention exprimée par la Suisse de protéger la dénomination *«Geni**èvre»* comme indication géographique sur son territoire, l’UE et la Suisse ont convenu d’inclure la dénomination *«Genièvre»* dans les appe. 1 et 2 de l’annexe 8. Les Parties s’engagent à réexaminer la situation de cette dénomination en 2015 à la lumière de l’état d’avancement de la protection de la dénomination *«Genièvre»* comme indication géographique en Suisse.
 
 ### Liqueurs
 
@@ -9468,13 +9073,13 @@ Appendice 4
 
 Néant
 
-Appendice 5*[^t-20]*
+Appendice 5[^t-20]
 
 ## Liste des actes visés à l’art. 2 relatifs aux boissons spiritueuses, vins aromatisés et boissons aromatisées
 
 [^t-20]: Introduit par l’art. 1 par. 21 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)). Nouvelle teneur selon l’art. 1, par. 2 de la D n<sup>o</sup> 2/2012 du Comité mixte de l’agriculture du 3 mai 2012, en vigueur depuis le 4 mai 2012 ([RO 2012 3385](https://fedlex.data.admin.ch/eli/oc/2012/378)).
 
-- a) Boissons spiritueuses relevant du code 2208 de la Convention internationale sur le système harmonisé de désignation et de codification des marchandises[^annex9-lvlu1-1].
+- a) Boissons spiritueuses relevant du code 2208 de la Convention internationale sur le système harmonisé de désignation et de codification des marchandises[^annex5-lvlu1-1].
 - *Pour l’Union européenne:*
 - Règlement (CE) n<sup>o</sup> 110/2008 du Parlement européen et du Conseil du 15 janvier 2008 concernant la définition, la désignation, la présentation, l’étiquetage et la protection des indications géographiques des boissons spiritueuses et abrogeant le règlement (CEE) n<sup>o</sup> 1576/89 du Conseil (JO L 39 du 13.2.2008, p. 16), modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 1334/2008 (JO L 354 du 31.12.2008, p. 34)
 - *Pour la Suisse:*
@@ -9485,7 +9090,7 @@ Appendice 5*[^t-20]*
 - *Pour la Suisse:*
 - Chapitre 2, section 3, de l’ordonnance du DFI du 23 novembre 2005 sur les boissons alcooliques, modifiée en dernier lieu le 15 décembre 2010 (RO *2010* 6391).
 
-[^annex9-lvlu1-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^annex5-lvlu1-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 Annexe 9
 
@@ -9501,12 +9106,12 @@ Sans préjudice de leurs obligations par rapport aux produits ne provenant pas d
 
 **Champ d’application**
 
-<sup>1.</sup> La présente annexe s’applique aux produits agricoles[^annexu1-lvlu1-2-4] et denrées alimentaires obtenus selon le mode de production biologique et conformes aux dispositions législatives et réglementaires figurant à l’appendice 1.
+<sup>1.</sup> La présente annexe s’applique aux produits agricoles[^annex9-lvlu1-2-1] et denrées alimentaires obtenus selon le mode de production biologique et conformes aux dispositions législatives et réglementaires figurant à l’appendice 1.
 
-<sup>2.</sup> ...[^annexu1-lvlu1-2-5]
+<sup>2.</sup> …[^annex9-lvlu1-2-2]
 
-[^annexu1-lvlu1-2-4]: Nouvelle expression selon l’art. 1 de la D n° 2/2011 du Comité mixte de l’agriculture du 25 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
-[^annexu1-lvlu1-2-5]: Abrogé par l’art. 1 de la D n° 2/2011 du Comité mixte de l’agriculture du 25 nov. 2011, avec effet au 1<sup>er</sup> déc. 2011 ([RO 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
+[^annex9-lvlu1-2-1]: Nouvelle expression selon l’art. 1 de la D n° 2/2011 du Comité mixte de l’agriculture du 25 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
+[^annex9-lvlu1-2-2]: Abrogé par l’art. 1 de la D n° 2/2011 du Comité mixte de l’agriculture du 25 nov. 2011, avec effet au 1<sup>er</sup> déc. 2011 ([RO 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
 
 #### Art. 3
 
@@ -9516,9 +9121,9 @@ Sans préjudice de leurs obligations par rapport aux produits ne provenant pas d
 
 <sup>2.</sup> Les Parties s’efforcent de mettre tout en œuvre pour assurer que les dispositions législatives et réglementaires couvrant spécifiquement les produits visés à l’art. 2 évoluent de manière équivalente.
 
-3.[^annexu1-lvlu1-3-3] Les importations entre les Parties de produits issus du mode de production biologique originaires de l’une des Parties ou mis en libre pratique sur le territoire de l’une des Parties et qui sont couverts par les dispositions d’équivalence visées au par. 1 ne nécessitent pas la présentation de certificats d’inspection.
+<sup>3.</sup> Les importations entre les Parties de produits issus du mode de production biologique originaires de l’une des Parties ou mis en libre pratique sur le territoire de l’une des Parties et qui sont couverts par les dispositions d’équivalence visées au par. 1 ne nécessitent pas la présentation de certificats d’inspection.[^annex9-lvlu1-3-1]
 
-[^annexu1-lvlu1-3-3]: Introduit par l’art. 1 par. 22 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annex9-lvlu1-3-1]: Introduit par l’art. 1 par. 22 de l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 #### Art. 4
 
@@ -9541,17 +9146,17 @@ Dans l’objectif de développer des régimes permettant d’éviter le réétiq
 
 #### Art. 6
 
-**Pays tiers et organismes de contrôle dans des pays tiers**[^annexu1-lvlu1-6-3]
+**Pays tiers et organismes de contrôle dans des pays tiers**[^annex9-lvlu1-6-1]
 
 <sup>1.</sup> Les Parties s’efforcent de mettre tout en œuvre pour assurer l’équivalence des régimes d’importation applicables aux produits obtenus selon le mode de production biologique et provenant de pays tiers.
 
 <sup>2.</sup> De manière à assurer une pratique équivalente en matière de reconnaissance à l’égard des pays tiers et des organismes de contrôle dans les pays tiers, les Parties établissent une collaboration appropriée afin de mettre à profit leurs expériences et se consultent préalablement à la reconnaissance et à l’inclusion d’un pays tiers ou d’un organisme de contrôle dans les listes établies à cet effet dans leurs dispositions législatives et réglementaires.
 
-[^annexu1-lvlu1-6-3]: Nouvelle teneur selon l’art. 1 de la D n° 2/2011 du Comité mixte de l’agriculture du 25 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
+[^annex9-lvlu1-6-1]: Nouvelle teneur selon l’art. 1 de la D n° 2/2011 du Comité mixte de l’agriculture du 25 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
 
 #### Art. 7
 
-**Échange d’informations**[^annexu1-lvlu1-7-1]
+**Échange d’informations**[^annex9-lvlu1-7-1]
 
 <sup>1.</sup>
 
@@ -9563,7 +9168,7 @@ En application de l’article 8 de l’accord, les Parties et les États membres
 
 <sup>2.</sup> Les Parties garantissent le traitement confidentiel des informations visées au par. 1, troisième tiret.
 
-[^annexu1-lvlu1-7-1]: Nouvelle teneur selon l’art. 1 de la D n° 2/2011 du Comité mixte de l’agriculture du 25 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
+[^annex9-lvlu1-7-1]: Nouvelle teneur selon l’art. 1 de la D n° 2/2011 du Comité mixte de l’agriculture du 25 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
 
 #### Art. 8
 
@@ -9587,7 +9192,7 @@ Le Groupe de travail examine périodiquement l’évolution des dispositions lé
 
 <sup>2.</sup> Si les consultations prévues au par. 1 ne permettent pas aux Parties de s’entendre, la Partie qui a sollicité les consultations ou arrêté les mesures visées au par. 1 peut prendre les mesures conservatoires appropriées de manière à permettre l’application de la présente annexe.
 
-Appendice 1*[^t-21]*
+Appendice 1[^t-21]
 
 ## Liste des actes visés à l’art. 3 relatifs aux produits agricoles et denrées alimentaires obtenus selon le mode de production biologique
 
@@ -9611,11 +9216,11 @@ Exclusion du régime d’équivalence
 
 Produits suisses à base de composants produits dans le cadre du système de conversion vers l’agriculture biologique
 
-Produits issus de la production caprine suisse lorsque les animaux bénéficient de la dérogation prévue à l’art. 39*d* de l’ordonnance sur l’agriculture biologique et la désignation des produits et des denrées alimentaires biologiques[^annexu1-lvlu1-6].
+Produits issus de la production caprine suisse lorsque les animaux bénéficient de la dérogation prévue à l’art. 39*d* de l’ordonnance sur l’agriculture biologique et la désignation des produits et des denrées alimentaires biologiques[^annex1-lvlu1-4].
 
-[^annexu1-lvlu1-6]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^annex1-lvlu1-4]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 
-Appendice 2*[^t-22]*
+Appendice 2[^t-22]
 
 ## Modalités d’application
 
@@ -9623,7 +9228,7 @@ Appendice 2*[^t-22]*
 
 Néant.
 
-Annexe 10*[^t-23]*
+Annexe 10[^t-23]
 
 ## Relative à la reconnaissance des contrôles de conformité aux normes de commercialisation pour les fruits et légumes frais
 
@@ -9633,9 +9238,9 @@ Annexe 10*[^t-23]*
 
 **Champ d’application**
 
-La présente annexe s’applique aux fruits et légumes destinés à être consommés à l’état frais ou secs et pour lesquels des normes de commercialisation ont été fixées ou sont reconnues comme alternatives à la norme générale par l’Union européenne sur la base du règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil[^annexu1-lvlu1-1-3].
+La présente annexe s’applique aux fruits et légumes destinés à être consommés à l’état frais ou secs et pour lesquels des normes de commercialisation ont été fixées ou sont reconnues comme alternatives à la norme générale par l’Union européenne sur la base du règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil[^annex10-lvlu1-1-1].
 
-[^annexu1-lvlu1-1-3]: Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil (JO L 347 du 20.12.2013, p. 671).
+[^annex10-lvlu1-1-1]: Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil (JO L 347 du 20.12.2013, p. 671).
 
 #### Art. 2
 
@@ -9716,7 +9321,7 @@ Suisse
 
 Appendice 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20201101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20230101/fr/xml/image/image1.png)
 
 Annexe 11
 
@@ -9730,17 +9335,17 @@ Le Titre I de la présente annexe porte:
 
 - – sur les mesures de lutte contre certaines maladies animales et la notification de ces maladies;
 - – sur les échanges et l’importation des pays tiers des animaux vivants, de leurs sperme, ovules et embryons.
-- − [^annexu1-lvlu1-1-4] sur les mouvements non commerciaux des animaux de compagnie.
+- − [^annex11-lvlu1-1-1] sur les mouvements non commerciaux des animaux de compagnie.
 
 <sup>2.</sup> Le Titre II de la présente annexe porte sur le commerce de produits animaux.
 
-[^annexu1-lvlu1-1-4]: Introduit par l’art. 1 par. 1 de l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles, appliqué provisoirement depuis le 1<sup>er</sup> janv. 2009, en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
+[^annex11-lvlu1-1-1]: Introduit par l’art. 1 par. 1 de l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles, appliqué provisoirement depuis le 1<sup>er</sup> janv. 2009, en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
 
-### Titre I Commerce des animaux vivants, de leur sperme, ovules et embryons et mouvements non commerciaux des animaux de compagnie****
+### Titre I Commerce des animaux vivants, de leur sperme, ovules et embryons et mouvements non commerciaux des animaux de compagnie
 
-[^annexu1-lvlu1-lvlI-1]
+[^annex11-lvlu1-titI-1]
 
-[^annexu1-lvlu1-lvlI-1]: Nouvelle teneur selon l’art. 1 par. 2 de l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles, appliqué provisoirement depuis le 1<sup>er</sup> janv. 2009, en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
+[^annex11-lvlu1-titI-1]: Nouvelle teneur selon l’art. 1 par. 2 de l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles, appliqué provisoirement depuis le 1<sup>er</sup> janv. 2009, en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
 
 #### Art. 2
 
@@ -9750,11 +9355,11 @@ Le Titre I de la présente annexe porte:
 
 #### Art. 3
 
-[^annexu1-lvlu1-lvlI-3-1]
+[^annex11-lvlu1-titI-3-1]
 
 Les Parties conviennent que les échanges d’animaux vivants, de leur sperme, ovules, embryons et les mouvements non commerciaux des animaux de compagnie s’effectuent conformément à la législation spécifiée à l’appendice 2. Cette législation s’applique selon les règles et procédures particulières prévues dans ledit appendice.
 
-[^annexu1-lvlu1-lvlI-3-1]: Nouvelle teneur selon l’art. 1 par. 3 de l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles, appliqué provisoirement depuis le 1<sup>er</sup> janv. 2009, en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
+[^annex11-lvlu1-titI-3-1]: Nouvelle teneur selon l’art. 1 par. 3 de l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles, appliqué provisoirement depuis le 1<sup>er</sup> janv. 2009, en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
 
 #### Art. 4
 
@@ -9782,9 +9387,9 @@ L’objectif du présent titre est de faciliter le commerce des produits animaux
 
 **Obligations multilatérales**
 
-Le présent titre ne restreint en aucune façon les droits ou obligations des Parties prévus par l’accord instituant l’Organisation mondiale du commerce et ses annexes, et en particulier l’accord sur l’application des mesures sanitaires et phytosanitaires[^annexu1-lvlu1-lvlII-8-1] (SPS).
+Le présent titre ne restreint en aucune façon les droits ou obligations des Parties prévus par l’accord instituant l’Organisation mondiale du commerce et ses annexes, et en particulier l’accord sur l’application des mesures sanitaires et phytosanitaires[^annex11-lvlu1-titII-8-1] (SPS).
 
-[^annexu1-lvlu1-lvlII-8-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1A.4
+[^annex11-lvlu1-titII-8-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)annexe 1A.4
 
 #### Art. 9
 
@@ -9858,11 +9463,11 @@ Pour déterminer si une mesure sanitaire appliquée par une Partie exportatrice 
 
 #### Art. 15
 
-**Produits animaux: contrôles aux frontières et redevances**[^annexu1-lvlu1-lvlII-15-1]
+**Produits animaux: contrôles aux frontières et redevances**[^annex11-lvlu1-titII-15-1]
 
 Les contrôles relatifs aux échanges entre la Communauté et la Suisse de produits animaux s’effectuent conformément à l’appendice 10.
 
-[^annexu1-lvlu1-lvlII-15-1]: Nouvelle teneur selon l’art. 1 par. 4 de l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles, appliqué provisoirement depuis le 1<sup>er</sup> janv. 2009, en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
+[^annex11-lvlu1-titII-15-1]: Nouvelle teneur selon l’art. 1 par. 4 de l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles, appliqué provisoirement depuis le 1<sup>er</sup> janv. 2009, en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
 
 #### Art. 16
 
@@ -9957,7 +9562,7 @@ L’échange d’informations sur les modifications de leurs mesures sanitaires 
 
 <sup>4.</sup> Dans le cas où la Suisse prend une décision de sauvegarde à l’égard d’un pays tiers, elle en informe les services compétents de la Commission dans les délais les plus brefs. Sans préjudice de la possibilité pour la Suisse de mettre en vigueur immédiatement les mesures envisagées, des consultations entre les services compétents de la Commission et de la Suisse se tiendront dans les meilleurs délais en vue de rechercher les solutions appropriées. Le cas échéant, le Comité pourra être saisi à la requête de l’une des deux Parties.
 
-Appendice 1*[^t-24]*
+Appendice 1[^t-24]
 
 ## Mesures de lutte/notification des maladies
 
@@ -9965,11 +9570,11 @@ Appendice 1*[^t-24]*
 
 ### I. Fièvre aphteuse
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlI-lvlA-1]
+[^annex1-lvlu1-lvlI-lvlA-1]
 
-[^annexu1-lvlu1-lvlI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -9986,11 +9591,11 @@ Appendice 1*[^t-24]*
 
 ### II. Peste porcine classique
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlII-lvlA-1]
+[^annex1-lvlu1-lvlII-lvlA-1]
 
-[^annexu1-lvlu1-lvlII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10009,19 +9614,19 @@ Appendice 1*[^t-24]*
 
 \5. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 21 de la directive 2001/89/CEE et à l’art. 57 de la loi sur les épizooties.
 
-\6. Si nécessaire, en application de l’art. 89, par. 2, de l’ordonnance sur les épizooties, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires édicte des dispositions d’exécution de caractère technique en ce qui concerne le contrôle sérologique des porcs dans les zones de protection et de surveillance conformément au chapitre IV de l’annexe de la décision 2002/106/CE de la Commission[^annexu1-lvlu1-lvlII-lvlB-1].
+\6. Si nécessaire, en application de l’art. 89, par. 2, de l’ordonnance sur les épizooties, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires édicte des dispositions d’exécution de caractère technique en ce qui concerne le contrôle sérologique des porcs dans les zones de protection et de surveillance conformément au chapitre IV de l’annexe de la décision 2002/106/CE de la Commission[^annex1-lvlu1-lvlII-lvlB-1].
 
 \7. Le laboratoire commun de référence pour la peste porcine classique est: Institut für Virologie der Tierärztlichen Hochschule Hannover, 15 Bünteweg 17, 30559 Hanovre, Allemagne. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les compétences et les tâches de ce laboratoire sont celles prévues par l’annexe IV de la directive 2001/89/CE.
 
-[^annexu1-lvlu1-lvlII-lvlB-1]: Décision 2002/106/CE de la Commission du 1<sup>er</sup> février 2002 portant approbation d’un manuel diagnostique établissant des procédures de diagnostic, des méthodes d’échantillonnage et des critères pour l’évaluation des tests de laboratoire de confirmation de la peste porcine classique (JO L 39 du 9.2.2002, p. 71).
+[^annex1-lvlu1-lvlII-lvlB-1]: Décision 2002/106/CE de la Commission du 1<sup>er</sup> février 2002 portant approbation d’un manuel diagnostique établissant des procédures de diagnostic, des méthodes d’échantillonnage et des critères pour l’évaluation des tests de laboratoire de confirmation de la peste porcine classique (JO L 39 du 9.2.2002, p. 71).
 
 ### III. Peste porcine africaine
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlIII-lvlA-1]
+[^annex1-lvlu1-lvlIII-lvlA-1]
 
-[^annexu1-lvlu1-lvlIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10034,19 +9639,19 @@ Appendice 1*[^t-24]*
 
 \2. En vertu de l’art. 97 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’urgence publié sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
 
-\3. Si nécessaire, en vertu de l’art. 89, par. 2, de l’ordonnance sur les épizooties, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires édicte des dispositions d’exécution de caractère technique conformément aux dispositions de la décision 2003/422/CE de la Commission[^annexu1-lvlu1-lvlIII-lvlB-1] en ce qui concerne les modalités de diagnostic de la peste porcine africaine.
+\3. Si nécessaire, en vertu de l’art. 89, par. 2, de l’ordonnance sur les épizooties, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires édicte des dispositions d’exécution de caractère technique conformément aux dispositions de la décision 2003/422/CE de la Commission[^annex1-lvlu1-lvlIII-lvlB-1] en ce qui concerne les modalités de diagnostic de la peste porcine africaine.
 
 \4. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 20 de la directive 2002/60/CEE et à l’art. 57 de la loi sur les épizooties.
 
-[^annexu1-lvlu1-lvlIII-lvlB-1]: Décision 2003/422/CE de la Commission du 26 mai 2003 portant approbation du manuel de diagnostic de la peste porcine africaine (JO L 143 du 11.6.2003, p. 35).
+[^annex1-lvlu1-lvlIII-lvlB-1]: Décision 2003/422/CE de la Commission du 26 mai 2003 portant approbation du manuel de diagnostic de la peste porcine africaine (JO L 143 du 11.6.2003, p. 35).
 
 ### IV. Peste équine
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlIV-lvlA-1]
+[^annex1-lvlu1-lvlIV-lvlA-1]
 
-[^annexu1-lvlu1-lvlIV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlIV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10065,11 +9670,11 @@ Appendice 1*[^t-24]*
 
 ### V. Influenza aviaire
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlV-lvlA-1]
+[^annex1-lvlu1-lvlV-lvlA-1]
 
-[^annexu1-lvlu1-lvlV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10086,11 +9691,11 @@ Appendice 1*[^t-24]*
 
 ### VI. Maladie de Newcastle
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlVI-lvlA-1]
+[^annex1-lvlu1-lvlVI-lvlA-1]
 
-[^annexu1-lvlu1-lvlVI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlVI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10109,11 +9714,11 @@ Appendice 1*[^t-24]*
 
 ### VII. Maladies des poissons et des mollusques
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlVII-lvlA-1]
+[^annex1-lvlu1-lvlVII-lvlA-1]
 
-[^annexu1-lvlu1-lvlVII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlVII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10132,11 +9737,11 @@ Appendice 1*[^t-24]*
 
 ### VIII. Encéphalopathies spongiformes transmissibles
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlVIII-lvlA-1]
+[^annex1-lvlu1-lvlVIII-lvlA-1]
 
-[^annexu1-lvlu1-lvlVIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlVIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10202,20 +9807,20 @@ Conformément à l’art. 179*d* de l’ordonnance sur les épizooties et à l�
 
 Conformément à l’art. 180*c* de l’ordonnance sur les épizooties et à l’art. 4 de l’ordonnance sur les denrées alimentaires d’origine animale, la Suisse a mis en place une politique de retrait des chaînes alimentaires animale et humaine des MRS. La liste des MRS retirés chez les ovins et les caprins comprend notamment le cerveau non extrait de la boîte crânienne, la moelle épinière avec la dure-mère (*Dura mater*) et les amygdales des animaux âgés de plus de douze mois ou chez lesquels une incisive permanente a percé la gencive, la rate et l’iléon des animaux de tous âges.
 
-\3. Le règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil[^annexu1-lvlu1-lvlVIII-lvlC-1] et le règlement (UE) n<sup>o</sup> 142/2011 de la Commission[^annexu1-lvlu1-lvlVIII-lvlC-2] établissent les règles sanitaires applicables aux sous‑produits animaux non destinés à la consommation humaine dans les États membres de l’Union européenne.
+\3. Le règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil[^annex1-lvlu1-lvlVIII-lvlC-1] et le règlement (UE) n<sup>o</sup> 142/2011 de la Commission[^annex1-lvlu1-lvlVIII-lvlC-2] établissent les règles sanitaires applicables aux sous‑produits animaux non destinés à la consommation humaine dans les États membres de l’Union européenne.
 
 Au titre de l’art. 22 de l’ordonnance concernant l’élimination des sous-produits animaux, la Suisse incinère les sous-produits animaux de catégorie 1, y compris les matériels à risques spécifiés et les animaux morts à la ferme.
 
-[^annexu1-lvlu1-lvlVIII-lvlC-1]: Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (JO L 300 du 14.11.2009, p. 1).
-[^annexu1-lvlu1-lvlVIII-lvlC-2]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette Directive (JO L 54 du 26.2.2011, p. 1).
+[^annex1-lvlu1-lvlVIII-lvlC-1]: Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (JO L 300 du 14.11.2009, p. 1).
+[^annex1-lvlu1-lvlVIII-lvlC-2]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette Directive (JO L 54 du 26.2.2011, p. 1).
 
 ### IX. Fièvre catarrhale du mouton
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlIX-lvlA-1]
+[^annex1-lvlu1-lvlIX-lvlA-1]
 
-[^annexu1-lvlu1-lvlIX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlIX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10232,11 +9837,11 @@ Au titre de l’art. 22 de l’ordonnance concernant l’élimination des sous-p
 
 ### X. Zoonoses
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlX-lvlA-1]
+[^annex1-lvlu1-lvlX-lvlA-1]
 
-[^annexu1-lvlu1-lvlX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10284,19 +9889,19 @@ Au titre de l’art. 22 de l’ordonnance concernant l’élimination des sous-p
 - 1790 Copenhague V
 - Danemark
 
-\2. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de ces désignations. Les fonctions et les tâches de ces laboratoires sont celles prévues par le règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil[^annexu1-lvlu1-lvlX-lvlB-1].
+\2. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de ces désignations. Les fonctions et les tâches de ces laboratoires sont celles prévues par le règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil[^annex1-lvlu1-lvlX-lvlB-1].
 
 \3. La Suisse transmet à la Commission, chaque année pour la fin du mois de mai, un rapport sur les tendances et les sources des zoonoses, des agents zoonotiques et de la résistance antimicrobienne, comprenant les données recueillies conformément aux art. 4, 7 et 8 de la directive 2003/99/CE au cours de l’année précédente. Ce rapport comprend également les informations visées à l’art. 3, par. 2, point b), du règlement (CE) n<sup>o</sup> 2160/2003. Ce rapport est transmis par la Commission à l’Autorité européenne de sécurité des aliments en vue de la publication du rapport de synthèse concernant les tendances et les sources des zoonoses, des agents zoonotiques et de la résistance antimicrobienne dans l’Union européenne.
 
-[^annexu1-lvlu1-lvlX-lvlB-1]: Règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil du 29 avr. 2004 relatif aux contrôles officiels effectués pour s’assurer de la conformité avec la législation sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux (JO L 165 du 30.4.2004, p. 1).
+[^annex1-lvlu1-lvlX-lvlB-1]: Règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil du 29 avr. 2004 relatif aux contrôles officiels effectués pour s’assurer de la conformité avec la législation sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux (JO L 165 du 30.4.2004, p. 1).
 
 ### XI. Autres maladies
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlXI-lvlA-1]
+[^annex1-lvlu1-lvlXI-lvlA-1]
 
-[^annexu1-lvlu1-lvlXI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlXI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10315,11 +9920,11 @@ Au titre de l’art. 22 de l’ordonnance concernant l’élimination des sous-p
 
 ### XII. Notification des maladies
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlXII-lvlA-1]
+[^annex1-lvlu1-lvlXII-lvlA-1]
 
-[^annexu1-lvlu1-lvlXII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlXII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10330,7 +9935,7 @@ Au titre de l’art. 22 de l’ordonnance concernant l’élimination des sous-p
 
 La Commission, en collaboration avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires intègre la Suisse au système de notification de maladies des animaux, tel que prévu par la directive 82/894/CEE.
 
-Appendice 2*[^t-25]*
+Appendice 2[^t-25]
 
 ## Santé animale: Échanges et mise sur le marché
 
@@ -10338,11 +9943,11 @@ Appendice 2*[^t-25]*
 
 ### I. Bovins et porcins
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlI-lvlA-2]
+[^annex2-lvlu1-lvlI-lvlA-1]
 
-[^annexu1-lvlu1-lvlI-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10392,7 +9997,7 @@ Si la leucose bovine enzootique a été constatée sur 0,2 % des cheptels, l’O
 - d) en cas de suspicion ou lors du constat de rhinotrachéite infectieuse bovine, le statut officiellement indemne est suspendu dans le cheptel concerné jusqu’à la levée du séquestre;
 - e) le séquestre est levé, si un examen sérologique effectué au plus tôt trente jours après l’élimination des animaux contaminés, a donné un résultat négatif.
 
-En raison de la reconnaissance du statut de la Suisse, la décision 2004/558/CE de la Commission[^annexu1-lvlu1-lvlI-lvlB-1] est applicable *mutatis mutandis*.
+En raison de la reconnaissance du statut de la Suisse, la décision 2004/558/CE de la Commission[^annex2-lvlu1-lvlI-lvlB-1] est applicable *mutatis mutandis*.
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires informe immédiatement la Commission de toute modification des conditions ayant prévalu pour la reconnaissance du statut. La situation est examinée au sein du Comité mixte vétérinaire afin de revoir le présent paragraphe.
 
@@ -10403,7 +10008,7 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 - c) en cas de suspicion ou lors du constat de maladie d’Aujeszky, le statut officiellement indemne est suspendu dans le cheptel concerné jusqu’à la levée du séquestre;
 - d) le séquestre est levé si, après l’élimination des animaux contaminés, deux examens sérologiques de tous les animaux reproducteurs et d’un nombre représentatif d’animaux d’engrais effectués à vingt-un jours d’intervalle au moins ont donné un résultat négatif.
 
-En raison de la reconnaissance du statut de la Suisse, la décision 2008/185/CE de la Commission[^annexu1-lvlu1-lvlI-lvlB-2] est applicable *mutatis mutandis*.
+En raison de la reconnaissance du statut de la Suisse, la décision 2008/185/CE de la Commission[^annex2-lvlu1-lvlI-lvlB-2] est applicable *mutatis mutandis*.
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires informe immédiatement la Commission de toute modification des conditions ayant prévalu pour la reconnaissance du statut. La situation est examinée au sein du Comité mixte vétérinaire afin de revoir le présent paragraphe.
 
@@ -10447,16 +10052,16 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
   - – ne proviennent pas de cheptels où un cas suspect d’ESB est en cours d’investigation;
   - – sont nés après le 1<sup>er</sup> juin 2001.›
 
-[^annexu1-lvlu1-lvlI-lvlB-1]: Décision 2004/558/CE de la Commission du 15 juillet 2004 mettant en œuvre la directive 64/432/CEE du Conseil en ce qui concerne des garanties additionnelles pour les échanges intracommunautaires de bovins en rapport avec la rhinotrachéite infectieuse bovine et l’approbation des programmes d’éradication présentés par certains États membres (JO L 249 du 23.7.2004, p. 20).
-[^annexu1-lvlu1-lvlI-lvlB-2]: Décision 2008/185/CE de la Commission du 21 février 2008 établissant des garanties supplémentaires concernant la maladie d’Aujeszky pour les porcs destinés aux échanges intracommunautaires et fixant les critères relatifs aux renseignements à fournir sur cette maladie (JO L 59 du 4.3.2008, p. 19).
+[^annex2-lvlu1-lvlI-lvlB-1]: Décision 2004/558/CE de la Commission du 15 juillet 2004 mettant en œuvre la directive 64/432/CEE du Conseil en ce qui concerne des garanties additionnelles pour les échanges intracommunautaires de bovins en rapport avec la rhinotrachéite infectieuse bovine et l’approbation des programmes d’éradication présentés par certains États membres (JO L 249 du 23.7.2004, p. 20).
+[^annex2-lvlu1-lvlI-lvlB-2]: Décision 2008/185/CE de la Commission du 21 février 2008 établissant des garanties supplémentaires concernant la maladie d’Aujeszky pour les porcs destinés aux échanges intracommunautaires et fixant les critères relatifs aux renseignements à fournir sur cette maladie (JO L 59 du 4.3.2008, p. 19).
 
 ### II. Ovins et caprins
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlII-lvlA-2]
+[^annex2-lvlu1-lvlII-lvlA-1]
 
-[^annexu1-lvlu1-lvlII-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10475,11 +10080,11 @@ En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la 
 
 ### III. Équidés
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlIII-lvlA-2]
+[^annex2-lvlu1-lvlIII-lvlA-1]
 
-[^annexu1-lvlu1-lvlIII-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10498,11 +10103,11 @@ En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la 
 
 ### IV. Volailles et œufs à couver
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlIV-lvlA-2]
+[^annex2-lvlu1-lvlIV-lvlA-1]
 
-[^annexu1-lvlu1-lvlIV-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlIV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10517,7 +10122,7 @@ En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la 
 
 \3. À l’art. 8, par. 1, point a) i), de la directive 2009/158/CE, la condition de séjour pour les œufs avant expédition est applicable *mutatis mutandis* à la Suisse.
 
-\4. En cas d’expéditions d’œufs à couver vers l’Union européenne, les autorités suisses s’engagent à respecter les règles de marquage prévues par le règlement (CE) n<sup>o</sup> 617/2008 de la Commission[^annexu1-lvlu1-lvlIV-lvlB-1].
+\4. En cas d’expéditions d’œufs à couver vers l’Union européenne, les autorités suisses s’engagent à respecter les règles de marquage prévues par le règlement (CE) n<sup>o</sup> 617/2008 de la Commission[^annex2-lvlu1-lvlIV-lvlB-1].
 
 \5. À l’art. 10, point a), de la directive 2009/158/CE, la condition de séjour est applicable *mutatis mutandis* à la Suisse.
 
@@ -10533,15 +10138,15 @@ En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la 
 
 \11. En cas d’expéditions de la Suisse vers la Finlande ou la Suède, les autorités suisses s’engagent à fournir, en matière de salmonelles, les garanties prévues par la législation de l’Union européenne.
 
-[^annexu1-lvlu1-lvlIV-lvlB-1]: Règlement (CE) n<sup>o</sup> 617/2008 de la Commission du 27 juin 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 1234/2007 du Conseil en ce qui concerne les normes de commercialisation pour les œufs à couver et les poussins de volailles de basse-cour (JO L 168 du 28.6.2008, p. 5).
+[^annex2-lvlu1-lvlIV-lvlB-1]: Règlement (CE) n<sup>o</sup> 617/2008 de la Commission du 27 juin 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 1234/2007 du Conseil en ce qui concerne les normes de commercialisation pour les œufs à couver et les poussins de volailles de basse-cour (JO L 168 du 28.6.2008, p. 5).
 
 ### V. Animaux et produits d’aquaculture
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlV-lvlA-2]
+[^annex2-lvlu1-lvlV-lvlA-1]
 
-[^annexu1-lvlu1-lvlV-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10554,19 +10159,19 @@ En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la 
 
 \2. L’application éventuelle des art. 29, 40, 41, 43, 44 et 50 de la directive 2006/88/CE relève du Comité mixte vétérinaire.
 
-\3. Les conditions de police sanitaire régissant la mise sur le marché d’animaux aquatiques ornementaux, d’animaux d’aquaculture destinés à l’élevage, y compris dans les zones de reparcage, des pêcheries récréatives avec repeuplement et des installations ouvertes détenant des espèces d’ornement, ainsi qu’au repeuplement et d’animaux d’aquaculture et de produits animaux destinés à la consommation humaine sont fixées aux art. 4 à 9 du règlement (CE) n<sup>o</sup> 1251/2008 de la Commission[^annexu1-lvlu1-lvlV-lvlB-1].
+\3. Les conditions de police sanitaire régissant la mise sur le marché d’animaux aquatiques ornementaux, d’animaux d’aquaculture destinés à l’élevage, y compris dans les zones de reparcage, des pêcheries récréatives avec repeuplement et des installations ouvertes détenant des espèces d’ornement, ainsi qu’au repeuplement et d’animaux d’aquaculture et de produits animaux destinés à la consommation humaine sont fixées aux art. 4 à 9 du règlement (CE) n<sup>o</sup> 1251/2008 de la Commission[^annex2-lvlu1-lvlV-lvlB-1].
 
 \4. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 58 de la directive 2006/88/CE et à l’art. 57 de la loi sur les épizooties.
 
-[^annexu1-lvlu1-lvlV-lvlB-1]: Règlement (CE) n<sup>o</sup> 1251/2008 de la Commission du 12 décembre 2008 portant application de la directive 2006/88/CE du Conseil en ce qui concerne les conditions et les exigences de certification applicables à la mise sur le marché et à l’importation dans la Communauté d’animaux d’aquaculture et de produits issus de ces animaux et établissant une liste des espèces vectrices (JO L 337 du 16.12.2008, p. 41).
+[^annex2-lvlu1-lvlV-lvlB-1]: Règlement (CE) n<sup>o</sup> 1251/2008 de la Commission du 12 décembre 2008 portant application de la directive 2006/88/CE du Conseil en ce qui concerne les conditions et les exigences de certification applicables à la mise sur le marché et à l’importation dans la Communauté d’animaux d’aquaculture et de produits issus de ces animaux et établissant une liste des espèces vectrices (JO L 337 du 16.12.2008, p. 41).
 
 ### VI. Embryons bovins
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlVI-lvlA-2]
+[^annex2-lvlu1-lvlVI-lvlA-1]
 
-[^annexu1-lvlu1-lvlVI-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlVI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10581,11 +10186,11 @@ En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la 
 
 ### VII. Sperme bovin
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlVII-lvlA-2]
+[^annex2-lvlu1-lvlVII-lvlA-1]
 
-[^annexu1-lvlu1-lvlVII-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlVII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10604,11 +10209,11 @@ En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la 
 
 ### VIII. Sperme porcin
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlVIII-lvlA-2]
+[^annex2-lvlu1-lvlVIII-lvlA-1]
 
-[^annexu1-lvlu1-lvlVIII-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlVIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10625,11 +10230,11 @@ En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la 
 
 ### IX. Autres espèces
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlIX-lvlA-2]
+[^annex2-lvlu1-lvlIX-lvlA-1]
 
-[^annexu1-lvlu1-lvlIX-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlIX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10646,17 +10251,17 @@ En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la 
 
 \4. Les lagomorphes faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires conformes au modèle figurant à la première partie de l’annexe E de la directive 92/65/CEE, éventuellement complétés par l’attestation figurant à l’art. 9, par. 2, deuxième alinéa, de la directive 92/65/CEE.
 
-Cette attestation peut être adaptée par les autorités suisses afin de reprendre *in exte**n**so* les exigences de l’art. 9 de la directive 92/65/CEE.
+Cette attestation peut être adaptée par les autorités suisses afin de reprendre *in extenso* les exigences de l’art. 9 de la directive 92/65/CEE.
 
 \5. L’information prévue à l’art. 9, par. 2, troisième alinéa, de la directive 92/65/CEE est effectuée au sein du Comité mixte vétérinaire.
 
 \6. Les expéditions de l’Union européenne vers la Suisse de chiens et de chats sont soumises aux exigences prévues à l’art. 10, par. 2, de la directive 92/65/CEE.
 
-Le système d’identification est celui prévu par le règlement (UE) n<sup>o</sup> 576/2013. Le passeport à utiliser est celui prévu par l’annexe II, partie 3, du règlement d’exécution (UE) n<sup>o</sup> 577/2013[^annexu1-lvlu1-lvlIX-lvlB-1].
+Le système d’identification est celui prévu par le règlement (UE) n<sup>o</sup> 576/2013. Le passeport à utiliser est celui prévu par l’annexe II, partie 3, du règlement d’exécution (UE) n<sup>o</sup> 577/2013[^annex2-lvlu1-lvlIX-lvlB-1].
 
 La validité de la vaccination antirabique, et, le cas échéant, de la revaccination, est définie à l’annexe III du règlement (UE) n<sup>o</sup> 576/2013.
 
-\7. Le sperme, les ovules et les embryons des espèces ovine et caprine faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés des certificats sanitaires prévus par la décision 2010/470/UE de la Commission[^annexu1-lvlu1-lvlIX-lvlB-2].
+\7. Le sperme, les ovules et les embryons des espèces ovine et caprine faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés des certificats sanitaires prévus par la décision 2010/470/UE de la Commission[^annex2-lvlu1-lvlIX-lvlB-2].
 
 \8. Le sperme de l’espèce équine faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse est accompagné du certificat sanitaire prévu par la décision 2010/470/UE.
 
@@ -10670,16 +10275,16 @@ La validité de la vaccination antirabique, et, le cas échéant, de la revaccin
 
 \13. Aux fins de l’application de l’art. 24 de la directive 92/65/CEE, l’information prévue au par. 2 dudit article est effectuée au sein du Comité mixte vétérinaire.
 
-[^annexu1-lvlu1-lvlIX-lvlB-1]: Règlement d’exécution (UE) n<sup>o</sup> 577/2013 de la Commission du 28 juin 2013 concernant les modèles de documents d’identification relatifs aux mouvements non commerciaux de chiens, de chats et de furets, l’établissement de listes de territoires et de pays tiers ainsi que les exigences en matière de format, de présentation et de langues applicables aux déclarations attestant la conformité à certaines conditions prévues par le règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil (JO L 178 du 28.6.2013, p. 109).
-[^annexu1-lvlu1-lvlIX-lvlB-2]: Décision 2010/470/UE de la Commission du 26 août 2010 établissant les modèles de certificats sanitaires applicables aux échanges dans l’Union de sperme, d’ovules et d’embryons d’équidés, d’ovins et de caprins ainsi que d’ovules et d’embryons de porcins (JO L 228 du 31.8.2010, p. 15).
+[^annex2-lvlu1-lvlIX-lvlB-1]: Règlement d’exécution (UE) n<sup>o</sup> 577/2013 de la Commission du 28 juin 2013 concernant les modèles de documents d’identification relatifs aux mouvements non commerciaux de chiens, de chats et de furets, l’établissement de listes de territoires et de pays tiers ainsi que les exigences en matière de format, de présentation et de langues applicables aux déclarations attestant la conformité à certaines conditions prévues par le règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil (JO L 178 du 28.6.2013, p. 109).
+[^annex2-lvlu1-lvlIX-lvlB-2]: Décision 2010/470/UE de la Commission du 26 août 2010 établissant les modèles de certificats sanitaires applicables aux échanges dans l’Union de sperme, d’ovules et d’embryons d’équidés, d’ovins et de caprins ainsi que d’ovules et d’embryons de porcins (JO L 228 du 31.8.2010, p. 15).
 
 ### X. Mouvements non commerciaux des animaux de compagnie
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlX-lvlA-2]
+[^annex2-lvlu1-lvlX-lvlA-1]
 
-[^annexu1-lvlu1-lvlX-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10696,17 +10301,17 @@ La validité de la vaccination antirabique, et, le cas échéant, de la revaccin
 
 \4. Aux fins du présent appendice, pour les mouvements non commerciaux d’animaux de compagnie entre les États membres de l’Union européenne et la Suisse, les dispositions du chapitre II du règlement (UE) n<sup>o</sup> 576/2013, s’appliquent *mutatis mutandis*. Les contrôles documentaires et d’identité devant être effectués à l’égard des mouvements non commerciaux d’animaux de compagnie à destination de la Suisse, depuis un État membre de l’Union européenne s’effectuent selon les modalités de l’art. 33 du règlement (UE) n<sup>o</sup> 576/2013.
 
-Appendice 3*[^t-26]*
+Appendice 3[^t-26]
 
 ## Importation d’animaux vivants, de leur sperme, ovules etembryons des pays tiers
 
 [^t-26]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte vétérinaire du 17 déc. 2015, en vigueur depuis le 17 déc. 2015, avec effet depuis le 1<sup>er</sup> janv. 2015 ([RO 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
 
-### I. Union européenne – Législation**<sup>∗</sup>**
+### I. Union européenne – Législation<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlA-1]
+[^annex3-lvlu1-lvlI-1]
 
-[^annexu1-lvlu1-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex3-lvlu1-lvlI-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 ### A. Ongulés, à l’exception des équidés
 
@@ -10748,11 +10353,11 @@ Directive 90/429/CEE du Conseil du 26 juin 1990 fixant les exigences de police s
 
 \2. Directive 96/23/CE du Conseil du 29 avril 1996 relative aux mesures de contrôle à mettre en œuvre à l’égard de certaines substances et de leurs résidus dans les animaux vivants et leurs produits et abrogeant les Directives 85/358/CEE et 86/469/CEE et les Décisions 89/187/CEE et 91/664/CEE (JO L 125 du 23.5.1996, p. 10).
 
-### II. Suisse – Législation**<sup>∗</sup>**
+### II. Suisse – Législation<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlB-1]
+[^annex3-lvlu1-lvlII-1]
 
-[^annexu1-lvlu1-lvlB-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex3-lvlu1-lvlII-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 \1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*).
 
@@ -10782,17 +10387,17 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
 Aux fins de la présente annexe, pour la Suisse, les institutions approuvées comme centre agréé conformément à l’annexe C de la directive 92/65/CEE sont publiées sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
 
-Appendice 4*[^t-27]*
+Appendice 4[^t-27]
 
 ## Zootechnie, y compris importations des pays tiers
 
 [^t-27]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte vétérinaire du 17 déc. 2015, en vigueur depuis le 17 déc. 2015, avec effet depuis le 1<sup>er</sup> janv. 2015 ([RO 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-chapI-1]
+[^annex4-lvlu1-lvlA-1]
 
-[^annexu1-lvlu1-chapI-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex4-lvlu1-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10807,7 +10412,7 @@ Sans préjudice des dispositions relatives aux contrôles zootechniques figurant
 
 En cas de difficulté, le comité mixte vétérinaire est saisi à la demande de l’une des parties.
 
-Appendice 5*[^t-28]*
+Appendice 5[^t-28]
 
 ## Animaux vivants, sperme, ovules et embryons: Contrôles aux frontières et redevances
 
@@ -10815,11 +10420,11 @@ Appendice 5*[^t-28]*
 
 ### Chapitre I Dispositions générales – Système TRACES
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-chapI-lvlu1-1]
+[^annex5-lvlu1-chapI-lvlA-1]
 
-[^annexu1-lvlu1-chapI-lvlu1-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -10834,11 +10439,11 @@ Si nécessaire, des mesures transitoires et complémentaires sont définies au s
 
 ### Chapitre II Contrôles vétérinaires et zootechniques applicables dans les échanges entre les États membres de l’Union européenne et la Suisse
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-chapII-lvlu1-1]
+[^annex5-lvlu1-chapII-lvlA-1]
 
-[^annexu1-lvlu1-chapII-lvlu1-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 Les contrôles vétérinaires et zootechniques applicables dans les échanges entre les États membres de l’Union européenne et la Suisse sont effectués conformément aux actes suivants:
 
@@ -10861,7 +10466,7 @@ Pacage: action de transhumer vers une zone frontalière limitée à 10 km lors d
 
 Pacage journalier: pacage pour lequel, à la fin de chaque journée, les animaux regagnent leur exploitation d’origine dans un État membre de l’Union européenne ou en Suisse.
 
-\2. Pour le pacage entre les États membres de l’Union européenne et la Suisse, les dispositions de la décision 2001/672/CE de la Commission[^annexu1-lvlu1-chapII-lvlC-1], sont applicables *mutatis mutandis*. Toutefois, dans le cadre de la présente annexe, pour l’art. 1<sup>er</sup> de la décision 2001/672/CE, les adaptations suivantes s’appliquent:
+\2. Pour le pacage entre les États membres de l’Union européenne et la Suisse, les dispositions de la décision 2001/672/CE de la Commission[^annex5-lvlu1-chapII-lvlC-1], sont applicables *mutatis mutandis*. Toutefois, dans le cadre de la présente annexe, pour l’art. 1<sup>er</sup> de la décision 2001/672/CE, les adaptations suivantes s’appliquent:
 
 - – la référence à la période du 1<sup>er</sup> mai au 15 octobre est remplacée par «l’année calendaire»;
 - – pour la Suisse, les parties visées à l’ art. 1<sup>er</sup> de la décision 2001/672/CE et mentionnées à l’annexe correspondante sont:
@@ -10977,23 +10582,23 @@ Modèle de certificat sanitaire pour le pacage frontalier ou le pacage journalie
 <tr><td></td><td colspan="4">Vétérinaire officiel ou inspecteur officiel Nom (en lettres capitales): Qualification et titre: Unité Vétérinaire Locale: N<sup>o</sup> de l’UVL: Date: Signature: Sceau:</td></tr>
 </table>
 
-[^annexu1-lvlu1-chapII-lvlC-1]: Décision 2001/672/CE de la Commission du 20 août 2001 portant modalités particulières d’application aux mouvements de bovins destinés à pâturer durant l’été dans différents lieux situés en montagne (JO L 235 du 4.9.2001, p. 23).
+[^annex5-lvlu1-chapII-lvlC-1]: Décision 2001/672/CE de la Commission du 20 août 2001 portant modalités particulières d’application aux mouvements de bovins destinés à pâturer durant l’été dans différents lieux situés en montagne (JO L 235 du 4.9.2001, p. 23).
 
 ### Chapitre III Conditions pour les échanges entre l’Union européenne et la Suisse
 
 ### A. Législations
 
-Pour les échanges d’animaux vivants, de leurs sperme, ovules, embryons et le pacage frontalier des animaux des espèces bovines entre l’Union européenne et la Suisse, les certificats sanitaires sont ceux prévus par la présente annexe et disponibles dans le systèmes TRACES, conformément aux dispositions du règlement (CE) n<sup>o</sup> 599/2004 de la Commission[^annexu1-lvlu1-chapIII-lvlA-1].
+Pour les échanges d’animaux vivants, de leurs sperme, ovules, embryons et le pacage frontalier des animaux des espèces bovines entre l’Union européenne et la Suisse, les certificats sanitaires sont ceux prévus par la présente annexe et disponibles dans le systèmes TRACES, conformément aux dispositions du règlement (CE) n<sup>o</sup> 599/2004 de la Commission[^annex5-lvlu1-chapIII-lvlA-1].
 
-[^annexu1-lvlu1-chapIII-lvlA-1]: Règlement (CE) n<sup>o</sup> 599/2004 de la Commission du 30 mars 2004 relatif à l’adoption d’un modèle harmonisé de certificat et de compte rendu d’inspection liés aux échanges intracommunautaires d’animaux et de produits d’origine animale (JO L 94 du 31.3.2004, p. 44).
+[^annex5-lvlu1-chapIII-lvlA-1]: Règlement (CE) n<sup>o</sup> 599/2004 de la Commission du 30 mars 2004 relatif à l’adoption d’un modèle harmonisé de certificat et de compte rendu d’inspection liés aux échanges intracommunautaires d’animaux et de produits d’origine animale (JO L 94 du 31.3.2004, p. 44).
 
 ### Chapitre IV Contrôles vétérinaires applicables pour les importations en provenance des pays tiers
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-chapIV-lvlA-1]
+[^annex5-lvlu1-chapIV-lvlA-1]
 
-[^annexu1-lvlu1-chapIV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapIV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 Les contrôles relatifs aux importations des pays tiers sont effectués conformément aux actes suivants:
 
@@ -11004,7 +10609,7 @@ Les contrôles relatifs aux importations des pays tiers sont effectués conform�
 
 ### B. Modalités d’application
 
-\1. Aux fins de l’application de l’art. 6 de la directive 91/496/CEE, les postes d’inspections frontaliers des États membres de l’Union européenne pour les contrôles vétérinaires sur les animaux vivants figurent à l’annexe I de la décision 2009/821/CE de la Commission[^annexu1-lvlu1-chapIV-lvlB-1].
+\1. Aux fins de l’application de l’art. 6 de la directive 91/496/CEE, les postes d’inspections frontaliers des États membres de l’Union européenne pour les contrôles vétérinaires sur les animaux vivants figurent à l’annexe I de la décision 2009/821/CE de la Commission[^annex5-lvlu1-chapIV-lvlB-1].
 
 \2. Aux fins de l’application de l’art. 6 de la directive 91/496/CEE, les postes d’inspections frontaliers pour la Suisse sont les suivants:
 
@@ -11029,17 +10634,17 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
 \5. Les postes d’inspection frontaliers de la Suisse visés au point 2 effectuent les contrôles relatifs aux importations des pays tiers destinées aux États membres de l’Union européenne conformément à la section A du présent chapitre.
 
-[^annexu1-lvlu1-chapIV-lvlB-1]: Décision 2009/821/CE de la Commission du 28 septembre 2009 établissant une liste de postes d’inspection frontaliers agréés, fixant certaines règles concernant les inspections réalisées par les experts vétérinaires de la Commission et définissant les unités vétérinaires du système TRACES (JO L 296 du 12.11.2009, p. 1).
+[^annex5-lvlu1-chapIV-lvlB-1]: Décision 2009/821/CE de la Commission du 28 septembre 2009 établissant une liste de postes d’inspection frontaliers agréés, fixant certaines règles concernant les inspections réalisées par les experts vétérinaires de la Commission et définissant les unités vétérinaires du système TRACES (JO L 296 du 12.11.2009, p. 1).
 
 ### Chapitre V Dispositions spécifiques
 
 ### 1. Identification du bétail
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-chapV-lvl1-lvlA-1]
+[^annex5-lvlu1-chapV-lvl1-lvlA-1]
 
-[^annexu1-lvlu1-chapV-lvl1-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapV-lvl1-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 Les contrôles relatifs aux importations des pays tiers sont effectués conformément aux actes suivants:
 
@@ -11055,11 +10660,11 @@ Les contrôles relatifs aux importations des pays tiers sont effectués conform�
 
 ### 2. Protection des animaux
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-chapV-lvl2-lvlA-1]
+[^annex5-lvlu1-chapV-lvl2-lvlA-1]
 
-[^annexu1-lvlu1-chapV-lvl2-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapV-lvl2-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -11080,7 +10685,7 @@ Les contrôles relatifs aux importations des pays tiers sont effectués conform�
 
 \2. Pour les contrôles vétérinaires des importations des pays tiers, les autorités suisses s’engagent à percevoir les redevances liées aux contrôles officiels prévues par le règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil.
 
-Appendice 6*[^t-29]*
+Appendice 6[^t-29]
 
 ## Produits animaux
 
@@ -11152,7 +10757,7 @@ Conditions spéciales
 
 \4) Les autorités Suisse s’engagent à ce que les carcasses et la viande de porcins domestiques mises sur le marché de l’Union européenne aient été soumises à l’examen visant à détecter la présence de Trichinella.
 
-\5) Les méthodes de détection décrites à l’annexe I, chapitres I et II, du règlement d’exécution (UE) n<sup>o</sup> 2015/1375 de la Commission[^annexu1-lvlu1-partA-lvlB-1] sont utilisées en Suisse dans le cadre des examens visant à détecter la présence de Trichinella.
+\5) Les méthodes de détection décrites à l’annexe I, chapitres I et II, du règlement d’exécution (UE) n<sup>o</sup> 2015/1375 de la Commission[^annex6-lvlu1-chapI-lvlu1-1] sont utilisées en Suisse dans le cadre des examens visant à détecter la présence de Trichinella.
 
 \6) En application de l’art. 8 (par. 1, let. a, et par. 3) de l’ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*) et de l’art. 10 (par. 8) de l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d’origine animale (RS *817.022.108*), les carcasses et viandes de porcins domestiques destinés à l’engraissement et à la boucherie ainsi que les préparations de viande, les produits à base de viande et les produits transformés à base de viande qui ne sont pas destinés au marché de l’Union européenne portent une estampille de salubrité spéciale conforme au modèle défini à l’annexe 9, dernier alinéa, de l’ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux.
 
@@ -11188,7 +10793,7 @@ Ces produits ne peuvent faire l’objet d’échanges avec les États membres de
 
 \11) Les laboratoires de référence de l’Union européenne pour les résidus de médicaments vétérinaires et de contaminants dans les denrées alimentaires d’origine animale sont les suivants:
 
-- a) Pour les résidus énumérés à l’annexe I, groupe A, 1), 2), 3) et 4), groupe B, 2) d) et groupe B, 3) d), de la directive 96/23/CE[^annexu1-lvlu1-partA-lvlB-2]:
+- a) Pour les résidus énumérés à l’annexe I, groupe A, 1), 2), 3) et 4), groupe B, 2) d) et groupe B, 3) d), de la directive 96/23/CE[^annex6-lvlu1-chapI-lvlu1-2]:
 
 RIKILT – Institute of Food Safety, part of Wageningen UR
 
@@ -11247,19 +10852,18 @@ La Suisse prend en charge les frais qui lui sont imputables au titre des opérat
 - 13\. Règlement (UE) n<sup>o</sup> 231/2012 de la Commission du 9 mars 2012 établissant les spécifications des additifs alimentaires énumérés aux annexes II et III du règlement (CE) n<sup>o</sup> 1333/2008 du Parlement européen et du Conseil (JO L 83 du 22.3.2012, p. 1);
 - 14\. Directive 2009/32/CE du Parlement européen et du Conseil du 23 avril 2009 relative au rapprochement des législations des États membres concernant les solvants d’extraction utilisés dans la fabrication des denrées alimentaires et de leurs ingrédients (JO L 141 du 6.6.2009, p. 3);
 - 15\. Règlement (CE) n<sup>o</sup> 470/2009 du Parlement européen et du Conseil du 6 mai 2009 établissant des procédures communautaires pour la fixation des limites de résidus des substances pharmacologiquement actives dans les aliments d’origine animale, abrogeant le règlement (CEE) n<sup>o</sup> 2377/90 du Conseil et modifiant la directive 2001/82/CE du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil (JO L 152 du 16.6.2009, p. 11).
-- [tab]
 
-[^annexu1-lvlu1-partA-lvlB-1]: Règlement d’exécution (UE) 2015/1375 de la Commission du 10 août 2015 fixant les règles spécifiques applicables aux contrôles officiels concernant la présence de Trichinella dans les viandes (JO L 212 du 11.8.2015, p. 7).
-[^annexu1-lvlu1-partA-lvlB-2]: Directive 96/23/CE du Conseil du 29 avr. 1996 relative aux mesures de contrôle à mettre en œuvre à l’égard de certaines substances et de leurs résidus dans les animaux vivants et leurs produits et abrogeant les directives 85/358/CEE et 86/469/CEE et les décisions 89/187/CEE et 91/664/CEE (JO L 125 du 23.5.1996, p. 10).
+[^annex6-lvlu1-chapI-lvlu1-1]: Règlement d’exécution (UE) 2015/1375 de la Commission du 10 août 2015 fixant les règles spécifiques applicables aux contrôles officiels concernant la présence de Trichinella dans les viandes (JO L 212 du 11.8.2015, p. 7).
+[^annex6-lvlu1-chapI-lvlu1-2]: Directive 96/23/CE du Conseil du 29 avr. 1996 relative aux mesures de contrôle à mettre en œuvre à l’égard de certaines substances et de leurs résidus dans les animaux vivants et leurs produits et abrogeant les directives 85/358/CEE et 86/469/CEE et les décisions 89/187/CEE et 91/664/CEE (JO L 125 du 23.5.1996, p. 10).
 
 ### «Sous-produits animaux non destinés à la consommation humaine»
 
 <table>
-<tr><th colspan="4">Exportations de l’Union européenne vers la Suisse et exportations de la Suisse vers l’Union européenne</th></tr>
-<tr><th colspan="2">Conditions commerciales</th><th colspan="2">Équivalence</th></tr>
-<tr><th>Union européenne\*</th><th>Suisse\*</th><th colspan="2"></th></tr>
+<tr><td colspan="4">Exportations de l’Union européenne vers la Suisse et exportations de la Suisse vers l’Union européenne</td></tr>
+<tr><td colspan="2">Conditions commerciales</td><td colspan="2">Équivalence</td></tr>
+<tr><td>Union européenne\*</td><td>Suisse\*</td><td colspan="2"></td></tr>
 <tr><td colspan="3">\* Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.</td></tr>
-<tr><th>1. Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1); 2. Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (règlement relatif aux sous-produits animaux) (JO L 300 du 14.11.2009, p. 1); 3. Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive (JO L 54 du 26.2.2011, p. 1).</th><th>1. Ordonnance du 23 novembre 2005 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV; RS *817.190*); 2. Ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*); 3. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*); 4. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 5. Ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux (OESPA; RS *916.441.22*).</th><th colspan="2">Oui avec conditions spéciales</th></tr>
+<tr><td>1. Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1); 2. Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (règlement relatif aux sous-produits animaux) (JO L 300 du 14.11.2009, p. 1); 3. Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive (JO L 54 du 26.2.2011, p. 1).</td><td>1. Ordonnance du 23 novembre 2005 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV; RS *817.190*); 2. Ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*); 3. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*); 4. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 5. Ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux (OESPA; RS *916.441.22*).</td><td colspan="2">Oui avec conditions spéciales</td></tr>
 </table>
 
 Conditions spéciales
@@ -11280,7 +10884,7 @@ Ces exportations se feront aux conditions prévues pour les échanges dans l’U
 
 Si nécessaire, les modèles de certificats seront discutés au sein du Comité mixte vétérinaire.
 
-Appendice 7*[^t-30]*
+Appendice 7[^t-30]
 
 ## Autorités compétentes
 
@@ -11312,11 +10916,83 @@ Appendice 9
 
 Au sens du présent appendice, on entend par «audit», l’évaluation de l’efficacité.
 
+### 1 Principes généraux
+
+- 1\.1 Des audits sont effectués conjointement par la Partie chargée d’effectuer l’audit («auditeur») et la Partie auditée («audité»), conformément aux dispositions établies dans le présent appendice. Des contrôles des établissements ou des installations peuvent être effectués si nécessaire.
+- 1\.2 Les audits devraient être destinés à contrôler l’efficacité de l’autorité de contrôle, plutôt qu’à rejeter des lots d’aliments ou des établissements individuels. Dans les cas où un audit révèle un risque grave pour la santé animale ou humaine, l’audité prend des mesures correctives immédiates. La procédure peut comprendre un examen de la réglementation applicable, des modalités d’application, de l’évaluation du résultat final, du degré d’observation des mesures et des actions correctives ultérieures.
+- 1\.3 La fréquence des audits devrait être fondée sur l’efficacité. Un faible degré d’efficacité requiert une augmentation de la fréquence des audits; une efficacité non satisfaisante doit être corrigée par l’audité à la satisfaction de l’auditeur.
+- 1\.4 Les audits et les décisions qu’ils motivent doivent être transparents et cohérents.
+
+### 2 Principes concernant l’auditeur
+
+- Les responsables de l’audit préparent un plan, de préférence conformément aux normes internationales reconnues, qui couvre les points suivants:
+- 2\.1 objet, champ d’application et portée de l’audit;
+- 2\.2 date et lieu de l’audit, avec calendrier des opérations jusqu’à l’établissement du rapport final;
+- 2\.3 langue(s) dans laquelle/lesquelles l’audit sera effectué et le rapport rédigé;
+- 2\.4 identité des auditeurs et du dirigeant en cas de groupe d’auditeurs. Des compétences professionnelles particulières peuvent être requises pour effectuer des audits de systèmes et de programmes spécialisés;
+- 2\.5 calendrier de réunions avec des fonctionnaires et de visites d’établissements ou d’installations, le cas échéant. L’identité des établissements ou installations destinés à être visités ne doit pas être déclarée à l’avance;
+- 2\.6 sous réserve des dispositions relatives à la liberté d’information, l’auditeur est tenu au respect de la confidentialité commerciale. Les conflits d’intérêts doivent être évités;
+- 2\.7 respect des règles d’hygiène et de sécurité du travail, ainsi que des droits de l’opérateur.
+- Le présent plan devrait faire l’objet d’un examen préalable avec les représentants de l’audité.
+
+### 3 Principes concernant l’audité
+
+- Les principes suivants sont applicables aux mesures prises par l’audité, afin de faciliter l’audit:
+- 3\.1
+
+  l’audité est tenu de coopérer étroitement avec l’auditeur et devrait désigner des personnes compétentes à cette fin. La coopération peut couvrir ce qui suit, par exemple:
+
+  - – accès à l’ensemble des dispositions réglementaires et normes applicables;
+  - – accès aux programmes d’application et aux registres et documents appropriés;
+  - – accès aux rapports d’audit et d’inspection;
+  - – documentation concernant les mesures correctives et les sanctions;
+  - – accès aux établissements.
+
+- 3\.2 L’audité est tenu de mettre en œuvre un programme documenté pour démontrer aux tiers que les normes sont satisfaites sur une base cohérente et uniforme.
+
+### 4 Procédures
+
+### 4.1 Séance d’ouverture
+
+- Une séance d’ouverture devrait être organisée par les représentants des deux Parties. Au cours de ladite séance, l’auditeur sera chargé d’étudier le plan d’audit et de confirmer que les ressources adéquates, les documents et autres moyens nécessaires sont disponibles pour effectuer l’audit.
+
+### 4.2 Examen des documents
+
+- L’examen des documents peut consister en un examen des documents et registres visés au par. 3.1, des structures et pouvoirs de l’audité et de toute modification des systèmes d’inspection et de certification alimentaires depuis l’adoption de la présente annexe ou depuis l’audit précédent, en mettant l’accent sur les éléments du système d’inspection et de certification intéressant les animaux ou produits concernés. Cette mesure peut comprendre un examen des registres et documents d’inspection et de certification pertinents.
+
+### 4.3 Vérification sur place
+
+- 4\.3.1 La décision d’inclure cette étape devrait être fondée sur une évaluation de risque, en tenant compte de certains facteurs, tels que les produits concernés, le respect des exigences du secteur industriel ou du pays exportateur dans le passé, le volume de production et d’importation ou d’exportation, les modifications de l’infrastructure et la nature des systèmes nationaux d’inspection et de certification.
+- 4\.3.2 La vérification sur place peut comprendre des visites des installations de production et de fabrication, des zones de traitement et de stockage des aliments et des laboratoires de contrôle, afin de vérifier la conformité avec les informations contenues dans les documents visés au point 4.2.
+
+### 4.4 Audit de suivi
+
+- Dans les cas où un audit de suivi est effectué pour vérifier la correction des déficiences, il peut être suffisant d’examiner les points qui ont été considérés comme nécessitant une correction.
+
+### 5 Documents de travail
+
+-
+
+  Les formulaires pour le compte-rendu des constatations et conclusions devraient être normalisés autant que possible, afin de rendre l’audit le plus uniforme, transparent et efficace possible. Les documents de travail peuvent comprendre des listes d’éléments à évaluer. De telles listes de contrôle peuvent couvrir les éléments suivants:
+
+  - – législation;
+  - – structure et fonctionnement des services d’inspection et de certification;
+  - – caractéristiques des établissements et procédures de fonctionnement;
+  - – statistiques sanitaires, plans d’échantillonnage et résultats;
+  - – mesures et procédures d’application;
+  - – procédures de notification et de recours;
+  - – programmes de formation.
+
+### 6 Séance de clôture
+
+- Une séance de clôture devrait être organisée par les représentants des deux Parties, à laquelle pourraient participer, le cas échéant, les fonctionnaires chargés de la mise en œuvre des programmes d’inspection et de certification. Au cours de ladite séance, l’auditeur présentera les constatations de l’audit. Les informations devraient être présentées d’une manière claire et concise, de manière que les conclusions de l’audit soient clairement comprises.
+- L’audité devrait établir un plan d’action pour la correction des insuffisances constatées, de préférence accompagné d’un calendrier d’exécution.
+
 ### 7 Rapport
 
 - Le projet de rapport de l’audit est transmis à l’audité le plus rapidement possible. Celui-ci est invité à prendre position sur le projet de rapport dans un délai d’un mois; tout commentaire formulé par l’audité est inclus dans le rapport final.
 
-Appendice 10*[^t-31]*
+Appendice 10[^t-31]
 
 ## Produits animaux: contrôles aux frontières et redevances
 
@@ -11324,11 +11000,11 @@ Appendice 10*[^t-31]*
 
 ### Chapitre I Dispositions générales
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlI-lvlA-3]
+[^annex10-lvlu1-chapI-lvlA-1]
 
-[^annexu1-lvlu1-lvlI-lvlA-3]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
@@ -11349,11 +11025,11 @@ Les mesures particulières liées à cette participation sont définies au sein 
 
 ### Chapitre II Contrôles vétérinaires applicables dans les échanges entre les États membres de l’Union européenne et la Suisse
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-lvlII-lvlA-3]
+[^annex10-lvlu1-chapII-lvlA-1]
 
-[^annexu1-lvlu1-lvlII-lvlA-3]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 Les contrôles vétérinaires applicables dans les échanges entre les États membres de l’Union européenne et la Suisse sont effectués conformément aux dispositions visées ci-après:
 
@@ -11370,11 +11046,11 @@ La mise en œuvre des dispositions prévues aux art. 10, 11 et 16 de la directiv
 
 ### Chapitre III Contrôles vétérinaires applicables pour les importations en provenance des pays tiers
 
-### A. Législations**<sup>∗</sup>**
+### A. Législations<sup>∗</sup>
 
-[^annexu1-lvlu1-chapIII-lvlA-2]
+[^annex10-lvlu1-chapIII-lvlA-1]
 
-[^annexu1-lvlu1-chapIII-lvlA-2]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié en dernier lieu.
 
 Les contrôles relatifs aux importations des pays tiers sont effectués conformément aux dispositions ci-après:
 
@@ -11408,11 +11084,11 @@ Pour les autres secteurs, les conditions sanitaires fixées au chapitre II de l�
 
 ### Chapitre V Conditions sanitaires et conditions de contrôle des importations des pays tiers
 
-### 1. Union européenne – Législation**<sup>∗</sup>**
+### 1. Union européenne – Législation<sup>∗</sup>
 
-[^annexu1-lvlu1-chapV-lvl1-1]
+[^annex10-lvlu1-chapV-lvl1-1]
 
-[^annexu1-lvlu1-chapV-lvl1-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapV-lvl1-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 ### A. Règles de santé publique
 
@@ -11474,11 +11150,11 @@ Pour les autres secteurs, les conditions sanitaires fixées au chapitre II de l�
 
 \6. Directive 2006/88/CE du Conseil du 24 octobre 2006 relative aux conditions de police sanitaire applicables aux animaux et aux produits d’aquaculture, et relative à la prévention de certaines maladies chez les animaux aquatiques et aux mesures de lutte contre ces maladies (JO L 328 du 24.11.2006, p. 14).
 
-### C. Autres mesures spécifiques**<sup>∗</sup>**
+### C. Autres mesures spécifiques<sup>∗</sup>
 
-[^annexu1-lvlu1-chapV-lvl1-lvlC-1]
+[^annex10-lvlu1-chapV-lvl1-lvlC-1]
 
-[^annexu1-lvlu1-chapV-lvl1-lvlC-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapV-lvl1-lvlC-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 \1. Accord intérimaire de commerce et d’union douanière entre la Communauté économique européenne et la République de Saint-Marin – Déclaration commune – Déclaration de la Communauté (JO L 359 du 9.12.1992, p. 14).
 
@@ -11500,11 +11176,11 @@ Pour les autres secteurs, les conditions sanitaires fixées au chapitre II de l�
 
 \10. Décision 2002/979/CE du Conseil du 18 novembre 2002 relative à la signature et à l’application provisoire de certaines dispositions d’un accord établissant une association entre la Communauté européenne et ses États membres, d’une part, et la République du Chili, d’autre part (JO L 352 du 30.12.2002, p. 1).
 
-### 2. Suisse – Législation**<sup>∗</sup>**
+### 2. Suisse – Législation<sup>∗</sup>
 
-[^annexu1-lvlu1-chapV-lvl2-1]
+[^annex10-lvlu1-chapV-lvl2-1]
 
-[^annexu1-lvlu1-chapV-lvl2-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapV-lvl2-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 - A. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).
 - B. Ordonnance du 27 août 2008 concernant l’importation et le transit de produits animaux par voie aérienne en provenance de pays tiers (OITPA; RS *916.443.13*).
@@ -11532,7 +11208,7 @@ Pour les autres secteurs, les conditions sanitaires fixées au chapitre II de l�
 
 \2. Pour les contrôles vétérinaires des importations des pays tiers, les autorités suisses s’engagent à percevoir les redevances liées aux contrôles officiels prévues par le règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif aux contrôles officiels effectués pour s’assurer de la conformité avec la législation sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux (JO L 165 du 30.4.2004, p. 1).
 
-Appendice 11*[^t-32]*
+Appendice 11[^t-32]
 
 ## Points de contact
 
@@ -11558,7 +11234,7 @@ Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
 3003 Berne, Suisse
 
-Annexe 12*[^t-33]*
+Annexe 12[^t-33]
 
 ## Relative à la protection des appellations d’origine et des indications géographiques des produits agricoles et des denrées alimentaires
 
@@ -11704,9 +11380,9 @@ Les IGs homonymes suivantes de la Suisse et de l’Union, figurant à l’append
 
 **Relation avec les accords internationaux**
 
-La présente annexe s’applique sans préjudice des droits et obligations des Parties en vertu de l’accord instituant l’Organisation mondiale du commerce[^annexu1-lvlu1-10-1], ainsi que de tout autre accord multilatéral relatif au droit de la propriété intellectuelle auquel la Suisse et l’Union sont Parties contractantes.
+La présente annexe s’applique sans préjudice des droits et obligations des Parties en vertu de l’accord instituant l’Organisation mondiale du commerce[^annex12-lvlu1-10-1], ainsi que de tout autre accord multilatéral relatif au droit de la propriété intellectuelle auquel la Suisse et l’Union sont Parties contractantes.
 
-[^annexu1-lvlu1-10-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^annex12-lvlu1-10-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 11
 
@@ -11772,1368 +11448,1374 @@ Les Parties prennent toutes les mesures nécessaires pour permettre à leurs aut
 
 <sup>3.</sup> Sauf disposition contraire du Comité, la commercialisation des produits élaborés, désignés et présentés conformément à la présente annexe, mais dont la production, la désignation, la présentation perdent leur conformité à la suite d’une modification de ladite annexe, peut se poursuivre jusqu’à l’épuisement des stocks.
 
-Appendice 1*[^t-34]*
+Appendice 1[^t-34]
 
-## Listes des IGs perspectives faisant l’objet de la protection par l’autre partie
+## Listes des IGs respectives faisant l’objet de la protection par l’autre partie
 
-[^t-34]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2020 du 31 juil. 2020 du Comité mixte de l’agriculture, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4849](https://fedlex.data.admin.ch/eli/oc/2020/873)).
+[^t-34]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2022 du 17 nov. 2022 du Comité mixte de l’agriculture, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 28](https://fedlex.data.admin.ch/eli/oc/2023/28)).
 
 ### 1. Liste des IGs suisses
 
 <table>
-<tr><th colspan="2">Type de produit</th><th>Nom</th><th colspan="2">Protection (1)</th></tr>
-<tr><td>Épices:</td><td colspan="2">Munder Safran</td><td>AOP</td></tr>
-<tr><td>Fromages:</td><td colspan="2">Berner Alpkäse/Berner Hobelkäse</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">Formaggio d’alpe ticinese</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">Glarner Alpkäse</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">L’Étivaz</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">Gruyère</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">Raclette du Valais / Walliser Raclette</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">Sbrinz</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">Tête de Moine, Fromage de Bellelay</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">Vacherin fribourgeois</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">Vacherin Mont-d’Or</td><td>AOP</td></tr>
-<tr><td></td><td colspan="2">Werdenberger Sauerkäse / Liechtensteiner Sauerkäse / Bloderkäse</td><td>AOP</td></tr>
-<tr><td>Fruits:</td><td colspan="2">Poire à Botzi</td><td>AOP</td></tr>
-<tr><td>Légumes:</td><td colspan="2">Cardon épineux genevois</td><td>AOP</td></tr>
-<tr><td>Produits carnés et charcuterie:</td><td colspan="2">Glarner Kalberwurst</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Jambon cru du Valais</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Lard sec du Valais</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Longeole</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Saucisse d’Ajoie</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Saucisson neuchâtelois/Saucisse neuchâteloise</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Saucisson vaudois</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Saucisse aux choux vaudoise</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">St. Galler Bratwurst/St. Galler Kalbsbratwurst</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Bündnerfleisch</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Viande séchée du Valais</td><td>IGP</td></tr>
-<tr><td>Produits de la boulangerie:</td><td colspan="2">Zuger Kirschtorte[^annexu1-lvlu1-lvlu1-4]</td><td>IGP</td></tr>
-<tr><td></td><td colspan="2">Pain de seigle valaisan/Walliser Roggenbrot</td><td>AOP</td></tr>
-<tr><td>Produits de meunerie:</td><td colspan="2">Rheintaler Ribel/Türggen Ribel</td><td>AOP</td></tr>
-<tr><td colspan="4">[tab] (1) Conformément à la législation suisse en vigueur, comme figurant à l’appendice 2.</td></tr>
+<tr><th>Type de produit</th><th>Nom</th><th>Protection (1)</th></tr>
+<tr><td>Épices:</td><td>Munder Safran</td><td>AOP</td></tr>
+<tr><td>Fromages:</td><td>Berner Alpkäse / Berner Hobelkäse</td><td>AOP</td></tr>
+<tr><td></td><td>Formaggio d’alpe ticinese</td><td>AOP</td></tr>
+<tr><td></td><td>Glarner Alpkäse</td><td>AOP</td></tr>
+<tr><td></td><td>L’Etivaz</td><td>AOP</td></tr>
+<tr><td></td><td>Gruyère</td><td>AOP</td></tr>
+<tr><td></td><td>Raclette du Valais / Walliser Raclette</td><td>AOP</td></tr>
+<tr><td></td><td>Sbrinz</td><td>AOP</td></tr>
+<tr><td></td><td>Tête de Moine, Fromage de Bellelay</td><td>AOP</td></tr>
+<tr><td></td><td>Vacherin fribourgeois</td><td>AOP</td></tr>
+<tr><td></td><td>Vacherin Mont-d’Or</td><td>AOP</td></tr>
+<tr><td></td><td>Werdenberger Sauerkäse / Liechtensteiner Sauerkäse / Bloderkäse</td><td>AOP</td></tr>
+<tr><td>Fruits:</td><td>Poire à Botzi</td><td>AOP</td></tr>
+<tr><td>Légumes:</td><td>Cardon épineux genevois</td><td>AOP</td></tr>
+<tr><td>Produits carnés et charcuterie:</td><td>Appenzeller Mostbröckli</td><td>IGP</td></tr>
+<tr><td></td><td>Appenzeller Pantli</td><td>IGP</td></tr>
+<tr><td></td><td>Appenzeller Siedwurst</td><td>IGP</td></tr>
+<tr><td></td><td>Berner Zungenwurst</td><td>IGP</td></tr>
+<tr><td></td><td>Bündnerfleisch</td><td>IGP</td></tr>
+<tr><td></td><td>Glarner Kalberwurst</td><td>IGP</td></tr>
+<tr><td></td><td>Jambon cru du Valais</td><td>IGP</td></tr>
+<tr><td></td><td>Lard sec du Valais</td><td>IGP</td></tr>
+<tr><td></td><td>Longeole</td><td>IGP</td></tr>
+<tr><td></td><td>Saucisse aux choux vaudoise</td><td>IGP</td></tr>
+<tr><td></td><td>Saucisse d’Ajoie</td><td>IGP</td></tr>
+<tr><td></td><td>Saucisson neuchâtelois / Saucisse neuchâteloise</td><td>IGP</td></tr>
+<tr><td></td><td>Saucisson vaudois</td><td>IGP</td></tr>
+<tr><td></td><td>St. Galler Bratwurst / St. Galler Kalbsbratwurst</td><td>IGP</td></tr>
+<tr><td></td><td>Viande séchée du Valais</td><td>IGP</td></tr>
+<tr><td>Produits de la boulangerie:</td><td>Cuchaule / Freiburger Safranbrot</td><td>AOP</td></tr>
+<tr><td></td><td>Zuger Kirschtorte</td><td>IGP</td></tr>
+<tr><td></td><td>Pain de seigle valaisan / Walliser Roggenbrot</td><td>AOP</td></tr>
+<tr><td>Produits de meunerie:</td><td>Rheintaler Ribel / Türggen Ribel</td><td>AOP</td></tr>
+<tr><td colspan="3">(1) Conformément à la législation suisse en vigueur, comme figurant à l’appendice 2.</td></tr>
 </table>
-
-[^annexu1-lvlu1-lvlu1-4]: Selon l’art. 2 de la D n<sup>o</sup> 1/2020 la protection de cet IG ne fait pas obstacle pendant une période transitoire de deux ans à compter de l’entrée en vigueur de la présente décision à l’utilisation continue sur le territoire de l’Union de cette dénomination pour désigner et présenter certains produits comparables non originaires de la Suisse.
 
 ### 2. Liste des IGs de l’Union
 
-Les classes de produits figurent à l’annexe XI du règlement d’exécution (UE) N° 668/2014 de la Commission (JOL 179 du 19.6.2014, p. 36).
+Les classes de produits figurent à l’annexe XI du règlement d’exécution (UE) N<sup>o</sup> 668/2014 de la Commission (JO L 179 du 19.6.2014, p.36).
 
 <table>
-<tr><th>Nom</th><th>Transcription en caractères latins</th><th>Protection (1)</th><th>Type de Produit</th></tr>
-<tr><td>Gailtaler Almkäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Gailtaler Speck</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Marchfeldspargel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pöllauer Hirschbirne</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Steirische Käferbohne</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Steirischer Kren</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Steirisches Kürbiskernöl</td><td></td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Tiroler Almkäse / Tiroler Alpkäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Tiroler Bergkäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Tiroler Graukäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Tiroler Speck</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Vorarlberger Alpkäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Vorarlberger Bergkäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Wachauer Marille</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Waldviertler Graumohn</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Beurre d’Ardenne</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Brussels grondwitloof</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fromage de Herve</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Gentse azalea</td><td></td><td>IGP</td><td>Fleurs et plantes ornementales</td></tr>
-<tr><td>Geraardsbergse Mattentaart</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Jambon d’Ardenne</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Liers vlaaike</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pâté gaumais</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Plate de Florenville</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Poperingse Hopscheuten / Poperingse Hoppescheuten</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Potjesvlees uit de Westhoek</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Vlaams – Brabantse Tafeldruif</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Vlaamse laurier</td><td></td><td>IGP</td><td>Fleurs et plantes ornementales</td></tr>
-<tr><td>Bulgarsko rozovo maslo</td><td></td><td>IGP</td><td>Huiles essentielles</td></tr>
-<tr><td>Горнооряховски суджук</td><td>Gornooryahovski sudzhuk</td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Γλυκό Τριαντάφυλλο Αγρού</td><td>Glyko Triantafyllo Agrou</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Κολοκάσι Σωτήρας / Κολοκάσι-Πούλλες Σωτήρας</td><td>Kolokasi Sotiras / Kolokasi-Poulles Sotiras</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κουφέτα Αμυγδάλου Γεροσκήπου</td><td>Koufeta Amygdalou Geroskipou</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Λουκούμι Γεροσκήπου</td><td>Loukoumi Geroskipou</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Παφίτικο Λουκάνικο</td><td>Pafitiko Loukaniko</td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Březnický ležák</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Brněnské pivo/Starobrněnské pivo</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Budějovické pivo</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Budějovický měšťanský var</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Černá Hora</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>České pivo</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Českobudějovické pivo</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Český kmín</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Chamomilla bohemica</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Chelčicko – Lhenické ovoce</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Chodské pivo</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Hořické trubičky</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Jihočeská Niva</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Jihočeská Zlatá Niva</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Karlovarské oplatky</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Karlovarské trojhránky</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Karlovarský suchar</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Lomnické suchary</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Mariánskolázeňské oplatky</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Nošovické kysané zelí</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Olomoucké tvarůžky</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Pardubický perník</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pohořelický kapr</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Štramberské uši</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Třeboňský kapr</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>VALAŠSKÝ FRGÁL</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Všestarská cibule</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Žatecký chmel</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Znojemské pivo</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Aachener Printen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Aachener Weihnachts-Leberwurst / Oecher Weihnachtsleberwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Abensberger Spargel / Abensberger Qualitätsspargel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Aischgründer Karpfen</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Allgäuer Bergkäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Allgäuer Sennalpkäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Altenburger Ziegenkäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Ammerländer Dielenrauchschinken / Ammerländer Katenschinken</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Ammerländer Schinken / Ammerländer Knochenschinken</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Bamberger Hörnla / Bamberger Hörnle / Bamberger Hörnchen</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Bayerische Breze / Bayerische Brezn / Bayerische Brez’n / Bayerische Brezel</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Bayerischer Meerrettich / Bayerischer Kren</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Bayerisches Bier</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Bayerisches Rindfleisch / Rindfleisch aus Bayern</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Bornheimer Spargel/Spargel aus dem Anbaugebiet Bornheim</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Bremer Bier</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Bremer Klaben</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Diepholzer Moorschnucke</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Dithmarscher Kohl</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Dortmunder Bier</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Dresdner Christstollen / Dresdner Stollen/ Dresdner Weihnachtsstollen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Düsseldorfer Mostert / Düsseldorfer Senf Mostert / Düsseldorfer Urtyp Mostert / Aechter Düsseldorfer Mostert</td><td></td><td>IGP</td><td>Pâte de moutarde</td></tr>
-<tr><td>Elbe-Saale Hopfen</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Eichsfelder Feldgieker / Eichsfelder Feldkieker</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Feldsalat von der Insel Reichenau</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Filderkraut / Filderspitzkraut</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Flönz</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Frankfurter Grüne Sosse / Frankfurter Grie Soss</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fränkischer Grünkern</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fränkischer Karpfen / Frankenkarpfen / Karpfen aus Franken</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Glückstädter Matjes</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Göttinger Feldkieker</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Göttinger Stracke</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Greussener Salami</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Gurken von der Insel Reichenau</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Halberstädter Würstchen</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Hessischer Apfelwein</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Hessischer Handkäse / Hessischer Handkäs</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Hofer Bier</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Hofer Rindfleischwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Holsteiner Karpfen</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Holsteiner Katenschinken / Holsteiner Schinken/ Holsteiner Katenrauchschinken/ Holsteiner Knochenschinken</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Hopfen aus der Hallertau</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Höri Bülle</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Kölsch</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Kulmbacher Bier</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Lausitzer Leinöl</td><td></td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Lübecker Marzipan</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Lüneburger Heidekartoffeln</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Lüneburger Heidschnucke</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Mainfranken Bier</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Meissner Fummel</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Münchener Bier</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Nieheimer Käse</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Nürnberger Bratwürste / Nürnberger Rostbratwürste</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Nürnberger Lebkuchen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Obazda / Obatzter</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Oberlausitzer Biokarpfen</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Oberpfälzer Karpfen</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Odenwälder Frühstückskäse</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Oecher Puttes / Aachener Puttes</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Reuther Bier</td><td></td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Rheinisches Apfelkraut</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Rheinisches Zuckerrübenkraut / Rheinischer Zuckerrübensirup / Rheinisches Rübenkraut</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Salate von der Insel Reichenau</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Salzwedeler Baumkuchen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Schrobenhausener Sparge l/ Spargel aus dem Schrobenhausener Land / Spargel aus dem Anbaugebiet Schrobenhausen</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Schwäbische Maultaschen / Schwäbische Suppenmaultaschen</td><td></td><td>IGP</td><td>Pâtes alimentaires</td></tr>
-<tr><td>Schwäbische Spätzle / Schwäbische Knöpfle</td><td></td><td>IGP</td><td>Pâtes alimentaires</td></tr>
-<tr><td>Schwäbisch-Hällisches Qualitätsschweinefleisch</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Schwarzwälder Schinken</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Schwarzwaldforelle</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Spalt Spalter</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Spargel aus Franken / Fränkischer Spargel / Franken-Spargel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Spreewälder Gurken</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Spreewälder Meerrettich</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Stromberger Pflaume</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Tettnanger Hopfen</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Thüringer Leberwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Thüringer Rostbratwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Thüringer Rotwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Tomaten von der Insel Reichenau</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Walbecker Spargel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Weideochse vom Limpurger Rind</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Weisslacker / Allgäuer Weisslacker</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Westfälischer Knochenschinken</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Westfälischer Pumpernickel</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Danablu</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Esrom</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Lammefjordsgulerod</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Lammefjordskartofler</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Vadehavslam</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Vadehavsstude</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Άγιος Ματθαίος Κέρκυρας</td><td>Agios Mattheos Kerkyras</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Αγουρέλαιο Χαλκιδικής</td><td>Agoureleo Chalkidikis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Ακτινίδιο Πιερίας</td><td>Aktinidio Pierias</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ακτινίδιο Σπερχειού</td><td>Aktinidio Sperchiou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ανεβατό</td><td>Anevato</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Αποκορώνας Χανίων Κρήτης</td><td>Apokoronas Chanion Kritis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Αρνάκι Ελασσόνας</td><td>Arnaki Elassonas</td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Αρχάνες Ηρακλείου Κρήτης</td><td>Arxanes Irakliou Kritis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Αυγοτάραχο Μεσολογγίου</td><td>Avgotaracho Messolongiou</td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Βιάννος Ηρακλείου Κρήτης</td><td>Viannos Irakliou Kritis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Βόρειος Μυλοπόταμος Ρεθύμνης Κρήτης</td><td>Vorios Mylopotamos Rethymnis Kritis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Γαλανό Μεταγγιτσίου Χαλκιδικής</td><td>Galano Metaggitsiou Chalkidikis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Γαλοτύρι</td><td>Galotyri</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Γραβιέρα Αγράφων</td><td>Graviera Agrafon</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Γραβιέρα Κρήτης</td><td>Graviera Kritis</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Γραβιέρα Νάξου</td><td>Graviera Naxou</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Ελιά Καλαμάτας</td><td>Elia Kalamatas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Εξαιρετικό παρθένο ελαιόλαδο «Τροιζηνία»</td><td>Exeretiko partheno eleolado "Trizinia"</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Εξαιρετικό παρθένο ελαιόλαδο Θραψανό</td><td>Exeretiko partheno eleolado Thrapsano</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Εξαιρετικό Παρθένο Ελαιόλαδο Σέλινο Κρήτης</td><td>Exeretiko Partheno Eleolado Selino Kritis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Ζάκυνθος</td><td>Zakynthos</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Θάσος</td><td>Thassos</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Θρούμπα Αμπαδιάς Ρεθύμνης Κρήτης</td><td>Throumpa Ampadias Rethymnis Kritis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Θρούμπα Θάσου</td><td>Throumpa Thassou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Θρούμπα Χίου</td><td>Throumpa Chiou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Καλαθάκι Λήμνου</td><td>Kalathaki Limnou</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Καλαμάτα</td><td>Kalamata</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Κασέρι</td><td>Kasseri</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Κατίκι Δομοκού</td><td>Katiki Domokou</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Κατσικάκι Ελασσόνας</td><td>Katsikaki Elassonas</td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Κελυφωτό φυστίκι Φθιώτιδας</td><td>Kelifoto fystiki Fthiotidas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κεράσια τραγανά Ροδοχωρίου</td><td>Kerassia Tragana Rodochoriou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κεφαλογραβιέρα</td><td>Kefalograviera</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Κεφαλονιά</td><td>Kefalonia</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Κολυμβάρι Χανίων Κρήτης</td><td>Kolymvari Chanion Kritis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Κονσερβολιά Αμφίσσης</td><td>Konservolia Amfissis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κονσερβολιά Αρτας</td><td>Konservolia Artas</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κονσερβολιά Αταλάντης</td><td>Konservolia Atalantis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κονσερβολιά Πηλίου Βόλου</td><td>Konservolia Piliou Volou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κονσερβολιά Ροβίων</td><td>Konservolia Rovion</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κονσερβολιά Στυλίδας</td><td>Konservolia Stylidas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κοπανιστή</td><td>Kopanisti</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Κορινθιακή Σταφίδα Βοστίτσα</td><td>Korinthiaki Stafida Vostitsa</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κουμ Κουάτ Κέρκυρας</td><td>Koum kouat Kerkyras</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Κρανίδι Αργολίδας</td><td>Kranidi Argolidas</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Κρητικό παξιμάδι</td><td>Kritiko paximadi</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Κροκεές Λακωνίας</td><td>Krokees Lakonias</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Κρόκος Κοζάνης</td><td>Krokos Kozanis</td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Λαδοτύρι Μυτιλήνης</td><td>Ladotyri Mytilinis</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Λακωνία</td><td>Lakonia</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Λέσβος / Μυτιλήνη</td><td>Lesvos / Mytilini</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Λυγουριό Ασκληπιείου</td><td>Lygourio Asklipiiou</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Μανούρι</td><td>Manouri</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Μανταρίνι Χίου</td><td>Mandarini Chiou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Μαστίχα Χίου</td><td>Masticha Chiou</td><td>AOP</td><td>Gommes et résines naturelles</td></tr>
-<tr><td>Μαστιχέλαιο Χίου</td><td>Mastichelaio Chiou</td><td>AOP</td><td>Huiles essentielles</td></tr>
-<tr><td>Μέλι Ελάτης Μαινάλου Βανίλια</td><td>Meli Elatis Menalou Vanilia</td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Μεσσαρά</td><td>Messara</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Μετσοβόνε</td><td>Metsovone</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Μήλα Ζαγοράς Πηλίου</td><td>Mila Zagoras Piliou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Μήλα Ντελίσιους Πιλαφά Τριπόλεως</td><td>Mila Delicious Pilafa Tripoleos</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Μήλο Καστοριάς</td><td>Milo Kastorias</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Μπάτζος</td><td>Batzos</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Ξερά σύκα Κύμης</td><td>Xera syka Kymis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ξύγαλο Σητείας / Ξίγαλο Σητείας</td><td>Xygalo Siteias / Xigalo Siteias</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Ξηρά Σύκα Ταξιάρχη</td><td>Xira Syka Taxiarchi</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ξυνομυζήθρα Κρήτης</td><td>Xynomyzithra Kritis</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Ολυμπία</td><td>Olympia</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Πατάτα Κάτω Νευροκοπίου</td><td>Patata Kato Nevrokopiou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Πατάτα Νάξου</td><td>Patata Naxou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Πεζά Ηρακλείου Κρήτης</td><td>Peza Irakliou Kritis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Πέτρινα Λακωνίας</td><td>Petrina Lakonias</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Πηχτόγαλο Χανίων</td><td>Pichtogalo Chanion</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Πορτοκάλια Μάλεμε Χανίων Κρήτης</td><td>Portokalia Maleme Chanion Kritis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Πράσινες Ελιές Χαλκιδικής</td><td>Prasines Elies Chalkidikis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Πρέβεζα</td><td>Preveza</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Ροδάκινα Νάουσας</td><td>Rodakina Naoussas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ρόδος</td><td>Rodos</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Σάμος</td><td>Samos</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Σαν Μιχάλη</td><td>San Michali</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Σητεία Λασιθίου Κρήτης</td><td>Sitia Lasithiou Kritis</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Σταφίδα Ζακύνθου</td><td>Stafida Zakynthou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Σταφίδα Ηλείας</td><td>Stafida Ilias</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Σταφίδα Σουλτανίνα Κρήτης</td><td>Stafida Soultanina Kritis</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Σύκα Βραβρώνας Μαρκοπούλου Μεσογείων</td><td>Syka Vavronas Markopoulou Messongion</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Σφέλα</td><td>Sfela</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Τοματάκι Σαντορίνης</td><td>Tomataki Santorinis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Τσακώνικη μελιτζάνα Λεωνιδίου</td><td>Tsakoniki Melitzana Leonidiou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Τσίχλα Χίου</td><td>Tsikla Chiou</td><td>AOP</td><td>Gommes et résines naturelles</td></tr>
-<tr><td>Φάβα Σαντορίνης</td><td>Fava Santorinis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φάβα Φενεού</td><td>Fava Feneou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φασόλια Βανίλιες Φενεού</td><td>Fasolia Vanilies Feneou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φασόλια (Γίγαντες Ελέφαντες) Πρεσπών Φλώρινας</td><td>Fassolia Gigantes Elefantes Prespon Florinas</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φασόλια (πλακέ μεγαλόσπερμα) Πρεσπών Φλώρινας</td><td>Fassolia (plake megalosperma) Prespon Florinas</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φασόλια γίγαντες – ελέφαντες Καστοριάς</td><td>Fassolia Gigantes Elefantes Kastorias</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φασόλια γίγαντες ελέφαντες Κάτω Νευροκοπίου</td><td>Fassolia Gigantes Elefantes Kato Nevrokopiou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φασόλια κοινά μεσόσπερμα Κάτω Νευροκοπίου</td><td>Fassolia kina Messosperma Kato Nevrokopiou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φέτα</td><td>Feta</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Φιρίκι Πηλίου</td><td>Firiki Piliou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φοινίκι Λακωνίας</td><td>Finiki Lakonias</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Φορμαέλλα Αράχωβας Παρνασσού</td><td>Formaella Arachovas Parnassou</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Φυστίκι Αίγινας</td><td>Fystiki Eginas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Φυστίκι Μεγάρων</td><td>Fystiki Megaron</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Χανιά Κρήτης</td><td>Chania Kritis</td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite Campo de Calatrava</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite Campo de Montiel</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite de La Alcarria</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite de la Rioja</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite de la Comunitat Valenciana</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite de Mallorca / Aceite mallorquín / Oli de Mallorca / Oli mallorquí</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite de Terra Alta / Oli de Terra Alta</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite del Baix Ebre-Montsià / Oli del Baix Ebre-Montsià</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite del Bajo Aragón</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite de Lucena</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite de Navarra</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite Monterrubio</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceite Sierra del Moncayo</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Aceituna Aloreña de Málaga</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Aceituna de Mallorca/Aceituna Mallorquina/Oliva de Mallorca/Oliva Mallorquina</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Afuega’l Pitu</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Ajo Morado de las Pedroñeras</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Alcachofa de Benicarló / Carxofa de Benicarló</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Alcachofa de Tudela</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Alfajor de Medina Sidonia</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Almendra de Mallorca/Almendra Mallorquina /Ametlla de Mallorca /Ametlla Mallorquina</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Alubia de La Bãneza-León</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Antequera</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Arroz de Valencia / Arròs de València</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Arroz del Delta del Ebro / Arròs del Delta de l’Ebre</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Arzùa-Ulloa</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Avellana de Reus</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Azafrán de la Mancha</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Baena</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Berenjena de Almagro</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Botillo del Bierzo</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Caballa de Andalucia</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Cabrales</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Calasparra</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Calçot de Valls</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Carne de Ávila</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne de Cantabria</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne de la Sierra de Guadarrama</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne de Morucha de Salamanca</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne de Vacuno del País Vasco / Euskal Okela</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Castaña de Galicia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cebolla Fuentes de Ebro</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cebreiro</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Cecina de León</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Cereza del Jerte</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cerezas de la Montaña de Alicante</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Chirimoya de la Costa tropical de Granada-Malaga</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Chorizo de Cantimpalos</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chorizo Riojano</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chosco de Tineo</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chufa de Valencia</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Cítricos Valencianos / Cítrics Valencians</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Clementinas de las Tierras del Ebro / Clementines de les Terres de l’Ebre</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Coliflor de Calahorra</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cordero de Extremadura</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cordero de Navarra / Nafarroako Arkumea</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cordero Manchego</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cordero Segureño</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Dehesa de Extremadura</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Ensaimada de Mallorca / Ensaimada mallorquina</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Espárrago de Huétor-Tájar</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Espárrago de Navarra</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Estepa</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Faba Asturiana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Faba de Lourenzá</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fesols de Santa Pau</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Gall del Penedès</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Gamoneu / Gamonedo</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Garbanzo de Escacena</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Garbanzo de Fuentesaúco</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Gata-Hurdes</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Gofio Canario</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Granada Mollar de Elche / Granada de Elche</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Grelos de Galicia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Guijuelo</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Idiazabal</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Jamón de Huelva</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jamón de Serón</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jamón de Teruel/Paleta de Teruel</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jamón de Trevélez</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jijona</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Judías de El Barco de Ávila</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Kaki Ribera del Xúquer</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Lacón Gallego</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Lechazo de Castilla y León</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Lenteja de La Armuña</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Lenteja de Tierra de Campos</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Les Garrigues</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Los Pedroches</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Mahón-Menorca</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Mantecadas de Astorga</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Mantecados de Estepa</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Mantequilla de l’Alt Urgell y la Cerdanya / Mantega de l’Alt Urgell i la Cerdanya</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Mantequilla de Soria</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Manzana de Girona / Poma de Girona</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Manzana Reineta del Bierzo</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Mazapán de Toledo</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Mejillón de Galicia / Mexillón de Galicia</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Melocotón de Calanda</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Melón de la Mancha</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Melón de Torre Pacheco-Murcia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Melva de Andalucia</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Miel de Galicia / Mel de Galicia</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miel de Granada</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miel de La Alcarria</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miel de Liébana</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miel de Tenerife</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mojama de Barbate</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Mojama de Isla Cristina</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Mongeta del Ganxet</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Montes de Granada</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Montes de Toledo</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Montoro-Adamuz</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Nísperos Callosa d’En Sarriá</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Oli de l’Empordà / Aceite de L’Empordà</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Pa de Pagès Català</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pan de Alfacar</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pan de Cea</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pan de Cruz de Ciudad Real</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Papas Antiguas de Canarias</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pasas de Málaga</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pataca de Galicia / Patata de Galicia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Patatas de Prades / Patates de Prades</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pemento da Arnoia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pemento de Herbón</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pemento de Mougán</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pemento de Oímbra</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pemento do Couto</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pera de Jumilla</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pera de Lleida</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Peras de Rincón de Soto</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Picón Bejes-Tresviso</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pimentón de la Vera</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Pimentón de Murcia</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Pimiento Asado del Bierzo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pimiento de Fresno-Benavente</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pimiento de Gernika or Gernikako Piperra</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pimiento Riojano</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pimientos del Piquillo de Lodosa</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Plátano de Canarias</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Polvorones de Estepa</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pollo y Capón del Prat</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Poniente de Granada</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Priego de Córdoba</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Queso Camerano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso Casin</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso de Flor de Guía / Queso de Media Flor de Guía / Queso de Guía</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso de La Serena</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso de l’Alt Urgell y la Cerdanya</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso de Murcia</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso de Murcia al vino</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso de Valdeón</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Queso Ibores</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso Los Beyos</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Queso Majorero</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso Manchego</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso Nata de Cantabria</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso Palmero / Queso de la Palma</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso Tetilla / Queixo Tetilla</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queso Zamorano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Quesucos de Liébana</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Roncal</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Rosée des Pyrénées Catalanes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Salchichón de Vic / Llonganissa de Vic</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>San Simón da Costa</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Sidra de Asturias / Sidra d’Asturies</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Sierra de Cadiz</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Sierra de Cazorla</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Sierra de Segura</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Sierra Mágina</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Siurana</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Sobao Pasiego</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Sobrasada de Mallorca</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Tarta de Santiago</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Ternasco de Aragón</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Ternera Asturiana</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Ternera de Aliste</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Ternera de Extremadura</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Ternera de los Pirineos Catalanes / Vedella dels Pirineus Catalans / Vedell des Pyrénées Catalanes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Ternera de Navarra / Nafarroako Aratxea</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Ternera Gallega</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Tomate La Cañada</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Torta del Casar</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Turrón de Agramunt / Torró d’Agramunt</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Turrón de Alicante</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Uva de mesa embolsada "Vinalopó"</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Vinagre de Jerez</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Vinagre del Condado de Huelva</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Vinagre de Montilla-Moriles</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Kainuun rönttönen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Kitkan viisas</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Lapin Poron kuivaliha</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Lapin Poron kylmäsavuliha</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Lapin Poron liha</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Lapin Puikula</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Puruveden muikku</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Abondance</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Abricots rouges du Roussillon</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Agneau de lait des Pyrénées</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agneau de l’Aveyron</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agneau de Lozère</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agneau de Pauillac</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agneau du Périgord</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agneau de Sisteron</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agneau du Bourbonnais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agneau du Limousin</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agneau du Poitou-Charentes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agneau du Quercy</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Ail blanc de Lomagne</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ail de la Drôme</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ail fumé d’Arleux</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ail rose de Lautrec</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Anchois de Collioure</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Artichaut du Rousillon</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Asperge des sables des Landes</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Asperges du Blayais</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Banon</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Barèges-Gavarnie</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Béa du Roussillon</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Beaufort</td><td>—</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Bergamote(s) de Nancy</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Beurre Charentes-Poitou / Beurre des Charentes / Beurre des Deux-Sèvres</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Beurre de Bresse</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Beurre d’Isigny</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Bleu d’Auvergne</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Bleu de Gex Haut-Jura / Bleu de Septmoncel</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Bleu des Causses</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Bleu du Vercors-Sassenage</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Bœuf charolais du Bourbonnais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Bœuf de Bazas</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Bœuf de Chalosse</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Bœuf de Charolles</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Bœuf de Vendée</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Bœuf du Maine</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Boudin blanc de Rethel</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Brie de Meaux</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Brie de Melun</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Brioche vendéenne</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Brocciu Corse / Brocciu</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Camembert de Normandie</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Canard à foie gras du Sud-Ouest (Chalosse, Gascogne, Gers, Landes, Périgord, Quercy)</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Cantal / Fourme de Cantal / Cantalet</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Chabichou du Poitou</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Chaource</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Chapon du Périgord</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Charolais</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Chasselas de Moissac</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Châtaigne d’Ardèche</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Chevrotin</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Cidre de Bretagne / Cidre Breton</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Cidre de Normandie / Cidre Normand</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Citron de Menton</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Clémentine de Corse</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Coco de Paimpol</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Comté</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Coppa de Corse / Coppa de Corse – Coppa di Corsica</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Coquille Saint-Jacques des Côtes d’Armor</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Cornouaille</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Crème de Bresse</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Crème d’Isigny</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Crème fraîche fluide d’Alsace</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Crottin de Chavignol / Chavignol</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Dinde de Bresse</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Domfront</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Échalote d’Anjou</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Époisses</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Farine de blé noir de Bretagne / Farine de blé noir de Bretagne – Gwinizh du Breizh</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Farine de châtaigne corse / Farina castagnina corsa</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Farine de Petit Épeautre de Haute Provence</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Figue de Solliès</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fin Gras / Fin Gras du Mézenc</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Foin de Crau</td><td></td><td>AOP</td><td>Foin</td></tr>
-<tr><td>Fourme d’Ambert</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Fourme de Montbrison</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Fraise du Périgord</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fraises de Nîmes</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Gâche vendéenne</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Génisse Fleur d’Aubrac</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Gruyère[^annexu1-lvlu1-lvlu2-2]</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Haricot tarbais</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Huile d’olive d’Aix-en-Provence</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Huile d’olive de Corse / Huile d’olive de Corse-Oliu di Corsica</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Huile d’olive de Haute-Provence</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Huile d’olive de la Vallée des Baux-de-Provence</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Huile d’olive de Nice</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Huile d’olive de Nîmes</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Huile d’olive de Nyons</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Huile essentielle de lavande de Haute-Provence / Essence de lavande de Haute-Provence</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Huîtres Marennes Oléron</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Jambon d’Auvergne</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jambon de Bayonne</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jambon sec de Corse / Jambon sec de Corse – Prisuttu</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jambon de Lacaune</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jambon de l’Ardèche</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jambon de Vendée</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Jambon sec des Ardennes/ Noix de Jambon sec des Ardennes</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Kiwi de l’Adour</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Laguiole</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Langres</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Lentille verte du Puy</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Lentilles vertes du Berry</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Lingot du Nord</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Livarot</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Lonzo de Corse / Lonzo de Corse – Lonzu</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Mâche nantaise</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Mâconnais</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Maine - Anjou</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Maroilles / Marolles</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Melon de Guadeloupe</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Melon du Haut-Poitou</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Melon du Quercy</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Miel d’Alsace</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miel de Cévennes</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miel de Corse / Mele di Corsica</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miel de Provence</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miel de sapin des Vosges</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mirabelles de Lorraine</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Mogette de Vendée</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Mont d’or / Vacherin du Haut-Doubs</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Morbier</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Moules de Bouchot de la Baie du Mont-Saint-Michel</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Moutarde de Bourgogne</td><td></td><td>IGP</td><td>Pâte de moutarde</td></tr>
-<tr><td>Munster / Munster-Géromé</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Muscat du Ventoux</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Neufchâtel</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Noisette de Cervione – Nuciola di Cervioni</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Noix de Grenoble</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Noix du Périgord</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Œufs de Loué</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Oie d’Anjou</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Oignon de Roscoff</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Oignon doux des Cévennes</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Olive de Nice</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Olive de Nîmes</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Olives cassées de la Vallée des Baux-de-Provence</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Olives noires de la Vallée des Baux de Provence</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Olives noires de Nyons</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ossau-Iraty</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pâté de Campagne Breton</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Pâtes d’Alsace</td><td></td><td>IGP</td><td>Pâtes alimentaires</td></tr>
-<tr><td>Pays d’Auge / Pays d’Auge-Cambremer</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Pélardon</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Petit Épeautre de Haute-Provence</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Picodon</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Piment d’Espelette / Piment d’Espelette – Ezpeletako Biperra</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Pintadeau de la Drôme</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Pintade de l’Ardèche</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Poireaux de Créances</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pomelo de Corse</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pomme de terre de l’Île de Ré</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pomme du Limousin</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pommes des Alpes de Haute Durance</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pommes de terre de Merville</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pommes et poires de Savoie / Pommes de Savoie / Poires de Savoie</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pont-l’Évêque</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Porc d’Auvergne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Porc de Franche-Comté</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Porc de la Sarthe</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Porc de Normandie</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Porc de Vendée</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Porc du Limousin</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Porc du Sud-Ouest</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Poularde du Périgord</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Poulet de l’Ardèche / Chapon de l’Ardèche</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Poulet des Cévennes / Chapon des Cévennes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Poulet du Périgord</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Pouligny-Saint-Pierre</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Prés-salés de la baie de Somme</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Prés-salés du Mont-Saint-Michel</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Pruneaux d’Agen / Pruneaux d’Agen mi-cuits</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Raviole du Dauphiné</td><td></td><td>IGP</td><td>Pâtes alimentaires</td></tr>
-<tr><td>Reblochon / Reblochon de Savoie</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Rigotte de Condrieu</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Rillettes de Tours</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Riz de Camargue</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Rocamadour</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Roquefort</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Sainte-Maure de Touraine</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Saint-Marcellin</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Saint-Nectaire</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Salers</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Saucisse de Montbéliard</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Saucisse de Morteau / Jésus de Morteau</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Saucisson de Lacaune / Saucisse de Lacaune</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Saucisson de l’Ardèche</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Saucisson sec d’Auvergne / Saucisse sèche d’Auvergne</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Selles-sur-Cher</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Soumaintrain</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Taureau de Camargue</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Tome des Bauges</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Tomme de Savoie</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Tomme des Pyrénées</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Valençay</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Veau d’Aveyron et du Ségala</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Veau du Limousin</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles d’Alsace</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles d’Ancenis</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles d’Auvergne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Bourgogne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volaille de Bresse/Poulet de Bresse/Poularde de Bresse/Chapon de Bresse</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Bretagne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Challans</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Cholet</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Gascogne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Houdan</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Janzé</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de la Champagne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de la Drôme</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de l’Ain</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Licques</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de l’Orléanais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Loué</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Normandie</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles de Vendée</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles des Landes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Béarn</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Berry</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Charolais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Forez</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Gatinais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Gers</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Languedoc</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Lauragais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Maine</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du plateau de Langres</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Val de Sèvres</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Volailles du Velay</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Baranjski kulen</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Dalmatinski pršut</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Drniški pršut</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Ekstra djevičansko maslinovo ulje Cres</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Istarski pršut / Istrski pršut</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Korčulansko maslinovo ulje</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Krčki pršut</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Krčko maslinovo ulje</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Lički krumpir</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Neretvanska mandarina</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ogulinski kiseli kupus / Ogulinsko kiselo zelje</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Paška janjetina</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Poljički soparnik / Poljički zeljanik / Poljički uljenjak</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Šoltansko maslinovo ulje</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Zagorski puran</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Alföldi kamillavirágzat</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Budapesti szalámi / Budapesti téliszalámi</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Csabai kolbász / Csabai vastagkolbász</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Gönci kajszibarack</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Gyulai kolbász / Gyulai pároskolbász</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Hajdúsági torma</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Kalocsai fűszerpaprika örlemény</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Magyar szürkemarha hús</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Makói vöröshagyma / Makói hagyma</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Szegedi fűszerpaprika-őrlemény / Szegedi paprika</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Szegedi szalámi / Szegedi téliszalámi</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Szentesi paprika</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Szőregi rózsatő</td><td></td><td>IGP</td><td>Fleurs et plantes ornementales</td></tr>
-<tr><td>Clare Island Salmon</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Connemara Hill lamb / Uain Sléibhe Chonamara</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Imokilly Regato</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Timoleague Brown Pudding</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Waterford Blaa / Blaa</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Abbacchio Romano</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Acciughe Sotto Sale del Mar Ligure</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Aceto balsamico di Modena</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Aceto balsamico tradizionale di Modena</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Aceto balsamico tradizionale di Reggio Emilia</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Aglio Bianco Polesano</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Aglio di Voghiera</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Agnello del Centro Italia</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Agnello di Sardegna</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Alto Crotonese</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Amarene Brusche di Modena</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Anguria Reggiana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Aprutino Pescarese</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Arancia del Gargano</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Arancia di Ribera</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Arancia Rossa di Sicilia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Asiago</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Asparago Bianco di Bassano</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Asparago bianco di Cimadolmo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Asparago di Badoere</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Asparago di Cantello</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Asparago verde di Altedo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Basilico Genovese</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Bergamotto di Reggio Calabria – Olio essenziale</td><td></td><td>AOP</td><td>Huiles essentielles</td></tr>
-<tr><td>Bitto</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Bra</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Bresaola della Valtellina</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Brisighella</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Brovada</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Bruzio</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Burrata di Andria</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Caciocavallo Silano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Canestrato di Moliterno</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Canestrato Pugliese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Canino</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Cantuccini Toscani / Cantucci Toscani</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Cappellacci di zucca ferraresi</td><td></td><td>IGP</td><td>Pâtes alimentaires</td></tr>
-<tr><td>Capocollo di Calabria</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Cappero di Pantelleria</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Carciofo Brindisino</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Carciofo di Paestum</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Carciofo Romanesco del Lazio</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Carciofo Spinoso di Sardegna</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Carota dell’Altopiano del Fucino</td><td>–</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Carota Novella di Ispica</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cartoceto</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Casatella Trevigiana</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Casciotta d’Urbino</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Castagna Cuneo</td><td>–</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Castagna del Monte Amiata</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Castagna di Montella</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Castagna di Vallerano</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Castelmagno</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Chianti Classico</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Ciauscolo</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Cilento</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Ciliegia dell’Etna</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ciliegia di Marostica</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ciliegia di Vignola</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cinta Senese</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cipolla bianca di Margherita</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cipolla Rossa di Tropea Calabria</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cipollotto Nocerino</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Clementine del Golfo di Taranto</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Clementine di Calabria</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Collina di Brindisi</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Colline di Romagna</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Colline Pontine</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Colline Salernitane</td><td>–</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Colline Teatine</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Coppa di Parma</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Coppa Piacentina</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Coppia Ferrarese</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Cotechino Modena</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Cozza di Scardovari</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Crudo di Cuneo</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Culatello di Zibello</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Culurgionis d’Ogliastra</td><td></td><td>IGP</td><td>Pâtes alimentaires</td></tr>
-<tr><td>Dauno</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Fagioli Bianchi di Rotonda</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fagiolo Cannellino di Atina</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fagiolo Cuneo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fagiolo di Lamon della Vallata Bellunese</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fagiolo di Sarconi</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fagiolo di Sorana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Farina di castagne della Lunigiana</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Farina di Neccio della Garfagnana</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Farro di Monteleone di Spoleto</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Farro della Garfagnana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fichi di Cosenza</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fico Bianco del Cilento</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ficodindia dell’Etna</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ficodindia di San Cono</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Finocchiona</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Fiore Sardo</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Focaccia di Recco col formaggio</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Fontina</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Formaggella del Luinese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Formaggio di Fossa di Sogliano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Formai de Mut dell’Alta Valle Brembana</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Fungo di Borgotaro</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Garda</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Gorgonzola</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Grana Padano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Insalata di Lusia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Irpinia – Colline dell’Ufita</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Kiwi Latina</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>La Bella della Daunia</td><td>–</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Laghi Lombardi</td><td>–</td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Lametia</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Lardo di Colonnata</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Lenticchia di Castelluccio di Norcia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Limone Costa d’Amalfi</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Limone di Rocca Imperiale</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Limone di Siracusa</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Limone di Sorrento</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Limone Femminello del Gargano</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Limone Interdonato Messina</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Liquirizia di Calabria</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Lucca</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Maccheroncini di Campofilone</td><td></td><td>IGP</td><td>Pâtes alimentaires</td></tr>
-<tr><td>Marrone della Valle di Susa</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Marrone del Mugello</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Marrone di Caprese Michelangelo</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Marrone di Castel del Rio</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Marrone di Combai</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Marrone di Roccadaspide</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Marrone di San Zeno</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Marroni del Monfenera</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Mela Alto Adige / Südtiroler Apfel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Mela di Valtellina</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Mela Rossa Cuneo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Mela Val di Non</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Melannurca Campana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Melanzana Rossa di Rotonda</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Melone Mantovano</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Miele della Lunigiana</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miele delle Dolomiti Bellunesi</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miele Varesino</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Molise</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Montasio</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Monte Etna</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Monte Veronese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Monti Iblei</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Mortadella Bologna</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Mortadella di Prato</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Mozzarella di Bufala Campana</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Murazzano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Nocciola del Piemonte / Nocciola Piemonte</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Nocciola di Giffoni</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Nocciola Romana</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Nocellara del Belice</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Nostrano Valtrompia</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Oliva Ascolana del Piceno</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Olio di Calabria</td><td></td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Oliva di Gaeta</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pagnotta del Dittaino</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pampapato di Ferrara/Pampepato di Ferrara</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pancetta di Calabria</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Pancetta Piacentina</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Pane casareccio di Genzano</td><td>–</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pane di Altamura</td><td>–</td><td>AOP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pane di Matera</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pane Toscano</td><td></td><td>AOP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Panforte di Siena</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Parmigiano Reggiano</td><td>–</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pasta di Gragnano</td><td></td><td>IGP</td><td>Pâtes alimentaires</td></tr>
-<tr><td>Patata del Fucino</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Patata dell’Alto Viterbese</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Patata della Sila</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Patata di Bologna</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Patata novella di Galatina</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Patata Rossa di Colfiorito</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pecorino Crotonese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pecorino delle Balze Volterrane</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pecorino di Filiano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pecorino di Picinisco</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pecorino Romano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pecorino Sardo</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pecorino Siciliano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pecorino Toscano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Penisola Sorrentina</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Peperone di Pontecorvo</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Peperone di Senise</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pera dell’Emilia Romagna</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pera mantovana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pescabivona</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pesca di Leonforte</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pesca di Verona</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pesca e nettarina di Romagna</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Piacentinu Ennese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Piadina Romagnola / Piada Romagnola</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Piave</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Pistacchio verde di Bronte</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pizzoccheri della Valtellina</td><td></td><td>IGP</td><td>Pâtes alimentaires</td></tr>
-<tr><td>Pomodorino del Piennolo del Vesuvio</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pomodoro di Pachino</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pomodoro S. Marzano dell’Agro Sarnese-Nocerino</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Porchetta di Ariccia</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Pretuziano delle Colline Teramane</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Prosciutto Amatriciano</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Prosciutto di Carpegna</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Prosciutto di Modena</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Prosciutto di Norcia</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Prosciutto di Parma</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Prosciutto di Sauris</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Prosciutto di San Daniele</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Prosciutto Toscano</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Prosciutto Veneto Berico-Euganeo</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Provolone del Monaco</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Provolone Valpadana</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Puzzone di Moena / Spretz Tzaorì</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Quartirolo Lombardo</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Radicchio di Chioggia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Radicchio di Verona</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Radicchio Rosso di Treviso</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Radicchio Variegato di Castelfranco</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ragusano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Raschera</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Ricciarelli di Siena</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Ricotta di Bufala Campana</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Ricotta Romana</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Riso del Delta del Po</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Riso di Baraggia Biellese e Vercellese</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Riso Nano Vialone Veronese</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Riviera Ligure</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Robiola di Roccaverano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Sabina</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Salama da sugo</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salame Brianza</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salame Cremona</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salame di Varzi</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salame d’oca di Mortara</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salame Felino</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salame Piacentino</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salame Piemonte</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salame S. Angelo</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salamini italiani alla cacciatora</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salmerino del Trentino</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Salsiccia di Calabria</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salva Cremasco</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Sardegna</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Scalogno di Romagna</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Sedano Bianco di Sperlonga</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Seggiano</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Sicilia</td><td></td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Silter</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Soppressata di Calabria</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Soprèssa Vicentina</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Speck dell’Alto Adige / Südtiroler Markenspeck / Südtiroler Speck</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Spressa delle Giudicarie</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Squacquerone di Romagna</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Stelvio / Stilfser</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Strachitunt</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Susina di Dro</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Taleggio</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Tergeste</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Terra di Bari</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Terra d’Otranto</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Terre Aurunche</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Terre di Siena</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Terre Tarentine</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Tinca Gobba Dorata del Pianalto di Poirino</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Toma Piemontese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Torrone di Bagnara</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Toscano</td><td></td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Trote del Trentino</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Tuscia</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Umbria</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Uva da tavola di Canicattì</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Uva da tavola di Mazzarrone</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Uva di Puglia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Val di Mazara</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Valdemone</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Valle d’Aosta Fromadzo</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Valle d’Aosta Jambon de Bosses</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Valle d’Aosta Lard d’Arnad</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Valle del Belice</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Valli Trapanesi</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Valtellina Casera</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Vastedda della valle del Belìce</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Veneto Valpolicella, Veneto Euganei e Berici, Veneto del Grappa</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Vitellone bianco dell’Appennino Centrale</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Vulture</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Zafferano dell’Aquila</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Zafferano di San Gimignano</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Zafferano di sardegna</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Zampone Modena</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Daujėnų naminė duona</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Lietuviškas varškės sūris</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Liliputas</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Seinų / Lazdijų krašto medus / Miód z Sejneńszczyny / Łoździejszczyzny</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Stakliškės</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Beurre rose – Marque nationale du Grand-Duché de Luxembourg</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Miel – Marque nationale du Grand-Duché de Luxembourg</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Salaisons fumées, marque nationale du Grand-Duché de Luxembourg</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Viande de porc, marque nationale du Grand-Duché de Luxembourg</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carnikavas nēģi</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Latvijas lielie pelēkie zirņi</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Boeren-Leidse met sleutels</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Brabantse Wal asperges</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>De Meerlander</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Edam Holland</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Gouda Holland</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Hollandse geitenkaas</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Kanterkaas / Kanternagelkaas / Kanterkomijnekaas</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Noord-Hollandse Edammer</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Noord-Hollandse Gouda</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Opperdoezer Ronde</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Westlandse druif</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Andruty Kaliskie</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Bryndza Podhalańska</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Cebularz lubelski</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Chleb prądnicki</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Fasola korczyńska</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fasola Piękny Jaś z Doliny Dunajca / Fasola z Doliny Dunajca</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Fasola Wrzawska</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Jabłka grójeckie</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Jabłka łąckie</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Jagnięcina podhalańska</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Karp zatorski</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Kiełbasa lisiecka</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Kołocz śląski/kołacz śląski</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Krupnioki śląskie</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Miód drahimski</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miód kurpiowski</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Miód wrzosowy z Borów Dolnośląskich</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Obwarzanek krakowski</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Oscypek</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Podkarpacki miód spadziowy</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Redykołka</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Rogal świętomarciński</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Ser koryciński swojski</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Śliwka szydłowska</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Suska sechlońska</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Truskawka kaszubska lub Kaszëbskô malëna</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Wielkopolski ser smażony</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Wiśnia nadwiślanka</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Alheira de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Alheira de Mirandela</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Alheira de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Ameixa d’Elvas</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Amêndoa Douro</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Ananás dos Açores/ São Miguel</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Anona da Madeira</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Arroz Carolino do Baixo Mondego</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Arroz Carolino Lezírias Ribatejanas</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Azeite de Moura</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Azeite de Trás-os-Montes</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Azeite do Alentejo Interior</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Azeites da Beira Interior (Azeite da Beira Alta, Azeite da Beira Baixa)</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Azeites do Norte Alentejano</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Azeites do Ribatejo</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Azeitona de conserva Negrinha de Freixo</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Azeitonas de Conserva de Elvas e Campo Maior</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Batata de Trás-os-montes</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Batata doce de Aljezur</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Borrego da Beira</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Borrego de Montemor- o-Novo</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Borrego do Baixo Alentejo</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Borrego do Nordeste Alentejano</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Borrego Serra da Estrela</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Borrego Terrincho</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Butelo de Vinhais / Bucho de Vinhais / Chouriço de Ossos de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Cabrito da Beira</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cabrito da Gralheira</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cabrito das Terras Altas do Minho</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cabrito de Barroso</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cabrito do Alentejo</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cabrito Transmontano</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cacholeira Branca de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Capão de Freamunde</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carnalentejana</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne Arouquesa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne Barrosã</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne Cachena da Peneda</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne da Charneca</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne de Bísaro Transmonano / Carne de Porco Transmontano</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne de Bovino Cruzado dos Lameiros do Barroso</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne de Bravo do Ribatejo</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne de Porco Alentejano</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne dos Açores</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne Marinhoa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne Maronesa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne Mertolenga</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Carne Mirandesa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Castanha da Terra Fria</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Castanha de Padrela</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Castanha dos Soutos da Lapa</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Castanha Marvão-Portalegre</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cereja da Cova da Beira</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cereja de São Julião-Portalegre</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Chouriça de carne de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriça de carne de Melgaço</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriça de Carne de Vinhais / Linguiça de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriça de sangue de Melgaço</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriça doce de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriço azedo de Vinhais / Azedo de Vinhais / Chouriço de Pão de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriço de Abóbora de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriço de Carne de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriço de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriço grosso de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Chouriço Mouro de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Citrinos do Algarve</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Cordeiro Bragançano</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cordeiro de Barroso / Anho de Barroso / Cordeiro de leite de Barroso</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Cordeiro Mirandês / Canhono Mirandês</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Farinheira de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Farinheira de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Fogaça da Feira</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Ginja de Óbidos e Alcobaça</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Linguiça de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Linguiça do Baixo Alentejo / Chouriço de carne do Baixo Alentejo</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Lombo Branco de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Lombo Enguitado de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Maçã Bravo de Esmolfe</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Maçã da Beira Alta</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Maçã da Cova da Beira</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Maçã de Alcobaça</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Maçã de Portalegre</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Maçã Riscadinha de Palmela</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Maracujá dos Açores / S. Miguel</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Mel da Serra da Lousã</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mel da Serra de Monchique</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mel da Terra Quente</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mel das Terras Altas do Minho</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mel de Barroso</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mel do Alentejo</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mel do Parque de Montezinho</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mel do Ribatejo Norte (Serra d’Aire, Albufeira de Castelo de Bode, Bairro, Alto Nabão)</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Mel dos Açores</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Meloa de Santa Maria – Açores</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Morcela de Assar de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Morcela de Cozer de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Morcela de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Ovos moles de Aveiro</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Paio de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Paia de Lombo de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Paia de Toucinho de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Painho de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Paio de Beja</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Pão de Ló de Ovar</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pastel de Chaves</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pastel de Tentúgal</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Pêra Rocha do Oeste</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Pêssego da Cova da Beira</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Presunto de Barrancos / Paleta de Barrancos</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Presunto de Barroso</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Presunto de Camp Maior e Elvas / Paleta de Campo Maior e Elvas</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Presunto de Melgaço</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Presunto de Santana da Serra / Paleta de Santana da Serra</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Presunto de Vinhais / Presunto Bísaro de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Presunto do Alentejo / Paleta do Alentejo</td><td></td><td>AOP</td><td>Produits à base de viande</td></tr>
-<tr><td>Queijo de Azeitão</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queijo de cabra Transmontano</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queijo de Évora</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Queijo de Nisa</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queijo do Pico</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queijo mestiço de Tolosa</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Queijo Rabaçal</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queijo São Jorge</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queijo Serpa</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queijo Serra da Estrela</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queijo Terrincho</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Queijos da Beira Baixa (Queijo de Castelo Branco, Queijo Amarelo da Beira Baixa, Queijo Picante da Beira Baixa)</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Requeijão da Beira Baixa</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Requeijão Serra da Estrela</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Salpicão de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salpicão de Melgaço</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Salpicão de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Sangueira de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Travia da Beira Baixa</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Vitela de Lafões</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Magiun de prune Topoloveni</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Salam de Sibiu</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Telemea de Ibăneşti</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Bruna bönor från Öland</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Hånnlamb</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Kalix Löjrom</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Skånsk spettkaka</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Svecia</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Upplandskubb</td><td></td><td>AOP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Bovški sir</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Ekstra deviško oljčno olje Slovenske Istre</td><td></td><td>AOP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Kočevski gozdni med</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Kranjska klobasa</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Kraška panceta</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Kraški med</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Kraški pršut</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Kraški zašink</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Mohant</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Nanoški sir</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Prekmurska šunka</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Prleška tünka</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Ptujski lük</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Šebreljski želodec</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Slovenski med</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Štajersko prekmursko bučno olje</td><td></td><td>IGP</td><td>Huiles et matières grasses</td></tr>
-<tr><td>Tolminc</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Zgornjesavinjski želodec</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Klenovecký syrec</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Levický Slad</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Oravský korbáčik</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Paprika Žitava / Žitavská paprika</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Skalický trdelnik</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Slovenská bryndza</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Slovenská parenica</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Slovenský oštiepok</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Tekovský salámový syr</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Zázrivské vojky</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Zázrivský korbáčik</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Arbroath Smokies</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Armagh Bramley Apples</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Beacon Fell traditional Lancashire cheese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Bonchester cheese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Buxton blue</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Carmarthen Ham</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Cornish Clotted Cream</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td></tr>
-<tr><td>Cornish Pasty</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td></tr>
-<tr><td>Cornish Sardines</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Conwy Mussels</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Dorset Blue Cheese</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Dovedale cheese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>East Kent Goldings</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Exmoor Blue Cheese</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Fal Oyster</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Fenland Celery</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Gloucestershire cider/perry</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Herefordshire cider/perry</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Isle of Man Manx Loaghtan Lamb</td><td>–</td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Jersey Royal potatoes</td><td>–</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Isle of Man Queenies</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Kentish ale and Kentish strong ale</td><td>–</td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Lakeland Herdwick</td><td></td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Lough Neagh Eel</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Melton Mowbray Pork Pie</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Native Shetland Wool</td><td></td><td>AOP</td><td>Laine</td></tr>
-<tr><td>Newmarket Sausage</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>New Season Comber Potatoes / Comber Earlies</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Orkney beef</td><td>–</td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Orkney lamb</td><td>–</td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Orkney Scottish Island Cheddar</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Pembrokeshire Earlies / Pembrokeshire Early Potatoes</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Rutland Bitter</td><td>–</td><td>IGP</td><td>Bière</td></tr>
-<tr><td>Scotch Beef</td><td>–</td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Scotch Lamb</td><td>–</td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Scottish Farmed Salmon</td><td>–</td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Scottish Wild Salmon</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Shetland Lamb</td><td>–</td><td>AOP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Single Gloucester</td><td>–</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Staffordshire Cheese</td><td>–</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Stornoway Black Pudding</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Swaledale cheese / Swaledale ewes’ cheese</td><td>–</td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Teviotdale Cheese</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Traditional Ayrshire Dunlop</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td>Traditional Cumberland Sausage</td><td></td><td>IGP</td><td>Produits à base de viande</td></tr>
-<tr><td>Traditional Grimsby Smoked Fish</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Vale of Evesham Asparagus</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Welsh Beef</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>Welsh lamb</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>West Country Beef</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>West Country farmhouse Cheddar cheese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>West Country Lamb</td><td></td><td>IGP</td><td>Viande (et abats) frais</td></tr>
-<tr><td>White Stilton cheese / Blue Stilton cheese</td><td></td><td>AOP</td><td>Fromages</td></tr>
-<tr><td>Whitstable oysters</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td></tr>
-<tr><td>Worcestershire cider/perry</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td></tr>
-<tr><td>Yorkshire Forced Rhubarb</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td></tr>
-<tr><td>Yorkshire Wensleydale</td><td></td><td>IGP</td><td>Fromages</td></tr>
-<tr><td colspan="4">[tab] (1) Conformément à la législation de l’Union en vigueur, comme figurant à l’appendice 2.</td></tr>
+<tr><th>Nom</th><th>Transcription en caractères latins</th><th>Protection (1)</th><th>Type de Produit</th><th>Origine</th></tr>
+<tr><td>Gailtaler Almkäse</td><td></td><td>AOP</td><td>Fromages</td><td>Autriche</td></tr>
+<tr><td>Gailtaler Speck</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Autriche</td></tr>
+<tr><td>Marchfeldspargel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Autriche</td></tr>
+<tr><td>Pöllauer Hirschbirne</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Autriche</td></tr>
+<tr><td>Steirische Käferbohne</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Autriche</td></tr>
+<tr><td>Steirischer Kren</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Autriche</td></tr>
+<tr><td>Steirisches Kürbiskernöl</td><td></td><td>IGP</td><td>Huiles et matières grasses</td><td>Autriche</td></tr>
+<tr><td>Tiroler Almkäse / Tiroler Alpkäse</td><td></td><td>AOP</td><td>Fromages</td><td>Autriche</td></tr>
+<tr><td>Tiroler Bergkäse</td><td></td><td>AOP</td><td>Fromages</td><td>Autriche</td></tr>
+<tr><td>Tiroler Graukäse</td><td></td><td>AOP</td><td>Fromages</td><td>Autriche</td></tr>
+<tr><td>Tiroler Speck</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Autriche</td></tr>
+<tr><td>Vorarlberger Alpkäse</td><td></td><td>AOP</td><td>Fromages</td><td>Autriche</td></tr>
+<tr><td>Vorarlberger Bergkäse</td><td></td><td>AOP</td><td>Fromages</td><td>Autriche</td></tr>
+<tr><td>Wachauer Marille</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Autriche</td></tr>
+<tr><td>Waldviertler Graumohn</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Autriche</td></tr>
+<tr><td>Beurre d’Ardenne</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Belgique</td></tr>
+<tr><td>Brussels grondwitloof</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Belgique</td></tr>
+<tr><td>Fromage de Herve</td><td></td><td>AOP</td><td>Fromages</td><td>Belgique</td></tr>
+<tr><td>Gentse azalea</td><td></td><td>IGP</td><td>Fleurs et plantes ornementales</td><td>Belgique</td></tr>
+<tr><td>Geraardsbergse Mattentaart</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Belgique</td></tr>
+<tr><td>Jambon d’Ardenne</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Belgique</td></tr>
+<tr><td>Liers vlaaike</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Belgique</td></tr>
+<tr><td>Pâté gaumais</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Belgique</td></tr>
+<tr><td>Plate de Florenville</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Belgique</td></tr>
+<tr><td>Poperingse Hopscheuten / Poperingse Hoppescheuten</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Belgique</td></tr>
+<tr><td>Potjesvlees uit de Westhoek</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Belgique</td></tr>
+<tr><td>Saucisson d’Ardenne / Collier d’Ardenne / Pipe d’Ardenne</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Belgique</td></tr>
+<tr><td>Vlaams – Brabantse Tafeldruif</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Belgique</td></tr>
+<tr><td>Vlaamse laurier</td><td></td><td>IGP</td><td>Fleurs et plantes ornementales</td><td>Belgique</td></tr>
+<tr><td>Vlees van het rood ras van West-Vlaanderen</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Belgique</td></tr>
+<tr><td>Българско розово масло</td><td>Bulgarsko rozovo maslo</td><td>IGP</td><td>Huiles essentielles</td><td>Bulgarie</td></tr>
+<tr><td>Горнооряховски суджук</td><td>Gornooryahovski sudzhuk</td><td>IGP</td><td>Produits à base de viande</td><td>Bulgarie</td></tr>
+<tr><td>Странджански манов мед / Maнов мед от Странджа</td><td>Strandzhanski manov med / Manov med ot Strandzha</td><td>AOP</td><td>Autres produits d’origine animale</td><td>Bulgarie</td></tr>
+<tr><td>Γλυκό Τριαντάφυλλο Αγρού</td><td>Glyko Triantafyllo Agrou</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Chypre</td></tr>
+<tr><td>Κολοκάσι Σωτήρας / Κολοκάσι-Πούλλες Σωτήρας</td><td>Kolokasi Sotiras / Kolokasi-Poulles Sotiras</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Chypre</td></tr>
+<tr><td>Κουφέτα Αμυγδάλου Γεροσκήπου</td><td>Koufeta Amygdalou Geroskipou</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Chypre</td></tr>
+<tr><td>Λουκούμι Γεροσκήπου</td><td>Loukoumi Geroskipou</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Chypre</td></tr>
+<tr><td>Παφίτικο Λουκάνικο</td><td>Pafitiko Loukaniko</td><td>IGP</td><td>Produits à base de viande</td><td>Chypre</td></tr>
+<tr><td>Březnický ležák</td><td></td><td>IGP</td><td>Bière</td><td>République tchèque</td></tr>
+<tr><td>Brněnské pivo / Starobrněnské pivo</td><td></td><td>IGP</td><td>Bière</td><td>République tchèque</td></tr>
+<tr><td>Budějovické pivo</td><td></td><td>IGP</td><td>Bière</td><td>République tchèque</td></tr>
+<tr><td>Budějovický měšťanský var</td><td></td><td>IGP</td><td>Bière</td><td>République tchèque</td></tr>
+<tr><td>Černá Hora</td><td></td><td>IGP</td><td>Bière</td><td>République tchèque</td></tr>
+<tr><td>České pivo</td><td></td><td>IGP</td><td>Bière</td><td>République tchèque</td></tr>
+<tr><td>Českobudějovické pivo</td><td></td><td>IGP</td><td>Bière</td><td>République tchèque</td></tr>
+<tr><td>Český kmín</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>République tchèque</td></tr>
+<tr><td>Chamomilla bohemica</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>République tchèque</td></tr>
+<tr><td>Chelčicko – Lhenické ovoce</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>République tchèque</td></tr>
+<tr><td>Chodské pivo</td><td></td><td>IGP</td><td>Bière</td><td>République tchèque</td></tr>
+<tr><td>Hořické trubičky</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>République tchèque</td></tr>
+<tr><td>Jihočeská Niva</td><td></td><td>IGP</td><td>Fromages</td><td>République tchèque</td></tr>
+<tr><td>Jihočeská Zlatá Niva</td><td></td><td>IGP</td><td>Fromages</td><td>République tchèque</td></tr>
+<tr><td>Karlovarské oplatky</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>République tchèque</td></tr>
+<tr><td>Karlovarské trojhránky</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>République tchèque</td></tr>
+<tr><td>Karlovarský suchar</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>République tchèque</td></tr>
+<tr><td>Lomnické suchary</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>République tchèque</td></tr>
+<tr><td>Mariánskolázeňské oplatky</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>République tchèque</td></tr>
+<tr><td>Nošovické kysané zelí</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>République tchèque</td></tr>
+<tr><td>Olomoucké tvarůžky</td><td></td><td>IGP</td><td>Fromages</td><td>République tchèque</td></tr>
+<tr><td>Pardubický perník</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>République tchèque</td></tr>
+<tr><td>Pohořelický kapr</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>République tchèque</td></tr>
+<tr><td>Štramberské uši</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>République tchèque</td></tr>
+<tr><td>Třeboňský kapr</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>République tchèque</td></tr>
+<tr><td>VALAŠSKÝ FRGÁL</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>République tchèque</td></tr>
+<tr><td>Všestarská cibule</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>République tchèque</td></tr>
+<tr><td>Žatecký chmel</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>République tchèque</td></tr>
+<tr><td>Znojemské pivo</td><td></td><td>IGP</td><td>Bière</td><td>République tchèque</td></tr>
+<tr><td>Aachener Printen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Aachener Weihnachts-Leberwurst / Oecher Weihnachtsleberwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Abensberger Spargel / Abensberger Qualitätsspargel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Aischgründer Karpfen</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Allemagne</td></tr>
+<tr><td>Allgäuer Bergkäse</td><td></td><td>AOP</td><td>Fromages</td><td>Allemagne</td></tr>
+<tr><td>Allgäuer Sennalpkäse</td><td></td><td>AOP</td><td>Fromages</td><td>Allemagne</td></tr>
+<tr><td>Altenburger Ziegenkäse</td><td></td><td>AOP</td><td>Fromages</td><td>Allemagne</td></tr>
+<tr><td>Ammerländer Dielenrauchschinken / Ammerländer Katenschinken</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Ammerländer Schinken / Ammerländer Knochenschinken</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Bamberger Hörnla / Bamberger Hörnle / Bamberger Hörnchen</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Bayerische Breze / Bayerische Brezn / Bayerische Brez’n / Bayerische Brezel</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Bayerischer Meerrettich / Bayerischer Kren</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Bayerisches Bier</td><td></td><td>IGP</td><td>Bière</td><td>Allemagne</td></tr>
+<tr><td>Bayerisches Rindfleisch / Rindfleisch aus Bayern</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Allemagne</td></tr>
+<tr><td>Bayrisch Blockmalz / Bayrischer Blockmalz / Echt Bayrisch Blockmalz / Aecht Bayrischer Blockmalz</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Beelitzer Spargel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Bornheimer Spargel / Spargel aus dem Anbaugebiet Bornheim</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Bremer Bier</td><td></td><td>IGP</td><td>Bière</td><td>Allemagne</td></tr>
+<tr><td>Bremer Klaben</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Diepholzer Moorschnucke</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Allemagne</td></tr>
+<tr><td>Dithmarscher Kohl</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Dortmunder Bier</td><td></td><td>IGP</td><td>Bière</td><td>Allemagne</td></tr>
+<tr><td>Dresdner Christstollen / Dresdner Stollen/ Dresdner Weihnachtsstollen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Düsseldorfer Mostert / Düsseldorfer Senf Mostert / Düsseldorfer Urtyp Mostert / Aechter Düsseldorfer Mostert</td><td></td><td>IGP</td><td>Pâte de moutarde</td><td>Allemagne</td></tr>
+<tr><td>Elbe-Saale Hopfen</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Allemagne</td></tr>
+<tr><td>Eichsfelder Feldgieker / Eichsfelder Feldkieker</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Feldsalat von der Insel Reichenau</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Filderkraut / Filderspitzkraut</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Flönz</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Frankfurter Grüne Soße / Frankfurter Grie Soß</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Fränkischer Grünkern</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Fränkischer Karpfen / Frankenkarpfen / Karpfen aus Franken</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Allemagne</td></tr>
+<tr><td>Glückstädter Matjes</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Allemagne</td></tr>
+<tr><td>Göttinger Feldkieker</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Göttinger Stracke</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Greußener Salami</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Gurken von der Insel Reichenau</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Halberstädter Würstchen</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Hessischer Apfelwein</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Allemagne</td></tr>
+<tr><td>Hessischer Handkäse / Hessischer Handkäs</td><td></td><td>IGP</td><td>Fromages</td><td>Allemagne</td></tr>
+<tr><td>Hofer Bier</td><td></td><td>IGP</td><td>Bière</td><td>Allemagne</td></tr>
+<tr><td>Hofer Rindfleischwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Holsteiner Karpfen</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Allemagne</td></tr>
+<tr><td>Holsteiner Katenschinken / Holsteiner Schinken / Holsteiner Katenrauchschinken / Holsteiner Knochenschinken</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Hopfen aus der Hallertau</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Allemagne</td></tr>
+<tr><td>Höri Bülle</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Kölsch</td><td></td><td>IGP</td><td>Bière</td><td>Allemagne</td></tr>
+<tr><td>Kulmbacher Bier</td><td></td><td>IGP</td><td>Bière</td><td>Allemagne</td></tr>
+<tr><td>Lausitzer Leinöl</td><td></td><td>IGP</td><td>Huiles et matières grasses</td><td>Allemagne</td></tr>
+<tr><td>Lübecker Marzipan</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Lüneburger Heidekartoffeln</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Lüneburger Heidschnucke</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Allemagne</td></tr>
+<tr><td>Mainfranken Bier</td><td></td><td>IGP</td><td>Bière</td><td>Allemagne</td></tr>
+<tr><td>Meißner Fummel</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Münchener Bier</td><td></td><td>IGP</td><td>Bière</td><td>Allemagne</td></tr>
+<tr><td>Nieheimer Käse</td><td></td><td>IGP</td><td>Fromages</td><td>Allemagne</td></tr>
+<tr><td>Nürnberger Bratwürste / Nürnberger Rostbratwürste</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Nürnberger Lebkuchen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Obazda / Obatzter</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>Allemagne</td></tr>
+<tr><td>Oberlausitzer Biokarpfen</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Allemagne</td></tr>
+<tr><td>Oberpfälzer Karpfen</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Allemagne</td></tr>
+<tr><td>Odenwälder Frühstückskäse</td><td></td><td>AOP</td><td>Fromages</td><td>Allemagne</td></tr>
+<tr><td>Oecher Puttes / Aachener Puttes</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Reuther Bier</td><td></td><td>IGP</td><td>Bière</td><td>Allemagne</td></tr>
+<tr><td>Rheinisches Apfelkraut</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Rheinisches Zuckerrübenkraut / Rheinischer Zuckerrübensirup / Rheinisches Rübenkraut</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Salate von der Insel Reichenau</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Salzwedeler Baumkuchen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Schrobenhausener Spargel / Spargel aus dem Schrobenhausener Land / Spargel aus dem Anbaugebiet Schrobenhausen</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Schwäbische Maultaschen / Schwäbische Suppenmaultaschen</td><td></td><td>IGP</td><td>Pâtes alimentaires</td><td>Allemagne</td></tr>
+<tr><td>Schwäbische Spätzle / Schwäbische Knöpfle</td><td></td><td>IGP</td><td>Pâtes alimentaires</td><td>Allemagne</td></tr>
+<tr><td>Schwäbisch-Hällisches Qualitätsschweinefleisch</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Allemagne</td></tr>
+<tr><td>Schwarzwälder Schinken</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Schwarzwaldforelle</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Allemagne</td></tr>
+<tr><td>Spalt Spalter</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Allemagne</td></tr>
+<tr><td>Spargel aus Franken / Fränkischer Spargel / Franken-Spargel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Spreewälder Gurken</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Spreewälder Meerrettich</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Stromberger Pflaume</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Tettnanger Hopfen</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Allemagne</td></tr>
+<tr><td>Thüringer Leberwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Thüringer Rostbratwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Thüringer Rotwurst</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Tomaten von der Insel Reichenau</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Walbecker Spargel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Allemagne</td></tr>
+<tr><td>Weideochse vom Limpurger Rind</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Allemagne</td></tr>
+<tr><td>Weißlacker / Allgäuer Weißlacker</td><td></td><td>AOP</td><td>Fromages</td><td>Allemagne</td></tr>
+<tr><td>Westfälischer Knochenschinken</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Allemagne</td></tr>
+<tr><td>Westfälischer Pumpernickel</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Allemagne</td></tr>
+<tr><td>Danablu</td><td></td><td>IGP</td><td>Fromages</td><td>Danemark</td></tr>
+<tr><td>Esrom</td><td></td><td>IGP</td><td>Fromages</td><td>Danemark</td></tr>
+<tr><td>Lammefjordsgulerod</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Danemark</td></tr>
+<tr><td>Lammefjordskartofler</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Danemark</td></tr>
+<tr><td>Vadehavslam</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Danemark</td></tr>
+<tr><td>Vadehavsstude</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Danemark</td></tr>
+<tr><td>Άγιος Ματθαίος Κέρκυρας</td><td>Agios Mattheos Kerkyras</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Αγκινάρα Ιρίων</td><td>Agkinara Irion</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Αγουρέλαιο Χαλκιδικής</td><td>Agoureleo Chalkidikis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Ακτινίδιο Πιερίας</td><td>Aktinidio Pierias</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Ακτινίδιο Σπερχειού</td><td>Aktinidio Sperchiou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Ανεβατό</td><td>Anevato</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Αποκορώνας Χανίων Κρήτης</td><td>Apokoronas Chanion Kritis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Αρνάκι Ελασσόνας</td><td>Arnaki Elassonas</td><td>AOP</td><td>Viande (et abats) frais</td><td>Grèce</td></tr>
+<tr><td>Αρχάνες Ηρακλείου Κρήτης</td><td>Arxanes Irakliou Kritis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Αυγοτάραχο Μεσολογγίου</td><td>Avgotaracho Messolongiou</td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Grèce</td></tr>
+<tr><td>Βιάννος Ηρακλείου Κρήτης</td><td>Viannos Irakliou Kritis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Βόρειος Μυλοπόταμος Ρεθύμνης Κρήτης</td><td>Vorios Mylopotamos Rethymnis Kritis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Γαλανό Μεταγγιτσίου Χαλκιδικής</td><td>Galano Metaggitsiou Chalkidikis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Γαλοτύρι</td><td>Galotyri</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Γραβιέρα Αγράφων</td><td>Graviera Agrafon</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Γραβιέρα Κρήτης</td><td>Graviera Kritis</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Γραβιέρα Νάξου</td><td>Graviera Naxou</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Ελιά Καλαμάτας</td><td>Elia Kalamatas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Εξαιρετικό παρθένο ελαιόλαδο «Τροιζηνία»</td><td>Exeretiko partheno eleolado «Trizinia»</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Εξαιρετικό παρθένο ελαιόλαδο Θραψανό</td><td>Exeretiko partheno eleolado Thrapsano</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Εξαιρετικό Παρθένο Ελαιόλαδο Σέλινο Κρήτης</td><td>Exeretiko Partheno Eleolado Selino Kritis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Ζάκυνθος</td><td>Zakynthos</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Θάσος</td><td>Thassos</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Θρούμπα Αμπαδιάς Ρεθύμνης Κρήτης</td><td>Throumpa Ampadias Rethymnis Kritis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Θρούμπα Θάσου</td><td>Throumpa Thassou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Θρούμπα Χίου</td><td>Throumpa Chiou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Καλαθάκι Λήμνου</td><td>Kalathaki Limnou</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Καλαμάτα</td><td>Kalamata</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Κασέρι</td><td>Kasseri</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Κατίκι Δομοκού</td><td>Katiki Domokou</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Κατσικάκι Ελασσόνας</td><td>Katsikaki Elassonas</td><td>AOP</td><td>Viande (et abats) frais</td><td>Grèce</td></tr>
+<tr><td>Κελυφωτό φυστίκι Φθιώτιδας</td><td>Kelifoto fystiki Fthiotidas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κεράσια τραγανά Ροδοχωρίου</td><td>Kerassia Tragana Rodochoriou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κεφαλογραβιέρα</td><td>Kefalograviera</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Κεφαλονιά</td><td>Kefalonia</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Κολυμβάρι Χανίων Κρήτης</td><td>Kolymvari Chanion Kritis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Κονσερβολιά Αμφίσσης</td><td>Konservolia Amfissis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κονσερβολιά Άρτας</td><td>Konservolia Artas</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κονσερβολιά Αταλάντης</td><td>Konservolia Atalantis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κονσερβολιά Πηλίου Βόλου</td><td>Konservolia Piliou Volou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κονσερβολιά Ροβίων</td><td>Konservolia Rovion</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κονσερβολιά Στυλίδας</td><td>Konservolia Stylidas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κοπανιστή</td><td>Kopanisti</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Κορινθιακή Σταφίδα Βοστίτσα</td><td>Korinthiaki Stafida Vostitsa</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κουμ Κουάτ Κέρκυρας</td><td>Koum kouat Kerkyras</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Κρανίδι Αργολίδας</td><td>Kranidi Argolidas</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Κρασοτύρι Κω / Τυρί της Πόσιας</td><td>Krasotiri Ko – Tiri tis Possias</td><td>IGP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Κρητικό παξιμάδι</td><td>Kritiko paximadi</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Grèce</td></tr>
+<tr><td>Κριτσά</td><td>Kritsa</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Κροκεές Λακωνίας</td><td>Krokees Lakonias</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Κρόκος Κοζάνης</td><td>Krokos Kozanis</td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Grèce</td></tr>
+<tr><td>Λαδοτύρι Μυτιλήνης</td><td>Ladotyri Mytilinis</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Λακωνία</td><td>Lakonia</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Λέσβος / Μυτιλήνη</td><td>Lesvos / Mytilini</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Λυγουριό Ασκληπιείου</td><td>Lygourio Asklipiiou</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Μανούρι</td><td>Manouri</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Μανταρίνι Χίου</td><td>Mandarini Chiou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Μαστίχα Χίου</td><td>Masticha Chiou</td><td>AOP</td><td>Gommes et résines naturelles</td><td>Grèce</td></tr>
+<tr><td>Μαστιχέλαιο Χίου</td><td>Mastichelaio Chiou</td><td>AOP</td><td>Huiles essentielles</td><td>Grèce</td></tr>
+<tr><td>Μελεκούνι</td><td>Melekouni</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Grèce</td></tr>
+<tr><td>Μέλι Ελάτης Μαινάλου Βανίλια</td><td>Meli Elatis Menalou Vanilia</td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Grèce</td></tr>
+<tr><td>Μεσσαρά</td><td>Messara</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Μετσοβόνε</td><td>Metsovone</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Μήλα Ζαγοράς Πηλίου</td><td>Mila Zagoras Piliou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Μήλα Ντελίσιους Πιλαφά Τριπόλεως</td><td>Mila Delicious Pilafa Tripoleos</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Μήλο Καστοριάς</td><td>Milo Kastorias</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Μπάτζος</td><td>Batzos</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Ξερά σύκα Κύμης</td><td>Xera syka Kymis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Ξύγαλο Σητείας / Ξίγαλο Σητείας</td><td>Xygalo Siteias / Xigalo Siteias</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Ξηρά Σύκα Ταξιάρχη</td><td>Xira Syka Taxiarchi</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Ξυνομυζήθρα Κρήτης</td><td>Xynomyzithra Kritis</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Ολυμπία</td><td>Olympia</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Πατάτα Κάτω Νευροκοπίου</td><td>Patata Kato Nevrokopiou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Πατάτα Νάξου</td><td>Patata Naxou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Πευκοθυμαρόμελο Κρήτης</td><td>Pefkothymaromelo Kritis</td><td>AOP</td><td>Autres produits d’origine animale</td><td>Grèce</td></tr>
+<tr><td>Πεζά Ηρακλείου Κρήτης</td><td>Peza Irakliou Kritis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Πέτρινα Λακωνίας</td><td>Petrina Lakonias</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Πηχτόγαλο Χανίων</td><td>Pichtogalo Chanion</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Πορτοκάλια Μάλεμε Χανίων Κρήτης</td><td>Portokalia Maleme Chanion Kritis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Πράσινες Ελιές Χαλκιδικής</td><td>Prasines Elies Chalkidikis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Πρέβεζα</td><td>Preveza</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Ροδάκινα Νάουσας</td><td>Rodakina Naoussas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Ρόδος</td><td>Rodos</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Σάμος</td><td>Samos</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Σαν Μιχάλη</td><td>San Michali</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Σητεία Λασιθίου Κρήτης</td><td>Sitia Lasithiou Kritis</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Σταφίδα Ζακύνθου</td><td>Stafida Zakynthou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Σταφίδα Ηλείας</td><td>Stafida Ilias</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Σταφίδα Σουλτανίνα Κρήτης</td><td>Stafida Soultanina Kritis</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Σύκα Βραβρώνας Μαρκοπούλου Μεσογείων</td><td>Syka Vavronas Markopoulou Messongeion</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Σφέλα</td><td>Sfela</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Τοματάκι Σαντορίνης</td><td>Tomataki Santorinis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Τσακώνικη μελιτζάνα Λεωνιδίου</td><td>Tsakoniki Melitzana Leonidiou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Τσίχλα Χίου</td><td>Tsikla Chiou</td><td>AOP</td><td>Gommes et résines naturelles</td><td>Grèce</td></tr>
+<tr><td>Φάβα Σαντορίνης</td><td>Fava Santorinis</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φάβα Φενεού</td><td>Fava Feneou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φασόλια Βανίλιες Φενεού</td><td>Fasolia Vanilies Feneou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φασόλια (Γίγαντες Ελέφαντες) Πρεσπών Φλώρινας</td><td>Fassolia Gigantes Elefantes Prespon Florinas</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φασόλια (πλακέ μεγαλόσπερμα) Πρεσπών Φλώρινας</td><td>Fassolia (plake megalosperma) Prespon Florinas</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φασόλια γίγαντες – ελέφαντες Καστοριάς</td><td>Fassolia Gigantes Elefantes Kastorias</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φασόλια γίγαντες ελέφαντες Κάτω Νευροκοπίου</td><td>Fassolia Gigantes Elefantes Kato Nevrokopiou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φασόλια κοινά μεσόσπερμα Κάτω Νευροκοπίου</td><td>Fassolia kina Messosperma Kato Nevrokopiou</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φέτα</td><td>Feta</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Φιρίκι Πηλίου</td><td>Firiki Piliou</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φοινίκι Λακωνίας</td><td>Finiki Lakonias</td><td>AOP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Φορμαέλλα Αράχωβας Παρνασσού</td><td>Formaella Arachovas Parnassou</td><td>AOP</td><td>Fromages</td><td>Grèce</td></tr>
+<tr><td>Φυστίκι Αίγινας</td><td>Fystiki Eginas</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Φυστίκι Μεγάρων</td><td>Fystiki Megaron</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Grèce</td></tr>
+<tr><td>Χανιά Κρήτης</td><td>Chania Kritis</td><td>IGP</td><td>Huiles et matières grasses</td><td>Grèce</td></tr>
+<tr><td>Aceite Campo de Calatrava</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite Campo de Montiel</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite de La Alcarria</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite de la Rioja</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite de la Comunitat Valenciana</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite de Mallorca / Aceite mallorquín / Oli de Mallorca / Oli mallorquí</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite de Terra Alta / Oli de Terra Alta</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite del Baix Ebre-Montsià / Oli del Baix Ebre-Montsià</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite del Bajo Aragón</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite de Lucena</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite de Navarra</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite Monterrubio</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceite Sierra del Moncayo</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Aceituna Aloreña de Málaga</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Aceituna de Mallorca / Aceituna Mallorquina / Oliva de Mallorca / Oliva Mallorquina</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Afuega’l Pitu</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Ajo Morado de las Pedroñeras</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Alcachofa de Benicarló / Carxofa de Benicarló</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Alcachofa de Tudela</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Alfajor de Medina Sidonia</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Almendra de Mallorca / Almendra Mallorquina / Ametlla de Mallorca / Ametlla Mallorquina</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Alubia de La Bãneza-León</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Antequera</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Arroz de Valencia / Arròs de València</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Arroz del Delta del Ebro / Arròs del Delta de l’Ebre</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Arzùa-Ulloa</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Avellana de Reus</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Azafrán de la Mancha</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Espagne</td></tr>
+<tr><td>Baena</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Berenjena de Almagro</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Botillo del Bierzo</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Caballa de Andalucia</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Espagne</td></tr>
+<tr><td>Cabrales</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Calasparra</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Calçot de Valls</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Capón de Vilalba</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Carne de Ávila</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Carne de Cantabria</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Carne de la Sierra de Guadarrama</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Carne de Salamanca</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Carne de Vacuno del País Vasco / Euskal Okela</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Castaña de Galicia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Cebolla Fuentes de Ebro</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Cebreiro</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Cecina de León</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Cereza del Jerte</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Cerezas de la Montaña de Alicante</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Chirimoya de la Costa tropical de Granada-Malaga</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Chorizo de Cantimpalos</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Chorizo Riojano</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Chosco de Tineo</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Chufa de Valencia</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Espagne</td></tr>
+<tr><td>Cítricos Valencianos / Cítrics Valencians</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Clementinas de las Tierras del Ebro / Clementines de les Terres de l’Ebre</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Coliflor de Calahorra</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Cordero de Extremadura</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Cordero de Navarra / Nafarroako Arkumea</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Cordero Manchego</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Cordero Segureño</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Dehesa de Extremadura</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Ensaimada de Mallorca / Ensaimada mallorquina</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Espárrago de Huétor-Tájar</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Espárrago de Navarra</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Estepa</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Faba Asturiana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Faba de Lourenzá</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Fesols de Santa Pau</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Gall del Penedès</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Gamoneu / Gamonedo</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Garbanzo de Escacena</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Garbanzo de Fuentesaúco</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Gata-Hurdes</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Gofio Canario</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Espagne</td></tr>
+<tr><td>Granada Mollar de Elche / Granada de Elche</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Grelos de Galicia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Guijuelo</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Idiazabal</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Jabugo</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Jamón de Serón</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Jamón de Teruel / Paleta de Teruel</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Jamón de Trevélez</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Jijona</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Judías de El Barco de Ávila</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Kaki Ribera del Xúquer</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Lacón Gallego</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Lechazo de Castilla y León</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Lenteja de La Armuña</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Lenteja de Tierra de Campos</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Les Garrigues</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Los Pedroches</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Mahón-Menorca</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Mantecadas de Astorga</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Mantecados de Estepa</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Mantequilla de l’Alt Urgell y la Cerdanya / Mantega de l’Alt Urgell i la Cerdanya</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Mantequilla de Soria</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Manzana de Girona / Poma de Girona</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Manzana Reineta del Bierzo</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Mazapán de Toledo</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Mejillón de Galicia / Mexillón de Galicia</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Espagne</td></tr>
+<tr><td>Melocotón de Calanda</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Melón de la Mancha</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Melón de Torre Pacheco-Murcia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Melva de Andalucia</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Espagne</td></tr>
+<tr><td>Miel de Galicia / Mel de Galicia</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>Espagne</td></tr>
+<tr><td>Miel de Granada</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Espagne</td></tr>
+<tr><td>Miel de La Alcarria</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Espagne</td></tr>
+<tr><td>Miel de Liébana</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Espagne</td></tr>
+<tr><td>Miel de Tenerife</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Espagne</td></tr>
+<tr><td>Miel Villuercas-Ibores</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Espagne</td></tr>
+<tr><td>Mojama de Barbate</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Espagne</td></tr>
+<tr><td>Mojama de Isla Cristina</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Espagne</td></tr>
+<tr><td>Mongeta del Ganxet</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Montes de Granada</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Montes de Toledo</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Montoro-Adamuz</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>spagne</td></tr>
+<tr><td>Morcilla de Burgos</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Nísperos Callosa d’En Sarriá</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Oli de l’Empordà / Aceite de L’Empordà</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Pa de Pagès Català</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Pan Galego / Pan Gallego</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Pan de Alfacar</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Pan de Cea</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Pan de Cruz de Ciudad Real</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Papas Antiguas de Canarias</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pasas de Málaga</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pataca de Galicia / Patata de Galicia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Patatas de Prades / Patates de Prades</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pemento da Arnoia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pemento de Herbón</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pemento de Mougán</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pemento de Oímbra</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pemento do Couto</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pera de Jumilla</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pera de Lleida</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Peras de Rincón de Soto</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Picón Bejes-Tresviso</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Pimentón de la Vera</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Espagne</td></tr>
+<tr><td>Pimentón de Murcia</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Espagne</td></tr>
+<tr><td>Pimiento Asado del Bierzo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pimiento de Fresno-Benavente</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pimiento de Gernika / Gernikako Piperra</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pimiento Riojano</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Pimientos del Piquillo de Lodosa</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Plátano de Canarias</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Polvorones de Estepa</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Pollo y Capón del Prat</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Poniente de Granada</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Priego de Córdoba</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Queso Camerano</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso Casin</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso de Flor de Guía / Queso de Media Flor de Guía / Queso de Guía</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso de La Serena</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso de l’Alt Urgell y la Cerdanya</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso de Murcia</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso de Murcia al vino</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso de Valdeón</td><td></td><td>IGP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso Ibores</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso Los Beyos</td><td></td><td>IGP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso Majorero</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso Manchego</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso Nata de Cantabria</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso Palmero / Queso de la Palma</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso Tetilla / Queixo Tetilla</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Queso Zamorano</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Quesucos de Liébana</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Roncal</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Rosée des Pyrénées Catalanes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne, France</td></tr>
+<tr><td>Salchichón de Vic / Llonganissa de Vic</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>San Simón da Costa</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Sidra de Asturias / Sidra d’Asturies</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Espagne</td></tr>
+<tr><td>Sierra de Cadiz</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Sierra de Cazorla</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Sierra de Segura</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Sierra Mágina</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Siurana</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Espagne</td></tr>
+<tr><td>Sobao Pasiego</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Sobrasada de Mallorca</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Espagne</td></tr>
+<tr><td>Tarta de Santiago</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Ternasco de Aragón</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Ternera Asturiana</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Ternera de Aliste</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Ternera de Extremadura</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Ternera de los Pirineos Catalanes / Vedella dels Pirineus Catalans / Vedell des Pyrénées Catalanes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne, France</td></tr>
+<tr><td>Ternera de Navarra / Nafarroako Aratxea</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Ternera Gallega</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Espagne</td></tr>
+<tr><td>Tomate La Cañada</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Torta del Casar</td><td></td><td>AOP</td><td>Fromages</td><td>Espagne</td></tr>
+<tr><td>Turrón de Agramunt / Torró d’Agramunt</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Turrón de Alicante</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Espagne</td></tr>
+<tr><td>Uva de mesa embolsada «Vinalopó»</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Espagne</td></tr>
+<tr><td>Vinagre de Jerez</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Espagne</td></tr>
+<tr><td>Vinagre del Condado de Huelva</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Espagne</td></tr>
+<tr><td>Vinagre de Montilla-Moriles</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Espagne</td></tr>
+<tr><td>Kainuun rönttönen</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Finlande</td></tr>
+<tr><td>Kitkan viisas</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Finlande</td></tr>
+<tr><td>Lapin Poron kuivaliha</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Finlande</td></tr>
+<tr><td>Lapin Poron kylmäsavuliha</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Finlande</td></tr>
+<tr><td>Lapin Poron liha</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Finlande</td></tr>
+<tr><td>Lapin Puikula</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Finlande</td></tr>
+<tr><td>Puruveden muikku</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Finlande</td></tr>
+<tr><td>Abondance</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Abricots rouges du Roussillon</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Agneau de lait des Pyrénées</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Agneau de l’Aveyron</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Agneau de Lozère</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Agneau de Pauillac</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Agneau du Périgord</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Agneau de Sisteron</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Agneau du Bourbonnais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Agneau du Limousin</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Agneau du Poitou-Charentes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Agneau du Quercy</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Ail blanc de Lomagne</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Ail de la Drôme</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Ail fumé d’Arleux</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Ail rose de Lautrec</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Ail violet de Cadours</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Anchois de Collioure</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>France</td></tr>
+<tr><td>Artichaut du Rousillon</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Asperge des sables des Landes</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Asperges du Blayais</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Banon</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Barèges-Gavarnie</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Béa du Roussillon</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Beaufort</td><td>–</td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Bergamote(s) de Nancy</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>France</td></tr>
+<tr><td>Beurre Charentes-Poitou / Beurre des Charentes / Beurre des Deux-Sèvres</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Beurre de Bresse</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Beurre d’Isigny</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Bleu d’Auvergne</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Bleu de Gex Haut-Jura / Bleu de Septmoncel</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Bleu des Causses</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Bleu du Vercors-Sassenage</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Bœuf charolais du Bourbonnais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Bœuf de Bazas</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Bœuf de Chalosse</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Bœuf de Charolles</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Bœuf de Vendée</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Bœuf du Maine</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Boudin blanc de Rethel</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Brie de Meaux</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Brie de Melun</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Brillat-Savarin</td><td></td><td>IGP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Brioche vendéenne</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>France</td></tr>
+<tr><td>Brocciu Corse / Brocciu</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Bulot de la Baie de Granville</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>France</td></tr>
+<tr><td>Camembert de Normandie</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Canard à foie gras du Sud-Ouest (Chalosse, Gascogne, Gers, Landes, Périgord, Quercy)</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Cantal / Fourme de Cantal</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Chabichou du Poitou</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Chaource</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Chapon du Périgord</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Charolais</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Charolais de Bourgogne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Chasselas de Moissac</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Châtaigne d’Ardèche</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Chevrotin</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Choucroute d’Alsace</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Cidre Cotentin / Cotentin</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>France</td></tr>
+<tr><td>Cidre de Bretagne / Cidre breton</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>France</td></tr>
+<tr><td>Cidre de Normandie / Cidre normand</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>France</td></tr>
+<tr><td>Citron de Menton</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Clémentine de Corse</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Coco de Paimpol</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Comté</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Coppa de Corse / Coppa de Corse – Coppa di Corsica</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Coquille Saint-Jacques des Côtes d’Armor</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>France</td></tr>
+<tr><td>Cornouaille</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>France</td></tr>
+<tr><td>Crème de Bresse</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>France</td></tr>
+<tr><td>Crème d’Isigny / Crème fraîche d’Isigny</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>France</td></tr>
+<tr><td>Crème fraîche fluide d’Alsace</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>France</td></tr>
+<tr><td>Crottin de Chavignol / Chavignol</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Dinde de Bresse</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Domfront</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>France</td></tr>
+<tr><td>Echalote d’Anjou</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Époisses</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Farine de blé noir de Bretagne / Farine de blé noir de Bretagne – Gwinizh du Breizh</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Farine de châtaigne corse / Farina castagnina corsa</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Farine de Petit Epeautre de Haute Provence</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Figue de Solliès</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Fin Gras / Fin Gras du Mézenc</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Foin de Crau</td><td></td><td>AOP</td><td>Foin</td><td>France</td></tr>
+<tr><td>Fourme d’Ambert</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Fourme de Montbrison</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Fraise du Périgord</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Fraises de Nîmes</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Gâche vendéenne</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>France</td></tr>
+<tr><td>Génisse Fleur d’Aubrac</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Gruyère[^annex1-lvlu1-lvl2-1]</td><td></td><td>IGP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Haricot tarbais</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Huile d’olive d’Aix-en-Provence</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Huile d’olive de Corse / Huile d’olive de Corse-Oliu di Corsica</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Huile d’olive de Haute-Provence</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Huile d’olive de la Vallée des Baux-de-Provence</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Huile d’olive de Nice</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Huile d’olive de Nîmes</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Huile d’olive de Nyons</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Huile essentielle de lavande de Haute-Provence / Essence de lavande de Haute-Provence</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>France</td></tr>
+<tr><td>Huîtres Marennes Oléron</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>France</td></tr>
+<tr><td>Jambon d’Auvergne</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Jambon de Bayonne</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Jambon noir de Bigorre</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Jambon sec de Corse / Jambon sec de Corse – Prisuttu</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Jambon de Lacaune</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Jambon de l’Ardèche</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Jambon de Vendée</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Jambon sec des Ardennes / Noix de Jambon sec des Ardennes</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Jambon du Kintoa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Kintoa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Kiwi de l’Adour</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Laguiole</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Langres</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Lentille verte du Puy</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Lentilles vertes du Berry</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Lingot du Nord</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Livarot</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Lonzo de Corse / Lonzo de Corse – Lonzu</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Lucques de Languedoc</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Mâche nantaise</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Mâconnais</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Maine – Anjou</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Maroilles / Marolles</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Melon de Guadeloupe</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Melon du Haut-Poitou</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Melon du Quercy</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Miel d’Alsace</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>France</td></tr>
+<tr><td>Miel des Cévennes</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>France</td></tr>
+<tr><td>Miel de Corse – Mele di Corsica</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>France</td></tr>
+<tr><td>Miel de Provence</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>France</td></tr>
+<tr><td>Miel de sapin des Vosges</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>France</td></tr>
+<tr><td>Mirabelles de Lorraine</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Mogette de Vendée</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Mont d’Or / Vacherin du Haut-Doubs</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Morbier</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Moules de Bouchot de la Baie du Mont-Saint-Michel</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>France</td></tr>
+<tr><td>Moutarde de Bourgogne</td><td></td><td>IGP</td><td>Pâte de moutarde</td><td>France</td></tr>
+<tr><td>Munster / Munster-Géromé</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Muscat du Ventoux</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Neufchâtel</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Noisette de Cervione – Nuciola di Cervioni</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Noix de Grenoble</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Noix du Périgord</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Œufs de Loué</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>France</td></tr>
+<tr><td>Oie d’Anjou</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Oignon de Roscoff</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Oignon doux des Cévennes</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Olive de Nice</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Olive de Nîmes</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Olives cassées de la Vallée des Baux-de-Provence</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Olives noires de la Vallée des Baux de Provence</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Olives noires de Nyons</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Ossau-Iraty</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Pâté de Campagne Breton</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Pâtes d’Alsace</td><td></td><td>IGP</td><td>Pâtes alimentaires</td><td>France</td></tr>
+<tr><td>Pays d’Auge / Pays d’Auge-Cambremer</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>France</td></tr>
+<tr><td>Pélardon</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Petit Épeautre de Haute-Provence</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Picodon</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Piment d’Espelette / Piment d’Espelette – Ezpeletako Biperra</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>France</td></tr>
+<tr><td>Pintadeau de la Drôme</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Pintade de l’Ardèche</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Poireaux de Créances</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Pomelo de Corse</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Pomme de terre de l’Île de Ré</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Pomme du Limousin</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Pommes des Alpes de Haute Durance</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Pommes de terre de Merville</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Pommes et poires de Savoie / Pommes de Savoie / Poires de Savoie</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Pont-l’Évêque</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Porc d’Auvergne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Porc de Franche-Comté</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Porc de la Sarthe</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Porc de Normandie</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Porc de Vendée</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Porc du Limousin</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Porc du Sud-Ouest</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Porc noir de Bigorre</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Poularde du Périgord</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Poulet de l’Ardèche / Chapon de l’Ardèche</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Poulet des Cévennes / Chapon des Cévennes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Poulet du Périgord</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Pouligny-Saint-Pierre</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Prés-salés de la baie de Somme</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Prés-salés du Mont-Saint-Michel</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Pruneaux d’Agen / Pruneaux d’Agen mi-cuits</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Raclette de Savoie</td><td></td><td>IGP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Raviole du Dauphiné</td><td></td><td>IGP</td><td>Pâtes alimentaires</td><td>France</td></tr>
+<tr><td>Reblochon / Reblochon de Savoie</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Rigotte de Condrieu</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Rillettes de Tours</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Riz de Camargue</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>France</td></tr>
+<tr><td>Rocamadour</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Roquefort</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Sainte-Maure de Touraine</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Saint-Marcellin</td><td></td><td>IGP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Saint-Nectaire</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Salers</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Saucisse de Montbéliard</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Saucisse de Morteau / Jésus de Morteau</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Saucisson de Lacaune / Saucisse de Lacaune</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Saucisson de l’Ardèche</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Saucisson sec d’Auvergne / Saucisse sèche d’Auvergne</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>France</td></tr>
+<tr><td>Selles-sur-Cher</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Soumaintrain</td><td></td><td>IGP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Taureau de Camargue</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Thym de Provence</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>France</td></tr>
+<tr><td>Tome des Bauges</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Tomme de Savoie</td><td></td><td>IGP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Tomme des Pyrénées</td><td></td><td>IGP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Valençay</td><td></td><td>AOP</td><td>Fromages</td><td>France</td></tr>
+<tr><td>Veau d’Aveyron et du Ségala</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Veau du Limousin</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles d’Alsace</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles d’Ancenis</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles d’Auvergne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Bourgogne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volaille de Bresse / Poulet de Bresse / Poularde de Bresse / Chapon de Bresse</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Bretagne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Challans</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Cholet</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Gascogne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Houdan</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Janzé</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de la Champagne</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de la Drôme</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de l’Ain</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Licques</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de l’Orléanais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Normandie</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles de Vendée</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles des Landes</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Béarn</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Berry</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Charolais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Forez</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Gatinais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Gers</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Languedoc</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Lauragais</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Maine</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du plateau de Langres</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Val de Sèvres</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Volailles du Velay</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>France</td></tr>
+<tr><td>Baranjski kulen</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Croatie</td></tr>
+<tr><td>Dalmatinski pršut</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Croatie</td></tr>
+<tr><td>Drniški pršut</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Croatie</td></tr>
+<tr><td>Ekstra djevičansko maslinovo ulje Cres</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Croatie</td></tr>
+<tr><td>Istarski pršut / Istrski pršut</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Croatie, Slovénie</td></tr>
+<tr><td>Istra</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Croatie, Slovénie</td></tr>
+<tr><td>Korčulansko maslinovo ulje</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Croatie</td></tr>
+<tr><td>Krčki pršut</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Croatie</td></tr>
+<tr><td>Krčko maslinovo ulje</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Croatie</td></tr>
+<tr><td>Lička janjetina</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Croatie</td></tr>
+<tr><td>Lički krumpir</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Croatie</td></tr>
+<tr><td>Međimursko meso ’z tiblice</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Croatie</td></tr>
+<tr><td>Neretvanska mandarina</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Croatie</td></tr>
+<tr><td>Ogulinski kiseli kupus / Ogulinsko kiselo zelje</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Croatie</td></tr>
+<tr><td>Paška janjetina</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Croatie</td></tr>
+<tr><td>Paški sir</td><td></td><td>AOP</td><td>Fromages</td><td>Croatie</td></tr>
+<tr><td>Poljički soparnik / Poljički zeljanik / Poljički uljenjak</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Croatie</td></tr>
+<tr><td>Slavonski kulen / Slavonski kulin</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Croatie</td></tr>
+<tr><td>Slavonski med</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Croatie</td></tr>
+<tr><td>Šoltansko maslinovo ulje</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Croatie</td></tr>
+<tr><td>Varaždinsko zelje</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Croatie</td></tr>
+<tr><td>Zagorski mlinci</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Croatie</td></tr>
+<tr><td>Zagorski puran</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Croatie</td></tr>
+<tr><td>Alföldi kamillavirágzat</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Hongrie</td></tr>
+<tr><td>Budapesti szalámi / Budapesti téliszalámi</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Hongrie</td></tr>
+<tr><td>Csabai kolbász / Csabai vastagkolbász</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Hongrie</td></tr>
+<tr><td>Gönci kajszibarack</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Hongrie</td></tr>
+<tr><td>Gyulai kolbász / Gyulai pároskolbász</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Hongrie</td></tr>
+<tr><td>Hajdúsági torma</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Hongrie</td></tr>
+<tr><td>Kalocsai fűszerpaprika örlemény</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Hongrie</td></tr>
+<tr><td>Magyar szürkemarha hús</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Hongrie</td></tr>
+<tr><td>Makói petrezselyemgyökér</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Hongrie</td></tr>
+<tr><td>Makói vöröshagyma / Makói hagyma</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Hongrie</td></tr>
+<tr><td>Szegedi fűszerpaprika-őrlemény / Szegedi paprika</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Hongrie</td></tr>
+<tr><td>Szegedi szalámi / Szegedi téliszalámi</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Hongrie</td></tr>
+<tr><td>Szentesi paprika</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Hongrie</td></tr>
+<tr><td>Szőregi rózsatő</td><td></td><td>IGP</td><td>Fleurs et plantes ornementales</td><td>Hongrie</td></tr>
+<tr><td>Clare Island Salmon</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Irlande</td></tr>
+<tr><td>Connemara Hill lamb / Uain Sléibhe Chonamara</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Irlande</td></tr>
+<tr><td>Imokilly Regato</td><td></td><td>AOP</td><td>Fromages</td><td>Irlande</td></tr>
+<tr><td>Sneem Black Pudding</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Irlande</td></tr>
+<tr><td>Timoleague Brown Pudding</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Irlande</td></tr>
+<tr><td>Waterford Blaa / Blaa</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Irlande</td></tr>
+<tr><td>Abbacchio Romano</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Italie</td></tr>
+<tr><td>Acciughe Sotto Sale del Mar Ligure</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Italie</td></tr>
+<tr><td>Aceto balsamico di Modena</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Italie</td></tr>
+<tr><td>Aceto balsamico tradizionale di Modena</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Italie</td></tr>
+<tr><td>Aceto balsamico tradizionale di Reggio Emilia</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Italie</td></tr>
+<tr><td>Aglio Bianco Polesano</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Aglio di Voghiera</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Agnello del Centro Italia</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Italie</td></tr>
+<tr><td>Agnello di Sardegna</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Italie</td></tr>
+<tr><td>Alto Crotonese</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Amarene Brusche di Modena</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Anguria Reggiana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Aprutino Pescarese</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Arancia del Gargano</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Arancia di Ribera</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Arancia Rossa di Sicilia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Asiago</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Asparago Bianco di Bassano</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Asparago bianco di Cimadolmo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Asparago di Badoere</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Asparago di Cantello</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Asparago verde di Altedo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Basilico Genovese</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Bergamotto di Reggio Calabria – Olio essenziale</td><td></td><td>AOP</td><td>Huiles essentielles</td><td>Italie</td></tr>
+<tr><td>Bitto</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Bra</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Bresaola della Valtellina</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Brisighella</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Brovada</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Bruzio</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Burrata di Andria</td><td></td><td>IGP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Caciocavallo Silano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Canestrato di Moliterno</td><td></td><td>IGP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Canestrato Pugliese</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Canino</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Cantuccini Toscani / Cantucci Toscani</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Cappellacci di zucca ferraresi</td><td></td><td>IGP</td><td>Pâtes alimentaires</td><td>Italie</td></tr>
+<tr><td>Capocollo di Calabria</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Cappero di Pantelleria</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Carciofo Brindisino</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Carciofo di Paestum</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Carciofo Romanesco del Lazio</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Carciofo Spinoso di Sardegna</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Carota dell’Altopiano del Fucino</td><td>–</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Carota Novella di Ispica</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Cartoceto</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Casatella Trevigiana</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Casciotta d’Urbino</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Castagna Cuneo</td><td>–</td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Castagna del Monte Amiata</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Castagna di Montella</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Castagna di Vallerano</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Castelmagno</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Chianti Classico</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Ciauscolo</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Cilento</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Ciliegia dell’Etna</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Ciliegia di Marostica</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Ciliegia di Vignola</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Cinta Senese</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Italie</td></tr>
+<tr><td>Cioccolato di Modica</td><td></td><td>IGP</td><td>Chocolat et produits dérivés</td><td>Italie</td></tr>
+<tr><td>Cipolla bianca di Margherita</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Cipolla Rossa di Tropea Calabria</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Cipollotto Nocerino</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Clementine del Golfo di Taranto</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Clementine di Calabria</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Collina di Brindisi</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Colline di Romagna</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Colline Pontine</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Colline Salernitane</td><td>–</td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Colline Teatine</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Coppa di Parma</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Coppa Piacentina</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Coppia Ferrarese</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Cotechino Modena</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Cozza di Scardovari</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Italie</td></tr>
+<tr><td>Crudo di Cuneo</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Culatello di Zibello</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Culurgionis d’Ogliastra</td><td></td><td>IGP</td><td>Pâtes alimentaires</td><td>Italie</td></tr>
+<tr><td>Dauno</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Fagioli Bianchi di Rotonda</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Fagiolo Cannellino di Atina</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Fagiolo Cuneo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Fagiolo di Lamon della Vallata Bellunese</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Fagiolo di Sarconi</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Fagiolo di Sorana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Farina di castagne della Lunigiana</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Farina di Neccio della Garfagnana</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Farro di Monteleone di Spoleto</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Farro della Garfagnana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Fichi di Cosenza</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Fico Bianco del Cilento</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Ficodindia dell’Etna</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Ficodindia di San Cono</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Finocchiona</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Fiore Sardo</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Focaccia di Recco col formaggio</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Fontina</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Formaggella del Luinese</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Formaggio di Fossa di Sogliano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Formai de Mut dell’Alta Valle Brembana</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Fungo di Borgotaro</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Garda</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Gorgonzola</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Grana Padano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Insalata di Lusia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Irpinia – Colline dell’Ufita</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Kiwi Latina</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>La Bella della Daunia</td><td>–</td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Laghi Lombardi</td><td>–</td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Lametia</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Lardo di Colonnata</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Lenticchia di Altamura</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Lenticchia di Castelluccio di Norcia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Limone Costa d’Amalfi</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Limone di Rocca Imperiale</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Limone di Siracusa</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Limone di Sorrento</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Limone Femminello del Gargano</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Limone Interdonato Messina</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Liquirizia di Calabria</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Italie</td></tr>
+<tr><td>Lucanica di Picerno</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Lucca</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Maccheroncini di Campofilone</td><td></td><td>IGP</td><td>Pâtes alimentaires</td><td>Italie</td></tr>
+<tr><td>Marche</td><td></td><td>IGP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Marrone della Valle di Susa</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Marrone del Mugello</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Marrone di Caprese Michelangelo</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Marrone di Castel del Rio</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Marrone di Combai</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Marrone di Roccadaspide</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Marrone di San Zeno</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Marrone di Serino / Castagna di Serino</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Marroni del Monfenera</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Mela Alto Adige / Südtiroler Apfel</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Mela di Valtellina</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Mela Rossa Cuneo</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Mela Val di Non</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Melannurca Campana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Melanzana Rossa di Rotonda</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Melone Mantovano</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Miele della Lunigiana</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Italie</td></tr>
+<tr><td>Miele delle Dolomiti Bellunesi</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Italie</td></tr>
+<tr><td>Miele Varesino</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Italie</td></tr>
+<tr><td>Molise</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Montasio</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Monte Etna</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Monte Veronese</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Monti Iblei</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Mortadella Bologna</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Mortadella di Prato</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Mozzarella di Bufala Campana</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Murazzano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Nocciola del Piemonte / Nocciola Piemonte</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Nocciola di Giffoni</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Nocciola Romana</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Nocellara del Belice</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Nostrano Valtrompia</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Oliva Ascolana del Piceno</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Olio di Calabria</td><td></td><td>IGP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Olio di Puglia</td><td></td><td>IGP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Oliva di Gaeta</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Ossolano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pagnotta del Dittaino</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pampapato di Ferrara / Pampepato di Ferrara</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Pancetta di Calabria</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Pancetta Piacentina</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Pane casareccio di Genzano</td><td>–</td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Pane di Altamura</td><td>–</td><td>AOP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Pane di Matera</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Pane Toscano</td><td></td><td>AOP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Panforte di Siena</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Parmigiano Reggiano</td><td>–</td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pasta di Gragnano</td><td></td><td>IGP</td><td>Pâtes alimentaires</td><td>Italie</td></tr>
+<tr><td>Patata del Fucino</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Patata dell’Alto Viterbese</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Patata della Sila</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Patata di Bologna</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Patata novella di Galatina</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Patata Rossa di Colfiorito</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pecorino Crotonese</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pecorino delle Balze Volterrane</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pecorino di Filiano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pecorino di Picinisco</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pecorino Romano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pecorino Sardo</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pecorino Siciliano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pecorino Toscano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Penisola Sorrentina</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Peperone di Pontecorvo</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Peperone di Senise</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pera dell’Emilia Romagna</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pera mantovana</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pescabivona</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pesca di Leonforte</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pesca di Verona</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pesca e nettarina di Romagna</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Piacentinu Ennese</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Piadina Romagnola / Piada Romagnola</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Piave</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Pistacchio verde di Bronte</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pitina</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Pizzoccheri della Valtellina</td><td></td><td>IGP</td><td>Pâtes alimentaires</td><td>Italie</td></tr>
+<tr><td>Pomodorino del Piennolo del Vesuvio</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pomodoro di Pachino</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Pomodoro S. Marzano dell’Agro Sarnese-Nocerino</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Porchetta di Ariccia</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Pretuziano delle Colline Teramane</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Prosciutto Amatriciano</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Prosciutto di Carpegna</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Prosciutto di Modena</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Prosciutto di Norcia</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Prosciutto di Parma</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Prosciutto di Sauris</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Prosciutto di San Daniele</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Italie</td></tr>
+<tr><td>Prosciutto Toscano</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Prosciutto Veneto Berico-Euganeo</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Provolone del Monaco</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Provolone Valpadana</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Puzzone di Moena / Spretz Tzaorì</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Quartirolo Lombardo</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Radicchio di Chioggia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Radicchio di Verona</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Radicchio Rosso di Treviso</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Radicchio Variegato di Castelfranco</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Ragusano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Raschera</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Ricciarelli di Siena</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Ricotta di Bufala Campana</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Italie</td></tr>
+<tr><td>Ricotta Romana</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Riso del Delta del Po</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Riso di Baraggia Biellese e Vercellese</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Riso Nano Vialone Veronese</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Riviera Ligure</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Robiola di Roccaverano</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Sabina</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Salama da sugo</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salame Brianza</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salame Cremona</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salame di Varzi</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salame d’oca di Mortara</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salame Felino</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salame Piacentino</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salame Piemonte</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salame S. Angelo</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salamini italiani alla cacciatora</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salmerino del Trentino</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Italie</td></tr>
+<tr><td>Salsiccia di Calabria</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Salva Cremasco</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Sardegna</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Scalogno di Romagna</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Sedano Bianco di Sperlonga</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Seggiano</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Sicilia</td><td></td><td>IGP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Silter</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Soppressata di Calabria</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Soprèssa Vicentina</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Speck dell’Alto Adige / Südtiroler Markenspeck / Südtiroler Speck</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Spressa delle Giudicarie</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Squacquerone di Romagna</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Stelvio / Stilfser</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Strachitunt</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Susina di Dro</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Taleggio</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Tergeste</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Terra di Bari</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Terra d’Otranto</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Terre Aurunche</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Terre di Siena</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Terre Tarentine</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Tinca Gobba Dorata del Pianalto di Poirino</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Italie</td></tr>
+<tr><td>Toma Piemontese</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Torrone di Bagnara</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Italie</td></tr>
+<tr><td>Toscano</td><td></td><td>IGP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Trote del Trentino</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Italie</td></tr>
+<tr><td>Tuscia</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Umbria</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Uva da tavola di Canicattì</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Uva da tavola di Mazzarrone</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Uva di Puglia</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Italie</td></tr>
+<tr><td>Val di Mazara</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Valdemone</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Valle d’Aosta Fromadzo</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Valle d’Aosta Jambon de Bosses</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Valle d’Aosta Lard d’Arnad</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Valle del Belice</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Valli Trapanesi</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Valtellina Casera</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Vastedda della valle del Belìce</td><td></td><td>AOP</td><td>Fromages</td><td>Italie</td></tr>
+<tr><td>Veneto Valpolicella, Veneto Euganei e Berici, Veneto del Grappa</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Vitellone bianco dell’Appennino Centrale</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Italie</td></tr>
+<tr><td>Vitelloni Piemontesi della coscia</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Italie</td></tr>
+<tr><td>Vulture</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Italie</td></tr>
+<tr><td>Zafferano dell’Aquila</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Italie</td></tr>
+<tr><td>Zafferano di San Gimignano</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Italie</td></tr>
+<tr><td>Zafferano di Sardegna</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Italie</td></tr>
+<tr><td>Zampone Modena</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Italie</td></tr>
+<tr><td>Daujėnų naminė duona</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Lituanie</td></tr>
+<tr><td>Džiugas</td><td></td><td>IGP</td><td>Fromages</td><td>Lituanie</td></tr>
+<tr><td>Kaimiškas Jovarų alus</td><td></td><td>IGP</td><td>Bières</td><td>Lituanie</td></tr>
+<tr><td>Lietuviškas varškės sūris</td><td></td><td>IGP</td><td>Fromages</td><td>Lituanie</td></tr>
+<tr><td>Liliputas</td><td></td><td>IGP</td><td>Fromages</td><td>Lituanie</td></tr>
+<tr><td>Seinų / Lazdijų krašto medus / Miód z Sejneńszczyny / Łoździejszczyzny</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Lituanie, Pologne</td></tr>
+<tr><td>Stakliškės</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Lituanie</td></tr>
+<tr><td>Beurre rose – Marque nationale du Grand-Duché de Luxembourg</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Luxembourg</td></tr>
+<tr><td>Miel – Marque nationale du Grand-Duché de Luxembourg</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Luxembourg</td></tr>
+<tr><td>Salaisons fumées, marque nationale du Grand-Duché de Luxembourg</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Luxembourg</td></tr>
+<tr><td>Viande de porc, marque nationale du Grand-Duché de Luxembourg</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Luxembourg</td></tr>
+<tr><td>Carnikavas nēģi</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Lettonie</td></tr>
+<tr><td>Latvijas lielie pelēkie zirņi</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Lettonie</td></tr>
+<tr><td>Rucavas baltais sviests</td><td></td><td>IGP</td><td>Huiles et matières grasses</td><td>Lettonie</td></tr>
+<tr><td>Boeren-Leidse met sleutels</td><td></td><td>AOP</td><td>Fromages</td><td>Pays-Bas</td></tr>
+<tr><td>Brabantse Wal asperges</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pays-Bas</td></tr>
+<tr><td>De Meerlander</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pays-Bas</td></tr>
+<tr><td>Edam Holland</td><td></td><td>IGP</td><td>Fromages</td><td>Pays-Bas</td></tr>
+<tr><td>Gouda Holland</td><td></td><td>IGP</td><td>Fromages</td><td>Pays-Bas</td></tr>
+<tr><td>Hollandse geitenkaas</td><td></td><td>IGP</td><td>Fromages</td><td>Pays-Bas</td></tr>
+<tr><td>Kanterkaas / Kanternagelkaas / Kanterkomijnekaas</td><td></td><td>AOP</td><td>Fromages</td><td>Pays-Bas</td></tr>
+<tr><td>Noord-Hollandse Edammer</td><td></td><td>AOP</td><td>Fromages</td><td>Pays-Bas</td></tr>
+<tr><td>Noord-Hollandse Gouda</td><td></td><td>AOP</td><td>Fromages</td><td>Pays-Bas</td></tr>
+<tr><td>Opperdoezer Ronde</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pays-Bas</td></tr>
+<tr><td>Westlandse druif</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pays-Bas</td></tr>
+<tr><td>Andruty Kaliskie</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Pologne</td></tr>
+<tr><td>Bryndza Podhalańska</td><td></td><td>AOP</td><td>Fromages</td><td>Pologne</td></tr>
+<tr><td>Cebularz lubelski</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Pologne</td></tr>
+<tr><td>Chleb prądnicki</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Pologne</td></tr>
+<tr><td>Czosnek galicyjski</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Fasola korczyńska</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Fasola Piękny Jaś z Doliny Dunajca / Fasola z Doliny Dunajca</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Fasola Wrzawska</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Jabłka grójeckie</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Jabłka łąckie</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Jagnięcina podhalańska</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Pologne</td></tr>
+<tr><td>Karp zatorski</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Pologne</td></tr>
+<tr><td>Kiełbasa biała parzona wielkopolska</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Pologne</td></tr>
+<tr><td>Kiełbasa lisiecka</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Pologne</td></tr>
+<tr><td>Kiełbasa piaszczańska</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Pologne</td></tr>
+<tr><td>Kołocz śląski / kołacz śląski</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Pologne</td></tr>
+<tr><td>Krupnioki śląskie</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Pologne</td></tr>
+<tr><td>Miód drahimski</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>Pologne</td></tr>
+<tr><td>Miód kurpiowski</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>Pologne</td></tr>
+<tr><td>Miód wrzosowy z Borów Dolnośląskich</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>Pologne</td></tr>
+<tr><td>Obwarzanek krakowski</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Pologne</td></tr>
+<tr><td>Oscypek</td><td></td><td>AOP</td><td>Fromages</td><td>Pologne</td></tr>
+<tr><td>Podkarpacki miód spadziowy</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Pologne</td></tr>
+<tr><td>Redykołka</td><td></td><td>AOP</td><td>Fromages</td><td>Pologne</td></tr>
+<tr><td>Rogal świętomarciński</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Pologne</td></tr>
+<tr><td>Ser koryciński swojski</td><td></td><td>IGP</td><td>Fromages</td><td>Pologne</td></tr>
+<tr><td>Śliwka szydłowska</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Suska sechlońska</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Truskawka kaszubska / Kaszëbskô malëna</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Wielkopolski ser smażony</td><td></td><td>IGP</td><td>Fromages</td><td>Pologne</td></tr>
+<tr><td>Wiśnia nadwiślanka</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Pologne</td></tr>
+<tr><td>Alheira de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Alheira de Mirandela</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Alheira de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Ameixa d’Elvas</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Amêndoa Coberta de Moncorvo</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Portugal</td></tr>
+<tr><td>Amêndoa Douro</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Ananás dos Açores / São Miguel</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Anona da Madeira</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Arroz Carolino do Baixo Mondego</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Arroz Carolino Lezírias Ribatejanas</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Azeite de Moura</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Portugal</td></tr>
+<tr><td>Azeite de Trás-os-Montes</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Portugal</td></tr>
+<tr><td>Azeite do Alentejo Interior</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Azeites da Beira Interior (Azeite da Beira Alta, Azeite da Beira Baixa)</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Portugal</td></tr>
+<tr><td>Azeites do Norte Alentejano</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Portugal</td></tr>
+<tr><td>Azeites do Ribatejo</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Portugal</td></tr>
+<tr><td>Azeitona de conserva Negrinha de Freixo</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Azeitonas de Conserva de Elvas e Campo Maior</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Batata de Trás-os-montes</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Batata doce de Aljezur</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Borrego da Beira</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Borrego de Montemor-o-Novo</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Borrego do Baixo Alentejo</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Borrego do Nordeste Alentejano</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Borrego Serra da Estrela</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Borrego Terrincho</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Butelo de Vinhais / Bucho de Vinhais / Chouriço de Ossos de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Cabrito da Beira</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Cabrito da Gralheira</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Cabrito das Terras Altas do Minho</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Cabrito de Barroso</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Cabrito do Alentejo</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Cabrito Transmontano</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Cacholeira Branca de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Capão de Freamunde</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carnalentejana</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne Arouquesa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne Barrosã</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne Cachena da Peneda</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne da Charneca</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne de Bísaro Transmonano / Carne de Porco Transmontano</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne de Bovino Cruzado dos Lameiros do Barroso</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne de Bravo do Ribatejo</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne de Porco Alentejano</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne dos Açores</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne Marinhoa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne Maronesa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne Mertolenga</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Carne Mirandesa</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Castanha da Terra Fria</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Castanha de Padrela</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Castanha dos Soutos da Lapa</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Castanha Marvão-Portalegre</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Cereja da Cova da Beira</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Cereja de São Julião-Portalegre</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Chouriça de carne de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriça de carne de Melgaço</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriça de Carne de Vinhais / Linguiça de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriça de sangue de Melgaço</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriça doce de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriço azedo de Vinhais / Azedo de Vinhais / Chouriço de Pão de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriço de Abóbora de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriço de Carne de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriço de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriço grosso de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Chouriço Mouro de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Citrinos do Algarve</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Cordeiro Bragançano</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Cordeiro de Barroso / Anho de Barroso / Cordeiro de leite de Barroso</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Cordeiro Mirandês / Canhono Mirandês</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Farinheira de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Farinheira de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Fogaça da Feira</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Portugal</td></tr>
+<tr><td>Folar de Valpaços</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Portugal</td></tr>
+<tr><td>Ginja de Óbidos e Alcobaça</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Linguiça de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Linguiça do Baixo Alentejo / Chouriço de carne do Baixo Alentejo</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Lombo Branco de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Lombo Enguitado de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Maçã Bravo de Esmolfe</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Maçã da Beira Alta</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Maçã da Cova da Beira</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Maçã de Alcobaça</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Maçã de Portalegre</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Maçã Riscadinha de Palmela</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Maracujá dos Açores / S. Miguel</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Mel da Serra da Lousã</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Mel da Serra de Monchique</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Mel da Terra Quente</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Mel das Terras Altas do Minho</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Mel de Barroso</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Mel do Alentejo</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Mel do Parque de Montezinho</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Mel do Ribatejo Norte (Serra d’Aire, Albufeira de Castelo de Bode, Bairro, Alto Nabão)</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Mel dos Açores</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Meloa de Santa Maria – Açores</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Morcela de Assar de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Morcela de Cozer de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Morcela de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Ovos moles de Aveiro</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Portugal</td></tr>
+<tr><td>Paio de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Paia de Lombo de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Paia de Toucinho de Estremoz e Borba</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Painho de Portalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Paio de Beja</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Pão de Ló de Ovar</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Portugal</td></tr>
+<tr><td>Pastel de Chaves</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Portugal</td></tr>
+<tr><td>Pastel de Tentúgal</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Portugal</td></tr>
+<tr><td>Pêra Rocha do Oeste</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Pêssego da Cova da Beira</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Portugal</td></tr>
+<tr><td>Presunto de Barrancos / Paleta de Barrancos</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Presunto de Barroso</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Presunto de Camp Maior e Elvas / Paleta de Campo Maior e Elvas</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Presunto de Melgaço</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Presunto de Santana da Serra / Paleta de Santana da Serra</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Presunto de Vinhais / Presunto Bísaro de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Presunto do Alentejo / Paleta do Alentejo</td><td></td><td>AOP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Queijo de Azeitão</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo de cabra Transmontano</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo de Évora</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo de Nisa</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo do Pico</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo mestiço de Tolosa</td><td></td><td>IGP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo Rabaçal</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo São Jorge</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo Serpa</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo Serra da Estrela</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijo Terrincho</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Queijos da Beira Baixa (Queijo de Castelo Branco, Queijo Amarelo da Beira Baixa, Queijo Picante da Beira Baixa)</td><td></td><td>AOP</td><td>Fromages</td><td>Portugal</td></tr>
+<tr><td>Requeijão da Beira Baixa</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Requeijão Serra da Estrela</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Salpicão de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Salpicão de Melgaço</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Salpicão de Vinhais</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Sangueira de Barroso-Montalegre</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Portugal</td></tr>
+<tr><td>Travia da Beira Baixa</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Portugal</td></tr>
+<tr><td>Vitela de Lafões</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Portugal</td></tr>
+<tr><td>Cârnaţi de Pleşcoi</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Roumanie</td></tr>
+<tr><td>Magiun de prune Topoloveni</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Roumanie</td></tr>
+<tr><td>Novac afumat din Ţara Bârsei</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Roumanie</td></tr>
+<tr><td>Salam de Sibiu</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Roumanie</td></tr>
+<tr><td>Scrumbie de Dunăre afumată</td><td></td><td>IGP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Roumanie</td></tr>
+<tr><td>Telemea de Ibăneşti</td><td></td><td>AOP</td><td>Fromages</td><td>Roumanie</td></tr>
+<tr><td>Telemea de Sibiu</td><td></td><td>IGP</td><td>Fromages</td><td>Roumanie</td></tr>
+<tr><td>Bruna bönor från Öland</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Suède</td></tr>
+<tr><td>Hånnlamb</td><td></td><td>AOP</td><td>Viande (et abats) frais</td><td>Suède</td></tr>
+<tr><td>Kalix Löjrom</td><td></td><td>AOP</td><td>Poissons, mollusques, crustacés frais et produits dérivés</td><td>Suède</td></tr>
+<tr><td>Skånsk spettkaka</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Suède</td></tr>
+<tr><td>Svecia</td><td></td><td>IGP</td><td>Fromages</td><td>Suède</td></tr>
+<tr><td>Upplandskubb</td><td></td><td>AOP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Suède</td></tr>
+<tr><td>Bovški sir</td><td></td><td>AOP</td><td>Fromages</td><td>Slovénie</td></tr>
+<tr><td>Ekstra deviško oljčno olje Slovenske Istre</td><td></td><td>AOP</td><td>Huiles et matières grasses</td><td>Slovénie</td></tr>
+<tr><td>Jajca izpod Kamniških planin</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>Slovénie</td></tr>
+<tr><td>Kočevski gozdni med</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Slovénie</td></tr>
+<tr><td>Kranjska klobasa</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Slovénie</td></tr>
+<tr><td>Kraška panceta</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Slovénie</td></tr>
+<tr><td>Kraški med</td><td></td><td>AOP</td><td>Autres produits d’origine animale</td><td>Slovénie</td></tr>
+<tr><td>Kraški pršut</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Slovénie</td></tr>
+<tr><td>Kraški zašink</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Slovénie</td></tr>
+<tr><td>Mohant</td><td></td><td>AOP</td><td>Fromages</td><td>Slovénie</td></tr>
+<tr><td>Nanoški sir</td><td></td><td>AOP</td><td>Fromages</td><td>Slovénie</td></tr>
+<tr><td>Prekmurska šunka</td><td></td><td>IGP</td><td>Viande (et abats) frais</td><td>Slovénie</td></tr>
+<tr><td>Prleška tünka</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Slovénie</td></tr>
+<tr><td>Ptujski lük</td><td></td><td>IGP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Slovénie</td></tr>
+<tr><td>Šebreljski želodec</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Slovénie</td></tr>
+<tr><td>Slovenski med</td><td></td><td>IGP</td><td>Autres produits d’origine animale</td><td>Slovénie</td></tr>
+<tr><td>Štajerski hmelj</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Slovénie</td></tr>
+<tr><td>Štajersko prekmursko bučno olje</td><td></td><td>IGP</td><td>Huiles et matières grasses</td><td>Slovénie</td></tr>
+<tr><td>Tolminc</td><td></td><td>AOP</td><td>Fromages</td><td>Slovénie</td></tr>
+<tr><td>Zgornjesavinjski želodec</td><td></td><td>IGP</td><td>Produits à base de viande</td><td>Slovénie</td></tr>
+<tr><td>Klenovecký syrec</td><td></td><td>IGP</td><td>Fromages</td><td>Slovaquie</td></tr>
+<tr><td>Levický Slad</td><td></td><td>IGP</td><td>Autres produits de l’annexe I du traité</td><td>Slovaquie</td></tr>
+<tr><td>Oravský korbáčik</td><td></td><td>IGP</td><td>Fromages</td><td>Slovaquie</td></tr>
+<tr><td>Paprika Žitava / Žitavská paprika</td><td></td><td>AOP</td><td>Autres produits de l’annexe I du traité</td><td>Slovaquie</td></tr>
+<tr><td>Skalický trdelnik</td><td></td><td>IGP</td><td>Produits de la boulangerie, pâtisserie, confiserie et biscuiterie</td><td>Slovaquie</td></tr>
+<tr><td>Slovenská bryndza</td><td></td><td>IGP</td><td>Fromages</td><td>Slovaquie</td></tr>
+<tr><td>Slovenská parenica</td><td></td><td>IGP</td><td>Fromages</td><td>Slovaquie</td></tr>
+<tr><td>Slovenský oštiepok</td><td></td><td>IGP</td><td>Fromages</td><td>Slovaquie</td></tr>
+<tr><td>Stupavské zelé</td><td></td><td>AOP</td><td>Fruits, légumes et céréales en l’état ou transformés</td><td>Slovaquie</td></tr>
+<tr><td>Tekovský salámový syr</td><td></td><td>IGP</td><td>Fromages</td><td>Slovaquie</td></tr>
+<tr><td>Zázrivské vojky</td><td></td><td>IGP</td><td>Fromages</td><td>Slovaquie</td></tr>
+<tr><td>Zázrivský korbáčik</td><td></td><td>IGP</td><td>Fromages</td><td>Slovaquie</td></tr>
+<tr><td colspan="5">(1) Conformément à la législation de l’Union en vigueur, comme figurant à l’appendice 2.</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvlu2-2]: Les modalités d’utilisation de l’IGP Gruyère sont décrites aux considérants 8 et 9 du règlement d’exécution (UE) n<sup>o</sup> 110/2013 de la Commission du 6 février 2013 portant enregistrement d’une dénomination au registre des appellations d’origine protégées et des indications géographiques protégées [Gruyère (IGP)] (JO L 36 du 7.2.2013, p.1).
+[^annex1-lvlu1-lvl2-1]: Les modalités d’utilisation de l’IGP Gruyère sont décrites aux considérants 8 et 9 du règlement d’exécution (UE) n<sup>o</sup> 110/2013 de la Commission du 6 février 2013 portant enregistrement d’une dénomination au registre des appellations d’origine protégées et des indications géographiques protégées [Gruyère (IGP)] (JO L 36 du 7.2.2013, p.1).
 
-Appendice 2*[^t-35]*
+Appendice 2[^t-35]
 
-## Législations des parties
+## Législations des Parties
 
-[^t-35]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2020 du 31 juil. 2020 du Comité mixte de l’agriculture, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4849](https://fedlex.data.admin.ch/eli/oc/2020/873)).
+[^t-35]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2022 du 17 nov. 2022 du Comité mixte de l’agriculture, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 28](https://fedlex.data.admin.ch/eli/oc/2023/28)).
 
 Législation de l’Union européenne
 
-Règlement (UE n<sup>o</sup> 1151/2012 du Parlement européen et du Conseil du 21 novembre 2012 relatif aux systèmes de qualité applicables aux produits agricoles et aux denrées alimentaires (JO L 343 du 14.12.2012, p. 1).
+Règlement (UE) n<sup>o</sup> 1151/2012 du Parlement européen et du Conseil du 21 novembre 2012 relatif aux systèmes de qualité applicables aux produits agricoles et aux denrées alimentaires (JO L 343 du 14.12.2012, p.1).
 
-Règlement délégué (UE) N<sup>o</sup> 664/2014 de la Commission du 18 décembre 2013 complétant le règlement (UE) n<sup>o</sup> 1151/2012 du Parlement européen et du Conseil en ce qui concerne l’établissement des symboles de l’Union pour les appellations d’origine protégées, les indications géographiques protégées et les spécialités traditionnelles garanties et en ce qui concerne certaines règles relatives à la provenance, certaines règles procédurales et certaines règles transitoires supplémentaires (JO L 179 du 19.6.2014, p.17).
+Règlement délégué (UE) n<sup>o</sup> 664/2014 de la Commission du 18 décembre 2013 complétant le règlement (UE) n<sup>o</sup> 1151/2012 du Parlement européen et du Conseil en ce qui concerne l’établissement des symboles de l’Union pour les appellations d’origine protégées, les indications géographiques protégées et les spécialités traditionnelles garanties et en ce qui concerne certaines règles relatives à la provenance, certaines règles procédurales et certaines règles transitoires supplémentaires (JO L 179 du 19.6.2014, p.17).
 
-Règlement d’exécution (UE) n° 668/2014 de la Commission du 13 juin 2014 portant modalités d’application du règlement (UE) n° 1151/2012 du Parlement européen et du Conseil relatif aux systèmes de qualité applicables aux produits agricoles et aux denrées alimentaires (JO L 179 du 19.6.2014, p.36).
+Règlement d’exécution (UE) no 668/2014 de la Commission du 13 juin 2014 portant modalités d’application du règlement (UE) n<sup>o</sup> 1151/2012 du Parlement européen et du Conseil relatif aux systèmes de qualité applicables aux produits agricoles et aux denrées alimentaires (JO L 179 du 19.6.2014, p.36).
 
 Législation de la Confédération suisse
 
-Ordonnance du 28 mai 1997 concernant la protection des appellations d’origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés, modifiée en dernier lieu le 1<sup>er</sup> janvier 2017 (RO *2016* 3281).
+Ordonnance du 28 mai 1997 concernant la protection des appellations d’origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés, modifiée en dernier lieu le 14 décembre 2018 (RS *910.12*, RO *2020* 5445).
 
-## 2. Acte final
+## Acte final
 
 Les plénipotentiaires de la Confédération suisse et de la Communauté européenne,
 
@@ -13175,17 +12857,17 @@ Fait à Luxembourg, le vingt et un juin de l’an mil neuf cent quatre-vingt-dix
 <tr><td>Pour la Confédération suisse: Pascal Couchepin Joseph Deiss</td><td>Pour la Communauté européenne: Joschka Fischer Hans van den Broek</td></tr>
 </table>
 
-### 2.1. Déclaration commune sur les Accords bilatéraux entre les États membres de l’Union européenne et la Suisse
+### Déclaration commune sur les Accords bilatéraux entre les États membres de l’Union européenne et la Suisse
 
 La Communauté européenne et la Suisse reconnaissent que les dispositions des accords bilatéraux entre les États membres de l’Union européenne et la Suisse s’appliquent sans préjudice et sous réserve des obligations résultant de l’appartenance des États qui y sont partie à l’Union européenne ou à l’Organisation mondiale du commerce.
 
 Il est par ailleurs entendu que les dispositions de ces accords ne sont maintenues que dans la mesure où elles sont compatibles avec le droit communautaire, y inclus les accords internationaux conclus par la Communauté.
 
-### 2.2. Déclaration commune relative au classement tarifaire des poudres de légumes et poudres de fruits
+### Déclaration commune relative au classement tarifaire des poudres de légumes et poudres de fruits
 
 Afin de garantir l’octroi et de maintenir la valeur des concessions accordées par la Communauté à la Suisse pour certaines poudres de légumes et poudres de fruits visées à l’annexe 2 de l’accord sur les échanges de produits agricoles, les autorités douanières des Parties conviennent d’examiner la mise à jour de la classification tarifaire des poudres de légumes et poudres de fruits compte tenu de l’expérience acquise dans l’application des concessions tarifaires.
 
-### 2.3. Déclaration commune concernant le secteur de la viande
+### Déclaration commune concernant le secteur de la viande
 
 À partir du 1<sup>er</sup> juillet 1999, compte tenu de la crise ESB et des mesures prises par certains États membres à l’encontre des exportations suisses, et à titre exceptionnel, un contingent annuel autonome de 700 tonnes/net soumis au droit ad valorem et en exemption du droit spécifique sera ouvert par la Communauté pour la viande bovine séchée et appliqué jusqu’à un an après l’entrée en vigueur de l’accord. Cette situation sera revue si, à cette date, les mesures de restrictions d’importations prises par certains États membres à l’encontre de la Suisse ne sont pas levées.
 
@@ -13193,11 +12875,11 @@ En contrepartie, la Suisse maintiendra pendant la même période et aux mêmes c
 
 Les règles d’origine applicables sont celles du régime non préférentiel.
 
-### 2.4. Déclaration commune relative au mode de gestion par la Suisse de ses contingents tarifaires dans le secteur de la viande
+### Déclaration commune relative au mode de gestion par la Suisse de ses contingents tarifaires dans le secteur de la viande
 
 La Communauté européenne et la Suisse déclarent leur intention de revoir ensemble et notamment à la lumière des dispositions de l’OMC, la méthode de gestion par la Suisse de ses contingents tarifaires dans le secteur de la viande en vue d’aboutir à une méthode de gestion moins entravante pour le commerce.
 
-### 2.5. Déclaration commune relative à la mise en œuvre de l’annexe 4 relative au secteur phytosanitaire
+### Déclaration commune relative à la mise en œuvre de l’annexe 4 relative au secteur phytosanitaire
 
 La Suisse et la Communauté européenne, ci-après dénommées les Parties, s’engagent à mettre en oeuvre dans les plus brefs délais l’annexe 4 relative au secteur phytosanitaire. La mise en œuvre de cette annexe 4 se fait au fur et à mesure que, pour les végétaux, produits végétaux et autres objets énumérés à l’appendice A de la présente déclaration, la législation suisse est rendue équivalente à la législation de la Communauté européenne énumérée à l’appendice B de ladite déclaration, selon une procédure visant à intégrer les végétaux, produits végétaux et autres objets dans l’appendice 1 de l’annexe 4 ainsi que les législations des Parties dans l’appendice 2 de ladite annexe. Cette procédure vise également à compléter les appendices 3 et 4 de ladite annexe sur la base des appendices C et D de la présente déclaration en ce qui concerne la Communauté, d’une part, et, sur la base des dispositions y afférentes, en ce qui concerne la Suisse, d’autre part.
 
@@ -13221,9 +12903,9 @@ Appendice A
 
 *Humulus lupulus* L.
 
-*Prunus* L.[^annexu1-lvlu1-lvlu1-lvl1-lvl11-1]
+*Prunus* L.[^annexA-lvlu1-lvlA-lvl1-lvl11-1]
 
-[^annexu1-lvlu1-lvlu1-lvl1-lvl11-1]: Sous réserve des disp. particulières envisagées à l’encontre du virus de la Sharka.
+[^annexA-lvlu1-lvlA-lvl1-lvl11-1]: Sous réserve des disp. particulières envisagées à l’encontre du virus de la Sharka.
 
 ### 1.2 Parties de végétaux autres que les fruits et les semences, mais comprenant le pollen vivant destiné à la pollinisation
 
@@ -13459,7 +13141,7 @@ Vitis L.
 
 *Quercus* L.
 
-7 Fruits (originaires de pays non européens)
+### 7 Fruits (originaires de pays non européens)
 
 *Annona* L.
 
@@ -13840,11 +13522,11 @@ En ce qui concerne les autres comités traitant des domaines couverts par les pr
 
 [^annexD-lvlu1-lvlu1-lvlu9-1]: [FF 1992 IV 655](https://fedlex.data.admin.ch/eli/fga/1992/4__655_)
 
-## 3. Acte final de la modification du 23 décembre 2008****
+## Acte final de la modification du 23 décembre 2008
 
-[^annexD-lvl3.-1]
+[^annexD-lvlu2-1]
 
-[^annexD-lvl3.-1]: Introduit par l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles et en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
+[^annexD-lvlu2-1]: Introduit par l’Ac. du 23 déc. 2008 entre la Suisse et la CE modifiant l’annexe 11 de l’Ac. relatif aux échanges de produits agricoles et en vigueur depuis le 1<sup>er</sup> déc. 2009 ([RO 2009 4919](https://fedlex.data.admin.ch/eli/oc/2009/576), [2010 65](https://fedlex.data.admin.ch/eli/oc/2010/20)).
 
 Les plénipotentiaires de la Communauté européenne,
 
@@ -13864,15 +13546,15 @@ Fait à Paris, le 23 décembre deux mil huit.
 <tr><td>Pour la Confédération suisse: Hans Wyss</td><td>Pour la Communauté européenne: Paul Van Geldorp</td></tr>
 </table>
 
-### 3.1. Déclaration de la Suisse relative à l’importation de viande ayant fait l’objet d’une utilisation d’hormones comme stimulateurs de performance d’animaux
+### Déclaration de la Suisse relative à l’importation de viande ayant fait l’objet d’une utilisation d’hormones comme stimulateurs de performance d’animaux
 
 La Suisse déclare qu’elle tiendra dûment compte de la décision définitive qui sera rendue par l’Organisation Mondiale du Commerce (OMC) en ce qui concerne la possibilité d’interdire l’importation de viande produite en utilisant des hormones comme stimulateurs de performance d’animaux et qu’elle réexaminera en conséquence ses règles d’importation de viande provenant de pays qui n’interdisent pas l’utilisation d’hormones comme stimulateurs de performance d’animaux, et les alignera le cas échéant sur les règles communautaires en la matière.
 
-## 4. Acte final de la modification du 14 mai 2009****
+## Acte final de la modification du 14 mai 2009
 
-[^annexD-lvl4.-1]
+[^annexD-lvlu3-1]
 
-[^annexD-lvl4.-1]: Introduit par l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
+[^annexD-lvlu3-1]: Introduit par l’Ac. du 14 mai 2009 entre la Suisse et la CE modifiant l’Ac. relatif aux échanges de produits agricoles, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 4925](https://fedlex.data.admin.ch/eli/oc/2009/577)).
 
 Les représentants de la Confédération suisse,
 
@@ -13893,11 +13575,11 @@ ont pris note des déclarations mentionnées ci‑après et jointes au présent 
 <tr><td>Pour la Confédération suisse: Jacques de Watteville</td><td>Pour la Communauté européenne: Milena Vicenová</td></tr>
 </table>
 
-### 4.1. Déclaration commune sur la mise à jour des annexes 7 et 8 de l’accord entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles
+### Déclaration commune sur la mise à jour des annexes 7 et 8 de l’accord entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles
 
 Compte tenu de l’évolution de la législation des Parties depuis la préparation et l’adoption de l’accord entre la Confédération suisse et la Communauté européenne modifiant l’accord entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles, les Parties s’engagent, conformément aux procédures fixées par l’accord, à poursuivre rapidement la mise à jour de l’annexe 7 relative au commerce de produits vitivinicoles, d’une part, et de l’annexe 8 concernant la reconnaissance mutuelle et la protection des dénominations dans le secteur des boissons spiritueuses et des boissons aromatisées à base de vin, d’autre part, ceci notamment pour tenir compte de l’évolution de l’acquis communautaire suite à l’adoption par le Parlement européen et le Conseil du règlement (CE) n<sup>o</sup> 479/2008 du 29 avril 2008 portant organisation commune du marché vitivinicole (JO L 148 du 6.6.2008, p. 1) et du règlement (CE) n<sup>o</sup> 110/2008 du 15 janvier 2008 concernant la définition, la désignation, la présentation, l’étiquetage et la protection des indications géographiques des boissons spiritueuses (JO L 39 du 13.2.2008, p. 16)
 
-### 4.2. Déclaration de la Communauté sur les méthodes de gestion par la Suisse de ses contingents tarifaires
+### Déclaration de la Communauté sur les méthodes de gestion par la Suisse de ses contingents tarifaires
 
 L’accord entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles (ci‑après «l’accord»), entré en vigueur le 1<sup>er</sup> juin 2002, ouvre, entre autres, des contingents tarifaires pour faciliter les échanges commerciaux de produits agricoles entre les Parties. Dans la «déclaration commune relative au mode de gestion par la Suisse de ses contingents tarifaires dans le secteur de la viande», annexée à l’accord, les Parties déclarent leur intention de revoir ensemble la méthode de gestion par la Suisse de ses contingents dans le secteur de la viande en vue d’aboutir à une méthode de gestion moins entravante pour le commerce. Une telle révision n’a cependant pas eu lieu depuis 2002.
 
@@ -13905,11 +13587,11 @@ La question de la méthode de gestion par appel d’offres employée par la Suis
 
 La Communauté se réjouit de l’ouverture de négociations bilatérales en vue de la libéralisation complète des échanges bilatéraux dans le secteur agroalimentaire. La libéralisation des échanges, à terme, va résoudre cette question. Compte tenu toutefois de la durée à escompter de ces négociations et leur mise en œuvre, la Communauté demande qu’entre‑temps les méthodes de gestion des contingents tarifaires de la Suisse soient aménagées de façon à limiter les entraves aux échanges.
 
-## 5. Acte final de la modification du 17 mai 2011****
+## Acte final de la modification du 17 mai 2011
 
-[^annexD-lvl5.-1]
+[^annexD-lvlu4-1]
 
-[^annexD-lvl5.-1]: Introduit par l’Ac. du 17 mai 2011 entre la Suisse et l’UE relatif à la protection des appellations d’origine et des indications géographiques pour les produits agricoles et les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
+[^annexD-lvlu4-1]: Introduit par l’Ac. du 17 mai 2011 entre la Suisse et l’UE relatif à la protection des appellations d’origine et des indications géographiques pour les produits agricoles et les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5149](https://fedlex.data.admin.ch/eli/oc/2011/747)).
 
 Les plénipotentiaires de la Confédération suisse, et de l’Union européenne
 
@@ -13921,7 +13603,7 @@ réunis le 17 mai 2011 à Bruxelles pour la signature de l’accord entre l’Un
 <tr><td>Pour la Confédération suisse: Johann N. Schneider-Ammann</td><td>Pour l’Union européenne: Sánder Fazekas Dacian Ciolos</td></tr>
 </table>
 
-### 5.1. Déclaration commune sur les dénominations homonymes
+### Déclaration commune sur les dénominations homonymes
 
 Les Parties reconnaissent que les procédures relatives aux demandes d’enregistrement d’IGs déposées avant la signature de la Déclaration d’intention du 11 décembre 2009 en vertu de leurs législations respectives peuvent se poursuivre nonobstant les dispositions du présent Accord et notamment l’art. 7 de l’annexe 12.
 
