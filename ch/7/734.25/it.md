@@ -4,11 +4,11 @@ title: "Ordinanza del 2 febbraio 2000 sulla procedura d'approvazione dei piani d
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: it
-version: 2021-07-01
+version: 2023-01-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210701/it"
 
 (OPIE)
 
-del 2 febbraio 2000 (Stato 1° luglio 2021)
+del 2 febbraio 2000 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -68,7 +68,7 @@ Essa non è applicabile ai piani che concernono la costruzione e la modifica di:
 [^1-7]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4. [RU 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Vedi ora l’O del 25 nov. 2015 sugli apparecchi e i sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
 [^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
-## Sezione 1*a*:**** Procedura del piano settoriale
+## Sezione 1*a*: Procedura del piano settoriale
 
 [^sec1a-1]
 
@@ -194,10 +194,11 @@ Alla domanda devono essere allegati i seguenti documenti:
 Dopo la modifica della bozza esso svolge la consultazione degli uffici. Entro due mesi dalla conclusione della consultazione degli uffici, esso chiede la definizione del corridoio di pianificazione e della tecnologia di trasporto da impiegare:
 
 - a. al Consiglio federale nei casi di cui all’articolo 21 capoverso 1 OPT;
-- b. al DATEC nei casi di cui all’articolo 21 capoverso 4 OPT.
+- b.[^1g-3] al Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) nei casi di cui all’articolo 21 capoverso 4 OPT.
 
 [^1g-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^1g-2]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^1g-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 ## Sezione 2: Procedura d’approvazione dei piani
 
@@ -219,7 +220,7 @@ I documenti da allegare alla domanda da presentare all’Ispettorato per l’app
 
 <sup>1bis</sup> Nel caso di progetti riguardanti il primo allacciamento o un allacciamento più potente alla rete elettrica di immobili e insediamenti al di fuori della zona edificabile, ai documenti deve essere allegata una decisione passata in giudicato del Cantone a conferma dell’ammissibilità dell’allacciamento.[^2-4]
 
-<sup>1</sup> <sup>ter</sup> Se sono necessarie espropriazioni, la domanda deve essere completata con i dati di cui all’articolo 28 della legge federale del 20 giugno 1930[^2-5] sull’espropriazione.[^2-6]
+<sup>1ter</sup> Se sono necessarie espropriazioni, la domanda deve essere completata con i dati di cui all’articolo 28 della legge federale del 20 giugno 1930[^2-5] sull’espropriazione.[^2-6]
 
 <sup>2</sup> L’Ispettorato emana direttive concernenti il genere, la presentazione, il contenuto e la quantità dei documenti da presentargli.
 
@@ -254,39 +255,35 @@ I documenti da allegare alla domanda da presentare all’Ispettorato per l’app
 
 L’Ispettorato emana direttive per il picchettamento.
 
-#### Art. 5
+#### Art. 5 e 6
 
-**Procedura seguita dall’Ispettorato**
+[^56-1]
 
-<sup>1</sup> L’Ispettorato ordina la pubblicazione della domanda, conduce la procedura di opposizione e raccoglie i pareri dei Cantoni e delle autorità federali interessate.
-
-<sup>2</sup> L’Ispettorato valuta i differenti pareri, assume le prove necessarie e, se del caso, ordina le necessarie ispezioni. Esso concilia le parti.
-
-<sup>3</sup> L’Ispettorato può decidere di non condurre le trattative concernenti le opposizioni, nel caso in cui un’intesa tra le parti si prospetti irraggiungibile.[^5-1]
-
-[^5-1]: Introdotto dal n. I dell’O del 24 giu. 2009, in vigore dal 1° set. 2009 ([RU 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
-
-#### Art. 6
-
-**Procedura condotta dall’UFE[^6-2]**[^6-1]
-
-<sup>1</sup> Se entro sei mesi dal ricevimento delle opposizioni e dei pareri dei Cantoni e delle autorità federali interessate non è stato possibile trovare un’intesa con tutti gli opponenti e le autorità, l’Ispettorato invia i documenti, accompagnati da un rapporto sullo stato della procedura, all’UFE[^6-3] per decisione.
-
-<sup>2</sup> In casi eccezionali, l’UFE può prolungare congruamente il termine.
-
-<sup>3</sup> L’UFE sottopone il rapporto dell’Ispettorato agli opponenti e agli uffici federali con i quali non è stato possibile trovare un’intesa affinché si pronuncino in merito.
-
-<sup>4</sup> L’UFE può assumere ulteriori prove, ordinare ispezioni e condurre trattative concernenti le opposizioni.
-
-[^6-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° set. 2009 ([RU 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^6-3]: Nuova espr. giusta il n. I dell’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^56-1]: Abrogati dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 #### Art. 6a
 
 [^6a-1]
 
 [^6a-1]: Introdotto dal n. I dell’O del 24 giu. 2009 ([RU 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)). Abrogato dal n. I dell’O del 9 ott. 2013, con effetto dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+
+#### Art. 6b
+
+**Trasferimento all’UFE**[^6b-1]
+
+<sup>1</sup> Se durante la procedura risulta che non è possibile raggiungere un accordo a causa di opposizioni o divergenze tra le autorità federali coinvolte, l’Ispettorato trasferisce all’UFE speditamente, in particolare senza svolgere ulteriori accertamenti, la procedura di approvazione dei piani, unitamente al proprio parere sulla domanda, per la conclusione e la decisione.
+
+<sup>2</sup>
+
+Nei seguenti casi l’Ispettorato trasferisce all’UFE, entro 30 giorni dal ricevimento dei pareri dei Cantoni e delle autorità specializzate interessati, la procedura di approvazione dei piani, unitamente al proprio parere sulla domanda, per la conclusione e la decisione:
+
+- a. la domanda riguarda un progetto sottoposto all’obbligo del piano settoriale;
+- b. contro la domanda sono state presentate più di 30 opposizioni;
+- c. una risoluzione consensuale delle opposizioni si prospetta sin dall’inizio irraggiungibile.
+
+<sup>3</sup> Il DATEC può disciplinare ulteriori dettagli tramite ordinanza.
+
+[^6b-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 #### Art. 7
 
@@ -325,8 +322,8 @@ I termini di trattazione rimangono sospesi durante il periodo necessario per:
 
 Per la trattazione di una domanda d’approvazione dei piani, l’UFE applica di regola i termini seguenti:
 
-- a. un mese per inviare il rapporto sullo stato della procedura secondo l’articolo 6 capoverso 1;
-- b. tre mesi dal ricevimento del rapporto sullo stato della procedura fino alla conduzione di una trattativa concernente le opposizioni;
+- a.[^8a-2] …
+- b.[^8a-3] tre mesi dal trasferimento della procedura da parte dell’Ispettorato fino alla conduzione di una trattativa concernente le opposizioni;
 - c. otto mesi per redigere la decisione dopo la conclusione della trattativa concernente le opposizioni e il ricevimento dei pareri delle autorità.
 
 <sup>2</sup>
@@ -337,6 +334,8 @@ I termini di trattazione rimangono sospesi durante il periodo necessario per:
 - b. l’allestimento di perizie o rapporti supplementari.
 
 [^8a-1]: Introdotto dal n. I dell’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+[^8a-2]: Abrogata dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 #### Art. 8b
 
@@ -477,7 +476,7 @@ Entro un anno dal completamento l’Ispettorato controlla se l’impianto è sta
 
 <sup>3</sup> Le misure prese o previste in seguito alla modifica delle condizioni e i relativi documenti devono essere sottoposti per approvazione all’Ispettorato.
 
-## Sezione 5: Spese di pubblicazione****
+## Sezione 5: Spese di pubblicazione
 
 [^sec5-1]
 

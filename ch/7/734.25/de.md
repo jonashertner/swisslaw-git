@@ -4,11 +4,11 @@ title: Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für e
 short: VPeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: de
-version: 2021-07-01
+version: 2023-01-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210701/de"
 
 (VPeA)
 
-vom 2. Februar 2000 (Stand am 1. Juli 2021)
+vom 2. Februar 2000
 
 Der Schweizerische Bundesrat,
 
@@ -43,7 +43,7 @@ Diese Verordnung regelt:
   das Plangenehmigungsverfahren für die Erstellung und die Änderung von:
 
   - 1\. Hochspannungsanlagen,
-  - 2\.[^1-1] ...
+  - 2\.[^1-1] …
   - 3\. Schwachstromanlagen, soweit diese nach Artikel 8*a* Absatz 1 der Schwachstromverordnung vom 30. März 1994[^1-2] der Genehmigungspflicht unterstellt sind.[^1-3]
 
 <sup>2</sup> Sie gilt in vollem Umfang für die Erstellung und die Änderung von Niederspannungsverteilnetzen, soweit es sich um Anlagen in Schutzgebieten nach eidgenössischem oder kantonalem Recht handelt. Die übrigen Niederspannungsanlagen werden vom Eidgenössischen Starkstrominspektorat (Inspektorat) anlässlich der regelmässigen Inspektionen genehmigt. Die Betriebsinhaber führen zu diesem Zweck Pläne und Unterlagen dauernd nach.
@@ -67,7 +67,7 @@ Sie gilt nicht für die Erstellung und die Änderung von:
 [^1-7]: [[AS 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 4]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
 [^1-8]: [SR 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
-## 1*a*. Abschnitt:**** Sachplanverfahren
+## 1*a*. Abschnitt: Sachplanverfahren
 
 [^sec1a-1]
 
@@ -196,10 +196,11 @@ Nach Eingang der Stellungnahmen setzt das BFE innert zwei Monaten eine projektsp
 Nach der Bereinigung des Entwurfs führt es eine Ämterkonsultation durch. Es veranlasst innerhalb von zwei Monaten nach Abschluss der Ämterkonsultation die Festsetzung des Planungskorridors sowie der anzuwendenden Übertragungstechnologie durch:
 
 - a. den Bundesrat in Fällen nach Artikel 21 Absatz 1 RPV;
-- b. das UVEK in Fällen nach Artikel 21 Absatz 4 RPV.
+- b.[^1g-3] das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) in Fällen nach Artikel 21 Absatz 4 RPV.
 
 [^1g-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^1g-2]: [SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^1g-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 ## 2. Abschnitt: Plangenehmigungsverfahren
 
@@ -255,39 +256,35 @@ Die Unterlagen, die dem Inspektorat zur Genehmigung einzureichen sind, müssen a
 
 Das Inspektorat erlässt Richtlinien für die Aussteckung.
 
-#### Art. 5
+#### Art. 5 und 6
 
-**Verfahren durch das Inspektorat**
+[^56-1]
 
-<sup>1</sup> Das Inspektorat veranlasst die Publikation des Gesuches, führt das Einspracheverfahren durch und holt die Stellungnahmen der Kantone und der betroffenen Bundesbehörden ein.
-
-<sup>2</sup> Es würdigt die eingegangenen Stellungnahmen, erhebt die notwendigen Beweise und ordnet nötigenfalls Begehungen an. Es vermittelt zwischen den Parteien.
-
-<sup>3</sup> Es kann auf die Durchführung von Einspracheverhandlungen verzichten, wenn eine Vermittlung zwischen den Parteien aussichtslos erscheint.[^5-1]
-
-[^5-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Sept. 2009 ([AS 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
-
-#### Art. 6
-
-**Verfahren durch das BFE[^6-2]**[^6-1]
-
-<sup>1</sup> Kann innerhalb von sechs Monaten nach Eingang der Einsprachen und der Stellungnahmen der Kantone und der betroffenen Bundesbehörden nicht mit allen Einsprechern und Behörden eine Einigung erzielt werden, so überweist das Inspektorat die Unterlagen mit einem Bericht über den Stand des Verfahrens dem BFE[^6-3] zum Entscheid.
-
-<sup>2</sup> Das BFE kann die Frist in Ausnahmefällen angemessen verlängern.
-
-<sup>3</sup> Es legt den Einsprechern und Bundesstellen, mit denen keine Einigung erzielt werden konnte, den Bericht des Inspektorats zur Stellungnahme vor.
-
-<sup>4</sup> Es kann zusätzliche Beweise erheben, Begehungen anordnen und Einspracheverhandlungen durchführen.
-
-[^6-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Sept. 2009 ([AS 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 9. Okt. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^6-3]: Ausdruck gemäss Ziff. I der V vom 9. Okt. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^56-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 #### Art. 6a
 
 [^6a-1]
 
 [^6a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2009 ([AS 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)). Aufgehoben durch Ziff. I der V vom 9. Okt. 2013, mit Wirkung seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+
+#### Art. 6b
+
+**Überweisung an das BFE**[^6b-1]
+
+<sup>1</sup> Ergibt sich während des Verfahrens, dass aufgrund von Einsprachen oder Differenzen unter den beteiligten Bundesbehörden keine Einigung herbeigeführt werden kann, so überweist das Inspektorat das Plangenehmigungsverfahren einschliesslich seiner Stellungnahme zum Gesuch zügig, insbesondere ohne weitere Abklärungen, dem BFE zur Weiterführung und zum Entscheid.
+
+<sup>2</sup>
+
+In den folgenden Fällen überweist das Inspektorat das Plangenehmigungsverfahren einschliesslich seiner Stellungnahme zum Gesuch innert 30 Tagen nach Eingang der Stellungnahmen der betroffenen Kantone und Fachbehörden dem BFE zur Weiterführung und zum Entscheid:
+
+- a. Das Gesuch betrifft ein sachplanpflichtiges Vorhaben.
+- b. Gegen das Gesuch sind mehr als 30 Einsprachen eingegangen.
+- c. Eine einvernehmliche Erledigung der Einsprachen erscheint von vornherein als aussichtlos.
+
+<sup>3</sup> Das UVEK kann weitere Einzelheiten in einer Verordnung regeln.
+
+[^6b-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 #### Art. 7
 
@@ -326,8 +323,8 @@ Die Behandlungsfristen stehen still während der Zeit, die benötigt wird für:
 
 Für die Behandlung eines Plangenehmigungsgesuchs gelten für das BFE in der Regel die folgenden Fristen:
 
-- a. einen Monat für den Versand des Berichts über den Stand des Verfahrens nach Artikel 6 Absatz 1;
-- b. drei Monate ab Eingang des Berichts über den Stand des Verfahrens bis zur Durchführung einer Einspracheverhandlung;
+- a.[^8a-2] …
+- b.[^8a-3] drei Monate ab der Überweisung des Verfahrens durch das Inspektorat bis zur Durchführung einer Einspracheverhandlung;
 - c. acht Monate für die Ausfertigung des Entscheides nach Abschluss der Einspracheverhandlung und Eingang der Stellungnahmen der Behörden.
 
 <sup>2</sup>
@@ -338,6 +335,8 @@ Die Behandlungsfristen stehen still während der Zeit, die benötigt wird für:
 - b. die Erstellung von Gutachten oder zusätzlichen Berichten.
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+[^8a-2]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 #### Art. 8b
 
@@ -351,7 +350,7 @@ Benötigt die Gesuchstellerin für die Ergänzung der Gesuchsunterlagen, die Era
 
 **Teilgenehmigung[^9-1]**
 
-<sup>1</sup> ...[^9-2]
+<sup>1</sup> …[^9-2]
 
 <sup>2</sup> Für unbestrittene Teile einer Anlage kann eine Teilgenehmigung erteilt werden, wenn dadurch die Anlage im bestrittenen Bereich nicht präjudiziert wird.
 
@@ -478,7 +477,7 @@ Das Inspektorat kontrolliert in der Regel innerhalb eines Jahres nach der Fertig
 
 <sup>3</sup> Die Massnahmen, die auf Grund von geänderten Verhältnissen getroffen oder geplant werden, sind mit den entsprechenden Unterlagen dem Inspektorat zur Genehmigung vorzulegen.
 
-## 5. Abschnitt: Finanzierung der Publikationen****
+## 5. Abschnitt: Finanzierung der Publikationen
 
 [^sec5-1]
 
@@ -492,7 +491,7 @@ Das Inspektorat kontrolliert in der Regel innerhalb eines Jahres nach der Fertig
 
 #### Art. 17
 
-**...[^17-1]**
+**…[^17-1]**
 
 Die Gesuchstellerin trägt die Kosten für die Publikation des Gesuches. Sie sind von der herausgebenden Stelle bei der Gesuchstellerin direkt einzuziehen.
 
@@ -522,7 +521,7 @@ Die Verordnung vom 26. Juni 1991[^18-1] über das Plangenehmigungsverfahren für
 
 **Änderung bisherigen Rechts**
 
-...[^19-1]
+…[^19-1]
 
 [^19-1]: Die Änderungen können unter [AS 2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)konsultiert werden.
 

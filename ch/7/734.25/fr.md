@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2000 sur la procédure d'approbation des plans 
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: fr
-version: 2021-07-01
+version: 2023-01-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210701/fr"
 
 (OPIE)
 
-du 2 février 2000 (Etat le 1<sup>er</sup> juillet 2021)
+du 2 février 2000 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -43,7 +43,7 @@ La présente ordonnance régit:
   la procédure d’approbation des plans relative à l’établissement ou à la modification:
 
   - 1\. des installations à haute tension,
-  - 2\.[^1-1] ...
+  - 2\.[^1-1] …
   - 3\. des installations électriques à courant faible, pour autant qu’elles soient soumises à l’approbation obligatoire en vertu de l’art. 8*a*, al. 1, de l’ordonnance du 30 mars 1994 sur les installations électriques à courant faible[^1-2].[^1-3]
 
 <sup>2</sup> Elle est applicable dans son intégralité à l’établissement et à la modification des réseaux de distribution à basse tension situés dans des aires de protection au sens du droit fédéral ou cantonal. Les autres installations à basse tension sont approuvées par l’Inspection fédérale des installations à courant fort (inspection) lors des contrôles réguliers. À cet effet, les propriétaires mettent à jour continuellement les plans et les dossiers.
@@ -67,7 +67,7 @@ Elle n’est pas applicable à l’établissement ou à la modification:
 [^1-7]: [[RO 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 4. [RO 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
 [^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
-## Section 1*a***** Procédure de plan sectoriel
+## Section 1*a* Procédure de plan sectoriel
 
 [^sec1a-1]
 
@@ -196,10 +196,11 @@ Après réception des prises de position, l’OFEN forme dans les deux mois un g
 Après avoir remanié le projet de la fiche d’objet et son rapport, l’OFEN mène une procédure de consultation des offices. Dans les deux mois suivant la clôture de cette procédure, il demande la détermination du corridor de planification et de la technologie de transport à utiliser:
 
 - a. au Conseil fédéral dans les cas ressortant de l’art. 21, al. 1, OAT;
-- b. au DETEC dans les cas ressortant de l’art. 21, al. 4, OAT.
+- b.[^1g-3] au Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) dans les cas ressortant de l’art. 21, al. 4, OAT.
 
 [^1g-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^1g-2]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^1g-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 ## Section 2 Procédure d’approbation des plans
 
@@ -256,39 +257,35 @@ Les dossiers de demande soumis à l’approbation de l’inspection doivent cont
 
 L’inspection adopte des directives en matière de piquetage.
 
-#### Art. 5
+#### Art. 5 et 6
 
-**Procédure suivie par l’inspection**
+[^56-1]
 
-<sup>1</sup> L’inspection ordonne la publication de la demande, organise la procédure d’opposition et recueille les avis des cantons et des autorités fédérales concernées.
-
-<sup>2</sup> Elle évalue les avis reçus, recueille les preuves nécessaires et, le cas échéant, ordonne des visites des lieux. Elle oeuvre à concilier les vues des parties.
-
-<sup>3</sup> Elle peut renoncer à mener des négociations sur les oppositions si une conciliation entre les parties paraît vouée à l’échec.[^5-1]
-
-[^5-1]: Introduit par le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
-
-#### Art. 6
-
-**Procédure menée par l’OFEN[^6-2]**[^6-1]
-
-<sup>1</sup> Si, dans un délai de six mois après réception des oppositions et des avis des cantons et des autorités fédérales concernées, aucun accord ne peut être trouvé entre les opposants et les autorités, l’inspection transmet le dossier, accompagné d’un rapport sur l’état de la procédure, à l’OFEN[^6-3] pour décision.
-
-<sup>2</sup> L’OFEN peut prolonger raisonnablement le délai dans des cas exceptionnels.
-
-<sup>3</sup> Il remet pour avis le rapport de l’inspection aux opposants et aux services fédéraux avec lesquels aucun accord n’a pu être trouvé.
-
-<sup>4</sup> Il peut réunir des preuves complémentaires, ordonner la visite des lieux et mener des négociations sur les oppositions.
-
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^6-3]: Nouvelle expression selon le ch. I de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Il a été tenu compte de cette mod. dans tout le texte.
+[^56-1]: Abrogés par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 #### Art. 6a
 
 [^6a-1]
 
 [^6a-1]: Introduit par le ch. I de l’O du 24 juin 2009 ([RO 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)). Abrogé par le ch. I de l’O du 9 oct. 2013, avec effet au 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+
+#### Art. 6b
+
+**Transmission à l’OFEN**[^6b-1]
+
+<sup>1</sup> Si durant la procédure, il s’avère qu’il n’est pas possible de parvenir à un accord pour régler les oppositions ou les divergences entre autorités fédérales concernées, l’inspection transmet à l’OFEN dans les plus brefs délais, en particulier sans effectuer d’autres investigations, le dossier d’approbation des plans, y compris sa prise de position au sujet de la demande, pour la poursuite de la procédure et pour décision.
+
+<sup>2</sup>
+
+Dans les cas ci-après, l’inspection transmet à l’OFEN le dossier d’approbation des plans, y compris sa prise de position au sujet de la demande, dans les 30 jours suivant la réception de la prise de position des cantons concernés et des services compétents, pour la poursuite de la procédure et pour décision:
+
+- a. la demande concerne un projet relevant d’un plan sectoriel;
+- b. la demande a fait l’objet de plus de 30 oppositions;
+- c. un règlement à l’amiable des oppositions semble être d’emblée voué à l’échec.
+
+<sup>3</sup> Le DETEC peut régler d’autres modalités par voie d’ordonnance.
+
+[^6b-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 #### Art. 7
 
@@ -327,8 +324,8 @@ Les délais de traitement ne courent pas pendant le temps nécessaire:
 
 En règle générale, l’OFEN traite la demande d’approbation des plans dans les délais suivants:
 
-- a. un mois pour l’envoi du rapport sur l’état de la procédure conformément à l’art. 6, al. 1;
-- b. trois mois à compter de la réception du rapport sur l’état de la procédure jusqu’à la conduite de négociations sur les oppositions;
+- a.[^8a-2] …
+- b.[^8a-3] trois mois à compter de la transmission du dossier par l’inspection jusqu’à la conduite de négociations sur les oppositions;
 - c. huit mois pour l’établissement de la décision après la conclusion des négociations concernant les oppositions et la réception des avis des autorités.
 
 <sup>2</sup>
@@ -339,6 +336,8 @@ Les délais de traitement ne courent pas pendant le temps nécessaire:
 - b. à la réalisation d’expertises ou de rapports complémentaires.
 
 [^8a-1]: Introduit par le ch. I de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+[^8a-2]: Abrogée par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
 
 #### Art. 8b
 
@@ -479,7 +478,7 @@ L’inspection contrôle, en général au cours de l’année suivant l’achèv
 
 <sup>3</sup> Les mesures prises ou prévues par suite de modifications des conditions sont soumises à l’approbation de l’inspection, avec les documents y relatifs.
 
-## Section 5 Frais de publication****
+## Section 5 Frais de publication
 
 [^sec5-1]
 
