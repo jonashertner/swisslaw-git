@@ -4,10 +4,11 @@ number: "321.2"
 title: Kantonale Ordnungsbussenverordnung (KOBV)
 short: KOBV
 language: de
-nachtrag: "107"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-01-01
 adopted: 2019-12-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_2-2019_12_10-2020_01_01-107.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_2-2019_12_10-2020_01_01-119.html"
 text: pdf
 ---
 
@@ -78,12 +79,12 @@ Die weiteren Organe gemäss Anhang 2 sind für die Erhebung von bundes- und kant
 
 **1**
 
-- 1\. 1. 20 - 107
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Kantonspolizei und die Stadtpolizeien Zürich und Winterthur können für die Erhebung von bundesrechtlichen Ordnungsbussen für Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958[^7-1] und dem Bundesgesetz vom 3. Oktober 1951 über die Betäubungsmittel und die psychotropen Stoffe[^7-2] sowie von kantonalrechtlichen Ordnungsbussen Hilfskräfte anstellen.
 
 [^7-1]: SR 741.01.
-[^7-2]: SR 812.121. 1. 1. 20 - 107 3
+[^7-2]: SR 812.121.
 
 #### § 8
 
@@ -198,19 +199,24 @@ Verletzung der persönlichen Meldepflicht (§ 3 Abs. 1 und 2 und § 4 in Verbind
 
 **Fr. 100**
 
-- g. Missachten der Meldepflichten gegenüber den Gemeinden (§ 21)
+- g. Missachten der Meldepflichten gegenüber den Gemeinden (§ 21) h.[^hHundegesetzvom14-1] Verstoss gegen die Leinenpflicht im Wald und am Waldrand vom 1. April bis 31. Juli (§ 11 Abs. 1 lit. e)
 
-[^hHundegesetzvom14-1]: LS 554.51.
+[^hHundegesetzvom14-1]: Eingefügt durch RRB vom 5. Oktober 2022 (OS 77, 633; ABl 2022-11-04). In Kraft seit 1. Januar 2023.
+[^hHundegesetzvom14-2]: LS 554.51.
 
-### 4. Hundeverordnung vom 25. November 2009[^hHundegesetzvom14-1]:
+### 4. Hundeverordnung vom 25. November 2009[^hHundegesetzvom14-2]:
 
 **Fr. 30**
 
 - a. Nichtvorweisen der verlangten Bestätigungen (§ 13 Abs. 4)
 
-- b. Missachten der Ausweispflicht beim Führen des Hundes im öffentlich zugänglichen Raum (§ 27 Abs. 2)
+- b. Missachten der Ausweispflicht beim Führen
+
+des Hundes im öffentlich zugänglichen Raum
 
 **Fr. 30**
+
+(§ 27 Abs. 2)
 
 - 5\. Verordnung über den Baulärm vom 27. November 1969[^h4Hundeverordnungv-1]:
 
@@ -220,9 +226,9 @@ Verursachen von störendem Lärm durch Bauarbeiten zwischen 19.00 und 7.00 Uhr (
 
 - 6\. Gesetz über die Fischerei vom 5. Dezember 1976[^h4Hundeverordnungv-2]:
 
-**Fr. 20 Fr. 20**
+- a. Nichtmitführen der Fischereiberechtigung (§ 5) Fr. 20
 
-- a. Nichtmitführen der Fischereiberechtigung (§ 5)
+**Fr. 20**
 
 - b. Nichtüberwachen der Angelgeräte (§ 24)
 
@@ -232,9 +238,13 @@ Verursachen von störendem Lärm durch Bauarbeiten zwischen 19.00 und 7.00 Uhr (
 
 - a. Vernachlässigen von Ordnung und guter Sitte im Gastwirtschaftsbetrieb (§ 17 Abs. 1)
 
-- b. Verstoss gegen das Rauchverbot in Innenräumen von Gastwirtschaftsbetrieben durch die Wirtin oder den Wirt (§ 22 Abs. 1)
+- b. Verstoss gegen das Rauchverbot in Innenräumen
+
+von Gastwirtschaftsbetrieben durch die Wirtin
 
 **Fr. 80**
+
+oder den Wirt (§ 22 Abs. 1)
 
 - 8\. Verordnung zum Gastgewerbegesetz vom 16. Juli 1997[^h4Hundeverordnungv-4]:
 
@@ -246,43 +256,72 @@ Verursachen von störendem Lärm durch Bauarbeiten zwischen 19.00 und 7.00 Uhr (
 
 - b. Nichtbefolgen der Schliessungsvorschriften durch den Gast (§ 8 Abs. 2)
 
-**5**
-
-- 1\. 1. 20 - 107
-
 [^h4Hundeverordnungv-1]: LS 713.5.
 [^h4Hundeverordnungv-2]: LS 923.1.
 [^h4Hundeverordnungv-3]: LS 935.11.
 [^h4Hundeverordnungv-4]: LS 935.12.
+[^h4Hundeverordnungv-5]: Eingefügt durch RRB vom 5. Oktober 2022 (OS 77, 633; ABl 2022-11-04). In Kraft seit 1. Januar 2023.
+[^h4Hundeverordnungv-6]: LS 922.11.
+
+### 9. Kantonale Jagdverordnung vom 5. Oktober 2022[^h4Hundeverordnungv-6]:
+
+[^h4Hundeverordnungv-5]
+
+- a. Jagen mit abgelaufenem Treffsicherheitsnachweis Fr. 100
+
+**Fr. 100**
+
+- b. Verwendung nicht zugelassener Jagdhunde
+
+- c. Verstoss gegen das Fütterungsverbot von § 18 des Kantonalen Jagdgesetzes vom 1. Februar 2021[^h9h4Hundeverordnun-1] Fr. 200
+
+- d. Verstoss gegen die kantonalrechtlichen Bestimmungen über die Verwendung von Waffen und Munition
+
+**Fr. 60**
+
+**Fr. 100**
+
+**5**
+
+- 1\. 1. 23 - 119
+
+[^h9h4Hundeverordnun-1]: LS 922.1.
+[^h9h4Hundeverordnun-2]: Fassung gemäss RRB vom 5. Oktober 2022 (OS 77, 633; ABl 2022-11-04). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 3
 
 ### Anhang 2 Weitere Organe (§ 5)
 
+[^h9h4Hundeverordnun-2]
+
+**X X**
+
+Jagdliche Revieraufsicht X X X
+
+**X X**
+
+Naturschutz- und Reservatsaufsicht (Rangerinnen und X X X X X
+
+**Ranger)**
+
+**nen und -förster**
+
+Staats- und Revierförsterin- X
+
+**X X**
+
+Wildhüterinnen und -hüter X X X X X
+
+**X X**
+
+**-aufseher Mit der Führung**
+
+Fischereiaufseherinnen und X X X X X
+
 **X**
 
-### Jagdliche Revieraufsicht X X Naturschutz- und Reservats-
-
-**X X X**
-
-aufsicht (Rangerinnen und X X
-
-### Ranger) Staats- und Revierförsterin- X
-
-nen und -förster
-
-**X X X**
-
-### Wildhüterinnen und -hüter X X Fischereiaufseherinnen X X
-
-**X X X**
-
-und -aufseher
-
-### Mit der Führung des Einwohnerregisters betraute Personen der Gemeinden Polizeistundenkontrolleurin-
+des Einwohnerregisters betraute Personen der Gemeinden
 
 **X**
 
-**X**
+**Gemeinden**
 
-nen und -kontrolleure der
-
-### Gemeinden
+Polizeistundenkontrolleurinnen und -kontrolleure der
