@@ -4,13 +4,12 @@ number: "921.111"
 title: Kantonale Waldverordnung
 short: KWaV
 language: de
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-17
+version: 2023-01-01
+version_adopted: 2022-11-16
 adopted: 1997-10-29
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/921.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2204/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2740/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2204/pdf_file"
 
 (KWaV)
 
-vom 29.10.1997 (Stand 01.04.2021)
+vom 29.10.1997 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -133,7 +132,7 @@ beschliesst:
 
 <sup>2</sup> Zur Begleitung der Planung zieht sie die Waldeigentümerinnen und Waldeigentümer sowie weitere betroffene Kreise und die kantonalen Fachstellen bei.
 
-<sup>3</sup> Der Regionale Waldplan wird nach vorgängiger Publikation im Amtsblatt und in den Amtsanzeigern ganz oder in Teilabschnitten an geeigneten Orten während mindestens 30 Tagen zur öffentlichen Mitwirkung aufgelegt.
+<sup>3</sup> Der Regionale Waldplan wird nach vorgängiger Publikation im Amtsblatt und in den amtlichen Publikationsorganen der Gemeinden ganz oder in Teilabschnitten an geeigneten Orten während mindestens 30 Tagen zur öffentlichen Mitwirkung aufgelegt.
 
 <sup>4</sup> Im Rahmen der Mitwirkung können von jedermann Einwendungen erhoben und Anregungen unterbreitet werden. Sie sind der Wirtschafts-, Energie- und Umweltdirektion in geeigneter Form zur Kenntnis zu bringen.
 
@@ -738,7 +737,7 @@ beschliesst:
 
 **Abgeltungen 1. Wildschadenverhütung**
 
-<sup>1</sup> Wo sich die erforderliche Waldverjüngung von standorts- und zukunftstauglichen Baumarten trotz jagdlicher und waldbaulicher Massnahmen nicht erreichen lässt, werden die Kosten für technische Massnahmen zur Wildschadenverhütung im Rahmen des Voranschlags übernommen, soweit die Arbeitsleistungen der Jägerschaft und die aus dem kantonalen Wildschadenfonds stammenden Mittel nicht ausreichen.
+<sup>1</sup> Wo sich die erforderliche Waldverjüngung von standorts- und zukunftstauglichen Baumarten trotz jagdlicher und waldbaulicher Massnahmen nicht erreichen lässt, werden die Kosten für technische Massnahmen zur Wildschadenverhütung im Rahmen des Budgets übernommen, soweit die Arbeitsleistungen der Jägerschaft und die aus dem kantonalen Wildschadenfonds stammenden Mittel nicht ausreichen.
 
 #### Art. 47a
 
