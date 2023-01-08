@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur l'adjonction de vitamines, de
 short: OASM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/161"
 language: fr
-version: 2022-07-01
+version: 2023-01-09
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-161-20220701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20230109/fr/xml/fedlex-data-admin-ch-eli-cc-2017-161-20230109-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230109/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20220701/fr"
 
 (OASM)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2022)
+du 16 décembre 2016 (État le 9 janvier 2023)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -132,9 +132,11 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
 <sup>1</sup> L’adjonction de fluorure, d’iodure ou d’iodate au sel comestible est admise pour autant qu’elle se justifie sur le plan de la santé publique.
 
-<sup>2</sup> Le sel comestible additionné de fluorure doit contenir, par kilogramme, au maximum 250 mg de fluorure, calculé en fluor.
+<sup>2</sup> Le sel comestible additionné de fluorure doit contenir, par kilogramme, 250 mg de fluorure, calculé en fluor.[^5-1]
 
 <sup>3</sup> Le sel comestible additionné d’iodure ou d’iodate doit contenir, par kilogramme, 20 à 40 mg d’iodure ou d’iodate, calculé en iode.
+
+[^5-1]: Erratum du 9 janv. 2023 ([RO 2023 7](https://fedlex.data.admin.ch/eli/oc/2023/7)).
 
 #### Art. 6
 
@@ -180,7 +182,7 @@ Pour le sel comestible, les mentions suivantes sont admises:
 
 L’ordonnance du DFI du 23 novembre 2005 sur l’addition de substances essentielles ou physiologiquement utiles aux denrées alimentaires[^8-1] est abrogée.
 
-[^8-1]: [[RO 2005 6345](https://fedlex.data.admin.ch/eli/oc/2005/807), [2008 1049](https://fedlex.data.admin.ch/eli/oc/2008/205), [2009 2305](https://fedlex.data.admin.ch/eli/oc/2009/287), [2010 4659](https://fedlex.data.admin.ch/eli/oc/2010/675), [2013 5285](https://fedlex.data.admin.ch/eli/oc/2013/843)]
+[^8-1]: [[RO 2005 6345](https://fedlex.data.admin.ch/eli/oc/2005/807); [2008 1049](https://fedlex.data.admin.ch/eli/oc/2008/205); [2009 2305](https://fedlex.data.admin.ch/eli/oc/2009/287); [2010 4659](https://fedlex.data.admin.ch/eli/oc/2010/675); [2013 5285](https://fedlex.data.admin.ch/eli/oc/2013/843)]
 
 #### Art. 8a
 
@@ -196,7 +198,7 @@ Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuven
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2, al. 2, let. a, et 5, et 4, al. 1 et 2)
 
@@ -206,7 +208,7 @@ Annexe 1*[^t-1]*
 
 <table>
 <tr><th>Substance</th><th>Quantité maximale par ration journalière</th><th>Conditions d’utilisation</th></tr>
-<tr><td>**1 Vitamines**</td><td></td><td></td></tr>
+<tr><td>1 Vitamines</td><td></td><td></td></tr>
 <tr><td>Vitamine A</td><td>450 µg[^annex1-lvlu1-1] (correspond à 2,7 mg de bêta-carotène)</td><td>Uniquement sous forme de bêta-carotène</td></tr>
 <tr><td>Vitamine D</td><td>23 µg</td><td></td></tr>
 <tr><td>Vitamine E</td><td>68 mg</td><td></td></tr>
@@ -220,7 +222,7 @@ Annexe 1*[^t-1]*
 <tr><td>Vitamine B12</td><td>Aucune</td><td></td></tr>
 <tr><td>Biotine</td><td>Aucune</td><td></td></tr>
 <tr><td>Acide pantothénique</td><td>Aucune</td><td></td></tr>
-<tr><td>**2 Sels minéraux**</td><td></td><td></td></tr>
+<tr><td>2 Sels minéraux</td><td></td><td></td></tr>
 <tr><td>Calcium</td><td>250 mg</td><td></td></tr>
 <tr><td></td><td>700 mg</td><td>Uniquement dans les succédanés du lait ou de produits laitiers</td></tr>
 <tr><td>Phosphore</td><td>Uniquement sous forme d’ions d’accompagnement</td><td></td></tr>
@@ -239,7 +241,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]: Équivalents de rétinol, facteur de conversion: bêta-carotène = 6 × équivalents de rétinol
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, al. 2<sup>bis</sup> et 5, et 4, al. 3)
 
@@ -264,7 +266,7 @@ Les denrées alimentaires énumérées ci-après ne peuvent faire l’objet d’
 - 2\. eau potable;
 - 3\. boissons titrant plus de 1,2 % vol. d’alcool.
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 2, al. 4)
 
@@ -279,7 +281,7 @@ Les substances suivantes ne doivent pas être ajoutées aux denrées alimentaire
 - 3\. mélatonine
 - 4\. *Monascus purpureus*
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 (art. 3, al. 2)
 
@@ -293,17 +295,17 @@ Annexe 5*[^t-4]*
 
 ### 1 Vitamines
 
-**1.1 Vitamine A**
+**1.1** **Vitamine A**
 
 Bêta-carotène
 
-**1.2 Vitamine D**
+**1.2** **Vitamine D**
 
 Vitamine D3 ou cholécalciférol
 
 Vitamine D2 ou ergocalciférol
 
-**1.3 Vitamine E**
+**1.3** **Vitamine E**
 
 D-alpha-tocophérol
 
@@ -315,7 +317,7 @@ Acétate de DL-alpha-tocophéryl
 
 succinate acide de D-alpha-tocophéryl
 
-**1.4 Vitamine C**
+**1.4** **Vitamine C**
 
 Acide L-ascorbique
 
@@ -327,29 +329,29 @@ L-Ascorbate de potassium
 
 L-Ascorbyl-6-palmitate
 
-**1.5 Vitamine K**
+**1.5** **Vitamine K**
 
 Phylloquinone ou phytoménadione
 
-Ménaquinone[^annex6-lvlu1-lvl1-1]
+Ménaquinone[^annex5-lvlu1-lvl1-1]
 
-**1.6 Vitamine B****<sub>1</sub>**
+**1.6** **Vitamine B****<sub>1</sub>**
 
 Chlorhydrate de thiamine
 
 Nitrate de thiamine
 
-**1.7 Vitamine B****<sub>2</sub>**
+**1.7** **Vitamine B****<sub>2</sub>**
 
 Riboflavine
 
 Riboflavine-5’-phosphate de sodium
 
-**1.8 Niacine**
+**1.8** **Niacine**
 
 Nicotinamide
 
-**1.9 Vitamine B****<sub>6</sub>**
+**1.9** **Vitamine B****<sub>6</sub>**
 
 Chlorhydrate de pyridoxine
 
@@ -357,23 +359,23 @@ Pyridoxine-5’-phosphate
 
 Dipalmitate de pyridoxine
 
-**1.10 Acide folique**
+**1.10** **Acide folique**
 
 Acide ptéroylglutamique
 
 Calcium-L-méthylfolate
 
-**1.11 Vitamine B****<sub>12</sub>**
+**1.11** **Vitamine B****<sub>12</sub>**
 
 Cyanocobalamine
 
 Hydroxocobalamine
 
-**1.12 Biotine**
+**1.12** **Biotine**
 
 D-Biotine
 
-**1.13 Acide pantothénique**
+**1.13** **Acide pantothénique**
 
 Sodium-D-pantothénate
 
@@ -381,11 +383,11 @@ Sodium-D-pantothénate
 
 D-Panthénol
 
-[^annex6-lvlu1-lvl1-1]: On trouve la ménaquinone principalement sous forme de ménaquinone-7 et dans une moindre mesure sous forme de ménaquinone-6.
+[^annex5-lvlu1-lvl1-1]: On trouve la ménaquinone principalement sous forme de ménaquinone-7 et dans une moindre mesure sous forme de ménaquinone-6.
 
 ### 2 Sels minéraux
 
-**2.1 Calcium**
+**2.1** **Calcium**
 
 Carbonate de calcium
 
@@ -413,9 +415,9 @@ Sulfate de calcium
 
 Oligosaccharides phosphorylés de calcium
 
-Algues rouges calcaires ou maërl[^annex6-lvlu1-lvl2-1]
+Algues rouges calcaires ou maërl[^annex5-lvlu1-lvl2-1]
 
-**2.2 Fer**
+**2.2** **Fer**
 
 Bisglycinate ferreux
 
@@ -445,7 +447,7 @@ Saccharate ferrique
 
 Fer élémentaire (somme du fer carbonylique, du fer électrolytique et du fer réduit à l’hydrogène)
 
-**2.3 Magnésium**
+**2.3** **Magnésium**
 
 Acétate de magnésium
 
@@ -471,7 +473,7 @@ Citrate magnésium-potassium
 
 Sulfate de magnésium
 
-**2.4 Zinc**
+**2.4** **Zinc**
 
 Acétate de zinc
 
@@ -491,7 +493,7 @@ Oxyde de zinc
 
 Sulfate de zinc
 
-**2.5 Iode**
+**2.5** **Iode**
 
 Iodure de potassium
 
@@ -501,9 +503,9 @@ Iodure de sodium
 
 Iodate de sodium
 
-**2.6 Sélénium**
+**2.6** **Sélénium**
 
-Levure enrichie au sélénium[^annex6-lvlu1-lvl2-2]
+Levure enrichie au sélénium[^annex5-lvlu1-lvl2-2]
 
 Sélénate de sodium
 
@@ -511,7 +513,7 @@ Hydrogénosélénite de sodium
 
 Sélénite de sodium
 
-**2.7 Cuivre**
+**2.7** **Cuivre**
 
 Carbonate de cuivre
 
@@ -523,7 +525,7 @@ Sulfate de cuivre
 
 Complexe cuivre-lysine
 
-**2.8 Manganèse**
+**2.8** **Manganèse**
 
 Carbonate de manganèse
 
@@ -537,7 +539,7 @@ Glycéro-phosphate de manganèse
 
 Sulfate de manganèse
 
-**2.9 Chrome**
+**2.9** **Chrome**
 
 Chlorure de chrome (III) et sa forme hexahydratée
 
@@ -547,13 +549,13 @@ Picolinate de chrome
 
 Lactate de chrome (III) trihydraté
 
-**2.10 Molybdène**
+**2.10** **Molybdène**
 
 Molybdate d’ammonium (molybdène [VI])
 
 Molybdate de sodium (molybdène [VI])
 
-**2.11 Potassium**
+**2.11** **Potassium**
 
 Bicarbonate de potassium
 
@@ -573,8 +575,8 @@ Hydroxyde de potassium
 
 Sels potassiques de l’acide orthophosphorique
 
-[^annex6-lvlu1-lvl2-1]: Algues calcifiées des genres *Lithothamnium* *corallioides* et *Phymatolithon calcareum* ou leurs mélanges
-[^annex6-lvlu1-lvl2-2]: Espèces de levures obtenues par culture en présence de sélénite de sodium comme source de sélénium et qui ne contient pas plus de 2,5 mg Se/g sous la forme séchée vendue dans le commerce. L’espèce prédominante de sélénium organique présente dans la levure est la sélénométhionine, qui constitue entre 60 et 85 % de la totalité du sélénium extrait dans le produit. La teneur en d’autres composés contenant du sélénium organique, notamment la sélénocystéine, ne peut dépasser 10 % du total du sélénium extrait. Les teneurs en sélénium inorganique ne peuvent généralement dépasser 1 % du total du sélénium extrait.
+[^annex5-lvlu1-lvl2-1]: Algues calcifiées des genres *Lithothamnium* *corallioides* et *Phymatolithon calcareum* ou leurs mélanges
+[^annex5-lvlu1-lvl2-2]: Espèces de levures obtenues par culture en présence de sélénite de sodium comme source de sélénium et qui ne contient pas plus de 2,5 mg Se/g sous la forme séchée vendue dans le commerce. L’espèce prédominante de sélénium organique présente dans la levure est la sélénométhionine, qui constitue entre 60 et 85 % de la totalité du sélénium extrait dans le produit. La teneur en d’autres composés contenant du sélénium organique, notamment la sélénocystéine, ne peut dépasser 10 % du total du sélénium extrait. Les teneurs en sélénium inorganique ne peuvent généralement dépasser 1 % du total du sélénium extrait.
 
 Annexe 6
 
@@ -594,7 +596,7 @@ Annexe 6
   - a. *espèce:* hybridation ADN-ADN ou analyse des séquences géniques ARNr 16S,
   - b. *souche:* méthode de biologie moléculaire reconnue internationalement telle que les techniques de l’empreinte digitale PFGE ou RAPD.
 
-Annexe 7*[^t-5]*
+Annexe 7[^t-5]
 
 (art. 4, al. 1 à 3 et 5)
 
@@ -603,7 +605,7 @@ Annexe 7*[^t-5]*
 [^t-5]: Mise à jour par l’erratum du 6 fév. 2018 ([RO 2018 551](https://fedlex.data.admin.ch/eli/oc/2018/70)) et le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
 
 <table>
-<tr><td>Denrées alimentaires</td><td>Ration quotidienne en g[^annex8-lvlu1-1]</td></tr>
+<tr><td>Denrées alimentaires</td><td>Ration quotidienne en g[^annex7-lvlu1-1]</td></tr>
 <tr><td>Lait et boissons laitières de toutes les catégories de teneur en matière grasse</td><td>500</td></tr>
 <tr><td>Laits acidulés, toutes catégories</td><td>250</td></tr>
 <tr><td>Fromage, produits à base de fromage</td><td>100</td></tr>
@@ -630,8 +632,8 @@ Annexe 7*[^t-5]*
 <tr><td>Thé, infusions de plantes ou de fruits et boissons chaudes analogues</td><td>500</td></tr>
 </table>
 
-[^annex8-lvlu1-1]: Des écarts sont possibles si le fabricant peut les justifier sous l’angle nutritionnel et physiologique.
+[^annex7-lvlu1-1]: Des écarts sont possibles si le fabricant peut les justifier sous l’angle nutritionnel et physiologique.
 
-Annexe 8*[^t-6]*
+Annexe 8[^t-6]
 
 [^t-6]: Abrogée par le ch. II al. 3 de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).

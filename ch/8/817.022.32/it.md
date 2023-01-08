@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sull'aggiunta di vitamine, sali m
 short: OAVM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/161"
 language: it
-version: 2022-07-01
+version: 2023-01-09
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2017-161-20220701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20230109/it/xml/fedlex-data-admin-ch-eli-cc-2017-161-20230109-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230109/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20220701/it"
 
 (OAVM)
 
-del 16 dicembre 2016 (Stato 1° luglio 2022)
+del 16 dicembre 2016 (Stato 9 gennaio 2023)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -132,9 +132,11 @@ Su richiesta motivata, l’Ufficio federale della sicurezza alimentare e di vete
 
 <sup>1</sup> Al sale commestibile possono essere aggiunti fluoruri, ioduri o iodati, sempre che ciò sia indicato per motivi di salute pubblica.
 
-<sup>2</sup> Il sale commestibile cui sono stati aggiunti fluoruri deve contenere 250 mg di fluoruro, calcolato come fluoro, per kg di sale.
+<sup>2</sup> Il sale commestibile cui sono stati aggiunti fluoruri deve contenere 250 mg di fluoruro, calcolato come fluoro, per kg di sale.[^5-1]
 
 <sup>3</sup> Il sale commestibile cui sono stati aggiunti ioduri o iodati deve contenere 20–40 mg di ioduro o iodato, calcolato come iodio, per kg di sale.
+
+[^5-1]: La correzione del 16 dic. 2022 concerne soltanto il testo francese ([RU 2023 7](https://fedlex.data.admin.ch/eli/oc/2023/7)).
 
 #### Art. 6
 
@@ -196,7 +198,7 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 La presente ordinanza entra in vigore il 1° maggio 2017.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 cpv. 2 lett. a e 5 nonché 4 cpv. 1 e 2)
 
@@ -206,7 +208,7 @@ Allegato 1*[^t-1]*
 
 <table>
 <tr><th>Sostanza</th><th>Quantità massima per razione giornaliera</th><th>Condizioni d’impiego</th></tr>
-<tr><td>**1 Vitamine**</td><td></td><td></td></tr>
+<tr><td>1 Vitamine</td><td></td><td></td></tr>
 <tr><td>Vitamina A</td><td>450 µg[^annexu1-lvlu1-1] (corrisponde a 2,7 mg di beta-carotene)</td><td>Solo come beta-carotene</td></tr>
 <tr><td>Vitamina D</td><td>23 µg</td><td></td></tr>
 <tr><td>Vitamina E</td><td>68 mg</td><td></td></tr>
@@ -220,7 +222,7 @@ Allegato 1*[^t-1]*
 <tr><td>Vitamina B<sub>12</sub></td><td>nessuna</td><td></td></tr>
 <tr><td>Biotina</td><td>nessuna</td><td></td></tr>
 <tr><td>Acido pantotenico</td><td>nessuna</td><td></td></tr>
-<tr><td>**2 Sali minerali**</td><td></td><td></td></tr>
+<tr><td>2 Sali minerali</td><td></td><td></td></tr>
 <tr><td>Calcio</td><td>250 mg</td><td></td></tr>
 <tr><td></td><td>700 mg</td><td>Solo succedanei di latte e latticini</td></tr>
 <tr><td>Fosforo</td><td>Solo come ione di accompagnamento</td><td></td></tr>
@@ -239,7 +241,7 @@ Allegato 1*[^t-1]*
 
 [^annexu1-lvlu1-1]: Retinolo equivalente, fattore di conversione: beta-carotene = 6 × retinolo equivalente
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 cpv. 2<sup>bis</sup> e 5 nonché 4 cpv. 3)
 
@@ -264,7 +266,7 @@ Alle seguenti derrate alimentari non possono essere aggiunti vitamine, sali mine
 - 2\. acqua potabile;
 - 3\. bevande con un tenore alcolico superiore all’1,2 per cento in volume.
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 2 cpv. 4)
 
@@ -279,7 +281,7 @@ Le seguenti sostanze non possono essere aggiunte alle derrate alimentari:
 - 3\. Melatonina
 - 4\. *Monascus purpureus*
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 3 cpv. 2)
 
@@ -293,17 +295,17 @@ Allegato 5*[^t-4]*
 
 ### 1 Vitamine
 
-**1.1 Vitamina A**
+**1.1** **Vitamina A**
 
 Beta-carotene
 
-**1.2 Vitamina D**
+**1.2** **Vitamina D**
 
 Vitamina D3 o colecalciferolo
 
 Vitamina D2 o ergocalciferolo
 
-**1.3 Vitamina E**
+**1.3** **Vitamina E**
 
 D-alfa-tocoferolo
 
@@ -315,7 +317,7 @@ DL-alfa-tocoferilacetato
 
 D-alfa-tocoferil succinato
 
-**1.4 Vitamina C**
+**1.4** **Vitamina C**
 
 Acido L-ascorbico
 
@@ -327,29 +329,29 @@ L-ascorbato di potassio
 
 6-palmitato di L-ascorbile
 
-**1.5 Vitamina K**
+**1.5** **Vitamina K**
 
 Fillochinone o fitomenadione
 
-Menachinone[^annex4-lvlu1-lvl1-1]
+Menachinone[^annex3-lvlu1-lvl1-1]
 
-**1.6 Vitamina B****<sub>1</sub>**
+**1.6** **Vitamina B****<sub>1</sub>**
 
 Tiamina cloridrato
 
 Tiamina mononitrato
 
-**1.7 Vitamina B****<sub>2</sub>**
+**1.7** **Vitamina B****<sub>2</sub>**
 
 Riboflavina
 
 Riboflavina-5’-fosfato di sodio
 
-**1.8 Niacina**
+**1.8** **Niacina**
 
 Nicotinamide
 
-**1.9 Vitamina B****<sub>6</sub>**
+**1.9** **Vitamina B****<sub>6</sub>**
 
 Piridossina cloridrato
 
@@ -357,23 +359,23 @@ Piridossina-5’-fosfato
 
 Dipalmitato di piridossina
 
-**1.10 Acido folico**
+**1.10** **Acido folico**
 
 Acido pteroilglutammico
 
 L-metil-folato di calcio
 
-**1.11 Vitamina B****<sub>12</sub>**
+**1.11** **Vitamina B****<sub>12</sub>**
 
 Cianocobalamina
 
 Idrossocobalamina
 
-**1.12 Biotina**
+**1.12** **Biotina**
 
 D-biotina
 
-**1.13 Acido pantotenico**
+**1.13** **Acido pantotenico**
 
 D-pantotenato di calcio
 
@@ -381,11 +383,11 @@ D-pantotenato di sodio
 
 D-pantenolo
 
-[^annex4-lvlu1-lvl1-1]: Il menachinone si presenta principalmente sotto forma di menachinone-7 e, in minor misura, di menachinone-6.
+[^annex3-lvlu1-lvl1-1]: Il menachinone si presenta principalmente sotto forma di menachinone-7 e, in minor misura, di menachinone-6.
 
 ### 2 Sali minerali
 
-**2.1 Calcio**
+**2.1** **Calcio**
 
 Carbonato di calcio
 
@@ -413,9 +415,9 @@ Solfato di calcio
 
 Oligosaccaridi di fosforil e calcio
 
-Alghe rosse calcaree o maerl[^annex4-lvlu1-lvl2-1]
+Alghe rosse calcaree o maerl[^annex3-lvlu1-lvl2-1]
 
-**2.2 Ferro**
+**2.2** **Ferro**
 
 Bisglicinato ferroso
 
@@ -447,7 +449,7 @@ Ferro elementare
 
 (elettrolitico, carbonile o riduzione con idrogeno)
 
-**2.3 Magnesio**
+**2.3** **Magnesio**
 
 Acetato di magnesio
 
@@ -473,7 +475,7 @@ Citrato di potassio e magnesio
 
 Solfato di magnesio
 
-**2.4 Zinco**
+**2.4** **Zinco**
 
 Acetato di zinco
 
@@ -493,7 +495,7 @@ Ossido di zinco
 
 Solfato di zinco
 
-**2.5 Iodio**
+**2.5** **Iodio**
 
 Ioduro di potassio
 
@@ -503,9 +505,9 @@ Ioduro di sodio
 
 Iodato di sodio
 
-**2.6 Selenio**
+**2.6** **Selenio**
 
-Lievito arricchito di selenio[^annex4-lvlu1-lvl2-2]
+Lievito arricchito di selenio[^annex3-lvlu1-lvl2-2]
 
 Selenato di sodio
 
@@ -513,7 +515,7 @@ Idrogenoselenito di sodio
 
 Selenito di sodio
 
-**2.7 Rame**
+**2.7** **Rame**
 
 Carbonato rameico
 
@@ -525,7 +527,7 @@ Solfato di rame
 
 Complesso rame-lisina
 
-**2.8 Manganese**
+**2.8** **Manganese**
 
 Carbonato di manganese
 
@@ -539,7 +541,7 @@ Glicerofosfato di manganese
 
 Solfato di manganese
 
-**2.9 Cromo**
+**2.9** **Cromo**
 
 Cloruro di cromo (III) e il suo esaidrato
 
@@ -549,13 +551,13 @@ Picolinato di cromo
 
 Cromo (III) lattato triidrato
 
-**2.10 Molibdeno**
+**2.10** **Molibdeno**
 
 Molibdato di ammonio (molibdeno [VI])
 
 Molibdato di sodio (molibdeno [VI])
 
-**2.11 Potassio**
+**2.11** **Potassio**
 
 Bicarbonato di potassio
 
@@ -575,8 +577,8 @@ Idrossido di potassio
 
 Sali di potassio dell’acido ortofosforico
 
-[^annex4-lvlu1-lvl2-1]: Alghe calcificate delle specie *Lithothamnium corallioides* e *Phymatolithon calcareum* oppure loro miscele.
-[^annex4-lvlu1-lvl2-2]: Lieviti arricchiti di selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 % e l’85 % del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non può superare il 10 % del tenore complessivo di selenio estratto. I livelli di selenio inorganico non possono superare normalmente l’1 % del tenore complessivo di selenio estratto.
+[^annex3-lvlu1-lvl2-1]: Alghe calcificate delle specie *Lithothamnium corallioides* e *Phymatolithon calcareum* oppure loro miscele.
+[^annex3-lvlu1-lvl2-2]: Lieviti arricchiti di selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 % e l’85 % del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non può superare il 10 % del tenore complessivo di selenio estratto. I livelli di selenio inorganico non possono superare normalmente l’1 % del tenore complessivo di selenio estratto.
 
 Allegato 6
 
@@ -596,7 +598,7 @@ Allegato 6
   - a. *Species:* ibridazione DNA-DNA oppure analisi della sequenza dell’rRNA 16S.,
   - b. *ceppi:* metodi di biologia molecolare internazionalmente accettati come le procedure di fingerprint PFGE o RAPD.
 
-Allegato 7*[^t-5]*
+Allegato 7[^t-5]
 
 (art. 4 cpv. 1–3 e 5)
 
@@ -605,7 +607,7 @@ Allegato 7*[^t-5]*
 [^t-5]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
 
 <table>
-<tr><td>Derrate alimentari</td><td>Razione giornaliera in g[^annex6-lvlu1-1]</td></tr>
+<tr><td>Derrate alimentari</td><td>Razione giornaliera in g[^annex5-lvlu1-1]</td></tr>
 <tr><td>Latte e bevande a base di latte di tutte le categorie di tenori di grasso</td><td>500</td></tr>
 <tr><td>Latti aciduli</td><td>250</td></tr>
 <tr><td>Formaggi, preparazioni di formaggi</td><td>100</td></tr>
@@ -632,8 +634,8 @@ Allegato 7*[^t-5]*
 <tr><td>Tè, tè di erbe e tè di frutti nonché bevande calde simili</td><td>500</td></tr>
 </table>
 
-[^annex6-lvlu1-1]: Sono possibili divergenze, se il fabbricante può motivarle sul piano nutritivo-fisiologico.
+[^annex5-lvlu1-1]: Sono possibili divergenze, se il fabbricante può motivarle sul piano nutritivo-fisiologico.
 
-Allegato 8*[^t-6]*
+Allegato 8[^t-6]
 
 [^t-6]: Abrogato dal n. II cpv. 3 dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).

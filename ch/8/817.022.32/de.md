@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 16. Dezember 2016 über den Zusatz von Vitaminen,
 short: VZVM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/161"
 language: de
-version: 2022-07-01
+version: 2023-01-09
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2017-161-20220701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/161/20230109/de/xml/fedlex-data-admin-ch-eli-cc-2017-161-20230109-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20230109/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/161/20220701/de"
 
 (VZVM)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2022)
+vom 16. Dezember 2016 (Stand am 9. Januar 2023)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -132,9 +132,11 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) kann auf beg
 
 <sup>1</sup> Speisesalz dürfen Fluoride, Iodide oder Iodate zugesetzt werden, soweit dies aus Gründen der Volksgesundheit angezeigt ist.
 
-<sup>2</sup> Speisesalz, dem Fluoride zugesetzt worden sind, muss pro Kilogramm Salz 250 mg Fluorid, berechnet als Fluor, enthalten.
+<sup>2</sup> Speisesalz, dem Fluoride zugesetzt worden sind, muss pro Kilogramm Salz 250 mg Fluorid, berechnet als Fluor, enthalten.[^5-1]
 
 <sup>3</sup> Speisesalz, dem Iodide oder Iodate zugesetzt worden sind, muss pro Kilogramm Salz 20–40 mg Iodid oder Iodat, berechnet als Iod, enthalten.
+
+[^5-1]: Die Berichtigung vom 9. Jan. 2023 betrifft nur den französiischen Text ([AS 2023 7](https://fedlex.data.admin.ch/eli/oc/2023/7)).
 
 #### Art. 6
 
@@ -196,7 +198,7 @@ Lebensmittel, die der Änderung vom 27. Mai 2020 nicht entsprechen, dürfen noch
 
 Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 2 Bst. a und 5 sowie 4 Abs. 1 und 2)
 
@@ -206,7 +208,7 @@ Anhang 1*[^t-1]*
 
 <table>
 <tr><th>Stoff</th><th>Höchstmenge pro Tagesration</th><th>Verwendungsbedingungen</th></tr>
-<tr><td>**1 Vitamine**</td><td></td><td></td></tr>
+<tr><td>1 Vitamine</td><td></td><td></td></tr>
 <tr><td>Vitamin A</td><td>450 µg[^annex1-lvlu1-1] (entspricht 2.7 mg Beta-Carotin)</td><td>Nur als Beta-Carotin</td></tr>
 <tr><td>Vitamin D</td><td>23 µg</td><td></td></tr>
 <tr><td>Vitamin E</td><td>68 mg</td><td></td></tr>
@@ -220,7 +222,7 @@ Anhang 1*[^t-1]*
 <tr><td>Vitamin B<sub>12</sub></td><td>keine</td><td></td></tr>
 <tr><td>Biotin</td><td>keine</td><td></td></tr>
 <tr><td>Pantothensäure</td><td>keine</td><td></td></tr>
-<tr><td>**2 Mineralstoffe**</td><td></td><td></td></tr>
+<tr><td>2 Mineralstoffe</td><td></td><td></td></tr>
 <tr><td>Calcium</td><td>250 mg</td><td></td></tr>
 <tr><td></td><td>700 mg</td><td>Nur Ersatzprodukte für Milch und Milchprodukte</td></tr>
 <tr><td>Phosphor</td><td>Nur als Begleition</td><td></td></tr>
@@ -239,7 +241,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]: Retinol-Äquivalente, Umrechnungsfaktor: Beta-Carotin = 6 × Retinol-Äquivalente
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 Abs. 2<sup>bis</sup> und 5 sowie 4 Abs. 3)
 
@@ -264,7 +266,7 @@ Folgenden Lebensmitteln dürfen keine Vitamine, Mineralstoffe oder bestimmte and
 - 2\. Trinkwasser;
 - 3\. Getränken mit einem Alkoholgehalt von mehr als 1,2 % vol.
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 2 Abs. 4)
 
@@ -279,7 +281,7 @@ Folgende Stoffe dürfen Lebensmitteln nicht zugesetzt werden:
 - 3\. Melatonin
 - 4\. *Monascus purpureus*
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
 (Art. 3 Abs. 2)
 
@@ -293,17 +295,17 @@ Anhang 5*[^t-4]*
 
 ### 1 Vitamine
 
-**1.1 Vitamin A**
+**1.1** **Vitamin A**
 
 Beta-Carotin
 
-**1.2 Vitamin D**
+**1.2** **Vitamin D**
 
 Vitamin D3 oder Cholecalciferol
 
 Vitamin D2 oder Ergocalciferol
 
-**1.3 Vitamin E**
+**1.3** **Vitamin E**
 
 D-alpha-Tocopherol
 
@@ -315,7 +317,7 @@ DL-alpha-Tocopherylacetat
 
 D-alpha-Tocopherylsäuresuccinat
 
-**1.4 Vitamin C**
+**1.4** **Vitamin C**
 
 L-Ascorbinsäure
 
@@ -327,29 +329,29 @@ Kalium-L-ascorbat
 
 L-Ascorbyl-6-palmitat
 
-**1.5 Vitamin K**
+**1.5** **Vitamin K**
 
 Phylloquinon oder Phytomenadion
 
 Menachinon[^annex5-lvlu1-lvl1-1]
 
-**1.6 Vitamin B****<sub>1</sub>**
+**1.6** **Vitamin B****<sub>1</sub>**
 
 Thiaminhydrochlorid
 
 Thiaminmononitrat
 
-**1.7 Vitamin B****<sub>2</sub>**
+**1.7** **Vitamin B****<sub>2</sub>**
 
 Riboflavin
 
 Riboflavin-5’-phosphat-Natrium
 
-**1.8 Niacin**
+**1.8** **Niacin**
 
 Nicotinamid
 
-**1.9 Vitamin B****<sub>6</sub>**
+**1.9** **Vitamin B****<sub>6</sub>**
 
 Pyridoxinhydrochlorid
 
@@ -357,23 +359,23 @@ Pyridoxin-5’-phosphat
 
 Pyridoxindipalmitat
 
-**1.10 Folsäure**
+**1.10** **Folsäure**
 
 Pteroylglutaminsäure
 
 Calcium-L-methylfolat
 
-**1.11 Vitamin B****<sub>12</sub>**
+**1.11** **Vitamin B****<sub>12</sub>**
 
 Cyanocobalamin
 
 Hydroxocobalamin
 
-**1.12 Biotin**
+**1.12** **Biotin**
 
 D-Biotin
 
-**1.13 Pantothensäure**
+**1.13** **Pantothensäure**
 
 Calcium-D-pantothenat
 
@@ -385,7 +387,7 @@ D-Panthenol2
 
 ### 2. Mineralstoffe
 
-**2.1 Calcium**
+**2.1** **Calcium**
 
 Calciumcarbonat
 
@@ -415,7 +417,7 @@ Calcium-Phosphoryl-Oligosaccharide
 
 Calciumhaltige Rotalgen oder Maerl[^annex5-lvlu1-lvl2-1]
 
-**2.2 Eisen**
+**2.2** **Eisen**
 
 Eisenbisglycinat
 
@@ -445,7 +447,7 @@ Eisensaccharat
 
 elementares Eisen (elektrolytisch, carbonyl- oder wasserstoffreduziert)
 
-**2.3 Magnesium**
+**2.3** **Magnesium**
 
 Magnesiumacetat
 
@@ -471,7 +473,7 @@ Magnesiumkaliumcitrat
 
 Magnesiumsulfat
 
-**2.4 Zink**
+**2.4** **Zink**
 
 Zinkacetat
 
@@ -491,7 +493,7 @@ Zinkoxid
 
 Zinksulfat
 
-**2.5 Iod**
+**2.5** **Iod**
 
 Kaliumiodid
 
@@ -501,7 +503,7 @@ Natriumiodid
 
 Natriumiodat
 
-**2.6 Selen**
+**2.6** **Selen**
 
 Selen-angereicherte Hefe[^annex5-lvlu1-lvl2-2]
 
@@ -511,7 +513,7 @@ Natriumhydrogenselenit
 
 Natriumselenit
 
-**2.7 Kupfer**
+**2.7** **Kupfer**
 
 Kupfercarbonat
 
@@ -523,7 +525,7 @@ Kupfersulfat
 
 Kupfer-Lysinkomplex
 
-**2.8 Mangan**
+**2.8** **Mangan**
 
 Mangancarbonat
 
@@ -537,7 +539,7 @@ Manganglycerophosphat
 
 Mangansulfat
 
-**2.9 Chrom**
+**2.9** **Chrom**
 
 Chrom(III)-chlorid und sein Hexahydrat
 
@@ -547,13 +549,13 @@ Chrompicolinat
 
 Chrom(III)-lactattrihydrat
 
-**2.10 Molybdän**
+**2.10** **Molybdän**
 
 Ammoniummolybdat (Molybdän [VI])
 
-Natriummolybdat (Molybdän [VI])
+Natriummolybdat (Molybdän [VI]
 
-**2.11 Kalium**
+**2.11** **Kalium**
 
 Kaliumbicarbonat
 
@@ -630,6 +632,6 @@ Anhang 7
 
 [^annex7-lvlu1-1]: Abweichungen sind möglich, wenn der Hersteller diese ernährungsphysiologisch begründen kann.
 
-Anhang 8*[^t-5]*
+Anhang 8[^t-5]
 
 [^t-5]: Aufgehoben durch Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2389](https://fedlex.data.admin.ch/eli/oc/2020/454)).
