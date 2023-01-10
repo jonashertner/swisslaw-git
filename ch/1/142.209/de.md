@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über die Gebühren zum Ausländer- und 
 short: GebV-AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: de
-version: 2021-11-05
+version: 2023-01-11
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20211105/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20211105-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20211105/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230111/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230111-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230111/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20211105/de"
 
 (Gebührenverordnung AIG, GebV-AIG)
 
-vom 24. Oktober 2007 (Stand am 5. November 2021)
+vom 24. Oktober 2007 (Stand am 11. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -215,7 +215,7 @@ Das SEM oder das EDA, im Rahmen seiner Zuständigkeit im Bereich Visa, kann in E
 - a. dies der Förderung kultureller oder sportlicher Interessen oder aussenpolitischer, entwicklungspolitischer und sonstiger erheblicher öffentlicher Interessen der Schweiz dient; oder
 - b. humanitäre Gründe oder internationale Verpflichtungen bestehen.[^12-4]
 
-<sup>3</sup> …[^12-5]
+<sup>3</sup> Das SEM oder das EDA, im Rahmen seiner Zuständigkeit im Bereich Visa, kann gegenüber von Staatsangehörigen bestimmter Staaten die Visumgebühr erhöhen, wenn ein internationales Abkommen dies vorsieht.[^12-5]
 
 <sup>4</sup> Vorbehalten bleiben Visumgebühren, die in internationalen Abkommen festgelegt sind.
 
@@ -225,7 +225,7 @@ Das SEM oder das EDA, im Rahmen seiner Zuständigkeit im Bereich Visa, kann in E
 [^12-2]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
 [^12-3]: Fassung gemäss Anhang Ziff. 1 der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^12-4]: Fassung gemäss Anhang Ziff. 1 der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^12-5]: Aufgehoben durch Ziff. II der V vom 12. März 2010, mit Wirkung seit 5. April 2010 ([AS 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
+[^12-5]: Fassung gemäss Ziff. I der V vom 11. Jan. 2023, in Kraft seit 11. Jan. 2023 um 18.00 Uhr ([AS 2023 10](https://fedlex.data.admin.ch/eli/oc/2023/10)).
 
 #### Art. 13
 

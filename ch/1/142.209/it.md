@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sugli emolumenti della legge federale sugl
 short: OEmol-LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: it
-version: 2021-11-05
+version: 2023-01-11
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20211105/it/xml/fedlex-data-admin-ch-eli-cc-2007-763-20211105-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20211105/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230111/it/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230111-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230111/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20211105/it"
 
 (Ordinanza sugli emolumenti LStrI, OEmol-LStrI)
 
-del 24 ottobre 2007 (Stato 5 novembre 2021)
+del 24 ottobre 2007 (Stato 11 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -215,7 +215,7 @@ Nell’ambito della sua competenza in materia di visti la SEM o il DFAE può, in
 - a. al fine di promuovere interessi culturali o sportivi oppure interessi in materia di politica estera, di politica di sviluppo o altri importanti interessi pubblici della Svizzera; o
 - b. per motivi umanitari o per ossequiare obblighi internazionali.[^12-4]
 
-<sup>3</sup> …[^12-5]
+<sup>3</sup> Nell’ambito della sua competenza in materia di visti la SEM o il DFAE può aumentare gli emolumenti per i cittadini di determinati Stati qualora un accordo internazionale lo preveda.[^12-5]
 
 <sup>4</sup> Sono fatti salvi gli emolumenti previsti da accordi internazionali.
 
@@ -225,7 +225,7 @@ Nell’ambito della sua competenza in materia di visti la SEM o il DFAE può, in
 [^12-2]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
 [^12-3]: Nuovo testo giusta l’all. n. 1 dell’O del 14 ago. 2019, in vigore dal 2 feb. 2019 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^12-4]: Nuovo testo giusta l’all. n. 1 dell’O del 14 ago. 2019, in vigore dal 2 feb. 2019 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^12-5]: Abrogato dal n. II dell’O del 12 mar. 2010, con effetto dal 5 apr. 2010 ([RU 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
+[^12-5]: Nuovo testo giusta il n. I dell’O dell’11 gen. 2023, in vigore dall’11 gen. 2023 alle ore 18.00 ([RU 2023 10](https://fedlex.data.admin.ch/eli/oc/2023/10)).
 
 #### Art. 13
 
@@ -282,7 +282,7 @@ D’intesa con il DFAE, la SEM può assoggettare all’emolumento i titolari di 
 
 L’ordinanza del 20 maggio 1987[^14-1] sulle tasse da riscuotere in applicazione della legge federale concernente la dimora e il domicilio degli stranieri è abrogata.
 
-[^14-1]: [[RU 1987 784](https://fedlex.data.admin.ch/eli/oc/1987/784_784_784), [1995 5266](https://fedlex.data.admin.ch/eli/oc/1995/5266_5266_5266), [1998 194](https://fedlex.data.admin.ch/eli/oc/1998/194_194_194)art. 30 [847](https://fedlex.data.admin.ch/eli/oc/1998/847_847_847), [2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638), [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 2 [4331](https://fedlex.data.admin.ch/eli/oc/2003/647), [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)n. II 4, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 3 [3363](https://fedlex.data.admin.ch/eli/oc/2006/531)[4869](https://fedlex.data.admin.ch/eli/oc/2006/755)n. I 1]
+[^14-1]: [[RU 1987 784](https://fedlex.data.admin.ch/eli/oc/1987/784_784_784); [1995 5266](https://fedlex.data.admin.ch/eli/oc/1995/5266_5266_5266); [1998 194](https://fedlex.data.admin.ch/eli/oc/1998/194_194_194)art. 30, [847](https://fedlex.data.admin.ch/eli/oc/1998/847_847_847); [2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638); [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 2, [4331](https://fedlex.data.admin.ch/eli/oc/2003/647); [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)n. II 4; [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 3, [3363](https://fedlex.data.admin.ch/eli/oc/2006/531), [4869](https://fedlex.data.admin.ch/eli/oc/2006/755)n. I 1]
 
 #### Art. 15
 

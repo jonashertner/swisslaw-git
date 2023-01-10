@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 sur les émoluments perçus en application
 short: Oem-LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: fr
-version: 2021-11-05
+version: 2023-01-11
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20211105/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20211105-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20211105/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230111/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230111-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230111/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20211105/fr"
 
 (Tarif des émoluments LEI, Oem-LEI)
 
-du 24 octobre 2007 (Etat le 5 novembre 2021)
+du 24 octobre 2007 (État le 11 janvier 2023)
 
 Le Conseil fédéral,
 
@@ -214,7 +214,7 @@ Le SEM ou le DFAE, dans le cadre de sa compétence en matière de visas, peuvent
 - a. afin de protéger des intérêts culturels ou sportifs, des intérêts en matière de politique extérieure, des intérêts en matière de politique de développement ou d’autres domaines d’intérêt public essentiels pour la Suisse, ou
 - b. pour des raisons humanitaires ou en raison d’obligations internationales.[^12-4]
 
-<sup>3</sup> …[^12-5]
+<sup>3</sup> Le SEM ou le DFAE, dans le cadre de sa compétence en matière de visas, peut augmenter les émoluments à l’égard de ressortissants de certains États, si un accord international le prévoit.[^12-5]
 
 <sup>4</sup> Sont réservés les émoluments prévus dans les accords internationaux.
 
@@ -224,7 +224,7 @@ Le SEM ou le DFAE, dans le cadre de sa compétence en matière de visas, peuvent
 [^12-2]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
 [^12-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^12-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^12-5]: Abrogé par le ch. II de l’O du 12 mars 2010, avec effet au 5 avr. 2010 ([RO 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
+[^12-5]: Nouvelle teneur selon le ch. I de l’O du 11 janv. 2023, en vigueur depuis le 11 janv. 2023 à 18 heures ([RO 2023 10](https://fedlex.data.admin.ch/eli/oc/2023/10)).
 
 #### Art. 13
 
@@ -281,7 +281,7 @@ Après entente avec le DFAE, le SEM peut assujettir à l’émolument les titula
 
 L’ordonnance du 20 mai 1987 sur les émoluments perçus en application de la loi fédérale sur le séjour et l’établissement des étrangers[^14-1] est abrogée.
 
-[^14-1]: [[RO 1987 784](https://fedlex.data.admin.ch/eli/oc/1987/784_784_784), [1995 5266](https://fedlex.data.admin.ch/eli/oc/1995/5266_5266_5266), [1998 847](https://fedlex.data.admin.ch/eli/oc/1998/847_847_847), [2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638), [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 ch. 2, [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)ch. II 4, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)annexe 3 ch. 3 [3363](https://fedlex.data.admin.ch/eli/oc/2006/531)[4869](https://fedlex.data.admin.ch/eli/oc/2006/755)ch. I 1]
+[^14-1]: [[RO 1987 784](https://fedlex.data.admin.ch/eli/oc/1987/784_784_784); [1995 5266](https://fedlex.data.admin.ch/eli/oc/1995/5266_5266_5266); [1998 847](https://fedlex.data.admin.ch/eli/oc/1998/847_847_847); [2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638); [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 ch. 2; [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)ch. II 4; [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)annexe 3 ch. 3, [3363](https://fedlex.data.admin.ch/eli/oc/2006/531), [4869](https://fedlex.data.admin.ch/eli/oc/2006/755)ch. I 1]
 
 #### Art. 15
 
