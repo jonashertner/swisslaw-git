@@ -5,12 +5,12 @@ title: Steuergesetz
 short: StG
 language: de
 version: 2021-01-01
-valid_until: 2023-12-31
+corrected: 2023-01-12
 version_adopted: 2020-03-12
 adopted: 1976-03-10
 in_force: 1977-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/642.1"
-pdf: "https://lex.vs.ch/api/de/versions/3154/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3153/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1012,7 +1012,7 @@ beschliesst:
 <sup>1</sup> Die Vermögenssteuer beträgt:
 
 <table>
-<tr><th>Klassen</th><th>Steuersatz in Promille</th><th>Steuer</th></tr>
+<tr><th>Klassen</th><th>Steuersatz in Prozent</th><th>Steuer</th></tr>
 <tr><td>1'000 bis 10'000</td><td>1.0</td><td>10</td></tr>
 <tr><td>11'000 bis 20'000</td><td>1.2</td><td>24</td></tr>
 <tr><td>21'000 bis 30'000</td><td>1.3</td><td>39</td></tr>

@@ -5,12 +5,12 @@ title: Loi fiscale
 short: LF
 language: fr
 version: 2021-01-01
-valid_until: 2023-12-31
+corrected: 2023-01-12
 version_adopted: 2020-03-12
 adopted: 1976-03-10
 in_force: 1977-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/642.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3154/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3153/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -1012,7 +1012,7 @@ arrête:
 <sup>1</sup> L'impôt sur la fortune est de:
 
 <table>
-<tr><th>Classes de fortune imposable</th><th>Taux en pour mille</th><th>Produit de l'impôt</th></tr>
+<tr><th>Classes de fortune imposable</th><th>Taux en pour cent</th><th>Produit de l'impôt</th></tr>
 <tr><td>Fr. 1'000 à 10'000</td><td>1.0</td><td>Fr. 10</td></tr>
 <tr><td>Fr. 11'000 à 20'000</td><td>1.2</td><td>Fr. 24</td></tr>
 <tr><td>Fr. 21'000 à 30'000</td><td>1.3</td><td>Fr. 39</td></tr>
@@ -2335,7 +2335,7 @@ arrête:
 
 <sup>3</sup> La procédure de réclamation est gratuite. Toutefois, tout ou partie des frais d'expertises comptables ou d'autres mesures d'instruction peuvent être mis à la charge du contribuable, lorsque celui-ci les a rendues nécessaires par une grave infraction à ses obligations de procédure.
 
-### 1.6.3 Procédure de taxation de l'impôt sur les gains immobiliers
+### 1.6.3 Procédure de taxation de l'impôt sur les gainsimmobiliers
 
 #### Art. 143
 
