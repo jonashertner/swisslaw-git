@@ -4,13 +4,13 @@ number: "162.1"
 title: Gesetz über den Rechtsschutz in Verwaltungssachen
 short: Verwaltungsrechtspflegegesetz; VRG
 language: de
-version: 2023-01-01
-valid_until: 2023-01-12
-version_adopted: 2022-08-25
+version: 2023-01-13
+valid_until: 2024-11-07
+version_adopted: 2022-10-27
 adopted: 1976-04-01
 in_force: 1977-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/162.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2388/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2404/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2388/pdf_file"
 
 (Verwaltungsrechtspflegegesetz; VRG)
 
-Vom 1. April 1976 (Stand 1. Januar 2023)
+Vom 1. April 1976 (Stand 13. Januar 2023)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -311,11 +311,23 @@ beschliesst:
 
 #### § 22
 
-**Kosten – Tarif**
+**Kosten vor den Verwaltungsbehörden**
 
-<sup>1</sup> Die Verwaltungsbehörde erhebt für ihre Amtshandlungen Gebühren nach Tarif.
+<sup>1</sup> Die Verwaltungsbehörden erheben für ihre Amtshandlungen Gebühren nach Tarif.
 
-<sup>2</sup> Das Verwaltungsgericht erlässt eine Verordnung über die Gebühren des Verwaltungsgerichts.
+<sup>2</sup> …
+
+#### § 22a
+
+**Kosten vor dem Verwaltungsgericht**
+
+<sup>1</sup> Das Verwaltungsgericht erhebt eine Spruchgebühr für die Kosten und Bar- auslagen des Gerichtsverfahrens sowie eine Gebühr für Kosten von Dienstleistungen ausserhalb des Gerichtsverfahrens, sofern die Gesetzgebung nicht ausdrücklich Kostenfreiheit festlegt.
+
+<sup>2</sup> Die Verfahrenskosten richten sich nach dem Zeitaufwand, nach der Schwierigkeit des Falls und nach dem Streitwert oder nach dem tatsächlichen Streitinteresse. Die Spruchgebühr beträgt in der Regel 400 bis 15'000 Franken. In ausserordentlichen Fällen besteht keine Bindung an die untere oder obere Bemessungsgrenze.
+
+<sup>3</sup> Die Gebühren für Dienstleistungen ausserhalb des Gerichtsverfahrens werden grundsätzlich nach dem Zeitaufwand berechnet, zu einem Satz von 90 Franken pro Stunde. Bei besonders geringem Aufwand sowie bei Gesuchen für wissenschaftliche Zwecke und von Amtsstellen kann die Gebühr angemessen herabgesetzt oder erlassen werden.
+
+<sup>4</sup> Das Verwaltungsgericht erlässt Ausführungsbestimmungen zu den Kosten. Es kann insbesondere die Erhebung pauschaler Gebühren für bestimmte Dienstleistungen vorsehen.
 
 #### § 23
 
