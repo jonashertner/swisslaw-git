@@ -4,13 +4,12 @@ number: "231.1"
 title: Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 short: EG SchKG
 language: de
-version: 2013-07-13
-valid_until: 2023-01-12
-version_adopted: 2013-05-02
+version: 2023-01-13
+version_adopted: 2022-10-27
 adopted: 1997-01-30
 in_force: 1997-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/231.1"
-pdf: "https://bgs.zg.ch/api/de/versions/1179/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2405/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1179/pdf_file"
 
 (EG SchKG)
 
-Vom 30. Januar 1997 (Stand 13. Juli 2013)
+Vom 30. Januar 1997 (Stand 13. Januar 2023)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -72,13 +71,13 @@ beschliesst:
 
 **Fähigkeitszeugnis**
 
-<sup>1</sup> Das Fähigkeitszeugnis wird in der Regel auf Grund einer von der Bewerberin oder vom Bewerber abgelegten Prüfung ausgestellt.
+<sup>1</sup> Das Fähigkeitszeugnis wird in der Regel aufgrund der von der Bewerberin oder vom Bewerber bestandenen eidgenössischen Berufsprüfung Fachfrau/Fachmann Betreibung und Konkurs, Fachrichtung Betreibung, ausgestellt.
 
-<sup>2</sup> Die Aufsichtsbehörde kann Personen, die über gleichwertige Prüfungsausweise verfügen oder sich in anderer Weise über ihre fachliche Befähigung ausgewiesen haben, die Prüfung ganz oder teilweise erlassen.
+<sup>2</sup> Die Aufsichtsbehörde kann das Fähigkeitszeugnis auch Personen ausstellen, die über vergleichbare Prüfungsausweise verfügen oder sich in anderer Weise über ihre fachliche Befähigung ausgewiesen haben.
 
-<sup>3</sup> Die Aufsichtsbehörde erlässt eine Prüfungsverordnung, setzt die Prüfungsgebühr fest und wählt eine Prüfungskommission, in der die Betreibungsbeamtinnen bzw. -beamten angemessen vertreten sind.
+<sup>3</sup> …
 
-<sup>4</sup> Gegen Entscheide der Prüfungskommission kann innert 10 Tagen Beschwerde bei der Aufsichtsbehörde erhoben werden. Entscheide über Prüfungsergebnisse werden von der Aufsichtsbehörde nur auf Ermessensmissbrauch und die Verletzung wesentlicher Form- oder Verfahrensvorschriften überprüft.
+<sup>4</sup> …
 
 #### § 6
 
@@ -106,9 +105,9 @@ beschliesst:
 
 **Ernennung**
 
-<sup>1</sup> Der Regierungsrat ernennt die Konkursbeamtin oder den Konkursbeamten und die Stellvertreterin oder den Stellvertreter.
+<sup>1</sup> Der Regierungsrat ernennt die Amtsleitung des Konkursamts.
 
-<sup>2</sup> Der Regierungsrat orientiert die Aufsichtsbehörde über diese Ernennungen.
+<sup>2</sup> Der Regierungsrat orientiert die Aufsichtsbehörde über diese Ernennung.
 
 #### § 9
 
