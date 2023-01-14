@@ -3,18 +3,18 @@ sr: "142.311.23"
 title: Verordnung des EJPD vom 4. Dezember 2018 über den Betrieb von Zentren des Bundes und Unterkünften an den Flughäfen
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/1"
 language: de
-version: 2019-03-01
+version: 2023-01-15
 adopted: 2018-12-04
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20190301/de/xml/fedlex-data-admin-ch-eli-cc-2019-1-20190301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20190301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230115/de/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230115-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EJPD über den Betrieb von Zentren des Bundes und Unterkünften an den Flughäfen
 
-vom 4. Dezember 2018 (Stand am 1. März 2019)
+vom 4. Dezember 2018 (Stand am 15. Januar 2023)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -65,23 +65,25 @@ Folgenden Personen wird der Zutritt zu den Zentren des Bundes und den Unterkünf
 
 #### Art. 4
 
-**Durchsuchung und Abnahme von Gegenständen**
+**Durchsuchung und Abnahme von Gegenständen**[^4-1]
 
-<sup>1</sup>
+<sup>1</sup> Das Sicherheitspersonal des vom SEM beauftragten Leistungserbringers kann Asylsuchende und Schutzbedürftige sowie deren mitgeführte Sachen mit deren Einverständnis zur Gewährleistung oder Wiederherstellung der Sicherheit und Ordnung, zum Schutz der Privatsphäre anderer Personen sowie zur Durchführung des Verfahrens nach AsylG in den Zentren des Bundes und den Unterkünften an den Flughäfen durchsuchen.
 
-Das Sicherheitspersonal kann Asylsuchende und Schutzbedürftige sowie deren mitgeführte Sachen zur Gewährleistung oder Wiederherstellung der Sicherheit und Ordnung, zum Schutz der Privatsphäre anderer Personen sowie zur Durchführung der Asylverfahren in den Zentren des Bundes und den Unterkünften an den Flughäfen auf die folgenden Gegenstände und Unterlagen hin durchsuchen:
+<sup>1bis</sup>
+
+Die Durchsuchung bezweckt, folgende Gegenstände und Unterlagen sicherzustellen:
 
 - a. Reise- und Identitätspapiere;
 - b. verfahrensrelevante Unterlagen und Beweismittel;
-- c. Waffen, waffenähnliche und weitere gefährliche Gegenstände;
+- c. Waffen, Waffenzubehör und weitere gefährliche Gegenstände;
 - d. alkoholische Getränke und Betäubungsmittel;
-- e. Vermögenswerte im Sinne von Artikel 16 Absatz 1 der Asylverordnung 2 vom 11. August 1999[^4-1] über Finanzierungsfragen.
+- e. Vermögenswerte im Sinne von Artikel 16 Absatz 1 der Asylverordnung 2 vom 11. August 1999[^4-2].
 
-<sup>2</sup> Das Sicherheitspersonal kann die Gegenstände nach Absatz 1 sicherstellen oder vorübergehend einziehen; es stellt der betroffenen Person einen Beleg aus. Betäubungsmittel und verbotene Waffen werden umgehend der Polizei gemeldet und übergeben.
+<sup>2</sup> Das Sicherheitspersonal kann die Gegenstände nach Absatz 1<sup>bis</sup> sicherstellen; es stellt der betroffenen Person einen Beleg aus. Betäubungsmittel und Gegenstände nach Absatz 1<sup>bis</sup> Buchstabe c werden umgehend der Polizei gemeldet und übergeben.
 
-<sup>3</sup> Das SEM nimmt die eingezogenen Dokumente nach Absatz 1 Buchstaben a und b zu den Akten.
+<sup>3</sup> Das SEM nimmt die eingezogenen Dokumente nach Absatz 1<sup>bis</sup> Buchstaben a und b zu den Akten.
 
-<sup>4</sup> Vermögenswerte nach Absatz 1 Buchstabe e, die den Wert von 1000 Franken übersteigen, werden gegen Ausstellung eines Belegs abgenommen.
+<sup>4</sup> Vermögenswerte nach Absatz 1<sup>bis</sup> Buchstabe e, die den Wert von 1000 Franken übersteigen, werden gegen Ausstellung eines Belegs abgenommen.
 
 <sup>5</sup> Beim Austritt aus den Zentren des Bundes oder den Unterkünften an den Flughäfen werden die vorübergehend eingezogenen Gegenstände und Unterlagen zurückgegeben.
 
@@ -89,7 +91,8 @@ Das Sicherheitspersonal kann Asylsuchende und Schutzbedürftige sowie deren mitg
 
 <sup>7</sup> Weitere Regelungen, insbesondere zur Aufbewahrung von Lebensmitteln oder zum Gebrauch von elektronischen Geräten sowie zu einer allfälligen vorübergehenden Einziehung bei Störung des Betriebs, können in der Hausordnung vorgesehen werden.
 
-[^4-1]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 6. Dez. 2022, in Kraft seit 15. Jan. 2023 ([AS 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+[^4-2]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 
 #### Art. 5
 
@@ -196,9 +199,14 @@ Die Zentren des Bundes, in welchen Asylverfahren durchgeführt werden, sind mit 
 
 <sup>2</sup> Die Besuchszeiten dauern täglich von 14.00 bis 20.00 Uhr. Das SEM kann die Besuchszeiten aus organisatorischen Gründen anpassen.
 
-<sup>3</sup> Besucherinnen und Besucher melden sich bei der Loge an und ab und weisen sich aus. Das Sicherheitspersonal kann sie auf gefährliche Gegenstände und Alkohol hin durchsuchen und diese bis zum Verlassen der Zentren des Bundes sicherstellen. Betäubungsmittel und verbotene Waffen werden umgehend der Polizei gemeldet und übergeben. Besucherinnen und Besucher dürfen nur von Personen gleichen Geschlechts durchsucht werden.
+<sup>3</sup> Besucherinnen und Besucher melden sich bei der Loge an und ab und weisen sich aus. Das Sicherheitspersonal des vom SEM beauftragten Leistungserbringers kann sie sowie deren mitgeführten Sachen mit deren Einverständnis auf gefährliche Gegenstände und Alkohol hin durchsuchen und diese bis zum Verlassen der Zentren des Bundes sicherstellen. Wird die Zustimmung zu einer Durchsuchung verweigert und kann eine Gefährdung der Sicherheit und Ordnung nicht ausgeschlossen werden, so wird der Zutritt in das Gebäude verwehrt.[^16-1]
+
+<sup>3bis</sup> Betäubungsmittel und Gegenstände nach Artikel 4 Absatz 1<sup>bis</sup> Buchstabe c werden umgehend der Polizei gemeldet und übergeben. Besucherinnen und Besucher dürfen nur von Personen gleichen Geschlechts durchsucht werden.[^16-2]
 
 <sup>4</sup> Die Besucherinnen und Besucher dürfen sich nur in den von der Hausordnung dafür bezeichneten Räumen aufhalten.
+
+[^16-1]: Fassung gemäss Ziff. I der V des EJPD vom 6. Dez. 2022, in Kraft seit 15. Jan. 2023 ([AS 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+[^16-2]: Eingefügt durch Ziff. I der V des EJPD vom 6. Dez. 2022, in Kraft seit 15. Jan. 2023 ([AS 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
 
 #### Art. 17
 
@@ -338,6 +346,28 @@ Die Disziplinarbehörde kann gegenüber Asylsuchenden und Schutzbedürftigen die
 <sup>3</sup> Die Leitung des Stabs Asyl des SEM entscheidet unverzüglich. Der Entscheid wird kurz begründet und der betroffenen Person schriftlich mitgeteilt. Er kann nicht angefochten werden. Vorbehalten bleibt Artikel 25*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^29-1].
 
 [^29-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+## 5*a*. Abschnitt: Vorübergehende Festhaltung zur Abwendung unmittelbarer Gefahr
+
+[^sec5a-1]
+
+[^sec5a-1]: Eingefügt durch Ziff. I der V des EJPD vom 6. Dez. 2022, in Kraft seit 15. Jan. 2023 ([AS 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+
+#### Art. 29a
+
+<sup>1</sup>
+
+Asylsuchende und Schutzbedürftige können zur Abwehr einer ernsten, unmittelbaren und nicht anders abwendbaren Gefahr auf Anordnung der Leitung des Zentrums des Bundes oder der Unterkunft am Flughafen nötigenfalls in einem dafür besonders ausgestatteten, überwachten und geschlossenen Raum innerhalb der Unterkunft vorübergehend festgehalten werden, wenn sie:
+
+- a. andere Personen erheblich gefährden;
+- b. sich selbst erheblich gefährden; oder
+- c. einen grösseren Sachschaden zu verursachen drohen.
+
+<sup>2</sup> Vor der vorübergehenden Festhaltung sind die zuständigen Polizeibehörden und bei Bedarf weitere zuständige Stellen zu informieren. Nach erfolgter Meldung kann die betroffene Person bis zum Eintreffen der zuständigen Polizeibehörden oder anderer zuständiger Stellen festgehalten werden. Treffen diese nicht innerhalb von zwei Stunden nach erfolgter Meldung ein, ist die vorübergehende Festhaltung zu beenden.
+
+<sup>3</sup> Zu Beginn der vorübergehenden Festhaltung ist die betroffene Person zu durchsuchen, und sämtliche gefährlichen oder nicht benötigten Gegenstände sind ihr abzunehmen. Während der vorübergehenden Festhaltung ist das persönliche Wohlbefinden der betroffenen Person zu überwachen.
+
+<sup>4</sup> Die Anordnung einer vorübergehenden Festhaltung ist bei Kindern und Jugendlichen, die das 15. Altersjahr noch nicht zurückgelegt haben, ausgeschlossen.
 
 ## 6. Abschnitt: Schlussbestimmungen
 

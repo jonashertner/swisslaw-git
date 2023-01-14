@@ -3,18 +3,18 @@ sr: "142.311.23"
 title: "Ordonnance du DFJP du 4 décembre 2018 relative à l'exploitation des centres de la Confédération et des logements dans les aéroports"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/1"
 language: fr
-version: 2019-03-01
+version: 2023-01-15
 adopted: 2018-12-04
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20190301/fr/xml/fedlex-data-admin-ch-eli-cc-2019-1-20190301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20190301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230115/fr/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230115-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFJP relative à l’exploitation des centres de la Confédération et des logements dans les aéroports
 
-du 4 décembre 2018 (Etat le 1<sup>er</sup> mars 2019)
+du 4 décembre 2018 (État le 15 janvier 2023)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -65,23 +65,25 @@ Les personnes suivantes sont autorisées à accéder aux centres de la Confédé
 
 #### Art. 4
 
-**Fouille et saisie d’objets**
+**Fouille et saisie d’objets**[^4-1]
 
-<sup>1</sup>
+<sup>1</sup> Pour garantir ou rétablir la sécurité et l’ordre, protéger la sphère privée d’autres personnes ou encore mener les procédures selon la LAsi dans les centres de la Confédération et les logements dans les aéroports, le personnel de sécurité du prestataire mandaté par le SEM est habilité à fouiller, moyennant leur accord, les requérants d’asile et les personnes à protéger, de même que leurs effets personnels.
 
-Pour maintenir ou rétablir la sécurité et l’ordre, protéger la sphère privée d’autres personnes ou encore mener les procédures d’asile dans les centres de la Confédération et les logements dans les aéroports, le personnel chargé de la sécurité est habilité à fouiller les requérants d’asile et les personnes à protéger, de même que leurs effets personnels, pour rechercher les objets et documents suivants:
+<sup>1bis</sup>
 
-- a. documents de voyage et pièces d'identité;
+La fouille vise à saisir les objets et documents suivants:
+
+- a. documents de voyage et pièces d’identité;
 - b. documents et moyens de preuve déterminants pour la procédure;
-- c. armes, instruments assimilables à des armes et autres objets dangereux;
+- c. armes, accessoires d’armes et autres objets dangereux;
 - d. boissons alcoolisées et stupéfiants;
-- e. valeurs patrimoniales au sens de l’art. 16, al. 1, de l’ordonnance 2 du 11 août 1999 sur l’asile relative au financement[^4-1].
+- e. valeurs patrimoniales au sens de l’art. 16, al. 1, de l’ordonnance 2 du 11 août 1999 sur l’asile[^4-2].
 
-<sup>2</sup> Le personnel chargé de la sécurité peut saisir ou confisquer provisoirement les objets visés à l’al. 1; il délivre un accusé de réception à la personne concernée. Les stupéfiants et les armes prohibées sont annoncés et remis immédiatement à la police.
+<sup>2</sup> Le personnel de sécurité peut saisir les objets visés à l’al. 1<sup>bis</sup>; il délivre un accusé de réception à la personne concernée. Les stupéfiants et les objets visés à l’al. 1<sup>bis</sup>, let. c, sont immédiatement annoncés et remis à la police.
 
-<sup>3</sup> Le SEM verse au dossier de l’intéressé les documents saisis qui sont mentionnés à l’al. 1, let. a et b.
+<sup>3</sup> Le SEM verse au dossier de la personne concernée les documents saisis qui sont mentionnés à l’al. 1<sup>bis</sup>, let. a et b.
 
-<sup>4</sup> Les valeurs patrimoniales au sens de l’al. 1, let. e, supérieures à 1000 francs sont saisies contre la remise d’un accusé de réception.
+<sup>4</sup> Les valeurs patrimoniales visées à l’al. 1<sup>bis</sup>, let. e, supérieures à 1000 francs sont saisies contre la remise d’un accusé de réception.
 
 <sup>5</sup> Les objets et documents provisoirement saisis sont restitués à leur propriétaire à sa sortie du centre ou du logement dans l’aéroport.
 
@@ -89,7 +91,8 @@ Pour maintenir ou rétablir la sécurité et l’ordre, protéger la sphère pri
 
 <sup>7</sup> Le règlement intérieur peut prévoir d’autres règles, notamment concernant la conservation de denrées alimentaires ou l’utilisation d’appareils électroniques, de même que sur leur éventuelle confiscation provisoire en cas d’atteinte au fonctionnement du centre ou du logement dans l’aéroport.
 
-[^4-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 6 déc. 2022, en vigueur depuis le 15 janv. 2023 ([RO 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+[^4-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 
 #### Art. 5
 
@@ -196,9 +199,14 @@ Les personnes hébergées dans les centres de la Confédération et les logement
 
 <sup>2</sup> Les visites sont autorisées tous les jours de 14 heures à 20 heures. Le SEM peut modifier les horaires pour des raisons d’organisation.
 
-<sup>3</sup> Les visiteurs se présentent à la loge à leur arrivée et à leur départ et déclinent leur identité. Le personnel chargé de la sécurité est habilité à les fouiller et à saisir les objets dangereux et les boissons alcoolisées pour la durée de leur visite. Les stupéfiants et les armes prohibées sont immédiatement annoncés et remis à la police. Les visiteurs ne peuvent être fouillés que par des personnes du même sexe.
+<sup>3</sup> Les visiteurs se présentent à la loge à leur arrivée et à leur départ et déclinent leur identité. Moyennant leur accord, le personnel de sécurité du prestataire mandaté par le SEM est habilité à les fouiller, de même que leurs effets personnels, et à saisir les objets dangereux et les boissons alcoolisées pour la durée de la visite. Si les visiteurs ne donnent pas leur accord à cette fouille et qu’une menace pour la sécurité et l’ordre ne peut être exclue, l’accès au bâtiment leur est refusé.[^16-1]
+
+<sup>3bis</sup> Les stupéfiants et les objets visés à l’art. 4, al. 1<sup>bis</sup>, let. c, sont immédiatement annoncés et remis à la police. Les visiteurs ne peuvent être fouillés que par des personnes du même sexe.[^16-2]
 
 <sup>4</sup> Les visiteurs n’ont le droit de se tenir que dans les pièces prévues à cet effet par le règlement intérieur.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 6 déc. 2022, en vigueur depuis le 15 janv. 2023 ([RO 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+[^16-2]: Introduit par le ch. I de l’O du DFJP du 6 déc. 2022, en vigueur depuis le 15 janv. 2023 ([RO 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
 
 #### Art. 17
 
@@ -339,6 +347,28 @@ L’autorité disciplinaire peut prononcer les mesures disciplinaires suivantes 
 
 [^29-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
+## Section 5*a* Rétention provisoire pour parer à un danger imminent
+
+[^sec5a-1]
+
+[^sec5a-1]: Introduite par le ch. I de l’O du DFJP du 6 déc. 2022, en vigueur depuis le 15 janv. 2023 ([RO 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+
+#### Art. 29a
+
+<sup>1</sup>
+
+Si cela s’avère nécessaire pour parer à un danger sérieux, direct et imminent, un requérant d’asile ou une personne à protéger peut, sur ordre de la direction du centre de la Confédération ou du logement dans l’aéroport, être retenu provisoirement dans un local fermé, spécialement aménagé et surveillé à l’intérieur du logement, s’il:
+
+- a. met gravement en danger d’autres personnes;
+- b. met gravement en danger sa propre personne, ou
+- c. menace de causer d’importants dommages matériels.
+
+<sup>2</sup> Les autorités de police compétentes et, si nécessaire, d’autres services compétents sont informés au préalable de la mise en rétention provisoire. Une fois qu’ils sont informés, la personne concernée peut être retenue jusqu’à leur arrivée. S’ils n’arrivent pas dans les deux heures après avoir été informés, la rétention provisoire prend fin.
+
+<sup>3</sup> La personne concernée est fouillée au début de la rétention provisoire et tous les objets dangereux ou dont elle n’a pas besoin sont saisis. Pendant la rétention provisoire, son bien-être personnel est surveillé.
+
+<sup>4</sup> La rétention provisoire ne peut être ordonnée pour les enfants et les adolescents de moins de 15 ans.
+
 ## Section 6 Dispositions finales
 
 #### Art. 30
@@ -347,10 +377,10 @@ L’autorité disciplinaire peut prononcer les mesures disciplinaires suivantes 
 
 L’ordonnance du DFJP du 24 novembre 2007 relative à l’exploitation des logements de la Confédération dans le domaine de l’asile[^30-1] est abrogée.
 
-[^30-1]: [[RO 2007 6621](https://fedlex.data.admin.ch/eli/oc/2007/855), [2013 3071](https://fedlex.data.admin.ch/eli/oc/2013/596), [2015 2051](https://fedlex.data.admin.ch/eli/oc/2015/381), [2017 5887](https://fedlex.data.admin.ch/eli/oc/2017/642)]
+[^30-1]: [[RO 2007 6621](https://fedlex.data.admin.ch/eli/oc/2007/855); [2013 3071](https://fedlex.data.admin.ch/eli/oc/2013/596); [2015 2051](https://fedlex.data.admin.ch/eli/oc/2015/381); [2017 5887](https://fedlex.data.admin.ch/eli/oc/2017/642)]
 
 #### Art. 31
 
 **Entrée en vigueur**
 
-- [tab] La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2019.
+La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2019.

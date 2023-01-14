@@ -3,18 +3,18 @@ sr: "142.311.23"
 title: "Ordinanza del DFGP del 4 dicembre 2018 sull'esercizio dei centri della Confederazione e degli alloggi presso gli aeroporti"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/1"
 language: it
-version: 2019-03-01
+version: 2023-01-15
 adopted: 2018-12-04
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20190301/it/xml/fedlex-data-admin-ch-eli-cc-2019-1-20190301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20190301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230115/it/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230115-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFGP sull’esercizio dei centri della Confederazione e degli alloggi presso gli aeroporti
 
-del 4 dicembre 2018 (Stato 1° marzo 2019)
+del 4 dicembre 2018 (Stato 15 gennaio 2023)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -65,23 +65,25 @@ Hanno accesso ai centri della Confederazione e agli alloggi presso gli aeroporti
 
 #### Art. 4
 
-**Perquisizione e ritiro di oggetti**
+**Perquisizione e ritiro di oggetti**[^4-1]
 
-<sup>1</sup>
+<sup>1</sup> Allo scopo di garantire o ristabilire la sicurezza e l’ordine, tutelare la sfera privata di altre persone o espletare le procedure secondo la legge sull’asilo nei centri della Confederazione o negli alloggi presso gli aeroporti, il personale del fornitore di prestazioni incaricato dalla SEM addetto alla sicurezza è autorizzato, con il loro consenso, a perquisire i richiedenti l’asilo e le persone bisognose di protezione nonché i loro bagagli.
 
-Allo scopo di garantire o ristabilire la sicurezza e l’ordine, tutelare la sfera privata di altre persone o espletare le procedure d’asilo nei centri della Confederazione o negli alloggi presso gli aeroporti, il personale addetto alla sicurezza è autorizzato a perquisire i richiedenti l’asilo, le persone bisognose di protezione e i loro bagagli alla ricerca dei seguenti oggetti e documenti:
+<sup>1bis</sup>
+
+La perquisizione è finalizzata a mettere al sicuro i seguenti oggetti e documenti:
 
 - a. documenti di viaggio e di legittimazione;
 - b. documenti e mezzi di prova rilevanti per la procedura;
-- c. armi, oggetti simili ad armi e altri oggetti pericolosi;
+- c. armi, accessori di armi e altri oggetti pericolosi;
 - d. bevande alcoliche e stupefacenti;
-- e. valori patrimoniali ai sensi dell’articolo 16 capoverso 1 dell’ordinanza 2 dell’11 agosto 1999[^4-1] sull’asilo relativa alle questioni finanziarie.
+- e. valori patrimoniali ai sensi dell’articolo 16 capoverso 1 dell’ordinanza 2 dell’11 agosto 1999[^4-2] sull’asilo.
 
-<sup>2</sup> Il personale di sicurezza può mettere al sicuro o ritirare temporaneamente gli oggetti di cui al capoverso 1; rilascia una ricevuta all’interessato. Gli stupefacenti e le armi vietate sono immediatamente notificati e consegnati alla polizia.
+<sup>2</sup> Il personale di sicurezza può mettere al sicuro gli oggetti di cui al capoverso 1<sup>bis</sup>; rilascia una ricevuta all’interessato. Gli stupefacenti e gli oggetti di cui al capoverso 1<sup>bis</sup> lettera c sono immediatamente notificati e consegnati alla polizia.
 
-<sup>3</sup> La SEM mette agli atti i documenti ritirati di cui al capoverso 1 lettere a e b.
+<sup>3</sup> La SEM mette agli atti i documenti ritirati di cui al capoverso 1<sup>bis</sup> lettere a e b.
 
-<sup>4</sup> I valori patrimoniali di cui al capoverso 1 lettera e, il cui valore è superiore ai 1000 franchi, sono confiscati contro ricevuta.
+<sup>4</sup> I valori patrimoniali di cui al capoverso 1<sup>bis</sup> lettera e, il cui valore è superiore ai 1000 franchi, sono confiscati contro ricevuta.
 
 <sup>5</sup> All’uscita dai centri della Confederazione o degli alloggi presso gli aeroporti gli oggetti e i documenti ritirati temporaneamente sono restituiti.
 
@@ -89,7 +91,8 @@ Allo scopo di garantire o ristabilire la sicurezza e l’ordine, tutelare la sfe
 
 <sup>7</sup> Il regolamento può contenere altre disposizioni, in particolare concernenti la conservazione di viveri o l’uso di apparecchi elettronici e il loro eventuale ritiro temporaneo in caso di disturbo dell’esercizio.
 
-[^4-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^4-1]: Nuovo testo giusta il n. I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+[^4-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 
 #### Art. 5
 
@@ -196,9 +199,14 @@ I centri della Confederazione nei quali sono espletate le procedure d’asilo, e
 
 <sup>2</sup> L’orario delle visite è dalle 14.00 alle 20.00 di ogni giorno. La SEM può modificare per ragioni organizzative l’orario delle visite.
 
-<sup>3</sup> I visitatori devono annunciarsi in portineria al momento dell’entrata e dell’uscita e presentare un documento di legittimazione. Il personale addetto alla sicurezza può perquisire i visitatori alla ricerca di oggetti pericolosi e di alcool e metterli al sicuro fino alla loro partenza. Gli stupefacenti e le armi vietate sono immediatamente notificati e consegnati alla polizia. La perquisizione dei visitatori può essere effettuata soltanto da una persona dello stesso sesso.
+<sup>3</sup> I visitatori devono annunciarsi in portineria al momento dell’entrata e dell’uscita e presentare un documento di legittimazione. Il personale del fornitore di prestazioni incaricato dalla SEM addetto alla sicurezza può, con il loro consenso, perquisire i visitatori nonché gli oggetti che recano con sé alla ricerca di oggetti pericolosi e di alcool e mettere al sicuro questi ultimi fino alla partenza dei visitatori. In caso di diniego del consenso alla perquisizione, se non è possibile escludere una minaccia per la sicurezza e l’ordine viene vietato l’accesso all’edificio.[^16-1]
+
+<sup>3bis</sup> Gli stupefacenti e gli oggetti di cui all’articolo 4 capoverso 1<sup>bis</sup> lettera c sono immediatamente notificati e consegnati alla polizia. La perquisizione dei visitatori può essere effettuata soltanto da una persona dello stesso sesso.[^16-2]
 
 <sup>4</sup> I visitatori possono trattenersi unicamente nei locali previsti a tale scopo dal regolamento interno.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+[^16-2]: Introdotto dal n. I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
 
 #### Art. 17
 
@@ -338,6 +346,28 @@ L’autorità disciplinare può ordinare nei confronti di richiedenti l’asilo 
 <sup>3</sup> La direzione dello Stato maggiore Asilo della SEM decide senza indugio. La decisione, corredata di una breve motivazione, è comunicata per scritto alla persona interessata. Non è impugnabile. È fatto salvo l’articolo 25*a* della legge federale del 20 dicembre 1968[^29-1] sulla procedura amministrativa.
 
 [^29-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+## Sezione 5*a*: Fermo di breve durata per scongiurare un pericolo immediato
+
+[^sec5a-1]
+
+[^sec5a-1]: Introdotta dal n. I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+
+#### Art. 29a
+
+<sup>1</sup>
+
+Per scongiurare un pericolo grave, immediato e non altrimenti evitabile, su ordine della direzione del centro della Confederazione o dell’alloggio presso l’aeroporto i richiedenti l’asilo e le persone bisognose di protezione possono essere temporaneamente trattenuti, se necessario, in un locale appositamente attrezzato, sorvegliato e chiuso all’interno dell’alloggio, se:
+
+- a. mettono in serio pericolo altre persone;
+- b. mettono in serio pericolo sé stessi; oppure
+- c. minacciano di causare gravi danni materiali.
+
+<sup>2</sup> Prima di procedere al fermo di breve durata occorre informare le autorità di polizia competenti e, se del caso, gli altri organi responsabili. Dopo l’avvenuta comunicazione, la persona interessata può essere trattenuta fino all’arrivo dell’autorità di polizia competente o di un altro organo responsabile. Se entro due ore l’autorità di polizia competente o un altro organo responsabile non si presenta, il fermo di breve durata va interrotto.
+
+<sup>3</sup> All’inizio del fermo di breve durata occorre perquisire la persona interessata e ritirarle tutti gli oggetti pericolosi o non indispensabili. Per tutta la durata del fermo di breve durata occorre monitorare il benessere della persona interessata.
+
+<sup>4</sup> È escluso l’ordine di fermo di breve durata nei confronti di bambini e minori che non hanno ancora compiuto 15 anni.
 
 ## Sezione 6: Disposizioni finali
 
