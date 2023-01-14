@@ -3,11 +3,11 @@ sr: "0.814.287.1"
 title: "Protocollo del 1996 del 7 novembre 1996 alla Convenzione del 1972 sulla prevenzione dell'inquinamento marino causato dallo scarico di rifiuti ed altre materie (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/327"
 language: it
-version: 2019-03-21
+version: 2023-01-15
 adopted: 1996-11-07
 in_force: 2006-03-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20190321/it/xml/fedlex-data-admin-ch-eli-cc-2006-327-20190321-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20190321/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20230115/it/xml/fedlex-data-admin-ch-eli-cc-2006-327-20230115-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20230115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Ratificato con strumenti depositati dalla Svizzera l’8 settembre 2000
 
 Entrato in vigore per la Svizzera il 24 marzo 2006
 
-(Stato 21 marzo 2019)
+(Stato 15 gennaio 2023)
 
 [^t-1]: [RU 2006 2047](https://fedlex.data.admin.ch/eli/oc/2006/326)
 
@@ -457,24 +457,23 @@ Allegato 1[^t-2]
 
 ## Rifiuti o altre materie suscettibili di essere scaricati
 
-[^t-2]: Aggiornato dalla Ris. della prima Riunione delle Parti contraenti il 2 nov. 2006, in vigore in vigore per la Svizzera il 10 feb. 2007 ([RU 2024 56](https://fedlex.data.admin.ch/eli/oc/2024/56)).
+[^t-2]: Aggiornato delle Ris. della prima Riunione delle Parti contraenti del 2 nov. 2006 ([RU 2024 56](https://fedlex.data.admin.ch/eli/oc/2024/56)) e della 17<sup>a</sup> Riunione delle Parti contraenti del 7 ott. 2022, in vigore per la Svizzera il 15 gen. 2023 ([RU 2024 58](https://fedlex.data.admin.ch/eli/oc/2024/58)).
 
 \1. I rifiuti o altre materie inclusi nell’elenco seguente sono quelli suscettibili di essere scaricati, tenendo presenti gli obiettivi e gli obblighi generali del presente Protocollo enunciati negli articoli 2 e 3:
 
 - 1\. materiale di dragaggio;
-- 2\. fanghi di depurazione;
-- 3\. di pesce o materiali residui del trattamento industriale del pesce;
-- 4\. navi, piattaforme e altri impianti artificiali in mare;
-- 5\. materie geologiche inerti, inorganiche;
-- 6\. materie organiche d’origine naturale;
-- 7\. oggetti voluminosi composti principalmente di ferro, acciaio, cemento, e altri materiali, pure non nocivi, ma il cui impatto fisico suscita preoccupazioni e solo nei casi in cui questi rifiuti siano prodotti in luoghi quali piccole isole le cui comunità sono isolate e prive di altre possibilità di eliminazione che non sia lo scarico in mare;
-- 8\. flussi di biossido di carbonio provenienti da processi di cattura del biossido di carbonio ai fini del suo stoccaggio.
+- 2\. di pesce o materiali residui del trattamento industriale del pesce;
+- 3\. navi, piattaforme e altri impianti artificiali in mare;
+- 4\. materie geologiche inerti, inorganiche;
+- 5\. materie organiche d’origine naturale;
+- 6\. oggetti voluminosi composti principalmente di ferro, acciaio, cemento, e altri materiali, pure non nocivi, ma il cui impatto fisico suscita preoccupazioni e solo nei casi in cui questi rifiuti siano prodotti in luoghi quali piccole isole le cui comunità sono isolate e prive di altre possibilità di eliminazione che non sia lo scarico in mare;
+- 7\. flussi di biossido di carbonio provenienti da processi di cattura del biossido di carbonio ai fini del suo stoccaggio.
 
-\2. Lo scarico di rifiuti o altre materie elencati nei paragrafi 1.4. e 1.7 può essere programmato a condizione che i materiali che rischiano di produrre rifiuti vaganti o di contribuire in altro modo all’inquinamento dell’ambiente marino vengano allontanati nella maggior misura possibile, e a condizione che i materiali scaricati in mare non costituiscano un ostacolo serio alla pesca o alla navigazione.
+\2. Lo scarico di rifiuti o altre materie elencati nei paragrafi 1.3. e 1.6 può essere programmato a condizione che i materiali che rischiano di produrre rifiuti vaganti o di contribuire in altro modo all’inquinamento dell’ambiente marino vengano allontanati nella maggior misura possibile, e a condizione che i materiali scaricati in mare non costituiscano un ostacolo serio alla pesca o alla navigazione.
 
-\3. Nonostante quanto precede, le materie enumerate nei paragrafi 1.1–1.8 i cui livelli di radioattività sono superiori alle concentrazioni minime (esenti da provvedimenti) definite dall’AIEA[^annex1-lvlu1-1] e adottate dalle Parti contraenti non devono essere considerate scaricabili in mare; si presuppone, inoltre, che dopo un termine di 25 anni a partire dal 20 febbraio 1994, poi ad intervalli regolari di 25 anni, le Parti contraenti effettuino uno studio scientifico di tutte le scorie radioattive e di tutte le altre materie radioattive eccetto le scorie e materie altamente radioattive, tenendo conto anche di altri fattori che ritengono utili, e che esse riesaminino il divieto di scarico di tali sostanze conformemente alle procedure enunciate nell’articolo 22.
+\3. Nonostante quanto precede, le materie enumerate nei paragrafi 1.1–1.7 i cui livelli di radioattività sono superiori alle concentrazioni minime (esenti da provvedimenti) definite dall’AIEA[^annex1-lvlu1-1] e adottate dalle Parti contraenti non devono essere considerate scaricabili in mare; si presuppone, inoltre, che dopo un termine di 25 anni a partire dal 20 febbraio 1994, poi ad intervalli regolari di 25 anni, le Parti contraenti effettuino uno studio scientifico di tutte le scorie radioattive e di tutte le altre materie radioattive eccetto le scorie e materie altamente radioattive, tenendo conto anche di altri fattori che ritengono utili, e che esse riesaminino il divieto di scarico di tali sostanze conformemente alle procedure enunciate nell’articolo 22.
 
-\4. Lo scarico dei flussi di biossido di carbonio di cui al paragrafo 1.8 può essere presa in considerazione solo se:
+\4. Lo scarico dei flussi di biossido di carbonio di cui al paragrafo 1.7 può essere presa in considerazione solo se:
 
 - 1\. tali flussi sono eliminati in una formazione geologica del sottosuolo del fondo marino; e
 - 2\. sono composti quasi esclusivamente da biossido di carbonio. Possono contenere sostanze associate impreviste provenienti dalla materia d’origine e dai processi di cattura e stoccaggio utilizzati; e
@@ -482,9 +481,11 @@ Allegato 1[^t-2]
 
 [^annex1-lvlu1-1]: Agenzia Internazionale dell’Energia Atomica.
 
-Allegato 2
+Allegato 2[^t-3]
 
 ## Valutazione dei rifiuti e altre materie suscettibili di essere scaricati
+
+[^t-3]: Aggiornato dalla Ris. della 17<sup>a</sup> Riunione delle Parti contraenti del 7 ott. 2022, in vigore per la Svizzera il 15 gen. 2023 ([RU 2024 58](https://fedlex.data.admin.ch/eli/oc/2024/58)).
 
 In generale
 
@@ -508,7 +509,7 @@ Verifica relativa alla prevenzione della produzione di rifiuti
 
 \3. In generale, se la verifica stabilita permette di constatare che esistono possibilità di evitare la produzione di rifiuti alla fonte, il richiedente di un permesso dovrebbe elaborare e applicare, in collaborazione con gli organismi locali e nazionali competenti, una strategia di prevenzione della produzione di rifiuti che comporti obiettivi precisi in materia di riduzione della produzione di rifiuti e che preveda controlli supplementari della prevenzione della produzione di rifiuti al fine di garantire la realizzazione di questi obiettivi. La decisione di rilasciare o rinnovare i permessi deve sottostare alla garanzia che tutte le prescrizioni in materia di riduzione e di prevenzione della produzione di rifiuti vengano soddisfatte.
 
-\4. Per quanto riguarda il materiale di dragaggio e i fanghi di depurazione, l’obiettivo della gestione dei rifiuti dovrebbe essere quello di identificare e poi di contenere le fonti di contaminazione. Questo obiettivo dovrebbe venire realizzato attuando strategie che mirano a prevenire la produzione di rifiuti e, a tal fine, occorre che si stabilisca una collaborazione fra gli organismi locali e nazionali competenti per il controllo delle fonti di inquinamento puntuali e diffuse. Fino a quando questo obiettivo non sarà raggiunto, i problemi posti dai materiali di dragaggio contaminati potranno essere affrontati con tecniche di scarico in mare o eliminazione a terra.
+\4. Per quanto riguarda il materiale di dragaggio, l’obiettivo della gestione dei rifiuti dovrebbe essere quello di identificare e poi di contenere le fonti di contaminazione. Questo obiettivo dovrebbe venire realizzato attuando strategie che mirano a prevenire la produzione di rifiuti e, a tal fine, occorre che si stabilisca una collaborazione fra gli organismi locali e nazionali competenti per il controllo delle fonti di inquinamento puntuali e diffuse. Fino a quando questo obiettivo non sarà raggiunto, i problemi posti dai materiali di dragaggio contaminati potranno essere affrontati con tecniche di scarico in mare o eliminazione a terra.
 
 Esame delle opzioni in materia di gestione dei rifiuti
 
@@ -651,7 +652,7 @@ Le parti in causa facilitano i lavori del tribunale; a tal fine, conformemente a
 
 Il tribunale emana la sua sentenza entro cinque mesi dalla sua costituzione, a meno che non ritenga necessario prorogare questo termine, al massimo di altri cinque mesi. La sentenza deve essere motivata. Essa è definitiva e senza appello e viene comunicata al Segretario generale dell’Organizzazione che ne informa le Parti contraenti. Le parti in causa devono conformarvisi senza indugio.
 
-Campo d’applicazione il 21 marzo 2019[^t-3]
+Campo d’applicazione il 21 marzo 2019[^t-4]
 
 <table>
 <tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -724,4 +725,4 @@ Campo d’applicazione il 21 marzo 2019[^t-3]
 <tr><td><sup>b</sup></td><td colspan="5">Il Prot. non vale per le Isole Färöer.</td></tr>
 </table>
 
-[^t-3]: [RU 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); **2016** 3827; [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-4]: [RU 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); **2016** 3827; [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

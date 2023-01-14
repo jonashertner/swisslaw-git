@@ -3,11 +3,11 @@ sr: "0.814.287.1"
 title: Protokoll von 1996 vom 7. November 1996 zum Übereinkommen von 1972 über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/327"
 language: de
-version: 2019-03-21
+version: 2023-01-15
 adopted: 1996-11-07
 in_force: 2006-03-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20190321/de/xml/fedlex-data-admin-ch-eli-cc-2006-327-20190321-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20190321/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20230115/de/xml/fedlex-data-admin-ch-eli-cc-2006-327-20230115-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20230115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 8. September 2000
 
 In Kraft getreten für die Schweiz am 24. März 2006
 
-(Stand am 21. März 2019)
+(Stand am 15. Januar 2023)
 
 [^t-1]: [AS 2006 2047](https://fedlex.data.admin.ch/eli/oc/2006/326)
 
@@ -455,24 +455,23 @@ Anlage 1[^t-2]
 
 ## Abfälle oder sonstige Stoffe, die für das Einbringen in Frage kommen
 
-[^t-2]: Bereinigt gemäss Beschluss der 1. Vertragsparteienkonferenz vom 2. Nov. 2006, in Kraft getreten für die Schweiz am 10. Febr. 2007 ([AS 2024 56](https://fedlex.data.admin.ch/eli/oc/2024/56))
+[^t-2]: Bereinigt gemäss Entschliessungen der 1. Vertragsparteienkonferenz vom 2. Nov. 2006 ([AS 2024 56](https://fedlex.data.admin.ch/eli/oc/2024/56)) und der 17. Vertragsparteienkonferenz vom 7. Okt. 2022, in Kraft getreten für die Schweiz am 15. Jan. 2023 ([AS 2024 58](https://fedlex.data.admin.ch/eli/oc/2024/58)).
 
 \1. Bei den nachstehend aufgeführten Abfällen oder sonstigen Stoffen handelt es sich um Stoffe, die für ein Einbringen in Frage kommen, wobei die in den Artikeln 2 und 3 dieses Protokolls festgelegten Ziele und allgemeinen Verpflichtungen zu berücksichtigen sind:
 
 - 1\. Baggergut;
-- 2\. Klärschlamm;
-- 3\. Fischabfälle oder Stoffe, die bei der industriellen Fischverarbeitung anfallen;
-- 4\. Schiffe und Plattformen oder sonstige auf See errichtete Bauwerke;
-- 5\. träges, anorganisches geologisches Material;
-- 6\. organisches Material natürlichen Ursprungs;
-- 7\. sperrige Gegenstände, die hauptsächlich aus Eisen, Stahl, Beton und ähnlich unschädlichen Materialien bestehen, bei denen die physikalischen Auswirkungen zu bedenken sind, wobei dies nur gilt, wenn die genannten Abfälle an Orten wie z. B. auf kleinen Inseln mit isolierten Gemeinschaften anfallen, die keine anderen Beseitigungsmöglichkeiten als das Einbringen haben;
-- 8\. Kohlendioxidströme aus Verfahren für die Abscheidung von Kohlendioxid zur Sequestrierung.
+- 2\. Fischabfälle oder Stoffe, die bei der industriellen Fischverarbeitung anfallen;
+- 3\. Schiffe und Plattformen oder sonstige auf See errichtete Bauwerke;
+- 4\. träges, anorganisches geologisches Material;
+- 5\. organisches Material natürlichen Ursprungs;
+- 6\. sperrige Gegenstände, die hauptsächlich aus Eisen, Stahl, Beton und ähnlich unschädlichen Materialien bestehen, bei denen die physikalischen Auswirkungen zu bedenken sind, wobei dies nur gilt, wenn die genannten Abfälle an Orten wie z. B. auf kleinen Inseln mit isolierten Gemeinschaften anfallen, die keine anderen Beseitigungsmöglichkeiten als das Einbringen haben;
+- 7\. Kohlendioxidströme aus Verfahren für die Abscheidung von Kohlendioxid zur Sequestrierung.
 
-\2. Für die in den Absätzen 1.4 und 1.7 aufgeführten Abfälle oder sonstigen Stoffe kann ein Einbringen erwogen werden, sofern die höchstmögliche Menge an Materialien, die zu schwimmendem Abfall (Treibsel) werden oder auf sonstige Weise zur Verschmutzung der Meeresumwelt beitragen können, entfernt worden ist und die eingebrachten Materialien keine ernsthafte Gefahr für die Fischerei oder die Schifffahrt darstellen.
+\2. Für die in den Absätzen 1.3 und 1.6 aufgeführten Abfälle oder sonstigen Stoffe kann ein Einbringen erwogen werden, sofern die höchstmögliche Menge an Materialien, die zu schwimmendem Abfall (Treibsel) werden oder auf sonstige Weise zur Verschmutzung der Meeresumwelt beitragen können, entfernt worden ist und die eingebrachten Materialien keine ernsthafte Gefahr für die Fischerei oder die Schifffahrt darstellen.
 
-\3. Unbeschadet der vorstehenden Bestimmungen kommen die in den Absätzen 1.1 bis 1.8 aufgeführten Materialien mit Radioaktivitätswerten oberhalb der deminimis‑Konzentration (Freigrenzen), wie sie von der IAEO[^annex1-lvlu1-1] festgelegt und von den Vertragsparteien angenommen wurden, nicht für eine Einbringung in Frage; des weiteren wird vorausgesetzt, dass die Vertragsparteien innerhalb von 25 Jahren ab dem 20. Februar 1994 und jeweils nach weiteren 25 Jahren eine wissenschaftliche Studie über alle radioaktiven Abfälle und sonstigen radioaktiven Stoffe mit Ausnahme hochgradig radioaktiver Abfälle oder Stoffe durchführen, wobei nach dem Ermessen der Vertragsparteien andere Faktoren zu berücksichtigen sind, und dass sie das Verbot des Einbringens solcher Stoffe nach den in Artikel 22 genannten Verfahren überprüfen.
+\3. Unbeschadet der vorstehenden Bestimmungen kommen die in den Absätzen 1.1 bis 1.7 aufgeführten Materialien mit Radioaktivitätswerten oberhalb der deminimis‑Konzentration (Freigrenzen), wie sie von der IAEO[^annex1-lvlu1-1] festgelegt und von den Vertragsparteien angenommen wurden, nicht für eine Einbringung in Frage; des weiteren wird vorausgesetzt, dass die Vertragsparteien innerhalb von 25 Jahren ab dem 20. Februar 1994 und jeweils nach weiteren 25 Jahren eine wissenschaftliche Studie über alle radioaktiven Abfälle und sonstigen radioaktiven Stoffe mit Ausnahme hochgradig radioaktiver Abfälle oder Stoffe durchführen, wobei nach dem Ermessen der Vertragsparteien andere Faktoren zu berücksichtigen sind, und dass sie das Verbot des Einbringens solcher Stoffe nach den in Artikel 22 genannten Verfahren überprüfen.
 
-\4. Für die in Absatz 1.8 genannten Kohlendioxidströme kann ein Einbringen nur dann erwogen werden, wenn folgende Voraussetzungen erfüllt sind:
+\4. Für die in Absatz 1.7 genannten Kohlendioxidströme kann ein Einbringen nur dann erwogen werden, wenn folgende Voraussetzungen erfüllt sind:
 
 - 1\. Die Beseitigung erfolgt in eine geologische Formation des Meeresuntergrunds.
 - 2\. Sie bestehen zum weitaus überwiegenden Teil aus Kohlendioxid. Sie dürfen zwangsläufige Beimengungen von Stoffen enthalten, die aus dem Ausgangsmaterial sowie aus den für die Abscheidung und die Sequestrierung angewandten Verfahren stammen.
@@ -480,9 +479,11 @@ Anlage 1[^t-2]
 
 [^annex1-lvlu1-1]: Internationale Atomenergie Organisation
 
-Anlage 2
+Anlage 2[^t-3]
 
 ## Bewertung von Abfällen oder sonstigen Stoffen, die für das Einbringen in Frage kommen
+
+[^t-3]: Bereinigt gemäss Entschliessung der 17. Vertragsparteienkonferenz vom 7. Okt. 2022, in Kraft getreten für die Schweiz am 15. Jan. 2023 ([AS 2024 58](https://fedlex.data.admin.ch/eli/oc/2024/58)).
 
 Allgemeines
 
@@ -506,7 +507,7 @@ Prüfung hinsichtlich der Einschränkung des Abfallaufkommens
 
 \3. Wenn sich bei der vorgeschriebenen Prüfung ergibt, dass es Möglichkeiten zur Vermeidung von Abfällen an der Quelle gibt, so wird von einem Antragsteller grundsätzlich erwartet, dass er in Zusammenarbeit mit den zuständigen Stellen auf lokaler und staatlicher Ebene eine Strategie der Abfallvermeidung formuliert und durchführt, die konkrete Abfallverringerungsziele sowie die Durchführung weiterer Prüfungen in Bezug auf die Vermeidung von Abfällen vorsieht, um diese Ziele zu erreichen. Durch Entscheidungen über die Erteilung und Erneuerung von Erlaubnissen ist sicherzustellen, dass sich daraus ergebende Anforderungen an die Abfallverringerung und ‑vermeidung eingehalten werden.
 
-\4. In Bezug auf Baggergut und Klärschlamm sollte es das Ziel der Abfallwirtschaft sein, die Quellen der Umweltverschmutzung zu bestimmen und zu bekämpfen. Dies sollte durch die Umsetzung von Strategien der Abfallvermeidung erreicht werden und erfordert eine Zusammenarbeit zwischen den zuständigen Stellen auf lokaler und staatlicher Ebene, die mit der Bekämpfung punktueller und diffuser Verschmutzungsquellen befasst sind. Bis zur Erreichung dieses Zieles können die mit kontaminiertem Baggergut verbundenen Probleme durch den Einsatz von Techniken zur Beseitigung auf See oder an Land angegangen werden.
+\4. In Bezug auf Baggergut sollte es das Ziel der Abfallwirtschaft sein, die Quellen der Umweltverschmutzung zu bestimmen und zu bekämpfen. Dies sollte durch die Umsetzung von Strategien der Abfallvermeidung erreicht werden und erfordert eine Zusammenarbeit zwischen den zuständigen Stellen auf lokaler und staatlicher Ebene, die mit der Bekämpfung punktueller und diffuser Verschmutzungsquellen befasst sind. Bis zur Erreichung dieses Zieles können die mit kontaminiertem Baggergut verbundenen Probleme durch den Einsatz von Techniken zur Beseitigung auf See oder an Land angegangen werden.
 
 Prüfung der verschiedenen Möglichkeiten in der Abfallwirtschaft
 
@@ -649,7 +650,7 @@ Die Streitparteien erleichtern die Arbeit des Gerichts und werden insbesondere n
 
 Das Gericht fällt seinen Spruch binnen fünf Monaten nach seiner Errichtung, es sei denn, es erachtet es als notwendig, die Frist zu verlängern, wobei die Verlängerungsfrist fünf Monate nicht überschreiten darf. Dem Spruch des Gerichts ist eine Begründung beizugeben. Der Spruch ist rechtsgültig und kann nicht angefochten werden; er wird dem Generalsekretär übermittelt, der die Vertragsparteien unterrichtet. Die Streitparteien führen den Spruch sofort aus.
 
-Geltungsbereich am 21. März 2019[^t-3]
+Geltungsbereich am 21. März 2019[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -722,4 +723,4 @@ Geltungsbereich am 21. März 2019[^t-3]
 <tr><td colspan="5"><sup>b</sup> Das Protokoll gilt nicht für die Färöer.</td></tr>
 </table>
 
-[^t-3]: [AS 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225), [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654)und [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225), [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654)und [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

@@ -3,11 +3,11 @@ sr: "0.814.287.1"
 title: "Protocole de 1996 du 7 novembre 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et d'autres matières (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/327"
 language: fr
-version: 2019-03-21
+version: 2023-01-15
 adopted: 1996-11-07
 in_force: 2006-03-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20190321/fr/xml/fedlex-data-admin-ch-eli-cc-2006-327-20190321-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20190321/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20230115/fr/xml/fedlex-data-admin-ch-eli-cc-2006-327-20230115-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20230115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Londres le 7 novembre 1996 Approuvé par l’Assemblée fédérale le 7 juin 2000[^t-1] Instrument de ratification déposé par la Suisse le 8 septembre 2000 Entré en vigueur pour la Suisse le 24 mars 2006
 
-(État le 21 mars 2019)
+(État le 15 janvier 2023)
 
 [^t-1]: [RO 2006 2047](https://fedlex.data.admin.ch/eli/oc/2006/326)
 
@@ -454,24 +454,23 @@ Annexe 1[^t-2]
 
 ## Déchets ou autres matières dont l’immersion peut être envisagée
 
-[^t-2]: Mise à jour par la résolution de la 1<sup>re</sup> Réunion des Parties contractantes du 2 nov. 2006, en vigueur pour la Suisse depuis le 10 fév. 2007 ([RO 2024 56](https://fedlex.data.admin.ch/eli/oc/2024/56)).
+[^t-2]: Mise à jour par les résolutions de la 1<sup>re</sup> Réunion des Parties contractantes du 2 nov. 2006 ([RO 2024 56](https://fedlex.data.admin.ch/eli/oc/2024/56)) et de la 17<sup>e</sup> Réunion des Parties contractantes du 7 oct. 2022, en vigueur pour la Suisse depuis le 15 janv. 2023 ([RO 2024 58](https://fedlex.data.admin.ch/eli/oc/2024/58)).
 
 \1. Les déchets ou autres matières dont la liste figure ci-après sont ceux dont on peut envisager l’immersion, en ayant conscience des objectifs et des obligations générales du présent Protocole énoncés aux art. 2 et 3:
 
 - 1\. déblais de dragage;
-- 2\. boues d’épuration;
-- 3\. déchets de poisson ou matières résultant d’opérations de traitement industriel du poisson;
-- 4\. navires et plates-formes ou autres ouvrages artificiels en mer;
-- 5\. matières géologiques inertes, inorganiques;
-- 6\. matières organiques d’origine naturelle;
-- 7\. objets volumineux constitués principalement de fer, d’acier, de béton et de matériaux également non nuisibles dont l’impact physique suscite des préoccupations, et seulement dans les cas où ces déchets sont produits en des lieux tels que des petites îles dont les communautés sont isolées et qui n’ont pas d’accès pratique à d’autres options d’élimination que l’immersion, et
-- 8\. flux de dioxyde de carbone issus des processus de capture du dioxyde de carbone aux fins de sa séquestration.
+- 2\. déchets de poisson ou matières résultant d’opérations de traitement industriel du poisson;
+- 3\. navires et plates-formes ou autres ouvrages artificiels en mer;
+- 4\. matières géologiques inertes, inorganiques;
+- 5\. matières organiques d’origine naturelle;
+- 6\. objets volumineux constitués principalement de fer, d’acier, de béton et de matériaux également non nuisibles dont l’impact physique suscite des préoccupations, et seulement dans les cas où ces déchets sont produits en des lieux tels que des petites îles dont les communautés sont isolées et qui n’ont pas d’accès pratique à d’autres options d’élimination que l’immersion, et
+- 7\. flux de dioxyde de carbone issus des processus de capture du dioxyde de carbone aux fins de sa séquestration.
 
-\2. L’immersion des déchets ou autres matières énumérés aux par. 1.4 et 1.7 peut être envisagée à condition que les matériaux risquant de produire des débris flottants ou de contribuer d’une autre manière à la pollution du milieu marin aient été retirés dans toute la mesure du possible, et à condition que les matériaux immergés en mer ne constituent pas un sérieux obstacle à la pêche ou à la navigation.
+\2. L’immersion des déchets ou autres matières énumérés aux par. 1.3 et 1.6 peut être envisagée à condition que les matériaux risquant de produire des débris flottants ou de contribuer d’une autre manière à la pollution du milieu marin aient été retirés dans toute la mesure du possible, et à condition que les matériaux immergés en mer ne constituent pas un sérieux obstacle à la pêche ou à la navigation.
 
-\3. Nonobstant ce qui précède, les matières énumérées aux par. 1.1 à 1.8 dont les niveaux de radioactivité sont supérieurs aux concentrations minima (faisant l’objet d’exemptions) définies par l’AIEA[^annex1-lvlu1-1] et adoptées par les Parties contractantes ne doivent pas être considérées comme pouvant faire l’objet d’une immersion; étant entendu en outre que dans un délai de 25 ans à compter du 20 février 1994, puis à des intervalles réguliers de 25 ans, les Parties contractantes effectuent une étude scientifique ayant trait à tous les déchets radioactifs et à toutes les autres matières radioactives autres que les déchets et matières fortement radioactifs, en tenant compte des autres facteurs qu’elles jugent utiles, et qu’elles réexaminent l’interdiction d’immerger de telles substances conformément aux procédures énoncées à l’art. 22.
+\3. Nonobstant ce qui précède, les matières énumérées aux par. 1.1 à 1.7 dont les niveaux de radioactivité sont supérieurs aux concentrations minima (faisant l’objet d’exemptions) définies par l’AIEA[^annex1-lvlu1-1] et adoptées par les Parties contractantes ne doivent pas être considérées comme pouvant faire l’objet d’une immersion; étant entendu en outre que dans un délai de 25 ans à compter du 20 février 1994, puis à des intervalles réguliers de 25 ans, les Parties contractantes effectuent une étude scientifique ayant trait à tous les déchets radioactifs et à toutes les autres matières radioactives autres que les déchets et matières fortement radioactifs, en tenant compte des autres facteurs qu’elles jugent utiles, et qu’elles réexaminent l’interdiction d’immerger de telles substances conformément aux procédures énoncées à l’art. 22.
 
-\4. L’immersion des flux de dioxyde de carbone visés au par. 1.8 ne peut être envisagée que si:
+\4. L’immersion des flux de dioxyde de carbone visés au par. 1.7 ne peut être envisagée que si:
 
 - 1\. ces flux sont évacués dans une formation géologique du sous-sol marin, et
 - 2\. ils sont composés presque exclusivement de dioxyde de carbone. Ils peuvent contenir des substances associées imprévues provenant de la matière d’origine et des processus de capture et de séquestration utilisés, et
@@ -479,9 +478,11 @@ Annexe 1[^t-2]
 
 [^annex1-lvlu1-1]: Agence Internationale de l’Energie Atomique.
 
-Annexe 2
+Annexe 2[^t-3]
 
 ## Évaluation des déchets ou autres matières dont l’immersion peut être envisagée
+
+[^t-3]: Mise à jour par la résolution de la 17<sup>e</sup> Réunion des Parties contractantes du 7 oct. 2022, en vigueur pour la Suisse depuis le 15 janv. 2023 ([RO 2024 58](https://fedlex.data.admin.ch/eli/oc/2024/58)).
 
 ### Généralités
 
@@ -505,7 +506,7 @@ Annexe 2
 
 \3. D’une façon générale, si l’audit prescrit permet de constater qu’il existe des possibilités d’éviter la production de déchets à la source, le demandeur de permis devrait formuler et mettre en œuvre, en collaboration avec les organismes locaux et nationaux compétents, une stratégie de prévention de la production de déchets comportant des objectifs précis en matière de réduction de la production de déchets et prévoyant des contrôles supplémentaires de la prévention de la production de déchets en vue de garantir la réalisation de ces objectifs. La décision de délivrer ou de renouveler le permis doit garantir que toutes les prescriptions en matière de réduction et de prévention de la production de déchets qui en résultent sont satisfaites.
 
-\4. En ce qui concerne les déblais de dragage et les boues d’épuration, l’objectif de la gestion des déchets devrait être d’identifier puis de maîtriser les sources de contamination. Cet objectif devrait être réalisé en mettant en œuvre des stratégies visant à prévenir la production de déchets et, à cette fin, il faut qu’il y ait collaboration entre les organismes locaux et nationaux compétents concernés par la maîtrise des sources de pollution ponctuelles et autres. Jusqu’à ce que cet objectif ait été atteint, les problèmes posés par les déblais de dragage contaminés pourront être réglés par des techniques de gestion des évacuations en mer ou à terre.
+\4. En ce qui concerne les déblais de dragage, l’objectif de la gestion des déchets devrait être d’identifier puis de maîtriser les sources de contamination. Cet objectif devrait être réalisé en mettant en œuvre des stratégies visant à prévenir la production de déchets et, à cette fin, il faut qu’il y ait collaboration entre les organismes locaux et nationaux compétents concernés par la maîtrise des sources de pollution ponctuelles et autres. Jusqu’à ce que cet objectif ait été atteint, les problèmes posés par les déblais de dragage contaminés pourront être réglés par des techniques de gestion des évacuations en mer ou à terre.
 
 ### Examen des options en matière de gestion de déchets
 
@@ -648,7 +649,7 @@ Les parties au différend facilitent les travaux du tribunal; à cette fin, conf
 
 Le tribunal rend sa sentence dans un délai de cinq mois à dater de sa constitution, sauf s’il juge nécessaire de proroger ce délai, le nouveau délai étant de cinq mois au maximum. La sentence du tribunal est motivée. Elle est définitive et sans appel et elle est communiquée au Secrétaire général de l’Organisation qui en informe les Parties contractantes. Les parties au différend doivent s’y conformer sans délai.
 
-Champ d’application le 21 mars 2019[^t-3]
+Champ d’application le 21 mars 2019[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -719,4 +720,4 @@ Champ d’application le 21 mars 2019[^t-3]
 <tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas à la Région administrative spéciale (RAS) Macao. <sup>b</sup> Le protocole ne s’applique pas aux Îles Féroé.</td></tr>
 </table>
 
-[^t-3]: [RO 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654); [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-4]: [RO 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654); [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
