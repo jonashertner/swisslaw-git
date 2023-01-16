@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.11"
 title: Beschluss über die Verteilung der Direktionen des Staatsrats und die Bildung seiner Delegationen
 language: de
-version: 2022-02-01
-valid_until: 2023-01-16
-version_adopted: 2022-01-31
+version: 2023-01-17
+valid_until: 2023-03-13
+version_adopted: 2023-01-17
 adopted: 2022-01-31
 in_force: 2022-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7116/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7723/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7116/pdf_file"
 
 Verteilung der Direktionen des Staatsrats und Delegationen – B
 
-vom 31.01.2022 (Fassung in Kraft getreten am 01.02.2022)
+vom 31.01.2022 (Fassung in Kraft getreten am 17.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -52,7 +52,7 @@ beschliesst:
 - b) Delegation für das Personalwesen: Jean-Pierre Siggen (FIND), Philippe Demierre (GSD), Sylvie Bonvin-Sansonnens (BKAD);
 - c) Delegation für das Gesundheitswesen: Philippe Demierre (GSD), Jean-François Steiert (RIMU), Didier Castella (ILFD);
 - d) Delegation für die Agglomerationen und die territorialen Strukturen: Didier Castella (ILFD), Jean-Pierre Siggen (FIND), Jean-François Steiert (RIMU);
-- e) Delegation für die Digitalisierung und die Informationssysteme: Jean-Pierre Siggen (FIND), Didier Castella (ILFD), Sylvie Bonvin-Sansonnens (BKAD).
+- e) Delegation für die Digitalisierung und die Informationssysteme: Jean-Pierre Siggen (FIND), Romain Collaud (SJSD), Sylvie Bonvin-Sansonnens (BKAD).
 
 <sup>2</sup> Ausserdem werden drei befristete Delegationen gebildet, die sich wie folgt zusammensetzen:
 
