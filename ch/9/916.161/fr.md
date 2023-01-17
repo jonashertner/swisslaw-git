@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mai 2010 sur la mise en circulation des produits phytos
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: fr
-version: 2023-01-01
+version: 2023-01-18
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230118/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230118-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230118/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230101/fr"
 
 (Ordonnance sur les produits phytosanitaires, OPPh)
 
-du 12 mai 2010 (État le 1<sup>er</sup> janvier 2023)
+du 12 mai 2010 (État le 18 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1336,7 +1336,7 @@ Les produits phytosanitaires qui sont homologués selon l’art. 36 doivent êtr
 
 - a. les utilisations du produit phytosanitaire qui sont indiquées dans la décision visée à l’art. 37 et les dispositions régissant l’entreposage et l’élimination;
 - b. le numéro fédéral d’homologation attribué;
-- c.[^55-7] ...
+- c.[^55-7] …
 - d. le nom et l’adresse de l’importateur;
 - e.[^55-8] le numéro de lot et la date de fabrication de la préparation; en ce qui concerne les produits phytosanitaires qui sont homologués à l’étranger selon l’art. 52 (Commerce parallèle) du règlement (CE) n<sup>o</sup> 1107/2009[^55-9], il y a lieu d’utiliser le numéro de lot et la date de fabrication de la préparation utilisés dans l’État membre d’origine selon le règlement précité.
 
@@ -1825,7 +1825,7 @@ Le service d’homologation établit une documentation interdisciplinaire sur le
 
 L’ordonnance du 18 mai 2005 sur la mise en circulation des produits phytosanitaires[^84-1] est abrogée.
 
-[^84-1]: [[RO 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[4479](https://fedlex.data.admin.ch/eli/oc/2005/579)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)ch. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 54 [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)annexe ch. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373), [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278)]
+[^84-1]: [[RO 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [4479](https://fedlex.data.admin.ch/eli/oc/2005/579), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)ch. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)annexe ch. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278)]
 
 #### Art. 85
 
@@ -1966,13 +1966,24 @@ Les produits phytosanitaires contenant une substance active qui sera biffée de 
 
 #### Art. 86h
 
-**Dispositions transitoires relatives à la modification du 16 novembre 2022**[^86h-1]
+**Disposition transitoire relative à la modification du 31 mai 2022**[^86h-1]
+
+Les produits phytosanitaires contenant la substance active Indoxacarb peuvent:
+
+- a. être mis en circulation jusqu’au 1<sup>er</sup> octobre 2022;
+- b. être utilisés jusqu’au 1<sup>er</sup> avril 2023.
+
+[^86h-1]: Introduit par le ch. I de l’O du DFI du 31 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)).
+
+#### Art. 86i
+
+**Dispositions transitoires relatives à la modification du 16 novembre 2022**[^86i-1]
 
 <sup>1</sup> Les produits phytosanitaires destinés à un usage non professionnel et autorisés avant le 16 novembre 2022 font l’objet d’un réexamen selon les critères énoncés à l’art. 17, al. 1<sup>ter</sup>, jusqu’au 31 décembre 2024. En cas de retrait de l’autorisation, les stocks existants des produits concernés peuvent encore être mis en circulation pendant douze mois, puis utilisés pendant douze mois supplémentaires.
 
 <sup>2</sup> Les autorisations d’adjuvants destinés à un usage non professionnel et autorisés avant le 16 novembre 2022 sont retirées jusqu’au 31 décembre 2024. Les stocks existants des produits concernés peuvent encore être mis en circulation pendant douze mois, puis utilisés pendant douze mois supplémentaires.
 
-[^86h-1]: Introduit par le ch. I de l’O du DFI du 31 mai 2022 ([RO 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
+[^86i-1]: Introduit par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)). Erratum du 18 janv. 2023 ([RO 2023 17](https://fedlex.data.admin.ch/eli/oc/2023/17)).
 
 ### Section 3 Entrée en vigueur
 
@@ -3069,9 +3080,9 @@ Les services d’évaluation évaluent, en tenant compte des modèles statistiqu
 
 ### 9BI-2.4.2.4Résidus dans les produits d’origine animale
 
-Les services d’évaluation évaluent les teneurs en résidus observées dans les produits d’origine animale en tenant compte des éléments d’information prévus à l’annexe II, partie A, ch. 8.4, de la directive 91/414/CEE[^annex9-partI-lvlu2-lvld4e203-lvlu22-1] et des résidus provenant d’autres utilisations.
+Les services d’évaluation évaluent les teneurs en résidus observées dans les produits d’origine animale en tenant compte des éléments d’information prévus à l’annexe II, partie A, ch. 8.4, de la directive 91/414/CEE[^annex9-partI-lvlu2-lvld4e204-lvlu22-1] et des résidus provenant d’autres utilisations.
 
-[^annex9-partI-lvlu2-lvld4e203-lvlu22-1]: Voir note relative à l’art. 86, al. 1, let. a
+[^annex9-partI-lvlu2-lvld4e204-lvlu22-1]: Voir note relative à l’art. 86, al. 1, let. a
 
 ### 9BI-2.4.2.5Risque d’exposition des consommateurs dans le cadre de leur alimentation
 
@@ -3089,7 +3100,7 @@ Lors de l’évaluation du sort et de la diffusion du produit phytosanitaire dan
 
 ### 9BI-2.5.1.1Sort et diffusion dans le sol
 
-<sup>1</sup> Les services d’évaluation apprécient la possibilité que le produit phytosanitaire atteigne le sol dans les conditions d’utilisation proposées; si cette possibilité est réelle, ils évaluent la vitesse et les voies de dégradation dans le sol, la mobilité dans le sol et l’évolution de la concentration totale (extractible et non extractible[^annex9-partI-lvlu2-lvld4e203-lvlu27-1]) de la substance active, des métabolites et des produits de dégradation et de réaction qui devrait se produire dans le sol de la zone d’utilisation envisagée après l’application du produit phytosanitaire selon les conditions proposées.
+<sup>1</sup> Les services d’évaluation apprécient la possibilité que le produit phytosanitaire atteigne le sol dans les conditions d’utilisation proposées; si cette possibilité est réelle, ils évaluent la vitesse et les voies de dégradation dans le sol, la mobilité dans le sol et l’évolution de la concentration totale (extractible et non extractible[^annex9-partI-lvlu2-lvld4e204-lvlu27-1]) de la substance active, des métabolites et des produits de dégradation et de réaction qui devrait se produire dans le sol de la zone d’utilisation envisagée après l’application du produit phytosanitaire selon les conditions proposées.
 
 <sup>2</sup> Cette évaluation s’appuie sur les éléments d’information suivants:
 
@@ -3110,7 +3121,7 @@ Lors de l’évaluation du sort et de la diffusion du produit phytosanitaire dan
 - c. tous les éléments d’information sur le produit phytosanitaire qui sont prévus à l’annexe 6, ch. 2, y compris ceux relatifs à la diffusion et à la dégradation dans le sol;
 - d. le cas échéant, les autres utilisations autorisées, dans la zone d’utilisation proposée, de produits phytosanitaires contenant la même substance active ou produisant les mêmes résidus.
 
-[^annex9-partI-lvlu2-lvld4e203-lvlu27-1]: Les résidus non extractibles présents dans les végétaux et dans les sols se définissent comme étant des espèces chimiques provenant de pesticides utilisés selon la bonne pratique agricole, qu’il n’est pas possible d’extraire par des méthodes qui ne modifient pas sensiblement la nature chimique desdits résidus. Ces résidus non extractibles sont réputés exclure tous fragments par transformation métabolique en produits naturels.
+[^annex9-partI-lvlu2-lvld4e204-lvlu27-1]: Les résidus non extractibles présents dans les végétaux et dans les sols se définissent comme étant des espèces chimiques provenant de pesticides utilisés selon la bonne pratique agricole, qu’il n’est pas possible d’extraire par des méthodes qui ne modifient pas sensiblement la nature chimique desdits résidus. Ces résidus non extractibles sont réputés exclure tous fragments par transformation métabolique en produits naturels.
 
 ### 9BI-2.5.1.2Sort et diffusion dans les eaux souterraines
 
@@ -3393,14 +3404,14 @@ Les services d’évaluation évaluent le contenu réel en substance active du p
 <sup>1</sup> Les services d’évaluation évaluent les propriétés physiques et chimiques du produit phytosanitaire, et notamment:
 
 - a. lorsqu’il existe une norme FAO adéquate, les propriétés physiques et chimiques visées dans cette norme;
-- b. lorsqu’il n’existe pas de norme FAO adéquate, toutes les propriétés physiques et chimiques pertinentes pour la formulation, telles qu’elles sont exposées dans le *«Manuel pour le développement et l’utilisation des normes FAO pour les produits de protection des plantes»*[^annex9-partI-lvlu2-lvld4e203-lvlu44-1].
+- b. lorsqu’il n’existe pas de norme FAO adéquate, toutes les propriétés physiques et chimiques pertinentes pour la formulation, telles qu’elles sont exposées dans le *«Manuel pour le développement et l’utilisation des normes FAO pour les produits de protection des plantes»*[^annex9-partI-lvlu2-lvld4e204-lvlu44-1].
 
 <sup>2</sup> Cette évaluation s’appuie sur les éléments d’information suivants:
 
 - a. les données relatives aux propriétés physiques et chimiques de la substance active prévues à l’annexe 5, ch. 2, et les résultats de leur évaluation;
 - b. les données relatives aux propriétés physiques et chimiques du produit phytosanitaire prévues à l’annexe 6, ch. 2.
 
-[^annex9-partI-lvlu2-lvld4e203-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
+[^annex9-partI-lvlu2-lvld4e204-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
 
 ### 9BI-2.7.3Mélange
 
@@ -3516,9 +3527,9 @@ Les instructions proposées pour le nettoyage du matériel d’application doive
 
 <sup>1</sup> Il n’est pas accordé d’autorisation si le niveau d’exposition de l’opérateur pendant la manipulation et l’application du produit phytosanitaire dans les conditions d’utilisation proposées (et notamment le dosage et le mode d’application) dépasse le NAEO.
 
-<sup>2</sup> En outre, la délivrance de l’autorisation est subordonnée au respect de la concentration maximale établie pour la substance active et/ou les composants toxiques du produit en application de l’ordonnance du DFI du 16 décembre 2016 sur les limites maximales applicables aux résidus de pesticides présents dans ou sur les produits d’origine végétale ou animale[^annex9-partI-lvlu3-lvld4e256-lvlu19-1].
+<sup>2</sup> En outre, la délivrance de l’autorisation est subordonnée au respect de la concentration maximale établie pour la substance active et/ou les composants toxiques du produit en application de l’ordonnance du DFI du 16 décembre 2016 sur les limites maximales applicables aux résidus de pesticides présents dans ou sur les produits d’origine végétale ou animale[^annex9-partI-lvlu3-lvld4e257-lvlu19-1].
 
-[^annex9-partI-lvlu3-lvld4e256-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e257-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.1.2Vêtement ou équipement de protection
 
@@ -3550,9 +3561,9 @@ Les autorisations doivent assurer que les résidus proviennent des quantités de
 
 <sup>1</sup> Lorsqu’il n’existe pas de concentration maximale, les services d’évaluation établissent une concentration maximale provisoire. Les conclusions relatives aux niveaux fixés doivent être applicables dans toutes les conditions de nature à influencer les niveaux de résidus qui subsistent dans les cultures, telles que le calendrier, la dose, la fréquence et le mode d’application.
 
-<sup>2</sup> Se fondant sur l’évaluation de la teneur potentielle en résidus dans et sur les parties de végétaux et les produits végétaux comestibles établie par les services d’évaluation compétents et sur l’OPOVA[^annex9-partI-lvlu3-lvld4e256-lvlu27-1], l’OSAV établit la teneur maximale en substances actives.
+<sup>2</sup> Se fondant sur l’évaluation de la teneur potentielle en résidus dans et sur les parties de végétaux et les produits végétaux comestibles établie par les services d’évaluation compétents et sur l’OPOVA[^annex9-partI-lvlu3-lvld4e257-lvlu27-1], l’OSAV établit la teneur maximale en substances actives.
 
-[^annex9-partI-lvlu3-lvld4e256-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e257-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.2.3DJA
 
@@ -3583,9 +3594,9 @@ Lorsque les végétaux ou produits végétaux traités sont destinés à l’ali
 
 ### 9CI-2.5.1.2Sort et comportement dans les eaux souterraines
 
-Il n’est pas accordé d’autorisation lorsque la concentration prévisible de la substance active ou des métabolites pertinents et produits de dégradation ou de réaction dans les eaux souterraines utilisées comme eau de boisson ou destinées à l’être ne satisfait pas aux exigences de l’annexe 2, ch. 22, OEaux[^annex9-partI-lvlu3-lvld4e256-lvlu34-1].
+Il n’est pas accordé d’autorisation lorsque la concentration prévisible de la substance active ou des métabolites pertinents et produits de dégradation ou de réaction dans les eaux souterraines utilisées comme eau de boisson ou destinées à l’être ne satisfait pas aux exigences de l’annexe 2, ch. 22, OEaux[^annex9-partI-lvlu3-lvld4e257-lvlu34-1].
 
-[^annex9-partI-lvlu3-lvld4e256-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex9-partI-lvlu3-lvld4e257-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ### 9CI-2.5.1.3Sort et comportement dans les eaux superficielles
 
@@ -4209,11 +4220,11 @@ Il convient de traiter les différents stades de développement/cycles de vie du
 
 <sup>2</sup> Les informations sur l’origine et les propriétés (par ex. spécificité) du micro-organisme et de ses métabolites/toxines résiduels, ainsi que sur les utilisations prévues du micro-organisme, constituent la base de l’évaluation du devenir et du comportement dans l’environnement. Il importe de tenir compte du mode d’action du micro-organisme.
 
-<sup>3</sup> Une évaluation est faite sur le devenir et le comportement de tout métabolite pertinent connu qui est produit par le micro-organisme. L’évaluation est effectuée pour chaque compartiment de l’environnement et est déclenchée sur la base des critères spécifiés dans la section 7, point iv), de l’annexe II B de la directive 91/414[^annex9-partII-lvlu2-lvld4e316-lvlu44-1].
+<sup>3</sup> Une évaluation est faite sur le devenir et le comportement de tout métabolite pertinent connu qui est produit par le micro-organisme. L’évaluation est effectuée pour chaque compartiment de l’environnement et est déclenchée sur la base des critères spécifiés dans la section 7, point iv), de l’annexe II B de la directive 91/414[^annex9-partII-lvlu2-lvld4e317-lvlu44-1].
 
 <sup>4</sup> Lors de l’évaluation du devenir et du comportement dans l’environnement du produit phytosanitaire, les services d’évaluation considèrent tous les aspects de l’environnement, y compris les biotas. La possibilité de persistance et de multiplication des micro-organismes doit être évaluée dans tous les milieux environnementaux, sauf s’il peut être justifié que des micro-organismes particuliers n’atteindront pas un milieu spécifique. La mobilité des micro-organismes et de leurs métabolites/toxines résiduels doit être prise en considération.
 
-[^annex9-partII-lvlu2-lvld4e316-lvlu44-1]: Voir note relative à l’art. 86, al. 1, let a
+[^annex9-partII-lvlu2-lvld4e317-lvlu44-1]: Voir note relative à l’art. 86, al. 1, let a
 
 ### 9BII-2.7.1Risque pour les eaux
 
@@ -4438,9 +4449,9 @@ Le service d’homologation informe les demandeurs de toute mesure visée aux le
 
 <sup>10</sup> L’autorisation n’est pas accordée si des métabolites/toxines pertinents (c’est-à-dire ceux susceptibles d’affecter la santé humaine et/ou l’environnement) que l’on sait être produits par le micro-organisme et/ou par des contaminants microbiens sont présents dans le produit phytosanitaire, sauf s’il peut être démontré que la quantité présente reste à un niveau acceptable, avant et après l’utilisation prévue.
 
-<sup>11</sup> Le service d’homologation fait en sorte que des mesures de contrôle qualité adéquates soient mises en œuvre afin de garantir l’identité du micro-organisme et le contenu du produit phytosanitaire. Ces mesures de contrôle qualité doivent comprendre un système d’analyse des risques et maîtrise des points critiques (HACCP[^annex9-partII-lvlu3-lvld4e393-1]) ou un système équivalent.
+<sup>11</sup> Le service d’homologation fait en sorte que des mesures de contrôle qualité adéquates soient mises en œuvre afin de garantir l’identité du micro-organisme et le contenu du produit phytosanitaire. Ces mesures de contrôle qualité doivent comprendre un système d’analyse des risques et maîtrise des points critiques (HACCP[^annex9-partII-lvlu3-lvld4e394-1]) ou un système équivalent.
 
-[^annex9-partII-lvlu3-lvld4e393-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
+[^annex9-partII-lvlu3-lvld4e394-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
 
 ### 9CII-2 Principes spécifiques
 
@@ -4454,9 +4465,9 @@ Pour chaque autorisation octroyée, le service d’homologation fait en sorte qu
 
 ### 9CII-2.2.1 Teneur minimale et maximale de micro-organismes
 
-Des informations suffisantes doivent être fournies pour permettre d’estimer la teneur minimale et maximale de micro-organismes dans le matériau utilisé pour la fabrication des produits phytosanitaires, ainsi que dans le produit phytosanitaire. La teneur en autres composants et formulants du produit phytosanitaire et en micro-organismes contaminants issus du processus de production doit, dans la mesure du possible, être suffisamment définie. Le service d’homologation fait en sorte que le niveau des organismes contaminants soit contrôlé à un niveau acceptable. En outre, il y a lieu de préciser la nature et l’état physiques du produit phytosanitaire, de préférence conformément au «Catalogue des types de formulation de pesticides et système de code international[^annex9-partII-lvlu3-lvld4e394-lvlu3-1].
+Des informations suffisantes doivent être fournies pour permettre d’estimer la teneur minimale et maximale de micro-organismes dans le matériau utilisé pour la fabrication des produits phytosanitaires, ainsi que dans le produit phytosanitaire. La teneur en autres composants et formulants du produit phytosanitaire et en micro-organismes contaminants issus du processus de production doit, dans la mesure du possible, être suffisamment définie. Le service d’homologation fait en sorte que le niveau des organismes contaminants soit contrôlé à un niveau acceptable. En outre, il y a lieu de préciser la nature et l’état physiques du produit phytosanitaire, de préférence conformément au «Catalogue des types de formulation de pesticides et système de code international[^annex9-partII-lvlu3-lvld4e395-lvlu3-1].
 
-[^annex9-partII-lvlu3-lvld4e394-lvlu3-1]: Monographie technique internationale CropLife no 2, 5<sup>e</sup> édition, 2002
+[^annex9-partII-lvlu3-lvld4e395-lvlu3-1]: Monographie technique internationale CropLife no 2, 5<sup>e</sup> édition, 2002
 
 ### 9CII-2.2.2Résistances
 
@@ -4591,12 +4602,12 @@ Les périodes de sécurité d’attente et de réentrée et autres précautions 
 
 ### 9CII-2.6.1.9Conditions de l’autorisation
 
-Les conditions de l’autorisation doivent être en conformité avec la directive 98/24/CE[^annex9-partII-lvlu3-lvld4e394-lvlu37-1] et avec la directive 2000/54/CE[^annex9-partII-lvlu3-lvld4e394-lvlu37-2]. Les données expérimentales et les informations fournies en ce qui concerne la reconnaissance des symptômes d’infection ou de pathogénicité et l’efficacité des premiers soins et des mesures thérapeutiques doivent être examinées. Les conditions de l’autorisation seront également en conformité avec la directive 2004/37/CE[^annex9-partII-lvlu3-lvld4e394-lvlu37-3]. Les conditions de l’autorisation doivent également être en conformité avec la directive 89/656/CEE[^annex9-partII-lvlu3-lvld4e394-lvlu37-4].
+Les conditions de l’autorisation doivent être en conformité avec la directive 98/24/CE[^annex9-partII-lvlu3-lvld4e395-lvlu37-1] et avec la directive 2000/54/CE[^annex9-partII-lvlu3-lvld4e395-lvlu37-2]. Les données expérimentales et les informations fournies en ce qui concerne la reconnaissance des symptômes d’infection ou de pathogénicité et l’efficacité des premiers soins et des mesures thérapeutiques doivent être examinées. Les conditions de l’autorisation seront également en conformité avec la directive 2004/37/CE[^annex9-partII-lvlu3-lvld4e395-lvlu37-3]. Les conditions de l’autorisation doivent également être en conformité avec la directive 89/656/CEE[^annex9-partII-lvlu3-lvld4e395-lvlu37-4].
 
-[^annex9-partII-lvlu3-lvld4e394-lvlu37-1]: Directive 98/24/CE du Conseil du 7 avril 1998 concernant la protection de la santé et de la sécurité des travailleurs contre les risques liés à des agents chimiques sur le lieu de travail, JO L 131 du 5.5.1998, p. 11; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
-[^annex9-partII-lvlu3-lvld4e394-lvlu37-2]: Directive 2000/54/CE du Parlement européen et du Conseil du 18 sept. 2000 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents biologiques au travail dans la version du JO L 262 du 17.10.2000, p. 21.
-[^annex9-partII-lvlu3-lvld4e394-lvlu37-3]: Directive 2004/37/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents cancérigènes ou mutagènes au travail dans la version du JO L 204 du 4.8.2007, p. 28.
-[^annex9-partII-lvlu3-lvld4e394-lvlu37-4]: Directive 89/656/CEE du Conseil du 30 nov. 1989 concernant les prescriptions minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail d’équipements de protection individuelle, JO L 393 du 30.12.1989, p. 18; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
+[^annex9-partII-lvlu3-lvld4e395-lvlu37-1]: Directive 98/24/CE du Conseil du 7 avril 1998 concernant la protection de la santé et de la sécurité des travailleurs contre les risques liés à des agents chimiques sur le lieu de travail, JO L 131 du 5.5.1998, p. 11; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
+[^annex9-partII-lvlu3-lvld4e395-lvlu37-2]: Directive 2000/54/CE du Parlement européen et du Conseil du 18 sept. 2000 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents biologiques au travail dans la version du JO L 262 du 17.10.2000, p. 21.
+[^annex9-partII-lvlu3-lvld4e395-lvlu37-3]: Directive 2004/37/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la protection des travailleurs contre les risques liés à l’exposition à des agents cancérigènes ou mutagènes au travail dans la version du JO L 204 du 4.8.2007, p. 28.
+[^annex9-partII-lvlu3-lvld4e395-lvlu37-4]: Directive 89/656/CEE du Conseil du 30 nov. 1989 concernant les prescriptions minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail d’équipements de protection individuelle, JO L 393 du 30.12.1989, p. 18; modifiée en dernier lieu par la directive 2007/30/CE, JO L 165 du 27.6.2007, p. 21.
 
 ### 9CII-2.6.2Effets sur la santé humaine ou animale découlant des résidus
 
