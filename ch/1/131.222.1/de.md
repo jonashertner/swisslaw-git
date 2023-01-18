@@ -3,20 +3,20 @@ sr: "131.222.1"
 title: "Verfassung des Kantons Basel-Stadt, vom 23. März 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/614_fga"
 language: de
-version: 2019-03-22
+version: 2023-01-19
 adopted: 2005-03-23
 in_force: 2006-07-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/614_fga/20190322/de/xml/fedlex-data-admin-ch-eli-cc-2006-614_fga-20190322-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/614_fga/20190322/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/614_fga/20230119/de/xml/fedlex-data-admin-ch-eli-cc-2006-614_fga-20230119-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/614_fga/20230119/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Basel-Stadt
 
-vom 23. März 2005 (Stand am 22. März 2019)[^t-1]
+vom 23. März 2005 (Stand am 19. Januar 2023)[^t-1]
 
-[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 In Verantwortung gegenüber der Schöpfung und im Wissen um die Grenzen menschlicher Macht, gibt sich das Volk des Kantons Basel-Stadt die folgende Verfassung:
 
@@ -205,15 +205,35 @@ Kanton und Gemeinden setzen sich über die einklagbaren Grundrechte hinaus zum Z
 
 <sup>1</sup> Der Staat orientiert sich bei der Erfüllung seiner Aufgaben an den Bedürfnissen und am Wohlergehen der Bevölkerung. Er berücksichtigt dabei die Würde, die Persönlichkeit und die Eigenverantwortung des einzelnen Menschen.
 
-<sup>2</sup> Er wirkt auf die Erhaltung der natürlichen Lebensgrundlagen und auf eine nachhaltige Entwicklung hin, die den Bedürfnissen der gegenwärtigen Generation entspricht, aber zugleich die ökologischen, wirtschaftlichen und sozialen Bedürfnisse künftiger Generationen und ihre Möglichkeiten nicht gefährdet, ihre eigene Lebensweise zu wählen.
+<sup>2</sup> Er wirkt auf die Erhaltung der natürlichen Lebensgrundlagen und auf eine nachhaltige Entwicklung hin, die den Bedürfnissen der gegenwärtigen Generation entspricht, aber zugleich die ökologischen, wirtschaftlichen und sozialen Bedürfnisse künftiger Generationen und ihre Möglichkeiten nicht gefährdet, ihre eigene Lebensweise zu wählen. Er trägt nach seinen Möglichkeiten dazu bei, dass die globale Erwärmung gegenüber dem vorindustriellen Niveau 1,5° C nicht übersteigt.[^15-1]
 
 <sup>3</sup> Er sorgt für Chancengleichheit und fördert die kulturelle Vielfalt, die Integration und die Gleichberechtigung in der Bevölkerung sowie die wirtschaftliche Entfaltung.
+
+[^15-1]: Zweiter Satz angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 19. Jan. 2023. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 3; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Überprüfung der Aufgabenerfüllung
 
 #### § 16
 
 Die zuständigen Behörden des Staates überprüfen die Erfüllung der öffentlichen Aufgaben periodisch auf ihre Notwendigkeit, Wirksamkeit und Effizienz sowie ihre finanziellen Auswirkungen und deren Tragbarkeit.
+
+### Klimagerechtigkeit
+
+#### § 16a
+
+[^16a-1]
+
+<sup>1</sup> In Anerkennung der Klimakrise als Bedrohung für Mensch, Ökosysteme, Wirtschaft und ein friedvolles Zusammenleben sowie als Chance für gesellschaftliche Innovation trifft der Staat effektive Massnahmen zu Klimaschutz und zum Schutz vor den Folgen der Klimaerhitzung.
+
+<sup>2</sup> Er sorgt im Rahmen seiner Kompetenzen dafür, dass der Ausstoss an Treibhausgasemissionen im Kanton Basel-Stadt in allen Sektoren bis 2037 auf Netto-Null sinkt.
+
+<sup>3</sup> Dazu legt er verbindliche 5-Jahresziele und Absenkpfade für Treibhausgase fest und handelt im Sinne von Verursacherprinzip und umfassender Klimagerechtigkeit.
+
+<sup>4</sup> Er setzt sich im Rahmen seiner Beteiligungen an Anstalten und Unternehmen des Finanz- und Verwaltungsvermögens dafür ein, dass diese in ihren gesamten Tätigkeiten den vorgenannten Zielen entsprechen.
+
+<sup>5</sup> Er setzt sich beim Bund für die notwendigen Rahmenbedingungen ein.
+
+[^16a-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 19. Jan. 2023. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 3; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Grundsätze der Bildung und Erziehung
 
@@ -357,9 +377,9 @@ Das Gesundheitswesen und die Ausübung der Gesundheitsberufe unterstehen der Auf
 
 ### Raumplanung, Wohnschutz und Wohnumfeld
 
-[^lvlIII-lvlu20-1]
+[^lvlIII-lvlu21-1]
 
-[^lvlIII-lvlu20-1]: Angenommen in der [Volksabstimmung vom 10. Juni 2018](http://www.admin.ch/ch/d/pore/va/20180610/index.html), in Kraft seit 5. Juli 2018. Gewährleistungsbeschluss vom 22. März 2019 ([BBl 2019 2861](https://fedlex.data.admin.ch/eli/fga/2019/791)Art. 4 Abs. 2, [2018 7741](https://fedlex.data.admin.ch/eli/fga/2018/2724)).
+[^lvlIII-lvlu21-1]: Angenommen in der [Volksabstimmung vom 10. Juni 2018](http://www.admin.ch/ch/d/pore/va/20180610/index.html), in Kraft seit 5. Juli 2018. Gewährleistungsbeschluss vom 22. März 2019 ([BBl 2019 2861](https://fedlex.data.admin.ch/eli/fga/2019/791)Art. 4 Abs. 2, [2018 7741](https://fedlex.data.admin.ch/eli/fga/2018/2724)).
 
 #### § 34
 
@@ -1572,7 +1592,7 @@ Die Zahlen verweisen auf die Paragraphen und Paragraphenteile der Verfassung
 
 **Abgaben** (s. Steuern)
 
-**Abstimmungen** 41<sup>a</sup>, 47-52, 66, 84<sup>2</sup>
+**Abstimmungen** 41<sup>a</sup>, 47–52, 66, 84<sup>2</sup>
 
 - [tab] – Recht auf freie 11<sup>1v</sup>
 
@@ -1590,7 +1610,7 @@ Die Zahlen verweisen auf die Paragraphen und Paragraphenteile der Verfassung
 
 **Anstalten** 67
 
-**Aufgaben** des Kantons 15-38
+**Aufgaben** des Kantons 15–38
 
 **Aufgaben,** öffentliche
 
@@ -1880,6 +1900,8 @@ Die Zahlen verweisen auf die Paragraphen und Paragraphenteile der Verfassung
 
 **Kirchen** (s. Religionsgemeinschaften)
 
+**Klimaschutz** 15<sup>2</sup>, 16*a*
+
 **Kommunikation** 11<sup>1g</sup>
 
 **Kultur** 35
@@ -2084,7 +2106,7 @@ Die Zahlen verweisen auf die Paragraphen und Paragraphenteile der Verfassung
 - [tab] – Staatsgewalt 1
 - [tab] – Grundsätze staatlichen Handelns 5
 
-- [tab] – Staatsaufgaben und -ziele 15-38
+- [tab] – Staatsaufgaben und -ziele 15–38
 
 **Staatsgewalt** 1<sup>2</sup>
 
@@ -2104,7 +2126,7 @@ Die Zahlen verweisen auf die Paragraphen und Paragraphenteile der Verfassung
 - [tab] – kommunale 61
 - [tab] – kantonale 121<sup>a</sup>, 122
 
-**Stimmrecht** 40-43
+**Stimmrecht** 40–43
 
 **Strafgerichtsbarkeit** 114
 

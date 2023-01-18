@@ -3,11 +3,11 @@ sr: "131.222.1"
 title: "Constitution du canton de Bâle-Ville, du 23 mars 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/614_fga"
 language: fr
-version: 2019-03-22
+version: 2023-01-19
 adopted: 2005-03-23
 in_force: 2006-07-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/614_fga/20190322/fr/xml/fedlex-data-admin-ch-eli-cc-2006-614_fga-20190322-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/614_fga/20190322/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/614_fga/20230119/fr/xml/fedlex-data-admin-ch-eli-cc-2006-614_fga-20230119-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/614_fga/20230119/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/614_fga/20190322/fr"
 
 Traduction[^t-1]
 
-du 23 mars 2005 (État le 22 mars 2019)[^t-2]
+du 23 mars 2005 (État le 19 janvier 2023)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Conscient de sa responsabilité envers la Création et des limites du pouvoir de l’être humain,
 
@@ -212,15 +212,35 @@ En plus des droits fondamentaux justiciables qui sont garantis par la présente 
 
 <sup>1</sup> L’État remplit ses tâches en fonction des besoins de la population et en ayant pour objectif sa prospérité. Il agit dans le respect de la dignité, de la personnalité et de la responsabilité de chacun.
 
-<sup>2</sup> Il s’efforce de préserver les ressources naturelles et d’oeuvrer à un développement durable qui réponde aux besoins des générations présentes sans toutefois mettre en péril l’héritage écologique, économique et social des générations futures et sans risquer de les priver du choix de leur propre mode de vie.
+<sup>2</sup> Il s’efforce de préserver les ressources naturelles et d’oeuvrer à un développement durable qui réponde aux besoins des générations présentes sans toutefois mettre en péril l’héritage écologique, économique et social des générations futures et sans risquer de les priver du choix de leur propre mode de vie. Il contribue, dans la mesure de ses possibilités, à ce que le réchauffement climatique ne dépasse pas 1,5° C par rapport au niveau préindustriel.[^15-1]
 
 <sup>3</sup> Il veille à garantir l’égalité des chances et favorise la pluralité culturelle, l’intégration et l’égalité de droit au sein de la population et la prospérité économique.
 
-### Contrôle de l’accomplisse-ment des tâches
+[^15-1]: Phrase acceptée en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 19 janv. 2023. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 3; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+
+### Contrôle de l’accomplissement des tâches
 
 #### § 16
 
 Les autorités compétentes de l’État s’assurent périodiquement que les tâches assumées par les pouvoirs publics sont bien nécessaires, efficaces et remplies de manière économiquement optimale, qu’elles sont supportables et que leur conséquences financières sont maîtrisées.
+
+### Justice climatique
+
+#### § 16a
+
+[^16a-1]
+
+<sup>1</sup> Reconnaissant la crise climatique comme une menace pour les êtres humains, les écosystèmes, l’économie et la coexistence pacifique et comme une opportunité pour l’innovation sociale, l’État prend des mesures efficaces pour la protection du climat et face aux conséquences du réchauffement climatique.
+
+<sup>2</sup> Il veille, dans le cadre de ses compétences, à ce que les émissions de gaz à effet de serre dans le canton de Bâle-Ville soient réduites à zéro net dans tous les secteurs d’ici à 2037.
+
+<sup>3</sup> Dans ce but, il fixe, de manière contraignante, des objectifs pour des périodes de cinq ans et des trajectoires de réduction des gaz à effet de serre et agit selon le principe du pollueur-payeur et d’une justice climatique globale.
+
+<sup>4</sup> Il s’engage, dans le cadre de ses participations à des établissements et entreprises du patrimoine financier et administratif, à ce que ceux-ci satisfassent dans toutes leurs activités aux objectifs susmentionnés.
+
+<sup>5</sup> Il s’engage auprès de la Confédération pour créer les conditions cadres nécessaires.
+
+[^16a-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 19 janv. 2023. Garantie de l’Ass. féd. du 14 mars 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 3; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Principes régissant la formation et l’éducation
 
@@ -364,9 +384,9 @@ L’État exerce sa surveillance sur le secteur de la santé et sur l’exercice
 
 ### Aménagement du territoire, protection du logement et habitat
 
-[^lvlIII-lvlu20-1]
+[^lvlIII-lvlu21-1]
 
-[^lvlIII-lvlu20-1]: Accepté en [votation populaire du 10 juin 2018](http://www.admin.ch/ch/f/pore/va/20180610/index.html), en vigueur depuis le 5 juil. 2018. Garantie de l’Ass. féd. du 22 mars 2019 ([FF 2019 2821](https://fedlex.data.admin.ch/eli/fga/2019/791)art. 4 al. 2, [2018 7719](https://fedlex.data.admin.ch/eli/fga/2018/2724)).
+[^lvlIII-lvlu21-1]: Accepté en [votation populaire du 10 juin 2018](http://www.admin.ch/ch/f/pore/va/20180610/index.html), en vigueur depuis le 5 juil. 2018. Garantie de l’Ass. féd. du 22 mars 2019 ([FF 2019 2821](https://fedlex.data.admin.ch/eli/fga/2019/791)art. 4 al. 2, [2018 7719](https://fedlex.data.admin.ch/eli/fga/2018/2724)).
 
 #### § 34
 
@@ -661,7 +681,7 @@ Les communes (communes municipales et communes bourgeoises) sont des collectivit
 
 <sup>1</sup> L’existence et l’intégrité territoriale et patrimoniale des communes sont garanties.
 
-<sup>2</sup> La fusion, la division et la réorganisation de communes sont soumis à l’approbation des citoyens ayant le droit de vote des communes touchées et de l’État.
+<sup>2</sup> La fusion, la division et la réorganisation de communes sont soumises à l’approbation des citoyens ayant le droit de vote des communes touchées et de l’État.
 
 <sup>3</sup> Toute rectification de frontière entre les communes municipales de Bettingen et de Riehen est soumise à l’approbation du Conseil d’État.
 
@@ -1958,6 +1978,8 @@ Juge
 
 - – cf. Tribunaux
 
+Justice climatique 16*a*
+
 **Langues** 76
 
 **Législature** 92, 102<sup>1</sup>, 145
@@ -2074,6 +2096,8 @@ Protection
 Publicité 119<sup>3</sup>
 
 - – séances du Grand Conseil 96
+
+Réchauffement climatique 15<sup>2</sup>
 
 Référendum 51
 

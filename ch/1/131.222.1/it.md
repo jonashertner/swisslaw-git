@@ -3,11 +3,11 @@ sr: "131.222.1"
 title: "Costituzione del Cantone di Basilea Città, del 23 marzo 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/614_fga"
 language: it
-version: 2019-03-22
+version: 2023-01-19
 adopted: 2005-03-23
 in_force: 2006-07-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/614_fga/20190322/it/xml/fedlex-data-admin-ch-eli-cc-2006-614_fga-20190322-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/614_fga/20190322/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/614_fga/20230119/it/xml/fedlex-data-admin-ch-eli-cc-2006-614_fga-20230119-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/614_fga/20230119/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/614_fga/20190322/it"
 
 Traduzione[^t-1]
 
-del 23 marzo 2005 (Stato 22 marzo 2019)[^t-2]
+del 23 marzo 2005 (Stato 19 gennaio 2023)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 Conscio della sua responsabilità verso il creato e consapevole dei limiti del potere dell’essere umano, il Popolo del Cantone di Basilea Città si è dato la presente Costituzione:
 
@@ -208,15 +208,35 @@ Oltre ai diritti fondamentali che possono essere fatti valere in giudizio, il Ca
 
 <sup>1</sup> Lo Stato adempie i suoi compiti improntandosi ai bisogni e al benessere della popolazione. Lo fa tenendo conto della dignità, della personalità e della responsabilità personale del singolo.
 
-<sup>2</sup> Lo Stato si adopera per preservare le basi naturali della vita e per uno sviluppo sostenibile che corrisponda ai bisogni della generazione attuale, senza tuttavia pregiudicare le esigenze ecologiche, economiche e sociali delle generazioni future e le loro possibilità di scegliere il proprio modo di vita.
+<sup>2</sup> Lo Stato si adopera per preservare le basi naturali della vita e per uno sviluppo sostenibile che corrisponda ai bisogni della generazione attuale, senza tuttavia pregiudicare le esigenze ecologiche, economiche e sociali delle generazioni future e le loro possibilità di scegliere il proprio modo di vita. Contribuisce, nei limiti delle sue possibilità, a contenere il riscaldamento climatico a 1,5 gradi centigradi rispetto al periodo preindustriale.[^15-1]
 
 <sup>3</sup> Lo Stato provvede a garantire pari opportunità e promuove la multiculturalità, l’integrazione e la parità di trattamento in seno alla popolazione, nonché la prosperità economica.
+
+[^15-1]: Secondo per. accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 19 gen. 2023. Garanzia dell’AF del 14 mar. 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 3; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Verifica dell’adempimento dei compiti
 
 #### § 16
 
 Le autorità competenti dello Stato si assicurano periodicamente che i compiti pubblici siano effettivamente necessari e adempiti in modo efficace ed efficiente; ne verificano inoltre le conseguenze finanziarie assicurandosi ch’esse risultino sopportabili.
+
+### Giustizia climatica
+
+#### § 16a
+
+[^16a-1]
+
+<sup>1</sup> Riconoscendo che la crisi climatica rappresenta una minaccia per gli esseri umani, gli ecosistemi, l’economia e la coesistenza pacifica così come un’opportunità per l’innovazione sociale, lo Stato adotta misure efficaci per la protezione del clima e per la protezione dalle conseguenze del riscaldamento climatico.
+
+<sup>2</sup> Lo Stato provvede, nel quadro delle sue competenze, affinché nel Cantone di Basilea Città le emissioni di gas serra siano ridotte a un saldo netto pari a zero in tutti i settori entro il 2037.
+
+<sup>3</sup> A tal fine, lo Stato stabilisce in modo vincolante obiettivi quinquennali e schemi di riduzione dei gas serra e agisce secondo il principio di causalità nonché a favore di una giustizia climatica globale.
+
+<sup>4</sup> Lo Stato s’impegna, nel quadro delle sue partecipazioni a istituti e imprese del patrimonio finanziario e amministrativo, affinché questi ultimi si conformino agli obiettivi summenzionati in tutte le loro attività.
+
+<sup>5</sup> Lo Stato s’impegna in seno alla Confederazione per creare le condizioni quadro necessarie.
+
+[^16a-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 19 gen. 2023. Garanzia dell’AF del 14 mar. 2024 ([FF 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)art. 3; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Principi in materia di formazione ed educazione
 
@@ -360,9 +380,9 @@ Il settore sanitario e l’esercizio delle professioni sanitarie sottostanno all
 
 ### Assetto del territorio, protezione dell’alloggio e contesto abitativo
 
-[^lvlIII-lvlu20-1]
+[^lvlIII-lvlu21-1]
 
-[^lvlIII-lvlu20-1]: Accettato nella [votazione popolare del 10 giu. 2018](http://www.admin.ch/ch/i/pore/va/20180610/index.html), con effetto dal 5 lug. 2018. Garanzia dell’AF del 22 mar. 2019 ([FF 2019 2487](https://fedlex.data.admin.ch/eli/fga/2019/791)art. 4 cpv. 2, [2018 6535](https://fedlex.data.admin.ch/eli/fga/2018/2724)).
+[^lvlIII-lvlu21-1]: Accettato nella [votazione popolare del 10 giu. 2018](http://www.admin.ch/ch/i/pore/va/20180610/index.html), con effetto dal 5 lug. 2018. Garanzia dell’AF del 22 mar. 2019 ([FF 2019 2487](https://fedlex.data.admin.ch/eli/fga/2019/791)art. 4 cpv. 2, [2018 6535](https://fedlex.data.admin.ch/eli/fga/2018/2724)).
 
 #### § 34
 
@@ -1808,6 +1828,11 @@ Cittadinanza 39 ss
 - [tab] – esercizio del diritto di voto 42
 - [tab] – promozione del conferimento della 39
 
+**Clima**
+
+- [tab] – riscaldamento climatico 15,16*a*
+- [tab] – giustizia climatica 16*a*
+
 Collaboratori personali 71
 
 Commissione (i)
@@ -2154,6 +2179,10 @@ Garanzia/e
 - [tab] – dei diritti fondamentali 11
 - [tab] – dell’autonomia comunale 59
 - [tab] – procedurali 12
+
+**Giustizia** 131
+
+- [tab] – climatica 16*a*
 
 **Gran Consiglio** 80 ss
 
