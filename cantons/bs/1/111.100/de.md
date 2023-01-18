@@ -3,24 +3,26 @@ canton: BS
 number: "111.100"
 title: Verfassung des Kantons Basel-Stadt
 language: de
-version: 2018-07-05
-valid_until: 2023-01-18
-version_adopted: 2018-06-10
+version: 2023-01-19
+valid_until: 2025-11-02
+version_adopted: 2022-09-14
 adopted: 2005-03-23
 in_force: 2006-07-13
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/111.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6364/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6406/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Basel-Stadt
 
-Verfassung | Kantonsverfassung
+Verfassung | Kantonsverfassung[^t-1]
 
-Vom 23. März 2005 (Stand 5. Juli 2018)
+Vom 23. März 2005 (Stand 19. Januar 2023)
 
 In Verantwortung gegenüber der Schöpfung und im Wissen um die Grenzen menschlicher Macht, gibt sich das Volk des Kantons Basel-Stadt die folgende Verfassung:
+
+[^t-1]: Angenommen in der Volksabstimmung vom 30.10.2005 mit 28 484 Ja gegen 8742 Nein; eidg. Gewährleistung erteilt durch Beschlüsse des Nationalrats vom 27.9.2006 und des Ständerats vom 28.9.2006
 
 ## I. Allgemeine Bestimmungen
 
@@ -196,7 +198,7 @@ In Verantwortung gegenüber der Schöpfung und im Wissen um die Grenzen menschli
 
 <sup>1</sup> Der Staat orientiert sich bei der Erfüllung seiner Aufgaben an den Bedürfnissen und am Wohlergehen der Bevölkerung. Er berücksichtigt dabei die Würde, die Persönlichkeit und die Eigenverantwortung des einzelnen Menschen.
 
-<sup>2</sup> Er wirkt auf die Erhaltung der natürlichen Lebensgrundlagen und auf eine nachhaltige Entwicklung hin, die den Bedürfnissen der gegenwärtigen Generation entspricht, aber zugleich die ökologischen, wirtschaftlichen und sozialen Bedürfnisse künftiger Generationen und ihre Möglichkeiten nicht gefährdet, ihre eigene Lebensweise zu wählen.
+<sup>2</sup> Er wirkt auf die Erhaltung der natürlichen Lebensgrundlagen und auf eine nachhaltige Entwicklung hin, die den Bedürfnissen der gegenwärtigen Generation entspricht, aber zugleich die ökologischen, wirtschaftlichen und sozialen Bedürfnisse künftiger Generationen und ihre Möglichkeiten nicht gefährdet, ihre eigene Lebensweise zu wählen. Er trägt nach seinen Möglichkeiten dazu bei, dass die globale Erwärmung gegenüber dem vorindustriellen Niveau 1,5°C nicht übersteigt.
 
 <sup>3</sup> Er sorgt für Chancengleichheit und fördert die kulturelle Vielfalt, die Integration und die Gleichberechtigung in der Bevölkerung sowie die wirtschaftliche Entfaltung.
 
@@ -205,6 +207,20 @@ In Verantwortung gegenüber der Schöpfung und im Wissen um die Grenzen menschli
 **Überprüfung der Aufgabenerfüllung**
 
 <sup>1</sup> Die zuständigen Behörden des Staates überprüfen die Erfüllung der öffentlichen Aufgaben periodisch auf ihre Notwendigkeit, Wirksamkeit und Effizienz sowie ihre finanziellen Auswirkungen und deren Tragbarkeit.
+
+#### § 16a
+
+**Klimagerechtigkeit**
+
+<sup>1</sup> In Anerkennung der Klimakrise als Bedrohung für Mensch, Ökosysteme, Wirtschaft und ein friedvolles Zusammenleben sowie als Chance für gesellschaftliche Innovation trifft der Staat effektive Massnahmen zu Klimaschutz und zum Schutz vor den Folgen der Klimaerhitzung.
+
+<sup>2</sup> Er sorgt im Rahmen seiner Kompetenzen dafür, dass der Ausstoss an Treibhausgasemissionen im Kanton Basel-Stadt in allen Sektoren bis 2037 auf Netto-Null sinkt.
+
+<sup>3</sup> Dazu legt er verbindliche 5-Jahresziele und Absenkpfade für Treibhausgase fest und handelt im Sinne von Verursacherprinzip und umfassender Klimagerechtigkeit.
+
+<sup>4</sup> Er setzt sich im Rahmen seiner Beteiligungen an Anstalten und Unternehmen des Finanz- und Verwaltungsvermögens dafür ein, dass diese in ihren gesamten Tätigkeiten den vorgenannten Zielen entsprechen.
+
+<sup>5</sup> Er setzt sich beim Bund für die notwendigen Rahmenbedingungen ein.
 
 #### § 17
 
@@ -1485,5 +1501,41 @@ In Verantwortung gegenüber der Schöpfung und im Wissen um die Grenzen menschli
 <sup>1</sup> Die laufende Amtsdauer der nach bisherigem Recht gewählten Gerichtspräsidentinnen und Gerichtspräsidenten, der Statthalterinnen und Statthalter sowie Richterinnen und Richter wird bis zum Beginn der Amtsdauer der nach neuem Recht zu wählenden Gerichtspräsidentinnen und Gerichtspäsidenten sowie Richterinnen und Richter verlängert.
 
 <sup>2</sup> Die laufende Amtsdauer der nach bisherigem Recht gewählten Ersatzrichterinnen und Ersatzrichter des Sozialversicherungsgerichts wird bis zum Beginn der Amtsdauer der nach neuem Recht zu wählenden Richterinnen und Richter des Sozialversicherungsgerichts verlängert.
+
+*Erlassgeschichte*
+
+\- § 11 Abs 2 lit. c eingefügt durch Volksabstimmung vom 10.6.2018 (in Kraft seit 5.7.2018); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 12.3.2019 und des Nationalrats vom 22.3.2019
+
+\- § 15 Abs. 2 geändert am 14. September 2022, angenommen in der Volksabstimmung vom 27.11.2022, in Kraft seit 19.1.2023 (KB 17.09.2022); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 28.02.2024 und des Nationalrats vom 14.03.2024 (KB 12.06.2024)
+
+\- § 16a eingefügt am 14. September 2022, angenommen in der Volksabstimmung vom 27.11.2022, in Kraft seit 19.1.2023 (KB 17.09.2022); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 28.02.2024 und des Nationalrats vom 14.03.2024 (KB 12.06.2024)
+
+\- § 34 Titel und § 34 Abs. 2 geändert durch Volksabstimmung vom 10.6.2018 (in Kraft seit 5.7.2018); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 12.3.2019 und des Nationalrats vom 22.3.2019
+
+\- § 34 Abs. 3 – 6 eingefügt durch Volksabstimmung vom 10.6.2018 (in Kraft seit 5.7.2018); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 12.3.2019 und des Nationalrats vom 22.3.2019
+
+\- § 40 Abs. 1 geändert durch GRB vom 13.11.2013, angenommen in der Volksabstimmung vom 9.2.2014 (wirksam seit 22.6.2014; Geschäftsnr. [13.0303](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200105810)); eidg. Gewährleistung erteilt durch Beschlüsse des Sänderats vom 5.3.2015 und des Nationalrats vom 11.3.2015.
+
+\- § 44 Abs. 1 lit. e und f aufgehoben durch GRB vom 3.6.2015, angenommen in der Volksabstimmung vom 15.11.2015 (wirksam seit 30.12.2015; Geschäftsnr. [14.0147](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200106556)); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 22.9.2016 und des Nationalrats vom 27.9.2016
+
+\- § 44 Abs. 3 beigefügt durch GRB vom 13.11.2013, angenommen in der Volksabstimmung vom 9.2.2014 (wirksam seit 15.3.2015; Geschäftsnr. [13.0303](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200105810)); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 5.3.2013 und des Nationalrats vom 11.3.2015
+
+\- § 46 Abs. 2 aufgehoben am 13.4.2016, in Kraft seit 1.7.2017 (KB 16.04.2016); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 12.3.2019 und des Nationalrats vom 22.3.2019
+
+\- § 46 Abs. 3, § 71 Abs. 1 und 2, § 89 Abs. 1 geändert durch GRB vom 3.6.2015, angenommen in der Volksabstimmung vom 15.11.2015 (wirksam seit 30.12.2015; Geschäftsnr. [14.0147](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200106556)); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 22.9.2016 und des Nationalrats vom 27.9.2016
+
+\- § 91 Abs. 1 lit. f aufgehoben durch GRB vom 21.9.2011, angenommen in der Volksabstimmung vom
+
+27.11.2011 (wirksam seit 1.7.2012; Geschäftsnr. [08.2131](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200103799)); eidgenössische Gewährleistung erteilt durch die Beschlüsse des Ständerats vom 29.2.2016 und des Nationalrats vom 3.3.2016 (publiziert am 23.4.2016).
+
+\- § 93 geändert durch GRB vom 9.9.2015, angenommen in der Volksabstimmung vom 28.2.2016 (wirksam seit 29.2.2016; Geschäftsnr. [15.5240](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200107298)).
+
+\- § 99 Abs. 1 geändert durch GRB vom 3.6.2015, angenommen in der Volksabstimmung vom 15.11.2015 (wirksam seit 30.12.2015; Geschäftsnr. [14.0147](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200106556)); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 22.9.2016 und des Nationalrats vom 27.9.2016.
+
+\- § 110 Abs. 1 lit. d geändert durch GRB vom 21.9.2011, angenommen in der Volksabstimmung vom 27.11.2011 (wirksam seit 1.7.2012; Geschäftsnr. [08.2131](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200103799)); eidgenössische Gewährleistung erteilt durch die Beschlüsse des Ständerats vom 29.2.2016 und des Nationalrats vom 3.3.2016 (publiziert am 23.4.2016).
+
+\- § 115 und § 117 Abs. 4 geändert durch GRB vom 3.6.2015, angenommen in der Volksabstimmung vom 15.11.2015 (wirksam seit 30.12.2015; Geschäftsnr. [14.0147](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200106556)); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 22.9.2016 und des Nationalrats vom 27.9.2016
+
+\- § 150 beigefügt durch GRB vom 3.6.2015, angenommen in der Volksabstimmung vom 15.11.2015 (wirksam seit 30.12.2015; Geschäftsnr. [14.0147](https://www.grosserrat.bs.ch/ratsbetrieb/geschaefte/200106556)); eidg. Gewährleistung erteilt durch Beschlüsse des Ständerats vom 22.9.2016 und des Nationalrats vom 27.9.2016.
 
 KB 02.04.2005
