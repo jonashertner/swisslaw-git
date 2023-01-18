@@ -3,13 +3,12 @@ canton: BS
 number: "563.130"
 title: Verordnung zum Bundesgesetz über die gebrannten Wasser
 language: de
-version: 2009-01-01
-valid_until: 2023-01-18
-version_adopted: 2008-12-09
+version: 2023-01-19
+version_adopted: 2023-01-10
 adopted: 2005-07-12
 in_force: 2005-07-17
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/563.130"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2427/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5792/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2427/pdf_file"
 
 Gebrannte Wasser: Verordnung | Dienstleistungsgewerbe
 
-Vom 12. Juli 2005 (Stand 1. Januar 2009)
+Vom 12. Juli 2005 (Stand 19. Januar 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -51,7 +50,7 @@ beschliesst:
 
 <sup>3</sup> Inhaberinnen und Inhaber einer Bewilligung zur Führung eines dem Gastgewerbegesetz unterstellten Betriebs mit Alkoholausschank benötigen für die Abgabe gebrannter Wasser keine zusätzliche Bewilligung.
 
-<sup>4</sup> In Selbstbedienungsläden ist im Sinn von Art. 37a Abs. 1 der Lebensmittelverordnung auf eine flächenmässige Trennung der Angebotsbereiche für gebrannte Wasser von den übrigen Waren zu achten. Eine gemeinsame Verkaufsfläche für gebrannte Wasser und andere alkoholische Getränke ist zulässig.
+<sup>4</sup> In Selbstbedienungsläden ist im Sinn von Art. 42 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV) vom 16. Dezember 2016 auf eine flächenmässige Trennung der Angebotsbereiche für gebrannte Wasser von den übrigen Waren zu achten. Eine gemeinsame Verkaufsfläche für gebrannte Wasser und andere alkoholische Getränke ist zulässig.
 
 <sup>5</sup> Die Erteilung der Bewilligung kann an weitere Bedingungen und Auflagen geknüpft werden.
 
@@ -59,9 +58,7 @@ beschliesst:
 
 **Bewilligungsbehörde**
 
-<sup>1</sup> Die Bewilligung zum Kleinhandel mit gebrannten Wassern innerhalb des Kantons wird durch das Bauinspektorat[^4-1] des Bau- und Verkehrsdepartements erteilt.
-
-[^4-1]: § 4: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>1</sup> Die Bewilligung zum Kleinhandel mit gebrannten Wassern innerhalb des Kantons wird durch das Bau- und Gastgewerbeinspektorat des Bau- und Verkehrsdepartements erteilt.
 
 #### § 5
 
@@ -83,9 +80,9 @@ beschliesst:
 
 <sup>2</sup> Führen die Inhaberinnen und Inhaber der Bewilligung mehrere Abgabestellen für gebrannte Wasser, so haben sie für jede Abgabestelle die Gebühr zu entrichten.
 
-<sup>3</sup> Bei Entzug der Bewilligung fällt eine Jahresgebühr an.
+<sup>3</sup> Bei Entzug der Bewilligung fällt eine Gebühr von CHF 250 an.
 
-<sup>4</sup> Die Gebührenverordnung zum Gastgewerbegesetz vom 10. Mai 2005 findet ergänzend sinngemässe Anwendung.
+<sup>4</sup> Die Gebührenverordnung zum Gastgewerbegesetz findet ergänzend sinngemässe Anwendung.
 
 #### § 8
 
