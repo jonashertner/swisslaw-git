@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accord entre la Confédération suisse et la Principauté de Liechtenstein sur l’échange de données concernant les joueurs frappés d’une mesure d’exclusion liée au domaine des jeux d’argent
 document: Projet mis en consultation
 language: fr

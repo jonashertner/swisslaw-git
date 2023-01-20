@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Abkommen zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über den Austausch von Daten betreffend gesperrte Spielerinnen und Spieler im Geldspielbereich
 document: Vernehmlassungsvorlage
 language: de
