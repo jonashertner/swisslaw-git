@@ -4,11 +4,11 @@ title: Ordonnance du 24 octobre 1979 concernant la justice pénale militaire (OJ
 short: OJPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880"
 language: fr
-version: 2018-01-01
+version: 2023-01-23
 adopted: 1979-10-24
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1880_1880_1880-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1880_1880_1880/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1880_1880_1880-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1880_1880_1880/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1880_1880_1880/20180101/fr"
 
 (OJPM)
 
-du 24 octobre 1979 (Etat le 1<sup>er</sup> janvier 2018)
+du 24 octobre 1979 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -99,7 +99,7 @@ Toute convocation à une activité de service, émanant d’un office ou d’un 
 
 [^16a-1]
 
-[^16a-1]: Introduit par le ch. I de l’O du 29 nov. 1993 ([RO 1993 3298](https://fedlex.data.admin.ch/eli/oc/1993/3298_3298_3298)). Abrogé par l’annexe 6 de l’O du 22 nov. 2017 concernant la justice militaire, avec effet au 1<sup>er</sup> janv. 2018 ( [RO 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
+[^16a-1]: Introduit par le ch. I de l’O du 29 nov. 1993 ([RO 1993 3298](https://fedlex.data.admin.ch/eli/oc/1993/3298_3298_3298)). Abrogé par l’annexe 6 de l’O du 22 nov. 2017 concernant la justice militaire, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
 
 ### Section 4 Tribunaux militaires d’appel
 
@@ -533,7 +533,7 @@ Lorsqu’un dossier doit être transmis après la clôture de la procédure pén
 
 **Informations classifiées**[^58-1]
 
-<sup>1</sup> Si le dossier contient des informations classifiées «SECRET» ou «CONFIDENTIEL», le dossier intégral et le jugement sont classifiés «SECRET» ou «CONFIDENTIEL». A titre exceptionnel, les documents classifiés peuvent être retirés du dossier principal et versés dans un dossier spécial. Les actes du dossier principal ne portent aucune indication sur le contenu des actes classifiés du dossier spécial.[^58-2]
+<sup>1</sup> Si le dossier contient des informations classifiées «SECRET» ou «CONFIDENTIEL», le dossier intégral et le jugement sont classifiés «SECRET» ou «CONFIDENTIEL». À titre exceptionnel, les documents classifiés peuvent être retirés du dossier principal et versés dans un dossier spécial. Les actes du dossier principal ne portent aucune indication sur le contenu des actes classifiés du dossier spécial.[^58-2]
 
 <sup>2</sup>
 
@@ -566,15 +566,16 @@ Le président consigne au dossier et dans l’expédition du jugement l’entré
 
 Le dispositif du jugement doit être notifié aux offices suivants:
 
-- a. Aussitôt après la communication du jugement lorsque le condamné doit immédiatement être arrêté: à l’autorité cantonale chargée de l’exécution;
+- a. aussitôt après la communication du jugement lorsque le condamné doit immédiatement être arrêté: à l’autorité cantonale chargée de l’exécution;
 - b.
 
-  Sans retard après l’entrée en force:
+  sans retard après l’entrée en force:
 
-  - 1\. à l’Office fédéral de la justice (Casier judiciaire suisse),
+  - 1\.[^60-2] au service de coordination de la justice militaire pour saisie dans le casier judiciaire informatique VOSTRA,
   - 2\. au canton chargé de l’exécution pour le recouvrement des amendes et des frais.
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673)).
+[^60-2]: Nouvelle teneur selon l’annexe 10 ch. II 12 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 60a
 
@@ -609,7 +610,7 @@ La notification est faite aux destinataires suivants:
 [^60a-1]: Introduit par le ch. I de l’O du 29 nov. 1993 ([RO 1993 3298](https://fedlex.data.admin.ch/eli/oc/1993/3298_3298_3298)). Nouvelle teneur selon le ch. I de l’O du 29 oct. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673)).
 [^60a-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
 [^60a-3]: Nouvelle teneur selon l’annexe 6 de l’O du 22 nov. 2017 concernant la justice militaire, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
-[^60a-4]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 27 avril 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
+[^60a-4]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 27 avril 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 [^60a-5]: Nouvelle teneur selon l’annexe 6 de l’O du 22 nov. 2017 concernant la justice militaire, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
 
 #### Art. 61
@@ -697,7 +698,7 @@ Les cantons encaissent les frais mis à la charge de la personne jugée et les a
 
 **Exécution du jugement en cas d’extradition**
 
-Lorsque le condamné a été extradé vers la Suisse en vue de l’exécution d’un jugement, les conditions auxquelles l’Etat requis a subordonné l’extradition doivent être respectées.
+Lorsque le condamné a été extradé vers la Suisse en vue de l’exécution d’un jugement, les conditions auxquelles l’État requis a subordonné l’extradition doivent être respectées.
 
 #### Art. 72
 
@@ -856,7 +857,7 @@ L’annexe 2 détermine le pouvoir de prononcer des sanctions disciplinaires et 
 
 **Délégation du pouvoir de prononcer des sanctions disciplinaires**[^97-1]
 
-<sup>1</sup> Le pouvoir de prononcer des sanctions disciplinaires à l’égard des militaires envoyés à l’étranger qui ne servent pas dans un corps de troupe, dans une formation ou dans un service de promotion de la paix appartient au commandement de l’Etat d’envoi respectivement à l’unité administrative de l’Etat d’envoi. Si le pouvoir de prononcer des sanctions disciplinaires est insuffisant, le dossier est transmis à l’autorité supérieure immédiate. Dans tous les cas, les peines d’arrêts doivent être exécutées en Suisse.
+<sup>1</sup> Le pouvoir de prononcer des sanctions disciplinaires à l’égard des militaires envoyés à l’étranger qui ne servent pas dans un corps de troupe, dans une formation ou dans un service de promotion de la paix appartient au commandement de l’État d’envoi respectivement à l’unité administrative de l’État d’envoi. Si le pouvoir de prononcer des sanctions disciplinaires est insuffisant, le dossier est transmis à l’autorité supérieure immédiate. Dans tous les cas, les peines d’arrêts doivent être exécutées en Suisse.
 
 <sup>2</sup>
 
@@ -963,7 +964,7 @@ Sont abrogés:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1980.
 
-## Dispositions finales de la modification du 19 septembre 1988****
+## Dispositions finales de la modification du 19 septembre 1988
 
 [^u1-1]
 
@@ -975,17 +976,17 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1980.
 
 [^u1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-Annexe 1 *[^t-1]*
+Annexe 1 [^t-1]
 
 [^t-1]: Abrogée par l’annexe 6 de l’O du 22 nov. 2017 concernant la justice militaire, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 96)
 
 ## Compétence et pouvoir de prononcer des sanctions en matière disciplinaire
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 29 oct. 2003 ([RO 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943). Mise à jour selon l’annexe 6 de l’O du 22 nov. 2017 concernant la justice militaire, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 29 oct. 2003 ([RO 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943). Mise à jour par l’annexe 6 de l’O du 22 nov. 2017 concernant la justice militaire, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
 
 ### **Ch.** **1**Commandant d’unité
 
@@ -1020,6 +1021,6 @@ Les commandements supérieurs (art. 198 CPM) sont:
 - w. le chef du Personnel de l’armée;
 - x. les officiers de carrière dans une fonction d’instructeur d’unité.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 [^t-3]: Abrogée par le ch. II al. 2 de l’O du 29 oct. 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673)).

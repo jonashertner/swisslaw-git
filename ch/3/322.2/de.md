@@ -4,11 +4,11 @@ title: Verordnung vom 24. Oktober 1979 über die Militärstrafrechtspflege (MStV
 short: MStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880"
 language: de
-version: 2018-01-01
+version: 2023-01-23
 adopted: 1979-10-24
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880/20180101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1880_1880_1880-20180101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1880_1880_1880/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1979-1880_1880_1880-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1880_1880_1880/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1880_1880_1880/20180101/de"
 
 (MStV)
 
-vom 24. Oktober 1979 (Stand am 1. Januar 2018)
+vom 24. Oktober 1979 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -28,7 +28,7 @@ verordnet:
 [^ingress-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^ingress-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^ingress-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-4]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^ingress-4]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 [^ingress-5]: Fassung gemäss Ziff. I der V vom 29. Okt. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673)).
 
 ## Erster Titel: Gerichtsordnung
@@ -570,10 +570,11 @@ Das Urteilsdispositiv wird folgenden Stellen zugestellt:
 
   unverzüglich nach Eintritt der Rechtskraft:
 
-  - 1\. dem Bundesamt für Justiz (Schweizerisches Strafregister),
+  - 1\.[^60-2] der Koordinationsstelle der Militärjustiz zur Eintragung in das Strafregister-Informationssystem VOSTRA,
   - 2\. dem Vollzugskanton zum Vollzug von Bussen und Kosten.
 
 [^60-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673)).
+[^60-2]: Fassung gemäss Anhang 10 Ziff. II 12 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 60a
 
@@ -940,11 +941,11 @@ Es werden aufgehoben:
 [^102-1]: [BS **3** 503]
 [^102-2]: [BS **3** 452]
 [^102-3]: [BS **3** 493]
-[^102-4]: [[AS 1951 454](https://fedlex.data.admin.ch/eli/oc/1951/454_457_453), [1954 299](https://fedlex.data.admin.ch/eli/oc/1954/299_308_192)Art. 76 Abs. 2 Bst. c]
-[^102-5]: [[AS 1951 498](https://fedlex.data.admin.ch/eli/oc/1951/498_500_499), [1963 602](https://fedlex.data.admin.ch/eli/oc/1963/602_605_622)Ziff. I, II, [1972 777](https://fedlex.data.admin.ch/eli/oc/1972/777_785_709)]
-[^102-6]: [[AS 1954 299](https://fedlex.data.admin.ch/eli/oc/1954/299_308_192), [1968 627](https://fedlex.data.admin.ch/eli/oc/1968/627_652_644)Art. 17 Abs. 2 [1016](https://fedlex.data.admin.ch/eli/oc/1968/1016_1056_972)Ziff. I, II]
+[^102-4]: [[AS 1951 454](https://fedlex.data.admin.ch/eli/oc/1951/454_457_453); [1954 299](https://fedlex.data.admin.ch/eli/oc/1954/299_308_192)Art. 76 Abs. 2 Bst. c]
+[^102-5]: [[AS 1951 498](https://fedlex.data.admin.ch/eli/oc/1951/498_500_499); [1963 602](https://fedlex.data.admin.ch/eli/oc/1963/602_605_622)Ziff. I und II; **1972** 777]
+[^102-6]: [[AS 1954 299](https://fedlex.data.admin.ch/eli/oc/1954/299_308_192); [1968 627](https://fedlex.data.admin.ch/eli/oc/1968/627_652_644)Art. 17 Abs. 2, [1016](https://fedlex.data.admin.ch/eli/oc/1968/1016_1056_972)Ziff. I und II]
 [^102-7]: [[AS 1968 223](https://fedlex.data.admin.ch/eli/oc/1968/223_239_239)]
-[^102-8]: [[AS 1968 627](https://fedlex.data.admin.ch/eli/oc/1968/627_652_644)[704](https://fedlex.data.admin.ch/eli/oc/1968/704_728_)]
+[^102-8]: [[AS 1968 627](https://fedlex.data.admin.ch/eli/oc/1968/627_652_644), [704](https://fedlex.data.admin.ch/eli/oc/1968/704_728_)]
 [^102-9]: [[AS 1971 273](https://fedlex.data.admin.ch/eli/oc/1971/273_277_277)]
 [^102-10]: [[AS 1972 681](https://fedlex.data.admin.ch/eli/oc/1972/681_689_613)]
 [^102-11]: In der AS nicht veröffentlicht.
@@ -956,7 +957,7 @@ Es werden aufgehoben:
 
 Diese Verordnung tritt am 1. Januar 1980 in Kraft.
 
-## Schlussbestimmung der Änderung vom 19. September 1988****
+## Schlussbestimmung der Änderung vom 19. September 1988
 
 [^u1-1]
 
@@ -968,11 +969,11 @@ Diese Verordnung tritt am 1. Januar 1980 in Kraft.
 
 [^u1-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 [^t-1]: Aufgehoben durch Anhang 6 der V vom 22. Nov. 2017 über die Militärjustiz, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 96)
 
@@ -980,11 +981,11 @@ Anhang 2*[^t-2]*
 
 [^t-2]: Fassung gemäss Ziff. II der V vom 29. Okt. 2003 ([AS 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943). Bereinigt gemäss Anhang 6 der V vom 22. Nov. 2017 über die Militärjustiz, in Kraft seit 1. Jan. 2018 ([AS 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
 
-### Ziff. 1Einheitskommandant
+### **Ziff. 1**Einheitskommandant
 
 Als Einheitskommandanten (Art. 197 MStG) gelten Kommandanten einer Kompanie, einer Batterie, einer Staffel, einer Kolonne, eines Detachementes und eines Ingenieurstabes.
 
-### Ziff. 2Übergeordnete Kommandostellen
+### **Ziff. 2**Übergeordnete Kommandostellen
 
 Übergeordnete Kommandostellen (Art. 198 MStG) sind:
 
@@ -1012,10 +1013,7 @@ Als Einheitskommandanten (Art. 197 MStG) gelten Kommandanten einer Kompanie, ein
 - v. Schul-, Lehrgangs-, Kompetenzzentren- und Kurskommandanten;
 - w. der Chef Personelles der Armee;
 - x. Berufsmilitär mit Offiziersgrad als Einheitsinstruktoren.
-- [tab]
 
-Anhang 3*[^t-3]*
-
-(Art. 11)
+Anhang 3[^t-3]
 
 [^t-3]: Aufgehoben durch Ziff. II Abs. 2 der V vom 29. Okt. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673)).

@@ -4,11 +4,11 @@ title: Ordinanza del 24 ottobre 1979 concernente la giustizia penale militare (O
 short: OGPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880"
 language: it
-version: 2018-01-01
+version: 2023-01-23
 adopted: 1979-10-24
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880/20180101/it/xml/fedlex-data-admin-ch-eli-cc-1979-1880_1880_1880-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1880_1880_1880/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1979-1880_1880_1880-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1880_1880_1880/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1880_1880_1880/20180101/it"
 
 (OGPM)
 
-del 24 ottobre 1979 (Stato 1° gennaio 2018)
+del 24 ottobre 1979 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ visti gli articoli 81 capoverso 5, 195 capoverso 5, 199 e 214 del Codice penale 
 [^ingress-1]: RU **1979** 1880 RS **321.0**
 [^ingress-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^ingress-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-4]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639)**,** **1959** 1400 art. 11 n. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644),[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7,[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1,[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249))
+[^ingress-4]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639);**1959** 1400 art. 11 n. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644);[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7;[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1;[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249))
 [^ingress-5]: Nuovo testo giusta il n. I dell’O del 29 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673)).
 
 ## Titolo primo: Organizzazione giudiziaria
@@ -570,10 +570,11 @@ Il dispositivo della sentenza è comunicato ai seguenti organi:
 
   immediatamente dopo che la sentenza ha acquisito forza di cosa giudicata:
 
-  - 1\. all’Ufficio federale di giustizia (Casellario giudiziale svizzero),
+  - 1\.[^60-2] al Servizio di coordinamento della giustizia militare per l’iscrizione nel casellario giudiziale informatizzato VOSTRA,
   - 2\. al Cantone d’esecuzione in vista della riscossione delle multe e delle spese.
 
 [^60-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673)).
+[^60-2]: Nuovo testo giusta l’all. 10 n. II 12 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 60a
 
@@ -941,8 +942,8 @@ Sono abrogati:
 [^102-2]: [CS **3** 429]
 [^102-3]: [CS **3** 466]
 [^102-4]: [[RU 1951 453](https://fedlex.data.admin.ch/eli/oc/1951/454_457_453), [1954 192](https://fedlex.data.admin.ch/eli/oc/1954/299_308_192)art. 76 cpv. 2 lett. c]
-[^102-5]: [[RU 1951 499](https://fedlex.data.admin.ch/eli/oc/1951/498_500_499), [1963 622](https://fedlex.data.admin.ch/eli/oc/1963/602_605_622)n. I, II, [1972 709](https://fedlex.data.admin.ch/eli/oc/1972/777_785_709)]
-[^102-6]: [[RU 1954 192](https://fedlex.data.admin.ch/eli/oc/1954/299_308_192), [1968 644](https://fedlex.data.admin.ch/eli/oc/1968/627_652_644)art. 17 cpv. 2 [972](https://fedlex.data.admin.ch/eli/oc/1968/1016_1056_972)n. I, II, [1970 556](https://fedlex.data.admin.ch/eli/oc/1970/__556)]
+[^102-5]: [[RU 1951 499](https://fedlex.data.admin.ch/eli/oc/1951/498_500_499); [1963 622](https://fedlex.data.admin.ch/eli/oc/1963/602_605_622)n. I, II; [1972 709](https://fedlex.data.admin.ch/eli/oc/1972/777_785_709)]
+[^102-6]: [[RU 1954 192](https://fedlex.data.admin.ch/eli/oc/1954/299_308_192); [1968 644](https://fedlex.data.admin.ch/eli/oc/1968/627_652_644)art. 17 cpv. 2, [972](https://fedlex.data.admin.ch/eli/oc/1968/1016_1056_972)n. I, II; [1970 556](https://fedlex.data.admin.ch/eli/oc/1970/__556)]
 [^102-7]: [[RU 1968 239](https://fedlex.data.admin.ch/eli/oc/1968/223_239_239)]
 [^102-8]: [[RU 1968 644](https://fedlex.data.admin.ch/eli/oc/1968/627_652_644), [1970 528](https://fedlex.data.admin.ch/eli/oc/1970/__528)]
 [^102-9]: [[RU 1971 277](https://fedlex.data.admin.ch/eli/oc/1971/273_277_277)]
@@ -956,7 +957,7 @@ Sono abrogati:
 
 La presente ordinanza entra in vigore il 1° gennaio 1980.
 
-## Disposizioni finali della modifica del 19 settembre 1988****
+## Disposizioni finali della modifica del 19 settembre 1988
 
 [^u1-1]
 
@@ -968,11 +969,11 @@ La presente ordinanza entra in vigore il 1° gennaio 1980.
 
 [^u1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 [^t-1]: Abrogato dall’all. 6 dell’O del 22 nov. 2017 sulla giustizia militare, con effetto dal 1° gen. 2018 ([RU 2017 7503](https://fedlex.data.admin.ch/eli/oc/2017/814)).
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 96)
 
@@ -1013,6 +1014,6 @@ Sono organi di comando superiori (art. 198 CPM):
 - w. il capo Personale dell’esercito;
 - x. i militari di professione con grado d’ufficiale che esercitano la funzione di istruttori d’unità.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 [^t-3]: Abrogato dal n. II cpv. 2 dell’O del 29 ott. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673)).
