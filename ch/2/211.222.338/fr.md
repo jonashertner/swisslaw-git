@@ -4,20 +4,20 @@ title: "Ordonnance du 19 octobre 1977 sur le placement d'enfants (OPE)"
 short: OPE
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931"
 language: fr
-version: 2017-06-20
+version: 2023-01-23
 adopted: 1977-10-19
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931/20170620/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1931_1931_1931-20170620-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1931_1931_1931/20170620/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1931_1931_1931-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1931_1931_1931/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le placement d’enfants
 
-(OPE)**[^t-1]**
+(OPE)[^t-1]
 
-du 19 octobre 1977 (Etat le 20 juin 2017)
+du 19 octobre 1977 (État le 23 janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
 
@@ -155,7 +155,7 @@ L’autorisation reste requise:
 
 <sup>1</sup> L’autorisation ne peut être délivrée que si les qualités personnelles, les aptitudes éducatives, l’état de santé des parents nourriciers et des autres personnes vivant dans leur ménage, et les conditions de logement offrent toute garantie que l’enfant placé bénéficiera de soins, d’une éducation et d’une formation adéquats et que le bien-être des autres enfants vivant dans la famille sera sauvegardé.
 
-<sup>2</sup> et <sup>3</sup> ...[^5-2]
+<sup>2</sup> et <sup>3</sup> …[^5-2]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1989 54](https://fedlex.data.admin.ch/eli/oc/1989/54_54_54)).
 [^5-2]: Abrogés par le ch. I de l’O du 29 nov. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
@@ -192,13 +192,11 @@ Les dispositions fixées à l’art. 6 ne s’appliquent pas lorsqu’il s’agi
 
 #### Art. 7
 
-**Enquête**
+**Enquête**[^7-1]
 
-<sup>1</sup> L’autorité doit déterminer de manière appropriée si les conditions d’accueil sont remplies, surtout en procédant à des visites à domicile et en prenant, s’il le faut, l’avis d’experts.
+L’autorité doit déterminer de manière appropriée si les conditions d’accueil sont remplies, surtout en procédant à des visites à domicile et en prenant, s’il le faut, l’avis d’experts. Elle demande un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation des parents nourriciers. Elle peut demander un extrait destiné aux particuliers du casier judiciaire des personnes vivant dans le ménage.
 
-<sup>2</sup> ...[^7-1]
-
-[^7-1]: Abrogé par le ch. I de l’O du 29 nov. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
+[^7-1]: Nouvelle teneur selon l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 8
 
@@ -249,11 +247,12 @@ Les parents nourriciers sont tenus d’annoncer l’arrivée de l’enfant à l�
 
 <sup>1</sup> Un spécialiste relevant de l’autorité fait des visites aussi fréquentes qu’il le faut au domicile des parents nourriciers, mais au moins une fois par an; il en rend compte dans un procès-verbal.
 
-<sup>2</sup> Il examine si les conditions auxquelles le placement est subordonné sont remplies. Au besoin, il conseille les parents nourriciers.
+<sup>2</sup> Il examine si les conditions auxquelles le placement est subordonné sont remplies. Il demande notamment un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation des parents nourriciers. Il peut demander un extrait destiné aux particuliers du casier judiciaire des personnes vivant dans le ménage. Au besoin, il conseille les parents nourriciers.[^10-2]
 
 <sup>3</sup> L’autorité veille à ce que la représentation légale de l’enfant soit dûment réglée et que l’enfant soit associé à toutes les décisions déterminantes pour son existence en fonction de son âge.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^10-2]: Nouvelle teneur selon l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 11
 
@@ -272,7 +271,7 @@ Les parents nourriciers sont tenus d’annoncer l’arrivée de l’enfant à l�
 
 [^11a11j-1]
 
-[^11a11j-1]: Introduits par le ch. I de l’O du 29 nov. 2002 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)). Abrogés par le ch. II de l’annexe à l’O du 29 juin 2011 (O sur l’adoption), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3637](https://fedlex.data.admin.ch/eli/oc/2011/505)).
+[^11a11j-1]: Introduits par le ch. I de l’O du 29 nov. 2002 ([RO 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)). Abrogés par l’annexe ch. II de l’O du 29 juin 2011 (O sur l’adoption), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3637](https://fedlex.data.admin.ch/eli/oc/2011/505)).
 
 ## Section 3 Placement à la journée
 
@@ -280,9 +279,11 @@ Les parents nourriciers sont tenus d’annoncer l’arrivée de l’enfant à l�
 
 <sup>1</sup> Les personnes qui, publiquement, s’offrent à accueillir régulièrement dans leur foyer, à la journée et contre rémunération, des enfants de moins de 12 ans doivent l’annoncer à l’autorité.
 
-<sup>2</sup> Les dispositions concernant le placement d’enfants chez des parents nourriciers s’appliquent par analogie à la surveillance qu’exerce l’autorité en cas de placement à la journée (art. 5 et 10).
+<sup>2</sup> Les dispositions concernant le placement d’enfants chez des parents nourriciers s’appliquent par analogie à la surveillance qu’exerce l’autorité en cas de placement à la journée (art. 5, 7 et 10).[^12-1]
 
 <sup>3</sup> Lorsqu’il est impossible de remédier à des manques ou de surmonter des difficultés en prenant d’autres mesures, ou que celles-ci apparaissent d’emblée insuffisantes, l’autorité interdit aux parents nourriciers d’accueillir d’autres enfants; elle en informe les représentants légaux des pensionnaires.
+
+[^12-1]: Nouvelle teneur selon l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## Section 4 Placement dans des institutions
 
@@ -302,9 +303,9 @@ Sont soumises à autorisation officielle les institutions qui s’occupent d’a
 Sont dispensés de requérir l’autorisation officielle:
 
 - a. les institutions cantonales, communales ou privées d’utilité publique soumises à une surveillance spéciale par la législation scolaire, sanitaire ou sociale;
-- b.[^13-1] ...
+- b.[^13-1] …
 - c. les colonies et camps de vacances, sous réserve de dispositions cantonales contraires;
-- d.[^13-2] ...
+- d.[^13-2] …
 
 <sup>3</sup> Les mineurs ne doivent être accueillis qu’une fois l’autorisation délivrée.
 
@@ -324,12 +325,14 @@ La demande d’autorisation doit contenir tout élément utile à son appréciat
 
 - a. le but, le statut juridique et l’organisation financière de l’établissement;
 - b. le nombre et l’âge des mineurs qui seront accueillis dans l’établissement, la catégorie à laquelle ils appartiennent, ainsi que, le cas échéant, son programme d’enseignement ou son équipement thérapeutique;
-- c. les qualités et la formation du directeur, l’effectif et la formation du personnel;
+- c.[^14-1] les données d’identité et la formation du directeur et du personnel;
 - d. l’aménagement et l’équipement des locaux destinés à la vie domestique, à l’enseignement et aux loisirs.
 
 <sup>2</sup> Lorsque l’institution dépend d’une personne morale, la demande doit être accompagnée d’un exemplaire de ses statuts ainsi que de renseignements sur ses organes.
 
 <sup>3</sup> L’autorité peut exiger toute pièce justificative et demander des renseignements complémentaires.
+
+[^14-1]: Nouvelle teneur selon l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 15
 
@@ -346,7 +349,9 @@ L’autorisation ne peut être délivrée que:
 - e. si l’établissement a une base économique sûre;
 - f. si les pensionnaires sont assurés convenablement contre la maladie et les accidents ainsi qu’en matière de responsabilité civile.
 
-<sup>2</sup> Avant de délivrer l’autorisation l’autorité détermine de manière appropriée si les conditions d’accueil sont remplies, notamment en procédant à des visites, en ayant des entretiens, en prenant des renseignements et, s’il le faut, en recourant à des experts.
+<sup>2</sup> Avant de délivrer l’autorisation, l’autorité détermine de manière appropriée si les conditions d’accueil sont remplies, notamment en procédant à des visites, en ayant des entretiens, en prenant des renseignements et, s’il le faut, en recourant à des experts. Elle demande un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation du directeur et du personnel.[^15-1]
+
+[^15-1]: Nouvelle teneur selon l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -378,7 +383,7 @@ Une institution ne peut replacer un enfant dans une famille nourricière ou dans
 
 #### Art. 17
 
-**Liste des mineurs**
+**Listes[^17-1]**
 
 <sup>1</sup>
 
@@ -393,15 +398,25 @@ La liste des mineurs placés doit être tenue à jour et contenir les informatio
 
 <sup>2</sup> Les institutions qui n’accueillent des enfants que pour la journée se borneront à indiquer l’identité de l’enfant et de ses parents ou parents nourriciers.
 
+<sup>3</sup> La direction ou l’organisme responsable de l’institution présente chaque année à l’autorité de surveillance une liste des données d’identité du directeur et du personnel.[^17-2]
+
+[^17-1]: Nouvelle teneur selon l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^17-2]: Introduit par l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+
 #### Art. 18
 
 **Modification des conditions de placement**
 
-<sup>1</sup> Le directeur et, le cas échéant, l’organisme ayant la charge de l’institution communiquent en temps utile à l’autorité toute modification importante qu’ils ont l’intention d’apporter à l’organisation, à l’équipement ou à l’activité de l’établissement, notamment les décisions d’agrandir, de transférer ou de cesser l’exploitation.
+<sup>1</sup> Le directeur et, le cas échéant, l’organisme ayant la charge de l’institution communiquent en temps utile à l’autorité toute modification importante qu’ils ont l’intention d’apporter à l’organisation, à l’équipement ou à l’activité de l’établissement, notamment l’engagement de nouveaux collaborateurs ainsi que les décisions d’agrandir, de transférer ou de cesser l’exploitation.[^18-1]
 
 <sup>2</sup> En outre, tout événement particulier qui a trait à la santé ou à la sécurité des pensionnaires doit être annoncé, surtout les maladies graves, les accidents ou les décès.
 
 <sup>3</sup> L’autorisation délivrée ne peut être maintenue que si le bien-être des pensionnaires est assuré; au besoin, elle peut être modifiée et assortie de nouvelles charges et conditions.
+
+<sup>4</sup> L’autorité demande un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation des nouveaux collaborateurs.[^18-2]
+
+[^18-1]: Nouvelle teneur selon l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^18-2]: Introduit par l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 19
 
@@ -412,6 +427,10 @@ La liste des mineurs placés doit être tenue à jour et contenir les informatio
 <sup>2</sup> Le représentant de l’autorité doit se renseigner de manière appropriée, notamment à l’occasion d’entretiens, sur l’état des pensionnaires et sur la manière dont on s’occupe d’eux.
 
 <sup>3</sup> Il veille à ce que les conditions dont dépend l’autorisation soient remplies et que les charges et conditions s’y rapportant soient exécutées.
+
+<sup>4</sup> Chaque année, l’autorité s’assure de la réputation des personnes mentionnées dans la liste que lui remet l’établissement en vertu de l’art. 17, al. 3, sur la base d’un extrait 2 du casier judiciaire destiné aux autorités.[^19-1]
+
+[^19-1]: Introduit par l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20
 
@@ -425,7 +444,7 @@ La liste des mineurs placés doit être tenue à jour et contenir les informatio
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
 
-## Section 4*a***** Prestations fournies dans le cadre du placement chez des parents nourriciers
+## Section 4*a* Prestations fournies dans le cadre du placement chez des parents nourriciers
 
 [^sec4a-1]
 
@@ -451,12 +470,18 @@ Est tenue de s’annoncer auprès de l’autorité et de se soumettre à la surv
 L’annonce faite par le prestataire doit être accompagnée au minimum des indications et des justificatifs suivants:
 
 - a. objet et forme juridique et, s’il s’agit d’une personne morale, statuts et organes;
-- b. identité et qualifications professionnelles du prestataire;
-- c. extrait du casier judiciaire du gérant et sa déclaration que les personnes auxquelles les tâches sont confiées sont contrôlées lors de leur entrée en fonction et une fois par an pendant toute la durée de leur engagement;
+- b.[^20b-1] identité du gérant, identité et qualifications professionnelles du prestataire;
+- c.[^20b-2] …
 - d. description des prestations offertes; le document doit notamment indiquer si les ressources humaines et les moyens financiers sont suffisants pour assurer les prestations;
 - e. indications détaillées sur les tarifs des prestations offertes.
 
 <sup>2</sup> L’annonce doit être faite dans les trois mois qui suivent le début de l’activité.
+
+<sup>3</sup> À la réception de l’annonce, l’autorité demande un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation du gérant et du prestataire.[^20b-3]
+
+[^20b-1]: Nouvelle teneur selon l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^20b-2]: Abrogée par l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^20b-3]: Introduit par l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20c
 
@@ -469,8 +494,13 @@ L’annonce faite par le prestataire doit être accompagnée au minimum des indi
 Il communique en particulier:
 
 - a. toute modification importante des statuts, de l’organisation, de l’activité et de la description;
-- b. tout changement de gérant;
+- b.[^20c-1] tout changement de gérant ou de prestataire;
 - c. toute extension, tout transfert ou toute cessation de l’activité.
+
+<sup>3</sup> L’autorité contrôle les modifications qui lui sont communiquées et demande, dans le cas de l’al. 2, let. b, un extrait 2 du casier judiciaire destiné aux autorités.[^20c-2]
+
+[^20c-1]: Nouvelle teneur selon l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^20c-2]: Introduit par l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20d
 
@@ -500,9 +530,13 @@ Lorsque l’activité englobe des prestations au sens de l’art. 20*a*, let. b 
 - b. faits particuliers;
 - c. décisions déterminantes pour l’existence des enfants et opinion desdits enfants à leur sujet.
 
+<sup>3bis</sup> Le prestataire tient en outre une liste de l’identité des gérants et des personnes auxquelles les tâches sont confiées.[^20d-1]
+
 <sup>4</sup> Les listes sont adressées chaque année à l’autorité.
 
 <sup>5</sup> L’autorité peut exiger d’autres documents et renseignements.
+
+[^20d-1]: Introduit par l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20e
 
@@ -511,6 +545,10 @@ Lorsque l’activité englobe des prestations au sens de l’art. 20*a*, let. b 
 <sup>1</sup> L’autorité contrôle chaque année les listes du prestataire et tout autre document exigé. Elle rend compte de son activité de surveillance dans un procès-verbal.
 
 <sup>2</sup> Elle se renseigne de manière appropriée, notamment à l’occasion de visites des lieux, d’entretiens et de questions, sur l’activité exercée.
+
+<sup>3</sup> Chaque année, l’autorité vérifie la réputation des personnes mentionnées dans la liste visée à l’art. 20*d*, al. 3<sup>bis</sup>, sur la base d’un extrait 2 du casier judiciaire destiné aux autorités.[^20e-1]
+
+[^20e-1]: Introduit par l’annexe 10 ch. II 9 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20f
 

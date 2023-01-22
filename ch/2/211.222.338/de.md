@@ -4,20 +4,20 @@ title: "Verordnung vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (Pf
 short: PAVO
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931"
 language: de
-version: 2017-06-20
+version: 2023-01-23
 adopted: 1977-10-19
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931/20170620/de/xml/fedlex-data-admin-ch-eli-cc-1977-1931_1931_1931-20170620-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1931_1931_1931/20170620/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1977-1931_1931_1931-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1931_1931_1931/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Aufnahme von Pflegekindern
 
-(Pflegekinderverordnung, PAVO)**[^t-1]**
+(Pflegekinderverordnung, PAVO)[^t-1]
 
-vom 19. Oktober 1977 (Stand am 20. Juni 2017)
+vom 19. Oktober 1977 (Stand am 23. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
 
@@ -44,7 +44,9 @@ verordnet:
 
 <sup>2</sup> Unabhängig von der Bewilligungspflicht kann die Aufnahme untersagt werden, wenn die beteiligten Personen erzieherisch, charakterlich oder gesundheitlich ihrer Aufgabe nicht gewachsen sind oder die Verhältnisse offensichtlich nicht genügen.
 
-<sup>3</sup> Vorbehalten bleiben
+<sup>3</sup>
+
+Vorbehalten bleiben:
 
 - a.[^1-3] die Befugnisse der Eltern, der Kindesschutzbehörde und der Jugendstrafrechtspflege;
 - b. die Bestimmungen des öffentlichen Rechts zum Schutz der Minderjährigen, insbesondere über die Bekämpfung der Tuberkulose.
@@ -155,7 +157,7 @@ Die Bewilligungspflicht besteht auch, wenn das Kind:
 
 <sup>1</sup> Die Bewilligung darf nur erteilt werden, wenn die Pflegeeltern und ihre Hausgenossen nach Persönlichkeit, Gesundheit und erzieherischer Eignung sowie nach den Wohnverhältnissen für gute Pflege, Erziehung und Ausbildung des Kindes Gewähr bieten und das Wohl anderer in der Pflegefamilie lebender Kinder nicht gefährdet wird.
 
-<sup>2</sup> und <sup>3</sup> ...[^5-1]
+<sup>2</sup> und <sup>3</sup> …[^5-1]
 
 [^5-1]: Aufgehoben durch Ziff. I der V vom 29. Nov. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
 
@@ -191,13 +193,11 @@ Die Voraussetzungen nach Artikel 6 gelten nicht für die Aufnahme eines ausländ
 
 #### Art. 7
 
-**Untersuchung**
+**Untersuchung**[^7-1]
 
-<sup>1</sup> Die Behörde hat die Verhältnisse in geeigneter Weise, vorab durch Hausbesuche und nötigenfalls unter Beizug von Sachverständigen, abzuklären.
+Die Behörde hat die Verhältnisse in geeigneter Weise, vorab durch Hausbesuche und nötigenfalls unter Beizug von Sachverständigen, abzuklären. Für die Überprüfung des Leumunds der Pflegeeltern holt sie einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA ein. Von weiteren im gleichen Haushalt lebenden Personen kann sie einen Privatauszug aus VOSTRA verlangen.
 
-<sup>2</sup> ...[^7-1]
-
-[^7-1]: Aufgehoben durch Ziff. I der V vom 29. Nov. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
+[^7-1]: Fassung gemäss Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 8
 
@@ -246,11 +246,12 @@ Die Pflegeeltern müssen der Behörde innerhalb von zehn Tagen die Einreise des 
 
 <sup>1</sup> Eine Fachperson der Behörde besucht die Pflegefamilie so oft als nötig, jährlich aber wenigstens einmal, und führt über diese Besuche Protokoll.
 
-<sup>2</sup> Diese Person prüft, ob die Voraussetzungen für die Weiterführung des Pflegeverhältnisses erfüllt sind. Sie steht den Pflegeeltern bei Bedarf beratend zur Seite.
+<sup>2</sup> Diese Person prüft, ob die Voraussetzungen für die Weiterführung des Pflegeverhältnisses erfüllt sind. Insbesondere holt sie zur Überprüfung des Leumunds der Pflegeeltern einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA ein. Von weiteren im gleichen Haushalt lebenden Personen kann sie einen Privatauszug aus VOSTRA verlangen. Sie steht den Pflegeeltern bei Bedarf beratend zur Seite.[^10-2]
 
 <sup>3</sup> Die Behörde wacht darüber, dass die gesetzliche Vertretung des Kindes ordnungsgemäss geregelt ist und das Kind an Entscheidungen, die einen wesentlichen Einfluss auf sein Leben haben, entsprechend seinem Alter beteiligt wird.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^10-2]: Fassung gemäss Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 11
 
@@ -277,9 +278,11 @@ Die Pflegeeltern müssen der Behörde innerhalb von zehn Tagen die Einreise des 
 
 <sup>1</sup> Wer sich allgemein anbietet, Kinder unter zwölf Jahren gegen Entgelt regelmässig tagsüber in seinem Haushalt zu betreuen, muss dies der Behörde melden.
 
-<sup>2</sup> Die Aufsicht der Behörde richtet sich sinngemäss nach den Bestimmungen über die Familienpflege (Art. 5 und 10).
+<sup>2</sup> Die Aufsicht der Behörde richtet sich sinngemäss nach den Bestimmungen über die Familienpflege (Art. 5, 7 und 10).[^12-1]
 
 <sup>3</sup> Die Behörde untersagt den Tagespflegeeltern – unter Anzeige an den gesetzlichen Vertreter – die weitere Aufnahme von Kindern, wenn andere Massnahmen zur Behebung von Mängeln oder Schwierigkeiten erfolglos geblieben sind oder von vornherein ungenügend erscheinen.
+
+[^12-1]: Fassung gemäss Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## 4. Abschnitt: Heimpflege
 
@@ -297,9 +300,9 @@ Die Pflegeeltern müssen der Behörde innerhalb von zehn Tagen die Einreise des 
 Von der Bewilligungspflicht sind ausgenommen:
 
 - a. kantonale, kommunale oder gemeinnützige private Einrichtungen, die nach der Schul-, Gesundheits- oder Sozialhilfegesetzgebung einer besonderen Aufsicht unterstehen;
-- b. ...[^13-1]
+- b. …[^13-1]
 - c. Ferienkolonien und Ferienlager, unter Vorbehalt abweichender kantonaler Vorschriften;
-- d. ...[^13-2]
+- d. …[^13-2]
 
 <sup>3</sup> Minderjährige dürfen erst aufgenommen werden, wenn die Bewilligung erteilt worden ist.
 
@@ -319,12 +322,14 @@ Das Gesuch muss alle sachdienlichen, mindestens aber folgende Angaben enthalten:
 
 - a. Zweck, rechtliche Form und finanzielle Grundlage des Heims;
 - b. Anzahl, Alter und Art der aufzunehmenden Minderjährigen, gegebenenfalls Unterrichtsprogramm oder therapeutisches Angebot;
-- c. Personalien und Ausbildung des Leiters, Anzahl und Ausbildung der Mitarbeiter;
+- c.[^14-1] Personalien und Ausbildung der Leiterin oder des Leiters sowie der Mitarbeitenden;
 - d. Anordnung und Einrichtung der Wohn-, Unterrichts- und Freizeiträume.
 
 <sup>2</sup> Ist der Träger des Heims eine juristische Person, so sind die Statuten beizulegen und die Organe bekanntzugeben.
 
 <sup>3</sup> Die Behörde kann Belege und weitere sachdienliche Auskünfte verlangen.
+
+[^14-1]: Fassung gemäss Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 15
 
@@ -341,7 +346,9 @@ Die Bewilligung darf nur erteilt werden:
 - e. wenn das Heim eine gesicherte wirtschaftliche Grundlage hat;
 - f. wenn eine angemessene Kranken-, Unfall- und Haftpflichtversicherung der Minderjährigen gewährleistet ist.
 
-<sup>2</sup> Bevor sie die Bewilligung erteilt, prüft die Behörde in geeigneter Weise, insbesondere durch Augenschein, Besprechungen und Erkundigungen und wenn nötig unter Beizug von Sachverständigen, ob die Voraussetzungen erfüllt sind.
+<sup>2</sup> Bevor sie die Bewilligung erteilt, prüft die Behörde in geeigneter Weise, insbesondere durch Augenschein, Besprechungen und Erkundigungen und wenn nötig unter Beizug von Sachverständigen, ob die Voraussetzungen erfüllt sind. Zur Überprüfung des Leumunds der Leiterin oder des Leiters sowie aller Mitarbeitenden holt sie zudem einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA ein.[^15-1]
+
+[^15-1]: Fassung gemäss Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -373,7 +380,7 @@ Ein Heim darf aufgenommene Minderjährige nur dann in eine Pflegefamilie oder ei
 
 #### Art. 17
 
-**Verzeichnis der Minderjährigen**
+**Führen von Verzeichnissen[^17-1]**
 
 <sup>1</sup>
 
@@ -388,15 +395,25 @@ Ein Heim darf aufgenommene Minderjährige nur dann in eine Pflegefamilie oder ei
 
 <sup>2</sup> Bei Einrichtungen, die Kinder nur tagsüber aufnehmen, müssen lediglich die Personalien der Kinder und ihrer Eltern oder Pflegeeltern aufgeführt werden.
 
+<sup>3</sup> Die Leitung oder Trägerschaft der Einrichtung stellt der Aufsichtsbehörde jährlich ein Verzeichnis mit den Personalien der Leiterin oder des Leiters sowie der Mitarbeitenden zu.[^17-2]
+
+[^17-1]: Fassung gemäss Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^17-2]: Eingefügt durch Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+
 #### Art. 18
 
 **Änderung der Verhältnisse**
 
-<sup>1</sup> Der Leiter und gegebenenfalls der Träger des Heims haben der Behörde beabsichtigte wesentliche Änderungen der Organisation, der Einrichtungen oder der Tätigkeit des Heims, insbesondere auch die Erweiterung, Verlegung oder Einstellung des Betriebs, rechtzeitig zum voraus mitzuteilen.
+<sup>1</sup> Die Leitung und gegebenenfalls die Trägerschaft des Heims haben der Behörde beabsichtigte wesentliche Änderungen der Organisation, der Einrichtungen oder der Tätigkeit des Heims, insbesondere die Anstellung neuer Mitarbeitender sowie die Erweiterung, Verlegung oder Einstellung des Betriebs, rechtzeitig im Voraus mitzuteilen.[^18-1]
 
 <sup>2</sup> Ausserdem sind alle besondern Vorkommnisse zu melden, welche die Gesundheit oder die Sicherheit der Minderjährigen betreffen, insbesondere schwere Krankheiten, Unfälle und Todesfälle.
 
 <sup>3</sup> Die Bewilligung darf nur bestehen bleiben, wenn das Wohl der Minderjährigen weiterhin gewährleistet ist; sie ist gegebenenfalls zu ändern und mit neuen Auflagen und Bedingungen zu verbinden.
+
+<sup>4</sup> Zur Prüfung des Leumunds der neu gemeldeten Mitarbeitenden hat die Behörde einen Behördenauszug 2 einzuholen.[^18-2]
+
+[^18-1]: Fassung gemäss Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^18-2]: Eingefügt durch Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 19
 
@@ -407,6 +424,10 @@ Ein Heim darf aufgenommene Minderjährige nur dann in eine Pflegefamilie oder ei
 <sup>2</sup> Sie haben die Aufgabe, sich in jeder geeigneten Weise, namentlich auch im Gespräch, ein Urteil über das Befinden und die Betreuung der Minderjährigen zu bilden.
 
 <sup>3</sup> Sie wachen darüber, dass die Voraussetzungen für die Erteilung der Bewilligung erfüllt und die damit verbundenen Auflagen und Bedingungen eingehalten werden.
+
+<sup>4</sup> Anhand des von der Einrichtung nach Artikel 17 Absatz 3 zugestellten Verzeichnisses überprüft die Behörde jährlich den Leumund der darin aufgeführten Personen und holt dazu einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA ein.[^19-1]
+
+[^19-1]: Eingefügt durch Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20
 
@@ -420,7 +441,7 @@ Ein Heim darf aufgenommene Minderjährige nur dann in eine Pflegefamilie oder ei
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
 
-## 4*a*. Abschnitt:**** Dienstleistungsangebote in der Familienpflege
+## 4*a*. Abschnitt: Dienstleistungsangebote in der Familienpflege
 
 [^sec4a-1]
 
@@ -446,12 +467,18 @@ Gegenüber der zentralen kantonalen Behörde meldepflichtig und deren Aufsicht u
 Der Meldung der Anbieterin oder des Anbieters muss mindestens folgende Angaben und Belege enthalten:
 
 - a. Zweck und rechtliche Form sowie, wenn es sich um eine juristische Person handelt, Statuten und Organe;
-- b. Personalien und berufliche Qualifikationen der mit den Dienstleistungen betrauten Personen;
-- c. Strafregisterauszug der geschäftsführenden Personen und deren Erklärung, wonach die mit den Dienstleistungen betrauten Personen bei Stellenantritt sowie während der Dauer des Anstellungsverhältnisses jährlich entsprechend überprüft werden;
+- b.[^20b-1] Personalien der geschäftsführenden Personen sowie Personalien und berufliche Qualifikationen der mit den Dienstleistungen betrauten Personen;
+- c.[^20b-2] …
 - d. Konzept zu den angebotenen Dienstleistungen; im Konzept ist insbesondere darzulegen, ob genügend personelle und finanzielle Mittel für die Dienstleistungen vorhanden sind;
 - e. detaillierte Angaben zu den Tarifen für die angebotenen Dienstleistungen.
 
 <sup>2</sup> Die Meldung ist innerhalb dreier Monate nach Aufnahme der Tätigkeit zu machen.
+
+<sup>3</sup> Zur Überprüfung des Leumunds der geschäftsführenden und der mit den Dienstleistungen betrauten Personen hat die Behörde bei Eingang der Meldung einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA einzuholen.[^20b-3]
+
+[^20b-1]: Fassung gemäss Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^20b-2]: Aufgehoben durch Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^20b-3]: Eingefügt durch Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20c
 
@@ -464,8 +491,13 @@ Der Meldung der Anbieterin oder des Anbieters muss mindestens folgende Angaben u
 Zu melden sind insbesondere:
 
 - a. wesentliche Änderungen der Statuten, der Organisation, der Tätigkeit und des Konzepts;
-- b. Wechsel der geschäftsführenden Personen;
+- b.[^20c-1] Wechsel der geschäftsführenden sowie mit den Dienstleistungen betrauten Personen;
 - c. die Erweiterung, Verlegung oder Einstellung der Tätigkeit.
+
+<sup>3</sup> Die Behörde prüft die Meldungen und holt bei Änderungen nach Absatz 2 Buchstabe b einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA ein.[^20c-2]
+
+[^20c-1]: Fassung gemäss Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^20c-2]: Eingefügt durch Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20d
 
@@ -495,9 +527,13 @@ Umfasst die Tätigkeit auch Dienstleistungen nach Artikel 20*a* Buchstaben b–d
 - b. besondere Vorkommnisse;
 - c. Entscheidungen, die einen wesentlichen Einfluss auf das Leben der betreuten Kinder haben, sowie deren Meinung zu diesen Entscheidungen.
 
+<sup>3bis</sup> Die Anbieterinnen und Anbieter führen zudem ein Verzeichnis mit den Personalien der geschäftsführenden und der mit den Dienstleistungen betrauten Personen.[^20d-1]
+
 <sup>4</sup> Die Verzeichnisse sind der Behörde jährlich zuzustellen.
 
 <sup>5</sup> Die Behörde kann zusätzliche Unterlagen und Auskünfte verlangen.
+
+[^20d-1]: Eingefügt durch Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20e
 
@@ -506,6 +542,10 @@ Umfasst die Tätigkeit auch Dienstleistungen nach Artikel 20*a* Buchstaben b–d
 <sup>1</sup> Die Behörde prüft jährlich die Verzeichnisse der Anbieterinnen und Anbieter sowie allfällige weitere verlangte Unterlagen. Sie führt Protokoll über die Aufsichtstätigkeit.
 
 <sup>2</sup> Sie bildet sich auf geeignete Weise, insbesondere durch Augenschein, Besprechungen und Erkundigungen, ein Urteil über die ausgeübte Tätigkeit.
+
+<sup>3</sup> Anhand des zugestellten Verzeichnisses nach Artikel 20*d* Absatz 3<sup>bis</sup> überprüft die Behörde jährlich den Leumund der darin aufgeführten Personen und holt dazu einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA ein.[^20e-1]
+
+[^20e-1]: Eingefügt durch Anhang 10 Ziff. II 9 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20f
 

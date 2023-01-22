@@ -4,20 +4,20 @@ title: "Ordinanza del 19 ottobre 1977 sull'accoglimento di minori a scopo di aff
 short: OAMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931"
 language: it
-version: 2017-06-20
+version: 2023-01-23
 adopted: 1977-10-19
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931/20170620/it/xml/fedlex-data-admin-ch-eli-cc-1977-1931_1931_1931-20170620-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1931_1931_1931/20170620/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1977-1931_1931_1931-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1931_1931_1931/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’accoglimento di minori a scopo di affiliazione
 
-(Ordinanza sull’affiliazione, OAMin)**[^t-1]**
+(Ordinanza sull’affiliazione, OAMin)[^t-1]
 
-del 19 ottobre 1977 (Stato 20 giugno 2017)
+del 19 ottobre 1977 (Stato 23 gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
 
@@ -191,13 +191,11 @@ Le condizioni di cui all’articolo 6 non si applicano all’accoglimento di un 
 
 #### Art. 7
 
-**Indagine**
+**Indagine**[^7-1]
 
-<sup>1</sup> L’autorità deve indagare sulle circostanze in maniera adeguata, soprattutto con visite in casa e, se necessario, facendo ricorso a periti.
+L’autorità deve indagare sulle circostanze in maniera adeguata, soprattutto con visite in casa e, se necessario, facendo ricorso a periti. Per verificare la buona reputazione dei genitori affilianti ottiene un estratto 2 per autorità del casellario giudiziale informatizzato VOSTRA. Può richiedere un estratto per privati da VOSTRA ad altre persone che vivono nella stessa economia domestica.
 
-<sup>2</sup> ...[^7-1]
-
-[^7-1]: Abrogato dal n. I dell’O del 29 nov. 2002, con effetto dal 1° gen. 2003 ([RU 2002 4167](https://fedlex.data.admin.ch/eli/oc/2002/672)).
+[^7-1]: Nuovo testo giusta l’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 8
 
@@ -248,11 +246,12 @@ I genitori affilianti devono annunciare entro dieci giorni all’autorità l’a
 
 <sup>1</sup> Un esperto designato dall’autorità visita la famiglia affiliante quando necessario, ma almeno una volta all’anno; redige un verbale di queste visite.
 
-<sup>2</sup> L’esperto accerta che siano adempiute le premesse della continuazione del rapporto di affiliazione. Consiglia i genitori affilianti in caso di necessità.
+<sup>2</sup> L’esperto accerta che siano adempiute le premesse per la continuazione del rapporto di affiliazione. In particolare, per verificare la buona reputazione dei genitori affilianti ottiene un estratto 2 per autorità del casellario giudiziale informatizzato VOSTRA. Può richiedere un estratto per privati da VOSTRA ad altre persone che vivono nella stessa economia domestica. Consiglia i genitori affilianti in caso di necessità.[^10-2]
 
 <sup>3</sup> L’autorità vigila affinché la rappresentanza legale del minore sia debitamente disciplinata e quest’ultimo partecipi, in modo adeguato alla sua età, alle decisioni determinanti per la sua vita.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
+[^10-2]: Nuovo testo giusta l’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 11
 
@@ -278,9 +277,11 @@ I genitori affilianti devono annunciare entro dieci giorni all’autorità l’a
 
 <sup>1</sup> Chi si offre genericamente di accogliere regolarmente nella propria economia domestica, durante la giornata e dietro compenso, minori di meno di dodici anni, deve informarne le autorità.
 
-<sup>2</sup> Alla vigilanza dell’autorità sono applicabili analogicamente le disposizioni sull’accoglimento in una famiglia (art. 5 e 10).
+<sup>2</sup> Alla vigilanza dell’autorità sono applicabili per analogia le disposizioni sull’accoglimento in una famiglia (art. 5, 7 e 10).[^12-1]
 
 <sup>3</sup> L’autorità vieta ai genitori affilianti a giornata, informandone il rappresentante legale, l’ulteriore accoglimento di minori, ove altri provvedimenti per eliminare deficienze e difficoltà siano risultati vani, oppure appaiano insufficienti sin dall’inizio.
+
+[^12-1]: Nuovo testo giusta l’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## Sezione 4: Accoglimento in istituti
 
@@ -322,12 +323,14 @@ L’istanza deve contenere tutte le informazioni utili, ma almeno i dati seguent
 
 - a. scopo, forma giuridica e base finanziaria dell’istituto;
 - b. numero, età e genere di minori che possono essere accolti e, se del caso, programma d’insegnamento o cure terapeutiche offerte;
-- c. generalità e formazione del direttore, numero e formazione dei collaboratori;
+- c.[^14-1] generalità e formazione del direttore e dei collaboratori;
 - d. disposizione e attrezzature dei locali per l’abitazione, l’insegnamento e il tempo libero.
 
 <sup>2</sup> Se l’istituto dipende da una persona giuridica, devono essere allegati gli statuti e resi noti gli organi.
 
 <sup>3</sup> L’autorità può richiedere documenti giustificativi e altre informazioni utili.
+
+[^14-1]: Nuovo testo giusta l’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 15
 
@@ -344,7 +347,9 @@ L’autorizzazione può essere rilasciata unicamente se:
 - e. l’istituto ha una base economica sicura;
 - f. i minori sono convenientemente assicurati contro le malattie, gli infortuni e la responsabilità civile.
 
-<sup>2</sup> Prima di rilasciare l’autorizzazione, l’autorità esamina in modo adeguato, in particolare con sopralluoghi, colloqui, informandosi e, se necessario, facendo ricorso a periti, se siano adempiute le premesse.
+<sup>2</sup> Prima di rilasciare l’autorizzazione, l’autorità esamina in modo adeguato, in particolare con sopralluoghi, colloqui, informandosi e, se necessario, facendo ricorso a periti, se siano adempiute le premesse. Per verificare la buona reputazione del direttore e di tutti i collaboratori ottiene un estratto 2 per autorità del casellario giudiziale informatizzato VOSTRA.[^15-1]
+
+[^15-1]: Nuovo testo giusta l’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -376,13 +381,13 @@ Un istituto può procedere a un nuovo collocamento di minore presso una famiglia
 
 #### Art. 17
 
-**Lista dei minori**
+**Tenuta delle liste[^17-1]**
 
 <sup>1</sup>
 
 Dev’essere tenuta una lista dei minori accolti nella quale figurino i dati seguenti:
 
-- a. generalità del minore[^17-1] e dei genitori;
+- a. generalità del minore[^17-2] e dei genitori;
 - b. luogo di dimora anteriore;
 - c. nome del rappresentante legale e di chi ha provveduto al collocamento;
 - d. data dell’entrata e dell’uscita;
@@ -391,17 +396,26 @@ Dev’essere tenuta una lista dei minori accolti nella quale figurino i dati seg
 
 <sup>2</sup> Per gli istituti che accolgono minori soltanto durante la giornata, devono figurare unicamente le generalità degli stessi e dei genitori o dei genitori affilianti.
 
-[^17-1]: Nuovo termine giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)). Di detta mod. é tenuto conto in tutto il presente testo.
+<sup>3</sup> La direzione o l’organismo da cui dipende l’istituto deve consegnare annualmente all’autorità di vigilanza una lista contenente le generalità del direttore e dei collaboratori.[^17-3]
+
+[^17-1]: Nuovo testo giusta l’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^17-2]: Nuovo termine giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^17-3]: Introdotto dall’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 18
 
 **Modificazione delle circostanze**
 
-<sup>1</sup> Il direttore e, se del caso, l’organismo da cui dipende l’istituto, devono comunicare tempestivamente all’autorità previste modificazioni rilevanti dell’organizzazione, delle attrezzature o dell’attività dell’istituto, soprattutto anche l’ampliamento, il trasferimento o la chiusura dell’esercizio.
+<sup>1</sup> La direzione e, se del caso, l’organismo da cui dipende l’istituto, devono comunicare tempestivamente all’autorità previste modificazioni rilevanti dell’organizzazione, delle attrezzature o dell’attività dell’istituto, soprattutto l’assunzione di nuovi collaboratori nonché l’ampliamento, il trasferimento o la chiusura dell’esercizio.[^18-1]
 
 <sup>2</sup> Inoltre devono essere comunicati tutti gli avvenimenti particolari che concernono la salute o la sicurezza dei minori, soprattutto malattie gravi, infortuni o decessi.
 
 <sup>3</sup> L’autorizzazione può essere mantenuta soltanto se è assicurato il bene dei minori; essa deve essere, se del caso, modificata e gravata di nuovi oneri e condizioni.
+
+<sup>4</sup> Per verificare la buona reputazione dei nuovi dipendenti, l’autorità ottiene un estratto 2 per autorità.[^18-2]
+
+[^18-1]: Nuovo testo giusta l’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^18-2]: Introdotto dall’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 19
 
@@ -412,6 +426,10 @@ Dev’essere tenuta una lista dei minori accolti nella quale figurino i dati seg
 <sup>2</sup> Essi hanno il compito di farsi un giudizio, in ogni maniera adeguata, in particolare anche con colloqui, sullo stato di salute dei minori e sulle cure loro prodigate.
 
 <sup>3</sup> Essi vigilano affinché siano adempiute le premesse per il rilascio dell’autorizzazione e rispettati gli oneri e le condizioni.
+
+<sup>4</sup> L’autorità verifica annualmente la buona reputazione delle persone elencate nella lista consegnata dall’istituto ai sensi dell’articolo 17 capoverso 3 e ottiene a tal fine un estratto 2 per autorità del casellario giudiziale informatizzato VOSTRA.[^19-1]
+
+[^19-1]: Introdotto dall’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20
 
@@ -425,7 +443,7 @@ Dev’essere tenuta una lista dei minori accolti nella quale figurino i dati seg
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 10 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5801](https://fedlex.data.admin.ch/eli/oc/2012/676)).
 
-## Sezione 4*a*:**** Offerta di servizi nell’ambito dell’accoglimento in famiglia
+## Sezione 4*a*: Offerta di servizi nell’ambito dell’accoglimento in famiglia
 
 [^sec4a-1]
 
@@ -451,12 +469,18 @@ Soggiace all’obbligo di comunicazione nei confronti dell’autorità centrale 
 La comunicazione dei fornitori deve contenere almeno i seguenti dati e documenti giustificativi:
 
 - a. scopo, forma giuridica e, nel caso di persone giuridiche, statuti e organi;
-- b. generalità e qualifiche professionali delle persone incaricate di offrire servizi;
-- c. estratto del casellario giudiziale delle persone preposte alla gestione e una loro dichiarazione secondo la quale le persone incaricate di offrire servizi sono sottoposte a pertinente verifica al momento dell’entrata in servizio e una volta all’anno per tutta la durata del rapporto d’impiego;
+- b.[^20b-1] generalità delle persone preposte alla gestione e generalità e qualifiche professionali delle persone incaricate di offrire servizi;
+- c.[^20b-2] …
 - d. progetto relativo ai servizi offerti; nel progetto occorre illustrare in particolare se l’organico e i mezzi finanziari sono sufficienti per offrire detti servizi;
 - e. indicazioni dettagliate sulle tariffe dei servizi offerti.
 
 <sup>2</sup> La comunicazione deve avvenire entro tre mesi dall’avvio dell’attività.
+
+<sup>3</sup> Per verificare la buona reputazione delle persone preposte alla gestione e delle persone incaricate di offrire servizi, alla ricezione della comunicazione, l’autorità ottiene un estratto 2 per autorità del casellario giudiziale informatizzato VOSTRA.[^20b-3]
+
+[^20b-1]: Nuovo testo giusta l’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^20b-2]: Abrogata dall’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^20b-3]: Introdotto dall’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20c
 
@@ -469,8 +493,13 @@ La comunicazione dei fornitori deve contenere almeno i seguenti dati e documenti
 Devono essere comunicati in particolare:
 
 - a. importanti cambiamenti concernenti gli statuti, l’organizzazione, l’attività e il progetto;
-- b. sostituzioni delle persone preposte alla gestione;
+- b.[^20c-1] sostituzioni delle persone preposte alla gestione e delle persone incaricate di offrire servizi;
 - c. l’ampliamento, il trasferimento o la cessazione dell’attività.
+
+<sup>3</sup> L’autorità verifica le comunicazioni e, in caso di modifiche secondo il capoverso 2 lettera b, ottiene un estratto 2 per autorità del casellario giudiziale informatizzato VOSTRA.[^20c-2]
+
+[^20c-1]: Nuovo testo giusta l’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^20c-2]: Introdotto dall’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20d
 
@@ -500,9 +529,13 @@ Se l’attività comprende anche i servizi di cui all’articolo 20*a* lettere b
 - b. eventi particolari;
 - c. decisioni determinanti per la vita degli affiliati e la loro opinione al riguardo.
 
+<sup>3bis</sup> I fornitori tengono inoltre una lista con le generalità delle persone preposte alla gestione e delle persone incaricate di offrire servizi.[^20d-1]
+
 <sup>4</sup> Le liste vanno consegnate annualmente alle autorità.
 
 <sup>5</sup> L’autorità può richiedere ulteriori documenti e informazioni.
+
+[^20d-1]: Introdotto dall’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20e
 
@@ -511,6 +544,10 @@ Se l’attività comprende anche i servizi di cui all’articolo 20*a* lettere b
 <sup>1</sup> L’autorità verifica annualmente le liste dei fornitori ed eventuali ulteriori documenti richiesti. Redige un verbale dell’attività di vigilanza.
 
 <sup>2</sup> L’autorità valuta in modo adeguato, in particolare con sopralluoghi, colloqui e richieste di informazioni, l’attività svolta.
+
+<sup>3</sup> L’autorità verifica annualmente la buona reputazione delle persone elencate nella lista consegnata ai sensi dell’articolo 20*d* capoverso 3<sup>bis</sup> e a tal fine ottiene un estratto 2 per autorità del casellario giudiziale informatizzato VOSTRA.[^20e-1]
+
+[^20e-1]: Introdotto dall’all. 10 n. II 9 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 20f
 
