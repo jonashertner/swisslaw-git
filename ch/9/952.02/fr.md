@@ -4,11 +4,11 @@ title: "Ordonnance du 30 avril 2014 sur les banques et les caisses d'épargne (O
 short: OB
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230123-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230101/fr"
 
 (Ordonnance sur les banques, OB)
 
-du 30 avril 2014 (État le 1<sup>er</sup> janvier 2023)
+du 30 avril 2014 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -60,7 +60,7 @@ La présente ordonnance règle notamment:
 
 ### (art. 1, al. 1, LB)
 
-<sup>1</sup> ...[^2-1]
+<sup>1</sup> …[^2-1]
 
 <sup>2</sup>
 
@@ -230,7 +230,7 @@ N’agit pas à titre professionnel au sens de la LB celui qui, sur une longue p
   - 1\. qu’il n’est pas surveillé par la FINMA, et
   - 2\. que le dépôt n’est pas couvert par la garantie des dépôts.[^6-5]
 
-<sup>3</sup> ... [^6-6]
+<sup>3</sup> …[^6-6]
 
 <sup>4</sup> Celui qui dépasse le montant indiqué à l’al. 2, let. a, doit l’annoncer dans les 10 jours à la FINMA et lui présenter dans les 30 jours une demande d’autorisation conformément aux dispositions de la LB. Si le but de protection de la LB l’exige, la FINMA peut interdire au demandeur d’accepter d’autres dépôts du public jusqu’à ce qu’elle ait rendu sa décision.
 
@@ -316,7 +316,7 @@ Les demandes d’autorisation pour l’ouverture de nouvelles banques doivent co
   - 1\. des informations sur la nationalité, sur le domicile, sur les participations qualifiées détenues dans d’autres entités et sur d’éventuelles procédures judiciaires et administratives pendantes,
   - 2\. un curriculum vitae signé par la personne concernée,
   - 3\. des références,
-  - 4\. un extrait du casier judiciaire;
+  - 4\.[^8-2] un extrait du casier judiciaire destiné aux particuliers et un extrait du registre des poursuites ou, si elles sont domiciliées à l’étranger, des attestations analogues;
 
 - b.
 
@@ -330,6 +330,7 @@ Les demandes d’autorisation pour l’ouverture de nouvelles banques doivent co
 <sup>2</sup> Les actionnaires détenant des participations qualifiées doivent déclarer à la FINMA s’ils acquièrent la participation pour leur propre compte ou à titre fiduciaire pour le compte de tiers et s’ils ont accordé sur celle-ci des options ou autres droits de même nature.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^8-2]: Nouvelle teneur selon l’annexe 10 ch. II 29 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 8a
 
@@ -1945,7 +1946,7 @@ L’annexe doit être structurée comme suit:
   - 19\. Indication des créances et engagements envers les parties liées,
   - 20\. Indication des participants significatifs,
   - 21\. Indications relatives aux propres parts du capital et à la composition du capital propre,
-  - 22\. Indications selon l’ordonnance du 20 novembre 2013 contre les rémunérations abusives dans les sociétés anonymes cotées en bourse[^annex1-lvlu1-lvlE-1] et l’art. 663*c*, al. 3, CO[^annex1-lvlu1-lvlE-2] applicables aux banques dont les titres de participation sont cotés,
+  - 22\. Indications selon l’ordonnance du 20 novembre 2013 contre les rémunérations abusives dans les sociétés anonymes cotées en bourse[^annex1-lvlu1-lvlE-1] et l’art. 734, 734*a* à 734*f*[^annex1-lvlu1-lvlE-2], CO[^annex1-lvlu1-lvlE-3] applicables aux banques dont les titres de participation sont cotés,
   - 23\. Présentation de la structure des échéances des instruments financiers,
   - 24\. Présentation des actifs et passifs répartis entre la Suisse et l’étranger selon le principe du domicile,
   - 25\. Répartition du total des actifs par pays ou par groupe de pays (principe du domicile),
@@ -1975,8 +1976,9 @@ L’annexe doit être structurée comme suit:
   - 39\. Présentation des impôts courants et latents, avec indication du taux d’imposition,
   - 40\. Indications et commentaires sur le résultat par droit de participation pour les banques dont les titres de participation sont cotés.
 
-[^annex1-lvlu1-lvlE-1]: [RS 221.331](https://fedlex.data.admin.ch/eli/cc/2013/782)
-[^annex1-lvlu1-lvlE-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex1-lvlu1-lvlE-1]: [[RO 2013 4403](https://fedlex.data.admin.ch/eli/oc/2013/782). [RO 2022 113](https://fedlex.data.admin.ch/eli/oc/2022/113)].
+[^annex1-lvlu1-lvlE-2]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex1-lvlu1-lvlE-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 Annexe 2
 
@@ -1986,7 +1988,7 @@ Annexe 2
 
 Les ordonnances suivantes sont modifiées comme suit:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273).
 

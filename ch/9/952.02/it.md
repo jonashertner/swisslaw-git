@@ -4,11 +4,11 @@ title: "Ordinanza del 30 aprile 2014 sulle banche e le casse di risparmio (Ordin
 short: OBCR
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230123-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230101/it"
 
 (Ordinanza sulle banche, OBCR)
 
-del 30 aprile 2014 (Stato 1° gennaio 2023)
+del 30 aprile 2014 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -92,7 +92,7 @@ Le banche sono suddivise dall’Autorità federale di vigilanza sui mercati fina
 
 Gli enti e istituti di diritto pubblico, come pure le casse di cui siffatti enti e istituti di diritto pubblico garantiscono integralmente gli impegni, non sono considerati banche o persone di cui all’articolo 1*b* LBCR[^3-1] anche se accettano depositi del pubblico a titolo professionale.
 
-[^3-1]: Nuova espr. giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-1]: Nuova espr. giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)). Di detta mod. è tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 3a
 
@@ -318,7 +318,7 @@ La domanda di autorizzazione per l’apertura di una nuova banca o persona di cu
   - 1\. indicazioni riguardanti nazionalità, domicilio, partecipazioni qualificate ad altre società, procedimenti giudiziari e amministrativi pendenti,
   - 2\. un curriculum vitae firmato dalla persona interessata,
   - 3\. referenze,
-  - 4\. un estratto del casellario giudiziale;
+  - 4\.[^8-2] un estratto per privati del casellario giudiziale informatizzato VOSTRA e un estratto del registro delle esecuzioni o le conferme estere corrispondenti in caso di domicilio all’estero;
 
 - b.
 
@@ -332,6 +332,7 @@ La domanda di autorizzazione per l’apertura di una nuova banca o persona di cu
 <sup>2</sup> Le persone che detengono una partecipazione qualificata devono consegnare alla FINMA una dichiarazione nella quale precisano se detengono la partecipazione per proprio conto o a titolo fiduciario per conto di terzi e se su questa partecipazione hanno concesso opzioni o diritti simili.
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^8-2]: Nuovo testo giusta l’all. 10 n. II 29 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 8a
 
@@ -638,7 +639,6 @@ La notifica che la banca o persona di cui all’articolo 1*b* LBCR deve trasmett
 - a. un piano d’attività che descriva in particolare il genere di attività previste e la struttura organizzativa;
 - b. l’indirizzo dell’ufficio all’estero;
 - c. il nome delle persone incaricate dell’amministrazione e della direzione;
-
 - d. la società di audit;
 - e. l’autorità di vigilanza nel Paese ospitante.
 
@@ -1639,7 +1639,7 @@ Le società del gruppo importanti di una banca di rilevanza sistemica che hanno 
 
 - a. inventariare questi servizi in un elenco delle prestazioni;
 - b. concepire i contratti con i fornitori esterni di servizi che sono in relazione con questi servizi in modo che resistano a un risanamento o un fallimento nonché garantire la possibilità di trasferire i contratti;
-- c. limitare, attraverso misure adeguate, le dipendenze da fornitori interni ed esterni di servizi con sede all’estero.
+  - c. limitare, attraverso misure adeguate, le dipendenze da fornitori interni ed esterni di servizi con sede all’estero.
 
 ## Capitolo 8: Disposizioni finali
 
@@ -1944,7 +1944,7 @@ L’allegato deve essere strutturato come segue:
   - 19\. indicazione dei crediti e degli impegni nei confronti delle parti correlate,
   - 20\. indicazione dei titolari di partecipazioni significative,
   - 21\. indicazioni sulle proprie quote del capitale e sulla composizione del capitale proprio,
-  - 22\. indicazioni ai sensi dell’ordinanza del 20 novembre 2013[^annex1-lvlu1-lvlE-1] contro le retribuzioni abusive nelle società anonime quotate in borsa e dell’articolo 663*c* capoverso 3 CO[^annex1-lvlu1-lvlE-2] per le banche i cui titoli di partecipazione sono quotati,
+  - 22\. indicazioni ai sensi dell’ordinanza del 20 novembre 2013[^annex1-lvlu1-lvlE-1] contro le retribuzioni abusive nelle società anonime quotate in borsa e degli articoli 734, 734*a* a 734*f*[^annex1-lvlu1-lvlE-2] CO[^annex1-lvlu1-lvlE-3] per le banche i cui titoli di partecipazione sono quotati,
   - 23\. presentazione della struttura delle scadenze degli strumenti finanziari,
   - 24\. presentazione degli attivi e dei passivi, suddivisi in attivi e passivi nazionali ed esteri secondo il principio della localizzazione,
   - 25\. suddivisione del totale degli attivi per Paesi o per gruppi di Paesi (principio della localizzazione),
@@ -1974,8 +1974,9 @@ L’allegato deve essere strutturato come segue:
   - 39\. presentazione delle imposte correnti e latenti e indicazione dell’aliquota di imposta,
   - 40\. indicazioni e spiegazioni relative al risultato per ogni diritto di partecipazione nel caso di banche i cui titoli di partecipazione sono quotati.
 
-[^annex1-lvlu1-lvlE-1]: [RS 221.331](https://fedlex.data.admin.ch/eli/cc/2013/782)
-[^annex1-lvlu1-lvlE-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex1-lvlu1-lvlE-1]: [[RU 2013 4403](https://fedlex.data.admin.ch/eli/oc/2013/782). [RU 2022 113](https://fedlex.data.admin.ch/eli/oc/2022/113)].
+[^annex1-lvlu1-lvlE-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2023.
+[^annex1-lvlu1-lvlE-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 Allegato 2
 

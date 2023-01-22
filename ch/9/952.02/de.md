@@ -4,11 +4,11 @@ title: "Verordnung vom 30. April 2014 über die Banken und Sparkassen (Bankenver
 short: BankV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20230123-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20230101/de"
 
 (Bankenverordnung, BankV)
 
-vom 30. April 2014 (Stand am 1. Januar 2023)
+vom 30. April 2014 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -319,7 +319,7 @@ Das Gesuch um Bewilligung für eine neue Bank oder Person nach Artikel 1*b* Bank
   - 1\. Angaben über Nationalität, Wohnsitz, qualifizierte Beteiligungen an anderen Gesellschaften und hängige Gerichts- und Verwaltungsverfahren,
   - 2\. einen von der betreffenden Person unterzeichneten Lebenslauf,
   - 3\. Referenzen,
-  - 4\. einen Strafregisterauszug;
+  - 4\.[^8-2] einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA und einen Betreibungsregisterauszug oder entsprechende ausländische Bestätigungen bei Wohnsitz im Ausland;
 
 - b.
 
@@ -333,6 +333,7 @@ Das Gesuch um Bewilligung für eine neue Bank oder Person nach Artikel 1*b* Bank
 <sup>2</sup> Personen, die eine qualifizierte Beteiligung besitzen, müssen der FINMA eine Erklärung abgeben, ob sie die Beteiligung für eigene Rechnung oder treuhänderisch für Dritte halten und ob sie für diese Beteiligung Optionen oder ähnliche Rechte eingeräumt haben.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^8-2]: Fassung gemäss Anhang 10 Ziff. II 29 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 8a
 
@@ -1871,7 +1872,7 @@ Der Anhang ist wie folgt zu gliedern:
   - 19\. Angabe der Forderungen und Verpflichtungen gegenüber nahestehenden Personen,
   - 20\. Angabe der wesentlichen Beteiligten,
   - 21\. Angaben über die eigenen Kapitalanteile und die Zusammensetzung des Eigenkapitals,
-  - 22\. Angaben gemäss der Verordnung vom 20. November 2013[^annex1-lvlu1-lvlE-1] gegen übermässige Vergütungen bei börsenkotierten Aktiengesellschaften und Artikel 663*c* Absatz 3 OR[^annex1-lvlu1-lvlE-2] für Banken, deren Beteiligungstitel kotiert sind,
+  - 22\. Angaben gemäss der Verordnung vom 20. November 2013[^annex1-lvlu1-lvlE-1] gegen übermässige Vergütungen bei börsenkotierten Aktiengesellschaften und Artikeln 734, 734*a* a 734*f* [^annex1-lvlu1-lvlE-2] OR[^annex1-lvlu1-lvlE-3] für Banken, deren Beteiligungstitel kotiert sind,
   - 23\. Darstellung der Fälligkeitsstruktur der Finanzinstrumente,
   - 24\. Darstellung der Aktiven und Passiven aufgegliedert nach In- und Ausland gemäss Domizilprinzip,
   - 25\. Aufgliederung des Totals der Aktiven nach Ländern bzw. Ländergruppen (Domizilprinzip),
@@ -1901,8 +1902,9 @@ Der Anhang ist wie folgt zu gliedern:
   - 39\. Darstellung von laufenden und latenten Steuern und Angabe des Steuersatzes,
   - 40\. Angaben und Erläuterungen zum Ergebnis je Beteiligungsrecht bei kotierten Banken, deren Beteiligungstitel kotiert sind.
 
-[^annex1-lvlu1-lvlE-1]: [SR 221.331](https://fedlex.data.admin.ch/eli/cc/2013/782)
-[^annex1-lvlu1-lvlE-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex1-lvlu1-lvlE-1]: [[AS 2013 4403](https://fedlex.data.admin.ch/eli/oc/2013/782). [AS 2022 113](https://fedlex.data.admin.ch/eli/oc/2022/113)]
+[^annex1-lvlu1-lvlE-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2023 angepasst.
+[^annex1-lvlu1-lvlE-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 Anhang 2
 
