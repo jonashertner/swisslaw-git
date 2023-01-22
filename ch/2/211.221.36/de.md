@@ -4,11 +4,11 @@ title: "Verordnung vom 29. Juni 2011 über die Adoption (Adoptionsverordnung, Ad
 short: AdoV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/505"
 language: de
-version: 2012-01-01
+version: 2023-01-23
 adopted: 2011-06-29
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/505/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2011-505-20120101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/505/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2011-505-20230123-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20120101/de"
 
 (Adoptionsverordnung, AdoV)
 
-vom 29. Juni 2011 (Stand am 1. Januar 2012)
+vom 29. Juni 2011 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -114,7 +114,9 @@ Die Eignung besteht, wenn:
 
 <sup>5</sup> Zur Abklärung zieht die kantonale Behörde eine Person bei, die in sozialer Arbeit oder Psychologie fachlich qualifiziert ist und Berufserfahrung im Kindesschutz- oder Adoptionswesen hat.
 
-<sup>6</sup> Zur Abklärung nach Absatz 2 Buchstabe d Ziffer 3 verlangt die kantonale Behörde einen Auszug aus dem Strafregister-Informationssystem (VOSTRA). Von Ausländerinnen und Ausländern verlangt sie einen Auszug aus dem Strafregister ihres Herkunftsstaates oder ein gleichwertiges Dokument. Ist ein Strafverfahren wegen eines mit der Adoption unvereinbaren Delikts hängig, so sistiert die kantonale Behörde die Abklärung bis zum rechtskräftigen Abschluss des Verfahrens.
+<sup>6</sup> Zur Abklärung nach Absatz 2 Buchstabe d Ziffer 3 holt die kantonale Behörde einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA ein. Von Ausländerinnen und Ausländern verlangt sie einen Auszug aus dem Strafregister ihres Herkunftsstaates oder ein gleichwertiges Dokument. Ist ein Strafverfahren wegen eines mit der Adoption unvereinbaren Delikts hängig, so sistiert die kantonale Behörde die Abklärung bis zum rechtskräftigen Abschluss des Verfahrens.[^5-1]
+
+[^5-1]: Fassung gemäss Anhang 10 Ziff. II 8 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 6
 
@@ -328,7 +330,7 @@ Gebührenpflichtige Leistungen des BJ sind:
 
 <sup>2</sup> Die Gebühr für die Ausstellung eines Einreisedokuments nach Artikel 10 BG‑HAÜ richtet sich nach der Verordnung vom 29. November 2006[^26-1] über die Gebühren der diplomatischen und konsularischen Vertretungen der Schweiz.
 
-[^26-1]: [SR 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)
+[^26-1]: [[AS 2006 5321](https://fedlex.data.admin.ch/eli/oc/2006/803). [AS 2015 3849](https://fedlex.data.admin.ch/eli/oc/2015/652)Art. 17]. Heute: die V vom 7. Okt. 2015 über die Gebühren des Eidgenössischen Departements für auswärtige Angelegenheiten ([SR 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)).
 
 #### Art. 27
 
@@ -356,20 +358,19 @@ Anhang
 
 ## Aufhebung und Änderung bisherigen Rechts
 
-## I
+I
 
 Folgende Verordnungen werden aufgehoben:
 
-- 1\. Verordnung vom 29. November 2002[^annexu1-lvlI-1] über die Gebühren für Dienstleistungen bei internationalen Adoptionen;
-- 2\. Verordnung vom 29. November 2002[^annexu1-lvlI-2] über die Adoptionsvermittlung.
+- 1\. Verordnung vom 29. November 2002[^annexu1-lvlu1-1] über die Gebühren für Dienstleistungen bei internationalen Adoptionen;
+- 2\. Verordnung vom 29. November 2002[^annexu1-lvlu1-2] über die Adoptionsvermittlung.
 
-[^annexu1-lvlI-1]: [[AS 2002 4158](https://fedlex.data.admin.ch/eli/oc/2002/670), [2006 3385](https://fedlex.data.admin.ch/eli/oc/2006/536)]
-[^annexu1-lvlI-2]: [[AS 2002 4160](https://fedlex.data.admin.ch/eli/oc/2002/671)]
-
-## II
+II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-**…*[^annexu1-lvlII-1]***
+…[^annexu1-lvlu1-3]
 
-[^annexu1-lvlII-1]: Die Änderungen können unter [AS 2011 3637](https://fedlex.data.admin.ch/eli/oc/2011/505)konsultiert werden.
+[^annexu1-lvlu1-1]: [[AS 2002 4158](https://fedlex.data.admin.ch/eli/oc/2002/670); [2006 3385](https://fedlex.data.admin.ch/eli/oc/2006/536)]
+[^annexu1-lvlu1-2]: [[AS 2002 4160](https://fedlex.data.admin.ch/eli/oc/2002/671)]
+[^annexu1-lvlu1-3]: Die Änderungen können unter [AS 2011 3637](https://fedlex.data.admin.ch/eli/oc/2011/505)konsultiert werden.

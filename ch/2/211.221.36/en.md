@@ -4,11 +4,11 @@ title: "Ordinance of 29 June 2011 on Adoption (Adoption Ordinance, AdoptO)"
 short: AdoptO
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/505"
 language: en
-version: 2012-01-01
+version: 2023-01-23
 adopted: 2011-06-29
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/505/20120101/en/xml/fedlex-data-admin-ch-eli-cc-2011-505-20120101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20120101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/505/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2011-505-20230123-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Adoption Ordinance, AdoptO)
 
-of 29 June 2011 (Status as of 1 January 2012)
+of 29 June 2011 (Status as of 23 January 2023)
 
 The Swiss Federal Council,
 
@@ -116,7 +116,9 @@ A person is suitable if:
 
 <sup>5</sup> The cantonal authority appoints a person to assess the case who is professionally qualified in social work or psychology and who has professional experience in child protection or adoption matters.
 
-<sup>6</sup> In order to confirm compliance with paragraph 2 letter d number 3, the cantonal authority requests an extract from the register of criminal convictions information system (VOSTRA). In the case of foreign nationals, it requests an extract from the register of criminal convictions in their country of origin or an equivalent document. If criminal proceedings are pending in connection with an offence which is incompatible with adoption, the cantonal authority suspends the assessment of suitability until the criminal proceedings have been finally concluded.
+<sup>6</sup> In order to confirm compliance with paragraph 2 letter d number 3, the cantonal authority shall request an Official Extract 2 from the VOSTRA information system of the Register of Criminal Records. In the case of foreign nationals, it requests an extract from the register of criminal convictions in their country of origin or an equivalent document. If criminal proceedings are pending in connection with an offence which is incompatible with adoption, the cantonal authority suspends the assessment of suitability until the criminal proceedings have been finally concluded.[^5-1]
+
+[^5-1]: Amended by Annex 10 No II 8 of the Criminal Records Register Ordinance of 19 Oct. 2022, in force since 23 Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 6
 
@@ -330,7 +332,7 @@ The following services provided by the FOJ are subject to a fee:
 
 <sup>2</sup> The fee for issuing an entry document under Article 10 HCAA is governed by the Ordinance of 29 November 2006[^26-1] on the Fees charged by Swiss Diplomatic and Consular Representations.
 
-[^26-1]: [SR 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)
+[^26-1]: [AS **2006** 5321. AS **2015** 3849 Art. 17]. Now: the O of 7 Oct. 2015 on Fees charged by the Federal Department of Foreign Affairs (SR **191.11**).
 
 #### Art. 27
 

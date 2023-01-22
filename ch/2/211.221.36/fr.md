@@ -4,11 +4,11 @@ title: "Ordonnance du 29 juin 2011 sur l'adoption (OAdo)"
 short: OAdo
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/505"
 language: fr
-version: 2012-01-01
+version: 2023-01-23
 adopted: 2011-06-29
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/505/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-505-20120101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/505/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2011-505-20230123-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20120101/fr"
 
 (OAdo)
 
-du 29 juin 2011 (Etat le 1<sup>er</sup> janvier 2012)
+du 29 juin 2011 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -57,7 +57,7 @@ L’Office fédéral de la justice (OFJ):
 - c. édicte des instructions visant à protéger les enfants et à éviter les abus dans le domaine de l’adoption internationale et de l’activité d’intermédiaire;
 - d. édicte des instructions ou des recommandations visant à assurer la coordination en matière d’adoption;
 - e. représente la Suisse auprès des autorités d’adoption étrangères et promeut la collaboration avec ces autorités;
-- f. conseille et informe les autorités cantonales, notamment sur les procédures applicables dans les Etats d’origine.
+- f. conseille et informe les autorités cantonales, notamment sur les procédures applicables dans les États d’origine.
 
 <sup>2</sup>
 
@@ -102,10 +102,10 @@ Les conditions en matière d’aptitude sont réunies:
   si les parents adoptifs:
 
   - 1\. par leurs qualités personnelles, leur état de santé, le temps dont ils disposent, leur situation financière, leurs aptitudes éducatives et leurs conditions de logement, offrent toute garantie que l’enfant bénéficiera de soins, d’une éducation et d’une formation adéquats,
-  - 2\. sont prêts à accepter l’enfant avec ses particularités, à respecter son origine et à lui apprendre à connaître, sous une forme adaptée et compte tenu de ses besoins, le pays où il avait sa résidence habituelle avant son placement (Etat d’origine),
+  - 2\. sont prêts à accepter l’enfant avec ses particularités, à respecter son origine et à lui apprendre à connaître, sous une forme adaptée et compte tenu de ses besoins, le pays où il avait sa résidence habituelle avant son placement (État d’origine),
   - 3\. n’ont pas été condamnés pour une infraction incompatible avec l’adoption,
   - 4\. ont été suffisamment préparés à l’adoption et, notamment, ont participé à des séances de préparation ou d’information appropriées recommandées par l’autorité cantonale,
-  - 5\. se sont engagés par écrit à participer à l’élaboration des rapports de suivi à fournir à l’Etat d’origine,
+  - 5\. se sont engagés par écrit à participer à l’élaboration des rapports de suivi à fournir à l’État d’origine,
   - 6\. ont pris acte de leur obligation d’entretien aux termes de l’art. 20 LF‑CLaH.
 
 <sup>3</sup> L’aptitude des futurs parents adoptifs est soumise à des exigences plus élevées lorsqu’ils veulent accueillir un enfant âgé de plus de quatre ans ou atteint dans sa santé ou plusieurs enfants à la fois ou que plusieurs enfants vivent déjà dans la famille.
@@ -114,7 +114,9 @@ Les conditions en matière d’aptitude sont réunies:
 
 <sup>5</sup> L’autorité cantonale associe à l’examen un travailleur social ou un psychologue qualifié justifiant d’une expérience professionnelle dans le domaine de la protection de l’enfant ou de l’adoption.
 
-<sup>6</sup> Pour vérifier que les futurs parents adoptifs remplissent la condition prévue à l’al. 2, let. d, ch. 3, l’autorité cantonale demande un extrait du casier judiciaire informatisé (VOSTRA). Les requérants étrangers doivent présenter un extrait du casier judiciaire de leur Etat d’origine ou un document équivalent. Si une procédure pénale ayant pour objet une infraction incompatible avec l’adoption est en cours, l’autorité cantonale suspend l’examen de l’aptitude jusqu’à la clôture définitive de la procédure.
+<sup>6</sup> Pour vérifier que les futurs parents adoptifs remplissent la condition prévue à l’al. 2, let. d, ch. 3, l’autorité cantonale demande un extrait 2 du casier judiciaire destiné aux autorités. Les requérants étrangers doivent présenter un extrait du casier judiciaire de leur État d’origine ou un document équivalent. Si une procédure pénale ayant pour objet une infraction incompatible avec l’adoption est en cours, l’autorité cantonale suspend l’examen de l’aptitude jusqu’à la clôture définitive de la procédure.[^5-1]
+
+[^5-1]: Nouvelle teneur selon l’annexe 10 ch. II 8 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 6
 
@@ -122,7 +124,7 @@ Les conditions en matière d’aptitude sont réunies:
 
 <sup>1</sup> L’autorité cantonale certifie par voie de décision l’aptitude des requérants lorsque les conditions visées à l’art. 5 sont remplies.
 
-<sup>2</sup> L’agrément indique en particulier l’Etat d’origine de l’enfant, son âge minimum et son âge maximum. Il précise si les requérants peuvent accueillir des enfants atteints dans leur santé.
+<sup>2</sup> L’agrément indique en particulier l’État d’origine de l’enfant, son âge minimum et son âge maximum. Il précise si les requérants peuvent accueillir des enfants atteints dans leur santé.
 
 <sup>3</sup> Il est valable au maximum trois ans et peut être assorti de charges et de conditions. Il peut être renouvelé.
 
@@ -137,8 +139,8 @@ L’autorité cantonale peut octroyer l’autorisation d’accueillir un enfant 
 - a. l’agrément;
 - b. un rapport médical sur la santé de l’enfant et un rapport sur ses antécédents;
 - c. une attestation du consentement de l’enfant lorsque son âge et ses capacités le permettent;
-- d. une attestation du consentement des parents à l’adoption ou une déclaration de l’autorité compétente de l’Etat d’origine de l’enfant indiquant que ce consentement a été légalement donné ou pour quelles raisons il ne peut pas être donné;
-- e. la déclaration de l’autorité compétente de l’Etat d’origine de l’enfant certifiant que celui-ci peut être confié à de futurs parents adoptifs en Suisse.
+- d. une attestation du consentement des parents à l’adoption ou une déclaration de l’autorité compétente de l’État d’origine de l’enfant indiquant que ce consentement a été légalement donné ou pour quelles raisons il ne peut pas être donné;
+- e. la déclaration de l’autorité compétente de l’État d’origine de l’enfant certifiant que celui-ci peut être confié à de futurs parents adoptifs en Suisse.
 
 <sup>2</sup> Elle peut exiger des documents supplémentaires.
 
@@ -158,7 +160,7 @@ L’autorité cantonale peut octroyer l’autorisation d’accueillir un enfant 
 
 <sup>2</sup> Le service cantonal des migrations décide de l’octroi d’un visa ou d’une assurance d’autorisation de séjour à l’enfant. Il communique sa décision à l’autorité cantonale.
 
-<sup>3</sup> Le service cantonal des migrations ou, avec son accord, la représentation suisse dans l’Etat d’origine de l’enfant, ne peut octroyer le visa ou l’autorisation de séjour qu’une fois que l’autorité cantonale dispose des documents visés à l’art. 7, al. 1, let. b à e, et qu’elle a octroyé son autorisation ou, exceptionnellement, qu’elle a approuvé l’entrée de l’enfant en Suisse avant de décider de l’octroi de l’autorisation.
+<sup>3</sup> Le service cantonal des migrations ou, avec son accord, la représentation suisse dans l’État d’origine de l’enfant, ne peut octroyer le visa ou l’autorisation de séjour qu’une fois que l’autorité cantonale dispose des documents visés à l’art. 7, al. 1, let. b à e, et qu’elle a octroyé son autorisation ou, exceptionnellement, qu’elle a approuvé l’entrée de l’enfant en Suisse avant de décider de l’octroi de l’autorisation.
 
 #### Art. 9
 
@@ -213,10 +215,10 @@ L’autorité cantonale peut octroyer l’autorisation d’accueillir un enfant 
 Quiconque requiert l’autorisation d’exercer l’activité d’intermédiaire doit:
 
 - a. pouvoir certifier qu’il dispose d’une expérience appropriée et des qualifications professionnelles nécessaires dans le domaine du travail social, de la psychologie ou un autre domaine connexe;
-- b. connaître et respecter le droit suisse, le droit international et le droit des Etats d’origine des enfants en matière d’adoption;
+- b. connaître et respecter le droit suisse, le droit international et le droit des États d’origine des enfants en matière d’adoption;
 - c. s’engager à servir le bien de l’enfant et respecter les règles fondamentales d’éthique en matière d’adoption;
-- d. disposer de connaissances approfondies du contexte culturel et social des Etats d’origine des enfants;
-- e. assurer la transparence sur ses relations avec ses représentants et sur les méthodes de travail employées dans les Etats d’origine des enfants et en Suisse;
+- d. disposer de connaissances approfondies du contexte culturel et social des États d’origine des enfants;
+- e. assurer la transparence sur ses relations avec ses représentants et sur les méthodes de travail employées dans les États d’origine des enfants et en Suisse;
 - f. informer, conseiller, encadrer et accompagner les requérants avant et après l’adoption;
 - g. présenter les tarifs d’intermédiation et les modalités de paiement en Suisse et à l’étranger;
 - h. avoir son domicile en Suisse.
@@ -300,7 +302,7 @@ L’OFJ retire l’autorisation si l’intermédiaire:
 
 <sup>2</sup> Il peut infliger une amende d’ordre de 5000 francs au plus à toute personne exerçant l’activité d’intermédiaire sans autorisation.
 
-## Section 4 Emoluments dus pour les prestations en matière d’adoption internationale
+## Section 4 Émoluments dus pour les prestations en matière d’adoption internationale
 
 #### Art. 24
 
@@ -316,8 +318,8 @@ Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émolu
 
 Sont soumises à émolument les prestations suivantes de l’OFJ:
 
-- a. la transmission de renseignements et la réception, le contrôle et la transmission de communications, de rapports et de décisions émanant des autorités centrales cantonales et étrangères, d’autres organes de l’Etat ou d’intermédiaires;
-- b. la mise en œuvre de toutes les mesures nécessaires pour assurer la sortie de l’enfant du territoire de son Etat d’origine, son entrée dans l’Etat d’accueil et son séjour durable, y compris son hébergement, dans ce dernier Etat;
+- a. la transmission de renseignements et la réception, le contrôle et la transmission de communications, de rapports et de décisions émanant des autorités centrales cantonales et étrangères, d’autres organes de l’État ou d’intermédiaires;
+- b. la mise en œuvre de toutes les mesures nécessaires pour assurer la sortie de l’enfant du territoire de son État d’origine, son entrée dans l’État d’accueil et son séjour durable, y compris son hébergement, dans ce dernier État;
 - c. la délivrance d’un document autorisant l’entrée en Suisse au sens de l’art. 10 LF-CLaH.
 
 #### Art. 26
@@ -328,7 +330,7 @@ Sont soumises à émolument les prestations suivantes de l’OFJ:
 
 <sup>2</sup> Les émoluments dus pour la délivrance d’un document autorisant l’entrée en Suisse au sens de l’art. 10 LF-CLaH sont régis par l’ordonnance du 29 novembre 2006 sur les émoluments à percevoir par les représentations diplomatiques et consulaires suisses[^26-1].
 
-[^26-1]: [RS 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)
+[^26-1]: [[RO 2006 5321](https://fedlex.data.admin.ch/eli/oc/2006/803). [RO 2015 3849](https://fedlex.data.admin.ch/eli/oc/2015/652)art. 17]. Voir actuellement l’O du 7 oct. 2015 sur les émoluments du DFAE ([RS 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)).
 
 #### Art. 27
 
@@ -367,7 +369,7 @@ II
 
 Les ordonnances ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-3]
+…[^annexu1-lvlu1-3]
 
 [^annexu1-lvlu1-1]: [[RO 2002 4158](https://fedlex.data.admin.ch/eli/oc/2002/670), [2006 3385](https://fedlex.data.admin.ch/eli/oc/2006/536)]
 [^annexu1-lvlu1-2]: [[RO 2002 4160](https://fedlex.data.admin.ch/eli/oc/2002/671)]

@@ -4,11 +4,11 @@ title: "Ordinanza del 29 giugno 2011 sull'adozione (OAdoz)"
 short: OAdoz
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/505"
 language: it
-version: 2012-01-01
+version: 2023-01-23
 adopted: 2011-06-29
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/505/20120101/it/xml/fedlex-data-admin-ch-eli-cc-2011-505-20120101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/505/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2011-505-20230123-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/505/20120101/it"
 
 (OAdoz)
 
-del 29 giugno 2011 (Stato 1° gennaio 2012)
+del 29 giugno 2011 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -114,9 +114,10 @@ L’idoneità sussiste se:
 
 <sup>5</sup> Ai fini dell’accertamento l’autorità cantonale ricorre a una persona in possesso di una qualifica specialistica nel settore sociale o in psicologia, che ha maturato esperienza professionale in materia di protezione di minori o di adozione.
 
-<sup>6</sup> Ai fini dell’accertamento secondo il capoverso 2 lettera d numero 3, l’autorità cantonale richiede un estratto del casellario giudiziale informatizzato (VOSTRA). I genitori adottivi stranieri presentano un estratto del casellario giudiziale del loro Paese d’origine o un documento equivalente. Se è in corso un procedimento penale per un reato incompatibile con l’adozione, l’autorità cantonale sospende l’accertamento fino alla chiusura del procedimento con decisione passata in giudicato.
+<sup>6</sup> Ai fini dell’accertamento secondo il capoverso 2 lettera d numero 3, l’autorità cantonale richiede un estratto 2 per autorità del casellario giudiziale informatizzato VOSTRA. I genitori adottivi stranieri presentano un estratto del casellario giudiziale del loro Paese d’origine o un documento equivalente. Se è in corso un procedimento penale per un reato incompatibile con l’adozione, l’autorità cantonale sospende l’accertamento fino alla chiusura del procedimento con decisione passata in giudicato.[^5-2]
 
 [^5-1]: [RU 2011 4381](https://fedlex.data.admin.ch/eli/oc/2011/601)
+[^5-2]: Nuovo testo giusta l’all. 10 n. II 8 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 6
 
@@ -330,7 +331,7 @@ Sono soggette a emolumento le seguenti prestazioni dell’UFG:
 
 <sup>2</sup> L’emolumento per il rilascio di un documento d’entrata secondo l’articolo 10 LF‑CAA si basa sull’ordinanza del 29 novembre 2006[^26-1] sulle tasse delle rappresentanze diplomatiche e consolari svizzere.
 
-[^26-1]: [RS 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)
+[^26-1]: [[RU 2006 5321](https://fedlex.data.admin.ch/eli/oc/2006/803). [RU 2015 3849](https://fedlex.data.admin.ch/eli/oc/2015/652)art. 17]. Vedi ora l’O del 7 ott. 2015 sugli emolumenti del Dipartimento federale degli affari esteri ([RS 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)).
 
 #### Art. 27
 
