@@ -4,11 +4,11 @@ title: Code pénal militaire du 13 juin 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230123-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230101/fr"
 
 (CPM)
 
-du 13 juin 1927 (État le 1<sup>er</sup> janvier 2023)
+du 13 juin 1927 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -4161,24 +4161,13 @@ Lorsqu’une personne est inculpée de plusieurs infractions dont les unes sont 
 
 [^225-1]: Abrogé par le ch. I 2 de la LF du 23 mars 1979, avec effet au 1<sup>er</sup> janv. 1980 ([RO 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Titre 5 Casier judiciaire
-
-[^book3-tit5-1]
-
-[^book3-tit5-1]: Nouvelle teneur selon le ch. III de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787).
-
-### Casier judiciaire
+### Titre 5 …
 
 #### Art. 226
 
 [^226-1]
 
-<sup>1</sup> L’astreinte à un travail d’intérêt public au sens de l’art. 81, al. 3 ou 4, et les sanctions disciplinaires ne sont pas inscrites au casier judiciaire.
-
-<sup>2</sup> Au surplus, les art. 365 à 371 CP[^226-2] sont applicables.
-
-[^226-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008 (Mod. découlant de la nouvelle PG CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^226-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^226-1]: Abrogé par l’annexe 1 ch. 7 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 227
 
@@ -4353,17 +4342,13 @@ Le présent code entrera en vigueur le 1<sup>er</sup> janvier 1928.
 
 <sup>3</sup> Les dispositions du CP[^u2-5] relatives à l’exécution des peines privatives de liberté (art. 74 à 85, 91 et 92 CP), à l’assistance de probation, aux règles de conduite et à l’assistance sociale facultative (art. 93 à 96 CP) s’appliquent aussi aux auteurs condamnés en vertu de l’ancien droit.
 
-\2. Casier judiciaire
-
-<sup>1</sup> Les dispositions du CP relatives au casier judiciaire (art. 365 à 371 CP) s’appliquent également aux jugements prononcés en vertu de l’ancien droit.
-
-<sup>2</sup> Les inscriptions radiées en vertu de l’ancien droit n’apparaissent plus dans les extraits du casier judiciaire destinés aux particuliers.[^u2-6]
+\2. …[^u2-6]
 
 [^u2-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008 (Mod. découlant de la nouvelle PG CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^u2-3]: [RO 1975 55](https://fedlex.data.admin.ch/eli/oc/1975/55_55_55), [1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)
 [^u2-4]: [RO 1951 439](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)
 [^u2-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^u2-6]: Nouvelle teneur selon le ch. II de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735))
+[^u2-6]: Abrogé par l’annexe 1 ch. 7 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Disposition transitoire de la modification du 19 juin 2015
 

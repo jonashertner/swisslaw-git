@@ -4,18 +4,18 @@ title: Codice penale militare del 13 giugno 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230101/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230123/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230123-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale militare
 
-del 13 giugno 1927 (Stato 1° gennaio 2023)
+del 13 giugno 1927 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -4158,18 +4158,11 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 
 ### Capo quinto: ...
 
-### Casellario giudiziale
-
 #### Art. 226
 
 [^226-1]
 
-<sup>1</sup> L’obbligo di prestare lavori di pubblica utilità secondo l’articolo 81 capoversi 3 o 4 nonché le pene disciplinari non sono iscritti nel casellario giudiziale.
-
-<sup>2</sup> Per il resto, si applicano gli articoli 365–371 del CP[^226-2].
-
-[^226-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^226-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^226-1]: Abrogato dall’all. 1 n. 7 della LF del 17 giu. 2016 sul casellario giudiziale informatizzato VOSTRA, con effetto dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 227
 
@@ -4341,17 +4334,13 @@ Il presente Codice entra in vigore il 1° gennaio 1928.
 
 <sup>3</sup> Le disposizioni del Codice penale svizzero[^u2-5] concernenti l’esecuzione delle pene detentive (art. 74–85, 91 e 92) nonché l’assistenza riabilitativa, le norme di condotta e l’assistenza sociale volontaria (art. 93–96) sono applicabili anche a chi è stato condannato secondo il diritto anteriore.
 
-\2. Casellario giudiziale
-
-<sup>1</sup> Le disposizioni del Codice penale svizzero concernenti il casellario giudiziale (art. 365–371) sono applicabili anche alle sentenze pronunciate in base al diritto anteriore.
-
-<sup>2</sup> Le iscrizioni cancellate secondo il diritto anteriore non figurano più su estratti del casellario giudiziale rilasciati a privati.[^u2-6]
+\2. ...[^u2-6]
 
 [^u2-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^u2-3]: [RU 1975 55](https://fedlex.data.admin.ch/eli/oc/1975/55_55_55), [1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)
 [^u2-4]: [RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)452
 [^u2-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^u2-6]: Nuovo testo giusta il n. II della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^u2-6]: Abrogato dall’all. 1 n. 7 della LF del 17 giu. 2016 sul casellario giudiziale informatizzato VOSTRA, con effetto dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Disposizione transitoria della modifica del 19 giugno 2015
 

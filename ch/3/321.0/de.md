@@ -4,11 +4,11 @@ title: Militärstrafgesetz vom 13. Juni 1927 (MStG)
 short: MStG
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230101/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230123/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230123-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230101/de"
 
 (MStG)
 
-vom 13. Juni 1927 (Stand am 1. Januar 2023)
+vom 13. Juni 1927 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -71,7 +71,7 @@ Dem Militärstrafrecht unterstehen:
 - 6\. Berufs- und Zeitmilitärs, die Angehörigen des Grenzwachtkorps sowie Personen, die nach Artikel 66 des Militärgesetzes vom 3. Februar 1995[^3-3] Friedensförderungsdienst leisten, während der Ausübung des Dienstes, ausserhalb des Dienstes mit Bezug auf ihre dienstlichen Pflichten und ihre dienstliche Stellung oder wenn sie die Uniform tragen;
 - 7\. Zivilpersonen oder ausländische Militärpersonen, die sich schuldig machen der landesverräterischen Verletzung militärischer Geheimnisse (Art. 86), der Sabotage (Art. 86*a*), der Schwächung der Wehrkraft (Art. 94–96), der Verletzung militärischer Geheimnisse (Art. 106) oder des Ungehorsams gegen militärische und behördliche Massnahmen, die der Vorbereitung oder Durchführung der Mobilmachung der Armee oder der Wahrung des militärischen Geheimnisses dienen (Art. 107);
 - 8\.[^3-4] Zivilpersonen oder ausländische Militärpersonen für Taten nach den Artikeln 115–179, die sie als Angestellte oder Beauftragte der Armee oder der Militärverwaltung im Zusammenwirken mit der Truppe begehen;
-- 9\.[^3-5] Zivilpersonen und ausländische Militärpersonen, die im Ausland gegen einen Angehörigen der Schweizer Armee eine Tat nach dem sechsten Abschnitt (Art. 108 und 109) oder dem sechsten Abschnitt<sup>bis</sup> (Art. 110–114) des zweiten Teils oder nach Artikel 114*a* begehen
+- 9\.[^3-5] Zivilpersonen und ausländische Militärpersonen, die im Ausland gegen einen Angehörigen der Schweizer Armee eine Tat nach dem sechsten Abschnitt (Art. 108 und 109) oder dem sechsten Abschnitt<sup>bis</sup> (Art. 110–114) des zweiten Teils oder nach Artikel 114*a* begehen.
 
 <sup>2</sup> Die Personen nach Absatz 1 Ziffern 1, 2, 6 und 8 unterstehen für die ganze Dauer ihres Auslandeinsatzes dem Militärstrafrecht, wenn sie im Ausland eine nach diesem Gesetz strafbare Handlung begehen.
 
@@ -4166,24 +4166,13 @@ Ist jemand mehrerer strafbarer Handlungen beschuldigt, die teils der militärisc
 
 [^225-1]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Fünfter Titel: Strafregister
-
-[^book3-tit5-1]
-
-[^book3-tit5-1]: Fassung gemäss Ziff. III des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
-
-### Strafregister
+### Fünfter Titel: …
 
 #### Art. 226
 
 [^226-1]
 
-<sup>1</sup> Die Verpflichtung zur Arbeitsleistung im öffentlichen Interesse gemäss Artikel 81 Absatz 3 oder 4 sowie Disziplinarstrafen werden nicht in das Strafregister eingetragen.
-
-<sup>2</sup> Im Übrigen gelten die Artikel 365–371 des Strafgesetzbuches[^226-2].
-
-[^226-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^226-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^226-1]: Aufgehoben durch Anhang 1 Ziff. 7 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 227
 
@@ -4355,17 +4344,13 @@ Dieses Gesetz tritt mit dem 1. Januar 1928 in Kraft.
 
 <sup>3</sup> Die Bestimmungen des Strafgesetzbuches[^u2-5] über den Vollzug von Freiheitsstrafen (Art. 74–85, 91, 92 des Strafgesetzbuches) sowie über die Bewährungshilfe, die Weisungen und die freiwillige soziale Betreuung (Art. 93–96 des Strafgesetzbuches) sind auch auf die Täter anwendbar, die nach bisherigem Recht verurteilt wurden.
 
-\2. Strafregister
-
-<sup>1</sup> Die Bestimmungen des Strafgesetzbuches über das Strafregister (Art. 365–371 des Strafgesetzbuches) sind auch auf Urteile anwendbar, die auf Grund des bisherigen Rechts ergangen sind.
-
-<sup>2</sup> Nach bisherigem Recht gelöschte Eintragungen erscheinen nicht mehr im Strafregisterauszug für Privatpersonen.[^u2-6]
+\2. …[^u2-6]
 
 [^u2-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^u2-3]: [AS 1975 55](https://fedlex.data.admin.ch/eli/oc/1975/55_55_55), [1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037)
 [^u2-4]: [AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)
 [^u2-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^u2-6]: Fassung gemäss Ziff. II des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735))
+[^u2-6]: Aufgehoben durch Anhang 1 Ziff. 7 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Übergangsbestimmung zur Änderung vom 19. Juni 2015
 
