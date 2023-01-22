@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 1997 on Weapons, Weapon Accessories and Ammunitio
 short: WA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: en
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 20 June 1997 (Status as of 1 January 2023)
+of 20 June 1997 (Status as of 23 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -253,23 +253,25 @@ The Federal Council may prohibit the acquisition, possession, offering for acqui
 
 <sup>2</sup>
 
-A weapon acquisition permit will not be issued to any person:
+A weapon acquisition permit shall not be issued to any person:
 
 - a. who has not yet reached 18 years of age;
 - b.[^8-4] who is subject to a general deputyship or is represented through a care appointee;
 - c. if there is reason to believe that they may use the weapon to harm themselves or others;
-- d. who has a criminal record for an act that indicates a violent disposition or that presents a danger to public safety, or for repeated felonies or misdemeanours, as long as the criminal record entry has not been deleted.
+- d.[^8-5] in respect of whom a conviction for an act that indicates a violent disposition or that presents a danger to public safety, or for repeated felonies or misdemeanours appears in a standard private extract in accordance with Article 41 of the Criminal Records Register Act of 17 June 2016[^8-6].
 
-<sup>2bis</sup> Any person who acquires firearms or essential weapon components through inheritance must apply for a weapon acquisition permit within six months unless the objects are transferred to the possession of an authorised person within this deadline.[^8-5]
+<sup>2bis</sup> Any person who acquires firearms or essential weapon components through inheritance must apply for a weapon acquisition permit within six months unless the objects are transferred to the possession of an authorised person within this deadline.[^8-7]
 
-<sup>3–5</sup> ...[^8-6]
+<sup>3–5</sup> ...[^8-8]
 
 [^8-1]: Amended by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-2]: Amended by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-3]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-4]: Amended by Annex No 17 of the FA of 19 Dec. 2008 (Adult protection, law of persons and law of children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^8-5]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^8-6]: Repealed by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, with effect from 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-5]: Amended by Annex 1 No 11 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^8-6]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^8-7]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-8]: Repealed by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, with effect from 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 9
 

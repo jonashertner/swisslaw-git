@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1997 sulle armi, gli accessori di armi e le
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/it"
 
 (Legge sulle armi, LArm)
 
-del 20 giugno 1997 (Stato 1° gennaio 2023)
+del 20 giugno 1997 (Stato 23 gennaio 2023) (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -261,18 +261,20 @@ Il permesso d’acquisto di armi non è rilasciato alle persone che:
 - a. non hanno compiuto 18 anni;
 - b.[^8-4] sono sotto curatela generale o sono rappresentate da un mandatario designato con mandato precauzionale;
 - c. danno motivi di ritenere che esporranno a pericolo sé stessi o terzi;
-- d. in ragione di una condanna per reati che denotano carattere violento o pericoloso o per crimini o delitti commessi ripetutamente, sono iscritti nel casellario giudiziale, fintanto che l’iscrizione non sia cancellata.
+- d.[^8-5] in ragione di una condanna per reati che denotano carattere violento o pericoloso o per crimini o delitti commessi ripetutamente, figurano nell’estratto per privati secondo l’articolo 41 della legge del 17 giugno 2016[^8-6] sul casellario giudiziale.
 
-<sup>2bis</sup> Le persone che, mediante acquisto per successione ereditaria, entrano in possesso di armi da fuoco o di parti essenziali di armi devono chiedere, entro sei mesi, un permesso d’acquisto di armi, eccetto che, entro tale termine, gli oggetti vengano alienati a un avente diritto.[^8-5]
+<sup>2bis</sup> Le persone che, mediante acquisto per successione ereditaria, entrano in possesso di armi da fuoco o di parti essenziali di armi devono chiedere, entro sei mesi, un permesso d’acquisto di armi, eccetto che, entro tale termine, gli oggetti vengano alienati a un avente diritto.[^8-7]
 
-<sup>3</sup> a <sup>5</sup> ...[^8-6]
+<sup>3</sup> a <sup>5</sup> ...[^8-8]
 
 [^8-1]: Nuovo testo giusta l’art. 3 n. 6 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. e; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-2]: Nuovo testo giusta l’art. 3 n. 6 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. e; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-3]: Introdotto dall’art. 3 n. 6 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. e; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-4]: Nuovo testo giusta l’all. n. 17 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^8-5]: Introdotto dall’art. 3 n. 6 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. e; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^8-6]: Abrogati dall’art. 3 n. 6 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, con effetto dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. e; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-5]: Nuovo testo giusta l’all. 1 n. 11 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^8-6]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^8-7]: Introdotto dall’art. 3 n. 6 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. e; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-8]: Abrogati dall’art. 3 n. 6 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, con effetto dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. e; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 9
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1997 sur les armes, les accessoires d'armes et
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/fr"
 
 (Loi sur les armes, LArm)
 
-du 20 juin 1997 (Etat le 1<sup>er</sup> janvier 2023)
+du 20 juin 1997 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -259,18 +259,20 @@ Aucun permis d’acquisition d’armes n’est délivré aux personnes:
 - a. qui n’ont pas 18 ans révolus;
 - b.[^8-4] qui sont protégées par une curatelle de portée générale ou un mandat pour cause d’inaptitude;
 - c. dont il y a lieu de craindre qu’elles utilisent l’arme d’une manière dangereuse pour elles-mêmes ou pour autrui;
-- d. qui sont enregistrées au casier judiciaire pour un acte dénotant un caractère violent ou dangereux ou pour la commission répétée de crimes ou de délits, tant que l’inscription n’est pas radiée.
+- d.[^8-5] qui figurent sur l’extrait destiné aux particuliers selon l’art. 41 de la loi du 17 juin 2016 sur le casier judiciaire[^8-6] pour un acte dénotant un caractère violent ou dangereux ou pour la commission répétée de crimes ou de délits.
 
-<sup>2bis</sup> Toute personne qui acquiert une arme à feu ou un élément essentiel d’arme par dévolution successorale doit demander un permis d’acquisition d’armes dans les six mois, sauf si, pendant ce délai, elle aliène l’objet en question à une personne autorisée.[^8-5]
+<sup>2bis</sup> Toute personne qui acquiert une arme à feu ou un élément essentiel d’arme par dévolution successorale doit demander un permis d’acquisition d’armes dans les six mois, sauf si, pendant ce délai, elle aliène l’objet en question à une personne autorisée.[^8-7]
 
-<sup>3</sup> à <sup>5</sup> …[^8-6]
+<sup>3</sup> à <sup>5</sup> …[^8-8]
 
 [^8-1]: Nouvelle teneur selon l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-2]: Nouvelle teneur selon l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-3]: Introduit par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-4]: Nouvelle teneur selon l’annexe ch. 17 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^8-5]: Introduit par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^8-6]: Abrogés par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, avec effet au 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-5]: Nouvelle teneur selon l’annexe 1 ch. 11 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^8-6]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^8-7]: Introduit par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-8]: Abrogés par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, avec effet au 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 9
 
@@ -1355,8 +1357,8 @@ Les autorités cantonales compétentes et les services de communication transmet
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:
 
 - a.[^33-3] sans droit, offre, aliène, acquiert, possède, fabrique, modifie, transforme, porte, exporte vers un État Schengen ou introduit sur le territoire suisse des armes, des éléments essentiels d’armes, des composants d’armes spécialement conçus, des accessoires d’armes, des munitions ou des éléments de munitions, ou en fait le courtage;
-- b. en sa qualité de titulaire d’une patente de commerce d’armes, introduit sur le territoire suisse des armes, des éléments essentiels d’armes, des composants d’armes spécialement conçus, des accessoires d’armes, des munitions ou des éléments de munitions, sans avoir annoncé ou déclaré correctement ces objets;
 - a<sup>bis</sup>.[^33-4] sans droit, enlève, rend méconnaissable, modifie ou complète le marquage des armes à feu ou de leurs éléments essentiels ou accessoires prescrit par l’art. 18*a*;
+- b. en sa qualité de titulaire d’une patente de commerce d’armes, introduit sur le territoire suisse des armes, des éléments essentiels d’armes, des composants d’armes spécialement conçus, des accessoires d’armes, des munitions ou des éléments de munitions, sans avoir annoncé ou déclaré correctement ces objets;
 - c. obtient frauduleusement une patente de commerce d’armes au moyen d’indications fausses ou incomplètes;
 - d. viole les obligations fixées à l’art. 21;
 - e. en sa qualité de titulaire d’une patente de commerce d’armes, omet de conserver des armes, des éléments essentiels d’armes, des composants d’armes spécialement conçus, des accessoires d’armes, des munitions ou des éléments de munitions avec les garanties de sécurité requises (art. 17, al. 2, let. d);

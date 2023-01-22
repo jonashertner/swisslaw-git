@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da zercladur 1997 davart las armas, ils accessor
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: rm
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 20 da zercladur 1997 (versiun dals 1 da schaner 2023)
+dals 20 da zercladur 1997 (versiun dals 23 da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -258,18 +258,20 @@ Nagina permissiun d’acquistar armas na survegnan persunas che:
 - a. n’han betg anc cumplenì 18 onns;
 - b.[^8-4] stattan sut curatella cumplessiva u vegnan represchentadas d’ina persuna incumbensada da prevenziun;
 - c. dattan l’occasiun da supponer ch’ellas pericliteschian sasezzas u terzas persunas cun l’arma;
-- d. èn inscrittas en il register penal pervia d’in act che demussa in caracter violent u privlus u pervia da crims u delicts commess repetidamain, uschè ditg che l’inscripziun n’è betg stizzada.
+- d.[^8-5] cumparan en l’extract privat tenor l’artitgel 41 da la Lescha federala dals 17 da zercladur 2016[^8-6] davart il register penal pervia d’in act che demussa in caracter violent u privlus u pervia da crims u delicts commess repetidamain.
 
-<sup>2bis</sup> Persunas ch’acquistan armas da fieu u parts essenzialas d’armas tras successiun d’ierta ston dumandar entaifer 6 mais ina permissiun d’acquistar armas, nun ch’ils objects vegnian transferids entaifer quest termin ad ina persuna autorisada.[^8-5]
+<sup>2bis</sup> Persunas ch’acquistan armas da fieu u parts essenzialas d’armas tras successiun d’ierta ston dumandar entaifer 6 mais ina permissiun d’acquistar armas, nun ch’ils objects vegnian transferids entaifer quest termin ad ina persuna autorisada.[^8-7]
 
-<sup>3–5</sup> ...[^8-6]
+<sup>3–5</sup> ...[^8-8]
 
 [^8-1]: Versiun tenor l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-2]: Versiun tenor l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-3]: Integrà tras l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-4]: Versiun tenor la cifra 17 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^8-5]: Integrà tras l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^8-6]: Abolì tras l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, cun effect dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-5]: Versiun tenor la cifra 11 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^8-6]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^8-7]: Integrà tras l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-8]: Abolì tras l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, cun effect dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 9
 

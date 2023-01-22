@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 20. Juni 1997 über Waffen, Waffenzubehör und Munition
 short: WG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230123-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Waffen, Waffenzubehör und Munition (Waffengesetz, WG)
 
-vom 20. Juni 1997 (Stand am 1. Januar 2023)
+vom 20. Juni 1997 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -256,18 +256,20 @@ Keinen Waffenerwerbsschein erhalten Personen, die:
 - a. das 18. Altersjahr noch nicht vollendet haben;
 - b.[^8-4] unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden;
 - c. zur Annahme Anlass geben, dass sie sich selbst oder Dritte mit der Waffe gefährden;
-- d. wegen einer Handlung, die eine gewalttätige oder gemeingefährliche Gesinnung bekundet, oder wegen wiederholt begangener Verbrechen oder Vergehen im Strafregister eingetragen sind, solange der Eintrag nicht gelöscht ist.
+- d.[^8-5] wegen einer Handlung, die eine gewalttätige oder gemeingefährliche Gesinnung bekundet, oder wegen wiederholt begangener Verbrechen oder Vergehen im Privatauszug nach Artikel 41 des Strafregistergesetzes vom 17. Juni 2016[^8-6] erscheinen.
 
-<sup>2bis</sup> Personen, die Feuerwaffen oder wesentliche Waffenbestandteile durch Erbgang erwerben, müssen innerhalb von sechs Monaten einen Waffenerwerbsschein beantragen, sofern die Gegenstände nicht innerhalb dieser Frist einer berechtigten Person übertragen werden.[^8-5]
+<sup>2bis</sup> Personen, die Feuerwaffen oder wesentliche Waffenbestandteile durch Erbgang erwerben, müssen innerhalb von sechs Monaten einen Waffenerwerbsschein beantragen, sofern die Gegenstände nicht innerhalb dieser Frist einer berechtigten Person übertragen werden.[^8-7]
 
-<sup>3–5</sup> …[^8-6]
+<sup>3–5</sup> …[^8-8]
 
 [^8-1]: Fassung gemäss Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-2]: Fassung gemäss Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-3]: Eingefügt durch Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-4]: Fassung gemäss Anhang Ziff. 17 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^8-5]: Eingefügt durch Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^8-6]: Aufgehoben durch Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, mit Wirkung seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-5]: Fassung gemäss Anhang 1 Ziff. 11 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^8-6]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^8-7]: Eingefügt durch Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-8]: Aufgehoben durch Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, mit Wirkung seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 9
 
