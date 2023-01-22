@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul sistema d'informazione per il sett
 short: LSISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230101-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230123-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230101/it"
 
 (LSISA)
 
-del 20 giugno 2003 (Stato 1° gennaio 2023)
+del 20 giugno 2003 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -97,17 +97,19 @@ Il sistema coadiuva la SEM nell’adempimento dei seguenti compiti nel settore d
 Ai fini del controllo e per l’allestimento di statistiche sulle misure di allontanamento e di respingimento disposte nei confronti di stranieri conformemente alla LAsi, alla LStrI, all’Accordo sulla libera circolazione, al Codice penale (CP)[^3-20] e al Codice penale militare del 13 giugno 1927[^3-21] (CPM), nel sistema d’informazione sono registrati i dati seguenti:
 
 - a. le decisioni di cui all’articolo 68*a* capoversi 1 e 2 LStrI, nonché le decisioni di allontanamento pronunciate nei confronti di cittadini di Stati dell’UE/AELS;
-- b. ...
+- b. la pronuncia di un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’ar-ticolo 49*a* o 49*a*<sup>bis</sup> CPM (espulsione giudiziaria);
 - c. la sospensione dell’esecuzione di un’espulsione giudiziaria;
 - d. la revoca della sospensione dell’esecuzione di un’espulsione giudiziaria;
-- e. ...
+- e. la rinuncia alla pronuncia di un’espulsione giudiziaria obbligatoria ai sensi dell’articolo 66*a* capoversi 2 e 3 CP o dell’articolo 49*a* capoversi 2 e 3 CPM;
 - f. nel caso di un’espulsione giudiziaria pronunciata in Svizzera, la data di partenza effettiva o quella stabilita dall’autorità di esecuzione nonché il motivo della partenza: rinvio coatto, estradizione, trasferimento ai fini dell’esecuzione della sanzione all’estero;
-- g. ...
+- g. le relative fattispecie penali;
 - h. la partenza volontaria o coatta;
 - i. lo Stato verso il quale è eseguito il rinvio coatto dello straniero;
 - j. i motivi che hanno determinato la misura di allontanamento e di respingimento.[^3-22]
 
-<sup>5</sup> Il numero AVS[^3-23] di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^3-24] sull’assicurazione per la vecchiaia e per i superstiti serve allo scambio elettronico di dati tra i registri ufficiali di persone.[^3-25]
+<sup>4ter</sup> I dati di cui al capoverso 4<sup>bis</sup> sono trasmessi automaticamente da VOSTRA, in quanto non siano già contenuti nel SIMIC.[^3-23]
+
+<sup>5</sup> Il numero AVS[^3-24] di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^3-25] sull’assicurazione per la vecchiaia e per i superstiti serve allo scambio elettronico di dati tra i registri ufficiali di persone.[^3-26]
 
 [^3-1]: Nuovo testo giusta l’art. 2 n. 2 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente l’introduzione di dati biometrici nelle carte di soggiorno per stranieri, in vigore dal 24 gen. 2011 ([RU 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-2]: Nuovo testo giusta l’art. 2 n. 2 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente l’introduzione di dati biometrici nelle carte di soggiorno per stranieri, in vigore dal 24 gen. 2011 ([RU 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
@@ -130,10 +132,11 @@ Ai fini del controllo e per l’allestimento di statistiche sulle misure di allo
 [^3-19]: Introdotta dall’all. 1 n. 3 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-20]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^3-21]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^3-22]: Introdotto dall’all. n. 3 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati) ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 22 nov. 2022, lett. b, e e g entreranno in vigore in un secondo tempo ([RU 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^3-23]: Nuova espr. giusta l’all. n. 1 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^3-24]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-25]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^3-22]: Introdotto dall’all. n. 3 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull'espulsione di stranieri che commettono reati) ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 22 nov. 2022, lett. b, e e g in vigore dal 23 gen. 2023 ([RU 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^3-23]: Introdotto dal n. I della LF du 18 dic. 2020, in vigore dal 23 gen. 2023 ([RU 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^3-24]: Nuova espr. giusta l’all. n. 1 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3-25]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-26]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 4
 

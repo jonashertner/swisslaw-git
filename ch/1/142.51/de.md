@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 2003 über das Informationssystem für den Ausl
 short: BGIAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230101-de-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20230123-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20230101/de"
 
 (BGIAA)
 
-vom 20. Juni 2003 (Stand am 1. Januar 2023)
+vom 20. Juni 2003 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -97,17 +97,19 @@ Es unterstützt das SEM bei der Erfüllung der folgenden Aufgaben im Asylbereich
 Zu Kontrollzwecken und für die Erstellung von Statistiken über die gegenüber Ausländerinnen und Ausländern verfügten Entfernungs- und Fernhaltemassnahmen nach dem AsylG, dem AIG, dem Freizügigkeitsabkommen, dem Strafgesetzbuch (StGB)[^3-20] und dem Militärstrafgesetz vom 13. Juni 1927[^3-21] (MStG) werden folgende Daten im Informationssystem erfasst:
 
 - a. Verfügungen nach Artikel 68*a* Absätze 1 und 2 AIG, sowie die Wegweisungen gegenüber EU-EFTA Staatsangehörigen;
-- b. …
+- b. die Anordnung einer Landesverweisung nach den Artikeln 66*a* oder 66*a*<sup>bis</sup> StGB oder den Artikeln 49*a* oder 49*a*<sup>bis</sup> MStG (Landesverweisung);
 - c. der Aufschub des Vollzugs einer Landesverweisung;
 - d. die Aufhebung des Aufschubs des Vollzugs einer Landesverweisung;
-- e. …
+- e. der Verzicht auf die Anordnung einer obligatorischen Landesverweisung nach Artikel 66*a* Absätze 2 und 3 StGB oder Artikel 49*a* Absätze 2 und 3 MStG;
 - f. bei einer in der Schweiz angeordneten Landesverweisung, das effektive oder das von der Vollzugsbehörde festgelegte Ausreisedatum sowie die Angabe des Ausreisegrundes: Ausschaffung, Auslieferung, Überstellung zum Zwecke des Sanktionsvollzugs im Ausland;
-- g. …
+- g. begangene Straftaten;
 - h. die freiwillige oder zwangsweise Ausreise;
 - i. der Staat, in den die ausländische Person zwangsweise rückgeführt wird;
 - j. die Gründe für die Entfernungs- und Fernhaltemassnahme.[^3-22]
 
-<sup>5</sup> Die AHV-Nummer[^3-23] nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-24] über die Alters- und Hinterlassenenversicherung dient dem elektronischen Datenaustausch zwischen amtlichen Personenregistern.[^3-25]
+<sup>4ter</sup> Die Daten nach Absatz 4<sup>bis</sup> werden automatisch aus VOSTRA übertragen, sofern sie nicht in ZEMIS schon enthalten sind.[^3-23]
+
+<sup>5</sup> Die AHV-Nummer[^3-24] nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-25] über die Alters- und Hinterlassenenversicherung dient dem elektronischen Datenaustausch zwischen amtlichen Personenregistern.[^3-26]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-2]: Fassung gemäss Art. 2 Ziff. 2 des BB vom 18. Juni 2010 (Weiterentwicklung des Schengen-Besitzstands und Einführung biometrischer Daten im Ausländerausweis), in Kraft seit 24. Jan. 2011 ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
@@ -130,10 +132,11 @@ Zu Kontrollzwecken und für die Erstellung von Statistiken über die gegenüber 
 [^3-19]: Eingefügt durch Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-20]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^3-21]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^3-22]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer) ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 22. Nov. 2022, mit Ausnahme der Bst. b, e und g, welche zu einem späteren Zeitpunkt in Kraft gesetzt werden ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^3-23]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^3-24]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-25]: Eingefügt durch Anhang Ziff. 1 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^3-22]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer) ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 22. Nov. 2022, Bst. b, e und g, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^3-23]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^3-24]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^3-25]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-26]: Eingefügt durch Anhang Ziff. 1 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 4
 
