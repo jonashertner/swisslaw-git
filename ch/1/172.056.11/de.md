@@ -4,11 +4,11 @@ title: Verordnung vom 12. Februar 2020 über das öffentliche Beschaffungswesen 
 short: VöB
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/127"
 language: de
-version: 2021-01-01
+version: 2023-01-23
 adopted: 2020-02-12
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-127-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20210101/de"
 
 (VöB)
 
-vom 12. Februar 2020 (Stand am 1. Januar 2021)
+vom 12. Februar 2020 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -442,7 +442,7 @@ Bekannt zu geben sind insbesondere:
 
 <sup>2</sup> Die internen Kontrollorgane der Auftraggeberinnen überwachen die Einhaltung dieser Verordnung.
 
-**Art. 31** Aufhebung und Änderung anderer Erlasse
+**Art. 31**Aufhebung und Änderung anderer Erlasse
 
 <sup>1</sup>
 
@@ -453,8 +453,8 @@ Folgende Erlasse werden aufgehoben:
 
 <sup>2</sup> …[^30-3]
 
-[^30-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Anhang Ziff. II 5, [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157)[1759](https://fedlex.data.admin.ch/eli/oc/2002/264), [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259)[5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 1, [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff. I und II, **2010** 3175 Anhang 3 Ziff. 2, **2015** 775, **2017** 5161 Anhang 2 Ziff. II 3]
-[^30-2]: [[AS 2002 2663](https://fedlex.data.admin.ch/eli/oc/2002/369), [2006 4777](https://fedlex.data.admin.ch/eli/oc/2006/728), [2007 4519](https://fedlex.data.admin.ch/eli/oc/2007/634)]
+[^30-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Anhang Ziff. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff. I und II; **2010** 3175 Anhang 3 Ziff. 2; **2015** 775; **2017** 5161 Anhang 2 Ziff. II 3]
+[^30-2]: [[AS 2002 2663](https://fedlex.data.admin.ch/eli/oc/2002/369); [2006 4777](https://fedlex.data.admin.ch/eli/oc/2006/728); [2007 4519](https://fedlex.data.admin.ch/eli/oc/2007/634)]
 [^30-3]: Die Änderung kann unter [AS 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)konsultiert werden.
 
 #### Art. 32
@@ -502,11 +502,13 @@ Anhang 2
 [^annex2-lvlu1-8]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 [^annex2-lvlu1-9]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
 
-Anhang 3
+Anhang 3[^t-1]
 
 (Art. 4 Abs. 4)
 
 ## Nachweis der Erfüllung der Teilnahmebedingungen und der Eignungskriterien
+
+[^t-1]: Bereinigt gemäss Anhang 10 Ziff. II 6 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 Die Auftraggeberin kann zum Nachweis der Erfüllung der Teilnahmebedingungen und der Eignungskriterien insbesondere Dokumente gemäss der folgenden Liste verlangen:
 
@@ -534,4 +536,4 @@ Die Auftraggeberin kann zum Nachweis der Erfüllung der Teilnahmebedingungen und
 - 14\. Erklärung über Anzahl und Funktion der in den drei Jahren vor der Ausschreibung bei der Anbieterin beschäftigten Personen;
 - 15\. Erklärung betreffend einsetzbare Personalkapazität und Ausstattung im Hinblick auf die Erbringung des zu vergebenden Auftrags;
 - 16\. Studiennachweise und Bescheinigungen über die berufliche Befähigung der Mitarbeiterinnen und Mitarbeiter der Anbieterin oder von deren Führungskräften, insbesondere der für die Ausführung des zu vergebenden Auftrags vorgesehenen verantwortlichen Personen;
-- 17\. Strafregisterauszug der Führungskräfte sowie der für die Ausführung des ausgeschriebenen Auftrags vorgesehenen verantwortlichen Personen.
+- 17\. Privatauszug aus dem Strafregister-Informationssystem VOSTRA der verantwortlichen Führungskräfte sowie der für die Ausführung des ausgeschriebenen Auftrages vorgesehenen verantwortlichen Personen.

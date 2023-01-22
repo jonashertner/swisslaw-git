@@ -4,11 +4,11 @@ title: Ordinanza del 12 febbraio 2020 sugli appalti pubblici (OAPub)
 short: OAPub
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/127"
 language: it
-version: 2021-01-01
+version: 2023-01-23
 adopted: 2020-02-12
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-127-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20210101/it"
 
 (OAPub)
 
-del 12 febbraio 2020 (Stato 1° gennaio 2021)
+del 12 febbraio 2020 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -504,11 +504,13 @@ Allegato 2
 [^annex2-lvlu1-8]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 [^annex2-lvlu1-9]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
 
-Allegato 3
+Allegato 3[^t-1]
 
 (art. 4 cpv. 4)
 
 ## Prova dell’adempimento delle condizioni di partecipazione e dei criteri di idoneità
+
+[^t-1]: Aggiornato dall’all. 10 n. II 6 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 A prova dell’adempimento delle condizioni di partecipazione e dei criteri di idoneità il committente può esigere in particolare i documenti secondo il presente elenco.
 
@@ -536,4 +538,4 @@ A prova dell’adempimento delle condizioni di partecipazione e dei criteri di i
 - 14\. dichiarazione sul numero e sulla funzione delle persone occupate dall’offerente nei tre anni precedenti il bando;
 - 15\. dichiarazione riguardante le risorse di personale e i mezzi tecnici che possono essere impiegati in vista dell’esecuzione della commessa da aggiudicare;
 - 16\. titoli di studio e attestati di capacità professionale dei collaboratori o dei quadri dirigenziali dell’offerente, segnatamente delle persone cui si prevede di affidare la responsabilità dell’esecuzione della commessa da aggiudicare;
-- 17\. estratto del casellario giudiziale dei quadri dirigenziali e delle persone cui si prevede di affidare la responsabilità dell’esecuzione della commessa messa a concorso.
+- 17\. estratto per privati del casellario giudiziale informatizzato VOSTRA dei quadri dirigenziali e delle persone cui si prevede di affidare la responsabilità dell’esecuzione della commessa messa a concorso.

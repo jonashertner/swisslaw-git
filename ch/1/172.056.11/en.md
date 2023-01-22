@@ -4,11 +4,11 @@ title: Ordinance of 12 February 2020 on Public Procurement (PPO)
 short: PPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/127"
 language: en
-version: 2021-01-01
+version: 2023-01-23
 adopted: 2020-02-12
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2020-127-20210101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230123-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PPO)
 
-of 12 February 2020 (Status as of 1 January 2021)
+of 12 February 2020 (Status as of 23 January 2023)
 
 The Swiss Federal Council,
 
@@ -444,7 +444,7 @@ The following in particular must be published:
 
 <sup>2</sup> The internal supervisory bodies of the contracting authorities shall supervise compliance with this Ordinance.
 
-**Art. 31** Repeal and amendment of other legislative instruments
+**Art. 31**Repeal and amendment of other legislative instruments
 
 <sup>1</sup>
 
@@ -453,9 +453,9 @@ The following legislative instruments are repealed:
 - 1\. Ordinance of 11 December 1995[^30-1] on Public Procurement;
 - 2\. DETEC Ordinance of 18 July 2002[^30-2] on Exemption from Public Procurement Law.
 
-<sup>2</sup> ...*[^30-3]*
+<sup>2</sup> ...[^30-3]
 
-[^30-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Annex No II 5, [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157)[1759](https://fedlex.data.admin.ch/eli/oc/2002/264), [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259)[5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 para. 2 No 1, [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)No I and II, **2010** 3175 Annex 3 No 2, **2015** 775, **2017** 5161 Annex 2 No II 3]
+[^30-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Annex No II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 para. 2 No 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)No I and II; **2010** 3175 Annex 3 No 2; **2015** 775; **2017** 5161 Annex 2 No II 3]
 [^30-2]: [[AS 2002 2663](https://fedlex.data.admin.ch/eli/oc/2002/369), [2006 4777](https://fedlex.data.admin.ch/eli/oc/2006/728), [2007 4519](https://fedlex.data.admin.ch/eli/oc/2007/634)]
 [^30-3]: The amendment may be consulted under [AS 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127).
 
@@ -504,17 +504,19 @@ Annex 2
 [^annex2-lvlu1-8]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 [^annex2-lvlu1-9]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
 
-Annex 3
+Annex 3[^t-1]
 
 (Art. 4 para. 4)
 
 ## Evidence of fulfilment of the participation conditions and the eligibility criteria
 
-The contracting authority may, in particular, request documents set out in the following list as evidence that the participation conditions and the eligibility criteria are fulfilled:
+[^t-1]: Revised by Annex 10 No II 6 of the Criminal Records Register Ordinance of 19 Oct. 2022, in force since 23 Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+
+The contracting authority may, in particular, request any of the documents set out in the following list as evidence that the participation conditions and the eligibility criteria are fulfilled:
 
 - 1\.
 
-  declaration or evidence of compliance with:
+  a declaration or evidence of compliance with:
 
   - a. the provisions on workplace health and safety and employment conditions,
   - b. rules on equal pay for men and women,
@@ -522,18 +524,18 @@ The contracting authority may, in particular, request documents set out in the f
   - d. the rules of conduct to prevent corruption;
 
 - 2\. evidence of payment of social security contributions and taxes;
-- 3\. extract from the commercial register;
-- 4\. extract from the debt collection register;
+- 3\. an extract from the commercial register;
+- 4\. an extract from the debt collection register;
 - 5\. balance sheets or balance sheet extracts of the tenderer for the last three financial years prior to the invitation to tender;
-- 6\. declaration of the tenderer's total turnover in the three years preceding the invitation to tender;
-- 7\. latest independent auditor's report in the case of legal entities;
-- 8\. bank guarantee;
+- 6\. a declaration of the tenderer's total turnover in the three years preceding the invitation to tender;
+- 7\. the latest independent auditor's report in the case of legal entities;
+- 8\. a bank guarantee;
 - 9\. confirmation from a bank that the tenderer will be granted the necessary credit if the contract is awarded;
 - 10\. confirmation of the existence of a recognised quality management system;
-- 11\. list of the main goods and/or services provided over the past five years prior to the invitation to tender;
+- 11\. a list of the main goods and/or services provided over the past five years prior to the invitation to tender;
 - 12\. references that enable the contracting authority to ascertain whether the tenderer has previously provided its goods and/or services correctly and, in particular, to obtain the following information: value of the goods or service; time and place of performance; statement by the contracting authority at the time as to whether the goods or services complied with the accepted rules concerning technology and whether the tenderer provided them correctly;
 - 13\. in the case of planning competitions, project-specific evidence, in particular with regard to the training, efficiency and practices of the tenderer;
-- 14\. declaration of the number and function of persons employed by the tenderer in the three years prior to the invitation to tender;
-- 15\. declaration of the workforce and equipment available with regard to the performance of the contract to be awarded;
+- 14\. a declaration of the number and function of persons employed by the tenderer in the three years prior to the invitation to tender;
+- 15\. a declaration of the workforce and equipment available with regard to the performance of the contract to be awarded;
 - 16\. evidence of studies and certificates of professional competence for the tenderer's employees and its managers, in particular for the persons responsible for performance of the contract to be awarded;
-- 17\. extract from the register of convictions for managers and persons responsible for the performance of the contract to be awarded.
+- 17\. a standard private extract from the VOSTRA Criminal Records Register Information System relating to the managers responsible and persons responsible for the performance of the contract to be awarded.

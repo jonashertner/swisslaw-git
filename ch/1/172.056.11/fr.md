@@ -4,11 +4,11 @@ title: Ordonnance du 12 février 2020 sur les marchés publics (OMP)
 short: OMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/127"
 language: fr
-version: 2021-01-01
+version: 2023-01-23
 adopted: 2020-02-12
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-127-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20210101/fr"
 
 (OMP)
 
-du 12 février 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 12 février 2020 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -453,7 +453,7 @@ Sont abrogées:
 - 1\. l’ordonnance du 11 décembre 1995 sur les marchés publics[^31-1];
 - 2\. l’ordonnance du DETEC du 18 juillet 2002 sur l’exemption du droit des marchés publics[^31-2].
 
-<sup>2</sup> ...[^31-3]
+<sup>2</sup> …[^31-3]
 
 [^31-1]: [[RO 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 5, [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157)[1759](https://fedlex.data.admin.ch/eli/oc/2002/264), [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259)[5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 al. 2 ch. 1, [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752), [2010 1565](https://fedlex.data.admin.ch/eli/oc/2010/222)[3175](https://fedlex.data.admin.ch/eli/oc/2010/427)annexe 3 ch. II, [2015 775](https://fedlex.data.admin.ch/eli/oc/2015/141), [2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)annexe 2 ch. II 3]
 [^31-2]: [[RO 2002 2663](https://fedlex.data.admin.ch/eli/oc/2002/369), [2006 4777](https://fedlex.data.admin.ch/eli/oc/2006/728), [2007 4519](https://fedlex.data.admin.ch/eli/oc/2007/634)]
@@ -504,11 +504,13 @@ Annexe 2
 [^annex2-lvlu1-8]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 [^annex2-lvlu1-9]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
 
-Annexe 3
+Annexe 3[^t-1]
 
 (art. 4, al. 4)
 
 ## Preuve du respect des conditions de participation et de la satisfaction des critères d’aptitude
+
+[^t-1]: Mise à jour par l’annexe 10 ch. II 6 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 L’adjudicateur peut demander notamment les documents mentionnés dans la présente liste comme preuve du respect des conditions de participation et de la satisfaction des critères d’aptitude:
 
@@ -536,4 +538,4 @@ L’adjudicateur peut demander notamment les documents mentionnés dans la prés
 - 14\. déclaration portant sur le nombre et la fonction des personnes occupées au sein du soumissionnaire durant les trois années qui ont précédé l’appel d’offres;
 - 15\. déclaration portant sur les ressources humaines et les moyens techniques dont le soumissionnaire dispose pour exécuter le travail prévu;
 - 16\. diplômes et certificats attestant les capacités professionnelles des collaborateurs du soumissionnaire ou de ses cadres dirigeants, notamment des responsables prévus pour l’exécution du marché;
-- 17\. extrait du casier judiciaire des dirigeants et des responsables prévus pour l’exécution du marché.
+- 17\. extrait destiné aux particuliers du casier judiciaire des dirigeants et des responsables prévus pour l’exécution du marché.
