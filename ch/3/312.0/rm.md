@@ -4,11 +4,11 @@ title: "Cudesch da procedura penala svizzer dals 5 d'october 2007 (Cudesch da pr
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: rm
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230123-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Cudesch da procedura penala, CPP)
 
-dals 5 d’october 2007 (versiun dals 1 da schaner 2023)
+dals 5 d’october 2007 (versiun dals 23 da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -3348,20 +3348,21 @@ Dal rest vegn applitgada la Lescha dals 20 da zercladur 2003[^259-1] davart ils 
 
 #### Art. 261
 
-**Conservar e duvrar documents d’identificaziun**
+**Conservar e duvrar documents dal servetsch d’identificaziun**[^261-1]
 
 <sup>1</sup>
 
-Documents dal servetsch d’identificaziun davart la persuna inculpada dastgan vegnir conservads ordaifer il dossier d’actas durant la suandanta perioda e dastgan er vegnir duvrads, sch’igl exista in suspect suffizient ch’ina persuna commettia in nov delict:
+Documents dal servetsch d’identificaziun davart la persuna inculpada dastgan vegnir conservads ordaifer il dossier d’actas e dastgan vegnir duvrads, sch’igl exista in suspect suffizient che la persuna commettia in nov delict:
 
-- a. en cas d’ina condemnaziun u d’in acquittament pervia dad irresponsabladad penala: fin a la scadenza dal termin per stritgar las registraziuns en il register penal;
-- b. en cas d’in acquittament per auters motivs, en cas d’ina sistida u d’ina decisiun da betg avrir ina procedura: fin a l’entrada en vigur da la decisiun.
+- a. fin a la scadenza dals termins per stizzar ils profils dal DNA tenor ils artitgels 16–18 da la Lescha dals 20 da zercladur 2003[^261-2] davart ils profils dal DNA; u
+- b. en cas d’ina condemnaziun pervia d’in surpassament: fin 5 onns suenter il pajament d’ina multa u suenter l’execuziun d’in chasti da detenziun subsidiar correspundent.
 
-<sup>2</sup> Sch’ins sto – en in cas da l’alinea 1 litera b – far quint sin basa da tscherts fatgs ch’ils documents dal servetsch d’identificaziun davart la persuna inculpada pudessan servir a sclerir acts chastiabels futurs, dastgan els – cun il consentiment da la direcziun da la procedura – vegnir conservads e duvrads durant maximalmain 10 onns dapi che la decisiun è entrada en vigur.
+<sup>2</sup> Documents dal servetsch d’identificaziun davart persunas betg inculpadas ston vegnir destruids, uschespert che la procedura cunter la persuna inculpada è terminada u sistida ubain uschespert ch’igl è vegnì decidì da betg avrir la procedura.
 
-<sup>3</sup> Documents dal servetsch d’identificaziun davart persunas betg inculpadas ston vegnir destruids, uschespert che la procedura cunter la persuna inculpada è terminada u sistida ubain uschespert ch’igl è vegnì decidì da betg avrir la procedura.
+<sup>3</sup> Sche l’interess da conservar u da duvrar ils documents dal servetsch d’identificaziun n’è evidentamain betg pli avant maun avant la scadenza dals termins tenor l’alinea 1, ston els vegnir destruids.
 
-<sup>4</sup> Sche l’interess da conservar u da duvrar ils documents dal servetsch d’identificaziun n’è evidentamain betg pli avant maun avant la scadenza dals termins tenor ils alineas 1–3, ston els vegnir destruids.
+[^261-1]: Versiun tenor la cifra 5 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^261-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 262
 

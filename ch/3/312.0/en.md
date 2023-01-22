@@ -4,11 +4,11 @@ title: "Swiss Criminal Procedure Code of 5 October 2007 (Criminal Procedure Code
 short: CrimPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: en
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230123-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Criminal Procedure Code, CrimPC)
 
-of 5 October 2007 (Status as of 1 January 2023)
+of 5 October 2007 (Status as of 23 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -747,17 +747,17 @@ The persons responsible for directing the proceedings are:
 
 **Disciplinary measures**
 
-<sup>1</sup> The director of proceedings may order a person who disrupts the hearings, breaches the rules of respectable behaviour or disregards procedural orders to pay a fixed penalty fine of up to 1000 francs.
+<sup>1</sup> The director of proceedings may order a person who disrupts the hearings, breaches the rules of respectable behaviour or disregards orders directing proceedings to pay a fixed penalty fine of up to 1000 francs.
 
 <sup>2</sup> Fixed penalty fines imposed by the public prosecutor and the courts of first instance may be challenged before the objections authority within 10 days. Its decision is final.
 
 #### Art. 65
 
-**Right of appeal against procedural orders issued by the court**
+**Right of appeal against orders directing proceedings issued by the court**
 
-<sup>1</sup> Procedural orders issued by the court may only be challenged when the final judgment is issued.
+<sup>1</sup> Orders directing proceedings issued by the court may only be challenged when the final judgment is issued.
 
-<sup>2</sup> If the director of proceedings in a court with two or more judges has issued procedural orders before the main hearing, the court may amend or revoke such orders ex officio or on request.
+<sup>2</sup> If the director of proceedings in a court with two or more judges has issued orders directing proceedings before the main hearing, the court may amend or revoke such orders ex officio or on request.
 
 ### Chapter 8 General Procedural Regulations
 
@@ -789,7 +789,7 @@ Proceedings before the criminal justice authorities shall be conducted orally un
 
 <sup>4</sup> A person of the same sex must be appointed to translate questions to be put to the victim of a sexual offence where the victim so requests and it is possible without causing an unreasonable delay to the proceedings.
 
-<sup>5</sup> The provisions on expert witnesses (Art. 73, 105, 182–191) apply mutatis mutandis to translators and interpreters.
+<sup>5</sup> The provisions on expert witnesses (Art. 73, 105, 182–191) apply *mutatis mutandis* to translators and interpreters.
 
 ### Section 2 Public Proceedings
 
@@ -969,7 +969,7 @@ The records of proceedings contain details of all the essential procedural acts 
 
 <sup>2</sup> Decisions are issued in writing and contain a statement of the grounds. They are signed by the director of proceedings and the clerk of court and are served on the parties.
 
-<sup>3</sup> Simple procedural decrees and rulings do not require to be issued in any specific form or to contain a statement of grounds; they are noted in the case records and notified to the parties in a suitable manner.
+<sup>3</sup> Simple decrees and rulings directing proceedings do not require to be issued in any specific form or to contain a statement of grounds; they are noted in the case records and notified to the parties in a suitable manner.
 
 #### Art. 81
 
@@ -1061,7 +1061,7 @@ The court shall provide the parties retrospectively with a written judgment stat
 
 <sup>4</sup> If the court has to state grounds for the judgment, it shall serve the judgment with a full statement of grounds on the accused and the public prosecutor within 60 days, or by way of exception 90 days. The other parties shall be served only with those parts of the judgment in which their applications are mentioned.
 
-<sup>5</sup> The criminal justice authority shall give notice of simple procedural decrees or rulings to the parties in writing or orally.
+<sup>5</sup> The criminal justice authority shall give notice of simple decrees or rulings directing proceedings to the parties in writing or orally.
 
 <sup>6</sup> Notice of decisions shall be given to other authorities in accordance with federal and cantonal law, notice of appeal decisions shall also be given to the lower court, and notice of legally binding decisions shall if necessary be given to the authorities responsible for the execution of sentences and measures and to the authorities responsible for the register of convictions.
 
@@ -1769,13 +1769,13 @@ Legal aid includes:
 
 **Appointment, dismissal and change**
 
-The appointment, dismissal and change of the legal representative are governed by Articles 133 and 134 mutatis mutandis.
+The appointment, dismissal and change of the legal representative are governed by Articles 133 and 134 *mutatis mutandis*.
 
 #### Art. 138
 
 **Fees and allocation of costs**
 
-<sup>1</sup> The legal representative's fees are governed by Article 135 mutatis mutandis; the final judgment on who must pay the costs of the legal representative and of any procedural acts in respect of which relief has been granted from making an advance payment to cover costs remains reserved.
+<sup>1</sup> The legal representative's fees are governed by Article 135 *mutatis mutandis*; the final judgment on who must pay the costs of the legal representative and of any procedural acts in respect of which relief has been granted from making an advance payment to cover costs remains reserved.
 
 <sup>2</sup> If the private claimant is awarded procedural and legal costs to be paid by the accused, the portion of these costs covered by legal aid must be refunded to the Confederation or to the canton.
 
@@ -2332,9 +2332,9 @@ The following persons may be interviewed as persons providing information:
 
 **Status**
 
-<sup>1</sup> Persons providing information in terms of Article 178 letters b–g have the right to remain silent; they are subject to the provisions on examination hearings with the accused, mutatis mutandis.
+<sup>1</sup> Persons providing information in terms of Article 178 letters b–g have the right to remain silent; they are subject to the provisions on examination hearings with the accused, *mutatis mutandis*.
 
-<sup>2</sup> A private claimant (Art. 178 let. a) is obliged to testify before the public prosecutor, before the courts and before the police if they interview the claimant on behalf of the public prosecutor. In addition, the provisions on witnesses apply mutatis mutandis, with exception of Article 176.
+<sup>2</sup> A private claimant (Art. 178 let. a) is obliged to testify before the public prosecutor, before the courts and before the police if they interview the claimant on behalf of the public prosecutor. In addition, the provisions on witnesses apply *mutatis mutandis*, with exception of Article 176.
 
 #### Art. 181
 
@@ -2417,7 +2417,7 @@ The director of proceedings shall provide written instructions; these shall cont
 
 <sup>4</sup> The time spent in hospital shall be taken into account in the sentence.
 
-<sup>5</sup> In addition, the in-patient assessment is governed by mutatis mutandis by the regulations on remand and preventive detention.
+<sup>5</sup> In addition, the in-patient assessment is governed by *mutatis mutandis* by the regulations on remand and preventive detention.
 
 #### Art. 187
 
@@ -2692,7 +2692,7 @@ A person may be brought before an authority by the police if:
 
 <sup>3</sup> Unless the public prosecutor, the authority responsible for prosecuting contraventions or the court orders otherwise, the police are responsible for tracing wanted persons.
 
-<sup>4</sup> Paragraphs 1 and 3 apply mutatis mutandis to the tracing of property.
+<sup>4</sup> Paragraphs 1 and 3 apply *mutatis mutandis* to the tracing of property.
 
 #### Art. 211
 
@@ -2953,7 +2953,7 @@ In its decision it may:
 
 <sup>3</sup> The compulsory measures court shall send the opinion to the accused and his or her defence lawyer and allow them 3 days to respond.
 
-<sup>4</sup> The compulsory measures court shall decide at the latest within 5 days of receiving the response or of the expiry of the time limit mentioned in paragraph 3 above. If the accused expressly waives the right to a hearing, the decision may be issued in written proceedings. Article 226 paragraphs 2–5 also applies mutatis mutandis.
+<sup>4</sup> The compulsory measures court shall decide at the latest within 5 days of receiving the response or of the expiry of the time limit mentioned in paragraph 3 above. If the accused expressly waives the right to a hearing, the decision may be issued in written proceedings. Article 226 paragraphs 2–5 also applies *mutatis mutandis*.
 
 <sup>5</sup> The compulsory measures court may in its decision specify a time limit of a maximum of one month within which the accused is not permitted to file a further application for release.
 
@@ -2971,8 +2971,8 @@ In its decision it may:
 
 The proceedings before the compulsory measures court are governed by:
 
-- a. Articles 225 and 226 mutatis mutandis where the accused has not been on remand;
-- b. Article 227 mutatis mutandis where the accused has already been on remand.
+- a. Articles 225 and 226 *mutatis mutandis* where the accused has not been on remand;
+- b. Article 227 *mutatis mutandis* where the accused has already been on remand.
 
 #### Art. 230
 
@@ -2986,7 +2986,7 @@ The proceedings before the compulsory measures court are governed by:
 
 <sup>4</sup> The director of proceedings in the court of first instance may also order the accused to be released from detention provided the public prosecutor consents. If the public prosecutor does not consent, the compulsory measures court decides.
 
-<sup>5</sup> The provisions of Article 228 also apply mutatis mutandis.
+<sup>5</sup> The provisions of Article 228 also apply *mutatis mutandis*.
 
 #### Art. 231
 
@@ -3075,7 +3075,7 @@ Alternative measures include in particular:
 
 <sup>3</sup> In order to monitor such alternative measures, the court may order the use of technical devices and that they be securely fastened to the person being monitored.
 
-<sup>4</sup> The ordering of alternative measures and appeals against such measures are governed mutatis mutandis by the regulations on remand and preventive detention.
+<sup>4</sup> The ordering of alternative measures and appeals against such measures are governed *mutatis mutandis* by the regulations on remand and preventive detention.
 
 <sup>5</sup> The court may revoke the alternative measures at any time, or order other alternative measures or the accused's remand or preventive detention if new circumstances so require or if the accused fails to fulfil the requirements stipulated.
 
@@ -3348,20 +3348,21 @@ The DNA Profiling Act of 20 June 2003[^259-1] also applies.
 
 #### Art. 261
 
-**Retention and use of identifying documents**
+**Retention and use of identifying documents**[^261-1]
 
 <sup>1</sup>
 
-Documents that identify the accused may be retained outside the case file for the following periods and, in the event of a reasonable suspicion that a new offence has been committed may also be used:
+Documents that identify the accused may be retained outside the case file and, in the event of a reasonable suspicion that a new offence has been committed, may also be used:
 
-- a. in the event of the accused's conviction or his or her acquittal on the grounds that he or she not legally responsible due to a mental disorder: until the expiry the time limits for the removal of the relevant entry from the register of criminal convictions;
-- b. in the event of acquittal on other grounds, the abandonment of the proceedings or a decision to not to bring proceedings: until the decision becomes legally binding.
+- a. until the expiry the time limits for the deletion of DNA profiles in accordance with Articles 16–18 of the DNA Profiles Act of 20 June 2003[^261-2]; or
+- b. in the event of a conviction for a contravention: for up to five years after payment of a fine or after completion of the corresponding alternative custodial sentence.
 
-<sup>2</sup> If it is anticipated in a case under paragraph 1 letter b due to certain matters that documents identifying the accused could be used in the investigation of future offences, they may be retained and used with the consent of the director of proceedings for a maximum of 10 years from when the decision becomes legally binding.
+<sup>2</sup> Documents identifying persons other than the accused must be destroyed as soon as the proceedings against the accused have been concluded or abandoned or it has been decided not to bring proceedings.
 
-<sup>3</sup> Documents identifying persons other than the accused must be destroyed as soon as the proceedings against the accused have been concluded or abandoned or it has been decided not to bring proceedings.
+<sup>3</sup> If it becomes clear before the expiry of the time limits under paragraph 1 that there is no longer any interest in retaining or using the identifying documents, they shall be destroyed.
 
-<sup>4</sup> If it becomes clear before the expiry of the time limits under paragraphs 1–3 that there is no longer any interest in retaining or using the identifying documents, they shall be destroyed.
+[^261-1]: Amended by Annex 1 No 5 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^261-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 262
 
@@ -4098,7 +4099,7 @@ The public prosecutor and, during police enquiries, the police may order underco
 
 **Requirements for the persons deployed and conduct**
 
-<sup>1</sup> Article 287 applies mutatis mutandis to the persons deployed. The deployment of persons in accordance with Article 287 paragraph 1 letter b is not permitted.
+<sup>1</sup> Article 287 applies *mutatis mutandis* to the persons deployed. The deployment of persons in accordance with Article 287 paragraph 1 letter b is not permitted.
 
 <sup>2</sup> Articles 291–294 apply by analogy to the status, duties and obligations of the undercover agents and their commanding officers.
 
@@ -4118,7 +4119,7 @@ The police unit or public prosecutor responsible shall terminate the undercover 
 
 <sup>3</sup> When terminating undercover enquiries, care should be taken to ensure that the undercover agent is not exposed to any avoidable risk.
 
-<sup>4</sup> Notification of undercover enquiries is governed by Article 298 paragraphs 1 and 3 mutatis mutandis.
+<sup>4</sup> Notification of undercover enquiries is governed by Article 298 paragraphs 1 and 3 *mutatis mutandis*.
 
 ## Title 6 Preliminary Proceedings
 
@@ -4204,7 +4205,7 @@ They shall at the same time inform the victim of:[^305-3]
 
 <sup>3</sup> If the victim agrees, they shall pass his or her name and address on to a counselling service.
 
-<sup>4</sup> Paragraphs 1–3 also apply mutatis mutandis to the relatives of the victim.
+<sup>4</sup> Paragraphs 1–3 also apply *mutatis mutandis* to the relatives of the victim.
 
 <sup>5</sup> Confirmation that the provisions this Article have been complied with must be recorded in the case file.
 
@@ -4433,7 +4434,7 @@ The public prosecutor shall give notice of the ruling abandoning proceedings to:
 
 <sup>2</sup> The foregoing is subject to the express waiver of any person involved in the proceedings.
 
-<sup>3</sup> Articles 84–88 are otherwise applicable mutatis mutandis.
+<sup>3</sup> Articles 84–88 are otherwise applicable *mutatis mutandis*.
 
 #### Art. 322
 
@@ -4546,7 +4547,7 @@ The director of proceedings shall examine whether:
 
 <sup>3</sup> The court shall decide whether a suspended case remains pending before it.
 
-<sup>4</sup> If it is permanently impossible to issue a judgment, the court shall abandon the proceedings after granting the parties and other third parties adversely affected by abandonment the right to be heard. Article 320 applies mutatis mutandis.
+<sup>4</sup> If it is permanently impossible to issue a judgment, the court shall abandon the proceedings after granting the parties and other third parties adversely affected by abandonment the right to be heard. Article 320 applies *mutatis mutandis*.
 
 <sup>5</sup> If the proceedings are only abandoned in relation to specific charges on the indictment abandoned, the abandonment order may be issued with the judgment.
 
@@ -4558,7 +4559,7 @@ The director of proceedings shall examine whether:
 
 <sup>2</sup> In the case of courts with two or more judges on the bench, the director of proceedings shall circulate the files.
 
-<sup>3</sup> The director of proceedings shall inform the victim of his or her rights, unless the prosecution authorities have already done so; Article 305 applies mutatis mutandis.
+<sup>3</sup> The director of proceedings shall inform the victim of his or her rights, unless the prosecution authorities have already done so; Article 305 applies *mutatis mutandis*.
 
 #### Art. 331
 
@@ -4914,7 +4915,7 @@ After taking the evidence, the public prosecutor shall decide to either:
 
 <sup>6</sup> If the rejection relates only to costs and damages or other incidental legal orders, so the court shall decide in written proceedings, unless the person filing the rejection expressly requests a hearing.
 
-<sup>7</sup> If summary penalty orders have been issued to two or more persons in relation to the same act, Article 392 applies mutatis mutandis.
+<sup>7</sup> If summary penalty orders have been issued to two or more persons in relation to the same act, Article 392 applies *mutatis mutandis*.
 
 ### Section 2 Contravention Proceedings
 
@@ -4922,7 +4923,7 @@ After taking the evidence, the public prosecutor shall decide to either:
 
 <sup>1</sup> The administrative authorities appointed to prosecute and adjudicate contraventions have the powers of the public prosecutor.
 
-<sup>2</sup> The procedure is governed mutatis mutandis by the regulations on the summary penalty order procedure.
+<sup>2</sup> The procedure is governed *mutatis mutandis* by the regulations on the summary penalty order procedure.
 
 <sup>3</sup> If elements of the contravention have not been fulfilled, so the authority responsible for prosecuting contraventions shall abandon the proceedings by issuing a ruling with a brief statement of the reasons.
 
@@ -5239,7 +5240,7 @@ Separate forfeiture proceedings are conducted if a decision must be made on the 
 
 **Use for the benefit of the person suffering harm**
 
-The public prosecutor or the court shall also decide on the applications made by the person suffering harm for the forfeited property or assets to be used for his or her benefit. Article 267 paragraphs 3–6 applies mutatis mutandis.
+The public prosecutor or the court shall also decide on the applications made by the person suffering harm for the forfeited property or assets to be used for his or her benefit. Article 267 paragraphs 3–6 applies *mutatis mutandis*.
 
 ## Title 9 Appellate Remedies
 
@@ -5249,7 +5250,7 @@ The public prosecutor or the court shall also decide on the applications made by
 
 **Applicable regulations**
 
-Appellate proceedings are governed mutatis mutandis by the general provisions of this Code, unless this Title provides otherwise.
+Appellate proceedings are governed *mutatis mutandis* by the general provisions of this Code, unless this Title provides otherwise.
 
 #### Art. 380
 
@@ -5343,9 +5344,9 @@ Appellate remedies have no suspensive effect, subject to any provisions of this 
 
 #### Art. 388
 
-**Procedural and preliminary measures**
+**Measures directing proceedings and preliminary measures**
 
-The director of appellate proceedings shall take the required procedural and preliminary measures that cannot be delayed. They may in particular:
+The director of appellate proceedings shall take the required measures directing proceedings and preliminary measures that cannot be delayed. He or she may in particular:
 
 - a. instruct the public prosecutor to take evidence where this cannot be delayed;
 - b. order detention;
@@ -5420,7 +5421,7 @@ Where only certain individual suspects or person convicted in the same proceedin
 An objection is admissible against:
 
 - a. the rulings and the procedural acts of the police, public prosecutor and authorities responsible for prosecuting contraventions;
-- b. the rulings, decrees and procedural acts of courts of first instance, with the exception of procedural decisions;
+- b. the rulings, decrees and procedural acts of courts of first instance, with the exception of decisions directing proceedings;
 - c. the decisions of the compulsory measures court in the cases provided for by this Code.
 
 <sup>2</sup>
@@ -5540,7 +5541,7 @@ Within 20 days of receipt of the appeal petition, the other parties may:
 
 **Cross-appeal**
 
-<sup>1</sup> Cross-appeals are governed mutatis mutandis by Article 399 paragraphs 3 and 4.
+<sup>1</sup> Cross-appeals are governed *mutatis mutandis* by Article 399 paragraphs 3 and 4.
 
 <sup>2</sup> They are not limited to the scope of the main appeal, unless it relates solely to the civil aspect of the judgment.
 
@@ -5857,7 +5858,7 @@ The accused shall not bear the procedural costs that:
 
 <sup>4</sup> The accused shall bear the costs of the private claimant's legal aid representative only if he or she has the financial means to do so.
 
-<sup>5</sup> The provisions of this Article apply mutatis mutandis to parties to separate measures procedures if they are unsuccessful.
+<sup>5</sup> The provisions of this Article apply *mutatis mutandis* to parties to separate measures procedures if they are unsuccessful.
 
 #### Art. 427
 
@@ -5975,7 +5976,7 @@ The private claimant is entitled to appropriate damages from the accused for cos
 
 **Third parties**
 
-<sup>1</sup> Third parties have the right to appropriate damages for losses that are not otherwise covered and to satisfaction if they have incurred losses as a result of procedural acts or in providing support to the criminal justice authorities. Article 433 paragraph 2 applies mutatis mutandis.
+<sup>1</sup> Third parties have the right to appropriate damages for losses that are not otherwise covered and to satisfaction if they have incurred losses as a result of procedural acts or in providing support to the criminal justice authorities. Article 433 paragraph 2 applies *mutatis mutandis*.
 
 <sup>2</sup> A decision shall be made on the claims in the final judgment. In clear cases, the public prosecutor may issue a decision in the preliminary proceedings.
 
@@ -6200,7 +6201,7 @@ After this Code comes into force, separate subsequent court decisions shall be m
 
 **Rejections of summary penalty orders**
 
-Rejections of summary penalty orders are governed by Article 453 mutatis mutandis.
+Rejections of summary penalty orders are governed by Article 453 *mutatis mutandis*.
 
 #### Art. 456
 

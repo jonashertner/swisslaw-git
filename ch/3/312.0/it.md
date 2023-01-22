@@ -4,11 +4,11 @@ title: "Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230123-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/it"
 
 (Codice di procedura penale, CPP)
 
-del 5 ottobre 2007 (Stato 1° gennaio 2023)
+del 5 ottobre 2007 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -3343,20 +3343,21 @@ Per altro è applicabile la legge del 20 giugno 2003[^259-1] sui profili del DNA
 
 #### Art. 261
 
-**Conservazione e impiego di documenti segnaletici**
+**Conservazione e impiego di documenti segnaletici**[^261-1]
 
 <sup>1</sup>
 
 I documenti segnaletici concernenti l’imputato possono essere conservati fuori dal fascicolo, nonché impiegati in caso di sufficiente indizio di nuovo reato:
 
-- a. sino alla scadenza del termine di cancellazione delle iscrizioni dal casellario giudiziale, in caso di condanna o di proscioglimento per incapacità penale;
-- b. sino al giudicato della decisione, in caso di assoluzione per altri motivi, di abbandono del procedimento o di non luogo a procedere.
+- a. sino alla scadenza dei termini di cancellazione dei profili del DNA di cui agli articoli 16–18 della legge del 20 giugno 2003[^261-2] sui profili del DNA; o
+- b. in caso di condanna per contravvenzione, nei cinque anni successivi al pagamento di una multa o all’esecuzione di una corrispondente pena detentiva sostitutiva.
 
-<sup>2</sup> Se in uno dei casi di cui al capoverso 1 lettera b determinati fatti inducono a supporre che i documenti segnaletici concernenti l’imputato potrebbero servire a far luce su reati futuri, con il consenso di chi dirige il procedimento tali documenti possono essere conservati e impiegati al massimo per dieci anni dal giudicato della decisione.
+<sup>2</sup> I documenti segnaletici concernenti persone non imputate devono essere distrutti non appena il procedimento contro l’imputato è chiuso oppure è oggetto di un decreto di abbandono o di non luogo a procedere.
 
-<sup>3</sup> I documenti segnaletici concernenti persone non imputate devono essere distrutti non appena il procedimento contro l’imputato è chiuso oppure è oggetto di un decreto di abbandono o di non luogo a procedere.
+<sup>3</sup> I documenti segnaletici devono essere distrutti se l’interesse alla loro conservazione e al loro impiego è manifestamente venuto meno prima dello scadere dei termini di cui al capoverso 1.
 
-<sup>4</sup> I documenti segnaletici devono essere distrutti se l’interesse alla loro conservazione e al loro impiego è manifestamente venuto meno prima dello scadere dei termini di cui ai capoversi 1–3.
+[^261-1]: Nuovo testo giusta l’all. 1 n. 5 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^261-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 262
 

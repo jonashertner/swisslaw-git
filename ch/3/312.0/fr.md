@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230123-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (État le 1<sup>er</sup> janvier 2023)
+du 5 octobre 2007 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -3343,20 +3343,21 @@ Au surplus, la loi du 20 juin 2003 sur les profils d’ADN[^259-1] est applicabl
 
 #### Art. 261
 
-**Utilisation et conservation des données signalétiques**
+**Utilisation et conservation des données signalétiques**[^261-1]
 
 <sup>1</sup>
 
-Les données signalétiques d’un prévenu ne peuvent être utilisées hors du dossier de la procédure que si des soupçons suffisants laissent présumer une récidive et ne peuvent être conservées que:
+Les données signalétiques d’un prévenu peuvent être conservées hors du dossier de la procédure et, si des soupçons suffisants laissent présumer une récidive, être utilisées:
 
-- a. jusqu’à l’expiration des délais impartis pour la radiation des inscriptions au casier judiciaire, lorsque la personne en cause a été condamnée ou a été acquittée pour cause d’irresponsabilité;
-- b. jusqu’à l’entrée en force de la décision, lorsque la personne en cause a été acquittée pour d’autres raisons, que la procédure a été classée ou que l’autorité a rendu une ordonnance de non-entrée en matière.
+- a. jusqu’à l’expiration du délai fixé pour l’effacement des profils d’ADN par les art. 16 à 18 de la loi du 20 juin 2003 sur les profils d’ADN[^261-2], ou
+- b. en cas de condamnation pour contravention, pendant les 5 ans suivant le paiement d’une amende ou l’exécution d’une peine privative de liberté de substitution.
 
-<sup>2</sup> Lorsque dans un cas visé à l’al. 1, let. b, certains faits permettent de supposer que les données signalétiques d’un prévenu serviront à élucider de futures infractions, ces données peuvent, avec l’autorisation de la direction de la procédure, être conservées et utilisées durant dix ans au plus à compter de l’entrée en force de la décision.
+<sup>2</sup> Les données signalétiques de personnes qui n’ont pas le statut de prévenu doivent être détruites sitôt que la procédure contre le prévenu est close ou a fait l’objet d’une ordonnance de classement ou de non-entrée en matière.
 
-<sup>3</sup> Les données signalétiques de personnes qui n’ont pas le statut de prévenu doivent être détruites sitôt que la procédure contre le prévenu est close ou a fait l’objet d’une ordonnance de classement ou de non-entrée en matière.
+<sup>3</sup> S’il appert avant l’expiration des délais prévus à l’al. 1 que la conservation et l’utilisation des données signalétiques ne répondent plus à aucun intérêt, ces données sont détruites.
 
-<sup>4</sup> S’il appert avant l’expiration des délais prévus aux al. 1 à 3 que la conservation et l’utilisation des données signalétiques ne répondent plus à aucun intérêt, ces données sont détruites.
+[^261-1]: Nouvelle teneur selon l’annexe 1 ch. 5 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^261-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 262
 

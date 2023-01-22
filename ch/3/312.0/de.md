@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230123-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 1. Januar 2023)
+vom 5. Oktober 2007 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -3346,20 +3346,21 @@ Im Übrigen findet das DNA-Profil-Gesetz vom 20. Juni 2003[^259-1] Anwendung.
 
 #### Art. 261
 
-**Aufbewahrung und Verwendung erkennungsdienstlicher Unterlagen**
+**Aufbewahrung und Verwendung erkennungsdienstlicher Unterlagen**[^261-1]
 
 <sup>1</sup>
 
-Erkennungsdienstliche Unterlagen über die beschuldigte Person dürfen ausserhalb des Aktendossiers während folgender Dauer aufbewahrt und, sofern ein hinreichender Tatverdacht auf ein neues Delikt besteht, auch verwendet werden:
+Erkennungsdienstliche Unterlagen über die beschuldigte Person dürfen ausserhalb des Aktendossiers aufbewahrt und, sofern ein hinreichender Tatverdacht auf ein neues Delikt besteht, verwendet werden:
 
-- a. im Falle einer Verurteilung oder eines Freispruchs wegen Schuldunfähigkeit: bis zum Ablauf der Fristen für die Entfernung der Einträge im Strafregister;
-- b. im Falle eines Freispruchs aus andern Gründen, der Einstellung oder der Nichtanhandnahme eines Verfahrens: bis zur Rechtskraft des Entscheids.
+- a. bis zum Ablauf der Fristen für die Löschung von DNA-Profilen nach den Artikeln 16–18 des DNA-Profil-Gesetzes vom 20. Juni 2003[^261-2]; oder
+- b. bei einer Verurteilung wegen einer Übertretung: bis zu fünf Jahre nach Zahlung einer Busse oder nach dem Vollzug einer entsprechenden Ersatzfreiheitsstrafe.
 
-<sup>2</sup> Ist in einem Fall von Absatz 1 Buchstabe b aufgrund bestimmter Tatsachen zu erwarten, dass die erkennungsdienstlichen Unterlagen über die beschuldigte Person der Aufklärung künftiger Straftaten dienen könnten, so dürfen sie mit Zustimmung der Verfahrensleitung während höchstens 10 Jahren seit Rechtskraft des Entscheides aufbewahrt und verwendet werden.
+<sup>2</sup> Erkennungsdienstliche Unterlagen über nicht beschuldigte Personen sind zu vernichten, sobald das Verfahren gegen die beschuldigte Person abgeschlossen oder eingestellt wurde oder entschieden wurde, es nicht an die Hand zu nehmen.
 
-<sup>3</sup> Erkennungsdienstliche Unterlagen über nicht beschuldigte Personen sind zu vernichten, sobald das Verfahren gegen die beschuldigte Person abgeschlossen oder eingestellt wurde oder entschieden wurde, es nicht an die Hand zu nehmen.
+<sup>3</sup> Ist das Interesse an der Aufbewahrung und Verwendung vor Ablauf der Fristen nach Absatz 1 offensichtlich dahingefallen, so sind die erkennungsdienstlichen Unterlagen zu vernichten.
 
-<sup>4</sup> Ist das Interesse an der Aufbewahrung und Verwendung vor Ablauf der Fristen nach den Absätzen 1–3 offensichtlich dahingefallen, so sind die erkennungsdienstlichen Unterlagen zu vernichten.
+[^261-1]: Fassung gemäss Anhang 1 Ziff. 5 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^261-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 262
 
