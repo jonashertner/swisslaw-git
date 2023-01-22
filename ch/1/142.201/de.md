@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230101/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 1. Januar 2023)
+vom 24. Oktober 2007 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1558,7 +1558,7 @@ Das SEM ist berechtigt, die Leserechte für die Fingerabdrücke zu erteilen:
 
 Zur Überprüfung des guten Rufes der mit der Ausfertigung des biometrischen Ausländerausweises betrauten Stelle kann das SEM nach Artikel 41*b* AIG neben der Anordnung einer Personensicherheitsprüfung namentlich die folgenden Unterlagen von natürlichen oder von juristischen Personen oder deren Organen einfordern:
 
-- a. Auszug aus dem Zentralstrafregister;
+- a.[^72b-1] Privatauszug aus dem Strafregister-Informationssystem VOSTRA;
 - b. Auszug aus dem Handelsregister;
 - c. Auszug der letzten zehn Jahre aus dem Schuldbetreibungs- und Konkursregister;
 - d. Lebenslauf einschliesslich sämtlicher geschäftlicher Engagements;
@@ -1570,6 +1570,8 @@ Zur Überprüfung des guten Rufes der mit der Ausfertigung des biometrischen Aus
 <sup>3</sup> Hatte eine der Personen nach den Absätzen 1 und 2 in den letzten zehn Jahren Sitz oder Wohnsitz im Ausland, so sind gleichwertige ausländische Dokumente vorzulegen.
 
 <sup>4</sup> Das SEM kann verlangen, dass die mit der Ausfertigung des biometrischen Ausländerausweises betraute Stelle nach Artikel 41*b* AIG den guten Ruf der betroffenen Personen periodisch selbstständig überprüft und die Gewährleistung des guten Rufes bestätigt.
+
+[^72b-1]: Fassung gemäss Anhang 10 Ziff. II 4 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 72c
 

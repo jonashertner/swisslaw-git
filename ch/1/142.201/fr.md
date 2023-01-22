@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230101/fr"
 
 (OASA)
 
-du 24 octobre 2007 (État le 1<sup>er</sup> janvier 2023)
+du 24 octobre 2007 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -587,7 +587,7 @@ Afin de permettre à un étranger en séjour irrégulier de suivre une formation
 - b. l’employeur du requérant a déposé une demande conformément à l’art. 18, let. b, LEI;
 - c. les conditions de rémunération et de travail visées à l’art. 22 LEI sont respectées;
 - d.[^30a-2] le requérant remplit les critères d’intégration définis à l’art. 58*a*, al. 1, LEI;
-- e.[^30a-3] ...
+- e.[^30a-3] …
 - f. il justifie de son identité.
 
 <sup>2</sup> L’autorisation peut être prolongée au terme de la formation initiale si les conditions visées à l’art. 31 sont remplies.
@@ -609,7 +609,7 @@ Afin de permettre à un étranger en séjour irrégulier de suivre une formation
 Une autorisation de séjour peut être octroyée dans les cas individuels d’extrême gravité. Lors de l’appréciation, il convient de tenir compte notamment:
 
 - a.[^31-1] de l’intégration du requérant sur la base des critères d’intégration définis à l’art. 58*a*, al. 1, LEI;
-- b.[^31-2] ...
+- b.[^31-2] …
 - c. de la situation familiale, particulièrement de la période de scolarisation et de la durée de la scolarité des enfants;
 - d.[^31-3] de la situation financière;
 - e. de la durée de la présence en Suisse;
@@ -990,7 +990,7 @@ Si les conditions relevant du droit d’asile (art. 43, al. 1 à 3, LAsi) sont r
 - d. l’ordre de priorité est respecté (art. 21 LEI);
 - e.[^52-1] ils ne sont pas sous le coup d’une expulsion pénale au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^52-2] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^52-3] qui est entrée en force.
 
-<sup>2</sup> ...[^52-4]
+<sup>2</sup> …[^52-4]
 
 [^52-1]: Introduite par le ch. I 1 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^52-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -1575,9 +1575,9 @@ Le SEM est autorisé à communiquer les droits de lecture pour les empreintes di
 
 <sup>1</sup>
 
-Pour établir la preuve de la bonne réputation du centre chargé de produire le titre de séjour biométrique, le SEM peut demander, en plus du contrôle de sécurité des personnes, que les personnes physiques ou morales ou leurs organes lui fournissent, conformément à l’art. 41*b* LEI notamment les documents suivants:
+Pour établir la preuve de la bonne réputation du centre chargé de produire le titre de séjour biométrique, le SEM peut demander, en plus du contrôle de sécurité des personnes, que les personnes physiques ou morales ou leurs organes lui fournissent, conformément à l’art. 41*b* LEI, notamment les documents suivants:[^72b-1]
 
-- a. extrait du casier judiciaire central;
+- a.[^72b-2] extrait du casier judiciaire destiné aux particuliers;
 - b. extrait du registre du commerce;
 - c. extrait du registre des poursuites pour dettes et faillites portant sur les dix dernières années;
 - d. *curriculum vitae*, inventaire complet des engagements commerciaux compris;
@@ -1589,6 +1589,9 @@ Pour établir la preuve de la bonne réputation du centre chargé de produire le
 <sup>3</sup> Si l’une des personnes mentionnées aux al. 1 et 2 a eu son siège ou son domicile à l’étranger au cours des dix dernières années, elle doit fournir les documents étrangers équivalents.
 
 <sup>4</sup> Le SEM peut demander que le centre chargé de produire le titre de séjour biométrique visé à l’art. 41*b* LEI vérifie périodiquement de manière autonome la bonne réputation des personnes concernées et qu’il confirme qu’elles jouissent d’une bonne réputation.
+
+[^72b-1]: Nouvelle teneur selon l’annexe 10 ch. II 4 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^72b-2]: Nouvelle teneur selon l’annexe 10 ch. II 4 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 72c
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230101/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 1° gennaio 2023)
+del 24 ottobre 2007 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1579,7 +1579,7 @@ La SEM è autorizzata a comunicare i diritti di lettura per le impronte digitali
 
 Come prova della buona reputazione del centro incaricato di confezionare la carta di soggiorno biometrica, la SEM può esigere, oltre al controllo di sicurezza delle persone, che le persone fisiche o giuridiche o i loro organi forniscano, conformemente all’articolo 41*b* LStrI, segnatamente i documenti seguenti:
 
-- a. l’estratto del casellario giudiziale centrale;
+- a.[^72b-1] l’estratto per privati del casellario giudiziale informatizzato VOSTRA;
 - b. l’estratto del registro di commercio;
 - c. gli estratti degli ultimi dieci anni del registro esecuzioni e fallimenti;
 - d. il *curriculum vitae*, compresi tutti gli impegni d’affari;
@@ -1591,6 +1591,8 @@ Come prova della buona reputazione del centro incaricato di confezionare la cart
 <sup>3</sup> Se una delle persone menzionate nei capoversi 1 e 2 aveva la propria sede o il proprio domicilio all’estero durante i precedenti dieci anni, essa deve fornire i documenti esteri corrispondenti.
 
 <sup>4</sup> La SEM può chiedere al centro incaricato di confezionare la carta di soggiorno biometrica di cui all’articolo 41*b* LStrI di verificare regolarmente in modo autonomo la buona reputazione delle persone interessate e di confermare che godono di una buona reputazione.
+
+[^72b-1]: Nuovo testo giusta l’all. 10 n. II 4 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 72c
 
