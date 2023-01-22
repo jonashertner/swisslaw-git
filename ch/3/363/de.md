@@ -3,11 +3,11 @@ sr: "363"
 title: Bundesgesetz vom 20. Juni 2003 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: de
-version: 2022-12-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20221201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/de"
 
 (DNA-Profil-Gesetz)
 
-vom 20. Juni 2003 (Stand am 1. Dezember 2022)
+vom 20. Juni 2003 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -291,36 +291,38 @@ Das Bundesamt löscht die DNA-Profile, die nach den Artikeln 3 und 5 von Persone
 - a. sobald die betroffene Person im Verlaufe des Verfahrens als Täter ausgeschlossen werden kann;
 - b. nach dem Tod der betroffenen Person;
 - c. sobald das betreffende Verfahren mit einem Freispruch rechtskräftig abgeschlossen worden ist;
-- d. ein Jahr nach der definitiven Einstellung des Verfahrens;
-- e.[^16-1] fünf Jahre nach Ablauf der Probezeit bei bedingtem oder teilbedingtem Strafvollzug;
-- f.[^16-2] fünf Jahre nach der Zahlung einer Geldstrafe, nach der Beendigung einer gemeinnützigen Arbeit oder nach dem Vollzug einer entsprechenden Umwandlungsstrafe;
-- g.[^16-3] fünf Jahre nach der Erteilung eines Verweises, nach der Bezahlung einer Busse oder der Beendigung einer persönlichen Leistung nach den Artikeln 22–24 JStG[^16-4];
-- h.[^16-5] fünf Jahre nach der Probezeit bei bedingtem Vollzug einer Busse, einer persönlichen Leistung oder eines Freiheitsentzuges nach Artikel 35 JStG;
-- i.[^16-6] fünf Jahre nach dem Vollzug einer Schutzmassnahme gemäss den Artikeln 12–14 JStG;
-- j.[^16-7] zehn Jahre nach dem Vollzug eines Freiheitsentzuges nach Artikel 25 JStG;
-- k.[^16-8] zehn Jahre nach der Beendigung des Vollzugs einer Unterbringung nach Artikel 15 JStG;
-- l.[^16-9] zehn Jahre nach dem Ende eines Tätigkeitsverbots oder eines Kontakt- und Rayonverbots nach Artikel 67 beziehungsweise 67b StGB[^16-10], Artikel 50 beziehungsweise 50b des Militärstrafgesetzes vom 13. Juni 1927[^16-11] oder Artikel 16a JStG, unter Vorbehalt einer späteren Löschung nach Absatz 4.
+- d.[^16-1] ein Jahr nach Rechtskraft der Einstellung oder Nichtanhandnahme des Verfahrens;
+- e.[^16-2] fünf Jahre nach Ablauf der Probezeit bei bedingtem oder teilbedingtem Strafvollzug;
+- f.[^16-3] fünf Jahre nach der Zahlung einer Geldstrafe, nach der Beendigung einer gemeinnützigen Arbeit oder nach dem Vollzug einer entsprechenden Ersatzfreiheitsstrafe;
+- g.[^16-4] fünf Jahre nach der Erteilung eines Verweises, nach der Bezahlung einer Busse oder der Beendigung einer persönlichen Leistung nach den Artikeln 22–24 JStG[^16-5];
+- h.[^16-6] fünf Jahre nach der Probezeit bei bedingtem Vollzug einer Busse, einer persönlichen Leistung oder eines Freiheitsentzuges nach Artikel 35 JStG;
+- i.[^16-7] fünf Jahre nach dem Vollzug einer Schutzmassnahme gemäss den Artikeln 12–14 JStG;
+- j.[^16-8] zehn Jahre nach dem Vollzug eines Freiheitsentzuges nach Artikel 25 JStG;
+- k.[^16-9] zehn Jahre nach der Beendigung des Vollzugs einer Unterbringung nach Artikel 15 JStG;
+- l.[^16-10] zehn Jahre nach dem Ende eines Tätigkeitsverbots oder eines Kontakt- und Rayonverbots nach Artikel 67 beziehungsweise 67b StGB[^16-11], Artikel 50 beziehungsweise 50b des Militärstrafgesetzes vom 13. Juni 1927[^16-12] oder Artikel 16a JStG, unter Vorbehalt einer späteren Löschung nach Absatz 4.
 
-<sup>2</sup> In den Fällen nach Absatz 1 Buchstaben c und d wird das DNA-Profil nicht gelöscht, wenn der Freispruch oder die Verfahrenseinstellung wegen Schuldunfähigkeit des Täters erfolgte.
+<sup>2</sup> Ist in einem Fall von Absatz 1 Buchstabe c oder d aufgrund bestimmter Tatsachen zu erwarten, dass das DNA-Profil über die beschuldigte Person der Aufklärung künftiger Straftaten dienen könnte, so darf es mit Zustimmung der Verfahrensleitung während höchstens zehn Jahren seit Rechtskraft des Entscheids aufbewahrt und verwendet werden. Das DNA-Profil wird nicht nach Absatz 1 Buchstabe c oder d gelöscht, wenn der Freispruch oder die Verfahrenseinstellung wegen Schuldunfähigkeit des Täters erfolgte.[^16-13]
 
 <sup>3</sup> Das Bundesamt löscht alle DNA-Profile, die nicht bereits nach Absatz 1 gelöscht worden sind, nach 30 Jahren. Vorbehalten bleibt eine spätere Löschung nach Absatz 4.
 
-<sup>4</sup> Beim Vollzug einer Freiheitsstrafe, bei Verwahrung, bei therapeutischen Massnahmen oder bei Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^16-12] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^16-13] löscht das Bundesamt das DNA-Profil 20 Jahre nach der Entlassung aus der Freiheitsstrafe oder der Verwahrung beziehungsweise nach dem Vollzug der therapeutischen Massnahme oder der Landesverweisung.[^16-14]
+<sup>4</sup> Beim Vollzug einer Freiheitsstrafe, bei Verwahrung, bei therapeutischen Massnahmen oder bei Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^16-14] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^16-15] löscht das Bundesamt das DNA-Profil 20 Jahre nach der Entlassung aus der Freiheitsstrafe oder der Verwahrung beziehungsweise nach dem Vollzug der therapeutischen Massnahme oder der Landesverweisung.[^16-16]
 
-[^16-1]: Fassung gemäss Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-1]: Fassung gemäss Anhang 1 Ziff. 8 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^16-2]: Fassung gemäss Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-3]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-4]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-5]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-3]: Fassung gemäss Anhang 1 Ziff. 8 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-4]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-5]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 [^16-6]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^16-7]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^16-8]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-9]: Eingefügt durch Anhang Ziff. 4 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^16-10]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-11]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-12]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-13]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-14]: Fassung gemäss Anhang Ziff. I des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^16-9]: Eingefügt durch Anhang Ziff. 3 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-10]: Eingefügt durch Anhang Ziff. 4 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^16-11]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-12]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-13]: Fassung gemäss Anhang 1 Ziff. 8 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-14]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-15]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-16]: Fassung gemäss Anhang Ziff. I des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 17
 

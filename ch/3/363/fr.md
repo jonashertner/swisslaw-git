@@ -3,11 +3,11 @@ sr: "363"
 title: "Loi fédérale du 20 juin 2003 sur l'utilisation de profils d'ADN dans les procédures pénales et sur l'identification de personnes inconnues ou disparues (Loi sur les profils d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: fr
-version: 2022-12-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2004-811-20221201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/fr"
 
 (Loi sur les profils d’ADN)
 
-du 20 juin 2003 (État le 1<sup>er</sup> décembre 2022)
+du 20 juin 2003 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -291,35 +291,37 @@ L’office efface les profils d’ADN établis en vertu des art. 3 et 5:[^16-1]
 - a. sitôt qu’il s’avère, au cours de la procédure, que la personne en cause ne peut être l’auteur du crime ou du délit;
 - b. lorsque la personne en cause est décédée;
 - c. lorsque la procédure en cause est close par un acquittement entré en force;
-- d. un an après le non-lieu;
-- e.[^16-2] cinq ans après l’expiration du délai d’épreuve en cas de sursis ou de sursis partiel à l’exécution de la peine;
-- f.[^16-3] cinq ans après le paiement d’une peine pécuniaire ou la cessation d’un travail d’intérêt général ou cinq ans après l’exécution d’une peine de substitution;
-- g.[^16-4] cinq ans après une réprimande, le paiement d’une amende ou la fin d’une prestation personnelle au sens des art. 22 à 24 DPMin[^16-5];
-- h.[^16-6] cinq ans après l’expiration du délai d’épreuve en cas de sursis à l’exécution d’une amende, d’une prestation personnelle ou d’une privation de liberté au sens de l’art. 35 DPMin;
-- i.[^16-7] cinq ans après l’exécution d’une mesure de protection au sens des art. 12 à 14 DPMin;
-- j.[^16-8] dix ans après l’exécution d’une privation de liberté au sens de l’art. 25 DPMin;
-- k.[^16-9] dix ans après la cessation d’un placement au sens de l’art. 15 DPMin;
-- l.[^16-10] dix ans après la fin de l’interdiction d’exercer une activité, de l’interdiction de contact ou de l’interdiction géographique au sens des art. 67 et 67*b* CP[^16-11], des art. 50 et 50*b* du code pénal militaire du 13 juin 1927[^16-12] ou de l’art. 16*a* DPMin, sous réserve d’un effacement ultérieur au sens de l’al. 4.
+- d.[^16-2] un an après l’entrée en force de l’ordonnance de classement ou de non-entrée en matière;
+- e.[^16-3] cinq ans après l’expiration du délai d’épreuve en cas de sursis ou de sursis partiel à l’exécution de la peine;
+- f.[^16-4] cinq ans après le paiement d’une peine pécuniaire, la cessation d’un travail d’intérêt général ou l’exécution d’une peine privative de liberté de substitution;
+- g.[^16-5] cinq ans après une réprimande, le paiement d’une amende ou la fin d’une prestation personnelle au sens des art. 22 à 24 DPMin[^16-6];
+- h.[^16-7] cinq ans après l’expiration du délai d’épreuve en cas de sursis à l’exécution d’une amende, d’une prestation personnelle ou d’une privation de liberté au sens de l’art. 35 DPMin;
+- i.[^16-8] cinq ans après l’exécution d’une mesure de protection au sens des art. 12 à 14 DPMin;
+- j.[^16-9] dix ans après l’exécution d’une privation de liberté au sens de l’art. 25 DPMin;
+- k.[^16-10] dix ans après la cessation d’un placement au sens de l’art. 15 DPMin;
+- l.[^16-11] dix ans après la fin de l’interdiction d’exercer une activité, de l’interdiction de contact ou de l’interdiction géographique au sens des art. 67 et 67*b* CP[^16-12], des art. 50 et 50*b* du code pénal militaire du 13 juin 1927[^16-13] ou de l’art. 16*a* DPMin, sous réserve d’un effacement ultérieur au sens de l’al. 4.
 
-<sup>2</sup> Dans les cas visés à l’al. 1, let. c et d, le profil d’ADN n’est pas effacé lorsque l’acquittement ou le non-lieu a été décidé pour cause d’irresponsabilité de l’auteur.
+<sup>2</sup> Lorsque, dans un cas visé à l’al. 1, let. c ou d, certains faits permettent de supposer que le profil d’ADN d’un prévenu servira à élucider de futures infractions, ce profil peut, avec l’autorisation de la direction de la procédure, être conservé et utilisé durant 10 ans au plus à compter de l’entrée en force de la décision. Le profil d’ADN n’est pas effacé selon l’al. 1, let. c ou d, lorsque l’acquittement ou le non-lieu a été décidé pour cause d’irresponsabilité de l’auteur.[^16-14]
 
 <sup>3</sup> L’office efface après 30 ans tous les profils d’ADN qui n’ont pas déjà été effacés en vertu de l’al. 1. Un effacement ultérieur au sens de l’al. 4 est réservé.
 
-<sup>4</sup> Lorsque la personne purge une peine privative de liberté, est internée, se voit appliquer une mesure thérapeutique ou est expulsée au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927, l’office efface son profil d’ADN 20 ans après la libération de la peine privative de liberté ou de l’internement, après l’exécution de la mesure thérapeutique ou l’exécution de l’expulsion.[^16-13]
+<sup>4</sup> Lorsque la personne purge une peine privative de liberté, est internée, se voit appliquer une mesure thérapeutique ou est expulsée au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927, l’office efface son profil d’ADN 20 ans après la libération de la peine privative de liberté ou de l’internement, après l’exécution de la mesure thérapeutique ou l’exécution de l’expulsion.[^16-15]
 
 [^16-1]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-2]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-2]: Nouvelle teneur selon l’annexe 1 ch. 8 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^16-3]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-4]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-5]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-6]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-4]: Nouvelle teneur selon l’annexe 1 ch. 8 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-5]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-6]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 [^16-7]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^16-8]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^16-9]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-10]: Introduite par l’annexe ch. 4 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^16-11]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-12]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-13]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^16-10]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-11]: Introduite par l’annexe ch. 4 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^16-12]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-13]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-14]: Nouvelle teneur selon l’annexe 1 ch. 8 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-15]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 17
 

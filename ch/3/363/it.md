@@ -3,11 +3,11 @@ sr: "363"
 title: "Legge federale del 20 giugno 2003 sull'utilizzo di profili del DNA nel procedimento penale e per l'identificazione di persone sconosciute o scomparse (Legge sui profili del DNA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: it
-version: 2022-12-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2004-811-20221201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/it"
 
 (Legge sui profili del DNA)
 
-del 20 giugno 2003 (Stato 1° dicembre 2022)
+del 20 giugno 2003 (Stato 23 gennaio 2023) (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -291,34 +291,36 @@ L’Ufficio federale cancella i profili del DNA di persone allestiti giusta gli 
 - a. non appena, nel corso del procedimento, si è potuto scagionare la persona implicata;
 - b. dopo la morte della persona implicata;
 - c. non appena il procedimento in corso si è concluso con una sentenza d’assoluzione passata in giudicato;
-- d. un anno dopo l’abbandono definitivo del procedimento;
-- e.[^16-1] cinque anni dopo la fine del periodo di prova in caso di sospensione condizionale totale o parziale della pena;
-- f.[^16-2] cinque anni dopo il pagamento di una pena pecuniaria, dopo la fine di un lavoro di pubblica utilità o dopo l’esecuzione di una corrispondente pena da commutazione;
-- g.[^16-3] cinque anni dopo un’ammonizione, dopo il pagamento di una multa o dopo la fine di una prestazione personale ai sensi degli articoli 22–24 DPMin[^16-4];
-- h.[^16-5] cinque anni dopo la fine del periodo di prova in caso di sospensione condizionale di una multa, di una prestazione personale o di una privazione della libertà ai sensi dell’articolo 35 DPMin;
-- i.[^16-6] cinque anni dopo l’esecuzione di una misura protettiva ai sensi degli articoli 12–14 DPMin;
-- j.[^16-7] dieci anni dopo l’esecuzione di una privazione della libertà ai sensi dell’articolo 25 DPMin;
-- k.[^16-8] dieci anni dopo la fine dell’esecuzione di un collocamento ai sensi dell’articolo 15 DPMin;
-- l.[^16-9] dieci anni dopo la fine dellʼinterdizione di esercitare unʼattività o del divieto di avere contatti e di accedere ad aree determinate ai sensi degli articoli 67 e 67*b* CP[^16-10], 50 e 50*b* del Codice penale militare del 13 giugno 1927[^16-11] o 16*a* DPMin, fatta salva una cancellazione successiva secondo il capoverso 4.
+- d.[^16-1] un anno dopo il passaggio in giudicato di un decreto di abbandono o di non luogo a procedere;
+- e.[^16-2] cinque anni dopo la fine del periodo di prova in caso di sospensione condizionale totale o parziale della pena;
+- f.[^16-3] cinque anni dopo il pagamento di una pena pecuniaria, dopo la fine di un lavoro di pubblica utilità o dopo l’esecuzione di una corrispondente pena detentiva sostitutiva;
+- g.[^16-4] cinque anni dopo un’ammonizione, dopo il pagamento di una multa o dopo la fine di una prestazione personale ai sensi degli articoli 22–24 DPMin[^16-5];
+- h.[^16-6] cinque anni dopo la fine del periodo di prova in caso di sospensione condizionale di una multa, di una prestazione personale o di una privazione della libertà ai sensi dell’articolo 35 DPMin;
+- i.[^16-7] cinque anni dopo l’esecuzione di una misura protettiva ai sensi degli articoli 12–14 DPMin;
+- j.[^16-8] dieci anni dopo l’esecuzione di una privazione della libertà ai sensi dell’articolo 25 DPMin;
+- k.[^16-9] dieci anni dopo la fine dell’esecuzione di un collocamento ai sensi dell’articolo 15 DPMin;
+- l.[^16-10] dieci anni dopo la fine dellʼinterdizione di esercitare unʼattività o del divieto di avere contatti e di accedere ad aree determinate ai sensi degli articoli 67 e 67*b* CP[^16-11], 50 e 50*b* del Codice penale militare del 13 giugno 1927[^16-12] o 16*a* DPMin, fatta salva una cancellazione successiva secondo il capoverso 4.
 
-<sup>2</sup> Nei casi di cui al capoverso 1 lettere c e d, il profilo del DNA non viene cancellato se l’assoluzione o l’abbandono del procedimento sono avvenuti per non imputabilità dell’autore.
+<sup>2</sup> Se in uno dei casi di cui al capoverso 1 lettera c o d determinati fatti inducono a supporre che il profilo del DNA dell’imputato potrebbe servire a far luce su reati futuri, con il consenso di chi dirige il procedimento tale profilo può essere conservato e utilizzato al massimo per dieci anni dal passaggio in giudicato della decisione. Il profilo del DNA non viene cancellato secondo il capoverso 1 lettera c o d se l’assoluzione o l’abbandono del procedimento sono avvenuti per non imputabilità dell’autore.[^16-13]
 
 <sup>3</sup> Dopo 30 anni, l’Ufficio federale cancella tutti i profili del DNA che già non lo siano stati in virtù del capoverso 1. Rimane salva una cancellazione successiva secondo il capoverso 4.
 
-<sup>4</sup> In caso di esecuzione di una pena detentiva, di internamento, di misure terapeutiche o di espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927, l’Ufficio federale cancella il profilo del DNA 20 anni dopo la liberazione dalla pena detentiva o dall’internamento o dopo l’esecuzione della misura o dell’espulsione.[^16-12]
+<sup>4</sup> In caso di esecuzione di una pena detentiva, di internamento, di misure terapeutiche o di espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927, l’Ufficio federale cancella il profilo del DNA 20 anni dopo la liberazione dalla pena detentiva o dall’internamento o dopo l’esecuzione della misura o dell’espulsione.[^16-14]
 
-[^16-1]: Nuovo testo giusta l’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-1]: Nuovo testo giusta l’all. 1 n. 8 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^16-2]: Nuovo testo giusta l’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-3]: Introdotto dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-4]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-5]: Introdotta dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-3]: Nuovo testo giusta l’all. 1 n. 8 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-4]: Introdotto dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-5]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 [^16-6]: Introdotta dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^16-7]: Introdotta dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^16-8]: Introdotta dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-9]: Introdotta dall’all. n. 4 della LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^16-10]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-11]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-12]: Nuovo testo giusta l’all. n. 9 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^16-9]: Introdotta dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-10]: Introdotta dall’all. n. 4 della LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^16-11]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-12]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-13]: Nuovo testo giusta l’all. 1 n. 8 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-14]: Nuovo testo giusta l’all. n. 9 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 17
 

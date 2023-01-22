@@ -3,11 +3,11 @@ sr: "363"
 title: Federal Act of 20 June 2003 on the Use of DNA Profiles in Criminal Proceedings and for Identifying Unidentified or Missing Persons (DNA Profiles Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: en
-version: 2022-12-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2004-811-20221201-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230123-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (DNA Profiles Act)
 
-of 20 June 2003 (Status as of 1 December 2022)
+of 20 June 2003 (Status as of 23 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -116,8 +116,8 @@ Immediately on a conviction taking legal effect, a sample may be taken from and 
 - b. who have been convicted of wilfully committing a felony or a misdemeanour against life and limb or sexual integrity; or
 - c.[^5-2] who have been ordered to undergo a therapeutic measure (Art. 59–63 of the Swiss Criminal Code, SCC[^5-3]), indefinite incarceration (Art. 64 SCC) or a placement (Art. 15 of the Juvenile Criminal Code of 20 June 2003[^5-4]).
 
-[^5-1]: Amended by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^5-2]: Amended by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^5-1]: Amended by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), 2008 3121).
+[^5-2]: Amended by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), 2008 3121).
 [^5-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^5-4]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 
@@ -293,36 +293,38 @@ The Federal Office shall delete the DNA profiles of persons defined in Articles 
 - a. as soon as the person concerned can be excluded as the perpetrator during the proceedings;
 - b. after the death of the person concerned;
 - c. as soon as the relevant proceedings have been legally concluded with an acquittal;
-- d. one year after proceedings have been definitively abandoned;
-- e.[^16-1] five years after expiry of the probationary period in the case of a suspended or partially suspended sentence;
-- [tab] f.[^16-2] five years after the payment of a monetary penalty, after the completion of community service or after any related converted sentence has been served;
-- g.[^16-3] five years after issue of a reprimand, after payment of a fine or completion of a personal work order in accordance with Articles 22–24 JCLA[^16-4];
-- h.[^16-5] five years after the probationary period for the suspended execution of a fine, a personal work order or a custodial measure in accordance with Article 35 JCLA;
-- i.[^16-6] five years after the enforcement of a protection measure in accordance with Articles 12–14 JCLA;
-- j.[^16-7] ten years after the enforcement of a deprivation of liberty in accordance with Article 25 JCLA;
-- k.[^16-8] ten years after ending the enforcement of a placement in accordance with Article 15 JCLA;
-- l.[^16-9] ten years after the end of a prohibition from carrying on an activity or of a contact prohibition and exclusion order in accordance with Article 67 and 67*b* SCC[^16-10], Articles 50 and 50*b* of the Military Criminal Code of 13 June 1927[^16-11] or Article 16*a* JCLA, unless the profile must be deleted at later date in accordance with paragraph 4.
+- [tab] d.[^16-1] one year after the order to abandon proceedings or not bring proceedings has become legally binding;
+- e.[^16-2] five years after expiry of the probationary period in the case of a suspended or partially suspended sentence;
+- [tab] f.[^16-3] five years after the payment of a monetary penalty, after the completion of community service or after any related alternative custodial sentence has been served;
+- g.[^16-4] five years after issue of a reprimand, after payment of a fine or completion of a personal work order in accordance with Articles 22–24 JCLA[^16-5];
+- h.[^16-6] five years after the probationary period for the suspended execution of a fine, a personal work order or a custodial measure in accordance with Article 35 JCLA;
+- i.[^16-7] five years after the enforcement of a protection measure in accordance with Articles 12–14 JCLA;
+- j.[^16-8] ten years after the enforcement of a deprivation of liberty in accordance with Article 25 JCLA;
+- k.[^16-9] ten years after ending the enforcement of a placement in accordance with Article 15 JCLA;
+- l.[^16-10] ten years after the end of a prohibition from carrying on an activity or of a contact prohibition and exclusion order in accordance with Article 67 and 67*b* SCC[^16-11], Articles 50 and 50*b* of the Military Criminal Code of 13 June 1927[^16-12] or Article 16*a* JCLA, unless the profile must be deleted at later date in accordance with paragraph 4.
 
-<sup>2</sup> In the cases referred to in paragraph 1 letters c and d, the DNA profile is not deleted if the perpetrator is acquitted or proceedings are abandoned due to an absence of legal responsibility.
+<sup>2</sup> If in a case under paragraph 1 letter c or d, it is anticipated in view of certain circumstances that the DANN profile of the accused may be required to investigate future offences, it may be retained and used with the agreement of the director of proceedings for a maximum of ten years from the decision becoming legally binding. The DNA profile shall not be deleted in accordance with paragraph 1 letter c or d if the perpetrator is acquitted or proceedings are abandoned due to an absence of legal responsibility.[^16-13]
 
 <sup>3</sup> The Federal Office shall delete after 30 years all DNA profiles that have not already been deleted in accordance with paragraph 1, unless the profile must be deleted at later date in accordance with paragraph 4.
 
-<sup>4</sup> In cases involving a custodial sentence, indefinite incarceration, therapeutic measures or expulsion under Article 66*a* or 66*a*<sup>bis</sup> of the Criminal Code[^16-12] or Article 49*a* or 49*a*<sup>bis</sup> of the Military Criminal Code of 13 June 1927[^16-13], the Federal Office shall delete the DNA profile 20 years after release from custody, after incarceration, after enforcement of the therapeutic measure or after expulsion.[^16-14]
+<sup>4</sup> In cases involving a custodial sentence, indefinite incarceration, therapeutic measures or expulsion under Article 66*a* or 66*a*<sup>bis</sup> of the Criminal Code[^16-14] or Article 49*a* or 49*a*<sup>bis</sup> of the Military Criminal Code of 13 June 1927[^16-15], the Federal Office shall delete the DNA profile 20 years after release from custody, after incarceration, after enforcement of the therapeutic measure or after expulsion.[^16-16]
 
-[^16-1]: Amended by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-2]: Amended by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-3]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-4]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-5]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-6]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-7]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-8]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-9]: Inserted by Annex No 4 of the FA of 13 December 2013 on Activity Prohibition Orders and Contact Prohibition and Exclusion orders, in force since 1 Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355)); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^16-10]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-11]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-12]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-13]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-14]: Amended by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 FC on the deportation of criminal foreigners), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^16-1]: Amended by Annex 1 No 8 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-2]: Amended by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), 2008 3121).
+[^16-3]: Amended by Annex 1 No 8 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-4]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), 2008 3121).
+[^16-5]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^16-6]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), 2008 3121).
+[^16-7]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), 2008 3121).
+[^16-8]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), 2008 3121).
+[^16-9]: Inserted by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), 2008 3121).
+[^16-10]: Inserted by Annex No 4 of the FA of 13 December 2013 on Activity Prohibition Orders and Contact Prohibition and Exclusion orders, in force since 1 Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355)); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^16-11]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-12]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-13]: Amended by Annex 1 No 8 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-14]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-15]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^16-16]: Amended by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 FC on the deportation of criminal foreigners), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 17
 
@@ -332,7 +334,7 @@ The Federal Office shall delete the DNA profiles of persons defined in Articles 
 
 <sup>2</sup> Obtaining the authorisation of a foreign authority may be waived.
 
-[^17-1]: Amended by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^17-1]: Amended by Annex No 3 of the Juvenile Criminal Procedure Code of 20 March 2009, in force since 1 Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), 2008 3121).
 
 #### Art. 18
 
@@ -375,7 +377,6 @@ The Federal Council shall issue the implementing provisions, in which it shall r
 - b. the details concerning the identification of unidentified living or deceased persons and missing persons;
 - c. the arrangements and processes for generating DNA profiles;
 - d. the conditions and the procedure for approving the laboratories;
-
 - e. the notification of the Federal Office on procedure completion;
 - f. the registration of DNA profiles generated abroad.
 
