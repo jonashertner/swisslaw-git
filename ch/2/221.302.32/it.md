@@ -4,11 +4,11 @@ title: "Ordinanza dell'Autorità federale di sorveglianza dei revisori del 14 no
 short: OD-ASR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/739"
 language: it
-version: 2016-01-01
+version: 2023-01-23
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2008-739-20160101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2008-739-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20160101/it"
 
 (Ordinanza sui dati ASR, OD-ASR)
 
-del 14 novembre 2008 (Stato 1° gennaio 2016)
+del 14 novembre 2008 (Stato 23 gennaio 2023)
 
 L’Autorità federale di sorveglianza dei revisori,
 
@@ -101,13 +101,13 @@ L’autorità di sorveglianza si riserva il diritto di revocare o interrompere i
 
 La presente ordinanza entra in vigore il 1° gennaio 2009.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 2 cpv. 2)
 
 ## Catalogo dei dati non accessibili al pubblico ai quali le altre autorità di sorveglianza svizzere possono ottenere l’accesso elettronico
 
-[^t-1]: Aggiornato dal n. 2 dell’all. all’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^t-1]: Aggiornato dal n. 2 dell’all. all’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)) e dal n. II dell’O della ASR del 18 nov. 2022, in vigore dal 23 gen. 2023 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 ### Legenda
 
@@ -149,7 +149,7 @@ Portata dell’accesso:
 <tr><td>Diploma o attestato equivalente della conclusione di un ciclo di formazione secondo l’art. 4 cpv. 2 LSR[^annexu1-lvlu1-lvlu2-1]</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Eventualmente, la conferma scritta del datore di lavoro concernente l’esperienza professionale sotto sorveglianza</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Eventuale prova delle conoscenze necessarie del diritto svizzero con l’attestato che certifichi il superamento di un esame al termine di un ciclo di formazione riconosciuto</td><td></td><td colspan="2">A</td></tr>
-<tr><td>Estratto attuale del casellario giudiziale centrale (aggiornato ad almeno 3 mesi prima della data di presentazione della domanda), ed eventualmente delle sentenze cui si fa riferimento; le persone domiciliate da più di due anni all’estero devono presentare un estratto o attestato corrispondente dello Stato di domicilio</td><td></td><td colspan="2">A</td></tr>
+<tr><td>Estratto attuale del casellario giudiziale informatizzato VOSTRA conformemente alla legge del 17 giugno 2016[^annexu1-lvlu1-lvlu2-2] sul casellario giudiziale (rilasciato non più di tre mesi prima della data di presentazione della domanda) ed eventualmente le sentenze cui si fa riferimento; le persone domiciliate da più di due anni all’estero devono presentare un estratto o attestato corrispondente dello Stato di domicilio</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Procedimenti di responsabilità civile o amministrativa nonché procedimenti davanti ad autorità di sorveglianza istituite da una legge speciale, ad organi sanzionatori ai sensi del diritto sulle borse o a organi professionali di categoria, passati in giudicato nei dieci anni precedenti l’inoltro della domanda e relativi a servizi di revisione prescritti dalla legge</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Estratto attuale del registro esecuzioni e fallimenti (aggiornato ad almeno 3 mesi prima della data di presentazione della domanda); le persone domiciliate all’estero devono presentare un estratto o attestato corrispondente dello Stato di domicilio. (In caso di cambiamenti di domicilio, l’autorità di sorveglianza si riserva il diritto di chiedere estratti o attestati precedenti.)</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Eventuale documentazione che attesti l’acquisizione di esperienza professionale senza sorveglianza</td><td></td><td colspan="2">A</td></tr>
@@ -171,7 +171,7 @@ Portata dell’accesso:
 <tr><td>Lista dei procedimenti giudiziari o procedimenti penali amministrativi pendenti in materia di servizi di revisione, nei confronti dell’impresa di revisione o dei suoi collaboratori</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Eventuale elenco delle società con azioni quotate in borsa i cui conti annuali o di gruppo vengono sottoposti a verifica, con menzione delle informazioni seguenti:</td><td></td><td colspan="2">A</td></tr>
 <tr><td>– ditta o nome, sede e numero del registro di commercio della società con azioni quotate in borsa</td><td></td><td colspan="2"></td></tr>
-<tr><td>– tipo di società con azioni quotate in borsa (art. 727 cpv. 1 n. 1 CO[^annexu1-lvlu1-lvlu2-2])</td><td></td><td colspan="2"></td></tr>
+<tr><td>– tipo di società con azioni quotate in borsa (art. 727 cpv. 1 n. 1 CO[^annexu1-lvlu1-lvlu2-3])</td><td></td><td colspan="2"></td></tr>
 <tr><td>– se del caso, nome e sede della borsa presso la quale sono quotati i titoli di partecipazione o le obbligazioni della società con azioni quotate in borsa</td><td></td><td colspan="2"></td></tr>
 <tr><td>– le norme relative al rendiconto in base alle quali la società con azioni quotate in borsa allestisce il proprio conto annuale ed eventualmente il conto di gruppo</td><td></td><td colspan="2"></td></tr>
 <tr><td>– cognome, nome e numero di registro del capo revisore</td><td></td><td colspan="2"></td></tr>
@@ -187,7 +187,7 @@ Portata dell’accesso:
 <tr><td colspan="3">2.4 Dati supplementari contenuti nei documenti allegati dalle imprese di revisione che presentano domanda di abilitazione a esercitare la funzione di impresa di revisione sotto sorveglianza statale</td></tr>
 <tr><td>Statuti attuali o contratto di società attuale nonché regolamenti organizzativi e interni o documenti equivalenti</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Descrizione scritta e rappresentazione grafica dei rapporti di proprietà, compresi gli accordi tra proprietari e altre possibilità di controllo o di influsso determinante</td><td></td><td colspan="2">A</td></tr>
-<tr><td>Lista dei membri appartenenti all’organo superiore di direzione o di amministrazione nonché all’organo di gestione, indicandone cognome, nome, domicilio, luogo d’origine, data di nascita, professione ed eventuale numero di registro; per i membri non abilitati a esercitare la funzione di revisore o perito revisore va prodotto anche un estratto attuale del casellario giudiziale centrale e del registro delle esecuzioni e fallimenti (aggiornati ad almeno 3 mesi prima della data di presentazione della domanda)</td><td></td><td colspan="2">A</td></tr>
+<tr><td>Lista dei membri appartenenti all’organo superiore di direzione o di ammi-nistrazione nonché all’organo di gestione, indicandone cognome, nome, domicilio, luogo d’origine, data di nascita, professione ed eventuale numero di registro; per i membri non abilitati a esercitare la funzione di revisore o perito revisore va prodotto anche un estratto del casellario giudiziale informatizzato VOSTRA conformemente alla legge del 17 giugno 2016 sul casellario giudiziale e del registro delle esecuzioni e fallimenti (entrambi rilasciati non più di tre mesi prima della data di presentazione della domanda)</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Descrizione scritta e rappresentazione grafica della struttura esterna dell’impresa (struttura del gruppo e della partecipazione), incluse le filiali in Svizzera e all’estero, le succursali e ogni significativa partecipazione diretta e indiretta, con indicazione delle attività e dei rispettivi conti annuali</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Descrizione scritta e rappresentazione grafica (organigramma) della struttura interna dell’impresa e della direzione, con i nomi dei responsabili dei singoli settori</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Se disponibili, rapporti di gestione degli ultimi tre esercizi, inclusi l’eventuale conto di gruppo e le relative relazioni di revisione</td><td></td><td colspan="2">A</td></tr>
@@ -201,4 +201,5 @@ Portata dell’accesso:
 </table>
 
 [^annexu1-lvlu1-lvlu2-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annexu1-lvlu1-lvlu2-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annexu1-lvlu1-lvlu2-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)
+[^annexu1-lvlu1-lvlu2-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)

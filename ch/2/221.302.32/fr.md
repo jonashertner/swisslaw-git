@@ -4,11 +4,11 @@ title: "Ordonnance de l'Autorité fédérale de surveillance en matière de rév
 short: OD-ASR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/739"
 language: fr
-version: 2016-01-01
+version: 2023-01-23
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-739-20160101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2008-739-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20160101/fr"
 
 (Ordonnance sur les données ASR, OD-ASR)
 
-du 14 novembre 2008 (Etat le 1<sup>er</sup> janvier 2016)
+du 14 novembre 2008 (État le 23 janvier 2023)
 
 L’autorité fédérale de surveillance en matière de révision,
 
@@ -35,7 +35,7 @@ arrête:
 
 La présente ordonnance règle l’accès électronique aux données non accessibles au public (art. 26, al. 1, OSRev) pouvant être accordé aux autres autorités de surveillance suisses au sens de l’art. 22 de la loi du 16 décembre 2005 sur la surveillance de la révision (LSR)[^1-2].
 
-[^1-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^1-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^1-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 2
@@ -76,8 +76,8 @@ La demande contient les informations suivantes:
 
 <sup>3</sup> Les autres autorités de surveillance suisses doivent au surplus respecter les modalités techniques fixées par l’autorité de surveillance et prendre à leur charge les coûts relatifs à l’installation de l’accès électronique.[^4-2]
 
-[^4-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^4-2]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^4-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^4-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 5
 
@@ -87,7 +87,7 @@ La demande contient les informations suivantes:
 
 <sup>2</sup> Ces deux personnes ne doivent pas conférer leur droit d’accès à un tiers.
 
-[^5-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 6
 
@@ -101,13 +101,13 @@ L’accès électronique aux données non accessibles au public peut être en to
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2009.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 2, al. 2)
 
 ## Catalogue des données non accessibles au public qui peuvent faire l’objet d’un accès électronique en faveur des autres autorités de surveillance suisses
 
-[^t-1]: Mise à jour selon le ch. 2 de l’annexe à l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^t-1]: Mise à jour par l’annexe ch. 2 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)) et le ch. II de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 23 janv. 2023 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 ### Légende
 
@@ -149,10 +149,10 @@ Niveau d’accès:
 <tr><td>Diplôme ou attestation équivalente confirmant l’accomplissement d’une formation au sens de l’art. 4, al. 2, LSR[^annexu1-lvlu1-lvlu2-1]</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Le cas échéant, attestations écrites de l’employeur concernant la pratique professionnelle acquise sous supervision</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Le cas échéant, preuve que la personne possède les connaissances requises du droit suisse par une attestation indiquant qu’une formation reconnue a été suivie avec succès</td><td></td><td colspan="2">A</td></tr>
-<tr><td>Extrait actuel du casier judiciaire central (ne datant pas de plus de trois mois au moment du dépôt de la demande) et, le cas échéant, jugements qui en découlent; pour les personnes domiciliées à l’étranger depuis plus de deux ans, justificatif officiel ou une preuve équivalente de leur Etat de domicile</td><td></td><td colspan="2">A</td></tr>
+<tr><td>Extrait actuel du casier judiciaire informatique VOSTRA selon la loi du 17 juin 2016 sur le casier judiciaire[^annexu1-lvlu1-lvlu2-2] (ne datant pas de plus de trois mois au moment du dépôt de la demande) et, le cas échéant, jugements qui en découlent; pour les personnes domiciliées à l’étranger depuis plus de deux ans, justificatif officiel ou une preuve équivalente de leur État de domicile</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Procédures en responsabilité de droit civil ou administratif, procédures conduites par une autorité de surveillance instaurée par des lois spéciales, par une autorité de sanction boursière ou par un organe disciplinaire d’un ordre professionnel, en rapport avec des prestations de révision prescrites par la loi et clôturées au cours des dix années précédant la demande d’agrément</td><td></td><td colspan="2">A</td></tr>
-<tr><td>Extrait actuel du registre des poursuites et faillites (ne datant pas plus de trois mois au moment de l’introduction de la demande); pour les personnes domiciliées à l’étranger, un justificatif officiel ou une preuve équivalente de leur Etat de domicile (en cas de changement de domicile, l’autorité fédérale de surveillance en matière de révision se réserve le droit d’exiger des justificatifs officiels ou des preuves équivalentes des domiciles précédents).</td><td></td><td colspan="2">A</td></tr>
-<tr><td>Eventuels documents prouvant l’expérience pratique non supervisée</td><td></td><td colspan="2">A</td></tr>
+<tr><td>Extrait actuel du registre des poursuites et faillites (ne datant pas plus de trois mois au moment de l’introduction de la demande); pour les personnes domiciliées à l’étranger, un justificatif officiel ou une preuve équivalente de leur État de domicile (en cas de changement de domicile, l’autorité fédérale de surveillance en matière de révision se réserve le droit d’exiger des justificatifs officiels ou des preuves équivalentes des domiciles précédents)</td><td></td><td colspan="2">A</td></tr>
+<tr><td>Éventuels documents prouvant l’expérience pratique non supervisée</td><td></td><td colspan="2">A</td></tr>
 <tr><td colspan="4">2. Données relatives aux entreprises de révision</td></tr>
 <tr><td colspan="3">2.1. Données contenues dans la demande d’agrément de toutes les entreprises de révision</td></tr>
 <tr><td>Le cas échéant, adresse du site web</td><td></td><td colspan="2">A</td></tr>
@@ -166,12 +166,12 @@ Niveau d’accès:
 <tr><td>Déclaration quant à l’existence d’un système d’assurance-qualité et, le cas échéant, lequel; à défaut, engagement de l’entreprise de révision de s’affilier d’ici au 31 août 2010 à un système d’évaluation régulière de ses activités de révision par des professionnels de même rang</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Procédures pénales ou de droit pénal administratif définitivement closes dans les dix ans précédant le dépôt de la demande</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Procédures en responsabilité de droit civil ou administratif, procédures conduites par une autorité de surveillance instaurée par des lois spéciales, par une autorité de sanction boursière ou par un organe disciplinaire d’un ordre professionnel, en rapport avec des prestations de révision prescrites par la loi et clôturées au cours des dix années précédant la demande d’agrément</td><td></td><td colspan="2">A</td></tr>
-<tr><td colspan="3">2.2. Données contenues dans la demande des entreprises de révision en vue de l’agrément en qualité d’entreprise de révision soumise à la surveillance de l’Etat</td></tr>
+<tr><td colspan="3">2.2. Données contenues dans la demande des entreprises de révision en vue de l’agrément en qualité d’entreprise de révision soumise à la surveillance de l’État</td></tr>
 <tr><td>Déclaration quant à l’existence d’une couverture d’assurance suffisante contre les risques en matière de responsabilité civile ou de sûretés financières équivalentes</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Liste des procédures judiciaires ou de droit pénal administratif pendantes à l’encontre de l’entreprise de révision ou de ses collaborateurs en rapport avec des prestations en matière de révision</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Le cas échéant, liste des sociétés ouvertes au public dont les comptes annuels ou les comptes de groupe sont révisés, avec indication des informations suivantes:</td><td></td><td colspan="2">A</td></tr>
 <tr><td>– raison de commerce ou nom, siège et numéro d’inscription au registre du commerce de la société ouverte au public</td><td></td><td colspan="2"></td></tr>
-<tr><td>– genre de société ouverte au public (art. 727, al. 1, ch. 1, CO[^annexu1-lvlu1-lvlu2-2])</td><td></td><td colspan="2"></td></tr>
+<tr><td>– genre de société ouverte au public (art. 727, al. 1, ch. 1, CO[^annexu1-lvlu1-lvlu2-3])</td><td></td><td colspan="2"></td></tr>
 <tr><td>– le cas échéant, nom et siège de la bourse auprès de laquelle les titres de participation ou les emprunts de la société ouverte au public sont cotés</td><td></td><td colspan="2"></td></tr>
 <tr><td>– standards de comptabilité selon lesquels la société ouverte au public établit ses comptes annuels et éventuellement ses comptes consolidés</td><td></td><td colspan="2"></td></tr>
 <tr><td>– nom, prénom et numéro de registre du réviseur qui dirige la révision</td><td></td><td colspan="2"></td></tr>
@@ -184,10 +184,10 @@ Niveau d’accès:
 <tr><td>Le cas échéant, décisions ou jugements clôturant une procédure de droit pénal ou de droit pénal administratif</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Le cas échéant, décisions ou jugements clôturant une procédure en responsabilité de droit civil ou de droit administratif, une procédure conduite par une autorité de surveillance instaurée par des lois spéciales, par une autorité de sanction boursière ou par un organe disciplinaire d’un ordre professionnel, en rapport avec des prestations de révision prescrites par la loi et clôturées au cours des dix années précédant la demande d’agrément</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Extrait récent du registre des poursuites et faillites (tous les justificatifs doivent dater de moins de trois mois au moment du dépôt de la demande d’agrément)</td><td></td><td colspan="2">A</td></tr>
-<tr><td colspan="3">2.4. Données correspondant aux documents suivants produits, au moins sous forme de copie, par les entreprises de révision pour l’agrément en qualité d’entreprise de révision soumise à la surveillance de l’Etat</td></tr>
+<tr><td colspan="3">2.4. Données correspondant aux documents suivants produits, au moins sous forme de copie, par les entreprises de révision pour l’agrément en qualité d’entreprise de révision soumise à la surveillance de l’État</td></tr>
 <tr><td>Statuts actuels ou contrat actuel de société et règlements d’organisation et d’entreprise ou autres documents équivalents</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Description écrite et représentation graphique des rapports de propriété, y compris les accords entre les propriétaires et les autres possibilités soit de prise de contrôle, soit d'une autre prise d’influence déterminante</td><td></td><td colspan="2">A</td></tr>
-<tr><td>Liste des membres de l’organe supérieur de direction ou d’administration et de l’organe de direction, avec indication des nom, prénom, domicile, lieu d’origine, date de naissance; le cas échéant, numéro de registre, profession et extrait actuel du casier judiciaire central et du registre des poursuites et faillites (ces extraits ne doivent pas dater de plus de trois mois au moment du dépôt de la demande) y seront joints pour les membres qui ne disposent pas d’un agrément en qualité de réviseur ou d'expert-réviseur</td><td></td><td colspan="2">A</td></tr>
+<tr><td>Liste des membres de l’organe supérieur de direction ou d’administration et de l’organe de direction, avec indication des nom, prénom, domicile, lieu d’origine, date de naissance, le cas échéant, du numéro de registre et de la profession; un extrait actuel du casier judiciaire informatique VOSTRA selon la loi du 17 juin 2016 sur le casier judiciaire et un extrait du registre des poursuites et faillites (ces extraits ne doivent pas dater de plus de trois mois au moment du dépôt de la demande) y seront joints pour les membres qui ne disposent pas d’un agrément en qualité de réviseur ou d’expert-réviseur</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Description écrite et représentation graphique de la structure externe de l’entreprise (structure du groupe et structure de participation), y compris les filiales suisses et étrangères, les succursales et toutes les participations directes et les participations importantes indirectes, et indication des activités et des comptes annuels</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Description écrite et représentation graphique (organigramme) de la structure interne de l’entreprise et de sa direction, avec indication des noms des personnes responsables de chaque secteur</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Dans la mesure où ils existent, rapports de gestion des trois derniers exercices, y compris les éventuels comptes de groupe et les rapports de révision correspondants</td><td></td><td colspan="2">A</td></tr>
@@ -201,4 +201,5 @@ Niveau d’accès:
 </table>
 
 [^annexu1-lvlu1-lvlu2-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annexu1-lvlu1-lvlu2-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annexu1-lvlu1-lvlu2-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^annexu1-lvlu1-lvlu2-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)

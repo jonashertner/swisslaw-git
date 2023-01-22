@@ -4,11 +4,11 @@ title: "Verordnung der Eidgenössischen Revisionsaufsichtsbehörde vom 14. Novem
 short: DV-RAB
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/739"
 language: de
-version: 2016-01-01
+version: 2023-01-23
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2008-739-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2008-739-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20160101/de"
 
 (Datenverordnung RAB, DV-RAB)
 
-vom 14. November 2008 (Stand am 1. Januar 2016)
+vom 14. November 2008 (Stand am 23. Januar 2023)
 
 Die Eidgenössische Revisionsaufsichtsbehörde,
 
@@ -101,13 +101,13 @@ Der elektronische Zugriff auf nicht öffentlich zugängliche Daten kann jederzei
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 2 Abs. 2)
 
 ## Katalog der nicht öffentlich zugänglichen Daten, auf die andere schweizerische Aufsichtsbehörden elektronischen Zugriff erlangen können
 
-[^t-1]: Bereinigt gemäss Anhang Ziff. 2 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^t-1]: Bereinigt gemäss Anhang Ziff. 2 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)) und Ziff. II der V der RAB vom 18. Nov. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 ### Zeichenerklärung
 
@@ -149,9 +149,9 @@ A: Einsichtnahme
 <tr><td>Diplom oder gleichwertige Bestätigung des Abschlusses eines Ausbildungsganges im Sinne von Artikel 4 Absatz 2 RAG[^annexu1-lvlu1-lvlu2-1]</td><td colspan="2">A</td></tr>
 <tr><td>Gegebenenfalls die schriftlichen Bestätigungen der Arbeitgeber zur beaufsichtigten Fachpraxis</td><td colspan="2">A</td></tr>
 <tr><td>Gegebenenfalls Nachweis der notwendigen Kenntnisse des schweizerischen Rechts durch eine Bestätigung des erfolgreichen Abschlusses eines anerkannten Lehrgangs</td><td colspan="2">A</td></tr>
-<tr><td>Aktueller Auszug aus dem Zentralstrafregister (nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung) und gegebenenfalls die zugrunde liegenden Urteile; Personen mit mehr als zwei Jahren Wohnsitz im Ausland haben einen entsprechenden Auszug oder Nachweis ihres Wohnsitzstaates beizubringen</td><td colspan="2">A</td></tr>
+<tr><td>Aktueller Auszug aus dem Strafregister-Informationssystem VOSTRA nach dem Strafregistergesetz vom 17. Juni 2016[^annexu1-lvlu1-lvlu2-2] (nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung) und gegebenenfalls die zugrunde liegenden Urteile; Personen mit mehr als zwei Jahren Wohnsitz im Ausland haben einen entsprechenden Auszug oder Nachweis ihres Wohnsitzstaates beizubringen</td><td colspan="2">A</td></tr>
 <tr><td>Gegebenenfalls verfahrensabschliessende und im Zusammenhang mit gesetzlich vorgeschriebenen Revisionsdienstleistungen stehende Entscheide oder Urteile bei Verfahren der zivil- oder verwaltungsrechtlichen Verantwortlichkeit und Verfahren vor spezialgesetzlichen Aufsichtsbehörden, börsenrechtlichen Sanktionsorganen oder berufsrechtlichen Standesorganen</td><td colspan="2">A</td></tr>
-<tr><td>Aktueller Auszug aus dem Betreibungs- und Konkursregister (nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung); Personen mit Wohnsitz im Ausland haben einen entsprechenden Auszug oder Nachweis ihres Wohnsitzstaates beizubringen. (Im Falle von Wohnsitzwechseln behält sich die Aufsichtsbehörde vor, weiter zurückliegende Auszüge oder Nachweise zu verlangen.)</td><td colspan="2">A</td></tr>
+<tr><td>Aktueller Auszug aus dem Betreibungs- und Konkursregister (nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung); Personen mit Wohnsitz im Ausland haben einen entsprechenden Auszug oder Nachweis ihres Wohnsitzstaates beizubringen. (Im Falle von Wohnsitzwechseln behält sich die Aufsichtsbehörde vor, weiter zurückliegende Auszüge oder Nachweise zu verlangen)</td><td colspan="2">A</td></tr>
 <tr><td>Gegebenenfalls Unterlagen zum Nachweis der unbeaufsichtigten Fachpraxis</td><td colspan="2">A</td></tr>
 <tr><td colspan="3">2. Daten von Revisionsunternehmen</td></tr>
 <tr><td colspan="2">2.1 Daten, die im Zulassungsgesuch aller Revisionsunternehmen enthalten sind</td></tr>
@@ -171,7 +171,7 @@ A: Einsichtnahme
 <tr><td>Auflistung der hängigen oder innerhalb der letzten zehn Jahre vor der Gesuchstellung abgeschlossenen Gerichts- und Verwaltungsstrafverfahren gegen das Revisionsunternehmen oder gegen dessen Mitarbeitende, die im Zusammenhang mit Revisionsdienstleistungen stehen</td><td colspan="2">A</td></tr>
 <tr><td>Gegebenenfalls Liste der Publikumsgesellschaften, deren Jahres- oder Konzernrechnungen geprüft werden, unter Angabe folgender Informationen:</td><td colspan="2">A</td></tr>
 <tr><td>– Firma oder Name, Sitz und Handelsregisternummer der Publikumsgesellschaft</td><td colspan="2"></td></tr>
-<tr><td>– Art der Publikumsgesellschaft (Art. 727 Abs. 1 Obligationenrecht[^annexu1-lvlu1-lvlu2-2])</td><td colspan="2"></td></tr>
+<tr><td>– Art der Publikumsgesellschaft (Art. 727 Abs. 1 Obligationenrecht[^annexu1-lvlu1-lvlu2-3])</td><td colspan="2"></td></tr>
 <tr><td>– gegebenenfalls Name und Sitz der Börse, an der die Beteiligungspapiere oder Anleihen der Publikumsgesellschaft kotiert sind</td><td colspan="2"></td></tr>
 <tr><td>– Rechnungslegungsstandard, nach dem die Publikumsgesellschaft ihre Jahresrechnung und gegebenenfalls ihre Konzernrechnung erstellt</td><td colspan="2"></td></tr>
 <tr><td>– Name, Vorname und Registernummer der leitenden Revisorin oder des leitenden Revisors</td><td colspan="2"></td></tr>
@@ -187,7 +187,7 @@ A: Einsichtnahme
 <tr><td colspan="2">2.4 Daten, die in den eingereichten Unterlagen von Revisionsunternehmen enthalten sind, die eine Zulassung als staatlich beaufsichtigte Revisionsunternehmen beantragen</td></tr>
 <tr><td>Aktuelle Statuten oder aktueller Gesellschaftsvertrag sowie Organisations- und Geschäftsreglemente oder gleichwertige Unterlagen</td><td colspan="2">A</td></tr>
 <tr><td>Beschreibung und grafische Darstellung der Eigentumsverhältnisse, inklusive Absprachen unter den Eigentümern und andere Möglichkeiten einer Beherrschung oder eines anderen massgeblichen Einflusses</td><td colspan="2">A</td></tr>
-<tr><td>Liste der Mitglieder des obersten Leitungs- oder Verwaltungsorgans sowie des Geschäftsführungsorgans, unter Nennung von Name, Vorname, Wohnsitz, Heimatort, Geburtsdatum, gegebenenfalls Registernummer sowie Beruf, unter Beilage eines aktuellen Auszugs aus dem Zentralstrafregister und dem Betreibungs- und Konkursregister (jeweils nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung) für diejenigen Mitglieder, die über keine Zulassung als Revisorin, Revisor, Revisionsexpertin oder Revisionsexperte verfügen</td><td colspan="2">A</td></tr>
+<tr><td>Liste der Mitglieder des obersten Leitungs- oder Verwaltungsorgans sowie des Geschäftsführungsorgans, unter Nennung von Name, Vorname, Wohnsitz, Heimatort, Geburtsdatum, gegebenenfalls Registernummer sowie Beruf, unter Beilage eines aktuellen Auszugs aus dem Strafregister-Informationssystem VOSTRA nach dem Strafregistergesetz vom 17. Juni 2016 und dem Betreibungs- und Konkursregister (jeweils nicht älter als drei Monate zum Zeitpunkt der Gesuchseinreichung) für diejenigen Mitglieder, die über keine Zulassung als Revisorin oder Revisor oder als Revisionsexpertin oder Revisionsexperte verfügen</td><td colspan="2">A</td></tr>
 <tr><td>Beschreibung und grafische Darstellung der äusseren Unternehmensstruktur (Konzern- und Beteiligungsstruktur), unter Einschluss der in- und ausländischen Tochtergesellschaften, Zweigniederlassungen und aller direkten und bedeutenden indirekten Beteiligungen und der Angabe der Aktivitäten sowie der jeweiligen Jahresrechnungen</td><td colspan="2">A</td></tr>
 <tr><td>Beschreibung und grafische Darstellung (Organigramm) der inneren Unternehmens- und Leitungsstruktur, unter Nennung der Namen der für einzelne Bereiche verantwortlichen Personen</td><td colspan="2">A</td></tr>
 <tr><td>Sofern vorhanden, Geschäftsberichte der letzten drei Geschäftsjahre, inklusive allfälliger Konzernrechnungen und entsprechender Revisionsberichte</td><td colspan="2">A</td></tr>
@@ -201,4 +201,5 @@ A: Einsichtnahme
 </table>
 
 [^annexu1-lvlu1-lvlu2-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annexu1-lvlu1-lvlu2-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annexu1-lvlu1-lvlu2-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^annexu1-lvlu1-lvlu2-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
