@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordonnance du 15 octobre 2008 sur le système informatisé de gestion et d'indexation de dossiers et de personnes de l'Office fédéral de la police (Ordonnance IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230101/fr"
 
 (Ordonnance IPAS)
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> janvier 2023)
+du 15 octobre 2008 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -148,7 +148,7 @@ Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur deman
 - e. les services compétents de l’Office fédéral de la douane et de la sécurité des frontières[^7-5];
 - f. les représentations de la Suisse à l’étranger compétentes pour la délivrance de visas;
 - g.[^7-6] le Service de renseignement de la Confédération dans le cadre de ses activités selon la LMSI;
-- h.[^7-7] le service de l’Office fédéral de la justice en charge du casier judiciaire pour l’identification de personnes enregistrées dans le casier judiciaire informatisé VOSTRA lorsque l’on soupçonne une erreur dans la mise en relation entre des données et des personnes;
+- h.[^7-7] le Service du casier judiciaire de l’Office fédéral de la justice pour l’identification de personnes enregistrées dans le casier judiciaire informatique VOSTRA lorsque l’on soupçonne une erreur dans la mise en relation entre des données et des personnes;
 - i.[^7-8] les services centraux des cantons pour la clarification des conditions légales requises pour l’effacement de profils d’ADN selon les art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN[^7-9] et pour l’effacement des données signalétiques biométriques selon les art. 17 à 21 de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^7-10].
 
 <sup>2</sup> Sont réservées les dispositions légales régissant le traitement des données signalétiques, les données Interpol, Europol, N-SIS et les données relatives à la recherche de personnes disparues et de documents d’identité perdus.[^7-11]
@@ -159,7 +159,7 @@ Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur deman
 [^7-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^7-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^7-6]: Introduite par l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^7-7]: Introduite par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-7]: Introduite par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nouvelle teneur selon l’annexe 10 ch. II 14 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 [^7-8]: Introduite par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^7-9]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 [^7-10]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
@@ -383,9 +383,8 @@ Annexe 1
 - 7\. Personnes morales (nom, forme juridique, vérification de l’identité, adresse)
 - 8\. Véhicules (type, genre, marque, pays, numéros d’immatriculation, description du véhicule, données concernant la personne au nom de laquelle le véhicule est immatriculé)
 - 9\. Objets (numéro, type, remarques)
-- [tab]
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 6, al. 2)
 

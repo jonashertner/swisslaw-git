@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordinanza del 15 ottobre 2008 sul sistema informatizzato di gestione e indice informatizzato delle persone e dei fascicoli dell'Ufficio federale di polizia (Ordinanza IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230101/it"
 
 (Ordinanza IPAS)
 
-del 15 ottobre 2008 (Stato 1° gennaio 2023)
+del 15 ottobre 2008 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -148,7 +148,7 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 - e. i servizi competenti dell’Ufficio federale della dogana e della sicurezza dei confini[^7-5];
 - f. le rappresentanze svizzere all’estero competenti per il rilascio dei visti;
 - g.[^7-6] il Servizio delle attività informative della Confederazione, nel quadro delle sue attività secondo la LMSI;
-- h.[^7-7] il servizio dell’Ufficio federale di giustizia competente del casellario giudiziale per l’identificazione di persone registrate nel sistema d’informazione VOSTRA sul casellario giudiziale qualora si sospetti un errore nel collegamento dei dati;
+- h.[^7-7] il Servizio del casellario giudiziale dell’Ufficio federale di giustizia per l’identificazione di persone registrate nel casellario giudiziale informatizzato VOSTRA qualora si sospetti un errore nel collegamento dei dati;
 - i.[^7-8] i servizi centrali di coordinamento dei Cantoni per determinare se sussistono i presupposti legali per cancellare un profilo del DNA ai sensi degli articoli 16–19 della legge del 20 giugno 2003[^7-9] sui profili del DNA, nonché per cancellare i dati segnaletici di natura biometrica ai sensi degli articoli 17–21 dell’ordinanza del 6 dicembre 2013[^7-10] sul trattamento dei dati segnaletici di natura biometrica.
 
 <sup>2</sup> Sono fatte salve le disposizioni legali che disciplinano il trattamento di dati segnaletici, dati provenienti da Interpol, Europol, N-SIS, nonché dati sulla ricerca di persone scomparse e documenti d’identità.[^7-11]
@@ -159,7 +159,7 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 [^7-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^7-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^7-6]: Introdotta dall’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^7-7]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-7]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nuovo testo giusta l’all. 10 n. II 14 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 [^7-8]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^7-9]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 [^7-10]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
@@ -505,5 +505,3 @@ PR Pratiche
 CO Contenuto
 
 GPA Sistema di gestione delle pratiche e degli atti di fedpol
-
-- [tab]

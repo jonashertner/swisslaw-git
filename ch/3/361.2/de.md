@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Verordnung vom 15. Oktober 2008 über das informatisierte Personennachweis, Aktennachweis- und Verwaltungssystem im Bundesamt für Polizei (IPAS-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230101/de"
 
 (IPAS-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. Januar 2023)
+vom 15. Oktober 2008 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -148,7 +148,7 @@ Fedpol kann im Rahmen der Amtshilfe aus dem IPAS stammende Daten folgenden Behö
 - e. den zuständigen Diensten des Bundesamtes für Zoll und Grenzsicherheit[^7-5];
 - f. den für die Erteilung von Visa zuständigen schweizerischen Vertretungen im Ausland;
 - g.[^7-6] dem Nachrichtendienst des Bundes, im Rahmen seiner Tätigkeiten nach dem BWIS;
-- h.[^7-7] dem für das Strafregister zuständigen Dienst des Bundesamtes für Justiz für die Personenidentifikation im Strafregister-Informationssystem VOSTRA beim Verdacht auf falsch verknüpfte Daten;
+- h.[^7-7] der registerführenden Stelle im Bundesamt für Justiz für die Personenidentifikation im Strafregister-Informationssystem VOSTRA beim Verdacht auf falsch verknüpfte Daten;
 - i.[^7-8] den zentralen Koordinationsstellen der Kantone für die Abklärung der gesetzlichen Voraussetzungen für die Löschung von Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003[^7-9] sowie für die Löschung der biometrischen erkennungsdienstlichen Daten nach den Artikeln 17–21 der Verordnung vom 6. Dezember 2013[^7-10] über die Bearbeitung biometrischer erkennungsdienstlicher Daten.
 
 <sup>2</sup> Vorbehalten bleiben die gesetzlichen Bestimmungen über die Behandlung von erkennungsdienstlichen Daten, Daten aus Interpol, Europol, N-SIS sowie Daten über die Nachforschung nach vermissten Personen und Ausweisen.[^7-11]
@@ -159,7 +159,7 @@ Fedpol kann im Rahmen der Amtshilfe aus dem IPAS stammende Daten folgenden Behö
 [^7-4]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^7-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^7-6]: Eingefügt durch Anhang 4 Ziff. II 16 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^7-7]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-7]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Fassung gemäss Anhang 10 Ziff. II 14 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 [^7-8]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^7-9]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 [^7-10]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
@@ -191,7 +191,7 @@ Fedpol kann im Rahmen der Amtshilfe aus dem IPAS stammende Daten folgenden Behö
 
 <sup>3</sup> Die Prozesskontrollnummer wird gelöscht, wenn über die Person beim Bund keine erkennungsdienstlichen Daten mehr aufbewahrt werden.
 
-<sup>4</sup> Die in den Kategorien *Nachforschung nach vermissten Personen* und *Identität**s**ausweise* gespeicherten Daten werden 50 Jahre nach der ersten Erfassung gelöscht. Die in der Kategorie *Nachforschung nach vermissten Personen* gespeicherten Daten können so lange aufbewahrt werden, als die Betroffenen nicht gefunden sind, höchstens aber, bis diese das 99. Lebensjahr erreicht hätten.
+<sup>4</sup> Die in den Kategorien *Nachforschung nach vermissten Personen* und *Identitäts**ausweise* gespeicherten Daten werden 50 Jahre nach der ersten Erfassung gelöscht. Die in der Kategorie *Nachforschung nach vermissten Personen* gespeicherten Daten können so lange aufbewahrt werden, als die Betroffenen nicht gefunden sind, höchstens aber, bis diese das 99. Lebensjahr erreicht hätten.
 
 <sup>5</sup> Die in der Kategorie *Interpol* gespeicherten Daten werden nach zehn Jahren gelöscht.
 
@@ -382,9 +382,9 @@ Geschäfts- und Aktenverwaltungssystem von fedpol
 - 9\. Objekte (Nummer, Typ, Anmerkungen)
 
 [^annex1-lvlu1-lvlu1-1]: Die unter Punkte 1–6 aufgeführten Datenfelder werden nur für die Kategorie *AFIS-DNA* verwendet.
-[^annex1-lvlu1-lvlu1-2]: Das unter Punkt 7 aufgeführte Datenfeld wird nur für die Kategorien *Interpol*, *Nachfo**r**schung nach vermissten Personen* und *Identitätsausweise* verwendet.
+[^annex1-lvlu1-lvlu1-2]: Das unter Punkt 7 aufgeführte Datenfeld wird nur für die Kategorien *Interpol*, *Nachforschung nach vermissten Personen* und *Identitätsausweise* verwendet.
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 6 Abs. 2)
 
