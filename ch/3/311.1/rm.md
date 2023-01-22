@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da zercladur 2003 davart il dretg penal per giuv
 short: DPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: rm
-version: 2019-07-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20190701/rm/xml/fedlex-data-admin-ch-eli-cc-2006-551-20190701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20190701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-2006-551-20230123-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Dretg penal per giuvenils, DPG)
 
-dals 20 da zercladur 2003 (versiun dal 1. da fanadur 2019)
+dals 20 da zercladur 2003 (versiun dals 23 da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -62,7 +62,7 @@ En cumplettaziun da questa lescha èn las suandantas disposiziuns dal CP applitg
 - l. l’artitgel 110 (noziuns);
 - m. ils artitgels 111–332 (segund cudesch: disposiziuns spezialas);
 - n.[^1-6] ils artitgels 333–392 (terz cudesch: introducziun ed applicaziun da la lescha), cun excepziun dals artitgels 380 (custs), 387 alinea 1 litera d e 2 (disposiziuns cumplementaras dal Cussegl federal) e 388 alinea 3 (execuziun da sentenzias anteriuras);
-- o. la cifra 3 da las disposiziuns transitoricas da la midada dals 13 da december 2002[^1-7] (register penal).
+- o.[^1-7] …
 
 <sup>3</sup> Applitgond questas disposiziuns dal CP ston vegnir observads ils princips tenor l’artitgel 2, e la vegliadetgna ed il stadi da svilup dal giuvenil ston vegnir resguardads a sia favur.
 
@@ -72,7 +72,7 @@ En cumplettaziun da questa lescha èn las suandantas disposiziuns dal CP applitg
 [^1-4]: Versiun tenor la cifra I 2 da la LF dals 15 da zer. 2012 (nunsurannaziun da malfatgs sexuals e pornografics cunter uffants avant la pubertad), en vigur dapi il 1. da schan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
 [^1-5]: [AS 2009 6103](https://fedlex.data.admin.ch/eli/oc/2009/748)
 [^1-6]: Versiun tenor la cifra 1 da l’agiunta da la Procedura penala per giuvenils dals 20 da mars 2009, en vigur dapi il 1. da schan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^1-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)a la fin
+[^1-7]: Abolì tras la cifra 4 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, cun effect dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 2
 
@@ -581,7 +581,7 @@ Per giuvenils ch’eran vegnids sentenziads ad ina detenziun tenor il vegl artit
 
 Fin il pli tard 10 onns suenter l’entrada en vigur da questa lescha creeschan ils chantuns las instituziuns necessarias per exequir il plazzament (art. 15) e la detenziun (art. 27).
 
-### 2*a*. secziun**** Disposiziun transitorica da la midada dals 19 da zercladur 2015
+### 2*a*. secziun Disposiziun transitorica da la midada dals 19 da zercladur 2015
 
 [^chap6-sec2a-1]
 

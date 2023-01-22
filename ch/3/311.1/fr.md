@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 régissant la condition pénale des mineu
 short: DPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: fr
-version: 2019-07-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20190701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-551-20190701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20190701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2006-551-20230123-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20190701/fr"
 
 (Droit pénal des mineurs, DPMin)
 
-du 20 juin 2003 (Etat le 1<sup>er</sup> juillet 2019)
+du 20 juin 2003 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -60,7 +60,7 @@ Les dispositions ci-après du CP, applicables par analogie, complètent la prés
 - l. art. 110 (définitions);
 - m. art. 111 à 332 (Livre 2: Dispositions spéciales);
 - n.[^1-6] art. 333 à 392 (Livre 3: Entrée en vigueur et application du code pénal), à l’exception des art. 380 (Frais), 387, al. 1, let. d, et 2 (Dispositions complémentaires du Conseil fédéral) et 388, al. 3 (Exécution des jugements antérieurs);
-- o. ch. 3 des dispositions transitoires de la modification du 13 décembre 2002[^1-7] (casier judiciaire).
+- o.[^1-7] …
 
 <sup>3</sup> Lors de l’application de ces dispositions du CP, les principes définis à l’art. 2 doivent être pris en compte et l’âge et le degré de développement du mineur doivent peser en sa faveur.
 
@@ -70,7 +70,7 @@ Les dispositions ci-après du CP, applicables par analogie, complètent la prés
 [^1-4]: Nouvelle teneur selon le ch. I 2 de la LF du 15 juin 2012 concernant l’imprescriptibilité des actes d’ordre sexuel ou pornographique commis sur des enfants impubères, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5565](https://fedlex.data.admin.ch/eli/fga/2011/883)).
 [^1-5]: [RO 2009 6103](https://fedlex.data.admin.ch/eli/oc/2009/748)
 [^1-6]: Nouvelle teneur selon l’annexe ch. 1 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^1-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)*in fine*
+[^1-7]: Abrogée par l’annexe 1 ch. 4 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 2
 
@@ -576,7 +576,7 @@ Les dispositions ci-après s’appliquent au mineur condamné à la détention e
 
 Les cantons créent les établissements nécessaires à l’exécution du placement (art. 15) et de la privation de liberté (art. 27) au plus tard dix ans après l’entrée en vigueur de la présente loi.
 
-### Section 2*a***** Disposition transitoire relative à la modification du 19 juin 2015
+### Section 2*a* Disposition transitoire relative à la modification du 19 juin 2015
 
 [^chap6-sec2a-1]
 

@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul diritto penale minorile (Diritto p
 short: DPMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: it
-version: 2019-07-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20190701/it/xml/fedlex-data-admin-ch-eli-cc-2006-551-20190701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20190701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2006-551-20230123-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20190701/it"
 
 (Diritto penale minorile, DPMin)
 
-del 20 giugno 2003 (Stato 1° luglio 2019)
+del 20 giugno 2003 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -60,7 +60,7 @@ A complemento della presente legge si applicano per analogia le seguenti disposi
 - l. l’articolo 110 (Definizioni);
 - m. gli articoli 111–332 (Libro secondo: Disposizioni speciali);
 - n.[^1-6] gli articoli 333–392 (Libro terzo: Dell’attuazione e dell’applicazione del Codice penale), eccetto gli articoli 380 (Spese), 387 capoverso 1 lettera d e capoverso 2 (Disposizioni completive del Consiglio federale) e 388 capoverso 3 (Esecuzione di sentenze anteriori);
-- o. la cifra 3 delle disposizioni transitorie della modifica del 13 dicembre 2002[^1-7] (Casellario giudiziale).
+- o.[^1-7] ...
 
 <sup>3</sup> Nell’applicare le suddette disposizioni del CP vanno considerati i principi di cui all’articolo 2 nonché, nel suo interesse, l’età e il grado di sviluppo del minore.
 
@@ -70,7 +70,7 @@ A complemento della presente legge si applicano per analogia le seguenti disposi
 [^1-4]: Nuovo testo giusta il n. I 2 della LF del 15 giu. 2012 (Imprescrittibilità dei reati sessuali o di pornografia commessi su fanciulli impuberi), in vigore dal 1° gen. 2013 ([RU 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5393](https://fedlex.data.admin.ch/eli/fga/2011/883)).
 [^1-5]: [RU 2009 6103](https://fedlex.data.admin.ch/eli/oc/2009/748)
 [^1-6]: Nuovo testo giusta l’all. n. 1 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^1-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)in fine
+[^1-7]: Abrogato dall’all. 1 n. 4 della LF del 17 giu. 2016 sul casellario giudiziale informatizzato VOSTRA, con effetto dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 2
 
@@ -577,7 +577,7 @@ Ai minori che in virtù dell’ex articolo 95 numero 1 primo comma CP[^46-1] son
 
 I Cantoni creano al più tardi dopo dieci anni dall’entrata in vigore della presente legge gli istituti necessari per l’esecuzione del collocamento (art. 15) e della privazione della libertà (art. 27).
 
-### Sezione 2*a*:**** Disposizione transitoria della modifica del 19 giugno 2015
+### Sezione 2*a*: Disposizione transitoria della modifica del 19 giugno 2015
 
 [^chap6-sec2a-1]
 

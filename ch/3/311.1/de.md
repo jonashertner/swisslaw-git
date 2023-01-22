@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 2003 über das Jugendstrafrecht (Jugendstrafge
 short: JStG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/551"
 language: de
-version: 2019-07-01
+version: 2023-01-23
 adopted: 2003-06-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20190701/de/xml/fedlex-data-admin-ch-eli-cc-2006-551-20190701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20190701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/551/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2006-551-20230123-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/551/20190701/de"
 
 (Jugendstrafgesetz, JStG)
 
-vom 20. Juni 2003 (Stand am 1. Juli 2019)
+vom 20. Juni 2003 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -60,7 +60,7 @@ Ergänzend zu diesem Gesetz sind die folgenden Bestimmungen des StGB sinngemäss
 - l. Artikel 110 (Begriffe);
 - m. die Artikel 111–332 (Zweites Buch: Besondere Bestimmungen);
 - n.[^1-6] die Artikel 333–392 (Drittes Buch: Einführung und Anwendung des Gesetzes), mit Ausnahme der Artikel 380 (Kostentragung), 387 Absatz 1 Buchstabe d und 2 (Ergänzende Bestimmungen des Bundesrates) und 388 Absatz 3 (Vollzug früherer Urteile);
-- o. Ziffer 3 der Übergangsbestimmungen der Änderung vom 13. Dezember 2002[^1-7] (Strafregister).
+- o.[^1-7] …
 
 <sup>3</sup> Bei der Anwendung dieser Bestimmungen des StGB müssen die Grundsätze nach Artikel 2 beachtet sowie Alter und Entwicklungsstand des Jugendlichen zu seinen Gunsten berücksichtigt werden.
 
@@ -70,7 +70,7 @@ Ergänzend zu diesem Gesetz sind die folgenden Bestimmungen des StGB sinngemäss
 [^1-4]: Fassung gemäss Ziff. I 2 des BG vom 15. Juni 2012 (Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern vor der Pubertät), in Kraft seit 1. Jan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
 [^1-5]: [AS 2009 6103](https://fedlex.data.admin.ch/eli/oc/2009/748)
 [^1-6]: Fassung gemäss Anhang Ziff. 1 der Jugendstrafprozessordnung vom 20. März 2009, in Kraft seit 1. Jan. 2011 ([AS 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 3121](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^1-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)in fine
+[^1-7]: Aufgehoben durch Anhang 1 Ziff. 4 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 2
 
@@ -579,7 +579,7 @@ Auf Jugendliche, die nach dem bisherigen Artikel 95 Ziffer 1 Absatz 1 StGB[^46-1
 
 Die Kantone errichten bis spätestens zehn Jahre nach Inkrafttreten dieses Gesetzes die notwendigen Einrichtungen für den Vollzug der Unterbringung (Art. 15) und des Freiheitsentzugs (Art. 27).
 
-### 2*a*. Abschnitt:**** Übergangsbestimmung zur Änderung vom 19. Juni 2015
+### 2*a*. Abschnitt: Übergangsbestimmung zur Änderung vom 19. Juni 2015
 
 [^chap6-sec2a-1]
 
