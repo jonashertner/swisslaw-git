@@ -4,11 +4,11 @@ title: Verordnung vom 12. Oktober 2016 über die Informationssysteme des Bundes 
 short: IBSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/597"
 language: de
-version: 2020-07-01
+version: 2023-01-23
 adopted: 2016-10-12
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2016-597-20200701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2016-597-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20200701/de"
 
 (IBSV)
 
-vom 12. Oktober 2016 (Stand am 1. Juli 2020)
+vom 12. Oktober 2016 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -93,9 +93,11 @@ Der automatische Austausch von Daten ist zulässig:
 
 Die folgenden Daten werden während folgender verkürzten Dauer aufbewahrt:
 
-- a. Strafdaten, soweit sie zur Begründung eines Entscheids betreffend Erteilung, Sistierung oder Entzug einer Anerkennung als J+S-Kader erforderlich sind und sofern sie aus dem Strafregister entfernt worden sind: bis die betroffene Person die Vernichtung der Daten verlangt;
+- a.[^5-1] Strafdaten, soweit sie zur Begründung eines Entscheids betreffend Erteilung, Sistierung oder Entzug einer Anerkennung als J+S-Kader erforderlich sind und sofern sie im Strafregister-Informationssystems VOSTRA nicht mehr im Behördenauszug 2 erscheinen: bis die betroffene Person die Vernichtung der Daten verlangt;
 - b. Angaben über Untersuchungen und die Verhängung von Massnahmen im Zusammenhang mit Verstössen gegen Bestimmungen des fairen und sicheren Sports: bis zum unwiderruflichem Verlust der Wettkampflizenz bei Sportarten, bei denen die Teilnahme an Wettkämpfen nur mit Lizenz möglich ist;
 - c. alle übrigen Daten, die während zehn Jahren nicht verändert worden sind: bis die betroffene Person deren Vernichtung verlangt.
+
+[^5-1]: Fassung gemäss Anhang 10 Ziff. II 16 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## 3. Abschnitt: Zugriffsberechtigung für das Informationssystem für medizinische Daten und Aufbewahrungsdauer dieser Daten
 

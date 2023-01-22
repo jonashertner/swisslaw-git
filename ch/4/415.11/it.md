@@ -4,11 +4,11 @@ title: "Ordinanza del 12 ottobre 2016 sui sistemi d'informazione della Confedera
 short: OSISpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/597"
 language: it
-version: 2020-07-01
+version: 2023-01-23
 adopted: 2016-10-12
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2016-597-20200701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2016-597-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20200701/it"
 
 (OSISpo)
 
-del 12 ottobre 2016 (Stato 1° luglio 2020)
+del 12 ottobre 2016 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -93,9 +93,11 @@ Lo scambio automatico d’informazioni è ammesso:
 
 I seguenti dati sono conservati per le seguenti durate abbreviate:
 
-- a. dati penali, se necessari per motivare una decisione di rilascio, sospensione o revoca di un riconoscimento di quadro «G+S» e sempre che siano stati eliminati dal casellario giudiziale: fino a quando la persona interessata ne richiede la distruzione;
+- a.[^5-1] dati penali, se necessari per motivare una decisione di rilascio, sospensione o revoca di un riconoscimento di quadro «G+S» e sempre che non figurino più nell’estratto 2 per autorità del casellario giudiziale informatizzato VOSTRA: fino a quando la persona interessata ne richiede la distruzione;
 - b. indicazioni su inchieste e sulla pronuncia di misure in relazione a violazioni delle norme per la correttezza e sicurezza nello sport: fino al ritiro definitivo della licenza di competizione negli sport in cui essa costituisca il presupposto indispensabile per la partecipazione alle competizioni;
 - c. tutti gli altri dati che non sono stati modificati per dieci anni: fino a quando la persona interessata ne richiede la cancellazione.
+
+[^5-1]: Nuovo testo giusta l’all. 10 n. II 16 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## Sezione 3: Diritto di accesso al sistema d’informazione per i dati medici e durata del periodo di conservazione di tali dati
 

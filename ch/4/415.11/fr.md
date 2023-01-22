@@ -4,11 +4,11 @@ title: "Ordonnance du 12 octobre 2016 sur les systèmes d'information de la Conf
 short: OSIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/597"
 language: fr
-version: 2020-07-01
+version: 2023-01-23
 adopted: 2016-10-12
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-597-20200701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/597/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2016-597-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/597/20200701/fr"
 
 (OSIS)
 
-du 12 octobre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 12 octobre 2016 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -93,9 +93,11 @@ L’échange automatique de données est autorisé:
 
 Les données suivantes sont conservées pour une durée réduite:
 
-- a. données pénales, pour autant qu’elles soient nécessaires pour justifier une décision d’attribution, de suspension ou de retrait de reconnaissance de cadre J+S et qu’elles aient été éliminées du casier judiciaire: jusqu’à ce que la personne concernée demande leur destruction;
+- a.[^5-1] données pénales, pour autant qu’elles soient nécessaires pour justifier une décision d’attribution, de suspension ou de retrait de reconnaissance de cadre J+S et qu’elles ne figurent plus dans l’extrait 2 du casier judiciaire destiné aux autorités: jusqu’à ce que la personne concernée demande leur destruction;
 - b. données relatives à des enquêtes et au prononcé de mesures en cas de violation de dispositions relatives à l’éthique et à la sécurité dans le sport: jusqu’au retrait irrévocable de la licence de compétition dans les sports pour lesquels la participation aux compétitions n’est possible qu’avec une licence;
 - c. toutes les autres données n’ayant subi aucune modification pendant dix ans: jusqu’à ce que la personne concernée demande leur destruction.
+
+[^5-1]: Nouvelle teneur selon l’annexe 10 ch. II 16 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## Section 3 Droit d’accès au système d’information pour les données médicales et durée de conservation de ces données
 
