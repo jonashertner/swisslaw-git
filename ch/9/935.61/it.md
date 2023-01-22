@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2000 sulla libera circolazione degli avvoca
 short: LLCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: it
-version: 2021-03-01
+version: 2023-01-23
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2002-153-20210301-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2002-153-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/it"
 
 (Legge sugli avvocati, LLCA)
 
-del 23 giugno 2000 (Stato 1° marzo 2021) (Stato 1° marzo 2021)
+del 23 giugno 2000 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -131,13 +131,14 @@ Per poter essere iscritto nel registro, l’avvocato dev’essere titolare di un
 Per poter essere iscritto nel registro, l’avvocato deve adempiere le condizioni personali seguenti:
 
 - a. avere l’esercizio dei diritti civili;
-- b.[^8-1] non aver subìto condanne penali pronunciate per fatti incompatibili con la professione di avvocato, salvo che tali condanne non figurino più negli estratti del casellario giudiziale destinati a privati;
+- b.[^8-1] non aver subito condanne penali pronunciate per fatti incompatibili con la professione di avvocato, salvo che tali condanne non figurino più nell’estratto per privati di cui all’articolo 41 della legge del 17 giugno 2016[^8-2] sul casellario giudiziale;
 - c. non essere gravato da attestati di carenza di beni;
 - d. essere in grado di esercitare in piena indipendenza; può essere impiegato soltanto di persone iscritte a loro volta in un registro cantonale.
 
 <sup>2</sup> L’avvocato impiegato di un’organizzazione di pubblica utilità riconosciuta può chiedere di essere iscritto nel registro se adempie le condizioni di cui al capoverso 1 lettere a-c e se la rappresentanza in giudizio si limita esclusivamente a mandati affidatigli nell’ambito dello scopo perseguito da tale organizzazione.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4399](https://fedlex.data.admin.ch/eli/oc/2006/668); [FF 2005 5907](https://fedlex.data.admin.ch/eli/fga/2005/1029)).
+[^8-1]: Nuovo testo giusta l’all. 1 n. 13 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^8-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 
 #### Art. 9
 
@@ -415,7 +416,7 @@ L’avvocato può far uso, a fianco della denominazione professionale del Canton
 
 ...[^35-1]
 
-[^35-1]: La modifica può essere consultata alla [RU 2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153).
+[^35-1]: La mod. può essere consultata alla [RU 2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153).
 
 #### Art. 36
 
@@ -440,7 +441,7 @@ Data dell’entrata in vigore: 1° giugno 2002[^37-4]
 [^37-3]: Introdotto dal n. I della LF del 22 mar. 2002, in vigore dal 1° ago. 2002 ([RU 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2381](https://fedlex.data.admin.ch/eli/fga/2002/337)).
 [^37-4]: DCF del 24 apr. 2002.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 21 cpv. 1 e 27 cpv. 1)
 
@@ -454,7 +455,7 @@ Belgio Avocat/Advocaat/Rechtsanwalt
 
 Bulgaria Aдвокат
 
-Cipro Δικηγόρος
+Cipro ό
 
 Croazia Odvjetnik/Odvjetnica
 
@@ -468,7 +469,7 @@ Francia Avocat
 
 Germania Rechtsanwalt
 
-Grecia Δικηγορος
+Grecia 
 
 Irlanda Barrister, Solicitor
 

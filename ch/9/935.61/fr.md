@@ -4,11 +4,11 @@ title: "Loi fédérale du 23 juin 2000 sur la libre circulation des avocats (Loi
 short: LLCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: fr
-version: 2021-03-01
+version: 2023-01-23
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2002-153-20210301-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2002-153-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/fr"
 
 (Loi sur les avocats, LLCA)
 
-du 23 juin 2000 (Etat le 1<sup>er</sup> mars 2021)
+du 23 juin 2000 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -131,13 +131,14 @@ Pour être inscrit au registre, l’avocat doit être titulaire d’un brevet d�
 Pour être inscrit au registre, l’avocat doit remplir les conditions personnelles suivantes:
 
 - a. avoir l’exercice des droits civils;
-- b.[^8-1] ne pas faire l’objet d’une condamnation pénale pour des faits incompatibles avec la profession d’avocat, à moins que cette condamnation ne figure plus sur l’extrait privé du casier judiciaire;
+- b.[^8-1] ne pas faire l’objet d’une condamnation pénale pour des faits incompatibles avec la profession d’avocat, à moins que cette condamnation ne figure plus sur l’extrait destiné aux particuliers selon l’art. 41 de la loi du 17 juin 2016 sur le casier judiciaire[^8-2];
 - c. ne pas faire l’objet d’un acte de défaut de biens;
 - d. être en mesure de pratiquer en toute indépendance; il ne peut être employé que par des personnes elles-mêmes inscrites dans un registre cantonal.
 
 <sup>2</sup> L’avocat qui est employé par une organisation reconnue d’utilité publique peut demander à être inscrit au registre à condition de remplir les conditions prévues à l’al. 1, let. a à c, et de limiter son activité de défenseur à des mandats concernant strictement le but visé par cette organisation.
 
-[^8-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4399](https://fedlex.data.admin.ch/eli/oc/2006/668); [FF 2005 6207](https://fedlex.data.admin.ch/eli/fga/2005/1029)).
+[^8-1]: Nouvelle teneur selon l’annexe 1 ch. 13 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^8-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 
 #### Art. 9
 
@@ -440,7 +441,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> juin 2002[^37-4]
 [^37-3]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2477](https://fedlex.data.admin.ch/eli/fga/2002/337)).
 [^37-4]: ACF du 24 avril 2002
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 21, al. 1, et 27, al. 1)
 

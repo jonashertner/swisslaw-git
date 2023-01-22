@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. Juni 2000 über die Freizügigkeit der Anwältinnen
 short: BGFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: de
-version: 2021-03-01
+version: 2023-01-23
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2002-153-20210301-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2002-153-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/de"
 
 (Anwaltsgesetz, BGFA)
 
-vom 23. Juni 2000 (Stand am 1. März 2021)
+vom 23. Juni 2000 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^ingress-3]: BBl **1****999** 6013
+[^ingress-3]: [BBl 1999 6013](https://fedlex.data.admin.ch/eli/fga/1999/1_6013_5331_4983)
 
 ## 1. Abschnitt: Allgemeines
 
@@ -131,13 +131,14 @@ Für den Registereintrag müssen die Anwältinnen und Anwälte über ein Anwalts
 Für den Registereintrag müssen die Anwältinnen und Anwälte folgende persönliche Voraussetzungen erfüllen:
 
 - a. sie müssen handlungsfähig sein;
-- b.[^8-1] es darf keine strafrechtliche Verurteilung vorliegen wegen Handlungen, die mit dem Anwaltsberuf nicht zu vereinbaren sind, es sei denn, diese Verurteilung erscheine nicht mehr im Strafregisterauszug für Privatpersonen;
+- b.[^8-1] es darf keine strafrechtliche Verurteilung vorliegen wegen Handlungen, die mit dem Anwaltsberuf nicht zu vereinbaren sind, es sei denn, diese Verurteilung erscheine nicht mehr im Privatauszug nach Artikel 41 des Strafregistergesetzes vom 17. Juni 2016[^8-2];
 - c. es dürfen gegen sie keine Verlustscheine bestehen;
 - d. sie müssen in der Lage sein, den Anwaltsberuf unabhängig auszuüben; sie können Angestellte nur von Personen sein, die ihrerseits in einem kantonalen Register eingetragen sind.
 
 <sup>2</sup> Anwältinnen und Anwälte, die bei anerkannten gemeinnützigen Organisationen angestellt sind, können sich ins Register eintragen lassen, sofern die Voraussetzungen nach Absatz 1 Buchstaben a–c erfüllt sind und sich die Tätigkeit der Parteivertretung strikte auf Mandate im Rahmen des von der betroffenen Organisation verfolgten Zwecks beschränkt.
 
-[^8-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4399](https://fedlex.data.admin.ch/eli/oc/2006/668); [BBl 2005 6621](https://fedlex.data.admin.ch/eli/fga/2005/1029)).
+[^8-1]: Fassung gemäss Anhang 1 Ziff. 13 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^8-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 
 #### Art. 9
 
@@ -413,7 +414,7 @@ Die Anwältinnen und Anwälte können neben der Berufsbezeichnung des Kantons, i
 
 **Änderung bisherigen Rechts**
 
-...[^35-1]
+…[^35-1]
 
 [^35-1]: Die Änderung kann unter [AS 2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)konsultiert werden.
 
@@ -439,7 +440,7 @@ Datum des Inkrafttretens: 1. Juni 2002
 [^37-2]: [AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139). Dieses BG ist am 1. Juni 2002 in Kraft getreten.
 [^37-3]: Eingefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)).
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 21 Abs. 1 und 27 Abs. 1)
 
@@ -461,7 +462,7 @@ Finnland Asianajaja/Advokat
 
 Frankreich Avocat
 
-Griechenland Δικηγορος
+Griechenland 
 
 Irland Barrister, Solicitor
 
@@ -507,4 +508,4 @@ Ungarn Ügyvéd
 
 Vereinigtes Königreich Advocate/Barrister/Solicitor
 
-Zypern Δικηγόρος
+Zypern ό

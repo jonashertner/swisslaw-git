@@ -4,11 +4,11 @@ title: "Federal Act of 23 June 2000 on the Free Movement of Lawyers (Lawyers Act
 short: FMLA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: en
-version: 2021-03-01
+version: 2023-01-23
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2002-153-20210301-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2002-153-20230123-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Lawyers Act, FMLA)
 
-of 23 June 2000 (Status as of 1 March 2021)
+of 23 June 2000 (Status as of 23 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -133,13 +133,14 @@ To be entered on the roll, the lawyer must hold a lawyer’s practising certific
 To be entered on the roll, the lawyer must satisfy the following personal requirements:
 
 - a. they must have the capacity to act;
-- b.[^8-1] they must not have any criminal conviction for offences incompatible with the profession of being a lawyer, unless this conviction no longer appears in the criminal records extract for private individuals;
+- b.[^8-1] they must not have any criminal conviction for offences incompatible with the profession of being a lawyer, unless this conviction no longer appears on a standard private extract in accordance with Article 41 of the Criminal Records Register Act of 17 June 2016[^8-2];
 - c. they must not have any unpaid debt certificates issued against them;
 - d. they must be able to practise as a lawyer independently; they may be an employee only of persons who are also entered on a cantonal roll.
 
 <sup>2</sup> Lawyers employed by recognised charitable organisations may be entered on the roll provided they satisfy the requirements of paragraph 1 letters a–c and they strictly limit their activities of client representation to mandates that fall under the objects pursued by the organisation concerned.
 
-[^8-1]: Amended by No I of the FA of 23 June 2006, in force since 1 Jan. 2007 ([AS 2006 4399](https://fedlex.data.admin.ch/eli/oc/2006/668); [BBl 2005 6621](https://fedlex.data.admin.ch/eli/fga/2005/1029)).
+[^8-1]: Amended by Annex 1 No 13 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^8-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 
 #### Art. 9
 
@@ -441,7 +442,7 @@ Commencement date: 1 June 2002
 [^37-2]: [AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139). This FA came into force on 1 June 2002.
 [^37-3]: Inserted by No I of the FA of 22 March 2002, in force since 1 Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)).
 
-Annex*[^t-1]*
+Annex[^t-1]
 
 (Art. 21 para. 1 and 27 para. 1)
 
@@ -463,7 +464,7 @@ Finland Asianajaja/Advokat
 
 France Avocat
 
-Greece Δικηγορος
+Greece 
 
 Ireland Barrister, Solicitor
 
@@ -509,4 +510,4 @@ Hungary Ügyvéd
 
 United Kingdom Advocate/Barrister/Solicitor
 
-Cyprus Δικηγόρος
+Cyprus ό
