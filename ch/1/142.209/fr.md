@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 sur les émoluments perçus en application
 short: Oem-LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: fr
-version: 2023-01-11
+version: 2023-01-23
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230111/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230111-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230111/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230111/fr"
 
 (Tarif des émoluments LEI, Oem-LEI)
 
-du 24 octobre 2007 (État le 11 janvier 2023)
+du 24 octobre 2007 (État le 23 janvier 2023)
 
 Le Conseil fédéral,
 
@@ -104,7 +104,7 @@ S’agissant des émoluments cantonaux, la procédure est régie par le droit ca
 <tr><td>f. pour la prolongation de la validité de l’autorisation pour étrangers établis</td><td>65</td></tr>
 <tr><td>g. pour la prolongation du délai pendant lequel l’autorisation d’établissement d’un étranger séjournant hors de Suisse demeure valable</td><td>65</td></tr>
 <tr><td>h. pour la prolongation du titre de séjour pour les personnes admises à titre provisoire</td><td>40</td></tr>
-<tr><td>i. pour la demande d’un extrait du casier judiciaire</td><td>25</td></tr>
+<tr><td>i.[^8-2] pour la demande d’un extrait du casier judiciaire informatique VOSTRA ou d’un casier judiciaire étranger</td><td>25</td></tr>
 <tr><td>j. pour tout changement dans le système d’information central sur la migration (SYMIC) qui n’implique pas de remplacement du titre de séjour, en particulier pour les changements d’adresse</td><td>30</td></tr>
 <tr><td>k. pour la confirmation de l’annonce d’un travailleur ou d’un indépendant</td><td>25</td></tr>
 <tr><td>l. pour l’examen, la saisie et le traitement dans le SYMIC de toute autre modification du contenu d’un titre de séjour</td><td>40</td></tr>
@@ -129,9 +129,9 @@ S’agissant des émoluments cantonaux, la procédure est régie par le droit ca
 
 <sup>4</sup>
 
-Pour les ressortissants d’un État partie à l’ALCP[^8-2] ou d’un État membre de l’AELE ainsi que pour les travailleurs détachés pour une durée supérieure à 90 jours ouvrables sur une année civile par une entreprise établie dans un État partie à l’ALCP ou un État membre de l’AELE, les émoluments maximaux suivants sont applicables:
+Pour les ressortissants d’un État partie à l’ALCP[^8-3] ou d’un État membre de l’AELE ainsi que pour les travailleurs détachés pour une durée supérieure à 90 jours ouvrables sur une année civile par une entreprise établie dans un État partie à l’ALCP ou un État membre de l’AELE, les émoluments maximaux suivants sont applicables:
 
-- a.[^8-3] pour l’ensemble des prestations liées à la procédure d’autorisation visée à l’al. 1, let. a, b ou e, à l’établissement et à la production des titres de séjour visés à l’al. 2 , let. b, et pour le relevé et la saisie des données visés à l’al. 3, let. b, 65 francs au maximum;
+- a.[^8-4] pour l’ensemble des prestations liées à la procédure d’autorisation visée à l’al. 1, let. a, b ou e, à l’établissement et à la production des titres de séjour visés à l’al. 2 , let. b, et pour le relevé et la saisie des données visés à l’al. 3, let. b, 65 francs au maximum;
 - b. lors de la production d’une assurance d’autorisation (al. 1, let. a), aucun émolument supplémentaire n’est prélevé;
 - c. pour les personnes célibataires de moins de 18 ans, pour l’ensemble des prestations liées aux procédures d’autorisation visées à l’al. 1, let. a à h, l et m, à l’établissement et à la production du titre de séjour visés à l’al. 2, let. b, et pour le relevé et la saisie des données visés à l’al. 3, let. b, 30 francs au maximum. Pour les prestations visées à l’al. 1, let. i et j, 20 francs au maximum.
 
@@ -147,8 +147,9 @@ Pour les ressortissants d’un État qui n’est ni partie à l’ALCP ni membre
 <sup>7</sup> Des émoluments peuvent être prélevés pour des décisions de refus. Leur montant est calculé en fonction du travail effectué.
 
 [^8-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^8-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^8-3]: Nouvelle teneur selon le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1841](https://fedlex.data.admin.ch/eli/oc/2020/373)).
+[^8-2]: Nouvelle teneur selon l’annexe 10 ch. II 2 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^8-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^8-4]: Nouvelle teneur selon le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1841](https://fedlex.data.admin.ch/eli/oc/2020/373)).
 
 #### Art. 9
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über die Gebühren zum Ausländer- und 
 short: GebV-AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: de
-version: 2023-01-11
+version: 2023-01-23
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230111/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230111-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230111/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230111/de"
 
 (Gebührenverordnung AIG, GebV-AIG)
 
-vom 24. Oktober 2007 (Stand am 11. Januar 2023)
+vom 24. Oktober 2007 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -105,7 +105,7 @@ Das Verfahren bei kantonalen Gebühren richtet sich nach kantonalem Recht.
 <tr><td>f. für die Verlängerung der Kontrollfrist des Ausländerausweises über die Niederlassungsbewilligung</td><td>65</td></tr>
 <tr><td>g. für die Verlängerung der Frist, während der die Niederlassungsbewilligung bei Auslandaufenthalt bestehen bleibt</td><td>65</td></tr>
 <tr><td>h. für die Verlängerung des Ausländerausweises für vorläufig aufgenommene Personen</td><td>40</td></tr>
-<tr><td>i. für das Einholen eines Strafregisterauszugs</td><td>25</td></tr>
+<tr><td>i.[^8-2] für das Einholen eines Auszugs aus dem Strafregister-Informationssystem VOSTRA oder aus einem ausländischen Strafregister</td><td>25</td></tr>
 <tr><td>j. für jede Änderung im Zentralen Migrationsinformationssystem (ZEMIS), die keine neue Ausstellung eines Ausweises verlangt, insbesondere für Adressänderungen</td><td>30</td></tr>
 <tr><td>k. für die Meldebestätigung für Arbeitnehmerinnen und Arbeitnehmer und selbstständig erwerbstätige Personen</td><td>25</td></tr>
 <tr><td>l. für die Prüfung, Erfassung und Bearbeitung aller übrigen Änderungen eines Ausländerausweises im ZEMIS</td><td>40</td></tr>
@@ -130,9 +130,9 @@ Das Verfahren bei kantonalen Gebühren richtet sich nach kantonalem Recht.
 
 <sup>4</sup>
 
-Für Staatsangehörige eines Vertragsstaates des FZA[^8-2] oder eines Mitgliedstaates der EFTA sowie für Arbeitnehmerinnen und Arbeitnehmer, die von einem Unternehmen mit Sitz in einem Vertragsstaat des FZA oder einem Mitgliedstaat der EFTA für mehr als 90 Arbeitstage innerhalb eines Kalenderjahres in die Schweiz entsandt wurden, gelten die folgenden Höchstgebühren:
+Für Staatsangehörige eines Vertragsstaates des FZA[^8-3] oder eines Mitgliedstaates der EFTA sowie für Arbeitnehmerinnen und Arbeitnehmer, die von einem Unternehmen mit Sitz in einem Vertragsstaat des FZA oder einem Mitgliedstaat der EFTA für mehr als 90 Arbeitstage innerhalb eines Kalenderjahres in die Schweiz entsandt wurden, gelten die folgenden Höchstgebühren:
 
-- a.[^8-3] Für das Bewilligungsverfahren nach Absatz 1 Buchstabe a, b oder e sowie für die Ausstellung und Herstellung des Ausländerausweises nach Absatz 2 Buchstabe b und für die Abnahme und Erfassung der Daten nach Absatz 3 Buchstabe b beträgt die Höchstgebühr gesamthaft 65 Franken.
+- a.[^8-4] Für das Bewilligungsverfahren nach Absatz 1 Buchstabe a, b oder e sowie für die Ausstellung und Herstellung des Ausländerausweises nach Absatz 2 Buchstabe b und für die Abnahme und Erfassung der Daten nach Absatz 3 Buchstabe b beträgt die Höchstgebühr gesamthaft 65 Franken.
 - b. Legen diese Personen eine Zusicherung der Bewilligung (Abs. 1 Bst. a) vor, so erhebt die zuständige kantonale Behörde keine zusätzliche Gebühr.
 - c. Für ledige Personen unter 18 Jahren beträgt die Höchstgebühr für die Bewilligungsverfahren nach Absatz 1 Buchstaben a–h, l und m, für die Ausstellung und Herstellung des Ausländerausweises nach Absatz 2 Buchstabe b und für die Abnahme und Erfassung der Daten nach Absatz 3 Buchstabe b gesamthaft 30 Franken. Für die Leistungen nach Absatz 1 Buchstaben i und j beträgt die Höchstgebühr je 20 Franken.
 
@@ -148,8 +148,9 @@ Sind Staatsangehörige von Staaten, die weder Vertragsstaat des FZA noch Mitglie
 <sup>7</sup> Für ablehnende Entscheide können Gebühren erhoben werden. Deren Höhe bemisst sich nach dem effektiven Aufwand.
 
 [^8-1]: Fassung gemäss Anhang Ziff. 2 der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^8-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^8-3]: Fassung gemäss Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1841](https://fedlex.data.admin.ch/eli/oc/2020/373)).
+[^8-2]: Fassung gemäss Anhang 10 Ziff. II 2 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^8-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^8-4]: Fassung gemäss Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1841](https://fedlex.data.admin.ch/eli/oc/2020/373)).
 
 #### Art. 9
 

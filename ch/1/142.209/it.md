@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sugli emolumenti della legge federale sugl
 short: OEmol-LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: it
-version: 2023-01-11
+version: 2023-01-23
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230111/it/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230111-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230111/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2007-763-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20230111/it"
 
 (Ordinanza sugli emolumenti LStrI, OEmol-LStrI)
 
-del 24 ottobre 2007 (Stato 11 gennaio 2023)
+del 24 ottobre 2007 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -105,7 +105,7 @@ Per gli emolumenti cantonali, la procedura è retta dal diritto cantonale.
 <tr><td>f. per la proroga del termine di controllo della carta di soggiorno certificante il domicilio</td><td>65</td></tr>
 <tr><td>g. per la proroga del termine durante il quale resta in vigore il permesso di domicilio di uno straniero che si trova all’estero</td><td>65</td></tr>
 <tr><td>h. per la proroga della carta di soggiorno di persone ammesse provvisoriamente</td><td>40</td></tr>
-<tr><td>i. per la richiesta di un estratto del casellario giudiziale</td><td>25</td></tr>
+<tr><td>i.[^8-2] per la richiesta di un estratto del casellario giudiziale informatizzato VOSTRA o di un casellario giudiziale estero</td><td>25</td></tr>
 <tr><td>j. per tutti i cambiamenti nel Sistema d’informazione centrale sulla migrazione (SIMIC) che non richiedono il rilascio di una nuova carta di soggiorno, nello specifico per il cambiamento di indirizzo</td><td>30</td></tr>
 <tr><td>k. per la conferma della notifica dei lavoratori e dei lavoratori indipendenti</td><td>25</td></tr>
 <tr><td>l. per la verifica, la registrazione e il trattamento in SIMIC di tutte le restanti modifiche alla carta di soggiorno</td><td>40</td></tr>
@@ -130,9 +130,9 @@ Per gli emolumenti cantonali, la procedura è retta dal diritto cantonale.
 
 <sup>4</sup>
 
-Per i cittadini di uno Stato parte dell’ALC[^8-2] o di uno Stato membro dell’AELS e per i lavoratori distaccati da un’impresa con sede in uno Stato parte dell’ALC o in uno Stato membro dell’AELS per un soggiorno in Svizzera di oltre 90 giorni lavorativi nell’arco di un anno civile, vigono gli emolumenti massimi seguenti:
+Per i cittadini di uno Stato parte dell’ALC[^8-3] o di uno Stato membro dell’AELS e per i lavoratori distaccati da un’impresa con sede in uno Stato parte dell’ALC o in uno Stato membro dell’AELS per un soggiorno in Svizzera di oltre 90 giorni lavorativi nell’arco di un anno civile, vigono gli emolumenti massimi seguenti:
 
-- a.[^8-3] l’emolumento per la procedura di cui al capoverso 1 lettera a, b o e, nonché per l’allestimento e la produzione della carta di soggiorno secondo il capoverso 2 lettera b e per il rilevamento e la registrazione dei dati secondo il capoverso 3 lettera b ammonta a 65 franchi al massimo;
+- a.[^8-4] l’emolumento per la procedura di cui al capoverso 1 lettera a, b o e, nonché per l’allestimento e la produzione della carta di soggiorno secondo il capoverso 2 lettera b e per il rilevamento e la registrazione dei dati secondo il capoverso 3 lettera b ammonta a 65 franchi al massimo;
 - b. la competente autorità cantonale rinuncia a prelevare un emolumento supplementare se le persone interessate presentano un’assicurazione del rilascio di un permesso (cpv. 1 lett. a);
 - c. per le persone non coniugate e minori di 18 anni, l’emolumento per le procedure di autorizzazione di cui al capoverso 1 lettere a–h, l ed m, nonché per l’allestimento e la produzione della carta di soggiorno secondo il capoverso 2 lettera b e per il rilevamento e la registrazione dei dati secondo il capoverso 3 lettera b, ammonta complessivamente a 30 franchi al massimo. L’emolumento per le prestazioni di cui al capoverso 1 lettere i e j ammonta a 20 franchi al massimo.
 
@@ -148,8 +148,9 @@ Per i cittadini di uno Stato non parte dell’ALC e non membro dell’AELS, memb
 <sup>7</sup> Possono essere prelevati emolumenti per decisioni di rifiuto. Il loro ammontare è determinato in base al tempo effettivamente impiegato.
 
 [^8-1]: Nuovo testo giusta l’all. n. 2 dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^8-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^8-3]: Nuovo testo giusta il n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1841](https://fedlex.data.admin.ch/eli/oc/2020/373)).
+[^8-2]: Nuovo testo giusta l’all. 10 n. II 2 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^8-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^8-4]: Nuovo testo giusta il n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1841](https://fedlex.data.admin.ch/eli/oc/2020/373)).
 
 #### Art. 9
 
