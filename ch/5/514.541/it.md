@@ -4,11 +4,11 @@ title: "Ordinanza del 2 luglio 2008 sulle armi, gli accessori di armi e le muniz
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230101/it"
 
 (Ordinanza sulle armi, OArm)
 
-del 2 luglio 2008 (Stato 1° gennaio 2023)
+del 2 luglio 2008 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -300,23 +300,24 @@ Chiunque aliena un’arma da fuoco o una parte essenziale di arma da fuoco al ti
 La domanda va inviata alla competente autorità cantonale con i seguenti allegati:
 
 - a. una lista, firmata dal rappresentante degli eredi, dei singoli oggetti ereditati con l’indicazione del tipo, del fabbricante, del calibro, della designazione e del numero dell’arma;
-- b. un estratto del casellario giudiziale svizzero, rilasciato al massimo tre mesi prima della presentazione della domanda;
+- b.[^11-2] …
 - c. una copia del passaporto valido o della carta d’identità valida;
 - d. se del caso, l’attestazione ufficiale di cui all’articolo 9*c*;
-- e. in caso di armi da fuoco, la prova di aver adottato le misure appropriate per garantire la custodia in sicurezza.[^11-2]
+- e. in caso di armi da fuoco, la prova di aver adottato le misure appropriate per garantire la custodia in sicurezza.[^11-3]
 
 <sup>4</sup> Se le condizioni per il rilascio di un’autorizzazione eccezionale sono adempite, la competente autorità cantonale rilascia un’unica autorizzazione per tutti gli oggetti elencati nella lista.
 
-<sup>4bis</sup> Il rappresentante degli eredi deve informare l’autorità competente entro 30 giorni della divisione ereditaria e comunicarle quale oggetto è stato attribuito a quale erede. Se sono state attribuite armi da fuoco o parti essenziali di armi da fuoco al rappresentante degli eredi, l’autorità competente può obbligarlo a chiedere il rilascio, entro sei mesi dalla divisione ereditaria, di una nuova autorizzazione eccezionale per tali oggetti. È applicabile il capoverso 4.[^11-3]
+<sup>4bis</sup> Il rappresentante degli eredi deve informare l’autorità competente entro 30 giorni della divisione ereditaria e comunicarle quale oggetto è stato attribuito a quale erede. Se sono state attribuite armi da fuoco o parti essenziali di armi da fuoco al rappresentante degli eredi, l’autorità competente può obbligarlo a chiedere il rilascio, entro sei mesi dalla divisione ereditaria, di una nuova autorizzazione eccezionale per tali oggetti. È applicabile il capoverso 4.[^11-4]
 
-<sup>5</sup> Se in seguito alla divisione ereditaria un erede, che non sia il rappresentante degli eredi, acquista uno o più oggetti elencati nella lista, egli presenta a proprio nome, entro sei mesi dalla divisione ereditaria, una domanda per l’autorizzazione eccezionale. È applicabile il capoverso 4.[^11-4]
+<sup>5</sup> Se in seguito alla divisione ereditaria un erede, che non sia il rappresentante degli eredi, acquista uno o più oggetti elencati nella lista, egli presenta a proprio nome, entro sei mesi dalla divisione ereditaria, una domanda per l’autorizzazione eccezionale. È applicabile il capoverso 4.[^11-5]
 
 <sup>6</sup> È competente l’autorità cantonale del luogo di domicilio dell’acquirente. L’autorità trasmette una copia dell’autorizzazione all’autorità competente dell’ultimo luogo di domicilio dell’ereditando.
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-3]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-4]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-2]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^11-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-4]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-5]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 12
 
@@ -329,10 +330,10 @@ La domanda va inviata alla competente autorità cantonale con i seguenti allegat
 L’acquisto, il possesso, l’offerta, la mediazione e l’alienazione di armi, parti di armi essenziali o appositamente costruite, accessori di armi, munizioni ed elementi di munizioni, nonché il porto di armi e il tiro con armi da fuoco sono vietati ai cittadini dei seguenti Stati:
 
 - a. Serbia;
-- b.[^12-1] ...
+- b.[^12-1] …
 - c. Bosnia ed Erzegovina;
 - d. Kosovo;
-- e.[^12-2] ...
+- e.[^12-2] …
 - f. Macedonia;
 - g. Turchia;
 - h. Sri Lanka;
@@ -345,13 +346,14 @@ L’acquisto, il possesso, l’offerta, la mediazione e l’alienazione di armi,
 
 Le persone che chiedono un’autorizzazione eccezionale ai sensi del capoverso 2 devono compilare l’apposito modulo e inviarlo alla competente autorità cantonale con i seguenti allegati:
 
-- a. un estratto dal casellario giudiziale svizzero, rilasciato al massimo tre mesi prima della presentazione della domanda;
+- a.[^12-4] …
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. una motivazione scritta della domanda.
 
 [^12-1]: Abrogata dal n. I dell’O del 12 feb. 2014, con effetto dal 15 mar. 2014 ([RU 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
 [^12-2]: Abrogata dal n. I dell’O del 12 feb. 2014, con effetto dal 15 mar. 2014 ([RU 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
 [^12-3]: Nuovo testo giusta il n. I dell’O del 12 feb. 2014, in vigore dal 15 mar. 2014 ([RU 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
+[^12-4]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13
 
@@ -429,9 +431,11 @@ Le autorità cantonali competenti rilasciano autorizzazioni eccezionali per armi
 
 Il modulo va inviato alla competente autorità cantonale con i seguenti allegati:
 
-- a. un estratto dal casellario giudiziale svizzero, rilasciato al massimo tre mesi prima della presentazione della domanda;
+- a.[^13d-1] …
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. se del caso, l’attestazione ufficiale di cui all’articolo 9*c*.
+
+[^13d-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13e
 
@@ -490,11 +494,13 @@ I Cantoni possono precisare i requisiti relativi alle misure appropriate per gar
 
 Il modulo va inviato alla competente autorità cantonale con i seguenti allegati:
 
-- a. un estratto dal casellario giudiziale svizzero, rilasciato al massimo tre mesi prima della presentazione della domanda;
+- a.[^13h-1] …
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. se del caso, l’attestazione ufficiale di cui all’articolo 9*c*;
 - d. la prova che sono state adottate misure appropriate per garantire la custodia in sicurezza;
 - e. la lista aggiornata di cui all’articolo 28*e* capoverso 2 LArm.
+
+[^13h-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13i
 
@@ -510,7 +516,7 @@ La competente autorità cantonale può rilasciare un’autorizzazione eccezional
 
 #### Art. 14
 
-**...[^14-1]**
+**…[^14-1]**
 
 L’autorità cantonale competente può rilasciare un’autorizzazione eccezionale per il tiro con armi da fuoco in luoghi accessibili al pubblico al di fuori delle manifestazioni di tiro ufficialmente autorizzate e al di fuori delle piazze di tiro se le condizioni di cui all’articolo 28*c* capoverso 3 LArm sono adempite e:[^14-2]
 
@@ -538,11 +544,13 @@ L’autorità cantonale competente può rilasciare un’autorizzazione ecceziona
 
 Il modulo va inviato alla competente autorità cantonale con i seguenti allegati:
 
-- a. un estratto dal casellario giudiziale svizzero, rilasciato al massimo tre mesi prima della presentazione della domanda;
+- a.[^15-1] …
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. l’attestazione ufficiale di cui all’articolo 9*a* LArm.
 
 <sup>3</sup> La competente autorità cantonale controlla che le condizioni per l’acquisto di armi siano adempite.
+
+[^15-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -589,15 +597,16 @@ Se non vi sono indizi contrari, l’alienante è autorizzato a presupporre l’a
 - a. è un membro della comunione domestica o un congiunto ai sensi dell’articolo 110 capoversi 1 e 2 del Codice penale[^18-1]; oppure
 - b. presenta un permesso d’acquisto per un’arma che gli è stato rilasciato da meno di due anni.
 
-<sup>3</sup> Se, considerate le circostanze, dubita che le condizioni per l’alienazione dell’arma siano adempite, l’alienante deve esigere dall’acquirente un estratto del casellario giudiziale svizzero, rilasciato al massimo tre mesi prima dell’alienazione, o chiedere, con il consenso scritto dell’acquirente, le necessarie informazioni presso le autorità o le persone competenti.
+<sup>3</sup> Se, considerate le circostanze, dubita che le condizioni per l’alienazione dell’arma siano adempite, l’alienante deve esigere dall’acquirente un estratto per privati del casellario giudiziale informatizzato VOSTRA[^18-2], rilasciato al massimo tre mesi prima dell’alienazione, o chiedere, con il consenso scritto dell’acquirente, le necessarie informazioni presso le autorità o le persone competenti.
 
-<sup>3bis</sup> Se è alienata un’arma da fuoco, l’alienante deve effettuare una copia del passaporto valido o della carta d’identità valida dell’acquirente.[^18-2]
+<sup>3bis</sup> Se è alienata un’arma da fuoco, l’alienante deve effettuare una copia del passaporto valido o della carta d’identità valida dell’acquirente.[^18-3]
 
-<sup>4</sup> Il contratto scritto, l’estratto del casellario giudiziale svizzero e la copia del passaporto valido o della carta d’identità valida devono essere conservati. Se è stata alienata un’arma da fuoco, l’alienante deve trasmettere una copia dei documenti al servizio di comunicazione cantonale.[^18-3]
+<sup>4</sup> Il contratto scritto, l’estratto per privati del casellario giudiziale informatizzato VOSTRA e la copia del passaporto valido o della carta d’identità valida devono essere conservati. Se è stata alienata un’arma da fuoco, l’alienante deve trasmettere una copia dei documenti al servizio di comunicazione cantonale.[^18-4]
 
 [^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-2]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^18-2]: Nuova espr. giusta l’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^18-3]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^18-4]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 19
 
@@ -699,7 +708,7 @@ L’alienante è autorizzato a presupporre l’assenza di un motivo d’impedime
 - a. non sussistono indizi contrari; e
 - b. l’acquirente presenta per l’arma un’autorizzazione eccezionale o un permesso d’acquisto di armi rilasciatagli da meno di due anni oppure una carta europea d’arma da fuoco valida.
 
-<sup>3</sup> Se, considerate le circostanze, dubita che le condizioni per l’alienazione dell’arma siano adempite, l’alienante deve esigere dall’acquirente un estratto del casellario giudiziale svizzero, rilasciato al massimo tre mesi prima dell’alienazione, o chiedere, con il consenso scritto dell’alienante, le necessarie informazioni presso le autorità o persone competenti.
+<sup>3</sup> Se, considerate le circostanze, dubita che le condizioni per l’alienazione dell’arma siano adempite, l’alienante deve esigere dall’acquirente un estratto per privati del casellario giudiziale informatizzato VOSTRA, rilasciato al massimo tre mesi prima dell’alienazione, o chiedere, con il consenso scritto dell’alienante, le necessarie informazioni presso le autorità o persone competenti.
 
 ### Sezione 4: Acquisto di caricatori ad alta capacità di colpi
 
@@ -821,7 +830,7 @@ Per munizioni per armi da pugno con effetto deformante si intendono le munizioni
 
 Chiunque chiede una patente di commercio di armi deve compilare l’apposito modulo e inviarlo alla competente autorità cantonale con i seguenti allegati:
 
-- a. un estratto del casellario giudiziale svizzero, rilasciato al massimo tre mesi prima della presentazione della domanda;
+- a.[^28-1] …
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. un estratto del registro di commercio;
 - d. l’attestato di superamento dell’esame per la patente di commercio di armi;
@@ -837,6 +846,8 @@ La parte pratica dell’esame non è richiesta per chi:
 - b. è titolare di un certificato federale di capacità di armaiolo.
 
 <sup>4</sup> Chiunque intende partecipare a mercati pubblici di armi in Svizzera, non necessita, per la durata della manifestazione, di una patente di commercio di armi svizzera se invia all’autorità cantonale competente una copia autenticata della patente di commercio di armi valida all’estero.
+
+[^28-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 28a
 
@@ -1120,7 +1131,7 @@ La domanda di autorizzazione eccezionale per l’introduzione nel territorio svi
 
 - a. una copia della patente di commercio di armi;
 - b.[^34-2] l’autorizzazione cantonale eccezionale di cui all’articolo 5 capoverso 6 LArm;
-- c.[^34-3] ...
+- c.[^34-3] …
 
 <sup>1bis</sup> Se la domanda concerne l’introduzione nel territorio svizzero a titolo professionale di armi di cui all’articolo 5 capoverso 1 lettera a, e o f LArm o di loro parti appositamente costruite, l’Ufficio centrale Armi esige la prova che gli oggetti soggetti all’obbligo di autorizzazione eccezionale sono necessari per coprire il fabbisogno delle autorità ai sensi dell’articolo 2 capoverso 1 LArm o di altri committenti. Limita l’autorizzazione eccezionale di conseguenza.[^34-4]
 
@@ -1158,13 +1169,14 @@ La domanda di autorizzazione eccezionale per l’introduzione nel territorio svi
 
 La domanda di autorizzazione eccezionale per l’introduzione nel territorio svizzero a titolo non professionale di munizioni vietate ai sensi dell’articolo 26 deve essere inoltrata con l’apposito modulo e i seguenti allegati all’Ufficio centrale Armi:
 
-- a. un estratto del casellario giudiziale svizzero, rilasciato al massimo tre mesi prima dell’inoltro della domanda;
+- a.[^35-4] …
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. l’indicazione del motivo dell’introduzione nel territorio svizzero (art. 26 cpv. 2).
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 [^35-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 [^35-3]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^35-4]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### Sezione 2: Introduzione nel territorio svizzero a titolo professionale
 
@@ -1219,7 +1231,7 @@ La domanda di autorizzazione eccezionale per l’introduzione nel territorio svi
 La domanda di autorizzazione per l’introduzione a titolo non professionale di armi, parti essenziali di armi, munizioni o elementi di munizioni nel territorio svizzero deve essere presentata all’Ufficio centrale Armi con l’apposito modulo e gli allegati seguenti:
 
 - a.[^39-2] l’originale del permesso d’acquisto di armi rilasciato dalla competente autorità cantonale se per l’oggetto da introdurre nel territorio svizzero è necessario tale permesso;
-- b.[^39-3] un estratto del casellario giudiziale svizzero, rilasciato al massimo tre mesi prima della presentazione della domanda se si tratta di armi o di loro parti essenziali di cui all’articolo 10 capoverso 1 LArm oppure di munizioni o elementi di munizioni;
+- b.[^39-3] …
 - c. una copia del passaporto valido o della carta d’identità valida;
 - d. l’attestazione ufficiale di cui all’articolo 9*a* LArm.
 
@@ -1227,7 +1239,7 @@ La domanda di autorizzazione per l’introduzione a titolo non professionale di 
 
 [^39-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^39-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^39-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^39-3]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 40
 
@@ -1241,7 +1253,7 @@ La domanda di autorizzazione per l’introduzione a titolo non professionale di 
 
 <sup>3</sup> I cacciatori e i tiratori non necessitano di un’autorizzazione se sono in grado di dimostrare il motivo del viaggio, segnatamente mediante un invito a un evento di caccia o sportivo, e se le armi da fuoco trasportate sono iscritte nella carta europea d’arma da fuoco
 
-<sup>4</sup> ...[^40-1]
+<sup>4</sup> …[^40-1]
 
 [^40-1]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
@@ -1370,13 +1382,15 @@ L’Ufficio centrale Armi rilascia la bolletta di scorta se:
 
 La domanda deve essere corredata di:
 
-- a. un estratto del casellario giudiziale svizzero, rilasciato al massimo tre mesi prima della presentazione della domanda;
+- a.[^46-1] …
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. due fototessere recenti.
 
 <sup>4</sup> L’autorità cantonale competente annota nella carta europea d’arma da fuoco tutte le armi che il richiedente è autorizzato a possedere.
 
 <sup>5</sup> La carta europea d’arma da fuoco è valida cinque anni. La sua durata di validità può essere prorogata due volte di due anni.
+
+[^46-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## Capitolo 6: Custodia, porto e trasporto di armi e munizioni, porto abusivo di oggetti pericolosi
 
@@ -1402,7 +1416,7 @@ La domanda deve essere corredata di:
 
 Chiunque intende ottenere un permesso di porto di armi deve compilare l’apposito modulo e inviarlo alla competente autorità cantonale con i seguenti allegati:
 
-- a. un estratto del casellario giudiziale svizzero, rilasciato al massimo tre mesi prima della presentazione della domanda;
+- a.[^48-1] …
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. due fototessere recenti.
 
@@ -1411,6 +1425,8 @@ Chiunque intende ottenere un permesso di porto di armi deve compilare l’apposi
 <sup>3</sup> L’esame pratico è obbligatorio soltanto per le armi da fuoco.
 
 <sup>4</sup> Per il rinnovo del permesso di porto di armi, l’esame pratico va sostenuto soltanto se tale permesso è stato rilasciato da più di tre anni. Alle medesime condizioni si può rinunciare all’esame teorico se le disposizioni legali non hanno subito modifiche significative e se non vi sono dubbi che il titolare dispone di conoscenze sufficienti sulle condizioni legali per l’uso dell’arma.
+
+[^48-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 49
 
@@ -1941,7 +1957,7 @@ Per le pratiche relative a domande d’autorizzazione, per la custodia di armi e
 <table>
 <tr><th></th><th>Fr.</th></tr>
 <tr><td>a. permesso d’acquisto di armi:</td><td></td></tr>
-<tr><td>1. ...</td><td></td></tr>
+<tr><td>1. …</td><td></td></tr>
 <tr><td>2. spray per l’autodifesa</td><td>20.—</td></tr>
 <tr><td>3. armi da fuoco</td><td>50.—</td></tr>
 <tr><td>4. altre armi</td><td>50.—</td></tr>
@@ -2108,7 +2124,7 @@ II
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^annex4-lvlu1-3]
+…[^annex4-lvlu1-3]
 
 [^annex4-lvlu1-1]: [[RU 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549); [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146); [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)n. II, [2671](https://fedlex.data.admin.ch/eli/oc/2002/374); [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 4; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 11]
 [^annex4-lvlu1-2]: [[RU 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54)]

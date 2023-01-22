@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230101/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 1. Januar 2023)
+vom 2. Juli 2008 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -65,7 +65,7 @@ Als Waffen gelten Sprayprodukte zur Selbstverteidigung mit den Reizstoffen nach 
 
 Als Waffen gelten Elektroschockgeräte, die nicht den Bestimmungen der Verordnung vom 9. April 1997[^2-1] über elektrische Niederspannungserzeugnisse entsprechen. In Zweifelsfällen entscheidet die Zentralstelle Waffen.
 
-[^2-1]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25 Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
+[^2-1]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25 Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
 
 #### Art. 3
 
@@ -300,23 +300,24 @@ Wer dem Inhaber oder der Inhaberin einer Ausnahmebewilligung eine Feuerwaffe ode
 Das Gesuch ist mit den folgenden Beilagen bei der zuständigen kantonalen Behörde einzureichen:
 
 - a. von der Erbenvertretung unterzeichnetes Verzeichnis, das die ererbten Gegenstände unter Angabe von Waffenart, Hersteller, Kaliber, Bezeichnung und Waffennummer einzeln aufführt;
-- b. Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+- b.[^11-2] …
 - c. Kopie eines gültigen Passes oder einer gültigen Identitätskarte;
 - d. gegebenenfalls amtliche Bestätigung nach Artikel 9*c*;
-- e. im Fall von Feuerwaffen der Nachweis, dass die angemessenen Vorkehrungen zur sicheren Aufbewahrung erbracht sind.[^11-2]
+- e. im Fall von Feuerwaffen der Nachweis, dass die angemessenen Vorkehrungen zur sicheren Aufbewahrung erbracht sind.[^11-3]
 
 <sup>4</sup> Sind die Voraussetzungen für die Erteilung der Ausnahmebewilligung erfüllt, so erteilt die zuständige kantonale Behörde eine einzige Bewilligung für sämtliche im Verzeichnis aufgeführten Gegenstände.
 
-<sup>4bis</sup> Die Erbenvertretung muss die zuständige Behörde innert 30 Tagen über die Erbteilung informieren und ihr mittteilen, welche Gegenstände welchen Erben und Erbinnen zugewiesen worden sind. Wurden Feuerwaffen oder wesentliche Bestandteile von Feuerwaffen der Erbenvertretung selber zugewiesen, so kann die zuständige Behörde diese verpflichten, für diese Gegenstände innerhalb von sechs Monaten nach der Erbteilung eine neue Ausnahmebewilligung einzuholen. Absatz 4 ist anwendbar.[^11-3]
+<sup>4bis</sup> Die Erbenvertretung muss die zuständige Behörde innert 30 Tagen über die Erbteilung informieren und ihr mittteilen, welche Gegenstände welchen Erben und Erbinnen zugewiesen worden sind. Wurden Feuerwaffen oder wesentliche Bestandteile von Feuerwaffen der Erbenvertretung selber zugewiesen, so kann die zuständige Behörde diese verpflichten, für diese Gegenstände innerhalb von sechs Monaten nach der Erbteilung eine neue Ausnahmebewilligung einzuholen. Absatz 4 ist anwendbar.[^11-4]
 
-<sup>5</sup> Erwerben bei der Erbteilung Erben und Erbinnen, die nicht Erbenvertretung waren, einen oder mehrere der im Verzeichnis aufgeführten Gegenstände, so müssen sie für diese innerhalb von sechs Monaten nach der Erbteilung ein Gesuch um eine Ausnahmebewilligung im eigenen Namen stellen. Absatz 4 ist anwendbar.[^11-4]
+<sup>5</sup> Erwerben bei der Erbteilung Erben und Erbinnen, die nicht Erbenvertretung waren, einen oder mehrere der im Verzeichnis aufgeführten Gegenstände, so müssen sie für diese innerhalb von sechs Monaten nach der Erbteilung ein Gesuch um eine Ausnahmebewilligung im eigenen Namen stellen. Absatz 4 ist anwendbar.[^11-5]
 
 <sup>6</sup> Zuständig ist jeweils die kantonale Behörde am Wohnsitz der erwerbenden Person. Die Behörde übermittelt der zuständigen Behörde am letzten Wohnort des Erblassers oder der Erblasserin eine Kopie der Bewilligung.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-2]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-3]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-4]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-2]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-4]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-5]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 12
 
@@ -345,13 +346,14 @@ Der Erwerb, der Besitz, das Anbieten, das Vermitteln und die Übertragung von Wa
 
 Personen, die um eine Ausnahmebewilligung nach Absatz 2 ersuchen, müssen das dafür vorgesehene Formular ausfüllen und mit den folgenden Beilagen bei der zuständigen kantonalen Behörde einreichen:
 
-- a. Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+- a.[^12-4] …
 - b. Kopie eines gültigen Passes oder einer gültigen Identitätskarte;
 - c. schriftliche Begründung des Gesuchs.
 
 [^12-1]: Aufgehoben durch Ziff. I der V vom 12. Febr. 2014, mit Wirkung seit 15. März 2014 ([AS 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
 [^12-2]: Aufgehoben durch Ziff. I der V vom 12. Febr. 2014, mit Wirkung seit 15. März 2014 ([AS 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
 [^12-3]: Fassung gemäss Ziff. I der V vom 12. Febr. 2014, in Kraft seit 15. März 2014 ([AS 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
+[^12-4]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13
 
@@ -429,9 +431,11 @@ Die zuständigen kantonalen Behörden erteilen Ausnahmebewilligungen für Waffen
 
 Das Formular ist mit den folgenden Beilagen bei der zuständigen kantonalen Behörde einzureichen:
 
-- a. Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+- a.[^13d-1] …
 - b. Kopie eines gültigen Passes oder einer gültigen Identitätskarte;
 - c. gegebenenfalls amtliche Bestätigung nach Artikel 9*c*.
+
+[^13d-1]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13e
 
@@ -490,11 +494,13 @@ Die Kantone können die Anforderungen an die angemessenen Vorkehrungen zur siche
 
 Das Formular ist mit den folgenden Beilagen bei der zuständigen kantonalen Behörde einzureichen:
 
-- a. Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+- a.[^13h-1] …
 - b. Kopie eines gültigen Passes oder einer gültigen Identitätskarte;
 - c. gegebenenfalls amtliche Bestätigung nach Artikel 9*c*;
 - d. Nachweis, dass die angemessenen Vorkehrungen zur sicheren Aufbewahrung erbracht sind;
 - e. aktuelles Verzeichnis nach Artikel 28*e* Absatz 2 WG.
+
+[^13h-1]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13i
 
@@ -538,11 +544,13 @@ Die zuständige kantonale Behörde kann eine Ausnahmebewilligung für das Schies
 
 Das Formular ist mit den folgenden Beilagen bei der zuständigen kantonalen Behörde einzureichen:
 
-- a. Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+- a.[^15-1] …
 - b. Kopie eines gültigen Passes oder einer gültigen Identitätskarte;
 - c. amtliche Bestätigung nach Artikel 9*a* WG.
 
 <sup>3</sup> Die zuständige kantonale Behörde prüft, ob die Voraussetzungen für den Waffenerwerb erfüllt sind.
+
+[^15-1]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -589,15 +597,16 @@ Liegt kein gegenteiliger Hinweis vor, so darf die übertragende Person davon aus
 - a. ein Familiengenosse oder Angehöriger nach Artikel 110 Absätze 1 und 2 des Strafgesetzbuches[^18-1] ist; oder
 - b. für eine Waffe einen Waffenerwerbsschein vorlegt, der ihm oder ihr vor weniger als zwei Jahren ausgestellt wurde.
 
-<sup>3</sup> Muss die übertragende Person aufgrund der Umstände daran zweifeln, dass die Voraussetzungen für die Übertragung erfüllt sind, so muss sie von der erwerbenden Person einen Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Übertragung ausgestellt wurde, oder mit dem schriftlichen Einverständnis der erwerbenden Person die erforderlichen Informationen von den zuständigen Behörden oder Personen verlangen.
+<sup>3</sup> Muss die übertragende Person aufgrund der Umstände daran zweifeln, dass die Voraussetzungen für die Übertragung erfüllt sind, so muss sie von der erwerbenden Person einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA[^18-2], der höchstens drei Monate vor der Übertragung ausgestellt wurde, oder mit dem schriftlichen Einverständnis der erwerbenden Person die erforderlichen Informationen von den zuständigen Behörden oder Personen verlangen.
 
-<sup>3bis</sup> Wird eine Feuerwaffe übertragen, so muss die übertragende Person eine Kopie des gültigen Passes oder der gültigen Identitätskarte der erwerbenden Person erstellen.[^18-2]
+<sup>3bis</sup> Wird eine Feuerwaffe übertragen, so muss die übertragende Person eine Kopie des gültigen Passes oder der gültigen Identitätskarte der erwerbenden Person erstellen.[^18-3]
 
-<sup>4</sup> Der schriftliche Vertrag, der Auszug aus dem schweizerischen Strafregister und die Kopie des gültigen Passes oder der gültigen Identitätskarte sind aufzubewahren. Wurde eine Feuerwaffe übertragen, so muss die übertragende Person der kantonalen Meldestelle eine Kopie der Dokumente zustellen.[^18-3]
+<sup>4</sup> Der schriftliche Vertrag, der Privatauszug aus dem Strafregister-Informationssystem VOSTRA und die Kopie des gültigen Passes oder der gültigen Identitätskarte sind aufzubewahren. Wurde eine Feuerwaffe übertragen, so muss die übertragende Person der kantonalen Meldestelle eine Kopie der Dokumente zustellen.[^18-4]
 
 [^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-2]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^18-3]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^18-2]: Ausdruck gemäss Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^18-3]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^18-4]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 19
 
@@ -699,7 +708,7 @@ Die übertragende Person darf davon ausgehen, dass kein Hinderungsgrund gegeben 
 - a. kein gegenteiliger Hinweis vorliegt; und
 - b. die erwerbende Person für die Waffe eine Ausnahmebewilligung oder einen Waffenerwerbsschein, die oder der ihr höchstens zwei Jahre vor dem Erwerb ausgestellt wurde, oder einen gültigen Europäischen Feuerwaffenpass vorlegt.
 
-<sup>3</sup> Muss die übertragende Person aufgrund der Umstände daran zweifeln, dass die Voraussetzungen für die Übertragung erfüllt sind, so muss sie von der erwerbenden Person einen Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Übertragung ausgestellt wurde, oder mit dem schriftlichen Einverständnis der erwerbenden Person die erforderlichen Informationen von den zuständigen Behörden oder Personen verlangen.
+<sup>3</sup> Muss die übertragende Person aufgrund der Umstände daran zweifeln, dass die Voraussetzungen für die Übertragung erfüllt sind, so muss sie von der erwerbenden Person einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA, der höchstens drei Monate vor der Übertragung ausgestellt wurde, oder mit dem schriftlichen Einverständnis der erwerbenden Person die erforderlichen Informationen von den zuständigen Behörden oder Personen verlangen.
 
 ### 4. Abschnitt: Erwerb von Ladevorrichtungen mit hoher Kapazität
 
@@ -821,7 +830,7 @@ Als Munition für Faustfeuerwaffen mit Deformationswirkung gilt eine Munition, b
 
 Wer um eine Waffenhandelsbewilligung ersucht, muss das dafür vorgesehene Formular ausfüllen und mit den folgenden Beilagen der zuständigen kantonalen Behörde einreichen:
 
-- a. Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+- a.[^28-1] …
 - b. Kopie eines gültigen Passes oder einer gültigen Identitätskarte;
 - c. Auszug aus dem Handelsregister;
 - d. Nachweis der bestandenen Prüfung für die Waffenhandelsbewilligung;
@@ -837,6 +846,8 @@ Die praktische Teilprüfung ist nicht erforderlich für Personen, die:
 - b. über ein eidgenössisches Fähigkeitszeugnis für Büchsenmacher verfügen.
 
 <sup>4</sup> Personen, die an öffentlichen Waffenbörsen in der Schweiz teilnehmen wollen, benötigen für die Dauer der entsprechenden Veranstaltung keine schweizerische Waffenhandelsbewilligung, wenn sie bei der zuständigen kantonalen Behörde eine amtlich beglaubigte Kopie der gültigen ausländischen Waffenhandelsbewilligung einreichen.
+
+[^28-1]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 28a
 
@@ -1158,13 +1169,14 @@ Das Gesuch um eine Ausnahmebewilligung für nichtgewerbsmässiges Verbringen von
 
 Das Gesuch um eine Ausnahmebewilligung für nichtgewerbsmässiges Verbringen von verbotener Munition nach Artikel 26 in das schweizerische Staatsgebiet ist auf dem dafür vorgesehenen Formular und mit den folgenden Beilagen bei der Zentralstelle Waffen einzureichen:
 
-- a. Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+- a.[^35-4] …
 - b. Kopie des gültigen Passes oder der gültigen Identitätskarte;
 - c. Angabe des Grundes für das Verbringen in das schweizerische Staatsgebiet (Art. 26 Abs. 2).
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 [^35-2]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 [^35-3]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^35-4]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### 2. Abschnitt: Gewerbsmässiges Verbringen in das schweizerische Staatsgebiet
 
@@ -1219,7 +1231,7 @@ Das Gesuch um eine Ausnahmebewilligung für nichtgewerbsmässiges Verbringen von
 Das Gesuch um die Bewilligung für das nichtgewerbsmässige Verbringen von Waffen, wesentlichen Waffenbestandteilen, Munition oder Munitionsbestandteilen in das schweizerische Staatsgebiet ist auf dem dafür vorgesehenen Formular und mit den folgenden Beilagen bei der Zentralstelle Waffen einzureichen:
 
 - a.[^39-2] Original des von der zuständigen kantonalen Behörde ausgestellten Waffenerwerbsscheins, wenn der zu verbringende Gegenstand waffenerwerbsscheinpflichtig ist;
-- b.[^39-3] Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde, wenn es sich um Waffen oder wesentliche Bestandteile nach Artikel 10 Absatz 1 WG oder um Munition oder Munitionsbestandteile handelt;
+- b.[^39-3] …
 - c. Kopie des gültigen Passes oder der gültigen Identitätskarte;
 - d. amtliche Bestätigung nach Artikel 9*a* WG.
 
@@ -1227,7 +1239,7 @@ Das Gesuch um die Bewilligung für das nichtgewerbsmässige Verbringen von Waffe
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^39-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^39-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^39-3]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 40
 
@@ -1372,13 +1384,15 @@ Die Zentralstelle Waffen stellt den Begleitschein aus, wenn:
 
 Dem Gesuch sind beizulegen:
 
-- a. ein Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+- a.[^46-1] …
 - b. eine Kopie des gültigen Passes oder der gültigen Identitätskarte;
 - c. zwei aktuelle Passfotos.
 
 <sup>4</sup> Die zuständige kantonale Behörde vermerkt im Europäischen Feuerwaffenpass alle Waffen, zu deren Besitz der Gesuchsteller oder die Gesuchstellerin berechtigt ist.
 
 <sup>5</sup> Der Europäische Feuerwaffenpass ist fünf Jahre gültig. Die Gültigkeitsdauer kann zweimal um je zwei Jahre verlängert werden.
+
+[^46-1]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## 6. Kapitel: Aufbewahren, Tragen und Transportieren von Waffen und Munition, missbräuchliches Tragen gefährlicher Gegenstände
 
@@ -1404,7 +1418,7 @@ Dem Gesuch sind beizulegen:
 
 Wer eine Waffentragbewilligung erhalten will, muss das dafür vorgesehene Formular ausfüllen und mit den folgenden Beilagen bei der zuständigen kantonalen Behörde einreichen:
 
-- a. Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+- a.[^48-1] …
 - b. Kopie eines gültigen Passes oder einer gültigen Identitätskarte;
 - c. zwei aktuelle Passfotos.
 
@@ -1413,6 +1427,8 @@ Wer eine Waffentragbewilligung erhalten will, muss das dafür vorgesehene Formul
 <sup>3</sup> Die praktische Prüfung muss nur für Feuerwaffen abgelegt werden.
 
 <sup>4</sup> Für das erneute Ausstellen der Waffentragbewilligung ist die praktische Prüfung nur abzulegen, wenn diese länger als drei Jahre zurückliegt. Auf die theoretische Prüfung kann unter der gleichen Voraussetzung verzichtet werden, wenn die gesetzlichen Vorschriften nicht massgeblich geändert haben und keine Zweifel an der ausreichenden Kenntnis der rechtlichen Voraussetzungen des Waffengebrauchs bestehen.
+
+[^48-1]: Aufgehoben durch Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 49
 

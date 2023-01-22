@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230101/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (État le 1<sup>er</sup> janvier 2023)
+du 2 juillet 2008 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -300,23 +300,24 @@ Quiconque aliène une arme à feu ou un élément essentiel d’arme à feu au d
 La demande doit être remise à l’autorité cantonale compétente, accompagnée des documents suivants:
 
 - a. une liste signée par le représentant des héritiers indiquant, pour chaque objet, le type d’arme, le fabricant, le calibre, la désignation et le numéro de l’arme;
-- b. un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande;
+- b.[^11-2] …
 - c. une copie de passeport ou de carte d’identité en cours de validité;
 - d. le cas échéant, une attestation officielle au sens de l’art. 9*c*;
-- e. en cas d’armes à feu, la preuve que toutes les dispositions appropriées pour assurer la conservation ont été prises.[^11-2]
+- e. en cas d’armes à feu, la preuve que toutes les dispositions appropriées pour assurer la conservation ont été prises.[^11-3]
 
 <sup>4</sup> Si les conditions sont remplies, l’autorité cantonale compétente délivre une autorisation unique pour l’ensemble des objets figurant sur la liste.
 
-<sup>4bis</sup> Le représentant des héritiers doit informer l’autorité compétente du partage successoral dans les 30 jours et lui indiquer quel objet a été attribué à quel héritier. Si des armes à feu ou des éléments essentiels d’armes à feu ont été attribués au représentant des héritiers, l’autorité compétente peut l’obliger à demander une nouvelle autorisation exceptionnelle pour ces objets dans les six mois suivant le partage successoral. L’al. 4 est applicable.[^11-3]
+<sup>4bis</sup> Le représentant des héritiers doit informer l’autorité compétente du partage successoral dans les 30 jours et lui indiquer quel objet a été attribué à quel héritier. Si des armes à feu ou des éléments essentiels d’armes à feu ont été attribués au représentant des héritiers, l’autorité compétente peut l’obliger à demander une nouvelle autorisation exceptionnelle pour ces objets dans les six mois suivant le partage successoral. L’al. 4 est applicable.[^11-4]
 
-<sup>5</sup> Si, lors du partage successoral, un héritier autre que le représentant des héritiers acquiert un ou plusieurs objets figurant dans la liste, il doit déposer une demande d’autorisation exceptionnelle à son nom dans les six mois suivants. L’al. 4 est applicable.[^11-4]
+<sup>5</sup> Si, lors du partage successoral, un héritier autre que le représentant des héritiers acquiert un ou plusieurs objets figurant dans la liste, il doit déposer une demande d’autorisation exceptionnelle à son nom dans les six mois suivants. L’al. 4 est applicable.[^11-5]
 
 <sup>6</sup> L’autorité compétente est l’autorité cantonale du domicile de l’acquéreur. Elle transmet une copie de l’autorisation à l’autorité compétente du dernier domicile du disposant.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-3]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-4]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-2]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-4]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-5]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 12
 
@@ -329,10 +330,10 @@ La demande doit être remise à l’autorité cantonale compétente, accompagné
 L’acquisition, la possession, l’offre, le courtage et l’aliénation d’armes, d’éléments essentiels d’armes, de composants d’armes spécialement conçus, d’accessoires d’armes, de munitions ou d’éléments de munitions, ainsi que le port d’armes et le tir avec des armes à feu, sont interdits aux ressortissants des États suivants:
 
 - a. Serbie;
-- b.[^12-1] ...
+- b.[^12-1] …
 - c. Bosnie et Herzégovine;
 - d. Kosovo;
-- e.[^12-2] ...
+- e.[^12-2] …
 - f. Macédoine du Nord;
 - g. Turquie;
 - h. Sri Lanka;
@@ -345,13 +346,14 @@ L’acquisition, la possession, l’offre, le courtage et l’aliénation d’ar
 
 Les personnes qui demandent une autorisation exceptionnelle au sens de l’al. 2 doivent remplir le formulaire prévu à cet effet et le remettre à l’autorité cantonale compétente, accompagné des documents suivants:
 
-- a. un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande;
+- a.[^12-4] …
 - b. une copie de passeport ou de carte d’identité en cours de validité;
 - c. une demande écrite motivée.
 
 [^12-1]: Abrogée par le ch. I de l’O du 12 fév. 2014, avec effet au 15 mars 2014 ([RO 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
 [^12-2]: Abrogée par le ch. I de l’O du 12 fév. 2014, avec effet au 15 mars 2014 ([RO 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
 [^12-3]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2014, en vigueur depuis le 15 mars 2014 ([RO 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
+[^12-4]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13
 
@@ -429,9 +431,11 @@ Les autorités cantonales compétentes délivrent des autorisations exceptionnel
 
 Le formulaire doit être remis à l’autorité cantonale compétente, accompagné des documents suivants:
 
-- a. un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande;
+- a.[^13d-1] …
 - b. une copie de passeport ou de carte d’identité en cours de validité;
 - c. le cas échéant, une attestation officielle au sens de l’art. 9*c*.
+
+[^13d-1]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13e
 
@@ -490,11 +494,13 @@ Les cantons peuvent préciser les exigences auxquelles doivent répondre les dis
 
 Le formulaire doit être remis à l’autorité cantonale compétente, accompagné des documents suivants:
 
-- a. un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande;
+- a.[^13h-1] …
 - b. une copie de passeport ou de carte d’identité en cours de validité;
 - c. le cas échéant, une attestation officielle au sens de l’art. 9*c*;
 - d. la preuve que toutes les dispositions appropriées pour assurer la conservation ont été prises;
 - e. la liste actuelle visée à l’art. 28*e*, al. 2, LArm.
+
+[^13h-1]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13i
 
@@ -510,7 +516,7 @@ L’autorité cantonale compétente peut délivrer une seule autorisation except
 
 #### Art. 14
 
-**...[^14-1]**
+**…[^14-1]**
 
 L’autorité cantonale compétente peut délivrer une autorisation exceptionnelle de faire usage d’armes à feu dans des lieux accessibles au public en dehors des places de tir et des manifestations de tir autorisées officiellement et si les conditions visées à l’art. 28*c*, al. 3, LArm sont remplies et:[^14-2]
 
@@ -538,11 +544,13 @@ L’autorité cantonale compétente peut délivrer une autorisation exceptionnel
 
 Le formulaire doit être remis à l’autorité cantonale compétente, accompagné des documents suivants:
 
-- a. un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande;
+- a.[^15-1] …
 - b. une copie de passeport ou de carte d’identité en cours de validité;
 - c. une attestation officielle au sens de l’art. 9*a* LArm.
 
 <sup>3</sup> L’autorité cantonale compétente examine si les conditions de délivrance du permis sont remplies.
+
+[^15-1]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -589,15 +597,16 @@ En l’absence d’indice contraire, l’aliénateur peut conclure à l’absenc
 - a. est un proche ou un familier au sens de l’art. 110, al. 1 et 2, du code pénal[^18-1], ou
 - b. présente un permis d’acquisition d’armes qui lui a été délivré depuis moins de deux ans.
 
-<sup>3</sup> Si les circonstances font douter l’aliénateur que les conditions permettant pour l’aliénation soient remplies, il doit exiger de l’acquéreur un extrait du casier judiciaire suisse établi trois mois au plus avant l’aliénation ou demander, avec l’accord écrit de l’acquéreur, les informations nécessaires aux autorités ou aux personnes compétentes.
+<sup>3</sup> Si les circonstances font douter l’aliénateur que les conditions permettant pour l’aliénation soient remplies, il doit exiger de l’acquéreur un extrait du casier judiciaire destiné aux particuliers[^18-2] établi trois mois au plus avant l’aliénation ou demander, avec l’accord écrit de l’acquéreur, les informations nécessaires aux autorités ou aux personnes compétentes.
 
-<sup>3bis</sup> En cas d’aliénation d’une arme à feu, l’aliénateur doit faire une copie du passeport ou de la carte d’identité en cours de validité de l’acquéreur.[^18-2]
+<sup>3bis</sup> En cas d’aliénation d’une arme à feu, l’aliénateur doit faire une copie du passeport ou de la carte d’identité en cours de validité de l’acquéreur.[^18-3]
 
-<sup>4</sup> Le contrat écrit, l’extrait du casier judiciaire suisse et la copie de passeport ou de carte d’identité en cours de validité doivent être conservés. En cas d’aliénation d’une arme à feu, l’aliénateur doit transmettre une copie de ces documents au service cantonal d’enregistrement.[^18-3]
+<sup>4</sup> Le contrat écrit, l’extrait du casier judiciaire destiné aux particuliers et la copie de passeport ou de carte d’identité en cours de validité doivent être conservés. En cas d’aliénation d’une arme à feu, l’aliénateur doit transmettre une copie de ces documents au service cantonal d’enregistrement.[^18-4]
 
 [^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-2]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^18-3]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^18-2]: Nouvelle expression selon l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Il a été tenu compte de cette mod. dans tout le texte.
+[^18-3]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^18-4]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 19
 
@@ -701,7 +710,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 - a. s’il n’y a pas d’indice contraire, et
 - b. si l’acquéreur présente pour une arme donnée une autorisation exceptionnelle ou un permis d’acquisition qui lui a été délivré il y a moins de deux ans ou une carte européenne d’arme à feu en cours de validité.
 
-<sup>3</sup> Si les circonstances font douter l’aliénateur que les conditions permettant l’aliénation soient remplies, il doit exiger de l’acquéreur un extrait du casier judiciaire suisse établi trois mois au plus avant l’aliénation ou demander, avec l’accord écrit de l’acquéreur, les informations nécessaires aux autorités ou aux personnes compétentes.
+<sup>3</sup> Si les circonstances font douter l’aliénateur que les conditions permettant l’aliénation soient remplies, il doit exiger de l’acquéreur un extrait du casier judiciaire destiné aux particuliers établi trois mois au plus avant l’aliénation ou demander, avec l’accord écrit de l’acquéreur, les informations nécessaires aux autorités ou aux personnes compétentes.
 
 ### Section 4 Acquisition de chargeurs de grande capacité
 
@@ -823,7 +832,7 @@ Par munitions à projectiles expansifs pour armes à feu de poing, on entend les
 
 Quiconque veut obtenir une patente de commerce d’armes doit remplir le formulaire prévu à cet effet et le remettre à l’autorité cantonale compétente, accompagné des documents suivants:
 
-- a. un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande;
+- a.[^28-1] …
 - b. une copie de passeport ou de pièce d’identité en cours de validité;
 - c. un extrait du registre du commerce;
 - d. une attestation de réussite de l’examen pour la patente de commerce d’armes;
@@ -839,6 +848,8 @@ L’examen pratique n’est pas nécessaire pour obtenir la patente si la person
 - b. est titulaire d’un certificat fédéral de capacité d’armurier.
 
 <sup>4</sup> Aucune patente n’est nécessaire pour participer à une bourse aux armes publique en Suisse si l’intéressé est titulaire d’une patente de commerce d’armes étrangère valable et qu’il en fournit une copie certifiée conforme à l’autorité cantonale compétente.
+
+[^28-1]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 28a
 
@@ -1122,7 +1133,7 @@ La demande d’autorisation exceptionnelle d’introduction sur le territoire su
 
 - a. une copie de la patente de commerce d’armes;
 - b.[^34-2] une autorisation cantonale exceptionnelle, conformément à l’art. 5, al. 6, LArm;
-- c.[^34-3] ...
+- c.[^34-3] …
 
 <sup>1bis</sup> Lorsque la demande porte sur l’introduction sur le territoire suisse à titre professionnel d’armes visées à l’art. 5, al. 1, let. a, e ou f, LArm ou de leurs composants spécialement conçus, l’OCA demande que soit fournie la pièce attestant que les engins sont nécessaires pour couvrir les besoins des autorités désignées à l’art. 2, al. 1, LArm ou ceux d’autres personnes qui passent commande. Il restreint l’autorisation exceptionnelle dans ce sens.[^34-4]
 
@@ -1160,13 +1171,14 @@ La demande d’autorisation exceptionnelle pour l’introduction sur le territoi
 
 La demande d’autorisation exceptionnelle pour l’introduction sur le territoire suisse à titre non professionnel de munitions prohibées au sens de l’art. 26 doit être déposée auprès de l’OCA, au moyen du formulaire prévu à cet effet, et accompagnée des documents suivants:
 
-- a. un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande;
+- a.[^35-4] …
 - b. une copie de passeport ou de carte d’identité en cours de validité;
 - c. l’indication du motif de l’introduction (art. 26, al. 2).
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 [^35-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 [^35-3]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^35-4]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### Section 2 Introduction sur le territoire suisse à titre professionnel
 
@@ -1221,7 +1233,7 @@ La demande d’autorisation exceptionnelle pour l’introduction sur le territoi
 La demande d’autorisation d’introduction sur le territoire suisse à titre non professionnel d’armes, d’éléments essentiels d’armes, de munitions ou d’éléments de munitions doit être adressée à l’OCA, au moyen du formulaire prévu à cet effet, et accompagnée des documents suivants:
 
 - a.[^39-2] l’original du permis d’acquisition d’armes délivré par l’autorité cantonale compétente si l’engin à introduire sur le territoire est soumis au régime de l’autorisation;
-- b.[^39-3] un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande, s’il s’agit d’armes ou d’éléments essentiels d’armes visés à l’art. 10, al. 1, LArm, ou de munitions ou d’éléments de munitions;
+- b.[^39-3] …
 - c. une copie de passeport ou de carte d’identité en cours de validité;
 - d. une attestation officielle au sens de l’art. 9*a* LArm.
 
@@ -1229,7 +1241,7 @@ La demande d’autorisation d’introduction sur le territoire suisse à titre n
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^39-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^39-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^39-3]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 40
 
@@ -1243,7 +1255,7 @@ La demande d’autorisation d’introduction sur le territoire suisse à titre n
 
 <sup>3</sup> Les chasseurs et les tireurs n’ont pas besoin d’autorisation s’ils peuvent rendre vraisemblable le motif du voyage, notamment en présentant une invitation à participer à une activité en relation avec la chasse ou à une manifestation de tir sportif, et que les armes à feu transportées sont inscrites sur la carte européenne d’arme à feu.
 
-<sup>4</sup> ...[^40-1]
+<sup>4</sup> …[^40-1]
 
 [^40-1]: Abrogé par le ch. I de l’O du 4 juin 2010, avec effet au 28 juil. 2010 ([RO 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
@@ -1379,13 +1391,15 @@ L’OCA établit le document de suivi:
 
 La demande doit être accompagnée:
 
-- a. d’un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande;
+- a.[^46-1] …
 - b. d’une copie de passeport ou de carte d’identité en cours de validité;
 - c. de deux photos d’identité récentes.
 
 <sup>4</sup> L’autorité cantonale compétente inscrit toutes les armes que le requérant est en droit de posséder sur la carte européenne d’arme à feu.
 
 <sup>5</sup> La carte européenne d’arme à feu est valable cinq ans. Sa durée de validité peut être prolongée deux fois de deux ans.
+
+[^46-1]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## Chapitre 6 Conservation, port et transport d’armes et de munitions, port abusif d’objets dangereux
 
@@ -1411,7 +1425,7 @@ La demande doit être accompagnée:
 
 Quiconque veut obtenir un permis de port d’armes doit remplir le formulaire prévu à cet effet et le remettre à l’autorité cantonale compétente, accompagné des documents suivants:
 
-- a. un extrait du casier judiciaire suisse établi trois mois au plus avant le dépôt de la demande;
+- a.[^48-1] …
 - b. une copie de passeport ou de carte d’identité en cours de validité;
 - c. deux photos d’identité récentes de format passeport.
 
@@ -1420,6 +1434,8 @@ Quiconque veut obtenir un permis de port d’armes doit remplir le formulaire pr
 <sup>3</sup> L’examen pratique ne doit être accompli que pour les armes à feu.
 
 <sup>4</sup> La personne qui veut faire renouveler son permis de port d’armes n’a pas besoin de repasser l’examen pratique si la réussite de l’examen remonte à moins de trois ans. Elle n’a pas besoin de repasser l’examen théorique à cette même condition, pour autant que les dispositions légales n’aient pas subi de modification significative et qu’il ne fasse aucun doute qu’elle dispose des connaissances suffisantes sur les conditions juridiques d’utilisation d’une arme.
+
+[^48-1]: Abrogée par l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 49
 
@@ -1951,7 +1967,7 @@ Les émoluments suivants sont perçus pour le traitement des demandes d’autori
 <table>
 <tr><th></th><th>Francs</th></tr>
 <tr><td>a. permis d’acquisition pour:</td><td></td></tr>
-<tr><td>1. ...</td><td></td></tr>
+<tr><td>1. …</td><td></td></tr>
 <tr><td>2. sprays d’autodéfense</td><td>20.—</td></tr>
 <tr><td>3. armes à feu</td><td>50.—</td></tr>
 <tr><td>4. autres armes</td><td>50.—</td></tr>
@@ -2118,7 +2134,7 @@ II
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annex4-lvlu1-3]
+…[^annex4-lvlu1-3]
 
 [^annex4-lvlu1-1]: [[RO 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549); [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146); [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)[2671](https://fedlex.data.admin.ch/eli/oc/2002/374); [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 4; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 11]
 [^annex4-lvlu1-2]: [[RO 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54)]
