@@ -4,11 +4,11 @@ title: "Verordnung vom 20. September 2002 über die Ausweise für Schweizer Staa
 short: VAwG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230101/de"
 
 (Ausweisverordnung, VAwG)
 
-vom 20. September 2002 (Stand am 1. Januar 2023)
+vom 20. September 2002 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -395,7 +395,7 @@ Sofern dieser Abschnitt nicht etwas anderes bestimmt, sind die weiteren Bestimmu
 
 Zur Überprüfung des guten Rufes kann das Bundesamt neben der Anordnung einer Personensicherheitsprüfung namentlich die folgenden Unterlagen von natürlichen oder juristischen Personen gemäss Artikel 6*a* Absätze 1 und 2 AwG, beziehungsweise deren Organe, einfordern:
 
-- a. Auszug aus dem Zentralstrafregister;
+- a.[^15-2] Privatauszug aus dem Strafregister-Informationssystem VOSTRA;
 - b. Auszug aus dem Handelsregister;
 - c. Auszug der letzten zehn Jahre aus dem Schuldbetreibungs- und Konkursregister;
 - d. Lebenslauf einschliesslich sämtlicher geschäftlicher Engagements;
@@ -409,6 +409,7 @@ Zur Überprüfung des guten Rufes kann das Bundesamt neben der Anordnung einer P
 <sup>4</sup> Das Bundesamt kann verlangen, dass die Stellen gemäss Artikel 6*a* Absatz 1 AwG die Überprüfung des guten Rufes der betroffenen Personen periodisch selbstständig vornehmen und die Gewährleistung des guten Rufes bestätigen.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2009, in Kraft seit 1. März 2010 ([AS 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^15-2]: Fassung gemäss Anhang 10 Ziff. II 3 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 

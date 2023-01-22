@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2002 sui documenti d'identità dei cittadini 
 short: ODI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230101/it"
 
 (Ordinanza sui documenti d’identità, ODI)
 
-del 20 settembre 2002 (Stato 1° gennaio 2023)
+del 20 settembre 2002 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -402,7 +402,7 @@ Sempre che la presente sezione non disponga diversamente, alla procedura di rich
 
 Per la verifica della buona reputazione, oltre a poter disporre un controllo di sicurezza relativo alle persone, l’Ufficio federale può chiedere alle persone fisiche e giuridiche di cui all’articolo 6*a* capoversi 1 e 2 LDI, o ai rispettivi organi, di presentare in particolare i seguenti documenti:
 
-- a. l’estratto del casellario giudiziale centrale;
+- a.[^15-2] l’estratto per privati del casellario giudiziale informatizzato VOSTRA;
 - b. l’estratto del registro di commercio;
 - c. gli estratti degli ultimi dieci anni del registro esecuzioni e fallimenti;
 - d. il curriculum vitae, compresi tutti gli impegni d’affari;
@@ -416,6 +416,7 @@ Per la verifica della buona reputazione, oltre a poter disporre un controllo di 
 <sup>4</sup> L’Ufficio federale può esigere che i servizi di cui all’articolo 6*a* capoverso 1 LDI verifichino periodicamente in modo autonomo la buona reputazione della persona interessata e ne diano conferma.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2010 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^15-2]: Nuovo testo giusta l’all. 10 n. II 3 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -786,7 +787,7 @@ Gli altri diritti delle persone interessate sono retti dall’articolo 25 della 
 <sup>5</sup> I Cantoni acquistano esclusivamente gli apparecchi designati dalla Confederazione presso i fornitori designati dalla stessa. I Cantoni assumono i costi per l’acquisto, la manutenzione e la sostituzione dell’infrastruttura necessaria per rilasciare e controllare i documenti d’identità.
 
 [^44-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2009 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^44-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^44-2]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)n. II 1, [7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giugno 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 
 ## Capitolo 4: Emolumenti
 
@@ -1103,7 +1104,7 @@ A = consultazione; E = registrazione e consultazione
 <tr><td>Stato del documento</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="6">A</td><td>E</td><td colspan="2">A</td><td>A</td><td>A</td><td></td></tr>
 </table>
 
-**Abbreviazioni:**
+Abbreviazioni:
 
 <table>
 <tr><td>Fedpol Doc. id.:</td><td>Ufficio federale di polizia, sezione Documenti d’identità (art. 12 cpv. 1 lett. a LDI)</td></tr>

@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2002 sur les documents d'identité des ressor
 short: OLDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230101/fr"
 
 (Ordonnance sur les documents d’identité, OLDI)
 
-du 20 septembre 2002 (État le 1<sup>er</sup> janvier 2023)
+du 20 septembre 2002 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -395,7 +395,7 @@ Sauf disposition contraire de la présente section, les autres dispositions de l
 
 Pour établir la preuve de la bonne réputation, l’office peut demander, en plus du contrôle de sécurité des personnes, que les personnes physiques ou morales visées à l’art. 6*a*, al. 1 et 2, LDI ou leurs organes lui fournissent notamment les documents suivants:
 
-- a. extrait du casier judiciaire central;
+- a.[^15-2] extrait du casier judiciaire destiné aux particuliers;
 - b. extrait du registre du commerce;
 - c. extrait du registre des poursuites pour dettes et faillites portant sur les dix dernières années;
 - d. curriculum vitae, inventaire complet des engagements commerciaux compris;
@@ -409,6 +409,7 @@ Pour établir la preuve de la bonne réputation, l’office peut demander, en pl
 <sup>4</sup> L’office peut demander que les centres visés à l’art. 6*a*, al. 1, LDI vérifient périodiquement et de manière autonome la bonne réputation des personnes concernées et confirment qu’elles jouissent d’une bonne réputation.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^15-2]: Nouvelle teneur selon l’annexe 10 ch. II 3 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
