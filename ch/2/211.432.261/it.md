@@ -4,11 +4,11 @@ title: "Ordinanza del 21 maggio 2008 sugli ingegneri geometri (Ordinanza sui geo
 short: Ogeom
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/387"
 language: it
-version: 2012-01-01
+version: 2023-01-23
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20120101/it/xml/fedlex-data-admin-ch-eli-cc-2008-387-20120101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2008-387-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20120101/it"
 
 (Ordinanza sui geometri, Ogeom)
 
-del 21 maggio 2008 (Stato 1° gennaio 2012) (Stato 1° gennaio 2012)
+del 21 maggio 2008 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -297,8 +297,10 @@ Nel registro degli ingegneri geometri (registro dei geometri) possono essere isc
 
 - a. sono titolari della patente di ingegnere geometra;
 - b. hanno l'esercizio dei diritti civili e sono capaci di discernimento;
-- c. non sono state oggetto di una condanna penale per reati incompatibili con l’esercizio della professione di geometra oppure la cui iscrizione nel casellario giudiziale è stata cancellata; e
+- c.[^17-1] non sono state oggetto di una condanna penale per reati che figurano nell’estratto per privati del casellario giudiziale informatizzato VOSTRA e sono incompatibili con l’esercizio della professione di geometra; e
 - d. sono in grado di esercitare la professione di geometra sotto la propria responsabilità.
+
+[^17-1]: Nuovo testo giusta l’all. 10 n. II 10 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 18
 
@@ -312,11 +314,13 @@ Alla domanda devono essere allegati i documenti seguenti:
 
 - a. il modulo d’iscrizione compilato correttamente;
 - b. una copia della patente;
-- c. un estratto attuale del casellario giudiziale;
+- c.[^18-1] un estratto per privati aggiornato del casellario giudiziale informatizzato VOSTRA;
 - d. un certificato di buona condotta del Comune di domicilio, attestante anche il godimento dei diritti civili;
 - e. una dichiarazione, firmata di proprio pugno, attestante la capacità di cui all’articolo 17 lettera d.
 
 <sup>3</sup> La Commissione dei geometri decide in merito all’iscrizione mediante decisione formale. Se nega l’iscrizione, essa deve motivare la propria decisione.
+
+[^18-1]: Nuovo testo giusta l’all. 10 n. II 10 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 19
 

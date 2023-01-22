@@ -4,11 +4,11 @@ title: "Ordonnance du 21 mai 2008 concernant les ingénieurs géomètres (Ordonn
 short: OGéom
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/387"
 language: fr
-version: 2012-01-01
+version: 2023-01-23
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-387-20120101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2008-387-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20120101/fr"
 
 (Ordonnance sur les géomètres, OGéom)
 
-du 21 mai 2008 (Etat le 1<sup>er</sup> janvier 2012)
+du 21 mai 2008 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -33,19 +33,19 @@ arrête:
 
 La présente ordonnance régit:
 
-- a. les conditions d’admission à l’examen d’Etat;
-- b. le déroulement de l’examen d’Etat et la remise du brevet;
+- a. les conditions d’admission à l’examen d’État;
+- b. le déroulement de l’examen d’État et la remise du brevet;
 - c. le registre des ingénieurs géomètres brevetés;
 - d. les obligations professionnelles des ingénieurs géomètres brevetés;
 - e. les tâches et l’organisation de la commission des géomètres.
 
-## Section 2 Conditions d’admission à l’examen d’Etat
+## Section 2 Conditions d’admission à l’examen d’État
 
 #### Art. 2
 
 **Principe**
 
-Est admis à passer l’examen d’Etat en vue d’obtenir le brevet d’ingénieur géomètre tout candidat:
+Est admis à passer l’examen d’État en vue d’obtenir le brevet d’ingénieur géomètre tout candidat:
 
 - a. titulaire d’un diplôme reconnu d’une haute école;
 - b. justifiant d’une formation théorique suffisante, et
@@ -135,7 +135,7 @@ Le candidat doit justifier d’une formation théorique de niveau académique da
 
 **Procédure de reconnaissance**
 
-<sup>1</sup> La demande de reconnaissance du diplôme d’une haute école et de la formation théorique doit être déposée par écrit auprès de la commission des géomètres, au plus tard lors de l’inscription à l’examen d’Etat.
+<sup>1</sup> La demande de reconnaissance du diplôme d’une haute école et de la formation théorique doit être déposée par écrit auprès de la commission des géomètres, au plus tard lors de l’inscription à l’examen d’État.
 
 <sup>2</sup>
 
@@ -184,7 +184,7 @@ La commission des géomètres:
 
 L’examen peut être répété une fois dans chacune des disciplines présentées.
 
-## Section 3 Examen d’Etat
+## Section 3 Examen d’État
 
 #### Art. 9
 
@@ -192,7 +192,7 @@ L’examen peut être répété une fois dans chacune des disciplines présenté
 
 <sup>1</sup>
 
-L’examen d’Etat est un examen pratique portant sur les thèmes suivants:
+L’examen d’État est un examen pratique portant sur les thèmes suivants:
 
 - a. *mensuration officielle:* notamment l’organisation et les procédures propres à la mensuration officielle; le droit du registre foncier, de la mensuration et de la géoinformation;
 - b. *géomatique:* notamment les bases géodésiques; les techniques de mesure et les méthodes de traitement; la saisie, la mise à jour et la gestion des géodonnées; la modélisation de données; l’analyse des données; la visualisation;
@@ -209,13 +209,13 @@ L’examen d’Etat est un examen pratique portant sur les thèmes suivants:
 
 <sup>2</sup> Elle peut faire appel à des experts.
 
-<sup>3</sup> L’examen d’Etat a lieu une fois par an. Les dates de l’examen et le délai d’inscription sont publiés dans la Feuille fédérale et dans les organes de presse spécialisés.
+<sup>3</sup> L’examen d’État a lieu une fois par an. Les dates de l’examen et le délai d’inscription sont publiés dans la Feuille fédérale et dans les organes de presse spécialisés.
 
 #### Art. 11
 
 **Procédure d’admission**
 
-<sup>1</sup> Le candidat s’inscrit par écrit à l’examen d’Etat auprès de la commission des géomètres.
+<sup>1</sup> Le candidat s’inscrit par écrit à l’examen d’État auprès de la commission des géomètres.
 
 <sup>2</sup>
 
@@ -225,7 +225,7 @@ Il joint les pièces suivantes à son inscription:
 - b. la justification de l’expérience professionnelle (art. 2, let. c);
 - c. la décision de reconnaissance (art. 5, al. 4) ou la demande de reconnaissance (art. 5, al. 1 à 3).
 
-<sup>3</sup> La commission des géomètres statue sur l’admission à l’examen d’Etat. Elle en fixe le programme et convoque les candidats satisfaisant aux conditions requises.
+<sup>3</sup> La commission des géomètres statue sur l’admission à l’examen d’État. Elle en fixe le programme et convoque les candidats satisfaisant aux conditions requises.
 
 <sup>4</sup> Elle communique sa décision et la convocation par écrit au candidat.
 
@@ -233,13 +233,13 @@ Il joint les pièces suivantes à son inscription:
 
 **Empêchement**
 
-<sup>1</sup> Si un candidat est victime d’un empêchement (maladie, accident ou tout autre motif sérieux) et ne peut se présenter à l’examen d’Etat ou à certaines de ses épreuves, il est tenu d’en informer sans délai la commission des géomètres et de lui faire parvenir un certificat médical ou un justificatif.
+<sup>1</sup> Si un candidat est victime d’un empêchement (maladie, accident ou tout autre motif sérieux) et ne peut se présenter à l’examen d’État ou à certaines de ses épreuves, il est tenu d’en informer sans délai la commission des géomètres et de lui faire parvenir un certificat médical ou un justificatif.
 
-<sup>2</sup> Le président de la commission des géomètres décide si le motif invoqué est recevable et si le candidat est tenu de poursuivre l’examen d’Etat. Cette décision intermédiaire est définitive.
+<sup>2</sup> Le président de la commission des géomètres décide si le motif invoqué est recevable et si le candidat est tenu de poursuivre l’examen d’État. Cette décision intermédiaire est définitive.
 
 <sup>3</sup> La commission des géomètres décide dans quelle mesure les résultats des épreuves déjà passées sont prises en compte.
 
-<sup>4</sup> En cas d’absence ou de désistement sans motif valable, le candidat est réputé avoir échoué à l’examen d’Etat.
+<sup>4</sup> En cas d’absence ou de désistement sans motif valable, le candidat est réputé avoir échoué à l’examen d’État.
 
 #### Art. 13
 
@@ -249,7 +249,7 @@ Il joint les pièces suivantes à son inscription:
 
 <sup>2</sup> Le candidat est reçu lorsqu’il a réussi l’examen dans chacun des quatre thèmes.
 
-<sup>3</sup> La commission des géomètres statue sur la réussite ou l’échec à l’examen d’Etat. Elle motive sa décision en cas d’échec.
+<sup>3</sup> La commission des géomètres statue sur la réussite ou l’échec à l’examen d’État. Elle motive sa décision en cas d’échec.
 
 <sup>4</sup> Elle communique sa décision par écrit au candidat.
 
@@ -257,7 +257,7 @@ Il joint les pièces suivantes à son inscription:
 
 **Brevet**
 
-<sup>1</sup> Tout candidat ayant réussi l’examen d’Etat se voit délivrer le brevet d’ingénieur géomètre.
+<sup>1</sup> Tout candidat ayant réussi l’examen d’État se voit délivrer le brevet d’ingénieur géomètre.
 
 <sup>2</sup> Le document est délivré par la commission des géomètres et signé conjointement par le chef du Département fédéral de la défense, de la protection de la population et des sports (DDPS) et le président de la commission des géomètres.
 
@@ -267,7 +267,7 @@ Il joint les pièces suivantes à son inscription:
 
 **Répétition**
 
-<sup>1</sup> L’examen d’Etat peut être répété une fois.
+<sup>1</sup> L’examen d’État peut être répété une fois.
 
 <sup>2</sup> Seuls sont répétés les thèmes de l’examen auxquels le candidat a échoué.
 
@@ -277,7 +277,7 @@ Il joint les pièces suivantes à son inscription:
 
 <sup>1</sup>
 
-La commission des géomètres peut décider qu’un candidat a échoué à l’examen d’Etat si:
+La commission des géomètres peut décider qu’un candidat a échoué à l’examen d’État si:
 
 - a. l’admission a été obtenue par le biais d’informations fausses ou incomplètes;
 - b. le candidat a utilisé des moyens illicites durant l’examen.
@@ -294,8 +294,10 @@ Peut être inscrite au registre des ingénieurs géomètres (registre des géom�
 
 - a. titulaire du brevet d’ingénieur géomètre;
 - b. capable de discernement et ayant l’exercice des droits civils;
-- c. dont le casier judiciaire ne comporte pas ou ne comporte plus de condamnation pénale pour des actes incompatibles avec l’exercice de la profession;
+- c.[^17-1] dont l’extrait du casier judiciaire destiné aux particuliers ne comporte pas de condamnation pénale pour des actes incompatibles avec l’exercice de la profession, et
 - d. en mesure d’exercer la profession de géomètre sous sa propre responsabilité.
+
+[^17-1]: Nouvelle teneur selon l’annexe 10 ch. II 10 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 18
 
@@ -309,11 +311,13 @@ Elle joint les documents suivants à sa demande:
 
 - a. le formulaire d’inscription dûment rempli;
 - b. une copie du brevet;
-- c. un extrait actuel du casier judiciaire;
+- c.[^18-1] un extrait actuel du casier judiciaire destiné aux particuliers;
 - d. un certificat de bonnes mœurs établi par la commune de résidence, attestant également de sa capacité d’exercer ses droits civils;
 - e. une déclaration signée par laquelle elle atteste qu’elle remplit la condition énoncée à l’art. 17, let. d.
 
 <sup>3</sup> La commission des géomètres se prononce sur l’inscription et communique sa décision à la personne intéressée. En cas de refus, elle motive sa décision.
+
+[^18-1]: Nouvelle teneur selon l’annexe 10 ch. II 10 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 19
 
@@ -339,7 +343,7 @@ La commission des géomètres décide de radier une personne du registre des gé
 Le registre des géomètres contient les données suivantes:
 
 - a. nom, prénom, date de naissance et lieu d’origine ou nationalité;
-- b. date à laquelle l’examen d’Etat a été réussi;
+- b. date à laquelle l’examen d’État a été réussi;
 - c. adresse privée, adresse professionnelle, ainsi que nom et siège de l’employeur en cas d’activité salariée;
 - d. mesures disciplinaires non radiées.
 
@@ -482,30 +486,30 @@ En cas de violation des obligations professionnelles ou de refus d’accorder le
 
 [^3034-1]: Abrogés par le ch. I 4.1 de l’O du 9 nov. 2011 (Réexamen des commissions extraparlementaires), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
-## Section 7 Emoluments
+## Section 7 Émoluments
 
 #### Art. 35
 
-**Emoluments d’examen**
+**Émoluments d’examen**
 
 <sup>1</sup>
 
 Les émoluments d’examen suivants sont perçus:
 
 - a. pour l’examen de la formation théorique, 180 francs par discipline avec un plafond de 1800 francs;
-- b. pour l’examen d’Etat, 450 francs par thème.
+- b. pour l’examen d’État, 450 francs par thème.
 
 <sup>2</sup> En cas de désistement intervenant au plus tard 60 jours avant la date du début de l’examen, les émoluments versés sont remboursés.
 
 #### Art. 36
 
-**Emolument relatif à l’inscription au registre**
+**Émolument relatif à l’inscription au registre**
 
 L’émolument d’enregistrement s’élève à 100 francs par année civile. Il est dû pour toute année entamée.
 
 #### Art. 37
 
-**Emolument relatif à la procédure disciplinaire**
+**Émolument relatif à la procédure disciplinaire**
 
 <sup>1</sup> Si des mesures disciplinaires sont prononcées, des frais de procédure compris entre 500 et 2000 francs, proportionnels au volume de travail, peuvent être mis à la charge de la personne concernée.
 

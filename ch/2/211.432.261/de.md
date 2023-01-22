@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Mai 2008 über die Ingenieur-Geometerinnen und Ingeni
 short: GeomV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/387"
 language: de
-version: 2012-01-01
+version: 2023-01-23
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2008-387-20120101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2008-387-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20120101/de"
 
 (Geometerverordnung, GeomV)
 
-vom 21. Mai 2008 (Stand am 1. Januar 2012)
+vom 21. Mai 2008 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -296,8 +296,10 @@ In das Register der Ingenieur-Geometerinnen und Ingenieur-Geometer (Geometerregi
 
 - a. die das Patent als Ingenieur-Geometer oder Ingenieur-Geometerin besitzen;
 - b. die handlungs- und urteilsfähig sind;
-- c. die nicht strafrechtlich verurteilt wurden wegen Handlungen, die mit der Ausübung des Geometerberufs unvereinbar sind, oder deren Eintrag im Strafregister entfernt ist; und
+- c.[^17-1] die nicht strafrechtlich verurteilt wurden wegen Handlungen, die im Privatauszug des Strafregister-Informationssystems VOSTRA erscheinen und mit der Ausübung des Geometerberufs unvereinbar sind; und
 - d. die fähig sind, den Geometerberuf eigenverantwortlich auszuüben.
+
+[^17-1]: Fassung gemäss Anhang 10 Ziff. II 10 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 18
 
@@ -311,11 +313,13 @@ Dem Gesuch sind folgende Urkunden beizulegen:
 
 - a. korrekt ausgefülltes Anmeldeformular;
 - b. Kopie des Patents;
-- c. aktueller Auszug aus dem Strafregister;
+- c.[^18-1] aktueller Privatauszug aus dem Strafregister-Informationssystems VOSTRA;
 - d. Leumundzeugnis der Wohnsitzgemeinde, das auch die Handlungsfähigkeit bescheinigt;
 - e. eigenhändig unterzeichnete Bestätigung der Befähigung nach Artikel 17 Buchstabe d.
 
 <sup>3</sup> Die Geometerkommission entscheidet mit Verfügung über die Eintragung. Verweigert sie die Eintragung, so begründet sie den Entscheid.
+
+[^18-1]: Fassung gemäss Anhang 10 Ziff. II 10 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 19
 
@@ -538,7 +542,7 @@ Folgende Verordnungen werden aufgehoben:
 - a. Verordnung vom 16. November 1994[^40-1] über das eidgenössische Patent für Ingenieur-Geometerinnen und -Geometer;
 - b. Verordnung vom 6. Oktober 1980[^40-2] über Prüfungsgebühren für Vermessungstechniker.
 
-[^40-1]: [[AS 1995 881](https://fedlex.data.admin.ch/eli/oc/1995/881_881_881), [1997 1678](https://fedlex.data.admin.ch/eli/oc/1997/1678_1678_1678), [2005 1095](https://fedlex.data.admin.ch/eli/oc/2005/143), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 20]
+[^40-1]: [[AS 1995 881](https://fedlex.data.admin.ch/eli/oc/1995/881_881_881); [1997 1678](https://fedlex.data.admin.ch/eli/oc/1997/1678_1678_1678); [2005 1095](https://fedlex.data.admin.ch/eli/oc/2005/143); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 20]
 [^40-2]: [[AS 1980 1517](https://fedlex.data.admin.ch/eli/oc/1980/1517_1517_1517)]
 
 #### Art. 41
