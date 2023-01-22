@@ -4,11 +4,11 @@ title: Swiss Civil Code of 10 December 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: en
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230101/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230101-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-en-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 10 December 1907 (Status as of 1 January 2023)
+of 10 December 1907 (Status as of 23 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -761,28 +761,29 @@ The following bodies have online access to data required for proving the identit
 
 - 1\. the issuing authorities under the Federal Act of 22 June 2001[^43a-3] on Identification Documents for Swiss Nationals;
 - 2\.[^43a-4] the federal agency responsible for operating the computerised police search system under Article 15 of the Federal Act of 13 June 2008[^43a-5] on the Federal Police Information Systems and the filtering agencies of the cantonal and communal police forces linked into the search system;
-- 3\. the federal agency responsible for keeping the computerised register of convictions under Art. 359 of the Criminal Code[^43a-6];
-- 4\. the federal agency responsible for investigations regarding missing persons[^43a-7];
-- 5\.[^43a-8] the Federal Intelligence Service for the early detection and prevention of threats to internal or external security in accordance with Article 6 paragraph 1 letter a of the Intelligence Service Act of 25 September 2015[^43a-9];
-- 6\.[^43a-10] the authorities responsible for keeping the cantonal and communal registers of residents in accordance with the Register Harmonisation Act of 23 June 2006[^43a-11];
-- 7\. [^43a-12] the federal agencies responsible for keeping the central registers of insured persons in accordance with Article 71 paragraph 4 letter a of the Federal Act of 20 December 1946[^43a-13] on Old-Age and Survivors Insurance;
-- 8\. [^43a-14] the federal agencies at the Federal Department of Foreign Affairs responsible for keeping the register of Swiss living abroad in accordance with Article 4 paragraph 1 of the Federal Act of 24 March 2000[^43a-15] on the Processing of Personal Data.
+- 3\.[^43a-6] the federal authority responsible for operating the VOSTRA Register of Criminal Records information system in accordance with Article 3 of the Criminal Records Register Act of 17 June 2016[^43a-7];
+- 4\. the federal agency responsible for investigations regarding missing persons[^43a-8];
+- 5\.[^43a-9] the Federal Intelligence Service for the early detection and prevention of threats to internal or external security in accordance with Article 6 paragraph 1 letter a of the Intelligence Service Act of 25 September 2015[^43a-10];
+- 6\.[^43a-11] the authorities responsible for keeping the cantonal and communal registers of residents in accordance with the Register Harmonisation Act of 23 June 2006[^43a-12];
+- 7\. [^43a-13] the federal agencies responsible for keeping the central registers of insured persons in accordance with Article 71 paragraph 4 letter a of the Federal Act of 20 December 1946[^43a-14] on Old-Age and Survivors Insurance;
+- 8\. [^43a-15] the federal agencies at the Federal Department of Foreign Affairs responsible for keeping the register of Swiss living abroad in accordance with Article 4 paragraph 1 of the Federal Act of 24 March 2000[^43a-16] on the Processing of Personal Data.
 
 [^43a-1]: Introduced by No I of the FA of 5 Oct. 2001 (Electronic civil register), in force since 1 July 2004 ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 [^43a-2]: Inserted by No I 3 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^43a-3]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 [^43a-4]: Amended by Annex 1 No 4 of the FA of 13 June 2008 on the Federal Police Information Systems, in force since 5 Dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^43a-5]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^43a-6]: Now: Art. 365.
-[^43a-7]: Currently the Federal Office of Police.
-[^43a-8]: Inserted by Annex No II 4 of the Intelligence Service Act of 25 Sept. 2015, in force since 1 Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^43a-9]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^43a-10]: Inserted by No I 1 of the FA of 15 Dec. 2017 (Registration of Civil Status and Land Register), in force since 1 Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-11]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^43a-12]: Inserted by No I 1 of the FA of 15 Dec. 2017 (Registration of Civil Status and Land Register), in force since 1 Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-13]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^43a-14]: Inserted by No I 1 of the FA of 15 Dec. 2017 (Registration of Civil Status and Land Register), in force since 1 Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-15]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^43a-6]: Amended by Annex 1 No 2 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^43a-7]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^43a-8]: Currently the Federal Office of Police.
+[^43a-9]: Inserted by Annex No II 4 of the Intelligence Service Act of 25 Sept. 2015, in force since 1 Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^43a-10]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^43a-11]: Inserted by No I 1 of the FA of 15 Dec. 2017 (Registration of Civil Status and Land Register), in force since 1 Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-12]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^43a-13]: Inserted by No I 1 of the FA of 15 Dec. 2017 (Registration of Civil Status and Land Register), in force since 1 Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-14]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^43a-15]: Inserted by No I 1 of the FA of 15 Dec. 2017 (Registration of Civil Status and Land Register), in force since 1 Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-16]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 ### B. Organisation
 
@@ -837,7 +838,10 @@ In particular, the supervisory authority shall perform the following tasks:
 
 <sup>4</sup> The Confederation shall involve the cantons in the development of the system and provide technical support in its use.
 
-- [tab] <sup>5</sup> In cooperation with the cantons, the Federal Council regulates:
+<sup>5</sup>
+
+In cooperation with the cantons, the Federal Council regulates:
+
 - 1\. the details of the cantons’ involvement in developing the system;
 - 2\. the amount to be paid by the cantons for its use;
 - 3\. the rights of access of the civil register authorities and other agencies with access rights;
@@ -884,11 +888,8 @@ In particular, the supervisory authority shall perform the following tasks:
 In particular it regulates:
 
 - 1\. the registers to be maintained and the information to be recorded;
-
-<sup>2.</sup> the use of the OASI number[^48-1] in accordance with Article 50*c* of the Federal Act of 20 December 1946[^48-2] on the Old-Age and Survivors' Insurance for the purpose of electronic data exchange between official registers of persons;
-
-\3. the maintenance of the register;
-
+- 2\. the use of the OASI number[^48-1] in accordance with Article 50*c* of the Federal Act of 20 December 1946[^48-2] on the Old-Age and Survivors' Insurance for the purpose of electronic data exchange between official registers of persons;
+- 3\. the maintenance of the register;
 - 4\. supervision.[^48-3]
 
 <sup>3</sup> To ensure technically reliable implementation the Federal Council may set minimum requirements for the basic and continuing education and training of personnel in the civil register service and for the function of registrar.

@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 1° gennaio 2023)
+del 10 dicembre 1907 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -740,28 +740,29 @@ Hanno accesso mediante procedura di richiamo ai dati necessari alla verifica del
 
 - 1\. le autorità di rilascio ai sensi della legge federale del 22 giugno 2001[^43a-3] sui documenti d’identità dei cittadini svizzeri;
 - 2\.[^43a-4] il servizio federale competente per la gestione del sistema di ricerca informatizzato di polizia di cui all’articolo 15 della legge federale del 13 giugno 2008[^43a-5] sui sistemi d’informazione di polizia della Confederazione e i servizi di filtraggio dei corpi di polizia cantonali e comunali collegati a tale sistema;
-- 3\. il servizio federale competente per la gestione del casellario giudiziale informatizzato di cui all’articolo 359[^43a-6] del Codice penale;
-- 4\. il servizio federale competente per la ricerca di persone scomparse[^43a-7];
-- 5\.[^43a-8] il Servizio delle attività informative della Confederazione per individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a della legge federale del 25 settembre 2015[^43a-9] sulle attività informative;
-- 6\.[^43a-10] le autorità competenti per la tenuta dei registri cantonali e comunali degli abitanti ai sensi della legge del 23 giugno 2006[^43a-11] sull’armonizzazione dei registri;
-- 7\.[^43a-12] il servizio federale competente per la tenuta del registro centrale degli assicurati di cui all’articolo 71 capoverso 4 lettera a della legge federale del 20 dicembre 1946[^43a-13] sull’assicurazione per la vecchiaia e per i superstiti;
-- 8\.[^43a-14] i servizi federali competenti per la gestione del registro degli Svizzeri all’estero di cui all’articolo 4 capoverso 1 della legge federale del 24 marzo 2000[^43a-15] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri.
+- 3\.[^43a-6] il servizio federale competente per la gestione del casellario giudiziale informatizzato VOSTRA di cui all’articolo 3 della legge del 17 giugno 2016[^43a-7] sul casellario giudiziale;
+- 4\. il servizio federale competente per la ricerca di persone scomparse[^43a-8];
+- 5\.[^43a-9] il Servizio delle attività informative della Confederazione per individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a della legge federale del 25 settembre 2015[^43a-10] sulle attività informative;
+- 6\.[^43a-11] le autorità competenti per la tenuta dei registri cantonali e comunali degli abitanti ai sensi della legge del 23 giugno 2006[^43a-12] sull’armonizzazione dei registri;
+- 7\.[^43a-13] il servizio federale competente per la tenuta del registro centrale degli assicurati di cui all’articolo 71 capoverso 4 lettera a della legge federale del 20 dicembre 1946[^43a-14] sull’assicurazione per la vecchiaia e per i superstiti;
+- 8\.[^43a-15] i servizi federali competenti per la gestione del registro degli Svizzeri all’estero di cui all’articolo 4 capoverso 1 della legge federale del 24 marzo 2000[^43a-16] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri.
 
 [^43a-1]: Introdotto dal n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 [^43a-2]: Introdotto dal n. I 3 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^43a-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 [^43a-4]: Nuovo testo giusta l’all. 1 n. 4 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^43a-5]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^43a-6]: Vedi ora l’art. 365.
-[^43a-7]: Attualmente l’Ufficio federale di polizia.
-[^43a-8]: Introdotto dall’all. n. II 4 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^43a-9]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^43a-10]: Introdotto dal n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-11]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^43a-12]: Introdotto dal n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-13]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^43a-14]: Introdotto dal n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-15]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^43a-6]: Nuovo testo giusta l’all. 1 n. 2 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^43a-7]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^43a-8]: Attualmente l’Ufficio federale di polizia.
+[^43a-9]: Introdotto dall’all. n. II 4 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^43a-10]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^43a-11]: Introdotto dal n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-12]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^43a-13]: Introdotto dal n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-14]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^43a-15]: Introdotto dal n. I 1 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2019 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-16]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 ### B. Organizzazione
 

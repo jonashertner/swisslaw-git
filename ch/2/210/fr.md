@@ -4,18 +4,18 @@ title: Code civil suisse du 10 décembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code civil suisse
 
-du 10 décembre 1907 (État le 1<sup>er</sup> janvier 2023)
+du 10 décembre 1907 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -741,28 +741,29 @@ Les autorités suivantes peuvent accéder en ligne aux données nécessaires à 
 
 - 1\. les autorités d’établissement au sens de la loi fédérale du 22 juin 2001 sur les documents d’identité des ressortissants suisses[^43a-3];
 - 2\.[^43a-4] le service fédéral qui gère le système de recherche informatisé de police prévu à l’art. 15 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^43a-5] et les services de filtrage des corps de police cantonaux et municipaux raccordés à ce système de recherche;
-- 3\. le service fédéral qui tient le casier judiciaire informatisé prévu à l’art. 359 du code pénal[^43a-6];
-- 4\. le service fédéral chargé de la recherche de personnes disparues[^43a-7];
-- 5\.[^43a-8] le Service de renseignement de la Confédération en vue de déceler à temps et de prévenir des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, de la loi fédérale du 25 septembre 2015 sur le renseignement[^43a-9];
-- 6\.[^43a-10] les autorités compétentes pour la tenue des registres cantonaux et communaux des habitants au sens de la loi du 23 juin 2006 sur l’harmonisation des registres[^43a-11];
-- 7\.[^43a-12] le service fédéral compétent pour la tenue du registre central des assurés prévu à l’art. 71, al. 4, let. a, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^43a-13];
-- 8\.[^43a-14] les services fédéraux compétents pour la tenue du registre des Suisses de l’étranger prévu à l’art. 4, al. 1, de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^43a-15].
+- 3\.[^43a-6] le service fédéral qui gère le casier judiciaire informatique VOSTRA prévu à l’art. 3 de la loi du 17 juin 2016 sur le casier judiciaire[^43a-7];
+- 4\. le service fédéral chargé de la recherche de personnes disparues[^43a-8];
+- 5\.[^43a-9] le Service de renseignement de la Confédération en vue de déceler à temps et de prévenir des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, de la loi fédérale du 25 septembre 2015 sur le renseignement[^43a-10];
+- 6\.[^43a-11] les autorités compétentes pour la tenue des registres cantonaux et communaux des habitants au sens de la loi du 23 juin 2006 sur l’harmonisation des registres[^43a-12];
+- 7\.[^43a-13] le service fédéral compétent pour la tenue du registre central des assurés prévu à l’art. 71, al. 4, let. a, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^43a-14];
+- 8\.[^43a-15] les services fédéraux compétents pour la tenue du registre des Suisses de l’étranger prévu à l’art. 4, al. 1, de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^43a-16].
 
 [^43a-1]: Introduit par le ch. I de la LF du 5 oct. 2001 (Tenue informatisée des registres de l’état civil), en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1537](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 [^43a-2]: Introduit par le ch. I 3 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^43a-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 [^43a-4]: Nouvelle teneur selon l’annexe 1 ch. 4 de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^43a-5]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^43a-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement: art. 365.
-[^43a-7]: Office fédéral de la police
-[^43a-8]: Introduit par l’annexe ch. II 4 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^43a-9]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^43a-10]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-11]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^43a-12]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-13]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^43a-14]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-15]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^43a-6]: Nouvelle teneur selon l’annexe 1 ch. 2 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^43a-7]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^43a-8]: Office fédéral de la police
+[^43a-9]: Introduit par l’annexe ch. II 4 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^43a-10]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^43a-11]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-12]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^43a-13]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-14]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^43a-15]: Introduit par le ch. I 1 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-16]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 ### B. Organisation
 
@@ -869,8 +870,7 @@ Il fixe notamment les règles applicables:
 
 - 1\. aux registres à tenir et aux données à enregistrer;
 - 2\. à l’utilisation du numéro AVS[^48-1] au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^48-2] pour permettre l’échange électronique de données entre les registres officiels de personnes;
-
-<sup>3.</sup> à la tenue des registres;
+- 3\. à la tenue des registres;
 
 <sup>4.</sup> à la surveillance.[^48-3]
 
@@ -2205,7 +2205,7 @@ Par convention, les époux peuvent exclure complètement ou partiellement la mod
 
 #### Art. 128
 
-Le juge peut décider que la contribution d’entretien sera augmentée ouréduite d’office en fonction de variations déterminées du coût de la vie.
+Le juge peut décider que la contribution d’entretien sera augmentée ou réduite d’office en fonction de variations déterminées du coût de la vie.
 
 ### 3. Modification par le juge
 
@@ -12339,7 +12339,7 @@ Les cantons qui tiennent le registre foncier au moyen de l’informatique peuven
 
 <sup>2</sup>
 
-À qualité pour recourir:
+A qualité pour recourir:
 
 - 1\. toute personne atteinte de manière particulière par une décision de l’office du registre foncier et ayant un intérêt digne de protection à ce qu’elle soit annulée ou modifiée;
 - 2\. l’autorité de surveillance administrative du canton dans la mesure où le droit cantonal lui accorde un droit de recours;

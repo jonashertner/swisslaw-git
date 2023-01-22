@@ -4,18 +4,18 @@ title: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907
 short: ZGB
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230101/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Zivilgesetzbuch
 
-vom 10. Dezember 1907 (Stand am 1. Januar 2023)
+vom 10. Dezember 1907 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -759,28 +759,29 @@ Auf Daten, die für die Überprüfung der Identität einer Person notwendig sind
 
 - 1\. die ausstellenden Behörden nach dem Bundesgesetz vom 22. Juni 2001[^43a-3] über die Ausweise für Schweizer Staatsangehörige;
 - 2\.[^43a-4] die für die Führung des automatisierten Polizeifahndungssystem nach Artikel 15 des Bundesgesetzes vom 13. Juni 2008[^43a-5] über die polizeilichen Informationssysteme des Bundes zuständige Stelle des Bundes und die Filtrierstellen der im Fahndungssystem ausschreibenden kantonalen und städtischen Polizeikorps;
-- 3\. die für die Führung des automatisierten Strafregisters nach Artikel 359[^43a-6] des Strafgesetzbuches zuständige Stelle des Bundes;
-- 4\. die für die Nachforschungen nach vermissten Personen zuständige Stelle des Bundes[^43a-7];
-- 5\.[^43a-8] der Nachrichtendienst des Bundes für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^43a-9];
-- 6\.[^43a-10] die für die Führung der kantonalen und kommunalen Einwohnerregister nach dem Registerharmonisierungsgesetz vom 23. Juni 2006[^43a-11] zuständigen Behörden;
-- 7\. [^43a-12] die für die Führung des zentralen Versichertenregisters nach Artikel 71 Absatz 4 Buchstabe a des Bundesgesetzes vom 20. Dezember 1946[^43a-13] über die Alters- und Hinterlassenenversicherung zuständige Stelle des Bundes;
-- 8\. [^43a-14] die für die Führung des Auslandschweizerregisters nach Artikel 4 Absatz 1 des Bundesgesetzes vom 24. März 2000[^43a-15] über die Bearbeitung von Personendaten im Eidgenössischen Departement für auswärtige Angelegenheiten zuständigen Stellen des Bundes.
+- 3\.[^43a-6] die für die Führung des Strafregister-Informationssystems VOSTRA nach Art. 3 des Strafregistergesetzes vom 17. Juni 2016[^43a-7] zuständige Stelle des Bundes;
+- 4\. die für die Nachforschungen nach vermissten Personen zuständige Stelle des Bundes[^43a-8];
+- 5\.[^43a-9] der Nachrichtendienst des Bundes für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^43a-10];
+- 6\.[^43a-11] die für die Führung der kantonalen und kommunalen Einwohnerregister nach dem Registerharmonisierungsgesetz vom 23. Juni 2006[^43a-12] zuständigen Behörden;
+- 7\. [^43a-13] die für die Führung des zentralen Versichertenregisters nach Artikel 71 Absatz 4 Buchstabe a des Bundesgesetzes vom 20. Dezember 1946[^43a-14] über die Alters- und Hinterlassenenversicherung zuständige Stelle des Bundes;
+- 8\. [^43a-15] die für die Führung des Auslandschweizerregisters nach Artikel 4 Absatz 1 des Bundesgesetzes vom 24. März 2000[^43a-16] über die Bearbeitung von Personendaten im Eidgenössischen Departement für auswärtige Angelegenheiten zuständigen Stellen des Bundes.
 
 [^43a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2001 (Elektronische Führung der Personenstandsregister), in Kraft seit 1. Juli 2004 ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 [^43a-2]: Eingefügt durch Ziff. I 3 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^43a-3]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 [^43a-4]: Fassung gemäss Anhang 1 Ziff. 4 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^43a-5]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^43a-6]: Heute: Art. 365.
-[^43a-7]: Zurzeit das Bundesamt für Polizei.
-[^43a-8]: Eingefügt durch Anhang Ziff. II 4 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^43a-9]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^43a-10]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 (Beurkundung des Personenstands und Grundbuch), in Kraft seit 1. Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-11]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^43a-12]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 (Beurkundung des Personenstands und Grundbuch), in Kraft seit 1. Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-13]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^43a-14]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 (Beurkundung des Personenstands und Grundbuch), in Kraft seit 1. Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-15]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^43a-6]: Fassung gemäss Anhang 1 Ziff. 2 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^43a-7]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^43a-8]: Zurzeit das Bundesamt für Polizei.
+[^43a-9]: Eingefügt durch Anhang Ziff. II 4 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^43a-10]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^43a-11]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 (Beurkundung des Personenstands und Grundbuch), in Kraft seit 1. Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-12]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^43a-13]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 (Beurkundung des Personenstands und Grundbuch), in Kraft seit 1. Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-14]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^43a-15]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 (Beurkundung des Personenstands und Grundbuch), in Kraft seit 1. Jan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-16]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 ### B. Organisation
 

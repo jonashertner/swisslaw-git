@@ -4,11 +4,11 @@ title: Cudesch civil svizzer dals 10 da december 1907
 short: CCS
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: rm
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230101-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230123-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230123/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 10 da december 1907 (versiun dal 1. da schaner 2023)
+dals 10 da december 1907 (versiun dals 23 da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -761,28 +761,29 @@ A las datas ch’èn necessarias per controllar l’identitad d’ina persuna ha
 
 - 1\. las autoritads emettentas tenor la Lescha federala dals 22 da zercladur 2001[^43a-3] davart ils documents d’identitad dals burgais svizzers;
 - 2\.[^43a-4] il post federal ch’è cumpetent per l’administraziun dal sistem informatisà da retschertga da la polizia tenor l’artitgel 15 da la Lescha federala dals 13 da zercladur 2008[^43a-5] davart ils sistems d’infurmaziun da polizia federala ed ils posts da filtrar dals corps chantunals e municipals da polizia ch’èn affiliads al sistem da retschertga;
-- 3\. il post federal ch’è cumpetent per l’administraziun dal register penal informatisà tenor l’artitgel 359[^43a-6] dal Cudesch penal svizzer;
-- 4\. il post federal[^43a-7] ch’è cumpetent per far retschertgas da persunas sparidas;
-- 5\.[^43a-8] il Servetsch d’infurmaziun da la Confederaziun per scuvrir a temp e per impedir smanatschas per la segirezza interna u externa tenor l’artitgel 6 alinea 1 litera a da la Lescha federala dals 25 da settember 2015[^43a-9] davart il servetsch d’infurmaziun;
-- 6\.[^43a-10] las autoritads ch’èn cumpetentas per administrar ils registers chantunals e communals d’abitants tenor la Lescha dals 23 da zercladur 2006[^43a-11] davart l’armonisaziun dals registers;
-- 7\.[^43a-12] il post federal ch’è cumpetent per administrar il register central da las persunas assicuradas tenor l’artitgel 71 alinea 4 litera a da la Lescha federala dals 20 da december 1946[^43a-13] davart l’assicuranza per vegls e survivents;
-- 8\.[^43a-14] il posts federals ch’èn cumpetents per administrar il register dals Svizzers a l’exteriur tenor l’artitgel 4 alinea 1 da la Lescha federala dals 24 da mars 2000[^43a-15] davart l’elavuraziun da datas persunalas en il Departament federal d’affars exteriurs.
+- 3\.[^43a-6] il post federal ch’è cumpetent per manar il sistem d’infurmaziun davart il register penal VOSTRA tenor l’artitgel 3 da la Lescha dals 17 da zercladur 2016[^43a-7] davart il register penal;
+- 4\. il post federal[^43a-8] ch’è cumpetent per far retschertgas da persunas sparidas;
+- 5\.[^43a-9] il Servetsch d’infurmaziun da la Confederaziun per scuvrir a temp e per impedir smanatschas per la segirezza interna u externa tenor l’artitgel 6 alinea 1 litera a da la Lescha federala dals 25 da settember 2015[^43a-10] davart il servetsch d’infurmaziun;
+- 6\.[^43a-11] las autoritads ch’èn cumpetentas per administrar ils registers chantunals e communals d’abitants tenor la Lescha dals 23 da zercladur 2006[^43a-12] davart l’armonisaziun dals registers;
+- 7\.[^43a-13] il post federal ch’è cumpetent per administrar il register central da las persunas assicuradas tenor l’artitgel 71 alinea 4 litera a da la Lescha federala dals 20 da december 1946[^43a-14] davart l’assicuranza per vegls e survivents;
+- 8\.[^43a-15] il posts federals ch’èn cumpetents per administrar il register dals Svizzers a l’exteriur tenor l’artitgel 4 alinea 1 da la Lescha federala dals 24 da mars 2000[^43a-16] davart l’elavuraziun da datas persunalas en il Departament federal d’affars exteriurs.
 
 [^43a-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 2001 (administraziun electronica dal register dal stadi civil), en vigur dapi il 1. da fan. 2004 ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 [^43a-2]: Integrà tras la cifra I 3 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^43a-3]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 [^43a-4]: Versiun tenor la cifra 4 da l’agiunta 1 da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun da polizia da la Confederaziun, en vigur dapi ils 5 da dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^43a-5]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^43a-6]: Ussa: art. 365.
-[^43a-7]: Actualmain l’Uffizi federal da polizia.
-[^43a-8]: Integrà tras la cifra II 4 da l’agiunta da la LF dals 25 da sett. 2015 davart il servetsch d’infurmaziun, en vigur dapi il 1. da sett. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^43a-9]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^43a-10]: Integrà tras la cifra I 1 da la LF dals 15 da dec. 2017 (documentaziun publica dal stadi civil e register funsil), en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-11]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^43a-12]: Integrà tras la cifra I 1 da la LF dals 15 da dec. 2017 (documentaziun publica dal stadi civil e register funsil), en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-13]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^43a-14]: Integrà tras la cifra I 1 da la LF dals 15 da dec. 2017 (documentaziun publica dal stadi civil e register funsil), en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
-[^43a-15]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^43a-6]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^43a-7]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^43a-8]: Actualmain l’Uffizi federal da polizia.
+[^43a-9]: Integrà tras la cifra II 4 da l’agiunta da la LF dals 25 da sett. 2015 davart il servetsch d’infurmaziun, en vigur dapi il 1. da sett. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^43a-10]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^43a-11]: Integrà tras la cifra I 1 da la LF dals 15 da dec. 2017 (documentaziun publica dal stadi civil e register funsil), en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-12]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^43a-13]: Integrà tras la cifra I 1 da la LF dals 15 da dec. 2017 (documentaziun publica dal stadi civil e register funsil), en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-14]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^43a-15]: Integrà tras la cifra I 1 da la LF dals 15 da dec. 2017 (documentaziun publica dal stadi civil e register funsil), en vigur dapi il 1. da schan. 2019 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+[^43a-16]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 ### B. Organisaziun
 
