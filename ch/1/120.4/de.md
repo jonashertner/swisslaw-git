@@ -4,11 +4,11 @@ title: Verordnung vom 4. März 2011 über die Personensicherheitsprüfungen (PSP
 short: PSPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: de
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-155-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20220101/de"
 
 (PSPV)
 
-vom 4. März 2011 (Stand am 1. Januar 2022)
+vom 4. März 2011 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -239,7 +239,7 @@ Sie kann zusätzlich die Daten nach Artikel 20 Absatz 2 Buchstaben c, e und f BW
 <sup>5</sup> Die Prüfbehörde beurteilt die betreffende Person aufgrund der erhobenen Daten.
 
 [^11-1]: Eingefügt durch Art. 25 Ziff. 1 der GEVER-Verordnung vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808)).
-[^11-2]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+[^11-2]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808); [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 [^11-3]: Fassung gemäss Ziff. III 1 der V vom 30. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5903](https://fedlex.data.admin.ch/eli/oc/2011/817)).
 [^11-4]: [SR 361.4](https://fedlex.data.admin.ch/eli/cc/2008/701)
 [^11-5]: Fassung gemäss Ziff. I der V vom 9. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)).
@@ -382,11 +382,11 @@ Die Personensicherheitsprüfung wird wiederholt nach:
 
 <sup>1</sup>
 
-Die Fachstelle PSP VBS hat zur Erfüllung ihrer Aufgaben über ein Abrufverfahren direkten Zugriff auf die nachfolgend genannten Register und Datenbanken im Umfang der entsprechenden Registerverordnungen:
+Die Fachstelle PSP VBS hat zur Erfüllung ihrer Aufgaben über ein Abrufverfahren direkten Zugriff auf die nachfolgend genannten Register und Datenbanken im Umfang der entsprechenden Gesetze und Registerverordnungen:[^19-1]
 
-- a. das automatisierte Strafregister nach der VOSTRA-Verordnung vom 29. September 2006[^19-1];
-- b. den nationalen Polizeiindex nach der Polizeiindex-Verordnung vom 15. Oktober 2008[^19-2];
-- c. das Informationssystem Innere Sicherheit (ISIS) nach der Verordnung vom 4. Dezember 2009[^19-3] über die Informationssysteme des Nachrichtendienstes des Bundes.
+- a.[^19-2] das Strafregister-Informationssystems VOSTRA nach dem Strafregistergesetz vom 17. Juni 2016[^19-3];
+- b. den nationalen Polizeiindex nach der Polizeiindex-Verordnung vom 15. Oktober 2008[^19-4];
+- c. das Informationssystem Innere Sicherheit (ISIS) nach der Verordnung vom 4. Dezember 2009[^19-5] über die Informationssysteme des Nachrichtendienstes des Bundes.
 
 <sup>2</sup> Weitere Daten, für die sie kein direktes Zugriffsrecht hat, kann die Fachstelle PSP VBS über die Sicherheitsorgane des Bundes oder bei den entsprechenden kantonalen Behörden anfordern.
 
@@ -401,9 +401,11 @@ Die Fachstelle PSP VBS muss mindestens auf die Daten folgender Zeiträume zurüc
 
 <sup>5</sup> Kann eine Personensicherheitsprüfung nach Artikel 10 für das im Ausland nach lokalem Recht angestellte Personal des EDA nicht durchgeführt werden, weil die Fachstelle PSP VBS aufgrund fehlender Informationsschutzabkommen oder Abkommen über die polizeiliche Zusammenarbeit keine Daten beziehen kann, entscheidet das EDA im Einzelfall über die Gewährung von regelmässigem Zugang zu vertraulich klassifizierten Informationen.
 
-[^19-1]: [SR 331](https://fedlex.data.admin.ch/eli/cc/2022/698)
-[^19-2]: [SR 361.4](https://fedlex.data.admin.ch/eli/cc/2008/701)
-[^19-3]: [[AS 2009 7041](https://fedlex.data.admin.ch/eli/oc/2009/849), [2011 6081](https://fedlex.data.admin.ch/eli/oc/2011/839), [2013 4359](https://fedlex.data.admin.ch/eli/oc/2013/776). [AS 2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)Art. 45]. Siehe heute: die V vom 8. Okt. 2014 über die Informationssysteme des Nachrichtendienstes des Bundes ([SR 121.2](https://fedlex.data.admin.ch/eli/cc/2017/496)).
+[^19-1]: Fassung gemäss Anhang 10 Ziff. II 1 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^19-2]: Fassung gemäss Anhang 10 Ziff. II 1 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^19-3]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-4]: [SR 361.4](https://fedlex.data.admin.ch/eli/cc/2008/701)
+[^19-5]: [[AS 2009 7041](https://fedlex.data.admin.ch/eli/oc/2009/849); [2011 6081](https://fedlex.data.admin.ch/eli/oc/2011/839); [2013 4359](https://fedlex.data.admin.ch/eli/oc/2013/776). [AS 2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)Art. 45]. Siehe heute: die V vom 8. Okt. 2014 über die Informationssysteme des Nachrichtendienstes des Bundes ([SR 121.2](https://fedlex.data.admin.ch/eli/cc/2017/496)).
 
 #### Art. 20
 
@@ -543,7 +545,7 @@ Das VBS beantragt dem Bundesrat mindestens alle fünf Jahre die Aktualisierung d
 
 <sup>2</sup> Die Änderung bisherigen Rechts wird im Anhang 3 geregelt.
 
-[^31-1]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)Art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 2]
+[^31-1]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91); [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597); [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)Art. 13, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 1; [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 3, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 2; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 2]
 
 #### Art. 32
 

@@ -4,11 +4,11 @@ title: Ordinanza del 4 marzo 2011 sui controlli di sicurezza relativi alle perso
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: it
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-155-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20220101/it"
 
 (OCSP)
 
-del 4 marzo 2011 (Stato 1° gennaio 2022)
+del 4 marzo 2011 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -383,11 +383,11 @@ Il controllo di sicurezza relativo alle persone è ripetuto dopo:
 
 <sup>1</sup>
 
-Per l’adempimento dei suoi compiti, il servizio specializzato CSP DDPS ha direttamente accesso mediante una procedura di richiamo, nella misura stabilita dalle pertinenti ordinanze concernenti i registri, ai registri e alle banche dati seguenti:
+Per l’adempimento dei suoi compiti, il servizio specializzato CSP DDPS ha direttamente accesso mediante una procedura di richiamo, nella misura stabilita dalle pertinenti leggi e ordinanze concernenti i registri, ai registri e alle banche dati seguenti:[^19-1]
 
-- a. casellario giudiziale informatizzato secondo l’ordinanza VOSTRA del 29 settembre 2006[^19-1];
-- b. registro nazionale di polizia secondo l’ordinanza del 15 ottobre 2008[^19-2] sul Registro nazionale di polizia;
-- c. Sistema d’informazione Sicurezza interna (ISIS) secondo l’ordinanza del 4 dicembre 2009[^19-3] sui sistemi d’informazione del Servizio delle attività informative della Confederazione.
+- a.[^19-2] casellario giudiziale informatizzato VOSTRA secondo la legge del 17 giugno 2016[^19-3] sul casellario giudiziale;
+- b. registro nazionale di polizia secondo l’ordinanza del 15 ottobre 2008[^19-4] sul Registro nazionale di polizia;
+- c. Sistema d’informazione Sicurezza interna (ISIS) secondo l’ordinanza del 4 dicembre 2009[^19-5] sui sistemi d’informazione del Servizio delle attività informative della Confederazione.
 
 <sup>2</sup> Il servizio specializzato CSP DDPS può richiedere, per il tramite degli organi di sicurezza della Confederazione oppure alle pertinenti autorità cantonali, altri dati ai quali non ha il diritto di accedere direttamente.
 
@@ -402,9 +402,11 @@ Il servizio specializzato CSP DDPS deve disporre almeno di dati concernenti i se
 
 <sup>5</sup> Se per il personale del DFAE assunto all’estero secondo il diritto locale non è possibile eseguire un controllo di sicurezza relativo alle persone secondo l’articolo 10 perché il servizio specializzato CSP DDPS non può ottenere dati a causa dell’assenza di convenzioni sulla protezione delle informazioni o di accordi sulla cooperazione di polizia, il DFAE decide nel singolo caso in merito alla concessione dell’accesso regolare a informazioni classificate CONFIDENZIALE.
 
-[^19-1]: [RS 331](https://fedlex.data.admin.ch/eli/cc/2022/698)
-[^19-2]: [RS 361.4](https://fedlex.data.admin.ch/eli/cc/2008/701)
-[^19-3]: [[RU 2009 7041](https://fedlex.data.admin.ch/eli/oc/2009/849), [2011 6081](https://fedlex.data.admin.ch/eli/oc/2011/839), [2013 4359](https://fedlex.data.admin.ch/eli/oc/2013/776). [RU 2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 45]. Vedi ora l’O del del 16 ago. 2017 sui sistemi d’informazione e di memorizzazione del Servizio delle attività informative della Confederazione ([RS 121.2](https://fedlex.data.admin.ch/eli/cc/2017/496)).
+[^19-1]: Nuovo testo giusta l’all. 10 n. II 1 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^19-2]: Nuovo testo giusta l’all. 10 n. II 1 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^19-3]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-4]: [RS 361.4](https://fedlex.data.admin.ch/eli/cc/2008/701)
+[^19-5]: [[RU 2009 7041](https://fedlex.data.admin.ch/eli/oc/2009/849), [2011 6081](https://fedlex.data.admin.ch/eli/oc/2011/839), [2013 4359](https://fedlex.data.admin.ch/eli/oc/2013/776). [RU 2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 45]. Vedi ora l’O del del 16 ago. 2017 sui sistemi d’informazione e di memorizzazione del Servizio delle attività informative della Confederazione ([RS 121.2](https://fedlex.data.admin.ch/eli/cc/2017/496)).
 
 #### Art. 20
 
@@ -965,6 +967,6 @@ Allegato 3
 
 ## Modifica del diritto vigente
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Le mod. possono essere consultate alla [RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155).

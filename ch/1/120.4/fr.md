@@ -4,11 +4,11 @@ title: Ordonnance du 4 mars 2011 sur les contrôles de sécurité relatifs aux p
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/155"
 language: fr
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2011-03-04
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-155-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/155/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2011-155-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/155/20220101/fr"
 
 (OCSP)
 
-du 4 mars 2011 (Etat le 1<sup>er</sup> janvier 2022)
+du 4 mars 2011 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -383,11 +383,11 @@ Le contrôle de sécurité relatif aux personnes est répété au bout de:
 
 <sup>1</sup>
 
-Pour mener à bien ses tâches, le Service spécialisé CSP DDPS dispose d’un accès en ligne direct aux registres et aux bases de données ci-après, dans la limite prescrite par les ordonnances édictées à cet effet:
+Pour mener à bien ses tâches, le Service spécialisé CSP DDPS dispose d’un accès en ligne direct aux registres et aux bases de données ci-après, dans la limite prescrite par les lois et les ordonnances édictées à cet effet:[^19-1]
 
-- a. le casier judiciaire informatisé, conformément à l’ordonnance du 29 septembre 2006 sur le casier judiciaire[^19-1];
-- b. l’index national de police, conformément à l’ordonnance du 15 octobre 2008 sur l’index national de police[^19-2];
-- c. le système d’information sécurité intérieure (ISIS), conformément à l’ordonnance du 4 décembre 2009 sur les systèmes d’information du Service de renseignement de la Confédération[^19-3].
+- a.[^19-2] le casier judiciaire informatique VOSTRA, conformément à la loi du 17 juin 2016 sur le casier judiciaire[^19-3];
+- b. l’index national de police, conformément à l’ordonnance du 15 octobre 2008 sur l’index national de police[^19-4];
+- c. le système d’information sécurité intérieure (ISIS), conformément à l’ordonnance du 4 décembre 2009 sur les systèmes d’information du Service de renseignement de la Confédération[^19-5].
 
 <sup>2</sup> S’il a besoin de données supplémentaires pour lesquelles il ne dispose pas d’un droit d’accès direct, le Service spécialisé CSP DDPS peut les demander par l’entremise des organes fédéraux chargés de la sécurité ou des autorités cantonales compétentes.
 
@@ -402,9 +402,11 @@ Le Service spécialisé CSP DDPS doit, pour le moins, disposer de données couvr
 
 <sup>5</sup> Lorsqu’un contrôle de sécurité visé par l’art. 10 ne peut pas être mené auprès du personnel du DFAE engagé à l’étranger selon le droit local du fait que le Service spécialisé CSP DDPS n’est pas en mesure de saisir des données faute d’accords relatifs à la protection des informations ou d’accords de coopération policière, le DFAE décide, au cas par cas, d’accorder ou non un accès régulier à des informations classifiées CONFIDENTIEL.
 
-[^19-1]: [RS 331](https://fedlex.data.admin.ch/eli/cc/2022/698)
-[^19-2]: [RS 361.4](https://fedlex.data.admin.ch/eli/cc/2008/701)
-[^19-3]: [[RO 2009 7041](https://fedlex.data.admin.ch/eli/oc/2009/849), [2011 6081](https://fedlex.data.admin.ch/eli/oc/2011/839), [2013 4359](https://fedlex.data.admin.ch/eli/oc/2013/776). [RO 2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 45]. Voir actuellement l’O du 16 août 2017 sur les systèmes d'information du Service de renseignement de la Confédération ([RS 121.2](https://fedlex.data.admin.ch/eli/cc/2017/496)).
+[^19-1]: Nouvelle teneur selon l’annexe 10 ch. II 1 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^19-2]: Nouvelle teneur selon l’annexe 10 ch. II 1 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^19-3]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-4]: [RS 361.4](https://fedlex.data.admin.ch/eli/cc/2008/701)
+[^19-5]: [[RO 2009 7041](https://fedlex.data.admin.ch/eli/oc/2009/849), [2011 6081](https://fedlex.data.admin.ch/eli/oc/2011/839), [2013 4359](https://fedlex.data.admin.ch/eli/oc/2013/776). [RO 2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 45]. Voir actuellement l’O du 16 août 2017 sur les systèmes d'information du Service de renseignement de la Confédération ([RS 121.2](https://fedlex.data.admin.ch/eli/cc/2017/496)).
 
 #### Art. 20
 
@@ -514,7 +516,7 @@ La personne concernée peut, en tout temps, demander à l’autorité chargée d
 
 Les documents produits lors du contrôle de sécurité relatif aux personnes ne doivent pas être utilisés à d’autres fins, sous réserve de leur utilisation dans une procédure pénale ouverte par la Confédération à l’encontre de la personne concernée ou à des fins de sauvegarde de la sûreté intérieure ou extérieure de la Suisse.
 
-[^28-1]: Nouvelle teneur selon le ch. II 1 de l’annexe 4 à l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^28-1]: Nouvelle teneur selon le l’annexe 4 ch. II 1 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 29
 
@@ -570,7 +572,7 @@ Annexe 1[^t-1]
 
 ## Fonctions de l’administration fédérale nécessitant un contrôle de sécurité relatif aux personnes
 
-[^t-1]: Mise à jour par le ch. II du l’O du 9 mars 2012 ([RO 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)), l’art. 15 ch. 1 de l’O du 17 oct. 2012 sur la guerre électronique et l’exploration radio ([RO 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638)), le ch. I 1 de l’O du 15 juin 2012 (Réorganisation des départements; [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)) et le ch. I 1 de l’O du 4 sept. 2013 (Réorganisation de la sécurité alimentaire et des affaires vétérinaires) ([RO 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)), le ch. 1 de l’annexe à l’O du 3 juin 2016 ([RO 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)) le ch. 1 de l’annexe à l’O du 16 août 2017 sur la surveillance des activités de renseignement ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)) et l’annexe ch. 1 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^t-1]: Mise à jour par le ch. II du l’O du 9 mars 2012 ([RO 2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171)), l’art. 15 ch. 1 de l’O du 17 oct. 2012 sur la guerre électronique et l’exploration radio ([RO 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638)), le ch. I 1 de l’O du 15 juin 2012 (Réorganisation des départements; [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), le ch. I 1 de l’O du 4 sept. 2013 (Réorganisation de la sécurité alimentaire et des affaires vétérinaires) ([RO 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)), l’annexe ch. 1 de l’O du 3 juin 2016 ([RO 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)), l’annexe ch. 1 de l’O du 16 août 2017 sur la surveillance des activités de renseignement ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)) et l’annexe ch. 1 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
 
 ### 1. Fonctions générales au sein de l’administration fédérale
 
