@@ -4,11 +4,11 @@ title: Legge federale del 25 settembre 2020 sui precursori di sostanze esplodent
 short: LPre
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/352"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2020-09-25
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230101/it"
 
 (LPre)
 
-del 25 settembre 2020 (Stato 1° gennaio 2023)
+del 25 settembre 2020 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -264,23 +264,24 @@ Per trattare le domande di autorizzazione di acquisto e di autorizzazione eccezi
 - f. registro nazionale di polizia di cui all’articolo 17 LSIP;
 - g. sistema di gestione delle pratiche e degli atti di fedpol di cui all’articolo 18 LSIP;
 - h. sistema d’informazione INDEX SIC del Servizio delle attività informative della Confederazione (SIC) di cui all’articolo 51 della legge federale del 25 settembre 2015[^18-2] sulle attività informative;
-- i. casellario giudiziale informatizzato di cui all’articolo 365 del Codice penale (CP)[^18-3];
-- j. banca dati sul rifiuto e la revoca di autorizzazioni e sul sequestro di armi (DEBBWA) di cui all’articolo 32*a* capoverso 1 lettera c della legge del 20 giugno 1997[^18-4] sulle armi (LArm);
+- i.[^18-3] casellario giudiziale informatizzato ai sensi della legge del 17 giugno 2016[^18-4] sul casellario giudiziale;
+- j. banca dati sul rifiuto e la revoca di autorizzazioni e sul sequestro di armi (DEBBWA) di cui all’articolo 32*a* capoverso 1 lettera c della legge del 20 giugno 1997[^18-5] sulle armi (LArm);
 - k. banca dati DAWA di cui all’articolo 32*a* capoverso 1 lettera d LArm;
-- l. sistema d’informazione sui documenti d’identità di cui all’articolo 11 della legge del 22 giugno 2001[^18-5] sui documenti d’identità;
-- m. sistema d’informazione ai sensi della legge federale del 20 giugno 2003[^18-6] sul sistema d’informazione per il settore degli stranieri e dell’asilo.
+- l. sistema d’informazione sui documenti d’identità di cui all’articolo 11 della legge del 22 giugno 2001[^18-6] sui documenti d’identità;
+- m. sistema d’informazione ai sensi della legge federale del 20 giugno 2003[^18-7] sul sistema d’informazione per il settore degli stranieri e dell’asilo.
 
-<sup>2</sup> Le autorità della Confederazione e dei Cantoni, segnatamente le autorità di perseguimento penale, l’UDSC e le autorità competenti per l’esecuzione della LArm e della legge federale del 25 marzo 1977[^18-7] sugli esplosivi (LEspl) forniscono ai servizi competenti di fedpol, su richiesta, le informazioni necessarie a individuare e valutare potenziali minacce correlate ai precursori.
+<sup>2</sup> Le autorità della Confederazione e dei Cantoni, segnatamente le autorità di perseguimento penale, l’UDSC e le autorità competenti per l’esecuzione della LArm e della legge federale del 25 marzo 1977[^18-8] sugli esplosivi (LEspl) forniscono ai servizi competenti di fedpol, su richiesta, le informazioni necessarie a individuare e valutare potenziali minacce correlate ai precursori.
 
 <sup>3</sup> In caso di eventi sospetti, i servizi competenti di fedpol possono raccogliere dati personali provenienti da fonti accessibili al pubblico.
 
 [^18-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^18-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^18-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^18-5]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^18-6]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^18-7]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^18-3]: Testo giusta l’art. 42, in vigore dal 23 gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352), [600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^18-4]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^18-5]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^18-6]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^18-7]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^18-8]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
 
 #### Art. 19
 
@@ -532,10 +533,10 @@ La modifica di altri atti normativi è disciplinata nell’allegato.
 
 Indipendentemente dal fatto che entri prima in vigore la presente modifica della legge federale del 20 giugno 2003[^40-1] sul sistema d’informazione per il settore degli stranieri e dell’asilo (LSISA; all. n. 1) o la modifica della LSISA nel quadro della LSIe[^40-2] (all. n. 1), alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi la disposizione qui appresso avrà il seguente tenore:
 
-...
+…
 
 [^40-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^40-2]: [FF 2019 5419](https://fedlex.data.admin.ch/eli/fga/2019/2311). Respinta nella votazione popolare del 7 marzo 2021 ([FF 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^40-2]: [FF 2019 5419](https://fedlex.data.admin.ch/eli/fga/2019/2311). Respinta nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html)([FF 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 
 #### Art. 41
 
@@ -554,20 +555,9 @@ Art. 23 cpv. 1
 
 **Coordinamento con la legge del 17 giugno 2016 sul casellario giudiziale**
 
-All’entrata in vigore della legge del 17 giugno 2016[^42-1] sul casellario giudiziale le disposizioni qui appresso avranno il seguente tenore:
+…[^42-1]
 
-Art. 18 cpv. 1 lett. i
-
-<sup>1</sup> Art. 367 cpv. 2 lett. c CP (all. n. 2)
-
-Priva di oggetto o abrogata
-
-Per trattare le domande di autorizzazione di acquisto e di autorizzazione eccezionale, per verificare tali autorizzazioni e per trattare le segnalazioni di eventi sospetti, i servizi competenti di fedpol possono accedere automaticamente ai sistemi d’informazione seguenti:
-
-- i. casellario giudiziale informatizzato ai sensi della legge del 17 giugno 2016[^42-2] sul casellario giudiziale;
-
-[^42-1]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [FF 2016 4315](https://fedlex.data.admin.ch/eli/fga/2016/1052)
-[^42-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^42-1]: Le disp. di possono essere consultate alla RU**2022** 352.
 
 #### Art. 43
 
@@ -589,6 +579,6 @@ Allegato
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352).

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2020 über Vorläuferstoffe für explosio
 short: VSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/352"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2020-09-25
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230101/de"
 
 (Vorläuferstoffgesetz, VSG)
 
-vom 25. September 2020 (Stand am 1. Januar 2023)
+vom 25. September 2020 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -264,23 +264,24 @@ Bei der Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen, der Übe
 - f. nationaler Polizei-Index nach Artikel 17 BPI;
 - g. Geschäfts- und Aktenverwaltungssystem von fedpol nach Artikel 18 BPI;
 - h. Informationssystem Index NDB des Nachrichtendienstes des Bundes (NDB) nach Artikel 51 des Nachrichtendienstgesetzes vom 25. September 2015[^18-2];
-- i. Strafregister-Informationssystem nach Artikel 365 des Strafgesetzbuches (StGB)[^18-3];
-- j. Datenbank nach Artikel 32*a* Absatz 1 Buchstabe c des Waffengesetzes vom 20. Juni 1997[^18-4] (WG) über den Entzug und die Verweigerung von Bewilligungen und die Beschlagnahme von Waffen (DEBBWA);
+- i.[^18-3] Strafregister-Informationssystem nach dem Strafregistergesetzes vom 17. Juni 2016[^18-4];
+- j. Datenbank nach Artikel 32*a* Absatz 1 Buchstabe c des Waffengesetzes vom 20. Juni 1997[^18-5] (WG) über den Entzug und die Verweigerung von Bewilligungen und die Beschlagnahme von Waffen (DEBBWA);
 - k. Datenbank DAWA nach Artikel 32*a* Absatz 1 Buchstabe d WG;
-- l. Informationssystem Ausweisschriften nach Artikel 11 des Ausweisgesetzes vom 22. Juni 2001[^18-5];
-- m. Informationssystem nach dem Bundesgesetz vom 20. Juni 2003[^18-6] über das Informationssystem für den Ausländer- und den Asylbereich.
+- l. Informationssystem Ausweisschriften nach Artikel 11 des Ausweisgesetzes vom 22. Juni 2001[^18-6];
+- m. Informationssystem nach dem Bundesgesetz vom 20. Juni 2003[^18-7] über das Informationssystem für den Ausländer- und den Asylbereich.
 
-<sup>2</sup> Die Behörden des Bundes und der Kantone, namentlich die Strafverfolgungsbehörden, das BAZG und die für den Vollzug des WG und des Sprengstoffgesetzes vom 25. März 1977[^18-7] (SprstG) zuständigen Behörden, erteilen den zuständigen Stellen von fedpol auf Anfrage Auskünfte zur Erkennung und zur Beurteilung von möglichen Gefährdungen in Zusammenhang mit Vorläuferstoffen.
+<sup>2</sup> Die Behörden des Bundes und der Kantone, namentlich die Strafverfolgungsbehörden, das BAZG und die für den Vollzug des WG und des Sprengstoffgesetzes vom 25. März 1977[^18-8] (SprstG) zuständigen Behörden, erteilen den zuständigen Stellen von fedpol auf Anfrage Auskünfte zur Erkennung und zur Beurteilung von möglichen Gefährdungen in Zusammenhang mit Vorläuferstoffen.
 
 <sup>3</sup> Im Fall von verdächtigen Vorkommnissen können die zuständigen Stellen von fedpol Personendaten auch aus öffentlich zugänglichen Quellen erheben.
 
 [^18-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^18-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^18-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-4]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^18-5]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^18-6]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^18-7]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^18-3]: Fassung gemäss Art. 42, in Kraft seit 23. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352), [600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^18-4]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^18-5]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^18-6]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^18-7]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^18-8]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
 
 #### Art. 19
 
@@ -530,12 +531,9 @@ Die Änderung anderer Erlasse wird im Anhang geregelt.
 
 **Koordination mit dem E-ID-Gesetz vom 27. September 2019**
 
-Unabhängig davon, ob zuerst die vorliegende Änderung des Bundesgesetzes vom 20. Juni 2003[^40-1] über das Informationssystem für den Ausländer- und den Asylbereich (BGIAA) (Anhang Ziff. 1) oder die Änderung des BGIAA im Rahmen des E-ID-Gesetzes[^40-2] (Anhang Ziff. 1) in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachstehende Bestimmung wie folgt:
+…[^40-1]
 
-…
-
-[^40-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^40-2]: [BBl 2019 6567](https://fedlex.data.admin.ch/eli/fga/2019/2311). In der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html)abgelehnt ([BBl 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^40-1]: [BBl 2019 6567](https://fedlex.data.admin.ch/eli/fga/2019/2311). In der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html)abgelehnt ([BBl 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 
 #### Art. 41
 
@@ -554,20 +552,9 @@ Art. 23 Abs. 1
 
 **Koordination mit dem Strafregistergesetz vom 17. Juni 2016**
 
-Mit Inkrafttreten des Strafregistergesetzes vom 17. Juni 2016[^42-1] lauten die nachfolgenden Bestimmungen wie folgt:
+…[^42-1]
 
-Art. 18 Abs. 1 Bst. i
-
-<sup>1</sup> Art. 367 Abs. 2 Bst. c StGB (Anhang Ziff. 2)
-
-Gegenstandslos oder Aufgehoben
-
-Bei der Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen, der Überprüfung dieser Bewilligungen und der Bearbeitung von Verdachtsmeldungen können die zuständigen Stellen von fedpol automatisch auf die folgenden Informationssysteme zugreifen:
-
-- i. Strafregister-Informationssystem nach dem Strafregistergesetzes vom 17. Juni 2016[^42-2];
-
-[^42-1]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [BBl 2016 4871](https://fedlex.data.admin.ch/eli/fga/2016/1052)
-[^42-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^42-1]: Die Koordinationsbestimmungen können unter [AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352)konsultiert werden.
 
 #### Art. 43
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 25 septembre 2020 sur les précurseurs de substances ex
 short: LPSE
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/352"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2020-09-25
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230101/fr"
 
 (LPSE)
 
-du 25 septembre 2020 (Etat le 1<sup>er</sup> janvier 2023)
+du 25 septembre 2020 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -264,23 +264,24 @@ Les services compétents de fedpol peuvent accéder automatiquement aux système
 - f. index national de police visé à l’art. 17 LSIP;
 - g. système de gestion des affaires et des dossiers de fedpol visé à l’art. 18 LSIP;
 - h. système d’indexation des données INDEX SRC du Service de renseignement de la Confédération (SRC) visé à l’art. 51 de la loi fédérale du 25 septembre 2015 sur le renseignement[^18-2];
-- i. casier judiciaire informatisé visé à l’art. 365 du code pénal (CP)[^18-3];
-- j. banque de données relative au refus de délivrer des autorisations, à la révocation d’autorisations et à la mise sous séquestre d’armes (DEBBWA) visée à l’art. 32*a*, al. 1, let. c, de la loi du 20 juin 1997 sur les armes (LArm)[^18-4];
+- i.[^18-3] casier judiciaire informatisé au sens de la loi du 17 juin 2016 sur le casier judiciaire[^18-4];
+- j. banque de données relative au refus de délivrer des autorisations, à la révocation d’autorisations et à la mise sous séquestre d’armes (DEBBWA) visée à l’art. 32*a*, al. 1, let. c, de la loi du 20 juin 1997 sur les armes (LArm)[^18-5];
 - k. banque de données DAWA visée à l’art. 32*a*, al. 1, let. d, LArm;
-- l. système d’information sur les documents d’identité visé à l’art. 11 de la loi du 22 juin 2001 sur les documents d’identité[^18-5];
-- m. système d’information visé par la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^18-6].
+- l. système d’information sur les documents d’identité visé à l’art. 11 de la loi du 22 juin 2001 sur les documents d’identité[^18-6];
+- m. système d’information visé par la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^18-7].
 
-<sup>2</sup> Sur demande des services compétents de fedpol, les autorités fédérales et cantonales, notamment les autorités de poursuite pénale, l’OFDF et les autorités chargées de l’exécution de la LArm et de la loi du 25 mars 1977 sur les explosifs (LExpl)[^18-7], leur fournissent les renseignements nécessaires pour déceler et évaluer les menaces potentielles liées aux précurseurs.
+<sup>2</sup> Sur demande des services compétents de fedpol, les autorités fédérales et cantonales, notamment les autorités de poursuite pénale, l’OFDF et les autorités chargées de l’exécution de la LArm et de la loi du 25 mars 1977 sur les explosifs (LExpl)[^18-8], leur fournissent les renseignements nécessaires pour déceler et évaluer les menaces potentielles liées aux précurseurs.
 
 <sup>3</sup> En cas d’événements suspects, les services compétents de fedpol peuvent collecter des données personnelles provenant aussi de sources accessibles au public.
 
 [^18-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^18-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^18-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^18-5]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^18-6]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^18-7]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^18-3]: Teneur selon l’art. 42, en vigueur depuis le 23 janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352), [600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^18-4]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^18-5]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^18-6]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^18-7]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^18-8]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
 
 #### Art. 19
 
@@ -575,20 +576,9 @@ Art. 23, al. 1
 
 **Coordination avec la loi du 17 juin 2016 sur le casier judiciaire**
 
-À l’entrée en vigueur de la loi du 17 juin 2016 sur le casier judiciaire[^42-1], les dispositions ci-après ont la teneur suivante:
+…[^42-1]
 
-Art. 18, al. 1, let. i
-
-<sup>1</sup> Art. 367, al. 2, let. c CP (annexe, ch. 2)
-
-Sans objet ou abrogée
-
-Les services compétents de fedpol peuvent accéder automatiquement aux systèmes d’information suivants pour traiter les demandes d’autorisation d’acquisition et d’autorisation exceptionnelle, vérifier ces autorisations et traiter les signalements d’événements suspects:
-
-- i. casier judiciaire informatisé au sens de la loi du 17 juin 2016 sur le casier judiciaire[^42-2];
-
-[^42-1]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [FF 2016 4703](https://fedlex.data.admin.ch/eli/fga/2016/1052)
-[^42-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^42-1]: La disp. de coordination peut être consultée au [RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352).
 
 #### Art. 43
 
@@ -610,6 +600,6 @@ Annexe
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352).
