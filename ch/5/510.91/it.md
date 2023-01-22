@@ -4,11 +4,11 @@ title: Legge federale del 3 ottobre 2008 sui sistemi d’informazione militari e
 short: LSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230101/it"
 
 (LSIM)
 
-del 3 ottobre 2008 (Stato 1° gennaio 2023)
+del 3 ottobre 2008 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -338,7 +338,7 @@ L’Aggruppamento Difesa comunica agli organi e alle persone seguenti i dati del
 
 - a. alle associazioni militari e società di tiro: l’indirizzo, il grado e l’incorporazione di persone soggette all’obbligo di prestare servizio militare, per favorire nuove adesioni e la sottoscrizione di abbonamenti, nonché per le attività fuori del servizio;
 - b. ai media: il cognome, il grado e l’incorporazione in occasione di promozioni e nomine;
-- c.[^16-17] all’organo della Confederazione competente per il casellario giudiziale federale: le generalità necessarie per l’adempimento dell’obbligo di notifica giusta l’articolo 367 capoverso 2<sup>quater</sup> del Codice penale[^16-18];
+- c.[^16-17] all’organo della Confederazione competente per il casellario giudiziale informatizzato VOSTRA: le generalità necessarie per l’adempimento dell’obbligo di comunicazione giusta l’articolo 59 della legge del 17 giugno 2016[^16-18] sul casellario giudiziale;
 - d. all’organo competente per la contrassegnazione delle uniformi e del materiale personale: il cognome e il nome nonché, per il materiale personale, il numero AVS;
 - e.[^16-19] all’Ufficio centrale Armi e alle autorità cantonali competenti: la decisione concernente i motivi d’impedimento alla consegna dell’arma personale e la decisione concernente il suo ritiro cautelare o definitivo.
 
@@ -361,9 +361,9 @@ L’Aggruppamento Difesa comunica agli organi e alle persone seguenti i dati del
 [^16-13]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-14]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-15]: Nuovo testo giusta il n. I 12 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^16-16]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-17]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-18]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-16]: Nuovo testo giusta l’all. 2 n. 4 della LF del 17 giu. 2016 sul casellario giudiziale informatizzato VOSTRA, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-17]: Nuovo testo giusta l’all. 2 n. 4 della LF del 17 giu. 2016 sul casellario giudiziale informatizzato VOSTRA, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-18]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 [^16-19]: Introdotta dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^16-20]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^16-21]: Introdotto dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).

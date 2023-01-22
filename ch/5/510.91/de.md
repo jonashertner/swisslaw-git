@@ -4,11 +4,11 @@ title: Bundesgesetz vom 3. Oktober 2008 über militärische und andere Informati
 short: MIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230101/de"
 
 (MIG)
 
-vom 3. Oktober 2008 (Stand am 1. Januar 2023)
+vom 3. Oktober 2008 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -338,7 +338,7 @@ Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Perso
 
 - a. militärischen Vereinigungen und Schiessvereinen: Adressdaten, Grad und Einteilung von Militärdienstpflichtigen zum Zweck der Mitglieder- und Abonnentenwerbung sowie für die ausserdienstlichen Tätigkeiten;
 - b. den Medien: Name, Grad und Einteilung anlässlich von Beförderungen und Ernennungen;
-- c.[^16-16] der für das eidgenössische Strafregister zuständigen Stelle des Bundes: die für die Erfüllung der Meldepflicht nach Artikel 367 Absatz 2<sup>quater</sup> des Strafgesetzbuches[^16-17] notwendigen Personalien;
+- c.[^16-16] der für das Strafregister-Informationssystem VOSTRA zuständigen Stelle des Bundes: die für die Erfüllung der Meldepflicht nach Artikel 59 des Strafregistergesetzes vom 17. Juni 2016[^16-17] notwendigen Personalien;
 - d. der für die Kennzeichnung der Uniformen und von persönlichem Material zuständigen Stelle: Name und Vorname sowie für das persönliche Material zusätzlich die AHV-Nummer;
 - e.[^16-18] der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: den Entscheid über Hinderungsgründe betreffend die Abgabe der persönlichen Waffe sowie den Entscheid über deren Abnahme oder deren Entzug.
 
@@ -360,9 +360,9 @@ Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Perso
 [^16-12]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-13]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-14]: Fassung gemäss Ziff. I 12 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^16-15]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-16]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-17]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-15]: Fassung gemäss Anhang 2 Ziff. 4 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-16]: Fassung gemäss Anhang 2 Ziff. 4 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-17]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 [^16-18]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^16-19]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^16-20]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).

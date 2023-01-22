@@ -4,11 +4,11 @@ title: Loi fédérale du 3 octobre 2008 sur les systèmes d’information de l�
 short: LSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230101/fr"
 
 (LSIA)[^t-1]
 
-du 3 octobre 2008 (État le 1<sup>er</sup> janvier 2023)
+du 3 octobre 2008 (État le 23 janvier 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -344,7 +344,7 @@ Le Groupement Défense communique les données ci-après aux services et personn
 
 - a. les associations militaires et les sociétés de tir: l’adresse, le grade et l’incorporation des personnes astreintes au service militaire, pour le recrutement de membres ou la souscription d’abonnements, ainsi que pour les activités hors du service;
 - b. les médias: le nom, le grade et l’incorporation en cas de promotion ou de nomination;
-- c.[^16-16] le service fédéral chargé du casier judiciaire: l’identité des personnes visées par la communication prévue à l’art. 367, al. 2quater, du code pénal[^16-17];
+- c.[^16-16] le service fédéral qui gère le casier judiciaire informatique VOSTRA: l’identité des personnes devant être annoncées aux termes de l’art. 59 de la loi du 17 juin 2016 sur le casier judiciaire[^16-17];
 - d. le service compétent chargé du marquage des uniformes et du matériel personnel: le nom et le prénom, ainsi que, pour le matériel personnel, le numéro AVS;
 - e.[^16-18] l’Office central des armes et les autorités cantonales compétentes: la décision attestant l’existence de motifs qui s’opposent à la remise d’une arme personnelle ou justifient sa reprise préventive ou son retrait.
 
@@ -367,8 +367,8 @@ Le Groupement Défense communique les données ci-après aux services et personn
 [^16-13]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-14]: Nouvelle teneur selon le ch. I 12 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^16-15]: Nouvelle teneur selon l’annexe 2 ch. 4 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-16]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-17]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-16]: Nouvelle teneur selon l’annexe 2 ch. 4 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-17]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 [^16-18]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^16-19]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^16-20]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
