@@ -4,11 +4,11 @@ title: "Ordonnance du 8 mai 1934 sur le contrôle du commerce des métaux préci
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/fr"
 
 (Ordonnance sur le contrôle des métaux précieux, OCMP)[^t-1]
 
-du 8 mai 1934 (État le 1<sup>er</sup> janvier 2023)
+du 8 mai 1934 (État le 23 janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 1993, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -267,17 +267,18 @@ Le bureau central règle toutes les affaires qui découlent de la surveillance d
 
 [^21-1]
 
-<sup>1</sup> Tout candidat au diplôme fédéral d’essayeur-juré doit avoir au moins 20 ans et jouir d’une bonne réputation. La bonne réputation est prouvée par la production d’un extrait du casier judiciaire suisse. [^21-2]
+<sup>1</sup> Tout candidat au diplôme fédéral d’essayeur-juré doit avoir au moins 20 ans et jouir d’une bonne réputation. La bonne réputation est prouvée par la production d’un extrait du casier judiciaire destiné aux particuliers[^21-2].[^21-3]
 
-<sup>2</sup> Le candidat doit avoir suivi une formation adéquate dans un bureau fédéral ou cantonal de contrôle ou chez un essayeur du commerce. En outre, il doit avoir suivi les cours donnés par le bureau central.[^21-3]
+<sup>2</sup> Le candidat doit avoir suivi une formation adéquate dans un bureau fédéral ou cantonal de contrôle ou chez un essayeur du commerce. En outre, il doit avoir suivi les cours donnés par le bureau central.[^21-4]
 
 <sup>3</sup> Le Département fédéral des finances règle les conditions d’admission à la formation et émet des prescriptions concernant la nature et la durée de la formation et des cours, ainsi que les conditions d’examens.
 
 <sup>4</sup> Le bureau central établit le plan d’études, le programme des cours et les sujets des examens.
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^21-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^21-3]: Nouvelle teneur selon l’art. 17 de l’O du 6 nov. 2019 sur les émoluments pour le contrôle des métaux précieux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3771](https://fedlex.data.admin.ch/eli/oc/2019/684)).
+[^21-2]: Nouvelle expression selon l’annexe 10 ch. II 27 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Il a été tenu compte de cette mod. dans tout le texte.
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^21-4]: Nouvelle teneur selon l’art. 17 de l’O du 6 nov. 2019 sur les émoluments pour le contrôle des métaux précieux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3771](https://fedlex.data.admin.ch/eli/oc/2019/684)).
 
 ### c. Examens
 
@@ -1903,7 +1904,7 @@ La patente de fondeur doit être demandée par écrit au bureau central.
 
 [^165a-1]
 
-La bonne réputation, selon l’art. 25, al. 2 et 3, de la loi, est attestée par la production d’un extrait du casier judiciaire suisse.
+La bonne réputation, selon l’art. 25, al. 2 et 3, de la loi, est attestée par la production d’un extrait du casier judiciaire destiné aux particuliers.
 
 [^165a-1]: Introduit par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
@@ -1919,7 +1920,7 @@ Les demandes émanant de particuliers doivent être accompagnées:
 
 - a. d’une attestation de domicile délivrée par l’autorité communale;
 - b. d’un extrait de l’inscription au registre suisse du commerce;
-- c. d’un extrait du casier judiciaire suisse;
+- c. d’un extrait du casier judiciaire destiné aux particuliers;
 - d.[^165b-2] d’indications sur toutes les procédures civiles, procédures pénales, procédures administratives, procédures de surveillance, procédures de poursuite et procédures de faillite, pendantes ou terminées, en Suisse ou à l’étranger, dans la mesure où ces indications peuvent influencer la bonne réputation et les garanties d’une activité irréprochable, et
 - e.[^165b-3] d’une attestation des autorités communales ou cantonales com-pétentes certifiant la conformité des installations techniques et des locaux servant à la fonte des métaux précieux aux exigences en matière de protection de l’environnement et de lutte contre l’incendie.
 
@@ -1928,7 +1929,7 @@ Les demandes émanant de particuliers doivent être accompagnées:
 Les demandes émanant de sociétés commerciales ou coopératives, ainsi que de succursales suisses de sociétés étrangères doivent être accompagnées:[^165b-4]
 
 - a. d’un extrait de l’inscription au registre suisse du commerce;
-- b. d’un extrait du casier judiciaire suisse des dirigeants et des personnes appelées à traiter des opérations commerciales relatives aux matières pour la fonte et aux produits de la fonte;
+- b. d’un extrait du casier judiciaire destiné aux particuliers des dirigeants et des personnes appelées à traiter des opérations commerciales relatives aux matières pour la fonte et aux produits de la fonte;
 - c.[^165b-5] d’indications sur toutes les procédures civiles, procédures pénales, procédures administratives, procédures de surveillance, procédures de poursuite et procédures de faillite, pendantes ou terminées, en Suisse ou à l’étranger contre les personnes chargées de la direction des affaires et les personnes appelées à traiter des opérations commerciales relatives aux matières pour la fonte et aux produits de la fonte, dans la mesure où ces indications peuvent influencer la bonne réputation et les garanties d’une activité irréprochable, et
 - d.[^165b-6] d’une attestation des autorités communales ou cantonales com-pétentes certifiant la conformité des installations et des locaux servant à la fonte des métaux précieux aux exigences en matière de protection de l’environnement et de lutte contre l’incendie.
 
@@ -2531,8 +2532,8 @@ Chiffre 1
 (art. 109, al. 1)
 
 <table>
-<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image1.png)</td></tr>
-<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm Les dimensions suivantes sont autorisées pour les petits poinçons apposés par ablation laser: Hauteur: 0,5 mm Largeur: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm Les dimensions suivantes sont autorisées pour les petits poinçons apposés par ablation laser: Hauteur: 0,5 mm Largeur: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image1.png)</td></tr>
 </table>
 
 Note:
@@ -2546,7 +2547,7 @@ Chiffre 2
 (art. 58, al. 3)
 
 <table>
-<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image2.png)</td></tr>
+<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image2.png)</td></tr>
 </table>
 
 Note:
@@ -2582,8 +2583,8 @@ Exemples:
 
 Bureaux fédéraux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image3.png)
 
 Bureaux cantonaux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/fr/xml/image/image3.png)

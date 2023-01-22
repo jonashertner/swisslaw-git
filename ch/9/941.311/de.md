@@ -4,11 +4,11 @@ title: "Verordnung vom 8. Mai 1934 über die Kontrolle des Verkehrs mit Edelmeta
 short: EMKV
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/de"
 
 (Edelmetallkontrollverordnung, EMKV)[^t-1]
 
-vom 8. Mai 1934 (Stand am 1. Januar 2023)
+vom 8. Mai 1934 (Stand am 23. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 1993, in Kraft seit 1. April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -276,17 +276,18 @@ Das Zentralamt besorgt alle Geschäfte, welche die Überwachung des Verkehrs mit
 
 [^21-1]
 
-<sup>1</sup> Bewerber für das eidgenössische Edelmetallprüferdiplom müssen mindestens 20 Jahre alt sein und über einen guten Leumund verfügen. Der gute Leumund ist durch einen Auszug aus dem Schweizerischen Strafregister zu belegen.[^21-2]
+<sup>1</sup> Bewerber für das eidgenössische Edelmetallprüferdiplom müssen mindestens 20 Jahre alt sein und über einen guten Leumund verfügen. Der gute Leumund ist durch einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA[^21-2] zu belegen.[^21-3]
 
-<sup>2</sup> Der Bewerber muss bei einem eidgenössischen oder kantonalen Kontrollamt oder einem Handelsprüfer eine entsprechende Ausbildung durchlaufen und zudem die zentralen Kurse beim Zentralamt besucht haben.[^21-3]
+<sup>2</sup> Der Bewerber muss bei einem eidgenössischen oder kantonalen Kontrollamt oder einem Handelsprüfer eine entsprechende Ausbildung durchlaufen und zudem die zentralen Kurse beim Zentralamt besucht haben.[^21-4]
 
 <sup>3</sup> Das Eidgenössische Finanzdepartement regelt die Zulassungsbedingungen zur Ausbildung und erlässt Vorschriften über den Inhalt und die Dauer der Ausbildung und der zentralen Kurse sowie über die Prüfungsanforderungen.
 
 <sup>4</sup> Das Zentralamt legt den Lehrplan und die Programme der zentralen Kurse und der Prüfungen fest.
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^21-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^21-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019 über die Gebühren der Edelmetallkontrolle, in Kraft seit 1. Jan. 2020 ([AS 2019 3771](https://fedlex.data.admin.ch/eli/oc/2019/684)).
+[^21-2]: Ausdruck gemäss Anhang 10 Ziff. II 27 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^21-3]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^21-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019 über die Gebühren der Edelmetallkontrolle, in Kraft seit 1. Jan. 2020 ([AS 2019 3771](https://fedlex.data.admin.ch/eli/oc/2019/684)).
 
 ### c. Prüfung
 
@@ -677,7 +678,7 @@ Das Zentralamt berichtigt oder vernichtet umgehend Daten, die unrichtig oder unv
 
 [^34h-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
-### i. [Übergabe der Daten und der Dokumente an das Bundesarchiv](https://www.fedlex.admin.ch/eli/cc/2004/626/de)
+### i. Übergabe der Daten und der Dokumente an das Bundesarchiv
 
 #### Art. 34i
 
@@ -1913,7 +1914,7 @@ Die Schmelzbewilligung ist schriftlich beim Zentralamt zu beantragen.
 
 [^165a-1]
 
-Der gute Leumund nach Artikel 25 Absätze 2 und 3 des Gesetzes ist durch einen Auszug aus dem Schweizerischen Strafregister zu belegen.
+Der gute Leumund nach Artikel 25 Absätze 2 und 3 des Gesetzes ist durch einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA zu belegen.
 
 [^165a-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
@@ -1929,7 +1930,7 @@ Einzelpersonen fügen ihrem Gesuch bei:
 
 - a. eine Wohnsitzbescheinigung, ausgestellt durch die kommunale Behörde;
 - b. einen Auszug der Eintragung im Schweizerischen Handelsregister;
-- c. einen Auszug aus dem Schweizerischen Strafregister;
+- c. einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA;
 - d.[^165b-2] Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren, sofern sich diese Angaben auf den guten Ruf und die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten; und
 - e.[^165b-3] eine Bestätigung der zuständigen kommunalen oder kantonalen Behörden, aus der hervorgeht, dass die der Edelmetallschmelzung dienenden Einrichtungen und Lokalitäten den Umwelt- und Brandschutzauflagen entsprechen.
 
@@ -1938,7 +1939,7 @@ Einzelpersonen fügen ihrem Gesuch bei:
 Handelsgesellschaften und Genossenschaften sowie die schweizerischen Zweigniederlassungen ausländischer Gesellschaften fügen ihrem Gesuch bei:
 
 - a. einen Auszug der Eintragung im Schweizerischen Handelsregister;
-- b. einen Auszug aus dem Schweizerischen Strafregister für die leitenden Personen und die Personen, welche die Geschäfte mit dem Schmelzgut und den Schmelzprodukten besorgen;
+- b. einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA für die leitenden Personen und die Personen, welche die Geschäfte mit dem Schmelzgut und den Schmelzprodukten besorgen;
 - c.[^165b-4] Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren gegen die mit der Geschäftsführung betrauten Personen und gegen Personen, welche die Geschäfte mit dem Schmelzgut und den Schmelzprodukten besorgen, sofern sich diese Angaben auf den guten Ruf und die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten; und
 - d.[^165b-5] eine Bestätigung der zuständigen kommunalen oder kantonalen Behörden, aus der hervorgeht, dass die der Edelmetallschmelzung dienenden Einrichtungen und Lokalitäten den Umwelt- und Brandschutzauflagen entsprechen.
 
@@ -2200,7 +2201,7 @@ Ausländische Gesellschaften fügen ihrem Gesuch bei:
 
 - a. eine Sitzbescheinigung;
 - b. einen Beschrieb der Geschäftstätigkeiten, der finanziellen Situation und, gegebenenfalls, der Gruppenstruktur;
-- c. ein Strafregisterauszug für die mit der Geschäftsführung betrauten Personen und die Personen, welche die Geschäfte im Zusammenhang mit dem Ankauf von Schmelzgut besorgen, ausgestellt durch die nationale Behörde des Staates, in dem sich der Wohnsitz befindet;
+- c. ein Privatauszug aus dem Strafregister-Informationssystem VOSTRA für die mit der Geschäftsführung betrauten Personen und die Personen, welche die Geschäfte im Zusammenhang mit dem Ankauf von Schmelzgut besorgen, ausgestellt durch die nationale Behörde des Staates, in dem sich der Wohnsitz befindet;
 - d. Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren gegen die mit der Geschäftsführung betrauten Personen und die Personen, welche die Geschäfte im Zusammenhang mit dem Ankauf von Schmelzgut besorgen, sofern sich diese Angaben auf die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten.
 
 [^172b-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
@@ -2544,8 +2545,8 @@ Ziffer 1
 (Art. 109 Abs. 1)
 
 <table>
-<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image1.png)</td></tr>
-<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm Für durch Laserablation angebrachte kleine Punzen sind auch folgende Dimensionen zulässig: Höhe: 0,5 mm Breite: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image1.png)</td></tr>
+<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image1.png)</td></tr>
+<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm Für durch Laserablation angebrachte kleine Punzen sind auch folgende Dimensionen zulässig: Höhe: 0,5 mm Breite: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image1.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2559,7 +2560,7 @@ Ziffer 2
 (Art. 58 Abs. 3)
 
 <table>
-<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image2.png)</td></tr>
+<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image2.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2595,8 +2596,8 @@ Beispiele
 
 Eidgenössische Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image3.png)
 
 Kantonale Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/de/xml/image/image3.png)

@@ -4,11 +4,11 @@ title: "Ordinance of 8 May 1934 on the Control of Trade in Precious Metals and A
 short: PMCO
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: en
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230123-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Precious Metals Control Ordinance, PMCO)[^t-1]
 
-of 8 May 1934 (Status as of 1 January 2023)
+of 8 May 1934 (Status as of 23 January 2023)
 
 [^t-1]: Amended by No I of the O of 17 Feb. 1993, in force since 1 April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -31,7 +31,7 @@ decrees:
 
 [^ingress-1]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 
-## Section 1 Organisation of official bodies
+## Section 1 Organisation of Official Bodies
 
 ### I. Federal Council
 
@@ -278,17 +278,18 @@ The Central Office is responsible for all business matters involved in supervisi
 
 [^21-1]
 
-<sup>1</sup> Candidates for the federal assayer’s diploma must be at least 20 years old and be of good standing. Good standing is to be proven by means of an extract from the Swiss Register of Criminal Convictions.[^21-2]
+<sup>1</sup> Candidates for the federal assayer’s diploma must be at least 20 years old and be of good standing. Good standing shall be proven by means of a standard private extract from the VOSTRA[^21-2] Register of Criminal Records Information System.[^21-3]
 
-<sup>2</sup> The candidate must have undergone a corresponding training programme with a federal or cantonal Assay Office or trade assayer and must also have attended the centralised courses at the Central Office.[^21-3]
+<sup>2</sup> The candidate must have undergone a corresponding training programme with a federal or cantonal Assay Office or trade assayer and must also have attended the centralised courses at the Central Office.[^21-4]
 
 <sup>3</sup> The Federal Department of Finance shall regulate the entry conditions for the training programme and issue directives on the content and duration of the training and of the central courses as well as on the examination requirements.
 
 <sup>4</sup> The Central Office shall determine the curriculum and the programmes for the central courses and the examinations.
 
 [^21-1]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^21-2]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^21-3]: Amended by No I of the O of 6 Nov. 2019 on Fees for Precious Metal Control, in force from 1 Jan. 2020 ([AS 2019 3771](https://fedlex.data.admin.ch/eli/oc/2019/684)).
+[^21-2]: Term in accordance with Annex 10 No II 27 of the Criminal Records Register Act of 19 Oct. 2022, in force since 23 Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). This change has been made throughout the text.
+[^21-3]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^21-4]: Amended by No I of the O of 6 Nov. 2019 on Fees for Precious Metal Control, in force from 1 Jan. 2020 ([AS 2019 3771](https://fedlex.data.admin.ch/eli/oc/2019/684)).
 
 ### c. Examination
 
@@ -1913,7 +1914,7 @@ A melter’s licence must be applied for in writing from the Central Office.
 
 [^165a-1]
 
-Good standing in accordance with Article 25 paragraphs 2 and 3 of the Act must be proven by means of an extract from the Swiss Register of Criminal Convictions.
+Good standing in accordance with Article 25 paragraphs 2 and 3 of the Act must be proven shall be proven by means of a standard private extract from the VOSTRA Register of Criminal Records Information System.
 
 [^165a-1]: Inserted by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
@@ -1929,7 +1930,7 @@ Individuals must enclose the following with their applications:
 
 - a. an attestation of place of residence, issued by the communal authorities;
 - b. an extract from their entry in the Swiss Commercial Register;
-- c. an extract from the Swiss Register of Criminal Convictions;
+- c. a standard private extract from the VOSTRA Register of Criminal Records Information System;
 - d.[^165b-2] information on all pending or completed civil, criminal, administrative, supervisory, debt collection or bankruptcy proceedings in Switzerland and abroad, where such information could impinge on the good reputation and the guarantee of irreproachable business conduct; and
 - e.[^165b-3] an attestation from the relevant communal or cantonal authorities showing that the facilities and premises being used for precious metal melting comply with environmental and fire-prevention regulations.
 
@@ -1938,7 +1939,7 @@ Individuals must enclose the following with their applications:
 Commercial enterprises and cooperatives as well as the Swiss branches of foreign companies must enclose the following with their applications:
 
 - a. an extract from their entry in the Swiss Commercial Register;
-- b. an extract from the Swiss Register of Criminal Convictions for the members of management and for those persons in charge of transactions with melt material and melt products; and
+- b. a standard private extract from the VOSTRA Register of Criminal Records Information System for the members of management and for those persons in charge of transactions with melt material and melt products; and
 - c.[^165b-4] information on all pending or completed civil, criminal, administrative, supervisory, debt collection or bankruptcy proceedings in Switzerland and abroad against the members of management and against persons in charge of transactions with melt material and melt products, where such information could impinge on the good reputation and the guarantee of irreproachable business conduct; and
 - d.[^165b-5] an attestation from the relevant communal or cantonal authorities showing that the facilities and premises being used for precious metal melting comply with environmental and fire-prevention regulations.
 
@@ -2546,9 +2547,9 @@ Number 1
 (Art. 109 para. 1)
 
 <table>
-<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image1.png)</td></tr>
+<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">Small hallmark:</td><td></td></tr>
-<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image2.png)</td></tr>
+<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image2.png)</td></tr>
 </table>
 
 For small hallmarks applied using laser ablation, the following dimensions are also permitted:
@@ -2568,7 +2569,7 @@ Number 2
 (Art. 58 para. 3)
 
 <table>
-<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image3.png)</td></tr>
+<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image3.png)</td></tr>
 </table>
 
 Note:
@@ -2615,8 +2616,8 @@ Examples:
 
 Federal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image4.png)
 
 Cantonal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/en/xml/image/image5.png)

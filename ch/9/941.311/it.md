@@ -4,11 +4,11 @@ title: "Ordinanza dell'8 maggio 1934 sul controllo del commercio in metalli prez
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/it"
 
 (Ordinanza sul controllo dei metalli preziosi, OCMP)[^t-1]
 
-dell’8 maggio 1934 (Stato 1° gennaio 2023)
+dell’8 maggio 1934 (Stato 23 gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 1993, in vigore dal 1° apr. 1993 ([RU 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -266,17 +266,18 @@ L’ufficio centrale regola tutti gli affari risultanti dalla sorveglianza del c
 
 [^21-1]
 
-<sup>1</sup> I candidati al diploma federale di saggiatore devono avere 20 anni compiuti e godere di una buona reputazione. La buona reputazione è provata mediante estratto del casellario giudiziale svizzero.[^21-2]
+<sup>1</sup> I candidati al diploma federale di saggiatore devono avere 20 anni compiuti e godere di una buona reputazione. La buona reputazione è provata mediante un estratto per privati del casellario giudiziale informatizzato VOSTRA[^21-2].[^21-3]
 
-<sup>2</sup> Il candidato deve aver seguito una formazione adeguata in un ufficio di controllo federale o cantonale o presso un saggiatore del commercio e inoltre deve aver frequentato i corsi centrali presso l’Ufficio centrale.[^21-3]
+<sup>2</sup> Il candidato deve aver seguito una formazione adeguata in un ufficio di controllo federale o cantonale o presso un saggiatore del commercio e inoltre deve aver frequentato i corsi centrali presso l’Ufficio centrale.[^21-4]
 
 <sup>3</sup> Il Dipartimento federale delle finanze disciplina le condizioni d’ammissione alla formazione e emana le prescrizioni relative al contenuto e alla durata della formazione e dei corsi centrali nonché alle condizioni degli esami.
 
 <sup>4</sup> L’Ufficio centrale stabilisce il programma d’insegnamento e i programmi dei corsi centrali e degli esami.
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^21-3]: Nuovo testo giusta l’art. 17 dell’O del 6 nov. 2019 sugli emolumenti per il controllo dei metalli preziosi, in vigore dal 1° gen. 2020 ([RU 2019 3771](https://fedlex.data.admin.ch/eli/oc/2019/684)).
+[^21-2]: Nuova espr. giusta l’all. 10 n. II 27 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^21-3]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^21-4]: Nuovo testo giusta l’art. 17 dell’O del 6 nov. 2019 sugli emolumenti per il controllo dei metalli preziosi, in vigore dal 1° gen. 2020 ([RU 2019 3771](https://fedlex.data.admin.ch/eli/oc/2019/684)).
 
 ### c. Esami
 
@@ -288,7 +289,7 @@ L’ufficio centrale regola tutti gli affari risultanti dalla sorveglianza del c
 
 <sup>2</sup> La commissione d’esame si riunisce su convocazione del suo presidente.
 
-<sup>3</sup> …[^22-3]
+<sup>3</sup> ...[^22-3]
 
 [^22-1]: Nuovo testo del per. giusta l’art. 17 dell’O del 6 nov. 2019 sugli emolumenti per il controllo dei metalli preziosi, in vigore dal 1° gen. 2020 ([RU 2019 3771](https://fedlex.data.admin.ch/eli/oc/2019/684)).
 [^22-2]: Attualmente «di quattro anni» (art. 8*g* cpv. 1 dell’O del 25 nov. 1998 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
@@ -1906,7 +1907,7 @@ La patente di fonditore deve essere richiesta per scritto all’Ufficio centrale
 
 [^165a-1]
 
-La buona reputazione secondo l’articolo 25 capoversi 2 e 3 della legge va provata mediante la presentazione di un estratto del casellario giudiziale svizzero.
+La buona reputazione secondo l’articolo 25 capoversi 2 e 3 della legge va provata mediante la presentazione di un estratto per privati del casellario giudiziale informatizzato VOSTRA.
 
 [^165a-1]: Introdotto dal n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
@@ -1922,7 +1923,7 @@ Per i privati la domanda deve essere corredata da:
 
 - a. un attestato di domicilio rilasciato dall’autorità comunale;
 - b. un estratto dell’iscrizione nel registro svizzero di commercio;
-- c. un estratto del casellario giudiziale svizzero;
+- c. un estratto per privati del casellario giudiziale informatizzato VOSTRA;
 - d.[^165b-2] indicazioni su tutte le procedure civili, penali, amministrative, di vigilanza, di esecuzione o di fallimento pendenti o concluse in Svizzera o all’estero, se queste indicazioni possono influenzare la buona reputazione e la garanzia di un’attività commerciale ineccepibile; e
 - e.[^165b-3] un’attestazione delle autorità comunali o cantonali competenti che certifichi la conformità degli impianti e dei locali destinati alla fusione dei metalli preziosi per quanto concerne la protezione dell’ambiente e la protezione antincendio.
 
@@ -1931,7 +1932,7 @@ Per i privati la domanda deve essere corredata da:
 Per le società commerciali e le cooperative nonché le succursali svizzere di società straniere, la domanda deve essere corredata da:
 
 - a. un estratto dell’iscrizione nel registro svizzero di commercio;
-- b. un estratto del casellario giudiziale svizzero dei dirigenti e delle persone incaricate delle operazioni commerciali con le materie da fondere e i prodotti della fusione;
+- b. un estratto per privati del casellario giudiziale informatizzato VOSTRA dei dirigenti e delle persone incaricate delle operazioni commerciali con le materie da fondere e i prodotti della fusione;
 - c.[^165b-4] indicazioni su tutte le procedure civili, penali, amministrative, di vigilanza, di esecuzione o di fallimento pendenti o concluse in Svizzera o all’estero nei confronti delle persone incaricate della gestione nonché delle persone incaricate delle operazioni commerciali con le materie da fondere e i prodotti della fusione, se queste indicazioni possono influenzare la buona reputazione e la garanzia di un’attività commerciale ineccepibile; e
 - d.[^165b-5] un’attestazione delle autorità comunali o cantonali competenti che certifichi la conformità degli impianti e dei locali destinati alla fusione dei metalli preziosi per quanto concerne la protezione dell’ambiente e la protezione antincendio.
 
@@ -2544,8 +2545,8 @@ Numero 1
 (art. 109 cpv. 1)
 
 <table>
-<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image1.png)</td></tr>
-<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm Per i marchi piccoli apposti con l’ablazione laser sono ammesse anche le seguenti dimensioni: Altezza: 0,5 mm Larghezza: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm Per i marchi piccoli apposti con l’ablazione laser sono ammesse anche le seguenti dimensioni: Altezza: 0,5 mm Larghezza: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image1.png)</td></tr>
 </table>
 
 *Nota:*
@@ -2559,7 +2560,7 @@ Numero 2
 (art. 58 cpv. 3)
 
 <table>
-<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image2.png)</td></tr>
+<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image2.png)</td></tr>
 </table>
 
 Nota:
@@ -2595,8 +2596,8 @@ Esempi:
 
 Uffici federali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image3.png)
 
 Uffici cantonali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230123/it/xml/image/image3.png)
