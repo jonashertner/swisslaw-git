@@ -4,11 +4,11 @@ title: Verordnung vom 22. Juni 2011 über die Aufsicht in der beruflichen Vorsor
 short: BVV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/460"
 language: de
-version: 2015-01-01
+version: 2023-01-23
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20150101/de/xml/fedlex-data-admin-ch-eli-cc-2011-460-20150101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2011-460-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20150101/de"
 
 (BVV 1)
 
-vom 10. und 22. Juni 2011 (Stand am 1. Januar 2015)
+vom 10. und 22. Juni 2011 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -216,8 +216,10 @@ Sie müssen insbesondere folgende Unterlagen einreichen:
 
 Für die Prüfung der Integrität und der Loyalität der Verantwortlichen müssen sie der Aufsichtsbehörde zudem folgende Unterlagen einreichen:
 
-- a. bei natürlichen Personen: Angaben über Nationalität, Wohnsitz, qualifizierte Beteiligungen an anderen Gesellschaften und hängige Gerichts- und Verwaltungsverfahren, einen unterzeichneten Lebenslauf, Referenzen und einen Strafregisterauszug;
+- a.[^12-1] bei natürlichen Personen: Angaben über Nationalität, Wohnsitz, qualifizierte Beteiligungen an anderen Gesellschaften und hängige Gerichts- und Verwaltungsverfahren, einen unterzeichneten Lebenslauf, Referenzen und einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA;
 - b. bei Gesellschaften: die Statuten, einen Auszug aus dem Handelsregister oder eine entsprechende Bestätigung, einen Beschrieb der Geschäftstätigkeiten, der finanziellen Situation und gegebenenfalls der Gruppenstruktur sowie Angaben über abgeschlossene und hängige Gerichts- und Verwaltungsverfahren.
+
+[^12-1]: Fassung gemäss Anhang 10 Ziff. II 26 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13
 
@@ -231,11 +233,12 @@ Für die Prüfung der Integrität und der Loyalität der Verantwortlichen müsse
 
 Bei der Prüfung der Integrität und Loyalität der Verantwortlichen berücksichtigt sie insbesondere:
 
-- a. strafrechtliche Verurteilungen, deren Eintrag im Schweizerischen Strafregister nicht entfernt ist;
+- a.[^13-2] strafrechtliche Verurteilungen, die im Privatauszug des Strafregister-Informationssystems VOSTRA erscheinen;
 - b. bestehende Verlustscheine;
 - c. hängige Gerichts- und Verwaltungsverfahren.
 
 [^13-1]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^13-2]: Fassung gemäss Anhang 10 Ziff. II 26 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 14
 
@@ -322,8 +325,8 @@ Folgende Verordnungen werden aufgehoben:
 - 1\. Verordnung vom 29. Juni 1983[^23-1] über die Beaufsichtigung und die Registrierung der Vorsorgeeinrichtungen;
 - 2\. Verordnung vom 17. Oktober 1984[^23-2] über die Gebühren für die Beaufsichtigung von Einrichtungen der beruflichen Vorsorge, mit Wirkung am 31. Dezember 2014.
 
-[^23-1]: [[AS 1983 829](https://fedlex.data.admin.ch/eli/oc/1983/829_829_829), [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)Ziff. I 10, [1998 1662](https://fedlex.data.admin.ch/eli/oc/1998/1662_1662_1662)Art. 28 [1840](https://fedlex.data.admin.ch/eli/oc/1998/1840_1840_1840), [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)Anhang Ziff. 3 [4653](https://fedlex.data.admin.ch/eli/oc/2004/714), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 94]
-[^23-2]: [[AS 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224), [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)Anhang Ziff. 4 [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
+[^23-1]: [[AS 1983 829](https://fedlex.data.admin.ch/eli/oc/1983/829_829_829); [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)Ziff. I 10; [1998 1662](https://fedlex.data.admin.ch/eli/oc/1998/1662_1662_1662)Art. 28, [1840](https://fedlex.data.admin.ch/eli/oc/1998/1840_1840_1840); [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)Anhang Ziff. 3, [4653](https://fedlex.data.admin.ch/eli/oc/2004/714); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 94]
+[^23-2]: [[AS 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224); [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)Anhang Ziff. 4, [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
 
 #### Art. 24
 
@@ -350,7 +353,7 @@ Die Handelsregisterverordnung vom 17. Oktober 2007[^24-1] wird wie folgt geände
 
 <sup>5</sup> Das BSV übergibt die Aufsicht über die Vorsorgeeinrichtung bis am 31. Dezember 2014 der zuständigen kantonalen Aufsichtsbehörde; innerhalb dieser Frist legt es den Zeitpunkt der Übergabe fest. Zuständig ist die kantonale Aufsichtsbehörde am Sitz der Einrichtung im Zeitpunkt der Übergabe. Sobald die Verfügung zur Übertragung der Aufsicht rechtskräftig ist, wird sie dem Handelsregisteramt zwecks Änderung des Eintrags übermittelt.
 
-[^25-1]: [AS 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224), [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)
+[^25-1]: [AS 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224); [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)
 
 #### Art. 25a
 

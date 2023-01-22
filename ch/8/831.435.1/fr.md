@@ -4,11 +4,11 @@ title: Ordonnance du 22 juin 2011 sur la surveillance dans la prévoyance profes
 short: OPP 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/460"
 language: fr
-version: 2015-01-01
+version: 2023-01-23
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20150101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-460-20150101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20150101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2011-460-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20150101/fr"
 
 (OPP 1)
 
-des 10 et 22 juin 2011 (Etat le 1<sup>er</sup> janvier 2015)
+des 10 et 22 juin 2011 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -154,7 +154,7 @@ La taxe de surveillance due par le fonds de garantie, l’institution supplétiv
 
 #### Art. 9
 
-**Emoluments ordinaires**
+**Émoluments ordinaires**
 
 <sup>1</sup> Pour les décisions et les prestations de service suivantes, il est perçu un émolument compris dans les limites du barème cadre ci-après et calculé d’après le temps de travail nécessaire:
 
@@ -174,12 +174,12 @@ La taxe de surveillance due par le fonds de garantie, l’institution supplétiv
 <sup>2</sup> Le tarif d’après le temps de travail est de 250 francs l’heure.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 2 juil. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2317](https://fedlex.data.admin.ch/eli/oc/2014/393)).
-[^9-2]: Introduite par l’annexe à l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1349](https://fedlex.data.admin.ch/eli/oc/2013/317)).
+[^9-2]: Introduite par l’annexe de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1349](https://fedlex.data.admin.ch/eli/oc/2013/317)).
 [^9-3]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 
 #### Art. 10
 
-**Emolument extraordinaire**
+**Émolument extraordinaire**
 
 <sup>1</sup> Pour une inspection extraordinaire ou des investigations complexes, l’autorité de surveillance doit s’acquitter d’un émolument proportionné à l’ampleur des travaux, compris entre 2000 et 100 000 francs.
 
@@ -189,7 +189,7 @@ La taxe de surveillance due par le fonds de garantie, l’institution supplétiv
 
 **Ordonnance générale sur les émoluments**
 
-A moins que la présente ordonnance prévoie des règles particulières, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^11-1] s’appliquent.
+À moins que la présente ordonnance prévoie des règles particulières, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^11-1] s’appliquent.
 
 [^11-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
@@ -216,8 +216,10 @@ Elles lui présentent en particulier les documents suivants:
 
 Elles soumettent en outre à l’autorité de surveillance, pour l’examen de l’intégrité et de la loyauté des responsables, les documents suivants:
 
-- a. pour les personnes physiques: des informations sur la nationalité, le domicile, les participations qualifiées détenues dans d’autres entités et d’éventuelles procédures judiciaires et administratives pendantes, ainsi qu’un curriculum vitæ signé, des références et un extrait du casier judiciaire;
+- a.[^12-1] pour les personnes physiques: des informations sur la nationalité, le domicile, les participations qualifiées détenues dans d’autres entités et d’éventuelles procédures judiciaires et administratives pendantes, ainsi qu’un curriculum vitæ signé, des références et un extrait du casier judiciaire destiné aux particuliers;
 - b. pour les sociétés: les statuts, un extrait du registre du commerce ou une attestation analogue, une description des activités, de la situation financière et, le cas échéant, de la structure du groupe, ainsi que des informations sur d’éventuelles procédures judiciaires ou administratives closes ou pendantes.
+
+[^12-1]: Nouvelle teneur selon l’annexe 10 ch. II 26 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13
 
@@ -231,11 +233,12 @@ Elles soumettent en outre à l’autorité de surveillance, pour l’examen de l
 
 Lorsqu’elle examine l’intégrité et la loyauté des responsables, elle prend notamment en considération:
 
-- a. les condamnations pénales dont l’inscription au Casier judiciaire suisse n’a pas été radiée;
+- a.[^13-2] les condamnations pénales qui figurent sur l’extrait du casier judiciaire destiné aux particuliers;
 - b. l’existence d’actes de défaut de biens;
 - c. les procédures judiciaires ou administratives pendantes.
 
 [^13-1]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^13-2]: Nouvelle teneur selon l’annexe 10 ch. II 26 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 14
 
@@ -322,8 +325,8 @@ Les ordonnances suivantes sont abrogées:
 - 1\. ordonnance du 29 juin 1983 sur la surveillance et l’enregistrement des institutions de prévoyance professionnelle[^23-1];
 - 2\. ordonnance du 17 octobre 1984 instituant des émoluments pour la surveillance des institutions de prévoyance professionnelle[^23-2], avec effet au 31 décembre 2014.
 
-[^23-1]: [[RO 1983 829](https://fedlex.data.admin.ch/eli/oc/1983/829_829_829), [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)ch. I 10, [1998 1662](https://fedlex.data.admin.ch/eli/oc/1998/1662_1662_1662)art. 28 [1840](https://fedlex.data.admin.ch/eli/oc/1998/1840_1840_1840), [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)annexe ch. 3 [4653](https://fedlex.data.admin.ch/eli/oc/2004/714), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 94]
-[^23-2]: [[RO 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224), [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)annexe ch. 4 [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
+[^23-1]: [[RO 1983 829](https://fedlex.data.admin.ch/eli/oc/1983/829_829_829); [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)ch. I 10; [1998 1662](https://fedlex.data.admin.ch/eli/oc/1998/1662_1662_1662)art. 28, [1840](https://fedlex.data.admin.ch/eli/oc/1998/1840_1840_1840); [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)annexe ch. 3, [4653](https://fedlex.data.admin.ch/eli/oc/2004/714); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 94]
+[^23-2]: [[RO 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224); [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)annexe ch. 4, [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
 
 #### Art. 24
 
@@ -347,7 +350,7 @@ Les ordonnances suivantes sont abrogées:
 
 <sup>5</sup> L’OFAS transfère d’ici au 31 décembre 2014 la surveillance des institutions de prévoyance à l’autorité cantonale de surveillance compétente; il fixe la date du transfert. L’autorité cantonale compétente est celle du siège de l’institution au moment du transfert. Dès que la décision de transfert de la surveillance est devenue exécutoire, elle est communiquée à l’office du registre du commerce en vue de la modification de l’inscription.
 
-[^25-1]: [[RO 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224), [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)annexe ch. 4 [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
+[^25-1]: [[RO 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224); [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)annexe ch. 4, [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
 
 #### Art. 25a
 

@@ -4,11 +4,11 @@ title: Ordinanza del 22 giugno 2011 concernente la vigilanza nella previdenza pr
 short: OPP 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/460"
 language: it
-version: 2015-01-01
+version: 2023-01-23
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20150101/it/xml/fedlex-data-admin-ch-eli-cc-2011-460-20150101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20150101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/460/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2011-460-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/460/20150101/it"
 
 (OPP 1)
 
-del 10 e 22 giugno 2011 (Stato 1° gennaio 2015) (Stato 1° gennaio 2015)
+del 10 e 22 giugno 2011 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -159,16 +159,16 @@ La tassa di vigilanza a carico del fondo di garanzia, dell’istituto collettore
 <sup>1</sup> Per le decisioni e i servizi seguenti sono riscossi emolumenti in funzione del tempo impiegato, nei limiti del seguente quadro tariffario:
 
 <table>
-<tr><th colspan="3">Decisione, servizio</th><th></th><th></th><th></th><th>Quadro tariffario in franchi</th></tr>
-<tr><td></td><td>a.</td><td colspan="3">assunzione della vigilanza (compresa l’approvazione dell’atto di fondazione)</td><td></td><td>1 000– 5 000</td></tr>
-<tr><td></td><td>b.</td><td colspan="3">approvazione delle modifiche dell’atto di fondazione</td><td></td><td>500–10 000</td></tr>
-<tr><td></td><td>c.</td><td colspan="3">esame di regolamenti e delle loro modifiche</td><td></td><td>500–10 000</td></tr>
-<tr><td></td><td>d.</td><td colspan="3">esame di contratti</td><td></td><td>500– 800</td></tr>
-<tr><td></td><td>e.</td><td colspan="3">scioglimento di una fondazione d’investimento</td><td></td><td>1 500–20 000</td></tr>
-<tr><td></td><td>f.</td><td colspan="3">fusione di fondazioni d’investimento</td><td></td><td>1 000–30 000</td></tr>
-<tr><td></td><td>g.</td><td colspan="3">provvedimenti di vigilanza</td><td></td><td>200–50 000</td></tr>
-<tr><td></td><td>h.[^9-1]</td><td colspan="3">abilitazione dei periti in materia di previdenza professionale</td><td></td><td>500– 5 000</td></tr>
-<tr><td></td><td>i.[^9-2]</td><td colspan="3">dichiarazione di abilitazione per le persone e istituzioni di cui all’articolo 48*f* capoverso 5 dell’ordinanza del 18 aprile 1984[^9-3] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità</td><td></td><td>500– 5 000</td></tr>
+<tr><th>Decisione, servizio</th><th>Quadro tariffario in franchi</th></tr>
+<tr><td>a. assunzione della vigilanza (compresa l’approvazione dell’atto di fondazione)</td><td>1 000– 5 000</td></tr>
+<tr><td>b. approvazione delle modifiche dell’atto di fondazione</td><td>500–10 000</td></tr>
+<tr><td>c. esame di regolamenti e delle loro modifiche</td><td>500–10 000</td></tr>
+<tr><td>d. esame di contratti</td><td>500– 800</td></tr>
+<tr><td>e. scioglimento di una fondazione d’investimento</td><td>1 500–20 000</td></tr>
+<tr><td>f. fusione di fondazioni d’investimento</td><td>1 000–30 000</td></tr>
+<tr><td>g. provvedimenti di vigilanza</td><td>200–50 000</td></tr>
+<tr><td>h.[^9-1] abilitazione dei periti in materia di previdenza professionale</td><td>500– 5 000</td></tr>
+<tr><td>i.[^9-2] dichiarazione di abilitazione per le persone e istituzioni di cui all’articolo 48*f* capoverso 5 dell’ordinanza del 18 aprile 1984[^9-3] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità</td><td>500– 5 000</td></tr>
 </table>
 
 <sup>2</sup> La tariffa oraria in funzione del tempo impiegato è di 250 franchi.
@@ -216,8 +216,10 @@ Devono fornire in particolare i seguenti documenti:
 
 Ai fini della verifica dell’integrità e della lealtà dei responsabili, gli istituti di previdenza e gli istituti dediti alla previdenza professionale devono inoltre fornire all’autorità di vigilanza i documenti seguenti:
 
-- a. per le persone fisiche: informazioni riguardanti cittadinanza, domicilio, partecipazioni qualificate ad altre società, procedimenti giudiziari e amministrativi pendenti, nonché un curriculum vitae firmato, referenze e un estratto del casellario giudiziale;
+- a.[^12-1] per le persone fisiche: informazioni riguardanti cittadinanza, domicilio, partecipazioni qualificate ad altre società, procedimenti giudiziari e amministrativi pendenti, nonché un curriculum vitae firmato, referenze e un estratto per privati del casellario giudiziale informatizzato VOSTRA;
 - b. per le società: gli statuti, un estratto del registro di commercio o un’attestazione corrispondente, una descrizione dell’attività, della situazione finanziaria e, all’occorrenza, della struttura del gruppo, nonché indicazioni su procedimenti giudiziari e amministrativi conclusi o pendenti.
+
+[^12-1]: Nuovo testo giusta l’all. 10 n. II 26 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13
 
@@ -231,11 +233,12 @@ Ai fini della verifica dell’integrità e della lealtà dei responsabili, gli i
 
 Nel verificare l’integrità e la lealtà dei responsabili tiene conto in particolare:
 
-- a. delle condanne penali la cui iscrizione nel casellario giudiziale svizzero non è stata eliminata;
+- a.[^13-2] delle condanne penali che figurano nell’estratto per privati del casellario giudiziale informatizzato VOSTRA;
 - b. degli attestati di carenza beni esistenti;
 - c. dei procedimenti giudiziari e amministrativi pendenti.
 
 [^13-1]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
+[^13-2]: Nuovo testo giusta l’all. 10 n. II 26 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 14
 
@@ -322,8 +325,8 @@ Sono abrogate:
 - 1\. l’ordinanza del 29 giugno 1983[^23-1] concernente la vigilanza sugli istituti di previdenza e la loro registrazione;
 - 2\. l’ordinanza del 17 ottobre 1984[^23-2] sulle tasse per la vigilanza di istituti della previdenza professionale, con effetto dal 31 dicembre 2014.
 
-[^23-1]: [[RU 1983 829](https://fedlex.data.admin.ch/eli/oc/1983/829_829_829), [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)n. I 10, [1998 1662](https://fedlex.data.admin.ch/eli/oc/1998/1662_1662_1662)art. 28 [1840](https://fedlex.data.admin.ch/eli/oc/1998/1840_1840_1840), [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)all. n. 3 [4653](https://fedlex.data.admin.ch/eli/oc/2004/714), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 94]
-[^23-2]: [[RU 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224), [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)all. n. 4 [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
+[^23-1]: [[RU 1983 829](https://fedlex.data.admin.ch/eli/oc/1983/829_829_829); [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)n. I 10; [1998 1662](https://fedlex.data.admin.ch/eli/oc/1998/1662_1662_1662)art. 28, [1840](https://fedlex.data.admin.ch/eli/oc/1998/1840_1840_1840); [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)all. n. 3, [4653](https://fedlex.data.admin.ch/eli/oc/2004/714); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 94]
+[^23-2]: [[RU 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224); [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)all. n. 4, [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
 
 #### Art. 24
 
@@ -347,7 +350,7 @@ Sono abrogate:
 
 <sup>5</sup> L’UFAS trasferisce la vigilanza sull’istituto di previdenza alla competente autorità cantonale di vigilanza entro il 31 dicembre 2014; fissa inoltre la data del trasferimento. Competente è l’autorità cantonale di vigilanza del luogo in cui ha sede l’istituto di previdenza al momento del trasferimento. Non appena è passata in giudicato, la decisione relativa al trasferimento della vigilanza è comunicata all’Ufficio del registro di commercio per la modifica dell’iscrizione.
 
-[^25-1]: [[RU 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224), [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)all. n. 4 [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
+[^25-1]: [[RU 1984 1224](https://fedlex.data.admin.ch/eli/oc/1984/1224_1224_1224); [2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)all. n. 4, [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)]
 
 #### Art. 25a
 
