@@ -4,11 +4,11 @@ title: Legge del 24 marzo 2000 sul personale federale (LPers)
 short: LPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: it
-version: 2021-01-01
+version: 2023-01-23
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-123-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20210101/it"
 
 (LPers)
 
-del 24 marzo 2000 (Stato 1° gennaio 2021)
+del 24 marzo 2000 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -421,6 +421,14 @@ Le disposizioni d’esecuzione:
 
 <sup>2</sup> Durante la durata del rapporto di lavoro l’impiegato non presta alcun lavoro a titolo oneroso a favore di terzi, sempre che in tal modo violi il suo dovere di fedeltà.
 
+#### Art. 20a
+
+**Estratto del casellario giudiziale**[^20a-1]
+
+Se necessario per tutelare i suoi interessi, il datore di lavoro può esigere dai candidati a un impiego e dagli impiegati che presentino un estratto del casellario giudiziale.
+
+[^20a-1]: Introdotto dall’all. 1 n. 1 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+
 #### Art. 21
 
 **Obblighi del personale**
@@ -513,7 +521,7 @@ Può ricorrere in particolare alle misure seguenti:
 
 [^26-1]: Abrogato dal n. I della L del 14 dic. 2012, con effetto dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-## Sezione 3*a*: Trattamento dei dati****
+## Sezione 3*a*: Trattamento dei dati
 
 [^sec3a-1]
 
@@ -717,7 +725,7 @@ Le disposizioni d’esecuzione possono inoltre prevedere:
 - f. l’acquisto di alloggi sul luogo di lavoro qualora l’offerta locale non sia sufficiente o se la particolarità della funzione lo esige, nonché sovvenzionare l’acquisto o la locazione di alloggi;
 - g. riduzioni di prezzo su prestazioni e prodotti della Confederazione.
 
-## Sezione 4*b*:**** Previdenza professionale
+## Sezione 4*b*: Previdenza professionale
 
 [^sec4b-1]
 
@@ -1072,7 +1080,7 @@ Le parti possono in particolare prevedere nel CCL:
 
 <sup>3</sup> Il Consiglio federale può prevedere che altre disposizioni dell’ordinamento dei funzionari del 30 giugno 1927 restino in vigore per una durata limitata.
 
-[^39-1]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lett. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)n. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. I 1]
+[^39-1]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lett. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)n. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284); [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. I 1]
 
 #### Art. 40
 
@@ -1100,10 +1108,10 @@ Finché le disposizioni d’esecuzione in virtù dell’articolo 37 o il CCL in 
 
 <sup>4</sup> I rapporti di lavoro esistenti prima dell’entrata in vigore della presente legge e retti dall’ordinamento dei funzionari del 30 giugno 1927, sono automaticamente valevoli secondo il nuovo diritto, a meno che siano stati sciolti mediante disdetta ordinaria o non rielezione secondo il diritto previgente.
 
-[^41-1]: [[RU 1959 1217](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217), [1962 300](https://fedlex.data.admin.ch/eli/oc/1962/289_295_300)[1288](https://fedlex.data.admin.ch/eli/oc/1962/1235_1276_1288), [1968 136](https://fedlex.data.admin.ch/eli/oc/1968/130_133_136)[1639](https://fedlex.data.admin.ch/eli/oc/1968/1674_1720_1639), [1971 105](https://fedlex.data.admin.ch/eli/oc/1971/101_105_105), [1972 196](https://fedlex.data.admin.ch/eli/oc/1972/192_196_196), **1973** 157, [1976 2713](https://fedlex.data.admin.ch/eli/oc/1976/2713_2713_2713), [1977 1421](https://fedlex.data.admin.ch/eli/oc/1977/1421_1421_1421), [1979 1290](https://fedlex.data.admin.ch/eli/oc/1979/1290_1290_1290), [1982 49](https://fedlex.data.admin.ch/eli/oc/1982/49_49_49)[945](https://fedlex.data.admin.ch/eli/oc/1982/945_945_945)[1111](https://fedlex.data.admin.ch/eli/oc/1982/1111_1111_1111), [1984 406](https://fedlex.data.admin.ch/eli/oc/1984/406_406_406)[743](https://fedlex.data.admin.ch/eli/oc/1984/743_743_743), [1986 197](https://fedlex.data.admin.ch/eli/oc/1986/197_197_197)[2097](https://fedlex.data.admin.ch/eli/oc/1986/2097_2097_2097), [1987 974](https://fedlex.data.admin.ch/eli/oc/1987/974_974_974), [1988 31](https://fedlex.data.admin.ch/eli/oc/1988/31_31_31), [1989 30](https://fedlex.data.admin.ch/eli/oc/1989/30_30_30)[1223](https://fedlex.data.admin.ch/eli/oc/1989/1223_1223_1223)[1498](https://fedlex.data.admin.ch/eli/oc/1989/__1498), [1990 105](https://fedlex.data.admin.ch/eli/oc/1990/105_105_105), [1991 1087](https://fedlex.data.admin.ch/eli/oc/1991/1087_1087_1087)[1148](https://fedlex.data.admin.ch/eli/oc/1991/1148_1148_1148)[1397](https://fedlex.data.admin.ch/eli/oc/1991/1397_1397_1397)[1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642), [1992 6](https://fedlex.data.admin.ch/eli/oc/1992/6_6_6), [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 2 [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)art. 13 cpv. 3 [2819](https://fedlex.data.admin.ch/eli/oc/1993/2819_2819_2819)[2936](https://fedlex.data.admin.ch/eli/oc/1993/2936_2936_2936), [1994 6](https://fedlex.data.admin.ch/eli/oc/1994/6_6_6)[279](https://fedlex.data.admin.ch/eli/oc/1994/279_279_279)[366](https://fedlex.data.admin.ch/eli/oc/1994/366_366_366), [1995 9](https://fedlex.data.admin.ch/eli/oc/1995/9_9_9)[3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)all. n. 10 [5099](https://fedlex.data.admin.ch/eli/oc/1995/5099_5099_5099), [1997 237](https://fedlex.data.admin.ch/eli/oc/1997/237_237_237)[305](https://fedlex.data.admin.ch/eli/oc/1997/305_305_305)[804](https://fedlex.data.admin.ch/eli/oc/1997/804_804_804), [1998 732](https://fedlex.data.admin.ch/eli/oc/1998/732_732_732), [1999 584](https://fedlex.data.admin.ch/eli/oc/1999/77), [2000 457](https://fedlex.data.admin.ch/eli/oc/2000/94)all. 2958. [RU 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)all. n. I 4]
+[^41-1]: [[RU 1959 1217](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217); [1962 300](https://fedlex.data.admin.ch/eli/oc/1962/289_295_300), [1288](https://fedlex.data.admin.ch/eli/oc/1962/1235_1276_1288); [1968 136](https://fedlex.data.admin.ch/eli/oc/1968/130_133_136), [1639](https://fedlex.data.admin.ch/eli/oc/1968/1674_1720_1639); [1971 105](https://fedlex.data.admin.ch/eli/oc/1971/101_105_105); [1972 196](https://fedlex.data.admin.ch/eli/oc/1972/192_196_196); **1973** 157; [1976 2713](https://fedlex.data.admin.ch/eli/oc/1976/2713_2713_2713); [1977 1421](https://fedlex.data.admin.ch/eli/oc/1977/1421_1421_1421); [1979 1290](https://fedlex.data.admin.ch/eli/oc/1979/1290_1290_1290); [1982 49](https://fedlex.data.admin.ch/eli/oc/1982/49_49_49), [945](https://fedlex.data.admin.ch/eli/oc/1982/945_945_945), [1111](https://fedlex.data.admin.ch/eli/oc/1982/1111_1111_1111); [1984 406](https://fedlex.data.admin.ch/eli/oc/1984/406_406_406), [743](https://fedlex.data.admin.ch/eli/oc/1984/743_743_743); [1986 197](https://fedlex.data.admin.ch/eli/oc/1986/197_197_197), [2097](https://fedlex.data.admin.ch/eli/oc/1986/2097_2097_2097); [1987 974](https://fedlex.data.admin.ch/eli/oc/1987/974_974_974); [1988 31](https://fedlex.data.admin.ch/eli/oc/1988/31_31_31); [1989 30](https://fedlex.data.admin.ch/eli/oc/1989/30_30_30), [1223](https://fedlex.data.admin.ch/eli/oc/1989/1223_1223_1223), [1498](https://fedlex.data.admin.ch/eli/oc/1989/__1498); [1990 105](https://fedlex.data.admin.ch/eli/oc/1990/105_105_105); [1991 1087](https://fedlex.data.admin.ch/eli/oc/1991/1087_1087_1087), [1148](https://fedlex.data.admin.ch/eli/oc/1991/1148_1148_1148), [1397](https://fedlex.data.admin.ch/eli/oc/1991/1397_1397_1397), [1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642); [1992 6](https://fedlex.data.admin.ch/eli/oc/1992/6_6_6); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)all. n. 2, [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)art. 13 cpv. 3, [2819](https://fedlex.data.admin.ch/eli/oc/1993/2819_2819_2819), [2936](https://fedlex.data.admin.ch/eli/oc/1993/2936_2936_2936); [1994 6](https://fedlex.data.admin.ch/eli/oc/1994/6_6_6), [279](https://fedlex.data.admin.ch/eli/oc/1994/279_279_279), [366](https://fedlex.data.admin.ch/eli/oc/1994/366_366_366); [1995 9](https://fedlex.data.admin.ch/eli/oc/1995/9_9_9), [3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)all. n. 10, [5099](https://fedlex.data.admin.ch/eli/oc/1995/5099_5099_5099); [1997 237](https://fedlex.data.admin.ch/eli/oc/1997/237_237_237), [305](https://fedlex.data.admin.ch/eli/oc/1997/305_305_305), [804](https://fedlex.data.admin.ch/eli/oc/1997/804_804_804); [1998 732](https://fedlex.data.admin.ch/eli/oc/1998/732_732_732); [1999 584](https://fedlex.data.admin.ch/eli/oc/1999/77); [2000 457](https://fedlex.data.admin.ch/eli/oc/2000/94)all. 2958. [RU 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)all. n. I 4]
 [^41-2]: [[RU 1993 2915](https://fedlex.data.admin.ch/eli/oc/1993/2915_2915_2915). [RU 2003 4209](https://fedlex.data.admin.ch/eli/oc/2003/622)]
 [^41-3]: [[RU 1996 2127](https://fedlex.data.admin.ch/eli/oc/1996/2127_2127_2127). [RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. III 6-22]
-[^41-4]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lett. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)n. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. I 1]
+[^41-4]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lett. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)n. II, [1853](https://fedlex.data.admin.ch/eli/oc/2000/284); [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. I 1]
 
 #### Art. 41a
 

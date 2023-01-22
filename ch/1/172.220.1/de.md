@@ -4,11 +4,11 @@ title: Bundespersonalgesetz vom 24. März 2000 (BPG)
 short: BPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: de
-version: 2021-01-01
+version: 2023-01-23
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2001-123-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20210101/de"
 
 (BPG)
 
-vom 24. März 2000 (Stand am 1. Januar 2021)
+vom 24. März 2000 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -46,7 +46,7 @@ Dieses Gesetz gilt für das Personal:
 
 - a. der Bundesverwaltung nach Artikel 2 Absätze 1 und 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^2-1] (RVOG);
 - b.[^2-2] der Parlamentsdienste nach dem Parlamentsgesetz vom 13. Dezember 2002[^2-3];
-- c.[^2-4] ...
+- c.[^2-4] …
 - d. der Schweizerischen Bundesbahnen nach dem Bundesgesetz vom 20. März 1998[^2-5] über die Schweizerischen Bundesbahnen;
 - e. der dezentralisierten Verwaltungseinheiten nach Artikel 2 Absatz 3 RVOG, sofern die spezialgesetzlichen Bestimmungen nichts anderes vorsehen;
 - f.[^2-6] des Bundesverwaltungsgerichts, des Bundesstrafgerichts und des Bundespatentgerichts, soweit das Verwaltungsgerichtsgesetz vom 17. Juni 2005[^2-7], das Strafbehördenorganisationsgesetz vom 19. März 2010[^2-8] und das Patentgerichtsgesetz vom 20. März 2009[^2-9] nichts anderes vorsehen;
@@ -93,7 +93,7 @@ Arbeitgeber nach diesem Gesetz sind:
 
 - a. der Bundesrat als oberstes Führungsorgan der Bundesverwaltung;
 - b. die Bundesversammlung für die Parlamentsdienste;
-- c.[^3-1] ...
+- c.[^3-1] …
 - d. die Schweizerischen Bundesbahnen;
 - e. das Bundesgericht;
 - f.[^3-2] die Bundesanwaltschaft;
@@ -146,7 +146,7 @@ Die Arbeitgeber setzen ihr Personal auf zweckmässige, wirtschaftliche und sozia
 
 <sup>2</sup> Er sorgt dafür, dass die Arbeitgeber ein geeignetes Controlling-System anwenden.
 
-<sup>3</sup> und <sup>4</sup> ...[^5-1]
+<sup>3</sup> und <sup>4</sup> …[^5-1]
 
 [^5-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
@@ -417,6 +417,14 @@ Die Ausführungsbestimmungen:
 
 <sup>2</sup> Während der Dauer des Arbeitsverhältnisses dürfen die Angestellten keine Arbeit gegen Entgelt für Dritte leisten, soweit sie dadurch ihre Treuepflicht verletzen.
 
+#### Art. 20a
+
+**Auszug aus dem Strafregister**[^20a-1]
+
+Die Arbeitgeber können von den Stellenbewerberinnen und ‑bewerbern und von den Angestellten verlangen, dass sie einen Auszug aus dem Strafregister vorlegen, sofern dies für die Wahrung der Interessen des Arbeitgebers erforderlich ist.
+
+[^20a-1]: Eingefügt durch Anhang 1 Ziff. 1 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+
 #### Art. 21
 
 **Verpflichtungen des Personals**
@@ -509,7 +517,7 @@ Er kann insbesondere folgende Massnahmen treffen:
 
 [^26-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-## 3*a*. Abschnitt: Datenbearbeitung****
+## 3*a*. Abschnitt: Datenbearbeitung
 
 [^sec3a-1]
 
@@ -713,7 +721,7 @@ Die Ausführungsbestimmungen können zusätzlich vorsehen:
 - f. die Beschaffung von Unterkünften an Arbeitsorten, an denen kein genügendes Wohnangebot besteht oder wo besondere Arbeitsumstände es erfordern, sowie die Unterstützung beim Kauf und bei der Miete von Wohnraum;
 - g. Vergünstigungen auf Leistungen und Erzeugnissen des Bundes.
 
-## 4*b*. Abschnitt:**** Berufliche Vorsorge
+## 4*b*. Abschnitt: Berufliche Vorsorge
 
 [^sec4b-1]
 
@@ -1068,13 +1076,13 @@ Die Vertragsparteien können im GAV insbesondere vorsehen:
 
 <sup>3</sup> Der Bundesrat kann vorsehen, dass weitere Bestimmungen des Beamtengesetzes vom 30. Juni 1927 für beschränkte Zeit weiterhin in Kraft bleiben.
 
-[^39-1]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]
+[^39-1]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II, [1853](https://fedlex.data.admin.ch/eli/oc/2000/284); [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]
 
 #### Art. 40
 
 **Änderung bisherigen Rechts**
 
-...[^40-1]
+…[^40-1]
 
 [^40-1]: Die Änderungen können unter [AS 2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)konsultiert werden.
 
@@ -1096,10 +1104,10 @@ Bis zum Inkrafttreten der zum Vollzug dieses Gesetzes erforderlichen Ausführung
 
 <sup>4</sup> Arbeitsverhältnisse, die vor Inkrafttreten dieses Gesetzes gemäss dem Beamtengesetz vom 30. Juni 1927 bestehen, gelten automatisch nach dem neuen Recht, es sei denn, sie seien durch ordentliche Kündigung oder Nichtwiederwahl gemäss altem Recht aufgelöst worden.
 
-[^41-1]: [[AS 1959 1181](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217), [1962 289](https://fedlex.data.admin.ch/eli/oc/1962/289_295_300)[1237](https://fedlex.data.admin.ch/eli/oc/1962/1237_1278_1291), [1968 130](https://fedlex.data.admin.ch/eli/oc/1968/130_133_136)[1674](https://fedlex.data.admin.ch/eli/oc/1968/1674_1720_1639), [1971 101](https://fedlex.data.admin.ch/eli/oc/1971/101_105_105), [1972 192](https://fedlex.data.admin.ch/eli/oc/1972/192_196_196), [1973 157](https://fedlex.data.admin.ch/eli/oc/1973/157_157_159), [1976 2713](https://fedlex.data.admin.ch/eli/oc/1976/2713_2713_2713), [1977 1421](https://fedlex.data.admin.ch/eli/oc/1977/1421_1421_1421), [1979 1290](https://fedlex.data.admin.ch/eli/oc/1979/1290_1290_1290), [1982 49](https://fedlex.data.admin.ch/eli/oc/1982/49_49_49)[945](https://fedlex.data.admin.ch/eli/oc/1982/945_945_945)[1111](https://fedlex.data.admin.ch/eli/oc/1982/1111_1111_1111), [1984 406](https://fedlex.data.admin.ch/eli/oc/1984/406_406_406)[743](https://fedlex.data.admin.ch/eli/oc/1984/743_743_743), [1986 197](https://fedlex.data.admin.ch/eli/oc/1986/197_197_197)[2097](https://fedlex.data.admin.ch/eli/oc/1986/2097_2097_2097), [1987 974](https://fedlex.data.admin.ch/eli/oc/1987/974_974_974), [1988 31](https://fedlex.data.admin.ch/eli/oc/1988/31_31_31), [1989 30](https://fedlex.data.admin.ch/eli/oc/1989/30_30_30)[1223](https://fedlex.data.admin.ch/eli/oc/1989/1223_1223_1223)[1498](https://fedlex.data.admin.ch/eli/oc/1989/1498_1498_), [1990 105](https://fedlex.data.admin.ch/eli/oc/1990/105_105_105), [1991 1087](https://fedlex.data.admin.ch/eli/oc/1991/1087_1087_1087)[1090](https://fedlex.data.admin.ch/eli/oc/1991/1090_1090_1090)[1148](https://fedlex.data.admin.ch/eli/oc/1991/1148_1148_1148)[1397](https://fedlex.data.admin.ch/eli/oc/1991/1397_1397_1397)[1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642), [1992 6](https://fedlex.data.admin.ch/eli/oc/1992/6_6_6), [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)Anhang Ziff. 2 [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)Art. 13 Abs. 3 [2819](https://fedlex.data.admin.ch/eli/oc/1993/2819_2819_2819)[2936](https://fedlex.data.admin.ch/eli/oc/1993/2936_2936_2936), [1994 6](https://fedlex.data.admin.ch/eli/oc/1994/6_6_6)[279](https://fedlex.data.admin.ch/eli/oc/1994/279_279_279)[366](https://fedlex.data.admin.ch/eli/oc/1994/366_366_366), [1995 9](https://fedlex.data.admin.ch/eli/oc/1995/9_9_9)[3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)Anhang Ziff. 10 [5099](https://fedlex.data.admin.ch/eli/oc/1995/5099_5099_5099), [1997 237](https://fedlex.data.admin.ch/eli/oc/1997/237_237_237)[305](https://fedlex.data.admin.ch/eli/oc/1997/305_305_305)[804](https://fedlex.data.admin.ch/eli/oc/1997/804_804_804), [1998 732](https://fedlex.data.admin.ch/eli/oc/1998/732_732_732), [2000 457](https://fedlex.data.admin.ch/eli/oc/2000/94)Anhang 2958. [AS 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Anhang Ziff. I 4]
+[^41-1]: [[AS 1959 1181](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217); [1962 289](https://fedlex.data.admin.ch/eli/oc/1962/289_295_300), [1237](https://fedlex.data.admin.ch/eli/oc/1962/1237_1278_1291); [1968 130](https://fedlex.data.admin.ch/eli/oc/1968/130_133_136), [1674](https://fedlex.data.admin.ch/eli/oc/1968/1674_1720_1639); [1971 101](https://fedlex.data.admin.ch/eli/oc/1971/101_105_105); [1972 192](https://fedlex.data.admin.ch/eli/oc/1972/192_196_196); [1973 157](https://fedlex.data.admin.ch/eli/oc/1973/157_157_159); [1976 2713](https://fedlex.data.admin.ch/eli/oc/1976/2713_2713_2713); [1977 1421](https://fedlex.data.admin.ch/eli/oc/1977/1421_1421_1421); [1979 1290](https://fedlex.data.admin.ch/eli/oc/1979/1290_1290_1290); [1982 49](https://fedlex.data.admin.ch/eli/oc/1982/49_49_49), [945](https://fedlex.data.admin.ch/eli/oc/1982/945_945_945), [1111](https://fedlex.data.admin.ch/eli/oc/1982/1111_1111_1111); [1984 406](https://fedlex.data.admin.ch/eli/oc/1984/406_406_406), [743](https://fedlex.data.admin.ch/eli/oc/1984/743_743_743); [1986 197](https://fedlex.data.admin.ch/eli/oc/1986/197_197_197), [2097](https://fedlex.data.admin.ch/eli/oc/1986/2097_2097_2097); [1987 974](https://fedlex.data.admin.ch/eli/oc/1987/974_974_974); [1988 31](https://fedlex.data.admin.ch/eli/oc/1988/31_31_31); [1989 30](https://fedlex.data.admin.ch/eli/oc/1989/30_30_30), [1223](https://fedlex.data.admin.ch/eli/oc/1989/1223_1223_1223), [1498](https://fedlex.data.admin.ch/eli/oc/1989/1498_1498_); [1990 105](https://fedlex.data.admin.ch/eli/oc/1990/105_105_105); [1991 1087](https://fedlex.data.admin.ch/eli/oc/1991/1087_1087_1087), [1090](https://fedlex.data.admin.ch/eli/oc/1991/1090_1090_1090), [1148](https://fedlex.data.admin.ch/eli/oc/1991/1148_1148_1148), [1397](https://fedlex.data.admin.ch/eli/oc/1991/1397_1397_1397), [1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642); [1992 6](https://fedlex.data.admin.ch/eli/oc/1992/6_6_6); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)Anhang Ziff. 2, [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)Art. 13 Abs. 3, [2819](https://fedlex.data.admin.ch/eli/oc/1993/2819_2819_2819), [2936](https://fedlex.data.admin.ch/eli/oc/1993/2936_2936_2936); [1994 6](https://fedlex.data.admin.ch/eli/oc/1994/6_6_6), [279](https://fedlex.data.admin.ch/eli/oc/1994/279_279_279), [366](https://fedlex.data.admin.ch/eli/oc/1994/366_366_366); [1995 9](https://fedlex.data.admin.ch/eli/oc/1995/9_9_9), [3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)Anhang Ziff. 10, [5099](https://fedlex.data.admin.ch/eli/oc/1995/5099_5099_5099); [1997 237](https://fedlex.data.admin.ch/eli/oc/1997/237_237_237), [305](https://fedlex.data.admin.ch/eli/oc/1997/305_305_305), [804](https://fedlex.data.admin.ch/eli/oc/1997/804_804_804); [1998 732](https://fedlex.data.admin.ch/eli/oc/1998/732_732_732); [2000 457](https://fedlex.data.admin.ch/eli/oc/2000/94)Anhang, [2958](https://fedlex.data.admin.ch/eli/oc/2000/528). [AS 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Anhang Ziff. I 4]
 [^41-2]: [[AS 1993 2915](https://fedlex.data.admin.ch/eli/oc/1993/2915_2915_2915). [AS 2003 4209](https://fedlex.data.admin.ch/eli/oc/2003/622)]
-[^41-3]: **[**[AS 1996 2127](https://fedlex.data.admin.ch/eli/oc/1996/2127_2127_2127). [AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. III 6-22]
-[^41-4]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]
+[^41-3]: **[**[AS 1996 2127](https://fedlex.data.admin.ch/eli/oc/1996/2127_2127_2127). [AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. III 6–22]
+[^41-4]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]
 
 #### Art. 41a
 
@@ -1114,7 +1122,7 @@ Solange für Frauen ein tieferes AHV-Alter als für die Männer gilt, sehen die 
 - a. dass für Frauen, die zwischen dem vollendeten 64. und 65. Altersjahr in Pension gehen, der für das Alter 65 angewendete Umwandlungssatz gilt;
 - b. dass die Projektion der Altersguthaben zur Ermittlung der Leistungen bei Invalidität und Tod für Männer und Frauen bis zum vollendeten 65. Altersjahr erfolgt.
 
-<sup>3</sup> ...[^41a-3]
+<sup>3</sup> …[^41a-3]
 
 [^41a-1]: Eingefügt durch Anhang des PUBLICA-Gesetzes vom 20. Dez. 2006, in Kraft seit 1. Mai 2007 für Abs. 1 und 1. Juli 2008 für die übrigen Bestimmungen ([AS 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313)[2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131); [BBl 2005 5829](https://fedlex.data.admin.ch/eli/fga/2005/951)).
 [^41a-2]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)

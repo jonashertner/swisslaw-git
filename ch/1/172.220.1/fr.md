@@ -4,11 +4,11 @@ title: Loi du 24 mars 2000 sur le personnel de la Confédération (LPers)
 short: LPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: fr
-version: 2021-01-01
+version: 2023-01-23
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-123-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20210101/fr"
 
 (LPers)
 
-du 24 mars 2000 (Etat le 1<sup>er</sup> janvier 2021)
+du 24 mars 2000 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -418,6 +418,14 @@ Les dispositions d’exécution:
 
 <sup>2</sup> Pendant la durée du contrat, l’employé ne peut exercer pour un tiers une activité rémunérée que dans la mesure où il ne viole pas son devoir de fidélité.
 
+#### Art. 20a
+
+**Extrait du casier judiciaire**[^20a-1]
+
+L’employeur peut exiger des candidats à un poste et de ses employés qu’ils produisent un extrait de leur casier judiciaire, si cela est nécessaire pour préserver ses intérêts.
+
+[^20a-1]: Introduit par l’annexe 1 ch. 1 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+
 #### Art. 21
 
 **Obligations du personnel**
@@ -510,7 +518,7 @@ Il peut notamment prendre les mesures suivantes:
 
 [^26-1]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-## Section 3*a* Traitement des données****
+## Section 3*a* Traitement des données
 
 [^sec3a-1]
 
@@ -714,7 +722,7 @@ Les dispositions d’exécution peuvent également prévoir:
 - f. l’acquisition de logements si l’offre est insuffisante sur le marché local, ou si la nécessité d’assurer aux employés un environnement adapté l’exige, et l’aide à l’achat ou à la location de logements;
 - g. l’octroi de facilités sur les produits et services fournis par la Confédération.
 
-## Section 4*b***** Prévoyance professionnelle
+## Section 4*b* Prévoyance professionnelle
 
 [^sec4b-1]
 

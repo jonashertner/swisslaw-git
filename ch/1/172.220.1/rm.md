@@ -4,11 +4,11 @@ title: Lescha dals 24 da mars 2000 davart il persunal da la Confederaziun (LPers
 short: LPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/123"
 language: rm
-version: 2021-01-01
+version: 2023-01-23
 adopted: 2000-03-24
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2001-123-20210101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/123/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-2001-123-20230123-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/123/20230123/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPers)
 
-dals 24 da mars 2000 (versiun dal 1. da schaner 2021)
+dals 24 da mars 2000 (versiun dals 23 da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -186,7 +186,7 @@ Il Cussegl federal decretescha princips davart:
 
   il salari (inclusiv las prestaziuns accessoricas) dal cader superiur sco er dal persunal che vegn salarisà cun in import cumparegliabel:
 
-  - 1\.[^6a-2] da las Viafiers federalas svizras (VFF);
+  - 1\.[^6a-2] da las Viafiers federalas svizras (VFF),
   - 2\. d’autras interpresas e d’auters stabiliments da la Confederaziun ch’èn suttamess a questa lescha sco unitads administrativas decentralisadas;
 
 - b. l’onurari (inclusiv las prestaziuns accessoricas) dals commembers dal cussegl administrativ u d’in organ directiv suprem cumparegliabel d’interpresas e da stabiliments tenor la litera a;
@@ -419,6 +419,14 @@ Las disposiziuns executivas:
 
 <sup>2</sup> Durant la relaziun da lavur na dastgan ils emploiads far nagina lavur cunter pajament per terzas persunas, sch’els violeschan tras quai lur obligaziun da fidaivladad.
 
+#### Art. 20a
+
+**Extract dal register penal**[^20a-1]
+
+Sch’igl è necessari per mantegnair ils agens interess, pon ils patruns pretender, ch’ils candidats per ina plazza sco er ils emploiads preschentian in extract dal register penal.
+
+[^20a-1]: Integrà tras la cifra 1 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+
 #### Art. 21
 
 **Obligaziuns dal persunal**
@@ -511,7 +519,7 @@ En spezial po el prender las suandantas mesiras:
 
 [^26-1]: Abolì tras la cifra I da la LF dals 14 da dec. 2012, cun effect dapi il 1. da fan. 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-## 3*a*. chapitel Elavuraziun da datas****
+## 3*a*. chapitel Elavuraziun da datas
 
 [^sec3a-1]
 
@@ -715,7 +723,7 @@ Las disposiziuns executivas pon prevair ultra da quai:
 - f. la procuraziun d’alloschis als lieus da lavur nua che la purschida d’abitaziuns è insuffizienta u là nua che circumstanzas da lavur particularas pretendan quai sco er il sustegn tar la cumpra u la locaziun da spazi d’abitar;
 - g. reducziuns sin prestaziuns e products da la Confederaziun.
 
-## 4*b*. chapitel**** Provediment professiunal
+## 4*b*. chapitel Provediment professiunal
 
 [^sec4b-1]
 
@@ -1070,7 +1078,7 @@ Las parts contractantas pon prevair tranter auter en il CLC:
 
 <sup>3</sup> Il Cussegl federal po prevair che ulteriuras disposiziuns da la Lescha dals 30 da zercladur 1927 da funcziunaris restan anc en vigur per in temp limità.
 
-[^39-1]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lit. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)cifra II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I 1]
+[^39-1]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lit. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)cifra II, [1853](https://fedlex.data.admin.ch/eli/oc/2000/284); [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I 1]
 
 #### Art. 40
 
@@ -1098,10 +1106,10 @@ Fin a l’entrada en vigur da las disposiziuns executivas necessarias per l’ex
 
 <sup>4</sup> Relaziuns da lavur ch’existan gia avant l’entrada en vigur da questa lescha tenor la Lescha dals 30 da zercladur 1927 davart ils funcziunaris, valan automaticamain tenor il dretg nov, sch’ellas n’èn betg vegnids schliads tras disditga ordinaria u nunelecziun tenor il dretg vegl.
 
-[^41-1]: [[AS 1959 1181](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217), [1962 289](https://fedlex.data.admin.ch/eli/oc/1962/289_295_300)[1237](https://fedlex.data.admin.ch/eli/oc/1962/1237_1278_1291), [1968 130](https://fedlex.data.admin.ch/eli/oc/1968/130_133_136)[1674](https://fedlex.data.admin.ch/eli/oc/1968/1674_1720_1639), [1971 101](https://fedlex.data.admin.ch/eli/oc/1971/101_105_105), [1972 192](https://fedlex.data.admin.ch/eli/oc/1972/192_196_196), [1973 157](https://fedlex.data.admin.ch/eli/oc/1973/157_157_159), [1976 2713](https://fedlex.data.admin.ch/eli/oc/1976/2713_2713_2713), [1977 1421](https://fedlex.data.admin.ch/eli/oc/1977/1421_1421_1421), [1979 1290](https://fedlex.data.admin.ch/eli/oc/1979/1290_1290_1290), [1982 49](https://fedlex.data.admin.ch/eli/oc/1982/49_49_49)[945](https://fedlex.data.admin.ch/eli/oc/1982/945_945_945)[1111](https://fedlex.data.admin.ch/eli/oc/1982/1111_1111_1111), [1984 406](https://fedlex.data.admin.ch/eli/oc/1984/406_406_406)[743](https://fedlex.data.admin.ch/eli/oc/1984/743_743_743), [1986 197](https://fedlex.data.admin.ch/eli/oc/1986/197_197_197)[2097](https://fedlex.data.admin.ch/eli/oc/1986/2097_2097_2097), [1987 974](https://fedlex.data.admin.ch/eli/oc/1987/974_974_974), [1988 31](https://fedlex.data.admin.ch/eli/oc/1988/31_31_31), [1989 30](https://fedlex.data.admin.ch/eli/oc/1989/30_30_30)[1223](https://fedlex.data.admin.ch/eli/oc/1989/1223_1223_1223)[1498](https://fedlex.data.admin.ch/eli/oc/1989/1498_1498_), [1990 105](https://fedlex.data.admin.ch/eli/oc/1990/105_105_105), [1991 1087](https://fedlex.data.admin.ch/eli/oc/1991/1087_1087_1087)[1090](https://fedlex.data.admin.ch/eli/oc/1991/1090_1090_1090)[1148](https://fedlex.data.admin.ch/eli/oc/1991/1148_1148_1148)[1397](https://fedlex.data.admin.ch/eli/oc/1991/1397_1397_1397)[1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642), [1992 6](https://fedlex.data.admin.ch/eli/oc/1992/6_6_6), [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)agiunta cifra 2 [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)art. 13 al. 3 [2819](https://fedlex.data.admin.ch/eli/oc/1993/2819_2819_2819)[2936](https://fedlex.data.admin.ch/eli/oc/1993/2936_2936_2936), [1994 6](https://fedlex.data.admin.ch/eli/oc/1994/6_6_6)[279](https://fedlex.data.admin.ch/eli/oc/1994/279_279_279)[366](https://fedlex.data.admin.ch/eli/oc/1994/366_366_366), [1995 9](https://fedlex.data.admin.ch/eli/oc/1995/9_9_9)[3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)agiunta cifra 10 [5099](https://fedlex.data.admin.ch/eli/oc/1995/5099_5099_5099), [1997 237](https://fedlex.data.admin.ch/eli/oc/1997/237_237_237)[305](https://fedlex.data.admin.ch/eli/oc/1997/305_305_305)[804](https://fedlex.data.admin.ch/eli/oc/1997/804_804_804), [1998 732](https://fedlex.data.admin.ch/eli/oc/1998/732_732_732), [2000 457](https://fedlex.data.admin.ch/eli/oc/2000/94)agiunta 2958. [AS 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)agiunta cifra I 4]
+[^41-1]: [[AS 1959 1181](https://fedlex.data.admin.ch/eli/oc/1959/1181_1221_1217); [1962 289](https://fedlex.data.admin.ch/eli/oc/1962/289_295_300), [1237](https://fedlex.data.admin.ch/eli/oc/1962/1237_1278_1291); [1968 130](https://fedlex.data.admin.ch/eli/oc/1968/130_133_136), [1674](https://fedlex.data.admin.ch/eli/oc/1968/1674_1720_1639); [1971 101](https://fedlex.data.admin.ch/eli/oc/1971/101_105_105); [1972 192](https://fedlex.data.admin.ch/eli/oc/1972/192_196_196); [1973 157](https://fedlex.data.admin.ch/eli/oc/1973/157_157_159); [1976 2713](https://fedlex.data.admin.ch/eli/oc/1976/2713_2713_2713); [1977 1421](https://fedlex.data.admin.ch/eli/oc/1977/1421_1421_1421); [1979 1290](https://fedlex.data.admin.ch/eli/oc/1979/1290_1290_1290); [1982 49](https://fedlex.data.admin.ch/eli/oc/1982/49_49_49), [945](https://fedlex.data.admin.ch/eli/oc/1982/945_945_945), [1111](https://fedlex.data.admin.ch/eli/oc/1982/1111_1111_1111); [1984 406](https://fedlex.data.admin.ch/eli/oc/1984/406_406_406), [743](https://fedlex.data.admin.ch/eli/oc/1984/743_743_743); [1986 197](https://fedlex.data.admin.ch/eli/oc/1986/197_197_197), [2097](https://fedlex.data.admin.ch/eli/oc/1986/2097_2097_2097); [1987 974](https://fedlex.data.admin.ch/eli/oc/1987/974_974_974); [1988 31](https://fedlex.data.admin.ch/eli/oc/1988/31_31_31); [1989 30](https://fedlex.data.admin.ch/eli/oc/1989/30_30_30), [1223](https://fedlex.data.admin.ch/eli/oc/1989/1223_1223_1223), [1498](https://fedlex.data.admin.ch/eli/oc/1989/1498_1498_); [1990 105](https://fedlex.data.admin.ch/eli/oc/1990/105_105_105); [1991 1087](https://fedlex.data.admin.ch/eli/oc/1991/1087_1087_1087), [1090](https://fedlex.data.admin.ch/eli/oc/1991/1090_1090_1090), [1148](https://fedlex.data.admin.ch/eli/oc/1991/1148_1148_1148), [1397](https://fedlex.data.admin.ch/eli/oc/1991/1397_1397_1397), [1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642); [1992 6](https://fedlex.data.admin.ch/eli/oc/1992/6_6_6); [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)agiunta cifra 2, [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)art. 13 al. 3, [2819](https://fedlex.data.admin.ch/eli/oc/1993/2819_2819_2819), [2936](https://fedlex.data.admin.ch/eli/oc/1993/2936_2936_2936); [1994 6](https://fedlex.data.admin.ch/eli/oc/1994/6_6_6), [279](https://fedlex.data.admin.ch/eli/oc/1994/279_279_279), [366](https://fedlex.data.admin.ch/eli/oc/1994/366_366_366); [1995 9](https://fedlex.data.admin.ch/eli/oc/1995/9_9_9), [3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)agiunta cifra 10, [5099](https://fedlex.data.admin.ch/eli/oc/1995/5099_5099_5099); [1997 237](https://fedlex.data.admin.ch/eli/oc/1997/237_237_237), [305](https://fedlex.data.admin.ch/eli/oc/1997/305_305_305), [804](https://fedlex.data.admin.ch/eli/oc/1997/804_804_804); [1998 732](https://fedlex.data.admin.ch/eli/oc/1998/732_732_732); [2000 457](https://fedlex.data.admin.ch/eli/oc/2000/94)agiunta, [2958](https://fedlex.data.admin.ch/eli/oc/2000/528). [AS 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)agiunta cifra I 4]
 [^41-2]: [[AS 1993 2915](https://fedlex.data.admin.ch/eli/oc/1993/2915_2915_2915). [AS 2003 4209](https://fedlex.data.admin.ch/eli/oc/2003/622)]
-[^41-3]: **[**[AS 1996 2127](https://fedlex.data.admin.ch/eli/oc/1996/2127_2127_2127). [AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra III 6-22]
-[^41-4]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lit. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)cifra II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I 1]
+[^41-3]: [[AS 1996 2127](https://fedlex.data.admin.ch/eli/oc/1996/2127_2127_2127). [AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra III 6–22]
+[^41-4]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lit. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 4; [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)cifra II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2, [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra I 1]
 
 #### Art. 41a
 
@@ -1118,7 +1126,7 @@ Uschè ditg che la vegliadetgna da la AVS è pli bassa per las dunnas che per il
 
 <sup>3</sup> ...[^41a-3]
 
-[^41a-1]: Integrà tras l’agiunta da la LF dals 20 da dec. 2006 davart la PUBLICA, en vigur dapi il 1. da matg 2007 per l’al. 1 e dapi il 1. da fan. 2008 per las ulteriuras disposiziuns ([AS 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313)[2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131); [BBl 2005 5829](https://fedlex.data.admin.ch/eli/fga/2005/951)).
+[^41a-1]: Integrà tras l’agiunta da la LF dals 20 da dec. 2006 davart la PUBLICA, en vigur dapi il 1. da matg 2007 per l’al. 1 e dapi il 1. da fan. 2008 per las ulteriuras disposiziuns ([AS 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313); [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131); [BBl 2005 5829](https://fedlex.data.admin.ch/eli/fga/2005/951)).
 [^41a-2]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
 [^41a-3]: Abolì tras la cifra I 2 da la LF dals 17 da mars 2017 davart il program da stabilisaziun 2017–2019, cun effect dapi il 1. da schan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
