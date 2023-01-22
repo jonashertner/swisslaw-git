@@ -4,11 +4,11 @@ title: Verordnung vom 11. September 2002 über den Allgemeinen Teil des Sozialve
 short: ATSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: de
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-569-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20220101/de"
 
 (ATSV)
 
-vom 11. September 2002 (Stand am 1. Januar 2022)
+vom 11. September 2002 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -145,7 +145,7 @@ Als zusätzliche Ausgabe werden angerechnet:
 
 ## 2. Kapitel: Allgemeine Verfahrensbestimmungen
 
-### 1. Abschnitt:**** Anforderungen an Spezialistinnen und Spezialisten, die Observationen durchführen
+### 1. Abschnitt: Anforderungen an Spezialistinnen und Spezialisten, die Observationen durchführen
 
 [^chap2-sec1-1]
 
@@ -167,8 +167,8 @@ Wer für einen Versicherungsträger Observationen durchführen will, benötigt e
 
 Die Bewilligung wird erteilt, wenn:
 
-- a. im Privatauszug der gesuchstellenden Person nach Artikel 371 des Strafgesetzbuchs[^7b-1] kein Delikt aufgeführt ist, das einen Bezug zur bewilligungspflichtigen Tätigkeit erkennen lässt;
-- b. die gesuchstellende Person erklärt, dass gegen sie keine hängigen Strafverfahren und keine hängigen oder in den letzten zehn Jahren abgeschlossenen Zivilverfahren wegen einer Persönlichkeitsverletzung nach den Artikeln 28–28*b* des Zivilgesetzbuchs[^7b-2] vorliegen, die einen Bezug zur bewilligungspflichtigen Tätigkeit erkennen lassen und die Gewähr für eine einwandfreie Ausübung dieser Tätigkeit und den guten Ruf beeinträchtigen können;
+- a.[^7b-1] im Privatauszug der gesuchstellenden Person nach Artikel 41 des Strafregistergesetzes vom 17. Juni 2016[^7b-2] kein Delikt aufgeführt ist, das einen Bezug zur bewilligungspflichtigen Tätigkeit erkennen lässt;
+- b. die gesuchstellende Person erklärt, dass gegen sie keine hängigen Strafverfahren und keine hängigen oder in den letzten zehn Jahren abgeschlossenen Zivilverfahren wegen einer Persönlichkeitsverletzung nach den Artikeln 28–28*b* des Zivilgesetzbuchs[^7b-3] vorliegen, die einen Bezug zur bewilligungspflichtigen Tätigkeit erkennen lassen und die Gewähr für eine einwandfreie Ausübung dieser Tätigkeit und den guten Ruf beeinträchtigen können;
 - c. gegen die gesuchstellende Person keine Verlustscheine bestehen;
 - d. die gesuchstellende Person die für die rechtskonforme Durchführung der Observation erforderlichen Rechtskenntnisse in einer geeigneten Aus- oder Weiterbildung erworben hat;
 - e. die gesuchstellende Person in den letzten zehn Jahren eine polizeiliche oder eine gleichwertige Observationsausbildung oder -weiterbildung erfolgreich absolviert hat; und
@@ -176,8 +176,9 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>2</sup> Sie wird nur natürlichen Personen erteilt.
 
-[^7b-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^7b-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^7b-1]: Fassung gemäss Anhang 10 Ziff. II 25 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^7b-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^7b-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 7c
 
@@ -240,7 +241,7 @@ Sie kann entzogen werden, wenn die Bewilligungsinhaberin oder der Bewilligungsin
 
 Das BSV führt ein Verzeichnis der Bewilligungsinhaberinnen und -inhaber.
 
-### 2. Abschnitt:**** Durchführung der Observation
+### 2. Abschnitt: Durchführung der Observation
 
 [^chap2-sec2-1]
 
@@ -271,7 +272,7 @@ Ein Ort gilt als nicht von einem allgemein zugänglichen Ort aus frei einsehbar,
 
 <sup>3</sup> Zur Standortbestimmung sind nur Instrumente zulässig, die nach ihrem bestimmungsgemässen Gebrauch der Standortbestimmung dienen, namentlich satellitenbasierte Ortungsgeräte. Es dürfen keine Fluggeräte eingesetzt werden.
 
-### 2*a*. Abschnitt:**** Gutachten
+### 2*a*. Abschnitt: Gutachten
 
 [^chap2-sec2a-1]
 
@@ -551,7 +552,7 @@ Die Einsprache hat aufschiebende Wirkung, ausser wenn:
 
 <sup>2</sup> Beabsichtigt er, die Verfügung zu Ungunsten der Einsprache führenden Person abzuändern, gibt er ihr Gelegenheit zum Rückzug der Einsprache.
 
-### 5. Abschnitt:**** Kosten einer unentgeltlichen Rechtsverbeiständung
+### 5. Abschnitt: Kosten einer unentgeltlichen Rechtsverbeiständung
 
 [^chap2-sec5-1]
 
@@ -615,7 +616,7 @@ Mehrere am Rückgriff beteiligte Versicherungsträger einigen sich auf eine einz
 - c. durch die Krankenversicherung;
 - d. durch die AHV/IV.
 
-## 3*a*. Kapitel:**** Durchführung internationaler Sozialversicherungsabkommen
+## 3*a*. Kapitel: Durchführung internationaler Sozialversicherungsabkommen
 
 [^chap3a-1]
 
@@ -853,7 +854,7 @@ Sind die Träger mittels einer Schnittstelle zu einer Fachanwendung an die elekt
 
 <sup>3</sup> Die Bundesstellen nach Artikel 17*e* stellen die Gebühr den Trägern jährlich in Rechnung.
 
-## 4. Kapitel: Übrige Bestimmungen****
+## 4. Kapitel: Übrige Bestimmungen
 
 [^chap4-1]
 
@@ -901,7 +902,7 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
-## Übergangsbestimmung zur Änderung vom 3. November 2021****
+## Übergangsbestimmung zur Änderung vom 3. November 2021
 
 [^u1-1]
 

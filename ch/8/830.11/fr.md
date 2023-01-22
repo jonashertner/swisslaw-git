@@ -4,11 +4,11 @@ title: Ordonnance du 11 septembre 2002 sur la partie générale du droit des ass
 short: OPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: fr
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-569-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20220101/fr"
 
 (OPGA)
 
-du 11 septembre 2002 (Etat le 1<sup>er</sup> janvier 2022)
+du 11 septembre 2002 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -145,7 +145,7 @@ Sont prises en considération les dépenses supplémentaires suivantes:
 
 ## Chapitre 2 Dispositions générales de la procédure
 
-### Section 1**** Exigences à l’endroit des spécialistes qui réalisent une observation
+### Section 1 Exigences à l’endroit des spécialistes qui réalisent une observation
 
 [^chap2-sec1-1]
 
@@ -167,8 +167,8 @@ Quiconque souhaite effectuer des observations pour un assureur doit en avoir l�
 
 L’autorisation est accordée si:
 
-- a. l’extrait du casier judiciaire destiné à des particuliers au sens de l’art. 371 du code pénal[^7b-1] du requérant est exempt de toute infraction faisant apparaître un lien avec l’activité soumise à autorisation;
-- b. le requérant déclare qu’il n’existe contre lui aucune procédure pénale pendante ni aucune procédure civile pendante ou close au cours des dix dernières années pour atteinte à la personnalité au sens des art. 28 à 28*b* du code civil (CC)[^7b-2] faisant apparaître un lien avec l’activité soumise à autorisation et susceptible de porter atteinte à la garantie du bon déroulement de cette activité et à sa bonne réputation;
+- a.[^7b-1] l’extrait destiné aux particuliers du casier judiciaire du requérant au sens de l’art. 41 de la loi du 17 juin 2016 sur le casier judiciaire[^7b-2] est exempt de toute infraction faisant apparaître un lien avec l’activité soumise à autorisation;
+- b. le requérant déclare qu’il n’existe contre lui aucune procédure pénale pendante ni aucune procédure civile pendante ou close au cours des dix dernières années pour atteinte à la personnalité au sens des art. 28 à 28*b* du code civil (CC)[^7b-3] faisant apparaître un lien avec l’activité soumise à autorisation et susceptible de porter atteinte à la garantie du bon déroulement de cette activité et à sa bonne réputation;
 - c. il n’existe pas d’actes de défaut de bien contre le requérant;
 - d. le requérant a acquis les connaissances juridiques indispensables à l’exécution d’une observation conforme au droit dans le cadre d’une formation initiale ou continue appropriée;
 - e. le requérant a accompli avec succès une formation policière initiale ou continue en surveillance ou une formation initiale ou continue équivalente en surveillance au cours des dix dernières années, et que
@@ -176,8 +176,9 @@ L’autorisation est accordée si:
 
 <sup>2</sup> Elle n’est accordée qu’à des personnes physiques.
 
-[^7b-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^7b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^7b-1]: Nouvelle teneur selon l’annexe 10 ch. II 25 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^7b-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^7b-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 7c
 
@@ -240,7 +241,7 @@ Elle peut être retirée si le titulaire:
 
 L’OFAS tient une liste des titulaires d’une autorisation.
 
-### Section 2**** Exécution de l’observation
+### Section 2 Exécution de l’observation
 
 [^chap2-sec2-1]
 
@@ -271,7 +272,7 @@ N’est pas considéré comme librement visible depuis un lieu accessible au pub
 
 <sup>3</sup> Pour déterminer la localisation, seuls peuvent être utilisés les instruments qui servent à cette fin conformément à leur usage, comme les appareils de localisation par satellite. L’utilisation d’aéronefs est interdite.
 
-### Section 2*a***** Expertise
+### Section 2*a* Expertise
 
 [^chap2-sec2a-1]
 
@@ -551,7 +552,7 @@ L’opposition a un effet suspensif, sauf:
 
 <sup>2</sup> Si l’assureur envisage de modifier la décision au détriment de l’opposant, il donne à ce dernier l’occasion de retirer son opposition.
 
-### Section 5**** Frais d’assistance gratuite d’un conseil juridique
+### Section 5 Frais d’assistance gratuite d’un conseil juridique
 
 [^chap2-sec5-1]
 
@@ -615,7 +616,7 @@ Les assureurs participant au recours désignent parmi eux celui qui les représe
 - c. par l’assurance-maladie;
 - d. par l’AVS/AI.
 
-## Chapitre 3*a***** Exécution de conventions internationales en matière de sécurité sociale
+## Chapitre 3*a* Exécution de conventions internationales en matière de sécurité sociale
 
 [^chap3a-1]
 
@@ -897,7 +898,7 @@ Sauf règles particulières de la présente ordonnance, les dispositions de l’
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2003.
 
-## Disposition transitoire de la modification du 3 novembre 2021****
+## Disposition transitoire de la modification du 3 novembre 2021
 
 [^u1-1]
 

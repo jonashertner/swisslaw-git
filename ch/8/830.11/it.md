@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 settembre 2002 sulla parte generale del diritto delle
 short: OPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: it
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-569-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2002-569-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20220101/it"
 
 (OPGA)
 
-dell’11 settembre 2002 (Stato 1° gennaio 2022)
+dell’11 settembre 2002 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -145,7 +145,7 @@ Sono computati come spese supplementari:
 
 ## Capitolo 2: Disposizioni generali di procedura
 
-### Sezione 1:**** Esigenze per gli specialisti incaricati dell’osservazione
+### Sezione 1: Esigenze per gli specialisti incaricati dell’osservazione
 
 [^chap2-sec1-1]
 
@@ -167,8 +167,8 @@ Chi intende svolgere un’osservazione per un assicuratore necessita di un’aut
 
 L’autorizzazione è rilasciata se:
 
-- a. nell’estratto per privati di cui all’articolo 371 del Codice penale[^7b-1] rilasciato al richiedente non figurano reati che hanno un nesso con l’attività soggetta ad autorizzazione;
-- b. il richiedente dichiara che nei suoi confronti non sono in corso procedimenti penali e non sono in corso, né sono stati conclusi negli ultimi dieci anni, procedimenti civili per lesioni della personalità secondo gli articoli 28–28*b* del Codice civile[^7b-2] che hanno un nesso con l’attività soggetta ad autorizzazione e che possono pregiudicare la garanzia di esercizio irreprensibile di questa attività e la buona reputazione;
+- a.[^7b-1] nell’estratto per privati di cui all’articolo 41 della legge del 17 giugno 2016[^7b-2] sul casellario giudiziale rilasciato al richiedente non figurano reati che hanno un nesso con l’attività soggetta ad autorizzazione;
+- b. il richiedente dichiara che nei suoi confronti non sono in corso procedimenti penali e non sono in corso, né sono stati conclusi negli ultimi dieci anni, procedimenti civili per lesioni della personalità secondo gli articoli 28–28*b* del Codice civile[^7b-3] che hanno un nesso con l’attività soggetta ad autorizzazione e che possono pregiudicare la garanzia di esercizio irreprensibile di questa attività e la buona reputazione;
 - c. non esistono attestati di carenza di beni contro il richiedente;
 - d. il richiedente ha acquisito, nel quadro di una formazione o formazione continua adeguata, le conoscenze giuridiche necessarie per l’esecuzione dell’osservazione conforme al diritto;
 - e. negli ultimi dieci anni il richiedente ha concluso con successo una formazione o una formazione continua di polizia o equivalente nel campo dell’osservazione; e
@@ -176,8 +176,9 @@ L’autorizzazione è rilasciata se:
 
 <sup>2</sup> L’autorizzazione è rilasciata solo a persone fisiche.
 
-[^7b-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^7b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^7b-1]: Nuovo testo giusta l’all. 10 n. II 25 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^7b-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^7b-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 7c
 
@@ -240,7 +241,7 @@ Essa può essere revocata, se il titolare dell’autorizzazione:
 
 L’UFAS tiene un registro dei titolari di un’autorizzazione.
 
-### Sezione 2:**** Svolgimento dell’osservazione
+### Sezione 2: Svolgimento dell’osservazione
 
 [^chap2-sec2-1]
 
@@ -271,7 +272,7 @@ Un luogo è considerato non liberamente visibile da un luogo accessibile al pubb
 
 <sup>3</sup> Per localizzare la posizione sono ammessi soltanto strumenti previsti specificamente a tal fine, in particolare apparecchi di localizzazione satellitari. Non possono essere impiegati apparecchi volanti.
 
-### Sezione 2*a*:**** Perizie
+### Sezione 2*a*: Perizie
 
 [^chap2-sec2a-1]
 
@@ -549,7 +550,7 @@ L’opposizione ha effetto sospensivo, salvo i casi in cui:
 
 <sup>2</sup> Se intende modificare la decisione a sfavore dell’opponente, concede a quest’ultimo la possibilità di ritirare l’opposizione.
 
-### Sezione 5:**** Spese concernenti il patrocinio gratuito
+### Sezione 5: Spese concernenti il patrocinio gratuito
 
 [^chap2-sec5-1]
 
@@ -614,7 +615,7 @@ Se al regresso partecipano più assicuratori, essi designano un unico rappresent
 
 [^17-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
 
-## Capitolo 3*a*:**** Esecuzione di convenzioni internazionali di sicurezza sociale
+## Capitolo 3*a*: Esecuzione di convenzioni internazionali di sicurezza sociale
 
 [^chap3a-1]
 
