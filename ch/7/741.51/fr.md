@@ -4,20 +4,20 @@ title: "Ordonnance du 27 octobre 1976 réglant l'admission des personnes et des 
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: fr
-version: 2022-04-01
+version: 2023-01-23
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20220401-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance réglant l’admission des personnes et des véhicules à la circulation routière
 
-(Ordonnance réglant l’admission à la circulation routière,**[^t-1]** OAC)
+(Ordonnance réglant l’admission à la circulation routière,[^t-1] OAC)
 
-du 27 octobre 1976 (Etat le 1<sup>er</sup> avril 2022)
+du 27 octobre 1976 (État le 23 janvier 2023)
 
 [^t-1]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -86,13 +86,13 @@ Les abréviations suivantes sont utilisées pour désigner les sous-systèmes du
 [^2-11]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
 [^2-12]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
-## 1 Admission de personnes****
+## 1 Admission de personnes
 
 [^lvl1-1]
 
 [^lvl1-1]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
-### 11**** Dispositions générales
+### 11 Dispositions générales
 
 [^lvl1-lvl11-1]
 
@@ -246,7 +246,7 @@ Ne sont pas tenus d’avoir un permis de conduire:
 [^5-2]: Introduite par le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^5-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
-### 11*a***** Examens relevant de la médecine du trafic et examens relevant de la psychologie du trafic
+### 11*a* Examens relevant de la médecine du trafic et examens relevant de la psychologie du trafic
 
 [^lvl1-lvl11a-1]
 
@@ -409,7 +409,7 @@ Les médecins utilisent, pour communiquer les résultats d’examen à l’autor
 
 <sup>3</sup> En cas d’échec lors de la course de contrôle, l’expert de la circulation retire le permis de conduire sur-le-champ et le remet à l’autorité cantonale.
 
-### 12**** Examen de conduite
+### 12 Examen de conduite
 
 [^lvl1-lvl12-1]
 
@@ -457,9 +457,9 @@ L’âge minimal requis pour conduire des véhicules automobiles est:
 
 <sup>2</sup> Le permis d’élève conducteur des catégories C et CE peut être délivré aux personnes qui suivent la formation professionnelle initiale de «Conducteur/Conductrice de véhicules lourds CFC» dès l’âge de 17 ans révolus. Ces dernières peuvent passer l’examen de conduite des catégories B, C et CE au plus tôt six mois avant d’avoir atteint 18 ans révolus et ne peuvent obtenir le permis de conduire qu’à 18 ans révolus.[^6-6]
 
-<sup>3</sup> ...[^6-7]
+<sup>3</sup> …[^6-7]
 
-<sup>3bis</sup> ...[^6-8]
+<sup>3bis</sup> …[^6-8]
 
 <sup>4</sup>
 
@@ -480,7 +480,7 @@ L’autorité cantonale peut:
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^6-3]: Introduite par le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^6-4]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^6-5]: Introduite par le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 (RO **20****07** 2183).
+[^6-5]: Introduite par le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^6-6]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^6-7]: Abrogé par le ch. I de l’O du 15 juin 2007, avec effet au 1<sup>er</sup> sept. 2009 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 [^6-8]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Abrogé par le ch. I de l’O du 15 juin 2007, avec effet au 1<sup>er</sup> sept. 2009 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
@@ -560,7 +560,7 @@ Avant de déposer une demande de permis d’élève conducteur, de permis de con
 
 <sup>3</sup> Le contrôle de la vue ne doit pas dater de plus de 24 mois au moment du dépôt de la demande.
 
-<sup>4</sup> ...[^9-2]
+<sup>4</sup> …[^9-2]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^9-2]: Abrogé par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
@@ -637,12 +637,13 @@ L’autorité cantonale examine si les conditions requises pour délivrer un per
 - d. entend un requérant mineur ou sous curatelle de portée générale et son représentant légal si ce dernier refuse de signer le formulaire de demande;
 - e.[^11b-2] détermine si le requérant est enregistré dans le SIAC-Mesures.
 
-<sup>2</sup> Elle peut se procurer un extrait du casier judiciaire et, en cas de doute, un rapport de police.
+<sup>2</sup> Elle peut se procurer un extrait 3 du casier judiciaire destiné aux autorités et, en cas de doute, un rapport de police.[^11b-3]
 
 <sup>3</sup> Les personnes souffrant d’épilepsie sont admises à la circulation uniquement sur la base d’un rapport favorable émis par un médecin spécialiste en neurologie.
 
 [^11b-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^11b-2]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11b-3]: Nouvelle teneur selon l’annexe 10 ch. II 20 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 11c
 
@@ -672,7 +673,7 @@ L’autorité cantonale examine si les conditions requises pour délivrer un per
 
 Le résultat de l’examen sera notifié au candidat. En cas d’échec, les motifs en seront communiqués et, sur demande, donnés par écrit à l’intéressé.
 
-### 124 Examen théorique de base et première saisie des données dans le SIAC-Personnes****
+### 124 Examen théorique de base et première saisie des données dans le SIAC-Personnes
 
 [^lvl1-lvl12-lvl124-1]
 
@@ -792,7 +793,7 @@ Les autorisations et conditions suivantes doivent être mentionnées dans le per
 
 <sup>6</sup> Tout transport professionnel de personnes est exclu lors des courses d’apprentissage.
 
-[^17-1]: Introduit par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 (RO **20****03** 3719).
+[^17-1]: Introduit par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^17-2]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^17-3]: Introduite par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
@@ -868,9 +869,9 @@ L’OFROU édicte des instructions sur la structure et le contenu du cours de th
 
 <sup>2</sup> Les cantons élaborent les questions d’examen de concert avec l’OFROU.
 
-<sup>3</sup> ...[^21-1]
+<sup>3</sup> …[^21-1]
 
-<sup>4</sup> ...[^21-2]
+<sup>4</sup> …[^21-2]
 
 [^21-1]: Abrogé par le ch. I de l’O du 26 sept. 2003, avec effet au 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^21-2]: Abrogé par le ch. I de l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -920,7 +921,7 @@ Ne sont pas soumis à l’examen pratique:
 
 <sup>3</sup> Le permis de conduire de la catégorie A avec limitation de puissance est délivré aux personnes qui possèdent un permis d’élève conducteur avec limitation de puissance et ont réussi l’examen pratique de conduite. Le permis de conduire de la catégorie A sans limitation de puissance est délivré aux personnes qui possèdent un permis d’élève conducteur sans limitation de puissance et ont réussi l’examen pratique de conduite.[^24-2]
 
-<sup>4</sup> et <sup>5</sup> ...[^24-3]
+<sup>4</sup> et <sup>5</sup> …[^24-3]
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> déc. 2005 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 [^24-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -965,7 +966,7 @@ Les droits suivants doivent être inscrits dans le permis de conduire:
 
 [^24c-1]: Anciennement art. 24*a.*
 [^24c-2]: [RS 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
-[^24c-3]: Introduite par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 (RO **2****003** 3719).
+[^24c-3]: Introduite par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^24c-4]: Introduite par le ch. I de l’O du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)). Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5569](https://fedlex.data.admin.ch/eli/oc/2008/769)).
 [^24c-5]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
 
@@ -1004,7 +1005,7 @@ Lors de l’inscription dans le permis de conduire de conditions, de restriction
 
 <sup>1</sup> Lorsqu’ils effectuent des courses entre l’exploitation et le territoire exploité, les conducteurs de véhicules automobiles agricoles et forestiers ne sont pas tenus de porter sur eux le permis de conduire ou l’attestation de l’inscription à un cours reconnu de conduite de tracteurs.[^24g-2]
 
-<sup>2</sup> ...[^24g-3]
+<sup>2</sup> …[^24g-3]
 
 [^24g-1]: Anciennement art. 24*d.*
 [^24g-2]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
@@ -1068,7 +1069,7 @@ L’autorisation de transporter des personnes à titre professionnel est accord�
 [^25-4]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^25-5]: Introduit par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
-### 12*a* Obligations d’annoncer et contrôles relevant de la médecine du trafic ****
+### 12*a* Obligations d’annoncer et contrôles relevant de la médecine du trafic
 
 [^lvl1-lvl12a-1]
 
@@ -1088,7 +1089,7 @@ L’autorisation de transporter des personnes à titre professionnel est accord�
 
 [^26a-1]
 
-[^26a-1]: Introduit par le ch. I de l’O du 17 oct. 1979 (RO **197****9** 1753). Abrogé par le ch. I de l’O du 3 juil. 2002, avec effet au 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^26a-1]: Introduit par le ch. I de l’O du 17 oct. 1979 ([RO 1979 1753](https://fedlex.data.admin.ch/eli/oc/1979/1753_1753_1753)). Abrogé par le ch. I de l’O du 3 juil. 2002, avec effet au 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
 #### Art. 26b
 
@@ -1128,7 +1129,7 @@ L’autorité cantonale peut:
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^27-2]: Nouvelle teneur selon le ch. I de l’O du 15 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
 
-### 12*b***** Formation complémentaire pour les titulaires du permis de conduire à l’essai
+### 12*b* Formation complémentaire pour les titulaires du permis de conduire à l’essai
 
 [^lvl1-lvl12b-1]
 
@@ -1186,7 +1187,7 @@ Une autorisation est requise pour organiser la formation complémentaire. L’au
 - b. peut engager au moins quatre animateurs; les animateurs qui dispensent la formation complémentaire aux titulaires du permis de conduire à l’essai de la catégorie A doivent être en outre au bénéfice d’une formation de moniteur de moto-école;
 - c. a contracté une assurance-responsabilité civile avec une couverture suffisante et une assurance casco complète pour les véhicules des participants aux cours;
 - d. offre publiquement les cours de formation complémentaire; sont exclus les cours de formation complémentaire de l’armée;
-- e.[^27e-3] ...
+- e.[^27e-3] …
 - f. dispose d’un système de garantie de la qualité selon l’art. 27*f*.
 
 [^27e-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -1215,13 +1216,13 @@ Les cantons:
 
 <sup>2</sup> Ils peuvent déléguer l’exécution de ces tâches à d’autres organes.
 
-### 13 Mesures****
+### 13 Mesures
 
 [^lvl1-lvl13-1]
 
 [^lvl1-lvl13-1]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
-### 131**** Nouvel examen de conduite, détermination de l’aptitude et des qualifications nécessaires à la conduite, et retrait du permis à titre préventif ****
+### 131 Nouvel examen de conduite, détermination de l’aptitude et des qualifications nécessaires à la conduite, et retrait du permis à titre préventif
 
 [^lvl1-lvl13-lvl131-1][^lvl1-lvl13-lvl131-2]
 
@@ -1304,7 +1305,7 @@ Le permis d’élève conducteur ou le permis de conduire peut être retiré à 
 
 [^30a-1]: Introduit par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 
-### 132 Retrait du permis****
+### 132 Retrait du permis
 
 [^lvl1-lvl13-lvl132-1]
 
@@ -1366,7 +1367,7 @@ Afin d’éviter les conséquences d’une rigueur excessive, le retrait du perm
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
-### 132*a* Mesures contre les titulaires du permis de conduire à l’essai****
+### 132*a* Mesures contre les titulaires du permis de conduire à l’essai
 
 [^lvl1-lvl13-lvl132a-1]
 
@@ -1404,7 +1405,7 @@ Toute personne qui désire conduire des véhicules automobiles après l’annula
 
 [^35b-1]: Introduit par le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> déc. 2005 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 
-### 132*b* Interdiction de circuler et avertissement****
+### 132*b* Interdiction de circuler et avertissement
 
 [^lvl1-lvl13-lvl132b-1]
 
@@ -1446,7 +1447,7 @@ L’interdiction de circuler est valable pour tous les genres de véhicules indi
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
-### 133 ...
+### 133 …
 
 #### Art. 38 et 39
 
@@ -1454,11 +1455,11 @@ L’interdiction de circuler est valable pour tous les genres de véhicules indi
 
 [^3839-1]: Abrogés par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
-### 134 Cours d’éducation routière à titre de formation complémentaire****
+### 134 Cours d’éducation routière à titre de formation complémentaire
 
 [^lvl1-lvl13-lvl134-1]
 
-[^lvl1-lvl13-lvl134-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 1991, en vigueur depuis le 1<sup>er</sup> juin 1991 (RO **199****1** 982).
+[^lvl1-lvl13-lvl134-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 1991, en vigueur depuis le 1<sup>er</sup> juin 1991 ([RO 1991 982](https://fedlex.data.admin.ch/eli/oc/1991/982_982_982)).
 
 #### Art. 40
 
@@ -1504,7 +1505,7 @@ L’acte de reconnaissance est délivré si:
 
 <sup>5</sup> Si, sans excuse, il n’est pas donné suite à la convocation, l’autorité cantonale fixera une nouvelle date; le conducteur en question doit prendre à sa charge les frais résultant du cours qu’il a manqué. Le recours contre de nouvelles convocations fondées sur un arrangement fixant une autre date est exclu.[^41-6]
 
-<sup>6</sup> ...[^41-7]
+<sup>6</sup> …[^41-7]
 
 [^41-1]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 [^41-2]: Introduit par le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
@@ -1649,7 +1650,7 @@ L’interdiction de faire usage du permis, fondée sur le fait que les règles s
 [^46-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^46-3]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
-### 15 ...
+### 15 …
 
 #### Art. 47 à 64
 
@@ -1657,7 +1658,7 @@ L’interdiction de faire usage du permis, fondée sur le fait que les règles s
 
 [^4764-1]: Abrogés par le ch. I de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
 
-### 15*a***** Animateurs de cours de formation complémentaire
+### 15*a* Animateurs de cours de formation complémentaire
 
 [^lvl1-lvl15a-1]
 
@@ -1810,7 +1811,7 @@ L’expert de la circulation chargé des examens de conduite et des contrôles d
 
 <sup>3</sup> Le résultat de l’examen sera notifié au candidat par le service des automobiles dont il est l’employé, avec indication de la note globale et des notes obtenues pour chaque groupe de matières. La réussite de l’examen sera attestée par un certificat.
 
-[^67-1]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 (RO **201****5** 1333).
+[^67-1]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^67-2]: Introduit par le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 
 #### Art. 68
@@ -1928,7 +1929,7 @@ Ni le permis de circulation ni les plaques de contrôle ne sont nécessaires pou
 - k.[^72-8] les cyclomoteurs légers;
 - l.[^72-9] les fauteuils roulants[^72-10] à propulsion électrique dont la vitesse maximale n’excède pas 10 km/h.
 
-<sup>2</sup> ...[^72-11]
+<sup>2</sup> …[^72-11]
 
 <sup>3</sup> S’ils disposent d’une attestation d’assurance valable, les cantons peuvent, par l’envoi d’une convocation, autoriser qu’un véhicule soit amené à l’expertise par le chemin le plus court.[^72-12]
 
@@ -1941,7 +1942,7 @@ Ni le permis de circulation ni les plaques de contrôle ne sont nécessaires pou
 [^72-7]: Introduite par le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^72-8]: Introduite par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^72-9]: Introduite par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^72-10]: Nouvelle expression selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 (RO **20****15** 1333).
+[^72-10]: Nouvelle expression selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^72-11]: Abrogé par le ch. I de l’O du 12 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
 [^72-12]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 93](https://fedlex.data.admin.ch/eli/oc/2007/23)).
 
@@ -1972,7 +1973,7 @@ Le canton de stationnement du véhicule délivre le permis de circulation au dé
   lors de la première immatriculation d’un véhicule de provenance suisse ou lors de l’immatriculation d’un véhicule de provenance étrangère:
 
   - 1\. le rapport d’expertise (form. 13.20 A), le cas échéant muni du sceau de la douane ou accompagné d’une autorisation douanière séparée,
-  - 2\.[^74-2] ...
+  - 2\.[^74-2] …
 
 - b.
 
@@ -2085,7 +2086,7 @@ Sont réputées conditions spéciales au sens des art. 10, al. 3[^80-1], et 96, 
 
 <sup>3</sup> Le permis de circulation des véhicules spéciaux mentionnera l’obligation de posséder une autorisation spéciale. S’il s’agit de véhicules destinés à tirer des remorques particulièrement lourdes, les poids de l’ensemble dérogeant aux prescriptions de la LCR seront indiqués dans le permis de circulation, sous la rubrique «Décisions de l’autorité».
 
-<sup>4</sup> Un détenteur qui prend un véhicule en *l**easing* ou qui cède souvent ou en permanence son véhicule à un tiers peut demander à l’autorité d’immatriculation, au moyen d’un formulaire électronique officiel, qu’un changement de détenteur requière son assentiment ou celui d’une autre personne physique ou morale mentionnée sur le formulaire. S’il n’a pas accès à la voie électronique, il peut remettre sa demande par écrit. L’autorité d’immatriculation inscrit cette restriction dans le permis de circulation et transmet les données au système d’information relatif à l’admission à la circulation, si elle a connaissance d’une telle demande au moment de l’immatriculation.[^80-7]
+<sup>4</sup> Un détenteur qui prend un véhicule en *leasing* ou qui cède souvent ou en permanence son véhicule à un tiers peut demander à l’autorité d’immatriculation, au moyen d’un formulaire électronique officiel, qu’un changement de détenteur requière son assentiment ou celui d’une autre personne physique ou morale mentionnée sur le formulaire. S’il n’a pas accès à la voie électronique, il peut remettre sa demande par écrit. L’autorité d’immatriculation inscrit cette restriction dans le permis de circulation et transmet les données au système d’information relatif à l’admission à la circulation, si elle a connaissance d’une telle demande au moment de l’immatriculation.[^80-7]
 
 <sup>5</sup> L’autorité d’immatriculation conserve la demande dans sa forme originale ou sous une forme électroniquement reproductible, tant que l’inscription subsiste et pendant les dix années qui suivent.[^80-8]
 
@@ -2113,7 +2114,7 @@ Lorsqu’un permis de circulation contenant une inscription selon l’art. 80, a
 
 <sup>3</sup> Le refus est caduc si la personne physique ou morale mentionnée sur le formulaire donne son assentiment par écrit sur papier ou sous forme électronique ou qu’un tribunal a statué sur les rapports de propriété par un jugement entré en force.[^81-3]
 
-<sup>4</sup> ...[^81-4]
+<sup>4</sup> …[^81-4]
 
 [^81-1]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^81-2]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
@@ -2136,14 +2137,14 @@ L’autorité délivre:
 - d.[^82-2] des plaques avec lettres et chiffres noirs sur fond vert clair pour les véhicules agricoles et forestiers;
 - e.[^82-3] des plaques avec lettres et chiffres noirs sur fond jaune pour les motocycles légers et les quadricycles légers à moteur;
 - f. des plaques avec lettres et chiffres blancs sur fond gris noir pour les véhicules de l’armée; si ces plaques ne peuvent être fixées de manière appropriée, l’écusson, les lettres et les chiffres seront peints à même la carrosserie, sur un champ gris noir;
-- g.[^82-4] ...
+- g.[^82-4] …
 
 <sup>2</sup>
 
 Les plaques suivantes sont munies d’un signe spécial:
 
 - a. les plaques pour l’immatriculation provisoire selon l’art. 18 OAV[^82-5];
-- b.[^82-6] ...
+- b.[^82-6] …
 - c. les plaques professionnelles portent la lettre «U»;
 - d.[^82-7] les plaques des véhicules dont les détenteurs bénéficient de privilèges et d’immunités diplomatiques ou consulaires portent le sigle «CD», «CC» ou «AT» sur fond vert foncé ou bleu foncé.
 
@@ -2242,7 +2243,7 @@ Les plaques, dont les coins doivent être arrondis (rayon: 1 cm), auront les dim
 [^85-3]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 1987, en vigueur depuis le 1<sup>er</sup> mai 1987 ([RO 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
 [^85-4]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^85-5]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^85-6]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 6 déc. 1999 sur l’organisation du DETEC, en vigueur depuis le 1<sup>er</sup> janv. 2000 (RO **20****00** 243).
+[^85-6]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 6 déc. 1999 sur l’organisation du DETEC, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 243](https://fedlex.data.admin.ch/eli/oc/2000/44)).
 
 #### Art. 86
 
@@ -2290,7 +2291,7 @@ Les cantons mettront à disposition de tout détenteur de véhicule des plaques 
 
 [^87a-1]: Introduit par le ch. I de l’O du 15 avr. 1987, en vigueur depuis le 1<sup>er</sup> mai 1987 ([RO 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
 
-### 22 Véhicules servant aux examens****
+### 22 Véhicules servant aux examens
 
 [^lvl2-lvl22-1]
 
@@ -2310,7 +2311,7 @@ Les cantons mettront à disposition de tout détenteur de véhicule des plaques 
 
 **Véhicules particuliers servant aux examens**[^88a-1]
 
-<sup>1</sup> ...[^88a-2]
+<sup>1</sup> …[^88a-2]
 
 <sup>2</sup> Lorsque l’examen pratique de la sous-catégorie A1 est passé sur un motocycle dont la vitesse est limitée à 45 km/h, le candidat n’a le droit de conduire que les motocycles correspondants.
 
@@ -2350,7 +2351,7 @@ Le permis de circulation est délivré:
 
 <sup>2</sup> Le permis de circulation est délivré après qu’un contrôle par groupe de cyclomoteurs a été effectué chez le fabricant ou l’importateur selon l’art. 92 ou après une expertise individuelle selon l’art. 93. Sa validité est illimitée.
 
-<sup>3</sup> En cas de contrôle par groupe, c’est l’autorité d’immatriculation du canton où se trouve l’entreprise qui est compétente pour délivrer le permis de circulation. ...[^91-2]
+<sup>3</sup> En cas de contrôle par groupe, c’est l’autorité d’immatriculation du canton où se trouve l’entreprise qui est compétente pour délivrer le permis de circulation. …[^91-2]
 
 <sup>4</sup> Le cyclomotoriste doit toujours être porteur du permis de circulation.
 
@@ -2408,7 +2409,7 @@ Le permis de circulation est délivré:
 
 <sup>7</sup> L’OFROU fixe l’aspect des caractères ainsi que les dimensions des lettres et des chiffres.
 
-[^94-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 (RO **20****11** 4941).
+[^94-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
 [^94-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
 #### Art. 95
@@ -2452,7 +2453,7 @@ Les remorques attelées aux cyclomoteurs n’ont besoin ni d’un permis de circ
 
 [^97-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
 
-### 24 ...
+### 24 …
 
 #### Art. 98 à 104
 
@@ -2535,7 +2536,7 @@ Si, lors d’une expertise ou d’un contrôle, il est constaté que des véhicu
 
 [^110-1]: Abrogé par le ch. II 64 de l’O du 8 nov. 2006 (Adaptation d’O du CF à la révision totale de la procédure fédérale), avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-### 253 ...
+### 253 …
 
 #### Art. 111 à 113
 
@@ -2582,7 +2583,7 @@ Les véhicules automobiles et les remorques immatriculés à l’étranger doive
 
 <sup>2</sup> Si la durée de validité d’une immatriculation étrangère est échue à l’étranger, les autorités douanières peuvent autoriser l’usage du véhicule en Suisse pendant une période de trente jours consécutifs au maximum; lorsque ce délai est écoulé, le véhicule doit être immatriculé en Suisse.
 
-<sup>3</sup> ...[^115-3]
+<sup>3</sup> …[^115-3]
 
 <sup>4</sup> Les cyclomoteurs étrangers doivent être immatriculés comme motocycles ou comme motocycles légers tant qu’ils ne sont pas conformes en tous points à un type de cyclomoteur reconnu en Suisse.[^115-4]
 
@@ -2600,7 +2601,7 @@ L’al. 6 ne s’applique pas lorsque des véhicules étrangers ne sont admis qu
 
 [^115-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^115-2]: Nouvelle teneur selon l’art. 59 ch. 3 de l’O du 6 mars 2000 relative à une redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)).
-[^115-3]: Abrogé par le ch. I de l’O du 7 mars 1994, avec effet au 1<sup>er</sup> avr. 1994 (RO **1****994** 726).
+[^115-3]: Abrogé par le ch. I de l’O du 7 mars 1994, avec effet au 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^115-4]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^115-5]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^115-6]: Introduit par le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 93](https://fedlex.data.admin.ch/eli/oc/2007/23)).
@@ -2635,7 +2636,7 @@ Les véhicules étrangers sont imposables par le canton de stationnement à part
 
 ### 31 Avis
 
-### 311 ...
+### 311 …
 
 #### Art. 118
 
@@ -2707,7 +2708,7 @@ Les autorités pénales signalent à l’autorité compétente en matière de ci
 
 [^124-1]: Abrogé par le ch. I de l’O du 13 nov. 1991, avec effet au 1<sup>er</sup> janv. 1992 ([RO 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
 
-### 314 ...
+### 314 …
 
 #### Art. 125 et 126
 
@@ -2797,7 +2798,7 @@ Le maître d’apprentissage qui n’annonce pas la résiliation du contrat d’
 
 **Conducteurs de cyclomoteurs**
 
-<sup>1.</sup> et 2. ...[^145-1]
+<sup>1.</sup> et 2. …[^145-1]
 
 <sup>3.</sup> Celui aura conduit un cyclomoteur sans le permis de circulation ou la plaque nécessaires,
 
@@ -2841,7 +2842,7 @@ celui qui aura conduit un véhicule étranger non muni du signe distinctif du pa
 
 sera puni de l’amende[^147-1].
 
-<sup>2.</sup> ...[^147-2]
+<sup>2.</sup> …[^147-2]
 
 [^147-1]: Nouvelle teneur du dernier membre de phrase selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^147-2]: Abrogé par le ch. II de l’O du 7 avr. 1982, avec effet au 1<sup>er</sup> juin 1982 ([RO 1982 535](https://fedlex.data.admin.ch/eli/oc/1982/535_535_535)).
@@ -2897,12 +2898,12 @@ L’OFROU édicte des instructions concernant la forme, le contenu, l’aspect, 
 
 L’OFROU peut:[^150-7]
 
-- a.[^150-8] ...
+- a.[^150-8] …
 - b.[^150-9] publier pour les médecins des instructions, destinées à l’usage officiel, sur la manière de procéder aux examens relevant de la médecine du trafic;
 - c.[^150-10] recommander des méthodes uniformes pour la réalisation des examens prévus aux art. 9, 11*b*, al. 1, et 27;
 - d. fixer les exigences auxquelles les conducteurs de véhicules automobiles doivent satisfaire en matière de psychologie du trafic;
 - e.[^150-11] modifier les délais fixés pour la reconnaissance des plaques et permis étrangers et renoncer à la course de contrôle selon l’art. 44, al. 1, ainsi qu’à l’examen théorique selon l’art. 44, al. 2, à l’égard des conducteurs dont le pays de provenance a des exigences équivalant à celles de la Suisse pour ce qui est de la formation et de l’examen.
-- f.[^150-12] ...
+- f.[^150-12] …
 
 <sup>6</sup> L’OFROU peut établir des instructions pour l’exécution de la présente ordonnance; dans des cas particuliers, il peut autoriser des dérogations à certaines dispositions. Il prend des décisions d’ordre général, en principe après avoir consulté les cantons et des spécialistes en la matière.
 
@@ -3019,7 +3020,7 @@ Moyennant une autorisation de l’autorité d’admission, les titulaires d’un
 
 <sup>6</sup> Les véhicules des catégories C, D et CE servant aux examens, qui sont conformes aux exigences fixées selon le droit actuel, devront satisfaire aux nouvelles exigences à partir du 1<sup>er</sup> janvier 2006.
 
-<sup>7</sup> ...[^151d-2]
+<sup>7</sup> …[^151d-2]
 
 <sup>8</sup> Après l’établissement du nouveau permis de conduire, la catégorie C1 actuelle donnera l’autorisation de conduire des véhicules automobiles des nouvelles sous-catégories C1 et C1E ainsi que des voitures automobiles servant d’habitation et des voitures automobiles des services du feu dont le poids total excède 7500 kg.
 
@@ -3031,7 +3032,7 @@ Moyennant une autorisation de l’autorité d’admission, les titulaires d’un
 
 <sup>12</sup> L’obligation de se soumettre à un contrôle médical selon l’art. 27, al. 1, let. b, ne s’applique pas aux personnes possédant déjà un permis de conduire pour cyclomoteurs.
 
-<sup>13</sup> ...[^151d-5]
+<sup>13</sup> …[^151d-5]
 
 <sup>14</sup> Après l’établissement du nouveau permis de conduire, la catégorie C actuelle sans l’autorisation de tracter des remorques de la catégorie E au moyen de véhicules automobiles (condition 09 actuelle) donne l’autorisation de conduire des véhicules automobiles des nouvelles catégories BE et DE ainsi que des nouvelles sous-catégories C1E et D1E, si un permis de conduire a été délivré pour le véhicule correspondant.[^151d-6]
 
@@ -3180,7 +3181,7 @@ Les personnes qui, sur la base de l’art. 151*d,* al. 9 et 10, sont autorisées
 
 **Modification du droit en vigueur**
 
-...[^152-1]
+…[^152-1]
 
 [^152-1]: Les mod. peuvent être consultées au [RO 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423).
 
@@ -3209,7 +3210,7 @@ Toutes les dispositions contraires à la présente ordonnance sont abrogées à 
 [^153-4]: [[RO 1966 352](https://fedlex.data.admin.ch/eli/oc/1966/343_352_353)]
 [^153-5]: [[RO 1967 46](https://fedlex.data.admin.ch/eli/oc/1967/42_46_45)[76](https://fedlex.data.admin.ch/eli/oc/1967/68_76_), [1973 948](https://fedlex.data.admin.ch/eli/oc/1973/948_948_949)ch. II]
 [^153-6]: [[RO 1967 1717](https://fedlex.data.admin.ch/eli/oc/1967/1671_1717_1713)]
-[^153-7]: [RO **196****8** 261]
+[^153-7]: [[RO 1968 261](https://fedlex.data.admin.ch/eli/oc/1968/245_261_263)]
 [^153-8]: [[RO 1969 170](https://fedlex.data.admin.ch/eli/oc/1969/158_170_170)]
 [^153-9]: [[RO 1969 477](https://fedlex.data.admin.ch/eli/oc/1969/469_477_475)[532](https://fedlex.data.admin.ch/eli/oc/1969/524_532_)]
 [^153-10]: [[RO 1969 813](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)[1116](https://fedlex.data.admin.ch/eli/oc/1969/_1116_), [1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)art. 10 al. 2 [716](https://fedlex.data.admin.ch/eli/oc/1971/715_716_716), [1972 611](https://fedlex.data.admin.ch/eli/oc/1972/603_611_535)[746](https://fedlex.data.admin.ch/eli/oc/1972/738_746_670)art. 7 al. 2, [1973 2155](https://fedlex.data.admin.ch/eli/oc/1973/2155_2155_2155)ch. II, [1974 57](https://fedlex.data.admin.ch/eli/oc/1974/57_57_57)art. 25]
@@ -3224,7 +3225,7 @@ Toutes les dispositions contraires à la présente ordonnance sont abrogées à 
 
 <sup>2</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1977.
 
-## Dispositions finales de la modification du 15 avril 1987****
+## Dispositions finales de la modification du 15 avril 1987
 
 [^u1-1]
 
@@ -3234,7 +3235,7 @@ Toutes les dispositions contraires à la présente ordonnance sont abrogées à 
 
 <sup>2</sup> Les plaques pour l’immatriculation provisoire, arrivant à échéance en 1988, pourront être délivrées conformément aux prescriptions actuelles.
 
-## Dispositions finales de la modification du 13 février 1991****
+## Dispositions finales de la modification du 13 février 1991
 
 [^u2-1]
 
@@ -3252,7 +3253,7 @@ Toutes les dispositions contraires à la présente ordonnance sont abrogées à 
 
 <sup>6</sup> Les véhicules servant aux examens de conduite des catégories C et C + E répondant aux exigences du droit antérieur peuvent être encore utilisés jusqu’au 31 décembre 1995; le poids effectif de l’ensemble de véhicules utilisés pour l’examen de conduite de la catégorie C + E ne doit toutefois pas être inférieur à 15 t.
 
-## Dispositions finales de la modification du 13 novembre 1991****
+## Dispositions finales de la modification du 13 novembre 1991
 
 [^u3-1]
 
@@ -3262,7 +3263,7 @@ Toutes les dispositions contraires à la présente ordonnance sont abrogées à 
 
 <sup>2</sup> Les inscriptions effectuées selon le droit actuel dans les registres cantonaux et relatives à des infractions commises en matière de circulation routière devront être éliminées progressivement d’ici au 1<sup>er</sup> janvier 1997. Même avant cette échéance, il n’est plus permis de transmettre de telles inscriptions aux autorités judiciaires et les autorités compétentes en matière de circulation routière n’ont plus le droit d’en tenir compte, lorsque plus de cinq ans séparent l’infraction actuelle de l’infraction précédente.
 
-## Disposition finale de la modification du 7 mars 1994****
+## Disposition finale de la modification du 7 mars 1994
 
 [^u4-1]
 
@@ -3270,7 +3271,7 @@ Toutes les dispositions contraires à la présente ordonnance sont abrogées à 
 
 Pour les autorisations spéciales, les cantons sont habilités à utiliser encore pendant deux ans les formules établies selon le droit actuel.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 7, 9, 34 et 65, al. 2, let. d)
 
@@ -3281,22 +3282,22 @@ Annexe 1*[^t-2]*
 <table>
 <tr><th></th><th>1<sup>er</sup> groupe</th><th>2<sup>e</sup> groupe</th></tr>
 <tr><td></td><td>a. Permis des catégories A et B b. Permis des sous-catégories A1 et B1 c. Permis des catégories spéciales F, G et M</td><td>a. Permis des catégories C et D b. Permis des sous-catégories C1 et D1 c. Autorisation de transporter des personnes à titre professionnel d. Experts de la circulation</td></tr>
-<tr><td>**1** **Facultés visuelles** 1.1 Acuité visuelle</td><td>0,5 pour l’œil le meilleur/0,2 pour l’œil le plus mauvais (mesurés isolément) Vision monoculaire (y c. acuité visuelle de l’œil le plus mauvais &lt; 0,2): 0,6</td><td>0,8 pour l’œil le meilleur/0,5 pour l’œil le plus mauvais (mesurés isolément)</td></tr>
+<tr><td>**1****Facultés visuelles** 1.1 Acuité visuelle</td><td>0,5 pour l’œil le meilleur/0,2 pour l’œil le plus mauvais (mesurés isolément) Vision monoculaire (y c. acuité visuelle de l’œil le plus mauvais &lt; 0,2): 0,6</td><td>0,8 pour l’œil le meilleur/0,5 pour l’œil le plus mauvais (mesurés isolément)</td></tr>
 <tr><td>1.2 Champ visuel</td><td>Vision binoculaire: champ visuel de 120 degrés de diamètre horizontal au minimum. élargissement vers la droite et la gauche de 50 degrés au minimum. Élargissement vers le haut et le bas de 20 degrés au minimum. Le champ visuel central des deux yeux doit être normal jusqu’à 20 degrés. Vision monoculaire: champ visuel normal en cas de mobilité des yeux normale.</td><td>Champ visuel de 140 degrés de diamètre horizontal au minimum. Élargissement vers la droite et la gauche de 70 degrés au minimum. Élargissement vers le haut et le bas de 30 degrés au minimum. Le champ visuel central pour chaque œil doit être normal jusqu’à 30 degrés.</td></tr>
 <tr><td>1.3 Diplopie</td><td>Pas de diplopie restrictive.</td><td>Mobilité des yeux normale (pas de diplopie)</td></tr>
 <tr><td>1.4 Vision crépusculaire et sensibilité à l’éblouissement</td><td colspan="2">Pas de réduction importante de la vision crépusculaire. Pas d’accroissement majeur de la sensibilité à l’éblouissement.</td></tr>
-<tr><td>**2** **Ouïe**</td><td></td><td>Voix normale audible à 3 m par chaque oreille. En cas de surdité d’une oreille: 6 m. Pas de maladies graves de l’oreille interne ou moyenne.</td></tr>
-<tr><td>**3 Alcool, stu****péfiants et produits pharmaceutiques psychotropes**</td><td>Pas de dépendance. Pas d’abus ayant des effets sur la conduite.</td><td>Pas de dépendance. Pas d’abus ayant des effets sur la conduite. Pas de traitement substitutif.</td></tr>
-<tr><td>**4 Troubles psychiques**</td><td>Pas de troubles psychiques avec effets importants sur la perception de la réalité, l’acquisition et le traitement de l’information, la réactivité ou l’adaptation du comportement à la situation. Pas de réduction des capacités de réserve ayant des effets sur la conduite. Pas de symptômes maniaques ou pas de symptômes dépressifs importants. Pas de troubles de la personnalité considérables, notamment pas de troubles du comportement asociaux marqués. Pas de déficiences intellectuelles majeures.</td><td>Pas de troubles psychiques avec effets importants sur la perception de la réalité, l’acquisition et le traitement de l’information, la réactivité ou l’adaptation du comportement à la situation. Pas de réduction des capacités de réserve. Pas de symptômes maniaques ou dépressifs importants. Pas de troubles de la personnalité considérables, notamment pas de troubles du comportement asociaux marqués. Pas de déficiences intellectuelles majeures. Pas de troubles affectifs ou schizophréniques récidivants ou cycliques considérables.</td></tr>
-<tr><td>**5 Troubles des foncti****ons cérébrales d’origine organique**</td><td>Pas de maladies ou de troubles psychiques d’origine organique perturbant de façon significative la conscience, l’orientation, la mémoire, l’intellect, la réactivité et pas d’autre trouble des fonctions cérébrales. Pas de symptômes maniaques ou dépressifs importants. Pas de troubles du comportement ayant des effets sur la conduite. Pas de réduction des capacités de réserve ayant des effets sur la conduite.</td><td>Pas de maladies perturbant les fonctions cérébrales. Pas de troubles psychiques d’origine organique.</td></tr>
-<tr><td>**6 Maladies neurologiques**</td><td>Pas de maladies ou conséquences de blessures ou d’opérations du système nerveux central ou périphérique ayant des effets importants sur l’aptitude à conduire avec sûreté un véhicule automobile. Pas de troubles ou de pertes de la conscience. Pas de troubles de l’équilibre.</td><td>Pas de maladies ou de conséquences de blessures ou d’opérations du système nerveux central ou périphérique. Pas de troubles ou de pertes de la conscience. Pas de troubles de l’équilibre.</td></tr>
-<tr><td>**7 Maladies cardiovasculaires**</td><td>Pas de maladies entraînant un risque élevé de crises douloureuses, de malaises, de diminution du débit sanguin cérébral réduisant les capacités, d’altérations de la conscience ou de toute autre perturbation permanente ou épisodique de l’état général. Pas d’anomalie grave de la tension artérielle.</td><td>Pas de maladies entraînant un risque élevé de crises douloureuses, de malaises, de diminution du débit sanguin cérébral réduisant les capacités, d’altérations de la conscience ou de toute autre perturbation permanente ou épisodique de l’état général. Pas de troubles du rythme cardiaque importants. Test d’effort normal en cas de maladie cardiaque. Pas d’anomalie de la tension artérielle ne pouvant pas être normalisée par un traitement.</td></tr>
-<tr><td>**8 Maladies du métabolisme**</td><td>En cas de diabète (Diabetes mellitus), régulation stable du taux de glucose dans le sang sans hypoglycémie ou symptômes généraux d’hyperglycémie ayant des effets sur la conduite. Pas d’autres maladies du métabolisme ayant des effets importants sur l’aptitude à conduire avec sûreté un véhicule automobile.</td><td>En cas de diabète (Diabetes mellitus) dont la thérapie peut avoir pour effet secondaire l’hypoglycémie ou pour lequel des symptômes généraux d’hyperglycémie peuvent apparaître, l’intéressé n’est pas considéré comme apte à conduire des véhicules de la catégorie D et de la sous-catégorie D1; pour la catégorie C, la sous-catégorie C1, l’autorisation de transporter des personnes à titre professionnel ainsi que pour les experts de la circulation, l’aptitude à conduire peut être déclarée sous des conditions particulièrement favorables. Pas d’autres maladies du métabolisme ayant des effets sur l’aptitude à conduire avec sûreté un véhicule automobile ou diminuant les moyens propres à la conduite de l’intéressé.</td></tr>
-<tr><td>**9 Maladies des organes respiratoires et abdominaux**</td><td>Pas de maladies entraînant une somnolence diurne accrue ni d’autres troubles ou réductions ayant des effets sur l’aptitude à conduire avec sûreté un véhicule automobile.</td><td>Pas de maladies entraînant une somnolence diurne accrue ni d’autres troubles ou réductions ayant des effets sur l’aptitude à conduire avec sûreté un véhicule automobile ou diminuant les moyens propres à la conduite de l’intéressé.</td></tr>
-<tr><td>**10 Maladies de la colonne ver****tébrale et de l’appareil locomoteur**</td><td colspan="2">Pas de déformations, de maladies, de paralysies, de conséquences de blessures ou d’opérations ayant des effets importants sur l’aptitude à conduire avec sûreté un véhicule automobile impossibles à corriger suffisamment par des dispositifs spéciaux.</td></tr>
+<tr><td>**2****Ouïe**</td><td></td><td>Voix normale audible à 3 m par chaque oreille. En cas de surdité d’une oreille: 6 m. Pas de maladies graves de l’oreille interne ou moyenne.</td></tr>
+<tr><td>**3** **Alcool, stupéfiants et produits pharmaceutiques psychotropes**</td><td>Pas de dépendance. Pas d’abus ayant des effets sur la conduite.</td><td>Pas de dépendance. Pas d’abus ayant des effets sur la conduite. Pas de traitement substitutif.</td></tr>
+<tr><td>**4** **Troubles psychiques**</td><td>Pas de troubles psychiques avec effets importants sur la perception de la réalité, l’acquisition et le traitement de l’information, la réactivité ou l’adaptation du comportement à la situation. Pas de réduction des capacités de réserve ayant des effets sur la conduite. Pas de symptômes maniaques ou pas de symptômes dépressifs importants. Pas de troubles de la personnalité considérables, notamment pas de troubles du comportement asociaux marqués. Pas de déficiences intellectuelles majeures.</td><td>Pas de troubles psychiques avec effets importants sur la perception de la réalité, l’acquisition et le traitement de l’information, la réactivité ou l’adaptation du comportement à la situation. Pas de réduction des capacités de réserve. Pas de symptômes maniaques ou dépressifs importants. Pas de troubles de la personnalité considérables, notamment pas de troubles du comportement asociaux marqués. Pas de déficiences intellectuelles majeures. Pas de troubles affectifs ou schizophréniques récidivants ou cycliques considérables.</td></tr>
+<tr><td>**5** **Troubles des fonctions cérébrales d’origine organique**</td><td>Pas de maladies ou de troubles psychiques d’origine organique perturbant de façon significative la conscience, l’orientation, la mémoire, l’intellect, la réactivité et pas d’autre trouble des fonctions cérébrales. Pas de symptômes maniaques ou dépressifs importants. Pas de troubles du comportement ayant des effets sur la conduite. Pas de réduction des capacités de réserve ayant des effets sur la conduite.</td><td>Pas de maladies perturbant les fonctions cérébrales. Pas de troubles psychiques d’origine organique.</td></tr>
+<tr><td>**6** **Maladies neurologiques**</td><td>Pas de maladies ou conséquences de blessures ou d’opérations du système nerveux central ou périphérique ayant des effets importants sur l’aptitude à conduire avec sûreté un véhicule automobile. Pas de troubles ou de pertes de la conscience. Pas de troubles de l’équilibre.</td><td>Pas de maladies ou de conséquences de blessures ou d’opérations du système nerveux central ou périphérique. Pas de troubles ou de pertes de la conscience. Pas de troubles de l’équilibre.</td></tr>
+<tr><td>**7** **Maladies cardiovasculaires**</td><td>Pas de maladies entraînant un risque élevé de crises douloureuses, de malaises, de diminution du débit sanguin cérébral réduisant les capacités, d’altérations de la conscience ou de toute autre perturbation permanente ou épisodique de l’état général. Pas d’anomalie grave de la tension artérielle.</td><td>Pas de maladies entraînant un risque élevé de crises douloureuses, de malaises, de diminution du débit sanguin cérébral réduisant les capacités, d’altérations de la conscience ou de toute autre perturbation permanente ou épisodique de l’état général. Pas de troubles du rythme cardiaque importants. Test d’effort normal en cas de maladie cardiaque. Pas d’anomalie de la tension artérielle ne pouvant pas être normalisée par un traitement.</td></tr>
+<tr><td>**8** **Maladies du métabolisme**</td><td>En cas de diabète (Diabetes mellitus), régulation stable du taux de glucose dans le sang sans hypoglycémie ou symptômes généraux d’hyperglycémie ayant des effets sur la conduite. Pas d’autres maladies du métabolisme ayant des effets importants sur l’aptitude à conduire avec sûreté un véhicule automobile.</td><td>En cas de diabète (Diabetes mellitus) dont la thérapie peut avoir pour effet secondaire l’hypoglycémie ou pour lequel des symptômes généraux d’hyperglycémie peuvent apparaître, l’intéressé n’est pas considéré comme apte à conduire des véhicules de la catégorie D et de la sous-catégorie D1; pour la catégorie C, la sous-catégorie C1, l’autorisation de transporter des personnes à titre professionnel ainsi que pour les experts de la circulation, l’aptitude à conduire peut être déclarée sous des conditions particulièrement favorables. Pas d’autres maladies du métabolisme ayant des effets sur l’aptitude à conduire avec sûreté un véhicule automobile ou diminuant les moyens propres à la conduite de l’intéressé.</td></tr>
+<tr><td>**9** **Maladies des organes respiratoires et abdominaux**</td><td>Pas de maladies entraînant une somnolence diurne accrue ni d’autres troubles ou réductions ayant des effets sur l’aptitude à conduire avec sûreté un véhicule automobile.</td><td>Pas de maladies entraînant une somnolence diurne accrue ni d’autres troubles ou réductions ayant des effets sur l’aptitude à conduire avec sûreté un véhicule automobile ou diminuant les moyens propres à la conduite de l’intéressé.</td></tr>
+<tr><td>**10** **Maladies de la colonne vertébrale et de l’appareil locomoteur**</td><td colspan="2">Pas de déformations, de maladies, de paralysies, de conséquences de blessures ou d’opérations ayant des effets importants sur l’aptitude à conduire avec sûreté un véhicule automobile impossibles à corriger suffisamment par des dispositifs spéciaux.</td></tr>
 </table>
 
-Annexe 1<sup>bis</sup> *[^t-3]*
+Annexe 1<sup>bis</sup> [^t-3]
 
 (art. 5*b*, al. 1, let. b)
 
@@ -3319,7 +3320,7 @@ Les médecins qui procèdent à des contrôles relevant de la médecine du trafi
 [^annex1bis-lvlu1-1]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
 [^annex1bis-lvlu1-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
-Annexe 2*[^t-4]*
+Annexe 2[^t-4]
 
 (art. *5i* et 27, al. 4)
 
@@ -3399,7 +3400,7 @@ B. Rapport d’examen
 - paralysies:
 - conséquences d’accident:
 - réduction des fonctions et du mouvement (mouvements de la tête en particulier):
-- 10 *autres particular**i**tés*
+- 10 *autres particularités*
 -
 
 Examens supplémentaires (en cas d’indication fondée): analyses de laboratoire (par ex. marqueurs biologiques d’alcoolisme, dépistage de drogues), ECG, tests courts de dépistage de déficiences des fonctions cérébrales (par ex. Trail-Making Test A et B, mini-examen de l’état mental, test de la montre):
@@ -3410,7 +3411,7 @@ Examens supplémentaires (en cas d’indication fondée): analyses de laboratoir
 
 - [tab] Cachet et signature du médecin:
 
-Annexe 2a*[^t-5]*
+Annexe 2a[^t-5]
 
 (art. *5i* et 27, al. 4)
 
@@ -3439,7 +3440,7 @@ A. Anamnèse
 
 B. Rapport d’examen
 
-- 1 *État de santé* *général/impression générale:*
+- 1 *État de santé général/impression générale:*
 -
 
 - 2 *Facultés visuelles*
@@ -3503,7 +3504,7 @@ Date de l’examen:
 
 Cachet et signature du médecin:
 
-Annexe 3*[^t-6]*
+Annexe 3[^t-6]
 
 (art. *5i*)
 
@@ -3555,7 +3556,7 @@ Nom: Prénom: Date de naissance: NPA/Lieu: Adresse:
 
 - 2\.2 □ Résultat équivoque: l’évaluation définitive doit être réalisée par un médecin reconnu de niveau 3 ou 4.
 - □ Étant donné que l’aptitude à la conduite du candidat soulève des doutes sérieux, il ne devrait conduire aucun véhicule avant des clarifications supplémentaires.
-- 3 *Conditio**ns*
+- 3 *Conditions*
 
 <table>
 <tr><td>3.1</td><td>Port de correcteurs de vue pour: □ le 1<sup>er</sup> groupe</td><td>□ le 2<sup>e</sup> groupe</td></tr>
@@ -3577,7 +3578,7 @@ Date de l’examen:
 
 Cachet et signature du médecin
 
-Annexe 3a*[^t-7]*
+Annexe 3a[^t-7]
 
 (art. *5i*)
 
@@ -3635,7 +3636,7 @@ Date de l’examen:
 
 Cachet et signature du médecin:
 
-Annexe 4*[^t-8]*
+Annexe 4[^t-8]
 
 (art. 11)
 
@@ -3771,7 +3772,7 @@ Date: Cachet et signature:
 - Nom et adresse du représentant légal:
 -
 
-*Qu**iconque aura obtenu frauduleusement un permis en donnant des renseignements inexacts, en dissimulant des faits importants ou en présentant de faux certificats sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire (art. 9**7 LCR) et se verra retirer le permis (art. 16 LCR).*
+*Quiconque aura obtenu frauduleusement un permis en donnant des renseignements inexacts, en dissimulant des faits importants ou en présentant de faux certificats sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire (art. 97 LCR) et se verra retirer le permis (art. 16 LCR).*
 
 La personne soussignée confirme avoir complété la formule de demande conformément à la vérité:
 
@@ -3800,7 +3801,7 @@ Documents annexés
 - □ Apprentis de la profession de mécanicien en motocycles: attestation de l’Office cantonal de la formation professionnelle, selon laquelle un contrat d’apprentissage valable a été conclu (art. 11, al. 2, OAC)
 - □ Ressortissants étrangers: livret pour étrangers et permis de conduire étranger
 
-Appendice*[^annex4-lvlu1-1]*
+Appendice[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Mise à jour selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
@@ -3832,7 +3833,7 @@ Appendice*[^annex4-lvlu1-1]*
 - G Véhicules automobiles agricoles et forestiers dont la vitesse maximale n’excède pas 30 km/h, à l’exception des véhicules spéciaux.
 - M Cyclomoteurs.
 
-Annexe 4a*[^t-9]*
+Annexe 4a[^t-9]
 
 (art. 27*d*)
 
@@ -3859,11 +3860,11 @@ Date d’échéance du permis de conduire à l’essai:
 <tr><td>Date:</td></tr>
 </table>
 
-Annexes 5 et 6*[^t-10]*
+Annexes 5 et 6[^t-10]
 
 [^t-10]: Abrogées par le ch. II, al. 1 de l’O du 28 sept. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
 
-Annexe 7*[^t-11]*
+Annexe 7[^t-11]
 
 (art. 66 et 67)
 
@@ -3945,15 +3946,15 @@ Annexe 7*[^t-11]*
 
 5<sup>e</sup> groupe de matières: Procéder à un contrôle technique d’une voiture automobile légère (voiture de livraison ou véhicule articulé léger) et établir les documents de contrôle.
 
-Annexes 8 et 9*[^t-12]*
+Annexes 8 et 9[^t-12]
 
 [^t-12]: Abrogées par le ch. II, al. 1 de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
-Annexe 10*[^t-13]*
+Annexe 10[^t-13]
 
 [^t-13]: Abrogée par le ch. II al. 1 de l’O du 15 juin 2007, avec effet au 1<sup>er</sup> sept. 2009 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 
-Annexe 11*[^t-14]*
+Annexe 11[^t-14]
 
 (art. 13 et 21)
 
@@ -4031,7 +4032,7 @@ Notamment les signaux, y compris les marques routières et les signaux lumineux,
 - 2\.13 les règles de la circulation, signaux et marquages régissant l’usage des véhicules des catégories C et D et des sous-catégories C1 et D1;
 - 2\.14 les bases d’un arrimage sûr des chargements.
 
-Annexe 12*[^t-15]*
+Annexe 12[^t-15]
 
 (art. 22)
 
@@ -4238,7 +4239,7 @@ La durée de l’examen et l’itinéraire à parcourir doivent être suffisants
 - – 90 minutes pour les catégories C et CE;
 - – 120 minutes pour la catégorie D.
 
-[^annex11-lvlu1-lvlIV-1]: RS **7****41.521**
+[^annex11-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
 
 ### V Véhicules servant aux examens
 

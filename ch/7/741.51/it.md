@@ -4,20 +4,20 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2022-04-01
+version: 2023-01-23
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20220401/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20220401-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’ammissione alla circolazione di persone e veicoli
 
-(Ordinanza sull’ammissione alla circolazione, OAC)**[^t-1]**
+(Ordinanza sull’ammissione alla circolazione, OAC)[^t-1]
 
-del 27 ottobre 1976 (Stato 1° aprile 2022)
+del 27 ottobre 1976 (Stato 23 gennaio 2023)
 
 [^t-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -86,13 +86,13 @@ Per i sottosistemi del sistema d’informazione sull’ammissione alla circolazi
 [^2-11]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
 [^2-12]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
-## 1 Ammissione di persone****
+## 1 Ammissione di persone
 
 [^lvl1-1]
 
 [^lvl1-1]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
-### 11**** Disposizioni generali
+### 11 Disposizioni generali
 
 [^lvl1-lvl11-1]
 
@@ -246,7 +246,7 @@ Non necessitano di una licenza di condurre le persone che:
 [^5-2]: Introdotta dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^5-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
-### 11*a***** Esami medici e psicologici di idoneità alla guida
+### 11*a* Esami medici e psicologici di idoneità alla guida
 
 [^lvl1-lvl11a-1]
 
@@ -409,7 +409,7 @@ Per la notifica dei risultati alle autorità cantonali, i medici utilizzano i mo
 
 <sup>3</sup> Se la persona esaminata non supera la corsa di controllo, l’esperto della circolazione le ritira immediatamente la licenza di condurre e la inoltra all’autorità cantonale.
 
-### 12**** Esame di conducente
+### 12 Esame di conducente
 
 [^lvl1-lvl12-1]
 
@@ -636,12 +636,13 @@ L’autorità cantonale verifica se sono adempiuti i requisiti per l’ottenimen
 - d. convoca un richiedente minorenne o sotto curatela generale e il suo rappresentante legale se quest’ultimo si rifiuta di firmare il modulo di domanda;
 - e.[^11b-2] verifica se il richiedente è registrato nel SIAC Provvedimenti.
 
-<sup>2</sup> L’autorità cantonale può richiedere un estratto del casellario giudiziale e, in caso di dubbio, un certificato di buona condotta rilasciato dalla polizia.
+<sup>2</sup> L’autorità cantonale può richiedere un estratto 3 per autorità del casellario giudiziale informatizzato VOSTRA e, in caso di dubbio, un certificato di buona condotta rilasciato dalla polizia.[^11b-3]
 
 <sup>3</sup> Le persone che soffrono di epilessia sono ammesse alla circolazione soltanto su presentazione di un rapporto favorevole rilasciato da un medico specialista in neurologia.
 
 [^11b-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^11b-2]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11b-3]: Nuovo testo giusta l’all. 10 n. II 20 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 11c
 
@@ -671,7 +672,7 @@ L’autorità cantonale verifica se sono adempiuti i requisiti per l’ottenimen
 
 Il risultato dell’esame deve essere comunicato al candidato. Il non superamento dell’esame deve essere motivato, su richiesta, in forma scritta.
 
-### 124 Esame teorico di base e prima registrazione dei dati nel SIAC Persone****
+### 124 Esame teorico di base e prima registrazione dei dati nel SIAC Persone
 
 [^lvl1-lvl12-lvl124-1]
 
@@ -774,7 +775,7 @@ La validità della licenza per allievo conducente si estingue se:
 
 <sup>2</sup> La licenza per allievo conducente della categoria A, delle sottocategorie A1 e B1 e della categoria speciale F autorizza a effettuare corse di scuola di guida senza accompagnatore.
 
-<sup>2b</sup> <sup>is</sup> La licenza per allievo conducente della sottocategoria D1 autorizza a effettuare corse di scuola di guida con veicoli della sottocategoria C1, quella della sottocategoria D1E corse di scuola di guida con una combinazione di veicoli della sottocategoria C1E.[^17-1]
+<sup>2bis</sup> La licenza per allievo conducente della sottocategoria D1 autorizza a effettuare corse di scuola di guida con veicoli della sottocategoria C1, quella della sottocategoria D1E corse di scuola di guida con una combinazione di veicoli della sottocategoria C1E.[^17-1]
 
 <sup>3</sup> Il titolare della licenza per allievo conducente delle categorie BE, CE o DE e delle sottocategorie C1E o D1E può effettuare, senza accompagnatore, corse di scuola di guida con autotreni se è già in possesso della licenza di condurre per il veicolo trattore.
 
@@ -824,7 +825,7 @@ Nella licenza per allievo conducente devono essere iscritte le seguenti autorizz
 
 <sup>5</sup> Il maestro conducente rilascia all’allievo conducente un attestato che conferma la frequenza del corso di teoria della circolazione.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 (RU **2****019** 191).
+[^18-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 19
 
@@ -1071,7 +1072,7 @@ Il permesso per il trasporto professionale di persone è rilasciato al titolare 
 [^25-5]: Introdotto dal n. I dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^25-6]: Introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
-### 12*a* Obblighi di annunciare e visite di controllo di idoneità alla guida****
+### 12*a* Obblighi di annunciare e visite di controllo di idoneità alla guida
 
 [^lvl1-lvl12a-1]
 
@@ -1131,7 +1132,7 @@ L’autorità cantonale può:
 [^27-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^27-2]: Nuovo testo giusta il n. I dell’O del 15 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
 
-### 12*b***** Formazione complementare per i titolari di una licenza di condurre in prova
+### 12*b* Formazione complementare per i titolari di una licenza di condurre in prova
 
 [^lvl1-lvl12b-1]
 
@@ -1218,13 +1219,13 @@ I Cantoni:
 
 <sup>2</sup> Possono delegare l’esecuzione di questi compiti ad altri servizi.
 
-### 13 Provvedimenti****
+### 13 Provvedimenti
 
 [^lvl1-lvl13-1]
 
 [^lvl1-lvl13-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
-### 131**** Nuovo esame di conducente, corsa di controllo, esame di verifica dell’idoneità alla guida e revoca preventiva ****
+### 131 Nuovo esame di conducente, corsa di controllo, esame di verifica dell’idoneità alla guida e revoca preventiva
 
 [^lvl1-lvl13-lvl131-1][^lvl1-lvl13-lvl131-2]
 
@@ -1307,7 +1308,7 @@ Se sussistono seri dubbi sull’idoneità alla guida di una persona, la licenza 
 
 [^30a-1]: Introdotto dal n. I dell’O del 29 nov. 2013, in vigore dal 1° lug. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 
-### 132 Revoca della licenza di condurre****
+### 132 Revoca della licenza di condurre
 
 [^lvl1-lvl13-lvl132-1]
 
@@ -1369,7 +1370,7 @@ In casi di rigore, la revoca della licenza per qualsiasi categoria, sottocategor
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
-### 132*a***** Misure nei confronti dei titolari della licenza di condurre in prova
+### 132*a* Misure nei confronti dei titolari della licenza di condurre in prova
 
 [^lvl1-lvl13-lvl132a-1]
 
@@ -1407,7 +1408,7 @@ Chiunque desideri condurre veicoli a motore dopo l’annullamento della licenza 
 
 [^35b-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 
-### 132*b***** Divieto di circolare e ammonimento
+### 132*b* Divieto di circolare e ammonimento
 
 [^lvl1-lvl13-lvl132b-1]
 
@@ -1456,7 +1457,7 @@ Il divieto di circolare vale per i tipi di veicoli indicati nella decisione.
 
 [^3839-1]: Abrogati dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
-### 134 Corsi d’educazione stradale come formazione complementare****
+### 134 Corsi d’educazione stradale come formazione complementare
 
 [^lvl1-lvl13-lvl134-1]
 
@@ -1657,7 +1658,7 @@ Il divieto di far uso della licenza di condurre, pronunciato perché sono state 
 
 [^4764-1]: Abrogati dal n. I dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
 
-### 15*a***** Animatori di corsi di formazione complementare
+### 15*a* Animatori di corsi di formazione complementare
 
 [^lvl1-lvl15a-1]
 
@@ -1706,7 +1707,7 @@ A seguito della formazione, il candidato deve essere in grado di:[^64c-1]
 
 <sup>2</sup> Le conoscenze anteriori sono computate dopo aver consultato il centro di formazione. L’articolo 27*g* si applica alle competenze.
 
-[^64c-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 (RU **2****019** 191).
+[^64c-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^64c-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2020 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 64d
@@ -2284,7 +2285,7 @@ I Cantoni mettono a disposizione targhe munite di un rivestimento riflettente. E
 
 [^87a-1]: Introdotto dal n. I dell’O del 15 apr. 1987, in vigore dal 1° mag. 1987 ([RU 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
 
-### 22 Veicoli per gli esami****
+### 22 Veicoli per gli esami
 
 [^lvl2-lvl22-1]
 
@@ -2906,7 +2907,7 @@ L’USTRA può:[^150-7]
 [^150-3]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-4]: Nuovo testo giusta il n. I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
 [^150-5]: Nuovo testo giusta il n. 3 dell’all. 1 dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^150-6]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 (RU **20****02** 3259).
+[^150-6]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-7]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-8]: Abrogata dal n. I dell’O del 1° lug. 2015, con effetto dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^150-9]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
@@ -3024,7 +3025,7 @@ I titolari di una licenza per allievo conducente della vecchia categoria A1 poss
 
 <sup>14</sup> La vecchia categoria C senza l’autorizzazione di trainare rimorchi della categoria E con veicoli a motore della categoria C (vecchia rubrica 09), autorizza, dopo il rilascio della nuova licenza di condurre, a condurre le nuove categorie BE e DE nonché le nuove sottocategorie C1E e D1E, qualora sia stata rilasciata una licenza di condurre per il corrispondente veicolo trattore.
 
-[^151d-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 (RU **2****002** 3259).
+[^151d-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^151d-2]: Abrogato dal n. I dell’O del 18 dic. 2015, con effetto dal 1° apr. 2016 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
 [^151d-3]: Per. introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^151d-4]: Per. introdotto dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
@@ -3212,7 +3213,7 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 
 <sup>2</sup> La presente ordinanza entra in vigore il 1° gennaio 1977.
 
-## Disposizioni finali della modifica del 15 aprile 1987****
+## Disposizioni finali della modifica del 15 aprile 1987
 
 [^u1-1]
 
@@ -3222,7 +3223,7 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 
 <sup>2</sup> Le targhe per l’immatricolazione provvisoria che scadranno nel 1988 possono essere rilasciate conformemente alle prescrizioni attuali.
 
-## Disposizioni finali della modifica del 13 febbraio 1991****
+## Disposizioni finali della modifica del 13 febbraio 1991
 
 [^u2-1]
 
@@ -3240,7 +3241,7 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 
 <sup>6</sup> I veicoli per gli esami di guida delle categorie C e C + E rispondenti alle esigenze del diritto previgente possono essere utilizzati sino al 31 dicembre 1995; tuttavia il peso effettivo della combinazione di veicoli utilizzata per l’esame di guida della categoria C + E non deve essere inferiore a 15 t.
 
-## Disposizioni finali della modifica del 13 novembre 1991****
+## Disposizioni finali della modifica del 13 novembre 1991
 
 [^u3-1]
 
@@ -3250,7 +3251,7 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 
 <sup>2</sup> Le iscrizioni fatte secondo il diritto vigente nei registri cantonali in merito a condanne per reati in materia di circolazione stradale devono essere radiate entro il 1° gennaio 1997. Anche prima di questa data non possono più essere annunciate alle autorità giudiziarie simili iscrizioni e le autorità competenti in materia di circolazione stradale non possono tenerne conto se sono intercorsi più di cinque anni tra l’infrazione attuale e quella precedente.
 
-## Disposizione finale della modifica del 7 marzo 1994****
+## Disposizione finale della modifica del 7 marzo 1994
 
 [^u4-1]
 
@@ -3258,7 +3259,7 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 
 I Cantoni possono utilizzare ancora per due anni i formulari per permessi speciali allestiti conformemente al diritto vigente.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 7, 9, 34 e 65 cpv. 2 lett. d)
 
@@ -3269,28 +3270,28 @@ Allegato 1*[^t-2]*
 <table>
 <tr><th></th><th>1° gruppo</th><th>2° gruppo</th></tr>
 <tr><td></td><td>a. Licenza di condurre delle categorie A e B b. Licenza di condurre delle sottocategorie A1 e B1 c. Licenza di condurre delle categorie speciali F, G e M</td><td>a. Licenza di condurre delle categorie C e D b. Licenza di condurre delle sottocategorie C1 e D1 c. Permesso per il trasporto professionale di persone d. Esperti della circolazione</td></tr>
-<tr><td>**1** **Vista** 1.1 Acuità visiva</td><td>occhio più sano: 0,5 / occhio meno sano: 0,2 (misurati separatamente) Visione monoculare (inclusa un’acuità visiva dell’occhio meno sano &lt; 0,2): 0,6</td><td>occhio più sano: 0,8 / occhio meno sano: 0,5 (misurati separatamente)</td></tr>
+<tr><td>**1****Vista** 1.1 Acuità visiva</td><td>occhio più sano: 0,5 / occhio meno sano: 0,2 (misurati separatamente) Visione monoculare (inclusa un’acuità visiva dell’occhio meno sano &lt; 0,2): 0,6</td><td>occhio più sano: 0,8 / occhio meno sano: 0,5 (misurati separatamente)</td></tr>
 <tr><td>1.2 Campo visivo</td><td>Visione binoculare: campo visivo orizzontale di almeno 120 gradi. Estensione verso destra e verso sinistra di almeno 50 gradi. Estensione verso l’alto e verso il basso di almeno 20 gradi. Il campo visivo centrale deve essere normale fino a 20 gradi. Visione monoculare: campo visivo normale se la motilità oculare è normale.</td><td>Campo visivo orizzontale di almeno 140 gradi. Estensione verso destra e verso sinistra di almeno 70 gradi. Estensione verso l’alto e verso il basso di almeno 30 gradi. Il campo visivo centrale di ogni occhio deve essere normale fino a 30 gradi.</td></tr>
 <tr><td>1.3 Diplopia</td><td>Nessuna limitazione legata alla diplopia.</td><td>Motilità oculare normale (nessuna diplopia)</td></tr>
 <tr><td>1.4 Acuità visiva crepuscolare e sensibilità all’abbagliamento</td><td colspan="2">Nessuna riduzione importante dell’acuità visiva crepuscolare. Nessun aumento importante della sensibilità all’abbagliamento.</td></tr>
-<tr><td>**2** **Udito**</td><td></td><td>Voce di conversazione a 3 m per ogni orecchio. In caso di sordità da un orecchio: 6 m. Nessuna malattia grave dell’orecchio interno o medio.</td></tr>
-<tr><td>**3 Alcol, stupefacenti e medicamenti psicotropi**</td><td>Nessuna dipendenza. Nessun abuso avente ripercussioni sulla guida.</td><td>Nessuna dipendenza. Nessun abuso avente ripercussioni sulla guida. Nessuna terapia sostitutiva.</td></tr>
-<tr><td>**4 Disturbi psichici**</td><td>Nessun disturbo psichico associato a ripercussioni significative sulla percezione della realtà, sulla capacità di elaborare e valutare informazioni, sulla capacità di reazione e di adattamento alla situazione. Nessuna alterazione delle riserve funzionali avente ripercussioni sulla guida. Nessun sintomo maniacale o di depressione grave. Nessun disturbo rilevante della personalità, in particolare di tipo dissociale. Nessuna riduzione rilevante della capacità intellettiva.</td><td>Nessun disturbo psichico associato a ripercussioni significative sulla percezione della realtà, sulla capacità di elaborare e valutare informazioni, sulla capacità di reazione e di adattamento alla situazione. Nessuna alterazione delle riserve funzionali. Nessun sintomo maniacale o di depressione grave. Nessun disturbo rilevante della personalità, in particolare di tipo dissociale. Nessuna riduzione rilevante della capacità intellettiva. Nessun disturbo affettivo o schizofrenico di rilievo, con recidive o a progressione fasica.</td></tr>
-<tr><td>**5 Disturbi cerebrali di origine organica**</td><td>Nessuna malattia o disturbo psichico di origine organica che alteri in modo significativo lo stato di coscienza, l’orientamento, la memoria, il raziocinio o la capacità di reazione oppure un altro disturbo cerebrale. Nessun sintomo maniacale o di depressione grave. Nessun disturbo del comportamento avente ripercussioni sulla guida. Nessuna alterazione delle riserve funzionali avente ripercussioni sulla guida.</td><td>Nessuna malattia che alteri la capacità cerebrale. Nessun disturbo psichico di origine organica.</td></tr>
-<tr><td>**6 Malattie neurologiche**</td><td>Nessuna malattia o conseguenza di lesioni od operazioni del sistema nervoso centrale o periferico avente ripercussioni significative sulla capacità di guidare con sicurezza un veicolo a motore. Nessun disturbo o perdita dello stato di coscienza. Nessun disturbo dell’equilibrio.</td><td>Nessuna malattia o conseguenza di lesioni od operazioni del sistema nervoso centrale o periferico. Nessun disturbo o perdita dello stato di coscienza. Nessun disturbo dell’equilibrio.</td></tr>
-<tr><td>**7 Malattie cardiache e circolatorie**</td><td>Nessuna malattia associata a un elevato rischio di insorgenza di dolori parossistici, episodi di malessere, riduzione dell’irrorazione sanguigna cerebrale risultante in una riduzione dell’efficienza, in alterazioni dello stato di coscienza o in un peggioramento dello stato di salute generale permanente o parossistico. Nessuna anomalia rilevante della pressione arteriosa.</td><td>Nessuna malattia associata a un elevato rischio di insorgenza di dolori parossistici, episodi di malessere, riduzione dell’irrorazione sanguigna cerebrale risultante in una riduzione dell’efficienza, in alterazioni dello stato di coscienza o in altre menomazioni dello stato generale permanenti o parossistiche. Nessun disturbo significativo del ritmo cardiaco. Test da sforzo normale in presenza di una malattia cardiaca. Nessuna anomalia della pressione arteriosa che non possa essere normalizzata mediante trattamento.</td></tr>
-<tr><td>**8 Malattie metaboliche**</td><td>In presenza di diabete mellito, il tasso di glicemia nel sangue deve essere costante e non indicare ipoglicemia né iperglicemia aventi ripercussioni sulla guida. Nessun’altra malattia metabolica avente ripercussioni rilevanti sulla capacità di guidare con sicurezza un veicolo a motore.</td><td>In presenza di diabete mellito a causa del quale possono insorgere un’ipoglicemia, quale effetto collaterale di una terapia, oppure sintomi generali di iperglicemia, viene meno l’idoneità alla guida per la categoria D o la sottocategoria D1. Per la categoria C o la sottocategoria C1, per il permesso per il trasporto professionale di persone e per gli esperti della circolazione l’idoneità alla guida può sussistere in condizioni particolarmente favorevoli. Nessun’altra malattia metabolica che abbia ripercussioni sulla capacità di guidare con sicurezza un veicolo a motore o che pregiudichi l’efficienza nella guida.</td></tr>
-<tr><td>**9 Malattie degli organi respiratori e addominali**</td><td>Nessuna malattia caratterizzata da eccessiva sonnolenza diurna e nessun’altra malattia o limitazione che incida sulla capacità di guidare con sicurezza un veicolo a motore.</td><td>Nessuna malattia caratterizzata da eccessiva sonnolenza diurna e nessun’altra malattia o limitazione che incida sulla capacità di guidare con sicurezza un veicolo a motore o che pregiudichi l’efficienza nella guida.</td></tr>
-<tr><td>**10 Malattie della colonna vertebrale e dell’apparato locomotore**</td><td colspan="2">Nessuna malformazione, malattia, paralisi, nessuna conseguenza di lesioni od operazioni avente ripercussioni significative sulla capacità di guidare con sicurezza un veicolo a motore e non sufficientemente correggibile mediante appositi ausili.</td></tr>
+<tr><td>**2****Udito**</td><td></td><td>Voce di conversazione a 3 m per ogni orecchio. In caso di sordità da un orecchio: 6 m. Nessuna malattia grave dell’orecchio interno o medio.</td></tr>
+<tr><td>**3** **Alcol, stupefacenti e medicamenti psicotropi**</td><td>Nessuna dipendenza. Nessun abuso avente ripercussioni sulla guida.</td><td>Nessuna dipendenza. Nessun abuso avente ripercussioni sulla guida. Nessuna terapia sostitutiva.</td></tr>
+<tr><td>**4** **Disturbi psichici**</td><td>Nessun disturbo psichico associato a ripercussioni significative sulla percezione della realtà, sulla capacità di elaborare e valutare informazioni, sulla capacità di reazione e di adattamento alla situazione. Nessuna alterazione delle riserve funzionali avente ripercussioni sulla guida. Nessun sintomo maniacale o di depressione grave. Nessun disturbo rilevante della personalità, in particolare di tipo dissociale. Nessuna riduzione rilevante della capacità intellettiva.</td><td>Nessun disturbo psichico associato a ripercussioni significative sulla percezione della realtà, sulla capacità di elaborare e valutare informazioni, sulla capacità di reazione e di adattamento alla situazione. Nessuna alterazione delle riserve funzionali. Nessun sintomo maniacale o di depressione grave. Nessun disturbo rilevante della personalità, in particolare di tipo dissociale. Nessuna riduzione rilevante della capacità intellettiva. Nessun disturbo affettivo o schizofrenico di rilievo, con recidive o a progressione fasica.</td></tr>
+<tr><td>**5** **Disturbi cerebrali di origine organica**</td><td>Nessuna malattia o disturbo psichico di origine organica che alteri in modo significativo lo stato di coscienza, l’orientamento, la memoria, il raziocinio o la capacità di reazione oppure un altro disturbo cerebrale. Nessun sintomo maniacale o di depressione grave. Nessun disturbo del comportamento avente ripercussioni sulla guida. Nessuna alterazione delle riserve funzionali avente ripercussioni sulla guida.</td><td>Nessuna malattia che alteri la capacità cerebrale. Nessun disturbo psichico di origine organica.</td></tr>
+<tr><td>**6** **Malattie neurologiche**</td><td>Nessuna malattia o conseguenza di lesioni od operazioni del sistema nervoso centrale o periferico avente ripercussioni significative sulla capacità di guidare con sicurezza un veicolo a motore. Nessun disturbo o perdita dello stato di coscienza. Nessun disturbo dell’equilibrio.</td><td>Nessuna malattia o conseguenza di lesioni od operazioni del sistema nervoso centrale o periferico. Nessun disturbo o perdita dello stato di coscienza. Nessun disturbo dell’equilibrio.</td></tr>
+<tr><td>**7** **Malattie cardiache e circolatorie**</td><td>Nessuna malattia associata a un elevato rischio di insorgenza di dolori parossistici, episodi di malessere, riduzione dell’irrorazione sanguigna cerebrale risultante in una riduzione dell’efficienza, in alterazioni dello stato di coscienza o in un peggioramento dello stato di salute generale permanente o parossistico. Nessuna anomalia rilevante della pressione arteriosa.</td><td>Nessuna malattia associata a un elevato rischio di insorgenza di dolori parossistici, episodi di malessere, riduzione dell’irrorazione sanguigna cerebrale risultante in una riduzione dell’efficienza, in alterazioni dello stato di coscienza o in altre menomazioni dello stato generale permanenti o parossistiche. Nessun disturbo significativo del ritmo cardiaco. Test da sforzo normale in presenza di una malattia cardiaca. Nessuna anomalia della pressione arteriosa che non possa essere normalizzata mediante trattamento.</td></tr>
+<tr><td>**8** **Malattie metaboliche**</td><td>In presenza di diabete mellito, il tasso di glicemia nel sangue deve essere costante e non indicare ipoglicemia né iperglicemia aventi ripercussioni sulla guida. Nessun’altra malattia metabolica avente ripercussioni rilevanti sulla capacità di guidare con sicurezza un veicolo a motore.</td><td>In presenza di diabete mellito a causa del quale possono insorgere un’ipoglicemia, quale effetto collaterale di una terapia, oppure sintomi generali di iperglicemia, viene meno l’idoneità alla guida per la categoria D o la sottocategoria D1. Per la categoria C o la sottocategoria C1, per il permesso per il trasporto professionale di persone e per gli esperti della circolazione l’idoneità alla guida può sussistere in condizioni particolarmente favorevoli. Nessun’altra malattia metabolica che abbia ripercussioni sulla capacità di guidare con sicurezza un veicolo a motore o che pregiudichi l’efficienza nella guida.</td></tr>
+<tr><td>**9** **Malattie degli organi respiratori e addominali**</td><td>Nessuna malattia caratterizzata da eccessiva sonnolenza diurna e nessun’altra malattia o limitazione che incida sulla capacità di guidare con sicurezza un veicolo a motore.</td><td>Nessuna malattia caratterizzata da eccessiva sonnolenza diurna e nessun’altra malattia o limitazione che incida sulla capacità di guidare con sicurezza un veicolo a motore o che pregiudichi l’efficienza nella guida.</td></tr>
+<tr><td>**10** **Malattie della colonna vertebrale e dell’apparato locomotore**</td><td colspan="2">Nessuna malformazione, malattia, paralisi, nessuna conseguenza di lesioni od operazioni avente ripercussioni significative sulla capacità di guidare con sicurezza un veicolo a motore e non sufficientemente correggibile mediante appositi ausili.</td></tr>
 </table>
 
-Allegato 1<sup>bis</sup> *[^t-3]*
+Allegato 1<sup>bis</sup> [^t-3]
 
 (art. 5*b* cpv. 1 lett. b)
 
 ## Requisiti per i medici di livello 1
 
-[^t-3]: Introdotto dal n. II cpv. 1 dell’O del 1° lug. 2015 (RU **20****15** 2599). Aggiornato dal n. II dell’O del 15 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
+[^t-3]: Introdotto dal n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Aggiornato dal n. II dell’O del 15 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
 
 I medici che effettuano visite di controllo di idoneità alla guida di persone che hanno superato i 75 anni di età (art. 27 cpv. 1 lett. b) devono disporre delle seguenti conoscenze e competenze:
 
@@ -3307,7 +3308,7 @@ I medici che effettuano visite di controllo di idoneità alla guida di persone c
 [^annex1bis-lvlu1-1]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
 [^annex1bis-lvlu1-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
-Allegato 2*[^t-4]*
+Allegato 2[^t-4]
 
 (art. 5*i* e 27 cpv. 4)
 
@@ -3398,7 +3399,7 @@ Valutazione, diagnosi:
 
 - [tab] Timbro e firma del medico:
 
-Allegato 2a*[^t-5]*
+Allegato 2a[^t-5]
 
 (art. 5*i* e 27 cpv. 4)
 
@@ -3493,7 +3494,7 @@ Data dell’esame:
 
 Timbro e firma del medico:
 
-Allegato 3*[^t-6]*
+Allegato 3[^t-6]
 
 (art. 5*i*)
 
@@ -3567,7 +3568,7 @@ Global Location Number (GLN) del medico:
 
 Timbro e firma del medico:
 
-Allegato 3a*[^t-7]*
+Allegato 3a[^t-7]
 
 (art. 5*i*)
 
@@ -3625,7 +3626,7 @@ Global Location Number (GLN) del medico:
 
 Timbro e firma del medico:
 
-Allegato 4*[^t-8]*
+Allegato 4[^t-8]
 
 (art. 11)
 
@@ -3804,7 +3805,7 @@ Annesso
 - M: Ciclomotori.
 - M Ciclomotori.
 
-Allegato 4a*[^t-9]*
+Allegato 4a[^t-9]
 
 (art. 27*d*)
 
@@ -3831,17 +3832,17 @@ Data di scadenza della licenza di condurre in prova:
 <tr><td>Data:</td></tr>
 </table>
 
-Allegati 5 e 6*[^t-10]*
+Allegati 5 e 6[^t-10]
 
 [^t-10]: Abrogati dal n. II cpv. 1 dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
 
-Allegato 7*[^t-11]*
+Allegato 7[^t-11]
 
 (art. 66 e 67)
 
 ## Gruppi di materie per gli esami di esperti della circolazione
 
-[^t-11]: Aggiornato dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)) e dal n. II cpv. 2 dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 (RU **200****7** 2183).
+[^t-11]: Aggiornato dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)) e dal n. II cpv. 2 dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
 ### 1 Esperti della circolazione incaricati degli esami di conducente e degli esami dei veicoli
 
@@ -3917,15 +3918,15 @@ Allegato 7*[^t-11]*
 
 5° gruppo di materie: Procedere all’esame tecnico di un autoveicolo leggero (autofurgone o autoarticolato leggero) e compilazione dei documenti di controllo.
 
-Allegati 8 e 9*[^t-12]*
+Allegati 8 e 9[^t-12]
 
 [^t-12]: Abrogati dal n. II cpv. 1 dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
-Allegato 10*[^t-13]*
+Allegato 10[^t-13]
 
 [^t-13]: Abrogato dal n. II cpv. 1 dell’O del 15 giu. 2007, con effetto dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 
-Allegato 11*[^t-14]*
+Allegato 11[^t-14]
 
 (art. 13 e 21)
 
@@ -4003,7 +4004,7 @@ in particolare la segnaletica, compresi demarcazioni e segnali luminosi, le rego
 - 2\.13 norme della circolazione, segnaletica e demarcazioni che disciplinano l’utilizzazione dei veicoli delle categorie C e D e delle sottocategorie C1 e D1;
 - 2\.14 norme fondamentali in materia di stivaggio.
 
-Allegato 12*[^t-15]*
+Allegato 12[^t-15]
 
 (art. 22)
 
