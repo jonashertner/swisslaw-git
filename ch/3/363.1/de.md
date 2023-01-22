@@ -3,11 +3,11 @@ sr: "363.1"
 title: Verordnung vom 3. Dezember 2004 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: de
-version: 2021-04-01
+version: 2023-01-23
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20210401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20210401/de"
 
 (DNA-Profil-Verordnung)
 
-vom 3. Dezember 2004 (Stand am 1. April 2021)
+vom 3. Dezember 2004 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -72,7 +72,7 @@ Dem Gesuch um Anerkennung sind folgende Unterlagen beizulegen:
 - a. Akkreditierung nach Artikel 2 Absatz 2 Buchstabe a;
 - b. Bescheinigung der erfolgreichen Teilnahme an mindestens vier Eignungsprüfungen nach Artikel 2 Absatz 2 Buchstabe c;
 - c. Nachweis der Qualifikation nach Artikel 2 Absatz 2 Buchstabe d;
-- d. Auszug aus dem Zentralstrafregister sowie aus dem Schuldbetreibungs- und Konkursregister der mit der Geschäftsführung betrauten Personen;
+- d.[^2a-2] Privatauszug aus dem Strafregister-Informationssystem VOSTRA sowie Auszug aus dem Schuldbetreibungs- und Konkursregister der mit der Geschäftsführung betrauten Personen;
 - e. Liste aller Strafuntersuchungen sowie straf- und zivilrechtlichen Prozesse der letzten zehn Jahre der mit der Geschäftsführung betrauten Personen;
 - f. Auszug aus dem Handelsregister;
 - g. Geschäftsbericht oder Rechenschaftsbericht des vergangenen Jahres;
@@ -82,6 +82,7 @@ Dem Gesuch um Anerkennung sind folgende Unterlagen beizulegen:
 - k. Nachweis der Sicherstellung der Datensicherheit.
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2005, in Kraft seit 1. Aug. 2005 ([AS 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
+[^2a-2]: Fassung gemäss Anhang 10 Ziff. II 13 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 3
 
@@ -288,7 +289,7 @@ Folgende Bundesbehörden melden den AFIS DNA Services das Eintreten der gesetzli
 
 Sind die gesetzlichen Voraussetzungen für die Löschung erfüllt, so löschen die AFIS DNA Services auf Grund der Meldung die Daten im IPAS gemäss Artikel 16 Absatz 2 der IPAS-Verordnung vom 21. November 2001[^13-1]. Gleichzeitig lösen sie die Löschung des Profils im Informationssystem aus.
 
-[^13-1]: [[AS 2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)[4174](https://fedlex.data.admin.ch/eli/oc/2002/674), [2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 10 [5279](https://fedlex.data.admin.ch/eli/oc/2004/812)Art. 21, [2006 945](https://fedlex.data.admin.ch/eli/oc/2006/170). [AS 2008 5043](https://fedlex.data.admin.ch/eli/oc/2008/700)Art. 14]. Siehe heute: die V vom 15. Okt. 2008 ([SR 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)).
+[^13-1]: [[AS 2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20), [4174](https://fedlex.data.admin.ch/eli/oc/2002/674); [2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 10, [5279](https://fedlex.data.admin.ch/eli/oc/2004/812)Art. 21; [2006 945](https://fedlex.data.admin.ch/eli/oc/2006/170). [AS 2008 5043](https://fedlex.data.admin.ch/eli/oc/2008/700)Art. 14]. Siehe heute: die V vom 15. Okt. 2008 ([SR 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)).
 
 #### Art. 14
 
@@ -381,7 +382,7 @@ Das EJPD und die Kantone vollziehen diese Verordnung in ihrem jeweiligen Bereich
 
 **Änderung bisherigen Rechts**
 
-...[^21-1]
+…[^21-1]
 
 [^21-1]: Die Änderung kann unter [AS 2004 5279](https://fedlex.data.admin.ch/eli/oc/2004/812)konsultiert werden.
 
@@ -393,7 +394,7 @@ Das EJPD und die Kantone vollziehen diese Verordnung in ihrem jeweiligen Bereich
 
 <sup>2</sup> In begründeten Fällen kann das EJPD eine Fristverlängerung gewähren.
 
-[^22-1]: [[AS 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258), [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)Art. 19 Ziff. 1]
+[^22-1]: [[AS 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258); [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)Art. 19 Ziff. 1]
 
 #### Art. 23
 

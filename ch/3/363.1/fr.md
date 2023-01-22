@@ -3,11 +3,11 @@ sr: "363.1"
 title: "Ordonnance du 3 décembre 2004 sur l'utilisation de profils d'ADN dans les procédures pénales et sur l'identification de personnes inconnues ou disparues (Ordonnance sur les profils d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: fr
-version: 2021-04-01
+version: 2023-01-23
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20210401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20210401/fr"
 
 (Ordonnance sur les profils d’ADN)
 
-du 3 décembre 2004 (Etat le 1<sup>er</sup> avril 2021)
+du 3 décembre 2004 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -72,7 +72,7 @@ Les documents suivants doivent être joints à la demande de reconnaissance:
 - a. l’accréditation selon l’art. 2, al. 2, let. a;
 - b. le certificat de participation réussie à au moins quatre contrôles de qualité externes selon l’art. 2, al. 2, let. c;
 - c. la preuve de la qualification selon l’art. 2, al. 2, let. d;
-- d. l’extrait du casier judiciaire ainsi que du registre des poursuites pour dettes et faillites des membres de la direction;
+- d.[^2a-2] l’extrait destiné aux particuliers du casier judiciaire et l’extrait du registre des poursuites pour dettes et faillites de chaque membre de la direction;
 - e. la liste complète des enquêtes pénales ainsi que des procédures pénales et civiles des dix dernières années des membres de la direction;
 - f. l’extrait du registre du commerce;
 - g. le rapport d’activité ou le rapport de gestion de l’année précédente;
@@ -82,6 +82,7 @@ Les documents suivants doivent être joints à la demande de reconnaissance:
 - k. la garantie de la sécurité des données.
 
 [^2a-1]: Introduit par le ch. I de l’O du 22 juin 2005, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
+[^2a-2]: Nouvelle teneur selon l’annexe 10 ch. II 13 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 3
 
@@ -381,7 +382,7 @@ Le DFJP et les cantons exécutent la présente ordonnance dans leurs domaines d�
 
 **Modification du droit en vigueur**
 
-...[^21-1]
+…[^21-1]
 
 [^21-1]: La mod. peut être consultée au [RO 2004 5279](https://fedlex.data.admin.ch/eli/oc/2004/812).
 

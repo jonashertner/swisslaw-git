@@ -3,11 +3,11 @@ sr: "363.1"
 title: "Ordinanza del 3 dicembre 2004 sull'utilizzo di profili del DNA nel procedimento penale e per l'identificazione di persone sconosciute o scomparse (Ordinanza sui profili del DNA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: it
-version: 2021-04-01
+version: 2023-01-23
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2004-812-20210401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20210401/it"
 
 (Ordinanza sui profili del DNA)
 
-del 3 dicembre 2004 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 3 dicembre 2004 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -72,7 +72,7 @@ Alla richiesta di riconoscimento devono essere allegati i documenti seguenti:
 - a. l’accreditamento secondo l’articolo 2 capoverso 2 lettera a;
 - b. l’attestato che certifica la partecipazione con esito positivo ad almeno quattro esami d’idoneità secondo l’articolo 2 capoverso 2 lettera c;
 - c. la prova della qualifica secondo l’articolo 2 capoverso 2 lettera d;
-- d. l’estratto del casellario giudiziale centrale e dell’Ufficio di esecuzione e fallimenti concernente i membri della direzione;
+- d.[^2a-2] l’estratto per privati del casellario giudiziale informatizzato VOSTRA e l’estratto dell’Ufficio di esecuzione e fallimenti concernente i membri della direzione;
 - e. l’elenco completo delle inchieste penali nonché delle cause penali e civili degli ultimi dieci anni concernenti i membri della direzione;
 - f. l’estratto del registro di commercio;
 - g. il rapporto d’attività o il rapporto di gestione dell’anno precedente;
@@ -82,6 +82,7 @@ Alla richiesta di riconoscimento devono essere allegati i documenti seguenti:
 - k. la prova che la sicurezza dei dati è garantita.
 
 [^2a-1]: Introdotto dal n. I dell’O del 22 giu. 2005, in vigore dal 1° ago. 2005 ([RU 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
+[^2a-2]: Nuovo testo giusta l’all. 10 n. II 13 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 3
 
