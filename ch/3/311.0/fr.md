@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230101-fr-xml-22.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230123-fr-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 1<sup>er</sup> janvier 2023)
+du 21 décembre 1937 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -47,7 +47,7 @@ Une peine ou une mesure ne peuvent être prononcées qu’en raison d’un acte 
 
 #### Art. 2
 
-<sup>1</sup> Est jugé d’après le présent code quiconque commetun crime ou un délit après l’entrée en vigueur de ce code.
+<sup>1</sup> Est jugé d’après le présent code quiconque commet un crime ou un délit après l’entrée en vigueur de ce code.
 
 <sup>2</sup> Le présent code est aussi applicable aux crimes et aux délits commis avant la date de son entrée en vigueur si l’auteur n’est mis en jugement qu’après cette date et si le présent code lui est plus favorable que la loi en vigueur au moment de l’infraction.
 
@@ -481,11 +481,11 @@ Si un ayant droit a porté plainte contre un des participants à l’infraction,
 
 <sup>2</sup> Si la peine pécuniaire est prononcée par une autorité administrative, un juge doit statuer sur la peine privative de liberté de substitution.
 
-<sup>3</sup> à <sup>5</sup> ...[^36-1]
+<sup>3</sup> à <sup>5</sup> …[^36-1]
 
 [^36-1]: Abrogés par le ch. I 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), avec effet au 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### 2. ...
+### 2. …
 
 #### Art. 37 à 39
 
@@ -572,6 +572,10 @@ Le juge peut prononcer une peine privative de liberté à la place d’une peine
 <sup>2</sup> Le juge peut ordonner une assistance de probation et imposer des règles de conduite pour la durée du délai d’épreuve.
 
 <sup>3</sup> Le juge explique au condamné la portée et les conséquences du sursis ou du sursis partiel à l’exécution de la peine.
+
+<sup>4</sup> Le délai d’épreuve commence à courir à la notification du jugement exécutoire.[^44-1]
+
+[^44-1]: Introduit par l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ### Succès de la mise à l’épreuve
 
@@ -814,7 +818,7 @@ Pour ordonner une des mesures prévues aux art. 59 à 61, 63 et 64 ou en cas de 
 
 #### Art. 58
 
-<sup>1</sup> ... [^58-1]
+<sup>1</sup> … [^58-1]
 
 <sup>2</sup> Les lieux d’exécution des mesures thérapeutiques visés aux art. 59 à 61 doivent être séparés des lieux d’exécution des peines.
 
@@ -1298,7 +1302,7 @@ Dans les cas de très peu de gravité, le juge peut exceptionnellement renoncer 
 
 <sup>6</sup> Le juge peut ordonner une assistance de probation pour la durée de l’interdiction.[^67-8]
 
-<sup>7</sup> ...[^67-9]
+<sup>7</sup> …[^67-9]
 
 [^67-1]: Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^67-2]: Nouvelle teneur selon le ch. I 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -1396,7 +1400,7 @@ L’auteur peut demander à l’autorité compétente de lever l’interdiction 
 
 - a. pour les interdictions au sens des art. 67, al. 1, et 67*b*: après une période d’exécution d’au moins deux ans;
 - b. pour les interdictions de durée limitée au sens de l’art. 67, al. 2: après la moitié de la durée de l’interdiction, mais après une période d’exécution d’au moins trois ans;
-- c.[^67c-2] ...
+- c.[^67c-2] …
 - d.[^67c-3] pour les interdictions à vie au sens de l’art. 67, al. 2<sup>bis</sup>: après une période d’exécution d’au moins dix ans.
 
 <sup>6</sup> S’il n’y a plus lieu de craindre que l’auteur commette un nouveau crime ou délit dans l’exercice de l’activité concernée ou en cas de contact avec des personnes déterminées ou des membres d’un groupe déterminé et s’il a réparé le dommage qu’il a causé autant qu’on pouvait l’attendre de lui, l’autorité compétente lève l’interdiction dans les cas prévus aux al. 4 et 5.
@@ -1536,7 +1540,7 @@ Le détenu et la personne exécutant une mesure ont droit au respect de leur dig
 
 <sup>1</sup> L’exécution de la peine privative de liberté doit améliorer le comportement social du détenu, en particulier son aptitude à vivre sans commettre d’infractions. Elle doit correspondre autant que possible à des conditions de vie ordinaires, assurer au détenu l’assistance nécessaire, combattre les effets nocifs de la privation de liberté et tenir compte de manière adéquate du besoin de protection de la collectivité, du personnel et des codétenus.
 
-<sup>2</sup> ...[^75-1]
+<sup>2</sup> …[^75-1]
 
 <sup>3</sup> Le règlement de l’établissement prévoit qu’un plan d’exécution est établi avec le détenu. Le plan porte notamment sur l’assistance offerte, sur la possibilité de travailler et d’acquérir une formation ou une formation continue, sur la réparation du dommage, sur les relations avec le monde extérieur et sur la préparation de la libération.
 
@@ -2960,7 +2964,7 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 ### 4. Dispositions générales.
 
-### ...
+### …
 
 #### Art. 172
 
@@ -3357,9 +3361,9 @@ sera puni d’une peine privative de liberté de cinq ans au plus ou d’une pei
 
 <sup>4.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si l’auteur a agi en admettant par erreur que sa victime était âgée de 16 ans au moins alors qu’en usant des précautions voulues il aurait pu éviter l’erreur.
 
-<sup>5.</sup> ...[^187-2]
+<sup>5.</sup> …[^187-2]
 
-<sup>6.</sup> ...[^187-3]
+<sup>6.</sup> …[^187-3]
 
 [^187-1]: Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^187-2]: Abrogé par le ch. I de la LF du 21 mars 1997, avec effet au 1<sup>er</sup> sept. 1997 ([RO 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1315](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1320)
@@ -3387,7 +3391,7 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 <sup>1</sup> Celui qui, notamment en usant de menace ou de violence envers une personne, en exerçant sur elle des pressions d’ordre psychique ou en la mettant hors d’état de résister l’aura contrainte à subir un acte analogue à l’acte sexuel ou un autre acte d’ordre sexuel, sera puni d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire.
 
-<sup>2</sup> ...[^189-1]
+<sup>2</sup> …[^189-1]
 
 <sup>3</sup> Si l’auteur a agi avec cruauté, notamment s’il a fait usage d’une arme dangereuse ou d’un autre objet dangereux, la peine sera la peine privative de liberté de trois ans au moins.[^189-2]
 
@@ -3400,7 +3404,7 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 <sup>1</sup> Celui qui, notamment en usant de menace ou de violence, en exerçant sur sa victime des pressions d’ordre psychique ou en la mettant hors d’état de résister, aura contraint une personne de sexe féminin à subir l’acte sexuel, sera puni d’une peine privative de liberté de un à dix ans.
 
-<sup>2</sup> ...[^190-1]
+<sup>2</sup> …[^190-1]
 
 <sup>3</sup> Si l’auteur a agi avec cruauté, notamment s’il a fait usage d’une arme dangereuse ou d’un autre objet dangereux, la peine sera la peine privative de liberté de trois ans au moins.[^190-2]
 
@@ -3538,7 +3542,7 @@ Lorsqu’une infraction prévue dans le présent titre aura été commise en com
 
 <sup>2</sup> Les mineurs n’encourront aucune peine s’ils ont été séduits.
 
-<sup>3</sup> ...[^213-2]
+<sup>3</sup> …[^213-2]
 
 [^213-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^213-2]: Abrogé par le ch. I de la LF du 5 oct. 2001 (Prescription de l’action pénale en général et en cas d’infraction contre l’intégrité sexuelle des enfants), avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2769](https://fedlex.data.admin.ch/eli/fga/2000/612)).
@@ -5581,7 +5585,7 @@ sera, sur plainte du locataire, puni d’une amende.
 
 ### Personnes morales, sociétés commerciales et entreprises individuelles
 
-### 1. ...
+### 1. …
 
 #### Art. 326
 
@@ -5781,7 +5785,7 @@ Lorsqu’une prescription du droit fédéral renvoie à une disposition modifié
 
 <sup>2</sup> Ils peuvent édicter des sanctions pour les infractions au droit administratif et au droit de procédure cantonaux.
 
-### Titre 2 ...
+### Titre 2 …
 
 #### Art. 336 à 338
 
@@ -5789,7 +5793,7 @@ Lorsqu’une prescription du droit fédéral renvoie à une disposition modifié
 
 [^336338-1]: Abrogés par l’annexe 1 ch. II 8 du CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Titre 3 ...
+### Titre 3 …
 
 #### Art. 339 à 348
 
@@ -6041,47 +6045,51 @@ La Confédération peut accorder à INTERPOL des aides financières et des indem
 
 ### 3. Collaboration à des fins d’identification de personnes
 
-[^book3-tit4-lvl3-1]
-
-[^book3-tit4-lvl3-1]: Nouvelle teneur selon l’annexe 1 ch. II 8 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-
 #### Art. 354
 
-<sup>1</sup> Le département compétent enregistre et répertorie les données signalétiques relevées et transmises par des autorités cantonales, fédérales ou étrangères dans le cadre de poursuites pénales ou dans l’accomplissement d’autres tâches légales. Afin d’identifier une personne recherchée ou inconnue, il compare ces données entre elles.
+[^354-1]
+
+<sup>1</sup> Le département compétent enregistre et répertorie les données signalétiques biométriques relevées et transmises par des autorités cantonales, fédérales ou étrangères dans le cadre de poursuites pénales ou dans l’accomplissement d’autres tâches légales. Afin d’identifier une personne recherchée ou inconnue, il peut comparer ces données entre elles.
 
 <sup>2</sup>
 
-Les autorités suivantes peuvent comparer et traiter des données en vertu de l’al. 1:
+Les autorités suivantes peuvent comparer et traiter des données saisies en vertu de l’al. 1:
 
-- a. centre de calcul du Département fédéral de justice et police;
-- b. Office fédéral de la police;
-- c. postes frontière;
-- d. autorités de police des cantons;
-- e.[^354-1] Secrétariat d’État aux migrations (SEM).
+- a. l’Office fédéral de la police;
+- b. le Secrétariat d’État aux migrations (SEM);
+- c. l’Office fédéral de la justice;
+- d. l’Office fédéral de la douane et de la sécurité des frontières[^354-2];
+- e. les représentations suisses à l’étranger compétentes en matière d’octroi de visas;
+- f. le Service de renseignements de la Confédération;
+- g. les autorités de police des cantons;
+- h. les services cantonaux des migrations.[^354-3]
 
-<sup>3</sup> Les données personnelles se rapportant aux données signalétiques visées à l’al. 1 sont traitées dans des systèmes d’information séparés, à savoir les systèmes régis par la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^354-2], la loi fédérale du 26 juin 1998 sur l’asile[^354-3] et la loi fédérale du 16 décembre 2005 sur les étrangers[^354-4]. Le système d’information fondé sur les profils d’ADN est régi par la loi fédérale du 20 juin 2003 sur les profils d’ADN[^354-5].[^354-6]
+<sup>3</sup> Les données personnelles se rapportant aux données visées à l’al. 1 sont traitées dans des systèmes d’information séparés, à savoir les systèmes régis par la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^354-4], la loi du 26 juin 1998 sur l’asile[^354-5], la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^354-6] et la loi du 18 mars 2005 sur les douanes[^354-7].
 
 <sup>4</sup>
 
-Le Conseil fédéral:
+Elles peuvent être utilisées:
 
-- a. règle les modalités, notamment la responsabilité en matière de traitement des données, les catégories de données saisies, la durée de conservation de ces données et la collaboration avec les cantons;
-- b. désigne les autorités qui peuvent introduire et consulter les données personnelles en ligne et les autorités auxquelles des données peuvent être communiquées cas par cas;
-- c. règle les droits de procédure des personnes concernées, notamment la consultation de leurs données ainsi que leur rectification, leur archivage et leur destruction;
-- d.[^354-7] règle la transmission des données signalétiques par les autorités fédérales compétentes et les cantons.
+- a. jusqu’à l’expiration du délai fixé pour l’effacement des profils d’ADN par les art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN[^354-8], ou
+- b. en cas de condamnation pour contravention, pendant les 5 ans suivant le paiement d’une amende ou l’exécution d’une peine privative de liberté de substitution.[^354-9]
 
-<sup>5</sup> Le SEM ou l’Office fédéral de la police (fedpol) peut transmettre de manière automatisée les données à la partie nationale du Système d’information Schengen (N-SIS) et au Système d’information Schengen (SIS) aux fins de signalements dans le SIS.[^354-8]
+<sup>5</sup> Le Conseil fédéral fixe les modalités, notamment la durée de conservation des données enregistrées en dehors d’une procédure pénale, la procédure à suivre pour effacer les données et la collaboration avec les cantons. Il règle la transmission des données signalétiques par les autorités fédérales compétentes et les cantons.[^354-10]
 
-[^354-1]: Introduite par l’annexe 1 ch. 4 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^354-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^354-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^354-5]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-6]: Nouvelle teneur selon l’annexe 1 ch. 5 de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^354-7]: Introduite par l’annexe 1 ch. 4 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-8]: Introduit par l’annexe 1 ch. 4 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+<sup>6</sup> Le SEM ou l’Office fédéral de la police (fedpol) peut transmettre de manière automatisée les données à la partie nationale du Système d’information Schengen (N-SIS) et au Système d’information Schengen (SIS) aux fins de signalements dans le SIS.[^354-11]
 
-### 4. ...
+[^354-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^354-2]: La dénomination de l’unité administrative a été adaptée en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^354-3]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-4]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^354-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^354-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^354-7]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^354-8]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^354-9]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-10]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-11]: Introduit par l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+### 4. …
 
 #### Art. 355
 
@@ -6142,7 +6150,7 @@ Les organes de police fédéraux et cantonaux appliquent les dispositions des ac
 [^355c-1]: Introduit par l’art. 3 ch. 4 de l’AF du 17 déc. 2004 (Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin), en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112); [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^355c-2]: Ac. du 26 oct. 2004 entre la Suisse, l’UE et la CE sur l’association de la Suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen ([RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Ac. du 28 avr. 2005 entre la Suisse et le Danemark portant sur la création de droits et d’obligations entre ces États dans le domaine de la coopération Schengen ([RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Ac. du 17 déc. 2004 entre la Suisse, l’Islande et la Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège ([RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)); Prot. du 28 fév. 2008 entre la Suisse, l’UE, la CE et le Liechtenstein sur l’adhésion du Liechtenstein à l’Ac. entre la Suisse, l’UE et la CE sur l’association de la Suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen ([RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)).
 
-### 5<sup>ter</sup> ...
+### 5<sup>ter</sup> …
 
 #### Art. 355d
 
@@ -6185,7 +6193,7 @@ Lorsqu’une autorité d’instruction constate que des objets pornographiques (
 
 [^362-1]: Nouvelle teneur selon l’annexe ch. I de l’AF du 27 sept. 2013 (Conv. de Lanzarote), en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [FF 2012 7051](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
-### Titre 5 ...
+### Titre 5 …
 
 #### Art. 363
 
@@ -6199,382 +6207,31 @@ Lorsqu’une autorité d’instruction constate que des objets pornographiques (
 
 [^364-1]: Abrogé par l’annexe ch. 1 de la LF du 15 déc. 2017 (Protection de l’enfant), avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [FF 2015 3111](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
-### Titre 6 Casier judiciaire
+### Titre 6 …
 
-### But
+#### Art. 365 à 369
 
-#### Art. 365
+[^365369-1]
 
-<sup>1</sup> L’Office fédéral de la justice gère, en collaboration avec d’autres autorités fédérales et les cantons (art. 367, al. 1), un casier judiciaire informatisé contenant des données sensibles et des profils de la personnalité relatifs aux condamnations ainsi que des données sensibles et des profils de la personnalité relatifs aux demandes d’extrait du casier judiciaire déposées dans le cadre d’enquêtes pénales en cours. Ces deux types de données sont traités séparément dans le casier judiciaire informatisé.
-
-<sup>2</sup>
-
-Le casier sert les autorités fédérales et cantonales dans l’accomplissement des tâches suivantes:[^365-1]
-
-- a. conduite de procédures pénales;
-- b. procédures internationales d’entraide judiciaire et d’extradition;
-- c. exécution des peines et des mesures;
-- d. contrôles de sécurité civils et militaires;
-- e. prise et levée de mesures d’éloignement contre des étrangers en vertu de la loi fédérale du 26 mars 1931 sur le séjour et l’établissement des étrangers[^365-2] et d’autres mesures d’expulsion administrative ou judiciaire;
-- f. appréciation de l’indignité du requérant d’asile en raison d’actes répréhensibles, au sens de la loi du 26 juin 1998 sur l’asile[^365-3];
-- g. procédure de naturalisation;
-- h. délivrance et retrait du permis de conduire et du permis d’élève conducteur selon la loi fédérale du 19 décembre 1958 sur la circulation routière[^365-4];
-- i. mise en œuvre de la protection consulaire;
-- j. travaux statistiques au sens de la loi fédérale du 9 octobre 1992 sur la statistique fédérale[^365-5];
-- k.[^365-6] prise et levée de mesures relevant de la protection de l’enfant ou de l’adulte.
-- l.[^365-7] exclusion du service civil ou interdiction d’accomplir des périodes de service en vertu de la loi fédérale du 6 octobre 1995 sur le service civil[^365-8];
-- m.[^365-9] vérification de la réputation pour certaines affectations en vertu de la loi fédérale sur le service civil;
-- n.[^365-10] décision de non-recrutement ou d’admission au recrutement, décision d’exclusion de l’armée ou de réintégration dans l’armée et décision de dégradation au sens de la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire (LAAM)[^365-11];
-- o.[^365-12] détermination de l’aptitude à une promotion ou à une nomination dans l’armée au sens de la LAAM;
-- p.[^365-13] examen des motifs empêchant la remise de l’arme personnelle au sens de la LAAM;
-- q.[^365-14] décision d’exclusion du service de protection civile au sens de la loi fédérale du 4 octobre 2002 sur la protection de la population et sur la protection civile[^365-15];
-- r.[^365-16] détection à temps et prévention des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, LRens[^365-17];
-- s.[^365-18] transmission d’informations à Europol en vertu de l’art. 355*a*, pour autant que les données d’Europol soient utilisées aux fins visées à la let. r;
-- t.[^365-19] examen des mesures d’éloignement à l’encontre d’étrangers au sens de la loi fédérale du 16 décembre 2005 sur les étrangers[^365-20] et préparation des décisions d’expulsion au sens de l’art. 121, al. 2, de la Constitution;
-- u.[^365-21] recherche et transmission d’informations à des autorités de sûreté étrangères qui en font la demande au sens de l’art. 12, al. 1, let. d, LRens; les données dont la transmission n’est pas dans l’intérêt de la personne concernée ne peuvent être transmises qu’avec le consentement explicite de cette personne;
-- v.[^365-22] déterminer le risque pour la sécurité dans le cadre de la vérification des antécédents visée à l’art. 108*b* de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^365-23].
-
-[^365-1]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^365-2]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
-[^365-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^365-4]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^365-5]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^365-6]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^365-7]: Introduite par le ch. II 1 de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nouvelle teneur selon le ch. II 1 de la LF du 25 sept. 2015, en vigeur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^365-8]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^365-9]: Introduite par le ch. II 1 de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nouvelle teneur selon le ch. II 1 de la LF du 25 sept. 2015, en vigeur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^365-10]: Introduite par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée, en vigueur depuis le 1<sup>er</sup> janv 2010 ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^365-11]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^365-12]: Introduite par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée, en vigueur depuis le 1<sup>er</sup> janv 2010 ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^365-13]: Introduite par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée, en vigueur depuis le 1<sup>er</sup> janv 2010 ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^365-14]: Introduite par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée, en vigueur depuis le 1<sup>er</sup> janv 2010 ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^365-15]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^365-16]: Introduite par l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^365-17]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^365-18]: Introduite par l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^365-19]: Introduite par l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^365-20]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^365-21]: Introduite par l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^365-22]: Introduite par le ch. I 6 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^365-23]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-
-### Contenu
-
-#### Art. 366
-
-<sup>1</sup> Sont mentionnées dans le casier judiciaire les personnes condamnées sur le territoire de la Confédération ainsi que les Suisses condamnés à l’étranger.
-
-<sup>2</sup>
-
-Sont inscrits au casier judiciaire:
-
-- a. les jugements pour crime ou délit, pour autant qu’une peine ou une mesure ait été prononcée;
-- b. les jugements prononcés pour les contraventions au présent code ou à une autre loi fédérale désignées dans une ordonnance du Conseil fédéral;
-- c. les communications provenant de l’étranger qui concernent des jugements prononcés à l’étranger et donnent lieu à une inscription en vertu du présent code;
-- d. les faits qui entraînent une modification des inscriptions portées au casier.
-
-<sup>3</sup>
-
-Les jugements concernant les mineurs ayant commis un crime ou un délit sont inscrits dans le casier judiciaire lorsqu’une des peines ou mesures suivantes a été prononcée:
-
-- a. une privation de liberté (art. 25 DPMin[^366-1]);
-- b. un placement (art. 15 DPMin);
-- c. un traitement ambulatoire (art. 14 DPMin);
-- d. une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique (art. 16*a* DPMin).[^366-2]
-
-<sup>3bis</sup> Les jugements concernant les mineurs ayant commis une contravention sont inscrits dans le casier judiciaire lorsqu’une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique (art. 16*a* DPMin) a été prononcée.[^366-3]
-
-<sup>4</sup> Sont également mentionnées dans le casier judiciaire les personnes contre lesquelles une procédure pénale pour crime ou délit est pendante en Suisse.[^366-4]
-
-[^366-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^366-2]: Introduit par l’art. 44 ch. 1 du droit pénal des mineurs du 20 juin 2003 ([RO 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551); FF **1999** 1787). Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^366-3]: Introduit par le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^366-4]: Anciennement al. 3.
-
-### Traitement et consultation des données
-
-#### Art. 367
-
-<sup>1</sup>
-
-Les données personnelles relatives aux jugements visés à l’art. 366, al. 1 à 3 sont traitées par les autorités suivantes:[^367-1]
-
-- a. l’Office fédéral de la justice;
-- b. les autorités de poursuite pénale;
-- c. les autorités de la justice militaire;
-- d. les autorités d’exécution des peines;
-- e les services de coordination des cantons.
-
-<sup>2</sup>
-
-Les données personnelles relatives aux jugements visés à l’art. 366, al. 1, 2 et 3, let. a et b, peuvent être consultées en ligne par les autorités suivantes: [^367-2]
-
-- a. les autorités énumérées à l’al. 1;
-- b. le Ministère public de la Confédération;
-- c.[^367-3]
-
-  l’Office fédéral de la police:
-
-  - 1\. dans le cadre des enquêtes de police judiciaire,
-  - 2\. pour traiter les demandes d’autorisation d’acquisition et d’autorisation exceptionnelle de précurseurs de substances explosibles, vérifier ces autorisations, traiter les signalements d’événements suspects liés à un précurseur de substance explosible et poursuivre et juger les infractions conformément à la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^367-4];
-
-- d. le Groupement Défense[^367-5];
-- e.[^367-6] le Secrétariat d’état aux migrations[^367-7];
-- f.[^367-8] ...
-- g. les autorités cantonales de la police des étrangers;
-- h. les autorités cantonales chargées de la circulation routière;
-- i.[^367-9] les autorités fédérales qui effectuent les contrôles de sécurité relatifs à des personnes visés à l’art. 2, al. 2, let. a, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^367-10];
-- j.[^367-11] l’Office fédéral du service civil[^367-12];
-- k.[^367-13] les services cantonaux chargés de l’exclusion du service de protection civile;
-- l.[^367-14] le Service de protection des témoins, en vertu de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^367-15], pour l’exécution de ses tâches;
-- m.[^367-16] le SRC;
-- n.[^367-17] les services de police cantonaux chargés de déterminer le risque pour la sécurité selon l’art. 108*c* LA[^367-18].
-
-<sup>2bis</sup>
-
-Les données personnelles relatives aux jugements visés à l’art. 366, al. 3, let. c, peuvent aussi être consultées en ligne par les autorités suivantes:
-
-- a. le Groupement Défense[^367-19], pour les décisions de non-recrutement ou d’admission au recrutement, les décisions d’exclusion de l’armée ou de réintégration dans l’armée et les décision de dégradation au sens de la LAAM[^367-20], pour l’examen des motifs empêchant la remise de l’arme personnelle au sens de la LAAM et pour détermination de l’aptitude à une promotion ou à une nomination dans l’armée au sens de la LAAM;
-- b.[^367-21] les autorités fédérales qui effectuent les contrôles de sécurité relatifs à des personnes visés à l’art. 2, al. 2, let. a, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure;
-- c. les autorités de poursuite pénale, pour la conduite de procédures pénales (art. 365, al. 2, let. a);
-- d. les services de coordination des cantons et l’Office fédéral de la justice, pour l’accomplissement de leurs tâches légales dans le cadre de la tenue du registre;
-- e. les autorités d’exécution des peines, pour l’exécution des peines et des mesures (art. 365, al. 2, let. c).[^367-22]
-
-<sup>2ter</sup> Les autorités visées aux al. 2, let. c à l, et 2<sup>septies</sup>, peuvent consulter le jugement dans lequel est prononcée une expulsion aussi longtemps que la personne concernée est sous le coup de cette dernière. Si les délais déterminants au sens de l’art. 369 sont plus longs, ce sont eux qui s’appliquent à la consultation.[^367-23]
-
-<sup>2quater</sup>
-
-Afin de permettre au Groupement Défense d’accomplir les tâches visées à l’art. 365, al. 2, let. n à q, le service fédéral responsable du casier judiciaire lui communique régulièrement les données ci-après, nouvellement enregistrées dans VOSTRA, relatives aux conscrits, aux militaires et aux personnes astreintes à servir dans la protection civile:[^367-24]
-
-- a. les condamnations pour crime ou délit;
-- b. les mesures entraînant une privation de liberté;
-- c. les décisions relatives à un échec de la mise à l’épreuve prononcées contre des conscrits ou des militaires.[^367-25]
-
-<sup>2quinquies</sup> Le service fédéral responsable du casier judiciaire communique l’identité des ressortissants suisses de plus de 17 ans enregistrés au casier judiciaire selon l’al. 2<sup>quater</sup>. Si l’état-major de conduite de l’armée constate que la personne concernée est un conscrit ou un militaire, le service chargé du casier judiciaire transmet les données relatives aux peines prononcées.[^367-26]
-
-<sup>2sexies</sup> La communication et le constat visés à l’al. 2<sup>quinquies</sup> peuvent être effectués par une interface entre le Système d’information sur le personnel de l’armée (SIPA) et le casier judiciaire.[^367-27]
-
-<sup>2septies</sup> L’Office fédéral du sport peut consulter, sur demande écrite, les données personnelles relatives à des condamnations afin d’examiner la réputation d’une personne avant de lui attribuer ou de lui retirer un certificat de cadre «Jeunesse et sport».[^367-28]
-
-<sup>3</sup> Le Conseil fédéral peut, si le nombre des demandes de renseignement le justifie, et après consultation du Préposé fédéral à la protection des données et à la transparence[^367-29], étendre le droit d’accès visé à l’al. 2 à d’autres autorités judiciaires et administratives de la Confédération et des cantons jusqu’à l’entrée en vigueur d’une loi fédérale.
-
-<sup>4</sup> Les données personnelles relatives à des procédures pénales en cours ne peuvent être traitées que par les autorités énumérées à l’al. 2, let. a à e, i, j, l à n.[^367-30]
-
-<sup>4bis</sup> ...[^367-31]
-
-<sup>4ter</sup> L’Office fédéral du sport peut consulter, sur demande écrite, les données personnelles concernant des enquêtes pénales en cours afin d’examiner la réputation d’une personne avant de lui attribuer un certificat de cadre «Jeunesse et sport» ou de le suspendre.[^367-32]
-
-<sup>5</sup> Chaque canton désigne un service de coordination pour le traitement des données enregistrées dans le casier judiciaire.
-
-<sup>6</sup>
-
-Le Conseil fédéral fixe les modalités, notamment en ce qui concerne:
-
-- a. la responsabilité en matière de traitement des données;
-- b. les catégories de données saisies et leur durée de conservation;
-- c. la collaboration avec les autorités concernées;
-- d. les tâches des services de coordination;
-- e. le droit à l’information et les autres droits de procédure visant la protection des personnes concernées;
-- f. la sécurité des données;
-- g. les autorités qui peuvent communiquer des données personnelles par écrit, celles qui peuvent introduire des données dans le casier, celles qui peuvent consulter le casier et celles auxquelles des données personnelles peuvent être communiquées cas par cas;
-- h. la transmission électronique de données à l’Office fédéral de la statistique.
-
-[^367-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)). Cette mod. sera sans objet ou abrogée au moment de l’entrée en vigueur de la loi du 17 juin 2019 sur le casier judiciaire ([RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [FF 2016 4703](https://fedlex.data.admin.ch/eli/fga/2016/1052)) ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352)art. 42).
-[^367-4]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^367-5]: Nouvelle expression selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-6]: Nouvelle teneur selon le ch. I 3 de l’O du 3 nov. 2004 relative à l’adaptation de disp. légales à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
-[^367-7]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4237](https://fedlex.data.admin.ch/eli/oc/2004/629)).
-[^367-8]: Abrogée par le ch. I 3 de l’O du 3 nov. 2004 relative à l’adaptation de disp. légales à la suite de la réunion des offices fédéraux IMES et ODR, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
-[^367-9]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-10]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^367-11]: Introduite par le ch. II de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^367-12]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
-[^367-13]: Introduite par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée, en vigueur depuis le 1<sup>er</sup> janv 2010 ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^367-14]: Introduite par l’annexe ch. 3 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^367-15]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^367-16]: Introduite par l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-17]: Introduite par le ch. I 6 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^367-18]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^367-19]: Nouvelle expression selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-20]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^367-21]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-22]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-23]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-24]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-25]: Anciennement al. 2<sup>ter</sup>. Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-26]: Introduit par l’annexe ch. 2 de la LF du 19 mars 2010 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-27]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-28]: Anciennement al. 2<sup>sexies</sup>. Introduit par les art. 34 ch. 1 et 36 de la LF du 17 juin 2011 sur l’encouragement du sport et de l’activité physique, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
-[^367-29]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4237](https://fedlex.data.admin.ch/eli/oc/2004/629)).
-[^367-30]: Nouvelle teneur selon le ch. I 6 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^367-31]: Introduit par le ch. II 1 de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogé par selon le ch. II 1 de la LF du 25 sept. 2015, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^367-32]: Introduit par l’art. 34 ch. 1 de la LF du 17 juin 2011 sur l’encouragement du sport et de l’activité physique, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
-
-### Communication de faits donnant lieu à une inscription
-
-#### Art. 368
-
-L’autorité fédérale compétente peut communiquer à l’État dont le condamné est ressortissant les inscriptions portées au casier judiciaire.
-
-### Élimination de l’inscription
-
-#### Art. 369
-
-<sup>1</sup>
-
-Les jugements qui prononcent une peine privative de liberté sont éliminés d’office lorsqu’il s’est écoulé, dès la fin de la durée de la peine fixée par le jugement:[^369-1]
-
-- a. 20 ans en cas de peine privative de liberté de cinq ans au moins;
-- b. quinze ans en cas de peine privative de liberté de un an ou plus, mais de moins de cinq ans;
-- c. dix ans en cas de peine privative de liberté de moins d’un an;
-- d.[^369-2] dix ans en cas de privation de liberté selon l’art. 25 DPMin[^369-3].
-
-<sup>2</sup> Les délais fixés à l’al. 1 sont augmentés d’une fois la durée d’une peine privative de liberté déjà inscrite.
-
-<sup>3</sup> Les jugements qui prononcent une peine privative de liberté avec sursis, une privation de liberté avec sursis, une peine pécuniaire, un travail d’intérêt général ou une amende comme peine principale sont éliminés d’office après dix ans.[^369-4]
-
-<sup>4</sup>
-
-Les jugements qui prononcent soit une mesure institutionnelle accompagnant une peine, soit exclusivement une mesure institutionnelle sont éliminés d’office:
-
-- a. après quinze ans en cas de mesure ordonnée en vertu des art. 59 à 61 et 64;
-- b. après dix ans en cas de placement en établissement fermé au sens de l’art. 15, al. 2, DPMin;
-- c.[^369-5] après sept ans en cas de placement en établissement ouvert ou chez des particuliers en vertu de l’art. 15, al. 1, DPMin. [^369-6]
-
-<sup>4bis</sup> Les jugements qui prononcent exclusivement un traitement ambulatoire au sens de l’art. 63 sont éliminés d’office après dix ans. Les jugements qui prononcent un traitement ambulatoire au sens de l’art. 14 DPMin sont éliminés d’office après cinq ans, si les al. 1 à 4 ne s’appliquent pas au calcul du délai. [^369-7]
-
-<sup>4ter</sup> Les jugements qui prononcent exclusivement une mesure au sens des art. 66, al. 1, 67, al. 1, et 67*e* du présent code ou 48, 50, al. 1, et 50*e* CPM[^369-8] sont éliminés d’office après dix ans.[^369-9]
-
-<sup>4quater</sup> Les jugements qui prononcent exclusivement une interdiction au sens des art. 67, al. 2 à 4, ou 67*b* du présent code ou des art. 50, al. 2 à 4, ou 50*b* CPM sont éliminés d’office après dix ans.[^369-10]
-
-<sup>4quinquies</sup> Les jugements qui prononcent exclusivement une interdiction au sens de l’art. 16*a* DPMin sont éliminés d’office après sept ans.[^369-11]
-
-<sup>5</sup> Les délais fixés à l’al. 4 sont augmentés de la durée du solde de la peine.
-
-<sup>5bis</sup> Le jugement dans lequel une expulsion est prononcée reste inscrit au casier judiciaire jusqu’au décès de la personne concernée. Si cette personne ne séjourne pas en Suisse, le jugement est éliminé du casier judiciaire au plus tard 100 ans après sa naissance. Si elle acquiert la nationalité suisse, elle peut demander huit ans plus tard l’élimination du jugement au terme des délais visés aux al. 1 à 5.[^369-12]
-
-<sup>6</sup>
-
-Le délai court:
-
-- a.[^369-13] à compter du jour où le jugement est exécutoire, pour les jugements visés aux al. 1, 3, 4<sup>ter</sup>, 4<sup>quater</sup> et 4<sup>quinquies</sup>;
-- b. à compter du jour de la levée de la mesure ou de la libération définitive de la personne concernée, pour les jugements visés aux al. 4 et 4<sup>bis</sup>.[^369-14]
-
-<sup>7</sup> L’inscription ne doit pas pouvoir être reconstituée après son élimination. Le jugement éliminé ne peut plus être opposé à la personne concernée.
-
-<sup>8</sup> Les inscriptions portées au casier judiciaire ne sont pas archivées.
-
-[^369-1]: Nouvelle teneur selon l’art. 44 ch. 1 du droit pénal des mineurs du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551); FF **1999** 1787).
-[^369-2]: Introduite par l’art. 44 ch. 1 du droit pénal des mineurs du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551); FF **1999** 1787).
-[^369-3]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^369-4]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^369-5]: Introduite par l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^369-6]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^369-7]: Introduit par le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire, [RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^369-8]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^369-9]: Introduit par le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire, [RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)). Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^369-10]: Introduit par le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^369-11]: Introduit par le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^369-12]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^369-13]: Nouvelle teneur selon le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^369-14]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-
-### Élimination des jugements prononçant une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique
+[^365369-1]: Abrogés par l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 369a
 
 [^369a-1]
 
-Les jugements qui prononcent une interdiction au sens des art. 67, al. 2 à 4, ou 67*b* du présent code, des art. 50, al. 2 à 4, ou 50*b* CPM[^369a-2] ou de l’art. 16*a* DPMin[^369a-3] sont éliminés d’office dix ans après la fin de l’interdiction.[^369a-4] Si les délais visés à l’art. 369 sont plus longs, ils sont appliqués.
+[^369a-1]: Introduit par le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)). Abrogé par l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
-[^369a-1]: Introduit par le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^369a-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^369a-3]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^369a-4]: Nouvelle teneur selon le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+#### Art. 370 et 371
 
-### Droit de consultation
+[^370371-1]
 
-#### Art. 370
-
-<sup>1</sup> Toute personne a le droit de consulter dans son intégralité l’inscription qui la concerne.
-
-<sup>2</sup> Aucune copie ne peut être délivrée.
-
-### Extrait du casier judiciaire destiné à des particuliers
-
-[^book3-tit6-lvlu8-1]
-
-[^book3-tit6-lvlu8-1]: Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-
-#### Art. 371
-
-<sup>1</sup> Toute personne peut demander au casier judiciaire central suisse un extrait de son casier judiciaire. Y sont mentionnés les jugements pour crime et pour délit, ainsi que les jugements pour contravention dans lesquels est prononcée une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique au sens de l’art. 67 ou 67*b* du présent code, de l’art. 50 ou 50*b* CPM[^371-1] ou de l’art. 16*a* DPMin[^371-2].[^371-3]
-
-<sup>2</sup> Les jugements concernant les mineurs sont mentionnés dans l’extrait du casier judiciaire uniquement si le mineur a été condamné comme adulte en raison d’autres infractions qui doivent y figurer.
-
-<sup>3</sup> Le jugement dans lequel une peine est prononcée ne figure plus sur l’extrait du casier judiciaire lorsque deux tiers de la durée déterminante pour l’élimination de l’inscription en vertu de l’art. 369, al. 1 à 5 et 6, sont écoulés.[^371-4]
-
-<sup>3bis</sup> Un jugement qui prononce une peine avec sursis ou sursis partiel n’apparaît plus dans l’extrait du casier judiciaire lorsque le condamné a subi la mise à l’épreuve avec succès.[^371-5]
-
-<sup>4</sup> Le jugement dans lequel est prononcée soit une mesure accompagnant une peine soit une mesure exclusivement ne figure plus sur l’extrait du casier judiciaire lorsque la moitié de la durée déterminante pour l’élimination de l’inscription en vertu de l’art. 369, al. 1 à 5 et 6, est écoulée.[^371-6]
-
-<sup>4bis</sup> Le jugement dans lequel une expulsion est prononcée figure sur l’extrait du casier judiciaire pendant toute la durée de validité de l’expulsion. Si les délais visés aux al. 3 ou 4 sont plus longs, ce sont eux qui déterminent la durée pendant laquelle le jugement figure sur l’extrait du casier judiciaire.[^371-7]
-
-<sup>5</sup> Après l’expiration des délais visés aux al. 3, 4 et 4<sup>bis</sup>, le jugement reste mentionné sur l’extrait du casier judiciaire si cet extrait contient un autre jugement pour lequel le délai appliqué n’est pas encore expiré.[^371-8]
-
-[^371-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^371-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^371-3]: Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^371-4]: Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^371-5]: Introduit par le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^371-6]: Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^371-7]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^371-8]: Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-
-### Extrait spécial du casier judiciaire destiné à des particuliers
+[^370371-1]: Abrogés par l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 371a
 
 [^371a-1]
 
-<sup>1</sup>
-
-Peut demander un extrait spécial de son casier judiciaire:
-
-- a.
-
-  quiconque postule:
-
-  - 1\. à une activité professionnelle ou non professionnelle organisée impliquant des contacts réguliers avec des mineurs ou d’autres personnes particulièrement vulnérables, ou
-  - 2\. à une activité professionnelle ou non professionnelle organisée relevant du domaine de la santé qui implique des contacts directs avec des patients;
-
-- b. quiconque exerce une activité au sens de la let. a.[^371a-2]
-
-<sup>2</sup>
-
-Le requérant doit joindre à sa demande une confirmation écrite de l’entité qui exige la production d’un extrait spécial du casier judiciaire, qu’il s’agisse de l’employeur, de l’organisation ou de l’autorité compétente pour autoriser l’exercice de l’activité concernée, confirmation attestant:[^371a-3]
-
-- a. qu’il postule à une activité au sens de l’al. 1 ou l’exerce;
-- b. qu’il doit produire l’extrait spécial pour exercer ou poursuivre l’activité concernée.
-
-<sup>3</sup>
-
-Sont mentionnés dans l’extrait spécial:
-
-- a.[^371a-4] les jugements dans lesquels est prononcée une interdiction d’exercer une activité au sens de l’art. 67, al. 2 à 4, du présent code ou de l’art. 50, al. 2 à 4, CPM[^371a-5];
-- b. les jugements dans lesquels est prononcée une interdiction de contact ou une interdiction géographique au sens de l’art. 67*b* du présent code ou de l’art. 50*b* CPM, visant à protéger les mineurs et les autres personnes particulièrement vulnérables;
-- c. les jugements à l’encontre de mineurs dans lesquels est prononcée une interdiction d’exercer une activité au sens de l’art. 16*a*, al. 1, DPMin[^371a-6] ou une interdiction de contact ou une interdiction géographique au sens de l’art. 16*a*, al. 2, DPMin, visant à protéger les mineurs et les autres personnes particulièrement vulnérables.
-
-<sup>4</sup> Un jugement dans lequel est prononcée une interdiction au sens de l’al. 3 figure dans l’extrait spécial aussi longtemps que l’interdiction a effet.
-
-[^371a-1]: Introduit par le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^371a-2]: Nouvelle teneur selon le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^371a-3]: Nouvelle teneur selon le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^371a-4]: Nouvelle teneur selon le ch. I 1 de la LF du 16 mars 2018 (Mise en oeuvre de l’art. 123*c* Cst.), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5905](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^371a-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^371a-6]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^371a-1]: Introduit par le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)). Abrogé par l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ### Titre 7 Exécution des peines et des mesures, assistance de probation, établissements
 
@@ -6791,7 +6448,7 @@ Après consultation des cantons, le Conseil fédéral peut édicter des disposit
 
 <sup>2</sup> Le Conseil fédéral peut édicter des dispositions spéciales sur la séparation des établissements du canton du Tessin sur proposition de l’autorité cantonale compétente.
 
-<sup>3</sup> Il peut prévoir que des données éliminées du casier judiciaire peuvent être conservées à des fins de recherche si la protection de la personnalité est garantie et que les principes de la protection des données sont respectés.
+<sup>3</sup> …[^387-2]
 
 <sup>4</sup>
 
@@ -6803,6 +6460,7 @@ Il peut, à titre d’essai et pour une durée déterminée:
 <sup>5</sup> Les dispositions d’exécution cantonales relatives à l’expérimentation de nouvelles sanctions et de nouvelles formes d’exécution des peines et des mesures et à l’exécution des peines dans des établissements gérés par des exploitants privés (al. 4) ne sont valables que si elles ont été approuvées par la Confédération.
 
 [^387-1]: Introduit par le ch. I de la LF du 21 déc. 2007 (Internement à vie des délinquants extrêmement dangereux), en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [FF 2006 869](https://fedlex.data.admin.ch/eli/fga/2006/104)).
+[^387-2]: Abrogé par l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ### 3. Dispositions transitoires générales
 
@@ -6870,11 +6528,7 @@ Le présent code entre en vigueur le 1<sup>er</sup> janvier 1942.
 
 <sup>2</sup> Dans un délai de douze mois à compter de l’entrée en vigueur du nouveau droit, le juge examine si les personnes qui sont internées selon les art. 42 ou 43, ch. 1, al. 2, de l’ancien droit remplissent les conditions d’une mesure thérapeutique (art. 59 à 61 ou 63). Dans l’affirmative, le juge ordonne cette mesure; dans le cas contraire, l’internement se poursuit conformément au nouveau droit.
 
-\3. Casier judiciaire
-
-<sup>1</sup> Les dispositions du nouveau droit relatives au casier judiciaire (art. 365 à 371) s’appliquent également aux jugements prononcés en vertu de l’ancien droit.
-
-<sup>3</sup> Les inscriptions radiées en vertu de l’ancien droit n’apparaissent plus dans les extraits du casier judiciaire destinés aux particuliers.[^u2-7]
+3.[^u2-7] …
 
 \4. Établissements d’exécution des mesures
 
@@ -6885,21 +6539,13 @@ Les cantons doivent créer des établissements pour l’exécution des mesures v
 - a. le prononcé ultérieur de l’internement au sens de l’art. 65, al. 2, n’est admissible que si l’internement aurait également été possible sur la base de l’art. 42 ou 43, ch. 1, al. 2, de l’ancien droit;
 - b. le placement des jeunes adultes en maison d’éducation au travail (art. 100<sup>bis</sup> dans sa version du 18 mars 1971[^u2-8]) et les mesures applicables aux jeunes adultes (art. 61) ne doivent pas durer plus de quatre ans.
 
-<sup>2</sup> Dans un délai de six mois à compter de l’entrée en vigueur du nouveau droit, l’autorité compétente élimine d’office les inscriptions concernant:
-
-- a. les mesures éducatives (art. 91 dans sa version du 18 mars 1971[^u2-9]), à l’exception de celles qui ont été prononcées en vertu de l’art. 91, ch. 2, dans sa version du 18 mars 1971;
-- b. les traitements spéciaux (art. 92, dans sa version du 18 mars 1971);
-- c. les astreintes au travail (art. 95, dans sa version du 18 mars 1971).[^u2-10]
-
 [^u2-2]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 [^u2-3]: RS **3** 193
 [^u2-4]: [RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)
 [^u2-5]: RS **3** 193
 [^u2-6]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^u2-7]: Introduit par le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^u2-7]: Abrogé par l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^u2-8]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^u2-9]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^u2-10]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
 ## Disposition transitoire de la modification du 26 septembre 2014
 

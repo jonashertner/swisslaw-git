@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230101-de-xml-22.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230123/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230123-de-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Januar 2023)
+vom 21. Dezember 1937 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -576,6 +576,10 @@ Das Gericht kann statt auf eine Geldstrafe auf eine Freiheitsstrafe erkennen, we
 <sup>2</sup> Für die Dauer der Probezeit kann das Gericht Bewährungshilfe anordnen und Weisungen erteilen.
 
 <sup>3</sup> Das Gericht erklärt dem Verurteilten die Bedeutung und die Folgen der bedingten und der teilbedingten Strafe.
+
+<sup>4</sup> Die Probezeit beginnt mit Eröffnung des Urteils, das vollstreckbar wird.[^44-1]
+
+[^44-1]: Eingefügt durch Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ### Bewährung
 
@@ -6041,45 +6045,49 @@ Der Bund kann Finanzhilfen und Abgeltungen an INTERPOL ausrichten.
 
 ### 3. Zusammenarbeit bei der Identifizierung von Personen
 
-[^book3-tit4-lvl3-1]
-
-[^book3-tit4-lvl3-1]: Fassung gemäss Anhang 1 Ziff. II 8 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-
 #### Art. 354
 
-<sup>1</sup> Das zuständige Departement registriert und speichert erkennungsdienstliche Daten, die von Behörden der Kantone, des Bundes und des Auslandes bei Strafverfolgungen oder bei Erfüllung anderer gesetzlicher Aufgaben erhoben und ihm übermittelt worden sind. Diese Daten können zur Identifizierung einer gesuchten oder unbekannten Person miteinander verglichen werden.
+[^354-1]
+
+<sup>1</sup> Das zuständige Departement registriert und speichert die biometrischen erkennungsdienstlichen Daten, die von Behörden der Kantone, des Bundes und des Auslandes im Rahmen der Strafverfolgung oder der Erfüllung anderer gesetzlicher Aufgaben erhoben und ihm übermittelt worden sind. Diese Daten können zur Identifizierung einer gesuchten oder unbekannten Person untereinander abgeglichen werden.
 
 <sup>2</sup>
 
-Folgende Behörden können Daten im Rahmen von Absatz 1 vergleichen und bearbeiten:
+Folgende Behörden können Daten nach Absatz 1 vergleichen und bearbeiten:
 
-- a. das Rechenzentrum des Eidgenössischen Justiz- und Polizeidepartementes;
-- b. das Bundesamt für Polizei;
-- c. die Grenzstellen;
-- d. die Polizeibehörden der Kantone;
-- e.[^354-1] das Staatssekretariat für Migration (SEM).
+- a. das Bundesamt für Polizei;
+- b. das Staatssekretariat für Migration (SEM);
+- c. das Bundesamt für Justiz;
+- d. das Bundesamt für Zoll und Grenzsicherheit[^354-2];
+- e. die für die Erteilung von Visa zuständigen schweizerischen Vertretungen im Ausland;
+- f. der Nachrichtendienst des Bundes;
+- g. die Polizeibehörden der Kantone;
+- h. die kantonalen Migrationsbehörden.[^354-3]
 
-<sup>3</sup> Die Personendaten, die sich auf erkennungsdienstliche Daten nach Absatz 1 beziehen, werden in getrennten Informationssystemen bearbeitet; dabei gelten die Bestimmungen des Bundesgesetzes vom 13. Juni 2008[^354-2] über die polizeilichen Informationssysteme des Bundes, des Asylgesetzes vom 26. Juni 1998[^354-3] und des Bundesgesetzes vom 16. Dezember 2005[^354-4] über die Ausländerinnen und Ausländer. Das DNA-Profil-Informationssystem unterliegt den Bestimmungen des DNA-Profil-Gesetzes vom 20. Juni 2003[^354-5].[^354-6]
+<sup>3</sup> Die Personendaten, die sich auf Daten nach Absatz 1 beziehen, werden in getrennten Informationssystemen bearbeitet; dabei gelten die Bestimmungen des Bundesgesetzes vom 13. Juni 2008[^354-4] über die polizeilichen Informationssysteme des Bundes, des Asylgesetzes vom 26. Juni 1998[^354-5], des Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^354-6] und des Zollgesetzes vom 18. März 2005[^354-7].
 
 <sup>4</sup>
 
-Der Bundesrat:
+Die Daten dürfen verwendet werden:
 
-- a. regelt die Einzelheiten, insbesondere die Verantwortung für die Datenbearbeitung, die Kategorien der zu erfassenden Daten, die Aufbewahrungsdauer der Daten und die Zusammenarbeit mit den Kantonen;
-- b. bestimmt die Behörden, welche Personendaten im Abrufverfahren eingeben und abfragen oder denen Personendaten im Einzelfall bekannt gegeben werden können;
-- c. regelt die Verfahrensrechte der betroffenen Personen, insbesondere die Einsicht in ihre Daten sowie deren Berichtigung, Archivierung und Vernichtung;
-- d.[^354-7] regelt die Übermittlung der erkennungsdienstlichen Daten durch die zuständigen Bundesbehörden und die Kantone.
+- a. bis zum Ablauf der Fristen für die Löschung von DNA-Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003[^354-8]; oder
+- b. bei einer Verurteilung wegen einer Übertretung: bis zu fünf Jahre nach Zahlung einer Busse oder nach dem Vollzug einer entsprechenden Ersatzfreiheitsstrafe.[^354-9]
 
-<sup>5</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks SIS-Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-8]
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Aufbewahrungsdauer der Daten, die ausserhalb von Strafverfahren erfasst worden sind, das Löschverfahren und die Zusammenarbeit mit den Kantonen. Er regelt die Übermittlung der erkennungsdienstlichen Daten durch die zuständigen Bundesbehörden und die Kantone.[^354-10]
 
-[^354-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^354-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^354-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^354-5]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-6]: Fassung gemäss Anhang 1 Ziff. 5 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^354-7]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-8]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+<sup>6</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-11]
+
+[^354-1]: Fassung gemäss Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^354-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
+[^354-3]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-4]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^354-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^354-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^354-7]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^354-8]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^354-9]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-10]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-11]: Eingefügt durch Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. …
 
@@ -6199,380 +6207,31 @@ Stellt eine Untersuchungsbehörde fest, dass pornografische Gegenstände (Art. 1
 
 [^364-1]: Aufgehoben durch Anhang Ziff. 1 des BG vom 15. Dez. 2017 (Kindesschutz), mit Wirkung seit 1. Jan. 2019 ([AS 2018 2947](https://fedlex.data.admin.ch/eli/oc/2018/450); [BBl 2015 3431](https://fedlex.data.admin.ch/eli/fga/2015/838)).
 
-### Sechster Titel: Strafregister
+### Sechster Titel: …
 
-### Zweck
+#### Art. 365–369
 
-#### Art. 365
+[^365369-1]
 
-<sup>1</sup> Das Bundesamt für Justiz führt unter Mitwirkung anderer Bundesbehörden und der Kantone (Art. 367 Abs. 1) ein automatisiertes Strafregister über Verurteilungen und Gesuche um Strafregisterauszug im Rahmen von hängigen Strafverfahren, welches besonders schützenswerte Personendaten und Persönlichkeitsprofile enthält. Die Daten über Verurteilungen und jene über Gesuche um Strafregisterauszug im Rahmen von hängigen Strafverfahren werden im automatisierten Register getrennt bearbeitet.
-
-<sup>2</sup>
-
-Das Register dient der Unterstützung von Behörden des Bundes und der Kantone bei der Erfüllung folgender Aufgaben:
-
-- a. Durchführung von Strafverfahren;
-- b. internationale Rechtshilfe- und Auslieferungsverfahren;
-- c. Straf- und Massnahmenvollzug;
-- d. zivile und militärische Sicherheitsprüfungen;
-- e. Verhängung und Aufhebung von Fernhaltemassnahmen gegenüber Ausländern nach dem Bundesgesetz vom 26. März 1931[^365-1] über Aufenthalt und Niederlassung der Ausländer sowie der übrigen Ausweisungen und Landesverweisungen;
-- f. Prüfung der Asylwürdigkeit nach dem Asylgesetz vom 26. Juni 1998[^365-2];
-- g. Einbürgerungsverfahren;
-- h. Erteilung und Entzug von Führer- oder Lernfahrausweisen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958[^365-3];
-- i. Durchführung des konsularischen Schutzes;
-- j. statistische Bearbeitung nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^365-4];
-- k.[^365-5] Anordnung oder Aufhebung von Massnahmen des Kindes- oder Erwachsenenschutzes;
-- l.[^365-6] Ausschluss aus dem Zivildienst oder von der Zivildienstleistung nach dem Zivildienstgesetz vom 6. Oktober 1995[^365-7];
-- m.[^365-8] Prüfung des Leumunds für bestimmte Einsätze nach dem Zivildienstgesetz;
-- n.[^365-9] Prüfung einer Nichtrekrutierung oder Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee oder Wiederzulassung zur Armee oder einer Degradation nach dem Militärgesetz vom 3. Februar 1995[^365-10] (MG);
-- o.[^365-11] Prüfung der Eignung für eine Beförderung oder Ernennung nach dem MG;
-- p.[^365-12] Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG;
-- q.[^365-13] Prüfung eines Ausschlusses vom Schutzdienst nach dem Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002[^365-14].
-- r.[^365-15] frühzeitiges Erkennen und Verhindern von Bedrohungen der inneren oder äusseren Sicherheit nach Artikel 6 Absatz 1 NDG[^365-16];
-- s.[^365-17] Informationsvermittlung an Europol nach Artikel 355*a,* sofern die Daten von Europol für Zwecke nach Buchstabe r benötigt werden;
-- t.[^365-18] Prüfung von Fernhaltemassnahmen gegenüber Ausländerinnen und Ausländern nach dem Ausländergesetz vom 16. Dezember 2005[^365-19] sowie Vorbereitung von Ausweisungsentscheiden nach Artikel 121 Absatz 2 der Bundesverfassung;
-- u.[^365-20] Beschaffung und Weitergabe von Informationen an ausländische Sicherheitsbehörden im Rahmen von Anfragen nach Artikel 12 Absatz 1 Buchstabe d NDG; Daten, deren Weitergabe nicht im Interesse der betroffenen Person ist, können nur mit deren ausdrücklicher Zustimmung weitergegeben werden;
-- v.[^365-21] Abklärung des Sicherheitsrisikos im Rahmen der Zuverlässigkeitsüberprüfungen nach Artikel 108*b* des Luftfahrtgesetzes vom 21. Dezember 1948[^365-22] (LFG).
-
-[^365-1]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das BG vom 16. Dez. 2005 über die Ausländerinnen und Ausländer ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
-[^365-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^365-3]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^365-4]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^365-5]: Fassung gemäss Anhang Ziff. 14 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^365-6]: Eingefügt durch Ziff. II 1 des BG vom 3. Okt. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Fassung gemäss Ziff. II 1 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^365-7]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^365-8]: Eingefügt durch Ziff. II 1 des BG vom 3. Okt. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Fassung gemäss Ziff. II 1 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^365-9]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme, in Kraft seit 1. Jan. 2010 ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^365-10]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^365-11]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme, in Kraft seit 1. Jan. 2010 ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^365-12]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme, in Kraft seit 1. Jan. 2010 ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^365-13]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme, in Kraft seit 1. Jan. 2010 ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^365-14]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^365-15]: Eingefügt durch Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^365-16]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^365-17]: Eingefügt durch Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^365-18]: Eingefügt durch Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^365-19]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^365-20]: Eingefügt durch Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^365-21]: Eingefügt durch Ziff. I 6 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^365-22]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-
-### Inhalt
-
-#### Art. 366
-
-<sup>1</sup> Im Register sind Personen aufgeführt, die im Gebiete der Eidgenossenschaft verurteilt worden sind, sowie im Ausland verurteilte Schweizer.
-
-<sup>2</sup>
-
-Ins Register sind aufzunehmen:
-
-- a. die Urteile wegen Verbrechen und Vergehen, sofern eine Strafe oder Massnahme ausgesprochen worden ist;
-- b. die Urteile wegen der durch Verordnung des Bundesrates zu bezeichnenden Übertretungen dieses oder eines anderen Bundesgesetzes;
-- c. die aus dem Ausland eingehenden Mitteilungen über dort erfolgte, nach diesem Gesetz vormerkungspflichtige Urteile;
-- d. die Tatsachen, die eine Änderung erfolgter Eintragungen herbeiführen.
-
-<sup>3</sup>
-
-Urteile gegen Jugendliche wegen eines Verbrechens oder Vergehens sind aufzunehmen, wenn diese sanktioniert worden sind:
-
-- a. mit einem Freiheitsentzug (Art. 25 JStG[^366-1]);
-- b. mit einer Unterbringung (Art. 15 JStG);
-- c. mit einer ambulanten Behandlung (Art. 14 JStG); oder
-- d. mit einem Tätigkeitsverbot oder einem Kontakt- und Rayonverbot (Art. 16*a* JStG).[^366-2]
-
-<sup>3bis</sup> Urteile gegen Jugendliche wegen einer Übertretung sind aufzunehmen, wenn diese mit einem Tätigkeitsverbot oder einem Kontakt- und Rayonverbot (Art. 16*a* JStG) sanktioniert worden sind.[^366-3]
-
-<sup>4</sup> Im Register sind ebenfalls Personen aufgeführt, gegen die in der Schweiz Strafverfahren wegen Verbrechen und Vergehen hängig sind.[^366-4]
-
-[^366-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^366-2]: Eingefügt durch Art. 44 Ziff. 1 des Jugendstrafgesetzes vom 20. Juni 2003 ([AS 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551); BBl **1999** 1979). Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^366-3]: Eingefügt durch Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^366-4]: Ursprünglich Abs. 3.
-
-### Bearbeitung der Daten und Einsicht
-
-#### Art. 367
-
-<sup>1</sup>
-
-Folgende Behörden bearbeiten im Register Personendaten über Urteile nach Artikel 366 Absätze 1–3:[^367-1]
-
-- a. das Bundesamt für Justiz;
-- b. die Strafjustizbehörden;
-- c. die Militärjustizbehörden;
-- d. die Strafvollzugsbehörden;
-- e. die Koordinationsstellen der Kantone.
-
-<sup>2</sup>
-
-Folgende Behörden dürfen durch ein Abrufverfahren Einsicht in die Personendaten über Urteile nach Artikel 366 Absätze 1, 2 und 3 Buchstaben a und b nehmen:[^367-2]
-
-- a. die Behörden nach Absatz 1;
-- b. die Bundesanwaltschaft;
-- c.[^367-3]
-
-  das Bundesamt für Polizei:
-
-  - 1\. im Rahmen von gerichtspolizeilichen Ermittlungsverfahren,
-  - 2\. für die Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen für Vorläuferstoffe, die Überprüfung dieser Bewilligungen, die Bearbeitung von Verdachtsmeldungen im Zusammenhang mit Vorläuferstoffen und die Verfolgung und Beurteilung von Straftaten nach dem Vorläuferstoffgesetz vom 25. September 2020[^367-4];
-
-- d. die Gruppe Verteidigung[^367-5];
-- [tab] e.[^367-6] das Staatssekretariat für Migration[^367-7];
-- f.[^367-8] …
-- g. die kantonalen Fremdenpolizeibehörden;
-- h. die für den Strassenverkehr zuständigen Behörden der Kantone;
-- i.[^367-9] die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Artikel 2 Absatz 2 Buchstabe a des Bundesgesetzes vom 21. März 1997[^367-10] über Massnahmen zur Wahrung der inneren Sicherheit;
-- [tab] j.[^367-11] das Bundesamt für Zivildienst[^367-12];
-- k.[^367-13] die für Entscheide über den Ausschluss vom Schutzdienst zuständigen Stellen der Kantone;
-- l.[^367-14] die Zeugenschutzstelle des Bundes gemäss dem Bundesgesetz vom 23. Dezember 2011[^367-15] über den ausserprozessualen Zeugenschutz zur Erfüllung ihrer Aufgaben;
-- m.[^367-16] der NDB;
-- n.[^367-17] die für die Abklärung des Sicherheitsrisikos nach Artikel 108*c* LFG[^367-18] zuständigen kantonalen Polizeistellen.
-
-<sup>2bis</sup>
-
-Folgende Behörden dürfen durch ein Abrufverfahren auch Einsicht in die Personendaten über Urteile nach Artikel 366 Absatz 3 Buchstabe c nehmen:
-
-- a. die Gruppe Verteidigung[^367-19] zum Zwecke der Prüfung einer Nichtrekrutierung oder Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee oder Wiederzulassung zur Armee oder einer Degradation nach dem MG[^367-20], zur Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG, zur Prüfung der Eignung für eine Beförderung oder Ernennung nach dem MG;
-- b.[^367-21] die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Artikel 2 Absatz 2 Buchstabe a des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit;
-- c. Strafjustizbehörden zum Zwecke der Durchführung von Strafverfahren (Art. 365 Abs. 2 Bst. a);
-- d. kantonale Koordinationsstellen und das Bundesamt für Justiz zur Erfüllung der gesetzlichen Aufgaben im Rahmen der Registerführung;
-- e. Strafvollzugsbehörden für die Durchführung des Straf- und Massnahmenvollzuges (Art. 365 Abs. 2 Bst. c).[^367-22]
-
-<sup>2ter</sup> Behörden nach den Absätzen 2 Buchstaben c–l und 2<sup>septies</sup> können Urteile, die eine Landesverweisung enthalten, so lange einsehen, als die betroffene Person mit der Landesverweisung belegt ist. Dauert die Frist nach Artikel 369 länger, so ist sie für die Dauer der Einsichtsmöglichkeit massgebend.[^367-23]
-
-<sup>2quater</sup>
-
-Die für das Register zuständige Stelle des Bundes meldet der Gruppe Verteidigung für die Erfüllung der Aufgaben nach Artikel 365 Absatz 2 Buchstaben n–q laufend die folgenden neu in VOSTRA registrierten Daten von Stellungspflichtigen, Angehörigen der Armee sowie Schutzdienstpflichtigen:[^367-24]
-
-- a. Strafurteile wegen eines Verbrechens oder Vergehens;
-- b. freiheitsentziehenden Massnahmen;
-- c. Entscheide über die Nichtbewährung von Stellungspflichtigen und Angehörigen der Armee.[^367-25]
-
-<sup>2quinquies</sup> Gemeldet werden die Personalien der nach Absatz 2<sup>quater</sup> registrierten Schweizerinnen und Schweizer ab dem 17. Altersjahr. Stellt der Führungsstab der Armee fest, dass eine gemeldete Person stellungspflichtig oder Angehöriger der Armee ist, so meldet die für das Register zuständige Stelle auch die Strafdaten.[^367-26]
-
-<sup>2sexies</sup> Die Meldung und die Feststellung nach Absatz 2<sup>quinquies</sup> können über eine elektronische Schnittstelle zwischen dem Personalinformationssystem der Armee (PISA) und dem Register erfolgen.[^367-27]
-
-<sup>2septies</sup> Das Bundesamt für Sport kann zum Zwecke der Leumundsprüfung im Hinblick auf die Erteilung oder den Entzug einer Anerkennung als «Jugend und Sport»-Kader auf schriftliches Gesuch Einsicht in Personendaten über Strafurteile nehmen.[^367-28]
-
-<sup>3</sup> Der Bundesrat kann, wenn es die Anzahl der Auskunftsersuchen rechtfertigt, nach Anhörung des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten[^367-29] bis zur Inkraftsetzung der Rechtsgrundlagen in einem formellen Gesetz die Einsichtsrechte nach Absatz 2 auf weitere Justiz- und Verwaltungsbehörden des Bundes und der Kantone ausdehnen.
-
-<sup>4</sup> Personendaten über hängige Strafverfahren dürfen nur durch die Behörden nach Absatz 2 Buchstaben a–e, i, j und l–n bearbeitet werden.[^367-30]
-
-<sup>4bis</sup> …[^367-31]
-
-<sup>4ter</sup> Das Bundesamt für Sport kann zum Zwecke der Leumundsprüfung im Hinblick auf die Erteilung oder die Sistierung einer Anerkennung als «Jugend und Sport»-Kader auf schriftliches Gesuch Einsicht in Personendaten über hängige Strafverfahren nehmen.[^367-32]
-
-<sup>5</sup> Jeder Kanton bestimmt für die Bearbeitung der Daten im Register eine Koordinationsstelle.
-
-<sup>6</sup>
-
-Der Bundesrat legt die Einzelheiten fest, insbesondere:
-
-- a. die Verantwortung für die Datenbearbeitung;
-- b. die Kategorien der zu erfassenden Daten und deren Aufbewahrungsfristen;
-- c. die Zusammenarbeit mit den betroffenen Behörden;
-- d. die Aufgaben der Koordinationsstellen;
-- e. das Auskunftsrecht und die übrigen Verfahrensrechte zum Schutze der betroffenen Personen;
-- f. die Datensicherheit;
-- g. die Behörden, welche Personendaten in schriftlicher Form melden, ins Register eingeben, abfragen oder denen Personendaten im Einzelfall bekannt gegeben werden können;
-- h. die elektronische Datenweitergabe an das Bundesamt für Statistik.
-
-[^367-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-3]: Fassung gemäss Anhang Ziff. 2 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)). Diese Änd. wird mit Inkrafttreten des Strafregistergesetzes vom 17. Juni 2016 gegenstandslos oder aufgehoben ([SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [BBl 2016 4871](https://fedlex.data.admin.ch/eli/fga/2016/1052)) ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352)Art. 42).
-[^367-4]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^367-5]: Ausdruck gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-6]: Fassung gemäss Ziff. I 3 der V vom 3. Nov. 2004 über die Anpassung gesetzlicher Bestimmungen infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 1. Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
-[^367-7]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan 2015 angepasst.
-[^367-8]: Aufgehoben durch Ziff. I 3 der V vom 3. Nov. 2004 über die Anpassung gesetzlicher Bestimmungen infolge der Zusammenlegung der Bundesämter IMES und BFF, mit Wirkung seit 1. Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
-[^367-9]: Fassung gemäss Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-10]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^367-11]: Eingefügt durch Ziff. II des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^367-12]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst.
-[^367-13]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme, in Kraft seit 1. Jan. 2010 ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^367-14]: Eingefügt durch Anhang Ziff. 3 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^367-15]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^367-16]: Eingefügt durch Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-17]: Eingefügt durch Ziff. I 6 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^367-18]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^367-19]: Ausdruck gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-20]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^367-21]: Fassung gemäss Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-22]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-23]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-24]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-25]: Ursprünglich: Abs. 2<sup>ter</sup>. Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-26]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. März 2010 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Fassung gemäss Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-27]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-28]: Ursprünglich: Abs. 2<sup>sexies</sup>. Eingefügt durch Art. 34 Ziff. 1 und 36 des Sportförderungsgesetzes vom 17. Juni 2011, in Kraft seit 1. Okt. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
-[^367-29]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
-[^367-30]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^367-31]: Eingefügt durch Ziff. II 1 des BG vom 3. Okt. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Aufgehoben durch Ziff. II 1 des BG vom 25. Sept. 2015, mit Wirkung seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^367-32]: Eingefügt durch Art. 34 Ziff. 1 des Sportförderungsgesetzes vom 17. Juni 2011, in Kraft seit 1. Okt. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
-
-### Mitteilung registrierpflichtiger Tatsachen
-
-#### Art. 368
-
-Die zuständige Bundesbehörde kann die Eintragungen im Register dem Heimatstaat des Verurteilten mitteilen.
-
-### Entfernung des Eintrags
-
-#### Art. 369
-
-<sup>1</sup>
-
-Urteile, die eine Freiheitsstrafe enthalten, werden von Amtes wegen entfernt, wenn über die gerichtlich zugemessene Strafdauer hinaus folgende Fristen verstrichen sind:
-
-- a. 20 Jahre bei einer Freiheitsstrafe von mindestens fünf Jahren;
-- b. 15 Jahre bei einer Freiheitsstrafe von mindestens einem und weniger als fünf Jahren;
-- c. zehn Jahre bei Freiheitsstrafen unter einem Jahr;
-- d.[^369-1] zehn Jahre bei Freiheitsentzug nach Artikel 25 JStG[^369-2].
-
-<sup>2</sup> Die Fristen nach Absatz 1 verlängern sich um die Dauer einer bereits eingetragenen Freiheitsstrafe.
-
-<sup>3</sup> Urteile, die eine bedingte Freiheitsstrafe, einen bedingten Freiheitsentzug, eine Geldstrafe, gemeinnützige Arbeit oder eine Busse als Hauptstrafe enthalten, werden von Amtes wegen nach zehn Jahren entfernt.[^369-3]
-
-<sup>4</sup>
-
-Urteile, die eine stationäre Massnahme neben einer Strafe oder eine stationäre Massnahme allein enthalten, werden von Amtes wegen entfernt nach:
-
-- a. 15 Jahren bei Massnahmen nach den Artikeln 59–61 und 64;
-- b. [^369-4] zehn Jahren bei geschlossener Unterbringung nach Artikel 15 Absatz 2 des JStG;
-- c.[^369-5] sieben Jahren bei offener Unterbringung in einer Einrichtung oder bei Privatpersonen nach Artikel 15 Absatz 1 JStG.
-
-<sup>4bis</sup> Urteile, die eine ambulante Behandlung nach Artikel 63 allein enthalten, werden von Amtes wegen nach zehn Jahren entfernt. Urteile, die eine ambulante Behandlung nach Artikel 14 JStG enthalten, werden von Amtes wegen nach fünf Jahren entfernt, sofern eine Fristberechnung nach den Absätzen 1–4 nicht möglich ist.[^369-6]
-
-<sup>4ter</sup> Urteile, die eine Massnahme nach Artikel 66 Absatz 1, 67 Absatz 1 oder 67*e* dieses Gesetzes oder nach Artikel 48, 50 Absatz 1 oder 50*e* MStG[^369-7] allein enthalten, werden von Amtes wegen nach zehn Jahren entfernt.[^369-8]
-
-<sup>4quater</sup> Urteile, die ein Verbot nach Artikel 67 Absätze 2–4 oder nach 67*b* dieses Gesetzes oder nach Artikel 50 Absätze 2–4 oder nach 50*b* MStG allein enthalten, werden von Amtes wegen nach zehn Jahren entfernt.[^369-9]
-
-<sup>4quinquies</sup> Urteile, die ein Verbot nach Artikel 16*a* JStG allein enthalten, werden von Amtes wegen nach sieben Jahren entfernt.[^369-10]
-
-<sup>5</sup> Die Fristen nach Absatz 4 verlängern sich um die Dauer einer Reststrafe.
-
-<sup>5bis</sup> Urteile, die eine Landesverweisung enthalten, bleiben bis zum Tod der betroffenen Person eingetragen. Hat diese Person keinen Aufenthalt in der Schweiz, so wird das Urteil aus dem Strafregister spätestens 100 Jahre nach ihrer Geburt entfernt. Erwirbt die betroffene Person das Schweizer Bürgerrecht, so kann sie acht Jahre nach der Einbürgerung ein Gesuch um Entfernung des Urteils gemäss den Fristen nach den Absätzen 1–5 stellen.[^369-11]
-
-<sup>6</sup>
-
-Der Fristenlauf beginnt:
-
-- a.[^369-12] bei Urteilen nach den Absätzen 1, 3, 4<sup>ter</sup>, 4<sup>quater</sup> und 4<sup>quinquies</sup>: mit dem Tag, an dem das Urteil rechtskräftig wird;
-- b. bei Urteilen nach den Absätzen 4 und 4<sup>bis</sup>: mit dem Tag, an dem die Massnahme aufgehoben wird oder der Betroffene endgültig aus der Massnahme entlassen ist.[^369-13]
-
-<sup>7</sup> Nach der Entfernung darf die Eintragung nicht mehr rekonstruierbar sein. Das entfernte Urteil darf dem Betroffenen nicht mehr entgegengehalten werden.
-
-<sup>8</sup> Die Strafregisterdaten sind nicht zu archivieren.
-
-[^369-1]: Eingefügt durch Art. 44 Ziff. 1 des Jugendstrafgesetzes vom 20. Juni 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551); BBl **1999** 1979).
-[^369-2]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^369-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^369-4]: Fassung gemäss Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^369-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^369-6]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht)([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)). Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^369-7]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^369-8]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht) ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)). Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^369-9]: Eingefügt durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^369-10]: Eingefügt durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^369-11]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^369-12]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^369-13]: Fassung gemäss Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-
-### Entfernung von Urteilen mit einem Tätigkeitsverbot oder einem Kontakt- und Rayonverbot
+[^365369-1]: Aufgehoben durch Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 369a
 
 [^369a-1]
 
-Urteile, die ein Verbot nach Artikel 67 Absätze 2–4 oder nach 67*b* dieses Gesetzes, nach Artikel 50 Absätze 2–4 oder 50*b* MStG[^369a-2] oder nach Artikel 16*a* JStG[^369a-3] enthalten, werden von Amtes wegen entfernt, wenn über das Ende des Verbots hinaus zehn Jahre verstrichen sind.[^369a-4] Sind die Fristen nach Artikel 369 länger, so sind diese massgebend.
+[^369a-1]: Eingefügt durch Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)). Aufgehoben durch Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
-[^369a-1]: Eingefügt durch Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^369a-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^369a-3]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^369a-4]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+#### Art. 370 und 371
 
-### Einsichtsrecht
+[^370371-1]
 
-#### Art. 370
-
-<sup>1</sup> Jede Person hat das Recht, den vollständigen sie betreffenden Eintrag einzusehen.
-
-<sup>2</sup> Es darf keine Kopie ausgehändigt werden.
-
-### Privatauszug
-
-[^book3-tit6-lvlu8-1]
-
-[^book3-tit6-lvlu8-1]: Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-
-#### Art. 371
-
-<sup>1</sup> Jede Person kann beim schweizerischen Zentralstrafregister einen sie betreffenden schriftlichen Auszug aus dem Strafregister anfordern. In diesem erscheinen Urteile wegen Verbrechen und Vergehen; Urteile wegen Übertretungen erscheinen nur im Auszug, wenn ein Tätigkeitsverbot oder ein Kontakt- und Rayonverbot nach Artikel 67 oder 67*b* dieses Gesetzes oder nach Artikel 50 oder 50*b* MStG[^371-1] oder nach Artikel 16*a* JStG[^371-2] verhängt wurde.[^371-3]
-
-<sup>2</sup> Urteile betreffend Jugendliche erscheinen im Strafregisterauszug nur, wenn diese als Erwachsene wegen weiterer Taten verurteilt wurden, die in den Strafregisterauszug aufzunehmen sind.
-
-<sup>3</sup> Ein Urteil, das eine Strafe enthält, wird nicht mehr in den Strafregisterauszug aufgenommen, wenn zwei Drittel der für die Entfernung nach Artikel 369 Absätze 1–5 und 6 massgebenden Dauer abgelaufen sind.[^371-4]
-
-<sup>3bis</sup> Ein Urteil, das eine bedingte oder teilbedingte Strafe enthält, erscheint nicht mehr im Strafregisterauszug, wenn der Verurteilte sich bis zum Ablauf der Probezeit bewährt hat.[^371-5]
-
-<sup>4</sup> Ein Urteil, das neben einer Strafe eine Massnahme oder eine Massnahme allein enthält, wird nicht mehr in den Strafregisterauszug aufgenommen, wenn die Hälfte der für die Entfernung nach Artikel 369 Absätze 1–5 und 6 massgebenden Dauer abgelaufen ist.[^371-6]
-
-<sup>4bis</sup> Ein Urteil, das eine Landesverweisung enthält, erscheint so lange im Strafregisterauszug, als die betroffene Person mit der Landesverweisung belegt ist. Dauert die Frist nach Absatz 3 oder 4 länger, so ist sie für die Dauer des Erscheinens im Privatauszug massgebend.[^371-7]
-
-<sup>5</sup> Nach Ablauf der Fristen nach den Absätzen 3, 4 und 4<sup>bis</sup> bleibt das Urteil im Strafregisterauszug, wenn dieser noch ein Urteil enthält, bei dem diese Frist noch nicht abgelaufen ist.[^371-8]
-
-[^371-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^371-2]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^371-3]: Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^371-4]: Fassung gemäss Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^371-5]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^371-6]: Fassung gemäss Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^371-7]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^371-8]: Fassung gemäss Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-
-### Sonderprivatauszug
+[^370371-1]: Aufgehoben durch Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 371a
 
 [^371a-1]
 
-<sup>1</sup>
-
-Einen ihn betreffenden Sonderprivatauszug aus dem Strafregister kann anfordern, wer:
-
-- a.
-
-  sich bewirbt für:
-
-  - 1\. eine berufliche oder eine organisierte ausserberufliche Tätigkeit, die einen regelmässigen Kontakt mit Minderjährigen oder mit anderen besonders schutzbedürftigen Personen umfasst, oder
-  - 2\. eine berufliche oder eine organisierte ausserberufliche Tätigkeit im Gesundheitsbereich mit direktem Patientenkontakt; oder
-
-- b. eine Tätigkeit nach Buchstabe a ausübt.[^371a-2]
-
-<sup>2</sup>
-
-Er hat mit dem Antrag eine schriftliche Bestätigung vorzulegen, in welcher die Stelle, die den Sonderprivatauszug von ihm verlangt, sei es der Arbeitgeber, die Organisation oder die für die Bewilligung der Ausübung der Tätigkeit zuständige Behörde, bestätigt, dass:[^371a-3]
-
-- a. der Antragsteller sich auf die Tätigkeit nach Absatz 1 bewirbt beziehungsweise diese Tätigkeit ausübt; und
-- b. er für die neue Tätigkeit oder die Fortführung der Tätigkeit den Sonderprivatauszug beibringen muss.
-
-<sup>3</sup>
-
-Im Sonderprivatauszug erscheinen:
-
-- a.[^371a-4] Urteile, die ein Tätigkeitsverbot nach Artikel 67 Absätze 2–4 dieses Gesetzes oder nach Artikel 50 Absätze 2–4 MStG[^371a-5] enthalten;
-- b. Urteile, die ein Kontakt- und Rayonverbot nach Artikel 67*b* dieses Gesetzes oder nach Artikel 50*b* MStG enthalten, sofern dieses Verbot zum Schutz von Minderjährigen oder anderen besonders schutzbedürftigen Personen erlassen wurde;
-- c. Urteile gegen Jugendliche, die ein Tätigkeitsverbot nach Artikel 16*a* Absatz 1 JStG[^371a-6] oder ein Kontakt- und Rayonverbot nach Artikel 16*a* Absatz 2 JStG, das zum Schutz von unmündigen oder anderen besonders schutzbedürftigen Personen erlassen wurde, enthalten.
-
-<sup>4</sup> Ein Urteil wird so lange im Sonderprivatauszug aufgeführt, als ein in ihm enthaltenes Verbot nach Absatz 3 besteht.
-
-[^371a-1]: Eingefügt durch Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^371a-2]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^371a-3]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^371a-4]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^371a-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^371a-6]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^371a-1]: Eingefügt durch Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)). Aufgehoben durch Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ### Siebenter Titel: Straf- und Massnahmenvollzug, Bewährungshilfe, Anstalten und Einrichtungen
 
@@ -6789,7 +6448,7 @@ Der Bundesrat ist befugt, nach Anhörung der Kantone Bestimmungen zu erlassen ü
 
 <sup>2</sup> Der Bundesrat kann über die Trennung der Anstalten des Kantons Tessin auf Antrag der zuständigen kantonalen Behörde besondere Bestimmungen aufstellen.
 
-<sup>3</sup> Der Bundesrat kann vorsehen, dass aus dem Strafregister entfernte Daten zum Zweck der Forschung weiterhin aufbewahrt werden können; dabei ist der Persönlichkeitsschutz zu wahren und sind die Grundsätze des Datenschutzes einzuhalten.
+<sup>3</sup> …[^387-2]
 
 <sup>4</sup>
 
@@ -6801,6 +6460,7 @@ Der Bundesrat kann versuchsweise und für beschränkte Zeit:
 <sup>5</sup> Die kantonalen Ausführungsbestimmungen für die Erprobung neuer Sanktionen und Vollzugsformen und den privat geführten Strafvollzug (Abs. 4) bedürfen zu ihrer Gültigkeit der Genehmigung des Bundes.
 
 [^387-1]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Lebenslängliche Verwahrung extrem gefährlicher Straftäter), in Kraft seit 1. Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413); [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
+[^387-2]: Aufgehoben durch Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ### 3. Allgemeine Übergangsbestimmungen.
 
@@ -6868,11 +6528,7 @@ Dieses Gesetz tritt am 1. Januar 1942 in Kraft.
 
 <sup>2</sup> Bis spätestens zwölf Monate nach Inkrafttreten des neuen Rechts überprüft das Gericht, ob bei Personen, die nach den Artikeln 42 oder 43 Ziffer 1 Absatz 2 des bisherigen Rechts verwahrt sind, die Voraussetzungen für eine therapeutische Massnahme (Art. 59–61 oder 63) erfüllt sind. Trifft dies zu, so ordnet das Gericht die entsprechende Massnahme an; andernfalls wird die Verwahrung nach neuem Recht weitergeführt.
 
-\3. Strafregister
-
-<sup>1</sup> Die Bestimmungen des neuen Rechts über das Strafregister (Art. 365–371) sind auch auf Urteile anwendbar, die auf Grund des bisherigen Rechts ergangen sind.
-
-<sup>3</sup> Nach bisherigem Recht gelöschte Eintragungen erscheinen nicht mehr im Strafregisterauszug für Privatpersonen.[^u2-7]
+3.[^u2-7] …
 
 \4. Einrichtungen für den Massnahmenvollzug
 
@@ -6883,21 +6539,13 @@ Die Kantone errichten bis spätestens zehn Jahre nach Inkrafttreten dieser Ände
 - a. Die nachträgliche Anordnung der Verwahrung nach Artikel 65 Absatz 2 ist nur zulässig, wenn die Verwahrung auch gestützt auf Artikel 42 oder 43 Ziffer 1 Absatz 2 des bisherigen Rechts möglich gewesen wäre.
 - b. Die Einweisung junger Erwachsener in eine Arbeitserziehungsanstalt (Art. 100<sup>bis</sup> in der Fassung vom 18. März 1971[^u2-8]) und eine Massnahme für junge Erwachsene (Art. 61) dürfen nicht länger als vier Jahre dauern.
 
-<sup>2</sup> Bis spätestens sechs Monate nach Inkrafttreten des neuen Rechts entfernt die zuständige Behörde von Amtes wegen Eintragungen betreffend:
-
-- a. Erziehungsmassnahmen (Art. 91 in der Fassung vom 18. März 1971[^u2-9]), ausgenommen diejenigen, die gestützt auf Artikel 91 Ziffer 2 in der Fassung vom 18. März 1971 angeordnet wurden;
-- b. besondere Behandlung (Art. 92 in der Fassung vom 18. März 1971);
-- c. die Verpflichtung zu einer Arbeitsleistung (Art. 95 in der Fassung vom 18. März 1971).[^u2-10]
-
 [^u2-2]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 [^u2-3]: BS **3** 203
 [^u2-4]: [AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)
 [^u2-5]: BS **3** 203
 [^u2-6]: Fassung gemäss Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^u2-7]: Eingefügt durch Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
+[^u2-7]: Aufgehoben durch Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, mit Wirkung seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^u2-8]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^u2-9]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^u2-10]: Fassung gemäss Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
 ## Übergangsbestimmung zur Änderung vom 26. September 2014
 
