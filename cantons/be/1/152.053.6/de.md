@@ -2,24 +2,24 @@
 canton: BE
 number: "152.053.6"
 title: Reglement über die Berechtigungen der Gerichtsbehörden und der Staatsanwaltschaft für die zentralen Personendatensammlungen
-short: PDSR JUS
+short: PDS R JUS
 language: de
-version: 2022-03-01
-valid_until: 2023-01-22
-version_adopted: 2022-02-24
+version: 2023-01-23
+valid_until: 2023-12-31
+version_adopted: 2022-11-10
 adopted: 2022-02-24
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.053.6"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2560/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2773/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Berechtigungen der Gerichtsbehörden und der Staatsanwaltschaft für die zentralen Personendatensammlungen
 
-(PDSR JUS)
+(PDS R JUS)
 
-vom 24.02.2022 (Stand 01.03.2022)
+vom 24.02.2022 (Stand 23.01.2023)
 
 Die Justizleitung des Kantons Bern,
 

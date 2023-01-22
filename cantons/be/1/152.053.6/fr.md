@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "152.053.6"
-title: "Règlement sur les droits d'accès aux fichiers centralisés de données personnelles délivrés par les autorités judiciaires et le Ministère public"
-short: FDPR JUS
+title: "Règlement sur les droits d'accès aux fichiers centralisés de données personnelles délivrés par les autorités judiciaires et le Ministère public *"
+short: FDP R JUS
 language: fr
-version: 2022-03-01
-valid_until: 2023-01-22
-version_adopted: 2022-02-24
+version: 2023-01-23
+valid_until: 2023-12-31
+version_adopted: 2022-11-10
 adopted: 2022-02-24
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.053.6"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2560/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2773/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Règlement sur les droits d'accès aux fichiers centralisés de données personnelles délivrés par les autorités judiciaires et le Ministère public
 
-(FDPR JUS)
+(FDP R JUS)
 
-du 24.02.2022 (état au 01.03.2022)
+du 24.02.2022 (état au 23.01.2023)
 
 La Direction de la magistrature du canton de Berne,
 
