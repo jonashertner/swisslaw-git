@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 1995 sul servizio civile sostitutivo (Legge
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: it
-version: 2022-01-01
+version: 2023-01-23
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20220101/it"
 
 (Legge sul servizio civile, LSC)
 
-del 6 ottobre 1995 (Stato 1° gennaio 2022)
+del 6 ottobre 1995 (Stato 23 gennaio 2023) (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -256,7 +256,7 @@ L’obbligo di prestare servizio civile vincola a:
 
 <sup>2</sup> L’obbligo di custodia in luogo sicuro e di manutenzione dell’equipaggiamento personale, il disbrigo delle formalità amministrative per il proscioglimento dall’obbligo di prestare servizio militare e la riconsegna dell’equipaggiamento personale sono retti dalla legislazione militare.
 
-[^10-1]: Nuovo testo giusta il n. 8 dell’all. alla LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^10-1]: Nuovo testo giusta l’all. n. 8 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 11
 
@@ -284,7 +284,7 @@ L’organo d’esecuzione pronuncia il licenziamento anticipato dal servizio civ
 
 <sup>4</sup> …[^11-4]
 
-[^11-1]: Nuovo testo giusta il n. 8 dell’all. alla LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^11-1]: Nuovo testo giusta l’all. n. 8 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^11-2]: Introdotto dal n. I della LF del 21 mar. 2003 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^11-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^11-4]: Abrogato dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
@@ -297,7 +297,7 @@ L’organo d’esecuzione pronuncia il licenziamento anticipato dal servizio civ
 
 <sup>2</sup> L’organo d’esecuzione può escludere temporaneamente una persona da prestazioni di servizio civile quando un procedimento penale pendente fa sorgere dubbi fondati in merito alla sua tollerabilità per il servizio civile.
 
-<sup>3</sup> Ai fini della decisione relativa all’esclusione dal servizio civile o da prestazioni di servizio civile, l’organo d’esecuzione può consultare, conformemente all’articolo 367 capoversi 2 lettera j e 4 del Codice penale (CP)[^12-2] in combinato disposto con l’articolo 365 capoverso 2 lettera l CP, i dati del casellario giudiziale concernenti le sentenze e i procedimenti penali pendenti.
+<sup>3</sup> Ai fini della decisione relativa all’esclusione dal servizio civile o da prestazioni di servizio civile, l’organo d’esecuzione può consultare i dati del casellario giudiziale, conformemente alle disposizioni della legge del 17 giugno 2016[^12-2] sul casellario giudiziale (LCaGi).[^12-3]
 
 <sup>4</sup>
 
@@ -309,7 +309,8 @@ Se necessario ai fini della decisione, l’organo d’esecuzione può chiedere p
 <sup>5</sup> L’autorità giudicante o il pubblico ministero dà seguito alla richiesta se ciò non lede i diritti della personalità di terzi e non mette a rischio lo scopo dell’indagine.
 
 [^12-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^12-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^12-3]: Nuovo testo giusta l’all. 1 n. 12 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 13
 
@@ -421,7 +422,7 @@ Su domanda dell’organo d’esecuzione, il servizio competente del Dipartimento
 - c.[^16c-2] incorporazione nell’esercito e cessazione prevista dell’obbligo di prestare servizio militare.
 
 [^16c-1]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^16c-2]: Introdotta dal n. 8 dell’all. alla LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16c-2]: Introdotto dall’all. n. 8 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 17
 
@@ -513,7 +514,7 @@ L’organo d’esecuzione verifica:
 - b. se il comportamento tenuto nell’ambito del servizio civile dalla persona che deve prestare servizio civile fa sorgere dubbi fondati sulla sua idoneità all’impiego previsto;
 - c. se, nel caso di impieghi all’estero, la persona che deve prestare servizio civile dispone, sulla base di giustificativi, delle qualifiche necessarie secondo il mansionario.
 
-<sup>4</sup> Per la verifica della reputazione di cui al capoverso 3 lettera a l’organo d’esecuzione può consultare, conformemente all’articolo 367 capoversi 2 lettera j e 4 CP[^19-2] in combinato disposto con l’articolo 365 capoverso 2 lettera m CP, i dati del casellario giudiziale concernenti le sentenze e i procedimenti penali pendenti.
+<sup>4</sup> Per la verifica della reputazione di cui al capoverso 3 lettera a l’organo d’esecuzione può consultare i dati del casellario giudiziale, conformemente alle disposizioni della LCaGi[^19-2].[^19-3]
 
 <sup>5</sup>
 
@@ -529,7 +530,8 @@ Se necessario ai fini della verifica della reputazione, l’organo d’esecuzion
 <sup>8</sup> L’organo d’esecuzione rifiuta di approvare la convenzione d’impiego se la reputazione della persona che deve prestare servizio civile non ne consente l’impiego o, in caso d’impiego all’estero, se la persona non dispone delle qualifiche necessarie. L’organo d’esecuzione può rifiutarsi di approvare la convenzione d’impiego se nutre dubbi fondati sull’idoneità all’impiego della persona che deve prestare servizio civile.
 
 [^19-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-3]: Nuovo testo giusta l’all. 1 n. 12 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 20
 
@@ -717,7 +719,7 @@ Chi presta servizio civile soggiace all’obbligo di discrezione vigente nell’
 
 Chi sta prestando servizio civile non può esercitare alcuna attività lucrativa nell’istituto d’impiego.
 
-### Sezione 4: Formazione****
+### Sezione 4: Formazione
 
 [^chap4-sec4-1]
 
@@ -796,7 +798,7 @@ Chi presta servizio civile è assicurato conformemente alla legge federale del 1
 [^40-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^40-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
-### Sezione 7:**** Segni distintivi delle persone che prestano servizio civile, degli istituti d’impiego e degli impieghi di gruppo
+### Sezione 7: Segni distintivi delle persone che prestano servizio civile, degli istituti d’impiego e degli impieghi di gruppo
 
 [^chap4-sec7-1]
 
@@ -1011,7 +1013,7 @@ La Confederazione risponde dei danni giusta le disposizioni in materia di respon
 
 <sup>3</sup> Risarcito il danno, l’istituto d’impiego può esercitare regresso contro la Confederazione, sempre che conformemente all’applicazione per analogia dell’articolo 321*e* del Codice delle obbligazioni[^53-2] esso potrebbe richiedere risarcimento alla persona che presta servizio civile.
 
-[^53-1]: Abrogata dal n. 6 dell’all. alla LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 1 766,1994V897).
+[^53-1]: Abrogata dall’all. n. 6 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 1 766,1994V897).
 [^53-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 54
@@ -1072,7 +1074,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 <sup>3</sup> …[^58-2]
 
 [^58-1]: Ora: La Posta Svizzera
-[^58-2]: Abrogato dal n. 105 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^58-2]: Abrogato dall’all. n. 105 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 59
 
@@ -1084,7 +1086,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 
 <sup>3</sup> Se il fatto dannoso commesso dal responsabile costituisce un fatto punibile, l’azione di risarcimento della Confederazione si prescrive al più presto alla scadenza del termine di prescrizione dell’azione penale. Se le prescrizione dell’azione penale si estingue a seguito di una sentenza penale di prima istanza, l’azione di risarcimento si prescrive al più presto in tre anni dalla comunicazione della sentenza.
 
-[^59-1]: Nuovo testo giusta il n. 20 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^59-1]: Nuovo testo giusta l’all. n. 20 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 60
@@ -1095,7 +1097,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 
 <sup>2</sup> Il diritto di regresso della Confederazione contro una persona che presta servizio civile si prescrive in tre anni dal riconoscimento o dall’accertamento con forza di giudicato della responsabilità della Confederazione, ma comunque in dieci anni o, in caso di morte di una persona o di lesione corporale, in vent’anni dal giorno in cui il fatto dannoso è stato commesso o è cessato.[^60-1]
 
-[^60-1]: Nuovo testo giusta il n. 20 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^60-1]: Nuovo testo giusta l’all. n. 20 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 61
 
@@ -1108,7 +1110,7 @@ La Confederazione gli versa un’equa indennità, tenendo conto in particolare s
 [^61-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^61-2]: Ora: La Posta Svizzera
 
-## Capitolo 8: Tutela giurisdizionale****
+## Capitolo 8: Tutela giurisdizionale
 
 [^chap8-1]
 
@@ -1165,7 +1167,7 @@ Il termine per interporre ricorso al Tribunale amministrativo federale è di:[^6
 - a.[^66-2] 10 giorni per ricorsi contro misure disciplinari, convocazioni e decisioni d’interruzione o di proroga di impieghi;
 - b. 30 giorni per gli altri casi.
 
-[^66-1]: Nuovo testo giusta il n. 105 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^66-1]: Nuovo testo giusta l’all. n. 105 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^66-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 
 ## Capitolo 9: Procedura disciplinare e disposizioni penali
@@ -1230,7 +1232,7 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 <sup>4</sup> Fatto salvo l’articolo 75, il colpevole è esente da pena se in seguito ad incapacità al lavoro viene licenziato anticipatamente dal servizio civile e questa incapacità sussisteva già al momento del fatto.
 
 [^72-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^72-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^72-2]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 [^72-3]: Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 #### Art. 73
@@ -1247,9 +1249,9 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 
 <sup>5</sup> Fatto salvo l’articolo 75, il colpevole è esente da pena se in seguito ad incapacità al lavoro viene licenziato anticipatamente dal servizio civile e questa incapacità sussisteva già al momento del fatto.
 
-[^73-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^73-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^73-3]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^73-1]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^73-2]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^73-3]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 #### Art. 74
 
@@ -1263,8 +1265,8 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 
 <sup>4</sup> Fatto salvo l’articolo 75, il colpevole è esente da pena se in seguito ad incapacità al lavoro viene licenziato anticipatamente dal servizio civile e questa incapacità sussisteva già al momento del fatto.
 
-[^74-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^74-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^74-1]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^74-2]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 #### Art. 75
 
@@ -1274,7 +1276,7 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-[^75-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^75-1]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 #### Art. 76
 
@@ -1284,7 +1286,7 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 
 <sup>2</sup> Se il colpevole viola gravemente i suoi obblighi durante un servizio civile straordinario, il giudice può pronunciare una pena pecuniaria fino a 90 aliquote giornaliere.
 
-[^76-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^76-1]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 #### Art. 77
 
@@ -1302,7 +1304,7 @@ L’organo d’esecuzione stabilisce la misura disciplinare a seconda della colp
 
 <sup>2</sup> Il procedimento penale è aperto su denuncia dell’organo d’esecuzione e spetta ai Cantoni.
 
-[^78-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^78-1]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
 #### Art. 78a
 
@@ -1463,7 +1465,7 @@ L’organo d’esecuzione comunica dati personali agli organi qui appresso in qu
 
 [^83b-1]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogato dal n. I della LF del 25 set. 2015, con effetto dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
-### Sezione 2*b*:**** Disposizione transitoria della modifica del 25 settembre 2015
+### Sezione 2*b*: Disposizione transitoria della modifica del 25 settembre 2015
 
 [^chap10-sec2b-1]
 
@@ -1473,11 +1475,11 @@ L’organo d’esecuzione comunica dati personali agli organi qui appresso in qu
 
 Le persone che devono prestare servizio civile e che hanno presentato una domanda d’ammissione al servizio civile prima dell’entrata in vigore della modifica del 25 settembre 2015 seguono il corso d’introduzione secondo il diritto anteriore.
 
-### Sezione 2*c*:**** Disposizioni transitorie della modifica del 18 marzo 2016
+### Sezione 2*c*: Disposizioni transitorie della modifica del 18 marzo 2016
 
 [^chap10-sec2c-1]
 
-[^chap10-sec2c-1]: Introdotta dal n. 8 dell’all. alla LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^chap10-sec2c-1]: Introdotta dall’all. n. 8 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 83d
 

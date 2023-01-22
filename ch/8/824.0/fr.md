@@ -4,11 +4,11 @@ title: Loi fédérale du 6 octobre 1995 sur le service civil (LSC)
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: fr
-version: 2022-01-01
+version: 2023-01-23
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20220101/fr"
 
 (LSC)
 
-du 6 octobre 1995 (Etat le 1<sup>er</sup> janvier 2022)
+du 6 octobre 1995 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -295,7 +295,7 @@ L’organe d’exécution prononce la libération avant terme du service civil d
 
 <sup>2</sup> Il peut interdire à titre provisoire aux personnes astreintes d’accomplir des périodes de service lorsqu’une procédure pénale en cours éveille des doutes légitimes sur la compatibilité de leur présence avec les impératifs du service.
 
-<sup>3</sup> Afin de décider de l’exclusion du service civil ou de l’interdiction d’accomplir des périodes de service, l’organe d’exécution peut consulter les données du casier judiciaire relatives aux jugements et aux procédures pénales en cours, conformément à l’art. 367, al. 2, let. j, et 4, du code pénal (CP)[^12-2], en relation avec l’art. 365, al. 2, let. l, CP.
+<sup>3</sup> Afin de décider de l’exclusion du service civil ou de l’interdiction d’accomplir des périodes de service, l’organe d’exécution peut consulter les données du casier judiciaire, conformément aux dispositions de la loi du 17 juin 2016 sur le casier judiciaire (LCJ)[^12-2].[^12-3]
 
 <sup>4</sup>
 
@@ -307,7 +307,8 @@ Si l’organe d’exécution a besoin d’informations complémentaires pour ren
 <sup>5</sup> L’autorité qui a statué ou le ministère public accèdent à la requête si celle-ci ne lèse pas les droits de la personnalité de tiers et qu’elle ne compromet pas l’instruction.
 
 [^12-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^12-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^12-3]: Nouvelle teneur selon l’annexe 1 ch. 12 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 13
 
@@ -510,7 +511,7 @@ L’organe d’exécution vérifie:
 - b. que le comportement de la personne astreinte lors du service civil n’éveille pas de doutes légitimes sur son aptitude à l’affectation prévue;
 - c. en cas d’affectation à l’étranger, que la personne astreinte justifie des qualifications professionnelles exigées dans le cahier des charges.
 
-<sup>4</sup> Afin de vérifier la réputation de la personne astreinte au sens de l’al. 3, let. a, il peut consulter les données du casier judiciaire relatives aux jugements et aux procédures pénales en cours, conformément à l’art. 367, al. 2, let. j, et 4, CP[^19-2], en relation avec l’art. 365, al. 2, let. m, CP.
+<sup>4</sup> Afin de vérifier la réputation de la personne astreinte au sens de l’al. 3, let. a, il peut consulter les données du casier judiciaire conformément aux dispositions de la LCJ[^19-2].[^19-3]
 
 <sup>5</sup>
 
@@ -526,7 +527,8 @@ Si l’organe d’exécution a besoin d’informations complémentaires pour vé
 <sup>8</sup> L’organe d’exécution refuse d’approuver la convention d’affectation si la réputation de la personne astreinte ne permet pas l’affectation ou, en cas d’affectation à l’étranger, si la personne astreinte ne dispose pas des qualifications professionnelles exigées. Il peut refuser d’approuver la convention d’affectation s’il a des doutes légitimes sur l’aptitude de la personne astreinte à l’affectation.
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^19-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-3]: Nouvelle teneur selon l’annexe 1 ch. 12 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 20
 
@@ -716,7 +718,7 @@ La personne en service est tenue de respecter l’obligation de garder le secret
 
 Pendant son affectation, la personne en service n’a pas le droit d’exercer une activité lucrative dans l’établissement d’affectation.
 
-### Section 4 Formation****
+### Section 4 Formation
 
 [^chap4-sec4-1]
 
@@ -793,7 +795,7 @@ La personne accomplissant le service civil est assurée conformément à la loi 
 [^40-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^40-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
-### Section 7**** Signes distinctifs des personnes accomplissant le service civil, des établissements d’affectation et des affectations en groupe
+### Section 7 Signes distinctifs des personnes accomplissant le service civil, des établissements d’affectation et des affectations en groupe
 
 [^chap4-sec7-1]
 
@@ -1200,7 +1202,7 @@ L’organe d’exécution fixe la sanction disciplinaire d’après la faute com
 [^71-1]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^71-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
-### Section 2 Dispositions pénales****
+### Section 2 Dispositions pénales
 
 [^chap9-sec2-1]
 
@@ -1452,7 +1454,7 @@ L’organe d’exécution communique aux services ci-après les données personn
 
 [^83b-1]: Introduit par le ch. I de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogé par le ch. I de la LF du 25 sept. 2015, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
-### Section 2*b***** Disposition transitoire relative à la modification du 25 septembre 2015
+### Section 2*b* Disposition transitoire relative à la modification du 25 septembre 2015
 
 [^chap10-sec2b-1]
 
@@ -1462,7 +1464,7 @@ L’organe d’exécution communique aux services ci-après les données personn
 
 Les personnes astreintes au service civil qui ont déposé une demande d’admission avant l’entrée en vigueur de la modification du 25 septembre 2015 suivent le cours d’introduction prévu par l’ancien droit.
 
-### Section 2*c***** Dispositions transitoires relatives à la modification du 18 mars 2016
+### Section 2*c* Dispositions transitoires relatives à la modification du 18 mars 2016
 
 [^chap10-sec2c-1]
 

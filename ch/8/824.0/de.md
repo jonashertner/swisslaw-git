@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 1995 über den zivilen Ersatzdienst (Zivildi
 short: ZDG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: de
-version: 2022-01-01
+version: 2023-01-23
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20220101/de"
 
 (Zivildienstgesetz, ZDG)
 
-vom 6. Oktober 1995 (Stand am 1. Januar 2022)
+vom 6. Oktober 1995 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -90,7 +90,7 @@ Der Zivildienst setzt seine Ziele in folgenden Tätigkeitsbereichen um:[^4-1]
 - b<sup>bis</sup>.[^4-2] Schulwesen: Vorschulstufe bis Sekundarstufe II;
 - c.[^4-3] Kulturgütererhaltung;
 - d.[^4-4] Umwelt- und Naturschutz, Landschaftspflege und Wald;
-- e.[^4-5] ...
+- e.[^4-5] …
 - f. Landwirtschaft;
 - g. Entwicklungszusammenarbeit und humanitäre Hilfe;
 - h.[^4-6] Vorbeugung und Bewältigung von Katastrophen und Notlagen sowie Regeneration nach solchen Ereignissen.
@@ -280,7 +280,7 @@ Die Vollzugsstelle verfügt die vorzeitige Entlassung aus dem Zivildienst, wenn 
 - c. im Zusammenhang mit ihrer Zivildienstpflicht gegenüber einer Person in einem solchen Ausmass gedroht hat, Gewalt anzuwenden, oder Gewalt angewendet hat, dass sie für den Zivildienst untragbar ist;
 - d. auf ihr Gesuch hin zur Militärdienstleistung zugelassen worden ist; ein Gesuch um Zulassung zum Militärdienst kann nur stellen, wer seinen ersten Zivildiensteinsatz ordentlich beendet hat.[^11-3]
 
-<sup>4</sup> ...[^11-4]
+<sup>4</sup> …[^11-4]
 
 [^11-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^11-2]: Eingefügt durch Ziff. I des BG vom 21. März 2003 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
@@ -295,7 +295,7 @@ Die Vollzugsstelle verfügt die vorzeitige Entlassung aus dem Zivildienst, wenn 
 
 <sup>2</sup> Sie kann eine zivildienstpflichtige Person vorübergehend von der Zivildienstleistung ausschliessen, wenn aufgrund eines hängigen Strafverfahrens berechtigte Zweifel bestehen, dass sie für den Zivildienst tragbar ist.
 
-<sup>3</sup> Für ihren Entscheid über den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung kann sie nach Artikel 367 Absätze 2 Buchstabe j und 4 des Strafgesetzbuches (StGB)[^12-2] in Verbindung mit Artikel 365 Absatz 2 Buchstabe l StGB Einsicht in die Strafregisterdaten über Urteile sowie über hängige Strafverfahren nehmen.
+<sup>3</sup> Für ihren Entscheid über den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung kann sie nach den Bestimmungen des Strafregistergesetzes vom 17. Juni 2016[^12-2] (StReG) Einsicht in Strafregisterdaten nehmen.[^12-3]
 
 <sup>4</sup>
 
@@ -307,7 +307,8 @@ Sofern es für den Entscheid notwendig ist, kann sie die nachstehenden Behörden
 <sup>5</sup> Die urteilende Behörde beziehungsweise die Staatsanwaltschaft leistet dem Ersuchen Folge, es sei denn, dass dadurch Persönlichkeitsrechte Dritter beeinträchtigt werden oder der Untersuchungszweck gefährdet wird.
 
 [^12-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^12-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^12-3]: Fassung gemäss Anhang 1 Ziff. 12 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 13
 
@@ -345,7 +346,7 @@ Die Vollzugsstelle:
 - a. legt die Dauer der ausserordentlichen Zivildienstleistungen der betroffenen Personen fest;
 - b. kann Entlassungen aus der Zivildienstpflicht später verfügen als in Artikel 11 vorgesehen;
 - c. kann Pikettdienst anordnen;
-- d.[^14-2] ...
+- d.[^14-2] …
 - e. kann selbst die Rechte und Pflichten eines Einsatzbetriebes übernehmen.
 
 <sup>6</sup> Einsatzbetriebe können ihr Weisungsrecht nach Artikel 49 zeitlich befristet unterstützungsbedürftigen Dritten übertragen.
@@ -427,7 +428,7 @@ Die zuständige Amtsstelle des Eidgenössischen Departementes für Verteidigung,
 
 <sup>1</sup> Die gesuchstellende Person, welche ihr Gesuch spätestens drei Monate vor der nächsten Militärdienstleistung einreicht, ist nicht einrückungspflichtig, solange über ihr Gesuch nicht rechtskräftig entschieden ist. Später eingereichte Gesuche entbinden bis zur Zustellung des Zulassungsentscheides nicht von der Pflicht, die Militärdienstleistung zu erbringen.[^17-1]
 
-<sup>1bis</sup> ...[^17-2]
+<sup>1bis</sup> …[^17-2]
 
 <sup>2</sup> Der Bundesrat regelt, in welchen Fällen von den Grundsätzen nach Absatz 1 abgewichen werden kann.
 
@@ -510,7 +511,7 @@ Die Vollzugsstelle prüft:
 - b. ob das bisherige Verhalten der zivildienstpflichtigen Person im Zivildienst Anlass zu begründeten Zweifeln an der Eignung für den vorgesehenen Einsatz gibt;
 - c. bei Auslandeinsätzen anhand von Belegen, ob die fachliche Qualifikation nach dem Pflichtenheft vorliegt.
 
-<sup>4</sup> Für die Prüfung des Leumunds nach Absatz 3 Buchstabe a kann sie nach Artikel 367 Absätze 2 Buchstabe j und 4 StGB[^19-2] in Verbindung mit Artikel 365 Absatz 2 Buchstabe m StGB Einsicht in die Strafregisterdaten über Urteile sowie über hängige Strafverfahren nehmen.
+<sup>4</sup> Für die Prüfung des Leumunds nach Absatz 3 Buchstabe a kann sie nach den Bestimmungen des StReG[^19-2] Einsicht in Strafregisterdaten nehmen.[^19-3]
 
 <sup>5</sup>
 
@@ -526,7 +527,8 @@ Sofern es für die Prüfung des Leumunds notwendig ist, kann die Vollzugsstelle 
 <sup>8</sup> Die Vollzugsstelle verweigert die Genehmigung, wenn der Leumund der zivildienstpflichtigen Person den Einsatz nicht zulässt oder die fachliche Qualifikation für den Auslandeinsatz nicht vorliegt. Sie kann die Genehmigung verweigern, wenn sie begründete Zweifel hat, dass sich die zivildienstpflichtige Person für den Einsatz eignet.
 
 [^19-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^19-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-3]: Fassung gemäss Anhang 1 Ziff. 12 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 20
 
@@ -592,11 +594,11 @@ Der zivildienstleistenden Person stehen die verfassungsmässigen und gesetzliche
 
 <sup>1</sup> Die zivildienstpflichtige Person erhält im Zusammenhang mit dem Zivildienst soweit notwendig soziale und rechtliche Beratung.[^26-1]
 
-<sup>2</sup> ...[^26-2]
+<sup>2</sup> …[^26-2]
 
 <sup>3</sup> Für die soziale Beratung und Unterstützung zivildienstleistender Personen gilt das Zuständigkeitsgesetz vom 24. Juni 1977[^26-3] sinngemäss.
 
-<sup>4</sup> und <sup>5</sup> ...[^26-4]
+<sup>4</sup> und <sup>5</sup> …[^26-4]
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^26-2]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2015, mit Wirkung seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
@@ -716,7 +718,7 @@ Die zivildienstleistende Person untersteht der betriebsüblichen Schweigepflicht
 
 Die zivildienstleistende Person darf während des Einsatzes keine Erwerbstätigkeit innerhalb des Einsatzbetriebes ausüben.
 
-### 4. Abschnitt: Ausbildung****
+### 4. Abschnitt: Ausbildung
 
 [^chap4-sec4-1]
 
@@ -795,7 +797,7 @@ Wer Zivildienst leistet, ist nach dem Bundesgesetz vom 19. Juni 1992[^40-2] übe
 [^40-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^40-2]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
-### 7. Abschnitt:**** Kennzeichnung von zivildienstleistenden Personen, Einsatzbetrieben und Gruppeneinsätzen
+### 7. Abschnitt: Kennzeichnung von zivildienstleistenden Personen, Einsatzbetrieben und Gruppeneinsätzen
 
 [^chap4-sec7-1]
 
@@ -859,7 +861,7 @@ Sie kann das Gesuch ablehnen, wenn:
 
 <sup>2</sup> Das Verfahren ist kostenlos. Im Übrigen gelten die Bestimmungen des Bundesgesetzes vom 20. Dezember 1968[^43-2] über das Verwaltungsverfahren.
 
-<sup>3</sup> ...[^43-3]
+<sup>3</sup> …[^43-3]
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^43-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
@@ -995,7 +997,7 @@ Der Bund haftet für den Schaden, den die zivildienstleistende Person in Erfüll
 Der Bund ist nach den Haftungsbestimmungen ersatzpflichtig, die auf Arbeitnehmerinnen und Arbeitnehmer des Einsatzbetriebes anwendbar sind:
 
 - a. wenn der Einsatzbetrieb eine öffentlich-rechtliche juristische Person ist und deren Haftungsbestimmungen keinen direkten Anspruch gegen sie vorsehen;
-- b.[^53-1] ...
+- b.[^53-1] …
 
 <sup>3</sup> Hat der Einsatzbetrieb Ersatz geleistet, so kann er auf den Bund Rückgriff nehmen, soweit er in sinngemässer Anwendung von Artikel 321*e* des Obligationenrechts[^53-2] von der zivildienstleistenden Person Schadenersatz beanspruchen könnte.
 
@@ -1057,7 +1059,7 @@ Der Bund richtet ihr eine angemessene Entschädigung aus. Er berücksichtigt dab
 
 <sup>2</sup> Zuständig für den Erlass von Verfügungen im Sinne von Absatz 1 sind die Generaldirektionen und die Kreisdirektionen der PTT-Betriebe[^58-1] und der Schweizerischen Bundesbahnen sowie der ETH-Rat, soweit sie Einsatzbetriebe sind, in den übrigen Fällen das Eidgenössische Finanzdepartement.
 
-<sup>3</sup> ...[^58-2]
+<sup>3</sup> …[^58-2]
 
 [^58-1]: Heute: die Schweizerische Post.
 [^58-2]: Aufgehoben durch Anhang Ziff. 105 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1209,7 +1211,7 @@ Die Vollzugsstelle bestimmt die Disziplinarmassnahme nach dem Verschulden; sie b
 
 <sup>2</sup> Wer eine ausserordentliche Zivildienstleistung verweigert, wird mit Freiheitsstrafe oder Geldstrafe bestraft.[^72-2]
 
-<sup>3</sup> ...[^72-3]
+<sup>3</sup> …[^72-3]
 
 <sup>4</sup> Die fehlbare Person bleibt unter Vorbehalt von Artikel 75 straflos, wenn sie wegen Arbeitsunfähigkeit vorzeitig aus dem Zivildienst entlassen wird und die Arbeitsunfähigkeit bereits im Zeitpunkt der Tat bestanden hat.
 
@@ -1323,13 +1325,13 @@ Strafbar nach den Artikeln 72–76 ist auch, wer das Delikt im Ausland begeht.
 
 Sie kann besonders schützenswerte Personendaten bearbeiten über:
 
-- a.[^80-1] ...
+- a.[^80-1] …
 - b. die Militärdiensttauglichkeit der gesuchstellenden Personen;
 - c. Ausbildung sowie Eignungen und Neigungen der zivildienstpflichtigen Personen, soweit dies für die Vermittlung von Zivildiensteinsätzen massgeblich ist;
 - d. den Gesundheitszustand der zivildienstpflichtigen Personen;
 - e. Disziplinar- und Strafverfahren nach diesem Gesetz.[^80-2]
 
-<sup>1ter</sup> ...[^80-3]
+<sup>1ter</sup> …[^80-3]
 
 <sup>1quater</sup> Sie kann Daten über Strafurteile, hängige Strafverfahren und freiheitsentziehende Massnahmen speichern, soweit dies zur Begründung eines Entscheids betreffend den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung oder zur Prüfung des Leumunds für bestimmte Einsätze notwendig ist.[^80-4]
 
@@ -1338,13 +1340,13 @@ Sie kann besonders schützenswerte Personendaten bearbeiten über:
 An das Informationssystem können direkt (online) angeschlossen werden:[^80-5]
 
 - a.[^80-6] die zuständigen Stellen des VBS für die Übermittlung von Daten im Zusammenhang mit der Gesuchsbehandlung und dem Erlöschen der Militärdienstpflicht;
-- b.[^80-7] ...
+- b.[^80-7] …
 - c. die Militärversicherung[^80-8] für die Bearbeitung von Versicherungsfällen;
 - d.[^80-9] die Organe nach Artikel 21 des Erwerbsersatzgesetzes vom 25. September 1952[^80-10] für Abklärungen im Zusammenhang mit der Bezugsberechtigung;
 - e. die Behörden des Wehrpflichtersatzes für ersatzrechtliche Handlungen;
 - f. Dritte, denen Vollzugsaufgaben der Vollzugsstelle übertragen wurden, für die Wahrnehmung dieser Aufgaben.
 
-<sup>3</sup> ...[^80-11]
+<sup>3</sup> …[^80-11]
 
 <sup>4</sup>
 
@@ -1420,7 +1422,7 @@ Die Vollzugsstelle gibt nachstehenden Stellen Personendaten bekannt, soweit dies
 [^80b-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^80b-5]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 81–82
 
@@ -1440,7 +1442,7 @@ Die Vollzugsstelle gibt nachstehenden Stellen Personendaten bekannt, soweit dies
 
 [^83a-1]: Aufgehoben durch Ziff. II 37 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### 2*a*. Abschnitt: ...
+### 2*a*. Abschnitt: …
 
 #### Art. 83b
 
@@ -1448,7 +1450,7 @@ Die Vollzugsstelle gibt nachstehenden Stellen Personendaten bekannt, soweit dies
 
 [^83b-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Aufgehoben durch Ziff. I des BG vom 25. Sept. 2015, mit Wirkung seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
-### 2*b*. Abschnitt:**** Übergangsbestimmung zur Änderung vom 25. September 2015
+### 2*b*. Abschnitt: Übergangsbestimmung zur Änderung vom 25. September 2015
 
 [^chap10-sec2b-1]
 
@@ -1458,7 +1460,7 @@ Die Vollzugsstelle gibt nachstehenden Stellen Personendaten bekannt, soweit dies
 
 Zivildienstpflichtige Personen, die vor Inkrafttreten der Änderung vom 25. September 2015 ein Gesuch um Zulassung zum Zivildienst eingereicht haben, besuchen den Einführungskurs nach bisherigem Recht.
 
-### 2*c*. Abschnitt:**** Übergangsbestimmungen zur Änderung vom 18. März 2016
+### 2*c*. Abschnitt: Übergangsbestimmungen zur Änderung vom 18. März 2016
 
 [^chap10-sec2c-1]
 
@@ -1498,6 +1500,6 @@ Anhang
 
 ## Änderung anderer Erlasse
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)konsultiert werden.
