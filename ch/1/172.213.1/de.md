@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. November 1999 für das Eidgenössische Ju
 short: OV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230123-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230101/de"
 
 (OV-EJPD)
 
-vom 17. November 1999 (Stand am 1. Januar 2023)
+vom 17. November 1999 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -217,14 +217,14 @@ Das BJ führt unter anderen:
 - a. das Eidgenössische Amt für das Zivilstandswesen;
 - b. das Eidgenössische Amt für Grundbuch- und Bodenrecht, einschliesslich das Schweizerische Seeschiffsregisteramt[^8-1];
 - c. das Amt für das Handelsregister;
-- d.[^8-2] ein automatisiertes Strafregister unter Mitwirkung anderer Bundesbehörden und der Kantone.
+- d.[^8-2] das Strafregister-Informationssystems VOSTRA unter Mitwirkung anderer Bundesbehörden und der Kantone.
 
 <sup>2</sup> Ihre Aufgaben und Zuständigkeiten werden in besonderen Erlassen[^8-3] geregelt.
 
 <sup>3</sup> Dem BJ administrativ zugeordnet sind die Eidgenössische Fachkommission zur Beurteilung der Behandelbarkeit lebenslänglich verwahrter Straftäter und deren Sekretariat.[^8-4]
 
 [^8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
-[^8-2]: Eingefügt durch Ziff. I der V vom 28. Juni 2000, in Kraft seit 1. Juli 2000 ([AS 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^8-2]: Eingefügt durch Ziff. I der V vom 28. Juni 2000 ([AS 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)). Fassung gemäss Anhang 10 Ziff. II 7 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 [^8-3]: [SR 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362), [211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667), [221.411](https://fedlex.data.admin.ch/eli/cc/2007/686),**331**
 [^8-4]: Eingefügt durch Art. 16 Ziff. 2 der V vom 26. Juni 2013 über die Eidgenössische Fachkommission zur Beurteilung der Behandlung lebenslänglich verwahrter Straftäter, in Kraft seit 1. Jan. 2014 ([AS 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)).
 

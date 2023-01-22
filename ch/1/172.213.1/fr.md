@@ -4,11 +4,11 @@ title: "Ordonnance du 17 novembre 1999 sur l'organisation du Département fédé
 short: Org DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230123-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230101/fr"
 
 (Org DFJP)
 
-du 17 novembre 1999 (État le 1<sup>er</sup> janvier 2023)
+du 17 novembre 1999 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -217,13 +217,13 @@ L’OFJ gère entre autres:
 - a. l’Office fédéral de l’état civil;
 - b. l’Office fédéral chargé du droit du registre foncier et du droit foncier, y compris l’Office du registre des navires suisses;
 - c. l’Office du registre du commerce;
-- d.[^8-1] un casier judiciaire informatisé, en collaboration avec d’autres autorités fédérales et avec les cantons.
+- d.[^8-1] le casier judiciaire informatique VOSTRA, en collaboration avec d’autres autorités fédérales et avec les cantons.
 
 <sup>2</sup> Leurs tâches et compétences sont régies par des actes législatifs particuliers[^8-2].
 
 <sup>3</sup> La Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie et son secrétariat sont rattachés administrativement à l’OFJ.[^8-3]
 
-[^8-1]: Introduite par le ch. I de l’O du 28 juin 2000, en vigueur depuis le 1<sup>er</sup> juil. 2000 ([RO 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^8-1]: Introduite par le ch. I de l’O du 28 juin 2000 ([RO 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)). Nouvelle teneur selon l’annexe 10 ch. II 7 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 [^8-2]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362), [211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667), [221.411](https://fedlex.data.admin.ch/eli/cc/2007/686),**331**
 [^8-3]: Introduit par l’art. 16 ch. 2 de l’O du 26 juin 2013 sur la Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447).)
 

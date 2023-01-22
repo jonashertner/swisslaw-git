@@ -4,11 +4,11 @@ title: "Ordinanza del 17 novembre 1999 sull'organizzazione del Dipartimento fede
 short: Org-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20230123-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20230101/it"
 
 (Org-DFGP)
 
-del 17 novembre 1999 (Stato 1° gennaio 2023)
+del 17 novembre 1999 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -217,13 +217,13 @@ L’UFG dirige tra l’altro:
 - a. l’Ufficio federale dello stato civile;
 - b. l’Ufficio federale per il diritto del registro fondiario e del diritto fondiario, incluso l’Ufficio svizzero del registro del naviglio;
 - c. l’Ufficio del registro di commercio;
-- d.[^8-1] insieme ad altre autorità federali e ai Cantoni un casellario giudiziale informatizzato.
+- d.[^8-1] insieme ad altre autorità federali e ai Cantoni, il casellario giudiziale informatizzato VOSTRA.
 
 <sup>2</sup> I compiti e le competenze degli uffici di cui al capoverso 1 sono disciplinati in atti normativi speciali[^8-2].
 
 <sup>3</sup> Sono annesse al DFGP sul piano amministrativo la Commissione peritale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita e la sua segreteria.[^8-3]
 
-[^8-1]: Introdotta dal n. I dell’O del 28 giu. 2000, in vigore dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^8-1]: Introdotta dal n. I dell’O del 28 giu. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)). Nuovo testo giusta l’all. 10 n. II 7 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 [^8-2]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362), [211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667), [221.411](https://fedlex.data.admin.ch/eli/cc/2007/686),**331**
 [^8-3]: Introdotto dall’art. 16 n. 2 dell’O del 26 giu. 2013 sulla commissione peritale federale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita, in vigore dal 1° gen. 2014 ([RU 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)).
 
@@ -350,7 +350,7 @@ Fedpol dirige:
 [^10-23]: Introdotto dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-24]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
 [^10-25]: Introdotto dall’all. 2 n. 3 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^10-26]: Introdotto dall’all. dell’O del 23 nov. 2022 sul Comitato nazionale contro il terrorismo, in vigore dal 1° gen. 2023 ([RU 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765); qui cpv. 16).
+[^10-26]: Introdotto dall’all. dell’O del 23 nov. 2022 sul Comitato nazionale contro il terrorismo, in vigore dal 1° gen. 2023 ([RU 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765), qui cpv. 16).
 
 #### Art. 11
 
