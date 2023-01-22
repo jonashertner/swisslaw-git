@@ -3,18 +3,18 @@ sr: "221.218.2"
 title: "Ordinanza del 10 novembre 1999 concernente la mediazione matrimoniale o di ricerca di partner a titolo professionale nei confronti di o per persone all'estero"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/493"
 language: it
-version: 2007-01-01
+version: 2023-01-23
 adopted: 1999-11-10
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/493/20070101/it/xml/fedlex-data-admin-ch-eli-cc-1999-493-20070101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/493/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/493/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1999-493-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/493/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la mediazione matrimoniale o di ricerca di partner a titolo professionale nei confronti di o per persone all’estero
 
-del 10 novembre 1999 (Stato 1° gennaio 2007)
+del 10 novembre 1999 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -82,9 +82,11 @@ Nella domanda d’autorizzazione devono figurare:
 
 Alla domanda d’autorizzazione vanno acclusi:
 
-- a. l’estratto del casellario giudiziale della persona richiedente e delle persone responsabili della mediazione;
+- a.[^5-1] l’estratto per privati del casellario giudiziale informatizzato VOSTRA della persona richiedente e delle persone responsabili della mediazione;
 - b. una dichiarazione dalla quale risulti che la persona richiedente, le persone responsabili della mediazione e i loro ausiliari non esercitano un’attività incompatibile ai sensi dell’articolo 4;
 - c. una dichiarazione dalla quale risulti che le persone responsabili della mediazione conoscono le prescrizioni pertinenti in materia di diritto degli stranieri, segnatamente quelle sull’entrata e sul soggiorno in Svizzera.
+
+[^5-1]: Nuovo testo giusta l’all. 10 n. II 11 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 6
 
@@ -93,8 +95,10 @@ Alla domanda d’autorizzazione vanno acclusi:
 L’autorizzazione è rilasciata se:
 
 - a. la domanda di autorizzazione è conforme all’articolo 5;
-- b. la domanda di autorizzazione e i documenti acclusi, in particolare gli estratti del casellario giudiziale, permettono di ritenere che la mediazione sarà esercitata con cura e conformemente al diritto;
+- b.[^6-1] la domanda di autorizzazione e i documenti acclusi, in particolare gli estratti per privati del casellario giudiziale informatizzato VOSTRA, permettono di ritenere che la mediazione sarà esercitata con cura e conformemente al diritto;
 - c. la cauzione giusta l’articolo 8 capoverso 2 è stata fornita.
+
+[^6-1]: Nuovo testo giusta l’all. 10 n. II 11 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 7
 

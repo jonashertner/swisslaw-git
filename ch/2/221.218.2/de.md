@@ -3,18 +3,18 @@ sr: "221.218.2"
 title: Verordnung vom 10. November 1999 über die berufsmässige Vermittlung von Personen aus dem Ausland oder ins Ausland zu Ehe oder fester Partnerschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/493"
 language: de
-version: 2007-01-01
+version: 2023-01-23
 adopted: 1999-11-10
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/493/20070101/de/xml/fedlex-data-admin-ch-eli-cc-1999-493-20070101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/493/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/493/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1999-493-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/493/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die berufsmässige Vermittlung von Personen aus dem Ausland oder ins Ausland zu Ehe oder fester Partnerschaft
 
-vom 10. November 1999 (Stand am 1. Januar 2007)
+vom 10. November 1999 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -82,9 +82,11 @@ Aus dem Bewilligungsgesuch müssen hervorgehen:
 
 Dem Bewilligungsgesuch sind beizulegen:
 
-- a. der Strafregisterauszug für die gesuchstellende Person und für die Personen, die für die Vermittlung verantwortlich sind;
+- a.[^5-1] der Privatauszug aus dem Strafregister-Informationssystem VOSTRA für die gesuchstellende Person und für die Personen, die für die Vermittlung verantwortlich sind;
 - b. eine Erklärung, dass bei der gesuchstellenden Person, bei den für die Vermittlung verantwortlichen Personen und ihren Hilfspersonen keine Unvereinbarkeit im Sinne von Artikel 4 vorliegt;
 - c. eine Erklärung der für die Vermittlung verantwortlichen Personen, dass sie die jeweiligen ausländerrechtlichen Vorschriften, namentlich diejenigen über die Einreise und den Aufenthalt in der Schweiz, kennen.
+
+[^5-1]: Fassung gemäss Anhang 10 Ziff. II 11 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 6
 
@@ -93,8 +95,10 @@ Dem Bewilligungsgesuch sind beizulegen:
 Die Bewilligung wird erteilt, wenn:
 
 - a. das Bewilligungsgesuch den Anforderungen von Artikel 5 entspricht;
-- b. auf Grund des Bewilligungsgesuchs und der beigelegten Dokumente, namentlich der Strafregisterauszüge, anzunehmen ist, dass die Vermittlungstätigkeit sorgfältig und rechtmässig sein wird;
+- b.[^6-1] auf Grund des Bewilligungsgesuchs und der beigelegten Dokumente, namentlich der Privatauszüge aus dem Strafregister-Informationssystem VOSTRA, anzunehmen ist, dass die Vermittlungstätigkeit sorgfältig und rechtmässig sein wird;
 - c. die Kaution nach Artikel 8 Absatz 2 geleistet worden ist.
+
+[^6-1]: Fassung gemäss Anhang 10 Ziff. II 11 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 7
 

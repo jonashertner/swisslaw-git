@@ -3,18 +3,18 @@ sr: "221.218.2"
 title: "Ordonnance du 10 novembre 1999 sur l'activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/493"
 language: fr
-version: 2007-01-01
+version: 2023-01-23
 adopted: 1999-11-10
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/493/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-493-20070101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/493/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/493/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1999-493-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/493/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’activité à titre professionnel de mandataire visant à la conclusion d’un mariage ou à l’établissement d’un partenariat stable entre des personnes venant de l’étranger ou s’y rendant
 
-du 10 novembre 1999 (Etat le 1<sup>er</sup> janvier 2007)
+du 10 novembre 1999 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -67,7 +67,7 @@ Ni la personne qui sollicite l’autorisation, ni celles qui sont responsables d
 
 **Demande d’autorisation**
 
-<sup>1</sup> La demande d’autorisation doit être présentée par écrit à l’autorité compétente du canton du domicile de la personne ou du siège de la société qui la sollicite. A défaut, elle sera présentée à l’autorité du canton où la personne ou la société a sa succursale ou un autre local affecté à l’activité.
+<sup>1</sup> La demande d’autorisation doit être présentée par écrit à l’autorité compétente du canton du domicile de la personne ou du siège de la société qui la sollicite. À défaut, elle sera présentée à l’autorité du canton où la personne ou la société a sa succursale ou un autre local affecté à l’activité.
 
 <sup>2</sup>
 
@@ -82,9 +82,11 @@ Elle doit mentionner:
 
 Elle doit être accompagnée:
 
-- a. d’un extrait du casier judiciaire de la personne qui sollicite l’autorisation et des personnes responsables de l’activité;
+- a.[^5-1] d’un extrait destiné aux particuliers du casier judiciaire de la personne qui sollicite l’autorisation et des personnes responsables de l’activité;
 - b. d’une déclaration de la personne qui sollicite l’autorisation, des personnes responsables de l’activité et de leurs auxiliaires, attestant qu’aucune de toutes ces personnes n’est frappée d’une incompatibilité au sens de l’art. 4;
 - c. d’une déclaration des personnes responsables de l’activité attestant qu’elles connaissent les prescriptions sur l’entrée et le séjour des étrangers, en particulier celles qui régissent leur entrée et leur séjour en Suisse.
+
+[^5-1]: Nouvelle teneur selon l’annexe 10 ch. II 11 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 6
 
@@ -93,8 +95,10 @@ Elle doit être accompagnée:
 L’autorisation est accordée:
 
 - a. si la demande d’autorisation remplit les conditions prévues par l’art. 5;
-- b. si la demande d’autorisation et les documents qui l’accompagnent, notamment les extraits du casier judiciaire, permettent de penser que l’activité sera exercée consciencieusement et conformément au droit;
+- b.[^6-1] si la demande d’autorisation et les documents qui l’accompagnent, notamment les extraits du casier judiciaire destinés aux particuliers, permettent de penser que l’activité sera exercée consciencieusement et conformément au droit;
 - c. si les sûretés mentionnées à l’art. 8, al. 2, ont été fournies.
+
+[^6-1]: Nouvelle teneur selon l’annexe 10 ch. II 11 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 7
 
