@@ -4,11 +4,11 @@ title: "Verordnung vom 6. November 2019 über die Finanzinstitute (Finanzinstitu
 short: FINIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: de
-version: 2022-08-26
+version: 2023-01-23
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20220826/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20220826-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/de"
 
 (Finanzinstitutsverordnung, FINIV)
 
-vom 6. November 2019 (Stand am 26. August 2022)
+vom 6. November 2019 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -253,7 +253,7 @@ Das Gesuch um Bewilligung für ein neues Finanzinstitut muss zu den mit der Verw
   - 1\. Angaben über Nationalität, Wohnsitz, qualifizierte Beteiligungen am Finanzinstitut oder an anderen Gesellschaften und hängige Gerichts- und Verwaltungsverfahren,
   - 2\. einen von der betreffenden Person unterzeichneten Lebenslauf,
   - 3\. Referenzen,
-  - 4\. einen Auszug aus dem Strafregister und dem Betreibungsregister oder eine entsprechende Bestätigung;
+  - 4\.[^13-1] einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA und einen Betreibungsregisterauszug oder entsprechende ausländische Bestätigungen bei Wohnsitz im Ausland;
 
 - b.
 
@@ -271,6 +271,8 @@ Das Gesuch um Bewilligung für ein neues Finanzinstitut muss zu den mit der Verw
 <sup>4</sup> Wertpapierhäuser haben der FINMA innert 60 Tagen nach Abschluss des Geschäftsjahres eine Aufstellung der Personen einzureichen, die eine qualifizierte Beteiligung an ihnen haben. Die Aufstellung enthält Angaben über die Identität und die Beteiligungsquote aller am Abschlusstag qualifiziert Beteiligten sowie allfällige Veränderungen gegenüber dem Vorjahr. Über vorher nicht gemeldete Beteiligte sind zusätzlich die Angaben und Unterlagen nach Absatz 1 beizufügen.
 
 <sup>5</sup> Halten wirtschaftlich oder in anderer Weise verbundene Personen gemeinsam mindestens 10 Prozent des Kapitals oder der Stimmen des Finanzinstituts oder beeinflussen Personen gemeinsam auf andere Weise die Geschäftstätigkeit des Finanzinstituts massgebend, so gelten diese als ein qualifizierter Beteiligter nach Artikel 11 Absatz 4 FINIG.
+
+[^13-1]: Fassung gemäss Anhang 10 Ziff. II 30 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 14
 
@@ -1792,5 +1794,5 @@ Die folgenden Erlasse werden wie folgt geändert:
 
 …[^annex1-lvlu1-2]
 
-[^annex1-lvlu1-1]: [[AS 1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044)Art. 2, [2004 2781](https://fedlex.data.admin.ch/eli/oc/2004/343), [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656)Ziff. III, [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)Anhang 7 Ziff. 2, [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Anhang Ziff. 9, [2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)Anhang 6 Ziff. 3, [2013 1111](https://fedlex.data.admin.ch/eli/oc/2013/251), [2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)Anhang 2 Ziff. 6 [2321](https://fedlex.data.admin.ch/eli/oc/2014/394)Anhang 4 Ziff. 2 [4295](https://fedlex.data.admin.ch/eli/oc/2014/708)Anhang Ziff. 4, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)Anhang 1 Ziff. 12, [2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)Ziff. III]
+[^annex1-lvlu1-1]: [[AS 1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85), [2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044)Art. 2; [2004 2781](https://fedlex.data.admin.ch/eli/oc/2004/343); [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656)Ziff. III; [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)Anhang 7 Ziff. 2; [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Anhang Ziff. 9; [2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)Anhang 6 Ziff. 3; [2013 1111](https://fedlex.data.admin.ch/eli/oc/2013/251); [2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)Anhang 2 Ziff. 6, [2321](https://fedlex.data.admin.ch/eli/oc/2014/394)Anhang 4 Ziff. 2, [4295](https://fedlex.data.admin.ch/eli/oc/2014/708)Anhang Ziff. 4; [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)Anhang 1 Ziff. 12; [2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)Ziff. III]
 [^annex1-lvlu1-2]: Die Änderungen können unter [AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)konsultiert werden.

@@ -4,11 +4,11 @@ title: Ordinanza del 6 novembre 2019 sugli istituti finanziari (OIsFi)
 short: OIsFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: it
-version: 2022-08-26
+version: 2023-01-23
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20220826/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20220826-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/it"
 
 (OIsFi)
 
-del 6 novembre 2019 (Stato 26 agosto 2022) (Stato 26 agosto 2022)
+del 6 novembre 2019 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -253,7 +253,7 @@ La richiesta di autorizzazione per un nuovo istituto finanziario deve contenere 
   - 1\. indicazioni sulla nazionalità, sul domicilio, sulle partecipazioni qualificate nell’istituto finanziario o in altre società e sui procedimenti giudiziari e amministrativi pendenti,
   - 2\. un curriculum vitae firmato dalla persona interessata,
   - 3\. referenze,
-  - 4\. un estratto del casellario giudiziale e del registro delle esecuzioni o un’attestazione corrispondente;
+  - 4\.[^13-1] un estratto per privati del casellario giudiziale informatizzato VOSTRA e un estratto del registro delle esecuzioni o le conferme estere corrispondenti in caso di domicilio all’estero;
 
 - b.
 
@@ -271,6 +271,8 @@ La richiesta di autorizzazione per un nuovo istituto finanziario deve contenere 
 <sup>4</sup> Entro 60 giorni dalla chiusura dell’esercizio, le società di intermediazione mobiliare inoltrano alla FINMA un elenco delle persone che detengono una partecipazione qualificata al loro capitale. L’elenco contiene indicazioni sull’identità di tali persone e sulla quota da esse detenuta il giorno di chiusura dell’esercizio, nonché eventuali cambiamenti rispetto all’anno precedente. Le indicazioni e i documenti secondo il capoverso 1 devono essere forniti inoltre per le persone che detengono una partecipazione qualificata che non erano state notificate in precedenza.
 
 <sup>5</sup> Le persone aventi legami economici o altri legami che detengono congiuntamente almeno il 10 per cento del capitale o dei diritti di voto dell’istituto finanziario o le persone che influenzano congiuntamente in un altro modo l’attività dell’istituto finanziario sono considerate persone che detengono una partecipazione qualificata secondo l’articolo 11 capoverso 4 LIsFi.
+
+[^13-1]: Nuovo testo giusta l’all. 10 n. II 30 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 14
 
@@ -1791,5 +1793,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex1-lvlu1-2]
 
-[^annex1-lvlu1-1]: [[RU 1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044)art. 2, [2004 2781](https://fedlex.data.admin.ch/eli/oc/2004/343), [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656)n. III, [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)all. 7 n. 2, [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 9, [2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)all. 6 n. 3, [2013 1111](https://fedlex.data.admin.ch/eli/oc/2013/251), [2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)all. 2 n. 6 [2321](https://fedlex.data.admin.ch/eli/oc/2014/394)all. 4 n. 2 [4295](https://fedlex.data.admin.ch/eli/oc/2014/708)all. n. 4, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)all. 1 n. 12, [2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)n. III]
+[^annex1-lvlu1-1]: [[RU 1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85), [2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044)art. 2; [2004 2781](https://fedlex.data.admin.ch/eli/oc/2004/343); [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656)n. III; [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)all. 7 n. 2; [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 9; [2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)all. 6 n. 3; [2013 1111](https://fedlex.data.admin.ch/eli/oc/2013/251); [2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)all. 2 n. 6, [2321](https://fedlex.data.admin.ch/eli/oc/2014/394)all. 4 n. 2, [4295](https://fedlex.data.admin.ch/eli/oc/2014/708)all. n. 4; [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)all. 1 n. 12; [2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)n. III]
 [^annex1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763).

@@ -4,11 +4,11 @@ title: "Ordinance of 6 November 2019 on Financial Institutions (Financial Instit
 short: FinIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: en
-version: 2022-08-26
+version: 2023-01-23
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20220826/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20220826-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20230123-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Institutions Ordinance, FinIO)
 
-of 6 November 2019 (Status as of 26 August 2022)
+of 6 November 2019 (Status as of 23 January 2023)
 
 The Swiss Federal Council,
 
@@ -255,7 +255,7 @@ The application for authorisation for a new financial institution must contain i
   - 1\. details of nationality, place of residence, qualified participations in the financial institution or in other companies and pending court and administrative proceedings,
   - 2\. a curriculum vitae signed by the relevant person,
   - 3\. references,
-  - 4\. an extract from the register of convictions and the debt collection register or a corresponding attestation;
+  - 4\.[^13-1] a standard private extract from the VOSTRA information system of the Register of Criminal Records and an extract from the debt enforcement register or corresponding confirmation if the person is resident abroad;
 
 - b.
 
@@ -273,6 +273,8 @@ The application for authorisation for a new financial institution must contain i
 <sup>4</sup> Securities firms must submit to FINMA within 60 days of the end of the financial year a list of all persons who hold a qualified participation in them. This list shall contain details on the identity and percentage holding of all qualified participants as at the relevant closing date, as well as any changes relative to the prior-year closing date. In addition, the information and documentation set out in paragraph 1 is to be submitted for any qualified participants being reported for the first time.
 
 <sup>5</sup> Persons connected through business ties or in any other manner who jointly hold at least 10% of the share capital or votes of the financial institution or persons jointly significantly influencing the business activities of the financial institution in another manner are deemed to be a qualified participant in accordance with Article 11 paragraph 4 FinIA.
+
+[^13-1]: Amended by Annex 10 No II 30 of the Criminal Records Register Ordinance of 19 Oct. 2022, in force since 23 Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 14
 

@@ -4,11 +4,11 @@ title: Ordonnance du 6 novembre 2019 sur les établissements financiers (OEFin)
 short: OEFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: fr
-version: 2022-08-26
+version: 2023-01-23
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20220826/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20220826-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/fr"
 
 (OEFin)
 
-du 6 novembre 2019 (Etat le 26 août 2022)
+du 6 novembre 2019 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -253,7 +253,7 @@ La demande d’autorisation pour un nouvel établissement financier doit conteni
   - 1\. des indications sur la nationalité, le domicile, les participations qualifiées détenues dans l’établissement financier ou dans d’autres sociétés et les procédures judiciaires ou administratives en cours,
   - 2\. un *curriculum vitae* signé par la personne concernée,
   - 3\. des références,
-  - 4\. un extrait du casier judiciaire et du registre des poursuites ou une attestation correspondante;
+  - 4\.[^13-1] un extrait du casier judiciaire destiné aux particuliers et un extrait du registre des poursuites ou, si elles sont domiciliées à l’étranger, des attestations analogues;
 
 - b.
 
@@ -271,6 +271,8 @@ La demande d’autorisation pour un nouvel établissement financier doit conteni
 <sup>4</sup> Les maisons de titres remettent à la FINMA dans les 60 jours qui suivent la date de clôture des comptes annuels la liste des personnes détenant une participation qualifiée dans leur établissement. La liste contient des indications sur l’identité et les quotes-parts de tous les détenteurs d’une participation qualifiée à la date de clôture ainsi que les éventuelles modifications par rapport à l’année précédente. Les indications et les documents prévus à l’al. 1 doivent en outre être fournis pour les détenteurs de participations qui n’avaient pas été annoncés auparavant.
 
 <sup>5</sup> Les personnes liées entre elles économiquement ou d’une autre manière qui détiennent ensemble au moins 10 % du capital ou des droits de vote de l’établissement financier ou celles qui, d’une autre manière, exercent ensemble une influence notable sur l’activité de l’établissement financier sont considérées comme détenant une participation qualifiée au sens de l’art. 11, al. 4, LEFin.
+
+[^13-1]: Nouvelle teneur selon l’annexe 10 ch. II 30 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 14
 
@@ -1792,7 +1794,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex1-lvlu1-2]
+…[^annex1-lvlu1-2]
 
 [^annex1-lvlu1-1]: [[RO 1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044)art. 2, [2004 2781](https://fedlex.data.admin.ch/eli/oc/2004/343), [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656)ch. III, [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)annexe 7 ch. 2, [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)annexe ch. 9, [2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)annexe 6 ch. 3, [2013 1111](https://fedlex.data.admin.ch/eli/oc/2013/251), [2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)annexe 2 ch. 6 [2321](https://fedlex.data.admin.ch/eli/oc/2014/394)annexe 4 ch. 2 [4295](https://fedlex.data.admin.ch/eli/oc/2014/708)annexe ch. 4, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)annexe 1 ch. 12, [2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)ch. III]
 [^annex1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763).
