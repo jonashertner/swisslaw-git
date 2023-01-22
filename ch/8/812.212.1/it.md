@@ -4,18 +4,18 @@ title: "Ordinanza del 14 novembre 2018 sulle autorizzazioni nel settore dei medi
 short: OAMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230123-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle autorizzazioni nel settore dei medicamenti (Ordinanza sull’autorizzazione dei medicamenti, OAMed)
 
-del 14 novembre 2018 (Stato 1° gennaio 2023)
+del 14 novembre 2018 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -635,11 +635,12 @@ L’autorizzazione è rilasciata se:
 
 <sup>3</sup> Se contro un responsabile tecnico è in corso un procedimento penale per violazione della LATer o della legge del 3 ottobre 1951[^39-1] sugli stupefacenti, Swissmedic può sospendere la relativa autorizzazione.
 
-<sup>4</sup> Può richiedere un estratto del casellario giudiziale.
+<sup>4</sup> Può richiedere un estratto per privati del casellario giudiziale informatizzato VOSTRA o un estratto da un casellario giudiziale estero.[^39-2]
 
 <sup>5</sup> Al richiedente è rilasciata un’unica autorizzazione che comprende tutte le attività richieste in conformità con la LATer e con la presente ordinanza.
 
 [^39-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^39-2]: Nuovo testo giusta l’all. 10 n. II 24 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 40
 

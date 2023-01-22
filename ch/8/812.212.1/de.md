@@ -4,20 +4,20 @@ title: Verordnung vom 14. November 2018 über die Bewilligungen im Arzneimittelb
 short: AMBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230123-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bewilligungen im Arzneimittelbereich
 
-(Arzneimittel-Bewilligungsverordnung; AMBV)
+(Arzneimittel-Bewilligungsverordnung, AMBV)
 
-vom 14. November 2018 (Stand am 1. Januar 2023)
+vom 14. November 2018 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -637,11 +637,12 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>3</sup> Ist eine fachtechnisch verantwortliche Person in einem hängigen Strafverfahren wegen Widerhandlung gegen das HMG oder das Betäubungsmittelgesetz vom 3. Oktober 1951[^39-1] beschuldigt, so kann die Swissmedic die entsprechende Bewilligung sistieren.
 
-<sup>4</sup> Sie kann einen Strafregisterauszug verlangen.
+<sup>4</sup> Sie kann einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA oder einen Auszug aus einem ausländischen Strafregister verlangen.[^39-2]
 
 <sup>5</sup> Der Gesuchstellerin wird eine einzige Bewilligung ausgestellt, die alle beantragten Tätigkeiten in Übereinstimmung mit dem HMG und dieser Verordnung umfasst.
 
 [^39-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^39-2]: Fassung gemäss Anhang 10 Ziff. II 24 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 40
 

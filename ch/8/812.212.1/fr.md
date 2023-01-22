@@ -4,11 +4,11 @@ title: Ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des 
 short: OAMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230123-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230101/fr"
 
 (OAMéd)
 
-du 14 novembre 2018 (État le 1<sup>er</sup> janvier 2023)
+du 14 novembre 2018 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -633,11 +633,12 @@ L’autorisation est octroyée si:
 
 <sup>3</sup> Si un responsable technique a la qualité de prévenu dans le cadre d’une procédure pénale en cours pour une infraction à la LPTh ou à la loi du 3 octobre 1951 sur les stupéfiants[^39-1], Swissmedic peut suspendre l’autorisation.
 
-<sup>4</sup> Swissmedic peut exiger un extrait du casier judiciaire.
+<sup>4</sup> Swissmedic peut exiger un extrait destiné aux particuliers du casier judiciaire suisse ou un extrait d’un casier judiciaire étranger.[^39-2]
 
 <sup>5</sup> Le requérant reçoit une seule décision d’autorisation consignant toutes les activités autorisées conformément aux dispositions de la LPTh et de la présente ordonnance.
 
 [^39-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^39-2]: Nouvelle teneur selon l’annexe 10 ch. II 24 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 40
 
@@ -757,17 +758,17 @@ Tout particulier peut importer des médicaments prêts à l’emploi non autoris
 
 <sup>1</sup>
 
-Toute personne exerçant une profession médicale et titulaire d’une autorisation cantonale de remettre des médicaments peut importer, en petites quantités, un médicament à usage humain prêt à l’emploi non autorisé en Suisse à condition que:
+Toute personne exerçant une profession médicale et titulaire d’une autorisation cantonale de remettre des médicaments peut importer, en petites quantités, un médicament à usage humain prêt à l’emploi non autorisé en Suisse si:
 
-- a. le médicament serve au traitement d’un patient donné ou pour les cas d’urgence;
-- b. le médicament soit autorisé par un pays ayant institué un contrôle des médicaments équivalent, et si
+- a. le médicament sert au traitement d’un patient donné ou pour les cas d’urgence;
+- b. le médicament est autorisé par un pays ayant institué un contrôle des médicaments équivalent, et si
 - c.
 
   pour le médicament en question:
 
   - 1\. aucun médicament de substitution n’est autorisé en Suisse,
   - 2\. aucun médicament de substitution autorisé n’est disponible en Suisse, ou
-  - 3\. si un changement de médication vers un médicament autorisé et disponible en Suisse ne soit pas approprié.
+  - 3\. un changement de médication vers un médicament autorisé et disponible en Suisse n’est pas approprié.
 
 <sup>2</sup>
 
@@ -1068,10 +1069,10 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]: Version selon JO L 262 du 14.10.2003, p. 22.
 [^annex1-lvlu1-2]: Version selon JO L 228 du 17.8.1991, p. 70.
-[^annex1-lvlu1-3]: Le guide peut être obtenu contre paiement auprès de l’Association suisse de normalisa-tion (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch, ou téléchargé à l’adresse: https://ec.europa.eu/health/documents/eudralex/vol-4
-[^annex1-lvlu1-4]: [RS 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Les principes et lignes directrices peuvent être obtenus auprès du Secrétariat PIC/S, case postale 5695, CH-1211 Genève 11, ou téléchargés à l’adresse: www.picscheme.org.
+[^annex1-lvlu1-3]: Le guide peut être obtenu contre paiement auprès de l’Association suisse de normalisa-tion (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch), ou téléchargé à l’adresse: https://ec.europa.eu/health/documents/eudralex/vol-4
+[^annex1-lvlu1-4]: [RS 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Les principes et lignes directrices peuvent être obtenus auprès du Secrétariat PIC/S, case postale 5695, CH-1211 Genève 11, ou téléchargés à l’adresse: [www.picscheme.org](https://picscheme.org/).
 [^annex1-lvlu1-5]: Version selon JO L 92 du 7.4.1990, p. 42.
-[^annex1-lvlu1-6]: La recommandation peut être obtenue auprès du Conseil de l’Europe, F-67075 Strasbourg (www.coe.int) ou téléchargée sur www.edqm.eu/en/blood-transfusion-guide.
+[^annex1-lvlu1-6]: La recommandation peut être obtenue auprès du Conseil de l’Europe, F-67075 Strasbourg ([www.coe.int](https://www.coe.int)) ou téléchargée sur [www.edqm.eu/en/blood-transfusion-guide](https://www.edqm.eu/en/blood-transfusion-guide).
 
 Annexe 2[^t-2]
 
@@ -1083,7 +1084,7 @@ Annexe 2[^t-2]
 
 Les chap. 20.1 et 20.2 de la Pharmacopée suisse[^annex2-lvlu1-1] sont applicables au titre de règles de bonnes pratiques de fabrication de médicaments en petites quantités.
 
-[^annex2-lvlu1-1]: La Pharmacopée suisse est publiée par Swissmedic et peut être obtenue auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch, aux conditions fixées par l’ordonnance du 19 novembre 2014 sur les émoluments relatifs aux publications; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711).
+[^annex2-lvlu1-1]: La Pharmacopée suisse est publiée par Swissmedic et peut être obtenue auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, [www.publicationsfederales.admin.ch](http://www.publicationsfederales.admin.ch), aux conditions fixées par l’ordonnance du 19 novembre 2014 sur les émoluments relatifs aux publications; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711).
 
 Annexe 3
 
@@ -1194,7 +1195,7 @@ Annexe 5
 
 Recommandation R (95) 15 du Conseil de l’Europe du 12 octobre 1995 pour la fabrication, l’utilisation et l’assurance de la qualité des composants sanguins[^annex5-lvlu1-lvl1-1], annexes comprises.
 
-[^annex5-lvlu1-lvl1-1]: La recommandation peut être obtenue auprès du Conseil de l’Europe, F-67075 Strasbourg (www.coe.int) ou téléchargée sur www.edqm.eu/en/blood-transfusion-guide.
+[^annex5-lvlu1-lvl1-1]: La recommandation peut être obtenue auprès du Conseil de l’Europe, F-67075 Strasbourg ([www.coe.int](https://www.coe.int)) ou téléchargée sur [www.edqm.eu/en/blood-transfusion-guide](https://www.edqm.eu/en/blood-transfusion-guide).
 
 ### 2 Exigences relatives à la procédure de test
 

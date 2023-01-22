@@ -4,11 +4,11 @@ title: "Ordinance of 14 November 2018 on Licensing in the Medicinal Products Sec
 short: MPLO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: en
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230123-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Medicinal Products Licensing Ordinance, MPLO)
 
-of 14 November 2018 (Status as of 1 January 2023)
+of 14 November 2018 (Status as of 23 January 2023)
 
 The Swiss Federal Council,
 
@@ -639,11 +639,12 @@ The licence is granted if:
 
 <sup>3</sup> If a Responsible Person is under investigation for infringing the TPA or the Narcotics Act of 3 October 1951[^39-1] in criminal proceedings, Swissmedic may suspend the corresponding licence.
 
-<sup>4</sup> It may demand an extract from the criminal records relating to the Responsible Person's.
+<sup>4</sup> It may demand a standard private extract from the VOSTRA information system of the Register of Criminal Records or an extract from a foreign criminal records register.[^39-2]
 
 <sup>5</sup> The applicant is granted a single licence for all activities in the application in accordance with the TPA and this Ordinance.
 
 [^39-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^39-2]: Amended by Annex 10 No II 24 of the Criminal Records Register Ordinance of 19 Oct. 2022, in force since 23 Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 40
 
