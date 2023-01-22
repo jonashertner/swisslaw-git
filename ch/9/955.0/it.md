@@ -4,11 +4,11 @@ title: "Legge federale del 10 ottobre 1997 relativa alla lotta contro il ricicla
 short: LRD
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230101/it"
 
 (Legge sul riciclaggio di denaro, LRD)[^t-1]
 
-del 10 ottobre 1997 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 10 ottobre 1997 (Stato 23 gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -1087,13 +1087,14 @@ Per svolgere i suoi compiti, l’Ufficio di comunicazione può verificare, media
 
 - a. registro nazionale di polizia;
 - b. sistema d’informazione centrale sulla migrazione;
-- c. casellario giudiziale informatizzato;
+- c.[^35a-2] casellario giudiziale informatizzato VOSTRA;
 - d. sistema per il trattamento dei dati relativi alla protezione dello Stato;
 - e. sistema di gestione delle persone, degli atti e delle pratiche nel settore dell’assistenza giudiziaria internazionale in materia penale.
 
-<sup>2</sup> L’accesso a ulteriori informazioni è disciplinato dalle disposizioni applicabili a ciascun sistema d’informazione.
+<sup>2</sup> L’accesso a ulterior955.0i informazioni è disciplinato dalle disposizioni applicabili a ciascun sistema d’informazione.
 
 [^35a-1]: Introdotto dall’all. 1 n. 9 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^35a-2]: Nuovo testo giusta l’all. 1 n. 14 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Capitolo 6: Disposizioni penali e rimedi giuridici
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 10. Oktober 1997 über die Bekämpfung der Geldwäscher
 short: GwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230101/de"
 
 (Geldwäschereigesetz, GwG)[^t-1]
 
-vom 10. Oktober 1997 (Stand am 1. Januar 2023)
+vom 10. Oktober 1997 (Stand am 23. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -1078,13 +1078,14 @@ Zur Erfüllung ihrer Aufgaben kann die Meldestelle mittels Abrufverfahren überp
 
 - a. nationaler Polizeiindex;
 - b. zentrales Migrationsinformationssystem;
-- c. automatisiertes Strafregister;
+- c.[^35a-2] Strafregister-Informationssystem VOSTRA;
 - d. Staatsschutz-Informations-System;
 - e. Personen-, Akten- und Geschäftsverwaltungssystem im Bereich der Rechtshilfe für Strafsachen.
 
 <sup>2</sup> Das Zugriffsrecht auf weitere Informationen richtet sich nach den für das jeweilige Informationssystem geltenden Bestimmungen.
 
 [^35a-1]: Eingefügt durch Anhang 1 Ziff. 9 des BG vom 13. Juni 2008 über die polizeilichen Infor‑ mationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^35a-2]: Fassung gemäss Anhang 1 Ziff. 14 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## 6. Kapitel: Strafbestimmungen und Rechtspflege
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 10 octobre 1997 concernant la lutte contre le blanchim
 short: LBA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230101/fr"
 
 (Loi sur le blanchiment d’argent, LBA)[^t-1]
 
-du 10 octobre 1997 (État le 1<sup>er</sup> janvier 2023)
+du 10 octobre 1997 (État le 23 janvier 2023)
 
 [^t-1]: **\*** Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 (RO **2015** 1389; FF **2014** 585).
 
@@ -1077,13 +1077,14 @@ Pour accomplir ses tâches, le bureau de communication peut vérifier en ligne s
 
 - a. index national de police;
 - b. système d’information central sur la migration;
-- c. casier judiciaire informatisé;
+- c.[^35a-2] casier judiciaire informatique VOSTRA;
 - d. système de traitement des données relatives à la protection de l’État;
 - e. système de gestion de personnes, de dossiers et d’affaires dans le cadre de l’entraide judiciaire internationale en matière pénale.
 
 <sup>2</sup> L’accès à des informations plus étendues est régi par les dispositions applicables à chaque système d’information.
 
 [^35a-1]: Introduit par l’annexe 1 ch. 9 de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^35a-2]: Nouvelle teneur selon l’annexe 1 ch. 14 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Chapitre 6 Dispositions pénales et voies de droit
 

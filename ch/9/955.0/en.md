@@ -4,11 +4,11 @@ title: "Federal Act of 10 October 1997 on Combating Money Laundering and Terrori
 short: AMLA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: en
-version: 2023-01-01
+version: 2023-01-23
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230123/en/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230123-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Anti-Money Laundering Act, AMLA)[^t-1]
 
-of 10 October 1997 (Status as of 1 January 2023)
+of 10 October 1997 (Status as of 23 January 2023)
 
 [^t-1]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -587,7 +587,7 @@ Ordinances specifying the duties of due diligence defined in Chapter 2 and under
 
 <sup>2</sup> These authorities shall determine how the duties of due diligence are to be fulfilled. They may recognise corresponding self-regulation.
 
-[^17-1]: Amended by Annex 2 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^17-1]: Amended by Annex 2 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 (AS 2021 656; 2022 551; BBl 2019 5451).
 
 ### Section 3*a* Supervision of Financial Intermediaries under Article 2 paragraph 3
 
@@ -720,13 +720,12 @@ It must notify the responsible prosecution authority immediately if it has reaso
 
 - a.[^23-4] an offence as defined in Articles 260<sup>ter</sup> Number 1, 305<sup>bis</sup> or 305<sup>ter</sup> SCC[^23-5] has been committed;
 - b.[^23-6] assets are the proceeds of a felony or an aggravated tax misdemeanour under Article 305<sup>bis</sup> number 1<sup>bis</sup> SCC;
-
 - c.[^23-7] assets are subject to the power of disposal of a criminal or terrorist organisation; or
 - d. assets serve the financing of terrorism (Art. 260<sup>quinquies</sup> para. 1 SCC).[^23-8]
 
 <sup>5</sup> If it transmits the information reported by a financial intermediary under Article 9 paragraph 1 letter a of this Act or under Article 305<sup>ter</sup> paragraph 2 of the SCC to a prosecution authority, it shall inform the financial intermediary thereof, provided the financial intermediary has not terminated the business relationship in accordance with Article 9*b*.[^23-9]
 
-<sup>6</sup> ...[^23-10]
+<sup>6</sup> ….[^23-10]
 
 [^23-1]: The title of this administrative entity has been amended in application of Art. 16 para. 3 of the Publication O of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^23-2]: Amended by No I of the FA of 21 June 2013, in force since 1 Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
@@ -1078,13 +1077,14 @@ In order to fulfil its duties, the Reporting Office may by means of a computeris
 
 - a. the National Police Index;
 - b. the Central Migration Information System;
-- c. the automated Register of Convictions;
+- c.[^35a-2] the Register of Criminal Records Information System VOSTRA;
 - d. the State Security Information System;
 - e. the person, file and case management system used in the field of mutual assistance in criminal matters.
 
 <sup>2</sup> The right of access for further information is governed by the provisions applicable to the information system concerned.
 
 [^35a-1]: Inserted by Annex 1 No 9 of the FA of 13 June 2008 on Federal Police Information Systems, in force since 5 Dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^35a-2]: Amended by Annex 1 No 14 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Chapter 6 Criminal Provisions and Procedure
 
