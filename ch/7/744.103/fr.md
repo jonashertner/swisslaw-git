@@ -4,11 +4,11 @@ title: Ordonnance du 2 septembre 2015 sur les entreprises de transport par route
 short: OEnTR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/597"
 language: fr
-version: 2016-01-01
+version: 2023-01-23
 adopted: 2015-09-02
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-597-20160101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20160101/fr"
 
 (OTVM)
 
-du 2 septembre 2015 (Etat le 1<sup>er</sup> janvier 2016)
+du 2 septembre 2015 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -48,9 +48,11 @@ Les licences visées à l’al. 1 sont octroyées aux entreprises dont le siège
 
 #### Art. 2
 
-**Preuve de l’honorabilité**
+**Preuve de l’honorabilité**[^2-1]
 
-Pour prouver l’honorabilité, il faut présenter un extrait du casier judiciaire du gestionnaire de transport. Cet extrait ne doit pas être antérieur à trois mois.
+Pour prouver son honorabilité, le gestionnaire de transport doit présenter un extrait destiné aux particuliers de son casier judiciaire. Cet extrait ne doit pas être antérieur à trois mois.
+
+[^2-1]: Nouvelle teneur selon l’annexe 10 ch. II 21 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 3
 
@@ -149,7 +151,7 @@ Les associations suivantes peuvent organiser conjointement les examens de capaci
 
 <sup>2</sup> L’attestation de conducteur certifie que la personne effectuant un transport par route est engagée ou employée selon les prescriptions applicables, notamment en matière de police des étrangers, d’assurances sociales et de droit du travail, pour effectuer des transports par route.
 
-<sup>3</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication peut exempter les ressortissants d’Etats appliquant le principe de réciprocité de l’obligation de détenir l’attestation de conducteur.
+<sup>3</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication peut exempter les ressortissants d’États appliquant le principe de réciprocité de l’obligation de détenir l’attestation de conducteur.
 
 #### Art. 9
 
@@ -201,7 +203,7 @@ A des fins d’identification des gestionnaires de transport, l’OFT consigne d
 
 <sup>1</sup> L’OFT peut rendre les données visées à l’art. 9*a*, al. 3, LEnTR accessibles, par procédure d'appel, aux autorités étrangères compétentes pour admettre les entreprises de transport par route, si ces autorités lui ont indiqué le point de contact qu’elles ont désigné.
 
-<sup>2</sup> Ont accès par procédure d’appel les points de contact nationaux désignés conformément à l’art. 18 du règlement (CE) n<sup>o</sup> 1071/2009[^13-1] par les Etats membres de l’UE et par les Etats membres de l’EEE.
+<sup>2</sup> Ont accès par procédure d’appel les points de contact nationaux désignés conformément à l’art. 18 du règlement (CE) n<sup>o</sup> 1071/2009[^13-1] par les États membres de l’UE et par les États membres de l’EEE.
 
 [^13-1]: Cf. note de bas de page relative à l’art. 6, al. 2.
 
@@ -234,7 +236,7 @@ Sera puni de l’amende quiconque, intentionnellement ou par négligence, n’es
 
 L’ordonnance du 1<sup>er</sup> novembre 2000 sur la licence d’entreprise de transport de voyageurs et de marchandises par route[^17-1] est abrogée.
 
-[^17-1]: [[RO 2000 2890](https://fedlex.data.admin.ch/eli/oc/2000/503), [2003 2484](https://fedlex.data.admin.ch/eli/oc/2003/370), [2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)ch. I 7]
+[^17-1]: [[RO 2000 2890](https://fedlex.data.admin.ch/eli/oc/2000/503); [2003 2484](https://fedlex.data.admin.ch/eli/oc/2003/370); [2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)ch. I 7]
 
 #### Art. 18
 

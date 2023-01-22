@@ -4,11 +4,11 @@ title: Verordnung vom 2. September 2015 über die Strassentransportunternehmen (
 short: STUV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/597"
 language: de
-version: 2016-01-01
+version: 2023-01-23
 adopted: 2015-09-02
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2015-597-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20160101/de"
 
 (STUV)
 
-vom 2. September 2015 (Stand am 1. Januar 2016)
+vom 2. September 2015 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -48,9 +48,11 @@ Zulassungsbewilligungen nach Absatz 1 werden erteilt an Unternehmen mit tatsäch
 
 #### Art. 2
 
-**Nachweis der Zuverlässigkeit**
+**Nachweis der Zuverlässigkeit**[^2-1]
 
-Zum Nachweis der Zuverlässigkeit ist ein Auszug aus dem Strafregister des Verkehrsleiters oder der Verkehrsleiterin vorzulegen. Der Auszug darf nicht älter als drei Monate sein.
+Zum Nachweis der Zuverlässigkeit ist ein Privatauszug aus dem Strafregister-Informationssystem VOSTRA des Verkehrsleiters oder der Verkehrsleiterin vorzulegen. Der Auszug darf nicht älter als drei Monate sein.
+
+[^2-1]: Fassung gemäss Anhang 10 Ziff. II 21 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 3
 
@@ -234,7 +236,7 @@ Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig die folgenden Dokumen
 
 Die Verordnung vom 1. November 2000[^17-1] über die Zulassung als Strassentransportunternehmen im Personen- und Güterverkehr wird aufgehoben.
 
-[^17-1]: [[AS 2000 2890](https://fedlex.data.admin.ch/eli/oc/2000/503), [2003 2484](https://fedlex.data.admin.ch/eli/oc/2003/370), [2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)Ziff. I 7]
+[^17-1]: [[AS 2000 2890](https://fedlex.data.admin.ch/eli/oc/2000/503); [2003 2484](https://fedlex.data.admin.ch/eli/oc/2003/370); [2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)Ziff. I 7]
 
 #### Art. 18
 

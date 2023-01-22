@@ -4,11 +4,11 @@ title: Ordinanza del 2 settembre 2015 concernente i trasportatori su strada (OTS
 short: OTStr
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/597"
 language: it
-version: 2016-01-01
+version: 2023-01-23
 adopted: 2015-09-02
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2015-597-20160101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20160101/it"
 
 (OATVM)
 
-del 2 settembre 2015 (Stato 1° gennaio 2016) (Stato 1° gennaio 2016)
+del 2 settembre 2015 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -48,9 +48,11 @@ L’autorizzazione di accesso di cui al capoverso 1 è rilasciata alle imprese c
 
 #### Art. 2
 
-**Prova dell’affidabilità**
+**Prova dell’affidabilità**[^2-1]
 
-Per comprovare l’affidabilità, occorre presentare un estratto del casellario giudiziale del gestore dei trasporti. L’estratto non deve essere stato rilasciato più di tre mesi prima.
+Per comprovare l’affidabilità, occorre presentare un estratto per privati del casellario giudiziale informatizzato VOSTRA del gestore dei trasporti. L’estratto non deve essere stato rilasciato più di tre mesi prima.
+
+[^2-1]: Nuovo testo giusta l’all. 10 n. II 21 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 3
 
