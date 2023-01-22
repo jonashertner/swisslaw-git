@@ -3,11 +3,11 @@ sr: "943.11"
 title: Verordnung vom 4. September 2002 über das Gewerbe der Reisenden (RGV)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/509"
 language: de
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2002-09-04
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-509-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2002-509-20230123-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20220101/de"
 
 (RGV)[^t-1]
 
-vom 4. September 2002 (Stand am 1. Januar 2022)
+vom 4. September 2002 (Stand am 23. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
@@ -108,15 +108,16 @@ Die in Artikel 4 Absatz 2 des Gesetzes verlangten Dokumente müssen folgende Anf
 
 - a. Der Handelsregisterauszug muss innerhalb der letzten drei Monate ausgestellt worden sein.
 - b. Der Identitätsausweis kann in Form eines gültigen Passes oder Führerausweises oder einer gültigen Identitätskarte vorgelegt werden; im schriftlichen Gesuchsverfahren genügt eine Fotokopie der genannten Dokumente.
-- c. Der Strafregisterauszug muss innerhalb des letzten Monats ausgestellt worden sein.
+- c.[^7-1] Der Privatauszug aus dem Strafregister-Informationssystem VOSTRA muss innerhalb des letzten Monats ausgestellt worden sein.
 - d. Der Wohnsitznachweis muss innerhalb der letzten zwölf Monate ausgestellt worden sein.
-- e.[^7-1] Die Einwilligung der oder des zur Nutzung eines Grundstückes Berechtigten muss in schriftlicher Form für den Fall vorliegen, dass die gesuchstellende Person im Rahmen ihrer Reisendengewerbetätigkeit zum Zeitpunkt der Gesuchseinreichung konkret plant, ihr Fahrzeug für die Nacht auf dem betreffenden Grundstück abzustellen. Ist geplant, das Fahrzeug auf einem offiziellen Stand- oder Durchgangsplatz abzustellen, so entfällt die Pflicht zur Einreichung einer schriftlichen Einwilligung.
+- e.[^7-2] Die Einwilligung der oder des zur Nutzung eines Grundstückes Berechtigten muss in schriftlicher Form für den Fall vorliegen, dass die gesuchstellende Person im Rahmen ihrer Reisendengewerbetätigkeit zum Zeitpunkt der Gesuchseinreichung konkret plant, ihr Fahrzeug für die Nacht auf dem betreffenden Grundstück abzustellen. Ist geplant, das Fahrzeug auf einem offiziellen Stand- oder Durchgangsplatz abzustellen, so entfällt die Pflicht zur Einreichung einer schriftlichen Einwilligung.
 
 <sup>2</sup> Jedem Gesuch sind zwei aktuelle Passfotos des oder der Reisenden beizulegen.
 
 <sup>3</sup> Im Ausland ausgestellte Handelsregisterauszüge, Strafregisterauszüge, Identitätsausweise oder Wohnsitznachweise müssen den entsprechenden schweizerischen Dokumenten gleichwertig sein.
 
-[^7-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
+[^7-1]: Fassung gemäss Anhang 10 Ziff. II 28 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
 #### Art. 8
 
@@ -124,9 +125,11 @@ Die in Artikel 4 Absatz 2 des Gesetzes verlangten Dokumente müssen folgende Anf
 
 <sup>1</sup> Ist das Gesuchsformular nicht richtig ausgefüllt oder das Gesuch unvollständig, so kann die zuständige kantonale Stelle beziehungsweise das Unternehmen oder der Branchenverband nach dem 3. Abschnitt es zur Korrektur oder Ergänzung zurückweisen.
 
-<sup>2</sup> Kommt nach der Prüfung des Strafregisterauszugs eine Verweigerung der Bewilligung nach Artikel 4 Absatz 1 des Gesetzes in Betracht, so holt die zuständige kantonale Stelle beim Staatssekretariat für Wirtschaft (SECO) einen Vorbescheid ein. Sie übermittelt ihm dazu ohne Verzug das Bewilligungsgesuch sowie den Strafregisterauszug und teilt das Datum mit, an dem die gesuchstellende Person ihre Tätigkeit aufnehmen will.
+<sup>2</sup> Kommt nach der Prüfung des Privatauszugs aus dem Strafregister-Informationssystem VOSTRA eine Verweigerung der Bewilligung nach Artikel 4 Absatz 1 des Gesetzes in Betracht, so holt die zuständige kantonale Stelle beim Staatssekretariat für Wirtschaft (SECO) einen Vorbescheid ein. Sie übermittelt ihm dazu ohne Verzug das Bewilligungsgesuch sowie den Privatauszug und teilt das Datum mit, an dem die gesuchstellende Person ihre Tätigkeit aufnehmen will.[^8-1]
 
 <sup>3</sup> Das SECO kann zur Entscheidfindung bei den zuständigen Gerichtsbehörden Einblick in die Strafakten der gesuchstellenden Person nehmen. Es teilt danach seinen begründeten Vorbescheid umgehend der kantonalen Stelle mit.
+
+[^8-1]: Fassung gemäss Anhang 10 Ziff. II 28 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 9
 
@@ -229,7 +232,7 @@ Ermächtigte Unternehmen und Branchenverbände:
 - a. geben die Ausweiskarte direkt an ihre Mitarbeitenden beziehungsweise an ihre Mitglieder oder an die für diese tätigen Personen ab;
 - b. erneuern die Ausweiskarte.
 
-<sup>2</sup> Kommt eine Verweigerung nach Artikel 4 Absatz 1 des Gesetzes in Frage, so leiten die ermächtigten Unternehmen und Branchenverbände das Gesuchsformular und den Strafregisterauszug der entsprechenden Person an die zuständige kantonale Stelle weiter. Diese leitet sie an das SECO weiter.
+<sup>2</sup> Kommt eine Verweigerung nach Artikel 4 Absatz 1 des Gesetzes in Frage, so leiten die ermächtigten Unternehmen und Branchenverbände das Gesuchsformular und den Privatauszug aus dem Strafregister-Informationssystem VOSTRA der entsprechenden Person an die zuständige kantonale Stelle weiter. Diese leitet sie an das SECO weiter.[^15-1]
 
 <sup>3</sup> Sie stellen die Ausweiskarten nach den in Artikel 11 umschriebenen Anforderungen aus.
 
@@ -238,8 +241,11 @@ Ermächtigte Unternehmen und Branchenverbände:
 Innerhalb von sieben Tagen seit der Abgabe oder der Erneuerung der Ausweiskarte übermitteln sie der zuständigen kantonalen Stelle:
 
 - a. eine Kopie des Gesuchsformulars des oder der Reisenden;
-- b. eine Kopie des Strafregisterauszugs des oder der Reisenden;
+- b.[^15-2] eine Kopie des Privatauszugs des oder der Reisenden;
 - c. eine Kopie der abgegebenen oder erneuerten Ausweiskarte.
+
+[^15-1]: Fassung gemäss Anhang 10 Ziff. II 28 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^15-2]: Fassung gemäss Anhang 10 Ziff. II 28 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -253,9 +259,11 @@ Innerhalb von sieben Tagen seit der Abgabe oder der Erneuerung der Ausweiskarte 
 
 **Aufgaben der zuständigen kantonalen Stelle**
 
-<sup>1</sup> Die zuständige kantonale Stelle prüft stichprobenweise, ob die ermächtigten Unternehmen und Branchenverbände die gesetzlichen Voraussetzungen erfüllen. Sie überprüft zu diesem Zwecke periodisch die Kopien der Strafregisterauszüge und der Ausweiskarten.
+<sup>1</sup> Die zuständige kantonale Stelle prüft stichprobenweise, ob die ermächtigten Unternehmen und Branchenverbände die gesetzlichen Voraussetzungen erfüllen. Sie überprüft zu diesem Zwecke periodisch die Kopien der Privatauszüge aus dem Strafregister-Informationssystem VOSTRA und der Ausweiskarten.[^17-1]
 
 <sup>2</sup> Sie kann einzelnen Reisenden die Ausweiskarte direkt entziehen, wenn die Bedingungen nach Artikel 10 Absatz 1 des Gesetzes erfüllt sind.
+
+[^17-1]: Fassung gemäss Anhang 10 Ziff. II 28 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 18
 
@@ -333,7 +341,7 @@ Vom Sicherheitsnachweis befreit sind:
 Die Inspektionsstelle muss:
 
 - a. bei der Schweizerischen Akkreditierungsstelle (SAS) nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^22-1] akkreditiert sein;
-- [tab] a<sup>bis</sup>.[^22-2] für eine Anlagenart nach Anhang 2 bei einer ausländischen Akkreditierungsstelle akkreditiert sein, die der SAS gleichwertig ist, insbesondere bei der Akkreditierungsstelle Deutschlands (DAkkS[^22-3]), Frankreichs (Cofrac[^22-4]), Österreichs (AA[^22-5]) oder Italiens (Accredia[^22-6]);
+- a<sup>bis</sup>.[^22-2] für eine Anlagenart nach Anhang 2 bei einer ausländischen Akkreditierungsstelle akkreditiert sein, die der SAS gleichwertig ist, insbesondere bei der Akkreditierungsstelle Deutschlands (DAkkS[^22-3]), Frankreichs (Cofrac[^22-4]), Österreichs (AA[^22-5]) oder Italiens (Accredia[^22-6]);
 - b. von der Schweiz im Rahmen eines internationalen Abkommens anerkannt sein; oder
 - c. durch das Bundesrecht anderweitig ermächtigt oder anerkannt sein.
 
@@ -424,9 +432,11 @@ Die gesuchstellende Person hat zusammen mit dem Gesuch nachzuweisen, dass sie be
 
 #### Art. 27
 
-**Strafregisterauszüge der Reisenden**
+**Strafregisterauszüge der Reisenden**[^27-1]
 
-Bestehen Anzeichen dafür, dass die gesetzlichen Voraussetzungen nicht mehr erfüllt sind, so kann die zuständige kantonale Stelle die betroffene Person auffordern, einen aktuellen Strafregisterauszug einzureichen.
+Bestehen Anzeichen dafür, dass die gesetzlichen Voraussetzungen nicht mehr erfüllt sind, so kann die zuständige kantonale Stelle die betroffene Person auffordern, einen aktuellen Privatauszug aus dem Strafregister-Informationssystem VOSTRA einzureichen.
+
+[^27-1]: Fassung gemäss Anhang 10 Ziff. II 28 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 28
 
@@ -516,7 +526,7 @@ Für Anlagen, die nicht über ein Prüf- oder Revisionsbuch, das die Voraussetzu
 
 Die Vollziehungsverordnung vom 5. Juni 1931[^32-1] zum Bundesgesetz über die Handelsreisenden wird aufgehoben.
 
-[^32-1]: [BS **10** 224; [AS 1956 1149](https://fedlex.data.admin.ch/eli/oc/1956/1149_1230_1240)Art. 2, [1982 701](https://fedlex.data.admin.ch/eli/oc/1982/701_701_701)Ziff. II, [1997 1311](https://fedlex.data.admin.ch/eli/oc/1997/1311_1311_1311), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 26]
+[^32-1]: [BS **10** 224; [AS 1956 1149](https://fedlex.data.admin.ch/eli/oc/1956/1149_1230_1240)Art. 2; [1982 701](https://fedlex.data.admin.ch/eli/oc/1982/701_701_701)Ziff. II; [1997 1311](https://fedlex.data.admin.ch/eli/oc/1997/1311_1311_1311); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 26]
 
 #### Art. 33
 
@@ -556,10 +566,10 @@ Folgende Waren dürfen Reisende aufgrund sonstiger Bestimmungen des Bundesrechts
 - g. Tiere nach Artikel 21 des Tierseuchengesetzes vom 1. Juli 1966[^annex1-lvlu1-lvl2-8].
 
 [^annex1-lvlu1-lvl2-1]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^annex1-lvlu1-lvl2-2]: [BS **10** 255; [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 132, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 54, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 31. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 1]. Siehe heute: das Geldspielgesetz vom 29. Sept. 2017 ([SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^annex1-lvlu1-lvl2-2]: [BS **10** 255; [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 132; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 54; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 31. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 1]. Siehe heute: das Geldspielgesetz vom 29. Sept. 2017 ([SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
 [^annex1-lvlu1-lvl2-3]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
 [^annex1-lvlu1-lvl2-4]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex1-lvlu1-lvl2-5]: [[AS 1999 126](https://fedlex.data.admin.ch/eli/oc/1999/20), [2001 2513](https://fedlex.data.admin.ch/eli/oc/2001/372), [2002 2841](https://fedlex.data.admin.ch/eli/oc/2002/419). [AS 2003 4947](https://fedlex.data.admin.ch/eli/oc/2003/735)Art. 11]. Siehe heute: Art. 4 der V vom 26. Nov. 2003 ([SR 916.371](https://fedlex.data.admin.ch/eli/cc/2003/735)).
+[^annex1-lvlu1-lvl2-5]: [[AS 1999 126](https://fedlex.data.admin.ch/eli/oc/1999/20); [2001 2513](https://fedlex.data.admin.ch/eli/oc/2001/372); [2002 2841](https://fedlex.data.admin.ch/eli/oc/2002/419). [AS 2003 4947](https://fedlex.data.admin.ch/eli/oc/2003/735)Art. 11]. Siehe heute: Art. 4 der V vom 26. Nov. 2003 ([SR 916.371](https://fedlex.data.admin.ch/eli/cc/2003/735)).
 [^annex1-lvlu1-lvl2-6]: [[AS 1999 2854](https://fedlex.data.admin.ch/eli/oc/1999/446). [AS 2003 4957](https://fedlex.data.admin.ch/eli/oc/2003/738)Art. 15]. Heute: der V vom 26. Nov. 2003 ([SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)).
 [^annex1-lvlu1-lvl2-7]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^annex1-lvlu1-lvl2-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)

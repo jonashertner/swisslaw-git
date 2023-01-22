@@ -3,11 +3,11 @@ sr: "943.11"
 title: Ordinanza del 4 settembre 2002 sul commercio ambulante (OCAmb)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/509"
 language: it
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2002-09-04
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-509-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2002-509-20230123-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20220101/it"
 
 (OCAmb)[^t-1]
 
-del 4 settembre 2002 (Stato 1° gennaio 2022)
+del 4 settembre 2002 (Stato 23 gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
@@ -108,15 +108,16 @@ I documenti previsti nell’articolo 4 capoverso 2 della legge federale devono s
 
 - a. l’estratto del registro di commercio deve essere stato rilasciato nel corso degli ultimi tre mesi;
 - b. il documento di identità può essere presentato in forma di passaporto valido, nella licenza di condurre o nella carta d’identità valida; nella procedura di domanda scritta è sufficiente una fotocopia dei documenti menzionati;
-- c. l’estratto del casellario giudiziale deve essere stato rilasciato nel corso dell’ultimo mese;
+- c.[^7-1] l’estratto per privati del casellario giudiziale informatizzato VOSTRA deve essere stato rilasciato nel corso dell’ultimo mese;
 - d. l’attestato di domicilio deve essere stato rilasciato nel corso degli ultimi 12 mesi;
-- e.[^7-1] il richiedente deve presentare l’autorizzazione scritta del titolare del diritto di utilizzazione del fondo in questione se prevede concretamente, al momento della domanda, di parcheggiare il proprio veicolo durante la notte nell’ambito della sua attività di commercio ambulante. Se il parcheggio è previsto in aree di sosta o di transito ufficiali, decade l’obbligo di presentare l’autorizzazione scritta.
+- e.[^7-2] il richiedente deve presentare l’autorizzazione scritta del titolare del diritto di utilizzazione del fondo in questione se prevede concretamente, al momento della domanda, di parcheggiare il proprio veicolo durante la notte nell’ambito della sua attività di commercio ambulante. Se il parcheggio è previsto in aree di sosta o di transito ufficiali, decade l’obbligo di presentare l’autorizzazione scritta.
 
 <sup>2</sup> La domanda deve essere corredata di due fotografie formato passaporto recenti del commerciante ambulante.
 
 <sup>3</sup> Gli estratti del registro di commercio e del casellario giudiziale, il documento di identità e l’attestato di domicilio rilasciati all’estero devono essere equivalenti ai corrispondenti documenti svizzeri.
 
-[^7-1]: Introdotta dal n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
+[^7-1]: Nuovo testo giusta l’all. 10 n. II 28 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^7-2]: Introdotta dal n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
 #### Art. 8
 
@@ -124,11 +125,11 @@ I documenti previsti nell’articolo 4 capoverso 2 della legge federale devono s
 
 <sup>1</sup> Se la domanda non è compilata correttamente o è incompleta, l’autorità cantonale competente oppure l’impresa o l’associazione di categoria ai sensi della sezione 3 può respingerla affinché sia rettificata o completata.
 
-<sup>2</sup> L’autorità cantonale competente chiede un preavviso alla Segreteria di Stato dell’economia (SECO)[^8-1] se, sulla base dell’esame dell’estratto del casellario giudiziale, entra in linea di conto un rifiuto dell’autorizzazione in virtù dell’articolo 4 capoverso 1 della legge federale. A tal fine l’autorità cantonale trasmette senza indugio alla SECO la domanda di autorizzazione e l’estratto del casellario giudiziale, comunicando la data in cui il richiedente intende iniziare l’attività.
+<sup>2</sup> L’autorità cantonale competente chiede un preavviso alla Segreteria di Stato dell’economia (SECO) se, sulla base dell’esame dell’estratto per privati del casellario giudiziale informatizzato VOSTRA entra in linea di conto un rifiuto dell’autorizzazione in virtù dell’articolo 4 capoverso 1 della legge federale. A tal fine l’autorità cantonale trasmette senza indugio alla SECO la domanda di autorizzazione e l’estratto per privati, comunicando la data in cui il richiedente intende iniziare l’attività.[^8-1]
 
 <sup>3</sup> Prima di dare il suo preavviso, la SECO può consultare presso le autorità giudiziarie competenti i documenti penali del richiedente. Dopo di che comunica immediatamente il suo preavviso motivato all’autorità cantonale.
 
-[^8-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^8-1]: Nuovo testo giusta l’all. 10 n. II 28 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 9
 
@@ -193,7 +194,7 @@ L’autorità cantonale revoca l’autorizzazione al commerciante ambulante esig
 <sup>4</sup> Il commerciante ambulante deve comunicare immediatamente all’autorità cantonale competente i cambiamenti rilevanti subentrati nei documenti di cui all’articolo 4 della legge federale.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
-[^12-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^12-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([[RS 170.512.1](https://www.fedlex.admin.ch/eli/cc/2015/670/it)](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([[RU 2021 589](https://www.fedlex.admin.ch/eli/oc/2021/589/it)](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^12-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^12-4]: Nuovo testo giusta l’all. 3 n. 3 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
@@ -231,7 +232,7 @@ Le imprese e le associazioni di categoria abilitate:
 - a. rilasciano la tessera di legittimazione direttamente ai propri dipendenti, soci o dipendenti di questi ultimi;
 - b. rinnovano la tessera di legittimazione.
 
-<sup>2</sup> Se entra in linea di conto un rifiuto del rilascio in virtù dell’articolo 4 capoverso 1 della legge federale, le imprese o le associazioni di categoria abilitate trasmettono il modulo di domanda e l’estratto del casellario giudiziale della persona interessata all’autorità cantonale competente. Quest’ultima li inoltra alla SECO.
+<sup>2</sup> Se entra in linea di conto un rifiuto del rilascio in virtù dell’articolo 4 capoverso 1 della legge federale, le imprese o le associazioni di categoria abilitate trasmettono il modulo di domanda e l’estratto per privati del casellario giudiziale informatizzato VOSTRA della persona interessata all’autorità cantonale competente. Quest’ultima li inoltra alla SECO.[^15-1]
 
 <sup>3</sup> Esse rilasciano le tessere di legittimazione conformemente ai requisiti di cui all’articolo 11.
 
@@ -240,8 +241,11 @@ Le imprese e le associazioni di categoria abilitate:
 Entro sette giorni dalla consegna o dal rinnovo della tessera di legittimazione, esse inviano all’autorità cantonale competente:
 
 - a. una copia del modulo di domanda del commerciante ambulante;
-- b. una copia dell’estratto del casellario giudiziale del commerciante ambulante;
+- b.[^15-2] una copia dell’estratto per privati del commerciante ambulante;
 - c. una copia della tessera di legittimazione rilasciata o rinnovata.
+
+[^15-1]: Nuovo testo giusta l’all. 10 n. II 28 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^15-2]: Nuovo testo giusta l’all. 10 n. II 28 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -255,9 +259,11 @@ Entro sette giorni dalla consegna o dal rinnovo della tessera di legittimazione,
 
 **Compiti dell’autorità cantonale competente**
 
-<sup>1</sup> L’autorità cantonale competente controlla per sondaggio se le imprese e associazioni di categoria abilitate soddisfano le condizioni legali. A tale scopo controlla periodicamente le copie degli estratti del casellario giudiziale e delle tessere di legittimazione.
+<sup>1</sup> L’autorità cantonale competente controlla per sondaggio se le imprese e associazioni di categoria abilitate soddisfano le condizioni legali. A tale scopo controlla periodicamente le copie degli estratti per privati del casellario giudiziale informatizzato VOSTRA e delle tessere di legittimazione.[^17-1]
 
 <sup>2</sup> Può revocare direttamente la tessera di legittimazione a singoli commercianti ambulanti, se le condizioni di cui all’articolo 10 della legge federale sono adempiute.
+
+[^17-1]: Nuovo testo giusta l’all. 10 n. II 28 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 18
 
@@ -335,7 +341,7 @@ Non occorre presentare un attestato di sicurezza per:
 L’organismo d’ispezione deve:
 
 - a. essere accreditato dal Servizio d’accreditamento svizzero (SAS) conformemente all’ordinanza del 17 giugno 1996[^22-1] sull’accreditamento e sulla designazione;
-- [tab] a<sup>bis</sup>.[^22-2] essere accreditato, per i tipi di impianti di cui all’allegato 2, da un servizio d’accreditamento estero equivalente al SAS, in particolare dal servizio d’accreditamento tedesco (DAkkS[^22-3]), francese (Cofrac[^22-4]), austriaco (AA[^22-5]) o italiano (Accredia[^22-6]);
+- a<sup>bis</sup>.[^22-2] essere accreditato, per i tipi di impianti di cui all’allegato 2, da un servizio d’accreditamento estero equivalente al SAS, in particolare dal servizio d’accreditamento tedesco (DAkkS[^22-3]), francese (Cofrac[^22-4]), austriaco (AA[^22-5]) o italiano (Accredia[^22-6]);
 - b. essere riconosciuto dalla Svizzera nell’ambito di un accordo internazionale; o
 - c. essere abilitato o riconosciuto ad altro titolo dal diritto federale.
 
@@ -426,9 +432,11 @@ Oltre a presentare la domanda, il richiedente deve dimostrare di avere stipulato
 
 #### Art. 27
 
-**Estratti del casellario giudiziale dei commercianti ambulanti**
+**Estratti del casellario giudiziale dei commercianti ambulanti**[^27-1]
 
-Se vi sono indizi che le condizioni legali non sono più adempiute, l’autorità cantonale competente può ingiungere alla persona interessata di presentare un estratto attuale del casellario giudiziale.
+Se vi sono indizi che le condizioni legali non sono più adempiute, l’autorità cantonale competente può ingiungere alla persona interessata di presentare un estratto per privati aggiornato del casellario giudiziale informatizzato VOSTRA.
+
+[^27-1]: Nuovo testo giusta l’all. 10 n. II 28 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 28
 

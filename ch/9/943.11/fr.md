@@ -3,11 +3,11 @@ sr: "943.11"
 title: Ordonnance du 4 septembre 2002 sur le commerce itinérant (OCi)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/509"
 language: fr
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2002-09-04
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-509-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2002-509-20230123-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20220101/fr"
 
 (OCI)[^t-1]
 
-du 4 septembre 2002 (État le 1<sup>er</sup> janvier 2022)
+du 4 septembre 2002 (État le 23 janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
@@ -108,15 +108,16 @@ Les documents exigés à l’art. 4, al. 2, de la loi doivent répondre aux exig
 
 - a. l’extrait du registre du commerce doit avoir été établi dans les trois derniers mois;
 - b. la pièce d’identité peut être présentée sous la forme d’un passeport, d’un permis de conduire ou d’une carte d’identité valable; dans une procédure écrite, une photocopie de ces documents est suffisante;
-- c. l’extrait du casier judiciaire doit avoir été établi au cours du dernier mois;
+- c.[^7-1] l’extrait du casier judiciaire destiné aux particuliers doit avoir été établi au cours du dernier mois;
 - d. l’attestation de domicile doit avoir été établie dans les douze derniers mois;
-- e.[^7-1] le consentement de l’ayant droit sur l’utilisation d’une parcelle de terrain doit être obtenu par écrit au cas où le requérant prévoit concrètement, au moment de déposer sa demande, de garer son véhicule pour la nuit sur ladite parcelle dans le cadre de son activité de commerce itinérant; le requérant est dispensé de cette obligation s’il envisage de garer son véhicule sur une aire de séjour et de transit officielle.
+- e.[^7-2] le consentement de l’ayant droit sur l’utilisation d’une parcelle de terrain doit être obtenu par écrit au cas où le requérant prévoit concrètement, au moment de déposer sa demande, de garer son véhicule pour la nuit sur ladite parcelle dans le cadre de son activité de commerce itinérant; le requérant est dispensé de cette obligation s’il envisage de garer son véhicule sur une aire de séjour et de transit officielle.
 
 <sup>2</sup> Toute demande doit être accompagnée de deux photos d’identité récentes du commerçant itinérant.
 
 <sup>3</sup> Les extraits du registre du commerce et du casier judiciaire ainsi que les pièces d’identité et les attestations de domicile établis à l’étranger doivent être équivalents aux documents suisses correspondants.
 
-[^7-1]: Introduite par le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
+[^7-1]: Nouvelle teneur selon l’annexe 10 ch. II 28 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^7-2]: Introduite par le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
 #### Art. 8
 
@@ -124,9 +125,11 @@ Les documents exigés à l’art. 4, al. 2, de la loi doivent répondre aux exig
 
 <sup>1</sup> Si la demande n’est pas correctement remplie ou si elle est incomplète, l’autorité cantonale compétente ou l’entreprise ou l’association économique au sens de la section 3 peut la retourner afin qu’elle soit rectifiée ou complétée.
 
-<sup>2</sup> L’autorité cantonale compétente demande un préavis au Secrétariat d’État à l’économie (SECO) lorsqu’elle estime qu’il y a lieu de refuser l’autorisation en vertu de l’art. 4, al. 1, de la loi sur la base de l’examen de l’extrait du casier judiciaire. Elle lui transmet sans retard la demande du requérant ainsi que l’extrait du casier judiciaire et lui indique la date à laquelle le requérant souhaite commencer son activité.
+<sup>2</sup> L’autorité cantonale compétente demande un préavis au Secrétariat d’État à l’économie (SECO) lorsqu’elle estime qu’il y a lieu de refuser l’autorisation en vertu de l’art. 4, al. 1, de la loi sur la base de l’examen de l’extrait du casier judiciaire destiné aux particuliers. Elle lui transmet sans retard la demande du requérant ainsi que l’extrait du casier judiciaire destiné aux particuliers et lui indique la date à laquelle le requérant souhaite commencer son activité.[^8-1]
 
 <sup>3</sup> Avant de rendre son préavis, le SECO peut consulter le dossier du requérant auprès des autorités judiciaires compétentes. Il communique immédiatement son préavis motivé à l’autorité cantonale.
+
+[^8-1]: Nouvelle teneur selon l’annexe 10 ch. II 28 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 9
 
@@ -229,7 +232,7 @@ Les entreprises et les associations habilitées:
 - a. remettent la carte de légitimation directement à leurs employés, à leurs membres ou aux personnes qui travaillent pour ces membres;
 - b. renouvellent la carte de légitimation.
 
-<sup>2</sup> Si les entreprises et les associations économiques habilitées envisagent de refuser la carte de légitimation conformément à l’art. 4, al. 1, de la loi, elles transmettent à l’autorité cantonale compétente le formulaire de demande et l’extrait du casier judiciaire de la personne concernée. L’autorité cantonale compétente les transmet au SECO.
+<sup>2</sup> Si les entreprises et les associations économiques habilitées envisagent de refuser la carte de légitimation conformément à l’art. 4, al. 1, de la loi, elles transmettent à l’autorité cantonale compétente le formulaire de demande et l’extrait destiné aux particuliers du casier judiciaire de la personne concernée. L’autorité cantonale compétente les transmet au SECO.[^15-1]
 
 <sup>3</sup> Elles établissent les cartes de légitimation conformément aux exigences définies à l’art. 11.
 
@@ -238,8 +241,11 @@ Les entreprises et les associations habilitées:
 Elles communiquent à l’autorité cantonale compétente, dans les sept jours à compter de la date d’établissement ou de renouvellement de la carte de légitimation:
 
 - a. une copie du formulaire de demande du commerçant itinérant;
-- b. une copie de l’extrait du casier judiciaire du commerçant itinérant;
+- b.[^15-2] une copie de l’extrait destiné aux particuliers du casier judiciaire du commerçant itinérant;
 - c. une copie de la carte remise ou renouvelée.
+
+[^15-1]: Nouvelle teneur selon l’annexe 10 ch. II 28 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^15-2]: Nouvelle teneur selon l’annexe 10 ch. II 28 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -253,9 +259,11 @@ Elles communiquent à l’autorité cantonale compétente, dans les sept jours �
 
 **Tâches de l’autorité cantonale compétente**
 
-<sup>1</sup> L’autorité cantonale compétente procède à des contrôles par sondage pour vérifier si les entreprises et les associations économiques habilitées répondent aux conditions légales. À cet effet, elle examine périodiquement les copies des extraits du casier judiciaire et des cartes de légitimation.
+<sup>1</sup> L’autorité cantonale compétente procède à des contrôles par sondage pour vérifier si les entreprises et les associations économiques habilitées répondent aux conditions légales. À cet effet, elle examine périodiquement les copies des extraits du casier judiciaire destinés aux particuliers et des cartes de légitimation.[^17-1]
 
 <sup>2</sup> Elle peut retirer directement la carte de légitimation aux commerçants itinérants lorsque les conditions de l’art. 10, al. 1, de la loi sont remplies.
+
+[^17-1]: Nouvelle teneur selon l’annexe 10 ch. II 28 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 18
 
@@ -424,9 +432,11 @@ Le requérant doit joindre à sa demande une attestation qui établit qu’il a 
 
 #### Art. 27
 
-**Extraits du casier judiciaire des commerçants itinérants**
+**Extraits du casier judiciaire des commerçants itinérants**[^27-1]
 
-L’autorité cantonale compétente peut exiger d’une personne qu’elle remette un extrait actuel de son casier judiciaire lorsqu’il existe des indices qu’elle ne répond plus aux conditions légales.
+L’autorité cantonale compétente peut exiger d’une personne qu’elle remette un extrait destiné aux particuliers actuel de son casier judiciaire lorsqu’il existe des indices qu’elle ne répond plus aux conditions légales.
+
+[^27-1]: Nouvelle teneur selon l’annexe 10 ch. II 28 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 28
 
