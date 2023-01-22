@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: it
-version: 2022-11-22
+version: 2023-01-23
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20221122/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20221122-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20221122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati segnaletici di natura biometrica
 
-del 6 dicembre 2013 (Stato 22 novembre 2022)
+del 6 dicembre 2013 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -71,7 +71,7 @@ I servizi competenti di fedpol trattano dati segnaletici nell’ambito dei segue
 <sup>2</sup> I servizi competenti di cui al capoverso 1 devono essere accreditati secondo la norma ISO/IEC 17025[^3-2].
 
 [^3-1]: Introdotta dal n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
-[^3-2]: ISO/IEC 17025: 2005 Requisiti generali per la competenza dei laboratori di prova e di taratura. La norma può essere consultata gratuitamente presso fedpol od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3-2]: ISO/IEC 17025: 2005 Requisiti generali per la competenza dei laboratori di prova e di taratura. La norma può essere consultata gratuitamente presso fedpol od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 #### Art. 3a
 
@@ -292,44 +292,12 @@ Al momento della comunicazione del risultato del confronto ai sensi dell’artic
 
 #### Art. 17
 
-**Cancellazione dei dati segnaletici di natura biometrica rilevati nel quadro di un procedimento penale**
+**Cancellazione di dati segnaletici esteri di natura biometrica**[^17-1]
 
-<sup>1</sup>
+I dati segnaletici esteri di natura biometrica sono cancellati 30 anni dopo la registrazione in IPAS, se non sono già stati cancellati in virtù degli articoli 16–19 della legge del 20 giugno 2003[^17-2] sui profili del DNA.
 
-Il servizio competente della gestione di AFIS cancella i dati segnaletici di natura biometrica di cui all’articolo 2 rilevati a una determinata persona:
-
-- a. non appena, nel corso del procedimento, si è potuta scagionare la persona interessata;
-- b. dopo la morte della persona interessata;
-- c. non appena il procedimento in corso è stato concluso con una sentenza d’assoluzione passata in giudicato;
-- d. un anno dopo l’abbandono definitivo del procedimento;
-- e. cinque anni dopo la fine del periodo di prova in caso di sospensione condizionale totale o parziale della pena;
-- f. cinque anni dopo il pagamento di una multa o di una pena pecuniaria, dopo la fine di un lavoro di pubblica utilità o dopo l’esecuzione di una corrispondente pena da commutazione;
-- g. cinque anni dopo un’ammonizione, dopo la fine di una prestazione personale o dopo il pagamento di una multa ai sensi degli articoli 22–24 del diritto penale minorile del 20 giugno 2003[^17-1] (DPMin);
-- h. cinque anni dopo la fine del periodo di prova in caso di sospensione condizionale di una multa, di una prestazione personale o di una privazione della libertà ai sensi dell’articolo 35 DPMin;
-- i. cinque anni dopo l’esecuzione di una misura protettiva ai sensi degli articoli 12–14 DPMin;
-- j. dieci anni dopo l’esecuzione di una privazione della libertà ai sensi dell’articolo 25 DPMin;
-- k. dieci anni dopo la fine dell’esecuzione di un collocamento ai sensi dell’articolo 15 DPMin;
-- l.[^17-2] dieci anni dopo la fine dell’interdizione di esercitare un’attività ai sensi degli articoli 67 del Codice penale, 50 del Codice penale militare del 13 giugno 1927[^17-3] (CPM) o 16*a* capoverso 1 DPMin;
-- m.[^17-4] dieci anni dopo la fine del divieto di avere contatti e di accedere ad aree determinate ai sensi degli articoli 67*b* del Codice penale, 50*b* CPM o 16*a* capoverso 2 DPMin.
-
-<sup>2</sup> Nei casi di cui al capoverso 1 lettere c e d, i dati non sono cancellati se l’assoluzione o l’abbandono del procedimento sono avvenuti per non imputabilità dell’autore.
-
-<sup>3</sup>
-
-Tutti i dati che non sono stati cancellati in virtù del capoverso 1 sono cancellati, fatta salva una cancellazione successiva in virtù del capoverso 4, al più tardi:
-
-- a. 30 anni dopo il rilevamento segnaletico;
-- b. in caso di materiale segnaletico estero, 30 anni dopo la registrazione in IPAS.
-
-<sup>4</sup> In caso di esecuzione di una pena detentiva, di internamento, di misure terapeutiche o di espulsione ai sensi dell’articolo 66*a o* 66*a*<sup>bis</sup> del Codice penale[^17-5] oppure dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^17-6], fedpol cancella i dati 20 anni dopo la liberazione dalla pena detentiva o dall’internamento o dopo l’esecuzione della misura terapeutica o la fine dell’espulsione.[^17-7]
-
-[^17-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^17-2]: Introdotta dal n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4479](https://fedlex.data.admin.ch/eli/oc/2014/745)).
-[^17-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^17-4]: Introdotta dal n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4479](https://fedlex.data.admin.ch/eli/oc/2014/745)).
-[^17-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^17-6]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^17-7]: Nuovo testo giusta il n. I 12 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^17-1]: Nuovo testo giusta l’all. 10 n. II 15 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^17-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 18
 
@@ -339,35 +307,11 @@ Tutti i dati che non sono stati cancellati in virtù del capoverso 1 sono cancel
 
 <sup>2</sup> Se, al momento della cancellazione dei dati segnaletici di natura biometrica di una determinata persona in IPAS, si constata che, sulla base delle informazioni ivi registrate, i dati hanno fornito un riscontro positivo con una traccia, la cancellazione dei dati è comunicata al Cantone che possiede tale traccia.
 
-#### Art. 19
+#### Art. 19 a 21
 
-**Cancellazioni subordinate a consenso**
+[^1921-1]
 
-<sup>1</sup> Nei casi di cui all’articolo 17 capoversi 1 lettere e–k e 4, l’autorità committente chiede il consenso dell’autorità giudiziaria competente. Quest’ultima può negare il consenso se sussiste il sospetto concreto di un crimine o di un delitto non caduto in prescrizione o se si teme una recidiva.
-
-<sup>2</sup> Non appena dispone del consenso dell’autorità giudiziaria competente, l’autorità committente chiede al servizio competente per la gestione di AFIS di cancellare i dati.
-
-<sup>3</sup> Si può prescindere dal chiedere il consenso a un’autorità estera.
-
-#### Art. 20
-
-**Cancellazione di tracce e dei dati segnaletici di natura biometrica di persone decedute**
-
-Fedpol cancella una traccia e i dati segnaletici di natura biometrica di una persona deceduta nonché i dati inerenti al caso:
-
-- a. su richiesta dell’autorità che ha fornito i dati; essa esige la cancellazione in particolare non appena i dati possono essere attribuiti a una persona che non entra in linea di conto come autrice del reato;
-- b. non appena possono essere attribuiti a un presunto autore di reato;
-- c. d’ufficio dopo 30 anni, eccetto per le tracce di reati imprescrittibili.
-
-#### Art. 21
-
-**Cancellazione dei dati segnaletici di natura biometrica rilevati al di fuori di un procedimento penale**
-
-<sup>1</sup> I dati segnaletici di natura biometrica rilevati, al di fuori di un procedimento penale, a una persona deceduta, sono cancellati non appena tale persona è stata identificata.
-
-<sup>2</sup> I dati segnaletici di natura biometrica registrati in AFIS in virtù dell’articolo 8 capoverso 1 lettera b numero 2, restano in AFIS finché sussistono i motivi all’origine della registrazione.
-
-<sup>3</sup> I dati registrati al di fuori di un procedimento penale sono in ogni caso cancellati dopo 50 anni.
+[^1921-1]: Abrogati dall’all. 10 n. II 15 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 22
 

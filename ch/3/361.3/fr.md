@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: fr
-version: 2022-11-22
+version: 2023-01-23
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20221122/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20221122-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20221122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données signalétiques biométriques
 
-du 6 décembre 2013 (État le 22 novembre 2022)
+du 6 décembre 2013 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -292,44 +292,12 @@ Lors de la communication du résultat de la comparaison au sens de l’art. 3, l
 
 #### Art. 17
 
-**Effacement des données signalétiques biométriques saisies dans le cadre d’une procédure pénale**
+**Effacement des données signalétiques étrangères**[^17-1]
 
-<sup>1</sup>
+Les données signalétiques étrangères sont effacées 30 ans après leur saisie dans IPAS, à moins qu’elles n’aient déjà été effacées en application des art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN[^17-2].
 
-Le service chargé de la gestion d’AFIS efface les données signalétiques biométriques mentionnées à l’art. 2 ayant été saisies sur une personne déterminée:
-
-- a. sitôt qu’il s’avère, au cours de la procédure, que la personne concernée ne peut être l’auteur de l’infraction;
-- b. après le décès de la personne concernée;
-- c. immédiatement après la clôture de la procédure par un acquittement ayant force de droit;
-- d. un an après le non-lieu;
-- e. cinq ans après l’expiration du délai d’épreuve lorsqu’il s’agit d’une peine assortie du sursis ou du sursis partiel;
-- f. cinq ans après le paiement d’une amende ou d’une peine pécuniaire, après la cessation d’un travail d’intérêt général ou après l’exécution d’une peine de substitution;
-- g. cinq ans après une réprimande, la fin d’une prestation personnelle ou le paiement d’une amende au sens des art. 22 à 24 du droit pénal des mineurs du 20 juin 2003 (DPMin)[^17-1];
-- h. cinq ans après l’expiration du délai d’épreuve en cas de sursis à l’exécution d’une amende, d’une prestation personnelle ou d’une privation de liberté au sens de l’art. 35 DPMin;
-- i. cinq ans après l’exécution d’une mesure de protection au sens des art. 12 à 14 DPMin;
-- j. dix ans après l’exécution d’une privation de liberté au sens de l’art. 25 DPMin;
-- k. dix ans après la cessation d’un placement au sens de l’art. 15 DPMin;
-- l.[^17-2] dix ans après la fin d’une interdiction d’exercer une activité au sens de l’art. 67 du code pénal, de l’art. 50 du code pénal militaire du 13 juin 1927 (CPM)[^17-3] ou de l’art. 16*a*, al. 1, DPMin;
-- m.[^17-4] dix ans après la fin d’une interdiction de contact ou d’une interdiction géographique au sens de l’art. 67*b* du code pénal, de l’art. 50*b* CPM ou de l’art. 16*a*, al. 2, DPMin.
-
-<sup>2</sup> Dans les cas visés à l’al. 1, let. c et d, les données ne sont pas effacées lorsque l’acquittement ou le non-lieu a été décidé pour cause d’irresponsabilité de l’auteur.
-
-<sup>3</sup>
-
-Toutes les données qui n’ont pas été effacées en vertu de l’al. 1 sont effacées, sous réserve d’un effacement ultérieur au sens de l’al. 4, au plus tard:
-
-- a. 30 ans après la saisie signalétique;
-- b. en cas de matériel signalétique étranger, 30 ans après sa saisie dans IPAS.
-
-<sup>4</sup> Lorsque la personne purge une peine privative de liberté, est internée, se voit appliquer une mesure thérapeutique ou a été expulsée au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^17-5] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^17-6], fedpol efface ses données 20 ans après la libération de la peine privative de liberté ou de l’internement, ou après la fin de la mesure thérapeutique en question ou de la durée d’expulsion.[^17-7]
-
-[^17-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^17-2]: Introduite par le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4479](https://fedlex.data.admin.ch/eli/oc/2014/745)).
-[^17-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^17-4]: Introduite par le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4479](https://fedlex.data.admin.ch/eli/oc/2014/745)).
-[^17-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^17-6]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^17-7]: Nouvelle teneur selon le ch. I 12 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^17-1]: Nouvelle teneur selon l’annexe 10 ch. II 15 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^17-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 18
 
@@ -339,35 +307,11 @@ Toutes les données qui n’ont pas été effacées en vertu de l’al. 1 sont e
 
 <sup>2</sup> Si l’on constate, au moment de l’effacement des données signalétiques biométriques d’une personne déterminée dans IPAS, sur la base des informations qui y sont enregistrées, que ces données ont permis d’établir une concordance avec une trace, l’effacement des données est communiqué au canton possédant cette trace.
 
-#### Art. 19
+#### Art. 19 à 21
 
-**Effacement soumis à autorisation**
+[^1921-1]
 
-<sup>1</sup> Dans les cas visés à l’art. 17, al. 1, let. e à k, et 4, l’autorité requérante soumet l’effacement à l’approbation de l’autorité judiciaire compétente. Celle-ci peut refuser l’effacement s’il subsiste un soupçon concret relatif à un crime ou à un délit non prescrit ou s’il y a lieu de craindre une récidive.
-
-<sup>2</sup> Dès qu’elle dispose de l’approbation de l’autorité judiciaire compétente, l’autorité requérante demande au service chargé de la gestion d’AFIS d’effacer les données.
-
-<sup>3</sup> L’autorité requérante peut renoncer à demander l’approbation d’une autorité étran-gère.
-
-#### Art. 20
-
-**Effacement de traces et des données signalétiques biométriques de personnes décédées**
-
-Fedpol efface une trace et les données signalétiques biométriques d’une personne décédée et les données relatives au cas:
-
-- a. à la demande de l’autorité qui a fourni les données; celle-ci exige en particulier l’effacement sitôt que les données peuvent être attribuées à une personne dont il s’est avéré qu’elle ne pouvait être l’auteur de l’infraction;
-- b. sitôt qu’elles peuvent être attribuées à l’auteur présumé de l’infraction;
-- c. d’office après 30 ans, excepté les traces de crimes imprescriptibles.
-
-#### Art. 21
-
-**Effacement des données signalétiques biométriques saisies en dehors d’une procédure pénale**
-
-<sup>1</sup> Les données signalétiques biométriques d’une personne décédée qui ont été saisies en dehors d’une procédure pénale sont effacées dès que la personne concernée a été identifiée.
-
-<sup>2</sup> Les données signalétiques biométriques enregistrées dans AFIS conformément à l’art. 8, al. 1, let. b, ch. 2 sont maintenues dans AFIS tant que les motifs ayant conduit à l’enregistrement restent valables.
-
-<sup>3</sup> Les données saisies en dehors d’une procédure pénale sont effacées dans tous les cas après 50 ans.
+[^1921-1]: Abrogés par l’annexe 10 ch. II 15 de l’O du 19 oct. 2022 sur le casier judiciaire, avec effet au 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 22
 

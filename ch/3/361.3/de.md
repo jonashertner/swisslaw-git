@@ -3,18 +3,18 @@ sr: "361.3"
 title: Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: de
-version: 2022-11-22
+version: 2023-01-23
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20221122/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20221122-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20221122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 
-vom 6. Dezember 2013 (Stand am 22. November 2022)
+vom 6. Dezember 2013 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -292,44 +292,12 @@ Bei der Bekanntgabe des Vergleichsergebnisses nach Artikel 3 Buchstabe e teilt d
 
 #### Art. 17
 
-**Löschung der im Rahmen eines Strafverfahrens erfassten biometrischen erkennungsdienstlichen Daten**
+**Löschung von ausländischen biometrischen erkennungsdienstlichen Daten**[^17-1]
 
-<sup>1</sup>
+Ausländische biometrische erkennungsdienstliche Daten werden 30 Jahre nach deren Erfassung im IPAS gelöscht, falls sie nicht bereits nach den Artikeln 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003[^17-2] gelöscht worden sind.
 
-Der für die Führung von AFIS zuständige Dienst löscht die biometrischen erkennungsdienstlichen Daten nach Artikel 2, die von einer bestimmten Person erfasst worden sind:
-
-- a. sobald die betroffene Person im Verlaufe des Verfahrens als Täter oder Täterin ausgeschlossen werden kann;
-- b. nach dem Tod der betroffenen Person;
-- c. sobald das betreffende Verfahren mit einem Freispruch rechtskräftig abgeschlossen worden ist;
-- d. ein Jahr nach der definitiven Einstellung des Verfahrens;
-- e. fünf Jahre nach Ablauf der Probezeit bei bedingtem oder teilbedingtem Strafvollzug;
-- f. fünf Jahre nach der Zahlung einer Busse oder einer Geldstrafe, nach der Beendigung einer gemeinnützigen Arbeit oder nach dem Vollzug einer entsprechenden Umwandlungsstrafe;
-- g. fünf Jahre nach der Erteilung eines Verweises, der Beendigung einer persönlichen Leistung oder nach der Bezahlung einer Busse nach den Artikeln 22–24 des Jugendstrafgesetzes vom 20. Juni 2003[^17-1] (JStG);
-- h. fünf Jahre nach der Probezeit bei bedingtem Vollzug einer Busse, einer persönlichen Leistung oder eines Freiheitsentzuges nach Artikel 35 JStG;
-- i. fünf Jahre nach dem Vollzug einer Schutzmassnahme nach den Artikeln 12–14 JStG;
-- j. zehn Jahre nach dem Vollzug eines Freiheitsentzuges nach Artikel 25 JStG;
-- k. zehn Jahre nach der Beendigung des Vollzugs einer Unterbringung nach Artikel 15 JStG;
-- l.[^17-2] zehn Jahre nach Ende eines Tätigkeitsverbots nach Artikel 67 des Strafgesetzbuches, nach Artikel 50 des Militärstrafgesetzes vom 13. Juni 1927[^17-3] (MStG) oder nach Artikel 16*a* Absatz 1 JStG;
-- m.[^17-4] zehn Jahre nach Ende eines Kontakt- und Rayonverbots nach Artikel 67*b* des Strafgesetzbuches, nach Artikel 50*b* MStG oder nach Artikel 16*a* Absatz 2 JStG.
-
-<sup>2</sup> In den Fällen nach Absatz 1 Buchstaben c und d werden die Daten nicht gelöscht, wenn der Freispruch oder die Verfahrenseinstellung wegen Schuldunfähigkeit der Täterin oder des Täters erfolgte.
-
-<sup>3</sup>
-
-Alle Daten, die nicht bereits nach Absatz 1 gelöscht worden sind, werden unter Vorbehalt einer späteren Löschung nach Absatz 4 spätestens gelöscht:
-
-- a. 30 Jahre nach der erkennungsdienstlichen Erfassung;
-- b. im Falle ausländischen erkennungsdienstlichen Materials: 30 Jahre nach dessen Erfassung im IPAS.
-
-<sup>4</sup> Beim Vollzug einer Freiheitsstrafe, bei der Verwahrung, bei therapeutischen Massnahmen oder bei Landesverweisungen nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^17-5] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^17-6] löscht fedpol die Daten 20 Jahre nach der Entlassung aus der Freiheitsstrafe oder der Verwahrung, beziehungsweise nach dem Vollzug der therapeutischen Massnahme oder dem Ende der Landesverweisung.[^17-7]
-
-[^17-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^17-2]: Eingefügt durch Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4479](https://fedlex.data.admin.ch/eli/oc/2014/745)).
-[^17-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^17-4]: Eingefügt durch Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4479](https://fedlex.data.admin.ch/eli/oc/2014/745)).
-[^17-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^17-6]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^17-7]: Fassung gemäss Ziff. I 12 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^17-1]: Fassung gemäss Anhang 10 Ziff. II 15 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^17-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 #### Art. 18
 
@@ -339,35 +307,11 @@ Alle Daten, die nicht bereits nach Absatz 1 gelöscht worden sind, werden unter 
 
 <sup>2</sup> Wird im Zeitpunkt der Löschung der biometrischen erkennungsdienstlichen Daten einer bestimmten Person im IPAS aufgrund der dort verzeichneten Angaben festgestellt, dass diese Daten einen Treffer auf eine Spur erzielt haben, so wird die Löschung der Daten dem Kanton, der diese Spur besitzt, mitgeteilt.
 
-#### Art. 19
+#### Art. 19–21
 
-**Zustimmungsbedürftige Löschungen**
+[^1921-1]
 
-<sup>1</sup> In den Fällen nach Artikel 17 Absätze 1 Buchstaben e–k und 4 holt die auftraggebende Behörde die Zustimmung der zuständigen richterlichen Behörde ein. Diese kann die Zustimmung verweigern, wenn der konkrete Verdacht auf ein nicht verjährtes Verbrechen oder Vergehen nicht behoben ist oder eine Wiederholungstat befürchtet wird.
-
-<sup>2</sup> Sobald ihr die Zustimmung der zuständigen richterlichen Behörde vorliegt, beantragt die auftraggebende Behörde dem für die Führung von AFIS zuständigen Dienst die Löschung der Daten.
-
-<sup>3</sup> Auf die Einholung der Zustimmung einer ausländischen Behörde kann verzichtet werden.
-
-#### Art. 20
-
-**Löschung von Spuren und der biometrischen erkennungsdienstlichen Daten toter Personen**
-
-Fedpol löscht eine Spur und die biometrischen erkennungsdienstlichen Daten einer toten Person sowie die dazugehörigen Fallangaben:
-
-- a. auf Verlangen der Daten liefernden Behörde; diese verlangt die Löschung insbesondere, sobald diese Daten einer Person zugeordnet werden können, die als Täterin oder Täter ausgeschlossen worden ist;
-- b. sobald diese einem mutmasslichen Täter oder einer mutmasslichen Täterin zugeordnet werden können;
-- c. von Amtes wegen nach 30 Jahren, ausgenommen Spuren unverjährbarer Straftaten.
-
-#### Art. 21
-
-**Löschung der ausserhalb von Strafverfahren erfassten biometrischen erkennungsdienstlichen Daten**
-
-<sup>1</sup> Biometrische erkennungsdienstliche Daten, die von einer toten Person ausserhalb eines Strafverfahrens erfasst worden sind, werden gelöscht, sobald die betroffene Person identifiziert ist.
-
-<sup>2</sup> Die biometrischen erkennungsdienstlichen Daten, die nach Artikel 8 Absatz 1 Buchstabe b Ziffer 2 in das AFIS aufgenommen worden sind, verbleiben im AFIS, solange die Gründe, die die Speicherung veranlasst haben, fortbestehen.
-
-<sup>3</sup> Die ausserhalb von Strafverfahren erfassten Daten werden in jedem Fall nach 50 Jahren gelöscht.
+[^1921-1]: Aufgehoben durch Anhang 10 Ziff. II 15 der Strafregisterverordnung vom 19. Okt. 2022, mit Wirkung seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 22
 
