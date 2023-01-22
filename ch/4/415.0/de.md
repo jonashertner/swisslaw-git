@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2011 über die Förderung von Sport und Bewegu
 short: SpoFöG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: de
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/de"
 
 (Sportförderungsgesetz, SpoFöG)
 
-vom 17. Juni 2011 (Stand am 1. Januar 2022)
+vom 17. Juni 2011 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -139,7 +139,7 @@ Der Bund erreicht diese Ziele durch:
 
 <sup>3</sup> Ist die betroffene Person wegen einer Straftat, die mit ihrer Stellung als «Jugend und Sport»-Kader unvereinbar ist, rechtskräftig verurteilt worden, so verweigert oder entzieht das BASPO die Anerkennung.
 
-<sup>4</sup> Es nimmt für die Leumundsprüfung Einsicht in Strafregisterdaten über Urteile und über hängige Strafverfahren.
+<sup>4</sup> Es nimmt für die Leumundsprüfung Einsicht in die gemäss dem Strafregistergesetz vom 17. Juni 2016[^10-1] zugänglichen Strafregisterdaten.[^10-2]
 
 <sup>5</sup>
 
@@ -148,6 +148,9 @@ Die Strafverfolgungsbehörden und die Gerichte sind verpflichtet, auf schriftlic
 - a. dies für den Entscheid über die Erteilung, die Sistierung oder den Entzug von Anerkennungen als «Jugend und Sport»-Kader notwendig ist;
 - b. dadurch die Persönlichkeitsrechte Dritter nicht beeinträchtigt werden; und
 - c. dadurch der Zweck der Strafuntersuchung nicht gefährdet wird.
+
+[^10-1]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^10-2]: Fassung gemäss Anhang 1 Ziff. 9 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 11
 
@@ -356,7 +359,7 @@ In den Fällen nach Absatz 1 Buchstabe b dürfen nur die folgenden Daten weiterg
 
 <sup>4</sup> Die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle hat dafür zu sorgen, dass die von ihr übermittelten Daten nicht an unberechtigte Dritte weitergegeben werden. Sie verweigert die Datenweitergabe, wenn eine Verletzung von Persönlichkeitsrechten droht, insbesondere wenn die Stelle, die die Daten erhält, keinen angemessenen Schutz der Daten gewährleisten kann.
 
-### 3. Abschnitt:**** Massnahmen gegen Wettkampfmanipulation
+### 3. Abschnitt: Massnahmen gegen Wettkampfmanipulation
 
 [^chap5-sec3-1]
 
@@ -513,13 +516,13 @@ Der Bund kann Finanzhilfen verweigern oder zurückfordern, wenn:
 
 Das Bundesgesetz vom 17. März 1972[^33-1] über die Förderung von Turnen und Sport wird aufgehoben.
 
-[^33-1]: [[AS 1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069), [1987 107](https://fedlex.data.admin.ch/eli/oc/1987/107_107_107), [1994 1390](https://fedlex.data.admin.ch/eli/oc/1994/1390_1390_1390), [1995 1458](https://fedlex.data.admin.ch/eli/oc/1995/1458_1458_1458), [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. V 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 1, [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 6]
+[^33-1]: [[AS 1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069); [1987 107](https://fedlex.data.admin.ch/eli/oc/1987/107_107_107); [1994 1390](https://fedlex.data.admin.ch/eli/oc/1994/1390_1390_1390); [1995 1458](https://fedlex.data.admin.ch/eli/oc/1995/1458_1458_1458); [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. V 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 1; [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 6]
 
 #### Art. 34
 
 **Änderung bisherigen Rechts**
 
-...[^34-1]
+…[^34-1]
 
 [^34-1]: Die Änderungen können unter [AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460)konsultiert werden.
 

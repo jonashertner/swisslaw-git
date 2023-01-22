@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2011 davart la promoziun dal sport 
 short: LPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: rm
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/rm/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha per promover il sport, LPSpo)
 
-dals 17 da zercladur 2011 (versiun dal 1. da schaner 2022)
+dals 17 da zercladur 2011 (versiun dals 23 da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -141,7 +141,7 @@ En las disciplinas da sport admessas sustegna il program «Giuventetgna e sport�
 
 <sup>3</sup> Sche la persuna è vegnida sentenziada pervia d’in delict ch’è incumpatibel cun sia funcziun da cader da «Giuventetgna e sport», refusescha u suspenda il UFSPO la renconuschientscha.
 
-<sup>4</sup> Per l’examinaziun da la reputaziun da la persuna prenda il UFSPO invista da las datas dal register penal pertutgant las sentenzias e pertutgant las proceduras penalas pendentas.
+<sup>4</sup> Per examinar la reputaziun da la persuna prenda il UFSPO invista da las datas dal register penal ch’èn accessiblas tenor la Lescha dals 17 da zercladur 2016[^10-1] davart il register penal.[^10-2]
 
 <sup>5</sup>
 
@@ -150,6 +150,9 @@ Las autoritads da persecuziun penala e las dretgiras èn obligadas – sin dumon
 - a. quai è necessari per la decisiun davart la concessiun, davart la suspensiun u davart la revocaziun da las renconuschientschas sco cader da «Giuventetgna e sport»;
 - b. quai na pregiuditgescha betg ils dretgs persunals da terzs; e
 - c. quai na periclitescha betg l’intent da l’inquisiziun penala.
+
+[^10-1]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^10-2]: Versiun tenor la cifra 9 da l’agiunta 1 da la LF dals 17 da zer. 2016 davart il register penal, en vigur dapi ils 23 da schan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 11
 
@@ -358,7 +361,7 @@ En ils cas tenor l’alinea 1 litera b dastgan vegnir communitgadas mo las suand
 
 <sup>4</sup> Il post cumpetent per mesiras cunter doping tenor l’artitgel 19 sto procurar che las datas ch’el ha communitgà na vegnian betg dadas vinavant a terzs betg autorisads. El refusa da communitgar las datas, sch’i smanatscha ina violaziun dals dretgs persunals, particularmain sch’il post che survegn las datas na po betg garantir ina protecziun adequata da quellas.
 
-### 3. secziun**** Mesiras cunter la manipulaziun da concurrenzas
+### 3. secziun Mesiras cunter la manipulaziun da concurrenzas
 
 [^chap5-sec3-1]
 
@@ -515,7 +518,7 @@ La Confederaziun po refusar u dumandar la restituziun d’agids finanzials, sche
 
 La Lescha federala dals 17 da mars 1972[^33-1] davart la promoziun da gimnastica e sport vegn abolida.
 
-[^33-1]: [[AS 1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069), [1987 107](https://fedlex.data.admin.ch/eli/oc/1987/107_107_107), [1994 1390](https://fedlex.data.admin.ch/eli/oc/1994/1390_1390_1390), [1995 1458](https://fedlex.data.admin.ch/eli/oc/1995/1458_1458_1458), [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra V 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 1, [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)cifra II 6]
+[^33-1]: [[AS 1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069); [1987 107](https://fedlex.data.admin.ch/eli/oc/1987/107_107_107); [1994 1390](https://fedlex.data.admin.ch/eli/oc/1994/1390_1390_1390); [1995 1458](https://fedlex.data.admin.ch/eli/oc/1995/1458_1458_1458); [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra V 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 1; [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)cifra II 6]
 
 #### Art. 34
 

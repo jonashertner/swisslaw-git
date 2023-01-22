@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2011 sulla promozione dello sport e dell'at
 short: LPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: it
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/it"
 
 (Legge sulla promozione dello sport, LPSpo)
 
-del 17 giugno 2011 (Stato 1° gennaio 2022)
+del 17 giugno 2011 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -139,7 +139,7 @@ Con il programma Gioventù e Sport, nelle discipline ammesse vengono sostenuti c
 
 <sup>3</sup> Se la persona interessata è stata condannata con sentenza passata in giudicato per un reato incompatibile con il suo statuto di quadro Gioventù e Sport, l’UFSPO nega o revoca il riconoscimento.
 
-<sup>4</sup> Per verificare la reputazione, l’UFSPO consulta i dati del casellario giudiziale riguardanti le sentenze pronunciate e i procedimenti penali pendenti.
+<sup>4</sup> Per verificare la reputazione, l’UFSPO consulta i dati del casellario giudiziale accessibili secondo la legge del 17 giugno 2016[^10-1] sul casellario giudiziale.[^10-2]
 
 <sup>5</sup>
 
@@ -148,6 +148,9 @@ Su richiesta scritta, le autorità di perseguimento penale e i tribunali sono te
 - a. ciò sia necessario per la decisione concernente il rilascio, la sospensione o la revoca di riconoscimenti di quadro Gioventù e Sport;
 - b. non vengano in tal modo pregiudicati i diritti della personalità di terzi; e
 - c. non sia in tal modo compromesso lo scopo dell’istruzione penale.
+
+[^10-1]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^10-2]: Nuovo testo giusta l’all. 1 n. 9 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 11
 
@@ -356,7 +359,7 @@ Nei casi di cui al capoverso 1 lettera b possono essere comunicati soltanto i da
 
 <sup>4</sup> L’organo competente per le misure antidoping di cui all’articolo 19 provvede affinché i dati da esso trasmessi non vengano inoltrati a terzi non autorizzati. Rifiuta di comunicare i dati se teme una violazione dei diritti della personalità, in particolare se l’organo ricevente non può garantire una protezione adeguata di tali dati.
 
-### Sezione 3:**** Misure contro la manipolazione di competizioni
+### Sezione 3: Misure contro la manipolazione di competizioni
 
 [^chap5-sec3-1]
 

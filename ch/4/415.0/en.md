@@ -4,11 +4,11 @@ title: "Federal Act of 17 June 2011 on the Prommotion of Sport and Exercise (Spo
 short: SpoPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: en
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,9 +19,9 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Sport Promotion Act, SpoPA)
 
-of 17 June 2011 (Status as of 1 January 2022)
+of 17 June 2011 (Status as of 23 January 2023)
 
-The Federal Assembly of the Swiss Confederation, based on Article 68 of the Federal Constitution*[^ingress-1]*, having considered the Federal Council Dispatch of 11 November 2009*[^ingress-2]*,
+The Federal Assembly of the Swiss Confederation, based on Article 68 of the Federal Constitution[^ingress-1], having considered the Federal Council Dispatch of 11 November 2009[^ingress-2],
 
 decrees:
 
@@ -139,15 +139,18 @@ The «Youth and Sport» programme supports courses and camps in the recognised s
 
 <sup>3</sup> If such a person has been convicted of a criminal offence that is incompatible with their position as a «Youth and Sport» leader and has exhausted any rights of appeal, FOSPO shall refuse or withdraw their recognition.
 
-<sup>4</sup> In order to carry out personal checks, FOSPO shall inspect the data on convictions and on pending criminal proceedings in the register of criminal convictions.
+<sup>4</sup> In order to carry out personal checks, FOSPO shall inspect the data that is available in accordance with the Criminal Records Register Act of 17 June 2016[^10-1].[^10-2]
 
 <sup>5</sup>
 
 On request, the law enforcement authorities and the courts must provide FOSPO with further information from the relevant criminal files if:
 
-- a. such information is required for deciding on the issueing, suspension or withdrawal of recognition as a «Youth and Sport» leader;
+- a. such information is required for deciding on the issuing, suspension or withdrawal of recognition as a «Youth and Sport» leader;
 - b. this does not compromise the personal rights of third parties; and
 - c. this does not prejudice the outcome of the criminal proceedings.
+
+[^10-1]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^10-2]: Amended by Annex1 No 9 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 11
 
@@ -356,7 +359,7 @@ In the cases under paragraph 1 letter b, only the following data may be transmit
 
 <sup>4</sup> The anti-doping agency established under Article 19 must ensure that the data it transmits is not passed on to unauthorised third parties. It may refuse to transmit data if it suspects that rights to personal privacy may be violated, in particular if the agency receiving the data cannot afford appropriate data protection.
 
-### Section 3**** Measures to combat Competition Rigging
+### Section 3 Measures to combat Competition Rigging
 
 [^chap5-sec3-1]
 

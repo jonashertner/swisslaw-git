@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2011 sur l'encouragement du sport et de l'acti
 short: LESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: fr
-version: 2022-01-01
+version: 2023-01-23
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2012-460-20230123-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/fr"
 
 (Loi sur l’encouragement du sport, LESp)[^t-1]
 
-du 17 juin 2011 (Etat le 1<sup>er</sup> janvier 2022)
+du 17 juin 2011 (État le 23 janvier 2023)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -141,7 +141,7 @@ Le programme «Jeunesse et sport» soutient des cours et des camps destinés à 
 
 <sup>3</sup> Si la personne a été condamnée par un jugement entré en force pour une infraction incompatible avec la fonction de cadre «Jeunesse et sport», l’OFSPO refuse ou retire le certificat.
 
-<sup>4</sup> L’OFSPO consulte les données personnelles du casier judiciaire relatives aux condamnations et aux enquêtes pénales en cours lors de l’examen de la réputation de la personne concernée.
+<sup>4</sup> L’OFSPO consulte les données personnelles du casier judiciaire selon la loi du 17 juin 2016 sur le casier judiciaire[^10-1] lors de l’examen de la réputation de la personne concernée.[^10-2]
 
 <sup>5</sup>
 
@@ -150,6 +150,9 @@ Les autorités de poursuite pénale et les tribunaux sont tenus de donner à l�
 - a. les informations sont nécessaires pour prendre la décision d’attribution, de suspension ou de retrait des certificats de cadre «Jeunesse et sport»;
 - b. elles ne lèsent pas les droits de la personnalité de tiers;
 - c. elles ne compromettent pas l’instruction pénale.
+
+[^10-1]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^10-2]: Nouvelle teneur selon l’annexe 1 ch. 9 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 11
 
@@ -358,11 +361,11 @@ Dans les cas visés à l’al. 1, let. b, seules les données suivantes peuvent 
 
 <sup>4</sup> L’autorité compétente en matière de lutte contre le dopage (art. 19) veille à ce que les données qu’elle communique ne soient pas transmises à des tiers non autorisés. Elle refuse de transmettre les données lorsque des droits de la personnalité sont menacés, en particulier lorsque le destinataire n’assure pas un niveau de protection des données adéquat.
 
-### Section 3**** Mesures contre la manipulation des compétitions
+### Section 3 Mesures contre la manipulation des compétitions
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Introduite par le ch. II 3 de l’annexe à la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^chap5-sec3-1]: Introduite par l’annexe ch. II 3 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 
 #### Art. 25a
 
