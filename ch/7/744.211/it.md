@@ -3,11 +3,11 @@ sr: "744.211"
 title: "Ordinanza d'esecuzione del 6 luglio 1951 della legge federale sulle imprese filoviarie (Ordinanza sulle filovie)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1951/671_669_691"
 language: it
-version: 2012-07-01
+version: 2023-01-23
 adopted: 1951-07-06
 in_force: 1951-07-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1951/671_669_691/20120701/it/xml/fedlex-data-admin-ch-eli-cc-1951-671_669_691-20120701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1951/671_669_691/20120701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1951/671_669_691/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1951-671_669_691-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1951/671_669_691/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1951/671_669_691/20120701/it"
 
 (Ordinanza sulle filovie)
 
-del 6 luglio 1951 (Stato 1° luglio 2012)
+del 6 luglio 1951 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -32,7 +32,7 @@ decreta:
 
 [^12-1]
 
-[^12-1]: Abrogati dall’art. 52 n. 2 dell’O del 25 nov. 1998 sulla concessione per il trasporto di viaggiatori ([RU 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106)).
+[^12-1]: Abrogati dall’art. 52 n. 2 dell’O del 25 nov. 1998 sulla concessione per il trasporto di viaggiatori, in vigore dal 1° gen. 1999 ([RU 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106)).
 
 ## B. Vigilanza
 
@@ -42,7 +42,7 @@ decreta:
 
 L’Ufficio federale dei trasporti (Ufficio federale) esercita la vigilanza sulle imprese filoviarie. Le competenze di tale Ufficio sono determinate dalla legge federale del 29 marzo 1950 sulle imprese filoviarie, dalla legislazione sulle ferrovie e da quella sugli impianti elettrici.
 
-[^3-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^3-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ## C. Costruzione ed esercizio
 
@@ -67,7 +67,7 @@ Le disposizioni della legislazione sulle ferrovie e quelle della legislazione su
 
 Le disposizioni della legge federale del 20 dicembre 1957[^5-2] sulle ferrovie e dell’ordinanza del 2 febbraio 2000[^5-3] sulla procedura d’approvazione dei piani di impianti ferroviari si applicano per analogia alla procedura di approvazione dei piani per le costruzioni e gli impianti destinati esclusivamente o prevalentemente all’esercizio di una linea filoviaria (impianto filoviario) come pure alla procedura applicabile alle costruzioni e agli impianti di terzi (impianti secondari).
 
-[^5-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^5-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^5-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^5-3]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
@@ -75,7 +75,7 @@ Le disposizioni della legge federale del 20 dicembre 1957[^5-2] sulle ferrovie e
 
 [^67-1]
 
-[^67-1]: Abrogati dal n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^67-1]: Abrogati dal n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### b. Filobus e loro rimorchi
 
@@ -83,7 +83,7 @@ Le disposizioni della legge federale del 20 dicembre 1957[^5-2] sulle ferrovie e
 
 [^lvlC-lvlb-lvlu1-1]
 
-[^lvlC-lvlb-lvlu1-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^lvlC-lvlb-lvlu1-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 8
 
@@ -93,7 +93,7 @@ Le disposizioni della legge federale del 20 dicembre 1957[^5-2] sulle ferrovie e
 
 <sup>3</sup> I veicoli devono essere provvisti almeno di impianto per il riscaldamento, illuminazione elettrica e ventilazione.[^8-1]
 
-[^8-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^8-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### Installazioni a corrente forte
 
@@ -141,11 +141,11 @@ Devono essere consegnati i seguenti documenti relativi all’installazione a cor
 
 <sup>4</sup> Per i rimorchi devono essere presentati i documenti previsti nel capoverso 2 lettere a, b, c, d, e, h, i e m nonché nel capoverso 3 lettere b e c, come pure i piani del dispositivo d’agganciamento.[^10-5]
 
-[^10-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-2]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-3]: Abrogata dal n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-4]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-5]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-2]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-3]: Abrogata dal n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-4]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-5]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### 2. Procedura
 
@@ -159,7 +159,7 @@ Devono essere consegnati i seguenti documenti relativi all’installazione a cor
 
 <sup>4</sup> Nella procedura d’approvazione non è tenuto conto alcuno dei contratti di costruzione o di consegna conchiusi anteriormente.
 
-[^11-1]: Nuova espressione giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^11-1]: Nuova espr. giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Segno distintivo dell’impresa. Numerazione dei veicoli e designazione delle linee
 
@@ -171,7 +171,7 @@ Devono essere consegnati i seguenti documenti relativi all’installazione a cor
 
 <sup>3</sup> Tutti i filobus per il trasporto dei viaggiatori devono portare un’indicazione che informi gli utenti sulle corse a cui sono adibiti.
 
-[^12-2]: Nuovo testo giusta il n. I del DCF del 15 ott. 1957 ([RU 1957 865](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
+[^12-2]: Nuovo testo giusta il n. I del DCF del 15 ott. 1957, in vigore dal 1° nov. 1957 ([RU 1957 865](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
 
 ### Materiale d’esercizio, manutenzione
 
@@ -211,7 +211,7 @@ Per ogni filobus o rimorchio, l’impresa deve tenere un controllo in cui sono i
 
 <sup>5</sup> Per le filovie, l’Ufficio federale può affidare le verifiche prescritte a istituzioni, aziende e organizzazioni che garantiscono un’esecuzione conforme alle prescrizioni. Dette istituzioni, aziende e organizzazioni rendono conto delle verifiche all’Ufficio federale.[^15-1]
 
-[^15-1]: Introdotto dal n. II 6 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^15-1]: Introdotto dal n. II 6 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 
 ### Norme sulla circolazione
 
@@ -231,9 +231,9 @@ Per ogni filobus o rimorchio, l’impresa deve tenere un controllo in cui sono i
 
 <sup>2</sup> La licenza d’allievo conducente di filobus è rilasciata per le corse di tirocinio previste nell’articolo 18.
 
-<sup>3</sup> La licenza di condurre per filobus costituisce una categoria particolare di licenza di condurre. Può essere rilasciata soltanto a conducenti che hanno compiuto l’età di 21 anni, che adempiono le condizioni mediche minime richieste per la guida degli autoveicoli pesanti adibiti al trasporto di persone.[^17-1] Il richiedente deve presentare l’attestato di un medico riconosciuto dalle autorità cantonali, come pure un certificato di buona condotta e un estratto del casellario giudiziale.
+<sup>3</sup> La licenza di condurre per filobus costituisce una categoria particolare di licenza di condurre. Può essere rilasciata soltanto a conducenti che hanno compiuto l’età di 21 anni, che adempiono le condizioni mediche minime richieste per la guida degli autoveicoli pesanti adibiti al trasporto di persone. Il richiedente deve presentare l’attestato di un medico riconosciuto dalle autorità cantonali, come pure un certificato di buona condotta e un estratto per privati del casellario giudiziale informatizzato VOSTRA.[^17-1]
 
-[^17-1]: Nuovo testo dei due primi per. giusta l’art. 152 n. 2 dell’O del 27 ott. 1976 sull’ammissione alla circolazione di persone e veicoli, in vigore dal 1° gen. 1977 ([RU 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+[^17-1]: Nuovo testo giusta l’all. 10 n. II 22 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### Formazione dei conducenti
 
@@ -255,7 +255,7 @@ Per ogni filobus o rimorchio, l’impresa deve tenere un controllo in cui sono i
 
 <sup>7</sup> Le corse di tirocinio su filobus sono permesse soltanto se l’allievo è accompagnato da una persona in possesso di licenza di condurre siffatti veicoli.
 
-[^18-1]: Nuovo testo giusta il n. I del DCF del 15 ott. 1957 ([RU 1957 865](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
+[^18-1]: Nuovo testo giusta il n. I del DCF del 15 ott. 1957, in vigore dal 1° nov. 1957 ([RU 1957 865](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
 
 ### Esame dei conducenti
 
@@ -278,7 +278,7 @@ Per l’ammissione all’esame di guida dopo il tirocinio menzionato nell’arti
 
 [^20-1]
 
-[^20-1]: Abrogato dall’art. 153 lett. m dell’O del 27 ott. 1976 sull’ammissione alla circolazione di persone e veicoli ([RU 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+[^20-1]: Abrogato dall’art. 153 lett. m dell’O del 27 ott. 1976 sull’ammissione alla circolazione di persone e veicoli, in vigore dal ° gen. 1977 ([RU 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
 
 ### d. Esercizio
 
@@ -290,7 +290,7 @@ Per l’ammissione all’esame di guida dopo il tirocinio menzionato nell’arti
 
 Le imprese filoviarie devono essere esercitate conformemente alle disposizioni della concessione e alle prescrizioni della legislazione ferroviaria e della legislazione sugli impianti elettrici.
 
-[^21-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^21-1]: Nuovo testo giusta il n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### Regolamenti d’esercizio
 
@@ -312,13 +312,13 @@ I regolamenti d’esercizio e le disposizioni d’applicazione corrispondenti de
 
 [^2425-1]
 
-[^2425-1]: Abrogati dal n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^2425-1]: Abrogati dal n. II 4 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
-## D<sup>bis</sup>.**** Emolumenti
+## D<sup>bis</sup>. Emolumenti
 
 [^lvlDbis-1]
 
-[^lvlDbis-1]: Introdotto dall’art. 52 lett. *c* dell’O del 1° lug. 1987 sugli emolumenti all’UFT ([RU 1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052)).
+[^lvlDbis-1]: Introdotto dall’art. 52 lett. *c* dell’O del 1° lug. 1987 sugli emolumenti all’UFT, in vigore dal 1° ott. 1987([RU 1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052)).
 
 #### Art. 25a
 

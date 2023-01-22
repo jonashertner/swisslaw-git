@@ -3,11 +3,11 @@ sr: "744.211"
 title: Vollziehungsverordnung vom 6. Juli 1951 zum Bundesgesetz über die Trolleybusunternehmungen (Trolleybus-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1951/671_669_691"
 language: de
-version: 2012-07-01
+version: 2023-01-23
 adopted: 1951-07-06
 in_force: 1951-07-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1951/671_669_691/20120701/de/xml/fedlex-data-admin-ch-eli-cc-1951-671_669_691-20120701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1951/671_669_691/20120701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1951/671_669_691/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1951-671_669_691-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1951/671_669_691/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1951/671_669_691/20120701/de"
 
 (Trolleybus-Verordnung)
 
-vom 6. Juli 1951 (Stand am 1. Juli 2012)
+vom 6. Juli 1951 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -32,7 +32,7 @@ beschliesst:
 
 [^12-1]
 
-[^12-1]: Aufgehoben durch Art. 52 Abs. 2 der V vom 25. Nov. 1998 über die Personenbeförderungskonzession ([AS 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106)).
+[^12-1]: Aufgehoben durch Art. 52 Abs. 2 der V vom 25. Nov. 1998 über die Personenbeförderungskonzession, mit Wirkung seit 1. Jan. 1999 ([AS 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106)).
 
 ## B. Aufsicht
 
@@ -42,7 +42,7 @@ beschliesst:
 
 Das Bundesamt für Verkehr (Bundesamt) übt die Aufsicht über die Trolleybusunternehmungen aus. Die Zuständigkeit des Bundesamtes richtet sich nach den Bestimmungen des Bundesgesetzes vom 29. März 1950[^3-2] über die Trolleybusunternehmungen und nach der Gesetzgebung über Eisenbahnen und über elektrische Anlagen.
 
-[^3-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^3-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^3-2]: [SR 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685)
 
 ## C. Bau und Betrieb
@@ -68,7 +68,7 @@ Für die Erstellung und die Instandhaltung von festen Anlagen der Trolleybusunte
 
 <sup>1</sup> Alle Pläne und Berechnungen zur Erstellung der festen Anlagen und Das Plangenehmigungsverfahren für Bauten und Anlagen, die ganz oder überwiegend dem Betrieb einer Trolleybuslinie dienen (Trolleybusanlagen), sowie jenes für Bauten und Anlagen Dritter (Nebenanlagen) richten sich sinngemäss nach den Bestimmungen des Eisenbahngesetzes vom 20. Dezember 1957[^5-2] und der Verordnung vom 2. Februar 2000[^5-3] über das Plangenehmigungsverfahren für Eisenbahnanlagen.
 
-[^5-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^5-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^5-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^5-3]: [SR 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
@@ -76,7 +76,7 @@ Für die Erstellung und die Instandhaltung von festen Anlagen der Trolleybusunte
 
 [^67-1]
 
-[^67-1]: Aufgehoben durch Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^67-1]: Aufgehoben durch Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### b. Trolleybusse und Trolleybusanhänger
 
@@ -84,7 +84,7 @@ Für die Erstellung und die Instandhaltung von festen Anlagen der Trolleybusunte
 
 [^lvlC-lvlb-lvlu1-1]
 
-[^lvlC-lvlb-lvlu1-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^lvlC-lvlb-lvlu1-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 8
 
@@ -94,7 +94,7 @@ Für die Erstellung und die Instandhaltung von festen Anlagen der Trolleybusunte
 
 <sup>3</sup> Die Fahrzeuge müssen mindestens mit Heizung, elektrischer Beleuchtung und Lüftungseinrichtung versehen sein.[^8-1]
 
-[^8-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^8-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### Elektrische Starkstromausrüstung
 
@@ -149,11 +149,11 @@ Es sind nachstehende Unterlagen betreffend die elektrische Starkstromausrüstung
 
 <sup>4</sup> Für Anhänger sind die in Absatz 2 Buchstaben a, b, c, d, e, h, i und m sowie die in Absatz 3 Buchstaben b und c erwähnten Unterlagen sowie Pläne über Kupplungseinrichtungen einzureichen.[^10-5]
 
-[^10-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-2]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-3]: Aufgehoben durch Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-4]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-5]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-2]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-3]: Aufgehoben durch Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-4]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-5]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### 2. Verfahren
 
@@ -177,7 +177,7 @@ Es sind nachstehende Unterlagen betreffend die elektrische Starkstromausrüstung
 
 <sup>3</sup> Alle im Personenverkehr eingesetzten Trolleybusse sind mit einer Bezeichnung zu versehen, aus der die Fahrgäste die befahrene Strecke erkennen.
 
-[^12-2]: Fassung gemäss Ziff. I des BRB vom 15. Okt. 1957 ([AS 1957 834](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
+[^12-2]: Fassung gemäss Ziff. I des BRB vom 15. Okt. 1957, in Kraft seit 1. Nov. 1957 ([AS 1957 834](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
 
 ### Betriebsmaterial, Unterhalt
 
@@ -217,7 +217,7 @@ Die Unternehmung hat über jeden Trolleybus und jeden Anhänger eine Kontrolle m
 
 <sup>5</sup> Für Trolleybusse kann das Bundesamt die vorgeschriebenen Nachprüfungen Institutionen, Betrieben und Organisationen übertragen, welche für die vorschriftsgemässe Durchführung Gewähr bieten. Diese erstatten dem Bundesamt Bericht über die vorgenommenen Nachprüfungen.[^15-1]
 
-[^15-1]: Eingefügt durch Anhang Ziff. II 6 der V vom 23. Febr. 2005 über die Fahrzeuge des Bundes und ihre Führer und Führerinnen ([AS 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^15-1]: Eingefügt durch Anhang Ziff. II 6 der V vom 23. Febr. 2005 über die Fahrzeuge des Bundes und ihre Führer und Führerinnen, in Kraft seit 1. März 2005 ([AS 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 
 ### Verkehrsregeln
 
@@ -237,9 +237,9 @@ Die Unternehmung hat über jeden Trolleybus und jeden Anhänger eine Kontrolle m
 
 <sup>2</sup> Der Lernfahrausweis für Trolleybusse wird für die in Artikel 18 vorgesehenen Lernfahrten ausgestellt.
 
-<sup>3</sup> Der Führerausweis für Trolleybusse bildet eine eigene Kategorie des Führerausweises. Er darf nur Personen erteilt werden, die das 21. Lebensjahr vollendet haben und die den ärztlichen Minimalanforderungen zur Führung eines schweren Motorwagens zum Personentransport entsprechen.[^17-1] Der Bewerber hat ein Zeugnis eines durch die kantonale Behörde anerkannten Arztes, ein Leumundszeugnis und einen Strafregisterauszug beizubringen.
+<sup>3</sup> Der Führerausweis für Trolleybusse bildet eine eigene Kategorie des Führerausweises. Er darf nur Personen erteilt werden, die das 21. Lebensjahr vollendet haben und die den ärztlichen Minimalanforderungen zur Führung eines schweren Motorwagens zum Personentransport entsprechen. Der Bewerber hat ein Zeugnis eines durch die kantonale Behörde anerkannten Arztes, ein Leumundszeugnis und einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA beizubringen.[^17-1]
 
-[^17-1]: Fassung der ersten zwei Sätze gemäss Art. 152 Ziff. 2 der V vom 27. Okt. 1976 über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr, in Kraft seit 1. Jan. 1977 ([AS 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+[^17-1]: Fassung gemäss Anhang 10 Ziff. II 22 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### Führerausbildung
 
@@ -261,7 +261,7 @@ Die Unternehmung hat über jeden Trolleybus und jeden Anhänger eine Kontrolle m
 
 <sup>7</sup> Lernfahrten auf Trolleybussen sind nur in Begleitung einer Person, die den Führerausweis für diese Fahrzeugart besitzt, erlaubt.
 
-[^18-1]: Fassung gemäss Ziff. I des BRB vom 15. Okt. 1957 ([AS 1957 834](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
+[^18-1]: Fassung gemäss Ziff. I des BRB vom 15. Okt. 1957, in Kraft seit 1. Nov. 1957 ([AS 1957 834](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
 
 ### Führerprüfung
 
@@ -284,7 +284,7 @@ Für die Zulassung zur Führerprüfung gemäss Artikel 18 Absätze 4 und 5 oder 
 
 [^20-1]
 
-[^20-1]: Aufgehoben durch Art. 153 Bst. m der V vom 27. Okt. 1976 über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr ([AS 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+[^20-1]: Aufgehoben durch Art. 153 Bst. m der V vom 27. Okt. 1976 über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr, mit Wirkung seit 1. Jan. 1977 ([AS 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
 
 ### d. Betrieb
 
@@ -296,7 +296,7 @@ Für die Zulassung zur Führerprüfung gemäss Artikel 18 Absätze 4 und 5 oder 
 
 Der Betrieb der Trolleybusunternehmungen ist nach den Bestimmungen der Konzession und den Vorschriften der Eisenbahn- und der Elektrizitätsgesetzgebung zu führen.
 
-[^21-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^21-1]: Fassung gemäss Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### Betriebsreglemente
 
@@ -318,9 +318,9 @@ Betriebsreglemente der Trolleybusunternehmungen und dazu erlassene Ausführungsb
 
 [^2425-1]
 
-[^2425-1]: Aufgehoben durch Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^2425-1]: Aufgehoben durch Ziff. II 4 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
-## D<sup>bis</sup>.**** Gebühren
+## D<sup>bis</sup>. Gebühren
 
 [^lvlDbis-1]
 

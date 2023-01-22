@@ -3,11 +3,11 @@ sr: "744.211"
 title: "Ordonnance d'exécution du 6 juillet 1951 de la loi sur les entreprises de trolleybus (Ordonnance sur les trolleybus)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1951/671_669_691"
 language: fr
-version: 2012-07-01
+version: 2023-01-23
 adopted: 1951-07-06
 in_force: 1951-07-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1951/671_669_691/20120701/fr/xml/fedlex-data-admin-ch-eli-cc-1951-671_669_691-20120701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1951/671_669_691/20120701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1951/671_669_691/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1951-671_669_691-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1951/671_669_691/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1951/671_669_691/20120701/fr"
 
 (Ordonnance sur les trolleybus)
 
-du 6 juillet 1951 (Etat le 1<sup>er</sup> juillet 2012)
+du 6 juillet 1951 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -26,13 +26,13 @@ arrête:
 
 [^ingress-1]: [RS 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685)
 
-## A. ...
+## A. …
 
 #### Art. 1 et 2
 
 [^12-1]
 
-[^12-1]: Abrogés par l’art. 52 al. 2 de l’O du 25 novembre 1998 sur les concessions pour le transport des voyageurs ([RO 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106)).
+[^12-1]: Abrogés par l’art. 52 al. 2 de l’O du 25 novembre 1998 sur les concessions pour le transport des voyageurs, avec effet au 1<sup>er</sup> janv. 1999 ([RO 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106)).
 
 ## B. Surveillance
 
@@ -42,7 +42,7 @@ arrête:
 
 La surveillance sur les entreprises de trolleybus incombe à l’Office fédéral des transports (office). Les attributions de cet office sont régies par la loi fédérale du 29 mars 1950 sur les entreprises de trolleybus, par la législation sur les chemins de fer et par la législation sur les installations électriques.
 
-[^3-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^3-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ## C. Construction et exploitation
 
@@ -56,7 +56,7 @@ La surveillance sur les entreprises de trolleybus incombe à l’Office fédéra
 
 Les dispositions de la législation sur les chemins de fer et celles de la législation sur les installations électriques, en particulier l’ordonnance du 23 novembre 1983 sur les chemins de fer[^4-2], s’appliquent par analogie à la réalisation et à l’entretien des installations fixes des entreprises de trolleybus.
 
-[^4-1]: Nouvelle teneur selon le ch. II 5 de l’annexe 2 à l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juillet 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^4-1]: Nouvelle teneur selon l’annexe 2 ch. II 5 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juillet 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^4-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
 
 ### Approbation des plans
@@ -67,7 +67,7 @@ Les dispositions de la législation sur les chemins de fer et celles de la légi
 
 Les dispositions de la loi fédérale du 20 décembre 1957 sur les chemins de fer[^5-2] et de l’ordonnance du 2 février 2000 sur la procédure d’approbation des plans des installations ferroviaires[^5-3] s’appliquent par analogie à la procédure d’approbation des plans des constructions et installations servant exclusivement ou principalement à l’exploitation d’une ligne de trolleybus (installations de trolleybus) ainsi qu’à la procédure applicable aux constructions et installations de tiers (installations annexes).
 
-[^5-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^5-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^5-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^5-3]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
@@ -75,7 +75,7 @@ Les dispositions de la loi fédérale du 20 décembre 1957 sur les chemins de fe
 
 [^67-1]
 
-[^67-1]: Abrogés par le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^67-1]: Abrogés par le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### b. Trolleybus et remorques de trolleybus
 
@@ -83,7 +83,7 @@ Les dispositions de la loi fédérale du 20 décembre 1957 sur les chemins de fe
 
 [^lvlC-lvlb-lvlu1-1]
 
-[^lvlC-lvlb-lvlu1-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^lvlC-lvlb-lvlu1-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 8
 
@@ -93,7 +93,7 @@ Les dispositions de la loi fédérale du 20 décembre 1957 sur les chemins de fe
 
 <sup>3</sup> Les véhicules doivent au moins être équipés d’un chauffage, d’un éclairage électrique et d’un dispositif d’aération.[^8-1]
 
-[^8-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^8-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### Installation à courant fort
 
@@ -103,7 +103,7 @@ Les dispositions de la loi fédérale du 20 décembre 1957 sur les chemins de fe
 
 L’ordonnance du 23 novembre 1983 sur les chemins de fer[^9-2] s’applique à la réalisation, à l’exploitation et à l’entretien des dispositifs électriques des véhicules, notamment des parties reliées à la ligne de contact.
 
-[^9-1]: Nouvelle teneur selon le ch. II 5 de l’annexe 2 à l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juillet 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^9-1]: Nouvelle teneur selon l’annexe 2 ch. II 5 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juillet 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^9-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
 
 ### Approbation des plans
@@ -136,7 +136,7 @@ Les documents suivant concernant le véhicule routier doivent être présentés:
 - h. Des dessins et calculs des ressorts de suspension;
 - i. Un schéma des conduites d’air avec indication des pressions et du volume des réservoirs, ainsi que du type et de la puissance des compresseurs;
 - k. Les courbes caractéristiques des moteurs et des véhicules (traction et freinage);
-- l. ...[^10-3]
+- l. …[^10-3]
 - m. Des schémas des circuits auxiliaires, d’asservissement, de chauffage, d’éclairage, de ventilation et de signalisation, avec indication des tensions et des puissances.
 
 <sup>3</sup>
@@ -149,11 +149,11 @@ Les documents suivants concernant les installations à courant fort doivent êtr
 
 <sup>4</sup> Pour les remorques, les documents à soumettre comprendront ceux qui sont prévus à l’al. 2, let. a, b, c, d, e, h, i et m, les documents prévus à l’al. 3, let. b et c, ainsi que les plans du dispositif d’accouplement.[^10-5]
 
-[^10-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-2]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-3]: Abrogée par le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-4]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^10-5]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-2]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-3]: Abrogée par le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-4]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^10-5]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### 2. Procédure
 
@@ -177,7 +177,7 @@ Les documents suivants concernant les installations à courant fort doivent êtr
 
 <sup>3</sup> Tous les trolleybus assurant un transport de voyageurs doivent porter une indication renseignant les usagers sur les courses auxquelles ils sont affectés.
 
-[^12-2]: Nouvelle teneur selon le ch. I de l’ACF du 15 oct. 1957 ([RO 1957 840](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’ACF du 15 oct. 1957, en vigueur depuis le 1<sup>er</sup> nov. 1957 ([RO 1957 840](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
 
 ### Matériel d’exploitation, entretien
 
@@ -187,7 +187,7 @@ Les documents suivants concernant les installations à courant fort doivent êtr
 
 L’entreprise doit disposer des véhicules de réserve ou des pièces de rechange nécessaires pour garantir la régularité de l’exploitation. Ils seront périodiquement visités à fond et remis en état. Du point de vue électrique, l’état de l’isolation doit être vérifié de manière suivie.
 
-[^13-1]: Nouvelle teneur selon le ch. II 5 de l’annexe 2 à l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juillet 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 5 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juillet 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 ### Contrôle des véhicules
 
@@ -217,7 +217,7 @@ Pour chaque trolleybus ou remorque, l’entreprise doit tenir un contrôle qui d
 
 <sup>5</sup> Pour les trolleybus, l’office peut confier les contrôles subséquents prescrits à des institutions, des entreprises ou des organisations qui en garantissent l’exécution conforme aux prescriptions. Celles-ci en ren-dent compte à l’office.[^15-1]
 
-[^15-1]: Introduit par le ch. II 6 de l’annexe à l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^15-1]: Introduit par l’annexe ch. II 6 de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs, en vigueur depuis le 1<sup>er</sup> mars 2005 ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 
 ### Règles de circulation
 
@@ -237,9 +237,9 @@ Pour chaque trolleybus ou remorque, l’entreprise doit tenir un contrôle qui d
 
 <sup>2</sup> Le permis d’élève-conducteur de trolleybus est établi pour les courses d’apprentissage prévues à l’article 18.
 
-<sup>3</sup> Le permis de conduire pour trolleybus constitue une catégorie particulière du permis de conduire. Il ne peut être délivré qu’à des conducteurs ayant atteint l’âge de 21 ans qui remplissent les conditions médicales minimums requises pour la conduite des voitures automobiles lourdes servant au transport de personnes.[^17-1] Le requérant doit présenter un certificat d’un médecin reconnu par l’autorité cantonale, ainsi qu’un certificat de bonnes moeurs et un extrait du casier judiciaire.
+<sup>3</sup> Le permis de conduire pour trolleybus constitue une catégorie particulière du permis de conduire. Il ne peut être délivré qu’à des conducteurs ayant atteint l’âge de 21 ans qui remplissent les conditions médicales minimums requises pour la conduite des voitures automobiles lourdes servant au transport de personnes. Le requérant doit présenter un certificat d’un médecin reconnu par l’autorité cantonale, ainsi qu’un certificat de bonnes mœurs et un extrait du casier judiciaire destiné aux particuliers.[^17-1]
 
-[^17-1]: Nouvelle teneur des deux premières phrases selon l’art. 152 ch. 2 de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
+[^17-1]: Nouvelle teneur selon l’annexe 10 ch. II 22 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### Formation des conducteurs
 
@@ -261,7 +261,7 @@ Pour chaque trolleybus ou remorque, l’entreprise doit tenir un contrôle qui d
 
 <sup>7</sup> Les courses d’apprentissage avec des trolleybus ne peuvent être effectuées qu’avec le concours d’une personne munie du permis de conduire pour ce genre de véhicules.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’ACF du 15 oct. 1957 ([RO 1957 840](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’ACF du 15 oct. 1957, en vigueur depuis le 1<sup>er</sup> nov. 1957 ([RO 1957 840](https://fedlex.data.admin.ch/eli/oc/1957/834_840_865)).
 
 ### Examen des conducteurs
 
@@ -296,7 +296,7 @@ Pour l’admission à l’examen de conduite après l’apprentissage visé par 
 
 Les entreprises de trolleybus doivent être exploitées conformément aux dispositions de la concession et aux prescriptions de la législation ferroviaire et de la législation sur les installations électriques.
 
-[^21-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^21-1]: Nouvelle teneur selon le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### Règlements d’exploitation
 
@@ -312,19 +312,19 @@ Les règlements d’exploitation et les dispositions d’application corresponda
 
 <sup>2</sup> Avant d’autoriser l’ouverture de l’exploitation, l’office procède à une inspection des constructions, des installations et des véhicules, à laquelle seront convoquées les autorités fédérales et cantonales intéressées.
 
-## D. ...
+## D. …
 
 #### Art. 24 et 25
 
 [^2425-1]
 
-[^2425-1]: Abrogés par le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^2425-1]: Abrogés par le ch. II 4 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, avec effet au 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
-## D<sup>bis</sup>.**** Emoluments
+## D<sup>bis</sup>. Émoluments
 
 [^lvlDbis-1]
 
-[^lvlDbis-1]: Introduit par l’art. 52 let. c de l’O du 1<sup>er</sup> juillet 1987 sur les émoluments de l’OFT ([RO 1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052)).
+[^lvlDbis-1]: Introduit par l’art. 52 let. c de l’O du 1<sup>er</sup> juillet 1987 sur les émoluments de l’OFT, en vigueur depuis le 1<sup>er</sup> oct. 1987 ([RO 1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052)).
 
 #### Art. 25a
 
@@ -332,7 +332,7 @@ Les règlements d’exploitation et les dispositions d’application corresponda
 
 Les émoluments sont fixés d’après l’ordonnance du 25 novembre 1998 sur les émoluments de l’OFT[^25a-2].
 
-[^25a-1]: Nouvelle teneur selon le ch. 6 de l’annexe à l’O du 25 nov. 1998 sur les émoluments de l’OFT, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116)).
+[^25a-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 25 nov. 1998 sur les émoluments de l’OFT, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116)).
 [^25a-2]: [RS 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
 
 ## E. Dispositions transitoires et finales
