@@ -3,20 +3,20 @@ sr: "431.012.1"
 title: "Ordonnance du 30 juin 1993 concernant l'exécution des relevés statistiques fédéraux (Ordonnance sur les relevés statistiques)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: fr
-version: 2022-01-01
+version: 2023-01-23
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’exécution des relevés statistiques fédéraux
 
-(Ordonnance sur les relevés statistiques)**[^t-1]**
+(Ordonnance sur les relevés statistiques)[^t-1]
 
-du 30 juin 1993 (Etat le 1<sup>er</sup> janvier 2022)
+du 30 juin 1993 (État le 23 janvier 2023)
 
 [^t-1]: Introduit par le ch. I de l’O du 16 janv. 2008, en vigueur depuis le 10 fév. 2008 ([RO 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-2]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2013, en vigueur depuis le 15 janv. 2014 ([RO 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)).
 
-## Section 1 Dispositions générales****
+## Section 1 Dispositions générales
 
 [^sec1-1]
 
@@ -225,7 +225,7 @@ L’OFS prend à sa charge les taxes postales dues pour les envois effectués lo
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 2067](https://fedlex.data.admin.ch/eli/oc/2002/308)).
 
-## Section 2**** Registre d’échantillonnage
+## Section 2 Registre d’échantillonnage
 
 [^sec2-1]
 
@@ -330,7 +330,7 @@ Par données relatives aux clients du réseau téléphonique fixe de la Suisse (
 
 [^13g-1]: Introduit par le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)).
 
-## Section 2*a***** Appariements de données
+## Section 2*a* Appariements de données
 
 [^sec2a-1]
 
@@ -408,7 +408,7 @@ Lorsque la loi prévoit que les données peuvent être communiquées à des fins
 
 Les statistiques qui donnent lieu à des appariements de données systématiques sont spécifiées en annexe.
 
-## Section 3 Dispositions finales****
+## Section 3 Dispositions finales
 
 [^sec3-1]
 
@@ -428,13 +428,13 @@ Le Département fédéral de l’intérieur règle les détails de l’apparieme
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 1993.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 1, al. 1, 2, 3, al. 3, 6, al. 1, 8, al. 1, 8*a*, al. 4, 10, al. 2, 11, al. 2, 12, al. 2, et 13*n*)
 
 ## Liste des statistiques
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009 ([RO 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Mise à jour par le ch. II de l’O du 18 août 2010 ([RO 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), le ch. I des O du 14 avr. 2010, ([RO 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), du 24 août 2011 ([RO 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), du 12 oct. 2011 ([RO 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), le ch. I de l’O du 29 août 2012 ([RO 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), le ch. II de l’O du 18 déc. 2013 ([RO 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), le ch. I des O du 29 oct. 2014 ([RO 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), du 28 oct. 2015 ([RO 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), du 16 nov. 2016 ([RO 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), l’annexe 2 ch. II 1 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), l’annexe 2 ch. 1 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), le ch. I des O du 7 nov. 2018 ([RO 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), du 13 déc. 2019 ([RO 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), du 27 oct. 2021 ([RO 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)) et l’annexe ch. II 13 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009 ([RO 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Mise à jour par le ch. II de l’O du 18 août 2010 ([RO 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), le ch. I des O du 14 avr. 2010, ([RO 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), du 24 août 2011 ([RO 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), du 12 oct. 2011 ([RO 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), le ch. I de l’O du 29 août 2012 ([RO 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), le ch. II de l’O du 18 déc. 2013 ([RO 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), le ch. I des O du 29 oct. 2014 ([RO 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), du 28 oct. 2015 ([RO 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), du 16 nov. 2016 ([RO 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), l’annexe 2 ch. II 1 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), l’annexe 2 ch. 1 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), le ch. I des O du 7 nov. 2018 ([RO 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), du 13 déc. 2019 ([RO 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), du 27 oct. 2021 ([RO 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)), l’annexe ch. II 13 de l’O du 17 nov. 2021 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) et l’annexe 10 ch. II 17 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### 1. *Abrogée*
 
@@ -595,7 +595,7 @@ Annexe*[^t-2]*
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
-### 14. Codes des états et des territoires utilisés dans les statistiques de la Confédération
+### 14. Codes des États et des territoires utilisés dans les statistiques de la Confédération
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
@@ -1586,8 +1586,8 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>jugements avec force exécutoire et inscrits au casier judiciaire à l’encontre des personnes de plus de 18 ans; codes d’identification, caractères socio-démographiques, infractions et sanctions</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>toutes les condamnations inscrites au casier judiciaire informatisé (VOSTRA) et décisions ultérieures; appariement avec des données de la statistique de la population et des ménages (STATPOP), exclusivement pour déterminer la nationalité</td></tr>
+<tr><td>Objet de l’enquête:</td><td>jugements et décisions ultérieures à l’encontre des personnes de plus de 18 ans ayant force exécutoire et saisis dans le casier judiciaire informatique VOSTRA; codes d’identification, caractères socio-démographiques, infractions et sanctions</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>tous les jugements et décisions ultérieures saisis dans VOSTRA; appariement avec des données de la statistique de la population et des ménages (STATPOP), exclusivement pour indiquer le statut de séjour s’il fait défaut</td></tr>
 <tr><td>Milieux interrogés:</td><td>–</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -2820,7 +2820,7 @@ Annexe*[^t-2]*
 <tr><td>Organe responsable de l’enquête:</td><td>Organe national d’enregistrement du cancer</td></tr>
 <tr><td>Objet de l’enquête:</td><td>données sur l’incidence et la prévalence des maladies oncologiques</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive sur les cas de cancers par les registres cantonaux des tumeurs et le registre du cancer de l’enfant</td></tr>
-<tr><td>Milieux interrogés:</td><td>personnes et institutions soumises à l’obligation de déclarer les maladies oncologiques conformément à l’art. 3 de la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncologiques[^annexu1-lvlu1-lvl186-1]</td></tr>
+<tr><td>Milieux interrogés:</td><td>personnes et institutions soumises à l’obligation de déclarer les maladies oncologiques conformément à l’art. 3 de la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncologiques[^annexu1-lvlu1-lvl187-1]</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>à partir de 2020</td></tr>
 <tr><td>Périodicité:</td><td>en permanence</td></tr>
@@ -2828,7 +2828,7 @@ Annexe*[^t-2]*
 <tr><td>Dispositions particulières:</td><td>Une comparaison avec les données de la statistique des causes de décès est effectuée (art. 22, al. 2 et 3, de la loi fédérale sur l’enregistrement des maladies oncologiques). Les données collectées avant 2020 peuvent faire l’objet de travaux statistiques.</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl186-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^annexu1-lvlu1-lvl187-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
 
 ### 188. Statistique de la prise en charge et du traitement des dépendances en Suisse (act-info)
 

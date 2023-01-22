@@ -3,20 +3,20 @@ sr: "431.012.1"
 title: "Ordinanza del 30 giugno 1993 sull'esecuzione di rilevazioni statistiche federali (Ordinanza sulle rilevazioni statistiche)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: it
-version: 2022-01-01
+version: 2023-01-23
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’esecuzione di rilevazioni statistiche federali
 
-(Ordinanza sulle rilevazioni statistiche)**[^t-1]**
+(Ordinanza sulle rilevazioni statistiche)[^t-1]
 
-del 30 giugno 1993 (Stato 1° gennaio 2022)
+del 30 giugno 1993 (Stato 23 gennaio 2023)
 
 [^t-1]: Introdotto dal n. I dell’O del 16 gen. 2008, in vigore dal 10 feb. 2008 ([RU 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -30,7 +30,7 @@ ordina:
 [^ingress-2]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
 [^ingress-3]: Nuovo testo giusta il n. I dell’O del 18 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)).
 
-## Sezione 1: Disposizioni generali****
+## Sezione 1: Disposizioni generali
 
 [^sec1-1]
 
@@ -227,7 +227,7 @@ L’UST paga le tasse postali per i seguenti invii concernenti i censimenti fede
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2002, in vigore dal 1° ago. 2002 ([RU 2002 2067](https://fedlex.data.admin.ch/eli/oc/2002/308)).
 
-## Sezione 2:**** Registro di campionamento
+## Sezione 2: Registro di campionamento
 
 [^sec2-1]
 
@@ -332,7 +332,7 @@ I dati sui clienti della telefonia fissa in Svizzera (dati sui clienti) sono i s
 
 [^13g-1]: Introdotto dal n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)).
 
-## Sezione 2*a*:**** Collegamenti di dati
+## Sezione 2*a*: Collegamenti di dati
 
 [^sec2a-1]
 
@@ -410,7 +410,7 @@ Qualora la legge preveda la trasmissione di dati a servizi di ricerca e statisti
 
 Le statistiche per le quali si effettuano sistematicamente collegamenti di dati sono identificate in quanto tali nell’allegato.
 
-## Sezione 3: Disposizioni finali****
+## Sezione 3: Disposizioni finali
 
 [^sec3-1]
 
@@ -430,13 +430,13 @@ Il Dipartimento federale dell’interno disciplina i dettagli relativi ai colleg
 
 La presente ordinanza entra in vigore il 1° agosto 1993.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 1 cpv. 1, 2, 3 cpv. 3, 6 cpv. 1, 8 cpv. 1, 8*a* cpv. 4, 10 cpv. 2, 11 cpv. 2, 12 cpv. 2 e 13*n*)
 
 ## Elenco delle rilevazioni statistiche
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009 ([RU 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Aggiornato dal n. II dell’O del 18 ago. 2010 ([RU 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), dai n. I delle O del 14 apr. 2010 ([RU 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), del 24 ago. 2011 ([RU 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), del 12 ott. 2011 ([RU 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), dal n. II dell’O del 23 mag. 2012 ([RU 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), dai n. I delle O del 29 ago. 2012 ([RU 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), dal n. II dell’O del 18 dic. 2013 ([RU 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), dai n. I delle O del 29 ott. 2014 ([RU 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), del 28 ott. 2015 ([RU 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), del 16 nov. 2016 ([RU 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), dall’all. 2 n. II 1 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), dall’all. 2 n. 1 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), dal n. I delle O del 7 nov. 2018 ([RU 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), del 13 dic. 2019 ([RU 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)) e dall’all. n. II 13 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009 ([RU 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Aggiornato dal n. II dell’O del 18 ago. 2010 ([RU 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), dai n. I delle O del 14 apr. 2010 ([RU 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), del 24 ago. 2011 ([RU 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), del 12 ott. 2011 ([RU 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), dal n. II dell’O del 23 mag. 2012 ([RU 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), dai n. I delle O del 29 ago. 2012 ([RU 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), dal n. II dell’O del 18 dic. 2013 ([RU 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), dai n. I delle O del 29 ott. 2014 ([RU 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), del 28 ott. 2015 ([RU 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), del 16 nov. 2016 ([RU 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), dall’all. 2 n. II 1 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), dall’all. 2 n. 1 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), dal n. I delle O del 7 nov. 2018 ([RU 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), del 13 dic. 2019 ([RU 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)), dall’all. n. II 13 dell’O del 17 nov. 2021 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) e dall’all. 10 n. II 17 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### 1. *Abrogata*
 
@@ -1131,7 +1131,7 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
-### 54. *Abr**o**gata*
+### 54. *Abrogata*
 
 ### 55. Trasporto di persone attraverso le Alpi e le frontiere
 
@@ -1498,7 +1498,7 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
-### 81. *Abr**o**gata*
+### 81. *Abrogata*
 
 ### 82. Statistica svizzera delle biblioteche
 
@@ -1588,8 +1588,8 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Condanne passate in giudicato iscritte nel casellario giudiziale pronunciate nei confronti di persone con più di 18 anni; codici d’identificazione, caratteristiche sociodemografiche, reati e sanzioni</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Tutte le condanne iscritte nel sistema d’informazione sul casellario giudiziale (VOSTRA) e le decisioni successive; collegamento con i dati della statistica della popolazione e delle economie domestiche (STATPOP), unicamente per determinare la nazionalità.</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Sentenze originarie e decisioni successive passate in giudicato iscritte nel casellario giudiziale informatizzato VOSTRA pronunciate nei confronti di persone di più di 18 anni; codici d’identificazione, caratteristiche socio­demografiche, reati e sanzioni</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Tutte le sentenze originarie e le decisioni successive iscritte in VOSTRA; collegamento con i dati della statistica della popolazione e delle economie domestiche (STATPOP), unicamente per integrare uno statuto di soggiorno mancante.</td></tr>
 <tr><td>Fonte dei dati:</td><td>–</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -2069,7 +2069,7 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>Articolo 5 capoverso 2 dell’ordinanza del 7 novembre 2007 concernente il sussidio della Confederazione per la riduzione dei premi nell’assicurazione malattie (RS *832.112.4*)</td></tr>
 </table>
 
-### 124. e 125. *Abr**o**gate*
+### 124. e 125. *Abrogate*
 
 ### 126. Statistica dell’assicurazione malattie
 
@@ -2085,7 +2085,7 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>Articolo 35 capoverso 2 della legge del 26 settembre 2014 sulla vigilanza sull’assicurazione malattie (LVAMal; RS *832.12*) e articoli 28 e 28*b* OAMal (RS *832.102*)</td></tr>
 </table>
 
-### 127. *Abr**o**gata*
+### 127. *Abrogata*
 
 ### 128. Health Behaviour in School-Aged Children (HBSC)
 
@@ -2185,7 +2185,7 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
-### 135. *Abr**o**gata*
+### 135. *Abrogata*
 
 ### 136. Resoconto (conto annuale e rilevazione statistica Special Data Dissemination Standard Plus) delle imprese di assicurazione operanti in Svizzera
 
@@ -2399,7 +2399,7 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
-### 152. *Abr**o**gata*
+### 152. *Abrogata*
 
 ### 153. Computo standardizzato dei costi globali della formazione professionale
 
@@ -2457,7 +2457,7 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>I dati della statistica della viticoltura provengono dai dati rilevati dai Cantoni nel quadro dell’ordinanza del 14 novembre 2007 sul vino (RS *916.140*).</td></tr>
 </table>
 
-### 157. *Abr**o**gata*
+### 157. *Abrogata*
 
 ### 158. Statistica sulla salute degli animali
 
@@ -2814,7 +2814,7 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>Conformemente all’articolo 44 della legge del 7 ottobre 1983 sulla protezione dell’ambiente (RS *814.01*), la Confederazione procede a effettuare rilevazioni sul carico inquinante. Ai sensi dell’articolo 12 dell’ordinanza del 16 dicembre 1985 contro l’inquinamento atmosferico (RS *814.318.142.1*), chi gestisce un impianto che causa inquinamenti atmosferici deve fornire all’autorità le debite informazioni. La Svizzera, in ottemperanza all’articolo 7 del Protocollo di Göteborg (UNECE, RS *0.814.327*), è tenuta a comunicare informazioni sulle emissioni.</td></tr>
 </table>
 
-### 186. *A**br**o**gata*
+### 186. *Abrogata*
 
 ### 187. Statistica nazionale sui tumori
 
@@ -2822,7 +2822,7 @@ Allegato*[^t-2]*
 <tr><td>Organo di rilevazione:</td><td>Servizio nazionale di registrazione dei tumori</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Dati sull’incidenza e sulla prevalenza delle malattie tumorali</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale delle malattie tumorali tramite i registri cantonali dei tumori e il registro dei tumori pediatrici</td></tr>
-<tr><td>Fonte dei dati:</td><td>Persone e istituzioni soggette all’obbligo di notifica secondo l’articolo 3 della legge federale del 18 marzo 2016[^annexu1-lvlu1-lvl188-1] sulla registrazione delle malattie tumorali</td></tr>
+<tr><td>Fonte dei dati:</td><td>Persone e istituzioni soggette all’obbligo di notifica secondo l’articolo 3 della legge federale del 18 marzo 2016[^annexu1-lvlu1-lvl189-1] sulla registrazione delle malattie tumorali</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>Dal 2020</td></tr>
 <tr><td>Periodicità:</td><td>Permanente</td></tr>
@@ -2830,7 +2830,7 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>È effettuato un confronto con i dati della statistica delle cause di morte (art. 22 cpv. 2 e 3 della LF sulla registrazione delle malattie tumorali) I dati rilevati prima del 2020 possono essere analizzati per rapporti statistici.</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl188-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^annexu1-lvlu1-lvl189-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
 
 ### 188. Statistica della consulenza e del trattamento delle dipendenze in Svizzera (act-info)
 
@@ -3371,8 +3371,8 @@ Entrata in vigore
 - 121\. Sentinella
 - 122\. Swiss Paediatric Surveillance Unit (SPSU)
 - 123\. Statistica della riduzione dei premi
-- 124\. *Abr**o**gata*
-- 125\. *Abr**o**gata*
+- 124\. *Abrogata*
+- 125\. *Abrogata*
 - 126\. Statistica dell’assicurazione malattie
 - 127\. *Abrogata*
 - 128\. Health Behaviour in School-Aged Children (HBSC)
@@ -3382,11 +3382,11 @@ Entrata in vigore
 - 132\. Sondaggi federali «ch-x» fra i giovani e le reclute
 - 133\. Acquisto di fondi da parte di persone all’estero
 - 134\. Elenco ufficiale dei circondari dello stato civile della Svizzera
-- 135\. *Abr**o**gata*
+- 135\. *Abrogata*
 - 136\. Resoconto (conto annuale e rilevazione statistica Special Data Dissemination Standard Plus) delle imprese di assicurazione operanti in Svizzera
 - 137\. Statistica finanziaria degli enti pubblici
 - 138\. Statistica dell’imposta federale diretta
-- 139\. *Abr**o**gata*
+- 139\. *Abrogata*
 - 140\. Onere fiscale in Svizzera
 - 141\. Statistica svizzera della sostanza delle persone fisiche
 - 142\. Statistica del commercio con l’estero

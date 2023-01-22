@@ -3,20 +3,20 @@ sr: "431.012.1"
 title: Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes (Statistikerhebungsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: de
-version: 2022-01-01
+version: 2023-01-23
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Durchführung von statistischen Erhebungen des Bundes
 
-(Statistikerhebungsverordnung)**[^t-1]**
+(Statistikerhebungsverordnung)[^t-1]
 
-vom 30. Juni 1993 (Stand am 1. Januar 2022)
+vom 30. Juni 1993 (Stand am 23. Januar 2023)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 16. Jan. 2008, in Kraft seit 10. Febr. 2008 ([AS 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -30,7 +30,7 @@ verordnet:
 [^ingress-2]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 18. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)).
 
-## 1. Abschnitt: Allgemeine Bestimmungen****
+## 1. Abschnitt: Allgemeine Bestimmungen
 
 [^sec1-1]
 
@@ -225,7 +225,7 @@ Das BFS übernimmt die Posttaxen für folgende Sendungen im Zusammenhang mit eid
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 14. Juni 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 2067](https://fedlex.data.admin.ch/eli/oc/2002/308)).
 
-## 2. Abschnitt:**** Stichprobenregister
+## 2. Abschnitt: Stichprobenregister
 
 [^sec2-1]
 
@@ -330,7 +330,7 @@ Kundendaten der Festnetztelefonie in der Schweiz (Kundendaten) sind:
 
 [^13g-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)).
 
-## 2*a*. Abschnitt:**** Datenverknüpfungen
+## 2*a*. Abschnitt: Datenverknüpfungen
 
 [^sec2a-1]
 
@@ -408,7 +408,7 @@ Soweit das Gesetz für nicht personenbezogene Zwecke wie Forschung, Planung und 
 
 Statistiken, für die systematisch Datenverknüpfungen durchgeführt werden, sind im Anhang als solche gekennzeichnet.
 
-## 3. Abschnitt: Schlussbestimmungen****
+## 3. Abschnitt: Schlussbestimmungen
 
 [^sec3-1]
 
@@ -428,15 +428,15 @@ Das Eidgenössische Departement des Innern regelt die Einzelheiten der Datenverk
 
 Diese Verordnung tritt am 1. August 1993 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 1 Abs. 1, 2, 3 Abs. 3, 6 Abs. 1, 8 Abs. 1, 8*a* Abs. 4, 10 Abs. 2, 11 Abs. 2, 12 Abs. 2 und 13*n*)
 
 ## Liste der statistischen Erhebungen
 
-[^t-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009 ([AS 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Bereinigt gemäss Ziff. I der V vom 14. April 2010 ([AS 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), Ziff. II der V vom 18. Aug. 2010 ([AS 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), Ziff. I der V vom 24. Aug. 2011 ([AS 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), vom 12. Okt. 2011 ([AS 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), Ziff. II der V vom 23. Mai 2012 ([AS 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), Ziff. I der V vom 29. Aug. 2012 ([AS 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), Ziff. II der V vom 18. Dez. 2013 ([AS 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), vom 28. Okt. 2015 ([AS 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), vom 16. Nov. 2016 ([AS 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), Anhang 2 Ziff. II 1 der V vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), Anhang 2 Ziff. 1 der Krebsregistrierungsverordnung vom 11. April 2018 ([AS 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), Ziff. I der V vom 7. Nov. 2018 ([AS 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), vom 27. Okt. 2021 ([AS 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)) und Anhang Ziff. II 13 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009 ([AS 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Bereinigt gemäss Ziff. I der V vom 14. April 2010 ([AS 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), Ziff. II der V vom 18. Aug. 2010 ([AS 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), Ziff. I der V vom 24. Aug. 2011 ([AS 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), vom 12. Okt. 2011 ([AS 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), Ziff. II der V vom 23. Mai 2012 ([AS 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), Ziff. I der V vom 29. Aug. 2012 ([AS 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), Ziff. II der V vom 18. Dez. 2013 ([AS 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), vom 28. Okt. 2015 ([AS 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), vom 16. Nov. 2016 ([AS 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), Anhang 2 Ziff. II 1 der V vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), Anhang 2 Ziff. 1 der Krebsregistrierungsverordnung vom 11. April 2018 ([AS 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), Ziff. I der V vom 7. Nov. 2018 ([AS 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), vom 27. Okt. 2021 ([AS 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)), Anhang Ziff. II 13 der V vom 17. Nov. 2021 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) und Anhang 10 Ziff. II 17 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
-### 1. *Aufgeh**o**ben*
+### 1. *Aufgehoben*
 
 ### 2. Statistik der Geburten
 
@@ -567,7 +567,7 @@ Anhang*[^t-2]*
 
 [^annexu1-lvlu1-lvl10-1]: [SR 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
 
-### 11. *Aufgeh**o**ben*
+### 11. *Aufgehoben*
 
 ### 12. Statistik der soziodemografischen Biografien
 
@@ -784,7 +784,7 @@ Anhang*[^t-2]*
 <tr><td>Besondere Bestimmungen:</td><td>Erhebung im Rahmen des Landesindexes der Konsumentenpreise</td></tr>
 </table>
 
-### 28. *Aufgeh**o**ben*
+### 28. *Aufgehoben*
 
 ### 29. Preiserhebungen für das internationale Vergleichsprogramm
 
@@ -953,12 +953,12 @@ Anhang*[^t-2]*
 <tr><td>Befragte:</td><td>Bauherren, Architekten, Amtsstellen und Unternehmen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
-<tr><td>Periodizität:</td><td>Vierteljährlich in Übereinstimmung mit Artikel 10 Absatz 1 der Verordnung vom 9. Juni 2017[^annexu1-lvlu1-lvl42-1] über das eidgenössische Gebäude- und Wohnungsregister; jährlich für ausgewählte Erhebungsstellen</td></tr>
+<tr><td>Periodizität:</td><td>Vierteljährlich in Übereinstimmung mit Artikel 10 Absatz 1 der Verordnung vom 9. Juni 2017[^annexu1-lvlu1-lvl41-1] über das eidgenössische Gebäude- und Wohnungsregister; jährlich für ausgewählte Erhebungsstellen</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Kantonale und kommunale Bauverwaltungen und registerführende Stellen von Bund, Kantonen und Gemeinden (im Rahmen der Nachführung des GWR)</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>Enthält auch Auskünfte gemäss Artikel 45 Absatz 2 der Raumplanungsverordnung vom 28. Juni 2000 (SR *700.1*).</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl42-1]: [SR 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)
+[^annexu1-lvlu1-lvl41-1]: [SR 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)
 
 ### 42. Wohnbaustatistik
 
@@ -969,12 +969,12 @@ Anhang*[^t-2]*
 <tr><td>Befragte:</td><td>Bauherren, Architekten</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
-<tr><td>Periodizität:</td><td>Vierteljährlich in Übereinstimmung mit Artikel 10 Absatz 1 der Verordnung vom 9. Juni 2017[^annexu1-lvlu1-lvl43-1] über das eidgenössische Gebäude- und Wohnungsregister</td></tr>
+<tr><td>Periodizität:</td><td>Vierteljährlich in Übereinstimmung mit Artikel 10 Absatz 1 der Verordnung vom 9. Juni 2017[^annexu1-lvlu1-lvl42-1] über das eidgenössische Gebäude- und Wohnungsregister</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Kantonale und kommunale Bauverwaltungen und registerführende Stellen von Bund, Kantonen und Gemeinden (im Rahmen der Nachführung des GWR)</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl43-1]: [SR 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)
+[^annexu1-lvlu1-lvl42-1]: [SR 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)
 
 ### 43. Zählung der leerstehenden Wohnungen
 
@@ -1498,7 +1498,7 @@ Anhang*[^t-2]*
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
-### 81. *Aufgeh**o**ben*
+### 81. *Aufgehoben*
 
 ### 82. Schweizerische Bibliothekenstatistik
 
@@ -1588,8 +1588,8 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Im Strafregister eingetragene rechtskräftige Verurteilungen von Personen über 18 Jahren, Identifikationscode, soziodemografische Merkmale, Straftaten und Sanktionen</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Alle im elektronisch geführten Strafregister-Informationssystem (VOSTRA) eingetragenen Verurteilungen und nachträglichen Entscheide; Verknüpfung mit Daten der Statistik der Bevölkerung und der Haushalte (STATPOP), ausschliesslich zur Bestimmung der Nationalität.</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Im Strafregister-Informationssystem VOSTRA eingetragene rechtskräftige Grundurteile und nachträgliche Entscheide betreffend Personen über 18 Jahren, Identifikationscode, soziodemografische Merkmale, Straftaten und Sanktionen.</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Alle in VOSTRA eingetragenen Grundurteile und nachträglichen Entscheide; Verknüpfung mit Daten der Statistik der Bevölkerung und der Haushalte (STATPOP), ausschliesslich zur Ergänzung eines fehlenden Aufenthaltsstatus.</td></tr>
 <tr><td>Befragte:</td><td>–</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -2069,7 +2069,7 @@ Anhang*[^t-2]*
 <tr><td>Besondere Bestimmungen:</td><td>Artikel 5 Absatz 2 der Verordnung vom 7. November 2007 über den Bundesbeitrag zur Prämienverbilligung in der Krankenversicherung (SR *832.112.4*)</td></tr>
 </table>
 
-### 124. und 125. *Aufgeh**o**ben*
+### 124. und 125. *Aufgehoben*
 
 ### 126. Krankenversicherungsstatistik
 
@@ -2085,7 +2085,7 @@ Anhang*[^t-2]*
 <tr><td>Besondere Bestimmungen:</td><td>Artikel 35 Absatz 2 Krankenversicherungsaufsichtsgesetz vom (SR *832.12*) und die Artikel 28 und 28*b* KVV (SR *832.102*)</td></tr>
 </table>
 
-### 127. *Aufgeh**o**ben*
+### 127. *Aufgehoben*
 
 ### 128. Health Behaviour in School-Aged Children (HBSC)
 
@@ -2185,7 +2185,7 @@ Anhang*[^t-2]*
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
-### 135. *Aufgeh**o**ben*
+### 135. *Aufgehoben*
 
 ### 136. Berichterstattung (Jahresrechnung und statistische Erhebung SDDS+) der in der Schweiz tätigen Versicherungsunternehmen
 
@@ -2399,7 +2399,7 @@ Anhang*[^t-2]*
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
-### 152. *Aufgeh**o**ben*
+### 152. *Aufgehoben*
 
 ### 153. Standardisierte Vollkostenrechnung im Berufsbildungsbereich
 
@@ -2814,7 +2814,7 @@ Anhang*[^t-2]*
 <tr><td>Besondere Bestimmungen:</td><td>Der Bund ist nach Artikel 44 des Umweltschutzgesetzes vom 7. Oktober 1983 (SR *814.01*) verpflichtet, Erhebungen über die Umweltbelastung durchzuführen. Nach Artikel 12 der Luftreinhalte-Verordnung vom 16. Dezember 1985 (SR *814.318.142.1*) besteht eine Auskunftspflicht von Anlagebetreibern, die Luftverunreinigungen verursachen. Die Schweiz ist nach Artikel 7 des Göteborg-Protokolls (UNECE; SR *0.814.327*) verpflichtet, über die Emissionen Bericht zu erstatten.</td></tr>
 </table>
 
-### 186. *Au**f**g**e**h**o**ben*
+### 186. *Aufgehoben*
 
 ### 187. Nationale Krebsstatistik
 
