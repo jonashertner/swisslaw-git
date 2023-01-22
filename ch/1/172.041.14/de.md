@@ -4,11 +4,11 @@ title: "Verordnung vom 5. Juli 2006 über Gebühren für Dienstleistungen des Bu
 short: GebV-BJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/533"
 language: de
-version: 2007-01-01
+version: 2023-01-23
 adopted: 2006-07-05
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/533/20070101/de/xml/fedlex-data-admin-ch-eli-cc-2006-533-20070101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/533/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/533/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2006-533-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/533/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/533/20070101/de"
 
 (Gebührenverordnung BJ, GebV-BJ)
 
-vom 5. Juli 2006 (Stand am 1. Januar 2007)
+vom 5. Juli 2006 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -44,10 +44,11 @@ Diese Verordnung gilt nicht für Verfügungen und Dienstleistungen:
 
 - a. des Eidgenössischen Handelsregisteramtes;
 - b. des Eidgenössischen Amtes für das Zivilstandswesen;
-- c. des Eidgenössischen Zentralstrafregisters;
-- d. des BJ gestützt auf das Öffentlichkeitsgesetz vom 17. Dezember 2004[^1-1].
+- c.[^1-1] der registerführenden Stelle des Strafregister-Informationssystems VOSTRA;
+- d. des BJ gestützt auf das Öffentlichkeitsgesetz vom 17. Dezember 2004[^1-2].
 
-[^1-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^1-1]: Fassung gemäss Anhang 10 Ziff. II 5 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^1-2]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 
 #### Art. 2
 
@@ -77,7 +78,7 @@ Für Dienstleistungen von aussergewöhnlichem Umfang, besonderer Schwierigkeit o
 
 Die Verordnung vom 30. Oktober 1985[^5-1] über Gebühren für Dienstleistungen des Bundesamtes für Justiz wird aufgehoben.
 
-[^5-1]: [[AS 1985 1699](https://fedlex.data.admin.ch/eli/oc/1985/1699_1699_1699), [1993 1260](https://fedlex.data.admin.ch/eli/oc/1993/1260_1260_1260), [1999 3480](https://fedlex.data.admin.ch/eli/oc/1999/490)Art. 17 Ziff. 1]
+[^5-1]: [[AS 1985 1699](https://fedlex.data.admin.ch/eli/oc/1985/1699_1699_1699); [1993 1260](https://fedlex.data.admin.ch/eli/oc/1993/1260_1260_1260); [1999 3480](https://fedlex.data.admin.ch/eli/oc/1999/490)Art. 17 Ziff. 1]
 
 #### Art. 6
 

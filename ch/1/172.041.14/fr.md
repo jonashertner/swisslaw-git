@@ -4,20 +4,20 @@ title: "Ordonnance du 5 juillet 2006 sur les émoluments pour les prestations de
 short: Oem-OFJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/533"
 language: fr
-version: 2007-01-01
+version: 2023-01-23
 adopted: 2006-07-05
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/533/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-533-20070101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/533/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/533/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2006-533-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/533/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les émoluments pour les prestations de l’Office fédéral de la justice
 
-(Emoluments OFJ, Oem-OFJ)
+(Émoluments OFJ, Oem-OFJ)
 
-du 5 juillet 2006 (Etat le 1<sup>er</sup> janvier 2007)
+du 5 juillet 2006 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -44,10 +44,11 @@ La présente ordonnance ne s’applique pas aux décisions et aux prestations:
 
 - a. de l’Office fédéral du registre du commerce;
 - b. de l’Office fédéral de l’état civil;
-- c. du Casier judiciaire suisse;
-- d. que l’office rend ou fournit sur la base de la loi fédérale du 17 décembre 2004 sur la transparence[^1-1].
+- c.[^1-1] du Service du casier judiciaire;
+- d. que l’office rend ou fournit sur la base de la loi fédérale du 17 décembre 2004 sur la transparence[^1-2].
 
-[^1-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^1-1]: Nouvelle teneur selon l’annexe 10 ch. II 5 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^1-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 
 #### Art. 2
 
@@ -77,7 +78,7 @@ Pour les prestations d’une ampleur, d’une difficulté ou d’une urgence exc
 
 L’ordonnance du 30 octobre 1985 instituant des émoluments pour les prestations de l’Office fédéral de la justice[^5-1] est abrogée.
 
-[^5-1]: [[RO 1985 1699](https://fedlex.data.admin.ch/eli/oc/1985/1699_1699_1699), [1993 1260](https://fedlex.data.admin.ch/eli/oc/1993/1260_1260_1260), [1999 3480](https://fedlex.data.admin.ch/eli/oc/1999/490)art. 17 ch. 1]
+[^5-1]: [[RO 1985 1699](https://fedlex.data.admin.ch/eli/oc/1985/1699_1699_1699); [1993 1260](https://fedlex.data.admin.ch/eli/oc/1993/1260_1260_1260); [1999 3480](https://fedlex.data.admin.ch/eli/oc/1999/490)art. 17 ch. 1]
 
 #### Art. 6
 

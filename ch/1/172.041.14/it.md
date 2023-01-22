@@ -4,11 +4,11 @@ title: "Ordinanza del 5 luglio 2006 sugli emolumenti per le prestazioni dell'Uff
 short: Oem UFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/533"
 language: it
-version: 2007-01-01
+version: 2023-01-23
 adopted: 2006-07-05
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/533/20070101/it/xml/fedlex-data-admin-ch-eli-cc-2006-533-20070101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/533/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/533/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2006-533-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/533/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/533/20070101/it"
 
 (Ordinanza sugli emolumenti UFG, Oem UFG)
 
-del 5 luglio 2006 (Stato 1° gennaio 2007)
+del 5 luglio 2006 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -44,10 +44,11 @@ La presente ordinanza non si applica alle decisioni e alle prestazioni:
 
 - a. dell’Ufficio federale del registro del commercio;
 - b. dell’Ufficio federale dello stato civile;
-- c. del casellario giudiziale centrale svizzero;
-- d. dell’UFG fondate sulla legge del 17 dicembre 2004[^1-1] sulla trasparenza.
+- c.[^1-1] del Servizio del casellario giudiziale del casellario giudiziale informatizzato VOSTRA;
+- d. dell’UFG fondate sulla legge del 17 dicembre 2004[^1-2] sulla trasparenza.
 
-[^1-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^1-1]: Nuovo testo giusta l’all. 10 n. II 5 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^1-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 
 #### Art. 2
 
