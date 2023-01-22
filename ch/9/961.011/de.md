@@ -4,11 +4,11 @@ title: "Verordnung vom 9. November 2005 über die Beaufsichtigung von privaten V
 short: AVO
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: de
-version: 2016-01-01
+version: 2023-01-23
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2005-735-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2005-735-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20160101/de"
 
 (Aufsichtsverordnung, AVO)
 
-vom 9. November 2005 (Stand am 1. Januar 2016)
+vom 9. November 2005 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -288,7 +288,7 @@ Nicht in seine oder ihre Kompetenzen fallen Erklärungen über:
 
 ## 3. Titel: Solvabilität
 
-### 1. Kapitel: Allgemeine Bestimmungen****
+### 1. Kapitel: Allgemeine Bestimmungen
 
 [^tit3-chap1-1]
 
@@ -647,7 +647,7 @@ Für die Anrechnung der risikoabsorbierenden Kapitalinstrumente nach Absatz 2 ge
 
 [^50-1]: Aufgehoben durch Ziff. I der V vom 25. März 2015, mit Wirkung seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-### 3. Abschnitt:**** Modelle
+### 3. Abschnitt: Modelle
 
 [^tit3-chap3-sec3-1]
 
@@ -690,7 +690,7 @@ Die FINMA genehmigt einem Versicherungsunternehmen die Verwendung eines internen
 
 <sup>3</sup> Das Modell ist regelmässig durch das Versicherungsunternehmen zu überprüfen und gegebenenfalls anzupassen.
 
-### 4. Abschnitt: Weitere Bestimmungen****
+### 4. Abschnitt: Weitere Bestimmungen
 
 [^tit3-chap3-sec4-1]
 
@@ -757,7 +757,7 @@ Die FINMA kann zusätzlich zum SST-Bericht namentlich für Marktvergleiche SST-B
 
 ### 1. Kapitel: Versicherungstechnische Rückstellungen
 
-### 1. Abschnitt:**** Grundsätze
+### 1. Abschnitt: Grundsätze
 
 [^tit4-chap1-sec1-1]
 
@@ -919,12 +919,11 @@ Versicherungstechnische Rückstellungen sind:
 - f. die versicherungstechnischen Rückstellungen für Renten;
 - g. alle übrigen Rückstellungen, die zur Bildung ausreichender Rückstellungen erforderlich sind.
 
-<sup>2</sup> Schwankungsrückstellungen in der Kreditversicherung werden nach der Methode Nr. 2 des Anhangs Nr. 5 zum Abkommen vom 10. Oktober 1989[^69-2] zwischen der Schweizerischen Eidgenossenschaft und der EWG betreffend die Direktversicherung mit Ausnahme der Lebensversicherung gebildet.
+<sup>2</sup> Schwankungsrückstellungen in der Kreditversicherung werden nach der Methode Nr. 2 des Anhangs Nr. 5 zum Abkommen vom 10. Oktober 1989 zwischen der Schweizerischen Eidgenossenschaft und der EWG betreffend die Direktversicherung mit Ausnahme der Lebensversicherung gebildet.
 
 <sup>3</sup> Versicherungsunternehmen, welche die Kreditversicherung betreiben, sind von der Bildung von Schwankungsrückstellungen befreit, sofern ihre zum Soll gestellten Prämieneinnahmen in diesem Versicherungszweig weniger als 4 Prozent der Gesamtsumme der zum Soll gestellten Prämieneinnahmen ausmachen und weniger als 4 Millionen Franken betragen.
 
 [^69-1]: Fassung gemäss Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^69-2]: [SR 0.961.1](https://fedlex.data.admin.ch/eli/cc/1992/1894_1894_1894)
 
 ### 2. Kapitel: Gebundenes Vermögen
 
@@ -2384,11 +2383,12 @@ Keine Eintragungspflicht nach Artikel 43 Absatz 1 VAG besteht auch, wenn ein Ver
 
 Die Versicherungsvermittler und Versicherungsvermittlerinnen erfüllen folgende persönliche Voraussetzungen:
 
-- a. Sie sind handlungsfähig;
-- b. Es liegt keine strafrechtliche Verurteilung vor wegen Handlungen, die mit der Versicherungsvermittlungstätigkeit nicht zu vereinbaren sind und deren Eintrag im Strafregister nicht gelöscht ist;
-- c.[^185-1] Es bestehen gegen sie keine Verlustscheine, die mit einem Verhalten im Zusammenhang stehen, das mit der Versicherungsvermittlungstätigkeit nicht vereinbar ist.
+- a. Sie sind handlungsfähig.
+- b.[^185-1] Es liegt keine strafrechtliche Verurteilung vor wegen Handlungen, die mit der Versicherungsvermittlungstätigkeit nicht zu vereinbaren sind und die im Privatauszug des Strafregister-Informationssystems VOSTRA oder in einer entsprechenden ausländischen Bestätigung für Personen mit Wohnsitz im Ausland erscheinen.
+- c.[^185-2] Es bestehen gegen sie keine Verlustscheine, die mit einem Verhalten im Zusammenhang stehen, das mit der Versicherungsvermittlungstätigkeit nicht vereinbar ist.
 
-[^185-1]: Fassung gemäss Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^185-1]: Fassung gemäss Anhang 10 Ziff. II 31 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^185-2]: Fassung gemäss Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 186
 
@@ -2444,15 +2444,16 @@ Der registrierte Versicherungsvermittler und die registrierte Versicherungsvermi
 - f. Wechsel des Versicherungsunternehmens, dessen Versicherungsverträge der Versicherungsvermittler oder die Versicherungsvermittlerin nach Artikel 43 Absatz 2 VAG vermittelt;
 - g. Wechsel des Versicherungsvermittlerunternehmens, für das der Versicherungsvermittler oder die Versicherungsvermittlerin tätig ist;
 - h. Wechsel der Adresse;
-- i.[^189-1] Verurteilungen wegen strafbarer Handlungen gegen das Vermögen nach den Artikeln 137–172<sup>ter</sup> StGB, die im Strafregister eingetragen werden;
-- k.[^189-2] Vorliegen eines Verlustscheins.
+- i.[^189-1] Verurteilungen wegen strafbarer Handlungen gegen das Vermögen nach den Artikeln 137–172<sup>ter</sup> des Strafgesetzbuches[^189-2], die im Strafregister-Informationssystem VOSTRA eingetragen werden;
+- k.[^189-3] Vorliegen eines Verlustscheins.
 
 <sup>2</sup> Das Versicherungsunternehmen, mit welchem der Versicherungsvermittler oder die Versicherungsvermittlerin eine Berufshaftpflichtversicherung nach Artikel 186 Absatz 1 abgeschlossen hat, muss die FINMA über das Aussetzen oder das Aufhören dieser Versicherung unverzüglich in Kenntnis setzen. Gleiches gilt, falls die Deckung das vorgeschriebene Minimum unterschreitet.
 
 <sup>3</sup> Dieselbe Pflicht trifft die Person, welche zugunsten des Versicherungsvermittlers oder der Versicherungsvermittlerin eine gleichwertige Form der finanziellen Sicherheit leistet.
 
-[^189-1]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^189-2]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^189-1]: Eingefügt durch Ziff. I der V vom 25. März 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Fassung gemäss Anhang 10 Ziff. II 31 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^189-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^189-3]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 190
 
@@ -2620,7 +2621,7 @@ Für Versicherungsgruppen gilt Artikel 111*a* sinngemäss. Für die Beschreibung
 
 [^203a-1]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-### 4. Abschnitt:**** Konkurs
+### 4. Abschnitt: Konkurs
 
 [^tit8-chap1-sec4-1]
 
@@ -2783,7 +2784,7 @@ Folgende Erlasse werden aufgehoben:
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3 Abs. 1)
 
@@ -2907,7 +2908,7 @@ Anhang 1*[^t-1]*
 - C2 Rückversicherung in allen Versicherungszweigen durch Versicherungsunternehmen, welche die Schadenversicherung betreiben
 - C3 Rückversicherung durch Captives
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 41 Abs. 1)
 
@@ -2945,12 +2946,12 @@ Der Expected Shortfall von X mit der Eintrittswahrscheinlichkeit α ist der erwa
 Der Expected Shortfall von X mit der Eintrittswahrscheinlichkeit α ist gegeben durch:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20160101/de/xml/image/image1.png)</td><td>(3)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20230123/de/xml/image/image1.png)</td><td>(3)</td></tr>
 </table>
 
 Der Fall mit stetiger Verteilung ist im allgemeinen Fall enthalten. Im Fall mit stetiger Verteilung fallen die Ausdrücke (2) und (3) zusammen.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 48 Abs. 1)
 

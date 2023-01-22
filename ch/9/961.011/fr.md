@@ -4,11 +4,11 @@ title: "Ordonnance du 9 novembre 2005 sur la surveillance des entreprises d'assu
 short: OS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: fr
-version: 2016-01-01
+version: 2023-01-23
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20160101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20160101/fr"
 
 (Ordonnance sur la surveillance, OS)
 
-du 9 novembre 2005 (Etat le 1<sup>er</sup> janvier 2016)
+du 9 novembre 2005 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -40,7 +40,7 @@ arrête:
 
 Une activité d’assurance en Suisse est réputée telle lorsque, indépendamment du mode et du lieu de conclusion du contrat:
 
-- a. une personne physique ou morale domiciliée en Suisse est preneur d’assurance ou assurée; ou
+- a. une personne physique ou morale domiciliée en Suisse est preneur d’assurance ou assurée, ou
 - b. des choses situées en Suisse sont assurées.
 
 <sup>2</sup>
@@ -73,14 +73,14 @@ Les entreprises d’assurance ayant leur siège à l’étranger mais aucune suc
 
 L’agrément relatif à la pratique d’une branche d’assurance dommages autorise également la pratique des branches B1 à B13, B16 et B18 dans la mesure où les risques concernés:
 
-- a. sont liés au risque principal ou concernent l’objet couvert contre le risque principal; et
+- a. sont liés au risque principal ou concernent l’objet couvert contre le risque principal, et
 - b. sont garantis par le même contrat que le risque principal.
 
 <sup>3</sup>
 
 Le risque compris dans la branche d’assurance B17 peut être couvert sans agrément supplémentaire aux conditions de l’al. 2 s’il:
 
-- a. est lié aux risques relevant de la branche d’assurance B18; ou
+- a. est lié aux risques relevant de la branche d’assurance B18, ou
 - b. concerne des litiges ou des prétentions qui résultent de l’utilisation de navires de mer ou sont en rapport avec cette utilisation.
 
 <sup>4</sup> L’agrément pour les branches d’assurance A1, A3, A4 et A5, ainsi que B1 et B2 autorise également l’exploitation de l’assurance-invalidité.
@@ -101,7 +101,7 @@ Le risque compris dans la branche d’assurance B17 peut être couvert sans agr�
 
 <sup>4</sup> Si les fusions, scissions et transformations selon l’art. 3, al. 2 LSA sont inscrites au registre du commerce sans que l’agrément ait été octroyé, la FINMA ordonne les mesures nécessaires pour rétablir la situation légale au frais des entreprises concernées.
 
-[^4-1]: Nouvelle expression selon le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-1]: Nouvelle expression selon l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
 
@@ -115,7 +115,7 @@ Les communications au sens de l’art. 5, al. 2 LSA sont faites par l’entrepri
 
 Les caisses-maladie au sens de l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie (LSAMal)[^5a-2] ont le droit de pratiquer les assurances complémentaires visées à l’art. 2, al. 2, LSAMal dès qu’elles disposent d’un agrément de la FINMA au sens de l’art. 3 LSA.
 
-[^5a-1]: Introduit par le ch. 6 de l’annexe à l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^5a-1]: Introduit par l’annexe ch. 6 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^5a-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 ### Chapitre 2 Conditions d’octroi de l’agrément
@@ -211,7 +211,7 @@ La FINMA peut, dans le cadre des limites fixées à l’art. 8, al. 1, LSA, s’
 
 <sup>2</sup> Le *curriculum vitae* de tout nouveau membre de la direction est remis à la FINMA dans les quinze jours à compter de la nomination.[^14-1]
 
-[^14-1]: Nouvelle teneur selon le ch. II 11 de l’annexe à l’O du 22 août 2007 sur la surveillance de la révision, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
+[^14-1]: Nouvelle teneur selon l’annexe ch. II 11 de l’O du 22 août 2007 sur la surveillance de la révision, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
 
 ### Chapitre 4 Conditions complémentaires pour les entreprises d’assurance étrangères
 
@@ -280,15 +280,15 @@ Ne sont pas de sa compétence les déclarations portant sur:
 
 **Activités à l’étranger**
 
-<sup>1</sup> L’entreprise d’assurance étrangère, qui exerce son activité depuis la Suisse mais uniquement à l’étranger, doit prouver qu’elle possède l’autorisation d’exercer une activité d’assurance dans l’Etat où elle a son siège et que la FINMA de cet Etat a approuvé son établissement en Suisse.[^20-1]
+<sup>1</sup> L’entreprise d’assurance étrangère, qui exerce son activité depuis la Suisse mais uniquement à l’étranger, doit prouver qu’elle possède l’autorisation d’exercer une activité d’assurance dans l’État où elle a son siège et que la FINMA de cet État a approuvé son établissement en Suisse.[^20-1]
 
 <sup>2</sup> Les dispositions concernant le mandataire général s’appliquent par analogie.
 
-[^20-1]: Nouvelle teneur selon le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^20-1]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
 ## Titre 3 Solvabilité
 
-### Chapitre 1 Dispositions générales****
+### Chapitre 1 Dispositions générales
 
 [^tit3-chap1-1]
 
@@ -427,7 +427,7 @@ Les pourcentages des art. 28, al. 3, let. b, et 29, al. 3, let. b, sont réduits
 
 - a. les primes perçues sont calculées sur la base de tables de morbidité selon les méthodes mathématiques appliquées en matière d’assurance;
 - b. une provision de vieillissement est constituée;
-- c. un supplément de sécurité approprié est perçu; et
+- c. un supplément de sécurité approprié est perçu, et
 - d. l’entreprise d’assurance ne peut dénoncer le contrat qu’avant l’échéance de la troisième année d’assurance au plus tard.
 
 #### Art. 32
@@ -504,7 +504,7 @@ Pour les entreprises d’assurance qui exploitent l’assurance dommages ou la r
 
 **Contrôle et rapport**
 
-<sup>1</sup> L’entreprise d’assurance charge un organe interne de contrôler la marge de solvabilité disponible. A la fin de chaque exercice annuel, cet organe établit un rapport et le présente à la direction et à la FINMA dans un délai de trois mois.
+<sup>1</sup> L’entreprise d’assurance charge un organe interne de contrôler la marge de solvabilité disponible. À la fin de chaque exercice annuel, cet organe établit un rapport et le présente à la direction et à la FINMA dans un délai de trois mois.
 
 <sup>2</sup> Dans des situations particulières, la FINMA peut ordonner que le rapport soit établi plus d’une fois par année.
 
@@ -533,7 +533,7 @@ Pour les entreprises d’assurance qui exploitent l’assurance dommages ou la r
 Le capital cible est déterminé par:
 
 - a. un modèle de quantification des risques pertinents;
-- b. l’évaluation d’un certain nombre de scénarios; et
+- b. l’évaluation d’un certain nombre de scénarios, et
 - c. une procédure d’agrégation qui regroupe les résultats du modèle et de l’éva-luation des scénarios.
 
 <sup>2</sup> La FINMA définit les risques pertinents; les risques de marché, les risques de crédit et les risques d’assurance en font dans tous les cas partie.[^42-1]
@@ -647,7 +647,7 @@ Les instruments de capital amortisseurs de risque visés à l’al. 2 sont pris 
 
 [^50-1]: Abrogé par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-### Section 3**** Modèles
+### Section 3 Modèles
 
 [^tit3-chap3-sec3-1]
 
@@ -690,7 +690,7 @@ La FINMA autorise une entreprise d’assurance à utiliser un modèle interne si
 
 <sup>3</sup> L’entreprise d’assurance réexamine régulièrement son modèle et le révise au besoin.
 
-### Section 4 Autres dispositions****
+### Section 4 Autres dispositions
 
 [^tit3-chap3-sec4-1]
 
@@ -757,7 +757,7 @@ La FINMA peut exiger, en plus du rapport SST, des calculs SST et des tests de r�
 
 ### Chapitre 1 Provisions techniques
 
-### Section 1**** Principes
+### Section 1 Principes
 
 [^tit4-chap1-sec1-1]
 
@@ -871,7 +871,7 @@ Les provisions techniques, déduction faite d’éventuels frais d’acquisition
 
 **Zillmérisation de provisions techniques et activation de frais d’acquisition non encore amortis**[^65-1]
 
-<sup>1</sup> La zillmérisation des provisions techniques n’est pas autorisée. Font exception les provisions techniques des succursales d’entreprises d’assurance suisses situées dans des Etats dont le droit de la surveillance tolère la zillmérisation.
+<sup>1</sup> La zillmérisation des provisions techniques n’est pas autorisée. Font exception les provisions techniques des succursales d’entreprises d’assurance suisses situées dans des États dont le droit de la surveillance tolère la zillmérisation.
 
 <sup>2</sup> L’activation de frais d’acquisition non encore amortis est en principe autorisée. La FINMA édicte des directives concernant l’étendue et les modalités de l’activation. Elle peut interdire l’activation pour de justes motifs.
 
@@ -919,12 +919,11 @@ Sont des provisions techniques:
 - f. les provisions techniques pour rentes;
 - g. toutes les autres provisions techniques requises pour constituer des provisions suffisantes.
 
-<sup>2</sup> Les provisions pour fluctuations dans l’assurance-crédit sont constituées d’après la méthode n<sup>o</sup> 2 de l’annexe 5 à l’accord du 10 octobre 1989 entre la Confédération suisse et la CEE concernant l’assurance directe autre que l’assurance sur la vie[^69-2].
+<sup>2</sup> Les provisions pour fluctuations dans l’assurance-crédit sont constituées d’après la méthode n<sup>o</sup> 2 de l’annexe 5 à l’accord du 10 octobre 1989 entre la Confédération suisse et la CEE concernant l’assurance directe autre que l’assurance sur la vie.
 
 <sup>3</sup> Les entreprises d’assurance exerçant l’assurance-crédit sont libérées de l’obligation de constituer des provisions pour fluctuations, dans la mesure où les primes encaissées dans cette branche n’atteignent pas 4 % du total des primes encaissées ni le montant de 4 millions de francs.
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^69-2]: [RS 0.961.1](https://fedlex.data.admin.ch/eli/cc/1992/1894_1894_1894)
 
 ### Chapitre 2 Fortune liée
 
@@ -977,10 +976,10 @@ Constitue un portefeuille d’assurance étranger selon l’art. 17, al. 2, LSA 
 
 **Prêt de valeurs mobilières et opérations de mise ou de prise en pension**[^75-1]
 
-La FINMA édicte des prescriptions concernant le prêt de valeurs mobilières (*secur**i**ties lending*) et les opérations de mise ou de prise en pension (*repo, reverse repo*) effectués par les entreprises d’assurance, en particulier en ce qui concerne:
+La FINMA édicte des prescriptions concernant le prêt de valeurs mobilières (*securities lending*) et les opérations de mise ou de prise en pension (*repo, reverse repo*) effectués par les entreprises d’assurance, en particulier en ce qui concerne:
 
 - a. les modalités des sûretés;
-- b. le contenu des contrats; et
+- b. le contenu des contrats, et
 - c. leur volume.
 
 [^75-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
@@ -1050,7 +1049,7 @@ Les biens suivants peuvent être affectés à la fortune liée:
 - e. les actions, bons de jouissance, bons de participation, emprunts convertibles avec caractère d’actions, les parts de sociétés coopératives et les papiers-valeurs analogues, lorsqu’ils sont négociables sur un marché réglementé et à court terme;
 - f. les immeubles d’habitation et commerciaux situés en Suisse qui sont propriété de l’entreprise d’assurance, et les participations à des sociétés dont le but social vise uniquement l’acquisition et la vente, ainsi que la location et l’affermage de leurs propres immeubles (sociétés immobilières), si ces participations sont supérieures à 50 %;
 - g. les créances garanties par un gage sur un immeuble situé en Suisse;
-- h. les placements financiers alternatifs tels les *Hedge Funds* et la *Private Equ**i**ty*;
+- h. les placements financiers alternatifs tels les *Hedge Funds* et la *Private Equity*;
 - i. les instruments financiers dérivés utilisés à des fins de garantie et n’exerçant aucun effet de levier sur la fortune liée, si les sous-jacents sont affectés à la fortune liée à une valeur d’affectation tenant compte des variations du marché;
 - j. les participations à des placements collectifs et à des fonds à investisseur unique.
 
@@ -1091,7 +1090,7 @@ La fortune liée pour les droits des assurés découlant de contrats d’assuran
 
 L’entreprise d’assurance peut prendre en compte pour la fortune liée des participations à des placements collectifs dans la mesure où:
 
-- a. ceux-ci sont soumis à une surveillance effective visant la protection des investisseurs; et
+- a. ceux-ci sont soumis à une surveillance effective visant la protection des investisseurs, et
 - b. les participations sont négociées sur un marché réglementé et liquide ou sont en tout temps négociables.
 
 <sup>2</sup>
@@ -1101,7 +1100,7 @@ Elle peut prendre en compte pour la fortune liée des participations à des fond
 - a. sont soumis à une surveillance effective;
 - b. sont détenus à 100 % par l’entreprise d’assurance;
 - c. garantissent en tout temps la mainmise sur les placements individuels du fonds;
-- d. effectuent des placements selon l’art. 79; et
+- d. effectuent des placements selon l’art. 79, et
 - e. remplissent les conditions de l’art. 87.
 
 <sup>3</sup> L’organisation des placements collectifs et des fonds à investisseur unique est réglée, en ce qui concerne les directives de placement et le règlement des compétences, ainsi que la détermination, l’achat et la reprise des parts, de manière que les intérêts des entreprises d’assurance participantes soient préservés.
@@ -1179,7 +1178,7 @@ La FINMA vérifie au moins une fois par an:
 [^87-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 [^87-2]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-### Section 4 Evaluation des biens
+### Section 4 Évaluation des biens
 
 #### Art. 88
 
@@ -1237,7 +1236,7 @@ L’évaluation des placements tient compte également des intérêts courus.
 
 La constitution de sûretés peut prendre la forme d’un droit de gage régulier ou d’un droit de gage irrégulier selon le droit suisse ou selon un droit comparable au droit suisse, pour autant:
 
-- a. que le dépôt de marge initial ait lieu auprès d’un tiers indépendant sous ségrégation complète; et
+- a. que le dépôt de marge initial ait lieu auprès d’un tiers indépendant sous ségrégation complète, et
 - b. que le contrat garantisse qu’en cas de faillite, le dépôt de marge initial ne peut servir à chacune des parties contractantes qu’à compenser par des créances ouvertes vis-à-vis de l’assureur des opérations sur dérivés effectuées par lui par l’intermédiaire de la contrepartie centrale ou du *clearing broker*.
 
 <sup>3</sup> La FINMA règle les détails concernant l’affectation et la prise en compte de ces biens. Elle peut limiter la constitution de sûretés ou autoriser des dérogations pour de justes motifs.
@@ -1319,7 +1318,7 @@ La gestion des risques comporte notamment:
 
 #### Art. 96a
 
-**Evaluation interne des risques et des besoins en capital**[^96a-1]
+**Évaluation interne des risques et des besoins en capital**[^96a-1]
 
 <sup>1</sup>
 
@@ -1492,7 +1491,7 @@ L’entreprise d’assurance adresse une fois par an à la FINMA un rapport sur 
 
 Les instruments financiers dérivés ouverts à la date du bilan peuvent:
 
-- a. être pris en considération pour l’évaluation des sous-jacents, en se fondant sur des hypothèses prudentes; ou
+- a. être pris en considération pour l’évaluation des sous-jacents, en se fondant sur des hypothèses prudentes, ou
 - b. figurer de façon indépendante dans le bilan. Dans ce cas, ils sont évalués en se fondant sur des hypothèses prudentes, mais au maximum à la valeur du marché. Pour les instruments financiers dérivés qui n’ont pas de valeur du marché, l’évaluation ne peut excéder celle calculée sur la base de modèles d’évaluation reconnus.
 
 [^110-1]: Abrogé par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
@@ -1556,7 +1555,7 @@ Elle peut prévoir des dérogations aux art. 959*a*, al. 1 et 2, 959*b*, al. 2 e
 
 [^112116-1]
 
-[^112116-1]: Abrogés par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^112116-1]: Abrogés par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
 ### Chapitre 6 Autres principes régissant l’exercice de l’activité d’assurance
 
@@ -1839,7 +1838,7 @@ Le contrat d’assurance collectif et les contrats individuels qui lui sont lié
 L’entreprise d’assurance transmet aux preneurs d’assurance, dans les cinq mois qui suivent la date du bilan:
 
 - a. la comptabilité des assurances de prévoyance professionnelle;
-- b. les indications concernant l’attribution au fonds d’excédents et la distribution des parts excédents; et
+- b. les indications concernant l’attribution au fonds d’excédents et la distribution des parts excédents, et
 - c. toutes les autres informations nécessaires aux preneurs d’assurance pour remplir leurs obligations légales d’information.
 
 ### Section 2 Participation aux excédents
@@ -1885,7 +1884,7 @@ Le processus d’épargne comprend:
 Le processus de risque comprend:
 
 - a. le paiement des prestations en cas de décès et leur liquidation, sous forme de prestations en capital, de rentes de veuves, de veufs et d’orphelins;
-- b. le paiement de prestations en cas d’invalidité et leur liquidation, sous forme de capital, de rentes, de rentes d’enfants d’invalides et de libération du service des primes; et
+- b. le paiement de prestations en cas d’invalidité et leur liquidation, sous forme de capital, de rentes, de rentes d’enfants d’invalides et de libération du service des primes, et
 - c. la liquidation des expectatives liées à des rentes de vieillesse en cours et des rentes de survivants qui en résultent.
 
 <sup>2</sup> Le produit du processus de risque (composante risque) correspond aux primes de risque échues.
@@ -2083,7 +2082,7 @@ La FINMA et l’autorité de surveillance au sens de la LSAMal[^160a-2] coordonn
 
 <sup>2</sup> La FINMA et l’autorité de surveillance visée à l’al. 1 peuvent également coordonner leurs activités de surveillance en procédant à des échanges réguliers d’informations sur les entités soumises à leur surveillance.
 
-[^160a-1]: Introduit par le ch. 6 de l’annexe à l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^160a-1]: Introduit par l’annexe ch. 6 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^160a-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 ### Chapitre 5 Assurance de la protection juridique
@@ -2357,7 +2356,7 @@ L’intermédiaire d’assurance n’est pas soumis à l’obligation de se fair
 - a. si ses commissions proviennent en majorité d’une ou de deux entreprises d’assurance au cours d’une année civile;
 - b. si les dédommagements ou autres avantages pécuniaires qu’il reçoit d’une entreprise d’assurance ne correspondent pas à la rémunération usuelle de l’intermédiation en assurance et sont ainsi de nature à entamer son indépendance;
 - c. si des accords de collaboration ou autres arrangements qu’il a conclus avec une entreprise d’assurance entament sa liberté de choisir une entreprise d’assurance;
-- d. s’il possède directement ou indirectement une participation s’élevant à plus de 10 % du capital d’une entreprise d’assurance; ou
+- d. s’il possède directement ou indirectement une participation s’élevant à plus de 10 % du capital d’une entreprise d’assurance, ou
 - e. s’il exerce une fonction dirigeante dans une entreprise d’assurance ou peut exercer d’une autre manière une influence sur la marche des affaires de l’entreprise d’assurance.
 
 <sup>2</sup>
@@ -2386,10 +2385,11 @@ L’intermédiaire d’assurance n’est pas non plus soumis à l’obligation d
 L’intermédiaire doit remplir les conditions personnelles suivantes:
 
 - a. il a l’exercice des droits civils;
-- b. il n’existe aucune condamnation pénale pour des faits qui ne sont pas compatibles avec l’activité d’intermédiaire et dont l’inscription au casier judiciaire n’est pas biffée;
-- c.[^185-1] il n’existe à son encontre aucun acte de défaut de biens lié à un comportement incompatible avec l’activité d’intermédiaire d’assurance.
+- b.[^185-1] l’extrait du casier judiciaire destiné aux particuliers ou, s’il a son domicile à l’étranger, une attestation équivalente des autorités étrangères ne comporte aucune condamnation pénale pour des faits qui ne sont pas compatibles avec l’activité d’intermédiaire;
+- c.[^185-2] il n’existe à son encontre aucun acte de défaut de biens lié à un comportement incompatible avec l’activité d’intermédiaire d’assurance.
 
-[^185-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^185-1]: Nouvelle teneur selon l’annexe 10 ch. II 31 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^185-2]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 186
 
@@ -2399,7 +2399,7 @@ L’intermédiaire doit remplir les conditions personnelles suivantes:
 
 <sup>2</sup> Il est délié de cette obligation si un tiers a conclu une assurance de responsabilité civile professionnelle qui l’inclut dans la couverture.
 
-<sup>3</sup> A la place d’un contrat d’assurance de responsabilité civile professionnelle, il peut fournir une sûreté financière équivalente. La FINMA décide dans chaque cas si la sûreté financière peut être considérée comme équivalente.
+<sup>3</sup> À la place d’un contrat d’assurance de responsabilité civile professionnelle, il peut fournir une sûreté financière équivalente. La FINMA décide dans chaque cas si la sûreté financière peut être considérée comme équivalente.
 
 <sup>4</sup> La personne qui souhaite s’inscrire au registre en tant qu’intermédiaire aussi bien selon l’art. 43, al. 1, que selon l’art. 43, al. 2, LSA, doit prouver l’existence des sûretés financières requises pour les deux formes d’intermédiation.
 
@@ -2445,15 +2445,16 @@ Les intermédiaires inscrits communiquent les modifications suivantes à la FINM
 - f. le changement de l’entreprise d’assurance pour qui l’intermédiaire au sens de l’art. 43, al. 2, LSA conclut des contrats;
 - g. le changement de l’entreprise d’intermédiation pour laquelle l’intermédiaire exerce son activité;
 - h. un changement d’adresse;
-- i.[^189-1] une condamnation pénale inscrite au casier judiciaire pour l’une des infractions contre le patrimoine visées aux art. 137 à 172<sup>ter</sup> CP;
-- k.[^189-2] un acte de défaut de biens.
+- i.[^189-1] une condamnation pénale inscrite au casier judiciaire informatique VOSTRA pour l’une des infractions contre le patrimoine visées aux art. 137 à 172<sup>ter</sup> du code pénal[^189-2];
+- k.[^189-3] un acte de défaut de biens.
 
 <sup>2</sup> L’entreprise d’assurance avec laquelle l’intermédiaire a conclu une assurance de responsabilité civile professionnelle en vertu de l’art. 186, al. 1, doit informer immédiatement la FINMA lorsque cette assurance est suspendue ou supprimée. Il en est de même lorsque la couverture descend en dessous du minimum prescrit.
 
 <sup>3</sup> La même obligation incombe à la personne qui fournit une forme de garantie financière équivalente en faveur de l’intermédiaire.
 
-[^189-1]: Introduite par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^189-2]: Introduite par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^189-1]: Introduite par le ch. I de l’O du 25 mars 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nouvelle teneur selon l’annexe 10 ch. II 31 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^189-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^189-3]: Introduite par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 190
 
@@ -2504,7 +2505,7 @@ Les transactions internes sont les opérations par lesquelles des entreprises su
 - c. les opérations et transactions concernant des biens mentionnés à l’art. 37, al. 2, let. d;
 - d. les placements de capitaux;
 - e. les opérations de réassurance;
-- f. les conventions de répartition des coûts; et
+- f. les conventions de répartition des coûts, et
 - g. les autres opérations de transfert de risques.
 
 <sup>2</sup> Sont réputées importantes, les transactions internes qui modifient, ou modifieront encore, sensiblement la situation financière du groupe d’assurance ou de l’une de ses entreprises, et qui excèdent les valeurs minimales fixées par la FINMA.
@@ -2551,7 +2552,7 @@ Les transactions internes sont les opérations par lesquelles des entreprises su
 
 #### Art. 198
 
-**Evaluation et compte rendu**[^198-1]
+**Évaluation et compte rendu**[^198-1]
 
 L’évaluation de la solvabilité des groupes d’assurance et le compte rendu correspondant s’effectuent par analogie avec les art. 41 à 53*a* relatifs au test suisse de solvabilité (SST de groupe).
 
@@ -2592,7 +2593,7 @@ La FINMA peut:
 
 Un groupe d’assurance répond aux exigences en matière de solvabilité:
 
-- a. s’il satisfait aux exigences du SST de groupe consolidé; ou
+- a. s’il satisfait aux exigences du SST de groupe consolidé, ou
 - b. s’il satisfait aux exigences du SST de groupe granulaire approuvé par la FINMA.
 
 [^198c-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
@@ -2611,7 +2612,7 @@ Un groupe d’assurance répond aux exigences en matière de solvabilité:
 
 <sup>2</sup> La FINMA fixe des directives pour la vérification. Elle peut autoriser qu’une tierce personne, qualifiée et indépendante, effectue la vérification.
 
-[^203-1]: Nouvelle expression selon le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^203-1]: Nouvelle expression selon l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
 #### Art. 203a
 
@@ -2621,11 +2622,11 @@ L’art. 111*a* s’applique par analogie aux groupes d’assurance. Pour décri
 
 [^203a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-### Section 4**** Faillite
+### Section 4 Faillite
 
 [^tit8-chap1-sec4-1]
 
-[^tit8-chap1-sec4-1]: Introduit par le ch. 14 de l’annexe 1 à l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^tit8-chap1-sec4-1]: Introduit par l’annexe 1 ch. 14 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
 #### Art. 203b
 
@@ -2663,7 +2664,7 @@ Les art. 191 à 203*a* relatifs aux groupes d’assurance s’appliquent par ana
 
 Les fonctions d’une société du conglomérat sont significatives pour les activités soumises à autorisation lorsqu’elles sont nécessaires à la poursuite de processus opérationnels importants, notamment dans la sélection des risques, la gestion du portefeuille, la liquidation des sinistres et la comptabilité, les ressources humaines, les technologies de l’information ainsi que le placement des capitaux.
 
-[^206a-1]: Introduit par le ch. 14 de l’annexe 1 à l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^206a-1]: Introduit par l’annexe 1 ch. 14 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
 ## Titre 9 …
 
@@ -2671,7 +2672,7 @@ Les fonctions d’une société du conglomérat sont significatives pour les act
 
 [^207208-1]
 
-[^207208-1]: Abrogés par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^207208-1]: Abrogés par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
 #### Art. 209 à 214
 
@@ -2685,7 +2686,7 @@ Les fonctions d’une société du conglomérat sont significatives pour les act
 
 [^215-1]
 
-[^215-1]: Abrogé par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^215-1]: Abrogé par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
 ## Titre 11 Dispositions transitoires et finales
 
@@ -2717,20 +2718,20 @@ Concernant le capital cible (art. 41 à 46) et le capital porteur de risques (ar
 
 <sup>16</sup> Les art. 175 et 176, al. 2, s’appliquent aux contrats d’assurance en cours au moment de l’entrée en vigueur de la modification du 18 octobre 2006 et à ceux qui sont conclus après cette date.[^216-8]
 
-[^216-1]: Abrogés par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^216-2]: Abrogées par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^216-3]: Abrogées par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^216-4]: Abrogé par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^216-5]: Abrogés par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^216-1]: Abrogés par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^216-2]: Abrogées par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^216-3]: Abrogées par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^216-4]: Abrogé par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^216-5]: Abrogés par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-6]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^216-7]: Abrogés par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^216-7]: Abrogés par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-8]: Introduit par le ch. I de l’O du 18 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
 
 #### Art. 216a
 
 [^216a-1]
 
-[^216a-1]: Introduit par le ch. II 11 de l’annexe à l’O du 22 août 2007 sur la surveillance de la révision ([RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)). Abrogé par le ch. 11 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^216a-1]: Introduit par l’annexe ch. II 11 de l’O du 22 août 2007 sur la surveillance de la révision ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)). Abrogé par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
 #### Art. 216b
 
@@ -2780,7 +2781,7 @@ Les actes suivants sont abrogés:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2006.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 3, al. 1)
 
@@ -2907,7 +2908,7 @@ Annexe 1*[^t-1]*
 - C2 Réassurance dans toutes les branches d’assurance exercée par les entreprises d’assurance qui exploitent l’assurance dommages
 - C3 Réassurance exercée par les captives
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 41, al. 1)
 
@@ -2945,28 +2946,28 @@ L’Expected Shortfall de X avec la probabilité de survenance α est l’espér
 L’Expected Shortfall de X avec la probabilité de survenance α est donné par l’égalité:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20160101/fr/xml/image/image1.png)</td><td>(3)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20230123/fr/xml/image/image1.png)</td><td>(3)</td></tr>
 </table>
 
 Le cas avec une répartition continue est compris dans le cas général. Dans le cas avec répartition continue, les formules (2) et (3) sont confondues.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 48, al. 1)
 
-## Evaluation proche du marché
+## Évaluation proche du marché
 
 [^t-3]: Mise à jour selon le ch. I de l’O du 30 nov. 2012 ([RO 2012 7263](https://fedlex.data.admin.ch/eli/oc/2012/884)) et le ch. II al. 1 de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### 1. Définition
 
-<sup>1</sup> Par valeur proche du marché, on entend la valeur de marché si elle existe («*Ma**r**king-to-Market*»).
+<sup>1</sup> Par valeur proche du marché, on entend la valeur de marché si elle existe («*Marking-to-Market*»).
 
 <sup>2</sup> S’il n’y a pas de valeur du marché disponible, la valeur proche du marché est déterminée sur la base d’un modèle correspondant («*Marking-to-Model*»).
 
 ### 2. Actifs
 
-<sup>1</sup> Lorsqu’il existe une valeur de marché sûre pour les actifs, celle-ci sert de base d’évaluation. Entrent notamment dans cette catégorie les espèces, les emprunts d’Etat et les actions cotées en bourse.
+<sup>1</sup> Lorsqu’il existe une valeur de marché sûre pour les actifs, celle-ci sert de base d’évaluation. Entrent notamment dans cette catégorie les espèces, les emprunts d’État et les actions cotées en bourse.
 
 <sup>2</sup> La FINMA règle l’évaluation des actifs dont la valeur de marché ne peut être que difficilement déterminée. La valeur du marché est éventuellement déduite des modèles se rapportant à des instruments financiers analogues, mais cotés en bourse (combinaison de «*Marking-to-Market*» et de «*Marking-to-Model*»).
 

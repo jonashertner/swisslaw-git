@@ -4,11 +4,11 @@ title: "Ordinanza del 9 novembre 2005 sulla sorveglianza delle imprese di assicu
 short: OS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: it
-version: 2016-01-01
+version: 2023-01-23
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2005-735-20160101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2005-735-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20160101/it"
 
 (Ordinanza sulla sorveglianza, OS)
 
-del 9 novembre 2005 (Stato 1° gennaio 2016) (Stato 1° gennaio 2016)
+del 9 novembre 2005 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -288,7 +288,7 @@ Nelle sue competenze non rientrano dichiarazioni concernenti:
 
 ## Titolo terzo: Solvibilità
 
-### Capitolo 1: Disposizioni generali****
+### Capitolo 1: Disposizioni generali
 
 [^tit3-chap1-1]
 
@@ -647,7 +647,7 @@ Per il computo degli strumenti di capitale assorbenti il rischio di cui al capov
 
 [^50-1]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-### Sezione 3:**** Modelli
+### Sezione 3: Modelli
 
 [^tit3-chap3-sec3-1]
 
@@ -690,7 +690,7 @@ La FINMA autorizza a un’impresa di assicurazione l’impiego di un modello int
 
 <sup>3</sup> L’impresa di assicurazione deve verificare periodicamente il modello ed eventualmente adeguarlo.
 
-### Sezione 4: Ulteriori disposizioni****
+### Sezione 4: Ulteriori disposizioni
 
 [^tit3-chap3-sec4-1]
 
@@ -757,7 +757,7 @@ Oltre al rapporto SST, segnatamente per procedere a confronti di mercato la FINM
 
 ### Capitolo 1: Riserve tecniche
 
-### Sezione 1:**** Principi
+### Sezione 1: Principi
 
 [^tit4-chap1-sec1-1]
 
@@ -921,12 +921,11 @@ Sono riserve tecniche:
 - f. le riserve tecniche per rendite;
 - g. tutte le altre riserve necessarie per costituire riserve sufficienti.
 
-<sup>2</sup> Le riserve di compensazione dell’assicurazione crediti sono costituite secondo il Metodo n. 2 dell’Allegato n. 5 all’Accordo del 10 ottobre 1989[^69-2] tra la Confederazione Svizzera e la CEE concernente l’assicurazione diretta diversa dall’assicurazione sulla vita.
+<sup>2</sup> Le riserve di compensazione dell’assicurazione crediti sono costituite secondo il Metodo n. 2 dell’Allegato n. 5 all’Accordo del 10 ottobre 1989 tra la Confederazione Svizzera e la CEE concernente l’assicurazione diretta diversa dall’assicurazione sulla vita.
 
 <sup>3</sup> Le imprese di assicurazione che esercitano l’assicurazione crediti sono esentate dalla costituzione di riserve di compensazione, sempre che l’incasso degli introiti dei premi in questo ramo assicurativo ammonti a meno del 4 per cento della somma complessiva e a meno di 4 milioni di franchi.
 
 [^69-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^69-2]: [RS 0.961.1](https://fedlex.data.admin.ch/eli/cc/1992/1894_1894_1894)
 
 ### Capitolo 2: Patrimonio vincolato
 
@@ -2383,10 +2382,11 @@ L’intermediario assicurativo non ha l’obbligo di iscrizione secondo l’arti
 L’intermediario finanziario adempie alle seguenti premesse personali:
 
 - a. gode dell’esercizio dei diritti civili;
-- b. non ha subito condanne penali pronunciate per fatti incompatibili con l’attività di intermediario assicurativo la cui iscrizione non è stata cancellata dal casellario giudiziale.
-- c.[^185-1] nei suoi confronti non esistono attestati di carenza beni che siano in relazione con un comportamento incompatibile con l’attività di intermediario assicurativo.
+- b.[^185-1] non ha subito condanne penali pronunciate per fatti incompatibili con l’attività di intermediario assicurativo e che figurano nell’estratto per privati del casellario giudiziale informatizzato VOSTRA o in una conferma estera corrispondente in caso di domicilio all’estero;
+- c.[^185-2] nei suoi confronti non esistono attestati di carenza beni che siano in relazione con un comportamento incompatibile con l’attività di intermediario assicurativo.
 
-[^185-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^185-1]: Nuovo testo giusta l’all. 10 n. II 31 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^185-2]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 186
 
@@ -2442,15 +2442,16 @@ L’intermediario finanziario registrato è obbligato ad avvisare la FINMA entro
 - f. cambio dell’impresa di assicurazione per la quale l’intermediario assicurativo secondo l’articolo 43 capoverso 2 LSA conclude contratti di assicurazione;
 - g. cambio di impresa di intermediari assicurativi per la quale l’intermediario assicurativo è attivo;
 - h. cambio di indirizzo;
-- i.[^189-1] condanne penali, iscritte nel casellario giudiziale, per reati contro il patrimonio di cui agli articoli 137–172<sup>ter</sup> CP;
-- k.[^189-2] presenza di un attestato di carenza beni.
+- i.[^189-1] condanne penali, iscritte nel casellario giudiziale informatizzato VOSTRA, per reati contro il patrimonio di cui agli articoli 137–172<sup>ter</sup> del Codice penale[^189-2];
+- k.[^189-3] presenza di un attestato di carenza beni.
 
 <sup>2</sup> L’impresa di assicurazione con la quale l’intermediario finanziario ha concluso un’assicurazione di responsabilità civile professionale secondo l’articolo 186 capoverso 1 deve mettere immediatamente a conoscenza la FINMA sulla cessazione o sospensione di questa assicurazione. Lo stesso vale se la copertura non raggiunge più il minimo prescritto.
 
 <sup>3</sup> Lo stesso obbligo incombe alla persona che fornisce una forma di garanzia finanziaria equivalente in favore dell’intermediario finanziario.
 
-[^189-1]: Introdotta dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^189-2]: Introdotta dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^189-1]: Introdotta dal n. I dell’O del 25 mar. ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nuovo testo giusta l’all. 10 n. II 31 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^189-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^189-3]: Introdotta dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 190
 
@@ -2618,7 +2619,7 @@ Per i gruppi assicurativi si applica per analogia l’articolo 111*a*. Per la de
 
 [^203a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-### Sezione 4:**** Fallimento
+### Sezione 4: Fallimento
 
 [^tit8-chap1-sec4-1]
 
@@ -2777,7 +2778,7 @@ I seguenti atti sono abrogati:
 
 La presente ordinanza entra in vigore il 1° gennaio 2006.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 3 cpv. 1)
 
@@ -2901,7 +2902,7 @@ Allegato 1: Rami assicurativi
 - C2 Riassicurazione in tutti i rami assicurativi da parte di imprese di assicurazione che esercitano l’assicurazione contro i danni
 - C3 Riassicurazione mediante captive
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 41 cpv. 1)
 
@@ -2934,11 +2935,11 @@ ES[X] = E[X | X &gt; q<sub>α</sub>] (2)
 
 L’expected shortfall di X con il livello di probabilità α è dato da:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20160101/it/xml/image/image1.png) (3)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20230123/it/xml/image/image1.png) (3)
 
 Il caso con la distribuzione costante è contenuto nel caso generale. Nel caso della distribuzione costante le espressioni (2) e (3) coincidono.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 48 cpv. 1)
 
