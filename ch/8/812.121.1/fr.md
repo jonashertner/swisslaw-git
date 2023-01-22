@@ -4,11 +4,11 @@ title: Ordonnance du 25 mai 2011 sur le contrôle des stupéfiants (OCStup)
 short: OCStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
 language: fr
-version: 2022-08-01
+version: 2023-01-23
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220801-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2011-362-20230123-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220801/fr"
 
 (OCStup)
 
-du 25 mai 2011 (Etat le 1<sup>er</sup> août 2022)
+du 25 mai 2011 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -170,7 +170,7 @@ Les autorisations accordées à des organisations nationales ou internationales 
 
 <sup>4</sup> En cas de soupçon fondé d’un abus important, les autorités cantonales informent immédiatement Swissmedic. Celui-ci rassemble les informations et les transmet à l’Office central de lutte contre le trafic illicite des stupéfiants, qui fait partie de l’Office fédéral de la police, (art. 29*b* LStup) et à l’OFSP.
 
-## Chapitre 2 Autorisations d’exploitation****
+## Chapitre 2 Autorisations d’exploitation
 
 [^chap2-1]
 
@@ -276,10 +276,11 @@ Les indications suivantes doivent figurer dans la demande d’autorisation d’e
 Les documents suivants doivent être joints à la demande d’autorisation:
 
 - a. un extrait récent et complet du registre du commerce;
-- b. un extrait du casier judiciaire de la personne responsable, ne datant pas de plus de six mois;
+- b.[^15-2] un extrait destiné aux particuliers du casier judiciaire de la personne responsable ne datant pas de plus de six mois; si celle-ci est domiciliée à l’étranger, l’autorité peut demander un extrait du casier judiciaire de l’État concerné;
 - c. les diplômes obtenus et les pièces attestant la carrière professionnelle de la personne responsable.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^15-2]: Nouvelle teneur selon l’annexe 10 ch. II 23 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### Section 3 Effet et durée de validité
 
@@ -387,7 +388,7 @@ Elle peut retirer l’autorisation:
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 [^22-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
-## Chapitre 2*a***** Autorisation de culture individuelle
+## Chapitre 2*a* Autorisation de culture individuelle
 
 [^chap2a-1]
 
@@ -710,7 +711,7 @@ L’importation, l’exportation et le transit de substances soumises à contrô
 
 <sup>1</sup> Les médecins, les médecins-dentistes et les médecins-vétérinaires qui exercent leur profession sous leur propre responsabilité peuvent se procurer des médicaments contenant des substances soumises à contrôle auprès d’une pharmacie ou auprès d’une personne ou d’une entreprise titulaire d’une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle. L’art. 11, al. 4, s’applique à la distribution occasionnelle de médicaments contenant des substances soumises à contrôle.[^44-1]
 
-<sup>2</sup> Ils doivent munir leur commande du *Global Location Nu**m**ber* (GLN) et de leur timbre de médecin.
+<sup>2</sup> Ils doivent munir leur commande du *Global Location Number* (GLN) et de leur timbre de médecin.
 
 <sup>3</sup> Ils sont tenus de commander par écrit les médicaments contenant des substances soumises à contrôle figurant dans les tableaux a et d.
 
@@ -871,7 +872,7 @@ Ils désignent une personne responsable des substances soumises à contrôle et 
 
 **Désignation et étiquetage**
 
-<sup>1</sup> Les substances soumises à contrôle figurant dans les tableaux a et d ne peuvent être mises dans le commerce en Suisse que sous leur désignation commune internationale (*denom**i**natio communis internationalis*, DCI) ou sous leur nom de marque.
+<sup>1</sup> Les substances soumises à contrôle figurant dans les tableaux a et d ne peuvent être mises dans le commerce en Suisse que sous leur désignation commune internationale (*denominatio communis internationalis*, DCI) ou sous leur nom de marque.
 
 <sup>2</sup> Elles doivent, pour le commerce international, être identifiées par leur désignation DCI ou, à défaut, par le nom figurant dans les accords internationaux ratifiés par la Suisse.
 
@@ -1064,7 +1065,7 @@ La notification doit contenir les indications suivantes:
 
 <sup>2</sup> La personne responsable dans un institut scientifique, une organisation nationale ou internationale, une autorité de la Confédération, du canton ou de la commune doit être en mesure de produire à tout moment les documents attestant l’acquisition de substances soumises à contrôle et l’utilisation qui en a été faite.
 
-### Section 3**** Système d’information sur les traitements médicaux à base de stupéfiants ayant des effets de type cannabique
+### Section 3 Système d’information sur les traitements médicaux à base de stupéfiants ayant des effets de type cannabique
 
 [^chap6-sec3-1]
 
@@ -1320,7 +1321,7 @@ Il peut, avec l’accord des organes et autorités ci-dessous, traiter des docum
 [^79-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 [^79-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-### Section 4*a***** Traitement des données
+### Section 4*a* Traitement des données
 
 [^chap7-sec4a-1]
 
@@ -1502,7 +1503,7 @@ Les autorisations exceptionnelles délivrées par l’OFSP pour la culture, l’
 
 <sup>2</sup> L’art. 60 entre en vigueur le 1<sup>er</sup> janvier 2013 pour les substances soumises à contrôle figurant dans le tableau b.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 41, al. 1<sup>bis</sup>, et 42, al. 2)
 
@@ -1524,14 +1525,14 @@ Les accords d’association à Schengen comprennent les accords suivants:
 [^annex1-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 41, al. 1<sup>bis</sup>, et 42, al. 6)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20230123/fr/xml/image/image1.png)
 
 Verso du certificat
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20230123/fr/xml/image/image2.png)
 
 [^t-2]: Mise à jour par le ch. II al. 2 de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).

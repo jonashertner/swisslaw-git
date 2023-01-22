@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2011 über die Betäubungsmittelkontrolle (Betäu
 short: BetmKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
 language: de
-version: 2022-08-01
+version: 2023-01-23
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220801-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2011-362-20230123-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220801/de"
 
 (Betäubungsmittelkontrollverordnung, BetmKV)
 
-vom 25. Mai 2011 (Stand am 1. August 2022)
+vom 25. Mai 2011 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -170,7 +170,7 @@ Die Bewilligungen für die internationalen und nationalen Organisationen sowie B
 
 <sup>4</sup> Bei begründetem Verdacht eines wesentlichen Missbrauchs informieren die kantonalen Behörden unverzüglich die Swissmedic. Dieses trägt die Informationen zusammen und leitet sie der Zentralstelle für die Bekämpfung des unerlaubten Betäubungsmittelverkehrs beim Bundesamt für Polizei (Art. 29*b* BetmG) und dem BAG weiter.
 
-## 2. Kapitel: Betriebsbewilligungen****
+## 2. Kapitel: Betriebsbewilligungen
 
 [^chap2-1]
 
@@ -276,10 +276,11 @@ Im Gesuch für eine Betriebsbewilligung für den Umgang mit kontrollierten Subst
 Dem Bewilligungsgesuch sind folgende Ausweise beizulegen:
 
 - a. aktueller und vollständiger Handelsregisterauszug;
-- b. Strafregisterauszug der verantwortlichen Person, der nicht älter als sechs Monate ist;
+- b.[^15-2] Privatauszug aus dem Strafregister-Informationssystem VOSTRA der verantwortlichen Person, der nicht älter als sechs Monate ist; von einer Person mit Wohnsitz im Ausland kann die zuständige Behörde auch einen ausländischen Strafregisterauszug verlangen;
 - c. Berufsabschlussdiplome und den beruflichen Werdegang der verantwortlichen Person.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^15-2]: Fassung gemäss Anhang 10 Ziff. II 23 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### 3. Abschnitt: Wirkung und Geltungsdauer
 
@@ -387,7 +388,7 @@ Sie kann die Bewilligung entziehen:
 [^22-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 [^22-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
-## 2*a*. Kapitel:**** Einzelanbaubewilligung
+## 2*a*. Kapitel: Einzelanbaubewilligung
 
 [^chap2a-1]
 
@@ -1066,7 +1067,7 @@ Die Meldung muss folgende Angaben enthalten:
 
 <sup>2</sup> Die verantwortliche Person eines wissenschaftlichen Instituts, einer nationalen oder internationalen Organisation, einer Behörde des Bundes, des Kantons oder der Gemeinde muss den Bezug und die Verwendung von kontrollierten Substanzen jederzeit belegen können.
 
-### 3. Abschnitt:**** Informationssystem über ärztliche Behandlungen mit Betäubungsmitteln des Wirkungstyps Cannabis
+### 3. Abschnitt: Informationssystem über ärztliche Behandlungen mit Betäubungsmitteln des Wirkungstyps Cannabis
 
 [^chap6-sec3-1]
 
@@ -1322,7 +1323,7 @@ Sie kann mit Zustimmung folgender Organe und Behörden Dokumente elektronisch be
 [^79-1]: [SR 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 [^79-2]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-### 4*a*. Abschnitt:**** Datenbearbeitung
+### 4*a*. Abschnitt: Datenbearbeitung
 
 [^chap7-sec4a-1]
 
@@ -1476,7 +1477,7 @@ Die folgenden Verordnungen werden aufgehoben:
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-### …**
+### …
 
 [^87-subdivu2-1]
 
@@ -1506,7 +1507,7 @@ Die Ausnahmebewilligungen des BAG für den Anbau, die Einfuhr, die Herstellung u
 
 <sup>2</sup> Artikel 60 tritt für kontrollierte Substanzen des Verzeichnisses b am 1. Januar 2013 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 41 Abs. 1<sup>bis</sup> und 42 Abs. 2)
 
@@ -1528,14 +1529,14 @@ Die Schengen-Assoziierungsabkommen umfassen:
 [^annex1-lvlu1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 41 Abs. 1<sup>bis</sup> und 42 Abs. 6)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20230123/de/xml/image/image1.png)
 
 Rückseite der Bescheinigung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20230123/de/xml/image/image2.png)
 
 [^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).

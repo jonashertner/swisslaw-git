@@ -4,11 +4,11 @@ title: Ordinanza del 25 maggio 2011 sul controllo degli stupefacenti (OCStup)
 short: OCStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
 language: it
-version: 2022-08-01
+version: 2023-01-23
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2011-362-20230123-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220801/it"
 
 (OCStup)
 
-del 25 maggio 2011 (Stato 1° agosto 2022)
+del 25 maggio 2011 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -170,7 +170,7 @@ Le autorizzazioni accordate alle organizzazioni nazionali e internazionali, nonc
 
 <sup>4</sup> In caso di sospetto fondato di un importante abuso, le autorità cantonali informano immediatamente Swissmedic. Quest’ultimo riunisce le informazioni e le trasmette all’Ufficio centrale per la lotta contro il traffico illecito di stupefacenti presso l’Ufficio federale di polizia (art. 29*b* LStup) e all’UFSP.
 
-## Capitolo 2: Autorizzazioni d’esercizio****
+## Capitolo 2: Autorizzazioni d’esercizio
 
 [^chap2-1]
 
@@ -276,10 +276,11 @@ La domanda relativa all’autorizzazione d’esercizio per l’impiego di sostan
 La domanda di autorizzazione deve essere corredata dei seguenti documenti:
 
 - a. un estratto recente e completo del registro di commercio;
-- b. un estratto del casellario giudiziale del responsabile risalente al massimo a sei mesi fa;
+- b.[^15-2] un estratto per privati del casellario giudiziale informatizzato VOSTRA del responsabile risalente al massimo a sei mesi prima; l’autorità competente può anche richiedere a una persona domiciliata all’estero un estratto del casellario giudiziale estero;
 - c. i diplomi professionali e l’iter professionale del responsabile.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^15-2]: Nuovo testo giusta l’all. 10 n. II 23 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### Sezione 3: Effetto e durata di validità
 
@@ -387,7 +388,7 @@ Può revocare l’autorizzazione:
 [^22-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 [^22-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
-## Capitolo 2*a*:**** Autorizzazione per una singola coltivazione
+## Capitolo 2*a*: Autorizzazione per una singola coltivazione
 
 [^chap2a-1]
 
@@ -1065,7 +1066,7 @@ La notifica contiene le seguenti indicazioni:
 
 <sup>2</sup> Il responsabile di un istituto scientifico, di un’organizzazione nazionale o internazionale, di un’autorità della Confederazione, del Cantone o del Comune dev’essere in grado di documentare in ogni momento l’acquisizione e l’uso di sostanze controllate.
 
-### Sezione 3:**** Sistema di informazioni sui trattamenti medici con stupefacenti con effetti del tipo della canapa
+### Sezione 3: Sistema di informazioni sui trattamenti medici con stupefacenti con effetti del tipo della canapa
 
 [^chap6-sec3-1]
 
@@ -1315,7 +1316,7 @@ D’intesa con gli organi e le autorità seguenti, può trattare documenti elett
 [^79-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 [^79-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-### Sezione 4*a*:**** Trattamento dei dati
+### Sezione 4*a*: Trattamento dei dati
 
 [^chap7-sec4a-1]
 
@@ -1497,7 +1498,7 @@ Le autorizzazioni eccezionali dell’UFSP per la coltivazione, l’importazione,
 
 <sup>2</sup> L’articolo 60 entra in vigore il 1° gennaio 2013 per le sostanze controllate dell’elenco b.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 41 cpv. 1<sup>bis</sup> e 42 cpv. 2)
 
@@ -1519,14 +1520,14 @@ Gli Accordi di associazione alla normativa di Schengen comprendono:
 [^annex1-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 41 cpv. 1<sup>bis</sup> e 42 cpv. 6)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20230123/it/xml/image/image1.png)
 
 Verso dell’attestato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20230123/it/xml/image/image2.png)
 
 [^t-2]: Aggiornato dal n. II cpv. 2 dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
