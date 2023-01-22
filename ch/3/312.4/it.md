@@ -4,11 +4,11 @@ title: Legge federale del 19 marzo 2004 sulla ripartizione dei valori patrimonia
 short: LRVC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/468"
 language: it
-version: 2007-01-01
+version: 2023-01-23
 adopted: 2004-03-19
 in_force: 2004-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/468/20070101/it/xml/fedlex-data-admin-ch-eli-cc-2004-468-20070101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/468/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/468/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2004-468-20230123-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/468/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/468/20070101/it"
 
 (LRVC)
 
-del 19 marzo 2004 (Stato 1° gennaio 2007)
+del 19 marzo 2004 (Stato 23 gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 54 capoverso 1 e 123 capoverso 1 della Costituzione federale[
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)
 
 ## Capitolo 1: Disposizioni generali
@@ -44,8 +44,8 @@ La presente legge stabilisce le modalità di ripartizione tra i Cantoni, la Conf
 
 <sup>2</sup> La presente legge si applica anche in caso di assistenza internazionale in materia penale per quanto concerne la ripartizione tra la Svizzera e gli Stati esteri dei valori patrimoniali confiscati in virtù del diritto svizzero o che sono oggetto di una misura di confisca o di una misura analoga in virtù del diritto estero.
 
-[^2-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^2-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^2-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^2-2]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ## Capitolo 2: Ripartizione tra i Cantoni e la Confederazione
 
@@ -73,7 +73,7 @@ I valori patrimoniali confiscati sono ripartiti dopo deduzione delle spese segue
 
 <sup>2</sup> Sono dedotti anche i valori patrimoniali confiscati che sono assegnati alla persona lesa secondo l’articolo 60 capoverso 1 lettere b e c del Codice penale[^4-1].
 
-[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799); con l’entrata in vigore della modifica della parte generale del Codice penale, del 13 dic. 2002 ([FF 2002 7351](https://fedlex.data.admin.ch/eli/fga/2002/1303)): art. 73 cpv. 1 lett. b e c.
+[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196); con l’entrata in vigore della modifica della parte generale del Codice penale, del 13 dic. 2002 ([FF 2002 7351](https://fedlex.data.admin.ch/eli/fga/2002/1303)): art. 73 cpv. 1 lett. b e c.
 
 #### Art. 5
 
@@ -93,33 +93,42 @@ L’importo netto dei valori patrimoniali confiscati è ripartito in ragione di:
 
 <sup>4</sup> I Cantoni interessati e la Confederazione possono concludere tra di loro, nei limiti delle loro quote, accordi che derogano ai capoversi 1–3.
 
-[^5-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799); con l’entrata in vigore della modifica della parte generale del Codice penale, del 13 dic. 2002 ([FF 2002 7351](https://fedlex.data.admin.ch/eli/fga/2002/1303)): art. 71 cpv. 3.
+[^5-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196); con l’entrata in vigore della modifica della parte generale del Codice penale, del 13 dic. 2002 ([FF 2002 7351](https://fedlex.data.admin.ch/eli/fga/2002/1303)): art. 71 cpv. 3.
 
-### Sezione 2: Procedura di ripartizione, protezione giuridica ed esecuzione****
+### Sezione 2: Procedura di ripartizione, protezione giuridica, esecuzione e archiviazione
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Nuovo testo giusta il n. 28 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^chap2-sec2-1]: Nuovo testo giusta l’all. 1 n. 6 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 6
 
 **Procedura di ripartizione**
 
-<sup>1</sup> Le autorità cantonali o federali comunicano entro dieci giorni le decisioni definitive di confisca all’Ufficio federale di giustizia (Ufficio federale), salvo che l’importo lordo dei valori patrimoniali confiscati sia manifestamente inferiore a 100 000 franchi (art. 3).
+<sup>1</sup>
 
-<sup>2</sup> Entro il termine impartito loro dall’Ufficio federale, esse forniscono le indicazioni necessarie per la ripartizione, segnatamente la lista delle spese e degli assegnamenti alla parte lesa (art. 4) e quella degli enti pubblici che parteciperanno presumibilmente alla ripartizione (art. 5).
+Le decisioni definitive di confisca sono comunicate all’Ufficio federale di giustizia (UFG):
 
-<sup>3</sup> L’Ufficio federale indica loro come mettere a sua disposizione i valori patrimoniali confiscati.
+- a. conformemente all’articolo 61 della legge del 17 giugno 2016[^6-1] sul casellario giudiziale, se devono essere iscritte nel casellario giudiziale insieme a una sentenza penale;
+- b. dalle autorità cantonali o federali, entro dieci giorni, se si tratta di decisioni indipendenti concernenti un importo lordo di almeno 100 000 franchi.[^6-2]
+
+<sup>2</sup> Entro il termine impartito loro dall’UFG, le autorità cantonali o federali forniscono le indicazioni necessarie per la ripartizione, segnatamente la lista delle spese e degli assegnamenti alla parte lesa (art. 4) e quella degli enti pubblici che parteciperanno presumibilmente alla ripartizione (art. 5).[^6-3]
+
+<sup>3</sup> L’UFG[^6-4] indica loro come mettere a sua disposizione i valori patrimoniali confiscati.
 
 <sup>4</sup> Esso impartisce un termine alle autorità dei Cantoni interessati e, nelle cause di competenza delle autorità federali, anche al Ministero pubblico della Confederazione o alla competente autorità amministrativa federale per presentare le loro osservazioni.
 
-<sup>5</sup> Se l’importo lordo dei valori patrimoniali confiscati supera dieci milioni di franchi, l’Ufficio federale chiede il parere dell’Amministrazione federale delle finanze.
+<sup>5</sup> Se l’importo lordo dei valori patrimoniali confiscati supera dieci milioni di franchi, l’UFG chiede il parere dell’Amministrazione federale delle finanze.
 
 <sup>6</sup> Esso emana una decisione che indica l’importo spettante ai Cantoni interessati e alla Confederazione.
 
-<sup>7</sup> La procedura è retta dalla legge federale del 20 dicembre 1968[^6-1] sulla procedura amministrativa.
+<sup>7</sup> La procedura è retta dalla legge federale del 20 dicembre 1968[^6-5] sulla procedura amministrativa.
 
-[^6-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^6-1]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^6-2]: Nuovo testo giusta l’all. 1 n. 6 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^6-3]: Nuovo testo giusta l’all. 1 n. 6 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^6-4]: Nuova espr. giusta l’all. 1 n. 6 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^6-5]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 7
 
@@ -129,14 +138,22 @@ L’importo netto dei valori patrimoniali confiscati è ripartito in ragione di:
 
 <sup>2</sup> Sono legittimati a ricorrere i Cantoni interessati dalla decisione.
 
-[^7-1]: Nuovo testo giusta il n. 28 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
-[^7-2]: Nuovo testo giusta il n. 28 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^7-1]: Nuovo testo giusta il n. 28 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188)).
+[^7-2]: Nuovo testo giusta il n. 28 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188)).
 
 #### Art. 8
 
 **Esecuzione della decisione di ripartizione**
 
-Passata in giudicato la decisione di ripartizione, l’Ufficio federale versa gli importi ai Cantoni interessati e alla Confederazione.
+Passata in giudicato la decisione di ripartizione, l’UFG versa gli importi ai Cantoni interessati e alla Confederazione.
+
+#### Art. 8a
+
+**Archiviazione del dossier**[^8a-1]
+
+L’UFG tiene un dossier per ogni decisione di confisca comunicatagli. Eseguita la ripartizione, il dossier completo è trasmesso all’Archivio federale.
+
+[^8a-1]: Introdotto dall’all. 1 n. 6 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ### Sezione 3: Disposizioni speciali
 
@@ -150,9 +167,9 @@ Se, dopo la ripartizione, la decisione di confisca è modificata e prevede una r
 
 **Ripartizione ulteriore degli importi dedotti**
 
-<sup>1</sup> Le autorità cantonali o federali devono mettere a disposizione dell’Ufficio federale ogni successivo rimborso di spese o assegnamenti alla persona lesa (art. 4) nonché l’importo risparmiato sulle spese d’esecuzione delle pene (art. 4 cpv. 1 lett. c) se l’importo recuperato o risparmiato supera 10 000 franchi.
+<sup>1</sup> Le autorità cantonali o federali devono mettere a disposizione dell’UFG ogni successivo rimborso di spese o assegnamenti alla persona lesa (art. 4) nonché l’importo risparmiato sulle spese d’esecuzione delle pene (art. 4 cpv. 1 lett. c) se l’importo recuperato o risparmiato supera 10 000 franchi.
 
-<sup>2</sup> L’Ufficio federale ripartisce tali importi secondo la decisione emanata in applicazione dell’articolo 6 capoverso 6.
+<sup>2</sup> L’UFG ripartisce tali importi secondo la decisione emanata in applicazione dell’articolo 6 capoverso 6.
 
 ## Capitolo 3: Ripartizione tra Stati
 
@@ -175,9 +192,9 @@ La Confederazione può concludere accordi sulla ripartizione dei valori patrimon
 
 **Negoziati**
 
-<sup>1</sup> Se entra in considerazione una ripartizione con uno Stato estero a seguito o in vista di una confisca, le autorità cantonali o federali ne informano l’Ufficio federale.
+<sup>1</sup> Se entra in considerazione una ripartizione con uno Stato estero a seguito o in vista di una confisca, le autorità cantonali o federali ne informano l’UFG.
 
-<sup>2</sup> L’Ufficio federale negozia con le autorità estere la conclusione di un accordo di ripartizione. Consulta preliminarmente le autorità competenti dei Cantoni interessati e, nelle cause di competenza delle autorità federali, anche il Ministero pubblico della Confederazione o la competente autorità amministrativa federale e ne informa la competente direzione del Dipartimento federale degli affari esteri.
+<sup>2</sup> L’UFG negozia con le autorità estere la conclusione di un accordo di ripartizione. Consulta preliminarmente le autorità competenti dei Cantoni interessati e, nelle cause di competenza delle autorità federali, anche il Ministero pubblico della Confederazione o la competente autorità amministrativa federale e ne informa la competente direzione del Dipartimento federale degli affari esteri.
 
 <sup>3</sup> L’accordo di ripartizione fissa le modalità e la chiave di ripartizione. Di regola, i valori patrimoniali confiscati sono ripartiti in parti uguali tra la Svizzera e lo Stato estero. Se le circostanze lo giustificano, è possibile derogare a tale regola e anche restituire allo Stato estero i valori patrimoniali confiscati, segnatamente in considerazione del genere di reato, del luogo in cui si trovano i valori patrimoniali, dell’importanza della partecipazione dello Stato estero all’indagine, degli usi tra la Svizzera e lo Stato estero, della garanzia di reciprocità, del contesto internazionale o dell’importanza degli interessi lesi dello Stato estero.
 
@@ -185,19 +202,19 @@ La Confederazione può concludere accordi sulla ripartizione dei valori patrimon
 
 **Conclusione dell’accordo di ripartizione**
 
-<sup>1</sup> L’Ufficio federale conclude l’accordo di ripartizione. Qualora l’importo lordo dei valori patrimoniali confiscati o soggiacenti alla confisca superi dieci milioni di franchi, chiede l’approvazione del Dipartimento federale di giustizia e polizia; questo consulta previamente il Dipartimento federale delle finanze.
+<sup>1</sup> L’UFG conclude l’accordo di ripartizione. Qualora l’importo lordo dei valori patrimoniali confiscati o soggiacenti alla confisca superi dieci milioni di franchi, chiede l’approvazione del Dipartimento federale di giustizia e polizia; questo consulta previamente il Dipartimento federale delle finanze.
 
-<sup>2</sup> Nei casi di rilevanza politica, prima della conclusione dell’accordo l’Ufficio federale chiede il parere della competente direzione del Dipartimento federale degli affari esteri.
+<sup>2</sup> Nei casi di rilevanza politica, prima della conclusione dell’accordo l’UFG chiede il parere della competente direzione del Dipartimento federale degli affari esteri.
 
-<sup>3</sup> Qualora le autorità svizzere siano competenti per confiscare i valori patrimoniali, l’Ufficio federale chiede previamente il consenso delle autorità cantonali o federali interessate. In caso di disaccordo, il Consiglio federale decide definitivamente.
+<sup>3</sup> Qualora le autorità svizzere siano competenti per confiscare i valori patrimoniali, l’UFG chiede previamente il consenso delle autorità cantonali o federali interessate. In caso di disaccordo, il Consiglio federale decide definitivamente.
 
 #### Art. 14
 
 **Esecuzione dell’accordo di ripartizione**
 
-<sup>1</sup> I valori patrimoniali che sono oggetto dell’accordo di ripartizione e si trovano in Svizzera sono consegnati all’Ufficio federale; questo trasferisce poi allo Stato estero la parte che gli spetta. L’Ufficio federale può anche chiedere alle autorità cantonali di trasferire direttamente allo Stato estero la parte che gli spetta.
+<sup>1</sup> I valori patrimoniali che sono oggetto dell’accordo di ripartizione e si trovano in Svizzera sono consegnati all’UFG; questo trasferisce poi allo Stato estero la parte che gli spetta. L’UFG può anche chiedere alle autorità cantonali di trasferire direttamente allo Stato estero la parte che gli spetta.
 
-<sup>2</sup> Se i valori patrimoniali si trovano all’estero, la parte che spetta alla Svizzera in virtù dell’accordo di ripartizione è versata all’Ufficio federale.
+<sup>2</sup> Se i valori patrimoniali si trovano all’estero, la parte che spetta alla Svizzera in virtù dell’accordo di ripartizione è versata all’UFG.
 
 #### Art. 15
 
@@ -205,11 +222,11 @@ La Confederazione può concludere accordi sulla ripartizione dei valori patrimon
 
 <sup>1</sup> Qualora i valori patrimoniali siano stati confiscati in Svizzera dalle autorità svizzere, la parte che spetta alla Svizzera in virtù dell’accordo di ripartizione è ripartita secondo l’articolo 5.
 
-<sup>2</sup> Se la confisca è stata pronunciata da uno Stato estero, la quota di <sup>5</sup>/<sub>10</sub> di cui all’articolo 5 capoverso 1 lettera a è ripartita in parti uguali tra i Cantoni che hanno proceduto a indagini in esecuzione di una domanda di assistenza giudiziaria o di estradizione o che hanno trasmesso spontaneamente all’autorità estera mezzi di prova e, in caso di partecipazione anche di un’altra autorità federale oltre all’Ufficio federale, la Confederazione.
+<sup>2</sup> Se la confisca è stata pronunciata da uno Stato estero, la quota di <sup>5</sup>/<sub>10</sub> di cui all’articolo 5 capoverso 1 lettera a è ripartita in parti uguali tra i Cantoni che hanno proceduto a indagini in esecuzione di una domanda di assistenza giudiziaria o di estradizione o che hanno trasmesso spontaneamente all’autorità estera mezzi di prova e, in caso di partecipazione anche di un’altra autorità federale oltre all’UFG, la Confederazione.
 
 <sup>3</sup> Se i valori patrimoniali si trovano all’estero, la quota i <sup>2/</sup>10 di cui all’articolo 5 capoverso 1 lettera c è ripartita tra gli altri enti pubblici nella proporzione delle quote assegnate a ognuno di essi.
 
-<sup>4</sup> L’Ufficio federale decide la ripartizione della parte che spetta alla Svizzera in virtù dell’accordo di ripartizione. Gli articoli 4 e 6–10 sono applicabili per analogia.
+<sup>4</sup> L’UFG decide la ripartizione della parte che spetta alla Svizzera in virtù dell’accordo di ripartizione. Gli articoli 4 e 6–10 sono applicabili per analogia.
 
 ## Capitolo 4: Disposizioni finali
 
@@ -237,7 +254,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 Data dell’entrata in vigore: 1° agosto 2004[^18-1]
 
-[^18-1]: DCF del 2 giu. 2004 (RU **2004** 3508).
+[^18-1]: DCF del 2 giu. 2004.
 
 Allegato
 

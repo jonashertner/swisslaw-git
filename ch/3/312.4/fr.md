@@ -4,11 +4,11 @@ title: Loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales c
 short: LVPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/468"
 language: fr
-version: 2007-01-01
+version: 2023-01-23
 adopted: 2004-03-19
 in_force: 2004-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/468/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-468-20070101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/468/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/468/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2004-468-20230123-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/468/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/468/20070101/fr"
 
 (LVPC)
 
-du 19 mars 2004 (Etat le 1<sup>er</sup> janvier 2007)
+du 19 mars 2004 (État le 23 janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 54, al. 1, et 123, al. 1, de la Constitution[^ingress-1], vu le mess
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)
 
 ## Chapitre 1 Dispositions générales
@@ -34,7 +34,7 @@ arrête:
 
 **Objet**
 
-La présente loi fixe les modalités du partage, entre les cantons, la Confédération et les Etats étrangers, des objets et valeurs patrimoniales confisqués et des créances compensatrices (valeurs patrimoniales confisquées).
+La présente loi fixe les modalités du partage, entre les cantons, la Confédération et les États étrangers, des objets et valeurs patrimoniales confisqués et des créances compensatrices (valeurs patrimoniales confisquées).
 
 #### Art. 2
 
@@ -42,10 +42,10 @@ La présente loi fixe les modalités du partage, entre les cantons, la Confédé
 
 <sup>1</sup> La présente loi s’applique au partage entre les cantons et la Confédération des valeurs patrimoniales dont la confiscation est prononcée en vertu du droit pénal fédéral, à l’exception de celles qui sont confisquées en vertu du code pénal militaire du 13 juin 1927[^2-1] et de la loi du 20 juin 2003 sur le transfert des biens culturels[^2-2].
 
-<sup>2</sup> Elle régit également, en cas d’entraide internationale en matière pénale, le partage, entre la Suisse et les Etats étrangers, des valeurs patrimoniales qui sont confisquées en vertu du droit suisse ou qui font l’objet d’une mesure de confiscation ou d’une mesure analogue en vertu du droit étranger.
+<sup>2</sup> Elle régit également, en cas d’entraide internationale en matière pénale, le partage, entre la Suisse et les États étrangers, des valeurs patrimoniales qui sont confisquées en vertu du droit suisse ou qui font l’objet d’une mesure de confiscation ou d’une mesure analogue en vertu du droit étranger.
 
-[^2-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^2-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^2-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^2-2]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ## Chapitre 2 Partage entre les cantons et la Confédération
 
@@ -73,7 +73,7 @@ Les valeurs patrimoniales confisquées sont soumises au partage après déductio
 
 <sup>2</sup> Sont également déduites les valeurs patrimoniales confisquées qui sont allouées aux lésés en vertu de l’art. 60, al. 1, let. b et c, du code pénal[^4-1].
 
-[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement: art. 73.
+[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Actuellement: art. 73.
 
 #### Art. 5
 
@@ -93,29 +93,42 @@ Le montant net des valeurs patrimoniales confisquées est réparti à raison de:
 
 <sup>4</sup> Les cantons concernés et la Confédération peuvent conclure entre eux, dans les limites de leurs parts, des accords dérogeant aux al. 1 à 3.
 
-[^5-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement: art. 71, al. 3.
+[^5-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Actuellement: art. 71, al. 3.
 
-### Section 2 Procédure de partage, voies de recours et exécution
+### Section 2 Procédure de partage, voies de recours, exécution et archivage
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Nouvelle teneur selon l’annexe 1 ch. 6 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 6
 
 **Procédure de partage**
 
-<sup>1</sup> Les autorités cantonales ou fédérales communiquent, dans le délai de dix jours, les décisions définitives de confiscation à l’Office fédéral de la justice (office), à moins que le montant brut des valeurs patrimoniales confisquées ne soit manifestement inférieur à 100 000 francs (art. 3).
+<sup>1</sup>
 
-<sup>2</sup> Dans le délai que leur impartit l’office, elles fournissent les indications nécessaires au partage, notamment la liste des frais et des allocations aux lésés (art. 4) et celle des collectivités dont il y a lieu de prévoir qu’elles participeront au partage (art. 5).
+Les décisions définitives de confiscation sont communiquées à l’Office fédéral de la justice (OFJ):
 
-<sup>3</sup> L’office leur donne les instructions pour la mise à sa disposition des valeurs patrimoniales confisquées.
+- a. conformément à l’art. 61 de la loi du 17 juin 2016 sur le casier judiciaire[^6-1], lorsqu’elles sont liées à un jugement de droit pénal qui doit être saisi dans le casier judiciaire;
+- b. par les autorités cantonales ou fédérales, dans le délai de 10 jours, lorsqu’il s’agit de décisions indépendantes portant sur un montant brut supérieur ou égal à 100 000 francs.[^6-2]
+
+<sup>2</sup> Dans le délai que leur impartit l’OFJ, les autorités cantonales ou fédérales fournissent les indications nécessaires au partage, notamment la liste des frais et des allocations aux lésés (art. 4) et celle des collectivités dont il y a lieu de prévoir qu’elles participeront au partage (art. 5).[^6-3]
+
+<sup>3</sup> L’OFJ[^6-4] leur donne les instructions pour la mise à sa disposition des valeurs patrimoniales confisquées.
 
 <sup>4</sup> Il impartit un délai aux autorités des cantons concernés et, dans les causes fédérales, au Ministère public de la Confédération ou à l’autorité administrative fédérale compétente pour présenter leurs observations.
 
-<sup>5</sup> Lorsque le montant brut des valeurs patrimoniales confisquées dépasse 10 millions de francs, l’office requiert l’avis de l’administration fédérale des finances.
+<sup>5</sup> Lorsque le montant brut des valeurs patrimoniales confisquées dépasse 10 millions de francs, l’OFJ requiert l’avis de l’administration fédérale des finances.
 
 <sup>6</sup> Il rend une décision indiquant le montant revenant aux cantons concernés et à la Confédération.
 
-<sup>7</sup> La procédure est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^6-1].
+<sup>7</sup> La procédure est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^6-5].
 
-[^6-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^6-1]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^6-2]: Nouvelle teneur selon l’annexe 1 ch. 6 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^6-3]: Nouvelle teneur selon l’annexe 1 ch. 6 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^6-4]: Nouvelle expression selon l’annexe 1 ch. 6 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-5]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 7
 
@@ -125,13 +138,21 @@ Le montant net des valeurs patrimoniales confisquées est réparti à raison de:
 
 <sup>2</sup> Les cantons concernés ont qualité pour recourir.
 
-[^7-1]: Nouvelle teneur selon le ch. 28 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 28 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 8
 
 **Exécution de la décision de partage**
 
-Une fois la décision de partage définitive, l’office procède au versement des montants aux cantons concernés et à la Confédération.
+Une fois la décision de partage définitive, l’OFJ procède au versement des montants aux cantons concernés et à la Confédération.
+
+#### Art. 8a
+
+**Archivage des dossiers**[^8a-1]
+
+L’OFJ ouvre un dossier sur chaque décision de confiscation qui lui a été communiquée. Après le partage, le dossier complet est transmis aux Archives fédérales.
+
+[^8a-1]: Introduit par l’annexe 1 ch. 6 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ### Section 3 Dispositions particulières
 
@@ -145,11 +166,11 @@ Lorsque, postérieurement au partage, le jugement de confiscation est modifié e
 
 **Partage ultérieur des montants déduits**
 
-<sup>1</sup> Les autorités cantonales ou fédérales mettent à la disposition de l’office le montant des frais ou des allocations aux lésés dont elles ont obtenu après-coup le remboursement (art. 4) ainsi que le montant économisé sur les frais d’exécution des peines (art. 4, al. 1, let. c) dès que le montant récupéré ou économisé dépasse 10 000 francs.
+<sup>1</sup> Les autorités cantonales ou fédérales mettent à la disposition de l’OFJ le montant des frais ou des allocations aux lésés dont elles ont obtenu après-coup le remboursement (art. 4) ainsi que le montant économisé sur les frais d’exécution des peines (art. 4, al. 1, let. c) dès que le montant récupéré ou économisé dépasse 10 000 francs.
 
-<sup>2</sup> L’office procède au partage de ces montants selon la décision rendue en application de l’art. 6, al. 6.
+<sup>2</sup> L’OFJ procède au partage de ces montants selon la décision rendue en application de l’art. 6, al. 6.
 
-## Chapitre 3 Partage entre Etats
+## Chapitre 3 Partage entre États
 
 #### Art. 11
 
@@ -159,40 +180,40 @@ Lorsque, postérieurement au partage, le jugement de confiscation est modifié e
 
 La Confédération peut conclure des accords sur le partage des valeurs patrimoniales confisquées:
 
-- a. par les autorités suisses en application du droit suisse en coopération avec un Etat étranger;
+- a. par les autorités suisses en application du droit suisse en coopération avec un État étranger;
 - b. par des autorités étrangères en application du droit étranger en coopération avec les autorités suisses.
 
-<sup>2</sup> Lorsque la Suisse confisque des valeurs patrimoniales dans une procédure pénale menée en coopération avec un Etat étranger, elle ne peut en règle générale les partager avec lui que si la réciprocité est garantie.
+<sup>2</sup> Lorsque la Suisse confisque des valeurs patrimoniales dans une procédure pénale menée en coopération avec un État étranger, elle ne peut en règle générale les partager avec lui que si la réciprocité est garantie.
 
-<sup>3</sup> La présente loi ne confère aux Etats étrangers aucun droit d’exiger une part des valeurs patrimoniales confisquées.
+<sup>3</sup> La présente loi ne confère aux États étrangers aucun droit d’exiger une part des valeurs patrimoniales confisquées.
 
 #### Art. 12
 
 **Négociations**
 
-<sup>1</sup> Les autorités cantonales ou fédérales informent l’office dès qu’un partage avec un Etat étranger entre en considération dans le cadre ou en vue d’une confiscation.
+<sup>1</sup> Les autorités cantonales ou fédérales informent l’OFJ dès qu’un partage avec un État étranger entre en considération dans le cadre ou en vue d’une confiscation.
 
-<sup>2</sup> L’office mène avec les autorités étrangères des négociations en vue de conclure un accord de partage. Il consulte au préalable les autorités compétentes des cantons concernés ainsi que, dans les causes fédérales, le Ministère public de la Confédération ou l’autorité administrative fédérale compétente et informe la direction compétente du Département fédéral des affaires étrangères.
+<sup>2</sup> L’OFJ mène avec les autorités étrangères des négociations en vue de conclure un accord de partage. Il consulte au préalable les autorités compétentes des cantons concernés ainsi que, dans les causes fédérales, le Ministère public de la Confédération ou l’autorité administrative fédérale compétente et informe la direction compétente du Département fédéral des affaires étrangères.
 
-<sup>3</sup> L’accord de partage fixe les modalités du partage et la clé de répartition. En règle générale, les valeurs sont partagées à parts égales entre la Suisse et l’Etat étranger. Il est toutefois possible de s’écarter de cette clé, voire de restituer l’ensemble des valeurs patrimoniales confisquées à l’Etat étranger, pour des motifs fondés, notamment en raison de la nature de l’infraction, du lieu où se trouvent les valeurs patrimoniales, de l’importance de la participation à l’enquête de l’Etat étranger, ainsi que des usages entre la Suisse et l’Etat étranger, de la garantie de la réciprocité, du contexte international ou de l’importance des lésions des intérêts de l’Etat étranger.
+<sup>3</sup> L’accord de partage fixe les modalités du partage et la clé de répartition. En règle générale, les valeurs sont partagées à parts égales entre la Suisse et l’État étranger. Il est toutefois possible de s’écarter de cette clé, voire de restituer l’ensemble des valeurs patrimoniales confisquées à l’État étranger, pour des motifs fondés, notamment en raison de la nature de l’infraction, du lieu où se trouvent les valeurs patrimoniales, de l’importance de la participation à l’enquête de l’État étranger, ainsi que des usages entre la Suisse et l’État étranger, de la garantie de la réciprocité, du contexte international ou de l’importance des lésions des intérêts de l’État étranger.
 
 #### Art. 13
 
 **Conclusion de l’accord de partage**
 
-<sup>1</sup> L’office conclut l’accord de partage. Lorsque le montant brut des valeurs patrimoniales confisquées ou à confisquer dépasse 10 millions de francs, il requiert l’approbation du Département fédéral de justice et police, qui consulte au préalable le Département fédéral des finances.
+<sup>1</sup> L’OFJ conclut l’accord de partage. Lorsque le montant brut des valeurs patrimoniales confisquées ou à confisquer dépasse 10 millions de francs, il requiert l’approbation du Département fédéral de justice et police, qui consulte au préalable le Département fédéral des finances.
 
-<sup>2</sup> Dans les cas qui revêtent une importance politique, l’office sollicite l’avis de la direction compétente du Département fédéral des affaires étrangères avant la conclusion de l’accord.
+<sup>2</sup> Dans les cas qui revêtent une importance politique, l’OFJ sollicite l’avis de la direction compétente du Département fédéral des affaires étrangères avant la conclusion de l’accord.
 
-<sup>3</sup> Lorsque les autorités suisses sont compétentes pour confisquer les valeurs patrimoniales, l’office doit obtenir au préalable l’accord des autorités cantonales ou fédérales concernées. En cas de différend, le Conseil fédéral tranche définitivement.
+<sup>3</sup> Lorsque les autorités suisses sont compétentes pour confisquer les valeurs patrimoniales, l’OFJ doit obtenir au préalable l’accord des autorités cantonales ou fédérales concernées. En cas de différend, le Conseil fédéral tranche définitivement.
 
 #### Art. 14
 
 **Exécution de l’accord de partage**
 
-<sup>1</sup> Les valeurs patrimoniales faisant l’objet de l’accord de partage et se trouvant en Suisse sont remises à l’office, qui transfère à l’Etat étranger la part lui revenant. Il peut également demander aux autorités cantonales de transférer directement à l’Etat étranger la part lui revenant.
+<sup>1</sup> Les valeurs patrimoniales faisant l’objet de l’accord de partage et se trouvant en Suisse sont remises à l’OFJ, qui transfère à l’État étranger la part lui revenant. Il peut également demander aux autorités cantonales de transférer directement à l’État étranger la part lui revenant.
 
-<sup>2</sup> Lorsque les valeurs patrimoniales se trouvent à l’étranger, la part revenant à la Suisse en vertu de l’accord de partage est versée à l’office.
+<sup>2</sup> Lorsque les valeurs patrimoniales se trouvent à l’étranger, la part revenant à la Suisse en vertu de l’accord de partage est versée à l’OFJ.
 
 #### Art. 15
 
@@ -200,11 +221,11 @@ La Confédération peut conclure des accords sur le partage des valeurs patrimon
 
 <sup>1</sup> Lorsque les valeurs patrimoniales ont été confisquées en Suisse par les autorités suisses, la part revenant à la Suisse en vertu de l’accord de partage est répartie en application de l’art. 5.
 
-<sup>2</sup> Si la confiscation a été prononcée par un Etat étranger, la quote-part de <sup>5</sup>/<sub>10</sub> visée à l’art. 5, al. 1, let. a, est répartie à parts égales entre tous les cantons qui ont été chargés d’investigations en exécution d’une demande d’entraide ou d’extradition ou qui ont transmis spontanément à l’autorité étrangère des moyens de preuve et la Confédération en cas de participation d’une autorité fédérale autre que l’office.
+<sup>2</sup> Si la confiscation a été prononcée par un État étranger, la quote-part de <sup>5</sup>/<sub>10</sub> visée à l’art. 5, al. 1, let. a, est répartie à parts égales entre tous les cantons qui ont été chargés d’investigations en exécution d’une demande d’entraide ou d’extradition ou qui ont transmis spontanément à l’autorité étrangère des moyens de preuve et la Confédération en cas de participation d’une autorité fédérale autre que l’OFJ.
 
 <sup>3</sup> Si les valeurs patrimoniales se trouvent à l’étranger, la quote-part de <sup>2</sup>/<sub>10</sub> visée à l’art. 5, al. 1, let. c, est répartie entre les autres collectivités en proportion des quotes-parts attribuées à chacune d’elles.
 
-<sup>4</sup> L’office décide de la répartition de la part revenant à la Suisse en vertu de l’accord de partage. Les art. 4 et 6 à 10 sont applicables par analogie.
+<sup>4</sup> L’OFJ décide de la répartition de la part revenant à la Suisse en vertu de l’accord de partage. Les art. 4 et 6 à 10 sont applicables par analogie.
 
 ## Chapitre 4 Dispositions finales
 

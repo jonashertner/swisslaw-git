@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. März 2004 über die Teilung eingezogener Vermögens
 short: TEVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/468"
 language: de
-version: 2007-01-01
+version: 2023-01-23
 adopted: 2004-03-19
 in_force: 2004-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/468/20070101/de/xml/fedlex-data-admin-ch-eli-cc-2004-468-20070101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/468/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/468/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2004-468-20230123-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/468/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/468/20070101/de"
 
 (TEVG)
 
-vom 19. März 2004 (Stand am 1. Januar 2007)
+vom 19. März 2004 (Stand am 23. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 54 Absatz 1 und 123 Absatz 1 der Bundesverfassung[^ing
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -44,8 +44,8 @@ Dieses Gesetz regelt die Teilung eingezogener Gegenstände und Vermögenswerte e
 
 <sup>2</sup> Es gilt auch für die Teilung von Vermögenswerten zwischender Schweiz und ausländischen Staaten, wenn die Vermögenswerte gestützt auf schweizerisches Recht im Rahmen eines internationalen Rechtshilfeverfahrens in Strafsachen eingezogen werdenoder gestützt auf ausländisches Recht einer Einziehung oder einer vergleichbaren Massnahme unterliegen.
 
-[^2-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^2-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^2-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^2-2]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ## 2. Kapitel: Teilung zwischen Kantonen und Bund
 
@@ -73,7 +73,7 @@ Vor der Aufteilung sind vom Bruttobetrag der eingezogenen Vermögenswerte folgen
 
 <sup>2</sup> Abziehbar sind ferner Vermögenswerte, welche Geschädigten in Anwendung von Artikel 60 Absatz 1 Buchstaben b und c des Strafgesetzbuches[^4-1] zugesprochen werden.
 
-[^4-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799);mit Inkrafttreten der Änd. vom 13. Dez. 2002 des Allgemeinen Teils des Strafgesetzbuches ([BBl 2002 8240](https://fedlex.data.admin.ch/eli/fga/2002/1303)) wird Art. 60 zu Art. 73.
+[^4-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196);mit Inkrafttreten der Änd. vom 13. Dez. 2002 des Allgemeinen Teils des Strafgesetzbuches ([BBl 2002 8240](https://fedlex.data.admin.ch/eli/fga/2002/1303)) wird Art. 60 zu Art. 73.
 
 #### Art. 5
 
@@ -93,33 +93,42 @@ Der Nettobetrag der eingezogenen Vermögenswerte ist wie folgt aufzuteilen:
 
 <sup>4</sup> Die beteiligten Kantone und der Bund können über ihre Anteile Vereinbarungen treffen, die von den Absätzen 1–3 abweichen.
 
-[^5-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799); mit Inkrafttreten der Änd. vom 13. Dez. 2002 des Allgemeinen Teils des Strafgesetzbuches ([BBl 2002 8240](https://fedlex.data.admin.ch/eli/fga/2002/1303)) wird Art. 59 Ziff. 2 Abs. 3 zu Art. 71 Abs. 3.
+[^5-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196); mit Inkrafttreten der Änd. vom 13. Dez. 2002 des Allgemeinen Teils des Strafgesetzbuches ([BBl 2002 8240](https://fedlex.data.admin.ch/eli/fga/2002/1303)) wird Art. 59 Ziff. 2 Abs. 3 zu Art. 71 Abs. 3.
 
-### 2. Abschnitt: Teilungsverfahren, Rechtsschutz und Vollstreckung****
+### 2. Abschnitt: Teilungsverfahren, Rechtsschutz, Vollstreckung und Archivierung
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Fassung gemäss Anhang Ziff. 28 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^chap2-sec2-1]: Fassung gemäss Anhang 1 Ziff. 6 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 #### Art. 6
 
 **Teilungsverfahren**
 
-<sup>1</sup> Die kantonalen oder eidgenössischen Behörden teilen dem Bundesamt für Justiz (Bundesamt) rechtskräftige Entscheide über die Einziehung von Vermögenswerten innerhalb von zehn Tagen mit, wenn der Bruttobetrag nicht offensichtlich weniger als 100 000 Franken beträgt (Art. 3).
+<sup>1</sup>
 
-<sup>2</sup> Das Bundesamt setzt ihnen eine Frist, innert welcher sie ihm die für den Teilungsentscheid notwendigen Unterlagen einzureichen haben, namentlich Listen der Kosten und Verwendungen zu Gunsten Geschädigter (Art. 4) sowie der Gemeinwesen, die voraussichtlich am Teilungsverfahren beteiligt sind (Art. 5).
+Rechtskräftige Entscheide über die Einziehung von Vermögenswerten werden dem Bundesamt für Justiz (BJ) mitgeteilt:
 
-<sup>3</sup> Das Bundesamt weist sie an, wie ihm die eingezogenen Werte zur Verfügung zu stellen sind.
+- a. gemäss Artikel 61 des Strafregistergesetzes vom 17. Juni 2016[^6-1], wenn der Einziehungsentscheid zusammen mit einem strafrechtlichen Entscheid im Strafregister einzutragen ist;
+- b. innerhalb von zehn Tagen durch die kantonale oder eidgenössische Behörde, wenn es sich um einen selbstständigen Einziehungsentscheid handelt, dessen Bruttobetrag mindestens 100 000 Franken beträgt.[^6-2]
+
+<sup>2</sup> Das BJ setzt den kantonalen oder den eidgenössischen Behörden eine Frist, innert welcher sie ihm die für den Teilungsentscheid notwendigen Unterlagen einzureichen haben, namentlich Listen der Kosten und Verwendungen zu Gunsten Geschädigter (Art. 4) sowie der Gemeinwesen, die voraussichtlich am Teilungsverfahren beteiligt sind (Art. 5).[^6-3]
+
+<sup>3</sup> Das BJ[^6-4] weist sie an, wie ihm die eingezogenen Werte zur Verfügung zu stellen sind.
 
 <sup>4</sup> Es setzt den Behörden der Kantone, sowie, in Angelegenheiten, welche in die Zuständigkeit von Bundesbehörden fallen, der Bundesanwaltschaft oder der zuständigen Verwaltungsbehörde des Bundes, eine Frist zur Stellungnahme.
 
-<sup>5</sup> Übersteigt der Bruttobetrag der eingezogenen Vermögenswerte 10 Millionen Franken, so holt das Bundesamt die Stellungnahme der Eidgenössischen Finanzverwaltung ein.
+<sup>5</sup> Übersteigt der Bruttobetrag der eingezogenen Vermögenswerte 10 Millionen Franken, so holt das BJ die Stellungnahme der Eidgenössischen Finanzverwaltung ein.
 
-<sup>6</sup> Das Bundesamt erlässt eine Verfügung über die Beträge, die den beteiligten Kantonen und dem Bund zustehen.
+<sup>6</sup> Das BJ erlässt eine Verfügung über die Beträge, die den beteiligten Kantonen und dem Bund zustehen.
 
-<sup>7</sup> Das Verfahren richtet sich nach dem Bundesgesetz vom 20. Dezember 1968[^6-1] über das Verwaltungsverfahren.
+<sup>7</sup> Das Verfahren richtet sich nach dem Bundesgesetz vom 20. Dezember 1968[^6-5] über das Verwaltungsverfahren.
 
-[^6-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^6-1]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^6-2]: Fassung gemäss Anhang 1 Ziff. 6 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^6-3]: Fassung gemäss Anhang 1 Ziff. 6 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^6-4]: Ausdruck gemäss Anhang 1 Ziff. 6 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^6-5]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 7
 
@@ -129,14 +138,22 @@ Der Nettobetrag der eingezogenen Vermögenswerte ist wie folgt aufzuteilen:
 
 <sup>2</sup> Beschwerdeberechtigt sind die von der Verfügung betroffenen Kantone.
 
-[^7-1]: Fassung gemäss Anhang Ziff. 28 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
-[^7-2]: Fassung gemäss Anhang Ziff. 28 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)).
+[^7-1]: Fassung gemäss Anhang Ziff. 28 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^7-2]: Fassung gemäss Anhang Ziff. 28 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 8
 
 **Vollstreckung des Teilungsentscheides**
 
-Nach Eintritt der Rechtskraft des Teilungsentscheides überweist das Bundesamt die Beträge den beteiligten Kantonen und dem Bund.
+Nach Eintritt der Rechtskraft des Teilungsentscheides überweist das BJ die Beträge den beteiligten Kantonen und dem Bund.
+
+#### Art. 8a
+
+**Archivierung des Falldossiers**[^8a-1]
+
+Das BJ führt für jeden gemeldeten Einziehungsentscheid ein Falldossier. Nach vollzogener Teilung wird das vollständige Falldossier an das Bundesarchiv weitergeleitet.
+
+[^8a-1]: Eingefügt durch Anhang 1 Ziff. 6 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ### 3. Abschnitt: Besondere Bestimmungen
 
@@ -150,9 +167,9 @@ Wird die Einziehungsverfügung nach der Teilung geändert und dabei die ganze od
 
 **Spätere Teilung abgezogener Beträge**
 
-<sup>1</sup> Werden den kantonalen oder eidgenössischen Behörden abgezogene Kosten oder Verwendungen zu Gunsten Geschädigter nachträglich erstattet (Art. 4) oder ergibt sich beim Strafvollzug eine Einsparungvon Kosten (Art. 4 Abs. 1 Bst. c), so ist dieser Betrag dem Bundesamt zur Verfügung zu stellen, wenn er 10 000 Franken übersteigt.
+<sup>1</sup> Werden den kantonalen oder eidgenössischen Behörden abgezogene Kosten oder Verwendungen zu Gunsten Geschädigter nachträglich erstattet (Art. 4) oder ergibt sich beim Strafvollzug eine Einsparungvon Kosten (Art. 4 Abs. 1 Bst. c), so ist dieser Betrag dem BJ zur Verfügung zu stellen, wenn er 10 000 Franken übersteigt.
 
-<sup>2</sup> Das Bundesamt führt die Teilung dieses Betrages entsprechend dem nach Artikel 6 Absatz 6 ergangenen Entscheid durch.
+<sup>2</sup> Das BJ führt die Teilung dieses Betrages entsprechend dem nach Artikel 6 Absatz 6 ergangenen Entscheid durch.
 
 ## 3. Kapitel: Teilung zwischen Staaten
 
@@ -175,9 +192,9 @@ Der Bund kann Vereinbarungen über die Teilung von Vermögenswerten abschliessen
 
 **Verhandlungen**
 
-<sup>1</sup> Kommt infolge oder im Hinblick auf eine Einziehung eine Teilung mit einem ausländischen Staat in Betracht, so informieren die Behörden der Kantone oder des Bundes das Bundesamt.
+<sup>1</sup> Kommt infolge oder im Hinblick auf eine Einziehung eine Teilung mit einem ausländischen Staat in Betracht, so informieren die Behörden der Kantone oder des Bundes das BJ.
 
-<sup>2</sup> Das Bundesamt führt mit den ausländischen Behörden die Verhandlungen über den Abschluss einer Teilungsvereinbarung. Es hört vorgängig die zuständigen Behörden der Kantone sowie, in Angelegenheiten, welche in die Zuständigkeit von Bundesbehörden fallen, die Bundesanwaltschaft oder die zuständige Verwaltungsbehörde des Bundes an und informiert die zuständige Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten.
+<sup>2</sup> Das BJ führt mit den ausländischen Behörden die Verhandlungen über den Abschluss einer Teilungsvereinbarung. Es hört vorgängig die zuständigen Behörden der Kantone sowie, in Angelegenheiten, welche in die Zuständigkeit von Bundesbehörden fallen, die Bundesanwaltschaft oder die zuständige Verwaltungsbehörde des Bundes an und informiert die zuständige Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten.
 
 <sup>3</sup> Die Teilungsvereinbarung muss die Teilungsmodalitäten und den Teilungsschlüssel enthalten. In der Regel sind die eingezogenen Vermögenswerte gleichmässig zwischen der Schweiz und dem ausländischen Staat aufzuteilen. Von dieser Regel kann in begründeten Fällen abgewichen werden und dabei auch eine Rückerstattung an den ausländischen Staat vorgenommen werden, namentlich in Anbetracht der Natur des Anlassdeliktes, des Ortes, wo sich die Vermögenswerte befinden, der Bedeutung der von den beteiligten Staaten geleisteten Beiträge an die Untersuchung, der zwischen der Schweiz und dem ausländischen Staat herrschenden Gepflogenheiten oder Zusicherungen des Gegenrechts sowie wegen des internationalen Kontextes und der Bedeutung der verletzten Interessen des ausländischen Staates.
 
@@ -185,19 +202,19 @@ Der Bund kann Vereinbarungen über die Teilung von Vermögenswerten abschliessen
 
 **Abschluss der Teilungsvereinbarung**
 
-<sup>1</sup> Das Bundesamt schliesst die Teilungsvereinbarung ab. Übersteigt der Bruttobetrag der eingezogenen oder einzuziehenden Vermögenswerte 10 Millionen Franken, so holt es die Genehmigung des Eidgenössischen Justiz- und Polizeidepartements ein; dieses hört vorgängig das Eidgenössische Finanzdepartement an.
+<sup>1</sup> Das BJ schliesst die Teilungsvereinbarung ab. Übersteigt der Bruttobetrag der eingezogenen oder einzuziehenden Vermögenswerte 10 Millionen Franken, so holt es die Genehmigung des Eidgenössischen Justiz- und Polizeidepartements ein; dieses hört vorgängig das Eidgenössische Finanzdepartement an.
 
-<sup>2</sup> In Fällen von politischer Bedeutung holt das Bundesamt vor Abschluss der Teilungsvereinbarung die Stellungnahme der zuständigen Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten ein.
+<sup>2</sup> In Fällen von politischer Bedeutung holt das BJ vor Abschluss der Teilungsvereinbarung die Stellungnahme der zuständigen Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten ein.
 
-<sup>3</sup> Sind schweizerische Behörden zur Einziehung der Vermögenswerte zuständig, so holt das Bundesamt die Zustimmung der zuständigen Behörden der betroffenen Kantone und des Bundes ein. Im Fall von Meinungsverschiedenheiten entscheidet der Bundesrat endgültig.
+<sup>3</sup> Sind schweizerische Behörden zur Einziehung der Vermögenswerte zuständig, so holt das BJ die Zustimmung der zuständigen Behörden der betroffenen Kantone und des Bundes ein. Im Fall von Meinungsverschiedenheiten entscheidet der Bundesrat endgültig.
 
 #### Art. 14
 
 **Vollstreckung der Teilungsvereinbarung**
 
-<sup>1</sup> In der Schweiz befindliche Vermögenswerte, welche Gegenstand der Teilungsvereinbarung bilden, sind dem Bundesamt auszuhändigen; dieses überweist dem ausländischen Staat den ihm zustehenden Anteil. Es kann die kantonalen Behörden beauftragen, dem ausländischen Staat seinen Anteil direkt zu überweisen.
+<sup>1</sup> In der Schweiz befindliche Vermögenswerte, welche Gegenstand der Teilungsvereinbarung bilden, sind dem BJ auszuhändigen; dieses überweist dem ausländischen Staat den ihm zustehenden Anteil. Es kann die kantonalen Behörden beauftragen, dem ausländischen Staat seinen Anteil direkt zu überweisen.
 
-<sup>2</sup> Befinden sich die Vermögenswerte im Ausland, so ist der Anteil, der gemäss Teilungsvereinbarung der Schweiz zusteht, dem Bundesamt zu überweisen.
+<sup>2</sup> Befinden sich die Vermögenswerte im Ausland, so ist der Anteil, der gemäss Teilungsvereinbarung der Schweiz zusteht, dem BJ zu überweisen.
 
 #### Art. 15
 
@@ -205,11 +222,11 @@ Der Bund kann Vereinbarungen über die Teilung von Vermögenswerten abschliessen
 
 <sup>1</sup> Werden die Vermögenswerte von schweizerischen Behörden in der Schweiz eingezogen, ist der nach der Teilungsvereinbarung der Schweiz zustehende Anteil nach Artikel 5 aufzuteilen.
 
-<sup>2</sup> Wird die Einziehung von einem ausländischen Staat ausgesprochen, so ist der Teilbetrag von <sup>5</sup>/<sub>10</sub> nach Artikel 5 Absatz 1 Buchstabe a zu gleichen Teilen unter den Kantonen, die im Rahmen eines Rechtshilfe- oder Auslieferungsersuchens Ermittlungen durchführten oder der ausländischen Behörde unaufgefordert Beweismittel übermittelt haben, sowie, wenn neben dem Bundesamt noch eine andere Bundesbehörde beteiligt war, dem Bund aufzuteilen.
+<sup>2</sup> Wird die Einziehung von einem ausländischen Staat ausgesprochen, so ist der Teilbetrag von <sup>5</sup>/<sub>10</sub> nach Artikel 5 Absatz 1 Buchstabe a zu gleichen Teilen unter den Kantonen, die im Rahmen eines Rechtshilfe- oder Auslieferungsersuchens Ermittlungen durchführten oder der ausländischen Behörde unaufgefordert Beweismittel übermittelt haben, sowie, wenn neben dem BJ noch eine andere Bundesbehörde beteiligt war, dem Bund aufzuteilen.
 
 <sup>3</sup> Befinden sich die Vermögenswerte im Ausland, ist der Teilbetrag von <sup>2</sup>/<sub>10</sub> nach Artikel 5 Absatz 1 Buchstabe c unter den anderen beteiligten Gemeinwesen im Verhältnis der ihnen zustehenden Anteile aufzuteilen.
 
-<sup>4</sup> Das Bundesamt entscheidet über die Verteilung des Betrages, der gemäss Teilungsvereinbarung der Schweiz zusteht. Die Artikel 4 und 6–10 sind sinngemäss anwendbar.
+<sup>4</sup> Das BJ entscheidet über die Verteilung des Betrages, der gemäss Teilungsvereinbarung der Schweiz zusteht. Die Artikel 4 und 6–10 sind sinngemäss anwendbar.
 
 ## 4. Kapitel: Schlussbestimmungen
 
@@ -237,7 +254,7 @@ Die Änderung des bisherigen Rechts wird im Anhang geregelt.
 
 Datum des Inkrafttretens: 1. August 2004[^18-1]
 
-[^18-1]: BRB vom 2. Juni 2004 (AS **2004** 3509)
+[^18-1]: BRB vom 2. Juni 2004
 
 Anhang
 
@@ -247,6 +264,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)konsultiert werden.
