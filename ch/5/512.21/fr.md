@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 sur les obligations militaires (OMi)
 short: OMi
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: fr
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230123-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230101/fr"
 
 (OMi)
 
-du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2023)
+du 22 novembre 2017 (État le 23 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -555,14 +555,15 @@ Le requérant:
   joint à sa demande les documents suivants:
 
   - 1\. un curriculum vitae complet,
-  - 2\. un extrait récent du casier judiciaire,
-  - 3\.[^22-2] son livret de service, pour autant qu’un tel livret ait été remis,
+  - 2\.[^22-2] un extrait actuel destiné aux particuliers de son casier judiciaire,
+  - 3\.[^22-3] son livret de service, pour autant qu’un tel livret ait été remis,
   - 4\. des attestations émanant de représentants des autorités étatiques ou ecclésiastiques, de communautés religieuses, ou d’autres personnes connaissant personnellement le requérant et confirmant le bien-fondé de sa demande.
 
 <sup>4</sup> Le requérant qui envoie sa demande dans les délais accomplit le service militaire sans arme. Sur ordre de l’organe de contrôle, il est en outre dispensé des tirs obligatoires hors du service aussi longtemps qu’une décision exécutoire n’a pas été prise.
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^22-2]: Nouvelle teneur selon l’annexe 10 ch. II 18 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 23
 
@@ -1291,7 +1292,7 @@ La demande est acceptée si:
 
 <sup>1</sup> L’école de recrues commence au plus tôt trois mois et au plus tard douze mois après le recrutement. Le cdmt Instr peut exceptionnellement prolonger ce délai si les besoins de l’armée l’exigent.
 
-<sup>2</sup> Les recrues recrutées conformément à l’art. 12, al. 2, commencent leur école de recrues dès que possible, mais au plus tard douze mois après le recrutement. Si elles n’ont pas achevé leur école de recrues jusqu’à la fin de l’année suivant l’année de leur recrutement, elles sont libérées de l’armée.[^56-2]
+<sup>2</sup> <sup>2</sup> Les recrues recrutées conformément à l’art. 12, al. 2, commencent leur école de recrues dès que possible, mais au plus tard douze mois après le recrutement. Si elles n’ont pas achevé leur école de recrues jusqu’à la fin de l’année suivant l’année de leur recrutement, elles sont libérées de l’armée.[^56-2]
 
 <sup>3</sup> Les soldats aspirants médecins militaires, pharmaciens, dentistes ou vétérinaires qui ne réussissent pas la formation des cadres pour devenir lieutenants accomplissent le solde de l’école de recrues s’élevant à six semaines, même après leur 25<sup>e</sup> anniversaire.
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 concernente l'obbligo di prestare servizi
 short: OOPSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: it
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230123-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230101/it"
 
 (OOPSM)
 
-del 22 novembre 2017 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 22 novembre 2017 (Stato 23 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -554,14 +554,15 @@ La persona che presenta una domanda deve:
   allegare i documenti seguenti:
 
   - 1\. un curriculum vitae dettagliato,
-  - 2\. un estratto del casellario giudiziale centrale aggiornato,
-  - 3\.[^22-2] il libretto di servizio, ammesso che sia stato consegnato,
+  - 2\.[^22-2] un estratto per privati aggiornato del casellario giudiziale informatizzato VOSTRA,
+  - 3\.[^22-3] il libretto di servizio, ammesso che sia stato consegnato,
   - 4\. rapporti di rappresentanti di autorità statali o ecclesiastiche, comunità religiose o di altre persone che conoscono personalmente il richiedente e nei quali descrivono il suo comportamento ed esprimono un apprezzamento dal loro punto di vista.
 
 <sup>4</sup> La persona che ha presentato la sua domanda entro il termine stabilito presta servizio militare non armato e, su ordine dell’organo incaricato della tenuta dei controlli, è dispensata dal tiro obbligatorio fuori del servizio fintanto che la decisione sulla sua domanda non è passata in giudicato.
 
 [^22-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^22-2]: Nuovo testo giusta l’all. 10 n. II 18 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^22-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 23
 

@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Militärdienstpflicht (VMDP)
 short: VMDP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: de
-version: 2023-01-01
+version: 2023-01-23
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230123-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230101/de"
 
 (VMDP)
 
-vom 22. November 2017 (Stand am 1. Januar 2023)
+vom 22. November 2017 (Stand am 23. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -554,14 +554,15 @@ Wer ein Gesuch stellt, muss:
   folgende Unterlagen beilegen:
 
   - 1\. einen ausführlichen Lebenslauf,
-  - 2\. einen aktuellen Auszug aus dem zentralen Strafregister,
-  - 3\.[^22-2] das Dienstbüchlein, sofern ein solches abgegeben wurde,
+  - 2\.[^22-2] einen aktuellen Privatauszug aus dem Strafregister-Informationssystems VOSTRA,
+  - 3\.[^22-3] das Dienstbüchlein, sofern ein solches abgegeben wurde,
   - 4\. Berichte, in denen Vertreter oder Vertreterinnen staatlicher oder kirchlicher Instanzen, religiöser Gemeinschaften oder andere Personen, die den Gesuchsteller oder die Gesuchstellerin persönlich kennen, die Haltung des Gesuchstellers oder der Gesuchstellerin darstellen und aus ihrer Sicht würdigen.
 
 <sup>4</sup> Wer sein Gesuch fristgerecht einreicht, leistet den Militärdienst ohne Waffe und wird auf Anordnung der kontrollführenden Stelle von der ausserdienstlichen Schiesspflicht dispensiert, bis über das Gesuch rechtskräftig entschieden ist.
 
 [^22-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^22-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^22-2]: Fassung gemäss Anhang 10 Ziff. II 18 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^22-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 23
 
