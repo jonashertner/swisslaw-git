@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: "Ordonnance du 1<sup>er</sup> juin 2012 instituant des mesures à l'encontre de la Guinée-Bissau"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: fr
-version: 2022-01-01
+version: 2023-01-24
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-374-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230124/fr/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230124-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Guinée-Bissau
 
-du 1<sup>er</sup> juin 2012 (État le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> juin 2012 (État le 24 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -149,16 +149,19 @@ Annexe 1[^t-1]
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
-[^t-1]: Nouvelle teneur selon le ch. I 11 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^annex1-lvlu1-1]
+
+[^t-1]: Nouvelle teneur selon le ch. I 11 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Mise à jour par le ch. I de l’O du DEFR du 23 janv. 2023, en vigueur depuis le 24 janv. 2023 à 18 heures ([RO 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/23](https://fedlex.data.admin.ch/eli/oc/2023/23) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex1-lvlu1-1].
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex1-lvlu1-2].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies)[^annex1-lvlu1-2].
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies)[^annex1-lvlu1-3].
 
-[^annex1-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la Guinée-Bissau &gt; Matériaux relatifs à la liste de sanctions.
-[^annex1-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex1-lvlu1-2]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant la Guinée-Bissau &gt; Matériaux relatifs à la liste de sanctions.
+[^annex1-lvlu1-3]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 2[^t-2]
 
@@ -168,5 +171,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I 14 de l’O modifiant la publication des annexes aux ordonnances relatives aux embargos du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), le ch. I de l’O du DEFR du 17 avr. 2013 ([RO 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)) et du 23 août 2021, en vigueur depuis le 24 août 2021 ([RO 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)).
-[^annex2-lvlu1-1]: Cette annexe n’est pas publiée au RO. Elle peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos.
+[^t-2]: Mise à jour par le ch. I 14 de l’O modifiant la publication des annexes aux ordonnances relatives aux embargos du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), le ch. I de l’O du DEFR du 17 avr. 2013 ([RO 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)), du 23 août 2021 ([RO 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)) et du 23 janv. 2023, en vigueur depuis le 24 janv. 2023 à 18 heures ([RO 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/23](https://fedlex.data.admin.ch/eli/oc/2023/23) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

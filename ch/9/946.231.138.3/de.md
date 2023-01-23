@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Verordnung vom 1. Juni 2012 über Massnahmen gegenüber Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: de
-version: 2022-01-01
+version: 2023-01-24
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20230124/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20230124-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20230124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Guinea-Bissau
 
-vom 1. Juni 2012 (Stand am 1. Januar 2022)
+vom 1. Juni 2012 (Stand am 24. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -149,16 +149,19 @@ Anhang 1[^t-1]
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-1]: Fassung gemäss Ziff. I 11 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^annex1-lvlu1-1]
+
+[^t-1]: Fassung gemäss Ziff. I 11 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Bereinigt gemäss Ziff. I der V des WBF vom 23. Jan. 2023, in Kraft seit 24. Jan. 2023 um 18 Uhr ([AS 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)).
+[^annex1-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/23](https://fedlex.data.admin.ch/eli/oc/2023/23) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex1-lvlu1-1]
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex1-lvlu1-2]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex1-lvlu1-2]
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex1-lvlu1-3]
 
-[^annex1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Guinea-Bissau Sanctions Committee &gt; Sanctions List Materials.
-[^annex1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+[^annex1-lvlu1-2]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Guinea-Bissau Sanctions Committee &gt; Sanctions List Materials.
+[^annex1-lvlu1-3]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
 Anhang 2[^t-2]
 
@@ -168,5 +171,5 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I 14 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 17. April 2013 ([AS 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)) und vom 23. Aug. 2021, in Kraft seit 24. Aug. 2021 ([AS 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)).
-[^annex2-lvlu1-1]: Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^t-2]: Bereinigt gemäss Ziff. I 14 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 17. April 2013 ([AS 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)), vom 23. Aug. 2021 ([AS 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)) und vom 23. Jan. 2023, in Kraft seit 24. Jan. 2023 um 18 Uhr ([AS 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)).
+[^annex2-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/23](https://fedlex.data.admin.ch/eli/oc/2023/23) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
