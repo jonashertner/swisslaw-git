@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: Ordinanza del 28 marzo 2018 che istituisce provvedimenti nei confronti del Venezuela
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: it
-version: 2022-01-01
+version: 2023-01-24
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-191-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20230124/it/xml/fedlex-data-admin-ch-eli-cc-2018-191-20230124-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20230124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Venezuela
 
-del 28 marzo 2018 (Stato 1° gennaio 2022)
+del 28 marzo 2018 (Stato 24 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -185,8 +185,8 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 9 lug. 2018 ([RU 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)), del 15 nov. 2018 ([RU 2018 4005](https://fedlex.data.admin.ch/eli/oc/2018/645)), del 5 ago. 2019 ([RU 2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)), del 10 ott. 2019 ([RU 2019 3117](https://fedlex.data.admin.ch/eli/oc/2019/574)), del 21 nov. 2019 ([RU 2019 3695](https://fedlex.data.admin.ch/eli/oc/2019/670)), del 6 lug. 2020 ([RU 2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)), del 26 nov. 2020 ([RU 2020 4935](https://fedlex.data.admin.ch/eli/oc/2020/879)), del 18 mar. 2021 ([RU 2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)) e del 23 nov. 2021, in vigore dal 24 nov. 2021 ([RU 2021 746](https://fedlex.data.admin.ch/eli/oc/2021/746)).
-[^annex1-lvlu1-1]: Non è pubblicato né nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-1]: Aggiornato dal n. I dell’O della SEFRI del 9 lug. 2018 ([RU 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)), del 15 nov. 2018 ([RU 2018 4005](https://fedlex.data.admin.ch/eli/oc/2018/645)), del 5 ago. 2019 ([RU 2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)), del 10 ott. 2019 ([RU 2019 3117](https://fedlex.data.admin.ch/eli/oc/2019/574)), del 21 nov. 2019 ([RU 2019 3695](https://fedlex.data.admin.ch/eli/oc/2019/670)), del 6 lug. 2020 ([RU 2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)), del 26 nov. 2020 ([RU 2020 4935](https://fedlex.data.admin.ch/eli/oc/2020/879)), del 18 mar. 2021 ([RU 2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)) e del 23 nov. 2021, in vigore dal 24 nov. 2021 ([RU 2021 746](https://fedlex.data.admin.ch/eli/oc/2021/746)) e del 23 gen. 2023, in vigore il 24 gen. 2023 alle ore 18.00 ([RU 2023 27](https://fedlex.data.admin.ch/eli/oc/2023/27)).
+[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/27](https://fedlex.data.admin.ch/eli/oc/2023/27) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2
 
