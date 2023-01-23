@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: Verordnung vom 24. Juni 2020 über Massnahmen gegenüber Nicaragua
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: de
-version: 2022-01-21
+version: 2023-01-24
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20220121/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20220121-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20220121/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20230124/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20230124-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20230124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Nicaragua
 
-vom 24. Juni 2020 (Stand am 21. Januar 2022)
+vom 24. Juni 2020 (Stand am 24. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -100,11 +100,9 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 3.
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^5-1].
+<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
-
-[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -146,5 +144,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 12. Aug. 2021 ([AS 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)) und vom 20. Jan. 2022, in Kraft seit 21. Jan. 2022 ([AS 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)).
-[^annexu1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 12. Aug. 2021 ([AS 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), vom 20. Jan. 2022 ([AS 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)) und vom 23. Jan. 2023, in Kraft seit 24. Jan. 2023 um 18 Uhr ([AS 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/25](https://fedlex.data.admin.ch/eli/oc/2023/25) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

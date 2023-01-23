@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: Ordinanza del 24 giugno 2020 che istituisce provvedimenti nei confronti del Nicaragua
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: it
-version: 2022-01-21
+version: 2023-01-24
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20220121/it/xml/fedlex-data-admin-ch-eli-cc-2020-470-20220121-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20220121/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20230124/it/xml/fedlex-data-admin-ch-eli-cc-2020-470-20230124-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20230124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Nicaragua
 
-del 24 giugno 2020 (Stato 21 gennaio 2022)
+del 24 giugno 2020 (Stato 24 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -100,11 +100,9 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 <sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 3.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^5-1].
+<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
-
-[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -146,5 +144,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dai n. I delle O del DEFR del 12 ago. 2021 ([RU 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)) e 20 gen. 2022, in vigore dal 21 gen. 2022 ([RU 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)).
-[^annexu1-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-1]: Aggiornato dal n. I delle O del DEFR del 12 ago. 2021 ([RU 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), del 20 gen. 2022 ([RU 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)) e del 23 gen. 2023, in vigore dal 24 gen. 2023 alle ore 18.00 ([RU 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)).
+[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/25](https://fedlex.data.admin.ch/eli/oc/2023/25) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
