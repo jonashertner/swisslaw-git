@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: "Ordonnance du 12 août 2015 instituant des mesures à l'encontre de la République du Soudan du Sud"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: fr
-version: 2022-01-01
+version: 2023-01-24
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20230124/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20230124-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20230124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République du Soudan du Sud
 
-du 12 août 2015 (État le 1<sup>er</sup> janvier 2022)
+du 12 août 2015 (État le 24 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -90,8 +90,8 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 
 <sup>4</sup> Le SECO délivre les autorisations au sens de l’al. 3, après avoir consulté les services compétents du DFAE et du Département fédéral des finances, et, le cas échéant, après notification au comité compétent du Conseil de sécurité des Nations Unies et en conformité avec les décisions dudit comité et les résolutions pertinentes de l’ONU.[^2-2]
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18h00 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18h00 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 
 #### Art. 3
 
@@ -127,10 +127,10 @@ Il peut, pour des personnes physiques visées à l’annexe 2, accorder des exce
 - b. si la personne se déplace pour assister à des réunions d’organismes internationaux ou pour mener un dialogue politique concernant la République du Soudan du Sud, ou
 - c. si la sauvegarde d’intérêts suisses l’exige.[^4-4]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18h00 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18h00 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
-[^4-3]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne à l’adresse: www.un.org/fr &gt; Etat de droit &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
-[^4-4]: Introduit par le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18h00 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^4-3]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne à l’adresse: [www.un.org](https://www.un.org/) &gt; Etat de droit &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^4-4]: Introduit par le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 
 ## Section 2 Exécution et dispositions pénales
 
@@ -170,7 +170,7 @@ Il peut, pour des personnes physiques visées à l’annexe 2, accorder des exce
 
 [^sec3-1]
 
-[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18h00 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 
 #### Art. 8
 
@@ -178,7 +178,7 @@ Il peut, pour des personnes physiques visées à l’annexe 2, accorder des exce
 
 Les listes relatives à des personnes physiques, entreprises et entités que le Conseil de sécurité des Nations Unies ou son comité compétent a établies ou actualisées (annexe 1) sont reprises automatiquement.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18h00 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 
 #### Art. 8a
 
@@ -186,7 +186,7 @@ Les listes relatives à des personnes physiques, entreprises et entités que le 
 
 Le contenu des annexes 1 et 2 n’est publié ni au Recueil officiel du droit fédéral (RO), ni au Recueil systématique du droit fédéral (RS).
 
-[^8a-1]: Introduit par le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18h00 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^8a-1]: Introduit par le ch. I de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
 
 #### Art. 9
 
@@ -200,15 +200,18 @@ Annexe 1[^t-1]
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit et entreprises et entités visées par les sanctions financières
 
-[^t-1]: Anciennement annexe. Nouvelle teneur selon le ch. II de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18h00 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^annex1-lvlu1-1]
+
+[^t-1]: Anciennement annexe. Nouvelle teneur selon le ch. II de l’O du 28 mars 2018, en vigueur depuis le 28 mars 2018 à 18 heures ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/26](https://fedlex.data.admin.ch/eli/oc/2023/26) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Remarque
 
-- 1\. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex1-lvlu1-1].
-- 2\. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex1-lvlu1-2].
+- 1\. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex1-lvlu1-2].
+- 2\. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex1-lvlu1-3].
 
-[^annex1-lvlu1-1]: Les listes peuvent être consultées sur Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la République du Soudan du Sud &gt; Matériaux relatifs à la liste de sanctions.
-[^annex1-lvlu1-2]: La banque de données SESAM est librement accessible sur Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée des listes peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex1-lvlu1-2]: Les listes peuvent être consultées sur Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la République du Soudan du Sud &gt; Matériaux relatifs à la liste de sanctions.
+[^annex1-lvlu1-3]: La banque de données SESAM est librement accessible sur Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée des listes peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 2[^t-2]
 
@@ -218,5 +221,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour selon le n. I de l’O du DATEC du 2 aout 2018, en vigueur depuis le 3 août 2018 à 18 heures ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)).
-[^annex2-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour par le ch. I des O du DEFR du 2 août 2018 ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)) et du 23 janv. 2023, en vigueur depuis le 24 janv. 2023 à 18 heures ([RO 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/26](https://fedlex.data.admin.ch/eli/oc/2023/26) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

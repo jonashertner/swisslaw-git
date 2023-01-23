@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Ordinanza del 12 agosto 2015 che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: it
-version: 2022-01-01
+version: 2023-01-24
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20230124/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20230124-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20230124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 
-del 12 agosto 2015 (Stato 1° gennaio 2022)
+del 12 agosto 2015 (Stato 24 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -200,15 +200,18 @@ Allegato 1[^t-1]
 
 ## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito; imprese e organizzazioni soggette alle sanzioni finanziarie
 
+[^annex1-lvlu1-1]
+
 [^t-1]: Originario all. Nuovo testo giusta il n. II dell’O del 28 mar. 2018, in vigore dalle ore 18.00 del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)).
+[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2023/26 &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 **Nota bene**
 
-- 1\. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal Comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex1-lvlu1-1].
-- 2\. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo alla loro comunicazione da parte delle Nazioni Unite[^annex1-lvlu1-2].
+- 1\. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal Comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex1-lvlu1-2].
+- 2\. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo alla loro comunicazione da parte delle Nazioni Unite[^annex1-lvlu1-3].
 
-[^annex1-lvlu1-1]: Le liste sono consultabili al seguente indirizzo Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; South Sudan Sanctions Committee &gt; Sanctions List Materials.
-[^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annex1-lvlu1-2]: Le liste sono consultabili al seguente indirizzo Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; South Sudan Sanctions Committee &gt; Sanctions List Materials.
+[^annex1-lvlu1-3]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
 Allegato 2[^t-2]
 
@@ -218,5 +221,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Aggiornato dal n. I dell’O del DFEFR del 2 ago. 2018, in vigore dal 3 ago. 2018 alle ore 18.00 ([RU 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)).
-[^annex2-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Aggiornato dai n. I delle O del DFEFR del 2 ago. 2018 ([RU 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)) e del 23 gen. 2023, in vigore dal 24 gen. 2023 alle ore 18.00 ([RU 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2023/26 &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
