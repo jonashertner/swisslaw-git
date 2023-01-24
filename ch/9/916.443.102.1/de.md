@@ -3,20 +3,20 @@ sr: "916.443.102.1"
 title: Verordnung des BLV vom 15. Oktober 2021 über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union sowie Nordirland
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: de
-version: 2022-12-16
+version: 2023-01-25
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20221216/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20221216-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20221216/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20230125/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20230125-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20230125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union sowie Nordirland
+# Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union
 
-vom 15. Oktober 2021 (Stand am 16. Dezember 2022)[^t-1]
+vom 15. Oktober 2021 (Stand am 25. Januar 2023)[^t-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 14. Dez. 2022, in Kraft seit 16. Dez. 2022 ([AS 2022 815](https://fedlex.data.admin.ch/eli/oc/2022/815)).
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 23. Jan. 2023, in Kraft seit 25. Jan. 2023 ([AS 2023 22](https://fedlex.data.admin.ch/eli/oc/2023/22)).
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -87,28 +87,26 @@ Diese Verordnung tritt am 19. Oktober 2021 in Kraft.
 
 Anhang[^t-2]
 
-(Art. 1, 2 Abs. 1 sowie Art. 3–5)
+(Art. 1, 2 Abs. 1 sowie 3–5)
 
 ## Betroffene Gebiete und Sperrzonen
 
-[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 14. Dez. 2022, in Kraft seit 16. Dez. 2022 ([AS 2022 815](https://fedlex.data.admin.ch/eli/oc/2022/815)).
+[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 23. Jan. 2023, in Kraft seit 25. Jan. 2023 ([AS 2023 22](https://fedlex.data.admin.ch/eli/oc/2023/22)).
 
-### 1 Sperrzonen in den betroffenen Mitgliedstaaten der EU und in Nordirland
+### 1 Sperrzonen in den betroffenen Mitgliedstaaten der EU
 
-Die betroffenen Mitgliedstaaten der EU sowie die dort festgelegten Sperrzonen und die Sperrzonen in Nordirland werden in folgendem Durchführungsbeschluss festgelegt:
+Die betroffenen Mitgliedstaaten der EU sowie die dort festgelegten Sperrzonen werden in folgendem Durchführungsbeschluss festgelegt:
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2021/641</td><td>Durchführungsbeschluss (EU) 2021/641 der Kommission vom 16. April 2021 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 134 vom 20.4.2021, S. 166; zuletzt geändert durch Durchführungsbeschluss (EU) 2022/2420, ABl. L 318 vom 12.12.2022, S. 9</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2021/641</td><td>Durchführungsbeschluss (EU) 2021/641 der Kommission vom 16. April 2021 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 134 vom 20.4.2021, S. 166; zuletzt geändert durch Durchführungsbeschluss (EU) 2023/125, ABl. L 16 vom 18.1.2023, S. 42</td></tr>
 </table>
 
-### 2 Betroffene Mitgliedstaaten der EU und Nordirland
+### 2 Betroffene Mitgliedstaaten der EU
 
-In Nordirland und folgenden Mitgliedstaaten der EU bestehen Sperrzonen:
+In folgenden Mitgliedstaaten der EU bestehen Sperrzonen:
 
 Belgien
-
-Bulgarien
 
 Dänemark
 
@@ -116,14 +114,14 @@ Deutschland
 
 Frankreich
 
-Irland
-
 Italien
-
-Kroatien
 
 Niederlande
 
-Österreich
+Polen
+
+Spanien
+
+Tschechien
 
 Ungarn
