@@ -3,18 +3,18 @@ sr: "142.311.23"
 title: Verordnung des EJPD vom 4. Dezember 2018 über den Betrieb von Zentren des Bundes und Unterkünften an den Flughäfen
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/1"
 language: de
-version: 2023-01-15
+version: 2023-01-26
 adopted: 2018-12-04
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230115/de/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230115-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230126/de/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230126-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230126/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EJPD über den Betrieb von Zentren des Bundes und Unterkünften an den Flughäfen
 
-vom 4. Dezember 2018 (Stand am 15. Januar 2023)
+vom 4. Dezember 2018 (Stand am 26. Januar 2023)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -357,7 +357,7 @@ Die Disziplinarbehörde kann gegenüber Asylsuchenden und Schutzbedürftigen die
 
 <sup>1</sup>
 
-Asylsuchende und Schutzbedürftige können zur Abwehr einer ernsten, unmittelbaren und nicht anders abwendbaren Gefahr auf Anordnung der Leitung des Zentrums des Bundes oder der Unterkunft am Flughafen nötigenfalls in einem dafür besonders ausgestatteten, überwachten und geschlossenen Raum innerhalb der Unterkunft vorübergehend festgehalten werden, wenn sie:
+Asylsuchende und Schutzbedürftige können zur Abwehr einer ernsten, unmittelbaren und nicht anders abwendbaren Gefahr auf Anordnung der Leitung des Zentrums des Bundes oder der Unterkunft am Flughafen nötigenfalls in einem dafür besonders ausgestatteten, überwachten und geschlossenen Raum innerhalb der Unterkunft vorübergehend festgehalten werden, wenn sie:[^29a-1]
 
 - a. andere Personen erheblich gefährden;
 - b. sich selbst erheblich gefährden; oder
@@ -368,6 +368,8 @@ Asylsuchende und Schutzbedürftige können zur Abwehr einer ernsten, unmittelbar
 <sup>3</sup> Zu Beginn der vorübergehenden Festhaltung ist die betroffene Person zu durchsuchen, und sämtliche gefährlichen oder nicht benötigten Gegenstände sind ihr abzunehmen. Während der vorübergehenden Festhaltung ist das persönliche Wohlbefinden der betroffenen Person zu überwachen.
 
 <sup>4</sup> Die Anordnung einer vorübergehenden Festhaltung ist bei Kindern und Jugendlichen, die das 15. Altersjahr noch nicht zurückgelegt haben, ausgeschlossen.
+
+[^29a-1]: Die Berichtigung vom 26. Jan. 2023 betrifft nur den italienischen Text ([AS 2023 32](https://fedlex.data.admin.ch/eli/oc/2023/32)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 

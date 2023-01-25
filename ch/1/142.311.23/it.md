@@ -3,18 +3,18 @@ sr: "142.311.23"
 title: "Ordinanza del DFGP del 4 dicembre 2018 sull'esercizio dei centri della Confederazione e degli alloggi presso gli aeroporti"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/1"
 language: it
-version: 2023-01-15
+version: 2023-01-26
 adopted: 2018-12-04
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230115/it/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230115-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230126/it/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230126-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230126/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFGP sull’esercizio dei centri della Confederazione e degli alloggi presso gli aeroporti
 
-del 4 dicembre 2018 (Stato 15 gennaio 2023)
+del 4 dicembre 2018 (Stato 26 gennaio 2023)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -357,7 +357,7 @@ L’autorità disciplinare può ordinare nei confronti di richiedenti l’asilo 
 
 <sup>1</sup>
 
-Per scongiurare un pericolo grave, immediato e non altrimenti evitabile, su ordine della direzione del centro della Confederazione o dell’alloggio presso l’aeroporto i richiedenti l’asilo e le persone bisognose di protezione possono essere temporaneamente trattenuti, se necessario, in un locale appositamente attrezzato, sorvegliato e chiuso all’interno dell’alloggio, se:
+Per scongiurare un pericolo grave, immediato e non altrimenti evitabile, su ordine della direzione del centro della Confederazione o dell’alloggio presso l’aeroporto i richiedenti l’asilo e le persone bisognose di protezione possono essere temporaneamente trattenuti, se necessario, in un locale appositamente attrezzato, sorvegliato e chiuso all’interno del centro o dell’alloggio, se:[^29a-1]
 
 - a. mettono in serio pericolo altre persone;
 - b. mettono in serio pericolo sé stessi; oppure
@@ -368,6 +368,8 @@ Per scongiurare un pericolo grave, immediato e non altrimenti evitabile, su ordi
 <sup>3</sup> All’inizio del fermo di breve durata occorre perquisire la persona interessata e ritirarle tutti gli oggetti pericolosi o non indispensabili. Per tutta la durata del fermo di breve durata occorre monitorare il benessere della persona interessata.
 
 <sup>4</sup> È escluso l’ordine di fermo di breve durata nei confronti di bambini e minori che non hanno ancora compiuto 15 anni.
+
+[^29a-1]: Correzione del 26 gen. 2023 ([RU 2023 32](https://fedlex.data.admin.ch/eli/oc/2023/32)).
 
 ## Sezione 6: Disposizioni finali
 

@@ -3,18 +3,18 @@ sr: "142.311.23"
 title: "Ordonnance du DFJP du 4 décembre 2018 relative à l'exploitation des centres de la Confédération et des logements dans les aéroports"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/1"
 language: fr
-version: 2023-01-15
+version: 2023-01-26
 adopted: 2018-12-04
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230115/fr/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230115-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230126/fr/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230126-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230126/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFJP relative à l’exploitation des centres de la Confédération et des logements dans les aéroports
 
-du 4 décembre 2018 (État le 15 janvier 2023)
+du 4 décembre 2018 (État le 26 janvier 2023)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -357,7 +357,7 @@ L’autorité disciplinaire peut prononcer les mesures disciplinaires suivantes 
 
 <sup>1</sup>
 
-Si cela s’avère nécessaire pour parer à un danger sérieux, direct et imminent, un requérant d’asile ou une personne à protéger peut, sur ordre de la direction du centre de la Confédération ou du logement dans l’aéroport, être retenu provisoirement dans un local fermé, spécialement aménagé et surveillé à l’intérieur du logement, s’il:
+Si cela s’avère nécessaire pour parer à un danger sérieux, direct et imminent, un requérant d’asile ou une personne à protéger peut, sur ordre de la direction du centre de la Confédération ou du logement dans l’aéroport, être retenu provisoirement dans un local fermé, spécialement aménagé et surveillé à l’intérieur du logement, s’il:[^29a-1]
 
 - a. met gravement en danger d’autres personnes;
 - b. met gravement en danger sa propre personne, ou
@@ -368,6 +368,8 @@ Si cela s’avère nécessaire pour parer à un danger sérieux, direct et immin
 <sup>3</sup> La personne concernée est fouillée au début de la rétention provisoire et tous les objets dangereux ou dont elle n’a pas besoin sont saisis. Pendant la rétention provisoire, son bien-être personnel est surveillé.
 
 <sup>4</sup> La rétention provisoire ne peut être ordonnée pour les enfants et les adolescents de moins de 15 ans.
+
+[^29a-1]: Erratum du 26 janv. 2023, ne concerne que le texte italien ([RO 2023 32](https://fedlex.data.admin.ch/eli/oc/2023/32)).
 
 ## Section 6 Dispositions finales
 
