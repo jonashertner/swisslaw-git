@@ -4,13 +4,13 @@ number: "131.2"
 title: Verordnung zum Wahl- und Abstimmungsgesetz
 short: "Wahl- und Abstimmungsverordnung, WAV"
 language: de
-version: 2015-07-11
-valid_until: 2023-01-26
-version_adopted: 2015-07-07
+version: 2023-01-27
+valid_until: 2026-02-19
+version_adopted: 2023-01-24
 adopted: 2008-04-29
 in_force: 2008-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.2"
-pdf: "https://bgs.zg.ch/api/de/versions/1445/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2409/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1445/pdf_file"
 
 (Wahl- und Abstimmungsverordnung, WAV)
 
-Vom 29. April 2008 (Stand 11. Juli 2015)
+Vom 29. April 2008 (Stand 27. Januar 2023)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -480,9 +480,11 @@ beschliesst:
 - b) für jede Liste einen separaten vorgedruckten Wahlzettel;
 - c) einen leeren Wahlzettel.
 
-<sup>2</sup> Die amtliche Wegleitung, die separaten vorgedruckten Wahlzettel sowie der leere Wahlzettel sind durch Perforation voneinander getrennt.
+<sup>2</sup> Die amtliche Wegleitung, die separaten vorgedruckten Wahlzettel sowie der leere Wahlzettel sind durch Perforation voneinander getrennt. Anstelle der Perforation können die voneinander zu trennenden Seiten auch geleimt sein.
 
 <sup>3</sup> Für die Wahlzettelbogengestaltung im Proporzverfahren ist im Weiteren das Muster im Anhang 1[^47a-1] massgebend.
+
+<sup>4</sup> Anstelle eines Wahlzettelbogens kann auch ein amtliches Wahlzettelbüchlein gedruckt und verwendet werden.
 
 [^47a-1]: BGS [131.2-A1](https://bgs.zg.ch/data/131.2-A1/de)
 
