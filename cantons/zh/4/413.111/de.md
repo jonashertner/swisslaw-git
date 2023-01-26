@@ -4,11 +4,11 @@ number: "413.111"
 title: Mittel- und Berufsschullehrpersonenverordnung (MBVO)
 short: MBVO
 language: de
-version: "2022-01-01"
-nachtrag: "116"
-valid_until: 2023-01-26
+version: "2023-01-01"
+nachtrag: "120"
+valid_until: 2024-01-26
 adopted: 1999-04-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_111-1999_04_07-1999_08_23-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_111-1999_04_07-1999_08_23-120.html"
 text: pdf
 ---
 
@@ -58,7 +58,7 @@ Soweit diese Verordnung nichts anderes bestimmt, gelten die Personalverordnung<s
 
 **1**
 
-- 1\. 4. 22 - 116 § 4. <sup>1</sup> Mittel- und Berufsschullehrpersonen mbA übernehmen im Rahmen der Klassen- und Schulführung sowie der Schulverwaltung zusätzliche Aufgaben, wobei in der Regel ein Beschäftigungsgrad von mindestens 50% vorausgesetzt wird.
+- 1\. 4. 23 - 120 § 4. <sup>1</sup> Mittel- und Berufsschullehrpersonen mbA übernehmen im Rahmen der Klassen- und Schulführung sowie der Schulverwaltung zusätzliche Aufgaben, wobei in der Regel ein Beschäftigungsgrad von mindestens 50% vorausgesetzt wird.
 
 **Besondere Aufgaben**
 
@@ -140,7 +140,7 @@ Die Vergütung für Kurzlektionen wird mit dem Faktor 0.91 umgerechnet.
 
 **3**
 
-- 1\. 4. 22 - 116
+- 1\. 4. 23 - 120
 
 - b. an Berufsschulen <sup>1</sup>/1020 des Jahresgrundlohns:
 
@@ -212,7 +212,7 @@ Die Vollendung der für die Dienstaltersgeschenke der semesterweise ernannten Le
 
 **5**
 
-- 1\. 4. 22 - 116
+- 1\. 4. 23 - 120
 
 <sup>4</sup> Der Regierungsrat bestimmt den Zeitpunkt der Aufhebung der folgenden Erlasse:
 
@@ -264,6 +264,8 @@ Die Vollendung der für die Dienstaltersgeschenke der semesterweise ernannten Le
 
 <sup>19</sup> Fassung gemäss RRB vom 27. Oktober 2021 (OS 77, 9; ABl 2021-11-05). In Kraft seit 1. Januar 2022.
 
+<sup>20</sup> Fassung gemäss RRB vom 21. September 2022 (OS 78, 24; ABl 2022-09-30). In Kraft seit 1. Januar 2023.
+
 ### Anhang zur Mittelschul- und Berufsschullehrerverordnung<sup>14</sup>
 
 A. Einreihungsplan (§ 6 a)<sup>10</sup>
@@ -292,7 +294,7 @@ Schulmusik I und Zeichnen I
 
 **Klasse 19 b.**
 
-- 1\. 4. 22 - 116 an Berufsschulen
+- 1\. 4. 23 - 120 an Berufsschulen
 
 **b.**
 
@@ -336,7 +338,7 @@ an Berufsschulen für Lehrpersonen mit Fachabschluss 1. für die Fächer Textver
 
 **III.11**
 
-**1. 4. 22 - 116**
+**1. 4. 23 - 120**
 
 **2. Maximum**
 
@@ -344,8 +346,8 @@ an Berufsschulen für Lehrpersonen mit Fachabschluss 1. für die Fächer Textver
 
 **Minimum Anlaufstufen**
 
-9 B. Lohnskala (§ 6)<sup>19</sup>
+9 B. Lohnskala (§ 6)<sup>20</sup>
 
 **20 21 22**
 
-Lohn- Klasse Klasse Klasse Klasse Klasse Klasse stufen 17 18 19 27 131 079 139 842 149 410 159 810 171 098 183 308 26 129 786 138 462 147 933 158 234 169 410 181 501 25 128 491 137 083 146 459 156 658 167 720 179 694 24 127 198 135 703 144 985 155 081 166 032 177 884 23 125 905 134 325 143 509 153 505 164 344 176 073 22 124 613 132 945 142 036 151 926 162 655 174 265 21 123 317 131 565 140 563 150 349 160 968 172 456 20 122 024 130 184 139 088 148 771 159 279 170 645 19 120 733 128 803 137 611 147 193 157 590 168 835 18 119 439 127 423 136 138 145 617 155 902 167 029 17 118 144 126 046 134 662 144 040 154 214 165 222 16 116 850 124 664 133 189 142 464 152 524 163 412 15 115 557 123 284 131 712 140 886 150 836 161 601 14 114 670 121 904 130 240 139 310 149 148 159 792 13 113 782 120 522 128 766 137 733 147 460 157 986 12 112 491 119 144 127 292 136 156 145 770 156 176 11 111 198 117 763 125 817 134 578 144 081 154 366 10 108 179 115 359 122 376 130 899 140 143 150 145 9 105 160 112 137 118 935 127 217 136 201 145 922 8 102 140 108 919 115 494 123 537 132 264 141 702 7 99 124 105 696 112 870 119 859 128 325 137 484 6 96 920 102 476 109 430 116 179 124 383 133 263 5 93 905 99 258 105 988 113 314 120 443 129 039 4 90 883 96 850 102 550 109 633 116 505 124 819 3 87 866 93 630 99 109 105 956 113 377 120 598 2 84 847 90 408 96 483 102 273 109 440 116 379 1 81 827 87 191 93 042 98 592 105 499 112 971
+Lohn- Klasse Klasse Klasse Klasse Klasse Klasse stufen 17 18 19 27 135 667 144 736 154 639 165 403 177 086 189 724 26 134 329 143 308 153 111 163 772 175 339 187 854 25 132 988 141 881 151 585 162 141 173 590 185 983 24 131 650 140 453 150 059 160 509 171 843 184 110 23 130 312 139 026 148 532 158 878 170 096 182 236 22 128 974 137 598 147 007 157 243 168 348 180 364 21 127 633 136 170 145 483 155 611 166 602 178 492 20 126 295 134 740 143 956 153 978 164 854 176 618 19 124 959 133 311 142 427 152 345 163 106 174 744 18 123 619 131 883 140 903 150 714 161 359 172 875 17 122 279 130 458 139 375 149 081 159 611 171 005 16 120 940 129 027 137 851 147 450 157 862 169 131 15 119 602 127 599 136 322 145 817 156 115 167 257 14 118 683 126 171 134 798 144 186 154 368 165 385 13 117 764 124 740 133 273 142 554 152 621 163 516 12 116 428 123 314 131 747 140 921 150 872 161 642 11 115 090 121 885 130 221 139 288 149 124 159 769 10 111 965 119 397 126 659 135 480 145 048 155 400 9 108 841 116 062 123 098 131 670 140 968 151 029 8 105 715 112 731 119 536 127 861 136 893 146 662 7 102 593 109 395 116 820 124 054 132 816 142 296 6 100 312 106 063 113 260 120 245 128 736 137 927 5 97 192 102 732 109 698 117 280 124 659 133 555 4 94 064 100 240 106 139 113 470 120 583 129 188 3 90 941 96 907 102 578 109 664 117 345 124 819 2 87 817 93 572 99 860 105 853 113 270 120 452 1 84 691 90 243 96 298 102 043 109 191 116 925
