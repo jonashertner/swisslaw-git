@@ -4,11 +4,11 @@ number: "177.111"
 title: Vollzugsverordnung zum Personalgesetz (VVO)
 short: VVO
 language: de
-version: "2022-10-01"
-nachtrag: "119"
-valid_until: 2023-01-26
+version: "2023-01-01"
+nachtrag: "120"
+valid_until: 2024-01-26
 adopted: 1999-05-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_111-1999_05_19-1999_07_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_111-1999_05_19-1999_07_01-120.html"
 text: pdf
 ---
 
@@ -48,7 +48,7 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ### II. Arbeitsverhältnis
 
@@ -142,7 +142,7 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Die Ausschreibung kann insbesondere unterbleiben a. wenn die Stelle durch Beförderung oder Versetzung innerhalb der Verwaltung oder der Rechtspflege oder auf dem Wege der Berufung besetzt wird,
 
@@ -220,7 +220,7 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **5**
 
-- 1\. 1. 23 - 119 c.[^15-1] die oder der Angestellte aus gesundheitlichen Gründen während langer Zeit wiederholt oder dauernd an der Erfüllung der Aufgaben verhindert ist. Die Lohnfortzahlung gemäss § 99 Abs. 2 und 3 sowie § 108 Abs. 1 darf durch die Kündigung grundsätzlich nicht verkürzt werden.
+- 1\. 4. 23 - 120 c.[^15-1] die oder der Angestellte aus gesundheitlichen Gründen während langer Zeit wiederholt oder dauernd an der Erfüllung der Aufgaben verhindert ist. Die Lohnfortzahlung gemäss § 99 Abs. 2 und 3 sowie § 108 Abs. 1 darf durch die Kündigung grundsätzlich nicht verkürzt werden.
 
 <sup>2</sup> Kein sachlich zureichender Grund liegt insbesondere vor, wenn die Kündigung ausschliesslich als Folge einer Neubesetzung der Anstellungs- oder Aufsichtsbehörde erfolgt.
 
@@ -288,7 +288,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Eine Abfindung wird als Einmalzahlung ausgerichtet und bei der Beendigung des Arbeitsverhältnisses ausbezahlt. Anstelle der Einmalzahlung kann vor Beendigung des Anstellungsverhältnisses dessen Verlängerung vereinbart werden.<sup>58</sup>
 
@@ -362,7 +362,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 - g. Unterlagen über Ferien, Urlaub und andere Dienstaussetzungen,
 
@@ -448,7 +448,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **11**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Zusätzlich werden die Daten zum Arbeitsverhältnis und zur Stelle bearbeitet, soweit dies für die Zweckbestimmung gemäss Abs. 1 notwendig ist, insbesondere Daten über Eintritt und Anstellungsdauer, Einreihung und Lohn, Beschäftigungsgrad, Zulagen und Zahlungsmodalitäten.
 
@@ -530,7 +530,7 @@ Wo diese Verordnung auf Lohnklassen abstellt, ist die persönliche Lohnklasse de
 
 **13**
 
-- 1\. 1. 23 - 119 § 36. <sup>1</sup> Anfangseinreihungen in einer Leistungsklasse müssen begründet und von der vorgesetzten Direktion oder vom zuständigen obersten kantonalen Gericht genehmigt werden.[^35-1]
+- 1\. 4. 23 - 120 § 36. <sup>1</sup> Anfangseinreihungen in einer Leistungsklasse müssen begründet und von der vorgesetzten Direktion oder vom zuständigen obersten kantonalen Gericht genehmigt werden.[^35-1]
 
 **Anfangslohn**
 
@@ -608,7 +608,7 @@ Die Finanzdirektion setzt im Rahmen ortsüblicher Mietzinse die Entschädigung f
 
 **15**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Anstelle einer Einmalzulage gemäss § 26 Abs. 3 der Personalverordnung[^hBAnerkennungbeson-2] kann bezahlter Urlaub bis zu zehn Tagen gewährt oder ein Naturalgeschenk bis zu einem Wert von Fr. 500 ausgerichtet werden. Urlaub ist zu gewähren, sofern die oder der Angestellte dies wünscht und der Betrieb es zulässt.
 
@@ -723,7 +723,7 @@ Sonderfälle werden für das Personal der Verwaltung von der vorgesetzten Direkt
 
 **17**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Soweit Gesetz oder Verordnung keine andere Regelung enthalten, wird den Kommissionen des Regierungsrates und seiner Direktionen sowie der obersten kantonalen Gerichte ein Sitzungsgeld gemäss den Ansätzen für die Kommissionen des Kantonsrates ausgerichtet. Darin inbegriffen ist die ordentliche Sitzungsvorbereitung.
 
@@ -824,7 +824,7 @@ Die Teuerungszulage wird ausgerichtet auf a. Jahreslöhnen oder Teilen davon gem
 
 **19**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Wer regelmässig dienstlich öffentliche Verkehrsmittel benützt, erhält die Kosten eines Halbtaxabonnements vergütet. In diesen Fällen werden Billette zur halben Taxe entschädigt, in den übrigen Fällen zur vollen Taxe.
 
@@ -920,7 +920,7 @@ Bei Dienstreisen werden pro Tag Nebenauslagen pauschal gemäss folgenden Ansätz
 
 **21**
 
-- 1\. 1. 23 - 119 § 74. <sup>1</sup> Die Direktionen orientieren das Personalamt über Regelungen, die sie zum Vollzug der Vorschriften über den Ersatz von Barauslagen erlassen.
+- 1\. 4. 23 - 120 § 74. <sup>1</sup> Die Direktionen orientieren das Personalamt über Regelungen, die sie zum Vollzug der Vorschriften über den Ersatz von Barauslagen erlassen.
 
 **Besondere Regelungen**
 
@@ -1014,7 +1014,7 @@ Als Lohn im Sinne der Bestimmungen des VI. Abschnitts gelten der Grundlohn zuzü
 
 **23**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Ferien, die im laufenden Kalenderjahr aus dienstlichen oder triftigen persönlichen Gründen nicht bezogen werden können, sind bis spätestens Mitte des folgenden Kalenderjahres zu beziehen. Der Übertrag von nicht bezogenen Ferien sowie der ausnahmsweise Vorbezug von Ferien bedürfen der Bewilligung der Verwaltungseinheit.
 
@@ -1062,7 +1062,7 @@ Ereignis a. Eigene Hochzeit b. Hochzeit eines eigenen Kindes, von Geschwistern, 
 
 **25**
 
-- 1\. 1. 23 - 119 § 86. <sup>1</sup> Für persönliche Angelegenheiten wird wie folgt Urlaub gewährt:
+- 1\. 4. 23 - 120 § 86. <sup>1</sup> Für persönliche Angelegenheiten wird wie folgt Urlaub gewährt:
 
 **die notwendige Zeit,**
 
@@ -1154,7 +1154,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **27**
 
-- 1\. 1. 23 - 119 § 94. <sup>1</sup> Für externe Weiterbildungsveranstaltungen können bezahlter Urlaub und Beiträge gewährt werden.
+- 1\. 4. 23 - 120 § 94. <sup>1</sup> Für externe Weiterbildungsveranstaltungen können bezahlter Urlaub und Beiträge gewährt werden.
 
 **Externe Weiterbildungsveranstaltungen**
 
@@ -1221,7 +1221,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **29**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 [^hCElternschaft95-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
 
@@ -1298,7 +1298,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **31**
 
-- 1\. 1. 23 - 119 § 102. <sup>1</sup> Die Versicherungsverträge für die obligatorische Unfallversicherung der nicht bei der SUVA versicherten Angestellten werden von der Finanzdirektion abgeschlossen.
+- 1\. 4. 23 - 120 § 102. <sup>1</sup> Die Versicherungsverträge für die obligatorische Unfallversicherung der nicht bei der SUVA versicherten Angestellten werden von der Finanzdirektion abgeschlossen.
 
 **Unfallversicherung**
 
@@ -1364,7 +1364,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **33**
 
-- 1\. 1. 23 - 119 § 107. <sup>1</sup> Die Direktionen können für Angestellte, die eine gesundheitsgefährdende Tätigkeit ausüben, regelmässige Gesundheitskontrollen sowie Austrittsuntersuchungen anordnen.
+- 1\. 4. 23 - 120 § 107. <sup>1</sup> Die Direktionen können für Angestellte, die eine gesundheitsgefährdende Tätigkeit ausüben, regelmässige Gesundheitskontrollen sowie Austrittsuntersuchungen anordnen.
 
 **Gesundheitskontrolle**
 
@@ -1444,7 +1444,7 @@ Die Angestellten müssen bevorstehende Militär- und Schutz- und Zivildienstleis
 
 **35**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ### VII. Arbeitszeit
 
@@ -1518,7 +1518,7 @@ Die Angestellten müssen bevorstehende Militär- und Schutz- und Zivildienstleis
 
 **37**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Ein diesen Umfang übersteigender negativer Arbeitszeitsaldo wird am Jahresende mit Überzeit oder Ferienguthaben verrechnet. Ein grösserer positiver Arbeitszeitsaldo verfällt grundsätzlich am Jahresende. Das Amt, Gericht oder Notariat kann den Übertrag bewilligen, wenn eine Kompensation innerhalb des Kalenderjahres aus dienstlichen oder triftigen persönlichen Gründen nicht möglich war.
 
@@ -1592,7 +1592,7 @@ Die Angestellten müssen bevorstehende Militär- und Schutz- und Zivildienstleis
 
 **39**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Die Zeitverwaltung erfolgt manuell oder unter Zuhilfenahme der bestehenden EDV-Infrastruktur.
 
@@ -1674,7 +1674,7 @@ Die Direktionen oder die von ihnen hiezu ermächtigten Ämter können, soweit be
 
 **41**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Ziele der Mitarbeiterbeurteilung sind die Förderung des Personals sowie die Beurteilung der Leistungen und des Verhaltens.
 
@@ -1760,7 +1760,7 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **43**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Arbeitszeit, die für eine überwiegend im dienstlichen Interesse ausgeübte Nebenbeschäftigung beansprucht wird, muss nicht ausgeglichen werden. Die Nebeneinkünfte sind mit Ausnahme von Spesenentschädigungen in einem angemessenen Verhältnis zur aufgewendeten Arbeitszeit an die Staatskasse abzuliefern, ausser wenn die Arbeitszeit ausgeglichen wird.
 
@@ -1830,7 +1830,7 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **45**
 
-- 1\. 1. 23 - 119 § 147 c.<sup>56</sup> <sup>1</sup> Die ständigen Verhandlungspartner melden der Finanzdirektion unverzüglich:
+- 1\. 4. 23 - 120 § 147 c.<sup>56</sup> <sup>1</sup> Die ständigen Verhandlungspartner melden der Finanzdirektion unverzüglich:
 
 **c. Meldepflichten**
 
@@ -1898,7 +1898,7 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **47**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 - c. koordiniert zusammen mit der Finanzverwaltung die Budgetierung und Rechnungslegung des Personalaufwandes und erstellt die Personal- und Lohnstatistik, d.<sup>42</sup> ist zuständig für das zentrale Personalmanagement- und Lohnadministrationssystem sowie die zentrale Lohnverarbeitung, koordiniert die Tätigkeit der dezentralen Zahlstellen und erlässt die notwendigen Weisungen,
 
@@ -1974,7 +1974,7 @@ Die zuständigen Direktionen legen mit Zustimmung der Finanzdirektion zusätzlic
 
 **49**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 - c. Arbeiten in Fäkalienwasser und in sehr schmutzigen Einrichtungen der Fernwärmeversorgung,
 
@@ -2057,7 +2057,7 @@ Die zuständigen Direktionen legen mit Zustimmung der Finanzdirektion zusätzlic
 
 **51**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Kaufmännische Lernende und Informatiklernende der Zentral- und Bezirksverwaltung werden vom Personalamt angestellt, andere Lernende nach Abs. 2 Satz 1 vom zuständigen Amt. Die Anstellung von Lernenden der Rechtspflege erfolgt durch die obersten kantonalen Gerichte, die Gerichte und die Notariate.
 
@@ -2154,7 +2154,7 @@ Der bezahlte Vaterschaftsurlaub gemäss § 96 a Abs. 1 gilt bei Geburt eines Kin
 
 **53**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ### Übergangsbestimmungen zur Änderung vom 16. März 2022
 
@@ -2224,9 +2224,11 @@ III. Auf Angestellte, die ein Kind sechs Monate nach Inkrafttreten der Änderung
 
 <sup>59</sup> Fassung gemäss RRB vom 31. August 2022 (OS 77, 463; ABl 2022-09-09). In Kraft seit 1. Juli 2022.
 
+<sup>60</sup> Fassung gemäss RRB vom 21. September 2022 (OS 78, 17; ABl 2022-09-30). In Kraft seit 1. Januar 2023.
+
 **57**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ### Anhang 1: Einreihungsplan
 
@@ -2280,7 +2282,7 @@ Betriebsangestellte/r Chauffeur/Chauffeuse Datatypist/in Facharbeiter/in Gericht
 
 **59**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 [^hKlasse8hKlasse7hK-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2308,7 +2310,7 @@ Bibliothekar/in Chauffeur/Chauffeuse mbA Dokumentalist/in Equipenchef/in Fachfra
 
 **61**
 
-- 1\. 1. 23 - 119 Tierpfleger/in Verwaltungssekretär/in Weibel/in
+- 1\. 4. 23 - 120 Tierpfleger/in Verwaltungssekretär/in Weibel/in
 
 [^hKlasse11hKlasse10-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2336,7 +2338,7 @@ Abteilungstierpfleger/in Aktivierungsfachfrau/-mann HF Arbeitsagoge/-agogin Aufs
 
 **63**
 
-- 1\. 1. 23 - 119 Förster/in HF Gefreiter des Polizeikorps Gruppenchef/in Handwerkermeister/in Hausmeister/in Hauswirtschaftliche/r Betriebsleiter/in Hebamme Informatiker/in mbA Instruktor/in des Zivilschutzes Koch/Köchin mbA Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatssekretär/in mbA Obergärtner/in Orthoptist/in HF Personalfachverantwortliche/r Pflegefachfrau/-mann HF Polizeisoldat des Polizeikorps Rechnungsführer/in Revisionsassistent/in Sozialpädagoge/-pädagogin HF Spezialhandwerker/in Techniker/in Therapeut/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Vorarbeiter/in
+- 1\. 4. 23 - 120 Förster/in HF Gefreiter des Polizeikorps Gruppenchef/in Handwerkermeister/in Hausmeister/in Hauswirtschaftliche/r Betriebsleiter/in Hebamme Informatiker/in mbA Instruktor/in des Zivilschutzes Koch/Köchin mbA Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatssekretär/in mbA Obergärtner/in Orthoptist/in HF Personalfachverantwortliche/r Pflegefachfrau/-mann HF Polizeisoldat des Polizeikorps Rechnungsführer/in Revisionsassistent/in Sozialpädagoge/-pädagogin HF Spezialhandwerker/in Techniker/in Therapeut/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Vorarbeiter/in
 
 [^hKlasse14hKlasse13-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2347,7 +2349,7 @@ Abteilungstierpfleger/in Aktivierungsfachfrau/-mann HF Arbeitsagoge/-agogin Aufs
 Aktivierungsfachfrau/-mann HF Arbeitsagoge/-agogin Aufseher/in mbA Ausbildner/in Betriebsleiter/in Bewegungs- und Tanztherapeut/in HF Bibliothekar/in mbA Biomedizinische/r Analytiker/in HF Dokumentalist/in mbA Fachfrau/-mann für medizinisch-technische Radiologie HF Fachfrau/-mann Operationstechnik HF Fischereiaufseher/in Förster/in HF Gruppenchef/in Handwerkermeister/in Hauswirtschaftliche/r Betriebsleiter/in Hebamme Hebamme mbA Informatiker/in mbA Instruktor/in des Zivilschutzes Koch/Köchin mbA Korporal des Polizeikorps Küchenchef/in Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische Assistent/in Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatsassistent/in Notariatssekretär/in mbA Oberaufseher/in Obergärtner/in Obertierpfleger/in Orthoptist/in HF Personalberater/in RAV Personalfachverantwortliche/r Pflegefachfrau/-mann HF Rechnungssekretär/in Revisionsassistent/in Sozialpädagoge/-pädagogin HF Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA
 
 [^hKlasse15hKlasse14-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse15hKlasse14-2]: Fassung gemäss Berichtigung vom 12. März 2010 (OS 65, 155). In Kraft seit 1. Juli 2010. 1. 1. 23 - 119 55
+[^hKlasse15hKlasse14-2]: Fassung gemäss Berichtigung vom 12. März 2010 (OS 65, 155). In Kraft seit 1. Juli 2010. 1. 4. 23 - 120 55
 
 ### Klasse 16,, <sup>39,</sup> <sup>44,</sup> <sup>49</sup>
 
@@ -2359,7 +2361,7 @@ Adjunkt/in Aktivierungsfachfrau/-mann HF mbA Architekt/in Assistenzstaatsanwalt/
 
 **67**
 
-- 1\. 1. 23 - 119 Biomedizinische/r Analytiker/in HF mbA Controller/in Ergotherapeut/in FH Ernährungsberater/in FH Fachfrau/-mann für medizinisch-technische Radiologie HF mbA Fachfrau/-mann Operationstechnik HF mbA Förster/in HF mbA Hauswirtschaftliche/r Betriebsleiter/in mbA Hebamme mbA Hebamme/Geburtshelfer FH Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Instruktor/in des Zivilschutzes Juristische/r Sekretär/in Küchenchef/in Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische Assistent/in Leiter/in Gebärabteilung Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatsassistent/in Notariatssekretär/in mbA Oberaufseher/in Obertierpfleger/in Organisator/in Orthoptist/in HF mbA Personalberater/in RAV Personalfachverantwortliche/r Pflegefachfrau/-mann HF mbA Pflegefachfrau/-mann HF mit Zusatzausbildung Pflegefachfrau/-mann FH Pflegeexperte/-in Physiotherapeut/in FH Psychologe/-login Rechnungssekretär/in Revisionsassistent/in Revisor/in Sektorleiter/in Sozialarbeiter/in Sozialpädagoge/-pädagogin FH Sozialpädagoge/-pädagogin HF mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Wachtmeister des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+- 1\. 4. 23 - 120 Biomedizinische/r Analytiker/in HF mbA Controller/in Ergotherapeut/in FH Ernährungsberater/in FH Fachfrau/-mann für medizinisch-technische Radiologie HF mbA Fachfrau/-mann Operationstechnik HF mbA Förster/in HF mbA Hauswirtschaftliche/r Betriebsleiter/in mbA Hebamme mbA Hebamme/Geburtshelfer FH Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Instruktor/in des Zivilschutzes Juristische/r Sekretär/in Küchenchef/in Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische Assistent/in Leiter/in Gebärabteilung Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatsassistent/in Notariatssekretär/in mbA Oberaufseher/in Obertierpfleger/in Organisator/in Orthoptist/in HF mbA Personalberater/in RAV Personalfachverantwortliche/r Pflegefachfrau/-mann HF mbA Pflegefachfrau/-mann HF mit Zusatzausbildung Pflegefachfrau/-mann FH Pflegeexperte/-in Physiotherapeut/in FH Psychologe/-login Rechnungssekretär/in Revisionsassistent/in Revisor/in Sektorleiter/in Sozialarbeiter/in Sozialpädagoge/-pädagogin FH Sozialpädagoge/-pädagogin HF mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Wachtmeister des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
 
 [^hKlasse16hKlasse15-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2369,7 +2371,7 @@ Adjunkt/in Aktivierungsfachfrau/-mann HF mbA Architekt/in Assistenzstaatsanwalt/
 
 Adjunkt/in Aktivierungsfachfrau/-mann HF mbA Architekt/in Assistent/in Assistenzstaatsanwalt/-anwältin Berufsberater/in Bewegungs- und Tanztherapeut/in HF mbA Controller/in Ergotherapeut/in FH mbA Ernährungsberater/in FH mbA Förster/in HF mbA Gefängnisverwalter/in Gerichtsschreiber/in an einem Bezirksgericht Hauswirtschaftliche/r Betriebsleiter/in mbA Hebamme/Geburtshelfer FH mbA Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Inspektor/in Instruktor/in des Zivilschutzes Juristische/r Sekretär/in Küchenchef/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notariatsassistent/in
 
-- 1\. 1. 23 - 119 Oberaufseher/in Organisator/in Orthoptist/in HF mbA Personalfachverantwortliche/r Pflegeexperte/-in Pflegefachfrau/-mann FH mbA Pflegefachfrau/-mann mit Zusatzausbildung mbA Physiotherapeut/in FH mbA Psychologe/-login Rechnungssekretär/in Revisor/in Sektorleiter/in Sozialarbeiter/in Sozialpädagoge/-pädagogin FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Therapeut/in mbA Wachtmeister mbA des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+- 1\. 4. 23 - 120 Oberaufseher/in Organisator/in Orthoptist/in HF mbA Personalfachverantwortliche/r Pflegeexperte/-in Pflegefachfrau/-mann FH mbA Pflegefachfrau/-mann mit Zusatzausbildung mbA Physiotherapeut/in FH mbA Psychologe/-login Rechnungssekretär/in Revisor/in Sektorleiter/in Sozialarbeiter/in Sozialpädagoge/-pädagogin FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Therapeut/in mbA Wachtmeister mbA des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
 
 [^hKlasse17hKlasse16-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2389,7 +2391,7 @@ Abteilungschef/in Adjunkt/in Architekt/in Assistenzarzt/-ärztin Assistenzstaats
 
 **69**
 
-- 1\. 1. 23 - 119 Gerichtsschreiber/in an einem obersten kantonalen Gericht Gerichtsschreiber/in an einem Rekursgericht Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Inspektor/in Juristische/r Sekretär/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notar/-Stellvertreter/in Oberassistent/in Organisator/in Personalbereichsleiter/in Pflegewissenschafter/in Physiowissenschafter/in Psychologe/-login Revisor/in Sektorleiter/in Sozialarbeiter/in mbA Sozialpädagogin/Sozialpädagoge FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+- 1\. 4. 23 - 120 Gerichtsschreiber/in an einem obersten kantonalen Gericht Gerichtsschreiber/in an einem Rekursgericht Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Inspektor/in Juristische/r Sekretär/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notar/-Stellvertreter/in Oberassistent/in Organisator/in Personalbereichsleiter/in Pflegewissenschafter/in Physiowissenschafter/in Psychologe/-login Revisor/in Sektorleiter/in Sozialarbeiter/in mbA Sozialpädagogin/Sozialpädagoge FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
 
 [^hKlasse19hKlasse18-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2409,7 +2411,7 @@ Abteilungschef/in Adjunkt/in mbA Architekt/in mbA Assistenzarzt/-ärztin Bezirks
 
 **71**
 
-- 1\. 1. 23 - 119 Informatikspezialist/in mbA Informations- und Dokumentationsspezialist/in mbA Ingenieur/in mbA Juristische/r Sekretär/in mbA Kreisforstmeister/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Gerichtsschreiber/in Verwaltungsgericht Leitende/r Psychologe/-login Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in des Pflegedienstes Leiter/in Fachentwicklung Pflege Leiter/in Fachentwicklung Physiotherapie Leiter/in medizinisch-technische Radiologie Leiter/in Therapie Leutnant des Polizeikorps Notar/in-Stellvertreter/in Oberarzt/-ärztin Oberassistent/in Personalbereichsleiter/in Revisor/in mbA Spitalarzt/-ärztin Steuerkommissär/in mbA Wissenschaftliche/r Abteilungsleiter/in Wissenschaftliche/r Bibliothekar/in mbA Wissenschaftliche/r Mitarbeiter/in mbA
+- 1\. 4. 23 - 120 Informatikspezialist/in mbA Informations- und Dokumentationsspezialist/in mbA Ingenieur/in mbA Juristische/r Sekretär/in mbA Kreisforstmeister/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Gerichtsschreiber/in Verwaltungsgericht Leitende/r Psychologe/-login Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in des Pflegedienstes Leiter/in Fachentwicklung Pflege Leiter/in Fachentwicklung Physiotherapie Leiter/in medizinisch-technische Radiologie Leiter/in Therapie Leutnant des Polizeikorps Notar/in-Stellvertreter/in Oberarzt/-ärztin Oberassistent/in Personalbereichsleiter/in Revisor/in mbA Spitalarzt/-ärztin Steuerkommissär/in mbA Wissenschaftliche/r Abteilungsleiter/in Wissenschaftliche/r Bibliothekar/in mbA Wissenschaftliche/r Mitarbeiter/in mbA
 
 [^hKlasse21hKlasse20-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2437,7 +2439,7 @@ Amtschef/in Bezirksrichter/in Chef/in Fach- und Rechtsdienst Chefrevisor/in
 
 **73**
 
-- 1\. 1. 23 - 119 Chefsteuerkommissär/in Erste/r Leitende/r Gerichtsschreiber/in am Bezirksgericht Zürich Hauptabteilungschef/in Hauptmann des Polizeikorps Jugendanwalt/-anwältin Leitende/r Gerichtsschreiber/in am Handelsgericht Leitende/r Gerichtsschreiber/in am Obergericht Leiter/in des Pflegedienstes Notar/in Oberarzt/-ärztin Richter/in am Steuerrekursgericht Staatsanwalt/-anwältin Statthalter/in Stellvertretende/r Kanzleichef/in des Baurekursgerichts
+- 1\. 4. 23 - 120 Chefsteuerkommissär/in Erste/r Leitende/r Gerichtsschreiber/in am Bezirksgericht Zürich Hauptabteilungschef/in Hauptmann des Polizeikorps Jugendanwalt/-anwältin Leitende/r Gerichtsschreiber/in am Handelsgericht Leitende/r Gerichtsschreiber/in am Obergericht Leiter/in des Pflegedienstes Notar/in Oberarzt/-ärztin Richter/in am Steuerrekursgericht Staatsanwalt/-anwältin Statthalter/in Stellvertretende/r Kanzleichef/in des Baurekursgerichts
 
 [^hKlasse24hKlasse23-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2477,11 +2479,11 @@ Chef/in des Steueramtes Kommandant/in (Oberst) des Polizeikorps Leitende/r Obers
 
 **75**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 **77**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 ## Weitere Fussnoten
 
