@@ -3,11 +3,11 @@ canton: ZH
 number: "181.40"
 title: Personalverordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich
 language: de
-version: "2019-01-01"
-nachtrag: "104"
-valid_until: 2023-01-26
+version: "2023-01-01"
+nachtrag: "120"
+valid_until: 2024-01-01
 adopted: 2010-05-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_40-2010_05_11-2012_01_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_40-2010_05_11-2012_01_01-120.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 23 - 120
 
 [^2-1]: Fassung gemäss B vom 5. April 2016 (OS 71, 269; ABl 2016-04-22). In Kraft seit 1. September 2016 (ABl 2016-06-10).
 [^2-2]: LS 181.10.
@@ -170,7 +170,7 @@ Der Kirchenrat legt für die kirchlichen Berufe Aufgaben und Anforderungen fest.
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 23 - 120
 
 ### D. Anwendbares Recht
 
@@ -277,7 +277,7 @@ Das Arbeitsverhältnis von Pfarrerinnen, Pfarrern und Angestellten ist öffentli
 
 **5**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Die Anstellung von Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 der Kirchenordnung[^23-1] gilt als befristetes Anstellungsverhältnis. Sie erfolgt auf bestimmte Dauer oder bis zum Wegfall des Grundes, welcher der Errichtung einer Stellvertretung zugrunde liegt. Abs. 2 ist nicht anwendbar.
 
@@ -393,7 +393,7 @@ Die Anstellungsinstanz belegt Gründe, die Anlass zu einer Kündigung geben. Sie
 
 **7**
 
-- 1\. 4. 19 - 104 § 31. <sup>1</sup> Eine Kündigung aus wichtigen Gründen kann beidseitig, ohne Einhaltung von Fristen, jederzeit erfolgen.
+- 1\. 4. 23 - 120 § 31. <sup>1</sup> Eine Kündigung aus wichtigen Gründen kann beidseitig, ohne Einhaltung von Fristen, jederzeit erfolgen.
 
 **c. Fristlos aus wichtigen Gründen**
 
@@ -491,7 +491,7 @@ Der Rücktritt gewählter Pfarrerinnen und Pfarrer sowie die Abberufung richten 
 
 **9**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Die Auflösung erfolgt in der Regel auf das Ende des dritten der Invaliderklärung folgenden Monats oder, falls der Feststellung der Invalidität eine Dienstaussetzung von mehr als drei Monaten vorausgegangen ist, auf das Ende des nächsten Monats der Dienstaussetzung. Eine Auflösung ist der betreffenden Person mindestens einen Monat im Voraus mitzuteilen.
 
@@ -583,7 +583,7 @@ c.[^39-4] Dem Arbeitsverhältnis liegt keine Weiterbeschäftigung gemäss § 24 
 
 **11**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Die Abfindung wird nach den Umständen des Einzelfalls festgelegt. Angemessen mitberücksichtigt werden insbesondere die persönlichen Verhältnisse, die Dienstjahre, der Grund der Beendigung des Arbeitsverhältnisses sowie die Wahrscheinlichkeit, eine neue Arbeitsstelle zu finden.
 
@@ -668,7 +668,7 @@ Der Weiterzug von personalrechtlichen Anordnungen richtet sich nach dem Kircheng
 
 **13**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Ausgenommen sind Auseinandersetzungen, die für Pfarrerinnen, Pfarrer und Angestellte hinsichtlich der Ausübung ihres Amtes oder Dienstes keine nachteiligen Folgen haben.
 
@@ -750,7 +750,7 @@ Die Bekanntgabe von Personendaten von Pfarrerinnen, Pfarrern und Angestellten ri
 
 **15**
 
-- 1\. 4. 19 - 104 § 56. <sup>1</sup> Der Lohn bildet das Entgelt für die gesamte Tätigkeit.
+- 1\. 4. 23 - 120 § 56. <sup>1</sup> Der Lohn bildet das Entgelt für die gesamte Tätigkeit.
 
 **Gesamtvergütung**
 
@@ -866,7 +866,7 @@ Wohnen gewählte Pfarrerinnen und Pfarrer, die gemäss Art. 122 der Kirchenordnu
 
 **17**
 
-- 1\. 4. 19 - 104 § 67. <sup>1</sup> Pfarrerinnen und Pfarrern, die ein Pfarrhaus oder eine Pfarrwohnung bewohnen, wird vom Lohn ein Mietwertanteil abgezogen. Der Kirchenrat setzt den Mietwertanteil fest.
+- 1\. 4. 23 - 120 § 67. <sup>1</sup> Pfarrerinnen und Pfarrern, die ein Pfarrhaus oder eine Pfarrwohnung bewohnen, wird vom Lohn ein Mietwertanteil abgezogen. Der Kirchenrat setzt den Mietwertanteil fest.
 
 **Pfarrhaus, Pfarrwohnung und Dienstwohnung**
 
@@ -968,7 +968,7 @@ Der Kirchenrat regelt in der Vollzugsverordnung[^76-1] den Ersatz von Sachschade
 
 **19**
 
-- 1\. 4. 19 - 104 § 78. <sup>1</sup> Pfarrerinnen, Pfarrern und Angestellten steht im Kalenderjahr ein Ferienanspruch von fünf Wochen zu. Er beträgt sechs Wochen ab Beginn des Kalenderjahres, in dem sie das 60. Altersjahr vollenden.
+- 1\. 4. 23 - 120 § 78. <sup>1</sup> Pfarrerinnen, Pfarrern und Angestellten steht im Kalenderjahr ein Ferienanspruch von fünf Wochen zu. Er beträgt sechs Wochen ab Beginn des Kalenderjahres, in dem sie das 60. Altersjahr vollenden.
 
 **Ferien**
 
@@ -1072,7 +1072,7 @@ Das Recht, Personalverbände zu gründen und diesen anzugehören, ist gewährlei
 
 **21**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Ordinierte Theologinnen und Theologen sind an das Ordinationsgelübde gemäss Art. 108 Abs. 3 der Kirchenordnung[^87-1] gebunden.
 
@@ -1170,7 +1170,7 @@ Das Recht, Personalverbände zu gründen und diesen anzugehören, ist gewährlei
 
 **23**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 23 - 120
 
 [^96-1]: Fassung gemäss B vom 26. November 2013 (OS 69, 98; ABl 2013-12-06). In Kraft seit 1. April 2014.
 [^96-2]: LS 181.401.
@@ -1273,7 +1273,7 @@ Dieser Verordnung widersprechende Verordnungen, Richtlinien, Weisungen und Besch
 
 **25**
 
-- 1\. 4. 19 - 104 § 107. <sup>1</sup> Die beim Inkrafttreten dieser Verordnung auf Amtsdauer gewählten Angestellten der Kirchgemeinden gelten ab diesem Zeitpunkt als unbefristet angestellt, sofern ihre Wahl oder Wiederwahl mit einem Vorbehalt in Bezug auf die Aufhebung der Amtsdauer erfolgt ist.
+- 1\. 4. 23 - 120 § 107. <sup>1</sup> Die beim Inkrafttreten dieser Verordnung auf Amtsdauer gewählten Angestellten der Kirchgemeinden gelten ab diesem Zeitpunkt als unbefristet angestellt, sofern ihre Wahl oder Wiederwahl mit einem Vorbehalt in Bezug auf die Aufhebung der Amtsdauer erfolgt ist.
 
 **Angestellte im Wahlverhältnis**
 
@@ -1319,12 +1319,12 @@ Die Anrechnung von Dienstjahren aus Arbeitsverhältnissen bei einer Kirchgemeind
 
 Der Kirchenrat bestimmt den Zeitpunkt des Inkrafttretens[^111-1] dieser Verordnung.
 
-[^112-1]: Fassung gemäss B vom 28. November 2018 (OS 74, 12). In Kraft seit 1. Januar 2019. 1. 4. 19 - 104 27
+[^112-1]: Fassung gemäss B vom 30. November 2022 (OS 78, 29). In Kraft seit 1. Januar 2023. 1. 4. 23 - 120 27
 
 ### Anhang: Beträge des Minimums sowie der Maxima der Lohnklassen
 
 [^112-1]
 
-**mittlerer oberer Bereich Bereich 65 792 71 259 67 854 73 491 70 255 76 091 73 007 79 073 76 142 82 468 79 699 86 320 83 696 90 649 88 169 95 494 93 164 100 884 98 659 106 855 104 736 113 437 111 415 120 672 118 723 128 587 125 671 136 111 134 352 145 514 143 765 155 709 152 921 165 625 163 917 177 534 175 759 190 360 188 480 204 138 202 124 218 915**
+**mittlerer oberer Bereich Bereich 67 466 73 753 69 581 76 063 72 042 78 754 74 866 81 841 78 080 85 354 81 727 89 341 85 826 93 822 90 412 98 836 95 516 104 415 101 169 110 595 107 402 117 407 114 251 124 896 121 745 133 088 128 869 140 875 137 771 150 607 147 423 161 159 156 812 171 422 168 088 183 748 180 231 197 023 193 276 211 283 207 267 226 577**
 
-Lohnklasse Minimum Maximum Maximum Maximum unterer unterer Bereich Bereich 1 50 610 59 719 2 52 195 61 591 3 54 042 63 769 4 56 160 66 269 5 58 571 69 114 6 61 307 72 342 7 64 382 75 971 8 67 822 80 030 9 71 651 84 548 10 75 891 89 552 11 80 566 95 069 12 85 704 101 131 13 91 326 107 764 14 96 670 114 071 15 103 348 121 951 16 110 589 130 495 17 117 632 138 806 18 126 090 148 786 19 135 199 159 535 20 144 985 171 082 21 155 480 183 466
+Lohnklasse Minimum Maximum Maximum Maximum unterer unterer Bereich Bereich 1 52 381 61 181 2 54 022 63 098 3 55 933 65 330 4 58 126 67 891 5 60 621 70 805 6 63 453 74 112 7 66 635 77 830 8 70 196 81 990 9 74 159 86 617 10 78 547 91 744 11 83 386 97 396 12 88 704 103 606 13 94 522 110 402 14 100 053 116 863 15 106 965 124 936 16 114 460 133 688 17 121 749 142 202 18 130 503 152 428 19 139 931 163 439 20 105 059 175 269 21 160 922 187 956
