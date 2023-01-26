@@ -3,11 +3,11 @@ canton: ZH
 number: "182.10"
 title: Kirchenordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2021-07-02"
-nachtrag: "108"
-valid_until: 2023-01-26
+version: "2023-01-01"
+nachtrag: "120"
+valid_until: 2024-01-01
 adopted: 2009-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-120.html"
 text: pdf
 ---
 
@@ -43,7 +43,7 @@ Die Römisch-katholische Körperschaft des Kantons Zürich vereinigt die römisc
 
 **1**
 
-- 1\. 1. 20 - 107
+- 1\. 4. 23 - 120
 
 #### Art. 2
 
@@ -156,7 +156,7 @@ perschaft, welche das 18. Altersjahr zurückgelegt haben und im Besitze des Schw
 
 **3**
 
-- 1\. 1. 20 - 107
+- 1\. 4. 23 - 120
 
 [^10-1]: LS 161.
 
@@ -284,7 +284,7 @@ den an der Urne aus dem Kreis ihrer stimm- und wahlberechtigten Mitglieder gewä
 
 **5**
 
-- 1\. 1. 20 - 107
+- 1\. 4. 23 - 120
 
 #### Art. 22
 
@@ -396,7 +396,7 @@ a.[^27-4] Zusammenstellung, Bekanntmachung und Erwahrung von Wahl und Abstimmung
 
 **7**
 
-- 1\. 1. 20 - 107
+- 1\. 4. 23 - 120
 
 - f. Schaffung und Aufhebung von Dienststellen, welche von der Körperschaft finanziert werden,
 
@@ -535,7 +535,7 @@ der Mitgliedschaft in der Synode, in einer Kirchenpflege oder im Vorstand eines 
 
 **9**
 
-- 1\. 1. 20 - 107
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Kein Mitglied des Synodalrates darf gleichzeitig der Aufsichtskommission über Kirchgemeinden und Zweckverbände angehören.[^38-1]
 
@@ -648,7 +648,7 @@ Art. 43[^hVDieRekurskommiss-1] <sup>1</sup> Die Rekurskommission ist die Judikat
 
 **11**
 
-- 1\. 1. 20 - 107
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Sie setzt sich aus der Präsidentin oder dem Präsidenten und vier Mitgliedern zusammen.
 
@@ -766,7 +766,7 @@ bestehenden Kirchgemeinden sind in einem Verzeichnis im Anhang aufgeführt.
 
 **13**
 
-- 1\. 1. 20 - 107
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Für die Neubildung, die Namensänderung, den Zusammenschluss und die Auflösung von Kirchgemeinden ist die Synode zuständig. Gebietsveränderungen bedürfen der Genehmigung des Synodalrates.
 
@@ -882,7 +882,7 @@ zusammenschliessen.[^61-1]
 
 **15**
 
-- 1\. 1. 20 - 107 Art. 62[^61-1] Die Kirchgemeinden und ihre Verbindungen unterstehen der Aufsicht der Aufsichtskommission über Kirchgemeinden und Zweckverbände sowie der Oberaufsicht des Synodalrates.
+- 1\. 4. 23 - 120 Art. 62[^61-1] Die Kirchgemeinden und ihre Verbindungen unterstehen der Aufsicht der Aufsichtskommission über Kirchgemeinden und Zweckverbände sowie der Oberaufsicht des Synodalrates.
 
 **Aufsicht**
 
@@ -1011,7 +1011,7 @@ Art. 73[^72a-1] <sup>1</sup> Die Finanzordnung[^72a-2] regelt für die Römisch-
 
 **17**
 
-- 1\. 1. 20 - 107
+- 1\. 4. 23 - 120
 
 [^72a-1]: Fassung gemäss B vom 12. April 2018 (OS 73, 427; ABl 2018-06-08). In Kraft seit 1. Januar 2019.
 [^72a-2]: LS 182.25.
@@ -1050,19 +1050,23 @@ Kirchgemeinden: umfassend das Gebiet folgender
 
 ### Gemeinden oder Gemeindeteile:
 
-Adliswil Adliswil Affoltern a. A. Aeugst a. A., Affoltern a. A., Hedingen, Obfelden, Ottenbach Andelfingen-Feuerthalen[^hGemeindenoderGemei-1], <sup>26</sup> Adlikon, Andelfingen, Benken, Dachsen, Feuerthalen, Flurlingen, Humlikon, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Stammheim, Trüllikon, Truttikon Bauma[^hGemeindenoderGemei-2] Bäretswil, Bauma, Fischenthal Birmensdorf Aesch, Birmensdorf, Uitikon Bonstetten Bonstetten, Stallikon, Wettswil a. A. Bülach Bachenbülach, Bülach, Hochfelden, Höri, Winkel Dielsdorf Bachs, Dielsdorf, Neerach, Niederglatt, Niederhasli, Niederweningen, Oberglatt, Oberweningen, Regensberg, Schleinikon, Schöfflisdorf, Steinmaur Dietikon Dietikon Dübendorf Dübendorf, Fällanden, Schwerzenbach Egg Egg, Maur, Mönchaltorf, Oetwil a. S. Elgg[^hGemeindenoderGemei-3] Elgg, Hagenbuch Geroldswil Geroldswil, Oetwil a. d. L., Weiningen Glattfelden-Eglisau-Rafz[^hGemeindenoderGemei-4] Eglisau, Glattfelden, Hüntwangen, Rafz,Stadel,Wasterkingen,Weiach,Wil Hausen-Mettmenstetten Hausen a. A., Kappel a. A., Knonau, Maschwanden, Mettmenstetten,
+Adliswil Adliswil Affoltern a. A. Aeugst a. A., Affoltern a. A., Hedingen, Obfelden, Ottenbach Andelfingen-Feuerthalen[^hGemeindenoderGemei-1],[^hGemeindenoderGemei-2], <sup>30</sup> Andelfingen, Benken, Dachsen, Feuerthalen, Flurlingen, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Stammheim, Trüllikon,
+
+Truttikon
+
+Bauma[^hGemeindenoderGemei-3] Bäretswil, Bauma, Fischenthal Birmensdorf Aesch, Birmensdorf, Uitikon Bonstetten Bonstetten, Stallikon, Wettswil a. A. Bülach Bachenbülach, Bülach, Hochfelden, Höri, Winkel Dielsdorf Bachs, Dielsdorf, Neerach, Niederglatt, Niederhasli, Niederweningen, Oberglatt, Oberweningen, Regensberg, Schleinikon, Schöfflisdorf, Steinmaur Dietikon Dietikon Dübendorf Dübendorf, Fällanden, Schwerzenbach Egg Egg, Maur, Mönchaltorf, Oetwil a. S. Elgg[^hGemeindenoderGemei-4] Elgg, Hagenbuch Geroldswil Geroldswil, Oetwil a. d. L., Weiningen Glattfelden-Eglisau-Rafz[^hGemeindenoderGemei-5] Eglisau, Glattfelden, Hüntwangen, Rafz,Stadel,Wasterkingen,Weiach,Wil Hausen-Mettmenstetten Hausen a. A., Kappel a. A., Knonau, Maschwanden, Mettmenstetten,
 
 Rifferswil
 
-Herrliberg Herrliberg Hinwil Hinwil Hombrechtikon[^hGemeindenoderGemei-5] Bubikon (Gemeindeteil Wolfhausen), Grüningen, Hombrechtikon Horgen[^hGemeindenoderGemei-6], <sup>28</sup> Horgen Illnau-Effretikon[^hGemeindenoderGemei-7] Brütten, Illnau-Effretikon (ohne Gemeindeteil Kyburg), Lindau Kilchberg Kilchberg Kloten Bassersdorf, Kloten, Nürensdorf Küsnacht-Erlenbach Erlenbach, Küsnacht Langnau a. A. Langnau a. A.
+Herrliberg Herrliberg Hinwil Hinwil Hombrechtikon[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Wolfhausen), Grüningen, Hombrechtikon Horgen[^hGemeindenoderGemei-7], <sup>28</sup> Horgen Illnau-Effretikon[^hGemeindenoderGemei-8] Brütten, Illnau-Effretikon (ohne Gemeindeteil Kyburg), Lindau Kilchberg Kilchberg Kloten Bassersdorf, Kloten, Nürensdorf Küsnacht-Erlenbach Erlenbach, Küsnacht Langnau a. A. Langnau a. A.
 
 Männedorf-Uetikon a. S. Männedorf, Uetikon a. S.
 
-Meilen Meilen Oberengstringen Oberengstringen, Unterengstringen Oberrieden Oberrieden Opfikon Opfikon Pfäffikon Fehraltorf, Hittnau, Pfäffikon, Russikon Regensdorf Boppelsen, Buchs, Dällikon, Dänikon, Hüttikon, Otelfingen, Regensdorf Rheinau Rheinau Richterswil Richterswil Rickenbach-Seuzach[^hGemeindenoderGemei-8] Altikon, Dägerlen, Dinhard, Ellikon a. d. Th., Elsau, Hettlingen, Rickenbach, Seuzach, Thalheim a. d. Th., Wiesen-
+Meilen Meilen Oberengstringen Oberengstringen, Unterengstringen Oberrieden Oberrieden Opfikon Opfikon Pfäffikon Fehraltorf, Hittnau, Pfäffikon, Russikon Regensdorf Boppelsen, Buchs, Dällikon, Dänikon, Hüttikon, Otelfingen, Regensdorf Rheinau Rheinau Richterswil Richterswil Rickenbach-Seuzach[^hGemeindenoderGemei-9] Altikon, Dägerlen, Dinhard, Ellikon a. d. Th., Elsau, Hettlingen, Rickenbach, Seuzach, Thalheim a. d. Th., Wiesen-
 
 dangen
 
-Rümlang Rümlang Rüti[^hGemeindenoderGemei-5] Bubikon (Gemeindeteil Bubikon), Dürnten, Rüti Schlieren Schlieren St. Petrus Embrachertal[^hGemeindenoderGemei-9] Embrach, Freienstein-Teufen, Lufingen, Oberembrach, Rorbas St. Pirminius Pfungen[^hGemeindenoderGemei-10] Berg a. I., Buch a. I., Dättlikon, Dorf, Flaach, Henggart, Neftenbach, Pfungen, Volken Stäfa Stäfa Thalwil-Rüschlikon Rüschlikon, Thalwil Turbenthal Turbenthal, Wila, Wildberg
+Rümlang Rümlang Rüti[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Bubikon), Dürnten, Rüti Schlieren Schlieren St. Petrus Embrachertal[^hGemeindenoderGemei-10] Embrach, Freienstein-Teufen, Lufingen, Oberembrach, Rorbas St. Pirminius Pfungen[^hGemeindenoderGemei-11] Berg a. I., Buch a. I., Dättlikon, Dorf, Flaach, Henggart, Neftenbach, Pfungen, Volken Stäfa Stäfa Thalwil-Rüschlikon Rüschlikon, Thalwil Turbenthal Turbenthal, Wila, Wildberg
 
 **21**
 
@@ -1092,24 +1096,25 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-5] Bubikon (Gemeindeteil Bubikon), 
 
 **23**
 
-- 1\. 1. 20 - 107 Urdorf Uster Wädenswil[^hGemeindenoderGemei-11],[^hGemeindenoderGemei-12] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-7] Kyburg), Schlatt, Weisslingen, Zell Zollikon-Zumikon[^hGemeindenoderGemei-13] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
+- 1\. 4. 23 - 120 Urdorf Uster Wädenswil[^hGemeindenoderGemei-12],[^hGemeindenoderGemei-13] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-8] Kyburg), Schlatt, Weisslingen, Zell Zollikon-Zumikon[^hGemeindenoderGemei-14] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
 
-- 1\. 1. 20 - 107
+- 1\. 4. 23 - 120
 
 [^hGemeindenoderGemei-1]: Fassung gemäss B vom 7. April 2011 (OS 67, 396). In Kraft seit 1. Oktober 2012.
-[^hGemeindenoderGemei-2]: Die Gemeinde Sternenberg wurde nach dem Zusammenschluss mit der Gemeinde Bauma auf 1. Januar 2015 aus der Liste entfernt.
-[^hGemeindenoderGemei-3]: Die Gemeinde Hofstetten wurde nach dem Zusammenschluss mit der Gemeinde Elgg auf 1. Januar 2018 aus der Liste entfernt.
-[^hGemeindenoderGemei-4]: Fassung gemäss B vom 6. Dezember 2012 (OS 68, 207). In Kraft seit 1. Juni 2013.
-[^hGemeindenoderGemei-5]: Fassung gemäss B vom 23. Mai 2016 (OS 71, 457; ABl 2016-06-10). In Kraft seit 1. Januar 2017.
-[^hGemeindenoderGemei-6]: Fassung gemäss B vom 27. August 2018 (OS 73, 434; ABl 2018-09-14). In Kraft seit 1. Oktober 2018.
-[^hGemeindenoderGemei-7]: Fassung gemäss B vom 23. Mai 2016 (OS 71, 455; ABl 2016-06-10). In Kraft seit 26. Oktober 2016.
-[^hGemeindenoderGemei-8]: Die Gemeinde Bertschikon wurde nach dem Zusammenschluss mit der Gemeinde Wiesendangen auf 1. Januar 2014 aus der Liste entfernt.
-[^hGemeindenoderGemei-9]: Fassung gemäss B vom 5. November 2015 (OS 71, 116). In Kraft seit 1. Juli 2016.
-[^hGemeindenoderGemei-10]: Fassung gemäss B vom 17. Juni 2021 (ABl 2021-07-02). In Kraft seit 2. Juli 2021. 1. 1. 20 - 107 19
-[^hGemeindenoderGemei-11]: Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
-[^hGemeindenoderGemei-12]: Die Kirchgemeinde Hirzel-Schönenberg-Hütten wurde nach dem Zusammenschluss der Politischen Gemeinden Horgen bzw. Wädenswil auf den 1. Januar 2020 aufgelöst und der entsprechenden Kirchgemeinde zugeordnet (OS 74, 565; ABl 2019-10-11). In Kraft seit 1. Januar 2020.
-[^hGemeindenoderGemei-13]: Fassung gemäss B vom 16. Juni 2011 (OS 67, 398). In Kraft seit 1. Oktober 2012.
+[^hGemeindenoderGemei-2]: Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
+[^hGemeindenoderGemei-3]: Die Gemeinde Sternenberg wurde nach dem Zusammenschluss mit der Gemeinde Bauma auf 1. Januar 2015 aus der Liste entfernt.
+[^hGemeindenoderGemei-4]: Die Gemeinde Hofstetten wurde nach dem Zusammenschluss mit der Gemeinde Elgg auf 1. Januar 2018 aus der Liste entfernt.
+[^hGemeindenoderGemei-5]: Fassung gemäss B vom 6. Dezember 2012 (OS 68, 207). In Kraft seit 1. Juni 2013.
+[^hGemeindenoderGemei-6]: Fassung gemäss B vom 23. Mai 2016 (OS 71, 457; ABl 2016-06-10). In Kraft seit 1. Januar 2017.
+[^hGemeindenoderGemei-7]: Fassung gemäss B vom 27. August 2018 (OS 73, 434; ABl 2018-09-14). In Kraft seit 1. Oktober 2018.
+[^hGemeindenoderGemei-8]: Fassung gemäss B vom 23. Mai 2016 (OS 71, 455; ABl 2016-06-10). In Kraft seit 26. Oktober 2016.
+[^hGemeindenoderGemei-9]: Die Gemeinde Bertschikon wurde nach dem Zusammenschluss mit der Gemeinde Wiesendangen auf 1. Januar 2014 aus der Liste entfernt.
+[^hGemeindenoderGemei-10]: Fassung gemäss B vom 5. November 2015 (OS 71, 116). In Kraft seit 1. Juli 2016.
+[^hGemeindenoderGemei-11]: Fassung gemäss B vom 17. Juni 2021 (ABl 2021-07-02). In Kraft seit 2. Juli 2021.
+[^hGemeindenoderGemei-12]: Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
+[^hGemeindenoderGemei-13]: Die Kirchgemeinde Hirzel-Schönenberg-Hütten wurde nach dem Zusammenschluss der Politischen Gemeinden Horgen bzw. Wädenswil auf den 1. Januar 2020 aufgelöst und der entsprechenden Kirchgemeinde zugeordnet (OS 74, 565; ABl 2019-10-11). In Kraft seit 1. Januar 2020.
+[^hGemeindenoderGemei-14]: Fassung gemäss B vom 16. Juni 2011 (OS 67, 398). In Kraft seit 1. Oktober 2012.
 
 ## Weitere Fussnoten
 
-- [26] Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
+- [30] Fassung gemäss B vom 28. November 2022 (ABl 2022-12-09). In Kraft seit 1. Januar 2023. 1. 4. 23 - 120 19
