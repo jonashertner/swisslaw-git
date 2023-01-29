@@ -4,11 +4,11 @@ title: "Ordinanza del 2 novembre 2022 sui miglioramenti strutturali nell’agric
 short: OMSt
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: it
-version: 2023-01-01
+version: 2023-01-30
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-754-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20230130/it/xml/fedlex-data-admin-ch-eli-cc-2022-754-20230130-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230130/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230101/it"
 
 (Ordinanza sui miglioramenti strutturali, OMSt)
 
-del 2 novembre 2022 (Stato 1° gennaio 2023)
+del 2 novembre 2022 (Stato 30 gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1554,7 +1554,7 @@ Allegato 6[^t-1]
 
 ## Aiuti finanziari per provvedimenti supplementari nell’ambito dei miglioramenti strutturali
 
-[^t-1]: La correzione del 29 dic. 2022 concerne soltanto il testo francese ([RU 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870)).
+[^t-1]: Le correzioni del 29 dic. 2022 e del 30 gen. 2023 concernono soltanto il testo francese ([RU 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870), [2023 36](https://fedlex.data.admin.ch/eli/oc/2023/36)).
 
 ### 1. Credito di investimento per l’aiuto iniziale per promuovere l’acquisto di aziende agricole e fondi agricoli (art. 40 cpv. 2 lett. a)
 

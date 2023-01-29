@@ -4,11 +4,11 @@ title: "Ordonnance du 2 novembre 2022 sur les améliorations structurelles dans 
 short: OAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: fr
-version: 2023-01-01
+version: 2023-01-30
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-754-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20230130/fr/xml/fedlex-data-admin-ch-eli-cc-2022-754-20230130-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230130/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230101/fr"
 
 (Ordonnance sur les améliorations structurelles, OAS)
 
-du 2 novembre 2022 (État le 1<sup>er</sup> janvier 2023)
+du 2 novembre 2022 (État le 30 janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -363,7 +363,7 @@ La remise en état périodique visée à l’al. 1, let. c, comprend:
 
 <sup>5</sup> La norme SIA 406 du 1<sup>er</sup> décembre 1991 «Contenu et présentation des projets d’améliorations foncières»[^18-1] s’applique.
 
-[^18-1]: La norme peut être obtenue contre paiement auprès de la Société suisse des ingénieurs et des architectes à l’adresse suivante: www.sia.ch &gt; Services &gt; sia-norm. Elle peut être consultée gratuitement auprès de l’Office fédéral de l’agriculture, Schwarzenburgstrasse 165, 3003 Berne.
+[^18-1]: La norme peut être obtenue contre paiement auprès de la Société suisse des ingénieurs et des architectes à l’adresse suivante: [www.sia.ch](http://www.sia.ch) &gt; Services &gt; sia-norm. Elle peut être consultée gratuitement auprès de l’Office fédéral de l’agriculture, Schwarzenburgstrasse 165, 3003 Berne.
 
 #### Art. 19
 
@@ -649,7 +649,7 @@ Lorsque deux exploitations ou plus construisent en commun un bâtiment d’explo
 - a. si elles sont reconnues en tant que communauté par le service cantonal compétent;
 - b. si un contrat de collaboration est conclu dont la durée minimale est de 15 ans en cas de soutien sous la forme de contributions, ou d’une durée correspondant à celle du crédit d’investissement dans le cas d’un soutien accordé exclusivement sous la forme de crédits d’investissement.
 
-[^34-1]: La version applicable du guide peut être consultée à l’adresse suivante: www.blw.admin.ch &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
+[^34-1]: La version applicable du guide peut être consultée à l’adresse suivante: [www.blw.admin.ch](https://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Prestations écologiques requises &gt; Bilan de fumure équilibré et analyses du sol (art. 13 OPD).
 
 #### Art. 35
 
@@ -680,7 +680,7 @@ Les coûts d’étude et de conseil sont imputables en plus des coûts visés à
 
 <sup>3</sup> Des contributions aux coûts supplémentaires liés à des difficultés particulières sont octroyées dans le cas des bâtiments d’exploitation pour les animaux consommant du fourrage grossier et les bâtiments d’alpage. Elles ne sont pas prises en compte pour la détermination de la contribution cantonale. Sont considérés comme des difficultés particulières les coûts de transport extraordinaires, un terrain de construction difficile, une configuration spéciale du terrain, les risques naturels et les particularités climatiques.
 
-[^37-1]: Les objectifs environnementaux pour l’agriculture peuvent être consultés à l’adresse suivante: www. bafu.admin.ch &gt; Thèmes &gt; Biodiversité &gt; Publications et études &gt; Recherche «UW-0820-F».
+[^37-1]: Les objectifs environnementaux pour l’agriculture peuvent être consultés à l’adresse suivante: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Thèmes &gt; Biodiversité &gt; Publications et études &gt; Recherche «UW-0820-F».
 
 #### Art. 38
 
@@ -704,7 +704,7 @@ Les coûts d’étude et de conseil sont imputables en plus des coûts visés à
 
 <sup>4</sup> Les crédits de construction sont octroyés jusqu’à concurrence de 75 % des coûts imputables.
 
-[^39-1]: Les objectifs environnementaux pour l’agriculture peuvent être consultés à l’adresse suivante: www. bafu.admin.ch &gt; Thèmes &gt; Biodiversité &gt; Publications et études &gt; Recherche «UW-0820-F».
+[^39-1]: Les objectifs environnementaux pour l’agriculture peuvent être consultés à l’adresse suivante: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Thèmes &gt; Biodiversité &gt; Publications et études &gt; Recherche «UW-0820-F».
 
 ## Chapitre 5 Mesures supplémentaires d’améliorations structurelles
 
@@ -788,7 +788,7 @@ Les coûts suivants sont imputables en plus des coûts visés à l’art. 10:
 
 <sup>5</sup> L’OFAG peut fixer des mesures temporaires pour la réduction des émissions d’ammoniac ainsi que les taux de contributions correspondants.
 
-[^45-1]: Les objectifs environnementaux pour l’agriculture peuvent être consultés à l’adresse suivante: www. bafu.admin.ch &gt; Thèmes &gt; Biodiversité &gt; Publications et études &gt; Recherche «UW-0820-F».
+[^45-1]: Les objectifs environnementaux pour l’agriculture peuvent être consultés à l’adresse suivante: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Thèmes &gt; Biodiversité &gt; Publications et études &gt; Recherche «UW-0820-F».
 
 #### Art. 46
 
@@ -800,7 +800,7 @@ Les coûts suivants sont imputables en plus des coûts visés à l’art. 10:
 
 <sup>3</sup> Si des bâtiments existants sont soutenus par des taux forfaitaires conformément à l’annexe 6, les crédits d’investissement forfaitaires sont réduits en conséquence. Dans le cas de bâtiments déjà encouragés auparavant, le solde du crédit d’investissement existant est au minimum déduit des montants maximums.
 
-[^46-1]: Les objectifs environnementaux pour l’agriculture peuvent être consultés à l’adresse suivante: www. bafu.admin.ch &gt; Thèmes &gt; Biodiversité &gt; Publications et études &gt; Recherche «UW-0820-F».
+[^46-1]: Les objectifs environnementaux pour l’agriculture peuvent être consultés à l’adresse suivante: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Thèmes &gt; Biodiversité &gt; Publications et études &gt; Recherche «UW-0820-F».
 
 ## Chapitre 6 Projets de développement régional
 
@@ -1556,11 +1556,11 @@ Annexe 6[^t-1]
 
 ## Aides financières pour mesures supplémentaires d’améliorations structurelles
 
-[^t-1]: Mise à jour par l’erratum du 29 déc. 2022 ([RO 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870)).
+[^t-1]: Mise à jour par les errata du 29 déc. 2022 ([RO 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870)) et du 30 janv. 2023 ([RO 2023 36](https://fedlex.data.admin.ch/eli/oc/2023/36)).
 
 ### 1. Crédit d’investissement pour l’aide initiale accordée pour encourager l’acquisition d’exploitations agricoles et de biens-fonds (art. 40, al. 2, let. a)
 
-- 1\.1 Le montant du crédit d’investissement pour l’aide initiale est échelonné en fonction de la taille de l’exploitation. Le forfait représente 100 000 francs pour les exploitations à un UMOS et augmente ensuite par tranches de 25 000 francs pour chaque demi UMOS supplémentaire.
+- 1\.1 Le montant du crédit d’investissement pour l’aide initiale est échelonné en fonction de la taille de l’exploitation. Le forfait représente 125 000 francs pour les exploitations à un UMOS et augmente ensuite par tranches de 25 000 francs pour chaque demi UMOS supplémentaire.
 - 1\.2 Dans les régions visées à l’art. 6, al. 2, let. b et c, les exploitations de moins d’un UMOS obtiennent également un crédit d’investissement pour l’aide initiale d’un montant de 100 000 francs.
 - 1\.3 Les exploitants d’une entreprise de pêche ou de pisciculture exerçant leur profession à titre principal obtiennent un crédit d’investissement pour l’aide initiale de 110 000 francs.
 

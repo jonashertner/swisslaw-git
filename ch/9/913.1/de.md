@@ -4,11 +4,11 @@ title: "Verordnung vom 2. November 2022 über die Strukturverbesserungen in der 
 short: SVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: de
-version: 2023-01-01
+version: 2023-01-30
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-754-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20230130/de/xml/fedlex-data-admin-ch-eli-cc-2022-754-20230130-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230130/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20230101/de"
 
 (Strukturverbesserungsverordnung, SVV)
 
-vom 2. November 2022 (Stand am 1. Januar 2023)
+vom 2. November 2022 (Stand am 30. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1556,7 +1556,7 @@ Anhang 6[^t-1]
 
 ## Finanzhilfen für zusätzliche Strukturverbesserungsmassnahmen
 
-[^t-1]: Die Berichtigung vom 29. Dez. 2022 betrifft nur den französischen Text ([AS 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870)).
+[^t-1]: Die Berichtigungen vom 29. Dez. 2022 und 30. Jan. 2023 betreffen nur den französischen Text ([AS 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870); [2023 36](https://fedlex.data.admin.ch/eli/oc/2023/36)).
 
 ### 1 Investitionskredit für die Starthilfe zur Förderung des Erwerbs landwirtschaftlicher Betriebe und Grundstücke (Art. 40 Abs. 2 Bst. a)
 
