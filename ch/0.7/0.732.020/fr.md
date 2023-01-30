@@ -3,11 +3,11 @@ sr: "0.732.020"
 title: Convention du 17 juin 1994 sur la sûreté nucléaire
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380"
 language: fr
-version: 2020-05-19
+version: 2023-01-31
 adopted: 1994-06-17
 in_force: 1996-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380/20200519/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2380_2380_2380-20200519-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2380_2380_2380/20200519/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380/20230131/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2380_2380_2380-20230131-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2380_2380_2380/20230131/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 12 septembre 1996
 
 Entrée en vigueur pour la Suisse le 11 décembre 1996
 
-(Etat le 19 mai 2020)
+(État le 31 janvier 2023)
 
 [^t-1]: RO **1997** 2380; FF **1995** IV 1308 RO **1997** 2379
 
@@ -395,19 +395,20 @@ L’original de la présente Convention, dont les versions anglaise, arabe, chin
 
 *En foi de quoi,* les soussignés, dûment habilités à cet effet, ont signé la présente Convention. Fait à Vienne, le 17 juin 1994. (Suivent les signatures)
 
-Champ d’application le 19 mai 2020**[^t-2]**
+Champ d’application le 31 janvier 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>24 décembre</td><td>1996</td><td>24 mars</td><td>1997</td></tr>
 <tr><td>Albanie</td><td>29 juin</td><td>2011 A</td><td>27 septembre</td><td>2011</td></tr>
 <tr><td>Allemagne</td><td>20 janvier</td><td>1997</td><td>20 avril</td><td>1997</td></tr>
+<tr><td>Angola</td><td>21 septembre</td><td>2020 A</td><td>20 décembre</td><td>2020</td></tr>
 <tr><td>Arabie Saoudite</td><td>18 mars</td><td>2010 A</td><td>16 juin</td><td>2010</td></tr>
 <tr><td>Argentine</td><td>17 avril</td><td>1997</td><td>16 juillet</td><td>1997</td></tr>
 <tr><td>Arménie</td><td>21 septembre</td><td>1998</td><td>20 décembre</td><td>1998</td></tr>
 <tr><td>Australie</td><td>24 décembre</td><td>1996</td><td>24 mars</td><td>1997</td></tr>
 <tr><td>Autriche\*\*</td><td>26 août</td><td>1997</td><td>24 novembre</td><td>1997</td></tr>
-<tr><td>Bahreïn</td><td>11 octobre</td><td>2011 A</td><td>9 février</td><td>2011</td></tr>
+<tr><td>Bahreïn</td><td>11 novembre</td><td>2010 A</td><td>9 février</td><td>2011</td></tr>
 <tr><td>Bangladesh</td><td>21 septembre</td><td>1995</td><td>24 octobre</td><td>1996</td></tr>
 <tr><td>Bélarus</td><td>29 octobre</td><td>1998 A</td><td>27 janvier</td><td>1999</td></tr>
 <tr><td>Belgique</td><td>13 janvier</td><td>1997</td><td>13 avril</td><td>1997</td></tr>
@@ -422,10 +423,12 @@ Champ d’application le 19 mai 2020**[^t-2]**
 <tr><td>Chine</td><td>9 avril</td><td>1996</td><td>24 octobre</td><td>1996</td></tr>
 <tr><td>Chypre</td><td>17 mars</td><td>1999 A</td><td>15 juin</td><td>1999</td></tr>
 <tr><td>[tab] Communauté européenne de l’énergie atomique (CEEA/EURATOM)\*</td><td>31 janvier</td><td>2000 A</td><td>30 avril</td><td>2000</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>15 mars</td><td>2021 A</td><td>13 juin</td><td>2021</td></tr>
 <tr><td>Corée (Sud)</td><td>19 septembre</td><td>1995</td><td>24 octobre</td><td>1996</td></tr>
 <tr><td>Croatie</td><td>18 avril</td><td>1996</td><td>24 octobre</td><td>1996</td></tr>
 <tr><td>Cuba</td><td>3 juillet</td><td>2017</td><td>1<sup>er</sup> octobre</td><td>2017</td></tr>
-<tr><td>Danemark\*</td><td>13 novembre</td><td>1998</td><td>11 février</td><td>1999</td></tr>
+<tr><td>Danemark\* <sup>a</sup></td><td>13 novembre</td><td>1998</td><td>11 février</td><td>1999</td></tr>
+<tr><td>Groenland</td><td>26 septembre</td><td>2016</td><td>26 septembre</td><td>2016</td></tr>
 <tr><td>Émirats arabes unis</td><td>31 juillet</td><td>2009 A</td><td>29 octobre</td><td>2009</td></tr>
 <tr><td>Espagne</td><td>4 juillet</td><td>1995</td><td>24 octobre</td><td>1996</td></tr>
 <tr><td>Estonie</td><td>3 février</td><td>2006 A</td><td>4 mai</td><td>2006</td></tr>
@@ -468,6 +471,7 @@ Champ d’application le 19 mai 2020**[^t-2]**
 <tr><td>Pérou</td><td>1<sup>er</sup> juillet</td><td>1997</td><td>29 septembre</td><td>1997</td></tr>
 <tr><td>Pologne</td><td>14 juin</td><td>1995</td><td>24 octobre</td><td>1996</td></tr>
 <tr><td>Portugal</td><td>20 mai</td><td>1998</td><td>18 août</td><td>1998</td></tr>
+<tr><td>Qatar</td><td>14 décembre</td><td>2020 A</td><td>14 mars</td><td>2021</td></tr>
 <tr><td>République tchèque</td><td>18 septembre</td><td>1995</td><td>24 octobre</td><td>1996</td></tr>
 <tr><td>Roumanie</td><td>1<sup>er</sup> juin</td><td>1995</td><td>24 octobre</td><td>1996</td></tr>
 <tr><td>Royaume-Uni\*</td><td>17 janvier</td><td>1996</td><td>24 octobre</td><td>1996</td></tr>
@@ -490,7 +494,7 @@ Champ d’application le 19 mai 2020**[^t-2]**
 <tr><td>Ukraine\*</td><td>8 avril</td><td>1998</td><td>7 juillet</td><td>1998</td></tr>
 <tr><td>Uruguay</td><td>3 septembre</td><td>2003</td><td>2 décembre</td><td>2003</td></tr>
 <tr><td>Vietnam</td><td>16 avril</td><td>2010 A</td><td>15 juillet</td><td>2010</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. <sup>\*\*</sup> Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site de l’Agence internationale de l’énergie atomique (AIEA): https://www.iaea.org/&gt; Resources &gt; treaties &gt; treaties-under-IAEA-auspices, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. <sup>\*\*</sup> Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site de l’Agence internationale de l’énergie atomique (AIEA): https://www.iaea.org/&gt; Resources &gt; treaties &gt; treaties-under-IAEA-auspices, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Iles Féroé.</td></tr>
 </table>
 
-[^t-2]: [RO 1997 2380](https://fedlex.data.admin.ch/eli/oc/1997/2380_2380_2380), [2003 3314](https://fedlex.data.admin.ch/eli/oc/2003/461), [2007 2053](https://fedlex.data.admin.ch/eli/oc/2007/287), [2010 2189](https://fedlex.data.admin.ch/eli/oc/2010/304), [2012 381](https://fedlex.data.admin.ch/eli/oc/2012/31), [2015 1229](https://fedlex.data.admin.ch/eli/oc/2015/249), [2017 4079](https://fedlex.data.admin.ch/eli/oc/2017/487), [2019 2593](https://fedlex.data.admin.ch/eli/oc/2019/482), [2020 1865](https://fedlex.data.admin.ch/eli/oc/2020/381). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1997 2380](https://fedlex.data.admin.ch/eli/oc/1997/2380_2380_2380); [2003 3314](https://fedlex.data.admin.ch/eli/oc/2003/461); [2007 2053](https://fedlex.data.admin.ch/eli/oc/2007/287); [2010 2189](https://fedlex.data.admin.ch/eli/oc/2010/304); [2012 381](https://fedlex.data.admin.ch/eli/oc/2012/31); [2015 1229](https://fedlex.data.admin.ch/eli/oc/2015/249); [2017 4079](https://fedlex.data.admin.ch/eli/oc/2017/487); [2019 2593](https://fedlex.data.admin.ch/eli/oc/2019/482); [2020 1865](https://fedlex.data.admin.ch/eli/oc/2020/381); [2023 42](https://fedlex.data.admin.ch/eli/oc/2023/42). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

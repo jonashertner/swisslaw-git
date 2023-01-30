@@ -3,11 +3,11 @@ sr: "0.732.020"
 title: Übereinkommen vom 17. Juni 1994 über nukleare Sicherheit
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380"
 language: de
-version: 2020-05-19
+version: 2023-01-31
 adopted: 1994-06-17
 in_force: 1996-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380/20200519/de/xml/fedlex-data-admin-ch-eli-cc-1997-2380_2380_2380-20200519-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2380_2380_2380/20200519/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380/20230131/de/xml/fedlex-data-admin-ch-eli-cc-1997-2380_2380_2380-20230131-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2380_2380_2380/20230131/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1997** 2380; BBl **1995** IV 1343
 
 Abgeschlossen in Wien am 17. Juni 1994 Von der Bundesversammlung genehmigt am 20. Juni 1996[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 12. September 1996 In Kraft getreten für die Schweiz am 11. Dezember 1996
 
-(Stand am 19. Mai 2020)
+(Stand am 31. Januar 2023)
 
 [^t-1]: [AS 1997 2379](https://fedlex.data.admin.ch/eli/oc/1997/2379_2379_2379)
 
@@ -389,15 +389,16 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Wien am 17. Juni 1994. (Es folgen die Unterschriften)
 
-Geltungsbereich am 19. Mai 2020**[^t-2]**
+Geltungsbereich am 31. Januar 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>29. Juni</td><td>2011 B</td><td>27. September</td><td>2011</td></tr>
+<tr><td>Angola</td><td>21. September</td><td>2020 B</td><td>20. Dezember</td><td>2020</td></tr>
 <tr><td>Argentinien</td><td>17. April</td><td>1997</td><td>16. Juli</td><td>1997</td></tr>
 <tr><td>Armenien</td><td>21. September</td><td>1998</td><td>20. Dezember</td><td>1998</td></tr>
 <tr><td>Australien</td><td>24. Dezember</td><td>1996</td><td>24. März</td><td>1997</td></tr>
-<tr><td>Bahrain</td><td>11. Oktober</td><td>2011 B</td><td>9. Februar</td><td>2011</td></tr>
+<tr><td>Bahrain</td><td>11. November</td><td>2010 B</td><td>9. Februar</td><td>2011</td></tr>
 <tr><td>Bangladesch</td><td>21. September</td><td>1995</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Belarus</td><td>29. Oktober</td><td>1998 B</td><td>27. Januar</td><td>1999</td></tr>
 <tr><td>Belgien</td><td>13. Januar</td><td>1997</td><td>13. April</td><td>1997</td></tr>
@@ -408,7 +409,8 @@ Geltungsbereich am 19. Mai 2020**[^t-2]**
 <tr><td>Bulgarien</td><td>8. November</td><td>1995</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Chile</td><td>20. Dezember</td><td>1996</td><td>20. März</td><td>1997</td></tr>
 <tr><td>China</td><td>9. April</td><td>1996</td><td>24. Oktober</td><td>1996</td></tr>
-<tr><td>Dänemark\*</td><td>13. November</td><td>1998</td><td>11. Februar</td><td>1999</td></tr>
+<tr><td>Dänemark\* <sup>a</sup></td><td>13. November</td><td>1998</td><td>11. Februar</td><td>1999</td></tr>
+<tr><td>Grönland</td><td>26. September</td><td>2016</td><td>26. September</td><td>2016</td></tr>
 <tr><td>Deutschland</td><td>20. Januar</td><td>1997</td><td>20. April</td><td>1997</td></tr>
 <tr><td>Estland</td><td>3. Februar</td><td>2006 B</td><td>4. Mai</td><td>2006</td></tr>
 <tr><td>[tab] Europäische Atomgemeinschaft (EURATOM)\*</td><td>31. Januar</td><td>2000 B</td><td>30. April</td><td>2000</td></tr>
@@ -426,6 +428,8 @@ Geltungsbereich am 19. Mai 2020**[^t-2]**
 <tr><td>Kambodscha</td><td>5. April</td><td>2012 B</td><td>4. Juli</td><td>2012</td></tr>
 <tr><td>Kanada</td><td>12. Dezember</td><td>1995</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Kasachstan</td><td>10. März</td><td>2010</td><td>8. Juni</td><td>2010</td></tr>
+<tr><td>Katar</td><td>14. Dezember</td><td>2020 B</td><td>14. März</td><td>2021</td></tr>
+<tr><td>Kongo (Kinshasa)</td><td>15. März</td><td>2021 B</td><td>13. Juni</td><td>2021</td></tr>
 <tr><td>Korea (Süd-)</td><td>19. September</td><td>1995</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Kroatien</td><td>18. April</td><td>1996</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Kuba</td><td>3. Juli</td><td>2017</td><td>1. Oktober</td><td>2017</td></tr>
@@ -483,8 +487,9 @@ Geltungsbereich am 19. Mai 2020**[^t-2]**
 <tr><td>Jersey</td><td>17. Januar</td><td>1996</td><td>24. Oktober</td><td>1996</td></tr>
 <tr><td>Vietnam</td><td>16. April</td><td>2010 B</td><td>15. Juli</td><td>2010</td></tr>
 <tr><td>Zypern</td><td>17. März</td><td>1999 B</td><td>15. Juni</td><td>1999</td></tr>
+<tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für die Färöer.</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen</td></tr>
 <tr><td colspan="5">\*\* Einwendung. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht publiziert. Die französischen und englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): https://www.iaea.org/&gt; Resources &gt; treaties &gt; treaties-under-IAEA-auspices eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1997 2380](https://fedlex.data.admin.ch/eli/oc/1997/2380_2380_2380), [2003 3314](https://fedlex.data.admin.ch/eli/oc/2003/461), [2007 2053](https://fedlex.data.admin.ch/eli/oc/2007/287), [2010 2189](https://fedlex.data.admin.ch/eli/oc/2010/304), [2012 381](https://fedlex.data.admin.ch/eli/oc/2012/31), [2015 1229](https://fedlex.data.admin.ch/eli/oc/2015/249), [2017 4079](https://fedlex.data.admin.ch/eli/oc/2017/487), [2019 2593](https://fedlex.data.admin.ch/eli/oc/2019/482), [2020 1865](https://fedlex.data.admin.ch/eli/oc/2020/381). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1997 2380](https://fedlex.data.admin.ch/eli/oc/1997/2380_2380_2380); [2003 3314](https://fedlex.data.admin.ch/eli/oc/2003/461); [2007 2053](https://fedlex.data.admin.ch/eli/oc/2007/287); [2010 2189](https://fedlex.data.admin.ch/eli/oc/2010/304); [2012 381](https://fedlex.data.admin.ch/eli/oc/2012/31); [2015 1229](https://fedlex.data.admin.ch/eli/oc/2015/249); [2017 4079](https://fedlex.data.admin.ch/eli/oc/2017/487); [2019 2593](https://fedlex.data.admin.ch/eli/oc/2019/482); [2020 1865](https://fedlex.data.admin.ch/eli/oc/2020/381); [2023 42](https://fedlex.data.admin.ch/eli/oc/2023/42). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
