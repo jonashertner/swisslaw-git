@@ -4,12 +4,12 @@ number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
 version: 2023-01-01
-corrected: 2022-12-20
+corrected: 2023-01-31
 version_adopted: 2023-01-24
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3344/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3423/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -248,13 +248,19 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Als massgebendes Einkommen gilt das der Quellensteuer zugrunde liegende definitive Brutto-Einkommen des vorletzten Jahres.
 
-<sup>2</sup> Ist kein solches bekannt, wird auf das massgebende Bruttoeinkommen des Jahres vor dem Bezugsjahr abgestellt. Fehlt auch das massgebende Einkommen des Jahres vor dem Bezugsjahr, wird auf das voraussichtliche Bruttoeinkommen des Bezugsjahres abgestellt.
+<sup>2</sup> Es werden sachgemäss angewendet:
 
-<sup>3</sup> Das Brutto-Einkommen wird zu 75 Prozent angerechnet.
+- a) Art. 12a dieses Erlasses beim Zuzug einer Person aus dem Ausland oder einem anderen Kanton;
+- b) Art. 12b dieses Erlasses, wenn eine Person ihren Zivilstand im Jahr vor dem Bezugsjahr ändert;
+- c) Art. 12c dieses Erlasses, wenn eine Person in den zwei Jahren vor dem Bezugsjahr eine Ausbildung abgeschlossen oder aufgenommen hat.
+
+<sup>3</sup> Das massgebende Einkommen nach Abs. 1 und 2 dieser Bestimmung wird zu 75 Prozent angerechnet.
 
 <sup>4</sup> Die Steuerbehörde stellt die für die Berechnung der Anspruchsberechtigung notwendigen Steuerdaten zur Verfügung.
 
 <sup>5</sup> Das für Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union ermittelte Einkommen wird in die Kaufkraft des Wohnlandes umgerechnet. Massgebend ist der Index nach Art. 1 der Verordnung des Eidgenössischen Departementes des Innern über die Preisniveauindizes und die Durchschnittsprämien für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island und in Norwegen[^12bis-1].
+
+<sup>5<sup>bis</sup></sup> Bei einer nachträglichen Veränderung des massgebenden Einkommens nach Abs. 1 und 2 dieser Bestimmung führt die Sozialversicherungsanstalt die Neuberechnung der Prämienverbilligung auf Basis des veränderten Einkommens durch.
 
 <sup>6</sup> Bei nachträglich ordentlich veranlagten quellensteuerpflichtigen Personen wird das massgebende Einkommen nach Art. 12 Abs. 2 und 3 dieses Erlasses bestimmt.
 
