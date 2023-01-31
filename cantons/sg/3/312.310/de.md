@@ -3,20 +3,19 @@ canton: SG
 number: "312.310"
 title: Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren
 language: de
-version: 2017-01-01
-valid_until: 2023-01-31
-version_adopted: 2016-06-02
+version: 2023-02-01
+version_adopted: 2023-01-26
 adopted: 2006-07-06
 in_force: 2009-05-14
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/312.310"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2265/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3537/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren
 
-vom 06.07.2006 (Stand 01.01.2017)
+vom 06.07.2006 (Stand 01.02.2023)
 
 Gestützt auf Art. 12 und 12<sup>ter</sup> der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993[^ingress-1] (IKV) und Art. 13 der Verordnung der GDK über die Anerkennung und Nachprüfung von ausländischen Berufsqualifikationen in Osteopathie (Verordnung Ausland) vom 22. November 2012
 
@@ -47,7 +46,9 @@ der Vorstand der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinn
 <sup>1</sup> Die Gebühren betragen:
 
 - 1\. Gebühr für das Erfassen der Personendaten und der Angaben zum Diplom: Fr. 70.– bis 130.–
-- 2\. Gebühr für die Erteilung von Auskünften aus dem Register: Fr. 90.– bis 130.–
+- 2\.
+  - a) Gebühr für die Erteilung von Auskünften aus dem Register: Fr. 90.– bis 130.–
+  - b) Jährliche Gebühr für die Erteilung von Auskünften aus dem Register an eine öffentliche oder private Stelle über eine Standardschnittstelle Fr. 100.– bis 1000.–
 - 3\.
   - a) Gebühr für die Anerkennung einer ausländischen Berufsqualifikation sowie für die Nachprüfung der Qualifikation von Dienstleistungserbringenden gemäss Art. 8 VO Ausland je: Fr. 400.–
   - b) Ist die Prüfung des Anerkennungsgesuchs bzw. die Nachprüfung der Qualifikation sehr aufwendig, kann die Gebühr angemessen erhöht werden, jedoch höchstens auf je: Fr. 1000.–
@@ -69,8 +70,10 @@ der Vorstand der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinn
 
 #### Art. 4
 
-**In-Kraft-Treten**
+**Inkrafttreten[^4-1]**
 
-<sup>1</sup> Die Änderung vom 2. Juni 2016 tritt gleichzeitig mit der revidierten interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 (IKV) in Kraft.
+<sup>1</sup> Diese Verordnung tritt gleichzeitig mit der revidierten interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 in Kraft.
+
+[^4-1]: In Kraft getreten am 1. Januar 2008.
 
 nGS 44–80
