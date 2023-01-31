@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "412.215"
-title: Verordnung des Regierungsrates über die Berufsmaturität an den Berufsfachschulen
+title: Verordnung über die Berufsmaturität an den Berufsfachschulen
 short: BbM
 language: de
-version: 2022-01-01
-valid_until: 2023-01-31
-version_adopted: 2021-12-21
+version: 2023-02-01
+valid_until: 2026-07-31
+version_adopted: 2022-05-24
 adopted: 2015-04-27
 in_force: 2015-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.215"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2404/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2622/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Berufsmaturität an den Berufsfachschulen
+# Verordnung über die Berufsmaturität an den Berufsfachschulen
 
 BbM
 
 (BbM)
 
-vom 27.04.2015 (Stand 01.01.2022)
+vom 27.04.2015 (Stand 01.02.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -49,7 +49,7 @@ vom 27.04.2015 (Stand 01.01.2022)
 
 <sup>1</sup> Das Departement für Erziehung und Kultur (Departement) ernennt eine Berufsmaturitätskommission pro Berufsfachschule mit der Ausbildung zur Berufsmaturität.
 
-<sup>2</sup> Jede Berufsmaturitätskommission weist mindestens ein Mitglied der abgebenden Schulstufe und der Berufschulkommission auf.
+<sup>2</sup> Jede Berufsmaturitätskommission weist mindestens ein Mitglied der abgebenden Schulstufe und der Berufsfachschulkommission auf.
 
 <sup>3</sup> Die Berufsmaturitätskommission entscheidet auf Antrag der Schulleitung über das Bestehen des Aufnahmeverfahrens und der Berufsmaturitätsprüfung.
 
@@ -59,7 +59,7 @@ vom 27.04.2015 (Stand 01.01.2022)
 
 **Fachexpertinnen und -experten**
 
-<sup>1</sup> Die Berufsmaturitätskommissionen ernennen und entlassen Fachexpertinnen und -experten.
+<sup>1</sup> Die Berufsmaturitätskommissionen ernennen und entlassen Fachexpertinnen und ‑experten.
 
 <sup>2</sup> Fachexpertinnen und -experten sind zur Weiterbildung verpflichtet.
 
@@ -103,49 +103,77 @@ vom 27.04.2015 (Stand 01.01.2022)
 
 #### § 9
 
-**Empfehlung**
+**Anmeldung und einzureichende Unterlagen**
 
-<sup>1</sup> Die Lehrpersonen der von der Kandidatin oder vom Kandidaten zuletzt besuchten Schule geben mit der Anmeldung eine der folgenden Empfehlungen ab:
+<sup>1</sup> …
 
-Empfehlung A: vorbehaltlos empfohlen
+<sup>1<sup>bis</sup></sup> Die Kandidatinnen und Kandidaten haben sich rechtzeitig gemäss den Vorgaben der Berufsmaturitätsschulen zur Aufnahmeprüfung anzumelden.
 
-Empfehlung B: empfohlen
+<sup>2</sup> Die Klassenlehrperson der von der Kandidatin oder vom Kandidaten zuletzt besuchten Schule reicht der prüfenden Schule nach der Anmeldung das ausgefüllte Formular des Departements für Erziehung und Kultur mit der Einschätzung der Eignung der Kandidatin oder des Kandidaten ein. Mit dem Formular zur Einschätzung der Eignung wird eine der folgenden Empfehlungen abgegeben und begründet:
 
-Empfehlung C: bedingt empfohlen
-
-Empfehlung D: nicht empfohlen
-
-<sup>2</sup> Für Kandidatinnen und Kandidaten, welche die Prüfung während des ersten Lehrjahres absolvieren, wird eine Empfehlung der Berufsfachschullehrpersonen eingeholt.
+- 1\. Empfehlung A: vorbehaltlos empfohlen
+- 2\. Empfehlung B: empfohlen
+- 3\. Empfehlung C: bedingt empfohlen
+- 4\. Empfehlung D: nicht empfohlen
 
 #### § 10
 
 **Prüfung**
 
-<sup>1</sup> Es werden folgende Fächer schriftlich geprüft:
+<sup>1</sup> Alle Kandidatinnen und Kandidaten haben eine schriftliche Prüfung in den Fächern Deutsch und Mathematik zu absolvieren.
 
-- 1\. Deutsch
-- 2\. Französisch
-- 3\. Mathematik
+<sup>1<sup>bis</sup></sup> Wer in der schriftlichen Prüfung einen Notendurchschnitt von unter 3.5 erreicht, hat die Prüfung nicht bestanden und wird zur mündlichen Prüfung nicht mehr zugelassen.
+
+<sup>1<sup>ter</sup></sup> Eine mündliche Prüfung auf Französisch hat abzulegen, wer in der schriftlichen Prüfung die Aufnahmeprüfung nach den Bedingungen von § 11 Abs. 1 und Abs. 2 nicht bestanden und einen Notendurchschnitt von mindestens 3.5 erreicht hat.
 
 <sup>2</sup> Die Aufnahmeprüfung wird in der Regel in der 3. Klasse der Sekundarstufe I oder während des ersten Lehrjahres abgelegt.
 
-<sup>3</sup> Die Prüfung beinhaltet den Schulstoff der 3. Klasse der Sekundarstufe I, soweit er bis zum Prüfungszeitpunkt zu erarbeiten war.
+<sup>3</sup> Der Prüfungsstoff, der Prüfungszeitpunkt und die Prüfungsdauer werden mindestens ein halbes Jahr vor dem ersten Prüfungstermin in geeigneter Form publiziert.
+
+#### § 10a
+
+**Bewertung**
+
+<sup>1</sup> Die Leistungen werden wie folgt bewertet:
+
+- 1\. Note 6: sehr gut
+- 2\. Note 5: gut
+- 3\. Note 4: genügend
+- 4\. Note 3: nicht genügend
+- 5\. Note 2: schwach
+- 6\. Note 1: sehr schwach
+
+<sup>2</sup> Für die schriftlichen Teilprüfungen eines Fachs werden Zehntelnoten, für die mündliche Prüfung Viertelnoten gesetzt. Die Prüfungsnote, die sich aus den Teilprüfungen zusammensetzt, und die Bestehensnote werden auf eine Stelle nach dem Komma gerundet.
+
+<sup>3</sup> In der schriftlichen Prüfung werden die beiden Prüfungsfächer gleich gewichtet.
 
 #### § 11
 
 **Bestehen der Prüfung**
 
-<sup>1</sup> Die Aufnahmeprüfung hat bestanden,
+<sup>1</sup> Die Aufnahmeprüfung hat bestanden, wer in der schriftlichen Prüfung einen Notendurchschnitt von mindestens 4.0 erreicht.
 
-- 1\. wer einen Notendurchschnitt von 4.0 erreicht hat,
-- 2\. wer einen Notendurchschnitt von 3.7 erreicht hat und eine Empfehlung A besitzt,
-- 3\. wer einen Notendurchschnitt von 3.8 erreicht hat und eine Empfehlung B besitzt.
+<sup>2</sup> Bei Kandidatinnen und Kandidaten, die in der schriftlichen Prüfung eine Durchschnittsnote von weniger als 4.0 erreichen, wird die Empfehlung berücksichtigt. Aufgenommen werden auch Kandidatinnen und Kandidaten mit
 
-<sup>2</sup> Die Empfehlungen sind nur wirksam, wenn es sich bei der abgebenden Schule um eine staatliche Schule der obligatorischen Schulzeit handelt und die Schülerin oder der Schüler in den Prüfungsfächern das Niveau E der Sekundarschule besucht. Das Departement kann Empfehlungen privater Schulen für wirksam erklären.
+- 1\. Empfehlung A und einem Notendurchschnitt in der schriftlichen Prüfung von mindestens 3.7,
+- 2\. Empfehlung B und einem Notendurchschnitt in der schriftlichen Prüfung von mindestens 3.8 oder
+- 3\. Empfehlung C und einem Notendurchschnitt in der schriftlichen Prüfung von mindestens 3.9.
 
-<sup>3</sup> Die Schule kann ausnahmsweise eine Kandidatin oder einen Kandidaten trotz nicht bestandener Aufnahmeprüfung aufnehmen, wenn auf Grund besonderer Umstände sowie der Zeugnisse, der Beurteilung der Lehrpersonen der abgebenden Schule sowie der Examinationsberichte angenommen werden kann, dass sie oder er fähig ist, die gewünschte Abteilung zu durchlaufen.
+<sup>2<sup>bis</sup></sup> Wer aus schriftlicher und mündlicher Prüfung mindestens einen Notendurchschnitt von 4.0 erzielt, hat ebenfalls bestanden. Die schriftliche und die mündliche Prüfung werden gleich gewichtet.
+
+<sup>3</sup> Die Schule kann ausnahmsweise eine Kandidatin oder einen Kandidaten trotz nicht bestandener Aufnahmeprüfung auf Grund besonderer Umstände aufnehmen, wenn angenommen werden kann, dass die Schülerin oder der Schüler fähig ist, die Ausbildung zur Berufsmaturität zu durchlaufen.
 
 <sup>4</sup> Die bestandene Aufnahmeprüfung berechtigt zur Aufnahme des Berufsmaturitätsunterrichts innerhalb zweier Jahre.
+
+#### § 11a
+
+**Privatschulen und Privatunterricht**
+
+<sup>1</sup> Privatschulen können ihre Empfehlungen beim Departement anerkennen lassen. Eine Anerkennung im Zusammenhang mit dem Aufnahmeverfahren der kantonalen Maturitätsschulen gilt auch im Aufnahmeverfahren für die Ausbildung zur Berufsmaturität.
+
+<sup>2</sup> Kandidatinnen oder Kandidaten aus Privatschulen mit anerkannten Empfehlungen werden gleichbehandelt wie diejenigen aus öffentlichen Schulen.
+
+<sup>3</sup> Bei Kandidatinnen und Kandidaten aus einem Privatunterricht oder aus einer Privatschule, die über keine Anerkennung der Empfehlung verfügt, gilt die Prüfung als bestanden, wenn der Notendurchschnitt der schriftlichen Prüfung oder der Notendurchschnitt aus schriftlicher und mündlicher Prüfung mindestens 4.0 beträgt.
 
 #### § 12
 
@@ -169,7 +197,7 @@ Empfehlung D: nicht empfohlen
 
 <sup>2</sup> Alle übrigen Personen haben eine Aufnahmeprüfung der ausbildenden Schule zu bestehen, welche sich auf die Ausrichtung der Berufsmaturität bezieht. Genügende Vorleistungen können zur Dispensation von einzelnen Teilprüfungen führen. Die Schulen bieten Vorkurse und Beratung an.
 
-<sup>3</sup> Das Amt bestimmt die für die Durchschnittsnote massgebenden Fächer, die massgebenden Berufsfelder zur entsprechenden Ausrichtung der Berufsmaturität, die Fächer der Aufnahmeprüfungen, die anrechenbaren Vorleistungen sowie die Fächer, welche von den Berufsfachschullehrpersonen zur Empfehlung führen.
+<sup>3</sup> Das Amt bestimmt die für die Durchschnittsnote massgebenden Fächer, die massgebenden Berufsfelder zur entsprechenden Ausrichtung der Berufsmaturität, die Fächer der Aufnahmeprüfungen und die anrechenbaren Vorleistungen.
 
 <sup>4</sup> Die Aufnahme erfolgt definitiv.
 
