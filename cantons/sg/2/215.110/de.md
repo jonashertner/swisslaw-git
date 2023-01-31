@@ -3,20 +3,20 @@ canton: SG
 number: "215.110"
 title: Aufnahmereglement der Mittelschulen
 language: de
-version: 2020-08-01
-valid_until: 2023-01-31
-version_adopted: 2020-03-18
+version: 2023-02-01
+valid_until: 2025-09-30
+version_adopted: 2022-11-16
 adopted: 2025-08-13
 in_force: 2025-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/215.110"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2989/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3430/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Aufnahmereglement der Mittelschulen
 
-vom 25.06.2011 (Stand 01.08.2020)
+vom 25.06.2011 (Stand 01.02.2023)
 
 Der Erziehungsrat des Kantons St.Gallen
 
@@ -38,7 +38,7 @@ als Reglement:[^ingress-2]
 <sup>1</sup> Dieser Erlass regelt:
 
 - a) die Aufnahme in die erste Klasse des Gymnasiums, der Wirtschaftsmittelschule, der Informatikmittelschule oder der Fachmittelschule;
-- b) den Übertritt in eine höhere Klasse des Gymnasiums, der Wirtschaftsmittelschule, der Informatikmittelschule oder der Fachmittelschule.
+- b) den Übertritt in eine andere Klasse des Gymnasiums, der Wirtschaftsmittelschule, der Informatikmittelschule oder der Fachmittelschule.
 
 #### Art. 2
 
@@ -83,7 +83,7 @@ als Reglement:[^ingress-2]
 <sup>1</sup> Zur Prüfung zugelassen wird, wer im Zeitpunkt der Aufnahme:
 
 - a) in das Gymnasium die zweite Klasse der Oberstufe der Volksschule absolviert und höchstens das 17. Altersjahr erfüllt hat. Für die Aufnahme in das Schwerpunktfach Musik wird der Besuch von drei Semestern Instrumentalunterricht während der Oberstufe vorausgesetzt. Für die Aufnahme in das Schwerpunktfach Latein wird der Besuch von wenigstens drei Semestern Lateinunterricht während der Oberstufe vorausgesetzt;
-- b) in die Wirtschaftsmittelschule, die Informatikmittelschule oder die Fachmittelschule die dritte Klasse der Oberstufe der Volksschule absolviert und höchstens das 18. Altersjahr erfüllt hat. Für die Aufnahme in das Schwerpunktfach Musik wird der Besuch von fünf Semestern Instrumentalunterricht während der Oberstufe vorausgesetzt.
+- b) in die Wirtschaftsmittelschule, die Informatikmittelschule oder die Fachmittelschule die dritte Klasse der Oberstufe der Volksschule absolviert und höchstens das 18. Altersjahr erfüllt hat.
 
 <sup>2</sup> Für die Aufnahme oder den Übertritt in ein höheres Schuljahr gilt das entsprechend höhere Altersjahr.
 
@@ -376,7 +376,7 @@ als Reglement:[^ingress-2]
 
 <sup>2</sup> Der Wechsel kann von der Rektorin oder dem Rektor abgelehnt werden, wenn die Bildung ausgeglichener Klassen beeinträchtigt wird.
 
-## III. Übertritt in eine höhere Klasse
+## III. Übertritt
 
 #### Art. 31
 
@@ -384,7 +384,9 @@ als Reglement:[^ingress-2]
 
 <sup>1</sup> Wer eine staatliche st.gallische Mittelschule besucht, kann prüfungsfrei in den gleichen Ausbildungsgang einer anderen staatlichen st.gallischen Mittelschule übertreten, wenn sachliche Gründe für einen Übertritt vorliegen und die Bildung ausgeglichener Klassen nicht beeinträchtigt wird.
 
-<sup>2</sup> Wer ein staatliches st.gallisches Gymnasium besucht, wird auf Gesuch hin von der Rektorin oder dem Rektor in die geeignete Klasse der Wirtschaftsmittelschule, der Informatikmittelschule oder der Fachmittelschule eingeteilt. Die Aufnahme erfolgt auf eine Probezeit von einem Semester.
+<sup>2</sup> Wer eine staatliche st.gallische Mittelschule besucht, kann in begründeten Fällen auf Gesuch hin in die geeignete Klasse eines anderen Ausbildungsgangs einer staatlichen st.gallischen Mittelschule eingeteilt werden. Die Aufnahme erfolgt auf eine Probezeit von einem Semester.
+
+<sup>2<sup>bis</sup></sup> Zuständig für die Beurteilung des Gesuchs nach Abs. 2 dieser Bestimmung ist die Rektorin oder der Rektor derjenigen staatlichen st.gallischen Mittelschule, an die der Übertritt erfolgen soll.
 
 <sup>3</sup> Verfügungen über Promotion und Disziplinarmassnahmen bleiben gültig.
 
