@@ -4,11 +4,11 @@ title: "Federal Act of 24 January 1991 on the Protection of Waters (Waters Prote
 short: WPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: en
-version: 2022-01-01
+version: 2023-02-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/en/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waters Protection Act, WPA)
 
-of 24 January 1991 (Status as of 1 January 2022)
+of 24 January 1991 (Status as of 1 February 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -75,16 +75,16 @@ Anyone who causes measures to be taken under this Act must bear the costs.
 In this Act:
 
 - a. *surface waters*: means water bodies and their beds including the bottoms and banks, together with the fauna and flora living there;
-- b. *unde**r**ground waters*: means groundwater (including spring water), aquifer, lower and upper confining beds;
+- b. *underground waters*: means groundwater (including spring water), aquifer, lower and upper confining beds;
 - c. *detrimental effects:* means pollution and any other intervention which harms the character or function of water;
 - d. *pollution:* means any detrimental physical, chemical or biological change in the nature of water;
 - e. *waste water:* means water which has been altered by domestic, industrial, commercial, agricultural or other uses, as well as that which flows with such water in sewers, and precipitation water flowing off built-up or sealed area;
-- f. *polluted waste water:* means waste water which may pollute waters into which it flow;
+- f. *polluted waste water:* means waste water which may pollute waters into which it flows;
 - g. *farm manure:* means liquid manure, stable manure stemming from animal husbandry as well as liquids emitted by fodder silo;
 - h. *flow rate Q**<sub>347</sub>**:* means the flow rate which, averaged over ten years, is reached or exceeded on an average of 347 days per year and which is not substantially affected by damming, withdrawal or supply of wate;
 - i. *permanent flow:* means a flow rate Q<sub>347</sub> which is greater than zero;
 - k. *residual flow:* means the flow rate of a watercourse which remains after one or several withdrawals of water;
-- l. *required water endo**w**ment:* means the amount of water required to ensure the maintenance of a particular residual flow after withdrawal of water;
+- l. *required water endowment:* means the amount of water required to ensure the maintenance of a particular residual flow after withdrawal of water;
 - m.[^4-1] *rehabilitation:* means the re-establishment by means of civil engineering of the natural functions of channelled, straightened, covered or culverted surface waters.
 
 [^4-1]: Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ([AS 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [BBl 2008 8043](https://fedlex.data.admin.ch/eli/fga/2008/1366)[8079](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
@@ -142,6 +142,24 @@ It shall enact regulations on:
 - b. the infiltration of waste water;
 - c. substances which may according to the method of their use enter into water and which, by reason of their properties or the quantities used, risk polluting waters or impairing the operation of waste water treatment plants.
 
+<sup>3</sup>
+
+An authorisation for plant protection products and biocidal products (pesticides) must be reviewed if:
+
+- a. the limit value of 0.1 µg/l for pesticides or their degradation products is repeatedly and widely exceeded in waters used or intended for use for drinking water; or
+- b. the ecotoxicological limit values for pesticides are repeatedly and widely exceeded in surface waters.[^9-1]
+
+<sup>4</sup> The new decision on authorisation must ensure compliance with the limit values.[^9-2]
+
+<sup>5</sup> If it is not possible to achieve compliance with the limit values by imposing conditions of use, the authorisation for the pesticides in question or, in the case of plant protection products, the approval of their active substances must be withdrawn.[^9-3]
+
+<sup>6</sup> If a measure under paragraph 5 would seriously reduce domestic supplies of important agricultural crops, the Federal Council may refrain from withdrawing authorisation or approval for a limited period of time.[^9-4]
+
+[^9-1]: Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-2]: Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-3]: Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-4]: Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 ### Section 2 Treatment of Waste Water and Use of Farm Manure
 
 #### Art. 10
@@ -161,7 +179,7 @@ The cantons shall be responsible for the construction of public sewers and centr
 
 <sup>3</sup> If private sewers also serve the public interest, their status is equal to that of public sewers.
 
-<sup>4</sup> ...[^10-2]
+<sup>4</sup> …[^10-2]
 
 [^10-1]: Inserted by No I of the Federal Act of 20 June 1997, in force since 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 [^10-2]: Repealed by No I of the FA of 20 June 1997, with effect from 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
@@ -369,7 +387,11 @@ Articles 22 and 24 apply by analogy to substances which when mixed with liquids 
 
 <sup>1</sup> Soils shall be used according to the state of the art, in such a way that waters are not adversely affected in any way, in particular avoiding both washing away and leaching of fertilisers and plant treatment products.
 
+<sup>1bis</sup> In the area of contribution of drinking water wells, only plant protection products whose use does not lead to groundwater concentrations of active substances and degradation products exceeding 0.1 µg/l may be used.[^27-1]
+
 <sup>2</sup> The Federal Council may enact the necessary regulations.
+
+[^27-1]: Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 28
 
@@ -499,7 +521,7 @@ If water is withdrawn from lakes or groundwater resources and the rate of flow o
 
 <sup>2</sup> If he proves that the effective rate of flow is temporarily lower than the required water endowment, he is only obliged to maintain a required water endowment equal of the effective rate of flow during the period in which such a situation exists.
 
-### Chapter 3 Prevention and Remediation of other Detrimental Effects on Waters****
+### Chapter 3 Prevention and Remediation of other Detrimental Effects on Waters
 
 [^tit2-chap3-1]
 
@@ -696,7 +718,7 @@ Permits for such work may not be granted:
 
 <sup>3</sup> For groundwater resources whose amount and quality are suitable for water supply, extraction may be permitted above groundwater level, provided a protective layer of material is left above the maximum groundwater table possible. The dimension of this protective layer shall be chosen according to the local conditions.
 
-## Title 3 Enforcement, Provision of Fundamentals, Promotional Measures and Procedures****
+## Title 3 Enforcement, Provision of Fundamentals, Promotional Measures and Procedures
 
 [^tit3-1]
 
@@ -732,7 +754,7 @@ The Federal Council shall regulate co-ordination:
 
 <sup>1</sup> The Federal Council shall enact the implementing regulations.
 
-<sup>2</sup> ...[^47-1]
+<sup>2</sup> …[^47-1]
 
 [^47-1]: Repealed by Art. 12 No 3 of the Consultation Procedure Act of 18 March 2005, with effect from 1 Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 
@@ -796,7 +818,7 @@ The cantons shall ensure that an advisory service be set up for the enforcement 
 
 <sup>2</sup> Persons entrusted with enforcing this Act, as well as experts and members of commissions and specialised bodies, shall be subject to the rules of professional secrecy.
 
-<sup>3</sup> ...[^52-1]
+<sup>3</sup> …[^52-1]
 
 [^52-1]: Repealed by Art. 2 No 2 of the FD of 27 Sept. 2013 (Aarhus Convention), with effect from 1 June 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
@@ -873,7 +895,7 @@ In cases where data for any body of water are insufficient, the flow rate Q<sub>
 
 Before an authority issues a permit for an operation which may have an effect on a body of water in the vicinity of a hydrological or other monitoring station, it shall notify the agency responsible for the station.
 
-### Chapter 3**** Financing
+### Chapter 3 Financing
 
 [^tit3-chap3-1]
 
@@ -916,7 +938,7 @@ The cantons shall ensure that the costs of the construction, operation, maintena
 
 [^60b-1]: Inserted by No I of the FA of 21 March 2014, in force since 1 Jan. 2016 ([AS 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [BBl 2013 5549](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
-### Chapter 4**** Incentives
+### Chapter 4 Incentives
 
 [^tit3-chap4-1]
 
@@ -972,14 +994,14 @@ The right to federal contributions in accordance with paragraph 2 continues if:
 - c. the new first instance decision is taken before 1 November 2005; and
 - d. construction is begun before 1 November 2006.[^62-2]
 
-<sup>3</sup> ...[^62-3]
+<sup>3</sup> …[^62-3]
 
 <sup>4</sup>
 
 The compensatory payments shall amount to:
 
 - a. 25 per cent of the attributable costs for installations and equipment in accordance with paragraphs 1 and 2;
-- b.[^62-4] ...
+- b.[^62-4] …
 
 [^62-1]: Amended by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)). See also the Final Provision on this Amendment at the end of this text.
 [^62-2]: Inserted by No I of the FA of 8 Oct. 2004, in force since 1 Oct. 2006 ([AS 2006 3859](https://fedlex.data.admin.ch/eli/oc/2006/575); [BBl 2003 8025](https://fedlex.data.admin.ch/eli/fga/2003/1353)[8043](https://fedlex.data.admin.ch/eli/fga/2003/1355)).
@@ -1000,7 +1022,7 @@ Within the limits of the approved credits, the Confederation shall grant compens
 
 <sup>2</sup> The level of the compensatory payments is determined by the nature and volume of the substances that are to be prevented from washing away or leaching, and by the costs of the measures that are not covered by contributions under the Agriculture Act of 29 April 1998[^62a-2] or the Federal Act of 1 July 1966[^62a-3] on Nature and Cultural Heritage.[^62a-4]
 
-<sup>3</sup> ...[^62a-5]
+<sup>3</sup> …[^62a-5]
 
 <sup>4</sup> The Federal Office for Agriculture shall grant the compensatory payments as global contributions on the basis of programme agreements entered into with the cantons for each area in which the measures are required. In order to assess whether the programmes guarantee the required protection of waters, it shall consult the Federal Office for the Environment. The cantons shall allocate the compensatory payments to the individuals entitled.[^62a-6]
 
@@ -1104,7 +1126,7 @@ The Confederation may provide a risk guarantee in respect of promising new insta
 [^66-1]: Amended by Annex No 18 of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^66-2]: Inserted by Annex No 18 of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-### Chapter 5**** Procedure
+### Chapter 5 Procedure
 
 [^tit3-chap5-1]
 
@@ -1124,7 +1146,7 @@ The appeal procedure is governed by the general provisions on the administration
 
 <sup>1</sup> The Federal Office is entitled to make use of the rights of legal recourse available under federal and cantonal law in respect of decisions of the cantonal authorities in application of this Act and its implementing provisions.
 
-<sup>2</sup> ...[^67a-2]
+<sup>2</sup> …[^67a-2]
 
 [^67a-1]: Inserted by No I 15 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-making Procedures, in force since 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; BBl **1998** 2591).
 [^67a-2]: Repealed by Annex No 92 of the Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1148,7 +1170,7 @@ The appeal procedure is governed by the general provisions on the administration
 [^68-3]: Amended by Annex No 18 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^68-4]: Amended by Annex No 6 of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-## Title 4 ...
+## Title 4 …
 
 #### Art. 69
 
@@ -1194,7 +1216,7 @@ The penalty shall be a fine of up to 20,000 francs for any person who wilfully:[
 
 <sup>3</sup> Aiding and abetting is also an offence.
 
-<sup>4</sup> ...[^71-2]
+<sup>4</sup> …[^71-2]
 
 [^71-1]: Amended by No II 2 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^71-2]: Repealed by No II 2 of the FA of 19 March 2010, with effect from 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
@@ -1231,7 +1253,7 @@ The Federal Act of 8 October 1971[^74-1] on the Protection of Waters against Pol
 
 **Amendments to federal legislation**
 
-...[^75-1]
+…[^75-1]
 
 [^75-1]: The amendments may be consulted under [AS 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860).
 
@@ -1313,7 +1335,7 @@ The cantons shall establish an inventory of existing water withdrawals according
 
 [^83-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
-### Section 2<sup>bis</sup> **** Hydropeaking and Bed Load Budget
+### Section 2<sup>bis</sup> Hydropeaking and Bed Load Budget
 
 [^tit6-chap2-sec2bis-1]
 
@@ -1337,7 +1359,7 @@ The persons responsible for existing hydropower plants and of other installation
 
 [^83b-1]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
-### Section 3 ...
+### Section 3 …
 
 #### Art. 84
 
@@ -1357,7 +1379,7 @@ Commencement date: 1 November 1992[^85-1]
 
 [^85-1]: FCD of 5 Oct. 1992.
 
-## Final Provision of the Amendment of 20 June 1997****
+## Final Provision of the Amendment of 20 June 1997
 
 [^u1-1]
 

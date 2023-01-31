@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 24. Januar 1991 über den Schutz der Gewässer (Gewäss
 short: GSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: de
-version: 2022-01-01
+version: 2023-02-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/de/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/de"
 
 (Gewässerschutzgesetz, GSchG)
 
-vom 24. Januar 1991 (Stand am 1. Januar 2022)
+vom 24. Januar 1991 (Stand am 1. Februar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -140,6 +140,24 @@ Er erlässt Vorschriften über:
 - b. die Versickerung von Abwasser;
 - c. Stoffe, die nach Art ihrer Verwendung ins Wasser gelangen können und die aufgrund ihrer Eigenschaften oder ihrer Verbrauchsmenge die Gewässer verunreinigen oder für den Betrieb von Abwasseranlagen schädlich sein können.
 
+<sup>3</sup>
+
+Eine Zulassung für Pflanzenschutzmittel und Biozidprodukte (Pestizide) muss überprüft werden, wenn:
+
+- a. in Gewässern, die der Trinkwassernutzung dienen oder dafür vorgesehen sind, der Grenzwert von 0,1 µg/l für Pestizide oder für deren Abbauprodukte wiederholt und verbreitet überschritten wird; oder
+- b. in Oberflächengewässern die ökotoxikologisch begründeten Grenzwerte für Pestizide wiederholt und verbreitet überschritten werden.[^9-1]
+
+<sup>4</sup> Der neue Zulassungsentscheid muss sicherstellen, dass die Grenzwerte eingehalten werden.[^9-2]
+
+<sup>5</sup> Ist es nicht möglich, durch Anwendungsauflagen zu erreichen, dass die Grenzwerte eingehalten werden, so muss den entsprechenden Pestiziden die Zulassung oder im Fall von Pflanzenschutzmitteln dem Wirkstoff die Genehmigung entzogen werden.[^9-3]
+
+<sup>6</sup> Würde durch eine Massnahme nach Absatz 5 die Inlandversorgung durch wichtige landwirtschaftliche Kulturen stark beeinträchtigt, so kann der Bundesrat für eine begrenzte Zeit von einem Entzug der Zulassung oder der Genehmigung absehen.[^9-4]
+
+[^9-1]: Eingefügt durch Ziff. I 2 des BG vom 19. März 2021 (Änderung des Chemikaliengesetzes, des Gewässerschutzgesetzes und des Landwirtschaftsgesetzes), in Kraft seit 1. Febr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-2]: Eingefügt durch Ziff. I 2 des BG vom 19. März 2021 (Änderung des Chemikaliengesetzes, des Gewässerschutzgesetzes und des Landwirtschaftsgesetzes), in Kraft seit 1. Febr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-3]: Eingefügt durch Ziff. I 2 des BG vom 19. März 2021 (Änderung des Chemikaliengesetzes, des Gewässerschutzgesetzes und des Landwirtschaftsgesetzes), in Kraft seit 1. Febr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-4]: Eingefügt durch Ziff. I 2 des BG vom 19. März 2021 (Änderung des Chemikaliengesetzes, des Gewässerschutzgesetzes und des Landwirtschaftsgesetzes), in Kraft seit 1. Febr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 ### 2. Abschnitt: Behandlung des Abwassers und Verwertung des Hofdüngers
 
 #### Art. 10
@@ -159,7 +177,7 @@ Die Kantone sorgen für die Erstellung öffentlicher Kanalisationen und zentrale
 
 <sup>3</sup> Kann eine private Kanalisation auch öffentlichen Zwecken dienen, so ist sie der öffentlichen Kanalisation gleichgestellt.
 
-<sup>4</sup> ...[^10-2]
+<sup>4</sup> …[^10-2]
 
 [^10-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 [^10-2]: Aufgehoben durch Ziff. I des BG vom 20. Juni 1997, mit Wirkung seit 1. Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
@@ -367,7 +385,11 @@ Die Artikel 22 und 24 gelten sinngemäss für Stoffe, die vermischt mit Flüssig
 
 <sup>1</sup> Böden sind entsprechend dem Stand der Technik so zu bewirtschaften, dass die Gewässer nicht beeinträchtigt werden, namentlich nicht durch Abschwemmung und Auswaschung von Düngern und Pflanzenbehandlungsmitteln.
 
+<sup>1bis</sup> Im Zuströmbereich von Trinkwasserfassungen dürfen nur Pflanzenschutzmittel eingesetzt werden, deren Verwendung im Grundwasser nicht zu Konzentrationen von Wirkstoffen und Abbauprodukten über 0,1 µg/l führen.[^27-1]
+
 <sup>2</sup> Der Bundesrat kann die notwendigen Vorschriften erlassen.
+
+[^27-1]: Eingefügt durch Ziff. I 2 des BG vom 19. März 2021 (Änderung des Chemikaliengesetzes, des Gewässerschutzgesetzes und des Landwirtschaftsgesetzes), in Kraft seit 1. Febr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 28
 
@@ -497,7 +519,7 @@ Wird einem See oder einem Grundwasservorkommen Wasser entnommen und dadurch die 
 
 <sup>2</sup> Weist er nach, dass die zufliessende Wassermenge zeitweise geringer ist als die festgelegte Dotierwassermenge, so muss er während dieser Zeit nur so viel Dotierwasser abgeben, wie Wasser zufliesst.
 
-### 3. Kapitel: Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer****
+### 3. Kapitel: Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer
 
 [^tit2-chap3-1]
 
@@ -694,7 +716,7 @@ Die Bewilligung für solche Arbeiten darf nicht erteilt werden:
 
 <sup>3</sup> Bei einem Grundwasservorkommen, das sich nach Menge und Qualität für die Wassergewinnung eignet, kann die Ausbeutung oberhalb des Grundwasserspiegels bewilligt werden, wenn über dem höchstmöglichen Grundwasserspiegel eine schützende Materialschicht belassen wird. Diese ist nach den örtlichen Gegebenheiten zu bemessen.
 
-## 3. Titel: Vollzug, Grundlagenbeschaffung, Finanzierung, Förderung und Verfahren****
+## 3. Titel: Vollzug, Grundlagenbeschaffung, Finanzierung, Förderung und Verfahren
 
 [^tit3-1]
 
@@ -730,7 +752,7 @@ Der Bundesrat regelt die Koordination:
 
 <sup>1</sup> Der Bundesrat erlässt die Ausführungsvorschriften.
 
-<sup>2</sup> ...[^47-1]
+<sup>2</sup> …[^47-1]
 
 [^47-1]: Aufgehoben durch Art. 12 Ziff. 3 des Vernehmlassungsgesetzes vom 18. März 2005, mit Wirkung seit 1. Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 
@@ -794,7 +816,7 @@ Die Kantone sorgen dafür, dass zum Vollzug der Artikel 14 und 27 eine Beratung 
 
 <sup>2</sup> Die mit dem Vollzug dieses Gesetzes beauftragten Personen sowie Experten und Mitglieder von Kommissionen und Fachausschüssen unterstehen dem Amtsgeheimnis.
 
-<sup>3</sup> ...[^52-1]
+<sup>3</sup> …[^52-1]
 
 [^52-1]: Aufgehoben durch Art. 2 Ziff. 2 des BB vom 27. Sept. 2013(Aarhus-Konvention), mit Wirkung seit 1. Juni 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
@@ -871,7 +893,7 @@ Liegen für ein Gewässer unzureichende Messergebnisse vor, so wird die Abflussm
 
 Bevor eine Behörde einen Eingriff bewilligt, der sich auf ein Gewässer in der Nähe einer Station für hydrologische oder andere Erhebungen auswirken kann, unterrichtet sie die für die Station zuständige Stelle.
 
-### 3. Kapitel:**** Finanzierung
+### 3. Kapitel: Finanzierung
 
 [^tit3-chap3-1]
 
@@ -914,7 +936,7 @@ Die Kantone sorgen dafür, dass die Kosten für Bau, Betrieb, Unterhalt, Sanieru
 
 [^60b-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Jan. 2016 ([AS 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [BBl 2013 5549](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
-### 4. Kapitel:**** Förderung
+### 4. Kapitel: Förderung
 
 [^tit3-chap4-1]
 
@@ -970,14 +992,14 @@ Der Anspruch auf Bundesbeiträge nach Absatz 2 bleibt erhalten, wenn:
 - c. der neue erstinstanzliche Entscheid vor dem 1. November 2005 getroffen wird; und
 - d. mit dem Bau vor dem 1. November 2006 begonnen wird.[^62-2]
 
-<sup>3</sup> ...[^62-3]
+<sup>3</sup> …[^62-3]
 
 <sup>4</sup>
 
 Die Abgeltungen betragen:
 
 - a. 25 Prozent der anrechenbaren Kosten für Anlagen und Einrichtungen nach den Absätzen 1 und 2;
-- b.[^62-4] ...
+- b.[^62-4] …
 
 [^62-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 [^62-2]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004, in Kraft seit 1. Okt. 2006 ([AS 2006 3859](https://fedlex.data.admin.ch/eli/oc/2006/575); [BBl 2003 8025](https://fedlex.data.admin.ch/eli/fga/2003/1353)[8043](https://fedlex.data.admin.ch/eli/fga/2003/1355)).
@@ -998,7 +1020,7 @@ Der Bund leistet im Rahmen der bewilligten Kredite Abgeltungen an Massnahmen der
 
 <sup>2</sup> Die Höhe der Abgeltungen richtet sich nach den Eigenschaften und der Menge der Stoffe, deren Abschwemmung und Auswaschung verhindert wird, sowie nach den Kosten der Massnahmen, die nicht durch Beiträge nach dem Landwirtschaftsgesetz vom 29. April 1998[^62a-2] oder nach dem Bundesgesetz vom 1. Juli 1966[^62a-3] über den Natur- und Heimatschutz abgegolten werden.[^62a-4]
 
-<sup>3</sup> ...[^62a-5]
+<sup>3</sup> …[^62a-5]
 
 <sup>4</sup> Das Bundesamt für Landwirtschaft gewährt die Abgeltungen als globale Beiträge auf der Grundlage von Programmvereinbarungen, die mit den Kantonen für jedes Gebiet abgeschlossen werden, in dem Massnahmen erforderlich sind. Für die Beurteilung, ob die Programme einen sachgemässen Gewässerschutz gewährleisten, hört es das Bundesamt für Umwelt an. Die Kantone sprechen die Abgeltungen den einzelnen Anspruchsberechtigten zu.[^62a-6]
 
@@ -1102,7 +1124,7 @@ Der Bund kann für Erfolg versprechende neuartige Anlagen und Einrichtungen eine
 [^66-1]: Fassung gemäss Anhang Ziff. 18 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^66-2]: Eingefügt durch Anhang Ziff. 18 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-### 5. Kapitel:**** Verfahren
+### 5. Kapitel: Verfahren
 
 [^tit3-chap5-1]
 
@@ -1122,7 +1144,7 @@ Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die
 
 <sup>1</sup> Das Bundesamt ist berechtigt, gegen Verfügungen der kantonalen Behörden in Anwendung dieses Gesetzes und seiner Ausführungsbestimmungen die Rechtsmittel des eidgenössischen und des kantonalen Rechts zu ergreifen.
 
-<sup>2</sup> ...[^67a-2]
+<sup>2</sup> …[^67a-2]
 
 [^67a-1]: Eingefügt durch Ziff. I 15 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^67a-2]: Aufgehoben durch Anhang Ziff. 92 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1146,7 +1168,7 @@ Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die
 [^68-3]: Fassung gemäss Anhang Ziff. 18 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^68-4]: Fassung gemäss Anhang Ziff. 6 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-## 4. Titel: ...
+## 4. Titel: …
 
 #### Art. 69
 
@@ -1192,7 +1214,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^71-1]
 
 <sup>3</sup> Gehilfenschaft ist strafbar.
 
-<sup>4</sup> ...[^71-2]
+<sup>4</sup> …[^71-2]
 
 [^71-1]: Fassung gemäss Ziff. II 2 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^71-2]: Aufgehoben durch Ziff. II 2 des BG vom 19. März 2010, mit Wirkung seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
@@ -1229,7 +1251,7 @@ Das Bundesgesetz vom 8. Oktober 1971[^74-1] über den Schutz der Gewässer gegen
 
 **Änderungen von Bundesgesetzen**
 
-...[^75-1]
+…[^75-1]
 
 [^75-1]: Die Änderungen können unter [AS 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)konsultiert werden.
 
@@ -1311,7 +1333,7 @@ Die Kantone erstellen ein Inventar der bestehenden Wasserentnahmen nach Artikel 
 
 [^83-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
-### 2<sup>bis</sup>. Abschnitt:**** Schwall und Sunk sowie Geschiebehaushalt
+### 2<sup>bis</sup>. Abschnitt: Schwall und Sunk sowie Geschiebehaushalt
 
 [^tit6-chap2-sec2bis-1]
 
@@ -1335,7 +1357,7 @@ Die Inhaber bestehender Wasserkraftwerke und anderer Anlagen an Gewässern sind 
 
 [^83b-1]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
-### 3. Abschnitt: ...
+### 3. Abschnitt: …
 
 #### Art. 84
 
@@ -1355,7 +1377,7 @@ Datum des Inkrafttretens: 1. November 1992[^85-1]
 
 [^85-1]: BRB vom 5. Okt. 1992
 
-## Schlussbestimmung der Änderung vom 20. Juni 1997****
+## Schlussbestimmung der Änderung vom 20. Juni 1997
 
 [^u1-1]
 

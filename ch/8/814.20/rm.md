@@ -4,11 +4,11 @@ title: "Lescha federala dals 24 da schaner 1991 davart la protecziun da las auas
 short: LPAuas
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: rm
-version: 2022-01-01
+version: 2023-02-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/rm/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart la protecziun da las auas, LPAuas)
 
-dals 24 da schaner 1991 (versiun dal 1. da schaner 2022)
+dals 24 da schaner 1991 (versiun dal 1. da favrer 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -141,6 +141,24 @@ El decretescha prescripziuns:
 - a. per inducir aua persa en las auas;
 - b. per laschar sfundrar aua persa;
 - c. davart substanzas che pon, tenor la moda ch’ellas vegnan utilisadas, arrivar en las auas e che pon, pervia da lur caracteristicas u da lur quantitad duvrada, contaminar las auas u esser nuschaivlas per il manaschi da stabiliments d’aua persa.
+
+<sup>3</sup>
+
+In'admissiun da products fitosanitars e da products da biocid (pesticids) sto vegnir examinada, sche:
+
+- a. la limita da 0,1 µg/l per pesticids u per ses products da decumposiziun vegn surpassada repetidamain ed en moda extendida, en auas che servan al provediment d'aua da baiver u ch'èn previsas per quest intent; u
+- b. las limitas per pesticids giustifitgadas tras l'ecotoxicologia vegnan surpassadas repetidamain ed en moda extendida, en auas da surfatscha.[^9-1]
+
+<sup>4</sup> La nova decisiun d'admissiun sto garantir che las limitas vegnian observadas.[^9-2]
+
+<sup>5</sup> Sch'i n'è betg pussaivel da cuntanscher cun cundiziuns d'utilisaziun che las limitas vegnan observadas, sto vegnir retratga l'admissiun dals pesticids correspundents u en cas da products fitosanitars l'approvaziun da la substanza activa.[^9-3]
+
+<sup>6</sup> Sch'il provediment dal pajais tras culturas agriculas impurtantas vegniss restrenschì fermamain tras ina mesira tenor l'alinea 5, po il Cussegl federal desister per in temp limità da retrair l'admissiun u l'approvaziun.[^9-4]
+
+[^9-1]: Integrà tras la cifra I 2 da la LF dals 19 da mars 2021 (midada da la Lescha davart las substanzas chemicas, da la Lescha davart la protecziun da las auas e da la Lescha d’agricultura), en vigur dapi il 1. da favr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-2]: Integrà tras la cifra I 2 da la LF dals 19 da mars 2021 (midada da la Lescha davart las substanzas chemicas, da la Lescha davart la protecziun da las auas e da la Lescha d’agricultura), en vigur dapi il 1. da favr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-3]: Integrà tras la cifra I 2 da la LF dals 19 da mars 2021 (midada da la Lescha davart las substanzas chemicas, da la Lescha davart la protecziun da las auas e da la Lescha d’agricultura), en vigur dapi il 1. da favr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-4]: Integrà tras la cifra I 2 da la LF dals 19 da mars 2021 (midada da la Lescha davart las substanzas chemicas, da la Lescha davart la protecziun da las auas e da la Lescha d’agricultura), en vigur dapi il 1. da favr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ### 2. secziun Tractament da l’aua persa e reutilisaziun dal ladim natiral
 
@@ -369,7 +387,11 @@ Ils artitgels 22 e 24 valan tenor il senn per substanzas che pon daventar liquid
 
 <sup>1</sup> Ils terrens ston vegnir cultivads tenor il stadi da la tecnica uschia, che las auas na vegnan betg donnegiadas, en spezial betg tras il schlavament e l’erosiun da ladims e da meds per tractar plantas.
 
+<sup>1bis</sup> En la zona d'affluenza da las tschiffadas d'aua da baiver dastgan vegnir utilisads mo products fitosanitars che na chaschunan tras lur utilisaziun naginas concentraziuns da substanzas activas e da products da decumposiziun da pli che 0,1 µg/l en l'aua sutterrana.[^27-1]
+
 <sup>2</sup> Il Cussegl federal po decretar las prescripziuns necessarias.
+
+[^27-1]: Integrà tras la cifra I 2 da la LF dals 19 da mars 2021 (midada da la Lescha davart las substanzas chemicas, da la Lescha davart la protecziun da las auas e da la Lescha d’agricultura), en vigur dapi il 1. da favr. 2023 ([AS 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [BBl 2020 6523](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6785](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 28
 
@@ -499,7 +521,7 @@ Sch’i vegn prelevà aua d’in lai u d’ina resursa d’aua sutterrana e sche
 
 <sup>2</sup> Sch’el cumprova che la quantitad d’aua affluenta è temporarmain pli pitschna che la quantitad d’aua da dotaziun fixada, sto el restituir durant quest temp mo tanta aua da dotaziun sco quai ch’igl affluescha.
 
-### 3. chapitel Impediment ed eliminaziun d’autras influenzas nuschaivlas sin las auas****
+### 3. chapitel Impediment ed eliminaziun d’autras influenzas nuschaivlas sin las auas
 
 [^tit2-chap3-1]
 
@@ -696,7 +718,7 @@ La permissiun per talas lavurs na dastga betg vegnir dada:
 
 <sup>3</sup> Tar ina resursa d’aua sutterrana ch’è adattada quantitativamain u qualitativamain da vegnir explotada po l’explotaziun vegnir permessa sur il livel da l’aua sutterrana, sch’ina stresa protectiva da material vegn laschada sur il livel maximal da l’aua sutterrana. La grossezza da questa stresa sto vegnir fixada tenor las relaziuns localas.
 
-## 3. titel Execuziun, procuraziun da las premissas, finanziaziun, promoziun e procedura****
+## 3. titel Execuziun, procuraziun da las premissas, finanziaziun, promoziun e procedura
 
 [^tit3-1]
 
@@ -873,7 +895,7 @@ Sch’i mancan resultats suffizients per eruir la quantitad da deflussiun Q<sub>
 
 Avant ch’ina autoritad permetta ina intervenziun che po avair effects sin in’aua en la vischinanza d’in indriz per retschertgas idrologicas u per autras retschertgas, sto ella infurmar il post ch’è cumpetent per l’indriz.
 
-### 3. chapitel**** Finanziaziun
+### 3. chapitel Finanziaziun
 
 [^tit3-chap3-1]
 
@@ -916,7 +938,7 @@ Ils chantuns procuran ch’ils custs per la construcziun, per la gestiun, per il
 
 [^60b-1]: Integrà tras la cifra I da la LF dals 21 da mars 2014, en vigur dapi il 1. da schan. 2016 ([AS 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [BBl 2013 5549](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
-### 4. chapitel**** Promoziun
+### 4. chapitel Promoziun
 
 [^tit3-chap4-1]
 
@@ -1104,7 +1126,7 @@ La Confederaziun po surpigliar ina garanzia cunter las ristgas tar stabiliments 
 [^66-1]: Versiun tenor la cifra 18 da l’agiunta da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^66-2]: Integrà tras la cifra 18 da l’agiunta da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-### 5. chapitel**** Procedura
+### 5. chapitel Procedura
 
 [^tit3-chap5-1]
 
@@ -1313,7 +1335,7 @@ Ils chantuns fan in inventari da las prelevaziuns d’aua existentas tenor l’a
 
 [^83-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
-### 2<sup>bis</sup>. secziun**** Midadas da la deflussiun da l’aua e bilantscha da gera
+### 2<sup>bis</sup>. secziun Midadas da la deflussiun da l’aua e bilantscha da gera
 
 [^tit6-chap2-sec2bis-1]
 
@@ -1357,7 +1379,7 @@ Data da l’entrada en vigur: 1. da november 1992[^85-1]
 
 [^85-1]: COCF dals 5 d’oct. 1992.
 
-## Disposiziuns finalas da la midada dals 20 da zercladur 1997****
+## Disposiziuns finalas da la midada dals 20 da zercladur 1997
 
 [^u1-1]
 

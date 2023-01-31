@@ -4,11 +4,11 @@ title: Loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux)
 short: LEaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: fr
-version: 2022-01-01
+version: 2023-02-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/fr"
 
 (LEaux)
 
-du 24 janvier 1991 (Etat le 1<sup>er</sup> janvier 2022)
+du 24 janvier 1991 (État le 1<sup>er</sup> février 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -139,6 +139,24 @@ Il édicte des prescriptions concernant:
 - a. le déversement dans une eau des eaux à évacuer;
 - b. l’infiltration des eaux à évacuer;
 - c. les substances qui, selon leur mode d’utilisation, peuvent parvenir dans l’eau et qui, en raison de leurs propriétés ou des quantités utilisées, risquent de la polluer ou de nuire au fonctionnement des installations servant à l’évacuation et à l’épuration des eaux.
+
+<sup>3</sup>
+
+Une autorisation pour les produits phytosanitaires ou les produits biocides (pesticides) doit être examinée lorsque:
+
+- a. dans les eaux qui servent à l’approvisionnement en eau potable ou sont prévues à cet effet, la valeur limite de 0,1 µg/l est dépassée de manière répétée et étendue pour les pesticides ou pour les produits issus de leur dégradation, ou
+- b. dans les eaux superficielles, les valeurs limites justifiées du point de vue écotoxicologique sont dépassées de manière répétée et étendue pour les pesticides.[^9-1]
+
+<sup>4</sup> La nouvelle décision d’autorisation doit garantir que les valeurs limites sont respectées.[^9-2]
+
+<sup>5</sup> S’il n’est pas possible d’atteindre les valeurs limites au moyen de conditions d’utilisation, l’autorisation ou l’approbation doit être retirée en ce qui concerne le pesticide considéré ou, dans le cas de produits phytosanitaires, la substance active considérée.[^9-3]
+
+<sup>6</sup> Si l’approvisionnement du pays en denrées issues de cultures agricoles importantes se trouve fortement compromis par une mesure selon l’al. 5, le Conseil fédéral peut renoncer, pour une durée limitée, à retirer l’autorisation ou l’approbation.[^9-4]
+
+[^9-1]: Introduit par le ch. I 2 de la LF du 19 mars 2021 sur la réduction des risques liés à l’utilisation de pesticides, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6569](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-2]: Introduit par le ch. I 2 de la LF du 19 mars 2021 sur la réduction des risques liés à l’utilisation de pesticides, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6569](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-3]: Introduit par le ch. I 2 de la LF du 19 mars 2021 sur la réduction des risques liés à l’utilisation de pesticides, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6569](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-4]: Introduit par le ch. I 2 de la LF du 19 mars 2021 sur la réduction des risques liés à l’utilisation de pesticides, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6569](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 ### Section 2 Traitement des eaux usées et utilisation des engrais de ferme
 
@@ -368,7 +386,11 @@ Les art. 22 et 24 s’appliquent par analogie aux substances qui, au contact de 
 
 <sup>1</sup> Les sols seront exploités selon l’état de la technique, de manière à ne pas porter préjudice aux eaux, en évitant notamment que les engrais ou les produits pour le traitement des plantes ne soient emportés par ruissellement ou lessivage.
 
+<sup>1bis</sup> Dans l’aire d’alimentation de captages d’eau potable, seuls peuvent être utilisés des produits phytosanitaires dont l’utilisation n’entraîne pas, dans la nappe phréatique, des concentrations en substances actives et en produits de dégradation supérieures à 0,1 µg/l.[^27-1]
+
 <sup>2</sup> Le Conseil fédéral peut édicter les prescriptions nécessaires.
+
+[^27-1]: Introduit par le ch. I 2 de la LF du 19 mars 2021 sur la réduction des risques liés à l’utilisation de pesticides, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 6323](https://fedlex.data.admin.ch/eli/fga/2020/1667), [6569](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 28
 
@@ -506,7 +528,7 @@ Lorsque des prélèvements opérés dans un lac ou dans une nappe d’eau souter
 
 <sup>2</sup> S’il s’avère que le débit effectif est temporairement inférieur au débit de dotation fixé, seule une quantité d’eau égale à celle du débit effectif doit être restituée pendant cette période.
 
-### Chapitre 3 Prévention et réparation d’autres atteintes nuisibles aux eaux****
+### Chapitre 3 Prévention et réparation d’autres atteintes nuisibles aux eaux
 
 [^tit2-chap3-1]
 
@@ -704,7 +726,7 @@ Ces exploitations ne sont pas autorisées:
 
 <sup>3</sup> L’exploitation de matériaux peut être autorisée au-dessus de nappes souterraines exploitables à condition qu’une couche protectrice de matériau soit maintenue au-dessus du niveau le plus élevé que la nappe peut atteindre. L’épaisseur de cette couche sera fixée en fonction des conditions locales.
 
-## Titre 3 Exécution, études de base, financement, mesures d’encouragement et procédure****
+## Titre 3 Exécution, études de base, financement, mesures d’encouragement et procédure
 
 [^tit3-1]
 
@@ -880,7 +902,7 @@ En l’absence de mesures suffisantes pour évaluer le débit d’un cours d’e
 
 Avant d’autoriser une quelconque intervention qui peut avoir des répercussions sur une eau aux abords d’une station servant à relever des données hydrologiques ou autres, l’autorité en informe les services responsables de la station.
 
-### Chapitre 3**** Financement
+### Chapitre 3 Financement
 
 [^tit3-chap3-1]
 
@@ -923,7 +945,7 @@ Les cantons veillent à ce que les coûts de construction, d’exploitation, d�
 
 [^60b-1]: Introduit par le ch. I de la LF du 21 mars 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4969](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
-### Chapitre 4**** Mesures d’encouragement
+### Chapitre 4 Mesures d’encouragement
 
 [^tit3-chap4-1]
 
@@ -1011,7 +1033,7 @@ Dans les limites des crédits approuvés, la Confédération alloue des indemnit
 
 <sup>4</sup> L’Office fédéral de l’agriculture alloue les indemnités sous la forme de contributions globales, sur la base de conventions-programmes qui sont conclues avec les cantons pour chaque secteur dans lequel les mesures doivent être prises. Il consulte l’Office fédéral de l’environnement pour juger si les programmes prévus garantissent une protection des eaux adéquate. Les cantons allouent les indemnités aux ayants droit.[^62a-6]
 
-[^62a-1]: Introduit par le ch. 6 de l’annexe à la LF du 29 avril 1998 sur l’agriculture, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
+[^62a-1]: Introduit par l’annexe ch. 6 de la LF du 29 avril 1998 sur l’agriculture, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
 [^62a-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^62a-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^62a-4]: Nouvelle teneur selon le ch. II 23 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
@@ -1111,7 +1133,7 @@ La Confédération peut accorder une garantie contre les risques relatifs aux in
 [^66-1]: Nouvelle teneur selon l’annexe ch. 18 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^66-2]: Introduit par l’annexe ch. 18 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-### Chapitre 5**** Procédure
+### Chapitre 5 Procédure
 
 [^tit3-chap5-1]
 
@@ -1320,7 +1342,7 @@ Les cantons dressent l’inventaire des prélèvements d’eau existants défini
 
 [^83-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
-### Section 2<sup>bis</sup>**** Éclusées et régime de charriage
+### Section 2<sup>bis</sup> Éclusées et régime de charriage
 
 [^tit6-chap2-sec2bis-1]
 
@@ -1364,7 +1386,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> novembre 1992[^85-1]
 
 [^85-1]: ACF du 5 oct. 1992
 
-## Dispositions finales de la modification du 20 juin 1997****
+## Dispositions finales de la modification du 20 juin 1997
 
 [^u1-1]
 

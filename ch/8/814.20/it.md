@@ -4,11 +4,11 @@ title: Legge federale del 24 gennaio 1991 sulla protezione delle acque (LPAc)
 short: LPAc
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860"
 language: it
-version: 2022-01-01
+version: 2023-02-01
 adopted: 1991-01-24
 in_force: 1992-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860/20230201/it/xml/fedlex-data-admin-ch-eli-cc-1992-1860_1860_1860-20230201-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/20220101/it"
 
 (LPAc)
 
-del 24 gennaio 1991 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 24 gennaio 1991 (Stato 1° febbraio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -140,6 +140,24 @@ Esso emana prescrizioni su:
 - b. l’infiltrazione delle acque di scarico;
 - c. le sostanze che, per il modo in cui vengono impiegate, possono pervenire nelle acque e, in ragione delle loro proprietà o delle quantità usate, possono inquinare le acque o nuocere al funzionamento degli impianti di evacuazione e di depurazione delle acque di scarico.
 
+<sup>3</sup>
+
+L’omologazione dei prodotti fitosanitari o biocidi (pesticidi) è verificata se:
+
+- a. nelle acque che assicurano l’approvvigionamento in acqua potabile o previste per questo scopo, il valore limite di 0,1 µg/l per i pesticidi o per i prodotti risultanti dalla loro degradazione è ripetutamente e ampiamente superato; oppure
+- b. nelle acque superficiali, i valori limite giustificati dal profilo ecotossicologico per i pesticidi sono ripetutamente e ampiamente superati.[^9-1]
+
+<sup>4</sup> La nuova decisione di omologazione deve garantire che i valori limite siano rispettati.[^9-2]
+
+<sup>5</sup> Se non è possibile rispettare i valori limite mediante prescrizioni d’uso, viene revocata l’omologazione del corrispondente pesticida o, in caso di prodotti fitosanitari, l’approvazione del corrispondente principio attivo.[^9-3]
+
+<sup>6</sup> Se l’adozione di una misura secondo il capoverso 5 pregiudicherebbe fortemente l’approvvigionamento indigeno in importanti colture agricole, il Consiglio federale può, per un periodo limitato, prescindere dalla revoca.[^9-4]
+
+[^9-1]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-2]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-3]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+[^9-4]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
+
 ### Sezione 2: Trattamento delle acque di scarico e sfruttamento del concime di fattoria
 
 #### Art. 10
@@ -159,7 +177,7 @@ I Cantoni provvedono alla costruzione di canalizzazioni pubbliche e di stazioni 
 
 <sup>3</sup> Le canalizzazioni private che servono anche per scopi pubblici sono equiparate alle canalizzazioni pubbliche.
 
-<sup>4</sup> …[^10-2]
+<sup>4</sup> ...[^10-2]
 
 [^10-1]: Introdotto dal n. I della LF del 20 giu. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
 [^10-2]: Abrogato dal n. I della LF del 20 giu. 1997, con effetto dal 1° nov. 1997 ([RU 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1041](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
@@ -367,7 +385,11 @@ Gli articoli 22 e 24 si applicano per analogia alle sostanze che, in contatto co
 
 <sup>1</sup> I suoli vanno sfruttati secondo lo stato della tecnica, evitando ogni effetto pregiudizievole per le acque, in particolare quelli causati dal convogliamento e dal dilavamento dei fertilizzanti e dei prodotti per il trattamento delle piante.
 
+<sup>1bis</sup> Nei settori di alimentazione di captazioni di acqua potabile possono essere impiegati soltanto prodotti fitosanitari il cui impiego non comporti nella falda freatica concentrazioni di principi attivi e prodotti di degradazione superiori a 0,1 µg/l.[^27-1]
+
 <sup>2</sup> Il Consiglio federale può emanare le prescrizioni necessarie.
+
+[^27-1]: Introdotto dal n. I 2 della LF del 19 mar. 2021 (Modifica della legge sui prodotti chimici, della legge federale sulla protezione delle acque e della legge sull’agricoltura), in vigore dal 1° feb. 2023 ([RU 2022 263](https://fedlex.data.admin.ch/eli/oc/2022/263); [2023 2](https://fedlex.data.admin.ch/eli/oc/2023/2); [FF 2020 5759](https://fedlex.data.admin.ch/eli/fga/2020/1667), [5967](https://fedlex.data.admin.ch/eli/fga/2020/1771)).
 
 #### Art. 28
 
@@ -505,7 +527,7 @@ Quando prelievi effettuati da laghi o da falde freatiche influiscono sensibilmen
 
 <sup>2</sup> Se fornisce la prova che il deflusso effettivo è temporaneamente inferiore alla portata di dotazione fissata, deve restituire, durante tale periodo, solo una quantità d’acqua pari al deflusso effettivo.
 
-### Capitolo 3: Prevenzione e rimozione di altri effetti pregiudizievoli alle acque****
+### Capitolo 3: Prevenzione e rimozione di altri effetti pregiudizievoli alle acque
 
 [^tit2-chap3-1]
 
@@ -702,7 +724,7 @@ L’autorizzazione non può essere concessa se i lavori sono eseguiti:
 
 <sup>3</sup> Se la falda, per quantità e qualità dell’acqua, si presta alla captazione, l’estrazione può essere autorizzata al di sopra del suo livello, sempreché uno strato protettivo di materiale sia mantenuto al di sopra del livello massimo cui la falda può giungere. Lo spessore dello strato è calcolato secondo le condizioni locali.
 
-## Titolo terzo: Esecuzione, studi di base, finanziamento, promovimento e procedura****
+## Titolo terzo: Esecuzione, studi di base, finanziamento, promovimento e procedura
 
 [^tit3-1]
 
@@ -878,7 +900,7 @@ In mancanza di misurazioni sufficienti, la portata Q<sub>347</sub> è determinat
 
 Prima di autorizzare qualsiasi intervento con effetti sulle acque in prossimità di una stazione per rilevamenti idrologici o d’altra natura, l’autorità informa i servizi responsabili della stazione.
 
-### Capitolo 3:**** Finanziamento
+### Capitolo 3: Finanziamento
 
 [^tit3-chap3-1]
 
@@ -921,7 +943,7 @@ I Cantoni provvedono affinché i costi di costruzione, esercizio, manutenzione, 
 
 [^60b-1]: Introdotto dal n. I della LF del 21 mar. 2014, in vigore dal 1° gen. 2016 ([RU 2014 3327](https://fedlex.data.admin.ch/eli/oc/2014/574); [FF 2013 4767](https://fedlex.data.admin.ch/eli/fga/2013/1031)).
 
-### Capitolo 4:**** Promovimento
+### Capitolo 4: Promovimento
 
 [^tit3-chap4-1]
 
@@ -1109,7 +1131,7 @@ La Confederazione può assumere una garanzia contro i rischi per gli impianti, l
 [^66-1]: Nuovo testo giusta l’all. n. 18 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^66-2]: Introdotto dall’all. n. 18 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-### Capitolo 5:**** Procedura
+### Capitolo 5: Procedura
 
 [^tit3-chap5-1]
 
@@ -1230,7 +1252,7 @@ Gli articoli 6 e 7 della legge federale del 22 marzo 1974[^73-1] sul diritto pen
 
 La legge federale dell’8 ottobre 1971[^74-1] contro l’inquinamento delle acque è abrogata.
 
-[^74-1]: [[RU 1972 1120](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120), [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)art.38, **1980** 1796, **1982** 1961, **1984** 1122 art. 66 n. 3, **1985** 600 n. I 51, **1991** 362 n. II 402 857 all. n. 19, **1992** 288 all. n. 32. [RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 74]
+[^74-1]: [[RU 1972 1120](https://fedlex.data.admin.ch/eli/oc/1972/950_958_1120); [1979 1573](https://fedlex.data.admin.ch/eli/oc/1979/1573_1573_1573)art.38; **1980** 1796; **1982** 1961; **1984** 1122 art. 66 n. 3; **1985** 600 n. I 51; **1991** 362 n. II 402, 857 all. n. 19; **1992** 288 all. n. 32. [RU 1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 74]
 
 #### Art. 75
 
@@ -1318,7 +1340,7 @@ I Cantoni compilano l’inventario dei prelievi d’acqua esistenti definiti nel
 
 [^83-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
-### Sezione 2<sup>bis</sup>:**** Deflussi discontinui e bilancio in materiale detritico
+### Sezione 2<sup>bis</sup>: Deflussi discontinui e bilancio in materiale detritico
 
 [^tit6-chap2-sec2bis-1]
 
@@ -1362,7 +1384,7 @@ Data dell’entrata in vigore: 1° novembre 1992[^85-1]
 
 [^85-1]: DCF del 5 ott. 1992.
 
-## Disposizioni finali della modifica del 20 giugno 1997****
+## Disposizioni finali della modifica del 20 giugno 1997
 
 [^u1-1]
 
