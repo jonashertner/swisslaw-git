@@ -4,13 +4,12 @@ number: "814.01"
 title: Verordnung zum Gesetz über die Einführung der Bundesgesetze über den Umweltschutz und über den Schutz der Gewässer
 short: Umwelt- und Gewässerschutzverordnung; UGsV
 language: de
-version: 2016-01-01
-valid_until: 2023-01-31
-version_adopted: 2015-05-11
+version: 2023-02-01
+version_adopted: 2023-01-24
 adopted: 2005-08-16
 in_force: 2005-10-01
 url: "https://ar.clex.ch/app/de/texts_of_law/814.01"
-pdf: "https://ar.clex.ch/api/de/versions/1051/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1051/pdf_file"
 
 (Umwelt- und Gewässerschutzverordnung; UGsV)
 
-vom 16.08.2005 (Stand 01.01.2016)
+vom 16.08.2005 (Stand 01.02.2023)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -156,7 +155,7 @@ verordnet:
 - a) bei Lagereinrichtungen für Hofdünger: Projekt-, Ausführungs- und Zustandskontrollen;
 - b) bei Kleinkläranlagen: Emissionskontrollen;
 - c) bei Abwasser-Vorbehandlungsanlagen von Garagebetrieben: Emissionskontrollen;
-- d) bei Öl- und Gasfeuerungen in der Zuständigkeit der Gemeinden: periodische Emissionskontrollen.
+- d) bei messpflichtigen Öl-, Gas- und Holzfeuerungen in der Zuständigkeit der Gemeinden: periodische Emissionskontrollen.
 
 #### Art. 13
 
