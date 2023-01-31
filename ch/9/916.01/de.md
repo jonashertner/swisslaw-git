@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20230201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20230101/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Januar 2023)
+vom 26. Oktober 2011 (Stand am 1. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -769,7 +769,7 @@ Anhang 1[^t-1]
 
 ## Verzeichnis der anwendbaren Zollansätze bei der Einfuhr von landwirtschaftlichen Erzeugnissen mit Angabe der GEB-Pflicht, der Importrichtwerte und der Zuordnung zu den marktordnungsspezifischen Vorschriften, zu den Gruppen der Schwellenpreise sowie zu den Zoll- oder Teilzollkontingenten
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), Anhang der V vom 2. April 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)), Ziff. II der V vom 29. Okt. 2014 ([AS 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), Anhang 3 Ziff. 11 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V des WBF vom 16. Sept. 2016 ([AS 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)), Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)), Ziff. I der V des BLW vom 20. Juni 2022 ([AS 2022 377](https://fedlex.data.admin.ch/eli/oc/2022/377)) und vom 19. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 535](https://fedlex.data.admin.ch/eli/oc/2022/535)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), Anhang der V vom 2. April 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)), Ziff. II der V vom 29. Okt. 2014 ([AS 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), Anhang 3 Ziff. 11 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V des WBF vom 16. Sept. 2016 ([AS 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)), Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)) und Ziff. I der V des BLW vom 19. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 535](https://fedlex.data.admin.ch/eli/oc/2022/535)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -2768,13 +2768,13 @@ Anhang 2[^t-2]
 
 ## Zollansätze der Marktordnungen Saatgetreide, Futtermittel, Ölsaaten, Zollansätze von Waren, bei deren Verarbeitung Futtermittel anfallen, sowie Zollansätze von Grobgetreide zur menschlichen Ernährung
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 21. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 862](https://fedlex.data.admin.ch/eli/oc/2022/862)).
+[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 18. Jan. 2023, in Kraft seit 1. Febr. 2023 ([AS 2023 33](https://fedlex.data.admin.ch/eli/oc/2023/33)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th></tr>
 <tr><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th></tr>
 <tr><td>0505.9011</td><td>5.70</td><td></td><td>0508.0091</td><td>5.70</td><td></td><td>0511.9110</td><td>0.00</td><td></td><td>0511.9911</td><td>4.70</td><td></td></tr>
-<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>0.00</td><td></td><td>0709.9991</td><td>0.00</td><td></td><td>0712.9070</td><td>0.00</td><td></td></tr>
+<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>0.00</td><td></td><td>0709.9991</td><td>1.00</td><td>\*</td><td>0712.9070</td><td>1.00</td><td>\*</td></tr>
 <tr><td>0713.1011</td><td>0.00</td><td></td><td>0713.1012</td><td>0.00</td><td></td><td>0713.1091</td><td>0.00</td><td></td><td>0713.2011</td><td>0.00</td><td></td></tr>
 <tr><td>0713.2012</td><td>0.00</td><td></td><td>0713.2091</td><td>0.00</td><td></td><td>0713.3111</td><td>0.00</td><td></td><td>0713.3112</td><td>0.00</td><td></td></tr>
 <tr><td>0713.3191</td><td>0.00</td><td></td><td>0713.3211</td><td>0.00</td><td></td><td>0713.3212</td><td>0.00</td><td></td><td>0713.3291</td><td>0.00</td><td></td></tr>
@@ -2789,31 +2789,31 @@ Anhang 2[^t-2]
 <tr><td>0802.2210</td><td>0.00</td><td></td><td>0802.2220</td><td>0.00</td><td></td><td>0802.3110</td><td>0.00</td><td></td><td>0802.3120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.3210</td><td>0.00</td><td></td><td>0802.3220</td><td>0.00</td><td></td><td>0813.4081</td><td>0.00</td><td></td><td>0813.4092</td><td>0.00</td><td></td></tr>
 <tr><td>0813.5012</td><td>0.00</td><td></td><td>0813.5021</td><td>0.00</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>0.00</td><td></td></tr>
-<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>1.00</td><td>\*</td><td>1001.1939</td><td>0.00</td><td></td></tr>
-<tr><td>1001.1940</td><td>0.00</td><td></td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>1.00</td><td>\*</td><td>1001.9939</td><td>0.00</td><td></td></tr>
-<tr><td>1001.9940</td><td>0.00</td><td></td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>1.00</td><td>\*</td><td>1002.9039</td><td>0.00</td><td></td></tr>
-<tr><td>1002.9040</td><td>0.00</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>0.00</td><td></td><td>1003.9030</td><td>0.00</td><td></td></tr>
-<tr><td>1003.9041</td><td>0.00</td><td></td><td>1003.9051</td><td>1.00</td><td>\*</td><td>1003.9059</td><td>0.00</td><td></td><td>1003.9060</td><td>0.00</td><td></td></tr>
-<tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.00</td><td></td><td>1004.9031</td><td>1.00</td><td>\*</td><td>1004.9039</td><td>0.00</td><td></td></tr>
-<tr><td>1004.9040</td><td>0.00</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>0.00</td><td></td><td>1005.9031</td><td>1.00</td><td>\*</td></tr>
-<tr><td>1005.9039</td><td>0.00</td><td></td><td>1005.9040</td><td>0.00</td><td></td><td>1006.1021</td><td>1.00</td><td>\*</td><td>1006.1029</td><td>0.00</td><td></td></tr>
-<tr><td>1006.2021</td><td>1.00</td><td>\*</td><td>1006.2029</td><td>0.00</td><td></td><td>1006.3021</td><td>1.00</td><td>\*</td><td>1006.3029</td><td>0.00</td><td></td></tr>
-<tr><td>1006.4021</td><td>1.00</td><td>\*</td><td>1006.4029</td><td>0.00</td><td></td><td>1007.9031</td><td>1.00</td><td>\*</td><td>1007.9039</td><td>0.00</td><td></td></tr>
-<tr><td>1007.9040</td><td>0.00</td><td></td><td>1008.1031</td><td>1.00</td><td>\*</td><td>1008.1039</td><td>0.00</td><td></td><td>1008.1040</td><td>0.00</td><td></td></tr>
-<tr><td>1008.2931</td><td>1.00</td><td>\*</td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>1.00</td><td>\*</td></tr>
-<tr><td>1008.3039</td><td>0.00</td><td></td><td>1008.3040</td><td>0.00</td><td></td><td>1008.4031</td><td>1.00</td><td>\*</td><td>1008.4039</td><td>0.00</td><td></td></tr>
-<tr><td>1008.4040</td><td>0.00</td><td></td><td>1008.5031</td><td>1.00</td><td>\*</td><td>1008.5039</td><td>0.00</td><td></td><td>1008.5040</td><td>0.00</td><td></td></tr>
-<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>1.00</td><td>\*</td><td>1008.6049</td><td>1.00</td><td>\*</td><td>1008.6050</td><td>0.10</td><td>\*</td></tr>
-<tr><td>1008.9035</td><td>1.00</td><td>\*</td><td>1008.9037</td><td>0.00</td><td></td><td>1008.9040</td><td>0.00</td><td></td><td>1101.0051</td><td>7.00</td><td>\*</td></tr>
-<tr><td>1101.0059</td><td>6.00</td><td>\*</td><td>1102.2010</td><td>20.00</td><td></td><td>1102.2020</td><td>1.00</td><td>\*</td><td>1102.9013</td><td>12.00</td><td>\*</td></tr>
-<tr><td>1102.9045</td><td>4.00</td><td>\*</td><td>1102.9046</td><td>2.00</td><td>\*</td><td>1102.9052</td><td>0.00</td><td></td><td>1102.9062</td><td>11.00</td><td>\*</td></tr>
-<tr><td>1103.1112</td><td>10.00</td><td>\*</td><td>1103.1192</td><td>8.00</td><td>\*</td><td>1103.1320</td><td>6.00</td><td>\*</td><td>1103.1390</td><td>20.00</td><td></td></tr>
-<tr><td>1103.1912</td><td>7.00</td><td>\*</td><td>1103.1922</td><td>14.00</td><td></td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>0.00</td><td></td></tr>
-<tr><td>1103.1993</td><td>8.00</td><td>\*</td><td>1103.2012</td><td>7.00</td><td>\*</td><td>1103.2022</td><td>4.00</td><td>\*</td><td>1103.2092</td><td>7.00</td><td>\*</td></tr>
-<tr><td>1104.1220</td><td>15.00</td><td></td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>8.00</td><td>\*</td><td>1104.1922</td><td>8.00</td><td>\*</td></tr>
-<tr><td>1104.1929</td><td>20.00</td><td></td><td>1104.1993</td><td>8.00</td><td>\*</td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>14.00</td><td></td></tr>
-<tr><td>1104.2320</td><td>0.00</td><td></td><td>1104.2390</td><td>20.00</td><td></td><td>1104.2912</td><td>8.00</td><td>\*</td><td>1104.2923</td><td>1.00</td><td></td></tr>
-<tr><td>1104.2932</td><td>20.00</td><td></td><td>1104.2933</td><td>7.00</td><td>\*</td><td>1104.2993</td><td>6.00</td><td>\*</td><td>1104.3070</td><td>0.00</td><td></td></tr>
+<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>3.00</td><td>\*</td><td>1001.1939</td><td>2.00</td><td>\*</td></tr>
+<tr><td>1001.1940</td><td>0.20</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>3.00</td><td>\*</td><td>1001.9939</td><td>2.00</td><td>\*</td></tr>
+<tr><td>1001.9940</td><td>0.20</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>3.00</td><td>\*</td><td>1002.9039</td><td>0.00</td><td></td></tr>
+<tr><td>1002.9040</td><td>0.00</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>0.50</td><td>\*</td><td>1003.9030</td><td>0.05</td><td>\*</td></tr>
+<tr><td>1003.9041</td><td>0.25</td><td>\*</td><td>1003.9051</td><td>3.00</td><td>\*</td><td>1003.9059</td><td>1.00</td><td>\*</td><td>1003.9060</td><td>0.15</td><td>\*</td></tr>
+<tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.00</td><td></td><td>1004.9031</td><td>3.00</td><td>\*</td><td>1004.9039</td><td>0.00</td><td></td></tr>
+<tr><td>1004.9040</td><td>0.00</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>0.25</td><td>\*</td><td>1005.9031</td><td>3.00</td><td>\*</td></tr>
+<tr><td>1005.9039</td><td>1.00</td><td>\*</td><td>1005.9040</td><td>0.10</td><td>\*</td><td>1006.1021</td><td>3.00</td><td>\*</td><td>1006.1029</td><td>0.00</td><td></td></tr>
+<tr><td>1006.2021</td><td>3.00</td><td>\*</td><td>1006.2029</td><td>0.00</td><td></td><td>1006.3021</td><td>3.00</td><td>\*</td><td>1006.3029</td><td>0.00</td><td></td></tr>
+<tr><td>1006.4021</td><td>3.00</td><td>\*</td><td>1006.4029</td><td>0.00</td><td></td><td>1007.9031</td><td>3.00</td><td>\*</td><td>1007.9039</td><td>0.00</td><td></td></tr>
+<tr><td>1007.9040</td><td>0.00</td><td></td><td>1008.1031</td><td>3.00</td><td>\*</td><td>1008.1039</td><td>0.00</td><td></td><td>1008.1040</td><td>0.00</td><td></td></tr>
+<tr><td>1008.2931</td><td>3.00</td><td>\*</td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>3.00</td><td>\*</td></tr>
+<tr><td>1008.3039</td><td>0.00</td><td></td><td>1008.3040</td><td>0.00</td><td></td><td>1008.4031</td><td>3.00</td><td>\*</td><td>1008.4039</td><td>2.00</td><td>\*</td></tr>
+<tr><td>1008.4040</td><td>0.05</td><td>\*</td><td>1008.5031</td><td>3.00</td><td>\*</td><td>1008.5039</td><td>2.00</td><td>\*</td><td>1008.5040</td><td>0.05</td><td>\*</td></tr>
+<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>3.00</td><td>\*</td><td>1008.6049</td><td>3.00</td><td>\*</td><td>1008.6050</td><td>0.30</td><td>\*</td></tr>
+<tr><td>1008.9035</td><td>3.00</td><td>\*</td><td>1008.9037</td><td>2.00</td><td>\*</td><td>1008.9040</td><td>0.05</td><td>\*</td><td>1101.0051</td><td>9.00</td><td>\*</td></tr>
+<tr><td>1101.0059</td><td>8.00</td><td>\*</td><td>1102.2010</td><td>20.35</td><td>\*</td><td>1102.2020</td><td>3.00</td><td>\*</td><td>1102.9013</td><td>14.00</td><td>\*</td></tr>
+<tr><td>1102.9045</td><td>6.00</td><td>\*</td><td>1102.9046</td><td>4.00</td><td>\*</td><td>1102.9052</td><td>0.00</td><td></td><td>1102.9062</td><td>13.00</td><td>\*</td></tr>
+<tr><td>1103.1112</td><td>12.00</td><td>\*</td><td>1103.1192</td><td>10.00</td><td>\*</td><td>1103.1320</td><td>8.00</td><td>\*</td><td>1103.1390</td><td>20.50</td><td>\*</td></tr>
+<tr><td>1103.1912</td><td>9.00</td><td>\*</td><td>1103.1922</td><td>14.00</td><td></td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>0.00</td><td></td></tr>
+<tr><td>1103.1993</td><td>10.00</td><td>\*</td><td>1103.2012</td><td>9.00</td><td>\*</td><td>1103.2022</td><td>6.00</td><td>\*</td><td>1103.2092</td><td>9.00</td><td>\*</td></tr>
+<tr><td>1104.1220</td><td>15.00</td><td></td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>10.00</td><td>\*</td><td>1104.1922</td><td>10.00</td><td>\*</td></tr>
+<tr><td>1104.1929</td><td>20.35</td><td>\*</td><td>1104.1993</td><td>10.00</td><td>\*</td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>14.00</td><td></td></tr>
+<tr><td>1104.2320</td><td>0.00</td><td></td><td>1104.2390</td><td>20.70</td><td>\*</td><td>1104.2912</td><td>10.00</td><td>\*</td><td>1104.2923</td><td>1.00</td><td></td></tr>
+<tr><td>1104.2932</td><td>20.35</td><td>\*</td><td>1104.2933</td><td>9.00</td><td>\*</td><td>1104.2993</td><td>8.00</td><td>\*</td><td>1104.3070</td><td>0.00</td><td></td></tr>
 <tr><td>1104.3081</td><td>0.00</td><td></td><td>1104.3093</td><td>0.00</td><td></td><td>1105.1021</td><td>0.00</td><td></td><td>1105.2021</td><td>0.00</td><td></td></tr>
 <tr><td>1106.1010</td><td>0.00</td><td></td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>12.00</td><td></td><td>1107.1013</td><td>0.00</td><td></td></tr>
 <tr><td>1107.1094</td><td>0.00</td><td></td><td>1107.2013</td><td>0.00</td><td></td><td>1107.2094</td><td>0.00</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
@@ -2883,7 +2883,7 @@ Anhang 2[^t-2]
 <tr><td>2306.3010</td><td>0.00</td><td></td><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.6010</td><td>0.00</td><td></td><td>2306.9011</td><td>0.00</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>0.00</td><td></td></tr>
 <tr><td>2308.0030</td><td>0.00</td><td></td><td>2308.0040</td><td>0.00</td><td></td><td>2308.0050</td><td>0.00</td><td></td><td>2308.0060</td><td>0.00</td><td></td></tr>
-<tr><td>2309.9011</td><td>0.00</td><td></td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>161.50</td><td>\*</td><td>2309.9082</td><td>0.00</td><td></td></tr>
+<tr><td>2309.9011</td><td>0.00</td><td></td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>161.60</td><td>\*</td><td>2309.9082</td><td>0.00</td><td></td></tr>
 <tr><td>2309.9089</td><td>0.00</td><td></td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>0.00</td><td></td><td>3809.1010</td><td>0.00</td><td></td></tr>
 <tr><td>3823.1110</td><td>0.00</td><td></td><td>3823.1210</td><td>0.00</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="12">**[1]** Die Zollansätze können vom Generaltarif abweichen. Neu festgelegte Zollansätze sind mit einem «\*» gekennzeichnet.</td></tr>
@@ -2895,7 +2895,7 @@ Anhang 3[^t-3]
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), Ziff. I Abs. 1 der V vom 10. Juni 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), Ziff. I der V des BLW vom 9. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), vom 26. Sept. 2022 ([AS 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), Ziff. II der V des BLW vom 23. Sept. 2022 ([AS 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)) und Ziff. I der V des BLW vom 5. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), Ziff. I Abs. 1 der V vom 10. Juni 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), Ziff. I der V des BLW vom 9. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), vom 26. Sept. 2022 ([AS 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), Ziff. II der V des BLW vom 23. Sept. 2022 ([AS 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)), Ziff. I der V des BLW vom 5. Dez. 2022 ([AS 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)) und vom 9. Jan. 2023, in Kraft seit 1. Febr. 2023 ([AS 2023 14](https://fedlex.data.admin.ch/eli/oc/2023/14)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -3013,8 +3013,10 @@ Anhang 3[^t-3]
 <tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
 <tr><td>14</td><td>Kartoffeln und Kartoffelprodukte, in Kartoffeläquivalenten, davon:</td><td>**23 750**</td></tr>
 <tr><td>14.1</td><td>Saatkartoffeln</td><td>**4000**</td></tr>
+<tr><td>14.1.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2023: 1. Februar bis 31. Dezember 2023</td><td>**5000**</td></tr>
 <tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9250**</td></tr>
 <tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2023: 1. bis 31. Januar 2023</td><td>**5000**</td></tr>
+<tr><td>14.2.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2023: 1. Februar bis 30. Juni 2023</td><td>**13 000**</td></tr>
 <tr><td>14.3</td><td>Speisekartoffeln</td><td>**6500**</td></tr>
 <tr><td>14.4</td><td>Kartoffelprodukte, davon:</td><td>**4000**</td></tr>
 <tr><td>14.4.1</td><td>Warenkategorie Halbfabrikate</td><td>**1000**</td></tr>
