@@ -4,13 +4,13 @@ number: "162.711.1"
 title: Organisationsreglement der Staatsanwaltschaft
 short: OrR StAw
 language: de
-version: 2018-04-01
-valid_until: 2023-01-31
-version_adopted: 2017-08-22
+version: 2023-02-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 2010-10-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.711.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1426/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2776/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1426/pdf_file"
 
 (OrR StAw)
 
-vom 15.10.2010 (Stand 01.04.2018)
+vom 15.10.2010 (Stand 01.02.2023)
 
 Die Generalstaatsanwaltschaft des Kantons Bern,
 
@@ -286,12 +286,23 @@ beschliesst:
 
 #### Art. 22
 
-**Ausgabenbefugnisse**
+**Ausgabenbefugnisse, Rechnungsprüfung**
 
-<sup>1</sup> Die leitenden Staatsanwältinnen und Staatsanwälte bewilligen Ausgaben wie folgt:
+<sup>1</sup> Die leitenden Staatsanwältinnen und Staatsanwälte bewilligen Ausgaben ihrer Staatsanwaltschaft wie folgt:
 
-- a neue einmalige Ausgaben bis 10 000 Franken,
-- b neue wiederkehrende Ausgaben bis 2000 Franken.
+- a neue einmalige Ausgaben bis 10'000 Franken,
+- b neue wiederkehrende Ausgaben bis 2000 Franken
+
+<sup>2</sup> Der Stabschef oder die Stabschefin der Generalstaatsanwaltschaft bewilligt Ausgaben der Generalstaatsanwaltschaft wie folgt:
+
+- a neue einmalige Ausgaben bis 10'000 Franken,
+- b neue wiederkehrende Ausgaben bis 2000 Franken
+
+<sup>3</sup> Ausnahmen gemäss Art. 31 Abs. 2 FHaV von der Ausgabenbewilligung bleiben vorbehalten.
+
+<sup>4</sup> Im Übrigen nimmt die Generalstaatsanwältin oder der Generalstaatsanwalt die Ausgabenbefugnis gemäss Art. 3 JFinR wahr.
+
+<sup>5</sup> Die Generalstaatsanwaltschaft legt die Befugnisse zur finanziellen Freigabe im Rahmen der Rechnungsprüfung fest.
 
 #### Art. 23
 

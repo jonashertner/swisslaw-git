@@ -4,13 +4,13 @@ number: "162.711.1"
 title: Règlement d’organisation du Ministère public
 short: RO MP
 language: fr
-version: 2018-04-01
-valid_until: 2023-01-31
-version_adopted: 2017-08-22
+version: 2023-02-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 2010-10-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.711.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1426/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2776/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1426/pdf_file"
 
 (RO MP)
 
-du 15.10.2010 (état au 01.04.2018)
+du 15.10.2010 (état au 01.02.2023)
 
 Le Parquet général du canton de Berne,
 
@@ -286,12 +286,23 @@ arrête:
 
 #### Art. 22
 
-**Compétences en matière d’autorisation de dépenses**
+**Compétences en matière d’autorisation de dépenses, vérification des factures**
 
-<sup>1</sup> Les procureurs et procureures en chef autorisent les dépenses suivantes:
+<sup>1</sup> Les procureures et procureurs en chef autorisent les dépenses suivantes de leur ministère public:
 
-- a dépense nouvelle unique inférieure ou égale à 10 000 francs,
-- b dépense nouvelle périodique inférieure ou égale à 2 000 francs.
+- a dépense nouvelle unique inférieure ou égale à 10’000 francs,
+- b dépense nouvelle périodique inférieure ou égale à 2000 francs.
+
+<sup>2</sup> La cheffe ou le chef d’état-major du Parquet général autorise les dépenses suivantes du Parquet général:
+
+- a dépense nouvelle unique inférieure ou égale à 10’000 francs,
+- b dépense nouvelle périodique inférieure ou égale à 2000 francs.
+
+<sup>3</sup> Les exceptions selon l’article 31, alinéa 2 OFin à l’autorisation des dépenses sont réservées.
+
+<sup>4</sup> Au surplus, la procureure générale ou le procureur général est compétent pour autoriser les dépenses conformément à l’article 3 RFinJ.
+
+<sup>5</sup> Le Parquet général fixe les compétences relatives à la validation financière dans le cadre de la vérification des factures.
 
 #### Art. 23
 
