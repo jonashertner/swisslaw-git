@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: Ausführungsordnung von 2. Oktober 2018 betreffend das Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: de
-version: 2022-11-01
+version: 2023-02-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20221101/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20221101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20221101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20230201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2020** 1667[^t-1]
 
 Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft getreten am 1. Februar 2020
 
-(Stand am 1. November 2022)
+(Stand am 1. Februar 2023)
 
 [^t-1]: Berichtigung vom 12. April 2022 ([AS 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -42,7 +42,7 @@ Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft
 <tr><td>Regel 9</td><td>Erfordernisse bezüglich des internationalen Gesuchs</td></tr>
 <tr><td>Regel 10</td><td>Gebühren für das internationale Gesuch</td></tr>
 <tr><td>Regel 11</td><td>Andere als die Klassifikation der Waren und Dienstleistungen betreffende Mängel</td></tr>
-<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und D (Stand am 1. November 2022)ienstleistungen</td></tr>
+<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und D (Stand am 1. Februar 2023)ienstleistungen</td></tr>
 <tr><td>Regel 13</td><td>Mängel in bezog auf die Angabe der Waren und Dienstleistungen</td></tr>
 <tr><td>Kapitel 3:</td><td>Internationale Registrierungen</td></tr>
 <tr><td>Regel 14</td><td>Eintragung der Marke im internationalen Register</td></tr>
@@ -168,7 +168,7 @@ An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in 
 
 - a) Ist nach Auffassung des Internationalen Büros die Bestellung eines Vertreters nach Absatz 2 nicht vorschriftsmäßig, so benachrichtigt es den Hinterleger oder den Inhaber, den vermeintlichen Vertreter und, falls es sich bei dem Absender oder Übermittler um eine Behörde handelt, diese Behörde entsprechend.
 - b) Solange die einschlägigen Erfordernisse nach Absatz 2 nicht erfüllt sind, übersendet das Internationale Büro alle diesbezüglichen Mitteilungen an den Hinterleger oder Inhaber, jedoch nicht an den vermeintlichen Vertreter.
-- c) ….
+- c) …
 
 \4) [Eintragung der Bestellung eines Vertreters und Mitteilung darüber; Datum des Wirksamwerdens der Bestellung]
 
@@ -341,9 +341,9 @@ Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nac
   - ii)[^chap2-lvlu2-2] die nach den Verwaltungsvorschriften angegebene Anschrift und die E-Mail-Adresse des Hinterlegers;
   - iii)[^chap2-lvlu2-3] gegebenenfalls den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift, sowie die E-Mail-Adresse des Vertreters;
   - iv) falls der Hinterleger sich aufgrund der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums die Priorität einer früheren Anmeldung zunutze zu machen wünscht, eine Erklärung, in der die Priorität dieser früheren Anmeldung beansprucht wird, zusammen mit der Angabe des Namens der Behörde, bei der die Anmeldung eingereicht wurde, und des Datums sowie, falls vorhanden, die Nummer dieser Anmeldung und, falls sich die frühere Anmeldung nicht auf alle in dem internationalen Gesuch aufgeführten Waren und Dienstleistungen bezieht, die Angabe der Waren und Dienstleistungen, auf die sich die frühere Anmeldung bezieht;
-  - v) eine Wiedergabe der Marke, die in das dafür vorgesehene Feld im amtlichen Formblatt passen muss; die Wiedergabe muss deutlich und in Schwarzweiss oder in Farbe sein, je nachdem, ob die Wiedergabe in dem Basisgesuch oder der Basiseintragung in Schwarzweiss oder in Farbe ist;
+  - v)[^chap2-lvlu2-4] eine Abbildung der Marke, die gemäss den Verwaltungsvorschriften eingereicht wird, muss in Farbe sein, wenn die Farbe gemäss Ziffer vii) beansprucht wird;
   - vi) falls der Hinterleger wünscht, dass die Marke als Marke in Standardschriftzeichen angesehen wird, eine dahin gehende Erklärung;
-  - vii) falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder der Hinterleger Farbe als unterscheidendes Merkmal der Marke beanspruchen möchte und die im Basisgesuch oder der Basiseintragung enthaltene Marke in Farbe ist, die Angabe, dass Farbe beansprucht wird, und die Angabe der beanspruchten Farbe oder Farbenzusammenstellung in Worten und, falls die unter Ziffer v eingereichte Wiedergabe in Schwarzweiss ist, eine Wiedergabe der Marke in Farbe;
+  - vii)[^chap2-lvlu2-5] falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder der Hinterleger Farbe als unterscheidendes Merkmal der Marke beanspruchen möchte und die im Basisgesuch oder der Basiseintragung enthaltene Marke in Farbe ist, in Farbe geschützt ist, oder der Schutz der Farbe beantragt wurde, die Angabe, dass Farbe beansprucht wird, und die Angabe der beanspruchten Farbe oder Farbenzusammenstellung in Worten;
   - [tab] vii<sup>bis</sup> falls die Marke, die Gegenstand des Basisgesuchs oder der Basiseintragung ist, aus einer Farbe oder einer Kombination von Farben an sich besteht, eine dahingehende Angabe;
   - viii) falls sich das Basisgesuch oder die Basiseintragung auf eine dreidimensionale Marke bezieht, die Angabe «three-dimensional mark»/«marque tridimensionnelle» («dreidimensionale Marke»);
   - ix) falls sich das Basisgesuch oder die Basiseintragung auf ein Hörzeichen bezieht, die Angabe «sound mark»/«marque sonore» («Hörzeichen»);
@@ -386,7 +386,7 @@ Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nac
   - ii) dass der in dem internationalen Gesuch genannte Hinterleger und der Inhaber der Basiseintragung dieselbe Person ist;
   - iii) dass jede in Absatz 4 Buchstabe a Ziffern viibis bis xi genannte und im internationalen Gesuch gemachte Angabe auch im Basisgesuch beziehungsweise in der Basiseintragung gemacht wurde;
   - iv) dass die Marke, die Gegenstand des internationalen Gesuchs ist, dieselbe ist wie im Basisgesuch beziehungsweise in der Basiseintragung;
-  - v) dass, falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, derselbe Anspruch in das internationale Gesuch aufgenommen wird, oder, falls Farbe als unterscheidendes Merkmal der Marke im internationalen Gesuch beansprucht wird, ohne im Basisgesuch oder der Basiseintragung beansprucht worden zu sein, die Marke im Basisgesuch oder der Basiseintragung tatsächlich in der beanspruchten Farbe oder Farbkombination ist; und
+  - v)[^chap2-lvlu2-6] dass, falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder, falls für die Marke im Basisgesuch oder der Basiseintragung der Schutz der Farbe beantragt wurde oder die Marke in Farbe geschützt ist, ein Farbanspruch in das internationale Gesuch aufgenommen wird, oder, falls Farbe als unterscheidendes Merkmal der Marke im internationalen Gesuch beansprucht wird, ohne im Basisgesuch oder der Basiseintragung beansprucht worden zu sein, die Marke im Basisgesuch oder der Basiseintragung tatsächlich in der beanspruchten Farbe oder Farbkombination ist; und
   - vi) dass die im internationalen Gesuch angegebenen Waren und Dienstleistungen von dem Verzeichnis der Waren und Dienstleistungen des Basisgesuchs beziehungsweise der Basiseintragung erfasst sind.
 
 - e) Stützt sich das internationale Gesuch auf zwei oder mehr Basisgesuche oder Basiseintragungen, so gilt die unter Buchstabe d genannte Erklärung als auf alle jene Basisgesuche oder Basiseintragungen anwendbar.
@@ -406,6 +406,9 @@ Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nac
 [^chap2-lvlu2-1]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 [^chap2-lvlu2-2]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 [^chap2-lvlu2-3]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^chap2-lvlu2-4]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^chap2-lvlu2-5]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^chap2-lvlu2-6]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ### **Regel 10**Gebühren für das internationale Gesuch
 
@@ -544,7 +547,7 @@ Die internationale Registrierung enthält folgendes:
 
   - i) Angaben, welche die Feststellung der Identität des Hinterlegers gestatten und ausreichen, um mit dem Hinterleger oder gegebenenfalls dem Vertreter in Verbindung zu treten,
   - ii) die benannten Vertragsparteien;
-  - iii) eine Wiedergabe der Marke;
+  - iii)[^chap3-lvlu2-1] eine Abbildung der Marke;
   - iv) die Angabe der Waren und Dienstleistungen, für die um Registrierung der Marke nachgesucht wird,
 
 - so trägt die internationale Registrierung das Datum des Tages, an dem der letzte fehlende Bestandteil beim Internationalen Büro eingegangen ist; geht der letzte der fehlenden Bestandteile jedoch innerhalb der in Artikel 3 Absatz 4 des Protokolls genannten Frist von zwei Monaten beim Internationalen Büro ein, so trägt die internationale Registrierung das Datum des Tages, an dem das fehlerhafte internationale Gesuch bei der Ursprungsbehörde eingegangen ist.
@@ -553,6 +556,8 @@ Die internationale Registrierung enthält folgendes:
 \2) [Datum der internationalen Registrierung in sonstigen Fällen]
 
 In allen sonstigen Fällen trägt die internationale Registrierung das nach Artikel 3 Absatz 4 des Protokolls bestimmte Datum.
+
+[^chap3-lvlu2-1]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ## Kapitel 4 Sachverhalte bei den Vertragsparteien, die internationale Registrierungen berühren
 
@@ -583,7 +588,7 @@ Eine Mitteilung über die vorläufige Schutzverweigerung hat folgendes zu enthal
 - ii) die Nummer der internationalen Registrierung, vorzugsweise versehen mit anderen Angaben, die die Identifizierung der internationalen Registrierung erlauben, wie zum Beispiel Wortbestandteile der Marke oder die Nummer des Basisgesuchs oder der Basiseintragung;
 - iii) …
 - iv) alle Gründe, auf die sich die vorläufige Schutzverweigerung stützt, mit einem Hinweis auf die entsprechenden wesentlichen Bestimmungen des Gesetzes;
-- v) beziehen sich die Gründe, auf die sich die vorläufige Schutzverweigerung stützt, auf eine Marke, die Gegenstand einer Anmeldung oder einer Eintragung gewesen ist und mit der die Marke, die Gegenstand der internationalen Registrierung ist, offenbar kollidiert, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung, den Namen und die Anschrift des Inhabers sowie eine Wiedergabe der früheren Marke zusammen mit einem Verzeichnis sämtlicher oder der betroffenen Waren und Dienstleistungen in der Anmeldung oder der Eintragung der früheren Marke, wobei dieses Verzeichnis in der Sprache dieser Anmeldung oder dieser Eintragung abgefasst sein kann;
+- v)[^chap4-lvlu2-1] beziehen sich die Gründe, auf die sich die vorläufige Schutzverweigerung stützt, auf eine Marke, die Gegenstand einer Anmeldung oder einer Eintragung gewesen ist und mit der die Marke, die Gegenstand der internationalen Registrierung ist, offenbar kollidiert, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung, den Namen und die Anschrift des Inhabers sowie eine Abbildung der früheren Marke, oder Angaben dazu wie man darauf zugreifen kann, zusammen mit einem Verzeichnis sämtlicher oder der betroffenen Waren und Dienstleistungen in der Anmeldung oder der Eintragung der früheren Marke, wobei dieses Verzeichnis in der Sprache dieser Anmeldung oder dieser Eintragung abgefasst sein kann;
 - vi) entweder, dass die Gründe, auf die die vorläufige Schutzverweigerung gestützt ist, alle Waren und Dienstleistungen berühren oder eine Angabe der Waren und Dienstleistungen, die von der vorläufigen Schutzverweigerung berührt beziehungsweise nicht berührt sind;
 - vii) die unter den Umständen angemessene Frist zur Einreichung des Antrags auf Überprüfung oder Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise zur Einreichung einer Erwiderung auf den Widerspruch, vorzugsweise mit einer Angabe des Datums, an dem die entsprechende Frist abläuft, und die für den Antrag auf Überprüfung, Beschwerde oder Erwiderung zuständige Behörde, gegebenenfalls mit dem Hinweis, dass der Antrag auf Überprüfung oder die Beschwerde über einen Vertreter einzureichen ist, dessen Anschrift sich innerhalb des Gebiets der Vertragspartei befindet, deren Behörde die Schutzverweigerung ausgesprochen hat;
 - viii) …
@@ -610,6 +615,8 @@ Das internationale Büro trägt die vorläufige Schutzverweigerung im internatio
 - e) Die Behörde einer Vertragspartei kann den Generaldirektor in einer Erklärung davon unterrichten, dass nach dem Recht dieser Vertragspartei eine vorläufige Schutzverweigerung von Amts wegen, von der das Internationale Büro unterrichtet worden ist, der Überprüfung durch diese Behörde nicht zugänglich ist. Findet diese Erklärung Anwendung, so gilt eine Erklärung nach Regel 18<sup>ter</sup> Absatz 2 Ziffer ii oder Absatz 3 als in einer Mitteilung über eine vorläufige Schutzverweigerung von Amts wegen durch diese Behörde enthalten.
 
 \6) …
+
+[^chap4-lvlu2-1]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ### **Regel 18**Nicht vorschriftsmässige Mitteilungen über die vorläufige Schutzverweigerung
 
@@ -1206,7 +1213,7 @@ Die Tatsache, dass die in Artikel 7 Absatz 3 des Protokolls genannte offiziöse 
 - a) Beabsichtigt der Inhaber nicht, die internationale Registrierung für eine benannte Vertragspartei, für die keine Erklärung über die Schutzverweigerung nach Regel 18<sup>ter</sup> in Bezug auf alle betroffenen Waren und Dienstleistungen im internationalen Register eingetragen ist, zu erneuern, so ist der Zahlung der erforderlichen Gebühren eine Erklärung des Inhabers beizufügen, dass die Erneuerung der internationalen Registrierung für diese Vertragspartei im internationalen Register nicht einzutragen ist.
 - b) Beabsichtigt der Inhaber, die internationale Registrierung für eine benannte Vertragspartei ungeachtet der Tatsache zu erneuern, dass für diese Vertragspartei im internationalen Register eine Erklärung über die Schutzverweigerung nach Regel 18<sup>ter</sup> in Bezug auf alle betroffenen Waren und Dienstleistungen eingetragen ist, so ist der Zahlung der erforderlichen Gebühren einschliesslich der Ergänzungsgebühr beziehungsweise der individuellen Gebühr für diese Vertragspartei eine Erklärung des Inhabers beizufügen, dass die Erneuerung der internationalen Registrierung für diese Vertragspartei für die betroffenen Waren und Dienstleistungen im internationalen Register einzutragen ist.
 - c) Die internationale Registrierung wird für eine benannte Vertragspartei, für die eine Ungültigerklärung hinsichtlich aller Waren und Dienstleistungen nach Regel 19 Absatz 2 oder ein Verzicht nach Regel 27 Absatz 1 Buchstabe a eingetragen worden ist, nicht erneuert. Die internationale Registrierung wird in Bezug auf eine benannte Vertragspartei für diejenigen Waren und Dienstleistungen nicht erneuert, für die eine Ungültigerklärung der Wirkungen der internationalen Registrierung in dieser Vertragspartei nach Regel 19 Absatz 2 oder eine Einschränkung nach Regel 27 Absatz 1 Buchstabe a eingetragen worden ist.
-- d) ….
+- d) …
 - e) Die Tatsache, dass die internationale Registrierung nicht für alle benannten Vertragsparteien erneuert wird, gilt nicht als Änderung im Sinne des Artikels 7 Absatz 2 des Protokolls.
 
 \3) [Nicht ausreichende Gebühren]
@@ -1265,8 +1272,8 @@ Das Internationale Büro teilt die Erneuerung den Behörden der beteiligten bena
   - xii) die nicht erneuerten internationalen Registrierungen;
   - xiii) Eintragungen der nach Regel 3 Absatz 2 Buchstabe b mitgeteilten Bestellung des Vertreters des Inhabers und Löschungen auf Antrag des Inhabers oder des Vertreters des Inhabers nach Regel 3 Absatz 6 Buchstabe a.
 
-- b) Die Wiedergabe der Marke wird in der im internationalen Gesuch erscheinenden Form veröffentlicht. Hat der Hinterleger die in Regel 9 Absatz 4 Buchstabe a Ziffer vi genannte Erklärung abgegeben, so wird in der Veröffentlichung darauf hingewiesen.
-- c) Wird eine farbige Wiedergabe der Marke nach Regel 9 Absatz 4 Buchstabe a Ziffer v oder vii eingereicht, so enthält das Blatt sowohl eine Wiedergabe der Marke in Schwarzweiss als auch eine Wiedergabe in Farbe.
+- b)[^chap7-lvlu1-1] Die Abbildung der Marke wird in der im internationalen Gesuch eingereichten Form veröffentlicht. Hat der Hinterleger die in Regel 9 Absatz 4 Buchstabe a Ziffer vi genannte Erklärung abgegeben, so wird in der Veröffentlichung darauf hingewiesen.
+- c)[^chap7-lvlu1-2] …
 
 \2) [Informationen über besondere Erfordernisse und bestimmte Erklärungen von Vertragsparteien sowie andere allgemeine Informationen]
 
@@ -1283,6 +1290,9 @@ Das Internationale Büro veröffentlicht im Blatt:
 Das Internationale Büro nimmt die Veröffentlichungen nach den Absätzen 1 und 2 auf der Internetseite der Weltorganisation für geistiges Eigentum vor.
 
 \4) …
+
+[^chap7-lvlu1-1]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^chap7-lvlu1-2]: Aufgehoben durch die am 1. Febr. 2023 in Kraft getretene Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ### **Regel 33**Elektronische Datenbank
 
@@ -1490,9 +1500,9 @@ Im Falle eines Widerspruchs zwischen einer Bestimmung der Verwaltungsvorschrifte
 
 [^lvlu11-1]
 
-[^lvlu11-1]: Bereinigt gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^lvlu11-1]: Bereinigt gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)) und der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
-(am 1. November 2021 geltender Text)
+(am 1. Februar 2023 geltender Text)
 
 <table>
 <tr><th></th><th>Schweizer Franken</th></tr>
@@ -1500,8 +1510,8 @@ Im Falle eines Widerspruchs zwischen einer Bestimmung der Verwaltungsvorschrifte
 <tr><td>2. Internationales Gesuch</td><td></td></tr>
 <tr><td>Folgende Gebühren sind zu zahlen; sie umfassen einen Zeitraum von 10 Jahren:</td><td></td></tr>
 <tr><td>2.1 Grundgebühr (Artikel 8 Absatz 2 Ziffer i des Protokolls)[^lvlu11-2]\*</td><td></td></tr>
-<tr><td>2.1.1 wenn keine der Wiedergaben der Marke in Farbe ist</td><td>653</td></tr>
-<tr><td>2.1.2 wenn eine der Wiedergaben der Marke in Farbe ist</td><td>903</td></tr>
+<tr><td>2.1.1 wenn keine der Abbildungen der Marke in Farbe ist</td><td>653</td></tr>
+<tr><td>2.1.2 wenn eine der Abbildungen der Marke in Farbe ist</td><td>903</td></tr>
 <tr><td>2.2 Zusatzgebühr für jede die dritte Klasse übersteigende Klasse der Waren oder Dienstleistungen, sofern nicht ausschliesslich Vertragsparteien benannt werden, für die individuelle Gebühren (siehe Nr. 2.4) zu zahlen sind (Art. 8 Abs. 2 Ziff. ii und 7 Bst. a Ziff. i des Prot.)</td><td>100</td></tr>
 <tr><td>2.3 Ergänzungsgebühr für jede benannte Vertragspartei, sofern es sich bei der benannten Vertragspartei nicht um eine Vertragspartei handelt, für die eine individuelle Gebühr (siehe Nr. 2.4) zu zahlen ist (Art. 8 Abs. 2 Ziff. iii und 7 Bst. a Ziff. ii des Prot.)</td><td>100</td></tr>
 <tr><td>2.4 Individuelle Gebühr für jede Vertragspartei, für die eine individuelle Gebühr (anstatt einer Ergänzungsgebühr) zu zahlen ist, sofern es sich bei der benannten Vertragspartei und bei der Vertragspartei der Ursprungsbehörde nicht um Staaten handelt, die auch durch das Abkommen gebunden sind; in diesem Fall ist für die benannte Vertragspartei eine Ergänzungsgebühr zu zahlen (Art. 8 Abs. 7 Bst. a und 9<sup>sexies</sup> Abs. 1 Bst. b des Prot.): Der Betrag der individuellen Gebühr wird von jeder betroffenen Vertragspartei festgesetzt</td><td></td></tr>
@@ -1549,7 +1559,7 @@ Im Falle eines Widerspruchs zwischen einer Bestimmung der Verwaltungsvorschrifte
 <tr><td>10.2 Vom Internationalen Büro an den Nachfolgestaat zu überweisende Gebühr</td><td>41</td></tr>
 </table>
 
-[^lvlu11-2]: \* Für internationale Gesuche, die von Hinterlegern eingereicht werden, deren Ursprungsland zu denen am wenigsten entwickelten Ländern gemäss Liste der Vereinten Nationen gehört, ist nur 10 Prozent der vorgeschriebenen Grundgebühr zu zahlen (gerundet auf die nächste ganze Zahl). Somit beträgt die Grundgebühr 65 Schweizer Franken, wenn keine der Wiedergaben der Marke in Farbe ist, bzw. auf 90 Schweizer Franken, wenn eine der Wiedergaben der Marke in Farbe ist.
+[^lvlu11-2]: \* Für internationale Gesuche, die von Hinterlegern eingereicht werden, deren Ursprungsland zu denen am wenigsten entwickelten Ländern gemäss Liste der Vereinten Nationen gehört, ist nur 10 Prozent der vorgeschriebenen Grundgebühr zu zahlen (gerundet auf die nächste ganze Zahl). Somit beträgt die Grundgebühr 65 Schweizer Franken, wenn keine der Abbildungen der Marke in Farbe ist, bzw. auf 90 Schweizer Franken, wenn eine der Abbildungen der Marke in Farbe ist.
 
 ## Verwaltungsvorschriften für die Anwendung des Protokolls zum Madrider Abkommen über die internationale Registrierung von Marken
 

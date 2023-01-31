@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Règlement d'exécution du 2 octobre 2018 du Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: fr
-version: 2022-11-01
+version: 2023-02-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20221101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20221101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20230201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par l’Assemblée de l’Union de Madrid le 2 octobre 2018
 
 Entré en vigueur le 1<sup>er</sup> février 2020
 
-(État le 1<sup>er</sup> novembre 2022)
+(État le 1<sup>er</sup> février 2023)
 
 [^t-1]: Erratum du 12 avr. 2022 ([RO 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -365,9 +365,9 @@ Les émoluments et taxes prescrits qui sont applicables à la demande internatio
   - ii)[^9-1] l’adresse du déposant, indiquée conformément aux instructions administratives, ainsi que son adresse électronique;
   - iii)[^9-2] le nom et l’adresse du mandataire, s’il y en a un, indiqués conformément aux instructions administratives, ainsi que son adresse électronique;
   - iv) lorsque le déposant souhaite, en vertu de la Convention de Paris pour la protection de la propriété industrielle, bénéficier de la priorité d’un dépôt antérieur, une déclaration revendiquant la priorité de ce dépôt antérieur, assortie de l’indication du nom de l’Office auprès duquel ce dépôt a été effectué ainsi que de la date et, s’il est disponible, du numéro de ce dépôt et, lorsque le dépôt antérieur ne couvre pas l’ensemble des produits et services énumérés dans la demande internationale, de l’indication des produits et services couverts par le dépôt antérieur;
-  - v) une reproduction de la marque qui doit s’insérer dans le cadre prévu à cet effet dans le formulaire officiel; cette reproduction doit être nette et elle doit être en noir et blanc ou en couleur selon que la reproduction dans la demande de base ou l’enregistrement de base est en noir et blanc ou en couleur;
+  - v)[^9-3] une représentation de la marque, fournie conformément aux Instructions administratives, qui doit être en couleur lorsque la couleur est revendiquée en vertu du point vii);
   - vi) lorsque le déposant souhaite que la marque soit considérée comme une marque en caractères standard, une déclaration à cet effet;
-  - vii) lorsque la couleur est revendiquée dans la demande de base ou l’enregistrement de base à titre d’élément distinctif de la marque, ou lorsque le déposant souhaite revendiquer la couleur à titre d’élément distinctif de la marque et que la marque contenue dans la demande de base ou l’enregistrement de base est en couleur, une indication que la couleur est revendiquée et une indication, exprimée par des mots, de la couleur ou de la combinaison de couleurs revendiquée et, lorsque la reproduction fournie en application du point v) est en noir et blanc, une reproduction de la marque en couleur;
+  - vii)[^9-4] lorsque la couleur est revendiquée dans la demande de base ou l’enregistrement de base, ou lorsque le déposant souhaite revendiquer la couleur à titre d’élément distinctif de la marque et que la marque contenue dans la demande de base ou l’enregistrement de base est en couleur ou fait l’objet d’une demande de protection en couleur ou est protégée en couleur, une indication que la couleur est revendiquée et une indication, exprimée par des mots, de la couleur ou de la combinaison de couleurs revendiquée;
   - vii<sup>bis</sup>) lorsque la marque qui fait l’objet de la demande de base ou de l’enregistrement de base consiste en une couleur ou une combinaison de couleurs en tant que telles, une indication de ce fait;
   - viii) lorsque la demande de base ou l’enregistrement de base concerne une marque tridimensionnelle, l’indication «marque tridimensionnelle»;
   - ix) lorsque la demande de base ou l’enregistrement de base concerne une marque sonore, l’indication «marque sonore»;
@@ -408,7 +408,7 @@ Les émoluments et taxes prescrits qui sont applicables à la demande internatio
   - ii) que le déposant nommé dans la demande internationale et le déposant nommé dans la demande de base ou le titulaire nommé dans l’enregistrement de base, selon le cas, sont une seule et même personne;
   - iii) que toute indication visée à l’al. 4)a)vii<sup>bis</sup>) à xi) et contenue dans la demande internationale figure également dans la demande de base ou l’enregistrement de base, selon le cas;
   - iv) que la marque faisant l’objet de la demande internationale est la même que dans la demande de base ou l’enregistrement de base, selon le cas;
-  - v) que, si la couleur est revendiquée à titre d’élément distinctif de la marque dans la demande de base ou l’enregistrement de base, la même revendication figure dans la demande internationale ou que, si la couleur est revendiquée à titre d’élément distinctif de la marque dans la demande internationale sans l’avoir été dans la demande de base ou l’enregistrement de base, la marque dans la demande de base ou dans l’enregistrement de base est bien dans la couleur ou la combinaison de couleurs revendiquée, et
+  - v)[^9-5] que, si la couleur est revendiquée à titre d’élément distinctif de la marque dans la demande de base ou l’enregistrement de base, ou que la marque dans la demande de base ou l’enregistrement de base fait l’objet d’une demande de protection en couleur ou est protégée en couleur, une revendication de couleur figure dans la demande internationale ou que, si la couleur est revendiquée à titre d’élément distinctif de la marque dans la demande internationale sans l’avoir été dans la demande de base ou l’enregistrement de base, la marque dans la demande de base ou dans l’enregistrement de base est bien dans la couleur ou la combinaison de couleurs revendiquée, et
   - vi) que les produits et services indiqués dans la demande internationale sont couverts par la liste de produits et services figurant dans la demande de base ou l’enregistrement de base, selon le cas.
 
 - e) Lorsque la demande internationale est fondée sur plusieurs demandes de base ou enregistrements de base, la déclaration visée au sous-alinéa d) est réputée s’appliquer à toutes ces demandes de base et à tous ces enregistrements de base.
@@ -428,6 +428,9 @@ Les émoluments et taxes prescrits qui sont applicables à la demande internatio
 
 [^9-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 [^9-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^9-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^9-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^9-5]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 #### Règle 10
 
@@ -585,11 +588,13 @@ Dans tous les autres cas, l’enregistrement international porte la date qui est
 
   - i) des indications qui permettent d’établir l’identité du déposant et qui soient suffisantes pour entrer en relation avec le déposant ou le mandataire, s’il y en a un;
   - ii) les parties contractantes qui sont désignées;
-  - iii) une reproduction de la marque;
+  - iii)[^15-1] une représentation de la marque;
   - iv) l’indication des produits et services pour lesquels l’enregistrement de la marque est demandé,
 
 - l’enregistrement international porte la date à laquelle le dernier des éléments faisant défaut est parvenu au Bureau international; toutefois, si le dernier des éléments faisant défaut parvient au Bureau international dans le délai de deux mois visé à l’art. 3.4) du Protocole, l’enregistrement international porte la date à laquelle la demande internationale défectueuse a été reçue par l’Office d’origine.
 - b) …
+
+[^15-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ## Chapitre 4 Faits survenant dans les parties contractantes et ayant une incidence sur les enregistrements internationaux
 
@@ -636,7 +641,7 @@ Une notification de refus provisoire contient ou indique:
 - ii) le numéro de l’enregistrement international, accompagné, de préférence, d’autres indications permettant de confirmer l’identité de l’enregistrement international, telles que les éléments verbaux de la marque ou le numéro de la demande de base ou de l’enregistrement de base;
 - iii) …
 - iv) tous les motifs sur lesquels le refus provisoire est fondé, accompagnés d’un renvoi aux dispositions essentielles correspondantes de la loi;
-- v) lorsque les motifs sur lesquels le refus provisoire est fondé se rapportent à une marque qui a fait l’objet d’une demande ou d’un enregistrement et avec laquelle la marque qui fait l’objet de l’enregistrement international semble être en conflit, la date et le numéro de dépôt, la date de priorité (le cas échéant), la date et le numéro d’enregistrement (s’ils sont disponibles), le nom et l’adresse du titulaire et une reproduction de cette première marque, ainsi que la liste de tous les produits et services ou des produits et services pertinents figurant dans la demande ou l’enregistrement concernant cette première marque, étant entendu que ladite liste peut être rédigée dans la langue de ladite demande ou dudit enregistrement;
+- v)[^17-1] lorsque les motifs sur lesquels le refus provisoire est fondé se rapportent à une marque qui a fait l’objet d’une demande ou d’un enregistrement et avec laquelle la marque qui fait l’objet de l’enregistrement international semble être en conflit, la date et le numéro de dépôt, la date de priorité (le cas échéant), la date et le numéro d’enregistrement (s’ils sont disponibles), le nom et l’adresse du titulaire et une représentation de cette première marque ou la marche à suivre pour accéder à cette représentation, ainsi que la liste de tous les produits et services ou des produits et services pertinents figurant dans la demande ou l’enregistrement concernant cette première marque, étant entendu que ladite liste peut être rédigée dans la langue de ladite demande ou dudit enregistrement;
 - vi) soit que les motifs sur lesquels le refus provisoire est fondé concernent la totalité des produits et services, soit une indication des produits et services qui sont concernés, ou qui ne sont pas concernés, par le refus provisoire;
 - vii) le délai, raisonnable eu égard aux circonstances, pour présenter une requête en réexamen ou un recours se rapportant au refus provisoire d’office ou au refus provisoire fondé sur une opposition et, le cas échéant, pour présenter une réponse à l’opposition, de préférence avec une indication de la date à laquelle ledit délai expire, ainsi que l’autorité compétente pour connaître de cette requête en réexamen, de ce recours ou de cette réponse, avec indication, le cas échéant, de l’obligation de présenter la requête en réexamen, le recours ou la réponse par l’intermédiaire d’un mandataire qui a son adresse sur le territoire de la partie contractante dont l’Office a prononcé le refus;
 - viii) …
@@ -651,6 +656,8 @@ Une notification de refus provisoire contient ou indique:
 
 - Lorsque cette déclaration s’applique et que l’Office n’est pas en mesure de communiquer ladite décision directement au titulaire de l’enregistrement international concerné, l’Office adresse au Bureau international, nonobstant le fait que toutes les procédures devant ledit Office concernant la protection de la marque peuvent ne pas être achevées, la déclaration visée à la règle 18<sup>ter</sup>.2) ou 3) immédiatement après ladite décision. Toute nouvelle décision ayant une incidence sur la protection de la marque est adressée au Bureau international conformément à la règle 18<sup>ter</sup>.4).
 - e) L’Office d’une partie contractante peut, dans une déclaration, notifier au Directeur général le fait que, conformément à la législation de ladite partie contractante, un refus provisoire d’office notifié au Bureau international n’est pas susceptible de réexamen devant ledit Office. Lorsque cette déclaration s’applique, toute notification d’un refus provisoire d’office émise par ledit Office est réputée inclure une déclaration conformément à la règle 18<sup>ter</sup>.2)ii) ou 3).
+
+[^17-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 #### Règle 18
 
@@ -1357,8 +1364,8 @@ Le Bureau international effectue les publications visées aux al. 1) et 2) sur l
   - xii) aux enregistrements internationaux qui n’ont pas été renouvelés;
   - xiii) aux inscriptions de la constitution du mandataire du titulaire communiquée en vertu de la règle 3.2)b) et aux radiations à la demande du titulaire ou du mandataire du titulaire en vertu de la règle 3.6)a).
 
-- b) La reproduction de la marque est publiée telle qu’elle figure dans la demande internationale. Lorsque le déposant a fait la déclaration visée à la règle 9.4)a)vi), la publication indique ce fait.
-- c) Lorsqu’une reproduction en couleur est fournie en vertu de la règle 9.4)a)v) ou vii), la gazette contient à la fois une reproduction de la marque en noir et blanc et la reproduction en couleur.
+- b)[^32-1] La représentation de la marque est publiée telle qu’elle est fournie dans la demande internationale. Lorsque le déposant a fait la déclaration visée à la règle 9.4)a)vi), la publication indique ce fait.
+- c)[^32-2] …
 
 Le Bureau international publie dans la gazette:
 
@@ -1367,6 +1374,9 @@ Le Bureau international publie dans la gazette:
 - iii) toute déclaration faite en vertu de l’art. 8.7) du Protocole;
 - iv) toute notification faite en vertu de la règle 34.2)b) ou 3)a);
 - v) la liste des jours où il est prévu que le Bureau international ne sera pas ouvert au public pendant l’année civile en cours et l’année civile suivante.
+
+[^32-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-2]: Abrogée par la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 #### Règle 33
 
@@ -1590,16 +1600,20 @@ En cas de divergence entre une disposition des instructions administratives, d�
 
 ## Barème des émoluments et taxes
 
-(État le 1<sup>er</sup> novembre 2021)
+[^lvlu11-1]
+
+[^lvlu11-1]: Mis à jour par les D entrées en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)) et le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+
+(État le 1<sup>er</sup> février 2023)
 
 <table>
 <tr><th></th><th>Francs suisses</th></tr>
 <tr><td>1. …</td><td></td></tr>
 <tr><td>2. Demandes internationales</td><td></td></tr>
 <tr><td>Les émoluments et taxes suivants doivent être payés et couvrent 10 ans:</td><td></td></tr>
-<tr><td>2.1 Émolument de base (art. 8.2)i) du Protocole)[^lvlu11-1]\*</td><td></td></tr>
-<tr><td>2.1.1 lorsqu’aucune reproduction de la marque n’est en couleur</td><td>653</td></tr>
-<tr><td>2.1.2 lorsqu’une reproduction de la marque est en couleur</td><td>903</td></tr>
+<tr><td>2.1 Émolument de base (art. 8.2)i) du Protocole)[^lvlu11-2]\*</td><td></td></tr>
+<tr><td>2.1.1 lorsqu’aucune représentation de la marque n’est en couleur</td><td>653</td></tr>
+<tr><td>2.1.2 lorsqu’une représentation de la marque est en couleur</td><td>903</td></tr>
 <tr><td>2.2 Émolument supplémentaire pour chaque classe de produits et services en sus de la troisième, sauf lorsque seules sont désignées des parties contractantes pour lesquelles des taxes individuelles (voir le point 2.4 ci-dessous) doivent être payées (art. 8.2)ii) et 7)a)i) du Protocole)</td><td>100</td></tr>
 <tr><td>2.3 Complément d’émolument pour chaque partie contractante désignée, sauf lorsque la partie contractante désignée est une partie contractante pour laquelle une taxe individuelle (voir le point 2.4 ci-dessous) doit être payée (art. 8.2)iii) et 7)a)ii) du Protocole)</td><td>100</td></tr>
 <tr><td>2.4 Taxe individuelle pour chaque partie contractante désignée pour laquelle une taxe individuelle (et non un complément d’émolument) doit être payée, sauf lorsque la partie contractante désignée et la partie contractante de l’Office d’origine sont toutes deux des État liés également par l’Arrangement, auquel cas un complément d’émolument doit être payé pour ladite partie contractante désignée (art. 8.7)a) et 9<sup>sexies</sup>.1)b) du Protocole): le montant de la taxe individuelle est fixé par chaque partie contractante concernée</td><td></td></tr>
@@ -1644,7 +1658,7 @@ En cas de divergence entre une disposition des instructions administratives, d�
 <tr><td>10.2 Taxe devant être transférée par le Bureau international à l’État successeur</td><td>41</td></tr>
 </table>
 
-[^lvlu11-1]: \* Pour les demandes internationales déposées par des déposants dont le pays d’origine est un pays figurant parmi les pays les moins avancés, conformément à la liste établie par l’Organisation des Nations Unies, l’émolument de base est réduit à 10% du montant prescrit (arrondi au nombre entier le plus proche). Ainsi, l’émolument de base s’élèvera à 65 francs suisses (lorsque aucune reproduction de la marque n’est en couleur) et à 90 francs suisses (lorsqu’une reproduction de la marque est en couleur).
+[^lvlu11-2]: \* Pour les demandes internationales déposées par des déposants dont le pays d’origine est un pays figurant parmi les pays les moins avancés, conformément à la liste établie par l’Organisation des Nations Unies, l’émolument de base est réduit à 10 % du montant prescrit (arrondi au nombre entier le plus proche). Ainsi, l’émolument de base s’élèvera à 65 francs suisses (lorsque aucune représentation de la marque n’est en couleur) et à 90 francs suisses (lorsqu’une représentation de la marque est en couleur).
 
 ## Instructions administratives pour l’application du Protocole relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques
 

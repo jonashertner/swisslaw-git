@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Regolamento di esecuzione del 2 ottobre 2018 concernente il Protocollo relativo all'Accordo di Madrid per la registrazione internazionale dei marchi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: it
-version: 2022-11-01
+version: 2023-02-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20221101/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20221101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20221101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20230201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in vigore il 1° febbraio 2020
 
-(Stato 1° novembre 2022)
+(Stato 1° febbraio 2023)
 
 [^t-1]: Correzione del 12 apr. 2022 ([RU 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -341,9 +341,9 @@ Gli emolumenti e tasse prescritti che sono applicabili alla domanda internaziona
   - ii)[^chap2-lvlu2-1] l’indirizzo del depositante, indicato conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
   - iii)[^chap2-lvlu2-2] il nome e l’indirizzo del mandatario, se ve ne è uno, indicati conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
   - iv) quando il depositante desidera, in virtù della Convenzione di Parigi per la protezione della proprietà industriale, beneficiare della priorità di un deposito precedente, una dichiarazione con la quale richieda la priorità di tale deposito, integrata dall’indicazione del nome dell’Ufficio presso il quale tale deposito è stato effettuato come pure dalla data e, se disponibile, dal numero di tale deposito e, quando il deposito precedente non copre l’insieme dei prodotti e servizi elencati nella domanda internazionale, dall’indicazione dei prodotti e servizi coperti dal deposito precedente;
-  - v) una riproduzione del marchio che deve inserirsi nel riquadro previsto allo scopo nel modulo ufficiale; tale riproduzione deve essere nitida e deve essere in bianco e nero od a colori a seconda che la riproduzione nella domanda di base o la registrazione di base sia in bianco e nero o a colori;
+  - v)[^chap2-lvlu2-3] una rappresentazione del marchio, fornita conformemente alle istruzioni amministrative, che deve essere a colori quando il colore è richiesto in virtù del punto vii);
   - vi) quando il depositante desidera che il marchio sia considerato come marchio a caratteri standard, una dichiarazione in tal senso;
-  - vii) quando il colore è richiesto nella domanda di base o nella registrazione di base quale elemento distintivo del marchio, o quando il depositante desidera richiedere il colore quale elemento distintivo del marchio e il marchio contenuto nella domanda di base o la registrazione di base è a colori, un’indicazione che il colore è richiesto e un’indicazione, espressa in parole, del colore o della combinazione di colori richiesta e, quando la riproduzione fornita come stabilito al punto v) è in bianco e nero, una riproduzione a colori del marchio;
+  - vii)[^chap2-lvlu2-4] quando il colore è richiesto nella domanda di base o nella registrazione di base, o quando il depositante desidera richiedere il colore quale elemento distintivo del marchio e il marchio contenuto nella domanda di base o la registrazione di base è a colori o è oggetto di una domanda di protezione a colori o è protetto a colori, un’indicazione che il colore è richiesto e un’indicazione, espressa in parole, del colore o della combinazione di colori richiesta;
   - [tab] vii<sup>bis</sup>) quando il marchio che è oggetto della domanda di base o della registrazione di base consiste in un colore o in una combinazione di colori in quanto tali, un’indicazione di questo fatto;
   - viii) quando la domanda di base o la registrazione di base si riferisce ad un marchio tridimensionale, l’indicazione «marchio tridimensionale»;
   - ix) quando la domanda di base o la registrazione di base si riferisce ad un marchio sonoro, l’indicazione «marchio sonoro»;
@@ -386,7 +386,7 @@ Gli emolumenti e tasse prescritti che sono applicabili alla domanda internaziona
   - ii) che il depositante nominato nella domanda internazionale e il depositante nominato nella domanda di base o il titolare nominato nella registrazione di base sono, a seconda del caso, una sola ed unica persona;
   - iii) che qualsiasi indicazione di cui all’alinea 4)a)vii<sup>bis</sup>) a xi) e contenuta nella domanda internazionale figura anche nella domanda di base o nella registrazione di base, a seconda del caso;
   - iv) che il marchio oggetto della domanda internazionale è il medesimo che figura nella domanda di base o nella registrazione di base, a seconda del caso;
-  - v) che, se il colore è richiesto quale elemento distintivo del marchio nella domanda di base o nella registrazione di base, la stessa richiesta figura nella domanda internazionale o che, se il colore è richiesto quale elemento distintivo del marchio nella domanda internazionale senza esserlo stato nella domanda di base o nella registrazione di base, il marchio nella domanda di base o nella registrazione di base è proprio del colore o della combinazione di colori richiesta; e
+  - v) [^chap2-lvlu2-5] che, se il colore è richiesto quale elemento distintivo del marchio nella domanda di base o nella registrazione di base o che il marchio che è oggetto della domanda di base o della registrazione di base è a colori o protetto a colori, una richiesta di colore figura nella domanda internazionale o che, se il colore è richiesto quale elemento distintivo del marchio nella domanda internazionale senza esserlo stato nella domanda di base o nella registrazione di base, il marchio nella domanda di base o nella registrazione di base è proprio del colore o della combinazione di colori richiesta; e
   - vi) che i prodotti e servizi indicati nella domanda internazionale sono coperti dall’elenco di prodotti e servizi che figurano nella domanda di base o nella registrazione di base a seconda del caso.
 
 - e) Quando la domanda internazionale è fondata su più domande di base o registrazioni di base, la dichiarazione di cui al punto d) è considerata applicarsi a tutte queste domande di base ed a tutte queste registrazioni di base.
@@ -408,6 +408,9 @@ Gli emolumenti e tasse prescritti che sono applicabili alla domanda internaziona
 
 [^chap2-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 [^chap2-lvlu2-2]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^chap2-lvlu2-3]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^chap2-lvlu2-4]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^chap2-lvlu2-5]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ### **Regola 10**Emolumenti e tasse relativi alla domanda internazionale
 
@@ -549,7 +552,7 @@ La registrazione internazionale contiene:
 
   - i) le indicazioni che permettano di stabilire l<sup>’</sup>identità del depositante e che siano sufficienti per entrare in contatto con il depositante o con il mandatario, se ve ne è uno;
   - ii) le parti contraenti designate;
-  - iii) una riproduzione del marchio;
+  - iii)[^chap3-lvlu2-1] una rappresentazione del marchio;
   - iv) l’indicazione dei prodotti e servizi per i quali è richiesta la registrazione del marchio;
   - v) ...
 
@@ -559,6 +562,8 @@ La registrazione internazionale contiene:
 \2) [Data della registrazione internazionale negli altri casi]
 
 In tutti gli altri casi, la registrazione internazionale porta la data che è stabilita conformemente all’articolo 3.4) del Protocollo.
+
+[^chap3-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ## Capitolo 4: Fatti sopravvenuti fra le parti contraenti che incidono sulle registrazioni internazionali
 
@@ -589,7 +594,7 @@ Una notifica di rifiuto provvisorio contiene o indica:
 - ii) il numero della registrazione internazionale, accompagnato, di preferenza, da altre indicazioni che permettono di confermare l’identità della registrazione internazionale, come gli elementi verbali della marca o il numero della domanda di base o della registrazione di base;
 - iii) …
 - iv) tutti i motivi sui quali è fondato il rifiuto provvisorio, accompagnati da un rinvio alle corrispondenti disposizioni essenziali della legge;
-- v) quando i motivi su cui si fonda il rifiuto provvisorio si riferiscono ad un marchio che è stato oggetto di una domanda o di una registrazione e con cui il marchio che è oggetto della registrazione internazionale appare essere in conflitto, la data ed il numero di deposito, la data di priorità (all’occorrenza), la data ed il numero di registrazione (se sono disponibili), il nome e l’indirizzo del titolare ed una riproduzione di questo primo marchio, nonché l’elenco di tutti i prodotti e servizi o dei prodotti e servizi pertinenti che figurano nella domanda o la registrazione riguardante questo primo marchio, essendo convenuto che il suddetto elenco può essere redatto nella lingua della suddetta domanda o della suddetta registrazione;
+- v)[^chap4-lvlu2-1] quando i motivi su cui si fonda il rifiuto provvisorio si riferiscono ad un marchio che è stato oggetto di una domanda o di una registrazione e con cui il marchio che è oggetto della registrazione internazionale appare essere in conflitto, la data ed il numero di deposito, la data di priorità (all’occorrenza), la data ed il numero di registrazione (se sono disponibili), il nome e l’indirizzo del titolare ed una rappresentazione di questo primo marchio o come procedere per accedere a questa rappresentazione, nonché l’elenco di tutti i prodotti e servizi o dei prodotti e servizi pertinenti che figurano nella domanda o la registrazione riguardante questo primo marchio, essendo convenuto che il suddetto elenco può essere redatto nella lingua della suddetta domanda o della suddetta registrazione;
 - vi) sia che i motivi su cui è fondato il rifiuto provvisorio concernono la totalità dei prodotti e servizi, sia un’indicazione dei prodotti e servizi che sono interessati, o che non sono interessati, dal rifiuto provvisorio;
 - vii) il termine, ragionevole considerate le circostanze, per presentare una richiesta di riesame o un ricorso riferito al rifiuto provvisorio d’ufficio o al rifiuto provvisorio fondato su un’opposizione e, all’occorrenza, per presentare una risposta all’opposizione, preferibilmente con un’indicazione della data in cui il suddetto termine spira, nonché l’autorità competente per giudicare tale richiesta di riesame, tale ricorso o tale risposta, con l’indicazione, all’occorrenza, dell’obbligo di presentare la richiesta di riesame, il ricorso o la risposta tramite un mandatario che ha l’indirizzo sul territorio della parte contraente il cui Ufficio ha pronunciato il rifiuto.
 - viii) …
@@ -616,6 +621,8 @@ L’Ufficio internazionale iscrive il rifiuto provvisorio sul registro internazi
 - e) L’Ufficio di una parte contraente può, in una dichiarazione, notificare al Direttore generale il fatto che, conformemente alla legislazione della suddetta parte contraente, un rifiuto provvisorio d’ufficio notificato all’Ufficio internazionale non è suscettibile di riesame davanti al suddetto Ufficio. Quando si applica questa dichiarazione, ogni notifica di un rifiuto provvisorio d’ufficio emessa dal suddetto Ufficio include una dichiarazione conformemente alla regola 18<sup>ter</sup>.2)ii) o 3).
 
 \6) …
+
+[^chap4-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ### **Regola 18**Notifiche irregolari di rifiuto provvisorio
 
@@ -1083,7 +1090,7 @@ Se le condizioni della regola 25.1)b) non sono soddisfatte, la domanda non è co
 - a) Un cambiamento di titolare della registrazione internazionale riguardante una parte soltanto dei prodotti e servizi o soltanto talune delle parti contraenti designate è iscritto nel registro internazionale sotto il numero della registrazione internazionale interessata dal cambiamento parziale di titolare.
 - b) La parte della registrazione internazionale per la quale è stato iscritto il cambiamento di titolare è radiata dalla registrazione internazionale interessata ed è oggetto di una registrazione internazionale separata.
 
-\3) …
+\3) ...
 
 \4) [Dichiarazione in base alla quale un cambiamento di titolare è privo di effetto]
 
@@ -1212,7 +1219,6 @@ Il fatto che l’avviso ufficioso di scadenza di cui all’articolo 7.3) del Pro
 
 - a) Quando il titolare non desidera rinnovare la registrazione internazionale nei confronti di una parte contraente designata per la quale nessuna dichiarazione di rifiuto in virtù della regola 18<sup>ter</sup> per l’insieme dei prodotti e servizi considerati è iscritta nel registro internazionale, il pagamento delle tasse richieste deve essere accompagnato da una dichiarazione del titolare in base alla quale il rinnovo della registrazione internazionale non deve essere iscritto nel registro internazionale nei confronti di questa parte contraente.
 - b) Quando il titolare desidera rinnovare la registrazione internazionale nei confronti di una parte contraente designata nonostante il fatto che una dichiarazione di rifiuto in virtù della regola 18<sup>ter</sup> è iscritta nel registro internazionale per questa parte contraente per l’insieme dei prodotti e servizi considerati, il pagamento delle tasse richieste, compresi l’emolumento complementare o la tassa individuale, a seconda del caso, per tale parte contraente, deve essere accompagnato da una dichiarazione del titolare in base alla quale il rinnovo della registrazione internazionale deve essere iscritto nel registro internazionale nei confronti di tale parte contraente per tutti i prodotti e servizi considerati.
-
 - c) La registrazione internazionale non può essere rinnovata nei confronti di una parte contraente designata nei cui confronti è stata iscritta un’invalidazione per tutti i prodotti e servizi in virtù della regola 19.2) o nei cui confronti è stata iscritta una rinuncia in virtù della regola 27.1)a). La registrazione internazionale non può essere rinnovata nei confronti di una parte contraente designata per i prodotti e servizi per i quali un’invalidazione degli effetti della registrazione internazionale in questa parte contraente è stata iscritta in virtù della regola 19.2) o per i quali una limitazione è stata iscritta in virtù della regola 27.1)a).
 - d) ...
 - e) Il fatto che la registrazione internazionale non sia rinnovata nei confronti di tutte le parti contraenti designate non è considerato costituire una modifica ai sensi dell’articolo 7.2) del Protocollo.
@@ -1273,8 +1279,8 @@ L’Ufficio internazionale notifica il rinnovo agli Uffici delle parti contraent
   - xii) registrazioni internazionali non rinnovate;
   - xiii) iscrizioni della costituzione del mandatario del titolare comunicata in virtù della regola 3.2)b) e radiazioni richieste dal titolare o dal mandatario del titolare in virtù della regola 3.6)a).
 
-- b) La riproduzione del marchio è pubblicata come figura nella domanda internazionale. Quando il depositante ha fatto una dichiarazione di cui alla regola 9.4)a)vi), la pubblicazione indica tale fatto.
-- c) Quando una riproduzione a colori è fornita in virtù della regola 9.4)a)v) o vii), il bollettino contiene sia una riproduzione del marchio in bianco e nero che la riproduzione a colori.
+- b)[^chap7-lvlu1-1] La rappresentazione del marchio è pubblicata come fornita nella domanda internazionale. Quando il depositante ha fatto una dichiarazione di cui alla regola 9.4)a)vi), la pubblicazione indica tale fatto.
+- c)[^chap7-lvlu1-2] ...
 
 \2) [Informazioni riguardanti esigenze particolari e talune dichiarazioni di parti contraenti, nonché altre informazioni generali]
 
@@ -1291,6 +1297,9 @@ L’Ufficio internazionale pubblica sul bollettino:
 L’Ufficio internazionale effettua le pubblicazioni di cui agli alinea 1) e 2) sul sito Internet dell’Organizzazione Mondiale della Proprietà Intellettuale.
 
 \4) …
+
+[^chap7-lvlu1-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^chap7-lvlu1-2]: Abrogata dalla mod. con effetto dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ### **Regola 33**Base dati informatizzata
 
@@ -1497,16 +1506,20 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 
 ## Elenco delle tasse e degli emolumenti
 
-(testo in vigore il 1° novembre 2021)
+[^lvlu11-1]
+
+[^lvlu11-1]: Aggiornato dalle mod. in vigore dal 2° nov 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)) e 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+
+(testo in vigore il 1° febbraio 2023)
 
 <table>
 <tr><th></th><th>Franchi svizzeri</th></tr>
 <tr><td>1. ...</td><td></td></tr>
 <tr><td>2. Domanda internazionale</td><td></td></tr>
 <tr><td>I seguenti emolumenti e tasse devono essere pagati e coprono 10 anni:</td><td></td></tr>
-<tr><td>2.1 Emolumento di base (articolo 8.2)i) del Protocollo[^lvlu11-1]\*</td><td></td></tr>
-<tr><td>2.1.1 quando nessuna riproduzione del marchio è a colori</td><td>653</td></tr>
-<tr><td>2.1.2 quando una riproduzione del marchio è a colori</td><td>903</td></tr>
+<tr><td>2.1 Emolumento di base (articolo 8.2)i) del Protocollo[^lvlu11-2]\*</td><td></td></tr>
+<tr><td>2.1.1 quando nessuna rappresentazione del marchio è a colori</td><td>653</td></tr>
+<tr><td>2.1.2 quando una rappresentazione del marchio è a colori</td><td>903</td></tr>
 <tr><td>2.2 Emolumento suppletivo per ogni classe di prodotti e servizi oltre la terza, salvo quando sono designate soltanto parti contraenti per cui devono essere pagate (articoli 8.2)ii) e 7)a)i) del Protocollo) tasse individuali (vedasi il punto 2.4 qui di seguito)</td><td>100</td></tr>
 <tr><td>2.3 Emolumento complementare per ogni parte contraente designata, salvo quando la parte contraente designata è una parte contraente per la quale deve essere pagata una tassa individuale (articolo 8.2)iii) e 7)a)ii) del Protocollo) (vedasi il punto 2.4 qui di seguito)</td><td>100</td></tr>
 <tr><td>2.4 Tassa individuale per ogni parte contraente designata per la quale una tassa individuale (e non un emolumento complementare) deve essere pagata, salvo quando la parte contraente designata e la parte contraente dell’Ufficio di origine sono entrambe Stati vincolati anche dall’Accordo, nel qual caso un emolumento complementare dev’essere pagato per la suddetta parte contraente designata (articoli 8.7)a) e 9<sup>sexies</sup>.1)b) del Protocollo): l’ammontare della tassa individuale è stabilito da ciascuna parte contraente interessata</td><td></td></tr>
@@ -1554,7 +1567,7 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 <tr><td>10.2 Tassa trasferita dall’Ufficio internazionale allo Stato successore</td><td>41</td></tr>
 </table>
 
-[^lvlu11-1]: \* Per le domande internazionali depositate da depositanti il cui Paese d’origine è un Paese che figura nell’elenco dei Paesi meno avanzati dell’Organizzazione delle Nazioni Unite, l’emolumento di base è pari al 10% dell’importo fissato (arrotondato al numero intero più vicino). L’emolumento di base sarà quindi di 65 franchi svizzeri (se nessuna riproduzione del marchio è a colori) e di 90 franchi svizzeri (se una riproduzione del marchio è a colori).
+[^lvlu11-2]: \* Per le domande internazionali depositate da depositanti il cui Paese d’origine è un Paese che figura nell’elenco dei Paesi meno avanzati dell’Organizzazione delle Nazioni Unite, l’emolumento di base è pari al 10 % dell’importo fissato (arrotondato al numero intero più vicino). L’emolumento di base sarà quindi di 65 franchi svizzeri (se nessuna rappresentazione del marchio è a colori) e di 90 franchi svizzeri (se una rappresentazione del marchio è a colori).
 
 ## Istruzioni amministrative per l’applicazione del Protocollo relativo all’Accordo di Madrid concernente la registrazione internazionale dei marchi
 
