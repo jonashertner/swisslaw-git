@@ -4,11 +4,11 @@ title: Ordinanza del 14 novembre 2012 concernente il rilascio di documenti di vi
 short: ODV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: it
-version: 2022-03-12
+version: 2023-02-01
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20220312/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20220312-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20220312/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20230201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20220312/it"
 
 (ODV)
 
-del 14 novembre 2012 (Stato 12 marzo 2022)
+del 14 novembre 2012 (Stato 1° febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -506,65 +506,66 @@ Alle procedure relative al rilascio di un documento di viaggio, pendenti al mome
 
 La presente ordinanza entra in vigore il 1° dicembre 2012.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 28)
 
 ## Autorizzazione per la consultazione e il trattamento dei dati registrati nell’ISR
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 785](https://fedlex.data.admin.ch/eli/oc/2022/785)).
 
 I dati elencati qui di seguito sono suddivisi in dati che figurano sul documento di viaggio e nella banca dati (I. Dati del documento di viaggio) e dati che si trovano unicamente nella banca dati (II. Dati supplementari nella banca dati).
 
 C = consultazione; T = trattamento e consultazione
 
 <table>
-<tr><th>Nome del campo dei dati</th><th colspan="4">Confederazione</th><th></th><th colspan="2"></th><th></th><th></th><th colspan="3">Cantone e Comune</th></tr>
-<tr><th></th><th>SEM Admin</th><th>SEM User</th><th>SEM Lettori</th><th colspan="3">UFCL</th><th colspan="3">Cgcf</th><th>Autorità degli stranieri</th><th>Uffici dei passaporti</th><th>Posti di polizia</th></tr>
-<tr><td>Dati doc. di viaggio + banca dati</td><td></td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>I. Dati del documento di viaggio</td><td></td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>Tipo di documento di viaggio (art. 3 e 4 ODV)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Cognome(i) (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Nome(i) (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Sesso (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Data di nascita (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Luogo di nascita (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Cittadinanza o apolidia (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Statura (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Fotografia (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td>C</td></tr>
-<tr><td>Impronte digitali (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td></td></tr>
-<tr><td>Numero personale (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Data del rilascio (art. 111 cpv. 2 lett. c LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">T</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Durata di validità (art. 111 cpv. 2 lett. c LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Codice del Paese (art. 111 cpv. 2 lett. c LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Numero del documento di viaggio (art. 111 cpv. 2 lett. c LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">T</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Autorità di rilascio (art. 111 cpv. 2 lett. c LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Rappresentante legale degli stranieri minorenni o interdetti (art. 111 cpv. 2 lett. d LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Registrazioni su richiesta del richiedente (art. 111 cpv. 2 lett. e LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Durata del viaggio (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Statuto di soggiorno (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Motivo del viaggio (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td>C</td></tr>
-<tr><td>Destinazione (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td>C</td></tr>
-<tr><td>II. Dati supplementari nella banca dati</td><td></td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>Dati sulla perdita di un documento di viaggio (art. 111 cpv. 2 lett. f LStrI e art. 20 cpv. 1 ODV)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Dati sulla registrazione o sulla revoca di una registrazione di un documento di viaggio nel RIPOL (art. 111 cpv. 2 lett. f LStrI e art. 20 cpv. 5 ODV)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Revoca (art. 22 ODV)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Indirizzo (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Cognomi e nomi dei genitori (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Cognomi dei genitori prima del matrimonio (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Firma (art. 111 cpv. 2 lett. a LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Numero dell’incarto (art. 111 cpv. 2 lett. a LStr)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Data di presentazione della domanda (art. 111 cpv. 2 lett. b LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Data della decisione sulla domanda (art. 111 cpv. 2 lett. b LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Altri dati relativi alla domanda (art. 111 cpv. 2 lett. b LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Altri dati relativi al documento di viaggio (art. 111 cpv. 2 lett. c LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Firme dei rappresentanti legali di stranieri minorenni o interdetti (art. 111 cpv. 2 lett. d LStrI)</td><td>T</td><td>T</td><td>C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><th>Nome del campo dei dati</th><th colspan="3">Confederazione</th><th colspan="2"></th><th></th><th colspan="2"></th><th></th><th colspan="2"></th><th></th><th></th><th colspan="3">Cantone e Comune</th></tr>
+<tr><th></th><th>fedpol</th><th>SEM Admin</th><th colspan="2">SEM User</th><th colspan="3">SEM Lettori</th><th colspan="3">UFCL</th><th colspan="3">Cgcf</th><th>Autorità degli stranieri</th><th>Uffici dei passaporti</th><th>Posti di polizia</th></tr>
+<tr><td>Dati doc. di viaggio + banca dati</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
+<tr><td>I. Dati del documento di viaggio</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
+<tr><td>Tipo di documento di viaggio (art. 3 e 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Cognome(i) (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Nome(i) (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Sesso (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Data di nascita (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Luogo di nascita (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Cittadinanza o apolidia (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Statura (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Fotografia (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td>C</td></tr>
+<tr><td>Impronte digitali (art. 111 cpv. 2 lett. a LStrI)</td><td></td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td></td></tr>
+<tr><td>Numero personale (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Data del rilascio (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">T</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Durata di validità (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Codice del Paese (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Numero del documento di viaggio (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">T</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Autorità di rilascio (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Rappresentante legale degli stranieri minorenni o interdetti (art. 111 cpv. 2 lett. d LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Registrazioni su richiesta del richiedente (art. 111 cpv. 2 lett. e LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Durata del viaggio (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Statuto di soggiorno (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Motivo del viaggio (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td>C</td></tr>
+<tr><td>Destinazione (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td>C</td></tr>
+<tr><td>II. Dati supplementari nella banca dati</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
+<tr><td>Dati sulla perdita di un documento di viaggio (art. 111 cpv. 2 lett. f LStrI e art. 20 cpv. 1 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Dati sulla registrazione o sulla revoca di una registrazione di un documento di viaggio nel RIPOL (art. 111 cpv. 2 lett. f LStrI e art. 20 cpv. 5 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Revoca (art. 22 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Indirizzo (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Cognomi e nomi dei genitori (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Cognomi dei genitori prima del matrimonio (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Firma (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Numero dell’incarto (art. 111 cpv. 2 lett. a LStr)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Data di presentazione della domanda (art. 111 cpv. 2 lett. b LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Data della decisione sulla domanda (art. 111 cpv. 2 lett. b LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Altri dati relativi alla domanda (art. 111 cpv. 2 lett. b LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Altri dati relativi al documento di viaggio (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
+<tr><td>Firme dei rappresentanti legali di stranieri minorenni o interdetti (art. 111 cpv. 2 lett. d LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
 </table>
 
-Abbreviazioni:
+Abbreviazioni
 
 Servizi federali
 
+- fedpol Ufficio federale di polizia, Ufficio SIRENE (art. 7*a* cpv. 3 lett. g e 9 cpv. 1 lett. c e p, cpv. 2 lett. c della legge federale del 20 giungo 2003[^annex1-lvlu1-1] sul sistema d’informazione per il settore degli stranieri e dell’asilo)
 - SEM Admin Segreteria di Stato della migrazione, Sezione Documenti di viaggio della Divisione Ammissione Dimora (art. 1)
 - SEM User Segreteria di Stato della migrazione, Direzione e supplenza della direzione della Divisione Ammissione Dimora e Sezione Documenti di viaggio della Divisione Ammissione Dimora (art. 1 della presente ordinanza e art. 111 cpv. 4 LStrI)
 - SEM Lettori Segreteria di Stato della migrazione, Direzione e supplenza della direzione della Divisione Ammissione Dimora e Sezione Documenti di viaggio della Divisione Ammissione Dimora (art. 1)
@@ -573,15 +574,13 @@ Servizi federali
 
 Servizi cantonali e comunali
 
-Autorità degli stranieri e uffici dei passaporti
-
+- [tab] Autorità degli stranieri e uffici dei passaporti
 - Autorità cantonali e comunali competenti (art. 14–16)
+- Posti di polizia Posti di polizia designati dai Cantoni per l’identificazione delle persone e per la ricezione di notificazioni concernenti documenti di viaggio smarriti (art. 20 cpv. 5 lett. a della presente ordinanza e art. 111 cpv. 5 lett. c LStrI)
 
-Posti di polizia
+[^annex1-lvlu1-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
 
-- Posti di polizia designati dai Cantoni per l’identificazione delle persone e per la ricezione di notificazioni concernenti documenti di viaggio smarriti (art. 20 cpv. 5 lett. a della presente ordinanza e art. 111 cpv. 5 lett. c LStrI)
-
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 23 cpv. 2 e 3)
 
@@ -622,7 +621,7 @@ Allegato 2*[^t-2]*
 [^annex2-lvlu1-1]: [RS 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
 [^annex2-lvlu1-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 23 cpv. 4)
 
@@ -658,6 +657,6 @@ Allegato 4
 
 Le ordinanze qui appresso sono modificate come segue:
 
-…[^annex4-lvlu1-1]
+...[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 6049](https://fedlex.data.admin.ch/eli/oc/2012/713).
