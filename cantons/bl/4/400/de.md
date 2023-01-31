@@ -4,13 +4,13 @@ number: "400"
 title: Raumplanungs- und Baugesetz
 short: RBG
 language: de
-version: 2023-01-01
-valid_until: 2023-01-31
-version_adopted: 2022-06-30
+version: 2023-02-01
+valid_until: 2023-05-31
+version_adopted: 2022-06-02
 adopted: 1998-01-08
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400"
-pdf: "https://bl.clex.ch/api/de/versions/3697/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3698/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3697/pdf_file"
 
 (RBG)
 
-Vom 08.01.1998 (Stand 01.01.2023)
+Vom 08.01.1998 (Stand 01.02.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -1425,15 +1425,17 @@ beschliesst:[^ingress-2]
 
 **Abstellplätze**
 
-<sup>1</sup> Die Erstellung, der Umbau und die Zweckänderung von Bauten und Anlagen, für die ein Abstellplatzbedarf für Motorfahrzeuge und Fahrräder besteht, dürfen nur bewilligt werden, wenn eine bestimmte Anzahl Abstellplätze ausgewiesen wird.
+<sup>1</sup> Die Erstellung, der Umbau und die Zweckänderung von Bauten und Anlagen, für die ein Abstellplatzbedarf für Motorfahrzeuge und Fahrräder besteht, dürfen nur bewilligt werden, wenn eine bestimmte Anzahl Abstellplätze (Mindestabstellplatzbedarf) ausgewiesen wird.
 
 <sup>2</sup> Die Abstellplätze können auf dem Grundstück selbst oder in unmittelbarer Nähe liegen.
 
 <sup>3</sup> Die Abstellplätze auf fremdem Boden sind durch Dienstbarkeiten grundbuchlich zu sichern. Diese können nur mit Zustimmung der Baubewilligungsbehörde gelöscht werden.
 
-<sup>4</sup> Der Regierungsrat legt in der Verordnung den Normalabstellplatzbedarf fest und bestimmt, in welchen Fällen die Anzahl der Abstellplätze beschränkt werden kann.
+<sup>4</sup> Der Regierungsrat regelt in der Verordnung, wie der Mindestabstellplatzbedarf ermittelt wird.
 
-<sup>5</sup> Die Bau- und Umweltschutzdirektion legt nach Anhören der Gemeinde Reduktionsfaktoren fest, wobei insbesondere die Qualität der Erschliessung durch den öffentlichen Verkehr berücksichtigt wird.
+<sup>5</sup> Die Gemeinden können in einem Reglement den Abstellplatzbedarf selber regeln. Sie nehmen eine Abstimmung von Siedlung und Verkehr vor. Diese geht dem vom Regierungsrat geregelten Mindestabstellplatzbedarf gemäss Abs. 4 vor.
+
+<sup>6</sup> Der Regierungsrat regelt die Genehmigungsvoraussetzungen für Reglemente gemäss Abs. 5.
 
 #### § 107
 
