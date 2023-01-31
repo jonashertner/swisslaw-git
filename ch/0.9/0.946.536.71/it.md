@@ -3,11 +3,11 @@ sr: "0.946.536.71"
 title: Accordo del 17 novembre 2022tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sul reciproco riconoscimento in materia di valutazione della conformità
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/11"
 language: it
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2022-11-17
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2023-11-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2023-11-20230201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,9 +18,11 @@ RU **2023** 11
 
 Traduzione
 
-Concluso il 17 novembre 2022 Applicato provvisoriamente dal 1° gennaio 2023
+Concluso il 17 novembre 2022 Applicato provvisoriamente dal 1° gennaio 2023 Entrato in vigore mediante scambio di note il 1° febbraio 2023[^t-1]
 
-(Stato 1° gennaio 2023)
+(Stato 1° febbraio 2023)
+
+[^t-1]: [RU 2023 97](https://fedlex.data.admin.ch/eli/oc/2023/97)
 
 La Confederazione Svizzera («Svizzera») e il Regno Unito di Gran Bretagna e Irlanda del Nord («Regno Unito»),
 

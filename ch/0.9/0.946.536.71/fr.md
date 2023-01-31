@@ -3,11 +3,11 @@ sr: "0.946.536.71"
 title: Accord du 17 novembre 2022 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/11"
 language: fr
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2022-11-17
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-11-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2023-11-20230201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,9 +18,11 @@ RO **2023** 11
 
 Texte original
 
-Conclu le 17 novembre 2022 Appliqué provisoirement dès le 1<sup>er</sup> janvier 2023
+Conclu le 17 novembre 2022 Appliqué provisoirement dès le 1<sup>er</sup> janvier 2023 Entré en vigueur par échange de notes le 1<sup>er</sup> fév. 2023[^t-1]
 
-(État le 1<sup>er</sup> janvier 2023)
+(État le 1<sup>er</sup> février 2023)
+
+[^t-1]: [RO 2023 97](https://fedlex.data.admin.ch/eli/oc/2023/97)
 
 La Confédération suisse (la «Suisse») et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (le «Royaume-Uni»),
 

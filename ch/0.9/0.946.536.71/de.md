@@ -3,11 +3,11 @@ sr: "0.946.536.71"
 title: Abkommen vom 17. November 2022 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die gegenseitige Anerkennung von Konformitätsbewertungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/11"
 language: de
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2022-11-17
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2023-11-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2023-11-20230201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,11 @@ AS **2023** 11
 
 Übersetzung
 
-Abgeschlossen am 17. November 2022 Vorläufig angewendet ab dem 1. Januar 2023
+Abgeschlossen am 17. November 2022 Vorläufig angewendet ab dem 1. Januar 2023 In Kraft getreten durch Notenaustausch am 1. Februar 2023[^t-1]
 
-(Stand am 1. Januar 2023)
+(Stand am 1. Februar 2023)
+
+[^t-1]: [AS 2023 97](https://fedlex.data.admin.ch/eli/oc/2023/97)
 
 Die Schweizerische Eidgenossenschaft (die «Schweiz») und das Vereinigte Königreich von Grossbritannien und Nordirland (das «Vereinigte Königreich»),
 
