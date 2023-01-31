@@ -4,13 +4,12 @@ number: "170.112"
 title: Geschäfts- und Organisationsreglement der Gerichte des Kantons Basel-Landschaft
 short: GOR
 language: de
-version: 2021-04-01
-valid_until: 2023-01-31
-version_adopted: 2021-02-10
+version: 2023-02-01
+version_adopted: 2022-12-16
 adopted: 2019-05-08
 in_force: 2019-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/170.112"
-pdf: "https://bl.clex.ch/api/de/versions/2969/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2969/pdf_file"
 
 (GOR)
 
-Vom 08.05.2019 (Stand 01.04.2021)
+Vom 08.05.2019 (Stand 01.02.2023)
 
 Die Geschäftsleitung der Gerichte des Kantons Basel-Landschaft,
 
@@ -42,7 +41,11 @@ beschliesst:
 
 <sup>3</sup> Abweichungen von der Zuteilung nach dem Ausgewogenheitsprinzip sind aus sachlichen Gründen im Einzelfall unter Zustimmung des den Fall übernehmenden Präsidiums möglich.
 
+<sup>3<sup>ter</sup></sup> Die Zustimmung des den Fall übernehmenden Präsidiums ist nicht erforderlich, wenn bei Parallelfällen die Anwendung des Ausgewogenheitsprinzips die Einheitlichkeit der Rechtsprechung beeinträchtigen könnte.
+
 <sup>4</sup> Die Fallzuteilung an die Vizepräsidien oder an Mitglieder des Gerichts gemäss § 4 Abs. 1<sup>bis</sup> GOG[^1-1] erfolgt durch das gemäss Abs. 1 mit dem Fall befasste Präsidium.
+
+<sup>5</sup> Bei einer Rückweisung durch die Rechtsmittelinstanz ist der Fall demselben Präsidium zuzuteilen, welches für den angefochtenen Entscheid zuständig war.
 
 [^1-1]: [SGS 170](https://bl.clex.ch/data/170/de/art4)
 
