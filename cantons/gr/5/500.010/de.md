@@ -4,13 +4,13 @@ number: "500.010"
 title: Verordnung zum Gesundheitsgesetz
 short: VOzGesG
 language: de
-version: 2021-06-01
-valid_until: 2023-01-31
-version_adopted: 2021-04-27
+version: 2023-02-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-24
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3162/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3162/pdf_file"
 
 (VOzGesG)
 
-Vom 20.06.2017 (Stand 01.06.2021)
+Vom 20.06.2017 (Stand 01.02.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -76,7 +76,7 @@ von der Regierung erlassen am 20. Juni 2017
 
 <sup>1</sup> Gesundheitsfachpersonen ohne Berufsausübungsbewilligung dürfen bewilligungspflichtige Tätigkeiten ausüben, wenn die Verantwortung über ihre Tätigkeit wahrgenommen wird:
 
-- a) bei Ärztinnen und Ärzten von einer Person, die über einen Facharzttitel in dem Fachgebiet verfügt, in dem sie die Verantwortung für die Tätigkeit für eine Ärztin oder einen Arzt übernimmt;
+- a) an anerkannten ärztlichen Weiterbildungsstätten von einer Person, die über einen Facharzttitel in dem Fachgebiet verfügt, in dem sie die Verantwortung für die Tätigkeit für eine Ärztin oder einen Arzt übernimmt. Die Supervision der Aus- und Weiterzubildenden muss durch die entsprechende Fachärztin oder den entsprechenden Facharzt gewährleistet sein. Freipraktizierende Ärztinnen und Ärzte dürfen pro Standort maximal eine Praxisassistenzärztin oder einen Praxisassistenzarzt anstellen. Zudem muss die lehrärztliche Präsenz mindestens 75 Prozent des Pensums der Praxisassistenzärztin oder des Praxisassistenzarztes betragen;
 - a<sup>bis</sup>) bei Psychotherapeutinnen und Psychotherapeuten, die in Betrieben des Gesundheitswesens tätig sind, von einer Ärztin oder einem Arzt mit dem Facharzttitel Psychiatrie und Psychotherapie;
 - b) bei den übrigen Gesundheitsfachpersonen von einer Person des gleichen Berufs.
 
@@ -438,5 +438,13 @@ von der Regierung erlassen am 20. Juni 2017
 **Vollzugsbehörde**
 
 <sup>1</sup> Das Gesundheitsamt vollzieht die dem Kanton in der Bundesgesetzgebung über die Bekämpfung übertragbarer Krankheiten zugewiesenen Aufgaben.
+
+## 8. Schutz vor nichtionisierender Strahlung in Solarien und in der Kosmetik
+
+#### Art. 36
+
+**Vollzugsbehörde**
+
+<sup>1</sup> Das Gesundheitsamt vollzieht die dem Kanton in der Bundesgesetzgebung über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall zugewiesenen Aufgaben im Bereich der Verwendung von Solarien und von Produkten für kosmetische Zwecke.
 
 2017-024

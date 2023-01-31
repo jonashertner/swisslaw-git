@@ -4,13 +4,13 @@ number: "500.010"
 title: Ordinanza relativa alla legge sanitaria
 short: OLSan
 language: it
-version: 2021-06-01
-valid_until: 2023-01-31
-version_adopted: 2021-04-27
+version: 2023-02-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-24
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3162/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3296/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3162/pdf_file"
 
 (OLSan)
 
-del 20.06.2017 (stato 01.06.2021)
+del 20.06.2017 (stato 01.02.2023)
 
 emanata dal Governo il 20 giugno 2017
 
@@ -76,7 +76,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> I professionisti della salute privi dell'autorizzazione all'esercizio della professione possono esercitare attività soggette all'obbligo di autorizzazione se la responsabilità per l'attività da loro svolta viene assunta da un terzo:
 
-- a) in caso di medici da una persona in possesso di un titolo di medico specialista nel settore in cui essa si assume la responsabilità per l'attività di un medico;
+- a) presso centri di perfezionamento professionale medico riconosciuti, da una persona in possesso di un titolo di medico specialista nella disciplina in cui essa si assume la responsabilità per l'attività di un medico. La supervisione dei medici in perfezionamento deve essere garantita da parte del corrispondente medico specialista. I medici con studi privati possono assumere al massimo un medico che svolge l'assistenza in studio medico per ciascuna sede. Inoltre il medico insegnante deve essere presente in studio per almeno il 75% dell'orario di lavoro del medico che svolge l'assistenza in studio medico;
 - a<sup>bis</sup>) nel caso di psicoterapeuti attivi presso aziende del settore sanitario da un medico in possesso di un titolo di medico specialista in psichiatria e psicoterapia;
 - b) nel caso di altri professionisti della salute da una persona che esercita la stessa professione.
 
@@ -438,5 +438,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 **Autorità esecutiva**
 
 <sup>1</sup> L'Ufficio dell'igiene pubblica esegue i compiti attribuiti al Cantone dalla legislazione federale per la lotta contro le malattie trasmissibili dell'essere umano.
+
+## 8. Protezione dalle radiazioni non ionizzanti nei solarium e nel settore estetico
+
+#### Art. 36
+
+**Autorità esecutiva**
+
+<sup>1</sup> L'Ufficio dell'igiene pubblica esegue i compiti assegnati al Cantone dalla legislazione federale sulla protezione dai pericoli delle radiazioni non ionizzanti e degli stimoli sonori nel settore dell'utilizzo di solarium e di prodotti per scopi estetici.
 
 2017-024

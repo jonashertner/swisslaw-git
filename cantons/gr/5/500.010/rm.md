@@ -4,13 +4,13 @@ number: "500.010"
 title: Ordinaziun tar la lescha da sanadad
 short: OtLSan
 language: rm
-version: 2021-06-01
-valid_until: 2023-01-31
-version_adopted: 2021-04-27
+version: 2023-02-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-24
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3162/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3162/pdf_file"
 
 (OtLSan)
 
-dals 20-06-2017 (versiun dals 01-06-2021)
+dals 20-06-2017 (versiun dals 01-02-2023)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -76,7 +76,7 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 <sup>1</sup> Las persunas spezialisadas dal sectur da sanadad senza permissiun per pratitgar la professiun dastgan pratitgar activitads che dovran ina permissiun, sche la responsabladad per lur activitad vegn surpigliada:
 
-- a) en cas da medias e medis: d'ina persuna che ha in titel da media spezialista u medi spezialist en il sectur spezial, en il qual ella surpiglia la responsabladad per l'activitad per ina media u in medi;
+- a) en instituziuns da furmaziun supplementara: d'ina persuna che ha in titel da media spezialista u medi spezialist en il sectur spezial, en il qual ella surpiglia la responsabladad per l'activitad per ina media u in medi; La supervisiun da las persunas en scolaziun u en furmaziun supplementara sto vegnir garantida da la media spezialista respectiva u dal medi spezialist respectiv. Medias e medis che pratitgeschan en moda libra dastgan engaschar per lieu maximalmain ina media assistenta da pratica u in medi assistent da pratica. Plinavant sto la media u il medi ch'instruescha esser preschent durant almain 75 pertschient dal pensum da la media assistenta da pratica u dal medi assistent da pratica;
 - a<sup>bis</sup>) en cas da psicoterapeutas e psicoterapeuts che lavuran en manaschis dal sectur da sanadad: d'ina media u d'in medi cun in titel da medi spezialist en psichiatria ed en psicoterapia;
 - b) en cas da las autras persunas spezialisadas dal sectur da sanadad: d'ina persuna da la medema professiun.
 
@@ -438,5 +438,13 @@ relaschada da la regenza ils 20 da zercladur 2017
 **Autoritad executiva**
 
 <sup>1</sup> L'uffizi da sanadad exequescha las incumbensas che la legislaziun federala davart il cumbat cunter malsognas transmissiblas attribuescha al chantun.
+
+## 8. Protecziun cunter radiaziuns nunionisantas en solariums ed en la cosmetica
+
+#### Art. 36
+
+**Autoritad executiva**
+
+<sup>1</sup> En il sectur da l'utilisaziun da solariums e da products per intents cosmetics exequescha l'Uffizi da sanadad las incumbensas ch'èn vegnidas attribuidas al chantun tras la legislaziun federala davart la protecziun cunter ils privels da las radiaziuns nunionisantas e dal sun.
 
 2017-024
