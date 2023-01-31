@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20230101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20230201/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20230201-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 1 January 2023)
+of 19 June 2020 (Status as of 1 February 2023)
 
 The Swiss Federal Council,
 
@@ -396,42 +396,43 @@ FFP masks under paragraph 1 held in federal and cantonal stocks may be supplied 
 
 Non-automated single-patient rapid tests for direct detection of Sars-CoV-2 (Sars-CoV-2 rapid tests) for specialist use may only be carried out in the following facilities:[^24-3]
 
-- a.[^24-4] laboratories licensed under Article 16 EpidA;
-- b.[^24-5] medical practices, pharmacies and hospitals, homes for the elderly and care homes and socio-medical institutions, and test centres operated by or on behalf of the canton.
+- a.[^24-4] laboratories licensed under Article 16 of the Epidemics Act of 28 September 2012[^24-5] (EpidA);
+- b.[^24-6] medical practices, pharmacies and hospitals, homes for the elderly and care homes and socio-medical institutions, and test centres operated by or on behalf of the canton.
 
-<sup>1bis</sup> They may also be carried out in and by organisations that provide nursing services and other assistance at home as well as by assistants as defined in the Federal Act of 19 June 1959[^24-6] on Invalidity Insurance (InvIA).[^24-7]
+<sup>1bis</sup> They may also be carried out in and by organisations that provide nursing services and other assistance at home as well as by assistants as defined in the Federal Act of 19 June 1959[^24-7] on Invalidity Insurance (InvIA).[^24-8]
 
-<sup>2</sup> Sars-CoV-2 rapid tests may also be carried out at a location outside the facilities mentioned in paragraph 1 letter b provided a specialist with a CET qualification awarded by the Swiss «The Medical Laboratories of Switzerland» Federation (FAMH), a doctor or a pharmacist accepts responsibility for complying with the requirements of this article and Articles 24*a* and 24*b*.[^24-8]
+<sup>2</sup> Sars-CoV-2 rapid tests may also be carried out at a location outside the facilities mentioned in paragraph 1 letter b provided a specialist with a CET qualification awarded by the Swiss «The Medical Laboratories of Switzerland» Federation (FAMH), a doctor or a pharmacist accepts responsibility for complying with the requirements of this article and Articles 24*a* and 24*b*.[^24-9]
 
-<sup>3</sup> If facilities under paragraph 1 letter a offer Sars-CoV-2 rapid tests at a location outside the facilities, they must notify the canton of their offer.[^24-9]
+<sup>3</sup> If facilities under paragraph 1 letter a offer Sars-CoV-2 rapid tests at a location outside the licensed facilities, they require a licence from Swissmedic and must notify the canton at the location of their offer.[^24-10]
 
 <sup>4</sup>
 
-Facilities under paragraphs 1 letter b and 1<sup>bis</sup> may carry out Sars-CoV-2 rapid tests for specialist use without a licence under Article 16 EpidA and outside closed systems provided they comply with the following conditions:[^24-10]
+Facilities under paragraphs 1 letter b and 1<sup>bis</sup> may carry out Sars-CoV-2 rapid tests for specialist use without a licence under Article 16 EpidA and outside closed systems provided they comply with the following conditions:[^24-11]
 
 - a. Suitable safety measures and precautionary measures plans to protect persons, animals, the environment and biological diversity have been prepared and implemented.
-- b.[^24-11] The tests are only carried out by persons specifically trained for this purpose according to the instructions provided by the test manufacturer.
+- b.[^24-12] The tests are only carried out by persons specifically trained for this purpose according to the instructions provided by the test manufacturer.
 - c. The test results are interpreted under the supervision of persons with the required expertise; external experts may also be consulted.
 - d. The facilities keep records that permit the traceability and prove the quality of the test systems used. The records must be preserved.
 - e. The facilities are authorised by the canton to carry out such tests.
 
-<sup>4bis</sup> Sars-CoV-2 rapid tests for self-testing by the public (Sars-CoV-2 self-tests) may be supplied and used if they are intended for self-testing by the manufacturer and certified accordingly.[^24-12]
+<sup>4bis</sup> Sars-CoV-2 rapid tests for self-testing by the public (Sars-CoV-2 self-tests) may be supplied and used if they are intended for self-testing by the manufacturer and certified accordingly.[^24-13]
 
-<sup>5</sup> Sars-CoV-2 rapid tests are direct detection methods that detect the antigens to Sars-CoV-2. The tests are not automated and are carried out with the minimum of instruments; only the reading of the test result may be automated.[^24-13]
+<sup>5</sup> Sars-CoV-2 rapid tests are direct detection methods that detect the antigens to Sars-CoV-2. The tests are not automated and are carried out with the minimum of instruments; only the reading of the test result may be automated.[^24-14]
 
 [^24-1]: Amended by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 [^24-2]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-3]: Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 [^24-4]: Amended by No I of the O of 21 Dec. 2022, in force since 1 Jan. 2023 ([AS 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^24-5]: Amended by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24-6]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^24-7]: Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-8]: Amended by No I of the O of 21 Dec. 2022, in force since 1 Jan. 2023 ([AS 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^24-9]: Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
-[^24-10]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-5]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^24-6]: Amended by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24-7]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24-8]: Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-9]: Amended by No I of the O of 21 Dec. 2022, in force since 1 Jan. 2023 ([AS 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
+[^24-10]: Amended by No I of the O of 21 Dec. 2022, in force since 1 Feb. 2023 ([AS 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 [^24-11]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-12]: Inserted by No I of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
-[^24-13]: Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-12]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-13]: Inserted by No I of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-14]: Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24a
 

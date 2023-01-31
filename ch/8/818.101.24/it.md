@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20230101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20230201-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230101/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 1° gennaio 2023)
+del 19 giugno 2020 (Stato 1° febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -244,7 +244,7 @@ Il Gruppo di lavoro interdipartimentale materiale medico è costituito da rappre
 
 <sup>3</sup> Il SSC può, sentito il Gruppo di lavoro interdipartimentale materiale medico, attribuire materiale medico importante a Cantoni, organizzazioni di utilità pubblica e terzi.
 
-<sup>4</sup> ... [^15-2]
+<sup>4</sup> ...[^15-2]
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^15-2]: Abrogato dal n. I dell’O del 21 dic. 2022, con effetto dal 1° gen. 2023 ([RU 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
@@ -401,7 +401,7 @@ I test rapidi non automatizzati per il rilevamento diretto del SARS-CoV-2 sul si
 
 <sup>2</sup> I test rapidi SARS-CoV-2 possono essere eseguiti anche al di fuori della sede delle strutture di cui al capoverso 1 lettera b, a condizione che uno specialista con un titolo di perfezionamento rilasciato dall’Associazione svizzera dei laboratori medici in Svizzera (FAMH), un medico o un farmacista si assuma la responsabilità del rispetto dei requisiti di cui al presente articolo e agli articoli 24*a* e 24*b*.[^24-8]
 
-<sup>3</sup> Se le strutture di cui al capoverso 1 lettera a offrono test rapidi SARS-CoV-2 al di fuori della loro sede, devono notificare queste offerte al Cantone.[^24-9]
+<sup>3</sup> Le strutture di cui al capoverso 1 lettera a che offrono test rapidi SARS-CoV-2 al di fuori della loro sede autorizzata devono disporre di un’autorizzazione da parte di Swissmedic e notificare queste offerte al Cantone della loro sede.[^24-9]
 
 <sup>4</sup>
 
@@ -425,7 +425,7 @@ Le strutture di cui ai capoversi 1 lettera b e 1<sup>bis</sup> possono eseguire 
 [^24-6]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^24-7]: Introdotto dal n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-8]: Nuovo testo giusta il n. I dell’O del 21 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^24-9]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-9]: Nuovo testo giusta il n. I dell’O del 21 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 [^24-10]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-11]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-12]: Introdotto dal n. I dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
@@ -589,7 +589,7 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 
 L’ordinanza 2 COVID-19 del 13 marzo 2020[^28-1] è abrogata.
 
-[^28-1]: [[RU 2020 773](https://fedlex.data.admin.ch/eli/oc/2020/141)[783](https://fedlex.data.admin.ch/eli/oc/2020/144)[841](https://fedlex.data.admin.ch/eli/oc/2020/158)[863](https://fedlex.data.admin.ch/eli/oc/2020/164)[867](https://fedlex.data.admin.ch/eli/oc/2020/165)[1059](https://fedlex.data.admin.ch/eli/oc/2020/188)[1065](https://fedlex.data.admin.ch/eli/oc/2020/190)[1101](https://fedlex.data.admin.ch/eli/oc/2020/196)[1131](https://fedlex.data.admin.ch/eli/oc/2020/206)[1137](https://fedlex.data.admin.ch/eli/oc/2020/207)[1155](https://fedlex.data.admin.ch/eli/oc/2020/213)[1199](https://fedlex.data.admin.ch/eli/oc/2020/225)[1245](https://fedlex.data.admin.ch/eli/oc/2020/238)[1249](https://fedlex.data.admin.ch/eli/oc/2020/239)[1333](https://fedlex.data.admin.ch/eli/oc/2020/252)[1401](https://fedlex.data.admin.ch/eli/oc/2020/275)[1501](https://fedlex.data.admin.ch/eli/oc/2020/299)[1505](https://fedlex.data.admin.ch/eli/oc/2020/300)[1585](https://fedlex.data.admin.ch/eli/oc/2020/323)[1751](https://fedlex.data.admin.ch/eli/oc/2020/343)[1815](https://fedlex.data.admin.ch/eli/oc/2020/366)[1823](https://fedlex.data.admin.ch/eli/oc/2020/367)[1835](https://fedlex.data.admin.ch/eli/oc/2020/371)[2097](https://fedlex.data.admin.ch/eli/oc/2020/413)[2099](https://fedlex.data.admin.ch/eli/oc/2020/414)[2213](https://fedlex.data.admin.ch/eli/oc/2020/439)art. 14 n. 2]
+[^28-1]: [[RU 2020 773](https://fedlex.data.admin.ch/eli/oc/2020/141), [783](https://fedlex.data.admin.ch/eli/oc/2020/144), [841](https://fedlex.data.admin.ch/eli/oc/2020/158), [863](https://fedlex.data.admin.ch/eli/oc/2020/164), [867](https://fedlex.data.admin.ch/eli/oc/2020/165), [1059](https://fedlex.data.admin.ch/eli/oc/2020/188), [1065](https://fedlex.data.admin.ch/eli/oc/2020/190), [1101](https://fedlex.data.admin.ch/eli/oc/2020/196), [1131](https://fedlex.data.admin.ch/eli/oc/2020/206), [1137](https://fedlex.data.admin.ch/eli/oc/2020/207), [1155](https://fedlex.data.admin.ch/eli/oc/2020/213), [1199](https://fedlex.data.admin.ch/eli/oc/2020/225), [1245](https://fedlex.data.admin.ch/eli/oc/2020/238), [1249](https://fedlex.data.admin.ch/eli/oc/2020/239), [1333](https://fedlex.data.admin.ch/eli/oc/2020/252), [1401](https://fedlex.data.admin.ch/eli/oc/2020/275), [1501](https://fedlex.data.admin.ch/eli/oc/2020/299), [1505](https://fedlex.data.admin.ch/eli/oc/2020/300), [1585](https://fedlex.data.admin.ch/eli/oc/2020/323), [1751](https://fedlex.data.admin.ch/eli/oc/2020/343), [1815](https://fedlex.data.admin.ch/eli/oc/2020/366), [1823](https://fedlex.data.admin.ch/eli/oc/2020/367), [1835](https://fedlex.data.admin.ch/eli/oc/2020/371), [2097](https://fedlex.data.admin.ch/eli/oc/2020/413), [2099](https://fedlex.data.admin.ch/eli/oc/2020/414), [2213](https://fedlex.data.admin.ch/eli/oc/2020/439)art. 14 n. 2]
 
 #### Art. 28a
 

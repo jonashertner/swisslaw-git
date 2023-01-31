@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20230101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20230201-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230101/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (État le 1<sup>er</sup> janvier 2023)
+du 19 juin 2020 (État le 1<sup>er</sup> février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -92,7 +92,7 @@ Ne sont pas soumises à la présente interdiction d’entrée les personnes:
 - b. qui peuvent démontrer qu’elles se trouvent dans une situation d’absolue nécessité;
 - c.[^4-9] qui n’ont pas encore 18 ans.[^4-10]
 
-<sup>2bis</sup> ...[^4-11]
+<sup>2bis</sup> …[^4-11]
 
 <sup>2ter</sup> Les exceptions visées à l’al. 2, let. a, a<sup>bis</sup> et c, ne s’appliquent pas aux personnes qui veulent entrer en Suisse depuis un pays ou une région visés à l’annexe 1, ch. 2.[^4-12]
 
@@ -200,9 +200,9 @@ Le groupe de travail interdépartemental concernant les biens médicaux comprend
 - f. Pharmacie de l’armée;
 - g. Service sanitaire coordonné (SSC).
 
-<sup>2</sup> Le représentant du SSC dirige le groupe de travail.[^12-1]
+<sup>2</sup> Le mandataire du Conseil fédéral pour le SSC dirige le groupe de travail.[^12-1]
 
-[^12-1]: Nouvelle teneur selon le ch. II 4 de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 13
 
@@ -244,7 +244,7 @@ Le groupe de travail interdépartemental concernant les biens médicaux comprend
 
 <sup>3</sup> Après avoir entendu le groupe de travail interdépartemental concernant les biens médicaux, le SSC peut attribuer les biens médicaux importants aux cantons, à des organisations d’utilité publique et à des tiers.
 
-<sup>4</sup> ...[^15-2]
+<sup>4</sup> …[^15-2]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^15-2]: Abrogé par le ch. I de l’O du 21 déc. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
@@ -394,42 +394,43 @@ Les masques de protection respiratoire visés à l’al. 1 qui se trouvent dans 
 
 Les tests rapides non automatisés à usage individuel pour la détection directe du SARS-CoV-2 (tests rapides SARS-CoV-2) avec application par un professionnel ne peuvent être effectués que dans les établissements suivants:[^24-3]
 
-- a.[^24-4] les laboratoires autorisés au sens de l’art. 16 LEp;
-- b.[^24-5] les cabinets médicaux, les pharmacies, les hôpitaux, les établissements médico-sociaux, les institutions médico-sociales et les centres de tests exploités par le canton ou sur son mandat.
+- a.[^24-4] les laboratoires autorisés au sens de l’art. 16 de la loi du 28 septembre 2012 sur les épidémies (LEp)[^24-5];
+- b.[^24-6] les cabinets médicaux, les pharmacies, les hôpitaux, les établissements médico-sociaux, les institutions médico-sociales et les centres de tests exploités par le canton ou sur son mandat.
 
-<sup>1bis</sup> Ils peuvent également être effectués au sein et par des organisations de soins et d’aide ou par celles-ci à domicile ainsi que par des assistants au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^24-6].[^24-7]
+<sup>1bis</sup> Ils peuvent également être effectués au sein et par des organisations de soins et d’aide ou par celles-ci à domicile ainsi que par des assistants au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^24-7].[^24-8]
 
-<sup>2</sup> Les tests rapides SARS-CoV-2 peuvent aussi être effectués en dehors du site des établissements visés à l’al. 1, let. b, à condition qu’un titulaire d’un titre postgrade en médecine de laboratoire délivré par l’association « Les laboratoires médicaux de Suisse » (FAMH), un médecin ou un pharmacien assume la responsabilité du respect des exigences prévues au présent article ainsi qu’aux art. 24*a* et 24*b*.[^24-8]
+<sup>2</sup> Les tests rapides SARS-CoV-2 peuvent aussi être effectués en dehors du site des établissements visés à l’al. 1, let. b, à condition qu’un titulaire d’un titre postgrade en médecine de laboratoire délivré par l’association « Les laboratoires médicaux de Suisse » (FAMH), un médecin ou un pharmacien assume la responsabilité du respect des exigences prévues au présent article ainsi qu’aux art. 24*a* et 24*b*.[^24-9]
 
-<sup>3</sup> Les établissements au sens de l’al 1, let. a, qui effectuent des tests rapides SARS-CoV-2 en dehors de leur site doivent déclarer cette offre au canton.[^24-9]
+<sup>3</sup> Les établissements au sens de l’al. 1, let. a, qui effectuent des tests rapides SARS-CoV-2 en dehors de leur site autorisé doivent être titulaires d’une autorisation à cette fin délivrée par Swissmedic et déclarer cette offre au canton dans lequel le site est établi.[^24-10]
 
 <sup>4</sup>
 
-Les établissements visés aux al. 1, let. b, et 1<sup>bis</sup> peuvent effectuer des tests rapides SARS-CoV-2 avec application par un professionnel sans autorisation au sens de l’art. 16 LEp et en dehors du milieu confiné si les conditions suivantes sont remplies:[^24-10]
+Les établissements visés aux al. 1, let. b, et 1<sup>bis</sup> peuvent effectuer des tests rapides SARS-CoV-2 avec application par un professionnel sans autorisation au sens de l’art. 16 LEp et en dehors du milieu confiné si les conditions suivantes sont remplies:[^24-11]
 
 - a. des mesures de sécurité ainsi que des plans de protection appropriés pour la protection de l’être humain, des animaux, de l’environnement et de la diversité biologique sont prévus et respectés;
-- b.[^24-11] les tests sont effectués uniquement par des personnes spécifiquement instruites à cette fin et selon les instructions du fabricant du test;
+- b.[^24-12] les tests sont effectués uniquement par des personnes spécifiquement instruites à cette fin et selon les instructions du fabricant du test;
 - c. les résultats sont interprétés sous la supervision de personnes possédant l’expertise spécifique nécessaire; il est possible de faire appel à des spécialistes externes;
 - d. les établissements établissent une documentation prouvant la traçabilité et la qualité des systèmes de test mis en place; ils doivent conserver cette documentation;
 - e. les établissements sont habilités à effectuer de tels tests par le canton.
 
-<sup>4bis</sup> Les tests rapides SARS-CoV-2 destinés à l’usage personnel par le public (autotests SARS-CoV-2) peuvent être remis et utilisés à condition qu’ils soient prévus et certifiés pour l’usage personnel conformément aux indications du fabricant.[^24-12]
+<sup>4bis</sup> Les tests rapides SARS-CoV-2 destinés à l’usage personnel par le public (autotests SARS-CoV-2) peuvent être remis et utilisés à condition qu’ils soient prévus et certifiés pour l’usage personnel conformément aux indications du fabricant.[^24-13]
 
-<sup>5</sup> Par tests rapides SARS-CoV-2, on entend des méthodes directes qui détectent les antigènes du SARS-CoV-2. Les tests ne sont pas automatisés et sont effectués avec un minimum d’instruments; seule la lecture des résultats peut être automatisée.[^24-13]
+<sup>5</sup> Par tests rapides SARS-CoV-2, on entend des méthodes directes qui détectent les antigènes du SARS-CoV-2. Les tests ne sont pas automatisés et sont effectués avec un minimum d’instruments; seule la lecture des résultats peut être automatisée.[^24-14]
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 [^24-2]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-3]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 26 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 [^24-4]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^24-5]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24-6]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^24-7]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-8]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^24-9]: Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur depuis le 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
-[^24-10]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-5]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^24-6]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24-7]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24-8]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-9]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
+[^24-10]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 [^24-11]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-12]: Introduit par le ch. I de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur depuis le 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
-[^24-13]: Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur depuis le 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-12]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-13]: Introduit par le ch. I de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur depuis le 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-14]: Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur depuis le 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24a
 
@@ -477,7 +478,7 @@ Les échantillons pour les analyses de biologie moléculaire pour le SARS-CoV-2 
 
 - a. dans les laboratoires autorisés au sens de l’art. 16 LEp et dans les points de prélèvement qu’ils exploitent;
 - b. dans les établissements ou par les personnes visés à l’art. 24, al. 1, let. b, 1<sup>bis</sup>, et 2;
-- c.[^24e-2] ...
+- c.[^24e-2] …
 
 <sup>2</sup> Le point de prélèvement de l’échantillon contrôle l’identité de la personne à tester. Le prélèvement est effectué par une personne formée.
 
@@ -565,7 +566,7 @@ Les cantons ont l’obligation de communiquer régulièrement au Service sanitai
 
 [^26b26c-1]: Introduits par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Abrogés par le ch. I de l’O du 21 déc. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 
-## Chapitre 4 ...
+## Chapitre 4 …
 
 #### Art. 27
 
@@ -639,7 +640,7 @@ Les coûts des analyses pour le SARS-CoV-2 pour lesquelles le prélèvement de l
 
 <sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2021, sous réserve de l’al. 5.[^29-3]
 
-<sup>5</sup> ...[^29-4]
+<sup>5</sup> …[^29-4]
 
 <sup>6</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2022, sous réserve des al. 5 et 7.[^29-5]
 
@@ -900,7 +901,7 @@ Annexe 5[^t-6]
 
 [^t-6]: Nouvelle teneur selon le ch. I al. 2 de l’O du DFI du 23 mars 2022 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19) ([RO 2022 186](https://fedlex.data.admin.ch/eli/oc/2022/186)). Mise à jour par le ch. II al. 1 de l’O du 21 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 
-- 1\. ...
+- 1\. …
 - 2\. Tixagevimab/Cilgavimab
 
 Annexe 5a[^t-7]
@@ -915,7 +916,7 @@ Annexe 5a[^t-7]
 
 Annexe 6[^t-8]
 
-[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2) ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Abrogée par le ch. II al. 3 de l’O du 21 déc. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
+[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Abrogée par le ch. II al. 3 de l’O du 21 déc. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 
 Annexe 7[^t-9]
 

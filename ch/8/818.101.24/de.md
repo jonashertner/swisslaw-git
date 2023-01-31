@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20230101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20230201-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20230101/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. Januar 2023)
+vom 19. Juni 2020 (Stand am 1. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -401,7 +401,7 @@ Nicht automatisierte Einzelpatienten-Schnelltests zum direkten Nachweis von Sars
 
 <sup>2</sup> Sars-CoV-2-Schnelltests dürfen auch ausserhalb des Standortes der in Absatz 1 Buchstabe b erwähnten Einrichtungen durchgeführt werden, sofern eine Fachperson mit einem durch den Schweizerischen Verband «Die medizinischen Laboratorien der Schweiz» (FAMH) verliehenen Weiterbildungstitel, eine Ärztin oder ein Arzt oder eine Apothekerin oder ein Apotheker die Verantwortung für die Einhaltung der Anforderungen dieses Artikels und der Artikel 24*a* und 24*b* übernimmt.[^24-8]
 
-<sup>3</sup> Bieten Einrichtungen nach Absatz 1 Buchstabe a Sars-CoV-2-Schnelltests ausserhalb ihres Standortes an, so müssen sie diese Angebote dem Kanton melden.[^24-9]
+<sup>3</sup> Bieten Einrichtungen nach Absatz 1 Buchstabe a Sars-CoV-2-Schnelltests ausserhalb ihres bewilligten Standortes an, benötigen sie dafür eine Bewilligung der Swissmedic und müssen dieses Angebot dem Standortkanton melden.[^24-9]
 
 <sup>4</sup>
 
@@ -425,7 +425,7 @@ Einrichtungen nach den Absätzen 1 Buchstabe b und 1<sup>bis</sup> dürfen Sars-
 [^24-6]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^24-7]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-8]: Fassung gemäss Ziff. I der V vom 21. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^24-9]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-9]: Fassung gemäss Ziff. I der V vom 21. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
 [^24-10]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-11]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-12]: Eingefügt durch Ziff. I der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
