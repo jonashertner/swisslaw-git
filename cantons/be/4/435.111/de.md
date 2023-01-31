@@ -4,13 +4,13 @@ number: "435.111"
 title: "Verordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerV
 language: de
-version: 2023-01-01
-valid_until: 2023-01-31
-version_adopted: 2022-11-16
+version: 2023-02-01
+valid_until: 2024-07-31
+version_adopted: 2023-01-25
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2731/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2789/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2731/pdf_file"
 
 (BerV)
 
-vom 09.11.2005 (Stand 01.01.2023)
+vom 09.11.2005 (Stand 01.02.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -59,11 +59,12 @@ beschliesst:
 
 #### Art. 4
 
-**Berufsbildungsrat (BBR) 1 Zusammensetzung**
+**Berufsbildungsrat 1 Zusammensetzung**
 
-<sup>1</sup> Die Bildungs- und Kulturdirektion ernennt die Mitglieder des Berufsbildungsrats. Er besteht aus 15 Mitgliedern und setzt sich zusammen aus
+<sup>1</sup> Die Bildungs- und Kulturdirektion ernennt die Mitglieder des Berufsbildungsrats. Er besteht aus 20 Mitgliedern und setzt sich zusammen aus
 
-- a acht Vertreterinnen und Vertretern von Organisationen der Arbeitswelt,
+- a elf Vertreterinnen und Vertreter von Organisationen der Arbeitswelt,
+- a1 zwei Vertreterinnen und Vertreter von Ausbildungsbetrieben,
 - b zwei Vertreterinnen und Vertretern des Berner Juras oder der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne,
 - c einer Vertreterin oder einem Vertreter der Berufsfachschulen,
 - d einer Vertreterin oder einem Vertreter der Weiterbildung,
@@ -71,7 +72,7 @@ beschliesst:
 - f einer Vertreterin oder einem Vertreter der Sekundarstufe I und
 - g einer Vertreterin oder einem Vertreter der Wissenschaft.
 
-<sup>2</sup> Den Organisationen der Arbeitswelt steht für ihre Vertreterinnen und Vertreter ein Vorschlagsrecht zu. Die Vertreterinnen und Vertreter des Berner Juras oder der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne werden auf gemeinsamen Vorschlag des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne ernannt.
+<sup>2</sup> Den Organisationen der Arbeitswelt steht für ihre Vertreterinnen und Vertreter ein Vorschlagsrecht zu. Dem Schweizerischen Arbeitgeberverband und den Berner KMU steht für je eine Vertreterin oder einen Vertreter von Ausbildungsbetrieben ein Vorschlagsrecht zu. Die Vertreterinnen und Vertreter des Berner Juras oder der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne werden auf gemeinsamen Vorschlag des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne ernannt.
 
 <sup>3</sup> Im Berufsbildungsrat sind die Geschlechter ausgewogen vertreten.
 

@@ -4,13 +4,13 @@ number: "435.111"
 title: "Ordonnance sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: OFOP
 language: fr
-version: 2023-01-01
-valid_until: 2023-01-31
-version_adopted: 2022-11-16
+version: 2023-02-01
+valid_until: 2024-07-31
+version_adopted: 2023-01-25
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2731/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2789/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2731/pdf_file"
 
 (OFOP)
 
-du 09.11.2005 (état au 01.01.2023)
+du 09.11.2005 (état au 01.02.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -57,11 +57,12 @@ arrête:
 
 #### Art. 4
 
-**Conseil pour la formation professionnelle (CFP) 1. Composition**
+**Conseil pour la formation professionnelle 1. Composition**
 
-<sup>1</sup> La Direction de l'instruction publique et de la culture nomme les membres du Conseil pour la formation professionnelle. Celui-ci comprend 15 membres et se compose
+<sup>1</sup> La Direction de l'instruction publique et de la culture nomme les membres du Conseil pour la formation professionnelle. Celui-ci comprend 20 membres et se compose
 
-- a de huit représentants ou représentantes des organisations du monde du travail,
+- a de onze représentants ou représentantes des organisations du monde du travail,
+- a1 de deux représentants ou représentantes des entreprises formatrices,
 - b de deux représentants ou représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne,
 - c d’un représentant ou d’une représentante des écoles professionnelles,
 - d d’un représentant ou d’une représentante de la formation continue,
@@ -69,7 +70,7 @@ arrête:
 - f d'un représentant ou d'une représentante du degré secondaire I et
 - g d’un représentant ou d’une représentante des milieux scientifiques.
 
-<sup>2</sup> Les organisations du monde du travail ont un droit de proposition pour leurs représentants ou représentantes. Les représentants et les représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne sont nommés sur proposition commune du Conseil du Jura bernois et du Conseil des affaires francophones de l'arrondissement de Biel/Bienne.
+<sup>2</sup> Les organisations du monde du travail ont un droit de proposition pour leurs représentants ou représentantes. L'Union patronale suisse et PME bernoises ont chacune un droit de proposition pour un représentant ou une représentante des entreprises formatrices. Les représentants et les représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne sont nommés sur proposition commune du Conseil du Jura bernois et du Conseil des affaires francophones de l'arrondissement de Biel/Bienne.
 
 <sup>3</sup> La représentation des hommes et des femmes au sein du Conseil pour la formation professionnelle est équilibrée.
 
