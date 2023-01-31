@@ -4,11 +4,11 @@ title: "Ordonnance du 3 décembre 2015 de l'Autorité fédérale de surveillance
 short: OIMF-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/855"
 language: fr
-version: 2021-11-26
+version: 2023-02-01
 adopted: 2015-12-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20211126/fr/xml/fedlex-data-admin-ch-eli-cc-2015-855-20211126-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-855-20230201-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/fr"
 
 (Ordonnance de la FINMA sur l’infrastructure des marchés financiers, OIMF-FINMA)
 
-du 3 décembre 2015 (Etat le 26 novembre 2021)
+du 3 décembre 2015 (État le 1<sup>er</sup> février 2023)
 
 L’Autorité fédérale de surveillance des marchés financiers (FINMA),
 
@@ -92,20 +92,23 @@ La déclaration doit contenir les informations suivantes:
 
 - a.[^3-1] l’identité de la maison de titres soumise à l’obligation de déclarer les transactions selon la LEFin ou du participant admis sur une plate-forme de négociation;
 - b. le type de transaction (achat ou vente);
-- c. la désignation exacte des valeurs mobilières ou des dérivés négociés;
+- c.[^3-2] la désignation exacte des valeurs mobilières ou des dérivés négociés, ainsi que, pour les dérivés, la désignation des valeurs de leurs sous-jacents de même que d’autres caractéristiques déterminantes des dérivés, telles que la classification des dérivés;
 - d. la taille de la transaction, notamment: la valeur nominale pour les obligations, le nombre de pièces ou de contrats pour les autres valeurs mobilières et dérivés;
-- e. le cours;
+- e.[^3-3] le cours des valeurs mobilières ou des dérivés négociés, ainsi que, pour les dérivés, les autres paramètres déterminant la valeur en fonction de leur classification, tels que l’indication qu’il s’agit d’une option d’achat ou de vente, le prix d’exercice, le multiplicateur de prix et l’échéance du contrat ou la date d’expiration;
 - f. la date et l’heure de la transaction;
-- g. la date valeur;
+- g.[^3-4] …
 - h. s’il s’agit d’une transaction pour le compte du négociant ou pour le compte de tiers;
 - i. l’identité de la contrepartie, comme membre de la bourse, autre négociant, client et, en cas de transmission d’ordre, l’identité du preneur d’ordre;
 - j. la désignation de la plate-forme auprès de laquelle la valeur mobilière ou le dérivé a été négocié(e) ou l’indication que la transaction a été effectuée en dehors d’une plate-forme;
 - k. une référence standardisée pour les opérations de client, qui permet de vérifier l’identité de l’ayant droit économique de l’opération (art. 37, al. 1, let. d, OIMF et art. 31, al. 1, let. d, OBVM).
 
-<sup>2</sup> Pour les opérations de client, elle contient également une référence standardisée qui permet de vérifier l’identité de l’ayant droit économique de l’opération (art. 37, al. 1, let. d, OIMF et 75, al. 1, let. d, OEFin).[^3-2]
+<sup>2</sup> Pour les opérations de client, elle contient également une référence standardisée qui permet de vérifier l’identité de l’ayant droit économique de l’opération (art. 37, al. 1, let. d, OIMF et 75, al. 1, let. d, OEFin).[^3-5]
 
 [^3-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^3-2]: Introduit par l’annexe ch. 5 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 8 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 8 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-4]: Abrogée par le ch. I de l’O de la FINMA du 8 déc. 2022, avec effet au 1<sup>er</sup> fév. 2023 ([RO 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-5]: Introduit par l’annexe ch. 5 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 #### Art. 4
 
@@ -295,7 +298,7 @@ Doivent être déclarés:
 
 - a. l’acquisition ou l’aliénation de droits d’échange ou d’acquisition (en particulier les options d’achat) ainsi que de droits d’aliénation (en particulier les options de vente) qui prévoient ou permettent une exécution en nature;
 - b. l’émission de droits d’échange ou d’acquisition (en particulier les options d’achat) ainsi que de droits d’aliénation (en particulier les options de vente), qui prévoient ou permettent une exécution en nature;
-- c. les dérivés de participation qui prévoient ou permettent une exécution en espèces ainsi que les autres contrats à terme avec règlement en espèce tels que les *Contracts for Difference, Financial F**u**tures*.
+- c. les dérivés de participation qui prévoient ou permettent une exécution en espèces ainsi que les autres contrats à terme avec règlement en espèce tels que les *Contracts for Difference, Financial Futures*.
 
 <sup>3</sup> Les dérivés de participations déclarés en application de l’al. 2 doivent être déclarés à nouveau si, en raison de leur exercice ou de leur non-exercice, la participation atteint le seuil défini par l’art. 120, al. 1, LIMF ou le franchit, à la hausse ou à la baisse.
 
@@ -861,38 +864,42 @@ L’obligation de déclarer prévue à l’art. 10, al. 2, OIMF-FINMA, dans sa v
 
 [^50a-1]: Introduit par le ch. I de l’O de la FINMA du 26 janv. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
 
+#### Art. 50b
+
+**Disposition transitoire relative à la modification du 8 décembre 2022**[^50b-1]
+
+<sup>1</sup> L’obligation de déclarer prévue à l’art. 3, al. 1, let. c et e, dans sa version modifiée le 8 décembre 2022, doit être remplie au plus tard 15 mois après l’entrée en vigueur.
+
+<sup>2</sup> Les instances pour les déclarations adaptent en conséquence leurs règlements selon l’art. 5, al. 5, ainsi que les spécifications techniques au plus tard 6 mois après l’entrée en vigueur et informent les personnes soumises à l’obligation de déclarer de ces adaptations.
+
+[^50b-1]: Introduit par le ch. I de l’O de la FINMA du 8 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+
 #### Art. 51
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 6, al. 1)
 
 ## Catégories de dérivés à compenser par le biais d’une contrepartie centrale
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 3 mai 2018, en vigueur depuis le 1<sup>er</sup> sept. 2018 ([RO 2018 2387](https://fedlex.data.admin.ch/eli/oc/2018/343)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 3 mai 2018 ([RO 2018 2387](https://fedlex.data.admin.ch/eli/oc/2018/343)). Mise à jour par le ch. II de l’O de la FINMA du 8 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
 
 ### I. Dérivés de gré à gré sur taux d’intérêt
 
 <table>
 <tr><th>Type</th><th>Indice de référence</th><th>Devise de règlement</th><th>Durée résiduelle</th><th>Type de devise de règlement</th><th>Optionalité</th><th>Type de notionnel</th></tr>
 <tr><td>1. Swap de base</td><td>EURIBOR</td><td>EUR</td><td>28J-50A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>2. Swap de base</td><td>LIBOR</td><td>GBP</td><td>28J-50A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>3. Swap de base</td><td>LIBOR</td><td>JPY</td><td>28J-30A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>4. Swap de base</td><td>LIBOR</td><td>USD</td><td>28J-50A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>5. Swap fixe contre variable</td><td>EURIBOR</td><td>EUR</td><td>28J-50A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>6. Swap fixe contre variable</td><td>LIBOR</td><td>GBP</td><td>28J-50A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>7. Swap fixe contre variable</td><td>LIBOR</td><td>JPY</td><td>28J-30A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>8. Swap fixe contre variable</td><td>LIBOR</td><td>USD</td><td>28J-50A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>9. Forward Rate Agreement</td><td>EURIBOR</td><td>EUR</td><td>3J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>10. Forward Rate Agreement</td><td>LIBOR</td><td>GBP</td><td>3J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>11. Forward Rate Agreement</td><td>LIBOR</td><td>USD</td><td>3J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>12. Swap indexé sur le taux à un jour</td><td>EONIA</td><td>EUR</td><td>7J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>13. Swap indexé sur le taux à un jour</td><td>FedFunds</td><td>USD</td><td>7J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
-<tr><td>14. Swap indexé sur le taux à un jour</td><td>SONIA</td><td>GBP</td><td>7J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
+<tr><td>2. Swap fixe contre variable</td><td>EURIBOR</td><td>EUR</td><td>28J-50A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
+<tr><td>3. Forward Rate Agreement</td><td>EURIBOR</td><td>EUR</td><td>3J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
+<tr><td>4. Swap indexé sur le taux à un jour</td><td>FedFunds</td><td>USD</td><td>7J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
+<tr><td>5. Swap indexé sur le taux à un jour</td><td>€STR</td><td>EUR</td><td>7J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
+<tr><td>6. Swap indexé sur le taux à un jour</td><td>SONIA</td><td>GBP</td><td>7J-50A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
+<tr><td>7. Swap indexé sur le taux à un jour</td><td>SOFR</td><td>USD</td><td>7J-3A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
+<tr><td>8. Swap indexé sur le taux à un jour</td><td>TONA</td><td>JPY</td><td>7J-30A</td><td>Devise unique</td><td>Non</td><td>Constant ou variable</td></tr>
 </table>
 
 ### II. Dérivés sur défaut de crédit de gré à gré
@@ -919,5 +926,5 @@ Les actes suivants sont modifiés comme suit:
 
 …[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[RO 2008 6521](https://fedlex.data.admin.ch/eli/oc/2008/889), [2011 6285](https://fedlex.data.admin.ch/eli/oc/2011/885), [2013 1117](https://fedlex.data.admin.ch/eli/oc/2013/252), [2014 4563](https://fedlex.data.admin.ch/eli/oc/2014/763)]
+[^annex2-lvlu1-1]: [[RO 2008 6521](https://fedlex.data.admin.ch/eli/oc/2008/889); [2011 6285](https://fedlex.data.admin.ch/eli/oc/2011/885); [2013 1117](https://fedlex.data.admin.ch/eli/oc/2013/252); [2014 4563](https://fedlex.data.admin.ch/eli/oc/2014/763)]
 [^annex2-lvlu1-2]: Les mod. peuvent être consultées au [RO 2015 5509](https://fedlex.data.admin.ch/eli/oc/2015/855).

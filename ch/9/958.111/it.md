@@ -4,11 +4,11 @@ title: "Ordinanza del 3 dicembre 2015 dell'Autorità federale di vigilanza sui m
 short: OInFi-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/855"
 language: it
-version: 2021-11-26
+version: 2023-02-01
 adopted: 2015-12-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20211126/it/xml/fedlex-data-admin-ch-eli-cc-2015-855-20211126-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2015-855-20230201-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/it"
 
 (Ordinanza FINMA sull’infrastruttura finanziaria, OInFi-FINMA)
 
-del 3 dicembre 2015 (Stato 26 novembre 2021) (Stato 26 novembre 2021)
+del 3 dicembre 2015 (Stato 1° febbraio 2023)
 
 L’Autorità federale di vigilanza sui mercati finanziari (FINMA),
 
@@ -93,21 +93,24 @@ La dichiarazione contiene le seguenti indicazioni:
 
 - a.[^3-1] la designazione della società di intermediazione mobiliare soggetta all’obbligo di comunicazione secondo la LIsFi o del partecipante ammesso a una sede di negoziazione;
 - b. la descrizione del tipo di transazione (acquisto/vendita);
-- c. la denominazione esatta dei valori mobiliari o dei derivati negoziati;
+- c.[^3-2] la denominazione esatta dei valori mobiliari o dei derivati negoziati; inoltre, per i derivati, la denominazione dei relativi sottostanti come pure di ulteriori caratteristiche determinanti dei derivati, segnatamente la classificazione del derivato;
 - d. l’entità della transazione e precisamente il valore nominale per le obbligazioni e il numero di titoli o di contratti per gli altri valori mobiliari e derivati;
-- e. il corso;
+- e.[^3-3] il corso dei valori mobiliari o dei derivati negoziati; inoltre, per i derivati, gli altri parametri di determinazione del valore stabiliti in funzione della classificazione del derivato, segnatamente l’indicazione se si tratta di un’opzione di vendita o di acquisto, il prezzo di esercizio, il moltiplicatore del prezzo e la data di cessazione o di scadenza;
 - f. la data e l’ora precisa della transazione;
-- g. la data di valuta;
+- g.[^3-4] ...
 - h. l’indicazione se si tratta di una transazione per proprio conto o per conto di clienti;
-- i. la designazione della controparte quale membro di borsa, altra società di intermediazione mobiliare[^3-2], cliente; nel caso di trasmissioni degli ordini, la designazione del mandatario;
+- i. la designazione della controparte quale membro di borsa, altra società di intermediazione mobiliare[^3-5], cliente; nel caso di trasmissioni degli ordini, la designazione del mandatario;
 - j. l’indicazione della sede di negoziazione alla quale il valore mobiliare o il derivato è stato negoziato oppure l’indicazione che la transazione è avvenuta al di fuori di una sede di negoziazione;
 - k. nelle transazioni per conto di clienti, un riferimento standardizzato che permetta l’identificazione dell’avente economicamente diritto alla transazione (art. 37 cpv. 1 lett. d OInFi e art. 31 cpv. 1 lett. d OBVM).
 
-<sup>2</sup> Nelle transazioni per conto di clienti, contiene inoltre un riferimento standardizzato che permetta l’identificazione dell’avente economicamente diritto alla transazione (art. 37 cpv. 1 lett. d OInFi e art. 75 cpv. 1 lett. d OIsFi).[^3-3]
+<sup>2</sup> Nelle transazioni per conto di clienti, contiene inoltre un riferimento standardizzato che permetta l’identificazione dell’avente economicamente diritto alla transazione (art. 37 cpv. 1 lett. d OInFi e art. 75 cpv. 1 lett. d OIsFi).[^3-6]
 
 [^3-1]: Nuovo testo giusta l’all. n. 5 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^3-2]: Nuova espr. giusta l’all. n. 5 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^3-3]: Introdotto dall’all. n. 5 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3-2]: Nuovo testo giusta dal n. I dell’O della FINMA dell’8 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-3]: Nuovo testo giusta dal n. I dell’O della FINMA dell’8 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-4]: Abrogata dal n. I dell’O della FINMA dell’8 dic. 2022, con effetto dal 1° feb. 2023 ([RU 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-5]: Nuova espr. giusta l’all. n. 5 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-6]: Introdotto dall’all. n. 5 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 #### Art. 4
 
@@ -864,38 +867,42 @@ L’obbligo di comunicazione di cui all’articolo 10 capoverso 2 OInFi-FINMA ne
 
 [^50a-1]: Introdotto dal n. I dell’O della FINMA del 26 gen. 2017, in vigore dal 1° mar. 2017 ([RU 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
 
+#### Art. 50b
+
+**Disposizione transitoria della modifica dell’8 dicembre 2022**[^50b-1]
+
+<sup>1</sup> L’obbligo di dichiarazione di cui all’articolo 3 capoverso 1 lettere c ed e nella versione della modifica dell’8 dicembre 2022 deve essere adempiuto al più tardi 15 mesi dopo l’entrata in vigore.
+
+<sup>2</sup> Gli uffici delle dichiarazioni adeguano di conseguenza i loro regolamenti di cui all’articolo 5 capoverso 5 e le specifiche tecniche al più tardi sei mesi dopo l’entrata in vigore e informano le persone soggette all’obbligo di dichiarazione in merito a tale adeguamento.
+
+[^50b-1]: Introdotto dal n. I dell’O della FINMA dell’8 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+
 #### Art. 51
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° gennaio 2016.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 6 cpv. 1)
 
 ## Categorie di derivati soggetti a compensazione per il tramite di una controparte centrale
 
-[^t-1]: Nuovo testo giusta il n. I dell’O della FINMA del 3 mag. 2018, in vigore dal 1° set. 2018 ([RU 2018 2387](https://fedlex.data.admin.ch/eli/oc/2018/343)).
+[^t-1]: Nuovo testo giusta il n. I dell’O della FINMA del 3 mag. 2018 ([RU 2018 2387](https://fedlex.data.admin.ch/eli/oc/2018/343)). Aggiornato dal n. II dell’O della FINMA dell’8 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
 
 ### I. Derivati OTC su tassi d’interesse
 
 <table>
 <tr><th>Tipo</th><th>Tasso d’interesse di riferimento</th><th>Valuta di regolamento</th><th>Scadenza</th><th>Tipo di valuta di regolamento</th><th>Opzione</th><th>Tipo di valore nominale</th></tr>
-<tr><td>1. Base Swap</td><td>EURIBOR</td><td>EUR</td><td>28D-50Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>2. Base Swap</td><td>LIBOR</td><td>GBP</td><td>28D-50Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>3. Base Swap</td><td>LIBOR</td><td>JPY</td><td>28D-30Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>4. Base Swap</td><td>LIBOR</td><td>USD</td><td>28D-50Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>5. Fixed-to-Float</td><td>EURIBOR</td><td>EUR</td><td>28D-50Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>6. Fixed-to-Float</td><td>LIBOR</td><td>GBP</td><td>28D-50Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>7. Fixed-to-Float</td><td>LIBOR</td><td>JPY</td><td>28D-30Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>8. Fixed-to-Float</td><td>LIBOR</td><td>USD</td><td>28D-50Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>9. Forward Rate Agreement</td><td>EURIBOR</td><td>EUR</td><td>3D-3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>10. Forward Rate Agreement</td><td>LIBOR</td><td>GBP</td><td>3D-3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>11. Forward Rate Agreement</td><td>LIBOR</td><td>USD</td><td>3D-3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>12. Overnight Index Swap</td><td>EONIA</td><td>EUR</td><td>7D-3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>13. Overnight Index Swap</td><td>FedFunds</td><td>USD</td><td>7D-3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
-<tr><td>14. Overnight Index Swap</td><td>SONIA</td><td>GBP</td><td>7D-3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
+<tr><td>1. Base Swap</td><td>EURIBOR</td><td>EUR</td><td>28D–50Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
+<tr><td>2. Fixed-to-Float</td><td>EURIBOR</td><td>EUR</td><td>28D–50Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
+<tr><td>3. Forward Rate Agreement</td><td>EURIBOR</td><td>EUR</td><td>3D–3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
+<tr><td>4. Overnight Index Swap</td><td>FedFunds</td><td>USD</td><td>7D–3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
+<tr><td>5. Overnight Index Swap</td><td>€STR</td><td>EUR</td><td>7D–3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
+<tr><td>6. Overnight Index Swap</td><td>SONIA</td><td>GBP</td><td>7D–50Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
+<tr><td>7. Overnight Index Swap</td><td>SOFR</td><td>USD</td><td>7D–3Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
+<tr><td>8. Overnight Index Swap</td><td>TONA</td><td>JPY</td><td>7D–30Y</td><td>Valuta unica</td><td>No</td><td>Costante o variabile</td></tr>
 </table>
 
 ### II. Derivati OTC su crediti

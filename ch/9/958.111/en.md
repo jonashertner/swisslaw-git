@@ -4,11 +4,11 @@ title: "Ordinance of 3 December 2015 of the Swiss Financial Market Supervisory A
 short: FinMIO-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/855"
 language: en
-version: 2021-11-26
+version: 2023-02-01
 adopted: 2015-12-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20211126/en/xml/fedlex-data-admin-ch-eli-cc-2015-855-20211126-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20230201/en/xml/fedlex-data-admin-ch-eli-cc-2015-855-20230201-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20230201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (FINMA Financial Market Infrastructure Ordinance, FinMIO-FINMA)
 
-of 3 December 2015 (Status as of 26 November 2021)
+of 3 December 2015 (Status as of 1 February 2023)
 
 The Swiss Financial Market Supervisory Authority (FINMA),
 
@@ -95,20 +95,24 @@ The report shall contain the following details:
 
 - a.[^3-1] the name of the securities firm subject to the reporting duty in accordance with FinIA or the participant admitted to a trading venue;
 - b. the transaction type (buy/sell);
-- c. the exact name of the securities or derivatives in question;
+- c.[^3-2] the exact name of the securities or derivatives in question; and additionally in the case of derivatives: the name of the underlyings and further determining characteristics of the derivative, namely the classification of the derivative;
 - d. the volume of the transaction as follows: nominal amount for bonds, units or contracts for other securities and derivatives;
-- e. the price;
+- e.[^3-3] the price of the securities or derivatives in question; and additionally in the case of derivatives, the further value-determining parameters, depending on the classification of the derivative, namely whether it is a call or put option, the strike price, the price multiplier and the term of the contract or the expiry date;
 - f. the date and time of execution;
-- g. the value date;
+- g.[^3-4] …
 - h. whether it is a proprietary or client transaction;
-- i. the designation of the counterparty as a stock exchange member, other securities firm[^3-2], customer; in the case of transmissions of orders: designation of the party to which the order was transmitted;
+- i. the designation of the counterparty as a stock exchange member, other securities firm[^3-5], customer; in the case of transmissions of orders: designation of the party to which the order was transmitted;
 - j. the name of the trading venue where the security or derivative was traded, or the notification that the transaction was made outside a trading venue;
 - k. for client transactions: a standardised reference enabling the identification of the beneficial owner of the transaction (Art. 37 para. 1 let. d FinMIO and Art. 31 para. 1 let. d FinIO).
-- [tab] <sup>2</sup> For client transactions, it shall further contain a standardised reference enabling the identification of the beneficial owner of the transaction (Art. 37 para. 1 let. d FinMIO and Art. 75 para. 1 let. d FinIO).[^3-3]
+
+<sup>2</sup> For client transactions, it shall further contain a standardised reference enabling the identification of the beneficial owner of the transaction (Art. 37 para. 1 let. d FinMIO and Art. 75 para. 1 let. d FinIO).[^3-6]
 
 [^3-1]: Amended by Annex No 5 of the FINMA O of 4 Nov. 2020 on Financial Institutions, in force since 1 Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^3-2]: Term in accordance with Annex No 5 of the FINMA O of 4 Nov. 2020 on Financial Institutions, in force since 1 Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). This amendment has been made throughout the text.
-[^3-3]: Inserted by Annex No 5 of the FINMA O of 4 Nov. 2020 on Financial Institutions, in force since 1 Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3-2]: Amended by No I of the FINMA O of 8 Dec. 2022, in force since 1 Feb. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-3]: Amended by No I of the FINMA O of 8 Dec. 2022, in force since 1 Feb. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-4]: Repealed by No I of the FINMA O of 8 Dec. 2022, with effect from 1 Feb. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-5]: Term in accordance with Annex No 5 of the FINMA O of 4 Nov. 2020 on Financial Institutions, in force since 1 Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). This amendment has been made throughout the text.
+[^3-6]: Inserted by Annex No 5 of the FINMA O of 4 Nov. 2020 on Financial Institutions, in force since 1 Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 #### Art. 4
 
@@ -217,7 +221,7 @@ There is no notification duty, if:
 - b. notification of reaching or exceeding a threshold was provided and that threshold is met again, without having reached or exceeded the subsequent threshold;
 - c. a threshold is temporarily reached, exceeded or fallen below during a trading day.
 
-[^10-1]: Amended by No I of the FINMA Ordinance of 26 Jan. 2017, in force since 1 March 2017 ([AS 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
+[^10-1]: Amended by No I of the FINMA O of 26 Jan. 2017, in force since 1 March 2017 ([AS 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
 
 #### Art. 11
 
@@ -405,11 +409,11 @@ The group of companies must provide the competent disclosure office with the fol
 
 When calculating their acquisition positions (Art. 14 para. 1 let. a) and disposal positions (Art. 14 para. 1 let. b), banks and securities firms under the FinIA may disregard equity securities and equity derivatives which they hold:[^19-1]
 
-- a. in their trading book, provided their share does not reach 5 per cent of voting rights;
-- b. as part of securities loans, collateral transactions or repurchase agreements provided their share does not reach 5 per cent of voting rights;
+- a. in their trading book, provided their share does not reach 5% of voting rights;
+- b. as part of securities loans, collateral transactions or repurchase agreements provided their share does not reach 5% of voting rights;
 - c. only for up to two trading days and exclusively for clearing and settling purposes.
 
-<sup>2</sup> The calculation under paragraph 1 is only permitted if there is no intention to exercise the voting rights or to intervene in the management of the issuer'[^19-2] in any other way, and the voting share does not exceed 10 per cent of the voting rights.
+<sup>2</sup> The calculation under paragraph 1 is only permitted if there is no intention to exercise the voting rights or to intervene in the management of the issuer'[^19-2] in any other way, and the voting share does not exceed 10% of the voting rights.
 
 <sup>3</sup> Equity securities for in-house funds under Article 71 FinSA shall be attributed to the bank's or securities firm's proprietary holdings.[^19-3]
 
@@ -429,7 +433,7 @@ From the publication of the pre-announcement or of the prospectus (offer prospec
 
 - a. the offeror[^20-1];
 - b. persons acting in concert or as an organised group with the offeror;
-- c. persons under Article 134 paragraph 1 FinMIA holding at least 3 per cent of the voting rights directly, indirectly or in concert with third parties, whether exercisable or not, in the target company or, if applicable, in another company whose equity securities are being offered in exchange;
+- c. persons under Article 134 paragraph 1 FinMIA holding at least 3% of the voting rights directly, indirectly or in concert with third parties, whether exercisable or not, in the target company or, if applicable, in another company whose equity securities are being offered in exchange;
 - d. persons designated by the Takeover Board in accordance with Article 134 paragraph 3 FinMIA.
 
 <sup>2</sup> Cases requiring notification which occur during the takeover proceedings must be reported in accordance with the provisions of this Ordinance after expiry of the extension period.
@@ -460,7 +464,7 @@ From the publication of the pre-announcement or of the prospectus (offer prospec
 
 The notification contains the following details:
 
-- a. the proportion of voting rights, type and number of all equity securities or equity derivatives under Article 15 and the associated voting rights held by the persons involved. When falling below the threshold of 3 per cent, the notification to that effect may be given without specifying the actual voting proportion;
+- a. the proportion of voting rights, type and number of all equity securities or equity derivatives under Article 15 and the associated voting rights held by the persons involved. When falling below the threshold of 3%, the notification to that effect may be given without specifying the actual voting proportion;
 - b.
 
   the trigger event, such as:
@@ -515,7 +519,7 @@ In the following instances, the information in paragraph 1 shall be supplemented
 
 <sup>3</sup> In the event of an indirect acquisition or indirect disposal (Art. 11), the notification must contain the full details of the person making the direct acquisition or disposal as well as of the beneficial owner.
 
-[^22-1]: Amended by No I of the FINMA Ordinance of 26 Jan. 2017, in force since 1 March 2017 ([AS 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
+[^22-1]: Amended by No I of the FINMA O of 26 Jan. 2017, in force since 1 March 2017 ([AS 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
 [^22-2]: Correction of 26 Nov. 2021 ([AS 2021 775](https://fedlex.data.admin.ch/eli/oc/2021/775)).
 
 #### Art. 23
@@ -682,7 +686,7 @@ Article 12 paragraph 1 applies to persons acting in concert or as an organised g
 
 ### (Art. 135 para. 4, 136 para. 2, 163 FinMIA)
 
-If the person previously entitled to the equity securities was subject to the duty to make an offer for all equity securities on exceeding the threshold of 50 per cent of voting rights pursuant to the transitional regulation of Article 163 FinMIA, this duty passes over to the person acquiring a holding between 33⅓ and 50 per cent of the voting rights, if that person is exempted from the duty to make an offer under Article 136 paragraph 2 FinMIA.
+If the person previously entitled to the equity securities was subject to the duty to make an offer for all equity securities on exceeding the threshold of 50% of voting rights pursuant to the transitional regulation of Article 163 FinMIA, this duty passes over to the person acquiring a holding between 33⅓ and 50% of the voting rights, if that person is exempted from the duty to make an offer under Article 136 paragraph 2 FinMIA.
 
 #### Art. 37
 
@@ -690,7 +694,7 @@ If the person previously entitled to the equity securities was subject to the du
 
 ### (Art. 135 para. 4 FinMIA)
 
-A person who reduces a holding of 50 per cent or more of the voting rights in a company acquired prior to 1 January 1998 to under 50 per cent must make an offer under Article 135 FinMIA, if the said person's holding subsequently exceeds the threshold of 50 per cent.
+A person who reduces a holding of 50% or more of the voting rights in a company acquired prior to 1 January 1998 to under 50% must make an offer under Article 135 FinMIA, if the said person's holding subsequently exceeds the threshold of 50%.
 
 #### Art. 38
 
@@ -757,7 +761,7 @@ Further justified cases under Article 136 paragraph 1 FinMIA are particularly th
 
 <sup>3</sup> When granting exceptions conditions may be attached; in particular the acquiring person may be made subject to certain obligations.
 
-<sup>4</sup> The conditions under paragraph 3 transfer to a legal successor who acquires a shareholding exceeding 33⅓ per cent even if the legal successor is exempt from the duty to make an offer under Article 136 paragraph 2 FinMIA.
+<sup>4</sup> The conditions under paragraph 3 transfer to a legal successor who acquires a shareholding exceeding 33⅓% even if the legal successor is exempt from the duty to make an offer under Article 136 paragraph 2 FinMIA.
 
 ### Section 3 Determining the Offer Price
 
@@ -863,7 +867,17 @@ The repeal and amendment of other legislative instruments are regulated in Annex
 
 The duty to report under Article 10 para. 2 FinMIO-FINMA in its version amended on 26 January 2017 must be met by 31 August 2017.
 
-[^50a-1]: Inserted by No I of the FINMA Ordinance of 26 Jan. 2017, in force since 1 March 2017 ([AS 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
+[^50a-1]: Inserted by No I of the FINMA O of 26 Jan. 2017, in force since 1 March 2017 ([AS 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
+
+#### Art.50b
+
+**Transitional Provision to the Amendment of 8 December 2022**[^50b-1]
+
+<sup>1</sup> The reporting duty under Article 3 paragraph 1 letters c and e in the version amended on 8 December 2022 must be met at the latest by 15 months after the Amendment comes into force.
+
+<sup>2</sup> The reporting offices must amend their regulations in accordance with Article 5 paragraph 5 and the technical specifications at the latest by 6 months after the Amendment comes into force and inform the reporting parties about this Amendment.
+
+[^50b-1]: Inserted by No I of the FINMA O of 8 Dec. 2022, in force since 1 Feb. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
 
 #### Art. 51
 
@@ -877,26 +891,20 @@ Annex 1[^t-1]
 
 ## Clearing of Derivatives Categories via a Central Counterparty
 
-[^t-1]: Amended by No 1 of the FINMA Ordinance of 3 May 2018, in force since 1 Sept. 2018 ([AS 2018 2387](https://fedlex.data.admin.ch/eli/oc/2018/343)).
+[^t-1]: Amended by No 1 of the FINMA O of 3 May 2018 ([AS 2018 2387](https://fedlex.data.admin.ch/eli/oc/2018/343)). Revised by No II of the FINMA O of 8 Dec. 2022, in force since 1 Feb. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
 
 ### I. OTC interest rate derivatives
 
 <table>
 <tr><th>Type</th><th>Reference interest rate</th><th>Settlement currency</th><th>Term</th><th>Type of settlement currency</th><th>Option</th><th>Type of nominal value</th></tr>
 <tr><td>1. Basis-Swap</td><td>EURIBOR</td><td>EUR</td><td>28D–50Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>2. Basis-Swap</td><td>LIBOR</td><td>GBP</td><td>28D–50Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>3. Basis-Swap</td><td>LIBOR</td><td>JPY</td><td>28D–30Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>4. Basis-Swap</td><td>LIBOR</td><td>USD</td><td>28D–50Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>5. Fixed-to-Float</td><td>EURIBOR</td><td>EUR</td><td>28D–50Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>6. Fixed-to-Float</td><td>LIBOR</td><td>GBP</td><td>28D–50Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>7. Fixed-to-Float</td><td>LIBOR</td><td>JPY</td><td>28D–30Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>8. Fixed-to-Float</td><td>LIBOR</td><td>USD</td><td>28D–50Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>9. Forward Rate Agreement</td><td>EURIBOR</td><td>EUR</td><td>3D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>10. Forward Rate Agreement</td><td>LIBOR</td><td>GBP</td><td>3D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>11. Forward Rate Agreement</td><td>LIBOR</td><td>USD</td><td>3D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>12. Overnight Index Swap</td><td>EONIA</td><td>EUR</td><td>7D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>13. Overnight Index Swap</td><td>FedFunds</td><td>USD</td><td>7D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
-<tr><td>14. Overnight Index Swap</td><td>SONIA</td><td>GBP</td><td>7D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
+<tr><td>2. Fixed-to-Float</td><td>EURIBOR</td><td>EUR</td><td>28D–50Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
+<tr><td>3. Forward Rate Agreement</td><td>EURIBOR</td><td>EUR</td><td>3D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
+<tr><td>4. Overnight Index Swap</td><td>FedFunds</td><td>USD</td><td>7D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
+<tr><td>5. Overnight Index Swap</td><td>€STR</td><td>EUR</td><td>7D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
+<tr><td>6. Overnight Index Swap</td><td>SONIA</td><td>GBP</td><td>7D–50Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
+<tr><td>7. Overnight Index Swap</td><td>SOFR</td><td>USD</td><td>7D–3Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
+<tr><td>8. Overnight Index Swap</td><td>TONA</td><td>JPY</td><td>7D–30Y</td><td>same currency</td><td>no</td><td>constant or variable</td></tr>
 </table>
 
 ### II. OTC credit derivatives
@@ -923,5 +931,5 @@ The following legislative instruments are amended as follows:
 
 ...[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[AS 2008 6521](https://fedlex.data.admin.ch/eli/oc/2008/889), [2011 6285](https://fedlex.data.admin.ch/eli/oc/2011/885), [2013 1117](https://fedlex.data.admin.ch/eli/oc/2013/252)]
+[^annex2-lvlu1-1]: [[AS 2008 6521](https://fedlex.data.admin.ch/eli/oc/2008/889); [2011 6285](https://fedlex.data.admin.ch/eli/oc/2011/885); [2013 1117](https://fedlex.data.admin.ch/eli/oc/2013/252)]
 [^annex2-lvlu1-2]: The amendments may be consulted under [AS 2015 5509](https://fedlex.data.admin.ch/eli/oc/2015/855).

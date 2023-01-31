@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Dezember 2015 der Eidgenössischen Finanzmarktaufsicht
 short: FinfraV-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/855"
 language: de
-version: 2021-11-26
+version: 2023-02-01
 adopted: 2015-12-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20211126/de/xml/fedlex-data-admin-ch-eli-cc-2015-855-20211126-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2015-855-20230201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/de"
 
 (Finanzmarktinfrastrukturverordnung-FINMA, FinfraV-FINMA)
 
-vom 3. Dezember 2015 (Stand am 26. November 2021)
+vom 3. Dezember 2015 (Stand am 1. Februar 2023)
 
 Die Eidgenössische Finanzmarktaufsicht (FINMA),
 
@@ -93,21 +93,24 @@ Die Meldung enthält folgende Angaben:
 
 - a.[^3-1] die Bezeichnung des meldepflichtigen Wertpapierhauses nach FINIG oder des an einem Handelsplatz zugelassenen Teilnehmers;
 - b. die Bezeichnung der Geschäftsart (Kauf/Verkauf);
-- c. die genaue Bezeichnung der umgesetzten Effekten oder Derivate;
+- c.[^3-2] die genaue Bezeichnung der umgesetzten Effekten oder Derivate; bei Derivaten zusätzlich die Bezeichnung der diesen zugrundeliegenden Basiswerte sowie weitere das Derivat bestimmende Merkmale, namentlich die Klassifizierung des Derivats;
 - d. den Umfang des Geschäfts, und zwar wie folgt: für Obligationen in Nominal, für übrige Effekten und Derivate in Stücken beziehungsweise Kontrakten;
-- e. den Kurs;
+- e.[^3-3] den Kurs der umgesetzten Effekten oder Derivate; bei Derivaten zusätzlich die weiteren wertbestimmenden Parameter, in Abhängigkeit von der Klassifizierung des Derivats namentlich die Angabe, ob es sich um eine Kauf- oder Verkaufsoption handelt, den Ausübungspreis, den Preismultiplikator und das Verfalls- beziehungsweise Ablaufdatum;
 - f. das Datum und die Zeit der Ausführung;
-- g. das Valutadatum;
+- g.[^3-4] …
 - h. die Angabe, ob es sich um ein Eigen- oder um ein Kundengeschäft handelt;
-- i. die Bezeichnung der Gegenpartei wie Börsenmitglied, anderes Wertpapierhaus[^3-2], Kunde oder Kundin; bei Auftragsweitergaben: die Bezeichnung des Auftragnehmers;
+- i. die Bezeichnung der Gegenpartei wie Börsenmitglied, anderes Wertpapierhaus[^3-5], Kunde oder Kundin; bei Auftragsweitergaben: die Bezeichnung des Auftragnehmers;
 - j. die Bezeichnung des Handelsplatzes, an dem die Effekte oder das Derivat gehandelt wurde, oder die Angabe, dass der Abschluss ausserhalb eines Handelsplatzes erfolgte;
 - k. bei Kundengeschäften: eine standardisierte Referenz, die die Identifizierung der am Geschäft wirtschaftlich berechtigten Person (Art. 37 Abs. 1 Bst. d FinfraV und Art. 31 Abs. 1 Bst. d BEHV) ermöglicht.
 
-<sup>2</sup> Bei Kundengeschäften enthält sie zusätzlich eine standardisierte Referenz, die die Identifizierung der am Geschäft wirtschaftlich berechtigten Person (Art. 37 Abs. 1 Bst. d FinfraV und Art. 75 Abs. 1 Bst. d FINIV) ermöglicht.[^3-3]
+<sup>2</sup> Bei Kundengeschäften enthält sie zusätzlich eine standardisierte Referenz, die die Identifizierung der am Geschäft wirtschaftlich berechtigten Person (Art. 37 Abs. 1 Bst. d FinfraV und Art. 75 Abs. 1 Bst. d FINIV) ermöglicht.[^3-6]
 
 [^3-1]: Fassung gemäss Anhang Ziff. 5 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^3-2]: Ausdruck gemäss Anhang Ziff. 5 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^3-3]: Eingefügt durch Anhang Ziff. 5 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3-2]: Fassung gemäss Ziff. I der V der FINMA vom 8. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-3]: Fassung gemäss Ziff. I der V der FINMA vom 8. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-4]: Aufgehoben durch Ziff. I der V der FINMA vom 8. Dez. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+[^3-5]: Ausdruck gemäss Anhang Ziff. 5 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^3-6]: Eingefügt durch Anhang Ziff. 5 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 #### Art. 4
 
@@ -297,7 +300,7 @@ Zu melden sind:
 
 - a. der Erwerb oder die Veräusserung von Wandel- und Erwerbsrechten, insbesondere Call-Optionen, sowie von Veräusserungsrechten, insbesondere Put-Optionen, die eine Realerfüllung vorsehen oder zulassen;
 - b. das Einräumen (Schreiben) von Wandel- und Erwerbsrechten, insbesondere Call-Optionen, sowie von Veräusserungsrechten, insbesondere Put-Optionen, die eine Realerfüllung vorsehen oder zulassen; und
-- c. Beteiligungsderivate, die einen Barausgleich vorsehen oder zulassen, sowie weitere Differenzgeschäfte wie *Contracts for Difference*, *Financial F**u**tures*.
+- c. Beteiligungsderivate, die einen Barausgleich vorsehen oder zulassen, sowie weitere Differenzgeschäfte wie *Contracts for Difference*, *Financial Futures*.
 
 <sup>3</sup> Die Ausübung oder Nichtausübung von nach den Absatz 2 gemeldeten Beteiligungsderivaten ist erneut zu melden, wenn dadurch einer der Grenzwerte nach Artikel 120 Absatz 1 FinfraG erreicht, über- oder unterschritten wird.
 
@@ -864,38 +867,42 @@ Die Meldepflicht nach Artikel 10 Absatz 2 FinfraV-FINMA in der Fassung der Ände
 
 [^50a-1]: Eingefügt durch Ziff. I der V der FINMA vom 26. Jan. 2017, in Kraft seit 1. März 2017 ([AS 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
 
+#### Art. 50b
+
+**Übergangsbestimmung zur Änderung vom 8. Dezember 2022**[^50b-1]
+
+<sup>1</sup> Die Meldepflicht nach Artikel 3 Absatz 1 Buchstaben c und e in der Fassung der Änderung vom 8. Dezember 2022 ist spätestens 15 Monate nach Inkrafttreten zu erfüllen.
+
+<sup>2</sup> Die Meldestellen passen ihre Reglemente nach Artikel 5 Absatz 5 und die technischen Spezifikationen spätestens 6 Monate nach Inkrafttreten entsprechend an und informieren die Meldepflichtigen über diese Anpassung.
+
+[^50b-1]: Eingefügt durch Ziff. I der V der FINMA vom 8. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
+
 #### Art. 51
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 6 Abs. 1)
 
 ## Über eine zentrale Gegenpartei abzurechnende Derivatekategorien
 
-[^t-1]: Fassung gemäss Ziff. 1 der V der FINMA vom 3. Mai 2018, in Kraft seit 1. Sept. 2018 ([AS 2018 2387](https://fedlex.data.admin.ch/eli/oc/2018/343)).
+[^t-1]: Fassung gemäss Ziff. 1 der V der FINMA vom 3. Mai 2018 ([AS 2018 2387](https://fedlex.data.admin.ch/eli/oc/2018/343)). Bereinigt gemäss Ziff. II der V der FINMA vom 8. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 845](https://fedlex.data.admin.ch/eli/oc/2022/845)).
 
 ### I. OTC-Zinsderivate
 
 <table>
 <tr><th>Art</th><th>Referenzzinssatz</th><th>Abwicklungs-währung</th><th>Laufzeit</th><th>Art der Abwicklungswährung</th><th>Option</th><th>Art des Nominalwerts</th></tr>
 <tr><td>1. Basis-Swap</td><td>EURIBOR</td><td>EUR</td><td>28T–50J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>2. Basis-Swap</td><td>LIBOR</td><td>GBP</td><td>28T–50J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>3. Basis-Swap</td><td>LIBOR</td><td>JPY</td><td>28T–30J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>4. Basis-Swap</td><td>LIBOR</td><td>USD</td><td>28T–50J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>5. Fixed-to-Float</td><td>EURIBOR</td><td>EUR</td><td>28T–50J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>6. Fixed-to-Float</td><td>LIBOR</td><td>GBP</td><td>28T–50J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>7. Fixed-to-Float</td><td>LIBOR</td><td>JPY</td><td>28T–30J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>8. Fixed-to-Float</td><td>LIBOR</td><td>USD</td><td>28T–50J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>9. Forward Rate Agreement</td><td>EURIBOR</td><td>EUR</td><td>3T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>10. Forward Rate Agreement</td><td>LIBOR</td><td>GBP</td><td>3T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>11. Forward Rate Agreement</td><td>LIBOR</td><td>USD</td><td>3T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>12. Overnight Index Swap</td><td>EONIA</td><td>EUR</td><td>7T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>13. Overnight Index Swap</td><td>FedFunds</td><td>USD</td><td>7T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
-<tr><td>14. Overnight Index Swap</td><td>SONIA</td><td>GBP</td><td>7T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
+<tr><td>2. Fixed-to-Float</td><td>EURIBOR</td><td>EUR</td><td>28T–50J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
+<tr><td>3. Forward Rate Agreement</td><td>EURIBOR</td><td>EUR</td><td>3T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
+<tr><td>4. Overnight Index Swap</td><td>FedFunds</td><td>USD</td><td>7T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
+<tr><td>5. Overnight Index Swap</td><td>€STR</td><td>EUR</td><td>7T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
+<tr><td>6. Overnight Index Swap</td><td>SONIA</td><td>GBP</td><td>7T–50J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
+<tr><td>7. Overnight Index Swap</td><td>SOFR</td><td>USD</td><td>7T–3J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
+<tr><td>8. Overnight Index Swap</td><td>TONA</td><td>JPY</td><td>7T–30J</td><td>dieselbe Währung</td><td>nein</td><td>konstant oder variabel</td></tr>
 </table>
 
 ### II. OTC-Kreditderivate
@@ -920,7 +927,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex2-lvlu1-2]
+…[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[AS 2008 6521](https://fedlex.data.admin.ch/eli/oc/2008/889); [2011 6285](https://fedlex.data.admin.ch/eli/oc/2011/885); [2013 1117](https://fedlex.data.admin.ch/eli/oc/2013/252)]
 [^annex2-lvlu1-2]: Die Änderungen können unter [AS 2015 5509](https://fedlex.data.admin.ch/eli/oc/2015/855)konsultiert werden.
