@@ -4,13 +4,12 @@ number: "122.70.1"
 title: Gesetz über das Staatspersonal
 short: StPG
 language: de
-version: 2022-01-01
-valid_until: 2023-01-31
-version_adopted: 2021-06-22
+version: 2023-02-01
+version_adopted: 2023-01-17
 adopted: 2001-10-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7467/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Staatspersonal – G
 
 (StPG)
 
-vom 17.10.2001 (Fassung in Kraft getreten am 01.01.2022)
+vom 17.10.2001 (Fassung in Kraft getreten am 01.02.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -216,7 +215,7 @@ beschliesst:
 
 <sup>2</sup> Die Bewertungskriterien werden aus den Anforderungen im intellektuellen, psychosozialen und physischen Bereich und aus der Verantwortung der Funktion abgeleitet.
 
-<sup>3</sup> Der Staatsrat erlässt mit Weisungen den Funktionsbeschrieb und das Funktionsbewertungssystem. Er reiht die Funktionen in Gehaltsklassen ein. Die Einreihung wird in einem Staatsratsbeschluss veröffentlicht.
+<sup>3</sup> Der Staatsrat erlässt mit Weisungen den Funktionsbeschrieb und das Funktionsbewertungssystem. Er reiht die Funktionen in Gehaltsklassen ein. Die Einreihung wird in einer Verordnung veröffentlicht.
 
 #### Art. 18
 
@@ -1336,7 +1335,7 @@ beschliesst:
 
 **Personal- und Sozialberatung**
 
-<sup>1</sup> Die Personal- und Sozialberatung des Staates Freiburg bearbeitet in Papierform oder in einem Informationssystem Daten, die sich auf Personen beziehen, die diese Beratungsdienste in Anspruch nehmen, und die sie für die Erfüllung ihrer Aufgaben benötigt, namentlich:
+<sup>1</sup> Die Personal- und Sozialberatung des Staates Freiburg[^127b-1] bearbeitet in Papierform oder in einem Informationssystem Daten, die sich auf Personen beziehen, die diese Beratungsdienste in Anspruch nehmen, und die sie für die Erfüllung ihrer Aufgaben benötigt, namentlich:
 
 - a) zu Beeinträchtigungen der körperlichen oder psychischen Gesundheit;
 - b) zu psychosozialen Risiken am Arbeitsplatz;
@@ -1365,6 +1364,8 @@ beschliesst:
 <sup>7</sup> Wenn es in einer gesetzlichen Grundlage vorgeshen ist, können unbedingt erforderliche Daten ohne ausdrückliche Zustimmung der betroffenen Personen Dritten bekanntgegeben werden.
 
 <sup>8</sup> Darüber hinaus werden die Einzelheiten in den Ausführungsbestimmungen geregelt.
+
+[^127b-1]: Die Sozial- und Personalberatung des Staates Freiburg wird in der Ausführungsverordnung als «Beratungsstelle Espace Gesundheit-Soziales (CESS)» bezeichnet (vgl. Art. 1 der Verordnung vom 18. Dezember 2018 über die Beratungsstelle Gesundheit-Soziales (SGF [122.70.15](https://bdlf.fr.ch/data/122.70.15/de))).
 
 #### Art. 127c
 

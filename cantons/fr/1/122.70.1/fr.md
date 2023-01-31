@@ -4,13 +4,12 @@ number: "122.70.1"
 title: "Loi sur le personnel de l'Etat"
 short: LPers
 language: fr
-version: 2022-01-01
-valid_until: 2023-01-31
-version_adopted: 2021-06-22
+version: 2023-02-01
+version_adopted: 2023-01-17
 adopted: 2001-10-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7467/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8361/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Personnel de l'Etat – L
 
 (LPers)
 
-du 17.10.2001 (version entrée en vigueur le 01.01.2022)
+du 17.10.2001 (version entrée en vigueur le 01.02.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -216,7 +215,7 @@ Décrète:
 
 <sup>2</sup> Les critères d'évaluation sont liés aux exigences intellectuelles, psychosociales, physiques et de responsabilité de la fonction.
 
-<sup>3</sup> Le Conseil d'Etat adopte par voie de directives la description des fonctions et le système d'évaluation des fonctions. Il procède à la classification salariale des fonctions et la publie par voie d'arrêté.
+<sup>3</sup> Le Conseil d'Etat adopte par voie de directives la description des fonctions et le système d'évaluation des fonctions. Il procède à la classification salariale des fonctions et la publie par voie d'ordonnance.
 
 #### Art. 18
 
@@ -1336,7 +1335,7 @@ Décrète:
 
 **Consultation sociale et de conseil du personnel**
 
-<sup>1</sup> La Consultation sociale et de conseil du personnel de l'Etat de Fribourg traite, sur papier ou dans un système d'information, les données qui concernent les personnes faisant appel à ses services et dont elle a besoin pour exécuter ses tâches, notamment:
+<sup>1</sup> La Consultation sociale et de conseil du personnel de l'Etat de Fribourg[^127b-1] traite, sur papier ou dans un système d'information, les données qui concernent les personnes faisant appel à ses services et dont elle a besoin pour exécuter ses tâches, notamment:
 
 - a) les atteintes à la santé physique ou psychique;
 - b) les risques psychosociaux au travail;
@@ -1365,6 +1364,8 @@ Décrète:
 <sup>7</sup> Si une base légale le prévoit, les données strictement nécessaires peuvent être communiquées à des tiers sans l'accord explicite de la personne ou des personnes.
 
 <sup>8</sup> Au surplus, les dispositions d'exécution règlent les modalités.
+
+[^127b-1]: La Consultation sociale et de conseil du personnel de l'Etat de Fribourg s'intitule «Consultation Espace santé-social» dans l'ordonnance d'exécution (cf. art. 1 de l'ordonnance du 18 décembre 2018 sur la Consultation Espace santé-social (RSF [122.70.15](https://bdlf.fr.ch/data/122.70.15/fr))).
 
 #### Art. 127c
 
