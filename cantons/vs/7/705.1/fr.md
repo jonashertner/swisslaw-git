@@ -4,13 +4,13 @@ number: "705.1"
 title: Loi sur les constructions
 short: LC
 language: fr
-version: 2022-01-01
-valid_until: 2023-01-31
-version_adopted: 2016-12-15
+version: 2023-02-01
+valid_until: 2024-12-30
+version_adopted: 2022-09-15
 adopted: 2025-02-13
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/705.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3365/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3366/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3365/pdf_file"
 
 (LC)
 
-du 15.12.2016 (état 01.01.2022)
+du 15.12.2016 (état 01.02.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -72,21 +72,59 @@ ordonne:[^ingress-1]
 
 #### Art. 2a
 
-**Plateforme informatique**
+**Plateforme numérique**
 
-<sup>1</sup> Le canton met à disposition une plateforme informatique (ci-après: plateforme) permettant le dépôt et la gestion des dossiers de construction.
+<sup>1</sup> Le canton met à disposition une plateforme numérique cantonale eConstruction (ci-après: plateforme) permettant l’introduction et la gestion de tous les actes de procédure (notamment les demandes d’autorisations de construire, les annonces, les rappels, les sommations, les notifications) prévus par la présente loi et son ordonnance, à l’exception des procédures de surveillance.
 
-<sup>2</sup> La CCC et les communes utilisent la plateforme pour la gestion des dossiers de construction. Les communes peuvent renoncer à imposer l’utilisation de celle-ci pour les dossiers relevant de leur compétence.
+<sup>2</sup> Les communes, pour les dossiers relevant de leur compétence, et les administrés, lorsque l’utilisation de la plateforme est offerte par l’autorité compétente, peuvent renoncer à l’utilisation de la plateforme. Les communes doivent publier leur décision de renoncer à l’utilisation de la plateforme au Bulletin officiel. A défaut, elles sont tenues d’offrir la possibilité d’utiliser la plateforme aux administrés.
 
-<sup>3</sup> Les accès aux dossiers sont déterminés par l’autorité compétente au sens de l’article 2 LC.
+<sup>3</sup> Les droits d’accès des autorités administratives devant se prononcer sur les dossiers déposés sur la plateforme sont déterminés par l’autorité compétente au sens de l’article 2 de la présente loi.
 
-<sup>4</sup> La validation des documents déposés sur la plateforme remplace la signature individuelle. La plateforme assure l’intégrité et l’horodatage de chaque document et certifie l’identité de la personne l’ayant déposé ou validé.
+<sup>4</sup> A défaut d’exception prévue par la présente loi ou son ordonnance, la validation des documents déposés sur la plateforme fait office de signature manuscrite. Pour chaque communication et document, la plateforme assure que le contenu n’est pas modifié (intégrité) et que les données numériques déterminées existent à un moment précis (horodatage).
 
-<sup>5</sup> Le Conseil d’Etat édicte un règlement d’accès et d’utilisation de la plateforme.
+<sup>4<sup>bis</sup></sup> Une identité numérique vérifiée est obligatoire pour procéder à la validation.
 
-<sup>6</sup> Les systèmes utilisés par les communes, les unités administratives ou les tiers permettant le dépôt de documents sur la plateforme doivent être conformes aux exigences techniques et sécuritaires fixées par le règlement.
+<sup>5</sup> Le Conseil d’Etat édicte un règlement d’accès et d’utilisation de la plateforme numérique cantonale eConstruction (ci-après: ReC).
+
+<sup>6</sup> Les systèmes permettant la validation de documents sur la plateforme que les autorités administratives utilisent doivent être conformes aux exigences techniques et sécuritaires fixées par le ReC.
 
 <sup>7</sup> Les dispositions en matière de protection des données sont expressément réservées.
+
+#### Art. 2b
+
+**Engagement et poursuite de la procédure**
+
+<sup>1</sup> Lorsque l’utilisation de la plateforme est offerte par l’autorité compétente, les procédures relatives au droit des constructions sont engagées et se déroulent au format numérique ou au format papier, selon le choix des administrés opéré pour chaque procédure individuellement. Une fois le choix effectué, la procédure et toutes les communications qui lui sont liées se font conformément à ce choix, jusqu’à l’archivage du dossier. A titre exceptionnel, l’autorité peut accorder un changement du format choisi sur demande dûment motivée.
+
+<sup>2</sup> L’administré qui choisit le format numérique doit s’attendre à tout moment à ce qu’une communication lui soit notifiée sur la plateforme. Une communication peut contenir un lien que l’administré est tenu de consulter. L'autorité compétente n'est en aucun cas responsable des conséquences découlant d’une consultation irrégulière ou tardive de la plateforme, des communications qui y sont notifiées et des liens que celles-ci contiennent. Il en va de même de l’absence de consultation de la plateforme, des communications qui y sont notifiées et des liens que celles-ci contiennent.
+
+<sup>3</sup> Le choix du format numérique impose à l’administré l’obligation de consulter la plateforme de manière à prendre connaissance des communications qui y sont notifiées par l'autorité compétente d’une part et à consulter les éventuels liens que ces communications contiennent d’autre part, en temps utile.
+
+<sup>4</sup> Les dossiers traités au format papier sont numérisés et archivés par l’autorité compétente.
+
+#### Art. 2c
+
+**Communication, computation des délais, horodatage et défaut de signature électronique qualifiée sur la plateforme**
+
+<sup>1</sup> Toute communication numérique d'une autorité est opérée par le dépôt, sur la plateforme, d’un message à l’attention de l’administré. La consultation de ce message par l’administré vaut notification dudit message ainsi que consultation des éventuels liens qu’il contient. A défaut de consultation de ce message, celui-ci, de même que les éventuels liens qu’il contient, sont réputés notifiés et consultés au plus tard 7 jours après le dépôt du message.
+
+<sup>2</sup> Toute communication numérique d'une autorité, de même que toute consultation d’un message, fait l’objet d’un horodatage permettant de déterminer le moment exact du dépôt ainsi que de la consultation d’un message à l’attention de l’administré sur la plateforme.
+
+<sup>3</sup> Toute communication numérique des administrés fait l’objet d’un horodatage permettant de déterminer le moment exact auquel elle est opérée.
+
+<sup>4</sup> L’horodatage permet notamment de vérifier que les délais impartis aux administrés ont été observés.
+
+<sup>5</sup> Si la signature électronique qualifiée requise fait défaut, l’autorité impartit un délai à l’administré pour corriger ce vice. Si la correction du vice est faite dans le délai imparti, celui-ci est réputé réparé. A défaut, le document pour lequel la signature électronique qualifiée est requise est irrecevable, de même que ses éventuelles annexes.
+
+#### Art. 2d
+
+**Notification des décisions**
+
+<sup>1</sup> L’autorité compétente notifie ses décisions par le biais de la plateforme pour autant que l'administré ait expressément accepté cette forme de communication. L’acceptation expresse se fait via l’insertion, par l’administré, d’une coche au lieu indiqué sur la plateforme.
+
+<sup>2</sup> Les décisions sont munies d’une signature électronique qualifiée conformément à la législation fédérale sur la signature électronique.
+
+<sup>3</sup> Les autres modalités relatives à la notification sont réglées dans l’ordonnance.
 
 ## 2 Règles de construction
 
@@ -475,15 +513,15 @@ ordonne:[^ingress-1]
 
 **Demande**
 
-<sup>1</sup> Le requérant engage la procédure par le dépôt d’une demande d’autorisation de construire sur la plateforme. Les dossiers déposés sous forme papier sont digitalisés par l’autorité compétente.
+<sup>1</sup> Le requérant engage la procédure par le dépôt d’une demande d’autorisation de construire auprès de l’autorité compétente.
 
-<sup>1<sup>bis</sup></sup> Les demandes relevant de la compétence du conseil municipal d’une commune ayant renoncé à l’utilisation de la plateforme sont déposées sous forme papier auprès de celle-ci.
+<sup>1<sup>bis</sup></sup> Les demandes relevant de la compétence du conseil municipal d’une commune ayant renoncé à l’utilisation de la plateforme sont déposées au format papier auprès de celle-ci.
 
 <sup>2</sup> La demande doit contenir toutes les indications et tous les documents nécessaires à son examen ainsi qu'à l'examen des autres demandes d'autorisations nécessaires.
 
 <sup>3</sup> Lorsque le projet nécessite des dérogations, la demande motivée de dérogation doit être annexée à la demande d'autorisation de construire.
 
-<sup>4</sup> La demande est signée ou validée par le requérant, le propriétaire et l'auteur des plans. En présence de plusieurs propriétaires, les règles de consentement sont notamment régies par le droit civil.
+<sup>4</sup> La demande est signée manuscritement (format papier) ou validée (format numérique) par l’auteur des plans, le propriétaire du fonds et le requérant ou son mandataire. En présence de plusieurs propriétaires, les règles de consentement sont notamment régies par le droit civil.
 
 <sup>5</sup> La demande est également valable pour les autres autorisations que nécessite le projet.
 
@@ -491,9 +529,9 @@ ordonne:[^ingress-1]
 
 **Consultation des organes cantonaux par les communes**
 
-<sup>1</sup> Après avoir examiné la conformité du projet aux dispositions du droit des constructions dont l’application lui incombe, la commune peut transmettre le dossier au SeCC afin que ce dernier consulte les organes cantonaux concernés. La transmission du dossier est faite par le biais de la plateforme.
+<sup>1</sup> Après avoir examiné la conformité du projet à celles des dispositions de la présente loi et de son ordonnance dont l’application lui incombe, la commune peut transmettre le dossier complet (y compris les documents spéciaux) au SeCC afin que ce dernier consulte les organes cantonaux concernés. Quel que soit le format applicable, la transmission du dossier aux organes cantonaux concernés est faite sur la plateforme.
 
-<sup>2</sup> Les demandes d'autorisation de construire qui, en raison de prescriptions légales, nécessitent obligatoirement la consultation d'un service cantonal spécialisé, doivent être transmises au SeCC par le biais de la plateforme. Le SeCC consulte ensuite uniquement les organes cantonaux devant obligatoirement être consultés. La commune est libre de solliciter d'autres préavis des services cantonaux.
+<sup>2</sup> Les demandes d'autorisation de construire qui, en raison de prescriptions légales, nécessitent obligatoirement la consultation d'un service cantonal spécialisé doivent être transmises au SeCC sur la plateforme, quel que soit le format applicable à la procédure. Le SeCC consulte ensuite uniquement les organes cantonaux devant obligatoirement être consultés. La commune est libre de solliciter d'autres préavis de services cantonaux.
 
 <sup>3</sup> Les préavis motivés des organes cantonaux qui répondent à l’application impérative d’une législation spéciale doivent préciser les dispositions légales sur lesquelles ils se fondent.
 
@@ -552,6 +590,8 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> La demande d'autorisation, les plans et les pièces annexes peuvent être consultés auprès de l'autorité compétente par toute personne intéressée, dans le délai d'opposition. Les dossiers de compétence de la CCC sont également consultables auprès de l'administration communale.
 
+<sup>2</sup> Lorsque le format numérique est applicable, la consultation est faite par les intéressés au moyen du code du dossier publié lors de la mise à l’enquête publique.
+
 ### 3.3.3 Opposition
 
 #### Art. 45
@@ -575,9 +615,17 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Le délai d'opposition est de 30 jours à partir de la date de la publication dans le Bulletin officiel.
 
-<sup>2</sup> Les oppositions doivent être formulées par écrit auprès de l’autorité compétente mentionnée dans la publication officielle. Pour les projets relevant de la compétence d’une autorité utilisant la plateforme, les oppositions peuvent être formulées par écrit ou déposées sur la plateforme. Les oppositions doivent être motivées en particulier quant à la qualité pour faire opposition.
+<sup>2</sup> Les oppositions doivent être formulées par écrit, au format numérique ou au format papier, auprès de l’autorité compétente mentionnée dans la publication officielle.
 
-<sup>3</sup> Un représentant est désigné pour les oppositions collectives; à défaut, le premier des signataires est considéré comme représentant.
+<sup>2<sup>bis</sup></sup> Pour les projets engagés par le requérant sur la plateforme, les oppositions doivent être munies d’une signature manuscrite si le format papier est choisi par l’opposant et d’une signature électronique qualifiée si le format numérique est choisi par l’opposant. Une fois le choix de format opéré par l’opposant, l’opposition et toutes les notifications, avis et autres communications qui lui sont liés se font, en ce qui le concerne, conformément à ce choix, ce jusqu’à l’archivage du dossier. A titre exceptionnel, l’autorité peut accorder un changement du format choisi sur demande dûment motivée.
+
+<sup>2<sup>ter</sup></sup> Pour les projets engagés par le requérant au format papier, l’opposition est impérativement déposée au format papier.
+
+<sup>2<sup>quater</sup></sup> Les oppositions sont motivées en particulier quant à la qualité pour faire opposition.
+
+<sup>2<sup>quinquies</sup></sup> Dans le cas où le format numérique est applicable et que l’opposition est formulée au format papier, l’autorité compétente la numérise et la dépose sur la plateforme. Il en va de même de tous les autres documents transmis au format papier à l’autorité compétente.
+
+<sup>3</sup> Un représentant est désigné pour les oppositions collectives; à défaut, le premier des signataires est considéré comme représentant si le format papier est applicable et l’auteur de la première validation est considéré comme représentant si le format numérique est applicable.
 
 #### Art. 48
 
@@ -607,7 +655,7 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Pour des constructions et installations liées à une activité spécifique et dont la suppression est justifiée à la fin d'une telle activité, notamment pour des constructions agricoles ou des constructions artisanales ou industrielles particulières, l'autorité compétente peut exiger, dans l'autorisation de construire, la suppression des constructions au terme de l'activité; afin de garantir la suppression des constructions, l'autorité compétente peut, préalablement à la délivrance de l'autorisation, exiger du requérant de fournir les assurances nécessaires, sous forme de garantie ou de gages immobiliers.
 
-<sup>4</sup> Les autres autorisations nécessaires doivent être notifiées aux intéressés en même temps que la décision relative à l'autorisation de construire dans la mesure où aucune disposition de la législation spéciale ne s'y oppose.
+<sup>4</sup> Les autres autorisations nécessaires doivent être notifiées aux intéressés par l’autorité de la procédure décisive en même temps que la décision relative à l'autorisation de construire, dans la mesure où aucune disposition de la législation spéciale ne s'y oppose, ce conformément au format applicable à la procédure d’autorisation de construire. Les autorisations spéciales cantonales font partie intégrante de la décision relative à l’autorisation de construire de la CCC.
 
 <sup>5</sup> Les communes rendent leur décision dans un délai de huit semaines dès la fin de la mise à l'enquête ou, le cas échéant, à partir du moment où celles-ci disposent d'un dossier complet.
 
@@ -739,6 +787,16 @@ ordonne:[^ingress-1]
 
 <sup>4</sup> Si une autorité de police des constructions néglige ses devoirs, le Conseil d'Etat prend les mesures nécessaires à sa place. La commune répond envers l'Etat des frais découlant de cette intervention.
 
+#### Art. 60a
+
+**Engagement et déroulement de la procédure de police**
+
+<sup>1</sup> Les autorités de police des constructions adressent leur première correspondance au format papier au perturbateur. Dans le cas où l’utilisation de la plateforme est offerte, les autorités de police des constructions impartissent un délai au perturbateur pour indiquer s’il choisit que la procédure soit menée au format papier ou au format numérique. A défaut de réponse du perturbateur dans le délai imparti, le format papier est applicable.
+
+<sup>2</sup> Une fois le format applicable à la procédure déterminé, celle-ci se poursuit conformément à ce format jusqu’à l’archivage du dossier. A titre exceptionnel, l’autorité peut accorder un changement du format choisi sur demande dûment motivée.
+
+<sup>3</sup> Pour le surplus, les dispositions applicables en matière d’autorisation de construire prévues par la présente loi et son ordonnance s’appliquent, par analogie, aux procédures de police des constructions, sauf disposition contraire de la présente loi ou de son ordonnance.
+
 ## 5 Dispositions pénales
 
 #### Art. 61
@@ -845,5 +903,13 @@ ordonne:[^ingress-1]
 <sup>1</sup> L’échéancier d’initialisation de la plateforme est défini par le Conseil d’Etat. Le Conseil d’Etat constate pour chaque commune et pour le SeCC que la plateforme fonctionne de manière adéquate.
 
 <sup>2</sup> Durant les 6 mois suivant la constatation par le Conseil d’Etat du fonctionnement adéquat de la plateforme dans une commune ou au SeCC, les dossiers déposés sous forme papier sont digitalisés et déposés sans frais sur la plateforme par l’autorité compétente.
+
+## T3 Disposition transitoire de la modification du 15 septembre 2022
+
+#### Art. T3-1
+
+<sup>1</sup> La présente loi s’applique dès son entrée en vigueur, y compris aux procédures pendantes qu’elle réglemente.
+
+<sup>2</sup> Les procédures mentionnées à l’article 2a de la présente loi sont implémentées et rendues accessibles au public sur la plateforme d’ici au 31 décembre 2024. L’implémentation d’une procédure sur la plateforme et son accessibilité au public font l’objet d’une communication au Bulletin officiel par le département en charge des constructions.
 
 RCV BO/Abl. 1/2017, 31/2017

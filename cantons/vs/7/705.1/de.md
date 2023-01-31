@@ -4,13 +4,13 @@ number: "705.1"
 title: Baugesetz
 short: BauG
 language: de
-version: 2022-01-01
-valid_until: 2023-01-31
-version_adopted: 2016-12-15
+version: 2023-02-01
+valid_until: 2024-12-30
+version_adopted: 2022-09-15
 adopted: 2025-02-13
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/705.1"
-pdf: "https://lex.vs.ch/api/de/versions/3365/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3365/pdf_file"
 
 (BauG)
 
-vom 15.12.2016 (Stand 01.01.2022)
+vom 15.12.2016 (Stand 01.02.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -72,21 +72,59 @@ verordnet:[^ingress-1]
 
 #### Art. 2a
 
-**Informatikplattform**
+**Digitale Plattform**
 
-<sup>1</sup> Der Kanton stellt eine Informatikplattform (nachstehend: Plattform) zur Verfügung, welche die Eingabe und die Verwaltung von Baudossiers erlaubt.
+<sup>1</sup> Der Kanton stellt eine kantonale digitale Plattform, eConstruction (nachstehend: Plattform), zur Verfügung, welche die Einleitung und Verwaltung aller Verfahrenshandlungen (namentlich Baugesuche, Anzeigen, Ermahnungen, Aufforderungen, Benachrichtigungen) ermöglicht, die im vorliegenden Gesetz und seiner Verordnung vorgesehen sind, mit Ausnahme der Aufsichtsverfahren.
 
-<sup>2</sup> Die KBK und die Gemeinden benützen die Plattform für die Verwaltung von Baudossiers. Für Dossiers in ihrer Zuständigkeit können die Gemeinden auf die zwingende Benutzung der Plattform verzichten.
+<sup>2</sup> Für die Dossiers in ihrer Zuständigkeit kann eine Gemeinde auf die Benutzung der Plattform verzichten, ebenso ein Beteiligter, dem die Benutzung der Plattform von der zuständigen Behörde angeboten wird. Die Gemeinden müssen ihren Entscheid, auf die Benutzung der Plattform zu verzichten, im Amtsblatt veröffentlichen. Andernfalls müssen sie den Beteiligten die Möglichkeit bieten, die Plattform zu nutzen.
 
-<sup>3</sup> Über den Zugang zu den Dossiers bestimmen die gemäss Artikel 2 BauG zuständigen Behörden.
+<sup>3</sup> Über die Zugangsberechtigungen der Verwaltungsbehörden, die sich zu den auf der Plattform eingereichten Dossiers äussern müssen, bestimmen die gemäss Artikel 2 des vorliegenden Gesetzes zuständigen Behörden.
 
-<sup>4</sup> Die Validierung der auf der Plattform eingegebenen Unterlagen ersetzt die persönliche Unterschrift. Die Plattform gewährleistet die Integrität und den Zeitstempel der einzelnen Dokumente und bescheinigt die Identität der Person, die es eingereicht oder validiert hat.
+<sup>4</sup> Abgesehen von Ausnahmen gemäss vorliegendem Gesetz oder dessen Verordnung gilt die Validierung der auf der Plattform eingereichten Dokumente als eigenhändige Unterschrift. Die Plattform stellt für jede Kommunikation und jedes Dokument sicher, dass der Inhalt nicht verändert wird (Authentizität) und dass die Hinterlegung der digitalen Daten einem bestimmten Zeitpunkt zugeordnet werden kann (Zeitstempel).
 
-<sup>5</sup> Der Staatsrat erlässt ein Reglement betreffend Zugang zur Plattform und deren Benutzung.
+<sup>4<sup>bis</sup></sup> Um die Validierung vorzunehmen, ist eine verifizierte digitale Identität erforderlich.
 
-<sup>6</sup> Die Systeme, die von den Gemeinden, den Verwaltungseinheiten oder Dritten verwendet werden und eine Dokumenteneingabe auf der Plattform ermöglichen, haben den im Reglement hinsichtlich Technik und Sicherheit festgesetzten Anforderungen zu entsprechen.
+<sup>5</sup> Der Staatsrat erlässt ein Reglement für Zugang und Benutzung der kantonalen digitalen Plattform eConstruction (nachstehend: ReC).
+
+<sup>6</sup> Die von den Verwaltungsbehörden zur Validierung von Dokumenten auf der Plattform verwendeten Systeme müssen den im ReC hinsichtlich Technik und Sicherheit festgesetzten Anforderungen entsprechen.
 
 <sup>7</sup> Die Datenschutzbestimmungen bleiben ausdrücklich vorbehalten.
+
+#### Art. 2b
+
+**Einleitung und Ablauf des Verfahrens**
+
+<sup>1</sup> Wird die Benutzung der Plattform von der zuständigen Behörde angeboten, hat der Beteiligte für jedes einzelne baurechtliche Verfahren die Wahl, ob es im digitalen Format oder im Papierformat eingeleitet und geführt werden soll. Hat er seine Wahl getroffen, erfolgen das Verfahren und alle damit verbundenen Mitteilungen, bis hin zur Archivierung des Dossiers, im gewählten Format. In Ausnahmefällen kann die Behörde auf begründetes Gesuch hin einer Änderung des Formats zustimmen.
+
+<sup>2</sup> Der Beteiligte, der das digitale Format gewählt hat, muss jederzeit damit rechnen, dass ihm auf der Plattform eine Mitteilung zugestellt wird. Eine Mitteilung kann einen Link enthalten, den der Beteiligte abrufen muss. Die zuständige Behörde ist in keiner Weise für die Folgen verantwortlich, die sich aus einer unregelmässigen oder verspäteten Konsultation der Plattform und der dort kommunizierten Mitteilungen und Links ergeben. Dasselbe gilt, wenn die Plattform und die dort kommunizierten Mitteilungen und Links nicht konsultiert werden.
+
+<sup>3</sup> Mit der Wahl des digitalen Formats verpflichtet sich der Beteiligte, die Plattform auf eine Weise zu konsultieren, dass er einerseits die darauf von der zuständigen Behörde eingegebenen Mitteilungen zur Kenntnis nehmen und andererseits allfällige Links in diesen Mitteilungen rechtzeitig abrufen kann.
+
+<sup>4</sup> Im Papierformat behandelte Dossiers werden von der zuständigen Behörde digitalisiert und archiviert.
+
+#### Art. 2c
+
+**Kommunikation, Fristenberechnung, Zeitstempel und Fehlen der qualifizierten elektronischen Signatur auf der Plattform**
+
+<sup>1</sup> Jede digitale Kommunikation einer Behörde erfolgt durch die Hinterlegung einer Nachricht an den Beteiligten auf der Plattform. Der Abruf dieser Nachricht durch den Beteiligten gilt als Zustellzeitpunkt der Nachricht und der darin enthaltenen Links. Wird die Nachricht nicht abgerufen, so gelten sie und die darin enthaltenen Links spätestens 7 Tage nach ihrer Hinterlegung auf der Plattform als zugestellt und abgerufen.
+
+<sup>2</sup> Jede digitale Kommunikation einer Behörde sowie jeder Abruf der Nachricht auf der Plattform erhalten einen Zeitstempel, mit dem sich der genaue Zeitpunkt der Hinterlegung einer Nachricht an den Beteiligten sowie der Zeitpunkt des Abrufs einer Nachricht auf der Plattform bestimmen lassen.
+
+<sup>3</sup> Jede digitale Kommunikation eines Beteiligten erhält einen Zeitstempel, mit dem sich der genaue Zeitpunkt der Kommunikation bestimmen lässt.
+
+<sup>4</sup> Mit dem Zeitstempel kann insbesondere überprüft werden, ob die dem Beteiligten gesetzten Fristen eingehalten wurden.
+
+<sup>5</sup> Fehlt die erforderliche qualifizierte elektronische Signatur, so setzt die Behörde dem Beteiligten eine Frist, um diesen Mangel zu beheben. Wird die fehlende Signatur fristgerecht nachgereicht, gilt der Mangel als behoben. Andernfalls sind das Dokument, für das die qualifizierte elektronische Signatur erforderlich ist, sowie dessen allfällige Beilagen unzulässig.
+
+#### Art. 2d
+
+**Eröffnung der Entscheide**
+
+<sup>1</sup> Die zuständige Behörde eröffnet ihre Entscheide über die Plattform, sofern der Beteiligte dieser Form der Kommunikation ausdrücklich zugestimmt hat. Die ausdrückliche Zustimmung erfolgt, indem der Beteiligte an der auf der Plattform angegebenen Stelle ein Häkchen setzt.
+
+<sup>2</sup> Die Entscheide sind in Übereinstimmung mit der Bundesgesetzgebung über die elektronische Signatur mit einer qualifizierten elektronischen Signatur versehen.
+
+<sup>3</sup> Die weiteren Modalitäten der Eröffnung sind in der Verordnung geregelt.
 
 ## 2 Bauvorschriften
 
@@ -475,7 +513,7 @@ verordnet:[^ingress-1]
 
 **Baugesuch**
 
-<sup>1</sup> Der Gesuchsteller leitet das Verfahren mit der Einreichung des Baugesuchs auf der Plattform ein. In Papierform eingereichte Dossiers werden von der zuständigen Behörde digitalisiert.
+<sup>1</sup> Der Gesuchsteller leitet das Verfahren mit der Einreichung des Baugesuchs bei der zuständigen Behörde ein.
 
 <sup>1<sup>bis</sup></sup> Baugesuche in Zuständigkeit des Gemeinderats einer Gemeinde, die auf die Benutzung der Plattform verzichtet, sind dieser in Papierform einzureichen.
 
@@ -483,7 +521,7 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Erfordert das Bauvorhaben Ausnahmen, so ist dem Baugesuch das begründete Ausnahmegesuch beizufügen.
 
-<sup>4</sup> Das Baugesuch ist vom Gesuchsteller, vom Grundeigentümer und vom Projektverfasser zu unterzeichnen oder zu validieren. Bei Vorhandensein mehrerer Eigentümer gelten für die Zustimmung insbesondere die Regeln des Zivilrechts.
+<sup>4</sup> Das Baugesuch wird vom Planverfasser, vom Grundeigentümer und vom Gesuchsteller oder dessen Vertreter eigenhändig unterschrieben (Papierformat) oder validiert (digitales Format). Bei Vorhandensein mehrerer Eigentümer gelten für die Zustimmung insbesondere die Regeln des Zivilrechts.
 
 <sup>5</sup> Das Baugesuch gilt zugleich als Gesuch für die weiteren Bewilligungen, die für das Bauvorhaben erforderlich sind.
 
@@ -491,9 +529,9 @@ verordnet:[^ingress-1]
 
 **Anhörung der kantonalen Organe durch die Gemeinden**
 
-<sup>1</sup> Entspricht das Bauvorhaben den Bauvorschriften, deren Anwendung der Gemeinde obliegt, so kann diese das Gesuch dem KBS übermitteln, welches das Bauvorhaben den zuständigen kantonalen Dienststellen zur Vormeinung unterbreitet. Die Übermittlung des Dossiers erfolgt über die Plattform.
+<sup>1</sup> Nachdem die Gemeinde die Konformität des Bauvorhabens mit den Bestimmungen des vorliegenden Gesetzes und seiner Verordnung, für deren Anwendung ​sie verantwortlich ist, geprüft hat, kann sie das vollständige Dossier (einschliesslich der besonderen Unterlagen) an das KBS weiterleiten, damit dieses das Bauvorhaben den ​betroffenen kantonalen Dienststellen unterbreitet. Unabhängig vom gewählten Format erfolgt die Weiterleitung des Dossiers an die zuständigen kantonalen Stellen über die Plattform.
 
-<sup>2</sup> Baugesuche für Projekte, die aufgrund gesetzlicher Vorschriften zwingend der Anhörung einer kantonalen Fachdienststelle bedürfen, sind dem KBS über die Plattform zu überweisen. Daraufhin konsultiert das KBS ausschliesslich die zwingend anzuhörenden kantonalen Organe. Der Gemeinde steht es frei, weitere Vormeinungen der kantonalen Dienststellen einzuverlangen.
+<sup>2</sup> Baugesuche für Vorhaben, die aufgrund gesetzlicher Vorschriften zwingend der Anhörung einer kantonalen Fachdienststelle bedürfen, sind dem KBS unabhängig vom für das Verfahren gewählten Format über die Plattform zu ​übermitteln. Daraufhin konsultiert das KBS ausschliesslich die zwingend anzuhörenden kantonalen Organe. Der Gemeinde steht es frei, weitere Vormeinungen kantonaler Dienststellen einzufordern.
 
 <sup>3</sup> Die begründeten Vormeinungen der kantonalen Dienststellen, die sich auf die Anwendung von zwingenden spezialgesetzlichen Vorschriften beziehen, müssen die gesetzlichen Bestimmungen, auf die sie sich stützen, enthalten.
 
@@ -552,6 +590,8 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Das Baugesuch, die zugehörigen Pläne und die weiteren Unterlagen können von jeder am Bauvorhaben interessierten Person während der Einsprachefrist bei der zuständigen Behörde eingesehen werden. Die Dossiers in der Kompetenz der KBK können auch bei der Gemeindeverwaltung eingesehen werden.
 
+<sup>2</sup> Wird das digitale Format verwendet, erfolgt die Einsichtnahme durch die interessierten Personen mittels des bei der öffentlichen Auflage publizierten Dossiercodes.
+
 ### 3.3.3 Einsprache
 
 #### Art. 45
@@ -575,9 +615,17 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Die Einsprachefrist beträgt 30 Tage und beginnt mit der Publikation im Amtsblatt.
 
-<sup>2</sup> Die Einsprachen sind schriftlich bei der in der Publikation als zuständig bezeichneten Behörde einzureichen. Einsprachen gegen ein Bauvorhaben in Zuständigkeit einer Behörde, welche die Plattform benutzt, können schriftlich oder auf der Plattform eingereicht werden. Sie sind insbesondere in Bezug auf die Einsprachebefugnis zu begründen.
+<sup>2</sup> Die Einsprachen sind schriftlich, im digitalen Format oder im Papierformat, bei der in der Publikation als zuständig bezeichneten Behörde einzureichen.
 
-<sup>3</sup> Bei gemeinsamen Einsprachen ist ein Vertreter zu bezeichnen. Fehlt diese Bezeichnung, so gilt der Erstunterzeichnete als Vertreter.
+<sup>2<sup>bis</sup></sup> Bei Bauvorhaben, die vom Gesuchsteller auf der Plattform eingeleitet wurden, muss die Einsprache mit einer eigenhändigen Unterschrift versehen sein, wenn der Einsprecher das Papierformat wählt, und mit einer qualifizierten elektronischen Signatur, wenn er das digitale Format wählt. Hat er seine Wahl getroffen, erfolgen die Einsprache und alle mit ihr verbundenen Benachrichtigungen, Stellungnahmen und übrigen Mitteilungen, bis hin zur Archivierung des Dossiers, im gewählten Format. In Ausnahmefällen kann die Behörde auf begründetes Gesuch hin einer Änderung des Formats zustimmen.
+
+<sup>2<sup>ter</sup></sup> Eine Einsprache gegen ein vom Gesuchsteller im Papierformat eingereichtes Bauvorhaben muss zwingend im Papierformat erfolgen.
+
+<sup>2<sup>quater</sup></sup> Einsprachen sind insbesondere in Bezug auf die Einsprachelegitimation zu begründen.
+
+<sup>2<sup>quinquies</sup></sup> Wird das digitale Format verwendet und wird die Einsprache im Papierformat erhoben, digitalisiert die zuständige Behörde die Einsprache und gibt sie auf der Plattform ein. Dasselbe gilt für alle anderen Dokumente, die bei der zuständigen Behörde im Papierformat eingehen.
+
+<sup>3</sup> Bei gemeinsamen Einsprachen ist ein Vertreter zu bezeichnen. Fehlt diese Bezeichnung, so gilt bei einer Verwendung des Papierformats der Erstunterzeichnete als Vertreter; bei einer Verwendung des digitalen Formats gilt als Vertreter, wer die Einsprache als erster validiert hat.
 
 #### Art. 48
 
@@ -607,7 +655,7 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Für Bauten und Anlagen, die eigens zum Zweck einer bestimmten Tätigkeit errichtet werden und deren Entfernung mit Beendigung dieser Tätigkeit gerechtfertigt ist, namentlich für besondere landwirtschaftliche, gewerbliche oder industrielle Bauten, kann die zuständige Behörde in der Baubewilligung verlangen, dass die Baute nach Beendigung der Tätigkeit wieder beseitigt werden muss. Zur Gewährleistung der Beseitigung der Baute kann die zuständige Behörde vor Erteilung der Bewilligung vom Gesuchsteller zudem verlangen, dass er die erforderlichen Sicherheiten in Form einer Garantie oder eines Grundpfandes erbringt.
 
-<sup>4</sup> Gleichzeitig mit dem Bauentscheid sind den Beteiligten die weiteren erforderlichen Bewilligungen zu eröffnen, soweit dem keine Bestimmungen der besonderen Gesetzgebung entgegenstehen.
+<sup>4</sup> Gleichzeitig mit dem Bauentscheid hat die Behörde des massgeblichen Verfahrens den Betroffenen die weiteren erforderlichen Bewilligungen in dem für das Baubewilligungsverfahren verwendeten Format zu eröffnen, soweit dem keine Bestimmungen der Spezialgesetzgebung entgegenstehen. Die kantonalen Spezialbewilligungen bilden integralen Bestandteil des Bauentscheids der KBK.
 
 <sup>5</sup> Die Gemeinden fällen ihren Entscheid innert acht Wochen ab Ende der öffentlichen Auflage oder gegebenenfalls ab Erhalt der vollständigen Bauakten.
 
@@ -739,6 +787,16 @@ verordnet:[^ingress-1]
 
 <sup>4</sup> Vernachlässigt eine Baupolizeibehörde ihre Pflichten, verfügt an ihrer Stelle der Staatsrat die erforderlichen Massnahmen. Die Gemeinde haftet gegenüber dem Staat für die Kosten dieser Intervention.
 
+#### Art. 60a
+
+**Einleitung und Abwicklung des baupolizeilichen Verfahrens**
+
+<sup>1</sup> Die Baupolizeibehörden richten ihre erste Korrespondenz im Papierformat an den Störer. Wird die Nutzung der Plattform angeboten, setzen die Baupolizeibehörden dem Störer eine Frist, innerhalb der er mitteilen muss, ob das Verfahren im Papierformat oder im digitalen Format geführt werden soll. Antwortet der Störer nicht innerhalb der gesetzten Frist, ist das Papierformat zu verwenden.
+
+<sup>2</sup> Sobald das für das Verfahren gewählte Format bestimmt ist, wird das Verfahren bis zur Archivierung des Dossiers in diesem Format weitergeführt. In Ausnahmefällen kann die Behörde auf begründetes Gesuch hin einer Änderung des Formats zustimmen.
+
+<sup>3</sup> Im Übrigen gelten die für das Baubewilligungsverfahren anwendbaren Bestimmungen des vorliegenden Gesetzes und seiner Verordnung sinngemäss auch für die baupolizeilichen Verfahren, soweit das vorliegende Gesetz und seine Verordnung nichts anderes vorsehen.
+
 ## 5 Strafbestimmungen
 
 #### Art. 61
@@ -845,5 +903,13 @@ verordnet:[^ingress-1]
 <sup>1</sup> Der Zeitplan für die Initialisierung der Plattform wird vom Staatsrat festgelegt. Der Staatsrat stellt ebenfalls für jede Gemeinde und das KBS einzeln fest, dass die Plattform funktionstüchtig ist.
 
 <sup>2</sup> In den 6 Monaten nach der Feststellung der Funktionstüchtigkeit der Plattform in einer Gemeinde oder beim KBS durch den Staatsrat werden in Papierform eingereichte Dossier von der zuständigen Behörde kostenlos digitalisiert und auf der Plattform eingegeben.
+
+## T3 Übergangsbestimmung der Änderung vom 15. September 2022
+
+#### Art. T3-1
+
+<sup>1</sup> Das vorliegende Gesetz ist ab seinem Inkrafttreten anwendbar, auch auf die von ihm geregelten hängigen Verfahren.
+
+<sup>2</sup> Die in Artikel 2a des vorliegenden Gesetzes erwähnten Verfahren werden bis zum 31. Dezember 2024 implementiert und auf der Plattform der Öffentlichkeit zugänglich gemacht. Die Implementierung eines Verfahrens auf der Plattform und seine öffentliche Zugänglichkeit werden vom für Bauwesen zuständigen Departement im Amtsblatt bekannt gegeben.
 
 CSW BO/Abl. 1/2017, 31/2017
