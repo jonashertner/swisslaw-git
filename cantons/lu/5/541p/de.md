@@ -1,23 +1,24 @@
 ---
 canton: LU
 number: 541p
-title: Reglement über den Zertifikatslehrgang (Certificate of Advanced Studies) «Kirchliche Jugendarbeit» an der Theologischen Fakultät der Universität Luzern
+title: "Reglement über den Zertifikatslehrgang (Certificate of Advanced Studies, CAS) «Kirchliche Jugendarbeit und Gemeindeanimation» an der Theologischen Fakultät der Universität Luzern"
 short: CAS Kirchliche Jugendarbeit und Gemeindeanimation
 language: de
-version: 2021-04-01
-valid_until: 2023-01-31
-version_adopted: 2021-03-24
+version: 2023-02-01
+version_adopted: 2022-12-21
 adopted: 2021-03-24
 in_force: 2021-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/541p"
-pdf: "https://srl.lu.ch/api/de/versions/3732/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4040/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über den Zertifikatslehrgang (Certificate of Advanced Studies) «Kirchliche Jugendarbeit» an der Theologischen Fakultät der Universität Luzern
+# Reglement über den Zertifikatslehrgang (Certificate of Advanced Studies, CAS) «Kirchliche Jugendarbeit und Gemeindeanimation» an der Theologischen Fakultät der Universität Luzern
 
-vom 24.03.2021 (Stand 01.04.2021)
+(CAS Kirchliche Jugendarbeit und Gemeindeanimation)
+
+vom 24.03.2021 (Stand 01.02.2023)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -33,17 +34,17 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Der Zertifikatslehrgang «Kirchliche Jugendarbeit» (im Folgenden: Lehrgang) ist ein universitäres Weiterbildungsangebot der Theologischen Fakultät.
+<sup>1</sup> Der Zertifikatslehrgang «Kirchliche Jugendarbeit und Gemeindeanimation» (im Folgenden: Lehrgang) ist ein universitäres Weiterbildungsangebot der Theologischen Fakultät.
 
-<sup>2</sup> Der Lehrgang vermittelt religionspädagogische Fach- und Vermittlungskompetenzen im Praxisfeld Kirchliche Jugendarbeit.
+<sup>2</sup> Der Lehrgang vermittelt religionspädagogische Fach- und Vermittlungskompetenzen im Praxisfeld Kirchliche Jugendarbeit und Gemeindeanimation.
 
-<sup>3</sup> Der Lehrgang ist eine Ergänzung und Erweiterung des grundständigen Hochschulabschlusses und richtet sich an Theologinnen und Theologen sowie weitere kirchliche Mitarbeitende mit Hochschulabschluss, die mit Blick auf das religionspädagogische Arbeitsfeld Kirchliche Jugendarbeit vertiefte Fach- und Vermittlungskompetenzen erwerben möchten.
+<sup>3</sup> Der Lehrgang ist eine Ergänzung und Erweiterung des grundständigen Hochschulabschlusses und richtet sich an Theologinnen und Theologen sowie weitere kirchliche Mitarbeitende mit Hochschulabschluss, die mit Blick auf das religionspädagogische Arbeitsfeld Kirchliche Jugendarbeit und Gemeindeanimation vertiefte Fach- und Vermittlungskompetenzen erwerben möchten.
 
 #### § 2
 
 **Gegenstand**
 
-<sup>1</sup> Das Reglement regelt die Zulassung zum Lehrgang, dessen Durchführung und die Voraussetzungen für die Verleihung des Zertifikates «Kirchliche Jugendarbeit».
+<sup>1</sup> Das Reglement regelt die Zulassung zum Lehrgang, dessen Durchführung und die Voraussetzungen für die Verleihung des Zertifikates «Kirchliche Jugendarbeit und Gemeindeanimation».
 
 <sup>2</sup> Soweit dieses Reglement keine besonderen Bestimmungen aufstellt, gilt das Rahmenreglement für das Weiterbildungsangebot der Universität Luzern[^2-1].
 
@@ -55,7 +56,7 @@ beschliesst:
 
 **Organisation und Leitung**
 
-<sup>1</sup> Der Lehrgang «Kirchliche Jugendarbeit» ist am Religionspädagogischen Institut der Theologischen Fakultät angesiedelt.
+<sup>1</sup> Der Lehrgang «Kirchliche Jugendarbeit und Gemeindeanimation» ist am Religionspädagogischen Institut der Theologischen Fakultät angesiedelt.
 
 <sup>2</sup> Die wissenschaftliche Gesamtleitung des Lehrgangs liegt bei der Inhaberin oder dem Inhaber der Professur für Religionspädagogik. Die wissenschaftliche Leiterin bzw. der Leiter kann eine Co-Leiterin oder einen Co-Leiter aus der Dozierendenschaft des Religionspädagogischen Instituts mit der operativen Leitung beauftragen. Gemeinsam bilden sie die Studienleitung des Lehrgangs.
 
@@ -109,7 +110,7 @@ beschliesst:
 
 **Aufbau des Lehrgangs**
 
-<sup>1</sup> Der Lehrgang «Kirchliche Jugendarbeit» beinhaltet die Teilnahme an mehreren Lehrveranstaltungen nach Wahl (vgl. § 10) mit entsprechendem Selbststudium, einer Einführungs- und einer Auswertungsveranstaltung sowie der Praxisberatung. Abgeschlossen wird der Studiengang mit einer Zertifikatsarbeit.
+<sup>1</sup> Der Lehrgang «Kirchliche Jugendarbeit und Gemeindeanimation» beinhaltet die Teilnahme an mehreren Lehrveranstaltungen nach Wahl (vgl. § 10) mit entsprechendem Selbststudium, einer Einführungs- und einer Auswertungsveranstaltung sowie der Praxisberatung. Abgeschlossen wird der Studiengang mit einer Zertifikatsarbeit.
 
 <sup>2</sup> Der Lehrgang erstreckt sich in der Regel über 1–2 Jahre.
 
@@ -119,7 +120,7 @@ beschliesst:
 
 **Lehrveranstaltungen**
 
-<sup>1</sup> Für den Lehrgang «Kirchliche Jugendarbeit» werden im Lehrangebot der Theologischen Fakultät (inkl. Religionspädagogisches Institut) verschiedene religionspädagogische Lehrveranstaltungen bezeichnet, die für die Absolventinnen und Absolventen fachfremd und qualifizierend sind.
+<sup>1</sup> Für den Lehrgang «Kirchliche Jugendarbeit und Gemeindeanimation» werden im Lehrangebot der Theologischen Fakultät (inkl. Religionspädagogisches Institut) verschiedene religionspädagogische Lehrveranstaltungen bezeichnet, die für die Absolventinnen und Absolventen fachfremd und qualifizierend sind.
 
 <sup>2</sup> Die Absolventinnen und Absolventen wählen gemäss ihrem Bedarf Lehrveranstaltungen im Umfang von 10 Kreditpunkten aus. Das Lehrangebot wird im Studienplan beschrieben.
 
@@ -135,7 +136,7 @@ beschliesst:
 
 **Praxisberatung**
 
-<sup>1</sup> Die Praxisberatung dient der Reflexion und Bearbeitung konkreter Aufgabenstellungen und Herausforderungen in der kirchlichen Jugendarbeit.
+<sup>1</sup> Die Praxisberatung dient der Reflexion und Bearbeitung konkreter Aufgabenstellungen und Herausforderungen in der kirchlichen Jugendarbeit und Gemeindeanimation.
 
 <sup>2</sup> Absolventinnen und Absolventen des Lehrgangs sind verpflichtet, an mindestens vier Veranstaltungen der Praxisberatung teilzunehmen.
 
@@ -185,7 +186,7 @@ beschliesst:
 
 <sup>3</sup> Ist eine Teilnehmerin oder ein Teilnehmer mit der Bewertung nicht einverstanden, kann sie oder er innert einer Frist von 30 Tagen nach Erhalt der Bewertung eine anfechtbare Verfügung der Studienleitung verlangen.
 
-<sup>4</sup> Wer den Zertifikatslehrgang endgültig nicht besteht, erhält auf Wunsch einen Ausweis über die bestandenen Kurseinheiten und die erworbenen ECTS (Academic Record).
+<sup>4</sup> Wer den Lehrgang endgültig nicht besteht, erhält auf Wunsch einen Ausweis über die bestandenen Kurseinheiten und die erworbenen ECTS (Academic Record).
 
 #### § 19
 
@@ -199,7 +200,7 @@ beschliesst:
 
 **Abschluss und Verleihung der Abschlussausweise**
 
-<sup>1</sup> Für das Bestehen des Lehrgangs erhalten die Teilnehmenden das Lehrgangszertifikat «Certificate of Advanced Studies in Kirchlicher Jugendarbeit der Universität Luzern» sowie ein Diploma Supplement, das alle erbrachten Studienleistungen mit den entsprechenden ECTS ausweist.
+<sup>1</sup> Für das Bestehen des Lehrgangs erhalten die Teilnehmenden das Lehrgangszertifikat «Certificate of Advanced Studies in Kirchlicher Jugendarbeit und Gemeindeanimation der Universität Luzern» sowie ein Diploma Supplement, das alle erbrachten Studienleistungen mit den entsprechenden ECTS ausweist.
 
 <sup>2</sup> Das Zertifikat wird im Namen der Theologischen Fakultät der Universität Luzern ausgestellt. Der Abschlussausweis enthält die Unterschriften der Studienleitung des Lehrgangs sowie der Dekanin oder des Dekans der Theologischen Fakultät.
 
