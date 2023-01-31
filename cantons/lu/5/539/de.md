@@ -4,13 +4,12 @@ number: "539"
 title: Gesetz über die universitäre Hochschulbildung
 short: "Universitätsgesetz, UniG"
 language: de
-version: 2014-11-30
-valid_until: 2023-01-31
-version_adopted: 2014-03-31
+version: 2023-02-01
+version_adopted: 2022-10-24
 adopted: 2000-01-17
 in_force: 2000-10-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539"
-pdf: "https://srl.lu.ch/api/de/versions/2860/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4046/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2860/pdf_file"
 
 (Universitätsgesetz, UniG)
 
-vom 17.01.2000 (Stand 30.11.2014)
+vom 17.01.2000 (Stand 01.02.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -44,8 +43,6 @@ beschliesst:
 **Einbettung der Hochschulbildung**
 
 <sup>1</sup> Die universitäre Hochschulbildung ist wie folgt in das Bildungswesen eingebettet:
-
-Grafik gemäss Anhang 1
 
 ## 2 Bildungsziele
 
@@ -136,14 +133,23 @@ Grafik gemäss Anhang 1
 - a. Fakultäten,
 - b. Seminare,
 - c. Institute,
-- c<sup>bis</sup>. Zentrale Dienste,
+- c<sup>bis</sup>. Dienste,
 - d. weitere Organisationseinheiten.
 
 #### § 10
 
 **Fakultäten**
 
-<sup>1</sup> Die Universität besteht aus einer theologischen, einer kultur- und sozialwissenschaftlichen, einer rechtswissenschaftlichen sowie einer wirtschaftswissenschaftlichen Fakultät. Der Regierungsrat schliesst über die Belange der theologischen Fakultät eine Vereinbarung mit dem Bischof von Basel ab.
+<sup>1</sup> Die Universität besteht aus folgenden Fakultäten:
+
+- a. Theologische Fakultät,
+- b. Kultur- und sozialwissenschaftliche Fakultät,
+- c. Rechtswissenschaftliche Fakultät,
+- d. Wirtschaftswissenschaftliche Fakultät,
+- e. Fakultät für Gesundheitswissenschaften und Medizin,
+- f. Fakultät für Verhaltenswissenschaften und Psychologie.
+
+<sup>1<sup>bis</sup></sup> Der Regierungsrat schliesst über die Belange der Theologischen Fakultät eine Vereinbarung mit dem Bischof von Basel ab.
 
 <sup>2</sup> Die Fakultäten nehmen die Aufgaben der Universität in ihren Wissenschaftsbereichen wahr und sind verantwortlich für die Darstellung und die Koordination der einzelnen Fachbereiche.
 
@@ -167,9 +173,9 @@ Grafik gemäss Anhang 1
 
 #### § 12a
 
-**Zentrale Dienste**
+**Dienste**
 
-<sup>1</sup> Die Zentralen Dienste erbringen Dienstleistungen für die Universität.
+<sup>1</sup> Die Dienste erbringen Dienstleistungen für die Universität.
 
 #### § 13
 
@@ -192,7 +198,7 @@ Grafik gemäss Anhang 1
 - e. die Fakultätsversammlung,
 - f. weitere im Universitätsstatut[^14-1] und in Fakultätsreglementen geschaffene Organe.
 
-<sup>2</sup> Anstelle der Rektorin oder des Rektors kann das Universitätsstatut ein Rektorat vorsehen, das mindestens aus einer Rektorin oder einem Rektor und zwei bis vier Prorektorinnen oder Prorektoren besteht.
+<sup>2</sup> …
 
 [^14-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de). Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.
 
@@ -204,7 +210,7 @@ Grafik gemäss Anhang 1
 
 <sup>2</sup> Dem Universitätsrat gehören die Vorsteherin oder der Vorsteher des zuständigen Departementes, vier bis acht vom Regierungsrat gewählte Persönlichkeiten aus Wissenschaft, Wirtschaft, Kultur und Gesellschaft sowie mit beratender Stimme die Rektorin oder der Rektor der Universität an. Universitätspersonal und Studierende sind nicht wählbar.
 
-<sup>3</sup> Die Amtsdauer der vom Regierungsrat gewählten Mitglieder beträgt vier Jahre. Der Regierungsrat kann von ihm gewählte Mitglieder aus wichtigen Gründen abberufen.
+<sup>3</sup> Die Amtsdauer der vom Regierungsrat gewählten Mitglieder beträgt vier Jahre. Die Wiederwahl ist zweimal möglich. Der Regierungsrat kann von ihm gewählte Mitglieder aus wichtigen Gründen abberufen.
 
 <sup>4</sup> Der Universitätsrat konstituiert sich selbst. Er kann weitere Personen beiziehen und ihnen beratende Stimme einräumen.
 
@@ -236,14 +242,14 @@ Grafik gemäss Anhang 1
 
 <sup>1</sup> Die Rektorin oder der Rektor hat die operative und betriebliche Leitung der Universität inne und vertritt die Universität gegen aussen. Sie oder er nimmt alle Funktionen und Aufgaben wahr, die keinem anderen Organ zugewiesen sind.
 
-<sup>2</sup> Der Universitätsrat wählt die Rektorin oder den Rektor und die Mitglieder des Rektorats. Die Amtsdauer beträgt vier Jahre. Die Wiederwahl ist möglich.
+<sup>2</sup> Der Universitätsrat wählt die Rektorin oder den Rektor. Die Amtsdauer beträgt vier Jahre. Die Wiederwahl ist möglich.
 
 <sup>3</sup> Der Wahlantrag wird in einer Versammlung beschlossen, an der mit Stimmrecht teilnehmen:
 
 - a. die stimmberechtigten Mitglieder der Fakultätsversammlungen,
-- b. die Direktorinnen oder Direktoren der Zentralen Dienste sowie bis zu zwölf weitere Universitätsangehörige, welche die Studierendenorganisation, die Mittelbauvereinigung sowie die Zentralen Dienste der Universität Luzern vertreten; der Senat bestimmt die Zahl der Vertretungen.
+- b. die Universitätsmanagerin oder der Universitätsmanager sowie bis zu zwölf weitere Universitätsangehörige, welche die Studierendenorganisation, die Mittelbauorganisation sowie die Organisation des administrativen und technischen Personals der Universität Luzern vertreten; der Senat bestimmt die Zahl der Vertretungen.
 
-<sup>4</sup> In der betrieblichen und akademischen Leitung der Universität wird die Rektorin oder der Rektor durch die Zentralen Dienste unterstützt.
+<sup>4</sup> …
 
 #### § 18
 
@@ -251,14 +257,15 @@ Grafik gemäss Anhang 1
 
 <sup>1</sup> Der Senat ist das gesamtuniversitäre Führungs- und Koordinationsorgan.
 
-<sup>2</sup> Er setzt sich aus 12 bis 20 Mitgliedern zusammen, nämlich:
+<sup>2</sup> Er setzt sich zusammen aus:
 
 - a. der Rektorin oder dem Rektor,
+- a<sup>bis</sup>. den Prorektorinnen und Prorektoren,
 - b. der Dekanin oder dem Dekan jeder Fakultät,
-- c. zwei Direktorinnen oder Direktoren der Zentralen Dienste sowie
-- d. je zwei oder drei Vertreterinnen oder Vertretern der Professorinnen und Professoren sowie der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter und der Studierenden; bei einer Zusammensetzung von 16 bis 20 Mitgliedern erhalten auch die administrativ-technischen Mitarbeiterinnen und Mitarbeiter eine Vertretung.
+- c. der Universitätsmanagerin oder dem Universitätsmanager sowie
+- d. je zwei oder drei Vertreterinnen oder Vertretern der Professorinnen und Professoren, der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter, der weiteren Mitarbeiterinnen und Mitarbeiter sowie der Studierenden.
 
-<sup>3</sup> Die Zusammensetzung ist so zu gestalten, dass die der Gruppe der Professuren angehörenden Mitglieder über die Hälfte der Stimmen verfügen.
+<sup>3</sup> …
 
 <sup>4</sup> Der Senat beruft Professorinnen und Professoren und befasst sich insbesondere mit gesamtuniversitären akademischen Angelegenheiten. Er bereitet die Geschäfte des Universitätsrates vor und stellt entsprechend Antrag.
 
@@ -308,7 +315,7 @@ Grafik gemäss Anhang 1
 
 <sup>1</sup> Die immatrikulierten Studierenden der Universität bilden die Studierendenorganisation Luzern (SOL). Diese ist eine öffentlich-rechtliche Körperschaft des kantonalen Rechts. Die SOL kann sich in Fachschaften gliedern.
 
-<sup>2</sup> Studierende, die der SOL und damit auch der Fachschaft nicht angehören wollen, teilen dies der Rektorin oder dem Rektor schriftlich mit.
+<sup>2</sup> Studierende, die der SOL und damit auch der Fachschaft nicht angehören wollen, teilen dies der Rektorin oder dem Rektor schriftlich mit. Die Mitgliedschaft in der Mittelbauorganisation der Universität Luzern (MOL) führt zum Ausscheiden aus der SOL.
 
 <sup>3</sup> Die SOL gibt sich eine eigene Ordnung, die vom Universitätsrat zu genehmigen ist. Entsprechende Ordnungen der Fachschaften unterliegen der Genehmigung der Rektorin oder des Rektors.
 
@@ -320,7 +327,7 @@ Grafik gemäss Anhang 1
 
 **Grundsatz**
 
-<sup>1</sup> Das Universitätspersonal setzt sich aus wissenschaftlichem, administrativem und technischem Personal zusammen. Das Nähere über Aufgaben, Rechte und Pflichten des Universitätspersonals wird im Universitätsstatut festgelegt.
+<sup>1</sup> Das Universitätspersonal setzt sich aus wissenschaftlichem, administrativem und technischem und weiterem Personal zusammen. Das Nähere über Aufgaben, Rechte und Pflichten des Universitätspersonals wird im Universitätsstatut festgelegt.
 
 <sup>2</sup> Für das Universitätspersonal gilt grundsätzlich das Personal- und Besoldungsrecht des Kantons Luzern. Um den universitären Verhältnissen Rechnung zu tragen, kann der Regierungsrat auf Antrag des Universitätsrates besondere personalrechtliche Bestimmungen erlassen.
 
@@ -328,11 +335,23 @@ Grafik gemäss Anhang 1
 
 **Mittelbauorganisation**
 
-<sup>1</sup> Die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie die Lehr- und Forschungsbeauftragten des Mittelbaus bilden die Mittelbauorganisation der Universität Luzern (MOL). Diese ist eine öffentlich-rechtliche Körperschaft des kantonalen Rechts.
+<sup>1</sup> Die immatrikulierten Doktorierenden, die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie die Lehr- und Forschungsbeauftragten des Mittelbaus bilden die Mittelbauorganisation der Universität Luzern (MOL). Diese ist eine öffentlich-rechtliche Körperschaft des kantonalen Rechts.
 
-<sup>2</sup> Wissenschaftliche Mitarbeiterinnen und Mitarbeiter sowie Lehr- und Forschungsbeauftragte, die der MOL nicht angehören wollen, teilen dies der Rektorin oder dem Rektor schriftlich mit.
+<sup>2</sup> Immatrikulierte Doktorierende, wissenschaftliche Mitarbeiterinnen und Mitarbeiter sowie Lehr- und Forschungsbeauftragte, die der MOL nicht angehören wollen, teilen dies der Rektorin oder dem Rektor schriftlich mit.
 
 <sup>3</sup> Die MOL gibt sich eine eigene Ordnung, die vom Universitätsrat zu genehmigen ist.
+
+<sup>4</sup> Die Mitwirkung und die Vertretung in Universitätsorganen werden im Universitätsstatut geregelt.
+
+#### § 24b
+
+**Organisation des administrativen und technischen Personals**
+
+<sup>1</sup> Die administrativen und technischen sowie weiteren nichtwissenschaftlichen Mitarbeiterinnen und Mitarbeiter bilden die Organisation des administrativen und technischen Personals (ATOL). Diese ist eine öffentlich-rechtliche Körperschaft des kantonalen Rechts.
+
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die der ATOL nicht angehören wollen, teilen dies der Rektorin oder dem Rektor schriftlich mit.
+
+<sup>3</sup> Die ATOL gibt sich eine eigene Ordnung, die vom Universitätsrat zu genehmigen ist.
 
 <sup>4</sup> Die Mitwirkung und die Vertretung in Universitätsorganen werden im Universitätsstatut geregelt.
 
@@ -397,7 +416,7 @@ Grafik gemäss Anhang 1
 
 <sup>1</sup> Die Universität kann aus dem Jahresgewinn Eigenkapital bilden.
 
-<sup>2</sup> Das Eigenkapital der Universität darf höchstens zehn Prozent des jährlichen Bruttoaufwandes erreichen. Darüber hinausgehende Gewinne gehen an den Kanton.
+<sup>2</sup> Das Eigenkapital der Universität darf höchstens zwanzig Prozent des jährlichen Bruttoaufwandes erreichen. Darüber hinausgehende Gewinne gehen an den Kanton.
 
 #### § 28b
 
@@ -471,7 +490,7 @@ Grafik gemäss Anhang 1
 
 **Titelschutz**
 
-<sup>1</sup> Ein unrechtmässig erworbener Titel wird durch die Instanz entzogen, die ihn verliehen hat.
+<sup>1</sup> Die von der Universität Luzern verliehenen Titel sind geschützt. Ein unrechtmässig erworbener Titel wird durch die Instanz entzogen, die ihn verliehen hat.
 
 <sup>2</sup> Vorbehalten bleiben die strafrechtlichen Bestimmungen über die unbefugte Führung akademischer Titel.
 
@@ -506,7 +525,9 @@ Grafik gemäss Anhang 1
 
 <sup>1</sup> Insoweit und solange neue Vollzugsverordnungen und Reglemente nicht erlassen sind, gelten die bisherigen Erlasse als Vollzugsbestimmungen, sofern sie diesem Gesetz nicht widersprechen.
 
-<sup>2</sup> Der Universitätsrat errichtet die wirtschaftswissenschaftliche Fakultät, sobald deren Finanzierung gesichert ist.
+<sup>2</sup> …
+
+<sup>3</sup> Der Universitätsrat errichtet die Fakultät für Gesundheitswissenschaften und Medizin sowie die Fakultät für Verhaltenswissenschaften und Psychologie, sobald deren Finanzierung gesichert ist.
 
 #### § 37
 
