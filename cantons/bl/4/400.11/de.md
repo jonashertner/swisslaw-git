@@ -4,13 +4,13 @@ number: "400.11"
 title: Verordnung zum Raumplanungs- und Baugesetz
 short: RBV
 language: de
-version: 2022-07-01
-valid_until: 2023-01-31
-version_adopted: 2022-05-17
+version: 2023-02-01
+valid_until: 2023-05-31
+version_adopted: 2023-01-31
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400.11"
-pdf: "https://bl.clex.ch/api/de/versions/3328/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3523/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3328/pdf_file"
 
 (RBV)
 
-Vom 27.10.1998 (Stand 01.07.2022)
+Vom 27.10.1998 (Stand 01.02.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -834,6 +834,24 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 <sup>3</sup> Offene Abstellplätze sind nach Möglichkeit unversiegelt, das heisst wasserdurchlässig auszugestalten.
 
 <sup>4</sup> Bei Verkaufsgeschäften mit einem gewichtigen Anteil an grossen, sperrigen oder schweren Gütern im Sortiment, wie insbesondere bei Möbelgeschäften, Bau- und Gartenfachmärkten ist das Resultat der Multiplikation der Reduktionsfaktoren R1 und R2 gemäss Anhang auf 0.5 anzuheben, sollte der errechnete Wert tiefer liegen. Der Wert von 0.5 beinhaltet eine Verschärfung nach Art. 11 Abs. 3 des Bundesgesetzes über den Umweltschutz.[^70-2]
+
+<sup>5</sup> Um genehmigt werden zu können, regelt ein kommunales Abstellplatzreglement mindestens folgende Punkte:
+
+- a. die Werte für den Parkplatzbedarf oder die anwendbaren Reduktionsfaktoren für jede Bauzone, für klar bestimmte Gebiete oder für bestimmte Nutzungen;
+- b. dass private Parkierungsanlagen für Anwohner und Besucher in erster Linie auf Privatparzellen zu erstellen sind;
+- c. die erforderliche Anzahl und die Anforderungen an Fahrradabstellplätze;
+- d in welchen Fällen und in welchem Umfang weitere verkehrsspezifische Gutachten erforderlich sind.
+
+<sup>6</sup> Sieht der Anhang der RBV ein Verkehrsgutachten vor, ist auch bei Anwendung des Reglements ein solches erforderlich.
+
+<sup>7</sup> In einem begleitenden Bericht sind mindestens folgende Punkte nachzuweisen und darzulegen:
+
+- a. die Herleitung der gewählten Regelungen unter Berücksichtigung der Wechselwirkungen zwischen Siedlung und Verkehr und den verschiedenen Verkehrsarten;
+- b. eine Übersicht über die Parkraumnachfrage und den Umgang damit;
+- c. das Verhältnis von Parkierung auf Privatgrund und Parkierung im öffentlichen Strassenraum;
+- d. eine Überprüfung der Auswirkungen der Regelungen auf direkt angrenzende Bauzonen in umliegenden Gemeinden und Abstimmung mit diesen.
+
+<sup>8</sup> Bei aussergewöhnlichen Auswirkungen auf das übergeordnete Kantons- und Nationalstrassennetz oder den öffentlichen Verkehr, kann der Kanton weitere Nachweise verlangen.
 
 [^70-1]: Vgl. Anhang 1, S. 11-12.
 [^70-2]: [SR 814.01](https://db.clex.ch/link/Bund/814.01/de)
