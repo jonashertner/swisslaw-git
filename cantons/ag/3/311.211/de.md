@@ -3,20 +3,19 @@ canton: AG
 number: "311.211"
 title: Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK)
 language: de
-version: 2013-03-07
-valid_until: 2023-01-31
-version_adopted: 2013-03-07
+version: 2023-02-01
+version_adopted: 2023-01-26
 adopted: 2006-07-06
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/311.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1865/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3307/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK)
 
-Vom 06.07.2006 (Stand 07.03.2013)
+Vom 06.07.2006 (Stand 01.02.2023)
 
 Der Vorstand der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK),
 
@@ -49,7 +48,9 @@ beschliesst:[^ingress-3][^ingress-4]
 <sup>1</sup> Die Gebühren betragen:
 
 - 1\. Gebühr für das Erfassen der Personendaten und der Angaben zum Diplom — CHF 70.– bis 130.–
-- 2\. Gebühr für die Erteilung von Auskünften aus dem Register — CHF 90.– bis 130.–
+- 2\.
+  - a) Gebühr für die Erteilung von Auskünften aus dem Register — CHF 90.– bis 130.–
+  - b) Jährliche Gebühr für die Erteilung von Auskünften aus dem Register an eine öffentliche oder private Stelle über eine Standardschnittstelle — CHF 100.– bis 1'000.–
 - 3\.
   - a) Gebühr für die Anerkennung einer ausländischen Berufsqualifikation sowie für die Nachprüfung der Qualifikation von Dienstleistungserbringenden gemäss Art. 8 VO Ausland je — CHF 400.–
   - b) Ist die Prüfung des Anerkennungsgesuchs bzw. die Nachprüfung der Qualifikation sehr aufwändig, kann die Gebühr angemessen erhöht werden, jedoch höchstens auf je — CHF 1'000.–
@@ -73,18 +74,20 @@ beschliesst:[^ingress-3][^ingress-4]
 
 **In-Kraft-Treten**
 
-<sup>1</sup> Diese Verordnung ist gleichzeitig mit der revidierten interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen in Kraft getreten. Die Änderung vom 7. März 2013 tritt mit dem Beschluss des Gemischten Ausschusses zur Übernahme der Richtlinie 2005/36/EG in Kraft.
+<sup>1</sup> Diese Verordnung tritt gleichzeitig mit der revidierten interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 in Kraft.[^4-1]
 
-Bern, 6. Juli 2006
+[^4-1]: In Kraft getreten am 1. Januar 2008.
+
+Bern, 24. August 2006
 
 Im Namen der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren
 
 Der Präsident
 
-Dr. Carlo Conti
+Markus Dürr
 
 Der Zentralsekretär
 
-Michael Jordi
+Franz Wyss
 
 2013/6-01
