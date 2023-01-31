@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "413.226"
-title: Verordnung des Regierungsrates über die Maturitätsabteilung an den thurgauischen Kantonsschulen
+title: Verordnung über die Maturitätsabteilung an den thurgauischen Kantonsschulen
 short: MKV
 language: de
-version: 2021-08-01
-valid_until: 2023-01-31
-version_adopted: 2021-01-12
+version: 2023-02-01
+valid_until: 2028-07-31
+version_adopted: 2022-05-24
 adopted: 1999-07-06
 in_force: 1999-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.226"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2977/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2979/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Maturitätsabteilung an den thurgauischen Kantonsschulen
+# Verordnung über die Maturitätsabteilung an den thurgauischen Kantonsschulen
 
 MKV
 
 (MKV)
 
-vom 06.07.1999 (Stand 01.08.2021)
+vom 06.07.1999 (Stand 01.02.2023)
 
 ## 1. Unterricht
 
@@ -118,9 +118,9 @@ vom 06.07.1999 (Stand 01.08.2021)
 
 <sup>1</sup> Die Schulleitung legt die Art der Promotion fest. Folgende Modelle stehen zur Wahl:
 
-- 1\. Durchgängige Semesterpromotion;
-- 2\. Jahrespromotion für die dritte und vierte Klasse;
-- 3\. Jahrespromotion für die vierte Klasse.
+- 1\. Durchgängige Semesterpromotion
+- 2\. Jahrespromotion für die dritte und vierte Klasse
+- 3\. Jahrespromotion für die vierte Klasse
 
 <sup>2</sup> Für die Semesterpromotion gilt: Der Konvent entscheidet am Ende eines Semesters aufgrund der Zeugnisnoten des Semesters in den Promotionsfächern, ob eine Schülerin oder ein Schüler in das nächste Semester befördert werden kann.
 
@@ -176,17 +176,19 @@ vom 06.07.1999 (Stand 01.08.2021)
 
 **Provisorische Promotion und Nichtpromotion**
 
-<sup>1</sup> Für die Semesterpromotion gilt: Wer bei der Promotion die Bedingungen für eine definitive Promotion nicht erfüllt, wird für das nächste Semester provisorisch befördert, sofern die Schülerin oder der Schüler bei der vorhergehenden Promotion definitiv befördert wurde und an der Kantonsschule nicht mehr als einmal provisorisch befördert worden ist. Vorbehalten bleiben die Regelungen zur Probezeit.
+<sup>1</sup> Für die Semesterpromotion gilt: Wer bei der Promotion die Bedingungen für eine definitive Promotion nicht erfüllt, wird für das nächste Semester provisorisch befördert, sofern die Schülerin oder der Schüler bei der vorhergehenden Promotion definitiv befördert wurde und an der Kantonsschule nicht mehr als einmal provisorisch befördert worden ist.
+
+<sup>1<sup>bis</sup></sup> Eine Schülerin oder ein Schüler der 1. Klasse wird am Ende des ersten Semesters von der Schule gewiesen, wenn in den für die Promotion massgebenden Fächern mehr als vier Noten unter 4 vorliegen. Eine Repetition ist nicht möglich.
 
 <sup>2</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 2 gilt:
 
-- 1\. Ende der ersten drei Semester gilt Abs. 1.
+- 1\. Ende der ersten drei Semester gilt Abs. 1 und Abs. 1bis.
 - 2\. Wer Ende des vierten Semesters die Bedingungen für eine definitive Promotion nicht erfüllt, wird nicht ins dritte Schuljahr befördert.
 - 3\. Wer Ende des sechsten Semesters die Bedingungen für eine definitive Promotion nicht erfüllt, wird nicht ins vierte Schuljahr befördert.
 
 <sup>3</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 3 gilt:
 
-- 1\. Ende der ersten fünf Semester gilt Abs. 1.
+- 1\. Ende der ersten fünf Semester gilt Abs. 1 und Abs. 1bis.
 - 2\. Wer Ende des sechsten Semesters die Bedingungen für eine definitive Promotion nicht erfüllt, wird nicht ins vierte Schuljahr befördert.
 
 #### § 7
