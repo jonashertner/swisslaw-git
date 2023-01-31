@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230101/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 1° gennaio 2023)
+del 4 giugno 2021 (Stato 1° febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -788,7 +788,7 @@ Allegato 1[^t-1]
 
 ## Contenuto generale dei certificati COVID-19
 
-[^t-1]: Aggiornato dai n. II delle O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) e dal n. I dell’O del DFI del 29 nov. 2021 ([RU 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) e dal n. II cpv. 1 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^t-1]: Aggiornato dal n. II delle O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) e dal n. I dell’O del DFI del 29 nov. 2021 ([RU 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) e dal n. II cpv. 1 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 
 ### 1 Dati relativi al titolare
 
@@ -816,7 +816,7 @@ Allegato 2[^t-2]
 
 ## Disposizioni particolari sui certificati di vaccinazione COVID-19
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del DFI del 1° feb. 2022 (Completamento delle immunizzazioni di base e vaccinazioni di richiamo, considerazione di ulteriori vaccini) ([RU 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Aggiornato dal n. II cpv. 1 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera) ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), dal n. III dell’O del 30 mar. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) e dal n. I dall’O del DFI del 23 sett. 2022, in vigore dal 10 ott. 2022 ([RU 2022 532](https://fedlex.data.admin.ch/eli/oc/2022/532)).
+[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del DFI del 1° feb. 2022 (Completamento delle immunizzazioni di base e vaccinazioni di richiamo, considerazione di ulteriori vaccini) ([RU 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Aggiornato dal n. II cpv. 1 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera) ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), dal n. III dell’O del 30 mar. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)), dal n. I delle O del DFI del 23 set. 2022 ([RU 2022 532](https://fedlex.data.admin.ch/eli/oc/2022/532)) e del 9 gen. 2023, in vigore dal 1° feb. 2023 ([RU 2023 13](https://fedlex.data.admin.ch/eli/oc/2023/13)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -870,6 +870,7 @@ Allegato 2[^t-2]
 <tr><th>Fabbricante</th><th>Nome(i) del prodotto</th></tr>
 <tr><td>Johnson&Johnson</td><td>COVID-19 Vaccine Janssen</td></tr>
 <tr><td>CanSino</td><td>Convidecia (Ad5.CoV2‑S)</td></tr>
+<tr><td>Sanofi Pasteur</td><td>VidPrevtyn Beta</td></tr>
 </table>
 
 - 3\.2.2
@@ -892,7 +893,7 @@ Allegato 2[^t-2]
 <table>
 <tr><th>Fabbricante</th><th>Nome(i) del prodotto</th></tr>
 <tr><td>AstraZeneca</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
-<tr><td>Moderna</td><td>Spikevax (mRNA-1273) Spikevax Bivalent Original/Omicron BA.1</td></tr>
+<tr><td>Moderna</td><td>Spikevax (mRNA-1273) Spikevax Bivalent Original/Omicron BA.1 Spikevax Bivalent Original/Omicron BA.4-5</td></tr>
 <tr><td>Novavax</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
 <tr><td>Indian Council for Medical Research</td><td>Bharat Biotech Covaxin</td></tr>
 <tr><td>Pfizer/BioNTech</td><td>Comirnaty (BNT162b2) Comirnaty Bivalent Original/Omicron BA.1 Comirnaty Original/Omicron BA.4/5</td></tr>

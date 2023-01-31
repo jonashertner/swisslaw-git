@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230101/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 1. Januar 2023)
+vom 4. Juni 2021 (Stand am 1. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -814,7 +814,7 @@ Anhang 2[^t-2]
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des EDI vom 1. Febr. 2022 (Vollständigkeit von Grundimmunisierungen und Auffrischimpfungen, Berücksichtigung von weiteren Impfstoffen) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), Ziff. III der V vom 30. März 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) und Ziff. I der V des EDI vom 23. Sept. 2022, in Kraft seit 10. Okt. 2022 ([AS 2022 532](https://fedlex.data.admin.ch/eli/oc/2022/532)).
+[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des EDI vom 1. Febr. 2022 (Vollständigkeit von Grundimmunisierungen und Auffrischimpfungen, Berücksichtigung von weiteren Impfstoffen) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), Ziff. III der V vom 30. März 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)), Ziff. I der V des EDI vom 23. Sept. 2022 ([AS 2022 532](https://fedlex.data.admin.ch/eli/oc/2022/532)) und vom 9. Jan. 2023, in Kraft seit 1. Febr. 2023 ([AS 2023 13](https://fedlex.data.admin.ch/eli/oc/2023/13)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -865,9 +865,10 @@ Anhang 2[^t-2]
 - 3\.2.1 Ziffer 3.2 gilt für die folgenden Impfstoffe:
 
 <table>
-<tr><td>Hersteller</td><td>Produktename(n)</td></tr>
+<tr><th>Hersteller</th><th>Produktename(n)</th></tr>
 <tr><td>Johnson&Johnson</td><td>COVID-19 Vaccine Janssen</td></tr>
 <tr><td>CanSino</td><td>Convidecia (Ad5.CoV2‑S)</td></tr>
+<tr><td>Sanofi Pasteur</td><td>VidPrevtyn Beta</td></tr>
 </table>
 
 - 3\.2.2
@@ -890,7 +891,7 @@ Anhang 2[^t-2]
 <table>
 <tr><th>Hersteller</th><th>Produktename(n)</th></tr>
 <tr><td>AstraZeneca</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
-<tr><td>Moderna</td><td>Spikevax (mRNA-1273) Spikevax Bivalent Original/Omicron BA.1</td></tr>
+<tr><td>Moderna</td><td>Spikevax (mRNA-1273) Spikevax Bivalent Original/Omicron BA.1 Spikevax Bivalent Original/Omicron BA.4-5</td></tr>
 <tr><td>Novavax</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
 <tr><td>Indian Council for Medical Research</td><td>Bharat Biotech Covaxin</td></tr>
 <tr><td>Pfizer/BioNTech</td><td>Comirnaty (BNT162b2) Comirnaty Bivalent Original/Omicron BA.1 Comirnaty Original/Omicron BA.4/5</td></tr>

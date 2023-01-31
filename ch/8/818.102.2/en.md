@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2023-01-01
+version: 2023-02-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230201/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230201-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 1 January 2023)
+of 4 June 2021 (Status as of 1 February 2023)
 
 The Swiss Federal Council,
 
@@ -816,7 +816,7 @@ Annex 2[^t-2]
 
 ## Special provisions concerning COVID-19 vaccination certificates
 
-[^t-2]: Amended by No I para. 1 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Revised by No II para. 1 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), No III of the O of 30 March 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) and No I of the FDHA O of 23 Sept. 2022, in force since 10 Oct. 2022 ([AS 2022 532](https://fedlex.data.admin.ch/eli/oc/2022/532)).
+[^t-2]: Amended by No I para. 1 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Revised by No II para. 1 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), No III of the O of 30 March 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)), No I of the FDHA O of 23 Sept. 2022 ([AS 2022 532](https://fedlex.data.admin.ch/eli/oc/2022/532)) and of 9 Jan. 2023, in force since1 Feb. 2023 ([AS 2023 13](https://fedlex.data.admin.ch/eli/oc/2023/13)).
 
 ### 1 Start of validity and maximum duration
 
@@ -870,6 +870,7 @@ Annex 2[^t-2]
 <tr><td>Manufacturer</td><td>Product name(s)</td></tr>
 <tr><td>Johnson&Johnson</td><td>Janssen COVID-19 vaccine</td></tr>
 <tr><td>CanSino</td><td>Convidecia (Ad5.CoV2‑S)</td></tr>
+<tr><td>Sanofi Pasteur</td><td>VidPrevtyn Beta</td></tr>
 </table>
 
 - 3\.2.2
@@ -893,6 +894,7 @@ Annex 2[^t-2]
 <tr><th>Manufacturer</th><th>Product name(s)</th></tr>
 <tr><td>AstraZeneca</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
 <tr><td>Moderna</td><td>Spikevax (mRNA-1273) Spikevax Bivalent Original/Omicron BA.1</td></tr>
+<tr><td></td><td>Spikevax Bivalent Original/Omicron BA.4-5</td></tr>
 <tr><td>Novavax</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
 <tr><td>Indian Council for Medical Research</td><td>Bharat Biotech Covaxin</td></tr>
 <tr><td>Pfizer/BioNTech</td><td>Comirnaty (BNT162b2) Comirnaty Bivalent Original/Omicron BA.1 Comirnaty Original/Omicron BA.4/5</td></tr>
