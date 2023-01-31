@@ -3,20 +3,19 @@ canton: OW
 number: "410.411"
 title: Reglement über die Anerkennung von Ausbildungsabschlüssen
 language: de
-version: 2022-02-01
-valid_until: 2023-01-31
-version_adopted: 2021-11-28
+version: 2023-02-01
+version_adopted: 2023-02-01
 adopted: 2007-12-11
 in_force: 2007-12-11
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.411"
-pdf: "http://gdb.ow.ch/api/de/versions/1539/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1788/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Anerkennung von Ausbildungsabschlüssen
 
-vom 11.12.2007 (Stand 01.02.2022)
+vom 11.12.2007 (Stand 01.02.2023)
 
 Das Bildungs- und Kulturdepartement des Kantons Obwalden,
 
@@ -45,13 +44,14 @@ beschliesst:
 - b. Bildungsverordnung Fachangestellte Gesundheit / Fachangestellter Gesundheit vom 6. Juni 2002;
 - c. Reglement der GDK für die interkantonale Prüfung von Osteopathinnen und Osteopathen in der Schweiz vom 23. November 2006, mit Änderungen vom 25. Oktober 2007, 6. November 2008, 22. November 2012 und 25. Mai 2018;
 - d. Verordnung der GDK über die Anerkennung und Nachprüfung von ausländischen Berufsqualifikationen in Osteopathie vom 22. November 2012;
-- e. Gebührenverordnung der GDK vom 6. Juli 2006, mit Änderung vom 7. März 2013 und Änderung vom 2. Juni 2016[^2-1];
+- e. Gebührenverordnung der GDK vom 6. Juli 2006, mit Änderung vom 7. März 2013, Änderung vom 2. Juni 2016[^2-1] und Änderung vom 26. Januar 2023[^2-2];
 - f. Reglements der GDK über die Gebühren für die interkantonale Prüfung der Osteopathinnen und Osteopathen vom 14. Februar 2008, mit Änderung vom 10. April 2014;
-- g. Verordnung zum Register über die Gesundheitsfachpersonen NAREG (NAREG-VO) vom 22. Oktober 2015[^2-2], mit Nachtrag vom 21. Oktober 2021[^2-3].
+- g. Verordnung zum Register über die Gesundheitsfachpersonen NAREG (NAREG-VO) vom 22. Oktober 2015[^2-3], mit Nachtrag vom 21. Oktober 2021[^2-4].
 
 [^2-1]: In Kaft getreten am 2. Juni 2016
-[^2-2]: In Kraft getreten am 1. Januar 2017
-[^2-3]: In Kraft getreten am 1. Februar 2022
+[^2-2]: In Kaft getreten am 1. Februar 2023
+[^2-3]: In Kraft getreten am 1. Januar 2017
+[^2-4]: In Kraft getreten am 1. Februar 2022
 
 #### Art. 3
 
@@ -114,6 +114,8 @@ geändert durch
 
 \- Nachtrag vom 25. Mai 2018, in Kraft seit 25. Mai 2018 (OGS 2018, 19),
 
-\- Nachtrag vom 18. November 2021, in Kraft seit 1. Februar 2022 (OGS 2021, 39)
+\- Nachtrag vom 18. November 2021, in Kraft seit 1. Februar 2022 (OGS 2021, 39),
+
+\- Nachtrag vom 1. Februar 2023, in Kraft seit 1. Februar 2023 (OGS 2023, 5)
 
 OGS 2007, 92
