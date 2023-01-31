@@ -3,11 +3,11 @@ sr: "0.732.11"
 title: Convenzione comune del 5 settembre 1997 sulla sicurezza dello smaltimento di combustibile esaurito e sulla sicurezza dello smaltimento di rifiuti radioattivi
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/12"
 language: it
-version: 2020-05-26
+version: 2023-02-01
 adopted: 1997-09-05
 in_force: 2001-06-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/12/20200526/it/xml/fedlex-data-admin-ch-eli-cc-2005-12-20200526-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/12/20200526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/12/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2005-12-20230201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/12/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera il 5 aprile 2000
 
 Entrata in vigore per la Svizzera il 18 giugno 2001
 
-(Stato 26 maggio 2020)
+(Stato 1° febbraio 2023)
 
 [^t-1]: [RU 2005 31](https://fedlex.data.admin.ch/eli/oc/2005/11)
 
@@ -628,7 +628,7 @@ L’originale della presente Convenzione, i cui testi in lingua araba, cinese, f
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a Vienna il 5 settembre 1997. *(Seguono le firme)*
 
-Campo d’applicazione il 26 maggio 2020**[^t-2]**
+Campo d’applicazione il 1° febbraio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -636,10 +636,10 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Arabia Saudita</td><td>19 settembre</td><td>2011 A</td><td>18 dicembre</td><td>2011</td></tr>
 <tr><td>Argentina</td><td>14 novembre</td><td>2000</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Armenia</td><td>22 maggio</td><td>2013 A</td><td>20 agosto</td><td>2013</td></tr>
-<tr><td>Australia</td><td>5 ottobre</td><td>2003</td><td>3 novembre</td><td>2003</td></tr>
+<tr><td>Australia</td><td>5 agosto</td><td>2003</td><td>3 novembre</td><td>2003</td></tr>
 <tr><td>Austria</td><td>13 giugno</td><td>2001</td><td>11 settembre</td><td>2001</td></tr>
 <tr><td>Belarus</td><td>26 novembre</td><td>2002</td><td>24 febbraio</td><td>2003</td></tr>
-<tr><td>Belgio</td><td>5 novembre</td><td>2002</td><td>4 dicembre</td><td>2002</td></tr>
+<tr><td>Belgio</td><td>5 settembre</td><td>2002</td><td>4 dicembre</td><td>2002</td></tr>
 <tr><td>Benin</td><td>18 settembre</td><td>2019 A</td><td>17 dicembre</td><td>2019</td></tr>
 <tr><td>Bolivia</td><td>16 settembre</td><td>2019 A</td><td>15 dicembre</td><td>2019</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>2 agosto</td><td>2012 A</td><td>31 ottobre</td><td>2012</td></tr>
@@ -652,10 +652,12 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Cina<sup>\*</sup> <sup>a</sup></td><td>13 settembre</td><td>2006 A</td><td>12 dicembre</td><td>2006</td></tr>
 <tr><td>Cipro</td><td>21 ottobre</td><td>2009 A</td><td>19 gennaio</td><td>2010</td></tr>
 <tr><td>Comunità Europea dell’Energia Atomica (CEEA/EURATOM)<sup>\*</sup></td><td>4 ottobre</td><td>2005 A</td><td>2 gennaio</td><td>2006</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>15 marzo</td><td>2021 A</td><td>13 giugno</td><td>2021</td></tr>
 <tr><td>Corea (Sud)</td><td>16 novembre</td><td>2002</td><td>15 dicembre</td><td>2002</td></tr>
 <tr><td>Croazia</td><td>10 maggio</td><td>1999</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Cuba</td><td>3 luglio</td><td>2017 A</td><td>1° ottobre</td><td>2017</td></tr>
 <tr><td>Danimarca<sup>\* b</sup></td><td>3 settembre</td><td>1999</td><td>18 giugno</td><td>2001</td></tr>
+<tr><td>Groenlandia</td><td>15 dicembre</td><td>2016</td><td>15 dicembre</td><td>2016</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>31 luglio</td><td>2009 A</td><td>29 ottobre</td><td>2009</td></tr>
 <tr><td>Eritrea\*</td><td>13 marzo</td><td>2020 A</td><td>11 giugno</td><td>2020</td></tr>
 <tr><td>Estonia</td><td>3 febbraio</td><td>2006</td><td>4 maggio</td><td>2006</td></tr>
@@ -666,7 +668,7 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Germania</td><td>13 ottobre</td><td>1998</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Ghana</td><td>1° giugno</td><td>2011 A</td><td>30 agosto</td><td>2011</td></tr>
 <tr><td>Giappone<sup>\*</sup></td><td>26 agosto</td><td>2003 A</td><td>24 novembre</td><td>2003</td></tr>
-<tr><td>Giordania</td><td>15 aprile</td><td>2016 A</td><td>17 luglio</td><td>2016</td></tr>
+<tr><td>Giordania</td><td>15 aprile</td><td>2016 A</td><td>14 luglio</td><td>2016</td></tr>
 <tr><td>Grecia</td><td>18 luglio</td><td>2000</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Indonesia</td><td>1° aprile</td><td>2011</td><td>30 giugno</td><td>2011</td></tr>
 <tr><td>Irlanda</td><td>20 marzo</td><td>2001</td><td>18 giugno</td><td>2001</td></tr>
@@ -680,6 +682,7 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Lussemburgo</td><td>21 agosto</td><td>2001</td><td>19 novembre</td><td>2001</td></tr>
 <tr><td>Macedonia del Nord</td><td>31 dicembre</td><td>2009 A</td><td>31 marzo</td><td>2010</td></tr>
 <tr><td>Madagascar</td><td>3 marzo</td><td>2017 A</td><td>1° giugno</td><td>2017</td></tr>
+<tr><td>Malawi</td><td>11 febbraio</td><td>2022 A</td><td>12 maggio</td><td>2022</td></tr>
 <tr><td>Malta</td><td>16 settembre</td><td>2013 A</td><td>15 dicembre</td><td>2013</td></tr>
 <tr><td>Marocco</td><td>23 luglio</td><td>1999</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Mauritania</td><td>19 settembre</td><td>2011 A</td><td>18 dicembre</td><td>2011</td></tr>
@@ -698,9 +701,11 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Portogallo</td><td>15 maggio</td><td>2009 A</td><td>13 agosto</td><td>2009</td></tr>
 <tr><td>Regno Unito</td><td>12 marzo</td><td>2001</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Romania</td><td>6 settembre</td><td>1999</td><td>18 giugno</td><td>2001</td></tr>
+<tr><td>Ruanda</td><td>23 settembre</td><td>2021 A</td><td>22 dicembre</td><td>2021</td></tr>
 <tr><td>Russia</td><td>19 gennaio</td><td>2006</td><td>19 aprile</td><td>2006</td></tr>
 <tr><td>Senegal</td><td>24 dicembre</td><td>2008 A</td><td>24 marzo</td><td>2009</td></tr>
 <tr><td>Serbia</td><td>18 dicembre</td><td>2017 A</td><td>18 marzo</td><td>2018</td></tr>
+<tr><td>Siria</td><td>25 novembre</td><td>2021 A</td><td>23 febbraio</td><td>2022</td></tr>
 <tr><td>Slovacchia</td><td>6 ottobre</td><td>1998</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Slovenia</td><td>25 febbraio</td><td>1999</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Spagna</td><td>11 maggio</td><td>1999</td><td>18 giugno</td><td>2001</td></tr>
@@ -713,12 +718,13 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Ucraina</td><td>24 luglio</td><td>2000</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Ungheria</td><td>2 giugno</td><td>1998</td><td>18 giugno</td><td>2001</td></tr>
 <tr><td>Uruguay</td><td>28 dicembre</td><td>2005 A</td><td>28 marzo</td><td>2006</td></tr>
-<tr><td>Uzbekistan</td><td>19 luglio</td><td>2009 A</td><td>19 aprile</td><td>2009</td></tr>
+<tr><td>Uzbekistan</td><td>19 gennaio</td><td>2009 A</td><td>19 aprile</td><td>2009</td></tr>
 <tr><td>Vietnam</td><td>9 ottobre</td><td>2013 A</td><td>7 gennaio</td><td>2014</td></tr>
+<tr><td>Zimbabwe</td><td>20 settembre</td><td>2021 A</td><td>19 dicembre</td><td>2021</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Non vale per la Regione amministrativa speciale (RAS) Macao della Repubblica Popolare Cinese.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Non vale per le Isole Färöer e la Groenlandia.</td></tr>
+<tr><td colspan="5"><sup>b</sup> La Conv. non si applica alle Isole Faroe.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2005 33](https://fedlex.data.admin.ch/eli/oc/2005/12), [2007 3935](https://fedlex.data.admin.ch/eli/oc/2007/524), [2010 1627](https://fedlex.data.admin.ch/eli/oc/2010/237), [2011 4905](https://fedlex.data.admin.ch/eli/oc/2011/701), [2014 125](https://fedlex.data.admin.ch/eli/oc/2014/14), [2016 4191](https://fedlex.data.admin.ch/eli/oc/2016/702), [2018 3009](https://fedlex.data.admin.ch/eli/oc/2018/466), [2020 2173](https://fedlex.data.admin.ch/eli/oc/2020/429). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2005 33](https://fedlex.data.admin.ch/eli/oc/2005/12); [2007 3935](https://fedlex.data.admin.ch/eli/oc/2007/524); [2010 1627](https://fedlex.data.admin.ch/eli/oc/2010/237); [2011 4905](https://fedlex.data.admin.ch/eli/oc/2011/701); [2014 125](https://fedlex.data.admin.ch/eli/oc/2014/14); [2016 4191](https://fedlex.data.admin.ch/eli/oc/2016/702); [2018 3009](https://fedlex.data.admin.ch/eli/oc/2018/466); [2020 2173](https://fedlex.data.admin.ch/eli/oc/2020/429); [2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.

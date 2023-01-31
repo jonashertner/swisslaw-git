@@ -3,11 +3,11 @@ sr: "0.732.11"
 title: Gemeinsames Übereinkommen vom 5. September 1997 über die Sicherheit der Behandlung abgebrannter Brennelemente und über die Sicherheit der Behandlung radioaktiver Abfälle
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/12"
 language: de
-version: 2020-05-26
+version: 2023-02-01
 adopted: 1997-09-05
 in_force: 2001-06-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/12/20200526/de/xml/fedlex-data-admin-ch-eli-cc-2005-12-20200526-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/12/20200526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/12/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2005-12-20230201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/12/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,13 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/12/20200526/de"
 
 AS **2005** 33; BBl **1999** 4409
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 Abgeschlossen in Wien am 5. September 1997
 
 Von der Bundesversammlung genehmigt am 14. Dezember 1999[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 5. April 2000 In Kraft getreten für die Schweiz am 18. Juni 2001
 
-(Stand am 26. Mai 2020)
+(Stand am 1. Februar 2023)
 
 [^t-1]: Zwischen Deutschland, Österreich und der Schweiz abgestimmte Übersetzung auf der Basis des englischen und des französischen Originaltextes.
 [^t-2]: [AS 2005 31](https://fedlex.data.admin.ch/eli/oc/2005/11)
@@ -604,16 +604,16 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die Unterzeichner, die hierzu gebührend bevollmächtigt sind, das vorliegende Übereinkommen unterzeichnet. Geschehen zu Wien, am 5. September 1997. (Es folgen die Unterschriften)
 
-Geltungsbereich am 26. Mai 2020**[^t-3]**
+Geltungsbereich am 1. Februar 2023[^t-3]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td colspan="2">Albanien</td><td colspan="2">29. Juni</td><td colspan="2">2011 B</td><td>27. September</td><td>2011</td></tr>
 <tr><td colspan="2">Argentinien</td><td colspan="2">14. November</td><td colspan="2">2000</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Armenien</td><td colspan="2">22. Mai</td><td colspan="2">2013 B</td><td>20. August</td><td>2013</td></tr>
-<tr><td colspan="2">Australien</td><td colspan="2">5. Oktober</td><td colspan="2">2003</td><td>3. November</td><td>2003</td></tr>
+<tr><td colspan="2">Australien</td><td colspan="2">5. August</td><td colspan="2">2003</td><td>3. November</td><td>2003</td></tr>
 <tr><td colspan="2">Belarus</td><td colspan="2">26. November</td><td colspan="2">2002</td><td>24. Februar</td><td>2003</td></tr>
-<tr><td colspan="2">Belgien</td><td colspan="2">5. November</td><td colspan="2">2002</td><td>4. Dezember</td><td>2002</td></tr>
+<tr><td colspan="2">Belgien</td><td colspan="2">5. September</td><td colspan="2">2002</td><td>4. Dezember</td><td>2002</td></tr>
 <tr><td colspan="2">Benin</td><td colspan="2">18. September</td><td colspan="2">2019 B</td><td>17. Dezember</td><td>2019</td></tr>
 <tr><td colspan="2">Bolivien</td><td colspan="2">16. September</td><td colspan="2">2019 B</td><td>15. Dezember</td><td>2019</td></tr>
 <tr><td colspan="2">Bosnien und Herzegowina</td><td colspan="2">2. August</td><td colspan="2">2012 B</td><td>31. Oktober</td><td>2012</td></tr>
@@ -623,6 +623,7 @@ Geltungsbereich am 26. Mai 2020**[^t-3]**
 <tr><td colspan="2">Chile</td><td colspan="2">26. September</td><td colspan="2">2011 B</td><td>25. Dezember</td><td>2011</td></tr>
 <tr><td colspan="2">China\* <sup>a</sup></td><td colspan="2">13. September</td><td colspan="2">2006 B</td><td>12. Dezember</td><td>2006</td></tr>
 <tr><td colspan="2">Dänemark <sup>b</sup></td><td colspan="2">3. September</td><td colspan="2">1999</td><td>18. Juni</td><td>2001</td></tr>
+<tr><td colspan="2">Grönland</td><td colspan="2">15. Dezember</td><td colspan="2">2016</td><td>15. Dezember</td><td>2016</td></tr>
 <tr><td colspan="2">Deutschland</td><td colspan="2">13. Oktober</td><td colspan="2">1998</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Eritrea\*</td><td colspan="2">13. März</td><td colspan="2">2020 B</td><td>11. Juni</td><td>2020</td></tr>
 <tr><td colspan="2">Estland</td><td colspan="2">3. Februar</td><td colspan="2">2006</td><td>4. Mai</td><td>2006</td></tr>
@@ -638,10 +639,11 @@ Geltungsbereich am 26. Mai 2020**[^t-3]**
 <tr><td colspan="2">Island</td><td colspan="2">27. Januar</td><td colspan="2">2006 B</td><td>27. April</td><td>2006</td></tr>
 <tr><td colspan="2">Italien</td><td colspan="2">8. Februar</td><td colspan="2">2006</td><td>9. Mai</td><td>2006</td></tr>
 <tr><td colspan="2">Japan\*</td><td colspan="2">26. August</td><td colspan="2">2003 B</td><td>24. November</td><td>2003</td></tr>
-<tr><td colspan="2">Jordanien</td><td colspan="2">15. April</td><td colspan="2">2016 B</td><td>17. Juli</td><td>2016</td></tr>
+<tr><td colspan="2">Jordanien</td><td colspan="2">15. April</td><td colspan="2">2016 B</td><td>14. Juli</td><td>2016</td></tr>
 <tr><td colspan="2">Kanada</td><td colspan="2">7. Mai</td><td colspan="2">1998</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Kasachstan</td><td colspan="2">10. März</td><td colspan="2">2010</td><td>8. Juni</td><td>2010</td></tr>
 <tr><td colspan="2">Kirgisistan</td><td colspan="2">18. Dezember</td><td colspan="2">2006 B</td><td>18. März</td><td>2007</td></tr>
+<tr><td colspan="2">Kongo (Kinshasa)</td><td colspan="2">15. März</td><td colspan="2">2021 B</td><td>13. Juni</td><td>2021</td></tr>
 <tr><td colspan="2">Korea (Süd-)</td><td colspan="2">16. November</td><td colspan="2">2002</td><td>15. Dezember</td><td>2002</td></tr>
 <tr><td colspan="2">Kroatien</td><td colspan="2">10. Mai</td><td colspan="2">1999</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Kuba</td><td colspan="2">3. Juli</td><td colspan="2">2017 B</td><td>1. Oktober</td><td>2017</td></tr>
@@ -650,6 +652,7 @@ Geltungsbereich am 26. Mai 2020**[^t-3]**
 <tr><td colspan="2">Litauen</td><td colspan="2">16. März</td><td colspan="2">2004</td><td>14. Juni</td><td>2004</td></tr>
 <tr><td colspan="2">Luxemburg</td><td colspan="2">21. August</td><td colspan="2">2001</td><td>19. November</td><td>2001</td></tr>
 <tr><td colspan="2">Madagaskar</td><td colspan="2">3. März</td><td colspan="2">2017 B</td><td>1. Juni</td><td>2017</td></tr>
+<tr><td colspan="2">Malawi</td><td colspan="2">11. Februar</td><td colspan="2">2022 B</td><td>12. Mai</td><td>2022</td></tr>
 <tr><td colspan="2">Malta</td><td colspan="2">16. September</td><td colspan="2">2013 B</td><td>15. Dezember</td><td>2013</td></tr>
 <tr><td colspan="2">Marokko</td><td colspan="2">23. Juli</td><td colspan="2">1999</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Mauretanien</td><td colspan="2">19. September</td><td colspan="2">2011 B</td><td>18. Dezember</td><td>2011</td></tr>
@@ -668,6 +671,7 @@ Geltungsbereich am 26. Mai 2020**[^t-3]**
 <tr><td colspan="2">Peru</td><td colspan="2">8. Februar</td><td colspan="2">2016</td><td>8. Mai</td><td>2016</td></tr>
 <tr><td colspan="2">Polen</td><td colspan="2">5. Mai</td><td colspan="2">2000</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Portugal</td><td colspan="2">15. Mai</td><td colspan="2">2009 B</td><td>13. August</td><td>2009</td></tr>
+<tr><td colspan="2">Ruanda</td><td colspan="2">23. September</td><td colspan="2">2021 B</td><td>22. Dezember</td><td>2021</td></tr>
 <tr><td colspan="2">Rumänien</td><td colspan="2">6. September</td><td colspan="2">1999</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Russland</td><td colspan="2">19. Januar</td><td colspan="2">2006</td><td>19. April</td><td>2006</td></tr>
 <tr><td colspan="2">Saudi-Arabien</td><td colspan="2">19. September</td><td colspan="2">2011 B</td><td>18. Dezember</td><td>2011</td></tr>
@@ -675,17 +679,19 @@ Geltungsbereich am 26. Mai 2020**[^t-3]**
 <tr><td colspan="2">Schweiz</td><td colspan="2">5. April</td><td colspan="2">2000</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Senegal</td><td colspan="2">24. Dezember</td><td colspan="2">2008 B</td><td>24. März</td><td>2009</td></tr>
 <tr><td colspan="2">Serbien</td><td colspan="2">18. Dezember</td><td colspan="2">2017 B</td><td>18. März</td><td>2018</td></tr>
+<tr><td colspan="2">Simbabwe</td><td colspan="2">20. September</td><td colspan="2">2021 B</td><td>19. Dezember</td><td>2021</td></tr>
 <tr><td colspan="2">Slowakei</td><td colspan="2">6. Oktober</td><td colspan="2">1998</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Slowenien</td><td colspan="2">25. Februar</td><td colspan="2">1999</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Spanien</td><td colspan="2">11. Mai</td><td colspan="2">1999</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Südafrika</td><td colspan="2">15. November</td><td colspan="2">2006 B</td><td>13. Februar</td><td>2007</td></tr>
 <tr><td colspan="2">Tadschikistan</td><td colspan="2">12. Dezember</td><td colspan="2">2007 B</td><td>11. März</td><td>2008</td></tr>
+<tr><td colspan="2">Syrien</td><td colspan="2">25. November</td><td colspan="2">2021 B</td><td>23. Februar</td><td>2022</td></tr>
 <tr><td colspan="2">Thailand</td><td colspan="2">3. Juli</td><td colspan="2">2018 B</td><td>1. Oktober</td><td>2018</td></tr>
 <tr><td colspan="2">Tschechische Republik</td><td colspan="2">25. März</td><td colspan="2">1999</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Ukraine</td><td colspan="2">24. Juli</td><td colspan="2">2000</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Ungarn</td><td colspan="2">2. Juni</td><td colspan="2">1998</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Uruguay</td><td colspan="2">28. Dezember</td><td colspan="2">2005 B</td><td>28. März</td><td>2006</td></tr>
-<tr><td colspan="2">Usbekistan</td><td colspan="2">19. Juli</td><td colspan="2">2009 B</td><td>19. April</td><td>2009</td></tr>
+<tr><td colspan="2">Usbekistan</td><td colspan="2">19. Januar</td><td colspan="2">2009 B</td><td>19. April</td><td>2009</td></tr>
 <tr><td colspan="2">Vereinigte Arabische Emirate</td><td colspan="2">31. Juli</td><td colspan="2">2009 B</td><td>29. Oktober</td><td>2009</td></tr>
 <tr><td colspan="2">Vereinigte Staaten</td><td colspan="2">15. April</td><td colspan="2">2003</td><td>14. Juli</td><td>2003</td></tr>
 <tr><td colspan="2">Vereinigtes Königreich</td><td colspan="2">12. März</td><td colspan="2">2001</td><td>18. Juni</td><td>2001</td></tr>
@@ -694,8 +700,8 @@ Geltungsbereich am 26. Mai 2020**[^t-3]**
 <tr><td colspan="8">\* Vorbehalte und Erklärungen.</td></tr>
 <tr><td colspan="8">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): www.iaea.org/ &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="8"><sup>a</sup> Das Übereinkommen gilt nicht für die Besondere Verwaltungsregion (SAR) Macau der Volksrepublik China</td></tr>
-<tr><td colspan="8"><sup>b</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.</td></tr>
+<tr><td colspan="8"><sup>b</sup> Das Übereinkommen gilt nicht für die Färöer.</td></tr>
 <tr><td colspan="8"><sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2005 33](https://fedlex.data.admin.ch/eli/oc/2005/12), [2007 3935](https://fedlex.data.admin.ch/eli/oc/2007/524), [2010 1627](https://fedlex.data.admin.ch/eli/oc/2010/237), [2011 4905](https://fedlex.data.admin.ch/eli/oc/2011/701), [2014 125](https://fedlex.data.admin.ch/eli/oc/2014/14), [2016 4191](https://fedlex.data.admin.ch/eli/oc/2016/702), [2018 3009](https://fedlex.data.admin.ch/eli/oc/2018/466), [2020 2173](https://fedlex.data.admin.ch/eli/oc/2020/429). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2005 33](https://fedlex.data.admin.ch/eli/oc/2005/12); [2007 3935](https://fedlex.data.admin.ch/eli/oc/2007/524); [2010 1627](https://fedlex.data.admin.ch/eli/oc/2010/237); [2011 4905](https://fedlex.data.admin.ch/eli/oc/2011/701); [2014 125](https://fedlex.data.admin.ch/eli/oc/2014/14); [2016 4191](https://fedlex.data.admin.ch/eli/oc/2016/702); [2018 3009](https://fedlex.data.admin.ch/eli/oc/2018/466); [2020 2173](https://fedlex.data.admin.ch/eli/oc/2020/429); [2023 51](https://fedlex.data.admin.ch/eli/oc/2023/51). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
