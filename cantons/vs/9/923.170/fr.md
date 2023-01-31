@@ -3,20 +3,20 @@ canton: VS
 number: "923.170"
 title: "Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2019-2023"
 language: fr
-version: 2021-01-01
-valid_until: 2023-01-31
-version_adopted: 2020-11-18
+version: 2023-02-01
+valid_until: 2024-02-20
+version_adopted: 2023-02-08
 adopted: 2024-02-21
 in_force: 2024-02-21
 url: "https://lex.vs.ch/app/fr/texts_of_law/923.170"
-pdf: "https://lex.vs.ch/api/fr/versions/2747/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3167/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2019-2023
 
-du 28.11.2018 (état 01.01.2021)
+du 28.11.2018 (état 01.02.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -38,7 +38,13 @@ arrête:
 
 **Définition**
 
-<sup>1</sup> Les plans et cours d'eau ouverts à la pêche sont énumérés ci-après et reportés sur une carte; en cas de divergence entre la carte et le texte, ce dernier l'emporte.
+<sup>1</sup> Les plans et cours d'eau ouverts à la pêche sont énumérés ci-après et reportés sur une carte interactive (ci-après: carte de pêche).
+
+<sup>2</sup> La carte de pêche du service, sur la base de la carte 1:25'000, comporte les différentes couches relatives aux périmètres et éléments en lien avec la pratique de la pêche.
+
+<sup>3</sup> Sur la carte de pêche, les périmètres et tronçons suivent des éléments marquants du paysage (routes, chemins, cours d'eau, etc.). En l’absence d'une délimitation visible, ces limites sont signalées par un balisage dans le terrain.
+
+<sup>4</sup> En cas de divergence entre le texte de la décision et la carte de pêche, cette dernière l'emporte.
 
 #### Art. 2
 
@@ -49,7 +55,7 @@ arrête:
 - a) le Rhône, du Léman au pont sur le Rhône à Massaboden ("Schwarze Brücke");
 - b) le Kelchbach, du pont de la Blattenstrasse à Naters au pont de Moos;
 - c) le Mundbach, en aval de la ligne du Lötschberg;
-- d) la Saltina, en aval du pont de Napoléon;
+- d) la Saltina, en aval de la centrale de Grindji;
 - e) le Bietschbach, en aval de la ligne du Lötschberg;
 - f) le Baltschiederbach, en aval de la ligne du Lötschberg;
 - g) le Jolibach, en aval de la ligne du Lötschberg;
@@ -171,7 +177,7 @@ arrête:
 - b) district de Brigue:
   - 1\. le Riedbach, sur les communes de Brigue et Ried-Brigue,
   - 2\. la Saltina, de la centrale de Grindji à l'entrée des gorges, seule la pratique de la pêche à la mouche est autorisée,
-  - 3\. le Kelchbach, de la confluence avec le Rhône au pont de Blattenstrasse à Naters,
+  - 3\. le Kelchbach, de la confluence avec le Rhône à l'entrée des gorges en amont de Schloss,
   - 4\. le Bruchji, de la confluence avec le Kelchbach à Wiichje;
 - c) district de Viège:
   - 1\. la Vispa, de l’entrée de Saas-Almagell (confluence avec le Leebach) jusqu’au barrage de Mattmark, seuls les leurres artificiels sont autorisés;
@@ -182,17 +188,19 @@ arrête:
   - 1\. la Turtmänna, de la prise d’eau de Hübschweidi au pont de Zer Tänt, seule la pratique de la pêche à la mouche est autorisée;
 - f) district de Sierre:
   - 1\. la Navizence, de l’embouchure du torrent de Pinsec au bassin d’accumulation de Vissoie,
-  - 2\. le Torrent de Pinsec;
+  - 2\. le Torrent de Pinsec,
+  - 3\. la Lienne, du pont de Saint-Gérard au pont des Hombes;
 - g) district de Sion:
   - 1\. le Torrent de Drône;
 - h) district de Conthey:
   - 1\. la Printse, de la fin de la plaine de Siviez jusqu’au barrage de Cleuson, sans la Printse de Tortin;
 - i) district d’Entremont:
   - 1\. le Torrent de Bruson et torrent la Dransette (Le Pessot) à Lourtier, sur la totalité des parcours,
-  - 2\. les torrents en amont du lac de Champex jusqu’à la route du Lac, en amont du dépotoir,
-  - 3\. le secteur des gouilles de la Bierle, en rive droite du Trient, de la confluence avec le Trient jusqu'à la source;
+  - 2\. les torrents en amont du lac de Champex jusqu’à la route du Lac, en amont du dépotoir;
+  - 3\. …
 - j) district de Martigny:
-  - 1\. les deux torrents du Mont aboutissant au canal de Sarvaz-Gru;
+  - 1\. les deux torrents du Mont aboutissant au canal de Sarvaz-Gru,
+  - 2\. le secteur des gouilles de la Bierle, en rive droite du Trient, de la confluence avec le Trient jusqu'à la source;
 - k) district de Monthey:
   - 1\. le Nant de Choëx, de l’embouchure de la Vièze jusqu’à la grande chute contre le mont.
 
@@ -216,7 +224,7 @@ arrête:
 - d) district de Sierre:
   - 1\. le canal de Crêtelongue du pont du Robinson à l’embouchure de la Rèche,
   - 2\. le canal de Granges dans les marais de Pouta-Fontana (réserve voir affiche),
-  - 3\. le canal en aval de la pisciculture de Sierre,
+  - 3\. le canal alimentant la pisciculture de Sierre,
   - 4\. l’ancien lit de la Raspille à proximité du Rhône,
   - 5\. le canal du Milieu en amont de l’exutoire de la STEP à Granges;
 - e) district de Sion:
@@ -258,7 +266,13 @@ arrête:
 
 **Lacs de montagne et gouilles**
 
-<sup>1</sup> Les plans d’eau non mentionnés aux articles 4 et 5 sont considérés comme des réserves, à moins qu’ils ne soient affermés, et sont soumis à la régale de la pêche.
+<sup>1</sup> Les plans d’eau non mentionnés aux articles 4 et 5 sont considérés comme des réserves, à moins qu’ils ne soient affermés, et de ce fait, soumis à la régale de la pêche.
+
+<sup>2</sup> Les lacs de montagne et les gouilles de plaine en statut de protection particulier, lié à la loi sur la protection de la nature (LPN), constituent des réserves de pêche:
+
+- a) le site de Derborence,
+- b) la gouille des Epines,
+- c) les Etangs de Pouta-Fontana.
 
 #### Art. 11
 
@@ -286,9 +300,9 @@ arrête:
 
 #### Art. 14
 
-**Délivrance**
+**Délivrance des permis**
 
-<sup>1</sup> Les permis canaux sont délivrés par les sections de la FCVPA. Les permis valables pour les autres eaux cantonales sont délivrés par le service ou pour les permis journaliers et deux jours par la FCVPA. Les modalités de délivrance ainsi que les points de vente sont disponibles sur les sites Internet du service et de la FCVPA.
+<sup>1</sup> Les permis canaux sont délivrés par les sections de la Fédération cantonale valaisanne des pêcheurs amateurs (ci-après: FCVPA). Les permis valables pour les autres eaux cantonales sont délivrés par le service ou pour les permis journaliers et deux jours par la FCVPA. Les modalités de délivrance ainsi que les points de vente sont disponibles sur les sites Internet du service et de la FCVPA.
 
 #### Art. 15
 
@@ -341,9 +355,9 @@ arrête:
 
 #### Art. 17
 
-**Supplément pour les non-membres d'une société**
+**Supplément pour les non-membres**
 
-<sup>1</sup> La pêcheuse ou le pêcheur, quel que soit son domicile, non membre d’une section de pêche affiliée à la Fédération cantonale valaisanne des pêcheurs amateurs (FCVPA), est tenu-e de verser un supplément de 80 francs par permis annuel et de 40 francs par permis mi-mensuel en compensation du travail de repeuplement effectué par les sections et de leur collaboration avec l’Etat pour la pratique de la pêche dans le canton. Ce supplément est ristourné à la FCVPA.
+<sup>1</sup> La pêcheuse ou le pêcheur, quel que soit son domicile, non membre d’une section de pêche affiliée à la FCVPA, est tenu-e de verser un supplément de 80 francs par permis annuel et de 40 francs par permis mi-mensuel en compensation du travail de repeuplement effectué par les sections et de leur collaboration avec l’Etat pour la pratique de la pêche dans le canton. Ce supplément est ristourné à la FCVPA.
 
 #### Art. 18
 

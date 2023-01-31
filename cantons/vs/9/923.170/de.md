@@ -3,20 +3,20 @@ canton: VS
 number: "923.170"
 title: 5-Jahres-Beschluss über die Ausübung der Fischerei im Wallis für die Jahre 2019-2023
 language: de
-version: 2021-01-01
-valid_until: 2023-01-31
-version_adopted: 2020-11-18
+version: 2023-02-01
+valid_until: 2024-02-20
+version_adopted: 2023-02-08
 adopted: 2024-02-21
 in_force: 2024-02-21
 url: "https://lex.vs.ch/app/de/texts_of_law/923.170"
-pdf: "https://lex.vs.ch/api/de/versions/2747/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3167/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # 5-Jahres-Beschluss über die Ausübung der Fischerei im Wallis für die Jahre 2019-2023
 
-vom 28.11.2018 (Stand 01.01.2021)
+vom 28.11.2018 (Stand 01.02.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -38,7 +38,13 @@ beschliesst:
 
 **Begriffsbestimmung**
 
-<sup>1</sup> Die nachstehend auf der Fischereikarte eingetragenen Gewässer sind für die Fischerei geöffnet. Bei Nichtübereinstimmung zwischen dem Text des Beschlusses und der Fischereikarte ist der Text massgebend.
+<sup>1</sup> Die nachstehend auf einer interaktiven Fischereikarte (nachfolgend: Fischereikarte) eingetragenen Gewässer sind für die Fischerei geöffnet.
+
+<sup>2</sup> Die Fischereikarte der Dienststelle basiert auf der 1:25'000 Karte und enthält verschiedene Layer zum Perimeter und anderen Elementen bezüglich der Fischerei.
+
+<sup>3</sup> Auf der Fischereikarte folgen die Perimeter und Strecke der Banngebiete markanten Landschaftsmerkmalen (Strassen, Wege, Wasserläufe usw.). Ist keine sichtbare Grenze vorhanden, werden die Grenzen durch Markierungen vor Ort angegeben.
+
+<sup>4</sup> Bei Nichtübereinstimmung zwischen dem Text des Beschlusses und der Fischereikarte ist die Fischereikarte massgebend.
 
 #### Art. 2
 
@@ -49,7 +55,7 @@ beschliesst:
 - a) die Rhone, vom Genfersee bis zur Brücke über die Rhone beim Massaboden ("Schwarze Brücke");
 - b) Kelchbach, von der Brücke der Blattenstrasse in Naters bis zur Moosbrücke;
 - c) Mundbach, von der Lötschberglinie abwärts;
-- d) Saltina, von der Napoleonsbrücke abwärts;
+- d) Saltina, vom Kraftwerk im Grindji abwärts;
 - e) Bietschbach, von der Lötschberglinie abwärts;
 - f) Baltschiederbach, von der Lötschberglinie abwärts;
 - g) Jolibach, von der Lötschberglinie abwärts;
@@ -169,7 +175,7 @@ beschliesst:
 - b) Bezirk Brig:
   - 1\. der Riedbach, auf Gebiet der Gemeinden Brig und Ried-Brig,
   - 2\. die Saltina, vom Kraftwerk im Grindji bis zum Eingang der Saltinaschlucht, ist nur die Fliegenfischerei erlaubt,
-  - 3\. der Kelchbach, von der Rottenmündung bis zur Brücke der Blattenstrasse in Naters,
+  - 3\. der Kelchbach, von der Rottenmündung bis zum Eingang der Schlucht oberhalb Schloss,
   - 4\. vom Zusammenfluss des Bruchji mit dem Kelchbach bis Wiichje;
 - c) Bezirk Visp:
   - 1\. vom Zusammenfluss der Vispa mit dem Leebach eingangs von Saas-Almagell bis zum Stausee-Mattmark sind nur künstliche Köder erlaubt;
@@ -180,17 +186,19 @@ beschliesst:
   - 1\. Turtmänna, von der Wasserfassung Hübschweidi bis zur Brücke Zer Tänt, ist nur die Fliegenfischerei erlaubt;
 - f) Bezirk Siders:
   - 1\. Navizence, von der Einmündung des Baches Pinsec bis zum Ausgleichbecken von Vissoie,
-  - 2\. Torrent de Pinsec;
+  - 2\. Torrent de Pinsec,
+  - 3\. Lienne, von der Brücke im Saint-Gérard bis zur Brücke "Les Hombes";
 - g) Bezirk Sitten:
   - 1\. Bach von Drône;
 - h) Bezirk Conthey:
   - 1\. Printse, vom Ende der Ebene von Siviez bis zum Stausee Cleuson, ohne die Printse von Tortin;
 - i) Bezirk Entremont:
   - 1\. die Bäche von Bruson und Dransette (Le Pessot) in Lourtier, auf der ganzen Länge,
-  - 2\. die Bäche, vom Champexsee aufwärts bis zur "route du Lac" oberhalb des Kiesfangs,
-  - 3\. das Gebiet der Teiche von Bierle, auf dem rechten Ufer des Trients, vom Zusammenfluss mit dem Trient bis zur Wasserquelle;
+  - 2\. die Bäche, vom Champexsee aufwärts bis zur "route du Lac" oberhalb des Kiesfangs;
+  - 3\. …
 - j) Bezirk Martinach:
-  - 1\. die zwei Bäche von Mont, die in den Sarvaz-Grukanal einmünden;
+  - 1\. die zwei Bäche von Mont, die in den Sarvaz-Grukanal einmünden,
+  - 2\. das Gebiet der Teiche von Bierle, auf dem rechten Ufer der Trient, vom Zusammenfluss mit der Trient bis zur Wasserquelle;
 - k) Bezirk Monthey:
   - 1\. Nant de Choex, von der Einmündung in die Vièze bis zum Wasserfall im Berghang oberhalb der Kantonsstrasse.
 
@@ -214,7 +222,7 @@ beschliesst:
 - d) Bezirk Siders:
   - 1\. der Kanal von Crêtelongue von der Robinsonbrücke bis zur Mündung der Rèche,
   - 2\. der Kanal von Granges und die Sümpfe von Pouta Fontanaz (siehe Hinweistafel),
-  - 3\. der Kanal unterhalb der Aufzuchtanlage der Fischereisektion Siders,
+  - 3\. der Kanal, welcher die Fischzucht der Fischereisektion Siders speist,
   - 4\. das alte Bachbett der Raspille, neben der Rhone,
   - 5\. der Kanal du Milieu; von der Einmündung des Wassers der ARA Granges aufwärts;
 - e) Bezirk Sitten:
@@ -258,6 +266,12 @@ beschliesst:
 
 <sup>1</sup> Die Bergseen und Teiche, die im Artikel 4 und 5 nicht aufgeführt sind, gelten als Reservate, sofern sie nicht verpachtet sind und dem kantonalen Regal unterstehen.
 
+<sup>2</sup> Bergseen und Teiche der Rhoneebene mit einem besonderen Schutzstatus, der mit dem Naturschutzgesetz (NSG) verbunden ist, bilden Fischereireservate:
+
+- a) das Gebiet von Derborence;
+- b) der Teiche "les Epines";
+- c) die Teiche von "Pouta-Fontana".
+
 #### Art. 11
 
 **Werke für die Fischwanderung**
@@ -286,7 +300,7 @@ beschliesst:
 
 **Patentausgabe**
 
-<sup>1</sup> Die Kanalpatente werden durch die Sektionen des WKSFV ausgestellt. Die Patente für die anderen kantonalen Gewässer werden von der Dienststelle oder für Tages- und Zweitagespatente auch vom WKSFV ausgestellt. Die Ausgabemodalitäten sowie die Ausgabestellen werden via Internetseite der Dienststelle und des WKSFV bekannt gemacht.
+<sup>1</sup> Die Kanalpatente werden durch die Sektionen des Walliser Kantonalen Sportfischer-Verbands (nachfolgend: WKSFV) ausgestellt. Die Patente für die anderen kantonalen Gewässer werden von der Dienststelle oder für Tages- und Zweitagespatente auch vom WKSFV ausgestellt. Die Ausgabemodalitäten sowie die Ausgabestellen werden via Internetseite der Dienststelle und des WKSFV bekannt gemacht.
 
 #### Art. 15
 
@@ -341,7 +355,7 @@ beschliesst:
 
 **Zusatzgebühr für Nichtmitglieder**
 
-<sup>1</sup> Für die im Wallis wohnsässigen Fischerinnen und Fischer, die nicht einer dem Walliser Fischereiverband angeschlossenen Fischersektion angehören sowie für die nicht dem kantonalen Fischereiverband angeschlossenen Fischereisektionen wird für das Jahrespatent eine zusätzliche Gebühr von 80 Franken und für die Halbmonatspatente eine solche von 40 Franken berechnet. Diese Gebühren dienen als Ausgleich für die von den Sektionen ausgeführten Wiederbevölkerungsarbeiten und ihrer Zusammenarbeit mit dem Staat in Fischereibelangen. Diese Gebühren werden dem WKSFV überwiesen.
+<sup>1</sup> Für Fischerinnen und Fischer, unabhängig des Wohnsitzes, die nicht einer Fischersektion angehören welche dem WKSFV angeschlossenen ist, wird für das Jahrespatent eine zusätzliche Gebühr von 80 Franken und für die Halbmonatspatente eine solche von 40 Franken berechnet. Diese Gebühren dienen als Ausgleich für die von den Sektionen ausgeführten Wiederbevölkerungsarbeiten und ihrer Zusammenarbeit mit dem Kanton in Fischereibelangen. Diese Gebühren werden dem WKSFV überwiesen.
 
 #### Art. 18
 
