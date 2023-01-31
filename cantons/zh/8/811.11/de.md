@@ -4,11 +4,11 @@ number: "811.11"
 title: Verordnung über die universitären Medizinalberufe (MedBV)
 short: MedBV
 language: de
-version: "2021-11-05"
-nachtrag: "115"
-valid_until: 2023-02-01
+version: "2023-02-01"
+nachtrag: "120"
+valid_until: 2025-01-01
 adopted: 2008-05-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-811_11-2008_05_28-2008_07_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-811_11-2008_05_28-2008_07_01-120.html"
 text: pdf
 ---
 
@@ -67,7 +67,7 @@ Die Bewilligung wird jeweils für die Dauer von zehn Jahren erteilt, jedoch län
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 23 - 120
 
 ### B. Vertretung
 
@@ -157,7 +157,7 @@ Die Bewilligung wird jeweils für die Dauer von zehn Jahren erteilt, jedoch län
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Praktikantinnen und Praktikanten im Sinne von § 7 dürfen nur unter ständiger Aufsicht einer universitären Medizinalperson Tätigkeiten im Sinne von § 3 GesG[^9-1] vornehmen.
 
@@ -253,7 +253,7 @@ Die selbstständig tätige Person meldet der zuständigen Stelle schriftlich:
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 23 - 120
 
 - e. die Meldung von Neueröffnung, Verlegung und Schliessung von Standorten,
 
@@ -347,9 +347,9 @@ Für die Beschäftigung von Chiropraktorinnen und Chiropraktoren in Spitälern, 
 
 **7**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 23 - 120
 
-<sup>3</sup> Sie sind im Rahmen ihrer Berufsausübung zur Anwendung von verschreibungspflichtigen und nicht verschreibungspflichtigen Arzneimitteln berechtigt. Mit Bewilligung der Gesundheitsdirektion sind sie befugt, ohne ärztliche Verschreibung an Personen ab 16 Jahren folgende Impfungen vorzunehmen:
+<sup>3</sup> Sie sind im Rahmen ihrer Berufsausübung zur Anwendung von verschreibungspflichtigen und nicht verschreibungspflichtigen Arzneimitteln berechtigt. Mit Bewilligung der Gesundheitsdirektion sind sie befugt, ohne ärztliche Verschreibung folgende Impfungen mit Totimpfstoffen vorzunehmen:
 
 - a. Impfung gegen Grippe,
 
@@ -357,27 +357,32 @@ Für die Beschäftigung von Chiropraktorinnen und Chiropraktoren in Spitälern, 
 
 - c. Impfung gegen Hepatitis A und B,
 
-- d. Impfung gegen Diphtherie, Tetanus, Pertussis und Poliomyelitis, e.[^h4AbschnittApothe-2] Impfung gegen Covid-19.
+- d. Impfung gegen Diphtherie, Tetanus, Pertussis und Poliomyelitis, e.[^h4AbschnittApothe-2] Impfung gegen Covid-19,
 
-<sup>4</sup> Impfungen durch Apothekerinnen und Apotheker sind unzulässig bei Vorliegen einer a. Kontraindikation,
+- f. Impfung gegen Gürtelrose (Herpes Zoster), bei Personen ab 65 Jahren.
 
-- b. Schwangerschaft,
+<sup>4</sup> Impfungen durch Apothekerinnen und Apotheker sind unzulässig bei a. Kontraindikation,
+
+- b. Schwangerschaft, ausser bei Impfungen aufgrund ärztlicher Verschreibung,
 
 - c. Immunschwäche,
 
-- d. Autoimmunkrankheit.
+- d. Autoimmunkrankheit,
+
+- e. Personen unter 16 Jahren.
 
 <sup>5</sup> Die Bewilligung nach Abs. 3 Satz 2 wird Apothekerinnen und Apothekern erteilt, die über eine genügende fachliche Aus- oder Weiterbildung verfügen.
 
-<sup>6</sup> Apothekerinnen und Apotheker können Pharma-Assistentinnen und Pharma-Assistenten sowie Fachfrauen und Fachmänner Apotheke für das Aufziehen und die Injektion des Impfstoffs beiziehen, wenn die beigezogenen Personen über eine entsprechende Aus- oder Weiterbildung verfügen. Die beigezogenen Personen handeln unter Aufsicht und in Verantwortung der Apothekerin oder des Apothekers.[^h4AbschnittApothe-3]
+<sup>6</sup> Apothekerinnen und Apotheker können für das Aufziehen und die Injektion des Impfstoffs Personen mit Berufen aus dem Gesundheitswesen mit entsprechender Aus- oder Weiterbildung beiziehen. Die beigezogenen Personen handeln unter Aufsicht und in Verantwortung der Apothekerin oder des Apothekers.
+
+[^h4AbschnittApothe-1]: Fassung gemäss RRB vom 23. November 2022 (OS 78, 55; ABl 2022-12-02). In Kraft seit 1. Februar 2023. 1. 4. 23 - 120 11
+[^h4AbschnittApothe-2]: Eingefügt durch RRB vom 3. Februar 2021 (OS 76, 30; ABl 2021-02-12). In Kraft seit 17. Februar 2021.
+
+#### § 25
 
 **Tätigkeit in Institutionen des Gesundheitswesens**
 
-§ 25. Für die Beschäftigung von Apothekerinnen und Apothekern in Spitälern, Altersheimen, Alters- und Pflegeheimen, Pflegeheimen und Polikliniken gilt § 19 sinngemäss.
-
-[^h4AbschnittApothe-1]: Fassung gemäss RRB vom 29. April 2020 (OS 75, 310; ABl 2020-05-08). In Kraft seit 1. Juli 2020.
-[^h4AbschnittApothe-2]: Eingefügt durch RRB vom 3. Februar 2021 (OS 76, 30; ABl 2021-02-12). In Kraft seit 17. Februar 2021.
-[^h4AbschnittApothe-3]: Eingefügt durch RRB vom 27. Oktober 2021 (OS 76, 439; ABl 2021-10-29). In Kraft seit 5. November 2021.
+Für die Beschäftigung von Apothekerinnen und Apothekern in Spitälern, Altersheimen, Alters- und Pflegeheimen, Pflegeheimen und Polikliniken gilt § 19 sinngemäss.
 
 ### 5. Abschnitt: Tierärztinnen und Tierärzte
 
@@ -439,17 +444,13 @@ Vorbehältlich abweichender Zuständigkeitsregelungen sind folgende Stellen für
 
 <sup>2</sup> Innerhalb eines Gebührenrahmens wird die Gebühr nach Aufwand und nach der Bedeutung der Sache bestimmt.
 
-#### § 30
+**9**
+
+- 1\. 4. 23 - 120 § 30. <sup>1</sup> Mit Busse bis Fr. 10 000 wird bestraft, wer vorsätzlich:
 
 **Strafbestimmungen**
 
-<sup>1</sup> Mit Busse bis Fr. 10 000 wird bestraft, wer vorsätzlich:
-
 - a. sich durch eine zur Assistenz bewilligte universitäre Medizinalperson vertreten lässt, ohne dass diese über die erforderliche praktische Weiterbildung verfügt,
-
-**9**
-
-- 1\. 1. 22 - 115
 
 - b. gegen Einschränkungen und Auflagen nach § 5 Abs. 5 verstösst,
 
@@ -478,3 +479,8 @@ Vorbehältlich abweichender Zuständigkeitsregelungen sind folgende Stellen für
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Juli 2008 in Kraft.
+
+## Weitere Fussnoten
+
+- [7] Fassung gemäss RRB vom 29. April 2020 (OS 75, 310; ABl 2020-05-08). In Kraft seit 1. Juli 2020.
+- [9] Eingefügt durch RRB vom 27. Oktober 2021 (OS 76, 439; ABl 2021-10-29). In Kraft seit 5. November 2021.
