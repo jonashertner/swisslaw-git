@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "413.253"
-title: Verordnung des Regierungsrates über die Ausbildung an den Fachmittelschulen der Thurgauischen Kantonsschulen
+title: Verordnung über die Ausbildung an den Fachmittelschulen der thurgauischen Kantonsschulen
 short: RRV FMS
 language: de
-version: 2021-08-01
-valid_until: 2023-01-31
-version_adopted: 2020-06-09
+version: 2023-02-01
+valid_until: 2023-05-05
+version_adopted: 2022-05-24
 adopted: 2005-01-25
 in_force: 2005-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.253"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2920/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2922/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Ausbildung an den Fachmittelschulen der Thurgauischen Kantonsschulen
+# Verordnung über die Ausbildung an den Fachmittelschulen der thurgauischen Kantonsschulen
 
 RRV FMS
 
 (RRV FMS)
 
-vom 25.01.2005 (Stand 01.08.2021)
+vom 25.01.2005 (Stand 01.02.2023)
 
 ## 1. Unterricht
 
@@ -147,8 +147,8 @@ vom 25.01.2005 (Stand 01.08.2021)
 
 <sup>1</sup> Eine Schülerin oder ein Schüler wird definitiv befördert, wenn
 
-- 1\. der Notendurchschnitt in den Promotionsfächern mindestens 4 beträgt;
-- 2\. höchstens zwei Promotionsnoten ungenügend sind und
+- 1\. der Notendurchschnitt in den Promotionsfächern mindestens 4 beträgt,
+- 2\. höchstens zwei Promotionsnoten ungenügend sind, und
 - 3\. die Summe der Differenzen der ungenügenden Promotionsnoten zur Note 4 den Wert 2 nicht übersteigt.
 
 #### § 7
@@ -162,6 +162,8 @@ vom 25.01.2005 (Stand 01.08.2021)
 **Nichtpromotion, Repetition**
 
 <sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zuletzt besuchte Klasse wiederholen. An der Fachmittelschule kann nur einmal repetiert werden.
+
+<sup>2</sup> Eine Schülerin oder ein Schüler der 1. Klasse wird am Ende des ersten Semesters von der Schule gewiesen, wenn in den für die Promotion massgebenden Fächern mehr als vier Noten unter 4 vorliegen. Eine Repetition ist nicht möglich.
 
 #### § 9
 
@@ -327,9 +329,9 @@ vom 25.01.2005 (Stand 01.08.2021)
 
 <sup>1</sup> Nach Erwerb des Fachmittelschulausweises Gesundheit/Naturwissenschaften sind folgende Leistungen zu erbringen:
 
-- 1\. Einführungskurs am Bildungszentrum für Gesundheit und Soziales von fünf Wochen sowie Vertiefungstage. Der Einführungskurs umfasst mindestens 20 Kurstage zu acht Stunden;
-- 2\. Praktikum in einer Institution des Gesundheitswesens von mindestens 24 Wochen;
-- 3\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum.
+- 1\. Einführungskurs am Bildungszentrum für Gesundheit und Soziales von fünf Wochen sowie Vertiefungstage. Der Einführungskurs umfasst mindestens 20 Kurstage zu acht Stunden
+- 2\. Praktikum in einer Institution des Gesundheitswesens von mindestens 24 Wochen
+- 3\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum
 
 #### § 26
 
@@ -405,9 +407,9 @@ vom 25.01.2005 (Stand 01.08.2021)
 
 <sup>1</sup> Nach Erwerb des Fachmittelschulausweises Pädagogik sind folgende Leistungen zu erbringen:
 
-- 1\. Besuch des Unterrichts gemäss § 31b;
-- 2\. Abfassen und Präsentieren einer Fachmaturaarbeit;
-- 3\. Prüfung.
+- 1\. Besuch des Unterrichts gemäss § 31b
+- 2\. Abfassen und Präsentieren einer Fachmaturaarbeit
+- 3\. Prüfung
 
 #### § 31b
 
@@ -495,8 +497,8 @@ vom 25.01.2005 (Stand 01.08.2021)
 
 <sup>1</sup> Die Prüfung ist bestanden, wenn
 
-- 1\. der Notendurchschnitt aller fünf Noten der Prüfungsfächer sowie der Fachmaturaarbeit mindestens 4 beträgt;
-- 2\. höchstens zwei Noten der Prüfungsfächer ungenügend sind;
+- 1\. der Notendurchschnitt aller fünf Noten der Prüfungsfächer sowie der Fachmaturaarbeit mindestens 4 beträgt
+- 2\. höchstens zwei Noten der Prüfungsfächer ungenügend sind und
 - 3\. die Summe der Notenabweichungen der fünf Prüfungsfächer von 4 nach unten nicht mehr als 1 beträgt.
 
 #### § 31i
@@ -523,8 +525,8 @@ vom 25.01.2005 (Stand 01.08.2021)
 
 <sup>1</sup> Nach Erwerb des Fachmittelschulausweises Soziale Arbeit sind folgende Leistungen zu erbringen:
 
-- 1\. Nachweis von mindestens 40 Wochen Arbeitspraxis, davon mindestens 24 Wochen in einem Betrieb des Sozialwesens;
-- 2\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum.
+- 1\. Nachweis von mindestens 40 Wochen Arbeitspraxis, davon mindestens 24 Wochen in einem Betrieb des Sozialwesens
+- 2\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum
 
 #### § 33
 
@@ -572,9 +574,9 @@ vom 25.01.2005 (Stand 01.08.2021)
 
 <sup>1</sup> Nach Erwerb des Fachmittelschulausweises Kommunikation und Information sind folgende Leistungen zu erbringen:
 
-- 1\. Nachweis von mindestens 24 Wochen Praktikum. Die Festlegung der genauen Dauer und der Art des Praktikums erfolgt im Rahmen der Bestimmungen für die Zulassung zum Aufnahmeverfahren einer Fachhochschule;
-- 2\. Nachweis von Sprachzertifikaten in zwei Fremdsprachen (Französisch, Englisch, Spanisch oder Italienisch), die mindestens das Niveau B2 nachweisen müssen (gemäss Gemeinsamem Europäischen Referenzrahmen);
-- 3\. Nachweis von je einem mindestens dreiwöchigen Sprachaufenthalt in den zwei für die Sprachzertifikate gewählten Sprachgebieten;
+- 1\. Nachweis von mindestens 24 Wochen Praktikum. Die Festlegung der genauen Dauer und der Art des Praktikums erfolgt im Rahmen der Bestimmungen für die Zulassung zum Aufnahmeverfahren einer Fachhochschule.
+- 2\. Nachweis von Sprachzertifikaten in zwei Fremdsprachen (Französisch, Englisch, Spanisch oder Italienisch), die mindestens das Niveau B2 nachweisen müssen (gemäss Gemeinsamem Europäischen Referenzrahmen).
+- 3\. Nachweis von je einem mindestens dreiwöchigen Sprachaufenthalt in den zwei für die Sprachzertifikate gewählten Sprachgebieten.
 - 4\. Abfassen und Präsentieren einer Fachmaturaarbeit. Die Arbeit kann in Deutsch, Französisch, Englisch, Spanisch oder Italienisch verfasst werden.
 
 #### § 39–40
@@ -627,9 +629,9 @@ vom 25.01.2005 (Stand 01.08.2021)
 
 <sup>1</sup> Nach Erwerb des Fachmittelschulausweises Gesundheit/Naturwissenschaften sind folgende Leistungen zu erbringen:
 
-- 1\. Nachweis von mindestens 24 Wochen Praktikum im Berufsfeld Naturwissenschaften;
-- 2\. Absolvieren eines berufsfeldspezifischen Kurses gemäss Vorgaben der Schulleitung;
-- 3\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum.
+- 1\. Nachweis von mindestens 24 Wochen Praktikum im Berufsfeld Naturwissenschaften
+- 2\. Absolvieren eines berufsfeldspezifischen Kurses gemäss Vorgaben der Schulleitung
+- 3\. Abfassen und Präsentieren einer Fachmaturaarbeit mit Bezug zum Praktikum
 
 #### § 45b
 
@@ -681,7 +683,7 @@ vom 25.01.2005 (Stand 01.08.2021)
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Die Änderungen von § 1, § 2, § 3, § 3a, § 4, § 14, § 15, § 19, § 25, § 31a und § 38 gelten fürdie ab Schuljahr 2020/21 ins erste Semester der Fachmittelschule eintretenden Schülerinnen und Schüler. Ab Schuljahr 2024/25 gelten sie für alle Schülerinnen und Schüler.
+<sup>1</sup> Die Änderungen von § 1, § 2, § 3, § 3a, § 4, § 14, § 15, § 19, § 25, § 31a und § 38 gelten für die ab Schuljahr 2020/21 ins erste Semester der Fachmittelschule eintretenden Schülerinnen und Schüler. Ab Schuljahr 2024/25 gelten sie für alle Schülerinnen und Schüler.
 
 <sup>2</sup> Die Fachmatura Naturwissenschaften (Kapitel 6a, § 45a bis § 45g) wird per Schuljahr 2020/21 eingeführt. Der Fachmittelschulausweis Gesundheit/Pädagogik berechtigt zum Eintritt in die Fachmatura Naturwissenschaften.
 
