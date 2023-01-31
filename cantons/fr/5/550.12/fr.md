@@ -3,20 +3,19 @@ canton: FR
 number: "550.12"
 title: Ordonnance sur les mesures visant au maintien de la sûreté intérieure et sur le renseignement
 language: fr
-version: 2022-02-01
-valid_until: 2023-01-31
-version_adopted: 2022-03-11
+version: 2023-02-01
+version_adopted: 2023-01-31
 adopted: 2019-08-20
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/550.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7330/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8612/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les mesures visant au maintien de la sûreté intérieure et sur le renseignement
 
-du 20.08.2019 (version entrée en vigueur le 01.02.2022)
+du 20.08.2019 (version entrée en vigueur le 01.02.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -59,6 +58,20 @@ Arrête:
 <sup>1</sup> La Police cantonale est, en matière de renseignement, l'autorité cantonale d'exécution de la Direction.
 
 <sup>2</sup> Elle exerce, à ce titre, notamment toutes les tâches confiées par le droit fédéral à l'autorité d'exécution cantonale.
+
+#### Art. 3a
+
+**Mesures de police préventive**
+
+<sup>1</sup> La Police cantonale est l'autorité cantonale compétente pour la demande, la coordination, l'exécution et le contrôle des mesures visées aux articles 23e et suivants LMSI[^3a-1].
+
+<sup>2</sup> Les mesures sociales, intégratives ou thérapeutiques prévues par l'article 23f al. 2 LMSI[^3a-2] sont ordonnées par les services cantonaux ou communaux compétents sur recommandation de la Police cantonale.
+
+<sup>3</sup> Le Service de l'exécution des sanctions pénales et de la probation (SESPP) est l'autorité cantonale compétente pour l'exécution et le contrôle en matière de surveillance électronique au sens de l'article 23q al. 2 LMSI[^3a-3].
+
+[^3a-1]: RS [120](https://db.clex.ch/link/Bund/120/fr)
+[^3a-2]: RS [120](https://db.clex.ch/link/Bund/120/fr)
+[^3a-3]: RS [120](https://db.clex.ch/link/Bund/120/fr)
 
 #### Art. 4
 

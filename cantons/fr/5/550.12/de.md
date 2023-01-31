@@ -3,20 +3,19 @@ canton: FR
 number: "550.12"
 title: Verordnung über die Massnahmen zur Wahrung der inneren Sicherheit und über den Nachrichtendienst
 language: de
-version: 2022-02-01
-valid_until: 2023-01-31
-version_adopted: 2022-03-11
+version: 2023-02-01
+version_adopted: 2023-01-31
 adopted: 2019-08-20
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/550.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7330/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8612/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Massnahmen zur Wahrung der inneren Sicherheit und über den Nachrichtendienst
 
-vom 20.08.2019 (Fassung in Kraft getreten am 01.02.2022)
+vom 20.08.2019 (Fassung in Kraft getreten am 01.02.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -59,6 +58,20 @@ beschliesst:
 <sup>1</sup> Die Kantonspolizei ist im Bereich des Nachrichtendienstes die kantonale Vollzugsbehörde der Direktion.
 
 <sup>2</sup> Als solche übt sie namentlich alle Aufgaben aus, die das Bundesrecht der kantonalen Vollzugsbehörde überträgt.
+
+#### Art. 3a
+
+**Präventiv-polizeiliche Massnahmen**
+
+<sup>1</sup> Die Kantonspolizei ist die zuständige kantonale Behörde für die Beantragung, die Koordination, den Vollzug und die Kontrolle der Massnahmen nach den Artikeln 23e und folgende BWIS[^3a-1].
+
+<sup>2</sup> Die sozialen, integrativen oder therapeutischen Massnahmen nach Artikel 23f Abs. 2 BWIS[^3a-2] werden auf Empfehlung der Kantonspolizei von den zuständigen Ämtern des Kantons und der Gemeinden angeordnet.
+
+<sup>3</sup> Das Amt für Justizvollzug und Bewährungshilfe (JVBHA) ist die zuständige kantonale Behörde für den Vollzug und die Kontrolle der elektronischen Überwachung im Sinne von Artikel 23q Abs. 2 BWIS[^3a-3].
+
+[^3a-1]: SR [120](https://db.clex.ch/link/Bund/120/de)
+[^3a-2]: SR [120](https://db.clex.ch/link/Bund/120/de)
+[^3a-3]: SR [120](https://db.clex.ch/link/Bund/120/de)
 
 #### Art. 4
 
