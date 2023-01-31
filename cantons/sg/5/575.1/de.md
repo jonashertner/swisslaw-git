@@ -3,20 +3,19 @@ canton: SG
 number: "575.1"
 title: Tourismusgesetz
 language: de
-version: 2017-01-01
-valid_until: 2023-01-31
-version_adopted: 2016-06-28
+version: 2023-02-01
+version_adopted: 2023-01-24
 adopted: 1995-11-26
 in_force: 1996-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/575.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2161/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Tourismusgesetz
 
-vom 26.11.1995 (Stand 01.01.2017)
+vom 26.11.1995 (Stand 01.02.2023)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -132,6 +131,8 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Der Staat führt eine Tourismusrechnung als Spezialfinanzierung.[^10-1]
 
+<sup>2</sup> Er leistet im Jahr 2023 eine Einmaleinlage in die Tourismusrechnung aus dem besonderen Eigenkapital in der Höhe von Fr. 2'200'000.–.
+
 [^10-1]: Siehe Art. [51](https://www.gesetzessammlung.sg.ch/data/140.1/de/art51)StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
 
 #### Art. 11
@@ -140,7 +141,9 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die Erträge der Beherbergungs- und der Gastwirtschaftsabgabe werden der Tourismusrechnung gutgeschrieben.
 
-<sup>2</sup> Sie decken die Aufwendungen des Staates für den Vollzug dieses Gesetzes.
+<sup>2</sup> Sie decken zusammen mit dem Ertrag nach [Art. 6](https://www.gesetzessammlung.sg.ch/data/816.1/de/art6) des Gesetzes über die Kursaalabgabe vom 21. Juni 2001[^11-1] die Aufwendungen des Staates für den Vollzug dieses Gesetzes.
+
+[^11-1]: sGS [816.1](https://www.gesetzessammlung.sg.ch/data/816.1/de).
 
 #### Art. 12
 
