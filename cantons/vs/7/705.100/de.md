@@ -4,13 +4,13 @@ number: "705.100"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2022-01-01
-valid_until: 2023-01-31
-version_adopted: 2018-02-28
+version: 2023-02-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-16
 adopted: 2025-03-12
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/705.100"
-pdf: "https://lex.vs.ch/api/de/versions/3005/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3165/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3005/pdf_file"
 
 (BauV)
 
-vom 22.03.2017 (Stand 01.01.2022)
+vom 22.03.2017 (Stand 01.02.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -52,6 +52,12 @@ verordnet:[^ingress-1]
 <sup>1</sup> Die Gemeindebehörde im Sinne des Baugesetzes und der Verordnung ist der Gemeinderat.
 
 <sup>2</sup> Zur Erfüllung ihrer Aufgaben betreffend die Baubewilligungsverfahren und die Baupolizei können die Gemeinden nach den Bestimmungen des Gemeindegesetzes zusammenarbeiten. Hierbei kann ein interkommunales Bauamt errichtet werden. Die Gemeinden stellen die notwendige baurechtliche Fachkompetenz sicher.
+
+#### Art. 2a
+
+**Digitale Plattform**
+
+<sup>1</sup> Die Validierung der auf der Plattform hinterlegten Dokumente gilt als eigenhändige Unterschrift, mit Ausnahme der in Artikel 27 dieser Verordnung vorgesehenen Fälle.
 
 ## 2 Bauvorschriften
 
@@ -277,7 +283,7 @@ verordnet:[^ingress-1]
 
 <sup>4</sup> Solaranlagen auf Kultur- und Naturdenkmälern von kantonaler oder nationaler Bedeutung bedürfen stets einer Baubewilligung. Sie dürfen solche Denkmäler nicht wesentlich beeinträchtigen.
 
-<sup>5</sup> Bewilligungsfreie Vorhaben sind vor Baubeginn der für Baubewilligungen zuständigen Behörde zu melden. Die Meldung hat spätestens 30 Tage vor Baubeginn zu erfolgen.
+<sup>5</sup> Bewilligungsfreie Vorhaben sind vor Baubeginn der für Baubewilligungen zuständigen Behörde zu melden. Die Meldung hat spätestens 30 Tage vor Baubeginn nach Wahl des Meldepflichtigen im Papierformat oder im digitalen Format über die Plattform zu erfolgen.
 
 <sup>6</sup> Das für das Bauwesen zuständige Departement legt in einer Richtlinie fest, welche Pläne und weitere Unterlagen in welcher Anzahl Exemplaren der Meldung beizulegen sind. Die Unterlagen haben die Informationen zu enthalten, derer es bedarf, um zu prüfen, ob alle Voraussetzungen für die Befreiung von der Bewilligungspflicht gegeben sind.
 
@@ -285,7 +291,7 @@ verordnet:[^ingress-1]
 
 **Erneuerung und Ersatz einer Verbrennungsanlage**
 
-<sup>1</sup> Die Erneuerung und der Ersatz eines Öl-, Gaskessels, oder einer Holzheizung, ohne Änderung des Standorts des Kamins, sind vor Baubeginn der für Baubewilligungen zuständigen Behörde zu melden. Die Meldung hat spätestens 30 Tage vor Baubeginn zu erfolgen.
+<sup>1</sup> Die Erneuerung und der Ersatz eines Öl-, Gaskessels oder einer Holzheizung, ohne Änderung des Standorts des Kamins, sind vor Baubeginn der für Baubewilligungen zuständigen Behörde zu melden. Die Meldung hat spätestens 30 Tage vor Baubeginn nach Wahl des Meldepflichtigen im Papierformat oder im digitalen Format über die Plattform zu erfolgen.
 
 <sup>2</sup> Das für das Bauwesen zuständige Departement legt in einer Richtlinie fest, welche Pläne und weitere Unterlagen in welcher Anzahl Exemplaren der Meldung beizulegen sind. Die Unterlagen haben die Informationen zu enthalten, deren es bedarf um zu prüfen, ob die Bedingungen der Spezialgesetzgebung eingehalten sind.
 
@@ -341,13 +347,13 @@ verordnet:[^ingress-1]
 
 #### Art. 24
 
-**Baugesuch - Form - Informatikplattform**
+**Baugesuch - digitales Format**
 
-<sup>1</sup> Für alle Dossiers in der Zuständigkeit der KBK oder einer Gemeinde, die nicht auf die Benutzung der Informatikplattform (nachstehend: Plattform) verzichtet, ist das Baugesuch auf der Plattform einzureichen. In Papierform eingereichte Dossiers werden von der zuständigen Behörde digitalisiert.
+<sup>1</sup> Für alle Dossiers in der Zuständigkeit der KBK oder einer Gemeinde, die nicht auf die Benutzung der Plattform verzichtet hat, wird die Wahl des digitalen Formats mit der Validierung des auf der Plattform eingereichten Baugesuchs wirksam.
 
-<sup>2</sup> Die Validierung des Baugesuchs und der Unterlagen auf der Plattform ersetzt die persönliche Unterschrift.
+<sup>2</sup> …
 
-<sup>3</sup> Für die Eingabe des Baugesuchs ist das auf der Plattform vorhandene Gesuchsformular zu verwenden. Es muss ordnungsgemäss ausgefüllt und vom Gesuchsteller oder einem Vertreter, vom Projektverfasser und vom Grundeigentümer validiert werden. Bei Vorhandensein mehrerer Eigentümer gelten für die Zustimmung insbesondere die Regeln des Zivilrechts.
+<sup>3</sup> Bei der Einreichung des Baugesuchs muss das auf der Plattform zur Verfügung gestellte offizielle Formular ausgefüllt und anschliessend vom Planverfasser, vom Grundeigentümer und vom Gesuchsteller oder seinem Vertreter validiert werden.
 
 - a) …
 - b) …
@@ -360,17 +366,17 @@ verordnet:[^ingress-1]
 - b) die projektspezifischen Pläne und Unterlagen;
 - c) ein gültiger Grundbuch- oder Katasterauszug, sofern erforderlich mit Angabe der Dienstbarkeiten und öffentlichrechtlichen Eigentumsbeschränkungen.
 
-<sup>5</sup> Bei unbedeutenden Bauvorhaben kann die zuständige Baubewilligungsbehörde von den formalen Vorschriften für das Baugesuch abweichen.
+<sup>5</sup> …
 
 #### Art. 24a
 
-**Baugesuch - Form - Papierform**
+**Baugesuch - Papierformat**
 
-<sup>1</sup> Baugesuche in der Zuständigkeit des Gemeinderats einer Gemeinde, die auf die Benutzung der Plattform verzichtet, sind dieser in Form eines im Format A4 geordneten Baudossiers einzureichen.
+<sup>1</sup> Baugesuche für Vorhaben in der Zuständigkeit des Gemeinderats einer Gemeinde, die auf die Benutzung der Plattform verzichtet, oder für Baugesuche eines Beteiligten, der auf die Benutzung der Plattform verzichtet, sind der Gemeinde in Form eines im Format A4 geordneten Baudossiers einzureichen.
 
-<sup>2</sup> Es ist das amtliche, bei den Gemeinden zu beziehende Gesuchsformular zu verwenden. Es muss ordnungsgemäss ausgefüllt und vom Gesuchsteller oder einem Vertreter, vom Projektverfasser und vom Grundeigentümer unterzeichnet sein. Bei Vorhandensein mehrerer Eigentümer gelten für die Zustimmung insbesondere die Regeln des Zivilrechts.
+<sup>2</sup> Das amtliche, bei den Gemeinden zu beziehende Gesuchsformular ist ordnungsgemäss auszufüllen und vom Planverfasser, vom Grundeigentümer und vom Gesuchsteller oder seinem Vertreter eigenhändig zu unterschrieben.
 
-<sup>3</sup> Dem in Papierform eingereichten Gesuch sind die folgenden Unterlagen in zweifacher Ausführung beizulegen:
+<sup>3</sup> Dem im Papierformat eingereichten Gesuch sind die folgenden Unterlagen in zweifacher Ausführung beizulegen:
 
 - a) der Situationsplan;
 - b) die projektspezifischen Pläne und Unterlagen;
@@ -379,9 +385,9 @@ verordnet:[^ingress-1]
 
 #### Art. 24b
 
-**Baugesuch - Form - Gemeinsame Bestimmungen**
+**Baugesuch - Format - Gemeinsame Bestimmungen**
 
-<sup>1</sup> Die Bestimmungen des vorliegenden Artikels gelten sowohl für auf der Plattform als auch für in Papierform eingereichte Gesuche.
+<sup>1</sup> Die Bestimmungen des vorliegenden Artikels gelten sowohl für auf der Plattform als auch für im Papierformat eingereichte Gesuche.
 
 <sup>2</sup> Beim Wiederaufbau, Umbau und bei der Änderung bestehender Bauten oder Anlagen sind im Rahmen der Verfügbarkeit Kopien der früher erteilten Bewilligungen beizulegen.
 
@@ -433,9 +439,9 @@ verordnet:[^ingress-1]
 
 #### Art. 27
 
-**Situationsplan - Form**
+**Situationsplan - Format**
 
-<sup>1</sup> Der Situationsplan ist im eidgenössisch vermessenen Kantonsgebiet auf einer von einem patentierten, im eidgenössischen Register eingetragenen Geometer unterzeichneten Auszug des Grundbuchplanes zu erstellen. Wo die eidgenössische Grundbuchvermessung noch fehlt, ist er auf einem vom Registerhalter unterzeichneten Auszug des Katasterplanes zu erstellen.
+<sup>1</sup> Der Situationsplan ist von einem patentierten, im eidgenössischen Register eingetragenen Geometer zu erstellen und zu unterzeichnen. Falls die eidgenössische Grundbuchvermessung fehlt, ist er auf einem vom Registerhalter unterzeichneten Auszug des Katasterplanes zu erstellen. Der Geometer muss diese Dokumente mit einer eigenhändigen Unterschrift versehen wenn das Papierformat verwendet wird und mit einer qualifizierten elektronischen Signatur wenn das digitale Format verwendet wird.
 
 <sup>2</sup> Trägt der Projektverfasser im Situationsplan die verlangten Angaben selber ein, so hat er diese durch die Verwendung einer besonderen Farbe deutlich von den vom patentierten, im eidgenössischen Register eingetragenen Geometer oder vom Registerhalter bescheinigten Eintragungen zu unterscheiden.
 
@@ -518,9 +524,13 @@ verordnet:[^ingress-1]
 
 **Dossiers in kantonaler Zuständigkeit**
 
-<sup>1</sup> Die KBK lässt der Gemeinde das Baubewilligungsgesuch und die zugehörigen Unterlagen über die Plattform zukommen, damit das Dossier durch die interessierten Personen konsultiert werden und der Sicherheitsbeauftragte das Projekt prüfen kann.
+<sup>1</sup> Das KBS übermittelt der Gemeinde das Baubewilligungsgesuch, das in die Zuständigkeit der KBK fällt, und die zugehörigen Unterlagen über die Plattform.
+
+<sup>1<sup>bis</sup></sup> Das vollständige Dossier muss von den interessierten Personen im für das Verfahren gewählten Format eingesehen werden können und auch für den Sicherheitsbeauftragten einsehbar sein, damit dieser das Vorhaben prüfen kann.
 
 <sup>2</sup> Spätestens 30 Tage nach Beendigung der öffentlichen Auflage hat der Gemeinderat das Dossier mit seiner Vormeinung sowie den übrigen auszufüllenden Formularen, wie die Formulare, die durch den Sicherheitsbeauftragen zu validieren sind, auf der Plattform einzugeben.
+
+<sup>3</sup> Wenn das Papierformat verwendet wird, druckt das KBS die Vormeinungen aus und fügt sie dem Papierdossier hinzu.
 
 ### 3.3.3 Einsprache
 
@@ -544,21 +554,15 @@ verordnet:[^ingress-1]
 
 #### Art. 36
 
-**Anhörung der kantonalen Organe durch die Gemeinden**
-
-<sup>1</sup> Entspricht das Bauvorhaben den Bauvorschriften, deren Anwendung der Gemeinde obliegt, so kann diese das Gesuch dem KBS übermitteln, welches das Bauvorhaben den zuständigen kantonalen Dienststellen zur Vormeinung unterbreitet. Die Übermittlung des Dossiers erfolgt über die Plattform.
-
-<sup>2</sup> Baugesuche für Projekte, die aufgrund gesetzlicher Vorschriften zwingend der Anhörung einer kantonalen Fachdienststelle bedürfen, sind dem KBS über die Plattform zu überweisen. Daraufhin konsultiert das KBS ausschliesslich die zwingend anzuhörenden kantonalen Organe. Der Gemeinde steht es frei, weitere Vormeinungen der kantonalen Dienststellen einzuverlangen.
-
-<sup>3</sup> Die begründeten Vormeinungen der kantonalen Dienststellen, die sich auf die Anwendung von zwingenden spezialgesetzlichen Vorschriften beziehen, müssen die gesetzlichen Bestimmungen, auf die sie sich stützen, enthalten.
-
-<sup>4</sup> Im Vernehmlassungsfall teilt das KBS dem Gemeinderat innert 30 Tagen nach Erhalt der vollständigen Bauakten das Ergebnis der Stellungnahmen der kantonalen Dienststellen mit. Muss diese Frist aus zwingenden Gründen verlängert werden, sind die Beteiligten unter Angabe der Gründe über diese Fristverlängerung zu benachrichtigen.
+**…**
 
 #### Art. 37
 
 **Baubewilligung oder Bauabschlag**
 
 <sup>1</sup> Unter Einhaltung des Koordinationsprinzips und nach Prüfung der allfälligen Vormeinungen der zuständigen kantonalen Dienststellen, erlässt die für die Baubewilligung zuständige Behörde ihren Entscheid, zusammen mit den allfälligen Spezialbewilligungen.
+
+<sup>1<sup>bis</sup></sup> Gleichzeitig mit dem Bauentscheid werden den Betroffenen die weiteren erforderlichen Bewilligungen eröffnet, soweit keine Bestimmungen der Spezialgesetzgebung entgegenstehen, und zwar in dem Format, das bei der Einleitung des Verfahrens gewählt wurde. Die kantonalen Spezialbewilligungen bilden einen integralen Bestandteil des Bauentscheides der KBK.
 
 <sup>2</sup> Die zuständige Behörde hat die Baubewilligung zu verweigern, wenn das Bauvorhaben den gesetzlichen und reglementarischen Bestimmungen des öffentlichen Rechts widerspricht.
 
@@ -597,25 +601,29 @@ verordnet:[^ingress-1]
 
 #### Art. 39
 
-**Eröffnung – auf der Plattform**
+**Eröffnung - digitales Format**
 
-<sup>1</sup> Der Entscheid der KBK oder des Gemeinderats einer Gemeinde, welche die Plattform benutzt, wird auf der Plattform eingegeben, zusammen mit dem Baugesuchsformular und den genehmigten Plänen. Der Gesuchsteller oder sein Vertreter sowie die Einsprecher werden benachrichtigt, dass der Entscheid zusammen mit den bewilligten Plänen auf der Plattform zur Verfügung steht. Bei Entscheiden in kommunaler Zuständigkeit wird auch das KBS benachrichtigt.
+<sup>1</sup> Die zuständige Behörde eröffnet ihre Entscheide auf der Plattform, sofern der Beteiligte dieser Form der Kommunikation ausdrücklich zugestimmt hat. Seine ausdrückliche Zustimmung gibt der Beteiligte, indem er an der angegebenen Stelle auf der Plattform ein Häkchen setzt.
 
-<sup>2</sup> Einem Gesuchsteller oder dessen Vertreter sowie den Einsprechern, die keinen Zugang zur Plattform haben, wird der Entscheid schriftlich eröffnet. Der Baubewilligung an den Gesuchsteller oder seinen Vertreter werden ein Exemplar des Baugesuchsformulars sowie die genehmigten Pläne beigelegt.
+<sup>2</sup> Die Entscheide werden mit einer qualifizierten elektronischen Signatur gemäss der Bundesgesetzgebung über die elektronische Signatur versehen.
 
-<sup>3</sup> Als Eröffnungszeitpunkt gilt der Moment, in dem der Entscheid nach der behördlichen Benachrichtigung auf der Plattform eingesehen wird.
+<sup>3</sup> Wenn das digitale Format verwendet wird, wird der Entscheid der KBK oder des Gemeinderats zusammen mit dem Baugesuchsformular und den genehmigten Plänen auf der Plattform eröffnet.
 
-<sup>4</sup> Ein Entscheid, der auf der Plattform nicht eingesehen wird, gilt spätestens 7 Tage nach der behördlichen Benachrichtigung als eröffnet.
+<sup>4</sup> Jeder Entscheid der Behörde wird durch Hinterlegung einer Nachricht an den Beteiligten auf der Plattform eröffnet. Der Abruf dieser Nachricht gilt als Zustellzeitpunkt für die Nachricht sowie die darin enthaltenen Links, die auf den Entscheid verweisen. Wird diese Nachricht nicht abgerufen, so gilt sie, ebenso wie die Links und der Entscheid, auf den diese verweisen, spätestens 7 Tage nach ihrer Hinterlegung als zugestellt.
 
-<sup>5</sup> Die Modalitäten der Benachrichtigung werden vom Staatsrat im Reglement über den Zugang zur Plattform und deren Benutzung festgelegt.
+<sup>4<sup>bis</sup></sup> Die Entscheide in kommunaler Zuständigkeit und ihre Anhänge (einschliesslich insbesondere die genehmigten Pläne und allfällige Spezialbewilligungen) werden dem KBS zur Kenntnisnahme zugestellt.
+
+<sup>5</sup> Der Staatsrat legt die übrigen Modalitäten für die Zustellung der Entscheide im ReC fest.
 
 #### Art. 39a
 
-**Eröffnung – schriftlich**
+**Eröffnung - Papierformat**
 
-<sup>1</sup> Der Entscheid des Gemeinderats einer Gemeinde, welche auf die Benutzung der Plattform verzichtet, wird dem Gesuchsteller oder seinem Vertreter sowie den Einsprechern schriftlich eröffnet. Der Baubewilligung an den Gesuchsteller oder seinen Vertreter werden ein Exemplar des Baugesuchsformulars sowie die vom Gemeinderat genehmigten Pläne beigelegt.
+<sup>1</sup> Der Entscheid des Gemeinderats einer Gemeinde, welche auf die Benutzung der Plattform verzichtet hat, wird dem Gesuchsteller oder seinem Vertreter sowie den Einsprechern schriftlich eröffnet. Dasselbe gilt, wenn der Beteiligte auf die Benutzung der Plattform verzichtet hat.
 
-<sup>2</sup> Die Übermittlung des Entscheids, zusammen mit dem Baugesuchsformular sowie den genehmigten Plänen, an das KBS erfolgt über die Plattform.
+<sup>1<sup>bis</sup></sup> Die Baubewilligung wird dem Gesuchsteller oder seinem Vertreter zusammen mit einem Exemplar des Baugesuchsformulars sowie den vom Gemeinderat genehmigten Plänen, dem Formular eConstruction und allfälligen Spezialbewilligungen eröffnet.
+
+<sup>2</sup> Die Übermittlung des Entscheids, zusammen mit den im Absatz 1<sup>bis</sup> erwähnten Dokumenten, an das KBS erfolgt über die Plattform.
 
 ### 3.3.5 Gültigkeit der Baubewilligung
 
@@ -670,6 +678,8 @@ verordnet:[^ingress-1]
 <sup>2</sup> Wenn die Bauarbeiten ohne hinreichende Gründe eingestellt werden - bei Gesamtüberbauungen länger als zwei Jahre -, hat die zuständige Baubewilligungsbehörde die Beendigung der Arbeiten, eine annehmbare Anpassung oder gegebenenfalls den Abbruch der begonnenen Bauten und Anlagen mit Wiederherstellung des rechtmässigen Zustandes zu verlangen.
 
 <sup>3</sup> Die Bestimmungen des Gesetzes, welche die Ersatzvornahme, das Eingreifen ohne weiteres Verfahren und die Sicherung der Kosten betrifft, sind anwendbar.
+
+<sup>4</sup> Das für das Baubewilligungsverfahren gewählte Format ist für die in den vorstehenden Absätzen genannten Fälle zu verwenden.
 
 #### Art. 45
 
@@ -752,6 +762,16 @@ verordnet:[^ingress-1]
 <sup>1</sup> Die Modalitäten des bisherigen Artikels 33 für die Übermittlung von Dossiers und Unterlagen bleiben anwendbar bis zur Feststellung der Funktionstüchtigkeit der Plattform beim KBS durch den Staatsrat.
 
 <sup>2</sup> Die Modalitäten des bisherigen Artikels 36 für die Übermittlung von Dossiers und Unterlagen bleiben anwendbar bis zur Feststellung der Funktionstüchtigkeit der Plattform in einer Gemeinde durch den Staatsrat. Diese Übergangsphase darf aber ab Inkrafttreten der vorliegenden Änderungen nicht länger als 3 Jahre dauern.
+
+## T3 Übergangsbestimmung der Änderung vom 16. September 2022
+
+#### Art. T3-1
+
+<sup>1</sup> Diese Verordnung ist ab dem Inkrafttreten auch für hängige Verfahren anwendbar.
+
+<sup>2</sup> Die in dieser Verordnung erwähnten Verfahren werden bis zum 31. Dezember 2024 auf der Plattform implementiert und der Öffentlichkeit zugänglich gemacht. Die Implementierung eines Verfahrens auf der Plattform und seine Zugänglichkeit für die Öffentlichkeit werden vom für das Bauwesen zuständigen Departement im Amtsblatt bekannt gegeben.
+
+<sup>3</sup> Während eines Zeitraums von einem Jahr ab Inkrafttreten des Gesetzes können die in Artikel 27 dieser Verordnung erwähnten Situationspläne, falls der Geometer noch nicht über eine qualifizierte elektronische Signatur verfügt, digitalisiert und vom Gesuchsteller auf der Plattform hinterlegt werden, sofern sie mit der eigenhändigen Unterschrift des Geometers versehen sind. Der Gesuchsteller muss die Originale der digitalisierten Dokumente innerhalb von 10 Tagen per Post an die zuständige Behörde übermitteln.
 
 ## A1 Anhang 1
 

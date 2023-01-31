@@ -4,13 +4,13 @@ number: "705.100"
 title: Ordonnance sur les constructions
 short: OC
 language: fr
-version: 2022-01-01
-valid_until: 2023-01-31
-version_adopted: 2018-02-28
+version: 2023-02-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-16
 adopted: 2025-03-12
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/705.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3005/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3165/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3005/pdf_file"
 
 (OC)
 
-du 22.03.2017 (état 01.01.2022)
+du 22.03.2017 (état 01.02.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -52,6 +52,12 @@ ordonne:[^ingress-1]
 <sup>1</sup> L’autorité communale au sens de la LC et de l’OC est le conseil municipal.
 
 <sup>2</sup> Pour l’accomplissement de leurs tâches concernant les procédures d’autorisation de construire et de police des constructions, les communes peuvent collaborer conformément aux dispositions de la loi sur les communes. Dans ce cadre, un service technique intercommunal peut être créé. Les communes veillent à acquérir les connaissances techniques nécessaires en matière de constructions.
+
+#### Art. 2a
+
+**Plateforme numérique**
+
+<sup>1</sup> La validation des documents déposés sur la plateforme fait office de signature manuscrite, à l’exception des cas prévus à l’article 27 de la présente ordonnance.
 
 ## 2 Règles de construction
 
@@ -277,7 +283,7 @@ ordonne:[^ingress-1]
 
 <sup>4</sup> Les installations solaires sur des biens culturels ou dans des sites naturels d’importance cantonale ou nationale sont toujours soumises à une autorisation de construire; elles ne doivent pas porter atteinte majeure à ces biens ou sites.
 
-<sup>5</sup> Les projets dispensés d’autorisation doivent être annoncés avant le début des travaux à l’autorité délivrant les autorisations de construire. L’annonce doit être faite dans un délai de 30 jours avant le début des travaux.
+<sup>5</sup> Les projets dispensés d’autorisation de construire doivent être annoncés avant le début des travaux à l’autorité délivrant les autorisations de construire. L’annonce doit être faite au format papier ou au format numérique sur la plateforme, au choix de celui qui est tenu d’annoncer, dans un délai de 30 jours avant le début des travaux.
 
 <sup>6</sup> Les plans et autres documents à joindre à l’annonce ainsi que le nombre d’exemplaires sont fixés par une directive élaborée par le département en charge des constructions (ci-après: département). Les documents comprennent les éléments d’information utiles et nécessaires pour vérifier le respect des conditions de dispense d’autorisation.
 
@@ -285,7 +291,7 @@ ordonne:[^ingress-1]
 
 **Renouvellement et remplacement des installations de combustion**
 
-<sup>1</sup> Le renouvellement et le remplacement des chaudières à mazout, à gaz et à bois, sans changement d’emplacement de la cheminée, doit être annoncé avant le début des travaux à l’autorité délivrant les autorisations de construire. L’annonce doit être faite dans un délai de 30 jours avant le début des travaux.
+<sup>1</sup> Le renouvellement et le remplacement des chaudières à mazout, à gaz et à bois, sans changement d’emplacement de la cheminée, doit être annoncé avant le début des travaux à l’autorité délivrant les autorisations de construire. L’annonce doit être faite au format papier ou au format numérique sur la plateforme, au choix de celui qui est tenu d’annoncer, dans un délai de 30 jours avant le début des travaux.
 
 <sup>2</sup> Les plans et autres documents à joindre à l’annonce ainsi que le nombre d’exemplaires sont fixés par une directive élaborée par le département. Les documents comprennent les éléments d’information utiles et nécessaires pour vérifier le respect des conditions de la législation spéciale.
 
@@ -341,13 +347,13 @@ ordonne:[^ingress-1]
 
 #### Art. 24
 
-**Demande - Forme - Plateforme informatique**
+**Demande - Format numérique**
 
-<sup>1</sup> La demande d’autorisation de construire doit être déposée sur la plateforme informatique (ci-après: plateforme) pour tous les dossiers relevant de la compétence de la CCC ou d’une commune n’ayant pas renoncé à l’utilisation de la plateforme. Les dossiers déposés au format papier sont digitalisés par l’autorité compétente.
+<sup>1</sup> Pour tous les dossiers relevant de la compétence de la CCC ou d’une commune n’ayant pas renoncé à l’utilisation de la plateforme, le choix du format numérique est effectif dès la validation de la demande d’autorisation de construire déposée sur la plateforme.
 
-<sup>2</sup> La validation de la demande d’autorisation de construire et des documents sur la plateforme remplace la signature individuelle.
+<sup>2</sup> …
 
-<sup>3</sup> Lors du dépôt de la demande d’autorisation de construire, le formulaire présent sur la plateforme doit être dûment rempli et validé par le requérant ou son mandataire, l’auteur des plans et le propriétaire du fonds. En présence de plusieurs propriétaires, les règles de consentement sont notamment régies par le droit civil.
+<sup>3</sup> Lors du dépôt de la demande d’autorisation de construire sur la plateforme, le formulaire officiel mis à disposition sur la plateforme doit être rempli et ensuite validé par l’auteur des plans, le propriétaire du fonds et le requérant ou son mandataire.
 
 - a) …
 - b) …
@@ -360,15 +366,15 @@ ordonne:[^ingress-1]
 - b) les plans et les documents spéciaux du projet;
 - c) un extrait valable du Registre foncier ou du cadastre avec mention des servitudes et des restrictions de droit public si nécessaire.
 
-<sup>5</sup> Pour les projets de peu d’importance, l’autorité compétente en matière d’autorisation de construire peut déroger aux règles de forme de la demande.
+<sup>5</sup> …
 
 #### Art. 24a
 
-**Demande - Forme - Papier**
+**Demande - Format papier**
 
-<sup>1</sup> Pour les projets relevant de la compétence du conseil municipal d’une commune ayant renoncé à l’utilisation de la plateforme, la demande d’autorisation de construire doit être adressée sous forme de dossier plié au format A4.
+<sup>1</sup> Pour les projets relevant de la compétence du conseil municipal d’une commune ayant renoncé à l’utilisation de la plateforme ou pour les projets d’administrés ayant renoncé à l’utilisation de la plateforme, la demande d’autorisation de construire doit être adressée sous forme de dossier plié au format A4.
 
-<sup>2</sup> Le formulaire officiel mis à disposition auprès des communes doit être dûment rempli et signé par le requérant ou son mandataire, l’auteur du projet et le propriétaire du fonds. En présence de plusieurs propriétaires, les règles de consentement sont notamment régies par le droit civil.
+<sup>2</sup> Le formulaire officiel mis à disposition auprès des communes doit être dûment rempli et signé manuscritement par l’auteur des plans, le propriétaire du fonds et le requérant ou son mandataire.
 
 <sup>3</sup> Les documents suivants sont joints en deux exemplaires à la demande déposée au format papier:
 
@@ -379,7 +385,7 @@ ordonne:[^ingress-1]
 
 #### Art. 24b
 
-**Demande - Forme - Dispositions communes**
+**Demande - Format - Dispositions communes**
 
 <sup>1</sup> Les dispositions du présent article sont applicables aux demandes déposées sur la plateforme ainsi qu’aux demandes déposées au format papier.
 
@@ -433,9 +439,9 @@ ordonne:[^ingress-1]
 
 #### Art. 27
 
-**Plan de situation - Forme**
+**Plan de situation - Format**
 
-<sup>1</sup> Le plan de situation doit être établi et signé par le géomètre breveté inscrit au registre fédéral ou, à défaut de mensuration fédérale, sur un extrait du plan cadastral attesté par le teneur de cadastre.
+<sup>1</sup> Le plan de situation doit être établi et signé par le géomètre breveté inscrit au registre fédéral ou, à défaut de mensuration fédérale, sur un extrait du plan cadastral attesté par le teneur de cadastre. Le géomètre doit apposer sur ces documents une signature manuscrite lorsque le format papier est applicable et une signature électronique qualifiée lorsque le format numérique est applicable.
 
 <sup>2</sup> Si l’auteur du projet fait figurer lui-même sur le plan de situation les indications requises, il utilise des couleurs permettant de les distinguer des inscriptions attestées par le géomètre breveté inscrit au registre fédéral ou le teneur de cadastre.
 
@@ -518,9 +524,13 @@ ordonne:[^ingress-1]
 
 **Dossier de compétence cantonale**
 
-<sup>1</sup> La CCC transmet à la commune, par le biais de la plateforme, la demande d’autorisation de construire et les documents annexes afin que le dossier puisse être consulté par les personnes intéressées et que le chargé de sécurité puisse examiner le projet.
+<sup>1</sup> Le SeCC transmet à la commune la demande d’autorisation de construire relevant de la compétence de la CCC et les documents annexes sur la plateforme.
+
+<sup>1<sup>bis</sup></sup> Le dossier complet doit pouvoir être consulté au format applicable à la procédure par les personnes intéressées et par le chargé de sécurité afin que ce dernier puisse examiner le projet.
 
 <sup>2</sup> Au plus tard 30 jours après la fin de la mise à l’enquête, le conseil municipal dépose sur la plateforme son préavis ainsi que les autres documents à remplir, tels que les formulaires à valider par le chargé de sécurité.
+
+<sup>3</sup> Si le format papier est applicable, le SeCC imprime les préavis pour les intégrer au dossier papier.
 
 ### 3.3.3 Opposition
 
@@ -544,21 +554,15 @@ ordonne:[^ingress-1]
 
 #### Art. 36
 
-**Consultation des organes cantonaux par les communes**
-
-<sup>1</sup> Après avoir examiné la conformité du projet aux dispositions du droit des constructions dont l’application lui incombe, la commune peut transmettre le dossier au SeCC afin que ce dernier consulte les organes cantonaux concernés. La transmission du dossier est faite par le biais de la plateforme.
-
-<sup>2</sup> Les demandes d'autorisation de construire qui, en raison de prescriptions légales, nécessitent obligatoirement la consultation d'un service cantonal spécialisé, doivent être transmises au SeCC par le biais de la plateforme. Le SeCC consulte ensuite uniquement les organes cantonaux devant obligatoirement être consultés. La commune est libre de solliciter d'autres préavis des services cantonaux.
-
-<sup>3</sup> Les préavis motivés des organes cantonaux qui répondent à l’application impérative d’une législation spéciale doivent préciser les dispositions légales sur lesquelles ils se fondent.
-
-<sup>4</sup> En cas de consultation, le SeCC communique au conseil municipal, dans les 30 jours dès réception des dossiers complets, le résultat des prises de position des organes cantonaux. Si pour des raisons impératives ce délai doit être prolongé, les parties doivent être informées de cet ajournement et de ses motifs.
+**…**
 
 #### Art. 37
 
 **Octroi ou refus**
 
 <sup>1</sup> En veillant à respecter le principe de coordination et après examen des éventuels préavis des services cantonaux, l’autorité compétente délivre l’autorisation de construire, le cas échéant, avec les autorisations spéciales.
+
+<sup>1<sup>bis</sup></sup> Les autres autorisations nécessaires sont notifiées aux intéressés par l’autorité de la procédure décisive en même temps que la décision relative à l'autorisation de construire dans la mesure où aucune disposition de la législation spéciale ne s'y oppose, ce conformément au format choisi lors de l’engagement de la procédure. Les autorisations spéciales cantonales font partie intégrante de la décision d’autorisation de construire rendues par la CCC.
 
 <sup>2</sup> L’autorité compétente refuse l’autorisation de construire lorsque le projet contrevient à des dispositions légales et réglementaires de droit public.
 
@@ -597,25 +601,29 @@ ordonne:[^ingress-1]
 
 #### Art. 39
 
-**Notification - Plateforme**
+**Notification - Format numérique**
 
-<sup>1</sup> La décision de la CCC ou du conseil municipal d’une commune utilisant la plateforme est déposée sur celle-ci accompagnée du formulaire de demande d’autorisation de construire ainsi que des plans approuvés. Le requérant ou son mandataire et les opposants sont informés que la décision accompagnée des plans autorisés est disponible sur la plateforme. Pour les décisions de compétence communale, le SeCC est également informé.
+<sup>1</sup> L’autorité compétente notifie ses décisions sur la plateforme pour autant que les administrés aient expressément accepté cette forme de communication. L’acceptation expresse se fait via l’insertion, par l’administré, d’une coche au lieu indiqué sur la plateforme.
 
-<sup>2</sup> La décision est notifiée par écrit au requérant ou à son mandataire et aux opposants n’ayant pas accès à la plateforme. L’autorisation de construire notifiée au requérant ou à son mandataire sera accompagnée d’un exemplaire de la formule de demande d’autorisation de construire ainsi que des plans approuvés.
+<sup>2</sup> Les décisions sont munies d’une signature électronique qualifiée conformément à la législation fédérale sur la signature électronique.
 
-<sup>3</sup> Le moment de la consultation de la décision sur la plateforme après la communication par l’autorité détermine le moment de la notification.
+<sup>3</sup> Lorsque le format numérique est applicable, la décision de la CCC ou du conseil municipal est notifiée sur la plateforme accompagnée du formulaire de demande d’autorisation de construire ainsi que des plans approuvés.
 
-<sup>4</sup> Une décision n’ayant pas été consultée sur la plateforme est réputée notifiée au plus tard 7 jours après la communication de l’autorité.
+<sup>4</sup> Toute décision de l’autorité est notifiée par le dépôt, sur la plateforme, d’un message à l’attention de l’administré. La consultation de ce message par l’administré vaut notification dudit message ainsi que des liens qu’il contient et qui renvoient à la décision. A défaut de consultation de ce message, celui-ci, de même que les liens qu’il contient et la décision à laquelle ceux-ci renvoient, sont réputés notifiés et consultés au plus tard 7 jours après le dépôt du message.
 
-<sup>5</sup> Le Conseil d’Etat fixe les modalités de communication dans le règlement d’accès et d’utilisation de la plateforme.
+<sup>4<sup>bis</sup></sup> Les décisions de compétence communale et ses annexes (y compris notamment les plans approuvés et les éventuelles autorisations spéciales) sont adressées au SeCC pour information.
+
+<sup>5</sup> Le Conseil d’Etat fixe les autres modalités de notification des décisions dans le ReC.
 
 #### Art. 39a
 
-**Notification - Ecrite**
+**Notification - Format papier**
 
-<sup>1</sup> La décision du conseil municipal d’une commune ayant renoncé à l’utilisation de la plateforme est notifiée par écrit au requérant ou à son mandataire et aux opposants. L’autorisation de construire notifiée au requérant ou à son mandataire sera accompagnée d’un exemplaire du formulaire de demande d’autorisation de construire ainsi que des plans approuvés par le conseil municipal.
+<sup>1</sup> La décision du conseil municipal d’une commune ayant renoncé à l’utilisation de la plateforme est notifiée par écrit au requérant ou à son mandataire et aux opposants. Il en va de même dans le cas où l’administré a renoncé à l’utilisation de la plateforme.
 
-<sup>2</sup> La décision accompagnée du formulaire de demande d’autorisation de construire ainsi que des plans approuvés est transmise au SeCC par le biais de la plateforme.
+<sup>1<sup>bis</sup></sup> L’autorisation de construire notifiée au requérant ou à son mandataire est accompagnée d’un exemplaire du formulaire de demande d’autorisation de construire ainsi que des plans approuvés par le conseil municipal, du formulaire eConstruction et des éventuelle autorisations spéciales.
+
+<sup>2</sup> La décision accompagnée des documents mentionnés à l’alinéa 1<sup>bis</sup> du présent article est transmise au SeCC sur la plateforme
 
 ### 3.3.5 Validité de l’autorisation de construire
 
@@ -670,6 +678,8 @@ ordonne:[^ingress-1]
 <sup>2</sup> Lorsque les travaux sont suspendus sans justes motifs - pour un ensemble de constructions depuis plus de deux ans -, l’autorité compétente doit exiger soit leur achèvement, soit une adaptation acceptable ou, le cas échéant, la démolition des constructions et installations commencées avec remise en état des lieux dans un état conforme au droit.
 
 <sup>3</sup> Les dispositions de la loi concernant l’exécution par substitution, l’intervention sans procédure préalable et la garantie des frais y relatifs sont applicables.
+
+<sup>4</sup> Le format applicable à la procédure de demande d’autorisation de construire autorisée s’applique dans les cas énoncés aux alinéas précédents.
 
 #### Art. 45
 
@@ -752,6 +762,16 @@ ordonne:[^ingress-1]
 <sup>1</sup> Les modalités de transfert des dossiers et des documents de l’ancien article 33 restent applicables jusqu’à ce que le Conseil d’Etat constate le fonctionnement adéquat de la plateforme au SeCC.
 
 <sup>2</sup> Les modalités de transfert des dossiers et des documents de l’ancien article 36 restent applicables jusqu’à ce que le Conseil d’Etat constate le fonctionnement adéquat de la plateforme dans une commune. Dans tous les cas, cette période transitoire ne peut excéder une durée de 3 ans dès l’entrée en vigueur des présentes modifications.
+
+## T3 Disposition transitoire de la modification du 16 septembre 2022
+
+#### Art. T3-1
+
+<sup>1</sup> La présente ordonnance s’applique dès son entrée en vigueur, y compris aux procédures pendantes que la loi réglemente.
+
+<sup>2</sup> Les procédures mentionnées dans la présente ordonnance sont implémentées et rendues accessibles au public sur la plateforme d’ici au 31 décembre 2024. L’implémentation d’une procédure sur la plateforme et son accessibilité au public fait l’objet d’une communication au Bulletin officiel par le Département en charge des constructions.
+
+<sup>3</sup> Durant une période d’un an à compter de l’entrée en vigueur de la loi, les plans de situation mentionnés à l’article 27 de la présente ordonnance peuvent, dans le cas où le géomètre ne se trouve pas encore au bénéfice d’une signature électronique qualifiée, être numérisés et déposés sur la plateforme par le requérant pour autant qu’ils soient munis de la signature manuscrite du géomètre. Le requérant doit, dans un délai de 10 jours, transmettre les originaux des documents scannés à l’autorité compétente, par poste.
 
 ## A1 Annexe 1
 
