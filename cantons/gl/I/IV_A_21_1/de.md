@@ -3,20 +3,20 @@ canton: GL
 number: IV A/21/1
 title: Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 language: de
-version: 2022-07-01
-valid_until: 2023-01-31
-version_adopted: 2022-06-09
+version: 2023-02-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-10
 adopted: 1991-01-24
 in_force: 1991-01-24
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-A.21.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2339/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 
-Vom 24.01.1991 (Stand 01.07.2022)
+Vom 24.01.1991 (Stand 01.02.2023)
 
 (Beschlossen an der ausserordentlichen Synode vom 24. Januar 1991)
 
@@ -1891,11 +1891,11 @@ Vom 24.01.1991 (Stand 01.07.2022)
 
 **Baufonds**
 
-<sup>1</sup> Die Evangelisch-Reformierte Landeskirche unterhält einen Fonds zum Zweck der Mitfinanzierung von Bauvorhaben der Kirchgemeinden und der Landeskirche.
+<sup>1</sup> Die Evangelisch-Reformierte Landeskirche unterhält einen Fonds zum Zweck der Mitfinanzierung von Bauvorhaben der Kirchgemeinden.
 
-<sup>2</sup> Dieser Fonds wird gespiesen durch Beiträge gemäss Artikel 204 Buchstabe b.
+<sup>2</sup> Dieser Fonds wird gespiesen durch Steuerbeiträge der Kirchgemeinden gemäss Artikel 204 Buchstabe b.
 
-<sup>3</sup> Die Bedingungen für Zahlungen aus dem Fonds sind in einer Verordnung festgelegt.
+<sup>3</sup> Die Synode regelt die Bedingungen für Leistungen aus dem Fonds und das Gesuchverfahren in einer Verordnung.
 
 ### 2.2. Organe der Evangelisch-Reformierten Landeskirche
 
