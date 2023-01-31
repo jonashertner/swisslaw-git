@@ -4,11 +4,11 @@ title: Ordinanza del 28 ottobre 1998 sulla protezione delle acque (OPAc)
 short: OPAc
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: it
-version: 2023-01-01
+version: 2023-02-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/it"
 
 (OPAc)
 
-del 28 ottobre 1998 (Stato 1° gennaio 2023)
+del 28 ottobre 1998 (Stato 1° febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -331,7 +331,7 @@ L’autorità verifica periodicamente se:
 <sup>3</sup> Restano salve le disposizioni ulteriori dell’ordinanza del 27 febbraio 1991[^16-1] sulla protezione contro gli incidenti rilevanti e dell’ordinanza del 20 novembre 1991[^16-2] sulla garanzia dell’approvvigionamento di acqua potabile in situazioni di emergenza.
 
 [^16-1]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^16-2]: [[RU 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)n. I 2: [RU 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)art. 15]. Vedi ora l’O del 19 ago. 2020 sulla garanzia dell’approvvigionamento di acqua potabile in situazioni di grave penuria ([RS 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)).
+[^16-2]: [[RU 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)n. I 2. [RU 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)art. 15]. Vedi ora l’O del 19 ago. 2020 sulla garanzia dell’approvvigionamento di acqua potabile in situazioni di grave penuria ([RS 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)).
 
 #### Art. 17
 
@@ -1105,6 +1105,18 @@ Se constata che le acque non corrispondono alle esigenze fissate nell’allegato
 
 <sup>2</sup> Se le fonti dell’inquinamento sono diverse, occorre armonizzare tra loro le misure che i responsabili sono tenuti ad adottare.
 
+#### Art. 47a
+
+**Controllo delle aree di riempimento e dei piazzali di lavaggio**[^47a-1]
+
+<sup>1</sup> I Cantoni rilevano e controllano almeno una volta nell’arco di quattro anni le aree di riempimento e i piazzali di lavaggio professionale o commerciale degli utenti di prodotti fitosanitari in cui vengono riempiti o puliti irroratrici e nebulizzatori.
+
+<sup>2</sup> Si assicurano che eventuali lacune riscontrate siano colmate immediatamente, ma al più tardi entro due anni, a seconda della gravità del pericolo per le acque.
+
+<sup>3</sup> Ogni quattro anni i Cantoni presentano un rapporto all’UFAM sullo stato dei rilevamenti e dei controlli e sulle lacune riscontrate e la loro eliminazione.
+
+[^47a-1]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)). Vedi anche le disp. trans. di detta mod. qui avanti.
+
 #### Art. 48
 
 **Analisi e accertamenti**
@@ -1113,7 +1125,41 @@ Se constata che le acque non corrispondono alle esigenze fissate nell’allegato
 
 <sup>2</sup> Nella misura in cui la presente ordinanza non contiene prescrizioni sul genere e la frequenza dei prelievi di campioni e sugli accertamenti in merito all’adempimento delle esigenze, l’autorità fissa le prescrizioni di caso in caso.
 
+<sup>3</sup> Entro il 1° giugno di ogni anno, i Cantoni comunicano all’UFAM, secondo le modalità prescritte da quest’ultimo, i risultati delle analisi e degli accertamenti sulla presenza di pesticidi nelle acque.[^48-2]
+
 [^48-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^48-2]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
+
+#### Art. 48a
+
+**Segnalazione del superamento di valori limite**[^48a-1]
+
+<sup>1</sup>
+
+L’UFAM segnala ai servizi di omologazione dei prodotti fitosanitari e dei biocidi i pesticidi ai fini della revisione dell’omologazione se:
+
+- a. questi o i loro prodotti di degradazione superano ripetutamente e ampiamente il valore limite di 0,1 µg/l nelle acque che assicurano l’approvvigionamento in acqua potabile o previste per questo scopo (art. 9 cpv. 3 lett. a LPAc); o
+- b. questi superano ripetutamente e ampiamente i valori limite ecotossicologici nelle acque superficiali (art. 9 cpv. 3 lett. b LPAc).
+
+<sup>2</sup> Come valori limite ecotossicologici si applicano le esigenze relative alla qualità delle acque espresse in valori numerici secondo l’allegato 2 numero 11 capoverso 3 numero 4 nella tabella che divergono dal valore generale di 0,1 µg/l.
+
+<sup>3</sup>
+
+Un valore limite secondo l’articolo 9 capoverso 3 LPAc è considerato superato ripetutamente e ampiamente per le acque che servono o sono previste per l’utilizzo come acqua potabile se:
+
+- a. nel corso di un anno è superato in almeno tre Cantoni;
+- b. è superato almeno nel 5 per cento delle acque analizzate; e
+- c. i superamenti di cui alle lettere a e b sono misurati durante almeno due di cinque anni consecutivi.
+
+<sup>4</sup>
+
+Un valore limite secondo l’articolo 9 capoverso 3 LPAc è considerato superato ripetutamente e ampiamente per le acque superficiali se:
+
+- a. nel corso di un anno è superato in almeno tre Cantoni;
+- b. è superato almeno nel 10 per cento delle acque analizzate; e
+- c. i superamenti di cui alle lettere a e b sono misurati durante almeno due di cinque anni consecutivi.
+
+[^48a-1]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
 
 #### Art. 49
 
@@ -1554,6 +1600,14 @@ L’autorità cantonale può concedere, sino al 31 dicembre 2015, una deroga sec
 - c. della quota di acque di scarico nelle acque del ricettore naturale;
 - d. della lunghezza del tratto di corso d’acqua influenzato dall’immissione di acque di scarico.
 
+## Disposizione transitoria della modifica del 16 dicembre 2022
+
+[^u5-1]
+
+[^u5-1]: [RU 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)
+
+I Cantoni effettuano un rilevamento e un controllo delle aree di riempimento e dei piazzali di lavaggio secondo l’articolo 47*a* per la prima volta entro il 31 dicembre 2026. Le lacune riscontrate devono essere colmate immediatamente, ma al più tardi entro il 31 dicembre 2028, a seconda della gravità del pericolo per le acque. Fino alla conclusione di questo primo controllo, la presentazione del rapporto (art. 47*a* cpv. 2) avviene annualmente.
+
 Allegato 1
 
 (art. 1)
@@ -1783,11 +1837,11 @@ Allegato 3.1[^t-2]
 <tr><td>2</td><td>Richiesta di ossigeno chimica *(COD)*</td><td>Per acque di scarico da impianti di meno di 10 000 AE: – concentrazione in uscita: 60 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 80 % Per acque di scarico da impianti di 10 000 AE e più: – concentrazione in uscita: 45 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 85 %</td></tr>
 <tr><td>3</td><td>Carbonio organico disciolto *(DOC)*</td><td>Per acque di scarico da impianti di 2000 e più AE: – concentrazione in uscita: 10 mg/l ed – efficienza depurativa: 85 %, espressa come segue:</td></tr>
 <tr><td></td><td></td><td>100 • (1 – mg DOC nelle acque di scarico depurate mg carbonio organico totale nelle acque di scarico non trattate</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/it/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/it/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>
 <tr><td>4</td><td>Trasparenza *(secondo Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonio *(Somma di NH**<sub>4</sub>**<sup>+</sup>* – *N e* *NH**<sub>3</sub>* – *N)*</td><td>Se le concentrazioni di ammonio nelle acque di scarico possono avere effetti pregiudizievoli sulla qualità di un corso d’acqua, per una temperatura dell’acqua superiore ai 10 °C valgono i seguenti valori: – concentrazione in uscita: 2 mg/l N ed – efficienza depurativa: 90 %, espressa come segue:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/it/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/it/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>In questi casi si deve eseguire una nitrificazione durante tutto l’anno. *Nota:* il valore dell’azoto ottenuto con il metodo di Kjeldahl corrisponde alla somma dell’azoto contenuto nei sali di ammonio, nell’ammoniaca e nei composti organici azotati.</td></tr>
 <tr><td>6</td><td>Nitrito *(NO**<sub>2</sub>*<sup>–</sup> - *N)*</td><td>0.3 mg/l N (valore indicativo)</td></tr>
 <tr><td>7</td><td>Composti organici alogenati adsorbibili *(AOX)*</td><td>0.08 mg/l X Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>
@@ -2319,7 +2373,7 @@ Sono abrogati:
 - c. l’ordinanza del 22 ottobre 1981[^annex5-lvlu1-lvl1-3] concernente le carte d’azzonamento per la protezione delle acque;
 - d. il regolamento del 9 agosto 1972[^annex5-lvlu1-lvl1-4] per la Commissione federale della protezione delle acque.
 
-[^annex5-lvlu1-lvl1-1]: [RU **1972** 967, [1980 48](https://fedlex.data.admin.ch/eli/oc/1980/48_48_48), [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)n. II 2, [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 6, [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)n. I, II]
+[^annex5-lvlu1-lvl1-1]: [RU **1972** 967; [1980 48](https://fedlex.data.admin.ch/eli/oc/1980/48_48_48); [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)n. II 2; [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 6; [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)n. I, II]
 [^annex5-lvlu1-lvl1-2]: [[RU 1975 2403](https://fedlex.data.admin.ch/eli/oc/1975/2403_2403_2403), [1989 2048](https://fedlex.data.admin.ch/eli/oc/1989/2048_2048_2048), [1993 3022](https://fedlex.data.admin.ch/eli/oc/1993/3022_3022_3022)n. IV 5]
 [^annex5-lvlu1-lvl1-3]: [[RU 1981 1738](https://fedlex.data.admin.ch/eli/oc/1981/1738_1738_1738)]
 [^annex5-lvlu1-lvl1-4]: [RU **1972** 1708]

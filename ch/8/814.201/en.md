@@ -4,11 +4,11 @@ title: Waters Protection Ordinance of 28 October 1998 (WPO)
 short: WPO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: en
-version: 2023-01-01
+version: 2023-02-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230201-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (WPO)
 
-of 28 October 1998 (Status as of 1 January 2023)
+of 28 October 1998 (Status as of 1 February 2023)
 
 The Swiss Federal Council,
 
@@ -179,7 +179,7 @@ They may apply less stringent requirements if:
 
 They shall set additional or stricter requirementsif by discharge of waste water:
 
-- a. operation of public sewers may be restrict or disrupted;
+- a. operation of public sewers may be restricted or disrupted;
 - b. in the case of waste water from the central waste water treatment plant, the requirements on discharge into a body of water are not met or may only be met by disproportionate measures, or could restrict or disrupt the operation of the plant in another way; or
 - c.[^7-1] ...
 - d. the operation of the plant in which sludge is incinerated may restricted or disrupted.
@@ -374,7 +374,7 @@ The disposal plan sets the following as a minimum:
 
 <sup>1</sup> Persons responsible for waste water treatment plants shall ensure that they can store the sludge until environmentally compatible disposal is guaranteed.
 
-<sup>2</sup> If sludge from a waste water treatment plant cannot be disposed of in an environmentally compatible manner at any time, the plant must have a storage capacities of at least two months.[^19-1]
+<sup>2</sup> If sludge from a waste water treatment plant cannot be disposed of in an environmentally compatible manner at any time, the plant must have a storage capacity of at least two months.[^19-1]
 
 <sup>3</sup> ...[^19-2]
 
@@ -459,9 +459,9 @@ Farms serving the public interest (Art. 14 para. 7 let. b WPA) are:
 
 [^25-1]: Amended by Annex 9 No 2 of the Direct Payments Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^25-2]: Repealed by Annex 9 No 2 of the Direct Payments Ordinance of 23 Oct. 2013, with effect from 1 Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^25-3]: Amended by No II of the O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5881](https://fedlex.data.admin.ch/eli/oc/2010/841)). See also the Transitional Provision of this modification at the end of the text.
+[^25-3]: Amended by No II of the O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5881](https://fedlex.data.admin.ch/eli/oc/2010/841)). See also the Transitional Provision to this amendment at the end of the text.
 [^25-4]: Amended by No III of the O of 25 May 2011, in force since 1 July 2011 ([AS 2011 2407](https://fedlex.data.admin.ch/eli/oc/2011/350)).
-[^25-5]: Inserted by No III of the O of 25 May 2011, in force since 1 July 2011 ([AS 2011 2407](https://fedlex.data.admin.ch/eli/oc/2011/350)). See also the Transitional Provision of this modification at the end of the text.
+[^25-5]: Inserted by No III of the O of 25 May 2011, in force since 1 July 2011 ([AS 2011 2407](https://fedlex.data.admin.ch/eli/oc/2011/350)). See also the Transitional Provision to this amendment at the end of the text.
 [^25-6]: Amended by Annex 9 No 2 of the Direct Payments Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 [^25-7]: Amended by Annex 9 No 2 of the Direct Payments Ordinance of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
@@ -735,7 +735,7 @@ Articles 36–40 apply by analogy to planned water withdrawals for which a licen
 
 [^chap7-sec1-1]
 
-[^chap7-sec1-1]: Inserted by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). See also the Transitional Provision of this modification at the end of the text.
+[^chap7-sec1-1]: Inserted by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). See also the Transitional Provision to this amendment at the end of the text.
 
 #### Art. 41a
 
@@ -1105,6 +1105,18 @@ If the authorities establish that a body of water does not fulfil the requiremen
 
 <sup>2</sup> If several sources of pollution are involved, the measures to be taken by those responsible must be coordinated.
 
+#### Art. 47a
+
+**Inspection of filling and washing stations**[^47a-1]
+
+<sup>1</sup> The cantons shall survey and inspect at least once every four years the filling and washing stations of professional or commercial users of plant protection products where sprayers are filled or washed out.
+
+<sup>2</sup> They shall ensure that any defects identified are rectified immediately or within two years at the latest, depending on the severity of the risk of pollution to the waters.
+
+<sup>3</sup> They shall report to the FOEN every four years on the status of the surveys, inspections, defects identified and their rectification.
+
+[^47a-1]: Inserted by No I of the O of 16 Dec. 2022, in force since 1 Feb. 2023 ([AS 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)). See also the Transitional Provision to this amendment at the end of the text.
+
 #### Art. 48
 
 **Investigations and assessments**
@@ -1113,7 +1125,41 @@ If the authorities establish that a body of water does not fulfil the requiremen
 
 <sup>2</sup> Insofar as this Ordinance contains no regulations on the type and frequency of sampling or the assessment of compliance with requirements, the authorities shall specify such regulations on a case-by-case basis.
 
+<sup>3</sup> The cantons shall notify the FOEN of the results of their investigations and findings regarding pesticides in waters by 1 June of each year as specified by the FOEN.[^48-2]
+
 [^48-1]: Standards may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^48-2]: Inserted by No I of the O of 16 Dec. 2022, in force since 1 Feb. 2023 ([AS 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
+
+#### Art. 48a
+
+**Reporting of limit value exceedances**[^48a-1]
+
+<sup>1</sup>
+
+The FOEN shall notify the authorisation bodies for plant protection products and biocidal products of pesticides for authorisation review if:
+
+- a. these or their degradation products repeatedly and widely exceed the limit value of 0.1 µg/l in waters used or intended for use for drinking water (Art. 9 para. 3 let. a WPA); or
+- b. these repeatedly and widely exceed the ecotoxicological limit values in surface waters (Art. 9 para. 3 let. b WPA).
+
+<sup>2</sup> The ecotoxicological limit values are the numerical requirements for water quality in accordance with Annex 2 No 11 paragraph 3 Table number 4 which deviate from the general value of 0.1 µg/l.
+
+<sup>3</sup>
+
+A limit value in accordance with Article 9 paragraph 3 WPA is considered to be repeatedly and widely exceeded for waters that are used or intended for use for drinking water if:
+
+- a. it is exceeded in at least three cantons within one year;
+- b. it is exceeded in at least five per cent of all waters studied; and
+- c. a distribution according to letters a and b is measured in at least two out of five consecutive years.
+
+<sup>4</sup>
+
+A limit value in accordance with Article 9 paragraph 3 WPA is considered to be repeatedly and widely exceeded for surface waters if:
+
+- a. it is exceeded in at least three cantons within one year;
+- b. it is exceeded in at least 10 per cent of all waters studied; and
+- c. a distribution according to letters a and b is measured in at least two out of five consecutive years.
+
+[^48a-1]: Inserted by No I of the O of 16 Dec. 2022, in force since 1 Feb. 2023 ([AS 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
 
 #### Art. 49
 
@@ -1129,7 +1175,7 @@ If the authorities establish that a body of water does not fulfil the requiremen
 
 **Geoinformation**[^49a-1]
 
-The FOEN shall provide specifications for the minimum geodata models and presentation models for the official geodata under this Ordinance for which it is designated federal specialist authority in Annex 1 to the Geoinformation Ordinance of 21 May 2008[^49a-2].
+The FOEN shall provide specifications for the minimum geodata models and presentation models for the official geodata under this Ordinance for which it is designated federal specialist authority in Annex 1 to the Geoinformation Ordinance of 21 May 2008.[^49a-2]
 
 [^49a-1]: Inserted by Annex 2 No 7 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^49a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
@@ -1304,7 +1350,7 @@ Compensatory payments may be made individually if the measures:
 
 <sup>6</sup> No compensatory payments shall be granted under Article 62*b* paragraph 1 WPA for measures required under Article 4 of the Federal Act of 21 June 1991[^54b-2] on Hydraulic Engineering.
 
-[^54b-1]: Inserted by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). See also the transitional provision relating to this amendment at the end of the text.
+[^54b-1]: Inserted by No I of the O of 4 May 2011, in force since 1 June 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)). See also the Transitional Provision to this amendment at the end of the text.
 [^54b-2]: [SR 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
 
 #### Art. 55
@@ -1502,7 +1548,7 @@ Reporting and controls in relation to compensatory payments and financial assist
 
 This Ordinance comes into force on 1 January 1999.
 
-## Transitional provision to the Amendment of 18 October 2006
+## Transitional Provision to the Amendment of 18 October 2006
 
 [^u1-1]
 
@@ -1552,6 +1598,14 @@ The cantonal authority may grant an exception under Article 25 paragraph 1 until
 - b. the size of the waste water treatment plants;
 - c. the volume of waste water in the receiving waters;
 - d. the length of the flow section in waters that are affected by the discharge of waste water.
+
+## Transitional Provision to the Amendment of 16 December 2022
+
+[^u5-1]
+
+[^u5-1]: [AS 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)
+
+The cantons shall survey and inspect the filling and washing stations in accordance with Article 47*a* for the first time by 31 December 2026 at the latest. Any defects identified shall be remedied immediately, but no later than 31 December 2028, depending on the severity of the risk of pollution to the waters. Until the completion of these initial checks, reporting (Art. 47*a* para. 3) shall be carried out annually.
 
 Annex 1
 
@@ -1761,7 +1815,7 @@ Annex 3.1[^t-2]
 
 ## Discharge of communal waste water into waters
 
-[^t-2]: Revised by No I of the O of 31 Oct. 2001 ([AS 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), No III of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) and No I of the O of 17 April 2019, in force since 1 Jan. 2021 ([AS 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). See also the transitional provision to the amendment of 4 Nov. 2015 above. The correction of 7 Feb. 2017 relates to the Italian text only ([AS 2017 509](https://fedlex.data.admin.ch/eli/oc/2017/88)).
+[^t-2]: Revised by No I of the O of 31 Oct. 2001 ([AS 2001 3168](https://fedlex.data.admin.ch/eli/oc/2001/477)), No III of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) and No I of the O of 17 April 2019, in force since 1 Jan. 2021 ([AS 2019 1489](https://fedlex.data.admin.ch/eli/oc/2019/287)). See also the Transitional Provision to the amendment of 4 Nov. 2015 above. The correction of 7 Feb. 2017 relates to the Italian text only ([AS 2017 509](https://fedlex.data.admin.ch/eli/oc/2017/88)).
 
 ### 1 Definition and principles
 
@@ -1784,9 +1838,9 @@ Annex 3.1[^t-2]
 <tr><th>No.</th><th>Parameter</th><th>Requirements</th></tr>
 <tr><td>1</td><td>Total suspended solids</td><td>For waste water from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 20 mg/l For waste water from plants from 10 000 PE the following applies: – discharge concentration: 15 mg/l</td></tr>
 <tr><td>2</td><td>Chemical oxygen demand *(COD)*</td><td>For waste water from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 60 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw waste water: 80% For waste water from plants of 10.000 PE or over the following requirements apply: – discharge concentration: 45 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw waste water: 85%</td></tr>
-<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For waste water from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
+<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For waste water from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
 <tr><td>4</td><td>Transparency *(Snellen method)*</td><td>30 cm</td></tr>
-<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the waste water are potentially detrimental to the water quality of a watercourse, the following requirements apply if the waste water temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
+<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the waste water are potentially detrimental to the water quality of a watercourse, the following requirements apply if the waste water temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
 <tr><td>6</td><td>Nitrite *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</td><td>0.3 mg/l N (guide value)</td></tr>
 <tr><td>7</td><td>Adsorbable organic halogen *(AOX)*</td><td>0.08 mg/l X. If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
 <tr><td>8</td><td>Organic substances that can pollute waters even in low concentrations *(organic trace substances)*</td><td>The removal efficiency with respect to raw waste water and measured using selected substances must amount to 80 % for waste water from: – plants with 80 000 or more connected residents; – plants with 24 000 or more connected residents in the catchment area of lakes; the canton may authorise exceptions if the benefit of removal for the environment and for the drinking water supply is negligible; – plants with 8000 or more connected residents that discharge into a watercourse containing more than 10 % waste water untreated for organic trace substances; the canton shall identify the plants that must take measures as part of a plan for the catchment area; – other plants with 8000 or more connected residents if removal is required due to special hydrogeological conditions; – ...[^annex31-lvlu1-lvl2-1] The Department shall specify the substances to be used to measure the removal efficiency in an ordinance, and how efficiency is calculated.</td></tr>
@@ -2090,7 +2144,7 @@ Annex 4[^t-5]
 
 ## Planning the Protection of Waters
 
-[^t-5]: Revised by Annex 2 No 4 of Plant Protection Products Ordinance of 23 June 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II 9 of the O of 18 May 2005 on the Repeal and Amendment of Ordinances in connection with the Commencement of the Chemicals Act ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), No II of the O of 18 Oct. 2006 ([AS 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)), No II para. 1 of the O of 4 May 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)) and No III of the O of 4 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). See also the transitional provision to this amendment above.
+[^t-5]: Revised by Annex 2 No 4 of Plant Protection Products Ordinance of 23 June 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II 9 of the O of 18 May 2005 on the Repeal and Amendment of Ordinances in connection with the Commencement of the Chemicals Act ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), No II of the O of 18 Oct. 2006 ([AS 2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)), No II para. 1 of the O of 4 May 2011 ([AS 2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)) and No III of the O of 4 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)). See also the Transitional Provision to this amendment above.
 
 ### 1 Description of water protection areas at particular risk and determination of groundwater protection zones and areas
 
@@ -2339,6 +2393,6 @@ The following are repealed:
 
 ### 2.-5.
 
-...[^annex5-lvlu1-lvlu2-1]
+…[^annex5-lvlu1-lvlu2-1]
 
 [^annex5-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863).

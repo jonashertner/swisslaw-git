@@ -4,11 +4,11 @@ title: Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)
 short: GSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: de
-version: 2023-01-01
+version: 2023-02-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/de"
 
 (GSchV)
 
-vom 28. Oktober 1998 (Stand am 1. Januar 2023)
+vom 28. Oktober 1998 (Stand am 1. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -331,7 +331,7 @@ Die Behörde überprüft periodisch, ob:
 <sup>3</sup> Weitergehende Vorschriften der Störfallverordnung vom 27. Februar 1991[^16-1] und der Verordnung vom 20. November 1991[^16-2] über die Sicherstellung der Trinkwasserversorgung in Notlagen bleiben vorbehalten.
 
 [^16-1]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^16-2]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517), [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)Ziff. I 2. [AS 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)Art. 15]. Siehe heute: die V vom 19. Aug. 2020 ([SR 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)).
+[^16-2]: [[AS 1991 2517](https://fedlex.data.admin.ch/eli/oc/1991/2517_2517_2517); [2017 3179](https://fedlex.data.admin.ch/eli/oc/2017/313)Ziff. I 2. [AS 2020 3671](https://fedlex.data.admin.ch/eli/oc/2020/666)Art. 15]. Siehe heute: die V vom 19. Aug. 2020 ([SR 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)).
 
 #### Art. 17
 
@@ -1102,6 +1102,18 @@ Stellt die Behörde fest, dass ein Gewässer die Anforderungen an die Wasserqual
 
 <sup>2</sup> Sind mehrere Quellen an der Verunreinigung beteiligt, so sind die bei den Verursachern erforderlichen Massnahmen aufeinander abzustimmen.
 
+#### Art. 47a
+
+**Kontrolle der Befüll- und Waschplätze**[^47a-1]
+
+<sup>1</sup> Die Kantone erheben und kontrollieren mindestens einmal innerhalb von vier Jahren die Befüll- und Waschplätze von beruflichen oder gewerblichen Verwenderinnen und Verwendern von Pflanzenschutzmitteln, auf denen Spritz- und Sprühgeräte befüllt oder gereinigt werden.
+
+<sup>2</sup> Sie sorgen dafür, dass die festgestellten Mängel je nach Schwere der Gewässergefährdung umgehend, spätestens aber innerhalb von zwei Jahren, behoben werden.
+
+<sup>3</sup> Sie erstatten dem BAFU alle vier Jahre Bericht über den Stand der Erhebungen, der Kontrollen, die festgestellten Mängel und deren Behebung.
+
+[^47a-1]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+
 #### Art. 48
 
 **Untersuchungen und Ermittlungen**
@@ -1110,7 +1122,41 @@ Stellt die Behörde fest, dass ein Gewässer die Anforderungen an die Wasserqual
 
 <sup>2</sup> Soweit diese Verordnung keine Vorschriften über die Art und Häufigkeit der Probenahmen und die Ermittlung der Einhaltung der Anforderungen enthält, legt dies die Behörde im Einzelfall fest.
 
+<sup>3</sup> Die Kantone teilen dem BAFU nach dessen Vorgaben die Ergebnisse ihrer Untersuchungen und Ermittlungen zu Pestiziden in den Gewässern jährlich bis zum 1. Juni mit.[^48-2]
+
 [^48-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^48-2]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
+
+#### Art. 48a
+
+**Meldung von Grenzwertüberschreitungen**[^48a-1]
+
+<sup>1</sup>
+
+Das BAFU meldet den Zulassungsstellen für Pflanzenschutzmittel und für Biozidprodukte Pestizide zur Überprüfung der Zulassung, wenn:
+
+- a. diese oder ihre Abbauprodukte den Grenzwert von 0,1 µg/l in Gewässern, die der Trinkwassernutzung dienen oder dafür vorgesehen sind, wiederholt und verbreitet überschreiten (Art. 9 Abs. 3 Bst. a GSchG); oder
+- b. diese die ökotoxikologischen Grenzwerte in Oberflächengewässern wiederholt und verbreitet überschreiten (Art. 9 Abs. 3 Bst. b GSchG).
+
+<sup>2</sup> Als ökotoxikologische Grenzwerte gelten die numerischen Anforderungen an die Wasserqualität gemäss Anhang 2 Ziffer 11 Absatz 3 Tabelle Nummer 4, die vom generellen Wert von 0,1 µg/l abweichen.
+
+<sup>3</sup>
+
+Ein Grenzwert gemäss Artikel 9 Absatz 3 GSchG gilt dann für Gewässer, die der Trinkwassernutzung dienen oder dafür vorgesehen sind, als wiederholt und verbreitet überschritten, wenn:
+
+- a. er innerhalb eines Jahres in mindestens drei Kantonen;
+- b. mindestens in fünf Prozent aller untersuchten Gewässern überschritten wird; und
+- c. eine Verbreitung nach Buchstaben a und b mindestens in zwei von fünf aufeinanderfolgenden Jahren gemessen wird.
+
+<sup>4</sup>
+
+Ein Grenzwert gemäss Artikel 9 Absatz 3 GSchG gilt dann für Oberflächengewässer als wiederholt und verbreitet überschritten, wenn:
+
+- a. er innerhalb eines Jahres in mindestens drei Kantonen;
+- b. mindestens in 10 Prozent aller untersuchten Gewässern überschritten wird; und
+- c. eine Verbreitung nach Buchstaben a und b mindestens in zwei von fünf aufeinanderfolgenden Jahren gemessen wird.
+
+[^48a-1]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
 
 #### Art. 49
 
@@ -1156,8 +1202,8 @@ Das Departement ist ermächtigt, Beschlüsse und Empfehlungen, die gestützt auf
 [^51-1]: Fassung gemäss Ziff. II 12 der V vom 2. Febr. 2000 zum BG über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^51-2]: Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 [^51-3]: [SR 0.814.293](https://fedlex.data.admin.ch/eli/cc/2005/36)
-[^51-4]: [[AS 1965 388](https://fedlex.data.admin.ch/eli/oc/1965/388_395_390), [1979 93](https://fedlex.data.admin.ch/eli/oc/1979/93_93_93). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 Ziff. 2, 3]. Heute: Übereink. vom 12. April 1999 zum Schutz des Rheins ([SR 0.814.284](https://fedlex.data.admin.ch/eli/cc/2003/294)).
-[^51-5]: [[AS 1979 97](https://fedlex.data.admin.ch/eli/oc/1979/97_96_97), [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323), [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 Ziff. 2]
+[^51-4]: [[AS 1965 388](https://fedlex.data.admin.ch/eli/oc/1965/388_395_390); [1979 93](https://fedlex.data.admin.ch/eli/oc/1979/93_93_93). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 Ziff. 2 und 3]. Heute: Übereink. vom 12. April 1999 zum Schutz des Rheins ([SR 0.814.284](https://fedlex.data.admin.ch/eli/cc/2003/294)).
+[^51-5]: [[AS 1979 97](https://fedlex.data.admin.ch/eli/oc/1979/97_96_97); [1983 323](https://fedlex.data.admin.ch/eli/oc/1983/323_323_323); [1989 161](https://fedlex.data.admin.ch/eli/oc/1989/161_161_161). [AS 2003 1934](https://fedlex.data.admin.ch/eli/oc/2003/294)Art. 19 Ziff. 2]
 [^51-6]: Eingefügt durch Ziff. II 12 der V vom 2. Febr. 2000 zum BG über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ## 8*a*. Kapitel: Abwasserabgabe des Bundes
@@ -1547,6 +1593,14 @@ Die kantonale Behörde kann für Betriebe, die aufgrund des Verbots der Fütteru
 - b. die Grösse der Abwasserreinigungsanlagen;
 - c. die Höhe des Abwasseranteils im Gewässer, in welches das Abwasser gelangt;
 - d. die Länge der Fliessstrecke im Gewässer, die durch die Abwassereinleitung beeinflusst ist.
+
+## Übergangsbestimmung zur Änderung vom 16. Dezember 2022
+
+[^u5-1]
+
+[^u5-1]: AS **20****23** 3
+
+Die Kantone erheben und kontrollieren die Befüll- und Waschplätze nach Artikel 47*a* erstmals bis spätestens zum 31. Dezember 2026. Festgestellte Mängel sind je nach Schwere der Gewässergefährdung umgehend, spätestens jedoch bis zum 31. Dezember 2028, zu beheben. Bis zum Abschluss dieser erstmaligen Kontrollen erfolgt die Berichterstattung (Art. 47*a* Abs. 3) jährlich.
 
 Anhang 1
 

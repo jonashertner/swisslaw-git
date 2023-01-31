@@ -4,11 +4,11 @@ title: Ordonnance du 28 octobre 1998 sur la protection des eaux (OEaux)
 short: OEaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: fr
-version: 2023-01-01
+version: 2023-02-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20230201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20230101/fr"
 
 (OEaux)
 
-du 28 octobre 1998 (État le 1<sup>er</sup> janvier 2023)
+du 28 octobre 1998 (État le 1<sup>er</sup> février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1101,6 +1101,18 @@ Si l’autorité constate que les eaux ne satisfont pas aux exigences fixées da
 
 <sup>2</sup> Si plusieurs sources de pollution sont impliquées, les mesures à prendre par les responsables doivent être harmonisées.
 
+#### Art. 47a
+
+**Contrôle des aires de remplissage et de lavage**[^47a-1]
+
+<sup>1</sup> Les cantons recensent et contrôlent au moins une fois dans un délai de quatre ans les aires de remplissage et de lavage des utilisateurs professionnels et commerciaux de produits phytosanitaires sur lesquelles sont remplis ou nettoyés les pulvérisateurs et les atomiseurs.
+
+<sup>2</sup> En fonction de la gravité du risque de pollution des eaux, ils veillent à ce qu’il soit remédié immédiatement, mais au plus tard dans un délai de deux ans, aux manquements constatés.
+
+<sup>3</sup> Ils remettent à l’OFEV tous les quatre ans un rapport sur l’état d’avancement du recensement et des contrôles, sur les manquements constatés ainsi que sur les mesures qui ont été prises pour y remédier.
+
+[^47a-1]: Introduit par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
+
 #### Art. 48
 
 **Analyses et mesures**
@@ -1109,7 +1121,41 @@ Si l’autorité constate que les eaux ne satisfont pas aux exigences fixées da
 
 <sup>2</sup> Dans la mesure où la présente ordonnance ne contient aucune prescription sur le mode et la fréquence des prélèvements ainsi que sur la manière de procéder pour déterminer si les exigences sont respectées, l’autorité fixe elle-même des prescriptions au cas par cas.
 
+<sup>3</sup> Les cantons communiquent à l’OFEV, selon ses indications, les résultats de leurs analyses et de leurs enquêtes sur les pesticides dans les eaux au plus tard le 1<sup>er</sup> juin de chaque année.[^48-2]
+
 [^48-1]: Les normes peuvent être obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch
+[^48-2]: Introduit par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
+
+#### Art. 48a
+
+**Déclaration de dépassement d’une valeur limite**[^48a-1]
+
+<sup>1</sup>
+
+L’OFEV déclare les pesticides aux services d’homologation des produits phytosanitaires et des produits biocides pour qu’ils réexaminent l’autorisation lorsque:
+
+- a. les pesticides ou les produits issus de leur dégradation dépassent de manière répétée et étendue la valeur limite de 0,1 µg/l dans les eaux qui servent à l’approvisionnement en eau potable ou sont prévues à cet effet (art. 9, al. 3, let. a, LEaux), ou
+- b. les pesticides dépassent de manière répétée et étendue les valeurs limites justifiées du point de vue écotoxicologique dans les eaux superficielles (art. 9, al. 3, let. b, LEaux).
+
+<sup>2</sup> Sont considérées comme valeurs limites justifiées du point de vue écotoxicologique les exigences chiffrées relatives à la qualité des eaux prévues à l’annexe 2, ch. 11, al. 3, tableau, n<sup>o</sup> 4, qui s’écartent de la valeur générale de 0,1 µg/l.
+
+<sup>3</sup>
+
+Une valeur limite au sens de l’art. 9, al. 3, LEaux est considérée comme dépassée de manière répétée et étendue dans les eaux qui servent à l’approvisionnement en eau potable ou sont prévues à cet effet lorsque les conditions suivantes sont réunies:
+
+- a. en l’espace d’un an, un dépassement est constaté dans au moins trois cantons;
+- b. un dépassement est constaté dans au moins 5 % des eaux analysées;
+- c. l’étendue visée aux let. a et b est constatée au moins lors de deux ans sur une période de cinq ans consécutifs.
+
+<sup>4</sup>
+
+Une valeur limite au sens de l’art. 9, al. 3, LEaux est considérée comme dépassée de manière répétée et étendue dans les eaux superficielles lorsque les conditions suivantes sont réunies:
+
+- a. en l’espace d’un an, un dépassement est constaté dans au moins trois cantons;
+- b. un dépassement est constaté dans au moins 10 % des eaux analysées;
+- c. l’étendue visée aux let. a et b est constatée au moins lors de deux ans sur une période de cinq ans consécutifs.
+
+[^48a-1]: Introduit par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)).
 
 #### Art. 49
 
@@ -1549,6 +1595,14 @@ L’autorité cantonale peut accorder, jusqu’au 31 décembre 2015, une déroga
 - c. la proportion d’eaux usées dans les eaux réceptrices;
 - d. la longueur du tronçon dans le cours d’eau affecté par le déversement des eaux usées.
 
+## Dispositions transitoires de la modification du 16 décembre 2022
+
+[^u5-1]
+
+[^u5-1]: [RO 2023 3](https://fedlex.data.admin.ch/eli/oc/2023/3)
+
+Les cantons recensent et contrôlent une première fois jusqu’au 31 décembre 2026 les aires de remplissage et de lavage visées à l’art. 47*a*. Tout manquement constaté est immédiatement corrigé, mais au plus tard jusqu’au 31 décembre 2028, en fonction de la gravité du risque de pollution des eaux. Jusqu’au terme de ces contrôles initiaux, les rapports (art. 47*a*, al. 3) sont établis chaque année.
+
 Annexe 1
 
 (art. 1)
@@ -1781,15 +1835,15 @@ Annexe 3.1[^t-2]
 <tr><td>1</td><td>Substances non dissoutes totales</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 20 mg/l Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 15 mg/l</td></tr>
 <tr><td>2</td><td>Demande chimique en oxygène *(DCO)*</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 60 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 80 % Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 45 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 85 %</td></tr>
 <tr><td>3</td><td>Carbone organique dissous *(COD*)</td><td>Pour les installations de 2000 EH et plus: – concentration dans les eaux déversées: 10 mg/l et – taux d’épuration: 85 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/fr/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/fr/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Si les valeurs ne sont pas respectées, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>
 <tr><td>4</td><td>Transparence *(d’après la mé**thode de Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonium *(somme de N-NH**<sub>4</sub>**<sup>+</sup>* *et N-NH**<sub>3</sub>**)*</td><td>Si les concentrations d’ammonium dans les eaux polluées peuvent avoir des effets néfastes sur la qualité d’un cours d’eau, les valeurs suivantes sont applicables si la température des eaux polluées est supérieure à 10° C: – concentration dans les eaux déversées: 2 mg/l N et – taux d’efficacité du traitement: 90 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230101/fr/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20230201/fr/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>Dans ces cas, on procédera à une nitrification durant toute l’année. *Remarque: l’azote obtenu par la méthode de Kjeldahl est la somme de l’azote contenu dans l’ammonium, l’ammoniac et les substances azotées organiques.*</td></tr>
 <tr><td>6</td><td>Nitrite *(N-NO**<sub>2</sub>**<sup>-</sup>**)*</td><td>0,3 mg/l N (valeur indicative)</td></tr>
 <tr><td>7</td><td>Composés organiques halogénés adsorbables *(AOX)*</td><td>0,08 mg/l X Si la valeur n’est pas respectée, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>
-<tr><td>8</td><td>Substances organiques qui peuvent polluer les eaux même en faible concentration *(composés traces organiques)*</td><td>Le taux d’épuration par rapport aux eaux polluées brutes, mesuré à partir d’une sélection de substances doit atteindre 80 % pour les eaux usées provenant des installations suivantes: – installations auxquelles sont raccordés 80 000 habitants ou plus; – installations auxquelles sont raccordés 24 000 habitants ou plus dans le bassin versant de lacs; le canton peut accorder des dérogations si le bénéfice d’une épuration est faible pour l’environnement et pour l’approvisionnement en eau potable; – installations auxquelles sont raccordés 8000 habitants ou plus, qui déversent leur effluent dans un cours d’eau contenant plus de 10 % d’eaux usées non épurées des composés traces organiques; le canton désigne, dans le cadre d’une planification dans le bassin versant, les installations qui doivent prendre des mesures; – autres installations auxquelles sont raccordés 8000 habitants ou plus si une épuration est indispensable en raison de conditions hydrogéologiques spéciales; –[^annex31-lvlu1-lvl2-1] ... Le Département précise dans une ordonnance les substances avec lesquelles le taux d’épuration sera mesuré et le mode de calcul qui sera appliqué.</td></tr>
+<tr><td>8</td><td>Substances organiques qui peuvent polluer les eaux même en faible concentration *(composés traces organiques)*</td><td>Le taux d’épuration par rapport aux eaux polluées brutes, mesuré à partir d’une sélection de substances doit atteindre 80 % pour les eaux usées provenant des installations suivantes: – installations auxquelles sont raccordés 80 000 habitants ou plus; – installations auxquelles sont raccordés 24 000 habitants ou plus dans le bassin versant de lacs; le canton peut accorder des dérogations si le bénéfice d’une épuration est faible pour l’environnement et pour l’approvisionnement en eau potable; – installations auxquelles sont raccordés 8000 habitants ou plus, qui déversent leur effluent dans un cours d’eau contenant plus de 10 % d’eaux usées non épurées des composés traces organiques; le canton désigne, dans le cadre d’une planification dans le bassin versant, les installations qui doivent prendre des mesures; – autres installations auxquelles sont raccordés 8000 habitants ou plus si une épuration est indispensable en raison de conditions hydrogéologiques spéciales; –[^annex31-lvlu1-lvl2-1] … Le Département précise dans une ordonnance les substances avec lesquelles le taux d’épuration sera mesuré et le mode de calcul qui sera appliqué.</td></tr>
 <tr><td>9</td><td>Demande biochimique en oxygène *(DBO**<sub>5</sub>**, avec blocage de la nitrification)*</td><td>Pour les installations de moins de 10 000 EH, où les concentrations de DBO<sub>5</sub> dans les eaux polluées peuvent avoir des effets néfastes sur la qualité de l’eau d’un cours d’eau, les valeurs fixées sont les suivantes: – concentration dans les eaux déversées: 20 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 90 % Pour les installations de 10 000 EH et plus, où les concentrations de DBO<sub>5</sub> dans les eaux polluées peuvent avoir des effets néfastes sur la qualité de l’eau d’un cours d’eau, les valeurs fixées sont les suivantes: – concentration dans les eaux déversées: 15 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 90 %</td></tr>
 </table>
 
