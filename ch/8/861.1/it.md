@@ -4,11 +4,11 @@ title: Ordinanza del 25 aprile 2018 sugli aiuti finanziari per la custodia di ba
 short: OACust
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/316"
 language: it
-version: 2019-02-01
+version: 2023-02-01
 adopted: 2018-04-25
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20190201/it/xml/fedlex-data-admin-ch-eli-cc-2018-316-20190201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2018-316-20230201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20190201/it"
 
 (OACust)
 
-del 25 aprile 2018 (Stato 1° febbraio 2019) (Stato 1° febbraio 2019)
+del 25 aprile 2018 (Stato 1° febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -43,17 +43,16 @@ La presente ordinanza disciplina, per quanto concerne gli aiuti finanziari di cu
 
 #### Art. 2
 
-**Campo di applicazione temporale**
+**Campo di applicazione temporale**[^2-1]
 
 La presente ordinanza si applica:
 
-- a.[^2-1] alle strutture secondo il capitolo 2 che iniziano l’attività, aumentano l’offerta o avviano l’esecuzione di un provvedimento al più tardi il 31 gennaio 2023;
-- b.[^2-2] ai progetti a carattere innovativo secondo il capitolo 3 avviati al più tardi il 31 gennaio 2023;
-- c. agli aumenti dei sussidi secondo il capitolo 4 che hanno effetto al più tardi il 30 giugno 2023;
-- d. ai progetti secondo il capitolo 5, il cui piano dettagliato inizia a essere elaborato al più tardi il 30 giugno 2023.
+- a. alle strutture secondo il capitolo 2 che iniziano l’attività, aumentano l’offerta o avviano l’esecuzione di un provvedimento al più tardi il 31 dicembre 2024;
+- b. ai progetti a carattere innovativo secondo il capitolo 3 avviati al più tardi il 31 dicembre 2024;
+- c. agli aumenti dei sussidi secondo il capitolo 4 che hanno effetto al più tardi il 31 dicembre 2024;
+- d. ai progetti secondo il capitolo 5, il cui piano dettagliato inizia a essere elaborato al più tardi il 31 dicembre 2024.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 ## Capitolo 2: Aiuti finanziari per l’istituzione di posti per la custodia di bambini complementare alla famiglia
 
@@ -87,14 +86,14 @@ Possono ricevere aiuti finanziari le strutture di custodia collettiva diurna che
 
 <sup>3</sup>
 
-La significatività dell’aumento dell’offerta è valutata rispetto all’offerta complessiva esistente; per aumento significativo dell’offerta si intende:[^4-1]
+Per aumento significativo dell’offerta si intende:[^4-1]
 
 - a. un aumento di almeno un terzo del numero dei posti, ma di almeno 10 posti; o
 - b. un’estensione di un terzo delle ore di apertura, ma di almeno 375 ore all’anno.
 
 <sup>4</sup> La struttura di custodia collettiva diurna esistente che prosegue la sua attività sotto la responsabilità di un nuovo organismo o che viene riaperta non è considerata una nuova struttura. Questo vale, in particolare, se vengono ripresi bambini, personale o parti dell’infrastruttura della struttura di custodia collettiva diurna esistente.[^4-2]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^4-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 [^4-2]: Per. introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 5
@@ -136,14 +135,14 @@ Possono ricevere aiuti finanziari le strutture di custodia parascolastiche che:
 
 <sup>3</sup>
 
-La significatività dell’aumento dell’offerta è valutata rispetto all’offerta complessiva esistente; per aumento significativo dell’offerta si intende:[^7-1]
+Per aumento significativo dell’offerta si intende:[^7-1]
 
 - a. un aumento di almeno un terzo del numero dei posti, ma di almeno 10 posti; o
 - b. un’estensione delle ore di apertura mediante l’aumento di un terzo del numero di blocchi orari, ma di almeno 50 blocchi orari all’anno.
 
 <sup>4</sup> La struttura di custodia parascolastica esistente che prosegue la sua attività sotto la responsabilità di un nuovo organismo o che viene riaperta non è considerata una nuova struttura. Questo vale, in particolare, se vengono ripresi bambini, personale o parti dell’infrastruttura della struttura di custodia parascolastica esistente.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 [^7-2]: Per. introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 8
@@ -587,30 +586,30 @@ L’ordinanza del 9 dicembre 2002[^39-1] sugli aiuti finanziari per la custodia 
 
 <sup>1</sup>
 
-Fino al 28 febbraio 2019 possono essere presentate:
+Fino al 28 febbraio 2023 possono essere presentate:
 
-- a. domande di aiuti finanziari per strutture (capitolo 2) che iniziano l’attività, aumentano l’offerta o avviano l’esecuzione di un provvedimento tra il 1° e il 28 febbraio 2019;
-- b. domande di aiuti finanziari per progetti a carattere innovativo (capitolo 3) che iniziano tra il 1° e il 28 febbraio 2019.
+- a. domande di aiuti finanziari per strutture (capitolo 2) che iniziano l’attività, aumentano l’offerta o avviano l’esecuzione di un provvedimento tra il 1° e il 28 febbraio 2023;
+- b. domande di aiuti finanziari per progetti a carattere innovativo (capitolo 3) che iniziano tra il 1° e il 28 febbraio 2023.
 
 <sup>2</sup>
 
-Fino al 30 gennaio 2023 possono essere presentate:
+Fino al 30 dicembre 2024 possono essere presentate:
 
-- a. domande di aiuti finanziari per strutture (capitolo 2) che iniziano l’attività, aumentano l’offerta o avviano l’esecuzione di un provvedimento al più tardi il 31 gennaio 2023;
-- b. domande di aiuti finanziari per progetti a carattere innovativo (capitolo 3) che iniziano al più tardi il 31 gennaio 2023.
+- a. domande di aiuti finanziari per strutture (capitolo 2) che iniziano l’attività, aumentano l’offerta o avviano l’esecuzione di un provvedimento al più tardi il 31 dicembre 2024;
+- b. domande di aiuti finanziari per progetti a carattere innovativo (capitolo 3) che iniziano al più tardi il 31 dicembre 2024.
 
-<sup>3</sup> Le domande di aiuti finanziari presentate al più tardi il 30 gennaio 2019 e inserite in una lista di attesa secondo l’ordine di priorità stabilito conformemente all’articolo 4 capoverso 3 LACust sono esaminate come nuove domande.
-
-[^40-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^40-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 #### Art. 41
 
-**Aiuti finanziari di cui ai capitoli 4 e 5**
+**Aiuti finanziari di cui ai capitoli 4 e 5**[^41-1]
 
-Fino al 31 luglio 2018 possono essere presentate:
+Fino al 30 dicembre 2024 possono essere presentate:
 
-- a. domande di aiuti finanziari per aumenti dei sussidi (capitolo 4) che hanno effetto tra il 1° gennaio 2018 e il 31 luglio 2018;
-- b. domande di aiuti finanziari per progetti (capitolo 5) il cui piano dettagliato inizia a essere elaborato tra il 1° gennaio 2018 e il 31 luglio 2018.
+- a. domande di aiuti finanziari per aumenti dei sussidi (capitolo 4) che hanno effetto al più tardi il 31 dicembre 2024;
+- b. domande di aiuti finanziari per progetti (capitolo 5) il cui piano dettagliato inizia a essere elaborato al più tardi il 31 dicembre 2024.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 (RU **2022** 868).
 
 ### Sezione 3: Entrata in vigore e durata di validità
 
@@ -624,7 +623,10 @@ Fino al 31 luglio 2018 possono essere presentate:
 
 <sup>3</sup> La durata di validità di cui al capoverso 2 è prorogata fino al 31 gennaio 2023.
 
+<sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2024.[^42-2]
+
 [^42-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^42-2]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 Allegato 1
 

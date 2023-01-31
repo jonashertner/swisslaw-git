@@ -4,11 +4,11 @@ title: Verordnung vom 25. April 2018 über Finanzhilfen für familienergänzende
 short: KBFHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/316"
 language: de
-version: 2019-02-01
+version: 2023-02-01
 adopted: 2018-04-25
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20190201/de/xml/fedlex-data-admin-ch-eli-cc-2018-316-20190201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2018-316-20230201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20190201/de"
 
 (KBFHV)
 
-vom 25. April 2018 (Stand am 1. Februar 2019)
+vom 25. April 2018 (Stand am 1. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -43,17 +43,16 @@ Diese Verordnung regelt für die Finanzhilfen nach Artikel 1 Absatz 2 KBFHG:
 
 #### Art. 2
 
-**Zeitlicher Geltungsbereich**
+**Zeitlicher Geltungsbereich**[^2-1]
 
 Diese Verordnung gilt für:
 
-- a.[^2-1] Institutionen nach dem 2. Kapitel, die spätestens am 31. Januar 2023 ihren Betrieb aufnehmen, ihr Angebot erhöhen oder mit der Durchführung einer Massnahme beginnen;
-- b.[^2-2] Projekte mit Innovationscharakter nach dem 3. Kapitel, die spätestens am 31. Januar 2023 beginnen;
-- c. Subventionserhöhungen nach dem 4. Kapitel, die spätestens auf den 30. Juni 2023 wirksam werden;
-- d. Projekte nach dem 5. Kapitel, bei denen mit der Erarbeitung des Detailkonzepts spätestens am 30. Juni 2023 begonnen wird.
+- a. Institutionen nach dem 2. Kapitel, die spätestens am 31. Dezember 2024 ihren Betrieb aufnehmen, ihr Angebot erhöhen oder mit der Durchführung einer Massnahme beginnen;
+- b. Projekte mit Innovationscharakter nach dem 3. Kapitel, die spätestens am 31. Dezember 2024 beginnen;
+- c. Subventionserhöhungen nach dem 4. Kapitel, die spätestens auf den 31. Dezember 2024 wirksam werden;
+- d. Projekte nach dem 5. Kapitel, bei denen mit der Erarbeitung des Detailkonzepts spätestens am 31. Dezember 2024 begonnen wird.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
-[^2-2]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 ## 2. Kapitel: Finanzhilfen für die Schaffung von familienergänzenden Betreuungsplätzen für Kinder
 
@@ -87,14 +86,14 @@ Finanzhilfen können Kindertagesstätten erhalten, die:
 
 <sup>3</sup>
 
-Ob eine wesentliche Erhöhung des Angebotes vorliegt, wird im Vergleich zum gesamten bestehenden Angebot beurteilt; als wesentliche Erhöhung des Angebotes gilt:[^4-1]
+Als wesentliche Erhöhung des Angebotes gilt:[^4-1]
 
 - a. eine Erhöhung der Anzahl Plätze um einen Drittel, mindestens aber um 10 Plätze; oder
 - b. eine Ausdehnung der Öffnungszeiten um einen Drittel, mindestens aber um 375 Stunden pro Jahr.
 
 <sup>4</sup> Wird eine bestehende Kindertagesstätte unter neuer Trägerschaft weitergeführt oder neu eröffnet, so gilt sie nicht als neue Institution. Dies ist insbesondere dann der Fall, wenn Kinder, Personal oder Teile der Infrastruktur der bestehenden Kindertagesstätte übernommen werden.[^4-2]
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 [^4-2]: Zweiter Satz eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 5
@@ -136,14 +135,14 @@ Finanzhilfen können Einrichtungen für schulergänzende Betreuung erhalten, die
 
 <sup>3</sup>
 
-Ob eine wesentliche Erhöhung des Angebotes vorliegt, wird im Vergleich zum gesamten bestehenden Angebot beurteilt; als wesentliche Erhöhung des Angebotes gilt:[^7-1]
+Als wesentliche Erhöhung des Angebotes gilt:[^7-1]
 
 - a. eine Erhöhung der Anzahl Plätze um einen Drittel, mindestens aber um 10 Plätze; oder
 - b. eine Ausdehnung der Öffnungszeiten durch eine Erhöhung der Anzahl Betreuungseinheiten um einen Drittel, mindestens aber um 50 Betreuungseinheiten pro Jahr.
 
 <sup>4</sup> Wird eine bestehende Einrichtung für die schulergänzende Betreuung unter neuer Trägerschaft weitergeführt oder neu eröffnet, so gilt sie nicht als neue Institution. Dies ist insbesondere dann der Fall, wenn Kinder, Personal oder Teile der Infrastruktur der bestehenden Einrichtung für die schulergänzende Betreuung übernommen werden.[^7-2]
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 [^7-2]: Zweiter Satz eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 8
@@ -577,7 +576,7 @@ Das BSV sorgt für die Evaluation der Auswirkungen der Finanzhilfen.
 
 Die Verordnung vom 9. Dezember 2002[^39-1] über Finanzhilfen für familienergänzende Kinderbetreuung wird aufgehoben.
 
-[^39-1]: [[AS 2003 258](https://fedlex.data.admin.ch/eli/oc/2003/45), [2011 189](https://fedlex.data.admin.ch/eli/oc/2011/30), [2015 25](https://fedlex.data.admin.ch/eli/oc/2015/7)]
+[^39-1]: [[AS 2003 258](https://fedlex.data.admin.ch/eli/oc/2003/45); [2011 189](https://fedlex.data.admin.ch/eli/oc/2011/30); [2015 25](https://fedlex.data.admin.ch/eli/oc/2015/7)]
 
 ### 2. Abschnitt: Übergangsbestimmungen
 
@@ -587,30 +586,30 @@ Die Verordnung vom 9. Dezember 2002[^39-1] über Finanzhilfen für familienergä
 
 <sup>1</sup>
 
-Bis zum 28. Februar 2019 können eingereicht werden:
+Bis zum 28. Februar 2023 können eingereicht werden:
 
-- a. Gesuche um Finanzhilfen für Institutionen (2. Kapitel), die zwischen dem 1. und dem 28. Februar 2019 ihren Betrieb aufnehmen, ihr Angebot erhöhen oder mit der Durchführung einer Massnahme beginnen;
-- b. Gesuche um Finanzhilfen für Projekte mit Innovationscharakter (3. Kapitel), die zwischen dem 1. und dem 28. Februar 2019 beginnen.
+- a. Gesuche um Finanzhilfen für Institutionen (2. Kapitel), die zwischen dem 1. und dem 28. Februar 2023 ihren Betrieb aufnehmen, ihr Angebot erhöhen oder mit der Durchführung einer Massnahme beginnen;
+- b. Gesuche um Finanzhilfen für Projekte mit Innovationscharakter (3. Kapitel), die zwischen dem 1. und dem 28. Februar 2023 beginnen.
 
 <sup>2</sup>
 
-Bis zum 30. Januar 2023 können eingereicht werden:
+Bis zum 30. Dezember 2024 können eingereicht werden:
 
-- a. Gesuche um Finanzhilfen für Institutionen (2. Kapitel), die spätestens am 31. Januar 2023 ihren Betrieb aufnehmen, ihr Angebot erhöhen oder mit der Durchführung einer Massnahme beginnen;
-- b. Gesuche um Finanzhilfen für Projekte mit Innovationscharakter (3. Kapitel), die spätestens am 31. Januar 2023 beginnen.
+- a. Gesuche um Finanzhilfen für Institutionen (2. Kapitel), die spätestens am 31. Dezember 2024 ihren Betrieb aufnehmen, ihr Angebot erhöhen oder mit der Durchführung einer Massnahme beginnen;
+- b. Gesuche um Finanzhilfen für Projekte mit Innovationscharakter (3. Kapitel), die spätestens am 31. Dezember 2024 beginnen.
 
-<sup>3</sup> Beitragsgesuche, die spätestens am 30. Januar 2019 eingereicht wurden und die gestützt auf die Prioritätenordnung nach Artikel 4 Absatz 3 KBFHG auf einer Warteliste stehen, werden wie neue Gesuche geprüft.
-
-[^40-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^40-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 #### Art. 41
 
-**Finanzhilfen nach dem 4. und 5. Kapitel**
+**Finanzhilfen nach dem 4. und 5. Kapitel**[^41-1]
 
-Bis zum 31. Juli 2018 können eingereicht werden:
+Bis zum 30. Dezember 2024 können eingereicht werden:
 
-- a. Gesuche um Finanzhilfen für Subventionserhöhungen (4. Kapitel), die in der Zeit zwischen dem 1. Januar 2018 und dem 31. Juli 2018 wirksam werden;
-- b. Gesuche um Finanzhilfen für Projekte (5. Kapitel), bei denen mit der Erarbeitung des Detailkonzepts zwischen dem 1. Januar 2018 und dem 31. Juli 2018 begonnen wird.
+- a. Gesuche um Finanzhilfen für Subventionserhöhungen (4. Kapitel), die bis spätestens 31. Dezember 2024 wirksam werden;
+- b. Gesuche um Finanzhilfen für Projekte (5. Kapitel), bei denen mit der Erarbeitung des Detailkonzepts bis spätestens 31. Dezember 2024 begonnen wird.
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 ### 3. Abschnitt: Inkrafttreten und Geltungsdauer
 
@@ -624,7 +623,10 @@ Bis zum 31. Juli 2018 können eingereicht werden:
 
 <sup>3</sup> Die Geltungsdauer nach Absatz 2 wird bis zum 31. Januar 2023 verlängert.
 
+<sup>4</sup> Die Geltungsdauer der Verordnung wird bis zum 31. Dezember 2024 verlängert.[^42-2]
+
 [^42-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^42-2]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 Anhang 1
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 25 avril 2018 sur les aides financières à l'accueil extr
 short: OAAcc
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/316"
 language: fr
-version: 2019-02-01
+version: 2023-02-01
 adopted: 2018-04-25
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-316-20190201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20190201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/316/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-316-20230201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/316/20190201/fr"
 
 (OAAcc)
 
-du 25 avril 2018 (Etat le 1<sup>er</sup> février 2019)
+du 25 avril 2018 (État le 1<sup>er</sup> février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -43,17 +43,16 @@ La présente ordonnance règle pour les aides financières visées à l’art. 1
 
 #### Art. 2
 
-**Champ d’application temporel**
+**Champ d’application temporel**[^2-1]
 
 La présente ordonnance s’applique:
 
-- a.[^2-1] aux structures visées au chapitre 2 qui ouvrent, augmentent leur offre ou commencent la réalisation d’une mesure au plus tard le 31 janvier 2023;
-- b.[^2-2] aux projets à caractère novateur visés au chapitre 3 qui débutent au plus tard le 31 janvier 2023;
-- c. aux augmentations de subventions visées au chapitre 4 prenant effet au plus tard le 30 juin 2023;
-- d. aux projets visés au chapitre 5 dont l’élaboration du concept détaillé débute au plus tard le 30 juin 2023.
+- a. aux structures visées au chapitre 2 qui ouvrent, augmentent leur offre ou commencent la réalisation d’une mesure au plus tard le 31 décembre 2024;
+- b. aux projets à caractère novateur visés au chapitre 3 qui débutent au plus tard le 31 décembre 2024;
+- c. aux augmentations de subventions visées au chapitre 4 prenant effet au plus tard le 31 décembre 2024;
+- d. aux projets visés au chapitre 5 dont l’élaboration du concept détaillé débute au plus tard le 31 décembre 2024.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 ## Chapitre 2 Aides financières à la création de places d’accueil extra-familial pour enfants
 
@@ -87,14 +86,14 @@ Peuvent recevoir des aides financières les structures d’accueil collectif de 
 
 <sup>3</sup>
 
-L’existence d’une augmentation significative de l’offre se détermine par une comparaison avec l’offre existante prise dans sa globalité. Est considérée comme une augmentation significative de l’offre:[^4-1]
+Est considérée comme une augmentation significative de l’offre:[^4-1]
 
 - a. une augmentation d’un tiers du nombre de places d’accueil, mais au minimum de 10 places, ou
 - b. une extension d’un tiers des heures d’ouverture, mais au minimum de 375 heures par année.
 
 <sup>4</sup> Une structure d’accueil collectif de jour existante qui change d’organisme responsable ou qui ouvre à nouveau n’est pas considérée comme une nouvelle structure. Tel est le cas notamment lorsque des enfants, du personnel ou une partie de l’infrastructure de la structure existante sont repris.[^4-2]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 5
@@ -136,14 +135,14 @@ Peuvent recevoir des aides financières les structures d’accueil parascolaire 
 
 <sup>3</sup>
 
-L’existence d’une augmentation significative de l’offre se détermine par une comparaison avec l’offre existante prise dans sa globalité. Est considérée comme une augmentation significative de l’offre:[^7-1]
+Est considérée comme une augmentation significative de l’offre:[^7-1]
 
 - a. une augmentation d’un tiers du nombre de places d’accueil, mais au minimum de 10 places, ou
 - b. une extension des heures d’ouverture par l’augmentation d’un tiers du nombre de blocs horaires, mais au minimum de 50 blocs horaires par année.
 
 <sup>4</sup> Une structure d’accueil parascolaire existante qui change d’organisme responsable ou qui ouvre à nouveau n’est pas considérée comme une nouvelle structure. Tel est le cas notamment lorsque des enfants, du personnel ou une partie de l’infrastructure de la structure existante sont repris.[^7-2]
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
 
 #### Art. 8
@@ -577,7 +576,7 @@ L’OFAS veille à ce que les effets des aides financières soient évalués.
 
 L’ordonnance du 9 décembre 2002 sur les aides financières à l’accueil extra-familial pour enfants[^39-1] est abrogée.
 
-[^39-1]: [[RO 2003 258](https://fedlex.data.admin.ch/eli/oc/2003/45), [2011 189](https://fedlex.data.admin.ch/eli/oc/2011/30), [2015 25](https://fedlex.data.admin.ch/eli/oc/2015/7)]
+[^39-1]: [[RO 2003 258](https://fedlex.data.admin.ch/eli/oc/2003/45); [2011 189](https://fedlex.data.admin.ch/eli/oc/2011/30); [2015 25](https://fedlex.data.admin.ch/eli/oc/2015/7)]
 
 ### Section 2 Dispositions transitoires
 
@@ -587,30 +586,30 @@ L’ordonnance du 9 décembre 2002 sur les aides financières à l’accueil ext
 
 <sup>1</sup>
 
-Peuvent être déposées jusqu’au 28 février 2019:
+Peuvent être déposées jusqu’au 28 février 2023:
 
-- a. les demandes d’aides financières pour les structures (chap. 2) qui ouvrent, augmentent leur offre ou débutent la réalisation d’une mesure entre le 1<sup>er</sup> février 2019 et le 28 février 2019;
-- b. les demandes d’aides financières pour les projets à caractère novateur (chap. 3) qui débutent entre le 1<sup>er</sup> février 2019 et le 28 février 2019.
+- a. les demandes d’aides financières pour les structures (chap. 2) qui ouvrent, augmentent leur offre ou commencent la réalisation d’une mesure entre le 1<sup>er</sup> février 2023 et le 28 février 2023;
+- b. les demandes d’aides financières pour les projets à caractère novateur (chap. 3) qui débutent entre le 1<sup>er</sup> février 2023 et le 28 février 2023.
 
 <sup>2</sup>
 
-Peuvent être déposées jusqu’au 30 janvier 2023:
+Peuvent être déposées jusqu’au 30 décembre 2024:
 
-- a. les demandes d’aides financières pour les structures (chap. 2) qui ouvrent, augmentent leur offre ou commencent la réalisation d’une mesure au plus tard le 31 janvier 2023;
-- b. les demandes d’aides financières pour les projets à caractère novateur (chap. 3) qui débutent au plus tard le 31 janvier 2023.
+- a. les demandes d’aides financières pour les structures (chap. 2) qui ouvrent, augmentent leur offre ou commencent la réalisation d’une mesure au plus tard le 31 décembre 2024;
+- b. les demandes d’aides financières pour les projets à caractère novateur (chap. 3) qui débutent au plus tard le 31 décembre 2024.
 
-<sup>3</sup> Les demandes d’aides financières déposées au plus tard le 30 janvier 2019 et inscrites sur une liste d’attente conformément à l’ordre de priorité édicté en vertu de l’art. 4, al. 3, LAAcc sont traitées comme de nouvelles demandes.
-
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 #### Art. 41
 
-**Aides financières prévues aux chapitres 4 et 5**
+**Aides financières prévues aux chapitres 4 et 5**[^41-1]
 
-Peuvent être déposées jusqu’au 31 juillet 2018:
+Peuvent être déposées jusqu’au 30 décembre 2024 :
 
-- a. les demandes d’aides financières pour les augmentations de subventions (chap. 4) prenant effet entre le 1<sup>er</sup> janvier 2018 et le 31 juillet 2018;
-- b. les demandes d’aides financières pour les projets (chap. 5) dont l’élaboration du concept détaillé débute entre le 1<sup>er</sup> janvier 2018 et le 31 juillet 2018.
+- a. les demandes d’aides financières pour les augmentations de subventions (chap. 4) prenant effet au plus tard le 31 décembre 2024;
+- b. les demandes d’aides financières pour les projets (chap. 5) dont l’élaboration du concept détaillé débute au plus tard le 31 décembre 2024.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 ### Section 3 Entrée en vigueur et durée de validité
 
@@ -624,7 +623,10 @@ Peuvent être déposées jusqu’au 31 juillet 2018:
 
 <sup>3</sup> La durée de validité selon l’al. 2 est prolongée jusqu’au 31 janvier 2023.
 
+<sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2024.[^42-2]
+
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 339](https://fedlex.data.admin.ch/eli/oc/2019/54)).
+[^42-2]: Introduit par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 868](https://fedlex.data.admin.ch/eli/oc/2022/868)).
 
 Annexe 1
 
