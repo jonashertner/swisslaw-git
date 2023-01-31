@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione delle ordinanze del diritto sulle derrate alimentari
 document: Progetto posto in consultazione
 language: it
