@@ -4,13 +4,13 @@ number: 892a
 title: Sozialhilfeverordnung
 short: SHV
 language: de
-version: 2021-01-01
-valid_until: 2023-01-31
-version_adopted: 2020-11-24
+version: 2023-02-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-10
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/892a"
-pdf: "https://srl.lu.ch/api/de/versions/3675/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4028/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,13 @@ pdf: "https://srl.lu.ch/api/de/versions/3675/pdf_file"
 
 (SHV)
 
-vom 24.11.2015 (Stand 01.01.2021)
+vom 24.11.2015 (Stand 01.02.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 18 Absatz 2, 30 Absatz 1, 31 Absätze 1 und 2, 32 und 45 Unterabsatz d des Sozialhilfegesetzes vom 16. März 2015[^ingress-1] und 110 Absatz 2 des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^ingress-2], auf Antrag des Gesundheits- und Sozialdepartementes,
+gestützt auf die §§ 6 Absatz 1, 18 Absatz 2, 30 Absatz 1, 31 Absätze 1 und 2, 32, 43 Absatz 4, 43b Absatz 4 und 46 Absatz 5 des Sozialhilfegesetzes vom 16. März 2015[^ingress-1] und 110 Absatz 2 des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^ingress-2],
+
+auf Antrag des Gesundheits- und Sozialdepartementes,
 
 beschliesst:
 
@@ -54,11 +56,35 @@ beschliesst:
 [^2-1]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de)
 [^2-2]: SR [210](https://db.clex.ch/link/Bund/210/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 
+#### § 2a
+
+**Fachliche Anforderungen an die Leistungserbringer**
+
+<sup>1</sup> Der Sozialdienst muss im jeweiligen Fachbereich über mindestens eine fachlich geeignete Person verfügen.
+
+<sup>2</sup> Im Bereich der persönlichen und wirtschaftlichen Sozialhilfe sowie der Nothilfe gelten Personen als fachlich geeignet, die
+
+- a. über einen Fachhochschulabschluss in Sozialer Arbeit oder eine gleichwertige Ausbildung verfügen oder
+- b. zwischen dem 1. Januar 2012 und dem 31. Dezember 2022 während mindestens dreier Jahre in einem Sozialdienst tätig waren und während dieser Zeit mindestens 80 Lektionen fachliche Weiterbildung absolviert haben.
+
+<sup>3</sup> Im Bereich der Alimentenhilfen gelten Personen als fachlich geeignet, die
+
+- a. die Weiterbildung zur Alimentenfachperson abgeschlossen haben oder berufsbegleitend absolvieren oder
+- b. zwischen dem 1. Januar 2012 und dem 31. Dezember 2022 während mindestens dreier Jahre im Bereich der Alimentenhilfen tätig waren und während dieser Zeit mindestens 40 Lektionen fachliche Weiterbildung absolviert haben.
+
 #### § 3
 
-**Zuständige Dienststelle**
+**Zuständigkeit und Koordination**
 
-<sup>1</sup> Die Dienststelle Soziales und Gesellschaft ist die für die Sozialhilfe des Kantons zuständige Dienststelle, soweit der Regierungsrat keine andere Dienststelle bezeichnet.
+<sup>1</sup> Die Dienststelle Soziales und Gesellschaft ist für den Vollzug der Sozialhilfe, die dem Kanton übertragen ist, und für die Koordination der Sozialhilfe zuständig, soweit der Regierungsrat keine andere Dienststelle bezeichnet.
+
+<sup>2</sup> Die Koordination der Dienststelle Soziales und Gesellschaft umfasst insbesondere:
+
+- a. Förderung der inner- und interkantonalen Zusammenarbeit,
+- b. Information und Beratung der Gemeinden und Sozialdienste,
+- c. Herausgabe von Merkblättern, Vorlagen und Musterdokumenten.
+
+<sup>3</sup> Im Bereich der Alimentenhilfen kann die Dienststelle Soziales und Gesellschaft Weiterbildungen und Schulungen durchführen.
 
 #### § 4
 
@@ -68,7 +94,7 @@ beschliesst:
 
 <sup>2</sup> Die hilfebedürftige Person hat das Gesuch um persönliche oder wirtschaftliche Sozialhilfe beim Sozialdienst ihres Unterstützungswohnsitzes zu stellen. Hat die hilfebedürftige Person keinen Unterstützungswohnsitz oder ist sie ausserhalb ihres Unterstützungswohnsitzes auf sofortige Hilfe angewiesen, ist das Gesuch beim Sozialdienst der Aufenthaltsgemeinde zu stellen.
 
-<sup>3</sup> Der unterhaltsberechtigte Ehegatte, der eingetragene Partner oder die eingetragene Partnerin und das unterhaltsberechtigte Kind haben das Gesuch um unentgeltliche Inkassohilfe beim Sozialdienst ihres zivilrechtlichen Wohnsitzes einzureichen. Das unterhaltsberechtigte Kind hat das Gesuch um Bevorschussung beim Sozialdienst seines zivilrechtlichen Wohnsitzes einzureichen.
+<sup>3</sup> Der unterhaltsberechtigte Ehegatte, der eingetragene Partner oder die eingetragene Partnerin und das unterhaltsberechtigte Kind haben das Gesuch um Inkassohilfe beim Sozialdienst ihres zivilrechtlichen Wohnsitzes, in grenzüberschreitenden Fällen bei der vom Kanton bezeichneten Fachstelle, einzureichen. Das unterhaltsberechtigte Kind hat das Gesuch um Bevorschussung beim Sozialdienst seines zivilrechtlichen Wohnsitzes einzureichen.
 
 <sup>4</sup> Das Gesundheits- und Sozialdepartement, die Einwohnergemeinden und andere zuständige Stellen können für die Entgegennahme der Gesuche andere öffentliche oder private Stellen als zuständig bezeichnen.
 
@@ -305,13 +331,18 @@ beschliesst:
 
 #### § 27
 
-<sup>1</sup> Die unentgeltliche Inkassohilfe wird aufgrund einer Inkassovollmacht gewährt. Bei der Inkassohilfe zugunsten eines unterhaltsberechtigten Kindes ist die Vollmacht von diesem beziehungsweise seiner Vertretung zu unterzeichnen.
+**…**
 
-<sup>2</sup> Die Inkassovollmacht ermächtigt den Sozialdienst auch, beim Richter oder bei der Richterin die Anweisung an die Schuldner des unterhaltspflichtigen Elternteils (Art. 291 ZGB) oder des unterhaltspflichtigen Ehegatten (Art. 132 Abs. 1 und 177 ZGB) beziehungsweise des eingetragenen Partners oder der eingetragenen Partnerin (Art. 13 Abs. 3 Partnerschaftsgesetz vom 18. Juni 2004[^27-1]) und die Sicherstellung der Unterhaltsbeiträge (Art. 132 Abs. 2 und 292 ZGB) zu beantragen.
+#### § 27b
 
-<sup>3</sup> Dem Gesuch um unentgeltliche Inkassohilfe sind der Rechtstitel gemäss § 28 und der Schriftenempfangsschein beizulegen.
+**Kostenbeteiligung berechtigte Person**
 
-[^27-1]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de)
+<sup>1</sup> Die erforderlichen Mittel gemäss § 43b Absätze 2 und 3 des Sozialhilfegesetzes liegen vor, wenn das massgebende Einkommen gemäss § 46a des Sozialhilfegesetzes
+
+- a. von Alleinstehenden 120'000 Franken übersteigt oder
+- b. von Verheirateten oder in eingetragener Partnerschaft oder in einem stabilen Konkubinat lebenden Personen gesamthaft 180'000 Franken übersteigt.
+
+<sup>2</sup> Die Kostenbeteiligung für die Leistungen der Fachstelle beträgt pauschal 800 Franken für das ganze Jahr.
 
 ### 4.2 Bevorschussung
 
@@ -409,15 +440,18 @@ beschliesst:
 - a. das wahrheitsgemäss ausgefüllte Gesuchsformular,
 - b. die Erklärung, wonach davon Kenntnis genommen wird, dass unrechtmässig erhaltene Vorschüsse zurückzuerstatten sind und dass gegebenenfalls Strafanzeige erstattet wird.
 
+### 4.3 Allgemeines
+
 #### § 34
 
 **Verwendung eingehender Zahlungen**
 
-<sup>1</sup> Die Verwendung eingehender Zahlungen richtet sich nach den Artikeln 85–87 des Schweizerischen Obligationenrechts vom 30. März 1911[^34-1].
+<sup>1</sup> Die Verwendung eingehender Zahlungen richtet sich nach den Artikeln 85–87 des Schweizerischen Obligationenrechts vom 30. März 1911[^34-1]. Vorbehalten bleibt Artikel 15 der Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen vom 6. Dezember 2019[^34-2].
 
 <sup>2</sup> Der Sozialdienst hat dem unterhaltsberechtigten Kind einen allfälligen Überschuss auszubezahlen.
 
 [^34-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+[^34-2]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
 
 ## 5 Schlussbestimmungen
 
@@ -439,7 +473,13 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Die Dienststelle Soziales und Gesellschaft hat der zuständigen Heimatgemeinde die Kosten für die wirtschaftliche Sozialhilfe, die dem Kanton vor dem 8. April 2018 in Rechnung gestellt werden (§ 62 Abs. 3 Sozialhilfegesetz), bis zum 30. Juni 2018 weiterzuverrechnen.
+<sup>1</sup> …
+
+#### § 37a
+
+**Übergangsbestimmung zur Änderung vom 10. Januar 2023**
+
+<sup>1</sup> Die Einwohnergemeinden haben die fachlichen Anforderungen an die Leistungserbringer gemäss § 2a bis spätestens am 1. September 2024 zu erfüllen.
 
 #### § 38
 
