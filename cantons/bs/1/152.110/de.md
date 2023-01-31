@@ -4,13 +4,13 @@ number: "152.110"
 title: Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates
 short: AB
 language: de
-version: 2022-02-01
-valid_until: 2023-01-31
+version: 2023-02-01
+valid_until: 2023-07-31
 version_adopted: 2022-01-12
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5809/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5825/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates: Ausführungsbestimmungen | Grosser Rat / Om
 
 (AB)
 
-Vom 29. Juni 2006 (Stand 1. Februar 2022)
+Vom 29. Juni 2006 (Stand 1. Februar 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -37,15 +37,15 @@ erlässt folgende Ausführungsbestimmungen:
 
 **Sitzungsort**
 
-<sup>1</sup> Die Beratungen des Grossen Rates finden im Rathaus statt. Die Beratungen des Grossen Rates können, solange einschlägige Vorschriften des Bundes oder des Kantons im Rahmen der Bekämpfung des Coronavirus (COVID-19) anwendbar sind, jedoch bis längstens am 31. Januar 2023, in anderen gemäss diesen Vorschriften konformen Lokalitäten stattfinden.
+<sup>1</sup> Die Beratungen des Grossen Rates finden im Rathaus statt.
 
-<sup>2</sup> Das Ratsbüro und die Kommissionen halten ihre Sitzungen im Rathaus oder anderen von ihren Präsidien bestimmten geeigneten Sitzungsräumen ab. Solange einschlägige Vorschriften des Bundes oder des Kantons im Rahmen der Bekämpfung des Coronavirus (COVID-19) anwendbar sind, jedoch bis längstens am 31. Januar 2023, sind vollständig oder teilweise virtuelle Kommissionssitzungen möglich.
+<sup>2</sup> Das Ratsbüro und die Kommissionen halten ihre Sitzungen im Rathaus oder anderen von ihren Präsidien bestimmten geeigneten Sitzungsräumen ab.
 
 #### § 2
 
 **Sitzordnung**
 
-<sup>1</sup> Die Mitglieder des Grossen Rates nehmen im Plenum ihre Sitze nach Wahlkreisen und in der Reihenfolge der von ihren Parteien und ihnen persönlich erhaltenen Stimmen ein. Solange der Grosse Rat im Congress Center Basel oder in einer anderen konformen Lokalität tagt, jedoch längstens bis 31. Januar 2023, kann das Ratsbüro Änderungen an der Sitzordnung vornehmen.
+<sup>1</sup> Die Mitglieder des Grossen Rates nehmen im Plenum ihre Sitze nach Wahlkreisen und in der Reihenfolge der von ihren Parteien und ihnen persönlich erhaltenen Stimmen ein.
 
 #### § 3
 
