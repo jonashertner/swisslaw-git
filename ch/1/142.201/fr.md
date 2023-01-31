@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2023-01-23
+version: 2023-02-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230201-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230123/fr"
 
 (OASA)
 
-du 24 octobre 2007 (État le 23 janvier 2023)
+du 24 octobre 2007 (État le 1<sup>er</sup> février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -587,7 +587,7 @@ Afin de permettre à un étranger en séjour irrégulier de suivre une formation
 - b. l’employeur du requérant a déposé une demande conformément à l’art. 18, let. b, LEI;
 - c. les conditions de rémunération et de travail visées à l’art. 22 LEI sont respectées;
 - d.[^30a-2] le requérant remplit les critères d’intégration définis à l’art. 58*a*, al. 1, LEI;
-- e.[^30a-3] …
+- e.[^30a-3] ...
 - f. il justifie de son identité.
 
 <sup>2</sup> L’autorisation peut être prolongée au terme de la formation initiale si les conditions visées à l’art. 31 sont remplies.
@@ -609,7 +609,7 @@ Afin de permettre à un étranger en séjour irrégulier de suivre une formation
 Une autorisation de séjour peut être octroyée dans les cas individuels d’extrême gravité. Lors de l’appréciation, il convient de tenir compte notamment:
 
 - a.[^31-1] de l’intégration du requérant sur la base des critères d’intégration définis à l’art. 58*a*, al. 1, LEI;
-- b.[^31-2] …
+- b.[^31-2] ...
 - c. de la situation familiale, particulièrement de la période de scolarisation et de la durée de la scolarité des enfants;
 - d.[^31-3] de la situation financière;
 - e. de la durée de la présence en Suisse;
@@ -947,7 +947,7 @@ L’exercice d’une activité salariée peut être autorisé si:
 
 #### Art. 50
 
-**Réadmission après un séjour à l'étranger à des fins professionnelles ou de formation continue[^50-1]**
+**Réadmission après un séjour à l’étranger à des fins professionnelles ou de formation continue[^50-1]**
 
 ### (art. 30, al. 1, let. k, LEI)
 
@@ -990,7 +990,7 @@ Si les conditions relevant du droit d’asile (art. 43, al. 1 à 3, LAsi) sont r
 - d. l’ordre de priorité est respecté (art. 21 LEI);
 - e.[^52-1] ils ne sont pas sous le coup d’une expulsion pénale au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^52-2] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^52-3] qui est entrée en force.
 
-<sup>2</sup> …[^52-4]
+<sup>2</sup> ...[^52-4]
 
 [^52-1]: Introduite par le ch. I 1 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^52-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -2094,10 +2094,11 @@ La durée de validité des décisions préalables des autorités du marché du t
 
 <sup>2</sup> Le DFJP détermine dans une ordonnance les cas dans lesquels les autorisations de courte durée, de séjour ou d’établissement ainsi que les décisions préalables des autorités du marché du travail doivent être soumises à la procédure d’approbation.[^85-2]
 
-<sup>3</sup> L’autorité cantonale compétente en matière d’étranger (art. 88, al. 1) peut soumettre pour approbation une décision au SEM afin qu’il vérifie si les conditions prévues par le droit fédéral sont remplies.
+<sup>3</sup> Les autorités cantonales compétentes du marché du travail (art. 83) et en matière d’étranger (art. 88, al. 1) peuvent soumettre pour approbation une décision au SEM afin qu’il vérifie si les conditions prévues par le droit fédéral sont remplies.[^85-3]
 
 [^85-1]: Nouvelle teneur selon le ch. I de l’O du 12 août 2015, en vigueur depuis le 1<sup>er</sup> sept. 2015 ([RO 2015 2739](https://fedlex.data.admin.ch/eli/oc/2015/517)).
 [^85-2]: Nouvelle teneur selon le ch. II de l’O du 7 juil. 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
+[^85-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 660](https://fedlex.data.admin.ch/eli/oc/2022/660)).
 
 #### Art. 86
 
@@ -2143,7 +2144,7 @@ Afin d’établir l’identité d’un étranger et d’enregistrer ses données
 
 - a. empreintes digitales;
 - b. photos;
-- c. profils d’ADN conformément à l’art. 33 de la loi fédérale du 8 octobre 2004 sur l’analyse génétique humaine[^87-1].
+- c. profils d’ADN conformément à l’art. 50 de la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine[^87-1].
 
 <sup>1bis</sup>
 
@@ -2193,7 +2194,7 @@ Les données visées à l’al. 1, let. a et b, peuvent être saisies de manièr
 - b. demandeurs de visas D qui font valoir un regroupement familial en Suisse;
 - c. demandeurs de visas D humanitaires au sens de l’art. 4, al. 2, de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^87-21].[^87-22]
 
-[^87-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^87-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)**.** Le renvoi a été adapté au 1<sup>er</sup> déc. 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^87-2]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-3]: Introduite par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Introduite par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).

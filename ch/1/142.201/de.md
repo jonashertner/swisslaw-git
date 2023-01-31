@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2023-01-23
+version: 2023-02-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230201-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230123/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 23. Januar 2023)
+vom 24. Oktober 2007 (Stand am 1. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -2076,10 +2076,11 @@ Die Gültigkeitsdauer arbeitsmarktlicher Vorentscheide beträgt sechs Monate. Si
 
 <sup>2</sup> Das EJPD legt in einer Verordnung fest, in welchen Fällen die Kurzaufenthalts-, Aufenthalts- oder Niederlassungsbewilligung sowie die Vorentscheide der kantonalen Arbeitsmarktbehörden dem Zustimmungsverfahren unterliegen.[^85-2]
 
-<sup>3</sup> Die kantonale Migrationsbehörde (Art. 88 Abs. 1) kann dem SEM für die Überprüfung der bundesrechtlichen Voraussetzungen einen kantonalen Entscheid zur Zustimmung unterbreiten.
+<sup>3</sup> Die kantonalen Arbeitsmarktbehörden (Art. 83) und die kantonalen Migrationsbehörden (Art. 88 Abs. 1) können dem SEM für die Überprüfung der bundesrechtlichen Voraussetzungen einen kantonalen Entscheid zur Zustimmung unterbreiten.[^85-3]
 
 [^85-1]: Fassung gemäss Ziff. I der V vom 12. Aug. 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2739](https://fedlex.data.admin.ch/eli/oc/2015/517)).
 [^85-2]: Fassung gemäss Ziff. II der V vom 7. Juli 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
+[^85-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 660](https://fedlex.data.admin.ch/eli/oc/2022/660)).
 
 #### Art. 86
 
@@ -2124,7 +2125,7 @@ Zur Feststellung und Sicherung der Identität einer Ausländerin oder eines Ausl
 
 - a. Fingerabdrücke;
 - b. Fotos;
-- c. DNA-Profile gemäss Artikel 33 des Bundesgesetzes vom 8. Oktober 2004[^87-1] über genetische Untersuchungen beim Menschen.
+- c. DNA-Profile gemäss Artikel 50 des Bundesgesetzes vom 15. Juni 2018[^87-1] über genetische Untersuchungen beim Menschen.
 
 <sup>1bis</sup>
 
@@ -2174,7 +2175,7 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 - b. Personen, die ein Visum D beantragen und um Familiennachzug in die Schweiz ersuchen;
 - c. Personen, die ein humanitäres Visum nach Artikel 4 Absatz 2 der Verordnung vom 15. August 2018[^87-21] über die Einreise und die Visumerteilung beantragen.[^87-22]
 
-[^87-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^87-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)**.** Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Dez. 2022 angepasst.
 [^87-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-3]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).

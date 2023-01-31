@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2023-01-23
+version: 2023-02-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230201-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230123/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 23 gennaio 2023)
+del 24 ottobre 2007 (Stato 1° febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -2097,10 +2097,11 @@ La validità della decisione preliminare delle autorità cantonali preposte al m
 
 <sup>2</sup> Il DFGP determina in un’ordinanza i casi in cui i permessi di soggiorno di breve durata, di dimora o di domicilio nonché le decisioni preliminari delle autorità preposte al mercato del lavoro devono essere sottoposti alla procedura d’approvazione.[^85-2]
 
-<sup>3</sup> L’autorità cantonale della migrazione (art. 88 cpv. 1) può sottoporre alla SEM per approvazione una decisione cantonale affinché verifichi se le condizioni previste dal diritto federale sono adempiute.
+<sup>3</sup> L’autorità cantonale preposta al mercato del lavoro (art. 83) e l’autorità cantonale della migrazione (art. 88 cpv. 1) possono sottoporre alla SEM per approvazione una decisione cantonale affinché verifichi se le condizioni previste dal diritto federale sono adempiute.[^85-3]
 
 [^85-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 2015, in vigore dal 1° set. 2015 ([RU 2015 2739](https://fedlex.data.admin.ch/eli/oc/2015/517)).
 [^85-2]: Nuovo testo giusta il n. II dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
+[^85-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° feb. 2023 ([RU 2022 660](https://fedlex.data.admin.ch/eli/oc/2022/660)).
 
 #### Art. 86
 
@@ -2145,7 +2146,7 @@ Allo scopo di accertare e assicurare l’identità di uno straniero, le autorit�
 
 - a. impronte digitali;
 - b. fotografie;
-- c. profili del DNA secondo l’articolo 33 della legge federale dell’8 ottobre 2004[^87-1] sugli esami genetici sull’essere umano.
+- c. profili del DNA secondo l’articolo 50 della legge federale del 15 giugno 2018[^87-1] sugli esami genetici sull’essere umano.
 
 <sup>1bis</sup>
 
@@ -2195,7 +2196,7 @@ I dati di cui al capoverso 1 lettere a e b possono essere rilevati sistematicame
 - b. i richiedenti un visto D che fanno valere il ricongiungimento familiare in Svizzera;
 - c. i richiedenti un visto D per motivi umanitari ai sensi dell’articolo 4 capoverso 2 dell’ordinanza del 15 agosto 2018[^87-21] concernente l’entrata e il rilascio del visto.[^87-22]
 
-[^87-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^87-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° dic. 2022.
 [^87-2]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-3]: Introdotta dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Introdotta dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
