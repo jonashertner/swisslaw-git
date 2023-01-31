@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 13. August 2015 über die dem Zustimmungsverfahre
 short: ZV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/518"
 language: de
-version: 2022-05-01
+version: 2023-02-01
 adopted: 2015-08-13
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2015-518-20220501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2015-518-20230201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20220501/de"
 
 (Verordnung des EJPD über das ausländerrechtliche Zustimmungsverfahren, ZV-EJPD)[^t-1]
 
-vom 13. August 2015 (Stand am 1. Mai 2022)
+vom 13. August 2015 (Stand am 1. Februar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
 
@@ -39,14 +39,21 @@ Dem Staatssekretariat für Migration (SEM) sind zur Zustimmung zu unterbreiten:
 
 - a.
 
-  Vorentscheide der kantonalen Arbeitsmarktbehörden in Bezug auf Staatsangehörige von Nichtmitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) betreffend:
+  Vorentscheide der kantonalen Arbeitsmarktbehörden in Bezug auf Staatsangehörige von Nichtmitgliedstaaten der Europäischen Union (EU), der Europäischen Freihandelsassoziation (EFTA) oder des Vereinigten Königreichs betreffend:
 
-  - 1\. die Erteilung einer Kurzaufenthaltsbewilligung gestützt auf Artikel 19 Absatz 1 VZAE,
-  - 2\. die Erteilung einer Aufenthaltsbewilligung gestützt auf Artikel 20 Absatz 1 VZAE;
+  - 1\. die Ausübung einer selbstständigen Erwerbstätigkeit, wenn die Voraussetzungen nach Artikel 19 AIG erfüllt sind,
+  - 2\. die Erwerbstätigkeit von Ausländerinnen und Ausländern mit Schweizer Hochschulabschluss, wenn diese von hohem wissenschaftlichem oder wirtschaftlichem Interesse ist (Art. 21 Abs. 3 AIG),
+  - 3\. die Erwerbstätigkeit von anerkannten Personen aus Wissenschaft, Kultur und Sport (Art. 23 Abs. 3 Bst. b AIG),
+  - 4\. die Erwerbstätigkeit von Personen mit besonderen beruflichen Kenntnissen oder Fähigkeiten, sofern für deren Zulassung ein Bedarf ausgewiesen ist (Art. 23 Abs. 3 Bst. c AIG),
+  - 5\. die Erwerbstätigkeit von Besatzungsmitgliedern auf Binnenschiffen von Schweizer Unternehmen, sofern für deren Zulassung ein Bedarf ausgewiesen ist (Art. 23 Abs. 3 Bst. c AIG),
+  - 6\. die Erbringung einer vorübergehenden, grenzüberschreitenden Dienstleistung, wenn die Voraussetzungen nach Artikel 26 AIG erfüllt sind,
+  - 7\. die Erwerbstätigkeit von religiösen Betreuungs- oder Lehrpersonen oder Lehrkräften für heimatliche Sprache und Kultur, wenn die Voraussetzungen nach Artikel 26*a* AIG erfüllt sind,
+  - 8\. Aufenthalte mit Erwerbstätigkeit im Rahmen von Hilfs- und Entwicklungsprojekten über die wirtschaftliche und technische Zusammenarbeit (Art. 30 Abs. 1 Bst. f AIG),
+  - 9\. Weiterbildungsaufenthalte von Au-Pair-Angestellten, die von einer anerkannten Organisation vermittelt werden (Art. 30 Abs. 1 Bst. j AIG);
 
-- b. die Erteilung und die Erneuerung von Kurzaufenthaltsbewilligungen, wenn die Bewilligung zur Erwerbstätigkeit gemäss den Bestimmungen von Artikel 19 Absatz 4 Buchstabe a VZAE für längstens vier Monate erteilt wird.
+- b. Vorentscheide der kantonalen Behörden in Bezug auf Staatsangehörige von Nichtmitgliedstaaten der EU oder der EFTA, die erheblich oder wiederholt gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen oder diese gefährden oder die innere oder die äussere Sicherheit gefährden.
 
-[^1-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^1-1]: Fassung gemäss Ziff. I der V des EJPD vom 2. Nov. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
 
 #### Art. 2
 
@@ -58,7 +65,9 @@ Dem SEM ist die Erteilung folgender Bewilligungen an Staatsangehörige von Nicht
 - b. Aufenthaltsbewilligungen für eine medizinische Behandlung, falls bei Einreichung des Gesuches absehbar ist, dass der Aufenthalt ein Jahr oder länger dauern wird (Art. 29 AIG);
 - c. Aufenthaltsbewilligungen für Rentnerinnen und Rentner (Art. 28 AIG);
 - d. Aufenthaltsbewilligungen für Pflegekinder zur Adoption (Art. 48 AIG);
-- e. Aufenthaltsbewilligungen zwecks Vorbereitung der Heirat, falls bei Einreichung des Gesuches absehbar ist, dass der Aufenthalt ein Jahr oder länger dauern wird.
+- e.[^2-1] ...
+
+[^2-1]: Aufgehoben durch Ziff. I der V des EJPD vom 2. Nov. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
 
 #### Art. 3
 
@@ -69,15 +78,17 @@ Dem SEM ist zur Zustimmung zu unterbreiten:
 - a. die Erteilung einer Aufenthaltsbewilligung an Ausländerinnen und Ausländer ohne gültigen heimatlichen Pass;
 - b.[^3-1] die Erteilung einer Aufenthaltsbewilligung an Ausländerinnen und Ausländer, die erheblich oder wiederholt gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen oder diese gefährden oder die innere oder die äussere Sicherheit gefährden;
 - c. die Erteilung einer Aufenthalts- oder Niederlassungsbewilligung nach rechtskräftigem Widerruf des Schweizer Bürgerrechts;
-- d. die vorzeitige Erteilung der Niederlassungsbewilligung nach Artikel 34 Absätze 3 und 4 AIG;
-- e. die sofortige Erteilung der Niederlassungsbewilligung an Professorinnen und Professoren;
-- f.[^3-2] die Erteilung einer Aufenthaltsbewilligung gestützt auf Artikel 8 der Konvention vom 4. November 1950[^3-3] zum Schutze der Menschenrechte und Grundfreiheiten;
-- g.[^3-4] ….
+- d.[^3-2] die vorzeitige Erteilung der Niederlassungsbewilligung nach Artikel 34 Absatz 3 AIG, sofern sie nicht Professorinnen und Professoren betrifft;
+- e.[^3-3] ...
+- f.[^3-4] die Erteilung einer Aufenthaltsbewilligung gestützt auf Artikel 8 der Konvention vom 4. November 1950[^3-5] zum Schutze der Menschenrechte und Grundfreiheiten;
+- g.[^3-6] ….
 
 [^3-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^3-2]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^3-3]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^3-4]: Eingefügt durch Ziff. I der V des EJPD vom 28. Okt. 2020 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)). Aufgehoben durch Ziff. I der V des EJPD vom 6. April 2022, mit Wirkung seit 1. Mai 2022 ([AS 2022 238](https://fedlex.data.admin.ch/eli/oc/2022/238)).
+[^3-2]: Fassung gemäss Ziff. I der V des EJPD vom 2. Nov. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^3-3]: Aufgehoben durch Ziff. I der V des EJPD vom 2. Nov. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^3-4]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^3-5]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^3-6]: Eingefügt durch Ziff. I der V des EJPD vom 28. Okt. 2020 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)). Aufgehoben durch Ziff. I der V des EJPD vom 6. April 2022, mit Wirkung seit 1. Mai 2022 ([AS 2022 238](https://fedlex.data.admin.ch/eli/oc/2022/238)).
 
 #### Art. 4
 
@@ -86,26 +97,20 @@ Dem SEM ist zur Zustimmung zu unterbreiten:
 Dem SEM ist zur Zustimmung zu unterbreiten:
 
 - a. die Verlängerung der Aufenthaltsbewilligung, wenn die betroffene Ausländerin oder der betroffene Ausländer den heimatlichen Pass nicht mehr verlängern kann;
-- b.
+- b.[^4-1] die Verlängerung der Aufenthaltsbewilligung von vorübergehend zugelassenen Staatsangehörigen von Nichtmitgliedstaaten der EU oder der EFTA wie Schülerinnen und Schülern, Studierenden, Doktorandinnen und Doktoranden, Postdoktorandinnen und ‑doktoranden, akademischen Gästen, Personen im Forschungs- oder Weiterbildungsurlaub und Bundesstipendiatinnen und ‑stipendiaten, wenn der Aufenthalt im Rahmen einer Aus- oder Weiterbildung voraussichtlich länger als acht Jahre dauert (Art. 23 Abs. 3 VZAE);
+- c.[^4-2] die Verlängerung der Aufenthaltsbewilligung von Ausländerinnen und Ausländern, die erheblich oder wiederholt gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen oder diese gefährden oder die innere oder die äussere Sicherheit gefährden;
+- d.[^4-3] die Verlängerung der Aufenthaltsbewilligung nach der Auflösung der ehelichen Gemeinschaft oder nach dem Tod des schweizerischen oder ausländischen Ehegatten (Art. 50 AIG; Art. 77 VZAE);
+- e.[^4-4] die Verlängerung der Aufenthaltsbewilligung von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA und ihrer Familienangehörigen, die ein Recht auf Verbleib in der Schweiz haben (Anhang I Art. 4 des Abk. vom 21. Juni 1999[^4-5] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit [FZA]);
+- f.[^4-6] die Verlängerung der Aufenthaltsbewilligung von Kindern von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA, die in der Schweiz eine Erwerbstätigkeit ausgeübt haben, oder von deren Ehegatten, um hier eine Ausbildung zu beenden (Anhang I Art. 3 Abs. 6 FZA), sowie die Verlängerung der Aufenthaltsbewilligung des Elternteils, der die elterliche Sorge tatsächlich wahrnimmt;
+- g.[^4-7] die Verlängerung der Aufenthaltsbewilligung von Staatsangehörigen eines Nichtmitgliedstaats der EU oder der EFTA, wenn diese in einem Haushalt leben, der während der letzten drei Jahre vor Ablauf der Bewilligung Sozialhilfe in Höhe von 50 000 Franken oder mehr bei einem Einpersonenhaushalt beziehungsweise 80 000 Franken oder mehr bei einem Mehrpersonenhaushalt bezogen hat.
 
-  die Verlängerung der Aufenthaltsbewilligung von vorübergehend zugelassenen Staatsangehörigen von Nichtmitgliedstaaten der EU oder der EFTA (Schülerinnen und Schüler, Studierende, Doktorandinnen und Doktoranden, Postdoktorandinnen und ‑doktoranden, akademische Gäste, Personen im Forschungs- oder Weiterbildungsurlaub, Bundesstipendiatinnen und ‑stipendiaten usw.), wenn:
-
-  - 1\. der Aufenthalt im Rahmen einer Aus- oder Weiterbildung voraussichtlich länger als acht Jahre dauert (Art. 23 Abs. 3 VZAE),
-  - 2\. die Ausländerin oder der Ausländer der Ausbildung nicht mehr die Zeit widmet oder widmen kann, die üblicherweise nötig ist, um die Ausbildung abzuschliessen, oder
-  - 3\. begründete Anhaltspunkte bestehen, dass die Ausländerin oder der Ausländer durch wiederholte Wechsel des Ausbildungsziels einen dauernden Aufenthalt in der Schweiz anstrebt;
-
-- c.[^4-1] die Verlängerung der Aufenthaltsbewilligung von Ausländerinnen und Ausländern, die erheblich oder wiederholt gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen oder diese gefährden oder die innere oder die äussere Sicherheit gefährden;
-- d.[^4-2] die Verlängerung der Aufenthaltsbewilligung nach der Auflösung der ehelichen Gemeinschaft oder nach dem Tod des schweizerischen oder ausländischen Ehegatten (Art. 50 AIG; Art. 77 VZAE);
-- e.[^4-3] die Verlängerung der Aufenthaltsbewilligung von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA und ihrer Familienangehörigen, die ein Recht auf Verbleib in der Schweiz haben (Anhang I Art. 4 des Abk. vom 21. Juni 1999[^4-4] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit [FZA]);
-- f.[^4-5] die Verlängerung der Aufenthaltsbewilligung von Kindern von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA, die in der Schweiz eine Erwerbstätigkeit ausgeübt haben, oder von deren Ehegatten, um hier eine Ausbildung zu beenden (Anhang I Art. 3 Abs. 6 FZA), sowie die Verlängerung der Aufenthaltsbewilligung des Elternteils, der die elterliche Sorge tatsächlich wahrnimmt;
-- g.[^4-6] die Verlängerung der Aufenthaltsbewilligung von Staatsangehörigen eines Nichtmitgliedstaats der EU oder der EFTA, wenn diese in einem Haushalt leben, der während der letzten drei Jahre vor Ablauf der Bewilligung Sozialhilfe in Höhe von 50 000 Franken oder mehr bei einem Einpersonenhaushalt beziehungsweise 80 000 Franken oder mehr bei einem Mehrpersonenhaushalt bezogen hat.
-
-[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 2. Nov. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
 [^4-2]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^4-3]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^4-4]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^4-5]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^4-6]: Eingefügt durch Ziff. I der V des EJPD vom 28. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
+[^4-3]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-4]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^4-6]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-7]: Eingefügt durch Ziff. I der V des EJPD vom 28. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
 
 #### Art. 5
 
@@ -133,17 +138,19 @@ Dem SEM sind zur Zustimmung zu unterbreiten:
 
 Dem SEM ist die Erteilung folgender Bewilligungen im Hinblick auf einen Familiennachzug von Staatsangehörigen von Nichtmitgliedstaaten der EU oder der EFTA zur Zustimmung zu unterbreiten:
 
-- a. Aufenthaltsbewilligungen nach Ablauf der Frist für den Familiennachzug nach Artikel 47 AIG und Artikel 73 VZAE;
+- a.[^6-1] Aufenthalts- oder Niederlassungsbewilligungen nach Ablauf der Frist für den Familiennachzug nach Artikel 47 AIG und Artikel 73 VZAE;
 - b. Aufenthaltsbewilligungen für die Nachkommen von Schweizerinnen und Schweizern oder von deren Ehegatten, die älter als 18 Jahre sind (Art. 42 Abs. 2 AIG);
 - c. Aufenthaltsbewilligungen für die Familienangehörigen von Schweizerinnen und Schweizern sowie von deren Ehegatten in aufsteigender Linie (Art. 42 Abs. 2 AIG);
-- d.[^6-1] Aufenthaltsbewilligungen für über 21-jährige Nachkommen von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA sowie von deren Ehegatten (Anhang I Art. 3 Abs. 1 und 2 Bst. a FZA[^6-2]);
-- e. Aufenthaltsbewilligungen für zwischen 18 und 21 Jahre alte Nachkommen von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA sowie von deren Ehegatten, sofern diese Nachkommen sich vor der Gesuchseinreichung nicht rechtmässig und dauerhaft in einem Mitgliedstaat der EU oder der EFTA aufgehalten haben (Art. 3 Abs. 1 und 2 Bst. a von Anhang I FZA);
+- d.[^6-2] Aufenthaltsbewilligungen für über 21-jährige Nachkommen von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA sowie von deren Ehegatten (Anhang I Art. 3 Abs. 1 und 2 Bst. a FZA[^6-3]);
+- e.[^6-4] ...
 - f. Aufenthaltsbewilligungen für Familienangehörige in aufsteigender Linie von Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA sowie von deren Ehegatten (Art. 3 Abs. 1 und 2 Bst. b von Anhang I FZA);
-- g.[^6-3] Aufenthaltsbewilligungen für die Eltern von minderjährigen Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA, wenn sie die elterliche Sorge tatsächlich wahrnehmen und über ausreichende finanzielle Mittel verfügen (Anhang I Art. 24 Abs. 1 FZA; umgekehrter Familiennachzug).
+- g.[^6-5] Aufenthaltsbewilligungen für die Eltern von minderjährigen Staatsangehörigen eines Mitgliedstaats der EU oder der EFTA, wenn sie die elterliche Sorge tatsächlich wahrnehmen und über ausreichende finanzielle Mittel verfügen (Anhang I Art. 24 Abs. 1 FZA; umgekehrter Familiennachzug).
 
-[^6-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^6-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^6-3]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^6-1]: Fassung gemäss Ziff. I der V des EJPD vom 2. Nov. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^6-2]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^6-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^6-4]: Aufgehoben durch Ziff. I der V des EJPD vom 2. Nov. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^6-5]: Eingefügt durch Ziff. I der V des EJPD vom 19. März 2018, in Kraft seit 15. April 2018 ([AS 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 
 #### Art. 7
 

@@ -4,11 +4,11 @@ title: "Ordonnance du DFJP du 13 août 2015 relative aux autorisations et aux d�
 short: OA-DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/518"
 language: fr
-version: 2022-05-01
+version: 2023-02-01
 adopted: 2015-08-13
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2015-518-20220501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/518/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-518-20230201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/518/20220501/fr"
 
 (Ordonnance du DFJP concernant l’approbation, OA-DFJP)[^t-1]
 
-du 13 août 2015 (Etat le 1<sup>er</sup> mai 2022)
+du 13 août 2015 (État le 1<sup>er</sup> février 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)).
 
@@ -38,14 +38,21 @@ Sont soumis pour approbation au Secrétariat d’État aux migrations (SEM):
 
 - a.
 
-  les décisions préalables des autorités du marché du travail concernant des ressortissants d’États non membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) lorsqu’elles portent sur:
+  les décisions préalables des autorités cantonales du marché du travail portant sur des ressortissants d’États non membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) ou du Royaume-Uni et qui concernent:
 
-  - 1\. l’octroi d’une autorisation de courte durée en vertu de l’art. 19, al. 1, OASA,
-  - 2\. l’octroi d’une autorisation de séjour en vertu de l’art. 20, al. 1, OASA;
+  - 1\. l’exercice d’une activité lucrative indépendante, lorsque les conditions de l’art. 19 LEI sont remplies,
+  - 2\. l’activité lucrative des étrangers titulaires d’un diplôme d’une haute école suisse si elle revêt un intérêt scientifique ou économique prépondérant (art. 21, al. 3, LEI),
+  - 3\. l’activité lucrative des personnalités reconnues des domaines scientifique, culturel ou sportif (art. 23, al. 3, let. b, LEI),
+  - 4\. l’activité lucrative des personnes possédant des connaissances ou des capacités professionnelles particulières, si leur admission répond de manière avérée à un besoin (art. 23, al. 3, let. c, LEI),
+  - 5\. l’activité lucrative des membres de l’équipage d’un bateau de navigation intérieure d’une entreprise suisse, si leur admission répond de manière avérée à un besoin (art. 23, al. 3. let. c, LEI),
+  - 6\. la prestation de services transfrontaliers temporaires, si les conditions de l’art. 26 LEI sont remplies,
+  - 7\. l’activité lucrative des personnes assurant un encadrement ou un enseignement religieux ou dispensant un cours de langue et de culture de son pays d’origine, si les conditions de l’art. 26*a* LEI sont remplies,
+  - 8\. les séjours avec activité lucrative dans le cadre de projets d’aide et de développement menés au titre de la coopération économique et technique (art. 30, al. 1, let. f, LEI), ou
+  - 9\. les séjours de formation des personnes au pair placées par une organisation reconnue (art. 30, al. 1, let. j, LEI);
 
-- b. l’octroi et le renouvellement des autorisations de courte durée lorsque l’autorisation d’exercer une activité lucrative est octroyée pour quatre mois au maximum aux conditions prévues à l’art. 19, al. 4, let. a, OASA.
+- b. les décisions préalables des autorités cantonales portant sur des ressortissants d’États non membres de l’UE ou de l’AELE qui attentent de manière grave ou répétée à la sécurité et à l’ordre publics en Suisse ou à l’étranger, les mettent en danger ou représentent une menace pour la sécurité intérieure ou extérieure de la Suisse.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
 
 #### Art. 2
 
@@ -57,7 +64,9 @@ Est soumis pour approbation au SEM l’octroi aux ressortissants d’États non 
 - b. les autorisations de séjour pour personnes en traitement médical, dans la mesure où il est prévisible, dès le dépôt de la demande, que la durée du séjour sera d’une année ou plus (art. 29 LEI);
 - c. les autorisations de séjour pour rentiers (art. 28 LEI);
 - d. les autorisations de séjour pour enfants placés (art. 48 LEI);
-- e. les autorisations de séjour en vue de préparer le mariage, dans la mesure où, lors du dépôt de la demande, il est prévisible que la durée du séjour sera d’une année ou plus.
+- e.[^2-1] …
+
+[^2-1]: Abrogée par le ch. I de l’O du DFJP du 2 nov. 2022, avec effet au 1<sup>er</sup> fév. 2023 ([RO 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
 
 #### Art. 3
 
@@ -68,15 +77,17 @@ Sont soumis au SEM pour approbation:
 - a. l’octroi d’une autorisation de séjour à un étranger dépourvu d’un passeport national valable;
 - b.[^3-1] l’octroi d’une autorisation de séjour à un étranger qui attente de manière grave ou répétée à la sécurité et l’ordre publics en Suisse ou à l’étranger, les met en danger ou représente une menace pour la sécurité intérieure ou extérieure de la Suisse;
 - c. l’octroi d’une autorisation de séjour ou d’établissement suite à la révocation de la nationalité suisse entrée en force;
-- d. l’octroi anticipé de l’autorisation d’établissement en vertu l’art. 34, al. 3 et 4, LEI;
-- e. l’octroi immédiat de l’autorisation d’établissement à un professeur;
-- f.[^3-2] l’octroi d’une autorisation de séjour en vertu de l’art. 8 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales[^3-3];
-- g.[^3-4] …
+- d.[^3-2] l’octroi anticipé de l’autorisation d’établissement en vertu l’art. 34, al. 3, LEI, sauf s’il concerne un professeur;
+- e.[^3-3] …
+- f.[^3-4] l’octroi d’une autorisation de séjour en vertu de l’art. 8 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales[^3-5];
+- g.[^3-6] …
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^3-2]: Introduite par le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^3-3]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^3-4]: Introduite par le ch. I de l’O du DFJP du 28 oct. 2020 ([RO 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)). Abrogée par le ch. I de l’O du DFJP du 6 avr. 2022, avec effet au 1<sup>er</sup> mai 2022 ([RO 2022 238](https://fedlex.data.admin.ch/eli/oc/2022/238)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^3-3]: Abrogée par le ch. I de l’O du DFJP du 2 nov. 2022, avec effet au 1<sup>er</sup> fév. 2023 ([RO 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^3-4]: Introduite par le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^3-5]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^3-6]: Introduite par le ch. I de l’O du DFJP du 28 oct. 2020 ([RO 2020 4743](https://fedlex.data.admin.ch/eli/oc/2020/856)). Abrogée par le ch. I de l’O du DFJP du 6 avr. 2022, avec effet au 1<sup>er</sup> mai 2022 ([RO 2022 238](https://fedlex.data.admin.ch/eli/oc/2022/238)).
 
 #### Art. 4
 
@@ -85,21 +96,14 @@ Sont soumis au SEM pour approbation:
 Sont soumises au SEM pour approbation:
 
 - a. la prolongation de l’autorisation de séjour lorsque l’étranger n’est plus en mesure d’obtenir la prolongation de son passeport national;
-- b.
-
-  la prolongation de l’autorisation de séjour d’un ressortissant d’un État non membre de l’UE ou de l’AELE admis temporairement en Suisse (élève, étudiant, doctorant, post-doctorant, hôte académique, personne bénéficiant d’un congé sabbatique, boursier, etc.) dans les cas suivants:
-
-  - 1\.[^4-1] il est prévisible que le séjour aux fins de formation ou de formation continue se prolongera au-delà de huit ans (art. 23, al. 3, OASA),
-  - 2\. l’étranger ne consacre plus ou n’est plus en mesure de consacrer à ses études le temps habituellement nécessaire pour les achever, ou
-  - 3\. des indices sérieux tendent à démontrer que l’étranger change maintes fois d’objectifs de formation dans le but de séjourner durablement en Suisse;
-
+- b.[^4-1] la prolongation de l’autorisation de séjour d’un ressortissant d’un État non membre de l’UE ou de l’AELE admis temporairement en Suisse, tel qu’un élève, un étudiant, un doctorant, un post-doctorant, un hôte académique, une personne bénéficiant d’un congé sabbatique ou un boursier, s’il est prévisible que le séjour aux fins de formation ou de formation continue se prolongera au-delà de huit ans (art. 23, al. 3, OASA);
 - c [^4-2] la prolongation de l’autorisation de séjour d’un étranger qui attente de manière grave ou répétée à la sécurité et l’ordre publics en Suisse ou à l’étranger, les met en danger ou représente une menace pour la sécurité intérieure ou extérieure de la Suisse;
 - d.[^4-3] la prolongation de l’autorisation de séjour après la dissolution de l’union conjugale ou le décès du conjoint suisse ou étranger (art. 50 LEI; art. 77 OASA);
 - e.[^4-4] la prolongation de l’autorisation de séjour d’un ressortissant d’un État membre de l’UE ou de l’AELE et des membres de sa famille qui ont le droit de demeurer en Suisse (art. 4 de l’annexe I de l’Ac. du 21 juin 1999 entre la Confédération suisse, d’une part et la Communauté européenne et ses États membres, d’autre part sur la libre circulation des personnes [ALCP][^4-5]);
 - f.[^4-6] la prolongation de l’autorisation de séjour de l’enfant d’un ressortissant d’un État membre de l’UE ou de l’AELE qui a exercé une activité économique en Suisse ou de son conjoint afin d’y terminer sa formation (art. 3, par. 6, de l’annexe I ALCP) ainsi que la prolongation de l’autorisation de séjour du parent qui en a effectivement la garde;
 - g.[^4-7] la prolongation de l’autorisation de séjour d’un ressortissant d’un État non membre de l’UE ou de l’AELE lorsque cette personne fait partie d’un ménage ayant obtenu des prestations d’aide sociale durant les trois dernières années précédant la date d’échéance du titre de séjour pour un montant égal ou supérieur à 50 000 francs s’agissant d’un ménage d’une seule personne, ou à 80 000 francs s’agissant d’un ménage de plusieurs personnes.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 [^4-4]: Introduite par le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
@@ -133,18 +137,20 @@ Sont soumis au SEM pour approbation:
 
 Est soumis au SEM pour approbation l’octroi des autorisations suivantes en vue du regroupement familial de ressortissants d’États non membres de l’UE ou de l’AELE:[^6-1]
 
-- a. les autorisations de séjour à l’échéance du délai pour le regroupement familial en vertu des art. 47 LEI et 73 OASA;
+- a.[^6-2] les autorisations de séjour ou d’établissement à l’échéance du délai pour le regroupement familial en vertu des art. 47 LEI et 73 OASA;
 - b. les autorisations de séjour pour les descendants d’un citoyen suisse ou de son conjoint et qui sont âgés de plus de 18 ans (art. 42, al. 2, LEI);
 - c. les autorisations de séjour pour les ascendants d’un citoyen suisse ou de son conjoint (art. 42, al. 2, LEI);
-- d.[^6-2] les autorisations de séjour pour les descendants d’un ressortissant d’un État membre de l’UE ou de l’AELE ou de son conjoint et qui sont âgés de plus de 21 ans (art. 3, par. 1 et 2, let. a, de l’annexe I ALCP[^6-3]);
-- e. les autorisations de séjour pour les descendants d’un ressortissant d’un État membre de l’UE ou de l’AELE ou de son conjoint et qui sont âgés de 18 à 21 ans, pour autant que ces descendants n’aient pas séjourné légalement et durablement dans un État membre de l’UE ou de l’AELE avant le dépôt de la demande (art. 3, par. 1 et 2, let. a, de l’annexe I ALCP);
+- d.[^6-3] les autorisations de séjour pour les descendants d’un ressortissant d’un État membre de l’UE ou de l’AELE ou de son conjoint et qui sont âgés de plus de 21 ans (art. 3, par. 1 et 2, let. a, de l’annexe I ALCP[^6-4]);
+- e.[^6-5] …
 - f. les autorisations de séjour pour les ascendants d’un ressortissant d’un État membre de l’UE ou de l’AELE ou de son conjoint (art. 3, par. 1 et 2, let. b, de l’annexe I ALCP);
-- g.[^6-4] les autorisations de séjour pour les parents d’un ressortissant mineur d’un État membre de l’UE ou de l’AELE s’ils en ont effectivement la garde et disposent des moyens financiers suffisants (art. 24, par. 1, de l’annexe I ALCP; regroupement familial inversé).
+- g.[^6-6] les autorisations de séjour pour les parents d’un ressortissant mineur d’un État membre de l’UE ou de l’AELE s’ils en ont effectivement la garde et disposent des moyens financiers suffisants (art. 24, par. 1, de l’annexe I ALCP; regroupement familial inversé).
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
-[^6-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^6-4]: Introduite par le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
+[^6-4]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^6-5]: Abrogée par le ch. I de l’O du DFJP du 2 nov. 2022, avec effet au 1<sup>er</sup> fév. 2023 ([RO 2022 661](https://fedlex.data.admin.ch/eli/oc/2022/661)).
+[^6-6]: Introduite par le ch. I de l’O du DFJP du 19 mars 2018, en vigueur depuis le 15 avr. 2018 ([RO 2018 1237](https://fedlex.data.admin.ch/eli/oc/2018/197)).
 
 #### Art. 7
 
