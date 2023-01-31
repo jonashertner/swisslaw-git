@@ -4,13 +4,13 @@ number: IX C/1/1
 title: Gesetz zur Entwicklung des Tourismus
 short: "Tourismusentwicklungsgesetz, TEG"
 language: de
-version: 2018-07-01
-valid_until: 2023-01-31
-version_adopted: 2018-05-06
+version: 2023-02-01
+valid_until: 2023-05-06
+version_adopted: 2022-05-01
 adopted: 2007-05-06
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2041/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2404/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2041/pdf_file"
 
 (Tourismusentwicklungsgesetz, TEG)
 
-Vom 06.05.2007 (Stand 01.07.2018)
+Vom 06.05.2007 (Stand 01.02.2023)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -193,7 +193,7 @@ Vom 06.05.2007 (Stand 01.07.2018)
 <sup>1</sup> Eine Kurtaxe haben zu entrichten:
 
 - a. die Betreiber von
-  - 1\. gewerbsmässigen Beherbergungsbetrieben gemäss Gastgewerbegesetz Artikel 2 Buchstabe d[^13-1],
+  - 1\. gewerbsmässigen Beherbergungsbetrieben,
   - 2\. Gruppenunterkünften,
   - 3\. Campingplätzen;
 - b. die Eigentümer von Ferienwohnungen und Ferienhäusern.
@@ -201,8 +201,6 @@ Vom 06.05.2007 (Stand 01.07.2018)
 <sup>2</sup> Die Kurtaxe wird in der Regel durch die Beherbergenden eingezogen und kann auf den Beherbergungspreis überwälzt werden. Die Beherbergenden haben gegenüber den zuständigen Gemeindestellen eine Meldepflicht bezüglich aller abgabepflichtigen Personen.
 
 <sup>3</sup> Die Tourismusförderungsabgabe ist von juristischen Personen mit Sitz oder Betriebsstätte in der Gemeinde und selbstständig erwerbstätigen natürlichen Personen mit Geschäftsbetrieb oder Betriebsstätte in der Gemeinde zu entrichten. Territoriale Abstufungen und solche nach Branchen sind zulässig.
-
-[^13-1]: GS [IX B/22/1](https://gesetze.gl.ch/data/IX-B.22.1/de)
 
 #### Art. 14
 
