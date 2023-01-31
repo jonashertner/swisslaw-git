@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer (Verrechn
 short: VStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: de
-version: 2023-01-01
+version: 2023-02-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20230201/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20230201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20230101/de"
 
 (Verrechnungssteuergesetz, VStG)[^t-1]
 
-vom 13. Oktober 1965 (Stand am 1. Januar 2023)
+vom 13. Oktober 1965 (Stand am 1. Februar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [BBl 2011 6615](https://fedlex.data.admin.ch/eli/fga/2011/1054)).
 
@@ -143,7 +143,7 @@ Von der Steuer sind ausgenommen:
     - – bei nicht systemrelevanten Banken oder bei Konzerngesellschaften von Finanzgruppen: im Zeitpunkt der Emission
     - – bei systemrelevanten Banken nach den Artikeln 7 Absatz 1 BankG: im Zeitpunkt der Emission oder bei einem Wechsel von einem ausländischen zu einem schweizerischen Emittenten, und
 
-- 2\. zwischen dem 1. Januar 2017 und dem 31. Dezember 2026 ausgegeben werden oder deren Emittent während dieser Zeit nach Ziffer 1 wechselt.
+  - 2\. zwischen dem 1. Januar 2017 und dem 31. Dezember 2026 ausgegeben werden oder deren Emittent während dieser Zeit nach Ziffer 1 wechselt.
 
 <sup>1bis</sup> Die Rückzahlung von Reserven aus Kapitaleinlagen, die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital, wenn die Reserven aus Kapitaleinlagen von der Kapitalgesellschaft oder Genossenschaft in der Handelsbilanz auf einem gesonderten Konto ausgewiesen werden und die Gesellschaft oder Genossenschaft jede Veränderung auf diesem Konto der Eidgenössischen Steuerverwaltung (ESTV) meldet. Absatz 1<sup>ter</sup> bleibt vorbehalten.[^5-14]
 
@@ -712,12 +712,12 @@ Keine Geheimhaltungspflicht besteht:
 
 <sup>3</sup> Für Meldeverfahren nach Artikel 20*a* Absatz 1 ist die Meldung innert 90 Tagen nach Fälligkeit der steuerbaren Leistung zusammen mit den Belegen und einer Wohnsitzbestätigung der Gewinnerin oder des Gewinners zu erstatten.[^38-1]
 
-<sup>4</sup> …[^38-2]
+<sup>4</sup> Bei Meldungen nach Artikel 19 über Versicherungsleistungen an inländische natürliche Personen ist deren AHV-Nummer anzugeben.[^38-2]
 
 <sup>5</sup> Inländische natürliche Personen mit Anspruch auf Versicherungsleistungen nach Artikel 7 müssen der nach Artikel 19 meldepflichtigen Person ihre AHV-Nummer bekanntgeben. Fehlt die Selbstauskunft, so werden die Verzugsfolgen aus Gesetz oder Vertrag bei der meldepflichtigen Person bis zum Erhalt der AHV-Nummer aufgeschoben. Artikel 19 Absatz 3 bleibt vorbehalten.[^38-3]
 
 [^38-1]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [BBl 2018 2325](https://fedlex.data.admin.ch/eli/fga/2018/890)).
-[^38-2]: Tritt am 1. Febr. 2023 in Kraft ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^38-2]: Eingefügt durch Ziff. I 5 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Febr. 2023 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 [^38-3]: Eingefügt durch Ziff. I 5 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Sept. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### 2. Auskunftspflicht
