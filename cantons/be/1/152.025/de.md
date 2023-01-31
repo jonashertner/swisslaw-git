@@ -4,13 +4,13 @@ number: "152.025"
 title: Verordnung über das Vernehmlassungs- und das Mitberichtsverfahren
 short: VMV
 language: de
-version: 2022-03-01
-valid_until: 2023-01-31
-version_adopted: 2022-02-02
+version: 2023-02-01
+valid_until: 2025-05-31
+version_adopted: 2022-12-21
 adopted: 2022-12-21
 in_force: 2023-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.025"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2537/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2777/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,79 +19,45 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2537/pdf_file"
 
 (VMV)
 
-vom 26.06.1996 (Stand 01.03.2022)
+vom 21.12.2022 (Stand 01.02.2023)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 41 sowie Artikel 50 Buchstaben c und d des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG[^ingress-1]),
+gestützt auf Artikel 79 Absatz 1 Buchstabe c und Artikel 90 Absatz 1 Buchstabe e der Kantonsverfassung (KV)[^ingress-1] sowie Artikel 41 und Artikel 50 Absatz 1 Buchstaben c und d des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^ingress-2],
 
 auf Antrag der Staatskanzlei,
 
 beschliesst:
 
-[^ingress-1]: BSG 152.01
+[^ingress-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
+[^ingress-2]: BSG [152.01](https://www.belex.sites.be.ch/data/152.01/de)
 
-## 1 Allgemeine Bestimmungen
+## 1 Geltungsbereich
 
 #### Art. 1
 
-**Geltungsbereich**
-
 <sup>1</sup> Diese Verordnung regelt
 
-- a das Vorverfahren (Vernehmlassungsverfahren, andere Formen externer Konsultation),
-- b das Mitberichtsverfahren,
-- c Vernehmlassungen zu Vorlagen des Bundes.
+- a das Vernehmlassungsverfahren,
+- b das Konsultationsverfahren,
+- c das Mitberichtsverfahren,
+- d Vernehmlassungen zu Vorlagen des Bundes.
 
-<sup>2</sup> Die Vorschriften der Grossratsgesetzgebung für die Durchführung von Vernehmlassungsverfahren zu parlamentarischen Initiativen bleiben vorbehalten.
+<sup>2</sup> Die Vorschriften der Grossratsgesetzgebung zum Vernehmlassungsverfahren bleiben vorbehalten.
+
+## 2 Vernehmlassungsverfahren
+
+### 2.1 Grundsätzliches
 
 #### Art. 2
 
-**Politische Mitwirkung**
+**Zweck**
 
-<sup>1</sup> Die Bestimmungen über die politische Mitwirkung des Berner Juras und der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne finden in jedem Fall Anwendung.
+<sup>1</sup> Das Vernehmlassungsverfahren bezweckt die Anhörung der kantonalen Behörden, der Gemeinden, der Landeskirchen, der politischen Parteien, der Arbeitgeber- und Arbeitnehmerorganisationen sowie weiterer interessierter Kreise zu politisch bedeutenden Vorlagen.
+
+<sup>2</sup> Es soll Aufschluss geben über die sachliche Richtigkeit, die Vollzugstauglichkeit und die Akzeptanz eines Vorhabens des Kantons.
 
 #### Art. 3
-
-**Begleitende Rechtsetzung**
-
-<sup>1</sup> Alle Erlassentwürfe, die den Direktionen und der Staatskanzlei zur Stellungnahme unterbreitet werden, werden gleichzeitig dem Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit der Staatskanzlei zugestellt.
-
-<sup>2</sup> Direktionsverordnungen werden dem Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit der Staatskanzlei in den beiden Amtssprachen auch dann vorgelegt, wenn keine Konsultation der Direktionen und der Staatskanzlei stattfindet.
-
-<sup>3</sup> Die Erlassentwürfe werden dem Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit in den beiden Amtssprachen zugestellt. Ist dies nicht möglich, wird die übersetzte Fassung so rasch als möglich zur Überprüfung der Übersetzung nachgereicht.
-
-<sup>4</sup> Besondere Fragen der Inkraftsetzung und der amtlichen Veröffentlichung werden spätestens während des Mitberichtsverfahrens mit dem Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit der Staatskanzlei abgesprochen.
-
-#### Art. 3a
-
-**Koordination mit der Aufsichtsstelle für Datenschutz**
-
-<sup>1</sup> Erlassentwürfe und andere Massnahmen nach Artikel 34 Absatz 1 Buchstabe k des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^3a-1], welche die Bearbeitung von Personendaten und den Datenschutz betreffen, werden der Aufsichtsstelle für Datenschutz vorgelegt.
-
-[^3a-1]: BSG 152.04
-
-#### Art. 3b
-
-**Einbezug der Justizleitung**
-
-<sup>1</sup> Erlassentwürfe und andere Geschäfte, welche die Gerichtsbehörden oder die Staatsanwaltschaft betreffen, werden der Justizleitung zur Stellungnahme vorgelegt.
-
-## 2 Konsultation während des Vorverfahrens
-
-### 2.1 Vernehmlassungsverfahren
-
-### 2.1.1 Grundsätzliches
-
-#### Art. 4
-
-**Grundsatz**
-
-<sup>1</sup> Im Vernehmlassungsverfahren werden kantonale Behörden, Gemeinden, Landeskirchen, politische Parteien, Arbeitgeber- und Arbeitnehmerorganisationen und weitere interessierte Kreise zu politisch bedeutenden Vorlagen angehört.
-
-<sup>2</sup> Das Vernehmlassungsverfahren wird in der Regel elektronisch durchgeführt.
-
-#### Art. 5
 
 **Gegenstand**
 
@@ -100,12 +66,12 @@ beschliesst:
 - a zu Verfassungsänderungen,
 - b zu Gesetzen,
 - c zu Grundsatzbeschlüssen des Grossen Rates,
-- d zu Erlassen, welche erhebliche Auswirkungen auf die Gemeinden haben,
-- e wo es das kantonale Recht verlangt.
+- d zu Erlassen, die erhebliche Auswirkungen auf die Gemeinden haben,
+- e bei entsprechenden kantonalen Vorschriften.
 
 <sup>2</sup> Bei Vorlagen von untergeordneter Bedeutung kann auf die Durchführung eines Vernehmlassungsverfahrens verzichtet werden.
 
-<sup>3</sup> Wenn es die Tragweite oder besondere Umstände gebieten, kann zudem ein Vernehmlassungsverfahren durchgeführt werden bei
+<sup>3</sup> Wenn es die Tragweite oder besondere Umstände gebieten, kann zudem ein Vernehmlassungsverfahren durchgeführt werden namentlich bei
 
 - a Vorlagen, die der Bund dem Regierungsrat zur Stellungnahme unterbreitet,
 - b interkantonalen Verträgen,
@@ -113,287 +79,240 @@ beschliesst:
 - d Verordnungen,
 - e Beschlüssen des Grossen Rates.
 
-### 2.1.2 Vorgehen
+#### Art. 4
 
-#### Art. 6
+**Teilnahme**
+
+<sup>1</sup> Jede Behörde, Organisation und natürliche Person kann sich an einem Vernehmlassungsverfahren beteiligen und eine Stellungnahme einreichen.
+
+<sup>2</sup> Die Staatskanzlei führt eine Liste der Adressatinnen und Adressaten, die in jedem Vernehmlassungsverfahren anzuhören sind. In diese Liste werden aufgenommen
+
+- a die Justizverwaltungsleitung,
+- b das Verwaltungsgericht,
+- c die Interessenverbände bernischer Gemeinden,
+- d die Gemeinden mit über 10'000 Einwohnerinnen und Einwohnern,
+- e die Planungsregionen und die Regionalkonferenzen,
+- f der Bernjurassische Rat (BJR),
+- g der Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB),
+- h der Verein bernischer Regierungsstatthalterinnen und Regierungsstatthalter,
+- i die Landeskirchen,
+- k die Interessengemeinschaft der jüdischen Gemeinden des Kantons Bern,
+- l die im Grossen Rat vertretenen politischen Parteien sowie ihre kantonalen Jungparteien,
+- m die Dachverbände der bernischen Arbeitgeber- und Arbeitnehmerorganisationen sowie die Arbeitnehmerorganisationen des öffentlichen Sektors,
+- n die Dachverbände bernischer Frauen- und Männerorganisationen,
+- o die Fachkommission für Gleichstellungsfragen,
+- p die Finanzkontrolle,
+- q die kantonale Datenschutzaufsichtsstelle (DSA),
+- r der Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit der Staatskanzlei (RJZ).
+
+<sup>3</sup> Die Direktionen und die Staatskanzlei können
+
+- a die Liste gemäss Absatz 2 mit den in ihren Fachgebieten zusätzlich anzuhörenden Behörden und Organisationen ergänzen,
+- b ihrerseits eine Stellungnahme zuhanden der federführenden Direktion oder Staatskanzlei einreichen, die nicht öffentlich ist.
+
+<sup>5</sup> Eröffnet der Grosse Rat oder ein Ratsorgan eine Vernehmlassung, wird zusätzlich der Regierungsrat begrüsst.
+
+### 2.2 Vorgehen
+
+#### Art. 5
 
 **Einleitung**
 
-<sup>1</sup> Der Regierungsrat beschliesst auf Antrag der zuständigen Direktion oder der Staatskanzlei über die Einleitung eines Vernehmlassungsverfahrens.
+<sup>1</sup> Der Regierungsrat beschliesst über die Einleitung eines Vernehmlassungsverfahrens auf Antrag der zuständigen Direktion oder Staatskanzlei.
 
-<sup>2</sup> …
+<sup>2</sup> Die Staatskanzlei veröffentlicht die Vernehmlassungsunterlagen in beiden Amtssprachen unter Angabe der Frist für die Stellungnahme im Internet.
 
-<sup>3</sup> Dem Antrag an den Regierungsrat liegen der Entwurf der Vernehmlassungsunterlagen sowie der Entwurf der Medienmitteilung bei.
+<sup>3</sup> Die zuständige Direktion oder Staatskanzlei informiert die Adressatinnen und Adressaten über die Einleitung eines Vernehmlassungsverfahrens und stellt ihnen die entsprechenden Unterlagen unter Angabe der Frist für die Stellungnahme zur Verfügung.
 
-#### Art. 7
-
-**Durchführung**
-
-<sup>1</sup> Die Durchführung des Vernehmlassungsverfahrens ist Sache der zuständigen Direktion oder der Staatskanzlei.
-
-<sup>2</sup> Diese stellt den Adressaten die Unterlagen für die Vernehmlassung elektronisch zu, unter Mitteilung der Frist für die Stellungnahme.
-
-<sup>3</sup> Den Unterlagen wird eine Liste aller Adressaten und in der Regel ein Fragenkatalog beigelegt.
-
-<sup>4</sup> Die Einladung zur Vernehmlassung richtet sich an die leitenden Stellen der anzuhörenden Behörden und Organisationen.
-
-#### Art. 8
-
-**Sprachen**
-
-<sup>1</sup> Die Unterlagen für die Vernehmlassung werden in deutscher und französischer Sprache bereitgestellt und grundsätzlich an alle Adressaten in beiden Sprachen versandt.
-
-#### Art. 9
+#### Art. 6
 
 **Frist**
 
-<sup>1</sup> Die Vernehmlassungsfrist beträgt grundsätzlich drei Monate. Sie bemisst sich insbesondere nach Art und Umfang des Geschäftes. Ferien- und Feiertage sind zu berücksichtigen.
+<sup>1</sup> Die Vernehmlassungsfrist beträgt grundsätzlich drei Monate. Sie bemisst sich insbesondere nach Art und Umfang des Geschäfts.
 
 <sup>2</sup> Bei Dringlichkeit können kürzere Fristen angesetzt werden.
 
-#### Art. 10
+#### Art. 7
 
 **Form**
 
-<sup>1</sup> Die Stellungnahme erfolgt schriftlich. Sie kann in elektronischer Form oder in Papierform eingereicht werden.
+<sup>1</sup> Die Stellungnahme erfolgt schriftlich.
 
-<sup>2</sup> Aus wichtigen Gründen, namentlich bei dringlichen Vorlagen, kann der Regierungsrat anstelle des schriftlichen Verfahrens eine konferenzielle Anhörung anordnen. Über die Anhörung wird ein Protokoll geführt.
+<sup>2</sup> Folgende Behörden und Personen müssen ihre Stellungnahme in jener digitalen Form einreichen, welche die Einladung zur Vernehmlassung vorsieht:
 
-<sup>3</sup> Das Einreichen einer schriftlichen Stellungnahme bleibt auch im Falle einer konferenziellen Anhörung möglich.
+- a Behörden,
+- b juristische Personen,
+- c natürliche Personen, die sich im Rahmen ihrer beruflichen Tätigkeit vernehmen lassen.
 
-#### Art. 11
+<sup>3</sup> Aus wichtigen Gründen, namentlich bei dringlichen Vorlagen, kann der Regierungsrat anstelle des schriftlichen Verfahrens eine konferenzielle Anhörung anordnen, über die ein Protokoll geführt wird.
 
-**Auswertung**
+<sup>4</sup> Das Einreichen einer schriftlichen Stellungnahme bleibt auch im Falle einer konferenziellen Anhörung möglich.
 
-<sup>1</sup> Die zuständige Direktion oder die Staatskanzlei wertet die Stellungnahmen aus, erstellt einen Auswertungsbericht und bereinigt die Vorlage. Die Stellungnahmen der Direktionen und der Staatskanzlei werden separat ausgewertet.
+#### Art. 8
 
-<sup>2</sup> Der Vortrag enthält in geeigneter Form das Ergebnis des Vernehmlassungsverfahrens und zeigt die Hauptpunkte auf, die bestritten werden. Die Stellungnahmen der Direktionen und der Staatskanzlei werden nicht erwähnt.
+**Auswertung, Veröffentlichung im Internet und Vortrag**
 
-### 2.1.3 Information der Öffentlichkeit
-
-#### Art. 12
-
-**Veröffentlichung**
-
-<sup>1</sup> Die Staatskanzlei gibt die Einleitung eines Vernehmlassungsverfahrens durch Veröffentlichung im Amtsblatt sowie auf dem kantonalen Internetportal bekannt.
-
-<sup>2</sup> Die Veröffentlichung enthält
-
-- a den Titel der Vorlage,
-- b die Frist zur Stellungnahme,
-- c die für die Bearbeitung und für Rückfragen zuständige Dienststelle,
-- d die elektronische Fundstelle bzw. Internetadresse der Vernehmlassungsunterlagen,
-- e einen Hinweis auf die Möglichkeit der Teilnahme (Art. 16 und 17a).
-
-#### Art. 13
-
-**…**
-
-#### Art. 14
-
-**Medienorientierung**
-
-<sup>1</sup> Das Amt für Kommunikation orientiert über die Einleitung eines Vernehmlassungsverfahrens zu kantonalen Vorlagen und stellt den akkreditierten Medienschaffenden die Unterlagen elektronisch zur Verfügung.
-
-<sup>2</sup> Bei wichtigen Vorlagen findet in der Regel eine Medienkonferenz statt.
-
-#### Art. 15
-
-**Öffentlichkeitsprinzip**
-
-<sup>1</sup> Die Vernehmlassungsunterlagen, die Stellungnahmen, die Protokolle konferenzieller Anhörungen sowie der Auswertungsbericht sind öffentlich zugänglich.
-
-<sup>2</sup> Die Veröffentlichung der Vernehmlassungsunterlagen unmittelbar nach dem Beschluss des Regierungsrates über die Einleitung obliegt der Staatskanzlei.
-
-<sup>3</sup> Die Direktionen oder die Staatskanzlei entscheiden über eine allfällige Veröffentlichung der Stellungnahmen, der Protokolle konferenzieller Anhörungen sowie des Auswertungsberichts. Die Stellungnahmen der Direktionen und der Staatskanzlei sind vertraulich.
-
-<sup>4</sup> Bei wichtigen Vorlagen informiert das Amt für Kommunikation über das Ergebnis des Vernehmlassungsverfahrens.
-
-### 2.1.4 Adressaten
-
-#### Art. 16
-
-**Adressatenliste**
-
-<sup>1</sup> Die Staatskanzlei führt eine Liste der Adressaten, die in jedem Vernehmlassungsverfahren anzuhören sind. In diese Liste werden aufgenommen
-
-- a die Direktionen und die Staatskanzlei,
-- b der Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit der Staatskanzlei,
-- c die Fachkommission für Gleichstellungsfragen,
-- d die Justizleitung,
-- e das Verwaltungsgericht,
-- f …
-- g die Landeskirchen,
-- h die Interessengemeinschaft der jüdischen Gemeinden des Kantons Bern,
-- i die Interessenverbände bernischer Gemeinden,
-- k die Gemeinden mit über 10 000 Einwohnerinnen und Einwohnern,
-- l die Regionalkonferenzen,
-- m der Bernjurassische Rat,
-- n der Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne,
-- o der Verein bernischer Regierungsstatthalter,
-- p die im Grossen Rat vertretenen politischen Parteien,
-- q die Dachverbände der bernischen Arbeitgeber- und Arbeitnehmerorganisationen,
-- r die Dachverbände bernischer Frauenorganisationen.
-
-<sup>2</sup> Die Staatskanzlei veröffentlicht die Adressatenliste.
-
-<sup>3</sup> Die Direktionen und die Staatskanzlei können diese Liste mit den in ihren Fachgebieten zusätzlich anzuhörenden Behörden und Organisationen ergänzen.
-
-#### Art. 17
-
-**Aufnahmegesuche**
-
-<sup>1</sup> Gesuche um Aufnahme in die Adressatenliste für sämtliche Vernehmlassungsverfahren (Art. 16 Abs. 1) sind an die Staatskanzlei zu richten. Über diese Gesuche verfügt die Staatskanzlei. Die Abweisung des Gesuches kann nach den Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^17-1] angefochten werden.
-
-<sup>2</sup> Gesuche um Aufnahme in die ergänzenden Listen der Direktionen und der Staatskanzlei (Art. 16 Abs. 3) sind an die fachlich zuständige Direktion bzw. an die Staatskanzlei zu richten. Es besteht kein Anspruch auf Aufnahme in diese Listen.
-
-[^17-1]: BSG 155.21
-
-#### Art. 17a
-
-**Übrige Teilnehmer**
-
-<sup>1</sup> Organisationen und Einzelpersonen, die nicht zum Adressatenkreis gemäss Artikel 16 gehören, können ebenfalls eine schriftliche Stellungnahme einreichen.
-
-#### Art. 17b
-
-**Behandlung der Stellungnahmen**
-
-<sup>1</sup> Die Stellungnahmen werden zur Kenntnis genommen, gewichtet und ausgewertet.
+<sup>1</sup> Die zuständige Direktion oder Staatskanzlei wertet die Stellungnahmen und die Protokolle konferenzieller Anhörungen aus und bereinigt die Vorlage, wobei allfällige Stellungnahmen der Direktionen und der Staatskanzlei separat ausgewertet werden.
 
 <sup>2</sup> Die Einreichung einer Stellungnahme begründet keinen Anspruch auf Antwort oder zusätzliche Anhörung.
 
-### 2.1.5 Kosten
+<sup>3</sup> Nach Abschluss des Vernehmlassungsverfahrens werden die Stellungnahmen und die Protokolle konferenzieller Anhörungen im Internet veröffentlicht. Davon ausgenommen sind allfällige Stellungnahmen der Direktionen und der Staatskanzlei.
 
-#### Art. 18
+<sup>4</sup> Für die Vorberatung von Vorlagen in ihrem Zuständigkeitsbereich werden den parlamentarischen Kommissionen allfällige, von der Verwaltung erstellte Auswertungstabellen zur Verfügung gestellt. Davon ausgenommen sind allfällige Stellungnahmen der Direktionen und der Staatskanzlei.
 
-**Unentgeltliche Abgabe**
+<sup>5</sup> Der Vortrag enthält das Ergebnis des Vernehmlassungsverfahrens in geeigneter Form und zeigt die Hauptpunkte auf, die bestritten werden, wobei allfällige Stellungnahmen der Direktionen und der Staatskanzlei nicht erwähnt werden.
 
-<sup>1</sup> Die Vernehmlassungsunterlagen sind im Internet unentgeltlich zugänglich.
+## 3 Konsultationsverfahren
 
-#### Art. 19
+#### Art. 9
 
-**Abgabe gegen Entgelt**
+<sup>1</sup> Der Regierungsrat, die Direktionen und die Staatskanzlei sowie, nach Massgabe der Geschäftsordnung, deren Ämter können interessierte Kreise konsultieren.
 
-<sup>1</sup> Gegen Entrichtung einer Gebühr (Art. 25 der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung, GebV[^19-1]) können die Vernehmlassungsunterlagen bei der zuständigen Dienststelle in Papierform bezogen werden.
+<sup>2</sup> Der Vortrag enthält das Ergebnis des Konsultationsverfahrens in geeigneter Form und zeigt die Hauptpunkte auf, die bestritten werden.
 
-[^19-1]: BSG 154.21
+## 4 Mitberichtsverfahren
 
-#### Art. 20
+### 4.1 Grundsätzliches
 
-**Einsichtnahme**
+#### Art. 10
 
-<sup>1</sup> Die Einsichtnahme in amtliche Akten ist nach Abschluss des Vernehmlassungsverfahrens unentgeltlich.
-
-### 2.2 Andere Formen von Konsultationen
-
-#### Art. 21
-
-<sup>1</sup> Im Vorverfahren können die Direktionen und die Staatskanzlei sowie, nach Massgabe der Geschäftsordnung, deren Ämter interessierte Kreise auch ausserhalb eines Vernehmlassungsverfahrens konsultieren.
-
-<sup>2</sup> Die Konsultation ersetzt in den Fällen von Artikel 5 Absatz 1 das Vernehmlassungsverfahren nicht.
-
-<sup>3</sup> Der Vortrag an den Regierungsrat enthält in geeigneter Form das Ergebnis der Konsultation und zeigt die Hauptpunkte auf, die bestritten werden.
-
-## 3 Mitberichtsverfahren
-
-#### Art. 22
-
-**Grundsatz**
+**Zweck**
 
 <sup>1</sup> Das Mitberichtsverfahren dient der Meinungsbildung und der Differenzbereinigung auf Stufe Regierungsrat.
 
-<sup>2</sup> Ein Mitberichtsverfahren wird durchgeführt
+<sup>2</sup> Es ist nicht öffentlich.
 
-- a zu Erlassen, Grundsatzbeschlüssen des Grossen Rates, Initiativen und Berichten des Regierungsrates an den Grossen Rat, bei den Direktionen und der Staatskanzlei,
-- b zu Antworten zu parlamentarischen Vorstössen, gemäss Zuweisung durch den Regierungsrat,
-- c in den übrigen Fällen von Artikel 36 OrG[^22-1] und wenn es die besondere Gesetzgebung verlangt, bei den jeweils betroffenen Direktionen oder bei der Staatskanzlei,
-- d bei Anordnung durch den Regierungsrat gemäss dessen Beschluss,
-- e in besonderen Fällen vor dem Beschluss über die Einleitung eines Vernehmlassungsverfahrens (Art. 6), bei den Direktionen und der Staatskanzlei.
+#### Art. 11
 
-<sup>3</sup> Die Durchführung des Mitberichtsverfahrens erfolgt unmittelbar vor der Antragstellung der Direktion oder der Staatskanzlei an den Regierungsrat, unabhängig von einer Konsultation im Vorverfahren.
+**Gegenstand**
 
-[^22-1]: BSG 152.01
+<sup>1</sup> Ein Mitberichtsverfahren wird durchgeführt:
 
-#### Art. 23
+- a bei allen Direktionen und der Staatskanzlei
+  - 1\. zu Erlassen, Grundsatzbeschlüssen des Grossen Rates sowie Initiativen und Berichten des Regierungsrates an den Grossen Rat,
+  - 2\. vor dem Beschluss über die Einleitung eines Vernehmlassungsverfahrens (Art. 5),
+- b bei den interessierten bzw. betroffenen Direktionen und der Staatskanzlei, sofern
+  - 1\. parlamentarische Vorstösse gemäss Zuweisung durch den Regierungsrat oder nach Absprache beantwortet werden,
+  - 2\. mehrere Direktionen oder Stabsstellen an einem Geschäft beteiligt oder interessiert sind (Art. 36 Abs. 1 OrG),
+  - 3\. die besondere Gesetzgebung es verlangt,
+  - 4\. der Regierungsrat dies durch Beschluss anordnet.
+
+<sup>2</sup> Auf die Durchführung eines Mitberichtsverfahrens kann verzichtet werden,
+
+- a zu Erlassen
+  - 1\. bei redaktionellen Berichtigungen gemäss den Artikeln 25 ff. des Publikationsgesetzes vom 18. Januar 1993 (PuG)[^11-1],
+  - 2\. beim gesetzestechnischen Nachvollzug von Bestandes- und Gebietsveränderungen gemäss Artikel 4a des Gemeindegesetzes vom 16. März 1998 (GG)[^11-2],
+- b zu Regierungsratsgeschäften in Krisensituationen, wobei die hauptsächlich betroffenen Direktionen oder die hauptsächlich betroffene Staatskanzlei angemessen zu konsultieren sind.
+
+[^11-1]: BSG [103.1](https://www.belex.sites.be.ch/data/103.1/de)
+[^11-2]: BSG [170.11](https://www.belex.sites.be.ch/data/170.11/de)
+
+#### Art. 12
+
+**Zeitpunkt**
+
+<sup>1</sup> Die Durchführung des Mitberichtsverfahrens erfolgt in der Regel unmittelbar vor der Antragstellung der Direktion oder der Staatskanzlei an den Regierungsrat.
+
+#### Art. 13
 
 **Form**
 
-<sup>1</sup> Das Mitberichtsverfahren wird in Papierform oder in elektronischer Form schriftlich durchgeführt.
+<sup>1</sup> Das Mitberichtsverfahren wird digital durchgeführt.
 
-<sup>2</sup> Wird in einem Mitberichtsverfahren gemäss Finanzhaushaltgesetzgebung nur die Finanzdirektion zur Stellungnahme eingeladen, erfolgt der Versand in Papierform.
+<sup>2</sup> Bei als «Geheim» klassifizierten Regierungsratsgeschäften kann das Mitberichtsverfahren in Papierform durchgeführt werden.
 
-#### Art. 24
+#### Art. 14
 
 **Frist**
 
-<sup>1</sup> Die Frist zur Stellungnahme beträgt mindestens drei Wochen. Sie ist während der sitzungsfreien Zeit des Regierungsrates angemessen zu verlängern.
+<sup>1</sup> Die Frist zur Stellungnahme beträgt mindestens drei Wochen.
 
-<sup>2</sup> Kürzere Fristen sind möglich
+<sup>2</sup> Sie ist während der sitzungsfreien Zeit des Regierungsrates angemessen zu verlängern.
 
-- a bei Dringlichkeit,
-- b wenn im Vorverfahren die Direktionen und die Staatskanzlei bereits begrüsst worden sind.
+<sup>3</sup> Kürzere Fristen sind möglich, wenn
 
-#### Art. 25
+- a Dringlichkeit besteht,
+- b die Direktionen und die Staatskanzlei bereits begrüsst worden sind.
+
+#### Art. 15
 
 **Ergebnis**
 
-<sup>1</sup> Der Regierungsrat ist in einem Begleitschreiben zur Traktandierung der Vorlage über das Ergebnis des Mitberichtsverfahrens zu unterrichten. Es sind ihm die Änderungen der Vorlage aufgrund des Mitberichtsverfahrens sowie abweichende Meinungen aufzuzeigen.
+<sup>1</sup> Das Ergebnis des Mitberichtsverfahrens ist dem Regierungsrat gemäss Artikel 8 der Verordnung vom 18. Oktober 1995 über die Organisation des Regierungsrates (Organisationsverordnung RR; OrV RR)[^15-1] zur Kenntnis zu bringen.
 
-#### Art. 25a
+[^15-1]: BSG [152.11](https://www.belex.sites.be.ch/data/152.11/de)
 
-**Vertraulichkeit**
+### 4.2 Einbezug weiterer Behörden
 
-<sup>1</sup> Stellungnahmen der einzelnen Mitglieder des Regierungsrates, der Direktionen, der Staatskanzlei und der Justizleitung im Mitberichtsverfahren sowie Informationen über das Ergebnis des Mitberichtsverfahrens sind nicht öffentlich.
+#### Art. 16
 
-## 4 Vorlagen des Bundes
+**Bernjurassischer Rat (BJR) und Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB)**
 
-#### Art. 26
+<sup>1</sup> Der BJR und der RFB sind gemäss den Bestimmungen zur politischen Mitwirkung der Gesetzgebung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne einzubeziehen.
 
-<sup>1</sup> Unter Vorbehalt der Mitwirkungsrechte der Bevölkerung und des Grossen Rates ist der Regierungsrat zuständig für die Stellungnahme zu Vorlagen des Bundes. Er kann diese Stellungnahmen mit anderen Kantonen koordinieren.
+#### Art. 17
 
-<sup>2</sup> Die Staatskanzlei stellt die Stellungnahmen zu Vorlagen des Bundes den bernischen Mitgliedern der Bundesversammlung, den akkreditierten Medienschaffenden und auf Verlangen weiteren interessierten Dritten zu.
+**Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit der Staatskanzlei (RJZ)**
 
-<sup>3</sup> …
+<sup>1</sup> Alle Erlassentwürfe, die den Direktionen und der Staatskanzlei zur Stellungnahme unterbreitet werden, werden gleichzeitig dem RJZ zugestellt.
 
-## 4a Archivierung
+<sup>2</sup> Bei Erlassentwürfen von Direktionsverordnungen ist der RJZ unabhängig davon zu konsultieren, ob eine Konsultation der Direktionen und der Staatskanzlei stattfindet.
 
-#### Art. 26a
+<sup>3</sup> Die Erlassentwürfe werden dem RJZ in den beiden Amtssprachen zugestellt. Ist dies nicht möglich, wird die übersetzte Fassung so rasch als möglich zur Überprüfung der Übersetzung nachgereicht.
 
-<sup>1</sup> Die im Zusammenhang mit einem Vernehmlassungs- oder Mitberichtsverfahren anfallenden Unterlagen sind nach den Bestimmungen der Verordnung vom 24. Juni 1992 über das Staatsarchiv des Kantons Bern[^26a-1] in Papierform zu archivieren.
+<sup>4</sup> Besondere Fragen der Inkraftsetzung und der amtlichen Veröffentlichung werden spätestens während des Mitberichtsverfahrens mit dem RJZ abgesprochen.
 
-[^26a-1]: Aufgehoben durch V vom 4. 11. 2009 über die Archivierung, BSG 108.111
+#### Art. 18
 
-## 5 Schlussbestimmungen
+**Kantonale Datenschutzaufsichtsstelle (DSA)**
 
-#### Art. 27
+<sup>1</sup> Erlassentwürfe und andere Massnahmen gemäss Artikel 34 Absatz 1 Buchstabe k des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^18-1], welche die Bearbeitung von Personendaten und den Datenschutz betreffen, werden der DSA zur Stellungnahme vorgelegt.
 
-**Änderung eines Erlasses**
+[^18-1]: BSG 152.04
 
-<sup>1</sup> Die Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung[^27-1] (Gebührenverordnung, GebV) wird wie folgt geändert:
+#### Art. 19
 
-[^27-1]: BSG 154.21
+**Finanzkontrolle, Büro des Grossen Rates, Parlamentsdienste und Justizverwaltungsleitung**
 
-#### Art. 28
+<sup>1</sup> Erlassentwürfe und andere Geschäfte werden wie folgt zur Stellungnahme vorgelegt:
+
+- a der Finanzkontrolle, wenn sie betroffen ist,
+- b dem Büro des Grossen Rates, wenn der Grosse Rat oder seine Organe betroffen sind,
+- c den Parlamentsdiensten, wenn die Parlamentsdienste betroffen sind,
+- d der Justizverwaltungsleitung, wenn die Gerichtsbehörden oder die Staatsanwaltschaft betroffen sind.
+
+## 5 Vorlagen des Bundes
+
+#### Art. 20
+
+<sup>1</sup> Der Regierungsrat ist unter Vorbehalt der Mitwirkungsrechte der Bevölkerung und des Grossen Rates zuständig für die Stellungnahmen zu Vorlagen des Bundes.
+
+<sup>2</sup> Er kann diese Stellungnahmen mit anderen Kantonen koordinieren.
+
+<sup>3</sup> Die Stellungnahmen zu Vorlagen des Bundes werden im Internet veröffentlicht.
+
+## 6 Schlussbestimmungen
+
+#### Art. 21
 
 **Aufhebung eines Erlasses**
 
-<sup>1</sup> Die Verordnung vom 24. Februar 1993 über das Vernehmlassungsverfahren (VvV) wird aufgehoben.
+<sup>1</sup> Die Verordnung vom 26. Juni 1996 über das Vernehmlassungs- und das Mitberichtsverfahren (VMV)[^21-1] wird aufgehoben.
 
-#### Art. 29
+[^21-1]: BSG 152.025
+
+#### Art. 22
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. August 1996 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Februar 2023 in Kraft.
 
-## A1
+Bern, 21. Dezember 2022
 
-Bern, 26. Juni 1996
+Im Namen des Regierungsrates
 
-Im Namen des Regierungsrates,
+Die Präsidentin: Häsler
 
-Der Präsident: Lauri
+Der Staatsschreiber: Auer
 
-Der Staatsschreiber: Nuspliger
-
-96-49
+23-002

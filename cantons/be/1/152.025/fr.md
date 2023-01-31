@@ -4,13 +4,13 @@ number: "152.025"
 title: Ordonnance sur les procédures de consultation et de corapport
 short: OPC
 language: fr
-version: 2022-03-01
-valid_until: 2023-01-31
-version_adopted: 2022-02-02
+version: 2023-02-01
+valid_until: 2025-05-31
+version_adopted: 2022-12-21
 adopted: 2022-12-21
 in_force: 2023-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.025"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2537/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2777/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,91 +19,59 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2537/pdf_file"
 
 (OPC)
 
-du 26.06.1996 (état au 01.03.2022)
+du 21.12.2022 (état au 01.02.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 41 et 50, lettres c et d de la loi du 20 juin 1995 sur l'organisation du Conseil-exécutif et de l'administration (loi d'organisation, LOCA)[^ingress-1], sur proposition de la Chancellerie d'Etat,
+vu l'article 79, alinéa 1, lettre c et l'article 90, alinéa 1, lettre e de la Constitution cantonale (ConstC)[^ingress-1] ainsi que les articles 41 et 50, alinéa 1, lettres c et d de la loi du 20 juin 1995 sur l'organisation du Conseil-exécutif et de l'administration (loi d'organisation, LOCA)[^ingress-2],
+
+sur proposition de la Chancellerie d'État,
 
 arrête:
 
-[^ingress-1]: RSB 152.01
+[^ingress-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
+[^ingress-2]: RSB [152.01](https://www.belex.sites.be.ch/data/152.01/fr)
 
-## 1 Dispositions générales
+## 1 Champ d'application
 
 #### Art. 1
 
-**Champ d'application**
-
 <sup>1</sup> La présente ordonnance règle
 
-- a la procédure préliminaire (procédure de consultation, autres formes de consultation externe),
-- b la procédure de corapport,
-- c les consultations sur les projets de la Confédération.
+- a la procédure de consultation,
+- b la consultation,
+- c la procédure de corapport,
+- d les procédures de consultation sur les projets de la Confédération.
 
-<sup>2</sup> Les dispositions de la législation sur le Grand Conseil concernant la procédure de consultation relative aux initiatives parlementaires sont réservées.
+<sup>2</sup> Les dispositions de la législation sur le Grand Conseil concernant la procédure de consultation sont réservées.
+
+## 2 Procédure de consultation
+
+### 2.1 Généralités
 
 #### Art. 2
 
-**Participation politique**
+**But**
 
-<sup>1</sup> Les dispositions concernant la participation politique du Jura bernois et de la population francophone de l'arrondissement administratif de Biel/Bienne sont applicables dans tous les cas.
+<sup>1</sup> La procédure de consultation sert à requérir l'avis des autorités cantonales, des communes, des Églises nationales, des partis politiques, des organisations patronales et syndicales ainsi que des autres milieux intéressés au sujet des projets qui revêtent une importance politique.
+
+<sup>2</sup> Elle permet de déterminer si un projet du canton est matériellement correct, exécutable et susceptible d’être bien accepté.
 
 #### Art. 3
-
-**Suivi législatif**
-
-<sup>1</sup> Tous les projets d’actes législatifs qui sont envoyés aux Directions et à la Chancellerie d’Etat pour avis sont en même temps soumis au Service de législation, des affaires jurassiennes et du bilinguisme de la Chancellerie d’Etat.
-
-<sup>2</sup> Les projets d’ordonnances de Direction sont soumis pour avis au Service de législation, des affaires jurassiennes et du bilinguisme dans les deux langues officielles même si les Directions et la Chancellerie d’Etat ne sont pas consultées.
-
-<sup>3</sup> Les projets législatifs sont adressés au Service de législation, des affaires jurassiennes et du bilinguisme dans les deux langues officielles. Si cela n’est pas possible, la traduction lui est remise au plus vite pour contrôle.
-
-<sup>4</sup> Les questions particulières concernant l’entrée en vigueur et la publication officielle doivent être réglées avec le Service de législation, des affaires jurassiennes et du bilinguisme de la Chancellerie d’Etat au plus tard pendant la procédure de corapport.
-
-#### Art. 3a
-
-**Coordination avec l’autorité de surveillance de la protection des données**
-
-<sup>1</sup> Les projets d’actes législatifs et d’autres mesures au sens de l’article 34, alinéa 1, lettre k de la loi du 19 février 1986 sur la protection des données (LCPD)[^3a-1], qui concernent le traitement de données personnelles et la protection des données sont soumis à l’autorité de surveillance de la protection des données.
-
-[^3a-1]: RSB 152.04
-
-#### Art. 3b
-
-**Participation de la Direction de la magistrature**
-
-<sup>1</sup> Les projets d'actes législatifs et d'autres affaires concernant les autorités judiciaires ou le Ministère public sont soumis à la Direction de la magistrature.
-
-## 2 Procédure de consultation en procédure préliminaire
-
-### 2.1 Procédure de consultation
-
-### 2.1.1 Généralités
-
-#### Art. 4
-
-**Principe**
-
-<sup>1</sup> La procédure de consultation requiert l’avis des autorités cantonales, des communes, des Eglises nationales, des partis politiques, des organisations patronales et syndicales et des autres milieux intéressés au sujet des projets qui revêtent une importance politique.
-
-<sup>2</sup> La procédure de consultation est généralement menée par voie électronique.
-
-#### Art. 5
 
 **Objet**
 
 <sup>1</sup> La procédure de consultation est organisée
 
-- a sur les projets de modifications constitutionnelles,
-- b sur les projets de loi,
-- c sur les projets d'arrêtés de principe du Grand Conseil,
-- d sur les projets d'actes législatifs qui ont des incidences considérables pour les communes,
-- e dans les cas où le droit cantonal le prescrit.
+- a sur les projets de modifications constitutionnelles;
+- b sur les projets de loi;
+- c sur les projets d'arrêtés de principe du Grand Conseil;
+- d sur les projets d'actes législatifs qui ont des incidences considérables pour les communes;
+- e lorsque des prescriptions cantonales l'exigent.
 
-<sup>2</sup> Il est possible de renoncer à la consultation pour les projets revêtant peu d'importance.
+<sup>2</sup> Il est possible de renoncer à la procédure de consultation pour les projets revêtant peu d'importance.
 
-<sup>3</sup> Les projets suivants peuvent également faire l'objet d'une procédure de consultation si leur portée ou des circonstances particulières le justifient:
+<sup>3</sup> Les projets suivants peuvent également faire l'objet d'une procédure de consultation si leur portée ou des circonstances particulières le justifient, notamment:
 
 - a projets soumis pour avis au Conseil-exécutif par la Confédération,
 - b traités intercantonaux,
@@ -111,287 +79,240 @@ arrête:
 - d ordonnances,
 - e arrêtés du Grand Conseil.
 
-### 2.1.2 Déroulement
+#### Art. 4
 
-#### Art. 6
+**Participation**
+
+<sup>1</sup> Toute autorité, organisation ou personne physique peut participer à la procédure de consultation et soumettre un avis.
+
+<sup>2</sup> La Chancellerie d'État tient une liste des destinataires de tous les projets soumis à la procédure de consultation. Cette liste comprend
+
+- a la Direction administrative de la magistrature,
+- b le Tribunal administratif,
+- c les associations des communes bernoises,
+- d les communes de plus de 10'000 habitantes et habitants,
+- e les régions d'aménagement et les conférences régionales,
+- f le Conseil du Jura bernois (CJB),
+- g le Conseil des affaires francophones de l'arrondissement de Biel/Bienne (CAF),
+- h l'Association des préfètes et préfets bernois,
+- i les Églises nationales,
+- k la Communauté d'intérêt des communautés israélites du canton de Berne,
+- l les partis politiques représentés au Grand Conseil ainsi que leur jeunesse de parti au niveau cantonal,
+- m les associations faîtières patronales et syndicales du canton de Berne ainsi que les associations syndicales du secteur public,
+- n les associations faîtières des organisations féminines et masculines bernoises,
+- o la Commission de l'égalité,
+- p le Contrôle des finances,
+- q le Bureau cantonal pour la surveillance de la protection des données (BPD),
+- r le Service de législation, des affaires jurassiennes et du bilinguisme de la Chancellerie d’État (LJB).
+
+<sup>3</sup> Les Directions et la Chancellerie d'État peuvent
+
+- a compléter la liste figurant à l'alinéa 2 avec les noms des autres autorités et organisations à consulter dans leurs domaines;
+- b soumettre leur propre avis à la Direction en charge du projet ou à la Chancellerie d'État; un tel avis n'est pas public.
+
+<sup>5</sup> Lorsque le Grand Conseil ou l'un de ses organes ouvre une procédure de consultation, le Conseil-exécutif figure également parmi les destinataires.
+
+### 2.2 Déroulement
+
+#### Art. 5
 
 **Ouverture**
 
-<sup>1</sup> Le Conseil-exécutif décide de l'ouverture de la procédure de consultation sur proposition de la Direction compétente ou de la Chancellerie d'Etat.
+<sup>1</sup> Le Conseil-exécutif décide de l'ouverture de la procédure de consultation sur proposition de la Direction compétente ou de la Chancellerie d'État.
 
-<sup>2</sup> …
+<sup>2</sup> La Chancellerie d'État publie sur Internet, dans les deux langues officielles, les documents soumis à la consultation, avec indication du délai de réponse.
 
-<sup>3</sup> Le projet des documents à soumettre à la consultation et le projet de communiqué de presse sont joints à la proposition adressée au Conseil-exécutif.
+<sup>3</sup> La Direction compétente ou la Chancellerie d'État informe les destinataires de l'ouverture de la procédure de consultation et leur fournit la documentation correspondante, avec indication du délai de réponse.
 
-#### Art. 7
-
-**Déroulement**
-
-<sup>1</sup> Le déroulement de la procédure de consultation est du ressort de la Direction compétente ou de la Chancellerie d'Etat.
-
-<sup>2</sup> La Direction compétente ou la Chancellerie d’Etat envoie les documents soumis à la consultation par voie électronique et communique le délai de réponse aux destinataires.
-
-<sup>3</sup> La liste de tous les destinataires et, en règle générale, une liste de questions sont jointes aux documents envoyés en consultation.
-
-<sup>4</sup> L'invitation à la consultation est adressée à l'organe directeur de l'autorité ou de l'organisation consultée.
-
-#### Art. 8
-
-**Langue**
-
-<sup>1</sup> Les documents soumis à la consultation sont rédigés en allemand et en français et en principe adressés à tous les destinataires dans les deux langues.
-
-#### Art. 9
+#### Art. 6
 
 **Délai**
 
-<sup>1</sup> Le délai de consultation est en principe de trois mois. Il est notamment fonction de la nature et de l'ampleur du projet. Les vacances et les jours fériés sont pris en considération.
+<sup>1</sup> Le délai de consultation est en principe de trois mois. Il est notamment fonction de la nature et de l'ampleur du projet.
 
 <sup>2</sup> Des délais plus courts peuvent être fixés en cas d'urgence.
 
-#### Art. 10
+#### Art. 7
 
 **Forme**
 
-<sup>1</sup> L’avis est formulé par écrit. Il peut être déposé par voie électronique ou sur support papier.
+<sup>1</sup> L’avis est formulé par écrit.
 
-<sup>2</sup> Pour de justes motifs, en particulier lorsque le projet est urgent, le Conseil-exécutif peut décider que la consultation aura lieu par voie de conférence et non par écrit. La consultation fait l'objet d'un procès-verbal.
+<sup>2</sup> Les autorités et les personnes suivantes sont tenues de soumettre leur avis sous la forme numérique prévue par l'invitation à la procédure de consultation:
 
-<sup>3</sup> Le dépôt d'un avis écrit reste possible dans les cas de consultation par voie de conférence.
+- a autorités,
+- b personnes morales,
+- c personnes physiques participant à la procédure de consultation dans le cadre de leur activité professionnelle.
 
-#### Art. 11
+<sup>3</sup> Pour de justes motifs, notamment lorsque le projet est urgent, le Conseil-exécutif peut décider que la consultation aura lieu par voie de conférence et non par écrit; celle-ci fait l'objet d'un procès-verbal.
 
-**Evaluation**
+<sup>4</sup> Le dépôt d'un avis écrit reste possible dans les cas de consultation par voie de conférence.
 
-<sup>1</sup> La Direction compétente ou la Chancellerie d’Etat dépouille les avis et met le projet au net. Les avis des Directions et de la Chancellerie d’Etat sont dépouillés séparément.
+#### Art. 8
 
-<sup>2</sup> Le rapport présente sous une forme appropriée le résultat de la procédure de consultation et indique les points principaux sur lesquels le projet est contesté. Les avis des Directions et de la Chancellerie d’Etat ne sont pas mentionnés.
+**Évaluation, publication sur Internet et rapport**
 
-### 2.1.3 Information du public
+<sup>1</sup> La Direction compétente ou la Chancellerie d’État évalue les avis et les procès-verbaux des consultations par voie de conférence et met le projet au net, en procédant toutefois à une évaluation séparée des éventuels avis des Directions et de la Chancellerie d’État.
 
-#### Art. 12
+<sup>2</sup> Le dépôt d’un avis ne confère pas le droit de recevoir une réponse ni d’être consulté une nouvelle fois.
 
-**Publication**
+<sup>3</sup> À l'issue de la procédure de consultation, les avis et les procès-verbaux des consultations par voie de conférence sont publiés sur Internet. Sont exceptés les éventuels avis des Directions et de la Chancellerie d'État.
 
-<sup>1</sup> La Chancellerie d’Etat annonce l’ouverture de la procédure de consultation en publiant un avis dans la Feuille officielle et sur le site Internet du canton.
+<sup>4</sup> Les tableaux d'évaluation compilés par l'administration sont mis à la disposition des commissions parlementaires pour l'examen préalable des projets qui relèvent de leur domaine de compétence. Sont exceptés les éventuels avis des Directions et de la Chancellerie d'État.
 
-<sup>2</sup> L'avis indique
+<sup>5</sup> Le rapport présente sous une forme appropriée le résultat de la procédure de consultation et indique les points principaux sur lesquels le projet est contesté, sans toutefois mentionner les éventuels avis des Directions et de la Chancellerie d'État.
 
-- a le titre du projet soumis à la consultation,
-- b le délai de réponse,
-- c le service chargé de mener la procédure de consultation et de répondre aux éventuelles questions complémentaires,
-- d l’adresse Internet des documents soumis à la consultation,
-- e le droit pour chacun et chacune de participer à la consultation (art. 16 et 17a).
+## 3 Consultation
 
-#### Art. 13
+#### Art. 9
 
-**…**
+<sup>1</sup> Le Conseil-exécutif, les Directions, la Chancellerie d'État et, selon le règlement interne de ces dernières, leurs offices peuvent consulter les milieux intéressés.
 
-#### Art. 14
+<sup>2</sup> Le rapport présente sous une forme appropriée le résultat de la consultation et indique les points principaux sur lesquels le projet est contesté.
 
-**Information des médias**
+## 4 Procédure de corapport
 
-<sup>1</sup> L’Office de la communication annonce l’ouverture de la procédure de consultation portant sur un projet du canton et remet par voie électronique les documents soumis à la consultation aux professionnels des médias accrédités.
+### 4.1 Généralités
 
-<sup>2</sup> En règle générale, une conférence de presse est organisée pour présenter les projets de grande envergure.
+#### Art. 10
 
-#### Art. 15
-
-**Principe de la publicité**
-
-<sup>1</sup> Les documents soumis à la consultation, les avis émis, les procès-verbaux des consultations menées par voie de conférence et les rapports d’évaluation sont accessibles au public.
-
-<sup>2</sup> Il incombe à la Chancellerie d’Etat de publier les documents soumis à la consultation dès l’adoption de l’arrêté du Conseil-exécutif sur l’ouverture de la procédure de consultation.
-
-<sup>3</sup> Les Directions ou la Chancellerie d’Etat décident de la publication éventuelle des avis émis, des procès-verbaux des consultations menées par voie de conférence et des rapports d’évaluation. Les avis des Directions et de la Chancellerie d’Etat sont confidentiels.
-
-<sup>4</sup> Lorsqu'il s'agit d'un projet de grande envergure, l'Office de la communication diffuse une information sur les résultats de la consultation.
-
-### 2.1.4 Destinataires
-
-#### Art. 16
-
-**Liste des destinataires**
-
-<sup>1</sup> La Chancellerie d'Etat tient une liste des destinataires de tous les projets soumis à la consultation. Cette liste comprend
-
-- a les Directions de l'administration cantonale et la Chancellerie d'Etat,
-- b le Service de législation, des affaires jurassiennes et du bilinguisme de la Chancellerie d’Etat,
-- c la Commission de l'égalité,
-- d la Direction de la magistrature,
-- e le Tribunal administratif,
-- f …
-- g les Eglises nationales,
-- h la Communauté d'intérêt des communautés israélites du canton de Berne,
-- i les associations des communes bernoises,
-- k les communes de plus de 10 000 habitants,
-- l les conférences régionales,
-- m le Conseil du Jura bernois,
-- n le Conseil des affaires francophones de l'arrondissement de Biel/Bienne,
-- o l'Association des préfets bernois,
-- p les partis politiques représentés au Grand Conseil,
-- q les associations faîtières patronales et syndicales du canton de Berne et
-- r les associations faîtières des organisations féminines bernoises.
-
-<sup>2</sup> La Chancellerie d’Etat publie la liste des destinataires.
-
-<sup>3</sup> Chaque Direction et la Chancellerie d'Etat peuvent compléter cette liste avec les noms des autres autorités et organisations à consulter dans leurs domaines.
-
-#### Art. 17
-
-**Demandes d'inscription**
-
-<sup>1</sup> Les demandes d'inscription sur la liste des destinataires de tous les projets soumis à la consultation (art. 16, 1er al.) sont adressées à la Chancellerie d'Etat qui statue. Une décision de rejet peut être contestée selon les dispositions de la loi sur la procédure et la juridiction administratives[^17-1].
-
-<sup>2</sup> Les demandes d'inscription sur les listes complémentaires des Directions ou de la Chancellerie d'Etat (art. 16, 3e al.) sont adressées à la Direction compétente ou à la Chancellerie d'Etat. Il n'existe pas de droit à l'inscription sur ces listes.
-
-[^17-1]: RSB 155.21
-
-#### Art. 17a
-
-**Autres participants et participantes**
-
-<sup>1</sup> Les organisations et les particuliers qui ne figurent pas sur la liste des destinataires au sens de l’article 16 peuvent également déposer un avis par écrit.
-
-#### Art. 17b
-
-**Traitement des avis**
-
-<sup>1</sup> Il est pris connaissance des avis exprimés, qui sont pondérés et évalués.
-
-<sup>2</sup> Le dépôt d’un avis ne confère pas le droit de recevoir une réponse ni d’être consulté une seconde fois.
-
-### 2.1.5 Frais
-
-#### Art. 18
-
-**Accès gratuit**
-
-<sup>1</sup> Les documents soumis à la consultation sont accessibles gratuitement sur Internet.
-
-#### Art. 19
-
-**Remise des documents contre paiement**
-
-<sup>1</sup> Les documents soumis à la consultation peuvent être obtenus sur support papier auprès du service compétent contre paiement d’un émolument (art. 25 de l’ordonnance du 22 février 1995 fixant les émoluments de l’administration cantonale, OEmo)[^19-1].
-
-[^19-1]: RSB 154.21
-
-#### Art. 20
-
-**Consultation des documents**
-
-<sup>1</sup> La consultation des documents officiels des procédures de consultation est gratuite une fois la procédure achevée.
-
-### 2.2 Autres formes de consultation
-
-#### Art. 21
-
-<sup>1</sup> Durant la procédure préliminaire, les Directions, la Chancellerie d'Etat et, conformément au règlement interne de ces dernières, leurs offices peuvent consulter les milieux intéressés en dehors d'une procédure de consultation également.
-
-<sup>2</sup> Dans les cas visés à l'article 5, 1er alinéa, une telle consultation ne remplace pas la procédure de consultation.
-
-<sup>3</sup> Le rapport soumis au Conseil-exécutif présente sous une forme appropriée le résultat de la procédure de consultation et indique les points principaux sur lesquels le projet est contesté.
-
-## 3 Procédure de corapport
-
-#### Art. 22
-
-**Principe**
+**But**
 
 <sup>1</sup> La procédure de corapport sert à la formation de l'opinion et à l'élimination des divergences à l'échelon du Conseil-exécutif.
 
-<sup>2</sup> La procédure de corapport a lieu
+<sup>2</sup> Elle n'est pas publique.
 
-- a sur le projets d'actes législatifs, d'arrêtés de principe du Grand Conseil, d'initiatives et de rapports du Conseil-exécutif au Grand Conseil, auprès des Directions et de la Chancellerie d'Etat;
-- b sur les réponses aux interventions parlementaires, conformément à l'attribution du Conseil-exécutif;
-- c dans les autres cas prévus à l'article 36 LOCA[^22-1] et lorsque la législation spéciale l'exige, auprès des Directions concernées ou de la Chancellerie d'Etat;
-- d sur ordre du Conseil-exécutif conformément à sa décision;
-- e dans des cas particuliers avant que ne soit décidée l'ouverture d'une procédure de consultation (art. 6), auprès des Directions et de la Chancellerie d'Etat.
+#### Art. 11
 
-<sup>3</sup> La procédure de corapport a lieu juste avant que la Direction ou la Chancellerie d'Etat soumette le projet au Conseil-exécutif pour décision, indépendamment de toute consultation durant la procédure préliminaire.
+**Objet**
 
-[^22-1]: RSB 152.01
+<sup>1</sup> La procédure de corapport est menée
 
-#### Art. 23
+- a auprès de toutes les Directions et de la Chancellerie d'État
+  - 1\. sur les projets d'actes législatifs, d'arrêtés de principe du Grand Conseil ainsi que d'initiatives et de rapports du Conseil-exécutif au Grand Conseil,
+  - 2\. avant la décision d'ouvrir une procédure de consultation (art. 5),
+- b auprès des Directions concernées ou intéressées et de la Chancellerie d'État, dans la mesure où
+  - 1\. elles répondent à des interventions parlementaires, conformément à l'attribution du Conseil-exécutif ou après concertation;
+  - 2\. plusieurs Directions ou états-majors sont parties prenantes à une affaire ou y sont intéressés (art. 36, al. 1 LOCA);
+  - 3\. la législation spéciale l'exige;
+  - 4\. le Conseil-exécutif en décide ainsi par voie d'arrêté.
+
+<sup>2</sup> Il est possible de renoncer à la procédure de corapport
+
+- a sur les actes législatifs
+  - 1\. en cas de rectifications au sens des articles 25 ss de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^11-1],
+  - 2\. en cas d'adaptation de la législation suite à la suppression ou à la modification du territoire de communes au sens de l'article 4a de la loi du 16 mars 1998 sur les communes (LCo)[^11-2],
+- b sur les affaires du Conseil-exécutif, en cas de situation de crise; toutefois, les Directions concernées au premier chef ou la Chancellerie d'État, lorsqu'elle est concernée au premier chef, doivent être consultées de manière appropriée.
+
+[^11-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
+[^11-2]: RSB [170.11](https://www.belex.sites.be.ch/data/170.11/fr)
+
+#### Art. 12
+
+**Calendrier**
+
+<sup>1</sup> La procédure de corapport a lieu en règle générale juste avant que la Direction ou la Chancellerie d'État soumette le projet au Conseil-exécutif pour décision.
+
+#### Art. 13
 
 **Forme**
 
-<sup>1</sup> La procédure de corapport se déroule par écrit, sur support papier ou électronique.
+<sup>1</sup> La procédure de corapport se déroule sous forme numérique.
 
-<sup>2</sup> Si la Direction des finances est la seule à être consultée conformément à la législation sur les finances cantonales, les documents sont envoyés sur support papier.
+<sup>2</sup> Les procédures de corapport concernant les affaires du Conseil-exécutif classées secrètes peuvent se dérouler sur support papier.
 
-#### Art. 24
+#### Art. 14
 
 **Délai**
 
-<sup>1</sup> Le délai de réponse est d’au moins trois semaines. Il est prolongé dans une mesure appropriée lorsqu’il court durant une période de vacances du Conseil-exécutif.
+<sup>1</sup> Le délai de réponse est d’au moins trois semaines.
 
-<sup>2</sup> Il est possible de fixer un délai plus court
+<sup>2</sup> Il est prolongé dans une mesure appropriée lorsqu’il court durant une période de vacances du Conseil-exécutif.
+
+<sup>3</sup> Il est possible de fixer un délai plus court
 
 - a dans les cas d'urgence,
-- b lorsque les Directions et la Chancellerie d'Etat ont déjà été consultées durant la procédure préliminaire.
+- b lorsque les Directions et la Chancellerie d'État ont déjà été consultées.
 
-#### Art. 25
+#### Art. 15
 
 **Résultat**
 
-<sup>1</sup> La lettre au Conseil-exécutif concernant l’inscription du projet à l’ordre du jour présente le résultat de la procédure de corapport. Elle indique les modifications apportées au projet suite au corapport ainsi que les opinions divergentes.
+<sup>1</sup> Le résultat de la procédure de corapport doit être porté à la connaissance du Conseil-exécutif conformément à l'article 8 de l'ordonnance du 18 octobre 1995 sur l'organisation du Conseil-exécutif (ordonnance d'organisation CE; OO CE[^15-1]).
 
-#### Art. 25a
+[^15-1]: RSB [152.11](https://www.belex.sites.be.ch/data/152.11/fr)
 
-**Confidentialité**
+### 4.2 Participation d'autres autorités
 
-<sup>1</sup> Les avis des membres du Conseil-exécutif, des Directions, de la Chancellerie d'Etat et de la Direction de la magistrature dans la procédure de corapport ainsi que les informations sur le résultat de la procédure de corapport ne sont pas publics.
+#### Art. 16
 
-## 4 Projets de la Confédération
+**Conseil du Jura bernois (CJB) et Conseil des affaires francophones de l'arrondissement de Biel/Bienne (CAF)**
 
-#### Art. 26
+<sup>1</sup> Le CJB et le CAF doivent être impliqués dans la procédure de corapport conformément aux dispositions relatives à la participation politique de la législation sur le statut particulier du Jura bernois et de la minorité francophone de l'arrondissement administratif de Biel/Bienne.
 
-<sup>1</sup> Sous réserve des droits de participation de la population et du Grand Conseil, le Conseil-exécutif est compétent pour se prononcer sur les projets qui lui sont soumis par la Confédération. Il peut coordonner l'avis qu'il émet avec d'autres cantons.
+#### Art. 17
 
-<sup>2</sup> La Chancellerie d’Etat remet les avis sur les projets de la Confédération aux membres bernois de l’Assemblée fédérale, aux professionnels des médias accrédités et, sur demande, aux tiers intéressés.
+**Service de législation, des affaires jurassiennes et du bilinguisme (LJB)**
 
-<sup>3</sup> …
+<sup>1</sup> Tous les projets d’actes législatifs qui sont envoyés aux Directions et à la Chancellerie d’État pour avis sont en même temps soumis au LJB.
 
-## 4a Archivage
+<sup>2</sup> Les projets d'ordonnances de Direction sont soumis au LJB même si les Directions et la Chancellerie d’État ne sont pas consultées.
 
-#### Art. 26a
+<sup>3</sup> Les projets d'actes législatifs sont adressés au LJB dans les deux langues officielles. Si cela n’est pas possible, la traduction lui est remise au plus vite pour contrôle.
 
-<sup>1</sup> Les documents produits dans le cadre d’une procédure de consultation ou de corapport doivent être archivés sur support papier conformément aux dispositions de l’ordonnance du 24 juin 1992 sur les Archives de l’Etat de Berne[^26a-1].
+<sup>4</sup> Les questions particulières concernant l’entrée en vigueur et la publication officielle doivent être réglées avec le LJB au plus tard pendant la procédure de corapport.
 
-[^26a-1]: Abrogée par O du 4. 11. 2009 sur l'archivage (OArch); RSB 108.111
+#### Art. 18
 
-## 5 Dispositions finales
+**Bureau cantonal pour la surveillance de la protection des données (BPD)**
 
-#### Art. 27
+<sup>1</sup> Les projets d'actes législatifs et les autres mesures au sens de l'article 34, alinéa 1, lettre k de la loi du 19 février 1986 sur la protection des données (LCPD)[^18-1] concernant le traitement de données personnelles ainsi que la protection des données sont soumises au BPD pour avis.
 
-**Modification d'un acte législatif**
+[^18-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
-<sup>1</sup> L'ordonnance du 22 février 1995 fixant les émoluments de l'administration cantonale (ordonnance sur les émoluments, OEmo)[^27-1] est modifiée comme suit:
+#### Art. 19
 
-[^27-1]: RSB 154.21
+**Contrôle des finances, Bureau du Grand Conseil, Services parlementaires et Direction administrative de la magistrature**
 
-#### Art. 28
+<sup>1</sup> Les projets d'actes législatifs et d'autres affaires sont soumis pour avis
+
+- a au Contrôle de finances, lorsqu'il est concerné;
+- b au Bureau du Grand Conseil, lorsque le Grand Conseil ou l'un de ses organes est concerné;
+- c aux Services parlementaires, lorsqu'ils sont concernés;
+- d à la Direction administrative de la magistrature, lorsque les autorités judiciaires ou le Ministère public sont concernés.
+
+## 5 Projets de la Confédération
+
+#### Art. 20
+
+<sup>1</sup> Sous réserve des droits de participation de la population et du Grand Conseil, le Conseil-exécutif est compétent pour se prononcer sur les projets qui lui sont soumis par la Confédération.
+
+<sup>2</sup> Il peut coordonner l'avis qu'il émet avec d'autres cantons.
+
+<sup>3</sup> Les avis relatifs aux projets de la Confédération sont publiés sur Internet.
+
+## 6 Dispositions finales
+
+#### Art. 21
 
 **Abrogation d'un acte législatif**
 
-<sup>1</sup> L'ordonnance du 24 février 1993 sur la procédure de consultation (OPC) est abrogée.
+<sup>1</sup> L'ordonnance du 26 juin 1996 sur les procédures de consultation et de corapport (OPC)[^21-1] est abrogée.
 
-#### Art. 29
+[^21-1]: RSB [152.025](https://www.belex.sites.be.ch/data/152.025/fr)
+
+#### Art. 22
 
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1er août 1996.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2023.
 
-## A1
-
-Berne, le 26 juin 1996
+Berne, le 21 décembre 2022
 
 Au nom du Conseil-exécutif,
 
-le président: Lauri
+la présidente: Häsler
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-96-49
+23-002
