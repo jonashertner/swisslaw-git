@@ -4,11 +4,11 @@ title: Legge federale del 7 ottobre 2005 sulle finanze della Confederazione (LFC
 short: LFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/227"
 language: it
-version: 2022-01-01
+version: 2023-02-01
 adopted: 2005-10-07
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-227-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2006-227-20230201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20220101/it"
 
 (LFC)
 
-del 7 ottobre 2005 (Stato 1° gennaio 2022)
+del 7 ottobre 2005 (Stato 1° febbraio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -91,11 +91,12 @@ Si considerano *uscite*:
 Si considerano *entrate*:
 
 - a. i ricavi, a eccezione delle variazioni di valutazione dei beni amministrativi della Confederazione (entrate correnti);
-- b. il compenso per l’alienazione di beni amministrativi della Confederazione, i rimborsi dei contributi per investimenti concessi dalla Confederazione, le distribuzioni di utili provenienti da partecipazioni e i contributi per investimenti che la Confederazione riceve (entrate per investimenti).
+- b.[^3-2] il compenso per l’alienazione di beni amministrativi della Confederazione, i rimborsi dei mutui e dei contributi per investimenti concessi dalla Confederazione, le distribuzioni di utili provenienti da partecipazioni e i contributi per investimenti che la Confederazione riceve (entrate per investimenti).
 
 <sup>7</sup> Nei *gruppi di prestazioni* sono riunite le prestazioni di un’unità amministrativa con le quali si intendono raggiungere obiettivi simili.
 
 [^3-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^3-2]: Nuovo testo giusta il n. I della LF del 30 set. 2022 (Riduzione del debito causato dall’epidemia di COVID-19), in vigore dal 1° feb. 2023 ([RU 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [FF 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 ## Capitolo 2: Consuntivo
 
@@ -379,9 +380,12 @@ Nel conto di ammortamento non vengono tuttavia allibrate:
 
 <sup>1</sup> Al fine di compensare disavanzi prevedibili del conto di ammortamento, l’Assemblea federale può, al momento dell’adozione del preventivo, ridurre l’importo massimo di cui agli articoli 13 o 15.
 
+<sup>1bis</sup> La riduzione di cui al capoverso 1 può essere effettuata anche al momento dell’approvazione del consuntivo.[^17c-2]
+
 <sup>2</sup> La riduzione presuppone che il conto di compensazione di cui all’articolo 16 sia almeno in pareggio.
 
 [^17c-1]: Introdotto dal n. I della LF del 20 mar. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7415](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+[^17c-2]: Introdotto dal n. I della LF del 30 set. 2022 (Riduzione del debito causato dall’epidemia di COVID-19), in vigore dal 1° feb. 2023 ([RU 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [FF 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 17d
 
@@ -390,6 +394,18 @@ Nel conto di ammortamento non vengono tuttavia allibrate:
 Le riduzioni di cui agli articoli 17*b* capoverso 1 o 17*c* sono accreditate al conto di ammortamento, purché l’accredito non gravi il conto di compensazione.
 
 [^17d-1]: Introdotto dal n. I della LF del 20 mar. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7415](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+#### Art. 17e
+
+**Compensazione del disavanzo del conto di ammortamento dopo l’epidemia di COVID-19**[^17e-1]
+
+<sup>1</sup> Se le uscite totali iscritte nel consuntivo sono inferiori all’importo massimo rettificato, in deroga all’articolo 16 capoverso 2 la differenza è accreditata al conto di ammortamento fintantoché il conto di compensazione non presenta un disavanzo.
+
+<sup>2</sup> Il termine per la compensazione del disavanzo del conto di ammortamento di cui all’articolo 17*b* capoverso 1 è prolungato fino alla chiusura dell’esercizio annuale 2035.
+
+<sup>3</sup> In caso di eventi eccezionali che esulano dal controllo della Confederazione, il Consiglio federale sottopone tempestivamente all’Assemblea federale una proroga del termine di cui al capoverso 2 al massimo fino alla chiusura dell’esercizio annuale 2039.
+
+[^17e-1]: Introdotto dal n. I della LF del 30 set. 2022 (Riduzione del debito causato dall’epidemia di COVID-19), in vigore dal 1° feb. 2023 al 31 lug. 2040 ([RU 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [FF 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 18
 
@@ -715,7 +731,7 @@ Inoltre, sono ammessi sorpassi di credito per le seguenti spese e uscite per inv
 
 [^37-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
-### Sezione 6:**** Blocco e liberazione di crediti
+### Sezione 6: Blocco e liberazione di crediti
 
 [^chap3-sec6-1]
 
@@ -744,7 +760,7 @@ Il Consiglio federale è autorizzato a sopprimere parzialmente o totalmente un b
 
 <sup>2</sup> La liberazione di crediti a causa di una grave recessione sottostà all’approvazione dell’Assemblea federale. Circa le altre liberazioni di crediti il Consiglio federale riferisce all’Assemblea federale nei messaggi sulle domande di crediti aggiuntivi o nell’ambito del consuntivo.
 
-## Capitolo 4: Gestione finanziaria a livello amministrativo****
+## Capitolo 4: Gestione finanziaria a livello amministrativo
 
 [^chap4-1]
 
@@ -824,7 +840,7 @@ Le unità amministrative autorizzate possono fornire prestazioni commerciali se 
 
 ## Capitolo 5: Presentazione dei conti
 
-### Sezione 1:**** Conto annuale della Confederazione
+### Sezione 1: Conto annuale della Confederazione
 
 [^chap5-sec1-1]
 
@@ -1124,13 +1140,13 @@ Il Consiglio federale presenta all’Assemblea federale, al più tardi sei anni 
 
 La legge del 6 ottobre 1989[^64-1] sulle finanze della Confederazione è abrogata.
 
-[^64-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3 [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327), [2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114)[4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246)]
+[^64-1]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II; [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327); [2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [5191](https://fedlex.data.admin.ch/eli/oc/2003/764); [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6 ,[1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3, [2143](https://fedlex.data.admin.ch/eli/oc/2004/246)]
 
 #### Art. 65
 
 **Modifica del diritto vigente**
 
-…[^65-1]
+...[^65-1]
 
 [^65-1]: Le mod. possono essere consultate alla [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)
 
@@ -1189,6 +1205,14 @@ Il diritto anteriore rimane applicabile:
 <sup>2</sup> Nel primo consuntivo dopo l’entrata in vigore della presente modifica, l’Assemblea federale corregge il saldo del conto di ammortamento di cui all’articolo 17*a* capoverso 1. L’entità della correzione risulta dalla differenza tra quanto già contabilizzato e l’importo accertato che risulterebbe se la nuova normativa fosse stata applicata dal 2010.
 
 [^66c-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+
+#### Art. 66d
+
+**Disposizione transitoria della modifica del 30 settembre 2022**[^66d-1]
+
+L’articolo 17*e* capoverso 1 è applicabile la prima volta alla chiusura dell’esercizio annuale 2022.
+
+[^66d-1]: Introdotto dal n. I della LF del 30 set. 2022 (Riduzione del debito causato dall’epidemia di COVID-19), in vigore dal 1° feb. 2023 ([RU 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [FF 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 67
 

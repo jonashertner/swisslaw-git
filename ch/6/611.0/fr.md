@@ -4,11 +4,11 @@ title: "Loi du 7 octobre 2005 sur les finances de la Confédération (Loi sur le
 short: LFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/227"
 language: fr
-version: 2022-01-01
+version: 2023-02-01
 adopted: 2005-10-07
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-227-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2006-227-20230201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20220101/fr"
 
 (Loi sur les finances, LFC)
 
-du 7 octobre 2005 (Etat le 1<sup>er</sup> janvier 2022)
+du 7 octobre 2005 (État le 1<sup>er</sup> février 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -91,11 +91,12 @@ Sont considérés comme des *dépenses*:
 Sont considérés comme des *recettes*:
 
 - a. les revenus, à l’exception des variations d’évaluation du patrimoine administratif de la Confédération (recettes courantes);
-- b. la contrepartie de la vente d’éléments du patrimoine administratif de la Confédération, les remboursements de contributions à des investissements accordées par la Confédération, les distributions de bénéfices provenant de participations et les contributions à des investissements reçues par la Confédération (recettes d’investissement).
+- b.[^3-2] la contrepartie de la vente d’éléments du patrimoine administratif de la Confédération, les remboursements de prêts et de contributions à des investissements accordés par la Confédération, les distributions de bénéfices provenant de participations et les contributions à des investissements reçues par la Confédération (recettes d’investissement).
 
 <sup>7</sup> Les prestations d’une unité administrative qui permettent d’atteindre des objectifs de même nature sont rassemblées en *groupes de prestations*.
 
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^3-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022 (Réduction de l’endettement lié au coronavirus), en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [FF 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 ## Chapitre 2 Compte d’État
 
@@ -162,9 +163,10 @@ Le compte de résultats présente les charges et les revenus d’une période co
 
 <sup>2</sup> Les dépenses d’investissement comprennent notamment les dépenses pour des immobilisations corporelles, des prêts, des participations et des contributions à des investissements.
 
-<sup>3</sup> Les recettes d’investissement comprennent notamment la contrepartie de la vente d’immobilisations corporelles, les remboursements de prêts accordés par la Confédération et de contributions à des investissements, les distributions de bénéfices provenant de participations et les contributions à des investissements reçues.
+<sup>3</sup> Les recettes d’investissement comprennent notamment la contrepartie de la vente d’immobilisations corporelles, les remboursements de prêts et de contributions à des investissements accordés par la Confédération, les distributions de bénéfices provenant de participations et les contributions à des investissements reçues.[^8a-2]
 
 [^8a-1]: Introduit par le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération) ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^8a-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022 (Réduction de l’endettement lié au coronavirus), en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [FF 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 8b
 
@@ -234,7 +236,7 @@ L’annexe des comptes annuels comprend les données suivantes:
 Les comptes des institutions et des unités administratives (art. 5, let. a, ch. 3) servent de base:
 
 - a. à l’approbation des crédits et à l’estimation des revenus et des recettes;
-- b. au compte-rendu de l’utilisation des fonds.
+- b. au compte rendu de l’utilisation des fonds.
 
 <sup>2</sup>
 
@@ -379,9 +381,12 @@ Ne sont pas inscrites dans le compte d’amortissement:
 
 <sup>1</sup> Pour compenser les découverts prévisibles du compte d’amortissement, l’Assemblée fédérale peut abaisser le plafond à fixer conformément aux art. 13 ou 15 lors de l’adoption du budget.
 
+<sup>1bis</sup> L’abaissement du plafond visé à l’al. 1 peut aussi s’effectuer lors de l’adoption du compte d’État.[^17c-2]
+
 <sup>2</sup> L’abaissement du plafond est possible à condition que le compte de compensation au sens de l’art. 16 soit au moins équilibré.
 
 [^17c-1]: Introduit par le ch. I de la LF du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7693](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+[^17c-2]: Introduit par le ch. I de la LF du 30 sept. 2022 (Réduction de l’endettement lié au coronavirus), en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [FF 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 17d
 
@@ -390,6 +395,18 @@ Ne sont pas inscrites dans le compte d’amortissement:
 L’abaissement du plafond au sens des art. 17*b*, al. 1, ou 17*c* est bonifié au compte d’amortissement pour autant que la bonification ne grève pas le compte de compensation.
 
 [^17d-1]: Introduit par le ch. I de la LF du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7693](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+#### Art. 17e
+
+**Compensation du découvert du compte d’amortissement après l’épidémie de COVID‑19**[^17e-1]
+
+<sup>1</sup> Si les dépenses totales figurant au compte d’État sont inférieures au plafond des dépenses rectifié, la différence, en dérogation à l’art. 16, al. 2, est créditée au compte d’amortissement tant que le compte de compensation ne présente pas de découvert.
+
+<sup>2</sup> Le délai fixé à l’art. 17*b*, al. 1, pour compenser le découvert du compte d’amortissement est prolongé jusqu’à la clôture de l’exercice comptable 2035.
+
+<sup>3</sup> En cas d’événements particuliers échappant au contrôle de la Confédération, le Conseil fédéral propose en temps voulu à l’Assemblée fédérale que le délai prévu à l’al. 2 soit prolongé jusqu’à la clôture de l’exercice comptable 2039 au plus.
+
+[^17e-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Réduction de l’endettement lié au coronavirus), en vigueur du 1<sup>er</sup> fév. 2023 au 31 juil. 2040 ([RO 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [FF 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 18
 
@@ -714,7 +731,7 @@ Les dépassements de crédit sont autorisés sans que le Conseil fédéral doive
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
-### Section 6**** Blocage et libération de crédits
+### Section 6 Blocage et libération de crédits
 
 [^chap3-sec6-1]
 
@@ -743,7 +760,7 @@ Le Conseil fédéral est autorisé à lever totalement ou partiellement, dans le
 
 <sup>2</sup> La libération des crédits pour cause de grave récession est soumise à l’approbation de l’Assemblée fédérale. Le Conseil fédéral établit un rapport sur les autres libérations dans les messages sur les crédits supplémentaires ou dans le compte d’État.
 
-## Chapitre 4 Gestion financière de l’administration****
+## Chapitre 4 Gestion financière de l’administration
 
 [^chap4-1]
 
@@ -823,7 +840,7 @@ Une unité administrative bénéficiant d’une autorisation peut fournir des pr
 
 ## Chapitre 5 Établissement des comptes
 
-## Section 1**** Comptes annuels de la Confédération
+## Section 1 Comptes annuels de la Confédération
 
 [^chap6-1]
 
@@ -997,7 +1014,7 @@ Faute de pouvoir obtenir un meilleur résultat pour la Confédération, l’AFF 
 
 <sup>2bis</sup> Elle émet ses emprunts sous la forme de titres intermédiés sur la base de certificats globaux ou de droits-valeurs au sens des art. 973*b* et 973*c* du code des obligations[^60-2]. Elle peut convertir les certificats globaux en droits-valeurs et inversement en tout temps et sans l’assentiment des créanciers. Elle dispose également de ce droit de conversion pour les emprunts qui sont déjà en cours avant l’entrée en vigueur de la présente disposition.[^60-3]
 
-<sup>3</sup> Le plan financier et le budget présentent chaque année un rapport prévisionnel sur la situation de la trésorerie et de l’emprunt de fonds; le compte d’État en donne un compte-rendu.
+<sup>3</sup> Le plan financier et le budget présentent chaque année un rapport prévisionnel sur la situation de la trésorerie et de l’emprunt de fonds; le compte d’État en donne un compte rendu.
 
 [^60-1]: Nouvelle teneur selon le ch. II 8 de la loi du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^60-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1188,6 +1205,14 @@ Le droit en vigueur reste applicable:
 <sup>2</sup> L’Assemblée fédérale corrige le solde du compte d’amortissement au sens de l’art. 17*a*, al. 1, à la clôture du premier compte d’État qui suit l’entrée en vigueur de la présente modification. L’ampleur de la correction correspond à la différence entre le montant des comptabilisations déjà effectuées et le montant qui aurait été atteint si le nouveau droit avait été appliqué à partir de 2010.
 
 [^66c-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+
+#### Art. 66d
+
+**Disposition transitoire relative à la modification du 30 septembre 2022**[^66d-1]
+
+L’art. 17*e*, al. 1, s’applique pour la première fois lors de la clôture du compte 2022.
+
+[^66d-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Réduction de l’endettement lié au coronavirus), en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [FF 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 67
 

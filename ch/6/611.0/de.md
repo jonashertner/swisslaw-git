@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 7. Oktober 2005 über den eidgenössischen Finanzhausha
 short: FHG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/227"
 language: de
-version: 2022-01-01
+version: 2023-02-01
 adopted: 2005-10-07
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-227-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2006-227-20230201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20220101/de"
 
 (Finanzhaushaltgesetz, FHG)
 
-vom 7. Oktober 2005 (Stand am 1. Januar 2022)
+vom 7. Oktober 2005 (Stand am 1. Februar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -91,11 +91,12 @@ Als *Ausgaben* gelten:
 Als *Einnahmen* gelten:
 
 - a. der Ertrag mit Ausnahme der Bewertungsänderungen des Verwaltungsvermögens des Bundes (laufende Einnahmen);
-- b. das Entgelt für die Veräusserung von Verwaltungsvermögen des Bundes, Rückzahlungen der vom Bund gewährten Investitionsbeiträge, Gewinnausschüttungen aus Beteiligungen sowie Investitionsbeiträge, die der Bund erhält (Investitionseinnahmen).
+- b.[^3-2] das Entgelt für die Veräusserung von Verwaltungsvermögen des Bundes, Rückzahlungen der vom Bund gewährten Darlehen und Investitionsbeiträge, Gewinnausschüttungen aus Beteiligungen sowie Investitionsbeiträge, die der Bund erhält (Investitionseinnahmen).
 
 <sup>7</sup> In *Leistungsgruppen* zusammengefasst werden Leistungen einer Verwaltungseinheit, mit denen gleichartige Ziele erreicht werden sollen.
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^3-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022 (Abbau der coronabedingten Verschuldung), in Kraft seit 1. Febr. 2023 ([AS 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [BBl 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 ## 2. Kapitel: Staatsrechnung
 
@@ -127,7 +128,7 @@ Die Staatsrechnung des Bundes umfasst:
 
 Die Jahresrechnung des Bundes umfasst:
 
-- a.[^6-2] ...
+- a.[^6-2] …
 - b. die Erfolgsrechnung;
 - c. die Investitionsrechnung;
 - d. die Geldflussrechnung;
@@ -218,9 +219,9 @@ Der Anhang der Jahresrechnung des Bundes:
 - b. fasst die Rechnungslegungsgrundsätze einschliesslich der wesentlichen Grundsätze für die Bilanzierung und Bewertung zusammen;
 - c. legt in geraffter Form wesentliche Einzelheiten zu den anderen Teilen der Jahresrechnung offen;
 - d. enthält zusätzliche Angaben, die für die Beurteilung der Vermögens- und Ertragslage, der Verpflichtungen und der finanziellen Risiken von Bedeutung sind;
-- e.[^10-1] ...
+- e.[^10-1] …
 - f. nennt die Abschreibungsmethoden und -sätze;
-- g.[^10-2] ...
+- g.[^10-2] …
 
 [^10-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
 [^10-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
@@ -379,9 +380,12 @@ Nicht auf das Amortisationskonto gebucht werden jedoch:
 
 <sup>1</sup> Zum Ausgleich voraussehbarer Fehlbeträge des Amortisationskontos kann die Bundesversammlung bei der Verabschiedung des Voranschlags die nach Artikel 13 oder 15 festzulegenden Höchstbeträge kürzen.
 
+<sup>1bis</sup> Die Kürzung nach Absatz 1 kann auch mit der Genehmigung der Staatsrechnung erfolgen.[^17c-2]
+
 <sup>2</sup> Die Kürzung setzt voraus, dass das Ausgleichskonto nach Artikel 16 mindestens ausgeglichen ist.
 
 [^17c-1]: Eingefügt durch Ziff. I des BG vom 20. März 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [BBl 2008 8491](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+[^17c-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Abbau der coronabedingten Verschuldung), in Kraft seit 1. Febr. 2023 ([AS 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [BBl 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 17d
 
@@ -390,6 +394,18 @@ Nicht auf das Amortisationskonto gebucht werden jedoch:
 Kürzungen nach den Artikeln 17*b* Absatz 1 oder 17*c* werden dem Amortisationskonto gutgeschrieben, soweit die Gutschrift das Ausgleichskonto nicht belastet.
 
 [^17d-1]: Eingefügt durch Ziff. I des BG vom 20. März 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [BBl 2008 8491](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
+
+#### Art. 17e
+
+**Ausgleich des Fehlbetrags des Amortisationskontos nach der Covid‑19-Epidemie**[^17e-1]
+
+<sup>1</sup> Sind die in der Staatsrechnung ausgewiesenen Gesamtausgaben tiefer als der berichtigte Höchstbetrag, so wird die Differenz in Abweichung von Artikel 16 Absatz 2 dem Amortisationskonto gutgeschrieben, solange das Ausgleichskonto keinen Fehlbetrag aufweist.
+
+<sup>2</sup> Die Frist für den Ausgleich des Fehlbetrags des Amortisationskontos nach Artikel 17*b* Absatz 1 wird bis zum Abschluss des Rechnungsjahres 2035 erstreckt.
+
+<sup>3</sup> Im Falle von besonderen, vom Bund nicht steuerbaren Entwicklungen beantragt der Bundesrat der Bundesversammlung rechtzeitig eine Erstreckung der Frist nach Absatz 2 bis längstens zum Abschluss des Rechnungsjahres 2039.
+
+[^17e-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Abbau der coronabedingten Verschuldung), in Kraft vom 1. Febr. 2023 bis zum 31. Juli 2040 ([AS 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [BBl 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 18
 
@@ -711,7 +727,7 @@ Kreditüberschreitungen sind zudem für folgende Aufwände und Investitionsausga
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
-### 6. Abschnitt:**** Sperrung und Freigabe von Krediten
+### 6. Abschnitt: Sperrung und Freigabe von Krediten
 
 [^chap3-sec6-1]
 
@@ -740,7 +756,7 @@ Der Bundesrat ist befugt, die von der Bundesversammlung beschlossenen Kreditsper
 
 <sup>2</sup> Die Kreditfreigabe wegen schwerer Rezession bedarf der Genehmigung durch die Bundesversammlung. Über andere Freigaben erstattet der Bundesrat der Bundesversammlung in den Botschaften über die Nachtragskreditbegehren oder mit der Staatsrechnung Bericht.
 
-## 4. Kapitel: Finanzielle Führung auf Verwaltungsebene****
+## 4. Kapitel: Finanzielle Führung auf Verwaltungsebene
 
 [^chap4-1]
 
@@ -820,7 +836,7 @@ Die ermächtigten Verwaltungseinheiten dürfen gewerbliche Leistungen erbringen,
 
 ## 5. Kapitel: Rechnungslegung
 
-### 1. Abschnitt:**** Jahresrechnung des Bundes
+### 1. Abschnitt: Jahresrechnung des Bundes
 
 [^chap5-sec1-1]
 
@@ -856,7 +872,7 @@ Für ihre Erstellung sind die folgenden Grundsätze ordnungsgemässer Rechnungsl
 
 <sup>4</sup> Er setzt sich für harmonisierte Standards zur Rechnungslegung von Bund, Kantonen und Gemeinden ein. Er kann diese Bestrebungen mit Beiträgen fördern.
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 49–51
 
@@ -1128,7 +1144,7 @@ Das Finanzhaushaltgesetz vom 6. Oktober 1989[^64-1] wird aufgehoben.
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^65-1]
+…[^65-1]
 
 [^65-1]: Die Änderungen können unter [AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)konsultiert werden.
 
@@ -1187,6 +1203,14 @@ Das bisherige Recht bleibt anwendbar auf:
 <sup>2</sup> Die Bundesversammlung korrigiert den Stand des Amortisationskontos nach Artikel 17*a* Absatz 1 mit der ersten Staatsrechnung nach Inkrafttreten dieser Änderung. Der Umfang der Korrektur ergibt sich aus der Abweichung zwischen dem Betrag aus den bisherigen Verbuchungen und dem ermittelten Betrag, der sich bei einer Anwendung des neuen Rechts ab 2010 ergeben hätte.
 
 [^66c-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+
+#### Art. 66d
+
+**Übergangsbestimmung zur Änderung vom 30. September 2022**[^66d-1]
+
+Artikel 17*e* Absatz 1 findet erstmals auf den Rechnungsabschluss 2022 Anwendung.
+
+[^66d-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Abbau der coronabedingten Verschuldung), in Kraft seit 1. Febr. 2023 ([AS 2023 29](https://fedlex.data.admin.ch/eli/oc/2023/29); [BBl 2022 943](https://fedlex.data.admin.ch/eli/fga/2022/943)).
 
 #### Art. 67
 
