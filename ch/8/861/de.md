@@ -3,20 +3,20 @@ sr: "861"
 title: Bundesgesetz vom 4. Oktober 2002 über Finanzhilfen für familienergänzende Kinderbetreuung (KBFHG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/31"
 language: de
-version: 2019-02-01
+version: 2023-02-01
 adopted: 2002-10-04
 in_force: 2003-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20190201/de/xml/fedlex-data-admin-ch-eli-cc-2003-31-20190201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2003-31-20230201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Finanzhilfen für familienergänzende Kinderbetreuung
 
-(KBFHG)**[^t-1]**
+(KBFHG)[^t-1]
 
-vom 4. Oktober 2002 (Stand am 1. Februar 2019)
+vom 4. Oktober 2002 (Stand am 1. Februar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Juli 2018 ([AS 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [BBl 2016 6377](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
@@ -30,7 +30,7 @@ beschliesst:
 [^ingress-2]: [BBl 2002 4219](https://fedlex.data.admin.ch/eli/fga/2002/624)
 [^ingress-3]: [BBl 2002 4262](https://fedlex.data.admin.ch/eli/fga/2002/627)
 
-## 1. Abschnitt:**** Zweck und Massnahmen
+## 1. Abschnitt: Zweck und Massnahmen
 
 [^sec1-1]
 
@@ -48,7 +48,7 @@ Zu diesem Zweck gewährt der Bund im Rahmen der bewilligten Kredite Finanzhilfen
 - b. die Erhöhung von kantonalen und kommunalen Subventionen für die familienergänzende Kinderbetreuung, wenn dadurch die Drittbetreuungskosten der Eltern reduziert werden können;
 - c. Projekte zur besseren Abstimmung des familienergänzenden Betreuungsangebotes auf die Bedürfnisse der Eltern.
 
-## 2. Abschnitt: Finanzhilfen für die Schaffung von familienergänzenden Betreuungsplätzen für Kinder und für Projekte mit Innovationscharakter****
+## 2. Abschnitt: Finanzhilfen für die Schaffung von familienergänzenden Betreuungsplätzen für Kinder und für Projekte mit Innovationscharakter
 
 [^sec2-1]
 
@@ -105,7 +105,7 @@ Die Finanzhilfen für Projekte mit Innovationscharakter können gewährt werden,
 [^3-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [BBl 2010 1627](https://fedlex.data.admin.ch/eli/fga/2010/288)).
 [^3-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Juli 2018 ([AS 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [BBl 2016 6377](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
-## 2*a*. Abschnitt:**** Finanzhilfen für die Erhöhung von Subventionen und für Projekte zur besseren Abstimmung des familienergänzenden Betreuungsangebots auf die Bedürfnisse der Eltern
+## 2*a*. Abschnitt: Finanzhilfen für die Erhöhung von Subventionen und für Projekte zur besseren Abstimmung des familienergänzenden Betreuungsangebots auf die Bedürfnisse der Eltern
 
 [^sec2a-1]
 
@@ -137,7 +137,7 @@ Sie können für Projekte gewährt werden, die darauf abzielen, die familienerg�
 
 <sup>3</sup> Die Projekte müssen den kantonalen Qualitätsanforderungen genügen.
 
-## 2*b*. Abschnitt: Verfügbare Mittel, Bemessung und Dauer der Finanzhilfen****
+## 2*b*. Abschnitt: Verfügbare Mittel, Bemessung und Dauer der Finanzhilfen
 
 [^sec2b-1]
 
@@ -179,7 +179,7 @@ Sie können für Projekte gewährt werden, die darauf abzielen, die familienerg�
 [^5-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Juli 2018 ([AS 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [BBl 2016 6377](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 [^5-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Juli 2018 ([AS 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [BBl 2016 6377](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
-## 3. Abschnitt: Verfahren****
+## 3. Abschnitt: Verfahren
 
 [^sec3-1]
 
@@ -247,9 +247,12 @@ Das BSV gewährt Finanzhilfen nach dem 2. Abschnitt (Art. 2 und 3) längstens bi
 
 **Verlängerung der Frist nach Artikel 9*a**[^9b-1]*
 
-Die Frist nach Artikel 9*a* wird bis zum 31. Januar 2023 verlängert.
+<sup>1</sup> Die Frist nach Artikel 9*a* wird bis zum 31. Januar 2023 verlängert.
+
+<sup>2</sup> Die Frist nach Artikel 9*a* wird bis zum 31. Dezember 2024 verlängert.[^9b-2]
 
 [^9b-1]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 349](https://fedlex.data.admin.ch/eli/oc/2019/58); [BBl 2018 3335](https://fedlex.data.admin.ch/eli/fga/2018/1271)[3361](https://fedlex.data.admin.ch/eli/fga/2018/1274)).
+[^9b-2]: Eingefügt ducrh Ziff. I des BG 30. Sept. 2022, in Kraft seit 1. Febr. 2023 ([AS 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [BBl 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
 
 #### Art. 10
 
@@ -267,9 +270,12 @@ Die Frist nach Artikel 9*a* wird bis zum 31. Januar 2023 verlängert.
 
 <sup>6</sup> Die Geltungsdauer des Gesetzes wird ab Inkrafttreten der Änderung vom 16. Juni 2017 um fünf Jahre verlängert.[^10-3]
 
-Datum des Inkrafttretens: 1. Febr. 2003[^10-4]
+<sup>7</sup> Die Geltungsdauer des Gesetzes wird bis zum 31. Dezember 2024 verlängert.[^10-4]
+
+Datum des Inkrafttretens: 1. Febr. 2003[^10-5]
 
 [^10-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [BBl 2010 1627](https://fedlex.data.admin.ch/eli/fga/2010/288)).
 [^10-2]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit1. Febr. 2015 ([AS 2015 513](https://fedlex.data.admin.ch/eli/oc/2015/70); [BBl 2014 6619](https://fedlex.data.admin.ch/eli/fga/2014/1496)[6643](https://fedlex.data.admin.ch/eli/fga/2014/1499)).
 [^10-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Juli 2018 ([AS 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [BBl 2016 6377](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
-[^10-4]: BRB vom 9. Dez. 2002
+[^10-4]: Eingefügt ducrh Ziff. I des BG 30. Sept. 2022, in Kraft seit 1. Febr. 2023 ([AS 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [BBl 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+[^10-5]: BRB vom 9. Dez. 2002

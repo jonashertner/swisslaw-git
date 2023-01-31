@@ -3,20 +3,20 @@ sr: "861"
 title: "Loi fédérale du 4 octobre 2002 sur les aides financières à l'accueil extra-familial pour enfants (LAAcc)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/31"
 language: fr
-version: 2019-02-01
+version: 2023-02-01
 adopted: 2002-10-04
 in_force: 2003-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-2003-31-20190201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20190201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2003-31-20230201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20230201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les aides financières à l’accueil extra-familial pour enfants
 
-(LAAcc)**[^t-1]**
+(LAAcc)[^t-1]
 
-du 4 octobre 2002 (Etat le 1<sup>er</sup> février 2019)
+du 4 octobre 2002 (État le 1<sup>er</sup> février 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 6161](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-2]: [FF 2002 3925](https://fedlex.data.admin.ch/eli/fga/2002/624)
 [^ingress-3]: [FF 2002 3970](https://fedlex.data.admin.ch/eli/fga/2002/627)
 
-## Section 1**** But et mesures
+## Section 1 But et mesures
 
 [^sec1-1]
 
@@ -48,7 +48,7 @@ Dans ce but, elle octroie, dans la limite des crédits ouverts, des aides financ
 - b. à l’augmentation des subventions cantonales et communales à l’accueil extra-familial pour enfants, à condition que les frais à la charge des parents pour la garde des enfants par des tiers puissent ainsi être réduits;
 - c. aux projets visant une meilleure adéquation de l’offre d’accueil extra-familial aux besoins des parents.
 
-## Section 2 Aides financières à la création de places d’accueil extra-familial pour enfants et aux projets à caractère novateur****
+## Section 2 Aides financières à la création de places d’accueil extra-familial pour enfants et aux projets à caractère novateur
 
 [^sec2-1]
 
@@ -104,7 +104,7 @@ Les aides financières aux projets à caractère novateur peuvent être octroyé
 [^3-2]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis 1<sup>er</sup> fév. 2011 ([RO 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1483](https://fedlex.data.admin.ch/eli/fga/2010/288)).
 [^3-3]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 6161](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
-## Section 2*a***** Aides financières à l’augmentation des subventions et aux projets visant une meilleure adéquation de l’offre d’accueil extra-familial aux besoins des parents
+## Section 2*a* Aides financières à l’augmentation des subventions et aux projets visant une meilleure adéquation de l’offre d’accueil extra-familial aux besoins des parents
 
 [^sec2a-1]
 
@@ -136,7 +136,7 @@ Elles peuvent être octroyées pour des projets qui visent à mieux adapter, au 
 
 <sup>3</sup> Les projets doivent satisfaire aux exigences cantonales de qualité.
 
-## Section 2*b* Moyens à disposition, calcul et durée des aides financières****
+## Section 2*b* Moyens à disposition, calcul et durée des aides financières
 
 [^sec2b-1]
 
@@ -178,7 +178,7 @@ Elles peuvent être octroyées pour des projets qui visent à mieux adapter, au 
 [^5-2]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 6161](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 [^5-3]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 6161](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
-## Section 3 Procédure****
+## Section 3 Procédure
 
 [^sec3-1]
 
@@ -218,7 +218,7 @@ Elles peuvent être octroyées pour des projets qui visent à mieux adapter, au 
 [^7-2]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 6161](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 [^7-3]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 6161](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
-## Section 4 Evaluation
+## Section 4 Évaluation
 
 #### Art. 8
 
@@ -246,9 +246,12 @@ L’OFAS octroie des aides financières au sens de la section 2 (art. 2 et 3) ju
 
 **Prolongation du délai prévu à l’art. 9*a**[^9b-1]*
 
-Le délai prévu à l’art. 9*a* est prolongé jusqu’au 31 janvier 2023.
+<sup>1</sup> Le délai prévu à l’art. 9*a* est prolongé jusqu’au 31 janvier 2023.
+
+<sup>2</sup> Le délai prévu à l’art. 9*a* est prolongé jusqu’au 31 décembre 2024.[^9b-2]
 
 [^9b-1]: Introduit par le ch. I de la LF du 28 sept. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 349](https://fedlex.data.admin.ch/eli/oc/2019/58); [FF 2018 3453](https://fedlex.data.admin.ch/eli/fga/2018/1271)[3479](https://fedlex.data.admin.ch/eli/fga/2018/1274)).
+[^9b-2]: Introduit par le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 (RO **20****23** 35; [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
 
 #### Art. 10
 
@@ -266,9 +269,12 @@ Le délai prévu à l’art. 9*a* est prolongé jusqu’au 31 janvier 2023.
 
 <sup>6</sup> La durée de validité de la présente loi est prolongée de cinq ans à compter de l’entrée en vigueur de la modification du 16 juin 2017.[^10-3]
 
-Date de l’entrée en vigueur: 1<sup>er</sup> février 2003[^10-4]
+<sup>7</sup> La durée de validité de la présente loi est prolongée jusqu’au 31 décembre 2024.[^10-4]
+
+Date de l’entrée en vigueur: 1<sup>er</sup> février 2003[^10-5]
 
 [^10-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1483](https://fedlex.data.admin.ch/eli/fga/2010/288)).
 [^10-2]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 513](https://fedlex.data.admin.ch/eli/oc/2015/70); [FF 2014 6369](https://fedlex.data.admin.ch/eli/fga/2014/1496)[6393](https://fedlex.data.admin.ch/eli/fga/2014/1499)).
 [^10-3]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 6161](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
-[^10-4]: ACF du 9 déc. 2002
+[^10-4]: Introduit par le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+[^10-5]: ACF du 9 déc. 2002

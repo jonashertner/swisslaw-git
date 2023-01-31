@@ -3,20 +3,20 @@ sr: "861"
 title: Legge federale del 4 ottobre 2002 sugli aiuti finanziari per la custodia di bambini complementare alla famiglia (LACust)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/31"
 language: it
-version: 2019-02-01
+version: 2023-02-01
 adopted: 2002-10-04
 in_force: 2003-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20190201/it/xml/fedlex-data-admin-ch-eli-cc-2003-31-20190201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/31/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2003-31-20230201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/31/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sugli aiuti finanziari per la custodia di bambini complementare alla famiglia
 
-(LACust)**[^t-1]**
+(LACust)[^t-1]
 
-del 4 ottobre 2002 (Stato 1° febbraio 2019)
+del 4 ottobre 2002 (Stato 1° febbraio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
@@ -30,7 +30,7 @@ decreta:
 [^ingress-2]: [FF 2002 3765](https://fedlex.data.admin.ch/eli/fga/2002/624)
 [^ingress-3]: [FF 2002 3808](https://fedlex.data.admin.ch/eli/fga/2002/627)
 
-## Sezione 1:**** Scopo e misure
+## Sezione 1: Scopo e misure
 
 [^sec1-1]
 
@@ -48,7 +48,7 @@ A tale scopo la Confederazione concede, nei limiti dei crediti stanziati, aiuti 
 - b. l’aumento dei sussidi cantonali e comunali destinati alla custodia di bambini complementare alla famiglia, se in tal modo si possono ridurre i costi di custodia a carico dei genitori;
 - c. progetti volti ad adeguare maggiormente ai bisogni dei genitori l’offerta di servizi per la custodia di bambini complementare alla famiglia.
 
-## Sezione 2: Aiuti finanziari per l’istituzione di posti per la custodia di bambini complementare alla famiglia e per progetti a carattere innovativo****
+## Sezione 2: Aiuti finanziari per l’istituzione di posti per la custodia di bambini complementare alla famiglia e per progetti a carattere innovativo
 
 [^sec2-1]
 
@@ -104,7 +104,7 @@ Gli aiuti finanziari per progetti a carattere innovativo possono essere concessi
 [^3-2]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
 [^3-3]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
-## Sezione 2*a*:**** Aiuti finanziari per l’aumento dei sussidi e per progetti volti ad adeguare maggiormente ai bisogni dei genitori l’offerta di servizi per la custodia di bambini complementare alla famiglia
+## Sezione 2*a*: Aiuti finanziari per l’aumento dei sussidi e per progetti volti ad adeguare maggiormente ai bisogni dei genitori l’offerta di servizi per la custodia di bambini complementare alla famiglia
 
 [^sec2a-1]
 
@@ -136,7 +136,7 @@ Possono essere concessi per progetti che mirano ad adeguare maggiormente ai biso
 
 <sup>3</sup> I progetti devono soddisfare le esigenze qualitative cantonali.
 
-## Sezione 2*b*: Mezzi a disposizione, calcolo e durata degli aiuti finanziari****
+## Sezione 2*b*: Mezzi a disposizione, calcolo e durata degli aiuti finanziari
 
 [^sec2b-1]
 
@@ -178,11 +178,11 @@ Possono essere concessi per progetti che mirano ad adeguare maggiormente ai biso
 [^5-2]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 [^5-3]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
 
-## Sezione 3: Procedura****
+## Sezione 3: Procedura
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. 121 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^sec3-1]: Nuovo testo giusta l’all. n. 121 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 6
 
@@ -246,9 +246,12 @@ L’UFAS concede gli aiuti finanziari di cui alla sezione 2 (art. 2 e 3) fino al
 
 **Proroga del termine di cui all’articolo 9*a**[^9b-1]*
 
-Il termine di cui all’articolo 9*a* è prorogato fino al 31 gennaio 2023.
+<sup>1</sup> Il termine di cui all’articolo 9*a* è prorogato fino al 31 gennaio 2023.
+
+<sup>2</sup> Il termine di cui all’articolo 9*a* è prorogato fino al 31 dicembre 2024.[^9b-2]
 
 [^9b-1]: Introdotto dal n. I della LF del 28 set. 2018, in vigore dal 1° feb. 2019 ([RU 2019 349](https://fedlex.data.admin.ch/eli/oc/2019/58); [FF 2018 2815](https://fedlex.data.admin.ch/eli/fga/2018/1271)[2843](https://fedlex.data.admin.ch/eli/fga/2018/1274)).
+[^9b-2]: Introdotto dal n. I della LF del 30 set. 2022, in vigore dal 1° feb. 2023 ([RU 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
 
 #### Art. 10
 
@@ -266,9 +269,12 @@ Il termine di cui all’articolo 9*a* è prorogato fino al 31 gennaio 2023.
 
 <sup>6</sup> La durata di validità della presente legge è prorogata di cinque anni dall’entrata in vigore della modifica del 16 giugno 2017.[^10-3]
 
-Data dell’entrata in vigore: 1° febbraio 2003[^10-4]
+<sup>7</sup> La durata di validità della presente legge è prorogata sino al 31 dicembre 2024.[^10-4]
+
+Data dell’entrata in vigore: 1° febbraio 2003[^10-5]
 
 [^10-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° feb. 2011 ([RU 2011 307](https://fedlex.data.admin.ch/eli/oc/2011/47); [FF 2010 1445](https://fedlex.data.admin.ch/eli/fga/2010/288)).
 [^10-2]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° feb. 2015 al 31 gen. 2019 ([RU 2015 513](https://fedlex.data.admin.ch/eli/oc/2015/70); [FF 2014 5643](https://fedlex.data.admin.ch/eli/fga/2014/1496)[5667](https://fedlex.data.admin.ch/eli/fga/2014/1499)).
 [^10-3]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° lug. 2018 ([RU 2018 2247](https://fedlex.data.admin.ch/eli/oc/2018/315); [FF 2016 5753](https://fedlex.data.admin.ch/eli/fga/2016/1225)).
-[^10-4]: DCF del 9 dic. 2002.
+[^10-4]: Introdotto dal n. I della LF del 30 set. 2022, in vigore dal 1° feb. 2023 ([RU 2023 35](https://fedlex.data.admin.ch/eli/oc/2023/35); [FF 2022 1056](https://fedlex.data.admin.ch/eli/fga/2022/1056), [1254](https://fedlex.data.admin.ch/eli/fga/2022/1254)).
+[^10-5]: DCF del 9 dic. 2002.
