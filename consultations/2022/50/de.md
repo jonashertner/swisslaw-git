@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Bundesgesetz über den Handel mit Foltergütern (Foltergütergesetz, FGG)"
 document: Vernehmlassungsvorlage
 language: de

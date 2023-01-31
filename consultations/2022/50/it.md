@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Legge federale sul commercio degli strumenti di tortura (Legge sugli strumenti di tortura, LSTor)"
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Loi fédérale sur le commerce des biens utilisés pour la torture (Loi sur les biens utilisés pour la torture, LBT)"
 document: Projet mis en consultation
 language: fr
