@@ -4,13 +4,13 @@ number: "122.72.22"
 title: Reglement über das Verfahren zur Bewertung und Einreihung der Funktionen des Staatspersonals
 short: BEFR
 language: de
-version: 2022-07-01
-valid_until: 2023-01-31
-version_adopted: 2022-05-24
+version: 2023-02-01
+valid_until: 2025-12-31
+version_adopted: 2023-01-17
 adopted: 1991-06-11
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/7501/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7722/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Staatspersonal, Bewertung und Einreihung der Funktionen – B
 
 (BEFR)
 
-vom 11.06.1991 (Fassung in Kraft getreten am 01.07.2022)
+vom 11.06.1991 (Fassung in Kraft getreten am 01.02.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -117,7 +117,7 @@ beschliesst:
 
 **Einreihung**
 
-<sup>1</sup> Der Staatsrat beschliesst gestützt auf den Kommissionsbericht und die Stellungnahme der Delegation über die Beibehaltung oder die Änderung der Einreihung der betreffenden Funktionen oder über ihre erstmalige Einreihung. Er ändert gegebenenfalls den Beschluss vom 19. November 1990 über die Einreihung der Funktionen des Staatspersonals.
+<sup>1</sup> Der Staatsrat beschliesst gestützt auf den Kommissionsbericht und die Stellungnahme der Delegation über die Beibehaltung oder die Änderung der Einreihung der betreffenden Funktionen oder über ihre erstmalige Einreihung. Er ändert gegebenenfalls die Verordnung über die Einreihung der Funktionen des Staatspersonals.
 
 <sup>2</sup> Die Kommission macht eine Aufstellung der Bewertungsergebnisse mit Angabe der Punkte, die in den einzelnen Bereichen in den betreffenden Funktionen erzielt wurden, sowie mit einem Kurzbeschrieb der Anforderungen und Belastungen im intellektuellen, psychosozialen und physischen Bereich sowie im Bereich der Verantwortung.
 
@@ -127,7 +127,7 @@ beschliesst:
 
 **Antrag auf formellen Entscheid**
 
-<sup>1</sup> Die Mitarbeiter oder gegebenenfalls Berufsverbände (die Antragstellenden), die die Einreihung ihrer Funktion beziehungsweise der Funktion ihrer Mitglieder anfechten wollen, müssen beim Staatsrat beantragen, dass er einen formellen Entscheid darüber fällt, ob der Beschluss über die Einreihung der Funktionen auf sie angewendet wird.
+<sup>1</sup> Die Mitarbeiter oder gegebenenfalls Berufsverbände (die Antragstellenden), welche die Einreihung ihrer Funktion beziehungsweise der Funktion ihrer Mitglieder anfechten wollen, müssen beim Staatsrat beantragen, dass er einen formellen Entscheid darüber fällt, ob die Verordnung über die Einreihung der Funktionen auf sie angewendet wird.
 
 <sup>2</sup> Bevor der Staatsrat seinen Entscheid trifft, teilt er den Antrag der Kommission mit. Er weist sie an, die Einsichtnahme ins Dossier an ihrem Sitz zu organisieren und den Antragstellenden bei Bedarf weitere Auskünfte zu erteilen.
 

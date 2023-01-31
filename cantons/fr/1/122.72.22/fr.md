@@ -4,13 +4,13 @@ number: "122.72.22"
 title: "Règlement relatif à la procédure d'évaluation et de classification des fonctions du personnel de l'Etat"
 short: RECF
 language: fr
-version: 2022-07-01
-valid_until: 2023-01-31
-version_adopted: 2022-05-24
+version: 2023-02-01
+valid_until: 2025-12-31
+version_adopted: 2023-01-17
 adopted: 1991-06-11
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7501/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7722/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Personnel de l'Etat, évaluation et classification des fonctions – R
 
 (RECF)
 
-du 11.06.1991 (version entrée en vigueur le 01.07.2022)
+du 11.06.1991 (version entrée en vigueur le 01.02.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -117,7 +117,7 @@ Arrête:
 
 **Classification**
 
-<sup>1</sup> Sur la base du rapport de la Commission et du préavis de la DCE, le Conseil d'Etat décide du maintien, de la modification ou de la création de la classification de la ou des fonctions concernées. Le cas échéant, il modifie l'arrêté du 19 novembre 1990 concernant la classification des fonctions du personnel de l'Etat.
+<sup>1</sup> Sur la base du rapport de la Commission et du préavis de la DCE, le Conseil d'Etat décide du maintien, de la modification ou de la création de la classification de la ou des fonctions concernées. Le cas échéant, il modifie l'ordonnance relative à la classification des fonctions du personnel de l'Etat.
 
 <sup>2</sup> La Commission constitue un répertoire des résultats de l'évaluation, qui contient les points obtenus par domaine et par fonction concernée, ainsi qu'un bref descriptif des exigences et des inconvénients dans les domaines intellectuel, psychosocial et physique et dans le domaine de la responsabilité.
 
@@ -127,7 +127,7 @@ Arrête:
 
 **Requête de décision formelle**
 
-<sup>1</sup> Le collaborateur ou, le cas échéant, une association professionnelle (ci-après: le requérant) qui veut contester la classification de sa fonction ou de la fonction de ses membres doit requérir du Conseil d'Etat une décision formelle d'application, à son égard, de l'arrêté du 19 novembre 1990 concernant la classification des fonctions du personnel de l'Etat.
+<sup>1</sup> Le collaborateur ou, le cas échéant, une association professionnelle (ci-après: le requérant) qui veut contester la classification de sa fonction ou de la fonction de ses membres doit requérir du Conseil d'Etat une décision formelle d'application, à son égard, de l'ordonnance relative à la classification des fonctions du personnel de l'Etat.
 
 <sup>2</sup> Avant de rendre sa décision, le Conseil d'Etat communique la requête de décision à la Commission. Il lui enjoint d'organiser la consultation du dossier à son siège et, si nécessaire, de fournir au requérant des renseignements complémentaires.
 
