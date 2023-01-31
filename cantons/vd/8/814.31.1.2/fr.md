@@ -4,7 +4,7 @@ number: "814.31.1.2"
 title: RÈGLEMENT du 04.03.2009 sur l’entretien des installations particulières d’épuration des eaux usées ménagères et des installations de prétraitement industrielles (RIEEU)
 short: RIEEU
 language: fr
-version: 2009-03-01
+version: 2023-02-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/814.31.1.2?id=cd76726f-a593-4e37-b938-b4d64fe0dfc4"
 ---
 
@@ -182,12 +182,13 @@ arrête
 
 <sup>2</sup> Les entreprises de vidange doivent remplir les conditions suivantes :
 
-- a. Etre au bénéfice d'une licence de transporteur au sens de l'ordonnance sur la licence d'entreprise de transport de voyageurs et de marchandises par route [^16-1] .
-- b. Disposer d'au moins un camion vidangeur aménagé conformément à la législation en vigueur.
+- a. ...
+- b. ...
+- bbis. Disposer de véhicule vidangeur motorisé aménagé conformément à l'état de la technique.
 - c. Etre titulaire d'une assurance en responsabilité civile d'au moins 5 millions de francs.
-- d. Disposer de personnel convenablement formé. A défaut, le personnel peut être astreint par le département à des cours de formation. Les conducteurs doivent être en possession d'un certificat ADR (Accord européen relatif au transport international des marchandises dangereuses par route [^16-2] ) qui mentionne les classes des marchandises dangereuses qu'ils peuvent transporter et d'une attestation de suivi du cours de perfectionnement organisé par l'Association suisse des transports routiers (ASTAG).
+- d. Disposer de personnel convenablement formé. A défaut, le personnel peut être astreint par le département à des cours de formation. Les conducteurs doivent être en possession d'un certificat ADR (Accord européen relatif au transport international des marchandises dangereuses par route [^16-1] ) qui mentionne les classes des marchandises dangereuses qu'ils peuvent transporter et d'une attestation de suivi du cours de perfectionnement organisé par l'Association suisse des transports routiers (ASTAG).
 - e. Respecter les prescriptions de vidange découlant des normes et directives professionnelles, ainsi que des règles de l'art.
-- f. Acheminer les résidus de vidange dans des entreprises d'élimination autorisées par le département au sens de l'ordonnance sur les mouvements de déchets [^16-3] .
+- f. Acheminer les résidus de vidange dans des entreprises d'élimination autorisées par le département au sens de l'ordonnance sur les mouvements de déchets [^16-2] .
 - g. Transmettre au département une copie des contrats de vidange conclus avec les détenteurs de séparateurs. Le cas échéant, le département est informé de toutes les mutations intervenues.
 - h. Aviser le département des empêchements de vidanger ou des défectuosités dont les séparateurs pourraient faire l'objet, ainsi que de toute inobservation des prescriptions légales en matière d'épuration des eaux usées.
 - i. Tenir à jour, pour chaque installation, un registre des interventions, avec notamment la consignation des dates auxquelles les vidanges ont été effectuées. Le registre est présenté aux autorités à la requête de celles-ci.
@@ -195,9 +196,8 @@ arrête
 <sup>3</sup> Les entreprises de vidange qui satisfont à ces conditions s'annoncent au département, qui tient une liste à jour.
 
 [^15-1]: Modif. 1 du 07.12.2022: Abrogation Al. 2, a-b; entrée en vigueur au 01.02.2023; Introduction Al. 2, bbis; entrée en vigueur au 01.02.2023
-[^16-1]: Ordonnance du 01.11.2000 sur l'admission des transporteurs de voyageurs et de marchandises par route (RS 744.103)
-[^16-2]: Accord européen du 30.09.1957 relatif au transport international des marchandises dangereuses par route (RS 0.741.621)
-[^16-3]: Ordonnance du 22.06.2005 sur les mouvements de déchets (RS 814.610)
+[^16-1]: Accord européen du 30.09.1957 relatif au transport international des marchandises dangereuses par route (RS 0.741.621)
+[^16-2]: Ordonnance du 22.06.2005 sur les mouvements de déchets (RS 814.610)
 
 #### Art. 17
 
