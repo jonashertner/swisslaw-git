@@ -4,10 +4,10 @@ number: "172.110.6"
 title: Organisationsverordnung der Bildungsdirektion (OV BI)
 short: OV BI
 language: de
-nachtrag: "96"
-valid_until: 2023-02-01
+nachtrag: "120"
+valid_until: 2025-11-01
 adopted: 2022-09-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_6-2017_01_25-2017_01_01-096.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_6-2022_09_14-2023_02_01-120.html"
 text: pdf
 ---
 
@@ -15,23 +15,25 @@ text: pdf
 
 # Organisationsverordnung der Bildungsdirektion (OV BI)
 
-(vom 25. Januar 2017)[^t-1],[^t-2]
+(vom 14. September 2022)[^t-1],[^t-2]
 
 Die Bildungsdirektion,
 
-gestützt auf § 60 Abs. 1 der Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung (VOG RR) vom 18. Juli 2007[^t-3],
+gestützt auf § 60 Abs. 1 der Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung vom 18. Juli 2007 (VOG RR)[^t-3],
 
 verfügt:
 
-- 1\. Geltungsbereich
+[^t-1]: OS 78, 2; Begründung siehe ABl 2022-11-18.
+[^t-2]: Inkrafttreten: 1. Februar 2023.
+[^t-3]: LS 172.11.
 
-§ 1. Diese Verordnung regelt die Grundsätze der Organisation und der Geschäftsordnung der Bildungsdirektion (Direktion).
+### 1. Abschnitt: Gliederung
 
-- 2\. Gliederung
+#### § 1
 
 **Verwaltungseinheiten der Direktion**
 
-§ 2. Die Direktion besteht aus den folgenden Verwaltungseinheiten:
+<sup>1</sup> Die Direktion besteht aus folgenden Verwaltungseinheiten:
 
 - a. Generalsekretariat (GS),
 
@@ -45,35 +47,33 @@ verfügt:
 
 - f. Lehrmittelverlag (LMV).
 
-[^t-1]: OS 72, 127; Begründung siehe ABl 2017-02-17.
-[^t-2]: Inkrafttreten: 1. Januar 2017.
-[^t-3]: LS 172.11.
+<sup>2</sup> Die Verwaltungseinheiten gemäss Abs. 1 lit. b–f bilden die Verwaltungseinheiten mit Amtsstruktur.
 
-#### § 3
+#### § 2
 
 **Administrativ angegliederter Bereich**
 
 <sup>1</sup> Die Fachstelle für Schulbeurteilung (FSB) ist der Direktion administrativ angegliedert.
 
-<sup>2</sup> Für sie gilt die Verordnung sinngemäss, wo dies mit deren Funktion und deren Aufgaben vereinbar ist.
+<sup>2</sup> Für sie gilt die Verordnung sinngemäss, wo dies mit deren Funktion und Aufgaben vereinbar ist.
 
-**1**
-
-- 1\. 4. 17 - 96
-
-- 3\. Organisation
+### 2. Abschnitt: Organisation
 
 ### A. Direktionsvorsteherin oder Direktionsvorsteher
 
-#### § 4
+#### § 3
 
 **Stellung und Aufgaben**
 
 <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher trägt die oberste Verantwortung für die Führung und Steuerung der Direktion und deren Aufgabenerfüllung.
 
+**1**
+
+- 1\. 4. 23 - 120
+
 <sup>2</sup> Sie oder er a. stellt die Umsetzung der Legislaturziele des Regierungsrates in der Direktion sicher,
 
-- b. legt die Legislaturziele der Direktion sowie die Aufgaben- und Finanzplanung der Direktion fest,
+- b. legt die Legislaturziele der Direktion sowie die Entwicklungs- und Finanzplanung der Direktion fest,
 
 - c. weist den Verwaltungseinheiten Aufgaben und Kompetenzen zu,
 
@@ -81,7 +81,7 @@ verfügt:
 
 - e. nimmt die Planung der Verwaltungseinheiten zur Kenntnis,
 
-- f. beaufsichtigt die Verwaltungseinheiten und die administrativ angegliederten Bereiche,
+- f. beaufsichtigt die Verwaltungseinheiten und den administrativ angegliederten Bereich,
 
 - g. gewährleistet die Vollzugs- und Rechtspflegeaufgaben der Direktion,
 
@@ -93,7 +93,7 @@ verfügt:
 
 ### B. Generalsekretariat
 
-#### § 5
+#### § 4
 
 **Aufgaben und Aufbau**
 
@@ -107,31 +107,29 @@ verfügt:
 
 - d. vertritt die Direktion in den Koordinationsorganen der Direktionen nach §§ 68 ff. VOG RR, Stiftungen, Kommissionen, Arbeitsgruppen, soweit die Vertretung nicht durch die Direktionsvorsteherin oder den Direktionsvorsteher oder Mitarbeitende einer Verwaltungseinheit mit Amtsstruktur wahrgenommen wird,
 
-- e. leitet die direktionsinternen Koordinationsgremien in den Querschnittbereichen,
+- e. führt die Geschäfts- und Fristenkontrolle für die Direktionsgeschäfte,
 
-- f. führt die Geschäfts- und Fristenkontrolle für die Direktionsgeschäfte,
+- f. sorgt für den einheitlichen Vollzug des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007 (IDG)[^4-1] auf Stufe Direktion,
 
-- g. sorgt für den einheitlichen Vollzug des Gesetzes über die Information und den Datenschutz (IDG) vom 12. Februar 2007[^5-1] auf Stufe Direktion.
+- g. nimmt die Rechtspflegefunktion der Direktion wahr.
 
-<sup>3</sup> Das Generalsekretariat besteht aus den folgenden Organisationseinheiten und Geschäftsbereichen:
+<sup>3</sup> Das Generalsekretariat besteht aus den folgenden Organisationseinheiten:
 
 - a. Bildungsplanung (BP),
 
-- b. Finanzen und Bauten (FB),
+- b. Finanzen und Informatik (F&I),
 
-- c. Personaldienst (PD),
+- c. Personal und Dienste (P&D),
 
-- d. Rechtsdienst (RD),
+- d. Fach- und Rechtsdienst (F&R),
 
-- e. BI Kommunikation (KOM),
+- e. Politische Planung und Kommunikation (PPKomm),
 
-- f. Zentrale Dienste (ZD),
+- f. Bauten (Bau).
 
-- g. BI Informatik (BII).
+[^4-1]: LS 170.4.
 
-[^5-1]: LS 170.4.
-
-#### § 6
+#### § 5
 
 **Generalsekretärin oder Generalsekretär**
 
@@ -139,7 +137,7 @@ verfügt:
 
 <sup>2</sup> Sie oder er a. leitet das Generalsekretariat,
 
-- b. informiert die Mitarbeitenden der Direktion und die Verwaltungseinheiten zusammen mit der BI Kommunikation über Belange der Direktion,
+- b. informiert die Mitarbeitenden der Direktion und die Verwaltungseinheiten zusammen mit der PPKomm über Belange der Direktion,
 
 - c. koordiniert die Zusammenarbeit unter den Verwaltungseinheiten der Direktion und mit den anderen Direktionen und der Staatskanzlei,
 
@@ -151,10 +149,6 @@ verfügt:
 
 - b. Regelung der Geschäftsverwaltung,
 
-**3**
-
-- 1\. 4. 17 - 96
-
 - c. Regelung organisatorischer Belange und Festlegung von Prozessen,
 
 - d. Qualitätsmanagement,
@@ -163,121 +157,167 @@ verfügt:
 
 <sup>4</sup> Sie oder er kann im Einvernehmen mit der Direktionsvorsteherin oder dem Direktionsvorsteher bestimmte Aufgaben an ihre oder seine Stellvertretung sowie andere Mitarbeitende des Generalsekretariats zur selbstständigen Erledigung übertragen.
 
-#### § 7
+**3**
+
+- 1\. 4. 23 - 120 § 6. Die Organisationseinheit Bildungsplanung nimmt insbesondere folgende Aufgaben wahr:
 
 **Bildungsplanung**
 
-Die Bildungsplanung nimmt insbesondere folgende Aufgaben wahr:
+- a. Bildungsstatistik, insbesondere Erhebung, Bearbeitung und Veröffentlichung von Bildungsdaten des Kantons Zürich,
 
-- a. Bildungsstatistik, namentlich Erhebung, Bearbeitung und Veröffentlichung von Bildungsdaten des Kantons Zürich,
+- b. Bildungsmonitoring, insbesondere
 
-- b. Bildungsmonitoring, namentlich Auswertung von Bildungsdaten, Überprüfung der Leistungen und Wirkungen des Bildungswesens sowie Beschreibung von künftigen Handlungsfeldern,
+- 1\. Auswertung von Bildungsdaten,
 
-- c. Koordination und Vorbereitung der interkantonalen Geschäfte im Rahmen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) sowie ihrer regionalen Konferenzen,
+- 2\. Durchführung von Systemanalysen,
 
-- d. Unterstützung bei besonderen, die Verwaltungseinheiten und Direktionen übergreifenden Aufgaben und Themen von Schulen und deren Umfeld,
+- 3\. Vergabe und Begleitung von Evaluationen,
 
-- e. Durchführung der die Verwaltungseinheiten und die Bereiche übergreifenden Projekte im Auftrag der Direktion.
+- 4\. Koordination von Forschungsanfragen,
+
+- 5\. Bereitstellen von Indikatoren für die finanzielle, personelle und schulraumbezogene Planung,
+
+- 6\. Beschreibung von künftigen Handlungsfeldern,
+
+- c. Umsetzung der Digitalisierungsstrategie der Direktion im Bereich Bildungsdaten,
+
+- d. Unterstützung der Direktion und der Verwaltungseinheiten mit Amtsstruktur bei besonderen Projekten.
+
+#### § 7
+
+**Finanzen und Informatik**
+
+<sup>1</sup> Die Organisationseinheit Finanzen und Informatik nimmt insbesondere folgende Aufgaben wahr:
+
+- a. Durchführung und Koordination der Prozesse gemäss Gesetz über Controlling und Rechnungslegung vom 9. Januar 2006[^7-1], einschliesslich Mittel- und Investitionsplanung auf Direktionsstufe,
+
+- b. fachliche Beratung bei Finanzfragen sowie finanzrechtliche Vorprüfung der Direktionsgeschäfte,
+
+- c. Durchführung des Controllings im Generalsekretariat sowie Abwicklung des Rechnungswesens für einzelne Verwaltungseinheiten,
+
+- d. Koordination und Weiterentwicklung der Informationssicherheit sowie des internen Kontrollsystems (IKS), einschliesslich Risikomanagement und Compliance auf Direktionsstufe,
+
+- e. Interessenvertretung bei der Informatik-Grundversorgung und Erbringung der mit den Verwaltungseinheiten abgestimmten Fachapplikationsleistungen,
+
+- f. Organisation der Informatikprozesse innerhalb der Direktion und zum Amt für Informatik,
+
+- g. Koordination und Unterstützung der digitalen Transformation in der Direktion,
+
+- h. Mitwirken in kantonalen oder direktionalen Gremien sowie bei Finanz- und Informatikprojekten.
+
+<sup>2</sup> Sie kann für die Aufgabenerfüllung den Verwaltungseinheiten Aufträge mit Erledigungsvorgaben erteilen.
+
+[^7-1]: LS 611.
+[^7-2]: LS 177.111.
 
 #### § 8
 
-**Finanzen und Bauten**
+**Personal und Dienste a. im Allgemeinen**
 
-<sup>1</sup> Die Finanzen und Bauten nehmen insbesondere folgende Aufgaben wahr:
-
-- a. Durchführung und Koordination der Prozesse gemäss Gesetz über Controlling und Rechnungslegung (CRG) vom 9. Januar 2006[^8-1], einschliesslich Mittel- und Investitionsplanung auf Direktionsstufe,
-
-- b. Abwicklung des Rechnungswesens für einzelne Verwaltungseinheiten und fachliche Beratung im Finanzwesen,
-
-- c. Durchführung des Direktionscontrollings und des Controllings des Generalsekretariats,
-
-- d. Koordination des Internen Kontrollsystems (IKS), einschliesslich Compliance auf Direktionsstufe,
-
-- e. Koordination der Prozesse gemäss Immobilienverordnung (ImV) vom 24. Januar 2007[^8-2] und fachliche Beratung der Verwaltungseinheiten im Bauwesen, einschliesslich Anlage- und Projektbuchhaltung.
-
-<sup>2</sup> Sie können für die Aufgabenerfüllung den Verwaltungseinheiten Aufträge mit Erledigungsvorgaben erteilen.
-
-[^8-1]: LS 611.
-[^8-2]: LS 721.1.
-[^8-3]: LS 177.111.
-
-#### § 9
-
-**Personaldienst a. Aufgaben im Allgemeinen**
-
-Der Personaldienst nimmt die ihm gemäss § 152 der Vollzugsverordnung zum Personalgesetz (VVO) vom 19. Mai 1999[^8-3] zugewiesenen und weitere Aufgaben wahr, insbesondere:
+Die Organisationseinheit Personal und Dienste nimmt die ihr gemäss § 152 Abs. 2 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999[^7-2] zugewiesenen und weitere Aufgaben wahr, insbesondere:
 
 - a. Entwicklung und Umsetzung der Personalmanagementstrategie der Direktion,
 
-- b. Bearbeitung von personalrechtlichen und personalpolitischen Fragestellungen für die Direktion,
+- b. Koordination der Personalgeschäfte zusammen mit den Verwaltungseinheiten mit Amtsstruktur und von deren Personaldiensten,
 
-- c. Entwicklung und Umsetzung von Personalentwicklungsmassnahmen,
+- c. Beratung und Unterstützung der Verwaltungseinheiten und des administrativ angegliederten Bereichs in personellen Fragen,
 
-- d. Sicherstellung des einheitlichen Vollzugs des Personalrechts innerhalb der Direktion,
+- d. Bearbeitung von personalrechtlichen und personalpolitischen Fragestellungen für die Direktion und Vertretung der Direktion in Personalrechtsstreitigkeiten,
 
-- e. Personalcontrolling, einschliesslich Überwachung der Stellenpläne sowie der Lohnentwicklung,
+- e. Sicherstellung des einheitlichen Vollzugs des Personalrechts innerhalb der Direktion,
 
-- f. Personaladministration der Direktion,
+- f. Personalcontrolling, einschliesslich Überwachung der Stellenpläne sowie der Lohnentwicklung,
 
-- g. Beratung und Unterstützung der Führungsverantwortlichen bei personalrechtlichen Fragen und Vertretung der Direktion bei Personalrechtsstreitigkeiten,
+- g. Entwicklung und Umsetzung von Personalentwicklungsmassnahmen,
 
 - h. Sicherstellen der Verbindung zwischen der Direktion und dem Personalamt,
 
-- i. Koordination des Internen Kontrollsystems (IKS) in Personalprozessen.
+- i. Koordination des IKS in Personalprozessen,
 
-#### § 10
+- j. Personaladministration der Direktion,
 
-**b. Personalrechtliche Entscheide**
+- k. Bereitstellung und Bewirtschaftung von Büro- und Betriebsräumlichkeiten sowie weiterer Infrastruktur für das Generalsekretariat.
 
-<sup>1</sup> Die oder der Personalbeauftragte erledigt Personalgeschäfte von Mitarbeitenden der Direktion, die gemäss Personalrecht zwingend einen Entscheid der Direktion erfordern. Vorbehalten bleibt die Zuständigkeit a. der Direktionsvorsteherin oder des Direktionsvorstehers für die ihr oder ihm direkt Unterstellten,
+#### § 9
+
+**b. personalrechtliche Entscheide**
+
+<sup>1</sup> Die Leiterin oder der Leiter der Organisationseinheit Personal und Dienste erledigt Personalgeschäfte von Mitarbeiterinnen oder Mitarbeitern der Direktion. Vorbehalten bleibt die Zuständigkeit a. der Direktionsvorsteherin oder des Direktionsvorstehers für die ihr oder ihm direkt Unterstellten,
 
 - b. der Generalsekretärin oder des Generalsekretärs für die ihr oder ihm direkt unterstellten Mitarbeitenden des Generalsekretariats,
 
-- c. der Verwaltungseinheiten, soweit sie an diese delegiert ist (§ 66 lit. b VOG RR in Verbindung mit Anhang 3).
+- c. der Verwaltungseinheiten, soweit sie gestützt auf § 66 Abs. 1 lit. b in Verbindung mit Anhang 3 VOG RR an diese delegiert ist.
 
-<sup>2</sup> Die oder der Personalbeauftragte entscheidet auf Antrag oder nach Rücksprache mit der Leiterin oder dem Leiter einer Verwaltungseinheit. Bei wichtigen Personalgeschäften von Mitarbeitenden in Schlüsselpositionen nimmt sie oder er Rücksprache mit der Generalsekretärin oder dem Generalsekretär.
+<sup>2</sup> Die Leiterin oder der Leiter der Organisationseinheit Personal und Dienste entscheidet auf Antrag oder nach Rücksprache mit der Leiterin oder dem Leiter einer Verwaltungseinheit. Bei wichtigen Personalgeschäften von Mitarbeiterinnen und Mitarbeitern in Schlüsselpositionen nimmt sie oder er Rücksprache mit der Generalsekretärin oder dem Generalsekretär.
 
 **5**
 
-- 1\. 4. 17 - 96 § 11. Der Rechtsdienst nimmt insbesondere folgende Aufgaben wahr:
+- 1\. 4. 23 - 120 § 10. Die Organisationseinheit Fach- und Rechtsdienst nimmt insbesondere folgende Aufgaben wahr:
 
-**Rechtsdienst**
+**Fach- und Rechtsdienst a. im Allgemeinen**
 
-- a. Rechtspflege namens der Direktion (Rechtsmitteldienst),
+- a. formelle und materielle Vorprüfung der Direktionsgeschäfte, soweit sie keiner anderen Organisationseinheit zugewiesen sind,
 
-- b. juristische und fachliche Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers sowie der Verwaltungseinheiten.
+- b. systematische Beobachtung der rechtlichen und politischen Entwicklungen, soweit sie die Direktion betreffen,
+
+- c. juristische und fachliche Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers sowie der Verwaltungseinheiten,
+
+- d. Rechtspflege namens der Direktion.
+
+#### § 11
+
+**b. Rekursabteilung**
+
+Die Rekursabteilung erlässt zu den in ihren Zuständigkeitsbereich fallenden Geschäften die verfahrensleitenden Anordnungen und Entscheide im Namen der Direktion.
 
 #### § 12
 
-**BI Kommunikation**
+**Politische Planung und Kommunikation a. im Allgemeinen**
 
-Die BI Kommunikation nimmt insbesondere folgende Aufgaben wahr:
+Die Organisationseinheit Politische Planung und Kommunikation behandelt insbesondere politische, direktionsübergreifende und interkantonale Themen, welche die Direktion betreffen, und sorgt für die Planung und Koordination sowie die Information innerhalb der Direktion. Sie nimmt insbesondere folgende Aufgaben wahr:
 
-- a. Planung, Umsetzung und Weiterentwicklung der internen und externen Kommunikation der Bildungsdirektion unter Vorgabe der Direktionsvorsteherin oder des Direktionsvorstehers und in Zusammenarbeit mit den Verwaltungseinheiten sowie der Kommunikationsabteilung des Regierungsrates,
+- a. Koordination und Bearbeitung von amts- und direktionsübergreifenden Geschäften mit besonderer bildungspolitischer Bedeutung,
 
-- b. Beratung in Kommunikationsfragen und -strategien,
+- b. Bearbeiten und Durchführung der Legislaturplanung,
 
-- c. Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers bei öffentlichen Auftritten.
+- c. Vorbereitung der Regierungsratssitzung,
+
+- d. Führen des Aktuariats des Bildungsrates,
+
+- e. Führen der Koordinationsstelle für Geschäfte der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK),
+
+- f. Bearbeitung und Koordination der interkantonalen Geschäfte im Rahmen der EDK sowie ihrer regionalen Konferenzen, einschliesslich der Vorbereitung zuhanden der Direktionsvorsteherin oder des Direktionsvorstehers,
+
+- g. Vertretung des Kantons Zürich in der Konferenz der Departementssekretäre sowie in der Departementssekretäre-Konferenz der Ostschweizer Kantone und des Fürstentums Liechtenstein.
 
 #### § 13
 
-**Zentrale Dienste**
+**b. Kommunikation**
 
-Die Zentralen Dienste nehmen insbesondere folgende Aufgaben wahr:
+Die Abteilung Kommunikation ist insbesondere zuständig für die a. Planung, Umsetzung und Weiterentwicklung der internen und externen Kommunikation der Direktion nach Vorgabe der Direktionsvorsteherin oder des Direktionsvorstehers und in Zusammenarbeit mit den Verwaltungseinheiten sowie der Kommunikationsabteilung des Regierungsrates,
 
-- a. Bereitstellung und Bewirtschaftung von Büro- und Betriebsräumlichkeiten sowie weiterer Infrastruktur für das Generalsekretariat,
+- b. Planung, Umsetzung und Weiterentwicklung der digitalen Kommunikationskanäle im ZHweb, Intranet und in den sozialen Medien,
 
-- b. fachliche Beratung der Verwaltungseinheiten und Controlling im Beschaffungswesen.
+- c. Beratung in Kommunikationsfragen und -strategien,
+
+- d. Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers bei öffentlichen Auftritten.
+
+[^13-1]: LS 721.2.
+[^13-2]: LS 415.117.
 
 #### § 14
 
-**BI Informatik**
+**Bauten**
 
-Die BI Informatik nimmt insbesondere folgende Aufgaben wahr:
+Die Organisationseinheit Bauten nimmt die Aufgaben gemäss Immobilienverordnung vom 20. Juni 2018[^13-1] und der Immobilienverordnung der Universität Zürich vom 20. Juni 2018[^13-2] wahr. Dazu gehört insbesondere die a. Vertretung der Direktion und die Koordination in allen immobilienrelevanten Aufgaben und Anliegen,
 
-- a. Entwicklung und Umsetzung der Informatikstrategie der Direktion sowie Erbringung und Vermittlung der mit den Verwaltungseinheiten vereinbarten Informatikdienstleistungen,
+- b. Vertretung des Mittelschul- und Berufsbildungsamtes in der kurz-, mittel- und langfristigen Raum- und Infrastrukturplanung,
 
-- b. Erbringung von Informatikdienstleistungen für die kantonale Verwaltung gemäss den Leistungsvereinbarungen zwischen der direktionsübergreifenden kantonalen IT und der Direktion.
+- c. Vertretung des Hochschulamtes in der kurz, mittel- und langfristigen Raum- und Infrastrukturplanung der Fachhochschulen,
+
+- d. Planung und Umsetzung des gesetzeskonformen Betriebs einschliesslich der Instandhaltung der Immobilien und aller dazu gehörenden Anlagen und Einrichtungen,
+
+- e. Verantwortung für die Investitionsmittel für Immobilien im Bereich der Universität Zürich.
 
 ### C. Verwaltungseinheiten mit Amtsstruktur
 
@@ -285,7 +325,7 @@ Die BI Informatik nimmt insbesondere folgende Aufgaben wahr:
 
 **Zuständigkeitsbereiche und Aufgaben**
 
-Die Verwaltungseinheiten a. bearbeiten die ihnen von der Rechtsordnung zugewiesenen Aufgabenbereiche,
+Die Verwaltungseinheiten mit Amtsstruktur a. bearbeiten die ihnen von der Rechtsordnung zugewiesenen Aufgabenbereiche,
 
 - b. erledigen Aufträge der Direktionsvorsteherin oder des Direktionsvorstehers,
 
@@ -295,19 +335,23 @@ Die Verwaltungseinheiten a. bearbeiten die ihnen von der Rechtsordnung zugewiese
 
 #### § 16
 
-**Leiterinnen oder Leiter**
+**Leiterinnen und Leiter**
 
-<sup>1</sup> Die Leiterin oder der Leiter einer Verwaltungseinheit trägt die Verantwortung für deren Führung und Steuerung sowie deren Aufgabenerfüllung.
+<sup>1</sup> Die Leiterin oder der Leiter einer Verwaltungseinheit mit Amtsstruktur trägt die Verantwortung für deren Führung und Steuerung sowie deren Aufgabenerfüllung.
 
 <sup>2</sup> Sie oder er nimmt dazu insbesondere folgende Aufgaben wahr:
 
-- a. Umsetzung der Legislaturziele des Regierungsrates und der Direktion in der Verwaltungseinheit,
+- a. Umsetzung der Legislaturziele des Regierungsrates und der Direktion,
 
-- b. Festlegung der Ziele und Planung der Verwaltungseinheit,
+- b. Festlegung der Ziele und Planung,
+
+**7**
+
+- 1\. 4. 23 - 120
 
 - c. Steuerung der Aufgabenerfüllung mit den von der Rechtsordnung vorgesehenen und der Direktion zur Verfügung gestellten Führungsinstrumenten,
 
-- d. Regelung der Geschäftsverwaltung der Verwaltungseinheit,
+- d. Regelung der Geschäftsverwaltung,
 
 - e. Führung der ihr oder ihm direkt Unterstellten.
 
@@ -315,61 +359,29 @@ Die Verwaltungseinheiten a. bearbeiten die ihnen von der Rechtsordnung zugewiese
 
 **Organisationsreglement**
 
-<sup>1</sup> Die Leiterin oder der Leiter erlässt ein Organisationsreglement für die Verwaltungseinheit.
+<sup>1</sup> Die Leiterin oder der Leiter erlässt ein Organisationsreglement für die Verwaltungseinheit mit Amtsstruktur.
 
 <sup>2</sup> Zwingend zu regeln und von der Direktionsvorsteherin oder dem Direktionsvorsteher zu genehmigen sind a. die Organisation,
 
-- b. die Aufgaben der Organisationseinheiten,
+- b. die Aufgaben der Abteilungen,
 
-- c. die Stellvertretung der Leiterin oder des Leiters der Verwaltungseinheit,
+- c. die Stellvertretung der Leiterin oder des Leiters,
 
 - d. die Unterstellungsverhältnisse,
 
-- e. die nach IDG[^17-1] erforderlichen Regelungen für die Verwaltungseinheit,
+- e. die nach IDG erforderlichen Regelungen,
 
-- f. besondere Zuständigkeiten bei Medienanfragen.
+- f. besondere Zuständigkeiten bei Medienanfragen,
 
-- 4\. Führung und Zusammenarbeit
-
-**Geschäftsleitung**
-
-§ 18. <sup>1</sup> Die Geschäftsleitung der Direktion setzt sich zusammen aus a. der Direktionsvorsteherin oder dem Direktionsvorsteher,
-
-- b. der Generalsekretärin oder dem Generalsekretär,
-
-- c. der stellvertretenden Generalsekretärin oder dem stellvertretenden Generalsekretär,
-
-**7**
-
-- 1\. 4. 17 - 96
-
-- d. den Leiterinnen oder Leitern der Verwaltungseinheiten mit Amtsstruktur,
-
-- e. je einer Vertretung der Bereiche Bildungsplanung, Finanzen und Bauten, Personaldienst, BI Kommunikation und Zentrale Dienste des Generalsekretariats.
-
-<sup>2</sup> Die Geschäftsleitung a. unterstützt und berät die Direktionsvorsteherin oder den Direktionsvorsteher in Fragen der Führung und Aufgabenerfüllung der Direktion,
-
-- b. behandelt Querschnittthemen, welche die Direktion betreffen,
-
-- c. sorgt für den Informationsaustausch innerhalb der Direktion.
-
-<sup>3</sup> Die Sitzungen der Geschäftsleitung finden in der Regel viermal im Jahr statt.
-
-<sup>4</sup> Einmal im Jahr wird eine Klausur zu besonderen Schwerpunktthemen durchgeführt.
-
-<sup>5</sup> Bei Bedarf werden Fachpersonen und Vertretungen weiterer Bereiche des Generalsekretariats beigezogen.
-
-[^17-1]: LS 170.4.
-
-#### § 19
+- g. Subdelegationen von Ausgabenkompetenzen gemäss § 19 Abs. 2 und die allfällige Festlegung des Betrages gemäss § 20 Abs. 2.
 
 **Rapporte**
 
-<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt mit den Leiterinnen oder Leitern der Verwaltungseinheiten mit Amtsstruktur regelmässig Rapporte durch, in der Regel monatlich. In diesen werden insbesondere folgende Inhalte thematisiert:
+- 18\. <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt mit den Leiterinnen oder Leitern der Verwaltungseinheiten mit Amtsstruktur in der Regel monatlich Rapporte durch. In diesen werden insbesondere folgende Inhalte thematisiert:
 
 - a. Führungs-, Planungs- und Steuerungsaufgaben sowie weitere Aufträge durch die Direktionsvorsteherin oder den Direktionsvorsteher,
 
-- b. Berichterstattung über die Verwaltungseinheit,
+- b. Berichterstattung über die Verwaltungseinheit mit Amtsstruktur,
 
 - c. Projektkoordination und Abstimmung bei Querschnittaufgaben,
 
@@ -381,139 +393,141 @@ Die Verwaltungseinheiten a. bearbeiten die ihnen von der Rechtsordnung zugewiese
 
 - b. die Generalsekretärin oder der Generalsekretär,
 
-- c. die Leiterin oder der Leiter der Verwaltungseinheit,
+- c. die Leiterin oder der Leiter der Verwaltungseinheit mit Amtsstruktur,
 
 - d. weitere Personen nach Bedarf und in Absprache mit der Generalsekretärin oder dem Generalsekretär.
 
-<sup>3</sup> Rapporte mit Leiterinnen und Leitern von Organisationseinheiten und Geschäftsbereichen des Generalsekretariats sowie mit der Generalsekretärin oder dem Generalsekretär finden nach Bedarf statt.
+<sup>3</sup> Rapporte mit Leiterinnen und Leitern von Organisationseinheiten des Generalsekretariats sowie mit der Generalsekretärin oder dem Generalsekretär finden nach Bedarf statt.
 
-<sup>4</sup> Traktandenliste und begleitende Unterlagen werden den Teilnehmenden von den Rapportierenden möglichst frühzeitig zur Verfügung gestellt. Sie sind dafür spätestens zwei Tage vor dem Termin der Leiterin oder dem Leiter Direktionsassistenz zur Verfügung zu stellen.
+<sup>4</sup> Traktandenliste und begleitende Unterlagen werden den Teilnehmenden von den Rapportierenden möglichst frühzeitig zur Verfügung gestellt. Sie sind dafür spätestens fünf Tage vor dem Termin dem Generalsekretariat übermittelt.
 
-<sup>5</sup> Die Rapportierenden erstellen ein Protokoll der wichtigsten Beschlüsse und eine Pendenzenliste, die sie der Leiterin oder dem Leiter Direktionsassistenz zur Verfügung stellen.
+<sup>5</sup> Die Rapportierenden erstellen ein Protokoll der wichtigsten Beschlüsse und eine Pendenzenliste, die sie dem Generalsekretariat zur Verfügung stellen.
 
-- 5\. Ausgaben
+### 3. Abschnitt: Ausgaben
 
-**Ausgabenkompetenzen**
+#### § 19
 
-§ 20. <sup>1</sup> Die Ausgabenkompetenzen der Verwaltungseinheiten sind im Anhang geregelt.
+**Ausgabenkompetenz**
 
-<sup>2</sup> In Bereichen, die nicht der Direktionsvorsteherin oder dem Direktionsvorsteher vorbehalten sind, ist die Subdelegation der Finanzkompetenz zulässig.
+<sup>1</sup> Die Ausgabenkompetenzen der Verwaltungseinheiten sind im Anhang geregelt.
+
+<sup>2</sup> In Bereichen, die nicht der Direktionsvorsteherin oder dem Direktionsvorsteher vorbehalten sind, ist die Subdelegation der Ausgabenkompetenz zulässig.
 
 <sup>3</sup> Die Subdelegation bedarf der Genehmigung durch die Generalsekretärin oder den Generalsekretär.
 
-#### § 21
+#### § 20
 
 **Formen der Ausgabenbewilligung**
 
-<sup>1</sup> Einmalige und wiederkehrende Ausgaben von Fr. 50 000 und höher werden durch Verfügung der berechtigten Person bewilligt. In den übrigen Fällen erfolgt die Ausgabenbewilligung durch Unterzeichnung des Rechnungsbelegs.
+<sup>1</sup> Einmalige und wiederkehrende Ausgaben von Fr. 50 000 und höher werden durch Verfügung der berechtigten Person bewilligt. In den übrigen Fällen kann die Ausgabenbewilligung durch Unterzeichnung des Rechnungsbelegs erfolgen.
 
-<sup>2</sup> Die Verwaltungseinheiten können einen tieferen Betrag bestimmen, ab dem eine Verfügung erstellt werden muss.
+<sup>2</sup> Die Verwaltungseinheiten mit Amtsstruktur können einen tieferen Betrag bestimmen, ab dem eine Verfügung erstellt werden muss.
 
 <sup>3</sup> Unabhängig vom Betrag werden durch Unterzeichnung des Rechnungsbelegs bewilligt:
 
 - a. Betriebsbeiträge an zu konsolidierende Einheiten,
 
-- b. Betriebsbeiträge an Konkordate gemäss Anhang 2 der Finanzcontrollingverordnung (FCV) vom 5. März 2008[^21-1],
+- b. Betriebsbeiträge an Konkordate gemäss Anhang 2 der Finanzcontrollingverordnung vom 5. März 2008 (FCV)[^20-1],
 
-- c. Beiträge an die Ausbildungskosten der Studierenden gemäss der Interkantonalen Fachhochschulvereinbarung ab 2005 (FHV)[^21-2] vom 12. Juni 2003 und der Interkantonalen Universitätsvereinbarung vom 20. Februar 1997[^21-3].
+- c. Beiträge an die Ausbildungskosten der Studierenden gemäss der Interkantonalen Fachhochschulvereinbarung ab 2005 vom 12. Juni 2003[^20-2] und der Interkantonalen Universitätsvereinbarung vom 27. Juni 2019[^20-3].
 
-[^21-1]: LS 611.2.
-[^21-2]: LS 414.12.
-[^21-3]: LS 415.17.
+[^20-1]: LS 611.2.
+[^20-2]: LS 414.12.
+[^20-3]: LS 415.17.
 
-#### § 22
+#### § 21
 
 **Vergabe**
 
-Verträge zur Umsetzung von Ausgabenbewilligungen können durch die Verwaltungseinheiten im Rahmen ihrer Ausgabenkompetenz für gebundene Ausgaben abgeschlossen werden.
+Verträge zur Umsetzung von Ausgabenbewilligungen können durch die Verwaltungseinheiten mit Amtsstruktur im Rahmen ihrer Ausgabenkompetenz für gebundene Ausgaben abgeschlossen werden.
 
 **9**
 
-- 1\. 4. 17 - 96
+- 1\. 4. 23 - 120
 
-- 6\. Unterschriftenregelung
+### 4. Abschnitt: Informationspflicht und Unterschriftenregelung
 
-**Allgemein**
+#### § 22
 
-§ 23. <sup>1</sup> Der Direktionsvorsteherin oder dem Direktionsvorsteher sind unabhängig von der Ausgabenkompetenz gemäss Anhang zur Unterschrift vorzulegen:
+<sup>1</sup> Die Organisationseinheiten und Verwaltungseinheiten mit Amtsstruktur informieren die Direktionsvorsteherin oder den Direktionsvorsteher über Angelegenheiten von grundsätzlicher Bedeutung oder grosser politischer Tragweite.
 
-- a. Korrespondenzen mit übergeordneten und gleichgestellten Behörden auf Ebene der Vorsteherin oder des Vorstehers,
+<sup>2</sup> Sie legen der Direktionsvorsteherin oder dem Direktionsvorsteher unabhängig von der Aufgabenzuteilung und der Ausgabenkompetenz gemäss Anhang zur Unterschrift vor:
+
+- a. Korrespondenzen mit übergeordneten und gleichgestellten Behörden auf Ebene der Direktionsvorsteherin oder des Direktionsvorstehers,
 
 - b. Dokumente mit brisantem oder umstrittenem politischem Inhalt,
 
 - c. Beantwortung der Korrespondenz, die an die Direktionsvorsteherin oder den Direktionsvorsteher gerichtet ist.
 
-<sup>2</sup> Verpflichtungen in Form von Verträgen sind mit Doppelunterschrift zu unterzeichnen. Die linienvorgesetzte Person unterzeichnet links, die sachverantwortliche Person rechts.
+<sup>3</sup> Verpflichtungen in Form von Verträgen sind mit Doppelunterschrift zu unterzeichnen. Die linienvorgesetzte Person unterzeichnet links, die sachverantwortliche Person rechts.
 
-#### § 24
+### 5. Abschnitt: Kommunikation
 
-**Rechtsdienst**
-
-<sup>1</sup> Die Leiterin oder der Leiter des Rechtsdienstes ist befugt, innerhalb ihres oder seines Bereiches im Namen der Direktion alle Schriftstücke zu unterzeichnen, die nicht der Direktionsvorsteherin oder dem Direktionsvorsteher vorbehalten sind. Sie oder er unterzeichnet insbesondere a. Rekursentscheide,
-
-- b. Vergleiche,
-
-- c. Stellungnahmen an höhere Instanzen (Regierungsrat, Verwaltungsgericht, Bundesgericht).
-
-<sup>2</sup> Sie oder er legt Geschäfte von grundsätzlicher Bedeutung der Generalsekretärin oder dem Generalsekretär vor. Diese oder dieser setzt sich mit der Direktionsvorsteherin oder dem Direktionsvorsteher ins Einvernehmen, wenn a. sie oder er dem vorgelegten Geschäft besondere Bedeutung zumisst,
-
-- b. strittige Fragen zu entscheiden sind,
-
-- c. eine Praxisänderung infrage steht.
-
-<sup>3</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher regelt die Unterschriftenberechtigung weiterer Mitarbeitender des Rechtsdienstes.
-
-- 7\. Kommunikation
+#### § 23
 
 **Grundsatz**
 
-§ 25. <sup>1</sup> Die Kommunikation erfolgt über Medienmitteilungen und -konferenzen, Internet und Intranet sowie weitere Publikationen und Veranstaltungen.
+<sup>1</sup> Die Kommunikation erfolgt über Medienmitteilungen und Medienkonferenzen, Internet und Intranet sowie weitere Publikationen und Veranstaltungen.
 
-<sup>2</sup> Zur Sicherstellung einer kohärenten Kommunikation kann die Leiterin oder der Leiter der BI Kommunikation den Verwaltungseinheiten Weisungen erteilen.
+<sup>2</sup> Zur Sicherstellung einer kohärenten Kommunikation kann die Leiterin oder der Leiter der Abteilung Kommunikation den Verwaltungseinheiten mit Amtsstruktur Weisungen erteilen.
 
-<sup>3</sup> Medienanfragen beantworten die Direktionsvorsteherin oder der Direktionsvorsteher, die Generalsekretärin oder der Generalsekretär, die Leiterin oder der Leiter einer Verwaltungseinheit mit Amtsstruktur sowie die Leiterin oder der Leiter Bildungsplanung, Finanzen und Bauten, die oder der Personalbeauftragte.
+<sup>3</sup> Medienanfragen beantworten a. die Direktionsvorsteherin oder der Direktionsvorsteher,
 
-<sup>4</sup> Die Verwaltungseinheiten nehmen die Öffentlichkeitsarbeit in ihrem Aufgabengebiet und ihren gesetzlichen Informationsauftrag vorbehältlich abweichender Bestimmungen in dieser Verordnung selbst wahr. Sie äussern sich insbesondere gegenüber Medien zu reinen Fachfragen in ihrem Zuständigkeitsbereich. In Zweifelsfällen nehmen sie vor der Erteilung von Auskünften an Medien und Dritte Rücksprache mit der BI Kommunikation.
+- b. die Generalsekretärin oder der Generalsekretär,
 
-<sup>5</sup> Die Auskunftsberechtigten sind für die Kommunikation sowie die gedruckten und elektronischen Kommunikationsprodukte in ihrem Verantwortungsbereich zuständig. Sie unterstützen die BI Kommunikation und die Direktionsvorsteherin oder den Direktionsvorsteher bei der Öffentlichkeitsarbeit.
+- c. die Leiterin oder der Leiter einer Verwaltungseinheit mit Amtsstruktur,
 
-<sup>6</sup> Die Verwaltungseinheiten erfüllen und regeln ihre Öffentlichkeitsarbeit nach den Vorgaben des Öffentlichkeitsprinzips sowie im Rahmen der Leitlinien des Regierungsrates.
+- d. die Leiterin oder der Leiter der Organisationseinheit Bildungsplanung,
 
-<sup>7</sup> Sie informieren die Leiterin oder den Leiter der BI Kommunikation rechtzeitig über eingegangene Medienanfragen oder anstehende Öffentlichkeitsarbeiten.
+- e. die Leiterin oder der Leiter der Organisationseinheit Finanzen und Informatik oder
 
-#### § 26
+- f. die Leiterin oder der Leiter der Organisationseinheit Personal und Dienste.
+
+<sup>4</sup> Die Verwaltungseinheiten mit Amtsstruktur nehmen die Öffentlichkeitsarbeit und ihren gesetzlichen Informationsauftrag in ihrem Aufgabengebiet vorbehältlich abweichender Bestimmungen in dieser Verordnung selbst wahr. Sie äussern sich insbesondere gegenüber Medien zu reinen Fachfragen in ihrem Zuständigkeitsbereich. In Zweifelsfällen nehmen sie vor der Erteilung von Auskünften an Medien und Dritte Rücksprache mit der Abteilung Kommunikation.
+
+<sup>5</sup> Die Auskunftsberechtigten sind für die Kommunikation sowie die gedruckten und elektronischen Kommunikationsprodukte in ihrem Verantwortungsbereich zuständig. Sie unterstützen die Direktionsvorsteherin oder den Direktionsvorsteher und die Abteilung Kommunikation bei der Öffentlichkeitsarbeit.
+
+<sup>6</sup> Die Verwaltungseinheiten mit Amtsstruktur erfüllen und regeln ihre Öffentlichkeitsarbeit nach den Vorgaben des Öffentlichkeitsprinzips sowie im Rahmen der Leitlinien des Regierungsrates.
+
+<sup>7</sup> Sie informieren die Leiterin oder den Leiter der Abteilung Kommunikation rechtzeitig über eingegangene Medienanfragen oder anstehende Öffentlichkeitsarbeiten.
+
+#### § 24
 
 **Geschäfte von besonderer Tragweite**
 
 <sup>1</sup> Für Geschäfte von besonderer Tragweite ist die Direktionsvorsteherin oder der Direktionsvorsteher zuständig.
 
-<sup>2</sup> Eine Absprache mit der BI Kommunikation ist zwingend, wenn Auskünfte a. über das eigene Fachgebiet hinausgehen oder die Direktion betreffen,
+<sup>2</sup> Eine Absprache mit der Abteilung Kommunikation ist zwingend, wenn Auskünfte a. über das eigene Fachgebiet hinausgehen oder die Direktion betreffen,
 
 - b. voraussichtlich politische Tragweite entfalten,
 
-- c. nicht eingeschätzt werden können (politische oder fachliche Bedeutung),
+- c. betreffend die politische oder fachliche Bedeutung nicht eingeschätzt werden können,
 
 - d. Interviews und grössere Publikationen betreffen,
 
 - e. in Krisensituationen erfolgen.
 
-**11**
-
-- 1\. 4. 17 - 96 § 27. Die Kommunikation mit dem Kantonsrat und den politischen Parteien erfolgt ausschliesslich über die Direktionsvorsteherin oder den Direktionsvorsteher bzw. in ihrem oder seinem Auftrag. Entsprechende Kontaktnahmen sind an die Direktionsvorsteherin oder den Direktionsvorsteher weiterzuleiten.
-
-#### § 28
+#### § 25
 
 **Kommunikation mit dem Kantonsrat und den politischen Parteien**
 
+Die Kommunikation mit dem Kantonsrat und den politischen Parteien erfolgt ausschliesslich über die Direktionsvorsteherin oder den Direktionsvorsteher oder in ihrem oder seinem Auftrag. Entsprechende Kontaktnahmen sind an die Direktionsvorsteherin oder den Direktionsvorsteher weiterzuleiten.
+
+#### § 26
+
 **Medienmitteilungen und Medienkonferenzen**
 
-<sup>1</sup> Medienmitteilungen werden durch die BI Kommunikation verfasst oder visiert. Sie werden über die Kommunikationsabteilung des Regierungsrates verbreitet.
+<sup>1</sup> Medienmitteilungen werden durch die Abteilung Kommunikation verfasst oder visiert. Sie werden über die Kommunikationsabteilung des Regierungsrates verbreitet.
 
-<sup>2</sup> Medienkonferenzen werden durch die BI Kommunikation in Zusammenarbeit mit der zuständigen Verwaltungseinheit organisiert. Die Einladung erfolgt durch die Staatskanzlei.
+**11**
+
+- 1\. 4. 23 - 120
+
+<sup>2</sup> Medienkonferenzen werden durch die Abteilung Kommunikation in Zusammenarbeit mit der zuständigen Verwaltungseinheit organisiert. Die Einladung erfolgt durch die Staatskanzlei.
 
 ### Anhang
 
-### Ausgabenkompetenzen (§ 20)
+### Ausgabenkompetenzen (§ 19)
 
 **Direktionsvorsteherin oder Direktionsvorsteher Ausgabenkompetenz bis Fr.**
 
@@ -531,17 +545,7 @@ Ausgabenbereich einmalig wiederkehrend einmalig jährlich
 
 Im Rahmen der Direktionskompetenzen (cid:2)250 000 (cid:2)100 000 und der rechtskräftig genehmigten Budget- und Nachtragskredite:
 
-Tätigung von Ausgaben, Übernahme von Verpflichtungen, Vergabe von Arbeiten und Lieferungen Einmalige gebundene oder neue (cid:2)1 Mio. – Ausgaben für Vor- und Machbar- (nur Generalkeitsstudien im Zusammenhang sekretärin mit einem Bauprojekt oder General-
-
-**(cid:2)1 Mio. –**
-
-sekretär)
-
-**– –**
-
-Gebundene wiederkehrende Ausgaben – unbegrenzt zulasten eines der im Anhang 1 FCV aufgeführten Konten Gebundene einmalige und wiederkeh- unbegrenzt unbegrenzt rende Ausgaben, sofern sie aufgrund einer der im Anhang 2 FCV aufgeführten Bestimmungen bewilligt wird
-
-**– –**
+Tätigung von Ausgaben, Übernahme von Verpflichtungen, Vergabe von Arbeiten und Lieferungen Gebundene wiederkehrende Ausgaben unbegrenzt zulasten eines der im Anhang 1 FCV[^h1Erfolgsrechnung-1] aufgeführten Konten Gebundene einmalige und wiederkeh- unbegrenzt unbegrenzt rende Ausgaben, sofern sie aufgrund einer der im Anhang 2 FCV[^h1Erfolgsrechnung-1] aufgeführten Bestimmungen bewilligt werden
 
 - 2\. Investitionsrechnung Im Rahmen der Direktionskompetenzen (cid:2)250 000 und der rechtskräftig genehmigten Budget- und Nachtragskredite:
 
@@ -555,7 +559,7 @@ bereich (nur Generalsekretärin oder Generalsekretär)
 
 **13**
 
-- 1\. 4. 17 - 96 Die Ausgabenkompetenz der Leitung der Verwaltungseinheiten erstreckt sich auch auf die zugehörigen Leistungsgruppen:
+- 1\. 4. 23 - 120 Die Ausgabenkompetenz der Leitung der Verwaltungseinheiten erstreckt sich auch auf die zugehörigen Leistungsgruppen:
 
 7001 Generalsekretariat:
 
@@ -575,8 +579,10 @@ bereich (nur Generalsekretärin oder Generalsekretär)
 
 7005 Amt für Jugend und Berufsberatung mit folgenden Leistungsgruppen:
 
-7501 Kinder- und Jugendhilfe 7502 Berufs-, Studien- und Laufbahnberatung
+7501 Kinder- und Jugendhilfe 7502 Berufsberatung und Ausbildungsbeiträge
 
 7100 Lehrmittelverlag
 
-Die selbstständigen Anstalten (Leistungsgruppen 9600, 9710, 9720 und 9740) sind von dieser Regelung ausgenommen.
+Die selbstständigen Anstalten (Leistungsgruppen Nrn. 9600, 9710, 9720 und 9740) sind von dieser Regelung ausgenommen.
+
+[^h1Erfolgsrechnung-1]: LS 611.2.
