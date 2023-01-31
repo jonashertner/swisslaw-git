@@ -4,11 +4,11 @@ title: Regolamento di esecuzione del 7 dicembre 2006 della Convenzione sul breve
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: it
-version: 2022-11-01
+version: 2023-02-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20221101/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20221101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20221101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20230201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20230201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -23,7 +23,7 @@ Traduzione
 
 Approvato dal Consiglio d’amministrazione il 7 dicembre 2006 Entrato in vigore per la Svizzera il 13 dicembre 2007
 
-(Stato 1° novembre 2022)
+(Stato 1° febbraio 2023)
 
 ## Parte prima: Disposizioni di applicazione della parte prima della Convenzione
 
@@ -578,31 +578,13 @@ Se materiale biologico depositato conformemente alla regola 31 cessa di essere a
 
 (3) In caso di mancato pagamento di una tassa di rivendicazione entro il termine, si considera che il richiedente abbia abbandonato la rivendicazione corrispondente.
 
-[^part3-chapII-lvlu5-1]: Nuovo testo giusta l’art. 1 par. 1 della Dec. del Consiglio d’amministrazione del 6 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1745](https://fedlex.data.admin.ch/eli/oc/2008/253)).
+[^part3-chapII-lvlu5-1]: Nuovo testo giusta l’art. 1 n. 1 della Dec. del Consiglio d’amministrazione del 6 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1745](https://fedlex.data.admin.ch/eli/oc/2008/253)).
 
-### **Regola 46**Forma dei disegni
+### **Regola 46**
 
-(1) La superficie utile dei fogli che contengono disegni non deve eccedere 26,2 cm × 17 cm. La superficie utile o utilizzata di questi fogli non deve essere inquadrata. I margini minimi sono i seguenti:
+[^part3-chapII-lvlu6-1]
 
-- margine superiore: 2,5 cm
-- margine sinistro: 2,5 cm
-- margine destro: 1,5 cm
-- margine inferiore: 1 cm
-
-(2) I disegni devono essere eseguiti come segue:
-
-- a) I disegni devono essere eseguiti senza colori né tinteggiature, a linee e tratti persistenti, neri, sufficientemente densi e scuri, di larghezza uniforme e con bordi ben delineati.
-- b) Le sezioni devono essere indicate con tratteggi che non ostino la lettura dei segni di riferimento o delle linee direttrici.
-- c) La scala dei disegni e l’esecuzione grafica devono essere tali che una riproduzione elettronica o fotografica con riduzione lineare ai due terzi permetta di distinguere senza sforzo tutti i dettagli. Nei casi eccezionali, in cui figura su disegno, la scala deve essere rappresentata graficamente.
-- d) Le cifre, le lettere e i segni di riferimento che figurano sui disegni devono, senza eccezioni, essere semplici e chiari. L’uso di parentesi, cerchietti o virgolette, in combinazione con cifre e lettere, non è autorizzato.
-- e) Tutte le linee dei disegni devono essere tracciate mediante strumenti da disegno.
-- f) Gli elementi di una medesima figura devono essere proporzionati gli uni agli altri, a meno che una differenza di proporzioni non sia indispensabile per la chiarezza della figura.
-- g) L’altezza delle cifre e delle lettere non deve essere inferiore a 0,32 cm. L’alfabeto latino e, se tale è la consuetudine, l’alfabeto greco, devono essere usati per le lettere che figurano sui disegni.
-- h) Un foglio di disegno può contenere più figure. Quando le figure disegnate su più fogli sono parti di una figura completa, esse devono essere presentate in modo che si possa costituire la figura completa senza che risulti occultata alcuna parte delle figure che si trovano sui diversi fogli. Le figure devono essere disposte, preferibilmente nel senso verticale, su uno o più fogli, nettamente separate le une dalle altre ma senza spreco di spazio; quando le figure non sono disposte verticalmente, esse devono essere presentate nel senso orizzontale, la parte superiore delle figure essendo posta sul lato sinistro del foglio; esse devono essere numerate progressivamente in cifre arabe, indipendentemente dalla numerazione dei fogli.
-- i) Si possono utilizzare segni di riferimento sui disegni solo se essi figurano nella descrizione e nelle rivendicazioni e viceversa. I segni di riferimento per caratteristiche devono essere identici in tutta la domanda.
-- j) I disegni non devono contenere spiegazioni. Se indispensabili per la loro intelligenza, possono essere inserite indicazioni brevi quali «acqua», «vapore», «aperto», «chiuso», «sezione AB». Queste indicazioni devono essere situate in modo che la loro eventuale traduzione possa essere incollata su di esse senza occultare linee dei disegni.
-
-(3) Gli schemi delle fasi di un processo e i diagrammi sono considerati come disegni.
+[^part3-chapII-lvlu6-1]: Abrogata dall’art. 1 n. 1 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, con effetto dal 1° feb. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 47**Forma e contenuto dell’estratto
 
@@ -628,54 +610,31 @@ Se materiale biologico depositato conformemente alla regola 31 cessa di essere a
 
 (3) Se la domanda contiene dichiarazioni di cui al paragrafo 1 lettera b), l’Ufficio europeo dei brevetti può ometterle al momento della pubblicazione della domanda, indicando il posto e il numero delle parole omesse. Su richiesta, l’Ufficio europeo dei brevetti fornisce una copia dei brani omessi.
 
-### **Regola 49**Disposizioni generali relative alla presentazione dei documenti della domanda
+### **Regola 49**Presentazione dei documenti della domanda
+
+[^part3-chapII-lvlu9-1]
+
+[^part3-chapII-lvlu9-1]: Nuovo testo giusta l’art. 1 n. 2 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° feb. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 (1) Le traduzioni presentate a norma dell’articolo 14 paragrafo 2 o della regola 40 paragrafo 3, sono considerate come documenti della domanda di brevetto europeo.
 
-(2) I documenti della domanda devono essere presentati in modo che consentano la riproduzione elettronica e diretta, in particolare mediante scansione, fotografia, procedimento elettrostatico, stampa offset e microfilm, in numero illimitato di esemplari. I fogli non devono presentare strappi né essere spiegazzati o piegati. Una sola facciata dei fogli deve essere utilizzata.
+(2) Il Presidente dell’Ufficio europeo dei brevetti stabilisce le condizioni formali per la presentazione dei documenti della domanda.[^part3-chapII-lvlu9-2]
 
-(3) I documenti della domanda devono essere presentati su carta flessibile, forte, bianca, liscia, non lucida e resistente, nel formato A4 (29,7 cm × 21 cm). Fatti salvi il paragrafo 9 e la regola 46 paragrafo 2 lettera h), ogni foglio deve essere utilizzato in modo che i lati corti si trovino in alto e in basso (senso verticale).[^part3-chapII-lvlu9-1]
+(3) a (12) ...[^part3-chapII-lvlu9-3]
 
-(4) Ogni documento della domanda (richiesta, descrizione, rivendicazioni, disegni, estratto) deve incominciare su un nuovo foglio. Tutti i fogli devono essere riuniti in modo da poter essere facilmente sfogliati, separati e nuovamente riuniti.
-
-(5) Fatta salva la regola 46 paragrafo 1, i margini minimi devono essere i seguenti:
-
-- margine superiore: 2 cm
-- margine sinistro: 2,5 cm
-- margine destro: 2 cm
-- margine inferiore: 2 cm
-
-Le dimensioni massime raccomandate per i margini di cui sopra sono le seguenti:
-
-- margine superiore: 4 cm
-- margine sinistro: 4 cm
-- margine destro: 3 cm
-- margine inferiore: 3 cm
-
-(6) Tutti i fogli della domanda devono essere numerati progressivamente in cifre arabe. I numeri dei fogli devono essere scritti in cima ai fogli, nel mezzo, ma non nel margine superiore.
-
-(7) Le righe di ogni foglio della descrizione e delle rivendicazioni devono di regola essere numerate di cinque in cinque. I numeri devono essere scritti sul lato sinistro, a destra del margine.
-
-(8) La richiesta di concessione del brevetto europeo, la descrizione, le rivendicazioni e l’estratto devono essere dattilografati o stampati. Solo i simboli e caratteri grafici, le formule chimiche o matematiche possono essere manoscritti o disegnati, ove sia necessario. Per i testi dattilografati è prescritto l’interlinea 1½. Tutti i testi devono essere scritti con caratteri le cui maiuscole siano alte almeno 0,21 cm, in colore scuro e indelebile.
-
-(9) La richiesta di concessione del brevetto europeo, la descrizione, le rivendicazioni e l’estratto non devono contenere disegni. La descrizione, le rivendicazioni e l’estratto possono contenere formule chimiche o matematiche. La descrizione e l’estratto possono contenere tabelle. Le rivendicazioni possono contenere tabelle soltanto se il loro oggetto ne fa apparire l’interesse. Le tabelle e le formule matematiche o chimiche possono essere disposte orizzontalmente sul foglio se non possono essere presentate convenientemente nel senso verticale. Le tabelle o le formule matematiche o chimiche, disposte orizzontalmente, devono essere presentate in modo che le loro parti superiori siano poste sul lato sinistro del foglio.
-
-(10) I valori devono essere espressi nelle unità degli standard internazionali e, se il caso specifico lo giustifica, nel sistema metrico utilizzando le unità del Sistema Internazionale. Inoltre, ogni indicazione che non risponda a tale esigenza dovrà essere espressa nelle unità degli standard internazionali. Si devono utilizzare soltanto termini, formule, segni e simboli tecnici generalmente accettati nel ramo.[^part3-chapII-lvlu9-2]
-
-(11) La terminologia e i segni della domanda di brevetto europeo devono essere uniformi.
-
-(12) I fogli non devono presentare cancellature oltre un limite ragionevole né contenere correzioni. Deroghe a questa regola possono essere ammesse se l’autenticità del contenuto non ne soffre e se esse non fanno ostacolo ad una buona riproduzione.
-
-[^part3-chapII-lvlu9-1]: Nuovo testo giusta l’art. 1 n. 5 della Dec. del Consiglio d’amministrazione del 21 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)).
-[^part3-chapII-lvlu9-2]: Nuovo testo giusta l’art. 1 n. 5 della Dec. del Consiglio d’amministrazione del 21 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)).
+[^part3-chapII-lvlu9-2]: Nuovo testo giusta l’art. 1 n. 3 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° feb. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part3-chapII-lvlu9-3]: Abrogati dall’art. 1 n. 4 della Dec. del Consiglio d’amministrazione del 12 ott. 2023, con effetto dal 1° feb. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 50**Documenti presentati ulteriormente
 
-(1) Le disposizioni delle regole 42, 43 e 46–49 si applicano ai documenti che sostituiscono documenti della domanda di brevetto europeo. Le disposizioni della regola 49 paragrafi 2–12, si applicano inoltre alle traduzioni delle rivendicazioni di cui alla regola 71.
+(1) Le disposizioni delle regole 42, 43 e 47–49 si applicano ai documenti che sostituiscono documenti della domanda di brevetto europeo. Le disposizioni della regola 49 paragrafo 2 si applicano inoltre alle traduzioni delle rivendicazioni di cui alla regola 71.[^part3-chapII-lvlu10-1]
 
-(2) Tutti gli altri documenti che non rientrano nella documentazione della domanda devono essere dattilografati o stampati. Un margine di circa 2,5 cm deve essere lasciato libero sul lato sinistro del foglio.
+(2) Il Presidente dell’Ufficio europeo dei brevetti stabilisce le condizioni formali per tutti gli altri documenti che non rientrano nella documentazione della domanda.[^part3-chapII-lvlu10-2]
 
 (3) Eccettuati i documenti allegati, i documenti presentati dopo il deposito della domanda devono essere firmati. Se un documento non è firmato, l’Ufficio europeo dei brevetti invita l’interessato a rimediare a questa irregolarità entro un termine da stabilire. Se il documento viene firmato entro detto termine, esso conserva la sua data di ricevimento. In caso contrario, il documento è considerato non ricevuto.
+
+[^part3-chapII-lvlu10-1]: Nuovo testo giusta l’art. 1 n. 5 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° feb. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part3-chapII-lvlu10-2]: Nuovo testo giusta l’art. 1 n. 6 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° feb. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### Capitolo III: Tasse annuali
 
@@ -761,14 +720,14 @@ Se dall’esame ai sensi dell’articolo 90 paragrafo 1 risulta che la domanda n
 
 (6) Il richiedente può ritirare le parti mancanti della descrizione o i disegni mancanti presentati, entro un mese a decorrere dalla notificazione di cui al paragrafo 2 o 5 ultimo periodo; in tal caso la data di deposito non è considerata modificata. L’Ufficio europeo dei brevetti informa il richiedente a tale proposito.
 
-[^part4-chapI-lvlu2-1]: Nuovo testo giusta l’art. 1 cpv. 1 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^part4-chapI-lvlu2-2]: Nuovo testo giusta l’art. 1 cpv. 1 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part4-chapI-lvlu2-1]: Nuovo testo giusta l’art. 1 n. 1 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part4-chapI-lvlu2-2]: Nuovo testo giusta l’art. 1 n. 1 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 56***a*Documenti della domanda o parti depositati erroneamente
 
 [^part4-chapI-lvlu3-1]
 
-[^part4-chapI-lvlu3-1]: Introdotto dall’art. 1 cpv. 2 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)).
+[^part4-chapI-lvlu3-1]: Introdotto dall’art. 1 n. 2 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)).
 
 (1) Se dall’esame ai sensi dell’articolo 90 paragrafo 1 risulta che la descrizione, le rivendicazioni o i disegni, o parti di tali documenti della domanda sono stati palesemente depositati erroneamente, l’Ufficio europeo dei brevetti invita il richiedente a presentare i documenti della domanda corretti o le parti corrette entro un termine di due mesi. Il richiedente non può prevalersi dell’omissione di un tale invito.
 
@@ -815,11 +774,11 @@ Se a una domanda di brevetto europeo è stata riconosciuta una data di deposito,
 - f) la menzione dell’inventore è stata fatta in conformità alla regola 19 paragrafo 1;
 - g) ove occorra, sono state soddisfatte le esigenze delle regole 52 e 53 relative alla rivendicazione di priorità;
 - h) ove occorra, sono state soddisfatte le condizioni dell’articolo 133 paragrafo 2;
-- i) la domanda soddisfa le condizioni previste dalla regola 46 e dalla regola 49 paragrafi 1–9 e 12*a*–12*d*[^part4-chapI-lvlu4-2];
+- i)[^part4-chapI-lvlu4-2] la domanda soddisfa le condizioni previste dalla regola 49 paragrafo 1 e le condizioni stabilite dal Presidente dell’Ufficio europeo dei brevetti in virtù della regola 49 paragrafo 2;
 - j)[^part4-chapI-lvlu4-3] la domanda soddisfa le condizioni previste dalla regola 30.
 
 [^part4-chapI-lvlu4-1]: Nuovo testo giusta l’art. 1 n. 2 della Dec. del Consiglio d’amministrazione del 25 mar. 2009, in vigore dal 1° apr. 2010 ([RU 2010 471](https://fedlex.data.admin.ch/eli/oc/2010/63)).
-[^part4-chapI-lvlu4-2]: Nuovi rimandi giusta l’art. 2 della Dec. del Consiglio d’amministrazione del 30 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2017 7193](https://fedlex.data.admin.ch/eli/oc/2017/777)).
+[^part4-chapI-lvlu4-2]: Nuovo testo giusta l’art. 1 n. 7 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° feb. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 [^part4-chapI-lvlu4-3]: Nuovo testo giusta l’art. 1 n. 7 della Dec. del Consiglio d’amministrazione del 21 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)).
 
 ### **Regola 58**Correzione di irregolarità nei documenti della domanda
@@ -890,7 +849,11 @@ Se non sono stati presentati in tempo utile il numero di deposito della domanda 
 
 ### **Regola 65**Trasmissione del rapporto di ricerca europea
 
-Subito dopo la sua redazione, il rapporto di ricerca europea è trasmesso al richiedente assieme alle copie di tutti i documenti citati.
+[^part4-chapII-lvlu6-1]
+
+[^part4-chapII-lvlu6-1]: Nuovo testo giusta l’art. 1 n. 8 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° feb. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)).
+
+Subito dopo la sua redazione, il rapporto di ricerca europea è trasmesso al richiedente. L’Ufficio europeo dei brevetti rende accessibili le copie di tutti i documenti citati.
 
 ### **Regola 66**Contenuto definitivo dell’estratto
 
@@ -1078,13 +1041,13 @@ Impregiudicata la regola 138, la descrizione, le rivendicazioni e i disegni poss
 
 (1) Prima di prendere la decisione di mantenere il brevetto europeo nella sua forma modificata, la divisione di opposizione notifica alle parti che essa intende mantenere il brevetto così modificato e le invita a presentare le loro deduzioni entro il termine di due mesi qualora non siano d’accordo su tale forma.
 
-(2) In caso di disaccordo sul testo notificato dalla divisione di opposizione, l’esame dell’opposizione può essere proseguito. Nel caso contrario, la divisione di opposizione, trascorso il termine di cui al paragrafo 1, invita il titolare del brevetto europeo a pagare entro il termine di tre mesi la tassa dovuta e a presentare una traduzione delle rivendicazioni modificate nelle due lingue dell’Ufficio europeo dei brevetti diverse da quella della procedura. Se in una procedura orale sono state prese decisioni ai sensi dell’articolo 106 paragrafo 2 o dell’articolo 111 paragrafo 2 sulla base di documenti non conformi alla regola 49 paragrafo 8, il titolare del brevetto è invitato a presentare la versione modificata entro il termine di tre mesi in una forma conforme alla regola 49 paragrafo 8.[^part5-chapI-lvlu8-1]
+(2) In caso di disaccordo sul testo notificato dalla divisione di opposizione, l’esame dell’opposizione può essere proseguito. Nel caso contrario, la divisione di opposizione, trascorso il termine di cui al paragrafo 1, invita il titolare del brevetto europeo a pagare entro il termine di tre mesi la tassa dovuta e a presentare una traduzione delle rivendicazioni modificate nelle due lingue dell’Ufficio europeo dei brevetti diverse da quella della procedura. Se in una procedura orale sono state prese decisioni ai sensi dell’articolo 106 paragrafo 2 o dell’articolo 111 paragrafo 2 sulla base di documenti non conformi alle condizioni stabilite dal Presidente dell’Ufficio europeo dei brevetti in virtù della regola 49 paragrafo 2 applicabili, il titolare del brevetto è invitato a pre-sentare la versione modificata entro il termine di tre mesi in una forma conforme a tali condizioni.[^part5-chapI-lvlu8-1]
 
 (3) Se gli atti richiesti nel paragrafo 2 non sono adempiuti entro i termini fissati, possono esserlo ancora validamente entro un termine di due mesi a decorrere dalla notificazione relativa all’inosservanza del termine previsto, sempre che sia versata nel detto termine una soprattassa. In caso contrario il brevetto è revocato.
 
 (4) Nella decisione di mantenimento del brevetto europeo nella sua forma modificata è indicato il testo sulla cui base il brevetto è stato mantenuto.
 
-[^part5-chapI-lvlu8-1]: Nuovo testo giusta l’art. 1 della Dec. del Consiglio d’amministrazione del 14 ott. 2015, in vigore dal 1° mag. 2016 ([RU 2017 2095](https://fedlex.data.admin.ch/eli/oc/2017/186)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part5-chapI-lvlu8-1]: Nuovo testo giusta l’art. 1 n. 9 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° feb. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)).Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 83**Richiesta di documenti
 
@@ -1559,7 +1522,7 @@ La notifica può essere effettuata nei locali dell’Ufficio europeo dei brevett
 
 (3) L’organo competente a statuire sull’atto omesso decide in merito alla richiesta di prosecuzione della procedura.
 
-[^part7-chapV-lvlu5-1]: Nuovo testo giusta l’art. 1 cpv. 3 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part7-chapV-lvlu5-1]: Nuovo testo giusta l’art. 1 n. 3 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 136***Restitutio in integrum*
 
@@ -2147,13 +2110,21 @@ La regola 19 del regolamento di esecuzione della CBE come modificata dall’arti
 
 La regola 143 CBE come modificata dall’articolo 1 della presente decisione entra in vigore il 1° novembre 2021. Si applica a tutte le domande di brevetto pubblicate nel Registro europeo dei brevetti a quella data o a decorrere da quella data.
 
-## Disposizioni transitorie della modifica del 7 settembre 2022
+## Disposizioni transitorie della modifica del 7 settembre 2021
 
 [^u22-1]
 
 [^u22-1]: [RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)art. 3
 
 Le nuove regole 56 (2) e (3) e 135 (2) CBE come modificate dall’articolo 1 della presente decisione e la nuova regola 56a CBE introdotta dall’articolo 1 della presente decisione sono applicabili a tutte le domande presentate a partire da tale data.
+
+## Disposizioni transitorie della modifica del 12 ottobre 2022
+
+[^u23-1]
+
+[^u23-1]: [RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)art. 3
+
+Le nuove regole 46, 49, 50, 57 e 82 come modificate dall’articolo 1 della presente decisione si applicano a tutti i documenti presentati all’Ufficio europeo dei brevetti a decorrere dal 1° febbraio 2023.
 
 Campo d’applicazione del Regolamento d’esecuzione[^t-1]
 

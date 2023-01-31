@@ -4,11 +4,11 @@ title: Ausführungsordnung vom 7. Dezember 2006 zum Europäischen Patentüberein
 short: AO EPÜ 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: de
-version: 2022-11-01
+version: 2023-02-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20221101/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20221101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20221101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20230201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20230201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Angenommen vom Verwaltungsrat am 7. Dezember 2006
 
 In Kraft getreten für die Schweiz am 13. Dezember 2007
 
-(Stand am 1. November 2022)
+(Stand am 1. Februar 2023)
 
 ## Erster Teil Ausführungsvorschriften zum Ersten Teil des Übereinkommens
 
@@ -580,34 +580,13 @@ Ist nach Regel 31 hinterlegtes biologisches Material bei der anerkannten Hinterl
 
 (3) Wird eine Anspruchsgebühr nicht rechtzeitig entrichtet, so gilt dies als Verzicht auf den entsprechenden Patentanspruch.
 
-[^part3-chapII-lvlu5-1]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 6. März 2008 ([AS 2008 1745](https://fedlex.data.admin.ch/eli/oc/2008/253)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part3-chapII-lvlu5-1]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 6. März 2008, in Kraft seit 1. April 2008 ([AS 2008 1745](https://fedlex.data.admin.ch/eli/oc/2008/253)).
 
-### **Regel 46**Form der Zeichnungen
+### **Regel 46**
 
-(1) Auf Blättern, die Zeichnungen enthalten, darf die benutzte Fläche 26,2 cm mal 17 cm nicht überschreiten. Die benutzbare oder benutzte Fläche darf nicht umrahmt sein. Die Mindestränder sind folgende:
+[^part3-chapII-lvlu6-1]
 
-Oberer Rand: 2,5 cm
-
-Linker Seitenrand: 2,5 cm
-
-Rechter Seitenrand: 1,5 cm
-
-Unterer Rand: 1 cm
-
-(2) Die Zeichnungen sind wie folgt auszuführen:
-
-- a) Die Zeichnungen sind ohne Farben oder Tönungen in widerstandsfähigen, schwarzen, ausreichend festen und dunklen, in sich gleichmässig starken und klaren Linien oder Strichen auszuführen.
-- b) Querschnitte sind durch Schraffierungen kenntlich zu machen, die die Erkennbarkeit der Bezugszeichen und Führungslinien nicht beeinträchtigen dürfen.
-- c) Der Massstab der Zeichnungen und die zeichnerische Ausführung müssen gewährleisten, dass eine elektronische oder fotografische Wiedergabe auch bei Verkleinerungen auf zwei Drittel alle Einzelheiten noch ohne Schwierigkeiten erkennen lässt. Wird der Massstab in Ausnahmefällen auf der Zeichnung angegeben, so ist er zeichnerisch darzustellen.
-- d) Alle Zahlen, Buchstaben und Bezugszeichen in den Zeichnungen müssen einfach und eindeutig sein. Klammern, Kreise oder Anführungszeichen dürfen bei Zahlen und Buchstaben nicht verwendet werden.
-- e) Alle Linien in den Zeichnungen sollen mit Zeichengeräten gezogen werden.
-- f) Jeder Teil der Abbildung muss im richtigen Verhältnis zu jedem anderen Teil der Abbildung stehen, sofern nicht die Verwendung eines anderen Verhältnisses für die Klarheit der Abbildung unerlässlich ist.
-- g) Die Ziffern und Buchstaben müssen mindestens 0,32 cm hoch sein. Für die Beschriftung der Zeichnungen sind lateinische und, soweit üblich, griechische Buchstaben zu verwenden.
-- h) Ein Zeichnungsblatt kann mehrere Abbildungen enthalten. Sollen Abbildungen auf zwei oder mehr Blättern eine einzige Abbildung darstellen, so sind die Abbildungen auf den einzelnen Blättern so anzuordnen, dass die vollständige Abbildung zusammengesetzt werden kann, ohne dass ein Teil der Abbildungen auf den einzelnen Blättern verdeckt wird. Die einzelnen Abbildungen sind auf einem Blatt oder auf mehreren Blättern ohne Platzverschwendung anzuordnen, eindeutig voneinander getrennt und vorzugsweise im Hochformat; sind die Abbildungen nicht im Hochformat dargestellt, so sind sie im Querformat mit dem Kopf der Abbildungen auf der linken Seite des Blattes anzuordnen. Sie sind durch arabische Zahlen fortlaufend und unabhängig von den Zeichnungsblättern zu nummerieren.
-- i) Bezugszeichen dürfen in den Zeichnungen nur verwendet werden, wenn sie in der Beschreibung und in den Patentansprüchen aufgeführt sind; das Gleiche gilt für den umgekehrten Fall. Bezugszeichen für Merkmale müssen in der ganzen Anmeldung einheitlich sein.
-- j) Die Zeichnungen dürfen keine Erläuterungen enthalten. Wo es für das Verständnis unentbehrlich ist, können kurze Angaben wie «Wasser», «Dampf», «offen», «zu», «Schnitt nach AB» eingefügt werden. Solche Angaben sind so anzubringen, dass sie im Fall der Übersetzung überklebt werden können, ohne dass die Linien der Zeichnungen verdeckt werden.
-
-(3) Flussdiagramme und Diagramme gelten als Zeichnungen.
+[^part3-chapII-lvlu6-1]: Aufgehoben durch Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### **Regel 47**Form und Inhalt der Zusammenfassung
 
@@ -633,60 +612,31 @@ Unterer Rand: 1 cm
 
 (3) Enthält die Anmeldung Äusserungen nach Absatz 1 b), so kann das Europäische Patentamt diese bei Veröffentlichung der Anmeldung auslassen, wobei die Stelle der Auslassung und die Zahl der ausgelassenen Wörter anzugeben sind. Das Europäische Patentamt stellt auf Antrag eine Abschrift der ausgelassenen Stellen zur Verfügung.
 
-### **Regel 49**Allgemeine Bestimmungen über die Form der Anmeldungsunterlagen
+### **Regel 49**Form der Anmeldungsunterlagen
+
+[^part3-chapII-lvlu9-1]
+
+[^part3-chapII-lvlu9-1]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 (1) Nach Artikel 14 Absatz 2 oder Regel 40 Absatz 3 eingereichte Übersetzungen gelten als Unterlagen der europäischen Patentanmeldung.
 
-(2) Die Unterlagen der Anmeldung sind in einer Form einzureichen, die die elektronische und unmittelbare Vervielfältigung, insbesondere durch Scanning, Fotografie, elektrostatisches Verfahren, Foto‑Offsetdruck und Mikroverfilmung, in unbeschränkter Stückzahl ermöglicht. Die Blätter müssen glatt und knitterfrei sein. Sie dürfen nicht gefaltet sein und sind einseitig zu beschriften.
+(2) Der Präsident des Europäischen Patentamts bestimmt die Formerfordernisse für die Anmeldungsunterlagen.[^part3-chapII-lvlu9-2]
 
-(3) Die Unterlagen der Anmeldung sind auf biegsamem, festem, weissem, glattem, mattem und widerstandsfähigem Papier im Format A4 (29,7 cm mal 21 cm) einzureichen. Vorbehaltlich des Absatzes 9 und der Regel 46 Absatz 2 h) ist jedes Blatt in der Weise zu verwenden, dass die kurzen Seiten oben und unten erscheinen (Hochformat).[^part3-chapII-lvlu9-1]
+(3)–(12) …[^part3-chapII-lvlu9-3]
 
-(4) Jeder Bestandteil der Anmeldung (Antrag, Beschreibung, Patentansprüche, Zeichnungen und Zusammenfassung) muss auf einem neuen Blatt beginnen. Alle Blätter müssen so miteinander verbunden sein, dass sie leicht gewendet, entfernt und wieder miteinander verbunden werden können.
-
-(5) Vorbehaltlich der Regel 46 Absatz 1 sind als Mindestränder folgende Flächen unbeschriftet zu lassen:
-
-Oberer Rand: 2 cm
-
-Linker Seitenrand: 2,5 cm
-
-Rechter Seitenrand: 2 cm
-
-Unterer Rand: 2 cm
-
-Die empfohlenen Höchstmasse für die vorstehenden Ränder sind folgende:
-
-Oberer Rand: 4 cm
-
-Linker Seitenrand: 4 cm
-
-Rechter Seitenrand: 3 cm
-
-Unterer Rand: 3 cm
-
-(6) Alle Blätter der Anmeldung sind fortlaufend mit arabischen Zahlen zu nummerieren. Die Blattzahlen sind oben in der Mitte, aber nicht auf dem oberen Rand anzubringen.
-
-(7) Auf jedem Blatt der Beschreibung und der Patentansprüche soll jede fünfte Zeile nummeriert sein. Die Zahlen sind an der linken Seite rechts vom Rand anzubringen.
-
-(8) Der Antrag auf Erteilung eines europäischen Patents, die Beschreibung, die Patentansprüche und die Zusammenfassung müssen mit Maschine geschrieben oder gedruckt sein. Nur grafische Symbole und Schriftzeichen, chemische oder mathematische Formeln können, falls notwendig, handgeschrieben oder gezeichnet sein. Der Zeilenabstand hat 1½‑zeilig zu sein. Alle Texte müssen in Buchstaben, deren Grossbuchstaben eine Mindesthöhe von 0,21 cm besitzen, und mit dunkler unauslöschlicher Farbe geschrieben sein.
-
-(9) Der Antrag auf Erteilung eines europäischen Patents, die Beschreibung, die Patentansprüche und die Zusammenfassung dürfen keine Zeichnungen enthalten. Die Beschreibung, die Patentansprüche und die Zusammenfassung können chemische oder mathematische Formeln enthalten. Die Beschreibung und die Zusammenfassung können Tabellen enthalten. Ein Patentanspruch darf dies nur dann, wenn sein Gegenstand die Verwendung von Tabellen wünschenswert erscheinen lässt. Tabellen sowie chemische oder mathematische Formeln können im Querformat wiedergegeben werden, wenn sie im Hochformat nicht befriedigend dargestellt werden können. Tabellen oder chemische oder mathematische Formeln, die im Querformat wiedergegeben werden, sind so anzuordnen, dass der Kopf der Tabellen oder Formeln auf der linken Seite des Blattes erscheint.
-
-(10) Grössen sind in internationalen Standards entsprechenden Einheiten anzugeben, soweit zweckdienlich nach dem metrischen System unter Verwendung der SI-Einheiten. Soweit Angaben diesem Erfordernis nicht genügen, sind die internationalen Standards entsprechenden Einheiten zusätzlich anzugeben. Es sind nur solche technischen Bezeichnungen, Formeln, Zeichen und Symbole zu verwenden, die auf dem Fachgebiet allgemein anerkannt sind.[^part3-chapII-lvlu9-2]
-
-(11) Terminologie und Zeichen sind in der gesamten europäischen Patentanmeldung einheitlich zu verwenden.
-
-(12) Jedes Blatt muss weitgehend frei von Radierstellen und frei von Änderungen sein. Von diesem Erfordernis kann abgesehen werden, wenn der verbindliche Text dadurch nicht in Frage gestellt wird und die Voraussetzungen für eine gute Vervielfältigung nicht gefährdet sind.
-
-[^part3-chapII-lvlu9-1]: Fassung gemäss Art. 1 Ziff. 5 des Beschlusses des Verwaltungsrats vom 21. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
-[^part3-chapII-lvlu9-2]: Fassung gemäss Art. 1 Ziff. 5 des Beschlusses des Verwaltungsrats vom 21. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part3-chapII-lvlu9-2]: Fassung gemäss Art. 1 Ziff. 3 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part3-chapII-lvlu9-3]: Aufgehoben durch Art. 1 Ziff. 4 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### **Regel 50**Nachgereichte Unterlagen
 
-(1) Die Regeln 42, 43 und 46−49 sind auf Schriftstücke, die die Unterlagen der europäischen Patentanmeldung ersetzen, anzuwenden. Regel 49 Absätze 2−12 ist ferner auf die in Regel 71 genannten Übersetzungen der Patentansprüche anzuwenden.
+(1) Die Regeln 42, 43 und 47 bis 49 sind auf Schriftstücke, die die Unterlagen der europäischen Patentanmeldung ersetzen, anzuwenden. Regel 49 Absatz 2 ist ferner auf die in Regel 71 genannten Übersetzungen der Patentansprüche anzuwenden.[^part3-chapII-lvlu10-1]
 
-(2) Alle anderen Schriftstücke, die nicht zu den Unterlagen der Anmeldung zählen, sollen mit Maschine geschrieben oder gedruckt sein. Auf jedem Blatt ist links ein etwa 2,5 cm breiter Rand freizulassen.
+(2) Der Präsident des Europäischen Patentamts bestimmt die Formerfordernisse für alle anderen Schriftstücke, die nicht zu den Unterlagen der Anmeldung zählen.[^part3-chapII-lvlu10-2]
 
 (3) Nach Einreichung der Anmeldung eingereichte Schriftstücke sind zu unterzeichnen, soweit es sich nicht um Anlagen handelt. Ist ein Schriftstück nicht unterzeichnet worden, so fordert das Europäische Patentamt den Beteiligten auf, das Schriftstück innerhalb einer zu bestimmenden Frist zu unterzeichnen. Wird das Schriftstück rechtzeitig unterzeichnet, so behält es den ursprünglichen Tag des Eingangs, andernfalls gilt das Schriftstück als nicht eingereicht.
+
+[^part3-chapII-lvlu10-1]: Fassung gemäss Art. 1 Ziff. 5 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part3-chapII-lvlu10-2]: Fassung gemäss Art. 1 Ziff. 6 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### Kapitel III Jahresgebühren
 
@@ -826,12 +776,12 @@ Steht der Anmeldetag einer europäischen Patentanmeldung fest, so prüft das Eur
 - f) die Erfindernennung nach Regel 19 Absatz 1 erfolgt ist;
 - g) gegebenenfalls den Erfordernissen der Regeln 52 und 53 für die Inanspruchnahme der Priorität entsprochen worden ist;
 - h) gegebenenfalls den Erfordernissen des Artikels 133 Absatz 2 entsprochen worden ist;
-- i) die Anmeldung den in Regel 46 und Regel 49 Absätze 1−9 und 12*a–d*[^part4-chapI-lvlu4-2] vorgeschriebenen Erfordernissen entspricht;
+- i)[^part4-chapI-lvlu4-2] die Anmeldung den in Regel 49 Absatz 1 vorgeschriebenen Erfordernissen und den anwendbaren, vom Präsidenten des Europäischen Patentamts nach Regel 49 Absatz 2 vorgeschriebenen Erfordernissen entspricht;
 - j)[^part4-chapI-lvlu4-3] die Anmeldung den in Regel 30 vorgeschriebenen Erfordernissen entspricht.
 
-[^part4-chapI-lvlu4-1]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 25. März 2009, in Kraft seit 1. April 2010 ([AS 2010 471](https://fedlex.data.admin.ch/eli/oc/2010/63)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
-[^part4-chapI-lvlu4-2]: Verweis gemäss Art. 2 des Beschlusses des Verwaltungsrats vom 30. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2017 7193](https://fedlex.data.admin.ch/eli/oc/2017/777)).
-[^part4-chapI-lvlu4-3]: Fassung gemäss Art. 1 Ziff. 7 des Beschlusses des Verwaltungsrats vom 21. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part4-chapI-lvlu4-1]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 25. März 2009, in Kraft seit 1. April 2010 ([AS 2010 471](https://fedlex.data.admin.ch/eli/oc/2010/63)).
+[^part4-chapI-lvlu4-2]: Fassung gemäss Art. 1 Ziff. 7 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part4-chapI-lvlu4-3]: Fassung gemäss Art. 1 Ziff. 7 des Beschlusses des Verwaltungsrats vom 21. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)).
 
 ### **Regel 58**Beseitigung von Mängeln in den Anmeldungsunterlagen
 
@@ -897,11 +847,15 @@ Ist das Aktenzeichen der früheren Anmeldung nach Regel 52 Absatz 1 oder die Abs
 
 (2) Eine nach Absatz 1 gezahlte Recherchengebühr wird zurückgezahlt, wenn der Anmelder dies im Verlauf der Prüfung der europäischen Patentanmeldung beantragt und die Prüfungsabteilung feststellt, dass die Mitteilung nach Absatz 1 nicht gerechtfertigt war.
 
-[^part4-chapII-lvlu5-1]: Fassung gemäss Art. 1 Ziff. 3 des Beschlusses des Verwaltungsrats vom 25. März 2009, in Kraft seit 1. April 2010 ([AS 2010 83](https://fedlex.data.admin.ch/eli/oc/2010/25)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part4-chapII-lvlu5-1]: Fassung gemäss Art. 1 Ziff. 3 des Beschlusses des Verwaltungsrats vom 25. März 2009, in Kraft seit 1. April 2010 ([AS 2010 83](https://fedlex.data.admin.ch/eli/oc/2010/25)).
 
 ### **Regel 65**Übermittlung des europäischen Recherchenberichts
 
-Der europäische Recherchenbericht wird unmittelbar nach seiner Erstellung dem Anmelder zusammen mit den Abschriften aller angeführten Schriftstücke übermittelt.
+[^part4-chapII-lvlu6-1]
+
+[^part4-chapII-lvlu6-1]: Fassung gemäss Art. 1 Ziff. 8 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+
+Der europäische Recherchenbericht wird unmittelbar nach seiner Erstellung dem Anmelder übermittelt. Das Europäische Patentamt macht Abschriften aller angeführten Schriftstücke zugänglich.
 
 ### **Regel 66**Endgültiger Inhalt der Zusammenfassung
 
@@ -1089,13 +1043,13 @@ Unbeschadet der Regel 138 können die Beschreibung, die Patentansprüche und die
 
 (1) Bevor die Einspruchsabteilung die Aufrechterhaltung des europäischen Patents in geändertem Umfang beschliesst, teilt sie den Beteiligten mit, in welcher Fassung sie das Patent aufrechtzuerhalten beabsichtigt, und fordert sie auf, innerhalb von zwei Monaten Stellung zu nehmen, wenn sie mit dieser Fassung nicht einverstanden sind.
 
-(2) Ist ein Beteiligter mit der von der Einspruchsabteilung mitgeteilten Fassung nicht einverstanden, so kann das Einspruchsverfahren fortgesetzt werden. Andernfalls fordert die Einspruchsabteilung den Patentinhaber nach Ablauf der Frist nach Absatz 1 auf, innerhalb einer Frist von drei Monaten die vorgeschriebene Gebühr zu entrichten und eine Übersetzung der geänderten Patentansprüche in den Amtssprachen des Europäischen Patentamts einzureichen, die nicht die Verfahrenssprache sind. Wurden in der mündlichen Verhandlung Entscheidungen nach Artikel 106 Absatz 2 oder Artikel 111 Absatz 2 auf Schriftstücke gestützt, die nicht der Regel 49 Absatz 8 entsprachen, so wird der Patentinhaber aufgefordert, die geänderte Fassung innerhalb der Dreimonatsfrist in einer Form einzureichen, die der Regel 49 Absatz 8 entspricht.[^part5-chapI-lvlu8-1]
+(2) Ist ein Beteiligter mit der von der Einspruchsabteilung mitgeteilten Fassung nicht einverstanden, so kann das Einspruchsverfahren fortgesetzt werden. Andernfalls fordert die Einspruchsabteilung den Patentinhaber nach Ablauf der Frist nach Absatz 1 auf, innerhalb einer Frist von drei Monaten die vorgeschriebene Gebühr zu entrichten und eine Übersetzung der geänderten Patentansprüche in den Amtssprachen des Europäischen Patentamts einzureichen, die nicht die Verfahrenssprache sind. Wurden in der mündlichen Verhandlung Entscheidungen nach Artikel 106 Absatz 2 oder Artikel 111 Absatz 2 auf Schriftstücke gestützt, die nicht den anwendbaren, vom Präsidenten des Europäischen Patentamts nach Regel 49 Absatz 2 vorgeschriebenen Erfordernissen entsprachen, so wird der Patentinhaber aufgefordert, die geänderte Fassung innerhalb der Dreimonatsfrist in einer Form einzureichen, die diesen Erfordernissen entspricht.[^part5-chapI-lvlu8-1]
 
 (3) Werden die nach Absatz 2 erforderlichen Handlungen nicht rechtzeitig vorgenommen, so können sie noch innerhalb von zwei Monaten nach der Mitteilung über die Fristversäumung vorgenommen werden, sofern innerhalb dieser Frist eine Zuschlagsgebühr entrichtet wird. Andernfalls wird das Patent widerrufen.
 
 (4) In der Entscheidung, durch die das europäische Patent in geändertem Umfang aufrechterhalten wird, ist die ihr zugrunde liegende Fassung des Patents anzugeben.
 
-[^part5-chapI-lvlu8-1]: Fassung gemäss Art. 1 des Beschlusses des Verwaltungsrats vom 14. Okt. 2015, in Kraft seit 1. Mai 2016 ([AS 2017 2095](https://fedlex.data.admin.ch/eli/oc/2017/186)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part5-chapI-lvlu8-1]: Fassung gemäss Art. 1 Ziff. 9 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Febr. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### **Regel 83**Anforderung von Unterlagen
 
@@ -2171,6 +2125,14 @@ Die mit Artikel 1 dieses Beschlusses geänderte Regel 143 EPÜ tritt am 1. Novem
 Dieser Beschluss tritt am 1. November 2022 in Kraft.
 
 Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 56 (2) und (3) und 135 (2) EPÜ und neu eingefügte Regel 56*a* EPÜ sind auf alle Anmeldungen anzuwenden, die ab diesem Tag eingereicht werden.
+
+## Übergangsbestimmungen der Änderung vom 12. Oktober 2022
+
+[^u23-1]
+
+[^u23-1]: [AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)Art. 3
+
+Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 46, 49, 50, 57 und 82 sind auf Unterlagen anzuwenden, die am oder nach dem 1. Februar 2023 beim Europäischen Patentamt eingereicht werden.
 
 Geltungsbereich der Ausführungsordnung[^t-1]
 
