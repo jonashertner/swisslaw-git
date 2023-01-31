@@ -3,20 +3,19 @@ canton: SG
 number: "816.1"
 title: Gesetz über die Kursaalabgabe
 language: de
-version: 2002-12-01
-valid_until: 2023-01-31
-version_adopted: 2001-06-21
+version: 2023-02-01
+version_adopted: 2023-01-24
 adopted: 2001-06-21
 in_force: 2002-12-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/816.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/374/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3464/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Kursaalabgabe
 
-vom 21.06.2001 (Stand 01.12.2002)
+vom 21.06.2001 (Stand 01.02.2023)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -74,7 +73,7 @@ als Gesetz:[^ingress-3]
 
 **Verwendung[^6-1]**
 
-<sup>1</sup> Der Ertrag der Kursaalabgabe wird je zur Hälfte dem allgemeinen Staatshaushalt und der Tourismusrechnung[^6-2] zugewiesen.
+<sup>1</sup> Der Ertrag der Kursaalabgabe wird der Tourismusrechnung[^6-2] zugewiesen.
 
 [^6-1]: Art. [51](https://www.gesetzessammlung.sg.ch/data/140.1/de/art51.)StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
 [^6-2]: Vgl. Art. [11](https://www.gesetzessammlung.sg.ch/data/575.1/de/art11.) des Tourismusgesetzes, sGS [575.1](https://www.gesetzessammlung.sg.ch/data/575.1/de).
