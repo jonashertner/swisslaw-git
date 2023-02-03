@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2022-06-22
+version: 2023-02-04
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220622/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220622-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220622/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20230204/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20230204-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20230204/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220622/fr"
 
 (OEV)
 
-du 15 août 2018 (Etat le 22 juin 2022)
+du 15 août 2018 (État le 4 février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1300,6 +1300,6 @@ Annexe 5[^t-4]
 
 ## Actes d’exécution et actes délégués de la Commission européenne portant suspension temporaire de l’exemption de visa pour les séjours de courte durée fondés sur le règlement (UE) 2018/1806
 
-[^t-4]: Introduite par le ch. II de l’O du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 h 00 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+[^t-4]: Introduite par le ch. II de l’O du 10 juin 2022 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2023, en vigueur depuis le 4 fév. 2023 ([RO 2023 44](https://fedlex.data.admin.ch/eli/oc/2023/44)).
 
-Règlement d’exécution (UE) 2022/693 de la Commission du 27 avril 2022 relatif à la suspension temporaire de l’exemption de l’obligation de visa à l’égard des ressortissants du Vanuatu, JO L 129 du 3.5.2022, p. 18
+Règlement délégué (UE) 2023/222 de la Commission du 1<sup>er</sup> décembre 2022 relatif à la suspension temporaire de l’exemption de l’obligation de visa à l’égard de tous les ressortissants du Vanuatu, JO L 32 du 3.2.2023, p. 1.

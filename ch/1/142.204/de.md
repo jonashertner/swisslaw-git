@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2022-06-22
+version: 2023-02-04
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220622/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220622-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220622/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20230204/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20230204-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20230204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220622/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 22. Juni 2022)
+vom 15. August 2018 (Stand am 4. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1301,6 +1301,6 @@ Anhang 5[^t-4]
 
 ## Durchführungsrechtsakte und delegierte Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt, die gestützt auf die Verordnung (EU) 2018/1806 erlassen wurden
 
-[^t-4]: Eingefügt durch Ziff. II der V vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18 Uhr ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+[^t-4]: Eingefügt durch Ziff. II der V vom 10. Juni 2022 ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Fassung gemäss Ziff. I der V vom 1. Febr. 2023, in Kraft seit 4. Febr. 2023 ([AS 2023 44](https://fedlex.data.admin.ch/eli/oc/2023/44)).
 
-Durchführungsverordnung (EU) 2022/693 der Kommission vom 27. April 2022 über die vorübergehende Aussetzung der Befreiung von der Visumpflicht für Staatsangehörige Vanuatus, ABl. L 129 vom 3.5.2022, S. 18
+Delegierte Verordnung (EU) 2023/222 der Kommission vom 1. Dezember 2022 über die vorübergehende Aussetzung der Befreiung von der Visumpflicht für alle Staatsangehörige Vanuatus, ABl L 32 vom 3.2.2023, S. 1

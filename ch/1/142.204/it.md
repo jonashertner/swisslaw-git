@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2022-06-22
+version: 2023-02-04
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220622/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220622-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220622/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20230204/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20230204-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20230204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220622/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 22 giugno 2022)
+del 15 agosto 2018 (Stato 4 febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1300,6 +1300,6 @@ Allegato 5[^t-4]
 
 ## Atti di esecuzione e atti delegati della Commissione europea per sospendere in via temporanea l’esenzione dall’obbligo del visto per soggiorni di breve durata, emanati in virtù del regolamento (UE) 2018/1806
 
-[^t-4]: Introdotto testo giusta il n. II dell’O del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+[^t-4]: Introdotto dal n. II dell’O del 10 giu. 2022 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nuovo testo giusta il n. I dell’O del 1° feb. 2023, in vigore dal 4 feb. 2023 ([RU 2023 44](https://fedlex.data.admin.ch/eli/oc/2023/44)).
 
-Regolamento d’esecuzione (UE) 2022/693 della Commissione del 27 aprile 2022 sulla sospensione temporanea dell’esenzione dall’obbligo del visto per i cittadini di Vanuatu, GU L 129 del 3.5.2022, pag. 18
+Regolamento delegato (UE) 2023/222 della Commissione del 1° dicembre 2022 sulla sospensione temporanea dell’esenzione dall’obbligo del visto per tutti i cittadini di Vanuatu, GU L 32 del 3. 2. 2023, pag. 1.
