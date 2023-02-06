@@ -4,11 +4,11 @@ title: Verordnung vom 17. Januar 1961 über die Invalidenversicherung (IVV)
 short: IVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: de
-version: 2023-01-01
+version: 2023-02-07
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230207/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230207-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230207/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230101/de"
 
 (IVV)[^t-1]
 
-vom 17. Januar 1961 (Stand am 1. Januar 2023)
+vom 17. Januar 1961 (Stand am 7. Februar 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. II 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -2494,7 +2494,7 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 - b. erbrachte Leistungen im Detaillierungsgrad, den der massgebliche Tarif vorsieht, und die zugehörigen Tarifziffern;
 - c. Diagnosen und Prozeduren, die zur Berechnung des anwendbaren Tarifs notwendig sind;
 - d. Nummer und Datum der Verfügung oder Mitteilung;
-- e. Versichertennummer nach dem AHVG[^79ter-2];
+- e.[^79ter-2] AHV-Nummer der versicherten Person;
 - f. bei stationärer Behandlung: die auf den Kanton und die Invalidenversicherung entfallenden Anteile.
 
 <sup>2</sup> Der Leistungserbringer muss für die von der Invalidenversicherung übernommenen Leistungen und die anderen Leistungen zwei getrennte Rechnungen erstellen.
@@ -2504,7 +2504,7 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 <sup>4</sup> Der Leistungserbringer stellt der versicherten Person eine Kopie der Rechnung zu. Diese kann in Papierform oder elektronisch versandt werden.
 
 [^79ter-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^79ter-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^79ter-2]: Berichtigung vom 7. Febr. 2023 ([AS 2023 53](https://fedlex.data.admin.ch/eli/oc/2023/53)).
 
 #### Art. 79<sup>quater</sup>
 

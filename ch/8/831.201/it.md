@@ -4,11 +4,11 @@ title: "Ordinanza del 17 gennaio 1961 sull'assicurazione per l'invalidità (OAI)
 short: OAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: it
-version: 2023-01-01
+version: 2023-02-07
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230207/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230207-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230101/it"
 
 (OAI)[^t-1]
 
-del 17 gennaio 1961 (Stato 1° gennaio 2023)
+del 17 gennaio 1961 (Stato 7 febbraio 2023)
 
 [^t-1]: Nuovo tit. giusta il n. II 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Giusta detta disp., i titoli marginali sono accentrati.
 
@@ -2491,7 +2491,7 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 - b. le prestazioni fornite, dettagliate secondo la tariffa determinante e le relative posizioni tariffali;
 - c. le diagnosi e le procedure necessarie al calcolo della tariffa applicabile;
 - d. il numero e la data della decisione o della comunicazione;
-- e. il numero d’assicurato ai sensi della LAVS[^79ter-2];
+- e.[^79ter-2] il numero AVS dell’assicurato;
 - f. in caso di cure ospedaliere, le quote a carico del Cantone e dell’assicurazione per l’invalidità.
 
 <sup>2</sup> Il fornitore di prestazioni emette due fatture separate per le prestazioni a carico dell’assicurazione per l’invalidità e per le altre prestazioni.
@@ -2501,7 +2501,7 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 <sup>4</sup> Il fornitore di prestazioni fa pervenire all’assicurato una copia della fattura. Questa può essere inviata in formato cartaceo o per via elettronica.
 
 [^79ter-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^79ter-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^79ter-2]: Correzione del 7 feb. 2023 ([RU 2023 53](https://fedlex.data.admin.ch/eli/oc/2023/53)).
 
 #### [Art. 79](https://www.admin.ch/opc/it/classified-compilation/19950219/index.html)<sup>quater</sup>
 

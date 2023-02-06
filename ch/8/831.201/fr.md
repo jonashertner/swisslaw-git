@@ -4,11 +4,11 @@ title: "Règlement du 17 janvier 1961 sur l'assurance-invalidité (RAI)"
 short: RAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: fr
-version: 2023-01-01
+version: 2023-02-07
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230207/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230207-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230101/fr"
 
 (RAI)[^t-1]
 
-du 17 janvier 1961 (État le 1<sup>er</sup> janvier 2023)
+du 17 janvier 1961 (État le 7 février 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. II 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -2492,7 +2492,7 @@ Les fournisseurs de prestations doivent faire figurer sur leurs factures toutes 
 - b. les prestations fournies, détaillées comme le prévoit le tarif applicable, et les positions tarifaires correspondantes;
 - c. les diagnostics et les procédures nécessaires au calcul du tarif applicable;
 - d. le numéro et la date de la décision ou de la communication;
-- e. le numéro d’assuré selon la LAVS[^79ter-2];
+- e.[^79ter-2] le numéro AVS de l’assuré;
 - f. pour les traitements stationnaires, la part des frais à charge du canton et de l’assurance-invalidité.
 
 <sup>2</sup> Le fournisseur de prestations doit établir deux factures séparées, l’une pour les prestations prises en charge par l’assurance-invalidité et l’autre pour les autres prestations.
@@ -2502,7 +2502,7 @@ Les fournisseurs de prestations doivent faire figurer sur leurs factures toutes 
 <sup>4</sup> Le fournisseur de prestations envoie à l’assuré une copie de la facture. Celle-ci peut être envoyée sous forme électronique ou sur papier.
 
 [^79ter-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^79ter-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^79ter-2]: Erratum du 7 fév. 2023 ([RO 2023 53](https://fedlex.data.admin.ch/eli/oc/2023/53)).
 
 #### Art. 79<sup>quater</sup>
 
