@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 24 novembre 2022 che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/713"
 language: it
-version: 2022-12-22
+version: 2023-02-07
 adopted: 2022-11-24
 in_force: 2022-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20221222/it/xml/fedlex-data-admin-ch-eli-cc-2022-713-20221222-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20221222/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20230207/it/xml/fedlex-data-admin-ch-eli-cc-2022-713-20230207-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20230207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 
-del 24 novembre 2022 (Stato 22 dicembre 2022)
+del 24 novembre 2022 (Stato 7 febbraio 2023)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -133,6 +133,10 @@ Su ordine dell’USAV, il veterinario cantonale provvede affinché nella zona di
 <sup>3</sup> Fatto salvo il capoverso 4, la presente ordinanza ha effetto sino al 15 febbraio 2023.
 
 <sup>4</sup> Gli articoli 2–6 e l’allegato hanno effetto sino al 21 dicembre 2022.
+
+<sup>5</sup> Fatto salvo il capoverso 4, la durata di validità della presente ordinanza è prorogata sino al 15 marzo 2023.[^13-1]
+
+[^13-1]: Introdotto dal n. I dell’O dell’USAV del 3 feb. 2023, in vigore dal 7 feb. 2023 ([RU 2023 48](https://fedlex.data.admin.ch/eli/oc/2023/48)).
 
 Allegato[^t-1]
 

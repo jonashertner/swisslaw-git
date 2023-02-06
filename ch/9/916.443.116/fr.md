@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 24 novembre 2022 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/713"
 language: fr
-version: 2022-12-22
+version: 2023-02-07
 adopted: 2022-11-24
 in_force: 2022-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20221222/fr/xml/fedlex-data-admin-ch-eli-cc-2022-713-20221222-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20221222/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20230207/fr/xml/fedlex-data-admin-ch-eli-cc-2022-713-20230207-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20230207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 24 novembre 2022 (État le 22 décembre 2022)
+du 24 novembre 2022 (État le 7 février 2023)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -133,6 +133,10 @@ Sur ordre de l’OSAV, le vétérinaire cantonal veille à ce qu’un dépistage
 <sup>3</sup> La présente ordonnance a effet jusqu’au 15 février 2023, sous réserve de l’al. 4.
 
 <sup>4</sup> Les art. 2 à 6 et l’annexe ont effet jusqu’au 21 décembre 2022.
+
+<sup>5</sup> La durée de validité de la présente ordonnance et prolongée jusqu’au 15 mars 2023, sous réserve de l’al. 4.[^13-1]
+
+[^13-1]: Introduit par le ch. I de l’O de l’OSAV du 3 fév. 2023, en vigueur depuis le 7 fév. 2023 ([RO 2023 48](https://fedlex.data.admin.ch/eli/oc/2023/48)).
 
 Annexe[^t-1]
 

@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 24. November 2022 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/713"
 language: de
-version: 2022-12-22
+version: 2023-02-07
 adopted: 2022-11-24
 in_force: 2022-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20221222/de/xml/fedlex-data-admin-ch-eli-cc-2022-713-20221222-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20221222/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20230207/de/xml/fedlex-data-admin-ch-eli-cc-2022-713-20230207-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20230207/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 24. November 2022 (Stand am 22. Dezember 2022)
+vom 24. November 2022 (Stand am 7. Februar 2023)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -133,6 +133,10 @@ Auf Anordnung des BLV sorgt die Kantonstierärztin oder der Kantonstierarzt daf�
 <sup>3</sup> Diese Verordnung gilt unter Vorbehalt von Absatz 4 bis zum 15. Februar 2023.
 
 <sup>4</sup> Die Artikel 2–6 und der Anhang gelten bis zum 21. Dezember 2022.
+
+<sup>5</sup> Die Geltungsdauer dieser Verordnung wird unter Vorbehalt von Absatz 4 bis zum 15. März 2023 verlängert.[^13-1]
+
+[^13-1]: Eingefügt durch Ziff. I der V des BLV vom 3. Febr. 2023, in Kraft seit 7. Febr. 2023 ([AS 2023 48](https://fedlex.data.admin.ch/eli/oc/2023/48)).
 
 Anhang[^t-1]
 
