@@ -4,20 +4,20 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2022-04-01
+version: 2023-02-07
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220401/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220401-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230207/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230207-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’assicurazione obbligatoria contro la disoccupazione e l’indennità per insolvenza
 
-(Ordinanza sull’assicurazione contro la disoccupazione, OADI**[^t-1]**)
+(Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
 
-del 31 agosto 1983 (Stato 1° aprile 2022)
+del 31 agosto 1983 (Stato 7 febbraio 2023)
 
 [^t-1]: Nuova abbreviazione giusta il n. I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -32,7 +32,7 @@ ordina:
 [^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Titolo 1:**** Applicabilità della LPGA****
+## Titolo 1: Applicabilità della LPGA
 
 [^tit1-1][^tit1-2]
 
@@ -69,7 +69,7 @@ Sono considerati provvedimenti collettivi inerenti al mercato del lavoro ai sens
 [^1a-1]: Originario art. 1.
 [^1a-2]: Introdotto dal n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
-## Titolo 1*a*:**** Contributi
+## Titolo 1*a*: Contributi
 
 [^tit1a-1]
 
@@ -512,7 +512,7 @@ Vi è situazione eccezionale ai sensi dell’articolo 16 capoverso 2 lettera i L
 
 [^17-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### Sezione 2: Annuncio, consulenza e controllo****
+### Sezione 2: Annuncio, consulenza e controllo
 
 [^tit2-chap1-sec2-1]
 
@@ -1549,7 +1549,7 @@ L’indennità per intemperie può essere pagata nei rami seguenti:
 - e.[^65-1] selvicoltura, vivai ed estrazione della torba, nella misura in cui tali attività non siano esercitate a titolo accessorio da un’azienda agricola;
 - f. estrazione d’argilla e industria laterizia;
 - g. pesca professionale;
-- [tab] h.[^65-2] trasporti, nella misura in cui i veicoli siano esclusivamente utilizzati per il trasporto di materiale di scavo e di costruzione verso e da i cantieri o il trasporto di sabbia e ghiaia dai luoghi di estrazione;
+- h.[^65-2] trasporti, nella misura in cui i veicoli siano esclusivamente utilizzati per il trasporto di materiale di scavo e di costruzione verso e da i cantieri o il trasporto di sabbia e ghiaia dai luoghi di estrazione;
 - i.[^65-3] segherie.
 
 <sup>2</sup> ...[^65-4]
@@ -1796,7 +1796,7 @@ La cassa può proporre procedimenti che le possono provocare spese soltanto con 
 
 <sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione può autorizzare la cassa a rinunciare all’esercizio dei suoi diritti, se l’esigibilità del credito appare dubbia o se sono prevedibili complicazioni oppure spese sproporzionate.
 
-### Capitolo 5: Provvedimenti inerenti al mercato del lavoro****
+### Capitolo 5: Provvedimenti inerenti al mercato del lavoro
 
 [^tit2-chap5-1]
 
@@ -2830,17 +2830,18 @@ L’ufficio di compensazione approva le domande di partecipazione temporanea all
 
 Questo conteggio deve contenere almeno i dati seguenti:
 
-- [tab] a. indicazioni circa l’importo in franchi da rimborsare;
-- [tab] b. numeri d’assicurato AVS degli assicurati;
-- [tab] c. numero delle indennità giornaliere pagate;
-- [tab] d. contributi alle assicurazioni sociali; e
-- [tab] e. spese per i provvedimenti svolti inerenti al mercato del lavoro.
+- a. indicazioni circa l’importo in franchi da rimborsare;
+- b.[^120a-2] numero AVS degli assicurati;
+- c. numero delle indennità giornaliere pagate;
+- d. contributi alle assicurazioni sociali; e
+- e. spese per i provvedimenti svolti inerenti al mercato del lavoro.
 
 <sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione trasmette una copia del conteggio all’Ufficio federale delle assicurazioni sociali.
 
 <sup>4</sup> L’Ufficio centrale di compensazione dell’AVS verifica il conteggio e rimborsa le prestazioni di cui all’articolo 94a LADI.
 
 [^120a-1]: Introdotto dall’all. n. 6 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^120a-2]: Correzione del 7 feb. 2023 ([RU 2023 53](https://fedlex.data.admin.ch/eli/oc/2023/53)).
 
 ### Sezione 5: Commissione di sorveglianza
 
@@ -3186,7 +3187,7 @@ Per quanto riguarda l’Islanda, il Lichtenstein e la Norvegia, fino all’entra
 [^u3-2]: [RU 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 41*c* cpv. 9)
 

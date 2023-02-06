@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2022-04-01
+version: 2023-02-07
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220401-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230207/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230207-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230207/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220401/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. April 2022)
+vom 31. August 1983 (Stand am 7. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -2814,7 +2814,7 @@ Die Ausgleichsstelle kann Gesuche um vorübergehende Kostenbeteiligung an der Op
 Die Abrechnung muss mindestens enthalten:
 
 - a. Angaben über den zu vergütenden Frankenbetrag;
-- b. Versichertennummer der AHV der versicherten Personen;
+- [tab] b.[^120a-2] AHV-Nummer der versicherten Personen;
 - c. Anzahl ausbezahlter Taggelder;
 - d. Sozialversicherungsbeiträge; und
 - e. die Kosten für die besuchten arbeitsmarktlichen Massnahmen.
@@ -2824,6 +2824,7 @@ Die Abrechnung muss mindestens enthalten:
 <sup>4</sup> Die Zentrale Ausgleichsstelle der AHV prüft die Abrechnung und vergütet die Leistungen nach Artikel 94*a* AVIG.
 
 [^120a-1]: Eingefügt durch Anhang Ziff. 6 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^120a-2]: Berichtigung vom 7. Febr. 2023 ([AS 2023 53](https://fedlex.data.admin.ch/eli/oc/2023/53)).
 
 ### 5. Abschnitt: Aufsichtskommission
 

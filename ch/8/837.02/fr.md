@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2022-04-01
+version: 2023-02-07
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20220401-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20230207/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20230207-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20230207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20220401/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (Etat le 1<sup>er</sup> avril 2022)
+du 31 août 1983 (État le 7 février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Titre 1**** Applicabilité de la LPGA****
+## Titre 1 Applicabilité de la LPGA
 
 [^tit1-1][^tit1-2]
 
@@ -67,7 +67,7 @@ Sont réputées mesures collectives relatives au marché du travail au sens de l
 [^1a-1]: Anciennement art.1
 [^1a-2]: Introduit par le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
-## Titre 1*a***** Cotisations
+## Titre 1*a* Cotisations
 
 [^tit1a-1]
 
@@ -414,7 +414,7 @@ L’al. 1 n’est pas applicable lorsque l’assuré:
 
 <sup>3</sup> Sont considérées comme des prestations de vieillesse les prestations de la prévoyance professionnelle obligatoire et surobligatoire, ainsi que les prestations de vieillesse d’une assurance-vieillesse étrangère, obligatoire ou facultative, quelles soient versées au titre d’une rente de vieillesse ordinaire ou d’une prestation de préretraite.[^12-3]
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 (RO **1****996** 295).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^12-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 [^12-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)).
 
@@ -510,7 +510,7 @@ Il y a exception au sens de l’art. 16, al. 2, let. i, LACI en particulier lors
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### Section 2 Inscription, conseil et contrôle****
+### Section 2 Inscription, conseil et contrôle
 
 [^tit2-chap1-sec2-1]
 
@@ -536,7 +536,7 @@ Il y a exception au sens de l’art. 16, al. 2, let. i, LACI en particulier lors
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^18-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 (RO **202****1** 339).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^18-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^18-5]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^18-6]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
@@ -1382,7 +1382,7 @@ La perte de travail n’est pas prise en considération:
 
 Les fluctuations de l’emploi sont réputées saisonnières lorsque la perte de travail n’excède pas la perte de travail moyenne des deux années précédentes.
 
-[^54a-1]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 (RO **20****00** 174).
+[^54a-1]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
 
 #### Art. 55
 
@@ -1516,7 +1516,7 @@ Le montant des cotisations patronales AVS/AI/APG/AC versées pour les heures per
 
 [^62-1]
 
-[^62-1]: Abrogé par le ch. I de l’O du 11 déc. 1995, avec effet au 1<sup>er</sup> janv. 1996 (RO **199****6** 295).
+[^62-1]: Abrogé par le ch. I de l’O du 11 déc. 1995, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
 #### Art. 63
 
@@ -1796,7 +1796,7 @@ La caisse n’est autorisée à engager des procédures pouvant entraîner des f
 
 <sup>2</sup> Lorsque l’exigibilité de la créance est douteuse ou qu’il faut s’attendre à des complications sans rapport avec le résultat escompté, l’organe de compensation de l’assurance-chômage peut autoriser la caisse à renoncer à faire valoir la créance.
 
-### Chapitre 5 Mesures relatives au marché du travail****
+### Chapitre 5 Mesures relatives au marché du travail
 
 [^tit2-chap5-1]
 
@@ -2246,7 +2246,7 @@ La demande doit contenir au moins:
 
 [^96-1]
 
-[^96-1]: Abrogé par le ch. I de l’O du 11 mars 2011, avec effet au 1<sup>er</sup> avr. 2011 (RO **201****1** 1179).
+[^96-1]: Abrogé par le ch. I de l’O du 11 mars 2011, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 96a
 
@@ -2322,7 +2322,7 @@ Les assurés au sens de l’art. 6, al. 1<sup>ter</sup>, qui participent à un s
 
 Les employeurs qui désirent organiser des mesures relatives au marché du travail relevant de l’art. 59, al. 1, LACI, doivent associer l’autorité cantonale dès la phase d’élaboration du projet et présenter ensuite une demande écrite. Cette demande vaut pour toutes les personnes menacées de chômage au sein de l’entreprise. L’autorité cantonale transmet la demande avec son préavis, dans un délai de deux semaines, à l’organe de compensation, qui statue dans un délai d’une semaine. L’art. 59*c*, al. 4, LACI est réservé.
 
-[^98a-1]: Introduit par le ch. I de l’O du 28 août 1991 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 (RO **2****003** 1828).
+[^98a-1]: Introduit par le ch. I de l’O du 28 août 1991 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
 #### Art. 98b
 
@@ -2549,7 +2549,7 @@ L’organe de compensation et les bureaux fiduciaires qu’il a mandatés examin
 
 <sup>2</sup> L’organe de compensation fixe les frais à prendre en compte dans la décision de restitution.
 
-[^111a-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>e</sup><sup>r</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^111a-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
 #### Art. 111b
 
@@ -2821,7 +2821,9 @@ L’organe de compensation peut approuver les demandes de prise en charge tempor
 
 #### Art. 120a
 
-**Procédure de décompte avec l’assurance-invalidité (art. 94*a* LACI, art. 68<sup>septies</sup> LAI)**[^120a-1]
+**Procédure de décompte avec l’assurance-invalidité**[^120a-1]
+
+### (art. 94*a* LACI, art. 68<sup>septies</sup> LAI)
 
 <sup>1</sup> L’organe de compensation de l’assurance-chômage remet à la Centrale de compensation de l’AVS un décompte annuel des coûts à la charge du Fonds de compensation de l’assurance-invalidité au plus tard à la fin du mois de janvier de l’année suivante.
 
@@ -2830,7 +2832,7 @@ L’organe de compensation peut approuver les demandes de prise en charge tempor
 Le décompte contient au moins:
 
 - a. des indications sur le montant à rembourser en francs;
-- b. le numéro AVS de l’assuré;
+- b.[^120a-2] le numéro AVS des assurés;
 - c. le nombre d’indemnités journalières versées;
 - d. les cotisations aux assurances sociales, et
 - e. les coûts des mesures relatives au marché du travail.
@@ -2840,6 +2842,7 @@ Le décompte contient au moins:
 <sup>4</sup> La Centrale de compensation de l’AVS contrôle le décompte et rembourse les prestations conformément à l’art. 94*a* LACI.
 
 [^120a-1]: Introduit par l’annexe ch. 6 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^120a-2]: Erratum du 7 fév. 2023 ([RO 2023 53](https://fedlex.data.admin.ch/eli/oc/2023/53)).
 
 ### Section 5 Commission de surveillance
 
@@ -2943,7 +2946,7 @@ L’accord de prestations selon l’art. 92, al. 6, LACI régit la coopération 
 
 <sup>4</sup> Le DEFR définit la structure minimale propre à garantir le service minimal des caisses de chômage. Il fixe le coût de ce service minimal en tenant compte de la nécessité de préserver le niveau de qualification du personnel et de garantir un agrandissement rapide des structures en cas d’augmentation du nombre de demandeurs d’emploi.
 
-[^122b-1]: Introduit par le ch. I de l’O du 6 nov. 1996 (RO **199****6** 3071). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^122b-1]: Introduit par le ch. I de l’O du 6 nov. 1996 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^122b-2]: [RS 837.12](https://fedlex.data.admin.ch/eli/cc/1986/332_332_332)
 
 #### Art. 122c
@@ -3168,19 +3171,19 @@ L’ordonnance du 25 février 1986 sur les décisions en cas de recours concerna
 
 [^132-1]: [RO 2011 1241](https://fedlex.data.admin.ch/eli/oc/2011/184)
 
-## Disposition finale de la modification du 25 avril 1985****
+## Disposition finale de la modification du 25 avril 1985
 
 [^u1-1]
 
-[^u1-1]: RO **1****985** 648. Abrogée par le ch. IV 55 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u1-1]: [RO 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Abrogée par le ch. IV 55 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 6 novembre 1996****
+## Dispositions finales de la modification du 6 novembre 1996
 
 [^u2-1]
 
 [^u2-1]: [RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071). Abrogées par le ch. IV 55 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposition transitoire de la modification du 2 mars 2012****
+## Disposition transitoire de la modification du 2 mars 2012
 
 [^u3-1]
 
@@ -3191,13 +3194,13 @@ L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norv
 [^u3-2]: [RO 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 41*c*, al. 9)
 
 ## Augmentation du nombre d’indemnités journalières dans les cantons touchés par un fort taux de chômage
 
-[^t-1]: Introduite par le ch. I de l’O du 6 nov. 1996 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)). Mise à jour selon le ch. I des O du 18 août 2010 ([RO 2010 3563](https://fedlex.data.admin.ch/eli/oc/2010/514)), du 17 sept. 2010 ([RO 2010 4129](https://fedlex.data.admin.ch/eli/oc/2010/601)), du 20 oct. 2010 ([RO 2010 4799](https://fedlex.data.admin.ch/eli/oc/2010/682)), du 17 nov. 2010 ([RO 2010 5245](https://fedlex.data.admin.ch/eli/oc/2010/751)) et du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6165](https://fedlex.data.admin.ch/eli/oc/2010/881)).
+[^t-1]: Introduite par le ch. I de l’O du 6 nov. 1996 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)). Mise à jour par le ch. I des O du 18 août 2010 ([RO 2010 3563](https://fedlex.data.admin.ch/eli/oc/2010/514)), du 17 sept. 2010 ([RO 2010 4129](https://fedlex.data.admin.ch/eli/oc/2010/601)), du 20 oct. 2010 ([RO 2010 4799](https://fedlex.data.admin.ch/eli/oc/2010/682)), du 17 nov. 2010 ([RO 2010 5245](https://fedlex.data.admin.ch/eli/oc/2010/751)) et du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6165](https://fedlex.data.admin.ch/eli/oc/2010/881)).
 
 <table>
 <tr><td>Région</td><td>Classe d’âge</td><td>Augmentation</td><td>Durée de validité</td></tr>
