@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2023-01-01
+version: 2023-02-09
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230101/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230101-de-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230209/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230209-de-xml-30.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Januar 2023)
+vom 30. März 1911 (Stand am 9. Februar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -15933,7 +15933,7 @@ Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der Bericht:
 
 #### Art. 964d
 
-<sup>1</sup> Unternehmen, die von Gesetzes wegen zu einer ordentlichen Revision verpflichtet und selber oder durch ein von ihnen kontrolliertes Unternehmen im Bereich der Gewinnung von Mineralien, Erdöl oder Erdgas oder des Einschlags von Holz in Primärwäldern tätig sind, müssen jährlich einen Bericht über die Zahlungen an staatliche Stellen verfassen.
+<sup>1</sup> Unternehmen, die von Gesetzes wegen zu einer ordentlichen Revision verpflichtet und selber oder durch ein von ihnen kontrolliertes Unternehmen im Bereich der Gewinnung von Mineralien, Erdöl oder Erdgas oder des Einschlags von Holz in Primärwäldern tätig sind, müssen jährlich einen Bericht über die Zahlungen an staatliche Stellen verfassen.[^964d-1]
 
 <sup>2</sup> Hat das Unternehmen eine konsolidierte Jahresrechnung zu erstellen, so muss es einen konsolidierten Bericht über Zahlungen an staatliche Stellen verfassen (Konzernzahlungsbericht); dieser ersetzt die Berichterstattung der einzelnen Gesellschaften.
 
@@ -15942,6 +15942,8 @@ Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der Bericht:
 <sup>4</sup> Die Gewinnung umfasst alle Unternehmenstätigkeiten auf den Gebieten der Exploration, Prospektion, Entdeckung, Erschliessung und Förderung von Mineralien, Erdöl- und Erdgasvorkommen und des Einschlags von Holz in Primärwäldern.
 
 <sup>5</sup> Als staatliche Stellen gelten nationale, regionale oder kommunale Behörden eines Drittlandes sowie von diesen Behörden kontrollierte Abteilungen oder Unternehmen.
+
+[^964d-1]: Die Berichtigung der RedK der BVers vom 21. Nov. 2022, veröffentlicht am 9. Febr. 2023 betrifft nur den französischen Text ([AS 2023 62](https://fedlex.data.admin.ch/eli/oc/2023/62)).
 
 ### B. Arten von Leistungen
 

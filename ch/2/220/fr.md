@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2023-01-01
+version: 2023-02-09
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230101-fr-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230209/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230209-fr-xml-30.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (État le 1<sup>er</sup> janvier 2023)
+du 30 mars 1911 (État le 9 février 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -4412,6 +4412,8 @@ L’employeur ne peut traiter des données concernant le travailleur que dans la
 [^328b-1]: Introduit par l’annexe ch. 2 de la LF du 19 juin 1992 sur la protection des données, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^328b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
+### VIII. Congés et vacances
+
 ### 1. Congés hebdomadaire et usuels
 
 [^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]
@@ -4419,8 +4421,6 @@ L’employeur ne peut traiter des données concernant le travailleur que dans la
 [^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]: Nouvelle teneur selon le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 329
-
-VIII. Congés et vacances
 
 <sup>1</sup> L’employeur accorde au travailleur un jour de congé par semaine, en règle générale le dimanche ou, si les circonstances ne le permettent pas, un jour ouvrable entier.
 
@@ -9593,7 +9593,7 @@ Le conseil d’administration peut supprimer ou adapter la disposition statutair
 
 <sup>1</sup> Lorsqu’il est prévu de réduire le capital-actions, le conseil d’administration informe les créanciers qu’ils peuvent exiger des sûretés s’ils produisent leurs créances. L’appel est publié dans la Feuille officielle suisse du commerce. Les créances sont produites par écrit, en précisant leur montant et leur motif juridique.
 
-<sup>2</sup> La société garantit les créances à concurrence de la diminution de la couverture résultant de la réduction du cpital lorsque les créanciers l’exigent dans les 30 jours qui suivent la parution dans la Feuille officielle suisse du commerce.
+<sup>2</sup> La société garantit les créances à concurrence de la diminution de la couverture résultant de la réduction du capital lorsque les créanciers l’exigent dans les 30 jours qui suivent la parution dans la Feuille officielle suisse du commerce.
 
 <sup>3</sup> L’obligation de fournir des sûretés s’éteint si la société exécute la créance ou prouve que la réduction du capital ne compromet pas l’exécution de la créance. S’il existe une attestation de vérification, l’exécution de la créance est réputée ne pas être compromise.
 
@@ -12309,7 +12309,7 @@ Les conditions suivantes doivent être respectées:
 
 #### Art. 735c
 
-Le versement des indemnités ci-après aux membres en fonction et aux anciens membres du conseil d’administration, de la direction et du conseil consultatif ou à leurs proches proches est interdit:
+Le versement des indemnités ci-après aux membres en fonction et aux anciens membres du conseil d’administration, de la direction et du conseil consultatif ou à leurs proches est interdit:
 
 - 1\. les indemnités de départ convenues contractuellement et celles prévues par les statuts; les indemnités dues jusqu’à la fin des contrats ne sont pas considérées comme des indemnités de départ;
 - 2\. les indemnités découlant d’une interdiction de faire concurrence qui dépassent la rémunération moyenne des trois derniers exercices ou d’une interdiction de faire concurrence qui n’est pas justifiée par l’usage commercial;
@@ -13797,7 +13797,7 @@ Ne sont valables qu’à la condition de figurer dans les statuts les dispositio
 - 2\. les apports en nature, leur objet et le prix pour lequel ils sont acceptés, ainsi que la personne de l’associé intéressé;
 - 3\.[^833-1] …
 - 4\. les dérogations aux règles de la loi sur l’entrée dans la société et la perte de la qualité d’associé;
-- 5\.[^833-2] la responsabilité individuelle des associés et leur obligation d’effectuer des versements supplémentaires ou de fournir des prestations en argent ou sous une autre forme, ainsi que la nature et le montantdes prestations concernées;
+- 5\.[^833-2] la responsabilité individuelle des associés et leur obligation d’effectuer des versements supplémentaires ou de fournir des prestations en argent ou sous une autre forme, ainsi que la nature et le montant des prestations concernées;
 - 6\. les dérogations aux règles de la loi sur l’organisation, la représentation, ainsi que sur la modification des statuts et le mode des décisions à prendre par l’assemblée générale;
 - 7\. l’extension ou la restriction du droit de vote;
 - 8\.[^833-3] le calcul et l’affectation du bénéfice résultant du bilan dans le compte d’exercice et en cas de liquidation.
@@ -15957,7 +15957,7 @@ L’organe suprême de direction ou d’administration veille à ce que le rappo
 
 #### Art. 964d
 
-<sup>1</sup> Les entreprises que la loi soumet au contrôle ordinaire et qui sont, directement ou indirectement, actives dans la production de minerais, de pétrole ou de gaz naturel ou dans l’exploitation de forêts primaires, doivent établir chaque année un rapport sur les paiements effectués au profit de gouvernements.
+<sup>1</sup> Les entreprises que la loi soumet au contrôle ordinaire et qui sont, directement ou par l’intermédiaire d’une entreprise qu’elles contrôlent, actives dans la production de minerais, de pétrole ou de gaz naturel ou dans l’exploitation de forêts primaires, doivent établir chaque année un rapport sur les paiements effectués au profit de gouvernements.[^964d-1]
 
 <sup>2</sup> Les entreprises tenues d’établir des comptes annuels consolidés établissent un rapport consolidé sur leurs paiements au profit de gouvernements (rapport sur les paiements du groupe); celui-ci remplace le rapport des sociétés du groupe.
 
@@ -15966,6 +15966,8 @@ L’organe suprême de direction ou d’administration veille à ce que le rappo
 <sup>4</sup> La production comprend toutes les activités de l’entreprise consistant en l’exploration, la prospection, la découverte, l’exploitation et l’extraction de minerais, de pétrole ou de gaz naturel ou en l’exploitation de bois provenant de forêts primaires.
 
 <sup>5</sup> Sont considérés comme des gouvernements les autorités nationales, régionales ou communales d’un pays tiers ainsi que les administrations et les entreprises contrôlées par ces dernières.
+
+[^964d-1]: Erratum de la CdR de l’Ass. féd. du 21 nov. 2022, publié le 9 fév. 2023 ([RO 2023 62](https://fedlex.data.admin.ch/eli/oc/2023/62)).
 
 ### B. Types de prestations
 

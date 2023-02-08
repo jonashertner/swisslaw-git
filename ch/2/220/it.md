@@ -4,11 +4,11 @@ title: "Legge federale del 30 marzo 1911 di complemento del Codice civile svizze
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: it
-version: 2023-01-01
+version: 2023-02-09
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230101/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230101-it-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230209/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230209-it-xml-30.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/it"
 
 (Libro quinto: Diritto delle obbligazioni)
 
-del 30 marzo 1911 (Stato 1° gennaio 2023)
+del 30 marzo 1911 (Stato 9 febbraio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -4405,9 +4405,9 @@ Il datore di lavoro può trattare dati concernenti il lavoratore soltanto in qua
 
 ### 1. Tempo libero
 
-[^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]
+[^part2-tit10-chap1-lvlC-lvlVII-lvlVIII-1]
 
-[^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^part2-tit10-chap1-lvlC-lvlVII-lvlVIII-1]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 329
 
@@ -16015,7 +16015,7 @@ L’organo superiore di direzione o di amministrazione provvede affinché la rel
 
 #### Art. 964d
 
-<sup>1</sup> Le imprese soggette per legge alla revisione ordinaria e attive, direttamente o per il tramite di un’impresa da loro controllata, nell’industria estrattiva di minerali, petrolio o gas naturale o nello sfruttamento di foreste primarie devono presentare ogni anno una relazione sui pagamenti a favore di enti statali.
+<sup>1</sup> Le imprese soggette per legge alla revisione ordinaria e attive, direttamente o per il tramite di un’impresa da loro controllata, nell’industria estrattiva di minerali, petrolio o gas naturale o nello sfruttamento di foreste primarie devono presentare ogni anno una relazione sui pagamenti a favore di enti statali.[^964d-1]
 
 <sup>2</sup> Se è tenuta ad allestire un conto annuale consolidato, l’impresa deve redigere una relazione consolidata sui pagamenti a favore di enti statali (relazione consolidata sui pagamenti); questa relazione sostituisce le relazioni delle singole società del gruppo.
 
@@ -16024,6 +16024,8 @@ L’organo superiore di direzione o di amministrazione provvede affinché la rel
 <sup>4</sup> L’industria estrattiva comprende tutte le attività dell’impresa nei settori della ricerca, della prospezione, della scoperta, dello sfruttamento e dell’estrazione di minerali, petrolio, gas naturale e dello sfruttamento di foreste primarie.
 
 <sup>5</sup> Per enti statali si intendono le autorità nazionali, regionali o comunali di un Paese terzo, comprese le amministrazioni e le imprese controllate da tali autorità.
+
+[^964d-1]: La correzione della CdR dell’AF del 21 nov. 2023, pubblicata il 9 feb. 2023, concerne soltanto il testo francese ([RU 2023 62](https://fedlex.data.admin.ch/eli/oc/2023/62)).
 
 ### B. Tipi di prestazioni
 

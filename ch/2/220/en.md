@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2023-01-01
+version: 2023-02-09
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230101-en-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230209/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230209-en-xml-29.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 January 2023)
+of 30 March 1911 (Status as of 9 February 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1430,7 +1430,7 @@ The following prescribe after five years:
 
 [^128a-1]
 
-- [tab] Claims for damages or satisfaction arising from an injury or death in breach of contract prescribe three years from the date on which the person suffering damage became aware of the damage, but in any event twenty years after the date on which the harmful conduct took place or ceased.
+Claims for damages or satisfaction arising from an injury or death in breach of contract prescribe three years from the date on which the person suffering damage became aware of the damage, but in any event twenty years after the date on which the harmful conduct took place or ceased.
 
 [^128a-1]: Inserted by No I of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
@@ -8518,19 +8518,19 @@ On completion of the liquidation, the liquidators apply to have the partnership�
 
 ### B. Special cases
 
-### C. Interruption
-
 #### Art. 592
 
 <sup>1</sup> The five-year prescriptive period may not be invoked against a creditor seeking satisfaction solely from undivided partnership assets.
 
 <sup>2</sup> Where a partner takes over the partnership’s business with all its assets and liabilities, he may not invoke the five-year prescriptive period against its creditors. By contrast, for partners who have left the partnership, the five-year prescriptive period is replaced by the three-year prescriptive period in accordance with the principles governing assumption of debt; the same applies in the event that a third party takes over the partnership’s business with all its assets and liabilities.[^592-1]
 
-**Art. 593**
+[^592-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### C. Interruption
+
+#### Art. 593
 
 An interruption of the prescriptive period as against an ongoing partnership or another partner does not interrupt the prescriptive period as against a departing partner.
-
-[^592-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Title Twenty-Five: The Limited Partnership
 
@@ -8868,7 +8868,6 @@ In the event of the bankruptcy of a limited partner, neither the partnership’s
 The articles of association must contain provisions concerning:
 
 - 1\. the business name and seat of the company;
-
 - 2\. the objects of the company;
 - 3\.[^626-2] the total share capital, its currency, and the extent to which it is paid up;
 - 4\. the number, nominal value and types of shares;
@@ -8932,16 +8931,22 @@ In such deed of incorporation, the founder members shall subscribe for the share
 
 ### 2. Share subscription
 
-### II. Supporting documents
-
 #### Art. 630
 
-**Art. 631**[^630-1][^630-2]
+[^630-1]
 
 The share subscription is valid only where:
 
 - 1\. the number, nominal value, type, class and issue price of the shares are specified;
 - 2\. an unconditional commitment is given to pay up the capital corresponding to the issue price.
+
+[^630-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+
+### II. Supporting documents
+
+#### Art. 631
+
+[^631-1]
 
 <sup>1</sup> In the deed of incorporation, the notary must specify the foundation documents individually and confirm that they have been laid before him or her and the founder members.
 
@@ -8954,11 +8959,10 @@ The following documents must be appended to the deed of incorporation:
 - 3\. the audit confirmation;
 - 4\. confirmation that the capital contributions have been deposited in cash;
 - 5\. the agreements on contributions-in-kind;
-- 6\.[^630-3] …
+- 6\.[^631-2] …
 
-[^630-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^630-2]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^630-3]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^631-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^631-2]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Capital contributions
 
@@ -9426,7 +9430,7 @@ The articles of association must stipulate:
 - 4\.[^653b-3] any restriction or cancellation of the subscription right of existing shareholders, provided they are not allocated the option rights;
 - 5\. preferential rights attached to specific classes of shares;
 - 6\. the restrictions on the transferability of newly registered shares;
-- 7\.[^653b-4] the procedure for exercising the conversion or option rights and for waiving these rights.
+- 7\.[^653b-4] the procedure for exercising the conversion or option rights and for waiving these rights
 
 <sup>2</sup>
 
@@ -11263,7 +11267,6 @@ A resolution by the general meeting requires at least two-thirds of the votes re
 
 - 1\. any amendment of the company’s objects;
 - 2\. the consolidation of shares, unless the consent of all the shareholders concerned is required;
-
 - 3\. a capital increase from equity capital, in return for contributions in kind or by offset with a claim, and the granting of special privileges;
 - 4\. the restriction or cancellation of the subscription right;
 - 5\. the introduction of contingent capital, the introduction of a capital band or the creation of reserve capital in accordance with Article 12 of the Banking Act of 8 November 1934[^704-2];
@@ -12528,7 +12531,7 @@ Founder members, members of the board of directors and all persons involved in e
 
 [^755-1]
 
-All persons engaged in auditing the annual and consolidated accounts, the company’s foundation, a capital increase or a capital reduction are liable both to the company and to the individual shareholders and creditors for the losses arising from any intentional or negligent breach of their duties.
+<sup>1</sup> All persons engaged in auditing the annual and consolidated accounts, the company’s foundation, a capital increase or a capital reduction are liable both to the company and to the individual shareholders and creditors for the losses arising from any intentional or negligent breach of their duties.
 
 <sup>2</sup> If the audit is conducted by a public audit office or by one of its employees, the relevant public authority is liable. Legal action against persons involved in the audit is governed by public law.[^755-2]
 
@@ -15927,7 +15930,7 @@ The supreme management or governing body shall ensure that the report:
 
 #### Art. 964d
 
-<sup>1</sup> Companies that are required by law to undergo an ordinary audit and which and which are either themselves or through a company that they control involved in the extraction of minerals, oil or natural gas or in the harvesting of timber in primary forests must produce a report each year on the payments they have made to state bodies.
+<sup>1</sup> Companies that are required by law to undergo an ordinary audit and which and which are either themselves or through a company that they control involved in the extraction of minerals, oil or natural gas or in the harvesting of timber in primary forests must produce a report each year on the payments they have made to state bodies.[^964d-1]
 
 <sup>2</sup> If the company must draw up consolidated annual accounts, then it must produce a consolidated report on payments made to state bodies (group payments report); this replaces the reports from the individual companies.
 
@@ -15936,6 +15939,8 @@ The supreme management or governing body shall ensure that the report:
 <sup>4</sup> Extraction includes all activities carried out by the company in the areas of exploration, prospecting, discovery, development and extraction of minerals, oil and natural gas deposits and the harvesting of timber in primary forests.
 
 <sup>5</sup> State bodies are national, regional or local authorities in a third country together with the departments and businesses controlled by such authorities.
+
+[^964d-1]: The correction by the FA Drafting Committee of 21 Nov. 2022, published on 9 Feb. 2023, relates to the French text only ([AS 2023 62](https://www.fedlex.admin.ch/eli/oc/2023/62/de)).
 
 ### B. Forms of payment
 

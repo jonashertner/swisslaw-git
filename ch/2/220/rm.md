@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2023-01-01
+version: 2023-02-09
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230101-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230209/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230209-rm-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230209/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 1. da schaner 2023)
+dals 30 da mars 1911 (versiun dals 9 da favrer 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1123,7 +1123,7 @@ Sch’ina obligaziun debitada na po betg vegnir ademplida vers il creditur ed er
 
 [^97-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^97-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^97-3]: Versiun tenor la cifra II 5 da l’agiunta 1 da la Procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^97-3]: Versiun tenor la cifra II 5 da l’agiunta 1 da la Procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 (AS 2010 1739; BBl 2006 7221).
 
 ### 2. Obligaziuns da far u da betg far insatge
 
@@ -9627,7 +9627,7 @@ Il conclus da la radunanza generala davart la reducziun dal chapital d’aczias 
 
 [^653n-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### f. Midada dals statuts e constataziuns dal cussegl d’administraziu; inscripziun en il register da commerzi
+### f. Midada dals statuts e constataziuns dal cussegl d’administraziun; inscripziun en il register da commerzi
 
 #### Art. 653o
 
@@ -15936,7 +15936,7 @@ L’organ directiv u administrativ suprem procura ch’il rapport:
 
 #### Art. 964d
 
-<sup>1</sup> Interpresas ch’èn obligadas tras lescha da far ina revisiun ordinaria e ch’èn – sezzas u tras ina interpresa controllada dad ellas – activas en il sectur da l’explotaziun da minerals, da petroli u da gas natiral ubain dal tagl da laina en guauds primars, ston rediger mintga onn in rapport davart ils pajaments a posts statals.
+<sup>1</sup> Interpresas ch’èn obligadas tras lescha da far ina revisiun ordinaria e ch’èn – sezzas u tras ina interpresa controllada dad ellas – activas en il sectur da l’explotaziun da minerals, da petroli u da gas natiral ubain dal tagl da laina en guauds primars, ston rediger mintga onn in rapport davart ils pajaments a posts statals.[^964d-1]
 
 <sup>2</sup> Sche l’interpresa sto far in quint annual consolidà, sto ella rediger in rapport consolidà davart ils pajaments a posts statals (rapport davart ils pajaments dal concern); quel remplazza la rapportaziun da las singulas societads.
 
@@ -15945,6 +15945,8 @@ L’organ directiv u administrativ suprem procura ch’il rapport:
 <sup>4</sup> L’explotaziun cumpiglia tut las activitads da l’interpresa en ils secturs da l’exploraziun, da la prospecziun, da la scuverta, da l’explotaziun e da l’extracziun da minerals, da petroli e da gas natiral sco er dal tagl da laina en guauds primars.
 
 <sup>5</sup> Sco posts statals valan autoritads naziunalas, regiunalas u communalas d’in terz pajais sco er partiziuns u interpresas controlladas da questas autoritads.
+
+[^964d-1]: La rectificaziun da la Cumissiun da redacziun da l’AF dals 21 da nov. 2022, publitgada ils 9 da favr. 2023, concerna mo il text franzos ([AS 2023 62](https://fedlex.data.admin.ch/eli/oc/2023/62)).
 
 ### B. Tips da prestaziuns
 
