@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approbation de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2022/922 relatif à la création et au fonctionnement d’un mécanisme d’évaluation et de contrôle destiné à vérifier l’application de l’acquis de Schengen, et abrogeant le règlement (UE) n° 1053/2013 (développement de l’acquis de Schengen)"
 document: Projet mis en consultation
 language: fr

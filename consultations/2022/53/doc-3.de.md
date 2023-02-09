@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung des Notenaustausches zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2022/922 über die Einführung und Anwendung eines Evaluierungs- und Überwachungsmechanismus für die Überprüfung der Anwendung des Schengen-Besitzstands und zur Aufhebung der Verordnung (EU) Nr. 1053/2013 (Weiterentwicklung des Schengen-Besitzstands)
 document: Vernehmlassungsvorlage-2
 language: de

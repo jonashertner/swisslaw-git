@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approvazione dello scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2022/922 sull’istituzione e sul funzionamento di un meccanismo di valutazione e di monitoraggio per verificare l’applicazione dell’acquis di Schengen, che abroga il regolamento (UE) n. 1053/2013 (sviluppo dell’acquis di Schengen)"
 document: Progetto posto in consultazione-2
 language: it
