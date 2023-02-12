@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 5. Oktober 1990 über Finanzhilfen und Abgeltungen (Sub
 short: SuG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/857_857_857"
 language: de
-version: 2022-01-01
+version: 2023-02-13
 adopted: 1990-10-05
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20230213/de/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20230213-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20230213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20220101/de"
 
 (Subventionsgesetz, SuG)
 
-vom 5. Oktober 1990 (Stand am 1. Januar 2022)
+vom 5. Oktober 1990 (Stand am 13. Februar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -42,7 +42,7 @@ Dieses Gesetz stellt sicher, dass Finanzhilfen und Abgeltungen im gesamten Berei
 - b. ihren Zweck auf wirtschaftliche und wirkungsvolle Art erreichen;
 - c. einheitlich und gerecht geleistet werden;
 - d. nach finanzpolitischen Erfordernissen ausgestaltet werden;
-- e.[^1-1] ...
+- e.[^1-1] …
 
 <sup>2</sup> Es stellt Grundsätze für die Rechtsetzung auf und formuliert allgemeine Bestimmungen über die einzelnen Finanzhilfe- und Abgeltungsverhältnisse.
 
@@ -272,7 +272,7 @@ Bei Finanzhilfen und Abgeltungen an Defizite gilt für die Ermittlung des massge
 
 Die zuständige Behörde darf den durch Verfügung oder Vertrag festgesetzten Höchstbetrag (Art. 17 Abs. 1 zweiter Satz; Art. 20 Abs. 1) nur überschreiten, wenn die Mehrkosten auf bewilligte Projektänderungen, auf ausgewiesene Teuerung oder auf andere nicht beeinflussbare Ursachen zurückzuführen sind.
 
-### 2. Abschnitt: Voraussetzungen für die Gewährung von Finanzhilfen und Abgeltungen****
+### 2. Abschnitt: Voraussetzungen für die Gewährung von Finanzhilfen und Abgeltungen
 
 [^chap3-sec2-1]
 
@@ -357,7 +357,7 @@ Erlässt die Behörde eine Verfügung, bevor der Empfänger seine Aufgabe erfül
 
 <sup>4</sup> Bestehen Anhaltspunkte dafür, dass der Empfänger einer Finanzhilfe Waren, Dienstleistungen oder Bauleistungen beschafft, die zu mehr als 50 Prozent der Gesamtkosten mit Finanzhilfen des Bundes finanziert werden, so kann die Behörde ihn verpflichten, einen angemessenen Wettbewerb sicherzustellen. In der Regel sind zu diesem Zweck mindestens drei Offerten einzuholen.[^17-1]
 
-[^17-1]: Eingefügt durch Anhang 7 Ziff. II 4 des BG vom 21. Juni 2019 über das öffentliche Beschaffungswesen, in Kraft seit 1. Jan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^17-1]: Eingefügt durch Anhang 7 Ziff. II 4 des BG vom 21. Juni 2019 über das öffentliche Beschaffungswesen, in Kraft seit 1. Jan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)). Die Berichtigung der RedK der BVers vom 9. Febr. 2023, publiziert am 13. Febr. 2023 betrifft nur den französischen Text ([AS 2023 64](https://fedlex.data.admin.ch/eli/oc/2023/64)).
 
 #### Art. 18
 
@@ -506,7 +506,8 @@ Sie verzichtet auf den Widerruf, wenn:
 - a. der Empfänger aufgrund der Verfügung Massnahmen getroffen hat, die nicht ohne unzumutbare finanzielle Einbussen rückgängig gemacht werden können;
 - b. die Rechtsverletzung für ihn nicht leicht erkennbar war;
 - c. eine allfällig unrichtige oder unvollständige Feststellung des Sachverhalts nicht auf schuldhaftes Handeln des Empfängers zurückzuführen ist.
-- [tab] <sup>2bis</sup> Finanzhilfen können ganz oder teilweise entzogen oder zurückgefordert werden, wenn der Empfänger bei der Verwendung dieser Mittel gegen beschaffungsrechtliche Vorgaben verstösst.[^30-1]
+
+<sup>2bis</sup> Finanzhilfen können ganz oder teilweise entzogen oder zurückgefordert werden, wenn der Empfänger bei der Verwendung dieser Mittel gegen beschaffungsrechtliche Vorgaben verstösst.[^30-1]
 
 <sup>3</sup> Mit dem Widerruf fordert die Behörde die bereits ausgerichteten Leistungen zurück. Hat der Empfänger schuldhaft gehandelt, so erhebt sie zudem einen Zins von jährlich 5 Prozent seit der Auszahlung.
 
@@ -638,6 +639,6 @@ Anhang
 
 ## Änderung von Bundeserlassen
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)konsultiert werden.

@@ -4,11 +4,11 @@ title: "Legge federale del 5 ottobre 1990 sugli aiuti finanziari e le indennità
 short: LSu
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/857_857_857"
 language: it
-version: 2022-01-01
+version: 2023-02-13
 adopted: 1990-10-05
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20230213/it/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20230213-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20230213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20220101/it"
 
 (Legge sui sussidi, LSu)
 
-del 5 ottobre 1990 (Stato 1° gennaio 2022)
+del 5 ottobre 1990 (Stato 13 febbraio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -273,7 +273,7 @@ Riguardo agli aiuti finanziari e alle indennità destinati alla copertura di dis
 
 L’autorità competente può superare il limite stabilito mediante decisione o contratto (art. 17 cpv. 1 secondo periodo; art. 20 cpv. 1) soltanto se le spese supplementari sono dovute a modifiche autorizzate del progetto, al rincaro comprovato o ad altri fattori non influenzabili.
 
-### Sezione 2: Condizioni per la concessione di aiuti finanziari e indennità****
+### Sezione 2: Condizioni per la concessione di aiuti finanziari e indennità
 
 [^chap3-sec2-1]
 
@@ -358,7 +358,7 @@ Se prende una decisione prima che il beneficiario abbia adempiuto il suo compito
 
 <sup>4</sup> Se vi è motivo di ritenere che il beneficiario di un aiuto finanziario acquista beni, prestazioni di servizi o prestazioni edili il cui costo totale è finanziato per più del 50 per cento con aiuti finanziari della Confederazione, l’autorità può obbligarlo a garantire una concorrenza adeguata. Il beneficiario è di regola tenuto a chiedere almeno tre offerte.[^17-1]
 
-[^17-1]: Introdotto dall’all. 7 n. II 4 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^17-1]: Introdotto dall’all. 7 n. II 4 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)). La correzione della CdR dell’AF del 9 feb. 2023, pubblicata il 13 feb. 2023, concerne soltanto il testo francese ([RU 2023 64](https://fedlex.data.admin.ch/eli/oc/2023/64)).
 
 #### Art. 18
 

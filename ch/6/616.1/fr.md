@@ -4,11 +4,11 @@ title: "Loi fédérale du 5 octobre 1990 sur les aides financières et les indem
 short: LSu
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/857_857_857"
 language: fr
-version: 2022-01-01
+version: 2023-02-13
 adopted: 1990-10-05
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20230213/fr/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20230213-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20230213/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20220101/fr"
 
 (Loi sur les subventions, LSu)
 
-du 5 octobre 1990 (Etat le 1<sup>er</sup> janvier 2022)
+du 5 octobre 1990 (État le 13 février 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu la compétence reconnue à la Confédération, en vertu de la Constitution[^ingress-1], d’allouer des aides financières et des indemnités, vu l’art. 64<sup>bis</sup> de la constitution[^ingress-2], vu le message du Conseil fédéral du 15 décembre 1986[^ingress-3],
+vu la compétence reconnue à la Confédération, en vertu de la Constitution[^ingress-1], d’allouer des aides financières et des indemnités, vu l’art. 64<sup>bis</sup> de la Constitution[^ingress-2], vu le message du Conseil fédéral du 15 décembre 1986[^ingress-3],
 
 arrête:
 
@@ -47,7 +47,7 @@ La présente loi subordonne l’octroi d’aides financières (aides) ou d’ind
 
 <sup>2</sup> La présente loi définit les principes applicables en matière de législation et fixe les dispositions générales régissant les divers régimes d’aides et d’indemnités.
 
-[^1-1]: Abrogée par le ch. II 10 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 (RO **2****007** 5779; [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^1-1]: Abrogée par le ch. II 10 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 2
 
@@ -273,7 +273,7 @@ Pour ce qui a trait aux aides et aux indemnités destinées à couvrir des défi
 
 L’autorité compétente ne peut dépasser le plafond fixé par voie de décision ou en vertu d’un contrat (art. 17, al. 1, deuxième phrase, et 20, al. 1) que si les frais supplémentaires sont imputables à des modifications autorisées du projet, à un renchérissement effectif ou à d’autres facteurs inéluctables.
 
-### Section 2 Conditions d’octroi d’aides et d’indemnités****
+### Section 2 Conditions d’octroi d’aides et d’indemnités
 
 [^chap3-sec2-1]
 
@@ -356,9 +356,9 @@ Lorsque l’autorité prend une décision avant que l’allocataire n’ait acco
 - b. le délai imparti pour l’accomplissement de la tâche (début et fin);
 - c. toutes les charges requises en vue d’assurer le meilleur usage possible de la prestation et l’accomplissement adéquat de la tâche dans les délais et au moindre coût.
 
-<sup>4</sup> Si des indices conduisent à penser que le bénéficiaire d’une aide financière acquiert des marchandises, des services ou des travaux de construction dont le coût total est financé à plus de 50 % par des fonds publics, l’autorité peut le contraindre à garantir une concurrence équitable. Le bénéficiaire est généralement tenu de demander trois offres.[^17-1]
+<sup>4</sup> Si des indices conduisent à penser que le bénéficiaire d’une aide financière acquiert des marchandises, des services ou des travaux de construction dont le coût total est financé à plus de 50 % par des aides financières de la Confédération, l’autorité peut le contraindre à garantir une concurrence équitable. Le bénéficiaire est généralement tenu de demander au moins trois offres.[^17-1]
 
-[^17-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^17-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)). Erratum de la CdR de l’Ass. féd. du 9 fév. 2023, publié le 13 fév. 2023 ([RO 2023 64](https://fedlex.data.admin.ch/eli/oc/2023/64)).
 
 #### Art. 18
 
@@ -488,7 +488,7 @@ Des modifications importantes ou génératrices de frais supplémentaires ne peu
 
 **Aides, désaffectation et aliénation**
 
-<sup>1</sup> Lorsqu’un bien immobilier (immeuble, construction, autre ouvrage) ou mobilier pour lequel une aide a été versée est désaffecté ou aliéné, l’autorité compétente exige la restitution de l’aide Le montant à restituer est fonction de la relation entre d’une part la durée pendant laquelle l’allocataire a effectivement utilisé le bien conformément à l’affectation prévue et, d’autre part, la durée d’affectation qui avait été fixée. Le montant à restituer peut être réduit en cas de rigueurs excessives.
+<sup>1</sup> Lorsqu’un bien immobilier (immeuble, construction, autre ouvrage) ou mobilier pour lequel une aide a été versée est désaffecté ou aliéné, l’autorité compétente exige la restitution de l’aide. Le montant à restituer est fonction de la relation entre d’une part la durée pendant laquelle l’allocataire a effectivement utilisé le bien conformément à l’affectation prévue et, d’autre part, la durée d’affectation qui avait été fixée. Le montant à restituer peut être réduit en cas de rigueurs excessives.
 
 <sup>2</sup> Dans les cas d’aliénation, l’autorité peut renoncer en tout ou partie à la restitution de l’aide lorsque l’acquéreur remplit les conditions qui y donnent droit et qu’il assume toutes les obligations de l’allocataire.
 
@@ -605,7 +605,7 @@ Celui qui, dans une procédure relative à une aide ou à une indemnité, aura i
 
 <sup>2</sup> Si les éléments constitutifs de l’une ou l’autre des infractions évoquées dans la présente section sont réunis ou si l’obligation de renseigner définie à l’art. 11, al. 3[^40-2], n’est pas respectée, l’autorité compétente peut temporairement priver d’aides les personnes physiques contrevenantes ou les personnes morales qu’elles représentent.
 
-[^40-1]: Cet article est abrogé. Voir actuellement l’art. 15*c* (RO **2****020** 641; [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^40-1]: Cet article est abrogé. Voir actuellement l’art. 15*c* ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 [^40-2]: Cet article est abrogé. Voir actuellement l’art. 15*c*, al. 2 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 ## Chapitre 4 Dispositions finales
