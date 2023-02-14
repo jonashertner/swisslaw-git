@@ -3,11 +3,11 @@ sr: "0.444.2"
 title: Convenzione del 2 novembre 2001 sulla protezione del patrimonio culturale subacqueo
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/101"
 language: it
-version: 2020-01-25
+version: 2023-02-15
 adopted: 2001-11-02
 in_force: 2020-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20200125/it/xml/fedlex-data-admin-ch-eli-cc-2020-101-20200125-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20200125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2020-101-20230215-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20230215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2020** 539
 
 *Traduzione*
 
-Conclusa a Parigi il 2 novembre 2001
+Conclusa a Parigi il 2 novembre 2001 Approvata dall’Assemblea federale il 21 giugno 2019[^t-1] Strumento di ratifica depositato dalla Svizzera il 25 ottobre 2019 Entrata in vigore per la Svizzera il 25 gennaio 2020
 
-Approvata dall’Assemblea federale il 21 giugno 2019[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 25 ottobre 2019
-
-Entrata in vigore per la Svizzera il 25 gennaio 2020
-
-(Stato 25 gennaio 2020)
+(Stato 15 febbraio 2023)
 
 [^t-1]: [FF 2019 3807](https://fedlex.data.admin.ch/eli/fga/2019/1593)
 
@@ -609,7 +603,7 @@ La presente Regola non può essere interpretata nel senso d’impedire:
 - a) reso pubblico non appena possibile, tenendo conto della complessità del progetto e del carattere di riservatezza e di delicatezza delle informazioni; e
 - b) depositato presso archivi pubblici pertinenti.
 
-Campo d’applicazione il 25 novembre 2019[^t-2]
+Campo d’applicazione il 15 febbraio 2023[^t-2]
 
 <table>
 <tr><th>Stati contraenti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -633,6 +627,7 @@ Campo d’applicazione il 25 novembre 2019[^t-2]
 <tr><td>Cuba<sup>\*</sup></td><td>26 maggio</td><td>2008</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Ecuador</td><td>1 dicembre</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Egitto</td><td>30 agosto</td><td>2017</td><td>30 novembre</td><td>2017</td></tr>
+<tr><td>Estonia<sup>\*</sup></td><td>2 novembre</td><td>2020</td><td>2 febbraio</td><td>2021</td></tr>
 <tr><td>Francia</td><td>7 febbraio</td><td>2013</td><td>7 maggio</td><td>2013</td></tr>
 <tr><td>Gabun</td><td>1° febbraio</td><td>2010</td><td>1° maggio</td><td>2010</td></tr>
 <tr><td>Ghana</td><td>20 gennaio</td><td>2016</td><td>20 aprile</td><td>2016</td></tr>
@@ -640,6 +635,7 @@ Campo d’applicazione il 25 novembre 2019[^t-2]
 <tr><td>Giordania</td><td>2 dicembre</td><td>2009</td><td>2 marzo</td><td>2010</td></tr>
 <tr><td>Grenada</td><td>15 gennaio</td><td>2009</td><td>15 aprile</td><td>2009</td></tr>
 <tr><td>Guatemala<sup>\*</sup></td><td>3 novembre</td><td>2015</td><td>3 febbraio</td><td>2016</td></tr>
+<tr><td>Guinea</td><td>13 luglio</td><td>2021</td><td>13 ottobre</td><td>2021</td></tr>
 <tr><td>Guinea-Bissau</td><td>7 marzo</td><td>2016</td><td>7 giugno</td><td>2016</td></tr>
 <tr><td>Guyana</td><td>28 aprile</td><td>2014</td><td>28 luglio</td><td>2014</td></tr>
 <tr><td>Haiti</td><td>9 novembre</td><td>2009</td><td>9 febbraio</td><td>2010</td></tr>
@@ -651,20 +647,29 @@ Campo d’applicazione il 25 novembre 2019[^t-2]
 <tr><td>Libia</td><td>23 giugno</td><td>2005</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Lituania</td><td>12 giugno</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Madagascar</td><td>19 gennaio</td><td>2015</td><td>19 aprile</td><td>2015</td></tr>
+<tr><td>Malawi</td><td>7 luglio</td><td>2022</td><td>7 ottobre</td><td>2022</td></tr>
+<tr><td>Mali</td><td>2 marzo</td><td>2021</td><td>2 giugno</td><td>2021</td></tr>
+<tr><td>Malta</td><td>7 aprile</td><td>2021</td><td>7 luglio</td><td>2021</td></tr>
 <tr><td>Marocco</td><td>20 giugno</td><td>2011</td><td>20 settembre</td><td>2011</td></tr>
 <tr><td>Messico</td><td>5 luglio</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Micronesia</td><td>19 aprile</td><td>2018</td><td>19 luglio</td><td>2018</td></tr>
 <tr><td>Montenegro</td><td>18 luglio</td><td>2008</td><td>1° febbraio</td><td>2009</td></tr>
 <tr><td>Namibia</td><td>9 marzo</td><td>2011</td><td>9 giugno</td><td>2011</td></tr>
 <tr><td>Nigeria</td><td>21 ottobre</td><td>2005</td><td>2 gennaio</td><td>2009</td></tr>
+<tr><td>Nuova Zelanda</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Niue</td><td>15 novembre</td><td>2019</td><td>15 febbraio</td><td>2020</td></tr>
+<tr><td>Oman</td><td>10 giugno</td><td>2020</td><td>10 settembre</td><td>2020</td></tr>
 <tr><td>Palestina</td><td>8 dicembre</td><td>2011</td><td>8 marzo</td><td>2012</td></tr>
 <tr><td>Panama<sup>\*</sup></td><td>20 maggio</td><td>2003</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Paraguay</td><td>7 settembre</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
+<tr><td>Polonia</td><td>18 maggio</td><td>2021</td><td>18 agosto</td><td>2021</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>21 settembre</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
+<tr><td>Repubblica Dominicana</td><td>22 luglio</td><td>2021</td><td>22 ottobre</td><td>2021</td></tr>
 <tr><td>Romania</td><td>31 luglio</td><td>2007</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>3 dicembre</td><td>2009</td><td>3 marzo</td><td>2010</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>8 novembre</td><td>2010</td><td>8 febbraio</td><td>2011</td></tr>
 <tr><td>Santa Lucia</td><td>1° febbraio</td><td>2007</td><td>2 gennaio</td><td>2009</td></tr>
+<tr><td>Senegal</td><td>15 settembre</td><td>2020</td><td>15 dicembre</td><td>2020</td></tr>
 <tr><td>Slovacchia</td><td>11 marzo</td><td>2009</td><td>11 giugno</td><td>2009</td></tr>
 <tr><td>Slovenia</td><td>18 settembre</td><td>2008</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Spagna</td><td>6 giugno</td><td>2005</td><td>2 gennaio</td><td>2009</td></tr>
@@ -675,10 +680,10 @@ Campo d’applicazione il 25 novembre 2019[^t-2]
 <tr><td>Tunisia</td><td>15 gennaio</td><td>2009</td><td>15 aprile</td><td>2009</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>27 dicembre</td><td>2006</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Ungheria</td><td>19 marzo</td><td>2014</td><td>19 giugno</td><td>2014</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi francesi e inglesi si possono consultare sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): http://unesco.org/new/fr/unesco/resources/publications/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese ed in inglese si possono consultare sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2020 539](https://fedlex.data.admin.ch/eli/oc/2020/101)e [2023 73](https://fedlex.data.admin.ch/eli/oc/2023/73). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
 
 Dichiarazione
 

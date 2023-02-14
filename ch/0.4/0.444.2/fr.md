@@ -3,11 +3,11 @@ sr: "0.444.2"
 title: Convention du 2 novembre 2001 sur la protection du patrimoine culturel subaquatique
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/101"
 language: fr
-version: 2020-01-25
+version: 2023-02-15
 adopted: 2001-11-02
 in_force: 2020-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20200125/fr/xml/fedlex-data-admin-ch-eli-cc-2020-101-20200125-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20200125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/101/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2020-101-20230215-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/101/20230215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 25 octobre 2019
 
 Entrée en vigueur pour la Suisse le 25 janvier 2020
 
-(Etat le 25 janvier 2020)
+(État le 15 février 2023)
 
 [^t-1]: [FF 2019 4385](https://fedlex.data.admin.ch/eli/fga/2019/1593)
 
@@ -605,7 +605,7 @@ La présente règle ne peut être interprétée comme empêchant:
 - a) rendu public dès que possible, compte tenu de la complexité du projet et de la nature confidentielle ou sensible de l’information, et
 - b) déposé auprès des archives publiques appropriées.
 
-Champ d’application le 25 novembre 2019**[^t-2]**
+Champ d’application le 15 février 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -631,11 +631,13 @@ Champ d’application le 25 novembre 2019**[^t-2]**
 <tr><td>Égypte</td><td>30 août</td><td>2017</td><td>30 novembre</td><td>2017</td></tr>
 <tr><td>Équateur</td><td>1<sup>er</sup> décembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Espagne</td><td>6 juin</td><td>2005</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Estonie<sup>\*</sup></td><td>2 novembre</td><td>2020</td><td>2 février</td><td>2021</td></tr>
 <tr><td>France</td><td>7 février</td><td>2013</td><td>7 mai</td><td>2013</td></tr>
 <tr><td>Gabon</td><td>1<sup>er</sup> février</td><td>2010</td><td>1<sup>er</sup> mai</td><td>2010</td></tr>
 <tr><td>Ghana</td><td>20 janvier</td><td>2016</td><td>20 avril</td><td>2016</td></tr>
 <tr><td>Grenade</td><td>15 janvier</td><td>2009</td><td>15 avril</td><td>2009</td></tr>
 <tr><td>Guatemala\*</td><td>3 novembre</td><td>2015</td><td>3 février</td><td>2016</td></tr>
+<tr><td>Guinée</td><td>13 juillet</td><td>2021</td><td>13 octobre</td><td>2021</td></tr>
 <tr><td>Guinée-Bissau</td><td>7 mars</td><td>2016</td><td>7 juin</td><td>2016</td></tr>
 <tr><td>Guyana</td><td>28 avril</td><td>2014</td><td>28 juillet</td><td>2014</td></tr>
 <tr><td>Haïti</td><td>9 novembre</td><td>2009</td><td>9 février</td><td>2010</td></tr>
@@ -650,20 +652,29 @@ Champ d’application le 25 novembre 2019**[^t-2]**
 <tr><td>Libye</td><td>23 juin</td><td>2005</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Lituanie</td><td>12 juin</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Madagascar</td><td>19 janvier</td><td>2015</td><td>19 avril</td><td>2015</td></tr>
+<tr><td>Malawi</td><td>7 juillet</td><td>2022</td><td>7 octobre</td><td>2022</td></tr>
+<tr><td>Mali</td><td>2 mars</td><td>2021</td><td>2 juin</td><td>2021</td></tr>
+<tr><td>Malte</td><td>7 avril</td><td>2021</td><td>7 juillet</td><td>2021</td></tr>
 <tr><td>Maroc</td><td>20 juin</td><td>2011</td><td>20 septembre</td><td>2011</td></tr>
 <tr><td>Mexique</td><td>5 juillet</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Micronésie</td><td>19 avril</td><td>2018</td><td>19 juillet</td><td>2018</td></tr>
 <tr><td>Monténégro</td><td>18 juillet</td><td>2008</td><td>1<sup>er</sup> février</td><td>2009</td></tr>
 <tr><td>Namibie</td><td>9 mars</td><td>2011</td><td>9 juin</td><td>2011</td></tr>
 <tr><td>Nigéria</td><td>21 octobre</td><td>2005</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Nouvelle-Zélande</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Nioué</td><td>15 novembre</td><td>2019</td><td>15 février</td><td>2020</td></tr>
+<tr><td>Oman</td><td>10 juin</td><td>2020</td><td>10 septembre</td><td>2020</td></tr>
 <tr><td>Palestine</td><td>8 décembre</td><td>2011</td><td>8 mars</td><td>2012</td></tr>
 <tr><td>Panama<sup>\*</sup></td><td>20 mai</td><td>2003</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Paraguay</td><td>7 septembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Pologne</td><td>18 mai</td><td>2021</td><td>18 août</td><td>2021</td></tr>
 <tr><td>Portugal<sup>\*</sup></td><td>21 septembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>République dominicaine</td><td>22 juillet</td><td>2021</td><td>22 octobre</td><td>2021</td></tr>
 <tr><td>Roumanie</td><td>31 juillet</td><td>2007</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>3 décembre</td><td>2009</td><td>3 mars</td><td>2010</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>8 novembre</td><td>2010</td><td>8 février</td><td>2011</td></tr>
 <tr><td>Sainte-Lucie</td><td>1<sup>er</sup> février</td><td>2007</td><td>2 janvier</td><td>2009</td></tr>
+<tr><td>Sénégal</td><td>15 septembre</td><td>2020</td><td>15 décembre</td><td>2020</td></tr>
 <tr><td>Slovaquie</td><td>11 mars</td><td>2009</td><td>11 juin</td><td>2009</td></tr>
 <tr><td>Slovénie</td><td>18 septembre</td><td>2008</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Suisse<sup>\*</sup></td><td>25 octobre</td><td>2019</td><td>25 janvier</td><td>2020</td></tr>
@@ -671,10 +682,10 @@ Champ d’application le 25 novembre 2019**[^t-2]**
 <tr><td>Trinité-et-Tobago</td><td>27 juillet</td><td>2010</td><td>27 octobre</td><td>2010</td></tr>
 <tr><td>Tunisie</td><td>15 janvier</td><td>2009</td><td>15 avril</td><td>2009</td></tr>
 <tr><td>Ukraine<sup>\*</sup></td><td>27 décembre</td><td>2006</td><td>2 janvier</td><td>2009</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites)
+[^t-2]: [RO 2020 539](https://fedlex.data.admin.ch/eli/oc/2020/101); [2023 73](https://fedlex.data.admin.ch/eli/oc/2023/73). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Déclaration
 
