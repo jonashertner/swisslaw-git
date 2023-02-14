@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230215-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 1. Januar 2023)
+vom 30. November 2012 (Stand am 15. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -929,11 +929,16 @@ Aufgehoben
 
 <sup>1bis</sup> Ein Betreiber von Anlagen gemäss Artikel 40 Absatz 2, der glaubhaft nachweist, dass die Treibhausgasemissionen der Anlagen dauerhaft weniger als 25 000 Tonnen CO<sub>2</sub>eq pro Jahr betragen werden, kann die Ausnahme von der Pflicht zur Teilnahme am EHS mit sofortiger Wirkung beantragen.
 
+<sup>1ter</sup> Ein Betreiber von mit Gas oder anderen Energieträgern betriebenen Reservekraftwerken, der bei einem Abruf der Reserve nach der Winterreserveverordnung vom 25. Januar 2023[^41-2] Strom produziert und ins Netz einspeist, kann keine Ausnahmen nach den Absätzen 1 und 1<sup>bis</sup> beantragen.[^41-3]
+
 <sup>2</sup> Der Betreiber von Anlagen nach den Absätzen 1 und 1<sup>bis</sup> muss weiterhin ein Monitoringkonzept (Art. 51) und einen Monitoringbericht (Art. 52) einreichen, es sei denn, er hat sich zu einer Verminderung der Treibhausgasemissionen nach Artikel 31 Absatz 1 des CO<sub>2</sub>-Gesetzes verpflichtet.
 
-<sup>3</sup> Steigen die Treibhausgasemissionen der Anlagen während eines Jahres auf mehr als 25 000 Tonnen CO<sub>2</sub>eq, so muss deren Betreiber ab Beginn des Folgejahres am EHS teilnehmen.
+<sup>3</sup> Steigen die Treibhausgasemissionen der Anlagen während eines Jahres auf mehr als 25 000 Tonnen CO<sub>2</sub>eq, so muss der Betreiber ab Beginn des Folgejahres am EHS teilnehmen. Emissionen von Notstromgruppen und WKK-Anlagen, die ein Reserveabruf nach der Winterreserveverordnung durch die Stromproduktion verursacht, werden dabei nicht berücksichtigt.[^41-4]
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^41-2]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^41-3]: Eingefügt durch Anhang Ziff. II 1 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
+[^41-4]: Fassung gemäss Anhang Ziff. II 1 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 
 #### Art. 42
 
@@ -1130,7 +1135,7 @@ Reicht der Anteil nach Absatz 2 nicht aus, um die Ansprüche vollständig zu erf
 
 <sup>3</sup> Es behält jährlich einen Anteil der nach Absatz 1 berechneten Menge zurück, um ihn neuen oder wachstumsstarken Betreibern von Luftfahrzeugen zugänglich zu machen. Die Höhe des Anteils wird nach Anhang 15 Ziffer 4 berechnet.
 
-<sup>4</sup> Die Menge an Emissionsrechten nach Absatz 3 wird der Sonderreserve nach Anhang IB des EHS-Abkommens[^46e-2] zugewiesen.
+<sup>4</sup> Die Menge an Emissionsrechten nach Absatz 3 wird der Sonderreserve nach Anhang IB des Abkommens vom 23. November 2017[^46e-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (EHS-Abkommen) zugewiesen.
 
 [^46e-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46e-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
@@ -1373,7 +1378,7 @@ Betreiber von Anlagen, die eine Tätigkeit nach Anhang 6 ausüben und von der Pf
 
 <sup>1</sup>
 
-Das BAFU kann auf Gesuch hin in Fällen, in denen europäische Emissionsrechte im Schweizer EHS gemäss Artikel 4 Absatz 1 des Abkommens vom 23. November 2017[^55a-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (EHS-Abkommen) nicht anerkannt sind, europäische Emissionsrechte an die Pflicht eines EHS-Teilnehmers nach Artikel 55 anrechnen, wenn dieser nachweist, dass:
+Das BAFU kann auf Gesuch hin in Fällen, in denen europäische Emissionsrechte im Schweizer EHS gemäss Artikel 4 Absatz 1 des EHS-Abkommens[^55a-2] nicht anerkannt sind, europäische Emissionsrechte an die Pflicht eines EHS-Teilnehmers nach Artikel 55 anrechnen, wenn dieser nachweist, dass:
 
 - a. er seine Pflicht zur Abgabe nach Artikel 55 ohne die Anrechnung nicht erfüllen kann;
 - b. er an der Versteigerung von Emissionsrechten nach Artikel 48 teilgenommen hat und dabei für die benötigte Menge von Emissionsrechten Gebote zu Marktpreisen gemacht hat;
@@ -1876,7 +1881,7 @@ Ein Betreiber von Anlagen, der sein Emissions- oder Massnahmenziel nicht erreich
 
 - a. für Betreiber von Anlagen, die bereits in den Jahren 2008–2012 einer Verminderungsverpflichtung unterlagen: 8 Prozent des Fünffachen der im Durchschnitt in diesem Zeitraum jährlich zugestandenen Emissionen, abzüglich derjenigen in diesem Zeitraum angerechneten Emissionsminderungszertifikate, die der Betreiber nicht für die Erfüllung der Verminderungsverpflichtung 2008–2012 benötigte;
 - b. für die übrigen Betreiber von Anlagen und Treibhausgasemissionen: 4,5 Prozent der Treibhausgasemissionen der Jahre 2013–2020;
-- c.[^75-2] für Betreiber von Anlagen, die ihre Verminderungsverpflichtung nach Artikel 31 Absatz 1<sup>bis</sup> des CO<sub>2</sub>-Gesetztes bis Ende 2021 verlängern: 4,5 Prozent der Treibhausgasemissionen der Jahre 2013–2021.
+- c.[^75-2] für Betreiber von Anlagen, die ihre Verminderungsverpflichtung nach Artikel 31 Absatz 1<sup>bis</sup> des CO<sub>2</sub>-Gesetzes bis Ende 2021 verlängern: 4,5 Prozent der Treibhausgasemissionen der Jahre 2013–2021.
 
 <sup>2</sup>
 
@@ -2208,7 +2213,7 @@ Als fossil-thermische Kraftwerke gelten Anlagen, die aus fossilen Energieträger
 
 **Gesuch um Rückerstattung[^97-1]**
 
-<sup>1</sup> Das Rückerstattungsgesuch ist beim Bundesamt für Zoll und Grenzsicherheit (BAZG)[^97-2] in der von dieser vorgeschriebenen Form einzureichen.
+<sup>1</sup> Das Rückerstattungsgesuch ist beim Bundesamt für Zoll und Grenzsicherheit (BAZG)[^97-2] in der von diesem vorgeschriebenen Form einzureichen.
 
 <sup>2</sup>
 
@@ -2219,7 +2224,7 @@ Es muss enthalten:
 - c. Menge und Art der erworbenen Brennstoffe;
 - d. den angewendeten CO<sub>2</sub>-Abgabesatz.
 
-<sup>3</sup> Das BAZG kann weitere Nachweise verlangen, soweit sie diese für die Rückerstattung benötigt. Insbesondere sind ihr auf Verlangen die Rechnungen über die bezahlten CO<sub>2</sub>-Abgaben vorzulegen.[^97-4]
+<sup>3</sup> Das BAZG kann weitere Nachweise verlangen, soweit es diese für die Rückerstattung benötigt. Insbesondere sind ihm auf Verlangen die Rechnungen über die bezahlten CO<sub>2</sub>-Abgaben vorzulegen.[^97-4]
 
 [^97-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^97-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
@@ -2285,7 +2290,7 @@ Betreiber von WKK-Anlagen, die weder am EHS teilnehmen noch einer Verminderungsv
 
 <sup>3</sup> Es prüft die Voraussetzungen nach Absatz 1 Buchstaben a–g und leitet das Gesuch zum Entscheid an das BAZG weiter.
 
-<sup>3bis</sup> Das BAZG sind auf Verlangen die Rechnungen über die bezahlten CO<sub>2</sub>-Abgaben vorzulegen.[^98b-7]
+<sup>3bis</sup> Dem BAZG sind auf Verlangen die Rechnungen über die bezahlten CO<sub>2</sub>-Abgaben vorzulegen.[^98b-7]
 
 <sup>4</sup> Der Monitoringbericht nach Absatz 1 Buchstabe d muss insbesondere Angaben über die Entwicklung der CO<sub>2</sub>-Emissionen, die aufgrund der Stromproduktion entstanden sind, sowie eine Beschreibung der umgesetzten Massnahmen und Investitionen enthalten. Das BAFU macht Vorgaben für die Form des Berichts.
 
@@ -2328,7 +2333,7 @@ Es muss Angaben enthalten über:
 - b. Menge und Art der nicht energetisch genutzten Brennstoffe;
 - c. den angewendeten CO<sub>2</sub>-Abgabesatz.
 
-<sup>4</sup> Das BAZG kann weitere Nachweise verlangen, soweit sie diese für die Rückerstattung benötigt. Insbesondere sind ihm auf Verlangen die Rechnungen über die bezahlten CO<sub>2</sub>-Abgaben vorzulegen.[^99-2]
+<sup>4</sup> Das BAZG kann weitere Nachweise verlangen, soweit es diese für die Rückerstattung benötigt. Insbesondere sind ihm auf Verlangen die Rechnungen über die bezahlten CO<sub>2</sub>-Abgaben vorzulegen.[^99-2]
 
 [^99-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^99-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
@@ -3331,6 +3336,18 @@ Das Gesuch um Nichtberücksichtigung der CO<sub>2</sub>-Emissionen gemäss Absat
 
 [^146v-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
+### 2*f*. Abschnitt: Übergangsbestimmungen zur Änderung vom 25. Januar 2023
+
+[^chap12-sec2f-1]
+
+[^chap12-sec2f-1]: Eingefügt durch Anhang Ziff. II 1 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
+
+#### Art. 146w
+
+Emissionen, die durch die Stromproduktion infolge eines Reserveabrufs nach der Winterreserveverordnung vom 25. Januar 2023[^146w-1] verursacht werden, werden bis 2024 bei der Beurteilung der Erfüllung oder Nichterfüllung der Verminderungsverpflichtung nicht berücksichtigt.
+
+[^146w-1]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+
 ### 3. Abschnitt: Inkrafttreten
 
 #### Art. 147
@@ -3711,7 +3728,7 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/de/xml/image/image1.png)
 
 ### 3.3 Ex-ante Berechnung der Emissionsverminderungen
 
@@ -3928,7 +3945,7 @@ Anhang 4a[^t-7]
 
 ## Berechnung der individuellen Zielvorgabe
 
-[^t-7]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 798).
+[^t-7]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Berechnung der individuellen Zielvorgabe
 
@@ -4009,7 +4026,6 @@ Die zu entrichtenden Sanktionsbeträge bei Überschreiten der individuellen Ziel
 - c. für das Referenzjahr 2021: 103.50 Franken;
 - d. für das Referenzjahr 2022: 104 Franken;
 - e. für das Referenzjahr 2023: 101 Franken.
-- [tab]
 
 Anhang 6[^t-9]
 

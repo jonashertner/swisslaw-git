@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinance of 30 November 2012 for the Reduction of CO<sub>2</sub> Emissions (CO<sub>2</sub> Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: en
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230215-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CO<sub>2</sub> Ordinance)
 
-of 30 November 2012 (Status as of 1 January 2023)
+of 30 November 2012 (Status as of 15 February 2023)
 
 The Swiss Federal Council,
 
@@ -929,11 +929,16 @@ Repealed
 
 <sup>1bis</sup> An installation operator under Article 40 paragraph 2 that credibly reports that the greenhouse gas emissions of the installations are permanently less than 25,000 tonnes CO<sub>2</sub>eq per year may apply for the exemption to the obligation to participate in the ETS with immediate effect.
 
+<sup>1ter</sup> An operator of reserve power plants run on gas or other energy sources that produces electricity and feeds it into the grid when the reserve is called up in accordance with the Winter Reserve Ordinance of 25 January 2023[^41-2] may not apply for exemptions in accordance with paragraphs 1 and 1<sup>bis</sup>.[^41-3]
+
 <sup>2</sup> The installation operator must continue to submit a monitoring plan (Art. 51) and a monitoring report (Art. 52) in accordance with paragraphs 1 and 1<sup>bis</sup> unless it has made a commitment to reduce greenhouse gas emissions in accordance with Article 31 paragraph 1 of the CO<sub>2</sub> Act.
 
-<sup>3</sup> If the greenhouse gas emissions of the installations increase to more than 25,000 tonnes CO<sub>2</sub>eq during a year, then their operator must again participate in the ETS from the beginning of the following year.
+<sup>3</sup> If the greenhouse gas emissions of the installations increase to more than 25,000 tonnes CO<sub>2</sub>eq during a year, then the operator must again participate in the ETS from the beginning of the following year. Emissions from emergency power groups and CHP plants that are caused by a reserve call for electricity production under the Winter Reserve Ordinance are not taken into account here.[^41-4]
 
 [^41-1]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^41-2]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^41-3]: Inserted by Annex No II 1 of the Winter Reserve Ordinance of 25 Jan. 2023, in force from 15 Feb. 2023 to 31 Dec. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
+[^41-4]: Amended by Annex No II 1 of the Winter Reserve Ordinance of 25 Jan. 2023, in force from 15 Feb. 2023 to 31 Dec. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 
 #### Art. 42
 
@@ -1130,7 +1135,7 @@ If the portion under paragraph 2 is insufficient to meet claims in full, the emi
 
 <sup>3</sup> It shall each year retain a portion of the quantity calculated in accordance with paragraph 1 calculated in order to make it accessible to new or rapidly growing aircraft operators. The size of the portion shall be calculated in accordance with Annex 15 number 4.
 
-<sup>4</sup> The quantity of emission allowances under paragraph 3 shall be allocated to the special reserve under Annex IB of the ETS Agreement[^46e-2].
+<sup>4</sup> The quantity of emission allowances under paragraph 3 shall be allocated to the special reserve under Annex IB of the Agreement of 23 November 2017[^46e-2] between the Swiss Confederation and the European Union on the linking of their greenhouse gas emissions trading systems (ETS Agreement).
 
 [^46e-1]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46e-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
@@ -1370,7 +1375,7 @@ Installation operators that carry on an activity in accordance with Annex 6 and 
 
 <sup>1</sup>
 
-On application, the FOEN may, in cases where European emission allowances are not recognised in the Swiss ETS in accordance with Article 4 paragraph 1 of the Agreement of 23 November 2017[^55a-2] between the Swiss Confederation and the European Union on the linking of their greenhouse gas emissions trading systems (ETS Agreement), count European emission allowances towards meeting the obligation of an ETS participant in accordance with Article 55 if the ETS participant proves that:
+On application, the FOEN may, in cases where European emission allowances are not recognised in the Swiss ETS in accordance with Article 4 paragraph 1 of the ETS Agreement[^55a-2], count European emission allowances towards meeting the obligation of an ETS participant in accordance with Article 55 if the ETS participant proves that:
 
 - a. it cannot meet its surrender obligation in accordance with Article 55 without these allowances being counted;
 - b. it has participated in an auction of emission allowances in accordance with Article 48 and thus has made offers for the required quantity of emission allowances at market prices;
@@ -2204,7 +2209,7 @@ Fossil-thermal power plants are installations that produce either solely electri
 
 **Application for refund[^97-1]**
 
-<sup>1</sup> An application for refund must be submitted to the Federal Office for Customs and Border Security (FOCBS)[^97-2] in the prescribed form.
+<sup>1</sup> An application for refund must be submitted to the Federal Office for Customs and Border Security (FOCBS)[^97-2] in the form that it prescribes.
 
 <sup>2</sup>
 
@@ -2282,7 +2287,7 @@ CHP plant operators that are neither participating in the ETS nor subject to a r
 
 <sup>3</sup> It shall check compliance with the requirements specified in paragraph 1 letters a–g and forward the application to the FOCBS for a decision.
 
-<sup>3bis</sup> Invoices for the CO<sub>2</sub> levy paid must be produced if the FOCBS so requests.[^98b-7]
+<sup>3bis</sup> Invoices for the CO<sub>2</sub> levy paid must be submitted to the FOCBS if it so requests.[^98b-7]
 
 <sup>4</sup> The monitoring report referred to in paragraph 1 letter d shall in particular contain information on the development of CO<sub>2</sub> emissions resulting from electricity production and a description of the measures and investments implemented. The FOEN specifies the form of the report.
 
@@ -3328,6 +3333,18 @@ The request to disregard CO<sub>2</sub> emissions in accordance with paragraph 1
 
 [^146v-1]: Inserted by No I of the O of 16 Sept. 2022, in force since 1 Oct. 2022 ([AS 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
+### Section 2*f* Transitional Provision to the Amendment of 25 January 2023
+
+[^chap12-sec2f-1]
+
+[^chap12-sec2f-1]: Inserted by Annex No II 1 of the Winter Reserve Ordinance of 25 Jan. 2023, in force from 15 Feb. 2023 to 31 Dec. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
+
+#### Art. 146w
+
+Emissions caused by a reserve call for electricity production under the Winter Reserve Ordinance of 25 January 2023[^146w-1] shall not be taken into account before 2024 when assessing whether or not the reduction obligation has been met.
+
+[^146w-1]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+
 ### Section 3 Commencement
 
 #### Art. 147
@@ -3707,7 +3724,7 @@ In this Annex:
 
 For determining the value of the oxidation factor parameter (OX) required to calculate the emission reductions, the following decision tree must be used:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/en/xml/image/image1.png)
 
 ### 3.3 Ex-ante calculation of emission reductions
 
@@ -4512,6 +4529,7 @@ Annex 12[^t-15]
 ### 4 Procedures to support development
 
 - 4\.1 An application for support for development may only be submitted if prospecting has been carried out beforehand in the area concerned and a prospecting report regarding the probability of a presumed geothermal reservoir is available.
+
 - 4\.2 Application
 -
 
@@ -4844,5 +4862,3 @@ The verification of monitoring reports shall be carried out as follows:
 [^annex18-lvlu1-lvl4-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^annex18-lvlu1-lvl4-2]: Ordinance (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Ordinance (EEC) No 339/93 of the Council, OJ L 218 of 13.8.2008, p. 30, last amended by Regulation (EU) 2019/1020, OJ L 169 of 25.6.2019, p. 1.
 [^annex18-lvlu1-lvl4-3]: Commission Implementing Ordinance (EU) 2018/2067 of 19 December 2018 on the verification of data and on the accreditation of verifiers pursuant to Directive 2003/87/EC of the European Parliament and of the Council, OJ L 334 of 31.12.2018, p. 94, last amended by Implementing Regulation (EU) 2020/2084, OJ L 423 of 15.12.2020, p. 23.
-
-## Inhaltsverzeichnis

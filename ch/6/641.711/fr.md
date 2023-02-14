@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordonnance du 30 novembre 2012 sur la réduction des émissions de CO<sub>2</sub> (Ordonnance sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: fr
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230215-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/fr"
 
 (Ordonnance sur le CO<sub>2</sub>)
 
-du 30 novembre 2012 (État le 1<sup>er</sup> janvier 2023)
+du 30 novembre 2012 (État le 15 février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -925,11 +925,16 @@ Abrogés
 
 <sup>1bis</sup> Un exploitant d’installations au sens de l’art. 40, al. 2, qui apporte la preuve crédible que les émissions de gaz à effet de serre des installations seront durablement inférieures à 25 000 tonnes d’éq.-CO<sub>2</sub> par an peut demander à être exempté de l’obligation de participer au SEQE avec effet immédiat.
 
+<sup>1ter</sup> Un exploitant de centrales de réserve fonctionnant au gaz ou avec d’autres agents énergétiques qui produit de l’électricité et l’injecte dans le réseau dans le cadre d’un recours à la réserve d’électricité visé par l’ordonnance du 25 janvier 2023 sur une réserve d’hiver[^41-2] ne peut pas demander à être exempté au sens des al. 1 et 1<sup>bis</sup>.[^41-3]
+
 <sup>2</sup> L’exploitant d’installations doit continuer de remettre un plan de suivi (art. 51) et un rapport de suivi (art. 52), sauf s’il s’est engagé à limiter les émissions de gaz à effet de serre des installations selon l’art. 31, al. 1, de la loi sur le CO<sub>2</sub>.
 
-<sup>3</sup> Si les émissions de gaz à effet de serre des installations s’élèvent à plus de 25 000 tonnes d’éq.-CO<sub>2</sub> au cours d’une année, l’exploitant devra participer au SEQE dès le début de l’année suivante.
+<sup>3</sup> Si les émissions de gaz à effet de serre des installations s’élèvent à plus de 25 000 tonnes d’éq.-CO<sub>2</sub> au cours d’une année, l’exploitant devra participer au SEQE dès le début de l’année suivante. Les émissions des groupes électrogènes de secours et des installations CCF qui sont générées dans le cadre d’un recours à la réserve d’électricité visé par l’ordonnance sur une réserve d’hiver ne sont pas prises en compte.[^41-4]
 
 [^41-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^41-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^41-3]: Introduit par l’annexe ch. II 1 de l’O du 25 janv. 2023 sur une réserve d’hiver, en vigueur du 15 fév. 2023 au 31 déc. 2026 ([RO 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
+[^41-4]: Nouvelle teneur selon l’annexe ch. II 1 de l’O du 25 janv. 2023 sur une réserve d’hiver, en vigueur du 15 fév. 2023 au 31 déc. 2026 ([RO 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 
 #### Art. 42
 
@@ -1126,7 +1131,7 @@ Si la part visée à l’al. 2 ne suffit pas pour satisfaire entièrement aux pr
 
 <sup>3</sup> Il garde en réserve chaque année une part de la quantité calculée en vertu de l’al. 1 pour la mettre à la disposition des nouveaux exploitants d’aéronefs ou de ceux en forte croissance. Cette part est calculée conformément à l’annexe 15, ch. 4.
 
-<sup>4</sup> La quantité de droits d’émission visés à l’al. 3 est versée dans la réserve spéciale en vertu de l’annexe IB de l’accord SEQE[^46e-2].
+<sup>4</sup> La quantité de droits d’émission visés à l’al. 3 est versée dans la réserve spéciale en vertu de l’annexe IB de l’Accord du 23 novembre 2017 entre la Confédération suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission de gaz à effet de serre (accord SEQE)[^46e-2].
 
 [^46e-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46e-2]: [RS 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
@@ -1369,7 +1374,7 @@ Les exploitants d’installations qui exercent une des activités visées à l�
 
 <sup>1</sup>
 
-Dans les cas où les droits d’émission européens ne sont pas reconnus dans le SEQE suisse en vertu de l’art. 4, al. 1, de l’Accord du 23 novembre 2017 entre la Confédération suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission de gaz à effet de serre (accord SEQE)[^55a-2], l’OFEV peut, sur demande, imputer des droits d’émission européens à un participant au SEQE pour qu’il remplisse son obligation au sens de l’art. 55 si celui-ci prouve:
+Dans les cas où les droits d’émission européens ne sont pas reconnus dans le SEQE suisse en vertu de l’art. 4, al. 1, de l’accord SEQE[^55a-2], l’OFEV peut, sur demande, imputer des droits d’émission européens à un participant au SEQE pour qu’il remplisse son obligation au sens de l’art. 55 si celui-ci prouve:
 
 - a. qu’il n’est pas en mesure de remplir son obligation au sens de l’art. 55 sans cette imputation;
 - b. qu’il a participé à la mise aux enchères de droits d’émission au sens de l’art. 48 et qu’il a soumis des offres aux prix du marché pour la quantité de droits d’émission nécessaire;
@@ -3340,6 +3345,18 @@ La demande de non-prise en compte des émissions de CO<sub>2</sub> prévue à l�
 
 [^146v-1]: Introduit par le ch. I de l’O du 16 sept. 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
+### Section 2*f* Dispositions transitoires de la modification du 25 janvier 2023
+
+[^chap12-sec2f-1]
+
+[^chap12-sec2f-1]: Introduite par l’annexe ch. II 1 de l’O du 25 janv. 2023 sur une réserve d’hiver, en vigueur du 15 fév. 2023 au 31 déc. 2026 ([RO 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
+
+#### Art. 146w
+
+Jusqu’en 2024, les émissions générées dans le cadre d’un recours à la réserve d’électricité visé par l’ordonnance du 25 janvier 2023 sur une réserve d’hiver[^146w-1] ne sont pas prises en compte dans l’évaluation du respect ou du non-respect de l’engagement de réduction.
+
+[^146w-1]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+
 ### Section 3 Entrée en vigueur
 
 #### Art. 147
@@ -3720,7 +3737,7 @@ Au sens de la présente annexe, on entend par:
 
 Le facteur d’oxydation (OX) est un paramètre indispensable au calcul des réductions d’émissions. Le choix de sa valeur découle de l’arbre de décision suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/fr/xml/image/image1.png)
 
 ### 3.3 Calcul ex-ante des réductions d’émissions
 

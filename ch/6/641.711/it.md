@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230215-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 1° gennaio 2023)
+del 30 novembre 2012 (Stato 15 febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,7 @@ Gli obiettivi intermedi per il 2015 sono:
 
 <sup>2</sup> Se un obiettivo intermedio settoriale di cui al capoverso 1 non è raggiunto, il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) chiede al Consiglio federale di prendere ulteriori misure dopo aver consultato i Cantoni e le cerchie interessate.
 
-### Sezione 4: ...
+### Sezione 4: …
 
 #### Art. 4
 
@@ -380,7 +380,7 @@ Gli attestati per le riduzioni delle emissioni conseguite in Svizzera nel period
 
 <sup>2</sup> Gli attestati sono rilasciati per riduzioni delle emissioni pari alla differenza tra il percorso di riduzione dedotta la percentuale determinante di cui al capoverso 1 lettera b e le emissioni di gas serra nel corso dell’anno interessato, e ciò per l’ultima volta nel 2021.[^12-9]
 
-<sup>3</sup> ...[^12-10]
+<sup>3</sup> …[^12-10]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^12-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
@@ -809,7 +809,7 @@ L’obiettivo individuale per le emissioni di CO<sub>2</sub> del parco veicoli n
 
 <sup>3</sup> Se non paga la sanzione entro il termine stabilito, il grande importatore deve un interesse di mora. Il Dipartimento federale delle finanze (DFF) ne stabilisce il tasso.[^30-2]
 
-<sup>4</sup> ... [^30-3]
+<sup>4</sup> … [^30-3]
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 [^30-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
@@ -927,11 +927,16 @@ L’UFE informa annualmente in forma appropriata la popolazione in merito al rag
 
 <sup>1bis</sup> Un gestore di impianti secondo l’articolo 40 capoverso 2 che dimostri in modo credibile che le emissioni di gas serra degli impianti saranno durevolmente inferiori a 25 000 tonnellate di CO<sub>2</sub>eq all’anno può chiedere la deroga all’obbligo di partecipare al SSQE con effetto immediato.
 
+<sup>1ter</sup> Un gestore di centrali elettriche di riserva a gas o ad altri vettori energetici che in caso di prelievo dalla riserva secondo l’ordinanza del 25 gennaio 2023[^41-2] sulla riserva invernale produca corrente elettrica e la immetta nella rete non può chiedere deroghe di cui ai capoversi 1 e 1<sup>bis</sup>.[^41-3]
+
 <sup>2</sup> Il gestore di impianti di cui ai capoversi 1 e 1<sup>bis</sup> deve continuare a presentare un piano di monitoraggio (art. 51) e un rapporto di monitoraggio (art. 52), salvo che si sia impegnato a ridurre le emissioni di gas serra conformemente all’articolo 31 capoverso 1 della legge sul CO<sub>2</sub>.
 
-<sup>3</sup> Se le emissioni di gas serra degli impianti superano le 25 000 tonnellate di CO<sub>2</sub>eq nell’arco di un anno, il loro gestore entra nuovamente a far parte del SSQE a decorrere dall’inizio dell’anno successivo.
+<sup>3</sup> Se le emissioni di gas serra degli impianti superano le 25 000 tonnellate di CO<sub>2</sub>eq nell’arco di un anno, il loro gestore entra nuovamente a far parte del SSQE a decorrere dall’inizio dell’anno successivo. Non sono prese in considerazione le emissioni dei gruppi elettrogeni di emergenza e degli impianti di cogenerazione provocate dalla produzione di energia elettrica a seguito di un prelievo dalla riserva secondo l’ordinanza sulla riserva invernale.[^41-4]
 
 [^41-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^41-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^41-3]: Introdotto dall’all. n. II 1 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
+[^41-4]: Nuovo testo giusta l’all. n. II 1 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 
 #### Art. 42
 
@@ -946,7 +951,7 @@ Un gestore di impianti può, su domanda, partecipare al SSQE se:
 
 <sup>2</sup> Un gestore del quale si prevede che adempierà le condizioni di partecipazione di cui al capoverso 1 deve presentare la domanda al più tardi tre mesi prima del momento in cui le soddisferà per la prima volta.[^42-2]
 
-<sup>2bis</sup> ...[^42-3]
+<sup>2bis</sup> …[^42-3]
 
 <sup>3</sup>
 
@@ -1128,7 +1133,7 @@ Se la quota di cui al capoverso 2 non è sufficiente per adempiere completamente
 
 <sup>3</sup> L’UFAM trattiene una quota della quantità calcolata secondo il capoverso 1 per metterla a disposizione di operatori di aeromobili nuovi o in forte crescita. L’ammontare della quota è calcolato secondo l’allegato 15 numero 4.
 
-<sup>4</sup> La quantità di diritti di emissione secondo il capoverso 3 è assegnata alla riserva speciale secondo l’allegato IB dell’accordo SSQE[^46e-2].
+<sup>4</sup> La quantità di diritti di emissione secondo il capoverso 3 è assegnata alla riserva speciale secondo l’allegato IB dell’accordo del 23 novembre 2017[^46e-2] tra la Confederazione Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra (accordo SSQE).
 
 [^46e-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46e-2]: [RS 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
@@ -1139,7 +1144,7 @@ Se la quota di cui al capoverso 2 non è sufficiente per adempiere completamente
 
 <sup>1</sup> L’UFAM calcola la quantità di diritti di emissione da assegnare annualmente a titolo gratuito a un operatore di aeromobili secondo l’allegato 15 numeri 6 e 7. L’assegnazione avviene soltanto se l’operatore di aeromobili ha presentato un rapporto di monitoraggio sulle tonnellate-chilometro secondo l’ordinanza del 2 giugno 2017[^46f-1] sul rilevamento di dati concernenti le tonnellate-chilometro e sull’elaborazione di piani di monitoraggio per le rotte aeree.[^46f-2]
 
-<sup>2</sup> *...*[^46f-3]
+<sup>2</sup> *…*[^46f-3]
 
 <sup>3</sup> Un operatore di aeromobile a cui sono stati assegnati diritti di emissione a titolo gratuito e che in un dato anno non opera voli secondo l’allegato 13 deve restituire all’UFAM i diritti di emissione assegnati a titolo gratuito per quell’anno entro il 30 novembre dell’anno successivo. I diritti di emissione restituiti sono cancellati.[^46f-4]
 
@@ -1369,7 +1374,7 @@ I gestori di impianti che esercitano un’attività di cui all’allegato 6 e so
 
 <sup>1</sup>
 
-Nei casi in cui i diritti di emissione europei non sono riconosciuti nel SSQE svizzero secondo l’articolo 4 capoverso 1 dell’accordo del 23 novembre 2017[^55a-2] tra la Confederazione Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra (accordo SSQE), l’UFAM può computare secondo l’articolo 55 diritti di emissione europei all’obbligo di un partecipante al SSQE svizzero, se quest’ultimo prova che:
+Nei casi in cui i diritti di emissione europei non sono riconosciuti nel SSQE svizzero secondo l’articolo 4 capoverso 1 dell’accordo SSQE[^55a-2], l’UFAM può computare secondo l’articolo 55 diritti di emissione europei all’obbligo di un partecipante al SSQE svizzero, se quest’ultimo prova che:
 
 - a. senza il computo non può adempiere al proprio obbligo di consegna secondo l’articolo 55;
 - b. ha partecipato alla vendita all’asta dei diritti di emissione conformemente all’articolo 48 facendo offerte a prezzi di mercato per la quantità di diritti di emissione necessaria;
@@ -1693,7 +1698,7 @@ Il percorso di riduzione si basa sull’articolo 31 capoverso 3 della legge sul 
 - c. i provvedimenti già realizzati per ridurre i gas serra e la loro efficacia;
 - d. il potenziale di riduzione rimanente;
 - e. l’economicità dei possibili provvedimenti di riduzione dei gas serra;
-- f.[^67-4] ...
+- f.[^67-4] …
 - g. la quota di teleriscaldamento o teleraffreddamento prodotto;
 - h. l’ammontare delle tasse sul CO<sub>2</sub> che possono essere risparmiate.
 
@@ -1723,7 +1728,7 @@ Si basa sull’articolo 31 capoverso 3 della legge sul CO<sub>2</sub> e su:
 - a.[^68-3] sullo stato della tecnica utilizzata negli impianti;
 - b. il potenziale di riduzione rimanente;
 - c. l’economicità dei possibili provvedimenti di riduzione dei gas serra;
-- d.[^68-4] ...
+- d.[^68-4] …
 - e. la quota di teleriscaldamento o teleraffreddamento prodotto;
 - f. l’ammontare delle tasse sul CO<sub>2</sub> che possono essere risparmiate.
 
@@ -1942,7 +1947,7 @@ Sempre che siano tutelati il segreto di fabbricazione e il segreto d’affari, l
 [^79-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^79-3]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-## Capitolo 6: ...
+## Capitolo 6: …
 
 #### Art. 80 a 85
 
@@ -2023,9 +2028,9 @@ L’aliquota di compensazione ammonta complessivamente:
 
 <sup>1</sup> La persona soggetta all’obbligo di compensazione delle emissioni di CO<sub>2</sub> adempie al proprio obbligo di compensazione entro il 31 dicembre dell’anno successivo.[^91-1]
 
-<sup>2</sup> ...[^91-2]
+<sup>2</sup> …[^91-2]
 
-<sup>3</sup> ...[^91-3]
+<sup>3</sup> …[^91-3]
 
 <sup>4</sup> Con l’adempimento dell’obbligo di compensazione, la persona soggetta all’obbligo di compensazione riferisce in maniera dettagliata e trasparente sui costi per tonnellata di CO<sub>2</sub> compensata.[^91-4]
 
@@ -2205,14 +2210,14 @@ Sono considerati centrali termoelettriche a combustibili fossili gli impianti ch
 
 **Domanda di restituzione[^97-1]**
 
-<sup>1</sup> La domanda di restituzione deve essere presentata all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^97-2] nella forma prescritta da quest’ultima.
+<sup>1</sup> La domanda di restituzione deve essere presentata all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^97-2] nella forma prescritta da quest’ultimo.
 
 <sup>2</sup>
 
 Deve contenere:
 
 - a. l’elenco dettagliato delle tasse sul CO<sub>2</sub> versate;
-- b.[^97-3] ...
+- b.[^97-3] …
 - c. la quantità e il tipo dei combustibili acquistati;
 - d. l’aliquota applicata per la tassa sul CO<sub>2</sub>.
 
@@ -2276,7 +2281,7 @@ I gestori di impianti di cogenerazione che non partecipano al SSQE né hanno pre
 - e. indicazioni sull’evoluzione annuale delle emissioni di CO<sub>2</sub> generate dalla produzione misurata di elettricità;
 - f. l’attestazione del Cantone di ubicazione circa il rispetto dell’ordinanza contro l’inquinamento atmosferico;
 - g. indicazioni sulle misure previste;
-- h. e i.[^98b-5] ...
+- h. e i.[^98b-5] …
 - j.[^98b-6] la conferma che per l’esercizio di impianti di cogenerazione sono stati utilizzati combustibili assoggettati alla tassa nonché l’aliquota della tassa sul CO<sub>2</sub> applicata.
 
 <sup>2</sup> L’UFAM emana disposizioni concernenti la forma della domanda.
@@ -2316,7 +2321,7 @@ I gestori di impianti di cogenerazione che non partecipano al SSQE né hanno pre
 
 <sup>1bis</sup> L’UDSC può accordare sulla base della quantità acquistata il rimborso della tassa per combustibili non utilizzati a scopo energetico, purché le condizioni aziendali della persona richiedente non suscitino dubbi sull’utilizzazione a scopo non energetico e la persona richiedente conferma in modo vincolante all’UDSC l’utilizzazione a scopo non energetico dei combustibili.[^99-1]
 
-<sup>2</sup> La domanda di restituzione deve essere presentata all’UDSC nella forma prescritta da quest’ultima.
+<sup>2</sup> La domanda di restituzione deve essere presentata all’UDSC nella forma prescritta da quest’ultimo.
 
 <sup>3</sup>
 
@@ -2974,7 +2979,7 @@ Le seguenti ordinanze sono abrogate:
 
 **Modifica del diritto vigente**
 
-...[^137-1]
+…[^137-1]
 
 [^137-1]: La mod. può essere consultata alla [RU 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856).
 
@@ -3161,7 +3166,7 @@ I gestori di impianti con impegno di riduzione possono, in deroga all’articolo
 
 **Partecipazione al SSQE al 1° gennaio 2021**
 
-<sup>1</sup> I gestori di impianti che al momento dell’entrata in vigore della modifica del 25 novembre 2020 esercitano un’attività di cui all'allegato 6 devono notificarla all’UFAM entro il 28 febbraio 2021.
+<sup>1</sup> I gestori di impianti che al momento dell’entrata in vigore della modifica del 25 novembre 2020 esercitano un’attività di cui all’allegato 6 devono notificarla all’UFAM entro il 28 febbraio 2021.
 
 <sup>2</sup> Ai gestori che non rispettano il termine di notifica di cui al capoverso 1 vengono attribuiti gratuitamente soltanto diritti di emissione dalla quota secondo l’articolo 45 capoverso 2. Se questa quota non è sufficiente per soddisfare pienamente le richieste, ai fini dell’attribuzione dei diritti di emissioni detti gestori sono equiparati ai gestori di impianti di cui all’articolo 45 capoverso 4 lettera d. In deroga all’articolo 45 capoverso 5, per l’attribuzione è determinante la data della notifica.
 
@@ -3335,7 +3340,19 @@ La domanda di non considerazione delle emissioni di CO<sub>2</sub> secondo il ca
 
 [^146v-1]: Introdotto dal n. I dell’O del 16 set. 2022, in vigore dal 1° ott. 2022 ([RU 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
+## Sezione 2*f*: Disposizione transitoria concernente la modifica del 25 gennaio 2023
+
+[^sec2f-1]
+
+[^sec2f-1]: Introdotta dall’all. n. II 1 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
+
+**Art. 146**w
+
+Sino al 2024 le emissioni provocate dalla produzione di energia elettrica a seguito di un prelievo dalla riserva secondo l’ordinanza del 25 gennaio 2023[^sec2f-2] sulla riserva invernale non sono tenute in considerazione nella valutazione dell’adempimento o del mancato adempimento dell’impegno di riduzione.
+
 ### Sezione 3: Entrata in vigore
+
+[^sec2f-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
 
 #### Art. 147
 
@@ -3715,7 +3732,7 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante delle riduzioni delle emissioni
 
@@ -4329,7 +4346,7 @@ Allegato 11[^t-14]
 
 [^t-14]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### 1 ...
+### 1 …
 
 ### 2 Aliquote della tassa
 
@@ -4405,7 +4422,7 @@ Per i combustibili menzionati qui di seguito si applicano le seguenti aliquote:
 <tr><td>1190</td><td>– – – altro (soltanto quota fossile)</td><td colspan="2">130,75</td></tr>
 <tr><td>3826.</td><td>Biodiesel e sue miscele, senza oli di petrolio o di minerali bituminosi o contenenti, in peso, meno del 70 % di oli di petrolio o di minerali bituminosi:</td><td></td></tr>
 <tr><td>0090</td><td>– altri (solo quota fossile)</td><td>318,00</td></tr>
-<tr><td>...</td><td>Combustibili derivanti da altre materie prime fossili</td><td>278,40</td></tr>
+<tr><td>…</td><td>Combustibili derivanti da altre materie prime fossili</td><td>278,40</td></tr>
 </table>
 
 [^annex11-lvlu1-lvl2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
