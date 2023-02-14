@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2023-01-25
+version: 2023-02-15
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230125/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230125-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230215-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 25. Januar 2023)
+vom 4. März 2022 (Stand am 15. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1476,7 +1476,8 @@ Artikel 12*b* Absätze 1 und 2 ist nicht anwendbar auf:
   - 1\. die genannten Tätigkeiten auf der Grundlage eines Vertrags erfolgen, der vor der Änderung von Anhang 28 geschlossen wurde, und
   - 2\. der Einkaufspreis zum Zeitpunkt des Vertragsabschlusses die in Anhang 28 festgelegte Preisobergrenze nicht überstieg;
 
-- d.[^35-26] den Transport von Rohöl der Zolltarifnummer 2709 00 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation, das vor dem 16. Dezember 2022 im Verladehafen auf ein Schiff verladen und vor dem 19. Januar 2023 im Endbestimmungshafen entladen wurde und dessen Einkaufspreis die in Anhang 28 festgelegte Preisobergrenze übersteigt.[^35-27]
+- d.[^35-26] den Transport von Rohöl der Zolltarifnummer 2709 00 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation, das vor dem 16. Dezember 2022 im Verladehafen auf ein Schiff verladen und vor dem 19. Januar 2023 im Endbestimmungshafen entladen wurde und dessen Einkaufspreis die in Anhang 28 festgelegte Preisobergrenze übersteigt;
+- e.[^35-27] den Handel, die Vermittlung und den Transport von Erdölerzeugnissen der Zolltarifnummer 2710 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation, die vor dem 15. Februar 2023 im Verladehafen auf ein Schiff verladen und vor dem 11. April 2023 im Endbestimmungshafen entladen wurden und deren Einkaufspreis die in Anhang 28 festgelegte Preisobergrenze übersteigt.[^35-28]
 
 <sup>26</sup>
 
@@ -1484,12 +1485,12 @@ Artikel 24*a* Absatz 1 ist nicht anwendbar auf:
 
 - a. die Entgegennahme von Zahlungen, die von der in Anhang 15 unter der SSID-Nummer 175-57347 genannten Organisation aufgrund eines Vertrags geschuldet werden, der bis zum 4. Februar 2023 erfüllt wurde;
 - b. Transaktionen, die vor dem 24. November 2022 mit der in Anhang 15 unter der SSID-Nummer 175-57347 genannten Organisation vertraglich vereinbart wurden und bis zum 4. Februar 2023 erfüllt sind;
-- c.[^35-28] die Entgegennahme von Zahlungen, die von der in Anhang 15 unter der SSID-Nummer 175-59958 genannten Organisation aufgrund eines Vertrags geschuldet werden, der bis zum 26. April 2023 erfüllt wurde;
-- d.[^35-29] Transaktionen, die vor dem 25. Januar 2023 mit der in Anhang 15 unter der SSID-Nummer 175-59958 genannten Organisation vertraglich vereinbart wurden und bis zum 26. April 2023 erfüllt sind.[^35-30]
+- c.[^35-29] die Entgegennahme von Zahlungen, die von der in Anhang 15 unter der SSID-Nummer 175-59958 genannten Organisation aufgrund eines Vertrags geschuldet werden, der bis zum 26. April 2023 erfüllt wurde;
+- d.[^35-30] Transaktionen, die vor dem 25. Januar 2023 mit der in Anhang 15 unter der SSID-Nummer 175-59958 genannten Organisation vertraglich vereinbart wurden und bis zum 26. April 2023 erfüllt sind.[^35-31]
 
-<sup>27</sup> Artikel 28*e* Absatz 1<sup>bis</sup> ist nicht auf die Erbringung von Dienstleistungen anwendbar, die erforderlich sind, um Verträge, die vor dem 24. November 2022 geschlossen wurden und mit den Bestimmungen von Artikel 28*e* nicht vereinbar sind, bis zum 4. Februar 2023 zu beenden.[^35-31]
+<sup>27</sup> Artikel 28*e* Absatz 1<sup>bis</sup> ist nicht auf die Erbringung von Dienstleistungen anwendbar, die erforderlich sind, um Verträge, die vor dem 24. November 2022 geschlossen wurden und mit den Bestimmungen von Artikel 28*e* nicht vereinbar sind, bis zum 4. Februar 2023 zu beenden.[^35-32]
 
-<sup>28</sup> Artikel 28*e* Absatz 1<sup>ter</sup> ist nicht auf die Erbringung von Dienstleistungen anwendbar, die erforderlich sind, um Verträge, die vor dem 25. Januar 2023 geschlossen wurden und mit den Bestimmungen von Artikel 28*e* nicht vereinbar sind, bis zum 24. Februar 2023 zu beenden.[^35-32]
+<sup>28</sup> Artikel 28*e* Absatz 1<sup>ter</sup> ist nicht auf die Erbringung von Dienstleistungen anwendbar, die erforderlich sind, um Verträge, die vor dem 25. Januar 2023 geschlossen wurden und mit den Bestimmungen von Artikel 28*e* nicht vereinbar sind, bis zum 24. Februar 2023 zu beenden.[^35-33]
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-2]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
@@ -1517,12 +1518,13 @@ Artikel 24*a* Absatz 1 ist nicht anwendbar auf:
 [^35-24]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-25]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 16. Dez. 2022 um 18.00 Uhr ([AS 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 [^35-26]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022 ([AS 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)). Fassung gemäss Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-27]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-28]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-27]: Eingefügt durch Ziff. I der V vom 15. Febr. 2023, in Kraft seit 15. Febr. 2023 um 18.00 Uhr ([AS 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^35-28]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-29]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-30]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-30]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 [^35-31]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-32]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-32]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-33]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 36
 
@@ -1875,8 +1877,8 @@ Anhang 8[^t-8]
 
 [^annex8-lvlu1-1]
 
-[^t-8]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), Ziff. I der V des WBF vom 16. Aug. 2022 ([AS 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), vom 26. Sept. 2022 ([AS 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), Ziff. I Abs. 1 der V des WBF vom 11. Okt. 2022 ([AS 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), Ziff. I der V des WBF vom 31. Okt. 2022 ([AS 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), Ziff. I Abs. 1 der V des WBF vom 7. Dez. 2022 ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)) und Ziff. I der V des WBF vom 20. Dez. 2022, in Kraft seit 21. Dez. 2022 um 18.00 Uhr ([AS 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)).
-[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/833](https://fedlex.data.admin.ch/eli/oc/2022/833) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-8]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), Ziff. I der V des WBF vom 16. Aug. 2022 ([AS 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), vom 26. Sept. 2022 ([AS 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), Ziff. I Abs. 1 der V des WBF vom 11. Okt. 2022 ([AS 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), Ziff. I der V des WBF vom 31. Okt. 2022 ([AS 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), Ziff. I Abs. 1 der V des WBF vom 7. Dez. 2022 ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), Ziff. I der V des WBF vom 20. Dez. 2022 ([AS 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)) und Ziff. II Abs. 1 der V vom 15. Febr. 2023, in Kraft seit 15. Febr. 2023 um 18.00 Uhr ([AS 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^annex8-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/71](https://fedlex.data.admin.ch/eli/oc/2023/71) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 9
 
@@ -2827,8 +2829,8 @@ Anhang 25[^t-21]
 
 [^annex25-lvlu1-1]
 
-[^t-21]: Eingefügt durch Ziff. II der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^annex25-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-21]: Eingefügt durch Ziff. II der V vom 29. Juni 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 15. Febr. 2023, in Kraft seit 15. Febr. 2023 um 18.00 Uhr ([AS 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^annex25-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/71](https://fedlex.data.admin.ch/eli/oc/2023/71) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 26[^t-22]
 
@@ -2861,15 +2863,43 @@ Anhang 27[^t-23]
 
 Anhang 28[^t-24]
 
-(Art. 12*b* Abs. 3 und 4 Bst. b)
+(Art. 12*b* Abs. 3 und 4 Bst. b sowie 35 Abs. 25 Bst. c–e)
 
 ## Preise für Erdöl und Erdölerzeugnisse
 
-[^t-24]: Eingefügt durch Ziff. II Abs. 4 der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 7. Dez. 2022, in Kraft seit 8. Dez. 2022 um 18.00 Uhr ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
+[^t-24]: Eingefügt durch Ziff. II Abs. 4 der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. II Abs. 2 der V vom 15. Febr. 2023, in Kraft seit 15. Febr. 2023 um 18.00 Uhr ([AS 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Bezeichnung</th><th>Preis je Barrel (USD)</th></tr>
 <tr><td>2709 00</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh</td><td>60</td></tr>
+<tr><td></td><td>Erdöl und Öl aus bituminösen Mineralien (ausg. rohe Öle) und Zubereitungen mit einem Gehalt an Erdöl oder Öl aus bituminösen Mineralien von 70 GHT oder mehr, in denen diese Öle der Grundbestandteil sind, anderweit weder genannt noch inbegriffen, ausgenommen solche, die Biodiesel enthalten, und ausgenommen Ölabfälle</td><td></td></tr>
+<tr><td>2710 12</td><td>Leichtöle und Zubereitungen</td><td></td></tr>
+<tr><td></td><td>zur Verwendung als Treibstoff</td><td></td></tr>
+<tr><td>2710 12 11</td><td>Benzin und seine Fraktionen</td><td>100</td></tr>
+<tr><td>2710 12 12</td><td>White Spirit</td><td>100</td></tr>
+<tr><td>2710 12 19</td><td>andere</td><td>100</td></tr>
+<tr><td></td><td>zu andern Zwecken</td><td></td></tr>
+<tr><td>2710 12 91</td><td>Benzin und seine Fraktionen</td><td>45</td></tr>
+<tr><td>2710 12 92</td><td>White Spirit</td><td>45</td></tr>
+<tr><td>2710 12 99</td><td>andere</td><td>45</td></tr>
+<tr><td>2710 19</td><td>andere</td><td></td></tr>
+<tr><td></td><td>zur Verwendung als Treibstoff</td><td></td></tr>
+<tr><td>2710 19 11</td><td>Petroleum</td><td>100</td></tr>
+<tr><td>2710 19 12</td><td>Dieselöl</td><td>100</td></tr>
+<tr><td>2710 19 19</td><td>andere</td><td>100</td></tr>
+<tr><td></td><td>zu andern Zwecken</td><td></td></tr>
+<tr><td>2710 19 91</td><td>Petroleum</td><td>100</td></tr>
+<tr><td>2710 19 92</td><td>Heizöle zu Feuerungszwecken</td><td>45</td></tr>
+<tr><td>2710 19 93</td><td>Mineralöldestillate, bei denen weniger als 20 % vol vor 300 °C übergehen, unvermischt</td><td>45</td></tr>
+<tr><td>2710 19 94</td><td>Mineralöldestillate, bei denen weniger als 20 % vol vor 300 °C übergehen, vermischt</td><td>45</td></tr>
+<tr><td>2710 19 95</td><td>Mineralschmierfett</td><td>45</td></tr>
+<tr><td>2710 19 99</td><td>andere Destillate und Produkte</td><td>45</td></tr>
+<tr><td></td><td>Erdöle oder Öle aus bituminösen Mineralien (andere als rohe Öle) und anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden, Biodiesel enthaltend, andere als Ölabfälle</td><td></td></tr>
+<tr><td>2710 20 10</td><td>zur Verwendung als Treibstoff</td><td>100</td></tr>
+<tr><td>2710 20 90</td><td>zu andern Zwecken</td><td>45</td></tr>
+<tr><td></td><td>Ölabfälle</td><td></td></tr>
+<tr><td>2710 91 00</td><td>Polychlordiphenyle (PCB), Polychlorterphenyle (PCT) oder Polybromdiphenyle (PBB) enthaltend</td><td>45</td></tr>
+<tr><td>2710 99 00</td><td>andere</td><td>45</td></tr>
 </table>
 
 Anhang 29[^t-25]

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2023-01-25
+version: 2023-02-15
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230125/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230125-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230215-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 25 janvier 2023)
+du 4 mars 2022 (État le 15 février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1471,7 +1471,8 @@ L’art. 12*b*, al. 1 et 2, ne s’applique pas:
   - 1\. les activités visées soient fondées sur un contrat conclu avant la modification de l’annexe 28, et que
   - 2\. le prix d’achat à la date de la conclusion du contrat n’ait pas excédé le prix-plafond fixé à l’annexe 28;
 
-- d.[^35-26] au transport de pétrole brut de la position tarifaire 2709 00 originaire ou provenant de la Fédération de Russie qui a été chargé à bord d’un navire au port de chargement avant le 16 décembre 2022 et déchargé au port de destination finale avant le 19 janvier 2023 et dont le prix d’achat excède le prix-plafond fixé à l’annexe 28.[^35-27]
+- d.[^35-26] au transport de pétrole brut de la position tarifaire 2709 00 originaire ou provenant de la Fédération de Russie qui a été chargé à bord d’un navire au port de chargement avant le 16 décembre 2022 et déchargé au port de destination finale avant le 19 janvier 2023 et dont le prix d’achat excède le prix-plafond fixé à l’annexe 28;
+- e.[^35-27] au commerce, au courtage et au transport de produits pétroliers de la position tarifaire 2710 originaires ou provenant de la Fédération de Russie qui ont été chargés à bord d’un navire au port de chargement avant le 15 février 2023 et déchargés au port de destination finale avant le 11 avril 2023 et dont le prix d’achat excède le prix-plafond fixé à l’annexe 28.[^35-28]
 
 <sup>26</sup>
 
@@ -1479,12 +1480,12 @@ L’art. 24*a*, al. 1, ne s’applique pas:
 
 - a. à la réception de paiements dus par l’entité visée à l’annexe 15 sous le numéro SSID 175-57347, sur la base d’un contrat exécuté jusqu’au 4 février 2023;
 - b. aux transactions régies par un contrat conclu avant le 24 novembre 2022 avec l’entité visée à l’annexe 15 sous le numéro SSID 175-57347 et exécuté jusqu’au 4 février 2023;
-- c.[^35-28] à la réception de paiements dus par l’entité visée à l’annexe 15 sous le numéro SSID 175-59958, sur la base d’un contrat exécuté jusqu’au 26 avril 2023;
-- d.[^35-29] aux transactions régies par un contrat conclu avant le 25 janvier 2023 avec l’entité visée à l’annexe 15 sous le numéro SSID 175-59958 et exécuté jusqu’au 26 avril 2023.[^35-30]
+- c.[^35-29] à la réception de paiements dus par l’entité visée à l’annexe 15 sous le numéro SSID 175-59958, sur la base d’un contrat exécuté jusqu’au 26 avril 2023;
+- d.[^35-30] aux transactions régies par un contrat conclu avant le 25 janvier 2023 avec l’entité visée à l’annexe 15 sous le numéro SSID 175-59958 et exécuté jusqu’au 26 avril 2023.[^35-31]
 
-<sup>27</sup> L’art. 28*e*, al. 1<sup>bis</sup>, ne s’applique pas à la fourniture de services nécessaires pour mettre fin, au plus tard le 4 février 2023, aux contrats conclus avant le 24 novembre 2022 qui ne sont pas conformes aux dispositions dudit article.[^35-31]
+<sup>27</sup> L’art. 28*e*, al. 1<sup>bis</sup>, ne s’applique pas à la fourniture de services nécessaires pour mettre fin, au plus tard le 4 février 2023, aux contrats conclus avant le 24 novembre 2022 qui ne sont pas conformes aux dispositions dudit article.[^35-32]
 
-<sup>28</sup> L’art. 28*e*, al. 1<sup>ter</sup>, ne s’applique pas à la fourniture de services nécessaires pour mettre fin, au plus tard le 24 février 2023, aux contrats conclus avant le 25 janvier 2023 qui ne sont pas conformes aux dispositions dudit article.[^35-32]
+<sup>28</sup> L’art. 28*e*, al. 1<sup>ter</sup>, ne s’applique pas à la fourniture de services nécessaires pour mettre fin, au plus tard le 24 février 2023, aux contrats conclus avant le 25 janvier 2023 qui ne sont pas conformes aux dispositions dudit article.[^35-33]
 
 [^35-1]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-2]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
@@ -1512,12 +1513,13 @@ L’art. 24*a*, al. 1, ne s’applique pas:
 [^35-24]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-25]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 16 déc. 2022 à 18 heures ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 [^35-26]: Introduite par le ch. I de l’O du 16 déc. 2022 ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)). Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-27]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-28]: Introduite par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-27]: Introduite par le ch. I de l’O du 15 fév. 2023, en vigueur depuis le 15 fév. 2023 à 18 heures ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^35-28]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-29]: Introduite par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-30]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-30]: Introduite par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 [^35-31]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-32]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-32]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-33]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 36
 
@@ -1870,8 +1872,8 @@ Annexe 8[^t-8]
 
 [^annex8-lvlu1-1]
 
-[^t-8]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)) et le ch. I de l’O du DEFR du 20 déc. 2022, en vigueur depuis le 21 déc. 2022 à 18 heures ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)).
-[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/833](https://fedlex.data.admin.ch/eli/oc/2022/833) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-8]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), le ch. I al. 1 de l’O du DEFR du 7 déc. 2022 ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), le ch. I de l’O du DEFR du 20 déc. 2022 ([RO 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)) et le ch. II al. 1 de l’O du 15 fév. 2023, en vigueur depuis le 15 fév. 2023 à 18 heures ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/71](https://fedlex.data.admin.ch/eli/oc/2023/71) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 9
 
@@ -2828,8 +2830,8 @@ Annexe 25[^t-21]
 
 [^annex25-lvlu1-1]
 
-[^t-21]: Introduite par le ch. II de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^annex25-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-21]: Introduite par le ch. II de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Mise à jour par le ch. II al. 1 de l’O du 15 fév. 2023, en vigueur depuis le 15 fév. 2023 à 18 heures ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^annex25-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/71](https://fedlex.data.admin.ch/eli/oc/2023/71) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 26[^t-22]
 
@@ -2862,15 +2864,43 @@ Annexe 27[^t-23]
 
 Annexe 28[^t-24]
 
-(art. 12*b*, al. 3 et 4, let. b)
+(art. 12*b*, al. 3 et 4, let. b, et 35, al. 25, let. c à e)
 
 ## Prix-plafond du pétrole et des produits pétroliers
 
-[^t-24]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 7 déc. 2022, en vigueur depuis le 8 déc. 2022 à 18 heures ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
+[^t-24]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. II al. 2 de l’O du 15 fév. 2023, en vigueur depuis le 15 fév. 2023 à 18 heures ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th><th>Prix du baril (USD)</th></tr>
 <tr><td>2709 00</td><td>Huiles brutes de pétrole ou de minéraux bitumineux</td><td>60</td></tr>
+<tr><td></td><td>Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base; déchets d’huiles</td><td></td></tr>
+<tr><td>2710 12</td><td>Huiles légères et préparations</td><td></td></tr>
+<tr><td></td><td>destinées à être utilisées comme carburant</td><td></td></tr>
+<tr><td>2710 12 11</td><td>essence et ses fractions</td><td>100</td></tr>
+<tr><td>2710 12 12</td><td>white spirit</td><td>100</td></tr>
+<tr><td>2710 12 19</td><td>autres</td><td>100</td></tr>
+<tr><td></td><td>destinées à d’autres usages</td><td></td></tr>
+<tr><td>2710 12 91</td><td>essence et ses fractions</td><td>45</td></tr>
+<tr><td>2710 12 92</td><td>white spirit</td><td>45</td></tr>
+<tr><td>2710 12 99</td><td>autres</td><td>45</td></tr>
+<tr><td>2710 19</td><td>autres</td><td></td></tr>
+<tr><td></td><td>destinées à être utilisées comme carburant</td><td></td></tr>
+<tr><td>2710 19 11</td><td>pétrole</td><td>100</td></tr>
+<tr><td>2710 19 12</td><td>huile diesel</td><td>100</td></tr>
+<tr><td>2710 19 19</td><td>autres</td><td>100</td></tr>
+<tr><td></td><td>destinées à d’autres usages</td><td></td></tr>
+<tr><td>2710 19 91</td><td>pétrole</td><td>100</td></tr>
+<tr><td>2710 19 92</td><td>huiles pour le chauffage</td><td>45</td></tr>
+<tr><td>2710 19 93</td><td>distillats d’huiles minérales dont moins de 20 % vol distillent avant 300 °C, non mélangés</td><td>45</td></tr>
+<tr><td>2710 19 94</td><td>distillats d’huiles minérales dont moins de 20 % vol distillent avant 300 °C, mélangés</td><td>45</td></tr>
+<tr><td>2710 19 95</td><td>graisses minérales de graissage</td><td>45</td></tr>
+<tr><td>2710 19 99</td><td>autres distillats et produits</td><td>45</td></tr>
+<tr><td></td><td>Huiles de pétrole ou de minéraux bitumineux (autres que les huiles brutes) et préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base, contenant du biodiesel, autres que les déchets d’huiles</td><td></td></tr>
+<tr><td>2710 20 10</td><td>destinées à être utilisées comme carburant</td><td>100</td></tr>
+<tr><td>2710 20 90</td><td>destinées à d’autres usages</td><td>45</td></tr>
+<tr><td></td><td>déchets d’huiles</td><td></td></tr>
+<tr><td>2710 91 00</td><td>contenant des diphényles polychlorés (PCB), des terphényles polychlorés (PCT) ou des diphényles polybromés (PBB)</td><td>45</td></tr>
+<tr><td>2710 99 00</td><td>autres</td><td>45</td></tr>
 </table>
 
 Annexe 29[^t-25]
