@@ -3,24 +3,24 @@ sr: "0.812.122.2"
 title: Internationales Übereinkommen vom 19. Oktober 2005 gegen Doping im Sport (mit Anhängen und Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: de
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-95-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2009-95-20230215-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20230215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Internationales Übereinkommen gegen Doping im Sport
 
-RO **2009** 521; FF **2007** 6133
+AS **2009** 521; BBl **2007** 6489
 
 Übersetzung
 
 Abgeschlossen in Paris am 19. Oktober 2005 Von der Bundesversammlung genehmigt am 13. Juni 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. Oktober 2008 In Kraft getreten für die Schweiz am 1. Dezember 2008
 
-(Stand am 1. Januar 2023)
+(Stand am 15. Februar 2023)
 
 [^t-1]: [AS 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -536,7 +536,7 @@ Anlage II[^t-3]
 [^t-3]: Fassung gemäss Beschluss des Exekutivkomitees der Welt-Anti-Doping-Agentur vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2024 231](https://fedlex.data.admin.ch/eli/oc/2024/231)).
 [^annexII-lvlu1-1]: Der aktuelle Standard kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) bei der für Massnahmen gegen Doping zuständigen Stelle (Swiss Sport Integrity) in den drei Amtssprachen kostenlos unter: [www.sportintegrity.ch/sites/default/files/2023\_istue\_de.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_de.pdf) abgerufen werden. Weitere Informationen sowie das ATZ-Antragsformular sind abrufbar unter: [www.sportintegrity.ch/anti-doping/medizin/ausnahmebewilligung-atz](https://www.sportintegrity.ch/anti-doping/medizin/ausnahmebewilligung-atz)
 
-Geltungsbereich am 13. Juni 2018[^t-4]
+Geltungsbereich am 15. Februar 2023[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -571,7 +571,6 @@ Geltungsbereich am 13. Juni 2018[^t-4]
 <tr><td>Burundi</td><td>5. September</td><td>2007</td><td>1. November</td><td>2007</td></tr>
 <tr><td>Chile</td><td>11. Februar</td><td>2011</td><td>1. April</td><td>2011</td></tr>
 <tr><td>China</td><td>9. Oktober</td><td>2006 B</td><td>1. Februar</td><td>2007</td></tr>
-<tr><td>Cook-Inseln</td><td>15. Februar</td><td>2006 B</td><td>1. Februar</td><td>2007</td></tr>
 <tr><td>Costa Rica</td><td>27. Februar</td><td>2012</td><td>1. April</td><td>2012</td></tr>
 <tr><td>Côte d’Ivoire</td><td>29. Juli</td><td>2008</td><td>1. September</td><td>2008</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>15. Dezember</td><td>2005</td><td>1. Februar</td><td>2007</td></tr>
@@ -631,6 +630,7 @@ Geltungsbereich am 13. Juni 2018[^t-4]
 <tr><td>Laos</td><td>23. Januar</td><td>2017 B</td><td>1. März</td><td>2017</td></tr>
 <tr><td>Lesotho</td><td>31. Juli</td><td>2012 B</td><td>1. September</td><td>2012</td></tr>
 <tr><td>Lettland</td><td>10. April</td><td>2006 B</td><td>1. Februar</td><td>2007</td></tr>
+<tr><td>Libanon</td><td>10. November</td><td>2020 B</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Liberia</td><td>6. Oktober</td><td>2011</td><td>1. Dezember</td><td>2011</td></tr>
 <tr><td>Libyen</td><td>30. Mai</td><td>2007</td><td>1. Juli</td><td>2007</td></tr>
 <tr><td>Litauen</td><td>2. August</td><td>2006</td><td>1. Februar</td><td>2007</td></tr>
@@ -643,6 +643,7 @@ Geltungsbereich am 13. Juni 2018[^t-4]
 <tr><td>Malta</td><td>6. Dezember</td><td>2011</td><td>1. Februar</td><td>2012</td></tr>
 <tr><td>Marokko</td><td>15. April</td><td>2009</td><td>1. Juni</td><td>2009</td></tr>
 <tr><td>Marshallinseln</td><td>3. Juni</td><td>2010</td><td>1. August</td><td>2010</td></tr>
+<tr><td>Mauretanien</td><td>15. November</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Mauritius</td><td>6. Juli</td><td>2006</td><td>1. Februar</td><td>2007</td></tr>
 <tr><td>Mexiko</td><td>11. April</td><td>2007</td><td>1. Juni</td><td>2007</td></tr>
 <tr><td>Moldau</td><td>19. Februar</td><td>2008</td><td>1. April</td><td>2008</td></tr>
@@ -655,6 +656,7 @@ Geltungsbereich am 13. Juni 2018[^t-4]
 <tr><td>Nauru</td><td>4. Mai</td><td>2006</td><td>1. Februar</td><td>2007</td></tr>
 <tr><td>Nepal</td><td>15. Juni</td><td>2010</td><td>1. August</td><td>2010</td></tr>
 <tr><td>Neuseeland <sup>b</sup></td><td>23. Dezember</td><td>2005</td><td>1. Februar</td><td>2007</td></tr>
+<tr><td>Cook-Inseln</td><td>15. Februar</td><td>2006 B</td><td>1. Februar</td><td>2007</td></tr>
 <tr><td>Nicaragua</td><td>15. Januar</td><td>2010 B</td><td>1. März</td><td>2010</td></tr>
 <tr><td>Niederlande</td><td>17. November</td><td>2006</td><td>1. Februar</td><td>2007</td></tr>
 <tr><td>Aruba</td><td>[tab] 17. November</td><td>[tab] 2006</td><td>[tab] 1. Februar</td><td>[tab] 2007</td></tr>
@@ -684,6 +686,7 @@ Geltungsbereich am 13. Juni 2018[^t-4]
 <tr><td>Sambia</td><td>2. Dezember</td><td>2008 B</td><td>1. Februar</td><td>2009</td></tr>
 <tr><td>Samoa</td><td>8. August</td><td>2007</td><td>1. Oktober</td><td>2007</td></tr>
 <tr><td>San Marino</td><td>22. Februar</td><td>2010 B</td><td>1. April</td><td>2010</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>16. Oktober</td><td>2020</td><td>1. Dezember</td><td>2020</td></tr>
 <tr><td>Saudi-Arabien</td><td>22. Mai</td><td>2008 B</td><td>1. Juli</td><td>2008</td></tr>
 <tr><td>Schweden</td><td>9. November</td><td>2005</td><td>1. Februar</td><td>2007</td></tr>
 <tr><td>Schweiz</td><td>23. Oktober</td><td>2008 B</td><td>1. Dezember</td><td>2008</td></tr>
@@ -708,6 +711,7 @@ Geltungsbereich am 13. Juni 2018[^t-4]
 <tr><td>Tadschikistan</td><td>30. März</td><td>2012</td><td>1. Mai</td><td>2012</td></tr>
 <tr><td>Tansania</td><td>29. August</td><td>2017</td><td>1. Oktober</td><td>2017</td></tr>
 <tr><td>Thailand</td><td>15. Januar</td><td>2007</td><td>1. März</td><td>2007</td></tr>
+<tr><td>Timor-Leste</td><td>11. März</td><td>2019 B</td><td>1. Mai</td><td>2019</td></tr>
 <tr><td>Togo</td><td>3. Dezember</td><td>2009</td><td>1. Februar</td><td>2010</td></tr>
 <tr><td>Tonga</td><td>14. Juni</td><td>2010</td><td>1. August</td><td>2010</td></tr>
 <tr><td>Trinidad und Tobago</td><td>9. März</td><td>2007 B</td><td>1. Mai</td><td>2007</td></tr>
@@ -737,7 +741,7 @@ Geltungsbereich am 13. Juni 2018[^t-4]
 <tr><td>Vietnam</td><td>2. Oktober</td><td>2009 B</td><td>1. Dezember</td><td>2009</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>8. Juni</td><td>2016</td><td>1. August</td><td>2016</td></tr>
 <tr><td>Zypern</td><td>8. September</td><td>2009</td><td>1. November</td><td>2009</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): http://portal.unesco.org (siehe «Textes normatifs») eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer Inseln. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer Inseln. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-4]: [AS 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95), [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30)[3167](https://fedlex.data.admin.ch/eli/oc/2010/423), [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530),[2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286), [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586), [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253), [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279), [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
+[^t-4]: [AS 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95); [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30), [3167](https://fedlex.data.admin.ch/eli/oc/2010/423); [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530); [2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286); [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586); [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253); [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279); [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367); [2023 74](https://fedlex.data.admin.ch/eli/oc/2023/74). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty

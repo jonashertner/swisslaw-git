@@ -3,11 +3,11 @@ sr: "0.812.122.2"
 title: Convenzione internazionale del 19 ottobre 2005 contro il doping nello sport (con allegato e appendici)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: it
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-95-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2009-95-20230215-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20230215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Parigi il 19 ottobre 2005 Approvata dall’Assemblea federale il 13 giugno 2008[^t-1] Ratificata dalla Svizzera con strumenti depositati il 23 ottobre 2008 Entrata in vigore per la Svizzera il 1° dicembre 2008
 
-(Stato 1° gennaio 2023)
+(Stato 15 febbraio 2023)
 
 [^t-1]: [RU 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -524,7 +524,7 @@ Allegato I[^t-2]
 
 [^annexI-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la mod. approvata dal Comitato esecutivo dell’Agenzia mondiale antidoping il 23 set. 2022, in vigore il 1° gen. 2023 ([RU 2023 522](https://fedlex.data.admin.ch/eli/oc/2023/522)).
+[^t-2]: Nuovo testo giusta la mod. approvata dal Comitato esecutivo dell’Agenzia mondiale antidoping il 23 set. 2022, in vigore il 1° gen. 2023 (RU **202****3** 522).
 [^annexI-lvlu1-1]: Conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), la versione attuale dello standard può essere consultata gratuitamente nelle tre lingue ufficiali presso l’organo competente per le misure antidoping (Swiss Sport Integrity) all’indirizzo: [www.sportintegrity.ch/sites/default/files/2023\_istue\_it.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_it.pdf)
 
 Allegato II[^t-3]
@@ -536,7 +536,7 @@ Allegato II[^t-3]
 [^t-3]: Nuovo testo giusta la mod. approvata dal Comitato esecutivo dell’Agenzia mondiale antidoping il 23 set. 2022, in vigore il 1° gen. 2023 ([RU 2024 231](https://fedlex.data.admin.ch/eli/oc/2024/231)).
 [^annexII-lvlu1-1]: Conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), la versione attuale dello standard può essere consultata gratuitamente nelle tre lingue ufficiali presso l’organo competente per le misure antidoping (Swiss Sport Integrity) all’indirizzo: [www.sportintegrity.ch/sites/default/files/2023\_istue\_it.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_it.pdf)
 
-Campo d’applicazione il 13 giugno 2018[^t-4]
+Campo d’applicazione il 15 febbraio 2023[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -597,6 +597,7 @@ Campo d’applicazione il 13 giugno 2018[^t-4]
 <tr><td>Emirati Arabi Uniti</td><td>4 agosto</td><td>2009 A</td><td>1° ottobre</td><td>2009</td></tr>
 <tr><td>Eritrea</td><td>19 agosto</td><td>2008</td><td>1° ottobre</td><td>2008</td></tr>
 <tr><td>Estonia</td><td>17 agosto</td><td>2007</td><td>1° ottobre</td><td>2007</td></tr>
+<tr><td>Eswatini</td><td>13 dicembre</td><td>2010</td><td>1° febbraio</td><td>2011</td></tr>
 <tr><td>Etiopia</td><td>30 luglio</td><td>2008</td><td>1° settembre</td><td>2008</td></tr>
 <tr><td>Figi</td><td>17 novembre</td><td>2010</td><td>1° gennaio</td><td>2011</td></tr>
 <tr><td>Filippine</td><td>17 marzo</td><td>2010</td><td>1° maggio</td><td>2010</td></tr>
@@ -625,7 +626,6 @@ Campo d’applicazione il 13 giugno 2018[^t-4]
 <tr><td>Iraq</td><td>22 gennaio</td><td>2013</td><td>1° marzo</td><td>2013</td></tr>
 <tr><td>Irlanda</td><td>18 luglio</td><td>2008</td><td>1° settembre</td><td>2008</td></tr>
 <tr><td>Islanda</td><td>10 febbraio</td><td>2006 A</td><td>1° febbraio</td><td>2007</td></tr>
-<tr><td>Isole Cook</td><td>15 febbraio</td><td>2006 A</td><td>1° febbraio</td><td>2007</td></tr>
 <tr><td>Israele</td><td>26 gennaio</td><td>2012 A</td><td>1° marzo</td><td>2012</td></tr>
 <tr><td>Italia</td><td>27 febbraio</td><td>2008</td><td>1° aprile</td><td>2008</td></tr>
 <tr><td>Kazakistan</td><td>8 febbraio</td><td>2010</td><td>1° aprile</td><td>2010</td></tr>
@@ -636,11 +636,12 @@ Campo d’applicazione il 13 giugno 2018[^t-4]
 <tr><td>Laos</td><td>23 gennaio</td><td>2017 A</td><td>1° marzo</td><td>2017</td></tr>
 <tr><td>Lesotho</td><td>31 luglio</td><td>2012 A</td><td>1° settembre</td><td>2012</td></tr>
 <tr><td>Lettonia</td><td>10 aprile</td><td>2006 A</td><td>1° febbraio</td><td>2007</td></tr>
+<tr><td>Libano</td><td>10 novembre</td><td>2020 A</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Liberia</td><td>6 ottobre</td><td>2011</td><td>1° dicembre</td><td>2011</td></tr>
 <tr><td>Libia</td><td>30 maggio</td><td>2007</td><td>1° luglio</td><td>2007</td></tr>
 <tr><td>Lituania</td><td>2 agosto</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
 <tr><td>Lussemburgo</td><td>11 dicembre</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
-<tr><td>Macedonia</td><td>9 ottobre</td><td>2008</td><td>1° dicembre</td><td>2008</td></tr>
+<tr><td>Macedonia del Nord</td><td>9 ottobre</td><td>2008</td><td>1° dicembre</td><td>2008</td></tr>
 <tr><td>Madagascar</td><td>31 ottobre</td><td>2014</td><td>1° dicembre</td><td>2014</td></tr>
 <tr><td>Malawi</td><td>19 marzo</td><td>2009</td><td>1° maggio</td><td>2009</td></tr>
 <tr><td>Malaysia</td><td>20 dicembre</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
@@ -649,6 +650,7 @@ Campo d’applicazione il 13 giugno 2018[^t-4]
 <tr><td>Malta</td><td>6 dicembre</td><td>2011</td><td>1° febbraio</td><td>2012</td></tr>
 <tr><td>Marocco</td><td>15 aprile</td><td>2009</td><td>1° giugno</td><td>2009</td></tr>
 <tr><td>Marshall, Isole</td><td>3 giugno</td><td>2010</td><td>1° agosto</td><td>2010</td></tr>
+<tr><td>Mauritania</td><td>15 novembre</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Maurizio</td><td>6 luglio</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
 <tr><td>Messico</td><td>11 aprile</td><td>2007</td><td>1° giugno</td><td>2007</td></tr>
 <tr><td>Moldova</td><td>19 febbraio</td><td>2008</td><td>1° aprile</td><td>2008</td></tr>
@@ -665,6 +667,7 @@ Campo d’applicazione il 13 giugno 2018[^t-4]
 <tr><td>Nigeria</td><td>24 febbraio</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
 <tr><td>Norvegia</td><td>13 gennaio</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
 <tr><td>Nuova Zelanda <sup>b</sup></td><td>23 dicembre</td><td>2005</td><td>1° febbraio</td><td>2007</td></tr>
+<tr><td>Isole Cook</td><td>15 febbraio</td><td>2006 A</td><td>1° febbraio</td><td>2007</td></tr>
 <tr><td>Oman</td><td>9 luglio</td><td>2007</td><td>1° settembre</td><td>2007</td></tr>
 <tr><td>Paesi Bassi</td><td>1° gennaio</td><td>1000</td><td>1° gennaio</td><td>1000</td></tr>
 <tr><td>Aruba</td><td>17 novembre</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
@@ -698,6 +701,7 @@ Campo d’applicazione il 13 giugno 2018[^t-4]
 <tr><td>Salomone, Isole</td><td>22 giugno</td><td>2015</td><td>1° agosto</td><td>2015</td></tr>
 <tr><td>Samoa</td><td>8 agosto</td><td>2007</td><td>1° ottobre</td><td>2007</td></tr>
 <tr><td>San Marino</td><td>22 febbraio</td><td>2010 A</td><td>1° aprile</td><td>2010</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>16 ottobre</td><td>2020</td><td>1° dicembre</td><td>2020</td></tr>
 <tr><td>Seicelle</td><td>5 luglio</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
 <tr><td>Senegal</td><td>29 aprile</td><td>2008</td><td>1° giugno</td><td>2008</td></tr>
 <tr><td>Serbia</td><td>19 giugno</td><td>2009</td><td>1° agosto</td><td>2009</td></tr>
@@ -715,10 +719,10 @@ Campo d’applicazione il 13 giugno 2018[^t-4]
 <tr><td>Suriname</td><td>20 luglio</td><td>2009 A</td><td>1° settembre</td><td>2009</td></tr>
 <tr><td>Svezia</td><td>9 novembre</td><td>2005</td><td>1° febbraio</td><td>2007</td></tr>
 <tr><td>Svizzera</td><td>23 ottobre</td><td>2008 A</td><td>1° dicembre</td><td>2008</td></tr>
-<tr><td>Swaziland</td><td>13 dicembre</td><td>2010</td><td>1° febbraio</td><td>2011</td></tr>
 <tr><td>Tagikistan</td><td>30 marzo</td><td>2012</td><td>1° maggio</td><td>2012</td></tr>
 <tr><td>Tanzania</td><td>29 agosto</td><td>2017</td><td>1° ottobre</td><td>2017</td></tr>
 <tr><td>Thailandia</td><td>15 gennaio</td><td>2007</td><td>1° marzo</td><td>2007</td></tr>
+<tr><td>Timor-Leste</td><td>11 marzo</td><td>2019 A</td><td>1° maggio</td><td>2019</td></tr>
 <tr><td>Togo</td><td>3 dicembre</td><td>2009</td><td>1° febbraio</td><td>2010</td></tr>
 <tr><td>Tonga</td><td>14 giugno</td><td>2010</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Trinidad e Tobago</td><td>9 marzo</td><td>2007 A</td><td>1° maggio</td><td>2007</td></tr>
@@ -737,7 +741,7 @@ Campo d’applicazione il 13 giugno 2018[^t-4]
 <tr><td>Yemen</td><td>23 marzo</td><td>2017</td><td>1° maggio</td><td>2017</td></tr>
 <tr><td>Zambia</td><td>2 dicembre</td><td>2008 A</td><td>1° febbraio</td><td>2009</td></tr>
 <tr><td>Zimbabwe</td><td>13 dicembre</td><td>2011</td><td>1° febbraio</td><td>2012</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): http://portal.unesco.org («Legal Instruments») oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alla Groenlandia e alle Isole Faeröer. <sup>b</sup> La Conv. non si applica a Tokelau</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alla Groenlandia e alle Isole Faeröer. <sup>b</sup> La Conv. non si applica a Tokelau</td></tr>
 </table>
 
-[^t-4]: [RU 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95); [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30), [3167](https://fedlex.data.admin.ch/eli/oc/2010/423); [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530); [2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286); [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586); [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253); [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279); [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-4]: [RU 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95); [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30), [3167](https://fedlex.data.admin.ch/eli/oc/2010/423); [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530); [2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286); [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586); [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253); [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279); [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367); [2023 74](https://fedlex.data.admin.ch/eli/oc/2023/74). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

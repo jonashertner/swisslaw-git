@@ -3,11 +3,11 @@ sr: "0.812.122.2"
 title: Convention internationale du 19 octobre 2005 contre le dopage dans le sport (avec annexes et appendices)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: fr
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-95-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2009-95-20230215-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20230215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Paris le 19 octobre 2005 Approuvée par l’Assemblée fédérale le 13 juin 2008[^t-1] Instrument de ratification déposé par la Suisse le 23 octobre 2008 Entrée en vigueur pour la Suisse le 1<sup>er</sup> décembre 2008
 
-(État le 1<sup>er</sup> janvier 2023)
+(État le 15 février 2023)
 
 [^t-1]: [RO 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -522,7 +522,7 @@ Annexe I[^t-2]
 
 [^annexI-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon la mod. approuvée par le Comité exécutif de l’Agence mondiale antidopage le 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 522](https://fedlex.data.admin.ch/eli/oc/2023/522)).
+[^t-2]: Nouvelle teneur selon la mod. approuvée par le Comité exécutif de l’Agence mondiale antidopage le 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 (RO **202****3**522).
 [^annexI-lvlu1-1]: La liste actuelle des interdictions du Code mondial antidopage peut être gratuitement consultée en français et en allemand sur le site de l’Antidoping Suisse: [www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions](https://www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions), autorité compétente pour les mesures de lutte contre le dopage, conformément à l’art. 19 de la loi du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
 
 Annexe II[^t-3]
@@ -534,7 +534,7 @@ Annexe II[^t-3]
 [^t-3]: Nouvelle teneur selon la mod. approuvée par le Comité exécutif de l’Agence mondiale antidopage le 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2024 231](https://fedlex.data.admin.ch/eli/oc/2024/231)).
 [^annexII-lvlu1-1]: Conformément à l’art. 19 de la loi fédérale du 17 juin 2011 sur l’encouragement du sport <sup>(</sup>[RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), le standard actuel peut être consulté gratuitement dans les trois langues officielles auprès de l’autorité compétente pour les mesures de lutte contre le dopage (Swiss Sport Integrity) à l’adresse: [www.wada-ama.org/sites/default/files/2022-09/standard\_international\_pour\_lautorisation\_dusage\_a\_des\_fins\_therapeutiques\_siaut\_2023\_0.pdf](https://www.wada-ama.org/sites/default/files/2022-09/standard_international_pour_lautorisation_dusage_a_des_fins_therapeutiques_siaut_2023_0.pdf).
 
-Champ d’application le 13 juin 2018[^t-4]
+Champ d’application le 15 février 2023[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -635,6 +635,7 @@ Champ d’application le 13 juin 2018[^t-4]
 <tr><td>Laos</td><td>23 janvier</td><td>2017 A</td><td>1<sup>er</sup> mars</td><td>2017</td></tr>
 <tr><td>Lesotho</td><td>31 juillet</td><td>2012 A</td><td>1<sup>er</sup> septembre</td><td>2012</td></tr>
 <tr><td>Lettonie</td><td>10 avril</td><td>2006 A</td><td>1<sup>er</sup> février</td><td>2007</td></tr>
+<tr><td>Liban</td><td>10 novembre</td><td>2020 A</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Libéria</td><td>6 octobre</td><td>2011</td><td>1<sup>er</sup> décembre</td><td>2011</td></tr>
 <tr><td>Libye</td><td>30 mai</td><td>2007</td><td>1<sup>er</sup> juillet</td><td>2007</td></tr>
 <tr><td>Lituanie</td><td>2 août</td><td>2006</td><td>1<sup>er</sup> février</td><td>2007</td></tr>
@@ -648,6 +649,7 @@ Champ d’application le 13 juin 2018[^t-4]
 <tr><td>Malte</td><td>6 décembre</td><td>2011</td><td>1<sup>er</sup> février</td><td>2012</td></tr>
 <tr><td>Maroc</td><td>15 avril</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2009</td></tr>
 <tr><td>Maurice</td><td>6 juillet</td><td>2006</td><td>1<sup>er</sup> février</td><td>2007</td></tr>
+<tr><td>Mauritanie</td><td>15 novembre</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Mexique</td><td>11 avril</td><td>2007</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
 <tr><td>Moldova</td><td>19 février</td><td>2008</td><td>1<sup>er</sup> avril</td><td>2008</td></tr>
 <tr><td>Monaco</td><td>30 janvier</td><td>2006</td><td>1<sup>er</sup> février</td><td>2007</td></tr>
@@ -702,6 +704,7 @@ Champ d’application le 13 juin 2018[^t-4]
 <tr><td>Saint-Marin</td><td>22 février</td><td>2010 A</td><td>1<sup>er</sup> avril</td><td>2010</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>25 août</td><td>2009 A</td><td>1<sup>er</sup> octobre</td><td>2009</td></tr>
 <tr><td>Samoa</td><td>8 août</td><td>2007</td><td>1<sup>er</sup> octobre</td><td>2007</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>16 octobre</td><td>2020</td><td>1<sup>er</sup> décembre</td><td>2020</td></tr>
 <tr><td>Sénégal</td><td>29 avril</td><td>2008</td><td>1<sup>er</sup> juin</td><td>2008</td></tr>
 <tr><td>Serbie</td><td>19 juin</td><td>2009</td><td>1<sup>er</sup> août</td><td>2009</td></tr>
 <tr><td>Seychelles</td><td>5 juillet</td><td>2006</td><td>1<sup>er</sup> février</td><td>2007</td></tr>
@@ -720,6 +723,7 @@ Champ d’application le 13 juin 2018[^t-4]
 <tr><td>Tanzanie</td><td>29 août</td><td>2017</td><td>1<sup>er</sup> octobre</td><td>2017</td></tr>
 <tr><td>Tchad</td><td>10 octobre</td><td>2008</td><td>1<sup>er</sup> décembre</td><td>2008</td></tr>
 <tr><td>Thaïlande</td><td>15 janvier</td><td>2007</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
+<tr><td>Timor-Leste</td><td>11 mars</td><td>2019 A</td><td>1<sup>er</sup> mai</td><td>2019</td></tr>
 <tr><td>Togo</td><td>3 décembre</td><td>2009</td><td>1<sup>er</sup> février</td><td>2010</td></tr>
 <tr><td>Tonga</td><td>14 juin</td><td>2010</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>9 mars</td><td>2007 A</td><td>1<sup>er</sup> mai</td><td>2007</td></tr>
@@ -738,4 +742,4 @@ Champ d’application le 13 juin 2018[^t-4]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org/](http://www.unesco.org/) &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention ne s’applique pas au Groenland et aux Îles Féroé. <sup>b</sup> La convention ne s’applique pas à Tokélaou.</td></tr>
 </table>
 
-[^t-4]: [RO 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95); [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30), [3167](https://fedlex.data.admin.ch/eli/oc/2010/423); [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530); [2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286); [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586); [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253); [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279); [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-4]: [RO 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95); [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30), [3167](https://fedlex.data.admin.ch/eli/oc/2010/423); [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530); [2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286); [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586); [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253); [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279); [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367); [2023 74](https://fedlex.data.admin.ch/eli/oc/2023/74). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
