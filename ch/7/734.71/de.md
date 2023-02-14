@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230215-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230101/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. Januar 2023)
+vom 14. März 2008 (Stand am 15. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -299,7 +299,7 @@ In der Kostenrechnung müssen alle für die Berechnung der anrechenbaren Kosten 
 - c. Betriebskosten der Netze;
 - d. Kosten der Netze höherer Netzebenen;
 - e. Kosten der Systemdienstleistungen;
-- e<sup>bis</sup>.[^7-1] die Kosten im Zusammenhang mit der Wasserkraftreserve gemäss der Verordnung vom 7. September 2022[^7-2] über die Errichtung einer Wasserkraftreserve (WResV);
+- e<sup>bis</sup>.[^7-1] die Kosten im Zusammenhang mit Stromreserve gemäss der Winterreserveverordnung vom 25. Januar 2023[^7-2] (WResV);
 - f. Kosten für das Mess- und Informationswesen;
 - f<sup>bis</sup>.[^7-3] Kosten für intelligente Messsysteme;
 - g. Verwaltungskosten;
@@ -320,7 +320,7 @@ In der Kostenrechnung müssen alle für die Berechnung der anrechenbaren Kosten 
 
 <sup>7</sup> Die Netzbetreiber legen die Kostenrechnung der ElCom bis spätestens zum 31. August vor.[^7-9]
 
-[^7-1]: Eingefügt durch Art. 12 der V vom 7. Sept. 2022 über die Errichtung einer Wasserkraftreserve, in Kraft vom 1. Okt. 2022 bis zum 30. Juni 2025 ([AS 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^7-1]: Eingefügt durch Art. 12 der V vom 7. Sept. 2022 über die Errichtung einer Wasserkraftreserve ([AS 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Fassung gemäss Anhang Ziff. II 2 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^7-2]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
 [^7-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^7-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
@@ -635,7 +635,7 @@ Die Kosten solcher Massnahmen gelten bis zu einem Betrag von höchstens 1 Prozen
 Die nationale Netzgesellschaft stellt individuell in Rechnung:
 
 - a. den Netzbetreibern und den direkt am Übertragungsnetz angeschlossenen Endverbrauchern die Kosten für den Ausgleich von Wirkverlusten und die Lieferung von Blindenergie, die sie verursacht haben;
-- b.[^15-1] den Bilanzgruppen die verursachten Kosten für die Ausgleichsenergie, inklusive der Anteile der Leistungsvorhaltung für die Sekundär- und Tertiärregelung, für das Fahrplanmanagement und für die Wasserkraftreserve gemäss WResV[^15-2];
+- b.[^15-1] den Bilanzgruppen die verursachten Kosten für die Ausgleichsenergie, inklusive der Anteile der Leistungsvorhaltung für die Sekundär- und Tertiärregelung, und für das Fahrplanmanagement sowie die Bezüge aus der Stromreserve gemäss WResV[^15-2];
 - c. den Verursachern von Mindererlösen für die grenzüberschreitende Netznutzung den entsprechenden Betrag. Das UVEK kann für die Gewährung von Ausnahmen nach Artikel 17 Absatz 6 StromVG abweichende Regeln vorsehen.
 
 <sup>2</sup>
@@ -643,7 +643,7 @@ Die nationale Netzgesellschaft stellt individuell in Rechnung:
 Sie stellt den Netzbetreibern und den am Übertragungsnetz direkt angeschlossenen Endverbrauchern entsprechend der bezogenen elektrischen Energie der Endverbraucher folgende Kosten in Rechnung:
 
 - a.[^15-3] die Kosten für Systemmanagement, Messdatenmanagement, Schwarzstart- und Inselbetriebsfähigkeit von Erzeugern, Spannungshaltung, Primärregelung und die Anteile der Leistungsvorhaltung für die Sekundär- und Tertiärregelung, welche nicht einer Bilanzgruppe zugeordnet werden können. Die ElCom legt jährlich den Höchstbetrag fest;
-- a<sup>bis</sup>.[^15-4] die Kosten im Zusammenhang mit der Wasserkraftreserve gemäss WResV;
+- a<sup>bis</sup>.[^15-4] die Kosten im Zusammenhang mit der Stromreserve gemäss WResV;
 - b.[^15-5] die Kosten für notwendige Netzverstärkungen zur Einspeisung von elektrischer Energie aus Anlagen nach den Artikeln 15 und 19 EnG[^15-6].
 - c.[^15-7] …
 
@@ -655,10 +655,10 @@ Sie stellt den am Übertragungsnetz direkt angeschlossenen Endverbrauchern und N
 - b. zu 60 Prozent entsprechend dem jährlichen Mittelwert der tatsächlichen monatlichen Höchstleistungen, die jeder direkt angeschlossene Endverbraucher und jedes Netz der tieferen Netzebene vom Übertragungsnetz beansprucht;
 - c. zu 10 Prozent zu einem fixen Grundtarif pro Ausspeisepunkt im Übertragungsnetz.
 
-[^15-1]: Fassung gemäss Art. 12 der V vom 7. Sept. 2022 über die Errichtung einer Wasserkraftreserve, in Kraft vom 1. Okt. 2022 bis zum 30. Juni 2025 ([AS 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-1]: Fassung gemäss Anhang Ziff. II 2 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^15-2]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
 [^15-3]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
-[^15-4]: Eingefügt durch Art. 12 der V vom 7. Sept. 2022 über die Errichtung einer Wasserkraftreserve, in Kraft vom 1. Okt. 2022 bis zum 30. Juni 2025 ([AS 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-4]: Eingefügt durch Art. 12 der V vom 7. Sept. 2022 über die Errichtung einer Wasserkraftreserve ([AS 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Fassung gemäss Anhang Ziff. II 2 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^15-5]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^15-6]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 [^15-7]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).

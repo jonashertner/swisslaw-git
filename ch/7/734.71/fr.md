@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230215-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230101/fr"
 
 (OApEl)
 
-du 14 mars 2008 (État le 1<sup>er</sup> janvier 2023)
+du 14 mars 2008 (État le 15 février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -299,7 +299,7 @@ Cette comptabilité doit faire apparaître séparément tous les postes nécessa
 - c. les coûts d’exploitation des réseaux;
 - d. les coûts des réseaux des niveaux supérieurs;
 - e. les coûts des services-système;
-- e<sup>bis</sup>.[^7-1] les coûts liés à la réserve hydroélectrique visée dans l’ordonnance du 7 septembre 2022 sur l’instauration d’une réserve hydroélectrique (OIRH)[^7-2];
+- e<sup>bis</sup>.[^7-1] les coûts liés à la réserve d’électricité visée par l’ordonnance du 25 janvier 2023 sur une réserve d’hiver (OIRH)[^7-2];
 - f. les coûts des systèmes de mesure et d’information;
 - f<sup>bis</sup>.[^7-3] les coûts des systèmes de mesure intelligents;
 - g. les coûts administratifs;
@@ -320,7 +320,7 @@ Cette comptabilité doit faire apparaître séparément tous les postes nécessa
 
 <sup>7</sup> Les gestionnaires de réseau présentent leur comptabilité analytique à l’ElCom au plus tard le 31 août.[^7-9]
 
-[^7-1]: Introduite par l’art. 12 de l’O du 7 sept. 2022 sur l’instauration d’une réserve hydroélectrique, en vigueur du 1<sup>er</sup> oct. 2022 au 30 juin 2025 ([RO 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^7-1]: Introduite par l’art. 12 de l’O du 7 sept. 2022 sur l’instauration d’une réserve hydroélectrique ([RO 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Nouvelle teneur selon l’annexe ch. II 2 de l’O du 25 janv. 2023 sur une réserve d’hiver, en vigueur du 15 fév. 2023 au 31 déc. 2026 ([RO 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^7-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
 [^7-3]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^7-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
@@ -633,7 +633,7 @@ Les coûts imputables de telles mesures peuvent aller jusqu’à 1 % au maximum 
 La société nationale du réseau de transport facture individuellement:
 
 - a. aux gestionnaires de réseau et aux consommateurs finaux raccordés directement au réseau de transport, les coûts de compensation des pertes et de fourniture d’énergie réactive qu’ils ont occasionnés;
-- b.[^15-1] aux groupes-bilan, les coûts occasionnés pour l’énergie d’ajustement, y compris les parts de réserve de puissance pour les réglages secondaire et tertiaire, pour la gestion du programme prévisionnel et pour la réserve hydroélectrique visée dans l’OIRH[^15-2];
+- b.[^15-1] aux groupes-bilan, les coûts occasionnés pour l’énergie d’ajustement, y compris les parts de réserve de puissance pour les réglages secondaire et tertiaire, pour la gestion du programme prévisionnel et pour l’énergie soutirée de la réserve d’électricité visée par l’OIRH[^15-2];
 - c. à ceux qui ont occasionné des manques à gagner dans l’utilisation transfrontalière du réseau, le montant correspondant. Le DETEC peut prévoir des règles dérogatoires pour l’octroi des exceptions visées à l’art. 17, al. 6, LApEl.
 
 <sup>2</sup>
@@ -641,7 +641,7 @@ La société nationale du réseau de transport facture individuellement:
 Elle facture aux gestionnaires de réseau et aux consommateurs finaux raccordés directement au réseau de transport, en proportion de l’énergie électrique soutirée par les consommateurs finaux:
 
 - a.[^15-3] les coûts de gestion des systèmes, de gestion des mesures, de capacité de démarrage autonome et de fonctionnement en îlotage des équipements producteurs, de maintien de la tension, de réglage primaire, ainsi que les parts de réserve de puissance pour les réglages secondaire et tertiaire qui ne peuvent être imputés à un groupe-bilan. Leur montant maximum est fixé chaque année par l’ElCom;
-- a<sup>bis</sup>.[^15-4] les coûts liés à la réserve hydroélectrique visée dans l’OIRH;
+- a<sup>bis</sup>.[^15-4] les coûts liés à la réserve d’électricité visée dans l’OIRH;
 - b.[^15-5] les coûts des renforcements du réseau nécessaires à l’injection d’énergie électrique provenant des installations visées aux art. 15 et 19 LEne[^15-6];
 - c.[^15-7] …
 
@@ -653,10 +653,10 @@ Elle facture aux consommateurs finaux et aux gestionnaires de réseau raccordés
 - b. à hauteur de 60 % selon la moyenne annuelle des puissances mensuelles maximales effectives que chaque consommateur final raccordé directement et chaque réseau de niveau inférieur demande au réseau de transport;
 - c. à hauteur de 10 % selon un tarif de base fixe pour chaque point de soutirage du réseau de transport.
 
-[^15-1]: Nouvelle teneur selon l’art. 12 de l’O du 7 sept. 2022 sur l’instauration d’une réserve hydroélectrique, en vigueur du 1<sup>er</sup> oct. 2022 au 30 juin 2025 ([RO 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 25 janv. 2023 sur une réserve d’hiver, en vigueur du 15 fév. 2023 au 31 déc. 2026 ([RO 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^15-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
 [^15-3]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
-[^15-4]: Introduite par l’art. 12 de l’O du 7 sept. 2022 sur l’instauration d’une réserve hydroélectrique, en vigueur du 1<sup>er</sup> oct. 2022 au 30 juin 2025 ([RO 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-4]: Introduite par l’art. 12 de l’O du 7 sept. 2022 sur l’instauration d’une réserve hydroélectrique ([RO 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Nouvelle teneur selon l’annexe ch. II 2 de l’O du 25 janv. 2023 sur une réserve d’hiver, en vigueur du 15 fév. 2023 au 31 déc. 2026 ([RO 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^15-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^15-6]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 [^15-7]: Abrogée par le ch. I de l’O du 1<sup>er</sup> nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).

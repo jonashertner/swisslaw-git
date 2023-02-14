@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2023-01-01
+version: 2023-02-15
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230215-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230101/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° gennaio 2023)
+del 14 marzo 2008 (Stato 15 febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -300,7 +300,7 @@ Nel conto dei costi devono essere esposte separatamente tutte le voci necessarie
 - c. costi d’esercizio delle reti;
 - d. costi delle reti di livello superiore;
 - e. costi delle prestazioni di servizio relative al sistema;
-- e<sup>bis</sup>.[^7-1] i costi in relazione alla riserva di energia idroelettrica secondo l’ordinanza del 7 settembre 2022[^7-2] sulla costituzione di una riserva di energia idroelettrica (OREI);
+- e<sup>bis</sup>.[^7-1] i costi in relazione alla riserva di energia elettrica secondo l’ordinanza del 25 gennaio 2023[^7-2] sulla riserva invernale (OREI);
 - f. costi per la metrologia e l’informazione;
 - f<sup>bis</sup>.[^7-3] costi per sistemi di misurazione intelligenti;
 - g. costi amministrativi;
@@ -321,7 +321,7 @@ Nel conto dei costi devono essere esposte separatamente tutte le voci necessarie
 
 <sup>7</sup> I gestori di rete presentano alla ElCom il conto dei costi al più tardi entro il 31 agosto.[^7-9]
 
-[^7-1]: Introdotta dall’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica, in vigore dal 1° ott. 2022 al 30 giu. 2025 ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^7-1]: Introdotta dall’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Nuovo testo giusta l’all. n. II 2 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^7-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
 [^7-3]: Introdotta dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^7-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
@@ -636,7 +636,7 @@ I costi di tali misure sono computabili fino a un importo massimo dell’1 per c
 La società nazionale di rete fattura individualmente:
 
 - a. ai gestori di rete e ai consumatori finali direttamente allacciati alla rete di trasporto i costi per la compensazione delle perdite di energia e la fornitura di energia reattiva da essi generati;
-- b.[^15-1] ai gruppi di bilancio i costi per l’energia di compensazione, comprese le quote della potenza messa in riserva per la regolazione secondaria e terziaria, per la gestione del programma previsionale e per la riserva di energia idroelettrica secondo l’OREI[^15-2] da essi generati;
+- b.[^15-1] ai gruppi di bilancio i costi per l’energia di compensazione, comprese le quote della potenza messa in riserva per la regolazione secondaria e terziaria, e per la gestione del programma previsionale nonché i prelievi dalla riserva di energia elettrica secondo l’OREI[^15-2];
 - c. a chi ha generato ricavi minori per l’utilizzazione transfrontaliera della rete il corrispondente importo. Il DATEC può prevedere regole derogatorie per la concessione di eccezioni di cui all’articolo 17 capoverso 6 LAEl.
 
 <sup>2</sup>
@@ -644,7 +644,7 @@ La società nazionale di rete fattura individualmente:
 Ai gestori di rete e ai consumatori finali direttamente allacciati alla rete di trasporto la società nazionale di rete fattura, proporzionalmente all’energia elettrica ricevuta dai consumatori finali, i seguenti costi:
 
 - a.[^15-3] i costi per la gestione del sistema e dei dati di misurazione, la capacità di partenza senza alimentazione di rete e la capacità di servizio isolato dei generatori di energia elettrica, il mantenimento della tensione, la regolazione primaria e le quote della potenza messa in riserva per la regolazione secondaria e terziaria, che non possono essere attribuiti ad un gruppo di bilancio. La ElCom fissa ogni anno l’importo massimo;
-- a<sup>bis</sup>.[^15-4] i costi in relazione alla riserva di energia idroelettrica secondo l’OREI;
+- a<sup>bis</sup>.[^15-4] i costi in relazione alla riserva di energia elettrica secondo l’OREI;
 - b.[^15-5] i costi per i potenziamenti della rete necessari all’immissione di energia elettrica proveniente dagli impianti secondo gli articoli 15 e 19 LEne[^15-6];
 - c.[^15-7] ...
 
@@ -656,10 +656,10 @@ Ai consumatori finali allacciati direttamente alla rete di trasporto e ai gestor
 - b. al 60 per cento in base alla media annua della potenza massima mensile effettiva richiesta alla rete di trasporto da ogni consumatore finale allacciato direttamente e da ogni rete del livello inferiore;
 - c. al 10 per cento in base a una tariffa di base fissa per punto di prelievo nella rete di trasporto.
 
-[^15-1]: Nuovo testo giusta l’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica, in vigore dal 1° ott. 2022 al 30 giu. 2025 ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^15-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
 [^15-3]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
-[^15-4]: Introdotta dall’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica, in vigore dal 1° ott. 2022 al 30 giu. 2025 ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-4]: Introdotta dall’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Nuovo testo giusta l’all. n. II 2 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^15-5]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^15-6]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 [^15-7]: Abrogata dal n. I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
