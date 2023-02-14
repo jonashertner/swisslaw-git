@@ -3,11 +3,11 @@ sr: "0.444.1"
 title: "Übereinkommen vom 14. November 1970 über die Massnahmen zum Verbot und zur Verhütung der rechtswidrigen Einfuhr, Ausfuhr und Übereignung von Kulturgut"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/357"
 language: de
-version: 2018-04-25
+version: 2023-02-15
 adopted: 1970-11-14
 in_force: 2004-01-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20180425/de/xml/fedlex-data-admin-ch-eli-cc-2004-357-20180425-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20180425/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2004-357-20230215-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20230215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 3. Oktober 2003
 
 In Kraft getreten für die Schweiz am 3. Januar 2004
 
-(Stand am 25. April 2018)
+(Stand am 15. Februar 2023)
 
 [^t-1]: [AS 2004 2879](https://fedlex.data.admin.ch/eli/oc/2004/356)
 
@@ -239,7 +239,7 @@ In Übereinstimmung mit Artikel 102 der Charta der Vereinten Nationen[^26-1] wir
 
 *Zu Urkund dessen* haben wir am 17. November 1970 das Übereinkommen mit unseren Unterschriften versehen. Geschehen zu Paris am 17. November 1970 in zwei Originalausfertigungen, welche die Unterschrift des Präsidenten der 16. Tagung der Generalkonferenz und des Generaldirektors der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur tragen; diese Originalfassungen werden im Archiv der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur hinterlegt, und allen in den Artikeln 19 und 20 erwähnten Staaten sowie den Vereinten Nationen werden beglaubigte Abschriften übermittelt. Dieses ist der verbindliche Wortlaut des Übereinkommens, das von der Generalkonferenz der Vereinten Nationen für Erziehung, Wissenschaft und Kultur auf ihrer in Paris abgehaltenen und am 14. November 1970 für beendet erklärten 16. Tagung ordnungsgemäss angenommen wurde. (Es folgen die Unterschriften)
 
-Geltungsbereich am 25. April 2018**[^t-2]**
+Geltungsbereich am 15. Februar 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th colspan="3">Inkrafttreten</th><th colspan="2"></th></tr>
@@ -282,6 +282,7 @@ Geltungsbereich am 25. April 2018**[^t-2]**
 <tr><td>Ecuador</td><td>24. März</td><td colspan="2">1971</td><td colspan="3">24. April</td><td colspan="2">1972</td></tr>
 <tr><td>El Salvador</td><td>20. Februar</td><td colspan="2">1978</td><td colspan="3">20. Mai</td><td colspan="2">1978</td></tr>
 <tr><td>Estland</td><td>27. Oktober</td><td colspan="2">1995</td><td colspan="3">27. Januar</td><td colspan="2">1996</td></tr>
+<tr><td>Eswatini</td><td>30. Oktober</td><td colspan="2">2012</td><td colspan="3">30. Januar</td><td colspan="2">2013</td></tr>
 <tr><td>Finnland\*</td><td>14. Juni</td><td colspan="2">1999</td><td colspan="3">14. September</td><td colspan="2">1999</td></tr>
 <tr><td>Frankreich\*</td><td>7. Januar</td><td colspan="2">1997</td><td colspan="3">7. April</td><td colspan="2">1997</td></tr>
 <tr><td>Gabun</td><td>29. August</td><td colspan="2">2003</td><td colspan="3">29. November</td><td colspan="2">2003</td></tr>
@@ -299,6 +300,7 @@ Geltungsbereich am 25. April 2018**[^t-2]**
 <tr><td>Island</td><td>9. November</td><td colspan="2">2004 B</td><td colspan="3">9. Februar</td><td colspan="2">2005</td></tr>
 <tr><td>Italien</td><td>2. Oktober</td><td colspan="2">1978</td><td colspan="3">2. Januar</td><td colspan="2">1979</td></tr>
 <tr><td>Japan</td><td>9. September</td><td colspan="2">2002</td><td colspan="3">9. Dezember</td><td colspan="2">2002</td></tr>
+<tr><td>Jemen</td><td>3. Juni</td><td colspan="2">2019</td><td colspan="3">3. September</td><td colspan="2">2019</td></tr>
 <tr><td>Jordanien</td><td>15. März</td><td colspan="2">1974</td><td colspan="3">15. Juni</td><td colspan="2">1974</td></tr>
 <tr><td>Kambodscha</td><td>26. September</td><td colspan="2">1972</td><td colspan="3">26. Dezember</td><td colspan="2">1972</td></tr>
 <tr><td>Kamerun</td><td>24. Mai</td><td colspan="2">1972</td><td colspan="3">24. August</td><td colspan="2">1972</td></tr>
@@ -307,6 +309,7 @@ Geltungsbereich am 25. April 2018**[^t-2]**
 <tr><td>Katar</td><td>20. April</td><td colspan="2">1977</td><td colspan="3">20. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Kirgisistan</td><td>3. Juli</td><td colspan="2">1995</td><td colspan="3">3. Oktober</td><td colspan="2">1995</td></tr>
 <tr><td>Kolumbien</td><td>24. Mai</td><td colspan="2">1988</td><td colspan="3">24. August</td><td colspan="2">1988</td></tr>
+<tr><td>Komoren</td><td>17. März</td><td colspan="2">2021</td><td colspan="3">17. Juni</td><td colspan="2">2021</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>23. September</td><td colspan="2">1974</td><td colspan="3">23. Dezember</td><td colspan="2">1974</td></tr>
 <tr><td>Korea (Nord-)</td><td>13. Mai</td><td colspan="2">1983</td><td colspan="3">13. August</td><td colspan="2">1983</td></tr>
 <tr><td>Korea (Süd-)</td><td>14. Februar</td><td colspan="2">1983</td><td colspan="3">14. Mai</td><td colspan="2">1983</td></tr>
@@ -315,16 +318,17 @@ Geltungsbereich am 25. April 2018**[^t-2]**
 <tr><td>Kuwait</td><td>22. Juni</td><td colspan="2">1972</td><td colspan="3">22. September</td><td colspan="2">1972</td></tr>
 <tr><td>Laos</td><td>22. Dezember</td><td colspan="2">2015</td><td colspan="3">22. März</td><td colspan="2">2016</td></tr>
 <tr><td>Lesotho</td><td>17. Juli</td><td colspan="3">2013</td><td colspan="2">17. Oktober</td><td colspan="2">2013</td></tr>
+<tr><td>Lettland</td><td>21. Januar</td><td colspan="2">2019</td><td colspan="3">21. April</td><td colspan="2">2019</td></tr>
 <tr><td>Libanon</td><td>25. August</td><td colspan="2">1972</td><td colspan="3">25. November</td><td colspan="2">1972</td></tr>
 <tr><td>Libyen</td><td>9. Januar</td><td colspan="2">1973</td><td colspan="3">9. April</td><td colspan="2">1973</td></tr>
 <tr><td>Litauen</td><td>27. Juli</td><td colspan="2">1998</td><td colspan="3">27. Oktober</td><td colspan="2">1998</td></tr>
 <tr><td>Luxemburg</td><td>3. Februar</td><td colspan="2">2015</td><td colspan="3">3. Mai</td><td colspan="2">2015</td></tr>
 <tr><td>Madagaskar</td><td>21. Juni</td><td colspan="2">1989</td><td colspan="3">21. September</td><td colspan="2">1989</td></tr>
+<tr><td>Malawi</td><td>7. Juli</td><td colspan="2">2022</td><td colspan="3">7. Oktober</td><td colspan="2">2022</td></tr>
 <tr><td>Mali</td><td>6. April</td><td colspan="2">1987</td><td colspan="3">6. Juli</td><td colspan="2">1987</td></tr>
 <tr><td>Marokko</td><td>3. Februar</td><td colspan="2">2003</td><td colspan="3">3. Mai</td><td colspan="2">2003</td></tr>
 <tr><td>Mauretanien</td><td>27. April</td><td colspan="2">1977</td><td colspan="3">27. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Mauritius</td><td>27. Februar</td><td colspan="2">1978</td><td colspan="3">27. Mai</td><td colspan="2">1978</td></tr>
-<tr><td>Mazedonien</td><td>30. April</td><td colspan="2">1997 N</td><td colspan="3">17. November</td><td colspan="2">1991</td></tr>
 <tr><td>Mexiko\*</td><td>4. Oktober</td><td colspan="2">1972</td><td colspan="3">4. Januar</td><td colspan="2">1973</td></tr>
 <tr><td>Moldau\*</td><td>14. September</td><td colspan="2">2007</td><td colspan="3">14. Dezember</td><td colspan="2">2007</td></tr>
 <tr><td>Monaco\*</td><td>25. August</td><td colspan="2">2017</td><td colspan="3">25. November</td><td colspan="2">2017</td></tr>
@@ -332,11 +336,12 @@ Geltungsbereich am 25. April 2018**[^t-2]**
 <tr><td>Montenegro</td><td>26. April</td><td colspan="2">2007 N</td><td colspan="3">3. Juni</td><td colspan="2">2006</td></tr>
 <tr><td>Myanmar</td><td>5. September</td><td>2013</td><td colspan="3">5. Dezember</td><td colspan="2">2013</td></tr>
 <tr><td>Nepal</td><td>23. Juni</td><td colspan="2">1976</td><td colspan="3">23. September</td><td colspan="2">1976</td></tr>
-<tr><td>Neuseeland <sup>a</sup> \*</td><td>1. Februar</td><td colspan="2">2007 B</td><td colspan="3">1. Mai</td><td colspan="2">2007</td></tr>
+<tr><td>Neuseeland\* <sup>a</sup></td><td>1. Februar</td><td colspan="2">2007 B</td><td colspan="3">1. Mai</td><td colspan="2">2007</td></tr>
 <tr><td>Nicaragua</td><td>19. April</td><td colspan="2">1977</td><td colspan="3">19. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Niederlande</td><td>17. Juli</td><td colspan="2">2009</td><td colspan="3">17. Oktober</td><td colspan="2">2009</td></tr>
 <tr><td>Niger</td><td>16. Oktober</td><td colspan="2">1972</td><td colspan="3">16. Januar</td><td colspan="2">1973</td></tr>
 <tr><td>Nigeria</td><td>24. Januar</td><td colspan="2">1972</td><td colspan="3">24. April</td><td colspan="2">1972</td></tr>
+<tr><td>Nordmazedonien</td><td>30. April</td><td colspan="2">1997 N</td><td colspan="3">17. November</td><td colspan="2">1991</td></tr>
 <tr><td>Norwegen</td><td>16. Februar</td><td colspan="2">2007</td><td colspan="3">16. Mai</td><td colspan="2">2007</td></tr>
 <tr><td>Oman</td><td>2. Juni</td><td colspan="2">1978</td><td colspan="3">2. September</td><td colspan="2">1978</td></tr>
 <tr><td>Österreich</td><td>15. Juli</td><td colspan="3">2015</td><td colspan="2">15. Oktober</td><td colspan="2">2015</td></tr>
@@ -363,15 +368,16 @@ Geltungsbereich am 25. April 2018**[^t-2]**
 <tr><td>Spanien</td><td>10. Januar</td><td colspan="2">1986</td><td colspan="3">10. April</td><td colspan="2">1986</td></tr>
 <tr><td>Sri Lanka</td><td>7. April</td><td colspan="2">1981</td><td colspan="3">7. Juli</td><td colspan="2">1981</td></tr>
 <tr><td>Südafrika</td><td>18. Dezember</td><td colspan="2">2003</td><td colspan="3">18. März</td><td colspan="2">2004</td></tr>
-<tr><td>Swasiland</td><td>30. Oktober</td><td colspan="2">2012</td><td colspan="3">30. Januar</td><td colspan="2">2013</td></tr>
 <tr><td>Syrien</td><td>21. Februar</td><td colspan="2">1975</td><td colspan="3">21. Mai</td><td colspan="2">1975</td></tr>
 <tr><td>Tadschikistan</td><td>28. August</td><td colspan="2">1992 N</td><td colspan="3">9. September</td><td colspan="2">1991</td></tr>
 <tr><td>Tansania</td><td>2. August</td><td colspan="2">1977</td><td colspan="3">2. November</td><td colspan="2">1977</td></tr>
+<tr><td>Togo</td><td>19. November</td><td colspan="2">2018</td><td colspan="3">19. Februar</td><td colspan="2">2019</td></tr>
 <tr><td>Tschad</td><td>17. Juni</td><td colspan="2">2008</td><td colspan="3">17. September</td><td colspan="2">2008</td></tr>
 <tr><td>Tschechische Republik</td><td>26. März</td><td colspan="2">1993 N</td><td colspan="3">1. Januar</td><td colspan="2">1993</td></tr>
 <tr><td>Tunesien</td><td>10. März</td><td colspan="2">1975</td><td colspan="3">10. Juni</td><td colspan="2">1975</td></tr>
 <tr><td>Türkei</td><td>21. April</td><td colspan="2">1981</td><td colspan="3">21. Juli</td><td colspan="2">1981</td></tr>
-<tr><td>Ukraine\*</td><td>28. April</td><td colspan="2">1988</td><td colspan="3">28. Juli</td><td colspan="2">1988</td></tr>
+<tr><td>Turkmenistan</td><td>1. Juni</td><td colspan="2">2022</td><td colspan="3">1. September</td><td colspan="2">2022</td></tr>
+<tr><td>Ukraine</td><td>28. April</td><td colspan="2">1988</td><td colspan="3">28. Juli</td><td colspan="2">1988</td></tr>
 <tr><td>Ungarn\*</td><td>23. Oktober</td><td colspan="2">1978</td><td colspan="3">23. Januar</td><td colspan="2">1979</td></tr>
 <tr><td>Uruguay</td><td>9. August</td><td colspan="2">1977</td><td colspan="3">9. November</td><td colspan="2">1977</td></tr>
 <tr><td>Usbekistan</td><td>15. März</td><td colspan="2">1996</td><td colspan="3">15. Juni</td><td colspan="2">1996</td></tr>
@@ -382,9 +388,9 @@ Geltungsbereich am 25. April 2018**[^t-2]**
 <tr><td>Vietnam</td><td>20. September</td><td colspan="2">2005 B</td><td colspan="3">20. Dezember</td><td colspan="2">2005</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>1. Februar</td><td colspan="2">1972</td><td colspan="3">1. Mai</td><td colspan="2">1972</td></tr>
 <tr><td>Zypern</td><td>19. Oktober</td><td colspan="2">1979</td><td colspan="3">19. Januar</td><td colspan="2">1980</td></tr>
-<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/new/fr/unesco/resources/publications/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
 - [tab]
 
-[^t-2]: [AS 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357), [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233), [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161), [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283), [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369), [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10)und [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357); [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233); [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161); [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283); [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369); [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10); [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280); [2023 72](https://fedlex.data.admin.ch/eli/oc/2023/72). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty

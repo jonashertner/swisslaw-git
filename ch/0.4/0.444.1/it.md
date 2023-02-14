@@ -3,11 +3,11 @@ sr: "0.444.1"
 title: "Convenzione del 14 novembre 1970 concernente le misure da adottare per interdire e impedire l'illecita importazione, esportazione e trasferimento di proprietà dei beni culturali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/357"
 language: it
-version: 2018-04-25
+version: 2023-02-15
 adopted: 1970-11-14
 in_force: 2004-01-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20180425/it/xml/fedlex-data-admin-ch-eli-cc-2004-357-20180425-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20180425/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2004-357-20230215-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20230215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2004** 2881; FF **2002** 457
 
 Traduzione
 
-Conclusa a Parigi il 14 novembre 1970
+Conclusa a Parigi il 14 novembre 1970 Approvata dall’Assemblea federale il 12 giugno 2003[^t-1] Ratificata con strumenti depositati dalla Svizzera il 3 ottobre 2003 Entrata in vigore per la Svizzera il 3 gennaio 2004
 
-Approvata dall’Assemblea federale il 12 giugno 2003[^t-1]
-
-Ratificata con strumenti depositati dalla Svizzera il 3 ottobre 2003
-
-Entrata in vigore per la Svizzera il 3 gennaio 2004
-
-(Stato 25 aprile 2018)
+(Stato 15 febbraio 2023)
 
 [^t-1]: [RU 2004 2879](https://fedlex.data.admin.ch/eli/oc/2004/356)
 
@@ -242,7 +236,7 @@ Conformemente all’articolo 102 della Carta delle Nazioni Unite[^26-1], la pres
 
 *In fede di che* hanno firmato il diciassette novembre 1970. Fatto a Parigi, il diciassette novembre 1970, in due esemplari autentici, recanti la firma del Presidente della Conferenza generale riunita nella sua sedicesima sessione e del Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, che saranno depositati presso gli archivi dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, e le cui copie certificate conformi verranno inviate a tutti gli Stati previsti dagli articoli 19 e 20 e all’Organizzazione delle Nazioni Unite. Il testo che precede è il testo autentico della Convenzione debitamente adottato della Conferenza generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura nel corso della sua sedicesima sessione, che si è svolta a Parigi e che è stata dichiarata chiusa il quattordici novembre 1970. (Seguono le firme)
 
-Campo d’applicazione il 25 aprile 2018**[^t-2]**
+Campo d’applicazione il 15 febbraio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th colspan="2"></th><th>Entrata in vigore</th><th colspan="3"></th></tr>
@@ -280,6 +274,7 @@ Campo d’applicazione il 25 aprile 2018**[^t-2]**
 <tr><td>Cina</td><td colspan="2">28 novembre</td><td>1989</td><td>28 febbraio</td><td colspan="3">1990</td></tr>
 <tr><td>Cipro</td><td colspan="2">19 ottobre</td><td>1979</td><td>19 gennaio</td><td colspan="3">1980</td></tr>
 <tr><td>Colombia</td><td colspan="2">24 maggio</td><td>1988</td><td>24 agosto</td><td colspan="3">1988</td></tr>
+<tr><td>Comore</td><td colspan="2">17 marzo</td><td>2021</td><td>17 giugno</td><td colspan="3">2021</td></tr>
 <tr><td>Congo (Kinshasa)</td><td colspan="2">23 settembre</td><td>1974</td><td>23 dicembre</td><td colspan="3">1974</td></tr>
 <tr><td>Corea (Nord)</td><td colspan="2">13 maggio</td><td>1983</td><td>13 agosto</td><td colspan="3">1983</td></tr>
 <tr><td>Corea (Sud)</td><td colspan="2">14 febbraio</td><td>1983</td><td>14 maggio</td><td colspan="3">1983</td></tr>
@@ -296,6 +291,7 @@ Campo d’applicazione il 25 aprile 2018**[^t-2]**
 <tr><td>El Salvador</td><td colspan="2">20 febbraio</td><td>1978</td><td>20 maggio</td><td colspan="3">1978</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td colspan="2">9 ottobre</td><td>2017</td><td>9 gennaio</td><td colspan="3">2018</td></tr>
 <tr><td>Estonia</td><td colspan="2">27 ottobre</td><td>1995</td><td>27 gennaio</td><td colspan="3">1996</td></tr>
+<tr><td>Eswatini</td><td colspan="2">30 ottobre</td><td>2012</td><td>30 gennaio</td><td colspan="3">2013</td></tr>
 <tr><td>Etiopia</td><td colspan="2">22 novembre</td><td>2017</td><td>22 febbraio</td><td colspan="3">2017</td></tr>
 <tr><td>Finlandia<sup>\*</sup></td><td colspan="2">14 giugno</td><td>1999</td><td>14 settembre</td><td colspan="3">1999</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td colspan="2">7 gennaio</td><td>1997</td><td>7 aprile</td><td colspan="3">1997</td></tr>
@@ -323,12 +319,14 @@ Campo d’applicazione il 25 aprile 2018**[^t-2]**
 <tr><td>Kuwait</td><td colspan="2">22 giugno</td><td>1972</td><td>22 settembre</td><td colspan="3">1972</td></tr>
 <tr><td>Laos</td><td colspan="2">22 dicembre</td><td>2015</td><td>22 marzo</td><td colspan="3">2016</td></tr>
 <tr><td>Lesotho</td><td colspan="2">17 luglio</td><td>2013</td><td>17 ottobre</td><td colspan="3">2013</td></tr>
+<tr><td>Lettonia</td><td colspan="2">21 gennaio</td><td>2019</td><td>21 aprile</td><td colspan="3">2019</td></tr>
 <tr><td>Libano</td><td colspan="2">25 agosto</td><td>1972</td><td>25 novembre</td><td colspan="3">1972</td></tr>
 <tr><td>Libia</td><td colspan="2">9 gennaio</td><td>1973</td><td>9 aprile</td><td colspan="3">1973</td></tr>
 <tr><td>Lituania</td><td colspan="2">27 luglio</td><td>1998</td><td>27 ottobre</td><td colspan="3">1998</td></tr>
 <tr><td>Lussemburgo</td><td colspan="2">3 febbraio</td><td>2015</td><td>3 maggio</td><td colspan="3">2015</td></tr>
-<tr><td>Macedonia</td><td colspan="2">30 aprile</td><td>1997 S</td><td>17 novembre</td><td colspan="3">1991</td></tr>
+<tr><td>Macedonia del Nord</td><td colspan="2">30 aprile</td><td>1997 S</td><td>17 novembre</td><td colspan="3">1991</td></tr>
 <tr><td>Madagascar</td><td colspan="2">21 giugno</td><td>1989</td><td>21 settembre</td><td colspan="3">1989</td></tr>
+<tr><td>Malawi</td><td colspan="2">7 luglio</td><td>2022</td><td>7 ottobre</td><td colspan="3">2022</td></tr>
 <tr><td>Mali</td><td colspan="2">6 aprile</td><td>1987</td><td>6 luglio</td><td colspan="3">1987</td></tr>
 <tr><td>Marocco</td><td colspan="2">3 febbraio</td><td>2003</td><td>3 maggio</td><td colspan="3">2003</td></tr>
 <tr><td>Mauritania</td><td colspan="2">27 aprile</td><td>1977</td><td>27 luglio</td><td colspan="3">1977</td></tr>
@@ -372,21 +370,23 @@ Campo d’applicazione il 25 aprile 2018**[^t-2]**
 <tr><td>Sudafrica</td><td colspan="2">18 dicembre</td><td>2003</td><td>18 marzo</td><td colspan="3">2004</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td colspan="2">13 gennaio</td><td>2003</td><td>13 aprile</td><td colspan="3">2003</td></tr>
 <tr><td>Svizzera</td><td colspan="2">3 ottobre</td><td>2003</td><td>3 gennaio</td><td colspan="3">2004</td></tr>
-<tr><td>Swaziland</td><td colspan="2">30 ottobre</td><td>2012</td><td>30 gennaio</td><td colspan="3">2013</td></tr>
 <tr><td>Tagikistan</td><td colspan="2">28 agosto</td><td>1992 S</td><td>9 settembre</td><td colspan="3">1991</td></tr>
 <tr><td>Tanzania</td><td colspan="2">2 agosto</td><td>1977</td><td>2 novembre</td><td colspan="3">1977</td></tr>
+<tr><td>Togo</td><td colspan="2">19 novembre</td><td>2018</td><td>19 febbraio</td><td colspan="3">2019</td></tr>
 <tr><td>Tunisia</td><td colspan="2">10 marzo</td><td>1975</td><td>10 giugno</td><td colspan="3">1975</td></tr>
 <tr><td>Turchia</td><td colspan="2">21 aprile</td><td>1981</td><td>21 luglio</td><td colspan="3">1981</td></tr>
-<tr><td>Ucraina<sup>\*</sup></td><td colspan="2">28 aprile</td><td>1988</td><td>28 luglio</td><td colspan="3">1988</td></tr>
+<tr><td>Turkmenistan</td><td colspan="2">1° giugno</td><td>2022</td><td>1° settembre</td><td colspan="3">2022</td></tr>
+<tr><td>Ucraina</td><td colspan="2">28 aprile</td><td>1988</td><td>28 luglio</td><td colspan="3">1988</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td colspan="2">23 ottobre</td><td>1978</td><td>23 gennaio</td><td colspan="3">1979</td></tr>
 <tr><td>Uruguay</td><td colspan="2">9 agosto</td><td>1977</td><td>9 novembre</td><td colspan="3">1977</td></tr>
 <tr><td>Uzbekistan</td><td colspan="2">15 marzo</td><td>1996</td><td>15 giugno</td><td colspan="3">1996</td></tr>
 <tr><td>Venezuela</td><td colspan="2">21 marzo</td><td>2005</td><td>21 giugno</td><td colspan="3">2005</td></tr>
 <tr><td>Vietnam</td><td colspan="2">20 settembre</td><td>2005 A</td><td>20 dicembre</td><td colspan="3">2005</td></tr>
+<tr><td>Yemen</td><td colspan="2">3 giugno</td><td>2019</td><td>3 settembre</td><td colspan="3">2019</td></tr>
 <tr><td>Zambia</td><td colspan="2">21 giugno</td><td>1985</td><td>21 settembre</td><td colspan="3">1985</td></tr>
 <tr><td>Zimbabwe</td><td colspan="2">30 maggio</td><td>2006</td><td>30 agosto</td><td colspan="3">2006</td></tr>
-<tr><td colspan="7">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): www.unesco.org/new/fr/unesco/resources/publications/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="7">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="7"><sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357), [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233), [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161), [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283), [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369), [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10)e [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357); [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233); [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161); [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283); [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369); [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10); [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280); [2023 72](https://fedlex.data.admin.ch/eli/oc/2023/72). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
