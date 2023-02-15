@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Numérisation dans le régime des allocations pour perte de gain
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Digitalisierung in der Erwerbsersatzordnung
 document: Vernehmlassungsvorlage
 language: de

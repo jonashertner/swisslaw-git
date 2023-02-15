@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno
 document: Progetto posto in consultazione
 language: it
