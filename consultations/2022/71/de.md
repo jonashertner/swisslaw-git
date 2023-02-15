@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.327 s Kt. Iv. BL und 21.328 s Kt. Iv. BS. Massnahmen für eine Vollassoziierung der Schweiz am Forschungsprogramm Horizon Europe
 document: Vernehmlassungsvorlage
 language: de

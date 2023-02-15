@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.327 é Iv. ct. BL et 21.328 é Iv. ct. BS. Mesures en vue d’une association à part entière de la Suisse au programme de recherche Horizon Europe
 document: Projet mis en consultation
 language: fr

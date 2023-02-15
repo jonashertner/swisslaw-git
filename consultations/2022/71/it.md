@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.327 s Iv. ct. BL e 21.328 s Iv. ct. BS. Provvedimenti per una piena associazione della Svizzera al programma di ricerca Orizzonte Europa
 document: Progetto posto in consultazione
 language: it
