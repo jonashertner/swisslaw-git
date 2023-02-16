@@ -3,18 +3,18 @@ sr: "412.101.221.89"
 title: "Ordonnance du SEFRI du 5 novembre 2012 sur la formation professionnelle initiale de constructrice/constructeur d'appareils industriels avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/851"
 language: fr
-version: 2018-01-01
+version: 2023-02-17
 adopted: 2012-11-05
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-851-20180101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20230217/fr/xml/fedlex-data-admin-ch-eli-cc-2012-851-20230217-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20230217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale de constructrice d’appareils industriels/ constructeur d’appareils industriels avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de constructrice d’appareils industriels/ constructeur d’appareils industriels avec certificat fédéral de capacité (CFC)\*
 
-du 5 novembre 2012 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 5 novembre 2012 (État le 17 février 2023)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -26,7 +26,7 @@ Le Secrétariat d’État à la formation, à la recherche et à l’innovation 
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -292,19 +292,20 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 18
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
-<sup>1</sup> La procédure de qualification avec examen final porte sur les domaines de qualification ci-après selon les modalités suivantes:
+<sup>1</sup>
 
-a. examen partiel d’une durée de 11 heures. Ce domaine de qualification est évalué vers la fin de la deuxième année de formation. L’examen partiel porte sur les travaux professionnels de base. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
+La procédure de qualification avec examen final porte sur les domaines de qualification ci-après selon les modalités suivantes:
 
-b. travail pratique sous la forme d’un travail pratique individuel (TPI) d’une durée de 24 à 80 heures ou sous la forme d’un travail pratique prescrit (TPP) d’une durée de 12 à 16 heures. L’autorité cantonale compétente décide de la forme de l’examen. Ce domaine de qualification porte sur une compétence opérationnelle de la formation approfondie et est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
-
+- a. examen partiel d’une durée de 11 heures. Ce domaine de qualification est évalué vers la fin de la deuxième année de formation. L’examen partiel porte sur les travaux professionnels de base. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
+- b.[^18-1] travail pratique sous la forme d’un travail pratique individuel (TPI) d’une durée de 24 à 80 heures ou sous la forme d’un travail pratique prescrit (TPP) d’une durée de 12 à 16 heures. L’autorité cantonale compétente décide de la forme de l’examen. Ce domaine de qualification porte sur une compétence opérationnelle de la formation approfondie et est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
 - c. connaissances professionnelles d’une durée de 4 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit uniquement un examen écrit;
-- d. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- d. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
 - [tab] <sup>2</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Erratum du 17 fév. 2023, ne concerne que le texte italien ([RO 2023 76](https://fedlex.data.admin.ch/eli/oc/2023/76)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 19
 

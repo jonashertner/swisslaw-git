@@ -3,18 +3,18 @@ sr: "412.101.221.89"
 title: Verordnung des SBFI vom 5. November 2012 über die berufliche Grundbildung Anlagen- und Apparatebauerin/Anlagen- und Apparatebauer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/851"
 language: de
-version: 2018-01-01
+version: 2023-02-17
 adopted: 2012-11-05
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2012-851-20180101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20230217/de/xml/fedlex-data-admin-ch-eli-cc-2012-851-20230217-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20230217/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Anlagen- und Apparatebauerin/ Anlagen- und Apparatebauer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 5. November 2012 (Stand am 1. Januar 2018)
+vom 5. November 2012 (Stand am 17. Februar 2023)
 
 <table>
 <tr><td>44727</td><td>Anlagen- und Apparatebauerin EFZ/ Anlagen- und Apparatebauer EFZ Constructrice d’appareils industriels CFC/ Constructeur d’appareils industriels CFC Costruttrice d’impianti e apparecchi AFC/ Costruttore d’impianti e apparecchi AFC</td></tr>
@@ -24,7 +24,7 @@ Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
 gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-4]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -297,13 +297,14 @@ In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen n
 Im Qualifikationsverfahren mit Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie folgt geprüft:
 
 - a. Teilprüfung, im Umfang von 11 Stunden. Dieser Qualifikationsbereich wird gegen Ende des zweiten Bildungsjahres geprüft. Geprüft werden grundlegende Berufsarbeiten. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
-- b. Praktische Arbeit als individuelle praktische Arbeit (IPA) im Umfang von 24–80 Stunden oder als vorgegebene praktische Arbeit (VPA) im Umfang von 12–16 Stunden. Die zuständige kantonale Behörde entscheidet über die Prüfungsform. Dieser Qualifikationsbereich prüft eine Handlungskompetenz der Schwerpunktausbildung und wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
+- b.[^18-1] Praktische Arbeit als individuelle praktische Arbeit (IPA) im Umfang von 24–80 Stunden oder als vorgegebene praktische Arbeit (VPA) im Umfang von 12–16 Stunden. Die zuständige kantonale Behörde entscheidet über die Prüfungsform. Dieser Qualifikationsbereich prüft eine Handlungskompetenz der Schwerpunktausbildung und wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
 - c. Berufskenntnisse, im Umfang von 4 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person wird schriftlich befragt.
-- d. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- d. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-2] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Die Berichtigung vom 17. Febr. 2023 betrifft nur den italienischen Text ([AS 2023 76](https://fedlex.data.admin.ch/eli/oc/2023/76)).
+[^18-2]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 19
 

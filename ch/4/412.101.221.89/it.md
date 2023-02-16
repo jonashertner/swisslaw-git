@@ -3,18 +3,18 @@ sr: "412.101.221.89"
 title: "Ordinanza della SEFRI del 5 novembre 2012 sulla formazione professionale di base Costruttrice d'impianti e apparecchi/Costruttore d'impianti e apparecchi con attestato federale di capacità (AFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/851"
 language: it
-version: 2018-01-01
+version: 2023-02-17
 adopted: 2012-11-05
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2012-851-20180101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/851/20230217/it/xml/fedlex-data-admin-ch-eli-cc-2012-851-20230217-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/851/20230217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Costruttrice d’impianti e apparecchi/ Costruttore d’impianti e apparecchi con attestato federale di capacità (AFC)
 
-del 5 novembre 2012 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 5 novembre 2012 (Stato 17 febbraio 2023)
 
 <table>
 <tr><td>44727</td><td>Anlagen- und Apparatebauerin EFZ/ Anlagen- und Apparatebauer EFZ Constructrice d’appareils industriels CFC/ Constructeur d’appareils industriels CFC Costruttrice d’impianti e apparecchi AFC/ Costruttore d’impianti e apparecchi AFC</td></tr>
@@ -24,7 +24,7 @@ La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
 visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -295,14 +295,15 @@ Nelle procedure di qualificazione si deve dimostrare di aver acquisito le compet
 
 a. «esame parziale», della durata di undici ore. L’esame ha luogo verso la fine del secondo anno di formazione professionale di base. Sono oggetto d’esame lavori professionali di base. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
 
-b. «lavoro pratico», sotto forma di lavoro pratico individuale della durata da 36 a 120 ore. L’esame verifica una competenza operativa relativa alla formazione approfondita e ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
+b.[^18-1] «lavoro pratico», sotto forma di lavoro pratico individuale (LPI) della durata da 24 a 80 ore o sotto forma di lavoro pratico prestabilito (LPP) della durata da 12 a 16 ore. L’autorità cantonale competente decide la forma d’esame. Il campo di qualificazione verte su una competenza operativa relativa alla formazione approfondita e ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
 
 - c. «conoscenze professionali», della durata di quattro ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame si svolge unicamente in forma scritta;
-- d. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- d. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^18-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Correzione del 17 feb. 2023 ([RU 2023 76](https://fedlex.data.admin.ch/eli/oc/2023/76)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 19
 
