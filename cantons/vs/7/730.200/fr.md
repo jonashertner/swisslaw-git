@@ -1,0 +1,191 @@
+---
+canton: VS
+number: "730.200"
+title: Décret concernant la procédure d’autorisation de construire de grandes installations photovoltaïques
+language: fr
+version: 2023-02-17
+valid_until: 2023-09-09
+version_adopted: 2023-02-10
+adopted: 2023-02-10
+in_force: 2023-02-17
+url: "https://lex.vs.ch/app/fr/texts_of_law/730.200"
+pdf: "https://lex.vs.ch/api/fr/versions/3173/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
+
+# Décret concernant la procédure d’autorisation de construire de grandes installations photovoltaïques
+
+du 10.02.2023 (état 17.02.2023)
+
+Le Grand Conseil du canton du Valais
+
+vu la loi fédérale sur l’énergie du 30 septembre 2016 (LEne), notamment son article 71a;
+
+vu les articles 31 alinéa 1 lettre a, 32 alinéa 2, 38 et 42 alinéa 3 de la Constitution cantonale;
+
+vu l’article 42 de la loi sur l’organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
+
+sur la proposition du Conseil d'Etat,
+
+décrète:
+
+#### Art. 1
+
+**But**
+
+<sup>1</sup> Le présent décret réglemente la procédure d’autorisation des grandes installations photovoltaïques au sens de l’article 71a alinéa 3 de la loi fédérale sur l’énergie (LEne), à l’exception des lignes électriques.
+
+#### Art. 2
+
+**Compétences**
+
+<sup>1</sup> Le Conseil d’Etat est l’autorité compétente pour autoriser ces grandes installations photovoltaïques.
+
+<sup>2</sup> Le département en charge de l’énergie (ci-après: le département), par le service en charge de l’énergie (ci-après: organe d'instruction), mène la procédure pour le compte du Conseil d’Etat.
+
+<sup>3</sup> Le pouvoir législatif communal est compétent pour donner l’accord de la commune au sens de l’article 71a alinéa 3 LEne.
+
+#### Art. 3
+
+**Concentration des procédures**
+
+<sup>1</sup> Les différentes autorisations nécessaires pour la construction de grandes installations photovoltaïques sont coordonnées au travers d’une procédure concentrée.
+
+<sup>2</sup> Pour ce faire, le Conseil d’Etat consulte, en principe, simultanément les autorités et services concernés et leur impartit un délai de 30 jours pour se prononcer.
+
+<sup>3</sup> Si un projet nécessite une autorisation spéciale en sus de l’autorisation, les services concernés se prononcent définitivement, dans leur préavis, sur les conditions de l’autorisation spéciale.
+
+<sup>4</sup> Le Conseil d’Etat décide dans une décision unique.
+
+#### Art. 4
+
+**Contenu du dossier**
+
+<sup>1</sup> Le requérant doit déposer auprès du département un dossier comprenant notamment:
+
+- a) un plan de situation;
+- b) l’accord du propriétaire du fonds;
+- c) l’accord de la commune concernée;
+- d) les plans d’exécution et les documents spéciaux du projet, notamment des indications détaillées de toutes les installations à ériger;
+- e) un extrait de la carte topographique au 1:25'000 indiquant l’emprise du projet;
+- f) un extrait du Registre foncier ou du cadastre avec état des charges;
+- g) un rapport d’impact sur l’environnement;
+- h) les demandes d’autorisations spéciales;
+- i) un rapport technique;
+- j) des indications sur le tracé de la ligne de raccordement et un rapport sur la capacité d’injection sur les réseaux électriques régional et national;
+- k) une représentation visuelle du projet (photomontage, vidéo, etc.), y compris les installations associées;
+- l) un concept de démantèlement en cas de mise hors service définitive, avec indication des mesures à prendre pour rétablir la situation initiale;
+- m) un rapport traitant de la rentabilité économique de l’installation en tenant compte également du démantèlement en cas de mise hors service définitive.
+
+#### Art. 4bis
+
+**Consultation préalable**
+
+<sup>1</sup> Le projet doit faire l’objet d’une consultation préalable avant la mise à l’enquête publique.
+
+<sup>2</sup> Lors de la consultation préalable, les services et offices concernés émettent leurs préavis et indiquent les conditions à satisfaire et leurs demandes de compléments dans un délai de 30 jours.
+
+<sup>3</sup> Les services et offices qui ont participé à la consultation préalable sont liés par leurs préavis et conditions dans le cadre de la procédure d’autorisation, pour autant que le projet n’ait pas été modifié entre la consultation préalable et le dépôt de la demande d’autorisation.
+
+#### Art. 5
+
+**Enquête publique**
+
+<sup>1</sup> Les projets sont mis à l'enquête publique par le département par publication dans le Bulletin officiel.
+
+<sup>2</sup> L'enquête publique ouvre également la procédure pour l'obtention des autorisations spéciales annexes.
+
+<sup>3</sup> L'autorité compétente peut renoncer à cette enquête publique lorsqu'il s'agit de modifications mineures d’une autorisation de construire en force ou d’une demande d’autorisation de construire en cours d’instruction et si les personnes concernées ont donné leur accord par écrit, ou si l'occasion leur a été donnée d'en prendre connaissance et d'y faire opposition.
+
+#### Art. 6
+
+**Procédure d'opposition**
+
+<sup>1</sup> Le délai d'opposition est de 30 jours.
+
+<sup>2</sup> Les oppositions motivées doivent être formulées par écrit.
+
+<sup>3</sup> Pendant ce délai, la demande reste déposée, avec toutes les pièces qui s'y rapportent, auprès du département et de la commune de situation à la disposition de tout intéressé. En sont exclus les rapports sur le financement par des investisseurs et des participations, ainsi que les plans de construction techniques et les solutions techniques spécifiques qui relèvent du secret commercial et désignés comme tels par le requérant.
+
+<sup>4</sup> Un représentant est désigné pour les oppositions collectives; à défaut, le premier des signataires est considéré comme représentant.
+
+#### Art. 7
+
+**Opposition - Réserve de droit**
+
+<sup>1</sup> Les motifs de l'opposition contre le projet ne peuvent porter que sur la violation de dispositions de droit public.
+
+<sup>2</sup> La réserve de droit formulée dans le délai d'opposition a pour but d'orienter le requérant et l'autorité sur l'existence de droits privés touchés par le projet et sur les éventuelles demandes d'indemnité.
+
+#### Art. 8
+
+**Séance de conciliation**
+
+<sup>1</sup> En cas d'opposition, l'organe d'instruction peut inviter les parties à une séance de conciliation.
+
+<sup>2</sup> Le résultat des pourparlers et l'indication des oppositions non liquidées sont consignés dans un procès-verbal.
+
+#### Art. 9
+
+**Décision sur le projet**
+
+<sup>1</sup> Sur proposition du département, le Conseil d'Etat approuve ou refuse le projet dans les 30 jours. La décision comprend notamment la pesée des intérêts et le traitement des oppositions n'ayant pas un caractère de droit privé.
+
+<sup>2</sup> Le Conseil d'Etat peut ordonner que les modalités ou conditions ou l’obligation de constituer des sûretés soient mentionnées au registre foncier.
+
+#### Art. 10
+
+**Procédure de recours**
+
+<sup>1</sup> La décision peut faire l’objet d’un recours auprès du Tribunal cantonal dans les 30 jours dès sa notification.
+
+<sup>2</sup> Le recours n’a pas d'effet suspensif. Le Tribunal cantonal ou le président peut, d’office ou sur demande, accorder l’effet suspensif lorsque la réalisation du projet pourrait porter un préjudice irréparable à un intérêt prépondérant. L’article 71a alinéa 1 lettre d LEne est applicable lors de la pesée des intérêts.
+
+<sup>3</sup> La suspension des délais au sens de l’article 79a de la loi sur la procédure et la juridiction administratives du 6 octobre 1976 (LPJA) n’est pas applicable à la procédure de recours.
+
+<sup>4</sup> Dans la mesure du possible, le Tribunal cantonal rend une décision dans les 60 jours suivant la fin des échanges d'écritures. Dans la mesure du possible, il procède d'office à la constatation des faits pertinents.
+
+#### Art. 11
+
+**Force exécutoire du projet d'exécution**
+
+<sup>1</sup> Le département rend notoire par publication dans le Bulletin officiel que la décision d'approbation du projet mis à l'enquête publique a force exécutoire.
+
+<sup>2</sup> Le projet approuvé et en force peut être consulté par chaque intéressé auprès de la ou des communes de situation.
+
+#### Art. 12
+
+**Début des travaux**
+
+<sup>1</sup> Les travaux de construction ainsi que les mesures environnementales doivent être commencés dans les 3 ans dès l’entrée en force de la décision d'autorisation.
+
+#### Art. 13
+
+**Surveillance des travaux**
+
+<sup>1</sup> Le département veille à ce que les travaux soient exécutés conformément aux plans autorisés.
+
+<sup>2</sup> A la fin des travaux, le requérant est tenu de remettre les plans de l’installation exécutée au département et aux communes concernées par l’implantation de celle-ci.
+
+#### Art. 14
+
+**Responsabilité de l'exploitant**
+
+<sup>1</sup> L'exploitant est responsable de tous dommages résultant de la construction, de l'existence ou de l'exploitation de son installation.
+
+<sup>2</sup> Est réputé exploitant responsable celui qui possède, construit ou exploite une installation. Si cette dernière ne lui appartient pas, le propriétaire de l’ouvrage répond solidairement du dommage.
+
+#### Art. 15
+
+**Remise en état et garanties financières**
+
+<sup>1</sup> Le Conseil d’Etat peut ordonner que le propriétaire, le superficiaire ou toute autre personne ayant ou ayant eu une maîtrise sur l’installation garantisse, sous une forme adéquate (sûretés personnelles, sûretés réelles ou autres garanties), la couverture des coûts de suppression de la construction en cas de début anticipé des travaux, de remise en état complète des lieux conformément à l’article 71a alinéa 5 LEne, ainsi que des frais liés à une éventuelle exécution par substitution.
+
+#### Art. 16
+
+**Disposition finale - Suspension**
+
+<sup>1</sup> Sont suspendues toutes les dispositions spéciales de procédure et de compétence contraires aux dispositions du présent décret.
+
+RCV RO/AGS 2023-019
