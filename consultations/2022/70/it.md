@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Abrogare le inutili e dannose restrizioni della legge sulle abitazioni secondarie in materia di demolizione e riedificazione di abitazioni costruite secondo il diritto anteriore
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur les résidences secondaires. Supprimer les restrictions inutiles et fâcheuses en matière de démolition et de reconstruction de logements créés selon l’ancien droit
 document: Projet mis en consultation
 language: fr

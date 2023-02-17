@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Unnötige und schädliche Beschränkungen des Zweitwohnungsgesetzes in Sachen Abbruch und Wiederaufbau von altrechtlichen Wohnungen aufheben
 document: Vernehmlassungsvorlage
 language: de
