@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sulla cinematografia (OCin); Nuova ordinanza sulla quota per i film europei e sugli investimenti nel cinema svizzero (OQIC)
 document: Progetto posto in consultazione-2
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Filmverordnung (FiV); Neue Verordnung über die Quote für europäische Filme und Investitionen in das Schweizer Filmschaffen (FQIV)
 document: Vernehmlassungsvorlage
 language: de
