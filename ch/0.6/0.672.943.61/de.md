@@ -3,11 +3,11 @@ sr: "0.672.943.61"
 title: Abkommen vom 27. Oktober 2002 zwischen dem Schweizerischen Bundesrat und der Regierung der Islamischen Republik Iran zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/85"
 language: de
-version: 2003-12-31
+version: 2023-02-20
 adopted: 2002-10-27
 in_force: 2003-12-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/85/20031231/de/xml/fedlex-data-admin-ch-eli-cc-2004-85-20031231-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/85/20031231/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/85/20230220/de/xml/fedlex-data-admin-ch-eli-cc-2004-85-20230220-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/85/20230220/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,16 +26,20 @@ Ratifikationsurkunde ausgetauscht am 31. Dezember 2003
 
 In Kraft getreten am 31. Dezember 2003[^t-2]
 
-(Stand am 31. Dezember 2003)
+(Stand am 20. Februar 2023)
 
 [^t-1]: [AS 2004 779](https://fedlex.data.admin.ch/eli/oc/2004/84)
 [^t-2]: [AS 2004 1383](https://fedlex.data.admin.ch/eli/oc/2004/171)
 
 Der Schweizerische Bundesrat und die Regierung der Islamischen Republik Iran,
 
-vom Wunsche geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und die Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
 
-haben Folgendes vereinbart:
+in der Absicht, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen, ohne Gelegenheiten zu Nichtbesteuerung oder verminderter Besteuerung durch Steuerhinterziehung oder Steuerumgehung (einschliesslich durch Gestaltungen, die auf das Erlangen von in diesem Abkommen vorgesehenen Entlastungen zum mittelbaren Vorteil von in Drittstaaten ansässigen Personen zielen) zu schaffen,
+
+haben Folgendes vereinbart:[^ingress-1]
+
+[^ingress-1]: Fassung gemäss Art. 1 des Prot. vom 3. Juni 2019, von der BVers genehmigt am 19. Juni 2020 und in Kraft seit 20. Febr. 2023 ([AS 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [BBl 2019 7239](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
 
 #### Art. 1
 
@@ -51,17 +55,22 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 <sup>2.</sup> Als Steuern vom Einkommen und vom Vermögen gelten Steuern, die vom Gesamteinkommen, vom Gesamtvermögen oder von Teilen des Einkommens oder des Vermögens erhoben werden, einschliesslich der Steuern vom Gewinn aus der Veräusserung beweglichen oder unbeweglichen Vermögens, der Lohnsummensteuern sowie der Steuern vom Vermögenszuwachs.
 
-<sup>3.</sup> Zu den bestehenden Steuern, für die das Abkommen gilt, gehören
+<sup>3.</sup>
+
+Zu den bestehenden Steuern, für die das Abkommen gilt, gehören:
 
 - a)
 
   in der Islamischen Republik Iran:
 
-  - (i) die Einkommenssteuer;
+  - (i) die Einkommenssteuer,
   - (ii) die Vermögenssteuer;
 
-- b) in der Schweiz: die von Bund, Kantonen und Gemeinden erhobenen Steuern
-  - (i) vom Einkommen (Gesamteinkommen, Erwerbseinkommen, Vermögensertrag, Geschäftsertrag, Kapitalgewinn und andere Einkünfte); und
+- b) in der Schweiz:
+
+  die von Bund, Kantonen und Gemeinden erhobenen Steuern:
+
+  - (i) vom Einkommen (Gesamteinkommen, Erwerbseinkommen, Vermögensertrag, Geschäftsertrag, Kapitalgewinn und andere Einkünfte), und
   - (ii) vom Vermögen (Gesamtvermögen, bewegliches und unbewegliches Vermögen, Geschäftsvermögen, Kapital und Reserven und andere Vermögensteile);
   - (im Folgenden als «schweizerische Steuer» bezeichnet).
 
@@ -73,29 +82,42 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 **Allgemeine Begriffsbestimmungen**
 
-<sup>1.</sup> Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert,
+<sup>1.</sup>
 
-- a) (i) bedeutet der Ausdruck «Islamische Republik Iran» das unter der Souveränität und/oder der Gerichtsbarkeit der Islamischen Republik Iran stehende Gebiet;
+Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
+
+- a) (i) bedeutet der Ausdruck «Islamische Republik Iran» das unter der Souveränität und/oder der Gerichtsbarkeit der Islamischen Republik Iran stehende Gebiet,
   - (ii) bedeutet der Ausdruck «Schweiz» die Schweizerische Eidgenossenschaft;
 
-- b) bedeutet der Ausdruck «Person»
-  - (i) eine natürliche Person;
+- b)
+
+  bedeutet der Ausdruck «Person»:
+
+  - (i) eine natürliche Person,
   - (ii) eine Gesellschaft und jede andere Personenvereinigung;
 
 - c) bedeutet der Ausdruck «Gesellschaft» juristische Personen oder Rechtsträger, die für die Besteuerung wie juristische Personen behandelt werden;
 - d) bedeuten die Ausdrücke «Unternehmen eines Vertragsstaats» und «Unternehmen des anderen Vertragsstaats», je nachdem, ein Unternehmen, das von einer in einem Vertragsstaat ansässigen Person betrieben wird, oder ein Unternehmen, das von einer im anderen Vertragsstaat ansässigen Person betrieben wird;
 - e) bedeutet der Ausdruck «internationaler Verkehr» jede Beförderung mit einem Seeschiff oder Luftfahrzeug, das von einem Unternehmen eines Vertragsstaats betrieben wird, es sei denn, das Seeschiff oder Luftfahrzeug wird ausschliesslich zwischen in einem der beiden Vertragsstaaten gelegenen Orten betrieben;
-- f) bedeutet der Ausdruck «zuständige Behörde»
-  - (i) in der Islamischen Republik Iran den Wirtschafts- und Finanzminister oder einen bevollmächtigten Vertreter;
-  - (ii) in der Schweiz den Direktor der Eidgenössischen Steuerverwaltung oder seinen bevollmächtigten Vertreter;
+- f)
 
-- g) bedeutet der Ausdruck «Staatsangehöriger»
-  - (i) jede natürliche Person, die die Staatsangehörigkeit eines Vertragsstaats besitzt;
+  bedeutet der Ausdruck «zuständige Behörde»:
+
+  - (i) in der Islamischen Republik Iran den Wirtschafts- und Finanzminister oder einen bevollmächtigten Vertreter,
+  - (ii)[^3-1] in der Schweiz den Vorsteher des Eidgenössischen Finanzdepartements oder seinen bevollmächtigten Vertreter;
+
+- g)
+
+  bedeutet der Ausdruck «Staatsangehöriger»:
+
+  - (i) jede natürliche Person, die die Staatsangehörigkeit eines Vertragsstaats besitzt,
   - (ii) jede juristische Person oder andere Personenvereinigung, die nach dem in einem Vertragsstaat geltenden Recht errichtet worden ist.
 
 <sup>2.</sup> Bei der Anwendung des Abkommens durch einen Vertragsstaat hat, wenn der Zusammenhang nichts anderes erfordert, jeder im Abkommen nicht definierte Aus- druck die Bedeutung, die ihm nach dem Recht dieses Staates über die Steuern
 
 zukommt, für die das Abkommen gilt.
+
+[^3-1]: Fassung gemäss Art. 2 des Prot. vom 3. Juni 2019, von der BVers genehmigt am 19. Juni 2020 und in Kraft seit 20. Febr. 2023 ([AS 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [BBl 2019 7239](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
 
 #### Art. 4
 
@@ -124,11 +146,11 @@ Ist nach Absatz 1 dieses Artikels eine natürliche Person in beiden Vertragsstaa
 
 Der Ausdruck «Betriebsstätte» umfasst insbesondere:
 
-- a) einen Ort der Leitung,
-- b) eine Zweigniederlassung,
-- c) eine Geschäftsstelle,
-- d) eine Fabrikationsstätte,
-- e) eine Werkstätte, und
+- a) einen Ort der Leitung;
+- b) eine Zweigniederlassung;
+- c) eine Geschäftsstelle;
+- d) eine Fabrikationsstätte;
+- e) eine Werkstätte; und
 - f) ein Bergwerk, ein Öl- oder Gasvorkommen, einen Steinbruch oder eine andere Stätte der Erforschung und/oder Ausbeutung von Bodenschätzen.
 
 <sup>3.</sup> Eine Bauausführung oder Montage oder damit zusammenhängende Aufsichtstätigkeiten begründen nur dann eine Betriebsstätte, wenn deren Dauer zwölf Monate überschreitet.
@@ -180,6 +202,10 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 <sup>7.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.
 
+<sup>8.</sup> Ein Vertragsstaat darf keine Berichtigung der Gewinne, die einer Betriebsstätte eines Unternehmens eines der Vertragsstaaten zugerechnet werden können, nach Ablauf von fünf Jahren ab dem Ende des Steuerjahres vornehmen, in dem die Gewinne der Betriebsstätte hätten zugerechnet werden können. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^7-1]
+
+[^7-1]: Eingefügt durch Art. 3 Ziff. 1 des Prot. vom 3. Juni 2019, von der BVers genehmigt am 19. Juni 2020 und in Kraft seit 20. Febr. 2023 ([AS 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [BBl 2019 7239](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
+
 #### Art. 8
 
 **Internationaler Verkehr**
@@ -190,13 +216,19 @@ Gewinne aus dem Betrieb von Seeschiffen oder Luftfahrzeugen im internationalen V
 
 **Verbundene Unternehmen**
 
-<sup>1.</sup> Wenn
+<sup>1.</sup>
 
-- a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist, oder
-- b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind
+Wenn:
+
+- a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist; oder
+- b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind,
 - und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
 
 <sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet – und entsprechend besteuert –, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, wie sie unabhängige Unternehmen miteinander vereinbaren würden, so können die zuständigen Behörden der Vertragsstaaten zur Herbeiführung einer Einigung über die Berichtigung der Gewinne in den beiden Vertragsstaaten einander konsultieren.
+
+<sup>3.</sup> Ein Vertragsstaat darf nach Ablauf von fünf Jahren ab dem Ende des Steuerjahres, in dem ein Unternehmen die Gewinne erzielt hätte, den Gewinnen des Unternehmens keine Gewinne zurechnen und entsprechend besteuern, die das Unternehmen erzielt hätte, aufgrund der in Absatz 1 genannten Bedingungen jedoch nicht erzielt hat. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^9-1]
+
+[^9-1]: Eingefügt durch Art. 3 Ziff. 2 des Prot. vom 3. Juni 2019, von der BVers genehmigt am 19. Juni 2020 und in Kraft seit 20. Febr. 2023 ([AS 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [BBl 2019 7239](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
 
 #### Art. 10
 
@@ -286,10 +318,12 @@ Ungeachtet der Bestimmungen des Absatzes 2 können Zinsen, die aus einem Vertrag
 
 <sup>1.</sup> Vorbehaltlich der Artikel 16, 18 und 19 dieses Abkommens können Gehälter, Löhne und ähnliche Vergütungen, die eine in einem Vertragsstaat ansässige Person aus unselbständiger Arbeit bezieht, nur in diesem Staat besteuert werden, es sei denn, die Arbeit wird im anderen Vertragsstaat ausgeübt. Wird die Arbeit dort ausgeübt, so können die dafür bezogenen Vergütungen in diesem anderen Vertragsstaat besteuert werden.
 
-<sup>2.</sup> Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn
+<sup>2.</sup>
 
-- a) der Empfänger sich im anderen Vertragsstaat insgesamt nicht länger als 183 Tage innerhalb eines Zeitraums von zwölf Monaten, der während des betreffenden Steuerjahres beginnt oder endet, aufhält und
-- b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht im anderen Vertragsstaat ansässig ist, und
+Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn:
+
+- a) der Empfänger sich im anderen Vertragsstaat insgesamt nicht länger als 183 Tage innerhalb eines Zeitraums von zwölf Monaten, der während des betreffenden Steuerjahres beginnt oder endet, aufhält; und
+- b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht im anderen Vertragsstaat ansässig ist; und
 - c) die Vergütungen nicht von einer Betriebsstätte oder einer festen Einrichtung getragen werden, die der Arbeitgeber im anderen Staat hat.
 
 <sup>3.</sup> Ungeachtet der vorstehenden Bestimmungen dieses Artikels können Vergütungen, die ein Unternehmen eines Vertragsstaats für unselbständige Arbeit zahlt, die an Bord eines Seeschiffes oder Luftfahrzeuges, das im internationalen Verkehr betrieben wird, ausgeübt wird, in diesem Vertragsstaat besteuert werden.
@@ -321,8 +355,11 @@ Vorbehaltlich des Artikels 19 Absatz 2 können Ruhegehälter und ähnliche Verg�
 **Öffentlicher Dienst**
 
 - 1\. a) Gehälter, Löhne und ähnliche Vergütungen, die von einem Vertragsstaat oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften an eine natürliche Person für die diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft geleisteten Dienste gezahlt werden, können nur in diesem Staat besteuert werden.
-- b) Diese Gehälter, Löhne und ähnlichen Vergütungen können jedoch nur im anderen Vertragsstaat besteuert werden, wenn die Dienste in diesem Staat geleistet werden und die natürliche Person in diesem Staat ansässig ist und
-  - (i) ein Staatsangehöriger dieses Staates ist oder
+- b)
+
+  Diese Gehälter, Löhne und ähnlichen Vergütungen können jedoch nur im anderen Vertragsstaat besteuert werden, wenn die Dienste in diesem Staat geleistet werden und die natürliche Person in diesem Staat ansässig ist, und:
+
+  - (i) ein Staatsangehöriger dieses Staates ist, oder
   - (ii) nicht ausschliesslich deshalb in diesem Staat ansässig geworden ist, um die Dienste zu leisten.
 
 - 2\. a) Ruhegehälter, die von einem Vertragsstaat oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften oder aus einem von diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft errichteten Sondervermögen an eine natürliche Person für die diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft geleisteten Dienste gezahlt werden, können nur in diesem Staat besteuert werden.
@@ -411,29 +448,53 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 <sup>2.</sup> Hält die zuständige Behörde die Einwendung für begründet und ist sie selbst nicht in der Lage, eine befriedigende Lösung herbeizuführen, so wird sie sich bemühen, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaats so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
 
+Die Verständigungsregelung ist ungeachtet der Fristen des innerstaatlichen Rechts der beiden Vertragsstaaten umzusetzen, jedoch keinesfalls später als zehn Jahre nach Ablauf des betreffenden Steuerjahres.[^25-1]
+
 <sup>3.</sup> Die zuständigen Behörden der Vertragsstaaten werden sich bemühen, Schwierigkeiten oder Zweifel, die bei der Auslegung oder Anwendung des Abkommens entstehen, in gegenseitigem Einvernehmen zu beseitigen. Sie können auch gemeinsam darüber beraten, wie eine Doppelbesteuerung in Fällen vermieden werden kann, die im Abkommen nicht behandelt sind.
 
 <sup>4.</sup> Die zuständigen Behörden der Vertragsstaaten können zur Herbeiführung einer Einigung im Sinne der vorstehenden Absätze unmittelbar miteinander verkehren und sich auch in einer gemeinsamen Kommission, in der sie selbst oder ihre Vertreter Einsitz nehmen, beraten.
 
+[^25-1]: Abs. eingefügt durch Art. 3 Ziff. 3 des Prot. vom 3. Juni 2019, von der BVers genehmigt am 19. Juni 2020 und in Kraft seit 20. Febr. 2023 ([AS 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [BBl 2019 7239](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
+
 #### Art. 26
 
-**Informationsaustausch**
+**Informationsaustausch**[^26-1]
 
-<sup>1.</sup> Die zuständigen Behörden der Vertragsstaaten werden unter sich diejenigen (gemäss den Steuergesetzgebungen der Vertragsstaaten im Rahmen der normalen Verwaltungspraxis erhältlichen) Auskünfte austauschen, die notwendig sind für die Durchführung dieses Abkommens mit Bezug auf die Gegenstand dieses Abkommens bildenden Steuern. Jede auf diese Weise ausgetauschte Auskunft soll geheim gehalten und niemandem zugänglich gemacht werden, der sich nicht mit der Veranlagung oder dem Bezug der Gegenstand dieses Abkommens bildenden Steuern befasst. Auskünfte, die irgendein Handels- oder Geschäfts-, Bank-, gewerbliches oder Berufsgeheimnis oder ein Geschäftsverfahren offenbaren würden, dürfen nicht ausgetauscht werden.
+<sup>1.</sup> Die zuständigen Behörden der Vertragsstaaten tauschen die Informationen aus, die zur Durchführung dieses Abkommens oder zur Anwendung oder Durchsetzung des innerstaatlichen Rechts betreffend Steuern jeder Art und Bezeichnung, die für Rechnung der Vertragsstaaten, ihrer politischen oder administrativen Unterabteilungen oder ihrer lokalen Körperschaften erhoben werden, voraussichtlich erheblich sind, soweit die diesem Recht entsprechende Besteuerung nicht dem Abkommen widerspricht. Der Informationsaustausch ist durch die Artikel 1 und 2 nicht eingeschränkt.
 
-<sup>2.</sup> Die Bestimmungen dieses Artikels dürfen auf keinen Fall dahin ausgelegt werden, dass sie einem der Vertragsstaaten die Verpflichtung auferlegen, Verwaltungsmassnahmen durchzuführen, die von den Vorschriften oder von der Verwaltungspraxis dieses oder des anderen Vertragsstaats abweichen, oder die seiner Souveränität, Sicherheit oder dem Ordre public widersprechen, oder Angaben zu vermitteln, die nicht auf Grund seiner eigenen und auf Grund der Gesetzgebung des ersuchenden Staates beschafft werden können.
+<sup>2.</sup> Alle Informationen, die ein Vertragsstaat nach Absatz 1 erhalten hat, sind ebenso geheim zu halten wie die aufgrund des innerstaatlichen Rechts dieses Staates beschafften Informationen; sie dürfen nur den Personen oder Behörden, einschliesslich der Gerichte und der Verwaltungsbehörden, zugänglich gemacht werden, die mit der Veranlagung oder der Erhebung, mit der Vollstreckung oder der Strafverfolgung oder mit der Entscheidung von Rechtsmitteln hinsichtlich der in Absatz 1 genannten Steuern oder mit der Aufsicht über die vorgenannten Personen oder Behörden befasst sind. Diese Personen oder Behörden dürfen die Informationen nur für diese Zwecke verwenden. Sie können die Informationen in einem öffentlichen Gerichtsverfahren oder in einer Gerichtsentscheidung offenlegen. Ungeachtet der vorstehenden Bestimmungen kann ein Vertragsstaat die erhaltenen Informationen für andere Zwecke verwenden, wenn solche Informationen nach dem Recht beider Staaten für solche andere Zwecke verwendet werden können und die zuständige Behörde des übermittelnden Staates dieser anderen Verwendung zustimmt.
+
+<sup>3.</sup>
+
+Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vertragsstaat:
+
+- a) Verwaltungsmassnahmen durchzuführen, die von den Gesetzen und der Verwaltungspraxis dieses oder des anderen Vertragsstaats abweichen;
+- b) Informationen zu erteilen, die nach den Gesetzen oder im üblichen Verwaltungsverfahren dieses oder des anderen Vertragsstaats nicht beschafft werden können;
+- c) Informationen zu erteilen, die ein Handels-, Geschäfts-, Industrie-, Gewerbe- oder Berufsgeheimnis oder ein Geschäftsverfahren preisgeben würden oder deren Erteilung dem Ordre public widerspräche.
+
+<sup>4.</sup> Ersucht ein Vertragsstaat um Informationen nach diesem Artikel, so nutzt der andere Vertragsstaat die ihm zur Verfügung stehenden Möglichkeiten zur Beschaffung dieser Informationen, selbst wenn dieser andere Staat sie für seine eigenen steuerlichen Zwecke nicht benötigt. Die im vorstehenden Satz enthaltene Verpflichtung unterliegt den Beschränkungen nach Absatz 3, die jedoch in keinem Fall so auszulegen sind, dass ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen kann, weil er kein innerstaatliches Interesse an solchen Informationen hat.
+
+<sup>5.</sup> Absatz 3 ist in keinem Fall so auszulegen, als könne ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen, weil sich die Informationen bei einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigten, Beauftragten oder Treuhänder befinden oder weil sie sich auf Eigentumsrechte an einer Person beziehen.
+
+[^26-1]: Fassung gemäss Art. 4 des Prot. vom 3. Juni 2019, von der BVers genehmigt am 19. Juni 2020 und in Kraft seit 20. Febr. 2023 ([AS 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [BBl 2019 7239](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
 
 #### Art. 27
 
-**Mitglieder diplomatischer Missionen und konsularischer**
-
-Vertretungen
+**Mitglieder diplomatischer Missionen und konsularischer Vertretungen**
 
 Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern diplomatischer Missionen und konsularischer Vertretungen nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Vereinbarungen zustehen.
 
 #### Art. 28
 
-**Inkrafttreten**
+**Anspruch auf Vorteile**[^28-1]
+
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+[^28-1]: Eingefügt durch Art. 6 des Prot. vom 3. Juni 2019, von der BVers genehmigt am 19. Juni 2020 und in Kraft seit 20. Febr. 2023 ([AS 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [BBl 2019 7239](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
+
+#### Art. 29
+
+**Inkrafttreten**[^29-1]
 
 <sup>1.</sup> Dieses Abkommen bedarf in beiden Vertragsstaaten der Ratifikation nach den Gesetzen und Vorschriften des innerstaatlichen Rechts; die Ratifikationsurkunden werden so bald wie möglich ausgetauscht.
 
@@ -444,22 +505,25 @@ Das Abkommen tritt mit dem Austausch der Ratifikationsurkunden in Kraft, und sei
 - [tab] a) in der Islamischen Republik Iran auf Steuern vom Einkommen und vom Vermögen für Steuerjahre, die am oder nach dem ersten Tag des Farvardin (in der Schweiz entsprechend dem 21. März) des auf das Inkrafttreten folgenden Kalenderjahres beginnen;
 - [tab] b) in der Schweiz auf Steuern vom Einkommen und vom Vermögen für Steuerjahre, die am oder nach dem 1. Januar (in der Islamischen Republik Iran entsprechend dem Tag 11) des auf das Inkrafttreten folgenden Kalenderjahres beginnen.
 
-<sup>3.</sup> Der Notenwechsel zwischen dem Iranischen Aussenministerium und der Schweizerischen Gesandtschaft in Teheran vom 9. September 1956 und 7. Februar 1957[^28-1] betreffend die Besteuerung von Unternehmungen der Luftfahrt tritt ab dem Zeitpunkt, in dem dieses Abkommen Anwendung findet, ausser Kraft.
+<sup>3.</sup> Der Notenwechsel zwischen dem Iranischen Aussenministerium und der Schweizerischen Gesandtschaft in Teheran vom 9. September 1956 und 7. Februar 1957[^29-2] betreffend die Besteuerung von Unternehmungen der Luftfahrt tritt ab dem Zeitpunkt, in dem dieses Abkommen Anwendung findet, ausser Kraft.
 
-[^28-1]: [[AS 1957 209](https://fedlex.data.admin.ch/eli/oc/1957/209_213_223)]
+[^29-1]: Ursprünglich: Art. 28.
+[^29-2]: [[AS 1957 209](https://fedlex.data.admin.ch/eli/oc/1957/209_213_223)]
 
-#### Art. 29
+#### Art. 30
 
-**Kündigung**
+**Kündigung**[^30-1]
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekündigt wird. Jeder Vertragsstaat kann das Abkommen auf diplomatischem Weg unter Einhaltung einer Frist von mindestens sechs Monaten zum Ende eines Kalenderjahres kündigen. In diesem Fall findet das Abkommen nicht mehr Anwendung:
 
 - a) in der Islamischen Republik Iran auf Steuern vom Einkommen und vom Vermögen für Steuerjahre, die am oder nach dem ersten Tag des Farvardin (in der Schweiz entsprechend dem 21. März) des auf die Kündigung folgenden Kalenderjahres beginnen;
 - b) in der Schweiz auf Steuern vom Einkommen und vom Vermögen für Steuerjahre, die am oder nach dem 1. Januar (in der Islamischen Republik Iran entsprechend dem Tag 11) des auf die Kündigung folgenden Kalenderjahres beginnen.
 
-Geschehen zu Teheran am 27. Oktober 2002 entsprechend dem Aban 5, 1381, solar Hijra im Doppel in deutscher, persischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung soll der englische Wortlaut massgebend sein. *Zu Urkund dessen* haben die hierzu von ihren Regierungen gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Für den Schweizerischen Bundesrat: Für die Regierung der Islamischen Republik Iran: Joseph Deiss Tahmasb Mazaheri
+[^30-1]: Ursprünglich: Art. 29.
 
-Protokoll
+Geschehen zu Teheran am 27. Oktober 2002 entsprechend dem Aban 5, 1381, solar Hijra im Doppel in deutscher, persischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung soll der englische Wortlaut massgebend sein. *Zu Urkund dessen* haben die hierzu von ihren Regierungen gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Für den Schweizerischen Bundesrat: Joseph Deiss Für die Regierung der Islamischen Republik Iran: Tahmasb Mazaheri
+
+Protokoll[^t-3]
 
 Der Schweizerische Bundesrat und die Regierung der Islamischen Republik Iran,
 
@@ -481,9 +545,39 @@ Es besteht Einvernehmen darüber, dass der Ausdruck «Bank» sowohl private Bank
 
 Es besteht Einvernehmen darüber, dass der in den Artikeln 18 und 19 verwendete Ausdruck «Ruhegehälter» nicht nur wiederkehrende Zahlungen, sondern auch Pauschalleistungen umfasst.
 
+\5. Zu Artikel 26:
+
+- a) Es besteht Einvernehmen darüber, dass der ersuchende Vertragsstaat ein Begehren um Austausch von Informationen erst dann stellt, wenn er alle in seinem innerstaatlichen Steuerverfahren vorgesehenen üblichen Mittel zur Beschaffung der Informationen ausgeschöpft hat.
+- b)
+
+  Es besteht Einvernehmen darüber, dass die Steuerbehörden des ersuchenden Staates bei der Stellung eines Amtshilfeersuchens nach Artikel 26 den Steuerbehörden des ersuchten Staates die nachstehenden Angaben zu liefern haben:
+
+  - (i) die Identität der in eine Überprüfung oder Untersuchung einbezogenen Person einschliesslich, soweit verfügbar, des Namens dieser Person sowie jeder anderen Angabe, die die Identifikation dieser Person erleichtert, wie Adresse, Steueridentifikationsnummer, nationale Identifikationsnummer etc.;
+  - (ii) die Zeitperiode, für welche die Informationen verlangt werden;
+  - (iii) eine Beschreibung der verlangten Informationen sowie Angaben hinsichtlich der Form, in der der ersuchende Staat diese Informationen vom ersuchten Staat zu erhalten wünscht;
+  - (iv) den Steuerzweck, für den die Informationen verlangt werden;
+  - (v) soweit bekannt, den Namen, die Adresse und die anderen in Ziffer i oben erwähnten Angaben des mutmasslichen Inhabers der verlangten Informationen.
+
+- c) Es besteht Einvernehmen darüber, dass der Zweck der Verweisung auf Informationen, die voraussichtlich erheblich sind, darin besteht, einen möglichst weit gehenden Informationsaustausch in Steuerbelangen zu gewährleisten, ohne den Vertragsstaaten zu erlauben, «fishing expeditions» zu betreiben oder um Informationen zu ersuchen, deren Erheblichkeit hinsichtlich der Steuerbelange einer bestimmten steuerpflichtigen Person unwahrscheinlich ist. Während Buchstabe b wichtige verfahrenstechnische Anforderungen enthält, die «fishing expeditions» vermeiden sollen, sind die Ziffern i–v von Buchstabe b nicht so auszulegen, dass sie einen wirksamen Informationsaustausch behindern.
+- d) Es besteht Einvernehmen darüber, dass Artikel 26 die Vertragsstaaten nicht dazu verpflichtet, Informationen auf automatischer oder spontaner Basis auszutauschen; ebenso wenig schliesst er solche Formen des Informationsaustauschs aus, wenn die Vertragsstaaten diese später vereinbaren.
+- e) Es besteht Einvernehmen darüber, dass im Fall des Austauschs von Informationen die im ersuchten Staat geltenden Bestimmungen des Verwaltungsverfahrensrechts über die Rechte der steuerpflichtigen Person vorbehalten bleiben. Es besteht im Weiteren Einvernehmen darüber, dass diese Bestimmungen dazu dienen, der steuerpflichtigen Person ein ordnungsgemässes Verfahren zu gewähren, und nicht bezwecken, den Informationsaustausch zu verhindern oder übermässig zu verzögern.
+- f) Verursacht der Informationsaustausch in einem Fall Kosten, die die üblichen Verwaltungskosten des ersuchten Staates übersteigen, so trägt der ersuchende Staat die überschiessenden Kosten.
+- g) Stellt sich heraus, dass unrichtige Informationen ausgetauscht wurden oder Informationen, die nicht hätten ausgetauscht werden sollen, so wird der ersuchende Staat unverzüglich darüber informiert. Er ist verpflichtet, diese Informationen zu berichtigen oder zu vernichten.
+
 Geschehen zu Teheran am 27. Oktober 2002, entsprechend dem Aban 5, 1381, solar Hijra, im Doppel in deutscher, persischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung soll der englische Wortlaut massgebend sein.
 
 <table>
-<tr><td>Für den Schweizerischen Bundesrat:</td><td>Für die Regierung der Islamischen Republik Iran:</td></tr>
-<tr><td>Joseph Deiss</td><td>Tahmasb Mazaheri</td></tr>
+<tr><td>Für den Schweizerischen Bundesrat: Joseph Deiss</td><td>Für die Regierung der Islamischen Republik Iran: Tahmasb Mazaheri</td></tr>
 </table>
+
+## Art. 8 Ziff. 2 des Prot. vom 3. Juni 2019
+
+[^annexu1-lvlu2-1]
+
+[^t-3]: Bereinigt gemäss Art. 7 des Prot. vom 3. Juni 2019, von der BVers genehmigt am 19. Juni 2020 und in Kraft seit 20. Febr. 2023 ([AS 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [BBl 2019 7239](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
+[^annexu1-lvlu2-1]: [AS 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [BBl 2019 7239](https://fedlex.data.admin.ch/eli/fga/2019/2595)
+
+\2. Die Bestimmungen des Protokolls finden Anwendung auf am Tag des Inkrafttretens dieses Protokolls oder danach gestellte Ersuchen um Austausch von Informa-tionen über Steuerjahre, die:
+
+- a) im Fall der Schweiz am oder nach dem 1. Januar (entsprechend Dey 11 Solar Hijra) des auf das Inkrafttreten dieses Protokolls folgenden Jahres beginnen;
+- b) im Fall der Islamischen Republik Iran am oder nach dem ersten Tag von Farvardin (entsprechend dem 21. März) des auf das Inkrafttreten dieses Protokolls folgenden Jahres beginnen.

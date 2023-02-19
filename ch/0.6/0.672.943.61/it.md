@@ -3,11 +3,11 @@ sr: "0.672.943.61"
 title: "Convenzione del 27 ottobre 2002 tra il Consiglio federale svizzero e il Governo della Repubblica Islamica dell'Iran per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (con prot.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/85"
 language: it
-version: 2003-12-31
+version: 2023-02-20
 adopted: 2002-10-27
 in_force: 2003-12-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/85/20031231/it/xml/fedlex-data-admin-ch-eli-cc-2004-85-20031231-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/85/20031231/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/85/20230220/it/xml/fedlex-data-admin-ch-eli-cc-2004-85-20230220-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/85/20230220/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,27 +16,26 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/85/20031231/it"
 
 RU **2004** 781; FF **2003** 2257
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa il 27 ottobre 2002
+Conclusa il 27 ottobre 2002 Approvata dall’Assemblea federale il 15 settembre 2003[^t-1] Ratificata con strumenti scambiati il 31 dicembre 2003
 
-Approvata dall’Assemblea federale il 15 settembre 2003[^t-2]
+Entrata in vigore il 31 dicembre 2003[^t-2]
 
-Ratificata con strumenti scambiati il 31 dicembre 2003
+(Stato 20 febbraio 2023)
 
-Entrata in vigore il 31 dicembre 2003[^t-3]
-
-(Stato 31 dicembre 2003)
-
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: [RU 2004 779](https://fedlex.data.admin.ch/eli/oc/2004/84)
-[^t-3]: [RU 2004 1383](https://fedlex.data.admin.ch/eli/oc/2004/171)
+[^t-1]: [RU 2004 779](https://fedlex.data.admin.ch/eli/oc/2004/84)
+[^t-2]: [RU 2004 1383](https://fedlex.data.admin.ch/eli/oc/2004/171)
 
 Il Consiglio federale svizzero e il Governo della Repubblica Islamica dell’Iran,
 
-animati dal desiderio di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
+desiderosi di sviluppare ulteriormente le loro relazioni economiche e di migliorare la cooperazione in materia fiscale;
 
-hanno convenuto quanto segue:
+nell’intento di concludere una Convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscali (incluse le strategie di abuso dei trattati fiscali («treaty-shopping») finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti di Stati terzi),
+
+hanno convenuto quanto segue:[^ingress-1]
+
+[^ingress-1]: Nuovo testo giusta l’art. 1 del Prot. del 3 giu. 2019, approvato dall’AF il 19 giu. 2020, in vigore mediante scambio di note il 20 feb. 2023 ([RU 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [FF 2019 5965](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
 
 #### Art. 1
 
@@ -99,7 +98,7 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
   l’espressione «autorità competente» designa:
 
   - (i) per quanto concerne la Repubblica Islamica dell’Iran, il Ministero delle finanze o il suo rappresentante autorizzato,
-  - (ii) per quanto concerne la Svizzera, il direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato;
+  - (ii)[^3-1] per quanto concerne la Svizzera, il capo del Dipartimento federale delle finanze o il suo rappresentante autorizzato;
 
 - g)
 
@@ -109,6 +108,8 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
   - (ii) tutte le persone giuridiche o altre associazioni di persone costituite conformemente alla legislazione in vigore in uno Stato contraente.
 
 <sup>2.</sup> Per l’applicazione della Convenzione da parte di uno Stato contraente, a meno che il contesto non richieda una diversa interpretazione, le espressioni non diversamente definite hanno il significato che ad esse è attribuito dalla legislazione di detto Stato relativa alle imposte oggetto della Convenzione.
+
+[^3-1]: Nuovo testo giusta l’art. 2 del Prot. del 3 giu. 2019, approvato dall’AF il 19 giu. 2020, in vigore mediante scambio di note il 20 feb. 2023 ([RU 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [FF 2019 5965](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
 
 #### Art. 4
 
@@ -193,6 +194,10 @@ Nonostante le precedenti disposizioni del presente articolo non sono considerate
 
 <sup>7.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
 
+<sup>8.</sup> Uno Stato contraente non può eseguire una rettifica degli utili attribuibili a una stabile organizzazione di un’impresa di uno Stato contraente decorsi cinque anni dalla fine dell’anno fiscale in cui gli utili sarebbero stati attribuibili alla stabile organizzazione. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^7-1]
+
+[^7-1]: Introdotto dall’art. 3 n. 1 del Prot. del 3 giu. 2019, approvato dall’AF il 19 giu. 2020, in vigore mediante scambio di note il 20 feb. 2023 ([RU 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [FF 2019 5965](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
+
 #### Art. 8
 
 **Traffico internazionale**
@@ -211,6 +216,10 @@ Allorché:
 - b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente,
 
 <sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato – e tassa in conseguenza – utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, le autorità competenti degli Stati contraenti possono consultarsi in vista di raggiungere un accordo sugli adeguamenti da apportare agli utili nei due Stati contraenti.
+
+<sup>3.</sup> Uno Stato contraente non può includere negli utili di un’impresa, e tassare conseguentemente, utili che sarebbero stati conseguiti da detta impresa ma che non lo sono stati in ragione delle condizioni indicate nel paragrafo 1 decorsi cinque anni dalla fine dell’anno fiscale in cui gli utili sarebbero stati conseguiti dall’impresa. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^9-1]
+
+[^9-1]: Introdotto dall’art. 3 n. 2 del Prot. del 3 giu. 2019, approvato dall’AF il 19 giu. 2020, in vigore mediante scambio di note il 20 feb. 2023 ([RU 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [FF 2019 5965](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
 
 #### Art. 10
 
@@ -426,19 +435,35 @@ Per quanto concerne la Svizzera, la doppia imposizione è evitata nel modo segue
 
 <sup>1.</sup> Quando una persona residente di uno Stato contraente ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportino o comporteranno per lei un’imposizione non conforme alla presente Convenzione, essa può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di tali Stati contraenti, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso ricade nell’ambito di applicazione dell’articolo 24 paragrafo 1, a quella dello Stato contraente di cui possiede la cittadinanza. Il caso deve essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
 
-<sup>2.</sup> L’autorità competente, se il reclamo le appare fondato e se essa non è in grado di giungere a una soluzione soddisfacente, si adopera per regolare il caso in via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alla Convenzione.
+<sup>2.</sup> L’autorità competente, se il reclamo le appare fondato e se essa non è in grado di giungere a una soluzione soddisfacente, si adopera per regolare il caso in via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alla Convenzione. L’accordo è attuato nonostante i limiti temporali previsti dalla legislazione nazionale dei due Stati contraenti, ma al più tardi dieci anni dopo la fine dell’anno fiscale considerato.[^25-1]
 
 <sup>3.</sup> Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà o i dubbi inerenti all’interpretazione o all’applicazione della Convenzione. Esse potranno altresì consultarsi al fine di eliminare la doppia imposizione nei casi non previsti dalla Convenzione.
 
 <sup>4.</sup> Le autorità competenti degli Stati contraenti possono conferire direttamente fra loro per giungere a un accordo ai sensi dei paragrafi precedenti e procedere anche a un colloquio nell’ambito di una commissione comune composta da esse stesse o da loro rappresentanti.
 
+[^25-1]: Per. introdotto dall’art. 3 n. 3 del Prot. del 3 giu. 2019, approvato dall’AF il 19 giu. 2020, in vigore mediante scambio di note il 20 feb. 2023 ([RU 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [FF 2019 5965](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
+
 #### Art. 26
 
-**Scambio di informazioni**
+**Scambio di informazioni**[^26-1]
 
-<sup>1.</sup> Le autorità competenti degli Stati contraenti potranno scambiarsi le informazioni (che le legislazioni fiscali degli Stati contraenti permettono di ottenere nel quadro della normale prassi amministrativa) necessarie per l’applicazione delle disposizioni della presente Convenzione relative alle imposte oggetto della presente Convenzione. Le informazioni così scambiate devono essere tenute segrete e non potranno essere rivelate a nessuno che non si occupi dell’accertamento o della riscossione delle imposte alle quali si riferisce la presente Convenzione. Non potranno essere scambiate informazioni suscettibili di rivelare segreti commerciali o d’affari, bancari, industriali o professionali oppure metodi commerciali.
+<sup>1.</sup> Le autorità competenti degli Stati contraenti si scambiano le informazioni verosimilmente rilevanti per l’esecuzione della presente Convenzione oppure per l’applicazione o l’esecuzione della legislazione nazionale relativa alle imposte di qualsiasi natura o denominazione riscosse per conto degli Stati contraenti, delle loro suddivisioni politiche o amministrative o dei loro enti locali nella misura in cui l’imposizione prevista da tale legislazione non sia contraria alla Convenzione. Lo scambio di informazioni non è limitato dagli articoli 1 e 2.
 
-<sup>2.</sup> Le disposizioni del presente articolo non potranno in nessun caso essere interpretate nel senso di imporre a uno Stato contraente l’obbligo di adottare misure amministrative in deroga alla regolamentazione o alla prassi amministrativa di uno o dell’altro Stato contraente, ovvero contrarie alla sua sovranità, alla sua sicurezza o all’ordine pubblico oppure di fornire informazioni che non possano essere ottenute in base alla sua legislazione e a quella dello Stato contraente che le chiede.
+<sup>2.</sup> Le informazioni ottenute in virtù del paragrafo 1 da uno Stato contraente sono tenute segrete allo stesso modo di quelle ottenute in applicazione della legislazione nazionale di questo Stato e sono comunicate soltanto alle persone o autorità (compresi i tribunali e gli organi amministrativi) incaricate dell’accertamento o della riscossione delle imposte di cui al paragrafo 1, dell’esecuzione o del perseguimento penale relativi a tali imposte, della decisione in merito ai ricorsi concernenti tali imposte o del controllo di quanto precede. Dette persone o autorità possono utilizzare le informazioni unicamente per questi fini. Possono rivelarle nell’ambito di una procedura giudiziaria pubblica o in una decisione giudiziaria. Nonostante le disposizioni precedenti uno Stato contraente può utilizzare le informazioni ricevute per altri fini, se ciò è previsto dalla legislazione di entrambi gli Stati e se l’autorità competente dello Stato richiesto ne ha approvato l’impiego.
+
+<sup>3.</sup>
+
+Le disposizioni dei paragrafi 1 e 2 non possono essere interpretate nel senso che facciano obbligo a uno Stato contraente di:
+
+- a) eseguire misure amministrative in deroga alla sua legislazione e alla sua prassi amministrativa o a quelle dell’altro Stato contraente;
+- b) fornire informazioni che non possono essere ottenute in base alla sua legislazione o nell’ambito della sua normale prassi amministrativa oppure di quelle dell’altro Stato contraente;
+- c) fornire informazioni che potrebbero rivelare segreti commerciali o d’affari, industriali o professionali oppure metodi commerciali o informazioni la cui comunicazione sarebbe contraria all’ordine pubblico.
+
+<sup>4.</sup> Qualora uno Stato contraente chieda informazioni ai sensi del presente articolo, l’altro Stato contraente usa i poteri a sua disposizione al fine di ottenere le informazioni richieste, anche se queste informazioni non gli sono utili per fini fiscali propri. L’obbligo di cui al periodo precedente è soggetto alle limitazioni previste nel paragrafo 3, ma tali limitazioni non possono essere in nessun caso interpretate nel senso che uno Stato contraente possa rifiutare di fornire informazioni solo perché, per tali informazioni, non sussiste alcun interesse nazionale.
+
+<sup>5.</sup> In nessun caso le disposizioni del paragrafo 3 possono essere interpretate nel senso che permettono a uno Stato contraente di rifiutare di comunicare informazioni unicamente perché queste sono detenute da una banca, un altro istituto finanziario, un mandatario o una persona operante come agente o fiduciario oppure perché dette informazioni si rifanno ai diritti di proprietà di una persona.
+
+[^26-1]: Nuovo testo giusta l’art. 4 del Prot. del 3 giu. 2019, approvato dall’AF il 19 giu. 2020, in vigore mediante scambio di note il 20 feb. 2023 ([RU 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [FF 2019 5965](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
 
 #### Art. 27
 
@@ -448,7 +473,15 @@ Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali 
 
 #### Art. 28
 
-**Entrata in vigore**
+**Diritto ai benefici**[^28-1]
+
+Nonostante le altre disposizioni della presente Convenzione un beneficio ai sensi della presente Convenzione non è concesso in relazione a elementi di reddito o di patrimonio, se è ragionevole concludere, tenuto conto di tutti i fatti e le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di una strategia o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^28-1]: Introdotto dall’art. 6 del Prot. del 3 giu. 2019, approvato dall’AF il 19 giu. 2020, in vigore mediante scambio di note il 20 feb. 2023 ([RU 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [FF 2019 5965](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
+
+#### Art. 29
+
+**Entrata in vigore**[^29-1]
 
 <sup>1.</sup> La presente Convenzione deve essere ratificata da entrambi gli Stati contraenti secondo le leggi e le prescrizioni del diritto nazionale; gli strumenti di ratificazione saranno scambiati appena possibile.
 
@@ -459,22 +492,25 @@ La Convenzione entra in vigore con lo scambio degli strumenti di ratificazione e
 - a) nella Repubblica Islamica dell’Iran, alle imposte sul reddito e sul patrimonio per gli anni fiscali, che iniziano il, o dopo il, primo giorno del farvardin (in Svizzera corrisponde al 21 marzo) dell’anno civile successivo all’entrata in vigore;
 - b) nella Svizzera, alle imposte sul reddito e sul patrimonio per gli anni fiscali, che iniziano il, o dopo il, 1° gennaio (nella Repubblica Islamica dell’Iran corrisponde al giorno 11) dell’anno civile successivo all’entrata in vigore.
 
-<sup>3.</sup> Lo scambio di note del 9 settembre 1956/7 febbraio 1957[^28-1] tra il Ministero degli esteri iraniano e la Legazione svizzera a Teheran concernente la doppia imposizione delle imprese di navigazione aerea sarà abrogato alla data dell’entrata in vigore della presente Convenzione.
+<sup>3.</sup> Lo scambio di note del 9 settembre 1956/7 febbraio 1957[^29-2] tra il Ministero degli esteri iraniano e la Legazione svizzera a Teheran concernente la doppia imposizione delle imprese di navigazione aerea sarà abrogato alla data dell’entrata in vigore della presente Convenzione.
 
-[^28-1]: [[RU 1957 223](https://fedlex.data.admin.ch/eli/oc/1957/209_213_223)]
+[^29-1]: Originario art. 28.
+[^29-2]: [[RU 1957 223](https://fedlex.data.admin.ch/eli/oc/1957/209_213_223)]
 
-#### Art. 29
+#### Art. 30
 
-**Disdetta**
+**Disdetta**[^30-1]
 
 La presente Convenzione rimarrà in vigore sino alla denuncia da parte di uno degli Stati contraenti. Ciascuno Stato contraente può denunciare la Convenzione per via diplomatica con un preavviso minimo di sei mesi, prima della fine di ciascun anno civile. In tal caso la Convenzione cesserà di essere applicabile:
 
 - a) nella Repubblica Islamica dell’Iran, alle imposte sul reddito e sul patrimonio per gli anni fiscali, che iniziano il, o dopo il, primo giorno del farvardin (in Svizzera corrisponde al 21 marzo) dell’anno civile successivo alla disdetta;
 - b) nella Svizzera, alle imposte sul reddito e sul patrimonio per gli anni fiscali, che iniziano il, o dopo il, 1° gennaio (nella Repubblica Islamica dell’Iran corrisponde al giorno 11) dell’anno civile successivo alla disdetta.
 
-Fatto in duplice esemplare a Teheran, il 27 ottobre 2002, corrispondente all’Aban 5, 1381, solar, Hijra, nelle lingue tedesca, persiana e inglese, tutti i testi facenti egualmente fede. In caso di divergenza d’interpretazione prevarrà il testo inglese. *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo dai loro Governi, hanno firmato la presente Convenzione. Per il Consiglio federale svizzero: Per il Governo della Repubblica Islamica dell’Iran: Joseph Deiss Tahmasb Mazaheri
+[^30-1]: Originario art. 29.
 
-Protocollo
+Fatto in duplice esemplare a Teheran, il 27 ottobre 2002, corrispondente all’Aban 5, 1381, solar, Hijra, nelle lingue tedesca, persiana e inglese, tutti i testi facenti egualmente fede. In caso di divergenza d’interpretazione prevarrà il testo inglese. *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo dai loro Governi, hanno firmato la presente Convenzione. Per il Consiglio federale svizzero: Joseph Deiss Per il Governo della Repubblica Islamica dell’Iran: Tahmasb Mazaheri
+
+Protocollo[^t-3]
 
 Il Consiglio federale svizzero e il Governo della Repubblica Islamica dell’Iran,
 
@@ -500,9 +536,39 @@ Resta inteso che il termine «banca» comprende, sia banche private, sia banche 
 
 Resta inteso che il termine «pensioni» menzionato agli articoli 18 e 19 non comprende soltanto pagamenti ricorrenti, ma anche prestazioni forfettarie.
 
+\5. Ad articolo 26
+
+- a) Resta inteso che lo Stato richiedente presenta una domanda di scambio di informazioni soltanto dopo aver esaurito le fonti d’informazione usuali secondo la sua procedura fiscale interna.
+- b)
+
+  Resta inteso che nella domanda di assistenza amministrativa ai sensi dell’articolo 26 le autorità fiscali dello Stato richiedente forniscono le seguenti informazioni alle autorità fiscali dello Stato richiesto:
+
+  - (i) l’identità della persona oggetto di una verifica o di un’inchiesta, compresi, laddove disponibile, il suo nome nonché qualsiasi altro elemento che faciliti la sua identificazione, come l’indirizzo, il numero d’identificazione fiscale, il numero d’identificazione nazionale ecc.;
+  - (ii) il periodo oggetto della domanda;
+  - (iii) una descrizione delle informazioni richieste, nonché indicazioni sulla forma nella quale lo Stato richiedente desidera ricevere tali informazioni dallo Stato richiesto;
+  - (iv) lo scopo fiscale per cui le informazioni sono state richieste;
+  - (v) se sono noti, il nome, l’indirizzo e gli elementi di cui al numero i del detentore presunto delle informazioni richieste.
+
+- c) Resta inteso che il riferimento alle informazioni «verosimilmente rilevanti» ha lo scopo di garantire uno scambio di informazioni in ambito fiscale il più ampio possibile, senza tuttavia consentire agli Stati contraenti di intraprendere una ricerca generalizzata e indiscriminata di informazioni («fishing expedition») o di domandare informazioni la cui rilevanza in merito agli affari fiscali di un determinato contribuente non è verosimile. Sebbene la lettera b contenga importanti requisiti procedurali volti a impedire la «fishing expedition», i numeri i–v della lettera b devono essere interpretati in modo da non ostacolare uno scambio effettivo di informazioni.
+- d) Resta inteso che l’articolo 26 non impone agli Stati contraenti di procedere a uno scambio di informazioni spontaneo o automatico; non esclude nemmeno queste forme di scambio di informazioni se gli Stati contraenti dovessero adottarle mediante accordo successivo.
+- e) Resta inteso che nel caso di uno scambio di informazioni si applicano le norme di procedura amministrativa relative ai diritti del contribuente in vigore nello Stato richiesto. Resta inoltre inteso che queste norme servono a garantire al contribuente una procedura regolare e non mirano a ostacolare o ritardare indebitamente lo scambio di informazioni.
+- f) Se, in un caso, lo scambio di informazioni genera costi che eccedono i costi amministrativi usualmente sostenuti dallo Stato richiesto, lo Stato richiedente si fa carico della parte eccedente i costi.
+- g) Se viene accertato che sono state scambiate informazioni erronee o informazioni che non avrebbero dovuto essere scambiate, lo Stato richiedente ne viene informato senza indugio. Esso è tenuto a correggere o distruggere queste informazioni.
+
 Fatto in duplice esemplare a Teheran, il 27 ottobre 2002, corrispondente all’Aban 5, 1381, solar, Hijra, nelle lingue tedesca, persiana e inglese, tutti i testi facenti egualmente fede. In caso di divergenza d’interpretazione prevarrà il testo inglese.
 
 <table>
-<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Governo della Repubblica Islamica dell’Iran:</td></tr>
-<tr><td>Joseph Deiss</td><td>Tahmasb Mazaheri</td></tr>
+<tr><td>Per il Consiglio federale svizzero: Joseph Deiss</td><td>Per il Governo della Repubblica Islamica dell’Iran: Tahmasb Mazaheri</td></tr>
 </table>
+
+## Art. 8 n. 2 del Protocollo del 3 giugno 2019
+
+[^annexu1-lvlu2-1]
+
+[^t-3]: Aggiornato dall’art. 7 del Prot. del 3 giu. 2019, approvato dall’AF il 19 giu. 2020, in vigore mediante scambio di note il 20 feb. 2023 ([RU 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [FF 2019 5965](https://fedlex.data.admin.ch/eli/fga/2019/2595)).
+[^annexu1-lvlu2-1]: [RU 2023 131](https://fedlex.data.admin.ch/eli/oc/2023/131), [130](https://fedlex.data.admin.ch/eli/oc/2023/130); [FF 2019 5965](https://fedlex.data.admin.ch/eli/fga/2019/2595)
+
+\2. Le disposizioni del presente Protocollo si applicano alle domande di informazioni presentate il giorno dell’entrata in vigore del presente Protocollo, o dopo tale data, in relazione ad anni fiscali che:
+
+- a) nel caso della Svizzera, iniziano il, o dopo il, 1° gennaio (corrispondente al Dey 11, solar Hijra) dell’anno successivo all’entrata in vigore del presente Protocollo;
+- b) nel caso della Repubblica Islamica dell’Iran, iniziano il, o dopo il, primo giorno del farvardin (corrispondente al 21 marzo) dell’anno successivo all’entrata in vigore del presente Protocollo.
