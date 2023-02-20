@@ -5,12 +5,12 @@ title: Gesetz über die Steuern des Kantons und der Gemeinden
 short: "Steuergesetz, StG"
 language: de
 version: 2023-01-01
-valid_until: 2024-12-31
+corrected: 2023-02-21
 version_adopted: 2022-12-13
 adopted: 2000-03-22
 in_force: 2001-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/521.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1107/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1088/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -609,10 +609,10 @@ beschliesst:
 - 6\. die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
 - 7\. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Ziff. 6 fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen:
   - a) für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben im jeweils geltenden Umfang von Art. 33 Abs. 1 lit. g Ziff. 1 des Bundesgesetzes über die direkte Bundessteuer (DBG)[^35-1];
-  - b) für die übrigen Steuerpflichtigen im jeweils geltenden Umfang von Art. 33 Abs. 1 lit. g Ziff. 2 DBG;
-  - c) für Steuerpflichtige ohne Beiträge gemäss den Ziff. 4 und 5 erhöhen sich diese Abzüge um die Hälfte. Diese Abzüge erhöhen sich für jedes Kind oder jede unterstützungsbedürftige Person, für die die steuerpflichtige Person einen Abzug nach Art. 39 Abs. 1 Ziff. 1 oder 4 geltend machen kann, im jeweils geltenden Umfang von Art. 33 Abs. 1<sup>bis</sup> lit. b DBG;
+  - b) für die übrigen Steuerpflichtigen im jeweils geltenden Umfang von Art. 33 Abs. 1 lit. g Ziff. 2 DBG.
+  - c) Für Steuerpflichtige ohne Beiträge gemäss den Ziff. 4 und 5 erhöhen sich diese Abzüge um die Hälfte. Diese Abzüge erhöhen sich für jedes Kind oder jede unterstützungsbedürftige Person, für die die steuerpflichtige Person einen Abzug nach Art. 39 Abs. 1 Ziff. 1 oder 4 geltend machen kann, im jeweils geltenden Umfang von Art. 33 Abs. 1<sup>bis</sup> lit. b DBG;
 - 8\. die nachgewiesenen Kosten, jedoch höchstens Fr. 8'100.–, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
-- 9\. die Einsatzkosten in der Höhe von 5 Prozent der einzelnen Gewinne aus der Teilnahme an Geldspielen, welche nicht gemäss Art. 27 Ziff. 11a–12 steuerfrei sind, jedoch höchstens Fr. 5'100.–. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen gemäss Art. 27 Ziff. 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25'700.– abgezogen;
+- 9\. die Einsatzkosten in der Höhe von 5 Prozent der einzelnen Gewinne aus der Teilnahme an Geldspielen, welche nicht gemäss Art. 27 Ziff. 11a–12 steuerfrei sind, jedoch höchstens Fr. 5'100.–. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen gemäss Art. 27 Ziff. 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25'700.– abgezogen.
 - 10\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, bis zum Gesamtbetrag von Fr. 12'400.–, sofern:
   - a) ein erster Abschluss auf der Sekundarstufe II vorliegt; oder
   - b) das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
@@ -665,7 +665,7 @@ beschliesst:
 
 - 1\. als Kinderabzug: Fr. 6'000.– für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Abzüge gemäss Art. 35 Abs. 1 Ziff. 3 für das Kind geltend gemacht werden;
 - 2\. als Ausbildungsabzug zusätzlich zum Abzug gemäss Ziff. 1:
-  - a) Fr. 1'700.–, wenn das Kind gemäss Ziff. 1 ausserhalb des Kantons in schulischer Ausbildung steht; oder
+  - a) Fr. 1'700.–, wenn das Kind gemäss Ziff. 1 ausserhalb des Kantons in schulischer Ausbildung steht, oder
   - b) Fr. 5'600.– für das erste Kind gemäss Ziff. 1, das in schulischer Ausbildung steht und sich hiefür ständig am auswärtigen Ausbildungsort aufhalten muss;
   - c) Fr. 7'800.– für jedes weitere Kind gemäss Ziff. 1, das in schulischer Ausbildung steht und sich hiefür ständig am auswärtigen Ausbildungsort aufhalten muss;
 - 3\. als Eigenbetreuungsabzug für Kinder: Fr. 3'100.– für jedes am Ende der Steuerperiode weniger als 14 Jahre alte Kind, für das ein Abzug gemäss Ziff. 1 geltend gemacht werden kann, für die eigene Betreuung;
