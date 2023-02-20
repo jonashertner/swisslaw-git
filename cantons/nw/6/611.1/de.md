@@ -5,12 +5,12 @@ title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: "Planungs- und Baugesetz, PBG"
 language: de
 version: 2023-01-01
-valid_until: 2024-08-31
+corrected: 2023-02-21
 version_adopted: 2022-09-28
 adopted: 2014-05-21
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1109/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1103/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -81,7 +81,7 @@ beschliesst:
   - a) 3 m Gesamthöhe;
   - b) 4 m Gebäudelänge; und
   - c) 9 m² anrechenbare Gebäudefläche;
-- 2\. allseitig offene freistehende Gebäude wie Überdachungen, Fahrzeugunterstände und dergleichen mit folgenden Höchstmassen:
+- 2\. allseitig offene freistehende Gebäude wie Überdachungen, Fahr-zeugunterstände und dergleichen mit folgenden Höchstmassen:
   - a) 3 m Gesamthöhe; und
   - b) 30 m² überdachte Fläche.
 
@@ -92,7 +92,7 @@ beschliesst:
 <sup>4</sup> Als vorspringender Gebäudeteil gilt ein Gebäudeteil, der:
 
 - 1\. höchstens 1.3 m über die Fassadenflucht hinausragt;
-- 2\. höchstens eine Ausdehnung von 40 Prozent des zugehörigen Fassadenabschnitts aufweist; und
+- 2\. höchstens eine Ausdehnung von 40 Prozent des zugehörigen Fas-sadenabschnitts aufweist; und
 - 3\. nicht in den minimalen Grenzabstand von 3 m gemäss Art. 110 Abs. 2 beziehungsweise in die speziellen Grenzabstände gemäss Art. 111 hineinragt.
 
 [^3-1]: www.bpuk.ch
