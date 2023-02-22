@@ -4,13 +4,12 @@ number: "940.20"
 title: Gesetz über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Covid-19-Härtefallgesetz
 language: de
-version: 2022-01-01
-valid_until: 2023-02-22
-version_adopted: 2022-01-25
+version: 2023-02-23
+version_adopted: 2022-11-09
 adopted: 2022-01-25
 in_force: 2022-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/940.20"
-pdf: "https://bgs.so.ch/api/de/versions/5220/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5305/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,18 @@ pdf: "https://bgs.so.ch/api/de/versions/5220/pdf_file"
 
 (Covid-19-Härtefallgesetz)
 
-Vom 25.01.2022 (Stand 01.01.2022)
+Vom 25.01.2022 (Stand 23.02.2023)
 
 Der Kantonsrat von Solothurn
 
-gestützt auf Artikel 12 f. des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^ingress-1], die Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung) vom 25. November 2020[^ingress-2] und § 128 Absatz 3 des Gesetzes über die Staats- und Gemeindesteuern (Steuergesetz) vom 1. Dezember 1985[^ingress-3]
+gestützt auf Artikel 12 f. des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^ingress-1], die Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung 2020; HFMV 20) vom 25. November 2020[^ingress-2], die Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie im Jahr 2022 (Covid-19-Härtefallverordnung 2022; HFMV 22) vom 2. Februar 2022[^ingress-3] und § 128 Absatz 3 des Gesetzes über die Staats- und Gemeindesteuern (Steuergesetz) vom 1. Dezember 1985[^ingress-4]
 
 beschliesst:
 
 [^ingress-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
 [^ingress-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de).
-[^ingress-3]: BGS [614.11](https://bgs.so.ch/data/614.11/de).
+[^ingress-3]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de).
+[^ingress-4]: BGS [614.11](https://bgs.so.ch/data/614.11/de).
 
 ## 1. Allgemeine Bestimmungen
 
@@ -93,13 +93,19 @@ beschliesst:
 
 <sup>1</sup> Grundlage der Missbrauchskontrolle bildet insbesondere die im Verfügungszeitpunkt jeweils geltende Fassung:
 
-- a) des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^7-1]
-- b) der Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung) vom 25. November 2020[^7-2]; und
-- c) der Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19 (Härtefallverordnung-SO) vom 7. Dezember 2020[^7-3].
+- a) des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^7-1];
+- b) der Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung 2020; HFMV 20) vom 25. November 2020[^7-2];
+- b<sup>bis</sup>) der Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie im Jahr 2022 (Covid-19-Härtefallverordnung 2022; HFMV 22) vom 2. Februar 2022[^7-3];
+- c) der Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19 (Härtefallverordnung-SO) vom 7. Dezember 2020[^7-4];
+- d) der Verordnung 2 über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19 (HFV 2020) vom 22. Februar 2022[^7-5];
+- e) der Verordnung 3 über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19 im Jahr 2022 (HFV 2022) vom 26. April 2022[^7-6].
 
 [^7-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
 [^7-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de).
-[^7-3]: BGS [101.6](https://bgs.so.ch/data/101.6/de).
+[^7-3]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de).
+[^7-4]: BGS [101.6](https://bgs.so.ch/data/101.6/de).
+[^7-5]: BGS [101.7](https://bgs.so.ch/data/101.7/de).
+[^7-6]: BGS [101.8](https://bgs.so.ch/data/101.8/de).
 
 #### § 8
 
