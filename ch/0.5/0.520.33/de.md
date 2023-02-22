@@ -3,16 +3,16 @@ sr: "0.520.33"
 title: Zweites Protokoll vom 26. März 1999 zum Haager Abkommen von 1954 für den Schutz von Kulturgut bei bewaffneten Konflikten
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/29"
 language: de
-version: 2020-04-29
+version: 2023-02-23
 adopted: 1999-03-26
 in_force: 2004-10-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20200429/de/xml/fedlex-data-admin-ch-eli-cc-2005-29-20200429-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20200429/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20230223/de/xml/fedlex-data-admin-ch-eli-cc-2005-29-20230223-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20230223/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Zweites Protokoll zum Haager Abkommen von 1954 für den Schutz von Kulturgut bei bewaffneten Konflikten****
+# Zweites Protokoll zum Haager Abkommen von 1954 für den Schutz von Kulturgut bei bewaffneten Konflikten
 
 AS **2005** 149; BBl **2003** 6091[^t-1]
 
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 9. Juli 2004
 
 In Kraft getreten für die Schweiz am 9. Oktober 2004
 
-(Stand am 29. April 2020)
+(Stand am 23. Februar 2023)
 
 [^t-1]: Titel für Deutschland: «Zweites Protokoll zur Haager Konvention von 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten».
 [^t-2]: [AS 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
@@ -41,7 +41,7 @@ in dem Wunsch, den Hohen Vertragsparteien des Abkommens eine Möglichkeit zu bie
 
 in der Erwägung, dass die Vorschriften über den Schutz von Kulturgut bei bewaffneten Konflikten die Entwicklungen des Völkerrechts widerspiegeln sollen;
 
-in Bekräftigung des Grundsatzes, dass die Sätze des Völkergewohnheitsrechts weiterhin für Fragen gelten, die in diesem Protokoll nicht geregelt sind
+in Bekräftigung des Grundsatzes, dass die Sätze des Völkergewohnheitsrechts weiterhin für Fragen gelten, die in diesem Protokoll nicht geregelt sind;
 
 sind wie folgt übereingekommen:
 
@@ -53,7 +53,7 @@ sind wie folgt übereingekommen:
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Protokolls bedeutet
+Im Sinne dieses Protokolls bedeutet:
 
 - a) «Vertragspartei» einen Staat, der Vertragspartei dieses Protokolls ist;
 - b) «Kulturgut» Kulturgut im Sinne des Artikels 1 des Abkommens;
@@ -85,7 +85,7 @@ Dieses Protokoll ergänzt das Abkommen in den Beziehungen zwischen den Vertragsp
 
 **Verhältnis von Kapitel 3 zu anderen Bestimmungen des Abkommens und dieses Protokolls**
 
-Die Anwendung des Kapitels 3 dieses Protokolls berührt nicht
+Die Anwendung des Kapitels 3 dieses Protokolls berührt nicht:
 
 - a) die Anwendung des Kapitels I des Abkommens und des Kapitels 2 dieses Protokolls;
 - b) die Anwendung des Kapitels II des Abkommens, ausser dass zwischen den Vertragsparteien dieses Protokolls oder zwischen einer Vertragspartei und einem Staat, der dieses Protokoll nach Artikel 3 Absatz 2 annimmt und anwendet, nur die Bestimmungen über verstärkten Schutz Anwendung finden, wenn Kulturgut sowohl Sonderschutz als auch verstärkter Schutz gewährt wurde.
@@ -102,10 +102,13 @@ Die nach Artikel 3 des Abkommens in Friedenszeiten getroffenen Vorbereitungsmass
 
 **Respektierung des Kulturguts**
 
-Um die Respektierung des Kulturguts nach Artikel 4 des Abkommens zu gewährleisten,
+Um die Respektierung des Kulturguts nach Artikel 4 des Abkommens zu gewährleisten:
 
-- a) kann, wenn eine feindselige Handlung gegen Kulturgut gerichtet werden soll, eine Abweichung von den Verpflichtungen auf Grund der zwingenden militärischen Notwendigkeit nach Artikel 4 Absatz 2 des Abkommens nur geltend gemacht werden, sofern und solange
-  - i) dieses Kulturgut durch seine Funktion zu einem militärischen Ziel gemacht worden ist und
+- a)
+
+  kann, wenn eine feindselige Handlung gegen Kulturgut gerichtet werden soll, eine Abweichung von den Verpflichtungen auf Grund der zwingenden militärischen Notwendigkeit nach Artikel 4 Absatz 2 des Abkommens nur geltend gemacht werden, sofern und solange:
+
+  - i) dieses Kulturgut durch seine Funktion zu einem militärischen Ziel gemacht worden ist, und
   - ii) keine andere praktische Möglichkeit besteht, einen vergleichbaren militärischen Vorteil zu erlangen, wie er sich bietet, wenn eine feindselige Handlung gegen dieses Ziel gerichtet wird;
 
 - b) kann, wenn Kulturgut für Zwecke verwendet werden soll, die es möglicherweise der Zerstörung oder Beschädigung aussetzen, eine Abweichung von den Verpflichtungen auf Grund der zwingenden militärischen Notwendigkeit nach Artikel 4 Absatz 2 des Abkommens nur geltend gemacht werden, sofern und solange keine Möglichkeit besteht, zwischen dieser Verwendung des Kulturguts und einer anderen praktisch möglichen Methode zur Erlangung eines vergleichbaren militärischen Vorteils zu wählen;
@@ -116,20 +119,23 @@ Um die Respektierung des Kulturguts nach Artikel 4 des Abkommens zu gewährleist
 
 **Vorsichtsmassnahmen beim Angriff**
 
-Unbeschadet der durch das humanitäre Völkerrecht erforderlichen anderen Vorsichtsmassnahmen bei der Durchführung militärischer Operationen hat jede an einem Konflikt beteiligte Vertragspartei
+Unbeschadet der durch das humanitäre Völkerrecht erforderlichen anderen Vorsichtsmassnahmen bei der Durchführung militärischer Operationen hat jede an einem Konflikt beteiligte Vertragspartei:
 
 - a) alles praktisch Mögliche zu tun, um sicherzugehen, dass die Angriffsziele kein nach Artikel 4 des Abkommens geschütztes Kulturgut darstellen;
 - b) bei der Wahl der Angriffsmittel und -methoden alle praktisch möglichen Vorsichtsmassnahmen zu treffen, um eine damit verbundene Beschädigung von nach Artikel 4 des Abkommens geschütztem Kulturgut zu vermeiden und in jedem Fall auf ein Mindestmass zu beschränken;
-- c) von jedem Angriff Abstand zu nehmen, bei dem damit zu rechnen ist, dass er auch eine Beschädigung von nach Artikel 4 des Abkommens geschütztem Kulturgut verursacht, die in keinem Verhältnis zu dem erwarteten konkreten und unmittelbaren militärischen Vorteil steht, und
-- d) einen Angriff endgültig oder vorläufig einzustellen, wenn sich erweist,
-  - i) dass das Ziel nach Artikel 4 des Abkommens geschütztes Kulturgut darstellt;
+- c) von jedem Angriff Abstand zu nehmen, bei dem damit zu rechnen ist, dass er auch eine Beschädigung von nach Artikel 4 des Abkommens geschütztem Kulturgut verursacht, die in keinem Verhältnis zu dem erwarteten konkreten und unmittelbaren militärischen Vorteil steht; und
+- d)
+
+  einen Angriff endgültig oder vorläufig einzustellen, wenn sich erweist:
+
+  - i) dass das Ziel nach Artikel 4 des Abkommens geschütztes Kulturgut darstellt,
   - ii) dass damit zu rechnen ist, dass der Angriff auch eine Beschädigung von nach Artikel 4 des Abkommens geschütztem Kulturgut verursacht, die in keinem Verhältnis zu dem erwarteten konkreten und unmittelbaren militärischen Vorteil steht.
 
 #### Art. 8
 
 **Vorsichtsmassnahmen gegen die Wirkungen von Feindseligkeiten**
 
-Soweit dies praktisch irgend möglich ist, werden die an einem Konflikt beteiligten Vertragsparteien
+Soweit dies praktisch irgend möglich ist, werden die an einem Konflikt beteiligten Vertragsparteien:
 
 - a) bewegliches Kulturgut aus der Umgebung militärischer Ziele entfernen oder für angemessenen Schutz an Ort und Stelle sorgen;
 - b) es vermeiden, militärische Ziele in der Nähe von Kulturgut anzulegen.
@@ -196,16 +202,23 @@ Die an einem Konflikt beteiligten Vertragsparteien gewährleisten die Unverletzl
 
 **Verlust des verstärkten Schutzes**
 
-<sup>(1)</sup> Kulturgut unter verstärktem Schutz verliert diesen nur,
+<sup>(1)</sup>
 
-- a) sofern der Schutz nach Artikel 14 ausgesetzt oder aufgehoben wird oder
+Kulturgut unter verstärktem Schutz verliert diesen nur:
+
+- a) sofern der Schutz nach Artikel 14 ausgesetzt oder aufgehoben wird; oder
 - b) sofern und solange das Gut auf Grund seiner Verwendung ein militärisches Ziel geworden ist.
 
-<sup>(2)</sup> Unter den Umständen des Absatzes 1 Buchstabe b darf das Gut nur dann Ziel eines Angriffs sein,
+<sup>(2)</sup>
+
+Unter den Umständen des Absatzes 1 Buchstabe b darf das Gut nur dann Ziel eines Angriffs sein:
 
 - a) wenn der Angriff das einzige praktisch mögliche Mittel ist, die in Absatz 1 Buchstabe b bezeichnete Verwendung zu unterbinden;
 - b) wenn bei der Wahl der Angriffsmittel und -methoden alle praktisch möglichen Vorsichtsmassnahmen getroffen werden, um diese Verwendung zu unterbinden und eine Beschädigung des Kulturguts zu vermeiden oder in jedem Fall auf ein Mindestmass zu beschränken;
-- c) wenn – sofern die Umstände es nicht auf Grund der Erfordernisse der unmittelbaren Selbstverteidigung verbieten –
+- c)
+
+  wenn – sofern die Umstände es nicht auf Grund der Erfordernisse der unmittelbaren Selbstverteidigung verbieten – :
+
   - i) der Angriff auf der höchsten Befehlsebene angeordnet wird,
   - ii) eine wirksame Warnung an die gegnerischen Streitkräfte vorausgegangen ist, in der die Beendigung der in Absatz 1 Buchstabe b bezeichneten Verwendung verlangt wird, und
   - iii) den gegnerischen Streitkräften ausreichend Zeit eingeräumt wird, die Verwendung aufzugeben.
@@ -228,12 +241,14 @@ Die an einem Konflikt beteiligten Vertragsparteien gewährleisten die Unverletzl
 
 **Schwere Verstösse gegen dieses Protokoll**
 
-<sup>(1)</sup> Eine Straftat im Sinne dieses Protokolls begeht, wer vorsätzlich und unter Verstoss gegen das Abkommen oder dieses Protokoll
+<sup>(1)</sup>
+
+Eine Straftat im Sinne dieses Protokolls begeht, wer vorsätzlich und unter Verstoss gegen das Abkommen oder dieses Protokoll:
 
 - a) Kulturgut unter verstärktem Schutz zum Ziel eines Angriffs macht;
 - b) Kulturgut unter verstärktem Schutz oder seine unmittelbare Umgebung zur Unterstützung militärischer Handlungen verwendet;
 - c) Kulturgut, das nach dem Abkommen und diesem Protokoll geschützt ist, in grossem Ausmass zerstört oder sich aneignet;
-- d) Kulturgut, das nach dem Abkommen und diesem Protokoll geschützt ist, zum Ziel eines Angriffs macht oder
+- d) Kulturgut, das nach dem Abkommen und diesem Protokoll geschützt ist, zum Ziel eines Angriffs macht; oder
 - e) Kulturgut, das nach dem Abkommen geschützt ist, stiehlt, plündert, unterschlägt oder böswillig beschädigt.
 
 <sup>(2)</sup> Jede Vertragspartei trifft die notwendigen Massnahmen, um die in diesem Artikel genannten Straftaten nach innerstaatlichem Recht als Straftaten zu umschreiben und um diese Straftaten mit angemessenen Strafen zu bedrohen. Dabei beachten die Vertragsparteien allgemeine Rechtsgrundsätze und das Völkerrecht einschliesslich der Vorschriften, welche die individuelle strafrechtliche Verantwortlichkeit auf Personen ausdehnen, welche die Handlung nicht unmittelbar verübt haben.
@@ -250,7 +265,9 @@ Unbeschadet des Absatzes 2 trifft jede Vertragspartei die notwendigen gesetzgebe
 - b) wenn die verdächtige Person eine Angehörige dieses Staates ist;
 - c) wenn sich bei den in Artikel 15 Absatz 1 Buchstaben a–c genannten Straftaten die verdächtige Person in ihrem Hoheitsgebiet befindet.
 
-<sup>(2)</sup> Im Hinblick auf die Ausübung der Gerichtsbarkeit und unbeschadet des Artikels 28 des Abkommens
+<sup>(2)</sup>
+
+Im Hinblick auf die Ausübung der Gerichtsbarkeit und unbeschadet des Artikels 28 des Abkommens:
 
 - a) schliesst dieses Protokoll weder aus, dass nach anwendbarem innerstaatlichen Recht oder Völkerrecht individuelle strafrechtliche Verantwortlichkeit begründet oder Gerichtsbarkeit ausgeübt wird, noch berührt es die Ausübung der Gerichtsbarkeit nach dem Völkergewohnheitsrecht;
 - b) entsteht für die Mitglieder der Streitkräfte und die Angehörigen eines Nichtvertragsstaats, mit Ausnahme derjenigen seiner Staatsangehörigen, die in den Streitkräften eines Vertragsstaats Dienst tun, nach diesem Protokoll keine individuelle strafrechtliche Verantwortlichkeit, und macht dieses Protokoll es nicht zur Pflicht, die Gerichtsbarkeit über solche Personen zu begründen oder sie auszuliefern; dies gilt nicht, wenn ein Staat, der nicht Vertragspartei dieses Protokolls ist, dessen Bestimmungen nach Artikel 3 Absatz 2 annimmt und anwendet.
@@ -406,24 +423,29 @@ Dem Ausschuss steht das Sekretariat der UNESCO zur Seite, das die Dokumentation 
 
 Hiermit wird ein Fonds für die folgenden Zwecke errichtet:
 
-- a) Bereitstellung finanzieller oder anderer Hilfe zur Unterstützung von vorbereitenden und sonstigen Massnahmen, die in Friedenszeiten unter anderem nach Artikel 5, Artikel 10 Buchstabe b und Artikel 30 getroffen werden, und
+- a) Bereitstellung finanzieller oder anderer Hilfe zur Unterstützung von vorbereitenden und sonstigen Massnahmen, die in Friedenszeiten unter anderem nach Artikel 5, Artikel 10 Buchstabe b und Artikel 30 getroffen werden; und
 - b) Bereitstellung finanzieller oder anderer Hilfe im Zusammenhang mit Notfallmassnahmen oder vorläufigen oder sonstigen Massnahmen, die getroffen werden, um Kulturgut während eines bewaffneten Konflikts oder während der Bergung und Sicherung unmittelbar nach Ende der Feindseligkeiten unter anderem nach Artikel 8 Buchstabe a zu schützen.
 
 <sup>(2)</sup> Der Fonds stellt ein Treuhandvermögen im Sinne der Finanzordnung der UNESCO dar.
 
 <sup>(3)</sup> Die Auszahlungen aus dem Fonds werden nur für die vom Ausschuss nach den Richtlinien im Sinne des Artikels 23 Absatz 3 Buchstabe c beschlossenen Zwecke verwendet. Der Ausschuss kann Beiträge entgegennehmen, die nur für ein bestimmtes Programm oder Vorhaben verwendet werden sollen, sofern er die Durchführung dieses Programms oder Vorhabens beschlossen hat.
 
-<sup>(4)</sup> Die Mittel des Fonds bestehen aus
+<sup>(4)</sup>
+
+Die Mittel des Fonds bestehen aus:
 
 - a) freiwilligen Beiträgen der Vertragsparteien;
-- b) Beiträgen, Spenden oder Vermächtnissen
+- b)
+
+  Beiträgen, Spenden oder Vermächtnissen:
+
   - i) anderer Staaten,
   - ii) der UNESCO oder anderer Organisationen des Systems der Vereinten Nationen,
-  - iii) sonstiger zwischenstaatlicher oder nichtstaatlicher Organisationen und
+  - iii) sonstiger zwischenstaatlicher oder nichtstaatlicher Organisationen, und
   - iv) von Einrichtungen des öffentlichen oder privaten Rechts oder von Einzelpersonen;
 
 - c) den für den Fonds anfallenden Zinsen;
-- d) Mitteln, die durch Sammlungen und Einnahmen aus Veranstaltungen zu Gunsten des Fonds aufgebracht werden, und
+- d) Mitteln, die durch Sammlungen und Einnahmen aus Veranstaltungen zu Gunsten des Fonds aufgebracht werden; und
 - e) allen sonstigen Mitteln, die durch die auf den Fonds anzuwendenden Richtlinien genehmigt sind.
 
 ## Kapitel 7: Verbreitung von Informationen und internationale Unterstützung
@@ -436,7 +458,9 @@ Hiermit wird ein Fonds für die folgenden Zwecke errichtet:
 
 <sup>(2)</sup> Die Vertragsparteien verbreiten dieses Protokoll so weit wie möglich, und zwar sowohl in Friedenszeiten als auch in Zeiten eines bewaffneten Konflikts.
 
-<sup>(3)</sup> Die militärischen oder zivilen Dienststellen, die in Zeiten eines bewaffneten Konflikts Verantwortlichkeiten bei der Anwendung dieses Protokolls zu übernehmen haben, müssen mit seinem Wortlaut voll und ganz vertraut sein. Zu diesem Zweck werden die Vertragsparteien gegebenenfalls
+<sup>(3)</sup>
+
+Die militärischen oder zivilen Dienststellen, die in Zeiten eines bewaffneten Konflikts Verantwortlichkeiten bei der Anwendung dieses Protokolls zu übernehmen haben, müssen mit seinem Wortlaut voll und ganz vertraut sein. Zu diesem Zweck werden die Vertragsparteien gegebenenfalls:
 
 - a) Richtlinien und Anweisungen zum Schutz von Kulturgut in ihre Militärvorschriften aufnehmen;
 - b) in Zusammenarbeit mit der UNESCO und einschlägigen staatlichen und nichtstaatlichen Organisationen Ausbildungs- und Erziehungsprogramme in Friedenszeiten entwickeln und durchführen;
@@ -579,94 +603,98 @@ Dieses Protokoll wird auf Ersuchen des Generaldirektors nach Artikel 102 der Cha
 
 *Zu Urkund dessen* haben die gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Den Haag am 26. März 1999 in einer Urschrift, die im Archiv der UNESCO hinterlegt wird; beglaubigte Abschriften werden allen Hohen Vertragsparteien übermittelt. *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 29. April 2020**[^t-3]**
+Geltungsbereich am 23. Februar 2023[^t-3]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Afghanistan</td><td colspan="2">12. März</td><td colspan="2">2018 B</td><td>12. Juni</td><td>2018</td></tr>
-<tr><td colspan="2">Ägypten</td><td colspan="2">3. August</td><td colspan="2">2005</td><td>3. November</td><td>2005</td></tr>
-<tr><td>Äquatorialguinea</td><td colspan="2">19. November</td><td colspan="2">2003 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td>Argentinien</td><td colspan="2">7. Januar</td><td colspan="2">2002 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td>Armenien</td><td colspan="2">18. Mai</td><td colspan="2">2006</td><td colspan="2">18. August</td><td>2006</td></tr>
-<tr><td>Aserbaidschan\*</td><td colspan="2">17. April</td><td colspan="2">2001 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Bahrain</td><td colspan="2">26. August</td><td colspan="2">2008 B</td><td>26. November</td><td>2008</td></tr>
-<tr><td colspan="2">Barbados</td><td colspan="2">2. Oktober</td><td colspan="2">2008 B</td><td>2. Januar</td><td>2009</td></tr>
-<tr><td>Belarus</td><td colspan="2">13. Dezember</td><td colspan="2">2000</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Belgien\*</td><td colspan="2">13. Oktober</td><td colspan="2">2010</td><td>13. Januar</td><td>2011</td></tr>
-<tr><td colspan="2">Benin</td><td colspan="2">17. April</td><td colspan="2">2012 B</td><td>17. Juli</td><td>2012</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td colspan="2">22. Mai</td><td colspan="2">2009 B</td><td>22. August</td><td>2009</td></tr>
-<tr><td>Brasilien</td><td colspan="2">23. September</td><td colspan="2">2005 B</td><td colspan="2">23. Dezember</td><td>2005</td></tr>
-<tr><td>Bulgarien</td><td colspan="2">14. Juni</td><td colspan="2">2000</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Burkina Faso</td><td colspan="2">5. Februar</td><td colspan="2">2018 B</td><td>5. Mai</td><td>2018</td></tr>
-<tr><td colspan="2">Chile</td><td colspan="2">11. September</td><td colspan="2">2008 B</td><td>11. Dezember</td><td>2008</td></tr>
-<tr><td>Costa Rica</td><td colspan="2">9. Dezember</td><td colspan="2">2003 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Dänemark <sup>a</sup></td><td colspan="2">5. September</td><td colspan="2">2018 B</td><td>5. Dezember</td><td>2018</td></tr>
-<tr><td colspan="2">Deutschland</td><td colspan="2">25. November</td><td colspan="2">2009</td><td>25. Februar</td><td>2010</td></tr>
-<tr><td colspan="2">Dominikanische Republik</td><td colspan="2">3. März</td><td colspan="2">2009</td><td>3. Juni</td><td>2009</td></tr>
-<tr><td colspan="2">Dschibuti</td><td colspan="2">9. April</td><td colspan="2">2018 B</td><td>9. Juli</td><td>2018</td></tr>
-<tr><td colspan="2">Ecuador</td><td colspan="2">2. August</td><td colspan="2">2004</td><td>2. November</td><td>2004</td></tr>
-<tr><td>El Salvador</td><td colspan="2">27. März</td><td colspan="2">2002 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Estland</td><td colspan="2">17. Januar</td><td colspan="2">2005</td><td>17. April</td><td>2005</td></tr>
-<tr><td colspan="2">Finnland</td><td colspan="2">27. August</td><td colspan="2">2004</td><td>27. November</td><td>2004</td></tr>
-<tr><td colspan="2">Frankreich\*</td><td colspan="2">20. März</td><td colspan="2">2017</td><td>20. Juni</td><td>2017</td></tr>
-<tr><td colspan="2">Gabun</td><td colspan="2">29. August</td><td colspan="2">2003 B</td><td>9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Georgien</td><td colspan="2">13. September</td><td colspan="2">2010 B</td><td>13. Dezember</td><td>2010</td></tr>
-<tr><td colspan="2">Griechenland</td><td colspan="2">20. April</td><td colspan="2">2005</td><td>20. Juli</td><td>2005</td></tr>
-<tr><td colspan="2">Guatemala</td><td colspan="2">4. Februar</td><td colspan="2">2005 B</td><td>4. Mai</td><td>2005</td></tr>
-<tr><td>Honduras</td><td colspan="2">26. Januar</td><td colspan="2">2003 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Iran\*</td><td colspan="2">24. Mai</td><td colspan="2">2005 B</td><td>24. August</td><td>2005</td></tr>
-<tr><td colspan="2">Irland</td><td colspan="2">17. Mai</td><td colspan="2">2018 B</td><td>17. August</td><td>2018</td></tr>
-<tr><td colspan="2">Italien</td><td colspan="2">10. Juli</td><td colspan="2">2009</td><td>10. Oktober</td><td>2009</td></tr>
-<tr><td colspan="2">Japan</td><td colspan="2">10. September</td><td colspan="2">2007</td><td>10. Dezember</td><td>2007</td></tr>
-<tr><td colspan="2">Jordanien</td><td colspan="2">5. Mai</td><td colspan="2">2009 B</td><td>5. August</td><td>2009</td></tr>
-<tr><td colspan="2">Kambodscha</td><td colspan="2">17. September</td><td colspan="2">2013</td><td>17. Dezember</td><td>2013</td></tr>
-<tr><td colspan="2">Kanada</td><td colspan="2">29. November</td><td colspan="2">2005 B</td><td>28. Februar</td><td>2006</td></tr>
-<tr><td>Katar</td><td colspan="2">4. September</td><td colspan="2">2000</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Kolumbien</td><td colspan="2">24. November</td><td colspan="2">2010</td><td>24. Februar</td><td>2011</td></tr>
-<tr><td>Kroatien</td><td colspan="2">8. Februar</td><td colspan="2">2006</td><td colspan="2">8. Mai</td><td>2006</td></tr>
-<tr><td>Libyen</td><td colspan="2">20. Juli</td><td colspan="2">2001 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td colspan="2">31. Januar</td><td colspan="2">2017 B</td><td>30. April</td><td>2017</td></tr>
-<tr><td>Litauen</td><td colspan="2">13. März</td><td colspan="2">2002 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Luxemburg</td><td colspan="2">30. Juni</td><td colspan="2">2005</td><td>30. September</td><td>2005</td></tr>
-<tr><td colspan="2">Madagaskar</td><td colspan="2">3. Juli</td><td colspan="2">2018</td><td>3. Oktober</td><td>2018</td></tr>
-<tr><td colspan="2">Mali <sup>b</sup></td><td colspan="2">15. November</td><td colspan="2">2012 B</td><td>15. November</td><td>2012</td></tr>
-<tr><td colspan="2">Marokko</td><td colspan="2">5. Dezember</td><td colspan="2">2013</td><td>5. März</td><td>2014</td></tr>
-<tr><td>Mexiko</td><td colspan="2">7. Oktober</td><td colspan="2">2003 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td>Montenegro</td><td colspan="2">26. April</td><td colspan="2">2007 N</td><td colspan="2">3. Juni</td><td>2006</td></tr>
-<tr><td colspan="2">Neuseeland <sup>c</sup></td><td colspan="2">23. Oktober</td><td colspan="2">2013 B</td><td>23. Januar</td><td>2014</td></tr>
-<tr><td>Nicaragua</td><td colspan="2">1. Juni</td><td colspan="2">2001 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td>Niederlande</td><td colspan="2">30. Januar</td><td colspan="2">2007</td><td colspan="2">30. April</td><td>2007</td></tr>
-<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td colspan="2">10. Januar</td><td colspan="2">2011</td><td>10. Januar</td><td>2011</td></tr>
-<tr><td>Niger</td><td colspan="2">16. Juni</td><td colspan="2">2006 B</td><td colspan="2">16. September</td><td>2006</td></tr>
-<tr><td>Nigeria</td><td colspan="2">21. Oktober</td><td colspan="2">2005</td><td colspan="2">21. Januar</td><td>2006</td></tr>
-<tr><td>Nordmazedonien</td><td colspan="2">19. April</td><td colspan="2">2002</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Norwegen</td><td colspan="2">5. September</td><td colspan="2">2016 B</td><td>5. Dezember</td><td>2016</td></tr>
-<tr><td colspan="2">Oman</td><td colspan="2">16. Mai</td><td colspan="2">2011</td><td>16. August</td><td>2011</td></tr>
-<tr><td>Österreich\*</td><td colspan="2">1. März</td><td colspan="2">2002</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Palästina</td><td colspan="2">22. März</td><td colspan="2">2012 B</td><td>22. Juni</td><td>2012</td></tr>
-<tr><td>Panama</td><td colspan="2">8. März</td><td colspan="2">2001 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Paraguay</td><td colspan="2">9. November</td><td colspan="2">2004 B</td><td>9. Februar</td><td>2005</td></tr>
-<tr><td colspan="2">Peru</td><td colspan="2">24. Mai</td><td colspan="2">2005</td><td>24. August</td><td>2005</td></tr>
-<tr><td colspan="2">Polen</td><td colspan="2">3. Januar</td><td colspan="2">2012 B</td><td>3. April</td><td>2012</td></tr>
-<tr><td colspan="2">Portugal</td><td colspan="2">9. April</td><td colspan="2">2018 B</td><td>9. Juli</td><td>2018</td></tr>
-<tr><td colspan="2">Rumänien</td><td colspan="2">7. August</td><td colspan="2">2006</td><td>7. November</td><td>2006</td></tr>
-<tr><td colspan="2">Saudi-Arabien</td><td colspan="2">6. November</td><td colspan="2">2007 B</td><td>6. Februar</td><td>2008</td></tr>
-<tr><td colspan="2">Schweden</td><td colspan="2">10. November</td><td colspan="2">2017</td><td>10. Februar</td><td>2018</td></tr>
-<tr><td>Schweiz</td><td colspan="2">9. Juli</td><td colspan="2">2004</td><td colspan="2">9. Oktober</td><td>2004</td></tr>
-<tr><td>Serbien</td><td colspan="2">2. September</td><td colspan="2">1999 B</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td>Slowakei</td><td colspan="2">11. Februar</td><td colspan="2">2004</td><td colspan="2">11. Mai</td><td>2004</td></tr>
-<tr><td>Slowenien</td><td colspan="2">13. April</td><td colspan="2">2004 B</td><td colspan="2">13. Juli</td><td>2004</td></tr>
-<tr><td>Spanien</td><td colspan="2">6. Juli</td><td colspan="2">2001</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="2">Südafrika</td><td colspan="2">11. Februar</td><td colspan="2">2015 B</td><td>11. Mai</td><td>2015</td></tr>
-<tr><td>Tadschikistan</td><td colspan="2">21. Februar</td><td colspan="2">2006 B</td><td colspan="2">21. Mai</td><td>2006</td></tr>
-<tr><td colspan="2">Togo</td><td colspan="2">24. Januar</td><td colspan="2">2017 B</td><td>24. April</td><td>2017</td></tr>
-<tr><td>Tschechische Republik</td><td colspan="2">8. Juni</td><td colspan="2">2007 B</td><td colspan="2">8. September</td><td>2007</td></tr>
-<tr><td colspan="2">Turkmenistan</td><td colspan="2">22. Januar</td><td colspan="2">2018 B</td><td>22. April</td><td>2018</td></tr>
-<tr><td>Ungarn</td><td colspan="2">26. Oktober</td><td colspan="2">2005</td><td colspan="2">26. Januar</td><td>2006</td></tr>
-<tr><td>Uruguay</td><td colspan="2">3. Januar</td><td colspan="2">2007 B</td><td colspan="2">3. April</td><td>2007</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich\*</td><td colspan="2">12. September</td><td colspan="2">2017 B</td><td>12. Dezember</td><td>2017</td></tr>
-<tr><td>Zypern</td><td colspan="2">16. Mai</td><td colspan="2">2001</td><td colspan="2">9. März</td><td>2004</td></tr>
-<tr><td colspan="8">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und Grönland. <sup>b</sup> Beitritt mit sofortiger Anwendung gemäss Art. 44 des Protokolls. <sup>c</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Afghanistan</td><td>12. März</td><td>2018 B</td><td>12. Juni</td><td>2018</td></tr>
+<tr><td>Ägypten</td><td>3. August</td><td>2005</td><td>3. November</td><td>2005</td></tr>
+<tr><td>Äquatorialguinea</td><td>19. November</td><td>2003 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Argentinien</td><td>7. Januar</td><td>2002 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Armenien</td><td>18. Mai</td><td>2006</td><td>18. August</td><td>2006</td></tr>
+<tr><td>Aserbaidschan\*</td><td>17. April</td><td>2001 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Bahrain</td><td>26. August</td><td>2008 B</td><td>26. November</td><td>2008</td></tr>
+<tr><td>Barbados</td><td>2. Oktober</td><td>2008 B</td><td>2. Januar</td><td>2009</td></tr>
+<tr><td>Belarus</td><td>13. Dezember</td><td>2000</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Belgien\*</td><td>13. Oktober</td><td>2010</td><td>13. Januar</td><td>2011</td></tr>
+<tr><td>Benin</td><td>17. April</td><td>2012 B</td><td>17. Juli</td><td>2012</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>22. Mai</td><td>2009 B</td><td>22. August</td><td>2009</td></tr>
+<tr><td>Botsuana</td><td>19. November</td><td>2021 B</td><td>19. Februar</td><td>2022</td></tr>
+<tr><td>Brasilien</td><td>23. September</td><td>2005 B</td><td>23. Dezember</td><td>2005</td></tr>
+<tr><td>Bulgarien</td><td>14. Juni</td><td>2000</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Burkina Faso</td><td>5. Februar</td><td>2018 B</td><td>5. Mai</td><td>2018</td></tr>
+<tr><td>Chile</td><td>11. September</td><td>2008 B</td><td>11. Dezember</td><td>2008</td></tr>
+<tr><td>Costa Rica</td><td>9. Dezember</td><td>2003 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>5. September</td><td>2018 B</td><td>5. Dezember</td><td>2018</td></tr>
+<tr><td>Deutschland</td><td>25. November</td><td>2009</td><td>25. Februar</td><td>2010</td></tr>
+<tr><td>Dominikanische Republik</td><td>3. März</td><td>2009</td><td>3. Juni</td><td>2009</td></tr>
+<tr><td>Dschibuti</td><td>9. April</td><td>2018 B</td><td>9. Juli</td><td>2018</td></tr>
+<tr><td>Ecuador</td><td>2. August</td><td>2004</td><td>2. November</td><td>2004</td></tr>
+<tr><td>El Salvador</td><td>27. März</td><td>2002 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Estland</td><td>17. Januar</td><td>2005</td><td>17. April</td><td>2005</td></tr>
+<tr><td>Finnland</td><td>27. August</td><td>2004</td><td>27. November</td><td>2004</td></tr>
+<tr><td>Frankreich\*</td><td>20. März</td><td>2017</td><td>20. Juni</td><td>2017</td></tr>
+<tr><td>Gabun</td><td>29. August</td><td>2003 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Georgien</td><td>13. September</td><td>2010 B</td><td>13. Dezember</td><td>2010</td></tr>
+<tr><td>Griechenland</td><td>20. April</td><td>2005</td><td>20. Juli</td><td>2005</td></tr>
+<tr><td>Guatemala</td><td>4. Februar</td><td>2005 B</td><td>4. Mai</td><td>2005</td></tr>
+<tr><td>Honduras</td><td>26. Januar</td><td>2003 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Irak</td><td>6. April</td><td>2022 B</td><td>6. Juli</td><td>2022</td></tr>
+<tr><td>Iran\*</td><td>24. Mai</td><td>2005 B</td><td>24. August</td><td>2005</td></tr>
+<tr><td>Irland</td><td>17. Mai</td><td>2018 B</td><td>17. August</td><td>2018</td></tr>
+<tr><td>Italien</td><td>10. Juli</td><td>2009</td><td>10. Oktober</td><td>2009</td></tr>
+<tr><td>Japan</td><td>10. September</td><td>2007</td><td>10. Dezember</td><td>2007</td></tr>
+<tr><td>Jordanien</td><td>5. Mai</td><td>2009 B</td><td>5. August</td><td>2009</td></tr>
+<tr><td>Kambodscha</td><td>17. September</td><td>2013</td><td>17. Dezember</td><td>2013</td></tr>
+<tr><td>Kanada</td><td>29. November</td><td>2005 B</td><td>28. Februar</td><td>2006</td></tr>
+<tr><td>Katar</td><td>4. September</td><td>2000</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Kolumbien</td><td>24. November</td><td>2010</td><td>24. Februar</td><td>2011</td></tr>
+<tr><td>Kroatien</td><td>8. Februar</td><td>2006</td><td>8. Mai</td><td>2006</td></tr>
+<tr><td>Libanon</td><td>8. Oktober</td><td>2020 B</td><td>8. Januar</td><td>2021</td></tr>
+<tr><td>Libyen</td><td>20. Juli</td><td>2001 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Liechtenstein</td><td>31. Januar</td><td>2017 B</td><td>30. April</td><td>2017</td></tr>
+<tr><td>Litauen</td><td>13. März</td><td>2002 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Luxemburg</td><td>30. Juni</td><td>2005</td><td>30. September</td><td>2005</td></tr>
+<tr><td>Madagaskar</td><td>3. Juli</td><td>2018</td><td>3. Oktober</td><td>2018</td></tr>
+<tr><td>Mali <sup>b</sup></td><td>15. November</td><td>2012 B</td><td>15. November</td><td>2012</td></tr>
+<tr><td>Marokko</td><td>5. Dezember</td><td>2013</td><td>5. März</td><td>2014</td></tr>
+<tr><td>Mexiko</td><td>7. Oktober</td><td>2003 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Montenegro</td><td>26. April</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Neuseeland <sup>c</sup></td><td>23. Oktober</td><td>2013 B</td><td>23. Januar</td><td>2014</td></tr>
+<tr><td>Nicaragua</td><td>1. Juni</td><td>2001 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Niederlande</td><td>30. Januar</td><td>2007</td><td>30. April</td><td>2007</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Januar</td><td>2011</td></tr>
+<tr><td>Niger</td><td>16. Juni</td><td>2006 B</td><td>16. September</td><td>2006</td></tr>
+<tr><td>Nigeria</td><td>21. Oktober</td><td>2005</td><td>21. Januar</td><td>2006</td></tr>
+<tr><td>Nordmazedonien</td><td>19. April</td><td>2002</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Norwegen</td><td>5. September</td><td>2016 B</td><td>5. Dezember</td><td>2016</td></tr>
+<tr><td>Oman</td><td>16. Mai</td><td>2011</td><td>16. August</td><td>2011</td></tr>
+<tr><td>Österreich\*</td><td>1. März</td><td>2002</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Palästina</td><td>22. März</td><td>2012 B</td><td>22. Juni</td><td>2012</td></tr>
+<tr><td>Panama</td><td>8. März</td><td>2001 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Paraguay</td><td>9. November</td><td>2004 B</td><td>9. Februar</td><td>2005</td></tr>
+<tr><td>Peru</td><td>24. Mai</td><td>2005</td><td>24. August</td><td>2005</td></tr>
+<tr><td>Polen</td><td>3. Januar</td><td>2012 B</td><td>3. April</td><td>2012</td></tr>
+<tr><td>Portugal</td><td>9. April</td><td>2018 B</td><td>9. Juli</td><td>2018</td></tr>
+<tr><td>Rumänien</td><td>7. August</td><td>2006</td><td>7. November</td><td>2006</td></tr>
+<tr><td>Saudi-Arabien</td><td>6. November</td><td>2007 B</td><td>6. Februar</td><td>2008</td></tr>
+<tr><td>Schweden</td><td>10. November</td><td>2017</td><td>10. Februar</td><td>2018</td></tr>
+<tr><td>Schweiz</td><td>9. Juli</td><td>2004</td><td>9. Oktober</td><td>2004</td></tr>
+<tr><td>Serbien</td><td>2. September</td><td>1999 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Slowakei</td><td>11. Februar</td><td>2004</td><td>11. Mai</td><td>2004</td></tr>
+<tr><td>Slowenien</td><td>13. April</td><td>2004 B</td><td>13. Juli</td><td>2004</td></tr>
+<tr><td>Spanien</td><td>6. Juli</td><td>2001</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Südafrika</td><td>11. Februar</td><td>2015 B</td><td>11. Mai</td><td>2015</td></tr>
+<tr><td>Tadschikistan</td><td>21. Februar</td><td>2006 B</td><td>21. Mai</td><td>2006</td></tr>
+<tr><td>Togo</td><td>24. Januar</td><td>2017 B</td><td>24. April</td><td>2017</td></tr>
+<tr><td>Tschechische Republik</td><td>8. Juni</td><td>2007 B</td><td>8. September</td><td>2007</td></tr>
+<tr><td>Turkmenistan</td><td>22. Januar</td><td>2018 B</td><td>22. April</td><td>2018</td></tr>
+<tr><td>Ukraine\* <sup>b</sup></td><td>30. Juni</td><td>2020 B</td><td>30. Juni</td><td>2020</td></tr>
+<tr><td>Ungarn</td><td>26. Oktober</td><td>2005</td><td>26. Januar</td><td>2006</td></tr>
+<tr><td>Uruguay</td><td>3. Januar</td><td>2007 B</td><td>3. April</td><td>2007</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>12. September</td><td>2017 B</td><td>12. Dezember</td><td>2017</td></tr>
+<tr><td>Zypern</td><td>16. Mai</td><td>2001</td><td>9. März</td><td>2004</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): [www.unesco.org](http://www.unesco.org) &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und Grönland. <sup>b</sup> Beitritt mit sofortiger Wirkung gemäss Art. 44 des Protokolls. <sup>c</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-3]: Diese Veröffentlichung ergänzt die früheren in [AS 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29)[4787](https://fedlex.data.admin.ch/eli/oc/2005/642), [2007 431](https://fedlex.data.admin.ch/eli/oc/2007/88), [2008 4125](https://fedlex.data.admin.ch/eli/oc/2008/579), [2010 845](https://fedlex.data.admin.ch/eli/oc/2010/132), [2013 279](https://fedlex.data.admin.ch/eli/oc/2013/40), [2015 1227](https://fedlex.data.admin.ch/eli/oc/2015/248), [2018 1161](https://fedlex.data.admin.ch/eli/oc/2018/171), [2020 1577](https://fedlex.data.admin.ch/eli/oc/2020/319). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29), [4787](https://fedlex.data.admin.ch/eli/oc/2005/642); [2007 431](https://fedlex.data.admin.ch/eli/oc/2007/88); [2008 4125](https://fedlex.data.admin.ch/eli/oc/2008/579); [2010 845](https://fedlex.data.admin.ch/eli/oc/2010/132); [2013 279](https://fedlex.data.admin.ch/eli/oc/2013/40); [2015 1227](https://fedlex.data.admin.ch/eli/oc/2015/248); [2018 1161](https://fedlex.data.admin.ch/eli/oc/2018/171); [2020 1577](https://fedlex.data.admin.ch/eli/oc/2020/319); [2023 95](https://fedlex.data.admin.ch/eli/oc/2023/95). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

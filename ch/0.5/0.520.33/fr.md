@@ -3,11 +3,11 @@ sr: "0.520.33"
 title: Deuxième Protocole du 26 mars 1999 relatif à la Convention de la Haye de 1954 pour la protection des biens culturels en cas de conflit armé
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/29"
 language: fr
-version: 2020-04-29
+version: 2023-02-23
 adopted: 1999-03-26
 in_force: 2004-10-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20200429/fr/xml/fedlex-data-admin-ch-eli-cc-2005-29-20200429-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20200429/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20230223/fr/xml/fedlex-data-admin-ch-eli-cc-2005-29-20230223-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20230223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 9 juillet 2004
 
 Entré en vigueur pour la Suisse le 9 octobre 2004
 
-(Etat le 29 avril 2020)
+(État le 23 février 2023)
 
 [^t-1]: [RO 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
 
@@ -604,7 +604,7 @@ Conformément à l’art. 102 de la Charte des Nations Unies[^47-1], le présent
 
 *En foi de quoi,* les soussignés, dûment autorisés, ont signé le présent Protocole. Fait à La Haye, le 26 mars 1999, en un seul exemplaire qui sera déposé dans les archives de l’Organisation des Nations Unies pour l’éducation, la science et la culture, et dont des copies certifiées conformes seront remises à toutes les Hautes Parties contractantes. (Suivent les signatures)
 
-Champ d’application le 29 avril 2020**[^t-2]**
+Champ d’application le 23 février 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -622,6 +622,7 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Belgique\*</td><td>13 octobre</td><td>2010</td><td>13 janvier</td><td>2011</td></tr>
 <tr><td>Bénin</td><td>17 avril</td><td>2012 A</td><td>17 juillet</td><td>2012</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>22 mai</td><td>2009 A</td><td>22 août</td><td>2009</td></tr>
+<tr><td>Botswana</td><td>19 novembre</td><td>2021 A</td><td>19 février</td><td>2022</td></tr>
 <tr><td>Brésil</td><td>23 septembre</td><td>2005 A</td><td>23 décembre</td><td>2005</td></tr>
 <tr><td>Bulgarie</td><td>14 juin</td><td>2000</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Burkina Faso</td><td>5 février</td><td>2018 A</td><td>5 mai</td><td>2018</td></tr>
@@ -649,10 +650,12 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Honduras</td><td>26 janvier</td><td>2003 A</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Hongrie</td><td>26 octobre</td><td>2005</td><td>26 janvier</td><td>2006</td></tr>
 <tr><td>Iran\*</td><td>24 mai</td><td>2005 A</td><td>24 août</td><td>2005</td></tr>
+<tr><td>Iraq</td><td>6 avril</td><td>2022 A</td><td>6 juillet</td><td>2022</td></tr>
 <tr><td>Irlande</td><td>17 mai</td><td>2018 A</td><td>17 août</td><td>2018</td></tr>
 <tr><td>Italie</td><td>10 juillet</td><td>2009</td><td>10 octobre</td><td>2009</td></tr>
 <tr><td>Japon</td><td>10 septembre</td><td>2007</td><td>10 décembre</td><td>2007</td></tr>
 <tr><td>Jordanie</td><td>5 mai</td><td>2009 A</td><td>5 août</td><td>2009</td></tr>
+<tr><td>Liban</td><td>8 octobre</td><td>2020 A</td><td>8 janvier</td><td>2021</td></tr>
 <tr><td>Libye</td><td>20 juillet</td><td>2001 A</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>31 janvier</td><td>2017 A</td><td>30 avril</td><td>2017</td></tr>
 <tr><td>Lituanie</td><td>13 mars</td><td>2002 A</td><td>9 mars</td><td>2004</td></tr>
@@ -673,7 +676,7 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Panama</td><td>8 mars</td><td>2001 A</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Paraguay</td><td>9 novembre</td><td>2004 A</td><td>9 février</td><td>2005</td></tr>
 <tr><td>Pays-Bas</td><td>30 janvier</td><td>2007</td><td>30 avril</td><td>2007</td></tr>
-<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 janvier</td><td>2011</td><td>10 janvier</td><td>2011</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>2010</td><td>10 janvier</td><td>2011</td></tr>
 <tr><td>Pérou</td><td>24 mai</td><td>2005</td><td>24 août</td><td>2005</td></tr>
 <tr><td>Pologne</td><td>3 janvier</td><td>2012 A</td><td>3 avril</td><td>2012</td></tr>
 <tr><td>Portugal</td><td>9 avril</td><td>2018 A</td><td>9 juillet</td><td>2018</td></tr>
@@ -690,8 +693,9 @@ Champ d’application le 29 avril 2020**[^t-2]**
 <tr><td>Tadjikistan</td><td>21 février</td><td>2006 A</td><td>21 mai</td><td>2006</td></tr>
 <tr><td>Togo</td><td>24 janvier</td><td>2017 A</td><td>24 avril</td><td>2017</td></tr>
 <tr><td>Turkménistan</td><td>22 janvier</td><td>2018 A</td><td>22 avril</td><td>2018</td></tr>
+<tr><td>Ukraine\* <sup>a</sup></td><td>30 juin</td><td>2020 A</td><td>30 juin</td><td>2020</td></tr>
 <tr><td>Uruguay</td><td>3 janvier</td><td>2007 A</td><td>3 avril</td><td>2007</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique ni aux Îles Féroé ni au Groenland. <sup>b</sup> Adhésion avec application à effet immédiat selon art. 44 du protocole. <sup>c</sup> Le protocole ne s’applique pas à Tokélaou. [tab]</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org](http://www.unesco.org) &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique ni aux Îles Féroé ni au Groenland. <sup>b</sup> Adhésion avec application à effet immédiat selon art. 44 du protocole. <sup>c</sup> Le protocole ne s’applique pas à Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29)[4787](https://fedlex.data.admin.ch/eli/oc/2005/642), [2007 431](https://fedlex.data.admin.ch/eli/oc/2007/88), [2008 4125](https://fedlex.data.admin.ch/eli/oc/2008/579), [2010 845](https://fedlex.data.admin.ch/eli/oc/2010/132), [2013 279](https://fedlex.data.admin.ch/eli/oc/2013/40), [2015 1227](https://fedlex.data.admin.ch/eli/oc/2015/248), [2018 1161](https://fedlex.data.admin.ch/eli/oc/2018/171), [2020 1577](https://fedlex.data.admin.ch/eli/oc/2020/319). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29), [4787](https://fedlex.data.admin.ch/eli/oc/2005/642); [2007 431](https://fedlex.data.admin.ch/eli/oc/2007/88); [2008 4125](https://fedlex.data.admin.ch/eli/oc/2008/579); [2010 845](https://fedlex.data.admin.ch/eli/oc/2010/132); [2013 279](https://fedlex.data.admin.ch/eli/oc/2013/40); [2015 1227](https://fedlex.data.admin.ch/eli/oc/2015/248); [2018 1161](https://fedlex.data.admin.ch/eli/oc/2018/171); [2020 1577](https://fedlex.data.admin.ch/eli/oc/2020/319); [2023 95](https://fedlex.data.admin.ch/eli/oc/2023/95). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

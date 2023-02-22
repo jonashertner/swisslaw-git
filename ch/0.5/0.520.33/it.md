@@ -3,11 +3,11 @@ sr: "0.520.33"
 title: "Secondo Protocollo del 26 marzo 1999 relativo alla Convenzione dell'Aia del 1954 per la protezione dei beni culturali in caso di conflitto armato"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/29"
 language: it
-version: 2020-04-29
+version: 2023-02-23
 adopted: 1999-03-26
 in_force: 2004-10-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20200429/it/xml/fedlex-data-admin-ch-eli-cc-2005-29-20200429-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20200429/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20230223/it/xml/fedlex-data-admin-ch-eli-cc-2005-29-20230223-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20230223/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2005** 149; FF **2003** 5299
 
 Traduzione
 
-Concluso all’Aia il 26 marzo 1999
+Concluso all’Aia il 26 marzo 1999 Approvato dall’Assemblea federale il 19 marzo 2004[^t-1] Strumento di ratifica depositato dalla Svizzera il 9 luglio 2004 Entrato in vigore per la Svizzera il 9 ottobre 2004
 
-Approvato dall’Assemblea federale il 19 marzo 2004[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 9 luglio 2004
-
-Entrato in vigore per la Svizzera il 9 ottobre 2004
-
-(Stato 29 aprile 2020)
+(Stato 23 gennaio 2023)
 
 [^t-1]: [RU 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
 
@@ -602,7 +596,7 @@ Il presente Protocollo è registrato presso il Segretariato dell’Organizzazion
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto all’Aia, il 26 marzo 1999, in un solo esemplare che sarà depositato nell’archivio dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, e copie del quale, certificate conformi, saranno rimesse a tutte le Alte Parti contraenti. (Seguono le firme)
 
-Campo d’applicazione il 29 aprile 2020**[^t-2]**
+Campo d’applicazione il 23 febbraio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -610,14 +604,15 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Arabia Saudita</td><td>6 novembre</td><td>2007 A</td><td>6 febbraio</td><td>2008</td></tr>
 <tr><td>Argentina</td><td>7 gennaio</td><td>2002 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Armenia</td><td>18 maggio</td><td>2006</td><td>18 agosto</td><td>2006</td></tr>
-<tr><td>Austria<sup>\*</sup></td><td>1° marzo</td><td>2002</td><td>9 marzo</td><td>2004</td></tr>
-<tr><td>Azerbaigian<sup>\*</sup></td><td>17 aprile</td><td>2001 A</td><td>9 marzo</td><td>2004</td></tr>
+<tr><td>Austria\*</td><td>1° marzo</td><td>2002</td><td>9 marzo</td><td>2004</td></tr>
+<tr><td>Azerbaigian\*</td><td>17 aprile</td><td>2001 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Bahrein</td><td>26 agosto</td><td>2008 A</td><td>26 novembre</td><td>2008</td></tr>
 <tr><td>Barbados</td><td>2 ottobre</td><td>2008 A</td><td>2 gennaio</td><td>2009</td></tr>
 <tr><td>Belarus</td><td>13 dicembre</td><td>2000</td><td>9 marzo</td><td>2004</td></tr>
-<tr><td>Belgio<sup>\*</sup></td><td>13 ottobre</td><td>2010</td><td>13 gennaio</td><td>2011</td></tr>
+<tr><td>Belgio\*</td><td>13 ottobre</td><td>2010</td><td>13 gennaio</td><td>2011</td></tr>
 <tr><td>Benin</td><td>17 aprile</td><td>2012 A</td><td>17 luglio</td><td>2012</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>22 maggio</td><td>2009 A</td><td>22 agosto</td><td>2009</td></tr>
+<tr><td>Botswana</td><td>19 novembre</td><td>2021 A</td><td>19 febbraio</td><td>2022</td></tr>
 <tr><td>Brasile</td><td>23 settembre</td><td>2005 A</td><td>23 dicembre</td><td>2005</td></tr>
 <tr><td>Bulgaria</td><td>14 giugno</td><td>2000</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Burkina Faso</td><td>5 febbraio</td><td>2018 A</td><td>5 maggio</td><td>2018</td></tr>
@@ -636,7 +631,7 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>El Salvador</td><td>27 marzo</td><td>2002 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Estonia</td><td>17 gennaio</td><td>2005</td><td>17 aprile</td><td>2005</td></tr>
 <tr><td>Finlandia</td><td>27 agosto</td><td>2004</td><td>27 novembre</td><td>2004</td></tr>
-<tr><td>Francia<sup>\*</sup></td><td>20 marzo</td><td>2017</td><td>20 giugno</td><td>2017</td></tr>
+<tr><td>Francia\*</td><td>20 marzo</td><td>2017</td><td>20 giugno</td><td>2017</td></tr>
 <tr><td>Gabon</td><td>29 agosto</td><td>2003 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Georgia</td><td>13 settembre</td><td>2010 A</td><td>13 dicembre</td><td>2010</td></tr>
 <tr><td>Germania</td><td>25 novembre</td><td>2009</td><td>25 febbraio</td><td>2010</td></tr>
@@ -647,14 +642,16 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Guatemala</td><td>4 febbraio</td><td>2005 A</td><td>4 maggio</td><td>2005</td></tr>
 <tr><td>Guinea equatoriale</td><td>19 novembre</td><td>2003 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Honduras</td><td>26 gennaio</td><td>2003 A</td><td>9 marzo</td><td>2004</td></tr>
-<tr><td>Iran<sup>\*</sup></td><td>24 maggio</td><td>2005 A</td><td>24 agosto</td><td>2005</td></tr>
+<tr><td>Iran\*</td><td>24 maggio</td><td>2005 A</td><td>24 agosto</td><td>2005</td></tr>
+<tr><td>Iraq</td><td>6 aprile</td><td>2022 A</td><td>6 luglio</td><td>2022</td></tr>
 <tr><td>Irlanda</td><td>17 maggio</td><td>2018 A</td><td>17 agosto</td><td>2018</td></tr>
 <tr><td>Italia</td><td>10 luglio</td><td>2009</td><td>10 ottobre</td><td>2009</td></tr>
+<tr><td>Libano</td><td>8 ottobre</td><td>2020 A</td><td>8 gennaio</td><td>2021</td></tr>
 <tr><td>Libia</td><td>20 luglio</td><td>2001 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>31 gennaio</td><td>2017 A</td><td>30 aprile</td><td>2017</td></tr>
 <tr><td>Lituania</td><td>13 marzo</td><td>2002 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Lussemburgo</td><td>30 giugno</td><td>2005</td><td>30 settembre</td><td>2005</td></tr>
-<tr><td>Macedonia</td><td>19 aprile</td><td>2002</td><td>9 marzo</td><td>2004</td></tr>
+<tr><td>Macedonia del Nord</td><td>19 aprile</td><td>2002</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Madagascar</td><td>3 luglio</td><td>2018</td><td>3 ottobre</td><td>2018</td></tr>
 <tr><td>Mali <sup>b</sup></td><td>15 novembre</td><td>2012 A</td><td>15 novembre</td><td>2012</td></tr>
 <tr><td>Marocco</td><td>5 dicembre</td><td>2013</td><td>5 marzo</td><td>2014</td></tr>
@@ -667,7 +664,7 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Nuova Zelanda <sup>c</sup></td><td>23 ottobre</td><td>2013 A</td><td>23 gennaio</td><td>2014</td></tr>
 <tr><td>Oman</td><td>16 maggio</td><td>2011</td><td>16 agosto</td><td>2011</td></tr>
 <tr><td>Paesi Bassi</td><td>30 gennaio</td><td>2007</td><td>30 aprile</td><td>2007</td></tr>
-<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 gennaio</td><td>2011</td><td>10 gennaio</td><td>2011</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 ottobre</td><td>2010</td><td>10 gennaio</td><td>2011</td></tr>
 <tr><td>Palestina</td><td>22 marzo</td><td>2012 A</td><td>22 giugno</td><td>2012</td></tr>
 <tr><td>Panama</td><td>8 marzo</td><td>2001 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Portogallo</td><td>9 aprile</td><td>2018 A</td><td>9 luglio</td><td>2018</td></tr>
@@ -675,7 +672,7 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Perù</td><td>24 maggio</td><td>2005</td><td>24 agosto</td><td>2005</td></tr>
 <tr><td>Polonia</td><td>3 gennaio</td><td>2012 A</td><td>3 aprile</td><td>2012</td></tr>
 <tr><td>Qatar</td><td>4 settembre</td><td>2000</td><td>9 marzo</td><td>2004</td></tr>
-<tr><td>Regno Unito<sup>\*</sup></td><td>12 settembre</td><td>2017 A</td><td>12 dicembre</td><td>2017</td></tr>
+<tr><td>Regno Unito\*</td><td>12 settembre</td><td>2017 A</td><td>12 dicembre</td><td>2017</td></tr>
 <tr><td>Romania</td><td>7 agosto</td><td>2006</td><td>7 novembre</td><td>2006</td></tr>
 <tr><td>Serbia</td><td>2 settembre</td><td>1999 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Slovacchia</td><td>11 febbraio</td><td>2004</td><td>11 maggio</td><td>2004</td></tr>
@@ -687,14 +684,10 @@ Campo d’applicazione il 29 aprile 2020**[^t-2]**
 <tr><td>Tagikistan</td><td>21 febbraio</td><td>2006 A</td><td>21 maggio</td><td>2006</td></tr>
 <tr><td>Togo</td><td>24 gennaio</td><td>2017 A</td><td>24 aprile</td><td>2017</td></tr>
 <tr><td>Turkmenistan</td><td>22 gennaio</td><td>2018 A</td><td>22 aprile</td><td>2018</td></tr>
+<tr><td>Ucraina\* <sup>b</sup></td><td>30 giugno</td><td>2020 A</td><td>30 giugno</td><td>2020</td></tr>
 <tr><td>Ungheria</td><td>26 ottobre</td><td>2005</td><td>26 gennaio</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>3 gennaio</td><td>2007 A</td><td>3 aprile</td><td>2007</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Il Prot. non si applica alle Isole Féroé e alla Groenlandia.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Adesione con applicazione che da effetto immediato nel senso dell’art. 44 del Prot.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Il Prot. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): [www.unesco.org](http://www.unesco.org) &gt; Français &gt; Ressources &gt; Documents, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non si applica alle Isole Féroé e alla Groenlandia. <sup>b</sup> Adesione con applicazione che da effetto immediato nel senso dell’art. 44 del Prot. <sup>c</sup> Il Prot. non si applica a Tokelau.</td></tr>
 </table>
 
-- [tab]
-
-[^t-2]: [RU 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29)[4787](https://fedlex.data.admin.ch/eli/oc/2005/642), [2007 431](https://fedlex.data.admin.ch/eli/oc/2007/88), [2008 4125](https://fedlex.data.admin.ch/eli/oc/2008/579), [2010 845](https://fedlex.data.admin.ch/eli/oc/2010/132), [2013 279](https://fedlex.data.admin.ch/eli/oc/2013/40),[2015 1227](https://fedlex.data.admin.ch/eli/oc/2015/248), [2018 1161](https://fedlex.data.admin.ch/eli/oc/2018/171)e [2020 1577](https://fedlex.data.admin.ch/eli/oc/2020/319). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29), [4787](https://fedlex.data.admin.ch/eli/oc/2005/642); [2007 431](https://fedlex.data.admin.ch/eli/oc/2007/88); [2008 4125](https://fedlex.data.admin.ch/eli/oc/2008/579); [2010 845](https://fedlex.data.admin.ch/eli/oc/2010/132); [2013 279](https://fedlex.data.admin.ch/eli/oc/2013/40); [2015 1227](https://fedlex.data.admin.ch/eli/oc/2015/248); [2018 1161](https://fedlex.data.admin.ch/eli/oc/2018/171); [2020 1577](https://fedlex.data.admin.ch/eli/oc/2020/319), [2023 95](https://fedlex.data.admin.ch/eli/oc/2023/95). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
