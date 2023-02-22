@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Emendamento al Protocollo di Montreal sulle sostanze che impoveriscono lo strato di ozono, del 15 ottobre 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: it
-version: 2022-10-14
+version: 2023-02-23
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20221014/it/xml/fedlex-data-admin-ch-eli-cc-2018-820-20221014-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20221014/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20230223/it/xml/fedlex-data-admin-ch-eli-cc-2018-820-20230223-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20230223/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2018** 5421
 
 Adottato dalla 28<sup>a</sup> riunione delle Parti a Kigali il 15 ottobre 2016 Ratificato con strumento depositato dalla Svizzera il 7 novembre 2018 Entrato in vigore per la Svizzera il 1° gennaio 2019
 
-(Stato 14 ottobre 2022)
+(Stato 23 febbraio 2023)
 
 Traduzione
 
@@ -94,7 +94,7 @@ Dopo l’articolo 2I del Protocollo è inserito il seguente articolo:
 
 \6. Ciascuna Parte che produce delle sostanze appartenenti al gruppo I dell’Allegato C o delle sostanze dell’Allegato F assicura che, per il periodo di dodici mesi che inizia il 1º gennaio 2020, e per ogni successivo periodo di dodici mesi, le sue emissioni di sostanze appartenenti al gruppo II dell’Allegato F, generate da ciascun impianto che produce sostanze appartenenti al gruppo I dell’Allegato C o All’allegato F sono distrutte nella misura del possibile avvalendosi di tecnologie approvate dalle Parti nel corso dello stesso periodo di dodici mesi.
 
-\7. Ciascuna Parte garantisce che la distruzione delle sostanze appartenenti al gruppo II dell’Allegato F generate da impianti che producono sostanze appartenenti al gruppo I dell’Allegato C o all’Allegato F avviene unicamente ricorrendo alle tecnologie approvate dalle Parti. »
+\7. Ciascuna Parte garantisce che la distruzione delle sostanze appartenenti al gruppo II dell’Allegato F generate da impianti che producono sostanze appartenenti al gruppo I dell’Allegato C o all’Allegato F avviene unicamente ricorrendo alle tecnologie approvate dalle Parti.»
 
 Art. 3
 
@@ -205,7 +205,7 @@ All’articolo 10 del Protocollo, dopo il paragrafo 1 è aggiunto il testo segue
 
 Art. 17
 
-*All’articolo 17 del Protocollo, la parte di frase:* «2A a 2I» *è sostituita dalla se**guente:* «2A a 2J »
+*All’articolo 17 del Protocollo, la parte di frase:* «2A a 2I» *è sostituita dalla se**guente:* «2A a 2J»
 
 Allegato A
 
@@ -341,7 +341,7 @@ Ogni Parte può, in qualsiasi momento prima che il presente emendamento entri in
 
 (Seguono le firme)
 
-Campo d’applicazione il 14 ottobre 2022[^t-1]
+Campo d’applicazione il 23 febbraio 2023[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -357,9 +357,11 @@ Campo d’applicazione il 14 ottobre 2022[^t-1]
 <tr><td>Belgio</td><td>4 giugno</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Benin</td><td>19 marzo</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Bhutan</td><td>27 settembre</td><td>2019</td><td>26 dicembre</td><td>2019</td></tr>
+<tr><td>Bielorussia</td><td>3 novembre</td><td>2022</td><td>1° febbraio</td><td>2023</td></tr>
 <tr><td>Bolivia</td><td>9 ottobre</td><td>2020</td><td>7 gennaio</td><td>2021</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>26 maggio</td><td>2021</td><td>24 agosto</td><td>2021</td></tr>
 <tr><td>Botswana</td><td>19 settembre</td><td>2020</td><td>18 dicembre</td><td>2020</td></tr>
+<tr><td>Brasile</td><td>19 ottobre</td><td>2022</td><td>17 gennaio</td><td>2023</td></tr>
 <tr><td>Bulgaria</td><td>1° maggio</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Burkina Faso</td><td>26 luglio</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Burundi</td><td>26 marzo</td><td>2021</td><td>24 giugno</td><td>2021</td></tr>
@@ -370,14 +372,15 @@ Campo d’applicazione il 14 ottobre 2022[^t-1]
 <tr><td>Ceca, Repubblica</td><td>27 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Ciad</td><td>26 marzo</td><td>2019</td><td>24 giugno</td><td>2019</td></tr>
 <tr><td>Cile</td><td>19 settembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
-<tr><td>Cina<sup>\*</sup></td><td>17 giugno</td><td>2021</td><td>15 settembre</td><td>2021</td></tr>
+<tr><td>Cina\*</td><td>17 giugno</td><td>2021</td><td>15 settembre</td><td>2021</td></tr>
 <tr><td>Macao</td><td>17 giugno</td><td>2021</td><td>15 settembre</td><td>2021</td></tr>
-<tr><td>Cipro<sup>\*\*</sup></td><td>22 luglio</td><td>2019</td><td>20 ottobre</td><td>2019</td></tr>
+<tr><td>Cipro\*\*</td><td>22 luglio</td><td>2019</td><td>20 ottobre</td><td>2019</td></tr>
 <tr><td>Colombia</td><td>25 febbraio</td><td>2021</td><td>26 maggio</td><td>2021</td></tr>
 <tr><td>Comore</td><td>16 novembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>16 giugno</td><td>2022</td><td>14 settembre</td><td>2022</td></tr>
 <tr><td>Cook, Isole</td><td>22 agosto</td><td>2019</td><td>20 novembre</td><td>2019</td></tr>
 <tr><td>Corea (Nord)</td><td>21 settembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>Corea (Sud)</td><td>19 gennaio</td><td>2023</td><td>19 aprile</td><td>2023</td></tr>
 <tr><td>Costa Rica</td><td>23 maggio</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Côte d’Ivoire</td><td>29 novembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Croazia</td><td>6 dicembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
@@ -385,10 +388,12 @@ Campo d’applicazione il 14 ottobre 2022[^t-1]
 <tr><td>Danimarca <sup>a</sup></td><td>6 dicembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Ecuador</td><td>22 gennaio</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>El Salvador</td><td>13 settembre</td><td>2021</td><td>12 dicembre</td><td>2021</td></tr>
+<tr><td>Eritrea</td><td>7 febbraio</td><td>2023</td><td>8 maggio</td><td>2023</td></tr>
 <tr><td>Estonia</td><td>27 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Eswatini</td><td>24 novembre</td><td>2020</td><td>22 febbraio</td><td>2021</td></tr>
 <tr><td>Etiopia</td><td>5 luglio</td><td>2019</td><td>3 ottobre</td><td>2019</td></tr>
 <tr><td>Figi</td><td>16 giugno</td><td>2020</td><td>14 settembre</td><td>2020</td></tr>
+<tr><td>Filippine</td><td>3 novembre</td><td>2022</td><td>1° febbraio</td><td>2023</td></tr>
 <tr><td>Finlandia</td><td>14 novembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Francia</td><td>29 marzo</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Gabon</td><td>28 febbraio</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
@@ -397,11 +402,12 @@ Campo d’applicazione il 14 ottobre 2022[^t-1]
 <tr><td>Ghana</td><td>2 agosto</td><td>2019</td><td>31 ottobre</td><td>2019</td></tr>
 <tr><td>Giappone</td><td>18 dicembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Giordania</td><td>16 ottobre</td><td>2019</td><td>14 gennaio</td><td>2020</td></tr>
-<tr><td>Grecia</td><td>5 ottobre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>Grecia\*</td><td>5 ottobre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Grenada</td><td>29 maggio</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Guinea-Bissau</td><td>22 ottobre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>28 gennaio</td><td>2019</td><td>28 aprile</td><td>2019</td></tr>
 <tr><td>India</td><td>27 settembre</td><td>2021</td><td>26 dicembre</td><td>2021</td></tr>
+<tr><td>Indonesia</td><td>14 dicembre</td><td>2022</td><td>14 marzo</td><td>2023</td></tr>
 <tr><td>Irlanda</td><td>12 marzo</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Islanda</td><td>25 gennaio</td><td>2021</td><td>25 aprile</td><td>2021</td></tr>
 <tr><td>Isole Marshall</td><td>15 maggio</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
@@ -430,6 +436,7 @@ Campo d’applicazione il 14 ottobre 2022[^t-1]
 <tr><td>Montenegro</td><td>23 aprile</td><td>2019</td><td>22 luglio</td><td>2019</td></tr>
 <tr><td>Mozambico</td><td>16 gennaio</td><td>2020</td><td>15 aprile</td><td>2020</td></tr>
 <tr><td>Namibia</td><td>16 maggio</td><td>2019</td><td>14 agosto</td><td>2019</td></tr>
+<tr><td>Nauru</td><td>3 novembre</td><td>2022</td><td>1° febbraio</td><td>2023</td></tr>
 <tr><td>Nicaragua</td><td>30 settembre</td><td>2020</td><td>29 dicembre</td><td>2020</td></tr>
 <tr><td>Niger</td><td>29 agosto</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Nigeria</td><td>20 dicembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
@@ -450,6 +457,7 @@ Campo d’applicazione il 14 ottobre 2022[^t-1]
 <tr><td>Romania</td><td>1° luglio</td><td>2020</td><td>29 settembre</td><td>2020</td></tr>
 <tr><td>Ruanda</td><td>23 maggio</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Russia</td><td>3 ottobre</td><td>2020</td><td>1o gennaio</td><td>2021</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td>7 novembre</td><td>2022</td><td>5 febbraio</td><td>3023</td></tr>
 <tr><td>Samoa</td><td>23 marzo</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>San Marino</td><td>20 ottobre</td><td>2020</td><td>18 gennaio</td><td>2021</td></tr>
 <tr><td>Santa Lucia</td><td>2 novembre</td><td>2021</td><td>31 gennaio</td><td>2022</td></tr>
@@ -464,6 +472,7 @@ Campo d’applicazione il 14 ottobre 2022[^t-1]
 <tr><td>Slovacchia</td><td>16 novembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Slovenia</td><td>7 dicembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Sri Lanka</td><td>28 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>Stati Uniti</td><td>31 ottobre</td><td>2022</td><td>29 gennaio</td><td>2023</td></tr>
 <tr><td>Sudafrica</td><td>1° agosto</td><td>2019</td><td>30 ottobre</td><td>2019</td></tr>
 <tr><td>Svezia</td><td>17 novembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Svizzera</td><td>7 novembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
@@ -481,9 +490,11 @@ Campo d’applicazione il 14 ottobre 2022[^t-1]
 <tr><td>Unione europea\*</td><td>27 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Uruguay</td><td>12 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Vanuatu</td><td>20 aprile</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>Venezuela</td><td>5 dicembre</td><td>2022</td><td>5 marzo</td><td>2023</td></tr>
 <tr><td>Vietnam</td><td>27 settembre</td><td>2019</td><td>26 dicembre</td><td>2019</td></tr>
 <tr><td>Zambia</td><td>15 marzo</td><td>2021</td><td>13 giugno</td><td>2021</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le Riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): https://treaties.un.org &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> L’Emendamento al Prot. di Montreal non si applica alla Groenlandia. <sup>b</sup> L’Emendamento al Prot. di Montreal non si applica a Tokelau.</td></tr>
+<tr><td>Zimbabwe</td><td>18 ottobre</td><td>2022</td><td>16 gennaio</td><td>2023</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le Riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): https://treaties.un.org/ o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> L’Emendamento al Prot. di Montreal non si applica alla Groenlandia. <sup>b</sup> L’Emendamento al Prot. di Montreal non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-1]: [RU 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-1]: [RU 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591); [2023 96](https://fedlex.data.admin.ch/eli/oc/2023/96). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

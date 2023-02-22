@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, du 15 octobre 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: fr
-version: 2022-10-14
+version: 2023-02-23
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20221014/fr/xml/fedlex-data-admin-ch-eli-cc-2018-820-20221014-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20221014/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20230223/fr/xml/fedlex-data-admin-ch-eli-cc-2018-820-20230223-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20230223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Instrument de ratification déposé par la Suisse le 7 novembre 2018
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2019
 
-(État le 14 octobre 2022)
+(État le 23 février 2023)
 
 Texte original
 
@@ -344,7 +344,7 @@ Toute Partie peut, à tout moment avant l’entrée en vigueur du présent Amend
 
 (Suivent les signatures)
 
-Champ d’application 14 octobre 2022[^t-1]
+Champ d’application le 23 février 2023[^t-1]
 
 <table>
 <tr><th>états parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -359,12 +359,14 @@ Champ d’application 14 octobre 2022[^t-1]
 <tr><td>Autriche</td><td>27 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Bangladesh</td><td>8 juin</td><td>2020</td><td>6 septembre</td><td>2020</td></tr>
 <tr><td>Barbade</td><td>19 avril</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Bélarus</td><td>3 novembre</td><td>2022</td><td>1<sup>er</sup> février</td><td>2023</td></tr>
 <tr><td>Belgique</td><td>4 juin</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Bénin</td><td>19 mars</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Bhoutan</td><td>27 septembre</td><td>2019</td><td>26 décembre</td><td>2019</td></tr>
 <tr><td>Bolivie</td><td>9 octobre</td><td>2020</td><td>7 janvier</td><td>2021</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>26 mai</td><td>2021</td><td>24 août</td><td>2021</td></tr>
 <tr><td>Botswana</td><td>19 septembre</td><td>2020</td><td>18 décembre</td><td>2020</td></tr>
+<tr><td>Brésil</td><td>19 octobre</td><td>2022</td><td>17 janvier</td><td>2023</td></tr>
 <tr><td>Bulgarie</td><td>1<sup>er</sup> mai</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Burkina Faso</td><td>26 juillet</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Burundi</td><td>26 mars</td><td>2021</td><td>24 juin</td><td>2021</td></tr>
@@ -373,13 +375,14 @@ Champ d’application 14 octobre 2022[^t-1]
 <tr><td>Canada</td><td>3 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Cap-Vert</td><td>28 octobre</td><td>2020</td><td>26 janvier</td><td>2021</td></tr>
 <tr><td>Chili</td><td>19 septembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
-<tr><td>Chine<sup>\*</sup></td><td>17 juin</td><td>2021</td><td>15 septembre</td><td>2021</td></tr>
+<tr><td>Chine\*</td><td>17 juin</td><td>2021</td><td>15 septembre</td><td>2021</td></tr>
 <tr><td>Macao</td><td>17 juin</td><td>2021</td><td>15 septembre</td><td>2021</td></tr>
-<tr><td>Chypre<sup>\*\*</sup></td><td>22 juillet</td><td>2019</td><td>20 octobre</td><td>2019</td></tr>
+<tr><td>Chypre\*\*</td><td>22 juillet</td><td>2019</td><td>20 octobre</td><td>2019</td></tr>
 <tr><td>Colombie</td><td>25 février</td><td>2021</td><td>26 mai</td><td>2021</td></tr>
 <tr><td>Comores</td><td>16 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>16 juin</td><td>2022</td><td>14 septembre</td><td>2022</td></tr>
 <tr><td>Corée (Nord)</td><td>21 septembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Corée (Sud)</td><td>19 janvier</td><td>2023</td><td>19 avril</td><td>2023</td></tr>
 <tr><td>Costa Rica</td><td>23 mai</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Côte d’Ivoire</td><td>29 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Croatie</td><td>6 décembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -387,8 +390,10 @@ Champ d’application 14 octobre 2022[^t-1]
 <tr><td>Danemark <sup>a</sup></td><td>6 décembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>El Salvador</td><td>13 septembre</td><td>2021</td><td>12 décembre</td><td>2021</td></tr>
 <tr><td>équateur</td><td>22 janvier</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Érythrée</td><td>7 février</td><td>2023</td><td>8 mai</td><td>2023</td></tr>
 <tr><td>Estonie</td><td>27 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Eswatini</td><td>24 novembre</td><td>2020</td><td>22 février</td><td>2021</td></tr>
+<tr><td>États-Unis</td><td>31 octobre</td><td>2022</td><td>29 janvier</td><td>2023</td></tr>
 <tr><td>éthiopie</td><td>5 juillet</td><td>2019</td><td>3 octobre</td><td>2019</td></tr>
 <tr><td>Fidji</td><td>16 juin</td><td>2020</td><td>14 septembre</td><td>2020</td></tr>
 <tr><td>Finlande</td><td>14 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -396,7 +401,7 @@ Champ d’application 14 octobre 2022[^t-1]
 <tr><td>Gabon</td><td>28 février</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Gambie</td><td>5 mai</td><td>2021</td><td>3 août</td><td>2021</td></tr>
 <tr><td>Ghana</td><td>2 août</td><td>2019</td><td>31 octobre</td><td>2019</td></tr>
-<tr><td>Grèce</td><td>5 octobre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Grèce\*</td><td>5 octobre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Grenade</td><td>29 mai</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Guinée-Bissau</td><td>22 octobre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Hongrie</td><td>14 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -405,6 +410,7 @@ Champ d’application 14 octobre 2022[^t-1]
 <tr><td>Îles Marshall</td><td>15 mai</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Îles Salomon</td><td>23 mai</td><td>2022</td><td>21 août</td><td>2022</td></tr>
 <tr><td>Inde</td><td>27 septembre</td><td>2021</td><td>26 décembre</td><td>2021</td></tr>
+<tr><td>Indonésie</td><td>14 décembre</td><td>2022</td><td>14 mars</td><td>2023</td></tr>
 <tr><td>Irlande</td><td>12 mars</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Islande</td><td>25 janvier</td><td>2021</td><td>25 avril</td><td>2021</td></tr>
 <tr><td>Italie</td><td>25 mai</td><td>2022</td><td>23 août</td><td>2022</td></tr>
@@ -433,6 +439,7 @@ Champ d’application 14 octobre 2022[^t-1]
 <tr><td>Monténégro</td><td>23 avril</td><td>2019</td><td>22 juillet</td><td>2019</td></tr>
 <tr><td>Mozambique</td><td>16 janvier</td><td>2020</td><td>15 avril</td><td>2020</td></tr>
 <tr><td>Namibie</td><td>16 mai</td><td>2019</td><td>14 août</td><td>2019</td></tr>
+<tr><td>Nauru</td><td>3 novembre</td><td>2022</td><td>1<sup>er</sup> février</td><td>2023</td></tr>
 <tr><td>Nicaragua</td><td>30 septembre</td><td>2020</td><td>29 décembre</td><td>2020</td></tr>
 <tr><td>Niger</td><td>29 août</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Nigéria</td><td>20 décembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -445,6 +452,7 @@ Champ d’application 14 octobre 2022[^t-1]
 <tr><td>Paraguay</td><td>1<sup>er</sup> novembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Pays-Bas</td><td>8 février</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Pérou</td><td>7 août</td><td>2019</td><td>5 novembre</td><td>2019</td></tr>
+<tr><td>Philippines</td><td>3 novembre</td><td>2022</td><td>1<sup>er</sup> février</td><td>2023</td></tr>
 <tr><td>Pologne</td><td>7 janvier</td><td>2019</td><td>7 avril</td><td>2019</td></tr>
 <tr><td>Portugal</td><td>17 juillet</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>République dominicaine</td><td>14 avril</td><td>2021</td><td>13 juillet</td><td>2021</td></tr>
@@ -458,6 +466,7 @@ Champ d’application 14 octobre 2022[^t-1]
 <tr><td>Samoa</td><td>23 mars</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Saint-Marin</td><td>20 octobre</td><td>2020</td><td>18 janvier</td><td>2021</td></tr>
 <tr><td>Saint-Siège\*</td><td>17 juin</td><td>2020 A</td><td>15 septembre</td><td>2020</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines</td><td>7 novembre</td><td>2022</td><td>5 février</td><td>3023</td></tr>
 <tr><td>Sainte-Lucie</td><td>2 novembre</td><td>2021</td><td>31 janvier</td><td>2022</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>4 octobre</td><td>2019</td><td>2 janvier</td><td>2020</td></tr>
 <tr><td>Sénégal</td><td>31 août</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -484,9 +493,11 @@ Champ d’application 14 octobre 2022[^t-1]
 <tr><td>Union européenne\*</td><td>27 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Uruguay</td><td>12 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Vanuatu</td><td>20 avril</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Venezuela</td><td>5 décembre</td><td>2022</td><td>5 mars</td><td>2023</td></tr>
 <tr><td>Vietnam</td><td>27 septembre</td><td>2019</td><td>26 décembre</td><td>2019</td></tr>
 <tr><td>Zambie</td><td>15 mars</td><td>2021</td><td>13 juin</td><td>2021</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. \*\* Objections. Les objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): https://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Amendement au Protocole de Montréal ne s’applique pas au Groenland. <sup>b</sup> L’Amendement au Protocole de Montréal ne s’applique pas aux Tokélaou.</td></tr>
+<tr><td>Zimbabwe</td><td>18 octobre</td><td>2022</td><td>16 janvier</td><td>2023</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Amendement au Protocole de Montréal ne s’applique pas au Groenland. <sup>b</sup> L’Amendement au Protocole de Montréal ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-1]: [RO 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty
+[^t-1]: [RO 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591); [2023 96](https://fedlex.data.admin.ch/eli/oc/2023/96). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
