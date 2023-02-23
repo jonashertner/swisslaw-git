@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2023-02-15
+version: 2023-02-24
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230215-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230224/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230224-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230224/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 15 febbraio 2023) (Stato 15 febbraio 2023)
+del 4 marzo 2022 (Stato 24 febbraio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -957,7 +957,9 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 È vietato ricoprire una funzione negli organi direttivi di:
 
 - a. persone giuridiche, organizzazioni od organismi di cui al capoverso 1;
-- [tab] b. a d. ... .[^24a-3]
+- b. persone giuridiche, organizzazioni od organismi con sede nella Federazione Russa sotto controllo pubblico o di proprietà pubblica per oltre il 50 per cento, in cui la Federazione Russa e il suo Governo o la sua Banca Centrale hanno il diritto di partecipare agli utili, o con cui la Federazione Russa e il suo Governo o la sua Banca Centrale intrattengono altre relazioni economiche sostanziali;
+- c. persone giuridiche, organizzazioni od organismi con sede al di fuori della Svizzera o di uno Stato membro dello SEE e controllati per oltre il 50 per cento da una persona giuridica, un’organizzazione o un organismo di cui alla lettera b;
+- d. alle persone giuridiche, organizzazioni od organismi che agiscono per conto o sotto la direzione di una persona giuridica, di un’organizzazione o di un organismo di cui alle lettere b o c.[^24a-3]
 
 <sup>2</sup>
 

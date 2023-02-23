@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2023-02-15
+version: 2023-02-24
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230215-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230224/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230224-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230224/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 15 février 2023)
+du 4 mars 2022 (État le 24 février 2023)
 
 Le Conseil fédéral suisse,
 
@@ -954,7 +954,9 @@ Il est interdit de participer directement ou indirectement à toute transaction 
 Il est interdit d’exercer une fonction au sein des organes directeurs:
 
 - a. des personnes morales, entités et organismes visés à l’al. 1;
-- b. à d. … .[^24a-3]
+- b. des personnes morales, entités et organismes sis en Fédération de Russie, contrôlés par l’État ou détenus à plus de 50 % par l’État, dans lesquels la Fédération de Russie, son gouvernement ou sa banque centrale a le droit de participer à des bénéfices ou avec lesquels la Fédération de Russie, son gouvernement ou sa banque centrale entretient d’autres relations économiques importantes;
+- c. des personnes morales, entités et organismes sis en dehors de la Suisse ou d’un État membre de l’EEE et contrôlés à plus de 50 % par des personnes morales, entités ou organismes visés à la let. b;
+- d. des personnes morales, entités et organismes agissant au nom ou selon les instructions d’une personne morale, d’une entité ou d’un organisme visé à la let. b ou c.[^24a-3]
 
 <sup>2</sup>
 

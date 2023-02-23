@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2023-02-15
+version: 2023-02-24
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230215-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230224/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230224-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230224/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 15. Februar 2023)
+vom 4. März 2022 (Stand am 24. Februar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -956,7 +956,9 @@ Es ist verboten, unmittelbar oder mittelbar Geschäfte zu tätigen mit:
 Es ist verboten, eine Funktion auszuüben in den Leitungsgremien von:
 
 - a. juristischen Personen, Organisationen oder Einrichtungen nach Absatz 1;
-- b.–d. … .[^24a-3]
+- b. juristischen Personen, Organisationen oder Einrichtungen mit Sitz in der Russischen Föderation, die sich unter öffentlicher Kontrolle oder zu über 50 Prozent in öffentlichem Eigentum befinden, bei denen die Russische Föderation und ihre Regierung oder ihre Zentralbank das Recht auf Gewinnbeteiligung haben oder mit denen die Russische Föderation und ihre Regierung oder ihre Zentralbank andere wesentliche wirtschaftliche Beziehungen unterhalten;
+- c. juristischen Personen, Organisationen oder Einrichtungen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, die von einer juristischen Person, Organisation oder Einrichtung nach Buchstabe b zu über 50 Prozent beherrscht werden;
+- d. juristischen Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung einer juristischen Person, Organisation oder Einrichtung nach Buchstabe b oder c handeln.[^24a-3]
 
 <sup>2</sup>
 
@@ -994,7 +996,7 @@ Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausna
 
 [^24a-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^24a-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^24a-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr, Bst. b–d in Kraft ab 24. Febr. 2023 ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^24a-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr, Bst. b–d in Kraft seit 24. Febr. 2023 ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 [^24a-4]: Fassung gemäss Ziff. I der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 [^24a-5]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^24a-6]: Eingefügt durch Ziff. I der V vom 3. Aug. 2022 ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 31. Aug. 2022 um 18.00 Uhr ([AS 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
