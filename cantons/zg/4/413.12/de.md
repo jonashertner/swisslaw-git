@@ -4,13 +4,13 @@ number: "413.12"
 title: Reglement über die Organisation und den Betrieb der Bildungszentren
 short: Reglement Bildungszentren
 language: de
-version: 2018-01-01
-valid_until: 2023-02-23
-version_adopted: 2018-02-02
+version: 2023-02-24
+valid_until: 2024-02-29
+version_adopted: 2023-02-15
 adopted: 2007-12-19
 in_force: 2008-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.12"
-pdf: "https://bgs.zg.ch/api/de/versions/1789/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2415/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +19,13 @@ pdf: "https://bgs.zg.ch/api/de/versions/1789/pdf_file"
 
 (Reglement Bildungszentren)
 
-Vom 19. Dezember 2007 (Stand 1. Januar 2018)
+Vom 19. Dezember 2007 (Stand 24. Februar 2023)
 
 Die Volkswirtschaftsdirektion des Kantons Zug,
 
 gestützt auf § 2 Abs. 1 Bst. f des Einführungsgesetzes Berufsbildung vom 30. August 2001[^ingress-1] und § 6 Abs. 1 Ziff. 3 der Delegationsverordnung (DelV) vom 28. November 2017[^ingress-2],
 
-erlässt folgendes Reglement:
+beschliesst:
 
 [^ingress-1]: BGS [413.11](https://bgs.zg.ch/data/413.11/de)
 [^ingress-2]: BGS [153.3](https://bgs.zg.ch/data/153.3/de)
@@ -52,7 +52,7 @@ erlässt folgendes Reglement:
 
 <sup>1</sup> …
 
-<sup>2</sup> Das GIBZ umfasst eine Berufsfachschule, eine Berufsmaturitätsschule, eine Höhere Fachschule, einen Bereich Ergänzende Bildung sowie einen Weiterbildungsbereich.
+<sup>2</sup> Das GIBZ umfasst eine Berufsfachschule, eine Berufsmaturitätsschule, zwei Höhere Fachschulen, einen Bereich Ergänzende Bildung sowie einen Weiterbildungsbereich.
 
 <sup>3</sup> Das KBZ umfasst eine Berufsfachschule, eine Berufsmaturitätsschule, eine Höhere Fachschule sowie einen Weiterbildungsbereich.
 
