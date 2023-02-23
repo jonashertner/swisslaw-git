@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Erleichterung von Wolfsabschüssen. Teilrevision der Jagdverordnung
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Facilitare l’abbattimento di lupi. Revisione parziale dell’ordinanza sulla caccia
 document: Progetto posto in consultazione
 language: it
