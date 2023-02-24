@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Progetto di perfezionamento delle condizioni quadro per il trasporto di merci in Svizzera
 document: Progetto posto in consultazione-4
 language: it

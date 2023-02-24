@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Weiterentwicklung der Rahmenbedingungen für den Schweizer Gütertransport
 document: Vernehmlassungsvorlage
 language: de

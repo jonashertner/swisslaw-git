@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Perfectionnement des conditions-cadres du transport de marchandises en Suisse
 document: Projet mis en consultation-3
 language: fr
