@@ -3,22 +3,21 @@ canton: BL
 number: "131.9"
 title: Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 language: de
-version: 2022-01-01
-valid_until: 2023-02-24
-version_adopted: 2021-03-05
+version: 2023-02-25
+version_adopted: 2022-06-14
 adopted: 2022-06-14
 in_force: 2023-02-25
 url: "https://bl.clex.ch/app/de/texts_of_law/131.9"
-pdf: "https://bl.clex.ch/api/de/versions/3110/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3573/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 
-Vom 05.03.2021 (Stand 01.01.2022)
+Vom 14.06.2022 (Stand 25.02.2023)
 
-Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft und der Grosse Rat des Kantons Aargau
+Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft, der Grosse Rat des Kantons Aargau und das Parlament des Kantons Jura
 
 vereinbaren:
 
@@ -34,7 +33,7 @@ vereinbaren:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die IPK setzt sich aus den Präsidentinnen oder Präsidenten, den Vizepräsidentinnen oder Vizepräsidenten, den auf Ende des vergangenen Amtsjahres abgetretenen Präsidentinnen oder Präsidenten sowie je 3 ständigen Mitgliedern der 5 Kantonsparlamente zusammen.
+<sup>1</sup> Die IPK setzt sich aus den Präsidentinnen oder Präsidenten, den 1. Vizepräsidentinnen oder Vizepräsidenten sowie je 3 ständigen Mitgliedern der 6 Kantonsparlamente zusammen.
 
 <sup>2</sup> Die ständigen Mitglieder werden von den einzelnen Kantonsparlamenten gewählt.
 
@@ -50,7 +49,7 @@ vereinbaren:
 
 **Vorsitz**
 
-<sup>1</sup> Der Vorsitz der IPK wechselt alle 2 Jahre per 1. Januar in folgendem Turnus: Solothurn, Basel-Landschaft, Aargau, Basel-Stadt, Bern.
+<sup>1</sup> Der Vorsitz der IPK wechselt alle 2 Jahre per 1. Januar in folgendem Turnus: Solothurn, Basel-Landschaft, Aargau, Basel-Stadt, Jura, Bern.
 
 <sup>2</sup> Der oder die Vorsitzende der IPK präsidiert gleichzeitig den Arbeitsausschuss. Die Wahl erfolgt durch die IPK.
 
@@ -76,7 +75,7 @@ vereinbaren:
 
 <sup>1</sup> Die Landeskanzlei des Kantons Basel-Landschaft, die auch das Sekretariat der NWRK betreut, führt das Sekretariat der IPK.
 
-<sup>2</sup> Das Sekretariat hat für einen reibungslosen Informationsaustausch zwischen der NWRK und der IPK zu sorgen.
+<sup>2</sup> Das Sekretariat hat für einen reibungslosen Informationsaustausch zwischen der IPK, anderen interparlamentarischen Organisationen, insbesondere der Interkantonalen Legislativkonferenz (ILK), sowie der NWRK zu sorgen.
 
 #### § 8
 
@@ -88,12 +87,14 @@ vereinbaren:
 
 #### § 9
 
-**Inkrafttreten**
+**Sprache**
 
-<sup>1</sup> Diese Vereinbarung wird nach der Genehmigung durch alle beteiligten Kantonsparlamente wirksam.[^9-1]
+<sup>1</sup> Die Referate und Voten an den Tagungen werden simultan übersetzt. Die Einladungen zu den Tagungen und die Erklärungen werden zweisprachig abgefasst; bei anderen Dokumenten mit öffentlichem Charakter kann dies ebenfalls erfolgen.
 
-<sup>2</sup> Sie ersetzt die Vereinbarung vom 7. Dezember 1978.
+<sup>2</sup> Die IPK erstattet dem ausrichtenden Kanton die Kosten für die Simultanübersetzungen an den Tagungen bis zu einem Betrag von maximal 1 Jahresbeitrag eines Mitgliedkantons.
 
-[^9-1]: BE: Genehmigt durch den Grossen Rat am 6. September 2021; SO: genehmigt durch den Kantonsrat am 7. Juli 2021; BS: genehmigt durch den Grossen Rat am 23. Juni 2021; BL: genehmigt durch den Landrat am 24. Juni 2021; AG: genehmigt durch den Grossen Rat am 31. August 2021. Gemäss Schreiben der IPK NWCH vom 21. September 2021 auf den 1. Januar 2022 in Kraft gesetzt.
+<sup>3</sup> Die Korrespondenz des Sekretariats erfolgt in deutscher Sprache.
 
-GS 2021.086
+<sup>4</sup> Französischsprachige Mitglieder der Konferenz können sich der französischen Sprache bedienen.
+
+GS 2023.023
