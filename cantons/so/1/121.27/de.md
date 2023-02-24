@@ -4,22 +4,23 @@ number: "121.27"
 title: Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 short: IPK
 language: de
-version: 2022-01-01
-valid_until: 2023-02-24
-version_adopted: 2021-09-06
+version: 2023-02-25
+version_adopted: 2022-06-14
 adopted: 2022-06-14
 in_force: 2023-02-25
 url: "https://bgs.so.ch/app/de/texts_of_law/121.27"
-pdf: "https://bgs.so.ch/api/de/versions/5133/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 
-Vom 06.09.2021 (Stand 01.01.2022)
+(IPK)
 
-Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft und der Grosse Rat des Kantons Aargau
+Vom 14.06.2022 (Stand 25.02.2023)
+
+Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft, der Grosse Rat des Kantons Aargau und das Parlament des Kantons Jura
 
 vereinbaren:
 
@@ -35,7 +36,7 @@ vereinbaren:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die IPK setzt sich aus den Präsidentinnen oder Präsidenten, den Vizepräsidentinnen oder Vizepräsidenten, den auf Ende des vergangenen Amtsjahres abgetretenen Präsidentinnen oder Präsidenten sowie je 3 ständigen Mitgliedern der 5 Kantonsparlamente zusammen.
+<sup>1</sup> Die IPK setzt sich aus den Präsidentinnen oder Präsidenten, den 1. Vizepräsidentinnen oder Vizepräsidenten sowie je 3 ständigen Mitgliedern der 6 Kantonsparlamente zusammen.
 
 <sup>2</sup> Die ständigen Mitglieder werden von den einzelnen Kantonsparlamenten gewählt.
 
@@ -51,7 +52,7 @@ vereinbaren:
 
 **Vorsitz**
 
-<sup>1</sup> Der Vorsitz der IPK wechselt alle 2 Jahre per 1. Januar in folgendem Turnus: Solothurn, Basel-Landschaft, Aargau, Basel-Stadt, Bern.
+<sup>1</sup> Der Vorsitz der IPK wechselt alle 2 Jahre per 1. Januar in folgendem Turnus: Solothurn, Basel-Landschaft, Aargau, Basel-Stadt, Jura, Bern.
 
 <sup>2</sup> Der oder die Vorsitzende der IPK präsidiert gleichzeitig den Arbeitsausschuss. Die Wahl erfolgt durch die IPK.
 
@@ -77,7 +78,7 @@ vereinbaren:
 
 <sup>1</sup> Die Landeskanzlei des Kantons Basel-Landschaft, die auch das Sekretariat der NWRK betreut, führt das Sekretariat der IPK.
 
-<sup>2</sup> Das Sekretariat hat für einen reibungslosen Informationsaustausch zwischen der NWRK und der IPK zu sorgen.
+<sup>2</sup> Das Sekretariat hat für einen reibungslosen Informationsaustausch zwischen der IPK, anderen interparlamentarischen Organisationen, insbesondere der Interkantonalen Legislativkonferenz (ILK), sowie der NWRK zu sorgen.
 
 #### § 8
 
@@ -89,20 +90,24 @@ vereinbaren:
 
 #### § 9
 
-**Inkrafttreten**
+**Sprache**
 
-<sup>1</sup> Diese Vereinbarung wird nach der Genehmigung durch alle beteiligten Kantonsparlamente wirksam.
+<sup>1</sup> Die Referate und Voten an den Tagungen werden simultan übersetzt. Die Einladungen zu den Tagungen und die Erklärungen werden zweisprachig abgefasst; bei anderen Dokumenten mit öffentlichem Charakter kann dies ebenfalls erfolgen.
 
-<sup>2</sup> Sie ersetzt die Vereinbarung vom 7. Dezember 1978.
+<sup>2</sup> Die IPK erstattet dem ausrichtenden Kanton die Kosten für die Simultanübersetzungen an den Tagungen bis zu einem Betrag von maximal 1 Jahresbeitrag eines Mitgliedkantons.
 
-Genehmigung Kanton Solothurn mit KRB Nr. RG 0126/2021 vom 7. Juli 2021.
+<sup>3</sup> Die Korrespondenz des Sekretariats erfolgt in deutscher Sprache.
+
+<sup>4</sup> Französischsprachige Mitglieder der Konferenz können sich der französischen Sprache bedienen.
+
+Genehmigung Kanton Solothurn mit KRB Nr. RG 0097/2022 vom 8. November 2022.
 
 Dieser Beschluss unterliegt dem fakultativen Referendum.
 
-Die Referendumsfrist ist am 22. Oktober 2021 unbenutzt abgelaufen.
+Die Referendumsfrist ist am 24. Februar 2023 unbenutzt abgelaufen.
 
-Publiziert im Amtsblatt vom 29. Oktober 2021.
+Inkrafttreten am 25. Februar 2023.
 
-Inkrafttreten gemäss Schreiben der IPK NWCH vom 21. September 2021 am 1. Januar 2022.
+Publiziert im Amtsblatt vom 19. Mai 2023.
 
-GS 2021, 29
+GS 2022, 44
