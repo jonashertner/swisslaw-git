@@ -3,26 +3,25 @@ canton: BS
 number: "118.430"
 title: Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 language: de
-version: 2022-01-01
-valid_until: 2023-02-24
-version_adopted: 2021-03-05
+version: 2023-02-25
+version_adopted: 2022-06-14
 adopted: 2022-06-14
 in_force: 2023-02-25
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/118.430"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5378/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5895/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 
-Interparlamentarische Konferenz der Nordwestschweiz: Vereinbarung | Regionale Zusammenarbeit[^t-1]
+Regionale Zusammenarbeit
 
-Vom 5. März 2021 (Stand 1. Januar 2022)
+Vom 14. Juni 2022 (Stand 25. Februar 2023)
 
-Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft und der Grosse Rat des Kantons Aargau vereinbaren:
+Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft, der Grosse Rat des Kantons Aargau und das Parlament des Kantons Jura
 
-[^t-1]: Vom Grossen Rat genehmigt am 23. 6. 2021.
+vereinbaren:
 
 #### § 1
 
@@ -36,7 +35,7 @@ Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Gross
 
 **Zusammensetzung**
 
-<sup>1</sup> Die IPK setzt sich aus den Präsidentinnen oder Präsidenten, den Vizepräsidentinnen oder Vizepräsidenten, den auf Ende des vergangenen Amtsjahres abgetretenen Präsidentinnen oder Präsidenten sowie je 3 ständigen Mitgliedern der 5 Kantonsparlamente zusammen.
+<sup>1</sup> Die IPK setzt sich aus den Präsidentinnen oder Präsidenten, den 1. Vizepräsidentinnen oder Vizepräsidenten sowie je 3 ständigen Mitgliedern der 6 Kantonsparlamente zusammen.
 
 <sup>2</sup> Die ständigen Mitglieder werden von den einzelnen Kantonsparlamenten gewählt.
 
@@ -52,7 +51,7 @@ Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Gross
 
 **Vorsitz**
 
-<sup>1</sup> Der Vorsitz der IPK wechselt alle zwei Jahre per 1. Januar in folgendem Turnus: Solothurn, Basel-Landschaft, Aargau, Basel-Stadt, Bern.
+<sup>1</sup> Der Vorsitz der IPK wechselt alle 2 Jahre per 1. Januar in folgendem Turnus: Solothurn, Basel-Landschaft, Aargau, Basel-Stadt, Jura, Bern.
 
 <sup>2</sup> Der oder die Vorsitzende der IPK präsidiert gleichzeitig den Arbeitsausschuss. Die Wahl erfolgt durch die IPK.
 
@@ -78,7 +77,7 @@ Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Gross
 
 <sup>1</sup> Die Landeskanzlei des Kantons Basel-Landschaft, die auch das Sekretariat der NWRK betreut, führt das Sekretariat der IPK.
 
-<sup>2</sup> Das Sekretariat hat für einen reibungslosen Informationsaustausch zwischen der NWRK und der IPK zu sorgen.
+<sup>2</sup> Das Sekretariat hat für einen reibungslosen Informationsaustausch zwischen der IPK, anderen interparlamentarischen Organisationen, insbesondere der Interkantonalen Legislativkonferenz (ILK), sowie der NWRK zu sorgen.
 
 #### § 8
 
@@ -90,20 +89,30 @@ Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Gross
 
 #### § 9
 
-**Inkrafttreten**
+**Sprache**
 
-<sup>1</sup> Diese Vereinbarung wird nach der Genehmigung durch alle beteiligten Kantonsparlamente wirksam.[^9-1]
+<sup>1</sup> Die Referate und Voten an den Tagungen werden simultan übersetzt. Die Einladungen zu den Tagungen und die Erklärungen werden zweisprachig abgefasst; bei anderen Dokumenten mit öffentlichem Charakter kann dies ebenfalls erfolgen.
 
-<sup>2</sup> Sie ersetzt die Vereinbarung vom 7. Dezember 1978.
+<sup>2</sup> Die IPK erstattet dem ausrichtenden Kanton die Kosten für die Simultanübersetzungen an den Tagungen bis zu einem Betrag von maximal 1 Jahresbeitrag eines Mitgliedkantons.
 
-[^9-1]: BE: genehmigt durch den Grossen Rat am 6. September 2021 ; SO: genehmigt durch den Kantonsrat am 7. Juli 2021; BS: genehmigt durch den Grossen Rat am 23. Juni 2021; BL: genehmigt durch den Landrat am 24. Juni 2021; AG: genehmigt durch den Grossen Rat am 31. August 2021. Gemäss Schreiben der IPK NWCH vom 21. September 2021 auf den 1. Januar 2022 in Kraft gesetzt.
+<sup>3</sup> Die Korrespondenz des Sekretariats erfolgt in deutscher Sprache.
 
-Liestal, den 5. März 2021
+<sup>4</sup> Französischsprachige Mitglieder der Konferenz können sich der französischen Sprache bedienen.
+
+*Schlussbestimmung*
+
+\1. Diese Vereinbarung tritt am Tag nach Eintreten der Rechtskraft aller Genehmigungsbeschlüsse durch die beteiligten Kantonsparlamente in Kraft.[^footer-1]
+
+\2. Sie ersetzt die Vereinbarung vom 5. März 2021
+
+Liestal, 14. Juni 2022
 
 Im Namen des Arbeitsausschusses der Interparlamentarischen Konferenz der Nordwestschweiz
 
-Die Präsidentin: Dr. Michelle Lachenmeier
+Der Präsident: Walter Schilt
 
 Der Sekretär: Georg Schmidt
 
-KB 26.06.2021
+KB 22.10.2022
+
+[^footer-1]: BE: Genehmigt durch den Grossen Rat am [5. September 2022](https://www.gr.be.ch/de/start/geschaefte/geschaeftssuche/geschaeftsdetail.html?guid=13bfe6124e0c485789af76121f26cdae), rechtskräftig am 5. September 2022; SO: genehmigt durch den Kantonsrat am 8. November 2022, publiziert im [Amtsblatt am 25. November 2022](https://so.ch/fileadmin/internet/staatskanzlei/stk-regierungsdienste/pdf/FakRef/2022/0097-2022_krb.pdf), rechtskräftig am [24. Februar 2023](https://so.ch/staatskanzlei/politische-rechte/fakultative-referenden/archiv/archiv-2022/); BS: genehmigt durch den Grossen Rat am 19. Oktober 2022, publiziert im [Kantonsblatt am 22. Oktober 2022](https://www.kantonsblatt.ch/#!/search/publications/detail/fcec2313-498c-4293-a9dd-a011c57537f8), rechtskräftig am 3. November 2022; BL: genehmigt durch den Landrat am [29. September 2022](https://baselland.talus.ch/de/dokumente/geschaeft/e2384783990141ccbe91ee3cc69ea044-332), rechtskräftig am 29. September 2022; AG: genehmigt durch den Grossen Rat am [15. November 2022](https://www.ag.ch/grossrat/grweb/de/195/Detail%20Gesch%C3%A4ft?ProzId=5620098), rechtskräftig am 15. November 2022; JU: genehmigt durch das Parlament am [23. November 2022](https://ju.recapp.ch/viewer/default/?entryKey=6375d93cf9c506c34794a8ef), rechtskräftig am 1. Januar 2023.
