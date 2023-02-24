@@ -3,22 +3,21 @@ canton: BE
 number: 151.41-1
 title: Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 language: de
-version: 2022-01-01
-valid_until: 2023-02-24
-version_adopted: 2021-03-05
+version: 2023-02-25
+version_adopted: 2022-06-14
 adopted: 2022-06-14
 in_force: 2023-02-25
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.41-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2396/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2828/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 
-vom 05.03.2021 (Stand 01.01.2022)
+vom 14.06.2022 (Stand 25.02.2023)
 
-Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft und der Grosse Rat des Kantons Aargau
+Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft, der Grosse Rat des Kantons Aargau und das Parlament des Kantons Jura
 
 vereinbaren:
 
@@ -34,7 +33,7 @@ vereinbaren:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die IPK setzt sich aus den Präsidentinnen oder Präsidenten, den Vizepräsidentinnen oder Vizepräsidenten, den auf Ende des vergangenen Amtsjahres abgetretenen Präsidentinnen oder Präsidenten sowie je 3 ständigen Mitgliedern der 5 Kantonsparlamente zusammen.
+<sup>1</sup> Die IPK setzt sich aus den Präsidentinnen oder Präsidenten, den 1. Vizepräsidentinnen oder Vizepräsidenten sowie je 3 ständigen Mitgliedern der 6 Kantonsparlamente zusammen.
 
 <sup>2</sup> Die ständigen Mitglieder werden von den einzelnen Kantonsparlamenten gewählt.
 
@@ -50,7 +49,7 @@ vereinbaren:
 
 **Vorsitz**
 
-<sup>1</sup> Der Vorsitz der IPK wechselt alle 2 Jahre per 1. Januar in folgendem Turnus: Solothurn, Basel-Landschaft, Aargau, Basel-Stadt, Bern.
+<sup>1</sup> Der Vorsitz der IPK wechselt alle 2 Jahre per 1. Januar in folgendem Turnus: Solothurn, Basel-Landschaft, Aargau, Basel-Stadt, Jura, Bern.
 
 <sup>2</sup> Der oder die Vorsitzende der IPK präsidiert gleichzeitig den Arbeitsausschuss. Die Wahl erfolgt durch die IPK.
 
@@ -76,7 +75,7 @@ vereinbaren:
 
 <sup>1</sup> Die Landeskanzlei des Kantons Basel-Landschaft, die auch das Sekretariat der NWRK betreut, führt das Sekretariat der IPK.
 
-<sup>2</sup> Das Sekretariat hat für einen reibungslosen Informationsaustausch zwischen der NWRK und der IPK zu sorgen.
+<sup>2</sup> Das Sekretariat hat für einen reibungslosen Informationsaustausch zwischen der IPK, anderen interparlamentarischen Organisationen, insbesondere der Interkantonalen Legislativkonferenz (ILK), sowie der NWRK zu sorgen.
 
 #### Art. 8
 
@@ -88,21 +87,33 @@ vereinbaren:
 
 #### Art. 9
 
+**Sprache**
+
+<sup>1</sup> Die Referate und Voten an den Tagungen werden simultan übersetzt. Die Einladungen zu den Tagungen und die Erklärungen werden zweisprachig abgefasst; bei anderen Dokumenten mit öffentlichem Charakter kann dies ebenfalls erfolgen.
+
+<sup>2</sup> Die IPK erstattet dem ausrichtenden Kanton die Kosten für die Simultanübersetzungen an den Tagungen bis zu einem Betrag von maximal 1 Jahresbeitrag eines Mitgliedkantons.
+
+<sup>3</sup> Die Korrespondenz des Sekretariats erfolgt in deutscher Sprache.
+
+<sup>4</sup> Französischsprachige Mitglieder der Konferenz können sich der französischen Sprache bedienen.
+
+#### Art. 10
+
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung wird nach der Genehmigung[^9-1] durch alle beteiligten Kantonsparlamente wirksam.[^9-2]
+<sup>1</sup> Diese Vereinbarung tritt am Tag nach Eintreten der Rechtskraft aller Genehmigungsbeschlüsse[^10-1] durch die beteiligten Kantonsparlamente in Kraft.[^10-2]
 
-<sup>2</sup> Sie ersetzt die Vereinbarung vom 7. Dezember 1978.
+<sup>2</sup> Sie ersetzt die Vereinbarung vom 5. März 2021.
 
-[^9-1]: BS: am 23.06.2021 genehmigt; BL: am 24.06.2021 genehmigt; SO: am 07.07.2021 genehmigt; AG: am 31.08.2021 genehmigt; BE: am 06.09.2021 genehmigt
-[^9-2]: 1. Januar 2022 (Schreiben des IPK-Sekretariats vom 21.09.2021)
+[^10-1]: BE: Genehmigt durch den Grossen Rat am [5. September 2022](https://www.gr.be.ch/de/start/geschaefte/geschaeftssuche/geschaeftsdetail.html?guid=13bfe6124e0c485789af76121f26cdae), rechtskräftig am 5. September 2022; SO: genehmigt durch den Kantonsrat am 8. November 2022, publiziert im [Amtsblatt am 25. November 2022](https://so.ch/fileadmin/internet/staatskanzlei/stk-regierungsdienste/pdf/FakRef/2022/0097-2022_krb.pdf), rechtskräftig am [24. Februar 2023](https://so.ch/staatskanzlei/politische-rechte/fakultative-referenden/archiv/archiv-2022/); BS: genehmigt durch den Grossen Rat am 19. Oktober 2022, publiziert im [Kantonsblatt am 22. Oktober 22](https://www.kantonsblatt.ch/#!/search/publications/detail/fcec2313-498c-4293-a9dd-a011c57537f8), rechtskräftig am 3. November 2022; BL: genehmigt durch den Landrat am [29. September 2022](https://baselland.talus.ch/de/dokumente/geschaeft/e2384783990141ccbe91ee3cc69ea044-332), rechtskräftig am 29. September 2022; AG: genehmigt durch den Grossen Rat am [15. November 2022](https://www.ag.ch/grossrat/grweb/de/195/Detail%20Gesch%C3%A4ft?ProzId=5620098), rechtskräftig am 15. November 2022; JU: genehmigt durch das Parlament am [23. November 2022](https://ju.recapp.ch/viewer/default/?entryKey=6375d93cf9c506c34794a8ef), rechtskräftig am 1. Januar 2023.
+[^10-2]: 25. Februar 2023
 
-Liestal, 5. März 2021
+Liestal, 14. Juni 2022
 
-Im Namen des Arbeitsausschusses der Interparlamentarischen Konferenz der Nordwestschweiz
+Im Namen der Interparlamentarischen Konferenz der Nordwestschweiz
 
-Die Präsidentin: Lachenmeier
+Der Präsident: Schilt
 
 Der Sekretär: Schmidt
 
-21-093
+22-079
