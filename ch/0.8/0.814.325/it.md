@@ -3,11 +3,11 @@ sr: "0.814.325"
 title: "Protocollo del 24 giugno 1998 alla Convenzione del 1979 sull'inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo agli inquinanti organici persistenti (con Allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/664"
 language: it
-version: 2022-01-20
+version: 2023-02-26
 adopted: 1998-06-24
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20220120/it/xml/fedlex-data-admin-ch-eli-cc-2003-664-20220120-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20220120/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20230226/it/xml/fedlex-data-admin-ch-eli-cc-2003-664-20230226-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20230226/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Aarhus il 24 giugno 1998 Approvato dall’Assemblea federale il 19 settembre 2000[^t-1] Ratificato con strumenti depositati dalla Svizzera il 14 novembre 2000 Entrato in vigore per la Svizzera il 23 ottobre 2003
 
-(Stato 20 gennaio 2022)
+(Stato 26 febbraio 2023)
 
 [^t-1]: [RU 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
 
@@ -415,11 +415,11 @@ L’originale del presente Protocollo, i cui testi in lingua francese, inglese e
 
 *In fede di che,* i sottoscritti a tal fine debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Aarhus (Danimarca), il 24 giugno 1998. (Seguono le firme)
 
-Annesso I*[^t-2]*
+Annesso I[^t-2]
 
 ## Materie da eliminare
 
-[^t-2]: Aggiornato all’art. 1 F della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^t-2]: Aggiornato all’art. 1 F della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)) e all’art. 1 A della Dec. 2009/2 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 26 feb. 2023 ([RU 2022 846](https://fedlex.data.admin.ch/eli/oc/2022/846), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 Salvo diversa indicazione nel presente Protocollo, il presente annesso non si applica alle materie di seguito enumerate:
 
@@ -444,19 +444,22 @@ Salvo diversa indicazione nel presente Protocollo, il presente annesso non si ap
 <tr><td>Esaclorocicloesani (HCH) CAS: 608-73-1, tra cui lindano CAS: 58-89-9</td><td>Produzione Uso</td><td>Nessuna Nessuna condizione, eccetto per l’isomero gamma dell’HCH (lindano), utilizzato come insetticida topico a fini di sanità pubblica. Questi usi sono oggetto di una nuova valutazione a norma del presente protocollo nel 2012, oppure un anno dopo l’entrata in vigore dell’emendamento se quest’ultima data è posteriore.</td></tr>
 <tr><td>Heptaclore CAS: 76-44-8</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
 <tr><td>Mirex CAS: 2385-85-5</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Naftaleni policlorurati (PCN)</td><td>Produzione Uso</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Paraffine clorurate a catena corta<sup>e</sup></td><td>Produzione</td><td>Nessuna, salvo per la produzione per gli usi elencati nell’allegato II.</td></tr>
+<tr><td></td><td>Uso</td><td>Nessuna, salvo per gli usi elencati nell’allegato II</td></tr>
 <tr><td>Pentaclorobenzene CAS: 608-93-5</td><td>Produzione Uso</td><td>Nessuna Nessuna</td></tr>
 <tr><td>Perfluorottano sulfonato (PFOS) <sup>C</sup></td><td>Produzione</td><td>Nessuna, salvo per la produzione per gli impieghi da a) a c) sottoindicati, e da a) a e) nell’allegato II.</td></tr>
 <tr><td></td><td>Uso</td><td>Nessuna, tranne per i seguenti usi e gli usi da a) a e) nell’allegato II: a) elettroplaccatura al cromo, anodizzazione al cromo e attacco anodico, fino al 2014; b) nichelatura chimica con nichel-politetrafluoretilene, fino al 2014; c) incisione di substrati di plastica prima della loro metallizzazione, fino al 2014; d) schiume antincendio, ma solo se fabbricate o in uso prima del 18 dicembre 2009. [tab] Per quanto riguarda le schiume antincendio: i) le Parti si adoperano per eliminare entro il 2014 le schiume antincendio contenenti PFOS fabbricate o in uso prima del 18 dicembre 2009 e riferiscono sui loro progressi in merito all’organo esecutivo nel 2014; ii) sulla base di quanto riferito dalle Parti e del punto i), nel 2015 l’organo esecutivo valuta se l’uso di schiume antincendio contenenti PFOS fabbricate o in uso prima del 18 dicembre 2009 dovrà essere assoggettato a restrizioni supplementari.</td></tr>
 <tr><td>Tetrabromodifeniletere<sup>b</sup> e Pentabromodifenilet-ere <sup>b</sup></td><td>Produzione Uso</td><td>Nessuna 1. Una Parte può consentire il riciclaggio di articoli che contengono o possono contenere una di tali sostanze, e l’utilizzo e lo smaltimento finale degli articoli fabbricati a partire da materiali riciclati che contengono o possono contenere una di tali sostanze, a condizione che il riciclaggio e lo smaltimento finale sia effettuato senza rischi per l’ambiente e non comporti il recupero di una di tali sostanze ai fini del loro riutilizzo. 2. Ogni quattro anni a decorrere dal 2013 e successivamente fino a quando la condizione di cui sopra viene rimossa o espiri, l’organo esecutivo valuta i progressi che le Parti hanno compiuto per conseguire il loro obiettivo ultimo di eliminare tali sostanze contenute in articoli e riesamina la necessità di mantenere la condizione, che, in ogni caso, scade al più tardi nel 2030.</td></tr>
 <tr><td>Toxaphene CAS: 8001-35-2</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
-<tr><td colspan="3"><sup>a</sup> Per «esabromodifeniletere e eptabromodifeniletere» si intende 2,2’,4,4’,5,5’- esabromodifeniletere (BDE-153, n. CAS: 68631-49-2), 2,2’,4,4’,5,6’- esabromodifeniletere (BDE-154, n. CAS: 207122-15-4), 2,2’,3,3’,4,5’,6 eptabromodifeniletere (BDE-175, n. CAS: 446255-22-7), 2,2’,3,4,4’,5’,6- eptabromodifeniletere (BDE-183, n. CAS: 207122-16-5) ed altri esa- ed eptabromodifenileteri presenti nelle forme commerciali di ottabromodifeniletere. <sup>b</sup> Per «tetrabromodifeniletere e pentabromodifeniletere» si intende 2,2’,4,4’-tetrabromodifeniletere (BDE-47, n. CAS: 40088-47-9) e 2,2’,4,4’,5-pentabromodifeniletere (BDE-99, n. CAS: 32534-81-9) ed altri tetra- e pentabromodifenileteri presenti nelle forme commerciali di pentabromodifeniletere. <sup>с</sup> Per «perfluorottano sulfonato (PFOS)» si intendono le sostanze definite dalla formula molecolare C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, dove X = OH, sale metallico, alogenuro, ammide o altri derivati compresi i polimeri. <sup>d</sup> Per «bifenili policlorurati» si intendono i composti aromatici strutturati in modo tale che gli atomi di idrogeno della molecola di bifenile (due anelli benzenici legati da un unico legame carbonio-carbonio) possono essere sostituiti da un numero di atomi di cloro da uno a dieci.</td></tr>
+<tr><td colspan="3"><sup>a</sup> Per «esabromodifeniletere e eptabromodifeniletere» si intende 2,2’,4,4’,5,5’- esabromodifeniletere (BDE-153, n. CAS: 68631-49-2), 2,2’,4,4’,5,6’- esabromodifeniletere (BDE-154, n. CAS: 207122-15-4), 2,2’,3,3’,4,5’,6 eptabromodifeniletere (BDE-175, n. CAS: 446255-22-7), 2,2’,3,4,4’,5’,6- eptabromodifeniletere (BDE-183, n. CAS: 207122-16-5) ed altri esa- ed eptabromodifenileteri presenti nelle forme commerciali di ottabromodifeniletere. <sup>b</sup> Per «tetrabromodifeniletere e pentabromodifeniletere» si intende 2,2’,4,4’-tetrabromodifeniletere (BDE-47, n. CAS: 40088-47-9) e 2,2’,4,4’,5-pentabromodifeniletere (BDE-99, n. CAS: 32534-81-9) ed altri tetra- e pentabromodifenileteri presenti nelle forme commerciali di pentabromodifeniletere. <sup>с</sup> Per «perfluorottano sulfonato (PFOS)» si intendono le sostanze definite dalla formula molecolare C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, dove X = OH, sale metallico, alogenuro, ammide o altri derivati compresi i polimeri. <sup>d</sup> Per «bifenili policlorurati» si intendono i composti aromatici strutturati in modo tale che gli atomi di idrogeno della molecola di bifenile (due anelli benzenici legati da un unico legame carbonio-carbonio) possono essere sostituiti da un numero di atomi di cloro da uno a dieci. <sup>e</sup> Per paraffine clorurate a catena corta si intendono gli alcani clorurati con una catena di carbonio lunga da 10 a 13 atomi di carbonio e un grado di clorurazione superiore al 48 % in peso.</td></tr>
 </table>
 
-Annesso II*[^t-3]*
+Annesso II[^t-3]
 
 ## Materie la cui utilizzazione deve essere limitata
 
-[^t-3]: Aggiornato all’art. 1 G della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^t-3]: Aggiornato all’art. 1 G della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)) e all’art. 1 B della Dec. 2009/2 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 26 feb. 2023 ([RU 2022 846](https://fedlex.data.admin.ch/eli/oc/2022/846), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 Salvo indicazione contraria nel presente Protocollo, il presente annesso non si applica alle sostanze enumerate qui sotto:
 
@@ -467,11 +470,12 @@ Salvo indicazione contraria nel presente Protocollo, il presente annesso non si 
 <table>
 <tr><td>Sostanza</td><td>Dispositivi di attuazione</td><td></td></tr>
 <tr><td></td><td>Usi limitati</td><td>Condizioni</td></tr>
-<tr><td>Perfluorottano sulfonato (PFOS) <sup>a</sup></td><td>a) Rivestimenti fotoresistenti o antiriflesso utilizzati per processi fotolitografici; b) rivestimenti fotografici applicati su pellicole, carta o lastre di stampa; c) trattamenti antiappannanti per cromatura dura (VI) a carattere non decorativo ed agenti imbibenti utilizzati in sistemi controllati di elettroplaccatura; d) fluidi idraulici per l’aviazione; e) determinati dispositivi medici (ad esempio produzione di copolimero di etilene-tetrafluoretilene (ETFE) a strati e radio-opaco, dispositivi medico-diagnostici in vitro, filtri colorati CCD).</td><td>Le Parti si adoperano per eliminare questi usi non appena siano disponibili alternative adeguate. Entro il 2015, e in seguito almeno ogni quattro anni, le Parti che fanno uso di queste sostanze forniscono una relazione sui progressi compiuti per eliminarle e informazioni sui progressi stessi all’organo esecutivo. Sulla base di queste relazioni, gli usi limitati di cui sopra vengono nuovamente sottoposti a valutazione.</td></tr>
-<tr><td colspan="3"><sup>a</sup> Per perfluorottano sulfonato (PFOS) si intendono le sostanze definite dalla formula molecolare C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, dove X = OH, sale metallico, alogenuro, ammide o altri derivati compresi i polimeri.</td></tr>
+<tr><td>Paraffine clorurate a catena corta <sup>a</sup></td><td>a) Materiali ignifughi di gomma utilizzati in nastri trasportatori nell’industria mineraria; b) materiali ignifughi nei sigillanti per dighe.</td><td>Le Parti si adoperano per eliminare questi usi non appena siano disponibili alternative adeguate. Entro il 2015, e in seguito almeno ogni quattro anni, le Parti che fanno uso di queste sostanze forniscono una relazione sui progressi compiuti per eliminarle e informazioni sui progressi stessi all’organo esecutivo. Sulla base di queste relazioni, gli usi limitati di cui sopra vengono nuovamente sottoposti a valutazione.</td></tr>
+<tr><td>Perfluorottano sulfonato (PFOS) <sup>b</sup></td><td>a) Rivestimenti fotoresistenti o antiriflesso utilizzati per processi fotolitografici; b) rivestimenti fotografici applicati su pellicole, carta o lastre di stampa; c) trattamenti antiappannanti per cromatura dura (VI) a carattere non decorativo ed agenti imbibenti utilizzati in sistemi controllati di elettroplaccatura; d) fluidi idraulici per l’aviazione; e) determinati dispositivi medici (ad esempio produzione di copolimero di etilene-tetrafluoretilene (ETFE) a strati e radio-opaco, dispositivi medico-diagnostici in vitro, filtri colorati CCD).</td><td>Le Parti si adoperano per eliminare questi usi non appena siano disponibili alternative adeguate. Entro il 2015, e in seguito almeno ogni quattro anni, le Parti che fanno uso di queste sostanze forniscono una relazione sui progressi compiuti per eliminarle e informazioni sui progressi stessi all’organo esecutivo. Sulla base di queste relazioni, gli usi limitati di cui sopra vengono nuovamente sottoposti a valutazione.</td></tr>
+<tr><td colspan="3"><sup>a</sup> Per paraffine clorurate a catena corta si intendono gli alcani clorurati con una catena di carbonio lunga da 10 a 13 atomi di carbonio e un grado di clorurazione superiore al 48 % in peso. <sup>b</sup> Per perfluorottano sulfonato (PFOS) si intendono le sostanze definite dalla formula molecolare C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, dove X = OH, sale metallico, alogenuro, ammide o altri derivati compresi i polimeri.</td></tr>
 </table>
 
-Annesso III*[^t-4]*
+Annesso III[^t-4]
 
 ## Materie di cui al capoverso a) del paragrafo 5 dell’articolo 3 e anno di riferimento per l’obbligo
 
@@ -488,7 +492,7 @@ Annesso III*[^t-4]*
 <tr><td colspan="2"><sup>c</sup> Bifenili policlorurati (PCB), quali definiti nell’allegato I, se prodotti ed emessi non intenzionalmente da fonti antropiche.</td></tr>
 </table>
 
-Annesso IV*[^t-5]*
+Annesso IV[^t-5]
 
 ## Valori limite per i PCDD/PCDF provenienti da grandi fonti fisse
 
@@ -544,7 +548,7 @@ Annesso IV*[^t-5]*
 [^annexIV-lvlu1-lvlII-1]: Incluso gli inceneritori per il trattamento dei rifiuti da biomassa (che possono contenere composti organici alogenati o metalli pesanti a seguito di un trattamento protettivo o di rivestimento del legno e che comprendono in particolare i rifiuti di biomassa derivanti dall’attività di costruzione e demolizione), ma esclusi gli inceneritori che trattano solo altri rifiuti di biomassa.
 [^annexIV-lvlu1-lvlII-2]: I paesi con economie in transizione possono escludere la co-combustione di rifiuti industriali non pericolosi nei processi industriali in cui tali rifiuti sono utilizzati come combustibile aggiuntivo che contribuisce fino al 10 % dell’energia.
 
-Annesso V*[^t-6]*
+Annesso V[^t-6]
 
 ## Migliori tecnologie disponibili per lottare contro le emissioni di inquinanti organici persistenti provenienti da grandi fonti fisse
 
@@ -613,7 +617,7 @@ Il concetto di migliore tecnologia disponibile non intende stabilire una partico
 - b) le fonti termiche delle industrie metallurgiche;
 - c) la combustione di combustibili clorati nei forni.
 
-Annesso VI*[^t-7]*
+Annesso VI[^t-7]
 
 ## Termini per l’applicazione dei valori limite e delle migliori tecnologie disponibili per le nuove fonti fisse e le fonti fisse esistenti
 
@@ -639,11 +643,11 @@ Annesso VI*[^t-7]*
   - i) otto anni a decorrere dalla data di entrata in vigore degli emendamenti rilevanti per una Parte, oppure
   - ii) fino a quindici anni a decorrere dalla data di entrata in vigore dell’emendamento rilevante per una Parte, se questa è un Paese con un’economia in transizione.
 
-Annesso VII*[^t-8]*
+Annesso VII[^t-8]
 
 [^t-8]: Abrogato dalla Dec. 2009/3 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, con effetto dal 13 dic. 2010, fatto salvo il Canada e la Repubblica ceca ([RU 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Questi due stati continuano ad applicare la versione originaria ([RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
 
-Annesso VIII*[^t-9]*
+Annesso VIII[^t-9]
 
 ## Categorie di grandi fonti fisse
 
@@ -673,7 +677,7 @@ La presente lista non comprende gli impianti o parti d’impianti utilizzati per
 <tr><td>14</td><td>Processi termici nell’industria metallurgica, metodi a base di cloro.</td></tr>
 </table>
 
-Campo d’applicazione il 20 gennaio 2022**[^t-10]**
+Campo d’applicazione il 20 gennaio 2022[^t-10]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>

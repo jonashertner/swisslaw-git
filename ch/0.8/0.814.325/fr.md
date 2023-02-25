@@ -3,11 +3,11 @@ sr: "0.814.325"
 title: "Protocole du 24 juin 1998 à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux polluants organiques persistants (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/664"
 language: fr
-version: 2022-01-20
+version: 2023-02-26
 adopted: 1998-06-24
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20220120/fr/xml/fedlex-data-admin-ch-eli-cc-2003-664-20220120-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20220120/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20230226/fr/xml/fedlex-data-admin-ch-eli-cc-2003-664-20230226-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20230226/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 14 novembre 2000
 
 Entré en vigueur pour la Suisse le 23 octobre 2003
 
-(Etat le 20 janvier 2022)
+(État le 26 février 2023)
 
 [^t-1]: [RO 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
 
@@ -427,11 +427,11 @@ L’original du présent Protocole, dont les textes anglais, français et russe 
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Protocole. Fait à Aarhus (Danemark) le vingt-quatre juin mil neuf cent quatre-vingt-dix-huit. (Suivent les signatures)
 
-Annexe I*[^t-2]*
+Annexe I[^t-2]
 
 ## Substances devant être éliminées
 
-[^t-2]: Mise à jour par l’art. 1 let. F de la D 2009/1 du 18 déc. 2009, approuvée par l’Ass. féd. le 15 juin 2018, en vigueur pour la Suisse depuis le 20 janv. 2022 ([RO 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 7107](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^t-2]: Mise à jour par l’art. 1 let. F de la D 2009/1 du 18 déc. 2009, approuvée par l’Ass. féd. le 15 juin 2018 ([RO 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 7107](https://fedlex.data.admin.ch/eli/fga/2017/2160)) et l’art. 1 let. A de la D 2009/2 du 18 déc. 2009, approuvée par l’Ass. féd. le 15 juin 2018, en vigueur pour la Suisse depuis le 26 fév. 2023 ([RO 2022 846](https://fedlex.data.admin.ch/eli/oc/2022/846), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
 
 Sauf indication contraire dans le présent Protocole, la présente annexe ne s’applique pas aux substances énumérées ci-après:
 
@@ -455,6 +455,9 @@ Sauf indication contraire dans le présent Protocole, la présente annexe ne s�
 <tr><td>Hexachlorobutadiène CAS: 87-68-3</td><td>la production l’utilisation</td><td>Aucune Aucune</td></tr>
 <tr><td>Hexachlorocyclohexanes (HCH) (CAS: 608-73-1), y compris le lindane (CAS: 58-89-9)</td><td>la production l’utilisation</td><td>Aucune Aucune, sauf pour l’isomère gamma du HCH (lindane), utilisé comme insecticide topique à des fins de santé publique. Les utilisations de cette nature feront l’objet d’une réévaluation dans le cadre du Protocole en 2012 ou unе année après l’entrée en vigueur de l’amendement, si cette seconde date est postérieure à la première.</td></tr>
 <tr><td>Mirex CAS: 2385-85-5</td><td>la production l’utilisation</td><td>Aucune Aucune</td></tr>
+<tr><td>Naphtalènes polychlorés (NPC)</td><td>La production L’utilisation</td><td>Aucune Aucune</td></tr>
+<tr><td>Paraffines chlorées à chaîne courte<sup>e</sup></td><td>La production</td><td>Aucune, sauf pour la production en vue des utilisations spécifiées à l’annexe II</td></tr>
+<tr><td></td><td>L’utilisation</td><td>Aucune, sauf pour les utilisations spécifiées à l’annexe II»</td></tr>
 <tr><td>Pentachlorobenzène CAS: 608-93-5</td><td>la production l’utilisation</td><td>Aucune Aucune</td></tr>
 <tr><td>Polychlorobiphényles (PCB)<sup>b</sup></td><td>la production l’utilisation</td><td>Aucune Aucune. En ce qui concerne les PCB utilisés à la date d’entrée en vigueur, les Parties: 1. Font des efforts résolus dans le but de parvenir: a) À mettre fin à l’utilisation des PCB identifiables dans les appareils (transformateurs, condensateurs ou récipients analogues renfermant des stocks de liquides résiduels) qui contiennent un volume supérieur à 5 dm<sup>3</sup> de liquide dont la teneur en PCB est égale ou supérieure à 0,05 % dans les meilleurs délais et au plus tard le 31 décembre 2010 ou le 31 décembre 2015 pour les pays en transition sur le plan économique; b) À détruire ou décontaminer de façon écologiquement rationnelle: – Tous les PCB liquides visés à l’al. a et les autres PCB liquides, non contenus dans des appareils, dont la teneur est supérieure à 0,005 % dans les meilleurs délais et au plus tard le 31 décembre 2015 ou le 31 décembre 2020 pour les pays en transition sur le plan économique; – Tous les PCB liquides visés à l’al. a du par. 2 au plus tard le 31 décembre 2029; c) À décontaminer ou éliminer les appareils visés aux al. a des par. 1 et 2 de façon écologiquement rationnelle. 2. Les Parties s’efforcent: a) D’identifier et de retirer de la circulation les appareils (par exemple les transformateurs, condensateurs ou récipients analogues renfermant des stocks de liquides) qui contiennent un volume supérieur à 0,05 dm<sup>3</sup> de liquide dont la teneur en PCB est supérieure à 0,005 % dans les meilleurs délais et au plus tard le 31 décembre 2025; b) D’inventorier les autres articles dont la teneur en PCB dépasse 0,005 % (par exemple gaines de câbles, matériaux de calfatage et objets peints) et à les gérer conformément aux dispositions du par. 3 de l’art. 3. 3. Font en sorte que les appareils décrits aux al. a) des par. 1 et 2 ne soient ni exportés ni importés, sauf en vue d’une gestion écologiquement rationnelle des déchets. 4. Privilégient les mesures ci-après visant à réduire l’exposition et les risques en vue de réglementer l’emploi des PCB:</td></tr>
 <tr><td></td><td></td><td>a) Utilisation uniquement dans des équipements intacts et qui ne fuient pas et seulement dans des lieux où les risques de rejet dans l’environnement peuvent être réduits au minimum et où il peut y être rapidement remédié; b) Aucune utilisation dans des équipements situés dans des lieux ayant un rapport avec la production ou le traitement de denrées alimentaires ou d’aliments pour animaux. En cas d’utilisation de PCB dans des zones peuplées, y compris des écoles et des hôpitaux, adoption de toutes les mesures pouvant raisonnablement être prises pour prévenir les pannes électriques qui pourraient provoquer un incendie, et inspection à intervalles réguliers des équipements pour déceler les fuites.</td></tr>
@@ -462,14 +465,14 @@ Sauf indication contraire dans le présent Protocole, la présente annexe ne s�
 <tr><td></td><td>l’utilisation</td><td>Aucune, sauf pour les utilisations suivantes et les utilisations a) à e) indiquées à l’annexe II: a) Électrodéposition du chrome, anodisation au chrome et gravure inversée jusqu’en 2014; b) Dépôt anélectrolytique de nickel-polytétrafluoroéthylène jusqu’en 2014; c) Gravure des substrats plastiques avant la métallisation jusqu’en 2014; d) Mousses extinctrices, mais uniquement si elles ont été fabriquées ou étaient utilisées au 18 décembre 2009. [tab] S’agissant des mousses extinctrices: i) Les Parties devraient s’efforcer d’éliminer d’ici à 2014 les mousses extinctrices contenant des SPFO qui étaient fabriquées ou utilisées au 18 décembre 2009 et elles rendront compte de leurs progrès à l’Organe exécutif en 2014; ii) Sur la base des rapports des Parties et du par. i), l’Organe exécutif déterminera en 2015 si l’utilisation de mousses extinctrices contenant des SPFO qui étaient fabriquées ou utilisées au 18 décembre 2009 devrait faire l’objet de restrictions supplémentaires.</td></tr>
 <tr><td>Tétrabromodiphényléther<sup>d</sup> et pentabromodiphényléther<sup>d</sup></td><td>la production l’utilisation</td><td>Aucune 1. Une Partie peut autoriser le recyclage d’articles qui contiennent ou sont susceptibles de contenir l’une quelconque de ces substances, ainsi que l’utilisation et l’élimination finale d’articles fabriqués à partir de matériaux recyclés qui contiennent ou sont susceptibles de contenir l’une quelconque de ces substances, à condition que le recyclage et l’élimination finale soient effectués de manière écologiquement rationnelle et n’aboutissent pas à la récupération de l’une ou l’autre de ces substances en vue de leur réutilisation. 2. À partir de 2013 et tous les quatre ans par la suite jusqu’à ce que la condition ci-dessus soit supprimée ou devienne caduque de quelque autre manière, l’Organe exécutif évaluera les progrès accomplis par les Parties vers la réalisation de leur objectif ultime d’élimination de ces substances contenues dans des articles et déterminera s’il est nécessaire de maintenir cette condition, qui en tout état de cause expirera au plus tard en 2030.</td></tr>
 <tr><td>Toxaphène CAS: 8001-35-2</td><td>la production l’utilisation</td><td>Aucune Aucune</td></tr>
-<tr><td colspan="3"><sup>a</sup> Les termes «hexabromodiphényléther et heptabromodiphényléther» s’entendent des substances suivantes: 2,2’,4,4’,5,5’-hexabromodiphényléther (BDE-153, CAS n<sup>o</sup>: 68631-49-2), 2, 2’,4,4’,5,6’-hexabromodiphényléther (BDE-154, CAS n<sup>o</sup>: 207122-15-4), 2,2’,3,3’,4,5’,6-heptabromodiphényléther (BDE-175, CAS n<sup>o</sup>: 446255-22-7), 2,2’,3,4,4’,5’,6-heptabromodiphényléther (BDE-183, CAS n<sup>o</sup>: 207122-16-5) et autres hexa- et heptabromodiphényléthers présents dans l’octabromodiphényléther du commerce. <sup>b</sup> Le terme «polychlorobiphényles» s’entend des composés aromatiques dont la structure est telle que les atomes d’hydrogène de la molécule de biphényle (deux cycles benzéniques reliés par un seul lien carbone-carbone) peuvent être remplacés par un nombre d’atomes de chlore allant jusqu’à 10. <sup>c</sup> Les termes sulfonates de perfluorooctane (SPFO) s’entendent des substances définies par la formule moléculaire C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, où X = OH, sel métallique, halogénure, amide ou autres dérivés, y compris les polymères. <sup>d</sup> Les termes «tétrabromodiphényléther et pentabromodiphényléther» s’entendent des substances suivantes: 2,2’,4,4’-tétrabromodiphényléther (BDE-47, CAS n<sup>o</sup>: 40088-47-9) et 2,2’,4,4’,5-pentabromodiphényléther (BDE-99, CAS n<sup>o</sup>: 32534-81-9) et autres tètra- et pentabromodiphényléthers présents dans le pentabromodiphényléther du commerce. [tab]</td></tr>
+<tr><td colspan="3"><sup>a</sup> Les termes «hexabromodiphényléther et heptabromodiphényléther» s’entendent des substances suivantes: 2,2’,4,4’,5,5’-hexabromodiphényléther (BDE-153, CAS n<sup>o</sup>: 68631-49-2), 2, 2’,4,4’,5,6’-hexabromodiphényléther (BDE-154, CAS n<sup>o</sup>: 207122-15-4), 2,2’,3,3’,4,5’,6-heptabromodiphényléther (BDE-175, CAS n<sup>o</sup>: 446255-22-7), 2,2’,3,4,4’,5’,6-heptabromodiphényléther (BDE-183, CAS n<sup>o</sup>: 207122-16-5) et autres hexa- et heptabromodiphényléthers présents dans l’octabromodiphényléther du commerce. <sup>b</sup> Le terme «polychlorobiphényles» s’entend des composés aromatiques dont la structure est telle que les atomes d’hydrogène de la molécule de biphényle (deux cycles benzéniques reliés par un seul lien carbone-carbone) peuvent être remplacés par un nombre d’atomes de chlore allant jusqu’à 10. <sup>c</sup> Les termes sulfonates de perfluorooctane (SPFO) s’entendent des substances définies par la formule moléculaire C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, où X = OH, sel métallique, halogénure, amide ou autres dérivés, y compris les polymères. <sup>d</sup> Les termes «tétrabromodiphényléther et pentabromodiphényléther» s’entendent des substances suivantes: 2,2’,4,4’-tétrabromodiphényléther (BDE-47, CAS n<sup>o</sup>: 40088-47-9) et 2,2’,4,4’,5-pentabromodiphényléther (BDE-99, CAS n<sup>o</sup>: 32534-81-9) et autres tètra- et pentabromodiphényléthers présents dans le pentabromodiphényléther du commerce. <sup>e</sup> Le terme «paraffines chlorées à chaîne courte» s’entend de chloroalcanes ayant une longueur de chaîne carbonée comprise entre 10 et 13 atomes de carbone et un degré de chloration de plus de 48 % en poids. [tab]</td></tr>
 </table>
 
-Annexe II*[^t-3]*
+Annexe II[^t-3]
 
 ## Substances dont l’utilisation doit être limitée
 
-[^t-3]: Mise à jour par l’art. 1 let. G de la D 2009/1 du 18 déc. 2009, approuvée par l’Ass. féd. le 15 juin 2018, en vigueur pour la Suisse depuis le 20 janv. 2022 ([RO 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 7107](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^t-3]: Mise à jour par l’art. 1 let. G de la D 2009/1 du 18 déc. 2009, approuvée par l’Ass. féd. le 15 juin 2018 ([RO 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 7107](https://fedlex.data.admin.ch/eli/fga/2017/2160)) et l’art. 1 let. B de la D 2009/2 du 18 déc. 2009, approuvée par l’Ass. féd. le 15 juin 2018, en vigueur pour la Suisse depuis le 26 fév. 2023 ([RO 2022 846](https://fedlex.data.admin.ch/eli/oc/2022/846), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 7107](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 Sauf indication contraire dans le présent Protocole, la présente annexe ne s’applique pas aux substances énumérées ci-après:
 
@@ -480,11 +483,12 @@ Sauf indication contraire dans le présent Protocole, la présente annexe ne s�
 <table>
 <tr><th>Substance</th><th colspan="2">Régime d’application</th></tr>
 <tr><th></th><th>Réservée aux utilisations ci-après</th><th>Conditions</th></tr>
+<tr><td>Paraffines chlorées à chaîne courte<sup>b</sup></td><td>a) Agents ignifuges dans le caoutchouc des courroies transporteuses utilisées dans les mines; b) Matériaux d’étanchéité dans les barrages.</td><td>Les Parties devraient prendre des mesures pour éliminer ces utilisations dès que d’autres procédés appropriés sont disponibles. En 2015 au plus tard et tous les quatre ans par la suite, chaque Partie qui utilise ces substances rend compte des progrès accomplis pour les éliminer et communique des informations à ce sujet à l’Organe exécutif. Sur la base des rapports en question, ces restrictions d’utilisation seront réévaluées.</td></tr>
 <tr><td>Sulfonates de perfluorooctane (SPFO)<sup>a</sup></td><td>a) Revêtements photorésistants ou antireflets pour les procédés photolithographiques; b) Revêtements photographiques appliqués aux films, papiers ou planches d’impression; c) Antibuée pour chromage dur non décoratif (VI) et agents mouillants utilisés dans les systèmes d’électrodéposition contrôlée; d) Fluides hydrauliques pour l’aviation; e) Certains appareils médicaux (par exemple production de films de copolymère d’éthylène/tétrafluoroéthylène (ETFE) et d’ETFE radio-opaque utilisés dans certains dispositifs de diagnostic médical in vitro et filtres couleur pour capteurs CCD).</td><td>Les Parties devraient prendre des mesures pour mettre fin à ces utilisations dès que d’autres procédés appropriés sont disponibles. En 2015 au plus tard et tous les quatre ans par la suite, chaque Partie qui utilise ces substances rend compte des progrès accomplis pour les éliminer et communique des informations à ce sujet à l’Organe exécutif. Sur la base des rapports en question, ces restrictions d’utilisation seront réévaluées.</td></tr>
-<tr><td colspan="3"><sup>a</sup> Les termes sulfonates de perfluorooctane (SPFO) s’entendent des substances définies par la formule moléculaire C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X=OH), sel métallique, halogénure, amide et autres dérivés, y compris les polymères.</td></tr>
+<tr><td colspan="3"><sup>a</sup> Les termes sulfonates de perfluorooctane (SPFO) s’entendent des substances définies par la formule moléculaire C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X=OH), sel métallique, halogénure, amide et autres dérivés, y compris les polymères. <sup>b</sup> Le terme «paraffines chlorées à chaîne courte» s’entend de chloroalcanes ayant une longueur de chaîne carbonée comprise entre 10 et 13 atomes de carbone et un degré de chloration de plus de 48 % en poids.</td></tr>
 </table>
 
-Annexe III*[^t-4]*
+Annexe III[^t-4]
 
 ## Substances visées à l’al. a) du par. 5 de l’art. 3 et année de référence pour l’obligation
 
@@ -501,7 +505,7 @@ Annexe III*[^t-4]*
 <tr><td colspan="2"><sup>c</sup> Polychlorobiphényles, tels que définis à l’annexe I, lorsqu’ils sont formés et libérés involontairement à partir de sources anthropiques.</td></tr>
 </table>
 
-Annexe IV*[^t-5]*
+Annexe IV[^t-5]
 
 ## Valeurs limites pour les PCDD/PCDF provenant de grandes sources fixes
 
@@ -557,7 +561,7 @@ Annexe IV*[^t-5]*
 [^annexIV-lvlu1-lvlII-1]: Y compris les incinérateurs traitant des résidus de biomasse susceptibles de contenir des composés organiques halogénés ou des métaux lourds suite à un traitement ou à un revêtement du bois, et qui intègrent en particulier des résidus de biomasse provenant de déchets de bois de construction et de bois de démolition, mais à l’exclusion des incinérateurs traitant uniquement d’autres résidus de biomasse.
 [^annexIV-lvlu1-lvlII-2]: Les pays à économie en transition peuvent exclure la co-combustion de déchets industriels non dangereux lors de procédés industriels dans lesquels de tels déchets sont utilisés comme combustible supplémentaire contribuant jusqu’à 10 % de l’énergie.
 
-Annexe V*[^t-6]*
+Annexe V[^t-6]
 
 ## Meilleures techniques disponibles pour lutter contre les émissions de polluants organiques persistants provenant de grandes sources fixes
 
@@ -627,7 +631,7 @@ Les définitions correspondantes sont fournies à l’annexe III du présent Pro
 - b) les sources thermiques des industries métallurgiques;
 - c) la combustion de combustibles chlorés dans les fours.
 
-Annexe VI*[^t-7]*
+Annexe VI[^t-7]
 
 ## Délais d’application des valeurs limites et des meilleures techniques disponibles aux sources fixes nouvelles et aux sources fixes existantes
 
@@ -653,11 +657,11 @@ Annexe VI*[^t-7]*
   - i) huit ans après la date d’entrée en vigueur de l’amendement pertinent pour une Partie, ou
   - ii) pour une Partie qui est un pays en transition sur le plan économique, jusqu’à quinze ans après la date d’entrée en vigueur de l’amendement pertinent à l’égard de cette Partie.
 
-Annexe VII*[^t-8]*
+Annexe VII[^t-8]
 
 [^t-8]: Abrogée par la D 2009/3 du 18 déc. 2009, avec effet au 13 déc. 2010, sauf pour le Canada et la République tchèque ([RO 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Ces deux Etats continuent à appliquer la version primitive (voir [RO 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
 
-Annexe VIII*[^t-9]*
+Annexe VIII[^t-9]
 
 ## Catégories de grandes sources fixes
 
@@ -687,7 +691,7 @@ Les installations ou parties d’installations utilisées pour les activités de
 <tr><td>14</td><td>Procédés thermiques utilisés dans l’industrie métallurgique, méthodes utilisant du chlore.</td></tr>
 </table>
 
-Champ d’application le 20 janvier 2022**[^t-10]**
+Champ d’application le 20 janvier 2022[^t-10]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>

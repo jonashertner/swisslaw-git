@@ -3,11 +3,11 @@ sr: "0.814.325"
 title: "Protokoll vom 24. Juni 1998 zu dem Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung, betreffend persistente organische Schadstoffe (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/664"
 language: de
-version: 2022-01-20
+version: 2023-02-26
 adopted: 1998-06-24
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20220120/de/xml/fedlex-data-admin-ch-eli-cc-2003-664-20220120-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20220120/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20230226/de/xml/fedlex-data-admin-ch-eli-cc-2003-664-20230226-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20230226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2003** 4425; BBl **2000** 3154
 
 Abgeschlossen in Aarhus am 24. Juni 1998 Von der Bundesversammlung genehmigt am 19. September 2000[^t-1] Ratifikationsurkunde von der Schweiz hinterlegt am 14. November 2000 In Kraft getreten für die Schweiz am 23. Oktober 2003
 
-(Stand am 20. Januar 2022)
+(Stand am 26. Februar 2023)
 
 [^t-1]: [AS 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
 
@@ -416,11 +416,11 @@ Die Urschrift dieses Protokolls, dessen englischer, französischer und russische
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Aarhus (Dänemark) am 24. Juni 1998. (Es folgen die Unterschriften)
 
-Anhang I*[^t-2]*
+Anhang I[^t-2]
 
 ## Stoffe, die nicht mehr hergestellt und verwendet werden sollen
 
-[^t-2]: Bereinigt gemäss Art. 1 Bst. F des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^t-2]: Bereinigt gemäss Art. 1 Bst. F des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)) und Art. 1 Bst. A des Beschlusses 2009/2 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 26. Febr. 2023 ([AS 2022 846](https://fedlex.data.admin.ch/eli/oc/2022/846), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 Sofern in diesem Protokoll nicht anders angegeben, gilt dieser Anhang für die nachstehend aufgeführten Stoffe dann nicht, wenn sie in folgender Form vorkommen:
 
@@ -443,21 +443,24 @@ Sofern in diesem Protokoll nicht anders angegeben, gilt dieser Anhang für die n
 <tr><td>Hexachlorbutadien CAS: 87-68-3</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
 <tr><td>Hexachlorcyclohexane (HCH) CAS: 608-73-1, einschliesslich Lindan CAS: 58-89-9</td><td>Herstellung Verwendung</td><td>Keine Keine, ausgenommen die Verwendung des Gamma-Isomers von HCH (Lindan) als topisches Insektizid für Zwecke der öffentlichen Gesundheit. Diese Verwendungen werden im Rahmen dieses Protokolls im Jahr 2012 bzw. ein Jahr nach Inkrafttreten der Änderung neu bewertet, je nachdem, welcher Zeitpunkt der spätere ist.</td></tr>
 <tr><td>Hexabromdiphenylether<sup>a</sup> und Heptabromdiphenylether<sup>a</sup></td><td>Herstellung Verwendung</td><td>Keine 1. Eine Vertragspartei kann die Verwertung von Artikeln, die einen dieser Stoffe enthalten oder enthalten können, sowie die Verwendung und endgültige Entsorgung von Artikeln aus verwerteten Materialien, die einen dieser Stoffe enthalten oder enthalten können, genehmigen, sofern die Verwertung und endgültige Entsorgung auf umweltgerechte Weise erfolgen und nicht zur Rückgewinnung eines dieser Stoffe zwecks Wiederverwendung führen. 2. Ab dem Jahr 2013 und anschliessend alle vier Jahre bis zu dem Zeitpunkt, an dem die oben genannte Bedingung aufgehoben wird oder anderweitig ausser Kraft tritt, bewertet das Exekutivorgan die Fortschritte der Vertragsparteien bei der Verwirklichung der letztendlich von ihnen angestrebten Eliminierung dieser in Artikeln enthaltenen Stoffe und prüft, ob diese Bedingung, die in jedem Fall spätestens 2030 ausser Kraft tritt, weiterhin erforderlich ist.</td></tr>
+<tr><td>Kurzkettige chlorierte Paraffine<sup>b</sup></td><td>Herstellung</td><td>Keine, ausgenommen die Herstellung für die in Anhang II genannten Verwendungen</td></tr>
+<tr><td></td><td>Verwendung</td><td>Keine, ausgenommen die in Anhang II genannten Verwendungen</td></tr>
 <tr><td>Mirex CAS: 2385-85-5</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
-<tr><td>Polychlorierte Biphenyle (PCB)<sup>b</sup></td><td>Herstellung Verwendung</td><td>Keine Keine. Für PCB, die bis zum Implementierungszeitpunkt verwendet wurden, gilt Folgendes: 1. Die Vertragsparteien unternehmen entschlossene Anstrengungen, um Folgendes zu erreichen: a) die Einstellung der Verwendung identifizierbarer PCB in technischen Einrichtungen (d. h. Transformatoren, Kondensatoren oder anderen Behältern mit darin befindlichen Restflüssigkeiten), die PCB in Mengen über 5 dm<sup>3</sup> und in Konzentrationen von 0,05 % PCB oder mehr enthalten, so bald wie möglich, jedoch spätestens am 31. Dezember 2010 bzw. bei in Staaten im Übergang zur Marktwirtschaft am 31. Dezember 2015; b) die umweltgerechte Vernichtung oder Dekontamination – aller unter Buchstabe a) bezeichneten flüssigen PCB und anderer nicht in technischen Einrichtungen befindlicher flüssiger PCB mit mehr als 0,005 % PCB-Gehalt so bald als möglich, jedoch spätestens am 31. Dezember 2015 bzw. bei Staaten im Übergang zur Marktwirtschaft am 31. Dezember 2020; – aller unter Absatz 2 Buchstabe a) bezeichneten flüssigen PCB spätestens am 31. Dezember 2029; c) die umweltgerechte Dekontamination oder Entsorgung von in Absatz 1 Buchstabe a) und Absatz 2 Buchstabe a) bezeichneten technischen Einrichtungen. 2. Die Vertragsparteien bemühen sich, a) technische Einrichtungen (z. B. Transformatoren, Kondensatoren oder andere Behälter mit darin befindlichen Flüssigkeiten), die PCB in Konzentrationen von mehr als 0,005 % und in Mengen von mehr als 0,05 dm<sup>3</sup> enthalten, so bald wie möglich, jedoch spätestens am 31. Dezember 2025 zu identifizieren und aus dem Verkehr zu ziehen; b) andere Artikel, die PCB in Konzentrationen von mehr als 0,005 % enthalten (z. B. Kabelummantelungen, gehärtete Dichtungen und mit Anstrich versehene Objekte) zu identifizieren und gemäss Artikel 3 Absatz 3 zu behandeln. 3. Die Vertragsparteien stellen sicher, dass die unter Absatz 1 Buchstabe a) und Absatz 2 Buchstabe a) genannten technischen Einrichtungen ausschliesslich zum Zweck einer umweltgerechten Abfallbehandlung aus- oder eingeführt werden. 4. Die Vertragsparteien fördern folgende Massnahmen zur Verringerung der Exposition und Gefährdung, um die Verwendung von PCB zu begrenzen: a) Verwendung von PCB ausschliesslich in intakten und dichten technischen Einrichtungen und nur in Bereichen, in denen die Gefahr einer Freisetzung in die Umwelt so gering wie möglich gehalten werden kann und gegebenenfalls rasche Abhilfe möglich ist; b) keine Verwendung von PCB in technischen Einrichtungen in Bereichen, bei denen ein Zusammenhang mit der Produktion oder Verarbeitung von Lebens- oder Futtermitteln besteht. Bei einer Verwendung von PCB in bewohnten Gebieten, einschliesslich Schulen und Krankenhäusern, sind alle zumutbaren Massnahmen zu ergreifen, um elektrotechnische Störfälle zu verhindern, die zu einem Brand führen könnten, und die Einrichtungen regelmässig auf Undichtigkeiten zu überprüfen.</td></tr>
+<tr><td>Polychlorierte Biphenyle (PCB)<sup>c</sup></td><td>Herstellung Verwendung</td><td>Keine Keine. Für PCB, die bis zum Implementierungszeitpunkt verwendet wurden, gilt Folgendes: 1. Die Vertragsparteien unternehmen entschlossene Anstrengungen, um Folgendes zu erreichen: a) die Einstellung der Verwendung identifizierbarer PCB in technischen Einrichtungen (d. h. Transformatoren, Kondensatoren oder anderen Behältern mit darin befindlichen Restflüssigkeiten), die PCB in Mengen über 5 dm<sup>3</sup> und in Konzentrationen von 0,05 % PCB oder mehr enthalten, so bald wie möglich, jedoch spätestens am 31. Dezember 2010 bzw. bei in Staaten im Übergang zur Marktwirtschaft am 31. Dezember 2015; b) die umweltgerechte Vernichtung oder Dekontamination – aller unter Buchstabe a) bezeichneten flüssigen PCB und anderer nicht in technischen Einrichtungen befindlicher flüssiger PCB mit mehr als 0,005 % PCB-Gehalt so bald als möglich, jedoch spätestens am 31. Dezember 2015 bzw. bei Staaten im Übergang zur Marktwirtschaft am 31. Dezember 2020; – aller unter Absatz 2 Buchstabe a) bezeichneten flüssigen PCB spätestens am 31. Dezember 2029; c) die umweltgerechte Dekontamination oder Entsorgung von in Absatz 1 Buchstabe a) und Absatz 2 Buchstabe a) bezeichneten technischen Einrichtungen. 2. Die Vertragsparteien bemühen sich, a) technische Einrichtungen (z. B. Transformatoren, Kondensatoren oder andere Behälter mit darin befindlichen Flüssigkeiten), die PCB in Konzentrationen von mehr als 0,005 % und in Mengen von mehr als 0,05 dm<sup>3</sup> enthalten, so bald wie möglich, jedoch spätestens am 31. Dezember 2025 zu identifizieren und aus dem Verkehr zu ziehen; b) andere Artikel, die PCB in Konzentrationen von mehr als 0,005 % enthalten (z. B. Kabelummantelungen, gehärtete Dichtungen und mit Anstrich versehene Objekte) zu identifizieren und gemäss Artikel 3 Absatz 3 zu behandeln. 3. Die Vertragsparteien stellen sicher, dass die unter Absatz 1 Buchstabe a) und Absatz 2 Buchstabe a) genannten technischen Einrichtungen ausschliesslich zum Zweck einer umweltgerechten Abfallbehandlung aus- oder eingeführt werden. 4. Die Vertragsparteien fördern folgende Massnahmen zur Verringerung der Exposition und Gefährdung, um die Verwendung von PCB zu begrenzen: a) Verwendung von PCB ausschliesslich in intakten und dichten technischen Einrichtungen und nur in Bereichen, in denen die Gefahr einer Freisetzung in die Umwelt so gering wie möglich gehalten werden kann und gegebenenfalls rasche Abhilfe möglich ist; b) keine Verwendung von PCB in technischen Einrichtungen in Bereichen, bei denen ein Zusammenhang mit der Produktion oder Verarbeitung von Lebens- oder Futtermitteln besteht. Bei einer Verwendung von PCB in bewohnten Gebieten, einschliesslich Schulen und Krankenhäusern, sind alle zumutbaren Massnahmen zu ergreifen, um elektrotechnische Störfälle zu verhindern, die zu einem Brand führen könnten, und die Einrichtungen regelmässig auf Undichtigkeiten zu überprüfen.</td></tr>
 <tr><td>Pentachlorbenzol CAS: 608-93-5</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
-<tr><td>Perfluoroctansulfonat (PFOS)<sup>c</sup></td><td>Herstellung</td><td>Keine, ausgenommen die Herstellung für die nachstehend aufgeführten Verwendungen a) bis c) sowie die Verwendungen a) bis e) in Anhang II.</td></tr>
+<tr><td>Perfluoroctansulfonat (PFOS)<sup>d</sup></td><td>Herstellung</td><td>Keine, ausgenommen die Herstellung für die nachstehend aufgeführten Verwendungen a) bis c) sowie die Verwendungen a) bis e) in Anhang II.</td></tr>
 <tr><td></td><td>Verwendung</td><td>Keine, ausgenommen die nachstehend aufgeführten Verwendungen sowie die Verwendungen a) bis e) in Anhang II: a) Chromgalvanik, Chromanodisierung und Rückseitenätzung bis 2014; b) stromlose Nickel-Polytetrafluorethylen-Abscheidung bis 2014; c) Ätzen von Kunststoffsubstraten vor deren Metallisierung bis 2014; d) Löschschäume, sofern sie bis zum 18. Dezember 2009 hergestellt oder verwendet wurden. [tab] Für Löschschäume gilt Folgendes: i) Die Parteien sollten sich bemühen, bis 2014 PFOS enthaltende Löschschäume, die bis zum 18. Dezember 2009 hergestellt oder verwendet wurden, zu eliminieren, und erstatten dem Exekutivorgan im Jahr 2014 Bericht über ihre Fortschritte; ii) auf der Grundlage der Berichte der Vertragsparteien und von Ziffer i) prüft das Exekutivorgan im Jahr 2015, ob die Verwendung von PFOS enthaltenden Feuerlöschschäumen, die bis zum 18. Dezember 2009 hergestellt oder verwendet wurden, zusätzlichen Beschränkungen unterworfen werden sollte.</td></tr>
-<tr><td>Tetrabromdiphenylether<sup>d</sup> und Pentabromdiphenylether<sup>d</sup></td><td>Herstellung Verwendung</td><td>Keine 1. Eine Vertragspartei kann die Verwertung von Artikeln, die einen dieser Stoffe enthalten oder enthalten können, sowie die Verwendung und endgültige Entsorgung von Artikeln aus verwerteten Materialien, die einen dieser Stoffe enthalten oder enthalten können, genehmigen, sofern die Verwertung und endgültige Entsorgung auf umweltgerechte Weise erfolgen und nicht zur Rückgewinnung eines dieser Stoffe zwecks Wiederverwendung führe. 2. Ab dem Jahr 2013 und anschliessend alle vier Jahre bis zu dem Zeitpunkt, an dem die obengenannte Bedingung aufgehoben wird oder anderweitig ausser Kraft tritt, bewertet das Exekutivorgan die Fortschritte der Vertragsparteien bei der Verwirklichung der letztendlich von ihnen angestrebten Eliminierung dieser in Artikeln enthaltenen Stoffe und prüft, ob diese Bedingung, die in jedem Fall spätestens 2030 ausser Kraft tritt, weiterhin erforderlich ist.</td></tr>
+<tr><td>Polychlorierte Naphtaline (PCN)</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
+<tr><td>Tetrabromdiphenylether<sup>e</sup> und Pentabromdiphenylether<sup>e</sup></td><td>Herstellung Verwendung</td><td>Keine 1. Eine Vertragspartei kann die Verwertung von Artikeln, die einen dieser Stoffe enthalten oder enthalten können, sowie die Verwendung und endgültige Entsorgung von Artikeln aus verwerteten Materialien, die einen dieser Stoffe enthalten oder enthalten können, genehmigen, sofern die Verwertung und endgültige Entsorgung auf umweltgerechte Weise erfolgen und nicht zur Rückgewinnung eines dieser Stoffe zwecks Wiederverwendung führe. 2. Ab dem Jahr 2013 und anschliessend alle vier Jahre bis zu dem Zeitpunkt, an dem die obengenannte Bedingung aufgehoben wird oder anderweitig ausser Kraft tritt, bewertet das Exekutivorgan die Fortschritte der Vertragsparteien bei der Verwirklichung der letztendlich von ihnen angestrebten Eliminierung dieser in Artikeln enthaltenen Stoffe und prüft, ob diese Bedingung, die in jedem Fall spätestens 2030 ausser Kraft tritt, weiterhin erforderlich ist.</td></tr>
 <tr><td>Toxaphen CAS: 8001-35-2</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
-<tr><td colspan="3"><sup>a</sup> Der Begriff «Hexabromdiphenylether und Heptabromdiphenylether» bezeichnet 2,2',4,4',5,5'-Hexabromdiphenylether (BDE-153, CAS-Nr.: 68631-49-2), 2,2',4,4',5,6'-Hexabromdiphenylether (BDE-154, CAS-Nr.: 207122-15-4), 2,2',3,3',4,5',6 Heptabromdiphenylether (BDE-175, CAS-Nr.: 446255-22-7), 2,2',3,4,4',5',6-Heptabromdiphenylether (BDE-183, CAS-Nr.: 207122-16-5) sowie andere in handelsüblichem Octobromdiphenylether vorhandene Hexa- und Heptabromdiphenylether. <sup>b</sup> Der Begriff «polychlorierte Biphenyle» bezeichnet aromatische Verbindungen, die so beschaffen sind, dass die Wasserstoffatome des Biphenyl-Moleküls (zwei durch eine Kohlenstoff-Kohlenstoff-Einfachbindung miteinander verknüpfte Benzolringe) durch bis zu zehn Chloratome ersetzt werden können. <sup>c</sup> Der Begriff «Perfluoroctansulfonat (PFOS)» bezeichnet Stoffe mit der Summenformel C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, wobei X = OH, Metallsalz, Halogenid, Amid oder andere Derivative einschliesslich Polymere. <sup>d</sup> Der Begriff «Tetrabromdiphenylether und Pentabromdiphenylether» bezeichnet 2,2',4,4'‑Tetrabromdiphenylether (BDE-47, CAS-Nr.: 40088-47-9) und 2,2',4,4',5-Pentabromdiphenylether (BDE-99, CAS-Nr.: 32534-81-9) sowie andere in handelsüblichem Pentabromdiphenylether vorhandenen Tetra- und Pentabromdiphenylether.</td></tr>
+<tr><td colspan="3"><sup>a</sup> Der Begriff «Hexabromdiphenylether und Heptabromdiphenylether» bezeichnet 2,2',4,4',5,5'-Hexabromdiphenylether (BDE-153, CAS-Nr.: 68631-49-2), 2,2',4,4',5,6'-Hexabromdiphenylether (BDE-154, CAS-Nr.: 207122-15-4), 2,2',3,3',4,5',6 Heptabromdiphenylether (BDE-175, CAS-Nr.: 446255-22-7), 2,2',3,4,4',5',6-Heptabromdiphenylether (BDE-183, CAS-Nr.: 207122-16-5) sowie andere in handelsüblichem Octobromdiphenylether vorhandene Hexa- und Heptabromdiphenylether. <sup>b</sup> Der Begriff «kurzkettige chlorierte Paraffine» bezeichnet chlorierte Alkane mit einer Kohlenstoffkettenlänge von 10 bis 13 Kohlenstoffatomen und einem Chlorierungsgrad von mehr als 48 Gewichtsprozenten. <sup>c</sup> Der Begriff «polychlorierte Biphenyle» bezeichnet aromatische Verbindungen, die so beschaffen sind, dass die Wasserstoffatome des Biphenyl-Moleküls (zwei durch eine Kohlenstoff-Kohlenstoff-Einfachbindung miteinander verknüpfte Benzolringe) durch bis zu zehn Chloratome ersetzt werden können. <sup>d</sup> Der Begriff «Perfluoroctansulfonat (PFOS)» bezeichnet Stoffe mit der Summenformel C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, wobei X = OH, Metallsalz, Halogenid, Amid oder andere Derivative einschliesslich Polymere. <sup>e</sup> Der Begriff «Tetrabromdiphenylether und Pentabromdiphenylether» bezeichnet 2,2',4,4'‑Tetrabromdiphenylether (BDE-47, CAS-Nr.: 40088-47-9) und 2,2',4,4',5-Pentabromdiphenylether (BDE-99, CAS-Nr.: 32534-81-9) sowie andere in handelsüblichem Pentabromdiphenylether vorhandenen Tetra- und Pentabromdiphenylether.</td></tr>
 </table>
 
-Anhang II*[^t-3]*
+Anhang II[^t-3]
 
 ## Zur eingeschränkten Verwendung vorgesehene Stoffe
 
-[^t-3]: Bereinigt gemäss Art. 1 Bst. G des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^t-3]: Bereinigt gemäss Art. 1 Bst. F des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)) und Art. 1 Bst. B des Beschlusses 2009/2 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 26. Febr. 2023 ([AS 2022 846](https://fedlex.data.admin.ch/eli/oc/2022/846), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 Sofern in diesem Protokoll nicht anders angegeben, gilt dieser Anhang für die nachstehend aufgeführten Stoffe nicht, wenn sie vorkommen:
 
@@ -468,11 +471,12 @@ Sofern in diesem Protokoll nicht anders angegeben, gilt dieser Anhang für die n
 <table>
 <tr><th>Stoff</th><th colspan="2">Durchführungsbestimmungen</th></tr>
 <tr><th></th><th>Verwendungsbeschränkungen</th><th>Bedingungen</th></tr>
-<tr><td>Perfluoroctan sulfonat (PFOS)<sup>a</sup></td><td>a) Fotoresistlacke und Antireflexbeschichtungen für fotolithografische Prozesse; b) fotografische Beschichtungen von Filmen, Papieren und Druckplatten; c) Mittel zur Sprühnebelunterdrückung für nicht dekoratives Hartverchromen (VI) und Netzmittel für überwachte Galvanotechniksysteme; d) Hydraulikflüssigkeiten für die Luftfahrt; e) bestimmte medizinische Geräte (wie Herstellung von Schichten aus Ethylen-Tetrafluorethylen-Copolymer (ETFE) und von röntgendichtem ETFE, medizinische In-vitro-Diagnostika und CCD-Farbfilter).</td><td>Die Vertragsparteien sollten Massnahmen ergreifen, um diese Verwendungen zu eliminieren, sobald geeignete Alternativen zur Verfügung stehen. Spätestens im Jahr 2015 und danach alle vier Jahre erstattet jede Vertragspartei, die diese Stoffe verwendet, Bericht über die im Hinblick auf die Einstellung der Verwendung erzielten Fortschritte und übermittelt dem Exekutivorgan Informationen über diese Fortschritte. Auf der Grundlage dieser Berichte werden diese eingeschränkten Verwendungen einer Neubeurteilung unterzogen.</td></tr>
-<tr><td colspan="3"><sup>a</sup> Der Begriff Perfluoroctansulfonat (PFOS) bezeichnet Stoffe mit der Summenformel C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, wobei X = OH, Metallsalz, Halogenid, Amid und andere Derivative einschliesslich Polymere.</td></tr>
+<tr><td>Kurzkettige chlorierte Paraffine<sup>a</sup></td><td>a) Flammschutzmittel für in Förderbändern in der mineralgewinnenden Industrie verwendetes Gummi; b) Flammschutzmittel in Dichtungsmassen.</td><td>Die Vertragsparteien sollten Massnahmen ergreifen, um diese Verwendungen zu eliminieren, sobald geeignete Alternativen zur Verfügung stehen. Spätestens im Jahr 2015 und danach alle vier Jahre erstattet jede Vertragspartei, die diese Stoffe verwendet, Bericht über die bei der Eliminierung dieser Stoffe erzielten Fortschritte und übermittelt dem Exekutivorgan Informationen über diese Fortschritte. Auf der Grundlage dieser Berichte werden diese eingeschränkten Verwendungen einer Neubeurteilung unterzogen.</td></tr>
+<tr><td>Perfluoroctan sulfonat (PFOS)<sup>b</sup></td><td>a) Fotoresistlacke und Antireflexbeschichtungen für fotolithografische Prozesse; b) fotografische Beschichtungen von Filmen, Papieren und Druckplatten; c) Mittel zur Sprühnebelunterdrückung für nicht dekoratives Hartverchromen (VI) und Netzmittel für überwachte Galvanotechniksysteme; d) Hydraulikflüssigkeiten für die Luftfahrt; e) bestimmte medizinische Geräte (wie Herstellung von Schichten aus Ethylen-Tetrafluorethylen-Copolymer (ETFE) und von röntgendichtem ETFE, medizinische In-vitro-Diagnostika und CCD-Farbfilter).</td><td>Die Vertragsparteien sollten Massnahmen ergreifen, um diese Verwendungen zu eliminieren, sobald geeignete Alternativen zur Verfügung stehen. Spätestens im Jahr 2015 und danach alle vier Jahre erstattet jede Vertragspartei, die diese Stoffe verwendet, Bericht über die im Hinblick auf die Einstellung der Verwendung erzielten Fortschritte und übermittelt dem Exekutivorgan Informationen über diese Fortschritte. Auf der Grundlage dieser Berichte werden diese eingeschränkten Verwendungen einer Neubeurteilung unterzogen.</td></tr>
+<tr><td colspan="3"><sup>a</sup> Der Begriff «kurzkettige chlorierte Paraffine» bezeichnet chlorierte Alkane mit einer Kohlenstoffkettenlänge von 10 bis 13 Kohlenstoffatomen und einem Chlorierungsgrad von mehr als 48 Gewichtsprozenten. <sup>b</sup> Der Begriff Perfluoroctansulfonat (PFOS) bezeichnet Stoffe mit der Summenformel C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, wobei X = OH, Metallsalz, Halogenid, Amid und andere Derivative einschliesslich Polymere.</td></tr>
 </table>
 
-Anhang III*[^t-4]*
+Anhang III[^t-4]
 
 ## Stoffe, auf die in Artikel 3 Absatz 5 Buchstabe a Bezug genommen wird, und das Bezugsjahr für die Verpflichtung
 
@@ -487,7 +491,7 @@ Anhang III*[^t-4]*
 <tr><td colspan="2"><sup>a</sup> Polycyclische aromatische Kohlenwasserstoffe (PAK): Für die Emissionsverzeichnisse werden die folgenden vier Indikatorverbindungen verwendet: Benzo(a)pyren, Benzo(b)fluoranthen, Benzo(k)fluoranthen und Indeno(1,2,3‑cd)pyren. <sup>b</sup> Dioxine und Furane (PCDD/F): Polychlorierte Dibenzo-p-dioxine (PCDD) und polychlorierte Dibenzofurane (PCDF) sind tricyclische, aromatische Verbindungen, die durch zwei Benzolringe gebildet werden, welche bei PCDD durch zwei Sauerstoffatome und bei PCDF durch ein Sauerstoffatom verbunden sind und bei denen die Wasserstoffatome durch bis zu acht Chloratome ersetzt werden können. <sup>c</sup> polychlorierte Biphenyle nach der Definition in Anhang I, die unbeabsichtigt von anthropogenen Quellen gebildet und freigesetzt werden.</td></tr>
 </table>
 
-Anhang IV*[^t-5]*
+Anhang IV[^t-5]
 
 ## Grenzwerte für die Emission von PCDD/F aus grossen ortsfesten Quellen
 
@@ -543,7 +547,7 @@ Anhang IV*[^t-5]*
 [^annexIV-lvlu1-lvlII-1]: Einschliesslich Verbrennungsanlagen für die Entsorgung von Biomasseabfällen, die infolge einer Behandlung mit Holzschutzmitteln oder infolge einer Beschichtung halogenierte organische Verbindungen oder Schwermetalle enthalten können und zu denen insbesondere Biomasseabfälle aus Bau- und Abbruchabfällen gehören, jedoch unter Ausschluss von Verbrennungsanlagen, in denen nur andere Biomasseabfälle behandelt werden.
 [^annexIV-lvlu1-lvlII-2]: Staaten im Übergang zur Marktwirtschaft können die Mitverbrennung von nicht gefährlichen industriellen Abfällen in industriellen Prozessen ausnehmen, wenn diese Abfälle als zusätzlicher Brennstoff verwendet werden, auf den bis zu 10 % der erzeugten Energie entfallen.
 
-Anhang V*[^t-6]*
+Anhang V[^t-6]
 
 ## Beste verfügbare Techniken zur Begrenzung der Emissionen persistenter organischer Schadstoffe aus grösseren ortsfesten Quellen
 
@@ -613,7 +617,7 @@ Einschlägige Definitionen befinden sich im Anhang III dieses Protokolls.
 - b) thermische Quellen in der metallurgischen Industrie; und
 - c) die Verwendung chlorierter Brennstoffe in Ofenanlagen.
 
-Anhang VI*[^t-7]*
+Anhang VI[^t-7]
 
 ## Fristen bis zur Anwendung von Grenzwerten und besten verfügbaren Techniken für neue und bestehende ortsfeste Quellen
 
@@ -641,11 +645,11 @@ Anhang VI*[^t-7]*
 
 - [tab]
 
-Anhang VII*[^t-8]*
+Anhang VII[^t-8]
 
 [^t-8]: Aufgehoben gemäss Beschluss 2009/3 vom 18. Dez. 2010, mit Wirkung seit 13. Dez. 2010 ausser für Kanada und die Tschechische Republik ([AS 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Für diese Staaten blebit der Anhang anwendbar (seihe [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
 
-Anhang VIII*[^t-9]*
+Anhang VIII[^t-9]
 
 ## Kategorien grösserer ortsfester Quellen
 
@@ -675,7 +679,7 @@ Nicht in diesem Verzeichnis inbegriffen sind Anlagen oder Teile von Anlagen für
 <tr><td>14</td><td>Thermische Prozesse in der Metallindustrie, Verfahren auf Chlorbasis.</td></tr>
 </table>
 
-Geltungsbereich am 20. Januar 2022**[^t-10]**
+Geltungsbereich am 20. Januar 2022[^t-10]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
