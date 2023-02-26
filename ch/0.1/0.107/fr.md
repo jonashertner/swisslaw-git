@@ -3,16 +3,18 @@ sr: "0.107"
 title: "Convention du 20 novembre 1989 relative aux droits de l'enfant"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: fr
-version: 2016-10-25
+version: 2023-02-27
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20161025/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20161025-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20161025/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20230227/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20230227-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20230227/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention relative aux droits de l’enfant
+
+RO **1998** 2055; FF **1994** V 1
 
 Texte original
 
@@ -24,13 +26,13 @@ Instrument de ratification déposé par la Suisse le 24 février 1997
 
 Entrée en vigueur pour la Suisse le 26 mars 1997
 
-(Etat le 25 octobre 2016)
+(État le 27 février 2023)
 
-[^t-1]: RO **1998** 2055; FF **1994** V 1 RO **1998** 2053
+[^t-1]: [RO 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
 
 *Préambule*
 
-Les Etats parties à la présente Convention,
+Les États parties à la présente Convention,
 
 considérant que, conformément aux principes proclamés dans la Charte des Nations Unies[^ingress-1], la reconnaissance de la dignité inhérente à tous les membres de la famille humaine ainsi que l’égalité et le caractère inaliénable de leurs droits sont le fondement de la liberté, de la justice et de la paix dans le monde,
 
@@ -72,71 +74,71 @@ Au sens de la présente Convention, un enfant s’entend de tout être humain â
 
 #### Art. 2
 
-<sup>1.</sup> Les Etats parties s’engagent à respecter les droits qui sont énoncés dans la présente Convention et à les garantir à tout enfant relevant de leur juridiction, sans distinction aucune, indépendamment de toute considération de race, de couleur, de sexe, de langue, de religion, d’opinion politique ou autre de l’enfant ou de ses parents ou représentants légaux, de leur origine nationale, ethnique ou sociale, de leur situation de fortune, de leur incapacité, de leur naissance ou de toute autre situation.
+<sup>1.</sup> Les États parties s’engagent à respecter les droits qui sont énoncés dans la présente Convention et à les garantir à tout enfant relevant de leur juridiction, sans distinction aucune, indépendamment de toute considération de race, de couleur, de sexe, de langue, de religion, d’opinion politique ou autre de l’enfant ou de ses parents ou représentants légaux, de leur origine nationale, ethnique ou sociale, de leur situation de fortune, de leur incapacité, de leur naissance ou de toute autre situation.
 
-<sup>2.</sup> Les Etats parties prennent toutes les mesures appropriées pour que l’enfant soit effectivement protégé contre toutes formes de discrimination ou de sanction motivées par la situation juridique, les activités, les opinions déclarées ou les convictions de ses parents, de ses représentants légaux ou des membres de sa famille.
+<sup>2.</sup> Les États parties prennent toutes les mesures appropriées pour que l’enfant soit effectivement protégé contre toutes formes de discrimination ou de sanction motivées par la situation juridique, les activités, les opinions déclarées ou les convictions de ses parents, de ses représentants légaux ou des membres de sa famille.
 
 #### Art. 3
 
 <sup>1.</sup> Dans toutes les décisions qui concernent les enfants, qu’elles soient le fait des institutions publiques ou privées de protection sociale, des tribunaux, des autorités administratives ou des organes législatifs, l’intérêt supérieur de l’enfant doit être une considération primordiale.
 
-<sup>2.</sup> Les Etats parties s’engagent à assurer à l’enfant la protection et les soins nécessaires à son bien-être, compte tenu des droits et des devoirs de ses parents, de ses tuteurs ou des autres personnes légalement responsables de lui, et ils prennent à cette fin toutes les mesures législatives et administratives appropriées.
+<sup>2.</sup> Les États parties s’engagent à assurer à l’enfant la protection et les soins nécessaires à son bien-être, compte tenu des droits et des devoirs de ses parents, de ses tuteurs ou des autres personnes légalement responsables de lui, et ils prennent à cette fin toutes les mesures législatives et administratives appropriées.
 
-<sup>3.</sup> Les Etats parties veillent à ce que le fonctionnement des institutions, services et établissements qui ont la charge des enfants et assurent leur protection soit conforme aux normes fixées par les autorités compétentes, particulièrement dans le domaine de la sécurité et de la santé et en ce qui concerne le nombre et la compétence de leur personnel ainsi que l’existence d’un contrôle approprié.
+<sup>3.</sup> Les États parties veillent à ce que le fonctionnement des institutions, services et établissements qui ont la charge des enfants et assurent leur protection soit conforme aux normes fixées par les autorités compétentes, particulièrement dans le domaine de la sécurité et de la santé et en ce qui concerne le nombre et la compétence de leur personnel ainsi que l’existence d’un contrôle approprié.
 
 #### Art. 4
 
-Les Etats parties s’engagent à prendre toutes les mesures législatives, administratives et autres qui sont nécessaires pour mettre en œuvre les droits reconnus dans la présente Convention. Dans le cas des droits économiques, sociaux et culturels, ils prennent ces mesures dans toutes les limites des ressources dont ils disposent et, s’il y a lieu, dans le cadre de la coopération internationale.
+Les États parties s’engagent à prendre toutes les mesures législatives, administratives et autres qui sont nécessaires pour mettre en œuvre les droits reconnus dans la présente Convention. Dans le cas des droits économiques, sociaux et culturels, ils prennent ces mesures dans toutes les limites des ressources dont ils disposent et, s’il y a lieu, dans le cadre de la coopération internationale.
 
 #### Art. 5
 
-Les Etats parties respectent la responsabilité, le droit et le devoir qu’ont les parents ou, le cas échéant, les membres de la famille élargie ou de la communauté, comme prévu par la coutume locale, les tuteurs ou autres personnes légalement responsables de l’enfant, de donner à celui-ci, d’une manière qui corresponde au développement de ses capacités, l’orientation et les conseils appropriés à l’exercice des droits que lui reconnaît la présente Convention.
+Les États parties respectent la responsabilité, le droit et le devoir qu’ont les parents ou, le cas échéant, les membres de la famille élargie ou de la communauté, comme prévu par la coutume locale, les tuteurs ou autres personnes légalement responsables de l’enfant, de donner à celui-ci, d’une manière qui corresponde au développement de ses capacités, l’orientation et les conseils appropriés à l’exercice des droits que lui reconnaît la présente Convention.
 
 #### Art. 6
 
-<sup>1.</sup> Les Etats parties reconnaissent que tout enfant a un droit inhérent à la vie.
+<sup>1.</sup> Les États parties reconnaissent que tout enfant a un droit inhérent à la vie.
 
-<sup>2.</sup> Les Etats parties assurent dans toute la mesure possible la survie et le développement de l’enfant.
+<sup>2.</sup> Les États parties assurent dans toute la mesure possible la survie et le développement de l’enfant.
 
 #### Art. 7
 
 <sup>1.</sup> L’enfant est enregistré aussitôt sa naissance et a dès celle-ci le droit à un nom, le droit d’acquérir une nationalité et, dans la mesure du possible, le droit de connaître ses parents et d’être élevé par eux.
 
-<sup>2.</sup> Les Etats parties veillent à mettre ces droits en œuvre conformément à leur législation nationale et aux obligations que leur imposent les instruments internationaux applicables en la matière, en particulier dans les cas où faute de cela l’enfant se trouverait apatride.
+<sup>2.</sup> Les États parties veillent à mettre ces droits en œuvre conformément à leur législation nationale et aux obligations que leur imposent les instruments internationaux applicables en la matière, en particulier dans les cas où faute de cela l’enfant se trouverait apatride.
 
 #### Art. 8
 
-<sup>1.</sup> Les Etats parties s’engagent à respecter le droit de l’enfant de préserver son identité, y compris sa nationalité, son nom et ses relations familiales, tels qu’ils sont reconnus par loi, sans ingérence illégale.
+<sup>1.</sup> Les États parties s’engagent à respecter le droit de l’enfant de préserver son identité, y compris sa nationalité, son nom et ses relations familiales, tels qu’ils sont reconnus par loi, sans ingérence illégale.
 
-<sup>2.</sup> Si un enfant est illégalement privé des éléments constitutifs de son identité ou de certains d’entre eux, les Etats parties doivent lui accorder une assistance et une protection appropriées, pour que son identité soit rétablie aussi rapidement que possible.
+<sup>2.</sup> Si un enfant est illégalement privé des éléments constitutifs de son identité ou de certains d’entre eux, les États parties doivent lui accorder une assistance et une protection appropriées, pour que son identité soit rétablie aussi rapidement que possible.
 
 #### Art. 9
 
-<sup>1.</sup> Les Etats parties veillent à ce que l’enfant ne soit pas séparé de ses parents contre leur gré, à moins que les autorités compétentes ne décident, sous réserve de révision judiciaire et conformément aux lois et procédures applicables, que cette séparation est nécessaire dans l’intérêt supérieur de l’enfant. Une décision en ce sens peut être nécessaire dans certains cas particuliers, par exemple lorsque les parents maltraitent ou négligent l’enfant, ou lorsqu’ils vivent séparément et qu’une décision doit être prise au sujet du lieu de résidence de l’enfant.
+<sup>1.</sup> Les États parties veillent à ce que l’enfant ne soit pas séparé de ses parents contre leur gré, à moins que les autorités compétentes ne décident, sous réserve de révision judiciaire et conformément aux lois et procédures applicables, que cette séparation est nécessaire dans l’intérêt supérieur de l’enfant. Une décision en ce sens peut être nécessaire dans certains cas particuliers, par exemple lorsque les parents maltraitent ou négligent l’enfant, ou lorsqu’ils vivent séparément et qu’une décision doit être prise au sujet du lieu de résidence de l’enfant.
 
 <sup>2.</sup> Dans tous les cas prévus au paragraphe 1 du présent article, toutes les parties intéressées doivent avoir la possibilité de participer aux délibérations et de faire connaître leurs vues.
 
-<sup>3.</sup> Les Etats parties respectent le droit de l’enfant séparé de ses deux parents ou de l’un d’eux d’entretenir régulièrement des relations personnelles et des contacts directs avec ses deux parents, sauf si cela est contraire à l’intérêt supérieur de l’enfant.
+<sup>3.</sup> Les États parties respectent le droit de l’enfant séparé de ses deux parents ou de l’un d’eux d’entretenir régulièrement des relations personnelles et des contacts directs avec ses deux parents, sauf si cela est contraire à l’intérêt supérieur de l’enfant.
 
-<sup>4.</sup> Lorsque la séparation résulte de mesures prises par un Etat partie, telles que la détention, l’emprisonnement, l’exil, l’expulsion ou la mort (y compris la mort, quelle qu’en soit la cause, survenue en cours de détention) des deux parents ou de l’un d’eux, ou de l’enfant, l’Etat partie donne sur demande aux parents, à l’enfant ou, s’il y a lieu, à un autre membre de la famille les renseignements essentiels sur le lieu où se trouvent le membre ou les membres de la famille, à moins que la divulgation de ces renseignements ne soit préjudiciable au bien-être de l’enfant. Les Etats parties veillent en outre à ce que la présentation d’une telle demande n’entraîne pas en elle-même de conséquences fâcheuses pour la personne ou les personnes intéressées.
+<sup>4.</sup> Lorsque la séparation résulte de mesures prises par un État partie, telles que la détention, l’emprisonnement, l’exil, l’expulsion ou la mort (y compris la mort, quelle qu’en soit la cause, survenue en cours de détention) des deux parents ou de l’un d’eux, ou de l’enfant, l’État partie donne sur demande aux parents, à l’enfant ou, s’il y a lieu, à un autre membre de la famille les renseignements essentiels sur le lieu où se trouvent le membre ou les membres de la famille, à moins que la divulgation de ces renseignements ne soit préjudiciable au bien-être de l’enfant. Les États parties veillent en outre à ce que la présentation d’une telle demande n’entraîne pas en elle-même de conséquences fâcheuses pour la personne ou les personnes intéressées.
 
 #### Art. 10
 
-<sup>1.</sup> Conformément à l’obligation incombant aux Etats parties en vertu du par. 1 de l’art. 9, toute demande faite par un enfant ou ses parents en vue d’entrer dans un Etat partie ou de le quitter aux fins de réunification familiale est considérée par les Etats parties dans un esprit positif, avec humanité et diligence. Les Etats parties veillent en outre à ce que la présentation d’une telle demande n’entraîne pas de conséquences fâcheuses pour les auteurs de la demande et les membres de leur famille.
+<sup>1.</sup> Conformément à l’obligation incombant aux États parties en vertu du par. 1 de l’art. 9, toute demande faite par un enfant ou ses parents en vue d’entrer dans un État partie ou de le quitter aux fins de réunification familiale est considérée par les États parties dans un esprit positif, avec humanité et diligence. Les États parties veillent en outre à ce que la présentation d’une telle demande n’entraîne pas de conséquences fâcheuses pour les auteurs de la demande et les membres de leur famille.
 
-<sup>2.</sup> Un enfant dont les parents résident dans des Etats différents a le droit d’entretenir, sauf circonstances exceptionnelles, des relations personnelles et des contacts directs réguliers avec ses deux parents. A cette fin, et conformément à l’obligation incombant aux Etats parties en vertu du paragraphe 1 de l’art. 9, les Etats parties respectent le droit qu’ont l’enfant et ses parents de quitter tout pays, y compris le leur, et de revenir dans leur propre pays. Le droit de quitter tout pays ne peut faire l’objet que des restrictions prescrites par la loi qui sont nécessaires pour protéger la sécurité nationale, l’ordre public, la santé ou la moralité publiques, ou les droits et libertés d’autrui, et qui sont compatibles avec les autres droits reconnus dans la présente Convention.
+<sup>2.</sup> Un enfant dont les parents résident dans des États différents a le droit d’entretenir, sauf circonstances exceptionnelles, des relations personnelles et des contacts directs réguliers avec ses deux parents. À cette fin, et conformément à l’obligation incombant aux États parties en vertu du paragraphe 1 de l’art. 9, les États parties respectent le droit qu’ont l’enfant et ses parents de quitter tout pays, y compris le leur, et de revenir dans leur propre pays. Le droit de quitter tout pays ne peut faire l’objet que des restrictions prescrites par la loi qui sont nécessaires pour protéger la sécurité nationale, l’ordre public, la santé ou la moralité publiques, ou les droits et libertés d’autrui, et qui sont compatibles avec les autres droits reconnus dans la présente Convention.
 
 #### Art. 11
 
-<sup>1.</sup> Les Etats parties prennent des mesures pour lutter contre les déplacements et les non-retours illicites d’enfants à l’étranger.
+<sup>1.</sup> Les États parties prennent des mesures pour lutter contre les déplacements et les non-retours illicites d’enfants à l’étranger.
 
-<sup>2.</sup> A cette fin, les Etats parties favorisent la conclusion d’accords bilatéraux ou multilatéraux ou l’adhésion aux accords existants.
+<sup>2.</sup> À cette fin, les États parties favorisent la conclusion d’accords bilatéraux ou multilatéraux ou l’adhésion aux accords existants.
 
 #### Art. 12
 
-<sup>1.</sup> Les Etats parties garantissent à l’enfant qui est capable de discernement le droit d’exprimer librement son opinion sur toute question l’intéressant, les opinions de l’enfant étant dûment prises en considération eu égard à son âge et à son degré de maturité.
+<sup>1.</sup> Les États parties garantissent à l’enfant qui est capable de discernement le droit d’exprimer librement son opinion sur toute question l’intéressant, les opinions de l’enfant étant dûment prises en considération eu égard à son âge et à son degré de maturité.
 
-<sup>2.</sup> A cette fin, on donnera notamment à l’enfant la possibilité d’être entendu dans toute procédure judiciaire ou administrative l’intéressant, soit directement, soit par l’intermédiaire d’un représentant ou d’un organisme approprié, de façon compatible avec les règles de procédure de la législation nationale.
+<sup>2.</sup> À cette fin, on donnera notamment à l’enfant la possibilité d’être entendu dans toute procédure judiciaire ou administrative l’intéressant, soit directement, soit par l’intermédiaire d’un représentant ou d’un organisme approprié, de façon compatible avec les règles de procédure de la législation nationale.
 
 #### Art. 13
 
@@ -151,15 +153,15 @@ L’exercice de ce droit ne peut faire l’objet que des seules restrictions qui
 
 #### Art. 14
 
-<sup>1.</sup> Les Etats parties respectent le droit de l’enfant à la liberté de pensée, de conscience et de religion.
+<sup>1.</sup> Les États parties respectent le droit de l’enfant à la liberté de pensée, de conscience et de religion.
 
-<sup>2.</sup> Les Etats parties respectent le droit et le devoir des parents ou, le cas échéant, des représentants légaux de l’enfant, de guider celui-ci dans l’exercice du droit susmentionné d’une manière qui corresponde au développement de ses capacités.
+<sup>2.</sup> Les États parties respectent le droit et le devoir des parents ou, le cas échéant, des représentants légaux de l’enfant, de guider celui-ci dans l’exercice du droit susmentionné d’une manière qui corresponde au développement de ses capacités.
 
 <sup>3.</sup> La liberté de manifester sa religion ou ses convictions ne peut être soumise qu’aux seules restrictions qui sont prescrites par la loi et qui sont nécessaires pour préserver la sûreté publique, l’ordre public, la santé et la moralité publiques, ou les libertés et droits fondamentaux d’autrui.
 
 #### Art. 15
 
-<sup>1.</sup> Les Etats parties reconnaissent les droits de l’enfant à la liberté d’association et à la liberté de réunion pacifique.
+<sup>1.</sup> Les États parties reconnaissent les droits de l’enfant à la liberté d’association et à la liberté de réunion pacifique.
 
 <sup>2.</sup> L’exercice de ces droits ne peut faire l’objet que des seules restrictions qui sont prescrites par la loi et qui sont nécessaires dans une société démocratique, dans l’intérêt de la sécurité nationale, de la sûreté publique ou de l’ordre public, ou pour protéger la santé ou la moralité publiques, ou les droits et libertés d’autrui.
 
@@ -171,7 +173,7 @@ L’exercice de ce droit ne peut faire l’objet que des seules restrictions qui
 
 #### Art. 17
 
-Les Etats parties reconnaissent l’importance de la fonction remplie par les médias et veillent à ce que l’enfant ait accès à une information et à des matériels provenant de sources nationales et internationales diverses, notamment ceux qui visent à promouvoir son bien-être social, spirituel et moral ainsi que sa santé physique et mentale. A cette fin, les Etats parties:
+Les États parties reconnaissent l’importance de la fonction remplie par les médias et veillent à ce que l’enfant ait accès à une information et à des matériels provenant de sources nationales et internationales diverses, notamment ceux qui visent à promouvoir son bien-être social, spirituel et moral ainsi que sa santé physique et mentale. À cette fin, les États parties:
 
 - a) encouragent les médias à diffuser une information et des matériels qui présentent une utilité sociale et culturelle pour l’enfant et répondent à l’esprit de l’art. 29;
 - b) encouragent la coopération internationale en vue de produire, d’échanger et de diffuser une information et des matériels de ce type provenant de différentes sources culturelles, nationales et internationales;
@@ -181,29 +183,29 @@ Les Etats parties reconnaissent l’importance de la fonction remplie par les m�
 
 #### Art. 18
 
-<sup>1.</sup> Les Etats parties s’emploient de leur mieux à assurer la reconnaissance du principe selon lequel les deux parents ont une responsabilité commune pour ce qui est d’élever l’enfant et d’assurer son développement. La responsabilité d’élever l’enfant et d’assurer son développement incombe au premier chef aux parents ou, le cas échéant, à ses représentants légaux. Ceux-ci doivent être guidés avant tout par l’intérêt supérieur de l’enfant.
+<sup>1.</sup> Les États parties s’emploient de leur mieux à assurer la reconnaissance du principe selon lequel les deux parents ont une responsabilité commune pour ce qui est d’élever l’enfant et d’assurer son développement. La responsabilité d’élever l’enfant et d’assurer son développement incombe au premier chef aux parents ou, le cas échéant, à ses représentants légaux. Ceux-ci doivent être guidés avant tout par l’intérêt supérieur de l’enfant.
 
-<sup>2.</sup> Pour garantir et promouvoir les droits énoncés dans la présente Convention, les Etats parties accordent l’aide appropriée aux parents et aux représentants légaux de l’enfant dans l’exercice de la responsabilité qui leur incombe d’élever l’enfant et assurent la mise en place d’institutions, d’établissements et de services chargés de veiller au bien-être des enfants.
+<sup>2.</sup> Pour garantir et promouvoir les droits énoncés dans la présente Convention, les États parties accordent l’aide appropriée aux parents et aux représentants légaux de l’enfant dans l’exercice de la responsabilité qui leur incombe d’élever l’enfant et assurent la mise en place d’institutions, d’établissements et de services chargés de veiller au bien-être des enfants.
 
-<sup>3.</sup> Les Etats parties prennent toutes les mesures appropriées pour assurer aux enfants dont les parents travaillent le droit de bénéficier des services et établissements de garde d’enfants pour lesquels ils remplissent les conditions requises.
+<sup>3.</sup> Les États parties prennent toutes les mesures appropriées pour assurer aux enfants dont les parents travaillent le droit de bénéficier des services et établissements de garde d’enfants pour lesquels ils remplissent les conditions requises.
 
 #### Art. 19
 
-<sup>1.</sup> Les Etats parties prennent toutes les mesures législatives, administratives, sociales et éducatives appropriées pour protéger l’enfant contre toute forme de violence, d’atteinte ou de brutalités physiques ou mentales, d’abandon ou de négligence, de mauvais traitements ou d’exploitation, y compris la violence sexuelle, pendant qu’il est sous la garde de ses parents ou de l’un d’eux, de son ou ses représentants légaux ou de toute autre personne à qui il est confié.
+<sup>1.</sup> Les États parties prennent toutes les mesures législatives, administratives, sociales et éducatives appropriées pour protéger l’enfant contre toute forme de violence, d’atteinte ou de brutalités physiques ou mentales, d’abandon ou de négligence, de mauvais traitements ou d’exploitation, y compris la violence sexuelle, pendant qu’il est sous la garde de ses parents ou de l’un d’eux, de son ou ses représentants légaux ou de toute autre personne à qui il est confié.
 
 <sup>2.</sup> Ces mesures de protection comprendront, selon qu’il conviendra, des procédures efficaces pour l’établissement de programmes sociaux visant à fournir l’appui nécessaire à l’enfant et à ceux à qui il est confié, ainsi que pour d’autres formes de prévention, et aux fins d’identification, de rapport, de renvoi, d’enquête, de traitement et de suivi pour les cas de mauvais traitements de l’enfant décrits ci-dessus, et comprendre également, selon qu’il conviendra, des procédures d’intervention judiciaire.
 
 #### Art. 20
 
-<sup>1.</sup> Tout enfant qui est temporairement ou définitivement privé de son milieu familial, ou qui dans son propre intérêt ne peut être laissé dans ce milieu, a droit à une protection et une aide spéciales de l’Etat.
+<sup>1.</sup> Tout enfant qui est temporairement ou définitivement privé de son milieu familial, ou qui dans son propre intérêt ne peut être laissé dans ce milieu, a droit à une protection et une aide spéciales de l’État.
 
-<sup>2.</sup> Les Etats parties prévoient pour cet enfant une protection de remplacement conforme à leur législation nationale.
+<sup>2.</sup> Les États parties prévoient pour cet enfant une protection de remplacement conforme à leur législation nationale.
 
 <sup>3.</sup> Cette protection de remplacement peut notamment avoir la forme du placement dans une famille, de la kafalah de droit islamique, de l’adoption ou, en cas de nécessité, du placement dans un établissement pour enfants approprié. Dans le choix entre ces solutions, il est dûment tenu compte de la nécessité d’une certaine continuité dans l’éducation de l’enfant, ainsi que de son origine ethnique, religieuse, culturelle et linguistique.
 
 #### Art. 21
 
-Les Etats parties qui admettent et/ou autorisent l’adoption s’assurent que l’intérêt supérieur de l’enfant est la considération primordiale en la matière, et:
+Les États parties qui admettent et/ou autorisent l’adoption s’assurent que l’intérêt supérieur de l’enfant est la considération primordiale en la matière, et:
 
 - a) veillent à ce que l’adoption d’un enfant ne soit autorisée que par les autorités compétentes, qui vérifient, conformément à la loi et aux procédures applicables et sur la base de tous les renseignements fiables relatifs au cas considéré, que l’adoption peut avoir lieu eu égard à la situation de l’enfant par rapport à ses père et mère, parents et représentants légaux et que, le cas échéant, les personnes intéressées ont donné leur consentement à l’adoption en connaissance de cause, après s’être entourées des avis nécessaires;
 - b) reconnaissent que l’adoption à l’étranger peut être envisagée comme un autre moyen d’assurer les soins nécessaires à l’enfant, si celui-ci ne peut, dans son pays d’origine, être placé dans une famille nourricière ou adoptive ou être convenablement élevé;
@@ -213,27 +215,27 @@ Les Etats parties qui admettent et/ou autorisent l’adoption s’assurent que l
 
 #### Art. 22
 
-<sup>1.</sup> Les Etats parties prennent les mesures appropriées pour qu’un enfant qui cherche à obtenir le statut de réfugié ou qui est considéré comme réfugié en vertu des règles et procédures du droit international ou national applicable, qu’il soit seul ou accompagné de ses père et mère ou de toute autre personne, bénéficie de la protection et de l’assistance humanitaire voulues pour lui permettre de jouir des droits que lui reconnaissent la présente Convention et les autres instruments internationaux relatifs aux droits de l’homme ou de caractère humanitaire auxquels lesdits Etats sont parties.
+<sup>1.</sup> Les États parties prennent les mesures appropriées pour qu’un enfant qui cherche à obtenir le statut de réfugié ou qui est considéré comme réfugié en vertu des règles et procédures du droit international ou national applicable, qu’il soit seul ou accompagné de ses père et mère ou de toute autre personne, bénéficie de la protection et de l’assistance humanitaire voulues pour lui permettre de jouir des droits que lui reconnaissent la présente Convention et les autres instruments internationaux relatifs aux droits de l’homme ou de caractère humanitaire auxquels lesdits États sont parties.
 
-<sup>2.</sup> A cette fin, les Etats parties collaborent, selon qu’ils le jugent nécessaire, à tous les efforts faits par l’Organisation des Nations Unies et les autres organisations intergouvernementales ou non gouvernementales compétentes collaborant avec l’Organisation des Nations Unies pour protéger et aider les enfants qui se trouvent en pareille situation et pour rechercher les père et mère ou autres membres de la famille de tout enfant réfugié en vue d’obtenir les renseignements nécessaires pour le réunir à sa famille. Lorsque ni le père, ni la mère, ni aucun autre membre de la famille ne peut être retrouvé, l’enfant se voit accorder, selon les principes énoncés dans la présente Convention, la même protection que tout autre enfant définitivement ou temporairement privé de son milieu familial pour quelque raison que ce soit.
+<sup>2.</sup> À cette fin, les États parties collaborent, selon qu’ils le jugent nécessaire, à tous les efforts faits par l’Organisation des Nations Unies et les autres organisations intergouvernementales ou non gouvernementales compétentes collaborant avec l’Organisation des Nations Unies pour protéger et aider les enfants qui se trouvent en pareille situation et pour rechercher les père et mère ou autres membres de la famille de tout enfant réfugié en vue d’obtenir les renseignements nécessaires pour le réunir à sa famille. Lorsque ni le père, ni la mère, ni aucun autre membre de la famille ne peut être retrouvé, l’enfant se voit accorder, selon les principes énoncés dans la présente Convention, la même protection que tout autre enfant définitivement ou temporairement privé de son milieu familial pour quelque raison que ce soit.
 
 #### Art. 23
 
-<sup>1.</sup> Les Etats parties reconnaissent que les enfants mentalement ou physiquement handicapés doivent mener une vie pleine et décente, dans des conditions qui garantissent leur dignité, favorisent leur autonomie et facilitent leur participation active à la vie de la collectivité.
+<sup>1.</sup> Les États parties reconnaissent que les enfants mentalement ou physiquement handicapés doivent mener une vie pleine et décente, dans des conditions qui garantissent leur dignité, favorisent leur autonomie et facilitent leur participation active à la vie de la collectivité.
 
-<sup>2.</sup> Les Etats parties reconnaissent le droit des enfants handicapés de bénéficier de soins spéciaux et encouragent et assurent, dans la mesure des ressources disponibles, l’octroi, sur demande, aux enfants handicapés remplissant les conditions requises et à ceux qui en ont la charge, d’une aide adaptée à l’état de l’enfant et à la situation de ses parents ou de ceux à qui il est confié.
+<sup>2.</sup> Les États parties reconnaissent le droit des enfants handicapés de bénéficier de soins spéciaux et encouragent et assurent, dans la mesure des ressources disponibles, l’octroi, sur demande, aux enfants handicapés remplissant les conditions requises et à ceux qui en ont la charge, d’une aide adaptée à l’état de l’enfant et à la situation de ses parents ou de ceux à qui il est confié.
 
 <sup>3.</sup> Eu égard aux besoins particuliers des enfants handicapés, l’aide fournie conformément au par. 2 du présent article est gratuite chaque fois qu’il est possible, compte tenu des ressources financières de leurs parents ou de ceux à qui l’enfant est confié, et elle est conçue de telle sorte que les enfants handicapés aient effectivement accès à l’éducation, à la formation, aux soins de santé, à la rééducation, à la préparation à l’emploi et aux activités récréatives, et bénéficient de ces services de façon propre à assurer une intégration sociale aussi complète que possible et leur épanouissement personnel, y compris dans le domaine culturel et spirituel.
 
-<sup>4.</sup> Dans un esprit de coopération internationale, les Etats parties favorisent l’échange d’informations pertinentes dans le domaine des soins de santé préventifs et du traitement médical, psychologique et fonctionnel des enfants handicapés, y compris par la diffusion d’informations concernant les méthodes de rééducation et les services de formation professionnelle, ainsi que l’accès à ces données, en vue de permettre aux Etats parties d’améliorer leurs capacités et leurs compétences et d’élargir leur expérience dans ces domaines. A cet égard, il est tenu particulièrement compte des besoins des pays en développement.
+<sup>4.</sup> Dans un esprit de coopération internationale, les États parties favorisent l’échange d’informations pertinentes dans le domaine des soins de santé préventifs et du traitement médical, psychologique et fonctionnel des enfants handicapés, y compris par la diffusion d’informations concernant les méthodes de rééducation et les services de formation professionnelle, ainsi que l’accès à ces données, en vue de permettre aux États parties d’améliorer leurs capacités et leurs compétences et d’élargir leur expérience dans ces domaines. À cet égard, il est tenu particulièrement compte des besoins des pays en développement.
 
 #### Art. 24
 
-<sup>1.</sup> Les Etats parties reconnaissent le droit de l’enfant de jouir du meilleur état de santé possible et de bénéficier de services médicaux et de rééducation. Ils s’efforcent de garantir qu’aucun enfant ne soit privé du droit d’avoir accès à ces services.
+<sup>1.</sup> Les États parties reconnaissent le droit de l’enfant de jouir du meilleur état de santé possible et de bénéficier de services médicaux et de rééducation. Ils s’efforcent de garantir qu’aucun enfant ne soit privé du droit d’avoir accès à ces services.
 
 <sup>2.</sup>
 
-Les Etats parties s’efforcent d’assurer la réalisation intégrale du droit susmentionné et, en particulier, prennent les mesures appropriées pour:
+Les États parties s’efforcent d’assurer la réalisation intégrale du droit susmentionné et, en particulier, prennent les mesures appropriées pour:
 
 - a) réduire la mortalité parmi les nourrissons et les enfants;
 - b) assurer à tous les enfants l’assistance médicale et les soins de santé nécessaires, l’accent étant mis sur le développement des soins de santé primaires;
@@ -242,35 +244,35 @@ Les Etats parties s’efforcent d’assurer la réalisation intégrale du droit 
 - e) faire en sorte que tous les groupes de la société, en particulier les parents et les enfants, reçoivent une information sur la santé et la nutrition de l’enfant, les avantages de l’allaitement au sein, l’hygiène et la salubrité de l’environnement et la prévention des accidents, et bénéficient d’une aide leur permettant de mettre à profit cette information;
 - f) développer les soins de santé préventifs, les conseils aux parents et l’éducation et les services en matière de planification familiale.
 
-<sup>3.</sup> Les Etats parties prennent toutes les mesures efficaces appropriées en vue d’abolir les pratiques traditionnelles préjudiciables à la santé des enfants.
+<sup>3.</sup> Les États parties prennent toutes les mesures efficaces appropriées en vue d’abolir les pratiques traditionnelles préjudiciables à la santé des enfants.
 
-<sup>4.</sup> Les Etats parties s’engagent à favoriser et à encourager la coopération internationale en vue d’assurer progressivement la pleine réalisation du droit reconnu dans le présent article. A cet égard, il est tenu particulièrement compte des besoins des pays en développement.
+<sup>4.</sup> Les États parties s’engagent à favoriser et à encourager la coopération internationale en vue d’assurer progressivement la pleine réalisation du droit reconnu dans le présent article. À cet égard, il est tenu particulièrement compte des besoins des pays en développement.
 
 #### Art. 25
 
-Les Etats parties reconnaissent à l’enfant qui a été placé par les autorités compétentes pour recevoir des soins, une protection ou un traitement physique ou mental, le droit à un examen périodique dudit traitement et de toute autre circonstance relative à son placement.
+Les États parties reconnaissent à l’enfant qui a été placé par les autorités compétentes pour recevoir des soins, une protection ou un traitement physique ou mental, le droit à un examen périodique dudit traitement et de toute autre circonstance relative à son placement.
 
 #### Art. 26
 
-<sup>1.</sup> Les Etats parties reconnaissent à tout enfant le droit de bénéficier de la sécurité sociale, y compris les assurances sociales, et prennent les mesures nécessaires pour assurer la pleine réalisation de ce droit en conformité avec leur législation nationale.
+<sup>1.</sup> Les États parties reconnaissent à tout enfant le droit de bénéficier de la sécurité sociale, y compris les assurances sociales, et prennent les mesures nécessaires pour assurer la pleine réalisation de ce droit en conformité avec leur législation nationale.
 
 <sup>2.</sup> Les prestations doivent, lorsqu’il y a lieu, être accordées compte tenu des ressources et de la situation de l’enfant et des personnes responsables de son entretien, ainsi que de toute autre considération applicable à la demande de prestation faite par l’enfant ou en son nom.
 
 #### Art. 27
 
-<sup>1.</sup> Les Etats parties reconnaissent le droit de tout enfant à un niveau de vie suffisant pour permettre son développement physique, mental, spirituel, moral et social.
+<sup>1.</sup> Les États parties reconnaissent le droit de tout enfant à un niveau de vie suffisant pour permettre son développement physique, mental, spirituel, moral et social.
 
 <sup>2.</sup> C’est aux parents ou autres personnes ayant la charge de l’enfant qu’incombe au premier chef la responsabilité d’assurer, dans les limites de leurs possibilités et de leurs moyens financiers, les conditions de vie nécessaires au développement de l’enfant.
 
-<sup>3.</sup> Les Etats parties adoptent les mesures appropriées, compte tenu des conditions nationales et dans la mesure de leurs moyens, pour aider les parents et autres personnes ayant la charge de l’enfant à mettre en œuvre ce droit et offrent, en cas de besoin, une assistance matérielle et des programmes d’appui, notamment en ce qui concerne l’alimentation, le vêtement et le logement.
+<sup>3.</sup> Les États parties adoptent les mesures appropriées, compte tenu des conditions nationales et dans la mesure de leurs moyens, pour aider les parents et autres personnes ayant la charge de l’enfant à mettre en œuvre ce droit et offrent, en cas de besoin, une assistance matérielle et des programmes d’appui, notamment en ce qui concerne l’alimentation, le vêtement et le logement.
 
-<sup>4.</sup> Les Etats parties prennent toutes les mesures appropriées en vue d’assurer le recouvrement de la pension alimentaire de l’enfant auprès de ses parents ou des autres personnes ayant une responsabilité financière à son égard, que ce soit sur leur territoire ou à l’étranger. En particulier, pour tenir compte des cas où la personne qui a une responsabilité financière à l’égard de l’enfant vit dans un Etat autre que celui de l’enfant, les Etats parties favorisent l’adhésion à des accords internationaux ou la conclusion de tels accords ainsi que l’adoption de tous autres arrangements appropriés.
+<sup>4.</sup> Les États parties prennent toutes les mesures appropriées en vue d’assurer le recouvrement de la pension alimentaire de l’enfant auprès de ses parents ou des autres personnes ayant une responsabilité financière à son égard, que ce soit sur leur territoire ou à l’étranger. En particulier, pour tenir compte des cas où la personne qui a une responsabilité financière à l’égard de l’enfant vit dans un État autre que celui de l’enfant, les États parties favorisent l’adhésion à des accords internationaux ou la conclusion de tels accords ainsi que l’adoption de tous autres arrangements appropriés.
 
 #### Art. 28
 
 <sup>1.</sup>
 
-Les Etats parties reconnaissent le droit de l’enfant à l’éducation, et en particulier, en vue d’assurer l’exercice de ce droit progressivement et sur la base de l’égalité des chances:
+Les États parties reconnaissent le droit de l’enfant à l’éducation, et en particulier, en vue d’assurer l’exercice de ce droit progressivement et sur la base de l’égalité des chances:
 
 - a) ils rendent l’enseignement primaire obligatoire et gratuit pour tous;
 - b) ils encouragent l’organisation de différentes formes d’enseignement secondaire, tant général que professionnel, les rendent ouvertes et accessibles à tout enfant, et prennent des mesures appropriées, telles que l’instauration de la gratuité de l’enseignement et l’offre d’une aide financière en cas de besoin;
@@ -278,15 +280,15 @@ Les Etats parties reconnaissent le droit de l’enfant à l’éducation, et en 
 - d) ils rendent ouvertes et accessibles à tout enfant l’information et l’orientation scolaires et professionnelles;
 - e) ils prennent des mesures pour encourager la régularité de la fréquentation scolaire et la réduction des taux d’abandon scolaire.
 
-<sup>2.</sup> Les Etats parties prennent toutes les mesures appropriées pour veiller à ce que la discipline scolaire soit appliquée d’une manière compatible avec la dignité de l’enfant en tant qu’être humain et conformément à la présente Convention.
+<sup>2.</sup> Les États parties prennent toutes les mesures appropriées pour veiller à ce que la discipline scolaire soit appliquée d’une manière compatible avec la dignité de l’enfant en tant qu’être humain et conformément à la présente Convention.
 
-<sup>3.</sup> Les Etats parties favorisent et encouragent la coopération internationale dans le domaine de l’éducation, en vue notamment de contribuer à éliminer l’ignorance et l’analphabétisme dans le monde et de faciliter l’accès aux connaissances scientifiques et techniques et aux méthodes d’enseignement modernes. A cet égard, il est tenu particulièrement compte des besoins des pays en développement.
+<sup>3.</sup> Les États parties favorisent et encouragent la coopération internationale dans le domaine de l’éducation, en vue notamment de contribuer à éliminer l’ignorance et l’analphabétisme dans le monde et de faciliter l’accès aux connaissances scientifiques et techniques et aux méthodes d’enseignement modernes. À cet égard, il est tenu particulièrement compte des besoins des pays en développement.
 
 #### Art. 29
 
 <sup>1.</sup>
 
-Les Etats parties conviennent que l’éducation de l’enfant doit viser à:
+Les États parties conviennent que l’éducation de l’enfant doit viser à:
 
 - a) favoriser l’épanouissement de la personnalité de l’enfant et le développement de ses dons et de ses aptitudes mentales et physiques, dans toute la mesure de leurs potentialités;
 - b) inculquer à l’enfant le respect des droits de l’homme et des libertés fondamentales, et des principes consacrés dans la Charte des Nations Unies;
@@ -294,25 +296,25 @@ Les Etats parties conviennent que l’éducation de l’enfant doit viser à:
 - d) préparer l’enfant à assumer les responsabilités de la vie dans une société libre, dans un esprit de compréhension, de paix, de tolérance, d’égalité entre les sexes et d’amitié entre tous les peuples et groupes ethniques, nationaux et religieux, et avec les personnes d’origine autochtone;
 - e) inculquer à l’enfant le respect du milieu naturel.
 
-<sup>2.</sup> Aucune disposition du présent article ou de l’art. 28 ne sera interprétée d’une manière qui porte atteinte à la liberté des personnes physiques ou morales de créer et de diriger des établissements d’enseignement, à condition que les principes énoncés au paragraphe 1 du présent article soient respectés et que l’éducation dispensée dans ces établissements soit conforme aux normes minimales que l’Etat aura prescrites.
+<sup>2.</sup> Aucune disposition du présent article ou de l’art. 28 ne sera interprétée d’une manière qui porte atteinte à la liberté des personnes physiques ou morales de créer et de diriger des établissements d’enseignement, à condition que les principes énoncés au paragraphe 1 du présent article soient respectés et que l’éducation dispensée dans ces établissements soit conforme aux normes minimales que l’État aura prescrites.
 
 #### Art. 30
 
-Dans les Etats où il existe des minorités ethniques, religieuses ou linguistiques ou des personnes d’origine autochtone, un enfant autochtone ou appartenant à une de ces minorités ne peut être privé du droit d’avoir sa propre vie culturelle, de professer et de pratiquer sa propre religion ou d’employer sa propre langue en commun avec les autres membres de son groupe.
+Dans les États où il existe des minorités ethniques, religieuses ou linguistiques ou des personnes d’origine autochtone, un enfant autochtone ou appartenant à une de ces minorités ne peut être privé du droit d’avoir sa propre vie culturelle, de professer et de pratiquer sa propre religion ou d’employer sa propre langue en commun avec les autres membres de son groupe.
 
 #### Art. 31
 
-<sup>1.</sup> Les Etats parties reconnaissent à l’enfant le droit au repos et aux loisirs, de se livrer au jeu et à des activités récréatives propres à son âge, et de participer librement à la vie culturelle et artistique.
+<sup>1.</sup> Les États parties reconnaissent à l’enfant le droit au repos et aux loisirs, de se livrer au jeu et à des activités récréatives propres à son âge, et de participer librement à la vie culturelle et artistique.
 
-<sup>2.</sup> Les Etats parties respectent et favorisent le droit de l’enfant de participer pleinement à la vie culturelle et artistique, et encouragent l’organisation à son intention de moyens appropriés de loisirs et d’activités récréatives, artistiques et culturelles, dans des conditions d’égalité.
+<sup>2.</sup> Les États parties respectent et favorisent le droit de l’enfant de participer pleinement à la vie culturelle et artistique, et encouragent l’organisation à son intention de moyens appropriés de loisirs et d’activités récréatives, artistiques et culturelles, dans des conditions d’égalité.
 
 #### Art. 32
 
-<sup>1.</sup> Les Etats parties reconnaissent le droit de l’enfant d’être protégé contre l’exploitation économique et de n’être astreint à aucun travail comportant des risques ou susceptible de compromettre son éducation ou de nuire à sa santé ou à son développement physique, mental, spirituel, moral ou social.
+<sup>1.</sup> Les États parties reconnaissent le droit de l’enfant d’être protégé contre l’exploitation économique et de n’être astreint à aucun travail comportant des risques ou susceptible de compromettre son éducation ou de nuire à sa santé ou à son développement physique, mental, spirituel, moral ou social.
 
 <sup>2.</sup>
 
-Les Etats parties prennent des mesures législatives, administratives, sociales et éducatives pour assurer l’application du présent article. A cette fin, et compte tenu des dispositions pertinentes des autres instruments internationaux, les Etats parties, en particulier:
+Les États parties prennent des mesures législatives, administratives, sociales et éducatives pour assurer l’application du présent article. À cette fin, et compte tenu des dispositions pertinentes des autres instruments internationaux, les États parties, en particulier:
 
 - a) fixent un âge minimum ou des âges minimums d’admission à l’emploi;
 - b) prévoient une réglementation appropriée des horaires de travail et des conditions d’emploi;
@@ -320,11 +322,11 @@ Les Etats parties prennent des mesures législatives, administratives, sociales 
 
 #### Art. 33
 
-Les Etats parties prennent toutes les mesures appropriées, y compris des mesures législatives, administratives, sociales et éducatives, pour protéger les enfants contre l’usage illicite de stupéfiants et de substances psychotropes, tels que les définissent les conventions internationales pertinentes, et pour empêcher que des enfants ne soient utilisés pour la production et le trafic illicites de ces substances.
+Les États parties prennent toutes les mesures appropriées, y compris des mesures législatives, administratives, sociales et éducatives, pour protéger les enfants contre l’usage illicite de stupéfiants et de substances psychotropes, tels que les définissent les conventions internationales pertinentes, et pour empêcher que des enfants ne soient utilisés pour la production et le trafic illicites de ces substances.
 
 #### Art. 34
 
-Les Etats parties s’engagent à protéger l’enfant contre toutes les formes d’exploitation sexuelle et de violence sexuelle. A cette fin, les Etats prennent en particulier toutes les mesures appropriées sur les plans national, bilatéral et multilatéral pour empêcher:
+Les États parties s’engagent à protéger l’enfant contre toutes les formes d’exploitation sexuelle et de violence sexuelle. À cette fin, les États prennent en particulier toutes les mesures appropriées sur les plans national, bilatéral et multilatéral pour empêcher:
 
 - a) que des enfants ne soient incités ou contraints à se livrer à une activité sexuelle illégale;
 - b) que des enfants ne soient exploités à des fins de prostitution ou autres pratiques sexuelles illégales;
@@ -332,15 +334,15 @@ Les Etats parties s’engagent à protéger l’enfant contre toutes les formes 
 
 #### Art. 35
 
-Les Etats parties prennent toutes les mesures appropriées sur les plans national, bilatéral et multilatéral pour empêcher l’enlèvement, la vente ou la traite d’enfants à quelque fin que ce soit et sous quelque forme que ce soit.
+Les États parties prennent toutes les mesures appropriées sur les plans national, bilatéral et multilatéral pour empêcher l’enlèvement, la vente ou la traite d’enfants à quelque fin que ce soit et sous quelque forme que ce soit.
 
 #### Art. 36
 
-Les Etats parties protègent l’enfant contre toutes autres formes d’exploitation préjudiciables à tout aspect de son bien-être.
+Les États parties protègent l’enfant contre toutes autres formes d’exploitation préjudiciables à tout aspect de son bien-être.
 
 #### Art. 37
 
-Les Etats parties veillent à ce que:
+Les États parties veillent à ce que:
 
 - a) nul enfant ne soit soumis à la torture ni à des peines ou traitements cruels, inhumains ou dégradants. Ni la peine capitale ni l’emprisonnement à vie sans possibilité de libération ne doivent être prononcés pour les infractions commises par des personnes âgées de moins de dix-huit ans;
 - b) nul enfant ne soit privé de liberté de façon illégale ou arbitraire. L’arrestation, la détention ou l’emprisonnement d’un enfant doit être en conformité avec la loi, n’être qu’une mesure de dernier ressort, et être d’une durée aussi brève que possible;
@@ -349,25 +351,25 @@ Les Etats parties veillent à ce que:
 
 #### Art. 38
 
-<sup>1.</sup> Les Etats parties s’engagent à respecter et à faire respecter les règles du droit humanitaire international qui leur sont applicables en cas de conflit armé et dont la protection s’étend aux enfants.
+<sup>1.</sup> Les États parties s’engagent à respecter et à faire respecter les règles du droit humanitaire international qui leur sont applicables en cas de conflit armé et dont la protection s’étend aux enfants.
 
-<sup>2.</sup> Les Etats parties prennent toutes les mesures possibles dans la pratique pour veiller à ce que les personnes n’ayant pas atteint l’âge de quinze ans ne participent pas directement aux hostilités.
+<sup>2.</sup> Les États parties prennent toutes les mesures possibles dans la pratique pour veiller à ce que les personnes n’ayant pas atteint l’âge de quinze ans ne participent pas directement aux hostilités.
 
-<sup>3.</sup> Les Etats parties s’abstiennent d’enrôler dans leurs forces armées toute personne n’ayant pas atteint l’âge de quinze ans. Lorsqu’ils incorporent des personnes de plus de quinze ans mais de moins de dix-huit ans, les Etats parties s’efforcent d’enrôler en priorité les plus âgées.
+<sup>3.</sup> Les États parties s’abstiennent d’enrôler dans leurs forces armées toute personne n’ayant pas atteint l’âge de quinze ans. Lorsqu’ils incorporent des personnes de plus de quinze ans mais de moins de dix-huit ans, les États parties s’efforcent d’enrôler en priorité les plus âgées.
 
-<sup>4.</sup> Conformément à l’obligation qui leur incombe en vertu du droit humanitaire international de protéger la population civile en cas de conflit armé, les Etats parties prennent toutes les mesures possibles dans la pratique pour que les enfants qui sont touchés par un conflit armé bénéficient d’une protection et de soins.
+<sup>4.</sup> Conformément à l’obligation qui leur incombe en vertu du droit humanitaire international de protéger la population civile en cas de conflit armé, les États parties prennent toutes les mesures possibles dans la pratique pour que les enfants qui sont touchés par un conflit armé bénéficient d’une protection et de soins.
 
 #### Art. 39
 
-Les Etats parties prennent toutes les mesures appropriées pour faciliter la réadaptation physique et psychologique et la réinsertion sociale de tout enfant victime de toute forme de négligence, d’exploitation ou de sévices, de torture ou de toute autre forme de peines ou traitements cruels, inhumains ou dégradants, ou de conflit armé. Cette réadaptation et cette réinsertion se déroulent dans des conditions qui favorisent la santé, le respect de soi et la dignité de l’enfant.
+Les États parties prennent toutes les mesures appropriées pour faciliter la réadaptation physique et psychologique et la réinsertion sociale de tout enfant victime de toute forme de négligence, d’exploitation ou de sévices, de torture ou de toute autre forme de peines ou traitements cruels, inhumains ou dégradants, ou de conflit armé. Cette réadaptation et cette réinsertion se déroulent dans des conditions qui favorisent la santé, le respect de soi et la dignité de l’enfant.
 
 #### Art. 40
 
-<sup>1.</sup> Les Etats parties reconnaissent à tout enfant suspecté, accusé ou convaincu d’infraction à la loi pénale le droit à un traitement qui soit de nature à favoriser son sens de la dignité et de la valeur personnelle, qui renforce son respect pour les droits de l’homme et les libertés fondamentales d’autrui, et qui tienne compte de son âge ainsi que de la nécessité de faciliter sa réintégration dans la société et de lui faire assumer un rôle constructif au sein de celle-ci.
+<sup>1.</sup> Les États parties reconnaissent à tout enfant suspecté, accusé ou convaincu d’infraction à la loi pénale le droit à un traitement qui soit de nature à favoriser son sens de la dignité et de la valeur personnelle, qui renforce son respect pour les droits de l’homme et les libertés fondamentales d’autrui, et qui tienne compte de son âge ainsi que de la nécessité de faciliter sa réintégration dans la société et de lui faire assumer un rôle constructif au sein de celle-ci.
 
 <sup>2.</sup>
 
-A cette fin, et compte tenu des dispositions pertinentes des instruments internationaux, les Etats parties veillent en particulier:
+À cette fin, et compte tenu des dispositions pertinentes des instruments internationaux, les États parties veillent en particulier:
 
 - a) à ce qu’aucun enfant ne soit suspecté, accusé ou convaincu d’infraction à la loi pénale en raison d’actions ou d’omissions qui n’étaient pas interdites par le droit national ou international au moment où elles ont été commises;
 - b)
@@ -384,7 +386,7 @@ A cette fin, et compte tenu des dispositions pertinentes des instruments interna
 
 <sup>3.</sup>
 
-Les Etats parties s’efforcent de promouvoir l’adoption de lois, de procédures, la mise en place d’autorités et d’institutions spécialement conçues pour les enfants suspectés, accusés ou convaincus d’infraction à la loi pénale, et en particulier:
+Les États parties s’efforcent de promouvoir l’adoption de lois, de procédures, la mise en place d’autorités et d’institutions spécialement conçues pour les enfants suspectés, accusés ou convaincus d’infraction à la loi pénale, et en particulier:
 
 - a) d’établir un âge minimum au-dessous duquel les enfants seront présumés n’avoir pas la capacité d’enfreindre la loi pénale;
 - b) de prendre des mesures, chaque fois que cela est possible et souhaitable, pour traiter ces enfants sans recourir à la procédure judiciaire, étant cependant entendu que les droits de l’homme et les garanties légales doivent être pleinement respectés.
@@ -395,36 +397,36 @@ Les Etats parties s’efforcent de promouvoir l’adoption de lois, de procédur
 
 Aucune des dispositions de la présente Convention ne porte atteinte aux dispositions plus propices à la réalisation des droits de l’enfant qui peuvent figurer:
 
-- a) dans la législation d’un Etat partie; ou
-- b) dans le droit international en vigueur pour cet Etat.
+- a) dans la législation d’un État partie; ou
+- b) dans le droit international en vigueur pour cet État.
 
 ## Deuxième Partie
 
 #### Art. 42
 
-Les Etats parties s’engagent à faire largement connaître les principes et les dispositions de la présente Convention, par des moyens actifs et appropriés, aux adultes comme aux enfants.
+Les États parties s’engagent à faire largement connaître les principes et les dispositions de la présente Convention, par des moyens actifs et appropriés, aux adultes comme aux enfants.
 
 #### Art. 43
 
-<sup>1.</sup> Aux fins d’examiner les progrès accomplis par les Etats parties dans l’exécution des obligations contractées par eux en vertu de la présente Convention, il est institué un Comité des droits de l’enfant qui s’acquitte des fonctions définies ci-après.
+<sup>1.</sup> Aux fins d’examiner les progrès accomplis par les États parties dans l’exécution des obligations contractées par eux en vertu de la présente Convention, il est institué un Comité des droits de l’enfant qui s’acquitte des fonctions définies ci-après.
 
-<sup>2.</sup> Le Comité se compose de dix-huit experts de haute moralité et possédant une compétence reconnue dans le domaine visé par la présente Convention. Ses membres sont élus par les Etats parties parmi leurs ressortissants et siègent à titre personnel, compte tenu de la nécessité d’assurer une répartition géographique équitable et eu égard aux principaux systèmes juridiques.[^43-1]
+<sup>2.</sup> Le Comité se compose de dix-huit experts de haute moralité et possédant une compétence reconnue dans le domaine visé par la présente Convention. Ses membres sont élus par les États parties parmi leurs ressortissants et siègent à titre personnel, compte tenu de la nécessité d’assurer une répartition géographique équitable et eu égard aux principaux systèmes juridiques.[^43-1]
 
-<sup>3.</sup> Les membres du Comité sont élus au scrutin secret sur une liste de personnes désignées par les Etats parties. Chaque Etat partie peut désigner un candidat parmi ses ressortissants.
+<sup>3.</sup> Les membres du Comité sont élus au scrutin secret sur une liste de personnes désignées par les États parties. Chaque État partie peut désigner un candidat parmi ses ressortissants.
 
-<sup>4.</sup> La première élection aura lieu dans les six mois suivant la date d’entrée en vigueur de la présente Convention. Les élections auront lieu ensuite tous les deux ans. Quatre mois au moins avant la date de chaque élection, le Secrétaire général de l’Organisation des Nations Unies invitera par écrit les Etats parties à proposer leurs candidats dans un délai de deux mois. Le Secrétaire général dressera ensuite la liste alphabétique des candidats ainsi désignés, en indiquant les Etats parties qui les ont désignés, et la communiquera aux Etats parties à la présente Convention.
+<sup>4.</sup> La première élection aura lieu dans les six mois suivant la date d’entrée en vigueur de la présente Convention. Les élections auront lieu ensuite tous les deux ans. Quatre mois au moins avant la date de chaque élection, le Secrétaire général de l’Organisation des Nations Unies invitera par écrit les États parties à proposer leurs candidats dans un délai de deux mois. Le Secrétaire général dressera ensuite la liste alphabétique des candidats ainsi désignés, en indiquant les États parties qui les ont désignés, et la communiquera aux États parties à la présente Convention.
 
-<sup>5.</sup> Les élections ont lieu lors des réunions des Etats parties, convoquées par le Secrétaire général au Siège de l’Organisation des Nations Unies. A ces réunions, pour lesquelles le quorum est constitué par les deux tiers des Etats parties, les candidats élus au Comité sont ceux qui obtiennent le plus grand nombre de voix et la majorité absolue des voix des représentants des Etats parties présents et votants.
+<sup>5.</sup> Les élections ont lieu lors des réunions des États parties, convoquées par le Secrétaire général au Siège de l’Organisation des Nations Unies. À ces réunions, pour lesquelles le quorum est constitué par les deux tiers des États parties, les candidats élus au Comité sont ceux qui obtiennent le plus grand nombre de voix et la majorité absolue des voix des représentants des États parties présents et votants.
 
 <sup>6.</sup> Les membres du Comité sont élus pour quatre ans. Ils sont rééligibles si leur candidature est présentée à nouveau. La mandat de cinq des membres élus lors de la première élection prend fin au bout de deux ans. Les noms de ces cinq membres seront tirés au sort par le président de la réunion immédiatement après la première élection.
 
-<sup>7.</sup> En cas de décès ou de démission d’un membre du Comité, ou si, pour toute autre raison, un membre déclare ne plus pouvoir exercer ses fonctions au sein du Comité, l’Etat partie qui avait présenté sa candidature nomme un autre expert parmi ses ressortissants pour pourvoir le poste ainsi vacant jusqu’à l’expiration du mandat correspondant, sous réserve de l’approbation du Comité.
+<sup>7.</sup> En cas de décès ou de démission d’un membre du Comité, ou si, pour toute autre raison, un membre déclare ne plus pouvoir exercer ses fonctions au sein du Comité, l’État partie qui avait présenté sa candidature nomme un autre expert parmi ses ressortissants pour pourvoir le poste ainsi vacant jusqu’à l’expiration du mandat correspondant, sous réserve de l’approbation du Comité.
 
 <sup>8.</sup> Le Comité adopte son règlement intérieur.
 
 <sup>9.</sup> Le Comité élit son bureau pour une période de deux ans.
 
-<sup>10.</sup> Les réunions du Comité se tiennent normalement au Siège de l’Organisation des Nations Unies, ou en tout autre lieu approprié déterminé par le Comité. Le Comité se réunit normalement chaque année. La durée de ses sessions est déterminée et modifiée, si nécessaire, par une réunion des Etats parties à la présente Convention, sous réserve de l’approbation de l’Assemblée générale.
+<sup>10.</sup> Les réunions du Comité se tiennent normalement au Siège de l’Organisation des Nations Unies, ou en tout autre lieu approprié déterminé par le Comité. Le Comité se réunit normalement chaque année. La durée de ses sessions est déterminée et modifiée, si nécessaire, par une réunion des États parties à la présente Convention, sous réserve de l’approbation de l’Assemblée générale.
 
 <sup>11.</sup> Le Secrétaire général de l’Organisation des Nations Unies met à la disposition du Comité le personnel et les installations qui lui sont nécessaires pour s’acquitter efficacement des fonctions qui lui sont confiées en vertu de la présente Convention.
 
@@ -436,35 +438,35 @@ Les Etats parties s’engagent à faire largement connaître les principes et le
 
 <sup>1.</sup>
 
-Les Etats parties s’engagent à soumettre au Comité, par l’entremise du Secrétaire général de l’Organisation des Nations Unies, des rapports sur les mesures qu’ils auront adoptées pour donner effet aux droit reconnus dans la présente Convention et sur les progrès réalisés dans la jouissance de ces droits:
+Les États parties s’engagent à soumettre au Comité, par l’entremise du Secrétaire général de l’Organisation des Nations Unies, des rapports sur les mesures qu’ils auront adoptées pour donner effet aux droit reconnus dans la présente Convention et sur les progrès réalisés dans la jouissance de ces droits:
 
-- a) dans les deux ans à compter de la date de l’entrée en vigueur de la présente Convention pour les Etats parties intéressés;
+- a) dans les deux ans à compter de la date de l’entrée en vigueur de la présente Convention pour les États parties intéressés;
 - b) par la suite, tous les cinq ans.
 
-<sup>2.</sup> Les rapports établis en application du présent article doivent, le cas échéant, indiquer les facteurs et les difficultés empêchant les Etats parties de s’acquitter pleinement des obligations prévues dans la présente Convention. Ils doivent également contenir des renseignements suffisants pour donner au Comité une idée précise de l’application de la Convention dans le pays considéré.
+<sup>2.</sup> Les rapports établis en application du présent article doivent, le cas échéant, indiquer les facteurs et les difficultés empêchant les États parties de s’acquitter pleinement des obligations prévues dans la présente Convention. Ils doivent également contenir des renseignements suffisants pour donner au Comité une idée précise de l’application de la Convention dans le pays considéré.
 
-<sup>3.</sup> Les Etats parties ayant présenté au Comité un rapport initial complet n’ont pas, dans les rapports qu’ils lui présentent ensuite conformément à l’al. b) du par. 1 du présent article, à répéter les renseignements de base antérieurement communiqués.
+<sup>3.</sup> Les États parties ayant présenté au Comité un rapport initial complet n’ont pas, dans les rapports qu’ils lui présentent ensuite conformément à l’al. b) du par. 1 du présent article, à répéter les renseignements de base antérieurement communiqués.
 
-<sup>4.</sup> Le Comité peut demander aux Etats parties tous renseignements complémentaires relatifs à l’application de la Convention.
+<sup>4.</sup> Le Comité peut demander aux États parties tous renseignements complémentaires relatifs à l’application de la Convention.
 
 <sup>5.</sup> Le Comité soumet tous les deux ans à l’Assemblée générale, par l’entremise du Conseil économique et social, un rapport sur ses activités.
 
-<sup>6.</sup> Les Etats parties assurent à leurs rapports une large diffusion dans leur propre pays.
+<sup>6.</sup> Les États parties assurent à leurs rapports une large diffusion dans leur propre pays.
 
 #### Art. 45
 
 Pour promouvoir l’application effective de la Convention et encourager la coopération internationale dans le domaine visé par la Convention:
 
 - a) les institutions spécialisées, le Fonds des Nations Unies pour l’enfance et d’autres organes des Nations Unies ont le droit de se faire représenter lors de l’examen de l’application des dispositions de la présente Convention qui relèvent de leur mandat. Le Comité peut inviter les institutions spécialisées, le Fonds des Nations Unies pour l’enfance et tous autres organismes compétents qu’il jugera appropriés à donner des avis spécialisés sur l’application de la Convention dans les domaines qui relèvent de leurs mandats respectifs. Il peut inviter les institutions spécialisées, le Fonds des Nations Unies pour l’enfance et d’autres organes des Nations Unies à lui présenter des rapports sur l’application de la Convention dans les secteurs qui relèvent de leur domaine d’activité;
-- b) le Comité transmet, s’il le juge nécessaire, aux institutions spécialisées, au Fonds des Nations Unies pour l’enfance et aux autres organismes compétents tout rapport des Etats parties contenant une demande ou indiquant un besoin de conseils ou d’assistance techniques, accompagné, le cas échéant, des observations et suggestions du Comité touchant ladite demande ou indication;
+- b) le Comité transmet, s’il le juge nécessaire, aux institutions spécialisées, au Fonds des Nations Unies pour l’enfance et aux autres organismes compétents tout rapport des États parties contenant une demande ou indiquant un besoin de conseils ou d’assistance techniques, accompagné, le cas échéant, des observations et suggestions du Comité touchant ladite demande ou indication;
 - c) le Comité peut recommander à l’Assemblée générale de prier le Secrétaire général de procéder pour le Comité à des études sur des questions spécifiques touchant les droits de l’enfant;
-- d) le Comité peut faire des suggestions et des recommandations d’ordre général fondées sur les renseignements reçus en application des art. 44 et 45 de la présente Convention. Ces suggestions et recommandations d’ordre général sont transmises à tout Etat partie intéressé et portées à l’attention de l’Assemblée générale, accompagnées, le cas échéant, des observations des Etats parties.
+- d) le Comité peut faire des suggestions et des recommandations d’ordre général fondées sur les renseignements reçus en application des art. 44 et 45 de la présente Convention. Ces suggestions et recommandations d’ordre général sont transmises à tout État partie intéressé et portées à l’attention de l’Assemblée générale, accompagnées, le cas échéant, des observations des États parties.
 
 ## Troisième Partie
 
 #### Art. 46
 
-La présente Convention est ouverte à la signature de tous les Etats.
+La présente Convention est ouverte à la signature de tous les États.
 
 #### Art. 47
 
@@ -472,33 +474,33 @@ La présente Convention est sujette à ratification. Les instruments de ratifica
 
 #### Art. 48
 
-La présente Convention restera ouverte à l’adhésion de tout Etat. Les instruments d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
+La présente Convention restera ouverte à l’adhésion de tout État. Les instruments d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
 #### Art. 49
 
 <sup>1.</sup> La présente Convention entrera en vigueur le trentième jour qui suivra la date du dépôt auprès du Secrétaire général de l’Organisation des Nations Unies du vingtième instrument de ratification ou d’adhésion.
 
-<sup>2.</sup> Pour chacun des Etats qui ratifieront la présente Convention ou y adhéreront après le dépôt du vingtième instrument de ratification ou d’adhésion, la Convention entrera en vigueur le trentième jour qui suivra le dépôt par cet Etat de son instrument de ratification ou d’adhésion.
+<sup>2.</sup> Pour chacun des États qui ratifieront la présente Convention ou y adhéreront après le dépôt du vingtième instrument de ratification ou d’adhésion, la Convention entrera en vigueur le trentième jour qui suivra le dépôt par cet État de son instrument de ratification ou d’adhésion.
 
 #### Art. 50
 
-<sup>1.</sup> Tout Etat partie peut proposer un amendement et en déposer le texte auprès du Secrétaire général de l’Organisation des Nations Unies. Le Secrétaire général communique alors la proposition d’amendement aux Etats parties, en leur demandant de lui faire savoir s’ils sont favorables à la convocation d’une conférence des Etats parties en vue de l’examen de la proposition et de sa mise aux voix. Si, dans les quatre mois qui suivent la date de cette communication, un tiers au moins des Etats parties se prononcent en faveur de la convocation d’une telle conférence, le Secrétaire général convoque la conférence sous les auspices de l’Organisation des Nations Unies. Tout amendement adopté par la majorité des Etats parties présents et votants à la conférence est soumis pour approbation à l’Assemblée générale.
+<sup>1.</sup> Tout État partie peut proposer un amendement et en déposer le texte auprès du Secrétaire général de l’Organisation des Nations Unies. Le Secrétaire général communique alors la proposition d’amendement aux États parties, en leur demandant de lui faire savoir s’ils sont favorables à la convocation d’une conférence des États parties en vue de l’examen de la proposition et de sa mise aux voix. Si, dans les quatre mois qui suivent la date de cette communication, un tiers au moins des États parties se prononcent en faveur de la convocation d’une telle conférence, le Secrétaire général convoque la conférence sous les auspices de l’Organisation des Nations Unies. Tout amendement adopté par la majorité des États parties présents et votants à la conférence est soumis pour approbation à l’Assemblée générale.
 
-<sup>2.</sup> Tout amendement adopté conformément aux dispositions du par. 1 du présent article entre en vigueur lorsqu’il a été approuvé par l’Assemblée générale des Nations Unies et accepté par une majorité des deux tiers des Etats parties.
+<sup>2.</sup> Tout amendement adopté conformément aux dispositions du par. 1 du présent article entre en vigueur lorsqu’il a été approuvé par l’Assemblée générale des Nations Unies et accepté par une majorité des deux tiers des États parties.
 
-<sup>3.</sup> Lorsqu’un amendement entre en vigueur, il a force obligatoire pour les Etats parties qui l’ont accepté, les autres Etats parties demeurant liés par les dispositions de la présente Convention et par tous amendements antérieurs acceptés par eux.
+<sup>3.</sup> Lorsqu’un amendement entre en vigueur, il a force obligatoire pour les États parties qui l’ont accepté, les autres États parties demeurant liés par les dispositions de la présente Convention et par tous amendements antérieurs acceptés par eux.
 
 #### Art. 51
 
-<sup>1.</sup> Le Secrétaire général de l’Organisation des Nations Unies recevra et communiquera à tous les Etats le texte des réserves qui auront été faites par les Etats au moment de la ratification ou de l’adhésion.
+<sup>1.</sup> Le Secrétaire général de l’Organisation des Nations Unies recevra et communiquera à tous les États le texte des réserves qui auront été faites par les États au moment de la ratification ou de l’adhésion.
 
 <sup>2.</sup> Aucune réserve incompatible avec l’objet et le but de la présente Convention n’est autorisée.
 
-<sup>3.</sup> Les réserves peuvent être retirées à tout moment par notification adressée au Secrétaire général de l’Organisation des Nations Unies, lequel en informe tous les Etats parties à la Convention. La notification prend effet à la date à laquelle elle est reçue par le Secrétaire général.
+<sup>3.</sup> Les réserves peuvent être retirées à tout moment par notification adressée au Secrétaire général de l’Organisation des Nations Unies, lequel en informe tous les États parties à la Convention. La notification prend effet à la date à laquelle elle est reçue par le Secrétaire général.
 
 #### Art. 52
 
-Tout Etat partie peut dénoncer la présente Convention par notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies. La dénonciation prend effet un an après la date à laquelle la notification a été reçue par le Secrétaire général.
+Tout État partie peut dénoncer la présente Convention par notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies. La dénonciation prend effet un an après la date à laquelle la notification a été reçue par le Secrétaire général.
 
 #### Art. 53
 
@@ -510,23 +512,23 @@ L’original de la présente Convention, dont les textes anglais, arabe, chinois
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment habilités par leurs gouvernements respectifs, ont signé la présente Convention. Fait à New York, le 20 novembre 1989. (Suivent les signatures)
 
-Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
+Champ d’application de la Convention le 27 février 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan\*</td><td>28 mars</td><td>1994</td><td>27 avril</td><td>1994</td></tr>
 <tr><td>Afrique du Sud</td><td>16 juin</td><td>1995</td><td>16 juillet</td><td>1995</td></tr>
 <tr><td>Albanie</td><td>27 février</td><td>1992</td><td>28 mars</td><td>1992</td></tr>
 <tr><td>Algérie\*</td><td>16 avril</td><td>1993</td><td>16 mai</td><td>1993</td></tr>
 <tr><td>Allemagne\* \*\*</td><td>6 mars</td><td>1992</td><td>5 avril</td><td>1992</td></tr>
-<tr><td>Andorre<sup>\*</sup></td><td>2 janvier</td><td>1996</td><td>1<sup>er</sup> février</td><td>1996</td></tr>
+<tr><td>Andorre\*</td><td>2 janvier</td><td>1996</td><td>1<sup>er</sup> février</td><td>1996</td></tr>
 <tr><td>Angola</td><td>5 décembre</td><td>1990</td><td>4 janvier</td><td>1991</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>5 octobre</td><td>1993</td><td>4 novembre</td><td>1993</td></tr>
-<tr><td>Arabie Saoudite<sup>\*</sup></td><td>26 janvier</td><td>1996 A</td><td>25 février</td><td>1996</td></tr>
+<tr><td>Arabie Saoudite\*</td><td>26 janvier</td><td>1996 A</td><td>25 février</td><td>1996</td></tr>
 <tr><td>Argentine\*</td><td>4 décembre</td><td>1990</td><td>3 janvier</td><td>1991</td></tr>
 <tr><td>Arménie</td><td>23 juin</td><td>1993 A</td><td>23 juillet</td><td>1993</td></tr>
 <tr><td>Australie\*</td><td>17 décembre</td><td>1990</td><td>16 janvier</td><td>1991</td></tr>
-<tr><td>Autriche<sup>\*\*</sup></td><td>6 août</td><td>1992</td><td>5 septembre</td><td>1992</td></tr>
+<tr><td>Autriche\*\*</td><td>6 août</td><td>1992</td><td>5 septembre</td><td>1992</td></tr>
 <tr><td>Azerbaïdjan</td><td>13 août</td><td>1992 A</td><td>12 septembre</td><td>1992</td></tr>
 <tr><td>Bahamas\*</td><td>20 février</td><td>1991</td><td>22 mars</td><td>1991</td></tr>
 <tr><td>Bahreïn</td><td>13 février</td><td>1992 A</td><td>14 mars</td><td>1992</td></tr>
@@ -539,7 +541,7 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Bhoutan</td><td>1<sup>er</sup> août</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
 <tr><td>Bolivie</td><td>26 juin</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>1<sup>er</sup> septembre</td><td>1993 S</td><td>6 mars</td><td>1992</td></tr>
-<tr><td>Botswana\*</td><td>14 mars</td><td>1995 A</td><td>13 avril</td><td>1995</td></tr>
+<tr><td>Botswana</td><td>14 mars</td><td>1995 A</td><td>13 avril</td><td>1995</td></tr>
 <tr><td>Brésil</td><td>24 septembre</td><td>1990</td><td>24 octobre</td><td>1990</td></tr>
 <tr><td>Brunéi\*</td><td>27 décembre</td><td>1995 A</td><td>26 janvier</td><td>1996</td></tr>
 <tr><td>Bulgarie\*\*</td><td>3 juin</td><td>1991</td><td>3 juillet</td><td>1991</td></tr>
@@ -547,7 +549,7 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Burundi</td><td>19 octobre</td><td>1990</td><td>18 novembre</td><td>1990</td></tr>
 <tr><td>Cambodge</td><td>15 octobre</td><td>1992 A</td><td>14 novembre</td><td>1992</td></tr>
 <tr><td>Cameroun</td><td>11 janvier</td><td>1993</td><td>10 février</td><td>1993</td></tr>
-<tr><td>Canada<sup>\*</sup></td><td>13 décembre</td><td>1991</td><td>12 janvier</td><td>1992</td></tr>
+<tr><td>Canada\*</td><td>13 décembre</td><td>1991</td><td>12 janvier</td><td>1992</td></tr>
 <tr><td>Cap-Vert</td><td>4 juin</td><td>1992 A</td><td>4 juillet</td><td>1992</td></tr>
 <tr><td>Chili</td><td>13 août</td><td>1990</td><td>12 septembre</td><td>1990</td></tr>
 <tr><td>Chine\*</td><td>2 mars</td><td>1992</td><td>1<sup>er</sup> avril</td><td>1992</td></tr>
@@ -565,16 +567,17 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Croatie</td><td>12 octobre</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba\*</td><td>21 août</td><td>1991</td><td>20 septembre</td><td>1991</td></tr>
 <tr><td>Danemark\* \*\*</td><td>19 juillet</td><td>1991</td><td>18 août</td><td>1991</td></tr>
-<tr><td>Djibouti<sup>\*</sup></td><td>6 décembre</td><td>1990</td><td>5 janvier</td><td>1991</td></tr>
+<tr><td>Djibouti\*</td><td>6 décembre</td><td>1990</td><td>5 janvier</td><td>1991</td></tr>
 <tr><td>Dominique</td><td>13 mars</td><td>1991</td><td>12 avril</td><td>1991</td></tr>
-<tr><td>Egypte\*</td><td>6 juillet</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
+<tr><td>Égypte</td><td>6 juillet</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
 <tr><td>El Salvador</td><td>10 juillet</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
-<tr><td>Emirats arabes unis\*</td><td>3 janvier</td><td>1997 A</td><td>2 février</td><td>1997</td></tr>
-<tr><td>Equateur</td><td>23 mars</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
-<tr><td>Erythrée</td><td>3 août</td><td>1994</td><td>2 septembre</td><td>1994</td></tr>
+<tr><td>Émirats arabes unis\*</td><td>3 janvier</td><td>1997 A</td><td>2 février</td><td>1997</td></tr>
+<tr><td>Équateur</td><td>23 mars</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
+<tr><td>Érythrée</td><td>3 août</td><td>1994</td><td>2 septembre</td><td>1994</td></tr>
 <tr><td>Espagne\*</td><td>6 décembre</td><td>1990</td><td>5 janvier</td><td>1991</td></tr>
 <tr><td>Estonie</td><td>21 octobre</td><td>1991 A</td><td>20 novembre</td><td>1991</td></tr>
-<tr><td>Ethiopie</td><td>14 mai</td><td>1991 A</td><td>13 juin</td><td>1991</td></tr>
+<tr><td>Eswatini\*</td><td>7 septembre</td><td>1995</td><td>7 octobre</td><td>1995</td></tr>
+<tr><td>Éthiopie</td><td>14 mai</td><td>1991 A</td><td>13 juin</td><td>1991</td></tr>
 <tr><td>Fidji</td><td>13 août</td><td>1993</td><td>12 septembre</td><td>1993</td></tr>
 <tr><td>Finlande\*\*</td><td>20 juin</td><td>1991</td><td>20 juillet</td><td>1991</td></tr>
 <tr><td>France\* \*\*</td><td>7 août</td><td>1990</td><td>6 septembre</td><td>1990</td></tr>
@@ -592,15 +595,15 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Haïti</td><td>8 juin</td><td>1995</td><td>8 juillet</td><td>1995</td></tr>
 <tr><td>Honduras</td><td>10 août</td><td>1990</td><td>9 septembre</td><td>1990</td></tr>
 <tr><td>Hongrie\*\*</td><td>7 octobre</td><td>1991</td><td>6 novembre</td><td>1991</td></tr>
-<tr><td>Iles Cook\*</td><td>6 juin</td><td>1997 A</td><td>6 juillet</td><td>1997</td></tr>
-<tr><td>Iles Marshall</td><td>4 octobre</td><td>1993</td><td>3 novembre</td><td>1993</td></tr>
+<tr><td>Îles Marshall</td><td>4 octobre</td><td>1993</td><td>3 novembre</td><td>1993</td></tr>
+<tr><td>Îles Salomon</td><td>10 avril</td><td>1995 A</td><td>10 mai</td><td>1995</td></tr>
 <tr><td>Inde\*</td><td>11 décembre</td><td>1992 A</td><td>10 janvier</td><td>1993</td></tr>
 <tr><td>Indonésie</td><td>5 septembre</td><td>1990</td><td>5 octobre</td><td>1990</td></tr>
 <tr><td>Iran\*</td><td>13 juillet</td><td>1994</td><td>12 août</td><td>1994</td></tr>
 <tr><td>Iraq\*</td><td>15 juin</td><td>1994 A</td><td>15 juillet</td><td>1994</td></tr>
 <tr><td>Irlande\*\*</td><td>28 septembre</td><td>1992</td><td>28 octobre</td><td>1992</td></tr>
 <tr><td>Islande\*</td><td>28 octobre</td><td>1992</td><td>27 novembre</td><td>1992</td></tr>
-<tr><td>Israël<sup>\*</sup></td><td>3 octobre</td><td>1991</td><td>2 novembre</td><td>1991</td></tr>
+<tr><td>Israël\*</td><td>3 octobre</td><td>1991</td><td>2 novembre</td><td>1991</td></tr>
 <tr><td>Italie\*\*</td><td>5 septembre</td><td>1991</td><td>5 octobre</td><td>1991</td></tr>
 <tr><td>Jamaïque</td><td>14 mai</td><td>1991</td><td>13 juin</td><td>1991</td></tr>
 <tr><td>Japon\*</td><td>22 avril</td><td>1994</td><td>22 mai</td><td>1994</td></tr>
@@ -619,7 +622,7 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Liechtenstein\*</td><td>22 décembre</td><td>1995</td><td>21 janvier</td><td>1996</td></tr>
 <tr><td>Lituanie</td><td>31 janvier</td><td>1992 A</td><td>1<sup>er</sup> mars</td><td>1992</td></tr>
 <tr><td>Luxembourg\*</td><td>7 mars</td><td>1994</td><td>6 avril</td><td>1994</td></tr>
-<tr><td>Macédoine</td><td>2 décembre</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>2 décembre</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>19 mars</td><td>1991</td><td>18 avril</td><td>1991</td></tr>
 <tr><td>Malaisie\*</td><td>17 février</td><td>1995 A</td><td>19 mars</td><td>1995</td></tr>
 <tr><td>Malawi</td><td>2 janvier</td><td>1991 A</td><td>1<sup>er</sup> février</td><td>1991</td></tr>
@@ -643,9 +646,10 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Nicaragua</td><td>5 octobre</td><td>1990</td><td>4 novembre</td><td>1990</td></tr>
 <tr><td>Niger</td><td>30 septembre</td><td>1990</td><td>30 octobre</td><td>1990</td></tr>
 <tr><td>Nigéria</td><td>19 avril</td><td>1991</td><td>19 mai</td><td>1991</td></tr>
-<tr><td>Nioué</td><td>20 décembre</td><td>1995 A</td><td>19 janvier</td><td>1996</td></tr>
 <tr><td>Norvège\*\*</td><td>8 janvier</td><td>1991</td><td>7 février</td><td>1991</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>6 avril</td><td>1993</td><td>6 mai</td><td>1993</td></tr>
+<tr><td>Îles Cook\*</td><td>6 juin</td><td>1997 A</td><td>6 juillet</td><td>1997</td></tr>
+<tr><td>Nioué</td><td>20 décembre</td><td>1995 A</td><td>19 janvier</td><td>1996</td></tr>
 <tr><td>Oman\*</td><td>9 décembre</td><td>1996 A</td><td>8 janvier</td><td>1997</td></tr>
 <tr><td>Ouganda</td><td>17 août</td><td>1990</td><td>16 septembre</td><td>1990</td></tr>
 <tr><td>Ouzbékistan</td><td>29 juin</td><td>1994 A</td><td>29 juillet</td><td>1994</td></tr>
@@ -671,13 +675,15 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Roumanie\*\*</td><td>28 septembre</td><td>1990</td><td>28 octobre</td><td>1990</td></tr>
 <tr><td>Royaume-Uni\* \*\*</td><td>16 décembre</td><td>1991</td><td>15 janvier</td><td>1992</td></tr>
 <tr><td>Anguilla\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
+<tr><td>Aurigny</td><td>4 novembre</td><td>2020</td><td>4 novembre</td><td>2020</td></tr>
 <tr><td>Bermudes\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
-<tr><td>Ile de Man\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
-<tr><td>Iles Cayman\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
-<tr><td>Iles Falkland\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
-<tr><td>Iles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
-<tr><td>Iles Turques et Caïques\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
-<tr><td>Iles Vierges britanniques\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
+<tr><td>Guernesey</td><td>4 novembre</td><td>2020</td><td>4 novembre</td><td>2020</td></tr>
+<tr><td>Île de Man\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
+<tr><td>Îles Cayman\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
+<tr><td>Îles Falkland\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
+<tr><td>Îles Turques et Caïques\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
+<tr><td>Îles Vierges britanniques\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
 <tr><td>Jersey</td><td>[tab] 29 avril</td><td>[tab] 2014</td><td>[tab] 29 avril</td><td>[tab] 2014</td></tr>
 <tr><td>Montserrat\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)\*</td><td>[tab] 7 septembre</td><td>[tab] 1994</td><td>[tab] 7 septembre</td><td>[tab] 1994</td></tr>
@@ -688,7 +694,6 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Saint-Marin</td><td>25 novembre</td><td>1991 A</td><td>25 décembre</td><td>1991</td></tr>
 <tr><td>Saint-Siège\*</td><td>20 avril</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>26 octobre</td><td>1993</td><td>25 novembre</td><td>1993</td></tr>
-<tr><td>Salomon, Iles</td><td>10 avril</td><td>1995 A</td><td>10 mai</td><td>1995</td></tr>
 <tr><td>Samoa\*</td><td>29 novembre</td><td>1994</td><td>29 décembre</td><td>1994</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>14 mai</td><td>1991 A</td><td>13 juin</td><td>1991</td></tr>
 <tr><td>Sénégal</td><td>31 juillet</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
@@ -698,14 +703,13 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Singapour\*</td><td>5 octobre</td><td>1995 A</td><td>4 novembre</td><td>1995</td></tr>
 <tr><td>Slovaquie\* \*\*</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td>Somalie<sup>\*</sup></td><td>1<sup>er</sup> octobre</td><td>2015</td><td>31 octobre</td><td>2015</td></tr>
+<tr><td>Somalie\*</td><td>1<sup>er</sup> octobre</td><td>2015</td><td>31 octobre</td><td>2015</td></tr>
 <tr><td>Soudan</td><td>3 août</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
 <tr><td>Soudan du Sud</td><td>23 janvier</td><td>2015 A</td><td>22 février</td><td>2015</td></tr>
 <tr><td>Sri Lanka</td><td>12 juillet</td><td>1991</td><td>11 août</td><td>1991</td></tr>
 <tr><td>Suède\*\*</td><td>29 juin</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
 <tr><td>Suisse\* \*\*</td><td>24 février</td><td>1997</td><td>26 mars</td><td>1997</td></tr>
 <tr><td>Suriname</td><td>1<sup>er</sup> mars</td><td>1993</td><td>31 mars</td><td>1993</td></tr>
-<tr><td>Swaziland\*</td><td>7 septembre</td><td>1995</td><td>7 octobre</td><td>1995</td></tr>
 <tr><td>Syrie\*</td><td>15 juillet</td><td>1993</td><td>14 août</td><td>1993</td></tr>
 <tr><td>Tadjikistan</td><td>26 octobre</td><td>1993 A</td><td>25 novembre</td><td>1993</td></tr>
 <tr><td>Tanzanie</td><td>10 juin</td><td>1991</td><td>10 juillet</td><td>1991</td></tr>
@@ -727,21 +731,20 @@ Champ d’application de la Convention le 25 octobre 2016**[^t-2]**
 <tr><td>Yémen</td><td>1<sup>er</sup> mai</td><td>1991</td><td>31 mai</td><td>1991</td></tr>
 <tr><td>Zambie</td><td>6 décembre</td><td>1991</td><td>5 janvier</td><td>1992</td></tr>
 <tr><td>Zimbabwe</td><td>11 septembre</td><td>1990</td><td>11 octobre</td><td>1990</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Jusqu’au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1er juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique du 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Jusqu’au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique du 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS.</td></tr>
 </table>
 
-[^t-2]: [RO 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055), [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22), [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83), [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233), [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275), [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222)[3803](https://fedlex.data.admin.ch/eli/oc/2016/635). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
 **Suisse**[^t-3]
 
-La Suisse renvoie expressément au devoir de tout Etat d’appliquer les normes du droit international humanitaire et du droit national, dans la mesure où celles-ci assurent mieux à l’enfant protection et assistance dans les conflits armés.
+La Suisse renvoie expressément au devoir de tout État d’appliquer les normes du droit international humanitaire et du droit national, dans la mesure où celles-ci assurent mieux à l’enfant protection et assistance dans les conflits armés.
 
-Art. 5*[^t-4]*
+Art. 5[^t-4]
 
-Art. 7*[^t-5]*
+Art. 7[^t-5]
 
 Art. 10, par. 1
 
@@ -765,10 +768,10 @@ Est réservée la procédure pénale suisse des mineurs qui ne garantit ni le dr
 [^t-6]: [RO 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
 [^t-7]: [RO 2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22)[813](https://fedlex.data.admin.ch/eli/oc/2004/90)
 
-Champ d’application de l’Amendement le 4 juin 2014**[^t-8]**
+Champ d’application de l’Amendement le 4 juin 2014[^t-8]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>5 août</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Algérie</td><td>21 janvier</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Allemagne</td><td>25 juin</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
@@ -806,12 +809,13 @@ Champ d’application de l’Amendement le 4 juin 2014**[^t-8]**
 <tr><td>Danemark</td><td>10 septembre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Djibouti</td><td>21 septembre</td><td>2001</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Dominique</td><td>5 juillet</td><td>2001</td><td>18 novembre</td><td>2002</td></tr>
-<tr><td>Egypte</td><td>28 décembre</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
-<tr><td>Emirats arabes unis</td><td>11 novembre</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
-<tr><td>Equateur</td><td>25 février</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
+<tr><td>Égypte</td><td>28 décembre</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
+<tr><td>Émirats arabes unis</td><td>11 novembre</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
+<tr><td>Équateur</td><td>25 février</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Espagne</td><td>13 janvier</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Estonie</td><td>6 décembre</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
-<tr><td>Ethiopie</td><td>15 avril</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
+<tr><td>Eswatini</td><td>17 janvier</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
+<tr><td>Éthiopie</td><td>15 avril</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Fidji</td><td>20 août</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Finlande</td><td>3 janvier</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>France</td><td>20 juin</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
@@ -844,7 +848,7 @@ Champ d’application de l’Amendement le 4 juin 2014**[^t-8]**
 <tr><td>Liechtenstein</td><td>21 janvier</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Lituanie</td><td>27 mars</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Luxembourg</td><td>11 juillet</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
-<tr><td>Macédoine</td><td>16 octobre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
+<tr><td>Macédoine du Nord</td><td>16 octobre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Malaisie</td><td>19 août</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Maldives</td><td>2 novembre</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Mali</td><td>4 mars</td><td>1999</td><td>18 novembre</td><td>2002</td></tr>
@@ -899,7 +903,6 @@ Champ d’application de l’Amendement le 4 juin 2014**[^t-8]**
 <tr><td>Suède</td><td>17 octobre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Suisse</td><td>2 décembre</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Suriname</td><td>23 mai</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
-<tr><td>Swaziland</td><td>17 janvier</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Syrie</td><td>16 juin</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Tchad</td><td>16 mai</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Thaïlande</td><td>30 avril</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
@@ -917,4 +920,4 @@ Champ d’application de l’Amendement le 4 juin 2014**[^t-8]**
 <tr><td colspan="5"><sup>a</sup> L’amendement ne vaut pas pour Tokélaou.</td></tr>
 </table>
 
-[^t-8]: [RO 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544), [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-8]: [RO 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544), [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

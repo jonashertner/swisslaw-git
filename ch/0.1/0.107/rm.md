@@ -3,11 +3,11 @@ sr: "0.107"
 title: "Convenziun dals 20 da november 1989 davart ils dretgs da l'uffant"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: rm
-version: 2016-10-25
+version: 2023-02-27
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20161025/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20161025-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20161025/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20230227/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20230227-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20230227/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20161025/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-Translaziun*[^t-1]*
+Translaziun
 
-Concludida a New York ils 20 da november 1989
+Concludida a New York ils 20 da november 1989 Approvada da l’Assamblea federala ils 13 da december 1996[^t-1] Document da ratificaziun deposità da la Svizra ils 24 da favrer 1997 Entrada en vigur per la Svizra ils 26 da mars 1997
 
-Approvada da l’Assamblea federala ils 13 da december 1996[^t-2]
+(Versiun dals 27 da favrer 2023)
 
-Document da ratificaziun deposità da la Svizra ils 24 da favrer 1997
-
-Entrada en vigur per la Svizra ils 26 da mars 1997
-
-(Versiun dals 25 da october 2016)
-
-[^t-1]: AS **1998** 2055; BBl **1994** V 1 Text original franzos.
-[^t-2]: [AS 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
+[^t-1]: AS **1998** 2055; BBL **1994** V 1 AS **1998** 2053
 
 *Preambel*
 
@@ -51,7 +44,7 @@ considerond ch’igl è impurtant da preparar cumplainamain l’uffant ad ina vi
 
 sa regurdond che la necessitad da dar a l’uffant ina protecziun speziala è vegnida exprimida en la Decleraziun da Genevra da l’onn 1924 davart ils dretgs da l’uffant ed en la Decleraziun dals dretgs da l’uffant ch’è vegnida acceptada da l’Assamblea generala ils 20 da november 1959 ed en la Decleraziun universala dals dretgs umans e renconuschida en il Patg internaziunal davart ils dretgs civils e politics[^ingress-2] (en spezial en ils artitgels 23 e 24), en il Patg internaziunal davart ils dretgs economics, socials e culturals[^ingress-3] (en spezial en l’artitgel 10) sco er en ils statuts ed en ils documents relevants da las organisaziuns spezialisadas e d’autras organisaziuns internaziunalas che s’occupan dal bainstar da l’uffant,
 
-sa regurdond da la formulaziun en la Decleraziun dals dretgs da l’uffant che «l’uffant basegna pervi da sia madirezza corporala e spiertala mancanta ina protecziun speziala ed in’assistenza particulara, surtut ina protecziun giuridica adequata avant e suenter la naschientscha»,
+sa regurdond da la formulaziun en la Decleraziun dals dretgs da l’uffant che «l’uffant basegna pervia da sia madirezza corporala e spiertala mancanta ina protecziun speziala ed in’assistenza particulara, surtut ina protecziun giuridica adequata avant e suenter la naschientscha»,
 
 renviond a las disposiziuns da la Decleraziun davart ils princips socials e giuridics per la protecziun e per il bainstar dals uffants, cun in resguard spezial dal plazzament en ina famiglia da tgira e da l’adopziun sin plaun naziunal ed internaziunal, a las Reglas da las Naziuns Unidas davart las normas minimalas per la giurisdicziun per giuvenils (Reglas da Beijing) e da la Decleraziun davart la protecziun da las dunnas e dals uffants en situaziuns d’urgenza ed en conflicts armads,
 
@@ -379,7 +372,7 @@ Per quest intent e resguardond las disposiziuns respectivas da las convenziuns i
 
   - i) da valair sco innocent fin che la culpa è cumprovada en moda legala,
   - ii) da vegnir infurmà immediatamain e directamain davart las inculpaziuns ch’èn vegnidas fatgas cunter el, eventualmain tras ses geniturs u tras ses avugà, e da survegnir in’assistenza giuridica u in’autra assistenza adattada per preparar e per effectuar sia defensiun,
-  - iii) da laschar decider sia chaussa immediatamain d’ina autoritad cumpetenta u d’ina dretgira cumpetenta, independenta ed imparziala, en ina procedura gista tenor la lescha, e quai en preschientscha d’ina assistenza giuridica u d’ina autra assistenza adattada ed en preschientscha da ses geniturs u da ses avugà, sche quai na vegn betg considerà sco nuschaivel per ses bainstar surtut pervi da sia vegliadetgna u pervi da sia situaziun,
+  - iii) da laschar decider sia chaussa immediatamain d’ina autoritad cumpetenta u d’ina dretgira cumpetenta, independenta ed imparziala, en ina procedura gista tenor la lescha, e quai en preschientscha d’ina assistenza giuridica u d’ina autra assistenza adattada ed en preschientscha da ses geniturs u da ses avugà, sche quai na vegn betg considerà sco nuschaivel per ses bainstar surtut pervia da sia vegliadetgna u pervia da sia situaziun,
   - iv) da betg vegnir sfurzà d’agir sco perditga e d’admetter sia culpa sco er d’interrogar u da laschar interrogar las perditgas d’accusaziun e d’obtegnair la cumpariziun e l’interrogaziun da las perditgas da distgargia sut las medemas cundiziuns,
   - v) da laschar controllar, en cas ch’el vegn chattà culpaivel d’avair violà il dretg penal, la decisiun e tut las mesiras ch’èn vegnidas decretadas tenor la lescha tras in’autoritad cumpetenta surordinada u tras ina dretgira superiura cumpetenta independenta ed imparziala,
   - vi) da pretender la consultaziun gratuita d’in interpret, sche l’uffant n’enclegia betg u na discurra betg la lingua dal process,
@@ -513,7 +506,7 @@ L’original da questa Convenziun, da la quala il text arab, chinais, englais, f
 
 *Per confermar quai* han ils plenipotenziaris sutsegnads, ch’èn autorisads duidamain da lur regenzas da far quai, suttascrit questa Convenziun. Concludida a New York ils 20 da november 1989. (I suondan las suttascripziuns)
 
-Champ d’applicaziun da la Convenziun ils 25 october 2016**[^t-3]**
+Champ d’applicaziun ils 27 da favrer 2023[^t-2]
 
 <table>
 <tr><th>Stadis participants</th><th>Ratificaziun Participaziun (P) Decleraziun da successiun (S)</th><th></th><th>Entrada en vigur</th><th></th></tr>
@@ -527,30 +520,30 @@ Champ d’applicaziun da la Convenziun ils 25 october 2016**[^t-3]**
 <tr><td>Arabia Saudita\*</td><td>26 da schaner</td><td>1996 P</td><td>25 da favrer</td><td>1996</td></tr>
 <tr><td>Argentina\*</td><td>4 da december</td><td>1990</td><td>3 da schaner</td><td>1991</td></tr>
 <tr><td>Armenia</td><td>23 da zercladur</td><td>1993 P</td><td>23 da fanadur</td><td>1993</td></tr>
-<tr><td>Aserbeidschan</td><td>13 d’avust</td><td>1992 P</td><td>12 da settember</td><td>1992</td></tr>
+<tr><td>Aserbaidschan</td><td>13 d’avust</td><td>1992 P</td><td>12 da settember</td><td>1992</td></tr>
 <tr><td>Australia\*</td><td>17 da december</td><td>1990</td><td>16 da schaner</td><td>1991</td></tr>
 <tr><td>Austria\*\*</td><td>6 d’avust</td><td>1992</td><td>5 da settember</td><td>1992</td></tr>
 <tr><td>Bahamas\*</td><td>20 da favrer</td><td>1991</td><td>22 da mars</td><td>1991</td></tr>
 <tr><td>Bahrain</td><td>13 da favrer</td><td>1992 P</td><td>14 da mars</td><td>1992</td></tr>
 <tr><td>Bangladesch\*</td><td>3 d’avust</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Barbados</td><td>9 d’october</td><td>1990</td><td>8 da november</td><td>1990</td></tr>
-<tr><td>Bielorussia</td><td>1. d’october</td><td>1990</td><td>31 d’october</td><td>1990</td></tr>
+<tr><td>Belarus</td><td>1. d’october</td><td>1990</td><td>31 d’october</td><td>1990</td></tr>
 <tr><td>Belgia\* \*\*</td><td>16 da december</td><td>1991</td><td>15 da schaner</td><td>1992</td></tr>
 <tr><td>Belize</td><td>2 da matg</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Benin</td><td>3 d’avust</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
-<tr><td>Butan</td><td>1. d’avust</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Bolivia</td><td>26 da zercladur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>1. da settember</td><td>1993 S</td><td>6 da mars</td><td>1992</td></tr>
-<tr><td>Botsuana\*</td><td>14 da mars</td><td>1995 P</td><td>13 d’avrigl</td><td>1995</td></tr>
+<tr><td>Botsuana</td><td>14 da mars</td><td>1995 P</td><td>13 d’avrigl</td><td>1995</td></tr>
 <tr><td>Brasilia</td><td>24 da settember</td><td>1990</td><td>24 d’october</td><td>1990</td></tr>
 <tr><td>Brunei\*</td><td>27 da december</td><td>1995 P</td><td>26 da schaner</td><td>1996</td></tr>
 <tr><td>Bulgaria\*\*</td><td>3 da zercladur</td><td>1991</td><td>3 da fanadur</td><td>1991</td></tr>
 <tr><td>Burkina Faso</td><td>31 d’avust</td><td>1990</td><td>30 da settember</td><td>1990</td></tr>
 <tr><td>Burundi</td><td>19 d’october</td><td>1990</td><td>18 da november</td><td>1990</td></tr>
+<tr><td>Butan</td><td>1. d’avust</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Cambodscha</td><td>15 d’october</td><td>1992 P</td><td>14 da november</td><td>1992</td></tr>
 <tr><td>Camerun</td><td>11 da schaner</td><td>1993</td><td>10 da favrer</td><td>1993</td></tr>
 <tr><td>Canada\*</td><td>13 da december</td><td>1991</td><td>12 da schaner</td><td>1992</td></tr>
-<tr><td>Cap verd</td><td>4 da zercladur</td><td>1992 P</td><td>4 da fanadur</td><td>1992</td></tr>
+<tr><td>Cap Verd</td><td>4 da zercladur</td><td>1992 P</td><td>4 da fanadur</td><td>1992</td></tr>
 <tr><td>Chile</td><td>13 d’avust</td><td>1990</td><td>12 da settember</td><td>1990</td></tr>
 <tr><td>China\*</td><td>2 da mars</td><td>1992</td><td>1. d’avrigl</td><td>1992</td></tr>
 <tr><td>[tab] Hongkong <sup>a</sup></td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
@@ -562,19 +555,20 @@ Champ d’applicaziun da la Convenziun ils 25 october 2016**[^t-3]**
 <tr><td>Congo (Kinshasa)</td><td>27 da settember</td><td>1990</td><td>27 d’october</td><td>1990</td></tr>
 <tr><td>Corea (dal Nord)</td><td>21 da settember</td><td>1990</td><td>21 d’october</td><td>1990</td></tr>
 <tr><td>Corea (dal Sid)\*</td><td>20 da november</td><td>1991</td><td>20 da december</td><td>1991</td></tr>
-<tr><td>Costa Rica</td><td>21 d’avust</td><td>1990</td><td>20 da settember</td><td>1990</td></tr>
 <tr><td>Costa d’Ivur</td><td>4 da favrer</td><td>1991</td><td>6 da mars</td><td>1991</td></tr>
+<tr><td>Costa Rica</td><td>21 d’avust</td><td>1990</td><td>20 da settember</td><td>1990</td></tr>
 <tr><td>Croazia</td><td>12 d’october</td><td>1992 S</td><td>8 d’october</td><td>1991</td></tr>
 <tr><td>Cuba\*</td><td>21 d’avust</td><td>1991</td><td>20 da settember</td><td>1991</td></tr>
 <tr><td>Danemarc\* \*\*</td><td>19 da fanadur</td><td>1991</td><td>18 d’avust</td><td>1991</td></tr>
 <tr><td>Dominica</td><td>13 da mars</td><td>1991</td><td>12 d’avrigl</td><td>1991</td></tr>
 <tr><td>Dschibuti\*</td><td>6 da december</td><td>1990</td><td>5 da schaner</td><td>1991</td></tr>
 <tr><td>Ecuador</td><td>23 da mars</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
-<tr><td>Emirats Arabs Unids\*</td><td>3 da schaner</td><td>1997 P</td><td>2 da favrer</td><td>1997</td></tr>
-<tr><td>Egipta\*</td><td>6 da fanadur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
+<tr><td>Egipta</td><td>6 da fanadur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>El Salvador</td><td>10 da fanadur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
+<tr><td>Emirats Arabs Unids\*</td><td>3 da schaner</td><td>1997 P</td><td>2 da favrer</td><td>1997</td></tr>
 <tr><td>Eritrea</td><td>3 d’avust</td><td>1994</td><td>2 da settember</td><td>1994</td></tr>
 <tr><td>Estonia</td><td>21 d’october</td><td>1991 P</td><td>20 da november</td><td>1991</td></tr>
+<tr><td>Eswatini\*</td><td>7 da settember</td><td>1995</td><td>7 d’october</td><td>1995</td></tr>
 <tr><td>Etiopia</td><td>14 da matg</td><td>1991 P</td><td>13 da zercladur</td><td>1991</td></tr>
 <tr><td>Fidschi</td><td>13 d’avust</td><td>1993</td><td>12 da settember</td><td>1993</td></tr>
 <tr><td>Filippinas</td><td>21 d’avust</td><td>1990</td><td>20 da settember</td><td>1990</td></tr>
@@ -591,28 +585,27 @@ Champ d’applicaziun da la Convenziun ils 25 october 2016**[^t-3]**
 <tr><td>Grezia</td><td>11 da matg</td><td>1993</td><td>10 da zercladur</td><td>1993</td></tr>
 <tr><td>Guatemala</td><td>6 da zercladur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Guinea</td><td>13 da fanadur</td><td>1990 P</td><td>2 da settember</td><td>1990</td></tr>
-<tr><td>Guinea-Bissau</td><td>20 d’avust</td><td>1990</td><td>19 da settember</td><td>1990</td></tr>
 <tr><td>Guinea Equatoriala</td><td>15 da zercladur</td><td>1992 P</td><td>15 da fanadur</td><td>1992</td></tr>
-<tr><td>Gujana</td><td>14 da schaner</td><td>1991</td><td>13 da favrer</td><td>1991</td></tr>
+<tr><td>Guinea-Bissau</td><td>20 d’avust</td><td>1990</td><td>19 da settember</td><td>1990</td></tr>
+<tr><td>Guyana</td><td>14 da schaner</td><td>1991</td><td>13 da favrer</td><td>1991</td></tr>
 <tr><td>Haiti</td><td>8 da zercladur</td><td>1995</td><td>8 da fanadur</td><td>1995</td></tr>
 <tr><td>Honduras</td><td>10 d’avust</td><td>1990</td><td>9 da settember</td><td>1990</td></tr>
 <tr><td>India\*</td><td>11 da december</td><td>1992 P</td><td>10 da schaner</td><td>1993</td></tr>
 <tr><td>Indonesia</td><td>5 da settember</td><td>1990</td><td>5 d’october</td><td>1990</td></tr>
+<tr><td>Inslas Marshall</td><td>4 d’october</td><td>1993</td><td>3 da november</td><td>1993</td></tr>
+<tr><td>Inslas Salomon</td><td>10 d’avrigl</td><td>1995 P</td><td>10 da matg</td><td>1995</td></tr>
 <tr><td>Irac\*</td><td>15 da zercladur</td><td>1994 P</td><td>15 da fanadur</td><td>1994</td></tr>
 <tr><td>Iran\*</td><td>13 da fanadur</td><td>1994</td><td>12 d’avust</td><td>1994</td></tr>
 <tr><td>Irlanda\*\*</td><td>28 da settember</td><td>1992</td><td>28 d’october</td><td>1992</td></tr>
 <tr><td>Islanda\*</td><td>28 d’october</td><td>1992</td><td>27 da november</td><td>1992</td></tr>
+<tr><td>Israel</td><td>3 d’october</td><td>1991</td><td>2 da november</td><td>1991</td></tr>
 <tr><td>Italia\*\*</td><td>5 da settember</td><td>1991</td><td>5 d’october</td><td>1991</td></tr>
-<tr><td>Inslas da Cook\*</td><td>6 da zercladur</td><td>1997 P</td><td>6 da fanadur</td><td>1997</td></tr>
-<tr><td>Inslas da Marshall</td><td>4 d’october</td><td>1993</td><td>3 da november</td><td>1993</td></tr>
-<tr><td>Inslas da Salomon</td><td>10 d’avrigl</td><td>1995 P</td><td>10 da matg</td><td>1995</td></tr>
-<tr><td>Israel\*</td><td>3 d’october</td><td>1991</td><td>2 da november</td><td>1991</td></tr>
 <tr><td>Jemen</td><td>1. da matg</td><td>1991</td><td>31 da matg</td><td>1991</td></tr>
 <tr><td>Jordania\*</td><td>24 da matg</td><td>1991</td><td>23 da zercladur</td><td>1991</td></tr>
 <tr><td>Kasachstan</td><td>12 d’avust</td><td>1994</td><td>11 da settember</td><td>1994</td></tr>
 <tr><td>Katar\*</td><td>3 d’avrigl</td><td>1995</td><td>3 da matg</td><td>1995</td></tr>
 <tr><td>Kenia</td><td>30 da fanadur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
-<tr><td>Kirghisistan</td><td>7 d’october</td><td>1994 P</td><td>6 da november</td><td>1994</td></tr>
+<tr><td>Kirghistan</td><td>7 d’october</td><td>1994 P</td><td>6 da november</td><td>1994</td></tr>
 <tr><td>Kiribati\*</td><td>11 da december</td><td>1995 P</td><td>10 da schaner</td><td>1996</td></tr>
 <tr><td>Kuwait\*</td><td>21 d’october</td><td>1991</td><td>20 da november</td><td>1991</td></tr>
 <tr><td>Laos</td><td>8 da matg</td><td>1991 P</td><td>7 da zercladur</td><td>1991</td></tr>
@@ -624,16 +617,16 @@ Champ d’applicaziun da la Convenziun ils 25 october 2016**[^t-3]**
 <tr><td>Liechtenstein\*</td><td>22 da december</td><td>1995</td><td>21 da schaner</td><td>1996</td></tr>
 <tr><td>Lituania</td><td>31 da schaner</td><td>1992 P</td><td>1. da mars</td><td>1992</td></tr>
 <tr><td>Luxemburg\*</td><td>7 da mars</td><td>1994</td><td>6 d’avrigl</td><td>1994</td></tr>
+<tr><td>Macedonia dal Nord</td><td>2 da december</td><td>1993 S</td><td>17 da settember</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>19 da mars</td><td>1991</td><td>18 d’avrigl</td><td>1991</td></tr>
-<tr><td>Malawi</td><td>2 da schaner</td><td>1991 P</td><td>1. da favrer</td><td>1991</td></tr>
 <tr><td>Malaisia\*</td><td>17 da favrer</td><td>1995 P</td><td>19 da mars</td><td>1995</td></tr>
+<tr><td>Malawi</td><td>2 da schaner</td><td>1991 P</td><td>1. da favrer</td><td>1991</td></tr>
 <tr><td>Maledivas\*</td><td>11 da favrer</td><td>1991</td><td>13 da mars</td><td>1991</td></tr>
 <tr><td>Mali\*</td><td>20 da settember</td><td>1990</td><td>20 d’october</td><td>1990</td></tr>
 <tr><td>Malta</td><td>30 da settember</td><td>1990</td><td>30 d’october</td><td>1990</td></tr>
 <tr><td>Maroc\*</td><td>21 da zercladur</td><td>1993</td><td>21 da fanadur</td><td>1993</td></tr>
 <tr><td>Mauretania</td><td>16 da matg</td><td>1991</td><td>15 da zercladur</td><td>1991</td></tr>
 <tr><td>Mauritius</td><td>26 da fanadur</td><td>1990 P</td><td>2 da settember</td><td>1990</td></tr>
-<tr><td>Macedonia</td><td>2 da december</td><td>1993 S</td><td>17 da settember</td><td>1991</td></tr>
 <tr><td>Mexico</td><td>21 da settember</td><td>1990</td><td>21 d’october</td><td>1990</td></tr>
 <tr><td>Micronesia</td><td>5 da matg</td><td>1993 P</td><td>4 da zercladur</td><td>1993</td></tr>
 <tr><td>Moldavia\*\*</td><td>26 da schaner</td><td>1993 P</td><td>25 da favrer</td><td>1993</td></tr>
@@ -645,18 +638,19 @@ Champ d’applicaziun da la Convenziun ils 25 october 2016**[^t-3]**
 <tr><td>Namibia</td><td>30 da settember</td><td>1990</td><td>30 d’october</td><td>1990</td></tr>
 <tr><td>Nauru</td><td>27 da fanadur</td><td>1994 P</td><td>26 d’avust</td><td>1994</td></tr>
 <tr><td>Nepal</td><td>14 da settember</td><td>1990</td><td>14 d’october</td><td>1990</td></tr>
-<tr><td>Nova Zelanda\*</td><td>6 d’avrigl</td><td>1993</td><td>6 da matg</td><td>1993</td></tr>
 <tr><td>Nicaragua</td><td>5 d’october</td><td>1990</td><td>4 da november</td><td>1990</td></tr>
 <tr><td>Niger</td><td>30 da settember</td><td>1990</td><td>30 d’october</td><td>1990</td></tr>
 <tr><td>Nigeria</td><td>19 d’avrigl</td><td>1991</td><td>19 da matg</td><td>1991</td></tr>
-<tr><td>Niue</td><td>20 da december</td><td>1995 P</td><td>19 da schaner</td><td>1996</td></tr>
 <tr><td>Norvegia\*\*</td><td>8 da schaner</td><td>1991</td><td>7 da favrer</td><td>1991</td></tr>
+<tr><td>Nova Zelanda\*</td><td>6 d’avrigl</td><td>1993</td><td>6 da matg</td><td>1993</td></tr>
+<tr><td>Inslas Cook\*</td><td>6 da zercladur</td><td>1997 P</td><td>6 da fanadur</td><td>1997</td></tr>
+<tr><td>Niue</td><td>20 da december</td><td>1995 P</td><td>19 da schaner</td><td>1996</td></tr>
 <tr><td>Oman\*</td><td>9 da december</td><td>1996 P</td><td>8 da schaner</td><td>1997</td></tr>
-<tr><td>Pajais bass\* \*\*</td><td>6 da favrer</td><td>1995</td><td>8 da mars</td><td>1995</td></tr>
-<tr><td>[tab] Aruba\*</td><td>[tab] 18 da december</td><td>[tab] 2000</td><td>[tab] 18 da december</td><td>[tab] 2000</td></tr>
-<tr><td>[tab] Curaçao\*</td><td>[tab] 17 da december</td><td>[tab] 1997</td><td>[tab] 17 da december</td><td>[tab] 1997</td></tr>
-<tr><td>[tab] Territoris caribics (Bonaire, Sint Eustatius e Saba)</td><td>[tab] 17 da december</td><td>[tab] 1997</td><td>[tab] 17 da december</td><td>[tab] 1997</td></tr>
-<tr><td>[tab] Sint Maarten\*</td><td>[tab] 17 da december</td><td>[tab] 1997</td><td>[tab] 17 da december</td><td>[tab] 1997</td></tr>
+<tr><td>Pajais Bass\* \*\*</td><td>6 da favrer</td><td>1995</td><td>8 da mars</td><td>1995</td></tr>
+<tr><td>Aruba\*</td><td>[tab] 18 da december</td><td>[tab] 2000</td><td>[tab] 18 da december</td><td>[tab] 2000</td></tr>
+<tr><td>Curaçao\*</td><td>[tab] 17 da december</td><td>[tab] 1997</td><td>[tab] 17 da december</td><td>[tab] 1997</td></tr>
+<tr><td>Sint Maarten\*</td><td>[tab] 17 da december</td><td>[tab] 1997</td><td>[tab] 17 da december</td><td>[tab] 1997</td></tr>
+<tr><td>Territoris caribics (Bonaire, Sint Eustatius e Saba)\*</td><td>[tab] 17 da december</td><td>[tab] 1997</td><td>[tab] 17 da december</td><td>[tab] 1997</td></tr>
 <tr><td>Pakistan</td><td>12 da november</td><td>1990</td><td>12 da december</td><td>1990</td></tr>
 <tr><td>Palau</td><td>4 d’avust</td><td>1995 P</td><td>3 da settember</td><td>1995</td></tr>
 <tr><td>Palestina</td><td>2 d’avrigl</td><td>2014 P</td><td>2 da matg</td><td>2014</td></tr>
@@ -667,83 +661,86 @@ Champ d’applicaziun da la Convenziun ils 25 october 2016**[^t-3]**
 <tr><td>Pologna\* \*\*</td><td>7 da zercladur</td><td>1991</td><td>7 da fanadur</td><td>1991</td></tr>
 <tr><td>Portugal\* \*\*</td><td>21 da settember</td><td>1990</td><td>21 d’october</td><td>1990</td></tr>
 <tr><td>Reginavel Unì\* \*\*</td><td>16 da december</td><td>1991</td><td>15 da schaner</td><td>1992</td></tr>
-<tr><td>[tab] Anguilla\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
-<tr><td>[tab] Bermudas\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
-<tr><td>[tab] Inslas Virginas Britannicas\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
-<tr><td>[tab] Inslas da Falkland\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
-<tr><td>[tab] Insla da Man\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
-<tr><td>[tab] Jersey</td><td>[tab] 29 d’avrigl</td><td>[tab] 2014</td><td>[tab] 29 d’avrigl</td><td>[tab] 2014</td></tr>
-<tr><td>[tab] Inslas da Cayman\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
-<tr><td>[tab] Montserrat\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
-<tr><td>[tab] Inslas da Pitcairn (Ducie, Oeno, Henderson e Pitcairn)\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
-<tr><td>[tab] Sontg’Elena e territoris dependents (Ascension e Tristan da Cunha)\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
-<tr><td>[tab] Inslas da Turcs e da Caicos\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Alderney</td><td>4 da november</td><td>2020</td><td>4 da november</td><td>2020</td></tr>
+<tr><td>Anguilla\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Bermudas\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Guernsey</td><td>4 da november</td><td>2020</td><td>4 da november</td><td>2020</td></tr>
+<tr><td>Insla Man\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Inslas Cayman\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Inslas Falkland\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Inslas Pitcairn (Ducie, Oeno, Henderson e Pitcairn)\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Inslas Turcs e Caicos\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Inslas Virginas Britannicas\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Jersey</td><td>[tab] 29 d’avrigl</td><td>[tab] 2014</td><td>[tab] 29 d’avrigl</td><td>[tab] 2014</td></tr>
+<tr><td>Montserrat\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
+<tr><td>Sontg’Elena e territoris dependents (Ascension e Tristan da Cunha)\*</td><td>[tab] 7 da settember</td><td>[tab] 1994</td><td>[tab] 7 da settember</td><td>[tab] 1994</td></tr>
 <tr><td>Republica Centralafricana</td><td>23 d’avrigl</td><td>1992</td><td>23 da matg</td><td>1992</td></tr>
 <tr><td>Republica Dominicana</td><td>11 da zercladur</td><td>1991</td><td>11 da fanadur</td><td>1991</td></tr>
 <tr><td>Republica Tscheca\* \*\*</td><td>22 da favrer</td><td>1993 S</td><td>1. da schaner</td><td>1993</td></tr>
 <tr><td>Ruanda</td><td>24 da schaner</td><td>1991</td><td>23 da favrer</td><td>1991</td></tr>
 <tr><td>Rumenia\*\*</td><td>28 da settember</td><td>1990</td><td>28 d’october</td><td>1990</td></tr>
 <tr><td>Russia</td><td>16 d’avust</td><td>1990</td><td>15 da settember</td><td>1990</td></tr>
-<tr><td>Saint Kitts e Nevis</td><td>24 da fanadur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
-<tr><td>Saint Lucia</td><td>16 da zercladur</td><td>1993</td><td>16 da fanadur</td><td>1993</td></tr>
-<tr><td>Saint Vincent e las Grenadinas</td><td>26 d’october</td><td>1993</td><td>25 da november</td><td>1993</td></tr>
 <tr><td>Sambia</td><td>6 da december</td><td>1991</td><td>5 da schaner</td><td>1992</td></tr>
 <tr><td>Samoa\*</td><td>29 da november</td><td>1994</td><td>29 da december</td><td>1994</td></tr>
-<tr><td>San Marino</td><td>25 da november</td><td>1991 P</td><td>25 da december</td><td>1991</td></tr>
-<tr><td>São Tomé e Principe</td><td>14 da matg</td><td>1991 P</td><td>13 da zercladur</td><td>1991</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>14 da matg</td><td>1991 P</td><td>13 da zercladur</td><td>1991</td></tr>
 <tr><td>Senegal</td><td>31 da fanadur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Serbia</td><td>12 da mars</td><td>2001 S</td><td>27 d’avrigl</td><td>1992</td></tr>
 <tr><td>Seychellas</td><td>7 da settember</td><td>1990 P</td><td>7 d’october</td><td>1990</td></tr>
+<tr><td>Sierra Leone</td><td>18 da zercladur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Simbabwe</td><td>11 da settember</td><td>1990</td><td>11 d’october</td><td>1990</td></tr>
 <tr><td>Singapur\*</td><td>5 d’october</td><td>1995 P</td><td>4 da november</td><td>1995</td></tr>
 <tr><td>Siria\*</td><td>15 da fanadur</td><td>1993</td><td>14 d’avust</td><td>1993</td></tr>
 <tr><td>Slovachia\* \*\*</td><td>28 da matg</td><td>1993 S</td><td>1. da schaner</td><td>1993</td></tr>
 <tr><td>Slovenia\*</td><td>6 da fanadur</td><td>1992 S</td><td>25 da zercladur</td><td>1991</td></tr>
-<tr><td>Spagna\*</td><td>6 da december</td><td>1990</td><td>5 da schaner</td><td>1991</td></tr>
-<tr><td>Sontga Sedia\*</td><td>20 d’avrigl</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
-<tr><td>Sierra Leone</td><td>18 da zercladur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Somalia\*</td><td>1. d’october</td><td>2015</td><td>31 d’october</td><td>2015</td></tr>
+<tr><td>Son Cristof e Nevis</td><td>24 da fanadur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
+<tr><td>Son Marin</td><td>25 da november</td><td>1991 P</td><td>25 da december</td><td>1991</td></tr>
+<tr><td>Son Vincenz e las Grenadinas</td><td>26 d’october</td><td>1993</td><td>25 da november</td><td>1993</td></tr>
+<tr><td>Sontga Lucia</td><td>16 da zercladur</td><td>1993</td><td>16 da fanadur</td><td>1993</td></tr>
+<tr><td>Sontga Sedia\*</td><td>20 d’avrigl</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
+<tr><td>Spagna\*</td><td>6 da december</td><td>1990</td><td>5 da schaner</td><td>1991</td></tr>
 <tr><td>Sri Lanka</td><td>12 da fanadur</td><td>1991</td><td>11 d’avust</td><td>1991</td></tr>
 <tr><td>Sudan</td><td>3 d’avust</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
+<tr><td>Sudan dal Sid</td><td>23 da schaner</td><td>2015 P</td><td>22 da favrer</td><td>2015</td></tr>
 <tr><td>Surinam</td><td>1. da mars</td><td>1993</td><td>31 da mars</td><td>1993</td></tr>
 <tr><td>Svezia\*\*</td><td>29 da zercladur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Svizra\* \*\*</td><td>24 da favrer</td><td>1997</td><td>26 da mars</td><td>1997</td></tr>
-<tr><td>Swaziland\*</td><td>7 da settember</td><td>1995</td><td>7 d’october</td><td>1995</td></tr>
 <tr><td>Tadschikistan</td><td>26 d’october</td><td>1993 P</td><td>25 da november</td><td>1993</td></tr>
-<tr><td>Tansania</td><td>10 da zercladur</td><td>1991</td><td>10 da fanadur</td><td>1991</td></tr>
 <tr><td>Tailanda\*</td><td>27 da mars</td><td>1992 P</td><td>26 d’avrigl</td><td>1992</td></tr>
-<tr><td>Timor da l’Ost</td><td>16 d’avrigl</td><td>2003 P</td><td>16 da matg</td><td>2003</td></tr>
+<tr><td>Tansania</td><td>10 da zercladur</td><td>1991</td><td>10 da fanadur</td><td>1991</td></tr>
+<tr><td>Timor-Leste</td><td>16 d’avrigl</td><td>2003 P</td><td>16 da matg</td><td>2003</td></tr>
+<tr><td>Tirchia\*</td><td>4 d’avrigl</td><td>1995</td><td>4 da matg</td><td>1995</td></tr>
 <tr><td>Togo</td><td>1. d’avust</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Tonga</td><td>6 da november</td><td>1995 P</td><td>6 da december</td><td>1995</td></tr>
 <tr><td>Trinidad e Tobago</td><td>5 da december</td><td>1991</td><td>4 da schaner</td><td>1992</td></tr>
 <tr><td>Tschad</td><td>2 d’october</td><td>1990</td><td>1. da november</td><td>1990</td></tr>
 <tr><td>Tunesia\*</td><td>30 da schaner</td><td>1992</td><td>29 da favrer</td><td>1992</td></tr>
-<tr><td>Tirchia\*</td><td>4 d’avrigl</td><td>1995</td><td>4 da matg</td><td>1995</td></tr>
 <tr><td>Turkmenistan</td><td>20 da settember</td><td>1993 P</td><td>20 d’october</td><td>1993</td></tr>
 <tr><td>Tuvalu</td><td>22 da settember</td><td>1995 P</td><td>22 d’october</td><td>1995</td></tr>
-<tr><td>Uganda</td><td>17 d’avust</td><td>1990</td><td>16 da settember</td><td>1990</td></tr>
 <tr><td>Ucraina</td><td>28 d’avust</td><td>1991</td><td>27 da settember</td><td>1991</td></tr>
+<tr><td>Uganda</td><td>17 d’avust</td><td>1990</td><td>16 da settember</td><td>1990</td></tr>
 <tr><td>Ungaria\*\*</td><td>7 d’october</td><td>1991</td><td>6 da november</td><td>1991</td></tr>
 <tr><td>Uruguai\*</td><td>20 da november</td><td>1990</td><td>20 da december</td><td>1990</td></tr>
 <tr><td>Usbekistan</td><td>29 da zercladur</td><td>1994 P</td><td>29 da fanadur</td><td>1994</td></tr>
 <tr><td>Vanuatu</td><td>7 da fanadur</td><td>1993</td><td>6 d’avust</td><td>1993</td></tr>
 <tr><td>Venezuela\*</td><td>13 da settember</td><td>1990</td><td>13 d’october</td><td>1990</td></tr>
 <tr><td>Vietnam</td><td>28 da favrer</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
-<tr><td colspan="5">\* Resalvas e decleraziuns. \*\* Objecziuns vesair qua sutvart. Las resalvas, decleraziuns ed objecziuns na vegnan betg publitgadas en la CULF, cun excepziun da las resalvas e decleraziuns da la Svizra. Ils texts franzos ed englais pon vegnir consultads sin la pagina d’internet da las Naziuns Unidas (http://untreaty.un.org) u vegnir retratgs tar la Direcziun da dretg internaziunal public, Secziun dals contracts internaziunals, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Fin ils 30 da zercladur 1997 è la Convenziun stada applitgabla a Hongkong sin basa d’ina decleraziun d’extensiun da la Gronda Britannia. Dapi il 1. da fanadur 1997 è Hongkong ina regiun administrativa speziala (RAS) da la Republica populara da la China. Sin basa da la decleraziun chinaisa-britannica dals 19 da december 1984 restan quellas convenziuns, ch’eran applitgablas a Hongkong avant la restituziun a la Republica populara da la China, applitgablas er en la RAS.</td></tr>
+<tr><td colspan="5">\* Resalvas e decleraziuns.</td></tr>
+<tr><td colspan="5">\*\* Objecziuns. Las resalvas, las decleraziuns e las objecziuns na vegnan betg publitgadas en la AS, cun excepziun da las resalvas e las decleraziuns da la Svizra. Ils texts franzos ed englais pon vegnir consultads sin la pagina d’internet da las Naziuns Unidas (http://treaties.un.org/) u vegnir retratgs tar la Direcziun da dretg internaziunal public, Secziun Contracts internaziunals, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Fin ils 30 da zercladur 1997 è la Convenziun stada applitgabla a Hongkong sin basa d’ina decleraziun d’extensiun da la Gronda Britannia. Dapi il 1. da fanadur 1997 è Hongkong ina regiun administrativa speziala (RAS) da la Republica Populara da la China. Sin basa da la decleraziun chinaisa-britannica dals 19 da december 1984 restan quellas convenziuns, ch’eran applitgablas a Hongkong avant la restituziun a la Republica Populara da la China, applitgablas er en la RAS.</td></tr>
 </table>
 
-[^t-3]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055), [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22), [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83), [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233), [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275), [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222)[3803](https://fedlex.data.admin.ch/eli/oc/2016/635). Ina versiun actualisada dal champ d’applicaziun sa chatta sin la pagina d’internet dal DFAE (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102). Ina versiun actualisada dal champ d’applicaziun è publitgada sin la plattafurma da publicaziun dal dretg federal «Fedlex» sut la suandanta adressa: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Resalvas e decleraziuns
 
-Svizra**[^t-4]**
+Svizra[^t-3]
 
 La Svizra renda explicitamain attent a l’obligaziun da mintga stadi d’applitgar las normas dal dretg internaziunal umanitar e dal dretg naziunal, tant enavant che quels garanteschan a l’uffant ina meglra protecziun ed assistenza en conflicts armads.
 
-Artitgel 5*[^t-5]*
+Artitgel 5[^t-4]
 
-Artitgel 7*[^t-6]*
+Artitgel 7[^t-5]
 
 Artitgel 10 alinea 1
 
@@ -757,60 +754,77 @@ Artitgel 40
 
 Resalvada resta la procedura penala svizra per giuvenils che na garantescha ni in dretg nuncundiziunà ad in assistent ni la separaziun organisatorica e persunala tranter las autoritads d’inquisiziun e las autoritads da giudicament.
 
+…[^t-6]
+
 …[^t-7]
 
-…[^t-8]
-
-[^t-4]: Art. 1 al. 1 dal COF dals 13 da dec. 1996 ([AS 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)).
-[^t-5]: [AS 2004 3877](https://fedlex.data.admin.ch/eli/oc/2004/537)
+[^t-3]: Art. 1 al. 1 dal COF dals 13 da dec. 1996 ([AS 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)).
+[^t-4]: [AS 2004 3877](https://fedlex.data.admin.ch/eli/oc/2004/537)
+[^t-5]: [AS 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
 [^t-6]: [AS 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
-[^t-7]: [AS 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
-[^t-8]: [AS 2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22)[813](https://fedlex.data.admin.ch/eli/oc/2004/90)
+[^t-7]: [AS 2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22)[813](https://fedlex.data.admin.ch/eli/oc/2004/90)
 
-Champ d’applicaziun da la midada dals 4 da zercladur 2014**[^t-9]**
+Champ d’applicaziun da la midada dals 4 da zercladur 2014[^t-8]
 
 <table>
 <tr><th>Stadis participants</th><th>Ratificaziun Decleraziun da successiun (S)</th><th></th><th>Entrada en vigur</th><th></th></tr>
-<tr><td>Egipta</td><td>28 da december</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Africa dal Sid</td><td>5 d’avust</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Algeria</td><td>21 da schaner</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Andorra</td><td>17 da schaner</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Arabia Saudita</td><td>30 da zercladur</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Argentina</td><td>2 da mars</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Etiopia</td><td>15 d’avrigl</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Austria</td><td>1. da favrer</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Bahamas</td><td>23 d’october</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Bahrain</td><td>13 da zercladur</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Bangladesch</td><td>23 d’avrigl</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Bielorussia</td><td>23 da settember</td><td>2003</td><td>23 da settember</td><td>2003</td></tr>
+<tr><td>Belarus</td><td>23 da settember</td><td>2003</td><td>23 da settember</td><td>2003</td></tr>
 <tr><td>Belgia</td><td>29 da zercladur</td><td>2004</td><td>29 da zercladur</td><td>2004</td></tr>
 <tr><td>Belize</td><td>15 da december</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Butan</td><td>17 da mars</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Bolivia</td><td>15 da mars</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Botsuana</td><td>6 da mars</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Brasilia</td><td>26 da favrer</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Brunei</td><td>28 da zercladur</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Bulgaria</td><td>25 da zercladur</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Burkina Faso</td><td>26 da fanadur</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Butan</td><td>17 da mars</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Cambodscha</td><td>12 d’avust</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Camerun</td><td>5 d’october</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Canada</td><td>17 da settember</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Chile</td><td>19 d’avust</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>China</td><td>10 da fanadur</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Costa Rica</td><td>12 da favrer</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Cipra</td><td>20 da settember</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Columbia</td><td>31 da schaner</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>28 da favrer</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Corea (dal Nord)</td><td>23 da favrer</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Corea (dal Sid)</td><td>3 da favrer</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Costa d’Ivur</td><td>25 da settember</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Costa Rica</td><td>12 da favrer</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Croazia</td><td>26 da matg</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Cuba</td><td>23 d’october</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Danemarc</td><td>10 da settember</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Germania</td><td>25 da zercladur</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Dominica</td><td>5 da fanadur</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Dschibuti</td><td>21 da settember</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Ecuador</td><td>25 da favrer</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Egipta</td><td>28 da december</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Emirats Arabs Unids</td><td>11 da november</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Estonia</td><td>6 da december</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Eswatini</td><td>17 da schaner</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Etiopia</td><td>15 d’avrigl</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Fidschi</td><td>20 d’avust</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Filippinas</td><td>14 da schaner</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Finlanda</td><td>3 da schaner</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Frantscha</td><td>20 da zercladur</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Georgia</td><td>11 d’avrigl</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Germania</td><td>25 da zercladur</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Ghana</td><td>3 da favrer</td><td>2011</td><td>3 da favrer</td><td>2011</td></tr>
+<tr><td>Giamaica</td><td>6 d’avrigl</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Giapun</td><td>12 da zercladur</td><td>2003</td><td>12 da zercladur</td><td>2003</td></tr>
 <tr><td>Grenada</td><td>20 da matg</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Grezia</td><td>23 da settember</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Guatemala</td><td>26 da december</td><td>2002</td><td>26 da december</td><td>2002</td></tr>
 <tr><td>Guinea</td><td>14 da matg</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Gujana</td><td>15 da settember</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Guyana</td><td>15 da settember</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Haiti</td><td>20 da december</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Sontga Sedia</td><td>15 d’avust</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Indonesia</td><td>17 da december</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Irac</td><td>31 da december</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Iran</td><td>13 da november</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
@@ -818,23 +832,12 @@ Champ d’applicaziun da la midada dals 4 da zercladur 2014**[^t-9]**
 <tr><td>Islanda</td><td>14 da schaner</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Israel</td><td>27 da december</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Italia</td><td>14 da settember</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Giamaica</td><td>6 d’avrigl</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Giapun</td><td>12 da zercladur</td><td>2003</td><td>12 da zercladur</td><td>2003</td></tr>
 <tr><td>Jemen</td><td>3 d’avrigl</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Jordania</td><td>24 da settember</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Cambodscha</td><td>12 d’avust</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Camerun</td><td>5 d’october</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Canada</td><td>17 da settember</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Katar</td><td>5 da matg</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Kenia</td><td>12 da favrer</td><td>2003</td><td>12 da favrer</td><td>2003</td></tr>
-<tr><td>Kirghisistan</td><td>31 da matg</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Kirghistan</td><td>31 da matg</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Kiribati</td><td>9 da settember</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Columbia</td><td>31 da schaner</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Congo (Brazzaville)</td><td>28 da favrer</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Corea (dal Nord)</td><td>23 da favrer</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Corea (dal Sid)</td><td>3 da favrer</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Croazia</td><td>26 da matg</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Cuba</td><td>23 d’october</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Kuwait</td><td>9 da matg</td><td>2003</td><td>9 da matg</td><td>2003</td></tr>
 <tr><td>Laos</td><td>22 da settember</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Lesotho</td><td>12 da november</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
@@ -843,14 +846,14 @@ Champ d’applicaziun da la midada dals 4 da zercladur 2014**[^t-9]**
 <tr><td>Liechtenstein</td><td>21 da schaner</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Lituania</td><td>27 da mars</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Luxemburg</td><td>11 da fanadur</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Macedonia dal Nord</td><td>16 d’october</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Malaisia</td><td>19 d’avust</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Maldivas</td><td>2 da november</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Maledivas</td><td>2 da november</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Mali</td><td>4 da mars</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Malta</td><td>1. da matg</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Maroc</td><td>27 da schaner</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Mauretania</td><td>20 d’avust</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Mauritius</td><td>25 d’avust</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Macedonia</td><td>16 d’october</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Mexico</td><td>22 da settember</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Moldavia</td><td>30 da schaner</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Monaco</td><td>26 da matg</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
@@ -859,64 +862,58 @@ Champ d’applicaziun da la midada dals 4 da zercladur 2014**[^t-9]**
 <tr><td>Mosambic</td><td>4 da mars</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Myanmar</td><td>9 da zercladur</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Namibia</td><td>11 da december</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Nova Zelanda <sup>a</sup></td><td>16 da zercladur</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Nicaragua</td><td>23 da schaner</td><td>2003</td><td>23 da schaner</td><td>2003</td></tr>
-<tr><td>Pajais bass</td><td>4 da december</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>[tab] Aruba</td><td>18 da december</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Curaçao</td><td>4 da december</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Territoris caribics (Bonaire, Sint Eustatius e Saba)</td><td>4 da december</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Sint Maarten</td><td>4 da december</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Niger</td><td>24 d’october</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Norvegia</td><td>24 da favrer</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Nova Zelanda <sup>a</sup></td><td>16 da zercladur</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Oman</td><td>16 d’october</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Austria</td><td>1. da favrer</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Pajais Bass</td><td>4 da december</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Aruba</td><td>18 da december</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Curaçao</td><td>4 da december</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Sint Maarten</td><td>4 da december</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Territoris caribics (Bonaire, Sint Eustatius e Saba)</td><td>4 da december</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Pakistan</td><td>19 da schaner</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Palau</td><td>26 d’avrigl</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Panama</td><td>5 da november</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Paraguai</td><td>12 da december</td><td>2003</td><td>12 da december</td><td>2003</td></tr>
 <tr><td>Peru</td><td>26 da schaner</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Filippinas</td><td>14 da schaner</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Pologna</td><td>2 da settember</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Portugal</td><td>29 da zercladur</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Reginavel Unì</td><td>17 da fanadur</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Republica Tscheca</td><td>23 da matg</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Ruanda</td><td>19 da settember</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Rumenia</td><td>3 d’october</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Russia</td><td>1. da matg</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Sambia</td><td>9 d’avust</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Samoa</td><td>22 da mars</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>San Marino</td><td>10 d’october</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Arabia Saudita</td><td>30 da zercladur</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Svezia</td><td>17 d’october</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Svizra</td><td>2 da december</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Senegal</td><td>5 da november</td><td>2003</td><td>5 da november</td><td>2003</td></tr>
 <tr><td>Serbia</td><td>4 d’october</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Sierra Leone</td><td>27 da november</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Simbabwe</td><td>27 d’avust</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Singapur</td><td>29 da mars</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Siria</td><td>16 da zercladur</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Slovachia</td><td>29 da fanadur</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Son Marin</td><td>10 d’october</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Sontga Sedia</td><td>15 d’avust</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Spagna</td><td>13 da schaner</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Sri Lanka</td><td>29 da favrer</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Africa dal Sid</td><td>5 d’avust</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Sudan</td><td>9 d’avrigl</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Surinam</td><td>23 da matg</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Swaziland</td><td>17 da schaner</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Siria</td><td>16 da zercladur</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Svezia</td><td>17 d’october</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Svizra</td><td>2 da december</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Tailanda</td><td>30 d’avrigl</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
+<tr><td>Tirchia</td><td>9 da december</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Togo</td><td>19 da zercladur</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Trinidad e Tobago</td><td>1. da november</td><td>1996</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Tschad</td><td>16 da matg</td><td>2002</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Republica Tscheca</td><td>23 da matg</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Tunesia</td><td>29 da mars</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Tirchia</td><td>9 da december</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Uganda</td><td>27 da zercladur</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Ucraina</td><td>3 da fanadur</td><td>2003</td><td></td><td></td></tr>
+<tr><td>Uganda</td><td>27 da zercladur</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Uruguai</td><td>17 da favrer</td><td>1999</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Usbekistan</td><td>25 d’avrigl</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Venezuela</td><td>2 da november</td><td>1998</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Emirats Arabs Unids</td><td>11 da november</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Reginavel Unì</td><td>17 da fanadur</td><td>1997</td><td>18 da november</td><td>2002</td></tr>
 <tr><td>Vietnam</td><td>11 da schaner</td><td>2000</td><td>18 da november</td><td>2002</td></tr>
-<tr><td>Cipra</td><td>20 da settember</td><td>2001</td><td>18 da november</td><td>2002</td></tr>
 <tr><td colspan="5"><sup>a</sup> La midada na vala betg per Tokelau.</td></tr>
 </table>
 
-[^t-9]: [AS 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544)e [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Ina versiun actualisada dal champ d’applicaziun sa chatta sin la pagina d’internet dal DFAE (www.eda.admin.ch/vertraege).
+[^t-8]: [AS 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544)e [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Ina versiun actualisada dal champ d’applicaziun è publitgada sin la plattafurma da publicaziun dal dretg federal «Fedlex» sut la suandanta adressa: https://www.fedlex.admin.ch/de/treaty.

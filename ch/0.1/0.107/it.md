@@ -3,25 +3,26 @@ sr: "0.107"
 title: Convenzione del 20 novembre 1989 sui diritti del fanciullo
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: it
-version: 2016-10-25
+version: 2023-02-27
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20161025/it/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20161025-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20161025/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20230227/it/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20230227-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20230227/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione sui diritti del fanciullo
 
-Traduzione*[^t-1]*
+RU **1998** 2055; FF **1994** V 1
 
-Conclusa a Nuova York il 20 novembre 1989 Approvata dall’Assemblea federale il 13 dicembre 1996[^t-2] Ratificata dalla Svizzera con strumento depositato il 24 febbraio 1997 Entrata in vigore per la Svizzera il 26 marzo 1997
+Traduzione
 
-(Stato 25 ottobre 2016)
+Conclusa a Nuova York il 20 novembre 1989 Approvata dall’Assemblea federale il 13 dicembre 1996[^t-1] Ratificata dalla Svizzera con strumento depositato il 24 febbraio 1997 Entrata in vigore per la Svizzera il 26 marzo 1997
 
-[^t-1]: RU **1998** 2055; FF **1994** V 1 Dal testo originale francese.
-[^t-2]: [RU 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
+(Stato 27 febbraio 2023)
+
+[^t-1]: [RU 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
 
 *Preambolo*
 
@@ -505,7 +506,7 @@ L’originale della presente Convenzione i cui testi in lingua araba, cinese, fr
 
 *In fede di che,* i plenipotenziari sottoscritti debitamente abilitati a tal fine dai loro rispettivi governi, hanno firmato la presente Convenzione. Fatto a New York, il 20 novembre 1989. (Seguono le firme)
 
-Campo d’applicazione della Convenzione il 25 ottobre 2016**[^t-3]**
+Campo d’applicazione della Convenzione il 27 febbraio 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -532,7 +533,7 @@ Campo d’applicazione della Convenzione il 25 ottobre 2016**[^t-3]**
 <tr><td>Bhutan</td><td>1° agosto</td><td>1990</td><td>2 settembre</td><td>1990</td></tr>
 <tr><td>Bolivia</td><td>26 giugno</td><td>1990</td><td>2 settembre</td><td>1990</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>1° settembre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
-<tr><td>Botswana\*</td><td>14 marzo</td><td>1995 A</td><td>13 aprile</td><td>1995</td></tr>
+<tr><td>Botswana</td><td>14 marzo</td><td>1995 A</td><td>13 aprile</td><td>1995</td></tr>
 <tr><td>Brasile</td><td>24 settembre</td><td>1990</td><td>24 ottobre</td><td>1990</td></tr>
 <tr><td>Brunei\*</td><td>27 dicembre</td><td>1995 A</td><td>26 gennaio</td><td>1996</td></tr>
 <tr><td>Bulgaria\*\*</td><td>3 giugno</td><td>1991</td><td>3 luglio</td><td>1991</td></tr>
@@ -563,11 +564,12 @@ Campo d’applicazione della Convenzione il 25 ottobre 2016**[^t-3]**
 <tr><td>Dominica</td><td>13 marzo</td><td>1991</td><td>12 aprile</td><td>1991</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>11 giugno</td><td>1991</td><td>11 luglio</td><td>1991</td></tr>
 <tr><td>Ecuador</td><td>23 marzo</td><td>1990</td><td>2 settembre</td><td>1990</td></tr>
-<tr><td>Egitto\*</td><td>6 luglio</td><td>1990</td><td>2 settembre</td><td>1990</td></tr>
+<tr><td>Egitto</td><td>6 luglio</td><td>1990</td><td>2 settembre</td><td>1990</td></tr>
 <tr><td>El Salvador</td><td>10 luglio</td><td>1990</td><td>2 settembre</td><td>1990</td></tr>
 <tr><td>Emirati Arabi Uniti\*</td><td>3 gennaio</td><td>1997 A</td><td>2 febbraio</td><td>1997</td></tr>
 <tr><td>Eritrea</td><td>3 agosto</td><td>1994</td><td>2 settembre</td><td>1994</td></tr>
 <tr><td>Estonia</td><td>21 ottobre</td><td>1991 A</td><td>20 novembre</td><td>1991</td></tr>
+<tr><td>Eswatini\*</td><td>7 settembre</td><td>1995</td><td>7 ottobre</td><td>1995</td></tr>
 <tr><td>Etiopia</td><td>14 maggio</td><td>1991 A</td><td>13 giugno</td><td>1991</td></tr>
 <tr><td>Figi</td><td>13 agosto</td><td>1993</td><td>12 settembre</td><td>1993</td></tr>
 <tr><td>Filippine</td><td>21 agosto</td><td>1990</td><td>20 settembre</td><td>1990</td></tr>
@@ -597,7 +599,6 @@ Campo d’applicazione della Convenzione il 25 ottobre 2016**[^t-3]**
 <tr><td>Iraq\*</td><td>15 giugno</td><td>1994 A</td><td>15 luglio</td><td>1994</td></tr>
 <tr><td>Irlanda\*\*</td><td>28 settembre</td><td>1992</td><td>28 ottobre</td><td>1992</td></tr>
 <tr><td>Islanda\*</td><td>28 ottobre</td><td>1992</td><td>27 novembre</td><td>1992</td></tr>
-<tr><td>Isole Cook\*</td><td>6 giugno</td><td>1997 A</td><td>6 luglio</td><td>1997</td></tr>
 <tr><td>Isole Marshall</td><td>4 ottobre</td><td>1993</td><td>3 novembre</td><td>1993</td></tr>
 <tr><td>Israele\*</td><td>3 ottobre</td><td>1991</td><td>2 novembre</td><td>1991</td></tr>
 <tr><td>Italia\*\*</td><td>5 settembre</td><td>1991</td><td>5 ottobre</td><td>1991</td></tr>
@@ -615,7 +616,7 @@ Campo d’applicazione della Convenzione il 25 ottobre 2016**[^t-3]**
 <tr><td>Liechtenstein\*</td><td>22 dicembre</td><td>1995</td><td>21 gennaio</td><td>1996</td></tr>
 <tr><td>Lituania</td><td>31 gennaio</td><td>1992 A</td><td>1° marzo</td><td>1992</td></tr>
 <tr><td>Lussemburgo\*</td><td>7 marzo</td><td>1994</td><td>6 aprile</td><td>1994</td></tr>
-<tr><td>Macedonia</td><td>2 dicembre</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>2 dicembre</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>19 marzo</td><td>1991</td><td>18 aprile</td><td>1991</td></tr>
 <tr><td>Malawi</td><td>2 gennaio</td><td>1991 A</td><td>1° febbraio</td><td>1991</td></tr>
 <tr><td>Malaysia\*</td><td>17 febbraio</td><td>1995 A</td><td>19 marzo</td><td>1995</td></tr>
@@ -639,9 +640,10 @@ Campo d’applicazione della Convenzione il 25 ottobre 2016**[^t-3]**
 <tr><td>Nicaragua</td><td>5 ottobre</td><td>1990</td><td>4 novembre</td><td>1990</td></tr>
 <tr><td>Niger</td><td>30 settembre</td><td>1990</td><td>30 ottobre</td><td>1990</td></tr>
 <tr><td>Nigeria</td><td>19 aprile</td><td>1991</td><td>19 maggio</td><td>1991</td></tr>
-<tr><td>Niue</td><td>20 dicembre</td><td>1995 A</td><td>19 gennaio</td><td>1996</td></tr>
 <tr><td>Norvegia\*\*</td><td>8 gennaio</td><td>1991</td><td>7 febbraio</td><td>1991</td></tr>
 <tr><td>Nuova Zelanda\*</td><td>6 aprile</td><td>1993</td><td>6 maggio</td><td>1993</td></tr>
+<tr><td>Isole Cook\*</td><td>6 giugno</td><td>1997 A</td><td>6 luglio</td><td>1997</td></tr>
+<tr><td>Niue</td><td>20 dicembre</td><td>1995 A</td><td>19 gennaio</td><td>1996</td></tr>
 <tr><td>Oman\*</td><td>9 dicembre</td><td>1996 A</td><td>8 gennaio</td><td>1997</td></tr>
 <tr><td>Paesi Bassi\* \*\*</td><td>6 febbraio</td><td>1995</td><td>8 marzo</td><td>1995</td></tr>
 <tr><td>Aruba\*</td><td>18 dicembre</td><td>2000</td><td>18 dicembre</td><td>2000</td></tr>
@@ -659,8 +661,10 @@ Campo d’applicazione della Convenzione il 25 ottobre 2016**[^t-3]**
 <tr><td>Portogallo\* \*\*</td><td>21 settembre</td><td>1990</td><td>21 ottobre</td><td>1990</td></tr>
 <tr><td>Qatar\*</td><td>3 aprile</td><td>1995</td><td>3 maggio</td><td>1995</td></tr>
 <tr><td>Regno Unito\* \*\*</td><td>16 dicembre</td><td>1991</td><td>15 gennaio</td><td>1992</td></tr>
+<tr><td>Alderney</td><td>4 novembre</td><td>2020</td><td>4 novembre</td><td>2020</td></tr>
 <tr><td>Anguilla\*</td><td>7 settembre</td><td>1994</td><td>7 settembre</td><td>1994</td></tr>
 <tr><td>Bermuda\*</td><td>7 settembre</td><td>1994</td><td>7 settembre</td><td>1994</td></tr>
+<tr><td>Guernesey</td><td>4 novembre</td><td>2020</td><td>4 novembre</td><td>2020</td></tr>
 <tr><td>Isola di Man\*</td><td>7 settembre</td><td>1994</td><td>7 settembre</td><td>1994</td></tr>
 <tr><td>Isole Caimane\*</td><td>7 settembre</td><td>1994</td><td>7 settembre</td><td>1994</td></tr>
 <tr><td>Isole Falkland\*</td><td>7 settembre</td><td>1994</td><td>7 settembre</td><td>1994</td></tr>
@@ -699,7 +703,6 @@ Campo d’applicazione della Convenzione il 25 ottobre 2016**[^t-3]**
 <tr><td>Suriname</td><td>1° marzo</td><td>1993</td><td>31 marzo</td><td>1993</td></tr>
 <tr><td>Svezia\*\*</td><td>29 giugno</td><td>1990</td><td>2 settembre</td><td>1990</td></tr>
 <tr><td>Svizzera\* \*\*</td><td>24 febbraio</td><td>1997</td><td>26 marzo</td><td>1997</td></tr>
-<tr><td>Swaziland\*</td><td>7 settembre</td><td>1995</td><td>7 ottobre</td><td>1995</td></tr>
 <tr><td>Tagikistan</td><td>26 ottobre</td><td>1993 A</td><td>25 novembre</td><td>1993</td></tr>
 <tr><td>Tanzania</td><td>10 giugno</td><td>1991</td><td>10 luglio</td><td>1991</td></tr>
 <tr><td>Thailandia\*</td><td>27 marzo</td><td>1992 A</td><td>26 aprile</td><td>1992</td></tr>
@@ -727,17 +730,17 @@ Campo d’applicazione della Convenzione il 25 ottobre 2016**[^t-3]**
 <tr><td colspan="5"><sup>a</sup> Sino al 30 giu. 1997 la Conv. era applicabile a Hong Kong sulla base di una dichiarazione d’estensione territoriale del Regno Unito. A partire dal 1° lug. 1997 Hong Kong è divenuta una Regione amministrativa speciale (RAS) della Repubblica popolare di Cina. In virtù della dichiarazione sino-britannica del 19 dic. 1984 gli accordi applicabili a Hong Kong prima dell’annessione alla Repubblica popolare di Cina rimangono applicabili alla RAS.</td></tr>
 </table>
 
-[^t-3]: [RU 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055), [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22), [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83), [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233), [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275), [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222)e [3803](https://fedlex.data.admin.ch/eli/oc/2016/635). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2022 102](https://fedlex.data.admin.ch/eli/oc/2022/102). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.
 
 Riserve e dichiarazioni
 
-**Svizzera**[^t-4]
+**Svizzera**[^t-3]
 
 La Svizzera rinvia espressamente al dovere di ogni Stato di applicare le norme del diritto internazionale umanitario e del diritto nazionale, nella misura in cui garantiscano maggiore protezione ed assistenza al fanciullo nei conflitti armati.
 
-Articolo 5*[^t-5]*
+Articolo 5[^t-4]
 
-Articolo 7*[^t-6]*
+Articolo 7[^t-5]
 
 Articolo 10 paragrafo 1:
 
@@ -751,17 +754,17 @@ Articolo 40:
 
 È fatta salva la procedura penale minorile svizzera, la quale non garantisce né il diritto incondizionato a un’assistenza né la separazione, a livello personale e organizzativo, fra l’autorità istruttoria e l’autorità giudicante.
 
+…[^t-6]
+
 …[^t-7]
 
-…[^t-8]
-
-[^t-4]: Art. 1 cpv. 1 del DF del 13 dic. 1996 ([RU 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)).
-[^t-5]: [RU 2004 3877](https://fedlex.data.admin.ch/eli/oc/2004/537)
+[^t-3]: Art. 1 cpv. 1 del DF del 13 dic. 1996 ([RU 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)).
+[^t-4]: [RU 2004 3877](https://fedlex.data.admin.ch/eli/oc/2004/537)
+[^t-5]: [RU 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
 [^t-6]: [RU 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
-[^t-7]: [RU 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
-[^t-8]: [RU 2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22)[813](https://fedlex.data.admin.ch/eli/oc/2004/90)
+[^t-7]: [RU 2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22)[813](https://fedlex.data.admin.ch/eli/oc/2004/90)
 
-Campo d’applicazione dell’emendamento il 4 giugno 2014**[^t-9]**
+Campo d’applicazione dell’emendamento il 4 giugno 2014[^t-8]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -805,6 +808,7 @@ Campo d’applicazione dell’emendamento il 4 giugno 2014**[^t-9]**
 <tr><td>Egitto</td><td>28 dicembre</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>11 novembre</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Estonia</td><td>6 dicembre</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
+<tr><td>Eswatini</td><td>17 gennaio</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Etiopia</td><td>15 aprile</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Figi</td><td>20 agosto</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Filippine</td><td>14 gennaio</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
@@ -841,7 +845,7 @@ Campo d’applicazione dell’emendamento il 4 giugno 2014**[^t-9]**
 <tr><td>Liechtenstein</td><td>21 gennaio</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Lituania</td><td>27 marzo</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Lussemburgo</td><td>11 luglio</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
-<tr><td>Macedonia</td><td>16 ottobre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
+<tr><td>Macedonia del Nord</td><td>16 ottobre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Malaysia</td><td>19 agosto</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Maldive</td><td>2 novembre</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Mali</td><td>4 marzo</td><td>1999</td><td>18 novembre</td><td>2002</td></tr>
@@ -860,7 +864,7 @@ Campo d’applicazione dell’emendamento il 4 giugno 2014**[^t-9]**
 <tr><td>Nicaragua</td><td>23 gennaio</td><td>2003</td><td>23 gennaio</td><td>2003</td></tr>
 <tr><td>Niger</td><td>24 ottobre</td><td>2001</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Norvegia</td><td>24 febbraio</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
-<tr><td>Nuova Zelanda<sup>a</sup></td><td>16 giugno</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
+<tr><td>Nuova Zelanda <sup>a</sup></td><td>16 giugno</td><td>2000</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Oman</td><td>16 ottobre</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Paesi Bassi <sup>a</sup></td><td>4 dicembre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Antille Olandesi</td><td>4 dicembre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
@@ -896,7 +900,6 @@ Campo d’applicazione dell’emendamento il 4 giugno 2014**[^t-9]**
 <tr><td>Suriname</td><td>23 maggio</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Svezia</td><td>17 ottobre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Svizzera</td><td>2 dicembre</td><td>1997</td><td>18 novembre</td><td>2002</td></tr>
-<tr><td>Swaziland</td><td>17 gennaio</td><td>2002</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Thailandia</td><td>30 aprile</td><td>1998</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Togo</td><td>19 giugno</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
 <tr><td>Trinidad e Tobago</td><td>1° novembre</td><td>1996</td><td>18 novembre</td><td>2002</td></tr>
@@ -914,4 +917,4 @@ Campo d’applicazione dell’emendamento il 4 giugno 2014**[^t-9]**
 <tr><td colspan="5"><sup>a</sup> L’emendamento non vale per il Tokelau.</td></tr>
 </table>
 
-[^t-9]: [RU 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544)e [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-8]: [RU 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544)e [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.

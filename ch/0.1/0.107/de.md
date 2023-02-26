@@ -3,25 +3,26 @@ sr: "0.107"
 title: Übereinkommen vom 20. November 1989 über die Rechte des Kindes
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: de
-version: 2016-10-25
+version: 2023-02-27
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20161025/de/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20161025-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20161025/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20230227/de/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20230227-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20230227/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen über die Rechte des Kindes
 
-Übersetzung*[^t-1]*
+AS **1998** 2055; BBl **1994** V 1
 
-Abgeschlossen in New York am 20. November 1989 Von der Bundesversammlung genehmigt am 13. Dezember 1996[^t-2] Ratifikationsurkunde durch die Schweiz hinterlegt am 24. Februar 1997 In Kraft getreten für die Schweiz am 26. März 1997
+Übersetzung
 
-(Stand am 25. Oktober 2016)
+Abgeschlossen in New York am 20. November 1989 Von der Bundesversammlung genehmigt am 13. Dezember 1996[^t-1] Ratifikationsurkunde durch die Schweiz hinterlegt am 24. Februar 1997 In Kraft getreten für die Schweiz am 26. März 1997
 
-[^t-1]: AS **1998** 2055; BBl **1994** V 1 Übersetzung des französischen Originaltexts.
-[^t-2]: [AS 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
+(Stand am 27. Februar 2023)
+
+[^t-1]: [AS 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
 
 *Präambel*
 
@@ -505,12 +506,12 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Abgeschlossen in New York am 20. November 1989. (Es folgen die Unterschriften)
 
-Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
+Geltungsbereich am 27. Februar 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan\*</td><td>28. März</td><td>1994</td><td>27. April</td><td>1994</td></tr>
-<tr><td>Ägypten\*</td><td>6. Juli</td><td>1990</td><td>2. September</td><td>1990</td></tr>
+<tr><td>Ägypten</td><td>6. Juli</td><td>1990</td><td>2. September</td><td>1990</td></tr>
 <tr><td>Albanien</td><td>27. Februar</td><td>1992</td><td>28. März</td><td>1992</td></tr>
 <tr><td>Algerien\*</td><td>16. April</td><td>1993</td><td>16. Mai</td><td>1993</td></tr>
 <tr><td>Andorra\*</td><td>2. Januar</td><td>1996</td><td>1. Februar</td><td>1996</td></tr>
@@ -533,7 +534,7 @@ Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
 <tr><td>Bhutan</td><td>1. August</td><td>1990</td><td>2. September</td><td>1990</td></tr>
 <tr><td>Bolivien</td><td>26. Juni</td><td>1990</td><td>2. September</td><td>1990</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>1. September</td><td>1993 N</td><td>6. März</td><td>1992</td></tr>
-<tr><td>Botsuana\*</td><td>14. März</td><td>1995 B</td><td>13. April</td><td>1995</td></tr>
+<tr><td>Botsuana</td><td>14. März</td><td>1995 B</td><td>13. April</td><td>1995</td></tr>
 <tr><td>Brasilien</td><td>24. September</td><td>1990</td><td>24. Oktober</td><td>1990</td></tr>
 <tr><td>Brunei\*</td><td>27. Dezember</td><td>1995 B</td><td>26. Januar</td><td>1996</td></tr>
 <tr><td>Bulgarien\*\*</td><td>3. Juni</td><td>1991</td><td>3. Juli</td><td>1991</td></tr>
@@ -543,7 +544,6 @@ Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
 <tr><td>China\*</td><td>2. März</td><td>1992</td><td>1. April</td><td>1992</td></tr>
 <tr><td>[tab] Hongkong <sup>a</sup></td><td>[tab] 7. September</td><td>[tab] 1994</td><td>[tab] 7. September</td><td>[tab] 1994</td></tr>
 <tr><td>[tab] Macau</td><td>[tab] 19. Oktober</td><td>[tab] 1999</td><td>[tab] 20. Dezember</td><td>[tab] 1999</td></tr>
-<tr><td>Cook-Inseln\*</td><td>6. Juni</td><td>1997 B</td><td>6. Juli</td><td>1997</td></tr>
 <tr><td>Costa Rica</td><td>21. August</td><td>1990</td><td>20. September</td><td>1990</td></tr>
 <tr><td>Côte d’Ivoire</td><td>4. Februar</td><td>1991</td><td>6. März</td><td>1991</td></tr>
 <tr><td>Dänemark\* \*\*</td><td>19. Juli</td><td>1991</td><td>18. August</td><td>1991</td></tr>
@@ -555,6 +555,7 @@ Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
 <tr><td>El Salvador</td><td>10. Juli</td><td>1990</td><td>2. September</td><td>1990</td></tr>
 <tr><td>Eritrea</td><td>3. August</td><td>1994</td><td>2. September</td><td>1994</td></tr>
 <tr><td>Estland</td><td>21. Oktober</td><td>1991 B</td><td>20. November</td><td>1991</td></tr>
+<tr><td>Eswatini\*</td><td>7. September</td><td>1995</td><td>7. Oktober</td><td>1995</td></tr>
 <tr><td>Fidschi</td><td>13. August</td><td>1993</td><td>12. September</td><td>1993</td></tr>
 <tr><td>Finnland\*\*</td><td>20. Juni</td><td>1991</td><td>20. Juli</td><td>1991</td></tr>
 <tr><td>Frankreich\* \*\*</td><td>7. August</td><td>1990</td><td>6. September</td><td>1990</td></tr>
@@ -620,7 +621,6 @@ Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
 <tr><td>Marshallinseln</td><td>4. Oktober</td><td>1993</td><td>3. November</td><td>1993</td></tr>
 <tr><td>Mauretanien</td><td>16. Mai</td><td>1991</td><td>15. Juni</td><td>1991</td></tr>
 <tr><td>Mauritius</td><td>26. Juli</td><td>1990 B</td><td>2. September</td><td>1990</td></tr>
-<tr><td>Mazedonien</td><td>2. Dezember</td><td>1993 N</td><td>17. September</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>21. September</td><td>1990</td><td>21. Oktober</td><td>1990</td></tr>
 <tr><td>Mikronesien</td><td>5. Mai</td><td>1993 B</td><td>4. Juni</td><td>1993</td></tr>
 <tr><td>Moldau\*\*</td><td>26. Januar</td><td>1993 B</td><td>25. Februar</td><td>1993</td></tr>
@@ -633,6 +633,8 @@ Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
 <tr><td>Nauru</td><td>27. Juli</td><td>1994 B</td><td>26. August</td><td>1994</td></tr>
 <tr><td>Nepal</td><td>14. September</td><td>1990</td><td>14. Oktober</td><td>1990</td></tr>
 <tr><td>Neuseeland\*</td><td>6. April</td><td>1993</td><td>6. Mai</td><td>1993</td></tr>
+<tr><td>Cook-Inseln\*</td><td>6. Juni</td><td>1997 B</td><td>6. Juli</td><td>1997</td></tr>
+<tr><td>Niue</td><td>20. Dezember</td><td>1995 B</td><td>19. Januar</td><td>1996</td></tr>
 <tr><td>Nicaragua</td><td>5. Oktober</td><td>1990</td><td>4. November</td><td>1990</td></tr>
 <tr><td>Niederlande\* \*\*</td><td>6. Februar</td><td>1995</td><td>8. März</td><td>1995</td></tr>
 <tr><td>Aruba\*</td><td>[tab] 18. Dezember</td><td>[tab] 2000</td><td>[tab] 18. Dezember</td><td>[tab] 2000</td></tr>
@@ -641,7 +643,7 @@ Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
 <tr><td>Sint Maarten\*</td><td>[tab] 17. Dezember</td><td>[tab] 1997</td><td>[tab] 17. Dezember</td><td>[tab] 1997</td></tr>
 <tr><td>Niger</td><td>30. September</td><td>1990</td><td>30. Oktober</td><td>1990</td></tr>
 <tr><td>Nigeria</td><td>19. April</td><td>1991</td><td>19. Mai</td><td>1991</td></tr>
-<tr><td>Niue</td><td>20. Dezember</td><td>1995 B</td><td>19. Januar</td><td>1996</td></tr>
+<tr><td>Nordmazedonien</td><td>2. Dezember</td><td>1993 N</td><td>17. September</td><td>1991</td></tr>
 <tr><td>Norwegen\*\*</td><td>8. Januar</td><td>1991</td><td>7. Februar</td><td>1991</td></tr>
 <tr><td>Oman\*</td><td>9. Dezember</td><td>1996 B</td><td>8. Januar</td><td>1997</td></tr>
 <tr><td>Österreich\*\*</td><td>6. August</td><td>1992</td><td>5. September</td><td>1992</td></tr>
@@ -684,7 +686,6 @@ Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
 <tr><td>Sudan</td><td>3. August</td><td>1990</td><td>2. September</td><td>1990</td></tr>
 <tr><td>Südsudan</td><td>23. Januar</td><td>2015 B</td><td>22. Februar</td><td>2015</td></tr>
 <tr><td>Suriname</td><td>1. März</td><td>1993</td><td>31. März</td><td>1993</td></tr>
-<tr><td>Swasiland\*</td><td>7. September</td><td>1995</td><td>7. Oktober</td><td>1995</td></tr>
 <tr><td>Syrien\*</td><td>15. Juli</td><td>1993</td><td>14. August</td><td>1993</td></tr>
 <tr><td>Tadschikistan</td><td>26. Oktober</td><td>1993 B</td><td>25. November</td><td>1993</td></tr>
 <tr><td>Tansania</td><td>10. Juni</td><td>1991</td><td>10. Juli</td><td>1991</td></tr>
@@ -708,10 +709,12 @@ Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
 <tr><td>Venezuela\*</td><td>13. September</td><td>1990</td><td>13. Oktober</td><td>1990</td></tr>
 <tr><td>Vereinigte Arabische Emirate\*</td><td>3. Januar</td><td>1997 B</td><td>2. Februar</td><td>1997</td></tr>
 <tr><td>Vereinigtes Königreich\* \*\*</td><td>16. Dezember</td><td>1991</td><td>15. Januar</td><td>1992</td></tr>
+<tr><td>Alderney</td><td>4. November</td><td>2020</td><td>4. November</td><td>2020</td></tr>
 <tr><td>Anguilla\*</td><td>[tab] 7. September</td><td>[tab] 1994</td><td>[tab] 7. September</td><td>[tab] 1994</td></tr>
 <tr><td>Bermudas\*</td><td>[tab] 7. September</td><td>[tab] 1994</td><td>[tab] 7. September</td><td>[tab] 1994</td></tr>
 <tr><td>Britische Jungferninseln\*</td><td>[tab] 7. September</td><td>[tab] 1994</td><td>[tab] 7. September</td><td>[tab] 1994</td></tr>
 <tr><td>Falklandinseln\*</td><td>[tab] 7. September</td><td>[tab] 1994</td><td>[tab] 7. September</td><td>[tab] 1994</td></tr>
+<tr><td>Guernsey</td><td>4. November</td><td>2020</td><td>4. November</td><td>2020</td></tr>
 <tr><td>Insel Man\*</td><td>[tab] 7. September</td><td>[tab] 1994</td><td>[tab] 7. September</td><td>[tab] 1994</td></tr>
 <tr><td>Jersey</td><td>[tab] 29. April</td><td>[tab] 2014</td><td>[tab] 29. April</td><td>[tab] 2014</td></tr>
 <tr><td>Kaimaninseln\*</td><td>[tab] 7. September</td><td>[tab] 1994</td><td>[tab] 7. September</td><td>[tab] 1994</td></tr>
@@ -722,22 +725,20 @@ Geltungsbereich des Übereinkommens am 25. Oktober 2016**[^t-3]**
 <tr><td>Vietnam</td><td>28. Februar</td><td>1990</td><td>2. September</td><td>1990</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>23. April</td><td>1992</td><td>23. Mai</td><td>1992</td></tr>
 <tr><td>Zypern</td><td>7. Februar</td><td>1991</td><td>9. März</td><td>1991</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">\*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Bis zum 30. Juni 1997 war das Übereink. aufgrund einer Ausdehungserklärung Grossbritanniens in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepubik China. Aufgrund der chinesisch-britischen Erklärung vom 19. Dez. 1984 bleiben diejenigen Abk., welche vor der Rückgabe an die Volksrepublik China in Hongkong anwendbar waren, auch in der SAR anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Bis zum 30. Juni 1997 war das Übereink. aufgrund einer Ausdehungserklärung Grossbritanniens in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepubik China. Aufgrund der chinesisch-britischen Erklärung vom 19. Dez. 1984 bleiben diejenigen Abk., welche vor der Rückgabe an die Volksrepublik China in Hongkong anwendbar waren, auch in der SAR anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055), [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22), [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83), [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233), [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275), [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222)[3803](https://fedlex.data.admin.ch/eli/oc/2016/635). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
-**Schweiz**[^t-4]
+**Schweiz**[^t-3]
 
 Die Schweiz weist ausdrücklich auf die Pflicht eines jeden Staates hin, die Normen des humanitären Völkerrechts und des innerstaatlichen Rechts anzuwenden, soweit diese für das Kind einen besseren Schutz und Beistand in bewaffneten Konflikten gewährleisten.
 
-Artikel 5*[^t-5]*
+Artikel 5[^t-4]
 
-Artikel 7*[^t-6]*
+Artikel 7[^t-5]
 
 Artikel 10 Absatz 1
 
@@ -751,17 +752,17 @@ Artikel 40
 
 Das schweizerische Jugendstrafverfahren, das weder einen bedingungslosen Anspruch auf einen Beistand noch die organisatorische und personelle Trennung zwischen untersuchenden und urteilenden Behörden sicherstellt, bleibt vorbehalten.
 
+…[^t-6]
+
 …[^t-7]
 
-…[^t-8]
-
-[^t-4]: Art. 1 Abs. 1 des BB vom 13. Dez. 1996 ([AS 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053))
-[^t-5]: [AS 2004 3877](https://fedlex.data.admin.ch/eli/oc/2004/537)
+[^t-3]: Art. 1 Abs. 1 des BB vom 13. Dez. 1996 ([AS 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053))
+[^t-4]: [AS 2004 3877](https://fedlex.data.admin.ch/eli/oc/2004/537)
+[^t-5]: [AS 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
 [^t-6]: [AS 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
-[^t-7]: [AS 2007 3839](https://fedlex.data.admin.ch/eli/oc/2007/497)
-[^t-8]: [AS 2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22)[813](https://fedlex.data.admin.ch/eli/oc/2004/90)
+[^t-7]: [AS 2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22)[813](https://fedlex.data.admin.ch/eli/oc/2004/90)
 
-Geltungsbereich der Änderung am 4. Juni 2014**[^t-9]**
+Geltungsbereich der Änderung am 4. Juni 2014[^t-8]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -793,6 +794,7 @@ Geltungsbereich der Änderung am 4. Juni 2014**[^t-9]**
 <tr><td>Dschibuti</td><td>21. September</td><td>2001</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Ecuador</td><td>25. Februar</td><td>1998</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Estland</td><td>6. Dezember</td><td>2000</td><td>18. November</td><td>2002</td></tr>
+<tr><td>Eswatini</td><td>17. Januar</td><td>2002</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Fidschi</td><td>20. August</td><td>1997</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Finnland</td><td>3. Januar</td><td>1997</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Frankreich</td><td>20. Juni</td><td>1997</td><td>18. November</td><td>2002</td></tr>
@@ -844,7 +846,6 @@ Geltungsbereich der Änderung am 4. Juni 2014**[^t-9]**
 <tr><td>Marokko</td><td>27. Januar</td><td>1997</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Mauretanien</td><td>20. August</td><td>1999</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Mauritius</td><td>25. August</td><td>1999</td><td>18. November</td><td>2002</td></tr>
-<tr><td>Mazedonien</td><td>16. Oktober</td><td>1996</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Mexiko</td><td>22. September</td><td>1997</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Moldau</td><td>30. Januar</td><td>1998</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Monaco</td><td>26. Mai</td><td>1999</td><td>18. November</td><td>2002</td></tr>
@@ -861,6 +862,7 @@ Geltungsbereich der Änderung am 4. Juni 2014**[^t-9]**
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>4. Dezember</td><td>1996</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Sint Maarten</td><td>4. Dezember</td><td>1996</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Niger</td><td>24. Oktober</td><td>2001</td><td>18. November</td><td>2002</td></tr>
+<tr><td>Nordmazedonien</td><td>16. Oktober</td><td>1996</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Norwegen</td><td>24. Februar</td><td>2000</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Oman</td><td>16. Oktober</td><td>2002</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Österreich</td><td>1. Februar</td><td>2002</td><td>18. November</td><td>2002</td></tr>
@@ -892,7 +894,6 @@ Geltungsbereich der Änderung am 4. Juni 2014**[^t-9]**
 <tr><td>Südafrika</td><td>5. August</td><td>1997</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Sudan</td><td>9. April</td><td>2001</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Suriname</td><td>23. Mai</td><td>2002</td><td>18. November</td><td>2002</td></tr>
-<tr><td>Swasiland</td><td>17. Januar</td><td>2002</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Syrien</td><td>16. Juni</td><td>2000</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Thailand</td><td>30. April</td><td>1998</td><td>18. November</td><td>2002</td></tr>
 <tr><td>Togo</td><td>19. Juni</td><td>1996</td><td>18. November</td><td>2002</td></tr>
@@ -913,4 +914,4 @@ Geltungsbereich der Änderung am 4. Juni 2014**[^t-9]**
 <tr><td colspan="5"><sup>a</sup> Die Änderung gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-9]: [AS 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544)und [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-8]: [AS 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544)und [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
