@@ -4,13 +4,13 @@ number: "713.121"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2022-07-01
-valid_until: 2023-02-26
-version_adopted: 2022-05-18
+version: 2023-02-27
+valid_until: 2025-03-31
+version_adopted: 2023-01-11
 adopted: 2011-05-25
 in_force: 2011-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3221/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3221/pdf_file"
 
 (BauV)
 
-Vom 25.05.2011 (Stand 01.07.2022)
+Vom 25.05.2011 (Stand 27.02.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -483,13 +483,13 @@ AZ = ∑aGF / aGSF
 
 **Nutzungsbonus (§ 50 BauG)**
 
-<sup>1</sup> Eine Erhöhung der Nutzungsziffern um 10 % wird gewährt für Neubauten und für die Modernisierung von Gebäuden, die 1990 oder später bewilligt worden sind, wenn die Gebäude den MINERGIE‑P®-Standard erreichen. Für früher bewilligte Gebäude genügt es, wenn sie mit der Modernisierung den MINERGIE®-Standard erhalten. Die Beurteilung erfolgt gemäss dem «Nutzungsreglement Marke MINERGIE®» und dem «Produktreglement Minergie-Gebäudestandards», beide Stand Januar 2021.[^35-1]
+<sup>1</sup> Eine Erhöhung der Nutzungsziffern um 10 % wird gewährt für Neubauten und für die Modernisierung von Gebäuden, die 1990 oder später bewilligt worden sind, wenn die Gebäude den MINERGIE‑P®-Standard erreichen. Für früher bewilligte Gebäude genügt es, wenn sie mit der Modernisierung den MINERGIE®-Standard erhalten. Die Beurteilung erfolgt gemäss dem «Nutzungsreglement Marke MINERGIE®» und dem «Produktreglement Minergie-Gebäudestandards», beide Stand Januar 2022.[^35-1]
 
 <sup>2</sup> Für Gebäude einer Arealüberbauung, die den MINERGIE‑P®-Standard erreichen, wird zusätzlich zum Nutzungsbonus für Arealüberbauungen ein Nutzungsbonus von 5 % gewährt.
 
 <sup>3</sup> Bei Gestaltungsplänen, welche bereits eine gegenüber der Regelbauweise höhere Nutzungsziffer zulassen, wird kein zusätzlicher Nutzungsbonus gewährt.
 
-[^35-1]: Die Reglemente sind veröffentlicht unter: www.minergie.ch &gt; Zertifizieren &gt; MINERGIE® bzw. MINERGIE-P® &gt; Arbeitsdokumente: Grundlagen. Sie sind einsehbar beim Departement Bau, Verkehr und Umwelt.
+[^35-1]: Die Reglemente sind veröffentlicht unter: [www.minergie.ch](http://www.minergie.ch) &gt; Zertifizieren &gt; MINERGIE® bzw. MINERGIE-P® &gt; Arbeitsdokumente: Grundlagen. Sie sind einsehbar beim Departement Bau, Verkehr und Umwelt.
 
 ## 5. Energetische Sanierung
 
@@ -515,10 +515,10 @@ AZ = ∑aGF / aGSF
 - b) lichte Höhe für Dachgeschosse: 2,40 m auf einer Fläche von mindestens 5 m²,
 - c) Fensterfläche: 1/10 der Bodenfläche; die Fenster müssen direkt ins Freie führen. Bei Dachflächenfenstern kann die Fensterfläche (Lüftungsöffnung) bis auf 1/15 der nutzbaren Bodenfläche (siehe § 32 Abs. 2 lit. a Ziff. 6) reduziert werden.
 
-<sup>2</sup> Neue Mehrfamilienhäuser müssen Nebenräume mit folgenden Mindestgrössen aufweisen:
+<sup>2</sup> Die Mindestfläche der Nebenräume in neuen Mehrfamilienhäusern beträgt
 
-- a) im Estrich oder auf gleichem Geschoss wie die Wohnung: 4 m² pro Wohnung und
-- b) im Keller: 4 m² für eine 1-Zimmer-Wohnung, 1 m² zusätzlich für jedes weitere Zimmer.
+- a) für Ein- und Zweizimmerwohnungen 5 m²,
+- b) für grössere Wohnungen 8 m².
 
 #### § 36b
 
@@ -550,9 +550,9 @@ AZ = ∑aGF / aGSF
 
 **Verhältnismässiger Aufwand (§ 53 BauG)**
 
-<sup>1</sup> Bei der Erneuerung von Bauten und Anlagen kann eine hindernisfreie Bauweise nur soweit verlangt werden, als der Aufwand dafür nicht mehr beträgt als
+<sup>1</sup> Bei der Erneuerung von Bauten und Anlagen kann eine hindernisfreie Bauweise nicht verlangt werden, soweit der Aufwand dafür mehr beträgt als
 
-- a) 5 % des Gebäudeversicherungswerts vor der Erneuerung,
+- a) 5 % des Gebäudeversicherungswerts beziehungsweise des Neuwerts der Anlage vor der Erneuerung oder
 - b) 20 % der Erneuerungskosten. Als solche gelten die voraussichtlichen Baukosten ohne besondere Massnahmen für Behinderte. Als Baukosten gelten die Kosten ohne Vorbereitungsarbeiten (Abbruch- und Räumungsarbeiten), Umgebungsarbeiten, Nebenkosten (Gebühren und dergleichen) und Ausstattung (Möblierung und dergleichen).
 
 ## 7. Arealüberbauungen
@@ -763,7 +763,7 @@ AZ = ∑aGF / aGSF
 
 **Solaranlagen (Art. 18a RPG[^49a-1] und 32a RPV[^49a-2])**
 
-<sup>1</sup> Solaranlagen auf Gebäuden in Industrie-, Arbeits- und Gewerbezonen sind baubewilligungsfrei, auch wenn sie die Dachfläche im rechten Winkel um mehr als 20 cm überragen.
+<sup>1</sup> Solaranlagen auf Gebäuden in Industrie-, Arbeits- und Gewerbezonen sind baubewilligungsfrei, auch wenn sie auf Schrägdächern bei paralleler Anordnung zur Dachfläche diese im rechten Winkel um mehr als 20 cm und auf Flachdächern die Dachrandkante um mehr als 1 m überragen. Die übrigen Voraussetzungen der Bundesgesetzgebung an die genügende Anpassung gelten unverändert.
 
 <sup>2</sup> Solaranlagen auf Gebäuden unter Substanzschutz oder in Zonen mit erhöhten Anforderungen an das Orts- und Landschaftsbild, namentlich Weilerzonen mit Ortsbild von nationaler Bedeutung, Dorf-, Altstadt- oder Kernzonen, bedürfen einer Baubewilligung.
 
@@ -923,7 +923,7 @@ AZ = ∑aGF / aGSF
 
 <sup>2</sup> Beruht der Entscheid des Gemeinderats auf einem Teilentscheid eines Departements und richtet sich ein Beschwerdeantrag gegen diesen Teilentscheid, ist der Regierungsrat zuständig.
 
-<sup>3</sup> Der Beschwerdeentscheid ist beim Verwaltungsgericht anfechtbar. Wer sich am Beschwerdeverfahren nicht mit eigenen Anträgen beteiligt hat, kann den Beschwerdeentscheid nicht anfechten.
+<sup>3</sup> Der Beschwerdeentscheid ist beim Verwaltungsgericht anfechtbar.
 
 ## 13. Schluss- und Übergangsbestimmungen
 
