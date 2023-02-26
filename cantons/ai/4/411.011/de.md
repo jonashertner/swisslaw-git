@@ -10,7 +10,7 @@ version_adopted: 2022-06-28
 adopted: 2005-08-16
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
-pdf: "https://ai.clex.ch/api/de/versions/2212/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2213/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -81,13 +81,15 @@ beschliesst:
 
 **Anrechnung der Dienstjahre und Stufenanstieg**
 
-<sup>1</sup> Für die Einstufung in die Besoldungstabelle zählen die Jahre der Lehrtätigkeit. Bei Dienstantritt im ersten Schulsemester wird das betreffende Schuljahr voll als Dienstjahr angerechnet. Bei Dienstantritt während des zweiten Schulsemesters wird der Rest dieses Schuljahrs nicht mehr als Dienstjahr angerechnet. Der erste Stufenanstieg erfolgt in diesem Fall erst im übernächsten Schuljahr.
+<sup>1</sup> Für die Einstufung in die Besoldungstabelle zählen die Jahre der Lehrtätigkeit. Bei unbefristeten Anstellungen werden die während eines Schuljahres geleisteten Lehrtätigkeiten unabhängig von Pensenumfang und Dauer als Dienstjahre angerechnet. Bei befristeten Anstellungen muss für eine Anrechnung ein Minimalpensum von 200 Jahreslektionen erreicht werden.
 
 <sup>2</sup> …
 
 <sup>3</sup> Bei Neuanstellungen werden geleistete Lehrtätigkeiten der Dauer entsprechend als Dienstjahre angerechnet.
 
-<sup>4</sup> Die Erziehung von Kindern bis zum vollendeten 18. Altersjahr in der Familie und Tätigkeiten in anderen Berufen nach Abschluss der Erstausbildung werden zur Hälfte angerechnet. Die beiden Tätigkeiten sind nicht kumulierbar.
+<sup>4</sup> Die Erziehung von Kindern bis zum vollendeten 18. Altersjahr in der Familie und Tätigkeiten in anderen Berufen nach Abschluss der Erstausbildung werden für die Zeit ohne Lehrtätigkeit zur Hälfte angerechnet. Die beiden Tätigkeiten sind nicht kumulierbar.
+
+<sup>4a</sup> Nach erfolgter Einstufung wird der Lehrperson ein jährlicher Anstieg in die jeweils nächsthöhere Stufe der Besoldungstabelle gewährt.
 
 <sup>5</sup> Sind die Leistungen einer Lehrperson ungenügend, kann der Schulrat nach Rücksprache mit dem Volksschulamt eine vorgesehene Stufenerhöhung verweigern. In den geleiteten Schulen entscheidet der Schulrat auf Antrag der Schulleitung.
 
