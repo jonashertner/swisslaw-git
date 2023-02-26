@@ -3,31 +3,26 @@ sr: "0.790.3"
 title: Übereinkommen vom 12. November 1974 über die Registrierung von in den Weltraum gestarteten Gegenständen
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/240_240_240"
 language: de
-version: 2020-07-06
+version: 2023-02-27
 adopted: 1974-11-12
 in_force: 1978-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/240_240_240/20200706/de/xml/fedlex-data-admin-ch-eli-cc-1978-240_240_240-20200706-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/240_240_240/20200706/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/240_240_240/20230227/de/xml/fedlex-data-admin-ch-eli-cc-1978-240_240_240-20230227-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/240_240_240/20230227/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen über die Registrierung von in den Weltraum gestarteten Gegenständen
 
-[^t-1]AS Übersetzung
+AS **1978** 240; BBl **1977** II 385
 
-Abgeschlossen in New York am 12. November 1974
+Übersetzung
 
-Von der Bundesversammlung genehmigt am 5. Dezember 1977[^t-2]
+Abgeschlossen in New York am 12. November 1974 Von der Bundesversammlung genehmigt am 5. Dezember 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 15. Februar 1978 In Kraft getreten für die Schweiz am 15. Februar 1978
 
-Schweizerische Ratifikationsurkunde hinterlegt am 15. Februar 1978
+(Stand am 27. Februar 2023)
 
-In Kraft getreten für die Schweiz am 15. Februar 1978
-
-(Stand am 6. Juli 2020)
-
-[^t-1]: [AS 1978 240](https://fedlex.data.admin.ch/eli/oc/1978/240_240_240); [BBl 1977 II 385](https://fedlex.data.admin.ch/eli/fga/1977/2_385_369_345)
-[^t-2]: [AS 1978 239](https://fedlex.data.admin.ch/eli/oc/1978/239_239_239)
+[^t-1]: [AS 1978 239](https://fedlex.data.admin.ch/eli/oc/1978/239_239_239)
 
 Die Vertragsstaaten,
 
@@ -49,9 +44,9 @@ In der Überzeugung, dass ein obligatorisches System der Registrierung von in de
 
 Sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.790](https://fedlex.data.admin.ch/eli/cc/1970/87_90_90)
-[^ingress-2]: [SR 0.790.1](https://fedlex.data.admin.ch/eli/cc/1970/95_99_99)
-[^ingress-3]: [SR 0.790.2](https://fedlex.data.admin.ch/eli/cc/1974/784_784_784)
+[^ingress-1]: [SR 0.790](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3400)
+[^ingress-2]: [SR 0.790.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3401)
+[^ingress-3]: [SR 0.790.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3402)
 
 #### Art. I
 
@@ -75,7 +70,7 @@ Im Sinne dieses Übereinkommens
 
 <sup>3</sup> Der Inhalt des Registers und die Bedingungen, unter denen es geführt wird, werden vom jeweiligen Registerstaat bestimmt.
 
-[^II-1]: [SR 0.790](https://fedlex.data.admin.ch/eli/cc/1970/87_90_90)
+[^II-1]: [SR 0.790](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3400)
 
 #### Art. III
 
@@ -121,7 +116,7 @@ Hat die Anwendung der Bestimmungen dieses Übereinkommens es einem Vertragsstaat
 
 <sup>2</sup> Mitgliedstaaten einer solchen Organisation, die Vertragsstaaten dieses Übereinkommens sind, unternehmen alle geeigneten Schritte, um sicherzustellen, dass die Organisation eine Erklärung nach Absatz 1 abgibt.
 
-[^VII-1]: [SR 0.790](https://fedlex.data.admin.ch/eli/cc/1970/87_90_90)
+[^VII-1]: [SR 0.790](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3400)
 
 #### Art. VIII
 
@@ -153,7 +148,7 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Übereinkommen, das am 14. Januar 1975 in New York zur Unterzeichnung aufgelegt wurde, unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 6. Juli 2020**[^t-3]**
+Geltungsbereich am 27. Februar 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -162,6 +157,7 @@ Geltungsbereich am 6. Juli 2020**[^t-3]**
 <tr><td>Argentinien</td><td>5. Mai</td><td>1993</td><td>5. Mai</td><td>1993</td></tr>
 <tr><td>Armenien</td><td>19. Januar</td><td>2018 B</td><td>19. Januar</td><td>2018</td></tr>
 <tr><td>Australien</td><td>11. März</td><td>1986 B</td><td>11. März</td><td>1986</td></tr>
+<tr><td>Bahrain</td><td>6. Juli</td><td>2021 B</td><td>6. Juli</td><td>2021</td></tr>
 <tr><td>Belarus</td><td>26. Januar</td><td>1978</td><td>26. Januar</td><td>1978</td></tr>
 <tr><td>Belgien</td><td>24. Februar</td><td>1977</td><td>24. Februar</td><td>1977</td></tr>
 <tr><td>Brasilien</td><td>17. März</td><td>2006 B</td><td>17. März</td><td>2006</td></tr>
@@ -172,12 +168,13 @@ Geltungsbereich am 6. Juli 2020**[^t-3]**
 <tr><td>Costa Rica</td><td>14. Oktober</td><td>2010 B</td><td>14. Oktober</td><td>2010</td></tr>
 <tr><td>Dänemark</td><td>1. April</td><td>1977</td><td>1. April</td><td>1977</td></tr>
 <tr><td>Deutschland</td><td>16. Oktober</td><td>1979</td><td>16. Oktober</td><td>1979</td></tr>
+<tr><td>Dschibuti</td><td>14. Juli</td><td>2022 B</td><td>14. Juli</td><td>2022</td></tr>
 <tr><td>EUMETSAT</td><td>10. Juli</td><td>1997</td><td>10. Juli</td><td>1997</td></tr>
-<tr><td>Europäische Fernmeldesatelliten-Organisation (EUTELSAT)</td><td>10. Juni</td><td>2014</td><td>10. Juni</td><td>2014</td></tr>
+<tr><td>Europäische Fernmeldesatelliten- Organisation (EUTELSAT)</td><td>10. Juni</td><td>2014</td><td>10. Juni</td><td>2014</td></tr>
 <tr><td>Europäische Weltraum- Organisation (ESA)</td><td>2. Januar</td><td>1979</td><td>2. Januar</td><td>1979</td></tr>
 <tr><td>Finnland</td><td>15. Januar</td><td>2018 B</td><td>15. Januar</td><td>2018</td></tr>
 <tr><td>Frankreich</td><td>17. Dezember</td><td>1975</td><td>15. September</td><td>1976</td></tr>
-<tr><td>Griechenland</td><td>27. Mai</td><td>2003</td><td>27. Mai</td><td>2003</td></tr>
+<tr><td>Griechenland</td><td>27. Mai</td><td>2003 B</td><td>27. Mai</td><td>2003</td></tr>
 <tr><td>Indien</td><td>18. Januar</td><td>1982 B</td><td>18. Januar</td><td>1982</td></tr>
 <tr><td>Indonesien</td><td>16. Juli</td><td>1997 B</td><td>16. Juli</td><td>1997</td></tr>
 <tr><td>Italien</td><td>8. Dezember</td><td>2005 B</td><td>8. Dezember</td><td>2005</td></tr>
@@ -194,6 +191,7 @@ Geltungsbereich am 6. Juli 2020**[^t-3]**
 <tr><td>Libyen</td><td>8. Januar</td><td>2010 B</td><td>8. Januar</td><td>2010</td></tr>
 <tr><td>Liechtenstein</td><td>26. Februar</td><td>1999 B</td><td>26. Februar</td><td>1999</td></tr>
 <tr><td>Litauen</td><td>8. März</td><td>2013 B</td><td>8. März</td><td>2013</td></tr>
+<tr><td>Luxemburg</td><td>27. Januar</td><td>2021 B</td><td>27. Januar</td><td>2021</td></tr>
 <tr><td>Marokko</td><td>19. September</td><td>2012 B</td><td>19. September</td><td>2012</td></tr>
 <tr><td>Mexiko</td><td>1. März</td><td>1977</td><td>1. März</td><td>1977</td></tr>
 <tr><td>Mongolei</td><td>10. April</td><td>1985</td><td>10. April</td><td>1985</td></tr>
@@ -208,11 +206,14 @@ Geltungsbereich am 6. Juli 2020**[^t-3]**
 <tr><td>Niger</td><td>22. Dezember</td><td>1976</td><td>22. Dezember</td><td>1976</td></tr>
 <tr><td>Nigeria</td><td>6. Juli</td><td>2009 B</td><td>6. Juli</td><td>2009</td></tr>
 <tr><td>Norwegen</td><td>28. Juni</td><td>1995 B</td><td>28. Juni</td><td>1995</td></tr>
+<tr><td>Oman</td><td>10. Februar</td><td>2022 B</td><td>10. Februar</td><td>2022</td></tr>
 <tr><td>Österreich</td><td>6. März</td><td>1980</td><td>6. März</td><td>1980</td></tr>
 <tr><td>Pakistan</td><td>27. Februar</td><td>1986</td><td>27. Februar</td><td>1986</td></tr>
+<tr><td>Paraguay</td><td>19. Januar</td><td>2023 B</td><td>19. Januar</td><td>2023</td></tr>
 <tr><td>Peru</td><td>21. März</td><td>1979 B</td><td>21. März</td><td>1979</td></tr>
 <tr><td>Polen</td><td>22. November</td><td>1978</td><td>22. November</td><td>1978</td></tr>
 <tr><td>Portugal</td><td>2. November</td><td>2018 B</td><td>2. November</td><td>2018</td></tr>
+<tr><td>Rumänien</td><td>9. Februar</td><td>2023 B</td><td>9. Februar</td><td>2023</td></tr>
 <tr><td>Russland</td><td>13. Januar</td><td>1978</td><td>13. Januar</td><td>1978</td></tr>
 <tr><td>Saudi-Arabien</td><td>18. Juli</td><td>2012 B</td><td>18. Juli</td><td>2012</td></tr>
 <tr><td>Schweden</td><td>9. Juni</td><td>1976</td><td>15. September</td><td>1976</td></tr>
@@ -236,11 +237,7 @@ Geltungsbereich am 6. Juli 2020**[^t-3]**
 <tr><td>Anguilla</td><td>30. März</td><td>1978</td><td>30. März</td><td>1978</td></tr>
 <tr><td>Gebiete unter territorialer Souveränität des Vereinigten Königreichs</td><td>30. März</td><td>1978</td><td>30. März</td><td>1978</td></tr>
 <tr><td>Zypern\*\*</td><td>6. Juli</td><td>1978 B</td><td>6. Juli</td><td>1978</td></tr>
-<tr><td colspan="5">\* [tab] Vorbehalte und Erklärungen</td></tr>
-<tr><td colspan="5">\*\* Einwendungen Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Vom 30. März 1978 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* [tab] Vorbehalte und Erklärungen \*\* Einwendungen Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 30. März 1978 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 1978 240](https://fedlex.data.admin.ch/eli/oc/1978/240_240_240), [1979 1565](https://fedlex.data.admin.ch/eli/oc/1979/1565_1565_1565), [1982 1738](https://fedlex.data.admin.ch/eli/oc/1982/1738_1738_1738), [1985 1694](https://fedlex.data.admin.ch/eli/oc/1985/1694_1694_1694), [1987 1220](https://fedlex.data.admin.ch/eli/oc/1987/1220_1220_1220), [1990 1997](https://fedlex.data.admin.ch/eli/oc/1990/1997_1997_1997), [2004 4115](https://fedlex.data.admin.ch/eli/oc/2004/604), [2007 5197](https://fedlex.data.admin.ch/eli/oc/2007/731), [2012 2027](https://fedlex.data.admin.ch/eli/oc/2012/271)[6037](https://fedlex.data.admin.ch/eli/oc/2012/711), [2016 797](https://fedlex.data.admin.ch/eli/oc/2016/152), [2018 1753](https://fedlex.data.admin.ch/eli/oc/2018/258), [2020 3427](https://fedlex.data.admin.ch/eli/oc/2020/584). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1978 240](https://fedlex.data.admin.ch/eli/oc/1978/240_240_240); [1979 1565](https://fedlex.data.admin.ch/eli/oc/1979/1565_1565_1565); [1982 1738](https://fedlex.data.admin.ch/eli/oc/1982/1738_1738_1738); [1985 1694](https://fedlex.data.admin.ch/eli/oc/1985/1694_1694_1694); [1987 1220](https://fedlex.data.admin.ch/eli/oc/1987/1220_1220_1220); [1990 1997](https://fedlex.data.admin.ch/eli/oc/1990/1997_1997_1997); [2004 4115](https://fedlex.data.admin.ch/eli/oc/2004/604); [2007 5197](https://fedlex.data.admin.ch/eli/oc/2007/731); [2012 2027](https://fedlex.data.admin.ch/eli/oc/2012/271), [6037](https://fedlex.data.admin.ch/eli/oc/2012/711); [2016 797](https://fedlex.data.admin.ch/eli/oc/2016/152); [2018 1753](https://fedlex.data.admin.ch/eli/oc/2018/258); [2020 3427](https://fedlex.data.admin.ch/eli/oc/2020/584); [2023 108](https://fedlex.data.admin.ch/eli/oc/2023/108). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty

@@ -3,11 +3,11 @@ sr: "0.790.3"
 title: "Convention du 12 novembre 1974 sur l'immatriculation des objets lancés dans l'espace extra-atmosphérique"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/240_240_240"
 language: fr
-version: 2020-07-06
+version: 2023-02-27
 adopted: 1974-11-12
 in_force: 1978-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/240_240_240/20200706/fr/xml/fedlex-data-admin-ch-eli-cc-1978-240_240_240-20200706-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/240_240_240/20200706/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/240_240_240/20230227/fr/xml/fedlex-data-admin-ch-eli-cc-1978-240_240_240-20230227-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/240_240_240/20230227/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 15 février 1978
 
 Entrée en vigueur pour la Suisse le 15 février 1978
 
-(Etat le 6 juillet 2020)
+(État le 27 février 2023)
 
 [^t-1]: Art. 1 de l’AF du 5 déc. 1977 ([RO 1978 239](https://fedlex.data.admin.ch/eli/oc/1978/239_239_239))
 
@@ -50,9 +50,9 @@ estimant qu’un système obligatoire d’immatriculation des objets lancés dan
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.790](https://fedlex.data.admin.ch/eli/cc/1970/87_90_90)
-[^ingress-2]: [RS 0.790.1](https://fedlex.data.admin.ch/eli/cc/1970/95_99_99)
-[^ingress-3]: [RS 0.790.2](https://fedlex.data.admin.ch/eli/cc/1974/784_784_784)
+[^ingress-1]: [RS 0.790](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3400)
+[^ingress-2]: [RS 0.790.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3401)
+[^ingress-3]: [RS 0.790.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3402)
 
 #### Art. I
 
@@ -148,9 +148,9 @@ Tout État partie à la présente Convention peut, un an après l’entrée en v
 
 La présente Convention dont les textes anglais, arabe, chinois, espagnol, français et russe font également foi, sera déposée auprès du Secrétaire général de l’Organisation des Nations Unies, qui en enverra des copies dûment certifiées à tous les États qui auront signé la Convention ou y auront adhéré.
 
-*En foi de quoi* les soussignés, dûment habilités à cet effet par leurs gouvernements respectifs, ont signé la présente Convention, ouverte à la signature à New York, le quatorze janvier mil neuf cent soixante‑quinze. (*Suivent les signatures*)
+*En foi de quoi* les soussignés, dûment habilités à cet effet par leurs gouvernements respectifs, ont signé la présente Convention, ouverte à la signature à New York, le quatorze janvier mil neuf cent soixante‑quinze. (Suivent les signatures)
 
-Champ d’application le 6 juillet 2020**[^t-2]**
+Champ d’application le 27 février 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -164,6 +164,7 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Arménie</td><td>19 janvier</td><td>2018 A</td><td>19 janvier</td><td>2018</td></tr>
 <tr><td>Australie</td><td>11 mars</td><td>1986 A</td><td>11 mars</td><td>1986</td></tr>
 <tr><td>Autriche</td><td>6 mars</td><td>1980</td><td>6 mars</td><td>1980</td></tr>
+<tr><td>Bahreïn</td><td>6 juillet</td><td>2021 A</td><td>6 juillet</td><td>2021</td></tr>
 <tr><td>Bélarus</td><td>26 janvier</td><td>1978</td><td>26 janvier</td><td>1978</td></tr>
 <tr><td>Belgique</td><td>24 février</td><td>1977</td><td>24 février</td><td>1977</td></tr>
 <tr><td>Brésil</td><td>17 mars</td><td>2006 A</td><td>17 mars</td><td>2006</td></tr>
@@ -179,13 +180,13 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Costa Rica</td><td>14 octobre</td><td>2010 A</td><td>14 octobre</td><td>2010</td></tr>
 <tr><td>Cuba</td><td>10 avril</td><td>1978 A</td><td>10 avril</td><td>1978</td></tr>
 <tr><td>Danemark</td><td>1<sup>er</sup> avril</td><td>1977</td><td>1<sup>er</sup> avril</td><td>1977</td></tr>
+<tr><td>Djibouti</td><td>14 juillet</td><td>2022 A</td><td>14 juillet</td><td>2022</td></tr>
 <tr><td>Émirats arabes unis</td><td>7 novembre</td><td>2000 A</td><td>7 novembre</td><td>2000</td></tr>
 <tr><td>Espagne</td><td>20 décembre</td><td>1978 A</td><td>20 décembre</td><td>1978</td></tr>
 <tr><td>États-Unis</td><td>15 septembre</td><td>1976</td><td>15 septembre</td><td>1976</td></tr>
-<tr><td>EUMETSAT</td><td>10 juillet</td><td>1997</td><td>10 juillet</td><td>1997</td></tr>
 <tr><td>Finlande</td><td>15 janvier</td><td>2018 A</td><td>15 janvier</td><td>2018</td></tr>
 <tr><td>France</td><td>17 décembre</td><td>1975</td><td>15 septembre</td><td>1976</td></tr>
-<tr><td>Grèce</td><td>27 mai</td><td>2003</td><td>27 mai</td><td>2003</td></tr>
+<tr><td>Grèce</td><td>27 mai</td><td>2003 A</td><td>27 mai</td><td>2003</td></tr>
 <tr><td>Hongrie</td><td>26 octobre</td><td>1977</td><td>26 octobre</td><td>1977</td></tr>
 <tr><td>Inde</td><td>18 janvier</td><td>1982 A</td><td>18 janvier</td><td>1982</td></tr>
 <tr><td>Indonésie</td><td>16 juillet</td><td>1997 A</td><td>16 juillet</td><td>1997</td></tr>
@@ -197,6 +198,7 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Libye</td><td>8 janvier</td><td>2010 A</td><td>8 janvier</td><td>2010</td></tr>
 <tr><td>Liechtenstein</td><td>26 février</td><td>1999 A</td><td>26 février</td><td>1999</td></tr>
 <tr><td>Lituanie</td><td>8 mars</td><td>2013 A</td><td>8 mars</td><td>2013</td></tr>
+<tr><td>Luxembourg</td><td>27 janvier</td><td>2021 A</td><td>27 janvier</td><td>2021</td></tr>
 <tr><td>Maroc</td><td>19 septembre</td><td>2012 A</td><td>19 septembre</td><td>2012</td></tr>
 <tr><td>Mexique</td><td>1<sup>er</sup> mars</td><td>1977</td><td>1<sup>er</sup> mars</td><td>1977</td></tr>
 <tr><td>Mongolie</td><td>10 avril</td><td>1985</td><td>10 avril</td><td>1985</td></tr>
@@ -206,8 +208,11 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Nigéria</td><td>6 juillet</td><td>2009 A</td><td>6 juillet</td><td>2009</td></tr>
 <tr><td>Norvège</td><td>28 juin</td><td>1995 A</td><td>28 juin</td><td>1995</td></tr>
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>23 janvier</td><td>2018 A</td><td>23 janvier</td><td>2018</td></tr>
+<tr><td>Oman</td><td>10 février</td><td>2022 A</td><td>10 février</td><td>2022</td></tr>
 <tr><td>Organisation européenne de télécommunications par satellite (EUTELSAT)</td><td>10 juin</td><td>2014</td><td>10 juin</td><td>2014</td></tr>
+<tr><td>Organisation européenne pour l'exploitation de satellites météorologiques (EUMETSAT)</td><td>10 juillet</td><td>1997</td><td>10 juillet</td><td>1997</td></tr>
 <tr><td>Pakistan</td><td>27 février</td><td>1986</td><td>27 février</td><td>1986</td></tr>
+<tr><td>Paraguay</td><td>19 janvier</td><td>2023 A</td><td>19 janvier</td><td>2023</td></tr>
 <tr><td>Pays-Bas <sup>c</sup></td><td>26 janvier</td><td>1981 A</td><td>26 janvier</td><td>1981</td></tr>
 <tr><td>Aruba</td><td>26 janvier</td><td>1981</td><td>26 janvier</td><td>1981</td></tr>
 <tr><td>Curaçao</td><td>26 janvier</td><td>1981</td><td>26 janvier</td><td>1981</td></tr>
@@ -218,6 +223,7 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Portugal</td><td>2 novembre</td><td>2018 A</td><td>2 novembre</td><td>2018</td></tr>
 <tr><td>Qatar</td><td>14 mars</td><td>2012 A</td><td>14 mars</td><td>2012</td></tr>
 <tr><td>République tchèque</td><td>22 février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Roumanie</td><td>9 février</td><td>2023 A</td><td>9 février</td><td>2023</td></tr>
 <tr><td>Royaume-Uni</td><td>30 mars</td><td>1978</td><td>30 mars</td><td>1978</td></tr>
 <tr><td>Anguilla</td><td>30 mars</td><td>1978</td><td>30 mars</td><td>1978</td></tr>
 <tr><td>Territoires sous la souveraineté territoriale du Royaume-Uni</td><td>30 mars</td><td>1978</td><td>30 mars</td><td>1978</td></tr>
@@ -233,10 +239,7 @@ Champ d’application le 6 juillet 2020**[^t-2]**
 <tr><td>Ukraine</td><td>14 septembre</td><td>1977</td><td>14 septembre</td><td>1977</td></tr>
 <tr><td>Uruguay</td><td>18 août</td><td>1977 A</td><td>18 août</td><td>1977</td></tr>
 <tr><td>Venezuela</td><td>3 novembre</td><td>2016 A</td><td>3 novembre</td><td>2016</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Du 30 mars 1978 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d'extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 30 mars 1978 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d'extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> La Convention ne s’applique pas aux Tokélaou. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 1979 1565](https://fedlex.data.admin.ch/eli/oc/1979/1565_1565_1565),[1982 1738](https://fedlex.data.admin.ch/eli/oc/1982/1738_1738_1738), [1985 1694](https://fedlex.data.admin.ch/eli/oc/1985/1694_1694_1694), [1987 1220](https://fedlex.data.admin.ch/eli/oc/1987/1220_1220_1220), [1990 1997](https://fedlex.data.admin.ch/eli/oc/1990/1997_1997_1997), [2004 4115](https://fedlex.data.admin.ch/eli/oc/2004/604), [2007 5197](https://fedlex.data.admin.ch/eli/oc/2007/731), [2012 2027](https://fedlex.data.admin.ch/eli/oc/2012/271)[6037](https://fedlex.data.admin.ch/eli/oc/2012/711), [2016 797](https://fedlex.data.admin.ch/eli/oc/2016/152), [2018 1753](https://fedlex.data.admin.ch/eli/oc/2018/258), [2020 3427](https://fedlex.data.admin.ch/eli/oc/2020/584). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1978 240](https://fedlex.data.admin.ch/eli/oc/1978/240_240_240); [1979 1565](https://fedlex.data.admin.ch/eli/oc/1979/1565_1565_1565); [1982 1738](https://fedlex.data.admin.ch/eli/oc/1982/1738_1738_1738); [1985 1694](https://fedlex.data.admin.ch/eli/oc/1985/1694_1694_1694); [1987 1220](https://fedlex.data.admin.ch/eli/oc/1987/1220_1220_1220); [1990 1997](https://fedlex.data.admin.ch/eli/oc/1990/1997_1997_1997); [2004 4115](https://fedlex.data.admin.ch/eli/oc/2004/604); [2007 5197](https://fedlex.data.admin.ch/eli/oc/2007/731); [2012 2027](https://fedlex.data.admin.ch/eli/oc/2012/271), [6037](https://fedlex.data.admin.ch/eli/oc/2012/711); [2016 797](https://fedlex.data.admin.ch/eli/oc/2016/152); [2018 1753](https://fedlex.data.admin.ch/eli/oc/2018/258); [2020 3427](https://fedlex.data.admin.ch/eli/oc/2020/584); [2023 108](https://fedlex.data.admin.ch/eli/oc/2023/108). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
