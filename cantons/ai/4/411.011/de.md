@@ -10,7 +10,7 @@ version_adopted: 2022-06-28
 adopted: 2005-08-16
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
-pdf: "https://ai.clex.ch/api/de/versions/2211/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2212/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -79,16 +79,13 @@ beschliesst:
 
 #### Art. 7
 
-**Anrechnung der Dienstjahre**
+**Anrechnung der Dienstjahre und Stufenanstieg**
 
-<sup>1</sup> Für die Einstufung in die Besoldungstabelle zählen die Jahre der Lehrtätigkeit. Bei Dienstantritt im ersten Schulsemester wird das betreffende Schuljahr voll als Dienstjahr angerechnet. Bei Dienstantritt während des zweiten Schulsemesters wird der Rest dieses Schuljahres nicht mehr als Dienstjahr angerechnet; erst das nachfolgende Schuljahr gilt als erstes Dienstjahr.
+<sup>1</sup> Für die Einstufung in die Besoldungstabelle zählen die Jahre der Lehrtätigkeit. Bei Dienstantritt im ersten Schulsemester wird das betreffende Schuljahr voll als Dienstjahr angerechnet. Bei Dienstantritt während des zweiten Schulsemesters wird der Rest dieses Schuljahrs nicht mehr als Dienstjahr angerechnet. Der erste Stufenanstieg erfolgt in diesem Fall erst im übernächsten Schuljahr.
 
-<sup>2</sup> Die Stufenerhöhung wird gewährt:
+<sup>2</sup> …
 
-- a) bei einem Pflichtpensum von 31 Lektionen ab 15 Lektionen
-- b) bei einem Pflichtpensum von 29 Lektionen ab 14 Lektionen
-
-<sup>3</sup> Bei Neuanstellungen werden geleistete Lehrtätigkeiten den Pensen und der Dauer entsprechend als Dienstjahre angerechnet.
+<sup>3</sup> Bei Neuanstellungen werden geleistete Lehrtätigkeiten der Dauer entsprechend als Dienstjahre angerechnet.
 
 <sup>4</sup> Die Erziehung von Kindern bis zum vollendeten 18. Altersjahr in der Familie und Tätigkeiten in anderen Berufen nach Abschluss der Erstausbildung werden zur Hälfte angerechnet. Die beiden Tätigkeiten sind nicht kumulierbar.
 
@@ -353,9 +350,9 @@ beschliesst:
 
 #### Art. 29
 
-**Übergang**
+**Nachprüfung der Stufenerhöhung**
 
-<sup>1</sup> Lehrpersonen erhalten die Treueprämien noch bis Ende 2018 nach bisherigem Recht.
+<sup>1</sup> Die Einstufung von Lehrpersonen, denen der Stufenanstieg in der Vergangenheit wegen zu geringer Pflichtpensen bei einer Schulgemeinde des Kantons Appenzell I.Rh. nicht gewährt wurde, wird mit Wirkung ab Beginn des Schuljahrs 2022/2023 um die entgangenen Stufenanstiege erhöht, höchstens jedoch bis zur obersten Stufe der Besoldungstabelle.
 
 #### Art. 29a
 
