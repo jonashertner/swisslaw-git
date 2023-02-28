@@ -4,13 +4,13 @@ number: "761.611.1"
 title: Verordnung über die Besteuerung der Strassenfahrzeuge und den Bezug von Forderungen durch das Strassenverkehrs- und Schifffahrtsamt
 short: BSFV
 language: de
-version: 2016-07-01
-valid_until: 2023-02-28
-version_adopted: 2016-03-16
+version: 2023-03-01
+valid_until: 2026-08-31
+version_adopted: 2023-01-11
 adopted: 1998-10-28
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/761.611.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1011/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2797/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1011/pdf_file"
 
 (BSFV)
 
-vom 28.10.1998 (Stand 01.07.2016)
+vom 28.10.1998 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -36,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt den Vollzug der Vorschriften über die Erhebung der kantonalen Strassenverkehrssteuer und der eidgenössischen Strassenverkehrsabgaben.
 
-<sup>2</sup> Die Bestimmungen über Zahlungsfristen und -termine, die Gewährung von Zahlungserleichterungen, den Erlass und die Abschreibung von Forderungen, die Verzinsung sowie die elektronische Rechnungsstellung gelten für alle Forderungen aus dem Aufgabenbereich des Strassenverkehrs- und Schifffahrtsamtes.
+<sup>2</sup> Die Bestimmungen über Zahlungsfristen und -termine, die Gewährung von Zahlungserleichterungen, den Erlass und die Abschreibung von Forderungen sowie die Verzinsung gelten für alle Forderungen aus dem Aufgabenbereich des Strassenverkehrs- und Schifffahrtsamtes.
 
 ## 2 Definitionen
 
@@ -156,13 +156,7 @@ beschliesst:
 
 #### Art. 12a
 
-**Elektronische Rechnungsstellung**
-
-<sup>1</sup> Forderungen des Strassenverkehrs- und Schifffahrtsamtes können auf Antrag der betroffenen Person in elektronischer Form zugestellt werden.
-
-<sup>2</sup> Das Strassenverkehrs- und Schifffahrtsamt stellt den Nachweis der elektronischen Zustellung sicher. Wird die elektronische Rechnung abgelehnt oder nicht innerhalb der Zahlungsfristen bezahlt, so wird die Forderung als Zahlungserinnerung per Post zugestellt.
-
-<sup>3</sup> Es besteht kein Anspruch auf die elektronische Zustellung. Die Bezugsbehörde kann Antragstellerinnen und Antragsteller von diesem Verfahren ohne weitere Begründung ausschliessen.
+**…**
 
 #### Art. 12b
 

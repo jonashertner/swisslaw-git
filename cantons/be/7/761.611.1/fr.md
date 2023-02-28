@@ -4,13 +4,13 @@ number: "761.611.1"
 title: "Ordonnance sur l’imposition des véhicules routiers et la facturation par l’office compétent *"
 short: "Ordonnance sur l’imposition des véhicules routiers, OIV"
 language: fr
-version: 2016-07-01
-valid_until: 2023-02-28
-version_adopted: 2016-03-16
+version: 2023-03-01
+valid_until: 2026-08-31
+version_adopted: 2023-01-11
 adopted: 1998-10-28
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/761.611.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1011/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2797/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1011/pdf_file"
 
 (Ordonnance sur l’imposition des véhicules routiers, OIV)
 
-du 28.10.1998 (état au 01.07.2016)
+du 28.10.1998 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -36,7 +36,7 @@ arrête:
 
 <sup>1</sup> La présente ordonnance règle l’exécution des prescriptions relatives au prélèvement des taxes cantonales et des redevances fédérales sur la circulation routière.
 
-<sup>2</sup> Les dispositions portant sur les délais et les termes de paiement, l’octroi de facilités de paiement, la remise et l’élimination de créances, le taux d’intérêt et la facturation en ligne s’appliquent à toutes les créances relevant de la compétence de l’Office de la circulation routière et de la navigation (OCRN).
+<sup>2</sup> Les dispositions portant sur les délais et les termes de paiement, l’octroi de facilités de paiement, la remise et l’élimination de créances, ainsi que le taux d’intérêt s’appliquent à toutes les créances relevant de la compétence de l’Office de la circulation routière et de la navigation (OCRN).
 
 ## 2 Définition
 
@@ -156,13 +156,7 @@ arrête:
 
 #### Art. 12a
 
-**Facturation en ligne**
-
-<sup>1</sup> L’OCRN peut, sur demande de la personne concernée, procéder à une facturation en ligne.
-
-<sup>2</sup> Il veille à pouvoir attester de la notification. Si la facturation en ligne est refusée ou n’est pas honorée dans le délai, le rappel se fait par courrier postal.
-
-<sup>3</sup> Il n’existe pas de droit à la facturation en ligne. L’autorité de perception peut en exclure quiconque, sans devoir invoquer de motifs.
+**…**
 
 #### Art. 12b
 
