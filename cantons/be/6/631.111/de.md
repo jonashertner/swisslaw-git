@@ -4,13 +4,13 @@ number: "631.111"
 title: Verordnung über den Finanz- und Lastenausgleich
 short: FILAV
 language: de
-version: 2022-01-01
-valid_until: 2023-02-28
-version_adopted: 2021-11-10
+version: 2023-03-01
+valid_until: 2024-12-31
+version_adopted: 2023-01-11
 adopted: 2001-08-22
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/631.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2478/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2794/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2478/pdf_file"
 
 (FILAV)
 
-vom 22.08.2001 (Stand 01.01.2022)
+vom 22.08.2001 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -351,7 +351,7 @@ beschliesst:
 
 **Gemeindefinanzstatistik**
 
-<sup>1</sup> Die Gemeinden liefern der Finanzverwaltung die Daten der Jahresrechnung (Laufende Rechnung, Investitionsrechnung, Bestandesrechnung) als elektronische Datei sowie eine Kopie der gedruckten Original-Gemeinderechnung jeweils laufend bis spätestens Ende Juni des darauffolgenden Jahres.
+<sup>1</sup> Die Gemeinden liefern der Finanzverwaltung die Daten der Jahresrechnung (Laufende Rechnung, Investitionsrechnung, Bestandesrechnung) als elektronische Datei sowie eine Kopie der Original-Gemeinderechnung jeweils laufend bis spätestens Ende Juni des darauffolgenden Jahres.
 
 <sup>2</sup> Ergeben sich durch die Genehmigung der Jahresrechnung Änderungen gegenüber den abgelieferten Daten, sind diese der Finanzverwaltung durch die Gemeinden mitzuteilen.
 

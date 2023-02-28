@@ -4,13 +4,13 @@ number: "631.111"
 title: Ordonnance sur la péréquation financière et la compensation des charges
 short: OPFC
 language: fr
-version: 2022-01-01
-valid_until: 2023-02-28
-version_adopted: 2021-11-10
+version: 2023-03-01
+valid_until: 2024-12-31
+version_adopted: 2023-01-11
 adopted: 2001-08-22
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/631.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2478/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2794/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2478/pdf_file"
 
 (OPFC)
 
-du 22.08.2001 (état au 01.01.2022)
+du 22.08.2001 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -351,7 +351,7 @@ arrête:
 
 **Statistique financière des communes**
 
-<sup>1</sup> Les communes remettent à l’Administration des finances les données de leurs comptes annuels (compte de fonctionnement, compte des investissements et bilan) sous forme de fichier électronique, avec une copie imprimée de l’original des comptes communaux, au plus tard à la fin du mois de juin de l’année suivante.
+<sup>1</sup> Les communes remettent à l’Administration des finances les données de leurs comptes annuels (compte de fonctionnement, compte des investissements et bilan) sous forme de fichier électronique, avec une copie de l’original des comptes communaux, au plus tard à la fin du mois de juin de l’année suivante.
 
 <sup>2</sup> Si des modifications par rapport aux données fournies interviennent lors de l'approbation des comptes annuels, les communes doivent les communiquer à l'Administration des finances.
 
