@@ -4,25 +4,27 @@ number: "823.1"
 title: Ausführungsgesetz zum Entsendegesetz und zum Bundesgesetz gegen die Schwarzarbeit
 short: AGEntsGBGSA
 language: de
-version: 2016-10-01
-corrected: 2017-10-07
-version_adopted: 2016-05-12
+version: 2023-03-01
+version_adopted: 2022-12-15
 adopted: 2016-05-12
 in_force: 2016-10-01
 url: "https://lex.vs.ch/app/de/texts_of_law/823.1"
-pdf: "https://lex.vs.ch/api/de/versions/195/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3183/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsgesetz zum Entsendegesetz und zum Bundesgesetz gegen die Schwarzarbeit (AGEntsGBGSA)
+# Ausführungsgesetz zum Entsendegesetz und zum Bundesgesetz gegen die Schwarzarbeit
 
-vom 12. Mai 2016
+(AGEntsGBGSA)
+
+vom 12.05.2016 (Stand 01.03.2023)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen das Bundesgesetz über die flankierenden Massnahmen bei entsandten Arbeitnehmerinnen und Arbeitnehmern und über die Kontrolle der in Normalarbeitsverträgen vorgesehenen Mindestlöhne vom 8. Oktober 1999 (Entsendegesetz, EntsG) und seine Verordnung vom 21. Mai 2003 (EntsV); eingesehen das Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005 (Bundesgesetz gegen die Schwarzarbeit, BGSA) und seine Verordnung vom 6. September 2006 (VOSA);
+eingesehen das Bundesgesetz über die flankierenden Massnahmen bei entsandten Arbeitnehmerinnen und Arbeitnehmern und über die Kontrolle der in Normalarbeitsverträgen vorgesehenen Mindestlöhne vom 8. Oktober 1999 (Entsendegesetz, EntsG) und seine Verordnung vom 21. Mai 2003 (EntsV);
+
+eingesehen das Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005 (Bundesgesetz gegen die Schwarzarbeit, BGSA) und seine Verordnung vom 6. September 2006 (VOSA);
 
 eingesehen die Artikel 360a, 360b und 360c des Schweizerischen Obligationenrechts (OR);
 
@@ -30,11 +32,11 @@ eingesehen das kantonale Arbeitsgesetz vom 12. Mai 2016;
 
 auf Antrag des Staatsrates,
 
-verordnet:[^t-1]
+verordnet:[^ingress-1]
 
-[^t-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
+[^ingress-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -45,16 +47,12 @@ verordnet:[^t-1]
 <sup>2</sup> Es bezweckt im Besonderen:
 
 - a) die Prävention im Bereich der Schwarzarbeit sowie des Lohn- und Sozialdumpings;
-
 - b) die Umsetzung der Beobachtung des einheimischen Arbeitsmarkts und die Kontrolle der Einhaltung der Normalarbeitsverträge mit zwingendem Mindestlohn;
-
 - c) die Bekämpfung der Schwarzarbeit sowie des Lohn- und Sozialdumpings;
-
 - d) die Koordination der verschiedenen Tätigkeiten der Kontrollorgane im Bereich des Arbeitsmarkts;
-
 - e) den Schutz der Unternehmer und ihrer Arbeitnehmer vor unlauterem Wettbewerb.
 
-### 1. Abschnitt: Zuständige Organe
+### 1.1 Zuständige Organe
 
 #### Art. 2
 
@@ -65,15 +63,10 @@ verordnet:[^t-1]
 <sup>2</sup> Er erlässt die Vollzugsbestimmungen und übt im Besonderen die folgenden Kompetenzen aus:
 
 - a) er setzt die kantonale tripartite Kommission (nachfolgend: Kommission) ein und bestimmt deren Zusammensetzung, Organisation, Funktionsweise und Aufgaben;
-
 - b) er bezeichnet die für die Anwendung des vorliegenden Gesetzes zuständigen Dienststellen;
-
 - c) er genehmigt die von der Kommission gesetzten Ziele und Prioritäten sowie die von dieser festgelegten Aktionspläne;
-
 - d) er schliesst Leistungsvereinbarungen mit der zuständigen Bundesbehörde ab;
-
 - e) er regelt die Einzelheiten der Zusammenarbeit mit den paritätischen Organen, die eine solche verlangen;
-
 - f) er kann, im Rahmen von allgemeinverbindlich erklärten Gesamtarbeitsverträgen, Kompetenzen für die Kontrollen vor Ort an Dritte delegieren; die hierfür angestellten Hilfskräfte werden vom Staatsrat vereidigt.
 
 #### Art. 3
@@ -87,9 +80,7 @@ verordnet:[^t-1]
 <sup>3</sup> Sie übt die Aufsicht über die Anwendung der Bundesgesetze über die entsandten Arbeitnehmer und über die Schwarzarbeit aus. Im Besonderen erfüllt sie folgende Aufgaben:
 
 - a) sie erarbeitet periodisch einen Aktionsplan und legt darin unter Berücksichtigung der Empfehlungen des Bundes die Ziele und Prioritäten im Bereich der Kontrollen fest;
-
 - b) sie organisiert Sensibilisierungs- und Informationskampagnen;
-
 - c) sie koordiniert die Arbeitsmarktbeobachtung.
 
 <sup>4</sup> Sie ist mit einem Exekutivbüro ausgestattet, in dem die Parteien repräsentativ vertreten sind, sowie mit einem Sekretariat, das die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse (nachstehend: Dienststelle) besorgt.
@@ -104,31 +95,133 @@ verordnet:[^t-1]
 
 <sup>2</sup> Sie erstattet dem Staatsrat und dem Bund periodisch Bericht über ihre Tätigkeit.
 
-**(nachstehend:**
+<sup>3</sup> Sämtliche Kontrollen, für welche die Dienststelle zuständig ist, werden von der kantonalen Beschäftigungsinspektion (nachstehend: Beschäftigungsinspektion) ausgeführt. Diese:
 
-<sup>3</sup> Sämtliche Kontrollen, für welche die Dienststelle zuständig ist, werden von der kantonalen Beschäftigungsinspektion Beschäftigungsinspektion) ausgeführt. Diese:
-
-- a) erstellt Kontroll- und Untersuchungsberichte und übermittelt diese den zuständigen Fachbehörden;
-
-- b) übermittelt der Staatsanwaltschaft im Rahmen der Anwendung des BGSA die Unterlagen zu Straftaten, die von Amtes wegen verfolgt werden.
+- a) führt spontan oder gestützt auf erhaltene Informationen Kontrollen und Ermittlungen durch;
+- b) erstellt Kontroll- und Ermittlungsberichte und übermittelt diese den zuständigen Fachbehörden;
+- c) übermittelt der Staatsanwaltschaft im Rahmen der Anwendung des BGSA die Unterlagen zu Straftaten, die von Amtes wegen verfolgt werden.
 
 <sup>4</sup> Das Gesetz über das Personal des Staates Wallis regelt den Status der Beschäftigungsinspektoren. Diese werden vom Staatsrat vereidigt, der diese Aufgabe an das Departement delegieren kann, dem die Dienststelle angegliedert ist (nachstehend: Departement).
+
+<sup>5</sup> In den Wirtschaftsbereichen mit einem allgemein verbindlichen Gesamtarbeitsvertrag stellt die Dienststelle die Meldungen der entsandten Arbeitnehmer den betreffenden paritätischen Berufskommissionen oder den von diesen bezeichneten Einheiten zu.
+
+<sup>6</sup> Der Staatsrat regelt die Anforderungen an die Beschäftigungsinspektoren, namentlich in Bezug auf die Ausbildungen und fachlichen Kompetenzen, über die sie verfügen müssen.
+
+#### Art. 4a
+
+**Individuelles elektronisches Kontrollinstrument**
+
+<sup>1</sup> Der Kanton richtet in bestimmten Branchen und Berufen nach Absprache mit den Sozialpartnern ein individuelles elektronisches Kontrollinstrument ein, um die Überprüfung der Einhaltung der kumulativen Bedingungen von Buchstabe a bis e von Absatz 2 des vorliegenden Artikels durch die Arbeitnehmer und ihre Arbeitgeber zu erleichtern.
+
+<sup>2</sup> Das individuelle Kontrollinstrument wird Arbeitnehmern gewährt, die bei UID-Einheiten im Sinne des Bundesgesetzes über die Unternehmens-Identifikationsnummer (UIDG) (nachfolgend: Unternehmen) angestellt sind, die:
+
+- a) die Bestimmungen über den Arbeitnehmerschutz, die Arbeitsbedingungen im Sinne von Artikel 8 kGIVöB und die Melde- und Bewilligungspflichten des eidgenössischen Entsendegesetzes einhalten;
+- b) mit den Abrechnungen der obligatorischen Sozialkassen auf Bundes- und Kantonsebene auf dem neusten Stand sind;
+- c) nicht wegen ausstehender Löhne oder Beiträge betrieben worden sind;
+- d) weder selbst noch eines ihrer Organe in den 5 Jahren vor Einreichung des Antrags auf ein Kontrollinstrument von einer Behörde wegen einer Straftat oder eines Gesetzesverstosses im Zusammenhang mit dem EntsG oder den im BGSA genannten Melde- und Bewilligungspflichten verurteilt oder bestraft worden sind;
+- e) nicht durch einen noch rechtskräftigen Beschluss wegen Nichteinhaltung von Artikel 44 Absatz 2 Buchstabe f oder g IVöB vom öffentlichen Beschaffungswesen ausgeschlossen wurden.
+
+<sup>3</sup> Das individuelle Kontrollinstrument darf den Arbeitnehmern nur ausgehändigt werden, wenn die Bedingungen im vorstehenden Absatz kumulativ erfüllt sind. Die Einhaltung der Bedingungen wird in regelmässigen Abständen überprüft und jede Nichteinhaltung der Bedingungen kann den Entzug zur Folge haben.
+
+<sup>4</sup> Jeder Arbeitnehmer ist verpflichtet, das individuelle Kontrollinstrument auf Verlangen berechtigten Personen vorzulegen, insbesondere den für den Kanton tätigen Inspektoren, den für die paritätischen Berufskommissionen (nachfolgend: PBK) tätigen Kontrolleuren, dem Bauherrn und, im Falle der Vergabe von Unteraufträgen, dem Erstunternehmer.
+
+- a) …
+- b) …
+- c) …
+
+<sup>5</sup> Der Kanton stellt sicher, dass das individuelle elektronische Kontrollinstrument den Anforderungen der Informationssicherheit genügt. Zu diesem Zweck werden die diesbezüglichen Daten unter der Verantwortung der Walliser Kantonsverwaltung in der Schweiz gehostet, die deren Bearbeitung sicherstellt.
+
+<sup>6</sup> Vorbehalten bleiben die kantonalen Bestimmungen über den Datenschutz, die Datenaufbewahrung und die Archivierung.
+
+<sup>7</sup> …
+
+<sup>8</sup> …
+
+<sup>9</sup> …
+
+#### Art. 4b
+
+**Kompetenzen in Bezug auf das individuelle elektronische Kontrollinstrument**
+
+<sup>1</sup> Der Staatsrat stellt sicher, dass das individuelle elektronische Kontrollinstrument ordnungsgemäss funktioniert. Zu diesem Zweck überträgt er dem Departement die Unterzeichnung von Vereinbarungen, welche die Finanzierung des Systems vorsehen. Vorbehalten bleiben Drittkosten.
+
+<sup>2</sup> Das Departement, durch die Dienststelle:
+
+- a) ist befugt, Daten von Unternehmen, die über ihre UID-Nummer identifiziert werden, bei der PBK, den betroffenen kantonalen und eidgenössischen Einrichtungen und Dienststellen zu erheben und zu verarbeiten. Bei Bedarf stellt das Unternehmen die Daten in einem geeigneten Format zur Verfügung;
+- b) ist befugt, die Daten der Arbeitnehmer, die über die AHV-Nummer oder die ZEMIS-Nummer (Zentrales Migrationsinformationssystem) identifiziert werden, bei der PBK, den betroffenen kantonalen und eidgenössischen Einrichtungen und Dienststellen zu erheben und zu verarbeiten. Bei Bedarf stellt das Unternehmen die Daten in einem geeigneten Format zur Verfügung;
+- c) ist befugt, jedem Herausgeber von individuellen Kontrollinstrumenten, der berechtigt ist, die AHV-Nummer systematisch zu verwenden, die Zusammenfassung der erfassten und bearbeiteten Daten der Arbeitnehmer, die über ihre AHV-Nummer identifiziert werden, sowie der Unternehmen weiterzugeben;
+- d) trifft alle Entscheide im Zusammenhang mit den Verfahren zur Erteilung, Suspendierung und zum Entzug des individuellen Kontrollinstruments;
+- e) stellt anfänglich und dann in regelmässigen Abständen in Zusammenarbeit mit der PBK, den betroffenen kantonalen und eidgenössischen Einrichtungen und Dienststellen sicher, dass die antragstellenden Unternehmen sowie ihre Arbeitnehmer die in Artikel 4a Absatz 2 dieses Gesetzes vorgesehenen Bedingungen erfüllen. Bei Bedarf stellt das Unternehmen die Daten in einem geeigneten Format zur Verfügung;
+- f) stellt die Aktualität und Richtigkeit der Daten sicher;
+- g) führt eine öffentliche Liste der begünstigten UID-Einheiten und stellt sie dauerhaft im Internet zur Verfügung;
+- h) kann eine jährliche Gebühr für die periodischen Kontrollen und die Aktualisierung der begünstigten UID-Einheiten erheben.
+
+<sup>3</sup> Die PBKs und die betroffenen kantonalen und eidgenössischen Einrichtungen und Dienststellen sind verpflichtet, der Dienststelle ohne Kosten und Gebühren die Informationen zu übermitteln, die für die Kontrolle der begünstigten Unternehmen, die das individuelle elektronische Kontrollinstrument in Anspruch nehmen oder in Anspruch nehmen wollen, erforderlich sind.
+
+<sup>4</sup> Die PBKs oder die Dienststelle:
+
+- a) sind für die Ausstellung des individuellen Kontrollinstruments zuständig;
+- b) sind dafür zuständig, die Liste der begünstigten UID-Einheiten für jeden Berufssektor sowie die Namensliste der betroffenen Arbeitnehmer ständig auf dem neuesten Stand zu halten;
+- c) können für die Ausstellung des individuellen Kontrollinstruments eine Gebühr erheben;
+- d) können diese Aufgaben an eine von ihnen selbst benannte anerkannte Stelle delegieren.
+
+<sup>5</sup> Auf dem Verordnungsweg geregelt werden:
+
+- a) die betroffenen Branchen und Berufe gemäss Artikel 4a Absatz 1;
+- b) das Verfahren für die Erteilung des individuellen Kontrollinstruments;
+- c) das Verfahren zur Suspendierung des individuellen Kontrollinstruments, dessen Entzug und die entsprechenden Folgen;
+- d) die so verwalteten Kontrolldaten und ihre technischen Einzelheiten (Datenmodell);
+- e) die Bedingungen und das Verfahren, unter denen der Zugriff, die Speicherung und die Übermittlung von Daten durch den Kanton, die PBKs und die betroffenen Einrichtungen genehmigt werden;
+- f) die Instrumente, die eine Kontrolle vor Ort ermöglichen;
+- g) die Liste und die Kompetenzen der befugten Personen im Sinne von Artikel 4a Absatz 4 dieses Gesetzes;
+- h) die Modalitäten für die Führung einer öffentlichen Liste der begünstigten Unternehmen;
+- i) die Liste der zugelassenen Stellen im Sinne von Absatz 4 Buchstabe d (sowie die Bedingungen für die Übertragung);
+- j) die Höhe der in den Absätzen 2 und 4 vorgesehenen Gebühren und Abgaben.
+
+#### Art. 4c
+
+**Partnerschaft in Bezug auf das individuelle elektronische Kontrollinstrument**
+
+<sup>1</sup> Der Kanton, die Verbände der PBKs und die einzelnen PBKs (nachfolgend die Mitglieder) gründen einen Verein im Sinne von Artikel 60 fortfolgende des Schweizerischen Zivilgesetzbuches für die Bereitstellung und die Weiterentwicklung des IT-Tools, mit dem das individuelle Kontrollinstrument betrieben werden kann.
+
+<sup>2</sup> Dieser Verein ist Verwahrer der Verwaltungs- und Entwicklungsrechte an dem vom Kanton Wallis zur Verfügung gestellten IT-Tool und übernimmt dessen Steuerung und Wartung.
+
+<sup>3</sup> Die Mitglieder legen in den Statuten die Organisation und die Funktionsweise des Vereins sowie die Art der Finanzierung des Instruments fest. Die Statuten unterliegen der Genehmigung durch den Staatsrat.
 
 #### Art. 5
 
 **Organ zur Beobachtung des Arbeitsmarktes**
 
-In der Regel delegiert die Kommission ihre Kompetenzen zur Datenanalyse, insbesondere ökonometrische, im Bereich Beobachtung des Arbeitsmarkts an die Dienststelle für Industrie, Handel und Arbeit, welche diese Aufgaben durch die Arbeitsmarktbeobachtung Wallis erfüllt.
+<sup>1</sup> In der Regel delegiert die Kommission ihre Kompetenzen zur Datenanalyse, insbesondere ökonometrische, im Bereich Beobachtung des Arbeitsmarkts an die Dienststelle für Industrie, Handel und Arbeit, welche diese Aufgaben durch die Arbeitsmarktbeobachtung Wallis erfüllt.
 
 #### Art. 6
 
 **Paritätische Organe**
 
-<sup>1</sup> Die paritätischen Berufskommissionen sind für die Erfüllung der ihnen ausdrücklich durch die Bundesgesetzgebung übertragenen Aufgaben zuständig.
+<sup>1</sup> Die paritätischen Berufskommissionen sind für die Erfüllung der ihnen ausdrücklich durch das Entsendegesetz und durch die Bestimmungen eines allgemein verbindlich erklärten Gesamtarbeitsvertrags übertragenen Aufgaben zuständig.
 
-<sup>2</sup> Der Staatsrat oder durch Delegation das Departement regelt die Einzelheiten der Zusammenarbeit zwischen der Dienststelle und den paritätischen Berufskommissionen.
+<sup>2</sup> In diesen Bereichen sind sie dazu befugt, Informationen über Anfragen um Kontrollen zu speichern, namentlich auf elektronischen Datenträgern, und mit den üblichen Mitteln die Tätigkeit am Arbeitsort und die Ausweise der kontrollierten Personen zu fotografieren, wobei die Grundsätze der Zweckbindung und der Verhältnismässigkeit einzuhalten sind.
 
-### 2. Abschnitt: Zusammenarbeit
+<sup>3</sup> Diese Daten können auf einem elektronischen Datenträger während maximal 5 Jahren ab dem Tag der Kontrolle oder bis der Vollzug einer Sanktion abgeschlossen ist, aufbewahrt werden und werden danach vernichtet. Einzig die Kontrolleure der paritätischen Berufskommissionen und die für die Datenbearbeitung zuständigen Mitglieder dieser Kommissionen haben Zugriff darauf, unter Vorbehalt von Absatz 4. Sie unterliegen gegenüber allen unbeteiligten Dritten einer generellen und zeitlich unbeschränkten Verschwiegenheits- und Geheimhaltungspflicht bezüglich aller im Rahmen der Kontrolle oder im weiteren Zusammenhang erlangten Informationen, Daten und Untersuchungsergebnisse.
+
+<sup>4</sup> Die paritätischen Berufskommissionen oder die von ihnen bezeichneten Einheiten müssen:
+
+- a) der Dienststelle und der Schweizerischen Unfallversicherungsanstalt unverzüglich die Informationen Dritter, die ausschliesslich in den Kompetenzbereich dieser Vollzugsorgane fallen, übermitteln;
+- b) der Dienststelle unverzüglich einen ausführlichen Bericht über die durchgeführten Kontrollen, begleitet von sachdienlichen Unterlagen, übermitteln, damit sie gegebenenfalls Administrativmassnahmen aussprechen und geeignete Sanktionen verhängen kann.
+
+<sup>5</sup> Der Staatsrat oder durch Delegation das Departement regelt die Einzelheiten der Zusammenarbeit zwischen der Dienststelle und den paritätischen Berufskommissionen und den von diesen bezeichneten Einheiten.
+
+#### Art. 6a
+
+**Datenschutz**
+
+<sup>1</sup> Unabhängig vom Bereich, in dem sie intervenieren sollen, müssen alle in den Vollzug des vorliegenden Gesetzes involvierten Kontrollorgane jegliche Informationsquelle, die ihnen eine mutmassliche strafbare Handlung meldet, absolut vertraulich behandeln und dürfen den kontrollierten Personen die Herkunft dieser Meldung keinesfalls bekanntgeben.
+
+<sup>2</sup> Der Staatsrat regelt die Anforderungen bezüglich Übermittlung des gesammelten Materials an die Strafbehörden sowie dessen Aufbewahrung und Vernichtung.
+
+<sup>3</sup> Die paritätischen Organe unterstehen darüber hinaus den Bestimmungen des Bundesgesetzes über den Datenschutz und die Dienststelle untersteht den Bestimmungen des kantonalen Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung sowie den Artikeln 7 und 17 BGSA.
+
+### 1.2 Zusammenarbeit
 
 #### Art. 7
 
@@ -142,7 +235,7 @@ In der Regel delegiert die Kommission ihre Kompetenzen zur Datenanalyse, insbeso
 
 **Andere Zusammenarbeit**
 
-Die Kontrollorgane arbeiten mit den zuständigen Behörden des Bundes, der Kantone und der Gemeinden, insbesondere in Sachen Arbeitsinspektion, Arbeitsmarkt und Arbeitslosenversicherung, Beschäftigung, Polizei, Asylwesen, Ausländerpolizei, Zivilstand und Steuerwesen, sowie mit den Behörden des Bundes und der Kantone und den privaten Organisationen, die für den Vollzug der Versicherungsgesetzgebung zuständig sind, zusammen.
+<sup>1</sup> Die Kontrollorgane arbeiten mit den zuständigen Behörden des Bundes, der Kantone und der Gemeinden, insbesondere in Sachen Arbeitsinspektion, Arbeitsmarkt und Arbeitslosenversicherung, Beschäftigung, Polizei, Asylwesen, Ausländerpolizei, Zivilstand und Steuerwesen, sowie mit den Behörden des Bundes und der Kantone und den privaten Organisationen, die für den Vollzug der Versicherungsgesetzgebung zuständig sind, zusammen.
 
 #### Art. 9
 
@@ -156,7 +249,7 @@ Die Kontrollorgane arbeiten mit den zuständigen Behörden des Bundes, der Kanto
 
 <sup>4</sup> Die Nichtbefolgung ist nach Bundesrecht strafbar.
 
-### 2. Kapitel: Flankierende Massnahmen zur Personenfreizügigkeit
+## 2 Flankierende Massnahmen zur Personenfreizügigkeit
 
 #### Art. 10
 
@@ -169,11 +262,8 @@ Die Kontrollorgane arbeiten mit den zuständigen Behörden des Bundes, der Kanto
 <sup>3</sup> Die Dienststelle für Industrie, Handel und Arbeit, durch die Arbeitsmarktbeobachtung Wallis, hat insbesondere folgende Aufgaben:
 
 - a) im Auftrag der Kommission die in verschiedenen Wirtschaftssektoren oder Berufsbranchen vorherrschenden Lohnbedingungen untersuchen;
-
 - b) die Koordination und den regelmässigen Austausch der verfügbaren Informationsquellen der beobachteten Bereiche sicherstellen;
-
 - c) die notwendigen Informationen liefern, damit die Kommission Vorschläge zur Annahme, Änderung oder Aufhebung von Normalarbeitsverträgen mit zwingendem Mindestlohn ausarbeiten kann;
-
 - d) die Ergebnisse ihrer Arbeit regelmässig der Kommission präsentieren.
 
 #### Art. 11
@@ -198,23 +288,103 @@ Die Kontrollorgane arbeiten mit den zuständigen Behörden des Bundes, der Kanto
 
 <sup>5</sup> Die Dienststelle übermittelt der zuständigen Bundesbehörde die Normalarbeitsverträge, die sie in Anwendung von Artikel 360a OR erlässt.
 
-### 3. Kapitel: Bekämpfung der Schwarzarbeit
+## 3 Bekämpfung der Schwarzarbeit
 
 #### Art. 13
 
 **Gegenstand der Kontrolle**
 
-Die Kontrolle im Bereich der Bekämpfung der Schwarzarbeit bezweckt namentlich die Aufdeckung und die Bestrafung folgender Verstösse:
+<sup>1</sup> Die Kontrolle im Bereich der Bekämpfung der Schwarzarbeit bezweckt namentlich die Aufdeckung und Bestrafung folgender Verstösse:
 
 - a) die Beschäftigung von Arbeitnehmern, die nicht bei den obligatorischen Sozialversicherungen angemeldet sind;
-
 - b) die nicht deklarierte Ausführung von Arbeiten durch Arbeitnehmer, die Leistungen von der Arbeitslosenversicherung, einer anderen Sozialversicherung oder der Sozialhilfe erhalten;
-
 - c) die Scheinselbstständigkeit;
-
 - d) die Beschäftigung von ausländischen Arbeitnehmern, die gegen die Bestimmungen des Ausländerrechts verstossen;
+- e) die Beschäftigung von Arbeitnehmern, die der Quellensteuer unterstehen, die nicht bei den Steuerbehörden angemeldet sind;
+- f) die von einem Selbstständigerwerbenden, der seinen Lohn oder sein Einkommen den Steuerbehörden nicht oder nur teilweise deklariert, ausgeführten Arbeiten.
 
-- e) die Nichtdeklaration gegenüber den Steuerbehörden der den Arbeitnehmern, die der Quellensteuer unterstehen, ausbezahlten Löhne.
+#### Art. 13a
+
+**Verlangen von Kontrollen**
+
+<sup>1</sup> Die Beschäftigungsinspektion ist befugt, Informationen von Dritten im Zusammenhang mit dem Verdacht auf Schwarzarbeit zu sammeln, namentlich über eine Pikett-Hotline oder elektronische Datenträger.
+
+<sup>2</sup> Diese Informationen werden in einer Computerdatenbank abgespeichert, auf die ausschliesslich das für die Bearbeitung dieser Daten zuständige Personal und dessen Vorgesetzte Zugriff haben, wobei Absatz 4 vorbehalten bleibt.
+
+<sup>3</sup> Die Entscheidung, infolge einer Information eine Ermittlung durchzuführen oder nicht, basiert auf den Grundsätzen der Zweckbindung und der Verhältnismässigkeit.
+
+<sup>4</sup> Die Beschäftigungsinspektion ist befugt, mit den zuständigen Behörden und Institutionen die Informationen über mutmassliche Vergehen, die diese direkt betreffen, im Sinne der Bundesgesetzgebung und von Artikel 21 Absatz 5 des Gesetzes über das Personal des Staates Wallis auszutauschen.
+
+#### Art. 13b
+
+**Vorgehen bei Ermittlungen und Kontrollen**
+
+<sup>1</sup> Zusätzlich zu den Kompetenzen gemäss Artikel 7 BGSA sind die Beschäftigungsinspektoren, wenn Hinweise auf eine strafbare Handlung bestehen, dazu befugt:
+
+- a) bei den Sozialversicherungen und den betreffenden Dienststellen Vorabklärungen anzustellen, um die Situation eines Arbeitgebers oder einer Person in Erfahrung zu bringen;
+- b) Vorabklärungen durchzuführen, um einen mutmasslichen Arbeitsort ausfindig zu machen sowie die Art der ausgeübten Tätigkeiten und die Zahl der betroffenen Personen zu bestimmen;
+- c) eine spezifische Person oder ein spezifisches Unternehmen ohne deren oder dessen Wissen zu den Bedingungen gemäss Artikel 13c zu observieren;
+- d) bei einer Kontrolle vor Ort mit den üblichen Mitteln die Tätigkeit am Arbeitsort und die Ausweise der anwesenden Personen zu fotografieren;
+- e) die kontrollierten oder von der überprüften Situation betroffenen Arbeitgeber und Personen einzuvernehmen;
+- f) von den kontrollierten Arbeitgebern und Personen zu verlangen, dass sie die notwendigen Unterlagen zur Beweiserhebung übermitteln.
+
+#### Art. 13c
+
+**Vorermittlungen und Observationen**
+
+<sup>1</sup> Die Beschäftigungsinspektoren sind dazu befugt, gestützt auf einen Entscheid zur Eröffnung der Untersuchung des Chefs der Beschäftigungsinspektion oder von dessen Stellvertreter, gestützt auf das Ergebnis der Vorabklärungen und Vorermittlungen, eine Person oder ein Unternehmen, die/das verdächtigt wird, im Sinne des BGSA und von Artikel 13 unrechtmässig zu handeln, ohne ihr/sein Wissen zu observieren. Dies unter folgenden kumulativen Bedingungen:
+
+- a) die Beschäftigungsinspektion verfügt über konkrete Anhaltspunkte, die vermuten lassen, dass die fragliche Person Schwarzarbeit nachgeht oder das fragliche Unternehmen Schwarzarbeiter beschäftigt;
+- b) ohne Observation wäre die Aussicht auf eine erfolgreiche Ermittlung gering oder die Ermittlung würde unverhältnismässig erschwert werden.
+
+<sup>2</sup> Wenn es sich um einen Versicherten handelt, der unberechtigterweise eine Leistung bezieht oder zu beziehen versucht, setzen sie die betreffenden Institutionen davon in Kenntnis. Die Umsetzung der Artikel 43a und 43b ATSG bleibt vorbehalten.
+
+<sup>3</sup> Über die observierte Person oder das observierte Unternehmen können nur Daten beschafft und/oder Bildaufzeichnungen gemacht werden, wenn folgende kumulative Voraussetzungen erfüllt sind:
+
+- a) sie beziehen sich ausschliesslich auf eine Situation oder mehrere Situationen gemäss Artikel 13;
+- b) die verdächtigte Person oder das verdächtigte Unternehmen befindet sich an einem frei zugänglichen Ort oder in einer öffentlichen Einrichtung oder auch an einem Ort, der von einem frei zugänglichen Ort aus einsehbar ist.
+
+<sup>4</sup> Die Beschäftigungsinspektoren dürfen das Verhalten der Personen, über die sie Ermittlungen anstellen, nicht beeinflussen.
+
+<sup>5</sup> Eine Observation kann an höchstens 30 Kalendertagen innerhalb von sechs aufeinanderfolgenden Monaten ab dem ersten Observationstag stattfinden, unter Berücksichtigung der Grundsätze der Zweckbindung und der Verhältnismässigkeit. Dieser Zeitraum kann ausnahmsweise auf Entscheid des Vorstehers des Departements, dem die Dienststelle angegliedert ist, um die gleiche Dauer verlängert werden, wenn hinreichende Gründe dafür bestehen.
+
+<sup>6</sup> Spätestens beim Abschluss der Ermittlung teilt die Beschäftigungsinspektion der Person, die observiert wurde, die Gründe für die Observation, ihre Art und Dauer mit.
+
+<sup>7</sup> Diese Mitteilung wird verschoben oder es wird darauf verzichtet, wenn eine der folgenden Bedingungen erfüllt ist:
+
+- a) überwiegende öffentliche oder private Interessen müssen unbedingt geschützt werden;
+- b) die beschafften Informationen werden nicht als Beweise verwendet.
+
+<sup>8</sup> Wird auf eine Mitteilung verzichtet, so werden die gesammelten Daten sofort vernichtet.
+
+#### Art. 13d
+
+**Bewilligung zur Inanspruchnahme technischer Instrumente zur Standortbestimmung**
+
+<sup>1</sup> Beabsichtigt die Dienststelle, eine Observation mit technischen Instrumenten zur Standortbestimmung anzuordnen, unterbreitet sie dem Zwangsmassnahmengericht einen Antrag mit:
+
+- a) der Angabe des spezifischen Ziels der Observation;
+- b) den Angaben zu den von der Observation betroffenen Unternehmen oder Personen;
+- c) den vorgesehenen Observationsmodalitäten;
+- d) der Begründung der Notwendigkeit des Einsatzes technischer Instrumente und der Erläuterung, warum bisherige Abklärungen ohne diese Instrumente erfolglos waren, aussichtslos wären oder unverhältnismässig erschwert würden;
+- e) der Angabe von Beginn und Ende der Observation sowie der Frist, innerhalb der sie durchzuführen ist;
+- f) den für die Behandlung des Antrags wesentlichen Akten.
+
+<sup>2</sup> Der Richter entscheidet innerhalb von fünf Arbeitstagen nach Erhalt mit kurzer Begründung über den Antrag der Dienststelle; er kann diese Aufgabe einem anderen Richter übertragen.
+
+<sup>3</sup> Er kann die Genehmigung für die Observation befristen oder mit Auflagen erteilen oder eine Ergänzung der Akten oder weitere Informationen verlangen.
+
+#### Art. 13e
+
+**Einvernahmen der kontrollierten Personen und Unternehmen**
+
+<sup>1</sup> Infolge einer Kontrolle am Arbeitsplatz und/oder einer Vorabklärung und/oder Vorermittlung können die Beschäftigungsinspektoren die betroffene Person oder die betroffenen Personen zu einer Einvernahme einberufen, wenn sich anhand der zusammengetragenen Elemente mutmassliche strafbare Handlungen nachweisen lassen.
+
+<sup>2</sup> Bei der Einvernahme wird die der Schwarzarbeit verdächtigte Person oder der Arbeitgeber eines Schwarzarbeiters oder mehrerer Schwarzarbeiter über den Grund und den Straftatverdacht informiert.
+
+<sup>3</sup> Nach ihrer Einvernahme unterzeichnet die vernommene Person das Einvernahmeprotokoll und erhält eine Kopie davon.
+
+<sup>4</sup> Die zu einer Einvernahme vorgeladene Person, die ohne triftigen Grund nicht zur Einvernahme erscheint, kann Gegenstand einer Sanktion wegen Verletzung der Mitwirkungspflicht im Sinne von Artikel 18 BGSA bilden.
 
 #### Art. 14
 
@@ -224,25 +394,48 @@ Die Kontrolle im Bereich der Bekämpfung der Schwarzarbeit bezweckt namentlich d
 
 <sup>2</sup> Die Dienststelle ist befugt, die für die Umsetzung von Artikel 13 BGSA erforderlichen Informationen entgegenzunehmen und an die zuständigen Behörden und Dienststellen weiterzuleiten.
 
-### 4. Kapitel: Sanktionen und administrative Massnahmen
+## 4 Sanktionen und administrative Massnahmen
 
 #### Art. 15
 
 **Bussen und Ausschluss**
 
-<sup>1</sup> Die Dienststelle, als kantonales Kontrollorgan:
+<sup>1</sup> Die Dienststelle, als kantonales Kontroll- und Sanktionsorgan:
 
 - a) spricht die Sanktionen aus, die im EntsG und im BGSA vorgesehen sind;
-
 - b) kann bei schwerwiegenden Verstössen oder bei Nichtbezahlung rechtskräftiger Bussen infolge von Verstössen gegen das EntsG dem betreffenden ausländischen Arbeitgeber verbieten, während einer bestimmten Zeit in der Schweiz seine Dienste anzubieten;
+- c) auferlegt dem fehlbaren Arbeitgeber beziehungsweise Selbstständigerwerbenden die Kontrollkosten.
 
-- c) auferlegt dem fehlbaren Arbeitgeber beziehungsweise Selbstständig-erwerbenden die Kontrollkosten.
-
-<sup>2</sup> gemäss EntsG oder selbstständiger Arbeitnehmer gemäss der eidgenössischen Verordnung über die Einführung des freien Personenverkehrs kassiert die Beschäftigungsinspektion eine Kaution ein, die zur Deckung des mutmasslichen Bussenbetrags und der Kontrollkosten bestimmt ist.
+<sup>2</sup> Im Fall offensichtlicher Verletzung der Bestimmungen über die Meldung entsandter Arbeitnehmer gemäss EntsG oder selbstständiger Arbeitnehmer gemäss der eidgenössischen Verordnung über die Einführung des freien Personenverkehrs kassiert die Beschäftigungsinspektion eine Kaution ein, die zur Deckung des mutmasslichen Bussenbetrags und der Kontrollkosten bestimmt ist.
 
 <sup>3</sup> Im Übrigen gelten unter Vorbehalt der Bundesbestimmungen die Bestimmungen des 7. Kapitels des kantonalen Arbeitsgesetzes.
 
 <sup>4</sup> Bei Nichtbezahlung einer auf das BGSA gestützten Busse kann die Dienststelle von der zuständigen Behörde die Umwandlung in eine Ersatzfreiheitsstrafe beantragen.
+
+#### Art. 15a
+
+**Arbeitsunterbruch**
+
+<sup>1</sup> Im Falle einer Kontrolle in Anwendung der Bundesgesetzgebung über die Schwarzarbeit kann die Dienststelle den sofortigen Arbeitsunterbruch dieser Person oder dieses Unternehmens am betreffenden Arbeitsplatz anordnen, wenn sich die Person oder das Unternehmen der Kontrolle widersetzt oder sich weigert, an der Ermittlung des Sachverhalts mitzuwirken.
+
+<sup>2</sup> Bei Kontrollen im Rahmen eines öffentlichen Auftrags informiert die Dienststelle unverzüglich den Auftraggeber, damit dieser den sofortigen Arbeitsunterbruch eines Unternehmens am betreffenden Arbeitsort anordnet, insbesondere wenn:
+
+- a) das Unternehmen einen ausländischen Arbeitnehmer oder mehrere ausländische Arbeitnehmer ohne Arbeitsbewilligung in der Schweiz beschäftigt oder sich weigert, die Identität von Arbeitnehmern, die bei der Kontrolle geflüchtet sind, bekannt zu geben;
+- b) die Beschäftigungsinspektion nicht feststellen kann, dass das Unternehmen oder der Selbstständigerwerbende den obligatorischen oder überobligatorischen Sozialversicherungen im Sinne der erweiterten Bestimmungen der Gesamtarbeitsverträge angeschlossen ist;
+- c) feststeht, dass das Unternehmen die Sozialversicherungsbeiträge und die Quellensteuer auf den Löhnen seiner Angestellten erhebt, sie aber nicht an die betroffenen Institutionen entrichtet;
+- d) das Unternehmen oder der Selbstständigerwerbende nicht als Subunternehmer gemeldet ist oder als Subunternehmer eines Subunternehmers arbeitet.
+
+<sup>3</sup> Ist die Dienststelle der Ansicht, dass die in Absatz 1 oder 2 vorgesehenen Bedingungen erfüllt sind, erlässt sie (Abs. 1) beziehungsweise der Auftraggeber (Abs. 2) unverzüglich eine Verfügung zum Arbeitsunterbruch des Unternehmens oder des Selbstständigerwerbenden am betreffenden Arbeitsort. In ihrer Verfügung setzt sie oder er das Unternehmen oder den Selbstständigerwerbenden darüber in Kenntnis, dass das Zwangsmassnahme aufgehoben werden kann, sobald sie oder er feststellen konnte, dass die Gründe, die zum Arbeitsunterbruch geführt haben, beseitigt sind. Die Aufhebung des Arbeitsunterbruchs ist ebenfalls Gegenstand einer Verfügung der Dienststelle beziehungsweise des Auftraggebers.
+
+<sup>4</sup> Bei Arbeitsunterbruch eröffnet die Dienststelle ihre Verfügung dem Auftraggeber und dem Bauherrn, beziehungsweise der Auftraggeber seine Verfügung dem Bauherrn.
+
+<sup>5</sup> Die zuständigen Behörden, namentlich die Kantonspolizei und die Gemeindepolizeien, können für die Anwendung der administrativen Zwangsmassnahmen zur Mitarbeit hinzugezogen werden.
+
+<sup>6</sup> Gegen die Verfügung zum Arbeitsunterbruch kann innert einer Frist von 10 Tagen beim Kantonsgericht Beschwerde eingereicht werden. Diese hat keine aufschiebende Wirkung. Die Sanktionen und Administrativmassnahmen können kumuliert werden.
+
+<sup>7</sup> Wird die Verfügung der Dienststelle beziehungsweise des Auftraggebers missachtet, kann gegen den betreffenden Unternehmensleiter oder Selbstständigerwerbenden Strafanzeige erstattet werden.
+
+<sup>8</sup> Der Staatsrat regelt auf dem Verordnungsweg die Modalitäten zur Umsetzung der vorliegenden Bestimmung.
 
 #### Art. 16
 
@@ -274,7 +467,7 @@ Die Kontrolle im Bereich der Bekämpfung der Schwarzarbeit bezweckt namentlich d
 
 <sup>3</sup> Die oben erwähnten Feststellungsklagen fallen in die Zuständigkeit des Arbeitsgerichts. Das Verfahren richtet sich nach der Zivilprozessordnung und dem kantonalen Arbeitsgesetz.
 
-### 5. Kapitel: Finanzierung
+## 5 Finanzierung
 
 #### Art. 19
 
@@ -296,19 +489,19 @@ Die Kontrolle im Bereich der Bekämpfung der Schwarzarbeit bezweckt namentlich d
 
 <sup>3</sup> Vorbehalten bleibt Artikel 19 Absatz 3 des vorliegenden Gesetzes.
 
-### 6. Kapitel: Übergangs- und Schlussbestimmungen
+## 6 Übergangs- und Schlussbestimmungen
 
 #### Art. 21
 
 **Übergangs- und Schlussbestimmungen**
 
-Der Staatsrat erlässt die zur Anwendung des vorliegenden Gesetzes notwendigen Bestimmungen.
+<sup>1</sup> Der Staatsrat erlässt die zur Anwendung des vorliegenden Gesetzes notwendigen Bestimmungen.
 
 #### Art. 22
 
 **Aufhebung**
 
-Das Ausführungsgesetz zum Bundesgesetz über die minimalen Arbeits- und Lohnbedingungen für in die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer und flankierende Massnahmen (EntsG) und zum Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit (BGSA) (SGS/VS 823.1) wird aufgehoben.
+<sup>1</sup> Das Ausführungsgesetz zum Bundesgesetz über die minimalen Arbeits- und Lohnbedingungen für in die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer und flankierende Massnahmen (EntsG) und zum Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit (BGSA) wird aufgehoben.
 
 #### Art. 23
 
@@ -318,12 +511,4 @@ Das Ausführungsgesetz zum Bundesgesetz über die minimalen Arbeits- und Lohnbed
 
 <sup>2</sup> Der Staatsrat setzt den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes fest.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 12. Mai 2016.
-
-Der Präsident des Grossen Rates: Nicolas Voide Der Chef des Parlamentsdienstes: Claude Bumann
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Ausführungsgesetz zum Entsendegesetz und Abl. Nr. 23/2016; 01.10.2016 zum Bundesgesetz gegen die Schwarzarbeit Abl. Nr. 39/2016
-
-### (AGEntsGBGSA) vom 12. Mai 2016
+CSW BO/Abl. 23/2016, 39/2016

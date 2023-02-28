@@ -4,37 +4,39 @@ number: "823.1"
 title: "Loi d'application de la loi fédérale sur les travailleurs détachés et de la loi fédérale sur le travail au noir"
 short: LALDétLTN
 language: fr
-version: 2016-10-01
-corrected: 2017-10-07
-version_adopted: 2016-05-12
+version: 2023-03-01
+version_adopted: 2022-12-15
 adopted: 2016-05-12
 in_force: 2016-10-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/823.1"
-pdf: "https://lex.vs.ch/api/fr/versions/195/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3183/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi d'application de la loi fédérale sur les travailleurs détachés et de la loi fédérale sur le travail au noir (LALDétLTN)
+# Loi d'application de la loi fédérale sur les travailleurs détachés et de la loi fédérale sur le travail au noir
 
-du 12 mai 2016
+(LALDétLTN)
+
+du 12.05.2016 (état 01.03.2023)
 
 Le Grand Conseil du canton du Valais
 
-vu la loi fédérale sur les mesures d'accompagnement applicables aux travailleurs détachés et aux contrôles des salaires minimaux prévus par les contrats-types de travail du 8 octobre 1999 (loi sur les travailleurs détachés; LDét) et son ordonnance du 21 mai 2003 (Odét);
+vu la loi fédérale sur les mesures d'accompagnement applicables aux travailleurs détachés et aux contrôles des salaires minimaux prévus par les contrats-types de travail du 8 octobre 1999 (Loi sur les travailleurs détachés, LDét) et son ordonnance du 21 mai 2003 (Odét);
 
-vu la loi fédérale concernant des mesures en matière de lutte contre le travail au noir du 17 juin 2005 (loi sur le travail au noir; LTN) et son ordonnance du 6 septembre 2006 (OTN);
+vu la loi fédérale concernant des mesures en matière de lutte contre le travail au noir du 17 juin 2005 (Loi sur le travail au noir, LTN) et son ordonnance du 6 septembre 2006 (OTN);
 
-vu les articles 360a, 360b et 360c du Code suisse des obligations (CO); vu la loi cantonale sur le travail du 12 mai 2016;
+vu les articles 360a, 360b et 360c du Code suisse des obligations (CO);
+
+vu la loi cantonale sur le travail du 12 mai 2016;
 
 sur proposition du Conseil d'Etat,
 
-ordonne:[^t-1]
+ordonne:[^ingress-1]
 
-[^t-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -45,16 +47,12 @@ ordonne:[^t-1]
 <sup>2</sup> Elle vise en particulier à:
 
 - a) assurer la prévention en matière de travail au noir et de dumping salarial et social;
-
 - b) mettre en oeuvre l'observation du marché du travail indigène et le contrôle du respect des contrats-types de travail comprenant des salaires minimaux obligatoires;
-
 - c) lutter contre le travail au noir et le dumping salarial et social;
-
 - d) coordonner les différentes activités des organes de contrôle dans le domaine du marché du travail;
-
 - e) protéger les entreprises et leurs collaborateurs contre la concurrence déloyale.
 
-### Section 1: Organes compétents
+### 1.1 Organes compétents
 
 #### Art. 2
 
@@ -65,15 +63,10 @@ ordonne:[^t-1]
 <sup>2</sup> Il édicte les dispositions d'exécution et exerce en particulier les compétences suivantes:
 
 - a) il institue la Commission tripartite cantonale (ci-après: Commission), dont il précise la composition, l'organisation, le fonctionnement et les tâches;
-
 - b) il désigne les services compétents pour l'application de la présente loi;
-
 - c) il approuve les objectifs et les priorités ainsi que les plans d'action définis par la Commission;
-
 - d) il conclut des accords de prestations avec l'autorité fédérale compétente;
-
 - e) il règle les modalités de collaboration avec les organes paritaires qui en font la demande;
-
 - f) il peut, dans le cadre de conventions collectives de travail étendues, déléguer des compétences de contrôles sur le terrain à des tiers; les auxiliaires engagés pour ces tâches sont assermentés par le Conseil d'Etat.
 
 #### Art. 3
@@ -84,14 +77,10 @@ ordonne:[^t-1]
 
 <sup>2</sup> Elle est chargée de l'observation du marché du travail, au sens de l'article 360b CO.
 
-<sup>3</sup> Elle exerce la surveillance en matière d'application des lois fédérales sur les travailleurs détachés et sur le travail au noir.
-
-En particulier, elle:
+<sup>3</sup> Elle exerce la surveillance en matière d'application des lois fédérales sur les travailleurs détachés et sur le travail au noir. En particulier, elle:
 
 - a) élabore périodiquement un plan d'action et en fixe les objectifs et les priorités en matière de contrôle en tenant compte des recommandations fédérales;
-
 - b) met sur pied des campagnes de sensibilisation et d'information;
-
 - c) coordonne les activités d'observation du marché du travail.
 
 <sup>4</sup> Elle est dotée d'un bureau exécutif représentatif de ses membres y siégeant et d'un secrétariat assuré par le Service de protection des travailleurs et des relations du travail (ci-après: Service).
@@ -106,29 +95,133 @@ En particulier, elle:
 
 <sup>2</sup> Il rend compte périodiquement au Conseil d'Etat et à la Confédération de ses activités.
 
-<sup>3</sup> L'ensemble des compétences de contrôle dévolues au Service sont exercées par l'Inspection cantonale de l'emploi (ci-après: Inspection de l'emploi), laquelle :
+<sup>3</sup> L'ensemble des compétences de contrôle dévolues au Service sont exercées par l'Inspection cantonale de l'emploi (ci-après: Inspection de l'emploi), laquelle:
 
-- a) établit les rapports de contrôle et d'enquête et les transmet aux autorités spéciales compétentes;
-
-- b) transmet au Ministère public, dans le cadre de l'application de la LTN, les dossiers relatifs à des infractions poursuivies d'office.
+- a) procède aux contrôles et enquêtes, spontanément ou sur la base d’informations reçues;
+- b) établit les rapports de contrôle et d'enquête et les transmet aux autorités spéciales compétentes;
+- c) transmet au Ministère public, dans le cadre de l'application de la LTN, les dossiers relatifs aux infractions poursuivies d'office.
 
 <sup>4</sup> La loi fixant le statut des employés de l'Etat du Valais régit le statut des inspecteurs de l'emploi. Ceux-ci sont assermentés par le Conseil d'Etat, qui peut déléguer cette tâche au Département dont dépend le Service (ci-après: Département).
+
+<sup>5</sup> Dans les secteurs économiques régis par une CCT étendue, le Service transmet les annonces des travailleurs détachés aux commissions professionnelles paritaires concernées ou à toute entité désignée par elles.
+
+<sup>6</sup> Le Conseil d’Etat règle les exigences posées à l’endroit des inspecteurs de l’emploi, notamment les formations et les compétences professionnelles dont ils doivent bénéficier.
+
+#### Art. 4a
+
+**Moyen de contrôle individuel informatisé**
+
+<sup>1</sup> L’Etat établit, dans certains secteurs et professions, en accord avec les partenaires sociaux, un moyen de contrôle individuel informatisé permettant de vérifier de manière facilitée que les travailleurs et leur employeur respectent les conditions cumulatives prévues aux lettres a à e de l'alinéa 2 du présent article.
+
+<sup>2</sup> Le moyen de contrôle individuel est octroyé aux travailleurs engagés auprès d’entités IDE au sens de la loi fédérale sur le numéro d’identification des entreprises (LIDE) qui:
+
+- a) respectent les dispositions relatives à la protection des travailleurs, les conditions de travail au sens de l’article 8 LcAIMP et les obligations en matière d’annonce et d’autorisation mentionnées dans la loi fédérale sur le travail au noir et la loi fédérale sur les travailleurs détachés;
+- b) sont à jour avec le décompte auprès des caisses sociales fédérales et cantonales obligatoires;
+- c) ne font pas l’objet de poursuites pour des montants dus en lien avec des salaires ou cotisations impayés;
+- d) n’ont pas fait, elles-mêmes ou l’un de ses organes, l’objet d’une condamnation, d’une sanction, en lien avec la LDét ou en matière d’annonce et d’autorisation mentionnées dans la LTN, prononcée par une autorité pour une infraction ou une violation de la loi commise dans les 5 ans précédant le dépôt de la demande d’octroi du moyen de contrôle;
+- e) n’ont pas fait elles-mêmes l'objet d’une décision d’exclusion des marchés publics toujours en force prononcée pour non-respect de l'article 44 alinéa 2 lettre f ou g AIMP.
+
+<sup>3</sup> Ce n’est que lorsque les conditions visées à l'alinéa précédent sont cumulativement remplies que le moyen de contrôle individuel peut être délivré aux travailleurs. Le respect de ces conditions est vérifié à échéances régulières et tout non-respect à l’une des conditions peut constituer un motif de retrait.
+
+<sup>4</sup> Tout travailleur est tenu de présenter le moyen de contrôle individuel sur demande d’une personne autorisée, notamment des inspecteurs agissant au nom de l’Etat, des contrôleurs agissant pour les commissions professionnelles paritaires (ci-après: CPP), du maître d’œuvre et, en cas de sous-traitance, de l’entrepreneur contractant.
+
+- a) …
+- b) …
+- c) …
+
+<sup>5</sup> L’Etat s’assure que le moyen de contrôle individuel informatisé réponde aux exigences de sécurité de l’information. A ce titre, les données y afférentes sont hébergées en Suisse sous la responsabilité de l’Administration cantonale valaisanne qui en assure le traitement.
+
+<sup>6</sup> Les dispositions cantonales en matière de protection des données, de conservation des données et d’archivage demeurent réservées.
+
+<sup>7</sup> …
+
+<sup>8</sup> …
+
+<sup>9</sup> …
+
+#### Art. 4b
+
+**Compétences relatives au moyen de contrôle individuel informatisé**
+
+<sup>1</sup> Le Conseil d’Etat s’assure du bon fonctionnement du moyen de contrôle individuel informatisé. A ce titre, il délègue au Département la signature de conventions prévoyant le financement du système. Demeurent réservés les frais de tiers.
+
+<sup>2</sup> Le Département, par le Service:
+
+- a) est autorisé à collecter auprès de la CPP, des organismes et services de l’Etat et de la Confédération concernés et traiter les données des entreprises identifiées au travers de leur numéro IDE. Le cas échéant, l’entreprise fournit les données au format adéquat;
+- b) est autorisé à collecter auprès de la CPP, des organismes et services de l’Etat et de la Confédération concernés et traiter les données des travailleurs identifiés au travers du numéro AVS ou du numéro Symic (système d'information central sur la migration). Le cas échéant, l’entreprise fournit les données au format adéquat;
+- c) est autorisé à transmettre à tout éditeur de moyens de contrôle individuel habilité à utiliser le numéro AVS de manière systématique, la synthèse des données collectées et traitées de travailleurs, identifiés au travers de leur numéro AVS, ainsi que des entreprises;
+- d) prend toutes les décisions en lien avec les procédures d'octroi, de suspension et de retrait du moyen de contrôle individuel;
+- e) s’assure initialement, puis à échéances régulières, en collaboration avec la CPP, les organismes et les services de l’Etat et de la Confédération concernés, que les entreprises requérantes, ainsi que leurs travailleurs, respectent les conditions prévues à l’article 4a alinéa 2 de la présente loi. Le cas échéant, l’entreprise fournit les données au format adéquat;
+- f) s'assure de l’actualité et de la véracité des données;
+- g) tient à jour une liste publique des entités IDE bénéficiaires et la met à disposition de manière permanente sur internet;
+- h) peut percevoir une taxe annuelle pour les contrôles périodiques et la tenue à jour des données des entités IDE bénéficiaires.
+
+<sup>3</sup> Les CPP, les organismes et services de l'Etat et de la Confédération concernés sont tenus de transmettre au Service, sans frais ni émolument, les informations nécessaires au contrôle des entreprises bénéficiaires ou souhaitant bénéficier du moyen de contrôle individuel informatisé.
+
+<sup>4</sup> Les CPP ou le Service:
+
+- a) sont chargés de délivrer le moyen de contrôle individuel;
+- b) sont responsables de tenir à jour en permanence la liste des entités IDE bénéficiaires pour chaque secteur professionnel considéré, ainsi que la liste nominative des travailleurs concernés;
+- c) peuvent percevoir un émolument pour la délivrance du moyen de contrôle individuel;
+- d) peuvent déléguer ces tâches à un organisme agréé désigné par eux-mêmes.
+
+<sup>5</sup> Sont réglés par voie d’ordonnance:
+
+- a) les secteurs et professions concernés prévus à l'article 4a alinéa 1;
+- b) la procédure d’octroi du moyen de contrôle individuel;
+- c) la procédure de suspension du moyen de contrôle individuel, de son retrait et leurs conséquences;
+- d) les données de contrôle ainsi gérées et leurs détails techniques (modèle de données);
+- e) les conditions et la procédure auxquelles l’accès, l’enregistrement et la transmission des données sont autorisés par l’Etat, les CPP et les organismes concernés;
+- f) les outils permettant les contrôles sur le terrain;
+- g) la liste et les compétences des personnes autorisées au sens de l’article 4a alinéa 4 de la présente loi;
+- h) les modalités de tenue de la liste publique des entreprises bénéficiaires;
+- i) la liste des organismes agréés au sens de l’alinéa 4 lettre d (ainsi que les conditions de délégation);
+- j) le montant des émoluments et taxes prévus aux alinéas 2 et 4.
+
+#### Art. 4c
+
+**Partenariat relatif au moyen de contrôle individuel informatisé**
+
+<sup>1</sup> L’Etat, les associations de CPP et les CPP à titre individuel (ci-après: les membres) créent une association au sens des articles 60 et suivants du Code civil suisse en vue de la mise à disposition et de l'évolution de l’outil informatique permettant l’exploitation du moyen de contrôle individuel.
+
+<sup>2</sup> Dite association est dépositaire des droits de gestion et d’évolution sur l’outil informatique mis à disposition par l’Etat du Valais et en assume le pilotage et la maintenance.
+
+<sup>3</sup> Les membres définissent dans les statuts l’organisation et le fonctionnement de l’association ainsi que son mode de financement. Les statuts sont soumis à l'approbation du Conseil d’Etat.
 
 #### Art. 5
 
 **Organe d'observation du marché du travail**
 
-De manière générale, la Commission délègue ses compétences d'analyse, notamment économétrique, de données en matière d'observation du marché du travail, au Service de l'industrie, du commerce et du travail, qui assume ces tâches par l'Observatoire valaisan de l'emploi.
+<sup>1</sup> De manière générale, la Commission délègue ses compétences d'analyse, notamment économétrique, de données en matière d'observation du marché du travail, au Service de l'industrie, du commerce et du travail, qui assume ces tâches par l'Observatoire valaisan de l'emploi.
 
 #### Art. 6
 
 **Organes paritaires**
 
-<sup>1</sup> Les commissions professionnelles paritaires sont compétentes pour l'exécution des tâches qui leur sont expressément dévolues par la législation fédérale.
+<sup>1</sup> Les commissions professionnelles paritaires sont compétentes pour l'exécution des tâches qui leur sont expressément dévolues par la loi fédérale sur les travailleurs détachés et par les dispositions étendues des conventions collectives de travail.
 
-<sup>2</sup> Le Conseil d'Etat ou, par voie de délégation, le Département règle les modalités de la collaboration entre le Service et les commissions professionnelles paritaires.
+<sup>2</sup> Dans ces domaines, elles sont autorisées à enregistrer des informations relatives à des demandes de contrôle, notamment par le biais de supports informatiques, et à photographier avec des moyens usuels l’activité déployée sur le lieu de travail et les documents d'identité des personnes contrôlées, dans le respect des principes de finalité et de proportionnalité.
 
-### Section 2: Collaboration
+<sup>3</sup> Ces données peuvent être conservées sur un support informatique pour une durée maximale de 5 ans à partir du jour du contrôle, ou jusqu’au moment où l’exécution d’une sanction arrive à son terme, puis sont détruites. Seuls les contrôleurs des commissions professionnelles paritaires et les membres de ces dernières en charge de leur traitement y ont accès, sous réserve de l’alinéa 4. Ils sont tenus de manière générale et illimitée dans le temps, envers tous les tiers non concernés, au secret professionnel et à l'obligation de confidentialité en ce qui concerne toutes les informations, données et résultats d'enquête obtenus dans le cadre du contrôle ou d'un autre contexte.
+
+<sup>4</sup> Les commissions professionnelles paritaires, ou toute entité désignée par elles, sont tenues de transmettre sans délai:
+
+- a) au Service et à la Caisse nationale suisse d’assurance en cas d’accidents les informations émanant de tiers qui relèvent des compétences exclusives de ces organes d’exécution;
+- b) au Service un rapport circonstancié sur les contrôles effectués, accompagné des pièces justificatives utiles, afin qu'il puisse, le cas échéant, prononcer les mesures et sanctions administratives adéquates.
+
+<sup>5</sup> Le Conseil d'Etat ou, par voie de délégation, le Département règle les modalités de la collaboration entre le Service et les commissions professionnelles paritaires et les entités désignées par elle.
+
+#### Art. 6a
+
+**Protection des données**
+
+<sup>1</sup> Quel que soit le domaine dans lequel ils sont appelés à intervenir, tous les organes de contrôle impliqués dans la mise en œuvre de la présente loi doivent traiter de manière absolument confidentielle la source de toute information leur signalant une infraction présumée et devront s'abstenir d’en révéler la provenance aux personnes contrôlées.
+
+<sup>2</sup> Le Conseil d'Etat règle les exigences en matière de transmission aux autorités pénales, de conservation et de destruction du matériel recueilli.
+
+<sup>3</sup> Les organes paritaires sont, pour le surplus, soumis aux dispositions de la loi fédérale sur la protection des données, le Service étant lui soumis à celles de la loi cantonale sur l’information du public, la protection des données et l’archivage, ainsi qu’aux articles 7 et 17 LTN.
+
+### 1.2 Collaboration
 
 #### Art. 7
 
@@ -142,7 +235,7 @@ De manière générale, la Commission délègue ses compétences d'analyse, nota
 
 **Autres collaborations**
 
-Les organes de contrôle collaborent avec les autorités fédérales, cantonales et communales compétentes, notamment celles en matière d'inspection du travail, de marché du travail et d'assurance-chômage, d'emploi, de police, d'asile, de police des étrangers, d'état-civil et en matière fiscale, ainsi qu'avec les autorités fédérales et cantonales et les organisations privées chargées de l'exécution de la législation relative aux assurances.
+<sup>1</sup> Les organes de contrôle collaborent avec les autorités fédérales, cantonales et communales compétentes, notamment celles en matière d'inspection du travail, de marché du travail et d'assurance-chômage, d'emploi, de police, d'asile, de police des étrangers, d'état-civil et en matière fiscale, ainsi qu'avec les autorités fédérales et cantonales et les organisations privées chargées de l'exécution de la législation relative aux assurances.
 
 #### Art. 9
 
@@ -156,9 +249,7 @@ Les organes de contrôle collaborent avec les autorités fédérales, cantonales
 
 <sup>4</sup> Le refus d'obtempérer est passible de la sanction prévue par le droit fédéral.
 
-### Chapitre 2: Mesures d'accompagnement aux Accords bilatéraux
-
-relatifs à la libre circulation des personnes
+## 2 Mesures d'accompagnement aux Accords bilatéraux relatifs à la libre circulation des personnes
 
 #### Art. 10
 
@@ -171,11 +262,8 @@ relatifs à la libre circulation des personnes
 <sup>3</sup> Le Service de l'industrie, du commerce et du travail, par les soins de l'Observatoire valaisan de l'emploi, a en particulier pour mission:
 
 - a) sur mandat de la Commission, de réaliser les enquêtes relatives aux conditions de salaire prévalant dans les différents secteurs économiques ou branches professionnelles;
-
 - b) d'assurer la coordination et l'échange régulier des différentes sources d'information disponibles dans les domaines observés;
-
 - c) de livrer les informations nécessaires à l'élaboration, par la Commission, des propositions d'adoption, de modification ou d'abrogation de contrats-types de travail comprenant des salaires minimaux obligatoires;
-
 - d) de présenter régulièrement le résultat de ses travaux à la Commission.
 
 #### Art. 11
@@ -200,23 +288,103 @@ relatifs à la libre circulation des personnes
 
 <sup>5</sup> Le Service transmet à l'autorité fédérale compétente tout contrat-type édicté en application de l'article 360a CO.
 
-### Chapitre 3: Lutte contre le travail au noir
+## 3 Lutte contre le travail au noir
 
 #### Art. 13
 
 **Objet du contrôle**
 
-Le contrôle en matière de lutte contre le travail au noir vise notamment à détecter et à sanctionner:
+<sup>1</sup> Le contrôle en matière de lutte contre le travail au noir vise notamment à détecter et à sanctionner:
 
 - a) l'occupation de travailleurs non déclarés aux assurances sociales obligatoires;
-
 - b) l'exécution non déclarée de travaux par des travailleurs percevant des prestations de l'assurance-chômage, d'une autre assurance sociale ou de l'aide sociale;
-
 - c) l'indépendance fictive;
-
 - d) l'occupation de travailleurs étrangers en infraction aux dispositions du droit des étrangers;
+- e) l’emploi de travailleurs soumis à l’impôt à la source non annoncés aux autorités fiscales;
+- f) les travaux exécutés par un indépendant qui ne déclare pas aux autorités fiscales tout ou partie de son salaire, respectivement de son revenu.
 
-- e) la non-déclaration aux autorités fiscales des salaires versés aux travailleurs soumis à l'impôt à la source.
+#### Art. 13a
+
+**Demandes de contrôle**
+
+<sup>1</sup> L’Inspection de l’emploi est autorisée à collecter des informations émanant de tiers en lien avec des soupçons de travail au noir, notamment par le biais d’une permanence téléphonique ou de supports informatiques.
+
+<sup>2</sup> Ces informations sont enregistrées dans une base de données informatique accessible exclusivement au personnel dédié au traitement de ces données et à sa hiérarchie, l’alinéa 4 demeurant réservé.
+
+<sup>3</sup> Le choix d’ouvrir ou non une enquête, suite à une information, est fondé sur les principes de finalité et de proportionnalité.
+
+<sup>4</sup> L’Inspection de l’emploi est autorisée à échanger avec les autorités et institutions compétentes les informations relatives à des infractions présumées qui les concernent directement, au sens de la législation fédérale et de l’article 21 alinéa 5 de la loi sur le personnel de l'Etat du Valais.
+
+#### Art. 13b
+
+**Processus d'enquête et contrôle**
+
+<sup>1</sup> En sus des attributions définies à l’article 7 LTN, lorsque des indices laissent présumer l’existence d’infractions, les inspecteurs de l’emploi sont autorisés à:
+
+- a) procéder à des enquêtes préliminaires auprès des institutions d’assurances et des services concernés, afin de connaître la situation d’un employeur ou d’une personne;
+- b) mener des enquêtes préalables visant à localiser un lieu de travail présumé et à identifier la nature des activités déployées et le nombre de personnes concernées;
+- c) observer à son insu une personne ou une entreprise spécifique aux conditions définies à l’article 13c de la présente loi;
+- d) lors d’un contrôle sur place, photographier avec des moyens usuels l’activité déployée sur le lieu de travail et les documents d’identité des personnes présentes;
+- e) procéder à l’audition des employeurs et des personnes faisant l’objet du contrôle ou concernées par la situation examinée;
+- f) requérir des employeurs et des personnes contrôlées, la transmission des pièces nécessaires à l’administration des preuves.
+
+#### Art. 13c
+
+**Enquêtes préliminaires et observations**
+
+<sup>1</sup> Les inspecteurs de l’emploi sont autorisés, sur la base d’une décision d’ouverture d’enquête prise par le Chef de l’Inspection de l’emploi ou son remplaçant, sur la base du résultat des enquêtes préliminaire et préalable, à observer à son insu une personne ou une entreprise déterminée soupçonnée d’agir en infraction au sens de la LTN et de l’article 13 de la présente loi, aux conditions cumulatives suivantes:
+
+- a) l’Inspection de l’emploi dispose d’indices concrets laissant présumer que la personne en question exerce une activité au noir ou que l’entreprise considérée emploie des travailleurs au noir;
+- b) sans mesure d’observation, les mesures d’instruction n’auraient aucune chance d’aboutir ou seraient excessivement difficiles.
+
+<sup>2</sup> S’il s’agit d’un assuré qui perçoit ou tente de percevoir indûment une prestation, ils en informent la ou les institutions concernées. La mise en œuvre des articles 43a et 43b LPGA est réservée.
+
+<sup>3</sup> La personne ou l’entreprise observée ne peut faire l’objet d’une collecte de données et/ou d’un enregistrement visuel qu'aux conditions cumulatives suivantes:
+
+- a) ces derniers portent exclusivement sur une ou plusieurs situations définies à l’article 13 de la présente loi;
+- b) la personne ou l’entreprise soupçonnée se trouve dans un lieu librement accessible ou un établissement public, ou encore dans un lieu visible depuis un lieu librement accessible.
+
+<sup>4</sup> Les inspecteurs de l’emploi ne doivent pas influencer le comportement des personnes sur lesquelles ils enquêtent.
+
+<sup>5</sup> Une observation peut avoir lieu sur 30 jours civils consécutifs ou isolés au maximum au cours d’une période de six mois consécutifs à compter du premier jour d’observation, dans le respect des principes de finalité et de proportionnalité. Ce délai peut être prolongé à titre exceptionnel, sur décision du Chef du Département dont dépend le Service, pour une durée identique, si des raisons valables le justifient.
+
+<sup>6</sup> Au plus tard lors de la clôture de l’enquête, l’Inspection de l’emploi communique à la personne qui a été observée les motifs, le mode et la durée de l'observation.
+
+<sup>7</sup> La communication est différée ou il y est renoncé aux conditions suivantes:
+
+- a) des intérêts publics ou privés prépondérants doivent être protégés de manière indispensable;
+- b) les informations recueillies ne sont pas utilisées à titre de preuves.
+
+<sup>8</sup> Lorsqu’il y est renoncé, les données recueillies sont immédiatement détruites.
+
+#### Art. 13d
+
+**Autorisation de recours à des instruments techniques de localisation**
+
+<sup>1</sup> Lorsque le Service envisage d’ordonner une mesure d’observation avec des instruments techniques de localisation, il adresse au Tribunal des mesures de contrainte une demande contenant:
+
+- a) l’indication du but spécifique de la mesure d’observation;
+- b) les données relatives aux entreprise ou aux personnes concernées par la mesure d’observation;
+- c) les modalités prévues de la mesure d’observation;
+- d) la justification de la nécessité du recours aux instruments techniques ainsi que les raisons pour lesquelles, sans le recours à ces instruments, les mesures d’instruction sont restées vaines, n’auraient aucune chance d’aboutir ou seraient excessivement difficiles;
+- e) l’indication du début et de la fin de la mesure d’observation et le délai dans lequel elle doit être mise en œuvre;
+- f) les pièces essentielles au traitement de la demande.
+
+<sup>2</sup> Le juge statue dans les 5 jours ouvrables à compter de la réception de la demande du Service en indiquant brièvement les motifs; il peut confier cette tâche à un autre juge.
+
+<sup>3</sup> Il peut autoriser l’observation à titre provisoire, assortir l’autorisation de conditions ou encore demander que le dossier soit complété ou que d’autres éclaircissements soient apportés.
+
+#### Art. 13e
+
+**Auditions des personnes et entreprises contrôlées**
+
+<sup>1</sup> Suite à un contrôle sur le lieu de travail et/ou à une enquête préliminaire et/ou préalable, lorsque des éléments recueillis permettent d’objectiver des infractions présumées, les inspecteurs de l’emploi peuvent convoquer aux fins d'audition la ou les personnes concernées.
+
+<sup>2</sup> Lors de son audition, la personne suspectée de travailler au noir ou d’employer un ou plusieurs travailleurs au noir est informée du motif et des soupçons d’infractions la concernant.
+
+<sup>3</sup> A l’issue de son audition, la personne entendue signe le procès-verbal d’audition et en reçoit une copie.
+
+<sup>4</sup> La personne convoquée à une audition qui, sans motif valable, ne s’y présente pas, peut faire l’objet d’une sanction pour violation de l’obligation de collaborer, au sens de l’article 18 LTN.
 
 #### Art. 14
 
@@ -226,18 +394,16 @@ Le contrôle en matière de lutte contre le travail au noir vise notamment à d�
 
 <sup>2</sup> Le Service est légitimé à recevoir et à transmettre aux autorités et services compétents les données nécessaires à la mise en oeuvre de l'article 13 LTN.
 
-### Chapitre 4: Sanctions et mesures administratives
+## 4 Sanctions et mesures administratives
 
 #### Art. 15
 
 **Amendes et exclusion**
 
-<sup>1</sup> En tant qu'organe cantonal de contrôle, le Service:
+<sup>1</sup> En tant qu'organe cantonal de contrôle et de sanction, le Service:
 
 - a) prononce les sanctions prévues par la LDét et la LTN;
-
 - b) peut, en cas d'infractions plus graves ou en cas de non-paiement des amendes entrées en force à la suite d'infractions à la LDét, interdire à l'employeur étranger concerné d'offrir ses services en Suisse pour une période définie;
-
 - c) met les frais de contrôle à la charge de l'employeur, respectivement de l'indépendant contrevenant.
 
 <sup>2</sup> En cas de violation manifeste des dispositions relatives à l'annonce de travailleurs détachés découlant de la LDét ou de travailleurs indépendants découlant de l'ordonnance fédérale sur l'introduction de la libre circulation des personnes, l'Inspection de l'emploi encaisse une garantie destinée à couvrir le montant présumé de l'amende et des frais de contrôle.
@@ -245,6 +411,31 @@ Le contrôle en matière de lutte contre le travail au noir vise notamment à d�
 <sup>3</sup> Sous réserve des dispositions fédérales, les dispositions du chapitre 7 de la loi cantonale sur le travail sont applicables pour le surplus.
 
 <sup>4</sup> En cas de non-paiement d'une amende fondée sur la LTN, le Service peut requérir de l'autorité compétente sa conversion en une peine privative de liberté de substitution.
+
+#### Art. 15a
+
+**Suspension des travaux**
+
+<sup>1</sup> En cas de contrôle en application de la législation fédérale sur le travail au noir, si la personne ou l'entreprise s’oppose au contrôle ou refuse de collaborer à l'établissement des faits, le Service peut ordonner la suspension immédiate de l'activité déployée par cette personne ou cette entreprise sur le lieu de travail considéré.
+
+<sup>2</sup> Lors de contrôles effectués dans le cadre d’un marché public, le Service informe sans délai l’adjudicateur afin qu’il suspende sans délai les travaux qu’une entreprise réalise sur le chantier en question, en particulier lorsque:
+
+- a) l’entreprise emploie un ou plusieurs travailleurs étrangers dépourvus d’une autorisation de travail en Suisse ou refuse de faire connaître l’identité de travailleurs qui se sont enfuis lors du contrôle;
+- b) l’Inspection de l’emploi ne peut établir que l’entreprise ou l’indépendant est affilié aux assurances sociales obligatoires ou surobligatoires au sens des dispositions étendues des conventions collectives de travail;
+- c) il est établi que l’entreprise prélève les cotisations d’assurances sociales et l’impôt à la source sur les salaires de ses employés, mais ne les reverse pas aux institutions concernées;
+- d) l’entreprise ou l’indépendant n’est pas annoncé en qualité de sous-traitant ou œuvre en tant que sous-traitant d’un sous-traitant.
+
+<sup>3</sup> S’il estime que les conditions prévues aux alinéas 1 ou 2 sont remplies, le Service (al. 1), respectivement l'adjudicateur (al. 2) rend sans délai une décision de suspension de l’activité de l’entreprise ou de l’indépendant sur le lieu de travail considéré. Dans sa décision, il avise l’entreprise ou l’indépendant que la mesure de contrainte pourra être levée lorsqu’il aura pu constater que les causes ayant justifié la suspension de l’activité ont disparu. La levée de la suspension fait également l’objet d’une décision du Service, respectivement de l'adjudicateur.
+
+<sup>4</sup> En cas de suspension, le Service, respectivement l'adjudicateur communique sa décision au maître d'ouvrage et au maître d’œuvre.
+
+<sup>5</sup> Les autorités compétentes, notamment les polices cantonale et communales, peuvent être appelées à collaborer à l’application des mesures de contrainte administrative.
+
+<sup>6</sup> La décision de suspension peut faire l’objet d’un recours auprès du Tribunal cantonal dans un délai de 10 jours. Celui-ci n’a pas effet suspensif. Les mesures et sanctions administratives peuvent être cumulées.
+
+<sup>7</sup> En cas de non-respect de la décision du Service, respectivement de l'adjudicateur, le responsable de l’entreprise ou l’indépendant concerné peut faire l’objet d’une dénonciation pénale.
+
+<sup>8</sup> Le Conseil d’Etat définit par voie d’ordonnance les modalités de mise en œuvre de la présente disposition.
 
 #### Art. 16
 
@@ -276,7 +467,7 @@ Le contrôle en matière de lutte contre le travail au noir vise notamment à d�
 
 <sup>3</sup> Les actions en constatation de droit susmentionnées relèvent du Tribunal du travail, la procédure applicable étant le Code de procédure civile et la loi cantonale sur le travail.
 
-### Chapitre 5: Financement
+## 5 Financement
 
 #### Art. 19
 
@@ -298,19 +489,19 @@ Le contrôle en matière de lutte contre le travail au noir vise notamment à d�
 
 <sup>3</sup> Demeure réservé l'article 19 alinéa 3 de la présente loi.
 
-### Chapitre 6: Dispositions transitoires et finales
+## 6 Dispositions transitoires et finales
 
 #### Art. 21
 
 **Dispositions d'exécution et transitoires**
 
-Le Conseil d'Etat édicte les dispositions nécessaires à l'application de la présente loi.
+<sup>1</sup> Le Conseil d'Etat édicte les dispositions nécessaires à l'application de la présente loi.
 
 #### Art. 22
 
 **Abrogation**
 
-La loi d'application de la loi fédérale sur les conditions minimales de travail et de salaire applicables aux travailleurs détachés en Suisse et sur les mesures d'accompagnement (Ldét) et de la loi fédérale concernant les mesures en matière de lutte contre le travail au noir (LTN) (RS/VS 823.1) est abrogée.
+<sup>1</sup> La loi d'application de la loi fédérale sur les conditions minimales de travail et de salaire applicables aux travailleurs détachés en Suisse et sur les mesures d'accompagnement (Ldét) et de la loi fédérale concernant les mesures en matière de lutte contre le travail au noir (LTN) est abrogée.
 
 #### Art. 23
 
@@ -320,16 +511,4 @@ La loi d'application de la loi fédérale sur les conditions minimales de travai
 
 <sup>2</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi.
 
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 12 mai 2016.
-
-Le président du Grand conseil: Nicolas Voide Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Loi d'application de la loi fédérale sur les BO No 23/2016; BO 01.10.2016 travailleurs détachés et de la loi fédérale sur le travail au noir (LALDétLTN) du 12 mai
-
-**No 39/2016**
-
-### 2016
+RCV BO/Abl. 23/2016, 39/2016
