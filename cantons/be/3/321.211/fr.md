@@ -1,16 +1,15 @@
 ---
 canton: BE
 number: "321.211"
-title: "Ordonnance sur les exceptions à l'obligation de détruire les données de la police"
+title: "Ordonnance sur les exceptions à l'obligation de détruire les données de la police *"
 short: "Ordonnance sur la destruction des données, ODestD"
 language: fr
-version: 2011-01-01
-valid_until: 2023-02-28
-version_adopted: 2010-10-27
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1998-08-05
 in_force: 1998-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/321.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/258/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2791/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/258/pdf_file"
 
 (Ordonnance sur la destruction des données, ODestD)
 
-du 05.08.1998 (état au 01.01.2011)
+du 05.08.1998 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 

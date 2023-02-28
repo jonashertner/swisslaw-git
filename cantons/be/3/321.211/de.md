@@ -2,24 +2,23 @@
 canton: BE
 number: "321.211"
 title: Verordnung über die Ausnahmen von der Pflicht zur Vernichtung polizeilicher Daten
-short: "Datenvernichtungsverordnung, DVV"
+short: "Datenvernichtungsverordnung, PDVV"
 language: de
-version: 2011-01-01
-valid_until: 2023-02-28
-version_adopted: 2010-10-27
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1998-08-05
 in_force: 1998-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/321.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/258/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2791/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Ausnahmen von der Pflicht zur Vernichtung polizeilicher Daten
 
-(Datenvernichtungsverordnung, DVV)
+(Datenvernichtungsverordnung, PDVV)
 
-vom 05.08.1998 (Stand 01.01.2011)
+vom 05.08.1998 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
