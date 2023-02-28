@@ -4,13 +4,12 @@ number: "122.1"
 title: Gesetz über die Ausübung der politischen Rechte
 short: "Abstimmungsgesetz, AG"
 language: de
-version: 2018-01-01
-valid_until: 2023-02-28
-version_adopted: 2017-06-30
+version: 2023-03-01
+version_adopted: 2022-12-01
 adopted: 1974-02-17
 in_force: 1978-03-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/122.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1647/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1781/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1647/pdf_file"
 
 (Abstimmungsgesetz, AG)
 
-vom 17.02.1974 (Stand 01.01.2018)
+vom 17.02.1974 (Stand 01.03.2023)
 
 Das Volk des Kantons Obwalden erlässt,
 
@@ -787,7 +786,7 @@ als Gesetz:
 
 <sup>5</sup> Hat eine stimmberechtigte Person mehrmals unterschrieben, so wird nur eine Unterschrift bescheinigt.
 
-<sup>6</sup> Die Unterschriftenlisten sind vertraulich zu behandeln.
+<sup>6</sup> Die Unterschriftenlisten sind vertraulich zu behandeln und unterliegen nicht dem Gesetz über das Öffentlichkeitsprinzip.
 
 #### Art. 53h
 
@@ -980,6 +979,8 @@ geändert durch:
 
 \- Gesetz über die Anpassungen im Anschluss an die Evaluation der Justizreform (Rechtspflegebehörden) vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 54 und 2015, 6),
 
-\- Nachtrag vom 30. Juni 2017, Botschaft und Vorlage des Regierungsrats vom 4. April 2017, Kantonsratssitzungen vom 31. Mai und 30. Juni 2017 (22.17.02), von der Bundeskanzlei genehmigt am 15. August 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 42 und 56)
+\- Nachtrag vom 30. Juni 2017, Botschaft und Vorlage des Regierungsrats vom 4. April 2017, Kantonsratssitzungen vom 31. Mai und 30. Juni 2017 (22.17.02), von der Bundeskanzlei genehmigt am 15. August 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 42 und 56),
+
+\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1)
 
 OGS 1976, 4
