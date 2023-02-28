@@ -1,30 +1,30 @@
 ---
 canton: VS
 number: "916.500"
-title: Beschluss über die Sömmerung 2022
+title: Beschluss über die Sömmerung 2023
 language: de
-version: 2022-03-01
-valid_until: 2023-02-28
-version_adopted: 2022-03-09
+version: 2023-03-01
+valid_until: 2024-02-29
+version_adopted: 2023-03-14
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/de/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/de/versions/3016/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3200/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über die Sömmerung 2022
+# Beschluss über die Sömmerung 2023
 
-vom 09.03.2022 (Stand 01.03.2022)
+vom 14.03.2023 (Stand 01.03.2023)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Bundesgesetz über Lebensmittel und Gebrauchsgegenstände vom 9. Oktober 1992 (Lebensmittelgesetz, LMG);
+eingesehen das Bundesgesetz über Lebensmittel und Gebrauchsgegenstände vom 20. Juni 2014 (Lebensmittelgesetz, LMG);
 
 eingesehen das Bundesgesetz über den Schutz der Gewässer vom 24. Januar 1991 (Gewässerschutzgesetz, GSchG);
 
-eingesehen den Artikel 32 Absatz 1 der Verordnung zum Bundesgesetz über die Bekämpfung von Tierseuchen vom 27. Juni 1995 (TSV);
+eingesehen den Artikel 32 Absatz 1 der eidgenössischen Tierseuchenverordnung vom 27. Juni 1995 (TSV);
 
 eingesehen die Artikel 69, 77, 78 und 101 der eidgenössischen Tierschutzverordnung vom 23. April 2008 (TSchV);
 
@@ -57,7 +57,7 @@ beschliesst:
 
 <sup>6</sup> Werden Medikamente auf Vorrat bezogen, muss mit dem Tierarzt eine Tierarzneimittelvereinbarung abgeschlossen werden. Wird eine Tierarzneimittelvereinbarung abgeschlossen, muss der Tierarzt im Sömmerungsbetrieb während der Sömmerungsperiode mindestens einen Betriebsbesuch durchführen (Art. 10 Anhang 1 TAMV). Bei Medikamenten, die auf Vorrat bezogen oder zurückgegeben werden, müssen folgende Aufzeichnungen in einer Inventarliste vorgenommen werden:
 
-- a) das Datum;
+- a) das Datum der Übergabe;
 - b) der Handelsname;
 - c) die Menge in Konfektionseinheiten;
 - d) die Bezugsquelle, resp. die Person, welche die Arzneimittel zurücknimmt.
@@ -126,13 +126,13 @@ beschliesst:
 
 **Melden von Zugängen von Equiden an die TVD**
 
-<sup>1</sup> Die Eigentümer von Equiden (Pferde, Esel, Maultiere, Maulesel und Ponys) müssen das Verstellen ihrer Tiere auf Sömmerungsbetriebe der TVD über das Portal www.agate.ch melden, sofern die Tiere länger als 30 Tage auf dem Sömmerungsbetrieb bleiben. Bei Fragen hilft der Agate-Helpdesk unter info@agatehelpdesk.ch oder Tel. 0848 222 400 weiter.
+<sup>1</sup> Die Eigentümer von Equiden (Pferde, Esel, Maultiere, Maulesel und Ponys) müssen das Verstellen ihrer Tiere auf Sömmerungsbetriebe der TVD über das Portal www.agate.ch melden, sofern die Tiere länger als 30 Tage auf dem Sömmerungsbetrieb bleiben. Bei Fragen hilft der Agate-Helpdesk unter info@agatehelpdesk.ch oder unter Tel. 0848 222 400 weiter.
 
 #### Art. 9
 
 **Melden von Adressänderungen an die Hundedatenbank**
 
-<sup>1</sup> Die Halter von Hunden tragen für die Dauer des Alpaufenthaltes in der Hundedatenbank Amicus (www.amicus.ch) die Adresse der Alpe ein. Dafür vorgesehen ist ein Feld, in welchem temporäre Adressen eingetragen werden können. Bei Fragen hilft der Helpdesk von Amicus weiter Tel. 0848 777 100.
+<sup>1</sup> Die Halter von Hunden tragen für die Dauer des Alpaufenthaltes in der Hundedatenbank Amicus (www.amicus.ch) die Adresse der Alpe ein. Dafür vorgesehen ist ein Feld, in welchem temporäre Adressen eingetragen werden können. Bei Fragen hilft der Helpdesk von Amicus weiter unter Tel. 0848 777 100.
 
 ## 3 Sömmerungsvorschriften für den Grenzweidegang
 
@@ -186,7 +186,7 @@ beschliesst:
 <sup>4</sup> Vor der Rückkehr muss innerhalb von 48 Stunden vor der Abreise durch den amtlichen Tierarzt des Sömmerungsbetriebes eine Gesundheitsbescheinigung ausgestellt werden. Für Tiere der Rindergattung ist dafür das in TRACES abgebildete Sömmerungszeugnis zu verwenden. Die Einforderung des entsprechenden Zeugnisses obliegt dem Schweizerischen Tierhalter. Er ist dafür verantwortlich, die ausländischen Veterinärdienste rechtzeitig über die geplante Rückkehr zu informieren. Die Gesundheitsbescheinigung für die vom Grenzweidegang zurückkehrenden Rinder beinhaltet:
 
 - a) Datum des Abtransportes;
-- b) Anzahl der Rinder und Kennzeichnung (Ohrmarke);
+- b) Anzahl der Rinder und Kennzeichnung (Nummer der Ohrmarke);
 - c) Anschrift des Bestimmungsbetriebes;
 - d) Zulassungsnummer des Transportunternehmens (bei Transportstrecken über 50km);
 - e) Bestätigung des Amtstierarztes, die Rinder innerhalb von 48 Stunden vor der Rückkehr in den Heimatbetrieb untersucht und frei von Anzeichen einer Infektionskrankheit befunden zu haben;
@@ -202,7 +202,7 @@ beschliesst:
 
 <sup>1</sup> Die von der ausländischen Behörde ausgestellte Gesundheitsbescheinigung ist unmittelbar nach der Rückkehr der Tiere zu kontrollieren. Die Art und Weise dieser Kontrolle wird durch das kantonale Veterinäramt festgelegt.
 
-<sup>2</sup> Im gegenseitigen Einverständnis können Grenzkantone mit den Veterinärbehörden des Nachbarlandes Vereinfachungen des Verfahrens vereinbaren. Dies betrifft insbesondere den Ort der amtstierärztlichen Untersuchung im Herkunfts- sowie im Bestimmungsland (evt. Untersuchung in Sammelstellen anstatt auf dem Herkunftsbetrieb).
+<sup>2</sup> Im gegenseitigen Einverständnis können Grenzkantone mit den Veterinärbehörden des Nachbarlandes Vereinfachungen des Verfahrens vereinbaren. Dies betrifft insbesondere den Ort der amtstierärztlichen Untersuchung im Herkunfts- sowie im Bestimmungsland (evtl. Untersuchung in Sammelstellen anstatt auf dem Herkunftsbetrieb sowohl im Herkunfts- als auch im Bestimmungsland).
 
 <sup>3</sup> Der Tierhalter meldet den Zugang von Tieren der Rindergattung an die Tierverkehrsdatenbank.
 
@@ -222,7 +222,7 @@ beschliesst:
 
 **Bewilligung für den grenzüberschreitenden Transport**
 
-<sup>1</sup> Wirbeltiere dürfen nur von Transportunternehmen befördert werden, die über eine Bewilligung nach Artikel 170 der Tierschutzverordnung (TSchV) verfügen. Inhaltlich und formal sind neben den Schweizer Vorschriften sämtliche im Einzelfall anwendbaren Vorgaben der Verordnung EG 1/2005 einzuhalten. Keine Bewilligung ist nötig, wenn Landwirte ihre eigenen Tiere in eigenen Fahrzeugen über maximal 50 km transportieren.
+<sup>1</sup> Wirbeltiere dürfen nur von Transportunternehmen befördert werden, die über eine Bewilligung nach Artikel 170 der Tierschutzverordnung (TSchV) verfügen. Inhaltlich und formal sind neben den Schweizer Vorschriften sämtliche im Einzelfall anwendbaren Vorgaben der Verordnung EG 1/2005 einzuhalten. Keine Bewilligung ist nötig, wenn Landwirte ihre eigenen Tiere in eigenen Fahrzeugen über maximal 50 Kilometer transportieren.
 
 ## 4 Bestimmungen über die einzelnen Tiergattungen
 
@@ -246,7 +246,7 @@ beschliesst:
 
 <sup>2</sup> Tiere, welche Anzeichen von Verwerfen zeigen oder bereits verworfen haben, sind sofort von der Herde abzusondern. Die Tiere sind so lange von der Herde abgesondert zu halten, bis die tierärztliche Untersuchung abgeschlossen ist.
 
-<sup>3</sup> Vorhandenes Abortmaterial (Frucht, Nachgeburt) ist vom Alppersonal für eine Probenentnahme durch einen Tierarzt/eine Tierärztin zu suchen, sicherzustellen und aufzubewahren. Das Alppersonal hat alle unter den gegebenen Umständen zumutbaren Vorsichtsmassnahmen gegen eine Weiterverbreitung zu treffen,insbesondere die Frucht und die Nachgeburt nach deren Untersuchung vorschriftsgemäss zu entsorgen. Verunreinigte Gerätschaften sind nach jedem Gebrauch, das Tier sowie dessen Standplatz mehrmals gründlich zu reinigen.
+<sup>3</sup> Vorhandenes Abortmaterial (Frucht, Nachgeburt) ist vom Alppersonal für eine Probenentnahme durch einen Tierarzt/eine Tierärztin zu suchen, sicherzustellen und aufzubewahren. Das Alppersonal hat alle unter den gegebenen Umständen zumutbaren Vorsichtsmassnahmen gegen eine Weiterverbreitung zu treffen, insbesondere die Frucht und die Nachgeburt nach deren Untersuchung vorschriftsgemäss zu entsorgen. Verunreinigte Gerätschaften sind nach jedem Gebrauch, das Tier sowie dessen Standplatz mehrmals gründlich zu reinigen.
 
 #### Art. 19
 
@@ -306,15 +306,20 @@ beschliesst:
 
 <sup>1</sup> Gemäss Artikel 30 AGTSchG, gelten nur solche Hunde als Herdenschutzhunde, welche in einem mit der anerkannten Einrichtung abgeschlossenem Vertrag aufgeführt sind.
 
-<sup>2</sup> Herdenschutzhunde unterstehen ausschliesslich den Bestimmungen des Bundesrechts, d.h. insbesondere den Richtlinien des BAFUs.
+<sup>2</sup> Andere Nutzhunde nach Artikel 69 TSchV können für die Bewachung und den Schutz von Nutztieren eingesetzt werden, nachdem sie durch einen von der kantonalen Fachstelle für Herdenschutz organisierten Test nachgewiesen haben, dass ihr Verhalten keine objektive Bedrohung für die öffentliche Sicherheit darstellt und sie zum weitgehend selbstständigen Schutz von Tieren befähigt sind.
 
-<sup>3</sup> Der Hundehalter im Sinne der Tierschutzgesetzgebung ist die Person, welche den Anspruch hat, über ein Tier länger als vorübergehend zu verfügen. Personen, die während mehreren Wochen die Verantwortung für ein Tier haben, gelten als Tierhalter. Für die Herdenschutzhunde gilt während der Sömmerung der Verantwortliche der Alpe als Hundehalter.
+<sup>3</sup> Herdenschutzhunde, die nach Absatz 1 anerkannt sind, sind ausschliesslich den Bestimmungen des Bundesrechts unterstellt d.h. insbesondere den vom BAFU erlassenen Weisungen.
 
-<sup>4</sup> Die strategische Gruppe für Herdenschutz ist die zuständige kantonale Stelle, sie steht unter der Leitung des kantonalen Herdenschutzbeauftragten und besteht mindestens aus:
+<sup>4</sup> Der Hundehalter im Sinne der Tierschutzgesetzgebung ist die Person, welche den Anspruch hat über ein Tier länger als vorübergehend zu verfügen. Personen, die während mehreren Wochen die Verantwortung für ein Tier haben, gelten als Tierhalter. Für die Hunde im Sinne der Absätze 1 und 2 gilt während der Sömmerung der Verantwortliche der Alpe als Hundehalter.
 
-- a) dem kantonalen Herdenschutzbeauftragten (DLW, Amt für Landwirtschaftszentrum Visp);
-- b) einem Vertreter des Veterinäramtes (Dienststelle für Verbraucherschutz und Veterinärwesen, DVSV);
-- c) einem Vertreter der Dienstelle für Jagd, Fischerei und Wildtiere (DJFW).
+<sup>5</sup> Die kantonale Kommission für Herdenschutzhunde ist das zuständige kantonale Organ für die nach Absatz 1 anerkannten Herdenschutzhunde, sie steht unter der Leitung des kantonalen Herdenschutzbeauftragten und besteht mindestens aus:
+
+- a) dem kantonalen Herdenschutzbeauftragten (DLW, Landwirtschaftszentrum Visp);
+- b) einem Vertreter des Veterinäramtes (Vetamt, Dienststelle für Verbraucherschutz und Veterinärwesen, DVSV);
+- c) einem Vertreter der Dienststelle für Jagd, Fischerei und Wildtiere (DJFW);
+- d) ein Vertreter der Vereinigung «Walliser Wanderwege» (Valrando).
+
+<sup>6</sup> Vorfälle, die durch geprüfte, im Sinne von Absatz 2, Nutzhunde verursacht werden, werden vom Vetamt nach Artikel 39 AGTSchG behandelt. In diesen Fällen ist der Halter nach Artikel 77 TSchV dafür verantwortlich, dass sein Hund weder Menschen noch Tiere gefährdet.
 
 #### Art. 24
 
@@ -330,13 +335,13 @@ beschliesst:
 
 #### Art. 25
 
-**Massnahmen bei Fällen von Aggressivität, bei verdächtigem oder unangemessenem Verhalten**
+**Massnahmen bei Fällen von Aggressivität, bei verdächtigem oder unangemessenem Verhalten eines anerkannten Herdenschutzhundes im Sinne von Absatz 1**
 
 <sup>1</sup> Wird ein Vorfall oder ein unangemessenens Verhalten gegenüber Menschen oder Tieren gemeldet, so trifft die zuständige Stelle nach der Beurteilung der Situation geeignete Massnahmen.
 
 <sup>2</sup> Sie kann in folgenden Situationen ein Gutachten verlangen:
 
-- a) nach Beissvorfällen zur Beurteilung des Einsatzzwecks;
+- a) nach Beissvorfällen zur Beurteilung des Einsatzzwecks von Herdenschutzhunden (HSH);
 - b) nach Beschwerden über das Wildern/Streunen oder Lärm;
 - c) bei Beschwerden über ihre Haltungsbedingungen.
 
@@ -410,4 +415,4 @@ beschliesst:
 
 <sup>3</sup> Der Kantonstierarzt sowie der Kantonschemiker (Abschnitt 7) sind mit der Ausführung der vorliegenden Vorschriften beauftragt. Sie sind ermächtigt, in Dringlichkeitsfällen, alle ihnen notwendig erscheinenden Massnahmen zur Ausführung dieses Beschlusses zu treffen.
 
-CSW RO/AGS 2022-012
+CSW RO/AGS 2023-036

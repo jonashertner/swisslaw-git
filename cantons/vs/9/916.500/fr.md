@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "916.500"
-title: "Arrêté concernant l'estivage 2022"
+title: "Arrêté concernant l'estivage 2023"
 language: fr
-version: 2022-03-01
-valid_until: 2023-02-28
-version_adopted: 2022-03-09
+version: 2023-03-01
+valid_until: 2024-02-29
+version_adopted: 2023-03-14
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/fr/versions/3016/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3200/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté concernant l'estivage 2022
+# Arrêté concernant l'estivage 2023
 
-du 09.03.2022 (état 01.03.2022)
+du 14.03.2023 (état 01.03.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -44,7 +44,7 @@ arrête:
 
 <sup>4</sup> L'estivage du bétail n'a lieu qu'à partir du 15 mai et jusqu'au 15 octobre. Le vétérinaire cantonal peut sur demande écrite et motivée délivrer une permission d’estivage jusqu’au 30 octobre. Si des animaux se trouvent sur un estivage au-delà de cette date et sont menacés par des conditions météorologiques extrêmes, ils doivent immédiatement être désalpés et mis à l’abri par leur propriétaire. Si ce dernier n’est pas identifié ou dans l’incapacité d’agir, la commune est responsable de prendre toutes les mesures nécessaires, conformément à l’article 15 alinéa 2 de la loi d'application de la loi fédérale sur la protection des animaux (LALPA). Elle peut en dernier ressort faire appel au garde-faune, qui après préavis positif du Vétérinaire cantonal, peut procéder au tir des animaux concernés.
 
-<sup>5</sup> Obligation d'inscrire les médicaments vétérinaires dans un registre. Selon l'ordonnance sur les médicaments vétérinaires (OMédV), presque tous les médicaments vétérinaires administrés à des animaux de rente doivent être inscrits dans un registre (tous les médicaments remis sur ordonnance, tous les médicaments pour lesquels il faut respecter un temps d'attente, les médicaments reconvertis ou importés, les médicaments non soumis à une autorisation de mise sur le marché, les médicaments fabriqués selon une formule magistrale). Si des médicaments vétérinaires sont administrés à des animaux sur l'alpage, les informations suivantes doivent être inscrites dans un journal des traitements:
+<sup>5</sup> Obligation d'inscrire les médicaments vétérinaires dans un registre: Selon l'ordonnance sur les médicaments vétérinaires (OMédV), presque tous les médicaments vétérinaires administrés à des animaux de rente doivent être inscrits dans un registre (tous les médicaments remis sur ordonnance, tous les médicaments pour lesquels il faut respecter un temps d'attente, les médicaments reconvertis ou importés, les médicaments non soumis à une autorisation de mise sur le marché, les médicaments fabriqués selon une formule magistrale). Si des médicaments vétérinaires sont administrés à des animaux sur l'alpage, les informations suivantes doivent être inscrites dans un journal des traitements:
 
 - a) la date de la première et de la dernière administration;
 - b) l'identification des animaux ou du groupe d'animaux traités par exemple le numéro de la marque auriculaire;
@@ -114,13 +114,13 @@ arrête:
 
 <sup>1</sup> Tous les mouvements d'animaux des espèces bovine, ovine et caprine déplacés vers des exploitations d'estivage, des exploitations de pâturage, des exploitations de pâturages communautaires ou estivés à l'étranger doivent être notifiés à la BDTA en utilisant le portail internet www.agate.ch. Les informations de celle-ci concernant les divers types et possibilités de notification doivent être prises en considération.
 
-<sup>2</sup> Si le détenteur d’animaux responsable de l’exploitation d’estivage n’a pas encore reçu son login personnel pour accéder au portail www.agate.ch, il peut le demander au helpdesk par écrit en envoyant un courrier électronique à info@agatehelpdesk.ch ou par téléphone en composant le numéro de tél. 0848 222 400.
+<sup>2</sup> Si le détenteur d’animaux responsable de l’exploitation d’estivage n’a pas encore reçu son login personnel pour accéder au portail www.agate.ch, il peut le demander au helpdesk par écrit en envoyant un courrier électronique à info@agatehelpdesk.ch ou par téléphone au numéro de tél. 0848 222 400.
 
 #### Art. 7
 
 **Notification des entrées de porcs sur les exploitations d'estivage à la BDTA**
 
-<sup>1</sup> Les entrées de porcs sur les exploitations d’estivage doivent être notifiées à la BDTA via le portail internet www.agate.ch ou au moyen d’une carte de notification. Ces cartes peuvent être commandées au helpdesk Agate par courrier électronique à envoyer à info@agatehelpdesk.ch ou par téléphone en composant le numéro 0848 222 400.
+<sup>1</sup> Les entrées de porcs sur les exploitations d’estivage doivent être notifiées à la BDTA via le portail internet www.agate.ch ou au moyen d’une carte de notification. Ces cartes peuvent être commandées au helpdesk Agate par courrier électronique à envoyer à info@agatehelpdesk.ch ou par téléphone au numéro de tél. 0848 222 400.
 
 <sup>2</sup> Les informations pour s’identifier et accéder au site www.agate.ch peuvent également être demandées au helpdesk Agate, si ces informations n’ont pas encore été envoyées à l’éleveur responsable de l’exploitation d’estivage.
 
@@ -128,13 +128,13 @@ arrête:
 
 **Notification des entrées d'équidés à la BDTA**
 
-<sup>1</sup> Les propriétaires d'équidés (chevaux, ânes, mulets, bardots et poneys) doivent notifier à la BDTA les déplacements de leurs animaux de l’exploitation d’origine à l’exploitation d'estivage. La notification à la BDTA doit se faire en utilisant le portail www.agate.ch. Ces déplacements doivent être notifiés à la BDTA à condition que les animaux restent plus de 30 jours sur l’exploitation d’estivage. Si vous avez des questions, veuillez-vous adresser au helpdesk d'Agate info@agatehelpdesk.ch ou composer le numéro de tél. 0848 222 400.
+<sup>1</sup> Les propriétaires d'équidés (chevaux, ânes, mulets, bardots et poneys) doivent notifier à la BDTA les déplacements de leurs animaux de l’exploitation d’origine à l’exploitation d'estivage. La notification à la BDTA doit se faire en utilisant le portail www.agate.ch. Ces déplacements doivent être notifiés à la BDTA à condition que les animaux restent plus de 30 jours sur l’exploitation d’estivage. Si vous avez des questions, veuillez-vous adresser au helpdesk d'Agate info@agatehelpdesk.ch ou par téléphone au numéro de tél. 0848 222 400.
 
 #### Art. 9
 
 **Notification des changements d'adresse à la banque de données sur les chiens**
 
-<sup>1</sup> Les détenteurs de chiens inscrivent l’adresse de l’alpage dans la banque de données sur les chiens Amicus (www.amicus.ch) pour la durée du séjour à l’alpage. Un champ est prévu à cet effet et permet de saisir les adresses temporaires. Le helpdesk d’Amicus répondra aux questions au numéro 0848 777 100.
+<sup>1</sup> Les détenteurs de chiens inscrivent l’adresse de l’alpage dans la banque de données sur les chiens Amicus (www.amicus.ch) pour la durée du séjour à l’alpage. Un champ est prévu à cet effet et permet de saisir les adresses temporaires. Le helpdesk d’Amicus répondra aux questions au numéro de tél. 0848 777 100.
 
 ## 3 Prescription d'estivage applicables au pacage frontalier
 
@@ -254,7 +254,7 @@ arrête:
 
 **Diarrhée virale bovine (BVD)**
 
-<sup>1</sup> Dans les exploitations de pâturage ou exploitations d'estivage (au sens des art. 7 à 9 de l'ordonnance sur la terminologie agricole et la reconnaissance des formes d’exploitation; ordonnance sur la terminologie agricole, OTerm) dans lesquelles sont détenus des bovins provenant de diverses unités d'élevage ou dans laquelle des contacts avec des bovins d'autres unités d'élevage sont possibles:
+<sup>1</sup> Dans les exploitations de pâturage ou exploitations d'estivage (art. 7 à 9 de l'ordonnance sur la terminologie agricole et la reconnaissance des formes d’exploitation; ordonnance sur la terminologie agricole, OTerm) dans lesquelles sont détenus des bovins provenant de diverses unités d'élevage ou dans laquelle des contacts avec des bovins d'autres unités d'élevage sont possibles:
 
 - a) les bovins peuvent être admis uniquement s’ils ne sont pas frappés d’une interdiction de déplacement. Il est recommandé aux détenteurs d’animaux responsables de l’estivage de contrôler le statut BVD des animaux à la banque de données sur le trafic des animaux;
 - b) il faut soumettre à un examen virologique tous les avortons découverts sur les exploitations d’estivage;
@@ -274,7 +274,7 @@ arrête:
 
 <sup>5</sup> Les vaches, qui n’ont pas eu de gestation complète en 24 mois, ainsi que les génisses âgées de 4 ans et plus, sont exclues d’un alpage commun.
 
-<sup>6</sup> Pour une vache une durée de gestation de 283 +/- 21 jours peut être considérée comme normale. Un vêlage avant terme, (gestation de moins de 262 jours) et dont le veau survit c'est à dire qu'il atteint l'âge de 10 jours au moins, peut être considéré comme un vêlage normal. Une attestation vétérinaire est alors exigée.
+<sup>6</sup> Pour une vache une durée de gestation de 283 +/- 21 jours peut être considérée comme normale. Un vêlage avant terme, (gestation de moins de 262 jours) et dont le veau survit c'est-à-dire qu'il atteint l'âge de 10 jours au moins, peut être considéré comme un vêlage normal. Une attestation vétérinaire est alors exigée.
 
 <sup>7</sup> Au cours de l’estivage, les procureurs ou directeurs d’alpages sont compétents pour faire désalper une bête qui rentrerait dans l’une des catégories mentionnées ci-dessus.
 
@@ -300,7 +300,7 @@ arrête:
 
 <sup>1</sup> Tout avortement doit être annoncé au vétérinaire délégué.
 
-## 5 Chiens de protecion de troupeaux
+## 5 Chiens de protection de troupeaux
 
 #### Art. 23
 
@@ -308,15 +308,20 @@ arrête:
 
 <sup>1</sup> Conformément à l’article 30 LALPA seuls sont considérés chiens de protection des troupeaux les chiens visés par un contrat conclu avec l'institution reconnue.
 
-<sup>2</sup> Les chiens de protection des troupeaux sont exclusivement soumis aux dispositions du droit fédéral; c'est-à-dire notamment aux directives émises par l'OFEV.
+<sup>2</sup> D’autres chiens utilitaires au sens de l’article 69 OPAn peuvent être engagés pour la garde et la protection des animaux de rente après avoir prouvé par un test organisé par le service cantonal spécialisé pour la protection des troupeaux que leur comportement ne représente pas une menace objective pour la sécurité publique et sont habilités à protéger des animaux de manière largement autonome.
 
-<sup>3</sup> Le détenteur au sens de la législation sur la protection des animaux est la personne qui détient le pouvoir de disposer d'un animal plus que temporairement. Les personnes qui assurent pendant plusieurs semaines la responsabilité d'un animal sont considérées comme détenteurs. Pour les chiens de protection de troupeaux, est considéré comme détenteur pendant l'estivage le responsable de l'alpage.
+<sup>3</sup> Les chiens de protection des troupeaux reconnus selon l’alinéa 1 sont exclusivement soumis aux dispositions du droit fédéral; c’est-à-dire notamment aux directives émises par l’OFEV.
 
-<sup>4</sup> Le groupe stratégique sur la protection des troupeaux est l'organe cantonal compétent, il est placé sous la direction du responsable cantonal pour la protection des troupeaux et se compose au minimum de:
+<sup>4</sup> Le détenteur au sens de la législation sur la protection des animaux est la personne qui détient le pouvoir de disposer d’un animal plus que temporairement. Les personnes qui assurent pendant plusieurs semaines la responsabilité d’un animal sont considérées comme détenteurs. Pour les chiens au sens des alinéas 1 et 2, est considéré comme détenteur pendant l’estivage le responsable de l’alpage.
 
-- a) le responsable cantonal pour la protection des troupeaux (SCA, Landwirtschaftszentrum Visp);
+<sup>5</sup> La commission cantonale pour les chiens de protection des troupeaux est l’organe cantonal compétent pour les chiens de protection reconnus au sens de l’alinéa 1, il est placé sous la direction du responsable cantonal pour la protection des troupeaux et se compose au minimum de:
+
+- a) le responsable cantonal pour la protection des troupeaux (SCA, Landwirtschaftzentrum Visp);
 - b) un représentant de l'Office vétérinaire cantonal (Ovet, Service de la consommation et affaires vétérinaires, SCAV);
-- c) un représentant du Service de la chasse, pêche et faune (SCPF).
+- c) un représentant du Service de la chasse, pêche et faune (SCPF);
+- d) un représentant de l'association valaisanne de la randonnée (Valrando).
+
+<sup>6</sup> Les incidents qui seraient provoqués par des chiens utilitaires testés au sens de l'alinéa 2 sont traités par l'Ovet selon l'article 39 LALPA. Dans ces cas, leur détenteur est responsable conformément à l'article 77 OPAn de faire en sorte que leur chien ne mette pas en danger des êtres humains ou des animaux.
 
 #### Art. 24
 
@@ -332,13 +337,13 @@ arrête:
 
 #### Art. 25
 
-**Mesures en cas d'agression, de comportement suspect ou inadéquat**
+**Mesures en cas d'agression, de comportement suspect ou inadéquat d'un chien de protection reconnu au sens de l'alinéa 1**
 
 <sup>1</sup> Lors de l'annonce d'un incident ou d'un comportement inadéquat avec des personnes ou des animaux, l'organe compétent prend les mesures appropriées après évaluation de la situation.
 
 <sup>2</sup> Il peut, pour évaluer la situation, exiger une expertise lors des situations suivantes:
 
-- a) après un cas de morsure, pour apprécier le but de l'utilisation du CPT;
+- a) après un cas de morsure, pour apprécier le but de l'utilisation des chiens de protection de troupeaux (CPT);
 - b) après une plainte pour chasse/divagation ou pour nuisance sonore;
 - c) lors de plainte sur leurs conditions de détention.
 
@@ -412,4 +417,4 @@ arrête:
 
 <sup>3</sup> Le vétérinaire cantonal de même que le chimiste cantonal (section 7) sont chargés de l’exécution des présentes prescriptions. Ils sont autorisés à prendre d’urgence les mesures qu’ils jugeront utiles en vue de l'exécution du présent arrêté.
 
-RCV RO/AGS 2022-012
+RCV RO/AGS 2023-036
