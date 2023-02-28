@@ -4,13 +4,13 @@ number: "172.513"
 title: Gebührentarif
 short: GebT
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-09-13
+version: 2023-03-01
+valid_until: 2025-12-31
+version_adopted: 2023-02-14
 adopted: 2019-09-17
 in_force: 2020-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.513"
-pdf: "https://ai.clex.ch/api/de/versions/2121/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2206/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2121/pdf_file"
 
 (GebT)
 
-vom 17.09.2019 (Stand 01.01.2023)
+vom 17.09.2019 (Stand 01.03.2023)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -397,11 +397,17 @@ beschliesst:
 - 7\. Lebensbescheinigung — 10.--
 - 8\. umfangreiche Abklärungen — nach Aufwand
 
+#### Art. 18a
+
+**Ausländerrechtliche Gebühren bei Höchstbeträgen des Bundesrechts**
+
+<sup>1</sup> Der Kanton erhebt die Höchstbeträge nach der eidg. Verordnung über die Gebühren zum Ausländer- und Integrationsgesetz, soweit dieser Beschluss nichts anderes vorsieht.
+
 #### Art. 19
 
 **Aufenthalt von ausländischen Personen**
 
-<sup>1</sup> Die Gebühren für Bewilligungen und andere Verfügungen über den Aufenthalt von ausländischen Personen (Ausländerverordnung) betragen:
+<sup>1</sup> Die Gebühren für Bewilligungen und andere Verfügungen über den Aufenthalt von ausländischen Personen betragen:
 
 - 1\. Provisorische Bewilligung — 20.-- bis 70.--
 - 2\. Androhung der Ausweisung — 100.-- bis 1000.--
@@ -413,6 +419,7 @@ beschliesst:
 - 8\. Eintrag einer Anmeldung, Zivilstands- oder Adressänderung — 10.-- bis 20.--
 - 9\. Bestätigungen, Prüfung Verpflichtungserklärung — 20.-- bis 70.--
 - 10\. Erteilung von schriftlichen Auskünften — 10.-- bis 70.--
+- 10a Verlängerung Ausweis N (Asylsuchende) und S (Schutzbedürftige), sofern ein Familienmitglied erwerbstätig ist — 40.--
 - 11\. Umfangreiche Abklärungen — nach Aufwand
 
 <sup>2</sup> Für besonders aufwändige Verrichtungen kann die Gebühr angemessen erhöht werden.
