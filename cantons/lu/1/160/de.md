@@ -4,13 +4,12 @@ number: "160"
 title: Gesetz über den Finanzhaushalt der Gemeinden
 short: FHGG
 language: de
-version: 2018-01-01
-valid_until: 2023-02-28
-version_adopted: 2016-06-20
+version: 2023-03-01
+version_adopted: 2022-11-28
 adopted: 2016-06-20
 in_force: 2018-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/160"
-pdf: "https://srl.lu.ch/api/de/versions/2926/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4052/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2926/pdf_file"
 
 (FHGG)
 
-vom 20.06.2016 (Stand 01.01.2018)
+vom 20.06.2016 (Stand 01.03.2023)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -141,7 +140,7 @@ beschliesst:
 
 <sup>2</sup> Der Entwurf des Budgets ist Bestandteil des Aufgaben- und Finanzplans und entspricht dessen erstem Planjahr.
 
-<sup>3</sup> In Gemeinden, in denen die Stimmberechtigten ihre Befugnisse im Urnenverfahren ausüben, führt der Gemeinderat vorgängig eine Orientierungsveranstaltung durch.
+<sup>3</sup> In Gemeinden, in denen die Stimmberechtigten ihre Befugnisse im Urnenverfahren ausüben, führt der Gemeinderat vorgängig eine Orientierungsveranstaltung durch. In ausserordentlichen Situationen gemäss § 18 Absatz 2<sup>bis</sup> des Stimmrechtsgesetzes vom 25. Oktober 1988 informiert der Gemeinderat die Stimmberechtigten mit einem erläuternden Bericht.
 
 #### § 11
 
