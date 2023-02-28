@@ -4,13 +4,12 @@ number: "621.5"
 title: "Ordonnance sur les statistiques *"
 short: OStat
 language: fr
-version: 2009-01-01
-valid_until: 2023-02-28
-version_adopted: 2008-10-29
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1997-03-26
 in_force: 1997-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/621.5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/540/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2793/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/540/pdf_file"
 
 (OStat)
 
-du 26.03.1997 (état au 01.01.2009)
+du 26.03.1997 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -51,9 +50,9 @@ arrête:
 
 <sup>1</sup> Le canton recueille les bases statistiques dont il a besoin pour accomplir ses tâches, de manière décentralisée par le biais des services cantonaux compétents en la matière.
 
-<sup>2</sup> Une Conférence des statistiques est mise en place pour coordonner les travaux des services cantonaux en matière de statistiques. Elle est subordonnée à la Conférence des ressources.
+<sup>2</sup> Un groupe spécialisé Statistique est mis en place pour coordonner les travaux des services cantonaux en matière de statistiques. Il est subordonné à la Conférence pour l’administration numérique et les TIC.
 
-<sup>3</sup> Le Service de statistique administré par la Direction des finances est chargé de délivrer des informations sur la tenue des statistiques et de fournir une assistance technique. Il incombe au service cantonal qui tient une statistique de fournir des renseignements et informations concernant le contenu de cette statistique.
+<sup>3</sup> Le Service de coordination des statistiques administré par la Direction des finances est chargé de délivrer des informations sur la tenue des statistiques et de fournir une assistance technique. Il incombe au service cantonal qui tient une statistique de fournir des renseignements et informations concernant le contenu de cette statistique.
 
 #### Art. 4
 
@@ -67,24 +66,25 @@ arrête:
 
 #### Art. 5
 
-**Conférence des statistiques**
+**Groupe spécialisé Statistique**
 
-<sup>1</sup> La Conférence des statistiques est composée d'un membre de chaque Direction, de la Chancellerie d'Etat, du Contrôle des finances, du Service de statistique et de l'Administration des finances. Elle est dirigée par l'administrateur ou l'administratrice des finances.
+<sup>1</sup> Le groupe spécialisé Statistique
 
-<sup>2</sup> La Conférence des statistiques coordonne le rassemblement des bases statistiques qui intéressent l'ensemble des Directions ou qui ont une importance particulière.
+- a se compose d'un membre de chaque Direction, de la Chancellerie d'Etat, du Contrôle des finances, du Service de coordination des statistiques et de l'Administration des finances;
+- b est dirigée par l'administratrice ou l'administrateur des finances;
+- c coordonne la collecte des bases statistiques qui intéressent l'ensemble des Directions ou qui ont une importance particulière;
+- d est l’organe de coordination et de conception pour le domaine de la statistique;
+- e est un groupe spécialisé au sens de l'article 19 de l'ordonnance du 11 janvier 2023 sur l'administration numérique (OAN)[^5-1].
 
-<sup>3</sup> La Conférence des statistiques peut
+<sup>2–3</sup> …
 
-- a adresser à la Conférence des ressources des recommandations visant à améliorer la qualité des statistiques et leur compatibilité avec d'autres statistiques ou portant sur l'utilisation coordonnée d'outils informatiques;
-- b proposer à la Conférence des ressources l'établissement de nouvelles statistiques ou l'extension de statistiques existantes;
-- c proposer à la Conférence des ressources des conceptions sur les statistiques;
-- d proposer à la Conférence des ressources l'engagement de personnel à titre temporaire pour les enquêtes interdirectionnelles ordonnées par la Confédération.
+[^5-1]: RSB [109.111](https://www.belex.sites.be.ch/data/109.111/fr)
 
 #### Art. 6
 
-**Service de statistique**
+**Service de coordination des statistiques**
 
-<sup>1</sup> Les renseignements que le Service de statistique est tenu de fournir ainsi que ses activités d'assistance technique respectent les principes stipulés à l'article 3, 3<sup>e</sup> alinéa.
+<sup>1</sup> Les renseignements que le Service de coordination des statistiques est tenu de fournir ainsi que ses activités d'assistance technique respectent les principes stipulés à l'article 3, alinéa 3.
 
 <sup>2</sup> A cette fin,
 
@@ -92,7 +92,9 @@ arrête:
 - b il met en contact les services cantonaux et les personnes demandeuses de renseignements;
 - c il peut, d'entente avec le service qui cherche un renseignement, faire appel à des tiers pour lui fournir des conseils spécialisés. Les frais qui en résultent sont supportés par le service qui demande le renseignement.
 
-<sup>3</sup> Lorsqu'il fournit des prestations extraordinaires, le Service de statistique peut percevoir des émoluments conformément aux tarifs prescrits par l'ordonnance sur les émoluments.
+<sup>3</sup> Lorsqu'il fournit des prestations extraordinaires, le Service de coordination des statistiques peut percevoir des émoluments conformément aux tarifs prescrits par l'ordonnance du 22 février 1995 fixant les émoluments de l'administration cantonale (ordonnance sur les émoluments; OEmo)[^6-1].
+
+[^6-1]: RSB [154.21](https://www.belex.sites.be.ch/data/154.21/fr)
 
 #### Art. 7
 

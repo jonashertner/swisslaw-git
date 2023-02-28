@@ -4,13 +4,12 @@ number: "621.5"
 title: Verordnung über die Statistik
 short: "Statistikverordnung, StatV"
 language: de
-version: 2009-01-01
-valid_until: 2023-02-28
-version_adopted: 2008-10-29
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1997-03-26
 in_force: 1997-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/621.5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/540/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2793/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/540/pdf_file"
 
 (Statistikverordnung, StatV)
 
-vom 26.03.1997 (Stand 01.01.2009)
+vom 26.03.1997 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -51,9 +50,9 @@ beschliesst:
 
 <sup>1</sup> Der Kanton erhebt die statistischen Grundlagen, die er zur Erfüllung seiner Aufgaben benötigt, dezentral durch die fachlich zuständigen kantonalen Stellen.
 
-<sup>2</sup> Zur Koordination der statistischen Arbeiten verschiedener kantonaler Stellen wird eine Statistikkonferenz eingesetzt. Sie ist der Ressourcenkonferenz unterstellt.
+<sup>2</sup> Zur Koordination der statistischen Arbeiten verschiedener kantonaler Stellen wird eine Fachgruppe Statistik eingesetzt. Sie ist der Konferenz digitale Verwaltung und ICT unterstellt.
 
-<sup>3</sup> Auskünfte über die Führung von Statistiken sowie die Vermittlung fachtechnischer Unterstützung obliegen der von der Finanzdirektion geführten Statistikstelle. Inhaltliche Auskünfte und Informationen obliegen derjenigen kantonalen Stelle, welche die Statistik führt.
+<sup>3</sup> Auskünfte über die Führung von Statistiken sowie die Vermittlung fachtechnischer Unterstützung obliegen der von der Finanzdirektion geführten Koordinationsstelle Statistik. Inhaltliche Auskünfte und Informationen obliegen derjenigen kantonalen Stelle, welche die Statistik führt.
 
 #### Art. 4
 
@@ -67,24 +66,25 @@ beschliesst:
 
 #### Art. 5
 
-**Statistikkonferenz**
+**Fachgruppe Statistik**
 
-<sup>1</sup> Die Statistikkonferenz setzt sich aus je einem Mitglied der Direktionen, der Staatskanzlei, der Finanzkontrolle, der Statistikstelle sowie der Finanzverwaltung zusammen. Sie wird von der Finanzverwalterin oder vom Finanzverwalter geleitet.
+<sup>1</sup> Die Fachgruppe Statistik
 
-<sup>2</sup> Die Statistikkonferenz koordiniert die Erhebung von statistischen Grundlagen, denen direktionsübergreifende oder besondere Bedeutung zukommt.
+- a setzt sich aus je einem Mitglied der Direktionen, der Staatskanzlei, der Finanzkontrolle, der Koordinationsstelle Statistik und der Finanzverwaltung zusammen,
+- b wird von der Finanzverwalterin oder vom Finanzverwalter geleitet,
+- c koordiniert die Erhebung von statistischen Grundlagen, denen direktionsübergreifende oder besondere Bedeutung zukommt,
+- d ist das verwaltungsweite Koordinations- und Konzeptgremium für das Fachgebiet der Statistik,
+- e ist eine Fachgruppe gemäss Artikel 19 der Verordnung vom 11. Januar 2023 über die digitale Verwaltung (DVV)[^5-1].
 
-<sup>3</sup> Die Statistikkonferenz kann der Ressourcenkonferenz
+<sup>2–3</sup> …
 
-- a Empfehlungen zur Verbesserung der Qualität und der Vergleichbarkeit von Statistiken sowie zur Koordination des EDV-Einsatzes abgeben;
-- b Vorschläge für neue oder zu erweiternde Statistiken machen;
-- c Statistikkonzepte beantragen;
-- d für vom Bund angeordnete direktionsübergreifende Erhebungen den Einsatz temporärer Fachkräfte beantragen.
+[^5-1]: BSG [109.111](https://www.belex.sites.be.ch/data/109.111/de)
 
 #### Art. 6
 
-**Statistikstelle**
+**Koordinationsstelle Statistik**
 
-<sup>1</sup> Die von der Statistikstelle zu erteilenden Auskünfte sowie deren fachtechnische Vermittlertätigkeit richten sich nach den in Artikel 3 Absatz 3 festgelegten Grundsätzen.
+<sup>1</sup> Die von der Koordinationsstelle Statistik zu erteilenden Auskünfte sowie deren fachtechnische Vermittlertätigkeit richten sich nach den in Artikel 3 Absatz 3 festgelegten Grundsätzen.
 
 <sup>2</sup> Zu diesem Zweck
 
@@ -92,7 +92,9 @@ beschliesst:
 - b unterhält und vermittelt sie die nötigen Kontakte zwischen den kantonalen Stellen und den um Auskunft ersuchenden Personen;
 - c kann sie im Einverständnis mit der auskunftsersuchenden Stelle Dritte zur fachtechnischen Beratung beiziehen. Die daraus entstehenden Kosten hat die auskunftsersuchende Stelle zu tragen.
 
-<sup>3</sup> Für ausserordentliche Leistungen der Statistikstelle können Gebühren nach den Ansätzen der Gebührenverordnung erhoben werden.
+<sup>3</sup> Für ausserordentliche Leistungen der Koordinationsstelle Statistik können Gebühren nach den Ansätzen der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung; GebV)[^6-1] erhoben werden.
+
+[^6-1]: BSG [154.21](https://www.belex.sites.be.ch/data/154.21/de)
 
 #### Art. 7
 
