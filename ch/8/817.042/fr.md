@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2022-10-15
+version: 2023-03-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20221015/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20221015-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20221015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20221015/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (État le 15 octobre 2022)
+du 27 mai 2020 (État le 1<sup>er</sup> mars 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1710,7 +1710,7 @@ L’OSAV est l’autorité compétente pour l’octroi d’autorisations aux aut
 
 L’ordonnance du 16 décembre 2016 sur l’exécution de la législation sur les denrées alimentaires[^116-1] est abrogée.
 
-[^116-1]: [[RO 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65), [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202)]
+[^116-1]: [[RO 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202)]
 
 #### Art. 117
 
@@ -1718,7 +1718,7 @@ L’ordonnance du 16 décembre 2016 sur l’exécution de la législation sur le
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^117-1]
+…[^117-1]
 
 [^117-1]: Les mod. peuvent être consultées au [RO 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460).
 
@@ -1761,6 +1761,21 @@ S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modi
 
 [^118b-1]: Introduit par le ch. I de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
 
+#### Art. 118c
+
+**Disposition transitoire de la modification du 8 février 2023**[^118c-1]
+
+S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 8 février 2023, les lots des denrées alimentaires ci-après peuvent être importés jusqu’au 16 avril 2023 sans certificat officiel ni résultats d’échantillonnages ou d’analyses:
+
+- a. arachides (*cacahuètes*) en provenance de Bolivie;
+- b. feuilles de curry (*Bergera/Murraya koenigii*) en provenance d’Inde;
+- c. navets (*Brassica rapa ssp. rapa*) en provenance du Liban;
+- d. graines de sésame en provenance du Nigéria;
+- e. comboux ou gombos en provenance du Vietnam;
+- f. extrait de vanille en provenance des États-Unis.
+
+[^118c-1]: Introduit par le ch. I de l’O de l’OSAV du 8 fév. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 (RO **202****3** 63).
+
 #### Art. 119
 
 **Entrée en vigueur**
@@ -1782,12 +1797,12 @@ Annexe 2[^t-1]
 
 ## Denrées alimentaires d’origine non animale provenant de certains pays, temporairement soumises à des contrôles renforcés en vertu des art. 37 à 43
 
-[^t-1]: Mise à jour par le ch. II de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
+[^t-1]: Mise à jour par le ch. II de l’O de l’OSAV du 8 fév. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 ([RO 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
 
-- 1\. Ensemble des denrées alimentaires figurant à l’annexe I du règlement d’exécution (UE) 2019/1793[^annex2-lvlu1-1]. Sont exclus de cette fréquence de contrôle les produits suivants en provenance du Vietnam: feuilles de coriandre, basilic vert et basilic sacré, menthe, persil, comboux ou gombos et piments des espèces du genre *Capsicum*. La fréquence de contrôle est de 20 %.
+- 1\. Ensemble des denrées alimentaires figurant à l’annexe I du règlement d’exécution (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. Les procédures d’échantillonnage et les méthodes d’analyses sont régies par l’annexe III du règlement d’exécution, dans la mesure où l’annexe I du règlement d’exécution y renvoie.
 
-[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) n<sup>o</sup> 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2022/913, JO L 158 du 13.6.2022, p. 1.
+[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) n<sup>o</sup> 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2023/174, JO L 25 du 27.1.2013, p. 36.
 
 Annexe 3
 

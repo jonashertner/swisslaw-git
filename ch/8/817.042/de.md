@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2022-10-15
+version: 2023-03-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20221015/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20221015-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20221015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20230301/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20230301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20230301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20221015/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 15. Oktober 2022)
+vom 27. Mai 2020 (Stand am 1. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1760,6 +1760,21 @@ Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttret
 
 [^118b-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
 
+#### Art. 118c
+
+**Übergangsbestimmung zur Änderung vom 8. Februar 2023**[^118c-1]
+
+Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttretens der Änderung vom 8. Februar 2023 bereits versendet wurden, dürfen bis zum 16. April 2023 ohne amtliche Bescheinigung sowie ohne Ergebnisse von Probenahmen und Analysen eingeführt werden:
+
+- a. Erdnüsse aus Bolivien;
+- b. Curryblätter (*Bergera/Murraya koenigii*) aus Indien;
+- c. Speiserüben (*Brassica rapa ssp. rapa*) aus dem Libanon;
+- d. Sesamsamen aus Nigeria;
+- e. Okra aus Vietnam;
+- f. Vanilleextrakt aus den Vereinigten Staaten.
+
+[^118c-1]: Eingefügt durch Ziff. I der V des BLV vom 8. Febr. 2023, in Kraft seit 1. März 2023 ([AS 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
+
 #### Art. 119
 
 **Inkrafttreten**
@@ -1781,12 +1796,12 @@ Anhang 2[^t-1]
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, die vorübergehend verstärkten amtlichen Kontrollen nach den Artikeln 37−43 unterliegen
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 8. Febr. 2023, in Kraft seit 1. März 2023 ([AS 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
 
-- 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind. Ausgenommen von dieser Kontrollfrequenz sind folgende Produkte aus Vietnam: Korianderblätter, Basilikum und indisches Basilikum, Minze, Petersilie, Okra und Paprika der Capsicum-Arten. Die Kontrollfrequenz beträgt 20 Prozent.
+- 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
 - 2\. Probenahme und Analytik richtet sich nach Anhang III der Durchführungsverordnung, falls in Anhang I der Durchführungsverordnung darauf verwiesen wird.
 
-[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, Abl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2022/913, ABl. L 158 vom 13.06.2022, S. 1.
+[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 der Kommission vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2023/174, ABl. L 25 vom 27.1.2023, S. 36.
 
 Anhang 3
 
