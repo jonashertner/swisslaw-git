@@ -4,13 +4,12 @@ number: "922.111.1"
 title: Ordonnance de Direction sur la chasse
 short: ODCh
 language: fr
-version: 2020-03-01
-valid_until: 2023-02-28
-version_adopted: 2019-12-02
+version: 2023-03-01
+version_adopted: 2022-08-29
 adopted: 2003-03-27
 in_force: 2003-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1799/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2680/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1799/pdf_file"
 
 (ODCh)
 
-du 27.03.2003 (état au 01.03.2020)
+du 27.03.2003 (état au 01.03.2023)
 
 La Direction de l'économie publique du canton de Berne,
 
@@ -37,7 +36,8 @@ arrête:
 
 - a bouc de plus de 2 ans (catégorie A1),
 - b chèvre de plus de 2 ans (catégorie A2),
-- c éterle (catégorie A3).
+- c éterle mâle (catégorie A3),
+- d éterle femelle (catégorie A4).
 
 <sup>2</sup> Le tir de chevreuils avec la patente B peut être autorisé pour les catégories suivantes:
 
@@ -67,7 +67,7 @@ arrête:
 
 **Demandes de patentes**
 
-<sup>1</sup> Les demandes de patentes de chasse peuvent être déposées dès le 1<sup>er</sup> juillet et au plus tard jusqu'au 15 août auprès de l'Inspection de la chasse au moyen du formulaire officiel.
+<sup>1</sup> Les demandes de patentes de chasse peuvent être déposées dès le 1<sup>er</sup> juillet auprès de l'Inspection de la chasse au moyen du formulaire officiel.
 
 <sup>2</sup> La personne qui demande pour la première fois une patente joint au formulaire l'attestation qui prouve qu'elle a passé avec succès l'examen de chasse.
 
@@ -95,13 +95,15 @@ arrête:
 
 **Cartes d'invitation**
 
-<sup>1</sup> La carte d'invitation n'est valable que si toutes les informations exigées y ont été inscrites au stylo à bille, avant le début de la chasse, conformément à la vérité et confirmées par les signatures.
+<sup>1</sup> La personne qui invite doit demander une carte d'invitation à l'Inspection de la chasse et lui fournir toutes les informations exigées (en particulier le nom de la personne invitée et la date de validité).
+
+<sup>1a</sup> L'Inspection de la chasse complète les cartes d'invitation au moyen des informations fournies par la personne qui invite et les fait parvenir à cette dernière.
 
 <sup>2</sup> La personne invitée doit pouvoir à tout moment justifier qu'elle est titulaire d'un examen de chasse reconnu.
 
-<sup>3</sup> L'organisation chargée de la délivrance des cartes d'invitation désigne les points de délivrance
+<sup>3</sup> L'Inspection de la chasse peut mandater une organisation pour délivrer les cartes d'invitation; cette organisation désigne elle-même les points de délivrance.
 
-<sup>4</sup> Elle est habilitée à exiger, pour la délivrance des cartes d'invitation, un supplément de dix francs au maximum à titre d'indemnisation de ses propres frais administratifs.
+<sup>4</sup> L'organisation mandatée par l'Inspection de la chasse est habilitée à exiger, pour la délivrance des cartes d'invitation, un supplément de dix francs au maximum à titre d'indemnisation de ses propres frais administratifs.
 
 ## 3 Exercice de la chasse
 
@@ -210,6 +212,8 @@ arrête:
 
 <sup>3</sup> Les balles blindées et les cartouches à percussion annulaire ne peuvent être utilisées que pour le coup de grâce à courte distance.
 
+<sup>4</sup> L'utilisation de balles contenant du plomb est interdite.
+
 #### Art. 12
 
 **Cartouches à grenaille**
@@ -272,7 +276,7 @@ arrête:
 
 <sup>3a</sup> La sauvagine sur laquelle il a été tiré doit être recherchée avec un chien rapporteur ayant réussi un examen.
 
-<sup>4</sup> Les recherches infructueuses de mammifères et de sauvagine doivent être annoncées au ou à la garde-faune le jour même du tir.
+<sup>4</sup> Les recherches infructueuses de mammifères et de sauvagine ou celles impossibles à effectuer le jour même du tir doivent être annoncées au ou à la garde-faune ce jour-là.
 
 <sup>5</sup> Si l'ongulé recherché et annoncé réglementairement est retrouvé mort ultérieurement, il est renoncé à la remise de la marque à gibier.
 
@@ -280,11 +284,11 @@ arrête:
 
 **Contrôle des animaux tirés, marquage**
 
-<sup>1</sup> Les informations exigées pour tous les animaux tirés doivent être inscrites au stylo à bille dans le carnet de contrôle avant la prise de possession, et l'exactitude de l'inscription doit être confirmée par la signature.
+<sup>1</sup> Les informations exigées pour tous les animaux tirés doivent être inscrites au stylo à bille dans le carnet de contrôle concerné avant la prise de possession, et l'exactitude de l'inscription doit être confirmée par la signature.
 
 <sup>2</sup> Conformément aux prescriptions, les chevreuils et les chamois tirés doivent être munis sur le lieu du tir d'une marque à gibier valable. Au moment de fixer la marque à gibier, il faut indiquer le jour et le mois du tir en détachant les languettes dûment annotées.
 
-<sup>3</sup> Le carnet de contrôle personnel, signé et muni de toutes les inscriptions requises, doit être envoyé à l’Inspection de la chasse au plus tard jusqu’au 10 mars.
+<sup>3</sup> Les carnets de contrôle personnels, signés et munis de toutes les inscriptions requises, doivent être envoyés à l’Inspection de la chasse dans les délais fixés par cette dernière.
 
 #### Art. 18
 
@@ -351,6 +355,14 @@ arrête:
 #### Art. T1-1
 
 <sup>1</sup> Les chiens de chasse qui ont déjà atteint l’âge de trois ans révolus au 1<sup>er</sup> décembre 2009 ne sont pas tenus de remplir la condition visée à l’article 7, alinéa 1, lettre b.
+
+## T2 Disposition transitoire de la modification du 29.08.2022
+
+#### Art. T2-1
+
+<sup>1</sup> L'article 4, alinéas 1, 1a, 3 et 4 est applicable à partir du 1<sup>er</sup> août 2024; les cartes d'invitation délivrées avant cette date perdent toute validité.
+
+<sup>2</sup> L'article 11, alinéa 4 est applicable à partir du 1<sup>er</sup> août 2027.
 
 ## A1 Annexe 1 à l'article 21
 

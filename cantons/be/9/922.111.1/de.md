@@ -4,13 +4,12 @@ number: "922.111.1"
 title: Direktionsverordnung über die Jagd
 short: JaDV
 language: de
-version: 2020-03-01
-valid_until: 2023-02-28
-version_adopted: 2019-12-02
+version: 2023-03-01
+version_adopted: 2022-08-29
 adopted: 2003-03-27
 in_force: 2003-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1799/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2680/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1799/pdf_file"
 
 (JaDV)
 
-vom 27.03.2003 (Stand 01.03.2020)
+vom 27.03.2003 (Stand 01.03.2023)
 
 Die Volkswirtschaftsdirektion des Kantons Bern,
 
@@ -37,7 +36,8 @@ beschliesst:
 
 - a Gämsbock älter als 2 Jahre (Kategorie A1),
 - b Gämsgeiss älter als 2 Jahre (Kategorie A2),
-- c Gämsjährling (Kategorie A3).
+- c Gämsjährling männlich (Kategorie A3),
+- d Gämsjährling weiblich (Kategorie A4).
 
 <sup>2</sup> Der Abschuss von Rehen mit dem Patent B kann für folgende Kategorien bewilligt werden:
 
@@ -67,7 +67,7 @@ beschliesst:
 
 **Patentgesuche**
 
-<sup>1</sup> Jagdpatente können ab dem 1. Juli und spätestens bis zum 15. August mit dem amtlichen Formular beim Jagdinspektorat beantragt werden.
+<sup>1</sup> Jagdpatente können ab dem 1. Juli mit dem amtlichen Formular beim Jagdinspektorat beantragt werden.
 
 <sup>2</sup> Wer erstmals ein Patent beantragt, legt dem Formular eine Kopie des Ausweises über die bestandene Jagdprüfung bei.
 
@@ -95,13 +95,15 @@ beschliesst:
 
 **Gästekarten**
 
-<sup>1</sup> Die Gästekarte ist nur gültig, wenn vor Jagdbeginn alle verlangten Angaben mit Kugelschreiber wahrheitsgetreu eingetragen und mit den Unterschriften bestätigt worden sind.
+<sup>1</sup> Die Gastgeberin oder der Gastgeber beantragt beim Jagdinspektorat die Gästekarte mit allen verlangten Angaben (insbesondere Name des Gastes und Gültigkeitstag).
+
+<sup>1a</sup> Das Jagdinspektorat stellt die mit den gemachten Angaben versehenen Gästekarten der Gastgeberin oder dem Gastgeber zu.
 
 <sup>2</sup> Der Gast muss sich jederzeit über eine anerkannte Jagdprüfung ausweisen können.
 
-<sup>3</sup> Die mit der Ausgabe von Gästekarten beauftragte Organisation bezeichnet die Ausgabestellen.
+<sup>3</sup> Das Jagdinspektorat kann eine Organisation mit der Ausgabe der Gästekarten beauftragen; die Organisation bezeichnet ihre Ausgabestellen.
 
-<sup>4</sup> Sie ist berechtigt, für die Ausgabe der Gästekarten einen Zuschlag von höchstens zehn Franken als Abgeltung für den eigenen Verwaltungsaufwand zu verlangen.
+<sup>4</sup> Die durch das Jagdinspektorat beauftragte Organisation ist berechtigt, für die Ausgabe der Gästekarten einen Zuschlag von höchstens zehn Franken als Abgeltung für den eigenen Verwaltungsaufwand zu verlangen.
 
 ## 3 Ausübung der Jagd
 
@@ -210,6 +212,8 @@ beschliesst:
 
 <sup>3</sup> Vollmantelgeschosse und Randfeuerpatronen dürfen nur für den Fangschuss auf kurze Distanz verwendet werden.
 
+<sup>4</sup> Die Verwendung bleihaltiger Kugelmunition ist verboten.
+
 #### Art. 12
 
 **Schrotpatronen**
@@ -272,7 +276,7 @@ beschliesst:
 
 <sup>3a</sup> Auf beschossene Wasservögel muss die Nachsuche mit einem geprüften Apporteur durchgeführt werden.
 
-<sup>4</sup> Erfolglose Nachsuchen auf Säugetiere und Wasservögel sind der Wildhüterin oder dem Wildhüter am Tag der Schussabgabe zu melden.
+<sup>4</sup> Erfolglose oder am Tag der Schussabgabe nicht durchführbare Nachsuchen auf Säugetiere und Wasservögel sind der Wildhüterin oder dem Wildhüter am selben Tag zu melden.
 
 <sup>5</sup> Wird das ordnungsgemäss nachgesuchte und gemeldete Schalenwild später verendet aufgefunden, wird auf den Einzug der Wildmarke verzichtet.
 
@@ -280,11 +284,11 @@ beschliesst:
 
 **Abschusskontrolle, Markierung**
 
-<sup>1</sup> Alle erlegten Wildtiere sind vor Besitzergreifung unter Angabe aller verlangten Informationen mit Kugelschreiber in das Abschusskontrollheft einzutragen und die Richtigkeit der Eintragung mit Unterschrift zu bestätigen.
+<sup>1</sup> Alle erlegten Wildtiere sind vor Besitzergreifung unter Angabe aller verlangten Informationen mit Kugelschreiber in das jeweilige Abschusskontrollheft einzutragen, und die Richtigkeit der Eintragung ist mit Unterschrift zu bestätigen.
 
 <sup>2</sup> Erlegte Rehe und Gämsen müssen noch am Abschussort vorschriftsgemäss mit einer gültigen Wildmarke versehen werden. Mit dem Anbringen der Wildmarke müssen Abschusstag und -monat durch Abtrennen der entsprechend beschrifteten Laschen angegeben werden.
 
-<sup>3</sup> Das persönliche, mit allen erforderlichen Eintragungen versehene und unterzeichnete Abschusskontrollheft ist spätestens bis zum 10. März an das Jagdinspektorat einzusenden.
+<sup>3</sup> Die persönlichen, mit allen erforderlichen Eintragungen versehenen und unterzeichneten Abschusskontrollhefte sind an das Jagdinspektorat einzusenden. Dieses legt die jeweiligen Fristen für die Einsendung fest.
 
 #### Art. 18
 
@@ -351,6 +355,14 @@ beschliesst:
 #### Art. T1-1
 
 <sup>1</sup> Jagdhunde, welche am 1. Dezember 2009 das dritte Altersjahr vollendet haben, müssen die Voraussetzung gemäss Artikel 7 Absatz 1 Buchstabe b nicht erfüllen.
+
+## T2 Übergangsbestimmung der Änderung vom 29.08.2022
+
+#### Art. T2-1
+
+<sup>1</sup> Artikel 4 Absätze 1, 1a, 3 und 4 ist ab dem 1. August 2024 anwendbar; die vor diesem Zeitpunkt ausgegebenen Gästekarten verlieren ihre Gültigkeit.
+
+<sup>2</sup> Artikel 11 Absatz 4 ist ab dem 1. August 2027 anwendbar.
 
 ## A1 Anhang 1: zu Artikel 21
 
