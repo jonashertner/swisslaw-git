@@ -4,7 +4,7 @@ number: "850.051.1"
 title: "RÈGLEMENT du 26.10.2005 d'application de la loi du 2 décembre 2003 sur l'action sociale vaudoise (RLASV)"
 short: RLASV
 language: fr
-version: 2021-01-01
+version: 2023-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051.1?id=86dc5911-3814-4eb8-baac-e4b1a20db83c"
 ---
 
@@ -872,6 +872,6 @@ Annexes [^57-1]
 
 1
 
-[Bareme RI](https://prestations.vd.ch/pub/blv-publication/api/actes/86dc5911-3814-4eb8-baac-e4b1a20db83c/annexes/1?dmev=01.01.2021)
+[Bareme RI](https://prestations.vd.ch/pub/blv-publication/api/actes/86dc5911-3814-4eb8-baac-e4b1a20db83c/annexes/1?dmev=01.03.2023)
 
 [^57-1]: Modif. 3 du 16.01.2008: Modification Annexes, Ann. 1; entrée en vigueur au 01.02.2008 · Modif. 4 du 11.01.2012: Modification Ann; entrée en vigueur au 01.07.2012; Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2012 · Modif. 5 du 16.05.2012: Modification Ann; entrée en vigueur au 01.07.2012 · Modif. 6 du 28.09.2016: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2017 · Modif. 10 du 01.02.2023: Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2023 · Modif. 11 du 10.09.2025: Introduction Art. 22a, Al. 3; entrée en vigueur au 01.03.2026; Introduction Art. 56a; entrée en vigueur au 01.03.2026; Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2026
