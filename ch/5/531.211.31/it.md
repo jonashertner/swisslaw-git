@@ -3,18 +3,18 @@ sr: "531.211.31"
 title: Ordinanza del DEFR del 7 ottobre 2019 concernente la liberazione di scorte obbligatorie di antiinfettivi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/588"
 language: it
-version: 2020-11-15
+version: 2023-03-01
 adopted: 2019-10-07
 in_force: 2019-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/588/20201115/it/xml/fedlex-data-admin-ch-eli-cc-2019-588-20201115-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/588/20201115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/588/20230301/it/xml/fedlex-data-admin-ch-eli-cc-2019-588-20230301-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/588/20230301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza del DEFR concernente la liberazione di scorte obbligatorie di antiinfettivi****
+# Ordinanza del DEFR concernente la liberazione di scorte obbligatorie di antiinfettivi
 
-del 7 ottobre 2019 (Stato 15 novembre 2020)[^t-1]
+del 7 ottobre 2019 (Stato 1° marzo 2023)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DEFR del 12 ott. 2020, in vigore dal 15 nov. 2020 ([RU 2020 4543](https://fedlex.data.admin.ch/eli/oc/2020/800)).
 
@@ -33,13 +33,13 @@ ordina:
 La presente ordinanza si applica ai seguenti antiinfettivi:
 
 <table>
-<tr><td>Codice-ATC[^1-2]</td><td>Principio attivo</td><td>Osservazioni</td></tr>
-<tr><td>J01</td><td>antibiotici per uso sistemico</td><td>forme parenterali</td></tr>
+<tr><th>Codice ATC[^1-2]</th><th>Principio attivo</th><th>Osservazioni</th></tr>
+<tr><td>J01</td><td>antibiotici per uso sistemico</td><td>forme di ogni tipo</td></tr>
 <tr><td>J02</td><td>antimicotici per uso sistemico</td><td>forme parenterali</td></tr>
 </table>
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DEFR del 12 ott. 2020, in vigore dal 15 nov. 2020 ([RU 2020 4543](https://fedlex.data.admin.ch/eli/oc/2020/800)).
-[^1-2]: Il codice ATC (Anatomical Therapeutic Chemical Classification System) può essere consultato in inglese (versione ufficiale) sul sito del Collaborating Centre for Drug Statistics Methodology dell’Organizzazione mondiale della sanità (OMS) all’indirizzo seguente: www.whocc.no &gt; ATC/DDD Index.
+[^1-1]: Nuovo testo giusta il n. I dell’O del DEFR del 13 feb. 2023, in vigore dal 1° mar. 2023 ([RU 2023 81](https://fedlex.data.admin.ch/eli/oc/2023/81)).
+[^1-2]: Il codice ATC (Anatomical Therapeutic Chemical Classification System) può essere consultato in inglese (versione ufficiale) sul sito del Collaborating Centre for Drug Statistics Methodology dell’Organizzazione mondiale della sanità (OMS) all’indirizzo seguente: [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
 
 #### Art. 2
 

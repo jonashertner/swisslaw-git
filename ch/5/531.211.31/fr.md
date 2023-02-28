@@ -3,18 +3,18 @@ sr: "531.211.31"
 title: "Ordonnance du DEFR du 7 octobre 2019 sur la libération de de réserves obligatoires d'anti-infectieux"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/588"
 language: fr
-version: 2020-11-15
+version: 2023-03-01
 adopted: 2019-10-07
 in_force: 2019-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/588/20201115/fr/xml/fedlex-data-admin-ch-eli-cc-2019-588-20201115-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/588/20201115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/588/20230301/fr/xml/fedlex-data-admin-ch-eli-cc-2019-588-20230301-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/588/20230301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du DEFR sur la libération de réserves obligatoires d’anti-infectieux****
+# Ordonnance du DEFR sur la libération de réserves obligatoires d’anti-infectieux
 
-du 7 octobre 2019 (Etat le 15 novembre 2020)[^t-1]
+du 7 octobre 2019 (État le 1<sup>er</sup> mars 2023)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 12 oct. 2020, en vigueur depuis le 15 nov. 2020 ([RO 2020 4543](https://fedlex.data.admin.ch/eli/oc/2020/800)).
 
@@ -33,13 +33,13 @@ arrête:
 La présente ordonnance s’applique aux anti-infectieux suivants:
 
 <table>
-<tr><td>Code ATC[^1-2]</td><td>Principe actif</td><td>Remarque</td></tr>
-<tr><td>J01</td><td>antibiotiques à usage systémique</td><td>administration parentérale</td></tr>
-<tr><td>J02</td><td>antimycotiques à usage systémique</td><td>administration parentérale</td></tr>
+<tr><th>Code ATC[^1-2]</th><th>Principe actif</th><th>Remarque</th></tr>
+<tr><td>J01</td><td>Antibiotiques à usage systémique</td><td>Toutes les voies d’administration</td></tr>
+<tr><td>J02</td><td>Antimycotiques à usage systémique</td><td>Administration parentérale</td></tr>
 </table>
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 12 oct. 2020, en vigueur depuis le 15 nov. 2020 ([RO 2020 4543](https://fedlex.data.admin.ch/eli/oc/2020/800)).
-[^1-2]: Les codes ATC (*Anatomical Therapeutic Chemical Classification System*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’Organisation mondiale de la santé (OMS) pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: www.whocc.no &gt; ATC/DDD Index.
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 13 fév. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 ([RO 2023 81](https://fedlex.data.admin.ch/eli/oc/2023/81)).
+[^1-2]: Les codes ATC (*Anatomical Therapeutic Chemical Classification System*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’Organisation mondiale de la santé (OMS) pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
 
 #### Art. 2
 

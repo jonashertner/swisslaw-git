@@ -3,18 +3,18 @@ sr: "531.211.31"
 title: Verordnung des WBF vom 7. Oktober 2019 über die Pflichtlagerfreigabe von Antiinfektiva
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/588"
 language: de
-version: 2020-11-15
+version: 2023-03-01
 adopted: 2019-10-07
 in_force: 2019-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/588/20201115/de/xml/fedlex-data-admin-ch-eli-cc-2019-588-20201115-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/588/20201115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/588/20230301/de/xml/fedlex-data-admin-ch-eli-cc-2019-588-20230301-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/588/20230301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des WBF über die Pflichtlagerfreigabe von Antiinfektiva****
+# Verordnung des WBF über die Pflichtlagerfreigabe von Antiinfektiva
 
-vom 7. Oktober 2019 (Stand am 15. November 2020)[^t-1]
+vom 7. Oktober 2019 (Stand am 1. März 2023)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des WBF vom 12. Okt. 2020, in Kraft seit 15. Nov. 2020 ([AS 2020 4543](https://fedlex.data.admin.ch/eli/oc/2020/800)).
 
@@ -33,13 +33,13 @@ verordnet:
 Diese Verordnung gilt für folgende Antiinfektiva:
 
 <table>
-<tr><td>ATC-Code[^1-2]</td><td>Wirkstoff</td><td>Bemerkung</td></tr>
-<tr><td>J01</td><td>Antibiotika zur systemischen Anwendung</td><td>Parenterale Applikationen</td></tr>
+<tr><th>ATC-Code[^1-2]</th><th>Wirkstoff</th><th>Bemerkung</th></tr>
+<tr><td>J01</td><td>Antibiotika zur systemischen Anwendung</td><td>Alle Applikationen</td></tr>
 <tr><td>J02</td><td>Antimykotika zur systemischen Anwendung</td><td>Parenterale Applikationen</td></tr>
 </table>
 
-[^1-1]: Fassung gemäss Ziff. I der V des WBF vom 12. Okt. 2020, in Kraft seit 15. Nov. 2020 ([AS 2020 4543](https://fedlex.data.admin.ch/eli/oc/2020/800)).
-[^1-2]: Der ATC-Code (Anatomical Therapeutic Chemical Classification System) kann auf Englisch (offizielle Fassung) auf der Website des Collaborating Centre for Drug Statistics Methodology der Weltgesundheitsorganisation (WHO) unter folgender Adresse abgerufen werden: www.whocc.no &gt; ATC/DDD Index.
+[^1-1]: Fassung gemäss Ziff. I der V des WBF vom 13. Febr. 2023, in Kraft seit 1. März 2023 ([AS 2023 81](https://fedlex.data.admin.ch/eli/oc/2023/81)).
+[^1-2]: Der ATC-Code (Anatomical Therapeutic Chemical Classification System) kann auf Englisch (offizielle Fassung) auf der Website des Collaborating Centre for Drug Statistics Methodology der Weltgesundheitsorganisation (WHO) unter folgender Adresse abgerufen werden: [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
 
 #### Art. 2
 
