@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Personalverordnung
 short: PV
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-23
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-11
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2754/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2788/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2754/pdf_file"
 
 (PV)
 
-vom 18.05.2005 (Stand 01.01.2023)
+vom 18.05.2005 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -2138,9 +2138,9 @@ beschliesst:
 
 **Ergebnisse**
 
-<sup>1</sup> Die wesentlichen Ergebnisse des Mitarbeitergesprächs werden schriftlich festgehalten. Sie sind von den Gesprächspartnerinnen und -partnern im Sinne der Kenntnisnahme zu unterzeichnen oder in einem beweissicheren elektronischen Dokument zu bestätigen.
+<sup>1</sup> Die wesentlichen Ergebnisse des Mitarbeitergesprächs werden schriftlich festgehalten. Die Gesprächspartnerinnen und -partner bestätigen die Kenntnisnahme der Ergebnisse.
 
-<sup>1a</sup> Sie werden beim zuständigen Personaldienst physisch oder elektronisch im Personaldossier abgelegt.
+<sup>1a</sup> Die Ergebnisse werden beim zuständigen Personaldienst im Personaldossier abgelegt.
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter erhalten eine Kopie der abgelegten Dokumente.
 
@@ -2273,7 +2273,7 @@ beschliesst:
 
 **Ausfertigung und Einreichung der Verpflichtung**
 
-<sup>1</sup> Die Antrag stellende Organisationseinheit fertigt den Vertrag über die Gewährung eines Beitrags und von Urlaub sowie über die Rückerstattungsverpflichtung aus und leitet eine unterzeichnete Kopie an das Personalamt weiter.
+<sup>1</sup> Die Antrag stellende Organisationseinheit fertigt den Vertrag über die Gewährung eines Beitrags und von Urlaub sowie über die Rückerstattungsverpflichtung aus und leitet eine Kopie des abgeschlossenen Vertrags an das Personalamt weiter.
 
 #### Art. 178
 
@@ -2597,7 +2597,7 @@ beschliesst:
 
 **Dienstweg**
 
-<sup>1</sup> Wo nichts anderes bestimmt ist, hat der schriftliche oder elektronische Verkehr zwischen den Mitarbeiterinnen und Mitarbeitern, den Ämtern und den Direktionen und der Staatskanzlei auf dem Dienstweg zu erfolgen. In Personalfragen können sich die Mitarbeiterinnen und Mitarbeiter direkt an die Personaldienste der Direktionen, der Staatskanzlei, der selbstständigen Organisationseinheiten und der Ämter wenden.
+<sup>1</sup> Wo nichts anderes bestimmt ist, hat der Verkehr zwischen den Mitarbeiterinnen und Mitarbeitern, den Ämtern und den Direktionen und der Staatskanzlei auf dem Dienstweg zu erfolgen. In Personalfragen können sich die Mitarbeiterinnen und Mitarbeiter direkt an die Personaldienste der Direktionen, der Staatskanzlei, der selbstständigen Organisationseinheiten und der Ämter wenden.
 
 #### Art. 208
 

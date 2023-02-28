@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Ordonnance sur le personnel
 short: OPers
 language: fr
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-23
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-11
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2754/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2788/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2754/pdf_file"
 
 (OPers)
 
-du 18.05.2005 (état au 01.01.2023)
+du 18.05.2005 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -2134,9 +2134,9 @@ arrête:
 
 **Résultats**
 
-<sup>1</sup> Les principaux résultats de l’entretien d'évaluation périodique sont consignés par écrit. Pour certifier qu'ils en ont pris connaissance, les participants et participantes à l’entretien les signent ou les entérinent dans un document numérique propre à constituer une preuve fiable.
+<sup>1</sup> Les principaux résultats de l’entretien d'évaluation périodique sont consignés par écrit. Les participantes et participants à l’entretien confirment avoir pris connaissance des résultats.
 
-<sup>1a</sup> Ils sont conservés sous forme physique ou électronique dans le dossier personnel tenu par le service du personnel compétent.
+<sup>1a</sup> Les résultats sont conservés dans le dossier personnel du service du personnel compétent.
 
 <sup>2</sup> Les agents et agentes reçoivent une copie des documents conservés dans le dossier personnel.
 
@@ -2269,7 +2269,7 @@ arrête:
 
 **Préparation et remise de l’engagement**
 
-<sup>1</sup> L’unité administrative qui présente la demande établit le contrat portant sur l’octroi d’une contribution ou d’un congé ainsi que sur l’obligation de rembourser, et en remet une copie signée à l’Office du personnel.
+<sup>1</sup> L’unité administrative qui présente la demande établit le contrat portant sur l’octroi d’une contribution ou d’un congé ainsi que sur l’obligation de rembourser, et en remet une copie à l’Office du personnel.
 
 #### Art. 178
 
@@ -2593,7 +2593,7 @@ arrête:
 
 **Voie de service**
 
-<sup>1</sup> Sauf disposition contraire, les communications écrites ou électroniques entre les agents et agentes, les offices et les Directions ou la Chancellerie d’Etat se font par la voie de service. Pour les questions de personnel, les agents et agentes peuvent s'adresser directement au service du personnel des Directions, de la Chancellerie d’Etat, des unités administratives autonomes et des offices.
+<sup>1</sup> Sauf disposition contraire, les communications entre les agents et agentes, les offices et les Directions ou la Chancellerie d’Etat se font par la voie de service. Pour les questions de personnel, les agents et agentes peuvent s'adresser directement au service du personnel des Directions, de la Chancellerie d’Etat, des unités administratives autonomes et des offices.
 
 #### Art. 208
 
