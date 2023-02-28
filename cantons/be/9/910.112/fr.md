@@ -4,13 +4,12 @@ number: "910.112"
 title: "Ordonnance sur la préservation des bases naturelles de la vie et des paysages *"
 short: OPBNP
 language: fr
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-10-19
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2701/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2799/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2701/pdf_file"
 
 (OPBNP)
 
-du 05.11.1997 (état au 01.01.2023)
+du 05.11.1997 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -172,7 +171,7 @@ arrête:
 
 <sup>3</sup> L'OAN peut édicter des directives formelles relatives à l'harmonisation de la teneur des projets de mise en réseau avec celle des plans et concepts communaux et régionaux existants, ainsi qu'au mode de saisie des données, pour autant que cette mesure soit requise pour l’efficacité de l’exécution.
 
-<sup>4</sup> Les projets de mise en réseau doivent être documentés électroniquement au moyen de géodonnées. L'OAN impose le modèle de géodonnées correspondant et veille à l'enregistrement et à la mise à jour des géodonnées dans la qualité requise.
+<sup>4</sup> Les projets de mise en réseau doivent être documentés au moyen de géodonnées. L'OAN impose le modèle de géodonnées correspondant et veille à l'enregistrement et à la mise à jour des géodonnées dans la qualité requise.
 
 #### Art. 15b
 
@@ -534,7 +533,7 @@ arrête:
 
 <sup>3</sup> Les plans devant être mis à l'enquête publique et les listes doivent être tenus à jour.
 
-<sup>4</sup> Les exploitants et les exploitantes signalent chaque année tout changement survenu dans le type d’exploitation ou dans les droits d’utilisation au moyen du formulaire de recensement électronique en vue du versement de paiements directs en vertu de l’OPD.
+<sup>4</sup> Les exploitants et les exploitantes signalent chaque année tout changement survenu dans le type d’exploitation ou dans les droits d’utilisation au moyen du formulaire de recensement en vue du versement de paiements directs en vertu de l’OPD.
 
 #### Art. 31
 

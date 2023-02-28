@@ -4,13 +4,12 @@ number: "910.112"
 title: Verordnung über die Erhaltung der Lebensgrundlagen und der Kulturlandschaft
 short: ELKV
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-10-19
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2701/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2799/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2701/pdf_file"
 
 (ELKV)
 
-vom 05.11.1997 (Stand 01.01.2023)
+vom 05.11.1997 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -174,7 +173,7 @@ beschliesst:
 
 <sup>3</sup> Das LANAT kann formale Vorgaben machen zur inhaltlichen Abstimmung der Vernetzungsprojekte auf vorhandene regionale und kommunale Pläne und Konzepte sowie zur Art der Datenerfassung, sofern dies für den effizienten Vollzug notwendig ist.
 
-<sup>4</sup> Die Vernetzungsprojekte sind mittels Geodaten elektronisch zu dokumentieren. Das LANAT gibt das entsprechende Geodatenmodell vor und sorgt für die Erfassung und Nachführung der Geodaten in der vorgegebenen Qualität.
+<sup>4</sup> Die Vernetzungsprojekte sind durch Geodaten zu dokumentieren. Das LANAT gibt das entsprechende Geodatenmodell vor und sorgt für die Erfassung und Nachführung der Geodaten in der vorgegebenen Qualität.
 
 #### Art. 15b
 
@@ -539,7 +538,7 @@ beschliesst:
 
 <sup>3</sup> Die öffentlich aufzulegenden Pläne sowie die Verzeichnisse sind nachzuführen.
 
-<sup>4</sup> Die Bewirtschafterinnen und Bewirtschafter vermerken Änderungen in der Bewirtschaftungsart oder in der Nutzungsberechtigung jährlich im elektronischen Erhebungsformular für die Ausrichtung der Direktzahlungen gemäss DZV.
+<sup>4</sup> Die Bewirtschafterinnen und Bewirtschafter vermerken Änderungen in der Bewirtschaftungsart oder in der Nutzungsberechtigung jährlich im Erhebungsformular für die Ausrichtung der Direktzahlungen gemäss DZV.
 
 #### Art. 31
 
