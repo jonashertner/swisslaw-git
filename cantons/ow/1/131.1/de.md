@@ -4,13 +4,13 @@ number: "131.1"
 title: Gesetz über die Gesetzessammlung und das Amtsblatt
 short: "Publikationsgesetz, kPublG"
 language: de
-version: 2020-01-01
-valid_until: 2023-02-28
-version_adopted: 2019-06-28
+version: 2023-03-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-01
 adopted: 2025-10-23
 in_force: 2026-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/131.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1654/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1783/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1654/pdf_file"
 
 (Publikationsgesetz, kPublG)
 
-vom 26.05.2000 (Stand 01.01.2020)
+vom 26.05.2000 (Stand 01.03.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -102,7 +102,7 @@ beschliesst:
 
 **Abgabe von Erlassen aus der elektronischen Gesetzesdatenbank**
 
-<sup>1</sup> Ein jährlich nachgeführter Ausdruck der elektronischen Gesetzesdatenbank, einschliesslich der Erlasse und Vereinbarungen, die durch Verweisung gemäss Art. 11 dieses Gesetzes veröffentlicht wurden, liegt bei der Staatskanzlei zur Einsicht auf.
+<sup>1</sup> Die Staatskanzlei gewährt kostenlos Einsicht in die elektronische Gesetzesdatenbank. Ein jährlicher Sicherheitsausdruck der elektronischen Gesetzesdatenbank wird im Staatsarchiv hinterlegt.
 
 <sup>2</sup> Aus der elektronischen Gesetzesdatenbank können gegen Kostenersatz bei der Staatskanzlei bezogen werden:
 
@@ -222,7 +222,7 @@ beschliesst:
 
 <sup>3</sup> Im Amtsblatt des Kantons können private Anzeigen natürlicher und juristischer Personen aufgenommen werden. Es besteht kein Anspruch auf Aufnahme. Aufgenommene Anzeigen und Aufrufe politischen Inhalts müssen durch den Namen einer verantwortlichen natürlichen oder juristischen Person gezeichnet sein.
 
-<sup>4</sup> Die Herausgabe und/oder die Herstellung des Amtsblatts können vom Regierungsrat durch Vertrag Dritten übertragen werden.
+<sup>4</sup> Die Herausgabe und/oder die Herstellung des Amtsblatts können vom Regierungsrat durch Vertrag Dritten übertragen werden. Es wird auf der Webseite des Kantons aufgeschaltet.
 
 #### Art. 13
 
@@ -296,6 +296,8 @@ geändert durch:
 
 \- das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. I. 3. und OGS 2010, 41),
 
-\- Nachtrag vom 28. Juni 2019 (OGS 2019, 31), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.04), in Kraft seit 1. Januar 2020 (OGS 2019, 40)
+\- Nachtrag vom 28. Juni 2019 (OGS 2019, 31), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.04), in Kraft seit 1. Januar 2020 (OGS 2019, 40),
+
+\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1)
 
 OGS 2000, 32
