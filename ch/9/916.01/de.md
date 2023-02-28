@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2023-02-01
+version: 2023-03-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20230201-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20230301/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20230301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20230301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20230201/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Februar 2023)
+vom 26. Oktober 2011 (Stand am 1. März 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -2895,7 +2895,7 @@ Anhang 3[^t-3]
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), Ziff. I Abs. 1 der V vom 10. Juni 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), Ziff. I der V des BLW vom 9. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), vom 26. Sept. 2022 ([AS 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), Ziff. II der V des BLW vom 23. Sept. 2022 ([AS 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)), Ziff. I der V des BLW vom 5. Dez. 2022 ([AS 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)) und vom 9. Jan. 2023, in Kraft seit 1. Febr. 2023 ([AS 2023 14](https://fedlex.data.admin.ch/eli/oc/2023/14)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), Ziff. I Abs. 1 der V vom 10. Juni 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), Ziff. I der V des BLW vom 9. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), vom 26. Sept. 2022 ([AS 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), Ziff. II der V des BLW vom 23. Sept. 2022 ([AS 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)), Ziff. I der V des BLW vom 5. Dez. 2022 ([AS 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), vom 9. Jan. 2023 ([AS 2023 14](https://fedlex.data.admin.ch/eli/oc/2023/14)) und vom Febr. 2023, in Kraft seit 1. März 2023 ([AS 2023 80](https://fedlex.data.admin.ch/eli/oc/2023/80)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -3017,7 +3017,9 @@ Anhang 3[^t-3]
 <tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9250**</td></tr>
 <tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2023: 1. bis 31. Januar 2023</td><td>**5000**</td></tr>
 <tr><td>14.2.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2023: 1. Februar bis 30. Juni 2023</td><td>**13 000**</td></tr>
+<tr><td>14.2.3</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2023: 1. März bis 30. Juni 2023</td><td>**15** **500**</td></tr>
 <tr><td>14.3</td><td>Speisekartoffeln</td><td>**6500**</td></tr>
+<tr><td>14.3.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2023: 1. März bis 15. Juli 2023</td><td>**6000**</td></tr>
 <tr><td>14.4</td><td>Kartoffelprodukte, davon:</td><td>**4000**</td></tr>
 <tr><td>14.4.1</td><td>Warenkategorie Halbfabrikate</td><td>**1000**</td></tr>
 <tr><td>14.4.2</td><td>Warenkategorie Fertigprodukte</td><td>**3000**</td></tr>
