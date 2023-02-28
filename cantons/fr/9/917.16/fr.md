@@ -3,13 +3,12 @@ canton: FR
 number: "917.16"
 title: "Arrêté concernant les subventions cantonales en faveur d'améliorations foncières"
 language: fr
-version: 2022-01-01
-valid_until: 2023-02-28
-version_adopted: 2021-12-14
+version: 2023-03-01
+version_adopted: 2023-02-14
 adopted: 1995-12-19
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/917.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8568/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8570/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8568/pdf_file"
 
 Améliorations foncières, subventions cantonales – A
 
-du 19.12.1995 (version entrée en vigueur le 01.01.2022)
+du 19.12.1995 (version entrée en vigueur le 01.03.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -86,16 +85,18 @@ Arrête:
 
 <sup>1</sup> Les entreprises d'améliorations foncières énumérées ci-après peuvent être subventionnées, jusqu'à concurrence des taux et des montants forfaitaires suivants (abréviations: Pl signifie «plaine», Pc signifie «préalpine des collines», M signifie «montagne»):
 
-- a) Remaniements parcellaires: régions Pl, 28 %; régions Pc + M1, 30 %; régions M2 à M4, 32 %. Un supplément maximal de 3 points de pourcentage peut être attribué exceptionnellement, notamment si le financement de l'entreprise représente une charge extraordinaire par rapport à la région considérée. Avant de se prononcer, le Conseil d'Etat prend l'avis de la Commission pour l'amélioration des structures en agriculture.
-- b) Constructions rurales, excepté les bâtiments et les équipements destinés à la transformation, au stockage et à la commercialisation de produits agricoles régionaux: en région Pc et M1 à M4, forfait de 104 % du forfait fédéral; en région Pl, forfait de 59 % du forfait fédéral prévu en région Pc.
+- a) Remaniements parcellaires: régions Pl, 28 %; régions Pc + M1, 30 %; régions M2 à M4, 32 %. Un supplément maximal de 3 points de pourcentage peut être attribué exceptionnellement, notamment si le financement de l'entreprise représente une charge extraordinaire par rapport à la région considérée. Avant de se prononcer, le Conseil d'Etat prend l'avis de la Commission pour l'amélioration des structures en agriculture;
+- b) Constructions rurales, excepté les bâtiments et les équipements destinés à la transformation, au stockage et à la commercialisation de produits agricoles régionaux: en région Pc et M1 à M4, forfait de 104 % du forfait fédéral; en région Pl, forfait de 59 % du forfait fédéral prévu en région Pc;
 - c) Chemins:
-  - 1\. Chemins d'alpage: régions Pc + M1, 27 %; régions M2 à M4, 30 %.
+  - 1\. Chemins d'alpage: régions Pc + M1, 27 %; régions M2 à M4, 30 %;
   - 2\. Chemins d'accès à des fermes et chemins d'exploitation avec groupement volontaire de parcelles ou sans groupement lorsque celui-ci n'est pas nécessaire:
   - 2\.1. mesures individuelles: régions Pl, 20 %; régions Pc + M1, 23 %; régions M2 à M4, 26 %;
-  - 2\.2. mesures collectives: régions Pl, 25 %; régions Pc + M1, 27 %; régions M2 à M4, 30 %.
-  - 3\. Chemins d'alpage et chemins d'accès à des fermes réalisés dans des circonstances exceptionnelles (coûts très élevés et moyens financiers très faibles du maître de l'ouvrage): régions Pl, 30 %; régions Pc + M1, 40 %; régions M2 à M4, 45 %.
+  - 2\.2. mesures collectives: régions Pl, 25 %; régions Pc + M1, 27 %; régions M2 à M4, 30 %;
+  - 3\. Chemins d'alpage et chemins d'accès à des fermes réalisés dans des circonstances exceptionnelles (coûts très élevés et moyens financiers très faibles du maître de l'ouvrage): régions Pl, 30 %; régions Pc + M1, 40 %; régions M2 à M4, 45 %;
   - 4\. …
-- d) Projet d'entreprise à buts multiples: taux de 68 %; le taux de 68 % est un taux maximal qui tient compte de l'aide accordée sur la base d'autres dispositions légales fédérales ou cantonales.
+- c1) Irrigations: 35 %. L'octroi de la subvention est subordonné pour chaque projet à l'élaboration et à la mise en place d'un concept d'efficience de l'utilisation de l'eau et de protection des sols;
+- c2) Approvisionnements en eau des alpages: 35 %;
+- d) Projet d'entreprise à buts multiples: taux de 68 %; le taux de 68 % est un taux maximal qui tient compte de l'aide accordée sur la base d'autres dispositions légales fédérales ou cantonales;
 - e) Autres entreprises d'améliorations structurelles reconnues par la Confédération et ne figurant pas sous les lettres a à d:
   - 1\. mesures collectives d'envergure et projets de développement régional: taux de 80 % du taux fédéral;
   - 2\. autres mesures collectives: taux de 90 % du taux fédéral;

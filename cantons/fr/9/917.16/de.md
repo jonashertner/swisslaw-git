@@ -3,13 +3,12 @@ canton: FR
 number: "917.16"
 title: Beschluss über die Kantonsbeiträge an die Bodenverbesserungen
 language: de
-version: 2022-01-01
-valid_until: 2023-02-28
-version_adopted: 2021-12-14
+version: 2023-03-01
+version_adopted: 2023-02-14
 adopted: 1995-12-19
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/917.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/8568/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8570/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8568/pdf_file"
 
 Bodenverbesserungen, Kantonsbeiträge – B
 
-vom 19.12.1995 (Fassung in Kraft getreten am 01.01.2022)
+vom 19.12.1995 (Fassung in Kraft getreten am 01.03.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -84,18 +83,20 @@ beschliesst:
 
 #### Art. 6
 
-<sup>1</sup> An die unten aufgeführten Bodenverbesserungsunternehmen können Beiträge bis zu den folgenden Höchstsätzen und Pauschalbeträgen ausgerichtet werden (Abkürzungen: Tz bedeutet "Talgebiet", VHz "Voralpine Hügelzone" und Bz bedeutet "Bergzone"):
+<sup>1</sup> An die unten aufgeführten Bodenverbesserungsunternehmen können Beiträge bis zu den folgenden Höchstsätzen und Pauschalbeträgen ausgerichtet werden (Abkürzungen: Tz bedeutet «Talgebiet», VHz «Voralpine Hügelzone» und Bz bedeutet «Bergzone»):
 
-- a) Güterzusammenlegungen: Tz, 28 %; VHz + Bz 1, 30 %; Bz 2–4, 32 %. Ausnahmsweise kann ein Zuschlag von max. 3 Prozentpunkten gewährt werden, insbesondere wenn die Finanzierung des Unternehmens eine ausserordentliche Belastung für die entsprechende Region darstellt. Bevor sich der Staatsrat dazu äussert, holt er die Stellungnahme der Kommission für die Strukturverbesserungen in der Landwirtschaft ein.
-- b) Landwirtschaftliche Hochbauten mit Ausnahme von Bauten und Einrichtungen zur Aufbereitung, Lagerung und Vermarktung regionaler landwirtschaftlicher Erzeugnisse: in der VHz und Bz 1–4, Pauschale von 104 % des Pauschalbeitrags des Bundes; in der Tz, Pauschale von 59 % des für die VHz vorgesehenen Pauschalbeitrags des Bundes.
+- a) Güterzusammenlegungen: Tz, 28 %; VHz + Bz 1, 30 %; Bz 2–4, 32 %. Ausnahmsweise kann ein Zuschlag von max. 3 Prozentpunkten gewährt werden, insbesondere wenn die Finanzierung des Unternehmens eine ausserordentliche Belastung für die entsprechende Region darstellt. Bevor sich der Staatsrat dazu äussert, holt er die Stellungnahme der Kommission für die Strukturverbesserungen in der Landwirtschaft ein;
+- b) Landwirtschaftliche Hochbauten mit Ausnahme von Bauten und Einrichtungen zur Aufbereitung, Lagerung und Vermarktung regionaler landwirtschaftlicher Erzeugnisse: in der VHz und Bz 1–4, Pauschale von 104 % des Pauschalbeitrags des Bundes; in der Tz, Pauschale von 59 % des für die VHz vorgesehenen Pauschalbeitrags des Bundes;
 - c) Wege:
-  - 1\. Alpwege: VHz + Bz 1, 27 %; Bz 2-4, 30 %.
+  - 1\. Alpwege: VHz + Bz 1, 27 %; Bz 2-4, 30 %;
   - 2\. Hofzufahrten und Güterwege in Zusammenhang mit einer freiwilligen Flurbereinigung oder, falls nicht nötig, ohne eine solche
   - 2\.1. einzelbetriebliche Massnahmen: Tz, 20 %; VHz + Bz 1, 23 %; Bz 2-4, 26 %;
-  - 2\.2. gemeinschaftliche Massnahmen: Tz: 25 %; VHz + Bz 1, 27 %; Bz 2-4, 30 %.
-  - 3\. Alpwege und Hofzufahrten bei aussergewöhnlichen Umständen (sehr hohe Kosten und beschränkte finanzielle Mittel der Bauherrschaft): Tz, 30 %; VHz + Bz 1, 40 %; Bz 2-4, 45 %.
+  - 2\.2. gemeinschaftliche Massnahmen: Tz: 25 %; VHz + Bz 1, 27 %; Bz 2-4, 30 %;
+  - 3\. Alpwege und Hofzufahrten bei aussergewöhnlichen Umständen (sehr hohe Kosten und beschränkte finanzielle Mittel der Bauherrschaft): Tz, 30 %; VHz + Bz 1, 40 %; Bz 2-4, 45 %;
   - 4\. …
-- d) Projekt für Mehrzweckunternehmen: Satz von 68 %; der Satz von 68 % ist ein Höchstsatz, der der aufgrund anderer eidgenössischer oder kantonaler Gesetzesbestimmungen gewährten Hilfe Rechnung trägt.
+- c1) Bewässerungen: 35 %. Ein Beitrag für ein Projekt ist jeweils an die Bedingung geknüpft, dass ein Konzept für eine effiziente Wassernutzung und den Bodenschutz ausgearbeitet und umgesetzt wird;
+- c2) Wasserversorgungen von Alpen: 35 %;
+- d) Projekt für Mehrzweckunternehmen: Satz von 68 %; der Satz von 68 % ist ein Höchstsatz, der der aufgrund anderer eidgenössischer oder kantonaler Gesetzesbestimmungen gewährten Hilfe Rechnung trägt;
 - e) Weitere vom Bund anerkannte Bodenverbesserungsunternehmen, die nicht in den Buchstaben a–d aufgeführt sind:
   - 1\. umfassende gemeinschaftliche Massnahmen und Projekte zur regionalen Entwicklung: Satz von 80 % des Satzes des Bundes;
   - 2\. übrige gemeinschaftliche Massnahmen: Satz von 90 % des Satzes des Bundes;
