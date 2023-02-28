@@ -4,13 +4,13 @@ number: "130.1"
 title: Staatsverwaltungsgesetz
 short: StVG
 language: de
-version: 2020-01-01
-valid_until: 2023-02-28
-version_adopted: 2019-06-28
+version: 2023-03-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-01
 adopted: 1997-06-08
 in_force: 1997-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/130.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1650/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1782/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1650/pdf_file"
 
 (StVG)
 
-vom 08.06.1997 (Stand 01.01.2020)
+vom 08.06.1997 (Stand 01.03.2023)
 
 Das Volk des Kantons Obwalden,
 
@@ -64,7 +64,7 @@ beschliesst:
 
 **Information**
 
-<sup>1</sup> Die Staatsverwaltung informiert von sich aus oder auf Anfrage über ihre Tätigkeit, soweit keine öffentliche oder schützenswerte private Interessen entgegenstehen.
+<sup>1</sup> Die Staatsverwaltung informiert von sich aus über ihre Tätigkeit, soweit keine öffentliche oder schützenswerte private Interessen entgegenstehen.
 
 ### 1.2. Verhältnis zum Kantonsrat
 
@@ -268,7 +268,7 @@ beschliesst:
 
 <sup>1</sup> Wer im Staatsdienst steht, unterliegt dem Amtsgeheimnis.
 
-<sup>2</sup> Geheimzuhalten sind Angelegenheiten, die ihrer Natur nach oder nach besonderer Vorschrift geheim sind.
+<sup>2</sup> Geheimzuhalten sind Angelegenheiten, die ihrer Natur nach oder nach besonderer Vorschrift geheim sind. Vorbehalten bleiben die Bestimmungen des Gesetzes über das Öffentlichkeitsprinzip.
 
 <sup>3</sup> Das Amtsgeheimnis besteht nach der Auflösung des Dienstverhältnisses weiter.
 
@@ -753,6 +753,8 @@ geändert durch:
 
 \- Nachtrag vom 17. Dezember 2018 (OGS 2018, 44), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.08), in Kraft seit 1. Januar 2019 (OGS 2019, 3),
 
-\- Nachtrag vom 28. Juni 2019 (OGS 2019, 30), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.03) , in Kraft seit 1. Januar 2020 (OGS 2019, 40)
+\- Nachtrag vom 28. Juni 2019 (OGS 2019, 30), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.03) , in Kraft seit 1. Januar 2020 (OGS 2019, 40),
+
+\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1)
 
 OGS 1997, 83
