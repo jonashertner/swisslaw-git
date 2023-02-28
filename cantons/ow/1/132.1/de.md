@@ -4,13 +4,12 @@ number: "132.1"
 title: Gesetz über den Kantonsrat
 short: "Kantonsratsgesetz, KRG"
 language: de
-version: 2018-01-01
-valid_until: 2023-02-28
-version_adopted: 2017-05-31
+version: 2023-03-01
+version_adopted: 2022-12-01
 adopted: 2005-04-21
 in_force: 2006-06-30
 url: "http://gdb.ow.ch/app/de/texts_of_law/132.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1652/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1784/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1652/pdf_file"
 
 (Kantonsratsgesetz, KRG)
 
-vom 21.04.2005 (Stand 01.01.2018)
+vom 21.04.2005 (Stand 01.03.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -338,7 +337,7 @@ beschliesst:
 
 <sup>1</sup> Die Kommissionsberatungen dienen der freien Meinungsbildung.
 
-<sup>2</sup> Nicht bekannt gegeben werden dürfen:
+<sup>2</sup> Bis zur Beschlussfassung durch den Kantonsrat bzw. bis zum Abschluss der Kommissionsarbeit dürfen nicht bekannt gegeben werden:
 
 - a. dem Amtsgeheimnis unterstehende Gegenstände der Kommissionsberatungen;
 - b. die Urheber einzelner Meinungsäusserungen.
@@ -773,6 +772,8 @@ beschliesst:
 
 <sup>1</sup> Der Kantonsrat erlässt zum Vollzug dieses Gesetzes eine Geschäftsordnung. Er regelt insbesondere den allgemeinen Ratsbetrieb, die Verfahrensordnung und die Protokollführung.
 
+<sup>2</sup> Er kann die Einsicht in amtliche Dokumente einschränken.
+
 #### Art. 66
 
 **Änderung bisherigen Rechts**
@@ -819,6 +820,8 @@ geändert durch:
 
 \- Gesetz über die Anpassungen im Anschluss an die Evaluation der Justizreform (Rechtspflegebehörden) vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 54 und 2015, 6),
 
-\- Nachtrag zum Bürgerrechtsgesetz vom 31. Mai 2017 (OGS 2017, 32), Botschaft und Vorlage des Regierungsrats vom 10. Januar 2017, Kantonsratssitzungen vom 24. März und 31. Mai 2017 (22.17.01), Berichtigung (Referendumsfrist) vom 14. Juni 2017 (OGS 2017, 37), in Kraft seit 1. Januar 2018
+\- Nachtrag zum Bürgerrechtsgesetz vom 31. Mai 2017 (OGS 2017, 32), Botschaft und Vorlage des Regierungsrats vom 10. Januar 2017, Kantonsratssitzungen vom 24. März und 31. Mai 2017 (22.17.01), Berichtigung (Referendumsfrist) vom 14. Juni 2017 (OGS 2017, 37), in Kraft seit 1. Januar 2018,
+
+\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1)
 
 OGS 2005, 27
