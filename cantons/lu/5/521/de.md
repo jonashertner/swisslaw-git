@@ -3,20 +3,20 @@ canton: LU
 number: "521"
 title: "Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2022-01-01
-valid_until: 2023-02-28
-version_adopted: 2021-11-25
+version: 2023-03-01
+valid_until: 2023-08-31
+version_adopted: 2023-03-29
 adopted: 2014-06-13
 in_force: 2014-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/521"
-pdf: "https://srl.lu.ch/api/de/versions/4033/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4065/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz
 
-vom 13.06.2014 (Stand 01.01.2022)
+vom 13.06.2014 (Stand 01.03.2023)
 
 Der Fachhochschulrat der Hochschule Luzern,
 
@@ -605,7 +605,7 @@ beschliesst:
 - a.
   - 1\. für den Bachelor of Science in Business Administration: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Wirtschaft und Dienstleistungen in Verbindung mit einer kaufmännischen Grundbildung,
   - 2\. für den Bachelor of Science in Business Psychology: eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
-  - 3\. für den Bachelor of Science in Mobility, Data Science and Economics: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Technik, Architektur und Life Sciences oder Wirtschaft und Dienstleistungen in Verbindung mit einer technischen oder kaufmännischen Grundbildung,
+  - 3\. für den Bachelor of Science in Mobility, Data Science and Economics: eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
 - b. eine eidgenössisch anerkannte Berufsmaturität ohne Grundbildung im jeweiligen Fachbereich und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
 - c. eine anerkannte gymnasiale Maturität und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
 - d. eine eidgenössisch anerkannte Fachmaturität und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
