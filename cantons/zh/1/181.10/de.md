@@ -3,11 +3,11 @@ canton: ZH
 number: "181.10"
 title: Kirchenordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2023-03-01
+version: "2023-03-01"
+nachtrag: "120"
+valid_until: 2024-01-01
 adopted: 2009-03-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_10-2009_03_17-2010_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_10-2009_03_17-2010_01_01-120.html"
 text: pdf
 ---
 
@@ -59,7 +59,7 @@ Zürich besteht aufgrund des Wortes Gottes, das im Evangelium von Jesus Christus
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 3
 
@@ -143,17 +143,21 @@ der Welt.
 
 <sup>3</sup> Sie setzt sich für den Zusammenhalt des schweizerischen Protestantismus ein.
 
+[^9-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+
 #### Art. 10
 
-**b. Schweizerischer Evangelischer Kirchenbund**
+**b. Evangelischreformierte Kirche Schweiz EKS34**
 
-Die Landeskirche ist Mitglied des Schweizerischen Evangelischen Kirchenbundes SEK.
+Die Landeskirche ist Mitglied der Evangelisch-reformierten Kirche Schweiz EKS[^9-1].
+
+[^10-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 11
 
 **c. In Europa und weltweit**
 
-Die Landeskirche ist durch den Schweizerischen Evangelischen Kirchenbund verbunden mit der Gemeinschaft Evangelischer Kirchen in Europa GEKE, der Konferenz Europäischer Kirchen KEK, dem Reformierten Weltbund RWB und dem Ökumenischen Rat der Kirchen ÖRK.
+Die Landeskirche ist durch die Evangelisch-reformierte Kirche Schweiz EKS[^10-1] verbunden mit der Gemeinschaft Evangelischer Kirchen in Europa GEKE, der Konferenz Europäischer Kirchen KEK, dem Reformierten Weltbund RWB und dem Ökumenischen Rat der Kirchen ÖRK.
 
 #### Art. 12
 
@@ -177,11 +181,13 @@ geliums in Wort und Tat als Auftrag im weltweiten Bezug.
 
 <sup>2</sup> Sie arbeitet mit den schweizerischen Missionswerken zusammen, namentlich mit mission 21.
 
-<sup>3</sup> Sie unterstützt insbesondere das Hilfswerk der Evangelischen Kirchen Schweiz HEKS sowie Brot für alle BFA als Werke des Schweizerischen Evangelischen Kirchenbundes.
+<sup>3</sup> Sie unterstützt insbesondere das Hilfswerk der Evangelischen Kirchen Schweiz HEKS als Werk der Evangelisch-reformierten Kirche Schweiz.[^13-1]
 
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
+
+[^13-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 14
 
@@ -312,7 +318,7 @@ Arbeitsgruppen sowie Pfarrerinnen, Pfarrer, Angestellte und Freiwillige sind üb
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Der Kirchenrat ist in allen Fällen für die Entbindung vom Amtsgeheimnis zuständig.
 
@@ -326,17 +332,18 @@ Art. 23[^22-2] <sup>1</sup> Die Bearbeitung und Bekanntgabe von Informationen, P
 
 - b. dem Kanton, den politischen Gemeinden und den Schulgemeinden,
 
-- c. den Mitgliedskirchen des Schweizerischen Evangelischen Kirchenbundes sowie ihren Kirchgemeinden und Pfarrämtern.
+- c. den Mitgliedskirchen der Evangelisch-reformierten Kirche Schweiz EKS[^22-3] sowie ihren Kirchgemeinden und Pfarrämtern.
 
 <sup>4</sup> Der Kirchenrat regelt die Einzelheiten in einer Verordnung. Er kann diese gemeinsam mit den weiteren kantonalen kirchlichen Körperschaften erlassen.
 
 [^22-1]: LS 170.4.
 [^22-2]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
-[^22-3]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^22-3]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^22-4]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
 #### Art. 23 a
 
-**Haftung**[^22-3]
+**Haftung**[^22-4]
 
 **Die Haftung für Handlungen von kirchlichen Behör-**
 
@@ -406,7 +413,7 @@ Der Kirchenrat fördert Bestrebungen zur Gewinnung von Mitgliedern der Landeskir
 
 **7**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 [^28-1]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
@@ -526,7 +533,7 @@ oder eines Pfarrers. Ausnahmen bedürfen der Zustimmung der Kirchenpflege und de
 
 **9**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 37
 
@@ -658,7 +665,7 @@ Jesus Christus mit seiner Gemeinde geschlossen hat. Es ist Bekenntnis des Glaube
 
 **11**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 50
 
@@ -746,9 +753,11 @@ führen a. die von der Kirchenpflege festgelegten weiteren Gottesdienste,
 
 <sup>1</sup> Die kirchliche Trauung ist ein Gottesdienst.
 
-<sup>2</sup> In diesem bekräftigt das Brautpaar vor Gott und der Gemeinde sein Ja zueinander und bittet um den Segen Gottes.
+<sup>2</sup> In diesem bekräftigt das Ehepaar vor Gott und der Gemeinde sein Ja zueinander und bittet um den Segen Gottes.[^57-1]
 
 <sup>3</sup> Der kirchlichen Trauung geht die zivile Eheschliessung voraus.
+
+[^57-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 58
 
@@ -758,13 +767,15 @@ führen a. die von der Kirchenpflege festgelegten weiteren Gottesdienste,
 
 eine Pfarrerin oder einen Pfarrer der Landeskirche trauen zu lassen.
 
-<sup>2</sup> Pfarrerinnen und Pfarrer einer Kirchgemeinde sind zur Übernahme einer Trauung verpflichtet, wenn die Braut oder der Bräutigam Mitglied dieser Kirchgemeinde ist und die gottesdienstliche Feier dort oder in der näheren Umgebung stattfindet. In allen anderen Fällen übernehmen sie Trauungen im Rahmen ihrer Möglichkeiten oder sind behilflich bei der Suche einer Vertretung.
+<sup>2</sup> Pfarrerinnen und Pfarrer einer Kirchgemeinde sind zur Übernahme einer Trauung verpflichtet, wenn ein Teil des Ehepaares Mitglied dieser Kirchgemeinde ist und die gottesdienstliche Feier dort oder in der näheren Umgebung stattfindet. In allen anderen Fällen übernehmen sie Trauungen im Rahmen ihrer Möglichkeiten oder sind behilflich bei der Suche einer Vertretung.[^58-1]
 
 <sup>3</sup> Pfarrerinnen und Pfarrer, die auswärts eine Trauung übernehmen, verständigen sich im Voraus mit dem Pfarramt am Ort der Trauung.
 
 **13**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
+
+[^58-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 59
 
@@ -772,13 +783,13 @@ eine Pfarrerin oder einen Pfarrer der Landeskirche trauen zu lassen.
 
 <sup>1</sup> Die Trauung findet in einer Kirche statt. Die Pfarrerin
 
-oder der Pfarrer kann die Trauung auf Anfrage des Brautpaares an einem anderen Ort durchführen.[^59-1]
+oder der Pfarrer kann die Trauung auf Anfrage des Ehepaares an einem anderen Ort durchführen.[^59-1]
 
 <sup>2</sup> Bei der Wahl eines anderen Ortes ist der Bedeutung und der Würde des Gottesdienstes Rechnung zu tragen.
 
 - c. Kirchliche Abdankung
 
-[^59-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^59-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 60
 
@@ -872,23 +883,17 @@ deln dazu bei, persönlicher und sozialer Not vorzubeugen, diese zu lindern oder
 
 **15**
 
-- 1\. 1. 23 - 119
-
-#### Art. 67
+- 1\. 4. 23 - 120 Art. 67[^66-1] <sup>1</sup> Die Kirchgemeinden verantworten das diakonische Handeln am Ort und in übergemeindlicher Zusammenarbeit. Sie richten sich dabei nach den örtlichen und regionalen Erfordernissen sowie nach den Beschlüssen der Kirchensynode. Der Kirchenrat unterstützt die Kirchgemeinden im Wahrnehmen ihrer diakonischen Aufgaben.
 
 **Orte**
 
-<sup>1</sup> Die Kirchgemeinden verantworten das diakonische Han-
-
-deln am Ort und in übergemeindlicher Zusammenarbeit. Sie richten sich dabei nach den örtlichen und regionalen Erfordernissen sowie nach den Beschlüssen der Kirchensynode. Der Kirchenrat unterstützt die Kirchgemeinden im Wahrnehmen ihrer diakonischen Aufgaben.
-
 <sup>2</sup> Die Landeskirche trägt regionale und gesamtkirchliche Aufgaben mit und fördert entsprechende Projekte und Werke.
 
-<sup>3</sup> Landeskirche und Kirchgemeinden tragen namentlich mit an der Bürgschafts- und Darlehensgenossenschaft BüDa als Institution der Landeskirche.
+<sup>3</sup> Landeskirche und Kirchgemeinden können diakonische Aufgaben in ökumenischer Zusammenarbeit sowie in Partnerschaft mit staatlichen oder privaten Fachstellen und Institutionen wahrnehmen.
 
-<sup>4</sup> Landeskirche und Kirchgemeinden können diakonische Aufgaben in ökumenischer Zusammenarbeit sowie in Partnerschaft mit staatlichen oder privaten Fachstellen und Institutionen wahrnehmen.
+<sup>4</sup> Landeskirche und Kirchgemeinden setzen sich ein für Aufgaben und Projekte weltweiter Diakonie, insbesondere in Zusammenarbeit mit dem Hilfswerk der Evangelischen Kirchen Schweiz HEKS und mit mission 21.
 
-<sup>5</sup> Landeskirche und Kirchgemeinden setzen sich ein für Aufgaben und Projekte weltweiter Diakonie, insbesondere in Zusammenarbeit mit dem Hilfswerk der Evangelischen Kirchen Schweiz HEKS, mit Brot für alle BFA und mit mission 21.
+[^66-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 ### C. Seelsorge
 
@@ -974,7 +979,7 @@ menarbeit zwischen Kirche und Schule.
 
 **17**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 - c. Kirchliche Religionspädagogik
 
@@ -1094,7 +1099,7 @@ tung der Zürcher Bibel und von Publikationen insbesondere aus den Bereichen The
 
 **19**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Sie beteiligt sich zu diesem Zweck am Theologischen Verlag Zürich TVZ.
 
@@ -1210,7 +1215,7 @@ Kirchgemeinden und Landeskirche fördern im Rahmen ihres Auftrages kulturelle Vo
 
 **21**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Der Kirchenrat regelt die Führung der Archive und kirchlichen Register in einer Verordnung.
 
@@ -1330,7 +1335,7 @@ lichkeiten für die Angestellten der Kirchgemeinden und der Landeskirche.
 
 **23**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Die Landeskirche trägt anerkannte Ausbildungsgänge für kirchliche Berufe mit.
 
@@ -1441,15 +1446,13 @@ Aufgaben und Pflichten:
 
 **25**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 - c. Seelsorge,
 
 - d. diakonische Aufgaben, soweit diese nicht von Sozialdiakoninnen und Sozialdiakonen wahrgenommen werden,
 
-- e. Gestaltung von und Mitwirkung in religionspädagogischen Angeboten sowie Bildungsarbeit mit Erwachsenen,
-
-- f. Vertretung von Anliegen der Landeskirche, des Schweizerischen Evangelischen Kirchenbundes und seiner Werke, der Missionswerke und der Ökumene,
+- e. Gestaltung von und Mitwirkung in religionspädagogischen Angeboten sowie Bildungsarbeit mit Erwachsenen, f.[^113-1] Vertretung von Anliegen der Landeskirche, der Evangelisch-reformierten Kirche Schweiz, des Hilfswerks der Evangelischen Kirchen Schweiz HEKS, der Missionswerke und der Ökumene,
 
 - g. Betreuung des Pfarrarchivs und der kirchlichen Register sowie Beurkundung von Taufen, Konfirmationen, Trauungen und Abdankungen,
 
@@ -1457,11 +1460,11 @@ Aufgaben und Pflichten:
 
 <sup>2</sup> Pfarrerinnen und Pfarrer stellen die Erreichbarkeit des Pfarramtes sicher. Bei Abwesenheit sorgen sie für eine Stellvertretung.
 
-<sup>3</sup> Pfarrerinnen und Pfarrer können eine Amtshandlung, die sie in Gewissensnot bringt, nach Rücksprache mit der Dekanin oder dem Dekan ablehnen. Diese sorgen für eine Stellvertretung.
+<sup>3</sup> Pfarrerinnen und Pfarrer können eine Amtshandlung, die sie in Gewissensnot bringt, nach Rücksprache mit der Dekanin oder dem Dekan ablehnen. Diese oder dieser sorgt für eine Stellvertretung.[^113-1]
 
 **Zusammenarbeit a. Pfarrkonvent**
 
-Art. 114[^113-1] <sup>1</sup> Sind im Pfarramt einer Kirchgemeinde mehrere Pfarrerinnen und Pfarrer tätig, so bilden sie den Pfarrkonvent.
+Art. 114[^113-2] <sup>1</sup> Sind im Pfarramt einer Kirchgemeinde mehrere Pfarrerinnen und Pfarrer tätig, so bilden sie den Pfarrkonvent.
 
 <sup>2</sup> Der Pfarrkonvent verantwortet den Aufbau der Gemeinde in theologischer Hinsicht. Er ist Ort der Aussprache, des Austausches und der Koordination.
 
@@ -1477,13 +1480,13 @@ Art. 114[^113-1] <sup>1</sup> Sind im Pfarramt einer Kirchgemeinde mehrere Pfarr
 
 **b. Pfarrdienstordnung**
 
-Art. 115[^113-1] <sup>1</sup> In Kirchgemeinden mit einem Pfarrkonvent erarbeitet dieser innert sechs Monaten seit der letzten Wahl gemäss Art. 125 eine Pfarrdienstordnung und legt sie der Kirchenpflege zur Genehmigung vor.
+Art. 115[^113-2] <sup>1</sup> In Kirchgemeinden mit einem Pfarrkonvent erarbeitet dieser innert sechs Monaten seit der letzten Wahl gemäss Art. 125 eine Pfarrdienstordnung und legt sie der Kirchenpflege zur Genehmigung vor.
 
 <sup>2</sup> Die Pfarrdienstordnung bezweckt insbesondere, die Arbeit der Pfarrerinnen und Pfarrer unter Wahrung des Gesamtzusammenhanges der Gemeinde unter diesen aufzuteilen.
 
 **Stellenzuteilung a. Grundlagen**
 
-Art. 116[^113-1] <sup>1</sup> In jeder Kirchgemeinde besteht ein Pfarramt.
+Art. 116[^113-2] <sup>1</sup> In jeder Kirchgemeinde besteht ein Pfarramt.
 
 <sup>2</sup> Die für die Pfarrämter in den Kirchgemeinden insgesamt zur Verfügung stehenden Stellenprozente berechnen sich anhand des mittleren landeskirchlichen Quorums.
 
@@ -1493,7 +1496,7 @@ Art. 116[^113-1] <sup>1</sup> In jeder Kirchgemeinde besteht ein Pfarramt.
 
 **b. Stellenprozente der Kirchgemeinden**
 
-Art. 117[^113-1] <sup>1</sup> Die Kirchgemeinden verfügen im Pfarramt über 10 Stellenprozent pro 200 Mitglieder, mindestens aber über 50 Stellenprozent.
+Art. 117[^113-2] <sup>1</sup> Die Kirchgemeinden verfügen im Pfarramt über 10 Stellenprozent pro 200 Mitglieder, mindestens aber über 50 Stellenprozent.
 
 <sup>2</sup> Kirchgemeinden, die mehr als 2000 Mitglieder zählen, verfügen im Pfarramt über zusätzliche Stellenprozente. Diese werden pro Anzahl Mitglieder gewährt, die der Hälfte des mittleren landeskirchlichen Quorums entsprechen. Die Kirchensynode legt die Höhe der Stellenprozente pro Anzahl Mitglieder, die der Hälfte des mittleren landeskirchlichen Quorums entsprechen, jeweils für die Amtsdauer der Pfarrerinnen und Pfarrer fest.
 
@@ -1501,12 +1504,13 @@ Art. 117[^113-1] <sup>1</sup> Die Kirchgemeinden verfügen im Pfarramt über 10 
 
 <sup>4</sup> Der Kirchenrat kann im Rahmen des von der Kirchensynode bewilligten Kredites Kirchgemeinden befristet oder auf Amtsdauer weitere Stellenprozente im Pfarramt zuteilen, insbesondere zur Förderung eines projektorientierten Gemeindeaufbaus, zur Berücksichtigung besonderer Verhältnisse in der pfarramtlichen Tätigkeit und zur Vermeidung von Härtefällen. Der Kirchenrat regelt die Einzelheiten in einer Verordnung.
 
-[^113-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
-[^113-2]: Aufgehoben durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^113-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^113-2]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^113-3]: Aufgehoben durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
 #### Art. 118
 
-[^113-2]
+[^113-3]
 
 #### Art. 119
 
@@ -1526,7 +1530,7 @@ Art. 120[^119-1] <sup>1</sup> Jede Kirchgemeinde teilt die ihr gemäss Art. 117 
 
 **27**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Die Kirchgemeinden berücksichtigen bei der Aufteilung gemäss Abs. 1 insbesondere:
 
@@ -1622,7 +1626,7 @@ Art. 128[^124-3] Die Wahlfähigkeit für das Pfarramt besitzt, wer a. gemäss de
 
 **29**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 - b. vom Kirchenrat nach bestandenem Kolloquium und der Erfüllung der weiteren vom Kirchenrat bestimmten Voraussetzungen unbeschränkt für alle landeskirchlichen oder beschränkt für besonders umschriebene Pfarrämter oder Aufgaben gemäss Art. 113 Abs. 1 als wahlfähig bezeichnet worden ist.
 
@@ -1722,7 +1726,7 @@ Sekretariatsangestellte übernehmen administrative Aufgaben in der Kirchgemeinde
 
 **31**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 139
 
@@ -1828,7 +1832,7 @@ Pflichten im Rahmen ihrer Zuständigkeit und der gesetzlichen Bestimmungen aus. 
 
 **33**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 #### Art. 148
 
@@ -1897,16 +1901,17 @@ nung aufgeführt.
 
 ten die Bestimmungen des Gemeindegesetzes[^151a-1] über den Zusammenschluss von politischen Gemeinden sinngemäss, soweit die Kirchenordnung keine abweichenden Bestimmungen enthält.
 
-<sup>2</sup> Die Stimmberechtigten jeder beteiligten Kirchgemeinde beschliessen den Vertrag über den Zusammenschluss an der Urne. Der Zusammenschluss bedarf der Zustimmung in jeder beteiligten Kirchgemeinde.
+<sup>2</sup> Die Stimmberechtigten jeder beteiligten Kirchgemeinde beschliessen den Vertrag über den Zusammenschluss an der Urne. Der Zusammenschluss bedarf der Zustimmung in jeder beteiligten Kirchgemeinde. Vorbehalten bleibt der Zusammenschluss durch die Kirchensynode nach Anhörung der betreffenden Kirchgemeinden und Kirchgemeindeverbände gemäss Art. 151 Abs. 2.[^151a-2]
 
 <sup>3</sup> Die Stimmberechtigten der beteiligten Kirchgemeinden beschliessen nach Massgabe von Art. 153 Abs. 2 über die Kirchgemeindeordnung der zusammengeschlossenen Kirchgemeinde, sofern der Vertrag über den Zusammenschluss nicht einen Beschluss der Gesamtheit der Stimmberechtigten der beteiligten Kirchgemeinden an der Urne vorschreibt.
 
 [^151a-1]: LS 131.1.
-[^151a-2]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^151a-2]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^151a-3]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
 #### Art. 151 b
 
-**b. Unterstützung**[^151a-2]
+**b. Unterstützung**[^151a-3]
 
 <sup>1</sup> Kirchgemeinden, die sich zusammenschliessen wol-
 
@@ -1951,13 +1956,13 @@ Landeskirche wahr.
 
 Art. 153[^152-1] <sup>1</sup> Die Kirchgemeinden regeln ihre Organisation und die Zuständigkeit ihrer Organe im Rahmen des übergeordneten Rechts in einer Kirchgemeindeordnung.
 
+**35**
+
+- 1\. 4. 23 - 120
+
 <sup>2</sup> Erlass und Änderungen der Kirchgemeindeordnung werden von den Stimmberechtigten an der Urne beschlossen, sofern nicht a. die Kirchgemeindeordnung die Abstimmung in der Kirchgemeindeversammlung vorsieht,
 
 - b. in Kirchgemeinden mit einem Kirchgemeindeparlament dieses unter Vorbehalt des fakultativen Referendums entscheidet.
-
-**35**
-
-- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Kirchgemeindeordnung unterliegt der Genehmigung des Kirchenrates. Diese wird erteilt, wenn die Kirchgemeindeordnung dem übergeordneten Recht entspricht. Die Genehmigung ist Voraussetzung für das Inkrafttreten der Kirchgemeindeordnung.
 
@@ -2065,6 +2070,10 @@ Anliegen zu freien Versammlungen einladen.
 
 <sup>2</sup> Beschlüsse solcher Versammlungen haben die Wirkung von Anregungen.
 
+**37**
+
+- 1\. 4. 23 - 120
+
 [^158-1]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
 ### C. Kirchgemeindeparlament
@@ -2082,10 +2091,6 @@ Anliegen zu freien Versammlungen einladen.
 meindeversammlung ein Kirchgemeindeparlament einführen.
 
 <sup>2</sup> Die Kirchgemeindeordnung legt die Zahl der Mitglieder fest.
-
-**37**
-
-- 1\. 1. 23 - 119
 
 [^158a-1]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
@@ -2206,13 +2211,13 @@ Art. 160[^159-1] <sup>1</sup> Die Stimmberechtigten der Kirchgemeinde wählen di
 
 <sup>4</sup> Eine Person kann gleichzeitig nur einer Kirchenpflege angehören.
 
+**39**
+
+- 1\. 4. 23 - 120
+
 <sup>5</sup> Die Wahl der Kirchenpflege richtet sich a. bei der Wahl an der Urne nach den Bestimmungen des Gesetzes über die politischen Rechte[^159-2] über Mehrheitswahlen an der Urne,
 
 - b. bei der Wahl durch die Kirchgemeindeversammlung nach den Bestimmungen des Gemeindegesetzes[^159-3] und der Kirchenordnung.
-
-**39**
-
-- 1\. 1. 23 - 119
 
 [^159-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 [^159-2]: LS 161.
@@ -2283,13 +2288,17 @@ Art. 163[^161-1] <sup>1</sup> Die Kirchenpflege erfüllt ihre Aufgaben auf der G
 
 **b. Aufsicht**
 
-**Die Kirchenpflege führt die Aufsicht über**
+<sup>1</sup> Die Kirchenpflege führt die Aufsicht über
 
 - a. das kirchliche Leben in der Gemeinde,
 
 - b. die Amtsführung der Pfarrerinnen und Pfarrer,
 
 - c. die Aufgabenerfüllung durch Angestellte und Freiwillige.
+
+<sup>2</sup> Art. 223 b über die Administrativuntersuchung ist sinngemäss anwendbar.[^164-1]
+
+[^164-1]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 165
 
@@ -2298,6 +2307,10 @@ Art. 163[^161-1] <sup>1</sup> Die Kirchenpflege erfüllt ihre Aufgaben auf der G
 <sup>1</sup> Die Kirchenpflege erstattet der Kirchgemeindever-
 
 sammlung oder dem Kirchgemeindeparlament und der weiteren Öffentlichkeit jährlich Bericht über ihre Tätigkeit und das kirchliche Gemeindeleben.[^165-1]
+
+**41**
+
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Sie stellt dem Kirchenrat alle Unterlagen und Angaben zur Verfügung, die dieser für die Planung und Erfüllung der Aufgaben der Landeskirche sowie für die Berichterstattung gemäss Kirchengesetz[^165-2] benötigt. Sie gibt dem Kirchenrat namentlich Rechenschaft über die Verwendung der finanziellen Mittel der Kirchgemeinde.
 
@@ -2319,10 +2332,6 @@ sammlung oder dem Kirchgemeindeparlament und der weiteren Öffentlichkeit jährl
 <sup>1</sup> Die Rechnungsprüfungskommission ist zuständig für
 
 die Kontrolle des Finanzhaushaltes der Kirchgemeinde.
-
-**41**
-
-- 1\. 1. 23 - 119
 
 <sup>2</sup> Sie besteht aus fünf Mitgliedern, einschliesslich der Präsidentin oder des Präsidenten. In Kirchgemeinden mit einem Kirchgemeindeparlament kann die Kirchgemeindeordnung mehr als fünf Mitglieder vorsehen.[^166-1]
 
@@ -2350,11 +2359,12 @@ Die Rechnungsprüfungskommission konstituiert sich mit Ausnahme der Präsidentin
 
 Art. 169[^168-1] <sup>1</sup> Die Rechnungsprüfungskommission besorgt die Aufgaben, die ihr das Gemeindegesetz[^168-2] zuweist, und jene Aufgaben, die in der Finanzverordnung[^168-3] vorgesehen sind.
 
-<sup>2</sup> Sie nimmt in Kirchgemeinden mit einem Kirchgemeindeparlament und, soweit dies die Kirchgemeindeordnung vorsieht, in Kirchgemeinden mit einer Kirchgemeindeversammlung die Geschäftsprüfung wahr.
+<sup>2</sup> . . .[^168-4]
 
 [^168-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 [^168-2]: LS 131.1.
 [^168-3]: LS 181.13.
+[^168-4]: Aufgehoben durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023. 1. 4. 23 - 120 71
 
 ### F. Pfarrwahlkommission, Kommissionen und Arbeitsgruppen
 
@@ -2392,6 +2402,10 @@ Art. 172[^hGhF1681Pfarrwahl-1] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellt
 
 <sup>3</sup> Der Gemeindekonvent koordiniert und fördert die Zusammenarbeit insbesondere zwischen dem Pfarramt, den weiteren Diensten und den Freiwilligen der Kirchgemeinde. Er stellt den Informationsaustausch sicher. Er unterstützt den sorgsamen Umgang mit den zur Verfügung stehenden Mitteln, eine zielorientierte Arbeitsweise und die Qualitätsentwicklung der kirchgemeindlichen Arbeit.
 
+**43**
+
+- 1\. 4. 23 - 120
+
 <sup>4</sup> Im Weiteren kommen dem Gemeindekonvent folgende Aufgaben zu:
 
 - a. Erfüllung von Aufgaben gemäss den Aufträgen der Kirchenpflege,
@@ -2405,10 +2419,6 @@ Art. 172[^hGhF1681Pfarrwahl-1] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellt
 - e. Wahlvorschlag für die Konventsleitung zuhanden der Kirchenpflege.
 
 <sup>5</sup> Im Rahmen seiner Aufgaben kann der Gemeindekonvent der Kirchenpflege oder dem Pfarrkonvent Anträge unterbreiten.
-
-**43**
-
-- 1\. 1. 23 - 119
 
 [^hGhF1681Pfarrwahl-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
@@ -2460,63 +2470,165 @@ Die Kirchgemeinden pflegen die Zusammenarbeit mit den politischen Gemeinden und 
 
 [^176-1]
 
-#### Art. 177
+**Anerkennung a. Verfahren**
 
-**Bestand**
+Art. 177[^hH1761Kirchgeme-1] <sup>1</sup> Evangelisch-reformierte Gemeinschaften können dem Kirchenrat mit Beschluss der Mehrheit ihrer Mitglieder die Anerkennung als Kirchgemeinschaft beantragen.
 
-<sup>1</sup> Die Zusammenschlüsse von französisch-, italienisch-
+<sup>2</sup> Die Kirchensynode entscheidet über die Anerkennung von Kirchgemeinschaften.
 
-und spanischsprachigen Mitgliedern einer Mitgliedskirche des Schweizerischen Evangelischen Kirchenbundes bilden die Kirchgemeinschaften der Landeskirche.
+[^hH1761Kirchgeme-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^hH1761Kirchgeme-2]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
-<sup>2</sup> Die Kirchgemeinschaften sind im Anhang zur Kirchenordnung aufgeführt.
+#### Art. 177 a
 
-<sup>3</sup> Die Namensänderung, Neubildung, Vereinigung und Auflösung von Kirchgemeinschaften erfolgt durch Beschluss der Kirchensynode auf Gesuch der betreffenden Kirchgemeinschaften oder nach deren Anhörung.
+**b. Voraussetzungen**[^hH1761Kirchgeme-2]
 
-<sup>4</sup> Die Mitglieder der Kirchgemeinschaften bleiben mit allen Rechten und Pflichten Mitglieder der Kirchgemeinde an ihrem Wohnsitz.
+<sup>1</sup> Eine evangelisch-reformierte Gemeinschaft muss, da-
 
-#### Art. 178
+mit sie als Kirchgemeinschaft anerkannt werden kann,
 
-**Organisation**
+- a. während mindestens vier Jahren auf dem Gebiet der Landeskirche gewirkt haben,
 
-<sup>1</sup> Die Kirchgemeinschaften erstrecken sich über das
+- b. mindestens 150 Mitglieder zählen, die zu einem überwiegenden Teil Mitglieder der Landeskirche und im Übrigen Mitglieder einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz sind,
 
-ganze Gebiet der Landeskirche.
+- c. die theologischen und rechtlichen Grundlagen der Landeskirche, wie sie sich in der Kirchenordnung finden, ausdrücklich anerkennen,
 
-<sup>2</sup> Die Kirchgemeinschaften besitzen als Körperschaften der Landeskirche eigene Rechtspersönlichkeit. Sie verfügen über die Organe einer Kirchgemeinde. Sie geben sich ein Statut, das der Genehmigung des Kirchenrates unterliegt.
+- d. seit mindestens vier Jahren demokratisch organisiert sein sowie über ihre Tätigkeit und ihre Finanzen öffentlich Rechenschaft ablegen,
 
-<sup>3</sup> Die Kirchgemeinschaften decken ihre Ausgaben durch Beiträge der Landeskirche und freiwillige Zuwendungen.
+- e. sich über das Gebiet mehrerer Kirchgemeinden der Landeskirche erstrecken und
 
-<sup>4</sup> Im Übrigen sind auf die Kirchgemeinschaften die Bestimmungen über die Kirchgemeinden sinngemäss anwendbar. Der Kirchenrat kann Ausnahmen vorsehen.
+- f. ihren Sitz im Gebiet der Landeskirche haben.
+
+<sup>2</sup> Erfüllt eine evangelisch-reformierte Gemeinschaft die Voraussetzungen gemäss Abs. 1, kann ihr die Anerkennung als Kirchgemeinschaft erteilt werden, wenn sie für die Landeskirche bedeutsam ist, weil sie zur sprachlichen oder lebensweltlichen Vielfalt der Landeskirche oder zur Bildung kirchlicher Gemeinschaft auf der Ebene der Landeskirche beiträgt.
+
+**c. Wirkungen**
+
+Art. 178[^177a-1] <sup>1</sup> Kirchgemeinschaften besitzen als Körperschaften der Landeskirche eigene Rechtspersönlichkeit.
+
+<sup>2</sup> Sie verfügen über die Behörden und Organe einer Kirchgemeinde.
+
+<sup>3</sup> Sie geben sich ein Statut, das der Genehmigung des Kirchenrates unterliegt.
+
+<sup>4</sup> Die Kirchgemeinschaften decken ihre Ausgaben durch Beiträge der Landeskirche und freiwillige Zuwendungen.
+
+<sup>5</sup> Im Übrigen sind auf die Kirchgemeinschaften die Bestimmungen über die Kirchgemeinden sinngemäss anwendbar. Der Kirchenrat kann Ausnahmen vorsehen.
+
+**45**
+
+- 1\. 4. 23 - 120
+
+[^177a-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^177a-2]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+
+#### Art. 178 a
+
+**d. Pfarramt**[^177a-2]
+
+**Für das Pfarramt einer Kirchgemeinschaft gelten die**
+
+Bestimmungen über das Pfarramt in einer Kirchgemeinde.
+
+[^178a-1]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+
+#### Art. 178 b
+
+**Mitgliedschaft a. Aufnahme**[^178a-1]
+
+<sup>1</sup> Als Mitglied einer Kirchgemeinschaft gilt jede Per-
+
+son, die Mitglied einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz ist und ihren Beitritt zur betreffenden Kirchgemeinschaft erklärt hat.
+
+<sup>2</sup> Die Mitglieder einer Kirchgemeinschaft bleiben mit allen Rechten und Pflichten Mitglieder der Kirchgemeinde an ihrem Wohnsitz.
+
+<sup>3</sup> Wer in eine Kirchgemeinschaft aufgenommen werden will, wendet sich an eine Pfarrerin oder einen Pfarrer der Kirchgemeinschaft. Diese führen mit der beitrittswilligen Person ein Aufnahmegespräch. Sie vollziehen aufgrund einer schriftlichen Erklärung der beitrittswilligen Person die Aufnahme und teilen dies der Kirchgemeinschaft unverzüglich mit.
+
+<sup>4</sup> Beitrittswillige Personen, die keiner Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz angehören, treten vor der Aufnahme in eine Kirchgemeinschaft der Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz an ihrem Wohnsitz bei.
+
+[^178b-1]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+
+#### Art. 178 c
+
+**b. Austritt, Nichtzugehörigkeit**[^178b-1]
+
+<sup>1</sup> Der Austritt und die Nichtzugehörigkeit sind gegen-
+
+über der Kirchgemeinschaft schriftlich zu erklären. Diese bestätigt der betreffenden Person den Austritt und teilt dies der Kirchgemeinde am Wohnsitz mit, sofern es sich gleichzeitig um einen Austritt aus der Landeskirche handelt.
+
+<sup>2</sup> Mit dem Austritt aus einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz endet auch die Mitgliedschaft in einer Kirchgemeinschaft.
+
+[^178c-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 179
 
-**Zusammenarbeit**
+**Vertragliche Regelung**
 
-Der Kirchenrat regelt durch Vertrag mit den Kirchgemeinschaften namentlich a. die Zuweisung zu einem kirchlichen Bezirk,
+Der Kirchenrat regelt durch Vertrag mit den Kirchgemeinschaften namentlich[^178c-1] a. die Zuweisung zu einem kirchlichen Bezirk,
 
 - b. die Ausgestaltung der Zusammenarbeit mit der Landeskirche,
 
-- c. die Leistungen der Landeskirche,
+- c. die finanziellen Leistungen der Landeskirche,
 
-- d. die Finanzierung des Unterhalts von Liegenschaften der Kirchgemeinschaften und die Verfügungsbefugnisse über diese Liegenschaften.
+- d. die Finanzierung des Unterhalts von Liegenschaften der Kirchgemeinschaften und die Verfügungsbefugnisse über diese Liegenschaften,
+
+- e. die Folgen des Verzichts auf die Anerkennung gemäss Art. 179 a.
+
+[^179-1]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+
+#### Art. 179 a
+
+**Verzicht**[^179-1]
+
+<sup>1</sup> Eine Kirchgemeinschaft kann mit Beschluss ihrer
+
+Mitglieder jederzeit auf die Anerkennung als Kirchgemeinschaft verzichten.
+
+<sup>2</sup> Der Kirchenrat bestimmt den Zeitpunkt, in dem der Verzicht wirksam wird, im Einvernehmen mit der Kirchgemeinschaft.
+
+[^179a-1]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+
+#### Art. 179 b
+
+**Entzug**[^179a-1]
+
+<sup>1</sup> Der Kirchensynode kann auf Antrag des Kirchen-
+
+rates einer Kirchgemeinschaft die Anerkennung entziehen, wenn sie a. in schwerwiegender Weise gegen die gesetzlichen Bestimmungen verstösst,
+
+- b. die Voraussetzungen für die Anerkennung auch nach Ansetzung einer Frist zur Behebung des Mangels nicht mehr erfüllt.
+
+<sup>2</sup> Der Kirchenrat entscheidet über die Folgen des Entzugs der Anerkennung.
 
 ### 3. Abschnitt: Kirchlicher Bezirk
 
 ### A. Grundlagen
 
-#### Art. 180
-
 **Einteilung**
 
-Die kirchlichen Bezirke umfassen die Kirchgemeinden in den Bezirken des Kantons.
+Art. 180[^hAGrundlagen_7-1] <sup>1</sup> Die kirchlichen Bezirke umfassen die Kirchgemeinden in den Bezirken des Kantons. Vorbehalten bleibt die abweichende Zuweisung gemäss Art. 151 Abs. 2.
+
+<sup>2</sup> Der Kirchenrat legt den Bestand und die Grenzen der Kapitel fest.
 
 **Organe**
 
-Art. 181[^180-1] <sup>1</sup> Organe der kirchlichen Bezirke sind die Bezirkskirchenpflegen.
+Art. 181[^hAGrundlagen_7-2] <sup>1</sup> Organe der kirchlichen Bezirke sind die Bezirkskirchenpflegen.
 
 <sup>2</sup> Weitere Organe der kirchlichen Bezirke sind die Pfarrkapitel, Diakonatskapitel, Kirchenmusikkapitel und Katechetikkapitel.
 
-[^180-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^hAGrundlagen_7-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^hAGrundlagen_7-2]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^hAGrundlagen_7-3]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+
+#### Art. 181 a
+
+**Kapitelskonferenzen**[^hAGrundlagen_7-3]
+
+<sup>1</sup> Die Dekaninnen und Dekane versammeln sich auf
+
+Einladung des Kirchenrates in der Konferenz der Dekaninnen und Dekane.
+
+<sup>2</sup> Die Präsidentinnen und Präsidenten der Diakonats-, Kirchenmusik- und Katechetikkapitel versammeln sich auf Einladung des Kirchenrates je in der Konferenz ihrer Präsidien.
+
+<sup>3</sup> Der Kirchenrat regelt die Organisation und die Aufgaben der Konferenzen.
 
 ### B. Bezirkskirchenpflege
 
@@ -2530,9 +2642,9 @@ kirchliche Leben im Bezirk.
 
 <sup>2</sup> Sie besteht aus mindestens fünf Mitgliedern, einschliesslich der Präsidentin oder des Präsidenten. Der Kirchenrat setzt die Mitgliederzahl der Bezirkskirchenpflegen fest.
 
-**45**
+**47**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Die Mitgliedschaft in der Bezirkskirchenpflege ist innerhalb des Bezirkes unvereinbar mit[^182-1] a. der Mitgliedschaft in Behörden und Organen einer Kirchgemeinde sowie in Kommissionen gemäss Art. 170 und 171 Abs. 1,
 
@@ -2619,23 +2731,21 @@ glieder des Ministeriums mit Wohnsitz im Bezirk.
 
 <sup>2</sup> Mitglieder des Ministeriums mit Wohnsitz im Bezirk, die im Dienst der Landeskirche oder einer mit dieser verbundenen Institution stehen und ihren Tätigkeitsschwerpunkt ausserhalb des Bezirkes haben, nehmen dort Einsitz in das Pfarrkapitel. Über Ausnahmen entscheidet der Kirchenrat.
 
-**47**
-
-- 1\. 1. 23 - 119
-
-#### Art. 188
-
 **Konstituierung**
 
-<sup>1</sup> Das Pfarrkapitel konstituiert sich auf Einladung der
+Art. 188[^187-1] <sup>1</sup> Das Pfarrkapitel konstituiert sich auf Einladung der Dekanin oder des Dekans binnen dreier Monate seit Beginn der Amtsdauer der Pfarrerinnen und Pfarrer.
 
-Dekanin oder des Dekans binnen dreier Monate seit Beginn der Amtsdauer der Pfarrerinnen und Pfarrer.
+**49**
 
-<sup>2</sup> Es wählt aus seiner Mitte im geheimen Verfahren gemäss Art. 157 b Abs. 2 den Vorstand, bestehend aus der Dekanin oder dem Dekan und mindestens zwei weiteren Mitgliedern.[^188-1]
+- 1\. 4. 23 - 120
 
-<sup>3</sup> Die Mitglieder des Vorstandes müssen im Pfarrkapitel stimmberechtigt sein.
+<sup>2</sup> Es wählt aus seiner Mitte im geheimen Verfahren gemäss Art. 157 b Abs. 2 den Vorstand, mindestens bestehend aus der Dekanin oder dem Dekan und zwei weiteren Mitgliedern.
 
-[^188-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+<sup>3</sup> Nehmen zwei Personen die Aufgaben der Dekanin oder des Dekans gemeinsam wahr, bestimmt der Vorstand die geschäftsführende Dekanin oder den geschäftsführenden Dekan und die Zuständigkeiten.
+
+<sup>4</sup> Die Mitglieder des Vorstandes müssen im Pfarrkapitel stimmberechtigt sein.
+
+[^187-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 189
 
@@ -2687,31 +2797,27 @@ und vertritt dieses nach aussen.
 
 - d. Förderung der Zusammenarbeit zwischen den Mitgliedern des Pfarrkapitels,
 
-- e. Vertretung des Kirchenrates im Pfarrkapitel und im Bezirk in Belangen des Pfarramtes,
-
-- f. Teilnahme an der Dekanenkonferenz und Vertretung der Anliegen des Pfarrkapitels in der Dekanenkonferenz,
+- e. Vertretung des Kirchenrates im Pfarrkapitel und im Bezirk in Belangen des Pfarramtes, f.[^192-1] Teilnahme an der Konferenz der Dekaninnen und Dekane sowie Vertretung der Anliegen des Pfarrkapitels in dieser Konferenz,
 
 - g. Berichterstattung an den Kirchenrat.
 
 <sup>2</sup> Dekaninnen und Dekane sind im Rahmen ihrer Aufgaben befugt, Anweisungen zu erteilen und die Mitglieder des Pfarrkapitels zu ermahnen.
 
-#### Art. 193
-
 **c. Entlastung**
 
-<sup>1</sup> Dekaninnen und Dekane, die im Dienst der Landes-
+Art. 193[^192-1] <sup>1</sup> Dekaninnen und Dekane sowie ihre Stellvertreterinnen und Stellvertreter können in ihrer Tätigkeit entlastet werden, sofern sie im Dienst der Landeskirche stehen.
 
-kirche stehen, können in ihrer Tätigkeit zeitlich entlastet werden.
-
-<sup>2</sup> Sind sie teilzeitlich tätig oder stehen sie im Dienst einer mit der Landeskirche verbundenen Institution, so kann ihnen oder der Institution eine Entschädigung ausgerichtet werden.
+<sup>2</sup> Stehen sie im Dienst einer mit der Landeskirche verbundenen Institution oder sind sie teilzeitlich tätig, kann ihnen oder der Institution anstelle der Entlastung eine Entschädigung ausgerichtet werden.
 
 <sup>3</sup> Der Kirchenrat setzt die Entlastung oder Entschädigung fest.
+
+[^192-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 ### D. Diakonatskapitel
 
 #### Art. 194
 
-**Zusammensetzung und Bestand**
+**Zusammensetzung**
 
 <sup>1</sup> Sozialdiakoninnen und Sozialdiakone, die im Dienst
 
@@ -2719,29 +2825,25 @@ einer Kirchgemeinde, eines Kirchgemeindeverbandes, der Landeskirche oder einer m
 
 <sup>2</sup> Die Zugehörigkeit richtet sich nach dem Ort der Tätigkeit.
 
-<sup>3</sup> Entsprechend den Bezirken des Kantons bestehen die Diakonatskapitel Zürich, Winterthur-Andelfingen, Bülach-Dielsdorf-Dietikon, Uster-Pfäffikon-Hinwil und Meilen-Horgen-Affoltern.
-
-[^194-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
-
-#### Art. 195
+<sup>3</sup> . . .[^194-2]
 
 **Konstituierung**
 
-<sup>1</sup> Das Diakonatskapitel konstituiert sich auf Einladung
+Art. 195[^194-3] <sup>1</sup> Das Diakonatskapitel konstituiert sich auf Einladung der Präsidentin oder des Präsidenten im Anschluss an die Erneuerungswahlen der Kirchenpflegen bis spätestens zum Ende des betreffenden Jahres.
 
-der Präsidentin oder des Präsidenten im Anschluss an die Erneuerungswahlen der Kirchenpflegen bis spätestens zum Ende des betreffenden Jahres.
+<sup>2</sup> Es wählt aus seiner Mitte im geheimen Verfahren gemäss Art. 157 b Abs. 2 den Vorstand, mindestens bestehend aus der Präsidentin oder dem Präsidenten und zwei weiteren Mitgliedern.
 
-<sup>2</sup> Es wählt aus seiner Mitte im geheimen Verfahren gemäss Art. 157 b Abs. 2 den Vorstand, bestehend aus der Präsidentin oder dem Präsidenten und mindestens zwei weiteren Mitgliedern.[^195-1]
+<sup>3</sup> Nehmen zwei Personen die Aufgaben der Präsidentin oder des Präsidenten gemeinsam wahr, bestimmt der Vorstand die geschäftsführende Präsidentin oder den geschäftsführenden Präsidenten und die Zuständigkeiten.
 
-<sup>3</sup> Die Mitglieder des Vorstandes müssen im Diakonatskapitel stimmberechtigt sein.
+**51**
+
+- 1\. 4. 23 - 120
+
+<sup>4</sup> Die Mitglieder des Vorstandes müssen im Diakonatskapitel stimmberechtigt sein.
 
 **Versammlungen**
 
-Art. 196[^195-1] <sup>1</sup> Das Diakonatskapitel versammelt sich auf Einladung der Präsidentin oder des Präsidenten oder auf Begehren von einem Fünftel der stimmberechtigten Mitglieder.
-
-**49**
-
-- 1\. 1. 23 - 119
+Art. 196[^194-1] <sup>1</sup> Das Diakonatskapitel versammelt sich auf Einladung der Präsidentin oder des Präsidenten oder auf Begehren von einem Fünftel der stimmberechtigten Mitglieder.
 
 <sup>2</sup> Mitglieder, die mit einem Stellenpensum von insgesamt mindestens 30% im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes, der Landeskirche oder einer mit dieser verbundenen Institution stehen, sind zur Teilnahme an den Kapitelsversammlungen verpflichtet.
 
@@ -2749,7 +2851,7 @@ Art. 196[^195-1] <sup>1</sup> Das Diakonatskapitel versammelt sich auf Einladung
 
 **Aufgaben**
 
-Art. 197[^195-1] Dem Diakonatskapitel kommen namentlich zu:
+Art. 197[^194-1] Dem Diakonatskapitel kommen namentlich zu:
 
 - a. Stellungnahme zu kirchlichen Fragen auf Einladung des Kirchenrates oder der Bezirkskirchenpflege,
 
@@ -2759,7 +2861,9 @@ Art. 197[^195-1] Dem Diakonatskapitel kommen namentlich zu:
 
 - d. Förderung der übergemeindlichen Zusammenarbeit.
 
-[^195-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^194-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^194-2]: Aufgehoben durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023. 1. 4. 23 - 120 71
+[^194-3]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 198
 
@@ -2787,32 +2891,31 @@ a.[^199-1] Einführung von Sozialdiakoninnen und Sozialdiakonen in die besondere
 
 **c. Entlastung**
 
-Art. 200[^199-1] <sup>1</sup> Präsidentinnen und Präsidenten der Diakonatskapitel, die im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes oder der Landeskirche stehen, können in ihrer beruflichen Tätigkeit zeitlich entlastet werden.
+Art. 200[^199-2] <sup>1</sup> Präsidentinnen und Präsidenten der Diakonatskapitel können in ihrer beruflichen Tätigkeit zeitlich entlastet werden, sofern sie im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes oder der Landeskirche stehen.
 
-<sup>2</sup> Sind sie teilzeitlich tätig oder stehen sie im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes oder einer mit der Landeskirche verbundenen Institution, so kann anstelle der zeitlichen Entlastung eine Entschädigung gewährt werden.
+<sup>2</sup> Stehen sie im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes oder einer mit der Landeskirche verbundenen Institution oder sind sie teilzeitlich tätig, kann ihnen, der Kirchgemeinde, dem Kirchgemeindeverband oder der Institution anstelle der Entlastung eine Entschädigung ausgerichtet werden.
 
 <sup>3</sup> Der Kirchenrat regelt in Absprache mit der Kirchgemeinde, dem Kirchgemeindeverband oder der Institution die Einzelheiten.
 
 [^199-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
-[^199-2]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^199-2]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^199-3]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
 ### E. Kirchenmusikkapitel und Katechetikkapitel
 
-[^199-2]
+[^199-3]
 
-[^hEKirchenmusikkapit-1]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^hEKirchenmusikkapit-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 200 a
 
-**Zusammensetzung, Bestand und Teilnahmepflicht**[^hEKirchenmusikkapit-1]
+**Zusammensetzung und Teilnahmepflicht**[^hEKirchenmusikkapit-1]
 
 <sup>1</sup> Kirchenmusikerinnen und Kirchenmusiker sowie
 
 Katechetinnen und Katecheten, die im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes, der Landeskirche oder einer mit dieser verbundenen Institution stehen, sind Mitglieder eines Kirchenmusikkapitels beziehungsweise eines Katechetikkapitels.
 
-<sup>2</sup> Der Kirchenrat legt den Bestand der Kirchenmusikkapitel und der Katechetikkapitel fest.
-
-<sup>3</sup> Mitglieder, die mit einem Stellenpensum von insgesamt mindestens 20% im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes, der Landeskirche oder einer mit dieser verbundenen Institution stehen, sind zur Teilnahme an den Kapitelsversammlungen verpflichtet.
+<sup>2</sup> Mitglieder, die mit einem Stellenpensum von insgesamt mindestens 20% im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes, der Landeskirche oder einer mit dieser verbundenen Institution stehen, sind zur Teilnahme an den Kapitelsversammlungen verpflichtet.
 
 [^200a-1]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
@@ -2832,6 +2935,10 @@ musikkapitels und der Katechetikkapitels richten sich nach den für die Diakonat
 
 Organe der Landeskirche sind die Gesamtheit der Stimmberechtigten, die Kirchensynode, der Kirchenrat und die Rekurskommission.
 
+**53**
+
+- 1\. 4. 23 - 120
+
 ### A. Gesamtheit der Stimmberechtigten
 
 #### Art. 202
@@ -2842,29 +2949,26 @@ Organe der Landeskirche sind die Gesamtheit der Stimmberechtigten, die Kirchensy
 
 Synodalwahlkreisen die Mitglieder der Kirchensynode und entscheidet über die ihr gemäss Kirchenordnung zu unterbreitenden Vorlagen.
 
-**51**
-
-- 1\. 1. 23 - 119
-
 <sup>2</sup> Sie setzt sich aus den stimmberechtigten Mitgliedern der Landeskirche zusammen.
 
 #### Art. 203
 
 **Initiative**
 
-<sup>1</sup> Mit einer Initiative können der Erlass, die Aufhebung
+<sup>1</sup> Mit einer Initiative kann der Erlass, die Aufhebung oder
 
-oder die Änderung von Bestimmungen der Kirchenordnung verlangt werden.
+die Änderung von Bestimmungen der Kirchenordnung verlangt werden.[^203-1]
 
 <sup>2</sup> Initiativen sind in der Form des ausgearbeiteten Entwurfs oder der allgemeinen Anregung abzufassen. Initiativen auf Gesamtrevision der Kirchenordnung sind nur in der Form der allgemeinen Anregung zulässig.
 
-<sup>3</sup> Eine Initiative können einreichen[^203-1] a. ein Drittel der Mitglieder der Kirchensynode,
+<sup>3</sup> Eine Initiative können einreichen[^203-2] a. ein Drittel der Mitglieder der Kirchensynode,
 
 - b. sieben Kirchgemeinden durch Beschluss der Kirchgemeindeversammlung oder des Kirchgemeindeparlamentes,
 
 - c. 1000 Stimmberechtigte.
 
-[^203-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^203-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^203-2]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
 #### Art. 204
 
@@ -2878,11 +2982,19 @@ oder die Änderung von Bestimmungen der Kirchenordnung verlangt werden.
 
 **Fakultatives Referendum**
 
-Art. 205[^204-1] <sup>1</sup> Dem fakultativen Referendum unterstehen a. vorbehältlich Art. 204 lit. b Teilrevisionen der Kirchenordnung, ausgenommen Änderungen im Anhang der Kirchenordnung aufgrund von Beschlüssen gemäss Art. 151 Abs. 2 und 3,
+Art. 205[^204-1] <sup>1</sup> Dem fakultativen Referendum unterstehen[^204-2] a. vorbehältlich Art. 204 lit. b Teilrevisionen der Kirchenordnung, ausgenommen Änderungen im Anhang der Kirchenordnung aufgrund von Beschlüssen gemäss Art. 151 Abs. 2 und 3,
 
-- b. die Verordnungen gemäss Art. 28 a Abs. 2, 99 Abs. 2 und 233 Abs. 1 sowie Beschlüsse der Kirchensynode gemäss Art. 151 c,
+- b. die Verordnung über die im Mitgliederregister zu erfassenden Identifikatoren und Merkmale der Mitglieder der Landeskirche gemäss Art. 28 a Abs. 2,
 
-- c. Beschlüsse der Kirchensynode über neue einmalige Ausgaben von mehr als 4 Mio. Franken und neue jährlich wiederkehrende Ausgaben von mehr als 400 000 Franken, ausgenommen Beschlüsse gemäss Art. 215 lit. b.
+- c. die Personalverordnung[^204-3] gemäss Art. 99 Abs. 2,
+
+- d. die Finanzverordnung[^204-4] gemäss Art. 233 Abs. 1,
+
+- e. Beschlüsse der Kirchensynode über die Aufteilung von Kirchgemeinden gemäss Art. 151 c,
+
+- f. das Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst[^204-5] gemäss Art. 102,
+
+- g. Beschlüsse der Kirchensynode über neue einmalige Ausgaben von mehr als 4 Mio. Franken und neue jährlich wiederkehrende Ausgaben von mehr als 400 000 Franken, ausgenommen Beschlüsse gemäss Art. 215 lit. b.
 
 <sup>2</sup> Das Referendum können ergreifen a. ein Drittel der Mitglieder der Kirchensynode,
 
@@ -2893,6 +3005,10 @@ Art. 205[^204-1] <sup>1</sup> Dem fakultativen Referendum unterstehen a. vorbeh�
 <sup>3</sup> Die Kirchensynode kann von sich aus ihre Beschlüsse dem fakultativen Referendum oder der Volksabstimmung unterstellen.
 
 [^204-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^204-2]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^204-3]: LS 181.40.
+[^204-4]: LS 181.13.
+[^204-5]: LS 181.41.
 
 #### Art. 206
 
@@ -2938,6 +3054,10 @@ Verhältnis zur evangelisch-reformierten Wohnbevölkerung, wie sie vom Statistis
 
 Art. 210[^209-2] <sup>1</sup> Die Wahl der Kirchensynode erfolgt im Verfahren der Mehrheitswahl an der Urne. Bei Erneuerungswahlen ist die stille Wahl ausgeschlossen.
 
+**55**
+
+- 1\. 4. 23 - 120
+
 <sup>2</sup> Die Kirchgemeinschaften wählen ihre Vertretung in der Kirchgemeindeversammlung.
 
 <sup>3</sup> Die Mehrheit der Vertreterinnen und Vertreter eines Wahlkreises darf nicht als Pfarrerin, Pfarrer, Angestellte oder Angestellter im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes oder der Landeskirche stehen.
@@ -2958,10 +3078,6 @@ an die Erwahrung der Wahl das Amtsgelübde mit den Worten:
 «Ich gelobe vor Gott, meinen Pflichten als Mitglied der Kirchensynode gewissenhaft nachzukommen, der Landeskirche in der Erfüllung ihres Auftrages zu dienen und so die Sache Jesu Christi nach Kräften mit Gottes Hilfe zu fördern.»
 
 <sup>2</sup> Die Mitglieder der Kirchensynode bestätigen das Amtsgelübde mit den Worten «Ich gelobe es».
-
-**53**
-
-- 1\. 1. 23 - 119
 
 #### Art. 212
 
@@ -3034,17 +3150,19 @@ Art. 215[^214-2] Die Kirchensynode ist zuständig für a. die Beschlussfassung �
 
 **Die Kirchensynode wählt**
 
-- a. auf Amtsdauer
-
-- 1\. die Kirchenratspräsidentin oder den Kirchenratspräsidenten und die weiteren Mitglieder des Kirchenrates,
+a.[^216-1] auf Amtsdauer 1. die Kirchenratspräsidentin oder den Kirchenratspräsidenten und die weiteren Mitglieder des Kirchenrates,
 
 - 2\. die Mitglieder der Rekurskommission,
 
-- 3\. die Abgeordneten für die Abgeordnetenversammlung des Schweizerischen Evangelischen Kirchenbundes,
-
-- 4\. auf Vorschlag des Kirchenrates die kirchliche Ombudsperson und deren Stellvertreterin oder Stellvertreter,
+- 3\. die Mitglieder und Ersatzleute für die Synode der Evangelischreformierten Kirche Schweiz,
 
 - b. die Synodalpredigerin oder den Synodalprediger.
+
+**57**
+
+- 1\. 4. 23 - 120
+
+[^216-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 ### C. Kirchenrat
 
@@ -3054,21 +3172,17 @@ Art. 217[^hCKirchenrat-1] <sup>1</sup> Der Kirchenrat ist die oberste leitende u
 
 <sup>2</sup> Der Kirchenrat besteht aus der Kirchenratspräsidentin oder dem Kirchenratspräsidenten im Vollamt und sechs nebenamtlichen Mitgliedern.
 
-<sup>3</sup> Die Mitgliedschaft im Kirchenrat ist unvereinbar mit a. der Mitgliedschaft in einer Kirchenpflege, einem Kirchgemeindeparlament, einer Rechnungsprüfungskommission und einer Pfarrwahlkommission,
-
-- b. der Mitgliedschaft in Behörden und Organen sowie Kommissionen gemäss Art. 171 Abs. 1 eines Kirchgemeindeverbandes,
+<sup>3</sup> Die Mitgliedschaft im Kirchenrat ist unvereinbar mit a.[^hCKirchenrat-2] der Mitgliedschaft in einem Kirchgemeindeparlament, in einer Kirchenpflege, in der Rechnungsprüfungs- oder Geschäftsprüfungskommission einer Kirchgemeinde, in einer Pfarrwahlkommission, in unterstellten oder eigenständigen Kommissionen gemäss Gemeindegesetz[^hCKirchenrat-3] in einer Kirchgemeinde und in Kommissionen gemäss Art. 171 Abs. 1, b.[^hCKirchenrat-2] der Mitgliedschaft im Vorstand, in der Delegiertenversammlung, in der Rechnungsprüfungs- oder Geschäftsprüfungskommission, in unterstellten oder eigenständigen Kommissionen gemäss Gemeindegesetz[^hCKirchenrat-3] und in Kommissionen gemäss Art. 171 Abs. 1 eines Kirchgemeindeverbandes,
 
 - c. der Mitgliedschaft in einer Bezirkskirchenpflege und im Vorstand eines Kapitels gemäss Art. 181 Abs. 2,
-
-**55**
-
-- 1\. 1. 23 - 119
 
 - d. der Mitgliedschaft in der Kirchensynode und der Rekurskommission,
 
 - e. einer Anstellung in einem Pfarramt in Institutionen, einem Pfarramt mit gemischter Trägerschaft und einem Pfarramt der Gesamtkirchlichen Dienste sowie bei den Gesamtkirchlichen Diensten.
 
 [^hCKirchenrat-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^hCKirchenrat-2]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^hCKirchenrat-3]: LS 131.1.
 
 #### Art. 218
 
@@ -3132,6 +3246,10 @@ deskirche, sofern nicht eine andere Behörde oder ein anderes Organ zuständig i
 
 - n. Aufsicht über die selbstständigen, aufgrund des Zivilgesetzbuches[^220-1] zur Förderung von Aufgaben der Landeskirche geschaffenen kirchlichen Stiftungen,
 
+**59**
+
+- 1\. 4. 23 - 120
+
 - o. Stellungnahme zu Fragen theologischer und kirchlicher sowie ethischer und gesellschaftlicher Natur durch öffentliche Erklärungen,
 
 - p. Beurteilung von Rekursen gegen erstinstanzliche Anordnungen der Bezirkskirchenpflegen und gegen Rekursentscheide der Bezirkskirchenpflegen, sofern der Weiterzug an die Rekurskommission oder an das kantonale Verwaltungsgericht ausgeschlossen ist.
@@ -3155,10 +3273,6 @@ Art. 221[^220-2] <sup>1</sup> Der Kirchenrat beschliesst in eigener Zuständigke
 - d. Nachtragskredite zu den von der Kirchensynode bewilligten Verpflichtungskrediten bis höchstens 10% des von der Kirchensynode im Einzelnen bewilligten Betrages.
 
 <sup>2</sup> Der Kirchenrat kann Ausgaben und Einnahmeausfälle gemäss Abs. 1 lit. c und d bis zu einem jährlichen Höchstbetrag von insgesamt 2 Mio. Franken bewilligen.
-
-**57**
-
-- 1\. 1. 23 - 119
 
 <sup>3</sup> Der Kirchenrat kann nach Massgabe der Finanzverordnung Darlehen aufnehmen und gewähren sowie Liegenschaften kaufen und verkaufen.
 
@@ -3192,6 +3306,44 @@ Bericht über die Tätigkeit der Landeskirche und unterbreitet die Jahresrechnun
 bestimmte Sachbereiche zur selbstständigen Besorgung seinen Mitgliedern, der Kirchenratsschreiberin oder dem Kirchenratsschreiber übertragen.
 
 <sup>2</sup> Er kann für bestimmte Sachbereiche Kommissionen und zur Bearbeitung einzelner Geschäfte Arbeitsgruppen bestellen oder Fachleute beiziehen. Er legt Aufträge und Befugnisse fest.
+
+[^223-1]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+
+#### Art. 223 a
+
+**Notstand**[^223-1]
+
+<sup>1</sup> Der Kirchenrat veranlasst in ausserordentlichen La-
+
+gen oder bei schwerwiegenden Ereignissen alles, was erforderlich ist, um das kirchliche Leben aufrechtzuerhalten sowie die Aufgabenerfüllung durch die Landeskirche und ihre Kirchgemeinden zu gewährleisten.
+
+<sup>2</sup> Der Kirchenrat kann, unmittelbar gestützt auf diese Bestimmung, auch ohne gesetzliche Grundlage Verordnungen erlassen und Anordnungen treffen, um eingetretenen oder unmittelbar drohenden schweren Störungen gemäss Abs. 1 zu begegnen.
+
+<sup>3</sup> Verordnungen und Anordnungen gemäss Abs. 2 unterbreitet er binnen dreier Monate der Kirchensynode zur Genehmigung. Sie fallen spätestens ein Jahr nach ihrem Inkrafttreten dahin.
+
+[^223a-1]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+
+#### Art. 223 b
+
+**Administrativuntersuchung**[^223a-1]
+
+<sup>1</sup> Der Kirchenrat kann eine Administrativuntersuchung
+
+einleiten, wenn in seinem Zuständigkeitsbereich a. erhebliche Mängel vorliegen oder schwerwiegende Pflichtverletzungen begangen wurden,
+
+- b. ein entsprechender Verdacht besteht.
+
+<sup>2</sup> Wer eine Administrativuntersuchung führt, ist berechtigt,
+
+- a. die für die Sicherstellung des Untersuchungszwecks erforderlichen Daten, einschliesslich Personendaten und besonderer Personendaten, zu bearbeiten und
+
+- b. diese Daten an Behörden, die mit der Administrativuntersuchung zusammenhängende straf- und verwaltungsrechtliche Verfahren führen, weiterzuleiten.
+
+<sup>3</sup> Der Kirchenrat regelt die Einzelheiten.
+
+**61**
+
+- 1\. 4. 23 - 120
 
 #### Art. 224
 
@@ -3248,7 +3400,7 @@ Art. 228[^227-1] <sup>1</sup> Die Rekurskommission beurteilt Rekurse gegen a. Re
 
 - b. Rekursentscheide des Kirchenrates über erstinstanzliche Anordnungen der Bezirkskirchenpflegen,
 
-- c. Erlasse und erstinstanzliche Anordnungen des Kirchenrates.
+- c. Erlasse und erstinstanzliche Anordnungen des Kirchenrates, d.[^227-2] erstinstanzliche Anordnungen staatlicher Organe, die anstelle des Kirchenrates als wahlleitende Behörde handeln.
 
 <sup>2</sup> Kann die Rekurskommission für die Behandlung eines Geschäftes nicht gemäss Art. 226 Abs. 2 besetzt werden, so überweist sie dieses dem Verwaltungsgericht zum Entscheid.
 
@@ -3259,6 +3411,7 @@ Art. 228[^227-1] <sup>1</sup> Die Rekurskommission beurteilt Rekurse gegen a. Re
 <sup>5</sup> Die Rekurskommission erstattet der Kirchensynode jährlich Bericht über ihre Tätigkeit.
 
 [^227-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^227-2]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 229
 
@@ -3270,38 +3423,40 @@ nach den Bestimmungen des Verwaltungsrechtspflegegesetzes[^229-1] über das Besc
 
 <sup>2</sup> Die Vernehmlassungsfrist im Rahmen eines Rekurses ist in der Regel gleich lang wie die Rekursfrist. Sie kann in begründeten Fällen erstreckt werden.[^229-2]
 
-**59**
-
-- 1\. 1. 23 - 119
-
 [^229-1]: LS 175.2.
 [^229-2]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
+[^229-3]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
-### E. Kirchliche Ombudsstelle
+### E. Ombudsstelle
 
-#### Art. 230
+[^229-3]
 
 **Grundsatz**
 
-<sup>1</sup> Die kantonale Ombudsstelle amtet in Angelegenhei-
+Art. 230[^hEOmbudsstelle229-1] <sup>1</sup> Die kantonale Ombudsstelle erfüllt die Aufgaben der Ombudsstelle der Landeskirche.
 
-ten der kirchlichen Bezirke und der Landeskirche.
+<sup>2</sup> Sie ist im Rahmen des Verwaltungsrechtspflegegesetzes[^hEOmbudsstelle229-2] für alle Angelegenheiten der Landeskirche und der Kirchgemeinden zuständig.
 
-<sup>2</sup> Die kirchliche Ombudsstelle amtet unter Vorbehalt der Zuständigkeit der kantonalen Ombudsstelle in Angelegenheiten der Kirchgemeinden und Kirchgemeindeverbände.
+[^hEOmbudsstelle229-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
+[^hEOmbudsstelle229-2]: LS 175.2.
 
 #### Art. 231
 
 **Unabhängigkeit**
 
-<sup>1</sup> Die kirchliche Ombudsstelle ist unabhängig.
+<sup>1</sup> Die Ombudsstelle ist unabhängig.[^hEOmbudsstelle229-1]
 
 <sup>2</sup> Die Tätigkeit als Ombudsperson ist mit jedem anderen Amt und jeder Anstellung in der Landeskirche unvereinbar.
 
-#### Art. 232
+**Kosten**
 
-**Organisation**
+Art. 232[^231-1] Die Landeskirche trägt die Kosten für das Tätigwerden der kantonalen Ombudsstelle für die Kirchgemeinden.
 
-Die Kirchensynode regelt in einer Verordnung die Aufgaben, das Verfahren und die Organisation der Ombudsstelle sowie die Entschädigung der Ombudsperson.
+**63**
+
+- 1\. 4. 23 - 120
+
+[^231-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 ### 5. Teil: Finanzen und Liegenschaften
 
@@ -3416,13 +3571,9 @@ berechnen sich aufgrund a. der Kirchensteuereinnahmen,
 
 - c. Dienste, Institutionen und Aufgaben der Landeskirche,
 
-**61**
+- d. die Behörden und Organe der Landeskirche und der kirchlichen Bezirke, e.[^241-1] Beiträge an die Evangelisch-reformierte Kirche Schweiz, das Hilfswerk der Evangelischen Kirchen Schweiz HEKS sowie an weitere Institutionen und Werke.
 
-- 1\. 1. 23 - 119
-
-- d. die Behörden und Organe der Landeskirche und der kirchlichen Bezirke,
-
-- e. Beiträge an den Schweizerischen Evangelischen Kirchenbund und seine Hilfswerke sowie an weitere Institutionen und Werke.
+[^241-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
 #### Art. 242
 
@@ -3439,6 +3590,10 @@ Zwecke.
 **Erstellung und Unterhalt**
 
 Art. 243[^h3AbschnittLiegen-1] <sup>1</sup> Die Kirchgemeinden sind zuständig für den Bau, den Unterhalt und die Nutzung von Kirchen, Kirchgemeindehäusern, Pfarrhäusern, Pfarrwohnungen und weiteren kirchlichen Liegenschaften, sofern nicht aufgrund besonderer Rechtsverhältnisse der Kanton oder Dritte zuständig sind.
+
+**65**
+
+- 1\. 4. 23 - 120
 
 <sup>2</sup> Der Kirchenrat führt zuhanden der Finanzplanung der Landeskirche ein Verzeichnis der kirchlichen Liegenschaften der Kirchgemeinden. Er erhebt den Raum- und Unterhaltsbedarf.
 
@@ -3520,10 +3675,6 @@ gen Änderungen wird aufgehoben.
 
 Anordnungen der Kirchgemeinden, Kirchgemeindeverbände und Kirchgemeinschaften bleiben anwendbar, soweit sie nicht dieser Kirchenordnung und ihren Ausführungsbestimmungen widersprechen.
 
-**63**
-
-- 1\. 1. 23 - 119
-
 <sup>2</sup> Kirchgemeinden, Kirchgemeindeverbände und Kirchgemeinschaften passen ihre Kirchgemeindeordnungen, Statuten, Erlasse und Anordnungen binnen dreier Jahre nach Inkrafttreten dieser Kirchenordnung an.
 
 #### Art. 251
@@ -3547,6 +3698,10 @@ Die Vereinigung der kirchlichen Bezirke Zürich links der Limmat und Zürich rec
 treten des Kirchengesetzes[^253-1] geendet hat, treten in den Stand der Stellvertretung gemäss Art. 121 dieser Kirchenordnung.
 
 <sup>2</sup> Die Wahl der Pfarrerinnen und Pfarrer für die neue Amtsdauer erfolgt an der Urne nach den Bestimmungen des Gesetzes über die politischen Rechte[^253-2] betreffend die Bestätigungswahl. Der Kirchenrat bestimmt deren Zeitpunkt und regelt die Einzelheiten des Verfahrens.
+
+**67**
+
+- 1\. 4. 23 - 120
 
 <sup>3</sup> Der Kirchenrat legt den Beginn der neuen Amtsdauer fest. Sie endet am 30. Juni 2016.
 
@@ -3583,9 +3738,7 @@ V. Die Zuteilung der Pfarrstellen gemäss Art. 116 und 117 erfolgt für die Amts
 
 - 2\. von 1501 bis 2000 Mitglieder über 100 Stellenprozent.
 
-- c. Pro Anzahl Mitglieder, die der Hälfte des mittleren landeskirchlichen Quorums entspricht, werden 5 Stellenprozent gewährt.
-
-VI. Die Kirchensynode fasst erstmals für die Amtsdauer 2024–2028 der Pfarrerinnen und Pfarrer gemäss Art. 116 Abs. 4 und 117 Abs. 2 Beschluss.
+- c. Pro Anzahl Mitglieder, die der Hälfte des mittleren landeskirchlichen Quorums entspricht, werden 5 Stellenprozent gewährt. VI. Die Kirchensynode fasst erstmals für die Amtsdauer 2024–2028 der Pfarrerinnen und Pfarrer gemäss Art. 116 Abs. 4 und 117 Abs. 2 Beschluss.
 
 VII. Nach den Bestimmungen der Kirchenordnung in der Fassung vom 17. März 2009 richten sich für den Rest der Amtsdauer 2016–2020 der Pfarrerinnen und Pfarrer:
 
@@ -3603,9 +3756,7 @@ VIII. Auf die im Zeitpunkt des Inkrafttretens dieser Änderung der Kirchenordnun
 
 - b. Art. 151 a Abs. 3, wenn die Kirchgemeindeordnung der zusammengeschlossenen Kirchgemeinde von den Stimmberechtigten oder vom Kirchgemeindeparlament bereits beschlossen ist.
 
-**65**
-
-- 1\. 1. 23 - 119 IX. Art. 170 Abs. 2 ist auf Pfarrwahlkommissionen anwendbar, die nach dem Inkrafttreten dieser Änderung der Kirchenordnung eingesetzt werden.
+IX. Art. 170 Abs. 2 ist auf Pfarrwahlkommissionen anwendbar, die nach dem Inkrafttreten dieser Änderung der Kirchenordnung eingesetzt werden.
 
 X. Die Bezirkskirchenpflegen erlassen binnen eines Jahres nach Inkrafttreten dieser Änderung der Kirchenordnung die Geschäftsordnung gemäss Art. 184 Abs. 4.
 
@@ -3616,6 +3767,18 @@ XII. Art. 210 Abs. 3 ist erstmals auf die Neuwahl der Kirchensynode für die Amt
 XIII. Art. 217 Abs. 3 lit. a–c und e sind erstmals auf die Neuwahl des Kirchenrates für die Amtsdauer 2019–2023 anwendbar.
 
 XIV. Auf im Zeitpunkt des Inkrafttretens dieser Änderung der Kirchenordnung hängige Verfahren finden Art. 228 Abs. 1 lit. c sowie Abs. 3 und 4 keine Anwendung.
+
+**69**
+
+- 1\. 4. 23 - 120
+
+### Übergangsbestimmungen zur Änderung vom 12. Juli 2022
+
+(OS 78, 57)
+
+I. Die gemäss Art. 177 Abs. 1 der Kirchenordnung in der Fassung vom 17. März 2009 bestehenden Kirchgemeinschaften der Landeskirche gelten als anerkannt.
+
+II. Die Festlegung der Kapitel gemäss Art. 180 Abs. 2 kann erstmals auf den 1. Juli 2024 erfolgen. Im Übrigen regelt der Kirchenrat die Einzelheiten.
 
 ### Anhang:
 
@@ -3669,7 +3832,7 @@ Kappel a. A.
 **Illnau-Effretikon31 Weisslingen Pfäffikon Wildberg Russikon**
 
 [^hBezirkPfäffikonBau-1]: Fassung gemäss B vom 26. März 2019 (OS 74, 482; ABl 2019-03-29). In Kraft seit 1. Januar 2020.
-[^hBezirkPfäffikonBau-2]: Fassung gemäss B vom 27. September 2022 (OS 77, 555; ABl 2022-09-30). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 67
+[^hBezirkPfäffikonBau-2]: Fassung gemäss B vom 27. September 2022 (OS 77, 555; ABl 2022-09-30). In Kraft seit 1. Januar 2023.
 
 ### Bezirk Winterthur Dägerlen Dättlikon-Pfungen Eulachtal Hettlingen Neftenbach Seuzach-Thurtal
 
@@ -3706,9 +3869,9 @@ Kappel a. A.
 
 **Otelfingen-Boppelsen- Stadlerberg22 Hüttikon Steinmaur-Neerach Regensberg Wehntal15 Rümlang Weiach**
 
-**69**
+**73**
 
-- 1\. 1. 23 - 119
+- 1\. 4. 23 - 120
 
 [^hBezirkDielsdorfDie-1]: Fassung gemäss B vom 16. Januar 2018 (OS 73, 447; ABl 2018-01-26). In Kraft seit 1. Januar 2019.
 
