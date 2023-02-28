@@ -4,13 +4,12 @@ number: "170.212"
 title: "Ordonnance sur le règlement d'organisation des conférences régionales"
 short: OROCR
 language: fr
-version: 2020-11-01
-valid_until: 2023-02-28
-version_adopted: 2020-09-02
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.212"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2014/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2790/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2014/pdf_file"
 
 (OROCR)
 
-du 24.10.2007 (état au 01.11.2020)
+du 24.10.2007 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -143,7 +142,7 @@ arrête:
 
 <sup>3</sup> Indépendamment de son approbation au sens de l’alinéa 4, le procès-verbal de l’assemblée régionale est adressé aux communes un mois au plus tard après l’assemblée.
 
-<sup>4</sup> Le procès-verbal est approuvé lors de l’assemblée ou de la séance suivante, et signé par le président ou la présidente ainsi que par son rédacteur ou sa rédactrice.
+<sup>4</sup> Le procès-verbal est approuvé lors de l’assemblée ou de la séance suivante, et signé sous forme numérique par le président ou la présidente ainsi que par son rédacteur ou sa rédactrice.
 
 #### Art. 10
 

@@ -4,13 +4,12 @@ number: "170.212"
 title: Verordnung über das Geschäftsreglement für die Regionalkonferenzen
 short: RKGV
 language: de
-version: 2020-11-01
-valid_until: 2023-02-28
-version_adopted: 2020-09-02
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.212"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2014/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2790/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2014/pdf_file"
 
 (RKGV)
 
-vom 24.10.2007 (Stand 01.11.2020)
+vom 24.10.2007 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -143,7 +142,7 @@ beschliesst:
 
 <sup>3</sup> Unabhängig von seiner Genehmigung nach Absatz 4 wird das Protokoll der Regionalversammlung den Gemeinden spätestens einen Monat nach der Versammlung zugestellt.
 
-<sup>4</sup> Das Protokoll wird an der darauffolgenden Versammlung oder Sitzung genehmigt und von der oder dem Vorsitzenden und der Protokoll führenden Person unterzeichnet.
+<sup>4</sup> Das Protokoll wird an der darauffolgenden Versammlung oder Sitzung genehmigt und von der oder dem Vorsitzenden und der Protokoll führenden Person digital unterzeichnet.
 
 #### Art. 10
 
