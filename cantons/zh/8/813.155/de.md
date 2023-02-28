@@ -4,11 +4,9 @@ number: "813.155"
 title: Taxordnung des Universitätsspitals Zürich (TO USZ)
 short: TO USZ
 language: de
-version: "2013-01-01"
-nachtrag: "79"
-valid_until: 2023-03-01
+nachtrag: "120"
 adopted: 2022-12-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_155-2009_03_25-2009_07_01-079.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_155-2022_12_07-2023_03_01-120.html"
 text: pdf
 ---
 
@@ -16,16 +14,17 @@ text: pdf
 
 # Taxordnung des Universitätsspitals Zürich (TO USZ)
 
-(vom 25. März 2009)[^t-1]
+(vom 7. Dezember 2022)[^t-1],[^t-2]
 
 Der Spitalrat des Universitätsspitals Zürich,
 
-gestützt auf § 11 Abs. 3 Ziff. 7 und § 23 Abs. 4 des Gesetzes über das Universitätsspital Zürich (USZG) vom 19. September 2005[^t-2],
+gestützt auf § 11 Abs. 3 Ziff. 7 des Gesetzes über das Universitätsspital Zürich vom 19. September 2005 (USZG)[^t-3],
 
 beschliesst:
 
-[^t-1]: OS 64, 222.
-[^t-2]: LS 813.15.
+[^t-1]: OS 78, 100; ABl 2023-01-27.
+[^t-2]: Inkrafttreten: 1. März 2023.
+[^t-3]: LS 813.15.
 
 ### A. Allgemeine Bestimmungen
 
@@ -33,26 +32,22 @@ beschliesst:
 
 **Gebührenerhebung**
 
-<sup>1</sup> Das Universitätsspital Zürich erhebt für seine Leistungen Gebühren nach dieser Verordnung. Vorbehalten bleiben:
+<sup>1</sup> Das Universitätsspital Zürich erhebt für seine Leistungen Gebühren in Form von Taxen nach dieser Taxordnung. Vorbehalten bleiben:
 
 - a. Regelungen im Bereich der obligatorischen Sozialversicherungsgesetzgebung des Bundes,
 
 - b. Vereinbarungen zwischen dem Spital und Versicherern, Amtsstellen oder anderen Taxgaranten.
 
-c.[^1-1]
+<sup>2</sup> Die Gebührenordnung für die Verwaltungsbehörden vom 30. Juni 1966[^1-1] kommt ergänzend zur Anwendung.
 
-<sup>2</sup> Die Gebührenordnung für die Verwaltungsbehörden[^1-2] kommt ergänzend zur Anwendung.
-
-[^1-1]: Aufgehoben durch B vom 28. Oktober 2011 (OS 66, 942; ABl 2011, 3200). In Kraft seit 1. Januar 2012.
-[^1-2]: LS 682.
-[^1-3]: Fassung gemäss B vom 24. Oktober 2012 (OS 68, 8; ABl 2012-11-16). In Kraft seit 1. Januar 2013.
-[^1-4]: SR 311.0.
+[^1-1]: LS 682.
+[^1-2]: SR 311.0.
 
 #### § 2
 
 **Patientinnen und Patienten**
 
-<sup>1</sup> Patientinnen und Patienten im Sinne dieser Verordnung sind Personen, die im Spital behandelt werden. Ihnen gleichgestellt sind Personen, die sich aufgrund einer fürsorgerischen Unterbringung[^1-3] im Spital aufhalten oder dort im Rahmen eines Massnahmenvollzugs gemäss StGB[^1-4] behandelt werden.
+<sup>1</sup> Patientinnen und Patienten im Sinne dieser Taxordnung sind Personen, die im Spital behandelt werden. Ihnen gleichgestellt sind Personen, die sich aufgrund einer fürsorgerischen Unterbringung im Spital aufhalten oder dort im Rahmen eines Massnahmenvollzugs gemäss Schweizerischem Strafgesetzbuch vom 21. Dezember 1937[^1-2] behandelt werden.
 
 <sup>2</sup> Als Behandlung gelten alle medizinischen, pflegerischen und betreuerischen Massnahmen zur Untersuchung und Therapie.
 
@@ -62,26 +57,26 @@ c.[^1-1]
 
 <sup>1</sup> Die Patientinnen und Patienten werden nach ihrem Wohnsitz wie folgt unterschieden:
 
-- a. Zürcherische Patientinnen und Patienten sind Personen, die zivilrechtlichen Wohnsitz im Kanton haben oder die wirtschaftliche Hilfe gemäss dem Sozialhilfegesetz[^3-1] des Kantons Zürich beanspruchen können.
+- a. Zürcher Patientinnen und Patienten sind Personen, die zivilrechtlichen Wohnsitz im Kanton haben oder die wirtschaftliche Hilfe gemäss dem Sozialhilfegesetz[^3-1] beanspruchen können.
 
 **1**
 
-- 1\. 1. 13 - 79
+- 1\. 4. 23 - 120
 
-- b. Schweizerische Patientinnen und Patienten sind Personen mit zivilrechtlichem Wohnsitz in anderen Kantonen. Diesen gleichgestellt sind Personen im Geltungsbereich von Art. 95a KVG[^3-2]. Die Gleichstellung erfolgt nur für die in der genannten Bestimmung vorgesehenen Leistungen und nur so weit, als sie im Anwendungsbereich dieser Verordnung liegen.
+- b. Schweizer Patientinnen und Patienten sind Personen mit zivilrechtlichem Wohnsitz in anderen Kantonen. Diesen gleichgestellt sind Personen im Geltungsbereich von Art. 95 a des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung[^3-2]. Die Gleichstellung erfolgt nur für die in der genannten Bestimmung vorgesehenen Leistungen und nur so weit, als sie im Anwendungsbereich dieser Taxordnung liegen.
 
 - c. Ausländische Patientinnen und Patienten sind Personen mit zivilrechtlichem Wohnsitz im Ausland, die nicht unter lit. b Satz 2 fallen.
 
 <sup>2</sup> Massgebend ist der Wohnsitz zu Beginn der ambulanten Behandlung oder des Aufenthaltes im Spital.
 
 [^3-1]: LS 851.1.
-[^3-2]: SR 832.10.
+[^3-2]: SR 832.10. 1. 4. 23 - 120 9
 
 #### § 4
 
 **Vollkosten**
 
-<sup>1</sup> Die Vollkosten im Sinne dieser Verordnung entsprechen den durchschnittlichen Fallkosten in der allgemeinen Abteilung. Sie setzen sich zusammen aus:
+Die Vollkosten im Sinne dieser Verordnung entsprechen den durchschnittlichen Fallkosten in der allgemeinen Abteilung. Sie setzen sich zusammen aus:
 
 - a. den Betriebskosten, bestehend aus dem Personalaufwand und dem Sachaufwand ohne Investitionen; die Kosten der Nebenbetriebe werden nicht miteinbezogen,
 
@@ -89,175 +84,189 @@ c.[^1-1]
 
 - c. den Kosten für Lehre und Forschung, soweit sie nicht von Dritten übernommen werden.
 
-<sup>2</sup> Sie können innerhalb des Spitals nach medizinischen Fachgebieten oder Fallgruppen differenziert werden.
-
-### B. Leistungskategorien
-
 #### § 5
 
 **Behandlungsart**
 
-Die Behandlung der Patientinnen und Patienten erfolgt ambulant oder stationär. Die Unterscheidung erfolgt grundsätzlich nach der für die Tarife der obligatorischen Krankenpflegeversicherung geltenden Regelung.
+Die Behandlung der Patientinnen und Patienten erfolgt ambulant oder stationär. Die Zuordnung richtet sich nach den entsprechenden Bestimmungen des Bundes.
 
 #### § 6
+
+**Kostenträger**
+
+Es wird nach Leistungsart zwischen folgenden Kostenträgern unterschieden:
+
+- a. Pflichtleistungen der obligatorischen Krankenpflegeversicherung: nach den vertraglich vereinbarten oder behördlich festgesetzten Tarifen,
+
+- b. Leistungen der obligatorischen Unfall-, Militär- und Invalidenversicherungen: nach den vertraglich vereinbarten oder behördlich festgesetzten Tarifen,
+
+- c. Leistungen von Privatversicherungen: nach den vertraglich vereinbarten Tarifen,
+
+- d. Leistungen, für die andere Garanten oder keine anderen Regelungen bestehen: nach den Bestimmungen dieser Taxordnung.
+
+### B. Leistungskategorien
+
+#### § 7
 
 **Ambulante Behandlung**
 
 <sup>1</sup> Bei ambulanter Behandlung erbringt das Spital Basisleistungen nach den Standards der obligatorischen Krankenpflegeversicherung (ambulant Basis).
 
-<sup>2</sup> Das Spital kann Zusatzleistungen anbieten, die über die Standards von Abs. 1 hinausgehen oder für die keine Standards bestehen (ambulant Privat).
-
-#### § 7
-
-**Stationäre Behandlung a. Allgemeine Abteilung**
-
-<sup>1</sup> In der allgemeinen Abteilung erbringt das Spital Basisleistungen nach den Standards der obligatorischen Krankenpflegeversicherung.
-
-<sup>2</sup> Es bestimmt die zur Verfügung gestellte Infrastruktur sowie Zeitpunkt und Ablauf der Behandlung im Rahmen der Vorschriften der Gesundheits- und Patientengesetzgebung. Die Patientinnen und Patienten haben insbesondere keinen Anspruch auf Arzt- und Zimmerwahl.
+<sup>2</sup> Das Spital bietet Mehrleistungen an, die über die Standards von Abs. 1 hinausgehen oder für die keine Standards bestehen, namentlich ärztliche Mehrleistungen (ambulant Privat).
 
 #### § 8
 
-**b. Halbprivate und private Abteilung**
+**Stationäre Behandlung a. allgemeine Abteilung**
 
-<sup>1</sup> In den halbprivaten und privaten Abteilungen bietet das Spital den Patientinnen und Patienten Zusatzleistungen an wie bei Unterkunft und Verpflegung, der Behandlung oder im administrativen Bereich.
+<sup>1</sup> In der allgemeinen Abteilung erbringt das Spital Basisleistungen nach den Standards der obligatorischen Krankenpflegeversicherung oder der obligatorischen Unfall-, Militär- und Invalidenversicherung.
 
-<sup>2</sup> Patientinnen und Patienten der halbprivaten Abteilung haben in der Regel Anspruch auf:
-
-- a. Unterbringung in einem Zweierzimmer,
-
-- b. Behandlung durch die Leitende Ärztin oder den Leitenden Arzt oder eine andere Fachärztin oder einen anderen Facharzt mit entsprechender Berechtigung; sie haben keinen Anspruch auf Behandlung durch die Chefärztin oder den Chefarzt.
-
-<sup>3</sup> Patientinnen und Patienten der Privatabteilung haben in der Regel Anspruch auf:
-
-- a. Unterbringung in einem Einerzimmer,
-
-- b. Behandlung durch die Chefärztin oder den Chefarzt oder eine Stellvertretung mit entsprechender Berechtigung.
+<sup>2</sup> Das Spital bestimmt die zur Verfügung gestellte Infrastruktur sowie Zeitpunkt und Ablauf der Behandlung im Rahmen der Vorschriften der Gesundheits- und Patientengesetzgebung. Die Patientinnen und Patienten haben keinen Anspruch auf Arzt- und Zimmerwahl.
 
 #### § 9
 
-**Weitere Leistungen**
+**b. halbprivate und private Abteilung**
 
-In den Bereichen der ambulanten und stationären Versorgung können weitere Leistungen angeboten werden.
+<sup>1</sup> Patientinnen und Patienten der halbprivaten Abteilung haben in der Regel Anspruch auf:
 
-### C. Festlegung der Taxen
+- a. Behandlung durch eine Kaderärztin oder einen Kaderarzt ab Stufe Oberärztin oder Oberarzt bis zur Stufe Leitende Ärztin oder Leitender Arzt; sie haben keinen Anspruch auf Behandlung durch die Chefärztin oder den Chefarzt (ärztliche Mehrleistungen halbprivat),
+
+- b. Unterbringung in einem Zweierzimmer und grössere Auswahl bei der Verpflegung (Mehrleistungen Hotellerie halbprivat),
+
+- c. weitere von der Spitaldirektion bezeichnete klinische Mehrleistungen, die über den Grundversorgungsstandard hinausgehen.
+
+<sup>2</sup> Patientinnen und Patienten der Privatabteilung haben in der Regel Anspruch auf:
+
+- a. Behandlung durch eine Kaderärztin oder einen Kaderarzt ab Stufe Oberärztin oder Oberarzt bis zur Stufe Klinikdirektorin oder Klinikdirektor (ärztliche Mehrleistungen privat),
+
+- b. Unterbringung in einem Einerzimmer und grössere Auswahl bei der Verpflegung (Mehrleistungen Hotellerie privat),
+
+- c. weitere von der Spitaldirektion bezeichnete klinische Mehrleistungen, die über den Grundversorgungsstandard hinausgehen.
 
 #### § 10
 
-**Ambulante Behandlung a. Ambulant Basis**
+**Weitere Leistungen**
 
-<sup>1</sup> Für Behandlungen der Kategorie ambulant Basis verrechnet das Spital seine Leistungen nach folgenden Regelwerken:
-
-- a. TARMED für die darin definierten Leistungen,
-
-- b. weitere vom Bundesrat genehmigte Regelwerke, insbesondere solche für zahnärztliche Behandlung, Physio-, Ergo- und Logotherapie, Ernährungsberatung, Diabetesberatung, Still- und Stomaberatung sowie ambulante Pflege, Analysen und Arzneimittel, Mittel und Gegenstände.
-
-<sup>2</sup> Von diesen Regelwerken nicht erfasste Leistungen werden wie jene Leistungen verrechnet, denen sie nach Anforderungen und Aufwand am nächsten kommen.
+Das Spital kann weitere Leistungen im medizinischen und nichtmedizinischen Bereich erbringen.
 
 **3**
 
-- 1\. 1. 13 - 79
+- 1\. 4. 23 - 120
 
-<sup>3</sup> Es kommen die im Bereich der Unfall-, Invaliden- und Militärversicherung geltenden Taxpunkte und Taxpunktwerte zur Anwendung.
-
-<sup>4</sup> Für Behandlungen von schweizerischen und ausländischen Patientinnen und Patienten gemäss § 3 Abs. 1 lit. b und c können auf den Taxen Zuschläge nach marktwirtschaftlichen Grundsätzen erhoben werden.
+### C. Bestimmung und Abgeltung der Leistungen
 
 #### § 11
 
-**b. Ambulant Privat**
+**Grundsatz**
 
-<sup>1</sup> Für Zusatzleistungen nach § 6 Abs. 2 erhebt das Spital Zusatztaxen.
+<sup>1</sup> Für Patientinnen und Patienten, die der obligatorischen Krankenpflegeversicherung, der obligatorischen Unfall-, Militär- und Invalidenversicherungen oder einer Privatversicherung unterstehen (§ 6 lit. a–c), sind die im betreffenden Bereich geltenden Tarife in Verbindung mit der dafür geltenden Tarifstruktur anwendbar.
 
-<sup>2</sup> Die Zusatztaxen werden nach marktwirtschaftlichen Grundsätzen festgelegt. Sie können nach Patientengruppen gemäss § 3 abgestuft werden.
+<sup>2</sup> Für Patientinnen und Patienten mit anderen Garanten und für Patientinnen und Patienten, für die keine anderen Regelungen bestehen, gelten die Bestimmungen dieser Taxordnung.
 
-<sup>3</sup> Die Rechnungsstellung für die Beanspruchung einer honorarberechtigten Ärztin oder eines honorarberechtigten Arztes richtet sich nach § 16.
+#### § 12
 
-**Stationäre Behandlung a. Grundsatz**
+**Leistungen**
 
-§ 12.[^11-1] <sup>1</sup> Für stationäre Behandlungen werden die Taxen nach dem Tarifsystem SwissDRG ermittelt und verrechnet.
+<sup>1</sup> Die Patientinnen und Patienten erhalten die Leistungen gemäss der gewählten Leistungskategorie.
 
-<sup>2</sup> Die Fallpauschalen können nach Patientengruppen gemäss § 3 abgestuft werden.
+<sup>2</sup> Sie können a. die Leistungskategorie erhöhen (Upgrade),
 
-<sup>3</sup> Bei Behandlungen, deren Kosten wesentlich von den durchschnittlichen Fallkosten abweichen, können ganz oder teilweise Einzelleistungen nach den Regeln und Grundsätzen von §§ 10 und 11 verrechnet oder Spezialpauschalen festgelegt werden.
+- b. ärztliche Mehrleistungen beanspruchen,
 
-[^11-1]: Fassung gemäss B vom 28. Oktober 2011 (OS 66, 942; ABl 2011, 3200). In Kraft seit 1. Januar 2012.
+- c. zusammen die Hotellerie- und die klinischen Leistungen einer höheren Leistungskategorie beanspruchen,
+
+- d. weitere vom Spital angebotene Leistungen beanspruchen.
 
 #### § 13
 
-**b. Grundtaxe**
+**Ambulante Behandlungen**
 
-<sup>1</sup> Bei der stationären Behandlung erhebt das Spital eine Grundtaxe.
+<sup>1</sup> Für ambulante Behandlungen kann die Spitaldirektion Fallpauschalen festlegen. In der Leistungskategorie ambulant Privat wird ein Zuschlag von 60% erhoben.
 
-<sup>2</sup> Bei zürcherischen Patientinnen und Patienten deckt die Grundtaxe die Vollkosten im Sinne von § 4.
+<sup>2</sup> Ist keine Fallpauschale festgelegt worden, wird die Behandlung nach den geltenden ambulanten Tarifstrukturen abgerechnet. In der Leistungskategorie ambulant Basis beträgt der Taxpunktwert Fr. 1.50, in der Leistungskategorie ambulant Privat Fr. 2.40.
 
-<sup>3</sup> Für Behandlungen von schweizerischen und ausländischen Patientinnen und Patienten können Zuschläge auf die Grundtaxen nach marktwirtschaftlichen Grundsätzen erhoben werden.
+<sup>3</sup> Gesetzliche und vertragliche Regelungen über die Abgeltung ambulanter Leistungen wie auch vereinbarte oder festgesetzte Tarifstrukturen und Tarifwerte bleiben vorbehalten.
 
 #### § 14
 
-**c. Zusatztaxen**
+**Stationäre Behandlungen a. Grundtaxe**
 
-<sup>1</sup> Für Zusatzleistungen gemäss § 8 erhebt das Spital Zusatztaxen.
+<sup>1</sup> Für stationäre Behandlungen in der allgemeinen Abteilung kann die Spitaldirektion Fallpauschalen festlegen.
 
-<sup>2</sup> Die Zusatztaxen werden nach marktwirtschaftlichen Grundsätzen festgelegt.
+<sup>2</sup> Ist keine Fallpauschale festgelegt worden, wird die Behandlung nach den geltenden stationären Tarifstrukturen und Regelwerken abgerechnet. Der Basisfallwert beträgt wie folgt:
 
-<sup>3</sup> Die Rechnungsstellung für die Beanspruchung einer honorarberechtigten Ärztin oder eines honorarberechtigten Arztes richtet sich nach § 16.
+**Basisfallwert (in Franken)**
+
+### Medizinbereich
+
+Zürcher Schweizer ausländische Patientinnen Patientinnen Patientinnen und Patienten und Patienten und Patienten Baserate im Bereich Akutsomatik 13 500 Dayrate im Bereich Psychiatrie 1 100
+
+**14 900 16 200 1 200 1 300**
+
+<sup>3</sup> Gesetzliche und vertragliche Regelungen über die Abgeltung stationärer Leistungen wie auch vereinbarte oder festgesetzte Tarifstrukturen und Tarifwerte bleiben vorbehalten.
 
 #### § 15
 
-**Taxen für weitere Leistungen**
+**b. ärztliche Mehrleistungen**
 
-Die Taxen für Leistungen gemäss § 9 werden vom Spital nach marktwirtschaftlichen Grundsätzen festgelegt. Sie können nach Patientengruppen gemäss § 3 abgestuft werden.
+<sup>1</sup> Bestimmt sich die Grundtaxe nach einer Fallpauschale, wird diese für ärztliche Mehrleistungen um 60% erhöht.
 
-#### § 16
+<sup>2</sup> Beruht die Grundtaxe auf einem Tarifsystem mit Basisfallwert, wird dieser für ärztliche Mehrleistungen im Bereich der Akutsomatik wie folgt erhöht:
 
-**Ärztliche Zusatzhonorare**
+Leistungskategorie Erhöhung der Basisfallwerte (in Franken) Zürcher Schweizer ausländische Patientinnen Patientinnen Patientinnen und Patienten und Patienten und Patienten Halbprivat 5 300 Privat 7 000
 
-<sup>1</sup> Ambulante Privatpatientinnen und Privatpatienten sowie stationäre Patientinnen und Patienten der Halbprivat- und Privatabteilungen schulden für die Beanspruchung einer honorarberechtigten Ärztin oder eines honorarberechtigten Arztes ein Zusatzhonorar.
+**5 300 5 300 7 000 7 000**
 
-<sup>2</sup> Es gelten weiterhin die Empfehlungen der Gesundheitsdirektion des Kantons Zürich zur Verrechnung der ärztlichen Zusatzhonorare. Die Spitaldirektion kann bei Bedarf eine Honorarordnung erlassen.[^16-1]
+**c. Mehrleistungen der Hotellerie**
 
-**Sonderleistungen**
+§ 16. Für Mehrleistungen der Hotellerie erhebt das Spital folgende zusätzlichen Taxen:
 
-§ 17. Für Sonderleistungen wie besondere Transporte oder Berichte und Gutachten für private Auftraggeber sowie für die Befriedigung persönlicher Bedürfnisse erhebt das Spital Taxen nach marktwirtschaftlichen Grundsätzen.
+Leistungskategorie Zusatztaxe pro Nacht (in Franken) Zürcher Schweizer ausländische Patientinnen Patientinnen Patientinnen und Patienten und Patienten und Patienten Halbprivat (2er-Zimmer) 300 Privat (1er-Zimmer) 600
 
-[^16-1]: Fassung gemäss B vom 28. Oktober 2011 (OS 66, 942; ABl 2011, 3200). In Kraft seit 1. Januar 2012.
+**5**
+
+- 1\. 4. 23 - 120 § 17. <sup>1</sup> Für klinische Mehrleistungen erhebt das Spital folgende zusätzlichen Taxen:
+
+**d. klinische Mehrleistungen**
+
+Leistungskategorie Zusatztaxe pro Nacht (in Franken) Zürcher Schweizer ausländische Patientinnen Patientinnen Patientinnen und Patienten und Patienten und Patienten Halbprivat (2er-Zimmer) 400 Privat (1er-Zimmer) 400
+
+**400 400 400 400**
+
+<sup>2</sup> Die Spitaldirektion kann Pauschalen festlegen.
 
 #### § 18
 
-**Besondere Patientengruppen**
+**Weitere Leistungen**
 
-<sup>1</sup> Das Spital verrechnet für jedes Neugeborene (ob krank oder gesund) eine eigene Fallpauschale. Die Rechnungsstellung erfolgt sowohl beim gesunden als auch beim kranken Neugeborenen an die Mutter.[^16-1]
+<sup>1</sup> Für weitere Leistungen erhebt das Spital mindestens kostendeckende Gebühren nach marktwirtschaftlichen Grundsätzen.
 
-<sup>2</sup> Für Pflegepatientinnen und -patienten werden neben den Taxen für die Behandlung kostendeckende Taxen für Unterkunft, Verpflegung und Betreuung erhoben.
+<sup>2</sup> Die Spitaldirektion kann Tarife festsetzen.
 
-<sup>3</sup> Das Spital erhebt kostendeckende Taxen für Personen, die a. von einer Behörde eingewiesen worden sind,
+#### § 19
 
-- b. sich regelmässig nur tagsüber oder während der Nacht im Spital aufhalten,
+**Pflegepatientinnen und -patienten**
 
-- c. sich während der Ferien der sie sonst betreuenden Personen im Spital aufhalten,
+<sup>1</sup> Für Pflegepatientinnen und -patienten, die nicht mehr akutspitalbedürftig sind, werden neben den Taxen für die Behandlung kostendeckende Taxen für Unterkunft, Verpflegung und Betreuung erhoben.
 
-- d. Patientinnen oder Patienten begleiten.
-
-**Aufenthalt**
-
-§ 19.[^18-1] Das Spital stellt für den stationären Spitalaufenthalt Rechnung gemäss den Regeln und Definitionen zur Fallabrechnung unter SwissDRG.
-
-[^18-1]: Fassung gemäss B vom 28. Oktober 2011 (OS 66, 942; ABl 2011, 3200). In Kraft seit 1. Januar 2012.
+<sup>2</sup> Die Spitaldirektion kann Tarife festsetzen.
 
 #### § 20
 
 **Übertritt**
 
-Beim Übertritt einer Patientin oder eines Patienten in die Halbprivat- oder Privatabteilung verrechnet das Spital die für die neue Leistungskategorie geltenden Taxen inkl. Arzthonorare vom Übertrittstag an. Die Taxen der höheren Kategorie werden angemessen ermässigt, soweit die Zusatzleistungen aus betrieblichen Gründen erst mit Verspätung zur Verfügung gestellt werden.
+Beim Übertritt einer Patientin oder eines Patienten in die Halbprivat- oder Privatabteilung verrechnet das Spital die für die neue Leistungskategorie geltenden Taxen einschliesslich der entsprechenden Zuschläge vom Übertrittstag an. Die Zuschläge für Mehrleistungen werden ab dem Zeitpunkt der Inanspruchnahme in Rechnung gestellt.
 
-**5**
+#### § 21
 
-- 1\. 1. 13 - 79 § 21.[^20-1] Wenn ein Patient während eines Aufenthaltes das Spital für 24 Stunden oder länger verlässt, gilt dies als administrativer Urlaub. Die relevante Urlaubsdauer ermittelt sich gemäss den Regeln und Definitionen zur Fallabrechnung unter SwissDRG.
+**Verzug und Urlaub**
 
-[^20-1]: Fassung gemäss B vom 28. Oktober 2011 (OS 66, 942; ABl 2011, 3200). In Kraft seit 1. Januar 2012.
+<sup>1</sup> Tritt eine Patientin oder ein Patient die vereinbarte Behandlung nicht termingerecht an, wird eine Taxe von Fr. 2000 erhoben.
+
+<sup>2</sup> Nimmt sie oder er während des Spitalaufenthalts Urlaub, verrechnet das Spital für jede Nacht die vollen Taxen für die Mehrleistungen der Hotellerie und für die klinischen Mehrleistungen gemäss der gewählten Kategorie für die Dauer des Urlaubs.
 
 #### § 22
 
-**Urlaub**
+**300 300 600 600**
 
 **Taxermässigung**
 
@@ -265,15 +274,13 @@ Das Spital kann die Taxen angemessen ermässigen, wenn sie für eine Patientin o
 
 ### D. Aufnahme von Patientinnen und Patienten
 
-[^hDAufnahmevonPati-1]: LS 810.1.
-
 #### § 23
 
 **Grundsatz**
 
-<sup>1</sup> Das Spital gewährt zürcherischen Patientinnen oder Patienten sowie Patientinnen und Patienten mit Wohnsitz in einem Kanton, dem gegenüber sich der Kanton Zürich vertraglich zur Versorgung seiner Bevölkerung verpflichtet hat, bei der Aufnahme den Vorrang. Vorbehalten bleibt die Aufnahmepflicht nach dem Gesundheitsgesetz[^hDAufnahmevonPati-1].
+<sup>1</sup> Das Spital nimmt Patientinnen und Patienten im Rahmen seiner personellen und infrastrukturellen Kapazitäten nach Massgabe der medizinischen Dringlichkeit auf.
 
-<sup>2</sup> Es nimmt andere Patientinnen oder Patienten auf, soweit es die räumlichen und personellen Verhältnisse gestatten.
+<sup>2</sup> Bei gleicher medizinischer Dringlichkeit haben sozialversicherte Zürcher Patientinnen und Patienten sowie sozialversicherte Schweizer Patientinnen und Patienten aus Kantonen, die dem Spital einen Leistungsauftrag erteilt haben, den Vorrang.
 
 #### § 24
 
@@ -281,21 +288,25 @@ Das Spital kann die Taxen angemessen ermässigen, wenn sie für eine Patientin o
 
 <sup>1</sup> Bei der Aufnahme legt die Patientin oder der Patient folgende Unterlagen vor:
 
-- a. einen Personalausweis oder einen gleichwertigen Ausweis,
+- a. Personalausweis oder gleichwertiger Ausweis,
 
-- b. die unterzeichnete Eintrittserklärung mit der Angabe, in welcher Leistungskategorie die Behandlung erfolgen soll,
+- b. unterzeichnete Eintrittserklärung mit der Angabe, in welcher Leistungskategorie die Unterbringung und Behandlung erfolgen soll und welche Mehrleistungen beansprucht werden,
 
-- c. das Zeugnis der einweisenden Ärztin oder des einweisenden Arztes, ausser in Notfällen,
+- c. bei einer Einweisung durch eine Ärztin oder einen Arzt das entsprechende ärztliche Zeugnis,
 
-- d. bei stationärer Behandlung eine vorbehaltlose Kostengutsprache eines Versicherers, einer Amtsstelle oder eines anderen vom Spital anerkannten Garanten,
+- d. eine vorbehaltlose Kostengutsprache eines Versicherers, einer Amtsstelle oder eines anderen vom Spital anerkannten Garanten oder der Nachweis, dass ein Depot in der Höhe des mutmasslichen Rechnungsbetrags geleistet worden ist,
 
 - e. soweit nach den Umständen möglich, eine schriftliche Bestätigung der Patientin oder des Patienten, dass sie oder er über die von ihr oder ihm persönlich zu übernehmenden, voraussichtlichen Kosten der Behandlung in Kenntnis gesetzt wurde.
 
-<sup>2</sup> Werden diese Unterlagen bei der Aufnahme nicht vorgelegt oder bei Notfällen nicht innert fünf Arbeitstagen nachgereicht, kann das Spital eine unverzinsliche Sicherstellung im Umfang des mutmasslichen Rechnungsbetrages verlangen.
+<sup>2</sup> Werden diese Unterlagen bei der Aufnahme nicht vorgelegt oder bei Notfällen nicht innert fünf Arbeitstagen nachgereicht, kann das Spital eine unverzinsliche Sicherstellung im Umfang des mutmasslichen Rechnungsbetrags verlangen. Die Höhe dieser Sicherstellung kann nicht als Indiz für die zu erwartenden Kosten ausgelegt werden.
 
-<sup>3</sup> Die Kosten für die Abklärungen des Spitals werden den Patientinnen oder Patienten nach § 1 Abs. 2 in Rechnung gestellt.
+<sup>3</sup> Die Kosten für Abklärungen des Spitals im Rahmen der Patientenaufnahme werden der Patientin oder dem Patienten nach Aufwand in Rechnung gestellt.
 
-<sup>4</sup> Das Spital ist berechtigt, bei den Gemeinden Auskünfte zur Feststellung des Wohnsitzes von Patientinnen oder Patienten einzuholen. Zürcherische Gemeinden dürfen für die Erteilung der Auskünfte keine Gebühren erheben.
+<sup>4</sup> Das Spital klärt bei der Aufnahme – in Notfällen unmittelbar danach – den Wohnsitz der Patientin oder des Patienten ab. Bei Zürcher Patientinnen und Patienten kann es hierfür Daten der kantonalen Einwohnerdatenplattform beiziehen.
+
+**7**
+
+- 1\. 4. 23 - 120
 
 ### E. Taxbezug
 
@@ -305,7 +316,7 @@ Das Spital kann die Taxen angemessen ermässigen, wenn sie für eine Patientin o
 
 Die Taxen werden geschuldet:
 
-- a. von der Patientin oder vom Patienten,
+- a. von der Patientin oder dem Patienten,
 
 - b. von Taxgaranten und Auftraggebern für Leistungen, die in ihrem Auftrag erbracht worden sind,
 
@@ -317,51 +328,40 @@ Die Taxen werden geschuldet:
 
 Neben der Patientin oder dem Patienten haften dem Spital solidarisch:
 
-- a. der in rechtlich ungetrennter Ehe lebende Ehegatte,
+- a. die in rechtlich ungetrennter Ehe lebenden Ehegatten,
 
-- b. die Inhaber der elterlichen Sorge, c.[^26-1] die in eingetragener Partnerschaft lebenden Partnerinnen oder Partner.
+- b. die Inhaber der elterlichen Sorge,
 
-[^26-1]: Fassung gemäss B vom 24. Oktober 2012 (OS 68, 8; ABl 2012-11-16). In Kraft seit 1. Januar 2013.
-[^26-2]: LS 175.2.
+- c. die in eingetragener Partnerschaft lebenden Partnerinnen und Partner.
+
+[^26-1]: LS 175.2.
 
 #### § 27
 
 **Fälligkeit, Verrechnung und Verjährung**
 
-<sup>1</sup> Die Fälligkeit der Taxforderung und die Verzugszinse richten sich nach § 29 a des Verwaltungsrechtspflegegesetzes[^26-2].
+<sup>1</sup> Die Fälligkeit der Taxforderung und die Verzugszinse richten sich nach § 29 a des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^26-1].
 
 <sup>2</sup> Die Taxschuldnerin oder der Taxschuldner darf eine Forderung nicht mit der Taxforderung des Spitals verrechnen.
 
-<sup>3</sup> Die Taxforderung verjährt mit Ablauf von zehn Jahren ab dem Datum der Rechnungsstellung, jedenfalls aber mit dem Ablauf von zehn Jahren nach Abschluss der Behandlung.
+<sup>3</sup> Die Taxforderung verjährt mit Ablauf von zehn Jahren ab dem Datum der Rechnungstellung, jedenfalls aber mit dem Ablauf von zehn Jahren nach Abschluss der Behandlung.
 
 <sup>4</sup> Die Bestimmungen des Obligationenrechts[^27-1] über Abtretung und Schuldübernahme sind anwendbar.
 
 [^27-1]: SR 220.
 
-### F. Verschiedene Bestimmungen
+### F. Schlussbestimmungen
 
 #### § 28
 
 **Taxverträge**
 
-<sup>1</sup> Die Spitaldirektion kann mit Versicherern, Amtsstellen und anderen Taxgaranten Verträge abschliessen, in denen von dieser Verordnung abgewichen wird.
+Die Spitaldirektion kann mit Versicherern, Amtsstellen und anderen Taxgaranten Verträge abschliessen, in denen von dieser Taxordnung abgewichen wird.
 
-<sup>2</sup> Die Verträge bedürfen der Genehmigung durch den Spitalrat, soweit sie von dieser Taxordnung abweichen.
+[^28-1]: LS 813.155.1.
 
 #### § 29
 
 **Vollzug**
 
-Die Spitaldirektion vollzieht diese Verordnung. Sie bestimmt insbesondere die Einzelheiten bei der Berechnung der Taxen.
-
-**7**
-
-- 1\. 1. 13 - 79 § 30. Gegen die Taxfestsetzung durch die Spitaldirektion kann beim Spitalrat Rekurs erhoben werden.
-
-#### § 31
-
-**Rechtsmittel**
-
-**Inkrafttreten**
-
-Diese Taxordnung tritt am 1. Juli 2009 in Kraft.
+Die Spitaldirektion erlässt eine Vollzugsverordnung[^28-1]. Sie bestimmt insbesondere die Einzelheiten bei der Berechnung der Taxen.
