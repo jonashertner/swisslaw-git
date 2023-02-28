@@ -4,13 +4,12 @@ number: "975.6"
 title: Gesetz über das öffentliche Beschaffungswesen
 short: "Submissionsgesetz, SubmG"
 language: de
-version: 2004-02-01
-valid_until: 2023-02-28
-version_adopted: 2003-11-27
+version: 2023-03-01
+version_adopted: 2022-12-01
 adopted: 2003-11-27
 in_force: 2004-02-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/975.6"
-pdf: "http://gdb.ow.ch/api/de/versions/1676/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1787/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1676/pdf_file"
 
 (Submissionsgesetz, SubmG)
 
-vom 27.11.2003 (Stand 01.02.2004)
+vom 27.11.2003 (Stand 01.03.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -43,7 +42,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann Änderungen der IVöB, soweit sie nicht grundlegender Natur sind, zustimmen.
 
-<sup>3</sup> Er regelt die Einzelheiten des öffentlichen Beschaffungswesens in Ausführungsbestimmungen.
+<sup>3</sup> Er regelt die Einzelheiten des öffentlichen Beschaffungswesens in Ausführungsbestimmungen. Er kann eingereichte Unterlagen vom Geltungsbereich des Gesetzes über das Öffentlichkeitsprinzip ausnehmen.
 
 #### Art. 2
 
@@ -166,5 +165,15 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat bestimmt, wann dieses Gesetz in Kraft tritt.[^13-1] Es unterliegt dem fakultativen Referendum.
 
 [^13-1]: Vom Regierungsrat auf 1. Februar 2004 in Kraft gesetzt
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2003, 48
+
+Urprüngliches Inkrafttreten: 1. Februar 2004
+
+geändert durch
+
+\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1)
 
 OGS 2003, 48
