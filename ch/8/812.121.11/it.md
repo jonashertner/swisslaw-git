@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 30 maggio 2011 sugli elenchi degli stupefacenti, d
 short: OEStup-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/363"
 language: it
-version: 2022-09-30
+version: 2023-03-01
 adopted: 2011-05-30
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/fedlex-data-admin-ch-eli-cc-2011-363-20220930-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20220930/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20230301/it/xml/fedlex-data-admin-ch-eli-cc-2011-363-20230301-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20230301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20220930/it"
 
 (Ordinanza del DFI sugli elenchi degli stupefacenti, OEStup-DFI)
 
-del 30 maggio 2011 (Stato 30 settembre 2022)
+del 30 maggio 2011 (Stato 1° marzo 2023)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -117,493 +117,505 @@ Allegato 1[^t-1]
 
 ## Elenco generale delle sostanze controllate degli elenchi a–d
 
-[^t-1]: Aggiornato dal n. I cpv. 1 delle O del DFI del 5 set. 2014 ([RU 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), dai n. I delle O del DFI del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)) e dal n. II dell’O del DFI del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 387](https://fedlex.data.admin.ch/eli/oc/2022/387)).
+[^t-1]: Aggiornato dal n. I cpv. 1 delle O del DFI del 5 set. 2014 ([RU 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), dal n. I delle O del DFI del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)), dal n. II dell’O del DFI del 22 giu. 2022 ([RU 2022 387](https://fedlex.data.admin.ch/eli/oc/2022/387)) e dal n. I dell’O del DFI del 21 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 5](https://fedlex.data.admin.ch/eli/oc/2023/5)).
 
 <table>
-<tr><th>Designazione</th><th>GTIN</th><th>Elenco</th></tr>
-<tr><td>**AB-CHMINACA****,** N-[1-(amminocarbonil)-2-metilpropil]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide</td><td>7611746941224</td><td>d</td></tr>
-<tr><td>**AB-FUBINACA,** N-[1-(amminocarbonil)-2-metilpropil]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide, N-[1-ammino-3-metil-1-ossobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide</td><td>7611746964346</td><td>d</td></tr>
-<tr><td>**AB-PINACA****,** N-[1-(amminocarbonil)-2-metilpropil]-1-pentil-1H-indazolo-1-3-carbossammide</td><td>7611746941248</td><td>d</td></tr>
-<tr><td>**acetil-****α****-metilfentanil**</td><td>7611746240006</td><td>a</td></tr>
-<tr><td>**acetildiidrocodeina**</td><td>7611746001003</td><td>a</td></tr>
-<tr><td>**acetilfentanile,** N-[1-(2-feniletil)-4-piperidil]-N-fenilacetammide</td><td>7611746960522</td><td>d</td></tr>
-<tr><td>**acetilmetadolo** [(±)-isomero]</td><td>7611746002000</td><td>a</td></tr>
-<tr><td>**acetorfina**</td><td>7611746000006</td><td>a</td></tr>
-<tr><td>**acido 4-idrossibutirrico** l’estere gamma-butirrolattone (GBL) è escluso dalle misure di controllo quando è destinato all’uso industriale. L’impiego privato dell’estere gamma-butirrolattone (GBL) non è escluso dalle misure di controllo.</td><td>7611746400004</td><td>a</td></tr>
-<tr><td>**acido lisergico, dietilamide dell’** vedere dietilamide dell’acido lisergico (LSD-25)</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**Acrilfentanil****,** Acriloilfentanil, N-(1-fenetilpiperidin-4-il)-N-fenilacrilammide</td><td>7611746941194</td><td>d</td></tr>
-<tr><td>**alazepam**</td><td>7611746193005</td><td>b</td></tr>
-<tr><td>**ADB-CHMINACA (MAB-CHMINACA)****,** N-[1-(amminocarbonil)-2,2-dimetilpropil]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide, N-[1-ammino-3,3-dimetil-1-ossobutan-2-il]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide</td><td>7611746943273</td><td>d</td></tr>
-<tr><td>**alfacetilmetadolo** [(+)-isomero]</td><td>7611746005001</td><td>a</td></tr>
-<tr><td>**alfameprodina**</td><td>7611746006008</td><td>a</td></tr>
-<tr><td>**alfametadolo**</td><td>7611746007005</td><td>a</td></tr>
-<tr><td>**alpha-PHP, alfa-pirrolidinoesanofenone,** 1-fenil-2-(pirrolidin-1-il)esan-1-one</td><td>7611746943396</td><td>d</td></tr>
-<tr><td>**alfametilacetilfentanil** vedere sotto acetil-α-metilfentanil</td><td>7611746240006</td><td>a</td></tr>
-<tr><td>**alfaprodina** [(±)-isomero; cis]</td><td>7611746008002</td><td>a</td></tr>
-<tr><td>**alfentanile**</td><td>7611746003007</td><td>a</td></tr>
-<tr><td>**allilprodina**</td><td>7611746004004</td><td>a</td></tr>
-<tr><td>**allobarbitale**</td><td>7611746164005</td><td>b</td></tr>
-<tr><td>**aloxazolam**</td><td>7611746194002</td><td>b</td></tr>
-<tr><td>**alprazolam**</td><td>7611746165002</td><td>b</td></tr>
-<tr><td>**amfepramone**</td><td>7611746167006</td><td>b</td></tr>
-<tr><td>**anfetamina** [(±)-isomero]</td><td>7611746118008</td><td>a</td></tr>
-<tr><td>**AM-2201,** [1-(5-fluoropentil)-1H-indolo-3-il](naftalene-1-il)metanone</td><td>7611746960690</td><td>d</td></tr>
-<tr><td>**amineptina**</td><td>7611746250005</td><td>a</td></tr>
-<tr><td>**ADB-FUBINACA,** N-[1-(amminocarbonil)-2,2-dimetilpropil]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide, N-[1-ammino-3,3-dimetil-1-ossobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide</td><td>7611746941699</td><td>d</td></tr>
-<tr><td>**5F-AMB-PINACA (5F-AMB, 5F-MMB-PINACA),** 2-{[1-(5-fluoropentil)-1H-indazolo-3-il]formammide}-3-metilmetilbutanoato, metil-2-{[1-(5-fluoropentil)-1H-indazolo-3-carbonil]ammino}-3-metilbutanoato</td><td>7611746943211</td><td>d</td></tr>
-<tr><td>**AH-7921,** 3,4-dicloro-N-[(1-dimetilamino)cicloesilmetil]benzammide</td><td>7611746960867</td><td>d</td></tr>
-<tr><td>**2-amino-1-(2,5-dimetossi-4-metil)-fenilpropano** vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**cis-2-amino-4-metilfenil-2-oxazolina** vedere sotto 4-metilaminorex</td><td>7611746999379</td><td>d</td></tr>
-<tr><td>**2-aminopropiofenone** vedere sotto catinone</td><td>7611746134008</td><td>d</td></tr>
-<tr><td>**3-(2-aminobutil)-indolo** vedere sotto etriptamina</td><td>7611746227007</td><td>d</td></tr>
-<tr><td>**aminorex**</td><td>7611746225003</td><td>b</td></tr>
-<tr><td>**amobarbitale**</td><td>7611746166009</td><td>b</td></tr>
-<tr><td>**anileridina**</td><td>7611746009009</td><td>a</td></tr>
-<tr><td>**barbexaclone** vedere sotto fenobarbitale (-)-propilesdrina (1:1)</td><td>7611746168010</td><td>b</td></tr>
-<tr><td>**barbitale**</td><td>7611746168003</td><td>b</td></tr>
-<tr><td>**benzetidina**</td><td>7611746010005</td><td>a</td></tr>
-<tr><td>**benzfetamina**</td><td>7611746169000</td><td>b</td></tr>
-<tr><td>**benzilmorfina**</td><td>7611746011002</td><td>a</td></tr>
-<tr><td>**benzilpiperazina**</td><td>7611746269007</td><td>a</td></tr>
-<tr><td>**1-(benzo[d][1,3]diossol-5-il)-2-(pirrolidin-1-il)pentan-1-one** vedere sotto 3,4-metilendiossipirovalerone</td><td>7611746990970</td><td>d</td></tr>
-<tr><td>**betacetilmetadolo**</td><td>7611746012009</td><td>a</td></tr>
-<tr><td>**betameprodina**</td><td>7611746013006</td><td>a</td></tr>
-<tr><td>**betametadolo**</td><td>7611746014003</td><td>a</td></tr>
-<tr><td>**betaprodina**</td><td>7611746015000</td><td>a</td></tr>
-<tr><td>**bezitramide**</td><td>7611746016007</td><td>a</td></tr>
-<tr><td>**brolanfetamina** vedere sotto 4-brom-2,5-dimetossianfetamina</td><td>7611746137009</td><td>d</td></tr>
-<tr><td>**bromazepam**</td><td>7611746170006</td><td>b</td></tr>
-<tr><td>**4-brom-2,5-dimetossianfetamina** (DOB) [(±)-isomero]</td><td>7611746137009</td><td>d</td></tr>
-<tr><td>**4-brom-2,5-dimetossifeniletilamina** (2C-B)</td><td>7611746350002</td><td>d</td></tr>
-<tr><td>**brotizolam**</td><td>7611746226000</td><td>b</td></tr>
-<tr><td>**buprenorfina**</td><td>7611746017004</td><td>a</td></tr>
-<tr><td>**butalbitale**</td><td>7611746171003</td><td>b</td></tr>
-<tr><td>**1-butil-3-(1-naftoil)indolo** vedere sotto JWH-073</td><td>7611746990901</td><td>d</td></tr>
-<tr><td>**butirfentanile,** butanoil fentanile, N-fenil-N-(1-(2-feniletil)-4-piperidinil)-butanammide</td><td>7611746958673</td><td>d</td></tr>
-<tr><td>**butobarbitale**</td><td>7611746239000</td><td>b</td></tr>
-<tr><td>**butylone** vedere sotto 2-metilamino-1-(3,4-metilenediossifenil)butan-1-one</td><td>7611746990994</td><td>d</td></tr>
-<tr><td>**camazepam**</td><td>7611746172000</td><td>b</td></tr>
-<tr><td>**Canapa** Piante di canapa o parti delle stesse che presentano una concentrazione media di THC totale pari almeno all’1,0 % e tutti gli oggetti e i preparati fabbricati che presentano una concentrazione media di THC totale pari almeno all’1,0 % o fabbricati a partire da canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili alla canapa per scopi medici)</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**Canapa per scopi medici** Piante di canapa o parti delle stesse per scopi medici e la fabbricazione farmaceutica che presentano una concentrazione media di THC totale pari almeno all’1,0 % e tutti gli oggetti e i preparati fabbricati per scopi medici e la fabbricazione farmaceutica che presentano una concentrazione media di THC totale pari almeno all’1,0 % o fabbricati a partire da canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td>7611746946311</td><td>a</td></tr>
-<tr><td>**Canapa, estratto per scopi medici** vedere sotto Canapa per scopi medici</td><td>7611746946335</td><td>a</td></tr>
-<tr><td>**Canapa, estratto** vedere sotto Canapa (fatte salve le disposizioni applicabili all’estratto di canapa per scopi medici)</td><td>7611746999515</td><td>d</td></tr>
-<tr><td>**Canapa, olio** **per scopi medici** vedere sotto Canapa per scopi medici</td><td>7611746946342</td><td>a</td></tr>
-<tr><td>**Canapa, olio** vedere sotto Canapa (fatte salve le disposizioni applicabili all’olio di canapa per scopi medici)</td><td>7611746999485</td><td>d</td></tr>
-<tr><td>**Canapa, resina (hashish)** vedere sotto Canapa (fatte salve le disposizioni applicabili alla resina di canapa per scopi medici)</td><td>7611746999508</td><td>d</td></tr>
-<tr><td>**Canapa, resina (hashish)** **per scopi medici** vedere sotto Canapa per scopi medici</td><td>7611746946434</td><td>a</td></tr>
-<tr><td>**Canapa, semi** **destinati alla coltivazione** **per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td>7611746946311</td><td>a</td></tr>
-<tr><td>**Canapa, Semi** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili ai semi di canapa destinati alla coltivazione per la fabbricazione farmaceutica)</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**Canapa, talee** **destinate alla coltivazione per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td>7611746946311</td><td>a</td></tr>
-<tr><td>**Semi di canapa** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili ai semi di canapa destinati alla coltivazione per la fabbricazione farmaceutica)</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**Canapa, tintura per scopi medici** vedere sotto Canapa per scopi medici</td><td>7611746946298</td><td>a</td></tr>
-<tr><td>**Canapa, tintura** vedere sotto Canapa (fatte salve le disposizioni applicabili alla tintura di canapa per scopi medici)</td><td>7611746999492</td><td>d</td></tr>
-<tr><td>**cannabis** vedere sotto canapa</td><td></td><td>d</td></tr>
-<tr><td>**carfentanil**</td><td>7611746958161</td><td>a</td></tr>
-<tr><td>**catha edulis, foglie** (foglie della pianta di kath)</td><td>7611746999270</td><td>d</td></tr>
-<tr><td>**catina** [(+)-norpseudoefedrina]</td><td>7611746173007</td><td>b</td></tr>
-<tr><td>**catinone**</td><td>7611746134008</td><td>d</td></tr>
-<tr><td>**2C-B** vedere sotto 4-brom-2,5-dimetossifeniletilamina</td><td>7611746350002</td><td>d</td></tr>
-<tr><td>**cetobemidone**</td><td>7611746058007</td><td>a</td></tr>
-<tr><td>**ciclobarbitale**</td><td>7611746179009</td><td>b</td></tr>
-<tr><td>**Ciclopropilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]ciclopropanocarbossammide</td><td>7611746943297</td><td>d</td></tr>
-<tr><td>**1-(2-clorofenil)piperazina** vedere sotto o-clorofenil-piperazina</td><td>7611746991045</td><td>d</td></tr>
-<tr><td>**1-(3-clorofenil)piperazina** vedere sotto m-clorofenil-piperazina</td><td>7611746991038</td><td>d</td></tr>
-<tr><td>**1-(4-clorofenil)piperazina** vedere sotto p-clorofenil-piperazina</td><td>7611746991021</td><td>d</td></tr>
-<tr><td>**m-clorofenilpiperazina** (m-CPP)</td><td>7611746991038</td><td>d</td></tr>
-<tr><td>**o-clorofenilpiperazina** (o-CPP)</td><td>7611746991045</td><td>d</td></tr>
-<tr><td>**p-clorofenilpiperazina** (p-CPP)</td><td>7611746991021</td><td>d</td></tr>
-<tr><td>vedere sotto 2,5-dimetossi-4-iodofenetilamina</td><td>7611746137023</td><td>d</td></tr>
-<tr><td>**clobazam**</td><td>7611746175001</td><td>b</td></tr>
-<tr><td>**clonazepam**</td><td>7611746176008</td><td>b</td></tr>
-<tr><td>**clonitazene**</td><td>7611746019008</td><td>a</td></tr>
-<tr><td>**clorazepato**</td><td>7611746224006</td><td>b</td></tr>
-<tr><td>**clordiazepossido**</td><td>7611746174004</td><td>b</td></tr>
-<tr><td>**clotiazepam**</td><td>7611746177005</td><td>b</td></tr>
-<tr><td>**cloxazolam**</td><td>7611746178002</td><td>b</td></tr>
-<tr><td>**4-CMC, (4-clorometcatinone, clefedrone)**, 1-(4-clorofenil)-2-(metilammino)propano-1-one</td><td>7611746943372</td><td>d</td></tr>
-<tr><td>**coca, estratti** sono esclusi gli estratti di coca la cui concentrazione totale di cocaina, ecgonina e altri alcaloidi ecgoninici non è superiore a 1,25 ppm o 1,25 milligrammi per chilogrammo.</td><td>7611746999461</td><td>a</td></tr>
-<tr><td>**coca, foglie**</td><td>7611746999478</td><td>a</td></tr>
-<tr><td>**cocaina, tinture**</td><td>7611746999454</td><td>a</td></tr>
-<tr><td>**cocaina**</td><td>7611746021001</td><td>a</td></tr>
-<tr><td>**codeina** *(fatte salve le disposizioni applicabili ai preparati contenenti codeina)*</td><td>7611746022008</td><td>a</td></tr>
-<tr><td>I preparati contenenti **codeina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di codeina, calcolata come base, non supera i 100 mg per unità di somministrazione o la concentrazione non è superiore al 2,5 % nelle forme non divise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018[^annex1-lvlu1-1] sui medicamenti).</td><td></td><td>c</td></tr>
-<tr><td>**codeina-N-ossido**</td><td>7611746023005</td><td>a</td></tr>
-<tr><td>**codossima**</td><td>7611746024002</td><td>a</td></tr>
-<tr><td>**conocybe** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**CP 47,497, 3-[4-(1,1-dimetileptil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990963</td><td>d</td></tr>
-<tr><td>**CP 47,497-C6-omologhi, 3-[4-(1,1-dimetilesil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990956</td><td>d</td></tr>
-<tr><td>**CP 47,497-C8-omologhi, 3-[4-(1,1-dimetiloctil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990949</td><td>d</td></tr>
-<tr><td>**CP 47,497-C9-omologhi, 3-[4-(1,1-dimetilnonil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990932</td><td>d</td></tr>
-<tr><td>**m-CPP** vedere sotto m-chlorofenilpiperazina</td><td>7611746991038</td><td>d</td></tr>
-<tr><td>**o-CPP** vedere sotto o-chlorofenilpiperazina</td><td>7611746991045</td><td>d</td></tr>
-<tr><td>**p-CPP** vedere sotto p-chlorofenilpiperazina</td><td>7611746991021</td><td>d</td></tr>
-<tr><td>**2C-T-2** vedere sotto 4-etiltio-2,5-dimetossifenetilamina</td><td>7611746137016</td><td>d</td></tr>
-<tr><td>**2C-T-7** vedere sotto 2,5-dimetossi-4-(n)-propiltiofenetilamina</td><td>7611746138013</td><td>d</td></tr>
-<tr><td>**Crotonilfentanil,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]-2-butenammide</td><td>7611746943242</td><td>d</td></tr>
-<tr><td>**CUMYL-4CN-BINACA****,** 1-(4-cianobutil)-N-(2-fenilpropan-2-il)indazolo-3-carbossammide</td><td>7611746943266</td><td>d</td></tr>
-<tr><td>**delorazepam**</td><td>7611746180005</td><td>b</td></tr>
-<tr><td>**desomorfina**</td><td>7611746025009</td><td>a</td></tr>
-<tr><td>**destromoramide**</td><td>7611746026006</td><td>a</td></tr>
-<tr><td>**destropropossifene** *(fatte salve le disposizioni applicabili ai preparati contenenti destropropossifene)*</td><td>7611746027003</td><td>a</td></tr>
-<tr><td>I preparati contenenti **destropropossifene** sono esclusi parzialmente dalle misure di controllo quando sono destinati a un’applicazione per via orale e quando la dose, calcolata come base, non supera i 135 mg per unità di somministrazione o quando la concentrazione non è superiore a 2,5 % nei preparati non suddivisi. Non devono contenere altri stupefacenti o sostanze psicotrope. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
-<tr><td>**DET** vedere sotto N,N-dietiltriptamina</td><td>7611746135005</td><td>d</td></tr>
-<tr><td>**dexanfetamina** [(+)-isomero]</td><td>7611746119005</td><td>a</td></tr>
-<tr><td>**diacetilmorfina** vedere sotto eroina</td><td>7611746050001</td><td>d</td></tr>
-<tr><td>**diamorfina** vedere sotto eroina</td><td>7611746050001</td><td>d</td></tr>
-<tr><td>**diampromide**</td><td>7611746029007</td><td>a</td></tr>
-<tr><td>**diazepam**</td><td>7611746181002</td><td>b</td></tr>
-<tr><td>**dideidro-9,10-N,N-dietilmetil-6-ergolin-carbossamide-8****β**vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**dietilamide dell’acido lisergico** (LSD-25)</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**3-(2-dietilaminoetil)-indolo** vedere sotto N,N-dietiltriptamina</td><td>7611746135005</td><td>d</td></tr>
-<tr><td>**N,N-dietillisergamide** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**dietilpropione** vedere sotto amfepramone</td><td>7611746167006</td><td>b</td></tr>
-<tr><td>**dietiltiambutene**</td><td>7611746312000</td><td>a</td></tr>
-<tr><td>**N,N-dietiltriptamina** (DET)</td><td>7611746135005</td><td>d</td></tr>
-<tr><td>**difenossilato**</td><td>7611746038009</td><td>a</td></tr>
-<tr><td>**difenossina** *(fatte salve le disposizioni applicabili ai preparati contenenti difenossina)*</td><td>7611746031000</td><td>a</td></tr>
-<tr><td>I preparati contenenti **difenossina** sono esclusi parzialmente dalle misure di controllo quando contengono, per unità di somministrazione, al massimo 0,5 mg di difenossina calcolata come base e una quantità di atropina solfato uguale al 5 % al minimo della quantità di difenossina. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
-<tr><td>**diidrocodeina** *(fatte salve le disposizioni applicabili ai preparati contenenti diidrocodeina)*</td><td>7611746032007</td><td>a</td></tr>
-<tr><td>I preparati contenenti **diidrocodeina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di diidrocodeina, calcolata come base, non supera i 100 mg per unità di somministrazione o quando la concentrazione non è superiore a 2,5 % nelle forme non suddivise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
-<tr><td>**diidrocodeinone** vedere sotto idrocodone</td><td>7611746051008</td><td>a</td></tr>
-<tr><td>**diidroetorfina**</td><td>7611746260004</td><td>a</td></tr>
-<tr><td>**diidromorfina**</td><td>7611746033004</td><td>a</td></tr>
-<tr><td>**diidromorfinone** vedere sotto idromorfone</td><td>7611746053002</td><td>a</td></tr>
-<tr><td>**dimefeptanolo**</td><td>7611746035008</td><td>a</td></tr>
-<tr><td>**dimenoxadolo**</td><td>7611746034001</td><td>a</td></tr>
-<tr><td>**6-dimetilamino-4,4-difenil-3-eptanone** vedere sotto metadone</td><td>7611746064008</td><td>a</td></tr>
-<tr><td>**3-(2-dimetilaminoetil)-indol-4-ile, diidrogenofosfato** vedere sotto psilocibina</td><td>7611746152002</td><td>d</td></tr>
-<tr><td>**3-(2-dimetilaminoetil)-indol-4-olo** vedere sotto psilocina</td><td>7611746151005</td><td>d</td></tr>
-<tr><td>**3-(2-dimetilaminoetil)-indolo** vedere sotto N,N-dimetiltriptamina</td><td>7611746297000</td><td>d</td></tr>
-<tr><td>**5-(1,1-dimetileptil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497</td><td>7611746990963</td><td>d</td></tr>
-<tr><td>**3-[4-(1,1-dimetileptil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497</td><td>7611746990963</td><td>d</td></tr>
-<tr><td>**dimetileptiltetraidrocannabinolo** (DMHP)</td><td>7611746141006</td><td>d</td></tr>
-<tr><td>**5-(1,1-dimetilesil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C6-omologhi</td><td>7611746990956</td><td>d</td></tr>
-<tr><td>**3-[4-(1,1-dimetilesil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C6- omologhi</td><td>7611746990956</td><td>d</td></tr>
-<tr><td>**5-(1,1-dimetilnonil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C9-omologhi</td><td>7611746990932</td><td>d</td></tr>
-<tr><td>**3-[4-(1,1-dimetilnonil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C9-omologhi</td><td>7611746990932</td><td>d</td></tr>
-<tr><td>**5-(1,1-dimetiloctil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C8-omologhi</td><td>7611746990949</td><td>d</td></tr>
-<tr><td>**3-[4-(1,1-dimetiloctil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C8-omologhi</td><td>7611746990949</td><td>d</td></tr>
-<tr><td>**dimetiltiambutene**</td><td>7611746030003</td><td>a</td></tr>
-<tr><td>**N,N-dimetiltriptamina** (DMT)</td><td>7611746297000</td><td>d</td></tr>
-<tr><td>**2,5-dimetossi-4-etilanfetamina** (DOET) [(±)-isomero]</td><td>7611746138006</td><td>d</td></tr>
-<tr><td>**2,5-dimetossi-4-iodofenetilamina** (2C-I)</td><td>7611746137023</td><td>d</td></tr>
-<tr><td>**2,5-dimetossi-4-metilanfetamina** (DOM, STP) [(±)-isomero]</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**2,5-dimetossi-4-(n)-propiltiofenetilamina** (2C-T-7)</td><td>7611746138013</td><td>d</td></tr>
-<tr><td>**2,5-dimetossianfetamina** (DMA)</td><td>7611746136002</td><td>d</td></tr>
-<tr><td>**diossafetilbutirrato**</td><td>7611746037002</td><td>a</td></tr>
-<tr><td>**dipipanone**</td><td>7611746039006</td><td>a</td></tr>
-<tr><td>**DMA** vedere sotto 2,5-dimetossianfetamina</td><td>7611746136002</td><td>d</td></tr>
-<tr><td>**DMHP** vedere sotto dimetileptiltetraidrocannabinolo</td><td>7611746141006</td><td>d</td></tr>
-<tr><td>**DMT** vedere sotto N,N-dimetiltriptamina</td><td>7611746297000</td><td>d</td></tr>
-<tr><td>**DOB** vedere sotto 4-brom-2,5-dimetossianfetamina</td><td>7611746137009</td><td>d</td></tr>
-<tr><td>**DOC****,** 1-(4-cloro-2,5-dimetossifenil)propan-2-amina, 2,5-dimetossi-4-cloranfetamina, 4-cloro-2,5-DMA</td><td>7611746943228</td><td>d</td></tr>
-<tr><td>**DOET** vedere sotto 2,5-dimetossi-4-etilanfetamina</td><td>7611746138006</td><td>d</td></tr>
-<tr><td>**DOM** (STP) vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**Dronabinolo per scopi medici** vedere sotto (-)-trans-delta-9-tetraidrocannabinolo per scopi medici</td><td>7611746946380</td><td>a</td></tr>
-<tr><td>**Dronabinolo** vedere sotto (-)-trans-delta-9-tetraidrocannabinolo (fatte salve le disposizioni applicabili al dronabinolo per scopi medici)</td><td>7611746155010</td><td>d</td></tr>
-<tr><td>**drotebanolo**</td><td>7611746040002</td><td>a</td></tr>
-<tr><td>**ecgonina e suoi esteri e derivati trasformabili in ecgonina e cocaina**</td><td>7611746041009</td><td>a</td></tr>
-<tr><td>**efedrone** vedere sotto metcatinone</td><td>7611746331001</td><td>d</td></tr>
-<tr><td>**eroina** (diacetilmorfina/dimorfina)</td><td>7611746050001</td><td>d</td></tr>
-<tr><td>**1-esil-3-(1-naftoil)indolo** vedere sotto JWH-019</td><td>7611746990918</td><td>d</td></tr>
-<tr><td>**estazolam**</td><td>7611746182009</td><td>b</td></tr>
-<tr><td>**etclorvinolo**</td><td>7611746183006</td><td>b</td></tr>
-<tr><td>**eticiclidina** (PCE)</td><td>7611746140009</td><td>d</td></tr>
-<tr><td>**N-etilanfetamina** vedere sotto etilanfetamina</td><td>7611746186007</td><td>b</td></tr>
-<tr><td>**25B-NBOMe,** 2-(4-bromo-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746964520</td><td>d</td></tr>
-<tr><td>**25C-NBOMe,** 2-(4-cloro-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746963899</td><td>d</td></tr>
-<tr><td>**25I-NBOMe,** 2-(4-iodio-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746958468</td><td>d</td></tr>
-<tr><td>**etilanfetamina** [(+)-isomero]</td><td>7611746186007</td><td>b</td></tr>
-<tr><td>**N-etil-1-fenil-cicloesilamina** vedere sotto eticiclidina</td><td>7611746140009</td><td>d</td></tr>
-<tr><td>**N-etil-****MDA** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td>d</td></tr>
-<tr><td>**N-etil-3,4-metilendiossianfetamina** (MDE, MDEA) [(±)-isomero]</td><td>7611746132004</td><td>d</td></tr>
-<tr><td>**etilfenidato**, etil-2-fenil-2-(piperidin-2-il)acetato</td><td>7611746965169</td><td>d</td></tr>
-<tr><td>**etilloflazepato**</td><td>7611746185000</td><td>b</td></tr>
-<tr><td>**α****-etil-N-metil-3,4-metilendiossianfetamina** (MBDB)</td><td>7611746976806</td><td>d</td></tr>
-<tr><td>**etilmetiltiambutene**</td><td>7611746042006</td><td>a</td></tr>
-<tr><td>**etilmorfina** *(fatte salve le disposizioni applicabili ai preparati contenenti etilmorfina)*</td><td>7611746043003</td><td>a</td></tr>
-<tr><td>I preparati contenenti **etilmorfina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di etilmorfina, calcolata come base, non supera i 100 mg per unità di somministrazione o quando la concentrazione non supera 2,5 % nelle forme non suddivise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
-<tr><td>**etilone,** 1-(2H-1,3-benzodiossol-5-il)-2-(etilamino)propan-1-one</td><td>7611746958086</td><td>d</td></tr>
-<tr><td>**4-etiltio-2,5-dimetossifenetilamina** (2C-T-2)</td><td>7611746137016</td><td>d</td></tr>
-<tr><td>**etinamato**</td><td>7611746184003</td><td>b</td></tr>
-<tr><td>**etizolam**</td><td>7611746965459</td><td>b</td></tr>
-<tr><td>**etonitazene**</td><td>7611746044000</td><td>a</td></tr>
-<tr><td>**etorfina**</td><td>7611746045007</td><td>a</td></tr>
-<tr><td>**etoxeridina**</td><td>7611746046004</td><td>a</td></tr>
-<tr><td>**etriptamina**</td><td>7611746227007</td><td>d</td></tr>
-<tr><td>**5F-APINACA, 5F-AKB48;** N-(adamantan-1-il)-1-[(5-fluoropentil)-1H-indazolo-3-carbossammide</td><td>7611746958055</td><td>d</td></tr>
-<tr><td>**fenadossone**</td><td>7611746097006</td><td>a</td></tr>
-<tr><td>**fenampromide**</td><td>7611746098003</td><td>a</td></tr>
-<tr><td>**fenazepam**</td><td>7611746965435</td><td>b</td></tr>
-<tr><td>**fenazocina**</td><td>7611746099000</td><td>a</td></tr>
-<tr><td>**fencamfamina**</td><td>7611746187004</td><td>b</td></tr>
-<tr><td>**fenciclidina** (PCP)</td><td>7611746124009</td><td>a</td></tr>
-<tr><td>**fendimetrazina** [(±)-isomero, trans]</td><td>7611746205012</td><td>b</td></tr>
-<tr><td>**fenetillina**</td><td>7611746120001</td><td>a</td></tr>
-<tr><td>**1-(1-fenilcicloesil)-pirrolidina** vedere sotto roliciclidina</td><td>7611746153009</td><td>d</td></tr>
-<tr><td>**1-(2-feniletil)-4-fenil-4-acetossipiperidina** (PEPAP)</td><td>7611746100003</td><td>a</td></tr>
-<tr><td>**fenmetrazina**</td><td>7611746125006</td><td>a</td></tr>
-<tr><td>**fenobarbitale**</td><td>7611746214007</td><td>b</td></tr>
-<tr><td>**fenobarbitale . (-)-propilesedrina (1:1)** (barbexaclone)</td><td>7611746168010</td><td>b</td></tr>
-<tr><td>**fenomorfano**</td><td>7611746101000</td><td>a</td></tr>
-<tr><td>**fenoperidina**</td><td>7611746102007</td><td>a</td></tr>
-<tr><td>**fenproporex**</td><td>7611746188001</td><td>b</td></tr>
-<tr><td>**fentanile**</td><td>7611746047001</td><td>a</td></tr>
-<tr><td>**fentermina**</td><td>7611746215004</td><td>b</td></tr>
-<tr><td>**fludiazepam**</td><td>7611746189008</td><td>b</td></tr>
-<tr><td>**flunitrazepam**</td><td>7611746190004</td><td>b</td></tr>
-<tr><td>**4-Fluorisobutirfentanil****,**N-(4-fluorofenil)-N-(1-fenetilpiperidina-4-il)isobutirrammide</td><td>7611746941200</td><td>d</td></tr>
-<tr><td>**4-fluoroanfetamina**</td><td>7611746991052</td><td>d</td></tr>
-<tr><td>**1-(4-fluorofenil)propan-2-amina** vedere sotto 4-fluoro-anfetamina</td><td>7611746991052</td><td>d</td></tr>
-<tr><td>**5F-MDMB-PINACA****, 5F-ADB,** metil-2-[1-(5-fluoropentil)-1H-indazolo-3-carbossamide]-3,3-dimetilbutanoato</td><td>7611746941231</td><td>d</td></tr>
-<tr><td>**5F-PB22****,** chinolin-8-il-[1-(5-fluoropentil)-1H-indol-3-il]-carbossilato,chinolin-8-il-[1-(5-fluoropentil)-1H-indol]-3-carbossilato</td><td>7611746941262</td><td>d</td></tr>
-<tr><td>**p-fluorofentanile**</td><td>7611746048008</td><td>a</td></tr>
-<tr><td>**flurazepam**</td><td>7611746191001</td><td>b</td></tr>
-<tr><td>**2-fluorofentanil, orto-fluorofentanil****,** N-(2-fluorofenil)-N-[1-(2-feniletil)piperidina-4-il]propanammide</td><td>7611746943310</td><td>d</td></tr>
-<tr><td>**4-fluorobutirilfentanil, parafluorobutirrilfentanil****,** N-(4-fluorofenil)-N-[1-(2-feniletil)piperidina-4-il]butanammide</td><td>7611746943327</td><td>d</td></tr>
-<tr><td>**FUB-AMB (MMB-FUBINACA, AMB-FUBINACA)****,** metil-2-(1-[(4-fluorofenil)metil]-1H-indazolo-3-amminocarbonil)-3-metilbutanoato</td><td>7611746943280</td><td>d</td></tr>
-<tr><td>**Flualprazolam****,** 8-cloro-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina</td><td>7611746943402</td><td>d</td></tr>
-<tr><td>**folcodina** *(fatte salve le disposizioni applicabili ai preparati contenenti folcodina)*</td><td>7611746103004</td><td>a</td></tr>
-<tr><td>I preparati contenenti **folcodina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di folcodina, calcolata come base, non supera i 100 mg per unità di somministrazione o quando la concentrazione non è superiore a 2,5 % nelle forme non divise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
-<tr><td>**funghi allucinogeni dei generi conocybe, panaeolus, psilocybe e stropharia**</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**Furanilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]furano-2-carbossammide</td><td>7611746941187</td><td>d</td></tr>
-<tr><td>**furetidina**</td><td>7611746049005</td><td>a</td></tr>
-<tr><td>**GHB** vedere sotto acido 4-idrossibutirrico</td><td>7611746400004</td><td>a</td></tr>
-<tr><td>**glutetimide**</td><td>7611746192008</td><td>b</td></tr>
-<tr><td>**hashish** vedere sotto canapa, resina</td><td>7611746999508</td><td>d</td></tr>
-<tr><td>**ibogaina**</td><td>7611746235002</td><td>d</td></tr>
-<tr><td>**idrocodone**</td><td>7611746051008</td><td>a</td></tr>
-<tr><td>**idromorfinolo**</td><td>7611746052005</td><td>a</td></tr>
-<tr><td>**idromorfone**</td><td>7611746053002</td><td>a</td></tr>
-<tr><td>**1-idrossi-3-(1,2-dimetileptil)-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo[b,d]pirano** vedere sotto dimetileptiltetraidrocannabinolo</td><td>7611746141006</td><td>d</td></tr>
-<tr><td>**1-idrossi-3-n-esil-7,8,9,10-tetraidro-6,6,9-trimetil-6H-benzo[b,d]pirano** vedere sotto paraesile</td><td>7611746149002</td><td>d</td></tr>
-<tr><td>**β****-idrossifentanile**</td><td>7611746054009</td><td>a</td></tr>
-<tr><td>**N-idrossi-3,4-metilendiossianfetamina** (N-idrossi-MDA)</td><td>7611746142003</td><td>d</td></tr>
-<tr><td>**N-idrossi-****MDA** vedere sotto N-idrossi-3,4-metilendiossianfetamina</td><td>7611746142003</td><td>d</td></tr>
-<tr><td>**β****-idrossimetil-3-fentanile**</td><td>7611746055006</td><td>a</td></tr>
-<tr><td>**idrossipetidina**</td><td>7611746056003</td><td>a</td></tr>
-<tr><td>**isometadone**</td><td>7611746057000</td><td>a</td></tr>
-<tr><td>**JWH-018, 1-pentil-3-(1-naftoil)indolo**</td><td>7611746990925</td><td>d</td></tr>
-<tr><td>**JWH-019, 1-esil-3-(1-naftoil)indolo**</td><td>7611746990918</td><td>d</td></tr>
-<tr><td>**JWH-073, 1-butil-3-(1-naftoil)indolo**</td><td>7611746990901</td><td>d</td></tr>
-<tr><td>**JWH-250, 1-pentil-3-(2-metossifenilacetil)indolo**</td><td>7611746990895</td><td>d</td></tr>
-<tr><td>**Ketamina** Sono esclusi dal controllo i medicamenti pronti per l’uso utilizzati per iniezione per coloro che sono autorizzati all’impiego di sostanze controllate dell’elenco b.</td><td>7611746941163</td><td>b</td></tr>
-<tr><td>**ketazolam**</td><td>7611746195009</td><td>b</td></tr>
-<tr><td>**LAAM** vedere sotto levoacetilmetadolo</td><td>7611746236009</td><td>a</td></tr>
-<tr><td>**lefetamina** (SPA)</td><td>7611746196006</td><td>b</td></tr>
-<tr><td>**levanfetamina** [(-)-isomero]</td><td>7611746197003</td><td>a</td></tr>
-<tr><td>**levoacetilmetadolo** [(-)-isomero] (LAAM)</td><td>7611746236009</td><td>a</td></tr>
-<tr><td>**levofenacilmorfano**</td><td>7611746061007</td><td>a</td></tr>
-<tr><td>**levometadone**</td><td>7611746979845</td><td>a</td></tr>
-<tr><td>**levometanfetamina**</td><td>7611746290001</td><td>a</td></tr>
-<tr><td>**levometorfano** *Il destrometorfano non sottostà a controlli*</td><td>7611746059004</td><td>a</td></tr>
-<tr><td>**levomoramide**</td><td>7611746060000</td><td>a</td></tr>
-<tr><td>**levorfanolo** *Il destrorfano non sottostà a controlli*</td><td>7611746062004</td><td>a</td></tr>
-<tr><td>**lisdexanfetamina**</td><td>7611764965442</td><td>a</td></tr>
-<tr><td>**lisergide** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**loflazepato d’etile** vedere sotto etilloflazepato</td><td>7611746185000</td><td>b</td></tr>
-<tr><td>**Lophophora williamsii** vedere sotto peyotl</td><td>7611746371007</td><td>d</td></tr>
-<tr><td>**loprazolam**</td><td>7611746198000</td><td>b</td></tr>
-<tr><td>**lorazepam**</td><td>7611746228004</td><td>b</td></tr>
-<tr><td>**lormetazepam**</td><td>7611746200000</td><td>b</td></tr>
-<tr><td>**LSD** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**LSD-25** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**mazindolo**</td><td>7611746201007</td><td>b</td></tr>
-<tr><td>**MBDB** vedere sotto α-etil-N-metil-3,4-metilendiossianfetamina</td><td>7611746976806</td><td>d</td></tr>
-<tr><td>**MDA** vedere sotto 3,4-metilendiossianfetamina</td><td>7611746459002</td><td>d</td></tr>
-<tr><td>**MDE** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td>d</td></tr>
-<tr><td>**MDEA** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td>d</td></tr>
-<tr><td>**4F-MDMB-BINACA (4F-MDMB-BUTINACA)**, metil-2-{[1- (4-fluorobutil)-1H-indazolo-3-carbonil]ammino}-3,3-dimetilbutanoato</td><td>7611746943365</td><td>d</td></tr>
-<tr><td>**5F-MDMB-PICA (5F-MDMB-2201),** metil-2-{[1-(5-fluoropentil)-1H-indolo-3-carbonil]ammino}-3,3-dimetilbutanoato</td><td>7611746943204</td><td>d</td></tr>
-<tr><td>**MDMA** vedere sotto 3,4-metilendiossimetanfetamina</td><td>7611746148005</td><td>d</td></tr>
-<tr><td>**MDMB-CHMICA,** metil N-{[1-(cicloesilmetil)-1H-indolo-3-il]carbonile}-3-metil-L-valinato</td><td>7611746958062</td><td>d</td></tr>
-<tr><td>**MDPV** vedere sotto 3,4-metilendiossipirovalerone</td><td>7611746990970</td><td>d</td></tr>
-<tr><td>**4-MEC,** 4-metiletcatinone, 2-etilamino-1-(4-metilfenil)propan-1-one</td><td>7611746958093</td><td>d</td></tr>
-<tr><td>**mecloqualone**</td><td>7611746126003</td><td>a</td></tr>
-<tr><td>**medazepam**</td><td>7611746202004</td><td>b</td></tr>
-<tr><td>**mefenorex** [(±)-isomero]</td><td>7611746203001</td><td>b</td></tr>
-<tr><td>**mephedrone** vedere sotto 4-metilmetcatinone</td><td>7611746991007</td><td>d</td></tr>
-<tr><td>**meprobamato**</td><td>7611746204008</td><td>b</td></tr>
-<tr><td>**mescalina**</td><td>7611746144007</td><td>d</td></tr>
-<tr><td>**mesocarbo**</td><td>7611746229001</td><td>b</td></tr>
-<tr><td>**metadolo** vedere sotto demefeptanolo</td><td>7611746035008</td><td>a</td></tr>
-<tr><td>**metadone** [(±)-isomero]</td><td>7611746064008</td><td>a</td></tr>
-<tr><td>**metadone, intermedio del**</td><td>7611746064008</td><td>a</td></tr>
-<tr><td>**metanfetamina** [(±)-isomero]</td><td>7611746121008</td><td>a</td></tr>
-<tr><td>**metaqualone**</td><td>7611746127000</td><td>a</td></tr>
-<tr><td>**metazocina**</td><td>7611746063001</td><td>a</td></tr>
-<tr><td>**metcatinone** (efedrone) [(±)-isomero]</td><td>7611746331001</td><td>d</td></tr>
-<tr><td>**para-metil-4-metilaminorex,** 4,4’-DMAR</td><td>7611746958116</td><td>d</td></tr>
-<tr><td>**metilone** vedere sotto 3,4-metilendiossimetcatinone</td><td>7611746990987</td><td>d</td></tr>
-<tr><td>**2-(metilamino)-1-fenilpropan-1-one** vedere sotto metcatinone</td><td>7611746331001</td><td>d</td></tr>
-<tr><td>**2-metilamino-1-(3,4-metilenediossifenil)butan-1-one** (butylone)</td><td>7611746990994</td><td>d</td></tr>
-<tr><td>**4-metilaminorex**</td><td>7611746999379</td><td>d</td></tr>
-<tr><td>**N-metil-1-(1,3-benzodiossol-5-il)-2-butilamina** vedere sotto alpha-etil-N-metil-3,4-metilendiossianfetamina</td><td>7611746976806</td><td>d</td></tr>
-<tr><td>**metildesorfina**</td><td>7611746066002</td><td>a</td></tr>
-<tr><td>**metildiidromorfina**</td><td>7611746067009</td><td>a</td></tr>
-<tr><td>**3,4-metilendiossianfetamina** (MDA) [(±)-isomero]</td><td>7611746459002</td><td>d</td></tr>
-<tr><td>**(3,4-metilendiossifenil)-2-metilaminopropan-1-one** vedere sotto 3,4-metilendiossimetcatinone</td><td>7611746990987</td><td>d</td></tr>
-<tr><td>**3,4-metilendiossimetanfetamina** (MDMA) [(±)-isomero]</td><td>7611746148005</td><td>d</td></tr>
-<tr><td>**3,4-metilendiossimetcatinone** (Methylone)</td><td>7611746990987</td><td>d</td></tr>
-<tr><td>**3,4-metilendiossipirovalerone** (MDPV)</td><td>7611746990970</td><td>d</td></tr>
-<tr><td>**metilfenidato**</td><td>7611746122005</td><td>a</td></tr>
-<tr><td>**1-(4-metilfenil)-2-metilaminopropan-1-one** vedere sotto 4-metilmetcatinone</td><td>7611746991007</td><td>d</td></tr>
-<tr><td>**1-metil-4-fenil-4-propionossipiperidina** (MPPP)</td><td>7611746070009</td><td>a</td></tr>
-<tr><td>**metilfenobarbitale**</td><td>7611746199007</td><td>b</td></tr>
-<tr><td>**α****-metilfentanile**</td><td>7611746068006</td><td>a</td></tr>
-<tr><td>**3-metilfentanile**</td><td>7611746997795</td><td>a</td></tr>
-<tr><td>**4-metilmetcatinone** (mephedrone)</td><td>7611746991007</td><td>d</td></tr>
-<tr><td>**4-metiltioanfetamina** (4-MTA)</td><td>7611746354000</td><td>d</td></tr>
-<tr><td>**α****-metiltiofentanile**</td><td>7611746071006</td><td>a</td></tr>
-<tr><td>**3-metiltiofentanile**</td><td>7611746072003</td><td>a</td></tr>
-<tr><td>**metiopropamina, MPA,** N-metil-1-(tiofen-2-il)propan-2-ammina</td><td>7611746965145</td><td>d</td></tr>
-<tr><td>**metiprilone**</td><td>7611746206002</td><td>b</td></tr>
-<tr><td>**metopone**</td><td>7611746073000</td><td>a</td></tr>
-<tr><td>**metossetamina**, 2-(3-metossifenil)-2-(etilamino cicloesanone</td><td>7611746964728</td><td>d</td></tr>
-<tr><td>**Metossiacetilfentanil****,** 2-metossi-N-fenil-N-[1-(2-feniletil)piperidina-4-il]acetamide</td><td>7611746943303</td><td>d</td></tr>
-<tr><td>**p-metossianfetamina** (PMA)</td><td>7611746150008</td><td>d</td></tr>
-<tr><td>**2-(2-metossifenil)-1-(1-pentilindol-3-il)etanone** vedere sotto JWH-250</td><td>7611746990895</td><td>d</td></tr>
-<tr><td>**p-metossimetanfetamina** (PMMA)</td><td>7611746150015</td><td>d</td></tr>
-<tr><td>**5-metossi-3,4-metilendiossianfetamina** (MMDA)</td><td>7611746145004</td><td>d</td></tr>
-<tr><td>**midazolam**</td><td>7611746207009</td><td>b</td></tr>
-<tr><td>**mitraginina**</td><td>7611746958154</td><td>a</td></tr>
-<tr><td>**7-idrossimitraginina**</td><td>7611746958147</td><td>a</td></tr>
-<tr><td>**mirofina**</td><td>7611746081005</td><td>a</td></tr>
-<tr><td>**MMDA** vedere sotto 5-metossi-3,4-metilendiossianfetamina</td><td>7611746145004</td><td>d</td></tr>
-<tr><td>**moramide, intermedio del**</td><td>7611746076001</td><td>a</td></tr>
-<tr><td>**morferidina**</td><td>7611746077008</td><td>a</td></tr>
-<tr><td>**morfina**</td><td>7611746078005</td><td>a</td></tr>
-<tr><td>**morfina metobromuro e altri derivati morfinici ad** **azoto pentavalente**</td><td>7611746079002</td><td>a</td></tr>
-<tr><td>**morfina N-ossido**</td><td>7611746080008</td><td>a</td></tr>
-<tr><td>**MPPP** vedere sotto 1-metil-4-fenil-4-propionossipiperidina</td><td>7611746070009</td><td>a</td></tr>
-<tr><td>**MT-45,** 1-cicloesil-4-(1,2-difeniletil)piperazina</td><td>7611746958130</td><td>d</td></tr>
-<tr><td>**4-****MTA**vedere sotto 4-metiltioanfetamina</td><td>7611746354000</td><td>d</td></tr>
-<tr><td>**N-etilnoresedrone, N-etilesedrone,** 2-(etilamino)-1-fenilesan-1-one</td><td>7611746943389</td><td>d</td></tr>
-<tr><td>**N-etilnorpentilone (efilone)****,** 1-(2H-1,3-benzodiossol-5-il)-2-(etilamino)pentan-1-one</td><td>7611746943259</td><td>d</td></tr>
-<tr><td>**(naftalene-1-il)(1-butil-1H-indol-3-il)metanone** vedere sotto JWH-073</td><td>7611746990901</td><td>d</td></tr>
-<tr><td>**(naftalene-1-il)(1-esil-1H-indol-3-il)metanone** vedere sotto JWH-019</td><td>7611746990918</td><td>d</td></tr>
-<tr><td>**(naftalene-1-il)(1-pentil-1H-indol-3-il)metanone** vedere sotto JWH-018</td><td>7611746990925</td><td>d</td></tr>
-<tr><td>**nicocodina**</td><td>7611746082002</td><td>a</td></tr>
-<tr><td>**nicodicodina**</td><td>7611746083009</td><td>a</td></tr>
-<tr><td>**nicomorfina**</td><td>7611746084006</td><td>a</td></tr>
-<tr><td>**nimetazepam**</td><td>7611746208006</td><td>b</td></tr>
-<tr><td>**nitrazepam**</td><td>7611746209003</td><td>b</td></tr>
-<tr><td>**noracimetadolo**</td><td>7611746085003</td><td>a</td></tr>
-<tr><td>**norcodeina**</td><td>7611746086000</td><td>a</td></tr>
-<tr><td>**nordazepam**</td><td>7611746210009</td><td>b</td></tr>
-<tr><td>**norlevorfanolo**</td><td>7611746087007</td><td>a</td></tr>
-<tr><td>**normetadone**</td><td>7611746088004</td><td>a</td></tr>
-<tr><td>**normorfina**</td><td>7611746089001</td><td>a</td></tr>
-<tr><td>**norpipanone**</td><td>7611746090007</td><td>a</td></tr>
-<tr><td>**(****±****)-norpseudoefedrina**</td><td>7611746173014</td><td>b</td></tr>
-<tr><td>**(+)-norpseudoefedrina** vedere sotto catina</td><td>7611746173007</td><td>b</td></tr>
-<tr><td>**Ocfentanil****,** N-(2-fluoropenil)-2-metossi-N-[1-(2-feniletil)piperidina-4-il]acetamide</td><td>7611746941170</td><td>d</td></tr>
-<tr><td>**opiale** (alcaloidi dell’oppio, sali idroclorici)</td><td>7611746997931</td><td>a</td></tr>
-<tr><td>**opii crocata tinctura 1 % morfina** vedere sotto oppio, tintura crocata 1 % morfina</td><td>7611746091905</td><td>a</td></tr>
-<tr><td>**opii extractum sicc 20 % morfina** vedere sotto oppio, estratto secco 20 % morfina</td><td>7611746157908</td><td>a</td></tr>
-<tr><td>**opii pulvis normatus 10 % morfina** vedere sotto oppio, polvere standardizzata 10 % morfina</td><td>7611746078302</td><td>a</td></tr>
-<tr><td>**opii tinctura normata 1 % morfina** vedere sotto oppio, tintura standardizzata 1 % morfina</td><td>7611746158905</td><td>a</td></tr>
-<tr><td>**oppio/oppio grezzo** *(fatte salve le disposizioni* *applicabiliai preparati contenenti oppio)*</td><td>7611746160007</td><td>a</td></tr>
-<tr><td>I preparati che contengono **oppio** sono esclusi parzialmente dalle misure di controllo quando contengono al massimo 0,2 % di morfina calcolata come base nonché una o più altre componenti (principi attivi o sostanze ausiliarie), in modo tale che la morfina non possa essere estratta in una proporzione che costituirebbe un pericolo per la salute pubblica o con dei mezzi facili da applicare e che pure i suoi preparati non possano essere utilizzati in tale proporzione. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
-<tr><td>**oppio da fumare e residui provenienti dalla sua** **fabbricazione o utilizzazione**</td><td>7611746131007</td><td>d</td></tr>
-<tr><td>**oppio, estratto secco 20 % morfina**</td><td>7611746157908</td><td>a</td></tr>
-<tr><td>**oppio, polvere standardizzata 10 % morfina**</td><td>7611746078302</td><td>a</td></tr>
-<tr><td>**oppio, tintura crocata 1 % morfina**</td><td>7611746091905</td><td>a</td></tr>
-<tr><td>**oppio, tintura standardizzata 1 % morfina**</td><td>7611746158905</td><td>a</td></tr>
-<tr><td>**oripavina**</td><td>7611746270003</td><td>a</td></tr>
-<tr><td>**ossicodone**</td><td>7611746092001</td><td>a</td></tr>
-<tr><td>**ossimorfone**</td><td>7611746093008</td><td>a</td></tr>
-<tr><td>**oxazepam**</td><td>7611746211006</td><td>b</td></tr>
-<tr><td>**oxazolam**</td><td>7611746212003</td><td>b</td></tr>
-<tr><td>**paglia di papavero, concentrato di** Il concentrato di paglia di papavero è il prodotto ottenuto dalla lavorazione della paglia di papavero al fine di concentrare i suoi alcaloidi, quando questo prodotto è messo in commercio.</td><td>7611746075004</td><td>a</td></tr>
-<tr><td>**paglia di papavero per la fabbricazione** **di stupefacenti**</td><td>7611746074007</td><td>a</td></tr>
-<tr><td>**panaeolus** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**paraesile** (sinesile)</td><td>7611746149002</td><td>d</td></tr>
-<tr><td>**para-fluorofentanile** vedere sotto p-fluorofentanile</td><td>7611746048008</td><td>a</td></tr>
-<tr><td>**para-metossianfetamina** vedere sotto p-metossianfetamina (PMA)</td><td>7611746150008</td><td>d</td></tr>
-<tr><td>**para-metossimetanfetamina** (PMMA)</td><td>7611746150015</td><td>d</td></tr>
-<tr><td>**PCE** vedere sotto eticiclidina</td><td>7611746140009</td><td>d</td></tr>
-<tr><td>**PCP** vedere sotto fenciclidina</td><td>7611746124009</td><td>a</td></tr>
-<tr><td>**PCPY** vedere sotto roliciclidina</td><td>7611746153009</td><td>d</td></tr>
-<tr><td>**pemolina**</td><td>7611746123002</td><td>b</td></tr>
-<tr><td>**pentazocina** [(±)-isomero; cis ]</td><td>7611746094005</td><td>a</td></tr>
-<tr><td>**pentedrone,** 2-(metilamino)-1-fenilpentan-1-one</td><td>7611746958079</td><td>d</td></tr>
-<tr><td>**1-pentil-3-(2-metossifenilacetil)indolo** vedere sotto JWH-250</td><td>7611746990895</td><td>d</td></tr>
-<tr><td>**1-pentil-3-(1-naftoil)indolo** vedere sotto JWH-018</td><td>7611746990925</td><td>d</td></tr>
-<tr><td>**pentobarbitale**</td><td>7611746213000</td><td>b</td></tr>
-<tr><td>**PEPAP** vedere sotto 1-(2-fenetil)-4-fenil-4-acetossipiperidina</td><td>7611746100003</td><td>a</td></tr>
-<tr><td>**petidina**</td><td>7611746095002</td><td>a</td></tr>
-<tr><td>**petidina, prodotto intermedio A**</td><td>7611746996009</td><td>a</td></tr>
-<tr><td>**petidina, prodotto intermedio B**</td><td>7611746976011</td><td>a</td></tr>
-<tr><td>**petidina, prodotto intermedio C**</td><td>761174676172</td><td>a</td></tr>
-<tr><td>**peyotl** (Lophophora williamsii)</td><td>7611746371007</td><td>d</td></tr>
-<tr><td>**PHP** vedere sotto roliciclidina</td><td>7611746153009</td><td>d</td></tr>
-<tr><td>**piminodina**</td><td>7611746104001</td><td>a</td></tr>
-<tr><td>**pinazepam**</td><td>7611746216001</td><td>b</td></tr>
-<tr><td>**pipradolo**</td><td>7611746217008</td><td>b</td></tr>
-<tr><td>**piraesile** vedere sotto paraesile</td><td>7611746149002</td><td>d</td></tr>
-<tr><td>**piritramide**</td><td>7611746105008</td><td>a</td></tr>
-<tr><td>**pirovalerone**</td><td>7611746219002</td><td>b</td></tr>
-<tr><td>**alfa-pirrolidinovalerofenone,** alfa-pirrolidinopentiofenone, alfa-PVP</td><td>7611746958123</td><td>d</td></tr>
-<tr><td>**PMA** vedere sotto p-metossianfetamina</td><td>7611746150008</td><td>d</td></tr>
-<tr><td>**PMMA** vedere p-metossimetanfetamina</td><td>7611746150015</td><td>d</td></tr>
-<tr><td>**prazepam**</td><td>7611746218005</td><td>b</td></tr>
-<tr><td>**proeptazina**</td><td>7611746106005</td><td>a</td></tr>
-<tr><td>**properidina**</td><td>7611746107002</td><td>a</td></tr>
-<tr><td>**propiram**</td><td>7611746108009</td><td>a</td></tr>
-<tr><td>**psilocibina**</td><td>7611746152002</td><td>d</td></tr>
-<tr><td>**psilocina**</td><td>7611746151005</td><td>d</td></tr>
-<tr><td>**psilocybe** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**racemetorfano** *Il destrometorfano non sottostà a controlli*</td><td>7611746109006</td><td>a</td></tr>
-<tr><td>**racemoramide**</td><td>7611746110002</td><td>a</td></tr>
-<tr><td>**racemorfano** *Il destrorfano non sottostà a controlli*</td><td>7611746111009</td><td>a</td></tr>
-<tr><td>**remifentanile**</td><td>7611746340003</td><td>a</td></tr>
-<tr><td>**roliciclidina** (PHP, PCPY)</td><td>7611746153009</td><td>d</td></tr>
-<tr><td>**salvia divinorum**</td><td>7611123456789</td><td>d</td></tr>
-<tr><td>**salvinorina A**</td><td>7611746965428</td><td>d</td></tr>
-<tr><td>**san pedro** (Trichocereus pachanoi)</td><td>7611746372004</td><td>d</td></tr>
-<tr><td>**secbutabarbitale**</td><td>7611746231004</td><td>b</td></tr>
-<tr><td>**secobarbitale**</td><td>7611746128137</td><td>b</td></tr>
-<tr><td>**sinesile** vedere sotto paraesile</td><td>7611746149002</td><td>d</td></tr>
-<tr><td>**SPA** vedere sotto lefetamina</td><td>7611746196006</td><td>b</td></tr>
-<tr><td>**STP** (DOM) vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**stropharia** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**sufentanile**</td><td>7611746112006</td><td>a</td></tr>
-<tr><td>**tapentadolo**</td><td>7611746990888</td><td>a</td></tr>
-<tr><td>**TCP** vedere sotto tenociclidina</td><td>7611746154006</td><td>d</td></tr>
-<tr><td>**tebacone**</td><td>7611746113003</td><td>a</td></tr>
-<tr><td>**tebaina**</td><td>7611746114000</td><td>a</td></tr>
-<tr><td>**temazepam**</td><td>7611746220008</td><td>b</td></tr>
-<tr><td>**tenociclidina** (TCP)</td><td>7611746154006</td><td>d</td></tr>
-<tr><td>**tetrabamato**</td><td>7611746998358</td><td>b</td></tr>
-<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo per scopi** **medici** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC)</td><td>7611746946380</td><td>a</td></tr>
-<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC) (fatte salve le disposizioni applicabili al (-)-trans-delta-9-tetraidrocannabinolo per scopi medici)</td><td>7611746155010</td><td>d</td></tr>
-<tr><td>**Tetraidrocannabinolo (THC) per scopi medici** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC</td><td>7611746946427</td><td>a</td></tr>
-<tr><td>**Tetraidrocannabinolo (THC)** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC (fatte salve le disposizioni applicabili al tetraidrocannabinolo (THC) per scopi medici)</td><td>7611746155003</td><td>d</td></tr>
-<tr><td>**Tetraidrofuranilfentanil****,** N-(1-fenetilpiperidin-4-il)-N-fenil-tetraidrofurano-2-carbossammide</td><td>7611746941217</td><td>d</td></tr>
-<tr><td>**tetrazepam**</td><td>7611746221005</td><td>b</td></tr>
-<tr><td>**tenanfetamina** vedere sotto 3,4-metilendiossianfetamina</td><td>7611746459002</td><td>d</td></tr>
-<tr><td>**TFMPP** vedere sotto trifluorometilfenilpiperazina</td><td>7611746991014</td><td>d</td></tr>
-<tr><td>**1-[1-(2-tienil)-cicloesil]-piperidina** vedere sotto tenociclidina</td><td>7611746154006</td><td>d</td></tr>
-<tr><td>**tilidina** [(±)-isomero; trans]</td><td>7611746116004</td><td>a</td></tr>
-<tr><td>**tiofentanile**</td><td>7611746115007</td><td>a</td></tr>
-<tr><td>**TMA** vedere sotto 3,4,5-trimetossianfetamina</td><td>7611746156000</td><td>d</td></tr>
-<tr><td>**TMA-2** vedere sotto 2,4,5-trimetossianfetamina</td><td>7611746136019</td><td>d</td></tr>
-<tr><td>**triazolam**</td><td>7611746222002</td><td>b</td></tr>
-<tr><td>**Trichocereus pachanoi** vedere sotto san pedro</td><td>7611746372004</td><td>d</td></tr>
-<tr><td>**trifluorometilfenilpiperazina** (TFMPP)</td><td>7611746991014</td><td>d</td></tr>
-<tr><td>**1-(3-trifluorometilfenil)piperazina** vedere sotto trifluorometilfenilpiperazina</td><td>7611746991014</td><td>d</td></tr>
-<tr><td>**trimeperidina**</td><td>7611746117001</td><td>a</td></tr>
-<tr><td>**2,4,5-trimetossianfetamina** (TMA-2)</td><td>7611746156000</td><td>d</td></tr>
-<tr><td>**3,4,5-trimetossianfetamina** (TMA)</td><td>7611746136019</td><td>d</td></tr>
-<tr><td>**1-(3,4,5-trimetossifenil)-2-aminoetano** vedere sotto mescalina</td><td>7611746144007</td><td>d</td></tr>
-<tr><td>**U-47700,** 3,4-dicloro-N-(2-(dimetilamino)cicloesile)-N-metilbenzammide</td><td>7611746958109</td><td>d</td></tr>
-<tr><td>**UR-144****,** (1-pentil-1H-indolo-3-il](2,2,3,3-tetrametilciclopropil)metanone</td><td>7611746941255</td><td>d</td></tr>
-<tr><td>**Valerilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]pentanammide</td><td>7611746943235</td><td>d</td></tr>
-<tr><td>**vinilbitale**</td><td>7611746223009</td><td>b</td></tr>
-<tr><td>**XLR-11;** [1-(5-fluoropentil)-1H-indolo-3-il](2,2,3,3-tetrametilciclopropil)metanone</td><td>7611746960737</td><td>d</td></tr>
-<tr><td>**zipeprolo**</td><td>7611746232001</td><td>a</td></tr>
-<tr><td>**zolpidem**</td><td>7611746360001</td><td>b</td></tr>
+<tr><th>Designazione</th><th>GTIN</th><th colspan="2">Elenco</th></tr>
+<tr><td>**AB-CHMINACA****,** N-[1-(amminocarbonil)-2-metilpropil]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide</td><td>7611746941224</td><td colspan="2">d</td></tr>
+<tr><td>**AB-FUBINACA,** N-[1-(amminocarbonil)-2-metilpropil]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide, N-[1-ammino-3-metil-1-ossobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide</td><td>7611746964346</td><td colspan="2">d</td></tr>
+<tr><td>**AB-PINACA****,** N-[1-(amminocarbonil)-2-metilpropil]-1-pentil-1H-indazolo-1-3-carbossammide</td><td>7611746941248</td><td colspan="2">d</td></tr>
+<tr><td>**acetil-****α****-metilfentanil**</td><td>7611746240006</td><td colspan="2">a</td></tr>
+<tr><td>**acetildiidrocodeina**</td><td>7611746001003</td><td colspan="2">a</td></tr>
+<tr><td>**acetilfentanile,** N-[1-(2-feniletil)-4-piperidil]-N-fenilacetammide</td><td>7611746960522</td><td colspan="2">d</td></tr>
+<tr><td>**acetilmetadolo** [(±)-isomero]</td><td>7611746002000</td><td colspan="2">a</td></tr>
+<tr><td>**acetorfina**</td><td>7611746000006</td><td colspan="2">a</td></tr>
+<tr><td>**acido 4-idrossibutirrico** l’estere gamma-butirrolattone (GBL) è escluso dalle misure di controllo quando è destinato all’uso industriale. L’impiego privato dell’estere gamma-butirrolattone (GBL) non è escluso dalle misure di controllo.</td><td>7611746400004</td><td colspan="2">a</td></tr>
+<tr><td>**acido lisergico, dietilamide dell’** vedere dietilamide dell’acido lisergico (LSD-25)</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**acrilfentanil****,** Acriloilfentanil, N-(1-fenetilpiperidin-4-il)-N-fenilacrilammide</td><td>7611746941194</td><td colspan="2">d</td></tr>
+<tr><td>**ADB-CHMINACA (MAB-CHMINACA)****,** N-[1-(amminocarbonil)-2,2-dimetilpropil]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide, N-[1-ammino-3,3-dimetil-1-ossobutan-2-il]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide</td><td>7611746943273</td><td colspan="2">d</td></tr>
+<tr><td>**ADB-FUBINACA,** N-[1-(amminocarbonil)-2,2-dimetilpropil]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide, N-[1-ammino-3,3-dimetil-1-ossobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide</td><td>7611746941699</td><td colspan="2">d</td></tr>
+<tr><td>**AH-7921,** 3,4-dicloro-N-[(1-dimetilamino)cicloesilmetil]benzammide</td><td>7611746960867</td><td colspan="2">d</td></tr>
+<tr><td>**alazepam**</td><td>7611746193005</td><td colspan="2">b</td></tr>
+<tr><td>**alfacetilmetadolo** [(+)-isomero]</td><td>7611746005001</td><td colspan="2">a</td></tr>
+<tr><td>**alfameprodina**</td><td>7611746006008</td><td colspan="2">a</td></tr>
+<tr><td>**alfametadolo**</td><td>7611746007005</td><td colspan="2">a</td></tr>
+<tr><td>**alfametilacetilfentanil** vedere sotto acetil-α-metilfentanil</td><td>7611746240006</td><td colspan="2">a</td></tr>
+<tr><td>**alfaprodina** [(±)-isomero; cis]</td><td>7611746008002</td><td colspan="2">a</td></tr>
+<tr><td>**alfentanile**</td><td>7611746003007</td><td colspan="2">a</td></tr>
+<tr><td>**allilprodina**</td><td>7611746004004</td><td colspan="2">a</td></tr>
+<tr><td>**allobarbitale**</td><td>7611746164005</td><td colspan="2">b</td></tr>
+<tr><td>**aloxazolam**</td><td>7611746194002</td><td colspan="2">b</td></tr>
+<tr><td>**alpha-PHP, alfa-pirrolidinoesanofenone,** 1-fenil-2-(pirrolidin-1-il)esan-1-one</td><td>7611746943396</td><td colspan="2">d</td></tr>
+<tr><td>**alprazolam**</td><td>7611746165002</td><td colspan="2">b</td></tr>
+<tr><td>**AM-2201,** [1-(5-fluoropentil)-1H-indolo-3-il](naftalene-1-il)metanone</td><td>7611746960690</td><td colspan="2">d</td></tr>
+<tr><td>**5F-AMB-PINACA (5F-AMB, 5F-MMB-PINACA),** 2-{[1-(5-fluoropentil)-1H-indazolo-3-il]formammide}-3-metilmetilbutanoato, metil-2-{[1-(5-fluoropentil)-1H-indazolo-3-carbonil]ammino}-3-metilbutanoato</td><td>7611746943211</td><td colspan="2">d</td></tr>
+<tr><td>**amfepramone**</td><td>7611746167006</td><td colspan="2">b</td></tr>
+<tr><td>**amineptina**</td><td>7611746250005</td><td colspan="2">a</td></tr>
+<tr><td>**3-(2-aminobutil)-indolo** vedere sotto etriptamina</td><td>7611746227007</td><td colspan="2">d</td></tr>
+<tr><td>**2-amino-1-(2,5-dimetossi-4-metil)-fenilpropano** vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td colspan="2">d</td></tr>
+<tr><td>**cis-2-amino-4-metilfenil-2-oxazolina** vedere sotto 4-metilaminorex</td><td>7611746999379</td><td colspan="2">d</td></tr>
+<tr><td>**2-aminopropiofenone** vedere sotto catinone</td><td>7611746134008</td><td colspan="2">d</td></tr>
+<tr><td>**aminorex**</td><td>7611746225003</td><td colspan="2">b</td></tr>
+<tr><td>**amobarbitale**</td><td>7611746166009</td><td colspan="2">b</td></tr>
+<tr><td>**anfetamina** [(±)-isomero]</td><td>7611746118008</td><td colspan="2">a</td></tr>
+<tr><td>**anileridina**</td><td>7611746009009</td><td colspan="2">a</td></tr>
+<tr><td>**5F-APINACA, 5F-AKB48;** N-(adamantan-1-il)-1-[(5-fluoropentil)-1H-indazolo-3-carbossammide</td><td>7611746958055</td><td colspan="2">d</td></tr>
+<tr><td>**barbexaclone** vedere sotto fenobarbitale (-)-propilesdrina (1:1)</td><td>7611746168010</td><td colspan="2">b</td></tr>
+<tr><td>**barbitale**</td><td>7611746168003</td><td colspan="2">b</td></tr>
+<tr><td>**benzetidina**</td><td>7611746010005</td><td colspan="2">a</td></tr>
+<tr><td>**benzfetamina**</td><td>7611746169000</td><td colspan="2">b</td></tr>
+<tr><td>**benzilmorfina**</td><td>7611746011002</td><td colspan="2">a</td></tr>
+<tr><td>**benzilpiperazina**</td><td>7611746269007</td><td colspan="2">a</td></tr>
+<tr><td>**1-(benzo[d][1,3]diossol-5-il)-2-(pirrolidin-1-il)pentan-1-one** vedere sotto 3,4-metilendiossipirovalerone</td><td>7611746990970</td><td colspan="2">d</td></tr>
+<tr><td>**betacetilmetadolo**</td><td>7611746012009</td><td colspan="2">a</td></tr>
+<tr><td>**betameprodina**</td><td>7611746013006</td><td colspan="2">a</td></tr>
+<tr><td>**betametadolo**</td><td>7611746014003</td><td colspan="2">a</td></tr>
+<tr><td>**betaprodina**</td><td>7611746015000</td><td colspan="2">a</td></tr>
+<tr><td>**bezitramide**</td><td>7611746016007</td><td colspan="2">a</td></tr>
+<tr><td>**brolanfetamina** vedere sotto 4-brom-2,5-dimetossianfetamina</td><td>7611746137009</td><td colspan="2">d</td></tr>
+<tr><td>**bromazepam**</td><td>7611746170006</td><td colspan="2">b</td></tr>
+<tr><td>**4-brom-2,5-dimetossianfetamina** (DOB) [(±)-isomero]</td><td>7611746137009</td><td colspan="2">d</td></tr>
+<tr><td>**25B-NBOMe,** 2-(4-bromo-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746964520</td><td colspan="2">d</td></tr>
+<tr><td>**25C-NBOMe,** 2-(4-cloro-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746963899</td><td colspan="2">d</td></tr>
+<tr><td>**25I-NBOMe,** 2-(4-iodio-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746958468</td><td colspan="2">d</td></tr>
+<tr><td>**4-brom-2,5-dimetossifeniletilamina** (2C-B)</td><td>7611746350002</td><td colspan="2">d</td></tr>
+<tr><td>**brorfina** 1-[1-[1-(4-bromofenil)etil]-piperidin-4-il]-1,3-diidro-2H-imidazol-2-one</td><td>7611746013464</td><td colspan="2">d</td></tr>
+<tr><td>**brotizolam**</td><td>7611746226000</td><td colspan="2">b</td></tr>
+<tr><td>**buprenorfina**</td><td>7611746017004</td><td colspan="2">a</td></tr>
+<tr><td>**butalbitale**</td><td>7611746171003</td><td colspan="2">b</td></tr>
+<tr><td>**1-butil-3-(1-naftoil)indolo** vedere sotto JWH-073</td><td>7611746990901</td><td colspan="2">d</td></tr>
+<tr><td>**butirfentanile,** butanoil fentanile, N-fenil-N-(1-(2-feniletil)-4-piperidinil)-butanammide</td><td>7611746958673</td><td colspan="2">d</td></tr>
+<tr><td>**butobarbitale**</td><td>7611746239000</td><td colspan="2">b</td></tr>
+<tr><td>**butylone** vedere sotto 2-metilamino-1-(3,4-metilenediossifenil)butan-1-one</td><td>7611746990994</td><td colspan="2">d</td></tr>
+<tr><td>**camazepam**</td><td>7611746172000</td><td colspan="2">b</td></tr>
+<tr><td>**canapa** Piante di canapa o parti delle stesse che presentano una concentrazione media di THC totale pari almeno all’1,0 % e tutti gli oggetti e i preparati fabbricati che presentano una concentrazione media di THC totale pari almeno all’1,0 % o fabbricati a partire da canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili alla canapa per scopi medici)</td><td>7611746999522</td><td colspan="2">d</td></tr>
+<tr><td>**canapa per scopi medici** Piante di canapa o parti delle stesse per scopi medici e la fabbricazione farmaceutica che presentano una concentrazione media di THC totale pari almeno all’1,0 % e tutti gli oggetti e i preparati fabbricati per scopi medici e la fabbricazione farmaceutica che presentano una concentrazione media di THC totale pari almeno all’1,0 % o fabbricati a partire da canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td>7611746946311</td><td colspan="2">a</td></tr>
+<tr><td>**canapa, estratto per scopi medici** vedere sotto Canapa per scopi medici</td><td>7611746946335</td><td colspan="2">a</td></tr>
+<tr><td>**canapa, estratto** vedere sotto Canapa (fatte salve le disposizioni applicabili all’estratto di canapa per scopi medici)</td><td>7611746999515</td><td colspan="2">d</td></tr>
+<tr><td>**Canapa, olio** **per scopi medici** vedere sotto Canapa per scopi medici</td><td>7611746946342</td><td colspan="2">a</td></tr>
+<tr><td>**canapa, olio** vedere sotto Canapa (fatte salve le disposizioni applicabili all’olio di canapa per scopi medici)</td><td>7611746999485</td><td colspan="2">d</td></tr>
+<tr><td>**canapa, resina (hashish)** vedere sotto Canapa (fatte salve le disposizioni applicabili alla resina di canapa per scopi medici)</td><td>7611746999508</td><td colspan="2">d</td></tr>
+<tr><td>**canapa, resina (hashish)** **per scopi medici** vedere sotto Canapa per scopi medici</td><td>7611746946434</td><td colspan="2">a</td></tr>
+<tr><td>**canapa, semi** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili ai semi di canapa destinati alla coltivazione per la fabbricazione farmaceutica)</td><td>7611746999522</td><td colspan="2">d</td></tr>
+<tr><td>**canapa, semi** **destinati alla coltivazione** **per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td>7611746946311</td><td colspan="2">a</td></tr>
+<tr><td>**canapa, talee** **destinate alla coltivazione per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td>7611746946311</td><td colspan="2">a</td></tr>
+<tr><td>**canapa, tintura per scopi medici** vedere sotto Canapa per scopi medici</td><td>7611746946298</td><td colspan="2">a</td></tr>
+<tr><td>**canapa, tintura** vedere sotto Canapa (fatte salve le disposizioni applicabili alla tintura di canapa per scopi medici)</td><td>7611746999492</td><td colspan="2">d</td></tr>
+<tr><td>**cannabis** vedere sotto canapa</td><td></td><td colspan="2">d</td></tr>
+<tr><td>**carfentanil**</td><td>7611746958161</td><td colspan="2">a</td></tr>
+<tr><td>**catha edulis, foglie** (foglie della pianta di kath)</td><td>7611746999270</td><td colspan="2">d</td></tr>
+<tr><td>**catina** [(+)-norpseudoefedrina]</td><td>7611746173007</td><td colspan="2">b</td></tr>
+<tr><td>**catinone**</td><td>7611746134008</td><td colspan="2">d</td></tr>
+<tr><td>**2C-B** vedere sotto 4-brom-2,5-dimetossifeniletilamina</td><td>7611746350002</td><td colspan="2">d</td></tr>
+<tr><td>**cetobemidone**</td><td>7611746058007</td><td colspan="2">a</td></tr>
+<tr><td>**ciclobarbitale**</td><td>7611746179009</td><td colspan="2">b</td></tr>
+<tr><td>**ciclopropilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]ciclopropanocarbossammide</td><td>7611746943297</td><td colspan="2">d</td></tr>
+<tr><td>**1-(2-clorofenil)piperazina** vedere sotto o-clorofenil-piperazina</td><td>7611746991045</td><td colspan="2">d</td></tr>
+<tr><td>**1-(3-clorofenil)piperazina** vedere sotto m-clorofenil-piperazina</td><td>7611746991038</td><td colspan="2">d</td></tr>
+<tr><td>**1-(4-clorofenil)piperazina** vedere sotto p-clorofenil-piperazina</td><td>7611746991021</td><td colspan="2">d</td></tr>
+<tr><td>**m-clorofenilpiperazina** (m-CPP)</td><td>7611746991038</td><td colspan="2">d</td></tr>
+<tr><td>**o-clorofenilpiperazina** (o-CPP)</td><td>7611746991045</td><td colspan="2">d</td></tr>
+<tr><td>**p-clorofenilpiperazina** (p-CPP)</td><td>7611746991021</td><td colspan="2">d</td></tr>
+<tr><td>vedere sotto 2,5-dimetossi-4-iodofenetilamina</td><td>7611746137023</td><td colspan="2">d</td></tr>
+<tr><td>**clobazam**</td><td>7611746175001</td><td colspan="2">b</td></tr>
+<tr><td>**clonazepam**</td><td>7611746176008</td><td colspan="2">b</td></tr>
+<tr><td>**clonazolam** 6-(2-clorofenil)-1-metil-8-nitro-4H-s-triazolo-(4,3-a)-(1,4)-benzodiazepina</td><td>7611746957850</td><td colspan="2">b</td></tr>
+<tr><td>**clonitazene**</td><td>7611746019008</td><td colspan="2">a</td></tr>
+<tr><td>**clorazepato**</td><td>7611746224006</td><td colspan="2">b</td></tr>
+<tr><td>**clordiazepossido**</td><td>7611746174004</td><td colspan="2">b</td></tr>
+<tr><td>**clotiazepam**</td><td>7611746177005</td><td colspan="2">b</td></tr>
+<tr><td>**cloxazolam**</td><td>7611746178002</td><td colspan="2">b</td></tr>
+<tr><td>**4-CMC, (4-clorometcatinone, clefedrone)**, 1-(4-clorofenil)-2-(metilammino)propano-1-one</td><td>7611746943372</td><td colspan="2">d</td></tr>
+<tr><td>**coca, estratti** sono esclusi gli estratti di coca la cui concentrazione totale di cocaina, ecgonina e altri alcaloidi ecgoninici non è superiore a 1,25 ppm o 1,25 milligrammi per chilogrammo.</td><td>7611746999461</td><td colspan="2">a</td></tr>
+<tr><td>**coca, foglie**</td><td>7611746999478</td><td colspan="2">a</td></tr>
+<tr><td>**cocaina, tinture**</td><td>7611746999454</td><td colspan="2">a</td></tr>
+<tr><td>**cocaina**</td><td>7611746021001</td><td colspan="2">a</td></tr>
+<tr><td>**codeina** *(fatte salve le disposizioni applicabili ai preparati contenenti codeina)*</td><td>7611746022008</td><td colspan="2">a</td></tr>
+<tr><td>I preparati contenenti **codeina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di codeina, calcolata come base, non supera i 100 mg per unità di somministrazione o la concentrazione non è superiore al 2,5 % nelle forme non divise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018[^annex1-lvlu1-1] sui medicamenti).</td><td></td><td colspan="2">c</td></tr>
+<tr><td>**codeina-N-ossido**</td><td>7611746023005</td><td colspan="2">a</td></tr>
+<tr><td>**codossima**</td><td>7611746024002</td><td colspan="2">a</td></tr>
+<tr><td>**conocybe** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**CP 47,497, 3-[4-(1,1-dimetileptil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990963</td><td colspan="2">d</td></tr>
+<tr><td>**CP 47,497-C6-omologhi, 3-[4-(1,1-dimetilesil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990956</td><td colspan="2">d</td></tr>
+<tr><td>**CP 47,497-C8-omologhi, 3-[4-(1,1-dimetiloctil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990949</td><td colspan="2">d</td></tr>
+<tr><td>**CP 47,497-C9-omologhi, 3-[4-(1,1-dimetilnonil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990932</td><td colspan="2">d</td></tr>
+<tr><td>**m-CPP** vedere sotto m-chlorofenilpiperazina</td><td>7611746991038</td><td colspan="2">d</td></tr>
+<tr><td>**o-CPP** vedere sotto o-chlorofenilpiperazina</td><td>7611746991045</td><td colspan="2">d</td></tr>
+<tr><td>**p-CPP** vedere sotto p-chlorofenilpiperazina</td><td>7611746991021</td><td colspan="2">d</td></tr>
+<tr><td>**2C-T-2** vedere sotto 4-etiltio-2,5-dimetossifenetilamina</td><td>7611746137016</td><td colspan="2">d</td></tr>
+<tr><td>**2C-T-7** vedere sotto 2,5-dimetossi-4-(n)-propiltiofenetilamina</td><td>7611746138013</td><td colspan="2">d</td></tr>
+<tr><td>**crotonilfentanil,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]-2-butenammide</td><td>7611746943242</td><td colspan="2">d</td></tr>
+<tr><td>**Cumil-Pegaclone** 5-pentil-2-(2-fenilpropan-2-il)-2,5-diidro-1H-pirido [4,3-b]indol-1-one</td><td colspan="2">7611746013624</td><td colspan="2">d</td></tr>
+<tr><td>**CUMYL-4CN-BINACA****,** 1-(4-cianobutil)-N-(2-fenilpropan-2-il)indazolo-3-carbossammide</td><td>7611746943266</td><td colspan="2">d</td></tr>
+<tr><td>**delorazepam**</td><td>7611746180005</td><td colspan="2">b</td></tr>
+<tr><td>**desomorfina**</td><td>7611746025009</td><td colspan="2">a</td></tr>
+<tr><td>**destromoramide**</td><td>7611746026006</td><td colspan="2">a</td></tr>
+<tr><td>**destropropossifene** *(fatte salve le disposizioni applicabili ai preparati contenenti destropropossifene)*</td><td>7611746027003</td><td colspan="2">a</td></tr>
+<tr><td>I preparati contenenti **destropropossifene** sono esclusi parzialmente dalle misure di controllo quando sono destinati a un’applicazione per via orale e quando la dose, calcolata come base, non supera i 135 mg per unità di somministrazione o quando la concentrazione non è superiore a 2,5 % nei preparati non suddivisi. Non devono contenere altri stupefacenti o sostanze psicotrope. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td colspan="2">c</td></tr>
+<tr><td>**DET** vedere sotto N,N-dietiltriptamina</td><td>7611746135005</td><td colspan="2">d</td></tr>
+<tr><td>**dexanfetamina** [(+)-isomero]</td><td>7611746119005</td><td colspan="2">a</td></tr>
+<tr><td>**diacetilmorfina** vedere sotto eroina</td><td>7611746050001</td><td colspan="2">d</td></tr>
+<tr><td>**diamorfina** vedere sotto eroina</td><td>7611746050001</td><td colspan="2">d</td></tr>
+<tr><td>**diampromide**</td><td>7611746029007</td><td colspan="2">a</td></tr>
+<tr><td>**diazepam**</td><td>7611746181002</td><td colspan="2">b</td></tr>
+<tr><td>**diclazepam** 7-cloro-5-(2-clorofenil)-1,3-diidro-1-metil-2H-1,4-benzodiazepin-2-one</td><td>7611746013600</td><td colspan="2">b</td></tr>
+<tr><td>**dideidro-9,10-N,N-dietilmetil-6-ergolin-carbossamide-8****β**vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**dietilamide dell’acido lisergico** (LSD-25)</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**3-(2-dietilaminoetil)-indolo** vedere sotto N,N-dietiltriptamina</td><td>7611746135005</td><td colspan="2">d</td></tr>
+<tr><td>**N,N-dietillisergamide** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**dietilpropione** vedere sotto amfepramone</td><td>7611746167006</td><td colspan="2">b</td></tr>
+<tr><td>**dietiltiambutene**</td><td>7611746312000</td><td colspan="2">a</td></tr>
+<tr><td>**N,N-dietiltriptamina** (DET)</td><td>7611746135005</td><td colspan="2">d</td></tr>
+<tr><td>**difenossilato**</td><td>7611746038009</td><td colspan="2">a</td></tr>
+<tr><td>difenidina 1-(1,2-difeniletil)piperidina</td><td>7611746013938</td><td colspan="2">d</td></tr>
+<tr><td>**difenossina** *(fatte salve le disposizioni applicabili ai preparati contenenti difenossina)*</td><td>7611746031000</td><td colspan="2">a</td></tr>
+<tr><td>I preparati contenenti **difenossina** sono esclusi parzialmente dalle misure di controllo quando contengono, per unità di somministrazione, al massimo 0,5 mg di difenossina calcolata come base e una quantità di atropina solfato uguale al 5 % al minimo della quantità di difenossina. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td colspan="2">c</td></tr>
+<tr><td>**diidrocodeina** *(fatte salve le disposizioni applicabili ai preparati contenenti diidrocodeina)*</td><td>7611746032007</td><td colspan="2">a</td></tr>
+<tr><td>I preparati contenenti **diidrocodeina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di diidrocodeina, calcolata come base, non supera i 100 mg per unità di somministrazione o quando la concentrazione non è superiore a 2,5 % nelle forme non suddivise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td colspan="2">c</td></tr>
+<tr><td>**diidrocodeinone** vedere sotto idrocodone</td><td>7611746051008</td><td colspan="2">a</td></tr>
+<tr><td>**diidroetorfina**</td><td>7611746260004</td><td colspan="2">a</td></tr>
+<tr><td>**diidromorfina**</td><td>7611746033004</td><td colspan="2">a</td></tr>
+<tr><td>**diidromorfinone** vedere sotto idromorfone</td><td>7611746053002</td><td colspan="2">a</td></tr>
+<tr><td>**dimefeptanolo**</td><td>7611746035008</td><td colspan="2">a</td></tr>
+<tr><td>**dimenoxadolo**</td><td>7611746034001</td><td colspan="2">a</td></tr>
+<tr><td>**6-dimetilamino-4,4-difenil-3-eptanone** vedere sotto metadone</td><td>7611746064008</td><td colspan="2">a</td></tr>
+<tr><td>**3-(2-dimetilaminoetil)-indol-4-ile, diidrogenofosfato** vedere sotto psilocibina</td><td>7611746152002</td><td colspan="2">d</td></tr>
+<tr><td>**3-(2-dimetilaminoetil)-indol-4-olo** vedere sotto psilocina</td><td>7611746151005</td><td colspan="2">d</td></tr>
+<tr><td>**3-(2-dimetilaminoetil)-indolo** vedere sotto N,N-dimetiltriptamina</td><td>7611746297000</td><td colspan="2">d</td></tr>
+<tr><td>**5-(1,1-dimetileptil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497</td><td>7611746990963</td><td colspan="2">d</td></tr>
+<tr><td>**3-[4-(1,1-dimetileptil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497</td><td>7611746990963</td><td colspan="2">d</td></tr>
+<tr><td>**dimetileptiltetraidrocannabinolo** (DMHP)</td><td>7611746141006</td><td colspan="2">d</td></tr>
+<tr><td>**5-(1,1-dimetilesil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C6-omologhi</td><td>7611746990956</td><td colspan="2">d</td></tr>
+<tr><td>**3-[4-(1,1-dimetilesil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C6- omologhi</td><td>7611746990956</td><td colspan="2">d</td></tr>
+<tr><td>**5-(1,1-dimetilnonil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C9-omologhi</td><td>7611746990932</td><td colspan="2">d</td></tr>
+<tr><td>**3-[4-(1,1-dimetilnonil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C9-omologhi</td><td>7611746990932</td><td colspan="2">d</td></tr>
+<tr><td>**5-(1,1-dimetiloctil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C8-omologhi</td><td>7611746990949</td><td colspan="2">d</td></tr>
+<tr><td>**3-[4-(1,1-dimetiloctil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C8-omologhi</td><td>7611746990949</td><td colspan="2">d</td></tr>
+<tr><td>**dimetiltiambutene**</td><td>7611746030003</td><td colspan="2">a</td></tr>
+<tr><td>**N,N-dimetiltriptamina** (DMT)</td><td>7611746297000</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossi-4-etilanfetamina** (DOET) [(±)-isomero]</td><td>7611746138006</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossi-4-iodofenetilamina** (2C-I)</td><td>7611746137023</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossi-4-metilanfetamina** (DOM, STP) [(±)-isomero]</td><td>7611746133001</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossi-4-(n)-propiltiofenetilamina** (2C-T-7)</td><td>7611746138013</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossianfetamina** (DMA)</td><td>7611746136002</td><td colspan="2">d</td></tr>
+<tr><td>**diossafetilbutirrato**</td><td>7611746037002</td><td colspan="2">a</td></tr>
+<tr><td>**dipipanone**</td><td>7611746039006</td><td colspan="2">a</td></tr>
+<tr><td>**DMA** vedere sotto 2,5-dimetossianfetamina</td><td>7611746136002</td><td colspan="2">d</td></tr>
+<tr><td>**DMHP** vedere sotto dimetileptiltetraidrocannabinolo</td><td>7611746141006</td><td colspan="2">d</td></tr>
+<tr><td>**DMT** vedere sotto N,N-dimetiltriptamina</td><td>7611746297000</td><td colspan="2">d</td></tr>
+<tr><td>**DOB** vedere sotto 4-brom-2,5-dimetossianfetamina</td><td>7611746137009</td><td colspan="2">d</td></tr>
+<tr><td>**DOC****,** 1-(4-cloro-2,5-dimetossifenil)propan-2-amina, 2,5-dimetossi-4-cloranfetamina, 4-cloro-2,5-DMA</td><td>7611746943228</td><td colspan="2">d</td></tr>
+<tr><td>**DOET** vedere sotto 2,5-dimetossi-4-etilanfetamina</td><td>7611746138006</td><td colspan="2">d</td></tr>
+<tr><td>**DOM** (STP) vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td colspan="2">d</td></tr>
+<tr><td>**dronabinolo** vedere sotto (-)-trans-delta-9-tetraidrocannabinolo (fatte salve le disposizioni applicabili al dronabinolo per scopi medici)</td><td>7611746155010</td><td colspan="2">d</td></tr>
+<tr><td>**dronabinolo per scopi medici** vedere sotto (-)-trans-delta-9-tetraidrocannabinolo per scopi medici</td><td>7611746946380</td><td colspan="2">a</td></tr>
+<tr><td>**drotebanolo**</td><td>7611746040002</td><td colspan="2">a</td></tr>
+<tr><td>**ecgonina e suoi esteri e derivati trasformabili in ecgonina e cocaina**</td><td>7611746041009</td><td colspan="2">a</td></tr>
+<tr><td>**efedrone** vedere sotto metcatinone</td><td>7611746331001</td><td colspan="2">d</td></tr>
+<tr><td>**eroina** (diacetilmorfina/dimorfina)</td><td>7611746050001</td><td colspan="2">d</td></tr>
+<tr><td>**1-esil-3-(1-naftoil)indolo** vedere sotto JWH-019</td><td>7611746990918</td><td colspan="2">d</td></tr>
+<tr><td>**estazolam**</td><td>7611746182009</td><td colspan="2">b</td></tr>
+<tr><td>**etclorvinolo**</td><td>7611746183006</td><td colspan="2">b</td></tr>
+<tr><td>**eticiclidina** (PCE)</td><td>7611746140009</td><td colspan="2">d</td></tr>
+<tr><td>**N-etilanfetamina** vedere sotto etilanfetamina</td><td>7611746186007</td><td colspan="2">b</td></tr>
+<tr><td>**etilanfetamina** [(+)-isomero]</td><td>7611746186007</td><td colspan="2">b</td></tr>
+<tr><td>**N-etil-1-fenil-cicloesilamina** vedere sotto eticiclidina</td><td>7611746140009</td><td colspan="2">d</td></tr>
+<tr><td>**N-etil-****MDA** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td colspan="2">d</td></tr>
+<tr><td>**N-etil-3,4-metilendiossianfetamina** (MDE, MDEA) [(±)-isomero]</td><td>7611746132004</td><td colspan="2">d</td></tr>
+<tr><td>**etilfenidato**, etil-2-fenil-2-(piperidin-2-il)acetato</td><td>7611746965169</td><td colspan="2">d</td></tr>
+<tr><td>**etilloflazepato**</td><td>7611746185000</td><td colspan="2">b</td></tr>
+<tr><td>**α****-etil-N-metil-3,4-metilendiossianfetamina** (MBDB)</td><td>7611746976806</td><td colspan="2">d</td></tr>
+<tr><td>**etilmetiltiambutene**</td><td>7611746042006</td><td colspan="2">a</td></tr>
+<tr><td>**etilmorfina** *(fatte salve le disposizioni applicabili ai preparati contenenti etilmorfina)*</td><td>7611746043003</td><td colspan="2">a</td></tr>
+<tr><td>I preparati contenenti **etilmorfina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di etilmorfina, calcolata come base, non supera i 100 mg per unità di somministrazione o quando la concentrazione non supera 2,5 % nelle forme non suddivise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td colspan="2">c</td></tr>
+<tr><td>**etilone,** 1-(2H-1,3-benzodiossol-5-il)-2-(etilamino)propan-1-one</td><td>7611746958086</td><td colspan="2">d</td></tr>
+<tr><td>**N-etilnoresedrone, N-etilesedrone,** 2-(etilamino)-1-fenilesan-1-one</td><td>7611746943389</td><td colspan="2">d</td></tr>
+<tr><td>**N-etilnorpentilone (efilone)****,** 1-(2H-1,3-benzodiossol-5-il)-2-(etilamino)pentan-1-one</td><td>7611746943259</td><td colspan="2">d</td></tr>
+<tr><td>**4-etiltio-2,5-dimetossifenetilamina** (2C-T-2)</td><td>7611746137016</td><td colspan="2">d</td></tr>
+<tr><td>**etinamato**</td><td>7611746184003</td><td colspan="2">b</td></tr>
+<tr><td>**etizolam**</td><td>7611746965459</td><td colspan="2">b</td></tr>
+<tr><td>**etonitazene**</td><td>7611746044000</td><td colspan="2">a</td></tr>
+<tr><td>**etorfina**</td><td>7611746045007</td><td colspan="2">a</td></tr>
+<tr><td>**etoxeridina**</td><td>7611746046004</td><td colspan="2">a</td></tr>
+<tr><td>**etriptamina**</td><td>7611746227007</td><td colspan="2">d</td></tr>
+<tr><td>**eutilone** 1-(1,3-benzodiossol-5-il)-2-(etilamino)butan-1-one</td><td>7611746946199</td><td colspan="2">d</td></tr>
+<tr><td>**fenadossone**</td><td>7611746097006</td><td colspan="2">a</td></tr>
+<tr><td>**fenampromide**</td><td>7611746098003</td><td colspan="2">a</td></tr>
+<tr><td>**fenazepam**</td><td>7611746965435</td><td colspan="2">b</td></tr>
+<tr><td>**fenazocina**</td><td>7611746099000</td><td colspan="2">a</td></tr>
+<tr><td>**fencamfamina**</td><td>7611746187004</td><td colspan="2">b</td></tr>
+<tr><td>**fenciclidina** (PCP)</td><td>7611746124009</td><td colspan="2">a</td></tr>
+<tr><td>**fendimetrazina** [(±)-isomero, trans]</td><td>7611746205012</td><td colspan="2">b</td></tr>
+<tr><td>**fenetillina**</td><td>7611746120001</td><td colspan="2">a</td></tr>
+<tr><td>**1-(1-fenilcicloesil)-pirrolidina** vedere sotto roliciclidina</td><td>7611746153009</td><td colspan="2">d</td></tr>
+<tr><td>**1-(2-feniletil)-4-fenil-4-acetossipiperidina** (PEPAP)</td><td>7611746100003</td><td colspan="2">a</td></tr>
+<tr><td>**fenmetrazina**</td><td>7611746125006</td><td colspan="2">a</td></tr>
+<tr><td>**fenobarbitale**</td><td>7611746214007</td><td colspan="2">b</td></tr>
+<tr><td>**fenobarbitale . (-)-propilesedrina (1:1)** (barbexaclone)</td><td>7611746168010</td><td colspan="2">b</td></tr>
+<tr><td>**fenomorfano**</td><td>7611746101000</td><td colspan="2">a</td></tr>
+<tr><td>**fenoperidina**</td><td>7611746102007</td><td colspan="2">a</td></tr>
+<tr><td>**fenproporex**</td><td>7611746188001</td><td colspan="2">b</td></tr>
+<tr><td>**fentanile**</td><td>7611746047001</td><td colspan="2">a</td></tr>
+<tr><td>**fentermina**</td><td>7611746215004</td><td colspan="2">b</td></tr>
+<tr><td>**f****lualprazolam****,** 8-cloro-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina</td><td>7611746943402</td><td colspan="2">d</td></tr>
+<tr><td>**flubromazolam** 8-bromo-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo [4,3-a][1,4]benzodiazepina</td><td>7611746013617</td><td colspan="2">b</td></tr>
+<tr><td>**fludiazepam**</td><td>7611746189008</td><td colspan="2">b</td></tr>
+<tr><td>**flunitrazepam**</td><td>7611746190004</td><td colspan="2">b</td></tr>
+<tr><td>**4-fluorisobutirfentanil****,**N-(4-fluorofenil)-N-(1-fenetilpiperidina-4-il)isobutirrammide</td><td>7611746941200</td><td colspan="2">d</td></tr>
+<tr><td>**4-fluoroanfetamina**</td><td>7611746991052</td><td colspan="2">d</td></tr>
+<tr><td>**1-(4-fluorofenil)propan-2-amina** vedere sotto 4-fluoro-anfetamina</td><td>7611746991052</td><td colspan="2">d</td></tr>
+<tr><td>**p-fluorofentanile**</td><td>7611746048008</td><td colspan="2">a</td></tr>
+<tr><td>**2-fluorofentanil, orto-fluorofentanil****,** N-(2-fluorofenil)-N-[1-(2-feniletil)piperidina-4-il]propanammide</td><td>7611746943310</td><td colspan="2">d</td></tr>
+<tr><td>**4-fluorobutirilfentanil, parafluorobutirrilfentanil****,** N-(4-fluorofenil)-N-[1-(2-feniletil)piperidina-4-il]butanammide</td><td>7611746943327</td><td colspan="2">d</td></tr>
+<tr><td>**5F-MDMB-PINACA****, 5F-ADB,** metil-2-[1-(5-fluoropentil)-1H-indazolo-3-carbossamide]-3,3-dimetilbutanoato</td><td>7611746941231</td><td colspan="2">d</td></tr>
+<tr><td>**5F-PB22****,** chinolin-8-il-[1-(5-fluoropentil)-1H-indol-3-il]-carbossilato,chinolin-8-il-[1-(5-fluoropentil)-1H-indol]-3-carbossilato</td><td>7611746941262</td><td colspan="2">d</td></tr>
+<tr><td>**flurazepam**</td><td>7611746191001</td><td colspan="2">b</td></tr>
+<tr><td>**folcodina** *(fatte salve le disposizioni applicabili ai preparati contenenti folcodina)*</td><td>7611746103004</td><td colspan="2">a</td></tr>
+<tr><td>I preparati contenenti **folcodina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di folcodina, calcolata come base, non supera i 100 mg per unità di somministrazione o quando la concentrazione non è superiore a 2,5 % nelle forme non divise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td colspan="2">c</td></tr>
+<tr><td>**FUB-AMB (MMB-FUBINACA, AMB-FUBINACA)****,** metil-2-(1-[(4-fluorofenil)metil]-1H-indazolo-3-amminocarbonil)-3-metilbutanoato</td><td>7611746943280</td><td colspan="2">d</td></tr>
+<tr><td>**funghi allucinogeni dei generi conocybe, panaeolus, psilocybe e stropharia**</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**furanilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]furano-2-carbossammide</td><td>7611746941187</td><td colspan="2">d</td></tr>
+<tr><td>**furetidina**</td><td>7611746049005</td><td colspan="2">a</td></tr>
+<tr><td>**GHB** vedere sotto acido 4-idrossibutirrico</td><td>7611746400004</td><td colspan="2">a</td></tr>
+<tr><td>**glutetimide**</td><td>7611746192008</td><td colspan="2">b</td></tr>
+<tr><td>**hashish** vedere sotto canapa, resina</td><td>7611746999508</td><td colspan="2">d</td></tr>
+<tr><td>**ibogaina**</td><td>7611746235002</td><td colspan="2">d</td></tr>
+<tr><td>**idrocodone**</td><td>7611746051008</td><td colspan="2">a</td></tr>
+<tr><td>**idromorfinolo**</td><td>7611746052005</td><td colspan="2">a</td></tr>
+<tr><td>**idromorfone**</td><td>7611746053002</td><td colspan="2">a</td></tr>
+<tr><td>**1-idrossi-3-(1,2-dimetileptil)-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo[b,d]pirano** vedere sotto dimetileptiltetraidrocannabinolo</td><td>7611746141006</td><td colspan="2">d</td></tr>
+<tr><td>**1-idrossi-3-n-esil-7,8,9,10-tetraidro-6,6,9-trimetil-6H-benzo[b,d]pirano** vedere sotto paraesile</td><td>7611746149002</td><td colspan="2">d</td></tr>
+<tr><td>**β****-idrossifentanile**</td><td>7611746054009</td><td colspan="2">a</td></tr>
+<tr><td>**N-idrossi-3,4-metilendiossianfetamina** (N-idrossi-MDA)</td><td>7611746142003</td><td colspan="2">d</td></tr>
+<tr><td>**N-idrossi-****MDA** vedere sotto N-idrossi-3,4-metilendiossianfetamina</td><td>7611746142003</td><td colspan="2">d</td></tr>
+<tr><td>**β****-idrossimetil-3-fentanile**</td><td>7611746055006</td><td colspan="2">a</td></tr>
+<tr><td>**7-idrossimitraginina**</td><td>7611746958147</td><td colspan="2">a</td></tr>
+<tr><td>**idrossipetidina**</td><td>7611746056003</td><td colspan="2">a</td></tr>
+<tr><td>**isometadone**</td><td>7611746057000</td><td colspan="2">a</td></tr>
+<tr><td>**isotonitazene** N,N-dietil-2-(2-(4-isopropossibenzil)-5-nitro-1H-benzo[d]imidazol-1-il)etan-1-ammina</td><td>7611746948322</td><td colspan="2">d</td></tr>
+<tr><td>**JWH-018, 1-pentil-3-(1-naftoil)indolo**</td><td>7611746990925</td><td colspan="2">d</td></tr>
+<tr><td>**JWH-019, 1-esil-3-(1-naftoil)indolo**</td><td>7611746990918</td><td colspan="2">d</td></tr>
+<tr><td>**JWH-073, 1-butil-3-(1-naftoil)indolo**</td><td>7611746990901</td><td colspan="2">d</td></tr>
+<tr><td>**JWH-250, 1-pentil-3-(2-metossifenilacetil)indolo**</td><td>7611746990895</td><td colspan="2">d</td></tr>
+<tr><td>**ketamina** Sono esclusi dal controllo i medicamenti pronti per l’uso utilizzati per iniezione per coloro che sono autorizzati all’impiego di sostanze controllate dell’elenco b.</td><td>7611746941163</td><td colspan="2">b</td></tr>
+<tr><td>**ketazolam**</td><td>7611746195009</td><td colspan="2">b</td></tr>
+<tr><td>**LAAM** vedere sotto levoacetilmetadolo</td><td>7611746236009</td><td colspan="2">a</td></tr>
+<tr><td>**lefetamina** (SPA)</td><td>7611746196006</td><td colspan="2">b</td></tr>
+<tr><td>**levanfetamina** [(-)-isomero]</td><td>7611746197003</td><td colspan="2">a</td></tr>
+<tr><td>**levoacetilmetadolo** [(-)-isomero] (LAAM)</td><td>7611746236009</td><td colspan="2">a</td></tr>
+<tr><td>**levofenacilmorfano**</td><td>7611746061007</td><td colspan="2">a</td></tr>
+<tr><td>**levometadone**</td><td>7611746979845</td><td colspan="2">a</td></tr>
+<tr><td>**levometanfetamina**</td><td>7611746290001</td><td colspan="2">a</td></tr>
+<tr><td>**levometorfano** *Il destrometorfano non sottostà a controlli*</td><td>7611746059004</td><td colspan="2">a</td></tr>
+<tr><td>**levomoramide**</td><td>7611746060000</td><td colspan="2">a</td></tr>
+<tr><td>**levorfanolo** *Il destrorfano non sottostà a controlli*</td><td>7611746062004</td><td colspan="2">a</td></tr>
+<tr><td>**lisdexanfetamina**</td><td>7611764965442</td><td colspan="2">a</td></tr>
+<tr><td>**lisergide** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**loflazepato d’etile** vedere sotto etilloflazepato</td><td>7611746185000</td><td colspan="2">b</td></tr>
+<tr><td>**Lophophora williamsii** vedere sotto peyotl</td><td>7611746371007</td><td colspan="2">d</td></tr>
+<tr><td>**loprazolam**</td><td>7611746198000</td><td colspan="2">b</td></tr>
+<tr><td>**lorazepam**</td><td>7611746228004</td><td colspan="2">b</td></tr>
+<tr><td>**lormetazepam**</td><td>7611746200000</td><td colspan="2">b</td></tr>
+<tr><td>**LSD** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**LSD-25** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**mazindolo**</td><td>7611746201007</td><td colspan="2">b</td></tr>
+<tr><td>**MBDB** vedere sotto α-etil-N-metil-3,4-metilendiossianfetamina</td><td>7611746976806</td><td colspan="2">d</td></tr>
+<tr><td>**MDA** vedere sotto 3,4-metilendiossianfetamina</td><td>7611746459002</td><td colspan="2">d</td></tr>
+<tr><td>**MDE** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td colspan="2">d</td></tr>
+<tr><td>**MDEA** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td colspan="2">d</td></tr>
+<tr><td>**MDMA** vedere sotto 3,4-metilendiossimetanfetamina</td><td>7611746148005</td><td colspan="2">d</td></tr>
+<tr><td>**4F-MDMB-BINACA (4F-MDMB-BUTINACA)**, metil-2-{[1- (4-fluorobutil)-1H-indazolo-3-carbonil]ammino}-3,3-dimetilbutanoato</td><td>7611746943365</td><td colspan="2">d</td></tr>
+<tr><td>**MDMB-CHMICA,** metil N-{[1-(cicloesilmetil)-1H-indolo-3-il]carbonile}-3-metil-L-valinato</td><td>7611746958062</td><td colspan="2">d</td></tr>
+<tr><td>**5F-MDMB-PICA (5F-MDMB-2201),** metil-2-{[1-(5-fluoropentil)-1H-indolo-3-carbonil]ammino}-3,3-dimetilbutanoato</td><td>7611746943204</td><td colspan="2">d</td></tr>
+<tr><td>MDMB-4en-PINACA metil-2-[1-(pent-4-en-1-il)-1H-indazolo-3-carbossamide]-3,3-dimetilbutanoato</td><td>7611746013785</td><td colspan="2">d</td></tr>
+<tr><td>**MDPV** vedere sotto 3,4-metilendiossipirovalerone</td><td>7611746990970</td><td colspan="2">d</td></tr>
+<tr><td>**4-MEC,** 4-metiletcatinone, 2-etilamino-1-(4-metilfenil)propan-1-one</td><td>7611746958093</td><td colspan="2">d</td></tr>
+<tr><td>**mecloqualone**</td><td>7611746126003</td><td colspan="2">a</td></tr>
+<tr><td>**medazepam**</td><td>7611746202004</td><td colspan="2">b</td></tr>
+<tr><td>**mefenorex** [(±)-isomero]</td><td>7611746203001</td><td colspan="2">b</td></tr>
+<tr><td>**mephedrone** vedere sotto 4-metilmetcatinone</td><td>7611746991007</td><td colspan="2">d</td></tr>
+<tr><td>**meprobamato**</td><td>7611746204008</td><td colspan="2">b</td></tr>
+<tr><td>**mescalina**</td><td>7611746144007</td><td colspan="2">d</td></tr>
+<tr><td>**mesocarbo**</td><td>7611746229001</td><td colspan="2">b</td></tr>
+<tr><td>**metadolo** vedere sotto demefeptanolo</td><td>7611746035008</td><td colspan="2">a</td></tr>
+<tr><td>**metadone** [(±)-isomero]</td><td>7611746064008</td><td colspan="2">a</td></tr>
+<tr><td>**metadone, intermedio del**</td><td>7611746064008</td><td colspan="2">a</td></tr>
+<tr><td>**metanfetamina** [(±)-isomero]</td><td>7611746121008</td><td colspan="2">a</td></tr>
+<tr><td>**metaqualone**</td><td>7611746127000</td><td colspan="2">a</td></tr>
+<tr><td>**metazocina**</td><td>7611746063001</td><td colspan="2">a</td></tr>
+<tr><td>**metcatinone** (efedrone) [(±)-isomero]</td><td>7611746331001</td><td colspan="2">d</td></tr>
+<tr><td>**para-metil-4-metilaminorex,** 4,4’-DMAR</td><td>7611746958116</td><td colspan="2">d</td></tr>
+<tr><td>**metilone** vedere sotto 3,4-metilendiossimetcatinone</td><td>7611746990987</td><td colspan="2">d</td></tr>
+<tr><td>**2-(metilamino)-1-fenilpropan-1-one** vedere sotto metcatinone</td><td>7611746331001</td><td colspan="2">d</td></tr>
+<tr><td>**2-metilamino-1-(3,4-metilenediossifenil)butan-1-one** (butylone)</td><td>7611746990994</td><td colspan="2">d</td></tr>
+<tr><td>**4-metilaminorex**</td><td>7611746999379</td><td colspan="2">d</td></tr>
+<tr><td>**N-metil-1-(1,3-benzodiossol-5-il)-2-butilamina** vedere sotto alpha-etil-N-metil-3,4-metilendiossianfetamina</td><td>7611746976806</td><td colspan="2">d</td></tr>
+<tr><td>**metildesorfina**</td><td>7611746066002</td><td colspan="2">a</td></tr>
+<tr><td>**metildiidromorfina**</td><td>7611746067009</td><td colspan="2">a</td></tr>
+<tr><td>**3,4-metilendiossianfetamina** (MDA) [(±)-isomero]</td><td>7611746459002</td><td colspan="2">d</td></tr>
+<tr><td>**(3,4-metilendiossifenil)-2-metilaminopropan-1-one** vedere sotto 3,4-metilendiossimetcatinone</td><td>7611746990987</td><td colspan="2">d</td></tr>
+<tr><td>**3,4-metilendiossimetanfetamina** (MDMA) [(±)-isomero]</td><td>7611746148005</td><td colspan="2">d</td></tr>
+<tr><td>**3,4-metilendiossimetcatinone** (Methylone)</td><td>7611746990987</td><td colspan="2">d</td></tr>
+<tr><td>**3,4-metilendiossipirovalerone** (MDPV)</td><td>7611746990970</td><td colspan="2">d</td></tr>
+<tr><td>**metilfenidato**</td><td>7611746122005</td><td colspan="2">a</td></tr>
+<tr><td>**1-(4-metilfenil)-2-metilaminopropan-1-one** vedere sotto 4-metilmetcatinone</td><td>7611746991007</td><td colspan="2">d</td></tr>
+<tr><td>**1-metil-4-fenil-4-propionossipiperidina** (MPPP)</td><td>7611746070009</td><td colspan="2">a</td></tr>
+<tr><td>**metilfenobarbitale**</td><td>7611746199007</td><td colspan="2">b</td></tr>
+<tr><td>**α****-metilfentanile**</td><td>7611746068006</td><td colspan="2">a</td></tr>
+<tr><td>**3-metilfentanile**</td><td>7611746997795</td><td colspan="2">a</td></tr>
+<tr><td>**4-metilmetcatinone** (mephedrone)</td><td>7611746991007</td><td colspan="2">d</td></tr>
+<tr><td>**4-metiltioanfetamina** (4-MTA)</td><td>7611746354000</td><td colspan="2">d</td></tr>
+<tr><td>**α****-metiltiofentanile**</td><td>7611746071006</td><td colspan="2">a</td></tr>
+<tr><td>**3-metiltiofentanile**</td><td>7611746072003</td><td colspan="2">a</td></tr>
+<tr><td>**metiopropamina, MPA,** N-metil-1-(tiofen-2-il)propan-2-ammina</td><td>7611746965145</td><td colspan="2">d</td></tr>
+<tr><td>**metiprilone**</td><td>7611746206002</td><td colspan="2">b</td></tr>
+<tr><td>**metonitazene** N,N-dietil-2-(2-(4-metossibenzil)-5-nitro-1H-benzo[d]imidazol-1-il)etan-1-amina</td><td>7611746948483</td><td colspan="2">d</td></tr>
+<tr><td>**metopone**</td><td>7611746073000</td><td colspan="2">a</td></tr>
+<tr><td>**metossetamina**, 2-(3-metossifenil)-2-(etilamino cicloesanone</td><td>7611746964728</td><td colspan="2">d</td></tr>
+<tr><td>**metossiacetilfentanil****,** 2-metossi-N-fenil-N-[1-(2-feniletil)piperidina-4-il]acetamide</td><td>7611746943303</td><td colspan="2">d</td></tr>
+<tr><td>**p-metossianfetamina** (PMA)</td><td>7611746150008</td><td colspan="2">d</td></tr>
+<tr><td>**2-(2-metossifenil)-1-(1-pentilindol-3-il)etanone** vedere sotto JWH-250</td><td>7611746990895</td><td colspan="2">d</td></tr>
+<tr><td>**p-metossimetanfetamina** (PMMA)</td><td>7611746150015</td><td colspan="2">d</td></tr>
+<tr><td>**5-metossi-3,4-metilendiossianfetamina** (MMDA)</td><td>7611746145004</td><td colspan="2">d</td></tr>
+<tr><td>**3-metossifenciclidina** 1-[1-(3-metossifenil)cicloesil]-piperidina, 3-MeO-PCP</td><td>7611746013921</td><td colspan="2">d</td></tr>
+<tr><td>**midazolam**</td><td>7611746207009</td><td colspan="2">b</td></tr>
+<tr><td>**mitraginina**</td><td>7611746958154</td><td colspan="2">a</td></tr>
+<tr><td>**mirofina**</td><td>7611746081005</td><td colspan="2">a</td></tr>
+<tr><td>**MMDA** vedere sotto 5-metossi-3,4-metilendiossianfetamina</td><td>7611746145004</td><td colspan="2">d</td></tr>
+<tr><td>**moramide, intermedio del**</td><td>7611746076001</td><td colspan="2">a</td></tr>
+<tr><td>**morferidina**</td><td>7611746077008</td><td colspan="2">a</td></tr>
+<tr><td>**morfina**</td><td>7611746078005</td><td colspan="2">a</td></tr>
+<tr><td>**morfina metobromuro e altri derivati morfinici ad** **azoto pentavalente**</td><td>7611746079002</td><td colspan="2">a</td></tr>
+<tr><td>**morfina N-ossido**</td><td>7611746080008</td><td colspan="2">a</td></tr>
+<tr><td>**MPPP** vedere sotto 1-metil-4-fenil-4-propionossipiperidina</td><td>7611746070009</td><td colspan="2">a</td></tr>
+<tr><td>**MT-45,** 1-cicloesil-4-(1,2-difeniletil)piperazina</td><td>7611746958130</td><td colspan="2">d</td></tr>
+<tr><td>**4-****MTA**vedere sotto 4-metiltioanfetamina</td><td>7611746354000</td><td colspan="2">d</td></tr>
+<tr><td>**(naftalene-1-il)(1-butil-1H-indol-3-il)metanone** vedere sotto JWH-073</td><td>7611746990901</td><td colspan="2">d</td></tr>
+<tr><td>**(naftalene-1-il)(1-esil-1H-indol-3-il)metanone** vedere sotto JWH-019</td><td>7611746990918</td><td colspan="2">d</td></tr>
+<tr><td>**(naftalene-1-il)(1-pentil-1H-indol-3-il)metanone** vedere sotto JWH-018</td><td>7611746990925</td><td colspan="2">d</td></tr>
+<tr><td>**nicocodina**</td><td>7611746082002</td><td colspan="2">a</td></tr>
+<tr><td>**nicodicodina**</td><td>7611746083009</td><td colspan="2">a</td></tr>
+<tr><td>**nicomorfina**</td><td>7611746084006</td><td colspan="2">a</td></tr>
+<tr><td>**nimetazepam**</td><td>7611746208006</td><td colspan="2">b</td></tr>
+<tr><td>**nitrazepam**</td><td>7611746209003</td><td colspan="2">b</td></tr>
+<tr><td>**noracimetadolo**</td><td>7611746085003</td><td colspan="2">a</td></tr>
+<tr><td>**norcodeina**</td><td>7611746086000</td><td colspan="2">a</td></tr>
+<tr><td>**nordazepam**</td><td>7611746210009</td><td colspan="2">b</td></tr>
+<tr><td>**norlevorfanolo**</td><td>7611746087007</td><td colspan="2">a</td></tr>
+<tr><td>**normetadone**</td><td>7611746088004</td><td colspan="2">a</td></tr>
+<tr><td>**normorfina**</td><td>7611746089001</td><td colspan="2">a</td></tr>
+<tr><td>**norpipanone**</td><td>7611746090007</td><td colspan="2">a</td></tr>
+<tr><td>**(****±****)-norpseudoefedrina**</td><td>7611746173014</td><td colspan="2">b</td></tr>
+<tr><td>**(+)-norpseudoefedrina** vedere sotto catina</td><td>7611746173007</td><td colspan="2">b</td></tr>
+<tr><td>**ocfentanil****,** N-(2-fluoropenil)-2-metossi-N-[1-(2-feniletil)piperidina-4-il]acetamide</td><td>7611746941170</td><td colspan="2">d</td></tr>
+<tr><td>**opiale** (alcaloidi dell’oppio, sali idroclorici)</td><td>7611746997931</td><td colspan="2">a</td></tr>
+<tr><td>**opii crocata tinctura 1 % morfina** vedere sotto oppio, tintura crocata 1 % morfina</td><td>7611746091905</td><td colspan="2">a</td></tr>
+<tr><td>**opii extractum sicc 20 % morfina** vedere sotto oppio, estratto secco 20 % morfina</td><td>7611746157908</td><td colspan="2">a</td></tr>
+<tr><td>**opii pulvis normatus 10 % morfina** vedere sotto oppio, polvere standardizzata 10 % morfina</td><td>7611746078302</td><td colspan="2">a</td></tr>
+<tr><td>**opii tinctura normata 1 % morfina** vedere sotto oppio, tintura standardizzata 1 % morfina</td><td>7611746158905</td><td colspan="2">a</td></tr>
+<tr><td>**oppio/oppio grezzo** *(fatte salve le disposizioni* *applicabiliai preparati contenenti oppio)*</td><td>7611746160007</td><td colspan="2">a</td></tr>
+<tr><td>I preparati che contengono **oppio** sono esclusi parzialmente dalle misure di controllo quando contengono al massimo 0,2 % di morfina calcolata come base nonché una o più altre componenti (principi attivi o sostanze ausiliarie), in modo tale che la morfina non possa essere estratta in una proporzione che costituirebbe un pericolo per la salute pubblica o con dei mezzi facili da applicare e che pure i suoi preparati non possano essere utilizzati in tale proporzione. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td colspan="2">c</td></tr>
+<tr><td>**oppio da fumare e residui provenienti dalla sua** **fabbricazione o utilizzazione**</td><td>7611746131007</td><td colspan="2">d</td></tr>
+<tr><td>**oppio, estratto secco 20 % morfina**</td><td>7611746157908</td><td colspan="2">a</td></tr>
+<tr><td>**oppio, polvere standardizzata 10 % morfina**</td><td>7611746078302</td><td colspan="2">a</td></tr>
+<tr><td>**oppio, tintura crocata 1 % morfina**</td><td>7611746091905</td><td colspan="2">a</td></tr>
+<tr><td>**oppio, tintura standardizzata 1 % morfina**</td><td>7611746158905</td><td colspan="2">a</td></tr>
+<tr><td>**oripavina**</td><td>7611746270003</td><td colspan="2">a</td></tr>
+<tr><td>**ossicodone**</td><td>7611746092001</td><td colspan="2">a</td></tr>
+<tr><td>**ossimorfone**</td><td>7611746093008</td><td colspan="2">a</td></tr>
+<tr><td>**oxazepam**</td><td>7611746211006</td><td colspan="2">b</td></tr>
+<tr><td>**oxazolam**</td><td>7611746212003</td><td colspan="2">b</td></tr>
+<tr><td>**paglia di papavero, concentrato di** Il concentrato di paglia di papavero è il prodotto ottenuto dalla lavorazione della paglia di papavero al fine di concentrare i suoi alcaloidi, quando questo prodotto è messo in commercio.</td><td>7611746075004</td><td colspan="2">a</td></tr>
+<tr><td>**paglia di papavero per la fabbricazione** **di stupefacenti**</td><td>7611746074007</td><td colspan="2">a</td></tr>
+<tr><td>**panaeolus** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**paraesile** (sinesile)</td><td>7611746149002</td><td colspan="2">d</td></tr>
+<tr><td>**para-fluorofentanile** vedere sotto p-fluorofentanile</td><td>7611746048008</td><td colspan="2">a</td></tr>
+<tr><td>**para-metossianfetamina** vedere sotto p-metossianfetamina (PMA)</td><td>7611746150008</td><td colspan="2">d</td></tr>
+<tr><td>**para-metossimetanfetamina** (PMMA)</td><td>7611746150015</td><td colspan="2">d</td></tr>
+<tr><td>**PCE** vedere sotto eticiclidina</td><td>7611746140009</td><td colspan="2">d</td></tr>
+<tr><td>**PCP** vedere sotto fenciclidina</td><td>7611746124009</td><td colspan="2">a</td></tr>
+<tr><td>**PCPY** vedere sotto roliciclidina</td><td>7611746153009</td><td colspan="2">d</td></tr>
+<tr><td>**pemolina**</td><td>7611746123002</td><td colspan="2">b</td></tr>
+<tr><td>**pentazocina** [(±)-isomero; cis ]</td><td>7611746094005</td><td colspan="2">a</td></tr>
+<tr><td>**pentedrone,** 2-(metilamino)-1-fenilpentan-1-one</td><td>7611746958079</td><td colspan="2">d</td></tr>
+<tr><td>**1-pentil-3-(2-metossifenilacetil)indolo** vedere sotto JWH-250</td><td>7611746990895</td><td colspan="2">d</td></tr>
+<tr><td>**1-pentil-3-(1-naftoil)indolo** vedere sotto JWH-018</td><td>7611746990925</td><td colspan="2">d</td></tr>
+<tr><td>**pentobarbitale**</td><td>7611746213000</td><td colspan="2">b</td></tr>
+<tr><td>**PEPAP** vedere sotto 1-(2-fenetil)-4-fenil-4-acetossipiperidina</td><td>7611746100003</td><td colspan="2">a</td></tr>
+<tr><td>**petidina**</td><td>7611746095002</td><td colspan="2">a</td></tr>
+<tr><td>**petidina, prodotto intermedio A**</td><td>7611746996009</td><td colspan="2">a</td></tr>
+<tr><td>**petidina, prodotto intermedio B**</td><td>7611746976011</td><td colspan="2">a</td></tr>
+<tr><td>**petidina, prodotto intermedio C**</td><td>761174676172</td><td colspan="2">a</td></tr>
+<tr><td>**peyotl** (Lophophora williamsii)</td><td>7611746371007</td><td colspan="2">d</td></tr>
+<tr><td>**PHP** vedere sotto roliciclidina</td><td>7611746153009</td><td colspan="2">d</td></tr>
+<tr><td>**piminodina**</td><td>7611746104001</td><td colspan="2">a</td></tr>
+<tr><td>**pinazepam**</td><td>7611746216001</td><td colspan="2">b</td></tr>
+<tr><td>**pipradolo**</td><td>7611746217008</td><td colspan="2">b</td></tr>
+<tr><td>**piraesile** vedere sotto paraesile</td><td>7611746149002</td><td colspan="2">d</td></tr>
+<tr><td>**piritramide**</td><td>7611746105008</td><td colspan="2">a</td></tr>
+<tr><td>**pirovalerone**</td><td>7611746219002</td><td colspan="2">b</td></tr>
+<tr><td>**alfa-pirrolidinovalerofenone,** alfa-pirrolidinopentiofenone, alfa-PVP</td><td>7611746958123</td><td colspan="2">d</td></tr>
+<tr><td>**PMA** vedere sotto p-metossianfetamina</td><td>7611746150008</td><td colspan="2">d</td></tr>
+<tr><td>**PMMA** vedere p-metossimetanfetamina</td><td>7611746150015</td><td colspan="2">d</td></tr>
+<tr><td>**prazepam**</td><td>7611746218005</td><td colspan="2">b</td></tr>
+<tr><td>**proeptazina**</td><td>7611746106005</td><td colspan="2">a</td></tr>
+<tr><td>**properidina**</td><td>7611746107002</td><td colspan="2">a</td></tr>
+<tr><td>**propiram**</td><td>7611746108009</td><td colspan="2">a</td></tr>
+<tr><td>**psilocibina**</td><td>7611746152002</td><td colspan="2">d</td></tr>
+<tr><td>**psilocina**</td><td>7611746151005</td><td colspan="2">d</td></tr>
+<tr><td>**psilocybe** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**racemetorfano** *Il destrometorfano non sottostà a controlli*</td><td>7611746109006</td><td colspan="2">a</td></tr>
+<tr><td>**racemoramide**</td><td>7611746110002</td><td colspan="2">a</td></tr>
+<tr><td>**racemorfano** *Il destrorfano non sottostà a controlli*</td><td>7611746111009</td><td colspan="2">a</td></tr>
+<tr><td>**remifentanile**</td><td>7611746340003</td><td colspan="2">a</td></tr>
+<tr><td>**remimazolam**</td><td>7611746013761</td><td colspan="2">b</td></tr>
+<tr><td>**roliciclidina** (PHP, PCPY)</td><td>7611746153009</td><td colspan="2">d</td></tr>
+<tr><td>**salvia divinorum**</td><td>7611123456789</td><td colspan="2">d</td></tr>
+<tr><td>**salvinorina A**</td><td>7611746965428</td><td colspan="2">d</td></tr>
+<tr><td>**san pedro** (Trichocereus pachanoi)</td><td>7611746372004</td><td colspan="2">d</td></tr>
+<tr><td>**secbutabarbitale**</td><td>7611746231004</td><td colspan="2">b</td></tr>
+<tr><td>**secobarbitale**</td><td>7611746128137</td><td colspan="2">b</td></tr>
+<tr><td>**sinesile** vedere sotto paraesile</td><td>7611746149002</td><td colspan="2">d</td></tr>
+<tr><td>**SPA** vedere sotto lefetamina</td><td>7611746196006</td><td colspan="2">b</td></tr>
+<tr><td>**STP** (DOM) vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td colspan="2">d</td></tr>
+<tr><td>**stropharia** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**sufentanile**</td><td>7611746112006</td><td colspan="2">a</td></tr>
+<tr><td>**tapentadolo**</td><td>7611746990888</td><td colspan="2">a</td></tr>
+<tr><td>**TCP** vedere sotto tenociclidina</td><td>7611746154006</td><td colspan="2">d</td></tr>
+<tr><td>**tebacone**</td><td>7611746113003</td><td colspan="2">a</td></tr>
+<tr><td>**tebaina**</td><td>7611746114000</td><td colspan="2">a</td></tr>
+<tr><td>**temazepam**</td><td>7611746220008</td><td colspan="2">b</td></tr>
+<tr><td>**tenociclidina** (TCP)</td><td>7611746154006</td><td colspan="2">d</td></tr>
+<tr><td>**tetrabamato**</td><td>7611746998358</td><td colspan="2">b</td></tr>
+<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo per scopi** **medici** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC)</td><td>7611746946380</td><td colspan="2">a</td></tr>
+<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC) (fatte salve le disposizioni applicabili al (-)-trans-delta-9-tetraidrocannabinolo per scopi medici)</td><td>7611746155010</td><td colspan="2">d</td></tr>
+<tr><td>**tetraidrocannabinolo (THC) per scopi medici** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC</td><td>7611746946427</td><td colspan="2">a</td></tr>
+<tr><td>**tetraidrocannabinolo (THC)** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC (fatte salve le disposizioni applicabili al tetraidrocannabinolo (THC) per scopi medici)</td><td>7611746155003</td><td colspan="2">d</td></tr>
+<tr><td>**tetraidrofuranilfentanil****,** N-(1-fenetilpiperidin-4-il)-N-fenil-tetraidrofurano-2-carbossammide</td><td>7611746941217</td><td colspan="2">d</td></tr>
+<tr><td>**tetrazepam**</td><td>7611746221005</td><td colspan="2">b</td></tr>
+<tr><td>**tenanfetamina** vedere sotto 3,4-metilendiossianfetamina</td><td>7611746459002</td><td colspan="2">d</td></tr>
+<tr><td>**TFMPP** vedere sotto trifluorometilfenilpiperazina</td><td>7611746991014</td><td colspan="2">d</td></tr>
+<tr><td>**1-[1-(2-tienil)-cicloesil]-piperidina** vedere sotto tenociclidina</td><td>7611746154006</td><td colspan="2">d</td></tr>
+<tr><td>**tilidina** [(±)-isomero; trans]</td><td>7611746116004</td><td colspan="2">a</td></tr>
+<tr><td>**tiofentanile**</td><td>7611746115007</td><td colspan="2">a</td></tr>
+<tr><td>**TMA** vedere sotto 3,4,5-trimetossianfetamina</td><td>7611746156000</td><td colspan="2">d</td></tr>
+<tr><td>**TMA-2** vedere sotto 2,4,5-trimetossianfetamina</td><td>7611746136019</td><td colspan="2">d</td></tr>
+<tr><td>**tramadolo** Sono esclusi dalle misure di controllo i medicamenti pronti per l’uso. Le imprese con un’autorizzazione di esercizio all’impiego di sostanze controllate dell’elenco b sono escluse dalle verifiche per la fabbricazione e per il proprio successivo commercio interno o per l’esportazione.</td><td>7611746013778</td><td colspan="2">b</td></tr>
+<tr><td>**triazolam**</td><td>7611746222002</td><td colspan="2">b</td></tr>
+<tr><td>**Trichocereus pachanoi** vedere sotto san pedro</td><td>7611746372004</td><td colspan="2">d</td></tr>
+<tr><td>**trifluorometilfenilpiperazina** (TFMPP)</td><td>7611746991014</td><td colspan="2">d</td></tr>
+<tr><td>**1-(3-trifluorometilfenil)piperazina** vedere sotto trifluorometilfenilpiperazina</td><td>7611746991014</td><td colspan="2">d</td></tr>
+<tr><td>**trimeperidina**</td><td>7611746117001</td><td colspan="2">a</td></tr>
+<tr><td>**2,4,5-trimetossianfetamina** (TMA-2)</td><td>7611746156000</td><td colspan="2">d</td></tr>
+<tr><td>**3,4,5-trimetossianfetamina** (TMA)</td><td>7611746136019</td><td colspan="2">d</td></tr>
+<tr><td>**1-(3,4,5-trimetossifenil)-2-aminoetano** vedere sotto mescalina</td><td>7611746144007</td><td colspan="2">d</td></tr>
+<tr><td>**U-47700,** 3,4-dicloro-N-(2-(dimetilamino)cicloesile)-N-metilbenzammide</td><td>7611746958109</td><td colspan="2">d</td></tr>
+<tr><td>**UR-144****,** (1-pentil-1H-indolo-3-il](2,2,3,3-tetrametilciclopropil)metanone</td><td>7611746941255</td><td colspan="2">d</td></tr>
+<tr><td>**Valerilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]pentanammide</td><td>7611746943235</td><td colspan="2">d</td></tr>
+<tr><td>**vinilbitale**</td><td>7611746223009</td><td colspan="2">b</td></tr>
+<tr><td>**XLR-11;** [1-(5-fluoropentil)-1H-indolo-3-il](2,2,3,3-tetrametilciclopropil)metanone</td><td>7611746960737</td><td colspan="2">d</td></tr>
+<tr><td>**zipeprolo**</td><td>7611746232001</td><td colspan="2">a</td></tr>
+<tr><td>**zolpidem**</td><td>7611746360001</td><td colspan="2">b</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019. Di detto adeguamento è tenuto conto in tutto il presente teso.
@@ -642,13 +654,13 @@ Allegato 2[^t-2]
 <tr><td>**betaprodina**</td><td colspan="2">7611746015000</td><td>a</td></tr>
 <tr><td>**bezitramide**</td><td colspan="2">7611746016007</td><td>a</td></tr>
 <tr><td>**buprenorfina**</td><td colspan="2">7611746017004</td><td>a</td></tr>
-<tr><td>**Canapa per scopi medici** Piante di canapa o parti delle stesse per scopi medici e la fabbricazione farmaceutica che presentano una concentrazione media di THC totale pari almeno all’1,0 % e tutti gli oggetti e i preparati fabbricati per scopi medici e la fabbricazione farmaceutica che presentano una concentrazione media di THC totale pari almeno all’1,0 % o fabbricati a partire da canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td colspan="2">7611746946311</td><td>a</td></tr>
-<tr><td>**Canapa, estratto per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946335</td><td>a</td></tr>
-<tr><td>**Canapa, olio** **per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946342</td><td>a</td></tr>
-<tr><td>**Canapa, resina (hashish)** **per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946434</td><td>a</td></tr>
-<tr><td>**Canapa, semi** **destinati alla coltivazione** **per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td colspan="2">7611746946311</td><td>a</td></tr>
-<tr><td>**Canapa, talee** **destinate alla coltivazione per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td colspan="2">7611746946311</td><td>a</td></tr>
-<tr><td>**Canapa, tintura per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946298</td><td>a</td></tr>
+<tr><td>**canapa per scopi medici** Piante di canapa o parti delle stesse per scopi medici e la fabbricazione farmaceutica che presentano una concentrazione media di THC totale pari almeno all’1,0 % e tutti gli oggetti e i preparati fabbricati per scopi medici e la fabbricazione farmaceutica che presentano una concentrazione media di THC totale pari almeno all’1,0 % o fabbricati a partire da canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td colspan="2">7611746946311</td><td>a</td></tr>
+<tr><td>**canapa, estratto per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946335</td><td>a</td></tr>
+<tr><td>**canapa, olio** **per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946342</td><td>a</td></tr>
+<tr><td>**canapa, resina (hashish)** **per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946434</td><td>a</td></tr>
+<tr><td>**canapa, semi** **destinati alla coltivazione** **per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td colspan="2">7611746946311</td><td>a</td></tr>
+<tr><td>**canapa, talee** **destinate alla coltivazione per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td colspan="2">7611746946311</td><td>a</td></tr>
+<tr><td>**canapa, tintura per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946298</td><td>a</td></tr>
 <tr><td>**carfentanil**</td><td colspan="2">7611746958161</td><td>a</td></tr>
 <tr><td>**cetobemidone**</td><td colspan="2">7611746058007</td><td>a</td></tr>
 <tr><td>**clonitazene**</td><td colspan="2">7611746019008</td><td>a</td></tr>
@@ -678,7 +690,7 @@ Allegato 2[^t-2]
 <tr><td>**dimetiltiambutene**</td><td colspan="2">7611746030003</td><td>a</td></tr>
 <tr><td>**diossafetilbutirrato**</td><td colspan="2">7611746037002</td><td>a</td></tr>
 <tr><td>**dipipanone**</td><td colspan="2">7611746039006</td><td>a</td></tr>
-<tr><td>**Dronabinolo per scopi medici** vedere sotto (-)-trans-delta-9-tetraidrocannabinolo per scopi medici</td><td colspan="2">7611746946380</td><td>a</td></tr>
+<tr><td>**dronabinolo per scopi medici** vedere sotto (-)-trans-delta-9-tetraidrocannabinolo per scopi medici</td><td colspan="2">7611746946380</td><td>a</td></tr>
 <tr><td>**drotebanolo**</td><td colspan="2">7611746040002</td><td>a</td></tr>
 <tr><td>**ecgonina e suoi esteri e derivati trasformabili in ecgonina e cocaina**</td><td colspan="2">7611746041009</td><td>a</td></tr>
 <tr><td>**etilmetiltiambutene**</td><td colspan="2">7611746042006</td><td>a</td></tr>
@@ -788,7 +800,7 @@ Allegato 2[^t-2]
 <tr><td>**tebacone**</td><td colspan="2">7611746113003</td><td>a</td></tr>
 <tr><td>**tebaina**</td><td colspan="2">7611746114000</td><td>a</td></tr>
 <tr><td>**(-)-trans-delta-9-tetraidrocannabinolo per scopi** **medici** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC)</td><td colspan="2">7611746946380</td><td>a</td></tr>
-<tr><td>**Tetraidrocannabinolo (THC) per scopi medici** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC</td><td colspan="2">7611746946427</td><td>a</td></tr>
+<tr><td>**tetraidrocannabinolo (THC) per scopi medici** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC</td><td colspan="2">7611746946427</td><td>a</td></tr>
 <tr><td>**tilidina** [(±)-isomero; trans]</td><td colspan="2">7611746116004</td><td>a</td></tr>
 <tr><td>**tiofentanile**</td><td colspan="2">7611746115007</td><td>a</td></tr>
 <tr><td>**trimeperidina**</td><td colspan="2">7611746117001</td><td>a</td></tr>
@@ -801,7 +813,7 @@ Allegato 3[^t-3]
 
 ## Elenco b
 
-[^t-3]: Aggiornato dal n. I cpv. 1 dell’O del DFI del 5 set. 2014 ([RU 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), dai n. I delle O del DFI del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)) e del 29 mag. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)).
+[^t-3]: Aggiornato dal n. I cpv. 1 dell’O del DFI del 5 set. 2014 ([RU 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), dal n. I delle O del DFI del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)) e del 21 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 5](https://fedlex.data.admin.ch/eli/oc/2023/5)).
 
 <table>
 <tr><th></th><th>GTIN</th><th>Elenco</th></tr>
@@ -824,12 +836,14 @@ Allegato 3[^t-3]
 <tr><td>**ciclobarbitale**</td><td>7611746179009</td><td>b</td></tr>
 <tr><td>**clobazam**</td><td>7611746175001</td><td>b</td></tr>
 <tr><td>**clonazepam**</td><td>7611746176008</td><td>b</td></tr>
+<tr><td>**clonazolam** 6-(2-clorofenil)-1-metil-8-nitro-4H-s-triazolo- (4,3-a)-(1,4)-benzodiazepina</td><td>7611746957850</td><td>b</td></tr>
 <tr><td>**clorazepato**</td><td>7611746224006</td><td>b</td></tr>
 <tr><td>**clordiazepossido**</td><td>7611746174004</td><td>b</td></tr>
 <tr><td>**clotiazepam**</td><td>7611746177005</td><td>b</td></tr>
 <tr><td>**cloxazolam**</td><td>7611746178002</td><td>b</td></tr>
 <tr><td>**delorazepam**</td><td>7611746180005</td><td>b</td></tr>
 <tr><td>**diazepam**</td><td>7611746181002</td><td>b</td></tr>
+<tr><td>**diclazepam** 7-cloro-5-(2-clorofenil)-1,3-diidro-1-metil-2H- 1,4-benzodiazepin-2-one</td><td>7611746013600</td><td>b</td></tr>
 <tr><td>**dietilpropione** vedere sotto amfepramone</td><td>7611746167006</td><td>b</td></tr>
 <tr><td>**estazolam**</td><td>7611746182009</td><td>b</td></tr>
 <tr><td>**etclorvinolo**</td><td>7611746183006</td><td>b</td></tr>
@@ -845,11 +859,12 @@ Allegato 3[^t-3]
 <tr><td>**fenobarbitale . (-)-propilesedrina (1:1)** (barbexaclone)</td><td>7611746168010</td><td>b</td></tr>
 <tr><td>**fenproporex**</td><td>7611746188001</td><td>b</td></tr>
 <tr><td>**fentermina**</td><td>7611746215004</td><td>b</td></tr>
+<tr><td>**flubromazolam** 8-bromo-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo [4,3-a][1,4]benzodiazepina</td><td>7611746013617</td><td>b</td></tr>
 <tr><td>**fludiazepam**</td><td>7611746189008</td><td>b</td></tr>
 <tr><td>**flunitrazepam**</td><td>7611746190004</td><td>b</td></tr>
 <tr><td>**flurazepam**</td><td>7611746191001</td><td>b</td></tr>
 <tr><td>**glutetimide**</td><td>7611746192008</td><td>b</td></tr>
-<tr><td>Ketamina Sono esclusi dal controllo i medicamenti pronti per l’uso utilizzati per iniezione per coloro che sono autorizzati all’impiego di sostanze controllate dell’elenco b.</td><td>7611746941163</td><td>b</td></tr>
+<tr><td>ketamina Sono esclusi dal controllo i medicamenti pronti per l’uso utilizzati per iniezione per coloro che sono autorizzati all’impiego di sostanze controllate dell’elenco b.</td><td>7611746941163</td><td>b</td></tr>
 <tr><td>**ketazolam**</td><td>7611746195009</td><td>b</td></tr>
 <tr><td>**lefetamina** (SPA)</td><td>7611746196006</td><td>b</td></tr>
 <tr><td>**loflazepato d’etile** vedere sotto etilloflazepato</td><td>7611746185000</td><td>b</td></tr>
@@ -877,12 +892,14 @@ Allegato 3[^t-3]
 <tr><td>**pipradolo**</td><td>7611746217008</td><td>b</td></tr>
 <tr><td>**pirovalerone**</td><td>7611746219002</td><td>b</td></tr>
 <tr><td>**prazepam**</td><td>7611746218005</td><td>b</td></tr>
+<tr><td>**remimazolam**</td><td>7611746013761</td><td>b</td></tr>
 <tr><td>**secbutabarbitale**</td><td>7611746231004</td><td>b</td></tr>
 <tr><td>**secobarbitale**</td><td>7611746128137</td><td>b</td></tr>
 <tr><td>**SPA** vedere sotto lefetamina</td><td>7611746196006</td><td>b</td></tr>
 <tr><td>**temazepam**</td><td>7611746220008</td><td>b</td></tr>
 <tr><td>**tetrabamato**</td><td>7611746998358</td><td>b</td></tr>
 <tr><td>**tetrazepam**</td><td>7611746221005</td><td>b</td></tr>
+<tr><td>**tramadolo** Sono esclusi dalle misure di controllo i medicamenti pronti per l’uso. Le imprese con un’autorizzazione di esercizio all’impiego di sostanze controllate dell’elenco b sono escluse dalle verifiche per la fabbricazione e per il proprio successivo commercio interno o per l’esportazione.</td><td>7611746013778</td><td>b</td></tr>
 <tr><td>**triazolam**</td><td>7611746222002</td><td>b</td></tr>
 <tr><td>**vinilbitale**</td><td>7611746223009</td><td>b</td></tr>
 <tr><td>**zolpidem**</td><td>7611746360001</td><td>b</td></tr>
@@ -911,228 +928,237 @@ Allegato 5[^t-4]
 
 ## Elenco d
 
-[^t-4]: Aggiornato dal n. I cpv. 1 delle O del DFI del 5 set. 2014 ([RU 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), dai n. I delle O del DFI del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)) e dal n. II dell’O del DFI del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 387](https://fedlex.data.admin.ch/eli/oc/2022/387)).
+[^t-4]: Aggiornato dal n. I cpv. 1 delle O del DFI del 5 set. 2014 ([RU 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), dal n. I delle O del DFI del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)), dal n. II dell’O del DFI del 22 giu. 2022 ([RU 2022 387](https://fedlex.data.admin.ch/eli/oc/2022/387)) e dal n. I dell’O del DFI del 21 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 5](https://fedlex.data.admin.ch/eli/oc/2023/5)).
 
 <table>
-<tr><th>Designazione</th><th>GTIN</th><th>Elenco</th></tr>
-<tr><td>**AB-CHMINACA****,** N-[1-(amminocarbonil)-2-metilpropil]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide</td><td>7611746941224</td><td>d</td></tr>
-<tr><td>**AB-FUBINACA,** N-[1-(amminocarbonil)-2-metilpropil]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide, N-[1-ammino-3-metil-1-ossobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide</td><td>7611746964346</td><td>d</td></tr>
-<tr><td>**AB-PINACA****,** N-[1-(amminocarbonil)-2-metilpropil]-1-pentil-1H-indazolo-1-3-carbossammide</td><td>7611746941248</td><td>d</td></tr>
-<tr><td>**ADB-CHMINACA (MAB-CHMINACA)****,** N-[1-(amminocarbonil)-2,2-dimetilpropil]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide, N-[1-ammino-3,3-dimetil-1-ossobutan-2-il]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide</td><td>7611746943273</td><td>d</td></tr>
-<tr><td>**ADB-FUBINACA,** N-[1-(amminocarbonil)-2,2-dimetilpropil]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide, N-[1-ammino-3,3-dimetil-1-ossobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide</td><td>7611746941699</td><td>d</td></tr>
-<tr><td>**acetilfentanile**,N-[1-(2-feniletil)-4-piperidil]-N-fenilacetammide</td><td>7611746960522</td><td>d</td></tr>
-<tr><td>**acido lisergico, dietilamide dell’** vedere sotto dietilamide dell’acido lisergico (LSD-25)</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**Acrilfentanil****,** Acriloilfentanil, N-(1-fenetilpiperidin-4-il)-N-fenilacrilammide</td><td>7611746941194</td><td>d</td></tr>
-<tr><td>**AH-7921**,(3,4-dicloro-N-[(1-dimetilamino)cicloesilmetil]benzammide</td><td>7611746960867</td><td>d</td></tr>
-<tr><td>**alpha-PHP, alfa-pirrolidinoesanofenone**, 1-fenil-2-(pirrolidin-1-il)esan-1-one</td><td>7611746943396</td><td>d</td></tr>
-<tr><td>**alfa-pirrolidinovalerofenone**,alfa-pirrolidinopentiofenone, alfa-PVP</td><td>7611746958123</td><td>d</td></tr>
-<tr><td>**AM-2201**,[1-(5-fluoropentil)-1H-indolo-3-il](naftalene-1-il)metanone</td><td>7611746960690</td><td>d</td></tr>
-<tr><td>**5F-AMB-PINACA (5F-AMB, 5F-MMB-PINACA),** 2-{[1-(5-fluoropentil)-1H-indazolo-3-il]formammide}-3-metilmetilbutanoato, metil-2-{[1-(5-fluoropentil)-1H-indazolo-3-carbonil]ammino}-3-metilbutanoato</td><td>7611746943211</td><td>d</td></tr>
-<tr><td>**2-amino-1-(2,5-dimetossi-4-metil)-fenilpropano** vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**cis-2-amino-4-metilfenil-2-oxazolina** vedere sotto 4-metilaminorex</td><td>7611746999379</td><td>d</td></tr>
-<tr><td>**2-aminopropiofenone** vedere sotto catinone</td><td>7611746134008</td><td>d</td></tr>
-<tr><td>**3-(2-aminobutil)-indolo** vedere sotto etriptamina</td><td>7611746227007</td><td>d</td></tr>
-<tr><td>**1-(benzo[d][1,3]diossol-5-il)-2-(pirrolidin-1-il)pentan-1-one** vedere sotto 3,4-metilendiossipirovalerone</td><td>7611746990970</td><td>d</td></tr>
-<tr><td>**brolanfetamina** vedere sotto 4-brom-2,5-dimetossianfetamina</td><td>7611746137009</td><td>d</td></tr>
-<tr><td>**4-brom-2,5-dimetossianfetamina** (DOB) [(±)-isomero]</td><td>7611746137009</td><td>d</td></tr>
-<tr><td>**4-brom-2,5-dimetossifeniletilamina** (2C-B)</td><td>7611746350002</td><td>d</td></tr>
-<tr><td>**1-butil-3-(1-naftoil)indolo** vedere sotto JWH-073</td><td>7611746990901</td><td>d</td></tr>
-<tr><td>**butirfentanile,** butanoil fentanile, N-fenil-N-(1-(2-feniletil)-4-piperidinil)-butanammide</td><td>7611746958673</td><td>d</td></tr>
-<tr><td>**butylone** vedere sotto 2-metilamino-1-(3,4-metilenediossifenil)butan-1-one</td><td>7611746990994</td><td>d</td></tr>
-<tr><td>**Canapa** Piante di canapa o parti delle stesse che presentano una concentrazione media di THC totale pari almeno all’1,0 % e tutti gli oggetti e i preparati fabbricati che presentano una concentrazione media di THC totale pari almeno all’1,0 % o fabbricati a partire da canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili alla canapa per scopi medici)</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**Canapa, estratto** vedere sotto Canapa (fatte salve le disposizioni applicabili all’estratto di canapa per scopi medici)</td><td>7611746999515</td><td>d</td></tr>
-<tr><td>**Canapa, olio** vedere sotto Canapa (fatte salve le disposizioni applicabili all’olio di canapa per scopi medici)</td><td>7611746999485</td><td>d</td></tr>
-<tr><td>**Canapa, resina (hashish)** vedere sotto Canapa (fatte salve le disposizioni applicabili alla resina di canapa per scopi medici)</td><td>7611746999508</td><td>d</td></tr>
-<tr><td>**Canapa, semi** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili ai semi di canapa destinati alla coltivazione per la fabbricazione farmaceutica)</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**Canapa, talee** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili alle talee di canapa destinate alla coltivazione per la fabbricazione farmaceutica)</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**Canapa, tintura** vedere sotto Canapa (fatte salve le disposizioni applicabili alla tintura di canapa per scopi medici)</td><td>7611746999492</td><td>d</td></tr>
-<tr><td>**cannabis** vedere sotto canapa</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**catha edulis, foglie** (foglie della pianta di kath)</td><td>7611746999270</td><td>d</td></tr>
-<tr><td>**catinone**</td><td>7611746134008</td><td>d</td></tr>
-<tr><td>**Ciclopropilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]ciclopropanocarbossammide</td><td>7611746943297</td><td>d</td></tr>
-<tr><td>**2C-B** vedere sotto 4-brom-2,5-dimetossifeniletilamina</td><td>7611746350002</td><td>d</td></tr>
-<tr><td>**1-(2-clorofenil)piperazina** vedere sotto o-clorofenil-piperazina</td><td>7611746991045</td><td>d</td></tr>
-<tr><td>**1-(3-clorofenil)piperazina** vedere sotto m-clorofenil-piperazina</td><td>7611746991038</td><td>d</td></tr>
-<tr><td>**1-(4-clorofenil)piperazina** vedere sotto p-clorofenil-piperazina</td><td>7611746991021</td><td>d</td></tr>
-<tr><td>**m-clorofenilpiperazina** (m-CPP)</td><td>7611746991038</td><td>d</td></tr>
-<tr><td>**o-clorofenilpiperazina** (o-CPP)</td><td>7611746991045</td><td>d</td></tr>
-<tr><td>**p-clorofenilpiperazina** (p-CPP)</td><td>7611746991021</td><td>d</td></tr>
-<tr><td>**2C-I** vedere sotto 2,5-dimetossi-4-iodofenetilamina</td><td>7611746137023</td><td>d</td></tr>
-<tr><td>**4-CMC, (4-clorometcatinone, clefedrone)**, 1-(4-clorofenil)-2-(metilammino)propano-1-one</td><td>7611746943372</td><td>d</td></tr>
-<tr><td>**conocybe** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**CP 47,497, 3-[4-(1,1-dimetileptil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990963</td><td>d</td></tr>
-<tr><td>**CP 47,497-C6-omologhi, 3-[4-(1,1-dimetilesil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990956</td><td>d</td></tr>
-<tr><td>**CP 47,497-C8-omologhi, 3-[4-(1,1-dimetiloctil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990949</td><td>d</td></tr>
-<tr><td>**CP 47,497-C9-omologhi, 3-[4-(1,1-dimetilnonil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990932</td><td>d</td></tr>
-<tr><td>**Crotonilfentanil,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]-2-butenammide</td><td>7611746943242</td><td>d</td></tr>
-<tr><td>**m-CPP** vedere sotto m-chlorofenilpiperazina</td><td>7611746991038</td><td>d</td></tr>
-<tr><td>**o-CPP** vedere sotto o-chlorofenilpiperazina</td><td>7611746991045</td><td>d</td></tr>
-<tr><td>**p-CPP** vedere sotto p-chlorofenilpiperazina</td><td>7611746991021</td><td>d</td></tr>
-<tr><td>**2C-T-2** vedere sotto 4-etiltio-2,5-dimetossifenetilamina</td><td>7611746137016</td><td>d</td></tr>
-<tr><td>**2C-T-7** vedere sotto 2,5-dimetossi-4-(n)-propiltiofenetilamina</td><td>7611746138013</td><td>d</td></tr>
-<tr><td>**CUMYL-4CN-BINACA****,** 1-(4-cianobutil)-N-(2-fenilpropan-2-il)indazolo-3-carbossammide</td><td>7611746943266</td><td>d</td></tr>
-<tr><td>**DET** vedere sotto N,N-dietiltriptamina</td><td>7611746135005</td><td>d</td></tr>
-<tr><td>**diacetilmorfina** vedere sotto eroina</td><td>7611746050001</td><td>d</td></tr>
-<tr><td>**diamorfina** vedere sotto eroina</td><td>7611746050001</td><td>d</td></tr>
-<tr><td>**dideidro-9,10-N,N-dietilmetil-6-ergolin-carbossamide-8****β**vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**dietilamide dell’acido lisergico** (LSD-25)</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**DOC****,** 1-(4-cloro-2,5-dimetossifenil)propan-2-amina, 2,5-dimetossi-4-cloranfetamina, 4-cloro-2,5-DMA</td><td>7611746943228</td><td>d</td></tr>
-<tr><td>**3-(2-dietilaminoetil)-indolo** vedere sotto N,N-dietiltriptamina</td><td>7611746135005</td><td>d</td></tr>
-<tr><td>**N-etilnoresedrone, N-etilesedrone,** 2-(etilamino)-1-fenilesan-1-one</td><td>7611746943389</td><td>d</td></tr>
-<tr><td>**N-etilnorpentilone (efilone)****,** 1-(2H-1,3-benzodiossol-5-il)-2-(etilamino)pentan-1-one</td><td>7611746943259</td><td>d</td></tr>
-<tr><td>**N,N-dietillisergamide** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**N,N-dietiltriptamina** (DET)</td><td>7611746135005</td><td>d</td></tr>
-<tr><td>**3-(2-dimetilaminoetil)-indol-4-ile, diidrogenofosfato** vedere sotto psilocibina</td><td>7611746152002</td><td>d</td></tr>
-<tr><td>**3-(2-dimetilaminoetil)-indol-4-olo** vedere sotto psilocina</td><td>7611746151005</td><td>d</td></tr>
-<tr><td>**3-(2-dimetilaminoetil)-indolo** vedere sotto N,N-dimetiltriptamina</td><td>7611746297000</td><td>d</td></tr>
-<tr><td>**5-(1,1-dimetileptil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497</td><td>7611746990963</td><td>d</td></tr>
-<tr><td>**3-[4-(1,1-dimetileptil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497</td><td>7611746990963</td><td>d</td></tr>
-<tr><td>**dimetileptiltetraidrocannabinolo** (DMHP)</td><td>7611746141006</td><td>d</td></tr>
-<tr><td>**5-(1,1-dimetilesil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C6-omologhi</td><td>7611746990956</td><td>d</td></tr>
-<tr><td>**3-[4-(1,1-dimetilesil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C6- omologhi</td><td>7611746990956</td><td>d</td></tr>
-<tr><td>**5-(1,1-dimetilnonil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C9-omologhi</td><td>7611746990932</td><td>d</td></tr>
-<tr><td>**3-[4-(1,1-dimetilnonil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C9-omologhi</td><td>7611746990932</td><td>d</td></tr>
-<tr><td>**5-(1,1-dimetiloctil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C8-omologhi</td><td>7611746990949</td><td>d</td></tr>
-<tr><td>**3-[4-(1,1-dimetiloctil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C8-omologhi</td><td>7611746990949</td><td>d</td></tr>
-<tr><td>**N,N-dimetiltriptamina** (DMT)</td><td>7611746297000</td><td>d</td></tr>
-<tr><td>**2,5-dimetossi-4-etilanfetamina** (DOET) [(±)-isomero]</td><td>7611746138006</td><td>d</td></tr>
-<tr><td>**2,5-dimetossi-4-iodofenetilamina** (2C-I)</td><td>7611746137023</td><td>d</td></tr>
-<tr><td>**2,5-dimetossi-4-metilanfetamina** (DOM, STP) [(±)-isomero]</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**2,5-dimetossi-4-(n)-propiltiofenetilamina** (2C-T-7)</td><td>7611746138013</td><td>d</td></tr>
-<tr><td>**2,5-dimetossianfetamina** (DMA)</td><td>7611746136002</td><td>d</td></tr>
-<tr><td>**DMA** vedere sotto 2,5-dimetossianfetamina</td><td>7611746136002</td><td>d</td></tr>
-<tr><td>**DMHP** vedere sotto dimetileptiltetraidrocannabinolo</td><td>7611746141006</td><td>d</td></tr>
-<tr><td>**DMT** vedere sotto N,N-dimetiltriptamina</td><td>7611746297000</td><td>d</td></tr>
-<tr><td>**DOB** vedere sotto 4-brom-2,5-dimetossianfetamina</td><td>7611746137009</td><td>d</td></tr>
-<tr><td>**DOET** vedere sotto 2,5-dimetossi-4-etilanfetamina</td><td>7611746138006</td><td>d</td></tr>
-<tr><td>**DOM** (STP)vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**Dronabinolo** vedere sotto (-)-trans-delta-9-tetraidrocannabinolo (fatte salve le disposizioni applicabili al dronabinolo per scopi medici)</td><td>7611746155010</td><td>d</td></tr>
-<tr><td>**efedrone** vedere sotto metcatinone</td><td>7611746331001</td><td>d</td></tr>
-<tr><td>**eroina** (diacetilmorfina/dimorfina)</td><td>7611746050001</td><td>d</td></tr>
-<tr><td>**1-esil-3-(1-naftoil)indolo** vedere sotto JWH-019</td><td>7611746990918</td><td>d</td></tr>
-<tr><td>**eticiclidina** (PCE)</td><td>7611746140009</td><td>d</td></tr>
-<tr><td>**etilfenidato**, etil-2-fenil-2-(piperidin-2-il)acetato</td><td>7611746965169</td><td>d</td></tr>
-<tr><td>**N-etil-1-fenil-cicloesilamina** vedere sotto eticiclidina</td><td>7611746140009</td><td>d</td></tr>
-<tr><td>**N-etil-****MDA**vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td>d</td></tr>
-<tr><td>**N-etil-3,4-metilendiossianfetamina** (MDE, MDEA) [(±)-isomero]</td><td>7611746132004</td><td>d</td></tr>
-<tr><td>**α****-etil-N-metil-3,4-metilendiossianfetamina** (MBDB)</td><td>7611746976806</td><td>d</td></tr>
-<tr><td>**etilone**,1-(2H-1,3-benzodiossol-5-il)-2-(etilamino)propan-1-one</td><td>7611746958086</td><td>d</td></tr>
-<tr><td>**4-etiltio-2,5-dimetossifenetilamina** (2C-T-2)</td><td>7611746137016</td><td>d</td></tr>
-<tr><td>**1-(1-fenilcicloesil)-pirrolidina** vedere sotto roliciclidina</td><td>7611746153009</td><td>d</td></tr>
-<tr><td>**Flualprazolam****,** 8-cloro-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina</td><td>7611746943402</td><td>d</td></tr>
-<tr><td>**2-fluorofentanil, orto-fluorofentanil****,** N-(2-fluorofenil)-N-[1-(2-feniletil)piperidina-4-il]propanammide</td><td>7611746943310</td><td>d</td></tr>
-<tr><td>**4-Fluorisobutirfentanil****,**N-(4-fluorofenil)-N-(1-fenetilpiperidina-4-il)isobutirrammide</td><td>7611746941200</td><td>d</td></tr>
-<tr><td>**4-fluoroanfetamina**</td><td>7611746991052</td><td>d</td></tr>
-<tr><td>**4-fluorobutirilfentanil, parafluorobutirrilfentanil****,** N-(4-fluorofenil)-N-[1-(2-feniletil)piperidina-4-il]butanammide</td><td>7611746943327</td><td>d</td></tr>
-<tr><td>**1-(4-fluorofenil)propan-2-amina** vedere sotto 4-fluoro-anfetamina</td><td>7611746991052</td><td>d</td></tr>
-<tr><td>**4F-MDMB-BINACA (4F-MDMB-BUTINACA)**, metil-2-{[1- (4-fluorobutil)-1H-indazolo-3-carbonil]ammino}-3,3-dimetilbutanoato</td><td>7611746943365</td><td>d</td></tr>
-<tr><td>**5F-MDMB-PICA (5F-MDMB-2201),** metil-2-{[1-(5-fluoropentil)-1H-indolo-3-carbonil]ammino}-3,3-dimetilbutanoato</td><td>7611746943204</td><td>d</td></tr>
-<tr><td>**5F-MDMB-PINACA****, 5F-ADB,** metil-2-[1-(5-fluoropentil)-1H-indazolo-3-carbossamide]-3,3-dimetilbutanoato</td><td>7611746941231</td><td>d</td></tr>
-<tr><td>**5F-PB22****,** chinolin-8-il-[1-(5-fluoropentil)-1H-indol-3-il]-carbossilato,chinolin-8-il-[1-(5-fluoropentil)-1H-indol]-3-carbossilato</td><td>7611746941262</td><td>d</td></tr>
-<tr><td>**FUB-AMB (MMB-FUBINACA, AMB-FUBINACA)****,** metil-2-(1-[(4-fluorofenil)metil]-1H-indazolo-3-amminocarbonil)-3-metilbutanoato</td><td>7611746943280</td><td>d</td></tr>
-<tr><td>**funghi allucinogeni dei generi conocybe, panaeolus, psilocybe e stropharia**</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**Furanilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]furano-2-carbossammide</td><td>7611746941187</td><td>d</td></tr>
-<tr><td>**etriptamina**</td><td>7611746227007</td><td>d</td></tr>
-<tr><td>**ibogaina**</td><td>7611746235002</td><td>d</td></tr>
-<tr><td>**1-idrossi-3-(1,2-dimetileptil)-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo[b,d]pirano** vedere sotto dimetileptiltetraidrocannabinolo</td><td>7611746141006</td><td>d</td></tr>
-<tr><td>**1-idrossi-3-n-esil-7,8,9,10-tetraidro-6,6,9-trimetil-6H-benzo[b,d]pirano** vedere sotto paraesile</td><td>7611746149002</td><td>d</td></tr>
-<tr><td>**N-idrossi-3,4-metilendiossianfetamina** (N-idrossi-MDA)</td><td>7611746142003</td><td>d</td></tr>
-<tr><td>**N-idrossi-****MDA**vedere sotto N-idrossi-3,4-metilendiossianfetamina</td><td>7611746142003</td><td>d</td></tr>
-<tr><td>**JWH-018, 1-pentil-3-(1-naftoil)indolo**</td><td>7611746990925</td><td>d</td></tr>
-<tr><td>**JWH-019, 1-esil-3-(1-naftoil)indolo**</td><td>7611746990918</td><td>d</td></tr>
-<tr><td>**JWH-073, 1-butil-3-(1-naftoil)indolo**</td><td>7611746990901</td><td>d</td></tr>
-<tr><td>**JWH-250, 1-pentil-3-(2-metossifenilacetil)indolo**</td><td>7611746990895</td><td>d</td></tr>
-<tr><td>**lisergide** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**Lophophora williamsii** vedere sotto peyotl</td><td>7611746371007</td><td>d</td></tr>
-<tr><td>**LSD** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**LSD-25** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td>d</td></tr>
-<tr><td>**MBDB** vedere sotto α-etil-N-metil-3,4-metilendiossianfetamina</td><td>7611746976806</td><td>d</td></tr>
-<tr><td>**MDA** vedere sotto 3,4-metilendiossianfetamina</td><td>7611746459002</td><td>d</td></tr>
-<tr><td>**MDE** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td>d</td></tr>
-<tr><td>**MDEA** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td>d</td></tr>
-<tr><td>**MDMA** vedere sotto 3,4-metilendiossimetanfetamina</td><td>7611746148005</td><td>d</td></tr>
-<tr><td>**MDPV** vedere sotto 3,4-metilendiossipirovalerone</td><td>7611746990970</td><td>d</td></tr>
-<tr><td>**4-MEC,** 4-metiletcatinone, 2-etilamino-1-(4-metilfenil)propan-1-one</td><td>7611746958093</td><td>d</td></tr>
-<tr><td>**mephedrone** vedere sotto 4-metilmetcatinone</td><td>7611746991007</td><td>d</td></tr>
-<tr><td>**mescalina**</td><td>7611746144007</td><td>d</td></tr>
-<tr><td>**metcatinone** (efedrone) [(±)-isomero]</td><td>7611746331001</td><td>d</td></tr>
-<tr><td>**Metossiacetilfentanil****,** 2-metossi-N-fenil-N-[1-(2-feniletil)piperidina-4-il]acetamide</td><td>7611746943303</td><td>d</td></tr>
-<tr><td>**2-(metilamino)-1-fenilpropan-1-one** vedere sotto metcatinone</td><td>7611746331001</td><td>d</td></tr>
-<tr><td>**2-metilamino-1-(3,4-metilenediossifenil)butan-1-one** (butylone)</td><td>7611746990994</td><td>d</td></tr>
-<tr><td>**4-metilaminorex**</td><td>7611746999379</td><td>d</td></tr>
-<tr><td>**N-metil-1-(1,3-benzodiossol-5-il)-2-butilamina** vedere sotto alpha-etil-N-metil-3,4-metilendiossianfetamina</td><td>7611746976806</td><td>d</td></tr>
-<tr><td>**1-(4-metilfenil)-2-metilaminopropan-1-one** vedere sotto 4-metilmetcatinone</td><td>7611746991007</td><td>d</td></tr>
-<tr><td>**3,4-metilendiossianfetamina** (MDA) [(±)-isomero]</td><td>7611746459002</td><td>d</td></tr>
-<tr><td>**(3,4-metilendiossifenil)-2-metilaminopropan-1-one** vedere sotto 3,4-metilendiossimetcatinone</td><td>7611746990987</td><td>d</td></tr>
-<tr><td>**3,4-metilendiossimetanfetamina** (MDMA) [(±)-isomero]</td><td>7611746148005</td><td>d</td></tr>
-<tr><td>**3,4-metilendiossimetcatinone** (methylone)</td><td>7611746990987</td><td>d</td></tr>
-<tr><td>**3,4-metilendiossipirovalerone** (MDPV)</td><td>7611746990970</td><td>d</td></tr>
-<tr><td>**4-metilmetcatinone** (mephedrone)</td><td>7611746991007</td><td>d</td></tr>
-<tr><td>**metilone** vedere sotto 3,4-metilendiossimetcatinone</td><td>7611746990987</td><td>d</td></tr>
-<tr><td>**4-metiltioanfetamina** (4-MTA)</td><td>7611746354000</td><td>d</td></tr>
-<tr><td>**metiopropamina, MPA,** N-metil-1-(tiofen-2-il)propan-2-ammina</td><td>7611746965145</td><td>d</td></tr>
-<tr><td>**metossetamina**, 2-(3-metossifenil)-2-(etilamino cicloesanone</td><td>7611746964728</td><td>d</td></tr>
-<tr><td>**p-metossianfetamina** (PMA)</td><td>7611746150008</td><td>d</td></tr>
-<tr><td>**2-(2-metossifenil)-1-(1-pentilindol-3-il)etanone** vedere sotto JWH-250</td><td>7611746990895</td><td>d</td></tr>
-<tr><td>**p-metossimetanfetamina** (PMMA)</td><td>7611746150015</td><td>d</td></tr>
-<tr><td>**5-metossi-3,4-metilendiossianfetamina** (MMDA)</td><td>7611746145004</td><td>d</td></tr>
-<tr><td>**MDMB-CHMICA**, metil N-{[1-(cicloesilmetil)-1H-indolo-3-il]carbonile}-3-metil-L-valinato</td><td>7611746958062</td><td>d</td></tr>
-<tr><td>**MMDA** vedere sotto 5-metossi-3,4-metilendiossianfetamina</td><td>7611746145004</td><td>d</td></tr>
-<tr><td>**MT-45,** 1-cicloesil-4-(1,2-difeniletil)piperazina</td><td>7611746958130</td><td>d</td></tr>
-<tr><td>**4-****MTA**vedere sotto 4-metiltioanfetamina</td><td>7611746354000</td><td>d</td></tr>
-<tr><td>**(naftalene-1-il)(1-butil-1H-indol-3-il)metanone** vedere sotto JWH-073</td><td>7611746990901</td><td>d</td></tr>
-<tr><td>**(naftalene-1-il)(1-esil-1H-indol-3-il)metanone** vedere sotto JWH-019</td><td>7611746990918</td><td>d</td></tr>
-<tr><td>**(naftalene-1-il)(1-pentil-1H-indol-3-il)metanone** vedere sotto JWH-018</td><td>7611746990925</td><td>d</td></tr>
-<tr><td>**25B-NBOMe,** (2-(4-bromo-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746964520</td><td>d</td></tr>
-<tr><td>**25C-NBOMe,** (2-(4-cloro-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746963899</td><td>d</td></tr>
-<tr><td>**25I-NBOMe,** (2-(4-iodio-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746958468</td><td>d</td></tr>
-<tr><td>**Ocfentanil****,** N-(2-fluoropenil)-2-metossi-N-[1-(2-feniletil)piperidina-4-il]acetamide</td><td>7611746941170</td><td>d</td></tr>
-<tr><td>**oppio da fumare e residui provenienti dalla sua** **fabbricazione o utilizzazione**</td><td>7611746131007</td><td>d</td></tr>
-<tr><td>**panaeolus** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**paraesile** (sinesile)</td><td>7611746149002</td><td>d</td></tr>
-<tr><td>**para-metil-4-metilaminorex,** 4,4’-DMAR</td><td>7611746958116</td><td>d</td></tr>
-<tr><td>**para-metossianfetamina** vedere sotto p-metossianfetamina (PMA)</td><td>7611746150008</td><td>d</td></tr>
-<tr><td>**para-metossimetanfetamina** (PMMA)</td><td></td><td>d</td></tr>
-<tr><td>**PCE** vedere sotto eticiclidina</td><td>7611746140009</td><td>d</td></tr>
-<tr><td>**PCPY** vedere sotto roliciclidina</td><td>7611746153009</td><td>d</td></tr>
-<tr><td>**pentedrone**,2-(metilamino)-1-fenilpentan-1-one</td><td>7611746958079</td><td>d</td></tr>
-<tr><td>**1-pentil-3-(2-metossifenilacetil)indolo** vedere sotto JWH-250</td><td>7611746990895</td><td>d</td></tr>
-<tr><td>**1-pentil-3-(1-naftoil)indolo** vedere sotto JWH-018</td><td>7611746990925</td><td>d</td></tr>
-<tr><td>**peyotl** (Lophophora williamsii)</td><td>7611746371007</td><td>d</td></tr>
-<tr><td>**PHP** vedere sotto roliciclidina</td><td>7611746153009</td><td>d</td></tr>
-<tr><td>**piraesile** vedere sotto paraesile</td><td>7611746149002</td><td>d</td></tr>
-<tr><td>**PMA** vedere sotto p-metossianfetamina</td><td>7611746150008</td><td>d</td></tr>
-<tr><td>**PMMA** vedere p-metossimetanfetamina</td><td>7611746150015</td><td>d</td></tr>
-<tr><td>**psilocibina**</td><td>7611746152002</td><td>d</td></tr>
-<tr><td>**psilocina**</td><td>7611746151005</td><td>d</td></tr>
-<tr><td>**psilocybe** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**roliciclidina** (PHP, PCPY)</td><td>7611746153009</td><td>d</td></tr>
-<tr><td>**salvia divinorum**</td><td>7611123456789</td><td>d</td></tr>
-<tr><td>**salvinorina A**</td><td>7611746965428</td><td>d</td></tr>
-<tr><td>**san pedro** (Trichocereus pachanoi)</td><td>7611746372004</td><td>d</td></tr>
-<tr><td>**sinesile** vedere sotto paraesile</td><td>7611746149002</td><td>d</td></tr>
-<tr><td>**STP** (DOM) vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**stropharia** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
-<tr><td>**TCP** vedere sotto tenociclidina</td><td>7611746154006</td><td>d</td></tr>
-<tr><td>**tenanfetamina** vedere sotto 3,4-metilendiossianfetamina</td><td>7611746459002</td><td>d</td></tr>
-<tr><td>**tenociclidina** (TCP)</td><td>7611746154006</td><td>d</td></tr>
-<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC) (fatte salve le disposizioni applicabili al (-)-trans-delta-9-tetraidrocannabinolo per scopi medici)</td><td>7611746155010</td><td>d</td></tr>
-<tr><td>**Tetraidrocannabinolo (THC)** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC (fatte salve le disposizioni applicabili al tetraidrocannabinolo (THC) per scopi medici)</td><td>7611746155003</td><td>d</td></tr>
-<tr><td>**Tetraidrofuranilfentanil****,** N-(1-fenetilpiperidin-4-il)-N-fenil-tetraidrofurano-2-carbossammide</td><td>7611746941217</td><td>d</td></tr>
-<tr><td>**TFMPP** vedere sotto trifluorometilfenilpiperazina</td><td>7611746991014</td><td>d</td></tr>
-<tr><td>**1-[1-(2-tienil)-cicloesil]-piperidina** vedere sotto tenociclidina</td><td>7611746154006</td><td>d</td></tr>
-<tr><td>**TMA** vedere sotto 3,4,5-trimetossianfetamina</td><td>7611746156000</td><td>d</td></tr>
-<tr><td>**TMA-2** vedere sotto 2,4,5-trimetossianfetamina</td><td>7611746136019</td><td>d</td></tr>
-<tr><td>**Trichocereus pachanoi** vedere sotto san pedro</td><td>7611746372004</td><td>d</td></tr>
-<tr><td>**trifluorometilfenilpiperazina** (TFMPP)</td><td>7611746991014</td><td>d</td></tr>
-<tr><td>**1-(3-trifluorometilfenil)piperazina** vedere sotto trifluorometilfenilpiperazina</td><td>7611746991014</td><td>d</td></tr>
-<tr><td>**2,4,5-trimetossianfetamina** (TMA-2)</td><td>7611746156000</td><td>d</td></tr>
-<tr><td>**3,4,5-trimetossianfetamina** (TMA)</td><td>7611746136019</td><td>d</td></tr>
-<tr><td>**1-(3,4,5-trimetossifenil)-2-aminoetano** vedere sotto mescalina</td><td>7611746144007</td><td>d</td></tr>
-<tr><td>**U-47700,** 3,4-dicloro-N-(2-(dimetilamino)cicloesile)-N-metilbenzammide</td><td>7611746958109</td><td>d</td></tr>
-<tr><td>**UR-144****,** (1-pentil-1H-indolo-3-il](2,2,3,3-tetrametilciclopropil)metanone</td><td>7611746941255</td><td>d</td></tr>
-<tr><td>**Valerilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]pentanammide</td><td>7611746943235</td><td>d</td></tr>
-<tr><td>**XLR-11;** [1-(5-fluoropentil)-1H-indolo-3-il](2,2,3,3-tetrametilciclopropil)metanone</td><td>7611746960737</td><td>d</td></tr>
+<tr><th>Designazione</th><th>GTIN</th><th colspan="2">Elenco</th></tr>
+<tr><td>**AB-CHMINACA****,** N-[1-(amminocarbonil)-2-metilpropil]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide</td><td>7611746941224</td><td colspan="2">d</td></tr>
+<tr><td>**AB-FUBINACA,** N-[1-(amminocarbonil)-2-metilpropil]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide, N-[1-ammino-3-metil-1-ossobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide</td><td>7611746964346</td><td colspan="2">d</td></tr>
+<tr><td>**AB-PINACA****,** N-[1-(amminocarbonil)-2-metilpropil]-1-pentil-1H-indazolo-1-3-carbossammide</td><td>7611746941248</td><td colspan="2">d</td></tr>
+<tr><td>**acetilfentanile**,N-[1-(2-feniletil)-4-piperidil]-N-fenilacetammide</td><td>7611746960522</td><td colspan="2">d</td></tr>
+<tr><td>**acido lisergico, dietilamide dell’** vedere sotto dietilamide dell’acido lisergico (LSD-25)</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**Acrilfentanil****,** Acriloilfentanil, N-(1-fenetilpiperidin-4-il)-N-fenilacrilammide</td><td>7611746941194</td><td colspan="2">d</td></tr>
+<tr><td>**ADB-CHMINACA (MAB-CHMINACA)****,** N-[1-(amminocarbonil)-2,2-dimetilpropil]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide, N-[1-ammino-3,3-dimetil-1-ossobutan-2-il]-1-(cicloesilmetil)-1H-indazolo-3-carbossammide</td><td>7611746943273</td><td colspan="2">d</td></tr>
+<tr><td>**ADB-FUBINACA,** N-[1-(amminocarbonil)-2,2-dimetilpropil]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide, N-[1-ammino-3,3-dimetil-1-ossobutan-2-il]-1-[(4-fluorofenil)metil]-1H-indazolo-3-carbossamide</td><td>7611746941699</td><td colspan="2">d</td></tr>
+<tr><td>**AH-7921**,(3,4-dicloro-N-[(1-dimetilamino)cicloesilmetil]benzammide</td><td>7611746960867</td><td colspan="2">d</td></tr>
+<tr><td>**alpha-PHP, alfa-pirrolidinoesanofenone**, 1-fenil-2-(pirrolidin-1-il)esan-1-one</td><td>7611746943396</td><td colspan="2">d</td></tr>
+<tr><td>**alfa-pirrolidinovalerofenone**,alfa-pirrolidinopentiofenone, alfa-PVP</td><td>7611746958123</td><td colspan="2">d</td></tr>
+<tr><td>**AM-2201**,[1-(5-fluoropentil)-1H-indolo-3-il](naftalene-1-il)metanone</td><td>7611746960690</td><td colspan="2">d</td></tr>
+<tr><td>**5F-AMB-PINACA (5F-AMB, 5F-MMB-PINACA),** 2-{[1-(5-fluoropentil)-1H-indazolo-3-il]formammide}-3-metilmetilbutanoato, metil-2-{[1-(5-fluoropentil)-1H-indazolo-3-carbonil]ammino}-3-metilbutanoato</td><td>7611746943211</td><td colspan="2">d</td></tr>
+<tr><td>**3-(2-aminobutil)-indolo** vedere sotto etriptamina</td><td>7611746227007</td><td colspan="2">d</td></tr>
+<tr><td>**2-amino-1-(2,5-dimetossi-4-metil)-fenilpropano** vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td colspan="2">d</td></tr>
+<tr><td>**cis-2-amino-4-metilfenil-2-oxazolina** vedere sotto 4-metilaminorex</td><td>7611746999379</td><td colspan="2">d</td></tr>
+<tr><td>**2-aminopropiofenone** vedere sotto catinone</td><td>7611746134008</td><td colspan="2">d</td></tr>
+<tr><td>**5F-APINACA, 5F-AKB48;** N-(adamantan-1-il)-1-[(5-fluoropentil)-1H-indazolo-3-carbossammide</td><td>7611746958055</td><td>d</td></tr>
+<tr><td>**1-(benzo[d][1,3]diossol-5-il)-2-(pirrolidin-1-il)pentan-1-one** vedere sotto 3,4-metilendiossipirovalerone</td><td>7611746990970</td><td colspan="2">d</td></tr>
+<tr><td>**brolanfetamina** vedere sotto 4-brom-2,5-dimetossianfetamina</td><td>7611746137009</td><td colspan="2">d</td></tr>
+<tr><td>**4-brom-2,5-dimetossianfetamina** (DOB) [(±)-isomero]</td><td>7611746137009</td><td colspan="2">d</td></tr>
+<tr><td>**4-brom-2,5-dimetossifeniletilamina** (2C-B)</td><td>7611746350002</td><td colspan="2">d</td></tr>
+<tr><td>**brorfina** 1-[1-[1-(4-bromofenil)etil]-piperidin-4-il]-1,3-diidro-2H-imidazol-2-one</td><td>7611746013464</td><td colspan="2">d</td></tr>
+<tr><td>**1-butil-3-(1-naftoil)indolo** vedere sotto JWH-073</td><td>7611746990901</td><td colspan="2">d</td></tr>
+<tr><td>**butirfentanile,** butanoil fentanile, N-fenil-N-(1-(2-feniletil)-4-piperidinil)-butanammide</td><td>7611746958673</td><td colspan="2">d</td></tr>
+<tr><td>**butylone** vedere sotto 2-metilamino-1-(3,4-metilenediossifenil)butan-1-one</td><td>7611746990994</td><td colspan="2">d</td></tr>
+<tr><td>**canapa** Piante di canapa o parti delle stesse che presentano una concentrazione media di THC totale pari almeno all’1,0 % e tutti gli oggetti e i preparati fabbricati che presentano una concentrazione media di THC totale pari almeno all’1,0 % o fabbricati a partire da canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili alla canapa per scopi medici)</td><td>7611746999522</td><td colspan="2">d</td></tr>
+<tr><td>**canapa, estratto** vedere sotto canapa (fatte salve le disposizioni applicabili all’estratto di canapa per scopi medici)</td><td>7611746999515</td><td colspan="2">d</td></tr>
+<tr><td>**canapa, olio** vedere sotto canapa (fatte salve le disposizioni applicabili all’olio di canapa per scopi medici)</td><td>7611746999485</td><td colspan="2">d</td></tr>
+<tr><td>**canapa, resina (hashish)** vedere sotto canapa (fatte salve le disposizioni applicabili alla resina di canapa per scopi medici)</td><td>7611746999508</td><td colspan="2">d</td></tr>
+<tr><td>**canapa, semi** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili ai semi di canapa destinati alla coltivazione per la fabbricazione farmaceutica)</td><td>7611746999522</td><td colspan="2">d</td></tr>
+<tr><td>**canapa, talee** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili alle talee di canapa destinate alla coltivazione per la fabbricazione farmaceutica)</td><td>7611746999522</td><td colspan="2">d</td></tr>
+<tr><td>**canapa, tintura** vedere sotto canapa (fatte salve le disposizioni applicabili alla tintura di canapa per scopi medici)</td><td>7611746999492</td><td colspan="2">d</td></tr>
+<tr><td>**cannabis**,vedere sotto canapa</td><td>7611746999522</td><td colspan="2">d</td></tr>
+<tr><td>**catha edulis, foglie** (foglie della pianta di kath)</td><td>7611746999270</td><td colspan="2">d</td></tr>
+<tr><td>**catinone**</td><td>7611746134008</td><td colspan="2">d</td></tr>
+<tr><td>**2C-B** vedere sotto 4-brom-2,5-dimetossifeniletilamina</td><td>7611746350002</td><td colspan="2">d</td></tr>
+<tr><td>**ciclopropilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]ciclopropanocarbossammide</td><td>7611746943297</td><td colspan="2">d</td></tr>
+<tr><td>**1-(2-clorofenil)piperazina** vedere sotto o-clorofenil-piperazina</td><td>7611746991045</td><td colspan="2">d</td></tr>
+<tr><td>**1-(3-clorofenil)piperazina** vedere sotto m-clorofenil-piperazina</td><td>7611746991038</td><td colspan="2">d</td></tr>
+<tr><td>**1-(4-clorofenil)piperazina** vedere sotto p-clorofenil-piperazina</td><td>7611746991021</td><td colspan="2">d</td></tr>
+<tr><td>**m-clorofenilpiperazina** (m-CPP)</td><td>7611746991038</td><td colspan="2">d</td></tr>
+<tr><td>**o-clorofenilpiperazina** (o-CPP)</td><td>7611746991045</td><td colspan="2">d</td></tr>
+<tr><td>**p-clorofenilpiperazina** (p-CPP)</td><td>7611746991021</td><td colspan="2">d</td></tr>
+<tr><td>**2C-I** vedere sotto 2,5-dimetossi-4-iodofenetilamina</td><td>7611746137023</td><td colspan="2">d</td></tr>
+<tr><td>**4-CMC, (4-clorometcatinone, clefedrone)**, 1-(4-clorofenil)-2-(metilammino)propano-1-one</td><td>7611746943372</td><td colspan="2">d</td></tr>
+<tr><td>**conocybe** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**CP 47,497, 3-[4-(1,1-dimetileptil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990963</td><td colspan="2">d</td></tr>
+<tr><td>**CP 47,497-C6-omologhi, 3-[4-(1,1-dimetilesil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990956</td><td colspan="2">d</td></tr>
+<tr><td>**CP 47,497-C8-omologhi, 3-[4-(1,1-dimetiloctil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990949</td><td colspan="2">d</td></tr>
+<tr><td>**CP 47,497-C9-omologhi, 3-[4-(1,1-dimetilnonil)-2-idrossifenil]-cicloesanolo**</td><td>7611746990932</td><td colspan="2">d</td></tr>
+<tr><td>**m-CPP** vedere sotto m-chlorofenilpiperazina</td><td>7611746991038</td><td colspan="2">d</td></tr>
+<tr><td>**o-CPP** vedere sotto o-chlorofenilpiperazina</td><td>7611746991045</td><td colspan="2">d</td></tr>
+<tr><td>**p-CPP** vedere sotto p-chlorofenilpiperazina</td><td>7611746991021</td><td colspan="2">d</td></tr>
+<tr><td>**c****rotonilfentanil,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]-2-butenammide</td><td>7611746943242</td><td colspan="2">d</td></tr>
+<tr><td>**2C-T-2** vedere sotto 4-etiltio-2,5-dimetossifenetilamina</td><td>7611746137016</td><td colspan="2">d</td></tr>
+<tr><td>**2C-T-7** vedere sotto 2,5-dimetossi-4-(n)-propiltiofenetilamina</td><td>7611746138013</td><td colspan="2">d</td></tr>
+<tr><td>**cumil-pegaclone** 5-pentil-2-(2-fenilpropan-2-il)-2,5-diidro-1H-pirido [4,3-b]indol-1-one</td><td>7611746013624</td><td colspan="2">d</td></tr>
+<tr><td>**CUMYL-4CN-BINACA****,** 1-(4-cianobutil)-N-(2-fenilpropan-2-il)indazolo-3-carbossammide</td><td>7611746943266</td><td colspan="2">d</td></tr>
+<tr><td>**DET** vedere sotto N,N-dietiltriptamina</td><td>7611746135005</td><td colspan="2">d</td></tr>
+<tr><td>**diacetilmorfina** vedere sotto eroina</td><td>7611746050001</td><td colspan="2">d</td></tr>
+<tr><td>**diamorfina** vedere sotto eroina</td><td>7611746050001</td><td colspan="2">d</td></tr>
+<tr><td>**dideidro-9,10-N,N-dietilmetil-6-ergolin-carbossamide-8****β**vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**dietilamide dell’acido lisergico** (LSD-25)</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**3-(2-dietilaminoetil)-indolo** vedere sotto N,N-dietiltriptamina</td><td>7611746135005</td><td colspan="2">d</td></tr>
+<tr><td>**N,N-dietillisergamide** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**N,N-dietiltriptamina** (DET)</td><td>7611746135005</td><td colspan="2">d</td></tr>
+<tr><td>difenidina 1-(1,2-difeniletil)piperidina</td><td>7611746013938</td><td colspan="2">d</td></tr>
+<tr><td>**3-(2-dimetilaminoetil)-indol-4-ile, diidrogenofosfato** vedere sotto psilocibina</td><td>7611746152002</td><td colspan="2">d</td></tr>
+<tr><td>**3-(2-dimetilaminoetil)-indol-4-olo** vedere sotto psilocina</td><td>7611746151005</td><td colspan="2">d</td></tr>
+<tr><td>**3-(2-dimetilaminoetil)-indolo** vedere sotto N,N-dimetiltriptamina</td><td>7611746297000</td><td colspan="2">d</td></tr>
+<tr><td>**5-(1,1-dimetileptil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497</td><td>7611746990963</td><td colspan="2">d</td></tr>
+<tr><td>**3-[4-(1,1-dimetileptil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497</td><td>7611746990963</td><td colspan="2">d</td></tr>
+<tr><td>**dimetileptiltetraidrocannabinolo** (DMHP)</td><td>7611746141006</td><td colspan="2">d</td></tr>
+<tr><td>**5-(1,1-dimetilesil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C6-omologhi</td><td>7611746990956</td><td colspan="2">d</td></tr>
+<tr><td>**3-[4-(1,1-dimetilesil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C6- omologhi</td><td>7611746990956</td><td colspan="2">d</td></tr>
+<tr><td>**5-(1,1-dimetilnonil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C9-omologhi</td><td>7611746990932</td><td colspan="2">d</td></tr>
+<tr><td>**3-[4-(1,1-dimetilnonil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C9-omologhi</td><td>7611746990932</td><td colspan="2">d</td></tr>
+<tr><td>**5-(1,1-dimetiloctil)-2-[3-idrossicicloesil]-fenolo** vedere sotto CP 47,497-C8-omologhi</td><td>7611746990949</td><td colspan="2">d</td></tr>
+<tr><td>**3-[4-(1,1-dimetiloctil)-2-idrossifenil]-cicloesanolo** vedere sotto CP 47,497-C8-omologhi</td><td>7611746990949</td><td colspan="2">d</td></tr>
+<tr><td>**N,N-dimetiltriptamina** (DMT)</td><td>7611746297000</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossi-4-etilanfetamina** (DOET) [(±)-isomero]</td><td>7611746138006</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossi-4-iodofenetilamina** (2C-I)</td><td>7611746137023</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossi-4-metilanfetamina** (DOM, STP) [(±)-isomero]</td><td>7611746133001</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossi-4-(n)-propiltiofenetilamina** (2C-T-7)</td><td>7611746138013</td><td colspan="2">d</td></tr>
+<tr><td>**2,5-dimetossianfetamina** (DMA)</td><td>7611746136002</td><td colspan="2">d</td></tr>
+<tr><td>**DMA** vedere sotto 2,5-dimetossianfetamina</td><td>7611746136002</td><td colspan="2">d</td></tr>
+<tr><td>**DMHP** vedere sotto dimetileptiltetraidrocannabinolo</td><td>7611746141006</td><td colspan="2">d</td></tr>
+<tr><td>**DMT** vedere sotto N,N-dimetiltriptamina</td><td>7611746297000</td><td colspan="2">d</td></tr>
+<tr><td>**DOB** vedere sotto 4-brom-2,5-dimetossianfetamina</td><td>7611746137009</td><td colspan="2">d</td></tr>
+<tr><td>**DOC****,** 1-(4-cloro-2,5-dimetossifenil)propan-2-amina, 2,5-dimetossi-4-cloranfetamina, 4-cloro-2,5-DMA</td><td>7611746943228</td><td colspan="2">d</td></tr>
+<tr><td>**DOET** vedere sotto 2,5-dimetossi-4-etilanfetamina</td><td>7611746138006</td><td colspan="2">d</td></tr>
+<tr><td>**DOM** (STP)vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td colspan="2">d</td></tr>
+<tr><td>**dronabinolo** vedere sotto (-)-trans-delta-9-tetraidrocannabinolo (fatte salve le disposizioni applicabili al dronabinolo per scopi medici)</td><td>7611746155010</td><td colspan="2">d</td></tr>
+<tr><td>**efedrone** vedere sotto metcatinone</td><td>7611746331001</td><td colspan="2">d</td></tr>
+<tr><td>**eroina** (diacetilmorfina/dimorfina)</td><td>7611746050001</td><td colspan="2">d</td></tr>
+<tr><td>**1-esil-3-(1-naftoil)indolo** vedere sotto JWH-019</td><td>7611746990918</td><td colspan="2">d</td></tr>
+<tr><td>**eticiclidina** (PCE)</td><td>7611746140009</td><td colspan="2">d</td></tr>
+<tr><td>**etilfenidato**, etil-2-fenil-2-(piperidin-2-il)acetato</td><td>7611746965169</td><td colspan="2">d</td></tr>
+<tr><td>**N-etil-1-fenil-cicloesilamina** vedere sotto eticiclidina</td><td>7611746140009</td><td colspan="2">d</td></tr>
+<tr><td>**N-etil-****MDA**vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td colspan="2">d</td></tr>
+<tr><td>**N-etilnoresedrone, N-etilesedrone,** 2-(etilamino)-1-fenilesan-1-one</td><td>7611746943389</td><td colspan="2">d</td></tr>
+<tr><td>**N-etilnorpentilone (efilone)****,** 1-(2H-1,3-benzodiossol-5-il)-2-(etilamino)pentan-1-one</td><td>7611746943259</td><td colspan="2">d</td></tr>
+<tr><td>**N-etil-3,4-metilendiossianfetamina** (MDE, MDEA) [(±)-isomero]</td><td>7611746132004</td><td colspan="2">d</td></tr>
+<tr><td>**α****-etil-N-metil-3,4-metilendiossianfetamina** (MBDB)</td><td>7611746976806</td><td colspan="2">d</td></tr>
+<tr><td>**etilone**,1-(2H-1,3-benzodiossol-5-il)-2-(etilamino)propan-1-one</td><td>7611746958086</td><td colspan="2">d</td></tr>
+<tr><td>**4-etiltio-2,5-dimetossifenetilamina** (2C-T-2)</td><td>7611746137016</td><td colspan="2">d</td></tr>
+<tr><td>**etriptamina**</td><td>7611746227007</td><td colspan="2">d</td></tr>
+<tr><td>**eutilone** 1-(1,3-benzodiossol-5-il)-2-(etilamino)butan-1-one</td><td>7611746946199</td><td colspan="2">d</td></tr>
+<tr><td>**1-(1-fenilcicloesil)-pirrolidina** vedere sotto roliciclidina</td><td>7611746153009</td><td colspan="2">d</td></tr>
+<tr><td>**flualprazolam****,** 8-cloro-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina</td><td>7611746943402</td><td colspan="2">d</td></tr>
+<tr><td>**4-fluorisobutirfentanil****,**N-(4-fluorofenil)-N-(1-fenetilpiperidina-4-il)isobutirrammide</td><td>7611746941200</td><td colspan="2">d</td></tr>
+<tr><td>**4-fluoroanfetamina**</td><td>7611746991052</td><td colspan="2">d</td></tr>
+<tr><td>**4-fluorobutirilfentanil, parafluorobutirrilfentanil****,** N-(4-fluorofenil)-N-[1-(2-feniletil)piperidina-4-il]butanammide</td><td>7611746943327</td><td colspan="2">d</td></tr>
+<tr><td>**1-(4-fluorofenil)propan-2-amina** vedere sotto 4-fluoro-anfetamina</td><td>7611746991052</td><td colspan="2">d</td></tr>
+<tr><td>**2-fluorofentanil, orto-fluorofentanil****,** N-(2-fluorofenil)-N-[1-(2-feniletil)piperidina-4-il]propanammide</td><td>7611746943310</td><td colspan="2">d</td></tr>
+<tr><td>**5F-MDMB-PINACA****, 5F-ADB,** metil-2-[1-(5-fluoropentil)-1H-indazolo-3-carbossamide]-3,3-dimetilbutanoato</td><td>7611746941231</td><td colspan="2">d</td></tr>
+<tr><td>**5F-PB22****,** chinolin-8-il-[1-(5-fluoropentil)-1H-indol-3-il]-carbossilato,chinolin-8-il-[1-(5-fluoropentil)-1H-indol]-3-carbossilato</td><td>7611746941262</td><td colspan="2">d</td></tr>
+<tr><td>**FUB-AMB (MMB-FUBINACA, AMB-FUBINACA)****,** metil-2-(1-[(4-fluorofenil)metil]-1H-indazolo-3-amminocarbonil)-3-metilbutanoato</td><td>7611746943280</td><td colspan="2">d</td></tr>
+<tr><td>**funghi allucinogeni dei generi conocybe, panaeolus, psilocybe e stropharia**</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**furanilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]furano-2-carbossammide</td><td>7611746941187</td><td colspan="2">d</td></tr>
+<tr><td>**ibogaina**</td><td>7611746235002</td><td colspan="2">d</td></tr>
+<tr><td>**1-idrossi-3-(1,2-dimetileptil)-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo[b,d]pirano** vedere sotto dimetileptiltetraidrocannabinolo</td><td>7611746141006</td><td colspan="2">d</td></tr>
+<tr><td>**1-idrossi-3-n-esil-7,8,9,10-tetraidro-6,6,9-trimetil-6H-benzo[b,d]pirano** vedere sotto paraesile</td><td>7611746149002</td><td colspan="2">d</td></tr>
+<tr><td>**N-idrossi-3,4-metilendiossianfetamina** (N-idrossi-MDA)</td><td>7611746142003</td><td colspan="2">d</td></tr>
+<tr><td>**N-idrossi-****MDA**vedere sotto N-idrossi-3,4-metilendiossianfetamina</td><td>7611746142003</td><td colspan="2">d</td></tr>
+<tr><td>**isotonitazene** N,N-dietil-2-(2-(4-isopropossibenzil)-5-nitro-1H-benzo[d]imidazol-1-il)etan-1-ammina</td><td>7611746948322</td><td colspan="2">d</td></tr>
+<tr><td>**JWH-018, 1-pentil-3-(1-naftoil)indolo**</td><td>7611746990925</td><td colspan="2">d</td></tr>
+<tr><td>**JWH-019, 1-esil-3-(1-naftoil)indolo**</td><td>7611746990918</td><td colspan="2">d</td></tr>
+<tr><td>**JWH-073, 1-butil-3-(1-naftoil)indolo**</td><td>7611746990901</td><td colspan="2">d</td></tr>
+<tr><td>**JWH-250, 1-pentil-3-(2-metossifenilacetil)indolo**</td><td>7611746990895</td><td colspan="2">d</td></tr>
+<tr><td>**lisergide** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**Lophophora williamsii** vedere sotto peyotl</td><td>7611746371007</td><td colspan="2">d</td></tr>
+<tr><td>**LSD** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**LSD-25** vedere sotto dietilamide dell’acido lisergico</td><td>7611746143000</td><td colspan="2">d</td></tr>
+<tr><td>**MBDB** vedere sotto α-etil-N-metil-3,4-metilendiossianfetamina</td><td>7611746976806</td><td colspan="2">d</td></tr>
+<tr><td>**MDA** vedere sotto 3,4-metilendiossianfetamina</td><td>7611746459002</td><td colspan="2">d</td></tr>
+<tr><td>**MDE** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td colspan="2">d</td></tr>
+<tr><td>**MDEA** vedere sotto N-etil-3,4-metilendiossianfetamina</td><td>7611746132004</td><td colspan="2">d</td></tr>
+<tr><td>**MDMA** vedere sotto 3,4-metilendiossimetanfetamina</td><td>7611746148005</td><td colspan="2">d</td></tr>
+<tr><td>**4F-MDMB-BINACA (4F-MDMB-BUTINACA)**, metil-2-{[1- (4-fluorobutil)-1H-indazolo-3-carbonil]ammino}-3,3-dimetilbutanoato</td><td>7611746943365</td><td colspan="2">d</td></tr>
+<tr><td>**MDMB-CHMICA**, metil N-{[1-(cicloesilmetil)-1H-indolo-3-il]carbonile}-3-metil-L-valinato</td><td>7611746958062</td><td colspan="2">d</td></tr>
+<tr><td>MDMB-4en-PINACA metil-2-[1-(pent-4-en-1-il)-1H-indazolo-3-carbossamide]-3,3-dimetilbutanoato</td><td>7611746013785</td><td colspan="2">d</td></tr>
+<tr><td>**5F-MDMB-PICA (5F-MDMB-2201),** metil-2-{[1-(5-fluoropentil)-1H-indolo-3-carbonil]ammino}-3,3-dimetilbutanoato</td><td>7611746943204</td><td colspan="2">d</td></tr>
+<tr><td>**MDPV** vedere sotto 3,4-metilendiossipirovalerone</td><td>7611746990970</td><td colspan="2">d</td></tr>
+<tr><td>**4-MEC,** 4-metiletcatinone, 2-etilamino-1-(4-metilfenil)propan-1-one</td><td>7611746958093</td><td colspan="2">d</td></tr>
+<tr><td>**mephedrone** vedere sotto 4-metilmetcatinone</td><td>7611746991007</td><td colspan="2">d</td></tr>
+<tr><td>**mescalina**</td><td>7611746144007</td><td colspan="2">d</td></tr>
+<tr><td>**metcatinone** (efedrone) [(±)-isomero]</td><td>7611746331001</td><td colspan="2">d</td></tr>
+<tr><td>**metonitazene** N,N-dietil-2-(2-(4-metossibenzil)-5-nitro-1H-benzo[d]imidazol-1-il)etan-1-amina</td><td>7611746948483</td><td colspan="2">d</td></tr>
+<tr><td>**metossiacetilfentanil****,** 2-metossi-N-fenil-N-[1-(2-feniletil)piperidina-4-il]acetamide</td><td>7611746943303</td><td colspan="2">d</td></tr>
+<tr><td>**3-metossifenciclidina** 1-[1-(3-metossifenil)cicloesil]-piperidina, 3-MeO-PCP</td><td>7611746013921</td><td colspan="2">d</td></tr>
+<tr><td>**2-(metilamino)-1-fenilpropan-1-one** vedere sotto metcatinone</td><td>7611746331001</td><td colspan="2">d</td></tr>
+<tr><td>**2-metilamino-1-(3,4-metilenediossifenil)butan-1-one** (butylone)</td><td>7611746990994</td><td colspan="2">d</td></tr>
+<tr><td>**4-metilaminorex**</td><td>7611746999379</td><td colspan="2">d</td></tr>
+<tr><td>**N-metil-1-(1,3-benzodiossol-5-il)-2-butilamina** vedere sotto alpha-etil-N-metil-3,4-metilendiossianfetamina</td><td>7611746976806</td><td colspan="2">d</td></tr>
+<tr><td>**1-(4-metilfenil)-2-metilaminopropan-1-one** vedere sotto 4-metilmetcatinone</td><td>7611746991007</td><td colspan="2">d</td></tr>
+<tr><td>**3,4-metilendiossianfetamina** (MDA) [(±)-isomero]</td><td>7611746459002</td><td colspan="2">d</td></tr>
+<tr><td>**(3,4-metilendiossifenil)-2-metilaminopropan-1-one** vedere sotto 3,4-metilendiossimetcatinone</td><td>7611746990987</td><td colspan="2">d</td></tr>
+<tr><td>**3,4-metilendiossimetanfetamina** (MDMA) [(±)-isomero]</td><td>7611746148005</td><td colspan="2">d</td></tr>
+<tr><td>**3,4-metilendiossimetcatinone** (methylone)</td><td>7611746990987</td><td colspan="2">d</td></tr>
+<tr><td>**3,4-metilendiossipirovalerone** (MDPV)</td><td>7611746990970</td><td colspan="2">d</td></tr>
+<tr><td>**4-metilmetcatinone** (mephedrone)</td><td>7611746991007</td><td colspan="2">d</td></tr>
+<tr><td>**metilone** vedere sotto 3,4-metilendiossimetcatinone</td><td>7611746990987</td><td colspan="2">d</td></tr>
+<tr><td>**4-metiltioanfetamina** (4-MTA)</td><td>7611746354000</td><td colspan="2">d</td></tr>
+<tr><td>**metiopropamina, MPA,** N-metil-1-(tiofen-2-il)propan-2-ammina</td><td>7611746965145</td><td colspan="2">d</td></tr>
+<tr><td>**metossetamina**, 2-(3-metossifenil)-2-(etilamino cicloesanone</td><td>7611746964728</td><td colspan="2">d</td></tr>
+<tr><td>**p-metossianfetamina** (PMA)</td><td>7611746150008</td><td colspan="2">d</td></tr>
+<tr><td>**2-(2-metossifenil)-1-(1-pentilindol-3-il)etanone** vedere sotto JWH-250</td><td>7611746990895</td><td colspan="2">d</td></tr>
+<tr><td>**p-metossimetanfetamina** (PMMA)</td><td>7611746150015</td><td colspan="2">d</td></tr>
+<tr><td>**5-metossi-3,4-metilendiossianfetamina** (MMDA)</td><td>7611746145004</td><td colspan="2">d</td></tr>
+<tr><td>**MMDA** vedere sotto 5-metossi-3,4-metilendiossianfetamina</td><td>7611746145004</td><td colspan="2">d</td></tr>
+<tr><td>**MT-45,** 1-cicloesil-4-(1,2-difeniletil)piperazina</td><td>7611746958130</td><td colspan="2">d</td></tr>
+<tr><td>**4-****MTA**vedere sotto 4-metiltioanfetamina</td><td>7611746354000</td><td colspan="2">d</td></tr>
+<tr><td>**(naftalene-1-il)(1-butil-1H-indol-3-il)metanone** vedere sotto JWH-073</td><td>7611746990901</td><td colspan="2">d</td></tr>
+<tr><td>**(naftalene-1-il)(1-esil-1H-indol-3-il)metanone** vedere sotto JWH-019</td><td>7611746990918</td><td colspan="2">d</td></tr>
+<tr><td>**(naftalene-1-il)(1-pentil-1H-indol-3-il)metanone** vedere sotto JWH-018</td><td>7611746990925</td><td colspan="2">d</td></tr>
+<tr><td>**25B-NBOMe,** (2-(4-bromo-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746964520</td><td colspan="2">d</td></tr>
+<tr><td>**25C-NBOMe,** (2-(4-cloro-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746963899</td><td colspan="2">d</td></tr>
+<tr><td>**25I-NBOMe,** (2-(4-iodio-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746958468</td><td colspan="2">d</td></tr>
+<tr><td>**ocfentanil****,** N-(2-fluoropenil)-2-metossi-N-[1-(2-feniletil)piperidina-4-il]acetamide</td><td>7611746941170</td><td colspan="2">d</td></tr>
+<tr><td>**oppio da fumare e residui provenienti dalla sua** **fabbricazione o utilizzazione**</td><td>7611746131007</td><td colspan="2">d</td></tr>
+<tr><td>**panaeolus** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**paraesile** (sinesile)</td><td>7611746149002</td><td colspan="2">d</td></tr>
+<tr><td>**para-metil-4-metilaminorex,** 4,4’-DMAR</td><td>7611746958116</td><td colspan="2">d</td></tr>
+<tr><td>**para-metossianfetamina** vedere sotto p-metossianfetamina (PMA)</td><td>7611746150008</td><td colspan="2">d</td></tr>
+<tr><td>**para-metossimetanfetamina** (PMMA)</td><td></td><td colspan="2">d</td></tr>
+<tr><td>**PCE** vedere sotto eticiclidina</td><td>7611746140009</td><td colspan="2">d</td></tr>
+<tr><td>**PCPY** vedere sotto roliciclidina</td><td>7611746153009</td><td colspan="2">d</td></tr>
+<tr><td>**pentedrone**,2-(metilamino)-1-fenilpentan-1-one</td><td>7611746958079</td><td colspan="2">d</td></tr>
+<tr><td>**1-pentil-3-(2-metossifenilacetil)indolo** vedere sotto JWH-250</td><td>7611746990895</td><td colspan="2">d</td></tr>
+<tr><td>**1-pentil-3-(1-naftoil)indolo** vedere sotto JWH-018</td><td>7611746990925</td><td colspan="2">d</td></tr>
+<tr><td>**peyotl** (Lophophora williamsii)</td><td>7611746371007</td><td colspan="2">d</td></tr>
+<tr><td>**PHP** vedere sotto roliciclidina</td><td>7611746153009</td><td colspan="2">d</td></tr>
+<tr><td>**piraesile** vedere sotto paraesile</td><td>7611746149002</td><td colspan="2">d</td></tr>
+<tr><td>**PMA** vedere sotto p-metossianfetamina</td><td>7611746150008</td><td colspan="2">d</td></tr>
+<tr><td>**PMMA** vedere p-metossimetanfetamina</td><td>7611746150015</td><td colspan="2">d</td></tr>
+<tr><td>**psilocibina**</td><td>7611746152002</td><td colspan="2">d</td></tr>
+<tr><td>**psilocina**</td><td>7611746151005</td><td colspan="2">d</td></tr>
+<tr><td>**psilocybe** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**roliciclidina** (PHP, PCPY)</td><td>7611746153009</td><td colspan="2">d</td></tr>
+<tr><td>**salvia divinorum**</td><td>7611123456789</td><td colspan="2">d</td></tr>
+<tr><td>**salvinorina A**</td><td>7611746965428</td><td colspan="2">d</td></tr>
+<tr><td>**san pedro** (Trichocereus pachanoi)</td><td>7611746372004</td><td colspan="2">d</td></tr>
+<tr><td>**sinesile** vedere sotto paraesile</td><td>7611746149002</td><td colspan="2">d</td></tr>
+<tr><td>**STP** (DOM) vedere sotto 2,5-dimetossi-4-metilanfetamina</td><td>7611746133001</td><td colspan="2">d</td></tr>
+<tr><td>**stropharia** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td colspan="2">d</td></tr>
+<tr><td>**TCP** vedere sotto tenociclidina</td><td>7611746154006</td><td colspan="2">d</td></tr>
+<tr><td>**tenanfetamina** vedere sotto 3,4-metilendiossianfetamina</td><td>7611746459002</td><td colspan="2">d</td></tr>
+<tr><td>**tenociclidina** (TCP)</td><td>7611746154006</td><td colspan="2">d</td></tr>
+<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC) (fatte salve le disposizioni applicabili al (-)-trans-delta-9-tetraidrocannabinolo per scopi medici)</td><td>7611746155010</td><td colspan="2">d</td></tr>
+<tr><td>**tetraidrocannabinolo (THC)** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC (fatte salve le disposizioni applicabili al tetraidrocannabinolo (THC) per scopi medici)</td><td>7611746155003</td><td colspan="2">d</td></tr>
+<tr><td>**tetraidrofuranilfentanil****,** N-(1-fenetilpiperidin-4-il)-N-fenil-tetraidrofurano-2-carbossammide</td><td>7611746941217</td><td colspan="2">d</td></tr>
+<tr><td>**TFMPP** vedere sotto trifluorometilfenilpiperazina</td><td>7611746991014</td><td colspan="2">d</td></tr>
+<tr><td>**1-[1-(2-tienil)-cicloesil]-piperidina** vedere sotto tenociclidina</td><td>7611746154006</td><td colspan="2">d</td></tr>
+<tr><td>**TMA** vedere sotto 3,4,5-trimetossianfetamina</td><td>7611746156000</td><td colspan="2">d</td></tr>
+<tr><td>**TMA-2** vedere sotto 2,4,5-trimetossianfetamina</td><td>7611746136019</td><td colspan="2">d</td></tr>
+<tr><td>**Trichocereus pachanoi** vedere sotto san pedro</td><td>7611746372004</td><td colspan="2">d</td></tr>
+<tr><td>**trifluorometilfenilpiperazina** (TFMPP)</td><td>7611746991014</td><td colspan="2">d</td></tr>
+<tr><td>**1-(3-trifluorometilfenil)piperazina** vedere sotto trifluorometilfenilpiperazina</td><td>7611746991014</td><td colspan="2">d</td></tr>
+<tr><td>**2,4,5-trimetossianfetamina** (TMA-2)</td><td>7611746156000</td><td colspan="2">d</td></tr>
+<tr><td>**3,4,5-trimetossianfetamina** (TMA)</td><td>7611746136019</td><td colspan="2">d</td></tr>
+<tr><td>**1-(3,4,5-trimetossifenil)-2-aminoetano** vedere sotto mescalina</td><td>7611746144007</td><td colspan="2">d</td></tr>
+<tr><td>**U-47700,** 3,4-dicloro-N-(2-(dimetilamino)cicloesile)-N-metilbenzammide</td><td>7611746958109</td><td colspan="2">d</td></tr>
+<tr><td>**UR-144****,** (1-pentil-1H-indolo-3-il](2,2,3,3-tetrametilciclopropil)metanone</td><td>7611746941255</td><td colspan="2">d</td></tr>
+<tr><td>**valerilfentanil****,** N-fenil-N-[1-(2-feniletil)piperidina-4-il]pentanammide</td><td>7611746943235</td><td colspan="2">d</td></tr>
+<tr><td>**XLR-11;** [1-(5-fluoropentil)-1H-indolo-3-il](2,2,3,3-tetrametilciclopropil)metanone</td><td>7611746960737</td><td colspan="2">d</td></tr>
 </table>
 
 Allegato 6[^t-5]
@@ -1141,7 +1167,7 @@ Allegato 6[^t-5]
 
 ## Elenco e: Materie prime e prodotti con presunti effetti simili agli stupefacenti
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del DFI del 21 nov. 2011 ([RU 2011 5649](https://fedlex.data.admin.ch/eli/oc/2011/797)). Aggiornato dai n. I delle O del DFI del 20 nov. 2012 ([RU 2012 6803](https://fedlex.data.admin.ch/eli/oc/2012/823)), dell’8 nov. 2013 ([RU 2013 4515](https://fedlex.data.admin.ch/eli/oc/2013/797)), del 3 nov. 2014 ([RU 2014 4381](https://fedlex.data.admin.ch/eli/oc/2014/721)), del 2 nov. 2015 ([RU 2015 5093](https://fedlex.data.admin.ch/eli/oc/2015/834)), del 1° nov. 2016 ([RU 2016 4197](https://fedlex.data.admin.ch/eli/oc/2016/705)), dal n. I cpv. 1 dell’O del DFI del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), dai n. I delle O del DFI del 2 feb. 2018 ([RU 2018 949](https://fedlex.data.admin.ch/eli/oc/2018/132)), del 2 nov. 2018 ([RU 2018 4287](https://fedlex.data.admin.ch/eli/oc/2018/687)), del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 24 ott. 2019 ([RU 2019 4089](https://fedlex.data.admin.ch/eli/oc/2019/713)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)), del 13 nov. 2020 ([RU 2020 5775](https://fedlex.data.admin.ch/eli/oc/2020/972)) e dell’8 nov. 2021, in vigore il 6 dic. 2021 alle ore 10.00 ([RU 2021 815](https://fedlex.data.admin.ch/eli/oc/2021/815)). La correzione del 30 set. 2022 concerne soltanto il testo francese ([RU 2022 540](https://fedlex.data.admin.ch/eli/oc/2022/540)).
+[^t-5]: Nuovo testo giusta il n. I dell’O del DFI del 21 nov. 2011 ([RU 2011 5649](https://fedlex.data.admin.ch/eli/oc/2011/797)). Aggiornato dal n. I delle O del DFI del 20 nov. 2012 ([RU 2012 6803](https://fedlex.data.admin.ch/eli/oc/2012/823)), dell’8 nov. 2013 ([RU 2013 4515](https://fedlex.data.admin.ch/eli/oc/2013/797)), del 3 nov. 2014 ([RU 2014 4381](https://fedlex.data.admin.ch/eli/oc/2014/721)), del 2 nov. 2015 ([RU 2015 5093](https://fedlex.data.admin.ch/eli/oc/2015/834)), del 1° nov. 2016 ([RU 2016 4197](https://fedlex.data.admin.ch/eli/oc/2016/705)), dal n. I cpv. 1 dell’O del DFI del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), dal n. I delle O del DFI del 2 feb. 2018 ([RU 2018 949](https://fedlex.data.admin.ch/eli/oc/2018/132)), del 2 nov. 2018 ([RU 2018 4287](https://fedlex.data.admin.ch/eli/oc/2018/687)), del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 24 ott. 2019 ([RU 2019 4089](https://fedlex.data.admin.ch/eli/oc/2019/713)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)), del 13 nov. 2020 ([RU 2020 5775](https://fedlex.data.admin.ch/eli/oc/2020/972)), dell’8 nov. 2021 ([RU 2021 815](https://fedlex.data.admin.ch/eli/oc/2021/815)) e del 21 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 5](https://fedlex.data.admin.ch/eli/oc/2023/5)).
 
 <table>
 <tr><th>Numero</th><th>Designazione</th></tr>
@@ -1249,7 +1275,7 @@ Allegato 6[^t-5]
 <tr><td>101</td><td>JWH 018 adamantil carbossamide APICA 1-Pentil-N-triciclo[3.3.1.13,7]dec-1-il-1H-indol-3-carbossamide</td></tr>
 <tr><td>102</td><td>4-Clorofenilisobutilamina 4-CAB 1-(4-Clorofenil)butan-2-amina</td></tr>
 <tr><td>103</td><td>4-Metossifenciclidina 4-MeO-PCP 1-[1-(4-Metossifenil)cicloesil]-piperidina</td></tr>
-<tr><td>104</td><td>3-Metossifenciclidina 3-MeO-PCP 1-[1-(3-Metossifenil)cicloesil]-piperidina</td></tr>
+<tr><td>104</td><td>...</td></tr>
 <tr><td>105</td><td>Indanilaminopropano IAP 1-(2,3-Diidro-1H-inden-5-il)propan-2-amina</td></tr>
 <tr><td>106</td><td>PB22 Chinolin-8-il-[1-pentil-1H-indol-3-il]-carbossilato Chinolin-8-il-[1-pentil-1H-indol]-3-carbossilato</td></tr>
 <tr><td>107</td><td>BB22 Chinolin-8-il-[1-(cicloesilmetil)-1H-indol-3-il]-carbossilato Chinolin-8-il-[1-(cicloesilmetil)-1H-indol]-3-carbossilato</td></tr>
@@ -1279,11 +1305,11 @@ Allegato 6[^t-5]
 <tr><td>131</td><td>Ogni sostanza la cui struttura deriva dalle sostanze descritte nel numero 130 del presente elenco per sostituzione nell’atomo di azoto del gruppo aminico con un gruppo benzilico, indipendentemente dal fatto che questo gruppo sia sostituito nell’anello fenilico in qualsiasi portata. Sono escluse le sostanze controllate degli elenchi a, b, d e f. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>132</td><td>NM2AI N-Metil-2-aminoindano N-Metil-2-indanamina</td></tr>
 <tr><td>133</td><td>Nitracaina 3-Dietilamino-2,2-dimetilpropil-4-nitrobenzoato L’uso industriale per la ricerca e lo sviluppo è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
-<tr><td>134</td><td>Diclazepam 7-Clor-5-(2-clorfenil)-1,3-diidro-1-metil-2H-1,4-benzodiazepin-2-one L’uso industriale per la ricerca e lo sviluppo è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>134</td><td>...</td></tr>
 <tr><td>135</td><td>Pirazolam 8-Brom-1-metil-6-(2-pyridinil)-4H-[1,2,4]triazol[4,3-a][1,4]benzo-diazepina L’uso industriale per la ricerca e lo sviluppo è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>136</td><td>Flubromazepam 7-Brom-5-(2-fluorfenil)-1,3-diidro-2H-1,4-benzodiazepin-2-one L’uso industriale per la ricerca e lo sviluppo è escluso dalla misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>137</td><td>bk-2C-B 2-Amino-1-(4-brom-2,5-dimetossifenil)etanone</td></tr>
-<tr><td>138</td><td>Difenidina 1-(1,2-Difeniletil)piperidina</td></tr>
+<tr><td>138</td><td>...</td></tr>
 <tr><td>139</td><td>Metossifenidina 1-[1-(2-Metossifenil)-2-feniletil]piperidina</td></tr>
 <tr><td>140</td><td>EAM-2201 (4-Etil-1-naftalinil)[1-(5-fluorpentil)-1H-indol-3-il]metanone 3-(4-Etil-1-naftoil)-1-(5-fluorpentil)-1H-indolo</td></tr>
 <tr><td>141</td><td>FUB-PB-22 Chinolin-8-il-1-(4-fluorbenzil)-1H-indol-3-carbossilato</td></tr>
@@ -1321,7 +1347,7 @@ Allegato 6[^t-5]
 <tr><td>173</td><td>...</td></tr>
 <tr><td>174</td><td>EG-018 3-(1-naftoil)-1-pentilcarbazolo</td></tr>
 <tr><td>175</td><td>Descloretizolam 2-etil-9-metil-4-fenil-6H-tiene[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepina L’uso industriale per la ricerca e lo sviluppo è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
-<tr><td>176</td><td>Flubromazolam 8-bromo-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina L’uso industriale per la ricerca e lo sviluppo è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>176</td><td>...</td></tr>
 <tr><td>177</td><td>Fladrafinil 2-{[bis(4-fluorofenil)metil]sulfinil}-N-idrossiacetamide L’uso industriale per la ricerca e lo sviluppo è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>178</td><td>HDMP-28 Metilnaftidato Metil-2-naftil-2-piperidinilacetato</td></tr>
 <tr><td>179</td><td>...</td></tr>
@@ -1346,7 +1372,7 @@ Allegato 6[^t-5]
 <tr><td>198</td><td>Isopropilfenidato Propano-2-il-2-fenil-2-(piperidina-2-il)acetato IPH</td></tr>
 <tr><td>199</td><td>4-metilmetilfenidato Metil-2-(4-metilfenil)-2-(piperidina-2-il)acetato 4-MeTMP 4-MMPH</td></tr>
 <tr><td>200</td><td>3-MeO-PCMO 4-[1-(3-metossifenil)cicloesile]morfolino</td></tr>
-<tr><td>201</td><td>Clonazolam 6-(2-clorofenil)-1-metil-8-nitro-4H-s-triazolo- (4,3-a)-(1,4)-benzodiazepina L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>201</td><td>...</td></tr>
 <tr><td>202</td><td>...</td></tr>
 <tr><td>203</td><td>Nifoxipam 5-(2-fluorofenil)-3-idrossi-7-nitro-1,3-diidro-2H-1,4-benzodiazepina-2-on L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>204</td><td>...</td></tr>
@@ -1369,7 +1395,7 @@ Allegato 6[^t-5]
 <tr><td>221</td><td>5F-APP-PICA PX-1 N-(1-amino-1-ossi-3-fenilpropan-2-il)-1-(5-fluoropentil)-1H-indolo-3-carbossamide</td></tr>
 <tr><td>222</td><td>ADB-PINACA N-[1-(amminocarbonil)-2,2-dimetilpropil]-1-pentil-1H-indazolo-3-carbossamide</td></tr>
 <tr><td>223</td><td>N-Cumile-4CN-B7AICA N-cumile-(4-cianobutil)-7-azaindolo-3-carbossamide</td></tr>
-<tr><td>224</td><td>Cumil-pegaclone 5-pentil-2-(2-fenilpropan-2-il)-2,5-diidro-1H-pirido[4,3-b]indolo-1-one</td></tr>
+<tr><td>224</td><td>...</td></tr>
 <tr><td>225</td><td>...</td></tr>
 <tr><td>226</td><td>Benzilfentanil N-(1-benzilpiperidin-4-il)-N-fenil-propanamide</td></tr>
 <tr><td>227</td><td>...</td></tr>
@@ -1381,7 +1407,7 @@ Allegato 6[^t-5]
 <tr><td>233</td><td>ALD-52 1-acetildietilamide dell’acido lisergico 4-acetil-N,N-dietil-7-metil-4,6,6a,7,8,9-esaidroindolo[4,3-fg]chinolina-9-carbossamide</td></tr>
 <tr><td>234</td><td>...</td></tr>
 <tr><td>235</td><td>...</td></tr>
-<tr><td>236</td><td>Fentanili Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dalla 4-amminopiridina ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image1.png) a condizione che: – sia sostituita sull’azoto dell’anello piperidinico con gruppi aril-alchilici o etero-aril-alchilici, e questi gruppi, così come la struttura C dell’anello piperidinico, possano essere ulteriormente sostituiti da gruppi alcossi, alcossicarbonilici, alchilici, arilici, alogeni e idrossilici in qualsiasi misura e in qualsiasi posizione; e inoltre – sia sostituita al gruppo amminico di 4-amminopiperidina con un gruppo arilico o etero-arilico, e questo gruppo possa essere ulteriormente sostituito da gruppi alcossi, alchilici, alogeni e idrossilici in qualsiasi misura e in qualsiasi posizione; e che infine – sia sostituita al gruppo amminico di 4-amminopiperidina con un qualsiasi gruppo acilico. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>236</td><td>Fentanili Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dalla 4-amminopiridina ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20230301/it/xml/image/image1.png) a condizione che: – sia sostituita sull’azoto dell’anello piperidinico con gruppi aril-alchilici o etero-aril-alchilici, e questi gruppi, così come la struttura C dell’anello piperidinico, possano essere ulteriormente sostituiti da gruppi alcossi, alcossicarbonilici, alchilici, arilici, alogeni e idrossilici in qualsiasi misura e in qualsiasi posizione; e inoltre – sia sostituita al gruppo amminico di 4-amminopiperidina con un gruppo arilico o etero-arilico, e questo gruppo possa essere ulteriormente sostituito da gruppi alcossi, alchilici, alogeni e idrossilici in qualsiasi misura e in qualsiasi posizione; e che infine – sia sostituita al gruppo amminico di 4-amminopiperidina con un qualsiasi gruppo acilico. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>237</td><td>Flunitrazolam 1-metil-8-nitro-6-(2-fluorofenil)-4H-[1,2,4]triazolo[4,3-a][1,4] benzodiazepina L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>238</td><td>Adinazolam 1-(8-cloro-6-fenil-4H-[1,2,4] triazolo[4,3-a] [1,4] benzodiazepina-1-il)-N,N-dimetilmetanamina L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>239</td><td>Dicloropano metil-3-(3,4-diclorofenil)-8-metil-8-azabiciclo[3.2.1]ottan-2-carbossilato</td></tr>
@@ -1408,17 +1434,17 @@ Allegato 6[^t-5]
 <tr><td>260</td><td>4'-fluoro-4-metilaminorex 5-(4-fluorofenil)-4,5-diidro-4-metil-2-ossazolamina 4F-MAR</td></tr>
 <tr><td>261</td><td>Tiotinone 2-(metilammino)-1-(2-tiofenil)-1-propanone βk-MPA</td></tr>
 <tr><td>262</td><td>MMB-CHMINACA Metil-2-[[1-(cicloesilmetil)-1H-indazolo-3-carbonil]ammino]-3-metilbutanoato AMB-CHMINACA</td></tr>
-<tr><td>263</td><td>Derivati dell’acido lisergico Qualsiasi sostanza (tranne metilergometrina, metisergide, amesergide o le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dall’ammide dell’acido lisergico (ergina), ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image2.png) a condizione che: – nell’azoto dell’anello a cinque termini (R1) non sia sostituita o sia sostituita da un qualsiasi gruppo alchilico o carbonilico; e inoltre – nell’azoto del gruppo ammide (R2 e R3) non sia sostituita o sia sostituita in qualsiasi misura da gruppi alchilici, alchenilici, alcossialchilici o idrossialchilici; e che infine – nell’azoto (R6) sia sostituita da un qualsiasi gruppo alchilico o alchenilico. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
-<tr><td>264</td><td>Derivati del nitazene Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dal nitazene, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image3.png) a condizione che: – nell’anello fenilico (R1) sia sostituita in qualsiasi modo e in qualsiasi misura; e inoltre – nell’azoto del gruppo amminico (R2 e R3) sia sostituita in qualsiasi misura con gruppi alchilici. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
-<tr><td>265</td><td>Cannabinoidi sintetici Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura derivadall’indolo, indipendentemente dalla sostituzione di un altro atomo di carbonio della struttura dell’indolo con un atomo di azoto, per sostituzione: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image4.png) – sull’atomo di azoto (posizione 1) con strutture alchiliche, alcheniliche, ariliche o eterocicliche con almeno 3 atomi di carbonio; e inoltre: – sulla posizione 3 dell’indolo con una struttura di carbonile, estere di acido carbossilico o carbossamide che è ulteriormente sostituita in qualsiasi modo e in qualsiasi misura e può essere condensata alla struttura dell’indolo. Queste strutture possono essere sostituite sulle posizioni 2, 4, 5, 6 e 7 della struttura dell’indolo in qualsiasi modo e in qualsiasi misura. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
-<tr><td>266</td><td>Triptammine Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dalla triptammina, per sostituzione: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image5.png) – sull’atomo di azoto della catena laterale con gruppi alchilici o alchenilici in qualsiasi misura oppure per inclusione di questo atomo di azoto in una struttura ciclica. Queste strutture possono essere sostituite in uno o più dei seguenti modi: – sulla posizione α della catena laterale con gruppi alchilici o alchenilici; – nella struttura ad anello dell’indolo della triptammina in qualsiasi misura con gruppi alchilici, alcossi, alogeni o idrossilici. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>263</td><td>Derivati dell’acido lisergico Qualsiasi sostanza (tranne metilergometrina, metisergide, amesergide o le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dall’ammide dell’acido lisergico (ergina), ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20230301/it/xml/image/image2.png) a condizione che: – nell’azoto dell’anello a cinque termini (R1) non sia sostituita o sia sostituita da un qualsiasi gruppo alchilico o carbonilico; e inoltre – nell’azoto del gruppo ammide (R2 e R3) non sia sostituita o sia sostituita in qualsiasi misura da gruppi alchilici, alchenilici, alcossialchilici o idrossialchilici; e che infine – nell’azoto (R6) sia sostituita da un qualsiasi gruppo alchilico o alchenilico. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>264</td><td>Derivati del nitazene Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dal nitazene, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20230301/it/xml/image/image3.png) a condizione che: – nell’anello fenilico (R1) sia sostituita in qualsiasi modo e in qualsiasi misura; e inoltre – nell’azoto del gruppo amminico (R2 e R3) sia sostituita in qualsiasi misura con gruppi alchilici. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>265</td><td>Cannabinoidi sintetici Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura derivadall’indolo, indipendentemente dalla sostituzione di un altro atomo di carbonio della struttura dell’indolo con un atomo di azoto, per sostituzione: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20230301/it/xml/image/image4.png) – sull’atomo di azoto (posizione 1) con strutture alchiliche, alcheniliche, ariliche o eterocicliche con almeno 3 atomi di carbonio; e inoltre: – sulla posizione 3 dell’indolo con una struttura di carbonile, estere di acido carbossilico o carbossamide che è ulteriormente sostituita in qualsiasi modo e in qualsiasi misura e può essere condensata alla struttura dell’indolo. Queste strutture possono essere sostituite sulle posizioni 2, 4, 5, 6 e 7 della struttura dell’indolo in qualsiasi modo e in qualsiasi misura. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>266</td><td>Triptammine Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dalla triptammina, per sostituzione: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20230301/it/xml/image/image5.png) – sull’atomo di azoto della catena laterale con gruppi alchilici o alchenilici in qualsiasi misura oppure per inclusione di questo atomo di azoto in una struttura ciclica. Queste strutture possono essere sostituite in uno o più dei seguenti modi: – sulla posizione α della catena laterale con gruppi alchilici o alchenilici; – nella struttura ad anello dell’indolo della triptammina in qualsiasi misura con gruppi alchilici, alcossi, alogeni o idrossilici. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>267</td><td>Pagoclon 2-(7-cloro-1,8-naftiridin-2-il)-2,3-diidro-3-(5-metil-2-ossoesil)-1H-isoindol-1-one L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>268</td><td>FDU-PB-22 1-naftalenil-1-[(4-fluorfenil)metil]-1H-indol-3-carbossilato</td></tr>
 <tr><td>269</td><td>5-MeO-N,N-DBT 5-metossi-N,N-dibutiltriptammina</td></tr>
 <tr><td>270</td><td>5-MeO-N,N-DiBT 5-metossi-N,N-diisobutiltriptammina</td></tr>
 <tr><td>271</td><td>Morfodrolo α, α- difenil- 3- morfolinilmetanolo</td></tr>
 <tr><td>272</td><td>5F-EDMB-PINACA etil-2-[1-(5-fluoropentil)-1H-indazolo-3-carbossamide]-3.3-dimetilbutanoato</td></tr>
-<tr><td>273</td><td>MDMB-4en-PINACA metil-2-[1-(pent-4-en-1-il)-1H-indazolo-3-carbossamide]-3,3-dimetilbutanoato</td></tr>
+<tr><td>273</td><td>...</td></tr>
 <tr><td>274</td><td>FUB-144 [1-(4-fluorobenzil)-1H-indol-3-il](2,2,3,3-tetrametilciclopropil)metanone</td></tr>
 <tr><td>275</td><td>ACHMINACA N-(adamantan-1-il)-1-(cicloesilmetil)-1H-indazolo-3-carbossamide</td></tr>
 <tr><td>276</td><td>MMB-022 MMB-4en-PICA metil-2-[1-(pent-4-en-1-il)-1H-indol-3-carbossamide]-3-metilbutanoato</td></tr>
@@ -1436,7 +1462,7 @@ Allegato 6[^t-5]
 <tr><td>288</td><td>3-Me-PCP 3-metilfenciclidina 1-[1-(3-metilfenil)cicloesil]piperidina</td></tr>
 <tr><td>289</td><td>Mefedrene N-metil-1-(5-metiltiofen-2-il)propan-2-ammina 5-metilmetiopropamina 5-MMPA</td></tr>
 <tr><td>290</td><td>Metossisopropamina 2-isopropilamino-2-(3-metossifenil)cicloesan-1-one MXiPr</td></tr>
-<tr><td>291</td><td>Arilcicloesilammine Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d ed f) la cui struttura deriva dalla fenilcicloesilammina, con una o più delle seguenti sostituzioni: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image6.png) – sull’atomo di azoto del gruppo amminico con strutture alchiliche, alcheniliche in qualsiasi misura oppure strutture cicliche ed eterocicliche incluso l’atomo di azoto; – sull’anello cicloesilico con gruppi alchilici, arilici, arilalchilici, idrossilici, alcossi oppure gruppi osso in qualsiasi misura; – sul composto aromatico con gruppi alogeni, alcossi, alchilici o idrossilici in qualsiasi misura, con qualsiasi sistema aromatico. L**’**uso industriale e scientifico è escluso dalle misure di controllo. L**’**impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>291</td><td>Arilcicloesilammine Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d ed f) la cui struttura deriva dalla fenilcicloesilammina, con una o più delle seguenti sostituzioni: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20230301/it/xml/image/image6.png) – sull’atomo di azoto del gruppo amminico con strutture alchiliche, alcheniliche in qualsiasi misura oppure strutture cicliche ed eterocicliche incluso l’atomo di azoto; – sull’anello cicloesilico con gruppi alchilici, arilici, arilalchilici, idrossilici, alcossi oppure gruppi osso in qualsiasi misura; – sul composto aromatico con gruppi alogeni, alcossi, alchilici o idrossilici in qualsiasi misura, con qualsiasi sistema aromatico. L**’**uso industriale e scientifico è escluso dalle misure di controllo. L**’**impiego privato non è escluso dalle misure di controllo.</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
@@ -1447,7 +1473,7 @@ Allegato 7[^t-6]
 
 ## Elenco f: Precursori
 
-[^t-6]: Nuovo testo giusta il n. I cpv. 2 dell’O del DFI del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)). Aggiornato dai n. I delle O del DFI del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)) e del 29 mag. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)).
+[^t-6]: Nuovo testo giusta il n. I cpv. 2 dell’O del DFI del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)). Aggiornato dal n. I delle O del DFI del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)) e del DFI del 21 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2023 5](https://fedlex.data.admin.ch/eli/oc/2023/5)).
 
 <table>
 <tr><th>Numero</th><th>Designazione</th></tr>
@@ -1477,6 +1503,9 @@ Allegato 7[^t-6]
 <tr><td>24</td><td>metilestere dell’acido 2-metil-3-[3’,4’-(metilendiossi)fenil]ossirancarbonico</td></tr>
 <tr><td>25</td><td>acido 2-metil-3-[3’,4’-(metilendiossi)fenil]ossirancarbonico</td></tr>
 <tr><td>26</td><td>**Metil-alfa-fenilacetoacetato (metil-alfa-fenilacetoacetato, MAPA,** **metil-3-osso-2-fenilbutanoato)**</td></tr>
+<tr><td>27</td><td>N-fenil-4-piperidinammina (4-AP, 4-anilinopiperidine)</td></tr>
+<tr><td>28</td><td>terz-butil 4-(fenilammino)piperidina-1-carbossilato (1-boc-4-anilinopiperidine, 1-boc-4-AP)</td></tr>
+<tr><td>29</td><td>Norfentanyl (N-fenil-N-(piperidin-4-il)propionamide)</td></tr>
 <tr><td>100</td><td>preparati contenenti pseudoefedrina Sono esclusi dalle misure di controllo i preparati che contengono uno o più altri componenti (principi attivi o sostanze ausiliarie) e una quantità di pseudoefedrina, calcolata come base, che non supera i 50 mg per unità di somministrazione.</td></tr>
 <tr><td>101</td><td>preparati contenenti efedrina Sono esclusi dal controllo i preparati che contengono uno o più altri componenti (principi attivi o sostanze ausiliarie) e una quantità di efedrina, calcolata come base, che non supera i 15 mg per unità di somministrazione, o non è superiore ai 10 mg/ml nelle forme non divise.</td></tr>
 <tr><td>102</td><td>cloroefedrina Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
