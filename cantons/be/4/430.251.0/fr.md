@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-23
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-11
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2755/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2806/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2755/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.01.2023)
+du 28.03.2007 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -775,9 +775,9 @@ arrête:
 
 **Documentation et archivage des résultats**
 
-<sup>1</sup> Les résultats de l’examen des objectifs ainsi que les nouveaux objectifs et mesures convenus sont consignés par écrit. Les personnes participant à l’entretien doivent les signer ou les entériner dans un document électronique probant pour confirmer qu’elles en ont pris connaissance.
+<sup>1</sup> Les résultats de l’examen des objectifs ainsi que les nouveaux objectifs et mesures convenus sont consignés par écrit. Les personnes participant à l’entretien confirment avoir pris connaissance des résultats.
 
-<sup>2</sup> Ils sont conservés sous forme physique ou électronique dans le dossier personnel du service du personnel compétent.
+<sup>2</sup> Les résultats sont conservés dans le dossier personnel du service du personnel compétent.
 
 #### Art. 66
 

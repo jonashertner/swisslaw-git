@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-23
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-11
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2755/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2806/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2755/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.01.2023)
+vom 28.03.2007 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -600,7 +600,7 @@ geführt werden,
 <sup>1</sup> Die Schulleitung bewilligt bezahlte Kurzurlaube im Einzelfall wie folgt:
 
 - a bis zu drei Arbeitstage pro Ereignis wegen plötzlicher Erkrankung einer oder eines nahen Familienangehörigen, höchstens aber zehn Arbeitstage pro Schuljahr,
-- a1 bis zu vier Arbeitstage pro Ereignis wegen des Todes einer oder eines nahen Familienagehörigen,
+- a1 bis zu vier Arbeitstage pro Ereignis wegen des Todes einer oder eines nahen Familienangehörigen,
 - b ein Arbeitstag pro Schuljahr wegen eigener Heirat oder eigenen Wohnungswechsels,
 - c im Rahmen der benötigten Zeit wegen anderer dringender privater oder familiärer Verpflichtungen, die sich nicht ausserhalb der Unterrichtszeit erledigen lassen,
 - d ein Arbeitstag pro Schuljahr wegen obligatorischer oder freiwilliger Teilnahme an der militärischen Orientierungsveranstaltung oder Abgabe des persönlichen Materials bei Entlassung aus der Militärdienstpflicht.
@@ -776,9 +776,9 @@ geführt werden,
 
 **Dokumentation und Ablage der Ergebnisse**
 
-<sup>1</sup> Das Ergebnis der Zielüberprüfung sowie die neu vereinbarten Ziele und Massnahmen werden schriftlich festgehalten. Sie sind von den am Gespräch beteiligten Personen im Sinne der Kenntnisnahme zu unterzeichnen oder in einem beweissicheren elektronischen Dokument zu bestätigen.
+<sup>1</sup> Das Ergebnis der Zielüberprüfung sowie die neu vereinbarten Ziele und Massnahmen werden schriftlich festgehalten. Die Gesprächspartnerinnen und -partner bestätigen die Kenntnisnahme der Ergebnisse.
 
-<sup>2</sup> Sie werden beim zuständigen Personaldienst physisch oder elektronisch im Personaldossier abgelegt.
+<sup>2</sup> Die Ergebnisse werden beim zuständigen Personaldienst im Personaldossier abgelegt.
 
 #### Art. 66
 
