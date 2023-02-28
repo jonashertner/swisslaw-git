@@ -4,13 +4,12 @@ number: "152.11"
 title: "Ordonnance sur l'organisation du Conseil-exécutif"
 short: "Ordonnance d'organisation CE; OO CE"
 language: fr
-version: 2021-12-01
-valid_until: 2023-02-28
-version_adopted: 2021-10-20
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2392/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2785/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2392/pdf_file"
 
 (Ordonnance d'organisation CE; OO CE)
 
-du 18.10.1995 (état au 01.12.2021)
+du 18.10.1995 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -264,13 +263,15 @@ arrête:
 <sup>1</sup> Le Conseil-exécutif institue les outils de direction suivants:
 
 - a la Conférence des secrétaires généraux (CSG),
-- b le comité stratégique TIC (CST),
+- b les organes de l'administration numérique et des TIC au sens de l'ordonnance du 11 janvier 2023 sur l'administration numérique (OAN)[^22-1],
 - c la Conférence cantonale des achats (CCA),
 - d la Conférence des responsables du personnel des Directions, de la Chancellerie d'Etat, de la Justice et des hautes écoles (PEKO),
-- e la Conférence des finances et du controlling (FICON),
-- f la Conférence des statistiques.
+- e la Conférence des finances et du controlling (FICON).
+- f …
 
 <sup>2</sup> Il règle plus en détail leur domaine d'activité et leur organisation par voie d'ordonnance ou de règlement.
+
+[^22-1]: RSB [109.111](https://www.belex.sites.be.ch/data/109.111/fr)
 
 #### Art. 23
 

@@ -4,13 +4,12 @@ number: "152.11"
 title: Verordnung über die Organisation des Regierungsrates
 short: Organisationsverordnung RR; OrV RR
 language: de
-version: 2021-12-01
-valid_until: 2023-02-28
-version_adopted: 2021-10-20
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2392/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2785/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2392/pdf_file"
 
 (Organisationsverordnung RR; OrV RR)
 
-vom 18.10.1995 (Stand 01.12.2021)
+vom 18.10.1995 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -271,13 +270,15 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat setzt folgende Führungsinstrumente ein:
 
 - a die Generalsekretärenkonferenz (GSK),
-- b den Strategischen ICT-Ausschuss (SIA),
+- b die Organe der digitalen Verwaltung und der ICT gemäss der Verordnung vom 11. Januar 2023 über die digitale Verwaltung (DVV)[^22-1],
 - c die Kantonale Beschaffungskonferenz (KBK),
 - d die Konferenz der Personalverantwortlichen der Direktionen, der Staatskanzlei, der Justiz und der Hochschulen (PEKO),
-- e die Finanz- und Controllingkonferenz (FICON),
-- f die Statistikkonferenz.
+- e die Finanz- und Controllingkonferenz (FICON).
+- f …
 
 <sup>2</sup> Er regelt ihren Tätigkeitsbereich und ihre Organisation durch Verordnung oder durch Reglement näher.
+
+[^22-1]: BSG [109.111](https://www.belex.sites.be.ch/data/109.111/de)
 
 #### Art. 23
 
