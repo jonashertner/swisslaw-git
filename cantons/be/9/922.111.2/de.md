@@ -4,13 +4,13 @@ number: "922.111.2"
 title: Direktionsverordnung über die Jagdprüfung
 short: JDV
 language: de
-version: 2018-10-01
-valid_until: 2023-02-28
-version_adopted: 2018-08-21
+version: 2023-03-01
+valid_until: 2023-09-30
+version_adopted: 2022-08-29
 adopted: 2004-05-18
 in_force: 2004-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.111.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1496/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2681/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1496/pdf_file"
 
 (JDV)
 
-vom 18.05.2004 (Stand 01.10.2018)
+vom 18.05.2004 (Stand 01.03.2023)
 
 Die Volkswirtschaftsdirektion des Kantons Bern,
 
@@ -69,7 +69,7 @@ beschliesst:
 
 **Wahl der Kommission**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion wählt für eine Amtsdauer von vier Jahren eine Jagdprüfungskommission. Ersatzwahlen werden für den Rest der Amtsdauer vorgenommen.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion wählt für eine Amtsdauer von vier Jahren eine Jagdprüfungskommission. Ersatzwahlen werden für den Rest der Amtsdauer vorgenommen.
 
 #### Art. 5
 
@@ -93,7 +93,7 @@ beschliesst:
 
 <sup>2</sup> Die übrigen Spesen, Taggelder und Entschädigungen richten sich nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^7-1].
 
-<sup>3</sup> Die Präsidentin oder der Präsident der Jagdprüfungskommission bezieht eine jährliche Pauschalentschädigung, deren Höhe von der Volkswirtschaftsdirektion im Einvernehmen mit der Finanzdirektion festgelegt wird.
+<sup>3</sup> Die Präsidentin oder der Präsident der Jagdprüfungskommission bezieht eine jährliche Pauschalentschädigung, deren Höhe von der Wirtschafts-, Energie- und Umweltdirektion im Einvernehmen mit der Finanzdirektion festgelegt wird.
 
 [^7-1]: BSG [152.256](https://www.belex.sites.be.ch/data/152.256/de)
 

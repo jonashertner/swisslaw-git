@@ -4,13 +4,13 @@ number: "922.111.2"
 title: "Ordonnance de Direction sur l'examen de chasse"
 short: ODEC
 language: fr
-version: 2018-10-01
-valid_until: 2023-02-28
-version_adopted: 2018-08-21
+version: 2023-03-01
+valid_until: 2023-09-30
+version_adopted: 2022-08-29
 adopted: 2004-05-18
 in_force: 2004-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.111.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1496/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2681/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1496/pdf_file"
 
 (ODEC)
 
-du 18.05.2004 (état au 01.10.2018)
+du 18.05.2004 (état au 01.03.2023)
 
 La Direction de l’économie publique du canton de Berne,
 
@@ -69,7 +69,7 @@ arrête:
 
 **Nomination de la commission**
 
-<sup>1</sup> La Direction de l’économie publique nomme une commission d’examen de chasse pour une période de fonction de quatre ans. Les nominations de remplacement sont valables pour le reste de la période de fonction.
+<sup>1</sup> La Direction de l’économie, de l'énergie et de l'environnement nomme une commission d’examen de chasse pour une période de fonction de quatre ans. Les nominations de remplacement sont valables pour le reste de la période de fonction.
 
 #### Art. 5
 
@@ -93,7 +93,7 @@ arrête:
 
 <sup>2</sup> Les autres indemnités sont versées conformément à l’ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales.[^7-1]
 
-<sup>3</sup> Le président ou la présidente de la commission d’examen de chasse reçoit une indemnité forfaitaire annuelle dont le montant est fixé par la Direction de l’économie publique, d’entente avec la Direction des finances.
+<sup>3</sup> Le président ou la présidente de la commission d’examen de chasse reçoit une indemnité forfaitaire annuelle dont le montant est fixé par la Direction de l’économie, de l'énergie et de l'environnement, d’entente avec la Direction des finances.
 
 [^7-1]: RSB [152.256](https://www.belex.sites.be.ch/data/152.256/fr)
 
