@@ -4,13 +4,12 @@ number: "922.111"
 title: Ordonnance sur la chasse
 short: OCh
 language: fr
-version: 2022-03-01
-valid_until: 2023-02-28
-version_adopted: 2022-02-02
+version: 2023-03-01
+version_adopted: 2022-09-07
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2551/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2706/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2551/pdf_file"
 
 (OCh)
 
-du 26.02.2003 (état au 01.03.2022)
+du 26.02.2003 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -95,7 +94,12 @@ arrête:
 
 <sup>1</sup> Sont considérés comme reconnus les examens de chasse des cantons.
 
-<sup>2</sup> L'Inspection de la chasse reconnaît sur demande les examens de chasse étrangers lorsque les exigences de ces examens sont comparables à celles du canton de Berne. Elle tient une liste des pays dont les examens de chasse sont reconnus.
+<sup>2</sup> L'Inspection de la chasse reconnaît sur demande les examens de chasse étrangers lorsque
+
+- a les exigences de ces formations et examens sont comparables à celles du canton de Berne et que
+- b la personne concernée a été domiciliée dans le pays en question pendant au moins deux ans.
+
+<sup>3</sup> Elle tient une liste des pays dont les examens de chasse fixent des exigences de formations et d'examens comparables à celles du canton de Berne.
 
 #### Art. 7
 
@@ -144,7 +148,7 @@ arrête:
 
 <sup>2</sup> La Direction de l’économie, de l’énergie et de l’environnement peut, pour une saison de chasse donnée et certaines zones de gestion du gibier présentant une population que le nombre de ses individus rend intolérable, prolonger la chasse au sanglier jusqu'à fin février, si la CCPFS le propose en se fondant sur les objectifs et les mesures de la planification de la chasse.
 
-<sup>3</sup> Dans les régions confrontées à d'intolérables dommages causés par la faune sauvage, elle peut autoriser, pour une saison de chasse donnée, la chasse à l'affût des chevreuils le jeudi.
+<sup>3</sup> Dans les régions qui sont confrontées à d'intolérables dommages causés par la faune sauvage ou dont il faut s'attendre à ce qu'elles le soient, elle peut autoriser, pour une saison de chasse donnée, la chasse à l'affût des chevreuils et des cerfs nobles le jeudi.
 
 #### Art. 11
 
@@ -221,14 +225,19 @@ arrête:
 
 #### Art. 16a
 
-**Restrictions de chasse au terrier**
+**Chasse au terrier**
 
-<sup>1</sup> La chasse avec des chiens dans les terriers des animaux sauvages (chasse au terrier) n’est autorisée qu’avec les restrictions suivantes:
+<sup>1</sup> Il est interdit de chasser les animaux sauvages dans leurs terriers à l'aide de chiens (chasse au terrier).
 
-- a la chasse au terrier ne peut être exercée que jusqu’à fin décembre;
-- b il peut être utilisé au plus un chien de terrier par terrier;
-- c chaque chien de terrier doit porter un système de localisation;
-- d avant l’exercice de la chasse au terrier, le chasseur ou la chasseuse doit en annoncer le lieu et la date au ou à la garde-faune compétent(e).
+<sup>1a</sup> L'Inspection de la chasse peut accorder des dérogations à l'alinéa 1 si
+
+- a les objectifs de la chasse au terrier, qui consistent notamment à préserver la biodiversité et les habitats des animaux sauvages indigènes et migrateurs, protéger les espèces animales menacées, lutter contre les épizooties ou éviter que la faune sauvage ne cause des dommages substantiels, sont respectés;
+- b aucune autre méthode moins pénible pour les animaux concernés n'a permis d'atteindre l'objectif visé;
+- c la chasse au terrier dure jusqu'à fin décembre au plus tard;
+- d au maximum un chien de terrier est utilisé par terrier;
+- e chaque chien de terrier porte un système de localisation.
+
+<sup>1b</sup> Avant l'exercice de la chasse au terrier, la chasseuse ou le chasseur doit en annoncer le lieu et la date à la ou au garde-faune responsable.
 
 <sup>2</sup> Les animaux sauvages blessés et les chiens de chasse restés dans les terriers ne peuvent être dégagés qu’avec le concours du ou de la garde-faune.
 
@@ -253,7 +262,7 @@ arrête:
 <sup>2</sup> Le programme de tir suivant doit avoir été rempli :
 
 - a effectuer des tirs à balle à 100 mètres de distance au moins
-  - 1\. sur une cible graduée jusqu'à dix, sachant que quatre coups consécutifs doivent avoir touché au moins la zone huit, ou
+  - 1\. sur une cible avec effigie de chevreuil ou de chamois debout (cible de la Fédération des chasseurs allemands Deutscher Jagdverband avec graduations 0, 1, 3, 8, 9, 10), sachant que quatre coups consécutifs doivent avoir touché au moins la zone huit, ou
   - 2\. sur une cible saint-galloise, sachant que quatre coups consécutifs doivent avoir touché le champ prévu à cet effet (Trefferfeld);
 - b effectuer des tirs à grenaille à une distance de 25 à 35 mètres
   - 1\. sur une cible basculante à trois pièces (lièvre), sachant que la partie avant ou centrale doit avoir été touchée quatre fois de suite, ou
@@ -261,9 +270,9 @@ arrête:
 
 <sup>3</sup> Le programme de tir peut être répété à volonté jusqu'à ce qu'il soit réussi.
 
-<sup>4</sup> Le lieu et la date du contrôle de la sûreté du tir doivent être inscrits avant la première sortie en chasse avec l'arme de chasse utilisée à cette fin dans le carnet de contrôle des animaux tirés.
+<sup>4</sup> L'attestation délivrée par la société de chasse ou de tir pour établir la sûreté du tir doit être jointe à la demande de patente.
 
-<sup>5</sup> Sur demande, la sûreté du tir doit être établie en présentant une attestation émanant de la société de chasseurs ou de tir.
+<sup>5</sup> …
 
 #### Art. 18
 
@@ -285,6 +294,8 @@ arrête:
 <sup>2</sup> Il est permis d’amener à pied l’arme non chargée dans le territoire de chasse ou de la remporter non chargée la veille ou le lendemain d’un jour de chasse en empruntant les chemins ordinaires.
 
 <sup>3</sup> Les armes à feu et les munitions ne peuvent être transportées que séparément dans le véhicule, y compris pendant la période de chasse, l’exécution de mesures de défense personnelle conformément à l’article 5, alinéa 2 LCh ou la chasse sur la base d’une autorisation spéciale.
+
+<sup>4</sup> Pendant le transport dans le véhicule, les armes à feu doivent être rangées dans un étui ou dans une mallette fermée, sur le siège arrière ou dans le coffre.
 
 #### Art. 20
 
@@ -326,7 +337,7 @@ arrête:
 
 <sup>1</sup> Il est interdit de tirer depuis l'intérieur d'un véhicule.
 
-<sup>2</sup> Il est permis de tirer à partir d'un bateau à condition que le moteur ait été enlevé.
+<sup>2</sup> Il est permis de tirer à partir d'un bateau à condition que l'hélice se trouve hors de l'eau.
 
 <sup>3</sup> Les pêcheurs et pêcheuses professionnels autorisés à chasser peuvent tirer depuis un bateau à moteur pour éviter tout endommagement des engins de pêche déployés.
 
@@ -433,6 +444,12 @@ arrête:
 <sup>2</sup> Lorsque le remboursement est lié à un acte punissable, sa valeur doit être fixée dans le jugement pénal. Lorsque l'animal tué illicitement peut être saisi, le produit de sa vente sera déduit de la somme due.
 
 <sup>3</sup> Lorsque la créance en remboursement n'a aucun lien avec un acte punissable, elle est fixée lors d'une procédure administrative.
+
+#### Art. 32a
+
+**Patentes gratuites**
+
+<sup>1</sup> Pour leur 50<sup>e</sup> année de chasse dans le canton de Berne, les personnes autorisées à chasser peuvent se voir offrir par l’Inspection de la chasse des patentes pour un montant équivalant au maximum à celles acquises pour la 49<sup>e</sup> année.
 
 #### Art. 33
 

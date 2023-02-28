@@ -4,13 +4,12 @@ number: "922.111"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2022-03-01
-valid_until: 2023-02-28
-version_adopted: 2022-02-02
+version: 2023-03-01
+version_adopted: 2022-09-07
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2551/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2706/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2551/pdf_file"
 
 (JaV)
 
-vom 26.02.2003 (Stand 01.03.2022)
+vom 26.02.2003 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -95,7 +94,12 @@ beschliesst:
 
 <sup>1</sup> Als anerkannt gelten die Jagdprüfungen der Kantone.
 
-<sup>2</sup> Das Jagdinspektorat anerkennt auf Gesuch hin ausländische Jagdprüfungen, wenn die Prüfungsanforderungen mit jenen des Kantons Bern vergleichbar sind. Es führt eine Liste der Länder mit anerkannten Jagdprüfungen.
+<sup>2</sup> Das Jagdinspektorat anerkennt auf Gesuch hin ausländische Jagdprüfungen, wenn
+
+- a die Ausbildungs- und Prüfungsanforderungen mit jenen des Kantons Bern vergleichbar sind und
+- b die betreffende Person mindestens zwei Jahre im jeweiligen Land Wohnsitz gehabt hat.
+
+<sup>3</sup> Es führt eine Liste der Länder mit Jagdprüfungen, deren Ausbildungs- und Prüfungsanforderungen mit jenen des Kantons Bern vergleichbar sind.
 
 #### Art. 7
 
@@ -144,7 +148,7 @@ beschliesst:
 
 <sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann jeweils für eine Jagdsaison und für einzelne, untragbar hohe Bestände aufweisende Wildräume die Wildschweinjagd bis Ende Februar verlängern, wenn die KJW dies gestützt auf die Ziele und Massnahmen der Jagdplanung beantragt.
 
-<sup>3</sup> Sie kann jeweils für eine Jagdsaison in Gebieten mit untragbarer Wildschadensituation die Ansitzjagd auf Rehwild an Donnerstagen erlauben.
+<sup>3</sup> Sie kann jeweils für eine Jagdsaison in Gebieten mit untragbarer oder absehbar untragbarer Wildschadensituation die Ansitzjagd auf Rehwild sowie Rothirsche an Donnerstagen erlauben.
 
 #### Art. 11
 
@@ -221,14 +225,19 @@ beschliesst:
 
 #### Art. 16a
 
-**Beschränkungen der Baujagd**
+**Baujagd**
 
-<sup>1</sup> Die Jagd mit Hunden in natürlichen Bodenbauen der Wildtiere (Baujagd) ist nur mit folgenden Beschränkungen gestattet:
+<sup>1</sup> Die Jagd mit Hunden in natürlichen Bodenbauen der Wildtiere (Baujagd) ist verboten.
 
-- a Die Baujagd darf nur bis Ende Dezember ausgeübt werden.
-- b Pro Bau darf höchstens ein Bodenhund eingesetzt werden.
-- c Jeder Bodenhund muss einen Ortungssender tragen.
-- d Bevor die Baujagd ausgeübt wird, muss die Jägerin oder der Jäger der zuständigen Wildhüterin oder dem zuständigen Wildhüter Ort und Zeit melden.
+<sup>1a</sup> Das Jagdinspektorat kann Ausnahmen von Absatz 1 bewilligen, wenn
+
+- a die Ziele der Baujagd wie Erhalt der Artenvielfalt oder der Lebensräume der einheimischen und ziehenden wildlebenden Tiere, Schutz bedrohter Tierarten, Seuchenbekämpfung oder Bekämpfung substanziellen Wildschadens eingehalten werden,
+- b alle anderen für die beteiligten Tiere weniger belastenden Methoden das angestrebte Ziel nicht erreicht haben,
+- c die Baujagd längstens bis Ende Dezember dauert,
+- d für jeden Bau höchstens ein Bodenhund eingesetzt wird,
+- e jeder Bodenhund einen Ortungssender trägt.
+
+<sup>1b</sup> Bevor die Baujagd ausgeübt wird, muss die Jägerin oder der Jäger der zuständigen Wildhüterin oder dem zuständigen Wildhüter Ort und Zeit melden.
 
 <sup>2</sup> Angeschossenes Wild und im Bau gebliebene Jagdhunde dürfen nur unter Beizug der Wildhüterin oder des Wildhüters ausgegraben werden.
 
@@ -253,7 +262,7 @@ beschliesst:
 <sup>2</sup> Es ist folgendes Schiessprogramm zu erfüllen:
 
 - a mit der Kugelwaffe auf eine Distanz von mindestens 100 Metern entweder
-  - 1\. auf eine Scheibe mit Zehnerwertung, wobei vier Schüsse nacheinander mindestens den 8er-Ring anreissen müssen, oder
+  - 1\. auf eine stehende Reh- oder Gamsscheibe (Scheibe des deutschen Jagdverbands mit Einteilung 0, 1, 3, 8, 9, 10), wobei vier Schüsse nacheinander mindestens den 8er-Ring anreissen müssen, oder
   - 2\. auf eine St. Galler-Scheibe, wobei vier Schüsse nacheinander im Trefferfeld liegen müssen;
 - b mit der Schrotwaffe auf eine Distanz zwischen 25 und 35 Metern entweder
   - 1\. auf den dreiteiligen Kipphasen, wobei die vordere oder mittlere Klappe viermal nacheinander getroffen werden muss, oder
@@ -261,9 +270,9 @@ beschliesst:
 
 <sup>3</sup> Das Schiessprogramm kann bis zur Erfüllung wiederholt werden.
 
-<sup>4</sup> Zeit und Ort des Treffsicherheitsnachweises sind vor der ersten Aufnahme der Jagd mit der entsprechenden Jagdwaffe im Abschusskontrollheft einzutragen.
+<sup>4</sup> Die Bestätigung des Jagd- oder Schiessvereins über den Treffsicherheitsnachweis ist dem Patentgesuch beizulegen.
 
-<sup>5</sup> Auf Verlangen ist der Nachweis der Treffsicherheit mit einer Bestätigung des Jagd- oder Schiessvereins zu belegen.
+<sup>5</sup> …
 
 #### Art. 18
 
@@ -285,6 +294,8 @@ beschliesst:
 <sup>2</sup> Am Vortag eines Jagdtags oder am Tag danach darf die ungeladene Waffe auf den üblichen Wegen zu Fuss ins Jagdgebiet hinein- bzw. aus diesem hinausgetragen werden.
 
 <sup>3</sup> Schusswaffen und Munition dürfen auch während der Jagdzeit, der Durchführung von Selbsthilfemassnahmen nach Artikel 5 Absatz 2 JWG oder der Jagd aufgrund einer Spezialbewilligung nur getrennt im Fahrzeug mitgeführt werden.
+
+<sup>4</sup> Schusswaffen sind während des Transports im Fahrzeug in einem Futteral oder in einem verschlossenen Waffenkoffer auf dem Rücksitz oder im Kofferraum mitzuführen.
 
 #### Art. 20
 
@@ -326,7 +337,7 @@ beschliesst:
 
 <sup>1</sup> Vom Fahrzeuginnern aus darf nicht geschossen werden.
 
-<sup>2</sup> Die Schussabgabe von Booten aus ist gestattet, wenn der Motor abmontiert worden ist.
+<sup>2</sup> Die Schussabgabe von Booten aus ist gestattet, wenn der Bootspropeller ausserhalb des Wassers ist.
 
 <sup>3</sup> Jagdberechtigten Berufsfischerinnen und Berufsfischern ist die Schussabgabe von Motorbooten aus gestattet, um Schäden an den ausgelegten Fanggeräten zu verhindern.
 
@@ -433,6 +444,12 @@ beschliesst:
 <sup>2</sup> Steht der Wertersatz in Verbindung mit einer strafbaren Handlung, so ist er im richterlichen Urteil aufzuerlegen. Wo das widerrechtlich getötete Wild eingezogen werden kann, ist der Verwertungserlös vom Wertersatz abzuziehen.
 
 <sup>3</sup> Steht die Wertersatzforderung in keinem Zusammenhang mit einer strafbaren Handlung, so wird sie in einem Verwaltungsverfahren festgelegt.
+
+#### Art. 32a
+
+**Gratispatente**
+
+<sup>1</sup> Das Jagdinspektorat kann einer jagdberechtigten Person in ihrem 50. Jagdjahr im Kanton Bern Patente höchstens im Umfang der im 49. Jahr bezogenen Patente gratis abgeben.
 
 #### Art. 33
 
