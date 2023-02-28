@@ -4,11 +4,11 @@ number: "551.11"
 title: Kantonspolizeiverordnung (KapoV)
 short: KapoV
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2023-03-01
+version: "2023-03-01"
+nachtrag: "120"
+valid_until: 2025-07-01
 adopted: 1999-04-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_11-1999_04_28-1999_07_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_11-1999_04_28-1999_07_01-120.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ Die Kantonspolizei ist Kriminal-, Sicherheits- und Verkehrspolizei. Sie unterst�
 
 **1**
 
-- 1\. 1. 22 - 115 § 5. Die Kantonspolizei wird im Rahmen der Weisungen der Sicherheitsdirektion[^4-1] durch die Kommandantin oder den Kommandanten geführt und in grundsätzlichen Angelegenheiten nach aussen vertreten. Unter Vorbehalt besonderer Anordnungen leitet die Kommandantin oder der Kommandant Katastropheneinsätze und kommandiert die Sicherheits- und Ordnungskräfte bei Unterstellungen grösserer kommunaler Verbände. Sie oder er regelt die Oberleitung der polizeilichen Ermittlungen bei Kapitalverbrechen.
+- 1\. 4. 23 - 120 § 5. Die Kantonspolizei wird im Rahmen der Weisungen der Sicherheitsdirektion[^4-1] durch die Kommandantin oder den Kommandanten geführt und in grundsätzlichen Angelegenheiten nach aussen vertreten. Unter Vorbehalt besonderer Anordnungen leitet die Kommandantin oder der Kommandant Katastropheneinsätze und kommandiert die Sicherheits- und Ordnungskräfte bei Unterstellungen grösserer kommunaler Verbände. Sie oder er regelt die Oberleitung der polizeilichen Ermittlungen bei Kapitalverbrechen.
 
 [^4-1]: Fassung gemäss RRB vom 5. November 2008 (OS 63, 595; ABl 2008, 1958). In Kraft seit 1. Januar 2009.
 
@@ -107,12 +107,13 @@ Die Kantonspolizei ist Kriminal-, Sicherheits- und Verkehrspolizei. Sie unterst�
 ### A. Aufnahme, Ausbildung, Entlassung
 
 [^hAAufnahmeAusbild-1]: Fassung gemäss RRB vom 5. November 2008 (OS 63, 595; ABl 2008, 1958). In Kraft seit 1. Januar 2009.
+[^hAAufnahmeAusbild-2]: Fassung gemäss RRB vom 14. Dezember 2022 (OS 78, 78; ABl 2021-11-05). In Kraft seit 1. März 2023.
 
 #### § 8
 
 **Aufnahmebedingungen für Aspirantinnen und Aspiranten**
 
-<sup>1</sup> Als Aspirantin oder Aspirant für das Polizeikorps kann aufgenommen werden, wer[^hAAufnahmeAusbild-1] 1. bei Bewerbungseingang das 20. Altersjahr zurückgelegt und das 35. Altersjahr noch nicht vollendet hat,
+<sup>1</sup> Als Aspirantin oder Aspirant für das Polizeikorps kann aufgenommen werden, wer[^hAAufnahmeAusbild-1] 1.[^hAAufnahmeAusbild-2] bei Bewerbungseingang das 20. Altersjahr zurückgelegt und das 40. Altersjahr noch nicht vollendet hat,
 
 - 2\. das schweizerische Bürgerrecht und einen guten Leumund besitzt,
 
@@ -158,7 +159,7 @@ Die Kantonspolizei ist Kriminal-, Sicherheits- und Verkehrspolizei. Sie unterst�
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 23 - 120
 
 ### B. Einreihung, Beförderung, Zulagen, Vergütungen
 
@@ -271,7 +272,7 @@ Die weiteren Bestimmungen über die Beförderungen, Zulagen und Entschädigungen
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 23 - 120
 
 ### Übergangsrecht zur Änderung vom 5. November 2008 (OS 63, 595)
 
