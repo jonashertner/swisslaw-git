@@ -4,13 +4,13 @@ number: "770.11"
 title: Energiereglement
 short: EnR
 language: de
-version: 2022-07-01
-valid_until: 2023-02-28
-version_adopted: 2022-06-14
+version: 2023-03-01
+valid_until: 2023-06-30
+version_adopted: 2023-02-14
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7506/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7731/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Energie – R
 
 (EnR)
 
-vom 05.11.2019 (Fassung in Kraft getreten am 01.07.2022)
+vom 05.11.2019 (Fassung in Kraft getreten am 01.03.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -734,31 +734,11 @@ beschliesst:
 
 #### Art. 52
 
-**Neubau Minergie-P (M-016 HFM 2015)**
-
-<sup>1</sup> Das Gebäude ist förderberechtigt, wenn es über ein Minergie-P-Zertifikat verfügt.
-
-<sup>2</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
-
-<table>
-<tr><th>Erreichter Standard</th><th>Einfamilienhaus</th><th>Mehrfamilienhaus</th><th>Nicht-Wohnbau</th></tr>
-<tr><td>Minergie-P</td><td>75 Fr./m² EBF</td><td>40 Fr./m² EBF</td><td>30 Fr./m² EBF</td></tr>
-<tr><td>Zusatzbeitrag Minergie-A</td><td>10 Fr./m² EBF</td><td>10 Fr./m² EBF</td><td>10 Fr./m² EBF</td></tr>
-<tr><td>Zusatzbeitrag ECO</td><td>5 Fr./m² EBF</td><td>5 Fr./m² EBF</td><td>5 Fr./m² EBF</td></tr>
-</table>
+**…**
 
 #### Art. 53
 
-**Neubau GEAK A/A (M-017 HFM 2015)**
-
-<sup>1</sup> Das Gebäude ist förderberechtigt, wenn es über einen GEAK der Effizienzklasse A für die Gebäudehülle und die Gesamtenergieeffizienz verfügt.
-
-<sup>2</sup> Die Finanzhilfe wird nach folgenden Grundsätzen festgelegt:
-
-<table>
-<tr><th>Erreichter Standard</th><th>Einfamilienhaus</th><th>Mehrfamilienhaus</th><th>Nicht-Wohnbau</th></tr>
-<tr><td>GEAK A/A</td><td>65 Fr./m² EBF</td><td>35 Fr./m² EBF</td><td>25 Fr./m² EBF</td></tr>
-</table>
+**…**
 
 #### Art. 54
 
@@ -838,6 +818,21 @@ beschliesst:
 <sup>5</sup> Finanzhilfen werden erst ausbezahlt, wenn das Amt die detaillierte Abrechnung erhalten und kontrolliert hat; bei Holzheizungen muss zusätzlich die Bestätigung des Amtes für Umwelt über die Einhaltung der Luftreinhalte-Verordnung des Bundes (LRV) mitgeliefert werden. Die Zahlungen werden im Rahmen der im Staatshaushalt zur Verfügung stehenden Mittel ausgeführt.
 
 <sup>6</sup> Die Beitragsempfänger sind während fünf Jahren nach Inbetriebnahme der Anlagen verpflichtet, auf Verlangen des Amts Betriebsbilanzen für diese Anlagen vorzulegen.
+
+#### Art. 56a
+
+**Höchstbetrag der Finanzhilfen**
+
+<sup>1</sup> Die Finanzhilfe für die Massnahmen nach Buchstaben a-h beträgt höchstens 100'000 Franken pro Massnahme.
+
+- a) M-01 (Art. 42);
+- b) M-03 (Art. 44);
+- c) M-04 (Art. 45);
+- d) M-06 (Art. 47);
+- e) M-07 (Art. 48);
+- f) M-10 (Art. 50);
+- g) M-12 (Art. 51);
+- h) M-18 (Art. 54).
 
 #### Art. 57
 

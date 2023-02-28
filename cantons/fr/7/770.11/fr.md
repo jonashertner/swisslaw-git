@@ -4,13 +4,13 @@ number: "770.11"
 title: "Règlement sur l'énergie"
 short: REn
 language: fr
-version: 2022-07-01
-valid_until: 2023-02-28
-version_adopted: 2022-06-14
+version: 2023-03-01
+valid_until: 2023-06-30
+version_adopted: 2023-02-14
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7506/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7731/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Energie – R
 
 (REn)
 
-du 05.11.2019 (version entrée en vigueur le 01.07.2022)
+du 05.11.2019 (version entrée en vigueur le 01.03.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -734,31 +734,11 @@ Arrête:
 
 #### Art. 52
 
-**Nouvelle construction Minergie-P (M-016 ModEnHa 2015)**
-
-<sup>1</sup> Pour que la mesure soit subventionnable, le certificat Minergie-P doit être fourni pour le bâtiment.
-
-<sup>2</sup> L'aide financière est fixée selon les principes suivants:
-
-<table>
-<tr><th>Standard atteint</th><th>Maison individuelle</th><th>Immeuble collectif</th><th>Bâtiment non-habitat</th></tr>
-<tr><td>Minergie-P</td><td>75 Fr./m² SRE</td><td>40 Fr./m² SRE</td><td>30 Fr./m² SRE</td></tr>
-<tr><td>Bonus-A</td><td>10 Fr./m² SRE</td><td>10 Fr./m² SRE</td><td>10 Fr./m² SRE</td></tr>
-<tr><td>Bonus-ECO</td><td>5 Fr./m² SRE</td><td>5 Fr./m² SRE</td><td>5 Fr./m² SRE</td></tr>
-</table>
+**…**
 
 #### Art. 53
 
-**Nouvelle construction CECB A/A (M-017 ModEnHa 2015)**
-
-<sup>1</sup> Pour que la mesure soit subventionnable, le certificat CECB A pour l'enveloppe et pour l'efficacité énergétique globale doit être fourni pour le bâtiment.
-
-<sup>2</sup> L'aide financière est fixée selon les principes suivants:
-
-<table>
-<tr><th>Standard atteint</th><th>Maison individuelle</th><th>Immeuble collectif</th><th>Bâtiment non-habitat</th></tr>
-<tr><td>CECB A/A</td><td>65 Fr./m² SRE</td><td>35 Fr./m² SRE</td><td>25 Fr./m² SRE</td></tr>
-</table>
+**…**
 
 #### Art. 54
 
@@ -838,6 +818,21 @@ Arrête:
 <sup>5</sup> Les aides financières ne sont versées qu'après réception et contrôle, par le Service, du décompte détaillé et, pour les installations de chauffage au bois, de l'attestation de conformité à l'ordonnance fédérale sur la protection de l'air (OPair), établie par le Service de l'environnement. Les versements se font dans les limites des disponibilités budgétaires de l'Etat.
 
 <sup>6</sup> A la demande du Service, et pendant les cinq années qui suivent la date de mise en service, les bénéficiaires d'une aide financière peuvent être tenus de présenter les bilans d'exploitation des installations.
+
+#### Art. 56a
+
+**Plafond des aides**
+
+<sup>1</sup> L'aide pour les mesures mentionnées aux lettres a à h du présent alinéa est plafonnée à 100'000 francs par mesure.
+
+- a) M-01 (art. 42);
+- b) M-03 (art. 44);
+- c) M-04 (art. 45);
+- d) M-06 (art. 47);
+- e) M-07 (art. 48);
+- f) M-10 (art. 50);
+- g) M-12 (art. 51);
+- h) M-18 (art. 54).
 
 #### Art. 57
 
