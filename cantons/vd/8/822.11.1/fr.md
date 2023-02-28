@@ -4,7 +4,7 @@ number: "822.11.1"
 title: "RÈGLEMENT du 07.12.2005 d'application de la loi du 5 juillet 2005 sur l'emploi (RLEmp)"
 short: RLEmp
 language: fr
-version: 2022-01-01
+version: 2023-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/822.11.1?id=074bb949-3cac-4798-8e6f-a598204bedf0"
 ---
 
@@ -426,7 +426,7 @@ arrête
 
 **Taux de cotisation (Art. 19m, al. 2 LEmp) [^10i-1]**
 
-<sup>1</sup> Le taux de cotisation prélevé sur les indemnités de chômage, ainsi que sur les prestations versées au titre de l'APGM, est fixé à 1.8%.
+<sup>1</sup> Le taux de cotisation prélevé sur les indemnités de chômage, ainsi que sur les prestations versées au titre de l'APGM, est fixé à 2.8%.
 
 [^10i-1]: Modif. 6 du 22.02.2012: Introduction Art. 10j; entrée en vigueur au 01.04.2012 · Modif. 7 du 19.06.2013: Modification Al. 1; entrée en vigueur au 01.08.2013 · Modif. 8 du 28.10.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 08.03.2017: Modification Al. 1; entrée en vigueur au 01.04.2017 · Modif. 12 du 25.11.2020: Modification Al. 1; entrée en vigueur au 01.01.2021 · Modif. 13 du 10.11.2021: Modification Al. 1; entrée en vigueur au 01.01.2022 · Modif. 15 du 01.03.2023: Modification Al. 1; entrée en vigueur au 01.03.2023 · Modif. 16 du 27.03.2024: Modification Al. 1; entrée en vigueur au 01.04.2024
 
