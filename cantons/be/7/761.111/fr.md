@@ -4,13 +4,12 @@ number: "761.111"
 title: Ordonnance cantonale sur la circulation routière
 short: OCCR
 language: fr
-version: 2022-01-01
-valid_until: 2023-02-28
-version_adopted: 2021-11-24
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 2004-10-20
 in_force: 2005-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/761.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2445/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2796/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2445/pdf_file"
 
 (OCCR)
 
-du 20.10.2004 (état au 01.01.2022)
+du 20.10.2004 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -199,7 +198,7 @@ arrête:
 
 <sup>1</sup> Les personnes chargées de procéder aux examens de médecine ou de psychologie du trafic sont tenues d'annoncer sans délai les résultats à l'autorité compétente en matière de circulation routière.
 
-<sup>2</sup> Les médecins peuvent être tenus d'échanger avec l'autorité compétente en matière de circulation routière toutes les informations liées aux résultats d'examens de médecine du trafic et aux contrôles réalisés sur une plate-forme électronique créée dans ce but. À cet effet, l'autorité fixe un délai transitoire d'une durée appropriée.
+<sup>2</sup> …
 
 #### Art. 12l
 
@@ -243,7 +242,7 @@ arrête:
 
 <sup>2</sup> Ils sont tenus d’annoncer à l’autorité compétente en matière de circulation routière les changements survenant à court terme dans leur offre. L’annonce se fait selon les exigences de l’autorité compétente en matière de circulation routière.
 
-<sup>2a</sup> L'autorité compétente en matière de circulation routière peut rendre obligatoire l'utilisation d'une plate-forme électronique pour les annonces et les communications effectuées dans le cadre de l'obligation de collaborer et pour l'échange d'informations.
+<sup>2a</sup> …
 
 <sup>3</sup> Les coûts et émoluments liés à la surveillance et aux contrôles sont également dus lorsque les détenteurs et détentrices d’écoles de conduite ou les moniteurs et monitrices de conduite n’ont pas, ou pas de manière suffisante, rempli leurs obligations d’annonce et de collaboration.
 
@@ -460,7 +459,7 @@ arrête:
 
 <sup>1</sup> L'admission d'un véhicule de remplacement pendant 72 heures peut être autorisée par voie électronique aux détenteurs et détentrices de plaques professionnelles.
 
-<sup>2</sup> La demande doit être déposée impérativement sur la plate-forme informatique mise à disposition par l'autorité compétente en matière de circulation routière, accompagnée de l'ensemble des données nécessaires à l'autorisation.
+<sup>2</sup> La demande doit être déposée accompagnée de l'ensemble des données nécessaires à l'autorisation.
 
 <sup>3</sup> L'autorité compétente en matière de circulation routière peut renoncer à exiger la remise du permis de circulation du véhicule à remplacer et la restitution de l'autorisation. L'autorisation délivrée par voie électronique doit être emportée lors de chaque course à des fins de contrôle.
 
@@ -494,25 +493,25 @@ arrête:
 
 **Communication des données à la police**
 
-<sup>1</sup> Les autorités pénales, la police et les autorités communales assumant des tâches de police peuvent consulter les données de l’autorité compétente en matière de circulation routière par procédure d’appel électronique afin de contrôler si les conducteurs et conductrices de véhicules sont titulaires d’une autorisation de circuler et si les véhicules sont admis à la circulation, de même que pour identifier les détenteurs et détentrices de véhicules.
+<sup>1</sup> Les autorités pénales, la police et les autorités communales assumant des tâches de police peuvent consulter les données de l’autorité compétente en matière de circulation routière par procédure d’appel afin de contrôler si les conducteurs et conductrices de véhicules sont titulaires d’une autorisation de circuler et si les véhicules sont admis à la circulation, de même que pour identifier les détenteurs et détentrices de véhicules.
 
 #### Art. 38a
 
 **Communication de données aux services d'aide sociale**
 
-<sup>1</sup> Les services d'aide sociale peuvent consulter par procédure d'appel électronique les données relatives aux véhicules auprès de l'autorité compétente en matière de circulation routière, afin de contrôler la légitimité de prestations d'aide sociale.
+<sup>1</sup> Les services d'aide sociale peuvent consulter par procédure d'appel les données relatives aux véhicules auprès de l'autorité compétente en matière de circulation routière, afin de contrôler la légitimité de prestations d'aide sociale.
 
 #### Art. 38b
 
 **Communication de données aux offices des poursuites et des faillites**
 
-<sup>1</sup> Les offices des poursuites et des faillites du canton de Berne peuvent consulter par une procédure d’appel informatisée les données dont dispose l’autorité compétente en matière de circulation routière concernant les véhicules, afin d’établir la valeur des biens réalisables des créanciers ou créancières dans le cadre d’une procédure de poursuite et de faillite.
+<sup>1</sup> Les offices des poursuites et des faillites du canton de Berne peuvent consulter par une procédure d’appel les données dont dispose l’autorité compétente en matière de circulation routière concernant les véhicules, afin d’établir la valeur des biens réalisables des créanciers ou créancières dans le cadre d’une procédure de poursuite et de faillite.
 
 #### Art. 38c
 
 **Communication de données à l'Intendance des impôts**
 
-<sup>1</sup> Afin de mener les procédures de taxation prévues par le droit fiscal, l'Intendance des impôts du canton de Berne peut consulter par une procédure d'appel informatisée les données dont dispose l'autorité compétente en matière de circulation routière concernant les véhicules.
+<sup>1</sup> Afin de mener les procédures de taxation prévues par le droit fiscal, l'Intendance des impôts du canton de Berne peut consulter par une procédure d'appel les données dont dispose l'autorité compétente en matière de circulation routière concernant les véhicules.
 
 <sup>2</sup> La consultation des données est réservée aux secteurs qui ont besoin de connaître l'identité du détenteur ou de la détentrice d'un véhicule pour accomplir leurs tâches. Chaque consultation doit faire l'objet d'un procès-verbal. Les procès-verbaux sont détruits après six mois.
 
@@ -520,7 +519,7 @@ arrête:
 
 **Communication des données pour des raisons de contrôle**
 
-<sup>1</sup> L’autorité compétente en matière de circulation routière peut permettre à des centres d’expertises privés ou extra-cantonaux qui effectuent le contrôle officiel des véhicules de consulter les données nécessaires par procédure d’appel électronique.
+<sup>1</sup> L’autorité compétente en matière de circulation routière peut permettre à des centres d’expertises privés ou extra-cantonaux qui effectuent le contrôle officiel des véhicules de consulter les données nécessaires par procédure d’appel.
 
 #### Art. 40–42
 
@@ -610,7 +609,7 @@ arrête:
 
 <sup>2</sup> Les autorisations sont délivrées par l’autorité compétente en matière de circulation routière, qui détermine aussi les conditions et les charges après consultation d’autres autorités intéressées.
 
-<sup>2a</sup> Les requérants et requérantes peuvent être tenus d'utiliser la voie électronique pour échanger les documents requis et des informations complémentaires avec l'autorité compétente en matière de circulation routière en vue de l'octroi de l'autorisation.
+<sup>2a</sup> Les requérants et requérantes sont tenus d'utiliser la voie électronique pour échanger les documents requis et des informations complémentaires avec l'autorité compétente en matière de circulation routière en vue de l'octroi de l'autorisation.
 
 <sup>3</sup> L’approbation des communes concernées est requise lorsque les manifestations ou compétitions sportives se déroulent sur des routes communales.
 

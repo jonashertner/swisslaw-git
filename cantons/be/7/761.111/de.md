@@ -4,13 +4,12 @@ number: "761.111"
 title: Strassenverkehrsverordnung
 short: StrVV
 language: de
-version: 2022-01-01
-valid_until: 2023-02-28
-version_adopted: 2021-11-24
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 2004-10-20
 in_force: 2005-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/761.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2445/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2796/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2445/pdf_file"
 
 (StrVV)
 
-vom 20.10.2004 (Stand 01.01.2022)
+vom 20.10.2004 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -199,7 +198,7 @@ beschliesst:
 
 <sup>1</sup> Die mit verkehrsmedizinischen und verkehrspsychologischen Untersuchungen betrauten Personen sind verpflichtet, ihre Untersuchungsergebnisse unmittelbar an die Strassenverkehrsbehörde zu übermitteln.
 
-<sup>2</sup> Die Ärztinnen und Ärzte können verpflichtet werden, alle Informationen im Zusammenhang mit verkehrsmedizinischen Untersuchungsergebnissen und Abklärungen auf einer besonders dafür geschaffenen elektronischen Plattform mit der Strassenverkehrsbehörde auszutauschen. Die Behörde legt dafür eine angemessene Übergangsfrist fest.
+<sup>2</sup> …
 
 #### Art. 12l
 
@@ -243,7 +242,7 @@ beschliesst:
 
 <sup>2</sup> Sie sind verpflichtet, kurzfristige Änderungen im Kursangebot der Strassenverkehrsbehörde mitzuteilen. Die Mitteilung erfolgt gemäss den Vorgaben der Strassenverkehrsbehörde.
 
-<sup>2a</sup> Für Meldungen und Mitteilungen im Rahmen der Mitwirkungspflichten sowie den Informationsaustausch kann die Strassenverkehrsbehörde die Nutzung einer elektronischen Plattform verbindlich erklären.
+<sup>2a</sup> …
 
 <sup>3</sup> Die mit der Aufsicht und der Überprüfungstätigkeit verbundenen Kosten und Gebühren sind auch dann geschuldet, wenn die Inhaberinnen und Inhaber von Fahrschulen oder die Fahrlehrerinnen und Fahrlehrer ihren Mitwirkungs- und Meldepflichten nicht oder ungenügend nachkommen.
 
@@ -458,7 +457,7 @@ beschliesst:
 
 <sup>1</sup> Die Zulassung eines Ersatzfahrzeugs während 72 Stunden kann Inhaberinnen und Inhabern eines Händlerschilds in elektronischer Form bewilligt werden.
 
-<sup>2</sup> Das Gesuch ist zwingend auf der von der Strassenverkehrsbehörde zur Verfügung gestellten Informatikplattform mit allen für die Bewilligung erforderlichen Angaben einzureichen.
+<sup>2</sup> Das Gesuch ist mit allen für die Bewilligung erforderlichen Angaben einzureichen.
 
 <sup>3</sup> Auf eine Hinterlegung des Ausweises des Originalfahrzeugs sowie auf eine Rückgabe der Bewilligung kann verzichtet werden. Die elektronisch erteilte Bewilligung ist auf der Fahrt für Kontrollzwecke mitzuführen.
 
@@ -492,25 +491,25 @@ beschliesst:
 
 **Bekanntgabe von Daten zu polizeilichen Zwecken**
 
-<sup>1</sup> Strafbehörden, Polizeistellen und mit Polizeiaufgaben betraute Bewilligungsbehörden der Gemeinden erhalten für die Kontrolle der Fahrberechtigung der Fahrzeuglenkerinnen und Fahrzeuglenker, der Verkehrsberechtigung von Fahrzeugen sowie für die Identifikation der Fahrzeughalterinnen und Fahrzeughalter im elektronischen Abrufverfahren Lesezugriff auf die Daten der Strassenverkehrsbehörde.
+<sup>1</sup> Strafbehörden, Polizeistellen und mit Polizeiaufgaben betraute Bewilligungsbehörden der Gemeinden erhalten für die Kontrolle der Fahrberechtigung der Fahrzeuglenkerinnen und Fahrzeuglenker, der Verkehrsberechtigung von Fahrzeugen sowie für die Identifikation der Fahrzeughalterinnen und Fahrzeughalter im Abrufverfahren Lesezugriff auf die Daten der Strassenverkehrsbehörde.
 
 #### Art. 38a
 
 **Bekanntgabe von Daten an Sozialdienste**
 
-<sup>1</sup> Die Sozialdienste erhalten für die Kontrolle der Berechtigung von Sozialhilfeleistungen im elektronischen Abrufverfahren Lesezugriff auf die Fahrzeugdaten der Strassenverkehrsbehörde.
+<sup>1</sup> Die Sozialdienste erhalten für die Kontrolle der Berechtigung von Sozialhilfeleistungen im Abrufverfahren Lesezugriff auf die Fahrzeugdaten der Strassenverkehrsbehörde.
 
 #### Art. 38b
 
 **Bekanntgabe von Daten an Betreibungs- und Konkursämter**
 
-<sup>1</sup> Die Betreibungs- und Konkursämter des Kantons Bern erhalten zur Feststellung von verwertbaren Vermögenswerten von Schuldnerinnen und Schuldnern in Betreibungs- und Konkursverfahren im elektronischen Abrufverfahren Lesezugriff auf die Fahrzeugdaten der Strassenverkehrsbehörde.
+<sup>1</sup> Die Betreibungs- und Konkursämter des Kantons Bern erhalten zur Feststellung von verwertbaren Vermögenswerten von Schuldnerinnen und Schuldnern in Betreibungs- und Konkursverfahren im Abrufverfahren Lesezugriff auf die Fahrzeugdaten der Strassenverkehrsbehörde.
 
 #### Art. 38c
 
 **Bekanntgabe von Daten an die Steuerverwaltung**
 
-<sup>1</sup> Zur Durchführung der steuerrechtlichen Veranlagungsverfahren erhält die Steuerverwaltung des Kantons Bern Lesezugriff im elektronischen Abrufverfahren auf die Fahrzeugdaten der Strassenverkehrsbehörde.
+<sup>1</sup> Zur Durchführung der steuerrechtlichen Veranlagungsverfahren erhält die Steuerverwaltung des Kantons Bern Lesezugriff im Abrufverfahren auf die Fahrzeugdaten der Strassenverkehrsbehörde.
 
 <sup>2</sup> Zugriff erhalten nur diejenigen Geschäftsbereiche, die zu ihrer Aufgabenerfüllung Kenntnis über die Fahrzeughaltereigenschaft benötigen. Die Zugriffe sind zu protokollieren. Die Protokolle werden nach sechs Monaten gelöscht.
 
@@ -518,7 +517,7 @@ beschliesst:
 
 **Bekanntgabe von Daten zu Prüfungszwecken**
 
-<sup>1</sup> Die Strassenverkehrsbehörde kann privaten oder ausserkantonalen Prüfstellen, die amtliche Prüfungen an Fahrzeugen durchführen, zum Zweck der Fahrzeugprüfung die dafür notwendigen Daten im elektronischen Abrufverfahren zugänglich machen.
+<sup>1</sup> Die Strassenverkehrsbehörde kann privaten oder ausserkantonalen Prüfstellen, die amtliche Prüfungen an Fahrzeugen durchführen, zum Zweck der Fahrzeugprüfung die dafür notwendigen Daten im Abrufverfahren zugänglich machen.
 
 #### Art. 40–42
 
@@ -606,7 +605,7 @@ beschliesst:
 
 <sup>2</sup> Die Bewilligungen werden durch die Strassenverkehrsbehörde erteilt. Diese legt nach Anhörung weiterer interessierter Behörden die erforderlichen Bedingungen und Auflagen fest.
 
-<sup>2a</sup> Die Gesuchstellerinnen und Gesuchsteller können verpflichtet werden, alle Gesuchsunterlagen und weiterführenden Informationen im Zusammenhang mit der Bewilligungserteilung in elektronischer Form mit der Strassenverkehrsbehörde auszutauschen.
+<sup>2a</sup> Die Gesuchstellerinnen und Gesuchsteller sind verpflichtet, alle Gesuchsunterlagen und weiterführenden Informationen im Zusammenhang mit der Bewilligungserteilung in elektronischer Form mit der Strassenverkehrsbehörde auszutauschen.
 
 <sup>3</sup> Sind Gemeindestrassen durch Veranstaltungen und Wettkämpfe betroffen, ist von der Organisatorin oder dem Organisator die Zustimmung der betroffenen Gemeinden beizubringen.
 
