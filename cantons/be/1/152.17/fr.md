@@ -4,13 +4,13 @@ number: "152.17"
 title: "Ordonnance sur la classification, la publication et l'archivage des documents relatifs aux affaires du Conseil-exécutif"
 short: "Ordonnance sur la classification, OCACE"
 language: fr
-version: 2019-01-01
-valid_until: 2023-02-28
-version_adopted: 2018-11-21
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-11
 adopted: 2013-03-13
 in_force: 2013-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.17"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1578/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2786/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1578/pdf_file"
 
 (Ordonnance sur la classification, OCACE)
 
-du 13.03.2013 (état au 01.01.2019)
+du 13.03.2013 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -98,7 +98,7 @@ arrête:
 
 <sup>1</sup> Sont classés internes les documents relatifs aux affaires du Conseil-exécutif qui ne relèvent ni de la catégorie «secret», ni de la catégorie «confidentiel», mais dont le contenu n’est pas publiable en raison d’intérêts dignes de protection.
 
-<sup>2</sup> Les documents qui servent à motiver la proposition faite au Conseil-exécutif et à forger l’avis de ses membres sont en principe classés au minimum dans la catégorie «interne» et ne sont pas publiés. En font en particulier partie la fiche signalétique signée par le membre du Conseil-exécutif compétent, les éventuelles lettres d’accompagnement et l’ensemble des documents du corapport.
+<sup>2</sup> Les documents qui servent à motiver la proposition faite au Conseil-exécutif et à forger l’avis de ses membres sont en principe classés au minimum dans la catégorie «interne» et ne sont pas publiés. En font en particulier partie la fiche signalétique approuvée par le membre du Conseil-exécutif compétent, les éventuelles lettres d’accompagnement et l’ensemble des documents du corapport.
 
 <sup>3</sup> La classification de documents dans la catégorie «interne» tient compte des principes de la législation sur l’information et la protection des données.
 

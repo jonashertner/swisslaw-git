@@ -4,13 +4,13 @@ number: "152.17"
 title: "Verordnung über die Klassifizierung, die Veröffentlichung und die Archivierung von Dokumenten zu Regierungsratsgeschäften"
 short: "Klassifizierungsverordnung, KRGV"
 language: de
-version: 2019-01-01
-valid_until: 2023-02-28
-version_adopted: 2018-11-21
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-11
 adopted: 2013-03-13
 in_force: 2013-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.17"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1578/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2786/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1578/pdf_file"
 
 (Klassifizierungsverordnung, KRGV)
 
-vom 13.03.2013 (Stand 01.01.2019)
+vom 13.03.2013 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -98,7 +98,7 @@ beschliesst:
 
 <sup>1</sup> Als «Intern» werden Dokumente zu Regierungsratsgeschäften klassifiziert, die weder als «Geheim» noch als «Vertraulich» klassifiziert werden müssen, deren Inhalt jedoch aufgrund schutzwürdiger Interessen nicht für die Veröffentlichung bestimmt oder geeignet ist.
 
-<sup>2</sup> Dokumente, die der Begründung des Antrags an den Regierungsrat und der Meinungsbildung im Regierungsrat dienen, gelten grundsätzlich zumindest als «Intern» klassifiziert und werden nicht öffentlich bekannt gemacht. Dazu gehören insbesondere das vom zuständigen Regierungsmitglied unterzeichnete Begleitblatt, allfällige Begleitschreiben sowie sämtliche Mitberichtsdokumente.
+<sup>2</sup> Dokumente, die der Begründung des Antrags an den Regierungsrat und der Meinungsbildung im Regierungsrat dienen, gelten grundsätzlich zumindest als «Intern» klassifiziert und werden nicht öffentlich bekannt gemacht. Dazu gehören insbesondere das vom zuständigen Regierungsmitglied genehmigte Begleitblatt, allfällige Begleitschreiben sowie sämtliche Mitberichtsdokumente.
 
 <sup>3</sup> Bei der Klassifizierung als «Intern» ist den Grundsätzen der Informations- und Datenschutzgesetzgebung Rechnung zu tragen.
 
