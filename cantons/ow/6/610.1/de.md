@@ -4,13 +4,12 @@ number: "610.1"
 title: Finanzhaushaltsgesetz
 short: FHG
 language: de
-version: 2021-01-01
-valid_until: 2023-02-28
-version_adopted: 2020-10-22
+version: 2023-03-01
+version_adopted: 2022-12-01
 adopted: 2010-03-11
 in_force: 2012-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/610.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1722/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1786/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1722/pdf_file"
 
 (FHG)
 
-vom 11.03.2010 (Stand 01.01.2021)
+vom 11.03.2010 (Stand 01.03.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -1171,7 +1170,7 @@ Maximales Budgetdefizit bzw. minimaler Budgetüberschuss (in Prozent des Fiskale
 
 **Berichterstattung**
 
-<sup>1</sup> Über die Prüfungen werden schriftliche Berichte erstellt.
+<sup>1</sup> Über die Prüfungen werden schriftliche Berichte erstellt. Diese unterliegen nicht dem Gesetz über das Öffentlichkeitsprinzip.
 
 <sup>2</sup> Bei Beanstandungen von erheblicher Bedeutung unterrichtet die Finanzkontrolle die zuständige Departementsvorsteherin oder den zuständigen Departementsvorsteher bzw. das Obergerichtspräsidium sowie das Finanzdepartement. Die Finanzkontrolle kann in ihrem Bericht Anträge stellen.
 
@@ -1406,6 +1405,8 @@ geändert durch:
 
 \- Nachtrag vom 17. Dezember 2018 (OGS 2018, 47, OGS 2019, 24), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratsprotokoll vom 5. und 17. Dezember 2018 (22.18.10), angenommen an der Volksabstimmung vom 19. Mai 2019 (OGS 2019, 11, OGS 2019, 24 bis 26), in Kraft seit 1. Januar 2019 (OGS 2019, 27),
 
-\- Nachtrag vom 22. Oktober 2020 (OGS 2020, 44), Botschaft und Vorlage des Regierungsrats vom 30. Juni 2020 (22.20.05), Kantonsratsprotokoll vom 10. September 2020 und 22. Oktober 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 50)
+\- Nachtrag vom 22. Oktober 2020 (OGS 2020, 44), Botschaft und Vorlage des Regierungsrats vom 30. Juni 2020 (22.20.05), Kantonsratsprotokoll vom 10. September 2020 und 22. Oktober 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 50),
+
+\- Gesetz über das Öffentlichkeitsprinzip vom 1. Dezember 2022 (OGS 2022, 29), Botschaft und Vorlage des Regierungsrats vom 13. Juni 2022, Kantonsratssitzungen vom 27. Oktober und 1. Dezember 2022 (22.22.01), in Kraft seit 1. März 2023 (OGS 2023, 1)
 
 OGS 2010, 13
