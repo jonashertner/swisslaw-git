@@ -4,13 +4,12 @@ number: III F/5
 title: Verordnung über die Bewährungshilfe
 short: Bewährungshilfeverordnung
 language: de
-version: 2014-09-01
-valid_until: 2023-02-28
-version_adopted: 2014-04-22
+version: 2023-03-01
+version_adopted: 2023-03-28
 adopted: 2007-02-06
 in_force: 2007-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-F.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/1512/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2417/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1512/pdf_file"
 
 (Bewährungshilfeverordnung)
 
-Vom 06.02.2007 (Stand 01.09.2014)
+Vom 06.02.2007 (Stand 01.03.2023)
 
 Der Regierungsrat,
 
@@ -36,17 +35,29 @@ verordnet:
 
 **Zweck**
 
-<sup>1</sup> Die Fachstelle Bewährungshilfe (Fachstelle) gewährleistet und vollzieht die Bewährungshilfe sowie die Kontrolle von Weisungen und von ambulanten Massnahmen.
+<sup>1</sup> Die Bewährungshilfe gewährleistet und vollzieht die Bewährungshilfe sowie die Kontrolle von Weisungen und von ambulanten Massnahmen.
 
-<sup>2</sup> Ziel und Inhalt orientieren sich am StGB und an den Richtlinien der Ostschweizer Strafvollzugskommission. Die Fachstelle arbeitet nach den neuesten Erkenntnissen in der Rückfallprävention.
+<sup>2</sup> Ziel und Inhalt orientieren sich am StGB[^1-1] und an den Richtlinien der Ostschweizer Strafvollzugskommission. Die Bewährungshilfe arbeitet nach den neuesten Erkenntnissen in der Rückfallprävention.
+
+[^1-1]: SR 311.0
 
 #### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Fachstelle besorgt ihre Aufgaben gegenüber Personen mit Wohnsitz im Kanton Glarus, insbesondere auch die von ausserkantonalen Behörden angeordneten und den Glarner Behörden übertragenen bewährungsdienstlichen Aufgaben.
+<sup>1</sup> Die Bewährungshilfe besorgt ihre Aufgaben gegenüber Personen mit Wohnsitz im Kanton Glarus, insbesondere auch die von ausserkantonalen Behörden angeordneten und den Glarner Behörden übertragenen bewährungsdienstlichen Aufgaben.
 
 <sup>2–3</sup> …
+
+#### Art. 2a
+
+**Organisation**
+
+<sup>1</sup> Die Bewährungshilfe bildet einen besonderen Dienst, ist Teil der Abteilung Justizvollzug und dieser unterstellt.
+
+<sup>2</sup> Die Abteilungsleitung entscheidet über die Beantragung der Delegation der Unterschriftsberechtigung gemäss Artikel 26 Absatz 3 der Regierungs- und Verwaltungsorganisationsverordnung[^2a-1].
+
+[^2a-1]: GS [II A/3/3](https://gesetze.gl.ch/data/II-A.3.3/de)
 
 ## 2.
 
@@ -54,18 +65,17 @@ verordnet:
 
 **Aufgaben**
 
-<sup>1</sup> Die Fachstelle hat namentlich folgende Aufgaben:
+<sup>1</sup> Die Bewährungshilfe hat namentlich folgende Aufgaben:
 
 - a. Überwachung der Einhaltung von Weisungen im Sinne des Artikels 94 StGB sowie der ambulanten Massnahmen im Sinne von Artikel 4 Absatz 2 der Vollzugsverordnung zum Strafprozess, zum Straf- und Massnahmenvollzug und zur Opferhilfe[^3-1];
-- b. Bewährungshilfe im Sinne von Artikel 93 sowie soziale Betreuung gemäss Artikel 96 StGB;
-- c. Erstberatung nach häuslicher Gewalt im Sinne von Artikel 16a Absatz 2 Polizeigesetz[^3-2];
+- b. Bewährungshilfe im Sinne von Artikel 93 StGB;
+- c. …
 - d. Durchführung von Kursen bei Bedarf.
 - e.
 
-<sup>2</sup> Die Fachstelle hilft insbesondere bei der Suche nach Unterkunft und Arbeit sowie bei der Sanierung der finanziellen Verhältnisse.
+<sup>2</sup> Die Bewährungshilfe hilft insbesondere bei der Suche nach Unterkunft und Arbeit sowie bei der Sanierung der finanziellen Verhältnisse.
 
 [^3-1]: GS [III F/7](https://gesetze.gl.ch/data/III-F.7/de)
-[^3-2]: GS [V A/11/1](https://gesetze.gl.ch/data/V-A.11.1/de)
 
 ## 3.
 
@@ -87,21 +97,21 @@ verordnet:
 
 <sup>2</sup> Der Widerruf des bedingten Strafvollzuges oder der bedingten Entlassung zieht die Beendigung der Bewährungshilfe nach sich.
 
-<sup>3</sup> Erachtet die Fachstelle aufgrund des guten Betreuungsverlaufs eine Weiterführung als unnötig, so kann sie bei der zuständigen Behörde die Aufhebung der Bewährungshilfe beantragen.
+<sup>3</sup> Erachtet die Bewährungshilfe aufgrund des guten Betreuungsverlaufs eine Weiterführung als unnötig, so kann sie bei der zuständigen Behörde die Aufhebung der Bewährungshilfe beantragen.
 
 #### Art. 6
 
 **Materielle Hilfe**
 
-<sup>1</sup> Zur Überbrückung von Notfällen kann die Fachstelle der verurteilten Person nach Ermessen Beiträge bis zum Betrag von 3000 Franken ausrichten. Die Beiträge unterliegen der Rückerstattungspflicht.
+<sup>1</sup> Zur Überbrückung von Notfällen kann die Bewährungshilfe der verurteilten Person nach Ermessen Beiträge bis zum Betrag von 3000 Franken ausrichten. Die Beiträge unterliegen der Rückerstattungspflicht.
 
-<sup>2</sup> Die Abteilung Soziale Dienste entscheidet über zu leistende Sicherheiten und über die Ausrichtung höherer Beiträge.
+<sup>2</sup> Die Abteilung Justizvollzug entscheidet über zu leistende Sicherheiten und über die Ausrichtung höherer Beiträge.
 
 #### Art. 7
 
 **Abklärungen für Behörden**
 
-<sup>1</sup> Die Fachstelle klärt auf Verlangen von Gerichten und Behörden die soziale Situation der verurteilten Person ab und erstattet Bericht.
+<sup>1</sup> Die Abteilung Soziale Dienste klärt auf Verlangen von Gerichten und Behörden die soziale Situation der verurteilten Person ab und erstattet Bericht.
 
 <sup>2–3</sup> …
 
@@ -109,61 +119,33 @@ verordnet:
 
 **Aufenthaltsnachforschung und Zuführung**
 
-<sup>1</sup> Entzieht sich die verurteilte Person der Bewährungshilfe oder ist ihr Aufenthalt unbekannt oder beides, kann die Fachstelle sie zur Aufenthaltserforschung polizeilich ausschreiben lassen und ihre polizeiliche Zuführung verlangen.
+<sup>1</sup> Die Bewährungshilfe kann die verurteilte Person zur Aufenthaltserforschung polizeilich ausschreiben lassen und ihre polizeiliche Zuführung verlangen, wenn sie sich der Bewährungshilfe entzieht oder ihr Aufenthalt unbekannt ist.
 
 #### Art. 9
 
 **Kontrolle von ambulanten Massnahmen und Weisungen**
 
-<sup>1</sup> Die Fachstelle überwacht die Einhaltung von ambulanten Massnahmen und Weisungen gestützt auf den Vollzugsauftrag.
+<sup>1</sup> Die Bewährungshilfe überwacht die Einhaltung von ambulanten Massnahmen und Weisungen gestützt auf den Vollzugsauftrag.
 
-<sup>2</sup> Hält die verurteilte Person die ambulante Massnahme oder die Weisung nicht ein, verwarnt die Fachstelle sie und macht dem Gericht oder der Vollzugsbehörde Mitteilung.
+<sup>2</sup> Die Bewährungshilfe verwarnt die verurteilte Person, wenn sie die ambulante Massnahme oder die Weisung nicht einhält. Sie teilt dies dem Gericht oder der Vollzugsbehörde mit.
 
-<sup>3</sup> Die Fachstelle berichtet der Vollzugsbehörde über den Verlauf der ambulanten Massnahme und die Weisungsbefolgung und empfiehlt das weitere Vorgehen, wenn die unter Bewährungshilfe stehende Person ihre Widerhandlungen fortsetzt.
+<sup>3</sup> Die Bewährungshilfe berichtet der Vollzugsbehörde über den Verlauf der ambulanten Massnahme und die Weisungsbefolgung und empfiehlt das weitere Vorgehen, wenn die unter Bewährungshilfe stehende Person ihre Widerhandlungen fortsetzt.
 
-#### Art. 10
+#### Art. 10–12
 
-**Bewährungshilfe bei bedingter Entlassung**
-
-<sup>1</sup> Die Fachstelle stimmt ihre Entlassungsvorbereitung mit den zuständigen Behörden des Straf- und Massnahmenvollzugs ab.
-
-<sup>2–3</sup> …
-
-#### Art. 11
-
-**Zutritt zum Gefängnis**
-
-<sup>1</sup> Die Fachstelle hat zu den Gefangenen gemäss den Vorschriften der Schweizerischen Strafprozessordnung und den Vorschriften der Vollzugsanstalten Zutritt, wobei der Besuch vorgängig der Staatsanwaltschaft und dem Gefängnispersonal zu melden ist.
-
-#### Art. 12
-
-**Zuständigkeit**
-
-<sup>1</sup> Die Fachstelle ist Teil der Sozialen Dienste und untersteht der oder dem Fachstellenverantwortlichen.
-
-<sup>2</sup> …
-
-<sup>3</sup> Die Fachstelle arbeitet mit Untersuchungs-, Gerichts- und Strafvollzugsbehörden sowie mit anderen Sozialbehörden zusammen.
+**…**
 
 #### Art. 13
 
 **Fallführung**
 
-<sup>1</sup> Die Fallführung der zu betreuenden Personen wird von der Fachstelle selbständig organisiert.
+<sup>1</sup> Die Fallführung der zu betreuenden Personen wird von der Bewährungshilfe selbstständig organisiert.
 
 ## 4. Schlussbestimmung
 
-#### Art. 14
+#### Art. 14–15
 
 **…**
-
-#### Art. 15
-
-**Aufsicht**
-
-<sup>1</sup> Die Fachstelle erstattet der Hauptabteilung Soziales jährlich über ihre Tätigkeit schriftlich Bericht.
-
-<sup>2</sup> Die Hauptabteilung Soziales erstattet dem Departementsvorsteher oder der Departementsvorsteherin jährlich Bericht.
 
 #### Art. 16
 
