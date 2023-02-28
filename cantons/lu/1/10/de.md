@@ -4,13 +4,13 @@ number: "10"
 title: Stimmrechtsgesetz
 short: StRG
 language: de
-version: 2021-01-01
-valid_until: 2023-02-28
-version_adopted: 2020-06-22
+version: 2023-03-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-28
 adopted: 1988-10-25
 in_force: 1989-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/10"
-pdf: "https://srl.lu.ch/api/de/versions/3680/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4051/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3680/pdf_file"
 
 (StRG)
 
-vom 25.10.1988 (Stand 01.01.2021)
+vom 25.10.1988 (Stand 01.03.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -244,6 +244,8 @@ beschliesst:
 <sup>1</sup> Die kantonalen Wahlen und Abstimmungen werden im Urnenverfahren durchgeführt.
 
 <sup>2</sup> Soweit die Stimmberechtigten nichts anderes beschliessen, vollziehen die Gemeinden ihre Abstimmungen im Versammlungsverfahren und ihre Wahlen im Urnenverfahren.
+
+<sup>2<sup>bis</sup></sup> Kann bei einer Katastrophe, in einer Notlage oder in einer vergleichbaren Situation wegen einer unmittelbar drohenden schweren Gefährdung oder Störung der öffentlichen Sicherheit und Ordnung oder der öffentlichen Gesundheit eine Gemeindeversammlung nicht ordnungsgemäss durchgeführt werden, so kann die Gemeindebehörde eine Abstimmung oder eine Wahl im Urnenverfahren anordnen.
 
 <sup>3</sup> Für die Wahl des Gemeinderates ist nur das Urnenverfahren zulässig.
 
@@ -602,6 +604,8 @@ beschliesst:
 <sup>4</sup> In der Gemeindeordnung kann die Gemeinde die Ernennung der Urnenbüropräsidenten und die Wahl der Urnenbüromitglieder abweichend regeln.
 
 <sup>5</sup> Den politischen Parteien ist bei der Bestellung der Urnenbüros eine angemessene Vertretung einzuräumen.
+
+<sup>6</sup> Kann bei einer Katastrophe, in einer Notlage oder in einer vergleichbaren Situation wegen einer unmittelbar drohenden schweren Gefährdung oder Störung der öffentlichen Sicherheit und Ordnung oder der öffentlichen Gesundheit die ordentliche Zusammensetzung des Urnenbüros nicht auf andere Weise sichergestellt werden, so kann die Gemeindebehörde für deren Dauer zusätzliche Urnenbüromitglieder wählen und aus den Mitgliedern weitere Urnenbüropräsidenten ernennen. Sie strebt dabei nach Möglichkeit eine Zusammensetzung des Urnenbüros nach Absatz 5 an.
 
 #### § 45
 
@@ -1847,13 +1851,25 @@ beschliesst:
 
 #### § 149
 
-**Massnahmen**
+**Massnahmen im Allgemeinen**
 
 <sup>1</sup> Werden bei der Stimmregisterführung, bei der Vorbereitung und Durchführung von Wahlen und Abstimmungen oder im Zusammenhang mit Volksbegehren Verfahrensmängel oder andere Unregelmässigkeiten festgestellt, trifft der Regierungsrat von Amtes wegen oder auf Beschwerde hin, soweit möglich, Massnahmen zur Behebung der Mängel. Er kann eine Wahl oder Abstimmung verschieben oder absagen.
 
 <sup>2</sup> Bei zeitlicher Dringlichkeit oder im Zusammenhang mit der Instruktion einer Stimmrechtsbeschwerde kann das Justiz- und Sicherheitsdepartement im Sinne von Absatz 1 Massnahmen treffen.
 
 <sup>3</sup> Der Regierungsrat kann nötigenfalls das Justiz- und Sicherheitsdepartement mit der Vorbereitung und Beaufsichtigung einer Wahl oder Abstimmung oder mit der Leitung einer Gemeindeversammlung beauftragen. Das Departement ist berechtigt, Dritte mit der Durchführung der Gemeindeversammlung zu beauftragen.
+
+#### § 149a
+
+**Massnahmen in ausserordentlichen Situationen**
+
+<sup>1</sup> Der Regierungsrat kann die notwendigen Massnahmen für die Sicherstellung eines geordneten Ablaufs bei der Wahrnehmung der politischen Rechte treffen, wenn dieser Ablauf bei einer Katastrophe, in einer Notlage oder in einer vergleichbaren Situation wegen einer unmittelbar drohenden schweren Gefährdung oder Störung der öffentlichen Sicherheit und Ordnung oder der öffentlichen Gesundheit beeinträchtigt werden könnte. Er kann eine Wahl oder Abstimmung verschieben oder absagen.
+
+<sup>2</sup> Der Regierungsrat kann bei den Massnahmen von gesetzlichen Bestimmungen abweichen, insbesondere hinsichtlich Fristen und Einzelheiten von Verfahren, wenn die Sicherstellung eines geordneten Ablaufs bei der Wahrnehmung der politischen Rechte dies erfordert. Die Abweichungen sind auf längstens zwei Jahre zu befristen. Eine Verlängerung um ein Jahr ist unter Vorbehalt der Genehmigung durch den Kantonsrat möglich.
+
+<sup>3</sup> Der Regierungsrat überprüft laufend, ob die Situation das Aufrechterhalten der Massnahme rechtfertigt. Massnahmen dürfen nur so lange gelten, als es die Sicherstellung eines geordneten Ablaufs bei der Wahrnehmung der politischen Rechte erfordert. Andernfalls sind sie durch den Regierungsrat umgehend aufzuheben.
+
+<sup>4</sup> Massnahmen zur Sicherstellung eines geordneten Ablaufs bei der Wahrnehmung der politischen Rechte in den Gemeinden ordnet der Regierungsrat nur an, soweit diese nicht selber in der Lage sind, deren ordnungsgemässe Ausübung sicherzustellen. Bei Anordnung, Überprüfung und Aufhebung solcher Massnahmen hat er die Gemeinden im Voraus anzuhören.
 
 #### § 150
 
