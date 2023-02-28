@@ -4,13 +4,13 @@ number: "731.11"
 title: Verordnung zum Planungs- und Baugesetz
 short: PBV
 language: de
-version: 2021-10-01
-valid_until: 2023-02-28
-version_adopted: 2021-06-29
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-13
 adopted: 2017-06-27
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3240/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3443/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3240/pdf_file"
 
 (PBV)
 
-vom 27.06.2017 (Stand 01.10.2021)
+vom 27.06.2017 (Stand 01.03.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -262,5 +262,13 @@ als Verordnung:[^ingress-2]
 <sup>3</sup> Mit der Selbstdeklaration sichert die Bauherrschaft zu, dass die Baubewilligung einschliesslich der darin enthaltenen Bedingungen und Auflagen eingehalten worden ist.
 
 <sup>4</sup> Die Bauherrschaft meldet der Baubehörde Abweichungen von den bewilligten Plänen vor der Ausführung und lässt die Abweichungen bewilligen.
+
+### 4. Rechtsmittel
+
+#### Art. 25
+
+**Rekurs und Beschwerde bei Entscheiden zur Beseitigung oder Beeinträchtigung von Schutzobjekten von nationaler oder kantonaler Bedeutung (Art. 157a PBG)**
+
+<sup>1</sup> Das Amt für Kultur ist zuständige Stelle für die Erhebung von Rekursen gegen Entscheide der politischen Gemeinden zur Beseitigung oder Beeinträchtigung von Schutzobjekten von nationaler oder kantonaler Bedeutung nach Art. 122 Abs. 3 PBG und die Erhebung von Beschwerden gegen diesbezügliche Entscheide des zuständigen Departementes.
 
 nGS 2017-050
