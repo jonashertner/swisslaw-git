@@ -4,13 +4,13 @@ number: "935.520"
 title: "Ordonnance cantonale sur les jeux d'argent"
 short: OCJAr
 language: fr
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-16
+version: 2023-03-01
+valid_until: 2026-04-30
+version_adopted: 2023-01-11
 adopted: 2020-12-02
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.520"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2741/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2801/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2741/pdf_file"
 
 (OCJAr)
 
-du 02.12.2020 (état au 01.01.2023)
+du 02.12.2020 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -73,7 +73,7 @@ arrête:
 
 <sup>1</sup> Les personnes morales qui demandent l'autorisation d'exploiter un jeu de petite envergure remettent
 
-- a le formulaire officiel de demande dûment complété sous forme électronique;
+- a le formulaire officiel de demande dûment complété;
 - b des informations sur la conception et l'exploitation du jeu des points de vue technique, organisationnel et financier (plan de jeu), afin de démontrer le respect des prescriptions fédérales et cantonales;
 - c un programme de protection s'agissant des petits tournois de poker, conformément à l'article 39, alinéa 7 de l'ordonnance fédérale du 7 novembre 2018 sur les jeux d'argent (OJAr)[^4-1].
 
@@ -82,7 +82,7 @@ arrête:
 - a les documents et informations visés à l'alinéa 1 doivent en tenir compte;
 - b la convention de délégation doit être jointe au dossier.
 
-<sup>3</sup> La demande doit être déposée sous forme électronique au moyen du formulaire officiel accompagné des documents requis.
+<sup>3</sup> …
 
 [^4-1]: RS [935.511](https://db.clex.ch/link/Bund/935.511/fr)
 
@@ -207,7 +207,7 @@ arrête:
 
 <sup>1</sup> Les lotos et les tombolas doivent être annoncés au Secrétariat général de la Direction de la sécurité au moins 30 jours à l'avance.
 
-<sup>2</sup> L'annonce est transmise sous forme électronique au moyen du formulaire officiel et comporte au moins
+<sup>2</sup> L'annonce est transmise au moyen du formulaire officiel et comporte au moins
 
 - a les noms de l'exploitant et de la personne responsable,
 - b la date et le lieu de la manifestation,
@@ -242,7 +242,7 @@ arrête:
 
 **Procédure**
 
-<sup>1</sup> La demande visant l'exploitation d'un pari sportif local doit être déposée auprès du Secrétariat général de la Direction de la sécurité au moins 60 jours à l'avance sous forme électronique au moyen du formulaire officiel accompagné des documents requis.
+<sup>1</sup> La demande visant l'exploitation d'un pari sportif local doit être déposée, accompagnée des documents requis, au moins 60 jours à l'avance auprès du Secrétariat général de la Direction de la sécurité.
 
 <sup>2</sup> Le décompte est régi par l'article 38 de la loi fédérale du 29 septembre 2017 sur les jeux d'argent (LJAr)[^20-1].
 
@@ -270,7 +270,7 @@ arrête:
 
 **Procédure**
 
-<sup>1</sup> La demande visant l'exploitation d'un petit tournoi de poker doit être déposée auprès du Secrétariat général de la Direction de la sécurité sous forme électronique au moyen du formulaire officiel accompagné des documents requis deux mois à l'avance pour une période de trois mois, soit
+<sup>1</sup> La demande visant l'exploitation d'un petit tournoi de poker doit être déposée auprès du Secrétariat général de la Direction de la sécurité, accompagnée des documents requis deux mois à l'avance pour une période de trois mois, soit
 
 - a fin octobre pour le premier trimestre (de janvier à mars),
 - b fin janvier pour le deuxième trimestre (d'avril à juin),
@@ -429,7 +429,7 @@ arrête:
 
 **Dépôt de la demande**
 
-<sup>1</sup> La demande de subvention doit être déposée dans les délais prescrits auprès du Secrétariat général de la Direction de la sécurité sous forme électronique au moyen du formulaire officiel dûment complété et accompagné des documents requis.
+<sup>1</sup> La demande de subvention doit être déposée, accompagné des documents requis, dans les délais prescrits auprès du Secrétariat général de la Direction de la sécurité.
 
 <sup>2</sup> Le Secrétariat général de la Direction de la sécurité indique les documents requis pour les différents domaines d'affectation.
 
@@ -674,7 +674,7 @@ arrête:
 
 **Versement et restitution**
 
-<sup>1</sup> Après réception, sous forme électronique, du formulaire officiel accompagné des documents requis, les subventions sont versées
+<sup>1</sup> Après réception du formulaire officiel accompagné des documents requis, les subventions sont versées
 
 - a à hauteur de 35 pour cent une fois la décision rendue,
 - b à hauteur de 35 pour cent une fois le premier décompte intermédiaire établi,
@@ -1018,7 +1018,7 @@ arrête:
 
 **Demandes de subvention pour des compétitions sportives**
 
-<sup>1</sup> La demande doit être déposée sous forme électronique auprès du Secrétariat général de la Direction de la sécurité avec les documents requis et définitifs au plus tard à la fin de l'année civile suivant la compétition sportive.
+<sup>1</sup> La demande doit être déposée auprès du Secrétariat général de la Direction de la sécurité avec les documents requis et définitifs au plus tard à la fin de l'année civile suivant la compétition sportive.
 
 #### Art. 88
 
@@ -1087,7 +1087,7 @@ arrête:
 
 <sup>2</sup> Les frais de gestion sont mis à la charge des fonds et approuvés par le Conseil-exécutif et le Grand Conseil dans le cadre des comptes annuels.
 
-<sup>3</sup> La double signature est nécessaire pour disposer des moyens des fonds. Les dispositions pertinentes de l'ordonnance du 16 novembre 2022 sur les finances (OFin)[^93-1] s'appliquent par analogie.
+<sup>3</sup> ​L'autorisation de deux personnes est nécessaire pour disposer des moyens des fonds. Les dispositions pertinentes de l'ordonnance du 16 novembre 2022 sur les finances (OFin)[^93-1] s'appliquent par analogie.
 
 [^93-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
@@ -1102,6 +1102,12 @@ arrête:
 <sup>3</sup> Aucun intérêt négatif n'est prélevé.
 
 <sup>4</sup> Si un fonds présente un solde négatif, des intérêts passifs sont dus conformément au taux d'intérêt que la Banque cantonale bernoise pratique dans le canton pour les comptes courants de crédit.
+
+## 5a Traitement des affaires sous forme numérique
+
+#### Art. 94a
+
+<sup>1</sup> Les demandes au sens de la présente ordonnance et les documents requis doivent être déposés sous forme numérique au moyen du formulaire prévu à cet effet sur le site Internet de la Direction de la sécurité.
 
 ## 6 Dispositions transitoires
 

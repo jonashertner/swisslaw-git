@@ -4,13 +4,13 @@ number: "935.520"
 title: Kantonale Geldspielverordnung
 short: KGSV
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-16
+version: 2023-03-01
+valid_until: 2026-04-30
+version_adopted: 2023-01-11
 adopted: 2020-12-02
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.520"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2741/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2801/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2741/pdf_file"
 
 (KGSV)
 
-vom 02.12.2020 (Stand 01.01.2023)
+vom 02.12.2020 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -73,7 +73,7 @@ beschliesst:
 
 <sup>1</sup> Juristische Personen, die um eine Bewilligung zur Durchführung eines Kleinspiels ersuchen, haben folgende Unterlagen einzureichen:
 
-- a vollständig ausgefülltes Gesuch auf dem amtlichen Formular in elektronischer Form,
+- a vollständig ausgefülltes Gesuchsformular,
 - b Angaben über die Konzeption und Durchführung in spieltechnischer, organisatorischer und finanzieller Hinsicht (Spielkonzept), die über die Einhaltung der eidgenössischen und kantonalen Vorgaben Auskunft geben,
 - c Schutzkonzept bei kleinen Pokerturnieren gemäss Artikel 39 Absatz 7 der eidgenössischen Verordnung vom 7. November 2018 über Geldspiele (Geldspielverordnung, VGS)[^4-1].
 
@@ -82,7 +82,7 @@ beschliesst:
 - a ist dies in den Unterlagen gemäss Absatz 1 zu berücksichtigen und
 - b ist die Übertragungsvereinbarung beizulegen.
 
-<sup>3</sup> Das Gesuch ist mit den Beilagen auf dem amtlichen Formular in elektronischer Form einzureichen.
+<sup>3</sup> …
 
 [^4-1]: SR [935.511](https://db.clex.ch/link/Bund/935.511/de)
 
@@ -207,7 +207,7 @@ beschliesst:
 
 <sup>1</sup> Tombolas und Lottos sind beim Generalsekretariat der Sicherheitsdirektion bis spätestens 30 Tage vor der Durchführung zu melden.
 
-<sup>2</sup> Die Meldung erfolgt elektronisch mit dem amtlichen Formular und enthält mindestens
+<sup>2</sup> Die Meldung erfolgt mit dem amtlichen Formular und enthält mindestens
 
 - a den Namen der Veranstalterin oder des Veranstalters und der verantwortlichen Person,
 - b den Zeitpunkt und den Ort der Durchführung,
@@ -242,7 +242,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Gesuch um Durchführung einer lokalen Sportwette ist spätestens 60 Tage vor der Veranstaltung mit dem elektronischen Formular und unter Beilage der erforderlichen Unterlagen beim Generalsekretariat der Sicherheitsdirektion einzureichen.
+<sup>1</sup> Das Gesuch um Durchführung einer lokalen Sportwette ist spätestens 60 Tage vor der Veranstaltung unter Beilage der erforderlichen Unterlagen beim Generalsekretariat der Sicherheitsdirektion einzureichen.
 
 <sup>2</sup> Für die Abrechnung gelten die Vorgaben gemäss Artikel 38 des Bundesgesetzes vom 29. September 2017 über Geldspiele (Geldspielgesetz, BGS)[^20-1].
 
@@ -270,7 +270,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Gesuch um Durchführung eines kleinen Pokerturniers ist mit dem elektronischen Formular und unter Beilage der erforderlichen Unterlagen beim Generalsekretariat der Sicherheitsdirektion zwei Monate im Voraus für eine gestaffelte dreimonatige Periode wie folgt einzureichen:
+<sup>1</sup> Das Gesuch um Durchführung eines kleinen Pokerturniers ist unter Beilage der erforderlichen Unterlagen beim Generalsekretariat der Sicherheitsdirektion zwei Monate im Voraus für eine gestaffelte dreimonatige Periode wie folgt einzureichen:
 
 - a per Ende Oktober für das erste Quartal (Januar bis März),
 - b per Ende Januar für das zweite Quartal (April bis Juni),
@@ -429,7 +429,7 @@ beschliesst:
 
 **Gesuchseinreichung**
 
-<sup>1</sup> Beitragsgesuche sind rechtzeitig mit den erforderlichen Unterlagen mittels vollständig ausgefülltem Formular elektronisch beim Generalsekretariat der Sicherheitsdirektion einzureichen.
+<sup>1</sup> Beitragsgesuche sind rechtzeitig mit den erforderlichen Unterlagen beim Generalsekretariat der Sicherheitsdirektion einzureichen.
 
 <sup>2</sup> Das Generalsekretariat der Sicherheitsdirektion gibt bekannt, welche Unterlagen für die jeweiligen Zuwendungsbereiche benötigt werden.
 
@@ -674,7 +674,7 @@ beschliesst:
 
 **Aus- und Rückzahlung**
 
-<sup>1</sup> Die Auszahlung erfolgt nach Erhalt der erforderlichen elektronischen Unterlagen auf dem amtlichen Formular wie folgt:
+<sup>1</sup> Die Auszahlung erfolgt nach Erhalt der erforderlichen Unterlagen auf dem amtlichen Formular wie folgt:
 
 - a nach der Beschlussfassung zu 35 Prozent,
 - b nach der ersten Zwischenabrechnung zu 35 Prozent,
@@ -1018,7 +1018,7 @@ beschliesst:
 
 **Gesuche für Beiträge für Sportwettkämpfe**
 
-<sup>1</sup> Gesuche sind spätestens bis Ende des folgenden Kalenderjahres nach der Durchführung mit den erforderlichen und definitiven Unterlagen elektronisch beim Generalsekretariat der Sicherheitsdirektion einzureichen.
+<sup>1</sup> Gesuche sind spätestens bis Ende des folgenden Kalenderjahres nach der Durchführung mit den erforderlichen und definitiven Unterlagen beim Generalsekretariat der Sicherheitsdirektion einzureichen.
 
 #### Art. 88
 
@@ -1087,7 +1087,7 @@ beschliesst:
 
 <sup>2</sup> Die Verwaltungskosten werden dem Fonds belastet und im Rahmen der Jahresrechnung vom Regierungsrat und vom Grossen Rat genehmigt.
 
-<sup>3</sup> Über die Mittel darf nur mit Doppelunterschrift verfügt werden. Die entsprechenden Bestimmungen der Finanzhaushaltsverordnung vom 16. November 2022 (FHaV)[^93-1] gelten sinngemäss.
+<sup>3</sup> Über die Mittel darf nur zu zweit verfügt werden. Die entsprechenden Bestimmungen der Finanzhaushaltsverordnung vom 16. November 2022 (FHaV)[^93-1] gelten sinngemäss.
 
 [^93-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
@@ -1102,6 +1102,12 @@ beschliesst:
 <sup>3</sup> Negativzinsen werden nicht verrechnet.
 
 <sup>4</sup> Weist ein Fonds einen negativen Saldo auf, so sind Passivzinsen gemäss dem für den Kanton gültigen Kredit-Kontokorrentsatz der Berner Kantonalbank geschuldet.
+
+## 5a Digitaler Geschäftsverkehr
+
+#### Art. 94a
+
+<sup>1</sup> Gesuche gemäss dieser Verordnung und ihre Beilagen müssen digital mit dem auf der Webseite der Sicherheitsdirektion dafür vorgesehenen Formular eingereicht werden.
 
 ## 6 Übergangsbestimmungen
 
