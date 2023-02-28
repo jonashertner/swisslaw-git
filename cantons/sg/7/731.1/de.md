@@ -4,13 +4,13 @@ number: "731.1"
 title: Planungs- und Baugesetz
 short: PBG
 language: de
-version: 2022-10-01
-valid_until: 2023-02-28
-version_adopted: 2022-08-09
+version: 2023-03-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-15
 adopted: 2016-07-05
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3396/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3396/pdf_file"
 
 (PBG)
 
-vom 05.07.2016 (Stand 01.10.2022)
+vom 05.07.2016 (Stand 01.03.2023)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -1487,7 +1487,9 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Grundeigentümerinnen oder Grundeigentümer können unter Schutz gestellte Objekte einschliesslich deren Umgebung unter Wahrung des Schutzziels für zeitgemässe Bedürfnisse umnutzen und entsprechend anpassen.
 
-<sup>3</sup> Unter Schutz gestellte Objekte dürfen nur beseitigt oder beeinträchtigt werden, wenn ein gewichtiges das Interesse an der Erhaltung überwiegendes Bedürfnis nachgewiesen wird. Bei Schutzobjekten von nationaler oder kantonaler Bedeutung ist die Zustimmung der zuständigen kantonalen Stelle erforderlich.
+<sup>3</sup> Unter Schutz gestellte Objekte dürfen nur beseitigt oder beeinträchtigt werden, wenn ein gewichtiges, das Interesse an der Erhaltung überwiegendes Bedürfnis nachgewiesen wird.
+
+<sup>4</sup> Die zuständige Stelle der politischen Gemeinde bezieht die zuständige kantonale Stelle bei Entscheiden nach Abs. 3 dieser Bestimmung rechtzeitig in das Verfahren ein, wenn Objekte von nationaler oder kantonaler Bedeutung betroffen sind. Sie eröffnet der zuständigen kantonalen Stelle ihre entsprechenden Entscheide.
 
 #### Art. 123
 
@@ -1879,6 +1881,15 @@ als Gesetz:[^ingress-2]
 <sup>2</sup> Über die Einsprache nach Art. 684 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^157-1] wird in einer gesonderten Verfügung gleichzeitig mit dem Entscheid über die Baubewilligung entschieden.
 
 [^157-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+
+#### Art. 157a
+
+**Rekurs- und Beschwerdeberechtigung bei Entscheiden zur Beseitigung oder Beeinträchtigung von Schutzobjekten von nationaler oder kantonaler Bedeutung**
+
+<sup>1</sup> Die zuständige kantonale Stelle kann gegen Entscheide der politischen Gemeinden zur Beseitigung oder Beeinträchtigung von Schutzobjekten von nationaler oder kantonaler Bedeutung nach Art. 122 Abs. 3 dieses Erlasses Rekurs nach Art. 40 ff. des Gesetzes über die Verwaltungsrechtspflege vom 16. Mai 1965[^157a-1] und gegen diesbezügliche Entscheide des zuständigen Departementes Beschwerde nach Art. 59<sup>bis</sup> des Gesetzes über die Verwaltungsrechtspflege vom 16. Mai 1965[^157a-2] erheben.
+
+[^157a-1]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
+[^157a-2]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
 
 ### IV. Vollzug und Strafen
 
