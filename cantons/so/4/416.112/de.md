@@ -4,13 +4,12 @@ number: "416.112"
 title: Verordnung über die Berufsbildung
 short: VBB
 language: de
-version: 2022-01-01
-valid_until: 2023-02-28
-version_adopted: 2021-09-21
+version: 2023-03-01
+version_adopted: 2023-01-31
 adopted: 2008-11-11
 in_force: 2009-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.112"
-pdf: "https://bgs.so.ch/api/de/versions/5143/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5320/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5143/pdf_file"
 
 (VBB)
 
-Vom 11.11.2008 (Stand 01.01.2022)
+Vom 11.11.2008 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -71,7 +70,7 @@ beschliesst:
 
 **Lehrwerkstätten und Lehrateliers (§ 7 GBB)**
 
-<sup>1</sup> Das Zeitzentrum Uhrmacherschule Grenchen, als Teil des Berufsbildungszentrums BBZ Solothurn-Grenchen, führt eine Lehrwerkstätte.
+<sup>1</sup> Das ZeitZentrum Uhrmacherschule Grenchen, als Leistungsbereich des Berufsbildungszentrums BBZ Solothurn-Grenchen, führt eine Lehrwerkstätte.
 
 <sup>2</sup> Die Schule für Mode und Gestalten wird im Sinne eines Lehrateliers geführt. Sie ist dem Berufsbildungszentrum BBZ Olten eingegliedert.
 
@@ -200,20 +199,20 @@ beschliesst:
 
 <sup>3</sup> Dem Berufsbildungszentrum BBZ Solothurn-Grenchen mit Standorten in Solothurn und Grenchen gehören folgende Leistungsbereiche an:
 
-- a) die Gewerblich-Industrielle Berufsfachschule Solothurn;
-- b) die Gewerblich-Industrielle Berufsfachschule Grenchen;
-- c) die Kaufmännische Berufsfachschule Solothurn;
-- d) das Zeitzentrum (Uhrmacherschule) Grenchen;
-- e) das Erwachsenenbildungszentrum Solothurn-Grenchen.
+- a) die Gewerblich-Industrielle Berufsfachschule (GIBS) Solothurn;
+- b) die Gewerblich-Industrielle Berufsfachschule (GIBS) Grenchen;
+- c) die Kaufmännische Berufsfachschule (KBS) Solothurn;
+- d) das ZeitZentrum Uhrmacherschule Grenchen (ZZ GR);
+- e) das Erwachsenenbildungszentrum (EBZ) Solothurn-Grenchen.
 - f) …
 
 <sup>4</sup> Dem Berufsbildungszentrum BBZ Olten mit Standort in Olten gehören folgende Leistungsbereiche an:
 
-- a) die Gewerblich-Industrielle Berufsfachschule Olten;
-- b) die Kaufmännische Berufsfachschule Olten;
-- c) das Erwachsenenbildungszentrum Olten;
-- d) die Gesundheitlich-soziale Berufsfachschule Olten;
-- e) die Höhere Fachschule Pflege Olten.
+- a) die Gewerblich-Industrielle Berufsfachschule (GIBS) Olten;
+- b) die Kaufmännische Berufsfachschule (KBS) Olten;
+- c) das Erwachsenenbildungszentrum (EBZ) Olten;
+- d) die Gesundheitlich-Soziale Berufsfachschule (GSBS) Olten;
+- e) die Höhere Fachschule Pflege (HF Pflege) Olten.
 
 <sup>5</sup> …
 
@@ -284,8 +283,8 @@ beschliesst:
 <sup>1</sup> Leitungen der Leistungsbereiche sind
 
 - a) in den Berufsfachschulen: Rektoren oder Rektorinnen;
-- b) in den höheren Fachschulen und den Erwachsenenbildungs- und Weiterbildungszentren: Schulleiter oder Schulleiterinnen;
-- c) im BZ-GS: Rektor oder Rektorin.
+- b) in der höheren Fachschule und den Erwachsenenbildungszentren: Schulleiter oder Schulleiterinnen.
+- c) …
 
 <sup>2</sup> Die Leitungen der Leistungsbereiche
 
@@ -501,7 +500,7 @@ beschliesst:
 
 <sup>3</sup> Über Gesuche um vollständige oder teilweise Befreiung vom Kursbesuch entscheidet das Amt.
 
-<sup>4</sup> Die Kurse werden durch Beiträge des Bundes, des Kantons und der Teilnehmenden finanziert.
+<sup>4</sup> …
 
 #### § 40
 
@@ -552,7 +551,8 @@ beschliesst:
 - a) dient der Information und Beratung Jugendlicher und Erwachsener sowie beteiligter Dritter (Erziehungsberechtigte, Lehrpersonen) im Zusammenhang mit der Wahl des Berufes, der Ausbildung, der Laufbahn und der Weiterbildung;
 - b) unterstützt die Lehrpersonen der Sekundarstufe I und II im Berufs- und Studienwahlunterricht der Lernenden;
 - c) hilft Jugendlichen und Erwachsenen bei der Zusammenstellung von Lernleistungen und Kompetenznachweisen;
-- d) führt die Fachstelle Case Management Berufsbildung (Fachstelle CM BB).
+- d) führt die Fachstelle Case Management Berufsbildung (Fachstelle CM BB);
+- e) führt die Fachstelle Berufsabschluss für Erwachsene (Fachstelle BAE).
 
 <sup>2</sup> Sie arbeitet mit den Betrieben, den Organisationen der Arbeitswelt und Bildungsinstitutionen aller Stufen zusammen.
 
@@ -570,6 +570,20 @@ beschliesst:
 <sup>2</sup> Sie sorgt über institutionelle Grenzen hinweg für ein planmässiges und koordiniertes Vorgehen mit dem Ziel, einen Abschluss auf der Sekundarstufe II herbeizuführen.
 
 <sup>3</sup> Das Angebot der Fachstelle CM BB richtet sich an Jugendliche ab dem zweiten Sekundarschuljahr und an Erwachsene bis zum 25. Altersjahr.
+
+#### § 45ter
+
+**Fachstelle BAE**
+
+<sup>1</sup> Die Fachstelle BAE unterstützt Erwachsene, die nachträglich eine berufliche Grundbildung abschliessen möchten, mit folgenden Massnahmen:
+
+- a) Beratung hinsichtlich des Zielberufes;
+- b) Information über den optimalen Weg zu einem erfolgreichen Abschluss;
+- c) Begleitung vor und während der Qualifikationsverfahren.
+
+<sup>2</sup> Sie informiert Betriebe, Institutionen und Wirtschaftsverbände über die Möglichkeiten des Berufsabschlusses für Erwachsene.
+
+<sup>3</sup> Das Angebot der Fachstelle BAE richtet sich an erwachsene Arbeitnehmende mit Berufserfahrung.
 
 #### § 46
 
@@ -624,11 +638,11 @@ beschliesst:
 
 #### § 51
 
-**Expertenkommissionen der höheren Fachschulen (§§ 25 und 46 GBB)**
+**Expertenkommission der höheren Fachschule (§§ 25 und 46 Abs. 3 GBB)**
 
-<sup>1</sup> Der Regierungsrat setzt für die Aufsicht über die höheren Fachschulen je eine Expertenkommission ein.
+<sup>1</sup> Der Regierungsrat setzt für die Aufsicht über die HF Pflege eine Expertenkommission ein.
 
-<sup>2</sup> Die Expertenkommissionen üben die Aufsicht über die Abschluss- und Zwischenprüfungen aus.
+<sup>2</sup> Die Expertenkommission übt die Aufsicht über die Abschluss- und Zwischenprüfungen aus.
 
 #### § 52
 
@@ -676,9 +690,9 @@ beschliesst:
 
 **Beiträge an die Ausbildungen von Berufsbildnerinnen und Berufsbildnern (§ 54 GBB)**
 
-<sup>1</sup> Vom Kanton anerkannte Anbieter von Berufsbildnerkursen werden mit 300 Franken je teilnehmende Person aus Lehrbetrieben mit Standort im Kanton aus der Pauschale des Bundes entlastet.
+<sup>1</sup> Vom Kanton anerkannte Anbieter und Anbieterinnen von Berufsbildnerkursen werden mit maximal 7.50 Franken pro Lektion je teilnehmende Person mit Wohnsitz im Kanton oder aus Unternehmen mit Standort im Kanton aus der Pauschale des Bundes entlastet.
 
-<sup>2</sup> Beim Besuch eines ausserkantonalen Kurses von Teilnehmenden aus Lehrbetrieben mit Standort im Kanton entscheidet das Amt über den Subventionsbeitrag; dieser soll 300 Franken je teilnehmende Person nicht übersteigen.
+<sup>2</sup> …
 
 #### § 58
 
@@ -704,7 +718,7 @@ beschliesst:
 
 <sup>4</sup> Den kantonalen höheren Fachschulen werden 25 Prozent der Nettokosten des Vorjahres exklusive kalkulatorische Kosten der Infrastruktur gemäss der Kostenerhebung des Bundes aus den Pauschalbeiträgen des Bundes vergütet.
 
-<sup>5</sup> Bereiten berufsorientierte Weiterbildungsangebote der kantonalen Berufsbildungszentren auf Berufs- oder höhere Fachprüfungen vor, werden für die Teilnehmenden aus dem Kanton Beiträge nach dem massgebenden interkantonalen Abkommen geleistet.
+<sup>5</sup> …
 
 #### § 60
 
