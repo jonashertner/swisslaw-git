@@ -4,13 +4,13 @@ number: "312.1"
 title: Verordnung über die Ausübung von Berufen der Gesundheitspflege
 short: VBG
 language: de
-version: 2021-06-01
-valid_until: 2023-02-28
-version_adopted: 2021-05-11
+version: 2023-03-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-20
 adopted: 2011-06-21
 in_force: 2011-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/312.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3165/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3437/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3165/pdf_file"
 
 (VBG)
 
-vom 21.06.2011 (Stand 01.06.2021)
+vom 21.06.2011 (Stand 01.03.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -119,18 +119,29 @@ als Verordnung:[^ingress-2]
 
 #### Art. 7
 
-**b) Unselbständige Tätigkeit und Tätigkeit unter Aufsicht**
+**b) Unselbständige Tätigkeit**
 
-<sup>1</sup> Keiner Bewilligung bedarf, wer einen Beruf der Gesundheitspflege unselbständig oder unter Aufsicht ausübt, soweit nicht besondere Bestimmungen eine Bewilligungspflicht festlegen.
+<sup>1</sup> Keiner Bewilligung bedarf, wer einen Beruf der Gesundheitspflege unselbständig ausübt, soweit nicht besondere Bestimmungen eine Bewilligungspflicht festlegen.
 
 <sup>2</sup> Zur unselbständigen Tätigkeit ist berechtigt, wer die Voraussetzungen für die selbständige Berufsausübung erfüllt.
 
-<sup>3</sup> Zur Tätigkeit unter Aufsicht ist berechtigt, wer über eine kantonal anerkannte Ausbildung im entsprechenden Fachbereich verfügt. Art. 22 der Verordnung über die medizinischen Berufe vom 21. Juni 2011[^7-1] wird sachgemäss angewendet.
+<sup>3</sup> …
 
-<sup>4</sup> Die Bestimmungen der Verordnung über den Betrieb privater Einrichtungen der Gesundheitspflege vom 21. Juni 2011[^7-2] bleiben vorbehalten.
+<sup>4</sup> Die Bestimmungen der Verordnung über den Betrieb privater Einrichtungen der Gesundheitspflege vom 21. Juni 2011[^7-1] bleiben vorbehalten.
 
-[^7-1]: sGS [312.0](https://www.gesetzessammlung.sg.ch/data/312.0/de).
-[^7-2]: sGS [325.11](https://www.gesetzessammlung.sg.ch/data/325.11/de).
+[^7-1]: sGS [325.11](https://www.gesetzessammlung.sg.ch/data/325.11/de).
+
+#### Art. 7a
+
+**c) Tätigkeit unter Aufsicht**
+
+<sup>1</sup> Keiner Bewilligung bedarf, wer einen Beruf der Gesundheitspflege unter Aufsicht ausübt, wenn:
+
+- a) die Tätigkeit als praktischer Teil einer Ausbildung ausgeübt wird;
+- b) die Ausbildungsstätte Vorgaben für die praktische Tätigkeit festgesetzt hat und deren Einhaltung kontrolliert;
+- c) der Abschluss der Ausbildung zur selbständigen Ausübung eines Berufs der Gesundheitspflege befähigt.
+
+<sup>2</sup> Vorbehalten bleiben besondere Bestimmungen, die eine Bewilligungspflicht festlegen.
 
 #### Art. 8
 
