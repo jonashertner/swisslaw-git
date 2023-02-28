@@ -4,13 +4,13 @@ number: "860.21"
 title: Verordnung über die sozialen Leistungsangebote
 short: SLV
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-10-19
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-11
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2690/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2798/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2690/pdf_file"
 
 (SLV)
 
-vom 24.11.2021 (Stand 01.01.2023)
+vom 24.11.2021 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1151,7 +1151,7 @@ beschliesst:
 
 <sup>2</sup> In den Leistungsverträgen können abweichende Regelungen getroffen werden.
 
-<sup>3</sup> Die Datenlieferung erfolgt elektronisch und gestützt auf Artikel 114 SLG.
+<sup>3</sup> Die Datenlieferung erfolgt gestützt auf Artikel 114 SLG.
 
 <sup>4</sup> Die zuständige Stelle der GSI kann weitere Daten erheben, die für die Wahrnehmung ihrer Aufgaben nach Artikel 114 Absatz 1 SLG erforderlich sind.
 

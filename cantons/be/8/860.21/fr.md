@@ -4,13 +4,13 @@ number: "860.21"
 title: Ordonnance sur les programmes d’action sociale
 short: OPASoc
 language: fr
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-10-19
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-11
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2690/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2798/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2690/pdf_file"
 
 (OPASoc)
 
-du 24.11.2021 (état au 01.01.2023)
+du 24.11.2021 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1151,7 +1151,7 @@ arrête:
 
 <sup>2</sup> Une réglementation différente peut être convenue dans les contrats de prestations.
 
-<sup>3</sup> Les données sont remises en vertu de l’article 114 LPASoc, par voie électronique.
+<sup>3</sup> Les données sont remises en vertu de l’article 114 LPASoc.
 
 <sup>4</sup> Le service compétent de la DSSI peut relever d’autres données si celles-ci sont nécessaires à l’accomplissement des tâches prévues à l’article 114, alinéa 1 LPASoc.
 
