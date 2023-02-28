@@ -4,13 +4,13 @@ number: "152.221.171"
 title: Verordnung über die Organisation und die Aufgaben der Finanzdirektion
 short: Organisationsverordnung FIN; OrV FIN
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-16
+version: 2023-03-01
+valid_until: 2025-06-30
+version_adopted: 2023-01-11
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2725/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2787/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2725/pdf_file"
 
 (Organisationsverordnung FIN; OrV FIN)
 
-vom 18.10.1995 (Stand 01.01.2023)
+vom 18.10.1995 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 21, Artikel 25, Artikel 31 und Artikel 50 Buchstabe b des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung[^ingress-1] (Organisationsgesetz, OrG),
+gestützt auf Artikel 21, Artikel 25, Artikel 31 und Artikel 50 Buchstabe b des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^ingress-1],
 
 auf Antrag der Finanzdirektion,
 
@@ -240,7 +240,7 @@ beschliesst:
 
 <sup>2</sup> Es erfüllt die ihm in der besonderen Gesetzgebung zugewiesenen Aufgaben, namentlich
 
-- a im Bereich ICT: gemäss der Verordnung vom 24. Januar 2018 über die Informations-und Telekommunikationstechnik der Verwaltung (ICTV)[^11-1],
+- a im Bereich Digitalisierung und ICT: gemäss der Verordnung vom 11. Januar 2023 über die digitale Verwaltung (DVV)[^11-1],
 - b im Bereich des öffentlichen Beschaffungswesens: gemäss der Verordnung vom 5. November 2014 über die Organisation des öffentlichen Beschaffungswesens (OÖBV)[^11-2],
 - c im Bereich der amtlichen Register: gemäss dem Gesetz vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG)[^11-3] und der Verordnung vom 20. Januar 2021 über die Gemeinderegistersysteme-Plattform (GERES V)[^11-4].
 
@@ -251,10 +251,56 @@ beschliesst:
 - c Es besorgt in seinem Geschäftskreis die Planung, den Vollzug und das Berichtswesen bezüglich Aufgaben und Mittel sowie das Risikomanagement.
 - d Es arbeitet in seinem Aufgabengebiet mit anderen Behörden und Gemeinwesen zusammen und vertritt den Kanton in Fachorganisationen.
 
-[^11-1]: BSG [152.042](https://www.belex.sites.be.ch/data/152.042/de)
+[^11-1]: BSG [109.111](https://www.belex.sites.be.ch/data/109.111/de)
 [^11-2]: BSG [731.22](https://www.belex.sites.be.ch/data/731.22/de)
 [^11-3]: BSG [152.05](https://www.belex.sites.be.ch/data/152.05/de)
 [^11-4]: BSG [152.051](https://www.belex.sites.be.ch/data/152.051/de)
+
+#### Art. 11a
+
+**ICT-Grundversorgung**
+
+<sup>1</sup> Das KAIO stellt die ICT-Grundversorgung sicher. Dazu
+
+- a erhebt es die Anforderungen und konzipiert die Leistungen,
+- b steuert und koordiniert es die Leistungserbringerinnen und Leistungserbringer,
+- c gewährleistet es den Informationssicherheitsgrundschutz für die ICT-Grundversorgung.
+
+<sup>2</sup> Es beschafft
+
+- a zentral Leistungen für die ICT-Grundversorgung und für Konzernapplikationen,
+- b Betriebsleistungen grundsätzlich bei externen Anbieterinnen und Anbietern, mit Ausnahme des Supports der ersten Ebene.
+
+#### Art. 11b
+
+**Unterstützung**
+
+<sup>1</sup> Das KAIO unterstützt die Steuerung und die interdirektionalen Gremien der digitalen Verwaltung. Dazu
+
+- a dokumentiert es die Standards und die Unternehmensarchitektur der kantonalen Behörden und entwickelt sie weiter,
+- b führt es das Portfolio der ICT-Applikationen, -Projekte und -Leistungen der Kantonsverwaltung.
+
+<sup>2</sup> Es unterstützt die Anwenderinnen und Anwender der ICT mit Informationen, Schulung und Support der ersten Ebene über einen Service Desk sowie vor Ort.
+
+#### Art. 11c
+
+**Weitere Leistungen**
+
+<sup>1</sup> Das KAIO führt zentrale elektronische Personendatensammlungen für die Aufgabenerfüllung der Behörden, soweit die besondere Gesetzgebung dies vorsieht.
+
+<sup>2</sup> Es erbringt weitere digitale Leistungen für Organisationseinheiten der Verwaltung sowie andere kantonale oder kommunale Trägerinnen und Träger öffentlicher Aufgaben auf der Basis von Leistungsvereinbarungen oder öffentlich-rechtlichen Verträgen.
+
+#### Art. 11d
+
+**Weitere Aufgaben**
+
+<sup>1</sup> Das KAIO setzt die Gesetzgebung über die Harmonisierung amtlicher Register um.
+
+<sup>2</sup> Es kann im Auftrag kantonaler oder kommunaler Behörden Open-Source-Software oder Open Data (Art. 26 des Gesetzes vom 7. März 2022 über die digitale Verwaltung [DVG][^11d-1]) veröffentlichen oder die Behörden dabei unterstützen.
+
+<sup>3</sup> Es erlässt fachliche Weisungen zur Nutzung der von ihm vermittelten Leistungen.
+
+[^11d-1]: BSG [109.1](https://www.belex.sites.be.ch/data/109.1/de)
 
 #### Art. 12–13
 

@@ -4,13 +4,13 @@ number: "152.221.171"
 title: "Ordonnance sur l'organisation et les tâches de la Direction des finances"
 short: "Ordonnance d'organisation FIN, OO FIN"
 language: fr
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-16
+version: 2023-03-01
+valid_until: 2025-06-30
+version_adopted: 2023-01-11
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2725/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2787/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2725/pdf_file"
 
 (Ordonnance d'organisation FIN, OO FIN)
 
-du 18.10.1995 (état au 01.01.2023)
+du 18.10.1995 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -240,7 +240,7 @@ arrête:
 
 <sup>2</sup> Il assume les tâches qui lui sont conférées par la législation spéciale, notamment
 
-- a dans le domaine des TIC: conformément à l'ordonnance du 24 janvier 2018 sur les technologies de l'information et de la communication de l'administration (OTIC)[^11-1],
+- a dans le domaine de la numérisation et des TIC: conformément à l'ordonnance du 11 janvier 2023 sur l'administration numérique (OAN)[^11-1],
 - b dans le domaine des marchés publics: conformément à l'ordonnance du 5 novembre 2014 sur l’organisation des marchés publics (OOMP)[^11-2],
 - c dans le domaine des registres officiels: conformément à la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^11-3] et à l'ordonnance du 20 janvier 2021 sur la plate-forme des systèmes des registres communaux (O GERES)[^11-4].
 
@@ -251,10 +251,56 @@ arrête:
 - c Il se charge, dans son domaine d'activité, de la planification, de l'exécution et du compte rendu concernant les tâches et les moyens, ainsi que de la gestion des risques.
 - d Il collabore, dans son domaine d'activité, avec d'autres autorités et collectivités publiques, et représente le canton dans des organisations spécialisées.
 
-[^11-1]: RSB [152.042](https://www.belex.sites.be.ch/data/152.042/fr)
+[^11-1]: RSB [109.111](https://www.belex.sites.be.ch/data/109.111/fr)
 [^11-2]: RSB [731.22](https://www.belex.sites.be.ch/data/731.22/fr)
 [^11-3]: RSB [152.05](https://www.belex.sites.be.ch/data/152.05/fr)
 [^11-4]: RSB [152.051](https://www.belex.sites.be.ch/data/152.051/fr)
+
+#### Art. 11a
+
+**Services TIC de base**
+
+<sup>1</sup> L'OIO assure la fourniture des services TIC de base. A cette fin, il
+
+- a recense les exigences et conçoit les prestations;
+- b pilote et coordonne les prestataires;
+- c garantit la protection de base de la sécurité de l'information pour les services TIC de base.
+
+<sup>2</sup> Il achète
+
+- a de manière centralisée les prestations pour les services TIC de base et pour les applications de groupe,
+- b en principe les prestations d'exploitation auprès de prestataires externes, à l'exception de l'assistance de premier niveau.
+
+#### Art. 11b
+
+**Assistance**
+
+<sup>1</sup> L'OIO assiste le pilotage et les organes TIC interdirectionnels de l'administration numérique. A cette fin, il
+
+- a documente les normes et l’architecture d’entreprise des autorités cantonales et poursuit leur développement;
+- b gère les portefeuilles d'applications, de projets et de prestations TIC pour l’administration cantonale.
+
+<sup>2</sup> Il assiste les utilisatrices et les utilisateurs des TIC en leur fournissant des informations, des formations et l'assistance de premier niveau, via son centre de services ainsi que sur place.
+
+#### Art. 11c
+
+**Autres prestations**
+
+<sup>1</sup> L'OIO tient des fichiers centralisés de données personnelles pour que les autorités puissent accomplir leurs tâches, pour autant que la législation spéciale le prévoie.
+
+<sup>2</sup> Il fournit d'autres prestations TIC à des unités administratives ainsi qu'à d'autres organisations cantonales ou communales chargées de tâches publiques sur la base de conventions de prestations ou de contrats de droit public.
+
+#### Art. 11d
+
+**Autres tâches**
+
+<sup>1</sup> L'OIO met en œuvre la législation sur l'harmonisation des registres officiels.
+
+<sup>2</sup> Sur mandat d'autorités cantonales ou communales, il peut publier des logiciels libres ou des données ouvertes (art. 26 de la loi du 7 mars 2022 sur l'administration numérique [LAN])[^11d-1] ou soutenir les autorités à ce titre.
+
+<sup>3</sup> Il édicte des instructions techniques sur l'utilisation des prestations qu'il fournit.
+
+[^11d-1]: RSB [109.1](https://www.belex.sites.be.ch/data/109.1/fr)
 
 #### Art. 12–13
 
