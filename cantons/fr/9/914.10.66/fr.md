@@ -3,13 +3,12 @@ canton: FR
 number: "914.10.66"
 title: "Ordonnance fixant les primes et les taxes pour l'élimination des déchets animaux"
 language: fr
-version: 2017-05-01
-valid_until: 2023-02-28
-version_adopted: 2017-03-28
+version: 2023-03-01
+version_adopted: 2023-02-28
 adopted: 2017-03-28
 in_force: 2017-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/914.10.66"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7448/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7741/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7448/pdf_file"
 
 Elimination des déchets animaux, primes et taxes – O
 
-du 28.03.2017 (version entrée en vigueur le 01.05.2017)
+du 28.03.2017 (version entrée en vigueur le 01.03.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -39,40 +38,40 @@ Arrête:
 <sup>1</sup> Les primes d'élimination dues par les détenteurs d'animaux assurés obligatoirement auprès de Sanima sont fixées comme il suit (par animal):
 
 - a) Espèce bovine
-  - 1\. animaux jusqu'à 160 jours: — Fr. 2.30
-  - 2\. animaux de plus de 160 jours jusqu'à 730 jours: — Fr. 3.45
-  - 3\. animaux de plus de 730 jours: Fr. — 5.25
+  - 1\. animaux jusqu'à 160 jours: — Fr. 2.20
+  - 2\. animaux de plus de 160 jours jusqu'à 730 jours: — Fr. 3.30
+  - 3\. animaux de plus de 730 jours: — Fr. 5.00
 - b) Espèce chevaline
-  - 1\. équidés jusqu'à 30 mois ainsi que poneys, petits chevaux et ânes: — Fr. 3.30
-  - 2\. chevaux, mulets et bardots de plus de 30 mois: — Fr. 6.60
+  - 1\. équidés jusqu'à 30 mois ainsi que poneys, petits chevaux et ânes: — Fr. 3.15
+  - 2\. chevaux, mulets et bardots de plus de 30 mois: — Fr. 6.30
 - c) Espèce porcine
-  - 1\. truies (y compris les porcelets non sevrés): — Fr. 6.00
-  - 2\. porcelets sevrés (9 à 25 kg): — Fr. 1.20
-  - 3\. autres porcs: — Fr. 1.20
+  - 1\. truies (y compris les porcelets non sevrés): — Fr. 5.70
+  - 2\. porcelets sevrés (9 à 25 kg): — Fr. 1.15
+  - 3\. autres porcs: — Fr. 1.15
 - d) Espèce ovine
-  - 1\. agneaux de moins de 1 an: — Fr. 0.65
-  - 2\. brebis et béliers de plus de 1 an: — Fr. 1.65
+  - 1\. agneaux de moins de 1 an: — Fr. 0.60
+  - 2\. brebis et béliers de plus de 1 an: — Fr. 1.60
 - e) Espèce caprine
-  - 1\. chevreaux de moins de 1 an et chèvres naines: — Fr. 0.50
-  - 2\. chèvres et boucs de plus de 1 an: — Fr. 1.40
+  - 1\. chevreaux de moins de 1 an et chèvres naines: — Fr. 0.48
+  - 2\. chèvres et boucs de plus de 1 an: — Fr. 1.35
 - f) Daims et cerfs rouges détenus en enclos
-  - 1\. daims de tout âge: — Fr. 1.50
-  - 2\. cerfs rouges de tout âge: — Fr. 2.00
+  - 1\. daims de tout âge: — Fr. 1.45
+  - 2\. cerfs rouges de tout âge: — Fr. 1.90
 - g) Lamas et alpagas
-  - 1\. lamas de moins de 2 ans: — Fr. 1.50
-  - 2\. lamas de plus de 2 ans: — Fr. 2.50
-  - 3\. alpagas de moins de 2 ans: — Fr. 1.00
-  - 4\. alpagas de plus de 2 ans: — Fr. 1.50
+  - 1\. lamas de moins de 2 ans: — Fr. 1.40
+  - 2\. lamas de plus de 2 ans: — Fr. 2.40
+  - 3\. alpagas de moins de 2 ans: — Fr. 0.95
+  - 4\. alpagas de plus de 2 ans: — Fr. 1.40
 - h) Volaille
-  - 1\. dindes et oies de tout âge: Fr. — 0.088
-  - 2\. poulettes, jeunes coqs et poussins (sans les poulets de chair): — Fr. 0.022
-  - 3\. poules pondeuses, poules et coqs d'élevage (souches de ponte et de chair): — Fr. 0.044
+  - 1\. dindes et oies de tout âge: — Fr. 0.084
+  - 2\. poulettes, jeunes coqs et poussins (sans les poulets de chair): — Fr. 0.021
+  - 3\. poules pondeuses, poules et coqs d'élevage (souches de ponte et de chair): — Fr. 0.042
   - 4\. poulets de chair de tout âge
-  - 4\.1. race Standard: — Fr. 0.044
-  - 4\.2. race à croissance lente: — Fr. 0.022
-  - 5\. cailles: — Fr. 0.022
-  - 6\. autre volaille domestique (volaille détenue en captivité): — Fr. 0.044
-- i) Poissons élevés en pisciculture, par 100 kg: — Fr. 2.75
+  - 4\.1. race Standard: — Fr. 0.042
+  - 4\.2. race à croissance lente: — Fr. 0.021
+  - 5\. cailles: — Fr. 0.021
+  - 6\. autre volaille domestique (volaille détenue en captivité): — Fr. 0.042
+- i) Poissons élevés en pisciculture, par 100 kg: — Fr. 2.60
 
 #### Art. 2
 

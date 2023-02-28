@@ -3,13 +3,12 @@ canton: FR
 number: "914.10.66"
 title: Verordnung über die Prämien und Gebühren für die Entsorgung tierischer Abfälle
 language: de
-version: 2017-05-01
-valid_until: 2023-02-28
-version_adopted: 2017-03-28
+version: 2023-03-01
+version_adopted: 2023-02-28
 adopted: 2017-03-28
 in_force: 2017-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/914.10.66"
-pdf: "https://bdlf.fr.ch/api/de/versions/7448/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7741/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7448/pdf_file"
 
 Entsorgung tierischer Abfälle, Prämien und Gebühren – V
 
-vom 28.03.2017 (Fassung in Kraft getreten am 01.05.2017)
+vom 28.03.2017 (Fassung in Kraft getreten am 01.03.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -39,40 +38,40 @@ beschliesst:
 <sup>1</sup> Die Entsorgungsprämien der Halter von Tieren, die obligatorisch bei der Sanima versichert sind, werden wie folgt festgesetzt (pro Tier):
 
 - a) Rindviehgattung
-  - 1\. bis 160 Tage alte Tiere: — Fr. 2.30
-  - 2\. 160 bis 730 Tage alte Tiere: — Fr. 3.45
-  - 3\. über 730 Tage alte Tiere: — Fr. 5.25
+  - 1\. bis 160 Tage alte Tiere: — Fr. 2.20
+  - 2\. 160 bis 730 Tage alte Tiere: — Fr. 3.30
+  - 3\. über 730 Tage alte Tiere: — Fr. 5.00
 - b) Pferdegattung
-  - 1\. Equiden bis 30 Monate sowie Ponys, Kleinpferde und Esel: — Fr. 3.30
-  - 2\. Pferde, Maultiere und Maulesel über 30 Monate: — Fr. 6.60
+  - 1\. Equiden bis 30 Monate sowie Ponys, Kleinpferde und Esel: — Fr. 3.15
+  - 2\. Pferde, Maultiere und Maulesel über 30 Monate: — Fr. 6.30
 - c) Schweinegattung
-  - 1\. Mutterschweine (einschliesslich Saugferkel): — Fr. 6.00
-  - 2\. abgesetzte Ferkel (9–25 kg): — Fr. 1.20
-  - 3\. alle anderen Schweine: — Fr. 1.20
+  - 1\. Mutterschweine (einschliesslich Saugferkel): — Fr. 5.70
+  - 2\. abgesetzte Ferkel (9–25 kg): — Fr. 1.15
+  - 3\. alle anderen Schweine: — Fr. 1.15
 - d) Schafgattung
-  - 1\. Jungschafe bis 1-jährig: — Fr. 0.65
-  - 2\. Schafe und Widder über 1-jährig: — Fr. 1.65
+  - 1\. Jungschafe bis 1-jährig: — Fr. 0.60
+  - 2\. Schafe und Widder über 1-jährig: — Fr. 1.60
 - e) Ziegengattung
-  - 1\. Jungziegen bis 1-jährig sowie Zwergziegen: — Fr. 0.50
-  - 2\. Ziegen und Ziegenböcke über 1-jährig: — Fr. 1.40
+  - 1\. Jungziegen bis 1-jährig sowie Zwergziegen: — Fr. 0.48
+  - 2\. Ziegen und Ziegenböcke über 1-jährig: — Fr. 1.35
 - f) Damhirsche und Rothirsche in Gehegen
-  - 1\. Damhirsche jeden Alters: — Fr. 1.50
-  - 2\. Rothirsche jeden Alters: — Fr. 2.00
+  - 1\. Damhirsche jeden Alters: — Fr. 1.45
+  - 2\. Rothirsche jeden Alters: — Fr. 1.90
 - g) Lamas und Alpakas
-  - 1\. Lamas bis 2-jährig: — Fr. 1.50
-  - 2\. Lamas über 2-jährig: — Fr. 2.50
-  - 3\. Alpakas bis 2-jährig: — Fr. 1.00
-  - 4\. Alpakas über 2-jährig: — Fr. 1.50
+  - 1\. Lamas bis 2-jährig: — Fr. 1.40
+  - 2\. Lamas über 2-jährig: — Fr. 2.40
+  - 3\. Alpakas bis 2-jährig: — Fr. 0.95
+  - 4\. Alpakas über 2-jährig: — Fr. 1.40
 - h) Geflügel
-  - 1\. Truthühner und Gänse jeden Alters: — Fr. 0.088
-  - 2\. Junghennen, Junghähne und Küken (ohne Mastpoulets): Fr. — 0.022
-  - 3\. Legehennen, Zuchthennen und -hähne (Lege- und Mastlinien): — Fr. 0.044
+  - 1\. Truthühner und Gänse jeden Alters: — Fr. 0.084
+  - 2\. Junghennen, Junghähne und Küken (ohne Mastpoulets): — Fr. 0.021
+  - 3\. Legehennen, Zuchthennen und -hähne (Lege- und Mastlinien): — Fr. 0.042
   - 4\. Mastpoulets jeden Alters
-  - 4\.1. Standardrasse: — Fr. 0.044
-  - 4\.2. langsam wachsende Rasse: — Fr. 0.022
-  - 5\. Wachteln: — Fr. 0.022
-  - 6\. andere Kategorien von Hausgeflügel (in Gefangenschaft gehaltenes Geflügel): — Fr. 0.044
-- i) Fische aus Fischzuchten, pro 100 kg: — Fr. 2.75
+  - 4\.1. Standardrasse: — Fr. 0.042
+  - 4\.2. langsam wachsende Rasse: — Fr. 0.021
+  - 5\. Wachteln: — Fr. 0.021
+  - 6\. andere Kategorien von Hausgeflügel (in Gefangenschaft gehaltenes Geflügel): — Fr. 0.042
+- i) Fische aus Fischzuchten, pro 100 kg: — Fr. 2.60
 
 #### Art. 2
 
