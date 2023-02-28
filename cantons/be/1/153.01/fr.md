@@ -4,13 +4,13 @@ number: "153.01"
 title: Loi sur le personnel
 short: LPers
 language: fr
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-06-15
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2022-03-07
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3022/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3023/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3022/pdf_file"
 
 (LPers)
 
-du 16.09.2004 (état au 01.01.2023)
+du 16.09.2004 (état au 01.03.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -1258,6 +1258,10 @@ arrête:
 <sup>2</sup> Il répond également du dommage résultant d’un acte licite de sa part si des particuliers ont subi un préjudice excessivement grave et qu’il ne puisse être exigé d’eux qu’ils le supportent seuls.
 
 <sup>3</sup> La personne qui a subi une atteinte à son intégrité corporelle ou une atteinte grave à sa personnalité a droit à une réparation morale équitable.
+
+<sup>4</sup> Les alinéas 2 et 3 ne s'appliquent pas à l'indisponibilité de prestations numériques au sens de l'article 4, alinéa 3, lettre c de la loi du 7 mars 2022 sur l'administration numérique (LAN)[^100-1].
+
+[^100-1]: RSB [109.1](https://www.belex.sites.be.ch/data/109.1/fr)
 
 #### Art. 101
 

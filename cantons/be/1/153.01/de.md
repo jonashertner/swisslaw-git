@@ -4,13 +4,13 @@ number: "153.01"
 title: Personalgesetz
 short: PG
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-06-15
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2022-03-07
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3022/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3023/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3022/pdf_file"
 
 (PG)
 
-vom 16.09.2004 (Stand 01.01.2023)
+vom 16.09.2004 (Stand 01.03.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1258,6 +1258,10 @@ beschliesst:
 <sup>2</sup> Er steht auch für den Schaden ein, den er rechtmässig verursacht hat, wenn Einzelne unverhältnismässig schwer betroffen sind und ihnen nicht zugemutet werden kann, den Schaden selber zu tragen.
 
 <sup>3</sup> Für Verletzungen der körperlichen Integrität und schwere Persönlichkeitsverletzungen haben die Geschädigten Anspruch auf eine angemessene Genugtuung.
+
+<sup>4</sup> Die Absätze 2 und 3 gelten nicht für die Nichtverfügbarkeit von digitalen Leistungen gemäss Artikel 4 Absatz 3 Buchstabe c des Gesetzes vom 7. März 2022 über die digitale Verwaltung (DVG)[^100-1].
+
+[^100-1]: BSG [109.1](https://www.belex.sites.be.ch/data/109.1/de)
 
 #### Art. 101
 
