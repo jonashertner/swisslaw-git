@@ -4,7 +4,7 @@ number: "510.62.1"
 title: "RÈGLEMENT du 28.11.2012 d'application de la loi du 8 mai 2012 sur la géoinformation (RLGéo-VD)"
 short: RLGéo-VD
 language: fr
-version: 2022-07-01
+version: 2023-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/510.62.1?id=f00e70fb-4cf1-4f01-927c-8e937e833178"
 ---
 
@@ -689,11 +689,11 @@ Annexes [^47-2]
 
 1
 
-[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/f00e70fb-4cf1-4f01-927c-8e937e833178/annexes/1?dmev=01.07.2022)
+[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/f00e70fb-4cf1-4f01-927c-8e937e833178/annexes/1?dmev=01.03.2023)
 
 2
 
-[Annexe 2](https://prestations.vd.ch/pub/blv-publication/api/actes/f00e70fb-4cf1-4f01-927c-8e937e833178/annexes/2?dmev=01.07.2022)
+[Annexe 2](https://prestations.vd.ch/pub/blv-publication/api/actes/f00e70fb-4cf1-4f01-927c-8e937e833178/annexes/2?dmev=01.03.2023)
 
 [^47-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 [^47-2]: Modif. 1 du 25.03.2015: Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2015 · Modif. 3 du 28.03.2018: Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2018 · Modif. 4 du 27.11.2019: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2020 · Modif. 5 du 07.07.2021: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2021 · Modif. 6 du 22.06.2022: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.07.2022 · Modif. 7 du 01.03.2023: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.03.2023 · Modif. 9 du 17.04.2024: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.05.2024 · Modif. 10 du 02.04.2025: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.04.2025 · Modif. 11 du 20.05.2026: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.05.2026
