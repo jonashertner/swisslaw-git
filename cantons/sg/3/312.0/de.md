@@ -4,13 +4,13 @@ number: "312.0"
 title: Verordnung über die Ausübung der medizinischen Berufe
 short: VMB
 language: de
-version: 2021-06-01
-valid_until: 2023-02-28
-version_adopted: 2021-05-11
+version: 2023-03-01
+valid_until: 2025-10-31
+version_adopted: 2022-12-20
 adopted: 2011-06-21
 in_force: 2011-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/312.0"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3166/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3166/pdf_file"
 
 (VMB)
 
-vom 21.06.2011 (Stand 01.06.2021)
+vom 21.06.2011 (Stand 01.03.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -104,7 +104,12 @@ als Verordnung:[^ingress-3]
 <sup>1</sup> Keiner Bewilligung bedarf, wer:
 
 - a) in öffentlichen Einrichtungen tätig ist;
-- b) in Einrichtungen nach Art. 5 der Verordnung über den Betrieb privater Einrichtungen der Gesundheitspflege vom 21. Juni 2011[^6-1] tätig ist.
+- b) in Einrichtungen nach Art. 5 der Verordnung über den Betrieb privater Einrichtungen der Gesundheitspflege vom 21. Juni 2011[^6-1] tätig ist;
+- c) die klinische Ausbildung als Teil der universitären Ausbildung absolviert.
+
+<sup>2</sup> Die Voraussetzungen nach Art. 26 Abs. 1 und 2 dieses Erlasses gelten auch für ordentliche Assistenzen, die nach Abs. 1 dieser Bestimmung von der Bewilligungspflicht ausgenommen sind.
+
+<sup>3</sup> Die Ausnahmen von der Bewilligungspflicht gelten nicht für die ausserordentliche Assistenz nach Art. 26a dieses Erlasses.
 
 [^6-1]: sGS [325.11](https://www.gesetzessammlung.sg.ch/data/325.11/de).
 
@@ -297,15 +302,30 @@ als Verordnung:[^ingress-3]
 
 #### Art. 26
 
-**b) Assistenz**
+**b) ordentliche Assistenz**
 
-<sup>1</sup> Der Ärztin und dem Arzt sowie der Chiropraktorin und dem Chiropraktor wird die Bewilligung für die Assistenz erteilt, wenn die Assistentin oder der Assistent ein eidgenössisches oder eidgenössisch anerkanntes Diplom besitzt und sich im entsprechenden Fachbereich in Weiterbildung befindet.
+<sup>1</sup> Der Ärztin und dem Arzt sowie der Chiropraktorin und dem Chiropraktor wird die Bewilligung für die ordentliche Assistenz erteilt, wenn die Assistentin oder der Assistent ein eidgenössisches oder eidgenössisch anerkanntes Diplom besitzt und sich im entsprechenden Fachbereich in Weiterbildung befindet.
 
-<sup>2</sup> Der Zahnärztin und dem Zahnarzt sowie der Tierärztin und dem Tierarzt wird die Bewilligung für die Assistenz erteilt, wenn die Assistentin oder der Assistent ein eidgenössisches oder eidgenössisch anerkanntes Diplom besitzt.
+<sup>2</sup> Der Zahnärztin und dem Zahnarzt sowie der Tierärztin und dem Tierarzt wird die Bewilligung für die ordentliche Assistenz erteilt, wenn die Assistentin oder der Assistent ein eidgenössisches oder eidgenössisch anerkanntes Diplom besitzt.
 
 <sup>3</sup> Die Bewilligung wird befristet.
 
-<sup>4</sup> Für jede Vollzeitstelle werden höchstens zwei Assistenzstellen bewilligt.
+<sup>4</sup> Für jede Vollzeitstelle werden höchstens 400 Stellenprozente ordentliche Assistenz bewilligt. Vorbehalten bleiben Einschränkungen aufgrund der Bundesgesetzgebung über die Krankenversicherung.[^26-1]
+
+[^26-1]: SR [832.1](https://db.clex.ch/link/Bund/832.1/de).
+
+#### Art. 26a
+
+**c) ausserordentliche Assistenz**
+
+<sup>1</sup> Die ausserordentliche Assistenz dient der direkten Zulassung zur eidgenössischen Prüfung in Humanmedizin nach den Richtlinien der eidgenössischen Medizinalberufekommission[^26a-1] für Personen, die keinen schweizerischen Studienabschluss in Humanmedizin haben.
+
+<sup>2</sup> Einer Person, die als Ärztin oder Arzt im Register nach [Art. 51](https://db.clex.ch/link/Bund/811.11/de) des Bundesgesetzes über die universitären Medizinalberufe vom 23. Juni 2006[^26a-2] eingetragen ist, aber kein eidgenössisches oder eidgenössisch anerkanntes Diplom besitzt, kann die Bewilligung für eine ausserordentliche Assistenz erteilt werden.
+
+<sup>3</sup> Die ausserordentliche Assistenz wird auf die Dauer der klinischen Tätigkeit beschränkt, die für die Zulassung nach Abs. 1 dieser Bestimmung erforderlich ist. Der geplante Beschäftigungsgrad wird berücksichtigt.
+
+[^26a-1]: Art. [49](https://db.clex.ch/link/Bund/811.11/de) f. MedBG.
+[^26a-2]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de); abgekürzt MedBG.
 
 #### Art. 27
 
