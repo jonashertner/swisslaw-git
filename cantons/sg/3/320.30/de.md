@@ -4,13 +4,13 @@ number: "320.30"
 title: Statut der Spitalverbunde des Kantons St.Gallen
 short: SSV
 language: de
-version: 2021-01-01
-valid_until: 2023-02-28
-version_adopted: 2020-09-24
+version: 2023-03-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-16
 adopted: 2024-09-25
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.30"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3050/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3447/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3050/pdf_file"
 
 (SSV)
 
-vom 11.05.2006 (Stand 01.01.2021)
+vom 11.05.2006 (Stand 01.03.2023)
 
 Der Verwaltungsrat der Spitalverbunde des Kantons St.Gallen
 
@@ -40,10 +40,10 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> Nach dem Gesetz über die Spitalverbunde vom 22. September 2002[^1-1] bestehen vier öffentlich-rechtliche Anstalten mit eigener Rechtspersönlichkeit und mit dem Recht auf Selbstverwaltung (Spitalverbunde), nämlich:
 
-- a) das Kantonsspital St.Gallen mit den Betriebsstätten Kantonsspital St.Gallen, Spital Rorschach und Spital Flawil mit Sitz in St.Gallen;
-- b) die Spitalregion Rheintal Werdenberg Sarganserland mit den Betriebstätten Spital Altstätten, Spital Grabs und Spital Walenstadt mit Sitz in Rebstein;
+- a) das Kantonsspital St.Gallen mit der Betriebsstätte Kantonsspital St.Gallen mit Sitz in St.Gallen;
+- b) die Spitalregion Rheintal Werdenberg Sarganserland mit den Betriebstätten Spital Altstätten und Spital Grabs mit Sitz in Rebstein;
 - c) das Spital Linth mit der Betriebsstätte Spital Linth in Uznach mit Sitz in Uznach;
-- d) die Spitalregion Fürstenland Toggenburg mit den Betriebsstätten Spital Wattwil und Spital Wil mit Sitz in Wil.
+- d) die Spitalregion Fürstenland Toggenburg mit der Betriebsstätte Spital Wil mit Sitz in Wil.
 
 [^1-1]: sGS [320.2](https://www.gesetzessammlung.sg.ch/data/320.2/de).
 
