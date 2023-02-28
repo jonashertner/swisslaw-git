@@ -4,13 +4,13 @@ number: "922.63"
 title: Verordnung über den Wildtierschutz
 short: WTSchV
 language: de
-version: 2020-08-01
-valid_until: 2023-02-28
-version_adopted: 2020-03-18
+version: 2023-03-01
+valid_until: 2024-07-31
+version_adopted: 2022-09-07
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.63"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1862/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2709/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1862/pdf_file"
 
 (WTSchV)
 
-vom 26.02.2003 (Stand 01.08.2020)
+vom 26.02.2003 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -163,6 +163,31 @@ beschliesst:
 <sup>2</sup> Der Abschuss von gestatteten Jagdhunden ist nur ausserhalb der Jagdzeit erlaubt.
 
 <sup>3</sup> Die Wildhüterinnen und Wildhüter sind berechtigt, verwilderte Hauskatzen im Walde und abseits von bewohnten Gebäuden zu erlegen.
+
+### 1.4 Störung von Wildtieren durch Zäune und Netze
+
+#### Art. 9a
+
+**Zäune und Netze**
+
+<sup>1</sup> Wer Zäune verwendet, muss diese ihrem Zweck entsprechend fachgerecht auswählen und aufstellen sowie regelmässig kontrollieren und unterhalten.
+
+<sup>2</sup> Permanente feste Zäune dürfen den Wildwechsel (Austritt des Wildes) nicht übermässig erschweren.
+
+<sup>3</sup> Mobile Weidenetze dürfen nur als temporäre Zäune verwendet werden.
+
+<sup>4</sup> Sie sind bei Nichtgebrauch innert drei Wochen zu entfernen. Wird die Fläche während der Vegetationszeit erneut beweidet, entfällt diese Pflicht.
+
+#### Art. 9b
+
+**Behördliches Entfernen von Zäunen und Netzen**
+
+<sup>1</sup> Das Jagdinspektorat ordnet das Entfernen an
+
+- a von Zäunen, die für Wildtiere gefährlich sind,
+- b von mobilen Weidenetzen, die bei Nichtgebrauch nicht fristgerecht entfernt werden.
+
+<sup>2</sup> Beschwerden gegen Verfügungen des Jagdinspektorats gemäss Absatz 1 kommt keine aufschiebende Wirkung zu, sofern in der Verfügung nichts anderes angeordnet wird.
 
 ## 2 Vernetzung der Lebensräume
 

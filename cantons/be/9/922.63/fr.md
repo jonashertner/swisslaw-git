@@ -4,13 +4,13 @@ number: "922.63"
 title: Ordonnance sur la protection de la faune sauvage
 short: OPFS
 language: fr
-version: 2020-08-01
-valid_until: 2023-02-28
-version_adopted: 2020-03-18
+version: 2023-03-01
+valid_until: 2024-07-31
+version_adopted: 2022-09-07
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.63"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1862/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2709/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1862/pdf_file"
 
 (OPFS)
 
-du 26.02.2003 (état au 01.08.2020)
+du 26.02.2003 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -163,6 +163,31 @@ arrête:
 <sup>2</sup> Le tir de chiens de chasse dont l'utilisation est autorisée n'est permis qu'en dehors de la période de chasse.
 
 <sup>3</sup> Les gardes-faune sont autorisés à tirer des chats harets dans les forêts et à l'écart de maisons habitées.
+
+### 1.4 Dérangement de la faune sauvage par des clôtures et des filets
+
+#### Art. 9a
+
+**Clôtures et filets**
+
+<sup>1</sup> Quiconque utilise des clôtures doit les choisir et les poser dans les règles de l'art et conformément à leur affectation, ainsi que les contrôler et les remettre en état régulièrement.
+
+<sup>2</sup> Les clôtures permanentes fixes ne doivent pas entraver excessivement le passage des animaux sauvages allant au gagnage.
+
+<sup>3</sup> Les filets de pâturage mobiles ne doivent être utilisés qu'en guise de clôtures temporaires.
+
+<sup>4</sup> Ils doivent être retirés dans les trois semaines s'ils ne sont plus utilisés. Cette obligation tombe s'il est prévu de réutiliser la surface concernée pour le pacage durant la période de végétation.
+
+#### Art. 9b
+
+**Retrait de clôtures et de filets ordonné par les autorités**
+
+<sup>1</sup> L'Inspection de la chasse ordonne le retrait
+
+- a de clôtures dangereuses pour la faune sauvage;
+- b de filets de pâturage mobiles non utilisés qui n'ont pas été retirés dans le délai prescrit.
+
+<sup>2</sup> Les recours contre les décisions de l'Inspection de la chasse édictées en vertu de l'alinéa 1 n'ont pas d'effet suspensif, sauf si ces dernières ordonnent le contraire.
 
 ## 2 Mise en réseau des biotopes
 
