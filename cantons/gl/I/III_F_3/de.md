@@ -4,13 +4,12 @@ number: III F/3
 title: Verordnung über das Kantonsgefängnis vom 14. Mai 1996
 short: Gefängnisverordnung
 language: de
-version: 2019-04-01
-valid_until: 2023-02-28
-version_adopted: 2018-12-18
+version: 2023-03-01
+version_adopted: 2023-03-28
 adopted: 1996-05-14
 in_force: 1997-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-F.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2078/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2078/pdf_file"
 
 (Gefängnisverordnung)
 
-Vom 14.05.1996 (Stand 01.04.2019)
+Vom 14.05.1996 (Stand 01.03.2023)
 
 Der Regierungsrat,
 
@@ -86,7 +85,7 @@ verordnet:
 
 **Durchsuchung, Leibesvisitation**
 
-<sup>1</sup> Die Durchführung von Leibesvisitationen bei neu Eingewiesenen oder Gefangenen, die im Verdacht stehen, auf sich oder in ihrem Körper unerlaubte Gegenstände zu verbergen, richtet sich nach Artikel 85 StGB. Die Leibesvisitation ist wenn möglich in zwei Phasen abzuwickeln. Die abgenommenen Gegenstände sind aufzulisten, und in Fällen von erheblicher Bedeutung ist die Fachstelle Justizvollzug bzw. nötigenfalls die Staats- und Jugendanwaltschaft zu informieren.
+<sup>1</sup> Die Durchführung von Leibesvisitationen bei neu Eingewiesenen oder Gefangenen, die im Verdacht stehen, auf sich oder in ihrem Körper unerlaubte Gegenstände zu verbergen, richtet sich nach Artikel 85 StGB. Die Leibesvisitation ist wenn möglich in zwei Phasen abzuwickeln. Die abgenommenen Gegenstände sind aufzulisten, und in Fällen von erheblicher Bedeutung ist die Gefängnisleitung bzw. nötigenfalls die Staats- und Jugendanwaltschaft zu informieren.
 
 <sup>2</sup> Bei männlichen Gefangenen erfolgt die Durchsuchung und Leibesvisitation durch einen männlichen Gefangenenbetreuer.
 
@@ -108,17 +107,17 @@ verordnet:
 
 **Zellenzuteilung**
 
-<sup>1</sup> Die Gefangenenbetreuer bestimmen, in welcher Zelle die Gefangenen untergebracht werden. Sie melden der Fachstelle Justizvollzug regelmässig die Belegung der Zellen.
+<sup>1</sup> Die Gefangenenbetreuer bestimmen, in welcher Zelle die Gefangenen untergebracht werden. Sie melden den berechtigten Behörden regelmässig die Belegung der Zellen.
 
 <sup>2</sup> Weibliche Gefangene sind wenn möglich in der speziell dafür vorgesehenen Zelle unterzubringen.
 
-<sup>3</sup> Jugendliche sind in der speziell dafür vorgesehenen Zelle unterzubringen.
+<sup>3</sup> …
 
 #### Art. 9
 
 **Sicherheitsmassnahmen**
 
-<sup>1</sup> Gegenüber Eingewiesenen, bei denen erhöhte Fluchtgefahr oder Gefahr der Gewaltanwendung gegen sich selbst oder gegen Dritte besteht, kann die Fachstelle Justizvollzug (bei Dringlichkeit vorsorglich die Gefangenenbetreuer) in Absprache mit der einweisenden Stelle zur Gewährleistung der Sicherheit angemessene zusätzliche Massnahmen anordnen, solange die erhöhte Gefahr besteht.
+<sup>1</sup> Gegenüber Eingewiesenen, bei denen erhöhte Fluchtgefahr oder Gefahr der Gewaltanwendung gegen sich selbst oder gegen Dritte besteht, kann die Gefängnisleitung (bei Dringlichkeit vorsorglich die Gefangenenbetreuer) in Absprache mit der einweisenden Stelle zur Gewährleistung der Sicherheit angemessene zusätzliche Massnahmen anordnen, solange die erhöhte Gefahr besteht.
 
 <sup>2</sup> Als Sicherheitsmassnahmen kommen insbesondere in Betracht:
 
@@ -126,13 +125,25 @@ verordnet:
 - b. die Beschränkung oder der Entzug des Aufenthalts im Freien;
 - c. die Unterbringung in einer zweckdienlichen Zelle.
 
+#### Art. 9a
+
+**Beizug Dritter**
+
+<sup>1</sup> Die Gefängnisleitung kann mit Zustimmung des Departements Sicherheit und Justiz zur Überbrückung von personellen Ausfällen bei den Gefangenenbetreuern externes Sicherheitspersonal mit der Unterstützung des Stammpersonals beauftragen.
+
+<sup>2</sup> Die beauftragten Personen müssen über die erforderlichen Fachkenntnisse verfügen und Gewähr für eine einwandfreie Aufgabenerfüllung bieten. Sie können einer Personensicherheitsüberprüfung unterzogen werden.
+
+<sup>3</sup> Beauftragte Personen, denen Sicherheitsaufgaben übertragen werden, sind nur berechtigt unmittelbaren Zwang auszuüben, soweit dies zum Eigenschutz oder zur Nothilfe zugunsten des Stammpersonals erforderlich ist.
+
+<sup>4</sup> Die Gefängnisleitung legt die zur Aufgabenerfüllung notwendigen Anforderungen fest. Das Departement schliesst mit der beigezogenen Unternehmung eine Leistungsvereinbarung ab.
+
 #### Art. 10
 
 **Einzelhaft**
 
-<sup>1</sup> Die Fachstelle Justizvollzug ordnet nötigenfalls Einzelhaft gemäss Artikel 78 StGB an.
+<sup>1</sup> Die Verfahrens- oder die Gefängnisleitung ordnet nötigenfalls Einzelhaft an.
 
-<sup>2</sup> Im Übrigen wird die Freiheitsstrafe im Gemeinschaftshaft durchgeführt, soweit dies aus betrieblichen Gründen möglich ist.
+<sup>2</sup> Im Übrigen wird die Freiheitsstrafe im Gemeinschaftshaft durchgeführt.
 
 #### Art. 11
 
@@ -148,9 +159,9 @@ verordnet:
 
 **Gefangenenbetreuer**
 
-<sup>1</sup> Die Gefangenenbetreuer sind der Fachstelle Justizvollzug unterstellt.
+<sup>1</sup> Die Gefangenenbetreuer sind der Gefängnisleitung unterstellt.
 
-<sup>2</sup> Die Gefangenenbetreuer unterbreiten der Fachstelle Justizvollzug rechtzeitig im Voraus den Vorschlag des Einsatzplanes für den Folgemonat zur Genehmigung.
+<sup>2</sup> …
 
 #### Art. 13
 
@@ -171,9 +182,9 @@ verordnet:
 
 #### Art. 15
 
-**Allgemeine Aufgaben der Gefangenenwarte**
+**Allgemeine Aufgaben des Gefängnispersonals**
 
-<sup>1</sup> Den Gefangenbetreuern obliegen alle ihnen durch diese Verordnung übertragenen Aufgaben. Sie haben für die Durchführung der Bestimmungen dieser Verodnung zu sorgen, soweit sie in ihrer Kompetenz stehen.
+<sup>1</sup> Den Gefangenbetreuern obliegen alle ihnen durch diese Verordnung übertragenen Aufgaben. Sie haben für die Durchführung der Bestimmungen dieser Verordnung zu sorgen, soweit sie in ihrer Kompetenz stehen.
 
 <sup>2</sup> Insbesondere sind die Gefangenenwarte verantwortlich:
 
@@ -195,13 +206,15 @@ verordnet:
 
 **Zellenkontrolle**
 
-<sup>1</sup> Die Gefangenenbetreuer besichtigen und kontrollieren in unregelmässigen Abständen, mindestens aber einmal pro Woche, die Zellen der Insassen und erstatten der Fachstelle Justizvollzug bzw. der Staats- und Jugendanwaltschaft bei besonderen Vorkommnissen Meldung.
+<sup>1</sup> Die Gefangenenbetreuer besichtigen und kontrollieren die Zellen, die Effekten und Behältnisse der Insassen und erstatten der Gefängnisleitung bzw. der Staats- und Jugendanwaltschaft bei besonderen Vorkommnissen Meldung.
+
+<sup>2</sup> Ist der betroffene Insasse nicht anwesend, wird er nachträglich über das Ergebnis der Kontrolle informiert.
 
 #### Art. 17
 
 **Meldepflicht**
 
-<sup>1</sup> Wünscht ein Gefangener vor die Fachstelle zu treten, so haben die Gefangenenbetreuer dies unverzüglich der Fachstelle oder deren Stellvertretung zu melden.
+<sup>1</sup> Wünscht ein Gefangener vor die Gefängnisleitung oder die einweisende Behörde zu treten, so haben die Gefangenenbetreuer dies unverzüglich zu melden.
 
 <sup>2</sup> Wünscht ein Untersuchungsgefangener mit der Staats- und Jugendanwaltschaft in Kontakt zu treten, so ist diese unverzüglich zu benachrichtigen.
 
@@ -209,7 +222,7 @@ verordnet:
 
 **Gefängnishaushalt**
 
-<sup>1</sup> Die Gefangenenbetreuer führen die monatliche Gefangenschaftsrechnung und rechnen mit der Staatskasse ab, namentlich auch bezüglich des Kostgeldes und des Arbeitsentgelts.
+<sup>1</sup> Die Gefangenenbetreuer führen die monatliche Insassenrechnung und rechnen mit der Staatskasse ab, namentlich auch bezüglich des Kostgeldes und des Arbeitsentgelts.
 
 <sup>2</sup> Das Departement setzt nach Massgabe des übergeordneten Rechts und unter Vorbehalt von Vorgaben des Konkordates die Kostgeldansätze fest.
 
@@ -221,13 +234,13 @@ verordnet:
 
 <sup>2</sup> Bei Kollusionsgefahr kann die Staats- und Jugendanwaltschaft anordnen, dass einzelne Gefangene nicht untereinander Kontakt haben.
 
-### 1.3. Pflichten der Fachstelle Justizvollzug im Bereich Gefangenenwesen
+### 1.3. Pflichten der Gefängnisleitung im Bereich Gefangenenwesen
 
 #### Art. 19
 
 **Zuständigkeiten, Aufsicht**
 
-<sup>1</sup> Der Fachstelle Justizvollzug obliegt die Aufsicht über das Gefangenenwesen und das Überwachen der Einhaltung der einschlägigen Vorschriften.
+<sup>1</sup> Der Gefängnisleitung obliegt die Aufsicht über das Gefangenenwesen. Sie überwacht die Einhaltung der einschlägigen Vorschriften.
 
 <sup>2–3</sup> …
 
@@ -239,7 +252,7 @@ verordnet:
 
 **Inspektion, Kontrollen**
 
-<sup>1</sup> Die Fachstelle Justizvollzug nimmt regelmässig Zelleninspektionen vor und befragt die Gefangenen in Abwesenheit der Gefangenenbetreuer über die Wartung und Verpflegung. Bei Missständen schafft sie umgehend Abhilfe und informiert nötigenfalls die vorgesetzte Stelle.
+<sup>1</sup> Die Gefängnisleitung lässt regelmässig Zelleninspektionen vornehmen und befragt die Insassen in Abwesenheit der Gefangenenbetreuer über die Wartung und Verpflegung. Bei Missständen schafft sie umgehend Abhilfe und informiert nötigenfalls die vorgesetzte Stelle.
 
 <sup>2</sup> Die Gefangenenbetreuer veranlassen Urinkontrollen, insbesondere nach der Rückkehr von Gefangenen aus Urlauben sowie bei Verdacht auf Konsum illegaler oder im Strafvollzug verbotener Substanzen.
 
@@ -287,9 +300,9 @@ verordnet:
 
 <sup>2</sup> Strafgefangene können im Falle der Bewährung mit ihrer Zustimmung ausserhalb des Gefängnisses beschäftigt werden.
 
-<sup>3</sup> Die Strafgefangenen können mit dem Einverständnis der Fachstelle Justizvollzug eigene Arbeiten verrichten, soweit es die Verhältnisse im Gefängnis zulassen.
+<sup>3</sup> Die Strafgefangenen können mit dem Einverständnis der Gefängnisleitung eigene Arbeiten verrichten, soweit es die Verhältnisse im Gefängnis zulassen.
 
-<sup>4</sup> Die Gefangenenbetreuer setzen das Arbeitsentgelt nach Massgabe von Artikel 12 der Verordnung zum Straf- und Massnahmenvollzug und zur Opferhilfe (VSMO)[^26-1] und der anwendbaren Konkordatsrichtlinien fest. Die Entschädigung geht zulasten der Staatskasse.
+<sup>4</sup> Die Gefängnisleitung setzt das Arbeitsentgelt nach Massgabe von Artikel 12 der Verordnung über den Vollzug in den Bereichen Strafprozess, Straf- und Massnahmenvollzug und Opferhilfe (VSMO)[^26-1] und der anwendbaren Konkordatsrichtlinien fest. Die Entschädigung geht zulasten der Staatskasse.
 
 [^26-1]: GS [III F/7](https://gesetze.gl.ch/data/III-F.7/de)
 
@@ -317,7 +330,7 @@ verordnet:
 
 <sup>1</sup> Für Kleidung und Wäsche haben grundsätzlich die Gefangenen selber bzw. deren Angehörige oder die Sozial- bzw. Erwachsenenschutzbehörde zu sorgen bzw. aufzukommen. Notwendige fehlende Bekleidung wird vom Gefängnis zur Verfügung gestellt und den Gefangenen bei der Entlassung wieder abgenommen.
 
-<sup>2</sup> Die Kleidung und Leibwäsche soll nach Bedarf gewechselt und gewaschen werden.
+<sup>2</sup> Die Kleidung und Leibwäsche sowie die Bettwäsche soll nach Bedarf gewechselt und gewaschen werden.
 
 #### Art. 30
 
@@ -335,17 +348,17 @@ verordnet:
 
 **Krankheit**
 
-<sup>1</sup> Meldet sich ein Gefangener krank oder besteht Verdacht auf eine Erkrankung, so haben die Gefangenenbetreuer umgehend den Gefängnisarzt und die Fachstelle Justizvollzug zu benachrichtigen.
+<sup>1</sup> Meldet sich ein Gefangener krank oder besteht Verdacht auf eine Erkrankung, so haben die Gefangenenbetreuer umgehend den Gefängnisarzt und die Gefängnisleitung zu benachrichtigen.
 
 #### Art. 32
 
 **Ärztliche Behandlung**
 
-<sup>1</sup> Nimmt der Gefängnisarzt bei einem Gefangenen eine schwere oder ansteckende Krankheit wahr, die eine Spitalbehandlung erfordert, so orientiert er die Fachstelle Justizvollzug und veranlasst mit deren Einverständnis die nötigen weiteren Schritte. Klinische Behandlungen sind nach Möglichkeit und Notwendigkeit in einem Spital mit Sicherheitsabteilung oder in einer psychiatrischen Klinik durchzuführen.
+<sup>1</sup> Nimmt der Gefängnisarzt bei einem Gefangenen eine schwere oder ansteckende Krankheit wahr, die eine Spitalbehandlung erfordert, so orientiert er die Gefängnisleitung und veranlasst mit deren Einverständnis die nötigen weiteren Schritte. Klinische Behandlungen sind nach Möglichkeit und Notwendigkeit in einem Spital mit Sicherheitsabteilung oder in einer psychiatrischen Klinik durchzuführen.
 
 <sup>2</sup> Zahnärztliche Behandlungen erfolgen nur, soweit sie unaufschiebbar sind.
 
-<sup>3</sup> Die Kosten ärztlicher Behandlung gehen grundsätzlich zulasten der gefangenen Person bzw. von deren Krankenkasse; subsidiär haften dafür bei Fürsorgeabhängigkeit die Sozialhilfe und schliesslich die Fachstelle Justizvollzug.
+<sup>3</sup> Die Kosten der ärztlichen Behandlung trägt in der Regel die gefangene Person beziehungsweise deren Krankenkasse, bei Fürsorgeabhängigkeit die zuständige Sozialhilfe, in letzter Linie die einweisende Behörde.
 
 #### Art. 32a
 
@@ -357,15 +370,15 @@ verordnet:
 
 **Tod eines Gefangenen**
 
-<sup>1</sup> Stirbt ein Gefangener, so verständigen die Gefangenenbetreuer sofort die Kantonspolizei und die Fachstelle Justizvollzug. Der Gefängnisarzt nimmt die Totenschau vor und stellt den Totenschein aus. Die Fachstelle Justizvollzug macht die Mitteilung an das Zivilstandsamt.
+<sup>1</sup> Stirbt ein Gefangener, so verständigen die Gefangenenbetreuer sofort die Kantonspolizei und die Gefängnisleitung. Die Gefängnisleitung macht die Mitteilung an das Zivilstandsamt.
 
 #### Art. 34
 
 **Gefängnisarzt**
 
-<sup>1</sup> Die Fachstelle Justizvollzug sorgt für die medizinische Versorgung der Gefangenen durch eine Gefängnisärztin oder einen Gefängnisarzt und deren Stellvertretung.
+<sup>1</sup> Die Abteilung Justizvollzug sorgt zusammen mit der Gefängnisleitung für die medizinische Versorgung der Gefangenen durch eine Gefängnisärztin oder einen Gefängnisarzt und deren Stellvertretung.
 
-### 2.3. Verkehr der Gefangenen mit Dritten; Seelsorge und Vergünstigungen
+### 2.3. Aussenkontakte von Insassen mit Dritten; Seelsorge und Vergünstigungen
 
 #### Art. 35
 
@@ -373,13 +386,13 @@ verordnet:
 
 <sup>1</sup> Die eingewiesenen Personen dürfen im Rahmen der Hausordnung Besuch empfangen.
 
-<sup>2</sup> Die Besuche bedürfen einer Bewilligung der Gefangenenbetreuer bzw. des verfahrensleitenden Organs der Staats- und Jugendanwaltschaft.
+<sup>2</sup> Die Besuche bedürfen einer Bewilligung des Gefängnispersonals bzw. des verfahrensleitenden Organs der Staats- und Jugendanwaltschaft.
 
 <sup>3</sup> Die entsprechenden Gesuche sind frühzeitig zu stellen. Sie werden bewilligt, wenn der Besuch weder die Anstaltsordnung noch den Untersuchungszweck gefährdet.
 
 <sup>4</sup> Besuche sind nur während der Besuchszeiten des Gefängnisses erlaubt.
 
-<sup>5</sup> Die Besuche pro Insasse sind grundsätzlich auf eine Stunde beschränkt; in besonderen Fällen kann eine längere Besuchszeit oder ein Besuch ausserhalb der ordentlichen Besuchszeiten bewilligt werden, soweit es der Gefängnisbetrieb zulässt.
+<sup>5</sup> Die Besuche pro Insasse betragen in der Regel mindestens eine Stunde; in besonderen Fällen kann ein Besuch ausserhalb der ordentlichen Besuchszeiten bewilligt werden, soweit es der Gefängnisbetrieb zulässt.
 
 <sup>6</sup> Die Besuche finden in dafür vorgesehenen Besuchszimmern statt.
 
@@ -449,9 +462,9 @@ verordnet:
 
 **Soziale Betreuung**
 
-<sup>1</sup> Für die soziale Betreuung von Gefangenen im Strafvollzug und in der Untersuchungshaft ist der Bewährungsdienst zuständig. Die Eingewiesenen sind von den Gefangenenbetreuern auf dieses soziale Betreuungsangebot aufmerksam zu machen.
+<sup>1</sup> Für die soziale Betreuung von Gefangenen im Strafvollzug und in der Untersuchungshaft​ ist die Abteilung Soziale Dienste zuständig. Die Gefangenenbetreuer machen die Eingewiesenen auf dieses soziale Betreuungsangebot aufmerksam.
 
-<sup>2</sup> Im Einverständnis mit der Fachstelle Justizvollzug können auch andere Fachpersonen beigezogen werden.
+<sup>2</sup> Im Einverständnis mit der Gefängnisleitung können auch andere Fachpersonen beigezogen werden.
 
 #### Art. 43
 
@@ -463,9 +476,9 @@ verordnet:
 
 <sup>3</sup> Den Gefangenen kann die Benutzung eines Fernsehgerätes auf eigene Kosten erlaubt werden. Die notwendigen Anweisungen über die Benutzung erteilen die Gefangenenbetreuer. Werden Dritte durch den Betrieb gestört oder wird das Gerät auf irgendeine Art missbraucht, wird dieses sofort eingezogen.
 
-<sup>4</sup> Gefährdet der Bezug von Büchern, Zeitungen, Zeitschriften oder die Benutzung eines Radio- oder Fernsehgerätes den Haftzweck oder die Sicherheit oder verursachen diese Vergünstigungen erhebliche Umtriebe, sind sie von der Fachstelle Justizvollzug zu beschränken oder zu verbieten.
+<sup>4</sup> Die Gefängnisleitung beschränkt oder verbietet den Bezug von Büchern, Zeitungen, Zeitschriften oder die Benutzung eines Radio- oder Fernsehgerätes, wenn diese Vergünstigungen den Haftzweck oder die Sicherheit gefährden oder erhebliche Umtriebe verursachen.
 
-<sup>5</sup> Über die Benutzung von Aufnahme- und Wiedergabegeräten sowie weiterer elektronischer Geräte entscheidet die Fachstelle Justizvollzug bzw. die Staats- und Jugendanwaltschaft.
+<sup>5</sup> Die Gefängnisleitung bzw. die Verfahrensleitung entscheidet über die Benutzung von Aufnahme- und Wiedergabegeräten sowie weiterer elektronischer Geräte.
 
 #### Art. 44
 
@@ -473,9 +486,7 @@ verordnet:
 
 <sup>1</sup> Es besteht kein Rechtsanspruch auf Urlaub.
 
-<sup>2</sup> Die Gewährung von Urlauben richtet sich nach Artikel 11 VSMO und der Richtlinie der Ostschweizer Strafvollzugskommission[^44-1].
-
-[^44-1]: Einsehbar bei der Fachstelle Justizvollzug oder www.justizvollzug.ch oder www.prison.ch
+<sup>2</sup> Die Gewährung von Urlauben richtet sich nach Artikel 11 VSMO und der Richtlinie der Ostschweizer Strafvollzugskommission.
 
 ### 2.4.
 
