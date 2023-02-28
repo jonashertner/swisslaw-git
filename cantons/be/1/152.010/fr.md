@@ -4,13 +4,13 @@ number: "152.010"
 title: Décret sur les tâches des Directions et de la Chancellerie d’Etat et sur la désignation des Directions
 short: DTDD
 language: fr
-version: 2020-01-01
-valid_until: 2023-02-28
-version_adopted: 2019-09-11
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-30
 adopted: 2019-09-11
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.010"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2523/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2782/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2523/pdf_file"
 
 (DTDD)
 
-du 11.09.2019 (état au 01.01.2020)
+du 11.09.2019 (état au 01.03.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -128,8 +128,9 @@ arrête:
 - a des finances cantonales,
 - b du personnel,
 - c des impôts,
-- d des technologies de l’information et de la communication,
-- e du développement de l’organisation de l’administration.
+- d du pilotage de l'utilisation des technologies de l’information et de la communication (TIC) ainsi que de la fourniture des prestations TIC de base,
+- e du développement de l’organisation de l'administration,
+- f de la sécurité de l'information.
 
 #### Art. 7
 
@@ -168,7 +169,8 @@ arrête:
 - f de l’accompagnement législatif,
 - g des affaires du Jura bernois,
 - h de l’égalité entre la femme et l’homme,
-- i des archives.
+- i des archives,
+- k du pilotage de la numérisation de l'administration, en collaboration avec la Direction des finances.
 
 #### Art. 10
 

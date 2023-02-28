@@ -4,13 +4,13 @@ number: "152.010"
 title: Dekret über die Aufgaben der Direktionen und der Staatskanzlei und die Direktionsbezeichnungen
 short: ADSD
 language: de
-version: 2020-01-01
-valid_until: 2023-02-28
-version_adopted: 2019-09-11
+version: 2023-03-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-30
 adopted: 2019-09-11
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.010"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2523/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2782/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2523/pdf_file"
 
 (ADSD)
 
-vom 11.09.2019 (Stand 01.01.2020)
+vom 11.09.2019 (Stand 01.03.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -128,8 +128,9 @@ beschliesst:
 - a Finanzhaushalt,
 - b Personal,
 - c Steuern,
-- d Informations- und Kommunikationstechnologie,
-- e Organisationsentwicklung.
+- d Steuerung des Einsatzes der Informations- und Telekommunikationstechnologie (ICT) und ICT-Grundversorgung,
+- e Organisationsentwicklung,
+- f Informationssicherheit.
 
 #### Art. 7
 
@@ -168,7 +169,8 @@ beschliesst:
 - f begleitende Rechtsetzung,
 - g bernjurassische Angelegenheiten,
 - h Gleichstellung von Frau und Mann,
-- i Archivierung.
+- i Archivierung,
+- k Steuerung der Digitalisierung der Verwaltung, in Zusammenarbeit mit der Finanzdirektion.
 
 #### Art. 10
 
