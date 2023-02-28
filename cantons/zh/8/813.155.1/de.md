@@ -4,11 +4,10 @@ number: "813.155.1"
 title: Vollzugsverordnung zur Taxordnung des Universitätsspitals Zürich (VVO TO USZ)
 short: VVO TO USZ
 language: de
-version: "2020-07-01"
-nachtrag: "110"
-valid_until: 2023-03-01
+nachtrag: "120"
+valid_until: 2024-08-01
 adopted: 2024-05-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_155_1-2016_03_09-2016_07_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_155_1-2022_12_07-2023_03_01-120.html"
 text: pdf
 ---
 
@@ -16,15 +15,16 @@ text: pdf
 
 # Vollzugsverordnung zur Taxordnung des Universitätsspitals Zürich (VVO TO USZ)
 
-(vom 9. März 2016)<sup>1</sup>
+(vom 7. Dezember 2022)[^t-1]
 
 Die Spitaldirektion,
 
-gestützt auf § 29 der Taxordnung des Universitätsspitals Zürich (TO USZ) vom 25. März 2009<sup>2</sup>,
+gestützt auf § 29 der Taxordnung des Universitätsspitals Zürich (TO USZ) vom 7. Dezember 2022[^t-2],
 
 beschliesst:
 
-### A. Allgemeine Bestimmungen
+[^t-1]: OS 78, 109; ABl 2023-01-27.
+[^t-2]: LS 813.155.
 
 #### § 1
 
@@ -34,395 +34,301 @@ beschliesst:
 
 - a. von mindestens 24 Stunden zur Untersuchung, Behandlung und Pflege,
 
-- b. von weniger als 24 Stunden zur Untersuchung, Behandlung und Pflege, wenn während einer Nacht ein Bett belegt wird,
+- b. von weniger als 24 Stunden zur Untersuchung, Behandlung und
+
+### Pflege einer Patientin oder eines Patienten, wenn sie oder er wäh-
+
+rend mindestens einer Nacht ein Bett belegt,
 
 - c. wenn eine Patientin oder ein Patient in ein anderes Spital überwiesen wird,
 
-- d. wenn eine Patientin oder ein Patient stirbt.
+- d. wenn eine Patientin oder ein Patient im Universitätsspital Zürich stirbt.
 
 <sup>2</sup> Alle übrigen Behandlungen gelten als ambulante Behandlungen.
 
 #### § 2
 
-**Weitere Leistungen**
+**Gebühren für weitere Leistungen**
 
-Weitere Leistungen gemäss § 9 TO USZ werden gemäss Anhang 1 verrechnet, soweit sie nicht bereits durch die Grundtaxe bzw. die Entschädigung für die Basisleistung abgegolten sind.
+**Weitere Leistungen gemäss § 10 TO USZ werden gemäss An-**
+
+hang 1 verrechnet.
 
 #### § 3
 
-**Kleinbeträge**
+**Gebühren für ambulante Behandlungen**
 
-<sup>1</sup> Im Rechnungsverkehr zwischen Zahlungspflichtigen und dem Spital können Saldobeträge bis zu Fr. 50 erlassen werden.
+**Die Gebühren für ambulante Behandlungen gemäss § 13 TO**
 
-<sup>2</sup> Beträge bis Fr. 50 zugunsten des Zahlungspflichtigen sind beim Spital abzuholen.
+USZ ergeben sich aus Anhang 2 dieser Verordnung.
 
 #### § 4
 
-**Ablehnung der Aufnahme wegen offener Rechnungen**
+**Gebühren für stationäre Behandlungen**
 
-Schuldet eine Patientin oder ein Patient dem Spital Taxen, so kann das Spital die Aufnahme verweigern, soweit der Verweigerung keine gesetzlichen oder vertraglichen Aufnahmepflichten entgegenstehen.
+<sup>1</sup> Die Grundtaxe nach § 14 TO USZ ermittelt sich aus einem
+
+für das gesamte Universitätsspital Zürich gültigen Basisfallwert (Spital-
+
+### Baserate genannt) für akutsomatische Behandlungen oder einem Basis-
+
+tageswert (Spital-Dayrate genannt) für psychiatrische Behandlungen.
+
+<sup>2</sup> Die Spital-Baserate und -Dayrate werden mit einem aufgrund der jeweiligen Fallschwere pro stationäre Behandlung ermittelten Wert multipliziert und ergeben, zuzüglich Abgeltung für Mehrleistungen und weiterer Leistungen gemäss §§ 9 und 10 TO USZ, den Rechnungsbetrag aus der Grundtaxe.
 
 **1**
 
-1.10. 20 - 110
+- 1\. 4. 23 - 120
 
-### B. Ambulante Behandlungen
+<sup>3</sup> Während der Zeit auf der Intensiv-, Verbrennungs- oder Sterilpflegestation werden die Mehrleistungen für Hotellerie und die klinischen Mehrleistungen nicht verrechnet.
+
+<sup>4</sup> Die Gebühren für stationäre Behandlungen nach § 14 Abs. 1 TO USZ richten sich nach Anhang 3.
 
 #### § 5
 
-**Ambulant Basis**
-
-<sup>1</sup> Das Spital verrechnet Leistungen der Kategorie ambulant Basis nach § 10 TO USZ.
-
-<sup>2</sup> Für die Behandlung von schweizerischen und ausländischen Patientinnen und Patienten gemäss § 10 Abs. 4 TO USZ werden Zuschläge erhoben.[^5-1] § 6. <sup>1</sup> Bei Zusatzleistungen nach § 6 Abs. 2 TO USZ erhebt das Spital einen Zuschlag für Patientinnen und Patienten nach § 3 Abs. 1 lit. c TO USZ.[^5-1]
-
-**Ambulant Privat**
-
-<sup>2</sup> Für die ambulante Behandlung durch eine honorarberechtigte Ärztin oder einen honorarberechtigten Arzt gemäss § 11 Abs. 3 TO USZ können Honorare gemäss Honorarordnung Anhang 4 in Rechnung gestellt werden.
-
-[^5-1]: Fassung gemäss B vom 22. April 2020 (OS 75, 311; ABl 2020-05-08). In Kraft seit 1. Juli 2020.
-
-#### § 7
-
-**Ambulante Fallpauschale für Ästhetische Chirurgie und weitere Leistungen**
-
-<sup>1</sup> In der Kategorie ambulant Basis werden für ästhetische Eingriffe und weitere Leistungen sowie die Kombination mehrerer Eingriffe Fallpauschalen gemäss Anhang 2 verrechnet.
-
-<sup>2</sup> Werden die Leistungen in der Kategorie ambulant Privat erbracht, können Zuschläge gemäss § 6 in Rechnung gestellt werden.
-
-### C. Stationäre Behandlung
-
-**Elemente der Grundtaxe**
-
-§ 8.[^hCStationäreBehand-1] <sup>1</sup> Die Grundtaxe nach § 13 TO USZ ermittelt sich aus einem für das gesamte Universitätsspital Zürich gültigen Basisfallwert (Spital-Baserate genannt) und definierten Zusatzentgelten sowie einem Basistageswert (Spital-Dayrate genannt) für psychiatrische Behandlungen.
-
-<sup>2</sup> Die Spital-Baserate und -Dayrate werden in Anhang 3 definiert. Sie werden mit einem aufgrund der jeweiligen Fallschwere pro stationäre Behandlung ermittelten Wert multipliziert und ergeben, zuzüglich allfälliger Zusatzentgelte, den Rechnungsbetrag aus der Grundtaxe.
-
-**Sonderregelung Taxen**
-
-§ 9.[^hCStationäreBehand-1] In definierten Fällen gemäss Anhang 3 werden die Taxen abweichend berechnet (z.B. Hotellerie-Taxen für Pflegepatientinnen und Pflegepatienten, Psychiatriepatientinnen und Psychiatriepatienten [Dayrate]).
-
-[^hCStationäreBehand-1]: Fassung gemäss B vom 22. April 2020 (OS 75, 311; ABl 2020-05-08). In Kraft seit 1. Juli 2020.
-
-#### § 10
-
-**Zusatztaxe halbprivate und private Abteilung**
-
-<sup>1</sup> In der stationären Behandlung können Zusatztaxen nach § 14 der Taxordnung USZ a. für Hotellerie-Zusatztaxen gemäss Anhang 3 und b. für ärztliche Zusatzhonorare gemäss Anhang 4 erhoben werden.
-
-<sup>2</sup> Während der Zeit auf der Intensiv-, Verbrennungs- oder Sterilpflegestation wird die Hotellerie-Zusatztaxe nicht verrechnet.
-
-#### § 11
-
 **Verlegung**
 
-<sup>1</sup> Bei einer Überweisung in ein anderes Spital und bei einer Aufnahme von einem anderen Spital rechnet das Universitätsspital diejenigen Fallpauschalen ab, die sich aus der Behandlung am Universitätsspital ergeben.
+<sup>1</sup> Bei einer Überweisung in ein anderes Spital und bei einer
 
-<sup>2</sup> Auf dem Betrag gemäss Abs. 1 wird ein Abschlag gewährt, wenn die Aufenthaltsdauer der Patientin oder des Patienten im Universitätsspital unterhalb der mittleren Verweildauer der abgerechneten Fallgruppe gemäss Fallpauschalenkatalog liegt. Der Abschlag berechnet sich nach den Regeln und Definitionen zur Fallabrechnung unter SwissDRG.
+### Aufnahme von einem anderen Spital rechnet das Universitätsspital Zürich diejenigen Fallpauschalen ab, die sich aus der Behandlung am
 
-#### § 12
+Universitätsspital Zürich ergeben.
+
+<sup>2</sup> Auf dem Betrag gemäss Abs. 1 wird ein Abschlag gewährt, wenn die Aufenthaltsdauer der Patientin oder des Patienten im Universitätsspital Zürich unterhalb der unteren Grenzverweildauer der abgerechneten Fallgruppe gemäss Fallpauschalenkatalog liegt. Der Abschlag berechnet sich nach den Regeln und Definitionen zur Fallabrechnung unter SwissDRG.
+
+#### § 6
 
 **Wiedereintritt**
 
-<sup>1</sup> Grundsätzlich wird jeder Wiedereintritt als neuer Fall betrachtet.
+<sup>1</sup> Grundsätzlich wird jeder Wiedereintritt als neuer Fall be-
 
-<sup>2</sup> Erfolgt innerhalb von 18 Kalendertagen seit Austritt aus dem Universitätsspital ein Wiedereintritt ins Universitätsspital und fallen beide Fälle in dieselbe Hauptdiagnose-Kategorie (MDC = Major Diagnostic Category), so werden die Fälle nach den Regeln und Definitionen zur Fallabrechnung unter SwissDRG zusammengeführt.
+trachtet.
 
-### D. Schlussbestimmung
+<sup>2</sup> Erfolgt ein Wiedereintritt in das Universitätsspital und fallen beide
 
-#### § 13
+### Fälle in dieselbe Hauptdiagnose-Kategorie (MDC = Major Diagnostic Category), können die Fälle nach den Regeln und Definitionen zur Fall-
+
+abrechnung unter SwissDRG zusammengeführt werden.
+
+#### § 7
+
+**Ablehnung der Aufnahme wegen offener Rechnungen**
+
+**Schuldet eine Patientin oder ein Patient dem Spital Taxen,**
+
+kann das Universitätsspital Zürich die Aufnahme verweigern, soweit der Verweigerung keine gesetzlichen oder vertraglichen Aufnahmepflichten entgegenstehen.
+
+#### § 8
 
 **Inkrafttreten**
 
-Diese Vollzugsverordnung tritt am 1. Juli 2016 in Kraft und ersetzt die Vollzugsverordnung zur Taxordnung des Universitätsspitals Zürich vom 28. Oktober 2011.
+**Diese Vollzugsverordnung tritt am 1. März 2023 in Kraft. Sie**
 
-[^13-1]: Fassung gemäss B vom 22. April 2020 (OS 75, 311; ABl 2020-05-08). In Kraft seit 1. Juli 2020.
+ersetzt die Vollzugsverordnung zur Taxordnung des Universitätsspitals Zürich vom 9. März 2016.
 
 ### Anhang 1
 
-[^13-1]
-
-### Weitere Leistungen nach § 9 Taxordnung USZ (§ 2 VVO TO USZ)
+### Gebühren für weitere Leistungen (§ 2)
 
 **Tarif Einstandspreis, zuzüglich**
 
-### Leistung Prothesen, soweit es sich nicht um Implantate
+Leistung Prothesen, soweit es sich nicht um Implantate handelt, Materialien und andere Instrumente oder Bewirtschaftungs-Gegenstände, die der Patientin oder dem Patienten zuschlag von 10% mitgegeben werden Bei Spitalaustritt mitgegebene Arzneimittel sowie von der Patientin oder dem Patienten gewünschte zuzüglich 10% Arzneimittel, die nicht im Zusammenhang mit der Spitalbehandlung stehen Fremdtransport Repatriierung ins Ausland Transportbegleitung, soweit nicht bereits durch die Grundtaxe bzw. die Entschädigung für die Basisleistung abgegolten Unentschuldigte, versäumte, ambulante Termine von Substanzen, die nicht mehr verwendet werden können Unentschuldigte, versäumte, ambulante Gruppentherapiesitzungen Abmeldung von einer geplanten ambulanten, tagesstationären oder stationären Operation/ Behandlung unter 24 Stunden Nichterscheinen zu einer geplanten ambulanten, tagesstationären Operation Blutentnahme für Blutalkoholuntersuchung Blutentnahme mit Blutalkoholuntersuchung Bereitstellung eines Geburtsscheins über die Gebühren im Zivilstandswesen Zeugnisse zuhanden des Arbeitgebers
 
-handelt, Materialien und andere Instrumente oder Bewirtschaftungs-
+**3**
 
-### Gegenstände, die der Patientin oder dem Patienten zuschlag von 10%
+- 1\. 4. 23 - 120 Leistung Zeugnisse und Gutachten, soweit nicht in der Pauschale enthalten werden nach der jeweils geltenden Tarifstruktur abgerechnet Für besonders aufwendige Gutachten können Zuschläge nach Aufwand erhoben werden Persönliche Sonderleistungen wie
 
-mitgegeben werden
+**Publikumspreis,**
 
-**Publikumspreis, zuzüglich 10%**
+**Tarif Leistungen für Zeugnisse, Berichte und Gutachten**
 
-### Bei Spitalaustritt mitgegebene Arzneimittel
+**Tarif zuzüglich Zuschlag nach Aufwand**
 
-sowie von der Patientin oder vom Patienten gewünschte Arzneimittel, die nicht im
+**Fr. 0.60 plus Gebühren Rechnungsbetrag Fr. 100 pro**
 
-### Zusammenhang mit der Spitalbehandlung
-
-stehen
-
-**Rechnungsbetrag Rechnungsbetrag Fr. 100 pro Person**
-
-### Fremdtransport Repatriierung ins Ausland Transportbegleitung, soweit nicht bereits
-
-durch die Grundtaxe bzw. die Entschädigung für die Basisleistung abgegolten
-
-**Fr. 80, zuzüglich Kosten**
-
-### Unentschuldigte, versäumte, ambulante Termine
-
-von Substanzen, die nicht mehr verwendet werden können
-
-**Fr. 40**
-
-### Unentschuldigte, versäumte, ambulante Gruppentherapiesitzungen
-
-**Fr. 200**
-
-Abmeldung von einer geplanten ambulanten, tagesstationären oder stationären
-
-### Operation/Behandlung unter 24 Stunden
-
-**Fr. 500**
-
-Nichterscheinen zu einer geplanten ambulanten, tagesstationären oder stationären Operation/
-
-### Behandlung Blutentnahme für Blutalkoholuntersuchung Fr. 60 Blutentnahme mit Blutalkoholuntersuchung Fr. 120
-
-**Tarif Gebühren gemäss**
-
-### Leistung Bereitstellung eines Geburtsscheins Verordnung über die Gebühren im Zivilstands-
-
-wesen
-
-**Fr. 15 Leistungen für Zeugnisse, Berichte und Gutachten**
-
-### Zeugnisse zuhanden des Arbeitgebers Zeugnisse und Gutachten, soweit nicht
-
-in der Pauschale enthalten der Kat. A–D werden nach
-
-### Tarmed zu den jeweils
-
-gültigen Taxpunktwerten abgerechnet.
-
-### Für Gutachten der Kat. E
-
-erfolgt eine Vereinbarung mit dem Auftraggeber.
-
-### Für Aktenstudien und Aktenkonsilien erfolgt
-
-eine Vereinbarung mit dem Auftraggeber.
-
-### Persönliche Sonderleistungen wie
-
-**Grundtaxe pro Gespräch Fr. 0.60 plus Gebühren Rechnungsbetrag Fr. 100 pro Stunde**
-
-- Kosten für Telekommunikationsdienstleistungen, wie Telefon/Internet
+- Kosten für Telekommunikationsdienstleistungen, Grundtaxe pro Gespräch wie Telefon
 
 - Todesfallkosten
 
-- Abklärung und Begleitungen (Abklärung von Garantieverhältnissen,
+**Rechnungsbetrag Rechnungsbetrag gemäss Stundenansätzen pro Berufsgruppen Stunde und Person Fr. 80, zuzüglich Kosten**
 
-### USZ-intern erbrachte Dolmetscher-
-
-leistungen und Übersetzungen, Transportbegleitung, Begleitung von Patientinnen und
-
-### Patienten an den Wohnort, zu Ämtern usw.)
-
-- USZ-extern erbrachte Dolmetscherleistungen Rechnungsbetrag und Übersetzungen
-
-**Rechnungsbetrag pro Kurs Fr. 200 Fr. 400 Fr. 250**
-
-- Instandstellung von Einrichtungen
-
-**nach Analysenliste:**
-
-### Geburtsvorbereitungskurse
-
-- Geburtsvorbereitung einzeln (4 × 2 Std.)
-
-**nach Analysenliste:**
-
-### Geburtsvorbereitung Paare (4 × 2 Std.)
-
-- Geburtsvorbereitung in deutscher Sprache am Wochenende einzeln (10 Std.)
-
-**Fr. 500**
-
-### Geburtsvorbereitung in deutscher Sprache
-
-am Wochenende Paare (10 Std.)
-
-**5**
-
-1.10. 20 - 110
-
-**Tarif**
-
-### Leistung
-
-- Geburtsvorbereitung Wochenende in Englisch Fr. 275 einzeln (11 Std.)
-
-### Geburtsvorbereitung Wochenende in Englisch Fr. 550 Paare (11 Std.)
-
-- Geburtsvorbereitung bei geplantem Kaiserschnitt (2 × 3 Std.)
-
-**Fr. 180 Fr. 300 Fr. 250 Fr. 75 Fr. 150 Fr. 250 Rechnungsbetrag Fr. 150 Fr. 60 pro Stunde Fr. 100 pro Nacht**
-
-### Einzeln Paare
-
-- Rückbildung (8 × 70 Min.)
-
-- Neugeborenen-Pflege einzeln (3 Std.)
-
-### Neugeborenen-Pflege Paare (3 Std.)
-
-- Yoga in der Schwangerschaft (8 × 70 Min.)
-
-### Kosmetische Behandlung Medizinisches Peeling Sitzwache Zusatzbett für Begleitperson Von Patientin oder Patienten gewünschte Kopien der Fr. 1 pro Kopie / Patientendokumentation Alle weiteren Leistungen, für die keine Tarif-
-
-**Fr. 50 pro Datenträger Fr. 120 pro Stunde, zuzüglich Sachkosten**
-
-positionen in einem Tarifregelwerk vorhanden sind
-
-### Leistungen, die nicht oder noch nicht in der Vollzugsverordnung und deren Anhän-
-
-gen abgebildet sind, werden gemäss ambulanter oder stationärer Tarifstruktur des
-
-### USZ bewertet und abgerechnet. Die Patientin oder der Patient wird vorgängig über
-
-die zu erwartenden Kosten informiert.
-
-**Fr. 200 pro Stunde**
-
-### Betreuungs- und Dienstleistungsaufwendungen International Office Betreuung Angehörige von Verstorbenen
-
-**Fr. 100**
-
-(Administrativleistungen und Beratung)
-
-**Fr. 30 pro 15 Minuten Rechnungsbetrag**
-
-### Beratungsleistung am Telefon Neue teure Medikamente, die in den Tarif-
-
-strukturen bisher nicht abgebildet sind
+- Abklärung und Begleitungen von Garantieverhältnissen, USZ-intern erbrachte Dolmetscher- Stunde/Abklärung leistungen und Übersetzungen, Transportbegleitung, Begleitung von Patientinnen und Patienten an den Wohnort, zu Ämtern usw.)
 
 **Rechnungsbetrag**
 
-### Neue teure Materialien, die in den Tarifstrukturen
+- USZ-extern erbrachte Dolmetscherleistungen und Übersetzungen
 
-bisher nicht abgebildet sind
+**Rechnungsbetrag pro Kurs Fr. 200 Fr. 400 Fr. 250**
 
-### Anhang 2<sup>3</sup>
+- Instandstellung von Einrichtungen Geburtsvorbereitungskurse
 
-### Ambulante Gebühren gemäss § 8 VVO TO USZ
+- Geburtsvorbereitung einzeln (4× 2 Std.) Geburtsvorbereitung Paare (4× 2 Std.)
 
-- 1\. Für ästhetische Eingriffe und weitere Leistungen in der Kategorie ambulant Basis werden folgende Fallpauschalen verrechnet:
+**Fr. 40**
+
+**Fr. 200**
+
+- Geburtsvorbereitung in deutscher Sprache am Wochenende einzeln (10 Std.) Geburtsvorbereitung in deutscher Sprache am Wochenende Paare (10 Std.)
+
+**Fr. 500**
+
+**Fr. 500**
+
+- Geburtsvorbereitung Wochenende in Englisch Fr. 275 einzeln (11 Std.) Geburtsvorbereitung Wochenende in Englisch Fr. 550 Paare (11 Std.)
+
+**Fr. 60 Fr. 120 gemäss Verordnung**
+
+- Geburtsvorbereitung bei geplantem Kaiserschnitt (2× 3 Std.) Einzeln Paare
+
+**Fr. 180 Fr. 300 Fr. 250 Fr. 75 Fr. 150 Fr. 250**
+
+- Rückbildung (8× 70 Min.)
+
+**Fr. 15**
+
+- Neugeborenen-Pflege einzeln (3 Std.) Neugeborenen-Pflege Paare (3 Std.)
+
+**Tarif Rechnungsbetrag Fr. 150 Fr. 70 pro Stunde Fr. 100 pro Nacht Fr. 500 pro Tag**
+
+**Fr. 1 pro Kopie / Fr. 50 pro Datenträger Fr. 200 pro Stunde**
+
+**Fr. 100**
+
+**Fr. 30 pro 15 Minuten**
+
+**Rechnungsbetrag**
+
+**zuzüglich Sachkosten**
+
+- Yoga in der Schwangerschaft (8× 70 Min.) Leistung Kosmetische Behandlung Medizinisches Peeling Sitzwache Zusatzbett für Begleitperson Hotellerie-Leistungen für Pflegepatientinnen und -patienten in Tagespauschalen (stationär) Von Patientin oder Patienten gewünschte Kopien der Patientendokumentation Betreuungs- und Dienstleistungsaufwendungen International Office Betreuung Angehörige von Verstorbenen (Administrativleistungen und Beratung) Beratungsleistung am Telefon Neue teure Medikamente, die in den Tarifstrukturen Rechnungsbetrag bisher nicht abgebildet sind Neue teure Materialien, die in den Tarifstrukturen bisher nicht abgebildet sind Alle weiteren Leistungen, für die keine Tarifpositionen Fr. 120 pro Stunde, in einem Tarifregelwerk vorhanden sind Leistungen, die nicht oder noch nicht in der Vollzugsverordnung und deren Anhängen abgebildet sind, werden gemäss ambulanter oder stationärer Tarifstruktur des USZ bewertet und abgerechnet. Die Patientin oder der Patient wird vorgängig über die zu erwartenden Kosten informiert.
+
+**5**
+
+- 1\. 4. 23 - 120
+
+### Anhang 2
+
+### Gebühren für ambulante Behandlungen (§ 3)
+
+- 1\. Für ästhetische Eingriffe und weitere Leistungen in der Kategorie
+
+ambulant Basis betragen die Fallpauschalen (in Franken):
 
 **Fallpauschale**
 
 ### Leistung
 
-### Ästhetische Eingriffe und Behandlungen
+### 1.1 Ästhetische Eingriffe und Behandlungen
 
 **6 000 4 000 4 400**
 
-Facelift partiell Facelift partiell TKL in Vollnarkose Rhinoplastik (einfach)
+1.1.1 Facelift partiell 1.1.2 Facelift partiell TKL in Vollnarkose 1.1.3 Rhinoplastik (einfach)
 
-### Ohrenanlegeplastik
+### 1.2 Ohrenanlegeplastik
 
 **3 000 3 500**
 
-Ohrenanlegeplastik bds. in Lokalanästhesie Ohrenanlegeplastik bds. in Vollnarkose
+1.2.1 Ohrenanlegeplastik bds. in Lokalanästhesie 1.2.2 Ohrenanlegeplastik bds. in Vollnarkose
 
-### Blepharoplastiken
+### 1.3 Blepharoplastiken
 
 **3 000**
 
-Blepharoplastik 1 Unterlid ambulant in Lokalanästhesie Blepharoplastik 1 Unterlid in der Tagesklinik in Lokalanästhesie Blepharoplastik 1 Unterlid in der Tagesklinik in Vollnarkose 3 750 Blepharoplastik 2 Unterlider ambulant in Lokalanästhesie Blepharoplastik 2 Unterlider in der Tagesklinik in Lokalanästhesie Blepharoplastik 2 Unterlider in der Tagesklinik in Vollnarkose Blepharoplastik 1 Oberlid ambulant in Lokalanästhesie Blepharoplastik 1 Oberlid in der Tagesklinik in Lokalanästhesie Blepharoplastik 1 Oberlid in der Tagesklinik in Vollnarkose Blepharoplastik 2 Oberlider ambulant in Lokalanästhesie
+1.3.1 Blepharoplastik 1 Unterlid ambulant in Lokalanästhesie 1.3.2 Blepharoplastik 1 Unterlid in der Tagesklinik in Lokalanästhesie 3 375 1.3.3 Blepharoplastik 1 Unterlid in der Tagesklinik in Vollnarkose 1.3.4 Blepharoplastik 2 Unterlider ambulant in Lokalanästhesie 1.3.5 Blepharoplastik 2 Unterlider in der Tagesklinik in Lokalanästhesie 1.3.6 Blepharoplastik 2 Unterlieder in der Tagesklinik in Vollnarkose 5 000 1.3.7 Blepharoplastik 1 Oberlid ambulant in Lokalanästhesie 1.3.8 Blepharoplastik 1 Oberlid in der Tagesklinik in Lokalanästhesie 2 625 1.3.9 Blepharoplastik 1 Oberlid in der Tagesklinik in Vollnarkose 1.3.10 Blepharoplastik 2 Oberlider ambulant in Lokalanästhesie 1.3.11 Blepharoplastik 2 Oberlider in der Tagesklinik in Lokalanästhesie 1.3.12 Blepharoplastik 2 Oberlider in der Tagesklinik in Vollnarkose 4 000 1.3.13 1 Brauenanhebung ambulant in Lokalanästhesie 1.3.14 1 Brauenanhebung in der Tagesklinik in Lokalanästhesie 1.3.15 1 Brauenanhebung in der Tagesklinik in Vollnarkose 1.3.16 2 Brauenanhebungen ambulant in Lokalanästhesie 1.3.17 2 Brauenanhebungen in der Tagesklinik in Lokalanästhesie 1.3.18 2 Brauenanhebungen in der Tagesklinik in Vollnarkose 1.3.19 Xanthelasmen-Entfernung einseitig
 
-**5 000 2 250**
+**Fallpauschale 500 800 500 100 250 500 250 450 250 150 250 450 700 1 100 750 550 110 800 4 000 800 2 000 4 000 4 000 800 2 000**
 
-**2 625**
+### Leistung
 
-**3 000 3 000**
+1.3.20 Xanthelasmen-Entfernung beidseitig 1.3.21 Personalized Cell Therapy 1.3.22 Ästh. Behandl. OP Fibrome/15 Min.
 
-**7**
+1.3.23 Ästh. Behandl. OP Probebehandlung 1.3.24 Ästh. Behandl. OP Seborrhoische Keratose/15 Min.
 
-1.10. 20 - 110 Blepharoplastik 2 Oberlider in der Tagesklinik in Lokalanästhesie Blepharoplastik 2 Oberlider in der Tagesklinik in Vollnarkose 1 Brauenanhebung ambulant in Lokalanästhesie 1 Brauenanhebung in der Tagesklinik in Lokalanästhesie 1 Brauenanhebung in der Tagesklinik in Vollnarkose 2 Brauenanhebungen ambulant in Lokalanästhesie 2 Brauenanhebungen in der Tagesklinik in Lokalanästhesie 1 250
+1.3.25 Ästh. Behandl. OP Syringome beidseits 1.3.26 Ästh. Behandl. OP Talgdrüsenhyperplasie/15 Min.
 
-**3 500**
-
-**4 000 750 940 1 125 1 000**
-
-**1 500 300 500 800 500 100 250 500 250 450 250 150 250 450 700 1 100 750 550 110 150 800 4 000 800**
-
-2 Brauenanhebungen in der Tagesklinik in Vollnarkose Xanthelasmen-Entfernung einseitig Xanthelasmen-Entfernung beidseitig Personalized Cell Therapy Ästh. Behandl. OP Fibrome/15 Min.
-
-Ästh. Behandl. OP Probebehandlung Ästh. Behandl. OP Seborrhoische Keratose/15 Min.
-
-**3 375**
-
-**4 000**
+**3 750 4 000**
 
 **4 500**
 
-Ästh. Behandl. OP Syringome beidseits Ästh. Behandl. OP Talgdrüsenhyperplasie/15 Min.
+**2 250**
 
-**4 000 4 000 800 2 000 4 000**
+1.3.27 Ästh. Lasertherapie jede weitere Behandlung 1.3.28 Ästh. Lasertherapie Probelaser 1.3.29 Ästh. Lasertherapie vermehrter Zeitaufwand 1.3.30 Lasertherapie klein 1.3.31 Lasertherapie mittel 1.3.32 Lasertherapie gross 1.3.33 Laser CO2 Fractional, ganzes Gesicht, gross 1.3.34 Laser CO2 Fractional, Teilbereich 1.3.35 Laser CO2 Fractional, Teilbereich klein 1.3.36 Sklerotherapie Besenreiser 1 Sitzung pauschal 1.3.37 Narbenkorrektur klein ambulant in Lokalanästhesie 1.3.38 Narbenkorrektur klein in Tagesklinik 1.3.39 Narbenkorrektur/Weichteilkorrektur klein ambulant in LA 1.3.40 Narbenkorrektur/Weichteilkorrektur gross ambulant in LA 1.3.41 Eigenfettunterspritzung ambulant in Lokalanästhesie 1.3.42 Eigenfettunterspritzung in Tagesklinik in Vollnarkose 1.3.43 Eigenfettunterspritzung klein ambulant in LA 1.3.44 Eigenfettunterspritzung gross ambulant in LA 1.3.45 Mamma Augmentation mit Eigenfett, Ersteingriff (in der Tagesklinik) 1.3.46 Mamma Augmentation mit Eigenfett, Folgeeingriff (in der Tagesklinik) 1.3.47 Liposuction eine Region 1.3.48 Liposuction pro weitere Region 1.3.49 Liposuction ambulant in LA 1 Region 1.3.50 Zuschlag Zusatznacht pro Nacht 1.3.51 Cellulite Single Procedure Set 1.3.52 Mini-Abdominoplastik ambulant in LA 1.3.53 Mini-Abdominoplastik (in Vollnarkose)
+
+**3 000 3 000**
+
+**3 500**
+
+**750 940 1 125 1 000 1 250 1 500 300**
 
 **9 500**
 
-**6 000 4 500 800 2 000 1 000 2 900 2 000 4 000 4 000 3 000 4 000 70 70**
+**6 000 4 500 800 2 000 1 000 2 900 2 000 4 000**
 
-Ästh. Lasertherapie jede weitere Behandlung Ästh. Lasertherapie Probelaser Ästh. Lasertherapie vermehrter Zeitaufwand Lasertherapie klein Lasertherapie mittel Lasertherapie gross Laser CO2 Fractional, ganzes Gesicht, gross Laser CO2 Fractional, Teilbereich Laser CO2 Fractional, Teilbereich klein Sklerotherapie Besenreiser 1 Sitzung pauschal Medizinisches Peeling Narbenkorrektur klein ambulant in Lokalanästhesie Narbenkorrektur klein in Tagesklinik Narbenkorrektur/Weichteilkorrektur klein ambulant in LA Narbenkorrektur/Weichteilkorrektur gross ambulant in LA 2 000 Eigenfettunterspritzung ambulant in Lokalanästhesie Eigenfettunterspritzung in Tagesklinik in Vollnarkose Eigenfettunterspritzung klein ambulant in LA Eigenfettunterspritzung gross ambulant in LA Eigenfettunterspritzung TKL in Vollnarkose Mamma Augmentation mit Eigenfett, Ersteingriff (in der Tagesklinik) Mamma Augmentation mit Eigenfett, Folgeeingriff (in der Tagesklinik) Liposuction eine Region Liposuction pro weitere Region Liposuction ambulant in LA 1 Region Zuschlag Zusatznacht pro Nacht Cellulite Single Procedure Set Mini-Abdominoplastik ambulant in LA Mini-Abdominoplastik (in Vollnarkose) Oberarmstraffung (in Vollnarkose) Lidstraffung ambulant in LA Lidstraffung TKL in Vollnarkose Venen-Laser-Therapie pro 10 cm Venen-Clarivein-Therapie pro 10 cm
+**7**
 
-### Botulinumtoxin-Behandlungen
+- 1\. 4. 23 - 120
+
+**Fallpauschale 10 000 7 500 8 000 6 000 10 000 7 500 3 000 4 000 70 70**
+
+### Leistung
+
+1.3.54 Bruststraffung (bds.) 1.3.55 Bruststraffung (einseitig) 1.3.56 Oberarmstraffung (bds.) 1.3.57 Oberarmstraffung (einseitig) 1.3.58 Oberschenkelstraffung (bds.) 1.3.59 Oberschenkelstraffung (einseitig) 1.3.60 Lidstraffung ambulant in LA 1.3.61 Lidstraffung TKL in Vollnarkose 1.3.62 Venen-Laser-Therapie pro 10 cm 1.3.63 Venen-Clarivein-Therapie pro 10 cm
+
+### 1.4 Botulinumtoxin-Behandlungen
 
 **450 500 150 700 1 200 450**
 
-Stirn Stirn und Augen einzelne kleine Region Hyperhidrose Therapie Achseln Hyperhidrose Therapie Hände und Füsse Filler pro Spritze Bei Kombination mehrerer Botulinumtoxin-Behandlungen Preisreduktion
+1.4.1 Stirn 1.4.2 Stirn und Augen 1.4.3 Einzelne kleine Region 1.4.4 Hyperhidrose Therapie Achseln 1.4.5 Hyperhidrose Therapie Hände und Füsse 1.4.6 Filler pro Spritze 1.4.7 Bei Kombination mehrerer Botulinumtoxin-Behandlungen Preisreduktion
 
 **100**
 
-**9**
+### 1.5 Telemedizinische Leistungen
 
-1.10. 20 - 110
+**75**
 
-### Gynäkologische Leistungen und Behandlungen
+1.5.1 Teledermatologische Beratungen
 
-**1 900 400 350 550 60 1 500**
+### 1.6 Gynäkologische Leistungen und Behandlungen
 
-Laparoskopische Sterilisation Einlage Gynefix (ohne Operationssaalbenutzung) Einlage Kupferspirale (ohne Operationssaalbenutzung) Einlage Hormonspirale (ohne Operationssaalbenutzung) ambulante Beratung und Abgabe Pille danach PraenaTest<sup>®</sup>
+**1 900 400 350 550 60**
 
-### Geburtshilfliche Leistungen
+1.6.1 Laparoskopische Sterilisation (Einzeleingriff) 1.6.2 Einlage Gynefix (ohne Operationssaalbenutzung) 1.6.3 Einlage Kupferspirale (ohne Operationssaalbenutzung) 1.6.4 Einlage Hormonspirale (ohne Operationssaalbenutzung) 1.6.5 Ambulante Beratung und Abgabe Pille danach
+
+### 1.7 Geburtshilfliche Leistungen
 
 **20**
 
-Hörscreening bei Neugeborenen
+1.7.1 Hörscreening bei Neugeborenen
 
-### Urologische Leistungen und Behandlungen
+**Fallpauschale**
+
+### Leistung
+
+### 1.8 Urologische Leistungen und Behandlungen
 
 **1 200 7 500 2 500 1 500 1 300**
 
-Vasektomie Vaso-Vasostomie Hodenbiopsie Abstandhalter (Spacer) für Strahlentherapie der Prostata Zirkumzision
+1.8.1 Vasektomie 1.8.2 Vaso-Vasostomie 1.8.3 Hodenbiopsie 1.8.4 Abstandhalter (Spacer) für Strahlentherapie der Prostata 1.8.5 Zirkumzision
 
-### Radiologische-/Nukleramedizinische Leistungen und Behandlungen
+### 1.9 Radiologische-/Nukleramedizinische Leistungen
 
-**1 000 200 32 000 100 200 150 300**
+und Behandlungen 1.9.1 O-Arm/Iso-C (CT-ähnliche Bildgebung), 1. Region 1.9.2 O-Arm/Iso-C, pro weitere Region 1.9.3 Zuschlag Laborleistungen für ambulante Barzahler 1 1.9.4 Zuschlag Laborleistungen für ambulante Barzahler 2 1.9.5 Zuschlag Radiologieleistungen für ambulante Selbstzahler 1 1.9.6 Zuschlag Radiologieleistungen für ambulante Selbstzahler 2
 
-O-Arm/Iso-C (CT-ähnliche Bildgebung), 1. Region O-Arm/Iso-C, pro weitere Region SIRT-Therapie Zuschlag Laborleistungen für ambulante Barzahler 1 Zuschlag Laborleistungen für ambulante Barzahler 2 Zuschlag Radiologieleistungen für ambulante Selbstzahler 1 Zuschlag Radiologieleistungen für ambulante Selbstzahler 2
+**1 000 200 100 200 150 300**
 
-### Rheumatologische Leistungen und Behandlungen
+### 1.10 Infektiologische Leistungen
+
+**3**
+
+1.10.1 Telefonische Beratung Infektiologie (pro Minute)
+
+### 1.11 Rheumatologische Leistungen und Behandlungen
 
 **120 300 300 500 375 180 250**
 
-Feldenkrais pro Stunde Radiofrequenztherapie lumbal Whole Body Composition Stosswellentherapie Bewegungsapparat Stosswellentherapie Bewegungsapparat einseitig Eigenbluttherapie mit Platelet Rich Plasma (PRP einfach) Eigenbluttherapie mit Platelet Rich Plasma (PRP komplex)
+1.11.1 Feldenkrais pro Stunde 1.11.2 Radiofrequenztherapie lumbal 1.11.3 Whole Body Composition 1.11.4 Stosswellentherapie Bewegungsapparat 1.11.5 Stosswellentherapie Bewegungsapparat einseitig 1.11.6 Eigenbluttherapie mit Platelet Rich Plasma (PRP einfach) 1.11.7 Eigenbluttherapie mit Platelet Rich Plasma (PRP komplex)
 
-### Kardiologische-/Herzchirurgische Leistungen
+### 1.12 Kardiologische-/Herzchirurgische Leistungen
 
 bis und mit Kapsel-Videoendoskopie des Dünndarms
 
@@ -430,39 +336,41 @@ bis und mit Kapsel-Videoendoskopie des Dünndarms
 
 **7 000**
 
-Excor-Mobile-Gerätewechsel
+1.12.1 Excor-Mobile-Gerätewechsel
 
-### Gastroenterologische Leistungen und Behandlungen
+### 1.13 Gastroenterologische Leistungen und Behandlungen
 
 **4 600**
 
-Endobarrier (Implantat) bei nichtoperativer Behandlung zur Gewichtsabnahme Kapsel-Videoendoskopie des Dünndarms (nur Kamera-Kapsel)
+1.13.1 Endobarrier (Implantat) bei nichtoperativer Behandlung zur Gewichtsabnahme 1.13.2 Kapsel-Videoendoskopie des Dünndarms (nur Kamera-Kapsel) 900
 
-**900**
+**9**
 
-### DER
+- 1\. 4. 23 - 120
+
+**Fallpauschale**
+
+### Leistung
+
+### 1.14 Dermatologische Leistungen
 
 **50**
 
-Einlage Augenschale Gold
+1.14.1 Einlage Augenschale Gold
 
-### ORL
+### 1.15 ORL Leistungen
 
 **600 1 200**
 
-Schnarch-OP oder Weichgaumeneingriff in LA Schnarch-OP oder Weichgaumeneingriff in VA
+1.15.1 Schnarch-OP oder Weichgaumeneingriff in LA 1.15.2 Schnarch-OP oder Weichgaumeneingriff in VA
 
-**11**
+### 1.16 Notfallbehandlungen
 
-1.10. 20 - 110
+**pauschal 550 pauschal 850 pauschal 1200**
 
-### Notfallbehandlungen
+1.16.1 Notfallbehandlung Kategorie 1 (kleiner Aufwand) 1.16.2 Notfallbehandlung Kategorie 2 (mittlerer Aufwand) 1.16.3 Notfallbehandlung Kategorie 3 (grosser Aufwand) 1.16.4 Notfallbehandlung Kategorie 4 (Aufwand grösser als Kategorie 3) 1.16.5 Notfallpauschale Erstkonsultation AUG 1.16.6 Notfallpauschale Nachkontrolle AUG
 
-Notfallbehandlung Kategorie 1 (kleiner Aufwand) pauschal 550<sup>4</sup> Notfallbehandlung Kategorie 2 (mittlerer Aufwand) pauschal 850<sup>4</sup> Notfallbehandlung Kategorie 3 (grosser Aufwand) pauschal 1200<sup>4</sup> Notfallbehandlung Kategorie 4 (Aufwand grösser als Kategorie 3) Notfallpauschale Erstkonsultation AUG Notfallpauschale Nachkontrolle AUG Notfallpauschale Permanence Circle
-
-**nach Aufwand**
-
-**300 200 400**
+**nach Aufwand 400 250**
 
 - 2\. Für die Kombination mehrerer Eingriffe werden deren Taxen wie folgt verrechnet:
 
@@ -474,119 +382,103 @@ Notfallbehandlung Kategorie 1 (kleiner Aufwand) pauschal 550<sup>4</sup> Notfall
 
 **zu 100% zu 75% zu 50%**
 
-- 3\. Für die ambulante Korrektur eines am USZ durchgeführten ästhetischen Eingriffs werden 40% der betreffenden Fallpauschale nach Ziff. 1 verrechnet bzw. der betreffenden Fallpauschale nach Anhang 3 Ziff. 3 bei ambulanten Korrekturen stationärer Leistungen.
+- 3\. Für die ambulante Korrektur eines am USZ durchgeführten ästhetischen
 
-- 4\. Für die Durchführung eines einseitigen Eingriffs gemäss Ziff. 1 bei einer Pauschale, die beide Seiten umfasst, werden 75% der Pauschale verrechnet.
+### Eingriffs werden 40% der betreffenden Fallpauschale nach Ziff. 1
 
-- 5\. Im Tarmed nichttarifierte Leistungen, die im engeren Zusammenhang mit Transplantationen stehen, werden nach den Ansätzen gemäss den gesamtschweizerisch geltenden Verträgen über die Fallabwicklung und Abgeltung von nicht durch SwissDRG geregelten Leistungen im Zusammenhang mit der Transplantation von Soliden Organen und hämatopoietischen Stammzellen abgegolten.
+verrechnet bzw. der betreffenden Fallpauschale nach Anhang 3 Ziff. 3 bei ambulanten Korrekturen stationärer Leistungen.
 
-- 6\. Nichtpauschalierte Leistungen in der Kategorie ambulant Basis werden gemäss § 10 der Taxordnung nach dem Tarifregelwerk Tarmed mit folgenden Taxpunktwerten abgerechnet.
+- 4\. Für die Durchführung eines einseitigen Eingriffs gemäss Ziff. 1 bei einer
 
-**Schweizer Ausländische**
+### Pauschale, die beide Seiten umfasst, werden 75% der Pauschale
 
-Zürcher Patientinnen Patientinnen Patientinnen und Patienten Taxpunktwert 1.50
+verrechnet.
 
-**und und Patienten Patienten 1.50 1.50**
+- 5\. In der ambulanten Tarifstruktur nichttarifierte Leistungen, die im engeren Zusammenhang mit Transplantationen stehen, werden nach den Ansätzen gemäss den gesamtschweizerisch geltenden Verträgen über die Fallabwicklung und Abgeltung von nicht durch SwissDRG geregelten Leistungen im Zusammenhang mit der Transplantation von Soliden Organen und hämatopoietischen Stammzellen abgegolten.
 
-Nichtpauschalierte Leistungen in der Kategorie ambulant Privat werden gemäss § 10 der Taxordnung nach dem Tarifregelwerk Tarmed mit folgenden Taxpunktwerten abgerechnet.
+- 6\. Für die freie Wahl einer Kaderärztin oder eines Kaderarztes wird ein Zuschlag gemäss § 13 TO USZ auf den Pauschalpreis der jeweiligen
 
-Ärztliche Zusatzhonorare gemäss § 16 der Taxordnung werden zusätzlich verrechnet.
+### Leistung erhoben.
 
-**Schweizer Ausländische**
+- 7\. Für folgende nicht pauschalierte Leistungen im ambulanten Bereich
 
-Zürcher Patientinnen Patientinnen Patientinnen und Patienten Taxpunktwert 1.50
+## <sup>e</sup> (cid:2)<sup>rgeben</sup> <sup>sich</sup> <sup>die</sup> <sup>Taxpunktwerte</sup> <sup>aus</sup> <sup>den</sup> <sup>nachfolgenden</sup> <sup>Tabellen:</sup> (cid:2) <sup>Laboruntersuchungen</sup> <sup>gemäss</sup> <sup>Analysenliste</sup>
 
-**und und Patienten Patienten 1.50 1.50**
+Paramedizinische Tarife (Physio-, Ergo-, Logotherapie, Ernährungs- und Diabetesberatung und Hebammen-Leistungen)
 
-Weitere nichtpauschalierte Leistungen im ambulanten Bereich gemäss nachfolgender Aufzählung.
+Zürcher Schweizer Ausländische Patientinnen Patientinnen Patientinnen und Patienten und Patienten und Patienten Taxpunktwert 1.50
 
-- Laboruntersuchungen gemäss Analysenliste
+**1.50 1.50**
 
-- Paramedizinische Tarife (Physio-, Ergo-, Logotherapie, Ernährungs- und Diabetesberatung und Hebammen-Leistungen)
+- 8\. Zahnärztliche Leistungen
 
-**Schweizer Ausländische**
+Zürcher Schweizer Ausländische Patientinnen Patientinnen Patientinnen und Patienten und Patienten und Patienten Taxpunktwert 1.15
 
-Zürcher Patientinnen Patientinnen Patientinnen und Patienten Taxpunktwert 1.50
+**1.15 1.20**
 
-**und und Patienten Patienten 1.50 1.50**
+**11**
 
-**13**
+- 1\. 4. 23 - 120
 
-**und und Patienten Patienten 4.50 4.50**
+### Anhang 3
 
-1.10. 20 - 110 – Zahnärztliche Leistungen
+### Gebühren für stationäre Behandlungen (§ 4 Abs. 4)
 
-**Schweizer Ausländische**
+### 1. Die Fallpauschalen für stationäre Behandlungen gemäss § 14 Abs. 1 TO USZ in der Kategorie allgemeine Abteilung betragen (in Franken):
 
-Zürcher Patientinnen Patientinnen Patientinnen und Patienten Taxpunktwert 4.50
+**Fallpauschale**
 
-### Anhang 3<sup>3</sup>
+### Leistung
 
-### Stationäre Gebühren gemäss § 9 VVO TO USZ
+### 1.1 Ästhetische Eingriffe und Behandlungen
 
-- 1\. Die Spital-Baserate gemäss § 13 TO USZ beträgt (in Franken pro Fall):
+**12 000 6 000 4 400 8 000 7 000 10 000 7 500 7 500 1 000 2 500 8 000 7 000 7 000 10 000 4 000 8 000 6 000 8 000 12 000 14 000 10 000 6 000 2 900**
 
-**Schweizer Ausländische**
+1.1.1 Facelift total 1.1.2 Facelift partiell stationär 1.1.3 Nasenkorrektur einfach (Rhinoplastik Tip) 1.1.4 Rhinoplastik 1.1.5 Oberarmlift (beidseits) 1.1.6 Mammareduktionsplastik (beidseits) 1.1.7 Mammaaugmentationsplastik \*, Mammadeformität \* 1.1.8 Mammaimplantatewechsel\* 1.1.9 \* Brustimplantat (pro Implantat) 1.1.10 Reimplantation Prothesen 1.1.11 Mastopexie 1.1.12 Periareoläre Mastopexie 1.1.13 Subkutane Mastektomie (beidseits) 1.1.14 Abdominoplastik 1.1.15 Mini-Abdominoplastik 1.1.16 Oberschenkelstraffung (beidseits) 1.1.17 Narben-/Weichteilkorrektur mittel (in Vollnarkose) 1.1.18 Narben-/Weichteilkorrektur gross (in Vollnarkose) 1.1.19 Beltlipectomie 1.1.20 Lower Bodylift 1.1.21 Upper Bodylift 1.1.22 Eigenfettunterspritzung stationär 1.1.23 Cellulite Single Procedure Set
 
-Zürcher Patientinnen Patientinnen Patientinnen und Patienten Baserate 13 300
-
-**und und Patienten Patienten 14 600 15 900**
-
-- 2\. Die Spital-Dayrate für Psychiatriepatienten beträgt (in Franken pro Tag):
-
-**Schweizer Ausländische**
-
-Zürcher Patientinnen Patientinnen Patientinnen und Patienten Psychiatrie 1 200
-
-**und und Patienten Patienten 1 300 1 400**
-
-- 3\. Nachfolgende Leistungen werden nach Fallpreispauschalen abgerechnet. Diese betragen (in Franken):
-
-**Fallpreispauschale**
-
-Leistung
-
-### Ästhetische Eingriffe und Behandlungen
-
-**12 000 6 000 4 400 8 000 7 000 10 000 7 500 7 500 1 000 2 500 8 000 7 000**
-
-Facelift total Facelift partiell stationär Nasenkorrektur einfach (Rhinoplastik Tip) Rhinoplastik Oberarmlift (beidseits) Mammareduktionsplastik (beidseits) Mammaaugmentationsplastik\*, Mammadeformität\* Mammaimplantatewechsel\* \* Brustimplantat (pro Implantat) Reimplantation Prothesen Mastopexie periareoläre Mastopexie
-
-**15**
-
-1.10. 20 - 110 Subkutane Mastektomie (beidseits) Abdominoplastik Mini-Abdominoplastik Oberschenkelstraffung (beidseits) Narben-/Weichteilkorrektur mittel (in Vollnarkose) Narben-/Weichteilkorrektur gross (in Vollnarkose) Beltlipectomie Lower Bodylift Upper Bodylift Eigenfettunterspritzung stationär Cellulite Single Procedure Set
-
-**7 000 8 000 4 000 8 000 6 000 8 000 10 000 14 000 10 000 6 000 2 900**
-
-### Gynäkologische Leistungen und Behandlungen
+### 1.2 Gynäkologische Leistungen und Behandlungen
 
 **1 900 950**
 
-Laparoskopische Sterilisation (Einzeleingriff) Laparoskopische Sterilisation (Zusatzeingriff) Gelegenheitssterilisation (bei gynäkologischen Laparoskopie-Eingriffen oder bei Kaiserschnitt) Abdominale Sterilisation post partum PraenaTest<sup>®</sup> Einlage Spirale während geplanten Eingriffs\* Einlage Implanon während geplanten Eingriffs\* \* Verrechnung von Spirale oder Implanon zusätzlich nach Modell
+1.2.1 Laparoskopische Sterilisation (Einzeleingriff) 1.2.2 Laparoskopische Sterilisation (Zusatzeingriff)
 
-**200 800 1 500 30 50 Preis je**
+**Fallpauschale**
 
-### Kardiologische Leistungen und Behandlungen
+### Leistung
+
+**200 800 30 50 Preis je**
+
+1.2.3 Sterilisation (bei gynäkologischen Laparoskopie-Eingriffen oder bei Kaiserschnitt) 1.2.4 Abdominale Sterilisation post partum 1.2.5 Einlage Spirale während geplanten Eingriffs 1.2.6 Einlage Implanon während geplanten Eingriffs 1.2.7 \* Verrechnung von Spirale oder Implanon zusätzlich nach Modell
+
+### 1.3 Kardiologische Leistungen und Behandlungen
 
 **13 000**
 
-Renale Symphatikusdenervation
+1.3.1 Renale Symphatikusdenervation
 
-### Radiologische Leistungen und Behandlungen
+### 1.4 Radiologische Leistungen und Behandlungen
 
 **1 000 200**
 
-O-Arm/Iso-C (CT-ähnliche Bildgebung), 1. Region O-Arm/Iso-C pro weitere Region
+1.4.1 O-Arm/Iso-C (CT-ähnliche Bildgebung), 1. Region 1.4.2 O-Arm/Iso-C pro weitere Region
 
-### Gastroenterologische Leistungen und Behandlungen
+### 1.5 Gastroenterologische Leistungen und Behandlungen
+
+1.5.1 Endobarrier (Implantat) Bei nichtoperativer Behandlung zur Gewichtsabnahme
 
 **4 600**
 
-Endobarrier (Implantat) bei nichtoperativer Behandlung zur Gewichtsabnahme Bei Eingriffen mit Implantaten werden diese separat verrechnet.
+Bei Eingriffen mit Implantaten werden diese separat verrechnet.
 
-- 4\. Für die Durchführung eines einseitigen Eingriffs gemäss Ziff. 3 bei einer Pauschale, die beide Seiten umfasst, werden 75% der Pauschale verrechnet.
+- 2\. Für die Durchführung eines einseitigen Eingriffs gemäss Ziff. 1 bei einer
 
-- 5\. Für die Kombination mehrerer Eingriffe gemäss Ziff. 3 werden deren Taxen wie folgt verrechnet:
+### Pauschale, die beide Seiten umfasst, werden 75% der Pauschale
+
+verrechnet.
+
+- 3\. Für die Kombination mehrerer Eingriffe gemäss Ziff. 1 werden deren
+
+### Taxen wie folgt verrechnet:
 
 - a. Kombination mehrerer ästhetischer Eingriffe teuerster Eingriff ab dem zweiten Eingriff
 
@@ -596,183 +488,24 @@ Endobarrier (Implantat) bei nichtoperativer Behandlung zur Gewichtsabnahme Bei E
 
 **zu 100% zu 75% zu 50%**
 
-- 6\. Für die stationäre Korrektur eines am USZ durchgeführten ästhetischen Eingriffs gemäss Ziff. 3 werden 40% der betreffenden Fallpauschale nach Ziff. 3 verrechnet.
+**13**
 
-- 7\. Behandlungen auf der Verbrennungsstation werden mit nachfolgenden Tagespauschalen abgerechnet:
+- 1\. 4. 23 - 120
 
-**Schweizer Ausländische**
+- 4\. Für die stationäre Korrektur eines am USZ durchgeführten ästhetischen
 
-Zürcher Patientinnen Patientinnen Patientinnen und Patienten Verbrennungsstation 5 000 Verbrennungs-IPS (regulär) 7 000 Verbrennungs-IPS (komplex) 14 500
+### Eingriffs gemäss Ziff. 3 werden 40% der betreffenden Fallpauschale
 
-**17**
+nach Ziff. 3 verrechnet.
 
-1.10. 20 - 110 8. Hotellerie-Leistungen für Pflegepatientinnen und -patienten werden mit nachfolgenden Tagespauschalen abgerechnet:
+- 5\. In SwissDRG unbewertete Transplantationsleistungen werden nach den
 
-**Schweizer Ausländische**
+### Ansätzen gemäss den gesamtschweizerisch geltenden Verträgen über
 
-Zürcher Patientinnen Patientinnen Patientinnen und Patienten Hotellerie-Taxen für Pflegepatientinnen und -patienten 500
+die Fallabwicklung und Abgeltung von nicht durch SwissDRG geregelten
 
-**und und Patienten Patienten**
+### Leistungen im Zusammenhang mit der Transplantation von Soliden Organen und hämatopoietischen Stammzellen abgegolten.
 
-**500 500**
+- 6\. Für die freie Wahl einer Kaderärztin oder eines Kaderarztes wird ein Zuschlag gemäss § 15 TO USZ auf den Pauschalpreis der jeweiligen
 
-- 9\. Zusatztaxen nach § 14 der Taxordnung USZ betragen (in Franken pro Tag):
-
-**Schweizer Ausländische**
-
-Zürcher Patientinnen Patientinnen Patientinnen und Patienten Halbprivatabteilung 570 Privatabteilung 1 010
-
-**und und Patienten Patienten 5 000 5 000 7 000 7 000 14 500 14 500**
-
-**und und Patienten Patienten 570 590 1 010 1 070**
-
-- 10\. In SwissDRG unbewertete Transplantationsleistungen werden nach den Ansätzen gemäss den gesamtschweizerisch geltenden Verträgen über die Fallabwicklung und Abgeltung von nicht durch SwissDRG geregelten Leistungen im Zusammenhang mit der Transplantation von Soliden Organen und hämatopoietischen Stammzellen abgegolten.
-
-### Anhang 4
-
-### Übersicht ärztliche Zusatzhonorare
-
-### 1. Stationäre Behandlung 1.1 Betreuung und Konsilien
-
-**Arzthonorar Pauschaltarif (Fr.)1**
-
-### Leistung
-
-[^hLeistung_3-1]: Für Notfälle kann ein Zuschlag verrechnet werden. Der Notfallzuschlag gilt nur für Massnahmen, die notfallmässig ausgeführt werden müssen. (Folgevisiten und zusätzliche Massnahmen sind im Rahmen der üblichen Betreuung zu verrechnen): Wochentag (tagsüber, 07.00–19.00): + 30% Nacht, Wochenende, Feiertag: + 50%
-
-### Betreuung von nichtoperativen und psychiatrischen Patienten
-
-[^hLeistung_3-1]
-
-**300–700 70–200 100–300**
-
-1.1.1 Aufnahmeuntersuchung<sup>3</sup> 1.1.2 Laufende Visiten<sup>4,</sup> <sup>5</sup> 1.1.3 Abschlussvisite inkl. Bericht<sup>6</sup>
-
-[^hBetreuungvonnichto-1]: Für Notfälle kann ein Zuschlag verrechnet werden. Der Notfallzuschlag gilt nur für Massnahmen, die notfallmässig ausgeführt werden müssen. (Folgevisiten und zusätzliche Massnahmen sind im Rahmen der üblichen Betreuung zu verrechnen): Wochentag (tagsüber, 07.00–19.00): + 30% Nacht, Wochenende, Feiertag: + 50%
-
-### Betreuung von operativen Patienten
-
-[^hBetreuungvonnichto-1]
-
-**100–300 70–300**
-
-1.1.4 Aufnahmeuntersuchung<sup>7</sup> 1.1.5 Tagespauschale (inkl. Operations- und Abschlusstag)\*
-
-### Betreuung von Intermediate-Care-Patienten (operativ und nichtoperativ)
-
-**330–660 150–400**
-
-1.1.6 Aufnahmeuntersuchung<sup>7</sup> 1.1.7 Tagespauschale\*
-
-### Betreuung von nichtchirurgischen IPS-Patienten<sup>8</sup>
-
-**330–660 150–400 350–700 570–930 790–1140**
-
-1.1.8 Aufnahmeuntersuchung<sup>9</sup> 1.1.9 SGI-Kategorie III, Tagespauschale<sup>10,</sup> <sup>14</sup> 1.1.10 SGI-Kategorie II, Tagespauschale<sup>11,</sup> <sup>14</sup> 1.1.11 SGI-Kategorie Ib, Tagespauschale<sup>12,</sup> <sup>14</sup> 1.1.12 SGI-Kategorie Ia, Tagespauschale<sup>13,</sup> <sup>14</sup>
-
-### Betreuung von chirurgischen IPS-Patienten<sup>15</sup>
-
-**390–730 165–440 385–770 630–1020 870–1255**
-
-1.1.13 Aufnahmeuntersuchung<sup>9</sup> 1.1.14 SGI-Kategorie III, Tagespauschale<sup>10,</sup> <sup>14</sup> 1.1.15 SGI-Kategorie II, Tagespauschale<sup>11,</sup> <sup>14</sup> 1.1.16 SGI-Kategorie Ib, Tagespauschale<sup>12,</sup> <sup>14</sup> 1.1.17 SGI-Kategorie Ia, Tagespauschale<sup>13,</sup> <sup>14</sup>
-
-### Konsilien
-
-**250–600 120–300**
-
-1.1.18 Erstkonsilium<sup>16</sup> 1.1.19 Folgekonsilium<sup>16</sup>
-
-**19**
-
-1.10. 20 - 110 1.2 Eingriffe<sup>17,</sup> <sup>18,</sup> <sup>19</sup> 1.2.1 Eingriff Kategorie 1: klein 1.2.2 Eingriff Kategorie 2: klein, aufwendig 1.2.3 Eingriff Kategorie 3: einfach 1.2.4 Eingriff Kategorie 4: einfach, aufwendig 1.2.5 Eingriff Kategorie 5: mittelschwer 1.2.6 Eingriff Kategorie 6: mittelschwer, aufwendig 1.2.7 Eingriff Kategorie 7: mittelschwer bis schwierig 1.2.8 Eingriff Kategorie 8: schwierig 1.2.9 Eingriff Kategorie 9: sehr schwierig 1.2.10 Eingriff Kategorie 10: ausserordentlich gross und komplex 6400–8000 1.3 Korrektur- und Ergänzungsfaktoren für Eingriffspauschalen:
-
-**50–200 150–400 300–700 600–1200 1000–2100 1900–3200 2900–4500 4100–5600 5300–6800**
-
-1.3.1 Notfalleingriff – Wochentag (tagsüber, 07.00–19.00)<sup>20</sup> – Nacht, Wochenende, Feiertag 1.3.2 Mehrfachoperation (= zusätzliche Operationen, die grundsätzlich nicht mit dem Primäreingriff im
-
-**+ 30% + 50% 50% der entsprechenden**
-
-### Zusammenhang stehen. Gleiches Operationsgebiet. Operationstarife Gleiche Fachrichtung. Ebenso beidseitig
-
-durchgeführte Operationen)<sup>21</sup> 1.3.3 Kombinierte Operationen (= zusätzliche Operationen, die grundsätzlich nicht mit dem Primäreingriff im Zusammenhang stehen. Anderes Operationsgebiet oder andere Fachrichtung)<sup>22</sup>
-
-**100%der entsprechenden Operationstarife**
-
-- 2\. Ambulante Behandlung 2.1 Nicht-KVG-Leistungen, bei denen die Obligatorische Krankenpflegeversicherung nicht für Basisleistungen in Anspruch genommen wird<sup>23</sup>:
-
-### Das Arzthonorar wird auf Verhandlungsbasis mit der Patientin bzw. dem
-
-Patienten vereinbart und vor Behandlungsbeginn schriftlich festgelegt.
-
-<sup>3</sup> Einmal, nicht mit laufenden Visiten am selben Tag kumulierbar, hinzugezogene klinikfremde Ärzte verrechnen Konsilien (gemäss Honorarmodell, 1.1.18 und 1.1.19). Umfasst eine ausführliche Anamnese inkl. Aktenstudium sowie die klinische Untersuchung. Zusätzliche Massnahmen wie technische Untersuchungen oder Eingriffe werden separat verrechnet (siehe Ziff. 1.2). Beträge über Fr. 600 sind nur in begründeten Ausnahmefällen verrechenbar. Vorgängige Regel gilt auch bei Wechsel der Klinik innerhalb des USZ, die aufnehmende Klinik kann die Aufnahmeuntersuchung verrechnen, sofern eine solche durchgeführt wurde. Die abgebende Klinik erfasst entweder laufende Visiten, sofern eine oder mehrere durchgeführt wurden, oder eine Abschlussvisite inkl. Bericht (am selben Tag nicht kumulierbar), wenn gemacht. Beim Wechsel von der Bettenstation auf eine IMC oder IPS erfasst die abgebende Klinik laufende Visiten, sofern eine oder mehrere durchgeführt wurden, oder eine Abschlussvisite inkl. Bericht (am selben Tag nicht kumulierbar), wenn gemacht.
-
-Beim Wechsel einer Patientin oder eines Patienten direkt vom Schockraum auf eine IMC oder IPS erfasst die abgebende Klinik eine Aufnahmeuntersuchung bzw. die aufnehmende IMC oder IPS die dafür vorgesehene Tagespauschale.
-
-<sup>4</sup> Mehrere pro Tag möglich, sofern eine oder mehrere stattgefunden haben. Technische Aktivitäten wie z.B. Infiltrationen sind inbegriffen, sofern sie während der Visite ohne speziellen Aufwand durchgeführt werden können. Andernfalls werden sie separat verrechnet (siehe Ziff. 1.2). Beträge über Fr. 150 sind nur bei ausserordentlichem Zeitaufwand verrechenbar. Hinzugezogene klinikfremde Ärzte verrechnen Konsilien und/oder Eingriffe gemäss Eingriffsliste. Eingriffe ausserhalb von Visiten werden gemäss der Eingriffsliste zusätzlich erfasst und in Rechnung gestellt.
-
-Für Visiten, an denen mehrere Ärzte, die der gleichen Klinik angehören, teilnehmen, kann diese jeweils nur einmal abgerechnet werden.
-
-<sup>5</sup> Bei psychiatrischen Patienten auch Gespräche mit Dritten wie Angehörigen, Behörden, Einweisern usw. ohne schriftliche Berichte.
-
-<sup>6</sup> Einmal, nicht mit laufenden Visiten am selben Tag kumulierbar (gilt auch dann, wenn zu Beginn des Tages noch nicht feststand, dass der Patient im Laufe des Tages entlassen wird). Enthält die abschliessende Besprechung, einen ausführlichen Bericht sowie die notwendigen organisatorischen Punkte (Spitex, Physiotherapie, Rezeptausstellung usw.) und eine Standortbestimmung für die zukünftige Betreuung des Patienten.
-
-<sup>7</sup> Beinhaltet auch die Tagespauschale für den Eintrittstag. Die aufnehmende Klinik erfasst die Aufnahmeuntersuchung, sofern eine solche gemacht wurde. Diese ist klinikintern nicht mit der Tagespauschale (inkl. Operations- und Abschlusstag) am selben Tag kumulierbar. Die aufnehmende Klinik kann die Aufnahmeuntersuchung verrechnen, sofern eine solche durchgeführt wurde. Wurde keine Aufnahmeuntersuchung durchgeführt, kann eine Tagespauschale (inkl. Operations- und Abschlusstag) verrechnet werden.
-
-Beim Wechsel auf eine IMC oder IPS erfasst die abgebende Klinik eine Tagespauschale (inkl. Operations- und Abschlusstag).
-
-Hinzugezogene klinikfremde Ärzte verrechnen Konsilien und/oder Eingriffe gemäss Eingriffsliste.
-
-**21**
-
-1.10. 20 - 110 Bei Wechsel von Klinik oder IPS auf IMC oder von IMC zu IMC erfasst die abgebende IMC die Tagespauschale, die abgebende IPS die Tagespauschale der entsprechenden SGI-Kategorie.
-
-### \* Tagespauschalen (inkl. Operations- und Abschlusstag) und Tagespauscha-
-
-len für IMC-Patienten sollen durchgängig für jeden Tag (exkl. Aufnahmetag [Aufnahmeuntersuchung]) auch an Wochentagen oder Wochenenden, wenn der honorarberechtigte Arzt nicht beim Patienten war bzw. nur Pikettdienst (Hintergrunddienst) hat, erfasst werden. Die Erfassung erfolgt dann immer auf den honorarberechtigten verantwortlichen Arzt (OA/LA/KD). Allfällige Eingriffe werden gemäss Eingriffsliste zusätzlich erfasst und in Rechnung gestellt.
-
-<sup>8</sup> Die empfohlenen Tarife gelten für geschlossene Intensivstationen. Bei offenen Intensivstationen werden vom mitbehandelnden Internisten zusätzlich die Pauschalen für Konsilien (Ziff. 1.1.18 und 1.1.19) in Rechnung gestellt.
-
-<sup>9</sup> Nur bei Notfallaufnahme und Aufnahme von instabilen Patienten, nicht verrechenbar bei stabilen oder postoperativen Patienten. Vorgängige Regel gilt auch bei Wechsel der IPS innerhalb des USZ. Aufnahmeuntersuchungen werden immer erfasst, sofern eine solche durchgeführt wurde, falls nicht, wird nur eine Tagespauschale gemäss SGI-Kategorie erfasst und verrechnet. Letzteres gilt auch bei Wechsel von Klinik oder IMC auf eine IPS. Bei Wechsel von IPS zu IPS innerhalb des USZ wird die Tagespauschale gemäss SGI-Kategorie nur durch die aufnehmende IPS erfasst, die abgebende IPS erfasst nur die Aufnahmeuntersuchung, sofern gemacht.
-
-<sup>10</sup> Betreuungsaufwand in SGI-Kategorie III: 2 normale Visiten/Besuche, tagsüber, 15 Minuten (30 min/IPS-Tag).
-
-Tagespauschalen gemäss SGI-Kategorie bei IPS-Patienten sollen durchgängig für jeden Tag (inkl. Aufnahmetag zusätzlich zur Aufnahmeuntersuchung), auch an Wochentagen oder Wochenenden, wenn der honorarberechtigte Arzt nicht beim Patienten war bzw. nur Pikettdienst (Hintergrunddienst) hat, erfasst werden. Die Erfassung erfolgt dann immer auf den honorarberechtigten verantwortlichen Arzt (OA/LA/KD). Vorgängige Regel gilt für alle SGI-
-
-### Kategorien Tagespauschalen <sup>(10,</sup> <sup>11,</sup> <sup>12,</sup> <sup>13,</sup> <sup>14)</sup>.
-
-<sup>11</sup> Betreuungsaufwand in SGI-Kategorie II: 2 normale Visiten/Besuche, tagsüber, 15 Minuten; plus 2 dringende fachärztliche Besuche tags/nachts, 15 Minuten (60 min/IPS-Tag).
-
-<sup>12</sup> Betreuungsaufwand in SGI-Kategorie Ib: 2 normale Visiten/Besuche, tagsüber, 15 Minuten; plus 2 dringende fachärztliche Besuche tags/nachts, 15 Minuten; plus 2× zusätzlicher Zeitaufwand 15 Minuten (90 min/IPS-Tag).
-
-<sup>13</sup> Betreuungsaufwand in SGI-Kategorie Ia: 2 normale Visiten/Besuche, tagsüber, 15 Minuten; plus 2 dringende fachärztliche Besuche tags/nachts, 15 Minuten; plus 4× zusätzlicher Zeitaufwand 15 Minuten (120 min/IPS-Tag).
-
-<sup>14</sup> Zusätzlicher Betreuungsaufwand wird nicht verrechnet. Bei deutlicher Abweichung des Betreuungsaufwands wird der Patient neu kategorisiert. Eingriffe werden zusätzlich in Rechnung gestellt (siehe Ziff. 1.2 Eingriffe).
-
-<sup>15</sup> Die empfohlenen Tarife beinhalten das Betreuungshonorar des mitbehandelnden Chirurgen. Hinzugezogene klinikfremde Ärzte verrechnen Konsilien und/ oder Eingriffe gemäss Eingriffsliste.
-
-<sup>16</sup> Beinhaltet den gesamten Aufwand inkl. Aktenstudium, Einholen von Auskünften usw.
-
-<sup>17</sup> Die empfohlenen Höchstansätze der einzelnen Kategorien gelten für besonders aufwendige und/oder problematische Eingriffe (= TARMED-Risikoklasse III und IV) sowie beim Vorliegen zusätzlicher patientenbedingter Risikofaktoren (= patientenspezifische Faktoren, die den Eingriff erheblich erschweren oder verlängern oder die aussergewöhnliche Komplikationen verursachen können, d.h. ASA-Klasse 3–5 [American Society of Anesthesiologists]).
-
-<sup>18</sup> Für den Einsatz von honorarberechtigten ärztlichen OP-Assistenten können zusätzlich je max. 30%, gesamthaft jedoch max. 50% des Pauschaltarifs in Rechnung gestellt werden.
-
-<sup>19</sup> Kategorienbildung siehe Anhang.
-
-<sup>20</sup> Bei der Versorgung von Patienten, bei denen ein Notfall den Standard darstellt (Neurochirurgie, Geburtshilfe, allgemeinchirurgischer Notfall) wird kein Notfallzuschlag verrechnet. Bei Hinzuzug einer fachspezifischen Expertise (z.B. Viszeralchirurg, Thoraxchirurg, Unfallchirurg) gilt der Notfall nicht mehr als Standard und wird gemäss Punkt 1.3.1 verrechnet.
-
-<sup>21</sup> Z.B. Adhäsiolyse bei Darmoperation, Cholecystektomie bei Leberresektion usw. sowie beidseitige Operationen wie beidseitige Mammaplastik, beidseitige Inguinalhernie usw.
-
-<sup>22</sup> Z.B. Laparotomie und Extremitätenfrakturversorgung, Leberresektion und Rektumresektion usw.
-
-<sup>23</sup> Leistungen, die für Selbstzahler erbracht werden, sowie Leistungen, die nicht im Pflichtleistungskatalog nach KVG enthalten sind.
-
-**23**
-
-1.10. 20 - 110
-
-## Weitere Fussnoten
-
-- [1] OS 71, 190; Begründung siehe ABl 2016-04-08.
-- [2] LS 813.155.
-- [4] Fassung gemäss Berichtigung vom 24. Juli 2020 (OS 75, 369). In Kraft seit 1. Juli 2020. 1.10. 20 - 110 3
-- [1] Der empfohlene Tarifrahmen umfasst im unteren Bereich Standardmassnahmen von durchschnittlichem Zeitaufwand, im oberen Bereich von überdurchschnittlich stark erhöhtem Zeitaufwand (in der Regel bei sehr hohen Anforderungen).
+### Leistung erhoben.
