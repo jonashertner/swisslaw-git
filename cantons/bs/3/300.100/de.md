@@ -4,13 +4,13 @@ number: "300.100"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2021-01-01
-valid_until: 2023-02-28
-version_adopted: 2019-09-18
+version: 2023-03-01
+valid_until: 2024-06-30
+version_adopted: 2021-05-19
 adopted: 2011-09-21
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/300.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5117/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5853/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gesundheitsgesetz | Gesundheit
 
 (GesG)
 
-Vom 21. September 2011 (Stand 1. Januar 2021)
+Vom 21. September 2011 (Stand 1. März 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -358,6 +358,8 @@ beschliesst:
 <sup>4</sup> Von der Schweigepflicht gegenüber den zuständigen Behörden, einer Inkassostelle und einer allfälligen Rechtsvertretung ist im Rahmen der erforderlichen Angaben befreit, wer zur Durchsetzung oder Abwehr von Forderungen den Rechtsweg beschreiten muss.
 
 <sup>5</sup> Schweigeverpflichtete sind gegenüber den zuständigen Behörden von der Schweigepflicht befreit, wenn begründete Zweifel an der Urteilsfähigkeit einer Patientin oder eines Patienten bestehen, medizinische Massnahmen dringend erforderlich sind und die Zustimmung einer vertretungsberechtigten Person nicht erlangt werden kann.
+
+<sup>6</sup> Fachpersonen im Gesundheitswesen sowie deren Hilfspersonen haben gegenüber der für das Bedrohungsmanagement zuständigen Stelle ein Melderecht gemäss § 61a Abs. 1 und ein Auskunftsrecht gemäss § 61b Abs. 3 lit. m des Gesetzes betreffend die Kantonspolizei des Kantons Basel-Stadt (Polizeigesetz, PolG) vom 13. November 1996, wenn eine Person konkret Gewalt androht, Gewaltbereitschaft erkennen lässt oder diese in anderer Weise in Aussicht stellt, die geeignet ist, die physische, psychische oder sexuelle Integrität Dritter ernsthaft zu gefährden.
 
 ### V.7. Meldepflicht
 
