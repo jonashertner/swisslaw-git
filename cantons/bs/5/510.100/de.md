@@ -4,13 +4,12 @@ number: "510.100"
 title: Gesetz betreffend die Kantonspolizei des Kantons Basel-Stadt
 short: "Polizeigesetz, PolG"
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
+version: 2023-03-01
 version_adopted: 2021-05-19
 adopted: 1996-11-13
 in_force: 1997-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/510.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5768/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6768/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Polizeigesetz | Polizei
 
 (Polizeigesetz, PolG[^ingress-1])
 
-Vom 13. November 1996 (Stand 1. Januar 2023)
+Vom 13. November 1996 (Stand 1. März 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -49,6 +48,7 @@ beschliesst:
 
 - 1\. Sie trifft Massnahmen, um unmittelbar drohende Gefährdungen oder eingetretene Störungen der öffentlichen Sicherheit und Ordnung sowie der Umwelt zu verhüten oder abzuwehren.
 - 2\. Sie hilft Menschen, die unmittelbar an Leib und Leben bedroht oder anderweitig in Not sind.
+- 2\.<sup>bis</sup> Sie erkennt im Sinne eines Bedrohungsmanagements konkrete, zielgerichtete von Personen ausgehende Gewaltbereitschaft, die geeignet ist, die physische, psychische oder sexuelle Integrität Dritter ernsthaft zu gefährden und trifft hierfür präventive Massnahmen nach §§ 61a - 61g.
 - 3\. Sie trifft Massnahmen zur Erhöhung der Sicherheit im Strassenverkehr sowie bei grösseren öffentlichen Veranstaltungen.
 - 4\. Sie trifft Massnahmen zur Verhütung und zur Verfolgung von Straftaten sowie vorsorgliche Massnahmen für eine zweckmässige Strafverfolgung.
 - 5\. Sie leistet den Verwaltungs- und Justizbehörden Amts- und Vollzugshilfe, soweit die polizeiliche Mithilfe in Gesetzen und Verordnungen vorgesehen oder zu deren Erfüllung erforderlich ist.
@@ -584,13 +584,16 @@ beschliesst:
 
 **Wegweisung und Fernhaltung**
 
-<sup>1</sup> Die Kantonspolizei kann vorübergehend Personen von einem Ort wegweisen oder fernhalten, wenn sie
+<sup>1</sup> Die Kantonspolizei kann vorübergehend Personen von einem Ort wegweisen oder fernhalten, wenn sie:
 
 - 1\. ernsthaft und unmittelbar gefährdet sind;
 - 2\. Einsätze zur Wiederherstellung oder Aufrechterhaltung der öffentlichen Sicherheit und Ordnung, insbesondere durch Polizeikräfte, Feuerwehr oder Rettungsdienste, behindern;
-- 3\. die Kantonspolizei an der Durchsetzung vollstreckbarer Anordnungen hindern.
+- 3\. die Kantonspolizei an der Durchsetzung vollstreckbarer Anordnungen hindern;
+- 4\. eine andere Person in der physischen, psychischen oder sexuellen Integrität verletzen, bedrohen oder sie wiederholt belästigen, insbesondere ihr nachstellen.
 
 <sup>2</sup> Sie kann Anwerbende von einzelnen Orten oder generell wegweisen, wenn Anzeichen dafür bestehen, dass bei der Anwerbung widerrechtliche, namentlich täuschende oder unlautere Methoden angewendet, oder Passantinnen und Passanten in unzumutbarer Weise belästigt werden.
+
+<sup>3</sup> In Fällen gemäss Abs. 1 Ziff. 4 kann zudem ein Kontakt- und Rayonverbot auferlegt werden. Die §§ 37b - 37g gelten sinngemäss.
 
 #### § 42a
 
@@ -809,7 +812,7 @@ beschliesst:
 
 <sup>2</sup> Die Bearbeitung und Weitergabe von Personendaten durch die Kantonspolizei sowie das Einsichtsrecht in polizeiliche Datensammlungen richten sich nach den Bestimmungen der Datenschutzgesetzgebung und im interkantonalen sowie internationalen Verkehr nach den Bestimmungen der Bundesgesetzgebung sowie der internationalen Rechtshilfeabkommen.
 
-<sup>3</sup> Polizeilich relevante Informationen dürfen weitergegeben werden, sofern diese der Gefahrenabwehr oder dem Schutz der Polizeigüter dient.
+<sup>3</sup> Polizeilich relevante Informationen dürfen weitergegeben werden, sofern diese der Gefahrenabwehr oder dem Schutz der Polizeigüter dienen.
 
 <sup>4</sup> Die Kantonspolizei führt die zur recht- und zweckmässigen Erfüllung ihrer Aufgaben notwendigen Datensammlungen.
 
@@ -849,6 +852,112 @@ beschliesst:
 <sup>2</sup> Informationsberichte müssen sachlich sein. Sie enthalten Wahrnehmungen, Feststellungen und Tatsachen, hingegen keine Wertungen und Meinungsäusserungen.
 
 <sup>3</sup> Polizeiliche Informationsberichte umfassen grundsätzlich nur amtliche Informationen. Befragungen von Drittpersonen sollen nur ausnahmsweise und im ausdrücklichen Auftrag der ersuchenden Behörde vorgenommen werden.
+
+### C. Bedrohungsmanagement
+
+#### § 61a
+
+**Melderecht**
+
+<sup>1</sup> Personen, die eine gesetzliche oder vertragliche Schweigepflicht haben, insbesondere öffentliche Organe nach § 3 Abs. 1 des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010 und Personen nach § 21 des Gesundheitsgesetzes (GesG) vom 21. September 2011, sind befugt, Personen, von denen nach Einschätzung der meldenden Person eine Gefahr im Sinne von § 2 Abs. 1 Ziff. 2<sup>bis</sup> ausgeht, unter Berücksichtigung von Abs. 4 zu melden.
+
+<sup>2</sup> Das Berufsgeheimnis nach Art. 321 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937 steht einer Meldung und Auskunft nicht entgegen.
+
+<sup>3</sup> Vom Melderecht nach Abs. 1 ausgenommen sind Rechtsanwältinnen und Rechtsanwälte, Verteidigerinnen und Verteidiger, Patentanwältinnen und Patentanwälte, Notarinnen und Notare und Revisorinnen und Revisoren sowie ihre Hilfspersonen.
+
+<sup>4</sup> Die Kantonspolizei nimmt Meldungen nach Abs. 1 entgegen. Zur direkten Meldung an die für das Bedrohungsmanagement zuständige Stelle ist grundsätzlich nur befugt, wer zuvor von der Stelle entsprechend geschult worden ist.
+
+#### § 61b
+
+**Zweck der Datenbearbeitung, Datenaustausch und Auskunftsrecht**
+
+<sup>1</sup> Die für das Bedrohungsmanagement zuständige Stelle kann, wenn und soweit zur Erfüllung ihrer Aufgabe zwingend, besondere Personendaten bearbeiten und insbesondere verknüpfen.
+
+<sup>2</sup> Sie prüft eingehende Auskünfte und Meldungen und legt das weitere Vorgehen fest. Kommt sie zum Schluss, dass von der gemeldeten Person eine Gefahr im Sinne von § 2 Abs. 1 Ziff. 2<sup>bis</sup> ausgeht, trifft sie weitere Abklärungen.
+
+<sup>3</sup> Sie kann zur Erfüllung ihrer Aufgabe besondere Personendaten namentlich an folgende Behörden, Institutionen sowie Personen im In- und Ausland bekanntgeben und von ihnen Auskünfte einholen:
+
+- a) Polizeiorganisationen und Bedrohungsmanagement-Stellen;
+- b) Betreiberinnen oder Betreiber von Schutzunterkünften für Gewaltbetroffene;
+- c) Bildungsinstitutionen;
+- d) Einwohner- und Migrationsbehörden;
+- e) Gerichte;
+- f) Gesundheitsbehörden;
+- g) Gewaltberatungsstellen;
+- h) Institutionen des Kindes- und Erwachsenenschutzes;
+- i) Organisationen der Opferhilfe;
+- j) Sozialversicherungen und Sozialleistungsbehörden;
+- k) Steuer-, Betreibungs-, Konkurs- und Finanzbehörden;
+- l) Straf- und Strafvollzugsbehörden;
+- m) Personen nach § 21 GesG;
+- n) juristischen Personen des Privatrechts, sofern sie Aufgaben im Bereich eines gesetzlichen Obligatoriums haben oder Finanzdienstleistungen erbringen;
+- o) Organisationen mit sozialem, präventivem oder unterstützendem Zweck oder Kirchen und Religionsgemeinschaften;
+- p) Personen, denen gemäss § 61a ein Melderecht zusteht.
+
+<sup>4</sup> Sie kann, wenn und soweit zur Erfüllung ihrer Aufgabe zwingend, im sozialen Umfeld der gefährdenden Person Dritte, insbesondere Angehörige, Nachbarn, Personen aus dem Arbeitsumfeld oder andere Bezugspersonen um Auskunft ersuchen.
+
+<sup>5</sup> Sie kann im sozialen Umfeld der gefährdeten Person Auskünfte einholen, wenn deren Einverständnis vorliegt.
+
+<sup>6</sup> Sie weist die Behörden, Institutionen sowie Personen, bei denen sie Auskünfte einholt, auf die Freiwilligkeit der Auskunftserteilung sowie die datenschutzrechtlichen Bestimmungen hin.
+
+#### § 61c
+
+**Massnahmen und Auskunft gegenüber der gefährdeten Person**
+
+<sup>1</sup> Die für das Bedrohungsmanagement zuständige Stelle kann:
+
+- a) die gefährdete Person auf die Gefährdungslage ansprechen und Beratung, Vernetzung oder ähnliche Hilfestellungen anbieten;
+- b) der gefährdeten Personen Auskunft über die gefährdende Person erteilen, wenn dies für die Abwendung oder Verhütung einer Gefahr im Sinne von § 2 Abs. 1 Ziff. 2<sup>bis</sup> erforderlich ist.
+
+#### § 61d
+
+**Massnahmen gegenüber der gefährdenden Person**
+
+<sup>1</sup> Die für das Bedrohungsmanagement zuständige Stelle kann die gefährdende Person auf ihr Verhalten ansprechen, Beratung, Vernetzung oder ähnliche Hilfestellungen anbieten und sie über die Folgen der Missachtung gesetzeskonformen Verhaltens orientieren.
+
+<sup>2</sup> Sie orientiert die gefährdende Person mittels Verfügung, dass ihre Daten von der für das Bedrohungsmanagement zuständigen Stelle gemäss § 61b bearbeitet werden, sowie über den vom Gesetz über den Schutz von Personendaten vom 18. März 1992[^61d-1] gewährten diesbezüglichen Rechtsschutz.
+
+<sup>3</sup> Sie orientiert die gefährdende Person im Rahmen der Ansprache, dass sie über die Ansprache hinaus keine Mitwirkungspflichten hat und allfällige Aussagen unter Umständen den Strafverfolgungsbehörden oder anderen Behörden zugänglich gemacht werden müssen.
+
+<sup>4</sup> Sie kann anordnen, dass die gefährdende Person für die Ansprache vorgeladen oder die Ansprache an ihrem Aufenthaltsort durchgeführt wird.
+
+<sup>5</sup> Leistet eine Person einer Vorladung ohne hinreichenden Grund keine Folge, kann die Kantonspolizei sie vorführen. In diesem Falle muss schriftlich auf die Möglichkeit der Vorführung hingewiesen worden sein.
+
+[^61d-1]: Heute: Gesetz über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010
+
+#### § 61e
+
+**Auskunft gegenüber der gefährdenden Person**
+
+<sup>1</sup> Das Recht auf Zugang zu den eigenen Personendaten und die Einschränkung dieses Rechts richtet sich nach dem IDG.
+
+#### § 61f
+
+**Auskunft an Dritte**
+
+<sup>1</sup> Die für das Bedrohungsmanagement zuständige Stelle kann den meldenden Personen, Behörden und Institutionen Auskunft über die Art der Erledigung ihrer Meldung erteilen.
+
+#### § 61g
+
+**Löschung von Daten**
+
+<sup>1</sup> Die für das Bedrohungsmanagement zuständige Stelle löscht die Daten zu einer Person nach acht Jahren.
+
+<sup>2</sup> Massgebend für den Beginn des Fristenlaufs ist der letzte Datenzuwachs zum letzten erfassten Ereignis.
+
+<sup>3</sup> Die für das Bedrohungsmanagement zuständige Stelle muss die Daten zu einer Person nach drei Jahren von Amtes wegen löschen, wenn sie feststellt, dass von der gemeldeten Person keine Gefahr im Sinne von § 2 Abs. 1 Ziff. 2<sup>bis</sup> ausgeht.
+
+#### § 61h
+
+**Rechtsschutz**
+
+<sup>1</sup> Entscheide und Verfügungen, die in Anwendung der Bestimmungen über das Bedrohungsmanagement erlassen werden, können nach Massgabe des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OG) vom 22. April 1976 angefochten werden.
+
+<sup>2</sup> Ein Weiterzug an das Verwaltungsgericht nach den Vorschriften des Gesetzes über die Verwaltungsrechtspflege (VRPG) vom 14. Juni 1928 bleibt vorbehalten.
+
+#### § 61i
+
+<sup>1</sup> Die oder der Datenschutzbeauftragte legt als unabhängige Aufsichtsstelle gemäss § 37 Abs. 1 IDG der Wahlbehörde jährlich einen speziellen Bedrohungsmanagement-Bericht im Sinne von § 50 IDG vor. Der Bericht äussert sich insbesondere über die durchgeführten Kontrollen gemäss § 45 IDG aufgrund der Aufgaben der oder des Datenschutzbeauftragten gemäss § 44 IDG.
 
 ## VII. Rechte und Pflichten Privater
 
