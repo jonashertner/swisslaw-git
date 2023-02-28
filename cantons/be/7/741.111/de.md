@@ -4,13 +4,13 @@ number: "741.111"
 title: Kantonale Energieverordnung
 short: KEnV
 language: de
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-16
+version: 2023-03-01
+valid_until: 2025-12-31
+version_adopted: 2023-01-11
 adopted: 2011-10-26
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/741.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2779/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2795/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2779/pdf_file"
 
 (KEnV)
 
-vom 26.10.2011 (Stand 01.01.2023)
+vom 26.10.2011 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -594,7 +594,7 @@ beschliesst:
 
 **Form und Inhalt der Gesuche**
 
-<sup>1</sup> Die Gesuche um Staatsbeiträge sind schriftlich oder elektronisch einzureichen.
+<sup>1</sup> …
 
 <sup>2</sup> Gesuche um Finanzhilfen nach den Artikeln 56 Absatz 1, 58 und 59 KEnG haben alle für die Überprüfung der gesetzlichen, technischen und betrieblichen Voraussetzungen erforderlichen Angaben und Unterlagen zu enthalten.
 

@@ -4,13 +4,13 @@ number: "741.111"
 title: Ordonnance cantonale sur l’énergie
 short: OCEn
 language: fr
-version: 2023-01-01
-valid_until: 2023-02-28
-version_adopted: 2022-11-16
+version: 2023-03-01
+valid_until: 2025-12-31
+version_adopted: 2023-01-11
 adopted: 2011-10-26
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/741.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2779/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2795/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2779/pdf_file"
 
 (OCEn)
 
-du 26.10.2011 (état au 01.01.2023)
+du 26.10.2011 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -596,7 +596,7 @@ arrête:
 
 **Forme et contenu des demandes**
 
-<sup>1</sup> Les demandes de subventions cantonales doivent être déposées sous forme écrite ou transmises par voie électronique.
+<sup>1</sup> …
 
 <sup>2</sup> Les demandes d’aides financières au sens des articles 56, alinéa 1, 58 et 59 LCEn doivent contenir toutes les indications et tous les documents nécessaires à l’examen des exigences légales et techniques ainsi que des conditions d’exploitation.
 
