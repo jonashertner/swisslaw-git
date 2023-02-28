@@ -3,13 +3,12 @@ canton: FR
 number: "822.0.21"
 title: Verordnung über die Liste der Spitäler und Geburtshäuser
 language: de
-version: 2022-09-01
-valid_until: 2023-02-28
-version_adopted: 2022-08-30
+version: 2023-03-01
+version_adopted: 2023-02-28
 adopted: 2015-03-31
 in_force: 2015-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/822.0.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7557/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8663/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7557/pdf_file"
 
 Liste der Spitäler und Geburtshäuser – V
 
-vom 31.03.2015 (Fassung in Kraft getreten am 01.09.2022)
+vom 31.03.2015 (Fassung in Kraft getreten am 01.03.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -48,13 +47,13 @@ beschliesst:
 
 <sup>1</sup> Folgende Einrichtungen werden für die Erbringung von Leistungen in der Akutpflege zugelassen:
 
-- a) freiburger spital (HFR), Standorte Freiburg, Tafers, Riaz, Meyriez–Murten und Billens;
+- a) freiburger spital (HFR), Standorte Freiburg, Tafers, Riaz und Meyriez–Murten;
 - b) Dalerspital, Freiburg;
 - c) Clinique Générale, Freiburg;
 - d) Interkantonales Spital der Broye (HIB), Standort Payerne;
 - e) Geburtshaus Le Petit Prince, Villars-sur-Glâne;
 - f) Hôpital neuchâtelois (HNE);
-- g) Klinik Bethesda, Tschugg;
+- g) Rehaklinik Tschugg AG, Tschugg;
 - h) Centre hospitalier universitaire vaudois (CHUV), Lausanne;
 - i) Inselspital, Bern;
 - j) Hôpitaux universitaires de Genève (HUG), Genf.
@@ -65,7 +64,7 @@ beschliesst:
 
 **Spezialisierte Palliative Care**
 
-<sup>1</sup> Das freiburger Spital (HFR), Standorte Freiburg, Tafers, Riaz, Meyriez–Murten und Billens, wird für die Erbringung von Leistungen der spezialisierten Palliative Care zugelassen.
+<sup>1</sup> Das freiburger Spital (HFR), Standorte Freiburg, Tafers, Riaz und Meyriez–Murten, wird für die Erbringung von Leistungen der spezialisierten Palliative Care zugelassen.
 
 #### Art. 4
 
@@ -73,10 +72,10 @@ beschliesst:
 
 <sup>1</sup> Folgende Einrichtungen werden für die Erbringung von Leistungen in der Rehabilitation zugelassen:
 
-- a) freiburger spital (HFR), Standorte Freiburg, Tafers, Riaz, Meyriez–Murten und Billens;
+- a) freiburger spital (HFR), Standorte Freiburg, Tafers, Riaz und Meyriez–Murten;
 - b) Interkantonales Spital der Broye (HIB), Standort Estavayer-le-Lac;
 - c) Berner Klinik, Montana;
-- d) Klinik Bethesda, Tschugg;
+- d) Rehaklinik Tschugg AG, Tschugg;
 - e) Institution de Lavigny, Lavigny;
 - f) Schweizer Paraplegiker-Zentrum, Nottwil;
 - g) REHAB Basel, Basel;
@@ -91,7 +90,7 @@ beschliesst:
 <sup>1</sup> Folgende Einrichtungen werden für die Erbringung von Leistungen in der Psychiatrie zugelassen:
 
 - a) Freiburger Netzwerk für psychische Gesundheit (FNPG);
-- b) freiburger Spital (HFR), Standorte Freiburg, Tafers, Riaz, Meyriez–Murten und Billens;
+- b) freiburger Spital (HFR), Standorte Freiburg, Tafers, Riaz und Meyriez–Murten;
 - c) Privatklinik Meiringen, Meiringen;
 - d) Etablissements Hospitaliers du Nord Vaudois (eHnv), Saint-Loup;
 - e) Universitäre Psychiatrische Dienste Bern (UPD), Bern.

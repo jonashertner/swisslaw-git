@@ -3,13 +3,12 @@ canton: FR
 number: "822.0.21"
 title: Ordonnance fixant la liste des hôpitaux et des maisons de naissance
 language: fr
-version: 2022-09-01
-valid_until: 2023-02-28
-version_adopted: 2022-08-30
+version: 2023-03-01
+version_adopted: 2023-02-28
 adopted: 2015-03-31
 in_force: 2015-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/822.0.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7557/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8663/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7557/pdf_file"
 
 Liste des hôpitaux et des maisons de naissance – O
 
-du 31.03.2015 (version entrée en vigueur le 01.09.2022)
+du 31.03.2015 (version entrée en vigueur le 01.03.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -48,13 +47,13 @@ Arrête:
 
 <sup>1</sup> Les établissements suivants sont admis à fournir des prestations en soins somatiques aigus:
 
-- a) hôpital fribourgeois (HFR), sites de Fribourg, Tafers, Riaz, Meyriez–Morat et Billens;
+- a) hôpital fribourgeois (HFR), sites de Fribourg, Tafers, Riaz et Meyriez–Morat;
 - b) Hôpital Daler, Fribourg;
 - c) Clinique Générale, Fribourg;
 - d) Hôpital intercantonal de la Broye (HIB), site de Payerne;
 - e) Maison de naissance Le Petit Prince, Villars-sur-Glâne;
 - f) Hôpital neuchâtelois (HNE);
-- g) Klinik Bethesda, Tschugg;
+- g) Rehaklinik Tschugg AG, Tschugg;
 - h) Centre hospitalier universitaire vaudois (CHUV), Lausanne;
 - i) Hôpital de l'Ile, Berne;
 - j) Hôpitaux universitaires de Genève (HUG), Genève.
@@ -65,7 +64,7 @@ Arrête:
 
 **Soins palliatifs spécialisés**
 
-<sup>1</sup> L'hôpital fribourgeois (HFR), sites de Fribourg, Tafers, Riaz, Meyriez–Morat et Billens, est admis à fournir des prestations en soins palliatifs spécialisés.
+<sup>1</sup> L'hôpital fribourgeois (HFR), sites de Fribourg, Tafers, Riaz et Meyriez–Morat, est admis à fournir des prestations en soins palliatifs spécialisés.
 
 #### Art. 4
 
@@ -73,10 +72,10 @@ Arrête:
 
 <sup>1</sup> Les établissements suivants sont admis à fournir des prestations en réadaptation:
 
-- a) hôpital fribourgeois (HFR), sites de Fribourg, Tafers, Riaz, Meyriez–Morat et Billens;
+- a) hôpital fribourgeois (HFR), sites de Fribourg, Tafers, Riaz et Meyriez–Morat;
 - b) Hôpital intercantonal de la Broye (HIB), site d'Estavayer-le-Lac;
 - c) Clinique Bernoise, Montana;
-- d) Klinik Bethesda, Tschugg;
+- d) Rehaklinik Tschugg AG, Tschugg;
 - e) Institution de Lavigny, Lavigny;
 - f) Centre suisse de paraplégiques, Nottwil;
 - g) REHAB Basel, Bâle;
@@ -91,7 +90,7 @@ Arrête:
 <sup>1</sup> Les établissements suivants sont admis à fournir des prestations en psychiatrie:
 
 - a) Réseau fribourgeois de soins en santé mentale (RFSM);
-- b) hôpital fribourgeois (HFR), sites de Fribourg, Tafers, Riaz, Meyriez–Morat et Billens;
+- b) hôpital fribourgeois (HFR), sites de Fribourg, Tafers, Riaz et Meyriez–Morat;
 - c) Privatklinik Meiringen, Meiringen;
 - d) Etablissements Hospitaliers du Nord Vaudois (eHnv), Saint-Loup;
 - e) Universitäre Psychiatrische Dienste Bern (UPD) AG, Berne.
