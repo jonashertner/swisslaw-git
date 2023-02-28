@@ -4,13 +4,13 @@ number: 213.42-A1
 title: "Verordnung zum Gesetz über die familienergänzende Kinderbetreuung (Kinderbetreuungsverordnung, KiBeV)"
 short: Anhang
 language: de
-version: 2018-01-01
-valid_until: 2023-02-28
-version_adopted: 2017-12-19
+version: 2023-03-01
+valid_until: 2026-07-31
+version_adopted: 2023-01-24
 adopted: 2006-11-14
 in_force: 2007-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/213.42-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/1780/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2408/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/1780/pdf_file"
 
 (Anhang)
 
-Vom 14. November 2006 (Stand 1. Januar 2018)
+Vom 14. November 2006 (Stand 1. März 2023)
 
 Der Regierungsrat des Kantons Zug,
 
-in Vollziehung der eidgenössischen Verordnung über die Aufnahme von Kindern zur Pflege und zur Adoption vom 19. Oktober 1977[^ingress-1], des Gesetzes über die familienergänzende Kinderbetreuung vom 29. September 2005[^ingress-2] sowie gestützt auf § 47 Abs. 1 Bst. d der Kantonsverfassung[^ingress-3],
+in Vollziehung der eidgenössischen Verordnung über die Aufnahme von Kindern zur Pflege und zur Adoption (Pflegekinderverordnung, PAVO) vom 19. Oktober 1977[^ingress-1], des Gesetzes über die familienergänzende Kinderbetreuung (Kinderbetreuungsgesetz) vom 29. September 2005[^ingress-2] sowie gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-3],
 
 beschliesst:
 
@@ -130,5 +130,40 @@ beschliesst:
 <sup>3</sup> …
 
 <sup>4</sup> …
+
+#### § 5
+
+**Pilotprojekte**
+
+<sup>1</sup> Um Entscheidungsgrundlagen für die Weiterentwicklung der Vorgaben im Bereich der familienergänzenden Kinderbetreuung zu erhalten, kann die Bewilligungsbehörde unter Absprache mit der Oberaufsichtsbehörde für maximal zwei Jahre Pilotprojekte bewilligen, bei welchen von den in §§ 1 und 3 festgehaltenen Qualitätsanforderungen abgewichen wird. Es besteht kein Rechtsanspruch auf Durchführung eines Pilotprojekts.
+
+<sup>2</sup> Das Gesuch für die Bewilligung eines Pilotprojekts ist mit einem Projektbeschrieb von der Trägerschaft eines Betreuungsangebots bei der zuständigen Bewilligungsbehörde einzureichen. Der Projektbeschrieb muss:
+
+- a) die Ziele, die Zielerreichung und den Nutzen des Pilotprojekts aufzeigen;
+- b) Angaben zur Gruppengrösse, zum Betreuungsschlüssel, zum Personal und zu den Räumen enthalten;
+- c) aufzeigen, wie die Abweichungen von den Qualitätsanforderungen im Sinne des Kindeswohls kompensiert werden;
+- d) die Vorbereitungsmassnahmen zum Pilotprojekt beschreiben; und
+- e) darlegen, wie das Projekt von einer geeigneten externen Fachstelle begleitet und evaluiert wird.
+
+<sup>3</sup> Die Bewilligungsbehörde prüft, ob:
+
+- a) die Abweichungen von den Qualitätsanforderungen fachlich begründet sind;
+- b) das Wohl der Kinder gewährleistet ist;
+- c) die im Pilotprojekt vorgegebenen Qualitätsanforderungen für die Aufsichtsbehörde überprüfbar sind; und
+- d) die Begleit- und Evaluationsmassnahmen geeignet sind, insbesondere bezüglich Fachlichkeit und Professionalität.
+
+<sup>4</sup> Die Bewilligungsbehörde leitet das Gesuch mit dem Antrag auf Zustimmung oder Ablehnung an die Oberaufsichtsbehörde weiter. Diese prüft bei einem Antrag auf Zustimmung ebenfalls die Kriterien gemäss Abs. 3.
+
+<sup>5</sup> Stimmen sowohl die Bewilligungsbehörde als auch die Oberaufsichtsbehörde dem Pilotprojekt zu, bewilligt die Bewilligungsbehörde das Pilotprojekt als Zusatz zur bestehenden Betriebsbewilligung. Die Bewilligungsbehörde ist als Aufsichtsbehörde für die Aufsicht zuständig.
+
+<sup>6</sup> Der Bewilligungsbehörde sowie der Oberaufsichtsbehörde ist spätestens sechs Monate vor Abschluss des Pilotprojekts ein Evaluationsbericht einzureichen. Dieser hat zu enthalten:
+
+- a) Beschreibung der Situation vor Beginn des Pilotprojekts;
+- b) Informationen über die angewandte Forschungsmethode und die Ergebnisse;
+- c) Ausführungen zur Wirkung auf das Kindswohl, die Qualität der Betreuung, das Personal und die betriebswirtschaftliche Situation der Trägerschaft;
+- d) Angaben zur Aufbewahrung/Archivierung der Informationen und Daten, die während der Projektphase erhoben wurden;
+- e) Fazit und Empfehlungen.
+
+<sup>7</sup> Beabsichtigt die Oberaufsichtsbehörde, dem Regierungsrat aufgrund positiver Ergebnisse aus dem Pilotprojekt Anpassungen der Qualitätsanforderungen zum Entscheid vorzulegen, so kann die Bewilligungsbehörde der Trägerschaft nach Abschluss der Pilotphase eine Bewilligung mit Abweichung erteilen, die eine nahtlose Weiterführung des Pilotprojekts gewährleistet. Die Bewilligung mit Abweichung ist bis zum Inkrafttreten der Anpassungen resp. der Ablehnung der Anpassungen zu befristen.
 
 GS 28, 849
