@@ -4,13 +4,12 @@ number: "922.51"
 title: Verordnung über die Verhütung und Entschädigung von Wildschäden
 short: "Wildschadenverordnung, WSV"
 language: de
-version: 2022-10-01
-valid_until: 2023-02-28
-version_adopted: 2022-08-24
+version: 2023-03-01
+version_adopted: 2022-09-07
 adopted: 1995-11-22
 in_force: 1996-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2665/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2708/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2665/pdf_file"
 
 (Wildschadenverordnung, WSV)
 
-vom 22.11.1995 (Stand 01.10.2022)
+vom 22.11.1995 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -59,10 +58,12 @@ beschliesst:
 
 <sup>1</sup> Der Schaden, den die im Bundesrecht bezeichneten Tierarten an Wald, landwirtschaftlichen Kulturen und Nutztieren anrichten, wird angemessen entschädigt, soweit die geschädigte Bewirtschafterin oder der geschädigte Bewirtschafter alle zumutbaren Massnahmen zur Verhütung von Wildschäden getroffen hat.
 
+<sup>1a</sup> Der Schaden, den der Wolf verursacht, wird in den Tal- und Hügelzonen sowie in den Bergzonen I und II gemäss Artikel 1 Absätze 3 und 4 der Verordnung des Bundesrates vom 7. Dezember 1998 über den landwirtschaftlichen Produktionskataster und die Ausscheidung von Zonen (Landwirtschaftliche Zonen-Verordnung)[^3-1] angemessen entschädigt, soweit die geschädigte Bewirtschafterin oder der geschädigte Bewirtschafter alle zumutbaren Massnahmen zur Verhütung dieses Schadens getroffen hat.
+
 <sup>2</sup> Nicht ersetzt werden:
 
 - a Bagatellschäden bis zu einem Betrag von 100 Franken,
-- b Schäden von Tieren, gegen die Selbsthilfe gemäss Artikel 8 der Jagdverordnung vom 26. Februar 2003 (JaV)[^3-1] zulässig ist,
+- b Schäden von Tieren, gegen die Selbsthilfe gemäss Artikel 8 der Jagdverordnung vom 26. Februar 2003 (JaV)[^3-2] zulässig ist,
 - c …
 - d Schäden, deren Umfang und Ursache nicht mehr festgestellt werden können,
 - e Schäden in Gärtnereien und Baumschulen,
@@ -73,9 +74,10 @@ beschliesst:
 
 <sup>3</sup> In Härtefällen kann auch bei wiederholten Schäden durch nicht jagdbare Tiere ein Beitrag aus dem Wildschadenfonds gesprochen werden.
 
-<sup>4</sup> Der Schaden, den Luchs, Biber, Fischotter, Adler, Bär oder Wolf verursachen, ist gesondert auszuweisen.
+<sup>4</sup> Der Schaden, den Luchs, Biber, Fischotter, Adler, Bär, Wolf oder Goldschakal verursachen, ist gesondert auszuweisen.
 
-[^3-1]: BSG 922.111
+[^3-1]: SR [912.1](https://db.clex.ch/link/Bund/912.1/de)
+[^3-2]: BSG 922.111
 
 #### Art. 4
 
@@ -150,6 +152,12 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Februar 1996 in Kraft.
+
+## T1 Übergangsbestimmung der Änderung vom 07.09.2022
+
+#### Art. T1-1
+
+<sup>1</sup> Artikel 3 Absatz 1a ist ab dem 1. Dezember 2023 anwendbar.
 
 Bern, 22. November 1995
 

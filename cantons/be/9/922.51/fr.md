@@ -4,13 +4,12 @@ number: "922.51"
 title: "Ordonnance concernant la prévention et l'indemnisation des dommages causés par la faune sauvage *"
 short: Ordonnance sur les dommages causés par la faune sauvage; ODFS
 language: fr
-version: 2022-10-01
-valid_until: 2023-02-28
-version_adopted: 2022-08-24
+version: 2023-03-01
+version_adopted: 2022-09-07
 adopted: 1995-11-22
 in_force: 1996-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2665/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2708/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2665/pdf_file"
 
 (Ordonnance sur les dommages causés par la faune sauvage; ODFS)
 
-du 22.11.1995 (état au 01.10.2022)
+du 22.11.1995 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -59,10 +58,12 @@ arrête:
 
 <sup>1</sup> Le dommage causé à la forêt, aux cultures agricoles et aux animaux de rente par des animaux désignés par le droit fédéral est indemnisé équitablement, pour autant que l’exploitant lésé ou l’exploitante lésée a pris toutes les mesures raisonnablement exigibles pour prévenir des dommages causés par la faune sauvage.
 
+<sup>1a</sup> Dans les zones de plaine et des collines ainsi que dans les zones de montagne I et II au sens de l'article 1, alinéas 3 et 4 de l'ordonnance fédérale du 7 décembre 1998 sur le cadastre de la production agricole et la délimitation des zones (ordonnance sur les zones agricoles)[^3-1], le dommage causé par le loup est indemnisé équitablement, pour autant que l'exploitante lésée ou l'exploitant lésé ait pris toutes les mesures raisonnablement exigibles pour le prévenir.
+
 <sup>2</sup> Ne sont pas réparés
 
 - a les dommages mineurs dont l'estimation ne dépasse pas 100 francs;
-- b les dommages causés par des animaux contre lesquels la défense personnelle est autorisée conformément à l'article 8 de l’ordonnance du 26 février 2003 sur la chasse (OCh)[^3-1];
+- b les dommages causés par des animaux contre lesquels la défense personnelle est autorisée conformément à l'article 8 de l’ordonnance du 26 février 2003 sur la chasse (OCh)[^3-2];
 - c …
 - d les dommages dont l'importance et la cause ne peuvent plus être constatés;
 - e les dommages causés dans les exploitations d'horticulteurs ou d'horticultrices et dans les pépinières;
@@ -73,9 +74,10 @@ arrête:
 
 <sup>3</sup> Une contribution prélevée sur le Fonds pour les dommages causés par la faune sauvage peut être allouée dans les cas de rigueur, lors de dommages répétés causés également par des animaux dont la chasse est interdite.
 
-<sup>4</sup> Les dommages causés par le lynx, le castor, la loutre, l'aigle, l'ours ou le loup, doivent apparaître séparément.
+<sup>4</sup> Les dommages causés par le lynx, le castor, la loutre, l'aigle, l'ours, le loup ou le chacal doré doivent apparaître séparément.
 
-[^3-1]: RSB 922.111
+[^3-1]: RS [912.1](https://db.clex.ch/link/Bund/912.1/fr)
+[^3-2]: RSB 922.111
 
 #### Art. 4
 
@@ -150,6 +152,12 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> février 1996.
+
+## T1 Disposition transitoire et modification du 07.09.2022
+
+#### Art. T1-1
+
+<sup>1</sup> L'article 3, alinéa 1a est applicable à partir du 1<sup>er</sup> décembre 2023.
 
 Berne, le 22 novembre 1995
 
