@@ -4,13 +4,12 @@ number: "935.111"
 title: "Ordonnance sur l'hôtellerie et la restauration"
 short: OHR
 language: fr
-version: 2021-04-01
-valid_until: 2023-02-28
-version_adopted: 2021-02-17
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1994-04-13
 in_force: 1994-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2209/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2800/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2209/pdf_file"
 
 (OHR)
 
-du 13.04.1994 (état au 01.04.2021)
+du 13.04.1994 (état au 01.03.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -220,7 +219,7 @@ arrête:
 
 **Dépassements d'horaire à choisir librement par formulaire électronique**
 
-<sup>1</sup> Si un système électronique est disponible, celui-ci doit être privilégié pour demander un dépassement d'horaire à choisir librement.
+<sup>1</sup> Si un système électronique est disponible, celui-ci doit être utilisé pour demander un dépassement d'horaire à choisir librement. Sont exemptés les établissements qui ne disposent pas d'accès à Internet sur leur lieu d'implantation.
 
 <sup>2</sup> Le formulaire électronique doit être rempli et validé au plus tard à l'heure de fermeture.
 

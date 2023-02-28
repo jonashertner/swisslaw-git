@@ -4,13 +4,12 @@ number: "935.111"
 title: Gastgewerbeverordnung
 short: GGV
 language: de
-version: 2021-04-01
-valid_until: 2023-02-28
-version_adopted: 2021-02-17
+version: 2023-03-01
+version_adopted: 2023-01-11
 adopted: 1994-04-13
 in_force: 1994-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2209/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2800/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2209/pdf_file"
 
 (GGV)
 
-vom 13.04.1994 (Stand 01.04.2021)
+vom 13.04.1994 (Stand 01.03.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -216,7 +215,7 @@ beschliesst:
 
 **Frei wählbare Verlängerungen der Überzeit im elektronischen Verfahren**
 
-<sup>1</sup> Steht ein elektronisches System zur Verfügung, ist in erster Linie dieses für die frei wählbaren Verlängerungen zu nutzen.
+<sup>1</sup> Steht ein elektronisches System zur Verfügung, ist es für die frei wählbaren Verlängerungen zu nutzen. Davon ausgenommen sind Betriebe, an deren Standort kein Internetzugang besteht.
 
 <sup>2</sup> Das elektronische Formular muss spätestens zur Polizeistunde ausgefüllt und freigegeben sein.
 
